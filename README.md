@@ -15,9 +15,9 @@
 ### Hi, there   :metal:
 
 I'm Yury. Student at the Belarusian State University of Informatics and Radioelectronics, faculty - computer systems and networks,
-speciality - information technology software. <br>
+speciality - information technology software :feelsgood:. <br>
 
-Because I'm learning and trying to gain experience, my GitHub is open to anyone who would like to do a code review :pencil: and give helpful advice :+1: or well-deserved criticism :-1:.
+<!-- Because I'm learning and trying to gain experience, my GitHub is open to anyone who would like to do a code review :pencil: and give helpful advice :+1: or well-deserved criticism :-1:. -->
 ***
 </details>
 
