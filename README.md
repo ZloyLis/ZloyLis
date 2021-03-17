@@ -25,7 +25,9 @@ speciality - information technology software :feelsgood:. <br>
 
 [![vk](https://img.shields.io/badge/VKontakte-profile-informational?logo=vk&style=flat&logoColor=white&color=informational)](https://vk.com/zloylis)
 [![fb](https://img.shields.io/badge/Facebook-profile-informational?logo=facebook&style=flat&logoColor=white&color=informational)](https://www.facebook.com/zIoylis)
-[![codepen](https://img.shields.io/badge/CodePen-profile-informational?logo=codepen&style=flat&color=informational)](https://codepen.io/zloylis) <br>
+[![codepen](https://img.shields.io/badge/CodePen-profile-informational?logo=codepen&style=flat&color=informational)](https://codepen.io/zloylis)
+![Watch](https://img.shields.io/github/watchers/zloylis/zloylis?color=informational&label=Watch&logo=github)
+<br> <br>
 
 ***
 
