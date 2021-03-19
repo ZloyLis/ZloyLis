@@ -44,10 +44,10 @@ speciality - information technology software :feelsgood:. <br>
 ![C++](https://img.shields.io/badge/Code-C++-informational?logo=c%2B%2B&style=flat&logoColor=white&color=lightgrey)
 ![JS](https://img.shields.io/badge/Code-JavaScript-informational?logo=javaScript&style=flat&logoColor=white&color=lightgrey)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?logo=html5&style=flat&logoColor=white&color=lightgrey) <br>
-![React](https://img.shields.io/badge/Code-React-informational?logo=React&style=flat&logoColor=white&color=lightgrey)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?logo=php&style=flat&logoColor=white&color=lightgrey)
-![WebPAck](https://img.shields.io/badge/Code-WebPack-informational?logo=webPack&style=flat&logoColor=white&color=lightgrey)
 ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?logo=mySQL&style=flat&logoColor=white&color=lightgrey)
+![React](https://img.shields.io/badge/Code-React-informational?logo=React&style=flat&logoColor=white&color=lightgrey)
+![WebPAck](https://img.shields.io/badge/Code-WebPack-informational?logo=webPack&style=flat&logoColor=white&color=lightgrey)
 <br><br>
 ![CSS3](https://img.shields.io/badge/Style-CSS3-informational?logo=css3&style=flat&logoColor=white&color=lightgrey)
 ![Sass](https://img.shields.io/badge/Style-Saas-informational?logo=sass&style=flat&logoColor=white&color=lightgrey)
