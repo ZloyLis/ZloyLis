@@ -31,9 +31,9 @@ speciality - information technology software :feelsgood:. <br>
 
 ***
 
-<!-- <a href="https://github.com/zloylis?tab=repositories">
+<a href="https://github.com/zloylis?tab=repositories">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/?username=zloylis&show_icons=true&title_color=9f9f9f&icon_color=9f9f9f&text_color=99d1ce&bg_color=36393f&count_private=true&include_all_commits=true&hide_border=true&&custom_title=Yury's GitHub Stats&hide=prs&line_height=24" />
-</a> -->
+</a>
 <a href="https://github.com/zloylis?tab=repositories">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zloylis&layout=compact&hide_border=true&bg_color=36393f&title_color=9f9f9f&icon_color=9f9f9f&text_color=99d1ce" /a>
 </a>
