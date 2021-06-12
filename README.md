@@ -1,34 +1,11 @@
-### Привет!  :metal:
-
-Я - Юрий. Студент Белорусского государственного университета информатики и радиоэлектроники, учусь на факультете "Компьютерные cистемы и cети",
-по специальности "Программное обеспечение информационных технологий", будущий инженер-программист :feelsgood:. <br>
-
-<!-- Так как я учусь и стараюсь набраться опыта, мой GitHub открыт для тех, кто не против провести кодревью :pencil: и дать полезные советы :+1: или заслуженную критику:-1:. -->
-<br>
-
-
-
-<details> 
-  <summary>Read English</summary>
-
-***
-### Hi, there   :metal:
-
-I'm Yury. Student at the Belarusian State University of Informatics and Radioelectronics, faculty - computer systems and networks,
-speciality - information technology software :feelsgood:. <br>
-
-<!-- Because I'm learning and trying to gain experience, my GitHub is open to anyone who would like to do a code review :pencil: and give helpful advice :+1: or well-deserved criticism :-1:. -->
-***
-</details>
-
-<br>
+### Привет! :metal:
 
 [![vk](https://img.shields.io/badge/VKontakte-profile-informational?logo=vk&style=flat&logoColor=white&color=informational)](https://vk.com/zloylis)
-[![fb](https://img.shields.io/badge/Facebook-profile-informational?logo=facebook&style=flat&logoColor=white&color=informational)](https://www.facebook.com/zIoylis)
 [![codepen](https://img.shields.io/badge/CodePen-profile-informational?logo=codepen&style=flat&color=informational)](https://codepen.io/zloylis)
-<!-- ![Watch](https://img.shields.io/github/watchers/zloylis/zloylis?color=informational&label=Watch&logo=github) -->
 ![codewars](https://www.codewars.com/users/ZloyLis/badges/micro)
-<br> <br>
+<!--[![fb](https://img.shields.io/badge/Facebook-profile-informational?logo=facebook&style=flat&logoColor=white&color=informational)](https://www.facebook.com/zIoylis)-->
+<!-- ![Watch](https://img.shields.io/github/watchers/zloylis/zloylis?color=informational&label=Watch&logo=github) -->
+
 
 ***
 
@@ -41,8 +18,8 @@ speciality - information technology software :feelsgood:. <br>
 
 ***
 
-![Java](https://img.shields.io/badge/Code-Java-informational?logo=java&style=flat&logoColor=white&color=lightgrey)
 ![C++](https://img.shields.io/badge/Code-C++-informational?logo=c%2B%2B&style=flat&logoColor=white&color=lightgrey)
+![Java](https://img.shields.io/badge/Code-Java-informational?logo=java&style=flat&logoColor=white&color=lightgrey)
 ![JS](https://img.shields.io/badge/Code-JavaScript-informational?logo=javaScript&style=flat&logoColor=white&color=lightgrey)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?logo=html5&style=flat&logoColor=white&color=lightgrey) <br>
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?logo=php&style=flat&logoColor=white&color=lightgrey)
