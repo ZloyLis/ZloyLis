@@ -1,6 +1,6 @@
 [![vk](https://img.shields.io/badge/VKontakte-profile-informational?logo=vk&style=flat&logoColor=white&color=informational)](https://vk.com/zloylis)
 [![codepen](https://img.shields.io/badge/CodePen-profile-informational?logo=codepen&style=flat&color=informational)](https://codepen.io/zloylis)
-![codewars](https://www.codewars.com/users/ZloyLis/badges/micro)
+<!--![codewars](https://www.codewars.com/users/ZloyLis/badges/micro) -->
 <!--[![fb](https://img.shields.io/badge/Facebook-profile-informational?logo=facebook&style=flat&logoColor=white&color=informational)](https://www.facebook.com/zIoylis)-->
 <!-- ![Watch](https://img.shields.io/github/watchers/zloylis/zloylis?color=informational&label=Watch&logo=github) -->
 
