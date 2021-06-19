@@ -15,7 +15,7 @@
 </a>
 
 ***
-
+<!--
 ![C++](https://img.shields.io/badge/Code-C++-informational?logo=c%2B%2B&style=flat&logoColor=white&color=lightgrey)
 ![Java](https://img.shields.io/badge/Code-Java-informational?logo=java&style=flat&logoColor=white&color=lightgrey)
 ![JS](https://img.shields.io/badge/Code-JavaScript-informational?logo=javaScript&style=flat&logoColor=white&color=lightgrey)
@@ -32,3 +32,4 @@
 ![Illustrator](https://img.shields.io/badge/Tools-Illustrator-informational?logo=Adobe-Illustrator&style=flat&logoColor=white&color=lightgrey)
 ![Adobe](https://img.shields.io/badge/Tools-Photoshop-informational?logo=Adobe-Photoshop&style=flat&logoColor=white&color=lightgrey)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?logo=GitHub&style=flat&logoColor=white&color=lightgrey)
+-->
