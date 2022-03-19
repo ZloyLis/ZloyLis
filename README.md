@@ -1,8 +1,8 @@
-### Работает? Не трогай.
+### It's working? Don't touch!
 
 ---
 
-#### Language and tools:
+#### 🛠️ Language and tools:
 
 ![C++](https://img.shields.io/badge/C++-informational?logo=c%2B%2B&style=flat&logoColor=white&color=9C033A)
 ![Java](https://img.shields.io/badge/Java-informational?logo=java&style=flat&logoColor=white&color=007396)
