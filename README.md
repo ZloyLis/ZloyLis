@@ -25,4 +25,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 💫 DevOps для firmware https://habr.com/ru/post/656449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656449
+ - 💫 Моделирование упаковки с использованием API SolidWorks https://habr.com/ru/post/656439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656439
+ - 🌮 Motorola: история краха компании, которая создала первый мобильный телефон https://habr.com/ru/post/656413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656413
+ - 🚀 Скрытые друзья в плюсах https://habr.com/ru/post/656411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656411
+ - 💫 Разработка игры на Unity с нуля до релиза. Часть 3 https://habr.com/ru/post/656401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656401<!-- BLOG-POST-LIST:END -->
