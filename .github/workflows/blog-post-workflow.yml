@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://habr.com/ru/rss/feed/posts/all/af804a4462a4ffb9d13a95be2d95c7ab/?fl=ru"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) $title $description"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) $title"
