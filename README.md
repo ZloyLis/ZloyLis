@@ -2,7 +2,7 @@
 
 ---
 
-#### Language and tools:
+#### 🛠️ Technical stack:
 
 ![C++](https://img.shields.io/badge/C++-informational?logo=c%2B%2B&style=flat&logoColor=white&color=9C033A)
 ![Java](https://img.shields.io/badge/Java-informational?logo=java&style=flat&logoColor=white&color=007396)
@@ -25,5 +25,4 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
