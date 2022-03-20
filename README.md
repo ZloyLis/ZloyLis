@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто такой Thread Pool и как его написать своими руками на С++](https://habr.com/ru/post/656515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656515)
 - [Спортивное программирование: не все так просто, как кажется](https://habr.com/ru/post/656513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656513)
 - [Архитектура программного обеспечения ПЛК и дизайн операторской панели](https://habr.com/ru/post/656507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656507)
 - [DevOps для firmware](https://habr.com/ru/post/656449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656449)
 - [Моделирование упаковки с использованием API SolidWorks](https://habr.com/ru/post/656439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656439)
-- [Motorola: история краха компании, которая создала первый мобильный телефон](https://habr.com/ru/post/656413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656413)
 <!-- BLOG-POST-LIST:END -->
