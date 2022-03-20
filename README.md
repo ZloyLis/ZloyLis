@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание телеграм-бота &lpar;Spring Boot, Kafka, PostgreSQL&rpar;, часть вторая](https://habr.com/ru/post/656573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656573)
 - [Разбираем алгоритмы компьютерной графики. Часть 3 – анимация «Пламя»](https://habr.com/ru/post/656541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656541)
 - [Angular без CLI Туториал](https://habr.com/ru/post/656529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656529)
 - [Генерируем Rust обёртку для FMOD](https://habr.com/ru/post/656525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656525)
 - [Создание APP для самотестирования &lpar;Python&rpar;](https://habr.com/ru/post/656517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656517)
-- [Кто такой Thread Pool и как его написать своими руками на С++](https://habr.com/ru/post/656515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656515)
 <!-- BLOG-POST-LIST:END -->
