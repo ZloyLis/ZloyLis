@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 6 вещей на JavaScript, которые можно делать и нельзя](https://habr.com/ru/post/656583/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656583)
 - [Дайджест интересных материалов для мобильного разработчика #435 &lpar;14 — 20 марта&rpar;](https://habr.com/ru/post/656581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656581)
 - [Парсинг при помощи JAVA](https://habr.com/ru/post/656575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656575)
 - [Создание телеграм-бота &lpar;Spring Boot, Kafka, PostgreSQL&rpar;, часть вторая](https://habr.com/ru/post/656573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656573)
 - [Разбираем алгоритмы компьютерной графики. Часть 3 – анимация «Пламя»](https://habr.com/ru/post/656541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656541)
-- [Angular без CLI Туториал](https://habr.com/ru/post/656529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656529)
 <!-- BLOG-POST-LIST:END -->
