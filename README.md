@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разворачиваем Golang приложение в Kubernetes](https://habr.com/ru/post/656639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656639)
+- [Скрипт для скачивания coub&#39;ов](https://habr.com/ru/post/656629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656629)
 - [[Перевод] История: пишем скрипты на Go](https://habr.com/ru/post/656623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656623)
 - [Парсинг сайта с помощью PYTHON + SELENIUM](https://habr.com/ru/post/656609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656609)
-- [История появления профессии аналитика данных. Понятие данных, аналитика данных. Почему появились аналитики данных](https://habr.com/ru/post/656587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656587)
-- [[Перевод] NODE: Нейро-ансамбли решений с забыванием для глубокого обучения по табличным данным](https://habr.com/ru/post/655811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655811)
-- [Актуализация данных в списках Flutter-приложения](https://habr.com/ru/post/656297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656297)
+- [8 стереотипов, с которыми сталкиваются тестировщики](https://habr.com/ru/post/656595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656595)
 <!-- BLOG-POST-LIST:END -->
