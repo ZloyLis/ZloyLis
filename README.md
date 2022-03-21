@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java One day offer от Почтатеха](https://habr.com/ru/post/656643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656643)
+- [Архитектура на «микросервисах» в монолите: примеры из практики](https://habr.com/ru/post/656095/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656095)
 - [Разворачиваем Golang приложение в Kubernetes](https://habr.com/ru/post/656639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656639)
 - [Скрипт для скачивания coub&#39;ов](https://habr.com/ru/post/656629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656629)
 - [[Перевод] История: пишем скрипты на Go](https://habr.com/ru/post/656623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656623)
-- [Парсинг сайта с помощью PYTHON + SELENIUM](https://habr.com/ru/post/656609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656609)
-- [8 стереотипов, с которыми сталкиваются тестировщики](https://habr.com/ru/post/656595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656595)
 <!-- BLOG-POST-LIST:END -->
