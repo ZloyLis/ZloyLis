@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История появления профессии аналитика данных. Понятие данных, аналитика данных. Почему появились аналитики данных](https://habr.com/ru/post/656587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656587)
 - [[Перевод] NODE: Нейро-ансамбли решений с забыванием для глубокого обучения по табличным данным](https://habr.com/ru/post/655811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655811)
 - [Актуализация данных в списках Flutter-приложения](https://habr.com/ru/post/656297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656297)
 - [[Перевод] 6 вещей на JavaScript, которые можно делать и нельзя](https://habr.com/ru/post/656583/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656583)
 - [Дайджест интересных материалов для мобильного разработчика #435 &lpar;14 — 20 марта&rpar;](https://habr.com/ru/post/656581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656581)
-- [Парсинг при помощи JAVA](https://habr.com/ru/post/656575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656575)
 <!-- BLOG-POST-LIST:END -->
