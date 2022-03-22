@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [+250 новых вакансий](https://habr.com/ru/post/656765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656765)
+- [С 2 лет до 6 месяцев: как мы ускорили “доставку” почтового ПО в 4 раза](https://habr.com/ru/post/656791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656791)
 - [Математические аспекты хорошего кода](https://habr.com/ru/post/656773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656773)
 - [Что вижу, то и программирую](https://habr.com/ru/post/656759/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656759)
 - [Security Week 2212: взлом шифрования методом Ферма](https://habr.com/ru/post/656709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656709)
-- [Как писать на Objective-C в Linux &lpar;с использованиям системы сборки CMake и автодополнением&rpar;](https://habr.com/ru/post/656701/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656701)
-- [Изучаем язык ассемблера на примере TSR программы под MS-DOS. Часть 1](https://habr.com/ru/post/656657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656657)
 <!-- BLOG-POST-LIST:END -->
