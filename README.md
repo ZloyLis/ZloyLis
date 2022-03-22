@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отображение данных из подписанного ЭЦП PDF-файла в Joomla](https://habr.com/ru/post/656793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656793)
+- [Разбираем алгоритмы компьютерной графики. Часть 4 – Анимация «Салют»](https://habr.com/ru/post/656955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656955)
+- [Дополненная реальность в вебе с помощью технологии Model Viewer](https://habr.com/ru/post/656953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656953)
 - [Вышла Java 18](https://habr.com/ru/post/656937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656937)
 - [Восприятие цвета в интерфейсе: почему мы видим его по-разному](https://habr.com/ru/post/656933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656933)
-- [Метаморфозы Go: сможет ли язык одолеть Python и Java?](https://habr.com/ru/post/656925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656925)
-- [Оптимизируй, если сможешь: как мы рассчитываем спрос на подарки с помощью ML](https://habr.com/ru/post/656909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656909)
-- [OAuth в мобильных приложениях](https://habr.com/ru/post/654029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654029)
 <!-- BLOG-POST-LIST:END -->
