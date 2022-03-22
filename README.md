@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизируй, если сможешь: как мы рассчитываем спрос на подарки с помощью ML](https://habr.com/ru/post/656909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656909)
+- [OAuth в мобильных приложениях](https://habr.com/ru/post/654029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654029)
 - [[Перевод] Обновление Node.js](https://habr.com/ru/post/656899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656899)
 - [Отчёт с митапа: PostgreSQL-as-Service — можем, умеем, практикуем](https://habr.com/ru/post/653521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653521)
 - [Recoil JS – новый store manager для React](https://habr.com/ru/post/656839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656839)
-- [Гуманитарии в IT: теория и реальность](https://habr.com/ru/post/656727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656727)
-- [Как составлять CV для международных компаний](https://habr.com/ru/post/656819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656819)
 <!-- BLOG-POST-LIST:END -->
