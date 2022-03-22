@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [В кризис переход на ЭДО необходим: дорогая бумага и кадровый поток](https://habr.com/ru/post/656853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656853)
 - [Отчёт с митапа: PostgreSQL-as-Service — можем, умеем, практикуем](https://habr.com/ru/post/653521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653521)
 - [Recoil JS – новый store manager для React](https://habr.com/ru/post/656839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656839)
 - [Гуманитарии в IT: теория и реальность](https://habr.com/ru/post/656727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656727)
 - [Как составлять CV для международных компаний](https://habr.com/ru/post/656819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656819)
+- [«Разработчики не делают простых ошибок» на примере сортировок в Unity, ASP.NET Core и не только](https://habr.com/ru/post/656815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656815)
 <!-- BLOG-POST-LIST:END -->
