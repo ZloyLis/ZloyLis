@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как написать решатель «Пятнашек» на C#](https://habr.com/ru/post/655629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655629)
 - [C из Python &lpar;ctypes&rpar; на Android](https://habr.com/ru/post/656453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656453)
 - [Как я занял третье место в конкурсе Telegram и выиграл $ 2 000](https://habr.com/ru/post/657067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657067)
 - [Проверка ценников в магазине с помощью YOLOv4-Tiny+EasyOCR](https://habr.com/ru/post/657031/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657031)
 - [Разработчик в стране Serverless: разворачиваем БД &lpar;Часть 2&rpar;](https://habr.com/ru/post/656695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656695)
-- [Эволюция архитектуры Авито, или Как мы монолит в Kubernetes затолкали](https://habr.com/ru/post/650593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=650593)
 <!-- BLOG-POST-LIST:END -->
