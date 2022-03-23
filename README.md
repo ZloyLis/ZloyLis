@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [N &lpar;Насти&rpar; алгоритм](https://habr.com/ru/post/656999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656999)
 - [Создание телеграм-бота &lpar;Spring Boot, Kafka, PostgreSQL&rpar;, часть вторая](https://habr.com/ru/post/656969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656969)
 - [Отображение данных из подписанного ЭЦП PDF-файла в Joomla](https://habr.com/ru/post/656793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656793)
 - [Разбираем алгоритмы компьютерной графики. Часть 4 – Анимация «Салют»](https://habr.com/ru/post/656955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656955)
 - [Вышла Java 18](https://habr.com/ru/post/656937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656937)
-- [Восприятие цвета в интерфейсе: почему мы видим его по-разному](https://habr.com/ru/post/656933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656933)
 <!-- BLOG-POST-LIST:END -->
