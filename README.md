@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Joomla 4: классы JText и Text. Из неопубликованного](https://habr.com/ru/post/657009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657009)
 - [[Перевод] WebRTC для всех и каждого. Часть 1](https://habr.com/ru/post/656947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656947)
 - [Визуализация данных с помощью веб-фреймворка Dash &lpar;часть 2&rpar;](https://habr.com/ru/post/656621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656621)
 - [N &lpar;Насти&rpar; алгоритм](https://habr.com/ru/post/656999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656999)
 - [Создание телеграм-бота &lpar;Spring Boot, Kafka, PostgreSQL&rpar;, часть вторая](https://habr.com/ru/post/656969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656969)
-- [Отображение данных из подписанного ЭЦП PDF-файла в Joomla](https://habr.com/ru/post/656793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656793)
 <!-- BLOG-POST-LIST:END -->
