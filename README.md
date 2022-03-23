@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция архитектуры Авито, или Как мы монолит в Kubernetes затолкали](https://habr.com/ru/post/650593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=650593)
+- [[Перевод] Как в PayPal разработали Dione — Open-source-библиотеку индексирования данных для HDFS и Spark](https://habr.com/ru/post/656777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656777)
 - [Joomla 4: классы JText и Text. Из неопубликованного](https://habr.com/ru/post/657009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657009)
 - [[Перевод] WebRTC для всех и каждого. Часть 1](https://habr.com/ru/post/656947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656947)
 - [Визуализация данных с помощью веб-фреймворка Dash &lpar;часть 2&rpar;](https://habr.com/ru/post/656621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656621)
-- [N &lpar;Насти&rpar; алгоритм](https://habr.com/ru/post/656999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656999)
-- [Создание телеграм-бота &lpar;Spring Boot, Kafka, PostgreSQL&rpar;, часть вторая](https://habr.com/ru/post/656969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656969)
 <!-- BLOG-POST-LIST:END -->
