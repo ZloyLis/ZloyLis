@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я занял третье место в конкурсе Telegram и выиграл $ 2 000](https://habr.com/ru/post/657067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657067)
 - [Проверка ценников в магазине с помощью YOLOv4-Tiny+EasyOCR](https://habr.com/ru/post/657031/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657031)
 - [Разработчик в стране Serverless: разворачиваем БД &lpar;Часть 2&rpar;](https://habr.com/ru/post/656695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656695)
 - [Эволюция архитектуры Авито, или Как мы монолит в Kubernetes затолкали](https://habr.com/ru/post/650593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=650593)
 - [[Перевод] Как в PayPal разработали Dione — Open-source-библиотеку индексирования данных для HDFS и Spark](https://habr.com/ru/post/656777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656777)
-- [Joomla 4: классы JText и Text. Из неопубликованного](https://habr.com/ru/post/657009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657009)
 <!-- BLOG-POST-LIST:END -->
