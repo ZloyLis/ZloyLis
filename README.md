@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BIK Beep – Telegram Bot](https://habr.com/ru/post/657329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657329)
+- [Как прогнозировать временные ряды с ETNA](https://habr.com/ru/post/657297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657297)
+- [Использование мониторинга Zabbix в малом офисе с инфраструктурой на ОС Windows](https://habr.com/ru/post/657105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657105)
 - [Асинхронная обработка данных &lpar;анализ поведения&rpar;](https://habr.com/ru/post/657313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657313)
 - [[Перевод] Игры для MS-DOS с открытым исходным кодом](https://habr.com/ru/post/657281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657281)
-- [[Перевод] Java в Visual Studio Code: обновление за февраль](https://habr.com/ru/post/654255/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654255)
-- [Как я визуализировал граф билда. Build Graph for Xcode](https://habr.com/ru/post/657007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657007)
-- [[Перевод] Android 13, 13 лучших функций в новых обновлениях](https://habr.com/ru/post/657263/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657263)
 <!-- BLOG-POST-LIST:END -->
