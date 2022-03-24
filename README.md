@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Через этот инструмент мы настраиваем всё»: как работает Ansible в департаменте DMP X5 Group](https://habr.com/ru/post/657217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657217)
+- [Как создавать собственные библиотеки элементов](https://habr.com/ru/post/656929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656929)
 - [24 часа без интернета: а вам слабо?](https://habr.com/ru/post/657139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657139)
 - [Как начать писать программный код Си в ОС Linux &lpar;Руководство для совсем начинающих&rpar;](https://habr.com/ru/post/657209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657209)
 - [Работаем над ошибками, чтобы не приходилось краснеть после релизов](https://habr.com/ru/post/657051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657051)
-- [Чем хороший программист отличается от плохого, или почему нужно выходить за рамки](https://habr.com/ru/post/656979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656979)
-- [[Перевод] Как написать решатель «Пятнашек» на C#](https://habr.com/ru/post/655629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655629)
 <!-- BLOG-POST-LIST:END -->
