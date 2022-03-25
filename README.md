@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache NLPCraft, подготовка к выходу мультиязычной версии 1.0](https://habr.com/ru/post/657343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657343)
+- [Универсальный чарт для ваших приложений](https://habr.com/ru/post/657359/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657359)
+- [Sliver во Flutter, или как работает скролл](https://habr.com/ru/post/657215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657215)
 - [Туториал: HTTPs запросы с iOS и Android девайсов не расшифровываются в Fiddler](https://habr.com/ru/post/657349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657349)
 - [BIK Beep – Telegram Bot](https://habr.com/ru/post/657329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657329)
-- [Как прогнозировать временные ряды с ETNA](https://habr.com/ru/post/657297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657297)
-- [Использование мониторинга Zabbix в малом офисе с инфраструктурой на ОС Windows](https://habr.com/ru/post/657105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657105)
-- [Асинхронная обработка данных &lpar;анализ поведения&rpar;](https://habr.com/ru/post/657313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657313)
 <!-- BLOG-POST-LIST:END -->
