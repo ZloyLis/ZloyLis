@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как устроены облачные сети и чем они отличаются от On-premise](https://habr.com/ru/post/656797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656797)
+- [Пять критериев неэффективной базы знаний и как всё исправить](https://habr.com/ru/post/657273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657273)
+- [Азбука блокчейна: протоколы и алгоритмы консенсуса](https://habr.com/ru/post/657413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657413)
+- [Работа в Highload командах 1С сейчас: Java/С++/ C#/TS/JS  Hiring day](https://habr.com/ru/post/657411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657411)
 - [Module Federation: простая загрузка динамических модулей](https://habr.com/ru/post/653047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653047)
-- [Сага о моделировании бизнес-процессов на базе конечного автомата &lpar;fsm&rpar;](https://habr.com/ru/post/657373/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657373)
-- [[Перевод] Сеть данных: как уравновесить централизацию и децентрализацию](https://habr.com/ru/post/657351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657351)
-- [Apache NLPCraft, подготовка к выходу мультиязычной версии 1.0](https://habr.com/ru/post/657343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657343)
-- [Универсальный Helm-чарт для ваших приложений](https://habr.com/ru/post/657359/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657359)
 <!-- BLOG-POST-LIST:END -->
