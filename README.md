@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker: заметки веб-разработчика. Итерация четвертая](https://habr.com/ru/post/657361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657361)
+- [[Перевод] Как избавиться от организационного долга](https://habr.com/ru/post/657439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657439)
 - [Как устроены облачные сети и чем они отличаются от On-premise](https://habr.com/ru/post/656797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656797)
 - [Пять критериев неэффективной базы знаний и как всё исправить](https://habr.com/ru/post/657273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657273)
 - [Азбука блокчейна: протоколы и алгоритмы консенсуса](https://habr.com/ru/post/657413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657413)
-- [Работа в Highload командах 1С сейчас: Java/С++/ C#/TS/JS  Hiring day](https://habr.com/ru/post/657411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657411)
-- [Module Federation: простая загрузка динамических модулей](https://habr.com/ru/post/653047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653047)
 <!-- BLOG-POST-LIST:END -->
