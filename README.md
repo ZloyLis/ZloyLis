@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы работы отечественных МК 1986ВЕ1Т с болгарскими отладчиками OLIMEX ARM-USB-OCD-H. Часть 2 — RAM &amp;amp; Interruptions](https://habr.com/ru/post/657533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657533)
 - [Критикую bug bounty программу Apple и наглядно показываю почему не стоит туда репортить баги](https://habr.com/ru/post/657575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657575)
 - [[Перевод] Обработка данных криптовалютного рынка в RavenDB с использованием временных рядов](https://habr.com/ru/post/657353/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657353)
 - [[Перевод] Дженерики в PHP](https://habr.com/ru/post/657423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657423)
 - [Гусеница на Unity за 5 минут](https://habr.com/ru/post/657537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657537)
-- [Рабочий шаблон архитектурного решения](https://habr.com/ru/post/651765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=651765)
 <!-- BLOG-POST-LIST:END -->
