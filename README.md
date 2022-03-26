@@ -28,6 +28,6 @@ ___
 - [Экономическая модель для ММО](https://habr.com/ru/post/657603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657603)
 - [Разбираем алгоритмы компьютерной графики. Часть 5 – Анимация «Shade Bobs»](https://habr.com/ru/post/657591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657591)
 - [Основы работы отечественных МК 1986ВЕ1Т с болгарскими отладчиками OLIMEX ARM-USB-OCD-H. Часть 2 — RAM &amp;amp; Interruptions](https://habr.com/ru/post/657533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657533)
-- [Критикую bug bounty программу Apple и наглядно показываю почему не стоит туда репортить баги](https://habr.com/ru/post/657575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657575)
+- [Критикую bug bounty программу Apple и наглядно показываю, почему не стоит туда репортить баги](https://habr.com/ru/post/657575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657575)
 - [[Перевод] Обработка данных криптовалютного рынка в RavenDB с использованием временных рядов](https://habr.com/ru/post/657353/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657353)
 <!-- BLOG-POST-LIST:END -->
