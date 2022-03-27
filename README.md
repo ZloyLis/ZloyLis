@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Погружаемся в CSS: как использовать :where &lpar;&rpar;](https://habr.com/ru/post/657651/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657651)
+- [[Перевод] Необычная Java: StackTrace Extends Throwable](https://habr.com/ru/post/655259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655259)
 - [Кто такие аналитики в IT и чем они занимаются](https://habr.com/ru/post/657649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657649)
 - [[Перевод] Как Kubernetes создает и запускает контейнеры: Иллюстрированное руководство](https://habr.com/ru/post/657641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657641)
 - [[Перевод] 10 способов поменять местами два значения в JavaScript](https://habr.com/ru/post/657625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657625)
-- [Firefox OS снова в строю. Ну, почти — встречаем Capyloon, новую инкарнацию операционной системы от Mozilla](https://habr.com/ru/post/653803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653803)
-- [Экономическая модель для ММО](https://habr.com/ru/post/657603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657603)
 <!-- BLOG-POST-LIST:END -->
