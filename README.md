@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест интересных материалов для мобильного разработчика #436 &lpar;21 — 27 марта&rpar;](https://habr.com/ru/post/657665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657665)
 - [[Перевод] Погружаемся в CSS: как использовать :where &lpar;&rpar;](https://habr.com/ru/post/657651/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657651)
 - [[Перевод] Необычная Java: StackTrace Extends Throwable](https://habr.com/ru/post/655259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655259)
 - [Кто такие аналитики в IT и чем они занимаются](https://habr.com/ru/post/657649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657649)
 - [[Перевод] Как Kubernetes создает и запускает контейнеры: Иллюстрированное руководство](https://habr.com/ru/post/657641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657641)
-- [[Перевод] 10 способов поменять местами два значения в JavaScript](https://habr.com/ru/post/657625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657625)
 <!-- BLOG-POST-LIST:END -->
