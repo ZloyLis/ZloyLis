@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JPA-Buddy — избавляемся от рутины. Практические кейсы](https://habr.com/ru/post/657379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657379)
 - [3 совета по удобным интерфейсам за март](https://habr.com/ru/post/657683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657683)
 - [Учим модели определять мошенников](https://habr.com/ru/post/657403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657403)
 - [Как дизайнеру провести UX-исследование в одиночку, без бюджета и опыта](https://habr.com/ru/post/657699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657699)
 - [Загадки быстрого преобразования Фурье](https://habr.com/ru/post/656133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656133)
-- [Сортировка массивов фиксированной длины с применением SIMD](https://habr.com/ru/post/657687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657687)
 <!-- BLOG-POST-LIST:END -->
