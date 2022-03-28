@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ЗАГАДКИ БЫСТРОГО ПРЕОБРАЗОВАНИЯ ФУРЬЕ](https://habr.com/ru/post/656133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656133)
+- [Учим модели определять мошенников](https://habr.com/ru/post/657403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657403)
+- [Как дизайнеру провести UX-исследование в одиночку, без бюджета и опыта](https://habr.com/ru/post/657699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657699)
+- [Загадки быстрого преобразования Фурье](https://habr.com/ru/post/656133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656133)
 - [Сортировка массивов фиксированной длины с применением SIMD](https://habr.com/ru/post/657687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657687)
 - [Структурные преобразования систем автоматического регулирования](https://habr.com/ru/post/654673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654673)
-- [Атака «Браузер внутри браузера». Как защититься](https://habr.com/ru/post/657679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657679)
-- [База данных с 1 трлн записей и опыт использования сопоставленных в памяти файлов](https://habr.com/ru/post/657675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657675)
 <!-- BLOG-POST-LIST:END -->
