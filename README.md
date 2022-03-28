@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram-бот на страже порядка в Redmine](https://habr.com/ru/post/657863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657863)
 - [Security Week 2213: взлет и падение группировки LAPSUS$](https://habr.com/ru/post/657839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657839)
 - [На пути к дизайн-системе: как мы сделали визуал и разработку почти единым целым](https://habr.com/ru/post/657767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657767)
 - [Номинация: Худший способ сформировать URL строку в Golang](https://habr.com/ru/post/657277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657277)
 - [[Перевод] Почему разработчики любят Bulma?](https://habr.com/ru/post/657753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657753)
-- [Оригинальный список малвари, шифровальщиков и прочего в open source проектах](https://habr.com/ru/post/657749/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657749)
 <!-- BLOG-POST-LIST:END -->
