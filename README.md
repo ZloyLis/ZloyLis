@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На пути к дизайн-системе: как мы сделали визуал и разработку почти единым целым](https://habr.com/ru/post/657767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657767)
+- [Номинация: Худший способ сформировать URL строку в Golang](https://habr.com/ru/post/657277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657277)
+- [[Перевод] Почему разработчики любят Bulma?](https://habr.com/ru/post/657753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657753)
+- [Оригинальный список малвари, шифровальщиков и прочего в open source проектах](https://habr.com/ru/post/657749/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657749)
 - [Еще немного о GraphQL и зачем его использовать](https://habr.com/ru/post/657739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657739)
-- [«Вникать в проект и не сдаваться»: 5 советов новичкам в Ansible](https://habr.com/ru/post/657727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657727)
-- [JPA-Buddy — избавляемся от рутины. Практические кейсы](https://habr.com/ru/post/657379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657379)
-- [3 совета по удобным интерфейсам за март](https://habr.com/ru/post/657683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657683)
-- [Учим модели определять мошенников](https://habr.com/ru/post/657403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657403)
 <!-- BLOG-POST-LIST:END -->
