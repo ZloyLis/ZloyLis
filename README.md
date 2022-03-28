@@ -26,7 +26,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Сортировка массивов фиксированной длины с применением SIMD](https://habr.com/ru/post/657687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657687)
-- [4. СТРУКТУРНЫЕ ПРЕОБРАЗОВАНИЯ СИСТЕМ АВТОМАТИЧЕСКОГО РЕГУЛИРОВАНИЯ &lpar;САР&rpar;](https://habr.com/ru/post/654673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654673)
+- [Структурные преобразования систем автоматического регулирования](https://habr.com/ru/post/654673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654673)
 - [Атака «Браузер внутри браузера». Как защититься](https://habr.com/ru/post/657679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657679)
 - [База данных с 1 трлн записей и опыт использования сопоставленных в памяти файлов](https://habr.com/ru/post/657675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657675)
 - [Дайджест интересных материалов для мобильного разработчика #436 &lpar;21 — 27 марта&rpar;](https://habr.com/ru/post/657665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657665)
