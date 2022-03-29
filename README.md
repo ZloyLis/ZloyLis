@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Профессиональный обман: как мы рассылаем фишинговые письма нашим клиентам](https://habr.com/ru/post/655795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655795)
+- [[Перевод] WebRTC для всех и каждого. Часть 2](https://habr.com/ru/post/657885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657885)
 - [Этапы погружения junior-разработчика](https://habr.com/ru/post/657713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657713)
 - [Telegram-бот на страже порядка в Redmine](https://habr.com/ru/post/657863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657863)
 - [Security Week 2213: взлет и падение группировки LAPSUS$](https://habr.com/ru/post/657839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657839)
-- [На пути к дизайн-системе: как мы сделали визуал и разработку почти единым целым](https://habr.com/ru/post/657767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657767)
-- [Номинация: Худший способ сформировать URL строку в Golang](https://habr.com/ru/post/657277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657277)
 <!-- BLOG-POST-LIST:END -->
