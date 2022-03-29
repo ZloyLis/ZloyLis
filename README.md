@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Пробрасывание LTO-1 стримера по iSCSI, проблемы и решения](https://habr.com/ru/post/657691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657691)
 - [[Перевод] Пишем чистый код при помощи деструктуризации объектов в JavaScript](https://habr.com/ru/post/658007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658007)
 - [Об 1С для программистов, или Натягиваем сову на глобус](https://habr.com/ru/post/657991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657991)
 - [Grafana и автотесты: учимся измерять работу тестов](https://habr.com/ru/post/657933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657933)
 - [[Перевод] Дженерики в Go — подробности из блога разработчиков](https://habr.com/ru/post/657853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657853)
-- [Как сохранять историю процессов в Camunda без вреда для них](https://habr.com/ru/post/657969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657969)
 <!-- BLOG-POST-LIST:END -->
