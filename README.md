@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтернатива MapReduce при поиске в распределенной БД](https://habr.com/ru/post/657789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657789)
 - [Применение Propensity Score Adjustment для коррекции смещений в онлайн-панелях](https://habr.com/ru/post/657827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657827)
 - [Как работать со смещениями онлайн-панелей: методы и ML-алгоритмы коррекции](https://habr.com/ru/post/657813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657813)
 - [[Перевод] WebRTC для всех и каждого. Часть 2](https://habr.com/ru/post/657885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657885)
 - [Этапы погружения junior-разработчика](https://habr.com/ru/post/657713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657713)
-- [Telegram-бот на страже порядка в Redmine](https://habr.com/ru/post/657863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657863)
 <!-- BLOG-POST-LIST:END -->
