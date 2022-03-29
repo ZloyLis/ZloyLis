@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [#1 Дайджест материалов для QA инженера&lpar;12 Марта — 28 марта&rpar;](https://habr.com/ru/post/658055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658055)
 - [Разбираем алгоритмы компьютерной графики. Часть 6 — Анимация «Плазма»](https://habr.com/ru/post/658039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658039)
 - [Hawk — оpen source сервис для поиска ошибок в коде от специалистов ИТМО](https://habr.com/ru/post/657983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657983)
 - [[recovery mode] Пробрасывание LTO-1 стримера по iSCSI, проблемы и решения](https://habr.com/ru/post/657691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657691)
 - [[Перевод] Пишем чистый код при помощи деструктуризации объектов в JavaScript](https://habr.com/ru/post/658007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658007)
-- [Об 1С для программистов, или Натягиваем сову на глобус](https://habr.com/ru/post/657991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657991)
 <!-- BLOG-POST-LIST:END -->
