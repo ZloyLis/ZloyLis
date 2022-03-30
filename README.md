@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как выбрать хостинг для своего сайта](https://habr.com/ru/post/658207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658207)
+- [[Перевод] Сборка мусора в Java](https://habr.com/ru/post/658219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658219)
 - [[Перевод] Невидимый Javascript-бэкдор](https://habr.com/ru/post/658197/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658197)
 - [[recovery mode] Алгоритмы и рыбалка: как работает мозг программиста в естественной среде обитания](https://habr.com/ru/post/657689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657689)
 - [Как подключить рекламную монетизацию к приложениям для виртуальных ассистентов Салют](https://habr.com/ru/post/658149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658149)
