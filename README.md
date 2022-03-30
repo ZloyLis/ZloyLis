@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript редактор диаграмм, который открывает диаграммы из PNG картинок &lpar;open source&rpar;](https://habr.com/ru/post/658109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658109)
+- [Как работать с i18n в Nuxt.js](https://habr.com/ru/post/658105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658105)
 - [Динамические структуры в shared-памяти](https://habr.com/ru/post/658093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658093)
 - [#1 Дайджест материалов для QA инженера&lpar;12 Марта — 28 марта&rpar;](https://habr.com/ru/post/658055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658055)
 - [Разбираем алгоритмы компьютерной графики. Часть 6 — Анимация «Плазма»](https://habr.com/ru/post/658039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658039)
-- [Hawk — оpen source сервис для поиска ошибок в коде от специалистов ИТМО](https://habr.com/ru/post/657983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657983)
-- [[recovery mode] Пробрасывание LTO-1 стримера по iSCSI, проблемы и решения](https://habr.com/ru/post/657691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657691)
 <!-- BLOG-POST-LIST:END -->
