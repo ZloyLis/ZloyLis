@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Алгоритмы и рабылка: как работает мозг программиста в естественной среде обитания](https://habr.com/ru/post/657689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657689)
 - [Как подключить рекламную монетизацию к приложениям для виртуальных ассистентов Салют](https://habr.com/ru/post/658149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658149)
 - [Ключевые метрики: как мы рассчитывали RPS, а пришли к custdev](https://habr.com/ru/post/657857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657857)
 - [Паттерны асинхронных обменов на платформе Авито](https://habr.com/ru/post/655553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655553)
 - [AJAX: Шпаргалка по AJAX на jQuery](https://habr.com/ru/post/658139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658139)
-- [Ряд способов для передачи голоса на расстояние, с помощью ESP32/Arduino](https://habr.com/ru/post/656661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656661)
 <!-- BLOG-POST-LIST:END -->
