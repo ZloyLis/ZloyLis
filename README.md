@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AJAX: Шпаргалка по AJAX на jQuery](https://habr.com/ru/post/658139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658139)
+- [Ряд способов для передачи голоса на расстояние, с помощью ESP32/Arduino](https://habr.com/ru/post/656661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656661)
+- [Безопасное хранение secrets в Kubernetes](https://habr.com/ru/post/658123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658123)
+- [[Перевод] Docker Everything Bagel: как развернуть локальный стек данных](https://habr.com/ru/post/657207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657207)
 - [JavaScript редактор диаграмм, который открывает диаграммы из PNG картинок &lpar;open source&rpar;](https://habr.com/ru/post/658109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658109)
-- [Как работать с i18n в Nuxt.js](https://habr.com/ru/post/658105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658105)
-- [Динамические структуры в shared-памяти](https://habr.com/ru/post/658093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658093)
-- [#1 Дайджест материалов для QA инженера&lpar;12 Марта — 28 марта&rpar;](https://habr.com/ru/post/658055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658055)
-- [Разбираем алгоритмы компьютерной графики. Часть 6 — Анимация «Плазма»](https://habr.com/ru/post/658039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658039)
 <!-- BLOG-POST-LIST:END -->
