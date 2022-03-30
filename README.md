@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подключить рекламную монетизацию к приложениям для виртуальных ассистентов Салют](https://habr.com/ru/post/658149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658149)
+- [Ключевые метрики: как мы рассчитывали RPS, а пришли к custdev](https://habr.com/ru/post/657857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657857)
+- [Паттерны асинхронных обменов на платформе Авито](https://habr.com/ru/post/655553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655553)
 - [AJAX: Шпаргалка по AJAX на jQuery](https://habr.com/ru/post/658139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658139)
 - [Ряд способов для передачи голоса на расстояние, с помощью ESP32/Arduino](https://habr.com/ru/post/656661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656661)
-- [Безопасное хранение secrets в Kubernetes](https://habr.com/ru/post/658123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658123)
-- [[Перевод] Docker Everything Bagel: как развернуть локальный стек данных](https://habr.com/ru/post/657207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657207)
-- [JavaScript редактор диаграмм, который открывает диаграммы из PNG картинок &lpar;open source&rpar;](https://habr.com/ru/post/658109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658109)
 <!-- BLOG-POST-LIST:END -->
