@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Spring: Жизненный цикл бинов, методы init&lpar;&rpar; и destroy&lpar;&rpar;](https://habr.com/ru/post/658273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658273)
 - [Улучшаем комментарии с помощью плагина Comment Lint](https://habr.com/ru/post/658261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658261)
 - [Как написать первый запрос в SQL: открытый урок](https://habr.com/ru/post/658245/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658245)
 - [[Перевод] Java: отличия Map и HashMap](https://habr.com/ru/post/658237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658237)
 - [Material You и Jetpack Compose](https://habr.com/ru/post/658231/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658231)
-- [Как создать пирамиду из мороженки, если надежды нет](https://habr.com/ru/post/658183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658183)
 <!-- BLOG-POST-LIST:END -->
