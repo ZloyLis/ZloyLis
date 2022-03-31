@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как проверить данные во фрейме Pandas с помощью Pandera](https://habr.com/ru/post/658473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658473)
 - [Использование Gatling. Разбираемся в тестировании HTTP](https://habr.com/ru/post/658479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658479)
 - [«Чтобы сразу как надо, не переделывая». Зачем мы учили дизайнеров проводить исследования, и к чему это привело](https://habr.com/ru/post/653741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653741)
 - [Пошаговое руководство, как создать собственный Kubernetes оператор](https://habr.com/ru/post/658451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658451)
 - [Как улучшить любой патент на изобретение в IT, на примере Яндекса](https://habr.com/ru/post/658445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658445)
-- [Блокчейн в корпоративной архитектуре: дань моде или необходимость?](https://habr.com/ru/post/658447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658447)
 <!-- BLOG-POST-LIST:END -->
