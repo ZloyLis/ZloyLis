@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Чтобы сразу как надо, не переделывая». Зачем мы учили дизайнеров проводить исследования, и к чему это привело](https://habr.com/ru/post/653741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653741)
 - [Пошаговое руководство, как создать собственный Kubernetes оператор](https://habr.com/ru/post/658451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658451)
 - [Как улучшить любой патент на изобретение в IT, на примере Яндекса](https://habr.com/ru/post/658445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658445)
 - [Блокчейн в корпоративной архитектуре: дань моде или необходимость?](https://habr.com/ru/post/658447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658447)
 - [Нарративная математика](https://habr.com/ru/post/658443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658443)
-- [Инструкция: Как построить процесс доставки приложения в Kubernetes, используя gitlab ci и gitlab runner](https://habr.com/ru/post/658427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658427)
 <!-- BLOG-POST-LIST:END -->
