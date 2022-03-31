@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструкция: Как построить процесс доставки приложения в Kubernetes, используя gitlab ci и gitlab runner](https://habr.com/ru/post/658427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658427)
+- [Spring4Shell RCE — критичная уязвимость в Java Spring Framework](https://habr.com/ru/post/658421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658421)
 - [Нерешённые проблемы кибербезопасности в ML](https://habr.com/ru/post/658409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658409)
 - [VS Code portable,  делаем настоящую переносную сборку для Windows](https://habr.com/ru/post/658401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658401)
 - [Как нейронная сеть поддерживает репутацию бренда](https://habr.com/ru/post/658395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658395)
-- [Вспомним, как это было на DevOps&amp;amp;TechLead в прошлом году?](https://habr.com/ru/post/658363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658363)
-- [220 платежей в секунду: выдержать нельзя упасть](https://habr.com/ru/post/658233/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658233)
 <!-- BLOG-POST-LIST:END -->
