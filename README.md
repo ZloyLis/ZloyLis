@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем разработчику Agile-сертификация?](https://habr.com/ru/post/658331/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658331)
 - [Безопасная разработка и уязвимости программного кода](https://habr.com/ru/post/658319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658319)
 - [Справочники в iOS: храним, обновляем, используем](https://habr.com/ru/post/658257/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658257)
-- [Железные динозавры, или моя история путешествия во времени](https://habr.com/ru/post/658303/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658303)
 - [[Перевод] Как работать с числами с плавающей точкой в Python](https://habr.com/ru/post/658277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658277)
 - [[Перевод] Spring: Жизненный цикл бинов, методы init&lpar;&rpar; и destroy&lpar;&rpar;](https://habr.com/ru/post/658273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658273)
 <!-- BLOG-POST-LIST:END -->
