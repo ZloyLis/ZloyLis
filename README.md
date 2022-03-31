@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [220 платежей в секунду: выдержать нельзя упасть](https://habr.com/ru/post/658233/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658233)
+- [Чек-лист по SEO оптимизации для фронтенд разработчика](https://habr.com/ru/post/658351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658351)
+- [Как мы в QIWI внедряли Kotlin Multiplatform Mobile &lpar;KMM&rpar;](https://habr.com/ru/post/658275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658275)
 - [[recovery mode] Нейросети-кодеры: к чему готовиться программистам?](https://habr.com/ru/post/658347/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658347)
 - [Шорткаты для Xcode в виде Cheat sheet](https://habr.com/ru/post/658337/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658337)
-- [Зачем разработчику Agile-сертификация?](https://habr.com/ru/post/658331/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658331)
-- [Безопасная разработка и уязвимости программного кода](https://habr.com/ru/post/658319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658319)
-- [Справочники в iOS: храним, обновляем, используем](https://habr.com/ru/post/658257/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658257)
 <!-- BLOG-POST-LIST:END -->
