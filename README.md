@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] JavaScript: разрабатываем компилятор кода](https://habr.com/ru/post/658611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658611)
 - [Как построить систему аналитики на open-source — туториал по cube.js](https://habr.com/ru/post/658581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658581)
 - [Первые 255 задач на «‎литкоде»‎](https://habr.com/ru/post/658573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658573)
 - [«Меняем коней на переправе»: опыт замены компонентов Kubernetes на работающем кластере](https://habr.com/ru/post/653035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653035)
 - [Новое в Joomla 4.1](https://habr.com/ru/post/657647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657647)
-- [«Чиним» OpenApi в springdoc-open-api](https://habr.com/ru/post/658539/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658539)
 <!-- BLOG-POST-LIST:END -->
