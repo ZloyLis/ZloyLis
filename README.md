@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить систему аналитики на open-source — туториал по cube.js](https://habr.com/ru/post/658581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658581)
+- [Первые 255 задач на «‎литкоде»‎](https://habr.com/ru/post/658573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658573)
+- [«Меняем коней на переправе»: опыт замены компонентов Kubernetes на работающем кластере](https://habr.com/ru/post/653035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653035)
 - [Новое в Joomla 4.1](https://habr.com/ru/post/657647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657647)
 - [«Чиним» OpenApi в springdoc-open-api](https://habr.com/ru/post/658539/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658539)
-- [Кто был первым бизнес-аналитиком?](https://habr.com/ru/post/658523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658523)
-- [Забудьте о правилах: вредные советы для аналитиков, разработчиков и тестировщиков](https://habr.com/ru/post/658517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658517)
-- [[Перевод] Как проверить данные во фрейме Pandas с помощью Pandera](https://habr.com/ru/post/658473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658473)
 <!-- BLOG-POST-LIST:END -->
