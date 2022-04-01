@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [i18nano: локализация React приложений](https://habr.com/ru/post/658713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658713)
 - [Байесовский вывод и метод максимизации правдоподобия в задаче о бросках монетки](https://habr.com/ru/post/658707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658707)
 - [Авторизация пользователей в системе через сервер аутентификации Blitz Identity Provider &lpar;bitrix + slim + react&rpar;](https://habr.com/ru/post/658691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658691)
 - [Автоматизация рутины в финтехе: опыт Росбанка](https://habr.com/ru/post/658665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658665)
 - [Фидбек в UX или как вытащить на свет истину](https://habr.com/ru/post/658659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658659)
-- [Работа руководителя с людьми начинается задолго до найма и не заканчивается с уходом людей из команды](https://habr.com/ru/post/658015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658015)
 <!-- BLOG-POST-LIST:END -->
