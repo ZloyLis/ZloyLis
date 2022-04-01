@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация рутины в финтехе: опыт Росбанка](https://habr.com/ru/post/658665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658665)
+- [Фидбек в UX или как вытащить на свет истину](https://habr.com/ru/post/658659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658659)
+- [Работа руководителя с людьми начинается задолго до найма и не заканчивается с уходом людей из команды](https://habr.com/ru/post/658015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658015)
 - [Как оплачивать зарубежные сервисы?](https://habr.com/ru/post/658649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658649)
 - [Пет-проекты, которые зашли слишком далеко](https://habr.com/ru/post/658551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658551)
-- [[Перевод] Пошаговое развитие RESTful API](https://habr.com/ru/post/654413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654413)
-- [Настоящая* перегрузка операторов в JavaScript](https://habr.com/ru/post/658629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658629)
-- [Вопросы и ответы для собеседования Go-разработчика](https://habr.com/ru/post/658623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658623)
 <!-- BLOG-POST-LIST:END -->
