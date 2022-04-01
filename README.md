@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] JavaScript: разрабатываем компилятор кода](https://habr.com/ru/post/658611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658611)
-- [Как построить систему аналитики на open-source — туториал по cube.js](https://habr.com/ru/post/658581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658581)
-- [Первые 255 задач на «‎литкоде»‎](https://habr.com/ru/post/658573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658573)
-- [«Меняем коней на переправе»: опыт замены компонентов Kubernetes на работающем кластере](https://habr.com/ru/post/653035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653035)
-- [Новое в Joomla 4.1](https://habr.com/ru/post/657647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657647)
+- [Как оплачивать зарубежные сервисы?](https://habr.com/ru/post/658649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658649)
+- [Пет-проекты, которые зашли слишком далеко](https://habr.com/ru/post/658551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658551)
+- [[Перевод] Пошаговое развитие RESTful API](https://habr.com/ru/post/654413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654413)
+- [Настоящая* перегрузка операторов в JavaScript](https://habr.com/ru/post/658629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658629)
+- [Вопросы и ответы для собеседования Go-разработчика](https://habr.com/ru/post/658623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658623)
 <!-- BLOG-POST-LIST:END -->
