@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Из Excel в JSON. Универсальные методы для формирования тела запроса из Excel книги для API тестов &lpar;Java&rpar;](https://habr.com/ru/post/658763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658763)
 - [Реализуем подобие DMA на микроконтроллерах AVR](https://habr.com/ru/post/658735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658735)
 - [i18nano: локализация React приложений](https://habr.com/ru/post/658713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658713)
 - [Байесовский вывод и метод максимизации правдоподобия в задаче о бросках монетки](https://habr.com/ru/post/658707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658707)
 - [Авторизация пользователей в системе через сервер аутентификации Blitz Identity Provider &lpar;bitrix + slim + react&rpar;](https://habr.com/ru/post/658691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658691)
-- [Автоматизация рутины в финтехе: опыт Росбанка](https://habr.com/ru/post/658665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658665)
 <!-- BLOG-POST-LIST:END -->
