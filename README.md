@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что предложит новый протокол передачи данных](https://habr.com/ru/post/658715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658715)
+- [[iOS] Создаем кастомный лоадер &lpar;спиннер или UIActivityIndicator&rpar; в UIKit](https://habr.com/ru/post/658083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658083)
 - [С чего начать переход в «Индустрию 4.0» — бизнес-знания, данные и документооборот](https://habr.com/ru/post/658739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658739)
 - [OverScript — язык программирования, написанный на C#](https://habr.com/ru/post/656035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656035)
 - [[Перевод - recovery mode ] Java 8: гид по классу Optional](https://habr.com/ru/post/658457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658457)
-- [Rest шлюз для gRPC сервисов на го — gRPC-gateway](https://habr.com/ru/post/658769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658769)
-- [Из Excel в JSON. Универсальные методы для формирования тела запроса из Excel книги для API тестов &lpar;Java&rpar;](https://habr.com/ru/post/658763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658763)
 <!-- BLOG-POST-LIST:END -->
