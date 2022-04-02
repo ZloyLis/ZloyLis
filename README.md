@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Готовим rest шлюз для gRPC сервисов на го — gRPC-gateway](https://habr.com/ru/post/658769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658769)
+- [[Перевод - recovery mode ] Java 8: гид по классу Optional](https://habr.com/ru/post/658457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658457)
+- [Rest шлюз для gRPC сервисов на го — gRPC-gateway](https://habr.com/ru/post/658769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658769)
 - [Из Excel в JSON. Универсальные методы для формирования тела запроса из Excel книги для API тестов &lpar;Java&rpar;](https://habr.com/ru/post/658763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658763)
 - [Реализуем подобие DMA на микроконтроллерах AVR](https://habr.com/ru/post/658735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658735)
 - [i18nano: локализация React приложений](https://habr.com/ru/post/658713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658713)
-- [Байесовский вывод и метод максимизации правдоподобия в задаче о бросках монетки](https://habr.com/ru/post/658707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658707)
 <!-- BLOG-POST-LIST:END -->
