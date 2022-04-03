@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP Дайджест № 222/2 &lpar;22 февраля – 25 марта 2022&rpar;](https://habr.com/ru/post/657873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657873)
 - [[Перевод] Какой цикл самый быстрый в JavaScript?](https://habr.com/ru/post/658797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658797)
 - [Как я делал сайт визитку на Angular](https://habr.com/ru/post/658787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658787)
 - [Что предложит новый протокол передачи данных](https://habr.com/ru/post/658715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658715)
 - [[iOS] Создаем кастомный лоадер &lpar;спиннер или UIActivityIndicator&rpar; в UIKit](https://habr.com/ru/post/658083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658083)
-- [С чего начать переход в «Индустрию 4.0» — бизнес-знания, данные и документооборот](https://habr.com/ru/post/658739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658739)
 <!-- BLOG-POST-LIST:END -->
