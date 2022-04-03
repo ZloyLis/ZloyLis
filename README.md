@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome расширение — фильтр соцсетей](https://habr.com/ru/post/658867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658867)
 - [Встречайте UUID нового поколения для ключей высоконагруженных систем](https://habr.com/ru/post/658855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658855)
 - [Запуск фоновых задач в asp.net core](https://habr.com/ru/post/658847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658847)
 - [Дайджест интересных материалов для мобильного разработчика #437 &lpar;28 марта — 3 апреля&rpar;](https://habr.com/ru/post/658843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658843)
 - [[Перевод] Закон Кёрли: Делай что-то одно](https://habr.com/ru/post/658831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658831)
-- [Удивительное приключение в стране оптимизирующих компиляторов](https://habr.com/ru/post/658829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658829)
 <!-- BLOG-POST-LIST:END -->
