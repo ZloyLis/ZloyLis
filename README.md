@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест интересных материалов для мобильного разработчика #437 &lpar;28 марта — 3 апреля&rpar;](https://habr.com/ru/post/658843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658843)
 - [[Перевод] Закон Кёрли: Делай что-то одно](https://habr.com/ru/post/658831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658831)
 - [Удивительное приключение в стране оптимизирующих компиляторов](https://habr.com/ru/post/658829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658829)
 - [PHP Дайджест № 222/2 &lpar;22 февраля – 25 марта 2022&rpar;](https://habr.com/ru/post/657873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657873)
 - [[Перевод] Какой цикл самый быстрый в JavaScript?](https://habr.com/ru/post/658797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658797)
-- [Как я делал сайт визитку на Angular](https://habr.com/ru/post/658787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658787)
 <!-- BLOG-POST-LIST:END -->
