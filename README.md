@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проверяем защищённость приложения на Go: с чего начать](https://habr.com/ru/post/658569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658569)
+- [[Перевод] Может быть, вам следует меньше работать](https://habr.com/ru/post/658903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658903)
+- [[Перевод] Сокрытие и затемнение переменных в Java](https://habr.com/ru/post/658873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658873)
 - [Строковые алгоритмы на практике. Часть 1 — Алгоритм Кнута — Морриса — Пратта](https://habr.com/ru/post/658779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658779)
 - [Google Chrome расширение — фильтр соцсетей](https://habr.com/ru/post/658867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658867)
-- [Встречайте UUID нового поколения для ключей высоконагруженных систем](https://habr.com/ru/post/658855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658855)
-- [Запуск фоновых задач в asp.net core](https://habr.com/ru/post/658847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658847)
-- [Дайджест интересных материалов для мобильного разработчика #437 &lpar;28 марта — 3 апреля&rpar;](https://habr.com/ru/post/658843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658843)
 <!-- BLOG-POST-LIST:END -->
