@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Советы по проектированию интерфейса. Часть 1 — Гештальт](https://habr.com/ru/post/658851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658851)
 - [[Перевод] Предотвращение троттлинга процессора в контейнеризованной среде](https://habr.com/ru/post/658309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658309)
 - [4.04: День веб-мастера. Дело пахнет нафталином?](https://habr.com/ru/post/658821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658821)
 - [Q-Learning в сфере оптимизации бизнес-процессов](https://habr.com/ru/post/658909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658909)
 - [Проверяем защищённость приложения на Go: с чего начать](https://habr.com/ru/post/658569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658569)
-- [[Перевод] Может быть, вам следует меньше работать](https://habr.com/ru/post/658903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658903)
 <!-- BLOG-POST-LIST:END -->
