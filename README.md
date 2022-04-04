@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [300кк в наносекунду. 2 бесплатных лайва для начала карьеры во фронтенде](https://habr.com/ru/post/658989/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658989)
+- [[Перевод] Java Stream API на простых примерах](https://habr.com/ru/post/658999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658999)
+- [Easy android application for encryption/decryption](https://habr.com/ru/post/658993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658993)
 - [Security микросервисов с помощью Spring, OAuth2, JWT и Service Account](https://habr.com/ru/post/658973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658973)
 - [Warranty, utility, experience &lpar;CX/UX&rpar;](https://habr.com/ru/post/658953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658953)
 - [Советы по проектированию интерфейса. Часть 1 — Гештальт](https://habr.com/ru/post/658851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658851)
-- [[Перевод] Предотвращение троттлинга процессора в контейнеризованной среде](https://habr.com/ru/post/658309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658309)
 <!-- BLOG-POST-LIST:END -->
