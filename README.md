@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Heretic: простое решение для создания простых сайтов](https://habr.com/ru/post/659029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659029)
+- [Security Week 2214: готовые наборы для фишинга](https://habr.com/ru/post/659011/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659011)
 - [[Перевод] Java Stream API на простых примерах](https://habr.com/ru/post/658999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658999)
 - [Easy android application for encryption/decryption](https://habr.com/ru/post/658993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658993)
 - [Security микросервисов с помощью Spring, OAuth2, JWT и Service Account](https://habr.com/ru/post/658973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658973)
-- [Warranty, utility, experience &lpar;CX/UX&rpar;](https://habr.com/ru/post/658953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658953)
-- [Советы по проектированию интерфейса. Часть 1 — Гештальт](https://habr.com/ru/post/658851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658851)
 <!-- BLOG-POST-LIST:END -->
