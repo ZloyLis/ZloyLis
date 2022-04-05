@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 50 вопросов и ответов для собеседования по Swift в 2022 году](https://habr.com/ru/post/659169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659169)
-- [Как устроена аналитика в «Сравни»](https://habr.com/ru/post/658937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658937)
-- [Как защитить инфраструктуру от вредоноса в OpenSource-компонентах](https://habr.com/ru/post/659171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659171)
-- [Настройка аутентификации  SSO ArgoCD через Gitlab CI/CD](https://habr.com/ru/post/659137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659137)
-- [Из волков-одиночек в продуктовую стаю: как продакт-менеджер может мотивировать команду](https://habr.com/ru/post/658239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658239)
+- [[Перевод] Популярные расширения для VS Code 2022](https://habr.com/ru/post/659225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659225)
+- [[Перевод] Атака Ферма на RSA](https://habr.com/ru/post/659215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659215)
+- [Наиболее распространенные уязвимости в мобильных приложениях](https://habr.com/ru/post/658433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658433)
+- [Межкластерная репликация Apache Kafka между тремя дата-центрами](https://habr.com/ru/post/651503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=651503)
+- [Что там у PVS-Studio c покрытием Toyota ITC Benchmark?](https://habr.com/ru/post/659203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659203)
 <!-- BLOG-POST-LIST:END -->
