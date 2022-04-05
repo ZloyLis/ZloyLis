@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настройка аутентификации  SSO ArgoCD через Gitlab CI/CD](https://habr.com/ru/post/659137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659137)
+- [Из волков-одиночек в продуктовую стаю: как продакт-менеджер может мотивировать команду](https://habr.com/ru/post/658239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658239)
 - [8 ошибок, из-за которых ты проиграешь в соревновательном Data Science](https://habr.com/ru/post/659071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659071)
-- [23 апреля — бесплатная IT-конференция BeeTech Conf 2.0](https://habr.com/ru/post/658975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658975)
 - [Интеграционное тестирование микросервисов Spring Boot в монорепозитории](https://habr.com/ru/post/658393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658393)
 - [STM32. Про синус](https://habr.com/ru/post/659089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659089)
-- [Угнать за 5 миллисекунд: как мы наладили быструю доставку данных в сложной биржевой системе с помощью Tarantool](https://habr.com/ru/post/658251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658251)
 <!-- BLOG-POST-LIST:END -->
