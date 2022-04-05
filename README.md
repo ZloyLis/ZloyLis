@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграционное тестирование микросервисов Spring Boot в монорепозитории](https://habr.com/ru/post/658393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658393)
+- [STM32. Про синус](https://habr.com/ru/post/659089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659089)
 - [Угнать за 5 миллисекунд: как мы наладили быструю доставку данных в сложной биржевой системе с помощью Tarantool](https://habr.com/ru/post/658251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658251)
 - [[Перевод] 15 Open Source библиотек для повышения качества данных](https://habr.com/ru/post/659075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659075)
 - [Бизнес-правила и требования к системе](https://habr.com/ru/post/659045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659045)
-- [Копаемся в TypeScript: пишем свои Utility Types. Ключевое слово infer](https://habr.com/ru/post/659041/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659041)
-- [Heretic: простое решение для создания простых сайтов](https://habr.com/ru/post/659029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659029)
 <!-- BLOG-POST-LIST:END -->
