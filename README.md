@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управляем навигацией в iOS-приложениях. Паттерн координатор от СберМаркета](https://habr.com/ru/post/654339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654339)
 - [Flutter for Desktop — новый подход к разработке приложений](https://habr.com/ru/post/659159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659159)
 - [[Перевод] Популярные расширения для VS Code 2022](https://habr.com/ru/post/659225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659225)
 - [[Перевод] Атака Ферма на RSA](https://habr.com/ru/post/659215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659215)
 - [Наиболее распространенные уязвимости в мобильных приложениях](https://habr.com/ru/post/658433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658433)
-- [Межкластерная репликация Apache Kafka между тремя дата-центрами](https://habr.com/ru/post/651503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=651503)
 <!-- BLOG-POST-LIST:END -->
