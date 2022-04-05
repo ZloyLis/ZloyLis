@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 50 вопросов и ответов для собеседования по Swift в 2022 году](https://habr.com/ru/post/659169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659169)
+- [Как устроена аналитика в «Сравни»](https://habr.com/ru/post/658937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658937)
 - [Как защитить инфраструктуру от вредоноса в OpenSource-компонентах](https://habr.com/ru/post/659171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659171)
 - [Настройка аутентификации  SSO ArgoCD через Gitlab CI/CD](https://habr.com/ru/post/659137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659137)
 - [Из волков-одиночек в продуктовую стаю: как продакт-менеджер может мотивировать команду](https://habr.com/ru/post/658239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658239)
-- [8 ошибок, из-за которых ты проиграешь в соревновательном Data Science](https://habr.com/ru/post/659071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659071)
-- [Интеграционное тестирование микросервисов Spring Boot в монорепозитории](https://habr.com/ru/post/658393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658393)
 <!-- BLOG-POST-LIST:END -->
