@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker, VSCode, GitLab, Office и Photoshop: бесплатные альтернативы популярным сервисам для программирования и работы](https://habr.com/ru/post/659385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659385)
+- [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 4](https://habr.com/ru/post/659409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659409)
 - [Переход от традиционного монолитного десктоп приложения к гибридной модели](https://habr.com/ru/post/659357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659357)
 - [[Перевод] Hudi, Iceberg и Delta Lake: сравнение табличных форматов для озера данных](https://habr.com/ru/post/658563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658563)
 - [Vivaldi 5.2 для Android — Читать, переводить и снова читать](https://habr.com/ru/post/659299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659299)
