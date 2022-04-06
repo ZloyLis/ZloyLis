@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эмоциональный код](https://habr.com/ru/post/659451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659451)
+- [Как выглядит большинство Java проектов изнутри](https://habr.com/ru/post/659271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659271)
 - [Как мы настраивали CI в два захода](https://habr.com/ru/post/659429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659429)
 - [Линейная регрессия. Разбор математики и реализации на python](https://habr.com/ru/post/659415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659415)
 - [WebRTC для всех и каждого. Часть 3](https://habr.com/ru/post/659313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659313)
-- [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 4](https://habr.com/ru/post/659409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659409)
-- [[Перевод] Hudi, Iceberg и Delta Lake: сравнение табличных форматов для озера данных](https://habr.com/ru/post/658563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658563)
 <!-- BLOG-POST-LIST:END -->
