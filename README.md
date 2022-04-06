@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Из цикла «Сделай сам». Продвинутый слайдер изображений на Rails и Bootstrap — за час](https://habr.com/ru/post/659309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659309)
 - [Практика обучения в QA отделе. Профиль тестировщика](https://habr.com/ru/post/659305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659305)
 - [На графах: операция раскрытия переменной, конечные состояния](https://habr.com/ru/post/659301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659301)
 - [[Перевод] Как встроить блокнот Jupyter на любой сайт](https://habr.com/ru/post/659279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659279)
 - [Yet another JSON-парсер](https://habr.com/ru/post/659287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659287)
-- [Управляем навигацией в iOS-приложениях. Паттерн координатор от СберМаркета](https://habr.com/ru/post/654339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654339)
 <!-- BLOG-POST-LIST:END -->
