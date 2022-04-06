@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На графах: операция раскрытия переменной, конечные состояния](https://habr.com/ru/post/659301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659301)
 - [[Перевод] Как встроить блокнот Jupyter на любой сайт](https://habr.com/ru/post/659279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659279)
 - [Yet another JSON-парсер](https://habr.com/ru/post/659287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659287)
 - [Управляем навигацией в iOS-приложениях. Паттерн координатор от СберМаркета](https://habr.com/ru/post/654339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654339)
 - [Flutter for Desktop — новый подход к разработке приложений](https://habr.com/ru/post/659159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659159)
-- [[Перевод] Популярные расширения для VS Code 2022](https://habr.com/ru/post/659225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659225)
 <!-- BLOG-POST-LIST:END -->
