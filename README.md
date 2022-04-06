@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вода и камень точит: как жидкостные капли воздействуют на твердый материал](https://habr.com/ru/post/659125/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659125)
+- [Чем измерить метрики производительности приложения](https://habr.com/ru/post/659239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659239)
+- [Запрет создания объекта вне фабрики в PHP](https://habr.com/ru/post/659205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659205)
 - [Из цикла «Сделай сам». Продвинутый слайдер изображений на Rails и Bootstrap — за час](https://habr.com/ru/post/659309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659309)
 - [Практика обучения в QA отделе. Профиль тестировщика](https://habr.com/ru/post/659305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659305)
-- [На графах: операция раскрытия переменной, конечные состояния](https://habr.com/ru/post/659301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659301)
-- [[Перевод] Как встроить блокнот Jupyter на любой сайт](https://habr.com/ru/post/659279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659279)
-- [Yet another JSON-парсер](https://habr.com/ru/post/659287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659287)
 <!-- BLOG-POST-LIST:END -->
