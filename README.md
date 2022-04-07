@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Матрица компетенций: важный инструмент для мотивации команды](https://habr.com/ru/post/659387/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659387)
+- [Приглашаем в машину времени: что вам понравилось на прошлогодних конференциях TechLead и DevOps](https://habr.com/ru/post/659619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659619)
+- [Ничего не умею, но хочу делать игры](https://habr.com/ru/post/659607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659607)
+- [Разработчик засыпает, просыпается маркетолог: как я приложение продвигал](https://habr.com/ru/post/659419/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659419)
 - [Переход от традиционного монолитного десктоп приложения к гибридной модели](https://habr.com/ru/post/658413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658413)
-- [Резиновая верстка: универсальная сетка под все брейкпоинты, примеры и правила](https://habr.com/ru/post/659477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659477)
-- [Обзор решений для навигации в iOS](https://habr.com/ru/post/659523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659523)
-- [Банкрот или не банкрот? Вот в чем вопрос](https://habr.com/ru/post/659569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659569)
-- [Приглашаем на онлайновый митап про системы сборки С++ кодовой базы](https://habr.com/ru/post/659473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659473)
 <!-- BLOG-POST-LIST:END -->
