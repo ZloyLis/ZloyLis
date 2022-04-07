@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переход от традиционного монолитного десктоп приложения к гибридной модели](https://habr.com/ru/post/658413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658413)
 - [Резиновая верстка: универсальная сетка под все брейкпоинты, примеры и правила](https://habr.com/ru/post/659477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659477)
 - [Обзор решений для навигации в iOS](https://habr.com/ru/post/659523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659523)
 - [Банкрот или не банкрот? Вот в чем вопрос](https://habr.com/ru/post/659569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659569)
 - [Приглашаем на онлайновый митап про системы сборки С++ кодовой базы](https://habr.com/ru/post/659473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659473)
-- [[Перевод] Что учитывать в UX/UI при разработке B2B Frontend — рекомендации от Virto DevLabs](https://habr.com/ru/post/659549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659549)
 <!-- BLOG-POST-LIST:END -->
