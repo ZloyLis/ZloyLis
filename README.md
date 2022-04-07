@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ванильный JSX](https://habr.com/ru/post/659483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659483)
-- [[recovery mode] Читаем схему от минуса к плюсу](https://habr.com/ru/post/659525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659525)
-- [[Перевод] Структурированный параллелизм &lpar;structured concurrency&rpar; в Swift](https://habr.com/ru/post/659521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659521)
-- [История утечки персональных данных в Github](https://habr.com/ru/post/659489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659489)
-- [[Перевод] Эмоциональный код](https://habr.com/ru/post/659451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659451)
+- [[Перевод] Что учитывать в UX/UI при разработке B2B Frontend — рекомендации от Virto DevLabs](https://habr.com/ru/post/659549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659549)
+- [Как настроить интеграцию между kafka и rabbitmq &lpar;путешествие туда и обратно&rpar;](https://habr.com/ru/post/659545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659545)
+- [Next.js: кешируем страницы с помощью кастомного сервера и Redis](https://habr.com/ru/post/659511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659511)
+- [SMP как BaaS. Или почему я решил посмотреть на софт под иным углом](https://habr.com/ru/post/657985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657985)
+- [Как я учился скоростной печати, но что-то пошло не так](https://habr.com/ru/post/659533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659533)
 <!-- BLOG-POST-LIST:END -->
