@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [DataGrip 2022.1: копирование нескольких объектов, новая логика отмены выполняемых запросов и соединений и многое другое](https://habr.com/ru/post/659667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659667)
+- [[Перевод] Kotlin, как работает suspend под капотом](https://habr.com/ru/post/659699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659699)
+- [[Перевод] Keycloak vs Dex](https://habr.com/ru/post/659697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659697)
 - [Как работать с деньгами, или денежные суммы в бэкенд-разработке](https://habr.com/ru/post/659675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659675)
 - [Безопасная разработка и уязвимости программного кода](https://habr.com/ru/post/659575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659575)
 - [СheckKarlMarx: утилита для поиска уязвимостей в продовых сборках](https://habr.com/ru/post/659013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659013)
-- [[Перевод] Управление приватными php репозиториями с помощью Composer и Satis](https://habr.com/ru/post/659627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659627)
 <!-- BLOG-POST-LIST:END -->
