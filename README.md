@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DataGrip 2022.1: копирование нескольких объектов, новая логика отмены выполняемых запросов и соединений и многое другое](https://habr.com/ru/post/659667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659667)
+- [Как работать с деньгами, или денежные суммы в бэкенд-разработке](https://habr.com/ru/post/659675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659675)
 - [Безопасная разработка и уязвимости программного кода](https://habr.com/ru/post/659575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659575)
 - [СheckKarlMarx: утилита для поиска уязвимостей в продовых сборках](https://habr.com/ru/post/659013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659013)
 - [[Перевод] Управление приватными php репозиториями с помощью Composer и Satis](https://habr.com/ru/post/659627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659627)
-- [Приглашаем в машину времени: что вам понравилось на прошлогодних конференциях TechLead и DevOps](https://habr.com/ru/post/659619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659619)
-- [Ничего не умею, но хочу делать игры](https://habr.com/ru/post/659607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659607)
 <!-- BLOG-POST-LIST:END -->
