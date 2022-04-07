@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ванильный JSX](https://habr.com/ru/post/659483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659483)
+- [[recovery mode] Читаем схему от минуса к плюсу](https://habr.com/ru/post/659525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659525)
 - [[Перевод] Структурированный параллелизм &lpar;structured concurrency&rpar; в Swift](https://habr.com/ru/post/659521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659521)
 - [История утечки персональных данных в Github](https://habr.com/ru/post/659489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659489)
 - [[Перевод] Эмоциональный код](https://habr.com/ru/post/659451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659451)
-- [Как большинство Java проектов выглядят изнутри](https://habr.com/ru/post/659271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659271)
-- [Как мы настраивали CI в два захода](https://habr.com/ru/post/659429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659429)
 <!-- BLOG-POST-LIST:END -->
