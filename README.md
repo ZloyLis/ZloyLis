@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Связка IDENT c amoCRM](https://habr.com/ru/post/659509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659509)
+- [[Перевод] Структурированный параллелизм &lpar;structured concurrency&rpar; в Swift](https://habr.com/ru/post/659521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659521)
 - [История утечки персональных данных в Github](https://habr.com/ru/post/659489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659489)
 - [[Перевод] Эмоциональный код](https://habr.com/ru/post/659451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659451)
 - [Как большинство Java проектов выглядят изнутри](https://habr.com/ru/post/659271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659271)
