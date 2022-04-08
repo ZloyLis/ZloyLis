@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Передаём GPU-буферы напрямую в TensorFlow Lite](https://habr.com/ru/post/659643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659643)
+- [Много машин в облаке — это не больно: IaC для управления масштабной инфраструктурой](https://habr.com/ru/post/659183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659183)
+- [[Перевод] Почему мьютексы в Rust реализованы именно так](https://habr.com/ru/post/659547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659547)
 - [Обратная сторона Луны: как мы создали чат-бота с «человеческим лицом»](https://habr.com/ru/post/659763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659763)
 - [[Перевод] Cling – не просто интерпретатор C++](https://habr.com/ru/post/659733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659733)
-- [[update от 07.04 — часть 3] Оригинальный список малвари, шифровальщиков и прочего в open source проектах](https://habr.com/ru/post/659745/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659745)
-- [«Эволюция против муравьёв» сравниваем алгоритмы оптимизации](https://habr.com/ru/post/659741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659741)
-- [[Перевод] Как Discord реализовал навигацию клавиатурой по всему приложению](https://habr.com/ru/post/659731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659731)
 <!-- BLOG-POST-LIST:END -->
