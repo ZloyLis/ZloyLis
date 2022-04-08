@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обратная сторона Луны: как мы создали чат-бота с «человеческим лицом»](https://habr.com/ru/post/659763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659763)
+- [[Перевод] Cling – не просто интерпретатор C++](https://habr.com/ru/post/659733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659733)
 - [[update от 07.04 — часть 3] Оригинальный список малвари, шифровальщиков и прочего в open source проектах](https://habr.com/ru/post/659745/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659745)
 - [«Эволюция против муравьёв» сравниваем алгоритмы оптимизации](https://habr.com/ru/post/659741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659741)
 - [[Перевод] Как Discord реализовал навигацию клавиатурой по всему приложению](https://habr.com/ru/post/659731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659731)
-- [Anna: готовим отчет о тестировании API, чтобы все были довольны](https://habr.com/ru/post/659729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659729)
-- [[Перевод] Как писать питонический код: три рекомендации и три книги](https://habr.com/ru/post/659493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659493)
 <!-- BLOG-POST-LIST:END -->
