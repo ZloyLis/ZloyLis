@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Эволюция против муравьёв» сравниваем алгоритмы оптимизации](https://habr.com/ru/post/659741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659741)
 - [[Перевод] Как Discord реализовал навигацию клавиатурой по всему приложению](https://habr.com/ru/post/659731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659731)
 - [Anna: готовим отчет о тестировании API, чтобы все были довольны](https://habr.com/ru/post/659729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659729)
 - [[Перевод] Как писать питонический код: три рекомендации и три книги](https://habr.com/ru/post/659493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659493)
 - [[Перевод] Kotlin, как работает suspend под капотом](https://habr.com/ru/post/659699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659699)
-- [[Перевод] Keycloak vs Dex](https://habr.com/ru/post/659697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659697)
 <!-- BLOG-POST-LIST:END -->
