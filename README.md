@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор ORM для C#: что подойдет для проекта](https://habr.com/ru/post/659841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659841)
 - [Custom Pod Autoscaler – сверхгибкое автоскалирование в Kubernetes](https://habr.com/ru/post/659705/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659705)
 - [Библиотека скриптовых функций для парсера Телеграмм Микротик РоутерОС](https://habr.com/ru/post/659809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659809)
 - [Как сделать инициирующую загрузку в NiFi](https://habr.com/ru/post/659795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659795)
 - [[Перевод] Как генерировать Flame Graph из выходных данных perf и pt-pmp](https://habr.com/ru/post/659789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659789)
+- [Передаём GPU-буферы напрямую в TensorFlow Lite](https://habr.com/ru/post/659643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659643)
 <!-- BLOG-POST-LIST:END -->
