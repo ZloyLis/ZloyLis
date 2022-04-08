@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обработка DXF файлов: конвертация в SVG и анализ](https://habr.com/ru/post/659929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659929)
+- [Властелин структур](https://habr.com/ru/post/656919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656919)
 - [Websocket-сервер для геолокации на asyncio](https://habr.com/ru/post/659341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659341)
 - [Спрос рождает предложение: как потребности программистов выливались в языки программирования](https://habr.com/ru/post/659875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659875)
 - [[Перевод] Полмегабайта пустоты в каждом файле Apple Music](https://habr.com/ru/post/659799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659799)
-- [[Перевод] Rust 1.60.0: покрытие на основе исходного кода, новый синтаксис условной компиляции в Cargo, инкрементальная компиляция](https://habr.com/ru/post/659905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659905)
-- [Custom Pod Autoscaler – сверхгибкое автоскалирование в Kubernetes](https://habr.com/ru/post/659705/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659705)
 <!-- BLOG-POST-LIST:END -->
