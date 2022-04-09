@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать программистом за неделю](https://habr.com/ru/post/660001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660001)
 - [Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659999)
 - [[recovery mode] Мой путь в ТРИЗ](https://habr.com/ru/post/659997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659997)
 - [Разница между python и php](https://habr.com/ru/post/659987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659987)
 - [Разработка архитектуры для чайников. Часть 2](https://habr.com/ru/post/658151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658151)
-- [Кто тебя за Цанцзе тянул](https://habr.com/ru/post/659983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659983)
 <!-- BLOG-POST-LIST:END -->
