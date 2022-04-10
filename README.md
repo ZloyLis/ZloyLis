@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кратко о форматах TLV, BER, CER, DER, PER](https://habr.com/ru/post/660045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660045)
 - [[Перевод] Дженерики могут замедлить ваш код на Go](https://habr.com/ru/post/660007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660007)
 - [[Перевод - recovery mode ] Дизайн шахматной игры](https://habr.com/ru/post/660003/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660003)
 - [Flutter: Все способы защиты данных](https://habr.com/ru/post/659999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659999)
 - [[recovery mode] Мой путь в ТРИЗ](https://habr.com/ru/post/659997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659997)
-- [Разница между python и php](https://habr.com/ru/post/659987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659987)
 <!-- BLOG-POST-LIST:END -->
