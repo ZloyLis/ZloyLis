@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правило 2. «Любые временные решения – зло»](https://habr.com/ru/post/660075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660075)
 - [Дайджест интересных материалов для мобильного разработчика #438 &lpar;4 — 10 апреля&rpar;](https://habr.com/ru/post/660065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660065)
 - [Будущее программирования](https://habr.com/ru/post/660061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660061)
 - [Правило 1. «Документируйте свои решения, особенно временные»](https://habr.com/ru/post/660057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660057)
 - [Вавилонская Башня. Правила IT архитектора](https://habr.com/ru/post/660055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660055)
-- [Кратко о форматах TLV, BER, CER, DER, PER](https://habr.com/ru/post/660045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660045)
 <!-- BLOG-POST-LIST:END -->
