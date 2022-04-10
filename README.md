@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правило 5. «99,9 % результата — это отсутствие результата»](https://habr.com/ru/post/660081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660081)
+- [Правило 4. «Ешьте слона по частям: люди боятся больших задач»](https://habr.com/ru/post/660079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660079)
+- [Правило 3. «Не будь пассивным участником»](https://habr.com/ru/post/660077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660077)
 - [Правило 2. «Любые временные решения – зло»](https://habr.com/ru/post/660075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660075)
 - [Дайджест интересных материалов для мобильного разработчика #438 &lpar;4 — 10 апреля&rpar;](https://habr.com/ru/post/660065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660065)
-- [Будущее программирования](https://habr.com/ru/post/660061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660061)
-- [Правило 1. «Документируйте свои решения, особенно временные»](https://habr.com/ru/post/660057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660057)
-- [Вавилонская Башня. Правила IT архитектора](https://habr.com/ru/post/660055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660055)
 <!-- BLOG-POST-LIST:END -->
