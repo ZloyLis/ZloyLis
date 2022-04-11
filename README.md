@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2215: криптокошелек со встроенным трояном](https://habr.com/ru/post/660237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660237)
+- [Подборка материалов по мобильной безопасности «Awesome Mobile Security»](https://habr.com/ru/post/660179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660179)
 - [[recovery mode] Как перестать некорректно выражаться в коде](https://habr.com/ru/post/660201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660201)
 - [[Перевод] Алгоритм FSDP: ускорение обучения ИИ-моделей и сокращение количества GPU](https://habr.com/ru/post/659497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659497)
 - [Руководство по Supabase. Часть 2](https://habr.com/ru/post/660183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660183)
-- [[Перевод] Вычисляем π на первом процессоре от Intel — 4004](https://habr.com/ru/post/660171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660171)
-- [Legal design и договор о сайте](https://habr.com/ru/post/660167/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660167)
 <!-- BLOG-POST-LIST:END -->
