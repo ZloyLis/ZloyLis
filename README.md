@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исследователи выявили задачу, от которой зависит судьба современной криптографии](https://habr.com/ru/post/660159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660159)
+- [[Перевод] 10 вредных привычек в программировании, с которыми нужно покончить прямо сейчас](https://habr.com/ru/post/660277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660277)
 - [Security Week 2215: криптокошелек со встроенным трояном](https://habr.com/ru/post/660237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660237)
 - [Подборка материалов по мобильной безопасности «Awesome Mobile Security»](https://habr.com/ru/post/660179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660179)
 - [[recovery mode] Как перестать некорректно выражаться в коде](https://habr.com/ru/post/660201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660201)
-- [[Перевод] Алгоритм FSDP: ускорение обучения ИИ-моделей и сокращение количества GPU](https://habr.com/ru/post/659497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659497)
-- [Руководство по Supabase. Часть 2](https://habr.com/ru/post/660183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660183)
 <!-- BLOG-POST-LIST:END -->
