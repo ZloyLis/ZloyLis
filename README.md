@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Советы по проектированию интерфейса. Часть 2 — Когнитивное искажение](https://habr.com/ru/post/658857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658857)
-- [[Перевод] Работа с Diffable data source и table views с использованием UIKit](https://habr.com/ru/post/660121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660121)
-- [Фасилитация на практике, или Как команде принять одно решение для всех](https://habr.com/ru/post/659629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659629)
-- [Пишем свой фондовый индекс &lpar;API Тинькофф, FastApi, TradingView&rpar;](https://habr.com/ru/post/656547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656547)
-- [[Перевод] Мои главные принципы работы после 20 лет опыта в программировании](https://habr.com/ru/post/660097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660097)
+- [Обзор self-hosted serverless-фреймворков для Kubernetes](https://habr.com/ru/post/659383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659383)
+- [Фронтенд-новости №1](https://habr.com/ru/post/659245/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659245)
+- [Build.prop — улучшение качества звука](https://habr.com/ru/post/660151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660151)
+- [Нужно эффективное мобильное приложение против вероятной первой мировой ядерной войны?](https://habr.com/ru/post/660143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660143)
+- [Подборка полезных ресурсов от экспертов Positive Technologies: от лаб и подкастов до блогеров и сообществ. Часть 3](https://habr.com/ru/post/660147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660147)
 <!-- BLOG-POST-LIST:END -->
