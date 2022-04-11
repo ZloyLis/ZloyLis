@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Алгоритм FSDP: ускорение обучения ИИ-моделей и сокращение количества GPU](https://habr.com/ru/post/659497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659497)
+- [Руководство по Supabase. Часть 2](https://habr.com/ru/post/660183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660183)
+- [[Перевод] Вычисляем π на первом процессоре от Intel — 4004](https://habr.com/ru/post/660171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660171)
+- [Legal design и договор о сайте](https://habr.com/ru/post/660167/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660167)
 - [Обзор self-hosted serverless-фреймворков для Kubernetes](https://habr.com/ru/post/659383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659383)
-- [Фронтенд-новости №1](https://habr.com/ru/post/659245/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659245)
-- [Build.prop — улучшение качества звука](https://habr.com/ru/post/660151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660151)
-- [Нужно эффективное мобильное приложение против вероятной первой мировой ядерной войны?](https://habr.com/ru/post/660143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660143)
-- [Подборка полезных ресурсов от экспертов Positive Technologies: от лаб и подкастов до блогеров и сообществ. Часть 3](https://habr.com/ru/post/660147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660147)
 <!-- BLOG-POST-LIST:END -->
