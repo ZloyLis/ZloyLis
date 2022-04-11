@@ -25,8 +25,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фасилитация на практике, или Как команде принять одно решение для всех](https://habr.com/ru/post/659629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659629)
 - [Пишем свой фондовый индекс &lpar;API Тинькофф, FastApi, TradingView&rpar;](https://habr.com/ru/post/656547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=656547)
-- [Шифрование информации в Linux](https://habr.com/ru/post/659755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659755)
 - [[Перевод] Мои главные принципы работы после 20 лет опыта в программировании](https://habr.com/ru/post/660097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660097)
 - [Уход Google из России — контрольный выстрел в голову технологий страны?](https://habr.com/ru/post/660099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660099)
 - [[Перевод] Передача руководителя центра затрат из SAP ERP CO в Employee Central](https://habr.com/ru/post/660093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660093)
