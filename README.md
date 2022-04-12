@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Атрибуты HTML, которыми вы никогда не пользовались](https://habr.com/ru/post/660381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660381)
+- [Как сжать fastText, или Приключение на 20 минут](https://habr.com/ru/post/660493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660493)
 - [Фильтрация JSON: как мы проводили конкурс на самый быстрый алгоритм](https://habr.com/ru/post/660229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660229)
 - [Flutter. MVVM. Начало](https://habr.com/ru/post/660411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660411)
 - [Карьера состоится при любой работе](https://habr.com/ru/post/660445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660445)
-- [OCR за час? — Не думаю](https://habr.com/ru/post/660405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660405)
-- [Альтернатива курсам: программа обучения для project-менеджера](https://habr.com/ru/post/660401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660401)
 <!-- BLOG-POST-LIST:END -->
