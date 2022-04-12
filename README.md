@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как врать с помощью статистики](https://habr.com/ru/post/660269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660269)
 - [Игры, в которые играют люди, или Как повысить посещаемость приложения мобильного оператора](https://habr.com/ru/post/657715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657715)
 - [[Перевод] Вот что такое тактический Git](https://habr.com/ru/post/660335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660335)
 - [[Перевод] React 18. Что нового?](https://habr.com/ru/post/660333/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660333)
 - [Дайджест недели от Apple Pro Weekly News &lpar;04.04 – 10.04.22&rpar;](https://habr.com/ru/post/660105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660105)
-- [[Перевод] Постигаем искусство написания Dockerfile для Go](https://habr.com/ru/post/660301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660301)
 <!-- BLOG-POST-LIST:END -->
