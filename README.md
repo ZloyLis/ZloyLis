@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Самые популярные бесплатные движки для разработки игр](https://habr.com/ru/post/659891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659891)
 - [OCR за час? — Не думаю](https://habr.com/ru/post/660405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660405)
 - [Альтернатива курсам: программа обучения для project-менеджера](https://habr.com/ru/post/660401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660401)
 - [[Перевод] Apple всё ещё следит за вами. Без вашего согласия](https://habr.com/ru/post/660399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660399)
 - [Реализация реакций в приложении ВКонтакте на Android](https://habr.com/ru/post/660281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660281)
+- [Как мы организовали «Автошколу» и научили тестировщиков писать автотесты](https://habr.com/ru/post/659777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659777)
 <!-- BLOG-POST-LIST:END -->
