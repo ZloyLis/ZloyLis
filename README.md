@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS-in-JS в Angular или все-таки CSS?](https://habr.com/ru/post/659273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659273)
 - [Кейс: алгоритм возврата товара на маркетплейсе поставщикам компании Евраз](https://habr.com/ru/post/660529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660529)
 - [Как сэкономить на ресурсах с помощью модуля Terraform для AWS Spot Instance](https://habr.com/ru/post/649205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=649205)
 - [[Перевод] Атрибуты HTML, которыми вы никогда не пользовались](https://habr.com/ru/post/660381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660381)
 - [Как сжать fastText, или Приключение на 20 минут](https://habr.com/ru/post/660493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660493)
-- [Фильтрация JSON: как мы проводили конкурс на самый быстрый алгоритм](https://habr.com/ru/post/660229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660229)
 <!-- BLOG-POST-LIST:END -->
