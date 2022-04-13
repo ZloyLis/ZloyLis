@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изменения функции append в Go 1.18](https://habr.com/ru/post/660827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660827)
+- [[Перевод] Глубокое погружение в функцию CSS :where&lpar;&rpar;](https://habr.com/ru/post/660825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660825)
 - [Удивительная и загадочная 𝛾](https://habr.com/ru/post/658881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658881)
 - [[Перевод] JavaScript vs TypeScript. Почему Вы должны изучить TypeScript?](https://habr.com/ru/post/660791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660791)
 - [О безопасности Kubernetes. Часть 1. Об угрозах](https://habr.com/ru/post/660531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660531)
-- [Как мы разработали приложение для хосписа, которое получило премию](https://habr.com/ru/post/660753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660753)
-- [[Перевод] По существу о C# 10.0: как нам упростили жизнь — Часть 1](https://habr.com/ru/post/660743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660743)
 <!-- BLOG-POST-LIST:END -->
