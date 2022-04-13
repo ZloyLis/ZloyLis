@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Меню Joomla 3 в админке Joomla 4](https://habr.com/ru/post/660601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660601)
 - [Webix Gantt Chart. Путь от черчения к удобному Web приложению для управления проектами](https://habr.com/ru/post/660469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660469)
 - [Агрегаты](https://habr.com/ru/post/660599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660599)
 - [[Перевод] Все хуки и концепты React в одной статье](https://habr.com/ru/post/660573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660573)
 - [Эффективное хранение графов: матрицы смежности](https://habr.com/ru/post/660567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660567)
-- [Из чего состоит платформа IoT: аутентификация и безопасность](https://habr.com/ru/post/660557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660557)
 <!-- BLOG-POST-LIST:END -->
