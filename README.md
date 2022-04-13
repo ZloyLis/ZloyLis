@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Маски, картины, тайные покупатели и анализ продаж: разбираем решения задач для Go-разработчиков](https://habr.com/ru/post/660489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660489)
+- [[Перевод] TypeScript: разрабатываем WebAssembly-компилятор](https://habr.com/ru/post/660607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660607)
+- [Особенности реализации STL в Clang, GCC и Microsoft С++](https://habr.com/ru/post/660265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660265)
+- [Саша Варламов &lpar;QA в топ банках&rpar;: старт, оффер, команда](https://habr.com/ru/post/660657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660657)
 - [Без чего можно стать тестировщиком?](https://habr.com/ru/post/660467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660467)
-- [Проблемы с поиском в интернете нужной программы](https://habr.com/ru/post/660639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660639)
-- [Почему результаты UX-исследований не идут в работу](https://habr.com/ru/post/657013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657013)
-- [[Перевод] Как дата-сайентистам эффективно сотрудничать с дата-инженерами](https://habr.com/ru/post/659139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659139)
-- [[recovery mode] Сортировка подсчётом или почему этот способ игнорируют?](https://habr.com/ru/post/660623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660623)
 <!-- BLOG-POST-LIST:END -->
