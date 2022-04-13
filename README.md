@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Без чего можно стать тестировщиком?](https://habr.com/ru/post/660467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660467)
+- [Проблемы с поиском в интернете нужной программы](https://habr.com/ru/post/660639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660639)
 - [Почему результаты UX-исследований не идут в работу](https://habr.com/ru/post/657013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657013)
 - [[Перевод] Как дата-сайентистам эффективно сотрудничать с дата-инженерами](https://habr.com/ru/post/659139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659139)
 - [[recovery mode] Сортировка подсчётом или почему этот способ игнорируют?](https://habr.com/ru/post/660623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660623)
-- [Меню Joomla 3 в админке Joomla 4](https://habr.com/ru/post/660601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660601)
-- [Агрегаты](https://habr.com/ru/post/660599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660599)
 <!-- BLOG-POST-LIST:END -->
