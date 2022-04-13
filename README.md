@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему результаты UX-исследований не идут в работу](https://habr.com/ru/post/657013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=657013)
+- [[Перевод] Как дата-сайентистам эффективно сотрудничать с дата-инженерами](https://habr.com/ru/post/659139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659139)
+- [[recovery mode] Сортировка подсчётом или почему этот способ игнорируют?](https://habr.com/ru/post/660623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660623)
 - [Меню Joomla 3 в админке Joomla 4](https://habr.com/ru/post/660601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660601)
 - [Агрегаты](https://habr.com/ru/post/660599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660599)
-- [[Перевод] Все хуки и концепты React в одной статье](https://habr.com/ru/post/660573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660573)
-- [Эффективное хранение графов: матрицы смежности](https://habr.com/ru/post/660567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660567)
-- [Из чего состоит платформа IoT: аутентификация и безопасность](https://habr.com/ru/post/660557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660557)
 <!-- BLOG-POST-LIST:END -->
