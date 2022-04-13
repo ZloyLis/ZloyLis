@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удивительная и загадочная 𝛾](https://habr.com/ru/post/658881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658881)
+- [[Перевод] JavaScript vs TypeScript. Почему Вы должны изучить TypeScript?](https://habr.com/ru/post/660791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660791)
 - [О безопасности Kubernetes. Часть 1. Об угрозах](https://habr.com/ru/post/660531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660531)
 - [Как мы разработали приложение для хосписа, которое получило премию](https://habr.com/ru/post/660753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660753)
 - [[Перевод] По существу о C# 10.0: как нам упростили жизнь — Часть 1](https://habr.com/ru/post/660743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660743)
-- [[Перевод] Реализуем алгоритм поиска в глубину](https://habr.com/ru/post/660725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660725)
-- [Как сделать sportsbook](https://habr.com/ru/post/660711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660711)
 <!-- BLOG-POST-LIST:END -->
