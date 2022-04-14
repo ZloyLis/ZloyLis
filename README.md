@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обработка Push уведомлений на клиенте при их получении. И немного кода](https://habr.com/ru/post/660997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660997)
-- [Добро пожаловать в семью](https://habr.com/ru/post/660987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660987)
-- [Запустился бесплатный курс «Подготовка к алгоритмическому собеседованию» от Яндекс Практикума](https://habr.com/ru/post/660973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660973)
-- [[Перевод] Шпаргалка по коллекциям в Java](https://habr.com/ru/post/660959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660959)
-- [Код-ревью для начинающих: советы и ориентиры из практики](https://habr.com/ru/post/660947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660947)
+- [Как беспроводные сети могут помочь беспилотным машинам?](https://habr.com/ru/post/661021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661021)
+- [Производительность фронтенда: большое приложение на реактивном SSR-топливе](https://habr.com/ru/post/660681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660681)
+- [Свой Composer без баннеров](https://habr.com/ru/post/661017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661017)
+- [Кейс: алгоритм возврата товара на маркетплейсе поставщикам компании Евраз](https://habr.com/ru/post/661013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661013)
+- [Тестировало тестирование тестировщика, или Как мы используем и тестируем распределенную систему тестирования](https://habr.com/ru/post/660733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660733)
 <!-- BLOG-POST-LIST:END -->
