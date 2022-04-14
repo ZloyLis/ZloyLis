@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Bpmn для системного аналитика. Освойте нотацию за 1 час](https://habr.com/ru/post/660649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660649)
 - [История одного CRUD&#39;а](https://habr.com/ru/post/660847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660847)
 - [Изменения функции append в Go 1.18](https://habr.com/ru/post/660827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660827)
 - [[Перевод] Глубокое погружение в функцию CSS :where&lpar;&rpar;](https://habr.com/ru/post/660825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660825)
 - [Удивительная и загадочная 𝛾](https://habr.com/ru/post/658881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658881)
-- [[Перевод] JavaScript vs TypeScript. Почему Вы должны изучить TypeScript?](https://habr.com/ru/post/660791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660791)
 <!-- BLOG-POST-LIST:END -->
