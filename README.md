@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фантастические веб-уязвимости и где они обитают](https://habr.com/ru/post/659847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659847)
 - [Осторожно, новичок! Как сохранить качество тестирования с приходом нового специалиста](https://habr.com/ru/post/660871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660871)
 - [Пишем аудио-разведчик своими руками](https://habr.com/ru/post/660861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660861)
 - [Как мы учимся адаптировать Яндекс Go для незрячих пользователей: ожидания, суровая реальность, чек-лист разработчика](https://habr.com/ru/post/660663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660663)
 - [Bpmn для системного аналитика. Освойте нотацию за 1 час](https://habr.com/ru/post/660649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660649)
-- [История одного CRUD&#39;а](https://habr.com/ru/post/660847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660847)
 <!-- BLOG-POST-LIST:END -->
