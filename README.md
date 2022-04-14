@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[boringssl] Failed to log metrics](https://habr.com/ru/post/661039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661039)
+- [[recovery mode] Звук в DIY проектах](https://habr.com/ru/post/661037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661037)
 - [Байесовская Сеть Доверия: Практика](https://habr.com/ru/post/658311/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658311)
 - [Как беспроводные сети могут помочь беспилотным машинам?](https://habr.com/ru/post/661021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661021)
 - [Производительность фронтенда: большое приложение на реактивном SSR-топливе](https://habr.com/ru/post/660681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660681)
-- [Свой Composer без баннеров](https://habr.com/ru/post/661017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661017)
-- [Кейс: алгоритм возврата товара на маркетплейсе поставщикам компании Евраз](https://habr.com/ru/post/661013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661013)
 <!-- BLOG-POST-LIST:END -->
