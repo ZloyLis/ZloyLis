@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обработка Push уведомлений на клиенте при их получении. И немного кода](https://habr.com/ru/post/660997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660997)
 - [Добро пожаловать в семью](https://habr.com/ru/post/660987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660987)
 - [Запустился бесплатный курс «Подготовка к алгоритмическому собеседованию» от Яндекс Практикума](https://habr.com/ru/post/660973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660973)
 - [[Перевод] Шпаргалка по коллекциям в Java](https://habr.com/ru/post/660959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660959)
 - [Код-ревью для начинающих: советы и ориентиры из практики](https://habr.com/ru/post/660947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660947)
-- [Всё о веб-анимациях в 2022](https://habr.com/ru/post/660901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660901)
 <!-- BLOG-POST-LIST:END -->
