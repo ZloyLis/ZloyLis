@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравниваем готовые решения для реализации MVI-архитектуры на Android](https://habr.com/ru/post/661185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661185)
+- [Как мы индекс в Elasticsearch строили](https://habr.com/ru/post/661237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661237)
+- [[Перевод] Советы по работе с легаси кодом в PHP](https://habr.com/ru/post/661227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661227)
 - [Дифференциальный криптоанализ алгоритма DES](https://habr.com/ru/post/661205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661205)
 - [Путь к автотестированию Android нативными инструментами: испробовали всё, что есть на рынке и сделали свои выводы](https://habr.com/ru/post/661179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661179)
-- [Электрическая модель транспортной задачи](https://habr.com/ru/post/661157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661157)
-- [Особенности платформы Rancher для управления кластерами Kubernetes](https://habr.com/ru/post/659407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659407)
-- [CROC&amp;amp;TALK. Как создавать распределенные системы с Kubernetes и без](https://habr.com/ru/post/661131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661131)
 <!-- BLOG-POST-LIST:END -->
