@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь к автотестированию Android нативными инструментами: испробовали всё, что есть на рынке и сделали свои выводы](https://habr.com/ru/post/661179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661179)
 - [Электрическая модель транспортной задачи](https://habr.com/ru/post/661157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661157)
 - [[Перевод] Объекты Кубернета](https://habr.com/ru/post/660289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660289)
 - [Особенности платформы Rancher для управления кластерами Kubernetes](https://habr.com/ru/post/659407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659407)
 - [CROC&amp;amp;TALK. Как создавать распределенные системы с Kubernetes и без](https://habr.com/ru/post/661131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661131)
-- [[Перевод] Что такое отравление данных при помощи машинного обучения?](https://habr.com/ru/post/661083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661083)
 <!-- BLOG-POST-LIST:END -->
