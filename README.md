@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое отравление данных при помощи машинного обучения?](https://habr.com/ru/post/661083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661083)
 - [[Перевод] Производительность встроенных функций высшего порядка в сравнении с циклом for-in в Swift](https://habr.com/ru/post/661101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661101)
 - [Строковые алгоритмы на практике. Часть 2 — Алгоритм Бойера — Мура](https://habr.com/ru/post/660767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660767)
 - [[Перевод] В .NET 7 Preview 3 доступны обновления ASP.NET Core](https://habr.com/ru/post/661081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661081)
 - [[Перевод] Объяснение микрофронтендов](https://habr.com/ru/post/661079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661079)
-- [[boringssl] Failed to log metrics](https://habr.com/ru/post/661039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661039)
 <!-- BLOG-POST-LIST:END -->
