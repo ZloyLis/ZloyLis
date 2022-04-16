@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как задавать требования к качеству ПО в цифрах?](https://habr.com/ru/post/661331/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661331)
 - [[Перевод] Как разработчику перестать быть потребителем технологий](https://habr.com/ru/post/661325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661325)
 - [Как перенести треки из Spotify в Яндекс.Музыку &lpar;полное руководство&rpar;](https://habr.com/ru/post/661315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661315)
 - [Vue или React? Кратко о возможном росте технического долга и что лучше для начинающих](https://habr.com/ru/post/661311/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661311)
 - [Можно ли стать программистом после 30? На личном примере. Часть 1](https://habr.com/ru/post/661295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661295)
-- [Реализация простой HTML5-панели управления серверами с поддержкой IPMI](https://habr.com/ru/post/661271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661271)
 <!-- BLOG-POST-LIST:END -->
