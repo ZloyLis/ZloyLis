@@ -27,7 +27,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Можно ли стать программистом после 30? На личном примере. Часть 1](https://habr.com/ru/post/661295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661295)
 - [Реализация простой HTML5-панели управления серверами с поддержкой IPMI](https://habr.com/ru/post/661271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661271)
-- [Образование сейчас](https://habr.com/ru/post/661249/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661249)
 - [Сравниваем готовые решения для реализации MVI-архитектуры на Android](https://habr.com/ru/post/661185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661185)
 - [Как мы индекс в Elasticsearch строили](https://habr.com/ru/post/661237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661237)
+- [[Перевод] Советы по работе с легаси кодом в PHP](https://habr.com/ru/post/661227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661227)
 <!-- BLOG-POST-LIST:END -->
