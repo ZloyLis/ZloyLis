@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Больше, чем соревнование: чем хакатоны могут быть полезны бизнесу и участникам](https://habr.com/ru/post/661397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661397)
+- [Как не разочароваться в программировании и не отчислиться после второго курса](https://habr.com/ru/post/661395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661395)
 - [Bitsy. Make games, without operations](https://habr.com/ru/post/661393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661393)
 - [[Перевод] Как написать калькулятор на HTML и CSS без JavaScript](https://habr.com/ru/post/661343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661343)
 - [[Перевод] Введение в Test-Driven Development на React для чайников](https://habr.com/ru/post/661335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661335)
-- [Как задавать требования к качеству ПО в цифрах?](https://habr.com/ru/post/661331/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661331)
-- [[Перевод] Как разработчику перестать быть потребителем технологий](https://habr.com/ru/post/661325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661325)
 <!-- BLOG-POST-LIST:END -->
