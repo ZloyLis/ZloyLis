@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter: обзор алгоритмов хэширования с использованием плагина hash](https://habr.com/ru/post/661409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661409)
 - [Больше, чем соревнование: чем хакатоны могут быть полезны бизнесу и участникам](https://habr.com/ru/post/661397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661397)
 - [Как не разочароваться в программировании и не отчислиться после второго курса](https://habr.com/ru/post/661395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661395)
 - [Bitsy. Make games, without operations](https://habr.com/ru/post/661393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661393)
 - [[Перевод] Как написать калькулятор на HTML и CSS без JavaScript](https://habr.com/ru/post/661343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661343)
-- [[Перевод] Введение в Test-Driven Development на React для чайников](https://habr.com/ru/post/661335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661335)
 <!-- BLOG-POST-LIST:END -->
