@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Наведите порядок! Очистка вашего PHP-приложения с помощью PHPStan](https://habr.com/ru/post/661517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661517)
+- [Сказка про Guid.NewGuid&lpar;&rpar;](https://habr.com/ru/post/661097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661097)
 - [[Перевод] Как собрать зловредный компилятор](https://habr.com/ru/post/661497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661497)
 - [Как я делаю дрон из Raspberry Pi и ESP32 &lpar;или мои первые шаги в робототехнике&rpar;](https://habr.com/ru/post/661493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661493)
 - [Сборка мусора в Unreal Engine](https://habr.com/ru/post/661469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661469)
-- [BI заместитель: Как сейчас быстро и недорого зарезервировать BI](https://habr.com/ru/post/661417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661417)
-- [Держи свой трафик в тайне. SSL Pinning — ещё раз о том же самом](https://habr.com/ru/post/661093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661093)
 <!-- BLOG-POST-LIST:END -->
