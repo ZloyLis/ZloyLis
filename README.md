@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настольный клиент для Yandex Speechkit text2speech на коленке](https://habr.com/ru/post/661569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661569)
+- [[Перевод] Zustand — руководство по простому управлению состоянием](https://habr.com/ru/post/661411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661411)
 - [[Перевод] Как отследить состояние сетевого соединения в Swift? Привет, нативная реализация, пока, Reachability](https://habr.com/ru/post/661549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661549)
 - [KeyCloak и Spring Boot](https://habr.com/ru/post/661541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661541)
 - [Как мы научили ИИ смотреть кино](https://habr.com/ru/post/661531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661531)
-- [[Перевод] Наведите порядок! Очистка вашего PHP-приложения с помощью PHPStan](https://habr.com/ru/post/661517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661517)
-- [Сказка про Guid.NewGuid&lpar;&rpar;](https://habr.com/ru/post/661097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661097)
 <!-- BLOG-POST-LIST:END -->
