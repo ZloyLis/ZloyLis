@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;11.04 – 17.04.22&rpar;](https://habr.com/ru/post/661421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661421)
 - [Города, инверсии и логистика: разбор задач для QA-инженеров](https://habr.com/ru/post/661557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661557)
 - [Конвертируем Spring XML в Java-based Configurations без слёз](https://habr.com/ru/post/661627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661627)
 - [[Перевод] Flutter: Что нового в версии 2.10](https://habr.com/ru/post/661621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661621)
 - [Security Week 2216: когда кнопка Mute не работает](https://habr.com/ru/post/661599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661599)
-- [Сохраняем код чистым в приложении на Flutter](https://habr.com/ru/post/661609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661609)
 <!-- BLOG-POST-LIST:END -->
