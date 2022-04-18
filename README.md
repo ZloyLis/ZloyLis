@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Держи свой трафик в тайне. SSL Pinning — ещё раз о том же самом](https://habr.com/ru/post/661093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661093)
+- [Почему Python не топ 1 &lpar;субъективно&rpar;?](https://habr.com/ru/post/661369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661369)
+- [Кривые и что это такое](https://habr.com/ru/post/661437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661437)
 - [Дайджест интересных материалов для мобильного разработчика #439 &lpar;11 — 17 апреля&rpar;](https://habr.com/ru/post/661425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661425)
 - [Flutter: обзор алгоритмов хэширования с использованием плагина hash](https://habr.com/ru/post/661409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661409)
-- [Больше, чем соревнование: чем хакатоны могут быть полезны бизнесу и участникам](https://habr.com/ru/post/661397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661397)
-- [Как не разочароваться в программировании и не отчислиться после второго курса](https://habr.com/ru/post/661395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661395)
-- [Bitsy. Make games, without operations](https://habr.com/ru/post/661393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661393)
 <!-- BLOG-POST-LIST:END -->
