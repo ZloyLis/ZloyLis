@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Movika приглашает на стажировку начинающих разработчиков для работы с интерактивными фильмами](https://habr.com/ru/post/661635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661635)
+- [Города, инверсии и логистика: разбор задач для QA-инженеров](https://habr.com/ru/post/661557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661557)
+- [Конвертируем Spring XML в Java-based Configurations без слёз](https://habr.com/ru/post/661627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661627)
+- [[Перевод] Flutter: Что нового в версии 2.10](https://habr.com/ru/post/661621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661621)
 - [Security Week 2216: когда кнопка Mute не работает](https://habr.com/ru/post/661599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661599)
-- [Сохраняем код чистым в приложении на Flutter](https://habr.com/ru/post/661609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661609)
-- [Новый регион «Амстердам» и миграция с зарубежных хостингов](https://habr.com/ru/post/661605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661605)
-- [QA-обучение без границ](https://habr.com/ru/post/661591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661591)
-- [Что будет после Теории Всего? &lpar;TOE&rpar;](https://habr.com/ru/post/661551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661551)
 <!-- BLOG-POST-LIST:END -->
