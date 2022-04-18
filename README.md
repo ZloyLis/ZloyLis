@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2216: когда кнопка Mute не работает](https://habr.com/ru/post/661599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661599)
+- [Сохраняем код чистым в приложении на Flutter](https://habr.com/ru/post/661609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661609)
+- [Новый регион «Амстердам» и миграция с зарубежных хостингов](https://habr.com/ru/post/661605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661605)
+- [QA-обучение без границ](https://habr.com/ru/post/661591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661591)
 - [Что будет после Теории Всего? &lpar;TOE&rpar;](https://habr.com/ru/post/661551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661551)
-- [Обход графа в ширину &lpar;BFS&rpar; и глубину &lpar;DFS&rpar;](https://habr.com/ru/post/661577/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661577)
-- [Настольный клиент для Yandex Speechkit text2speech на коленке](https://habr.com/ru/post/661569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661569)
-- [[Перевод] Zustand — руководство по простому управлению состоянием](https://habr.com/ru/post/661411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661411)
-- [[Перевод] Как отследить состояние сетевого соединения в Swift? Привет, нативная реализация, пока, Reachability](https://habr.com/ru/post/661549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661549)
 <!-- BLOG-POST-LIST:END -->
