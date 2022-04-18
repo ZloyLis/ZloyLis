@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BI заместитель: Как сейчас быстро и недорого зарезервировать BI](https://habr.com/ru/post/661417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661417)
 - [Держи свой трафик в тайне. SSL Pinning — ещё раз о том же самом](https://habr.com/ru/post/661093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661093)
 - [Почему Python не топ 1 &lpar;субъективно&rpar;?](https://habr.com/ru/post/661369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661369)
 - [Кривые и что это такое](https://habr.com/ru/post/661437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661437)
 - [Дайджест интересных материалов для мобильного разработчика #439 &lpar;11 — 17 апреля&rpar;](https://habr.com/ru/post/661425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661425)
-- [Flutter: обзор алгоритмов хэширования с использованием плагина hash](https://habr.com/ru/post/661409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661409)
 <!-- BLOG-POST-LIST:END -->
