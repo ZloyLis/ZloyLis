@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мигать лампочками не модно или дампер картриджей dendy на недорогой atmega](https://habr.com/ru/post/661953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661953)
 - [Аддитивная композиция натуральных чисел и её интересные свойства](https://habr.com/ru/post/661945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661945)
 - [[Перевод] Введение в графовые нейросети с механизмом самовнимания на примере PyTorch Geometric](https://habr.com/ru/post/661933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661933)
 - [Этапы профессиональной карьеры разработчика: какие задачи решают junior, middle и senior](https://habr.com/ru/post/661939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661939)
 - [Joomla-дайджест за 1-й квартал 2022 года](https://habr.com/ru/post/661855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661855)
-- [[Перевод] Хватит говорить, что PHP мертв](https://habr.com/ru/post/661913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661913)
 <!-- BLOG-POST-LIST:END -->
