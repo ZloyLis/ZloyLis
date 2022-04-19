@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь покупателя интернет-магазина &lpar; Customer Journey &rpar; с использованием УФМТП](https://habr.com/ru/post/661897/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661897)
+- [Исследуем потребление газа и распределение памяти в программах Solidity](https://habr.com/ru/post/661891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661891)
+- [Анализ синтаксиса, который всегда с тобой](https://habr.com/ru/post/661631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661631)
 - [Kubernetes: как выбрать между self-hosted и managed-решением](https://habr.com/ru/post/661825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661825)
 - [Разработчик в стране Serverless: создаем REST API &lpar;Часть 4&rpar;](https://habr.com/ru/post/659579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659579)
-- [Регистрозависимые ли ключи в JSON](https://habr.com/ru/post/661815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661815)
-- [Apache Camel: direct для новичков](https://habr.com/ru/post/661797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661797)
-- [Kubernetes 1.24: обзор нововведений](https://habr.com/ru/post/661763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661763)
 <!-- BLOG-POST-LIST:END -->
