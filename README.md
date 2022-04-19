@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание своего VPN сервера для смартфона и ПК за 5 шагов — 100 мбит/сек](https://habr.com/ru/post/661589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661589)
+- [Зачем мне использовать materialize и dematerialize операторы, и что такое Notification в RxJS?](https://habr.com/ru/post/661709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661709)
 - [[Перевод] Двенадцатифакторная модель создания CLI-приложений](https://habr.com/ru/post/660895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660895)
 - [«Идеальный процесс работы» UX/UI Дизайнера](https://habr.com/ru/post/661313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661313)
 - [Не делайте лишних колонок в ваших таблицах, вам это не нужно](https://habr.com/ru/post/661699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661699)
-- [Как отформатировать текст в Интернет по ширине с переносами](https://habr.com/ru/post/661689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661689)
-- [Дайджест недели от Apple Pro Weekly News &lpar;11.04 – 17.04.22&rpar;](https://habr.com/ru/post/661421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661421)
 <!-- BLOG-POST-LIST:END -->
