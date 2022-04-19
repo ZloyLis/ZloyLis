@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes 1.24: обзор нововведений](https://habr.com/ru/post/661763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661763)
 - [Яндекс выложил в опенсорс YDB](https://habr.com/ru/post/660271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660271)
 - [[Перевод] Табличные тесты в Go с использованием Gomock](https://habr.com/ru/post/658907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658907)
 - [Опыт эксплуатации Mellanox под управлением Switchdev](https://habr.com/ru/post/661643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661643)
-- [Создание своего VPN сервера для смартфона и ПК за 5 шагов — 100 мбит/сек](https://habr.com/ru/post/661589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661589)
 - [Зачем использовать materialize и dematerialize операторы, и что такое Notification в RxJS?](https://habr.com/ru/post/661709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661709)
 <!-- BLOG-POST-LIST:END -->
