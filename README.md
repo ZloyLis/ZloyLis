@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes: как выбрать между self-hosted и managed-решением](https://habr.com/ru/post/661825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661825)
+- [Разработчик в стране Serverless: создаем REST API &lpar;Часть 4&rpar;](https://habr.com/ru/post/659579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659579)
+- [Регистрозависимые ли ключи в JSON](https://habr.com/ru/post/661815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661815)
 - [Apache Camel: direct для новичков](https://habr.com/ru/post/661797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661797)
 - [Kubernetes 1.24: обзор нововведений](https://habr.com/ru/post/661763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661763)
-- [Яндекс выложил в опенсорс YDB](https://habr.com/ru/post/660271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660271)
-- [[Перевод] Табличные тесты в Go с использованием Gomock](https://habr.com/ru/post/658907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=658907)
-- [Опыт эксплуатации Mellanox под управлением Switchdev](https://habr.com/ru/post/661643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661643)
 <!-- BLOG-POST-LIST:END -->
