@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Этапы профессиональной карьеры разработчика: какие задачи решают junior, middle и senior](https://habr.com/ru/post/661939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661939)
 - [Joomla-дайджест за 1-й квартал 2022 года](https://habr.com/ru/post/661855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661855)
 - [[Перевод] Хватит говорить, что PHP мертв](https://habr.com/ru/post/661913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661913)
 - [Путь покупателя интернет-магазина &lpar;Customer Journey&rpar; с использованием УФМТП](https://habr.com/ru/post/661897/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661897)
 - [Исследуем потребление газа и распределение памяти в программах Solidity](https://habr.com/ru/post/661891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661891)
-- [Анализ синтаксиса, который всегда с тобой](https://habr.com/ru/post/661631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661631)
 <!-- BLOG-POST-LIST:END -->
