@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Двенадцатифакторная модель создания CLI-приложений](https://habr.com/ru/post/660895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660895)
 - [«Идеальный процесс работы» UX/UI Дизайнера](https://habr.com/ru/post/661313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661313)
 - [Не делайте лишних колонок в ваших таблицах, вам это не нужно](https://habr.com/ru/post/661699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661699)
 - [Как отформатировать текст в Интернет по ширине с переносами](https://habr.com/ru/post/661689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661689)
 - [Дайджест недели от Apple Pro Weekly News &lpar;11.04 – 17.04.22&rpar;](https://habr.com/ru/post/661421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661421)
-- [Города, инверсии и логистика: разбор задач для QA-инженеров](https://habr.com/ru/post/661557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661557)
 <!-- BLOG-POST-LIST:END -->
