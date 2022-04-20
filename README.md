@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Аннотации в JAVA](https://habr.com/ru/post/662023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662023)
+- [Умный город Ташкент: как Visiology BI и Геоинтеллект помогли создать современный ситуационный центр](https://habr.com/ru/post/662019/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662019)
+- [Plantuml в работе системного аналитика. Пиши uml диаграммы текстом, чтобы сэкономить время](https://habr.com/ru/post/661931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661931)
 - [Как приручить DDD. Часть 2. Практическая](https://habr.com/ru/post/661129/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661129)
 - [[Перевод] Четыре хитрости в работе с пайплайнами данных, о которых знают не все](https://habr.com/ru/post/659389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659389)
-- [[recovery mode] Модификации сортировки пузырьком](https://habr.com/ru/post/661765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661765)
-- [Ничего не умею, но хочу зарабатывать на играх](https://habr.com/ru/post/661991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661991)
-- [Путь исправления процесса, который работает, но бесит](https://habr.com/ru/post/661903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661903)
 <!-- BLOG-POST-LIST:END -->
