@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Четыре хитрости в работе с пайплайнами данных, о которых знают не все](https://habr.com/ru/post/659389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659389)
+- [[recovery mode] Модификации сортировки пузырьком](https://habr.com/ru/post/661765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661765)
+- [Ничего не умею, но хочу зарабатывать на играх](https://habr.com/ru/post/661991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661991)
 - [Путь исправления процесса, который работает, но бесит](https://habr.com/ru/post/661903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661903)
 - [Формирование однородных групп для сплит-тестирования. Реализация на Python](https://habr.com/ru/post/661657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661657)
-- [Мигать лампочками не модно или дампер картриджей dendy на недорогой atmega](https://habr.com/ru/post/661953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661953)
-- [Аддитивная композиция натуральных чисел и её интересные свойства](https://habr.com/ru/post/661945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661945)
-- [[Перевод] Введение в графовые нейросети с механизмом самовнимания на примере PyTorch Geometric](https://habr.com/ru/post/661933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661933)
 <!-- BLOG-POST-LIST:END -->
