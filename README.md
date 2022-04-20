@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вторая часть гайда по интервью за рубежом — Coding, System Design и Culture Fit](https://habr.com/ru/post/660423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660423)
+- [Что скрывается за курсом по Python: история разработчика](https://habr.com/ru/post/662057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662057)
+- [Гаджеты, по которым сильно скучаем: истории про первые телефоны, мини-ПК и плееры](https://habr.com/ru/post/661537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661537)
+- [[Перевод] MBSE — это не SysML](https://habr.com/ru/post/662093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662093)
+- [Как мы в QIWI внедряли Kotlin Multiplatform Mobile Часть 2: Смотрим шире](https://habr.com/ru/post/662077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662077)
 - [Как мы ускоряли е2е-тесты на Cypress в GitLab](https://habr.com/ru/post/662069/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662069)
-- [Быстрый перенос систем SAP в российское облако: оценка рисков, подбор ресурсов, разбор кейса](https://habr.com/ru/post/662037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662037)
-- [[Перевод] Аннотации в JAVA](https://habr.com/ru/post/662023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662023)
-- [Умный город Ташкент: как Visiology BI и Геоинтеллект помогли создать современный ситуационный центр](https://habr.com/ru/post/662019/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662019)
 <!-- BLOG-POST-LIST:END -->
