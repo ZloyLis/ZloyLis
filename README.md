@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Святой Грааль: алгоритм создания технических курсов, которые хочется проходить до конца](https://habr.com/ru/post/661431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661431)
+- [[Перевод] Как мы потеряли 54 000 звёзд на GitHub](https://habr.com/ru/post/662155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662155)
 - [[Перевод] Flutter: Почему использует язык Dart](https://habr.com/ru/post/662135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662135)
 - [Оптимизация производительности ssr-приложений](https://habr.com/ru/post/588468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=588468)
 - [Java 17 для тех, кто не следил. Часть 1](https://habr.com/ru/post/652821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=652821)
-- [Что скрывается за курсом по Python: история разработчика](https://habr.com/ru/post/662057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662057)
-- [Гаджеты, по которым сильно скучаем: истории про первые телефоны, мини-ПК и плееры](https://habr.com/ru/post/661537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661537)
 <!-- BLOG-POST-LIST:END -->
