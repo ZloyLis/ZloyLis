@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Техники ML, взлом банкоматов и обход IDS — какие конкурсы будут на PHDays 2022](https://habr.com/ru/post/662253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662253)
+- [[Перевод] Лучший технический вопрос, который мне задавали на собеседовании](https://habr.com/ru/post/662247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662247)
 - [Load as a Service: нагрузочное тестирование в inDriver](https://habr.com/ru/post/660135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660135)
 - [[Перевод] Flutter: Создание расширения для Chrome](https://habr.com/ru/post/662225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662225)
 - [[Перевод] 21 распространённая ошибка в автоматизированном тестировании и способы борьбы с ними](https://habr.com/ru/post/662211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662211)
-- [Броуновское движение простых чисел](https://habr.com/ru/post/662197/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662197)
-- [Инструменты выполнения фоновых задач в Go](https://habr.com/ru/post/661645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661645)
 <!-- BLOG-POST-LIST:END -->
