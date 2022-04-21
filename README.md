@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С++ без классов?](https://habr.com/ru/post/662351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662351)
 - [Предварительная программа DUMP-2022 готова. Выступят докладчики из Яндекс, Tinkoff, Ozon, Skyeng, HTML Academy](https://habr.com/ru/post/662347/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662347)
 - [Регистры STM32 в структурах на битовых полях, UART &lpar;Tx, Rx-длина?&rpar; + DMA](https://habr.com/ru/post/662341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662341)
 - [Алгоритмы на кристалле &lpar;анонс книги&rpar;](https://habr.com/ru/post/549380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=549380)
 - [JavaScript редактор текста для SVG](https://habr.com/ru/post/662335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662335)
-- [Huawei Mobile Services и AppGallery: подробная инструкция для начинающих](https://habr.com/ru/post/662297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662297)
 <!-- BLOG-POST-LIST:END -->
