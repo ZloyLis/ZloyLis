@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Load as a Service: нагрузочное тестирование в inDriver](https://habr.com/ru/post/660135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660135)
+- [[Перевод] Flutter: Создание расширения для Chrome](https://habr.com/ru/post/662225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662225)
+- [[Перевод] 21 распространённая ошибка в автоматизированном тестировании и способы борьбы с ними](https://habr.com/ru/post/662211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662211)
+- [Броуновское движение простых чисел](https://habr.com/ru/post/662197/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662197)
 - [Инструменты выполнения фоновых задач в Go](https://habr.com/ru/post/661645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661645)
-- [[Перевод] Proof-of-work — лучший выбор консенсуса для Bitcoin](https://habr.com/ru/post/662189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662189)
-- [[Перевод] Предложение о синтаксисе типов в JavaScript](https://habr.com/ru/post/662187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662187)
-- [[Перевод] Лекция 4. Super Mario Bros. — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/662185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662185)
-- [Стелем мягкую соломку на жёсткий Flutter: как подготовиться к первому проекту, чтобы не провалить его](https://habr.com/ru/post/661441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661441)
 <!-- BLOG-POST-LIST:END -->
