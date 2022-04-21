@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стейт-машины в iOS](https://habr.com/ru/post/662149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662149)
+- [Распознавание документов в браузере вашего устройства](https://habr.com/ru/post/661899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661899)
+- [Типовые запросы в SQL для всех. Плюсы и минусы](https://habr.com/ru/post/662175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662175)
 - [«Помощник учителя»: от идеи до популярного мобильного приложения](https://habr.com/ru/post/662165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662165)
 - [Алгоритм создания технических курсов, которые хочется проходить до конца](https://habr.com/ru/post/661431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661431)
-- [[Перевод] Как мы потеряли 54 000 звёзд на GitHub](https://habr.com/ru/post/662155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662155)
-- [[Перевод] Flutter: Почему использует язык Dart](https://habr.com/ru/post/662135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662135)
-- [Оптимизация производительности ssr-приложений](https://habr.com/ru/post/588468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=588468)
 <!-- BLOG-POST-LIST:END -->
