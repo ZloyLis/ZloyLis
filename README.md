@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рецепт приготовления команды по принципу пирога](https://habr.com/ru/post/662307/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662307)
 - [Huawei Mobile Services и AppGallery: подробная инструкция для начинающих](https://habr.com/ru/post/662297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662297)
 - [[Перевод] Structured concurrency в Swift](https://habr.com/ru/post/660611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660611)
 - [Быть тимлидом, а не казаться: обзор человечных практик и инструментов](https://habr.com/ru/post/662075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662075)
 - [Техники ML, взлом банкоматов и обход IDS — какие конкурсы будут на PHDays 2022](https://habr.com/ru/post/662253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662253)
+- [[Перевод] Лучший технический вопрос, который мне задавали на собеседовании](https://habr.com/ru/post/662247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662247)
 <!-- BLOG-POST-LIST:END -->
