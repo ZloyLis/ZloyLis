@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Строительная теория старения](https://habr.com/ru/post/661323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661323)
+- [[Перевод] CSS :has&lpar;&rpar; селектор](https://habr.com/ru/post/662355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662355)
+- [Тысяча и один бэкап: как мы ускорили создание резервных копий на OpenStack в 10 раз](https://habr.com/ru/post/661553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661553)
+- [Platform V DataSpace: пишем код на Java при помощи удобного SDK](https://habr.com/ru/post/662397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662397)
 - [С++ без классов?](https://habr.com/ru/post/662351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662351)
 - [Предварительная программа DUMP-2022 готова. Выступят докладчики из Яндекс, Tinkoff, Ozon, Skyeng, HTML Academy](https://habr.com/ru/post/662347/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662347)
-- [Регистры STM32 в структурах на битовых полях, UART &lpar;Tx, Rx-длина?&rpar; + DMA](https://habr.com/ru/post/662341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662341)
-- [Алгоритмы на кристалле &lpar;анонс книги&rpar;](https://habr.com/ru/post/549380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=549380)
 <!-- BLOG-POST-LIST:END -->
