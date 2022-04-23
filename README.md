@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задача про 2 ёмкости для жидкости](https://habr.com/ru/post/662561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662561)
+- [[recovery mode] Как я разрабатывал игру fly bird 2](https://habr.com/ru/post/662559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662559)
 - [[Перевод] О производительности Javascript. Рейтинг Techempower](https://habr.com/ru/post/662521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662521)
 - [Как перевести 100 000 учеток на микросервис и ничего не сломать](https://habr.com/ru/post/662467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662467)
 - [Прощай, мертворождённый 5G mmWave](https://habr.com/ru/post/662421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662421)
-- [[Перевод] CSS :has&lpar;&rpar; селектор](https://habr.com/ru/post/662355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662355)
-- [Тысяча и один бэкап: как мы ускорили создание резервных копий на OpenStack в 10 раз](https://habr.com/ru/post/661553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661553)
 <!-- BLOG-POST-LIST:END -->
