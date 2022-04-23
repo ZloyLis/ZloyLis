@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] О производительности Javascript. Рейтинг Techempower](https://habr.com/ru/post/662521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662521)
 - [Как перевести 100 000 учеток на микросервис и ничего не сломать](https://habr.com/ru/post/662467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662467)
 - [Прощай, мертворождённый 5G mmWave](https://habr.com/ru/post/662421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662421)
 - [[Перевод] CSS :has&lpar;&rpar; селектор](https://habr.com/ru/post/662355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662355)
 - [Тысяча и один бэкап: как мы ускорили создание резервных копий на OpenStack в 10 раз](https://habr.com/ru/post/661553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661553)
-- [Platform V DataSpace: пишем код на Java при помощи удобного SDK](https://habr.com/ru/post/662397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662397)
 <!-- BLOG-POST-LIST:END -->
