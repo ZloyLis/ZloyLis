@@ -26,7 +26,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Почему IT-специалисты делают паузу в карьере и как после этого вернуться на работу](https://habr.com/ru/post/662557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662557)
-- [Задача про 2-e ёмкости для жидкости](https://habr.com/ru/post/662561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662561)
+- [Задача про две ёмкости для жидкости](https://habr.com/ru/post/662561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662561)
 - [[recovery mode] Как я разрабатывал игру fly bird 2](https://habr.com/ru/post/662559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662559)
 - [[Перевод] О производительности Javascript. Рейтинг Techempower](https://habr.com/ru/post/662521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662521)
 - [Как перевести 100 000 учеток на микросервис и ничего не сломать](https://habr.com/ru/post/662467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662467)
