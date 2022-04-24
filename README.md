@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой способ создания и переиспользования модальных диалогов во Vue 3](https://habr.com/ru/post/662652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662652)
 - [Обзор всего доступного в С++ type erasure](https://habr.com/ru/post/662628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662628)
 - [Быстрый бэкап всех ваших репозиториев Github](https://habr.com/ru/post/662608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662608)
 - [GraphQL &amp;amp;lt;-&amp;amp;gt; gRPC API Gateway на Java](https://habr.com/ru/post/662594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662594)
 - [Музыка как код — опробовать концепцию можно прямо в браузере](https://habr.com/ru/post/662471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662471)
-- [Почему IT-специалисты делают паузу в карьере и как после этого вернуться на работу](https://habr.com/ru/post/662557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662557)
 <!-- BLOG-POST-LIST:END -->
