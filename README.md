@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL &amp;amp;lt;-&amp;amp;gt; gRPC API Gateway на Java](https://habr.com/ru/post/662594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662594)
 - [Музыка как код — опробовать концепцию можно прямо в браузере](https://habr.com/ru/post/662471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662471)
 - [Почему IT-специалисты делают паузу в карьере и как после этого вернуться на работу](https://habr.com/ru/post/662557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662557)
 - [Задача про две ёмкости для жидкости](https://habr.com/ru/post/662561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662561)
 - [[recovery mode] Как я разрабатывал игру fly bird 2](https://habr.com/ru/post/662559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662559)
-- [[Перевод] О производительности Javascript. Рейтинг Techempower](https://habr.com/ru/post/662521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662521)
 <!-- BLOG-POST-LIST:END -->
