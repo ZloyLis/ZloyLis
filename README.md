@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Синхронизируй это»: компактный обзор примечательных решений и протоколов для передачи звука по Ethernet](https://habr.com/ru/post/662537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662537)
 - [Дайджест интересных материалов для мобильного разработчика #440 &lpar;18 — 24 апреля&rpar;](https://habr.com/ru/post/662668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662668)
 - [Простой способ создания и переиспользования модальных диалогов во Vue 3](https://habr.com/ru/post/662652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662652)
 - [Обзор всего доступного в С++ type erasure](https://habr.com/ru/post/662628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662628)
 - [Быстрый бэкап всех ваших репозиториев Github](https://habr.com/ru/post/662608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662608)
-- [GraphQL &amp;amp;lt;-&amp;amp;gt; gRPC API Gateway на Java](https://habr.com/ru/post/662594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662594)
 <!-- BLOG-POST-LIST:END -->
