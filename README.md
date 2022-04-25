@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой способ обнаружить retain cycle в UIViewController](https://habr.com/ru/post/662708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662708)
+- [[Перевод] Меняем std::sort для Google](https://habr.com/ru/post/662181/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662181)
 - [Фронтенд-новости №3. Node.js v18.0.0, аннотации типов в JavaScript, СSS Toggles](https://habr.com/ru/post/661297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661297)
 - [И снова про App Transport Security: что это и зачем](https://habr.com/ru/post/661345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661345)
 - [Самодостаточная капча без бутстрапа и БД](https://habr.com/ru/post/662682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662682)
-- [Reactive Spring Cloud Gateway: конвейер WebSocket в Restful и обратно](https://habr.com/ru/post/662692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662692)
-- [[Перевод] Сложение векторов со скоростью 154 Гб/с на WebAssembly](https://habr.com/ru/post/662686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662686)
 <!-- BLOG-POST-LIST:END -->
