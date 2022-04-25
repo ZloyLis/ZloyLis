@@ -27,7 +27,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Reactive Spring Cloud Gateway: конвейер WebSocket в Restful и обратно](https://habr.com/ru/post/662692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662692)
 - [[Перевод] Сложение векторов со скоростью 154 Гб/с на WebAssembly](https://habr.com/ru/post/662686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662686)
+- [Полку Linux-телефонов прибыло: встречаем Volla Phone 22, смартфон с Ubuntu Touch на борту](https://habr.com/ru/post/661587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661587)
 - [Рыцарь Машинной Графики](https://habr.com/ru/post/662684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662684)
 - [Введение в $mol. Часть 1. Модульная система](https://habr.com/ru/post/662680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662680)
-- [«Синхронизируй это»: компактный обзор примечательных решений и протоколов для передачи звука по Ethernet](https://habr.com/ru/post/662537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662537)
 <!-- BLOG-POST-LIST:END -->
