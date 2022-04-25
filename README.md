@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;18.04 – 24.04.22&rpar;](https://habr.com/ru/post/662696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662696)
+- [Как вытянуть данные через официальный API ВК](https://habr.com/ru/post/662858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662858)
 - [Как мы научили «AI да Пушкин» создавать стихи и какие еще технологии использовали](https://habr.com/ru/post/662838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662838)
 - [Конвергенция в многомодульном приложении](https://habr.com/ru/post/662766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662766)
 - [Node.js: разрабатываем пакетный менеджер](https://habr.com/ru/post/662830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662830)
-- [TypeScript: худший лучший язык программирования](https://habr.com/ru/post/660683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660683)
-- [Как мы распознавали птиц при помощи камер и искусственного интеллекта &lpar;часть 1&rpar;](https://habr.com/ru/post/662770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662770)
 <!-- BLOG-POST-LIST:END -->
