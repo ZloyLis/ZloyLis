@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Зачем нужен статический анализ? Разбираем на примере ошибки из Akka.NET](https://habr.com/ru/post/662832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662832)
+- [Как мы научили «AI да Пушкин» создавать стихи и какие еще технологии использовали](https://habr.com/ru/post/662838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662838)
 - [Конвергенция в многомодульном приложении](https://habr.com/ru/post/662766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662766)
 - [Node.js: разрабатываем пакетный менеджер](https://habr.com/ru/post/662830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662830)
 - [TypeScript: худший лучший язык программирования](https://habr.com/ru/post/660683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660683)
