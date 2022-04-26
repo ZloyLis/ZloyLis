@@ -26,8 +26,8 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Что болит у техлидов и DevOps-инженеров?](https://habr.com/ru/post/663074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663074)
-- [[Перевод] Поворотный энкодер: насколько сложен он может быть](https://habr.com/ru/post/663060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663060)
 - [Тест-ревью: как прошли два года написания unit-тестов](https://habr.com/ru/post/661741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661741)
 - [[recovery mode] Выбор API Management платформы: какие критерии важны?](https://habr.com/ru/post/663056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663056)
 - [[Перевод] Как настроить VS Code для Java разработки](https://habr.com/ru/post/661987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661987)
+- [Индекс Лепрекона](https://habr.com/ru/post/663032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663032)
 <!-- BLOG-POST-LIST:END -->
