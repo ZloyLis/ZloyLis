@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по написанию и рефакторингу компонент, которые хочется переиспользовать](https://habr.com/ru/post/662826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662826)
 - [Security Week 2217: расшифрованный шифровальщик](https://habr.com/ru/post/662850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662850)
 - [Строковые алгоритмы на практике. Часть 3 — Алгоритм Рабина — Карпа](https://habr.com/ru/post/662678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662678)
 - [Успех на каждый день](https://habr.com/ru/post/662942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662942)
 - [Тёмная сторона Android App widgets](https://habr.com/ru/post/662930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662930)
-- [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 5](https://habr.com/ru/post/662910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662910)
 <!-- BLOG-POST-LIST:END -->
