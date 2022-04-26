@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Успех на каждый день](https://habr.com/ru/post/662942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662942)
 - [Тёмная сторона Android App widgets](https://habr.com/ru/post/662930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662930)
 - [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 5](https://habr.com/ru/post/662910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662910)
 - [Почему типы так много значат для программистов?](https://habr.com/ru/post/662888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662888)
 - [Куда уходит время? Боремся за миллисекунды в Kubernetes](https://habr.com/ru/post/662758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662758)
-- [Дайджест недели от Apple Pro Weekly News &lpar;18.04 – 24.04.22&rpar;](https://habr.com/ru/post/662696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662696)
 <!-- BLOG-POST-LIST:END -->
