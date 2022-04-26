@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интервью с командой разработчиков социальной сети Now](https://habr.com/ru/post/662988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662988)
-- [Сделай то, сделай это, сделай сам](https://habr.com/ru/post/662986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662986)
-- [GraphQL и почти все-все-все. Часть 1:&rpar;](https://habr.com/ru/post/662958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662958)
-- [Sheldon: бот для автоматизации командной рутины](https://habr.com/ru/post/653417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653417)
-- [Гайд по написанию и рефакторингу компонентов, которые хочется переиспользовать](https://habr.com/ru/post/662826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662826)
+- [[Перевод] Поворотный шифратор: насколько сложен он может быть](https://habr.com/ru/post/663060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663060)
+- [Тест-ревью: как прошли два года написания unit-тестов](https://habr.com/ru/post/661741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661741)
+- [[recovery mode] Выбор API Management платформы: какие критерии важны?](https://habr.com/ru/post/663056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663056)
+- [[Перевод] Как настроить VS Code для Java разработки](https://habr.com/ru/post/661987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661987)
+- [Индекс Лепрекона](https://habr.com/ru/post/663032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663032)
 <!-- BLOG-POST-LIST:END -->
