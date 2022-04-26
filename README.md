@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интервью с командой разработчиков социальной сети Now](https://habr.com/ru/post/662988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662988)
 - [Сделай то, сделай это, сделай сам](https://habr.com/ru/post/662986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662986)
 - [GraphQL и почти все-все-все. Часть 1:&rpar;](https://habr.com/ru/post/662958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662958)
 - [Sheldon: бот для автоматизации командной рутины](https://habr.com/ru/post/653417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653417)
-- [Гайд по написанию и рефакторингу компонент, которые хочется переиспользовать](https://habr.com/ru/post/662826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662826)
-- [Security Week 2217: расшифрованный шифровальщик](https://habr.com/ru/post/662850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662850)
+- [Гайд по написанию и рефакторингу компонентов, которые хочется переиспользовать](https://habr.com/ru/post/662826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662826)
 <!-- BLOG-POST-LIST:END -->
