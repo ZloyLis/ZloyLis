@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tarantool 2.10: сжимаем данные, шифруем трафик, помогаем расследовать инциденты](https://habr.com/ru/post/663240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663240)
+- [[Перевод] Асинхронное взаимодействие Spring-микросервисов с помощью Kafka](https://habr.com/ru/post/663264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663264)
 - [Руководство по NestJS. Часть 1](https://habr.com/ru/post/663234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663234)
 - [Работа с docx c помощью bayoo-docx](https://habr.com/ru/post/663028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663028)
 - [[Перевод] Десять уроков от математика Джан-Карло Рота, которые он сам хотел бы усвоить](https://habr.com/ru/post/663078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663078)
-- [Найти за полсекунды: сравниваем похожие фотографии](https://habr.com/ru/post/663012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663012)
-- [От пика глупости на склон просветления: как я потратил 1,5 млн на обучение](https://habr.com/ru/post/663198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663198)
 <!-- BLOG-POST-LIST:END -->
