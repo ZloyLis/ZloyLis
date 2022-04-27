@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От пика глупости на склон просветления: как я потратил 1,5 млн на обучение](https://habr.com/ru/post/663198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663198)
 - [Моя лепта в экономию бумаги на производстве](https://habr.com/ru/post/663176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663176)
 - [Практические истории из наших SRE-будней. Часть 6](https://habr.com/ru/post/662459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662459)
 - [22 новых фичи C# — каким будет C# 11+](https://habr.com/ru/post/663150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663150)
 - [[Перевод] В апреле выйдет GNU Compiler Collection 12](https://habr.com/ru/post/662932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662932)
-- [Что болит у техлидов и DevOps-инженеров?](https://habr.com/ru/post/663074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663074)
 <!-- BLOG-POST-LIST:END -->
