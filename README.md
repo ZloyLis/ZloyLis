@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с отсутствующими значениями в Python](https://habr.com/ru/post/663414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663414)
+- [Эволюция PVS-Studio: анализ потока данных для связанных переменных](https://habr.com/ru/post/663410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663410)
+- [[Перевод] Настоящее и будущее дата-инжиниринга](https://habr.com/ru/post/661777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661777)
+- [[Перевод] ROS книги по робототехнике переведенные на русский язык](https://habr.com/ru/post/663230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663230)
 - [Чем именно YouTube нравится пользователю?](https://habr.com/ru/post/663394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663394)
-- [О чем вы даже не подозреваете, решая стать программистом](https://habr.com/ru/post/663388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663388)
-- [Миграционный контроль: о чём нужно помнить при переезде на новую инфраструктуру](https://habr.com/ru/post/663386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663386)
-- [Запись разговоров на мобильных](https://habr.com/ru/post/663360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663360)
-- [Как мы построили корпоративную шину данных на Kafka, которая обрабатывает до 3 млн сообщений в секунду](https://habr.com/ru/post/663306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663306)
 <!-- BLOG-POST-LIST:END -->
