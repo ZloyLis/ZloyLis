@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему роль DevOps-инженера многие до сих пор понимают неверно](https://habr.com/ru/post/663548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663548)
 - [Альф, переведи мне на телефон миллион рублей](https://habr.com/ru/post/663442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663442)
 - [Angular Universal: работа в крупном e-commerce](https://habr.com/ru/post/663518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663518)
 - [Data Science и математика: самые важные разделы науки в освоении профессии](https://habr.com/ru/post/663508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663508)
 - [CRUD 0.11.0 для Tarantool](https://habr.com/ru/post/663496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663496)
-- [Тинькофф Инвестиции про новую версию API и конкурс торговых роботов](https://habr.com/ru/post/663498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663498)
 <!-- BLOG-POST-LIST:END -->
