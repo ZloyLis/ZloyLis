@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О чём расскажут на TechTrain 2022 Spring](https://habr.com/ru/post/663398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663398)
+- [Проблемы с поиском в интернете нужной программы. Часть 2](https://habr.com/ru/post/663426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663426)
+- [Как мы СМ 3.0 запускали](https://habr.com/ru/post/660431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660431)
 - [Работа с отсутствующими значениями в Python](https://habr.com/ru/post/663414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663414)
 - [Эволюция PVS-Studio: анализ потока данных для связанных переменных](https://habr.com/ru/post/663410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663410)
-- [[Перевод] Настоящее и будущее дата-инжиниринга](https://habr.com/ru/post/661777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661777)
-- [[Перевод] ROS книги по робототехнике переведенные на русский язык](https://habr.com/ru/post/663230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663230)
-- [Чем именно YouTube нравится пользователю?](https://habr.com/ru/post/663394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663394)
 <!-- BLOG-POST-LIST:END -->
