@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Helmwave v0.19.3](https://habr.com/ru/post/663344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663344)
 - [Цифровой двойник — рецепты приготовления. Модельно-ориентированное проектирование системы электроснабжения самолета](https://habr.com/ru/post/662908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662908)
 - [Мобильная игра на HTML, CSS, JavaScript, jQuery, Apache Cordova и Firebase. Как сделать красиво снаружи и плохо внутри](https://habr.com/ru/post/663316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663316)
 - [Tarantool 2.10: сжимаем данные, шифруем трафик, помогаем расследовать инциденты](https://habr.com/ru/post/663240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663240)
 - [[Перевод] Асинхронное взаимодействие Spring-микросервисов с помощью Kafka](https://habr.com/ru/post/663264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663264)
-- [Руководство по NestJS. Часть 1](https://habr.com/ru/post/663234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663234)
 <!-- BLOG-POST-LIST:END -->
