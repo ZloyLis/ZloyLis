@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем именно YouTube нравится пользователю?](https://habr.com/ru/post/663394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663394)
+- [О чем вы даже не подозреваете, решая стать программистом](https://habr.com/ru/post/663388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663388)
+- [Миграционный контроль: о чём нужно помнить при переезде на новую инфраструктуру](https://habr.com/ru/post/663386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663386)
+- [Запись разговоров на мобильных](https://habr.com/ru/post/663360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663360)
 - [Как мы построили корпоративную шину данных на Kafka, которая обрабатывает до 3 млн сообщений в секунду](https://habr.com/ru/post/663306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663306)
-- [Топ вопросов работодателю от Android-разработчика](https://habr.com/ru/post/663266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663266)
-- [Helmwave v0.19.3](https://habr.com/ru/post/663344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663344)
-- [Цифровой двойник — рецепты приготовления. Модельно-ориентированное проектирование системы электроснабжения самолета](https://habr.com/ru/post/662908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662908)
-- [Мобильная игра на HTML, CSS, JavaScript, jQuery, Apache Cordova и Firebase. Как сделать красиво снаружи и плохо внутри](https://habr.com/ru/post/663316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663316)
 <!-- BLOG-POST-LIST:END -->
