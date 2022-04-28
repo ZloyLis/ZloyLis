@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Science и математика: самые важные разделы науки в освоении профессии](https://habr.com/ru/post/663508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663508)
+- [CRUD 0.11.0 для Tarantool](https://habr.com/ru/post/663496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663496)
+- [Тинькофф Инвестиции про новую версию API и конкурс торговых роботов](https://habr.com/ru/post/663498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663498)
 - [Как развиваться программисту, не меняя работу](https://habr.com/ru/post/663476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663476)
 - [[Перевод] Эффективный параллакс](https://habr.com/ru/post/663454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663454)
-- [Как мы сделали мобильные устройства круглосуточно доступными для распределенной QA-команды и не только](https://habr.com/ru/post/663282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663282)
-- [О чём расскажут на TechTrain 2022 Spring](https://habr.com/ru/post/663398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663398)
-- [Как мы СМ 3.0 запускали](https://habr.com/ru/post/660431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660431)
 <!-- BLOG-POST-LIST:END -->
