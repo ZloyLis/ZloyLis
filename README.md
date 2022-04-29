@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 17 для тех, кто не следил. Часть 2: API](https://habr.com/ru/post/663220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663220)
 - [Как работает Backend-Driven UI на мобильном клиенте](https://habr.com/ru/post/661941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661941)
 - [Профилируем php на бою](https://habr.com/ru/post/662349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662349)
 - [Кризис гениев: почему за последние сто лет не появилось новых Ньютонов или Моцартов](https://habr.com/ru/post/663638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663638)
 - [Отменяем операции правильно на примере корутин](https://habr.com/ru/post/663392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663392)
-- [Автоматическое развёртывание инфраструктуры в iOS проекте](https://habr.com/ru/post/662055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662055)
 <!-- BLOG-POST-LIST:END -->
