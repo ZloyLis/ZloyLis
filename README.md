@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему ваше приложение могут не пропустить или даже удалить из App Store?](https://habr.com/ru/post/663614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663614)
 - [[Перевод] Введение в суррогатные модели. Часть 1: Актуальность и новизна](https://habr.com/ru/post/663578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663578)
 - [Забавы с маргинальными фреймворками: Пишем приложение для отладки TCP соединений с Malina.js](https://habr.com/ru/post/663568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663568)
 - [[Перевод] Почему роль DevOps-инженера многие до сих пор понимают неверно](https://habr.com/ru/post/663548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663548)
 - [Альф, переведи мне на телефон миллион рублей](https://habr.com/ru/post/663442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663442)
-- [Angular Universal: работа в крупном e-commerce](https://habr.com/ru/post/663518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663518)
 <!-- BLOG-POST-LIST:END -->
