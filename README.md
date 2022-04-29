@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Gatling. Тестирование JDBC](https://habr.com/ru/post/663718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663718)
 - [Страшно дорого](https://habr.com/ru/post/663694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663694)
 - [Готовим чемоданчик serverless разработчика. &lpar;Часть 5 Заключительная&rpar;](https://habr.com/ru/post/663650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663650)
 - [IT-способ получения информации из достоверного источника](https://habr.com/ru/post/663670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663670)
 - [VR + точная тактильная отдача. Имитационный тренажер буровой установки ZBO S15](https://habr.com/ru/post/663664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663664)
-- [Дело NGINX, или Как распределить права на знания между работником и работодателем](https://habr.com/ru/post/663036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663036)
 <!-- BLOG-POST-LIST:END -->
