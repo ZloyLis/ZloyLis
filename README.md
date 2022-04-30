@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вражеский нейлон](https://habr.com/ru/post/663838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663838)
 - [Как использовать Kotlin Multiplatform ViewModel в SwiftUI и Jetpack Compose](https://habr.com/ru/post/663824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663824)
 - [Как я попробовал Grav CMS](https://habr.com/ru/post/663822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663822)
 - [О конце времен. Может ли время закончиться?](https://habr.com/ru/post/663812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663812)
 - [Динамика в деле: интерактивные графики в Dash](https://habr.com/ru/post/663686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663686)
-- [Упрощение сложной фильтрации в LINQ с помощью шаблона «Спецификация» и библиотеки XSpecification](https://habr.com/ru/post/663808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663808)
 <!-- BLOG-POST-LIST:END -->
