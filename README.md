@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли жизнь без тестов?](https://habr.com/ru/post/279943/?utm_source=habrahabr&utm_medium=rss&utm_campaign=279943)
+- [Как развиваться программисту, не меняя работу](https://habr.com/ru/post/663842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663842)
+- [Полный Гайд по Shopify](https://habr.com/ru/post/663844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663844)
 - [Вражеский нейлон](https://habr.com/ru/post/663838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663838)
 - [Как использовать Kotlin Multiplatform ViewModel в SwiftUI и Jetpack Compose](https://habr.com/ru/post/663824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663824)
-- [Как я попробовал Grav CMS](https://habr.com/ru/post/663822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663822)
-- [О конце времен. Может ли время закончиться?](https://habr.com/ru/post/663812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663812)
-- [Динамика в деле: интерактивные графики в Dash](https://habr.com/ru/post/663686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663686)
 <!-- BLOG-POST-LIST:END -->
