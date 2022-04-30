@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О конце времен. Может ли время закончиться?](https://habr.com/ru/post/663812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663812)
+- [Динамика в деле: интерактивные графики в Dash](https://habr.com/ru/post/663686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663686)
 - [Упрощение сложной фильтрации в LINQ с помощью шаблона «Спецификация» и библиотеки XSpecification](https://habr.com/ru/post/663808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663808)
 - [Встречают по одёжке: как мы меняем главную в приложении с 13 миллионами MAU](https://habr.com/ru/post/663510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663510)
 - [Gatling. Тестирование JDBC](https://habr.com/ru/post/663718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663718)
-- [Страшно дорого](https://habr.com/ru/post/663694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663694)
-- [Готовим чемоданчик serverless разработчика. &lpar;Часть 5 Заключительная&rpar;](https://habr.com/ru/post/663650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663650)
 <!-- BLOG-POST-LIST:END -->
