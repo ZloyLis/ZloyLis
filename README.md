@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лексический анализ в 11l](https://habr.com/ru/post/663870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663870)
+- [[Перевод] Изящное шестистраничное доказательство. Как возникают случайные структуры](https://habr.com/ru/post/663864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663864)
 - [Как я протестировала интерфейс голосового ассистента Сбер Салют](https://habr.com/ru/post/663850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663850)
 - [Квантовый хэдж фонд: что интересного для IT специалиста?](https://habr.com/ru/post/663846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663846)
 - [Есть ли жизнь без тестов?](https://habr.com/ru/post/279943/?utm_source=habrahabr&utm_medium=rss&utm_campaign=279943)
-- [Как развиваться программисту, не меняя работу](https://habr.com/ru/post/663842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663842)
-- [Полный Гайд по Shopify](https://habr.com/ru/post/663844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663844)
 <!-- BLOG-POST-LIST:END -->
