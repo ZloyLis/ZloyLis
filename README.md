@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какое приложение нужно скачать, чтобы открывать дверь телефоном?](https://habr.com/ru/post/663902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663902)
 - [Удаленное управление БЗК камерой Z6 посредством SDK](https://habr.com/ru/post/663880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663880)
 - [Лексический анализ в 11l](https://habr.com/ru/post/663870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663870)
 - [[Перевод] Изящное шестистраничное доказательство. Как возникают случайные структуры](https://habr.com/ru/post/663864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663864)
 - [Как я протестировала интерфейс голосового ассистента Сбер Салют](https://habr.com/ru/post/663850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663850)
-- [Квантовый хэдж фонд: что интересного для IT специалиста?](https://habr.com/ru/post/663846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663846)
 <!-- BLOG-POST-LIST:END -->
