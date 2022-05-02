@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать писать приложения на ClojureDart](https://habr.com/ru/post/664026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664026)
+- [Дайджест интересных материалов для мобильного разработчика #441 &lpar;25 апреля — 2 мая&rpar;](https://habr.com/ru/post/664022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664022)
 - [React Native 0.68 и «новая архитектура»](https://habr.com/ru/post/663928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663928)
 - [Как создать эффективную систему модерации](https://habr.com/ru/post/663986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663986)
 - [Как стать Java разработчиком — путь специалиста Leantech с нуля до уровня Middle](https://habr.com/ru/post/663982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663982)
-- [[Перевод] Как мы теряли игроков из-за того, что они платили за игру](https://habr.com/ru/post/663962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663962)
-- [Фронтенд-новости №4. Лучший шрифт для веба, поиск среди hidden, очередной React](https://habr.com/ru/post/662860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662860)
 <!-- BLOG-POST-LIST:END -->
