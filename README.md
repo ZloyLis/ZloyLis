@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native 0.68 и «новая архитектура»](https://habr.com/ru/post/663928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663928)
 - [Как создать эффективную систему модерации](https://habr.com/ru/post/663986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663986)
 - [Как стать Java разработчиком — путь специалиста Leantech с нуля до уровня Middle](https://habr.com/ru/post/663982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663982)
 - [[Перевод] Как мы теряли игроков из-за того, что они платили за игру](https://habr.com/ru/post/663962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663962)
 - [Фронтенд-новости №4. Лучший шрифт для веба, поиск среди hidden, очередной React](https://habr.com/ru/post/662860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662860)
-- [[Перевод] SOLID – это не правила, а гайдлайны](https://habr.com/ru/post/663968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663968)
 <!-- BLOG-POST-LIST:END -->
