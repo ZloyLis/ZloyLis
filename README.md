@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] SOLID – это не правила, а гайдлайны](https://habr.com/ru/post/663968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663968)
 - [[Перевод] Изучение TypeScript — Полное руководство для начинающих. Часть 1 — введение и примитивные типы данных](https://habr.com/ru/post/663964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663964)
 - [Когда разница адресов имеет значение](https://habr.com/ru/post/663960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663960)
 - [[Перевод] Внедрение Postgres из Docker в Kubernetes](https://habr.com/ru/post/662784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662784)
 - [Погружение в Charles Proxy](https://habr.com/ru/post/663926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663926)
-- [[Перевод] 11 хитростей Chrome DevTools, которые помогут Вам стать Senior FrontEnd-разработчиком](https://habr.com/ru/post/663904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663904)
 <!-- BLOG-POST-LIST:END -->
