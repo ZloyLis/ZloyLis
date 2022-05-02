@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Внедрение Postgres из Docker в Kubernetes](https://habr.com/ru/post/662784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662784)
 - [Погружение в Charles Proxy](https://habr.com/ru/post/663926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663926)
 - [[Перевод] 11 хитростей Chrome DevTools, которые помогут Вам стать Senior FrontEnd-разработчиком](https://habr.com/ru/post/663904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663904)
 - [Какое приложение нужно скачать, чтобы открывать дверь телефоном?](https://habr.com/ru/post/663902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663902)
 - [Удаленное управление БЗК камерой Z6 посредством SDK](https://habr.com/ru/post/663880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663880)
-- [Лексический анализ в 11l](https://habr.com/ru/post/663870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663870)
 <!-- BLOG-POST-LIST:END -->
