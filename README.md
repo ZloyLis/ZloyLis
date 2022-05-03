@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему программистам нужно знать структуры данных и как я сэкономил Uber $22 000 в год](https://habr.com/ru/post/664054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664054)
 - [Как начать писать приложения на ClojureDart](https://habr.com/ru/post/664026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664026)
 - [Дайджест интересных материалов для мобильного разработчика #441 &lpar;25 апреля — 2 мая&rpar;](https://habr.com/ru/post/664022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664022)
 - [React Native 0.68 и «новая архитектура»](https://habr.com/ru/post/663928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663928)
 - [Как создать эффективную систему модерации](https://habr.com/ru/post/663986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663986)
-- [Как стать Java разработчиком — путь специалиста Leantech с нуля до уровня Middle](https://habr.com/ru/post/663982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663982)
 <!-- BLOG-POST-LIST:END -->
