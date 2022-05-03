@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание Word Art из изображения с помощью Python](https://habr.com/ru/post/664084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664084)
+- [Развертывание моделей машинного обучения. Часть первая. Размещаем Web-приложение в облачной платформе Heroku](https://habr.com/ru/post/664076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664076)
 - [Почему программистам нужно знать структуры данных и как я сэкономил Uber $22 000 в год](https://habr.com/ru/post/664054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664054)
 - [Как начать писать приложения на ClojureDart](https://habr.com/ru/post/664026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664026)
 - [Дайджест интересных материалов для мобильного разработчика #441 &lpar;25 апреля — 2 мая&rpar;](https://habr.com/ru/post/664022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664022)
-- [React Native 0.68 и «новая архитектура»](https://habr.com/ru/post/663928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663928)
-- [Как создать эффективную систему модерации](https://habr.com/ru/post/663986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663986)
 <!-- BLOG-POST-LIST:END -->
