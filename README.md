@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы используем фича-флаги в мобильном приложений QIWI Кошелек](https://habr.com/ru/post/664152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664152)
+- [Комментарии в коде как вид искусства](https://habr.com/ru/post/664272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664272)
+- [Игровой код, который сам себя программирует](https://habr.com/ru/post/664256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664256)
 - [[Перевод] По существу о C# 10.0: как нам упростили жизнь — Часть 2](https://habr.com/ru/post/664228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664228)
 - [Сравниваю UX/UI сервисов доставки продуктов: Яндекс Лавка, Самокат, Сбермаркет, Ozon Fresh, Утконос](https://habr.com/ru/post/664222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664222)
-- [Деплой — это лава! Как Managed Kubernetes помогает бизнесу тушить пожары](https://habr.com/ru/post/663772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663772)
-- [[Перевод] Data-Science-процессы: Jupyter Notebook для продакшена](https://habr.com/ru/post/662734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662734)
-- [Security Week 2218: уязвимости нулевого дня в 2021 году](https://habr.com/ru/post/664040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664040)
 <!-- BLOG-POST-LIST:END -->
