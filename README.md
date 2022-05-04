@@ -27,7 +27,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Грокаем алгоритмы](https://habr.com/ru/post/664360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664360)
 - [[Перевод] Тестирование с помощью Vitest](https://habr.com/ru/post/664350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664350)
-- [Алгоритмы на кристалле. Глава 1. часть 1](https://habr.com/ru/post/530470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=530470)
+- [Алгоритмы на кристалле. Глава 1: Вычислительная модель](https://habr.com/ru/post/530470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=530470)
 - [Делаем патч для Pods библиотеки](https://habr.com/ru/post/664316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664316)
 - [Управление умным домом на kotlin](https://habr.com/ru/post/664312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664312)
 <!-- BLOG-POST-LIST:END -->
