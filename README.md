@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как рефакторинг помогает улучшить производительность разработчиков и повысить качество приложений](https://habr.com/ru/post/664168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664168)
 - [Round Table: архитектурный UI паттерн для iOS платформы](https://habr.com/ru/post/663770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663770)
 - [[Перевод] Мигрируем БД в продакшене без даунтайма](https://habr.com/ru/post/664028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664028)
 - [Дайджест недели от Apple Pro Weekly News &lpar;25.04 – 1.05.22&rpar;](https://habr.com/ru/post/664082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664082)
 - [Развертывание моделей машинного обучения. Часть первая. Размещаем Web-приложение в облачной платформе Heroku](https://habr.com/ru/post/664076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664076)
-- [Как начать писать приложения на ClojureDart](https://habr.com/ru/post/664026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664026)
 <!-- BLOG-POST-LIST:END -->
