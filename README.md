@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деплой — это лава! Как Managed Kubernetes помогает бизнесу тушить пожары](https://habr.com/ru/post/663772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663772)
 - [[Перевод] Data-Science-процессы: Jupyter Notebook для продакшена](https://habr.com/ru/post/662734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662734)
 - [Security Week 2218: уязвимости нулевого дня в 2021 году](https://habr.com/ru/post/664040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664040)
 - [Как рефакторинг помогает улучшить производительность разработчиков и повысить качество приложений](https://habr.com/ru/post/664168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664168)
 - [Round Table: архитектурный UI паттерн для iOS платформы](https://habr.com/ru/post/663770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663770)
-- [[Перевод] Мигрируем БД в продакшене без даунтайма](https://habr.com/ru/post/664028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664028)
 <!-- BLOG-POST-LIST:END -->
