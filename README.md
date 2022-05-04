@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тестирование с помощью Vitest](https://habr.com/ru/post/664350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664350)
 - [Алгоритмы на кристалле. Глава 1. часть 1](https://habr.com/ru/post/530470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=530470)
 - [Делаем патч для Pods библиотеки](https://habr.com/ru/post/664316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664316)
 - [Управление умным домом на kotlin](https://habr.com/ru/post/664312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664312)
 - [Динамические структуры данных на Си: Введение. Список — простой вариант](https://habr.com/ru/post/664310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664310)
-- [[Перевод] Изменяемые и неизменяемые объекты в Python](https://habr.com/ru/post/664302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664302)
 <!-- BLOG-POST-LIST:END -->
