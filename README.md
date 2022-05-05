@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps и Value of User: новая культура взаимодействия бизнеса и инженеров](https://habr.com/ru/post/664156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664156)
+- [Менторство в QA: как погрузить новых сотрудников в проектную работу](https://habr.com/ru/post/663618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663618)
+- [Вычисляем на видеокартах. Технология OpenCL. Часть 2. Алгоритмы в условиях массового параллелизма](https://habr.com/ru/post/661543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661543)
 - [Развёртывание Kubernetes-кластера на домашнем сервере](https://habr.com/ru/post/664458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664458)
 - [О балансе учёбы и работы, мотивации и о том, зачем IT-специалисту высшее образование: экспертный диалог](https://habr.com/ru/post/663428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663428)
-- [Полезные личностные качества для ИТ-специалиста + материалы для их развития](https://habr.com/ru/post/664206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664206)
-- [[Перевод] Kotlin, обрабатываем исключения в корутинах правильно](https://habr.com/ru/post/664444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664444)
-- [Улучшаем процесс ведения проекта в Git](https://habr.com/ru/post/664190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664190)
 <!-- BLOG-POST-LIST:END -->
