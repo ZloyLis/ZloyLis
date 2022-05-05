@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как решить 4 главные проблемы, с которыми сталкивается любой стажёр-тестировщик](https://habr.com/ru/post/664220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664220)
+- [Цитаты великих айтишников с человеческим лицом](https://habr.com/ru/post/663906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663906)
+- [Исследование производительности свободных хранилищ LINSTOR, Ceph, Mayastor и Vitastor в Kubernetes](https://habr.com/ru/post/664150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664150)
 - [«Божественная комедия», или Девять кругов прогнозирования промоспроса в «Магните»](https://habr.com/ru/post/664358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664358)
 - [Микрофронтенды в hh.ru](https://habr.com/ru/post/664318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664318)
-- [Создание собственных команд в GIT](https://habr.com/ru/post/664364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664364)
-- [Грокаем алгоритмы](https://habr.com/ru/post/664360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664360)
-- [[Перевод] Тестирование с помощью Vitest](https://habr.com/ru/post/664350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664350)
 <!-- BLOG-POST-LIST:END -->
