@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как онлайн-школам добиться того, чтобы ученики не бросали обучение на середине](https://habr.com/ru/post/664502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664502)
 - [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 6](https://habr.com/ru/post/664500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664500)
 - [Как дизайнерской команде сохранять гибкость и устойчивость](https://habr.com/ru/post/663370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663370)
 - [DevOps и Value of User: новая культура взаимодействия бизнеса и инженеров](https://habr.com/ru/post/664156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664156)
 - [Менторство в QA: как погрузить новых сотрудников в проектную работу](https://habr.com/ru/post/663618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663618)
-- [Вычисляем на видеокартах. Технология OpenCL. Часть 2. Алгоритмы в условиях массового параллелизма](https://habr.com/ru/post/661543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661543)
 <!-- BLOG-POST-LIST:END -->
