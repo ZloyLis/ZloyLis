@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Божественная комедия», или Девять кругов прогнозирования промоспроса в «Магните»](https://habr.com/ru/post/664358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664358)
+- [Микрофронтенды в hh.ru](https://habr.com/ru/post/664318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664318)
 - [Создание собственных команд в GIT](https://habr.com/ru/post/664364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664364)
 - [Грокаем алгоритмы](https://habr.com/ru/post/664360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664360)
 - [[Перевод] Тестирование с помощью Vitest](https://habr.com/ru/post/664350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664350)
-- [Алгоритмы на кристалле. Глава 1: Вычислительная модель](https://habr.com/ru/post/530470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=530470)
-- [Делаем патч для Pods библиотеки](https://habr.com/ru/post/664316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664316)
 <!-- BLOG-POST-LIST:END -->
