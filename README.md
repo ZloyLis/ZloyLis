@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Улучшаем процесс ведения проекта в Git](https://habr.com/ru/post/664190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664190)
+- [[Перевод] 5 советов, как поднять тестирование API с REST Assured на новый уровень](https://habr.com/ru/post/664428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664428)
+- [Сравнение сервисов фильтрации нецензурной лексики](https://habr.com/ru/post/664422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664422)
 - [Знай свои секреты. Поиск и автоматическая проверка секретов сторонних сервисов](https://habr.com/ru/post/663358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663358)
 - [Как решить 4 главные проблемы, с которыми сталкивается любой стажёр-тестировщик](https://habr.com/ru/post/664220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664220)
-- [Цитаты великих айтишников с человеческим лицом](https://habr.com/ru/post/663906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663906)
-- [Исследование производительности свободных хранилищ LINSTOR, Ceph, Mayastor и Vitastor в Kubernetes](https://habr.com/ru/post/664150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664150)
-- [«Божественная комедия», или Девять кругов прогнозирования промоспроса в «Магните»](https://habr.com/ru/post/664358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664358)
 <!-- BLOG-POST-LIST:END -->
