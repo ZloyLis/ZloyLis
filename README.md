@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наследование прав доступа](https://habr.com/ru/post/593445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=593445)
+- [Как правильно верстать в 2022 году. Часть 2. Как правильно вкладывать теги друг в друга](https://habr.com/ru/post/664060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664060)
 - [Как онлайн-школам добиться того, чтобы ученики не бросали обучение на середине](https://habr.com/ru/post/664502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664502)
 - [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 6](https://habr.com/ru/post/664500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664500)
 - [Как дизайнерской команде сохранять гибкость и устойчивость](https://habr.com/ru/post/663370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663370)
-- [DevOps и Value of User: новая культура взаимодействия бизнеса и инженеров](https://habr.com/ru/post/664156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664156)
-- [Менторство в QA: как погрузить новых сотрудников в проектную работу](https://habr.com/ru/post/663618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663618)
 <!-- BLOG-POST-LIST:END -->
