@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нет, правда, зачем нам TypeScript?](https://habr.com/ru/post/664604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664604)
 - [Случайные блуждания и цепи Маркова в геймдизайне](https://habr.com/ru/post/664392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664392)
 - [Дата саентист и циклы-циклы-циклы…](https://habr.com/ru/post/664634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664634)
 - [Как мы выбирали консенсус для энтерпрайз-блокчейна](https://habr.com/ru/post/664624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664624)
 - [Функция Reactive во Vue: как это работает](https://habr.com/ru/post/664506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664506)
-- [Node.js: разрабатываем сборщик модулей](https://habr.com/ru/post/664582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664582)
 <!-- BLOG-POST-LIST:END -->
