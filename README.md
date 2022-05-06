@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Случайные блуждания и цепи Маркова в геймдизайне](https://habr.com/ru/post/664392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664392)
+- [Дата саентист и циклы-циклы-циклы…](https://habr.com/ru/post/664634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664634)
+- [Как мы выбирали консенсус для энтерпрайз-блокчейна](https://habr.com/ru/post/664624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664624)
 - [Функция Reactive во Vue: как это работает](https://habr.com/ru/post/664506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664506)
 - [Node.js: разрабатываем сборщик модулей](https://habr.com/ru/post/664582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664582)
-- [[Перевод] Пирамида инспекции кода](https://habr.com/ru/post/664566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664566)
-- [[Перевод] Думаете о большой пропускной способности? Встречайте виртуальные потоки](https://habr.com/ru/post/663570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663570)
-- [Наследование прав доступа](https://habr.com/ru/post/593445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=593445)
 <!-- BLOG-POST-LIST:END -->
