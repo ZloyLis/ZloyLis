@@ -26,8 +26,8 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Пирамида инспекции кода](https://habr.com/ru/post/664566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664566)
-- [Respect Validation на Python](https://habr.com/ru/post/664426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664426)
 - [[Перевод] Думаете о большой пропускной способности? Встречайте виртуальные потоки](https://habr.com/ru/post/663570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663570)
 - [Наследование прав доступа](https://habr.com/ru/post/593445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=593445)
 - [Как правильно верстать в 2022 году. Часть 2. Как правильно вкладывать теги друг в друга](https://habr.com/ru/post/664060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664060)
+- [Как онлайн-школам добиться того, чтобы ученики не бросали обучение на середине](https://habr.com/ru/post/664502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664502)
 <!-- BLOG-POST-LIST:END -->
