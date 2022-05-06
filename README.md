@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я hiddenkeywords проходил](https://habr.com/ru/post/664754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664754)
 - [Служебные произведения. Как работодателю правильно оформить и защитить права на программы для ЭВМ и базы данных](https://habr.com/ru/post/664742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664742)
 - [Как подготовиться к ISTQB сертификации за 3 шага](https://habr.com/ru/post/664734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664734)
 - [Из неудачника-гуманитария в программисты или 8 советов начинающим и начавшим](https://habr.com/ru/post/664722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664722)
 - [О безопасности Kubernetes. Часть 2. Ищем уязвимости и защищаемся](https://habr.com/ru/post/664546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664546)
-- [Медианы, подмассивы и времена года: ещё порция задач для QA-инженеров](https://habr.com/ru/post/663052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663052)
 <!-- BLOG-POST-LIST:END -->
