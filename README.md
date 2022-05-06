@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Визуализатор для ZX Spectrum и MSX или с Днем Радио, Гики](https://habr.com/ru/post/664680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664680)
+- [Как изучить SQL за ночь или шпаргалка для системного аналитика](https://habr.com/ru/post/664550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664550)
 - [Как я hiddenkeywords проходил](https://habr.com/ru/post/664754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664754)
 - [Служебные произведения. Как работодателю правильно оформить и защитить права на программы для ЭВМ и базы данных](https://habr.com/ru/post/664742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664742)
 - [Как подготовиться к ISTQB сертификации за 3 шага](https://habr.com/ru/post/664734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664734)
-- [Из неудачника-гуманитария в программисты или 8 советов начинающим и начавшим](https://habr.com/ru/post/664722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664722)
-- [О безопасности Kubernetes. Часть 2. Ищем уязвимости и защищаемся](https://habr.com/ru/post/664546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664546)
 <!-- BLOG-POST-LIST:END -->
