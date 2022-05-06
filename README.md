@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О безопасности Kubernetes. Часть 2. Ищем уязвимости и защищаемся](https://habr.com/ru/post/664546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664546)
+- [Медианы, подмассивы и времена года: ещё порция задач для QA-инженеров](https://habr.com/ru/post/663052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663052)
 - [ИТ cопровождение: выжать максимум эффективности, не потерять сотрудников, и себя](https://habr.com/ru/post/664686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664686)
 - [Использование Gatling. Тестирование gRPC](https://habr.com/ru/post/664674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664674)
 - [Синхронный вывод на экран распознаваемого текста на Flutter](https://habr.com/ru/post/664658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664658)
-- [Нет, правда, зачем нам TypeScript?](https://habr.com/ru/post/664604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664604)
-- [Случайные блуждания и цепи Маркова в геймдизайне](https://habr.com/ru/post/664392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664392)
 <!-- BLOG-POST-LIST:END -->
