@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сдавать экзамены?](https://habr.com/ru/post/664880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664880)
 - [Android Studio. Kotlin. Подключение Google календаря через Content Provider](https://habr.com/ru/post/664876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664876)
 - [Как модель оплаты может влиять на эффективность рекламной кампании для клиента и агентства. Gaming-кейс Adsbalance](https://habr.com/ru/post/664868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664868)
 - [Неклассические контейнеры в C++](https://habr.com/ru/post/664044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664044)
 - [PHP Дайджест № 222/3 &lpar;26 марта – 25 апреля 2022&rpar;](https://habr.com/ru/post/662545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662545)
-- [[Перевод] Нецелевое использование утверждающих функций в TypeScript](https://habr.com/ru/post/664600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664600)
 <!-- BLOG-POST-LIST:END -->
