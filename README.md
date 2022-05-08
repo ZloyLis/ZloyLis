@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Golang-клиент NIC.ru](https://habr.com/ru/post/664884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664884)
+- [Смартфоновая металлургия и цена комфорта](https://habr.com/ru/post/664890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664890)
+- [Основы Интерактивных карт](https://habr.com/ru/post/664888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664888)
 - [Как сдавать экзамены?](https://habr.com/ru/post/664880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664880)
 - [Android Studio. Kotlin. Подключение Google календаря через Content Provider](https://habr.com/ru/post/664876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664876)
-- [Как модель оплаты может влиять на эффективность рекламной кампании для клиента и агентства. Gaming-кейс Adsbalance](https://habr.com/ru/post/664868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664868)
-- [Неклассические контейнеры в C++](https://habr.com/ru/post/664044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664044)
-- [PHP Дайджест № 222/3 &lpar;26 марта – 25 апреля 2022&rpar;](https://habr.com/ru/post/662545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662545)
 <!-- BLOG-POST-LIST:END -->
