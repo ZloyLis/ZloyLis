@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели &lpar;мобильная разработка&rpar; – #1](https://habr.com/ru/post/664848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664848)
 - [Безопасность Web Apps в Telegram ботах](https://habr.com/ru/post/664832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664832)
 - [Знакомимся с Javassist](https://habr.com/ru/post/664818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664818)
 - [Как джуну стать продактом и не потерять веру в человечество?](https://habr.com/ru/post/664816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664816)
 - [Как нативно визуализировать голос в iOS](https://habr.com/ru/post/664792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664792)
-- [Визуализатор для ZX Spectrum и MSX или с Днем Радио, Гики](https://habr.com/ru/post/664680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664680)
 <!-- BLOG-POST-LIST:END -->
