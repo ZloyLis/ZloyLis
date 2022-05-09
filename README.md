@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;02.05 – 08.05.22&rpar;](https://habr.com/ru/post/664894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664894)
 - [jugger – внедрение зависимостей как в Android](https://habr.com/ru/post/664926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664926)
 - [Исчезающие тени логистических облаков](https://habr.com/ru/post/664622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664622)
 - [[recovery mode] Golang-клиент NIC.ru](https://habr.com/ru/post/664884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664884)
 - [Смартфоновая металлургия и цена комфорта](https://habr.com/ru/post/664890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664890)
-- [Основы Интерактивных карт](https://habr.com/ru/post/664888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664888)
 <!-- BLOG-POST-LIST:END -->
