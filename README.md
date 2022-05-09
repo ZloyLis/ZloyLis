@@ -27,7 +27,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Как я случайно удалил 7 терабайт видео перед запуском в продакшн](https://habr.com/ru/post/664956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664956)
 - [Таблица решений для тестирования фильтрации с зависимыми фильтрами](https://habr.com/ru/post/664952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664952)
-- [Перспективы языка программирования R для научно-исследовательских и любительских задач](https://habr.com/ru/post/664944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664944)
 - [Дайджест недели от Apple Pro Weekly News &lpar;02.05 – 08.05.22&rpar;](https://habr.com/ru/post/664894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664894)
 - [jugger – внедрение зависимостей как в Android](https://habr.com/ru/post/664926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664926)
+- [Исчезающие тени логистических облаков](https://habr.com/ru/post/664622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664622)
 <!-- BLOG-POST-LIST:END -->
