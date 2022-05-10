@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эффективная генерация сортируемых GUID для первичных ключей БД на клиенте](https://habr.com/ru/post/665024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665024)
 - [Как улучшить распознавание скелетов в MediaPipe](https://habr.com/ru/post/664558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664558)
 - [Генетический алгоритм поиска решения для задачи по выбору планировок этажа многоквартирного дома](https://habr.com/ru/post/664766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664766)
 - [Пример микросервисной архитектуры с Saga на MassTransit](https://habr.com/ru/post/664962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664962)
 - [[Перевод] Как я случайно удалил 7 терабайт видео перед запуском в продакшн](https://habr.com/ru/post/664956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664956)
-- [Таблица решений для тестирования фильтрации с зависимыми фильтрами](https://habr.com/ru/post/664952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664952)
 <!-- BLOG-POST-LIST:END -->
