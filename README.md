@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Посчитать запросы spring data jpa + hibernate на 1 rest запрос](https://habr.com/ru/post/665266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665266)
+- [[Перевод] Flutter для Apple TV](https://habr.com/ru/post/665264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665264)
 - [Пятьдесят лет на стезе программирования. Отступление. Встреча с прошлым](https://habr.com/ru/post/665250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665250)
 - [Как проходить архитектурные секции](https://habr.com/ru/post/665128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665128)
 - [Метод document.write, подобное и связанное с ним](https://habr.com/ru/post/665190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665190)
-- [Сказ о том, как мы Python-микросервисы для облака шаблонизировали](https://habr.com/ru/post/665058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665058)
-- [Security Week 2219: мобильные трояны со встроенной подпиской](https://habr.com/ru/post/664940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664940)
 <!-- BLOG-POST-LIST:END -->
