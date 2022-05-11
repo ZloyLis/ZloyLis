@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы в команде Oracle-разработки организовали deploy](https://habr.com/ru/post/664706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664706)
+- [Фронтенд-новости №5. Отказ от React, новые CSS-свойства для адаптивности и JS-контейнеры](https://habr.com/ru/post/664800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664800)
+- [Механизмы сериализации в Java и Kotlin](https://habr.com/ru/post/665046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665046)
+- [Пишем приложение на JetBrains Exposed](https://habr.com/ru/post/654163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654163)
 - [Эффективная генерация сортируемых GUID для первичных ключей БД на клиенте](https://habr.com/ru/post/665024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665024)
-- [Как улучшить распознавание скелетов в MediaPipe](https://habr.com/ru/post/664558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664558)
-- [Генетический алгоритм поиска решения для задачи по выбору планировок этажа многоквартирного дома](https://habr.com/ru/post/664766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664766)
-- [Пример микросервисной архитектуры с Saga на MassTransit](https://habr.com/ru/post/664962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664962)
-- [[Перевод] Как я случайно удалил 7 терабайт видео перед запуском в продакшн](https://habr.com/ru/post/664956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664956)
 <!-- BLOG-POST-LIST:END -->
