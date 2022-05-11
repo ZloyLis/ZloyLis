@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Чтобы найти хороших разработчиков, заставьте их читать чужой код](https://habr.com/ru/post/664678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664678)
+- [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 2 — ссылочные типы данных](https://habr.com/ru/post/664960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664960)
+- [Оптический трюк: волшебное зеркало из жидких кристаллов](https://habr.com/ru/post/664976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664976)
 - [Как мы в команде Oracle-разработки организовали deploy](https://habr.com/ru/post/664706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664706)
 - [Фронтенд-новости №5. Отказ от React, новые CSS-свойства для адаптивности и JS-контейнеры](https://habr.com/ru/post/664800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664800)
-- [Механизмы сериализации в Java и Kotlin](https://habr.com/ru/post/665046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665046)
-- [Пишем приложение на JetBrains Exposed](https://habr.com/ru/post/654163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654163)
-- [Эффективная генерация сортируемых GUID для первичных ключей БД на клиенте](https://habr.com/ru/post/665024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665024)
 <!-- BLOG-POST-LIST:END -->
