@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как изменилась стандартная библиотека Python за последние годы](https://habr.com/ru/post/665020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665020)
 - [Управление агрегацией логов с помощью Logstash-operator в Kubernetes — opensource-решение от М2](https://habr.com/ru/post/660909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660909)
 - [Используем клиентский процессор по максимуму. Часть 1: Rust + WebAssembly](https://habr.com/ru/post/662363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662363)
 - [[Перевод] Парадоксальный рост популярности Python в научных вычислениях](https://habr.com/ru/post/665102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665102)
 - [Как я сделал дизайн для Брендспейса Авито за две недели, а потом дважды его переделывал](https://habr.com/ru/post/660675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660675)
-- [Прыжок горбатой лошади или как мы обновляем наши системы](https://habr.com/ru/post/664322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664322)
 <!-- BLOG-POST-LIST:END -->
