@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как проходить архитектурные секции](https://habr.com/ru/post/665128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665128)
 - [Метод document.write, подобное и связанное с ним](https://habr.com/ru/post/665190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665190)
 - [Сказ о том, как мы Python-микросервисы для облака шаблонизировали](https://habr.com/ru/post/665058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665058)
 - [Security Week 2219: мобильные трояны со встроенной подпиской](https://habr.com/ru/post/664940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664940)
 - [Как мы создавали движок на Unity &lpar;часть 0&rpar;](https://habr.com/ru/post/665150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665150)
-- [Как изменилась стандартная библиотека Python за последние годы](https://habr.com/ru/post/665020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665020)
 <!-- BLOG-POST-LIST:END -->
