@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Чтобы найти хороших разработчиков, заставьте их читать чужой код](https://habr.com/ru/post/664678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664678)
-- [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 2 — ссылочные типы данных](https://habr.com/ru/post/664960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664960)
-- [Оптический трюк: волшебное зеркало из жидких кристаллов](https://habr.com/ru/post/664976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664976)
-- [Как мы в команде Oracle-разработки организовали deploy](https://habr.com/ru/post/664706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664706)
-- [Фронтенд-новости №5. Отказ от React, новые CSS-свойства для адаптивности и JS-контейнеры](https://habr.com/ru/post/664800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664800)
+- [Управление агрегацией логов с помощью Logstash-operator в Kubernetes — opensource-решение от М2](https://habr.com/ru/post/660909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660909)
+- [Используем клиентский процессор по максимуму. Часть 1: Rust + WebAssembly](https://habr.com/ru/post/662363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662363)
+- [[Перевод] Парадоксальный рост популярности Python в научных вычислениях](https://habr.com/ru/post/665102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665102)
+- [Как я сделал дизайн для Брендспейса Авито за две недели, а потом дважды его переделывал](https://habr.com/ru/post/660675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660675)
+- [Прыжок горбатой лошади или как мы обновляем наши системы](https://habr.com/ru/post/664322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664322)
 <!-- BLOG-POST-LIST:END -->
