@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Жил на свете добрый Jooq – как подружиться с хранимками в Oracle](https://habr.com/ru/post/664270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664270)
 - [Как A/B-тестирование веб-страниц помогло нам повысить конверсию](https://habr.com/ru/post/665188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665188)
 - [Node.js: разрабатываем бота для Telegram](https://habr.com/ru/post/665124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665124)
 - [Обзор Harvester — гиперконвергентного Open Source-решения на базе Kubernetes](https://habr.com/ru/post/665066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665066)
 - [Сегментация экземпляров с помощью Mask R-CNN](https://habr.com/ru/post/665300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665300)
-- [Письмо счастья: как мы разделили наши сборки для AppGallery и Google Play](https://habr.com/ru/post/665204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665204)
 <!-- BLOG-POST-LIST:END -->
