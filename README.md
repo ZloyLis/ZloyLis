@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Больше всего времени разработчики тратят на понимание системы](https://habr.com/ru/post/665310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665310)
+- [Хранение графов в Tarantool: реальность или миф](https://habr.com/ru/post/665156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665156)
 - [Спроси меня про Go. Отвечаем на распространённые вопросы](https://habr.com/ru/post/665390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665390)
 - [Как снизить риски в iOS-разработке в условиях санкций](https://habr.com/ru/post/665374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665374)
 - [[Перевод] Три подхода к ускорению обучения XGBoost-моделей](https://habr.com/ru/post/665278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665278)
