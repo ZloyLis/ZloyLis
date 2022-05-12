@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Письмо счастья: как мы разделили наши сборки для AppGallery и Google Play](https://habr.com/ru/post/665204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665204)
 - [Посчитать запросы spring data jpa + hibernate на 1 rest запрос](https://habr.com/ru/post/665266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665266)
 - [[Перевод] Flutter для Apple TV](https://habr.com/ru/post/665264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665264)
 - [Пятьдесят лет на стезе программирования. Отступление. Встреча с прошлым](https://habr.com/ru/post/665250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665250)
 - [Как проходить архитектурные секции](https://habr.com/ru/post/665128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665128)
-- [Метод document.write, подобное и связанное с ним](https://habr.com/ru/post/665190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665190)
 <!-- BLOG-POST-LIST:END -->
