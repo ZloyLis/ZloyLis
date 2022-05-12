@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Больше всего времени разработчики тратят на понимание системы](https://habr.com/ru/post/665310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665310)
+- [Спроси меня про Go. Отвечаем на распространённые вопросы](https://habr.com/ru/post/665390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665390)
 - [Как снизить риски в iOS-разработке в условиях санкций](https://habr.com/ru/post/665374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665374)
 - [[Перевод] Три подхода к ускорению обучения XGBoost-моделей](https://habr.com/ru/post/665278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665278)
 - [Жил на свете добрый Jooq – как подружиться с хранимками в Oracle](https://habr.com/ru/post/664270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664270)
-- [Как A/B-тестирование веб-страниц помогло нам повысить конверсию](https://habr.com/ru/post/665188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665188)
-- [Node.js: разрабатываем бота для Telegram](https://habr.com/ru/post/665124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665124)
 <!-- BLOG-POST-LIST:END -->
