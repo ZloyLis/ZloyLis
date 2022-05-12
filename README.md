@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как снизить риски в iOS-разработке в условиях санкций](https://habr.com/ru/post/665374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665374)
+- [[Перевод] Три подхода к ускорению обучения XGBoost-моделей](https://habr.com/ru/post/665278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665278)
 - [Жил на свете добрый Jooq – как подружиться с хранимками в Oracle](https://habr.com/ru/post/664270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664270)
 - [Как A/B-тестирование веб-страниц помогло нам повысить конверсию](https://habr.com/ru/post/665188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665188)
 - [Node.js: разрабатываем бота для Telegram](https://habr.com/ru/post/665124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665124)
-- [Обзор Harvester — гиперконвергентного Open Source-решения на базе Kubernetes](https://habr.com/ru/post/665066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665066)
-- [Сегментация экземпляров с помощью Mask R-CNN](https://habr.com/ru/post/665300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665300)
 <!-- BLOG-POST-LIST:END -->
