@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Интервью уральского разработчика: треш-собес в Яндекс и почему он решил остаться в России?](https://habr.com/ru/post/665570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665570)
+- [«А поговорить?» или делаем звонок для подтверждения заказа в интернет магазине с помощью МТТ VoiceBox](https://habr.com/ru/post/592025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=592025)
 - [[Перевод] 7 способов улучшить производительность Node.js в масштабе](https://habr.com/ru/post/664008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664008)
 - [Дополнительные временные ряды в ETNA](https://habr.com/ru/post/665564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665564)
 - [[recovery mode] Сравнение API Management платформ: результаты теста](https://habr.com/ru/post/665558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665558)
