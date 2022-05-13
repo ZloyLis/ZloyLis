@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 3 способа использовать box-shadow в CSS](https://habr.com/ru/post/665640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665640)
 - [W-функция Ламберта и ее приложения](https://habr.com/ru/post/665634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665634)
-- [Заполнители типа в Swift: что это такое и когда их следует использовать](https://habr.com/ru/post/665614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665614)
+- [[Перевод] Заполнители типа в Swift: что это такое и когда их следует использовать](https://habr.com/ru/post/665614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665614)
 - [«Писать код — не главное». Авторы курсов из HTML Academy делятся секретами профессии](https://habr.com/ru/post/665598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665598)
 - [«А поговорить?» или делаем звонок для подтверждения заказа в интернет магазине с помощью МТТ VoiceBox](https://habr.com/ru/post/592025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=592025)
-- [[Перевод] 7 способов улучшить производительность Node.js в масштабе](https://habr.com/ru/post/664008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664008)
 <!-- BLOG-POST-LIST:END -->
