@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Рекомендации по созданию RSS-фидов](https://habr.com/ru/post/665356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665356)
+- [Выселяем Carthage из git, или Как мы связали Carthage + Rome + S3 в нашем проекте](https://habr.com/ru/post/665382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665382)
+- [19 мая Ozon Tech × Сoffee&amp;amp;Code приглашают на Mobile Meetup: перформанс и Backend-Driven UI](https://habr.com/ru/post/665228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665228)
 - [Продукт API](https://habr.com/ru/post/665506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665506)
 - [[recovery mode] Самый востребованный тестировщик. Как мы создавали уникальную школу QA](https://habr.com/ru/post/665502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665502)
-- [Давай дружить. OpenId Connect и Yarp](https://habr.com/ru/post/665482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665482)
-- [Что не так с дешевыми быстрыми зарядками с Ali. Тест](https://habr.com/ru/post/665462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665462)
-- [Соревнование между спецами по .NET и Java: ищем золотые фрагменты кода](https://habr.com/ru/post/665198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665198)
 <!-- BLOG-POST-LIST:END -->
