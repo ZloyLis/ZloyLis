@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продукт API](https://habr.com/ru/post/665506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665506)
+- [[recovery mode] Самый востребованный тестировщик. Как мы создавали уникальную школу QA](https://habr.com/ru/post/665502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665502)
 - [Давай дружить. OpenId Connect и Yarp](https://habr.com/ru/post/665482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665482)
 - [Что не так с дешевыми быстрыми зарядками с Ali. Тест](https://habr.com/ru/post/665462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665462)
 - [Соревнование между спецами по .NET и Java: ищем золотые фрагменты кода](https://habr.com/ru/post/665198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665198)
-- [[recovery mode] Матстат и опоздания на работу](https://habr.com/ru/post/665434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665434)
-- [Хранение графов в Tarantool: реальность или миф](https://habr.com/ru/post/665156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665156)
 <!-- BLOG-POST-LIST:END -->
