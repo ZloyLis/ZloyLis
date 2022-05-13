@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Линейные и аппаратные должности в разработке: различия, плюсы и минусы](https://habr.com/ru/post/665554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665554)
+- [1x PCIe чтобы управлять всем](https://habr.com/ru/post/665540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665540)
+- [Как работает массив в Swift](https://habr.com/ru/post/665536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665536)
+- [Как ускорить работу на macos в Docker окружении с помощью Mutagen](https://habr.com/ru/post/665532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665532)
 - [[Перевод] Рекомендации по созданию RSS-фидов](https://habr.com/ru/post/665356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665356)
-- [Выселяем Carthage из git, или Как мы связали Carthage + Rome + S3 в нашем проекте](https://habr.com/ru/post/665382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665382)
-- [19 мая Ozon Tech × Сoffee&amp;amp;Code приглашают на Mobile Meetup: перформанс и Backend-Driven UI](https://habr.com/ru/post/665228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665228)
-- [Продукт API](https://habr.com/ru/post/665506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665506)
-- [Давай дружить. OpenId Connect и Yarp](https://habr.com/ru/post/665482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665482)
 <!-- BLOG-POST-LIST:END -->
