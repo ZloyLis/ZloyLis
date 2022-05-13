@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Интервью уральского разработчика: треш-собес в Яндекс и почему он решил остаться в России?](https://habr.com/ru/post/665570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665570)
+- [[Перевод] 7 способов улучшить производительность Node.js в масштабе](https://habr.com/ru/post/664008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664008)
+- [Дополнительные временные ряды в ETNA](https://habr.com/ru/post/665564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665564)
+- [[recovery mode] Сравнение API Management платформ: результаты теста](https://habr.com/ru/post/665558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665558)
 - [[Перевод] Линейные и аппаратные должности в разработке: различия, плюсы и минусы](https://habr.com/ru/post/665554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665554)
-- [1x PCIe чтобы управлять всем](https://habr.com/ru/post/665540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665540)
-- [Как работает массив в Swift](https://habr.com/ru/post/665536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665536)
-- [Как ускорить работу на macos в Docker окружении с помощью Mutagen](https://habr.com/ru/post/665532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665532)
-- [[Перевод] Рекомендации по созданию RSS-фидов](https://habr.com/ru/post/665356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665356)
 <!-- BLOG-POST-LIST:END -->
