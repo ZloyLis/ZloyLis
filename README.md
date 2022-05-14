@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем java-рефлексию в 2022](https://habr.com/ru/post/665726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665726)
 - [[Перевод] Я написал серверную SQLite](https://habr.com/ru/post/665708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665708)
 - [GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665676)
 - [Apache OpenOffice. Динамические массивы](https://habr.com/ru/post/665674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665674)
 - [Зачем в Альфа-Банке создали команды Growth Hacking, или «Кнопки мы и сами поменяем»](https://habr.com/ru/post/665594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665594)
-- [Хабрчане закидали меня камнями за косяки в МВП. Я не уныл, всё поправил и готов получать новую порцию или релиз Измерии](https://habr.com/ru/post/665656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665656)
 <!-- BLOG-POST-LIST:END -->
