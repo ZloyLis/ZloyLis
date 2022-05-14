@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665676)
+- [Apache OpenOffice. Динамические массивы](https://habr.com/ru/post/665674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665674)
 - [Зачем в Альфа-Банке создали команды Growth Hacking, или «Кнопки мы и сами поменяем»](https://habr.com/ru/post/665594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665594)
 - [Хабрчане закидали меня камнями за косяки в МВП. Я не уныл, всё поправил и готов получать новую порцию или релиз Измерии](https://habr.com/ru/post/665656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665656)
 - [WoG уже 20 лет…](https://habr.com/ru/post/665654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665654)
-- [[Перевод] 3 способа использовать box-shadow в CSS](https://habr.com/ru/post/665640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665640)
-- [W-функция Ламберта и ее приложения](https://habr.com/ru/post/665634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665634)
 <!-- BLOG-POST-LIST:END -->
