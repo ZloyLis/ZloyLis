@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Четыре всадника апокалипсиса джуниора Android разработчика](https://habr.com/ru/post/665752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665752)
 - [[recovery mode] Киллер игорных слотов в браузере своими руками для хабровцев](https://habr.com/ru/post/665748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665748)
 - [Надгробья современного геймдева. Феномен самораздувающихся сроков](https://habr.com/ru/post/665744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665744)
 - [Концепция умного указателя static_ptr&amp;lt;T&amp;gt; в C++](https://habr.com/ru/post/665632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665632)
 - [PProto: бинарный rpc протокол для Qt framework &lpar;часть 2&rpar;](https://habr.com/ru/post/665722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665722)
-- [Ускоряем java-рефлексию в 2022](https://habr.com/ru/post/665726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665726)
 <!-- BLOG-POST-LIST:END -->
