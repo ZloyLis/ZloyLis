@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я игрульку создал: ч. 1 Предыстория и идея, ч. 2 Игрок и сборщик уровней](https://habr.com/ru/post/665802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665802)
 - [Особенности разработки для WatchOS приложений для здоровья](https://habr.com/ru/post/664948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664948)
 - [Симулятор x86 подобного процессора на машине Тьюринга](https://habr.com/ru/post/665776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665776)
 - [C++ магистрали потоков и древо алгоритма](https://habr.com/ru/post/665772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665772)
 - [Разработка Gamio AI. Сквозь боль и баги](https://habr.com/ru/post/665764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665764)
-- [[Перевод] Знакомство с ООП на примере JavaScript](https://habr.com/ru/post/665290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665290)
 <!-- BLOG-POST-LIST:END -->
