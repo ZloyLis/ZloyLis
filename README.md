@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка Gamio AI. Сквозь боль и баги](https://habr.com/ru/post/665764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665764)
+- [[Перевод] Знакомство с ООП на примере JavaScript](https://habr.com/ru/post/665290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665290)
+- [Дайджест недели &lpar;мобильная разработка&rpar; – #2](https://habr.com/ru/post/665760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665760)
 - [Четыре всадника апокалипсиса джуниора Android разработчика](https://habr.com/ru/post/665752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665752)
 - [[recovery mode] Киллер игорных слотов в браузере своими руками для хабровцев](https://habr.com/ru/post/665748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665748)
-- [Надгробья современного геймдева. Феномен самораздувающихся сроков](https://habr.com/ru/post/665744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665744)
-- [Концепция умного указателя static_ptr&amp;lt;T&amp;gt; в C++](https://habr.com/ru/post/665632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665632)
-- [PProto: бинарный rpc протокол для Qt framework &lpar;часть 2&rpar;](https://habr.com/ru/post/665722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665722)
 <!-- BLOG-POST-LIST:END -->
