@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ магистрали потоков и древо алгоритма](https://habr.com/ru/post/665772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665772)
 - [Разработка Gamio AI. Сквозь боль и баги](https://habr.com/ru/post/665764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665764)
 - [[Перевод] Знакомство с ООП на примере JavaScript](https://habr.com/ru/post/665290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665290)
 - [Дайджест недели &lpar;мобильная разработка&rpar; – #2](https://habr.com/ru/post/665760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665760)
 - [Четыре всадника апокалипсиса джуниора Android разработчика](https://habr.com/ru/post/665752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665752)
-- [[recovery mode] Киллер игорных слотов в браузере своими руками для хабровцев](https://habr.com/ru/post/665748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665748)
 <!-- BLOG-POST-LIST:END -->
