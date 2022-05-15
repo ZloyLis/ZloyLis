@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Надгробья современного геймдева. Феномен самораздувающихся сроков](https://habr.com/ru/post/665744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665744)
 - [Концепция умного указателя static_ptr&amp;lt;T&amp;gt; в C++](https://habr.com/ru/post/665632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665632)
 - [PProto: бинарный rpc протокол для Qt framework &lpar;часть 2&rpar;](https://habr.com/ru/post/665722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665722)
 - [Ускоряем java-рефлексию в 2022](https://habr.com/ru/post/665726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665726)
 - [[Перевод] Я написал серверную SQLite](https://habr.com/ru/post/665708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665708)
-- [GetX во Flutter: Строим Unidirectional Data Flow с Rx-переменными](https://habr.com/ru/post/665676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665676)
 <!-- BLOG-POST-LIST:END -->
