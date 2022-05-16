@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правильно подключаем тяжелые зависимости к Xcode проекту через Swift Package Manager](https://habr.com/ru/post/665790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665790)
 - [[Перевод] Развёртывание XGBoost-моделей с помощью Ray Serve](https://habr.com/ru/post/665280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665280)
 - [Как я перестал бояться и начал делиться секретами с телефоном](https://habr.com/ru/post/665888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665888)
 - [Найти всё, что скрыто. Поиск чувствительной информации в мобильных приложениях](https://habr.com/ru/post/664720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664720)
 - [Пишем свою библиотеку для I2C OLED микродисплея 128х32px](https://habr.com/ru/post/665472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665472)
-- [Фронтенд-новости №6. Интернет сломан, бесплатный VPN в Edge, State of CSS 2022](https://habr.com/ru/post/665844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665844)
 <!-- BLOG-POST-LIST:END -->
