@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нестандартное оформление кнопок, текстовых полей и других элементов управления Flutter](https://habr.com/ru/post/666052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666052)
 - [Chrome на Android сломал чужие MitM-сертификаты, но это можно исправить](https://habr.com/ru/post/666046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666046)
 - [Go в браузер. Создание веб-приложений с использованием Web Assembly на Go](https://habr.com/ru/post/666004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666004)
 - [Дайджест недели от Apple Pro Weekly News &lpar;09.05 – 15.05.22&rpar;](https://habr.com/ru/post/665956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665956)
 - [О чём расскажут на Mobius 2022 Spring: декларативный UI, глубокие ссылки и многое другое](https://habr.com/ru/post/665718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665718)
-- [Security Week 2220: уязвимость в офисных устройствах Zyxel](https://habr.com/ru/post/665982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665982)
 <!-- BLOG-POST-LIST:END -->
