@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как обеспечить безопасность сборки ПО: управляем внешними зависимостями](https://habr.com/ru/post/665518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665518)
-- [ШИМ в ESP32](https://habr.com/ru/post/664922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664922)
-- [Дайджест интересных материалов для мобильного разработчика #442 &lpar;9 — 15 мая&rpar;](https://habr.com/ru/post/665814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665814)
-- [Apache Guacamole и взаимодействие с API: реальный кейс использования oVirt](https://habr.com/ru/post/665810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665810)
-- [Как я игрульку создал: ч. 1 Предыстория и идея, ч. 2 Игрок и сборщик уровней](https://habr.com/ru/post/665802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665802)
+- [Найти всё, что скрыто. Поиск чувствительной информации в мобильных приложениях](https://habr.com/ru/post/664720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664720)
+- [Пишем свою библиотеку для I2C OLED микродисплея 128х32px](https://habr.com/ru/post/665472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665472)
+- [Фронтенд-новости №6. Интернет сломан, бесплатный VPN в Edge, State of CSS 2022](https://habr.com/ru/post/665844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665844)
+- [Разрабатываем REST API с помощью TypeScript, NestJS, Prisma, AdminJS и Swagger](https://habr.com/ru/post/665794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665794)
+- [Зачем оформлять документы о создании программного обеспечения?](https://habr.com/ru/post/665864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665864)
 <!-- BLOG-POST-LIST:END -->
