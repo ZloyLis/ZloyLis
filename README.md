@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Развёртывание XGBoost-моделей с помощью Ray Serve](https://habr.com/ru/post/665280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665280)
+- [Как я перестал бояться и начал делиться секретами с телефоном](https://habr.com/ru/post/665888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665888)
 - [Найти всё, что скрыто. Поиск чувствительной информации в мобильных приложениях](https://habr.com/ru/post/664720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664720)
 - [Пишем свою библиотеку для I2C OLED микродисплея 128х32px](https://habr.com/ru/post/665472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665472)
 - [Фронтенд-новости №6. Интернет сломан, бесплатный VPN в Edge, State of CSS 2022](https://habr.com/ru/post/665844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665844)
-- [Разрабатываем REST API с помощью TypeScript, NestJS, Prisma, AdminJS и Swagger](https://habr.com/ru/post/665794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665794)
-- [Зачем оформлять документы о создании программного обеспечения?](https://habr.com/ru/post/665864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665864)
 <!-- BLOG-POST-LIST:END -->
