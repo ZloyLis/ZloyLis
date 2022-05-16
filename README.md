@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О чём расскажут на Mobius 2022 Spring: декларативный UI, глубокие ссылки и многое другое](https://habr.com/ru/post/665718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665718)
+- [Security Week 2220: уязвимость в офисных устройствах Zyxel](https://habr.com/ru/post/665982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665982)
 - [Пережить распродажу на Ozon: хайлоад, сковородки и 38 инфарктов](https://habr.com/ru/post/664472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664472)
 - [Асинхронный код синхронно: как устроено юнит-тестирование в СберМаркете](https://habr.com/ru/post/665512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665512)
 - [[Перевод] Как при помощи С++20 мы искоренили целый класс багов, возникавших во время выполнения](https://habr.com/ru/post/665966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665966)
-- [[Перевод] Thymeleaf + Spring WebFlux + Spring Security](https://habr.com/ru/post/665952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665952)
-- [Знакомьтесь: библиотека TiRecycler](https://habr.com/ru/post/665930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665930)
 <!-- BLOG-POST-LIST:END -->
