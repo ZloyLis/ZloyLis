@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Go в браузер. Создание веб-приложений с использованием Web Assembly на Go](https://habr.com/ru/post/666004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666004)
+- [Дайджест недели от Apple Pro Weekly News &lpar;09.05 – 15.05.22&rpar;](https://habr.com/ru/post/665956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665956)
 - [О чём расскажут на Mobius 2022 Spring: декларативный UI, глубокие ссылки и многое другое](https://habr.com/ru/post/665718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665718)
 - [Security Week 2220: уязвимость в офисных устройствах Zyxel](https://habr.com/ru/post/665982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665982)
 - [Пережить распродажу на Ozon: хайлоад, сковородки и 38 инфарктов](https://habr.com/ru/post/664472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664472)
-- [Асинхронный код синхронно: как устроено юнит-тестирование в СберМаркете](https://habr.com/ru/post/665512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665512)
-- [[Перевод] Как при помощи С++20 мы искоренили целый класс багов, возникавших во время выполнения](https://habr.com/ru/post/665966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665966)
 <!-- BLOG-POST-LIST:END -->
