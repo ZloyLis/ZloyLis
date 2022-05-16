@@ -25,8 +25,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пережить распродажу на Ozon: хайлоад, сковородки и 38 инфарктов](https://habr.com/ru/post/664472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664472)
 - [Асинхронный код синхронно: как устроено юнит-тестирование в СберМаркете](https://habr.com/ru/post/665512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665512)
-- [Как выбрать разработчика сайта для вашей компании](https://habr.com/ru/post/665976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665976)
 - [[Перевод] Как при помощи С++20 мы искоренили целый класс багов, возникавших во время выполнения](https://habr.com/ru/post/665966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665966)
 - [[Перевод] Thymeleaf + Spring WebFlux + Spring Security](https://habr.com/ru/post/665952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665952)
 - [Знакомьтесь: библиотека TiRecycler](https://habr.com/ru/post/665930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665930)
