@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Знакомьтесь: библиотека TiRecycler](https://habr.com/ru/post/665930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665930)
+- [Переход с 1С: УПП на 1C:ERP. Переезд пользователей с сохранением прежних прав](https://habr.com/ru/post/665926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665926)
 - [Правильно подключаем тяжелые зависимости к Xcode проекту через Swift Package Manager](https://habr.com/ru/post/665790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665790)
 - [[Перевод] Развёртывание XGBoost-моделей с помощью Ray Serve](https://habr.com/ru/post/665280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665280)
 - [Как я перестал бояться и начал делиться секретами с телефоном](https://habr.com/ru/post/665888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665888)
-- [Найти всё, что скрыто. Поиск чувствительной информации в мобильных приложениях](https://habr.com/ru/post/664720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664720)
-- [Пишем свою библиотеку для I2C OLED микродисплея 128х32px](https://habr.com/ru/post/665472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665472)
 <!-- BLOG-POST-LIST:END -->
