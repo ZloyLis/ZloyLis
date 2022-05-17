@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как помочь компилятору повысить быстродействие вашей программы](https://habr.com/ru/post/665224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665224)
+- [[Перевод] 10 лучших алгоритмов 20 века](https://habr.com/ru/post/666122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666122)
+- [[Перевод] Видеоускоритель Apple и невозможный баг](https://habr.com/ru/post/666116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666116)
 - [.NET 6: PriorityQueue](https://habr.com/ru/post/666018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666018)
 - [Как на Flutter-проекте реализовать разделение Google-сервисов и Huawei-сервисов](https://habr.com/ru/post/665686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665686)
-- [Правильная архитектура фронта, или как упростить себе жизнь](https://habr.com/ru/post/666110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666110)
-- [Пишем стратегию тестирования для Agile/Scrum-проекта](https://habr.com/ru/post/666092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666092)
-- [Почему важен graceful shutdown в облачной среде &lpar;на примере Kubernetes + Spring Boot&rpar;](https://habr.com/ru/post/666090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666090)
 <!-- BLOG-POST-LIST:END -->
