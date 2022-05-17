@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Pinia vs Vuex: Ананасовый экспресс в светлое будущее](https://habr.com/ru/post/666250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666250)
 - [[Перевод] Координация навигации по вью в SwiftUI с помощью паттерна Flow Coordinator](https://habr.com/ru/post/666220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666220)
 - [Регулировка contentOffset с помощью UICollectionViewLayout](https://habr.com/ru/post/666216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666216)
 - [Как мы закрыли все объявления частных пользователей защитными номерами](https://habr.com/ru/post/665436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665436)
 - [Как работает UI в Android. Не все так сложно](https://habr.com/ru/post/665806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665806)
-- [Распределенные Workflow на PHP. Часть 1](https://habr.com/ru/post/666154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666154)
 <!-- BLOG-POST-LIST:END -->
