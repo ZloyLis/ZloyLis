@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы закрыли все объявления частных пользователей защитными номерами](https://habr.com/ru/post/665436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665436)
+- [Как работает UI в Android](https://habr.com/ru/post/665806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665806)
 - [Распределенные Workflow на PHP. Часть 1](https://habr.com/ru/post/666154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666154)
 - [[Перевод] Kotlin Multiplatform Mobile — совместное управление состоянием пользовательского интерфейса](https://habr.com/ru/post/666164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666164)
 - [Переход на UNIGINE с Unity: гайд для программистов](https://habr.com/ru/post/665886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665886)
-- [Войти в IT в 27 лет. Что получилось за 4 года](https://habr.com/ru/post/666136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666136)
-- [[Перевод] Как помочь компилятору повысить быстродействие вашей программы](https://habr.com/ru/post/665224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665224)
 <!-- BLOG-POST-LIST:END -->
