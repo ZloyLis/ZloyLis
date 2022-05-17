@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем стратегию тестирования для Agile/Scrum проекта](https://habr.com/ru/post/666092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666092)
+- [Почему важен graceful shutdown в облачной среде &lpar;на примере Kubernetes + Spring Boot&rpar;](https://habr.com/ru/post/666090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666090)
+- [Подробный отзыв о Яндекс Практикуме: за что хвалить и ругать](https://habr.com/ru/post/666080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666080)
 - [Как разработать фронтенд, чтобы не ночевать на заводе](https://habr.com/ru/post/665592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665592)
 - [Собираем интересные .NET блоги в Telegram-канал с помощью GitHub Actions](https://habr.com/ru/post/659293/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659293)
-- [Работа с API HeadHunter при помощи python](https://habr.com/ru/post/666062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666062)
-- [Как работать с Makefile-проектами в среде CLion](https://habr.com/ru/post/666058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666058)
-- [Нестандартное оформление кнопок, текстовых полей и других элементов управления Flutter](https://habr.com/ru/post/666052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666052)
 <!-- BLOG-POST-LIST:END -->
