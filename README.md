@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пишем стратегию тестирования для Agile/Scrum проекта](https://habr.com/ru/post/666092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666092)
+- [.NET 6: PriorityQueue](https://habr.com/ru/post/666018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666018)
+- [Как на Flutter-проекте реализовать разделение Google-сервисов и Huawei-сервисов](https://habr.com/ru/post/665686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665686)
+- [Правильная архитектура фронта, или как упростить себе жизнь](https://habr.com/ru/post/666110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666110)
+- [Пишем стратегию тестирования для Agile/Scrum-проекта](https://habr.com/ru/post/666092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666092)
 - [Почему важен graceful shutdown в облачной среде &lpar;на примере Kubernetes + Spring Boot&rpar;](https://habr.com/ru/post/666090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666090)
-- [Подробный отзыв о Яндекс Практикуме: за что хвалить и ругать](https://habr.com/ru/post/666080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666080)
-- [Как разработать фронтенд, чтобы не ночевать на заводе](https://habr.com/ru/post/665592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665592)
-- [Собираем интересные .NET блоги в Telegram-канал с помощью GitHub Actions](https://habr.com/ru/post/659293/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659293)
 <!-- BLOG-POST-LIST:END -->
