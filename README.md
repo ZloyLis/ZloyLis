@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как разработать фронтенд, чтобы не ночевать на заводе](https://habr.com/ru/post/665592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665592)
 - [Собираем интересные .NET блоги в Telegram-канал с помощью GitHub Actions](https://habr.com/ru/post/659293/?utm_source=habrahabr&utm_medium=rss&utm_campaign=659293)
 - [Работа с API HeadHunter при помощи python](https://habr.com/ru/post/666062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666062)
 - [Как работать с Makefile-проектами в среде CLion](https://habr.com/ru/post/666058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666058)
 - [Нестандартное оформление кнопок, текстовых полей и других элементов управления Flutter](https://habr.com/ru/post/666052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666052)
-- [Chrome на Android сломал чужие MitM-сертификаты, но это можно исправить](https://habr.com/ru/post/666046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666046)
 <!-- BLOG-POST-LIST:END -->
