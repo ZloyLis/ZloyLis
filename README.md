@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Войти в IT в 27 лет. Что получилось за 4 года](https://habr.com/ru/post/666136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666136)
 - [[Перевод] Как помочь компилятору повысить быстродействие вашей программы](https://habr.com/ru/post/665224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665224)
 - [[Перевод] 10 лучших алгоритмов 20 века](https://habr.com/ru/post/666122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666122)
 - [[Перевод] Видеоускоритель Apple и невозможный баг](https://habr.com/ru/post/666116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666116)
 - [.NET 6: PriorityQueue](https://habr.com/ru/post/666018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666018)
-- [Как на Flutter-проекте реализовать разделение Google-сервисов и Huawei-сервисов](https://habr.com/ru/post/665686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665686)
 <!-- BLOG-POST-LIST:END -->
