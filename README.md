@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Четыре простых лайфхака при написании тестов на Go + testify](https://habr.com/ru/post/666440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666440)
+- [[Перевод] Золотые правила “weak self”](https://habr.com/ru/post/666436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666436)
 - [Pull to refresh в SwiftUI](https://habr.com/ru/post/666410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666410)
 - [[Перевод] Почему я больше не рекомендую Julia](https://habr.com/ru/post/666332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666332)
 - [Браузер Vivaldi — мобильный автомобильный](https://habr.com/ru/post/666394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666394)
-- [Отзыв на отзыв о Практикуме](https://habr.com/ru/post/666392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666392)
-- [Уведомления из гугл календаря в телеграм](https://habr.com/ru/post/666372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666372)
 <!-- BLOG-POST-LIST:END -->
