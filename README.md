@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые возможности werf: CI/CD на основе werf и Argo CD](https://habr.com/ru/post/666100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666100)
 - [Дефицит полупроводников может внезапно закончиться из-за падения спроса на смартфоны, ПК и ноутбуки](https://habr.com/ru/post/653641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653641)
 - [Создание telegram web apps и взаимодействие с ними в телеграм ботах](https://habr.com/ru/post/666278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666278)
 - [[Перевод] Flutter каналы платформы](https://habr.com/ru/post/666272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666272)
 - [Инструменты разработки и LiveOps: Как стабильно управлять тоннами контента игры](https://habr.com/ru/post/665784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665784)
-- [[Перевод] Pinia vs Vuex: Ананасовый экспресс в светлое будущее](https://habr.com/ru/post/666250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666250)
 <!-- BLOG-POST-LIST:END -->
