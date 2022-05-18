@@ -27,7 +27,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Начинающие программисты боятся темноты](https://habr.com/ru/post/666528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666528)
 - [[Перевод] Что такое мемоизация? Как и когда использовать мемоизацию в JavaScript и React](https://habr.com/ru/post/666522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666522)
-- [Алгоритмы на кристалле: Быстродействие элементарных схем](https://habr.com/ru/post/494842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=494842)
+- [Алгоритмы на кристалле: быстродействие элементарных схем](https://habr.com/ru/post/494842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=494842)
 - [Зачем учиться motion-дизайну и как это сделать своими силами](https://habr.com/ru/post/666430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666430)
 - [Как соединить Low Code и Serverless-архитектуры &lpar;и не платить вендору&rpar;](https://habr.com/ru/post/666442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666442)
 <!-- BLOG-POST-LIST:END -->
