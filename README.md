@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Честь Huawei. Как Honor обогнала своего прародителя](https://habr.com/ru/post/665294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665294)
+- [[Перевод] Как улучшить архитектуру озера данных: два уровня прокачки](https://habr.com/ru/post/665870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665870)
+- [Блеск и нищета фреймворков тестирования: используем Groovy для скриптинга end-to-end тестов](https://habr.com/ru/post/666334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666334)
 - [Новые возможности werf: CI/CD на основе werf и Argo CD](https://habr.com/ru/post/666100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666100)
 - [Дефицит полупроводников может внезапно закончиться из-за падения спроса на смартфоны, ПК и ноутбуки](https://habr.com/ru/post/653641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=653641)
-- [Создание telegram web apps и взаимодействие с ними в телеграм ботах](https://habr.com/ru/post/666278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666278)
-- [[Перевод] Flutter каналы платформы](https://habr.com/ru/post/666272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666272)
-- [Инструменты разработки и LiveOps: Как стабильно управлять тоннами контента игры](https://habr.com/ru/post/665784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665784)
 <!-- BLOG-POST-LIST:END -->
