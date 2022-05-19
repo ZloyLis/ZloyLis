@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык-головоломка Marthue](https://habr.com/ru/post/666668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666668)
+- [Смотреть нельзя слушать: что важнее при проведении UX-тестов](https://habr.com/ru/post/666418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666418)
+- [[Перевод] Я два года выпускаю крошечные проекты](https://habr.com/ru/post/666654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666654)
 - [Руководство по NestJS. Часть 2](https://habr.com/ru/post/666470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666470)
 - [[Перевод] Flutter 3: что нового](https://habr.com/ru/post/666448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666448)
-- [A/B-эксперименты и Growth hacking](https://habr.com/ru/post/666530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666530)
-- [Парсинг сайта Госзакупок &lpar;ЕИС закупки&rpar;](https://habr.com/ru/post/666614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666614)
-- [[recovery mode] SingleA: доменный SSO своими руками](https://habr.com/ru/post/666602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666602)
 <!-- BLOG-POST-LIST:END -->
