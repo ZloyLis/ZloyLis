@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [История телепортации в андройде](https://habr.com/ru/post/666742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666742)
+- [Можно ли стать программистом после 30? На личном примере. Часть 2](https://habr.com/ru/post/666748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666748)
+- [История телепортации в андроиде](https://habr.com/ru/post/666742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666742)
 - [[Перевод] Как рисовать диаграммы в Seaborn](https://habr.com/ru/post/664756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664756)
 - [Пишем внешнюю компоненту для 1С, NativeAPI на С++, для ОС Linux, с использованием Qt Creator](https://habr.com/ru/post/666718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666718)
 - [Антикризисные доклады в программе конференции DevOps Conf &amp;amp; TechLead Conf 2022](https://habr.com/ru/post/666702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666702)
-- [[Перевод] Введение в OpenSSL: основы криптографиии](https://habr.com/ru/post/666700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666700)
 <!-- BLOG-POST-LIST:END -->
