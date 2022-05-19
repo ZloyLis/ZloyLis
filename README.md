@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] SingleA: доменный SSO своими руками](https://habr.com/ru/post/666602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666602)
+- [От микросервисов к монолиту — маршрут построен](https://habr.com/ru/post/666600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666600)
+- [Нескучно об обращениях граждан в электронном виде](https://habr.com/ru/post/666594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666594)
 - [[recovery mode] А давайте это отфильтруем](https://habr.com/ru/post/666582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666582)
 - [[Перевод] Rust с 0 до 80% для JavaScript разработчиков](https://habr.com/ru/post/666246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666246)
-- [Мой опыт с резиновым мужиком. Github Copilot](https://habr.com/ru/post/666538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666538)
-- [Начинающие программисты боятся темноты](https://habr.com/ru/post/666528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666528)
-- [[Перевод] Что такое мемоизация? Как и когда использовать мемоизацию в JavaScript и React](https://habr.com/ru/post/666522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666522)
 <!-- BLOG-POST-LIST:END -->
