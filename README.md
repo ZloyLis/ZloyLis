@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем внешнюю компоненту для 1С, NativeAPI на С++, для ОС Linux, с использованием Qt Creator](https://habr.com/ru/post/666718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666718)
 - [Антикризисные доклады в программе конференции DevOps Conf &amp;amp; TechLead Conf 2022](https://habr.com/ru/post/666702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666702)
 - [[Перевод] Введение в OpenSSL: основы криптографиии](https://habr.com/ru/post/666700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666700)
 - [Тестирование Flutter-приложений: гайд по разработке тестов на Flutter](https://habr.com/ru/post/666578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666578)
 - [Эволюция инди-игры: от Google Play до собственного магазина](https://habr.com/ru/post/666684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666684)
-- [Язык-головоломка Marthue](https://habr.com/ru/post/666668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666668)
 <!-- BLOG-POST-LIST:END -->
