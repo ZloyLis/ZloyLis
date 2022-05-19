@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Руководство по NestJS. Часть 2](https://habr.com/ru/post/666470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666470)
+- [[Перевод] Flutter 3: что нового](https://habr.com/ru/post/666448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666448)
 - [A/B-эксперименты и Growth hacking](https://habr.com/ru/post/666530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666530)
 - [Парсинг сайта Госзакупок &lpar;ЕИС закупки&rpar;](https://habr.com/ru/post/666614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666614)
 - [[recovery mode] SingleA: доменный SSO своими руками](https://habr.com/ru/post/666602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666602)
-- [От микросервисов к монолиту — маршрут построен](https://habr.com/ru/post/666600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666600)
-- [Нескучно об обращениях граждан в электронном виде](https://habr.com/ru/post/666594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666594)
 <!-- BLOG-POST-LIST:END -->
