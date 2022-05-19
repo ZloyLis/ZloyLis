@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция инди-игры: от Google Play до собственного магазина](https://habr.com/ru/post/666684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666684)
 - [Язык-головоломка Marthue](https://habr.com/ru/post/666668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666668)
 - [Смотреть нельзя слушать: что важнее при проведении UX-тестов](https://habr.com/ru/post/666418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666418)
 - [[Перевод] Я два года выпускаю крошечные проекты](https://habr.com/ru/post/666654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666654)
 - [Руководство по NestJS. Часть 2](https://habr.com/ru/post/666470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666470)
-- [[Перевод] Flutter 3: что нового](https://habr.com/ru/post/666448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666448)
 <!-- BLOG-POST-LIST:END -->
