@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [R*-tree в Go, немного геймдева и поиска элементов в пространстве](https://habr.com/ru/post/666904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666904)
 - [Gatling. Тестирование Kafka](https://habr.com/ru/post/666886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666886)
 - [Про «Сайфон» &lpar;он же Psiphon&rpar;: сами перевели, сами протестировали](https://habr.com/ru/post/666880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666880)
 - [Выразительные Unit тесты в Dart/Flutter](https://habr.com/ru/post/666196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666196)
 - [Протестировать всё: о чём расскажут на Heisenbug 2022 Spring](https://habr.com/ru/post/666224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666224)
-- [[Перевод] Как понять, что код нужно улучшить? Восемь признаков «кода с душком»](https://habr.com/ru/post/666854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666854)
 <!-- BLOG-POST-LIST:END -->
