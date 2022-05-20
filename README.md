@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем оформлять документы о создании программного обеспечения &lpar;мнение практикующего юриста&rpar;](https://habr.com/ru/post/666970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666970)
 - [Образ современного тестировщика. Что нужно знать и уметь](https://habr.com/ru/post/666930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666930)
 - [R*-tree в Go, немного геймдева и поиска элементов в пространстве](https://habr.com/ru/post/666904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666904)
 - [Gatling. Тестирование Kafka](https://habr.com/ru/post/666886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666886)
 - [Про «Сайфон» &lpar;он же Psiphon&rpar;: сами перевели, сами протестировали](https://habr.com/ru/post/666880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666880)
-- [Выразительные Unit тесты в Dart/Flutter](https://habr.com/ru/post/666196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666196)
 <!-- BLOG-POST-LIST:END -->
