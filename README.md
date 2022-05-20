@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие гаджеты могут заменить смартфоны в будущем](https://habr.com/ru/post/666800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666800)
+- [[Перевод] Автоматическое масштабирование БД в Kubernetes для MongoDB, MySQL и PostgreSQL](https://habr.com/ru/post/666856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666856)
+- [[Перевод] Rust 1.61.0: пользовательские коды возврата в main, расширение возможностей const fn и изменение IO-блокировок](https://habr.com/ru/post/666850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666850)
 - [[Перевод] Печальная история о важности релизов](https://habr.com/ru/post/666794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666794)
 - [Туда, не зная куда: каким мы увидели Qase](https://habr.com/ru/post/666192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666192)
-- [JavaScript декораторы наконец-то в Stage 3](https://habr.com/ru/post/666688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666688)
-- [Какие существуют сервисы для нефункционального ручного тестирования для новичков?](https://habr.com/ru/post/666760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666760)
-- [PyCUDA или этому коду нужно ускорение](https://habr.com/ru/post/666618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666618)
 <!-- BLOG-POST-LIST:END -->
