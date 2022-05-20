@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Какие гаджеты могут заменить смартфоны в будущем](https://habr.com/ru/post/666800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666800)
-- [[Перевод] Автоматическое масштабирование БД в Kubernetes для MongoDB, MySQL и PostgreSQL](https://habr.com/ru/post/666856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666856)
-- [[Перевод] Rust 1.61.0: пользовательские коды возврата в main, расширение возможностей const fn и изменение IO-блокировок](https://habr.com/ru/post/666850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666850)
-- [[Перевод] Печальная история о важности релизов](https://habr.com/ru/post/666794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666794)
-- [Туда, не зная куда: каким мы увидели Qase](https://habr.com/ru/post/666192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666192)
+- [Gatling. Тестирование Kafka](https://habr.com/ru/post/666886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666886)
+- [Про «Сайфон» &lpar;он же Psiphon&rpar;: сами перевели, сами протестировали](https://habr.com/ru/post/666880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666880)
+- [Выразительные Unit тесты в Dart/Flutter](https://habr.com/ru/post/666196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666196)
+- [Протестировать всё: о чём расскажут на Heisenbug 2022 Spring](https://habr.com/ru/post/666224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666224)
+- [[Перевод] Как понять, что код нужно улучшить? Восемь признаков «кода с душком»](https://habr.com/ru/post/666854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666854)
 <!-- BLOG-POST-LIST:END -->
