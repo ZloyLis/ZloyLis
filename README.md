@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Печальная история о важности релизов](https://habr.com/ru/post/666794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666794)
 - [Туда, не зная куда: каким мы увидели Qase](https://habr.com/ru/post/666192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666192)
 - [JavaScript декораторы наконец-то в Stage 3](https://habr.com/ru/post/666688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666688)
 - [Какие существуют сервисы для нефункционального ручного тестирования для новичков?](https://habr.com/ru/post/666760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666760)
 - [PyCUDA или этому коду нужно ускорение](https://habr.com/ru/post/666618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666618)
-- [Можно ли стать программистом после 30? На личном примере. Часть 2](https://habr.com/ru/post/666748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666748)
 <!-- BLOG-POST-LIST:END -->
