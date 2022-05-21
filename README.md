@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [28 Атрибутов Хорошей Блок-Схемы для PCB](https://habr.com/ru/post/667030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667030)
 - [Программирование: теоремы и задачи](https://habr.com/ru/post/667022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667022)
 - [Надежный способ сокрытия ссылок сайта от поисковых роботов](https://habr.com/ru/post/667016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667016)
 - [Самообучаемый чат-бот python, который умеет искать ответы в Wikipedia](https://habr.com/ru/post/667008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667008)
 - [Как и зачем собирать Android приложение в docker контейнере](https://habr.com/ru/post/667006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667006)
-- [[Перевод] 20+ консольных команд, которые изменят ваше представление об отладке](https://habr.com/ru/post/666972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666972)
 <!-- BLOG-POST-LIST:END -->
