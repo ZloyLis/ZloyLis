@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Надежный способ сокрытия ссылок сайта от поисковых роботов](https://habr.com/ru/post/667016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667016)
 - [Самообучаемый чат-бот python, который умеет искать ответы в Wikipedia](https://habr.com/ru/post/667008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667008)
 - [Как и зачем собирать Android приложение в docker контейнере](https://habr.com/ru/post/667006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667006)
 - [[Перевод] 20+ консольных команд, которые изменят ваше представление об отладке](https://habr.com/ru/post/666972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666972)
 - [Собираем автоматический конспект из материалов курса на платформе Эквио](https://habr.com/ru/post/664898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664898)
-- [Зачем оформлять документы о создании программного обеспечения &lpar;мнение практикующего юриста&rpar;](https://habr.com/ru/post/666970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666970)
 <!-- BLOG-POST-LIST:END -->
