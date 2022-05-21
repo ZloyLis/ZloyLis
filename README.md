@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как и зачем собирать Android приложение в docker контейнере](https://habr.com/ru/post/667006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667006)
 - [[Перевод] 20+ консольных команд, которые изменят ваше представление об отладке](https://habr.com/ru/post/666972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666972)
 - [Собираем автоматический конспект из материалов курса на платформе Эквио](https://habr.com/ru/post/664898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=664898)
 - [Зачем оформлять документы о создании программного обеспечения &lpar;мнение практикующего юриста&rpar;](https://habr.com/ru/post/666970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666970)
 - [Образ современного тестировщика. Что нужно знать и уметь](https://habr.com/ru/post/666930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666930)
-- [R*-tree в Go, немного геймдева и поиска элементов в пространстве](https://habr.com/ru/post/666904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666904)
 <!-- BLOG-POST-LIST:END -->
