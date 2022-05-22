@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужен бесплатный SSL-сертификат? Легко](https://habr.com/ru/post/667158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667158)
 - [Введение в SVG-анимации для верстальщиков](https://habr.com/ru/post/667116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667116)
 - [[Перевод] Знакомьтесь, object-view-box](https://habr.com/ru/post/667134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667134)
 - [Beyond URL and URN](https://habr.com/ru/post/667120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667120)
 - [Почему вы должны начать писать на TypeScript в 2022 году](https://habr.com/ru/post/667104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667104)
-- [Краткое описание нотации BPMN](https://habr.com/ru/post/667084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667084)
 <!-- BLOG-POST-LIST:END -->
