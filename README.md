@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [КРАТКОЕ ОПИСАНИЕ НОТАЦИИ BPMN](https://habr.com/ru/post/667084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667084)
 - [[Перевод] ORM — отвратительный анти-паттерн](https://habr.com/ru/post/667078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667078)
 - [[Перевод] Как отлаживать коллекции Java с Lightrun на продакшене](https://habr.com/ru/post/667072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667072)
 - [Что такое система в инженерном смысле?](https://habr.com/ru/post/667074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667074)
 - [Запросы в сеть с Clean Architecture и MVVM. Boilerplate ч. 2](https://habr.com/ru/post/667026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667026)
-- [28 Атрибутов Хорошей Блок-Схемы для PCB](https://habr.com/ru/post/667030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667030)
 <!-- BLOG-POST-LIST:END -->
