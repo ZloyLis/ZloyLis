@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;16.05 – 22.05.22&rpar;](https://habr.com/ru/post/667418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667418)
 - [Рукопись моей первой книги о Java](https://habr.com/ru/post/667410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667410)
 - [Долго. Дорого… Делать гаджет в России – учиться, терять деньги, жить на работе](https://habr.com/ru/post/667406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667406)
 - [Java библиотека для работы с внешним сервисом по протоколу RESTful API](https://habr.com/ru/post/666990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666990)
 - [Разные подходы к тестированию: в чем их суть и какой выбирать для своих проектов](https://habr.com/ru/post/665260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665260)
-- [Security Week 2221: вредоносный код в логах Windows](https://habr.com/ru/post/667354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667354)
 <!-- BLOG-POST-LIST:END -->
