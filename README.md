@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Распределённая настройка гиперапараметров с помощью Ray Tune](https://habr.com/ru/post/667236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667236)
+- [[Перевод] Профилируем сортировку FreeBSD](https://habr.com/ru/post/667286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667286)
+- [Три слоя градиента одного слайдера](https://habr.com/ru/post/667254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667254)
+- [[Перевод] Распределённая настройка гиперпараметров с помощью Ray Tune](https://habr.com/ru/post/667236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667236)
 - [Шпаргалка по работе с медиа в браузере](https://habr.com/ru/post/667148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667148)
 - [Как сдать ISTQB экзамен не выходя из дома](https://habr.com/ru/post/667238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667238)
-- [Разворачиваем проект серверов Minecraft](https://habr.com/ru/post/667198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667198)
-- [Как мы распознавали птиц при помощи камер и искусственного интеллекта &lpar;часть 2&rpar;](https://habr.com/ru/post/667194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667194)
 <!-- BLOG-POST-LIST:END -->
