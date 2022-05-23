@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/post/666766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666766)
+- [Про поддержку Certificate Transparency для национальных сертификатов](https://habr.com/ru/post/667300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667300)
 - [[Перевод] Профилируем сортировку FreeBSD](https://habr.com/ru/post/667286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667286)
 - [Три слоя градиента одного слайдера](https://habr.com/ru/post/667254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667254)
 - [[Перевод] Распределённая настройка гиперпараметров с помощью Ray Tune](https://habr.com/ru/post/667236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667236)
-- [Шпаргалка по работе с медиа в браузере](https://habr.com/ru/post/667148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667148)
-- [Как сдать ISTQB экзамен не выходя из дома](https://habr.com/ru/post/667238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667238)
 <!-- BLOG-POST-LIST:END -->
