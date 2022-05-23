@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UI советы для твоего прекрасного дизайна](https://habr.com/ru/post/667188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667188)
 - [[Перевод] Принципы ООП в TypeScript](https://habr.com/ru/post/667156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667156)
 - [Дайджест интересных материалов для мобильного разработчика #443 &lpar;16 — 22 мая&rpar;](https://habr.com/ru/post/667178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667178)
 - [«Атака клонов» или пишем макрос для клонирования репозитория GitLab внутрь XWiki](https://habr.com/ru/post/667166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667166)
 - [Wordle или как выиграть за 6 ходов](https://habr.com/ru/post/667170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667170)
-- [Нужен бесплатный SSL-сертификат? Легко](https://habr.com/ru/post/667158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667158)
 <!-- BLOG-POST-LIST:END -->
