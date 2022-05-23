@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2221: вредоносный код в логах Windows](https://habr.com/ru/post/667354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667354)
 - [Go в API для мобильного приложения. Создаем совместный список покупок с мгновенными уведомлениями](https://habr.com/ru/post/667308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667308)
 - [Главные IT-профессии 2022 года, которые стали ещё более востребованными](https://habr.com/ru/post/667262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667262)
 - [Фронтенд-новости №7. Больше никаких игр со шрифтами, COLRv1 и большое обновление Figma](https://habr.com/ru/post/666344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666344)
 - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/post/666766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666766)
-- [Про поддержку Certificate Transparency для национальных сертификатов](https://habr.com/ru/post/667300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667300)
 <!-- BLOG-POST-LIST:END -->
