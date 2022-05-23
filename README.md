@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Распределённая настройка гиперапараметров с помощью Ray Tune](https://habr.com/ru/post/667236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667236)
+- [Шпаргалка по работе с медиа в браузере](https://habr.com/ru/post/667148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667148)
+- [Как сдать ISTQB экзамен не выходя из дома](https://habr.com/ru/post/667238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667238)
 - [Разворачиваем проект серверов Minecraft](https://habr.com/ru/post/667198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667198)
 - [Как мы распознавали птиц при помощи камер и искусственного интеллекта &lpar;часть 2&rpar;](https://habr.com/ru/post/667194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667194)
-- [6 советов по удобным интерфейсам за май](https://habr.com/ru/post/667118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667118)
-- [14 Важных UI/UX типсов для твоего дизайна](https://habr.com/ru/post/667188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667188)
-- [[Перевод] Принципы ООП в TypeScript](https://habr.com/ru/post/667156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667156)
 <!-- BLOG-POST-LIST:END -->
