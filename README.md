@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Долго. Дорого… Делать гаджет в России – учиться, терять деньги, жить на работе](https://habr.com/ru/post/667406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667406)
 - [Java библиотека для работы с внешним сервисом по протоколу RESTful API](https://habr.com/ru/post/666990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666990)
+- [Разные подходы к тестированию: в чем их суть и какой выбирать для своих проектов](https://habr.com/ru/post/665260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665260)
 - [Security Week 2221: вредоносный код в логах Windows](https://habr.com/ru/post/667354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667354)
 - [Go в API для мобильного приложения. Создаем совместный список покупок с мгновенными уведомлениями](https://habr.com/ru/post/667308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667308)
-- [Главные IT-профессии 2022 года, которые стали ещё более востребованными](https://habr.com/ru/post/667262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667262)
-- [Фронтенд-новости №7. Больше никаких игр со шрифтами, COLRv1 и большое обновление Figma](https://habr.com/ru/post/666344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666344)
 <!-- BLOG-POST-LIST:END -->
