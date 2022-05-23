@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разворачиваем проект серверов Minecraft](https://habr.com/ru/post/667198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667198)
 - [Как мы распознавали птиц при помощи камер и искусственного интеллекта &lpar;часть 2&rpar;](https://habr.com/ru/post/667194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667194)
 - [6 советов по удобным интерфейсам за май](https://habr.com/ru/post/667118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667118)
 - [14 Важных UI/UX типсов для твоего дизайна](https://habr.com/ru/post/667188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667188)
 - [[Перевод] Принципы ООП в TypeScript](https://habr.com/ru/post/667156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667156)
-- [Дайджест интересных материалов для мобильного разработчика #443 &lpar;16 — 22 мая&rpar;](https://habr.com/ru/post/667178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667178)
 <!-- BLOG-POST-LIST:END -->
