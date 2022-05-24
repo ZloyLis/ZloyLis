@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [1000 и 1 нюанс. UX-проектирование и тестирование сложного функционала или почему не нужно спешить делать дизайн](https://habr.com/ru/post/667310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667310)
 - [Не отписался — без памяти остался](https://habr.com/ru/post/667504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667504)
 - [[Перевод] GPT-4 уже на за горами. Что мы о нём знаем](https://habr.com/ru/post/667278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667278)
 - [Насколько естественен естественный язык? Представляем датасет RuCoLA](https://habr.com/ru/post/667336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667336)
 - [Используем клиентский процессор по максимуму. Часть 2: SIMD + мультипоточность](https://habr.com/ru/post/663936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663936)
-- [Нелегкий путь к динамическому анализу мобильных приложений](https://habr.com/ru/post/667422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667422)
 <!-- BLOG-POST-LIST:END -->
