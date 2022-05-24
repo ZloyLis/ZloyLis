@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Введение в суррогатные модели. Часть 2: Прикладной пример](https://habr.com/ru/post/663620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663620)
+- [Автоматизация закупок в коммерческих компаниях: российская практика](https://habr.com/ru/post/666102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666102)
 - [Как подружить Elementary и BLoC](https://habr.com/ru/post/667272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667272)
 - [Ошибки на технических собеседованиях](https://habr.com/ru/post/667448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667448)
 - [Диаграмма Эффектов: Спецификация v0.0.2](https://habr.com/ru/post/667446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667446)
-- [NLP. Проект по распознаванию адресов. Natasha, Pullenti, Stanza](https://habr.com/ru/post/667442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667442)
-- [Как я работаю с командной строкой](https://habr.com/ru/post/667438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667438)
 <!-- BLOG-POST-LIST:END -->
