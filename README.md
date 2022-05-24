@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация лабиринтов: алгоритм Эллера](https://habr.com/ru/post/667576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667576)
 - [Что под капотом у Умного Ташкента?](https://habr.com/ru/post/667450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667450)
 - [Быстрый переход на UNIGINE с Unreal Engine 4: первые шаги](https://habr.com/ru/post/667292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667292)
 - [Что спрашивают у начинающего разработчика JavaScript на собеседованиях и в тестовых заданиях](https://habr.com/ru/post/667520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667520)
 - [1000 и 1 нюанс. UX-проектирование и тестирование сложного функционала или почему не нужно спешить делать дизайн](https://habr.com/ru/post/667310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667310)
-- [Не отписался — без памяти остался](https://habr.com/ru/post/667504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667504)
 <!-- BLOG-POST-LIST:END -->
