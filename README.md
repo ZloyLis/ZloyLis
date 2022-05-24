@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрый переход на UNIGINE с Unreal Engine 4: первые шаги](https://habr.com/ru/post/667292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667292)
+- [Что спрашивают у начинающего разработчика JavaScript на собеседованиях и в тестовых заданиях](https://habr.com/ru/post/667520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667520)
 - [1000 и 1 нюанс. UX-проектирование и тестирование сложного функционала или почему не нужно спешить делать дизайн](https://habr.com/ru/post/667310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667310)
 - [Не отписался — без памяти остался](https://habr.com/ru/post/667504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667504)
 - [[Перевод] GPT-4 уже на за горами. Что мы о нём знаем](https://habr.com/ru/post/667278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667278)
-- [Насколько естественен естественный язык? Представляем датасет RuCoLA](https://habr.com/ru/post/667336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667336)
-- [Используем клиентский процессор по максимуму. Часть 2: SIMD + мультипоточность](https://habr.com/ru/post/663936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663936)
 <!-- BLOG-POST-LIST:END -->
