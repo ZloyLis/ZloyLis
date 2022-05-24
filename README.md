@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нелегкий путь к динамическому анализу мобильных приложений](https://habr.com/ru/post/667422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667422)
+- [Спасаем тревожных миллениалов от необходимости звонить: как в приложении для заказа пиццы появился чат](https://habr.com/ru/post/666640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666640)
+- [Социальные сети безопасность и моделирование](https://habr.com/ru/post/662015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662015)
 - [[Перевод] Введение в суррогатные модели. Часть 2: Прикладной пример](https://habr.com/ru/post/663620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663620)
 - [Автоматизация закупок в коммерческих компаниях: российская практика](https://habr.com/ru/post/666102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666102)
-- [Как подружить Elementary и BLoC](https://habr.com/ru/post/667272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667272)
-- [Ошибки на технических собеседованиях](https://habr.com/ru/post/667448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667448)
-- [Диаграмма Эффектов: Спецификация v0.0.2](https://habr.com/ru/post/667446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667446)
 <!-- BLOG-POST-LIST:END -->
