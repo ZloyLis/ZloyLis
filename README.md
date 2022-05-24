@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [NLP. Проект по распознаванию адресов. Natasha, Pullenti, Stanza](https://habr.com/ru/post/667442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667442)
+- [Как я работаю с командной строкой](https://habr.com/ru/post/667438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667438)
 - [Гибкая индексация элементов в контейнере на С++ и при чём тут Boost.MultiIndex](https://habr.com/ru/post/667434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667434)
 - [Что возможно стоит знать начинающему Spring java backend разработчику о работе с PostgreSQL](https://habr.com/ru/post/667428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667428)
 - [Апдейт, еще апдейт: представлен релиз ядра Linux 5.18](https://habr.com/ru/post/571882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=571882)
-- [[Перевод] 11 вещей, о которых вы должны помнить перед стартом нового проекта на Flutter](https://habr.com/ru/post/667424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667424)
-- [Дайджест недели от Apple Pro Weekly News &lpar;16.05 – 22.05.22&rpar;](https://habr.com/ru/post/667418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667418)
 <!-- BLOG-POST-LIST:END -->
