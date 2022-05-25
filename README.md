@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как наиболее эффективно хранить и запрашивать сотни string-int словарей на одной машине. Часть 1](https://habr.com/ru/post/667718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667718)
+- [[Перевод] Как начать работать с библиотекой для машинного обучения Metaflow](https://habr.com/ru/post/666604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666604)
+- [Искусственный интеллект и безопасность](https://habr.com/ru/post/667580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667580)
 - [Итоги хакатона по разработке алгоритмов генерации голосовых фейков](https://habr.com/ru/post/667312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667312)
 - [gRPC — безопасность или жесть?](https://habr.com/ru/post/667616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667616)
-- [Любит или не любит: парное программирование](https://habr.com/ru/post/666636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666636)
-- [Как найти тему для выступления или статьи](https://habr.com/ru/post/667694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667694)
-- [TinyML — машинное обучение на микроконтроллерах](https://habr.com/ru/post/665932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665932)
 <!-- BLOG-POST-LIST:END -->
