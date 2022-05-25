@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Заработок на VK от 33 500 RUB в месяц](https://habr.com/ru/post/667772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667772)
+- [Аналитика содержимого аудиоразговоров &lpar;пробуем, пытаемся&rpar;](https://habr.com/ru/post/667824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667824)
+- [Тестирование интеграции Kotlin веб сервиса на Spring Boot с базой данных](https://habr.com/ru/post/667632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667632)
+- [Многомодульный BDSM: стоит ли внедрять Gradle модули и какие типы модулей бывают?](https://habr.com/ru/post/667776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667776)
+- [Рецензируемый QA-журнал для трейни/джунов/мидлов](https://habr.com/ru/post/667760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667760)
 - [Как мы делали свой поиск в Ozon: эволюция архитектуры от SQL до O2](https://habr.com/ru/post/667600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667600)
-- [React hooks, как не выстрелить себе в ноги. Часть 1: работа с состоянием](https://habr.com/ru/post/667706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667706)
-- [Как [пере]собрать цифровой портфель для выживания бизнеса](https://habr.com/ru/post/667756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667756)
-- [Спокойный сон и крепкие нервы. Резервное копирование для Kubernetes. Часть 1](https://habr.com/ru/post/667644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667644)
 <!-- BLOG-POST-LIST:END -->
