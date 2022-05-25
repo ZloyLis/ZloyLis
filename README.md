@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Итоги хакатона по разработке алгоритмов генерации голосовых фейков](https://habr.com/ru/post/667312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667312)
+- [gRPC — безопасность или жесть?](https://habr.com/ru/post/667616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667616)
 - [Любит или не любит: парное программирование](https://habr.com/ru/post/666636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666636)
 - [Как найти тему для выступления или статьи](https://habr.com/ru/post/667694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667694)
 - [TinyML — машинное обучение на микроконтроллерах](https://habr.com/ru/post/665932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665932)
-- [Алгебра текста без формул](https://habr.com/ru/post/667640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667640)
-- [[API] Формирование продуктового видения](https://habr.com/ru/post/667650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667650)
 <!-- BLOG-POST-LIST:END -->
