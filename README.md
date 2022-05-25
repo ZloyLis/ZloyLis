@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Любит или не любит: парное программирование](https://habr.com/ru/post/666636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666636)
+- [Как найти тему для выступления или статьи](https://habr.com/ru/post/667694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667694)
+- [TinyML — машинное обучение на микроконтроллерах](https://habr.com/ru/post/665932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665932)
+- [Алгебра текста без формул](https://habr.com/ru/post/667640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667640)
 - [[API] Формирование продуктового видения](https://habr.com/ru/post/667650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667650)
-- [[Перевод] Приведение значений к Boolean в JavaScript](https://habr.com/ru/post/667662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667662)
-- [Список полезных статей и видео для изучения тестирования API](https://habr.com/ru/post/667634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667634)
-- [Генерация лабиринтов: алгоритм Эллера](https://habr.com/ru/post/667576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667576)
-- [Что под капотом у Умного Ташкента?](https://habr.com/ru/post/667450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667450)
 <!-- BLOG-POST-LIST:END -->
