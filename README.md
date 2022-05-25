@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектура фронтенда и какой она должна быть](https://habr.com/ru/post/667214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667214)
-- [[Перевод] Как наиболее эффективно хранить и запрашивать сотни string-int словарей на одной машине. Часть 1](https://habr.com/ru/post/667718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667718)
-- [[Перевод] Как начать работать с библиотекой для машинного обучения Metaflow](https://habr.com/ru/post/666604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666604)
-- [Искусственный интеллект и безопасность](https://habr.com/ru/post/667580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667580)
-- [Итоги хакатона по разработке алгоритмов генерации голосовых фейков](https://habr.com/ru/post/667312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667312)
+- [Заработок на VK от 33 500 RUB в месяц](https://habr.com/ru/post/667772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667772)
+- [Как мы делали свой поиск в Ozon: эволюция архитектуры от SQL до O2](https://habr.com/ru/post/667600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667600)
+- [React hooks, как не выстрелить себе в ноги. Часть 1: работа с состоянием](https://habr.com/ru/post/667706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667706)
+- [Как [пере]собрать цифровой портфель для выживания бизнеса](https://habr.com/ru/post/667756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667756)
+- [Спокойный сон и крепкие нервы. Резервное копирование для Kubernetes. Часть 1](https://habr.com/ru/post/667644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667644)
 <!-- BLOG-POST-LIST:END -->
