@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] [Async/await] Проблемы Swift 5.4](https://habr.com/ru/post/668018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668018)
+- [[Перевод] Знакомство с профилировщиком производительности вашего браузера](https://habr.com/ru/post/668008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668008)
 - [[Перевод] Захват флага: Практика уязвимости веб-приложений на Node.js &lpar;часть 1&rpar;](https://habr.com/ru/post/667926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667926)
 - [Все самые крутые решения в моей жизни — импульсивные. Как я стал senior-разработчиком в 17 лет](https://habr.com/ru/post/667878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667878)
 - [Пример описания многослойной архитектуры, основанной на использовании наборов подслоёв и иерархии моделей данных](https://habr.com/ru/post/667922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667922)
-- [Академия Аналитиков Авито: новый набор](https://habr.com/ru/post/667892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667892)
-- [Переход с 1С: УПП на 1C:ERP: Подсистема поддержки пользователей при внедрении 1С:ERP](https://habr.com/ru/post/667912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667912)
 <!-- BLOG-POST-LIST:END -->
