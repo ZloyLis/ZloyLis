@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Зачем нужен протокол языкового сервера &lpar;LSP&rpar;?](https://habr.com/ru/post/667882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667882)
 - [Просто о сложном — пишем тесты с Google C++ Testing Framework &lpar;GTest, GMock&rpar;](https://habr.com/ru/post/667880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667880)
 - [Коллективное распознавание смысла](https://habr.com/ru/post/667646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667646)
-- [Cloud Native технологии в белорусском банкинге в эпоху неопределенности. Опыт и планы](https://habr.com/ru/post/667836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667836)
+- [Cloud Native в условиях неопределенности: как мы создаем среду на сотню бизнес-систем с нуля](https://habr.com/ru/post/667836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667836)
 - [Аналитика содержимого аудиоразговоров &lpar;пробуем, пытаемся&rpar;](https://habr.com/ru/post/667824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667824)
-- [Тестирование интеграции Kotlin веб сервиса на Spring Boot с базой данных](https://habr.com/ru/post/667632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667632)
 <!-- BLOG-POST-LIST:END -->
