@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все самые крутые решения в моей жизни — импульсивные. Как я стал senior-разработчиком в 17 лет](https://habr.com/ru/post/667878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667878)
+- [Создание лендингов методом «вопросов и ответов»](https://habr.com/ru/post/667812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667812)
+- [Пример описания многослойной архитектуры, основанной на использовании наборов подслоёв и иерархии моделей данных](https://habr.com/ru/post/667922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667922)
 - [Академия Аналитиков Авито: новый набор](https://habr.com/ru/post/667892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667892)
 - [Переход с 1С: УПП на 1C:ERP: Подсистема поддержки пользователей при внедрении 1С:ERP](https://habr.com/ru/post/667912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667912)
-- [Тренды развития систем контроля доступа](https://habr.com/ru/post/667910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667910)
-- [[Перевод] Зачем нужен протокол языкового сервера &lpar;LSP&rpar;?](https://habr.com/ru/post/667882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667882)
-- [Просто о сложном — пишем тесты с Google C++ Testing Framework &lpar;GTest, GMock&rpar;](https://habr.com/ru/post/667880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667880)
 <!-- BLOG-POST-LIST:END -->
