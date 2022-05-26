@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация вычислений в ЦОС &lpar;часть первая, углы&rpar;](https://habr.com/ru/post/668086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668086)
 - [Есть много способов сделать это: Vue 3 и взаимодействие компонентов](https://habr.com/ru/post/668072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668072)
 - [[Перевод] Dart 2.17: Продуктивность и интеграция](https://habr.com/ru/post/667990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667990)
 - [[recovery mode] [Async/await] Проблемы Swift 5.4](https://habr.com/ru/post/668018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668018)
 - [[Перевод] Знакомство с профилировщиком производительности вашего браузера](https://habr.com/ru/post/668008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668008)
-- [[Перевод] Захват флага: Практика уязвимости веб-приложений на Node.js &lpar;часть 1&rpar;](https://habr.com/ru/post/667926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667926)
 <!-- BLOG-POST-LIST:END -->
