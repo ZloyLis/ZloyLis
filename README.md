@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue: переворот сознания](https://habr.com/ru/post/667516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667516)
+- [Короткое путешествие с android на iOS и обратно](https://habr.com/ru/post/668248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668248)
 - [Удачный шаблон документации на API, который будут читать](https://habr.com/ru/post/667884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667884)
 - [[recovery mode] Как я позавидовал начинающим Junior Java разработчикам](https://habr.com/ru/post/667130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667130)
 - [[Перевод] Создание REST API с помощью Feathers.js и SQLite](https://habr.com/ru/post/665940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665940)
-- [Безопасность + Разработка = ♡ Как выпускать релизы в срок и дружить с безопасностью](https://habr.com/ru/post/667968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667968)
-- [Go против Rust — производительность вне конкуренции](https://habr.com/ru/post/668166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668166)
 <!-- BLOG-POST-LIST:END -->
