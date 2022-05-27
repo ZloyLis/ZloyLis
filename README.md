@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Как я позавидовал начинающим Junior Java разработчикам](https://habr.com/ru/post/667130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667130)
 - [[Перевод] Создание REST API с помощью Feathers.js и SQLite](https://habr.com/ru/post/665940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665940)
 - [Безопасность + Разработка = ♡ Как выпускать релизы в срок и дружить с безопасностью](https://habr.com/ru/post/667968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667968)
 - [Go против Rust — производительность вне конкуренции](https://habr.com/ru/post/668166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668166)
 - [RVO и NRVO в C++17](https://habr.com/ru/post/666330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666330)
-- [Как буткиты внедряются в современные прошивки и чем UEFI отличается от Legacy BIOS](https://habr.com/ru/post/668154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668154)
 <!-- BLOG-POST-LIST:END -->
