@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Webpack Module Federation: «официальное» решение в микрофронтендах](https://habr.com/ru/post/668118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668118)
 - [Контроль переполнения. Как уменьшить длину, увеличивая путь](https://habr.com/ru/post/668080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668080)
 - [Как бы вы реализовали форму аутентификации на сайте? Вопрос для собеседования на Junior/Middle/Senior?](https://habr.com/ru/post/668104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668104)
 - [HTTPS для сайта в Kubernetes-кластере с помощью NGINX Ingress Controller, cert-manager и Let’s Encrypt](https://habr.com/ru/post/668098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668098)
-- [[Перевод] StyleGAN3 — изображения в разном стиле одним кликом](https://habr.com/ru/post/668090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668090)
 - [Оптимизация вычислений в ЦОС &lpar;часть первая, углы&rpar;](https://habr.com/ru/post/668086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668086)
 <!-- BLOG-POST-LIST:END -->
