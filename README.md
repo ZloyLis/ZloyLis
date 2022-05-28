@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как заработать 1000 евро и набрать миллионы игроков на браузерной игре](https://habr.com/ru/post/668314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668314)
 - [Общего между фракталами и голографией](https://habr.com/ru/post/595433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=595433)
 - [Loom: зачем?](https://habr.com/ru/post/668306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668306)
 - [[Перевод] Как сделать веб-шрифты красочными](https://habr.com/ru/post/668298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668298)
 - [Vue: переворот сознания](https://habr.com/ru/post/667516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667516)
-- [Короткое путешествие с android на iOS и обратно](https://habr.com/ru/post/668248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668248)
 <!-- BLOG-POST-LIST:END -->
