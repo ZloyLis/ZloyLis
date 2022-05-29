@@ -27,7 +27,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Ловим Енотисов при отладке на PHP: руководство для программистов](https://habr.com/ru/post/668346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668346)
 - [Строим REST API с использованием Nest.js и Swagger](https://habr.com/ru/post/668340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668340)
-- [[recovery mode] Какие шрифты использовать на сайте?](https://habr.com/ru/post/668330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668330)
 - [Микросервисы и неизбежная боль?](https://habr.com/ru/post/668300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668300)
 - [С 30 июня Apple не пустит в AppStore приложения без возможности удаления аккаунта](https://habr.com/ru/post/668318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668318)
+- [Как заработать 1000 евро и набрать миллионы игроков на браузерной игре](https://habr.com/ru/post/668314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668314)
 <!-- BLOG-POST-LIST:END -->
