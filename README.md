@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Объектно-ориентированный антипаттерн](https://habr.com/ru/post/668396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668396)
 - [[Перевод] Руководство по обеспечению высокой доступности в Kubernetes](https://habr.com/ru/post/668016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668016)
 - [Тыж программист. Ада Лавлейс](https://habr.com/ru/post/668294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668294)
 - [Ловим Енотисов при отладке на PHP: руководство для программистов](https://habr.com/ru/post/668346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668346)
 - [Строим REST API с использованием Nest.js и Swagger](https://habr.com/ru/post/668340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668340)
-- [Микросервисы и неизбежная боль?](https://habr.com/ru/post/668300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668300)
 <!-- BLOG-POST-LIST:END -->
