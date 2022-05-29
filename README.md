@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли в 40 лет стать программистом?](https://habr.com/ru/post/668420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668420)
 - [Дайджест интересных материалов для мобильного разработчика #444 &lpar;23 — 29 мая&rpar;](https://habr.com/ru/post/668412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668412)
 - [[Перевод] Объектно-ориентированный антипаттерн](https://habr.com/ru/post/668396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668396)
 - [[Перевод] Руководство по обеспечению высокой доступности в Kubernetes](https://habr.com/ru/post/668016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668016)
 - [Тыж программист. Ада Лавлейс](https://habr.com/ru/post/668294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668294)
-- [Ловим Енотисов при отладке на PHP: руководство для программистов](https://habr.com/ru/post/668346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668346)
 <!-- BLOG-POST-LIST:END -->
