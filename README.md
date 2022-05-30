@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2222: уязвимость в приложении Zoom](https://habr.com/ru/post/668666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668666)
+- [Система сбора распределенной телеметрии на Cassandra и Kotlin Spring](https://habr.com/ru/post/668524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668524)
 - [Внедрение автотестов UI web-приложения через связку Python, Selenium и QASE &lpar;ч.2&rpar;](https://habr.com/ru/post/668668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668668)
 - [Асинхронные моки. Создаем и тестируем telegram-бот на Kotlin](https://habr.com/ru/post/668352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668352)
-- [О чём расскажут на C++ Russia: от корутин до микросервисов](https://habr.com/ru/post/668132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668132)
-- [Дайджест недели от Apple Pro Weekly News &lpar;23.05 – 29.05.22&rpar;](https://habr.com/ru/post/668642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668642)
-- [[Перевод] Сегодня паттерн Посетитель в Java уже не нужен – лучше использовать переключатели паттернов](https://habr.com/ru/post/668646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668646)
+- [Корутины, компиляторы, кодогенерация и другие «ко...» грядущей C++ Russia](https://habr.com/ru/post/668132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668132)
 <!-- BLOG-POST-LIST:END -->
