@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Дайджест недели &lpar;мобильная разработка&rpar; – #3](https://habr.com/ru/post/668482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668482)
 - [Как плагин Emmet помогает ускорить работу с программным кодом](https://habr.com/ru/post/668476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668476)
 - [Учим LLDB уточнять указатели на локальные переменные](https://habr.com/ru/post/668220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668220)
 - [Используем GitLab в качестве удобного Helm-репозитория](https://habr.com/ru/post/667338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667338)
 - [Фронтенд-новости №8. Вышел Wordpress 6.0, найдена оптимальная длина строки, &amp;lt;dialog&amp;gt; под вопросом](https://habr.com/ru/post/668356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668356)
-- [Цифровая рыбалка в GitHub Copilot](https://habr.com/ru/post/668446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668446)
 <!-- BLOG-POST-LIST:END -->
