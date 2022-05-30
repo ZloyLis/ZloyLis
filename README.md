@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрение автотестов UI web-приложения через связку Python, Selenium и QASE &lpar;ч.2&rpar;](https://habr.com/ru/post/668668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668668)
+- [Асинхронные моки. Создаем и тестируем telegram-бот на Kotlin](https://habr.com/ru/post/668352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668352)
+- [О чём расскажут на C++ Russia: от корутин до микросервисов](https://habr.com/ru/post/668132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668132)
 - [Дайджест недели от Apple Pro Weekly News &lpar;23.05 – 29.05.22&rpar;](https://habr.com/ru/post/668642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668642)
 - [[Перевод] Сегодня паттерн Посетитель в Java уже не нужен – лучше использовать переключатели паттернов](https://habr.com/ru/post/668646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668646)
-- [Все должно быть под контролем. Резервное копирование для Kubernetes. Часть 2](https://habr.com/ru/post/668308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668308)
-- [Анонс: митап «Быстрый бэкенд». MongoDB, оптимизация алгоритмов и диагностика проблем в больших проектах](https://habr.com/ru/post/668598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668598)
-- [Сборка мусора во Flutter](https://habr.com/ru/post/668600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668600)
 <!-- BLOG-POST-LIST:END -->
