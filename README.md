@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать большой продукт доступным](https://habr.com/ru/post/668268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668268)
 - [[Перевод] Контейнеры JavaScript](https://habr.com/ru/post/668528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668528)
 - [[Перевод] Обучение с подкреплением: неформальное знакомство](https://habr.com/ru/post/667654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667654)
 - [Анализ аудиоданных &lpar;часть 1&rpar;](https://habr.com/ru/post/668518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668518)
 - [[recovery mode] Дайджест недели &lpar;мобильная разработка&rpar; – #3](https://habr.com/ru/post/668482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668482)
-- [Как плагин Emmet помогает ускорить работу с программным кодом](https://habr.com/ru/post/668476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668476)
 <!-- BLOG-POST-LIST:END -->
