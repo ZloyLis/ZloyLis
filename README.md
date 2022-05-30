@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонс: митап «Быстрый бэкенд». MongoDB, оптимизация алгоритмов и диагностика проблем в больших проектах](https://habr.com/ru/post/668598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668598)
+- [Сборка мусора во Flutter](https://habr.com/ru/post/668600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668600)
 - [Блюда из ресторанов: свежий взгляд на доставку от «ВкусВилл»](https://habr.com/ru/post/668594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668594)
 - [Английский для тестировщиков — опыт одного исследования](https://habr.com/ru/post/668586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668586)
 - [[recovery mode] Реализация очереди на C](https://habr.com/ru/post/668580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668580)
-- [Kubernetes в НСПК](https://habr.com/ru/post/668578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668578)
-- [Сила @RawQuery. Сокращаем код DAO на 90%](https://habr.com/ru/post/668564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668564)
 <!-- BLOG-POST-LIST:END -->
