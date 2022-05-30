@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;23.05 – 29.05.22&rpar;](https://habr.com/ru/post/668642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668642)
+- [[Перевод] Сегодня паттерн Посетитель в Java уже не нужен – лучше использовать переключатели паттернов](https://habr.com/ru/post/668646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668646)
+- [Все должно быть под контролем. Резервное копирование для Kubernetes. Часть 2](https://habr.com/ru/post/668308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668308)
 - [Анонс: митап «Быстрый бэкенд». MongoDB, оптимизация алгоритмов и диагностика проблем в больших проектах](https://habr.com/ru/post/668598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668598)
 - [Сборка мусора во Flutter](https://habr.com/ru/post/668600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668600)
-- [Блюда из ресторанов: свежий взгляд на доставку от «ВкусВилл»](https://habr.com/ru/post/668594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668594)
-- [Английский для тестировщиков — опыт одного исследования](https://habr.com/ru/post/668586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668586)
-- [[recovery mode] Реализация очереди на C](https://habr.com/ru/post/668580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668580)
 <!-- BLOG-POST-LIST:END -->
