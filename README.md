@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Используем GitLab в качестве удобного Helm-репозитория](https://habr.com/ru/post/667338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667338)
+- [Фронтенд-новости №8. Вышел Wordpress 6.0, найдена оптимальная длина строки, &amp;lt;dialog&amp;gt; под вопросом](https://habr.com/ru/post/668356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668356)
 - [Цифровая рыбалка в GitHub Copilot](https://habr.com/ru/post/668446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668446)
 - [Flutter &amp;amp; games: пробуем Bonfire в роли игрового движка](https://habr.com/ru/post/668436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668436)
 - [Можно ли в 40 лет стать программистом?](https://habr.com/ru/post/668420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668420)
-- [Дайджест интересных материалов для мобильного разработчика #444 &lpar;23 — 29 мая&rpar;](https://habr.com/ru/post/668412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668412)
-- [[Перевод] Объектно-ориентированный антипаттерн](https://habr.com/ru/post/668396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668396)
 <!-- BLOG-POST-LIST:END -->
