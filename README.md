@@ -28,6 +28,6 @@ ___
 - [DFD &lpar;Data Flow Diagram&rpar; Диаграммы — зачем они нужны и какие бывают](https://habr.com/ru/post/668684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668684)
 - [Security Week 2222: уязвимость в приложении Zoom](https://habr.com/ru/post/668666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668666)
 - [Система сбора распределенной телеметрии на Cassandra и Kotlin Spring](https://habr.com/ru/post/668524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668524)
-- [Внедрение автотестов UI web-приложения через связку Python, Selenium и QASE &lpar;ч.2&rpar;](https://habr.com/ru/post/668668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668668)
 - [Асинхронные моки. Создаем и тестируем telegram-бот на Kotlin](https://habr.com/ru/post/668352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668352)
+- [Корутины, компиляторы, кодогенерация и другие «ко...» грядущей C++ Russia](https://habr.com/ru/post/668132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668132)
 <!-- BLOG-POST-LIST:END -->
