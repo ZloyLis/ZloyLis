@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как определить подходящую меру центральной тенденции?](https://habr.com/ru/post/668778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668778)
+- [Снять с ручного тормоза: как новый сайт меняет бизнес-процесс](https://habr.com/ru/post/668770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668770)
+- [Tarantool: от коммита до прода за 20 минут](https://habr.com/ru/post/668746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668746)
 - [История о бесконечном регрессионном тестировании](https://habr.com/ru/post/668742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668742)
 - [Развертывание React-приложения](https://habr.com/ru/post/668622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668622)
-- [Конь остановлен, изба догорела](https://habr.com/ru/post/668698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668698)
-- [DFD &lpar;Data Flow Diagram&rpar; Диаграммы — зачем они нужны и какие бывают](https://habr.com/ru/post/668684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668684)
-- [Security Week 2222: уязвимость в приложении Zoom](https://habr.com/ru/post/668666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668666)
 <!-- BLOG-POST-LIST:END -->
