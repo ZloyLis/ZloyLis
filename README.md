@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Порезать, чтобы выпустить реальный MVP](https://habr.com/ru/post/668812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668812)
 - [Распределенные Workflow на PHP. Часть 2](https://habr.com/ru/post/666158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666158)
 - [[Перевод] Руководство по Java 8 Optional](https://habr.com/ru/post/668794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668794)
 - [Курс по робототехнике и ROS в университете ИТМО](https://habr.com/ru/post/668496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668496)
 - [Книга «Spring Boot по-быстрому»](https://habr.com/ru/post/668616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668616)
-- [Экспортируем модули из Go-сервиса: сотворение директории pkg](https://habr.com/ru/post/668254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668254)
 <!-- BLOG-POST-LIST:END -->
