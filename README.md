@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История о бесконечном регрессионном тестировании](https://habr.com/ru/post/668742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668742)
+- [Развертывание React-приложения](https://habr.com/ru/post/668622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668622)
 - [Конь остановлен, изба догорела](https://habr.com/ru/post/668698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668698)
 - [DFD &lpar;Data Flow Diagram&rpar; Диаграммы — зачем они нужны и какие бывают](https://habr.com/ru/post/668684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668684)
 - [Security Week 2222: уязвимость в приложении Zoom](https://habr.com/ru/post/668666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668666)
-- [Система сбора распределенной телеметрии на Cassandra и Kotlin Spring](https://habr.com/ru/post/668524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668524)
-- [Асинхронные моки. Создаем и тестируем telegram-бот на Kotlin](https://habr.com/ru/post/668352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668352)
 <!-- BLOG-POST-LIST:END -->
