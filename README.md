@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция Server-Driven UI: динамические поля, хэндлеры и многошаг](https://habr.com/ru/post/668754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668754)
 - [Java — 27! Как язык программирования, предназначенный для бытовой техники, стал одним из самых популярных в мире](https://habr.com/ru/post/668852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668852)
 - [Написание Paper/Bukkit плагина LiteSMT #1 — Основа понятий и окружение](https://habr.com/ru/post/668836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668836)
 - [[Перевод] Добавляйте единицы измерения в имена](https://habr.com/ru/post/668832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668832)
 - [Азбука вкуса, Nuxt и наш тернистый путь к микрофронтам](https://habr.com/ru/post/663260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663260)
-- [Порезать, чтобы выпустить реальный MVP](https://habr.com/ru/post/668812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668812)
 <!-- BLOG-POST-LIST:END -->
