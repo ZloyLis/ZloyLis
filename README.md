@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как определить подходящую меру центральной тенденции?](https://habr.com/ru/post/668778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668778)
-- [Снять с ручного тормоза: как новый сайт меняет бизнес-процесс](https://habr.com/ru/post/668770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668770)
-- [Tarantool: от коммита до прода за 20 минут](https://habr.com/ru/post/668746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668746)
-- [История о бесконечном регрессионном тестировании](https://habr.com/ru/post/668742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668742)
-- [Развертывание React-приложения](https://habr.com/ru/post/668622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668622)
+- [Распределенные Workflow на PHP. Часть 2](https://habr.com/ru/post/666158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666158)
+- [[Перевод] Руководство по Java 8 Optional](https://habr.com/ru/post/668794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668794)
+- [Курс по робототехнике и ROS в университете ИТМО](https://habr.com/ru/post/668496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668496)
+- [Книга «Spring Boot по-быстрому»](https://habr.com/ru/post/668616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668616)
+- [Экспортируем модули из Go-сервиса: сотворение директории pkg](https://habr.com/ru/post/668254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668254)
 <!-- BLOG-POST-LIST:END -->
