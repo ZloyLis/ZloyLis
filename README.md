@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полдюжины правил для статического анализатора Detekt](https://habr.com/ru/post/669136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669136)
 - [[Перевод] Создание бессерверных API с помощью Node.js и AWS Lambda](https://habr.com/ru/post/669118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669118)
 - [[Перевод] Константные ссылки — не всегда ваши друзья](https://habr.com/ru/post/669114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669114)
 - [Анализ коммуникационных протоколов в сфере IoT для сбора данных с приборов учета](https://habr.com/ru/post/669106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669106)
 - [BLE Inspector, маленькое open source приложение для датчиков уровня топлива](https://habr.com/ru/post/669088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669088)
-- [История одного макета: способы сделать сайт послушным](https://habr.com/ru/post/668448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668448)
 <!-- BLOG-POST-LIST:END -->
