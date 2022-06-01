@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание бессерверных API с помощью Node.js и AWS Lambda](https://habr.com/ru/post/669118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669118)
+- [[Перевод] Константные ссылки — не всегда ваши друзья](https://habr.com/ru/post/669114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669114)
+- [Анализ коммуникационных протоколов в сфере IoT для сбора данных с приборов учета](https://habr.com/ru/post/669106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669106)
 - [BLE Inspector, маленькое open source приложение для датчиков уровня топлива](https://habr.com/ru/post/669088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669088)
 - [История одного макета: способы сделать сайт послушным](https://habr.com/ru/post/668448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668448)
-- [Умная кухня](https://habr.com/ru/post/668998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668998)
-- [Когда контекст доступа важен: авторизация в микросервисной платформе на GraphQL](https://habr.com/ru/post/668992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668992)
-- [Work in Progress: самодельный микро ЧПУ-робот для заточки фрез и свёрл](https://habr.com/ru/post/668414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668414)
 <!-- BLOG-POST-LIST:END -->
