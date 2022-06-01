@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BLE Inspector, маленькое open source приложение для датчиков уровня топлива](https://habr.com/ru/post/669088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669088)
 - [История одного макета: способы сделать сайт послушным](https://habr.com/ru/post/668448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668448)
 - [Умная кухня](https://habr.com/ru/post/668998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668998)
 - [Когда контекст доступа важен: авторизация в микросервисной платформе на GraphQL](https://habr.com/ru/post/668992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668992)
 - [Work in Progress: самодельный микро ЧПУ-робот для заточки фрез и свёрл](https://habr.com/ru/post/668414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668414)
-- [Тест-кейсы по полочкам — как в библиотеке! Наводим порядок в структуре и содержании тестовой документации](https://habr.com/ru/post/668968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668968)
 <!-- BLOG-POST-LIST:END -->
