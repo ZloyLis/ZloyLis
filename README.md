@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Лена в 29 лет бросила успешную карьеру в финансах и решила «вкатиться в айти»](https://habr.com/ru/post/668932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668932)
+- [Разбор проблем Wildberries API, от разработчика-фрилансера](https://habr.com/ru/post/668930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668930)
 - [Оптимизация препроцессинга и постпроцессинга нейросети Yolov5 с помощью CUDA, Thrust и Nvidia Perfomance primitives](https://habr.com/ru/post/668906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668906)
 - [[Перевод] Стили заголовков в CSS: градиенты](https://habr.com/ru/post/668884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668884)
 - [Эволюция Server-Driven UI: динамические поля, хэндлеры и многошаг](https://habr.com/ru/post/668754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668754)
-- [Java — 27! Как язык программирования, предназначенный для бытовой техники, стал одним из самых популярных в мире](https://habr.com/ru/post/668852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668852)
-- [Написание Paper/Bukkit плагина LiteSMT #1 — Основа понятий и окружение](https://habr.com/ru/post/668836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668836)
 <!-- BLOG-POST-LIST:END -->
