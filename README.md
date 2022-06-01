@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как с помощью Python создать приложение для расшифровки речи в реальном времени](https://habr.com/ru/post/669126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669126)
 - [Алгоритмы на кристалле. Глава 1 &lpar;продолжение&rpar;. Схемы простейших устройств](https://habr.com/ru/post/669146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669146)
 - [Полдюжины правил для статического анализатора Detekt](https://habr.com/ru/post/669136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669136)
 - [[Перевод] Создание бессерверных API с помощью Node.js и AWS Lambda](https://habr.com/ru/post/669118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669118)
 - [[Перевод] Константные ссылки — не всегда ваши друзья](https://habr.com/ru/post/669114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669114)
-- [Анализ коммуникационных протоколов в сфере IoT для сбора данных с приборов учета](https://habr.com/ru/post/669106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669106)
 <!-- BLOG-POST-LIST:END -->
