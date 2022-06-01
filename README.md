@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Умная кухня](https://habr.com/ru/post/668998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668998)
+- [УСПЕШНЫЙ ПЕРЕХОД С ИНОСТРАННОЙ ERP-СИСТЕМЫ AXAPTA НА 1С:ERP](https://habr.com/ru/post/668996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668996)
+- [Когда контекст доступа важен: авторизация в микросервисной платформе на GraphQL](https://habr.com/ru/post/668992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668992)
 - [Work in Progress: самодельный микро ЧПУ-робот для заточки фрез и свёрл](https://habr.com/ru/post/668414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668414)
 - [Тест-кейсы по полочкам — как в библиотеке! Наводим порядок в структуре и содержании тестовой документации](https://habr.com/ru/post/668968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668968)
-- [[Перевод] Использование URL-адреса функции AWS Lambda для создания бессерверного бэкенда для Slack](https://habr.com/ru/post/667204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667204)
-- [Компьютерное зрение в поиске атмосферных осадков](https://habr.com/ru/post/668958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668958)
-- [Vivaldi 5.3 — Ломать и строить](https://habr.com/ru/post/668942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668942)
 <!-- BLOG-POST-LIST:END -->
