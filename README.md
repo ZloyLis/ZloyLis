@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Использование URL-адреса функции AWS Lambda для создания бессерверного бэкенда для Slack](https://habr.com/ru/post/667204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667204)
+- [Компьютерное зрение в поиске атмосферных осадков](https://habr.com/ru/post/668958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668958)
 - [Vivaldi 5.3 — Ломать и строить](https://habr.com/ru/post/668942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668942)
 - [Типы JavaScript кажутся сложными?](https://habr.com/ru/post/668938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668938)
 - [Как Лена в 29 лет бросила успешную карьеру в финансах и решила «вкатиться в айти»](https://habr.com/ru/post/668932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668932)
-- [Разбор проблем Wildberries API, от разработчика-фрилансера](https://habr.com/ru/post/668930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668930)
-- [Оптимизация препроцессинга и постпроцессинга нейросети Yolov5 с помощью CUDA, Thrust и Nvidia Perfomance primitives](https://habr.com/ru/post/668906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668906)
 <!-- BLOG-POST-LIST:END -->
