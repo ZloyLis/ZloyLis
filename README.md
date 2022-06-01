@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Work in Progress: самодельный микро ЧПУ-робот для заточки фрез и свёрл](https://habr.com/ru/post/668414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668414)
+- [Тест-кейсы по полочкам — как в библиотеке! Наводим порядок в структуре и содержании тестовой документации](https://habr.com/ru/post/668968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668968)
 - [[Перевод] Использование URL-адреса функции AWS Lambda для создания бессерверного бэкенда для Slack](https://habr.com/ru/post/667204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667204)
 - [Компьютерное зрение в поиске атмосферных осадков](https://habr.com/ru/post/668958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668958)
 - [Vivaldi 5.3 — Ломать и строить](https://habr.com/ru/post/668942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668942)
-- [Типы JavaScript кажутся сложными?](https://habr.com/ru/post/668938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668938)
-- [Как Лена в 29 лет бросила успешную карьеру в финансах и решила «вкатиться в айти»](https://habr.com/ru/post/668932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668932)
 <!-- BLOG-POST-LIST:END -->
