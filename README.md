@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализируем речь с помощью Python: Как и о чем говорят на YouTube-канале «вДудь»?](https://habr.com/ru/post/668538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668538)
+- [Память в браузерах и в Node.js: ограничения, утечки и нестандартные оптимизации](https://habr.com/ru/post/666870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666870)
+- [6 простых правил хорошего alt-текста](https://habr.com/ru/post/667540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667540)
 - [Гибкая навигация в iOS](https://habr.com/ru/post/669124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669124)
 - [[Перевод] Как с помощью Python создать приложение для расшифровки речи в реальном времени](https://habr.com/ru/post/669126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669126)
-- [Алгоритмы на кристалле. Глава 1 &lpar;продолжение&rpar;. Схемы простейших устройств](https://habr.com/ru/post/669146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669146)
-- [Полдюжины правил для статического анализатора Detekt](https://habr.com/ru/post/669136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669136)
-- [[Перевод] Создание бессерверных API с помощью Node.js и AWS Lambda](https://habr.com/ru/post/669118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669118)
 <!-- BLOG-POST-LIST:END -->
