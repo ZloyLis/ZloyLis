@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ThinkPad R31: пятиугольное ретро](https://habr.com/ru/post/669340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669340)
 - [«Могла набирать СМС с закрытыми глазами»‎: читатели наших блогов рассказывают о первых телефонах и КПК](https://habr.com/ru/post/669252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669252)
 - [Как организовать мультитенантность в кластерах Kubernetes](https://habr.com/ru/post/669322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669322)
 - [Анимация аккордеона и свойства height &lpar;max-height&rpar; в чистом CSS](https://habr.com/ru/post/669310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669310)
 - [Тестирование продукта RuScanner: как заставить отладчик Android работать во благо тестирования](https://habr.com/ru/post/668990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668990)
-- [CI/CD для коммуникационной платформы Voximplant](https://habr.com/ru/post/669274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669274)
 <!-- BLOG-POST-LIST:END -->
