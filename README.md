@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анимация аккордеона и свойства height &lpar;max-height&rpar; в чистом CSS](https://habr.com/ru/post/669310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669310)
+- [Тестирование продукта RuScanner: как заставить отладчик Android работать во благо тестирования](https://habr.com/ru/post/668990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668990)
 - [CI/CD для коммуникационной платформы Voximplant](https://habr.com/ru/post/669274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669274)
 - [Как стать хорошим техлидом](https://habr.com/ru/post/668206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668206)
 - [BI с Redshift от ETL до бордов](https://habr.com/ru/post/669240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669240)
-- [Анализируем речь с помощью Python: Как и о чем говорят на YouTube-канале «вДудь»?](https://habr.com/ru/post/668538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668538)
-- [Память в браузерах и в Node.js: ограничения, утечки и нестандартные оптимизации](https://habr.com/ru/post/666870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666870)
 <!-- BLOG-POST-LIST:END -->
