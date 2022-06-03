@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: заметка о побитовых операторах и числах с плавающей точкой](https://habr.com/ru/post/669394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669394)
 - [Подсчёт слов](https://habr.com/ru/post/575108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=575108)
 - [Открытые алгоритмы Твиттер, к чему это приведет?](https://habr.com/ru/post/669430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669430)
 - [Перформанс мониторинг по-взрослому: выкладываем запись Mobile Meetup](https://habr.com/ru/post/666888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666888)
 - [Введение в Jeptack Compose](https://habr.com/ru/post/669374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669374)
-- [От компромиссов TypeScript до мощного браузерного 3D: программа HolyJS 2022 Spring](https://habr.com/ru/post/668952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668952)
 <!-- BLOG-POST-LIST:END -->
