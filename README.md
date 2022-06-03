@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Перформанс мониторинг по-взрослому: выкладываем запись Mobile Meetup](https://habr.com/ru/post/666888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666888)
 - [Введение в Jeptack Compose](https://habr.com/ru/post/669374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669374)
 - [От компромиссов TypeScript до мощного браузерного 3D: программа HolyJS 2022 Spring](https://habr.com/ru/post/668952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668952)
 - [[Перевод] Как и зачем я отключил свой фавикон](https://habr.com/ru/post/669028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669028)
 - [ThinkPad R31: пятиугольное ретро](https://habr.com/ru/post/669340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669340)
-- [«Могла набирать СМС с закрытыми глазами»‎: читатели наших блогов рассказывают о первых телефонах и КПК](https://habr.com/ru/post/669252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669252)
 <!-- BLOG-POST-LIST:END -->
