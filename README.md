@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Расшаривание USB-устройства по нескольким клиентам через TCP](https://habr.com/ru/post/669408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669408)
+- [[recovery mode] Карьера аналитика 1С: куда расти, если ты успешен в IT](https://habr.com/ru/post/669504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669504)
 - [Бот на .NET. Telegram + Google API](https://habr.com/ru/post/669488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669488)
 - [Как мы подходим к поддержке ML-моделей в синтезе речи](https://habr.com/ru/post/669480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669480)
 - [[Перевод] Как с помощью Python создать полностью автоматизированную трейдинговую систему на базе ИИ](https://habr.com/ru/post/669462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669462)
-- [JavaScript: заметка о побитовых операторах и числах с плавающей точкой](https://habr.com/ru/post/669394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669394)
-- [Подсчёт слов](https://habr.com/ru/post/575108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=575108)
 <!-- BLOG-POST-LIST:END -->
