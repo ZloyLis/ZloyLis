@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Долой указатели](https://habr.com/ru/post/669532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669532)
 - [Зачем тимлиду актерское мастерство?](https://habr.com/ru/post/577314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=577314)
 - [[Перевод] Расшаривание USB-устройства по нескольким клиентам через TCP](https://habr.com/ru/post/669408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669408)
 - [[recovery mode] Карьера аналитика 1С: куда расти, если ты успешен в IT](https://habr.com/ru/post/669504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669504)
 - [Бот на .NET. Telegram + Google API](https://habr.com/ru/post/669488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669488)
-- [Как мы подходим к поддержке ML-моделей в синтезе речи](https://habr.com/ru/post/669480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669480)
 <!-- BLOG-POST-LIST:END -->
