@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Раз-два и в дамки: минимакс с альфа-бета отсечением](https://habr.com/ru/post/669580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669580)
 - [Кросс-компиляция Qt в России](https://habr.com/ru/post/669552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669552)
 - [[Перевод] Как написать средство проверки орфографии кхмерского языка](https://habr.com/ru/post/669466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669466)
 - [[Перевод] Долой указатели](https://habr.com/ru/post/669532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669532)
 - [[Перевод] Написание тестов API на JavaScript с Pactum](https://habr.com/ru/post/669528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669528)
-- [Зачем тимлиду актерское мастерство?](https://habr.com/ru/post/577314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=577314)
 <!-- BLOG-POST-LIST:END -->
