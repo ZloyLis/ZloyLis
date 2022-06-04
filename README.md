@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продление жизни временных значений: рецепты и подводные камни](https://habr.com/ru/post/669474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669474)
 - [Как я в IT ходил. Или сказ о курсах Otus QA engineer. Basic. Часть1](https://habr.com/ru/post/669586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669586)
 - [Как тестировать стриминговые приложения](https://habr.com/ru/post/669584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669584)
 - [А насколько Loom реактивный?](https://habr.com/ru/post/669582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669582)
 - [Раз-два и в дамки: минимакс с альфа-бета отсечением](https://habr.com/ru/post/669580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669580)
-- [Кросс-компиляция Qt в России](https://habr.com/ru/post/669552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669552)
 <!-- BLOG-POST-LIST:END -->
