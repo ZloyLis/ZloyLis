@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще раз о KISS и трендах](https://habr.com/ru/post/669690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669690)
 - [Как IT-компаниям растить специалистов в условиях их дефицита на рынке](https://habr.com/ru/post/669680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669680)
 - [Позволяет ли Redux писать функционально чистый код?](https://habr.com/ru/post/669672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669672)
 - [Дайджест недели от Apple Pro Weekly News &lpar;30.05 – 05.06.22&rpar;](https://habr.com/ru/post/669610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669610)
 - [Angular: ng-content для ng-template](https://habr.com/ru/post/669656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669656)
-- [Дайджест интересных материалов для мобильного разработчика #445 &lpar;30 мая — 5 июня&rpar;](https://habr.com/ru/post/669654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669654)
 <!-- BLOG-POST-LIST:END -->
