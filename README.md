@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Позволяет ли Redux писать функционально чистый код?](https://habr.com/ru/post/669672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669672)
 - [Дайджест недели от Apple Pro Weekly News &lpar;30.05 – 05.06.22&rpar;](https://habr.com/ru/post/669610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669610)
 - [Angular: ng-content для ng-template](https://habr.com/ru/post/669656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669656)
 - [Дайджест интересных материалов для мобильного разработчика #445 &lpar;30 мая — 5 июня&rpar;](https://habr.com/ru/post/669654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669654)
 - [[recovery mode] Теория эволюции и работы мозга](https://habr.com/ru/post/669612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669612)
-- [Продление жизни временных значений в С++: рецепты и подводные камни](https://habr.com/ru/post/669474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669474)
 <!-- BLOG-POST-LIST:END -->
