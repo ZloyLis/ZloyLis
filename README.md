@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А Лёха смог](https://habr.com/ru/post/669966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669966)
 - [О чём расскажут на JPoint: от профайлеров до контейнеров](https://habr.com/ru/post/669070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669070)
 - [Объектно-ориентированный Gradle. Настраиваем Build types в Android, используя Kotlin DSL](https://habr.com/ru/post/669878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669878)
 - [[Перевод] Как работать с PyScript — фреймворком для фронтенда на Python](https://habr.com/ru/post/669814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669814)
 - [Мой краткий чек-лист по скилам системного аналитика](https://habr.com/ru/post/669842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669842)
-- [Как сделать свою рекомендательную систему: история одной дипломной работы](https://habr.com/ru/post/669780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669780)
 <!-- BLOG-POST-LIST:END -->
