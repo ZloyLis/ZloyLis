@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбежать с конференции Zoom с помощью браузера Chrome](https://habr.com/ru/post/669820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669820)
 - [Как сделать Android-приложение тестируемым? Часть 1 — MVP и MVVM](https://habr.com/ru/post/669688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669688)
 - [[Перевод] О Flutter 3](https://habr.com/ru/post/669794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669794)
 - [[Перевод] Нормали и обратное транспонирование, часть 3: внешняя алгебра над сопряжённым пространством](https://habr.com/ru/post/669734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669734)
 - [Прокачиваем kotlin: используем AST лямбд в рантайме](https://habr.com/ru/post/669694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669694)
-- [[Перевод] Ищем аномалии: доход, отношения и 10х-программисты](https://habr.com/ru/post/668062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668062)
 <!-- BLOG-POST-LIST:END -->
