@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ищем аномалии: доход, отношения и 10х-программисты](https://habr.com/ru/post/668062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668062)
 - [FreeRTOS — операционная система реального времени](https://habr.com/ru/post/668498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668498)
 - [Фронтенд-новости №9. Конец эпохи IE, 19 лет Wordpress, цветовые тренды 2022](https://habr.com/ru/post/669738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669738)
 - [Запускаем MVP: как помочь команде справиться с режимом аврала](https://habr.com/ru/post/669736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669736)
 - [Поворотный стол. Часть 2](https://habr.com/ru/post/669092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669092)
-- [[Перевод] QML Самоучитель](https://habr.com/ru/post/669692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669692)
 <!-- BLOG-POST-LIST:END -->
