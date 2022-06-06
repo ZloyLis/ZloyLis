@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeRTOS — операционная система реального времени](https://habr.com/ru/post/668498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668498)
+- [Фронтенд-новости №9. Конец эпохи IE, 19 лет Wordpress, цветовые тренды 2022](https://habr.com/ru/post/669738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669738)
+- [Запускаем MVP: как помочь команде справиться с режимом аврала](https://habr.com/ru/post/669736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669736)
 - [Поворотный стол. Часть 2](https://habr.com/ru/post/669092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669092)
 - [[Перевод] QML Самоучитель](https://habr.com/ru/post/669692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669692)
-- [Еще раз о KISS и трендах](https://habr.com/ru/post/669690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669690)
-- [Как IT-компаниям растить специалистов в условиях их дефицита на рынке](https://habr.com/ru/post/669680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669680)
-- [Позволяет ли Redux писать функционально чистый код?](https://habr.com/ru/post/669672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669672)
 <!-- BLOG-POST-LIST:END -->
