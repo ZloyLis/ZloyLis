@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как работать с PyScript — фреймворком для фронтенда на Python](https://habr.com/ru/post/669814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669814)
+- [Мой краткий чек-лист по скилам аналитика](https://habr.com/ru/post/669842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669842)
+- [Как сделать свою рекомендательную систему: история одной дипломной работы](https://habr.com/ru/post/669780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669780)
 - [Рисуем интерактивный линейный график на iOS с помощью Charts](https://habr.com/ru/post/669854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669854)
 - [Security Week 2223: уязвимости в Windows и Atlassian Confluence](https://habr.com/ru/post/669838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669838)
-- [Как создать мобильную ферму, или Вжух! И ты мобильный фермер](https://habr.com/ru/post/669830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669830)
-- [Как сделать Android-приложение тестируемым? Часть 1 — MVP и MVVM](https://habr.com/ru/post/669688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669688)
-- [[Перевод] О Flutter 3](https://habr.com/ru/post/669794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669794)
 <!-- BLOG-POST-LIST:END -->
