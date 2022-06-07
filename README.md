@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex Planner. Как планировать вычислительные мощности](https://habr.com/ru/post/564510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=564510)
+- [Чек-лист: что проверить перед переездом IT-инфраструктуры](https://habr.com/ru/post/670008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670008)
+- [Специальный выпуск Apple Pro Weekly News – Apple WWDC22](https://habr.com/ru/post/669982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669982)
 - [Быть бизнес-аналитиком в ИТ](https://habr.com/ru/post/669428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669428)
-- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP](https://habr.com/ru/post/669996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669996)
-- [Чего ждать разработчику от WWDC 2022](https://habr.com/ru/post/669994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669994)
-- [Почему figcaption не заменяет alt](https://habr.com/ru/post/668756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668756)
-- [Apache Kafka для магазинов](https://habr.com/ru/post/669974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669974)
+- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 1](https://habr.com/ru/post/669996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669996)
 <!-- BLOG-POST-LIST:END -->
