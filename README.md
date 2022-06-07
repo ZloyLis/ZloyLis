@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему figcaption не заменяет alt](https://habr.com/ru/post/668756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668756)
 - [Визуализируем данные из xml в виде социальной сети](https://habr.com/ru/post/669980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669980)
 - [Лёха смог: уйти из Мака в 35 и стать программистом](https://habr.com/ru/post/669966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669966)
 - [О чём расскажут на JPoint: от профайлеров до контейнеров](https://habr.com/ru/post/669070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669070)
 - [Объектно-ориентированный Gradle. Настраиваем Build types в Android, используя Kotlin DSL](https://habr.com/ru/post/669878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669878)
-- [[Перевод] Как работать с PyScript — фреймворком для фронтенда на Python](https://habr.com/ru/post/669814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669814)
 <!-- BLOG-POST-LIST:END -->
