@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cлоёная архитектура или ООП в современном React / Mobx приложении](https://habr.com/ru/post/669696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669696)
 - [Следующий уровень автоматизации Kubernetes. Создаем свой оператор](https://habr.com/ru/post/669806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669806)
 - [Как стать мидлом или сеньором-разработчиком, обучаясь на любых курсах по программированию?](https://habr.com/ru/post/670114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670114)
 - [[Перевод] Используйте zx.js вместо Shell](https://habr.com/ru/post/670112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670112)
 - [Программист и энтропия](https://habr.com/ru/post/670096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670096)
-- [[Перевод] О проверке захвата в Scala 3](https://habr.com/ru/post/670102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670102)
 <!-- BLOG-POST-LIST:END -->
