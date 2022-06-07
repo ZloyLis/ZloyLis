@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java. Решение практических задач](https://habr.com/ru/post/670218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670218)
 - [Как обновить необновляемое: кастомная замена для @RabbitListener](https://habr.com/ru/post/670058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670058)
 - [Введение в пороговую подпись &lpar;TSS&rpar; и другие криптографические примитивы ч.2](https://habr.com/ru/post/670146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670146)
 - [На вес золота: как получать данные о размере и составе руды за секунды, а не часы](https://habr.com/ru/post/670132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670132)
 - [Cлоёная архитектура или ООП в современном React / Mobx приложении](https://habr.com/ru/post/669696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669696)
-- [Следующий уровень автоматизации Kubernetes. Создаем свой оператор](https://habr.com/ru/post/669806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669806)
 <!-- BLOG-POST-LIST:END -->
