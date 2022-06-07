@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [DUMP-2022: итоги, лучшие доклады и благодарности от всей души](https://habr.com/ru/post/670066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670066)
+- [Программист и энтропия](https://habr.com/ru/post/670096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670096)
+- [[Перевод] О проверке захвата в Scala 3](https://habr.com/ru/post/670102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670102)
+- [DUMP-2022: итоги, благодарности и презентации всех докладов](https://habr.com/ru/post/670066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670066)
 - [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 2](https://habr.com/ru/post/670050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670050)
 - [Книга «Веб-дизайн для недизайнеров»](https://habr.com/ru/post/669112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669112)
-- [Yandex Planner. Как планировать вычислительные мощности](https://habr.com/ru/post/564510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=564510)
-- [Чек-лист: что проверить перед переездом IT-инфраструктуры](https://habr.com/ru/post/670008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670008)
 <!-- BLOG-POST-LIST:END -->
