@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быть бизнес-аналитиком в ИТ](https://habr.com/ru/post/669428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669428)
+- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP](https://habr.com/ru/post/669996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669996)
+- [Чего ждать разработчику от WWDC 2022](https://habr.com/ru/post/669994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669994)
 - [Почему figcaption не заменяет alt](https://habr.com/ru/post/668756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668756)
-- [Визуализируем данные из xml в виде социальной сети](https://habr.com/ru/post/669980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669980)
-- [Лёха смог: уйти из Мака в 35 и стать программистом](https://habr.com/ru/post/669966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669966)
-- [О чём расскажут на JPoint: от профайлеров до контейнеров](https://habr.com/ru/post/669070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669070)
-- [Объектно-ориентированный Gradle. Настраиваем Build types в Android, используя Kotlin DSL](https://habr.com/ru/post/669878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669878)
+- [Apache Kafka для магазинов](https://habr.com/ru/post/669974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669974)
 <!-- BLOG-POST-LIST:END -->
