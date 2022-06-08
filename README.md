@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UserDefaults. Настройки пользователя](https://habr.com/ru/post/670378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670378)
+- [Как применить БЭМ методологию во Flutter проекте](https://habr.com/ru/post/670368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670368)
 - [Gatekeeper и его роль в обеспечении безопасности кластеров Kubernetes](https://habr.com/ru/post/669788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669788)
 - [Про роботов для обучения, конструкторы и Arduino, и, как выяснилось, не только….муки выбора и мой опыт](https://habr.com/ru/post/670352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670352)
 - [Создание объемно света в blender](https://habr.com/ru/post/670326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670326)
-- [Как следить за здоровьем морских свинок с помощью Machine Learning и мобильного приложения](https://habr.com/ru/post/670298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670298)
-- [Научитесь учиться не учась](https://habr.com/ru/post/670310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670310)
 <!-- BLOG-POST-LIST:END -->
