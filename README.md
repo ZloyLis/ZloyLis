@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 3](https://habr.com/ru/post/670296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670296)
+- [Летняя ИТ-школа КРОК. Прокачка скиллов и старт карьеры в ИТ](https://habr.com/ru/post/670110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670110)
 - [Кто круче rsync? Интересные алгоритмы для синхронизации данных](https://habr.com/ru/post/668520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668520)
 - [Создай себе инструмент. Часть 1: скрипт на Dart](https://habr.com/ru/post/670244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670244)
 - [WWDC 2022. Что нового в SwiftUI](https://habr.com/ru/post/670242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670242)
-- [Как без боли сделать мультиплеер на Godot, который будет работать в браузере](https://habr.com/ru/post/670238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670238)
-- [[Перевод] Введение в суррогатные модели. Часть 3: Выходим в топ](https://habr.com/ru/post/670158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670158)
 <!-- BLOG-POST-LIST:END -->
