@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кватернионы для чайников](https://habr.com/ru/post/670438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670438)
+- [Анализ тестов — как выкидывать лишнее](https://habr.com/ru/post/670428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670428)
 - [Continuous Testing в CI/CD: что это, зачем нужно и как работает](https://habr.com/ru/post/670422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670422)
 - [Как убрать пустой тег Option в Select](https://habr.com/ru/post/670390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670390)
 - [UserDefaults. Настройки пользователя](https://habr.com/ru/post/670378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670378)
-- [Как применить БЭМ методологию во Flutter проекте](https://habr.com/ru/post/670368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670368)
-- [Gatekeeper и его роль в обеспечении безопасности кластеров Kubernetes](https://habr.com/ru/post/669788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669788)
 <!-- BLOG-POST-LIST:END -->
