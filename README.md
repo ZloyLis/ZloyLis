@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто круче rsync? Интересные алгоритмы для синхронизации данных](https://habr.com/ru/post/668520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668520)
+- [Создай себе инструмент. Часть 1: скрипт на Dart](https://habr.com/ru/post/670244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670244)
 - [WWDC 2022. Что нового в SwiftUI](https://habr.com/ru/post/670242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670242)
 - [Как без боли сделать мультиплеер на Godot, который будет работать в браузере](https://habr.com/ru/post/670238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670238)
 - [[Перевод] Введение в суррогатные модели. Часть 3: Выходим в топ](https://habr.com/ru/post/670158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670158)
-- [Покоряем высоты для велонавигатора 2ГИС](https://habr.com/ru/post/670038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670038)
-- [[Перевод] Boop! Необычные эффекты по ховеру или введение в Spring](https://habr.com/ru/post/670234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670234)
 <!-- BLOG-POST-LIST:END -->
