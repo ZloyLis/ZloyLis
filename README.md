@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Gatekeeper и его роль в обеспечении безопасности кластеров Kubernetes](https://habr.com/ru/post/669788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669788)
+- [Про роботов для обучения, конструкторы и Arduino, и, как выяснилось, не только….муки выбора и мой опыт](https://habr.com/ru/post/670352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670352)
+- [Создание объемно света в blender](https://habr.com/ru/post/670326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670326)
+- [Как следить за здоровьем морских свинок с помощью Machine Learning и мобильного приложения](https://habr.com/ru/post/670298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670298)
 - [Научитесь учиться не учась](https://habr.com/ru/post/670310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670310)
-- [Tree-sitter: обзор инкрементального парсера](https://habr.com/ru/post/670140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670140)
-- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 3](https://habr.com/ru/post/670296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670296)
-- [Летняя ИТ-школа КРОК. Прокачка скиллов и старт карьеры в ИТ](https://habr.com/ru/post/670110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670110)
-- [Кто круче rsync? Интересные алгоритмы для синхронизации данных](https://habr.com/ru/post/668520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668520)
 <!-- BLOG-POST-LIST:END -->
