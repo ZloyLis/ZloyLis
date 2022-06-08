@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как убрать пустой тег Option в Select](https://habr.com/ru/post/670390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670390)
 - [UserDefaults. Настройки пользователя](https://habr.com/ru/post/670378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670378)
 - [Как применить БЭМ методологию во Flutter проекте](https://habr.com/ru/post/670368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670368)
 - [Gatekeeper и его роль в обеспечении безопасности кластеров Kubernetes](https://habr.com/ru/post/669788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669788)
 - [Про роботов для обучения, конструкторы и Arduino, и, как выяснилось, не только….муки выбора и мой опыт](https://habr.com/ru/post/670352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670352)
-- [Создание объемно света в blender](https://habr.com/ru/post/670326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670326)
 <!-- BLOG-POST-LIST:END -->
