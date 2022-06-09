@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Коварные перцентильные фильтры](https://habr.com/ru/post/670376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670376)
+- [KeyChain. Аккаунт пользователя](https://habr.com/ru/post/670490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670490)
 - [Архитектура платформы для проектирования интерактивного видеоконтента](https://habr.com/ru/post/670472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670472)
 - [Кватернионы для чайников](https://habr.com/ru/post/670438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670438)
 - [Анализ тестов — как выкидывать лишнее](https://habr.com/ru/post/670428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670428)
-- [Continuous Testing в CI/CD: что это, зачем нужно и как работает](https://habr.com/ru/post/670422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670422)
-- [Как убрать пустой тег Option в Select](https://habr.com/ru/post/670390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670390)
 <!-- BLOG-POST-LIST:END -->
