@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Gitlab за решеткой: синхронизация репозиториев за VPN средствами bash](https://habr.com/ru/post/670174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670174)
 - [Разбираемся с Qwik — новым витком эволюции фреймворков](https://habr.com/ru/post/670534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670534)
 - [Многомодульный BDSM: как связать Gradle модули и как с ними общаться после этого?](https://habr.com/ru/post/670468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670468)
 - [React: тестируем компоненты с помощью Jest и Testing Library](https://habr.com/ru/post/670480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670480)
 - [[Перевод] Вычисление касательного базиса налету](https://habr.com/ru/post/670522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670522)
-- [Звонки в приложениях Авито](https://habr.com/ru/post/670256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670256)
 <!-- BLOG-POST-LIST:END -->
