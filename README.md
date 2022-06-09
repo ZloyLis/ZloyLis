@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Реальные примеры применения Kafka в автопроме](https://habr.com/ru/post/670652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670652)
 - [[Перевод] Фреймворки для тестирования Node: Хорошие, плохие, медленные и ресурсоемкие](https://habr.com/ru/post/670632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670632)
 - [[Перевод] Сравнение объектов в Java](https://habr.com/ru/post/670630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670630)
 - [Переход на UNIGINE с Unreal Engine 4: гайд для программистов](https://habr.com/ru/post/670518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670518)
 - [Gitlab за решеткой: синхронизация репозиториев за VPN средствами bash](https://habr.com/ru/post/670174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670174)
-- [Разбираемся с Qwik — новым витком эволюции фреймворков](https://habr.com/ru/post/670534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670534)
 <!-- BLOG-POST-LIST:END -->
