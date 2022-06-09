@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вычисление касательного базиса налету](https://habr.com/ru/post/670522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670522)
 - [Звонки в приложениях Авито](https://habr.com/ru/post/670256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670256)
 - [Почему в России перестали работать Universal Links?](https://habr.com/ru/post/668726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668726)
 - [Защищаем API – что важно знать?](https://habr.com/ru/post/670500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670500)
 - [Okteto Cloud – ещё один способ организации локальной разработки в Kubernetes](https://habr.com/ru/post/667806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667806)
-- [[Перевод] Простое руководство по атомарности в C++](https://habr.com/ru/post/670456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670456)
 <!-- BLOG-POST-LIST:END -->
