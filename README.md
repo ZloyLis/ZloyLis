@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Okteto Cloud – ещё один способ организации локальной разработки в Kubernetes](https://habr.com/ru/post/667806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667806)
+- [[Перевод] Простое руководство по атомарности в C++](https://habr.com/ru/post/670456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670456)
+- [Что нового в Xcode?](https://habr.com/ru/post/670478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670478)
 - [Коварные перцентильные фильтры](https://habr.com/ru/post/670376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670376)
 - [KeyChain. Аккаунт пользователя](https://habr.com/ru/post/670490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670490)
-- [Архитектура платформы для проектирования интерактивного видеоконтента](https://habr.com/ru/post/670472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670472)
-- [Кватернионы для чайников](https://habr.com/ru/post/670438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670438)
-- [Анализ тестов — как выкидывать лишнее](https://habr.com/ru/post/670428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670428)
 <!-- BLOG-POST-LIST:END -->
