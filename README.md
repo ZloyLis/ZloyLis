@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 10 распространенных ошибок в пользовательских интерфейсах](https://habr.com/ru/post/670690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670690)
 - [Анализ аудиоданных &lpar;часть 2&rpar;](https://habr.com/ru/post/670676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670676)
 - [Автогенерация ETL-кода](https://habr.com/ru/post/668828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668828)
 - [[Перевод] Реальные примеры применения Kafka в автопроме](https://habr.com/ru/post/670652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670652)
 - [[Перевод] Фреймворки для тестирования Node: Хорошие, плохие, медленные и ресурсоемкие](https://habr.com/ru/post/670632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670632)
-- [[Перевод] Сравнение объектов в Java](https://habr.com/ru/post/670630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670630)
 <!-- BLOG-POST-LIST:END -->
