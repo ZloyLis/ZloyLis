@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[API как продукт] Взаимодействие с разработчиками и бизнес-аудиторией](https://habr.com/ru/post/670680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670680)
+- [Как автодеплой ускорил разработку нашей системы управления производственными процессами](https://habr.com/ru/post/670662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670662)
+- [Пусть программирует Серёжа](https://habr.com/ru/post/670700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670700)
 - [[Перевод] 10 распространенных ошибок в пользовательских интерфейсах](https://habr.com/ru/post/670690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670690)
 - [Анализ аудиоданных &lpar;часть 2&rpar;](https://habr.com/ru/post/670676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670676)
-- [Автогенерация ETL-кода](https://habr.com/ru/post/668828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668828)
-- [[Перевод] Реальные примеры применения Kafka в автопроме](https://habr.com/ru/post/670652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670652)
-- [[Перевод] Фреймворки для тестирования Node: Хорошие, плохие, медленные и ресурсоемкие](https://habr.com/ru/post/670632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670632)
 <!-- BLOG-POST-LIST:END -->
