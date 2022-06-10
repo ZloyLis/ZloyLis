@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Баг с псионическими сигнатурами в Java](https://habr.com/ru/post/670742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670742)
+- [Лучшие практики тестирования API](https://habr.com/ru/post/670730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670730)
 - [«Смартфон и его команда» или скрываем номер звонящего и управляем вызовом с помощью MTT API](https://habr.com/ru/post/670220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670220)
 - [[Перевод] Как писать программы с математическим совершенством](https://habr.com/ru/post/670538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670538)
 - [[API как продукт] Взаимодействие с разработчиками и бизнес-аудиторией](https://habr.com/ru/post/670680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670680)
-- [Как автодеплой ускорил разработку нашей системы управления производственными процессами](https://habr.com/ru/post/670662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670662)
-- [Пусть программирует Серёжа](https://habr.com/ru/post/670700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670700)
 <!-- BLOG-POST-LIST:END -->
