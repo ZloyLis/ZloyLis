@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание и настройка диаграмм с помощью нового Swift Charts Framework](https://habr.com/ru/post/670804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670804)
+- [Flutter for Web: гайд для начинающих](https://habr.com/ru/post/666952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666952)
+- [Swift. Struct vs Class memory and performance comparison или следует ли всегда использовать Struct](https://habr.com/ru/post/670790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670790)
 - [[Перевод] Ещё о Flutter 3](https://habr.com/ru/post/670776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670776)
 - [Использование Gatling. Тестирование AMQP](https://habr.com/ru/post/670768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670768)
-- [Вавилонское сайтотворение: как фронтендеры и дизайнеры понимают друг друга](https://habr.com/ru/post/669042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669042)
-- [Универсальный Helm-чарт v2.0](https://habr.com/ru/post/668782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668782)
-- [[Перевод] Баг с псионическими сигнатурами в Java](https://habr.com/ru/post/670742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670742)
 <!-- BLOG-POST-LIST:END -->
