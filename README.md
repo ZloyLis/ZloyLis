@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Большая подборка YouTube-блогов для разработчиков от экспертов облачного провайдера Serverspace](https://habr.com/ru/post/670734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670734)
+- [[Перевод] Ещё о Flutter 3](https://habr.com/ru/post/670776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670776)
+- [Использование Gatling. Тестирование AMQP](https://habr.com/ru/post/670768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670768)
 - [Вавилонское сайтотворение: как фронтендеры и дизайнеры понимают друг друга](https://habr.com/ru/post/669042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669042)
 - [Универсальный Helm-чарт v2.0](https://habr.com/ru/post/668782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668782)
 - [[Перевод] Баг с псионическими сигнатурами в Java](https://habr.com/ru/post/670742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670742)
-- [Лучшие практики тестирования API](https://habr.com/ru/post/670730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670730)
 <!-- BLOG-POST-LIST:END -->
