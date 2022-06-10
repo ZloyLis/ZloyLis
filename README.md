@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мокинг API на JavaScript с Pactum](https://habr.com/ru/post/670852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670852)
 - [Материалы бэкенд-митапа. MongoDB, оптимизация алгоритмов и диагностика проблем в больших проектах](https://habr.com/ru/post/670832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670832)
 - [Как разработчики проект с Flow.js на Typescript переводили](https://habr.com/ru/post/670828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670828)
 - [Как я разрабатываю игровую платформу для телеграм-пользователей](https://habr.com/ru/post/670826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670826)
 - [[Перевод] Создание и настройка диаграмм с помощью нового Swift Charts Framework](https://habr.com/ru/post/670804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670804)
-- [Flutter for Web: гайд для начинающих](https://habr.com/ru/post/666952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666952)
 <!-- BLOG-POST-LIST:END -->
