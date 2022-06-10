@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Большая подборка YouTube-блогов для разработчиков от экспертов облачного провайдера Serverspace](https://habr.com/ru/post/670734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670734)
+- [Вавилонское сайтотворение: как фронтендеры и дизайнеры понимают друг друга](https://habr.com/ru/post/669042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669042)
+- [Универсальный Helm-чарт v2.0](https://habr.com/ru/post/668782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668782)
 - [[Перевод] Баг с псионическими сигнатурами в Java](https://habr.com/ru/post/670742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670742)
 - [Лучшие практики тестирования API](https://habr.com/ru/post/670730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670730)
-- [«Смартфон и его команда» или скрываем номер звонящего и управляем вызовом с помощью MTT API](https://habr.com/ru/post/670220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670220)
-- [[Перевод] Как писать программы с математическим совершенством](https://habr.com/ru/post/670538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670538)
-- [[API как продукт] Взаимодействие с разработчиками и бизнес-аудиторией](https://habr.com/ru/post/670680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670680)
 <!-- BLOG-POST-LIST:END -->
