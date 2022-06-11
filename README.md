@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker: собираем веб сервер](https://habr.com/ru/post/670938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670938)
 - [Взлом грамматики английского. Часть 1](https://habr.com/ru/post/669178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669178)
 - [Так ли весело в edtech и кто создаёт ваши онлайн-курсы?](https://habr.com/ru/post/670918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670918)
 - [Чек-лист по проектированию регистрации](https://habr.com/ru/post/670902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670902)
 - [[Перевод] Как создать редактор кода для 40+ языков с помощью React](https://habr.com/ru/post/670380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670380)
-- [[Перевод] Мокинг API на JavaScript с Pactum](https://habr.com/ru/post/670852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670852)
 <!-- BLOG-POST-LIST:END -->
