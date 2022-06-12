@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся с устройством свёрток на примере объединения двух свёрток в одну в pytorch](https://habr.com/ru/post/671024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671024)
 - [Как мы используем Luxms BI — российское ПО для аналитических отчетов](https://habr.com/ru/post/671014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671014)
 - [Совершенный алгоритм. Основы](https://habr.com/ru/post/671006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671006)
 - [[Перевод] Паттерны и антипаттерны в Node.js](https://habr.com/ru/post/671002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671002)
 - [Лучшие Проекты Для Начинающих Python-Разработчиков](https://habr.com/ru/post/670980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670980)
-- [Пятьдесят лет на стезе программирования. Отступление. Расставание с прошлым](https://habr.com/ru/post/670978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670978)
 <!-- BLOG-POST-LIST:END -->
