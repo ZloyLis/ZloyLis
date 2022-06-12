@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вышел Angular 14](https://habr.com/ru/post/670950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670950)
 - [RxSwift + PropertyWrapper: инкапсуляция и синтаксический сахар](https://habr.com/ru/post/671036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671036)
 - [7 советов в помощь дизайнеру интерфейсов](https://habr.com/ru/post/670992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670992)
 - [Дайджест интересных материалов для мобильного разработчика #446 &lpar;6 — 12 июня&rpar;](https://habr.com/ru/post/671030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671030)
 - [Разработал генератор резюме с фишками для разработчиков](https://habr.com/ru/post/671026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671026)
-- [Разбираемся с устройством свёрток на примере объединения двух свёрток в одну в pytorch](https://habr.com/ru/post/671024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671024)
 <!-- BLOG-POST-LIST:END -->
