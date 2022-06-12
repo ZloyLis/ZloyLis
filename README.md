@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие Проекты Для Начинающих Python-Разработчиков](https://habr.com/ru/post/670980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670980)
+- [Пятьдесят лет на стезе программирования. Отступление. Расставание с прошлым](https://habr.com/ru/post/670978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670978)
 - [Используем SWC с Firebase функциями](https://habr.com/ru/post/670954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670954)
 - [Docker: собираем веб сервер](https://habr.com/ru/post/670938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670938)
 - [Взлом грамматики английского. Часть 1](https://habr.com/ru/post/669178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669178)
-- [Так ли весело в edtech и кто создаёт ваши онлайн-курсы?](https://habr.com/ru/post/670918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670918)
-- [Чек-лист по проектированию регистрации](https://habr.com/ru/post/670902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670902)
 <!-- BLOG-POST-LIST:END -->
