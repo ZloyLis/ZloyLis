@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Подробный разбор цепочки эксплойтов Playstation 4 и 5](https://habr.com/ru/post/671088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671088)
+- [PHP-Дайджест № 222/4 &lpar;26 апреля – 31 мая 2022&rpar;](https://habr.com/ru/post/671074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671074)
+- [[recovery mode] Сборка Android приложения без Studio](https://habr.com/ru/post/671086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671086)
 - [Создаем Персоны Пользователей используя когнитивные искажения и UX Core](https://habr.com/ru/post/670722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670722)
 - [Кривые и что это такое ч.2](https://habr.com/ru/post/671078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671078)
-- [НКА: игры без знания о замыслах других](https://habr.com/ru/post/671076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671076)
-- [Возрождение простых сайтов. Статика, 0kB JS, ничего лишнего](https://habr.com/ru/post/669774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669774)
-- [Почему разработчик должен владеть продуктом и как это сделает его счастливым](https://habr.com/ru/post/671058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671058)
 <!-- BLOG-POST-LIST:END -->
