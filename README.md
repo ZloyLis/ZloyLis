@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Атакуем кластер Kubernetes. Разбор Insekube c TryHackme](https://habr.com/ru/post/670172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670172)
 - [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 4](https://habr.com/ru/post/671106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671106)
 - [Как устроен системный калькулятор в iPhone](https://habr.com/ru/post/671138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671138)
 - [Как работает неточное сравнение строк](https://habr.com/ru/post/671136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671136)
 - [[Перевод] Ностальгия по Night Light &lpar;1995&rpar;](https://habr.com/ru/post/671010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671010)
-- [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 7](https://habr.com/ru/post/671098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671098)
 <!-- BLOG-POST-LIST:END -->
