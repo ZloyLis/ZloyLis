@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как устроен системный калькулятор в iPhone](https://habr.com/ru/post/671138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671138)
+- [Как работает неточное сравнение строк](https://habr.com/ru/post/671136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671136)
 - [[Перевод] Ностальгия по Night Light &lpar;1995&rpar;](https://habr.com/ru/post/671010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671010)
 - [Я учусь на тестировщика. Сравнение двух онлайн школ. Часть 7](https://habr.com/ru/post/671098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671098)
 - [[Перевод] Подробный разбор цепочки эксплойтов Playstation 4 и 5](https://habr.com/ru/post/671088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671088)
-- [PHP-Дайджест № 222/4 &lpar;26 апреля – 31 мая 2022&rpar;](https://habr.com/ru/post/671074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671074)
-- [[recovery mode] Сборка Android приложения без Studio](https://habr.com/ru/post/671086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671086)
 <!-- BLOG-POST-LIST:END -->
