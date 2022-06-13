@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем Персоны Пользователей используя когнитивные искажения и UX Core](https://habr.com/ru/post/670722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670722)
 - [Кривые и что это такое ч.2](https://habr.com/ru/post/671078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671078)
 - [НКА: игры без знания о замыслах других](https://habr.com/ru/post/671076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671076)
 - [Возрождение простых сайтов. Статика, 0kB JS, ничего лишнего](https://habr.com/ru/post/669774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669774)
 - [Почему разработчик должен владеть продуктом и как это сделает его счастливым](https://habr.com/ru/post/671058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671058)
-- [[Перевод] Во что вам обойдется конкурентная обработка. Иерархия проблем](https://habr.com/ru/post/671042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671042)
 <!-- BLOG-POST-LIST:END -->
