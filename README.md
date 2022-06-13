@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выучить английский самостоятельно вполне реально, если вы айтишник. И вот почему](https://habr.com/ru/post/671174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671174)
 - [WebAssembly объединит их всех](https://habr.com/ru/post/671048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671048)
 - [[Перевод] Создание клона IMDB с Java бэкендом на SparkJava и Neo4j](https://habr.com/ru/post/662119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662119)
 - [Дизайн система: Иконки](https://habr.com/ru/post/671168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671168)
 - [Атакуем кластер Kubernetes. Разбор Insekube c TryHackme](https://habr.com/ru/post/670172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670172)
-- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 4](https://habr.com/ru/post/671106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671106)
 <!-- BLOG-POST-LIST:END -->
