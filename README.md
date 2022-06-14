@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы научились А/B-тестировать алгоритмы с помощью switchback-тестов](https://habr.com/ru/post/670762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670762)
 - [Дайджест недели от Apple Pro Weekly News &lpar;06.06 – 12.06.22&rpar;](https://habr.com/ru/post/671172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671172)
 - [Из старшего научного сотрудника во фронтенд-разработчика через фриланс](https://habr.com/ru/post/670570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670570)
 - [[Перевод] Обучение с подкреплением: математический аппарат](https://habr.com/ru/post/670562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670562)
 - [Считаем, сколько заплатить в магазине и проверяем поле морского боя: разбор задач для разработчиков C#, iOS и Android](https://habr.com/ru/post/667728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667728)
-- [Собеседование Golang разработчика &lpar;теоретические вопросы&rpar;, Часть II. Что там с конкурентностью?](https://habr.com/ru/post/670974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670974)
 <!-- BLOG-POST-LIST:END -->
