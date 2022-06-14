@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Kubernetes как часть data platform»](https://habr.com/ru/post/671334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671334)
 - [Как сделать Android-приложение тестируемым? Часть 2 — MVI](https://habr.com/ru/post/671050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671050)
 - [Параллельные тесты JUnitPlatform. Как победить в гонке?](https://habr.com/ru/post/671122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671122)
 - [Нормальное распределение](https://habr.com/ru/post/671322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671322)
 - [Новый механизм мониторинга компиляции в PVS-Studio для Windows](https://habr.com/ru/post/671310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671310)
-- [Фронтенд-новости №10. Опубликован HTTP/3, History API мёртв, WebContainers доступны в Firefox](https://habr.com/ru/post/671306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671306)
 <!-- BLOG-POST-LIST:END -->
