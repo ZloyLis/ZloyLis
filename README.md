@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы впервые делали инженерный «хакатон» и что из этого вышло](https://habr.com/ru/post/670854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670854)
+- [Считаем, сколько заплатить в магазине и проверяем поле морского боя: разбор задач для разработчиков C#, iOS и Android](https://habr.com/ru/post/667728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667728)
+- [Собеседование Golang разработчика &lpar;теоретические вопросы&rpar;, Часть II. Что там с конкурентностью?](https://habr.com/ru/post/670974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670974)
+- [Security Week 2224: аппаратная уязвимость в Apple M1](https://habr.com/ru/post/671124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671124)
 - [4 популярных сканера уязвимостей для безопасности Kubernetes](https://habr.com/ru/post/670708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670708)
 - [Некомпетентные компетенции](https://habr.com/ru/post/670374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670374)
-- [7 типов корпоративных программистов](https://habr.com/ru/post/671040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671040)
-- [Threading. Зачем?](https://habr.com/ru/post/671198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671198)
 <!-- BLOG-POST-LIST:END -->
