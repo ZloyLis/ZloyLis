@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый механизм мониторинга компиляции в PVS-Studio для Windows](https://habr.com/ru/post/671310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671310)
+- [Фронтенд-новости №10. Опубликован HTTP/3, History API мёртв, WebContainers доступны в Firefox](https://habr.com/ru/post/671306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671306)
+- [[recovery mode] [Async/await] Как работает Swift Coroutine Model](https://habr.com/ru/post/671304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671304)
+- [Математика для 3D-приложений. Урок 1](https://habr.com/ru/post/671294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671294)
 - [Как мы научились А/B-тестировать алгоритмы с помощью switchback-тестов](https://habr.com/ru/post/670762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670762)
-- [Дайджест недели от Apple Pro Weekly News &lpar;06.06 – 12.06.22&rpar;](https://habr.com/ru/post/671172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671172)
-- [Из старшего научного сотрудника во фронтенд-разработчика через фриланс](https://habr.com/ru/post/670570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670570)
-- [[Перевод] Обучение с подкреплением: математический аппарат](https://habr.com/ru/post/670562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670562)
-- [Считаем, сколько заплатить в магазине и проверяем поле морского боя: разбор задач для разработчиков C#, iOS и Android](https://habr.com/ru/post/667728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667728)
 <!-- BLOG-POST-LIST:END -->
