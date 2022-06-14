@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы впервые делали инженерный «хакатон» и что из этого вышло](https://habr.com/ru/post/670854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670854)
+- [4 популярных сканера уязвимостей для безопасности Kubernetes](https://habr.com/ru/post/670708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670708)
 - [Некомпетентные компетенции](https://habr.com/ru/post/670374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670374)
 - [7 типов корпоративных программистов](https://habr.com/ru/post/671040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671040)
-- [THREADING. ЗАЧЕМ?](https://habr.com/ru/post/671198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671198)
-- [Как упростить пакетную обработку данных со Spring Batch](https://habr.com/ru/post/671196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671196)
-- [6 советов по удобным интерфейсам за июнь](https://habr.com/ru/post/671192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671192)
+- [Threading. Зачем?](https://habr.com/ru/post/671198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671198)
 <!-- BLOG-POST-LIST:END -->
