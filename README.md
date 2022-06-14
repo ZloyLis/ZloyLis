@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;06.06 – 12.06.22&rpar;](https://habr.com/ru/post/671172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671172)
+- [Из старшего научного сотрудника во фронтенд-разработчика через фриланс](https://habr.com/ru/post/670570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670570)
+- [[Перевод] Обучение с подкреплением: математический аппарат](https://habr.com/ru/post/670562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670562)
 - [Считаем, сколько заплатить в магазине и проверяем поле морского боя: разбор задач для разработчиков C#, iOS и Android](https://habr.com/ru/post/667728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667728)
 - [Собеседование Golang разработчика &lpar;теоретические вопросы&rpar;, Часть II. Что там с конкурентностью?](https://habr.com/ru/post/670974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670974)
-- [Security Week 2224: аппаратная уязвимость в Apple M1](https://habr.com/ru/post/671124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671124)
-- [4 популярных сканера уязвимостей для безопасности Kubernetes](https://habr.com/ru/post/670708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670708)
-- [Некомпетентные компетенции](https://habr.com/ru/post/670374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670374)
 <!-- BLOG-POST-LIST:END -->
