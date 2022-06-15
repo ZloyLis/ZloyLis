@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Диаграмма эффектов: пример построения](https://habr.com/ru/post/671226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671226)
 - [Право на ошибку. Деньги и методологии разработки в ИТ](https://habr.com/ru/post/671410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671410)
 - [[Перевод] Как аспирант доказал давнюю гипотезу о простых числах](https://habr.com/ru/post/671382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671382)
 - [«Kubernetes как часть data platform»](https://habr.com/ru/post/671334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671334)
 - [Как сделать Android-приложение тестируемым? Часть 2 — MVI](https://habr.com/ru/post/671050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671050)
-- [Параллельные тесты JUnitPlatform. Как победить в гонке?](https://habr.com/ru/post/671122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671122)
 <!-- BLOG-POST-LIST:END -->
