@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы спускались с облаков на землю: критерии выбора среды для тестирования](https://habr.com/ru/post/671456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671456)
+- [SObjectizer: что это, для чего это и почему это выглядит именно так? Взгляд из 2022-го](https://habr.com/ru/post/671080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671080)
 - [[Перевод] Переобучению быть или не быть: когда пора обновлять модели машинного обучения](https://habr.com/ru/post/671224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671224)
 - [Рефакторинг приложения с десятилетним легаси за три месяца. Опыт Яндекс Музыки](https://habr.com/ru/post/671236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671236)
 - [Инструменты CI/CD: GitLab CI](https://habr.com/ru/post/671426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671426)
-- [Диаграмма эффектов: пример построения](https://habr.com/ru/post/671226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671226)
-- [Право на ошибку. Деньги и методологии разработки в ИТ](https://habr.com/ru/post/671410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671410)
 <!-- BLOG-POST-LIST:END -->
