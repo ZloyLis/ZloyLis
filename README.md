@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Переобучению быть или не быть: когда пора обновлять модели машинного обучения](https://habr.com/ru/post/671224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671224)
+- [Рефакторинг приложения с десятилетним легаси за три месяца. Опыт Яндекс Музыки](https://habr.com/ru/post/671236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671236)
+- [Инструменты CI/CD: GitLab CI](https://habr.com/ru/post/671426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671426)
 - [Диаграмма эффектов: пример построения](https://habr.com/ru/post/671226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671226)
 - [Право на ошибку. Деньги и методологии разработки в ИТ](https://habr.com/ru/post/671410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671410)
-- [[Перевод] Как аспирант доказал давнюю гипотезу о простых числах](https://habr.com/ru/post/671382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671382)
-- [«Kubernetes как часть data platform»](https://habr.com/ru/post/671334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671334)
-- [Как сделать Android-приложение тестируемым? Часть 2 — MVI](https://habr.com/ru/post/671050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671050)
 <!-- BLOG-POST-LIST:END -->
