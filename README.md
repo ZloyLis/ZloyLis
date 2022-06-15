@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Линтинг в Kotlin: полное руководство по настройке и эксплуатации](https://habr.com/ru/post/671594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671594)
 - [Ошибки, которые совершают начинающие JS-разработчики](https://habr.com/ru/post/671570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671570)
 - [Go ebiten: разбираемся с рендерингом и позиционированием текста](https://habr.com/ru/post/671556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671556)
 - [Функциональная спецификация интерфейса: что это, зачем нужна, как её писать](https://habr.com/ru/post/671540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671540)
 - [Монетизация игр: какие компании продолжают выплачивать доходы разработчикам в РФ](https://habr.com/ru/post/671296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671296)
-- [Найти слабое звено: делаем команду эффективнее без перегруза](https://habr.com/ru/post/671500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671500)
 <!-- BLOG-POST-LIST:END -->
