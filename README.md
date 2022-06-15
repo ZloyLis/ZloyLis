@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Go ebiten: разбираемся с рендерингом и позиционированием текста](https://habr.com/ru/post/671556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671556)
 - [Функциональная спецификация интерфейса: что это, зачем нужна, как её писать](https://habr.com/ru/post/671540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671540)
 - [Монетизация игр: какие компании продолжают выплачивать доходы разработчикам в РФ](https://habr.com/ru/post/671296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671296)
 - [Найти слабое звено: делаем команду эффективнее без перегруза](https://habr.com/ru/post/671500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671500)
 - [Приглашаем спикеров на PyCon Russia-2022](https://habr.com/ru/post/671482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671482)
-- [Как мы спускались с облаков на землю: критерии выбора среды для тестирования](https://habr.com/ru/post/671456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671456)
 <!-- BLOG-POST-LIST:END -->
