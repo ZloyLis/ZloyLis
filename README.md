@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Монетизация игр: какие компании продолжают выплачивать доходы разработчикам в РФ](https://habr.com/ru/post/671296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671296)
 - [Найти слабое звено: делаем команду эффективнее без перегруза](https://habr.com/ru/post/671500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671500)
 - [Приглашаем спикеров на PyCon Russia-2022](https://habr.com/ru/post/671482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671482)
 - [Как мы спускались с облаков на землю: критерии выбора среды для тестирования](https://habr.com/ru/post/671456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671456)
 - [SObjectizer: что это, для чего это и почему это выглядит именно так? Взгляд из 2022-го](https://habr.com/ru/post/671080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671080)
-- [[Перевод] Переобучению быть или не быть: когда пора обновлять модели машинного обучения](https://habr.com/ru/post/671224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671224)
 <!-- BLOG-POST-LIST:END -->
