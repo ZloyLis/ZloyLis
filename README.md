@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Машинное обучение для поиска аномалий](https://habr.com/ru/post/671670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671670)
+- [1С dev jobs: Java, JS, C++, Python, C#](https://habr.com/ru/post/671454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671454)
 - [Многопоточный Python на примерах: избавляемся от дедлоков](https://habr.com/ru/post/671620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671620)
 - [Тестирование производительности, энергопотребления и безопасности приложений](https://habr.com/ru/post/669942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669942)
 - [[Перевод] SRE или DevOps — чувствуем разницу](https://habr.com/ru/post/671274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671274)
-- [Как Яндекс Карты с помощью отзывов улучшают поиск организаций](https://habr.com/ru/post/671504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671504)
-- [[Перевод] Модульное тестирование унаследованного кода](https://habr.com/ru/post/671612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671612)
 <!-- BLOG-POST-LIST:END -->
