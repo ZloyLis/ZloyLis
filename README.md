@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Введение в автоэнкодеры](https://habr.com/ru/post/671864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671864)
 - [Как за месяц выучить 2000 английских слов](https://habr.com/ru/post/671844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671844)
 - [Начинающий программист vs Избирком СПб](https://habr.com/ru/post/671832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671832)
 - [Асинхронный python без головной боли &lpar;часть 2&rpar;](https://habr.com/ru/post/671798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671798)
 - [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/post/662922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662922)
-- [Баллада о долгоживущем софте](https://habr.com/ru/post/671788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671788)
 <!-- BLOG-POST-LIST:END -->
