@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выключаем камеру: теряется ли вовлеченность во время рабочих созвонов, когда вместо человека черный квадрат](https://habr.com/ru/post/671690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671690)
+- [[Перевод] Обзор имплементации паттернов ООП в JavaScript](https://habr.com/ru/post/671688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671688)
+- [[Перевод] Краткое руководство по работе с интерфейсом Map в Kotlin](https://habr.com/ru/post/671678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671678)
 - [Машинное обучение для поиска аномалий](https://habr.com/ru/post/671670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671670)
-- [1С dev jobs: Java, JS, C++, Python, C#](https://habr.com/ru/post/671454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671454)
 - [Многопоточный Python на примерах: избавляемся от дедлоков](https://habr.com/ru/post/671620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671620)
-- [Тестирование производительности, энергопотребления и безопасности приложений](https://habr.com/ru/post/669942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669942)
-- [[Перевод] SRE или DevOps — чувствуем разницу](https://habr.com/ru/post/671274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671274)
 <!-- BLOG-POST-LIST:END -->
