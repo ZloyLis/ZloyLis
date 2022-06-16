@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что быстро проверить у контрагента, чтобы не нарваться на мошенника](https://habr.com/ru/post/671120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671120)
+- [Заметки об EdTech глазами студента, или Как оценить свой прогресс при изучении программирования?](https://habr.com/ru/post/671716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671716)
+- [[Перевод] Создавайте инструменты для 99% разработчиков](https://habr.com/ru/post/671714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671714)
+- [Способы бэкапирования Persistent Volumes в Kubernetes кластере с помощью Velero](https://habr.com/ru/post/671706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671706)
 - [Выключаем камеру: теряется ли вовлеченность во время рабочих созвонов, когда вместо человека черный квадрат](https://habr.com/ru/post/671690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671690)
-- [[Перевод] Обзор имплементации паттернов ООП в JavaScript](https://habr.com/ru/post/671688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671688)
-- [[Перевод] Краткое руководство по работе с интерфейсом Map в Kotlin](https://habr.com/ru/post/671678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671678)
-- [Машинное обучение для поиска аномалий](https://habr.com/ru/post/671670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671670)
-- [Многопоточный Python на примерах: избавляемся от дедлоков](https://habr.com/ru/post/671620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671620)
 <!-- BLOG-POST-LIST:END -->
