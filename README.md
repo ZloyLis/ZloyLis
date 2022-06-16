@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/post/662922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662922)
+- [Баллада о долгоживущем софте](https://habr.com/ru/post/671788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671788)
 - [Проверяем эмулятор GPCS4, или сможем ли когда-нибудь поиграть в «Bloodborne» на PC](https://habr.com/ru/post/671754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671754)
 - [Алгоритм преобразования НКА в эквивалентный ДКА](https://habr.com/ru/post/671742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671742)
 - [Capacity allocation — совмещаем разработку, поддержку и выплату техдолга без смс и регистраций](https://habr.com/ru/post/671708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671708)
-- [Что быстро проверить у контрагента, чтобы не нарваться на мошенника](https://habr.com/ru/post/671120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671120)
-- [Заметки об EdTech глазами студента, или Как оценить свой прогресс при изучении программирования?](https://habr.com/ru/post/671716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671716)
 <!-- BLOG-POST-LIST:END -->
