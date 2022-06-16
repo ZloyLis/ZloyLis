@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [MVI в iOS-приложении](https://habr.com/ru/post/671560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671560)
-- [OpenID Connect &lpar;OIDC&rpar;: Как получить токен?](https://habr.com/ru/post/670628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670628)
-- [Cкоринг криптобирж: из чего складываются позиции в рейтингах CoinGecko и CoinMarketCap](https://habr.com/ru/post/671364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671364)
-- [О том, как в питоне без протокола и задеплоить приложение не могут. Смешиваем ASGI с WSGI — вредные советы](https://habr.com/ru/post/671604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671604)
-- [[Перевод] Линтинг в Kotlin: полное руководство по настройке и эксплуатации](https://habr.com/ru/post/671594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671594)
+- [Многопоточный Python на примерах: избавляемся от дедлоков](https://habr.com/ru/post/671620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671620)
+- [Тестирование производительности, энергопотребления и безопасности приложений](https://habr.com/ru/post/669942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669942)
+- [[Перевод] SRE или DevOps — чувствуем разницу](https://habr.com/ru/post/671274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671274)
+- [Как Яндекс Карты с помощью отзывов улучшают поиск организаций](https://habr.com/ru/post/671504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671504)
+- [[Перевод] Модульное тестирование унаследованного кода](https://habr.com/ru/post/671612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671612)
 <!-- BLOG-POST-LIST:END -->
