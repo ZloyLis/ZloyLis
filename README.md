@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Асинхронный python без головной боли &lpar;часть 2&rpar;](https://habr.com/ru/post/671798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671798)
 - [На что обращать внимание на алгоритмических секциях собеседований](https://habr.com/ru/post/662922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662922)
 - [Баллада о долгоживущем софте](https://habr.com/ru/post/671788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671788)
 - [Проверяем эмулятор GPCS4, или сможем ли когда-нибудь поиграть в «Bloodborne» на PC](https://habr.com/ru/post/671754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671754)
 - [Алгоритм преобразования НКА в эквивалентный ДКА](https://habr.com/ru/post/671742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671742)
-- [Capacity allocation — совмещаем разработку, поддержку и выплату техдолга без смс и регистраций](https://habr.com/ru/post/671708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671708)
 <!-- BLOG-POST-LIST:END -->
