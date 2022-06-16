@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм преобразования НКА в эквивалентный ДКА](https://habr.com/ru/post/671742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671742)
+- [Capacity allocation — совмещаем разработку, поддержку и выплату техдолга без смс и регистраций](https://habr.com/ru/post/671708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671708)
 - [Что быстро проверить у контрагента, чтобы не нарваться на мошенника](https://habr.com/ru/post/671120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671120)
 - [Заметки об EdTech глазами студента, или Как оценить свой прогресс при изучении программирования?](https://habr.com/ru/post/671716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671716)
 - [[Перевод] Создавайте инструменты для 99% разработчиков](https://habr.com/ru/post/671714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671714)
-- [Способы бэкапирования Persistent Volumes в Kubernetes кластере с помощью Velero](https://habr.com/ru/post/671706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671706)
-- [Выключаем камеру: теряется ли вовлеченность во время рабочих созвонов, когда вместо человека черный квадрат](https://habr.com/ru/post/671690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671690)
 <!-- BLOG-POST-LIST:END -->
