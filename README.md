@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование WebAssetsManager Joomla 4 и добавление собственных пресетов с помощью плагина](https://habr.com/ru/post/672020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672020)
+- [Сателлит «RMarkdown» — что на обратной стороне?](https://habr.com/ru/post/672016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672016)
+- [Как писать код, чтобы тебя не уволили?](https://habr.com/ru/post/672012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672012)
 - [Демо Symfony конвертер валют](https://habr.com/ru/post/671956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671956)
 - [Сам себе PKI: Практика на примере OpenSSL и CA Smallstep. &lpar;Статья 2&rpar;](https://habr.com/ru/post/671730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671730)
-- [Сам себе PKI: Теория на примере Let’s Encrypt. &lpar;Статья 1&rpar;](https://habr.com/ru/post/671728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671728)
-- [Интерактивный учебник для подготовки к алгоритмической секции собеседования](https://habr.com/ru/post/671466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671466)
-- [Нейронная сеть для ведения боевых действий. Какая война может быть с технологически развитой страной?](https://habr.com/ru/post/671948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671948)
 <!-- BLOG-POST-LIST:END -->
