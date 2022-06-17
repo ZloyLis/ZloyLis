@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Выход из ада зависимостей: взгляд iOS-разработчика](https://habr.com/ru/post/671862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671862)
-- [[recovery mode] Модуль vs Компонент](https://habr.com/ru/post/671916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671916)
-- [[Перевод] Инспекция кода: заводим врагов](https://habr.com/ru/post/671906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671906)
-- [[Перевод] Создание современной платформы для работы с данными с помощью Open-Source-решений](https://habr.com/ru/post/671642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671642)
-- [JavaScript: заметка о сканере предварительной загрузки и пропуске невидимого контента](https://habr.com/ru/post/671762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671762)
+- [Почему идентификация лиц невозможна — так, как этого хочет заказчик?](https://habr.com/ru/post/671940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671940)
+- [Запускаем DOS игру в браузере](https://habr.com/ru/post/671848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671848)
+- [Бесплатные инструменты на основе OpenAI Codex](https://habr.com/ru/post/671878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671878)
+- [Как мы научили AI писать тексты для бизнеса не хуже, чем копирайтеры](https://habr.com/ru/post/671792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671792)
+- [Одна слабая транзакция в ECDSA в блокчейне Биткоина и с помощью Lattice Attack мы получили Private Key к монетам BTC](https://habr.com/ru/post/671932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671932)
 <!-- BLOG-POST-LIST:END -->
