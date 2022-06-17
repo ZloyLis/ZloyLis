@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Демо Symfony конвертер валют](https://habr.com/ru/post/671956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671956)
+- [Сам себе PKI: Практика на примере OpenSSL и CA Smallstep. &lpar;Статья 2&rpar;](https://habr.com/ru/post/671730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671730)
+- [Сам себе PKI: Теория на примере Let’s Encrypt. &lpar;Статья 1&rpar;](https://habr.com/ru/post/671728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671728)
 - [Интерактивный учебник для подготовки к алгоритмической секции собеседования](https://habr.com/ru/post/671466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671466)
 - [Нейронная сеть для ведения боевых действий. Какая война может быть с технологически развитой страной?](https://habr.com/ru/post/671948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671948)
-- [Почему идентификация лиц невозможна — так, как этого хочет заказчик?](https://habr.com/ru/post/671940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671940)
-- [Запускаем DOS игру в браузере](https://habr.com/ru/post/671848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671848)
-- [Бесплатные инструменты на основе OpenAI Codex](https://habr.com/ru/post/671878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671878)
 <!-- BLOG-POST-LIST:END -->
