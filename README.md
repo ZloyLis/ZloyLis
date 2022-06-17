@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерактивный учебник для подготовки к алгоритмической секции собеседования](https://habr.com/ru/post/671466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671466)
+- [Нейронная сеть для ведения боевых действий. Какая война может быть с технологически развитой страной?](https://habr.com/ru/post/671948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671948)
 - [Почему идентификация лиц невозможна — так, как этого хочет заказчик?](https://habr.com/ru/post/671940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671940)
 - [Запускаем DOS игру в браузере](https://habr.com/ru/post/671848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671848)
 - [Бесплатные инструменты на основе OpenAI Codex](https://habr.com/ru/post/671878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671878)
-- [Как мы научили AI писать тексты для бизнеса не хуже, чем копирайтеры](https://habr.com/ru/post/671792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671792)
-- [Одна слабая транзакция в ECDSA в блокчейне Биткоина и с помощью Lattice Attack мы получили Private Key к монетам BTC](https://habr.com/ru/post/671932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671932)
 <!-- BLOG-POST-LIST:END -->
