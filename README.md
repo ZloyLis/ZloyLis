@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему именно этот язык?](https://habr.com/ru/post/672028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672028)
 - [Использование WebAssetsManager Joomla 4 и добавление собственных пресетов с помощью плагина](https://habr.com/ru/post/672020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672020)
 - [Сателлит «RMarkdown» — что на обратной стороне?](https://habr.com/ru/post/672016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672016)
 - [Как писать код, чтобы тебя не уволили?](https://habr.com/ru/post/672012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672012)
 - [Демо Symfony конвертер валют](https://habr.com/ru/post/671956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671956)
-- [Сам себе PKI: Практика на примере OpenSSL и CA Smallstep. &lpar;Статья 2&rpar;](https://habr.com/ru/post/671730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671730)
 <!-- BLOG-POST-LIST:END -->
