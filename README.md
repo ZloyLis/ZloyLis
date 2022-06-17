@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выход из ада зависимостей: взгляд iOS-разработчика](https://habr.com/ru/post/671862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671862)
 - [[recovery mode] Модуль vs Компонент](https://habr.com/ru/post/671916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671916)
 - [[Перевод] Инспекция кода: заводим врагов](https://habr.com/ru/post/671906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671906)
 - [[Перевод] Создание современной платформы для работы с данными с помощью Open-Source-решений](https://habr.com/ru/post/671642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671642)
 - [JavaScript: заметка о сканере предварительной загрузки и пропуске невидимого контента](https://habr.com/ru/post/671762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671762)
-- [[API как продукт] Линейка сервисов API](https://habr.com/ru/post/671868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671868)
 <!-- BLOG-POST-LIST:END -->
