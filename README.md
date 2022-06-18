@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конференция Heisenbug 2022 Spring: было—будет](https://habr.com/ru/post/672002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672002)
 - [Делаем отзывчивый и максимально возможный размер шрифта динамического текста относительно контейнера](https://habr.com/ru/post/672148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672148)
 - [Куда пойти, когда только выучил Python: советы начинающему специалисту](https://habr.com/ru/post/672066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672066)
 - [Использование RTK Query вместе с Redux Toolkit [На примере Next.js + TypeScript]](https://habr.com/ru/post/672144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672144)
 - [ChainOps или DevOps](https://habr.com/ru/post/672108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672108)
-- [Простейшая модель броуновского движения и фракталы](https://habr.com/ru/post/672118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672118)
 <!-- BLOG-POST-LIST:END -->
