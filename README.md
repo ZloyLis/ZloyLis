@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деревья и пожары: растим деревья на данных и тушим пожар риск-мониторинга](https://habr.com/ru/post/672184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672184)
 - [«Го, я создал». Учим Java и Kotlin в команде](https://habr.com/ru/post/672188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672188)
 - [Проанализировать потоки трафика — поможет PiRogue](https://habr.com/ru/post/671866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671866)
 - [Советы для UI/UX Дизайнера. 3 часть](https://habr.com/ru/post/670868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670868)
 - [Вопросы на собеседовании к вакансии Middle Unity-разработчик + полезная информация](https://habr.com/ru/post/672168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672168)
-- [Конференция Heisenbug 2022 Spring: было—будет](https://habr.com/ru/post/672002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672002)
 <!-- BLOG-POST-LIST:END -->
