@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChainOps или DevOps](https://habr.com/ru/post/672108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672108)
 - [Простейшая модель броуновского движения и фракталы](https://habr.com/ru/post/672118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672118)
 - [Создание сайтов в кризис с помощью no-code решений](https://habr.com/ru/post/672110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672110)
 - [Анализ аудиоданных &lpar;часть 3&rpar;](https://habr.com/ru/post/672094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672094)
 - [Почему именно этот язык?](https://habr.com/ru/post/672028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672028)
-- [Использование WebAssetsManager Joomla 4 и добавление собственных пресетов с помощью плагина](https://habr.com/ru/post/672020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672020)
 <!-- BLOG-POST-LIST:END -->
