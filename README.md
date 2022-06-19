@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест интересных материалов для мобильного разработчика #447 &lpar;13 — 19 июня&rpar;](https://habr.com/ru/post/672240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672240)
 - [Математическое решение задачи о матрице «змейкой»](https://habr.com/ru/post/672198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672198)
 - [Деревья и пожары: растим деревья на данных и тушим пожар риск-мониторинга](https://habr.com/ru/post/672184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672184)
 - [«Го, я создал». Учим Java и Kotlin в команде](https://habr.com/ru/post/672188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672188)
 - [Проанализировать потоки трафика — поможет PiRogue](https://habr.com/ru/post/671866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671866)
-- [Советы для UI/UX Дизайнера. 3 часть](https://habr.com/ru/post/670868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670868)
 <!-- BLOG-POST-LIST:END -->
