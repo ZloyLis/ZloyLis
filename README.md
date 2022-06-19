@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как c помощью Аналитики набрать миллионы подписчиков на Youtube](https://habr.com/ru/post/672260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672260)
+- [Как сделать интересно: ещё раз о проблемах вузовского образования](https://habr.com/ru/post/672254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672254)
+- [[Перевод] Создание музыкального инструмента с помощью Web Audio API](https://habr.com/ru/post/672256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672256)
 - [Дайджест интересных материалов для мобильного разработчика #447 &lpar;13 — 19 июня&rpar;](https://habr.com/ru/post/672240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672240)
 - [Математическое решение задачи о матрице «змейкой»](https://habr.com/ru/post/672198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672198)
-- [Деревья и пожары: растим деревья на данных и тушим пожар риск-мониторинга](https://habr.com/ru/post/672184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672184)
-- [«Го, я создал». Учим Java и Kotlin в команде](https://habr.com/ru/post/672188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672188)
-- [Проанализировать потоки трафика — поможет PiRogue](https://habr.com/ru/post/671866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671866)
 <!-- BLOG-POST-LIST:END -->
