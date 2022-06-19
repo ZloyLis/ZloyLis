@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Holy C++](https://habr.com/ru/post/672282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672282)
+- [[recovery mode] Как использовать gRPC-клиент в проекте на Kotlin Multiplatform Mobile](https://habr.com/ru/post/672278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672278)
+- [Ретро про участие в Tinkoff Invest Robot Contest](https://habr.com/ru/post/672274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672274)
+- [Нормализация адресов, ГАР ФИАС и Адрессарий](https://habr.com/ru/post/672186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672186)
 - [Можно Ли Делать Игры На Python?](https://habr.com/ru/post/672270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672270)
-- [Как я Markdown парсер выбирал](https://habr.com/ru/post/672266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672266)
-- [Как c помощью Аналитики набрать миллионы подписчиков на Youtube](https://habr.com/ru/post/672260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672260)
-- [Как сделать интересно: ещё раз о проблемах вузовского образования](https://habr.com/ru/post/672254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672254)
-- [[Перевод] Создание музыкального инструмента с помощью Web Audio API](https://habr.com/ru/post/672256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672256)
 <!-- BLOG-POST-LIST:END -->
