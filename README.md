@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно Ли Делать Игры На Python?](https://habr.com/ru/post/672270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672270)
 - [Как я Markdown парсер выбирал](https://habr.com/ru/post/672266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672266)
 - [Как c помощью Аналитики набрать миллионы подписчиков на Youtube](https://habr.com/ru/post/672260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672260)
 - [Как сделать интересно: ещё раз о проблемах вузовского образования](https://habr.com/ru/post/672254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672254)
 - [[Перевод] Создание музыкального инструмента с помощью Web Audio API](https://habr.com/ru/post/672256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672256)
-- [Дайджест интересных материалов для мобильного разработчика #447 &lpar;13 — 19 июня&rpar;](https://habr.com/ru/post/672240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672240)
 <!-- BLOG-POST-LIST:END -->
