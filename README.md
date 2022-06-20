@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На двух стульях: ASP.NET Identity и авторизация по Windows в ASP.NET MVC](https://habr.com/ru/post/672382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672382)
 - [Беспилотный робот не в ROS](https://habr.com/ru/post/672368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672368)
 - [Дерево комиксов на D3.js из API Marvel](https://habr.com/ru/post/672362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672362)
 - [Оптимизация загрузки js бандла использующего icon pack’и](https://habr.com/ru/post/672200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672200)
 - [Особенности эксплуатации морально устаревшего парка станков и оборудования в современной России](https://habr.com/ru/post/672348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672348)
-- [Семь раз отмерь, а SOLID все равно не про ООП. Монолог об архитектуре](https://habr.com/ru/post/672288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672288)
 <!-- BLOG-POST-LIST:END -->
