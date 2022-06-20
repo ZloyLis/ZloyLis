@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Змейка здорового человека](https://habr.com/ru/post/672296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672296)
 - [Holy C++](https://habr.com/ru/post/672282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672282)
 - [[recovery mode] Как использовать gRPC-клиент в проекте на Kotlin Multiplatform Mobile](https://habr.com/ru/post/672278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672278)
 - [Ретро про участие в Tinkoff Invest Robot Contest](https://habr.com/ru/post/672274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672274)
 - [Нормализация адресов, ГАР ФИАС и Адрессарий](https://habr.com/ru/post/672186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672186)
-- [Можно Ли Делать Игры На Python?](https://habr.com/ru/post/672270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672270)
 <!-- BLOG-POST-LIST:END -->
