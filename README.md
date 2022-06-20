@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация загрузки js бандла использующего icon pack’и](https://habr.com/ru/post/672200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672200)
+- [Особенности эксплуатации морально устаревшего парка станков и оборудования в современной России](https://habr.com/ru/post/672348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672348)
+- [Семь раз отмерь, а SOLID все равно не про ООП. Монолог об архитектуре](https://habr.com/ru/post/672288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672288)
+- [Распознавание картин без распознавания](https://habr.com/ru/post/672336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672336)
 - [Netflix. Архитектура системы персонализации и рекомендаций](https://habr.com/ru/post/672324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672324)
-- [[recovery mode] Змейка здорового человека](https://habr.com/ru/post/672296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672296)
-- [Holy C++](https://habr.com/ru/post/672282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672282)
-- [[recovery mode] Как использовать gRPC-клиент в проекте на Kotlin Multiplatform Mobile](https://habr.com/ru/post/672278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672278)
-- [Ретро про участие в Tinkoff Invest Robot Contest](https://habr.com/ru/post/672274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672274)
 <!-- BLOG-POST-LIST:END -->
