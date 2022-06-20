@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Планирование производственных операций](https://habr.com/ru/post/672466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672466)
+- [Вебинар «Битва брокеров сообщений: Kafka, RabbitMQ, SQS»: 23 июня в 19.00](https://habr.com/ru/post/672424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672424)
+- [Слак бот на минималках ч2](https://habr.com/ru/post/672454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672454)
+- [Робопрактика бизнес-аналитиков 2022: как это было](https://habr.com/ru/post/672448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672448)
 - [Фронтенд-новости №11. JQuery живее всех живых, замена CAPTCHA, вариативные шрифты в Figma](https://habr.com/ru/post/672440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672440)
-- [Топ-5 провальных решений при разработке на Tarantool](https://habr.com/ru/post/672386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672386)
-- [MIT, Гарвард и Лига плюща: моя небольшая история](https://habr.com/ru/post/672422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672422)
-- [[Перевод] Как защитить ваш пайплайн CI/CD](https://habr.com/ru/post/672408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672408)
-- [От LiveData к Flow…](https://habr.com/ru/post/672400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672400)
 <!-- BLOG-POST-LIST:END -->
