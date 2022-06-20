@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;13.06 – 19.06.22&rpar;](https://habr.com/ru/post/672414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672414)
+- [Подробнее про пирамиду тестирования](https://habr.com/ru/post/672484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672484)
 - [Все ещё подбираете число интервью для JTBD с помощью магического шара? Тогда мы идём к вам](https://habr.com/ru/post/672478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672478)
 - [[recovery mode] 10 мыслей о том, как стать хорошим руководителем команды дизайна](https://habr.com/ru/post/672474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672474)
 - [Планирование производственных операций](https://habr.com/ru/post/672466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672466)
-- [Вебинар «Битва брокеров сообщений: Kafka, RabbitMQ, SQS»: 23 июня в 19.00](https://habr.com/ru/post/672424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672424)
-- [Слак бот на минималках ч2](https://habr.com/ru/post/672454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672454)
 <!-- BLOG-POST-LIST:END -->
