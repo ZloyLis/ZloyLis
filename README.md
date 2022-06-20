@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все ещё подбираете число интервью для JTBD с помощью магического шара? Тогда мы идём к вам](https://habr.com/ru/post/672478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672478)
+- [[recovery mode] 10 мыслей о том, как стать хорошим руководителем команды дизайна](https://habr.com/ru/post/672474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672474)
 - [Планирование производственных операций](https://habr.com/ru/post/672466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672466)
 - [Вебинар «Битва брокеров сообщений: Kafka, RabbitMQ, SQS»: 23 июня в 19.00](https://habr.com/ru/post/672424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672424)
 - [Слак бот на минималках ч2](https://habr.com/ru/post/672454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672454)
-- [Робопрактика бизнес-аналитиков 2022: как это было](https://habr.com/ru/post/672448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672448)
-- [Фронтенд-новости №11. JQuery живее всех живых, замена CAPTCHA, вариативные шрифты в Figma](https://habr.com/ru/post/672440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672440)
 <!-- BLOG-POST-LIST:END -->
