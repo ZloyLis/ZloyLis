@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT, Гарвард и Лига плюща: моя небольшая история](https://habr.com/ru/post/672422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672422)
 - [[Перевод] Как защитить ваш пайплайн CI/CD](https://habr.com/ru/post/672408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672408)
 - [От LiveData к Flow…](https://habr.com/ru/post/672400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672400)
 - [На двух стульях: ASP.NET Identity и авторизация по Windows в ASP.NET MVC](https://habr.com/ru/post/672382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672382)
 - [Беспилотный робот не в ROS](https://habr.com/ru/post/672368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672368)
-- [Дерево комиксов на D3.js из API Marvel](https://habr.com/ru/post/672362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672362)
 <!-- BLOG-POST-LIST:END -->
