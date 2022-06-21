@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UI редактора блок-схем](https://habr.com/ru/post/672694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672694)
+- [Как работает сервис поиска уникальных специалистов для междисциплинарных проектов](https://habr.com/ru/post/671776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671776)
+- [JPoint 2022: что было, что будет и какие доклады уже открыты для всех](https://habr.com/ru/post/672572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672572)
 - [Верни мне мой 2007: как изменилось представление о фронтенд-разработке за последние годы [опрос]](https://habr.com/ru/post/672338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672338)
 - [Docker Swarm VS Kubernetes — как бизнес выбирает оркестраторы](https://habr.com/ru/post/672666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672666)
-- [Дорогу молодым: как FrontendConf 2022 помогает начинающим спикерам и почему это важно для индустрии](https://habr.com/ru/post/660685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660685)
-- [Летняя Школа Юных Программистов #47](https://habr.com/ru/post/672516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672516)
-- [[Перевод] Обзор книги “Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code”](https://habr.com/ru/post/672610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672610)
 <!-- BLOG-POST-LIST:END -->
