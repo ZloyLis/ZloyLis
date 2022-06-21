@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Летняя Школа Юных Программистов #47](https://habr.com/ru/post/672516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672516)
 - [[Перевод] Обзор книги “Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code”](https://habr.com/ru/post/672610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672610)
 - [Взаимодействие с alerts и permissions в ui-тестировании iOS](https://habr.com/ru/post/672586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672586)
 - [Эй, пс, Gopher! Хочешь немного секретности? Стеганография для Маши и Вити](https://habr.com/ru/post/672128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672128)
 - [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 1: настройка проекта](https://habr.com/ru/post/672546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672546)
-- [[Перевод] Обучение с подкреплением: сети Deep Q](https://habr.com/ru/post/671650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671650)
 <!-- BLOG-POST-LIST:END -->
