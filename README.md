@@ -19,8 +19,9 @@
 ![Spring](https://img.shields.io/badge/Spring-informational?logo=Spring&style=flat&logoColor=white&color=0A9EDC)
 ![Angular](https://img.shields.io/badge/Vue-informational?logo=vue.js&style=flat&logoColor=white&color=red)
 ![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=darkorange)
--->
+
 ___
+-->
 
 #### 💬 Latest posts from habr.com:
 
