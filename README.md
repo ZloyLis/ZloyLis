@@ -1,7 +1,7 @@
 ### It's working? Don't touch!
 
 ---
-
+<!--
 #### 🛠️ Technical stack:
 
 ![C++](https://img.shields.io/badge/C++-informational?logo=c%2B%2B&style=flat&logoColor=white&color=9C033A)
@@ -19,7 +19,7 @@
 ![Spring](https://img.shields.io/badge/Spring-informational?logo=Spring&style=flat&logoColor=white&color=0A9EDC)
 ![Angular](https://img.shields.io/badge/Vue-informational?logo=vue.js&style=flat&logoColor=white&color=red)
 ![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=darkorange)
-
+-->
 ___
 
 #### 💬 Latest posts from habr.com:
