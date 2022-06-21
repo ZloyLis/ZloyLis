@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 13 лучших игр с открытым кодом на Gamedev.js Jam 2022](https://habr.com/ru/post/672672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672672)
 - [Ловим дзен, боремся с легаси и строим кубический мир: что было на онлайн-части конференции HolyJS 2022 Spring](https://habr.com/ru/post/672340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672340)
 - [UI редактора блок-схем](https://habr.com/ru/post/672694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672694)
 - [Как работает сервис поиска уникальных специалистов для междисциплинарных проектов](https://habr.com/ru/post/671776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671776)
 - [JPoint 2022: что было, что будет и какие доклады уже открыты для всех](https://habr.com/ru/post/672572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672572)
-- [Верни мне мой 2007: как изменилось представление о фронтенд-разработке за последние годы [опрос]](https://habr.com/ru/post/672338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672338)
 <!-- BLOG-POST-LIST:END -->
