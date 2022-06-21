@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое «Разделение ответственности» в коде](https://habr.com/ru/post/672522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672522)
+- [Метод наименьших квадратов: формулы, код и применение](https://habr.com/ru/post/672540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672540)
 - [Красная и синяя таблетки для повышения баc-фактора команды разработки](https://habr.com/ru/post/473116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=473116)
 - [Telegram Bot на Kotlin: Введение](https://habr.com/ru/post/672488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672488)
 - [Security Week 2225: Hertzbleed, новая атака на процессоры Intel и AMD](https://habr.com/ru/post/672490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672490)
-- [Дайджест недели от Apple Pro Weekly News &lpar;13.06 – 19.06.22&rpar;](https://habr.com/ru/post/672414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672414)
-- [Подробнее про пирамиду тестирования](https://habr.com/ru/post/672484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672484)
 <!-- BLOG-POST-LIST:END -->
