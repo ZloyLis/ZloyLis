@@ -25,9 +25,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Что такое «Разделение ответственности» в коде](https://habr.com/ru/post/672522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672522)
-- [Метод наименьших квадратов: формулы, код и применение](https://habr.com/ru/post/672540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672540)
-- [Красная и синяя таблетки для повышения баc-фактора команды разработки](https://habr.com/ru/post/473116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=473116)
-- [Telegram Bot на Kotlin: Введение](https://habr.com/ru/post/672488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672488)
-- [Security Week 2225: Hertzbleed, новая атака на процессоры Intel и AMD](https://habr.com/ru/post/672490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672490)
+- [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 1: настройка проекта](https://habr.com/ru/post/672546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672546)
+- [[Перевод] Обучение с подкреплением: сети Deep Q](https://habr.com/ru/post/671650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671650)
+- [Про настройку гиперпараметров ансамблей моделей машинного обучения](https://habr.com/ru/post/672486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672486)
+- [Android 13: какие изменения нас ожидают](https://habr.com/ru/post/672538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672538)
+- [Как «Алтай-Кокс» научился экономить на вагонах миллионы рублей в год](https://habr.com/ru/post/671564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671564)
 <!-- BLOG-POST-LIST:END -->
