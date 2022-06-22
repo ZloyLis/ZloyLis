@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сжимаем данные в больших проектах](https://habr.com/ru/post/672760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672760)
+- [Почему не нужно идти в айти — демотиватор](https://habr.com/ru/post/672814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672814)
+- [Data Science как макетная плата в enterprise](https://habr.com/ru/post/672812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672812)
+- [70 ресурсов для прокачки в PHP &lpar;из опроса русскоязычного сообщества&rpar;](https://habr.com/ru/post/666626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666626)
 - [Go, Allure и HTTP, или Как мило тестировать HTTP-сервисы на Go](https://habr.com/ru/post/672678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672678)
-- [[Перевод] Что делать с дрейфом данных и концепций в продакшен-системах машинного обучения](https://habr.com/ru/post/671896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671896)
-- [Удалённый мониторинг 3D-принтера. Рассуждаем](https://habr.com/ru/post/671102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671102)
-- [[Перевод] 13 лучших игр с открытым кодом на Gamedev.js Jam 2022](https://habr.com/ru/post/672672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672672)
-- [Ловим дзен, боремся с легаси и строим кубический мир: что было на онлайн-части конференции HolyJS 2022 Spring](https://habr.com/ru/post/672340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672340)
 <!-- BLOG-POST-LIST:END -->
