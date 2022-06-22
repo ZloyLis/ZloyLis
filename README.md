@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как в современном мире обрабатывать ошибки в Javascript?](https://habr.com/ru/post/672888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672888)
+- [[Перевод] Приложение для чата в реальном времени с помощью Nestjs и PostgreSQL](https://habr.com/ru/post/672848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672848)
+- [Как бустануть рост из Junior в Middle ML-инженера и попасть в команду разработки ведущих ИТ-компаний](https://habr.com/ru/post/672876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672876)
 - [Аналитика в декларативном стиле с поддержкой многомодульности](https://habr.com/ru/post/672862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672862)
 - [[Перевод] C++20: корутины cppcoro](https://habr.com/ru/post/672838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672838)
-- [Как мы сжимаем данные в больших проектах](https://habr.com/ru/post/672760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672760)
-- [Почему не нужно идти в айти — демотиватор](https://habr.com/ru/post/672814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672814)
-- [Data Science как макетная плата в enterprise](https://habr.com/ru/post/672812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672812)
 <!-- BLOG-POST-LIST:END -->
