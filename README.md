@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Go, Allure и HTTP, или Как мило тестировать HTTP-сервисы на Go](https://habr.com/ru/post/672678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672678)
+- [[Перевод] Что делать с дрейфом данных и концепций в продакшен-системах машинного обучения](https://habr.com/ru/post/671896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671896)
 - [Удалённый мониторинг 3D-принтера. Рассуждаем](https://habr.com/ru/post/671102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671102)
 - [[Перевод] 13 лучших игр с открытым кодом на Gamedev.js Jam 2022](https://habr.com/ru/post/672672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672672)
 - [Ловим дзен, боремся с легаси и строим кубический мир: что было на онлайн-части конференции HolyJS 2022 Spring](https://habr.com/ru/post/672340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672340)
-- [UI редактора блок-схем](https://habr.com/ru/post/672694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672694)
-- [Как работает сервис поиска уникальных специалистов для междисциплинарных проектов](https://habr.com/ru/post/671776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671776)
 <!-- BLOG-POST-LIST:END -->
