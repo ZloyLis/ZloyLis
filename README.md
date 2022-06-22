@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] C++20: корутины cppcoro](https://habr.com/ru/post/672838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672838)
 - [Как мы сжимаем данные в больших проектах](https://habr.com/ru/post/672760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672760)
 - [Почему не нужно идти в айти — демотиватор](https://habr.com/ru/post/672814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672814)
 - [Data Science как макетная плата в enterprise](https://habr.com/ru/post/672812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672812)
 - [70 ресурсов для прокачки в PHP &lpar;из опроса русскоязычного сообщества&rpar;](https://habr.com/ru/post/666626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666626)
-- [Go, Allure и HTTP, или Как мило тестировать HTTP-сервисы на Go](https://habr.com/ru/post/672678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672678)
 <!-- BLOG-POST-LIST:END -->
