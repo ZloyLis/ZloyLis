@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем мигрировать на Managed Kubernetes и с чем придётся столкнуться](https://habr.com/ru/post/673112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673112)
+- [Как Computed Properties в Angular помогают пропускать титры](https://habr.com/ru/post/671922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671922)
 - [Что читать Golang-разработчику. Семь главных книг: от Донована и Кернигана до МакДауэлл](https://habr.com/ru/post/672906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672906)
 - [Улучшаем производительность android-приложения с помощью Baseline profiles](https://habr.com/ru/post/671180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671180)
 - [Изображения. Минификация на максималках](https://habr.com/ru/post/672534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672534)
-- [Как мы сделали бота для колл-центра банка, но что-то пошло не так](https://habr.com/ru/post/672892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672892)
-- [В мире антропоморфных животных: PVS-Studio проверил Overgrowth](https://habr.com/ru/post/673090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673090)
 <!-- BLOG-POST-LIST:END -->
