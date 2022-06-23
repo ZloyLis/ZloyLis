@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Совершенный алгоритм. Графовые алгоритмы и структуры данных](https://habr.com/ru/post/673010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673010)
-- [История одного OOM](https://habr.com/ru/post/672856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672856)
-- [Загадочный случай фантомного сертификата](https://habr.com/ru/post/672992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672992)
-- [Почему всё ломается даже у хороших программистов? Часть 1/2](https://habr.com/ru/post/672994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672994)
-- [Левитация — а не отделить ли нам сайт от движка?](https://habr.com/ru/post/672380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672380)
+- [Все фигня, давай по-новой или модерация объектов в Django Rest Framework](https://habr.com/ru/post/672952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672952)
+- [Пробуем Chaos Mesh, или Гармония хаоса и есть порядок](https://habr.com/ru/post/672902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672902)
+- [Простой шаблонизатор DOCX-документов с помощью Smart Document Engine](https://habr.com/ru/post/672896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672896)
+- [Со скрипта на «верфь»](https://habr.com/ru/post/673014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673014)
+- [Оптимизация GUI на Qt](https://habr.com/ru/post/672962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672962)
 <!-- BLOG-POST-LIST:END -->
