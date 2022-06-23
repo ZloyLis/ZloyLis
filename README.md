@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизация мобильной игры с помощью Airtest IDE и других решений](https://habr.com/ru/post/672708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672708)
+- [[Перевод] Полное руководство по тестовым дублерам в Android — Часть 1: Теория](https://habr.com/ru/post/673152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673152)
+- [Автоматизируем выбор ревьюра с помощью GitLab CI и Danger JS](https://habr.com/ru/post/672372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672372)
+- [Программист обязательно должен этому научиться](https://habr.com/ru/post/673146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673146)
+- [Автоматизация тестирования мобильной игры с помощью Airtest IDE и других решений](https://habr.com/ru/post/672708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672708)
 - [Возможности развития для UX-исследователей в Авито](https://habr.com/ru/post/672890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672890)
-- [Как iOS 15 сломала авторизацию на два месяца. Хронология и лечение от СберМаркета](https://habr.com/ru/post/666546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666546)
-- [Зачем мигрировать на Managed Kubernetes и с чем придётся столкнуться](https://habr.com/ru/post/673112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673112)
-- [Как Computed Properties в Angular помогают пропускать титры](https://habr.com/ru/post/671922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671922)
 <!-- BLOG-POST-LIST:END -->
