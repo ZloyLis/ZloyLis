@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Возможности развития для UX-исследователей в Авито](https://habr.com/ru/post/672890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672890)
+- [Как iOS 15 сломала авторизацию на два месяца. Хронология и лечение от СберМаркета](https://habr.com/ru/post/666546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666546)
 - [Зачем мигрировать на Managed Kubernetes и с чем придётся столкнуться](https://habr.com/ru/post/673112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673112)
 - [Как Computed Properties в Angular помогают пропускать титры](https://habr.com/ru/post/671922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671922)
 - [Что читать Golang-разработчику. Семь главных книг: от Донована и Кернигана до МакДауэлл](https://habr.com/ru/post/672906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672906)
-- [Улучшаем производительность android-приложения с помощью Baseline profiles](https://habr.com/ru/post/671180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671180)
-- [Изображения. Минификация на максималках](https://habr.com/ru/post/672534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672534)
 <!-- BLOG-POST-LIST:END -->
