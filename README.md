@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совершенный алгоритм. Графовые алгоритмы и структуры данных](https://habr.com/ru/post/673010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673010)
+- [История одного OOM](https://habr.com/ru/post/672856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672856)
 - [Загадочный случай фантомного сертификата](https://habr.com/ru/post/672992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672992)
 - [Почему всё ломается даже у хороших программистов? Часть 1/2](https://habr.com/ru/post/672994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672994)
 - [Левитация — а не отделить ли нам сайт от движка?](https://habr.com/ru/post/672380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672380)
-- [Как защищать границы массива без команды BOUND](https://habr.com/ru/post/672956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672956)
-- [Еще один способ использовать SVG в React. На этот раз удобный](https://habr.com/ru/post/672984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672984)
 <!-- BLOG-POST-LIST:END -->
