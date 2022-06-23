@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] JavaScript: интересные возможности AbortController](https://habr.com/ru/post/673048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673048)
+- [Хейтить нельзя участвовать. Сколько заработает скам-машина на СНГ? Разбор российского аналога StepN — Amazy](https://habr.com/ru/post/673044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673044)
 - [Яндекс выложил YaLM 100B — сейчас это крупнейшая GPT-подобная нейросеть в свободном доступе. Вот как удалось её обучить](https://habr.com/ru/post/672396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672396)
 - [Раз, два, три и готово! 3 месяца, 1 проект и новая команда](https://habr.com/ru/post/673008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673008)
 - [Все фигня, давай по-новой или модерация объектов в Django Rest Framework](https://habr.com/ru/post/672952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672952)
-- [Пробуем Chaos Mesh, или Гармония хаоса и есть порядок](https://habr.com/ru/post/672902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672902)
-- [Простой шаблонизатор DOCX-документов с помощью Smart Document Engine](https://habr.com/ru/post/672896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672896)
 <!-- BLOG-POST-LIST:END -->
