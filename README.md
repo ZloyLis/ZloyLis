@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как защищать границы массива без команды BOUND](https://habr.com/ru/post/672956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672956)
 - [Еще один способ использовать SVG в React. На этот раз удобный](https://habr.com/ru/post/672984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672984)
 - [[Перевод] Как создавать иконки сайтов в 2022 году — всё о favicon](https://habr.com/ru/post/672844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672844)
 - [Обкафкился по полной: 3 фейла с Apache Kafka](https://habr.com/ru/post/672918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672918)
 - [Как в современном мире обрабатывать ошибки в Javascript?](https://habr.com/ru/post/672888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672888)
-- [[Перевод] Приложение для чата в реальном времени с помощью Nestjs и PostgreSQL](https://habr.com/ru/post/672848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672848)
 <!-- BLOG-POST-LIST:END -->
