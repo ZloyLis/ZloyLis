@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как добавить Isar в проект на Flutter](https://habr.com/ru/post/673068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673068)
+- [[Перевод] Jetpack Compose для тех, кто в танке](https://habr.com/ru/post/673062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673062)
+- [Иголка в стоге сена: как в SkillFactory работают с экспертами](https://habr.com/ru/post/672934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672934)
 - [Основы линейной алгебры для 3D-приложений. Урок 2](https://habr.com/ru/post/672930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672930)
 - [[Перевод] JavaScript: интересные возможности AbortController](https://habr.com/ru/post/673048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673048)
-- [Хейтить нельзя участвовать. Сколько заработает скам-машина на СНГ? Разбор российского аналога StepN — Amazy](https://habr.com/ru/post/673044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673044)
-- [Яндекс выложил YaLM 100B — сейчас это крупнейшая GPT-подобная нейросеть в свободном доступе. Вот как удалось её обучить](https://habr.com/ru/post/672396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672396)
-- [Раз, два, три и готово! 3 месяца, 1 проект и новая команда](https://habr.com/ru/post/673008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673008)
 <!-- BLOG-POST-LIST:END -->
