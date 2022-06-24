@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектируем идеальную систему реактивности](https://habr.com/ru/post/673138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673138)
 - [[Перевод] Полное руководство по тестовым дублерам в Android — Часть 1: Теория](https://habr.com/ru/post/673152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673152)
 - [Автоматизируем выбор ревьюра с помощью GitLab CI и Danger JS](https://habr.com/ru/post/672372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672372)
 - [Программист обязательно должен этому научиться](https://habr.com/ru/post/673146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673146)
 - [Автоматизация тестирования мобильной игры с помощью Airtest IDE и других решений](https://habr.com/ru/post/672708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672708)
-- [Возможности развития для UX-исследователей в Авито](https://habr.com/ru/post/672890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672890)
 <!-- BLOG-POST-LIST:END -->
