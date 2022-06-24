@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обратные простые числа сквозь призму систем счисления](https://habr.com/ru/post/672832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672832)
 - [Как для нас прошли Analyst Days/14](https://habr.com/ru/post/673266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673266)
 - [Релиз языка программрования NewLang](https://habr.com/ru/post/673176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673176)
 - [«Основы Go» — новый бесплатный курс от Яндекс Практикума](https://habr.com/ru/post/673256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673256)
 - [[Перевод] Раздувание кода стало астрономическим](https://habr.com/ru/post/673236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673236)
-- [Dashboard as a code, или как мы создание дашбордов автоматизировали](https://habr.com/ru/post/673228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673228)
 <!-- BLOG-POST-LIST:END -->
