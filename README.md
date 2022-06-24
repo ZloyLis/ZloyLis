@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Спуск контента вызова внутрь процедуры](https://habr.com/ru/post/673350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673350)
+- [[Перевод] Инструкция как писать стандартизированные комментарии к коммитам &lpar;git commit&rpar;](https://habr.com/ru/post/673344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673344)
 - [Чем сейчас живут тестировщики? Часть 2](https://habr.com/ru/post/673332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673332)
 - [Отрисовка в браузере большой анимации или как я ушел с mp4 к своему формату видео](https://habr.com/ru/post/673318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673318)
 - [Я не придумал, куда сходить — и скодил своего бота, который решает эту проблему за меня](https://habr.com/ru/post/673170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673170)
-- [Обратные простые числа сквозь призму систем счисления](https://habr.com/ru/post/672832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672832)
-- [Как для нас прошли Analyst Days/14](https://habr.com/ru/post/673266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673266)
 <!-- BLOG-POST-LIST:END -->
