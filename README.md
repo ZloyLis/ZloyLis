@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Куда исчезают секреты Kubernetes](https://habr.com/ru/post/672796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672796)
 - [Модели мира или мультиагентное обучение с подкреплением в рамках бюджета](https://habr.com/ru/post/672938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672938)
 - [Обзор паттернов хранения деревьев в реляционных БД](https://habr.com/ru/post/672634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672634)
 - [Ключевые показатели эффективности API](https://habr.com/ru/post/673182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673182)
 - [Проектируем идеальную систему реактивности](https://habr.com/ru/post/673138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673138)
-- [[Перевод] Полное руководство по тестовым дублерам в Android — Часть 1: Теория](https://habr.com/ru/post/673152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673152)
 <!-- BLOG-POST-LIST:END -->
