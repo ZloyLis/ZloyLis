@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dashboard as a code, или как мы создание дашбордов автоматизировали](https://habr.com/ru/post/673228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673228)
+- [Особенности применения LRU кэша в ASP NET Core приложениях](https://habr.com/ru/post/673224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673224)
 - [BPMN не в теории, а на практике](https://habr.com/ru/post/671634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671634)
 - [Builder на Kotlin c контролем наборов значений при компиляции](https://habr.com/ru/post/673066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673066)
 - [React-ивное импортозамещение: как мы не побоялись сделать масштабный рефакторинг на уже запущенном проекте](https://habr.com/ru/post/673216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673216)
-- [[recovery mode] Чемпионаты стандартов WorldSkills: как решать кейсы, справляться с волнением и зачем вообще участвовать](https://habr.com/ru/post/671442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671442)
-- [[Перевод] Куда исчезают секреты Kubernetes](https://habr.com/ru/post/672796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672796)
 <!-- BLOG-POST-LIST:END -->
