@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я сделал коллекцию NFT на своей «machine», и быстро выложил на opensea.io](https://habr.com/ru/post/673452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673452)
 - [Ключевое слово «volatile» C/C++](https://habr.com/ru/post/673428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673428)
 - [Портирование CUDA проекта на Intel oneAPI DPC++](https://habr.com/ru/post/673416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673416)
 - [Кто такой бэкенд-разработчик, сколько он зарабатывает и как им стать](https://habr.com/ru/post/673300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673300)
 - [Method Dispatch](https://habr.com/ru/post/673400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673400)
-- [Loginom+BI2BUSINESS+Visiology: технологическое партнерство — путь российского BI?](https://habr.com/ru/post/661795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661795)
 <!-- BLOG-POST-LIST:END -->
