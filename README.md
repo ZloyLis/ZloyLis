@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Организация react-компонентов с помощью dot-notation и почему я часто прибегаю именно к этому способу](https://habr.com/ru/post/673378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673378)
 - [Статический анализатор, который изменит вашу архитектуру](https://habr.com/ru/post/580734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=580734)
 - [Copy-on-write](https://habr.com/ru/post/673372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673372)
 - [Почему всё ломается даже у хороших программистов? Часть 2/2](https://habr.com/ru/post/673364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673364)
 - [Антипаттерны в написании учебных пособий или откуда растут ноги плохого кода?](https://habr.com/ru/post/673356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673356)
-- [Спуск контента вызова внутрь процедуры](https://habr.com/ru/post/673350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673350)
 <!-- BLOG-POST-LIST:END -->
