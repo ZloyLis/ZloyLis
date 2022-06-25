@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто такой бэкенд-разработчик, сколько он зарабатывает и как им стать](https://habr.com/ru/post/673300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673300)
+- [Method Dispatch](https://habr.com/ru/post/673400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673400)
 - [Loginom+BI2BUSINESS+Visiology: технологическое партнерство — путь российского BI?](https://habr.com/ru/post/661795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=661795)
 - [Концепты и модули cpp. Взгляд сo стороны undefined разработчика](https://habr.com/ru/post/673388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673388)
 - [Организация react-компонентов с помощью dot-notation и почему я часто прибегаю именно к этому способу](https://habr.com/ru/post/673378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673378)
-- [Статический анализатор, который изменит вашу архитектуру](https://habr.com/ru/post/580734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=580734)
-- [Copy-on-write](https://habr.com/ru/post/673372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673372)
 <!-- BLOG-POST-LIST:END -->
