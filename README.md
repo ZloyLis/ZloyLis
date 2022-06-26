@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация склада: с чего начать](https://habr.com/ru/post/673504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673504)
 - [[Перевод] Vue 2.7 теперь в бета-тесте](https://habr.com/ru/post/673484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673484)
 - [Пишем Смарт-контракт на FunC для TON &lpar;The Open Network&rpar;](https://habr.com/ru/post/673480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673480)
 - [C++ разведка кросс-компиляции Linux-&amp;gt;Windows](https://habr.com/ru/post/673474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673474)
 - [«Работаем дальше»: взлетит ли шеринг производственного оборудования, и что там с 5G и «чип-гейтом»](https://habr.com/ru/post/673468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673468)
-- [YouTube Vanced больше нет. Но есть ReVanced](https://habr.com/ru/post/673460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673460)
 <!-- BLOG-POST-LIST:END -->
