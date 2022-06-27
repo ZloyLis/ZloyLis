@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один в поле не воин. Полезные интеграции для инструментов анализа мобильных приложений](https://habr.com/ru/post/673520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673520)
 - [Дайджест интересных материалов для мобильного разработчика #448 &lpar;20 — 26 июня&rpar;](https://habr.com/ru/post/673530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673530)
 - [[Перевод] Так все же, насколько быстры каналы в Linux?](https://habr.com/ru/post/673508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673508)
 - [Автоматизация склада: с чего начать](https://habr.com/ru/post/673504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673504)
 - [[Перевод] Vue 2.7 теперь в бета-тесте](https://habr.com/ru/post/673484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673484)
-- [Пишем Смарт-контракт на FunC для TON &lpar;The Open Network&rpar;](https://habr.com/ru/post/673480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673480)
 <!-- BLOG-POST-LIST:END -->
