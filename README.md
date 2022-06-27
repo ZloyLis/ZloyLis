@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2226: особенности шифрования на хостинге Mega](https://habr.com/ru/post/673690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673690)
 - [Деплой, базы данных и мониторинг: жизнь после перехода на Go](https://habr.com/ru/post/673656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673656)
 - [[Перевод] Параллельные оболочки с xargs: Используем все процессорные ядра в UNIX и Windows](https://habr.com/ru/post/673330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673330)
 - [Коэффициент однозначности](https://habr.com/ru/post/673616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673616)
 - [ARKit 6. Что нового?](https://habr.com/ru/post/673602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673602)
-- [Фронтенд-новости №12. Вышел EcmaScript 2022, фавиконки в 2022, как будет выглядеть веб только с Chromium](https://habr.com/ru/post/673394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673394)
 <!-- BLOG-POST-LIST:END -->
