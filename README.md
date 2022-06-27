@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KnownReader. Читалка и словари](https://habr.com/ru/post/673714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673714)
 - [[Перевод] За кулисами Google Colab](https://habr.com/ru/post/673572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673572)
 - [Сертификаты K8S или как распутать вермишель](https://habr.com/ru/post/673730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673730)
 - [Альтернативные методы организации и создания файловых информационных ресурсов](https://habr.com/ru/post/673720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673720)
 - [Дайджест недели от Apple Pro Weekly News &lpar;20.06 – 26.06.22&rpar;](https://habr.com/ru/post/673528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673528)
-- [Создание бизнес системы с самого нуля часть 1](https://habr.com/ru/post/673708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673708)
 <!-- BLOG-POST-LIST:END -->
