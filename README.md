@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Коэффициент однозначности](https://habr.com/ru/post/673616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673616)
+- [ARKit 6. Что нового?](https://habr.com/ru/post/673602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673602)
 - [Фронтенд-новости №12. Вышел EcmaScript 2022, фавиконки в 2022, как будет выглядеть веб только с Chromium](https://habr.com/ru/post/673394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673394)
 - [[Перевод] Эволюция лямбд в C++14, C++17 и C ++20](https://habr.com/ru/post/673580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673580)
 - [Как мы перешли на регулярные релизы мобильного приложения. Часть I](https://habr.com/ru/post/665892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665892)
-- [Быть или не быть ACL в администрировании Linux](https://habr.com/ru/post/673570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673570)
-- [[Перевод] Обучение с подкреплением: практические рекомендации по обучению сетей Deep Q](https://habr.com/ru/post/672988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672988)
 <!-- BLOG-POST-LIST:END -->
