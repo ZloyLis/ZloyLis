@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтернативные методы организации и создания файловых информационных ресурсов](https://habr.com/ru/post/673720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673720)
+- [Дайджест недели от Apple Pro Weekly News &lpar;20.06 – 26.06.22&rpar;](https://habr.com/ru/post/673528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673528)
 - [Создание бизнес системы с самого нуля часть 1](https://habr.com/ru/post/673708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673708)
 - [[Перевод] Полное руководство по тестовым дублерам в Android — Часть 2: Практика](https://habr.com/ru/post/673706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673706)
 - [[Перевод] Вся соль непредсказуемости: ценность рандомизации при разработке игр](https://habr.com/ru/post/673704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673704)
-- [Свой Mail Server на Docker за 10 минут](https://habr.com/ru/post/673700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673700)
-- [Security Week 2226: особенности шифрования на хостинге Mega](https://habr.com/ru/post/673690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673690)
 <!-- BLOG-POST-LIST:END -->
