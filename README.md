@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание бизнес системы с самого нуля часть 1](https://habr.com/ru/post/673708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673708)
+- [[Перевод] Полное руководство по тестовым дублерам в Android — Часть 2: Практика](https://habr.com/ru/post/673706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673706)
+- [[Перевод] Вся соль непредсказуемости: ценность рандомизации при разработке игр](https://habr.com/ru/post/673704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673704)
+- [Свой Mail Server на Docker за 10 минут](https://habr.com/ru/post/673700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673700)
 - [Security Week 2226: особенности шифрования на хостинге Mega](https://habr.com/ru/post/673690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673690)
-- [Деплой, базы данных и мониторинг: жизнь после перехода на Go](https://habr.com/ru/post/673656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673656)
-- [[Перевод] Параллельные оболочки с xargs: Используем все процессорные ядра в UNIX и Windows](https://habr.com/ru/post/673330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673330)
-- [Коэффициент однозначности](https://habr.com/ru/post/673616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673616)
-- [ARKit 6. Что нового?](https://habr.com/ru/post/673602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673602)
 <!-- BLOG-POST-LIST:END -->
