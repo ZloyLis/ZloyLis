@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фронтенд-новости №12. Вышел EcmaScript 2022, фавиконки в 2022, как будет выглядеть веб только с Chromium](https://habr.com/ru/post/673394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673394)
+- [[Перевод] Эволюция лямбд в C++14, C++17 и C ++20](https://habr.com/ru/post/673580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673580)
+- [Как мы перешли на регулярные релизы мобильного приложения. Часть I](https://habr.com/ru/post/665892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665892)
+- [Быть или не быть ACL в администрировании Linux](https://habr.com/ru/post/673570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673570)
 - [[Перевод] Обучение с подкреплением: практические рекомендации по обучению сетей Deep Q](https://habr.com/ru/post/672988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672988)
-- [[Перевод] JavaScript: примеры реализации некоторых математических выражений](https://habr.com/ru/post/673568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673568)
-- [Один в поле не воин. Полезные интеграции для инструментов анализа мобильных приложений](https://habr.com/ru/post/673520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673520)
-- [Дайджест интересных материалов для мобильного разработчика #448 &lpar;20 — 26 июня&rpar;](https://habr.com/ru/post/673530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673530)
-- [[Перевод] Так все же, насколько быстры каналы в Linux?](https://habr.com/ru/post/673508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673508)
 <!-- BLOG-POST-LIST:END -->
