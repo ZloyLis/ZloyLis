@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тем, кто учится программировать и решил написать вопрос на Stack Overflow: «Почему код не работает?»](https://habr.com/ru/post/673788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673788)
+- [[Перевод] Оборачиваем API с помощью httr2](https://habr.com/ru/post/665716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665716)
 - [Привлекательные структуры данных](https://habr.com/ru/post/673776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673776)
 - [40 релизов в неделю при разработке государственного Amazon или почему Agile is dead](https://habr.com/ru/post/672404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672404)
 - [[Перевод] Вся соль непредсказуемости: ценность рандомизации при разработке игр](https://habr.com/ru/post/673746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673746)
-- [Найти всё. Text Mining](https://habr.com/ru/post/673726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673726)
-- [Computer Science или что должен знать программист?](https://habr.com/ru/post/673754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673754)
 <!-- BLOG-POST-LIST:END -->
