@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я встраивал JS в свой игровой движок](https://habr.com/ru/post/673904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673904)
+- [Диспетчеризация в Swift: погружение в теорию и практику](https://habr.com/ru/post/673636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673636)
 - [Митап и бот-баттл для увлеченных разработкой](https://habr.com/ru/post/673894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673894)
 - [Биржевой торговый робот на Искусственном Интеллекте «АТОМ». История создания, принципы торговли, дальнейшие цели](https://habr.com/ru/post/673880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673880)
 - [Как тимлиду разработки составить план развития тестировщиков](https://habr.com/ru/post/673120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673120)
-- [[recovery mode] Опять про простые числа](https://habr.com/ru/post/673872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673872)
-- [[Перевод] Разработчик с мозгом груга](https://habr.com/ru/post/673640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673640)
 <!-- BLOG-POST-LIST:END -->
