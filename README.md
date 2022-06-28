@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Привлекательные структуры данных](https://habr.com/ru/post/673776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673776)
+- [40 релизов в неделю при разработке государственного Amazon или почему Agile is dead](https://habr.com/ru/post/672404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672404)
+- [[Перевод] Вся соль непредсказуемости: ценность рандомизации при разработке игр](https://habr.com/ru/post/673746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673746)
+- [Найти всё. Text Mining](https://habr.com/ru/post/673726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673726)
 - [Computer Science или что должен знать программист?](https://habr.com/ru/post/673754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673754)
-- [KnownReader. Читалка и словари](https://habr.com/ru/post/673714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673714)
-- [[Перевод] За кулисами Google Colab](https://habr.com/ru/post/673572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673572)
-- [Сертификаты K8S или как распутать вермишель](https://habr.com/ru/post/673730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673730)
-- [Альтернативные методы организации и создания файловых информационных ресурсов](https://habr.com/ru/post/673720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673720)
 <!-- BLOG-POST-LIST:END -->
