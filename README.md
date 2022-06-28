@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработчик с мозгом груга](https://habr.com/ru/post/673640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673640)
+- [We need to go deeper: диплинки и кодогенерация](https://habr.com/ru/post/673850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673850)
+- [[Перевод] Customer Experience APIs &lpar;API для клиентского опыта&rpar;: недостающий уровень](https://habr.com/ru/post/673852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673852)
 - [Робопрактика для frontend-разработчиков](https://habr.com/ru/post/673810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673810)
 - [Новая версия Хабра. Ещё не всё потеряно, ещё не всё?… &lpar;часть первая&rpar;](https://habr.com/ru/post/673342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673342)
-- [Helmwave — еще один инструмент для деплоя helm-чартов](https://habr.com/ru/post/672946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672946)
-- [Автоматическая расстановка мебели: миф или реальность?](https://habr.com/ru/post/673648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673648)
-- [Тем, кто учится программировать и решил написать вопрос на Stack Overflow: «Почему код не работает?»](https://habr.com/ru/post/673788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673788)
 <!-- BLOG-POST-LIST:END -->
