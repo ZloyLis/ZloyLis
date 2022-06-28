@@ -27,8 +27,8 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Робопрактика для frontend-разработчиков](https://habr.com/ru/post/673810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673810)
-- [Black-box тестирование сотовой сети: как операторы защищают абонентов от хакерских атак](https://habr.com/ru/post/673550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673550)
 - [Новая версия Хабра. Ещё не всё потеряно, ещё не всё?… &lpar;часть первая&rpar;](https://habr.com/ru/post/673342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673342)
 - [Helmwave — еще один инструмент для деплоя helm-чартов](https://habr.com/ru/post/672946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672946)
 - [Автоматическая расстановка мебели: миф или реальность?](https://habr.com/ru/post/673648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673648)
+- [Тем, кто учится программировать и решил написать вопрос на Stack Overflow: «Почему код не работает?»](https://habr.com/ru/post/673788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673788)
 <!-- BLOG-POST-LIST:END -->
