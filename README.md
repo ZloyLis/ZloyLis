@@ -27,8 +27,8 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Simulating Return Type Inference in C#](https://habr.com/ru/post/673448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673448)
-- [Тезисы, сформулированные во время распития чая, о процессе интервью, с позиции интервьирующего](https://habr.com/ru/post/673916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673916)
 - [Как я встраивал JS в свой игровой движок](https://habr.com/ru/post/673904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673904)
 - [Диспетчеризация в Swift: погружение в теорию и практику](https://habr.com/ru/post/673636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673636)
 - [Митап и бот-баттл для увлеченных разработкой](https://habr.com/ru/post/673894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673894)
+- [Биржевой торговый робот на Искусственном Интеллекте «АТОМ». История создания, принципы торговли, дальнейшие цели](https://habr.com/ru/post/673880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673880)
 <!-- BLOG-POST-LIST:END -->
