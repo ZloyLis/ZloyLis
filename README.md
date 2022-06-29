@@ -26,8 +26,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как найти в своей разработке те задачи, о которых стоит рассказать сообществу](https://habr.com/ru/post/672544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672544)
 - [[Перевод] Что я узнал на конференции DataOps Unleashed 2022](https://habr.com/ru/post/673320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673320)
-- [Как парсить транзакции Blockchain в папку Google Drive](https://habr.com/ru/post/674016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674016)
 - [Год после Практикума. Как складывается моя карьера](https://habr.com/ru/post/673896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673896)
 - [Новая версия Хабра. Ещё не всё потеряно, ещё не всё?… &lpar;часть вторая&rpar;](https://habr.com/ru/post/673352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673352)
 - [Фэнтези-консоли, учебные микроконтроллеры и летние лагеря: 3 истории о том, зачем учить детей программированию](https://habr.com/ru/post/674000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674000)
