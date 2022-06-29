@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы работаем над продуктовыми гипотезами](https://habr.com/ru/post/670236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670236)
 - [Re2j вместо стандартного regEx в Java: в каких случаях и как использовать](https://habr.com/ru/post/674178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674178)
 - [Как я писал асинхронные веб-запросы на Python, или почему провайдер считает, что я бандит](https://habr.com/ru/post/674150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674150)
 - [[Перевод] Безопасно ли отслеживать местоположение детей через популярные Android-приложения?](https://habr.com/ru/post/674108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674108)
 - [Смарт-контракты в виде докер-сервисов: как они работают у нас](https://habr.com/ru/post/674086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674086)
-- [Как найти в своей разработке те задачи, о которых стоит рассказать сообществу](https://habr.com/ru/post/672544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672544)
 <!-- BLOG-POST-LIST:END -->
