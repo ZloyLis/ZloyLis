@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Как IT-специалисту переехать и трудоустроиться в Германии &lpar;часть 1&rpar;](https://habr.com/ru/post/674098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674098)
+- [[Перевод] Безопасно ли отслеживать местоположение детей через популярные Android-приложения?](https://habr.com/ru/post/674108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674108)
 - [Смарт-контракты в виде докер-сервисов: как они работают у нас](https://habr.com/ru/post/674086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674086)
 - [Как найти в своей разработке те задачи, о которых стоит рассказать сообществу](https://habr.com/ru/post/672544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672544)
 - [[Перевод] Что я узнал на конференции DataOps Unleashed 2022](https://habr.com/ru/post/673320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673320)
