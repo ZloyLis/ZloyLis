@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Год после Практикума. Как складывается моя карьера](https://habr.com/ru/post/673896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673896)
+- [Новая версия Хабра. Ещё не всё потеряно, ещё не всё?… &lpar;часть вторая&rpar;](https://habr.com/ru/post/673352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673352)
+- [Фэнтези-консоли, учебные микроконтроллеры и летние лагеря: 3 истории о том, зачем учить детей программированию](https://habr.com/ru/post/674000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674000)
 - [Игра: найди ошибку в C++ коде](https://habr.com/ru/post/673988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673988)
 - [Из арьергарда в авангард](https://habr.com/ru/post/673980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673980)
-- [SQL HowTo: обход дерева иерархии «по курсору» через двойную рекурсию](https://habr.com/ru/post/673856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673856)
-- [Как нарисовать очень грустную девочку, если вы программист](https://habr.com/ru/post/673964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673964)
-- [[API как продукт] Идентификация пользователей и борьба с фродом](https://habr.com/ru/post/673962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673962)
 <!-- BLOG-POST-LIST:END -->
