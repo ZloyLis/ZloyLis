@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык мой – враг мой](https://habr.com/ru/post/674282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674282)
+- [Что нужно разработчику для самообразования?](https://habr.com/ru/post/674280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674280)
+- [Итераторы в Python для самых маленьких](https://habr.com/ru/post/674194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674194)
+- [Как планировать время быстрой доставки и бороться с опозданиями?](https://habr.com/ru/post/669956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669956)
 - [Server side Form. Управление веб-формами на стороне сервера](https://habr.com/ru/post/674022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674022)
-- [«Независимо от ситуации на рынке стоит учиться на Scala»](https://habr.com/ru/post/674004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674004)
-- [[Перевод] Лямбда-функция в Python простыми словами](https://habr.com/ru/post/674234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674234)
-- [[Перевод] Восемь самых востребованных языков программирования в 2022 году](https://habr.com/ru/post/674232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674232)
-- [«Скоро приедем?»: как оценить время в пути](https://habr.com/ru/post/674230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674230)
 <!-- BLOG-POST-LIST:END -->
