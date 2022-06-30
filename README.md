@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Совершенный алгоритм. Жадные алгоритмы и динамическое программирование](https://habr.com/ru/post/674352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674352)
-- [Повлияй на будущее: третий ежегодный опрос IT-сообщества](https://habr.com/ru/post/674350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674350)
-- [Разрабатываем десктопное приложение для заметок с помощью Tauri &lpar;React + Rust&rpar;](https://habr.com/ru/post/674342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674342)
-- [Преподаватель на курсе для начинающих QA — юниксоид-безопасник. Стоп. Что? [Интервью]](https://habr.com/ru/post/674322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674322)
-- [It’s a match! Как тому самому инженеру и той самой компании найти друг друга? Часть 1](https://habr.com/ru/post/672872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672872)
+- [Инфоинженер. Как я делал курс по NLP для МГТУ им. Баумана](https://habr.com/ru/post/674354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674354)
+- [[Перевод] Префиксное дерево &lpar;trie&rpar;](https://habr.com/ru/post/674378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674378)
+- [Как мы столкнулись с версионированием и осознали, что вариант «просто проставить цифры» не работает](https://habr.com/ru/post/674370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674370)
+- [Зачем айтишнику стажировка и где её найти](https://habr.com/ru/post/674336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674336)
+- [14 задач по Kotlin lists, которые заставят вас подумать](https://habr.com/ru/post/674040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674040)
 <!-- BLOG-POST-LIST:END -->
