@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совершенный алгоритм. Жадные алгоритмы и динамическое программирование](https://habr.com/ru/post/674352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674352)
+- [Повлияй на будущее: третий ежегодный опрос IT-сообщества](https://habr.com/ru/post/674350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674350)
+- [Разрабатываем десктопное приложение для заметок с помощью Tauri &lpar;React + Rust&rpar;](https://habr.com/ru/post/674342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674342)
+- [Преподаватель на курсе для начинающих QA — юниксоид-безопасник. Стоп. Что? [Интервью]](https://habr.com/ru/post/674322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674322)
 - [It’s a match! Как тому самому инженеру и той самой компании найти друг друга? Часть 1](https://habr.com/ru/post/672872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672872)
-- [Что делать неизвестным в вашем git репозитории](https://habr.com/ru/post/673946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673946)
-- [Что Go грядущий нам готовит? Разбираем долгожданный релиз 1.19](https://habr.com/ru/post/674190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674190)
-- [Я проехал на односкоростном велосипеде 270 км за сутки чтобы показать атлетам, что набор высоты — это условность](https://habr.com/ru/post/674294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674294)
-- [Язык мой – враг мой](https://habr.com/ru/post/674282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674282)
 <!-- BLOG-POST-LIST:END -->
