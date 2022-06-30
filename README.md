@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s a match! Как тому самому инженеру и той самой компании найти друг друга? Часть 1](https://habr.com/ru/post/672872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672872)
+- [Что делать неизвестным в вашем git репозитории](https://habr.com/ru/post/673946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673946)
 - [Что Go грядущий нам готовит? Разбираем долгожданный релиз 1.19](https://habr.com/ru/post/674190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674190)
 - [Я проехал на односкоростном велосипеде 270 км за сутки чтобы показать атлетам, что набор высоты — это условность](https://habr.com/ru/post/674294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674294)
 - [Язык мой – враг мой](https://habr.com/ru/post/674282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674282)
-- [Что нужно разработчику для самообразования?](https://habr.com/ru/post/674280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674280)
-- [Итераторы в Python для самых маленьких](https://habr.com/ru/post/674194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674194)
 <!-- BLOG-POST-LIST:END -->
