@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Устраняем популярные изъяны в коде –– чек-лист ошибок junior-разработчиков](https://habr.com/ru/post/674434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674434)
 - [Контекстные многорукие бандиты для рекомендации контента, или Не Бернулли единым](https://habr.com/ru/post/673914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673914)
 - [Классические айподы. От первого до последнего](https://habr.com/ru/post/674394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674394)
 - [Поддержка mTLS в своём Service Mesh: чему мы научились](https://habr.com/ru/post/674296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674296)
 - [[Перевод] Fresh — фулл-стек фреймворк для Deno](https://habr.com/ru/post/674382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674382)
-- [[Перевод] Scrollbar в современном CSS](https://habr.com/ru/post/674244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674244)
 <!-- BLOG-POST-LIST:END -->
