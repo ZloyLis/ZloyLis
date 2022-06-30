@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вышел Git 2.37](https://habr.com/ru/post/674478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674478)
+- [[Перевод] Восторг от программирования](https://habr.com/ru/post/674480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674480)
 - [[Перевод] Туториал: SvelteKit JWT авторизация](https://habr.com/ru/post/674456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674456)
 - [Приключение на 5 минут: как мы переводили все зависимости на SPM](https://habr.com/ru/post/674406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674406)
 - [Чистая архитектура на Go: плюсы и минусы](https://habr.com/ru/post/674440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674440)
-- [Взгляд тестировщика на SOLID](https://habr.com/ru/post/674144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674144)
-- [Устраняем популярные изъяны в коде — чек-лист ошибок junior-разработчиков](https://habr.com/ru/post/674434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674434)
 <!-- BLOG-POST-LIST:END -->
