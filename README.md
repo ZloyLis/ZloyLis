@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Восемь самых востребованных языков программирования в 2022 году](https://habr.com/ru/post/674232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674232)
+- [«Скоро приедем?»: как оценить время в пути](https://habr.com/ru/post/674230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674230)
 - [Настройка ESLint для чистого кода в проектах на Vue](https://habr.com/ru/post/674036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674036)
 - [JIT-компилятор Python в 300 строк](https://habr.com/ru/post/674206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674206)
 - [Почему вам нужно адаптировать свое приложение для Huawei AppGallery и как это сделать](https://habr.com/ru/post/674198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674198)
-- [Как мы работаем над продуктовыми гипотезами](https://habr.com/ru/post/670236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=670236)
-- [Re2j вместо стандартного regEx в Java: в каких случаях и как использовать](https://habr.com/ru/post/674178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674178)
 <!-- BLOG-POST-LIST:END -->
