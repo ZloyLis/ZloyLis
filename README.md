@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддержка mTLS в своём Service Mesh: чему мы научились](https://habr.com/ru/post/674296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674296)
+- [[Перевод] Fresh — фулл-стек фреймворк для Deno](https://habr.com/ru/post/674382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674382)
+- [[Перевод] Scrollbar в современном CSS](https://habr.com/ru/post/674244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674244)
 - [Инфоинженер. Как я делал курс по NLP для МГТУ им. Баумана](https://habr.com/ru/post/674354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674354)
 - [[Перевод] Префиксное дерево &lpar;trie&rpar;](https://habr.com/ru/post/674378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674378)
-- [Как мы столкнулись с версионированием и осознали, что вариант «просто проставить цифры» не работает](https://habr.com/ru/post/674370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674370)
-- [Зачем айтишнику стажировка и где её найти](https://habr.com/ru/post/674336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674336)
-- [14 задач по Kotlin lists, которые заставят вас подумать](https://habr.com/ru/post/674040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674040)
 <!-- BLOG-POST-LIST:END -->
