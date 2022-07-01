@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отладка, модификация и устранение багов в сторонних 32-х и 64-х разрядных приложениях под ОС Windows](https://habr.com/ru/post/674384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674384)
+- [Расчёт электрических цепей методом структурных чисел для детей и взрослых](https://habr.com/ru/post/672900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672900)
+- [Из джуна в мидла: рекомендации, как справиться с проблемами роста](https://habr.com/ru/post/674366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674366)
+- [Как добавить список лицензий и благодарностей CocoaPods и при чём тут Settings.Bundle?](https://habr.com/ru/post/674550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674550)
 - [“Перевод стрелок” в проектировании](https://habr.com/ru/post/674542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674542)
-- [Обзор российской системы управления тестированием Test IT](https://habr.com/ru/post/674534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674534)
-- [Как провести юзабилити-тестирование с респондентом и не провалить его](https://habr.com/ru/post/673884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673884)
-- [[Перевод] Разговор с разработчиками о производительности на Flutter](https://habr.com/ru/post/674508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674508)
-- [Запуск одноразовых задач и отладка образов прямо в Kubernetes-кластере с помощью werf](https://habr.com/ru/post/671960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671960)
 <!-- BLOG-POST-LIST:END -->
