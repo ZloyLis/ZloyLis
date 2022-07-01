@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разговор с разработчиками о производительности на Flutter](https://habr.com/ru/post/674508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674508)
+- [Запуск одноразовых задач и отладка образов прямо в Kubernetes-кластере с помощью werf](https://habr.com/ru/post/671960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671960)
 - [Когда действительно пора делать микросервисы](https://habr.com/ru/post/674298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674298)
 - [[Перевод] Вышел Git 2.37](https://habr.com/ru/post/674478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674478)
 - [[Перевод] Восторг от программирования](https://habr.com/ru/post/674480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674480)
-- [[Перевод] Туториал: SvelteKit JWT авторизация](https://habr.com/ru/post/674456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674456)
-- [Приключение на 5 минут: как мы переводили все зависимости на SPM](https://habr.com/ru/post/674406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674406)
 <!-- BLOG-POST-LIST:END -->
