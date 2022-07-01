@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как тимлиду достоверно знать срок выполнения задач, не отвлекая подчиненных](https://habr.com/ru/post/674576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674576)
+- [Астрологи объявили сезон Java на Хабре](https://habr.com/ru/post/673202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673202)
 - [Как в Тинькофф запускали HashiCorp Vault](https://habr.com/ru/post/674582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674582)
 - [Универсальный интерфейс](https://habr.com/ru/post/674010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674010)
 - [Краткий обзор библиотеки so5extra с дополнениями для SObjectizer-5](https://habr.com/ru/post/674552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674552)
-- [Отладка, модификация и устранение багов в сторонних 32-х и 64-х разрядных приложениях под ОС Windows](https://habr.com/ru/post/674384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674384)
-- [Расчёт электрических цепей методом структурных чисел для детей и взрослых](https://habr.com/ru/post/672900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672900)
 <!-- BLOG-POST-LIST:END -->
