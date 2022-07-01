@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как BI «купается» в озёрах данных: практика платформы «Форсайт». Часть 4 &lpar;заключительная&rpar;. Кэширование — нужно или нет?](https://habr.com/ru/post/674462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674462)
 - [Оплачиваемые стажировки в QIWI — регистрация до 10 июля](https://habr.com/ru/post/674618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674618)
 - [[Перевод] Rust 1.62.0: cargo add, #[default] для перечислений, быстрые мьютексы на Linux и поддержка baremetal x86_64 платформ](https://habr.com/ru/post/674614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674614)
 - [[recovery mode] Вместе против социальных проблем: как прошел марафон идей Spotlight Digital Challenge](https://habr.com/ru/post/674612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674612)
 - [Микросервисы: плюсы, минусы, когда и зачем внедрять](https://habr.com/ru/post/674600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674600)
-- [Как тимлиду достоверно знать срок выполнения задач, не отвлекая подчиненных](https://habr.com/ru/post/674576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674576)
 <!-- BLOG-POST-LIST:END -->
