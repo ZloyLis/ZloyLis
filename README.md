@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как в Тинькофф запускали HashiCorp Vault](https://habr.com/ru/post/674582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674582)
+- [Универсальный интерфейс](https://habr.com/ru/post/674010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674010)
+- [Краткий обзор библиотеки so5extra с дополнениями для SObjectizer-5](https://habr.com/ru/post/674552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674552)
 - [Отладка, модификация и устранение багов в сторонних 32-х и 64-х разрядных приложениях под ОС Windows](https://habr.com/ru/post/674384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674384)
 - [Расчёт электрических цепей методом структурных чисел для детей и взрослых](https://habr.com/ru/post/672900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672900)
-- [Из джуна в мидла: рекомендации, как справиться с проблемами роста](https://habr.com/ru/post/674366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674366)
-- [Как добавить список лицензий и благодарностей CocoaPods и при чём тут Settings.Bundle?](https://habr.com/ru/post/674550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674550)
-- [“Перевод стрелок” в проектировании](https://habr.com/ru/post/674542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674542)
 <!-- BLOG-POST-LIST:END -->
