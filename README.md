@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оплачиваемые стажировки в QIWI — регистрация до 10 июля](https://habr.com/ru/post/674618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674618)
+- [[Перевод] Rust 1.62.0: cargo add, #[default] для перечислений, быстрые мьютексы на Linux и поддержка baremetal x86_64 платформ](https://habr.com/ru/post/674614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674614)
+- [[recovery mode] Вместе против социальных проблем: как прошел марафон идей Spotlight Digital Challenge](https://habr.com/ru/post/674612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674612)
+- [Микросервисы: плюсы, минусы, когда и зачем внедрять](https://habr.com/ru/post/674600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674600)
 - [Как тимлиду достоверно знать срок выполнения задач, не отвлекая подчиненных](https://habr.com/ru/post/674576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674576)
-- [Астрологи объявили сезон Java на Хабре](https://habr.com/ru/post/673202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673202)
-- [Как в Тинькофф запускали HashiCorp Vault](https://habr.com/ru/post/674582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674582)
-- [Универсальный интерфейс](https://habr.com/ru/post/674010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674010)
-- [Краткий обзор библиотеки so5extra с дополнениями для SObjectizer-5](https://habr.com/ru/post/674552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674552)
 <!-- BLOG-POST-LIST:END -->
