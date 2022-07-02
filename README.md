@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рабочий пример использования ArgoCD](https://habr.com/ru/post/674704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674704)
 - [Имплементируем WebSocket протокол на Go](https://habr.com/ru/post/674694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674694)
 - [Почему ошибаются программисты? Часть 1/2](https://habr.com/ru/post/674666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674666)
 - [Немного о «мертвом коде»](https://habr.com/ru/post/674640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674640)
 - [GitHub Copilot](https://habr.com/ru/post/674658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674658)
-- [Перевод Google TypeScript Style Guide](https://habr.com/ru/post/674628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674628)
 <!-- BLOG-POST-LIST:END -->
