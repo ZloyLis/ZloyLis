@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему ошибаются программисты? Часть 1/2](https://habr.com/ru/post/674666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674666)
 - [Немного о «мертвом коде»](https://habr.com/ru/post/674640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674640)
 - [GitHub Copilot](https://habr.com/ru/post/674658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674658)
 - [Поистине чудесное доказательство Великой теоремы](https://habr.com/ru/post/674636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674636)
 - [Как BI «купается» в озёрах данных: практика платформы «Форсайт». Часть 4 &lpar;заключительная&rpar;. Кэширование — нужно или нет?](https://habr.com/ru/post/674462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674462)
-- [Оплачиваемые стажировки в QIWI — регистрация до 10 июля](https://habr.com/ru/post/674618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674618)
 <!-- BLOG-POST-LIST:END -->
