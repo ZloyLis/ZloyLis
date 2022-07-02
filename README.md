@@ -30,5 +30,5 @@ ___
 - [Почему ошибаются программисты? Часть 1/2](https://habr.com/ru/post/674666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674666)
 - [Немного о «мертвом коде»](https://habr.com/ru/post/674640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674640)
 - [GitHub Copilot](https://habr.com/ru/post/674658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674658)
-- [Поистине чудесное доказательство Великой теоремы](https://habr.com/ru/post/674636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674636)
+- [Перевод Google TypeScript Style Guide](https://habr.com/ru/post/674628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674628)
 <!-- BLOG-POST-LIST:END -->
