@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест интересных материалов для мобильного разработчика #449 &lpar;27 июня — 3 июля&rpar;](https://habr.com/ru/post/674786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674786)
 - [[Перевод] Интерфейсы в C#: зачем они нужны?](https://habr.com/ru/post/674756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674756)
 - [Эволюция игрового фреймворка. Введение 1. Постановка проблемы](https://habr.com/ru/post/674754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674754)
 - [[Перевод] Фронтенд-разработка: ключевые технологии и понятия](https://habr.com/ru/post/674748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674748)
 - [Новые нули дзета-функции](https://habr.com/ru/post/674696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674696)
-- [Рабочий пример использования ArgoCD](https://habr.com/ru/post/674704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674704)
 <!-- BLOG-POST-LIST:END -->
