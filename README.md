@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как сравнивать распределения. От визуализации до статистических тестов](https://habr.com/ru/post/674880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674880)
 - [Взлетит или нет — сможет ли новый язык программирования Hare стать альтернативой Си](https://habr.com/ru/post/674890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674890)
 - [[recovery mode] Конец моим инвестициям в акции](https://habr.com/ru/post/675022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675022)
 - [Дайджест недели от Apple Pro Weekly News &lpar;27.06 – 03.07.22&rpar;](https://habr.com/ru/post/674820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674820)
 - [UX Notes — дайджест популярных заметок проектировщика](https://habr.com/ru/post/674974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674974)
-- [Flutter для автомобиля. А почему бы и нет?](https://habr.com/ru/post/674622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674622)
 <!-- BLOG-POST-LIST:END -->
