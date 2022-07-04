@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор Spring-компонентов. Часть 1 – Spring Boot и фреймворк интеграции](https://habr.com/ru/post/674858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674858)
+- [Переход с SAP на 1С: стоит ли?](https://habr.com/ru/post/674848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674848)
 - [Проксируйте всё](https://habr.com/ru/post/674840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674840)
 - [Впечатления от One Day Offer Frontend](https://habr.com/ru/post/674838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674838)
 - [5. Передаточные функции и уравнения динамики замкнутых систем автоматического регулирования &lpar;САР&rpar;](https://habr.com/ru/post/662882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662882)
-- [PureBasic для Raspberry PI](https://habr.com/ru/post/674810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674810)
-- [Взаимосвязь температуры и населения](https://habr.com/ru/post/674794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674794)
 <!-- BLOG-POST-LIST:END -->
