@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О проблемах информационной безопасности и IT образования на примере HTML Academy](https://habr.com/ru/post/672800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672800)
+- [Как подружиться с OOM Killer: кейс Southbridge](https://habr.com/ru/post/674926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674926)
+- [[Перевод] Как найти самый медленный запрос в приложении](https://habr.com/ru/post/674916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674916)
 - [Функциональные возможности Fiddler как инструмента для анализа и подмены HTTPS-трафика](https://habr.com/ru/post/674908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674908)
 - [Управляем параметрами в процессной аналитике при помощи фреймворка Hydra](https://habr.com/ru/post/674896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674896)
-- [[Перевод] F-строки в Python мощнее, чем можно подумать](https://habr.com/ru/post/674866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674866)
-- [Переход на SwiftUI: внедряем TabView взамен UITabBarController](https://habr.com/ru/post/674888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674888)
-- [Как и зачем поднимать гибридный фейковый API сервер на js?](https://habr.com/ru/post/674886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674886)
 <!-- BLOG-POST-LIST:END -->
