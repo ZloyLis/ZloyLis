@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UX Notes — дайджест популярных заметок проектировщика](https://habr.com/ru/post/674974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674974)
 - [Flutter для автомобиля. А почему бы и нет?](https://habr.com/ru/post/674622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674622)
 - [[Перевод] Оптимизация конфигурации Dockerfile в PHP](https://habr.com/ru/post/674952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674952)
 - [[Перевод] Создание RESTful HTTP-запросов на C++](https://habr.com/ru/post/674304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674304)
 - [Рынок онлайн-образования России: динамика развития с 2016 по 2021 год](https://habr.com/ru/post/674950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674950)
-- [Gitlab CI — использование label для управления пайплайнами в небольших командах](https://habr.com/ru/post/674932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674932)
 <!-- BLOG-POST-LIST:END -->
