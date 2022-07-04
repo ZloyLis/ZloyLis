@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [О проблемах информационной безопасности и IT образования на примере HTML Academy](https://habr.com/ru/post/672800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672800)
-- [Как подружиться с OOM Killer: кейс Southbridge](https://habr.com/ru/post/674926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674926)
-- [[Перевод] Как найти самый медленный запрос в приложении](https://habr.com/ru/post/674916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674916)
-- [Функциональные возможности Fiddler как инструмента для анализа и подмены HTTPS-трафика](https://habr.com/ru/post/674908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674908)
-- [Управляем параметрами в процессной аналитике при помощи фреймворка Hydra](https://habr.com/ru/post/674896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674896)
+- [Flutter для автомобиля. А почему бы и нет?](https://habr.com/ru/post/674622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674622)
+- [[Перевод] Оптимизация конфигурации Dockerfile в PHP](https://habr.com/ru/post/674952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674952)
+- [[Перевод] Создание RESTful HTTP-запросов на C++](https://habr.com/ru/post/674304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674304)
+- [Рынок онлайн-образования России: динамика развития с 2016 по 2021 год](https://habr.com/ru/post/674950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674950)
+- [Gitlab CI — использование label для управления пайплайнами в небольших командах](https://habr.com/ru/post/674932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674932)
 <!-- BLOG-POST-LIST:END -->
