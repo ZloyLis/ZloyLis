@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управляем параметрами в процессной аналитике при помощи фреймворка Hydra](https://habr.com/ru/post/674896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674896)
+- [[Перевод] F-строки в Python мощнее, чем можно подумать](https://habr.com/ru/post/674866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674866)
+- [Переход на SwiftUI: внедряем TabView взамен UITabBarController](https://habr.com/ru/post/674888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674888)
+- [Как и зачем поднимать гибридный фейковый API сервер на js?](https://habr.com/ru/post/674886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674886)
 - [Обзор Spring-компонентов. Часть 1 – Spring Boot и фреймворк интеграции](https://habr.com/ru/post/674858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674858)
-- [Переход с SAP на 1С: стоит ли?](https://habr.com/ru/post/674848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674848)
-- [Проксируйте всё](https://habr.com/ru/post/674840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674840)
-- [Впечатления от One Day Offer Frontend](https://habr.com/ru/post/674838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674838)
-- [5. Передаточные функции и уравнения динамики замкнутых систем автоматического регулирования &lpar;САР&rpar;](https://habr.com/ru/post/662882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=662882)
 <!-- BLOG-POST-LIST:END -->
