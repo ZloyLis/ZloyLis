@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как развивают ораторское искусство в ЛАНИТ](https://habr.com/ru/post/674124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674124)
 - [Security Week 2227: наполовину пропатченные уязвимости](https://habr.com/ru/post/675056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675056)
 - [Современная серверная разработка на языке Java: 1. Инструменты разработчика](https://habr.com/ru/post/675042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675042)
 - [[Перевод] Как сравнивать распределения. От визуализации до статистических тестов](https://habr.com/ru/post/674880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674880)
 - [Взлетит или нет — сможет ли новый язык программирования Hare стать альтернативой Си](https://habr.com/ru/post/674890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674890)
-- [Дайджест недели от Apple Pro Weekly News &lpar;27.06 – 03.07.22&rpar;](https://habr.com/ru/post/674820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674820)
 <!-- BLOG-POST-LIST:END -->
