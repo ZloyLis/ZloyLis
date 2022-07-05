@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идея о «печатном станке»: системные алгоритмы на рынке спортивных событий](https://habr.com/ru/post/675118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675118)
+- [Российское ПО или каково пить сладкий чай без сахара](https://habr.com/ru/post/672530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672530)
+- [В новом релизе Kubernetes-платформы Deckhouse 1.33 появился модуль Cilium](https://habr.com/ru/post/674066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674066)
 - [Новости из будущего: прогнозируем поведение пользователя](https://habr.com/ru/post/652371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=652371)
 - [Создание ботов для торговли криптовалютами и акциями на Postgres](https://habr.com/ru/post/675092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675092)
-- [Как развивают ораторское искусство в ЛАНИТ](https://habr.com/ru/post/674124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674124)
-- [Security Week 2227: наполовину пропатченные уязвимости](https://habr.com/ru/post/675056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675056)
-- [Современная серверная разработка на языке Java: 1. Инструменты разработчика](https://habr.com/ru/post/675042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675042)
 <!-- BLOG-POST-LIST:END -->
