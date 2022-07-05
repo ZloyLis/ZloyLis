@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CPPN + музыка. Генерируем музыкальное видео](https://habr.com/ru/post/675144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675144)
+- [Веб-разработчик — Яндекс.Практикум: отзыв о программе. Ошибка или нет?](https://habr.com/ru/post/675142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675142)
+- [Papers, please! Как устроены сервисы по распознаванию лиц для идентификации клиента и проверки документов](https://habr.com/ru/post/675124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675124)
 - [Идея о «печатном станке»: системные алгоритмы на рынке спортивных событий](https://habr.com/ru/post/675118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675118)
 - [Российское ПО или каково пить сладкий чай без сахара](https://habr.com/ru/post/672530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672530)
-- [В новом релизе Kubernetes-платформы Deckhouse 1.33 появился модуль Cilium](https://habr.com/ru/post/674066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674066)
-- [Новости из будущего: прогнозируем поведение пользователя](https://habr.com/ru/post/652371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=652371)
-- [Создание ботов для торговли криптовалютами и акциями на Postgres](https://habr.com/ru/post/675092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675092)
 <!-- BLOG-POST-LIST:END -->
