@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест заметок UX-дизайнера за июнь 2022](https://habr.com/ru/post/675160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675160)
 - [CPPN + музыка. Генерируем музыкальное видео](https://habr.com/ru/post/675144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675144)
 - [Веб-разработчик — Яндекс.Практикум: отзыв о программе. Ошибка или нет?](https://habr.com/ru/post/675142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675142)
 - [Papers, please! Как устроены сервисы по распознаванию лиц для идентификации клиента и проверки документов](https://habr.com/ru/post/675124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675124)
 - [Идея о «печатном станке»: системные алгоритмы на рынке спортивных событий](https://habr.com/ru/post/675118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675118)
-- [Российское ПО или каково пить сладкий чай без сахара](https://habr.com/ru/post/672530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672530)
 <!-- BLOG-POST-LIST:END -->
