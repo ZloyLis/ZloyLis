@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Pet-проект для обучения или как я в одиночку писал Helpdesk](https://habr.com/ru/post/675492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675492)
+- [Обзор книги «Теоретический минимум по Computer Science. Всё что нужно программисту и разработчику»](https://habr.com/ru/post/675456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675456)
 - [Как случайно не рассказать секреты всему миру](https://habr.com/ru/post/675468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675468)
 - [Как я перешел из нефтянки в IT за 1 год](https://habr.com/ru/post/675466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675466)
 - [Fresh – новый full stack фреймворк для Deno](https://habr.com/ru/post/674798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674798)
-- [[Перевод] Комплексный системный подход к разработке программного обеспечения](https://habr.com/ru/post/675430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675430)
-- [[Перевод] Написание чата с Akka](https://habr.com/ru/post/675432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675432)
 <!-- BLOG-POST-LIST:END -->
