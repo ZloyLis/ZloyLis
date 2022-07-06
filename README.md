@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нетривиальная тривиальность: как робота научить искать нужный предмет в куче хлама](https://habr.com/ru/post/675090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675090)
+- [Бот для определения болезни кошек](https://habr.com/ru/post/675322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675322)
 - [Фронтенд-новости №13. Релиз Vue 2.7, табы против пробелов Prettier, W3C — некоммерческая организация](https://habr.com/ru/post/675032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675032)
 - [Почему ошибаются программисты? Часть 2/2](https://habr.com/ru/post/675318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675318)
 - [Абстрактные войны: public interface IAbstraction против абстракции](https://habr.com/ru/post/675314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675314)
-- [Интеграция нагрузочного тестирования на Grafana K6 в CI/CD](https://habr.com/ru/post/675044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675044)
-- [Как сделать удобную дизайн-систему. Цвета. Часть 1](https://habr.com/ru/post/675232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675232)
 <!-- BLOG-POST-LIST:END -->
