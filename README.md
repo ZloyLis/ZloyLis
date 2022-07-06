@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как случайно не рассказать секреты всему миру](https://habr.com/ru/post/675468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675468)
+- [Как я перешел из нефтянки в IT за 1 год](https://habr.com/ru/post/675466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675466)
 - [Fresh – новый full stack фреймворк для Deno](https://habr.com/ru/post/674798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674798)
 - [[Перевод] Комплексный системный подход к разработке программного обеспечения](https://habr.com/ru/post/675430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675430)
 - [[Перевод] Написание чата с Akka](https://habr.com/ru/post/675432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675432)
-- [Обзор книги «Изучаем Java», худшая книга для начинающих с нуля](https://habr.com/ru/post/675420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675420)
-- [И целого проекта мало — как системному аналитику собрать побольше опыта и не сойти с ума](https://habr.com/ru/post/675414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675414)
 <!-- BLOG-POST-LIST:END -->
