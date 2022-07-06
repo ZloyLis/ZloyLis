@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PVS-Studio для проверки лабораторных работ на C и C++](https://habr.com/ru/post/675380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675380)
+- [Поиск идеального поиска: как устроены поисковые эксперименты на Юле](https://habr.com/ru/post/675366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675366)
+- [Зачем геймификация логистам?](https://habr.com/ru/post/675360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675360)
+- [Детектируем сетевые атаки с PT NAD: результаты пилотных проектов](https://habr.com/ru/post/675336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675336)
 - [Применение инструментов IaC в облаке](https://habr.com/ru/post/674842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674842)
-- [Ультра скорость для C# кода, запуск .NET на FPGA процессоре с HASTLAYER](https://habr.com/ru/post/674800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674800)
-- [Программирование JavaFX: разработка элементов интерфейса](https://habr.com/ru/post/673608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673608)
-- [Английский на работе: когда лучше не хвастаться словарным запасом](https://habr.com/ru/post/675242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675242)
-- [Человеческий капитал как основа устойчивого развития компании](https://habr.com/ru/post/675284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675284)
 <!-- BLOG-POST-LIST:END -->
