@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Комплексный системный подход к разработке программного обеспечения](https://habr.com/ru/post/675430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675430)
+- [[Перевод] Написание чата с Akka](https://habr.com/ru/post/675432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675432)
 - [Обзор книги «Изучаем Java», худшая книга для начинающих с нуля](https://habr.com/ru/post/675420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675420)
 - [И целого проекта мало — как системному аналитику собрать побольше опыта и не сойти с ума](https://habr.com/ru/post/675414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675414)
 - [Теория чисел. Новый метод анализа распределения чисел, в том числе и простых](https://habr.com/ru/post/675418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675418)
-- [DDD в Go: натягивание совы на глобус?](https://habr.com/ru/post/675408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675408)
-- [UNIGINE Open Air 2022: тусовка профессионалов разработки игр, VR и 3D-графики](https://habr.com/ru/post/675374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675374)
 <!-- BLOG-POST-LIST:END -->
