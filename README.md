@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Абстрактные войны: public interface IAbstraction против абстракции](https://habr.com/ru/post/675314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675314)
 - [Интеграция нагрузочного тестирования на Grafana K6 в CI/CD](https://habr.com/ru/post/675044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675044)
 - [Как сделать удобную дизайн-систему. Цвета. Часть 1](https://habr.com/ru/post/675232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675232)
 - [Wildcard-сертификат Let&#39;s Encrypt для внутренних сервисов в Kubernetes-кластере](https://habr.com/ru/post/674738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674738)
 - [Дайджест заметок UX-дизайнера за июнь 2022](https://habr.com/ru/post/675160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675160)
-- [CPPN + музыка. Генерируем музыкальное видео](https://habr.com/ru/post/675144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675144)
 <!-- BLOG-POST-LIST:END -->
