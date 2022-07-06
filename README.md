@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фронтенд-новости №13. Релиз Vue 2.7, табы против пробелов Prettier, W3C — некоммерческая организация](https://habr.com/ru/post/675032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675032)
+- [Почему ошибаются программисты? Часть 2/2](https://habr.com/ru/post/675318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675318)
 - [Абстрактные войны: public interface IAbstraction против абстракции](https://habr.com/ru/post/675314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675314)
 - [Интеграция нагрузочного тестирования на Grafana K6 в CI/CD](https://habr.com/ru/post/675044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675044)
 - [Как сделать удобную дизайн-систему. Цвета. Часть 1](https://habr.com/ru/post/675232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675232)
-- [Wildcard-сертификат Let&#39;s Encrypt для внутренних сервисов в Kubernetes-кластере](https://habr.com/ru/post/674738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674738)
-- [Дайджест заметок UX-дизайнера за июнь 2022](https://habr.com/ru/post/675160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675160)
 <!-- BLOG-POST-LIST:END -->
