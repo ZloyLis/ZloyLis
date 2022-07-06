@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нетривиальная тривиальность: как робота научить искать нужный предмет в куче хлама](https://habr.com/ru/post/675090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675090)
-- [Бот для определения болезни кошек](https://habr.com/ru/post/675322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675322)
-- [Фронтенд-новости №13. Релиз Vue 2.7, табы против пробелов Prettier, W3C — некоммерческая организация](https://habr.com/ru/post/675032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675032)
-- [Почему ошибаются программисты? Часть 2/2](https://habr.com/ru/post/675318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675318)
-- [Абстрактные войны: public interface IAbstraction против абстракции](https://habr.com/ru/post/675314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675314)
+- [Применение инструментов IaC в облаке](https://habr.com/ru/post/674842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674842)
+- [Ультра скорость для C# кода, запуск .NET на FPGA процессоре с HASTLAYER](https://habr.com/ru/post/674800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674800)
+- [Программирование JavaFX: разработка элементов интерфейса](https://habr.com/ru/post/673608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673608)
+- [Английский на работе: когда лучше не хвастаться словарным запасом](https://habr.com/ru/post/675242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675242)
+- [Человеческий капитал как основа устойчивого развития компании](https://habr.com/ru/post/675284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675284)
 <!-- BLOG-POST-LIST:END -->
