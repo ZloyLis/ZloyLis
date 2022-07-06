@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s a match! Как тому самому инженеру и той самой компании найти друг друга? Часть 2](https://habr.com/ru/post/672874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672874)
 - [PVS-Studio для проверки лабораторных работ на C и C++](https://habr.com/ru/post/675380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675380)
 - [Поиск идеального поиска: как устроены поисковые эксперименты на Юле](https://habr.com/ru/post/675366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675366)
 - [Зачем геймификация логистам?](https://habr.com/ru/post/675360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675360)
 - [Детектируем сетевые атаки с PT NAD: результаты пилотных проектов](https://habr.com/ru/post/675336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675336)
-- [Применение инструментов IaC в облаке](https://habr.com/ru/post/674842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674842)
 <!-- BLOG-POST-LIST:END -->
