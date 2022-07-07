@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширенная визуализация связанных данных. Простые инструменты для простых задач](https://habr.com/ru/post/675780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675780)
+- [AssertJ как способ значительно улучшить код ваших тестов](https://habr.com/ru/post/675778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675778)
 - [Всё о cookies в свете GDPR и не только](https://habr.com/ru/post/675742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675742)
 - [[Перевод] Сравнение JavaScript операторов typeof и insanceof](https://habr.com/ru/post/675746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675746)
 - [LiveOps карточки: как рассказать об ивенте прямо на странице приложения в App Store и Google Play](https://habr.com/ru/post/675376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675376)
-- [Повторное использование компонентов: живи, работай, повторяем цикл](https://habr.com/ru/post/675660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675660)
-- [Способы хранения графа в памяти компьютера](https://habr.com/ru/post/675730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675730)
 <!-- BLOG-POST-LIST:END -->
