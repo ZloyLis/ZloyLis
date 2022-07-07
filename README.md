@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Возможна ли работа с bluetooth в Android без местоположения?](https://habr.com/ru/post/675644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675644)
+- [Эпизод 1. Скрытая угроза Java Core. Уровень Юнглинг](https://habr.com/ru/post/675484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675484)
+- [Telegram-бот мониторинга состояния серверов на Haskell](https://habr.com/ru/post/675638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675638)
 - [Основы линейной алгебры для 3D-приложений. Урок 3](https://habr.com/ru/post/674540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674540)
 - [Kotlin — ещё меньше копипасты с делегатами локальных переменных](https://habr.com/ru/post/675552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675552)
-- [[Перевод] Поисковик Bing ходит по всем приватным ссылкам из Outlook. И это проблема](https://habr.com/ru/post/675618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675618)
-- [О каких инструментах вашей разработки стоит рассказать сообществу](https://habr.com/ru/post/675604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675604)
-- [Гипотеза Колатца](https://habr.com/ru/post/675594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675594)
 <!-- BLOG-POST-LIST:END -->
