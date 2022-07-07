@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучаем ResponseEntity&amp;lt;?&amp;gt; и избавляемся от него в контроллерах Spring](https://habr.com/ru/post/675716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675716)
+- [Тимлид без команды — всё ещё тимлид? Или уже нет?](https://habr.com/ru/post/675628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675628)
+- [Как сократить расходы в четыре раза при работе с сырыми данными в Google BigQuery](https://habr.com/ru/post/675614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675614)
 - [Compose End to End тестирование. Основы](https://habr.com/ru/post/674112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674112)
 - [Анализ сетевого трафика на iOS. Часть 2 — Фреймворки для анализа сетевого трафика мобильного приложения](https://habr.com/ru/post/675700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675700)
-- [[Перевод] Fluent Generics in C#](https://habr.com/ru/post/666244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666244)
-- [[Перевод] Сравнение JavaScript операторов typeof и insanceof](https://habr.com/ru/post/675684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675684)
-- [Взаимодействие в архитектуре микросервисов](https://habr.com/ru/post/675682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675682)
 <!-- BLOG-POST-LIST:END -->
