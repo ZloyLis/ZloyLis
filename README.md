@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Compose End to End тестирование. Основы](https://habr.com/ru/post/674112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674112)
+- [Анализ сетевого трафика на iOS. Часть 2 — Фреймворки для анализа сетевого трафика мобильного приложения](https://habr.com/ru/post/675700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675700)
+- [[Перевод] Fluent Generics in C#](https://habr.com/ru/post/666244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=666244)
 - [[Перевод] Сравнение JavaScript операторов typeof и insanceof](https://habr.com/ru/post/675684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675684)
 - [Взаимодействие в архитектуре микросервисов](https://habr.com/ru/post/675682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675682)
-- [[Перевод] Node.js: использование веб-потоков. Часть 1](https://habr.com/ru/post/675676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675676)
-- [10 вещей, которым я научился за 10 лет в IT](https://habr.com/ru/post/675674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675674)
-- [Разрабатываем универсальную форму на React и XState или новые приключения конечного автомата](https://habr.com/ru/post/675672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675672)
 <!-- BLOG-POST-LIST:END -->
