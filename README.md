@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Возможна ли работа с bluetooth в Android без местоположения?](https://habr.com/ru/post/675644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675644)
-- [Эпизод 1. Скрытая угроза Java Core. Уровень Юнглинг](https://habr.com/ru/post/675484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675484)
-- [Telegram-бот мониторинга состояния серверов на Haskell](https://habr.com/ru/post/675638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675638)
-- [Основы линейной алгебры для 3D-приложений. Урок 3](https://habr.com/ru/post/674540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674540)
-- [Kotlin — ещё меньше копипасты с делегатами локальных переменных](https://habr.com/ru/post/675552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675552)
+- [[Перевод] Сравнение JavaScript операторов typeof и insanceof](https://habr.com/ru/post/675684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675684)
+- [Взаимодействие в архитектуре микросервисов](https://habr.com/ru/post/675682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675682)
+- [[Перевод] Node.js: использование веб-потоков. Часть 1](https://habr.com/ru/post/675676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675676)
+- [10 вещей, которым я научился за 10 лет в IT](https://habr.com/ru/post/675674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675674)
+- [Разрабатываем универсальную форму на React и XState или новые приключения конечного автомата](https://habr.com/ru/post/675672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675672)
 <!-- BLOG-POST-LIST:END -->
