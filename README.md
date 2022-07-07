@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LiveOps карточки: как рассказать об ивенте прямо на странице приложения в App Store и Google Play](https://habr.com/ru/post/675376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675376)
 - [Повторное использование компонентов: живи, работай, повторяем цикл](https://habr.com/ru/post/675660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675660)
 - [Способы хранения графа в памяти компьютера](https://habr.com/ru/post/675730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675730)
 - [Изучаем ResponseEntity&amp;lt;?&amp;gt; и избавляемся от него в контроллерах Spring](https://habr.com/ru/post/675716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675716)
 - [Тимлид без команды — всё ещё тимлид? Или уже нет?](https://habr.com/ru/post/675628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675628)
-- [Как сократить расходы в четыре раза при работе с сырыми данными в Google BigQuery](https://habr.com/ru/post/675614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675614)
 <!-- BLOG-POST-LIST:END -->
