@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как правильно поставить задачу для разработки](https://habr.com/ru/post/675372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675372)
+- [[Перевод] Удивительное путешествие Нильса с дикими гусями по стране алгоритмов оптимизации](https://habr.com/ru/post/675344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675344)
 - [Ваш продукт без UX текстов: потрачено](https://habr.com/ru/post/674946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674946)
 - [Pet-проект для обучения или как я в одиночку писал Helpdesk](https://habr.com/ru/post/675492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675492)
 - [Обзор книги «Теоретический минимум по Computer Science. Всё что нужно программисту и разработчику»](https://habr.com/ru/post/675456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675456)
-- [Как случайно не рассказать секреты всему миру](https://habr.com/ru/post/675468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675468)
-- [Как я перешел из нефтянки в IT за 1 год](https://habr.com/ru/post/675466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675466)
 <!-- BLOG-POST-LIST:END -->
