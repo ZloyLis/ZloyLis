@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как продавать шкуры и ловить троллей в Telegram с помощью Kafka, Kubernetes, PostgreSQL и Redis](https://habr.com/ru/post/675792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675792)
 - [Расширенная визуализация связанных данных. Простые инструменты для простых задач](https://habr.com/ru/post/675780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675780)
 - [AssertJ как способ значительно улучшить код ваших тестов](https://habr.com/ru/post/675778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675778)
 - [Всё о cookies в свете GDPR и не только](https://habr.com/ru/post/675742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675742)
 - [[Перевод] Сравнение JavaScript операторов typeof и insanceof](https://habr.com/ru/post/675746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675746)
-- [LiveOps карточки: как рассказать об ивенте прямо на странице приложения в App Store и Google Play](https://habr.com/ru/post/675376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675376)
 <!-- BLOG-POST-LIST:END -->
