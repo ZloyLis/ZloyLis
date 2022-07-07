@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы линейной алгебры для 3D-приложений. Урок 3](https://habr.com/ru/post/674540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674540)
+- [Kotlin — ещё меньше копипасты с делегатами локальных переменных](https://habr.com/ru/post/675552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675552)
+- [[Перевод] Поисковик Bing ходит по всем приватным ссылкам из Outlook. И это проблема](https://habr.com/ru/post/675618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675618)
 - [О каких инструментах вашей разработки стоит рассказать сообществу](https://habr.com/ru/post/675604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675604)
 - [Гипотеза Колатца](https://habr.com/ru/post/675594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675594)
-- [Как правильно поставить задачу для разработки](https://habr.com/ru/post/675372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675372)
-- [[Перевод] Удивительное путешествие Нильса с дикими гусями по стране алгоритмов оптимизации](https://habr.com/ru/post/675344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675344)
-- [Ваш продукт без UX текстов: потрачено](https://habr.com/ru/post/674946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674946)
 <!-- BLOG-POST-LIST:END -->
