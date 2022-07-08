@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление складом через программу AS WMS: обзор возможностей модуля](https://habr.com/ru/post/675960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675960)
 - [Межмодульный анализ C и C++ проектов в деталях. Часть 1](https://habr.com/ru/post/675946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675946)
 - [[Перевод] Сравнение реализаций БПФ для .NET](https://habr.com/ru/post/675438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675438)
 - [Алгоритм ECDSA](https://habr.com/ru/post/675918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675918)
 - [Оптимизация цен на основе эластичности](https://habr.com/ru/post/673740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673740)
-- [[Перевод] Компьютеры быстры, но вы этого не знаете](https://habr.com/ru/post/675880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675880)
 <!-- BLOG-POST-LIST:END -->
