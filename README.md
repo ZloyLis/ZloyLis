@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация цен на основе эластичности](https://habr.com/ru/post/673740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673740)
+- [[Перевод] Компьютеры быстры, но вы этого не знаете](https://habr.com/ru/post/675880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675880)
 - [[Перевод] Я создал принтер чеков для issues в GitHub](https://habr.com/ru/post/675874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675874)
-- [Pycon Russia-2022: программа докладов, пиксель-мерч и песни у костра](https://habr.com/ru/post/675872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675872)
 - [[Перевод] Мониторинг PHP-приложений с помощью OpenTelemetry и SigNoz](https://habr.com/ru/post/675866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675866)
-- [Эволюция игрового фреймворка. Клиент 4. Вложенные компоненты](https://habr.com/ru/post/675846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675846)
 - [GAN-модели для генерации набора данных из изображений](https://habr.com/ru/post/675840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675840)
 <!-- BLOG-POST-LIST:END -->
