@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хочу перемен: почему пора переходить на Vue 3](https://habr.com/ru/post/675692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675692)
+- [Соглашения о вызовах](https://habr.com/ru/post/675774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675774)
 - [Как продавать шкуры и ловить троллей в Telegram с помощью Kafka, Kubernetes, PostgreSQL и Redis](https://habr.com/ru/post/675792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675792)
 - [Расширенная визуализация связанных данных. Простые инструменты для простых задач](https://habr.com/ru/post/675780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675780)
 - [AssertJ как способ значительно улучшить код ваших тестов](https://habr.com/ru/post/675778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675778)
-- [Всё о cookies в свете GDPR и не только](https://habr.com/ru/post/675742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675742)
-- [[Перевод] Сравнение JavaScript операторов typeof и insanceof](https://habr.com/ru/post/675746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675746)
 <!-- BLOG-POST-LIST:END -->
