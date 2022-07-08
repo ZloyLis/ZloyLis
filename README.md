@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция игрового фреймворка. Клиент 4. Вложенные компоненты](https://habr.com/ru/post/675846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675846)
+- [GAN-модели для генерации набора данных из изображений](https://habr.com/ru/post/675840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675840)
+- [«Учиться никогда не поздно»: реально ли стать тестировщиком в 70 лет](https://habr.com/ru/post/669438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669438)
+- [[Перевод] Архитектура реальной системы машинного обучения](https://habr.com/ru/post/673782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673782)
 - [Как с помощью Core Web Vitals влюбить в свой сайт пользователей и поисковые системы](https://habr.com/ru/post/675818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675818)
-- [Хочу перемен: почему пора переходить на Vue 3](https://habr.com/ru/post/675692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675692)
-- [Соглашения о вызовах](https://habr.com/ru/post/675774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675774)
-- [Как продавать шкуры и ловить троллей в Telegram с помощью Kafka, Kubernetes, PostgreSQL и Redis](https://habr.com/ru/post/675792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675792)
-- [Расширенная визуализация связанных данных. Простые инструменты для простых задач](https://habr.com/ru/post/675780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675780)
 <!-- BLOG-POST-LIST:END -->
