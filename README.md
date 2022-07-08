@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм ECDSA](https://habr.com/ru/post/675918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675918)
 - [Оптимизация цен на основе эластичности](https://habr.com/ru/post/673740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673740)
 - [[Перевод] Компьютеры быстры, но вы этого не знаете](https://habr.com/ru/post/675880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675880)
 - [[Перевод] Я создал принтер чеков для issues в GitHub](https://habr.com/ru/post/675874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675874)
 - [[Перевод] Мониторинг PHP-приложений с помощью OpenTelemetry и SigNoz](https://habr.com/ru/post/675866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675866)
-- [GAN-модели для генерации набора данных из изображений](https://habr.com/ru/post/675840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675840)
 <!-- BLOG-POST-LIST:END -->
