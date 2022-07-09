@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ecma International утвердила ECMAScript 2022: что в ней нового?](https://habr.com/ru/post/676032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676032)
 - [Обзор Spring-компонентов. Часть 2 – Spring Cloud](https://habr.com/ru/post/674882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674882)
 - [[Перевод] Что такое выпас данных и почему он необходим?](https://habr.com/ru/post/675796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675796)
 - [Парсинг дат в JS — добавляем русский язык в библиотеку Chrono](https://habr.com/ru/post/676026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676026)
 - [Telegram Web Apps &lpar;Повторное открытие последней страницы&rpar;](https://habr.com/ru/post/676016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676016)
-- [CI/CD для Helm Charts](https://habr.com/ru/post/676002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676002)
 <!-- BLOG-POST-LIST:END -->
