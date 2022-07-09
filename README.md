@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Web Apps &lpar;Повторное открытие последней страницы&rpar;](https://habr.com/ru/post/676016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676016)
 - [CI/CD для Helm Charts](https://habr.com/ru/post/676002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676002)
 - [[Перевод] Как писать преобразователи данных в Sklearn](https://habr.com/ru/post/675876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675876)
 - [Async/await в Swift 5.5: асинхронность «здорового человека»](https://habr.com/ru/post/675982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675982)
 - [Межмодульный анализ C и C++ проектов в деталях. Часть 1](https://habr.com/ru/post/675946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675946)
-- [[Перевод] Сравнение реализаций БПФ для .NET](https://habr.com/ru/post/675438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675438)
 <!-- BLOG-POST-LIST:END -->
