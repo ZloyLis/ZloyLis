@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Коллоквиум по программированию микроконтроллеров](https://habr.com/ru/post/676076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676076)
 - [История создания игры в одиночку](https://habr.com/ru/post/676070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676070)
 - [C++. Убираем приватные поля из описания класса или немного дурачества](https://habr.com/ru/post/676058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676058)
 - [[Перевод] Ecma International утвердила ECMAScript 2022: что в ней нового?](https://habr.com/ru/post/676032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676032)
 - [Обзор Spring-компонентов. Часть 2 – Spring Cloud](https://habr.com/ru/post/674882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674882)
-- [[Перевод] Что такое выпас данных и почему он необходим?](https://habr.com/ru/post/675796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675796)
 <!-- BLOG-POST-LIST:END -->
