@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [How-to: упаковать вашу экспертизу в IT в восхитительный онлайн-курс](https://habr.com/ru/post/676146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676146)
 - [Обзор книги Аллена Б. Дауни «Think Python. Основы Python»](https://habr.com/ru/post/676116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676116)
 - [Взять и защитить SDLC — чем поможет облако](https://habr.com/ru/post/675518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675518)
 - [Мои вопросы работодателю, когда подаюсь на разработчика](https://habr.com/ru/post/676108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676108)
 - [Круглое катать, прямоугольное тащить, деревья сажать](https://habr.com/ru/post/676100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676100)
-- [Swift. Менеджер сетевых запросов](https://habr.com/ru/post/676092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676092)
 <!-- BLOG-POST-LIST:END -->
