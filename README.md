@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Круглое катать, прямоугольное тащить, деревья сажать](https://habr.com/ru/post/676100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676100)
 - [Swift. Менеджер сетевых запросов](https://habr.com/ru/post/676092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676092)
 - [Как подружиться с межсистемной интеграцией?](https://habr.com/ru/post/676088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676088)
 - [Коллоквиум по программированию микроконтроллеров](https://habr.com/ru/post/676076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676076)
 - [История создания игры в одиночку](https://habr.com/ru/post/676070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676070)
-- [C++. Убираем приватные поля из описания класса или немного дурачества](https://habr.com/ru/post/676058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676058)
 <!-- BLOG-POST-LIST:END -->
