@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Взять и защитить SDLC — чем поможет облако](https://habr.com/ru/post/675518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675518)
+- [Мои вопросы работодателю, когда подаюсь на разработчика](https://habr.com/ru/post/676108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676108)
 - [Круглое катать, прямоугольное тащить, деревья сажать](https://habr.com/ru/post/676100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676100)
 - [Swift. Менеджер сетевых запросов](https://habr.com/ru/post/676092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676092)
 - [Как подружиться с межсистемной интеграцией?](https://habr.com/ru/post/676088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676088)
-- [Коллоквиум по программированию микроконтроллеров](https://habr.com/ru/post/676076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676076)
-- [История создания игры в одиночку](https://habr.com/ru/post/676070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676070)
 <!-- BLOG-POST-LIST:END -->
