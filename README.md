@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Даёшь огромным моделям колоссальные тренажёры](https://habr.com/ru/post/675852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675852)
-- [Процесс моделирования данных при разработке приложений](https://habr.com/ru/post/676130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676130)
-- [Дайджест интересных материалов для мобильного разработчика #450 &lpar;4 — 10 июля&rpar;](https://habr.com/ru/post/676194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676194)
-- [Сравнить таблицу и с её репликой](https://habr.com/ru/post/673506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673506)
-- [How-to: упаковать вашу экспертизу в IT в восхитительный онлайн-курс](https://habr.com/ru/post/676146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676146)
+- [[Перевод] Node.js: использование веб-потоков. Часть 2](https://habr.com/ru/post/676210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676210)
+- [Сравнение виртуальных и обычных потоков в Java](https://habr.com/ru/post/676084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676084)
+- [[Перевод] Статический анализ кода PHP — держите свой код под контролем](https://habr.com/ru/post/676126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676126)
+- [Как я реализовывал switch exhaustiveness checker для Java 8](https://habr.com/ru/post/676182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676182)
+- [[API как продукт] Технические способы борьбы с несанкционированным доступом к API](https://habr.com/ru/post/676222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676222)
 <!-- BLOG-POST-LIST:END -->
