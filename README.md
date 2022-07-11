@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание Aimbot для Half-Life 2](https://habr.com/ru/post/676270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676270)
+- [Как мы сделали самописный длиномер для работы в дата-центрах](https://habr.com/ru/post/676192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676192)
 - [Поговорим про безопасность в Dart и Flutter](https://habr.com/ru/post/676138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676138)
 - [Crossplane. Где встречаются Kubernetes и облака](https://habr.com/ru/post/676082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676082)
 - [Что нужно знать специалистам, работающим с Kubernetes](https://habr.com/ru/post/676256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676256)
-- [[Перевод] Бескомпромиссный CI-конвейер для питонистов](https://habr.com/ru/post/675304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675304)
-- [[Перевод] Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673268)
 <!-- BLOG-POST-LIST:END -->
