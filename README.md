@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Недооцененная альтернатива для HOC’ов и кастомных хуков в react и при чем здесь React.CloneElement?](https://habr.com/ru/post/676384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676384)
 - [Дайджест недели от Apple Pro Weekly News &lpar;04.07 – 10.07.22&rpar;](https://habr.com/ru/post/676372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676372)
 - [Security Week 2228: уязвимости в автомобильных брелоках](https://habr.com/ru/post/676220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676220)
 - [Статический анализатор кода vs разработчики. Шо, опять?](https://habr.com/ru/post/676338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676338)
 - [[Перевод] Создание Aimbot для Half-Life 2](https://habr.com/ru/post/676270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676270)
-- [Как мы сделали самописный длиномер для работы в дата-центрах](https://habr.com/ru/post/676192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676192)
 <!-- BLOG-POST-LIST:END -->
