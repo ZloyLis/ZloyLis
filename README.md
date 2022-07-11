@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [12 друзей инженера, работающего с Kubernetes](https://habr.com/ru/post/676256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676256)
 - [[Перевод] Бескомпромиссный CI-конвейер для питонистов](https://habr.com/ru/post/675304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675304)
 - [[Перевод] Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673268)
 - [Пишем свой Validation API для Spring Boot приложения](https://habr.com/ru/post/675902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675902)
 - [Разработка собственного плагина для сервера Minecraft](https://habr.com/ru/post/676248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676248)
-- [Ищем кротовые норы с помощью big data](https://habr.com/ru/post/669062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669062)
 <!-- BLOG-POST-LIST:END -->
