@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Джентльменский набор React компонентов FullStack разработчика для управления потоком данных](https://habr.com/ru/post/676612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676612)
 - [[Перевод] Шейдеры, голограммы и утечка света на чистом CSS](https://habr.com/ru/post/675862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675862)
 - [Практическое использование JCStress](https://habr.com/ru/post/673624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673624)
 - [Доступность и frontend: стандарты разработки продуктов для незрячих и слабовидящих людей](https://habr.com/ru/post/676536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676536)
 - [Raft &lpar;не&rpar;всемогущий: какие надстройки повышают надёжность алгоритма](https://habr.com/ru/post/675596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675596)
-- [Фронтенд-новости №14.Bun: новая среда выполнения JavaScript, руководство по созданию форм, «Дней без ошибок в коде: 0»](https://habr.com/ru/post/676104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676104)
 <!-- BLOG-POST-LIST:END -->
