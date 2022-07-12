@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор архитектур image-to-image translation](https://habr.com/ru/post/676296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676296)
+- [В Data Science не нужна математика &lpar;Почти&rpar;](https://habr.com/ru/post/676114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676114)
 - [Как сделать таск-трекер под себя на low-code конструкторе](https://habr.com/ru/post/673874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673874)
 - [Законы мира информационных технологий](https://habr.com/ru/post/675212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675212)
 - [[Перевод] Lombok. Полное руководство](https://habr.com/ru/post/676394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676394)
-- [Десять лет — полет нормальный](https://habr.com/ru/post/676436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676436)
-- [OpenLiteSpeed быстрый. Но не всегда](https://habr.com/ru/post/676318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676318)
 <!-- BLOG-POST-LIST:END -->
