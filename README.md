@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать таск-трекер под себя на low-code конструкторе](https://habr.com/ru/post/673874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673874)
 - [Законы мира информационных технологий](https://habr.com/ru/post/675212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675212)
 - [[Перевод] Lombok. Полное руководство](https://habr.com/ru/post/676394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676394)
+- [Десять лет — полет нормальный](https://habr.com/ru/post/676436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676436)
 - [OpenLiteSpeed быстрый. Но не всегда](https://habr.com/ru/post/676318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676318)
-- [19 способов сделать сокет-сервер на Python. Эволюционный подход. Часть 4. Сопрограммы в Python](https://habr.com/ru/post/676136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676136)
-- [История обрастания контентом одного продукта: как мы с нуля развивали техническую документацию](https://habr.com/ru/post/676416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676416)
 <!-- BLOG-POST-LIST:END -->
