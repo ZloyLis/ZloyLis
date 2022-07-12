@@ -28,7 +28,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Практическое использование JCStress](https://habr.com/ru/post/673624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673624)
 - [Доступность и frontend: стандарты разработки продуктов для незрячих и слабовидящих людей](https://habr.com/ru/post/676536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676536)
-- [Raft &lpar;не&rpar;всемогущий: какие надстройки повышают надёжность  алгоритма](https://habr.com/ru/post/675596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675596)
+- [Raft &lpar;не&rpar;всемогущий: какие надстройки повышают надёжность алгоритма](https://habr.com/ru/post/675596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675596)
 - [[recovery mode] Чемпионат или викторина? Сколково разыграет 2,5 месячных оклада Java-разработчика](https://habr.com/ru/post/676520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676520)
 - [Фронтенд-новости №14.Bun: новая среда выполнения JavaScript, руководство по созданию форм, «Дней без ошибок в коде: 0»](https://habr.com/ru/post/676104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676104)
 <!-- BLOG-POST-LIST:END -->
