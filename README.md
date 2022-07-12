@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Законы мира информационных технологий](https://habr.com/ru/post/675212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675212)
+- [[Перевод] Lombok. Полное руководство](https://habr.com/ru/post/676394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676394)
+- [OpenLiteSpeed быстрый. Но не всегда](https://habr.com/ru/post/676318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676318)
+- [19 способов сделать сокет-сервер на Python. Эволюционный подход. Часть 4. Сопрограммы в Python](https://habr.com/ru/post/676136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676136)
 - [История обрастания контентом одного продукта: как мы с нуля развивали техническую документацию](https://habr.com/ru/post/676416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676416)
-- [Клубничная чудо-коробка 2.0. Часть вторая](https://habr.com/ru/post/676386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676386)
-- [IEC 61499 и решения с открытым исходным кодом для разработки систем управления](https://habr.com/ru/post/676392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676392)
-- [Мотивация ученика: откуда она берется, как с ней работать и чья это зона ответственности?](https://habr.com/ru/post/675516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675516)
-- [В трафик сайтов опять внедряют посторонний контент. Как защититься?](https://habr.com/ru/post/676388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676388)
 <!-- BLOG-POST-LIST:END -->
