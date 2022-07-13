@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Языка С/C++ не существует](https://habr.com/ru/post/676816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676816)
 - [Взлом грамматики английского. Часть 2](https://habr.com/ru/post/676800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676800)
 - [SQL HowTo: наперегонки со временем](https://habr.com/ru/post/676784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676784)
 - [[recovery mode] Теория алгоритма, дающего смысл словам](https://habr.com/ru/post/676770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676770)
 - [[Перевод] Использование протокола MQTT в PHP](https://habr.com/ru/post/676284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676284)
-- [[Перевод] Прекратите использовать console.log](https://habr.com/ru/post/676738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
