@@ -32,3 +32,7 @@ ___
 - [Правила разработки документации ML-проекта](https://habr.com/ru/post/676716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676716)
 - [IT-забег по стране и винегрет из технологий: как прошёл «Вездекод» и что советуют участники](https://habr.com/ru/post/676694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676694)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloylis&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
