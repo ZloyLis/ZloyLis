@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Реклама на экране блокировки. Готовьтесь это ненавидеть](https://habr.com/ru/post/676072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676072)
-- [Сравнительный анализ эффективности работы Cython и Python](https://habr.com/ru/post/676426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676426)
-- [[Android] Ускорение сборок flavors и buildTypes малой кровью и кастомным BuildConfig](https://habr.com/ru/post/676634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676634)
-- [Обзор курса от Яндекс.Практикум «Инженер облачных сервисов», или Как мы томимся в ожидании заветных сертификатов](https://habr.com/ru/post/675974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675974)
-- [Джентльменский набор React компонентов FullStack разработчика для управления потоком данных](https://habr.com/ru/post/676612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676612)
+- [Go To Memory](https://habr.com/ru/post/676332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676332)
+- [[Перевод] Префиксное дерево &lpar;trie&rpar; — вставка и поиск](https://habr.com/ru/post/676692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676692)
+- [[Перевод] Префиксное дерево &lpar;trie&rpar; — вставка и поиск](https://habr.com/ru/post/676690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676690)
+- [[Перевод] Иммутабельность в C#](https://habr.com/ru/post/676680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676680)
+- [[Перевод] В чем проблема с базами данных «ключ-значение» и как ее решают Wide-column-хранилища](https://habr.com/ru/post/675556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675556)
 <!-- BLOG-POST-LIST:END -->
