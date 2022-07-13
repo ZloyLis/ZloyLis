@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор курса от Яндекс.Практикум «Инженер облачных сервисов», или Как мы томимся в ожидании заветных сертификатов](https://habr.com/ru/post/675974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675974)
 - [Джентльменский набор React компонентов FullStack разработчика для управления потоком данных](https://habr.com/ru/post/676612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676612)
 - [[Перевод] Шейдеры, голограммы и утечка света на чистом CSS](https://habr.com/ru/post/675862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675862)
 - [Практическое использование JCStress](https://habr.com/ru/post/673624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673624)
 - [Доступность и frontend: стандарты разработки продуктов для незрячих и слабовидящих людей](https://habr.com/ru/post/676536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676536)
-- [Raft &lpar;не&rpar;всемогущий: какие надстройки повышают надёжность алгоритма](https://habr.com/ru/post/675596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675596)
 <!-- BLOG-POST-LIST:END -->
