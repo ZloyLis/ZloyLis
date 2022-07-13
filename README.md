@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Теория алгоритма дающего смысл словам](https://habr.com/ru/post/676770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676770)
 - [[Перевод] Использование протокола MQTT в PHP](https://habr.com/ru/post/676284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676284)
 - [[Перевод] Прекратите использовать console.log](https://habr.com/ru/post/676738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676738)
 - [Правила разработки документации ML-проекта](https://habr.com/ru/post/676716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676716)
 - [IT-забег по стране и винегрет из технологий: как прошёл «Вездекод» и что советуют участники](https://habr.com/ru/post/676694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676694)
-- [Импортозамещение Camunda самописным BPM-механизмом](https://habr.com/ru/post/676156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676156)
 <!-- BLOG-POST-LIST:END -->
