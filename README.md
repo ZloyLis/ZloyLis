@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совершенный алгоритм. Алгоритмы для NP-трудных задач](https://habr.com/ru/post/676708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676708)
+- [Дизайн-система: что пошло не так и как мы это исправили](https://habr.com/ru/post/676700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676700)
 - [Go To Memory](https://habr.com/ru/post/676332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676332)
 - [[Перевод] Префиксное дерево &lpar;trie&rpar; — вставка и поиск](https://habr.com/ru/post/676692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676692)
-- [[Перевод] Префиксное дерево &lpar;trie&rpar; — вставка и поиск](https://habr.com/ru/post/676690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676690)
 - [[Перевод] Иммутабельность в C#](https://habr.com/ru/post/676680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676680)
-- [[Перевод] В чем проблема с базами данных «ключ-значение» и как ее решают Wide-column-хранилища](https://habr.com/ru/post/675556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675556)
 <!-- BLOG-POST-LIST:END -->
