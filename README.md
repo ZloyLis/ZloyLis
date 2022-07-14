@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Попытки в блог №0. Начало: embedded разработка и как я очутился на Хабре](https://habr.com/ru/post/676904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676904)
+- [[Перевод] Создание WebCron плагина для Joomla 4 &lpar;Task Scheduler Plugin&rpar;](https://habr.com/ru/post/676902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676902)
+- [Принципы юнит-тестирования. Часть первая](https://habr.com/ru/post/676840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676840)
+- [Пишем онлайн-тренажёр для Python, C++ и Go: опыт Практикума](https://habr.com/ru/post/676702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676702)
 - [Расстояние Левенштейна для чайников](https://habr.com/ru/post/676858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676858)
-- [Обработка исключений в Java в функциональном стиле](https://habr.com/ru/post/676852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676852)
-- [Уроки компьютерного зрения на Python + OpenCV с самых азов. Часть 7](https://habr.com/ru/post/676838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676838)
-- [Языка С/C++ не существует](https://habr.com/ru/post/676816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676816)
-- [Взлом грамматики английского. Часть 2](https://habr.com/ru/post/676800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
