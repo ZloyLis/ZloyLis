@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] [Новичкам] Фреймворк для создания QA тест плана](https://habr.com/ru/post/676922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676922)
+- [Найти вероятность выпадения k &lpar;сумма выпавших значений&rpar; при бросании n кубиков](https://habr.com/ru/post/676854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676854)
 - [Попытки в блог №0. Начало: embedded разработка и как я очутился на Хабре](https://habr.com/ru/post/676904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676904)
 - [[Перевод] Создание WebCron плагина для Joomla 4 &lpar;Task Scheduler Plugin&rpar;](https://habr.com/ru/post/676902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676902)
 - [Принципы юнит-тестирования. Часть первая](https://habr.com/ru/post/676840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676840)
-- [Пишем онлайн-тренажёр для Python, C++ и Go: опыт Практикума](https://habr.com/ru/post/676702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676702)
-- [Расстояние Левенштейна для чайников](https://habr.com/ru/post/676858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
