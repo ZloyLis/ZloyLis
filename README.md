@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой первый бот для Сервисдеска: умещается в кармане, расширяется как Вселенная](https://habr.com/ru/post/677022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677022)
+- [Почему спустя 5 лет код-ревью на Upsource мы перешли на GitLab](https://habr.com/ru/post/676938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676938)
 - [[Перевод] Как мы себя обманываем, только бы продолжать пользоваться Golang](https://habr.com/ru/post/676994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676994)
 - [Как мы управляем надежностью производственного оборудования огромной вертикально-интегрированной компании](https://habr.com/ru/post/676990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676990)
 - [Сказ о том, как мы Tarantool Kubernetes Operator писали](https://habr.com/ru/post/676972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676972)
-- [“На Usability -тестах с дворовым парнем” и другие истории о специфике модерации отдельных групп респондентов](https://habr.com/ru/post/669846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669846)
-- [Украшаем молоток: как автоматизировать разбор проблем в дебаггере](https://habr.com/ru/post/676298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
