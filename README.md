@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сказ о том, как мы Tarantool Kubernetes Operator писали](https://habr.com/ru/post/676972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676972)
+- [“На Usability -тестах с дворовым парнем” и другие истории о специфике модерации отдельных групп респондентов](https://habr.com/ru/post/669846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669846)
+- [Украшаем молоток: как автоматизировать разбор проблем в дебаггере](https://habr.com/ru/post/676298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676298)
+- [Как мы в hh.ru отправляем пользователям миллиард уведомлений в месяц](https://habr.com/ru/post/676912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676912)
 - [Обзор книги «Грокаем алгоритмы», поймёт даже кот](https://habr.com/ru/post/676966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676966)
-- [Сайт фотографа](https://habr.com/ru/post/676954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676954)
-- [Использование универсальных Helm чартов в проектах](https://habr.com/ru/post/676660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676660)
-- [Межмодульный анализ C и C++ проектов в деталях. Часть 2](https://habr.com/ru/post/676940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676940)
-- [[Перевод] [Новичкам] Фреймворк для создания QA тест плана](https://habr.com/ru/post/676922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
