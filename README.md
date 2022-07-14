@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расстояние Левенштейна для чайников](https://habr.com/ru/post/676858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676858)
 - [Обработка исключений в Java в функциональном стиле](https://habr.com/ru/post/676852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676852)
 - [Уроки компьютерного зрения на Python + OpenCV с самых азов. Часть 7](https://habr.com/ru/post/676838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676838)
 - [Языка С/C++ не существует](https://habr.com/ru/post/676816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676816)
 - [Взлом грамматики английского. Часть 2](https://habr.com/ru/post/676800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676800)
-- [SQL HowTo: наперегонки со временем](https://habr.com/ru/post/676784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
