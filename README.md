@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как нам живется без DLP: Пишем автоматизацию поиска конфиденциальных документов](https://habr.com/ru/post/677244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677244)
 - [[Перевод] Да, пользовательский ввод и модульные тесты могут сосуществовать](https://habr.com/ru/post/677218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677218)
 - [[Перевод] Подробно о мониторинге и профилировании JVM](https://habr.com/ru/post/677212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677212)
 - [Обзор книги «Искусство объяснять: Как сделать так, чтобы вас понимали с полуслова», автор Ли ЛеФевер](https://habr.com/ru/post/677210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677210)
 - [Python GUI. Обзор Hero Animation в библиотеке KivyMD](https://habr.com/ru/post/677190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677190)
-- [[Перевод] Пять типов вопросов на собеседованиях, которые я терпеть не могу](https://habr.com/ru/post/675798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
