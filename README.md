@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[API как продукт] Поддержка пользователй](https://habr.com/ru/post/677060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677060)
+- [Новинка от Apple: RoomPlan API](https://habr.com/ru/post/677090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677090)
+- [Лёгкий способ решать задачи о стрелках часов](https://habr.com/ru/post/676822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676822)
+- [[API как продукт] Поддержка пользователей](https://habr.com/ru/post/677060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677060)
 - [Вливаемся в Московскую биржу](https://habr.com/ru/post/677072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677072)
 - [Проектируем DataGrid на React так, чтобы сэкономить Boilerplate](https://habr.com/ru/post/677070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677070)
-- [[Перевод] Мой Javascript быстрее вашего Rust&#39;а](https://habr.com/ru/post/677050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677050)
-- [Мой первый бот для Сервисдеска: умещается в кармане, расширяется как Вселенная](https://habr.com/ru/post/677022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
