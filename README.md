@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Способы общения микросервисов для самых маленьких](https://habr.com/ru/post/677128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677128)
 - [Как создавать нативные компоненты и модули в React Native с помощью Swift](https://habr.com/ru/post/671978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=671978)
 - [Что общего у нуля, -1 и большого простого числа: Psychic Signatures в мире Java](https://habr.com/ru/post/676924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676924)
 - [Подборка самых просматриваемых докладов на PHDays 11. Трек «Технический доклад»](https://habr.com/ru/post/677114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677114)
 - [[recovery mode] [Async/await] Новые синтаксические конструкции языка Swift](https://habr.com/ru/post/677116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677116)
-- [3 пакета Python для генерации синтетических данных](https://habr.com/ru/post/676670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
