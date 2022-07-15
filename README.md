@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как перейти в девопс из администрирования или разработки и чем там придётся заниматься](https://habr.com/ru/post/677158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677158)
+- [Семейство тестов хи-квадрат: что у них под капотом и какие выбрать для сравнения воронок](https://habr.com/ru/post/677074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677074)
 - [Стажировки от лица ментора. Как? Кого? И зачем?](https://habr.com/ru/post/674220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674220)
 - [ИБ — новая инженерная подсистема ЦОД?](https://habr.com/ru/post/677120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677120)
 - [Способы общения микросервисов для самых маленьких](https://habr.com/ru/post/677128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677128)
