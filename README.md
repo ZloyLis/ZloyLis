@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструменты анализа временных рядов в ETNA](https://habr.com/ru/post/677186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677186)
 - [Сужение данных. Продолжение борьбы с переполнением](https://habr.com/ru/post/677224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677224)
 - [Топ 3 джентльменских хука для React разработчика на галере](https://habr.com/ru/post/677248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677248)
 - [Как нам живется без DLP: Пишем автоматизацию поиска конфиденциальных документов](https://habr.com/ru/post/677244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677244)
 - [[Перевод] Да, пользовательский ввод и модульные тесты могут сосуществовать](https://habr.com/ru/post/677218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677218)
-- [[Перевод] Подробно о мониторинге и профилировании JVM](https://habr.com/ru/post/677212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
