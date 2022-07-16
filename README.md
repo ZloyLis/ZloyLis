@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Создаем простой css gradient background creator](https://habr.com/ru/post/677286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677286)
+- [[recovery mode] Создаем простой gradient background creator на React](https://habr.com/ru/post/677286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677286)
 - [Умная консоль для WoW 3.3.5a](https://habr.com/ru/post/677282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677282)
 - [Инструменты анализа временных рядов в ETNA](https://habr.com/ru/post/677186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677186)
 - [Сужение данных. Продолжение борьбы с переполнением](https://habr.com/ru/post/677224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677224)
