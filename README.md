@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование sync/atomic в golang для float64](https://habr.com/ru/post/677332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677332)
 - [Создаем библиотеку для бота telegram](https://habr.com/ru/post/677322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677322)
 - [Как подступиться к оптимизации процессов и расходов в организации — Process Mining и его возможности](https://habr.com/ru/post/672886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672886)
 - [Работа над неразмеченными данными с QGIS и opentripmap на практике](https://habr.com/ru/post/677298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677298)
 - [Double, Float — не вещественные числа](https://habr.com/ru/post/677294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677294)
-- [Создание ботов для торговли криптовалютами и акциями &lpar;часть вторая&rpar;](https://habr.com/ru/post/677290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
