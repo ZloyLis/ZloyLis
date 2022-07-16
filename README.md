@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Double, Float — не вещественные числа](https://habr.com/ru/post/677294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677294)
 - [Создание ботов для торговли криптовалютами и акциями &lpar;часть вторая&rpar;](https://habr.com/ru/post/677290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677290)
 - [[Перевод] Распространенные ошибки при написании плагинов Joomla 4](https://habr.com/ru/post/677262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677262)
 - [[recovery mode] Создаем простой gradient background creator на React](https://habr.com/ru/post/677286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677286)
 - [Умная консоль для WoW 3.3.5a](https://habr.com/ru/post/677282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677282)
-- [Инструменты анализа временных рядов в ETNA](https://habr.com/ru/post/677186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
