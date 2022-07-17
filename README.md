@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пять распространенных ошибок памяти в JavaScript](https://habr.com/ru/post/677364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677364)
+- [[Перевод] Хороший инженер знает свои инструменты](https://habr.com/ru/post/677358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677358)
 - [[Перевод] Знакомство с тестированием веб-приложений](https://habr.com/ru/post/676752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676752)
 - [Получение generic-типа в runtime](https://habr.com/ru/post/588252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=588252)
 - [Миниатюрное десктопное GUI приложение на PHP — 2 МБ хватит для всех](https://habr.com/ru/post/674192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674192)
-- [Фронтенд-новости №15. CSS становится сложнее, VITE 3.0, самый высокий сайт в мире](https://habr.com/ru/post/677318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677318)
-- [«Врубай на Максиму!» или учимся решать математические задания для 6 и 7 классов в WxMaxima](https://habr.com/ru/post/677324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
