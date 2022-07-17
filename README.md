@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что там с квантово-устойчивой криптографией](https://habr.com/ru/post/677376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677376)
 - [Дайджест интересных материалов для мобильного разработчика #451 &lpar;11 — 17 июля&rpar;](https://habr.com/ru/post/677388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677388)
 - [Стоит ли тебе прочесть книгу «Идеальный программист»?](https://habr.com/ru/post/677250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677250)
 - [Эволюция игрового фреймворка 2. Клиент. Логика отображения](https://habr.com/ru/post/677312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677312)
 - [[Перевод] Как запланировать повторяющийся запуск VBA-процедуры в MS Excel без Application.OnTime](https://habr.com/ru/post/677368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677368)
-- [[Перевод] Пять распространенных ошибок памяти в JavaScript](https://habr.com/ru/post/677364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
