@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миниатюрное десктопное GUI приложение на PHP — 2 МБ хватит для всех](https://habr.com/ru/post/674192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674192)
+- [Фронтенд-новости №15. CSS становится сложнее, VITE 3.0, самый высокий сайт в мире](https://habr.com/ru/post/677318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677318)
 - [«Врубай на Максиму!» или учимся решать математические задания для 6 и 7 классов в WxMaxima](https://habr.com/ru/post/677324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677324)
 - [Использование sync/atomic в golang для float64](https://habr.com/ru/post/677332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677332)
 - [Создаем библиотеку для бота telegram](https://habr.com/ru/post/677322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677322)
-- [Как подступиться к оптимизации процессов и расходов в организации — Process Mining и его возможности](https://habr.com/ru/post/672886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672886)
-- [Работа над неразмеченными данными с QGIS и opentripmap на практике](https://habr.com/ru/post/677298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
