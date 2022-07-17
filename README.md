@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стоит ли тебе прочесть книгу «Идеальный программист»?](https://habr.com/ru/post/677250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677250)
 - [Эволюция игрового фреймворка 2. Клиент. Логика отображения](https://habr.com/ru/post/677312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677312)
 - [[Перевод] Как запланировать повторяющийся запуск VBA-процедуры в MS Excel без Application.OnTime](https://habr.com/ru/post/677368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677368)
 - [[Перевод] Пять распространенных ошибок памяти в JavaScript](https://habr.com/ru/post/677364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677364)
 - [[Перевод] Хороший инженер знает свои инструменты](https://habr.com/ru/post/677358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677358)
-- [[Перевод] Знакомство с тестированием веб-приложений](https://habr.com/ru/post/676752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
