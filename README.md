@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;11.07 – 17.07.22&rpar;](https://habr.com/ru/post/677612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677612)
 - [[Перевод] Функциональные интерфейсы в Java 8 → Consumer, Supplier, Predicate и Function. Что к чему и зачем нужны](https://habr.com/ru/post/677610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677610)
 - [Как сдвинуть эту махину: прийти в крупную компанию и не утонуть в бюрократии](https://habr.com/ru/post/677596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677596)
 - [Митап JUG.MSK: Константин Кривопустов о Jmix и Семён Киреков о Spring Data JPA](https://habr.com/ru/post/677326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677326)
 - [Security Week 2229: атака Retbleed ломает защиту от Spectre v2](https://habr.com/ru/post/677026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677026)
-- [[Перевод] Kafka и Chronicle Queue](https://habr.com/ru/post/677454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
