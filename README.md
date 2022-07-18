@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаем слайдер с изображением и текстом на React.js с нуля и оптимизируем](https://habr.com/ru/post/677236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677236)
+- [Десять предупреждений для желающих познакомиться поближе с Julia](https://habr.com/ru/post/676278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676278)
 - [Математика фронта «под одной крышей»](https://habr.com/ru/post/677416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677416)
 - [[Перевод] Миф о незаменимом разработчике](https://habr.com/ru/post/677414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677414)
 - [PrimeNG + NestJS = CRM — часть 1](https://habr.com/ru/post/677410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677410)
-- [Что там с квантово-устойчивой криптографией](https://habr.com/ru/post/677376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677376)
-- [Дайджест интересных материалов для мобильного разработчика #451 &lpar;11 — 17 июля&rpar;](https://habr.com/ru/post/677388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
