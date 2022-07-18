@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Митап JUG.MSK: Константин Кривопустов о Jmix и Семён Киреков о Spring Data JPA](https://habr.com/ru/post/677326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677326)
+- [Security Week 2229: атака Retbleed ломает защиту от Spectre v2](https://habr.com/ru/post/677026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677026)
 - [[Перевод] Kafka и Chronicle Queue](https://habr.com/ru/post/677454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677454)
 - [Какие процессы вашей разработки стоят того, чтобы о них рассказать сообществу](https://habr.com/ru/post/677474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677474)
 - [Разрушая монолиты: когда большие  автоматизированные системы пора менять на микросервисы](https://habr.com/ru/post/677472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677472)
-- [Количественные метрики на базе GOMS](https://habr.com/ru/post/677058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677058)
-- [Хорошие монолиты. Простая архитектура лучше всего](https://habr.com/ru/post/676780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
