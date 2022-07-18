@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CWE Top 25 2022. Обзор изменений](https://habr.com/ru/post/677440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677440)
 - [[Перевод] Портирование Doom на A/UX](https://habr.com/ru/post/677432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677432)
 - [[Перевод] Создаем слайдер с изображением и текстом на React.js с нуля и оптимизируем](https://habr.com/ru/post/677236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677236)
 - [Десять предупреждений для желающих познакомиться поближе с Julia](https://habr.com/ru/post/676278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676278)
 - [Математика фронта «под одной крышей»](https://habr.com/ru/post/677416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677416)
-- [[Перевод] Миф о незаменимом разработчике](https://habr.com/ru/post/677414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
