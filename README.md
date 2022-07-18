@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие процессы вашей разработки стоят того, чтобы о них рассказать сообществу](https://habr.com/ru/post/677474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677474)
+- [Разрушая монолиты: когда большие  автоматизированные системы пора менять на микросервисы](https://habr.com/ru/post/677472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677472)
 - [Количественные метрики на базе GOMS](https://habr.com/ru/post/677058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677058)
 - [Хорошие монолиты. Простая архитектура лучше всего](https://habr.com/ru/post/676780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676780)
 - [[Перевод] Go sync/singleflight: устранение дублирования идентичных запросов](https://habr.com/ru/post/677444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677444)
-- [CWE Top 25 2022. Обзор изменений](https://habr.com/ru/post/677440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677440)
-- [[Перевод] Чему я научился, прочитав «Software Engineering at Google»](https://habr.com/ru/post/677436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
