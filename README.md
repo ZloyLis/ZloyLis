@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я ощутимо улучшил свой английский бесплатно за 3 года](https://habr.com/ru/post/677628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677628)
+- [Восстанавливаем предложения из эмбеддингов LaBSE](https://habr.com/ru/post/677618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677618)
 - [Диспетчеризация методов iOS](https://habr.com/ru/post/677616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677616)
 - [Современная серверная разработка на языке Java: 2. Архитектура серверного приложения](https://habr.com/ru/post/677614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677614)
 - [Дайджест недели от Apple Pro Weekly News &lpar;11.07 – 17.07.22&rpar;](https://habr.com/ru/post/677612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677612)
-- [[Перевод] Функциональные интерфейсы в Java 8 → Consumer, Supplier, Predicate и Function. Что к чему и зачем нужны](https://habr.com/ru/post/677610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677610)
-- [Как сдвинуть эту махину: прийти в крупную компанию и не утонуть в бюрократии](https://habr.com/ru/post/677596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
