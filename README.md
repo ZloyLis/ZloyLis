@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как рендерить данные через fetch](https://habr.com/ru/post/677754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677754)
+- [Как устроена разработка ReactOS, зачем в неё контрибьютить и почему она уже 20 лет в альфе](https://habr.com/ru/post/677752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677752)
+- [Как мы построили систему онбординга для аналитиков-новичков: подводные камни и полезные приёмы](https://habr.com/ru/post/677748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677748)
+- [Flutter на Python](https://habr.com/ru/post/677734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677734)
 - [Производительность: нюансы против очевидностей. JDK edition](https://habr.com/ru/post/672146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672146)
-- [Обесцененное понятие UI, недооцененное UX и избыточное IXD](https://habr.com/ru/post/677700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677700)
-- [Предупреждения помогают писать лаконичный код](https://habr.com/ru/post/677672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677672)
-- [Обзор утилиты Lens. Управление кластером Kubernetes из графической оболочки](https://habr.com/ru/post/677420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677420)
-- [[Перевод] История стиля который никто не просил или body margin 8px](https://habr.com/ru/post/677658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
