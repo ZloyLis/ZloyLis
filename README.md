@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бэкдор в ML-моделях. Врага надо знать «в лицо»](https://habr.com/ru/post/677664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677664)
+- [Обзор утилиты Lens. Управление кластером Kubernetes из графической оболочки](https://habr.com/ru/post/677420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677420)
+- [[Перевод] История стиля который никто не просил или body margin 8px](https://habr.com/ru/post/677658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677658)
 - [Как я магистратуру по биоинформатике окончил](https://habr.com/ru/post/677586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677586)
 - [Фу, тестовое. Или 8 ошибок в заданиях для QA на живом примере](https://habr.com/ru/post/677566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677566)
-- [Статистический анализ по картинке](https://habr.com/ru/post/677636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677636)
-- [Как я ощутимо улучшил свой английский бесплатно за 3 года](https://habr.com/ru/post/677628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677628)
-- [Восстанавливаем предложения из эмбеддингов LaBSE](https://habr.com/ru/post/677618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
