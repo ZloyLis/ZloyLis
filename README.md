@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я магистратуру по биоинформатике окончил](https://habr.com/ru/post/677586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677586)
+- [Фу, тестовое. Или 8 ошибок в заданиях для QA на живом примере](https://habr.com/ru/post/677566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677566)
+- [Статистический анализ по картинке](https://habr.com/ru/post/677636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677636)
 - [Как я ощутимо улучшил свой английский бесплатно за 3 года](https://habr.com/ru/post/677628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677628)
 - [Восстанавливаем предложения из эмбеддингов LaBSE](https://habr.com/ru/post/677618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677618)
-- [Диспетчеризация методов iOS](https://habr.com/ru/post/677616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677616)
-- [Современная серверная разработка на языке Java: 2. Архитектура серверного приложения](https://habr.com/ru/post/677614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677614)
-- [Дайджест недели от Apple Pro Weekly News &lpar;11.07 – 17.07.22&rpar;](https://habr.com/ru/post/677612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
