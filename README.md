@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Производительность: нюансы против очевидностей. JDK edition](https://habr.com/ru/post/672146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672146)
 - [Обесцененное понятие UI, недооцененное UX и избыточное IXD](https://habr.com/ru/post/677700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677700)
 - [Предупреждения помогают писать лаконичный код](https://habr.com/ru/post/677672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677672)
 - [Обзор утилиты Lens. Управление кластером Kubernetes из графической оболочки](https://habr.com/ru/post/677420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677420)
 - [[Перевод] История стиля который никто не просил или body margin 8px](https://habr.com/ru/post/677658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677658)
-- [Как я магистратуру по биоинформатике окончил](https://habr.com/ru/post/677586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
