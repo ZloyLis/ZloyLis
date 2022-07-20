@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Установка MongoDB в условиях санкций через прокси](https://habr.com/ru/post/678018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678018)
 - [Эволюция игрового фреймворка. Клиент 3. Слои логики](https://habr.com/ru/post/677854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677854)
 - [Не так страшен Rust, как его излагают](https://habr.com/ru/post/677978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677978)
 - [Всё хорошо в «Меру»: сервис для сбора фидбэка и управления временем](https://habr.com/ru/post/677950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677950)
 - [Наняли админов? Разобрались с DevOps? Время подумать об SRE](https://habr.com/ru/post/677470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677470)
-- [Process Mining по шагам: как настроить и запустить процессную аналитику в компании](https://habr.com/ru/post/677922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
