@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Так почему джуны все-таки не нужны?](https://habr.com/ru/post/677902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677902)
+- [Vue здорового pragmatica. Как правильно делать выбор между React и Angular](https://habr.com/ru/post/677896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677896)
 - [Эволюция игрового фреймворка. Клиент 2. Менеджеры и другие классы](https://habr.com/ru/post/677386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677386)
 - [3D-объекты во Flutter. Расширяем Flame](https://habr.com/ru/post/677844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677844)
 - [Как мы обучали категоризатор фискальных чеков DataCheckEngine](https://habr.com/ru/post/677858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677858)
-- [Проект — электрический помощник для редакции RUVDS](https://habr.com/ru/post/677482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677482)
-- [[Перевод] В условиях параллелизма обнуление памяти замедляется](https://habr.com/ru/post/677872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
