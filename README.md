@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наняли админов? Разобрались с DevOps? Время подумать об SRE](https://habr.com/ru/post/677470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677470)
+- [Process Mining по шагам: как настроить и запустить процессную аналитику в компании](https://habr.com/ru/post/677922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677922)
 - [[Перевод] Data Quality: новые правила](https://habr.com/ru/post/674830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674830)
 - [Так почему джуны все-таки не нужны?](https://habr.com/ru/post/677902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677902)
 - [Vue здорового pragmatica. Как правильно делать выбор между React и Angular](https://habr.com/ru/post/677896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677896)
-- [Эволюция игрового фреймворка. Клиент 2. Менеджеры и другие классы](https://habr.com/ru/post/677386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677386)
-- [3D-объекты во Flutter. Расширяем Flame](https://habr.com/ru/post/677844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
