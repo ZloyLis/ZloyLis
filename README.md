@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование JavaFX: использование SceneBuilder](https://habr.com/ru/post/676290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676290)
+- [Голосовые приложения для Маруси: идеи и разработки слушателей Академии больших данных MADE в VK](https://habr.com/ru/post/677696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677696)
+- [Sass: разрабатываем дизайн-систему](https://habr.com/ru/post/677866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677866)
 - [Pet-проекты, заметки и практика. Как перейти из backend-разработки в ML](https://habr.com/ru/post/677838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677838)
 - [Тотальная декомпозиция в Jetpack Compose. И причем здесь навигация](https://habr.com/ru/post/677822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677822)
-- [Gradle и нетривиальная конфигурация](https://habr.com/ru/post/677826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677826)
-- [Лояльность покупателей — гигантская ответственность, а не просто технологии](https://habr.com/ru/post/677792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677792)
-- [Как устроена разработка ReactOS, зачем в неё контрибьютить и почему она уже 20 лет в альфе](https://habr.com/ru/post/677752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
