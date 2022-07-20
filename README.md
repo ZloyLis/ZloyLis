@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Программирование JavaFX: использование SceneBuilder](https://habr.com/ru/post/676290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676290)
-- [Голосовые приложения для Маруси: идеи и разработки слушателей Академии больших данных MADE в VK](https://habr.com/ru/post/677696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677696)
-- [Sass: разрабатываем дизайн-систему](https://habr.com/ru/post/677866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677866)
-- [Pet-проекты, заметки и практика. Как перейти из backend-разработки в ML](https://habr.com/ru/post/677838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677838)
-- [Тотальная декомпозиция в Jetpack Compose. И причем здесь навигация](https://habr.com/ru/post/677822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677822)
+- [Эволюция игрового фреймворка. Клиент 2. Менеджеры и другие классы](https://habr.com/ru/post/677386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677386)
+- [3D-объекты во Flutter. Расширяем Flame](https://habr.com/ru/post/677844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677844)
+- [Как мы обучали категоризатор фискальных чеков DataCheckEngine](https://habr.com/ru/post/677858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677858)
+- [Проект — электрический помощник для редакции RUVDS](https://habr.com/ru/post/677482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677482)
+- [[Перевод] В условиях параллелизма обнуление памяти замедляется](https://habr.com/ru/post/677872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
