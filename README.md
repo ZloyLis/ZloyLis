@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Go-разработчику сэкономить несколько недель жизни](https://habr.com/ru/post/676486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676486)
+- [Тех же щей, да поменьше влей: оптимизируем расход ферросплавов с помощью ML](https://habr.com/ru/post/676294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676294)
+- [[Перевод] Слепые для слепых: история программ для чтения с экрана](https://habr.com/ru/post/678162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678162)
 - [[Перевод] Депрекации в грядущем PHP 8.2, о которых вам следует знать](https://habr.com/ru/post/678176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678176)
 - [Нагрузочный клиент по тестированию Кафка в Avro формате на Java](https://habr.com/ru/post/678144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678144)
-- [Конкурс внимательности: PVS-Studio vs Хакер](https://habr.com/ru/post/678164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678164)
-- [Как начинающему дизайнеру легко найти первую работу](https://habr.com/ru/post/677976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677976)
-- [MLOPS. Жизненный цикл ML-систем: от идеи до продакшна](https://habr.com/ru/post/678150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
