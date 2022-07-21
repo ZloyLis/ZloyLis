@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [КАК НАЧИНАЮЩЕМУ ДИЗАЙНЕРУ ЛЕГКО НАЙТИ ПЕРВУЮ РАБОТУ](https://habr.com/ru/post/677976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677976)
+- [MLOPS. Жизненный цикл ML-систем: от идеи до продакшна](https://habr.com/ru/post/678150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678150)
+- [7 способов лучше понимать потребности пользователей и доносить их до команды разработки](https://habr.com/ru/post/678138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678138)
+- [Прагматичная разработка](https://habr.com/ru/post/677288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677288)
 - [Тишина должна быть в библиотеке! Как мы рефачили библиотеку для работы с API и создали свой Repository](https://habr.com/ru/post/678120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678120)
-- [Андрей Ситник: программист не обязан становиться инфлюенсером](https://habr.com/ru/post/678094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678094)
-- [Как войти в блокчейн-разработку через Java и Kotlin: представляем JVM SDK смарт-контрактов](https://habr.com/ru/post/678062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678062)
-- [Успеть до восстания машин: как стать программистом роботов](https://habr.com/ru/post/677670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677670)
-- [[Перевод] Как работают браузеры. Часть 2: парсинг и выполнение JS](https://habr.com/ru/post/678034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
