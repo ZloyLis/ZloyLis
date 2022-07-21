@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как работают браузеры. Часть 2: парсинг и выполнение JS](https://habr.com/ru/post/678034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678034)
+- [Не трогайте разработчиков. Отстаньте. Просто не беспокойте](https://habr.com/ru/post/678000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678000)
 - [GraphQL, что ты такое?](https://habr.com/ru/post/677972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677972)
 - [[Перевод] Как работают регулярные выражения, или Движок regex с анимацией](https://habr.com/ru/post/677402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677402)
 - [Установка MongoDB в условиях санкций через прокси](https://habr.com/ru/post/678018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678018)
-- [Эволюция игрового фреймворка. Клиент 3. Слои логики](https://habr.com/ru/post/677854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677854)
-- [Не так страшен Rust, как его излагают](https://habr.com/ru/post/677978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
