@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Андрей Ситник: программист не обязан становиться инфлюенсером](https://habr.com/ru/post/678094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678094)
 - [Как войти в блокчейн-разработку через Java и Kotlin: представляем JVM SDK смарт-контрактов](https://habr.com/ru/post/678062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678062)
 - [Успеть до восстания машин: как стать программистом роботов](https://habr.com/ru/post/677670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677670)
 - [[Перевод] Как работают браузеры. Часть 2: парсинг и выполнение JS](https://habr.com/ru/post/678034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678034)
 - [Не трогайте разработчиков. Отстаньте. Просто не беспокойте](https://habr.com/ru/post/678000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678000)
-- [GraphQL, что ты такое?](https://habr.com/ru/post/677972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
