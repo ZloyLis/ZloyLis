@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [КАК НАЧИНАЮЩЕМУ ДИЗАЙНЕРУ ЛЕГКО НАЙТИ ПЕРВУЮ РАБОТУ](https://habr.com/ru/post/677976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677976)
+- [[Перевод] Депрекации в грядущем PHP 8.2, о которых вам следует знать](https://habr.com/ru/post/678176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678176)
+- [Нагрузочный клиент по тестированию Кафка в Avro формате на Java](https://habr.com/ru/post/678144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678144)
+- [Конкурс внимательности: PVS-Studio vs Хакер](https://habr.com/ru/post/678164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678164)
+- [Как начинающему дизайнеру легко найти первую работу](https://habr.com/ru/post/677976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677976)
 - [MLOPS. Жизненный цикл ML-систем: от идеи до продакшна](https://habr.com/ru/post/678150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678150)
-- [7 способов лучше понимать потребности пользователей и доносить их до команды разработки](https://habr.com/ru/post/678138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678138)
-- [Прагматичная разработка](https://habr.com/ru/post/677288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677288)
-- [Тишина должна быть в библиотеке! Как мы рефачили библиотеку для работы с API и создали свой Repository](https://habr.com/ru/post/678120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
