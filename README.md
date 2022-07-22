@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сети на Linux: все ещё достойны](https://habr.com/ru/post/678428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678428)
+- [Теория алгоритма лежащего в основе фантазирования реальностью в мозге](https://habr.com/ru/post/678462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678462)
 - [Как за две недели освоиться с реальным проектом: стандарт OMG Essence](https://habr.com/ru/post/678436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678436)
 - [Метрики тестирования, которые вы точно должны внедрить в процесс](https://habr.com/ru/post/678380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678380)
 - [[recovery mode] В Мурманске завершился хакатон «Умный город» с призовым фондом 1 млн рублей](https://habr.com/ru/post/678348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678348)
-- [Параллельная обработка и преобразование json-фалов в pandas](https://habr.com/ru/post/678384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678384)
-- [Продолжаем избавляться от шаблонного кода: переиспользуемый делегат табличных экранов](https://habr.com/ru/post/678354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
