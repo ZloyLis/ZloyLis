@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility в Android для чайников: адаптируем приложение для незрячих людей](https://habr.com/ru/post/678294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678294)
+- [Новости Data Science: факт-чек Википедии при помощи Sphere, обучение AI-геймингу, обложка для Cosmopolitan и кое-что еще](https://habr.com/ru/post/678356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678356)
 - [Еще один подход к аугментации табличных данных](https://habr.com/ru/post/678134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678134)
 - [[Перевод] Начало работы с управлением политиками Kubernetes и Kyverno на платформе контейнеров OpenShift](https://habr.com/ru/post/676302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676302)
 - [«Звезда» — оптимальная структура данных при переходе на российский BI](https://habr.com/ru/post/678346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678346)
-- [Прагматичная разработка-2](https://habr.com/ru/post/677534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677534)
-- [C#: required](https://habr.com/ru/post/678320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
