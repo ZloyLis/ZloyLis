@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще один подход к аугментации табличных данных](https://habr.com/ru/post/678134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678134)
+- [[Перевод] Начало работы с управлением политиками Kubernetes и Kyverno на платформе контейнеров OpenShift](https://habr.com/ru/post/676302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676302)
+- [«Звезда» — оптимальная структура данных при переходе на российский BI](https://habr.com/ru/post/678346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678346)
 - [Прагматичная разработка-2](https://habr.com/ru/post/677534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677534)
 - [C#: required](https://habr.com/ru/post/678320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678320)
-- [Swift. Сериализация параметров запроса](https://habr.com/ru/post/678304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678304)
-- [Как научиться чувствовать треки? Визуализация музыкальных частот в Моей волне](https://habr.com/ru/post/678102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678102)
-- [[Перевод] Как создать и развернуть библиотеку компонентов Vue в NPM](https://habr.com/ru/post/678274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
