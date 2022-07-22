@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как научиться чувствовать треки? Визуализация музыкальных частот в Моей волне](https://habr.com/ru/post/678102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678102)
 - [[Перевод] Как создать и развернуть библиотеку компонентов Vue в NPM](https://habr.com/ru/post/678274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678274)
 - [[API как продукт] Документация](https://habr.com/ru/post/678270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678270)
 - [Из вагона направо: как работают подсказки 2ГИС](https://habr.com/ru/post/678030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678030)
 - [Marantz PMD430: профессиональный кассетный портатив](https://habr.com/ru/post/678242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678242)
-- [Как Go-разработчику сэкономить несколько недель жизни](https://habr.com/ru/post/676486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
