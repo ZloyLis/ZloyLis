@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Из вагона направо: как работают подсказки 2ГИС](https://habr.com/ru/post/678030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678030)
 - [Marantz PMD430: профессиональный кассетный портатив](https://habr.com/ru/post/678242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678242)
 - [Как Go-разработчику сэкономить несколько недель жизни](https://habr.com/ru/post/676486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676486)
 - [Тех же щей, да поменьше влей: оптимизируем расход ферросплавов с помощью ML](https://habr.com/ru/post/676294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676294)
 - [[Перевод] Слепые для слепых: история программ для чтения с экрана](https://habr.com/ru/post/678162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678162)
-- [[Перевод] Депрекации в грядущем PHP 8.2, о которых вам следует знать](https://habr.com/ru/post/678176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
