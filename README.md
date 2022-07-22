@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прагматичная разработка-2](https://habr.com/ru/post/677534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677534)
+- [C#: required](https://habr.com/ru/post/678320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678320)
 - [Swift. Сериализация параметров запроса](https://habr.com/ru/post/678304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678304)
 - [Как научиться чувствовать треки? Визуализация музыкальных частот в Моей волне](https://habr.com/ru/post/678102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678102)
 - [[Перевод] Как создать и развернуть библиотеку компонентов Vue в NPM](https://habr.com/ru/post/678274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678274)
-- [[API как продукт] Документация](https://habr.com/ru/post/678270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678270)
-- [Из вагона направо: как работают подсказки 2ГИС](https://habr.com/ru/post/678030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
