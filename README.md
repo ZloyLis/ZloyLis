@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прагматичная разработка-3](https://habr.com/ru/post/677594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677594)
+- [Как добавить поиск на свой Hugo сайт](https://habr.com/ru/post/678506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678506)
 - [Сети на Linux: все ещё достойны](https://habr.com/ru/post/678428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678428)
 - [Теория алгоритма лежащего в основе фантазирования реальностью в мозге](https://habr.com/ru/post/678462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678462)
 - [Как за две недели освоиться с реальным проектом: стандарт OMG Essence](https://habr.com/ru/post/678436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678436)
-- [Метрики тестирования, которые вы точно должны внедрить в процесс](https://habr.com/ru/post/678380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678380)
-- [[recovery mode] В Мурманске завершился хакатон «Умный город» с призовым фондом 1 млн рублей](https://habr.com/ru/post/678348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
