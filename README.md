@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой опыт flutter собеседований](https://habr.com/ru/post/678560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678560)
 - [«Домашний компьютер» 1987 — моя первая компьютерная книжка](https://habr.com/ru/post/678542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678542)
 - [[Перевод] Как происходит рендер пользовательских полей в Joomla?](https://habr.com/ru/post/678538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678538)
 - [[Перевод] Строим правильный монолит](https://habr.com/ru/post/678484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678484)
 - [Прагматичная разработка-3: телеграм-бот](https://habr.com/ru/post/677594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677594)
-- [Как добавить поиск на свой Hugo сайт](https://habr.com/ru/post/678506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
