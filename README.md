@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Прагматичная разработка-3](https://habr.com/ru/post/677594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677594)
+- [Прагматичная разработка-3: телеграм-бот](https://habr.com/ru/post/677594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677594)
 - [Как добавить поиск на свой Hugo сайт](https://habr.com/ru/post/678506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678506)
 - [Сети на Linux: все ещё достойны](https://habr.com/ru/post/678428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678428)
 - [Теория алгоритма лежащего в основе фантазирования реальностью в мозге](https://habr.com/ru/post/678462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678462)
