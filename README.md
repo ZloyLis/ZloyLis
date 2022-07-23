@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обмен данными между Phaser.js и Vue.js используя Vuex](https://habr.com/ru/post/678584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678584)
+- [Дизайн и эволюция языка С++](https://habr.com/ru/post/678582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678582)
 - [Мой опыт flutter собеседований](https://habr.com/ru/post/678560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678560)
 - [«Домашний компьютер» 1987 — моя первая компьютерная книжка](https://habr.com/ru/post/678542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678542)
 - [[Перевод] Как происходит рендер пользовательских полей в Joomla?](https://habr.com/ru/post/678538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678538)
-- [[Перевод] Строим правильный монолит](https://habr.com/ru/post/678484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678484)
-- [Прагматичная разработка-3: телеграм-бот](https://habr.com/ru/post/677594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
