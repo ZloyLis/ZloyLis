@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Bot на Kotlin: Командуем](https://habr.com/ru/post/677624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677624)
 - [Telegram BOT API: добавляем кнопки к сообщениям и обрабатываем их на стороне сервера](https://habr.com/ru/post/678664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678664)
 - [Как ничего не умея осуществить мечту?](https://habr.com/ru/post/678656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678656)
 - [Управление громкостью звука жестами на Python](https://habr.com/ru/post/678638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678638)
 - [[recovery mode] Как написать свою кроссплатформенную библиотеку для хуков и не отстрелить себе ноги](https://habr.com/ru/post/678636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678636)
-- [Компиляторы против компиляторов](https://habr.com/ru/post/678628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
