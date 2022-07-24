@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Возможен ли быстрый Garbage collector на С++?](https://habr.com/ru/post/678730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678730)
 - [Немножко кодгена](https://habr.com/ru/post/678690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678690)
 - [Установка OpenSSL для проекта на С++](https://habr.com/ru/post/678698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678698)
 - [Telegram Bot на Kotlin: Командуем](https://habr.com/ru/post/677624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677624)
 - [Telegram BOT API: добавляем кнопки к сообщениям и обрабатываем их на стороне сервера](https://habr.com/ru/post/678664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678664)
-- [Как ничего не умея осуществить мечту?](https://habr.com/ru/post/678656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
