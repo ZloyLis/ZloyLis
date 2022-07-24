@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компиляторы против компиляторов](https://habr.com/ru/post/678628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678628)
 - [Кратко об OData](https://habr.com/ru/post/678614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678614)
 - [Коэффициент однозначности и алгоритм Витерби](https://habr.com/ru/post/678604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678604)
 - [Обмен данными между Phaser.js и Vue.js используя Vuex](https://habr.com/ru/post/678584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678584)
 - [Дизайн и эволюция языка С++](https://habr.com/ru/post/678582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678582)
-- [Мой опыт flutter собеседований](https://habr.com/ru/post/678560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
