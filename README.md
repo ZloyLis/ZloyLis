@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/post/678634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678634)
+- [Игры для обучения программированию](https://habr.com/ru/post/677508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677508)
+- [[Перевод] Node.js: работа с файловой системой](https://habr.com/ru/post/678792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678792)
 - [Обратная RLE сортировка](https://habr.com/ru/post/678774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678774)
 - [Draw the rest of the f***ing owl — как я учусь на тестировщика с нуля бесплатно. Введение: почему тестирование](https://habr.com/ru/post/678754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678754)
-- [Социократия – хороший источник практик по организации IT-проектов](https://habr.com/ru/post/678172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678172)
-- [Постквантовая криптография как новый стандарт](https://habr.com/ru/post/678366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678366)
-- [[API как продукт] Тестовая среда](https://habr.com/ru/post/678748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
