@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] «Программировать не сложно — сложно не разочароваться в процессе»](https://habr.com/ru/post/678898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678898)
+- [Разложить по полочкам: как мы научили Облако сортировать фотографии по лицам](https://habr.com/ru/post/678770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678770)
+- [Дайджест недели от Apple Pro Weekly News &lpar;18.07 – 24.07.22&rpar;](https://habr.com/ru/post/678860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678860)
 - [Паттерны проектирования в Dart](https://habr.com/ru/post/678714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678714)
 - [Виды Application Security Testing. Как не запутаться среди SAST, DAST и IAST](https://habr.com/ru/post/676718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676718)
-- [Как войти в IT: от студентки до Junior-разработчика JavaScript + индивидуальный план развития до Middle](https://habr.com/ru/post/676698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676698)
-- [Готовим Pirogue и пробуем его с трафиком домашней камеры Mi Home](https://habr.com/ru/post/678814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678814)
-- [Эволюция игрового серверного фреймворка на Python. Часть 1 из 2. Слои инфраструктуры](https://habr.com/ru/post/678658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
