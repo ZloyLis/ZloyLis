@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как рисовать сосуды с помощью машинного обучения](https://habr.com/ru/post/678960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678960)
+- [[Перевод] [В закладки] Как работает браузер](https://habr.com/ru/post/678400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678400)
 - [Про наш с Модильяни секрет, восприятие мира и перцептивную геометрию](https://habr.com/ru/post/678944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678944)
 - [Эволюция игрового серверного фреймворка на Python. Часть 2 из 2. Слои логики](https://habr.com/ru/post/678666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678666)
 - [[Перевод] Нормализуем логи OpenFeign](https://habr.com/ru/post/678916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678916)
-- [Security Week 2230: утечка данных через кабель SATA](https://habr.com/ru/post/677028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677028)
-- [[Перевод] «Программировать не сложно — сложно не разочароваться в процессе»](https://habr.com/ru/post/678898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
