@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Постквантовая криптография как новый стандарт](https://habr.com/ru/post/678366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678366)
+- [[API как продукт] Тестовая среда](https://habr.com/ru/post/678748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678748)
 - [[Перевод] Как создать Star Rating виджет на React.js и оптимизировать его](https://habr.com/ru/post/678478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678478)
 - [[Перевод] Релиз Centrifugo v4 – маленькая революция](https://habr.com/ru/post/678552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678552)
 - [Эпическая сага, нонфикшен и настольный справочник — обсуждаем книги, которые можно читать вновь и вновь](https://habr.com/ru/post/678188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678188)
-- [Возможен ли быстрый Garbage collector на С++?](https://habr.com/ru/post/678730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678730)
-- [Немножко кодгена](https://habr.com/ru/post/678690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
