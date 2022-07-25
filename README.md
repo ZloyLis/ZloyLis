@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фантастическая история голосового блокнота, который разработали, чтобы спасти шутки](https://habr.com/ru/post/678374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678374)
 - [[Перевод] Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/post/678634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678634)
 - [Игры для обучения программированию](https://habr.com/ru/post/677508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677508)
 - [[Перевод] Node.js: работа с файловой системой](https://habr.com/ru/post/678792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678792)
 - [Обратная RLE сортировка](https://habr.com/ru/post/678774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678774)
-- [Draw the rest of the f***ing owl — как я учусь на тестировщика с нуля бесплатно. Введение: почему тестирование](https://habr.com/ru/post/678754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
