@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Про наш с Модильяни секрет, наше восприятие мира и перцептивную геометрию](https://habr.com/ru/post/678944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678944)
+- [Про наш с Модильяни секрет, восприятие мира и перцептивную геометрию](https://habr.com/ru/post/678944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678944)
 - [Эволюция игрового серверного фреймворка на Python. Часть 2 из 2. Слои логики](https://habr.com/ru/post/678666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678666)
 - [[Перевод] Нормализуем логи OpenFeign](https://habr.com/ru/post/678916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678916)
 - [Security Week 2230: утечка данных через кабель SATA](https://habr.com/ru/post/677028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677028)
