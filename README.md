@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обратная RLE сортировка](https://habr.com/ru/post/678774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678774)
+- [Draw the rest of the f***ing owl — как я учусь на тестировщика с нуля бесплатно. Введение: почему тестирование](https://habr.com/ru/post/678754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678754)
+- [Социократия – хороший источник практик по организации IT-проектов](https://habr.com/ru/post/678172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678172)
 - [Постквантовая криптография как новый стандарт](https://habr.com/ru/post/678366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678366)
 - [[API как продукт] Тестовая среда](https://habr.com/ru/post/678748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678748)
-- [[Перевод] Как создать Star Rating виджет на React.js и оптимизировать его](https://habr.com/ru/post/678478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678478)
-- [[Перевод] Релиз Centrifugo v4 – маленькая революция](https://habr.com/ru/post/678552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678552)
-- [Эпическая сага, нонфикшен и настольный справочник — обсуждаем книги, которые можно читать вновь и вновь](https://habr.com/ru/post/678188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
