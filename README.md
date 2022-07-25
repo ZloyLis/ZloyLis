@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виды Application Security Testing. Как не запутаться среди SAST, DAST и IAST](https://habr.com/ru/post/676718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676718)
 - [Как войти в IT: от студентки до Junior-разработчика JavaScript + индивидуальный план развития до Middle](https://habr.com/ru/post/676698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676698)
 - [Готовим Pirogue и пробуем его с трафиком домашней камеры Mi Home](https://habr.com/ru/post/678814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678814)
 - [Эволюция игрового серверного фреймворка на Python. Часть 1 из 2. Слои инфраструктуры](https://habr.com/ru/post/678658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678658)
 - [Фантастическая история голосового блокнота, который разработали, чтобы спасти шутки](https://habr.com/ru/post/678374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678374)
-- [[Перевод] Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/post/678634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
