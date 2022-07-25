@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция игрового серверного фреймворка на Python. Часть 2 из 2. Слои логики](https://habr.com/ru/post/678666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678666)
+- [[Перевод] Нормализуем логи OpenFeign](https://habr.com/ru/post/678916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678916)
+- [Security Week 2230: утечка данных через кабель SATA](https://habr.com/ru/post/677028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677028)
 - [[Перевод] «Программировать не сложно — сложно не разочароваться в процессе»](https://habr.com/ru/post/678898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678898)
 - [Разложить по полочкам: как мы научили Облако сортировать фотографии по лицам](https://habr.com/ru/post/678770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678770)
-- [Дайджест недели от Apple Pro Weekly News &lpar;18.07 – 24.07.22&rpar;](https://habr.com/ru/post/678860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678860)
-- [Паттерны проектирования в Dart](https://habr.com/ru/post/678714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678714)
-- [Виды Application Security Testing. Как не запутаться среди SAST, DAST и IAST](https://habr.com/ru/post/676718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
