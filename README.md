@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор способов и сервисов прототипирования — 2022](https://habr.com/ru/post/678886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678886)
+- [Бесконтрольный доступ и рассеянность: итоги одного пентеста](https://habr.com/ru/post/678802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678802)
+- [Поиск объектов на фото с помощью Python](https://habr.com/ru/post/678644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678644)
+- [К микросервисам через reverse engineering и кодогенерацию](https://habr.com/ru/post/678208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678208)
 - [[Перевод] Выбираемся из лабиринта при помощи алгоритма «поиск в ширину» &lpar;BFS&rpar; на Python](https://habr.com/ru/post/679020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679020)
-- [Feature freeze С++23. Итоги летней встречи комитета](https://habr.com/ru/post/678760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678760)
-- [Считаем уникальные IPv4 адреса](https://habr.com/ru/post/679008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679008)
-- [Как рисовать кровеносные сосуды с помощью машинного обучения](https://habr.com/ru/post/678960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678960)
-- [[Перевод] [В закладки] Как работает браузер](https://habr.com/ru/post/678400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
