@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Draw the rest of the f***ing owl — как я учусь на тестировщика с нуля бесплатно. Часть 1. С чего начать](https://habr.com/ru/post/679118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679118)
+- [Как превратить свое развитие в разработке в тему для доклада](https://habr.com/ru/post/679116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679116)
+- [Стандартная схема пороговой подписи](https://habr.com/ru/post/679098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679098)
 - [Вся правда о том как стать web разработчиком после online курсов](https://habr.com/ru/post/679072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679072)
 - [Платформа nanoCAD + Старт-Проф: проектирование трубопроводов](https://habr.com/ru/post/679058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679058)
-- [Почему недостаточно Arduino, чтобы автоматизировать производство?](https://habr.com/ru/post/679054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679054)
-- [Как и чем лучше прототипировать сайт в 2022 году](https://habr.com/ru/post/678886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678886)
-- [К микросервисам через reverse engineering и кодогенерацию](https://habr.com/ru/post/678208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
