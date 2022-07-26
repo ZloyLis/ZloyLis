@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вся правда о том как стать web разработчиком после online курсов](https://habr.com/ru/post/679072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679072)
 - [Платформа nanoCAD + Старт-Проф: проектирование трубопроводов](https://habr.com/ru/post/679058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679058)
 - [Почему недостаточно Arduino, чтобы автоматизировать производство?](https://habr.com/ru/post/679054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679054)
 - [Как и чем лучше прототипировать сайт в 2022 году](https://habr.com/ru/post/678886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678886)
 - [К микросервисам через reverse engineering и кодогенерацию](https://habr.com/ru/post/678208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678208)
-- [[Перевод] Выбираемся из лабиринта при помощи алгоритма «поиск в ширину» &lpar;BFS&rpar; на Python](https://habr.com/ru/post/679020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
