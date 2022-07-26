@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как настроить сквозную маркетинговую аналитику в режиме self-service &lpar;аналитики самообслуживания&rpar;](https://habr.com/ru/post/679136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679136)
+- [Как студенты образовательных программ VK разрабатывали свои проекты](https://habr.com/ru/post/678908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678908)
 - [Vue, React или Angular: какой стек используют в России. Проанализировал 180 сайтов](https://habr.com/ru/post/679150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679150)
 - [Примитивы синхронизации в JavaScript: cемафоры и хоккей](https://habr.com/ru/post/679140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679140)
 - [Draw the rest of the f***ing owl — как я учусь на тестировщика с нуля бесплатно. Часть 1. С чего начать](https://habr.com/ru/post/679118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679118)
-- [Как превратить свое развитие в разработке в тему для доклада](https://habr.com/ru/post/679116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679116)
-- [Стандартная схема пороговой подписи](https://habr.com/ru/post/679098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
