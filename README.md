@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор способов и сервисов прототипирования — 2022](https://habr.com/ru/post/678886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678886)
-- [Бесконтрольный доступ и рассеянность: итоги одного пентеста](https://habr.com/ru/post/678802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678802)
-- [Поиск объектов на фото с помощью Python](https://habr.com/ru/post/678644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678644)
+- [Платформа nanoCAD + Старт-Проф: проектирование трубопроводов](https://habr.com/ru/post/679058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679058)
+- [Почему недостаточно Arduino, чтобы автоматизировать производство?](https://habr.com/ru/post/679054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679054)
+- [Как и чем лучше прототипировать сайт в 2022 году](https://habr.com/ru/post/678886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678886)
 - [К микросервисам через reverse engineering и кодогенерацию](https://habr.com/ru/post/678208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678208)
 - [[Перевод] Выбираемся из лабиринта при помощи алгоритма «поиск в ширину» &lpar;BFS&rpar; на Python](https://habr.com/ru/post/679020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679020)
 <!-- BLOG-POST-LIST:END -->
