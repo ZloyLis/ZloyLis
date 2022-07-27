@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Go, я создал: пишем тесты на Allure-Go](https://habr.com/ru/post/677690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677690)
+- [Как мы ускоряли сборку Android-приложения из двух миллионов строк кода](https://habr.com/ru/post/678786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678786)
 - [Курс начинающего бэкендера в Metaclass: интервью со студентом 7-го потока](https://habr.com/ru/post/679110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679110)
 - [Лучшие сообщества разработчиков и IT специалистов в 2022 году](https://habr.com/ru/post/679272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679272)
 - [Как настроить хранение логов кластера Kubernetes в бакете S3 и зачем это нужно](https://habr.com/ru/post/677860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677860)
-- [[Перевод] Почему проекты по повышению КПД терпят неудачу](https://habr.com/ru/post/677496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677496)
-- [44 атрибута хорошего С-кода](https://habr.com/ru/post/679256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
