@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ограничения векторизации Python как метода повышения производительности](https://habr.com/ru/post/678406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678406)
 - [Описание библиотек логирования](https://habr.com/ru/post/679418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679418)
 - [Краткое описание терминов С#](https://habr.com/ru/post/676844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676844)
 - [Почему в С++ массивы нужно удалять через delete[]](https://habr.com/ru/post/679338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679338)
 - [Go, я создал: пишем тесты на Allure-Go](https://habr.com/ru/post/677690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677690)
-- [Как мы ускоряли сборку Android-приложения из двух миллионов строк кода](https://habr.com/ru/post/678786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
