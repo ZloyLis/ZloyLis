@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [44 атрибута хорошего С-кода](https://habr.com/ru/post/679256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679256)
+- [Архитектура Архитектуры. Шаг 10. Это конец](https://habr.com/ru/post/678986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678986)
 - [Варианты использования Java ML библиотек совместно с Spring, Docker, Spark, Rapids, CUDA](https://habr.com/ru/post/679248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679248)
 - [LASSO и Ridge Регрессия. Что же значит та картинка](https://habr.com/ru/post/679232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679232)
 - [Hibernate Best Practices для начинающих](https://habr.com/ru/post/679216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679216)
-- [Задача о 8-ми ферзях. Свежий взгляд. Шаг первый. Сокращаем количество шагов перебора в три раза](https://habr.com/ru/post/679200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679200)
-- [Как настроить сквозную маркетинговую аналитику в режиме self-service &lpar;аналитики самообслуживания&rpar;](https://habr.com/ru/post/679136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
