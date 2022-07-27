@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как настроить хранение логов кластера Kubernetes в бакете S3 и зачем это нужно](https://habr.com/ru/post/677860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677860)
+- [[Перевод] Почему проекты по повышению КПД терпят неудачу](https://habr.com/ru/post/677496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677496)
 - [44 атрибута хорошего С-кода](https://habr.com/ru/post/679256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679256)
 - [Архитектура Архитектуры. Шаг 10. Это конец](https://habr.com/ru/post/678986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678986)
 - [Варианты использования Java ML библиотек совместно с Spring, Docker, Spark, Rapids, CUDA](https://habr.com/ru/post/679248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679248)
-- [LASSO и Ridge Регрессия. Что же значит та картинка](https://habr.com/ru/post/679232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679232)
-- [Hibernate Best Practices для начинающих](https://habr.com/ru/post/679216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
