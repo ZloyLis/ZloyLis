@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Краткое описание терминов С#](https://habr.com/ru/post/676844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676844)
 - [Почему в С++ массивы нужно удалять через delete[]](https://habr.com/ru/post/679338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679338)
 - [Go, я создал: пишем тесты на Allure-Go](https://habr.com/ru/post/677690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677690)
 - [Как мы ускоряли сборку Android-приложения из двух миллионов строк кода](https://habr.com/ru/post/678786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678786)
 - [Курс начинающего бэкендера в Metaclass: интервью со студентом 7-го потока](https://habr.com/ru/post/679110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679110)
-- [Лучшие сообщества разработчиков и IT специалистов в 2022 году](https://habr.com/ru/post/679272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
