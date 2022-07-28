@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задача о 8-ми ферзях. Свежий взгляд. Шаг 1 + 1/2. Сокращаем количество шагов перебора в три с половиной раза](https://habr.com/ru/post/679738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679738)
 - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://habr.com/ru/post/676978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676978)
 - [Что не так с качеством в ИТ](https://habr.com/ru/post/679564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679564)
 - [Как описать большую систему в нотации С4](https://habr.com/ru/post/679426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679426)
 - [Управление сторонними зависимостями в коде](https://habr.com/ru/post/679440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679440)
-- [Запуск MFC-приложения на не-x86 архитектуре нативно при помощи Winelib и подключение к нему плагина на Qt](https://habr.com/ru/post/679586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
