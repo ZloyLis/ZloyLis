@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Размышления об успешном успехе над сломанным цифровым магнитофоном](https://habr.com/ru/post/679412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679412)
 - [Vector API в Java: краткий обзор и тестирование](https://habr.com/ru/post/679492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679492)
 - [Адаптация Jetpack Compose в hh.ru](https://habr.com/ru/post/679448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679448)
 - [[Перевод] Почему Kubernetes протянет ещё 50 лет](https://habr.com/ru/post/679470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679470)
 - [Вещи, которые полезно знать о React.js](https://habr.com/ru/post/679452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679452)
-- [[Перевод] Ограничения векторизации Python как метода повышения производительности](https://habr.com/ru/post/678406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
