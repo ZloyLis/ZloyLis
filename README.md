@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему Kubernetes протянет ещё 50 лет](https://habr.com/ru/post/679470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679470)
 - [Вещи, которые полезно знать о React.js](https://habr.com/ru/post/679452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679452)
 - [[Перевод] Ограничения векторизации Python как метода повышения производительности](https://habr.com/ru/post/678406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678406)
 - [Описание библиотек логирования](https://habr.com/ru/post/679418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679418)
 - [Краткое описание терминов С#](https://habr.com/ru/post/676844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676844)
-- [Почему в С++ массивы нужно удалять через delete[]](https://habr.com/ru/post/679338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
