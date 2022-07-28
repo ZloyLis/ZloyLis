@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поваренная книга хабраавтора: разбор топовых кейсов](https://habr.com/ru/post/672356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672356)
+- [Как разработчику развиваться в маленьком городе](https://habr.com/ru/post/679286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679286)
 - [Как устроена техподдержка сотрудников в IT-компаниях: опыт Росбанка, КРОК и X5 Tech](https://habr.com/ru/post/679520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679520)
 - [Размышления об успешном успехе над сломанным цифровым магнитофоном](https://habr.com/ru/post/679412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679412)
 - [Vector API в Java: краткий обзор и тестирование](https://habr.com/ru/post/679492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679492)
-- [Адаптация Jetpack Compose в hh.ru](https://habr.com/ru/post/679448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679448)
-- [[Перевод] Почему Kubernetes протянет ещё 50 лет](https://habr.com/ru/post/679470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
