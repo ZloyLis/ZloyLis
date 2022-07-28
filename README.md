@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Языковая модель GPT-3 умеет объяснять код — рассказываем, как это можно использовать](https://habr.com/ru/post/679572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679572)
 - [Поваренная книга хабраавтора: разбор топовых кейсов](https://habr.com/ru/post/672356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672356)
 - [Как разработчику развиваться в маленьком городе](https://habr.com/ru/post/679286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679286)
 - [Как устроена техподдержка сотрудников в IT-компаниях: опыт Росбанка, КРОК и X5 Tech](https://habr.com/ru/post/679520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679520)
 - [Размышления об успешном успехе над сломанным цифровым магнитофоном](https://habr.com/ru/post/679412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679412)
-- [Vector API в Java: краткий обзор и тестирование](https://habr.com/ru/post/679492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
