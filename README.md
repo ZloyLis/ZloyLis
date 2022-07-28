@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление сторонними зависимостями в коде](https://habr.com/ru/post/679440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679440)
+- [Запуск MFC-приложения на не-x86 архитектуре нативно при помощи Winelib и подключение к нему плагина на Qt](https://habr.com/ru/post/679586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679586)
+- [Пять навыков Java, которые точно проверят на собеседовании в 2022 году](https://habr.com/ru/post/679584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679584)
+- [Как мы в Brand Analytics разработали Детектор сбоев и как вы можете помочь его улучшить](https://habr.com/ru/post/679580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679580)
 - [[Перевод] Языковая модель GPT-3 умеет объяснять код — рассказываем, как это можно использовать](https://habr.com/ru/post/679572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679572)
-- [Поваренная книга хабраавтора: разбор топовых кейсов](https://habr.com/ru/post/672356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672356)
-- [Как разработчику развиваться в маленьком городе](https://habr.com/ru/post/679286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679286)
-- [Как устроена техподдержка сотрудников в IT-компаниях: опыт Росбанка, КРОК и X5 Tech](https://habr.com/ru/post/679520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679520)
-- [Размышления об успешном успехе над сломанным цифровым магнитофоном](https://habr.com/ru/post/679412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
