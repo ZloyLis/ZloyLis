@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes CronJob не запустился? Тогда мы с shared informer идём к вам](https://habr.com/ru/post/679818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679818)
+- [С++: ловим неопытного разработчика всем Хабром](https://habr.com/ru/post/679816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679816)
 - [Лучшие книги по Python 2021-2022 года: для новичков и профи](https://habr.com/ru/post/679852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679852)
 - [История о том, как Python помог купить мебель в ИКЕА](https://habr.com/ru/post/679832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679832)
 - [GitLab + K8s + Werf](https://habr.com/ru/post/679826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679826)
-- [На конференции в Питере будут люди из другого мира, науч-поп, обратные петли и полезные увольнения](https://habr.com/ru/post/673596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673596)
-- [Как мы уменьшили время проверки релизной сборки с 4 дней до 4 часов](https://habr.com/ru/post/679266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
