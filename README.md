@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Вам будут писать: это отстой!»: Андрей Власовских о плюсах и минусах open source](https://habr.com/ru/post/679754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679754)
 - [Java, реактивное программирование, Reactor, Spring Cloud Function, Streams, etc…](https://habr.com/ru/post/679750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679750)
 - [Задача о 8-ми ферзях. Свежий взгляд. Шаг 1 + 1/2. Сокращаем количество шагов перебора в три с половиной раза](https://habr.com/ru/post/679738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679738)
 - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://habr.com/ru/post/676978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676978)
 - [Что не так с качеством в ИТ](https://habr.com/ru/post/679564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679564)
-- [Как описать большую систему в нотации С4](https://habr.com/ru/post/679426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
