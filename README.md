@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск объектов на видео с помощью Python](https://habr.com/ru/post/678706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678706)
+- [Яндекс выложил в опенсорс бету фреймворка userver](https://habr.com/ru/post/674902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674902)
 - [Создание 3D-моделей из фото с Object Capture API](https://habr.com/ru/post/679772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679772)
 - [«Вам будут писать: это отстой!»: Андрей Власовских о плюсах и минусах open source](https://habr.com/ru/post/679754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679754)
 - [Java, реактивное программирование, Reactor, Spring Cloud Function, Streams, etc…](https://habr.com/ru/post/679750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679750)
-- [Задача о 8-ми ферзях. Свежий взгляд. Шаг 1 + 1/2. Сокращаем количество шагов перебора в три с половиной раза](https://habr.com/ru/post/679738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679738)
-- [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://habr.com/ru/post/676978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
