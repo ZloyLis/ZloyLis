@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы уменьшили время проверки релизной сборки с 4 дней до 4 часов](https://habr.com/ru/post/679266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679266)
+- [[Перевод] Глубокое погружение в Data Quality](https://habr.com/ru/post/674876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674876)
+- [Инди-дев-&lpar;б|в&rpar;лог: 1.0.0 — Инициализация](https://habr.com/ru/post/679798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679798)
+- [[Перевод] Как REST выродился в собственную противоположность](https://habr.com/ru/post/679788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679788)
 - [Поиск объектов на видео с помощью Python](https://habr.com/ru/post/678706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678706)
-- [Яндекс выложил в опенсорс бету фреймворка userver](https://habr.com/ru/post/674902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674902)
-- [Создание 3D-моделей из фото с Object Capture API](https://habr.com/ru/post/679772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679772)
-- [«Вам будут писать: это отстой!»: Андрей Власовских о плюсах и минусах open source](https://habr.com/ru/post/679754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679754)
-- [Java, реактивное программирование, Reactor, Spring Cloud Function, Streams, etc…](https://habr.com/ru/post/679750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
