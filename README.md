@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему я люблю и ненавижу NestJS?](https://habr.com/ru/post/679992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679992)
+- [Иерархическое мультиагентное обучение с подкреплением. Начало синтаксиса](https://habr.com/ru/post/679990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679990)
 - [[Перевод] Я заплатил сорок шесть тысяч долларов за редизайн и жалею об этом](https://habr.com/ru/post/679964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679964)
 - [[Перевод] Итак, на дворе 1997-ой год, и вы хотите создать веб-сайт](https://habr.com/ru/post/679932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679932)
 - [[Перевод] Что такое решения второго уровня &lpar;Layer 2&rpar; для блокчейн?](https://habr.com/ru/post/679930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679930)
-- [Kubernetes CronJob не запустился? Тогда мы с shared informer идём к вам](https://habr.com/ru/post/679818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679818)
-- [Лучшие книги по Python 2021-2022 года: для новичков и профи](https://habr.com/ru/post/679852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
