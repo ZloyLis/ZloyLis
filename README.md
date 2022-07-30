@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring security: без фильтров по умолчанию, как и что из этого получится](https://habr.com/ru/post/680052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680052)
 - [[Перевод] Как настроить зависимые выпадающие списки в MS Excel, используя СМЕЩ и СУММПРОИЗВ](https://habr.com/ru/post/680046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680046)
 - [Статический анализ кода в современной Java-разработке](https://habr.com/ru/post/680018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680018)
 - [С++ для тех кто не шарит](https://habr.com/ru/post/680008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680008)
 - [Почему я люблю и ненавижу NestJS?](https://habr.com/ru/post/679992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679992)
-- [Иерархическое мультиагентное обучение с подкреплением. Начало синтаксиса](https://habr.com/ru/post/679990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
