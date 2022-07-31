@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Русский язык в программировании](https://habr.com/ru/post/680148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680148)
 - [Frontend архитектура MVP &lpar;Model-View-Presenter&rpar;](https://habr.com/ru/post/680096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680096)
 - [Маркеры на Google Maps во Flutter: от простого к сложному](https://habr.com/ru/post/680092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680092)
 - [Ситуационный центр для мониторинга IT-инфраструктуры и UX — как такое решение может выглядеть на практике](https://habr.com/ru/post/680026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680026)
 - [Дюк, вынеси мусор! — Часть 4](https://habr.com/ru/post/680038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680038)
-- [Впечатления от Weekend Offer для бэкенд-разработчиков](https://habr.com/ru/post/680036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
