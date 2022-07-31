@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontend архитектура MVP &lpar;Model-View-Presenter&rpar;](https://habr.com/ru/post/680096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680096)
 - [Маркеры на Google Maps во Flutter: от простого к сложному](https://habr.com/ru/post/680092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680092)
 - [Ситуационный центр для мониторинга IT-инфраструктуры и UX — как такое решение может выглядеть на практике](https://habr.com/ru/post/680026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680026)
 - [Дюк, вынеси мусор! — Часть 4](https://habr.com/ru/post/680038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680038)
 - [Впечатления от Weekend Offer для бэкенд-разработчиков](https://habr.com/ru/post/680036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680036)
-- [Spring security: без фильтров по умолчанию, как и что из этого получится](https://habr.com/ru/post/680052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
