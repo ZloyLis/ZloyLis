@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я стала профи: стажер Tele2 и спецпроект про базовые станции](https://habr.com/ru/post/680238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680238)
 - [[Перевод] Дизерпанк — статья о дизеринге изображений, которую мне хотелось бы прочитать](https://habr.com/ru/post/680154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680154)
 - [[Перевод] Как завалить экзамен Kubernetes CK{A,S}](https://habr.com/ru/post/680216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680216)
 - [Team Lead Simulator — маленькая игра про большую ответственность](https://habr.com/ru/post/679146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679146)
 - [Непрерывность мобильной разработки — как это реализовано у нас](https://habr.com/ru/post/679896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679896)
-- [Большое исследование рынка веб-студий/аутсорс-продакшнов](https://habr.com/ru/post/680206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
