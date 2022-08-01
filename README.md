@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Обработка окон и вкладок браузера в Selenium PHP](https://habr.com/ru/post/679048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679048)
-- [Как мы на хакатоне написали простой инструмент для интеграционного тестирования](https://habr.com/ru/post/680188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680188)
-- [Как расти менеджерам: подробная инструкция на примере менеджерской линейки Авито](https://habr.com/ru/post/680106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680106)
-- [Drag-and-Drop на Python+OpenCV](https://habr.com/ru/post/679444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679444)
-- [Кривые и что это такое ч.3](https://habr.com/ru/post/680082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680082)
+- [[Перевод] Как завалить экзамен Kubernetes CK{A,S}](https://habr.com/ru/post/680216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680216)
+- [Team Lead Simulator — маленькая игра про большую ответственность](https://habr.com/ru/post/679146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679146)
+- [Непрерывность мобильной разработки — как это реализовано у нас](https://habr.com/ru/post/679896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679896)
+- [Большое исследование рынка веб-студий/аутсорс-продакшнов](https://habr.com/ru/post/680206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680206)
+- [Как проводить код-ревью: главное из вебинара](https://habr.com/ru/post/679558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
