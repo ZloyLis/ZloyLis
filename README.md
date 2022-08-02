@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем эффекты в видеосвязи, используя Canvas API и MediaPipe](https://habr.com/ru/post/678068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678068)
+- [Что, если… забыть про безопасность кластера k8s?](https://habr.com/ru/post/679114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679114)
+- [Вектор енумов. С чем мы сталкиваемся в разработке](https://habr.com/ru/post/680072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680072)
+- [Осенние конференции JUG Ru Group: онлайн и офлайн, Москва и Питер](https://habr.com/ru/post/680164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680164)
 - [Центрируй, властвуй, располагай](https://habr.com/ru/post/680330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680330)
-- [Security Week 2231: UEFI-руткит CosmicStrand](https://habr.com/ru/post/680282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680282)
-- [Как получать сущности со связями в Spring Rest контроллере](https://habr.com/ru/post/679722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679722)
-- [Дайджест недели от Apple Pro Weekly News &lpar;25.07 – 31.07.22&rpar;](https://habr.com/ru/post/680244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680244)
-- [Как я стала профи: стажер Tele2 и спецпроект про базовые станции](https://habr.com/ru/post/680238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
