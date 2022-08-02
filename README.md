@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Humane API REST Protocol](https://habr.com/ru/post/680376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680376)
+- [Паттерн Outbox: как не растерять сообщения в микросервисной архитектуре](https://habr.com/ru/post/678932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678932)
 - [Делаем эффекты в видеосвязи, используя Canvas API и MediaPipe](https://habr.com/ru/post/678068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678068)
 - [Что, если… забыть про безопасность кластера k8s?](https://habr.com/ru/post/679114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679114)
 - [Вектор енумов. С чем мы сталкиваемся в разработке](https://habr.com/ru/post/680072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680072)
-- [Осенние конференции JUG Ru Group: онлайн и офлайн, Москва и Питер](https://habr.com/ru/post/680164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680164)
-- [Центрируй, властвуй, располагай](https://habr.com/ru/post/680330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
