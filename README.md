@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Конкурентность в Go: 5 проблем и их решения](https://habr.com/ru/post/680324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680324)
+- [Машинное обучение как новая революция](https://habr.com/ru/post/680436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680436)
+- [IP-фабрика в двух словах](https://habr.com/ru/post/680420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680420)
+- [Конкурентность в Go в пяти примерах](https://habr.com/ru/post/680324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680324)
 - [[Перевод] Получение URL-адресов системных папок в iOS 16](https://habr.com/ru/post/680388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680388)
 - [[Перевод] Как использовать Docker в приложениях Node.js и React](https://habr.com/ru/post/680382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680382)
-- [Не реактом единым: что полезно знать современному фронтенд-разработчику](https://habr.com/ru/post/680240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680240)
-- [[Перевод] Humane API REST Protocol](https://habr.com/ru/post/680376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
