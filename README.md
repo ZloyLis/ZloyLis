@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест заметок UX-дизайнера за июль 2022](https://habr.com/ru/post/680526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680526)
 - [Albumentations: Feedback](https://habr.com/ru/post/680514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680514)
 - [[Перевод] «Это просто мой стиль кода»](https://habr.com/ru/post/680504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680504)
 - [Использование Seldon Core для машинного обучения](https://habr.com/ru/post/680462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680462)
 - [Что делать, если Вашему бизнесу нужна автоматизация?](https://habr.com/ru/post/680464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680464)
-- [Бутстреп и А/Б тестирование](https://habr.com/ru/post/679842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
