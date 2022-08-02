@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Получение URL-адресов системных папок в iOS 16](https://habr.com/ru/post/680388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680388)
+- [[Перевод] Как использовать Docker в приложениях Node.js и React](https://habr.com/ru/post/680382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680382)
+- [Не реактом единым: что полезно знать современному фронтенд-разработчику](https://habr.com/ru/post/680240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680240)
 - [[Перевод] Humane API REST Protocol](https://habr.com/ru/post/680376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680376)
 - [Паттерн Outbox: как не растерять сообщения в микросервисной архитектуре](https://habr.com/ru/post/678932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678932)
-- [Делаем эффекты в видеосвязи, используя Canvas API и MediaPipe](https://habr.com/ru/post/678068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678068)
-- [Что, если… забыть про безопасность кластера k8s?](https://habr.com/ru/post/679114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679114)
-- [Вектор енумов. С чем мы сталкиваемся в разработке](https://habr.com/ru/post/680072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
