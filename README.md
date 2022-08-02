@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Seldon Core для машинного обучения](https://habr.com/ru/post/680462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680462)
 - [Что делать, если Вашему бизнесу нужна автоматизация?](https://habr.com/ru/post/680464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680464)
 - [Бутстреп и А/Б тестирование](https://habr.com/ru/post/679842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679842)
 - [Как научить операционную системы «выбрасывать» из системных вызовов исключения C++ и как это можно применять](https://habr.com/ru/post/680452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680452)
 - [Машинное обучение как новая революция](https://habr.com/ru/post/680436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680436)
-- [IP-фабрика в двух словах](https://habr.com/ru/post/680420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
