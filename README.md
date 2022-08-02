@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Центрируй, властвуй, располагай](https://habr.com/ru/post/680330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680330)
 - [Security Week 2231: UEFI-руткит CosmicStrand](https://habr.com/ru/post/680282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680282)
 - [Как получать сущности со связями в Spring Rest контроллере](https://habr.com/ru/post/679722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679722)
 - [Дайджест недели от Apple Pro Weekly News &lpar;25.07 – 31.07.22&rpar;](https://habr.com/ru/post/680244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680244)
 - [Как я стала профи: стажер Tele2 и спецпроект про базовые станции](https://habr.com/ru/post/680238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680238)
-- [[Перевод] Дизерпанк — статья о дизеринге изображений, которую мне хотелось бы прочитать](https://habr.com/ru/post/680154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
