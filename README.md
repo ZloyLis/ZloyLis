@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запросы в сеть с Clean Architecture — Обработка ошибок с сервера. Boilerplate ч. 3](https://habr.com/ru/post/673180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673180)
 - [Анализ практики взращивания студентов для успешного развития ИТ бизнеса](https://habr.com/ru/post/680582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680582)
 - [[recovery mode] Опыт миграции в российское облако](https://habr.com/ru/post/680678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680678)
 - [[Перевод] Устранение утечек памяти с помощью профилирования](https://habr.com/ru/post/679870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679870)
 - [Построение архитектуры при интеграции алгоритмов шифрования в приложении для финансового учета](https://habr.com/ru/post/680660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680660)
-- [[Перевод] Криптография и будущее децентрализованных вычислений](https://habr.com/ru/post/680650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
