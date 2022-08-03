@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Построение архитектуры при интеграции алгоритмов шифрования в приложении для финансового учета](https://habr.com/ru/post/680660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680660)
+- [Как мы делали свой Typeform с тотализатором, но без куртизанок, а ещё случайно изобрели велосипед](https://habr.com/ru/post/680400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680400)
+- [[Перевод] Криптография и будущее децентрализованных вычислений](https://habr.com/ru/post/680650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680650)
+- [[Перевод] Хватит ссылаться на TIOBE](https://habr.com/ru/post/680636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680636)
 - [Расчет значения синуса простой математикой](https://habr.com/ru/post/680608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680608)
-- [[Перевод] Как запускать поды как сервисы systemd в Podman](https://habr.com/ru/post/674832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674832)
-- [Flutter jank shaders — история проблемы и пути решения](https://habr.com/ru/post/680586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680586)
-- [[Перевод] Исследуем граф «мир тесен» при помощи Neo4j](https://habr.com/ru/post/680576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680576)
-- [[Перевод] Эскалация привилегий в Kubernetes](https://habr.com/ru/post/675034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
