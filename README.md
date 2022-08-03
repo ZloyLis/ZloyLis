@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter jank shaders — история проблемы и пути решения](https://habr.com/ru/post/680586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680586)
+- [[Перевод] Исследуем граф «мир тесен» при помощи Neo4j](https://habr.com/ru/post/680576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680576)
 - [[Перевод] Эскалация привилегий в Kubernetes](https://habr.com/ru/post/675034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675034)
 - [Дайджест заметок UX-дизайнера за июль 2022](https://habr.com/ru/post/680526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680526)
 - [Albumentations: Feedback](https://habr.com/ru/post/680514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680514)
-- [[Перевод] «Это просто мой стиль кода»](https://habr.com/ru/post/680504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680504)
-- [Использование Seldon Core для машинного обучения](https://habr.com/ru/post/680462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
