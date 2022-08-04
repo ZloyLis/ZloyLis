@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инвайты в обмен на истории](https://habr.com/ru/post/675048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675048)
 - [Очень странные дела на GitHub](https://habr.com/ru/post/680742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680742)
 - [Запросы в сеть с Clean Architecture — Обработка ошибок с сервера. Boilerplate ч. 3](https://habr.com/ru/post/673180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673180)
 - [Анализ практики взращивания студентов для успешного развития ИТ бизнеса](https://habr.com/ru/post/680582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680582)
 - [[recovery mode] Опыт миграции в российское облако](https://habr.com/ru/post/680678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680678)
-- [[Перевод] Устранение утечек памяти с помощью профилирования](https://habr.com/ru/post/679870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
