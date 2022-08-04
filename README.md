@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge AI чипы от Kneron. Ныряем в прошивку](https://habr.com/ru/post/680830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680830)
 - [Кейс Flowwow: как наладить QA в компании с очень динамичным продуктом](https://habr.com/ru/post/680814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680814)
 - [Бизнес против системы: учимся различать аналитиков в теории и на практике](https://habr.com/ru/post/680802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680802)
 - [Как локализовать SPM модуль?](https://habr.com/ru/post/680792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680792)
 - [Разрабатываем чат с помощью Nest, React и Postgres](https://habr.com/ru/post/680670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680670)
-- [Дизайн-система в inDriver: не пытайтесь покинуть Oymyakon](https://habr.com/ru/post/678284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
