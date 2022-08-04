@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как красиво избавиться от switch-case посредством перечисления](https://habr.com/ru/post/680940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680940)
+- [PowerShell: парсер HTML, устаревшие методы](https://habr.com/ru/post/680936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680936)
 - [[Перевод] Новый ИИ открывает альтернативную физику](https://habr.com/ru/post/680868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680868)
 - [[Перевод] Руководство по симулятору простого ассемблера для 8-битного процессора на Javascript](https://habr.com/ru/post/680920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680920)
 - [Kubernetes resourse limits calculator](https://habr.com/ru/post/680918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680918)
-- [Опыт участия в Kaggle соревновании Ubiquant Market Prediction или как плохая организация может убить любое соревнование](https://habr.com/ru/post/680908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680908)
-- [Physically-based rendering. Ray marching &lpar;часть 1&rpar;](https://habr.com/ru/post/669478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
