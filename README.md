@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как локализовать SPM модуль?](https://habr.com/ru/post/680792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680792)
+- [Разрабатываем чат с помощью Nest, React и Postgres](https://habr.com/ru/post/680670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680670)
+- [Дизайн-система в inDriver: не пытайтесь покинуть Oymyakon](https://habr.com/ru/post/678284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678284)
 - [[Перевод] Использование шаблонов проектирования группы GoF в React](https://habr.com/ru/post/680770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680770)
 - [Запуск Flannel &amp;amp; kube-proxy отдельно от кластера](https://habr.com/ru/post/680084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680084)
-- [Создание инициализатора Flutter-проектов. Чисто и SOLIDно](https://habr.com/ru/post/680480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680480)
-- [Очень странные дела на GitHub](https://habr.com/ru/post/680742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680742)
-- [Запросы в сеть с Clean Architecture — Обработка ошибок с сервера. Boilerplate ч. 3](https://habr.com/ru/post/673180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
