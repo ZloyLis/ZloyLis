@@ -28,9 +28,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Запуск Flannel &amp;amp; kube-proxy отдельно от кластера](https://habr.com/ru/post/680084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680084)
 - [Создание инициализатора Flutter-проектов. Чисто и SOLIDно](https://habr.com/ru/post/680480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680480)
+- [Инвайты в обмен на истории](https://habr.com/ru/post/675048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675048)
 - [Очень странные дела на GitHub](https://habr.com/ru/post/680742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680742)
 - [Запросы в сеть с Clean Architecture — Обработка ошибок с сервера. Boilerplate ч. 3](https://habr.com/ru/post/673180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673180)
-- [Анализ практики взращивания студентов для успешного развития ИТ бизнеса](https://habr.com/ru/post/680582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
