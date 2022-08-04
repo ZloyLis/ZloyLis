@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт участия в Kaggle соревновании Ubiquant Market Prediction или как плохая организация может убить любое соревнование](https://habr.com/ru/post/680908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680908)
+- [Physically-based rendering. Ray marching &lpar;часть 1&rpar;](https://habr.com/ru/post/669478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=669478)
 - [«Как и почему я пошёл в магистратуру МФТИ и Норникеля, чтобы прокачаться в AI»](https://habr.com/ru/post/680870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680870)
 - [Базовое понимание принципа Eventloop](https://habr.com/ru/post/680846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680846)
 - [Расширяем область применения PageObject: что такое Testing entity Definition Object &lpar;TDO&rpar;](https://habr.com/ru/post/680840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680840)
-- [Быстро сжимаем, быстро пишем и читаем! На Java](https://habr.com/ru/post/680838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680838)
-- [Edge AI чипы от Kneron. Ныряем в прошивку](https://habr.com/ru/post/680830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
