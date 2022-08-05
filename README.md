@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] С помощью API iOS 16 компания Apple закладывает основу для разработки смешанной реальности](https://habr.com/ru/post/681094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681094)
 - [Через Git и бэк — в фулстек: что мы узнали из опроса фронтендеров](https://habr.com/ru/post/679830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679830)
 - [Концептограмма – как метод повышения эффективности технической документации](https://habr.com/ru/post/681044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681044)
 - [[Перевод] Библиотека вывода с использованием escape-последовательностей](https://habr.com/ru/post/679758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679758)
 - [[Перевод] Как [не надо] ломать систему типов Python, или Криминал в сопоставлении с образцом](https://habr.com/ru/post/680744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680744)
-- [Принципы юнит-тестирования. Часть вторая](https://habr.com/ru/post/681010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
