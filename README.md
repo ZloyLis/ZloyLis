@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Через Git и бэк — в фулстек: что мы узнали из опроса фронтендеров](https://habr.com/ru/post/679830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679830)
+- [Концептограмма – как метод повышения эффективности технической документации](https://habr.com/ru/post/681044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681044)
+- [[Перевод] Библиотека вывода с использованием escape-последовательностей](https://habr.com/ru/post/679758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679758)
 - [[Перевод] Как [не надо] ломать систему типов Python, или Криминал в сопоставлении с образцом](https://habr.com/ru/post/680744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680744)
 - [Принципы юнит-тестирования. Часть вторая](https://habr.com/ru/post/681010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681010)
-- [[recovery mode] Ускорение secp256k1 с помощью эндоморфизма](https://habr.com/ru/post/680932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680932)
-- [Эволюция интерфейса. Как мы сделали удобный и практичный дизайн для приложения](https://habr.com/ru/post/681006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681006)
-- [Скамейки на пустой площади: как создать условия для геймдев-обучения и решить кадровый вопрос на годы вперед](https://habr.com/ru/post/680942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
