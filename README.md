@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Адаптивные таблицы в вебе](https://habr.com/ru/post/680976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680976)
+- [Два или три тест-кейса для проверки граничных значений?](https://habr.com/ru/post/680980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680980)
 - [[Перевод] Лекция 5. The Legend of Zelda — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/680972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680972)
 - [Снапшоты в Kubernetes: что это и как ими пользоваться](https://habr.com/ru/post/676678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=676678)
 - [Пишем тесты производительности под Webflux](https://habr.com/ru/post/680948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680948)
-- [Магия Dispatcher&#39;ов и как сделать свой Main](https://habr.com/ru/post/680946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680946)
-- [Как красиво избавиться от switch-case посредством перечисления](https://habr.com/ru/post/680940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
