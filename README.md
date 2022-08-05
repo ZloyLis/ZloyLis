@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем тесты производительности под Webflux](https://habr.com/ru/post/680948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680948)
 - [Магия Dispatcher&#39;ов и как сделать свой Main](https://habr.com/ru/post/680946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680946)
 - [Как красиво избавиться от switch-case посредством перечисления](https://habr.com/ru/post/680940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680940)
 - [PowerShell: парсер HTML, устаревшие методы](https://habr.com/ru/post/680936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680936)
 - [[Перевод] Новый ИИ открывает альтернативную физику](https://habr.com/ru/post/680868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680868)
-- [[Перевод] Руководство по симулятору простого ассемблера для 8-битного процессора на Javascript](https://habr.com/ru/post/680920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
