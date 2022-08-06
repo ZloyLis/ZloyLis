@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распознавание поднятых пальцев на Python+OpenCV](https://habr.com/ru/post/679460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679460)
 - [Дюк, вынеси мусор! — 5. Epsilon GC](https://habr.com/ru/post/681116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681116)
 - [[Перевод] С помощью API iOS 16 компания Apple закладывает основу для разработки смешанной реальности](https://habr.com/ru/post/681094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681094)
 - [Через Git и бэк — в фулстек: что мы узнали из опроса фронтендеров](https://habr.com/ru/post/679830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679830)
 - [Концептограмма – как метод повышения эффективности технической документации](https://habr.com/ru/post/681044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681044)
-- [[Перевод] Библиотека вывода с использованием escape-последовательностей](https://habr.com/ru/post/679758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
