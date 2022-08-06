@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аскеза Bitrix](https://habr.com/ru/post/681170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681170)
 - [В 2011 году Google удивил всех, выставив заявку в $1 902 160 540 за патенты. Что бы это значило?](https://habr.com/ru/post/681144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681144)
 - [Распознавание поднятых пальцев на Python+OpenCV](https://habr.com/ru/post/679460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679460)
 - [Дюк, вынеси мусор! — 5. Epsilon GC](https://habr.com/ru/post/681116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681116)
 - [[Перевод] С помощью API iOS 16 компания Apple закладывает основу для разработки смешанной реальности](https://habr.com/ru/post/681094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681094)
-- [Через Git и бэк — в фулстек: что мы узнали из опроса фронтендеров](https://habr.com/ru/post/679830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
