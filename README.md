@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Test Containers как бины](https://habr.com/ru/post/681232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681232)
 - [Как я готовился и сдавал p3express](https://habr.com/ru/post/681226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681226)
 - [[Перевод] Интерпретация summary из statsmodels для линейной регрессии](https://habr.com/ru/post/681218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681218)
 - [Что-то пошло не так…](https://habr.com/ru/post/681196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681196)
 - [.Net Microservices The Hardcore Way: туториал от инженеров Microsoft, получаем PROD опыт](https://habr.com/ru/post/681172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681172)
-- [SwiftUI. Есть ли жизнь без NavigationView или пару слов о координаторе](https://habr.com/ru/post/681180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
