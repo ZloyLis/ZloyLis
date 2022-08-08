@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Юнга, стоп, у нас кончились ресурсы. Или как мы оптимизировали наши микросервисы](https://habr.com/ru/post/681484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681484)
 - [Дайджест недели от Apple Pro Weekly News &lpar;01.08 – 07.08.22&rpar;](https://habr.com/ru/post/681466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681466)
 - [Компания Ростсельмаш сливает данные своих клиентов](https://habr.com/ru/post/681478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681478)
 - [Упала ли аудитория запрещённых соцсетей?](https://habr.com/ru/post/681472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681472)
 - [[Перевод] Сложности переноса Papers, Please на мобильные](https://habr.com/ru/post/681322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681322)
-- [Security Week 2232: вредоносные npm-пакеты](https://habr.com/ru/post/681436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
