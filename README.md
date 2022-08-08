@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;01.08 – 07.08.22&rpar;](https://habr.com/ru/post/681466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681466)
+- [Компания Ростсельмаш сливает данные своих клиентов](https://habr.com/ru/post/681478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681478)
+- [Упала ли аудитория запрещённых соцсетей?](https://habr.com/ru/post/681472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681472)
+- [[Перевод] Сложности переноса Papers, Please на мобильные](https://habr.com/ru/post/681322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681322)
 - [Security Week 2232: вредоносные npm-пакеты](https://habr.com/ru/post/681436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681436)
-- [[Перевод] Сервер авторизации для микросервисов на Spring Boot](https://habr.com/ru/post/681448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681448)
-- [Паттерны проектирования в Dart. Часть 2](https://habr.com/ru/post/681328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681328)
-- [Философия борьбы с NAT](https://habr.com/ru/post/681432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681432)
-- [Кастомное автоматическое обновление конфигураций клиентов Spring Cloud Config Server. Часть 1: настройка клиента](https://habr.com/ru/post/681214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
