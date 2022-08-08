@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение проблемы увеличения рентабельности производства при использовании термопластавтоматов](https://habr.com/ru/post/681366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681366)
+- [Как устроена механика web акселерации: критерии выбора под проект](https://habr.com/ru/post/679540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679540)
+- [[Перевод] Устаревшие Python-библиотеки, с которыми пора попрощаться](https://habr.com/ru/post/681284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681284)
+- [Защитники думают списками, атакующие думают графами. Пока это так, атакующие будут побеждать](https://habr.com/ru/post/681350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681350)
 - [ReCA: React Clean Architecture state manager](https://habr.com/ru/post/679952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679952)
-- [Дюк, вынеси мусор! — 6. Shenandoah GC](https://habr.com/ru/post/681256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681256)
-- [[API как продукт] Управление ожиданиями](https://habr.com/ru/post/681302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681302)
-- [Заметка о направлении вывода HTML страницы на печать из 1С в дефолтный браузер на клиентском месте](https://habr.com/ru/post/681150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681150)
-- [Как готовить корпоративную систему управления документацией: рецепт, основные ингредиенты и приправы](https://habr.com/ru/post/681290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
