@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дюк, вынеси мусор! — 6. Shenandoah GC](https://habr.com/ru/post/681256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681256)
 - [[API как продукт] Управление ожиданиями](https://habr.com/ru/post/681302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681302)
 - [Заметка о направлении вывода HTML страницы на печать из 1С в дефолтный браузер на клиентском месте](https://habr.com/ru/post/681150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681150)
 - [Как готовить корпоративную систему управления документацией: рецепт, основные ингредиенты и приправы](https://habr.com/ru/post/681290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681290)
 - [Почему следует отказаться от BPMN](https://habr.com/ru/post/681262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681262)
-- [[Перевод] Что такое гибридный смарт-контракт?](https://habr.com/ru/post/681134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
