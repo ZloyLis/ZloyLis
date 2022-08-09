@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Перезагрузка хранилищ данных в будущем](https://habr.com/ru/post/681694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681694)
 - [Загрузка ленивых полей](https://habr.com/ru/post/681678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681678)
 - [[Перевод] Как превратить пишущую машинку в терминал Linux](https://habr.com/ru/post/681638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681638)
 - [Мотивации преподавателей. Первая серия](https://habr.com/ru/post/681654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681654)
 - [Не работай «в стол»: руководство для эффективного аналитика](https://habr.com/ru/post/681042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681042)
-- [Что читать разработчику C++](https://habr.com/ru/post/680858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
