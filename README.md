@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как силами робота автоматизировать проверку номера, его подтверждение или изменение](https://habr.com/ru/post/681272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681272)
 - [Чувак, где моя черепаха?](https://habr.com/ru/post/681488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681488)
 - [Юнга, стоп, у нас кончились ресурсы. Или как мы оптимизировали наши микросервисы](https://habr.com/ru/post/681484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681484)
 - [Дайджест недели от Apple Pro Weekly News &lpar;01.08 – 07.08.22&rpar;](https://habr.com/ru/post/681466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681466)
 - [Компания Ростсельмаш сливает данные своих клиентов](https://habr.com/ru/post/681478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681478)
-- [Упала ли аудитория запрещённых соцсетей?](https://habr.com/ru/post/681472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
