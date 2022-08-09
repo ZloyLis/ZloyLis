@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как работает Autoplay в онлайн-кинотеатре](https://habr.com/ru/post/681456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681456)
-- [Как мы ведём документацию рядом с кодом](https://habr.com/ru/post/680556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680556)
-- [Интервью Java-специалистов: тонкости проведения и оценки](https://habr.com/ru/post/681570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681570)
-- [Зачем нужна Камунда 7.x и как ее освоить без регистрации и СМС](https://habr.com/ru/post/681498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681498)
-- [Консольный UI и отказ от асинхронного кода в idewave-cli](https://habr.com/ru/post/681556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681556)
+- [[recovery mode] [Async/await] Structured concurrency Pt.1](https://habr.com/ru/post/681628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681628)
+- [Управление временем в Java приложениях](https://habr.com/ru/post/681608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681608)
+- [Кривые в компьютерной графике. Урок 1: Анимации](https://habr.com/ru/post/680996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680996)
+- [Первая Робопрактика менеджеров проектов: как это было](https://habr.com/ru/post/681606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681606)
+- [Что такое конгруэнтность, чем она отличается от равенства, и где ошибка в Конституции США?](https://habr.com/ru/post/681604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
