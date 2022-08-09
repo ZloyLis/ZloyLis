@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работает Autoplay в онлайн-кинотеатре](https://habr.com/ru/post/681456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681456)
 - [Как мы ведём документацию рядом с кодом](https://habr.com/ru/post/680556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680556)
 - [Интервью Java-специалистов: тонкости проведения и оценки](https://habr.com/ru/post/681570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681570)
 - [Зачем нужна Камунда 7.x и как ее освоить без регистрации и СМС](https://habr.com/ru/post/681498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681498)
 - [Консольный UI и отказ от асинхронного кода в idewave-cli](https://habr.com/ru/post/681556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681556)
-- [О чём говорят тестировщики &lpar;на литклубах&rpar;](https://habr.com/ru/post/680800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
