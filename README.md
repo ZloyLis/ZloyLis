@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] [Async/await] Structured concurrency Pt.1](https://habr.com/ru/post/681628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681628)
-- [Управление временем в Java приложениях](https://habr.com/ru/post/681608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681608)
-- [Кривые в компьютерной графике. Урок 1: Анимации](https://habr.com/ru/post/680996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680996)
-- [Первая Робопрактика менеджеров проектов: как это было](https://habr.com/ru/post/681606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681606)
-- [Что такое конгруэнтность, чем она отличается от равенства, и где ошибка в Конституции США?](https://habr.com/ru/post/681604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681604)
+- [[Перевод] Как превратить пишущую машинку в терминал Linux](https://habr.com/ru/post/681638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681638)
+- [Мотивации преподавателей. Первая серия](https://habr.com/ru/post/681654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681654)
+- [Не работай «в стол»: руководство для эффективного аналитика](https://habr.com/ru/post/681042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681042)
+- [Что читать разработчику C++](https://habr.com/ru/post/680858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680858)
+- [Как я написал telegram бота на Rust для отслеживания рейтинга при поступлении в вуз](https://habr.com/ru/post/681648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
