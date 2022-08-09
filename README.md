@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пять в одном: XWAY API для организации инфообмена с маркетплейсами](https://habr.com/ru/post/681550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681550)
+- [Консольный UI и отказ от асинхронного кода в idewave-cli](https://habr.com/ru/post/681556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681556)
+- [О чём говорят тестировщики &lpar;на литклубах&rpar;](https://habr.com/ru/post/680800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680800)
+- [Каким требованиям по информационной безопасности надо соответствовать в 2022 году](https://habr.com/ru/post/681536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681536)
 - [Начинаем работать с BACnet](https://habr.com/ru/post/680790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680790)
 - [Приватные конструкторы JavaScript](https://habr.com/ru/post/681528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681528)
-- [Как силами робота автоматизировать проверку номера, его подтверждение или изменение](https://habr.com/ru/post/681272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681272)
-- [Чувак, где моя черепаха?](https://habr.com/ru/post/681488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
