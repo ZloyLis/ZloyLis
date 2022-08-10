@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Слова одни скрывают часто слова другие](https://habr.com/ru/post/681742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681742)
 - [От Albumentations к Image Search](https://habr.com/ru/post/681734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681734)
 - [CherryPick DI — di библиотека для dart/flutter проектов](https://habr.com/ru/post/681714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681714)
 - [Загрузка ленивых полей](https://habr.com/ru/post/681678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681678)
 - [[Перевод] Как превратить пишущую машинку в терминал Linux](https://habr.com/ru/post/681638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681638)
-- [Мотивации преподавателей. Первая серия](https://habr.com/ru/post/681654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
