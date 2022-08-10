@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday, my java dudes, или насколько сложно сделать свою JVM](https://habr.com/ru/post/681844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681844)
+- [Задачи на собеседованиях. Event loop. JS](https://habr.com/ru/post/681882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681882)
+- [Как не перестать быть data driven из-за data driften, или Пару слов о дрейфе данных](https://habr.com/ru/post/681772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681772)
 - [CJM для сайта НПФ «Национальный»: реальный кейс, нереальные персонажи](https://habr.com/ru/post/681860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681860)
 - [[Перевод] Создаем классный UI: iOS Shape Morphing](https://habr.com/ru/post/681820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681820)
-- [Моя история: из продаж в разработчики EdTech](https://habr.com/ru/post/681798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681798)
-- [[recovery mode] Простое REST api для сайта на php хостинге](https://habr.com/ru/post/681784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681784)
-- [NSA k8s security: Агентство национальной безопасности раскрывает секреты Kubernetes](https://habr.com/ru/post/681696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
