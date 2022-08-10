@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я провел лето. Пишем RPC фреймворк. Часть первая: сетевое взаимодействие](https://habr.com/ru/post/681832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681832)
+- [CJM для сайта НПФ «Национальный»: реальный кейс, нереальные персонажи](https://habr.com/ru/post/681860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681860)
 - [[Перевод] Создаем классный UI: iOS Shape Morphing](https://habr.com/ru/post/681820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681820)
 - [Моя история: из продаж в разработчики EdTech](https://habr.com/ru/post/681798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681798)
 - [[recovery mode] Простое REST api для сайта на php хостинге](https://habr.com/ru/post/681784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681784)
