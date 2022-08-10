@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [NSA k8s security: Агентство национальной безопасности раскрывает секреты безопасного Kubernetes](https://habr.com/ru/post/681696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681696)
+- [Заметка о полезных возможностях современного CSS](https://habr.com/ru/post/681422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681422)
 - [Холостые циклы в Java](https://habr.com/ru/post/674116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674116)
 - [Ищем-ищем нужное…](https://habr.com/ru/post/680220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680220)
 - [Сравнение Quartz, kagkarlsson и кастомной реализации для запланированного задания в реактивном Spring Boot приложении](https://habr.com/ru/post/679162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679162)
-- [Обзор rotoro cloud — платформа для обучения и практики devops, kubernetes, IaC](https://habr.com/ru/post/681756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681756)
-- [Слова одни скрывают часто слова другие](https://habr.com/ru/post/681742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
