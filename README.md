@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моя история: из продаж в разработчики EdTech](https://habr.com/ru/post/681798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681798)
 - [[recovery mode] Простое REST api для сайта на php хостинге](https://habr.com/ru/post/681784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681784)
 - [NSA k8s security: Агентство национальной безопасности раскрывает секреты Kubernetes](https://habr.com/ru/post/681696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681696)
 - [Заметка о полезных возможностях современного CSS](https://habr.com/ru/post/681422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681422)
 - [Холостые циклы в Java](https://habr.com/ru/post/674116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674116)
-- [Ищем-ищем нужное…](https://habr.com/ru/post/680220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
