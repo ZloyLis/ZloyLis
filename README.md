@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OAuth в iOS](https://habr.com/ru/post/681998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681998)
+- [Скачиваешь кота в мешке: почему невыгодно пиратить курсы](https://habr.com/ru/post/681988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681988)
+- [[Перевод] Эскалация привилегий при помощи polkit: как заполучить root-доступ в Linux, воспользовавшись семилетним багом](https://habr.com/ru/post/681664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681664)
 - [Проблема с использованием тега img и picture в Safari](https://habr.com/ru/post/682014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682014)
 - [Как работает WorkManager в Android](https://habr.com/ru/post/681804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681804)
-- [Паттерны проектирования в Dart. Часть 3](https://habr.com/ru/post/681954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681954)
-- [[Перевод] Конфиденциальность iOS: Instagram* и Facebook* могут отслеживать всю вашу активность в браузере внутри приложения](https://habr.com/ru/post/681980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681980)
-- [Обзор GraphQL-фреймворков на Java](https://habr.com/ru/post/681910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
