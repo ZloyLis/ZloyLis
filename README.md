@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шахматы на C++](https://habr.com/ru/post/682122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682122)
 - [[Перевод] Как написать «Змейку» в четыре переменные?](https://habr.com/ru/post/682048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682048)
 - [Как я «нырнул» в АйТи](https://habr.com/ru/post/682116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682116)
 - [Деньги, знания, самооценка: зачем айтишнику становиться ментором](https://habr.com/ru/post/681908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681908)
 - [Личный опыт: переезд на собственное хранилище репозиториев в GitLab CE](https://habr.com/ru/post/681888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681888)
-- [Создаём своё объектное хранилище за чаc](https://habr.com/ru/post/681800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
