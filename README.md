@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Конфиденциальность iOS: Instagram* и Facebook* могут отслеживать всю вашу активность в браузере внутри приложения](https://habr.com/ru/post/681980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681980)
 - [Обзор GraphQL-фреймворков на Java](https://habr.com/ru/post/681910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681910)
 - [[recovery mode] SOLID на практике в автоматизации тестирования](https://habr.com/ru/post/681936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681936)
 - [[Перевод] Как сократить код Canvas API в Svelte](https://habr.com/ru/post/681866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681866)
 - [It is Wednesday, my java dudes, или насколько сложно сделать свою JVM](https://habr.com/ru/post/681844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681844)
-- [Задачи на собеседованиях. Event loop. JS](https://habr.com/ru/post/681882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
