@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём своё объектное хранилище за чаc](https://habr.com/ru/post/681800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681800)
 - [Динамический импорт модулей в Python](https://habr.com/ru/post/681680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681680)
 - [Почему каждый разработчик должен уметь пользоваться командной строкой bash](https://habr.com/ru/post/682042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682042)
 - [[Перевод] История про баг, который обернулся фичей](https://habr.com/ru/post/682040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682040)
 - [Алгоритм обучения CBOW архитектуры для векторизации слов](https://habr.com/ru/post/682032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682032)
-- [Дроны на «Северстали» или как мы цифровизовали маркшейдинг](https://habr.com/ru/post/682030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
