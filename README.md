@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth в iOS](https://habr.com/ru/post/681998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681998)
-- [Скачиваешь кота в мешке: почему невыгодно пиратить курсы](https://habr.com/ru/post/681988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681988)
-- [[Перевод] Эскалация привилегий при помощи polkit: как заполучить root-доступ в Linux, воспользовавшись семилетним багом](https://habr.com/ru/post/681664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681664)
-- [Проблема с использованием тега img и picture в Safari](https://habr.com/ru/post/682014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682014)
-- [Как работает WorkManager в Android](https://habr.com/ru/post/681804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681804)
+- [Динамический импорт модулей в Python](https://habr.com/ru/post/681680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681680)
+- [Почему каждый разработчик должен уметь пользоваться командной строкой bash](https://habr.com/ru/post/682042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682042)
+- [[Перевод] История про баг, который обернулся фичей](https://habr.com/ru/post/682040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682040)
+- [Алгоритм обучения CBOW архитектуры для векторизации слов](https://habr.com/ru/post/682032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682032)
+- [Дроны на «Северстали» или как мы цифровизовали маркшейдинг](https://habr.com/ru/post/682030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
