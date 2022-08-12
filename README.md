@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Жизнь после мейнстрима: что стало с известными ранее стандартами и технологиями](https://habr.com/ru/post/681876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681876)
+- [8 каверзных вопросов по С++](https://habr.com/ru/post/682184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682184)
+- [Шесть этапов развития обучения в QA-отделе](https://habr.com/ru/post/682202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682202)
 - [Зачем мы сделали собственный контроллер для копирования секретов в Kubernetes](https://habr.com/ru/post/682062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682062)
 - [От 50 тыс до 1,7 млн пользователей за два года](https://habr.com/ru/post/682192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682192)
-- [Выходим за пределы JVM. Объясняем на крестиках-ноликах чем хорош Kotlin Multiplatform](https://habr.com/ru/post/682160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682160)
-- [Разбираемся с концепцией аутентификации в HTTP](https://habr.com/ru/post/682170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682170)
-- [[Перевод] Квантовые алгоритмы побеждают новый вид проблем](https://habr.com/ru/post/682136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
