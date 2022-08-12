@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три компонента, которые упростят жизнь React верстальщику](https://habr.com/ru/post/682276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682276)
+- [Приключения чисел в python и mypy или the numeric tower](https://habr.com/ru/post/682272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682272)
 - [Workaround me в 1С\MS SQL и не только, научный подход к созданию костылей](https://habr.com/ru/post/682260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682260)
 - [Подборка самых просматриваемых докладов на PHDays 11. AI-трек](https://habr.com/ru/post/680774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680774)
 - [[Перевод] Почему изучать программирование так сложно?](https://habr.com/ru/post/682250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682250)
-- [Связь GreenPlum и PostgreSQL](https://habr.com/ru/post/682248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682248)
-- [[Перевод] Занимательная задачка о просачивании шестиугольников](https://habr.com/ru/post/682240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
