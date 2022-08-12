@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение языка Python в инженерной практике](https://habr.com/ru/post/682306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682306)
 - [[Перевод] Rust 1.63.0: потоки области видимости, I/O безопасность, NLL во всех редакциях по умолчанию](https://habr.com/ru/post/682300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682300)
 - [PowerShell: HTML Agility Pack и AngleSharp](https://habr.com/ru/post/682298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682298)
 - [ML в Managed Kubernetes: для каких задач нужен кластер с GPU](https://habr.com/ru/post/682284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682284)
 - [Решение популярной задачи про книги](https://habr.com/ru/post/682288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682288)
-- [Три компонента, которые упростят жизнь React верстальщику](https://habr.com/ru/post/682276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
