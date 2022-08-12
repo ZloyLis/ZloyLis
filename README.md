@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Жизнь после мейнстрима: что стало с известными ранее стандартами и технологиями](https://habr.com/ru/post/681876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681876)
-- [8 каверзных вопросов по С++](https://habr.com/ru/post/682184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682184)
-- [Шесть этапов развития обучения в QA-отделе](https://habr.com/ru/post/682202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682202)
-- [Зачем мы сделали собственный контроллер для копирования секретов в Kubernetes](https://habr.com/ru/post/682062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682062)
-- [От 50 тыс до 1,7 млн пользователей за два года](https://habr.com/ru/post/682192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682192)
+- [Ошибка.log&lpar;&rpar;: как логируются ошибки в мобильном приложении Авито](https://habr.com/ru/post/681752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681752)
+- [Релиз языка программирования NewLang 0.2](https://habr.com/ru/post/681960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681960)
+- [[recovery mode] Уменьшение приватного ключа через скалярное умножение используем библиотеку ECPy + Google Colab](https://habr.com/ru/post/682220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682220)
+- [Навигация в Swift UI: что изменилось с появлением iOS 16](https://habr.com/ru/post/682156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682156)
+- [[Перевод] Действительно ли генераторы помогают экономить память?](https://habr.com/ru/post/599113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=599113)
 <!-- BLOG-POST-LIST:END -->
 
 ---
