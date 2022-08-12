@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ML в Managed Kubernetes: для каких задач нужен кластер с GPU](https://habr.com/ru/post/682284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682284)
+- [Решение популярной задачи про книги](https://habr.com/ru/post/682288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682288)
 - [Три компонента, которые упростят жизнь React верстальщику](https://habr.com/ru/post/682276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682276)
 - [Приключения чисел в python и mypy или the numeric tower](https://habr.com/ru/post/682272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682272)
 - [Workaround me в 1С\MS SQL и не только, научный подход к созданию костылей](https://habr.com/ru/post/682260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682260)
-- [Подборка самых просматриваемых докладов на PHDays 11. AI-трек](https://habr.com/ru/post/680774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680774)
-- [[Перевод] Почему изучать программирование так сложно?](https://habr.com/ru/post/682250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
