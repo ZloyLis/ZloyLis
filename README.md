@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Workaround me в 1С\MS SQL и не только, научный подход к созданию костылей](https://habr.com/ru/post/682260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682260)
+- [Подборка самых просматриваемых докладов на PHDays 11. AI-трек](https://habr.com/ru/post/680774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680774)
 - [[Перевод] Почему изучать программирование так сложно?](https://habr.com/ru/post/682250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682250)
 - [Связь GreenPlum и PostgreSQL](https://habr.com/ru/post/682248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682248)
 - [[Перевод] Занимательная задачка о просачивании шестиугольников](https://habr.com/ru/post/682240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682240)
-- [Ошибка.log&lpar;&rpar;: как логируются ошибки в мобильном приложении Авито](https://habr.com/ru/post/681752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681752)
-- [Релиз языка программирования NewLang 0.2](https://habr.com/ru/post/681960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
