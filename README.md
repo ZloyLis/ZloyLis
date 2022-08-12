@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UI/UX: Цели и типы интерактивных прототипов](https://habr.com/ru/post/682128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682128)
 - [Xamarin.Forms: Кастомные пины для xamarin.maps](https://habr.com/ru/post/682134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682134)
 - [Шахматы на C++](https://habr.com/ru/post/682122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682122)
 - [[Перевод] Как написать «Змейку» в четыре переменные?](https://habr.com/ru/post/682048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682048)
 - [Как я «нырнул» в АйТи](https://habr.com/ru/post/682116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682116)
-- [Деньги, знания, самооценка: зачем айтишнику становиться ментором](https://habr.com/ru/post/681908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
