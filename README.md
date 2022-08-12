@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Связь GreenPlum и PostgreSQL](https://habr.com/ru/post/682248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682248)
+- [[Перевод] Занимательная задачка о просачивании шестиугольников](https://habr.com/ru/post/682240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682240)
 - [Ошибка.log&lpar;&rpar;: как логируются ошибки в мобильном приложении Авито](https://habr.com/ru/post/681752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681752)
 - [Релиз языка программирования NewLang 0.2](https://habr.com/ru/post/681960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681960)
-- [[recovery mode] Уменьшение приватного ключа через скалярное умножение используем библиотеку ECPy + Google Colab](https://habr.com/ru/post/682220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682220)
 - [Навигация в Swift UI: что изменилось с появлением iOS 16](https://habr.com/ru/post/682156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682156)
-- [[Перевод] Действительно ли генераторы помогают экономить память?](https://habr.com/ru/post/599113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=599113)
 <!-- BLOG-POST-LIST:END -->
 
 ---
