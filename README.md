@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выходим за пределы JVM. Объясняем на крестиках-ноликах чем хорош Kotlin Multiplatform](https://habr.com/ru/post/682160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682160)
+- [Разбираемся с концепцией аутентификации в HTTP](https://habr.com/ru/post/682170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682170)
 - [[Перевод] Квантовые алгоритмы побеждают новый вид проблем](https://habr.com/ru/post/682136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682136)
 - [LINSTOR — это как Kubernetes, но для блочных устройств &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/post/680286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680286)
 - [UI/UX: Цели и типы интерактивных прототипов](https://habr.com/ru/post/682128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682128)
-- [Xamarin.Forms: Кастомные пины для xamarin.maps](https://habr.com/ru/post/682134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682134)
-- [Шахматы на C++](https://habr.com/ru/post/682122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
