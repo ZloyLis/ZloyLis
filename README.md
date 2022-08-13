@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моя история подготовки к интервью в FAANG](https://habr.com/ru/post/682358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682358)
 - [[recovery mode] Атака на String.hashCode: прообразы и коллизии](https://habr.com/ru/post/674816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674816)
 - [[Перевод] Ошибка в stacktrace из продакшена](https://habr.com/ru/post/677264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677264)
 - [Сложно, но можно — стажировка в Яндекс Go](https://habr.com/ru/post/682334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682334)
 - [Делаем качественные требования с помощью Таблиц принятия решений](https://habr.com/ru/post/682326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682326)
-- [Бесплатные мероприятия по разработке &lpar;18 августа — 15 сентября 2022&rpar;](https://habr.com/ru/post/682266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
