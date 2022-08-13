@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сложно, но можно — стажировка в Яндекс Go](https://habr.com/ru/post/682334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682334)
 - [Делаем качественные требования с помощью Таблиц принятия решений](https://habr.com/ru/post/682326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682326)
 - [Бесплатные мероприятия по разработке &lpar;18 августа — 15 сентября 2022&rpar;](https://habr.com/ru/post/682266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682266)
 - [Зарница 2016: Кибер-атака](https://habr.com/ru/post/682316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682316)
 - [Применение языка Python в инженерной практике](https://habr.com/ru/post/682306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682306)
-- [[Перевод] Rust 1.63.0: потоки области видимости, I/O безопасность, NLL во всех редакциях по умолчанию](https://habr.com/ru/post/682300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
