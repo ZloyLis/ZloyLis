@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как создать игру Tetris с помощью Three.js](https://habr.com/ru/post/680666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680666)
 - [Моя история подготовки к интервью в FAANG](https://habr.com/ru/post/682358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682358)
 - [[recovery mode] Атака на String.hashCode: прообразы и коллизии](https://habr.com/ru/post/674816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674816)
 - [[Перевод] Ошибка в stacktrace из продакшена](https://habr.com/ru/post/677264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=677264)
 - [Сложно, но можно — стажировка в Яндекс Go](https://habr.com/ru/post/682334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682334)
-- [Делаем качественные требования с помощью Таблиц принятия решений](https://habr.com/ru/post/682326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
