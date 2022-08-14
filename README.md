@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод - recovery mode ] Использование GitHub Actions с C++ и CMake](https://habr.com/ru/post/682458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682458)
 - [Flutter Flame: подходы к оптимизации](https://habr.com/ru/post/682452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682452)
 - [PowerShell: обход и визуализация HTML-дерева из файла](https://habr.com/ru/post/682438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682438)
 - [Скрытые жемчужины — сетевые протоколы, о которых мало кто слышал](https://habr.com/ru/post/682370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682370)
 - [Онлайн курсы по программированию и что они дают на самом деле](https://habr.com/ru/post/682434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682434)
-- [[Перевод] Введение в Event Modeling](https://habr.com/ru/post/682424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
