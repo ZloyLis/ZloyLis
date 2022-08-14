@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Онлайн курсы по программированию и что они дают на самом деле](https://habr.com/ru/post/682434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682434)
+- [[Перевод] Введение в Event Modeling](https://habr.com/ru/post/682424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682424)
 - [Сквозное и интеграционное тестирование просто, как юнит-тесты](https://habr.com/ru/post/682420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682420)
 - [[Перевод] CCIP &lpar;Cross-Chain Interoperability Protocol&rpar; — протокол кросс-чейн совместимости экосистемы блокчейн](https://habr.com/ru/post/681128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681128)
 - [Логотип PSone и где он обитает](https://habr.com/ru/post/682244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682244)
-- [[Перевод] Как создать игру Tetris с помощью Three.js](https://habr.com/ru/post/680666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680666)
-- [Моя история подготовки к интервью в FAANG](https://habr.com/ru/post/682358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
