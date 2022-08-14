@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: обход и визуализация HTML-дерева из файла](https://habr.com/ru/post/682438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682438)
+- [Скрытые жемчужины — сетевые протоколы, о которых мало кто слышал](https://habr.com/ru/post/682370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682370)
 - [Онлайн курсы по программированию и что они дают на самом деле](https://habr.com/ru/post/682434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682434)
 - [[Перевод] Введение в Event Modeling](https://habr.com/ru/post/682424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682424)
 - [Сквозное и интеграционное тестирование просто, как юнит-тесты](https://habr.com/ru/post/682420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682420)
-- [[Перевод] CCIP &lpar;Cross-Chain Interoperability Protocol&rpar; — протокол кросс-чейн совместимости экосистемы блокчейн](https://habr.com/ru/post/681128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681128)
-- [Логотип PSone и где он обитает](https://habr.com/ru/post/682244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
