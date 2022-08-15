@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мета-приложения и Symbiote.js](https://habr.com/ru/post/682580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682580)
+- [Гибкие и современные: телефоны со складными экранами последнего времени. Кто из производителей что предлагает](https://habr.com/ru/post/571868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=571868)
 - [Event-driven архитектура в Kubernetes](https://habr.com/ru/post/682466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682466)
 - [Как мы адаптировали «1С: Предприятие» под работу в облаке VK Cloud](https://habr.com/ru/post/681782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681782)
 - [[Перевод] Эффективное использование any и all в Python](https://habr.com/ru/post/681426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681426)
-- [Обзор смартфона Google Pixel 6: авангард мобильной фотографии](https://habr.com/ru/post/682538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682538)
-- [Кастомный отчет для Jira или как приключение затянулось](https://habr.com/ru/post/681874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
