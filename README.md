@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мета-приложения и Symbiote.js](https://habr.com/ru/post/682580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682580)
-- [Гибкие и современные: телефоны со складными экранами последнего времени. Кто из производителей что предлагает](https://habr.com/ru/post/571868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=571868)
-- [Event-driven архитектура в Kubernetes](https://habr.com/ru/post/682466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682466)
-- [Как мы адаптировали «1С: Предприятие» под работу в облаке VK Cloud](https://habr.com/ru/post/681782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681782)
-- [[Перевод] Эффективное использование any и all в Python](https://habr.com/ru/post/681426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681426)
+- [Простые highload паттерны на Go](https://habr.com/ru/post/682618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682618)
+- [[Перевод] 9 причин перейти с Python на Go](https://habr.com/ru/post/682084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682084)
+- [[Перевод] Pre-Commit хуки, о которых DevOps-инженер должен знать, чтобы управлять Kubernetes](https://habr.com/ru/post/682612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682612)
+- [Тестируем новую ERP-систему: 5 аспектов, которые нельзя оставить без внимания](https://habr.com/ru/post/682606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682606)
+- [Требования не меняются, это мы их недовыявили. 10 техник проверки полноты требований](https://habr.com/ru/post/682598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
