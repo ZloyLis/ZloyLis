@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор смартфона Google Pixel 6: авангард мобильной фотографии](https://habr.com/ru/post/682538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682538)
+- [Кастомный отчет для Jira или как приключение затянулось](https://habr.com/ru/post/681874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681874)
+- [[Перевод] Это кто понаписал?](https://habr.com/ru/post/682528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682528)
+- [Как запустить мобильное приложение за две недели с помощью PWA](https://habr.com/ru/post/682526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682526)
 - [Децентрализованное будущее. Каждому человеку — безопасная капсула для личных данных](https://habr.com/ru/post/681356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681356)
-- [[Перевод] Лучший учебник по математике? «Вычисляем легко»](https://habr.com/ru/post/682512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682512)
-- [Использовать ли Reusable Workflows в GitHub Actions?](https://habr.com/ru/post/682208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682208)
-- [Дайджест интересных материалов для мобильного разработчика #452 &lpar;8 — 14 августа&rpar;](https://habr.com/ru/post/682474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682474)
-- [Любительская почта — чебурнет судного дня](https://habr.com/ru/post/682472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
