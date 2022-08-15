@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На чем сфокусироваться руководителю агентства в турбулентные времена?](https://habr.com/ru/post/682644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682644)
 - [Простые highload паттерны на Go](https://habr.com/ru/post/682618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682618)
 - [[Перевод] 9 причин перейти с Python на Go](https://habr.com/ru/post/682084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682084)
 - [[Перевод] Pre-Commit хуки, о которых DevOps-инженер должен знать, чтобы управлять Kubernetes](https://habr.com/ru/post/682612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682612)
 - [Тестируем новую ERP-систему: 5 аспектов, которые нельзя оставить без внимания](https://habr.com/ru/post/682606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682606)
-- [Требования не меняются, это мы их недовыявили. 10 техник проверки полноты требований](https://habr.com/ru/post/682598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
