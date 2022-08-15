@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Децентрализованное будущее. Каждому человеку — безопасная капсула для личных данных](https://habr.com/ru/post/681356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681356)
+- [[Перевод] Лучший учебник по математике? «Вычисляем легко»](https://habr.com/ru/post/682512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682512)
+- [Использовать ли Reusable Workflows в GitHub Actions?](https://habr.com/ru/post/682208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682208)
 - [Дайджест интересных материалов для мобильного разработчика #452 &lpar;8 — 14 августа&rpar;](https://habr.com/ru/post/682474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682474)
 - [Любительская почта — чебурнет судного дня](https://habr.com/ru/post/682472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682472)
-- [[Перевод - recovery mode ] Использование GitHub Actions с C++ и CMake](https://habr.com/ru/post/682458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682458)
-- [Flutter Flame: подходы к оптимизации](https://habr.com/ru/post/682452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682452)
-- [PowerShell: обход и визуализация HTML-дерева из файла](https://habr.com/ru/post/682438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
