@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Django и PWA](https://habr.com/ru/post/682790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682790)
+- [[Перевод] Управление транзакциями в спринге: @Transactional в деталях](https://habr.com/ru/post/682362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682362)
 - [[Перевод] Заметка о Mapped Types и других полезных возможностях современного TypeScript](https://habr.com/ru/post/682748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682748)
 - [Чиним баг в iOS Firebase RemoteConfig](https://habr.com/ru/post/682688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682688)
 - [[Перевод] Что люди не понимают о React Native Modals](https://habr.com/ru/post/682760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682760)
-- [Оценка &lpar;не&rpar;покрытия кода по результатам динамического анализа](https://habr.com/ru/post/682226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682226)
-- [Программирование для админа: какой язык выбрать?](https://habr.com/ru/post/682750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
