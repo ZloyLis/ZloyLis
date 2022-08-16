@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как распознать незрелого руководителя](https://habr.com/ru/post/682828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682828)
+- [Можно ли чему-то научиться, пригласив эксперта с лекцией](https://habr.com/ru/post/682816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682816)
+- [Почему так много неэффективных совещаний](https://habr.com/ru/post/682812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682812)
+- [[Перевод] i18n в Go: работа с переводами — Часть 1](https://habr.com/ru/post/682808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682808)
 - [Звёзды в IT-команде: зачем, чего хотят, как удержать](https://habr.com/ru/post/682622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682622)
-- [Самопишущийся код](https://habr.com/ru/post/682206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682206)
-- [Django и PWA](https://habr.com/ru/post/682790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682790)
-- [[Перевод] Управление транзакциями в спринге: @Transactional в деталях](https://habr.com/ru/post/682362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682362)
-- [[Перевод] Заметка о Mapped Types и других полезных возможностях современного TypeScript](https://habr.com/ru/post/682748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
