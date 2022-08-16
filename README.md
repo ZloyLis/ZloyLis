@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кастомное автоматическое обновление конфигураций клиентов Spring Cloud Config Server. Часть 2: настройка сервера](https://habr.com/ru/post/682594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682594)
+- [[Перевод] Чистый код — практический подход](https://habr.com/ru/post/682922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682922)
 - [Как избавиться от старого продукта, не удаляя продукт?](https://habr.com/ru/post/682894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682894)
 - [Верстка форм на примере контактной формы в Drupal](https://habr.com/ru/post/682908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682908)
 - [Модульный робот-манипулятор HUENIT все в одном, 3D принтер, лазерный гравер, вакуумный захват, AI камера](https://habr.com/ru/post/674796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674796)
-- [HTML, CSS: какие символы можно использовать в названиях классов CSS](https://habr.com/ru/post/682844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682844)
-- [Как распознать незрелого руководителя](https://habr.com/ru/post/682828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
