@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Заметка о Mapped Types и других полезных возможностях современного TypeScript](https://habr.com/ru/post/682748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682748)
+- [Чиним баг в iOS Firebase RemoteConfig](https://habr.com/ru/post/682688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682688)
+- [[Перевод] Что люди не понимают о React Native Modals](https://habr.com/ru/post/682760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682760)
 - [Оценка &lpar;не&rpar;покрытия кода по результатам динамического анализа](https://habr.com/ru/post/682226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682226)
 - [Программирование для админа: какой язык выбрать?](https://habr.com/ru/post/682750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682750)
-- [Делаем конфиг сервер безсерверным при помощи AWS API Gateway и DynamoDB](https://habr.com/ru/post/682684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682684)
-- [Как один парень программистов учиться приучил](https://habr.com/ru/post/682742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682742)
-- [Большой гайд. Пишем микросервисы на Java и Spring Boot, заворачиваем в Docker, запускаем на EKS, мониторим на Grafana](https://habr.com/ru/post/682720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
