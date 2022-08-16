@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модульный робот-манипулятор HUENIT все в одном, 3D принтер, лазерный гравер, вакуумный захват, AI камера](https://habr.com/ru/post/674796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674796)
+- [HTML, CSS: какие символы можно использовать в названиях классов CSS](https://habr.com/ru/post/682844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682844)
 - [Как распознать незрелого руководителя](https://habr.com/ru/post/682828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682828)
 - [Можно ли чему-то научиться, пригласив эксперта с лекцией](https://habr.com/ru/post/682816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682816)
 - [Почему так много неэффективных совещаний](https://habr.com/ru/post/682812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682812)
-- [[Перевод] i18n в Go: работа с переводами — Часть 1](https://habr.com/ru/post/682808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682808)
-- [Звёзды в IT-команде: зачем, чего хотят, как удержать](https://habr.com/ru/post/682622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
