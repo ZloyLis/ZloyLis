@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как рассуждать, чтобы проходить Capture The Flag игры](https://habr.com/ru/post/682986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682986)
 - [Теория алгоритма лежащего в основе разума](https://habr.com/ru/post/682938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682938)
 - [Кастомное автоматическое обновление конфигураций клиентов Spring Cloud Config Server. Часть 2: настройка сервера](https://habr.com/ru/post/682594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682594)
 - [[Перевод] Чистый код — практический подход](https://habr.com/ru/post/682922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682922)
 - [Как избавиться от старого продукта, не удаляя продукт?](https://habr.com/ru/post/682894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682894)
-- [Верстка форм на примере контактной формы в Drupal](https://habr.com/ru/post/682908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
