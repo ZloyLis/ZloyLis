@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Технологии NiFi &amp;amp; Kafka: применение &lpar;часть 1&rpar;](https://habr.com/ru/post/683022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683022)
+- [Умная подсказка в навигаторе: что могло пойти не так](https://habr.com/ru/post/682970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682970)
+- [Тернистый путь к eBPF, или Как мы Cilium в Deckhouse внедряли](https://habr.com/ru/post/682520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682520)
 - [Как рассуждать, чтобы проходить Capture The Flag игры](https://habr.com/ru/post/682986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682986)
 - [Теория алгоритма лежащего в основе разума](https://habr.com/ru/post/682938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682938)
-- [Кастомное автоматическое обновление конфигураций клиентов Spring Cloud Config Server. Часть 2: настройка сервера](https://habr.com/ru/post/682594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682594)
-- [[Перевод] Чистый код — практический подход](https://habr.com/ru/post/682922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682922)
-- [Как избавиться от старого продукта, не удаляя продукт?](https://habr.com/ru/post/682894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
