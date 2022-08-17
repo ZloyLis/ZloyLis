@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нового в Swift 5.7](https://habr.com/ru/post/683186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683186)
 - [PowerShell, HTML Agility Pack: связь с исходным HTML-файлом при его анализе](https://habr.com/ru/post/683166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683166)
 - [Растет спрос на аналитиков 1С: кто это, чем занимаются и не тупиковый ли это путь?](https://habr.com/ru/post/683144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683144)
 - [Алгоритмы для веб-разработчиков простыми словами](https://habr.com/ru/post/683128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683128)
 - [Отладка в C++ геометрии и топологии](https://habr.com/ru/post/683124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683124)
-- [Госуслуги — это просто: снижаем когнитивную нагрузку на пользователя](https://habr.com/ru/post/683110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
