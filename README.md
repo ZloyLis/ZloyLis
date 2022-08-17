@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритмы для веб-разработчиков простыми словами](https://habr.com/ru/post/683128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683128)
+- [Отладка в C++ геометрии и топологии](https://habr.com/ru/post/683124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683124)
+- [Госуслуги — это просто: снижаем когнитивную нагрузку на пользователя](https://habr.com/ru/post/683110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683110)
 - [Приглашаем на онлайновый баттл экс-тимлидов про их карьерные ловушки](https://habr.com/ru/post/683116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683116)
 - [В поисках потерянного битрейта](https://habr.com/ru/post/683064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683064)
-- [Детектирование позы человека при помощи  библиотеки OpenPose](https://habr.com/ru/post/683090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683090)
-- [Тестирование в React Native](https://habr.com/ru/post/683026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683026)
-- [Ненасильственное управление — это как](https://habr.com/ru/post/683036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
