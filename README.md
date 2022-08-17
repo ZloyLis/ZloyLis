@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на онлайновый баттл экс-тимлидов про их карьерные ловушки](https://habr.com/ru/post/683116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683116)
+- [В поисках потерянного битрейта](https://habr.com/ru/post/683064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683064)
+- [Детектирование позы человека при помощи  библиотеки OpenPose](https://habr.com/ru/post/683090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683090)
 - [Тестирование в React Native](https://habr.com/ru/post/683026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683026)
 - [Ненасильственное управление — это как](https://habr.com/ru/post/683036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683036)
-- [Зачем нужно соединять Java-программу на компьютере и Arduino?](https://habr.com/ru/post/681382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681382)
-- [Эффект от обучения: как его оценить](https://habr.com/ru/post/683030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683030)
-- [Персональное ранжирование на Авто.ру: как не потерять главный смысл поиска по параметрам](https://habr.com/ru/post/682602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
