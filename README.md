@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [IT-олимпиада в ВСК становится традицией](https://habr.com/ru/post/683388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683388)
+- [Миллиард абитуриентов МИРЭА](https://habr.com/ru/post/682754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682754)
+- [[Перевод] App Store Connect API SDK в Swift: создание инструментов разработчика](https://habr.com/ru/post/683374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683374)
 - [От Soda Luv до BTS: как ВКонтакте рекомендует музыку миллионам пользователей](https://habr.com/ru/post/683152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683152)
-- [Как изобрести велосипед и что нового можно привнести в его конструкцию](https://habr.com/ru/post/683340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683340)
 - [[Перевод] Вычисления с плавающей запятой: сравниваем вывод в разных языках](https://habr.com/ru/post/683114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683114)
-- [Виртуализация в образовании](https://habr.com/ru/post/683318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683318)
-- [PerfOps — быстрее и дешевле через сервисный подход](https://habr.com/ru/post/682746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
