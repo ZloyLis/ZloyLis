@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виртуализация в образовании](https://habr.com/ru/post/683318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683318)
 - [PerfOps — быстрее и дешевле через сервисный подход](https://habr.com/ru/post/682746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682746)
 - [Отображение возраста контактов в Гугл календаре на день их рождения](https://habr.com/ru/post/683188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683188)
 - [Иерархия модулей: как выстроить связи между модулями в Android](https://habr.com/ru/post/682252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682252)
 - [Руководство по CMake для разработчиков C++ библиотек](https://habr.com/ru/post/683204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683204)
-- [[Перевод] Что нового в Swift 5.7](https://habr.com/ru/post/683186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
