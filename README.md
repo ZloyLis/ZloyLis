@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Soda Luv до BTS: как ВКонтакте рекомендует музыку миллионам пользователей](https://habr.com/ru/post/683152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683152)
+- [Как изобрести велосипед и что нового можно привнести в его конструкцию](https://habr.com/ru/post/683340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683340)
 - [[Перевод] Вычисления с плавающей запятой: сравниваем вывод в разных языках](https://habr.com/ru/post/683114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683114)
 - [Виртуализация в образовании](https://habr.com/ru/post/683318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683318)
 - [PerfOps — быстрее и дешевле через сервисный подход](https://habr.com/ru/post/682746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682746)
-- [Отображение возраста контактов в Гугл календаре на день их рождения](https://habr.com/ru/post/683188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683188)
-- [Иерархия модулей: как выстроить связи между модулями в Android](https://habr.com/ru/post/682252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
