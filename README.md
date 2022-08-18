@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Toshiba Tecra 8200, страшный DOS и руины интернета](https://habr.com/ru/post/683438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683438)
 - [[Перевод] GitHub Copilot — он вам не нужен](https://habr.com/ru/post/683412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683412)
 - [IT-олимпиада в ВСК становится традицией](https://habr.com/ru/post/683388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683388)
 - [Миллиард абитуриентов МИРЭА](https://habr.com/ru/post/682754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682754)
 - [[Перевод] App Store Connect API SDK в Swift: создание инструментов разработчика](https://habr.com/ru/post/683374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683374)
-- [От Soda Luv до BTS: как ВКонтакте рекомендует музыку миллионам пользователей](https://habr.com/ru/post/683152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
