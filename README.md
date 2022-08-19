@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Знакомимся с дата-ориентированным проектированием на примере Rust](https://habr.com/ru/post/683386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683386)
+- [Jetpack Compose: реализация меню Apple Watch](https://habr.com/ru/post/683264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683264)
 - [Вредные советы для React-разработчиков](https://habr.com/ru/post/683338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683338)
 - [Анимации и вибрации: как задизайнить фидбэк слайдера оплаты](https://habr.com/ru/post/682846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682846)
 - [[Перевод] Вот почему нужно использовать оператор := в Python](https://habr.com/ru/post/683418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683418)
-- [Расчет и анализ корреляционного отношения средствами Python](https://habr.com/ru/post/683442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683442)
-- [Toshiba Tecra 8200, страшный DOS и руины интернета](https://habr.com/ru/post/683438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
