@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микрофронты для всех. Как мы построили платформу UIF, и что под капотом](https://habr.com/ru/post/683416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683416)
 - [Суффиксное дерево на python](https://habr.com/ru/post/681940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681940)
 - [Чего ждать от NeoVim: особенности редактора](https://habr.com/ru/post/682962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682962)
 - [Процессы тестирования в условиях большого роста команды](https://habr.com/ru/post/683534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683534)
 - [[Перевод] Знакомимся с дата-ориентированным проектированием на примере Rust](https://habr.com/ru/post/683386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683386)
-- [Jetpack Compose: реализация меню Apple Watch](https://habr.com/ru/post/683264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
