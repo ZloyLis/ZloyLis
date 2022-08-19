@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расписание занятий — не всё так просто](https://habr.com/ru/post/683646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683646)
 - [Доступ к API Binance, KuCoin и Huobi на C#](https://habr.com/ru/post/683636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683636)
 - [Топ докладов с TeamLead Conf по версии команды Тинькофф](https://habr.com/ru/post/683612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683612)
 - [[Перевод] Искусственный интеллект в тестировании: 13 полезных ресурсов для QA инженеров](https://habr.com/ru/post/683594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683594)
 - [Inkscape с 0 до Pro за 5 дней](https://habr.com/ru/post/683592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683592)
-- [Как работает видеоаналитика Билайн](https://habr.com/ru/post/683586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
