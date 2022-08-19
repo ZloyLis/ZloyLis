@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Суффиксное дерево на python](https://habr.com/ru/post/681940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681940)
+- [Чего ждать от NeoVim: особенности редактора](https://habr.com/ru/post/682962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682962)
+- [Процессы тестирования в условиях большого роста команды](https://habr.com/ru/post/683534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683534)
 - [[Перевод] Знакомимся с дата-ориентированным проектированием на примере Rust](https://habr.com/ru/post/683386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683386)
 - [Jetpack Compose: реализация меню Apple Watch](https://habr.com/ru/post/683264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683264)
-- [Вредные советы для React-разработчиков](https://habr.com/ru/post/683338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683338)
-- [Анимации и вибрации: как задизайнить фидбэк слайдера оплаты](https://habr.com/ru/post/682846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682846)
-- [[Перевод] Вот почему нужно использовать оператор := в Python](https://habr.com/ru/post/683418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
