@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеальной стажировки не суще… Каааак?](https://habr.com/ru/post/683700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683700)
+- [Во что обернулась пересылка MQTT-сообщений в Telegram?](https://habr.com/ru/post/683698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683698)
 - [PowerShell, HTML Agility Pack: разбор классов CSS на узле HTML-дерева](https://habr.com/ru/post/683692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683692)
 - [Тренажеры для тестировщика. Где взять практику?](https://habr.com/ru/post/683664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683664)
 - [Бесплатные мероприятия по разработке &lpar;20 августа — 15 сентября 2022&rpar;](https://habr.com/ru/post/683626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683626)
-- [[Перевод] О новом простом методе снижения высокой размерности данных](https://habr.com/ru/post/683498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683498)
-- [Расписание занятий — не всё так просто](https://habr.com/ru/post/683646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
