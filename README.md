@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Очередной заход на Гипотезу Коллатца. Простая арифметика, ориентированные графы и прямая генерация нечётных чисел](https://habr.com/ru/post/683788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683788)
 - [Зачем компании IT-стажировки](https://habr.com/ru/post/683784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683784)
 - [Как связать Rstudio с Github: актуально для пользователей Mac OS](https://habr.com/ru/post/683768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683768)
 - [Во что обернулась пересылка MQTT-сообщений в Telegram?](https://habr.com/ru/post/683698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683698)
 - [PowerShell, HTML Agility Pack: разбор классов CSS на узле HTML-дерева](https://habr.com/ru/post/683692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683692)
-- [Тренажеры для тестировщика. Где взять практику?](https://habr.com/ru/post/683664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
