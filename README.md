@@ -28,9 +28,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Отслеживание сетевого трафика в Kubernetes: примеры кода и практические советы](https://habr.com/ru/post/683256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683256)
 - [[Перевод] 4 анти-паттерна pandas и способы борьбы с ними](https://habr.com/ru/post/682388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682388)
-- [Программная платформа для разработки приложений. Что это, и для чего она нужна?](https://habr.com/ru/post/683878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683878)
 - [Парсим строки с SMT-решателем](https://habr.com/ru/post/683670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683670)
 - [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/post/683608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683608)
+- [Улучшаем производительность: виртуальный рендеринг для больших объемов данных](https://habr.com/ru/post/678202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
