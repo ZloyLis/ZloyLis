@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;15.08 – 21.08.22&rpar;](https://habr.com/ru/post/683966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683966)
+- [Security Week 2234: вредоносные расширения для браузеров](https://habr.com/ru/post/683952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683952)
 - [[Перевод] i18n в Go: работа с переводами — Часть 2](https://habr.com/ru/post/683988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683988)
 - [Что будет с iOS-разработкой в России](https://habr.com/ru/post/683910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683910)
 - [Как создавать анимации в Jetpack Compose](https://habr.com/ru/post/683656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683656)
-- [Сравнение стандарта PEP8 и «Чистого кода» Роберта Мартина](https://habr.com/ru/post/683956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683956)
-- [Spring Boot 3.0 — готовимся заранее](https://habr.com/ru/post/683936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
