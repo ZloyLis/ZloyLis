@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] i18n в Go: работа с переводами — Часть 2](https://habr.com/ru/post/683988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683988)
 - [Что будет с iOS-разработкой в России](https://habr.com/ru/post/683910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683910)
 - [Как создавать анимации в Jetpack Compose](https://habr.com/ru/post/683656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683656)
 - [Сравнение стандарта PEP8 и «Чистого кода» Роберта Мартина](https://habr.com/ru/post/683956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683956)
 - [Spring Boot 3.0 — готовимся заранее](https://habr.com/ru/post/683936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683936)
-- [Разработка системы рекомендаций для YouTravel](https://habr.com/ru/post/683888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
