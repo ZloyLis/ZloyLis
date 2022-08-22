@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсим строки с SMT-решателем](https://habr.com/ru/post/683670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683670)
+- [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/post/683608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683608)
+- [Улучшаем производительность: виртуальный рендеринг для больших объемов данных](https://habr.com/ru/post/678202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678202)
 - [Заметка о Redux и Zustand](https://habr.com/ru/post/683726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683726)
 - [Дайджест интересных материалов для мобильного разработчика #453 &lpar;15 — 21 августа&rpar;](https://habr.com/ru/post/683822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683822)
-- [Я у мамы криптотрейдер](https://habr.com/ru/post/683814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683814)
-- [[Перевод] Необычный Python в обычных библиотеках](https://habr.com/ru/post/683744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683744)
-- [[recovery mode] Восстановление Биткоин Кошелька через короткие подписи ECDSA](https://habr.com/ru/post/683802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
