@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравнение стандарта PEP8 и «Чистого кода» Роберта Мартина](https://habr.com/ru/post/683956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683956)
+- [Spring Boot 3.0 — готовимся заранее](https://habr.com/ru/post/683936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683936)
 - [Разработка системы рекомендаций для YouTravel](https://habr.com/ru/post/683888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683888)
 - [[Перевод] Отслеживание сетевого трафика в Kubernetes: примеры кода и практические советы](https://habr.com/ru/post/683256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683256)
 - [[Перевод] 4 анти-паттерна pandas и способы борьбы с ними](https://habr.com/ru/post/682388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682388)
-- [Парсим строки с SMT-решателем](https://habr.com/ru/post/683670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683670)
-- [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/post/683608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
