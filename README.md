@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы переходили с pip на Poetry](https://habr.com/ru/post/682532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682532)
+- [[recovery mode] Ловушки от курсов и школ в IT на примере тестирования](https://habr.com/ru/post/684068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684068)
+- [Право на ремонт и решение проблемы одноразовых технологий от Purism](https://habr.com/ru/post/681788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681788)
 - [Пишем Telegram бот текущей погоды по IP адресу на Python aiogram](https://habr.com/ru/post/684038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684038)
 - [Дайджест недели от Apple Pro Weekly News &lpar;15.08 – 21.08.22&rpar;](https://habr.com/ru/post/683966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683966)
-- [Security Week 2234: вредоносные расширения для браузеров](https://habr.com/ru/post/683952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683952)
-- [[Перевод] i18n в Go: работа с переводами — Часть 2](https://habr.com/ru/post/683988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683988)
-- [Что будет с iOS-разработкой в России](https://habr.com/ru/post/683910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
