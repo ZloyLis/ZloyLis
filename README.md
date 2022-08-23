@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: классическая схема именования в БЭМ и регулярные выражения](https://habr.com/ru/post/684170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684170)
 - [Почему автоматизация не всегда эффективна, или Типичные ошибки при совершенствовании бизнес-процессов](https://habr.com/ru/post/684158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684158)
 - [Кирилл Розов, Android Broadcast: зачем программисту делиться знаниями и как это монетизировать](https://habr.com/ru/post/684150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684150)
 - [Kubernetes 1.25: обзор нововведений](https://habr.com/ru/post/684142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684142)
 - [Две главные ошибки при использовании MediatR](https://habr.com/ru/post/683804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683804)
-- [Нормальные алгоритмы Маркова как основание языка программирования](https://habr.com/ru/post/682972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
