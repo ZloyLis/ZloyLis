@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JSON Web Token &lpar;JWT&rpar; — пример Java реализации на Spring Boot OAuth2 Resource Server 6.0](https://habr.com/ru/post/684270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684270)
 - [Встраиваем Lua в PHP через FFI](https://habr.com/ru/post/681400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681400)
 - [12 мобильных офлайн-игр, чтобы научить ребенка программировать](https://habr.com/ru/post/683052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683052)
 - [Почему я больше не буду использовать deep linking из Navigation Component](https://habr.com/ru/post/684224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684224)
 - [OAuth2.0 авторизация в Vk средствами Qt5.8 и выше](https://habr.com/ru/post/684196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684196)
-- [PowerShell: классическая схема именования в БЭМ и регулярные выражения](https://habr.com/ru/post/684170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
