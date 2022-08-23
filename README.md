@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Две главные ошибки при использовании MediatR](https://habr.com/ru/post/683804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683804)
+- [Нормальные алгоритмы Маркова как основание языка программирования](https://habr.com/ru/post/682972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682972)
+- [Роль UX писателя и копирайтера в мультивселенной безумия](https://habr.com/ru/post/683196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683196)
 - [[recovery mode] Ловушки от курсов и школ в IT на примере тестирования](https://habr.com/ru/post/684068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684068)
 - [Право на ремонт и решение проблемы одноразовых технологий от Purism](https://habr.com/ru/post/681788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681788)
-- [Пишем Telegram бот текущей погоды по IP адресу на Python aiogram](https://habr.com/ru/post/684038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684038)
-- [Дайджест недели от Apple Pro Weekly News &lpar;15.08 – 21.08.22&rpar;](https://habr.com/ru/post/683966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683966)
-- [Security Week 2234: вредоносные расширения для браузеров](https://habr.com/ru/post/683952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
