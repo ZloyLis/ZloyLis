@@ -26,10 +26,10 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда и зачем нужен RabbitMQ](https://habr.com/ru/post/684412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684412)
 - [Заменит ли no-code программистов? Вопрос некорректен](https://habr.com/ru/post/681504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681504)
 - [Как стресс влияет на работоспособность](https://habr.com/ru/post/684366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684366)
 - [Как дизайнеры тестируют, или Что такое дизайн-ревью](https://habr.com/ru/post/684192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684192)
-- [Основы проектирования UX в Web 3.0](https://habr.com/ru/post/684346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684346)
 - [Настоящий детектив: загадочные таймауты на проде](https://habr.com/ru/post/684018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684018)
 <!-- BLOG-POST-LIST:END -->
 
