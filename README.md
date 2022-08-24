@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настоящий детектив: загадочные таймауты на проде](https://habr.com/ru/post/684018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684018)
 - [Как мы использовали RabbitMQ для разбиения монолита крупнейшего ритейлера страны*](https://habr.com/ru/post/684322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684322)
 - [Joomla-дайджест за 2-й квартал 2022 года](https://habr.com/ru/post/684110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684110)
 - [Технологии NiFi &amp;amp; Kafka: применение &lpar;часть 2&rpar;](https://habr.com/ru/post/684312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684312)
 - [[Перевод] Технология создания динамических моделей на примере обогрева помещения](https://habr.com/ru/post/682662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682662)
-- [Программирование — это про общение](https://habr.com/ru/post/684282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
