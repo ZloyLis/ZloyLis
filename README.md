@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Joomla-дайджест за 2-й квартал 2022 года](https://habr.com/ru/post/684110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684110)
 - [Технологии NiFi &amp;amp; Kafka: применение &lpar;часть 2&rpar;](https://habr.com/ru/post/684312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684312)
 - [[Перевод] Технология создания динамических моделей на примере обогрева помещения](https://habr.com/ru/post/682662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682662)
 - [Программирование — это про общение](https://habr.com/ru/post/684282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684282)
 - [JSON Web Token &lpar;JWT&rpar; — пример Java реализации на Spring Boot OAuth2 Resource Server 6.0](https://habr.com/ru/post/684270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684270)
-- [Встраиваем Lua в PHP через FFI](https://habr.com/ru/post/681400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
