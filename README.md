@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Превращаем старый телефон на Android в веб-сервер](https://habr.com/ru/post/683242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683242)
+- [[Перевод] С PATH_MAX не всё так просто](https://habr.com/ru/post/684636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684636)
 - [Что означает I в ACID и как это можно использовать](https://habr.com/ru/post/684570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684570)
 - [Jira, Jirа! Повернись к лесу задом, ко мне передом](https://habr.com/ru/post/684624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684624)
 - [Новости из мира Go: вредоносное ПО, зарплаты разработчиков, книги и новые релизы](https://habr.com/ru/post/684614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684614)
-- [За гранью App Store, или Что нового открывает MDM и Supervised для B2B в iOS](https://habr.com/ru/post/684160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684160)
-- [[recovery mode] Как мы писали приложение для доставки из ресторанов](https://habr.com/ru/post/684592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
