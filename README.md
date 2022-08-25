@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расписание занятий по плагиату или как воруют наши идеи](https://habr.com/ru/post/684742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684742)
 - [Как мы делали суперприложение на основе Почты](https://habr.com/ru/post/684108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684108)
 - [Physically-based rendering. Ray marching &lpar;часть 2&rpar;](https://habr.com/ru/post/684016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684016)
 - [Сказ про то, как мы метрики качества внедряли](https://habr.com/ru/post/684608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684608)
 - [[Перевод] Разработчики: не перерабатывайте](https://habr.com/ru/post/684672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684672)
-- [Вот что поменялось на Хабре за год. AMA](https://habr.com/ru/post/684666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
