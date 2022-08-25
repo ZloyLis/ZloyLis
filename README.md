@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ самых полезных софт-скиллов для айтишника](https://habr.com/ru/post/684582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684582)
+- [Отказоустойчивая архитектура контентной платформы на 4 Тбит/с — опыт VK Видео](https://habr.com/ru/post/683192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683192)
 - [Danger. Автоматизируем ревью на CI и пишем свой плагин](https://habr.com/ru/post/681564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681564)
 - [Как помочь ментору сделать первые шаги](https://habr.com/ru/post/684566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684566)
 - [Blender, захват движения, нейронные сети](https://habr.com/ru/post/684284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684284)
-- [Создать игру за 24 часа и выжить](https://habr.com/ru/post/684480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684480)
-- [Фиксация соглашений в команде](https://habr.com/ru/post/684470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
