@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что означает I в ACID и как это можно использовать](https://habr.com/ru/post/684570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684570)
+- [Jira, Jirа! Повернись к лесу задом, ко мне передом](https://habr.com/ru/post/684624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684624)
+- [Новости из мира Go: вредоносное ПО, зарплаты разработчиков, книги и новые релизы](https://habr.com/ru/post/684614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684614)
 - [За гранью App Store, или Что нового открывает MDM и Supervised для B2B в iOS](https://habr.com/ru/post/684160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684160)
 - [[recovery mode] Как мы писали приложение для доставки из ресторанов](https://habr.com/ru/post/684592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684592)
-- [Топ самых полезных софт-скиллов для айтишника](https://habr.com/ru/post/684582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684582)
-- [Отказоустойчивая архитектура контентной платформы на 4 Тбит/с — опыт VK Видео](https://habr.com/ru/post/683192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683192)
-- [Danger. Автоматизируем ревью на CI и пишем свой плагин](https://habr.com/ru/post/681564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
