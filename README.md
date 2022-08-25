@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender, захват движения, нейронные сети](https://habr.com/ru/post/684284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684284)
 - [Создать игру за 24 часа и выжить](https://habr.com/ru/post/684480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684480)
 - [Фиксация соглашений в команде](https://habr.com/ru/post/684470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684470)
 - [Rambler&amp;amp;Co + Okko Tech Talk: регистрация началась](https://habr.com/ru/post/684442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684442)
 - [Когда и зачем нужен RabbitMQ](https://habr.com/ru/post/684412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684412)
-- [Заменит ли no-code программистов? Вопрос некорректен](https://habr.com/ru/post/681504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
