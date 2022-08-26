@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity: Выбор и загрузка файлов пользователем на WebGL сборке](https://habr.com/ru/post/684772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684772)
+- [Как мы писали курс для Python-разработчиков с опытом и зачем сделали упор на асинхронное программирование](https://habr.com/ru/post/684486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684486)
 - [Решение задач с использованием алгоритма бинарного поиска](https://habr.com/ru/post/684756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684756)
 - [[Перевод] От сбора до использования: как повысить Data Quality на всех этапах работы с данными](https://habr.com/ru/post/684118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684118)
 - [Гадание на батарейках: прогнозирование срока службы аккумуляторов электротранспорта](https://habr.com/ru/post/684558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684558)
-- [[Перевод] React: полное руководство по повторному рендерингу](https://habr.com/ru/post/684718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684718)
-- [Яндекс выпускает DivKit — фреймворк для server-driven UI с открытым кодом](https://habr.com/ru/post/683886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
