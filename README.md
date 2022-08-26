@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Толстые дискеты: Iomega Zip и SuperDisk](https://habr.com/ru/post/684876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684876)
 - [Иконки приложений как товарный знак: ожидание и реальность](https://habr.com/ru/post/684870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684870)
 - [[Перевод] Почему ваш веб-сайт должен быть меньше 14 КБ](https://habr.com/ru/post/684836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684836)
 - [Как запустить UI-автотесты в любом Chromium-браузере](https://habr.com/ru/post/683992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683992)
 - [Автоматическое реферирование текстов. Обзор работ](https://habr.com/ru/post/684830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684830)
-- [Materialized Path – создаём своё первое дерево](https://habr.com/ru/post/684818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
