@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли жизнь на Go после C#?](https://habr.com/ru/post/684422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684422)
 - [[Перевод] Введение в DbChange JUnit расширение](https://habr.com/ru/post/684692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684692)
 - [Почему после 25+ лет в профессии и десятка-другого языков я бы рекомендовал начинать с Java](https://habr.com/ru/post/684786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684786)
 - [Unity: Выбор и загрузка файлов пользователем на WebGL сборке](https://habr.com/ru/post/684772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684772)
 - [Как мы писали курс для Python-разработчиков с опытом и зачем сделали упор на асинхронное программирование](https://habr.com/ru/post/684486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684486)
-- [Решение задач с использованием алгоритма бинарного поиска](https://habr.com/ru/post/684756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684756)
 <!-- BLOG-POST-LIST:END -->
 
 ---
