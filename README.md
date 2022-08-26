@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему ваш веб-сайт должен быть меньше 14 КБ](https://habr.com/ru/post/684836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684836)
+- [Как запустить UI-автотесты в любом Chromium-браузере](https://habr.com/ru/post/683992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683992)
 - [Автоматическое реферирование текстов. Обзор работ](https://habr.com/ru/post/684830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684830)
 - [Materialized Path – создаём своё первое дерево](https://habr.com/ru/post/684818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684818)
 - [Taneleer на смену Thanos – как мы поменяли подход к обнаружению скомпрометированных паролей](https://habr.com/ru/post/684626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684626)
-- [Есть ли жизнь на Go после C#?](https://habr.com/ru/post/684422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684422)
-- [[Перевод] Введение в DbChange JUnit расширение](https://habr.com/ru/post/684692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
