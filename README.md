@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практические примеры использования Stream API](https://habr.com/ru/post/684912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684912)
 - [Что такое ИТ-инфраструктура компании: понятия, задачи и особенности, в том числе, на примере НРД](https://habr.com/ru/post/684902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684902)
 - [Шаблонизация в CLI может быть простой](https://habr.com/ru/post/684898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684898)
 - [Толстые дискеты: Iomega Zip и SuperDisk](https://habr.com/ru/post/684876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684876)
 - [Иконки приложений как товарный знак: ожидание и реальность](https://habr.com/ru/post/684870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684870)
-- [[Перевод] Почему ваш веб-сайт должен быть меньше 14 КБ](https://habr.com/ru/post/684836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
