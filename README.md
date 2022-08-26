@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматическое реферирование текстов. Обзор работ](https://habr.com/ru/post/684830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684830)
+- [Materialized Path – создаём своё первое дерево](https://habr.com/ru/post/684818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684818)
 - [Taneleer на смену Thanos – как мы поменяли подход к обнаружению скомпрометированных паролей](https://habr.com/ru/post/684626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684626)
 - [Есть ли жизнь на Go после C#?](https://habr.com/ru/post/684422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684422)
 - [[Перевод] Введение в DbChange JUnit расширение](https://habr.com/ru/post/684692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684692)
-- [Почему после 25+ лет в профессии и десятка-другого языков я бы рекомендовал начинать с Java](https://habr.com/ru/post/684786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684786)
-- [Unity: Выбор и загрузка файлов пользователем на WebGL сборке](https://habr.com/ru/post/684772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
