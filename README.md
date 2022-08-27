@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как нарисовать персонажа для 125 млн игроков](https://habr.com/ru/post/665008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665008)
 - [Чаепитие из rvalue](https://habr.com/ru/post/683652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683652)
 - [Грань между гениальностью и паранойей проходит через бесконечность](https://habr.com/ru/post/684934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684934)
 - [Визуализация данных с помощью фреймворка Dash &lpar;часть 3&rpar;](https://habr.com/ru/post/684918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684918)
 - [Практические примеры использования Stream API](https://habr.com/ru/post/684912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684912)
-- [Что такое ИТ-инфраструктура компании: понятия, задачи и особенности, в том числе, на примере НРД](https://habr.com/ru/post/684902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
