@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование для детей 9 лет: какое направление выбрать](https://habr.com/ru/post/685064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685064)
 - [Дорога в полгода к светлой цели или как мы делали стартап для помощи переселенцам](https://habr.com/ru/post/685042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685042)
 - [[Перевод] Использование директивы NgOptimizedImage для реализации загрузки изображений в Angular](https://habr.com/ru/post/685018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685018)
 - [Параметры спринтов как качественный показатель Scrum разработки](https://habr.com/ru/post/684992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684992)
 - [Как нарисовать персонажа для 125 млн игроков](https://habr.com/ru/post/665008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665008)
-- [Чаепитие из rvalue](https://habr.com/ru/post/683652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
