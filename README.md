@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Логирование в Python: руководство разработчика](https://habr.com/ru/post/683880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683880)
+- [Патчим байт-код для просмотра логов в Android. Подробная инструкция и примеры кода](https://habr.com/ru/post/685142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685142)
 - [Разработка плагинов для Visual Paradigm](https://habr.com/ru/post/685046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685046)
 - [Дайджест интересных материалов для мобильного разработчика #454 &lpar;22 — 28 августа&rpar;](https://habr.com/ru/post/685112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685112)
 - [MrRobotQR сканируем QR-коды из поисковых систем в поисках приватных ключей Биткоин Кошельков](https://habr.com/ru/post/684362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684362)
-- [Дайджест недели от Apple Pro Weekly News &lpar;22.08 – 28.08.22&rpar;](https://habr.com/ru/post/685096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685096)
-- [Программирование для детей 9 лет: какое направление выбрать](https://habr.com/ru/post/685064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
