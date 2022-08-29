@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Легкая автоматизация кроссплатформенных тестов с Kotlin DSL](https://habr.com/ru/post/685198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685198)
 - [Снупи и мелочь пузатая в IT](https://habr.com/ru/post/684762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684762)
 - [Как ориентир на лучшие мировые методики развития корпоративной архитектуры помогает улучшать процессы в «Норникеле»](https://habr.com/ru/post/685158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685158)
 - [[Перевод] Логирование в Python: руководство разработчика](https://habr.com/ru/post/683880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683880)
 - [Патчим байт-код для просмотра логов в Android. Подробная инструкция и примеры кода](https://habr.com/ru/post/685142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685142)
-- [Разработка плагинов для Visual Paradigm](https://habr.com/ru/post/685046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
