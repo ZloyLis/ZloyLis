@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2235: подлинный масштаб атаки на Twilio](https://habr.com/ru/post/685258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685258)
 - [Больше, чем новый логотип: как дизайнили приложение СберМегаМаркет](https://habr.com/ru/post/685240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685240)
 - [Какими должны быть курсы по программированию](https://habr.com/ru/post/685238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685238)
 - [Взгляд программиста на гипотезу Коллатца](https://habr.com/ru/post/685224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685224)
 - [Приёмы высокоуровневой векторизации на примере Card Raytracer](https://habr.com/ru/post/685228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685228)
-- [Model serving в Kubernetes: сравнение инструментов](https://habr.com/ru/post/685122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
