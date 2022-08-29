@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест интересных материалов для мобильного разработчика #454 &lpar;22 — 28 августа&rpar;](https://habr.com/ru/post/685112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685112)
 - [MrRobotQR сканируем QR-коды из поисковых систем в поисках приватных ключей Биткоин Кошельков](https://habr.com/ru/post/684362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684362)
 - [Дайджест недели от Apple Pro Weekly News &lpar;22.08 – 28.08.22&rpar;](https://habr.com/ru/post/685096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685096)
 - [Программирование для детей 9 лет: какое направление выбрать](https://habr.com/ru/post/685064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685064)
 - [Дорога в полгода к светлой цели или как мы делали стартап для помощи переселенцам](https://habr.com/ru/post/685042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685042)
-- [[Перевод] Использование директивы NgOptimizedImage для реализации загрузки изображений в Angular](https://habr.com/ru/post/685018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
