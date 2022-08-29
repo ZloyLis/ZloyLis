@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какими должны быть курсы по программированию](https://habr.com/ru/post/685238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685238)
+- [Взгляд программиста на гипотезу Коллатца](https://habr.com/ru/post/685224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685224)
+- [Приёмы высокоуровневой векторизации на примере Card Raytracer](https://habr.com/ru/post/685228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685228)
+- [Model serving в Kubernetes: сравнение инструментов](https://habr.com/ru/post/685122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685122)
 - [Легкая автоматизация кроссплатформенных тестов с Kotlin DSL](https://habr.com/ru/post/685198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685198)
-- [Снупи и мелочь пузатая в IT](https://habr.com/ru/post/684762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684762)
-- [Как ориентир на лучшие мировые методики развития корпоративной архитектуры помогает улучшать процессы в «Норникеле»](https://habr.com/ru/post/685158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685158)
-- [[Перевод] Логирование в Python: руководство разработчика](https://habr.com/ru/post/683880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683880)
-- [Патчим байт-код для просмотра логов в Android. Подробная инструкция и примеры кода](https://habr.com/ru/post/685142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
