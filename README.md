@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще один пересказ «туториала» Джека Креншоу](https://habr.com/ru/post/685434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685434)
+- [Видео в вебе, Browser Policy и палки в колёсах](https://habr.com/ru/post/684856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684856)
+- [[Перевод] Почему разработчики создают так много сайд-проектов](https://habr.com/ru/post/685354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685354)
 - [Layout Protocol: новые возможности SwiftUI](https://habr.com/ru/post/685374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685374)
 - [Как и почему перешли с Python на Go в основном сервисе рекомендаций Авито](https://habr.com/ru/post/679560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679560)
-- [[Перевод] Написание кастомных контроллеров Kubernetes](https://habr.com/ru/post/685370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685370)
-- [Мифы и легенды современного Python](https://habr.com/ru/post/685264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685264)
-- [«Позвони мне позвони» или решаем проблему скрытия телефонного номера с помощью callback сервиса](https://habr.com/ru/post/680308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
