@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Под капотом у Клуба инновационных решений](https://habr.com/ru/post/685448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685448)
+- [Note&amp;amp;Noty — первое приложение на Android](https://habr.com/ru/post/685440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685440)
 - [Еще один пересказ «туториала» Джека Креншоу](https://habr.com/ru/post/685434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685434)
 - [Видео в вебе, Browser Policy и палки в колёсах](https://habr.com/ru/post/684856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684856)
 - [[Перевод] Почему разработчики создают так много сайд-проектов](https://habr.com/ru/post/685354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685354)
-- [Layout Protocol: новые возможности SwiftUI](https://habr.com/ru/post/685374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685374)
-- [Как и почему перешли с Python на Go в основном сервисе рекомендаций Авито](https://habr.com/ru/post/679560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
