@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мифы и легенды современного Python](https://habr.com/ru/post/685264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685264)
 - [«Позвони мне позвони» или решаем проблему скрытия телефонного номера с помощью callback сервиса](https://habr.com/ru/post/680308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680308)
 - [rate limiter &lpar;sliding window&rpar;](https://habr.com/ru/post/685306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685306)
 - [Security Week 2235: подлинный масштаб атаки на Twilio](https://habr.com/ru/post/685258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685258)
 - [Больше, чем новый логотип: как дизайнили приложение СберМегаМаркет](https://habr.com/ru/post/685240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685240)
-- [Какими должны быть курсы по программированию](https://habr.com/ru/post/685238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
