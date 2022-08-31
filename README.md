@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Средние highload паттерны на Go](https://habr.com/ru/post/684904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684904)
 - [Как мы строили безопасное web приложение на базе WIKI.JS](https://habr.com/ru/post/684896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684896)
 - [Найти вероятность выпадения k &lpar;сумма выпавших значений&rpar; при бросании n кубиков &lpar;часть 2 из 2&rpar;](https://habr.com/ru/post/685552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685552)
 - [Оптимизационные задачи в ритейле](https://habr.com/ru/post/685590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685590)
 - [Вопрос создания виджетов](https://habr.com/ru/post/683202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683202)
-- [WebHID API: управление почти чем угодно из браузера](https://habr.com/ru/post/685534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
