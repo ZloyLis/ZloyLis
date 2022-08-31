@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вот как мы поняли, что нам нужно больше стажеров](https://habr.com/ru/post/685666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685666)
 - [Как фидбек помог улучшить наш C++ квиз](https://habr.com/ru/post/685660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685660)
 - [Роль таланта в программировании](https://habr.com/ru/post/685654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685654)
 - [[Перевод] Что такое дженерики в TypeScript?](https://habr.com/ru/post/685652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685652)
 - [Введение в метаклассы](https://habr.com/ru/post/685644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685644)
-- [C++. Унарный минус и беззнаковый тип](https://habr.com/ru/post/679002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
