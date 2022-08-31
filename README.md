@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как фидбек помог улучшить наш C++ квиз](https://habr.com/ru/post/685660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685660)
+- [Роль таланта в программировании](https://habr.com/ru/post/685654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685654)
+- [[Перевод] Что такое дженерики в TypeScript?](https://habr.com/ru/post/685652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685652)
+- [Введение в метаклассы](https://habr.com/ru/post/685644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685644)
 - [C++. Унарный минус и беззнаковый тип](https://habr.com/ru/post/679002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679002)
-- [Skia — высокопроизводительная 2D графика для React Native](https://habr.com/ru/post/685524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685524)
-- [[Перевод] 15 самых распространенных проблем с качеством данных &lpar;и способы их решения&rpar;](https://habr.com/ru/post/684122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684122)
-- [Импортозамещение BI своими руками](https://habr.com/ru/post/685604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685604)
-- [__proto__ и prototype](https://habr.com/ru/post/685528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
