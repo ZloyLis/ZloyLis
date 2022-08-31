@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Найти вероятность выпадения k &lpar;сумма выпавших значений&rpar; при бросании n кубиков &lpar;часть 2 из 2&rpar;](https://habr.com/ru/post/685552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685552)
 - [Оптимизационные задачи в ритейле](https://habr.com/ru/post/685590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685590)
 - [Вопрос создания виджетов](https://habr.com/ru/post/683202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683202)
 - [WebHID API: управление почти чем угодно из браузера](https://habr.com/ru/post/685534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685534)
 - [[Перевод] Как выбрать в Python подходящий конкурентный API](https://habr.com/ru/post/685682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685682)
-- [Вот как мы поняли, что нам нужно больше стажеров](https://habr.com/ru/post/685666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
