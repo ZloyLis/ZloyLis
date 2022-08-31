@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++. Унарный минус и беззнаковый тип](https://habr.com/ru/post/679002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679002)
 - [Skia — высокопроизводительная 2D графика для React Native](https://habr.com/ru/post/685524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685524)
 - [[Перевод] 15 самых распространенных проблем с качеством данных &lpar;и способы их решения&rpar;](https://habr.com/ru/post/684122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684122)
 - [Импортозамещение BI своими руками](https://habr.com/ru/post/685604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685604)
 - [__proto__ и prototype](https://habr.com/ru/post/685528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685528)
-- [React: разрабатываем HOC и хук для наблюдения за элементами](https://habr.com/ru/post/685510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
