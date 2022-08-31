@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка схем именования БЭМ-сущностей в методологии БЭМ](https://habr.com/ru/post/685562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685562)
 - [Бенчмарк-анализ приложений подкастов… каких фичей ещё нет в Яндекс Музыке](https://habr.com/ru/post/685532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685532)
 - [Глубокое погружение в Java Memory Model](https://habr.com/ru/post/685518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685518)
 - [Теория групп слов, на базе которых работает мышление](https://habr.com/ru/post/685454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685454)
 - [Виды анимации на верстке: свойства, особенности, примеры кода](https://habr.com/ru/post/685474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685474)
-- [Под капотом у Клуба инновационных решений](https://habr.com/ru/post/685448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
