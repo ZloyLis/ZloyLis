@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проверка нормальности распределения с использованием критерия Эппса-Палли средствами Python](https://habr.com/ru/post/685582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685582)
+- [Дизайн-система не равно UI-kit](https://habr.com/ru/post/684816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684816)
+- [Пишем свою библиотеку под Arduino](https://habr.com/ru/post/683894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683894)
+- [[Перевод] Что я узнал за пять лет проведения аудитов кода](https://habr.com/ru/post/685574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685574)
 - [Разработка схем именования БЭМ-сущностей в методологии БЭМ](https://habr.com/ru/post/685562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685562)
-- [Бенчмарк-анализ приложений подкастов… каких фичей ещё нет в Яндекс Музыке](https://habr.com/ru/post/685532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685532)
-- [Глубокое погружение в Java Memory Model](https://habr.com/ru/post/685518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685518)
-- [Теория групп слов, на базе которых работает мышление](https://habr.com/ru/post/685454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685454)
-- [Виды анимации на верстке: свойства, особенности, примеры кода](https://habr.com/ru/post/685474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
