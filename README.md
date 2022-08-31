@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 15 самых распространенных проблем с качеством данных &lpar;и способы их решения&rpar;](https://habr.com/ru/post/684122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684122)
+- [Импортозамещение BI своими руками](https://habr.com/ru/post/685604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685604)
+- [__proto__ и prototype](https://habr.com/ru/post/685528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685528)
+- [React: разрабатываем HOC и хук для наблюдения за элементами](https://habr.com/ru/post/685510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685510)
 - [Проверка нормальности распределения с использованием критерия Эппса-Палли средствами Python](https://habr.com/ru/post/685582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685582)
-- [Дизайн-система не равно UI-kit](https://habr.com/ru/post/684816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684816)
-- [Пишем свою библиотеку под Arduino](https://habr.com/ru/post/683894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683894)
-- [[Перевод] Что я узнал за пять лет проведения аудитов кода](https://habr.com/ru/post/685574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685574)
-- [Разработка схем именования БЭМ-сущностей в методологии БЭМ](https://habr.com/ru/post/685562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
