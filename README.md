@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизационные задачи в ритейле](https://habr.com/ru/post/685590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685590)
+- [Вопрос создания виджетов](https://habr.com/ru/post/683202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683202)
 - [WebHID API: управление почти чем угодно из браузера](https://habr.com/ru/post/685534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685534)
 - [[Перевод] Как выбрать в Python подходящий конкурентный API](https://habr.com/ru/post/685682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685682)
 - [Вот как мы поняли, что нам нужно больше стажеров](https://habr.com/ru/post/685666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685666)
-- [Как фидбек помог улучшить наш C++ квиз](https://habr.com/ru/post/685660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685660)
-- [Роль таланта в программировании](https://habr.com/ru/post/685654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
