@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое осень? Это Школа](https://habr.com/ru/post/685812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685812)
+- [[recovery mode] Решение тестового за день](https://habr.com/ru/post/685870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685870)
 - [ESM. Выходим за рамки](https://habr.com/ru/post/685850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685850)
-- [Снова в школу: буткемп от red_mad_robot с 26 сентября](https://habr.com/ru/post/685842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685842)
 - [Кто-нибудь, объясните мне прелесть tailwind](https://habr.com/ru/post/685832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685832)
 - [Серьезный дядька из нулевых: Обзор на КПК O2 Xda Mini II](https://habr.com/ru/post/685830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685830)
-- [DevOps-инструменты как новая ступенька для разработчика](https://habr.com/ru/post/685822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
