@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы уменьшили размер приложения ВТБ Онлайн с многомиллионной аудиторией в 2 раза](https://habr.com/ru/post/685608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685608)
+- [[Перевод] Правило 3-х часов: Сколько нужно работать в день](https://habr.com/ru/post/685756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685756)
+- [Создание графического бота для EVE Online](https://habr.com/ru/post/685798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685798)
 - [Внедрение GraphQL на фронтенде без переломов](https://habr.com/ru/post/684556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684556)
 - [Про поставки и релизы в мобильной разработке](https://habr.com/ru/post/684518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684518)
-- [Даже сквозь асфальт прорастают незабудки](https://habr.com/ru/post/685774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685774)
-- [Средние highload паттерны на Go](https://habr.com/ru/post/684904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684904)
-- [Как мы строили безопасное web приложение на базе WIKI.JS](https://habr.com/ru/post/684896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
