@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Памятка архитектору](https://habr.com/ru/post/685986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685986)
 - [Восстановление повреждённых файлов на основе CRC32](https://habr.com/ru/post/685962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685962)
 - [Вопрос использования ассетов в Flutter web проекте](https://habr.com/ru/post/685772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685772)
 - [Golang-дайджест № 20 &lpar;1 – 31 августа  2022&rpar;](https://habr.com/ru/post/685952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685952)
 - [Как написать кроссбраузерное расширение в 2022 году](https://habr.com/ru/post/685866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685866)
-- [Заблуждения программистов о картах](https://habr.com/ru/post/685928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
