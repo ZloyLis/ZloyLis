@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang-дайджест № 20 &lpar;1 – 31 августа  2022&rpar;](https://habr.com/ru/post/685952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685952)
 - [Как написать кроссбраузерное расширение в 2022 году](https://habr.com/ru/post/685866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685866)
 - [Заблуждения программистов о картах](https://habr.com/ru/post/685928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685928)
 - [«Не обязательно убивать в себе программиста». 10+ советов от экс-тимлидов](https://habr.com/ru/post/685910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685910)
 - [Опыт перехода на MVI в Android на базе собственного решения](https://habr.com/ru/post/685888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685888)
-- [Переводчик сайтов на JS](https://habr.com/ru/post/685900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
