@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заблуждения программистов о картах](https://habr.com/ru/post/685928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685928)
 - [«Не обязательно убивать в себе программиста». 10+ советов от экс-тимлидов](https://habr.com/ru/post/685910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685910)
 - [Опыт перехода на MVI в Android на базе собственного решения](https://habr.com/ru/post/685888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685888)
 - [Переводчик сайтов на JS](https://habr.com/ru/post/685900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685900)
 - [XSS с мутациями: как безопасный код становится зловредным и при чем здесь innerHTML](https://habr.com/ru/post/685882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685882)
-- [[Перевод] Написание расширений PostgreSQL на языке С — это интересно](https://habr.com/ru/post/685880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
