@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Количество партиций в Spark при инициализации Data API: DataFrame, RDD, DataSet](https://habr.com/ru/post/686142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686142)
+- [Груг против сложности. Я пролинтил все посты на Хабре про Python, и вот что я нашёл](https://habr.com/ru/post/686104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686104)
 - [[Перевод] Как сгенерировать UUID в качестве первичных ключей при помощи Hibernate](https://habr.com/ru/post/686136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686136)
 - [[Перевод] Чего вам не говорили про сокеты](https://habr.com/ru/post/686134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686134)
 - [Best Practices для Python](https://habr.com/ru/post/686122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686122)
-- [Как не проиграть с производительностью в длительном скроллинге](https://habr.com/ru/post/686096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686096)
-- [[Перевод] Взлет и падение Bootstrap](https://habr.com/ru/post/686080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
