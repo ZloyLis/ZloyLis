@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как сгенерировать UUID в качестве первичных ключей при помощи Hibernate](https://habr.com/ru/post/686136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686136)
+- [[Перевод] Чего вам не говорили про сокеты](https://habr.com/ru/post/686134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686134)
 - [Best Practices для Python](https://habr.com/ru/post/686122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686122)
 - [Как не проиграть с производительностью в длительном скроллинге](https://habr.com/ru/post/686096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686096)
 - [[Перевод] Взлет и падение Bootstrap](https://habr.com/ru/post/686080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686080)
-- [Web3.0 на Python, часть 1: основы](https://habr.com/ru/post/674204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674204)
-- [[Перевод] JDBC vs JPA](https://habr.com/ru/post/686082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
