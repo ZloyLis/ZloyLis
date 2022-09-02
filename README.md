@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Взлет и падение Bootstrap](https://habr.com/ru/post/686080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686080)
+- [Web3.0 на Python, часть 1: основы](https://habr.com/ru/post/674204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674204)
+- [[Перевод] JDBC vs JPA](https://habr.com/ru/post/686082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686082)
+- [Сезон Java всё: итоги и самые полезные статьи](https://habr.com/ru/post/686010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686010)
 - [Масштабируемая векторная графика. Простой SVG-редактор. Памяти Матса Бенгтссона](https://habr.com/ru/post/686060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686060)
-- [Do it yourself: как тестировать приложение без QA](https://habr.com/ru/post/686058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686058)
-- [Сломать систему. Реинжиниринг портала с «китайскими» пользователями](https://habr.com/ru/post/685930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685930)
-- [Выбираем: новое или альтернативное яблоко](https://habr.com/ru/post/686046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686046)
-- [Подростки и игры. Как родителю превратить в пользу увлечения своего ребёнка](https://habr.com/ru/post/686026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
