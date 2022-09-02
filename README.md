@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML, CSS: важен ли порядок названий классов CSS в атрибуте «class» HTML-элементов](https://habr.com/ru/post/686014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686014)
+- [Выполняем задачи по расписанию с Quartz и Spring Boot](https://habr.com/ru/post/685980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685980)
 - [Задаём порядок деплоя ресурсов в Kubernetes с помощью werf/Helm](https://habr.com/ru/post/682804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682804)
 - [Блеск и нищета IT в Германии](https://habr.com/ru/post/685974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685974)
 - [Велосипедим Promise на TypeScript](https://habr.com/ru/post/685996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685996)
-- [Памятка архитектору](https://habr.com/ru/post/685986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685986)
-- [Восстановление повреждённых файлов на основе CRC32](https://habr.com/ru/post/685962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
