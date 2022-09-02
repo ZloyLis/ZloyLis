@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не проиграть с производительностью в длительном скроллинге](https://habr.com/ru/post/686096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686096)
 - [[Перевод] Взлет и падение Bootstrap](https://habr.com/ru/post/686080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686080)
 - [Web3.0 на Python, часть 1: основы](https://habr.com/ru/post/674204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=674204)
 - [[Перевод] JDBC vs JPA](https://habr.com/ru/post/686082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686082)
 - [Сезон Java всё: итоги и самые полезные статьи](https://habr.com/ru/post/686010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686010)
-- [Масштабируемая векторная графика. Простой SVG-редактор. Памяти Матса Бенгтссона](https://habr.com/ru/post/686060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
