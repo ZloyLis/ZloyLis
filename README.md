@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сломать систему. Реинжиниринг портала с «китайскими» пользователями](https://habr.com/ru/post/685930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685930)
+- [Выбираем: новое или альтернативное яблоко](https://habr.com/ru/post/686046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686046)
 - [Подростки и игры. Как родителю превратить в пользу увлечения своего ребёнка](https://habr.com/ru/post/686026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686026)
 - [[Перевод] TypeScript в деталях. Часть 1](https://habr.com/ru/post/685954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685954)
-- [Язык Go Excel API Excelize выпущен версии 2.6.1](https://habr.com/ru/post/686024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686024)
 - [HTML, CSS: важен ли порядок названий классов CSS в атрибуте «class» HTML-элементов](https://habr.com/ru/post/686014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686014)
-- [Выполняем задачи по расписанию с Quartz и Spring Boot](https://habr.com/ru/post/685980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
