@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подростки и игры. Как родителю превратить в пользу увлечения своего ребёнка](https://habr.com/ru/post/686026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686026)
+- [[Перевод] TypeScript в деталях. Часть 1](https://habr.com/ru/post/685954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685954)
+- [Язык Go Excel API Excelize выпущен версии 2.6.1](https://habr.com/ru/post/686024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686024)
 - [HTML, CSS: важен ли порядок названий классов CSS в атрибуте «class» HTML-элементов](https://habr.com/ru/post/686014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686014)
 - [Выполняем задачи по расписанию с Quartz и Spring Boot](https://habr.com/ru/post/685980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685980)
-- [Задаём порядок деплоя ресурсов в Kubernetes с помощью werf/Helm](https://habr.com/ru/post/682804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682804)
-- [Блеск и нищета IT в Германии](https://habr.com/ru/post/685974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685974)
-- [Велосипедим Promise на TypeScript](https://habr.com/ru/post/685996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
