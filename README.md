@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Flame: ускоряем в 32 раза работу со столкновениями](https://habr.com/ru/post/686180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686180)
 - [Telegramm-habr-бот. Долгий путь к совершенству](https://habr.com/ru/post/686174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686174)
 - [Количество партиций в Spark при инициализации Data API: DataFrame, RDD, DataSet](https://habr.com/ru/post/686142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686142)
 - [Груг против сложности. Я пролинтил все посты на Хабре про Python, и вот что я нашёл](https://habr.com/ru/post/686104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686104)
 - [[Перевод] Как сгенерировать UUID в качестве первичных ключей при помощи Hibernate](https://habr.com/ru/post/686136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686136)
-- [[Перевод] Чего вам не говорили про сокеты](https://habr.com/ru/post/686134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
