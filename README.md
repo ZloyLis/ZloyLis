@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Синаптические веса в нейронных сетях – просто и доступно &lpar;Часть 3&rpar;](https://habr.com/ru/post/686218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686218)
 - [JAMstack — зачем, почему и за что](https://habr.com/ru/post/686196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686196)
 - [Генерация псевдослучайных чисел в программировании. И как у меня псевдо-получилось их сгенерировать](https://habr.com/ru/post/686190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686190)
 - [Flutter Flame: ускоряем в 32 раза работу со столкновениями](https://habr.com/ru/post/686180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686180)
 - [Telegramm-habr-бот. Долгий путь к совершенству](https://habr.com/ru/post/686174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686174)
-- [Количество партиций в Spark при инициализации Data API: DataFrame, RDD, DataSet](https://habr.com/ru/post/686142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
