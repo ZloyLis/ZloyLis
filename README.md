@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование: искусство, наука, или ремесло?](https://habr.com/ru/post/686310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686310)
 - [Криптостойкость Биткоина против квантового компьютера QIANSHI от китайского гиганта поисковой системы Baidu Inc](https://habr.com/ru/post/685720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685720)
 - [Дайджест недели от Apple Pro Weekly News &lpar;29.08 – 04.09.22&rpar;](https://habr.com/ru/post/686286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686286)
 - [Mikrotik, Telegram и не только…](https://habr.com/ru/post/686252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686252)
 - [PHPCleanArchitecture — Что нового?](https://habr.com/ru/post/686236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686236)
-- [GridComponent. Часть II. Котики, NestJS и чуть-чуть о Postman](https://habr.com/ru/post/678682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
