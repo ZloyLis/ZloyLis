@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;29.08 – 04.09.22&rpar;](https://habr.com/ru/post/686286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686286)
 - [Mikrotik, Telegram и не только…](https://habr.com/ru/post/686252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686252)
 - [PHPCleanArchitecture — Что нового?](https://habr.com/ru/post/686236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686236)
 - [GridComponent. Часть II. Котики, NestJS и чуть-чуть о Postman](https://habr.com/ru/post/678682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=678682)
 - [User-Defined в iOS проекте](https://habr.com/ru/post/686234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686234)
-- [[recovery mode] Автоматический подбор синаптических весов. Самое начало. Циклический перебор](https://habr.com/ru/post/686218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
