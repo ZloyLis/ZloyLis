@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ИИ-самоучка демонстрирует сходство с тем, как работает мозг](https://habr.com/ru/post/686348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686348)
 - [Заметки дата-инженера: интеграция Kafka и PySpark](https://habr.com/ru/post/686242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686242)
 - [Как мы помогли Альфа-Банку выйти из трудного положения с помощью WASM](https://habr.com/ru/post/686408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686408)
-- [Разбираемся с Redis](https://habr.com/ru/post/685894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685894)
 - [Выходя за рамки ООП. Разработка расширений для PHP на PHP](https://habr.com/ru/post/577658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=577658)
 - [Управление устройствами интернета вещей через Kubernetes](https://habr.com/ru/post/686332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686332)
 <!-- BLOG-POST-LIST:END -->
