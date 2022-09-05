@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выходя за рамки ООП. Разработка расширений для PHP на PHP](https://habr.com/ru/post/577658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=577658)
 - [Управление устройствами интернета вещей через Kubernetes](https://habr.com/ru/post/686332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686332)
 - [Моя попытка сделать WiFi-флешку и что из этого получилось &lpar;а что нет&rpar;](https://habr.com/ru/post/685768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685768)
 - [Человеческим языком про метрики 2: Prometheus](https://habr.com/ru/post/685636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685636)
 - [Заметки непосредственного специалиста из мира программирования о профессии](https://habr.com/ru/post/686344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686344)
-- [Дайджест интересных материалов для мобильного разработчика #455 &lpar;29 августа — 4 сентября&rpar;](https://habr.com/ru/post/686342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
