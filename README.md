@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заметки дата-инженера: интеграция Kafka и PySpark](https://habr.com/ru/post/686242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686242)
+- [Как мы помогли Альфа-Банку выйти из трудного положения с помощью WASM](https://habr.com/ru/post/686408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686408)
+- [Разбираемся с Redis](https://habr.com/ru/post/685894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685894)
 - [Выходя за рамки ООП. Разработка расширений для PHP на PHP](https://habr.com/ru/post/577658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=577658)
 - [Управление устройствами интернета вещей через Kubernetes](https://habr.com/ru/post/686332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686332)
-- [Моя попытка сделать WiFi-флешку и что из этого получилось &lpar;а что нет&rpar;](https://habr.com/ru/post/685768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685768)
-- [Человеческим языком про метрики 2: Prometheus](https://habr.com/ru/post/685636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685636)
-- [Заметки непосредственного специалиста из мира программирования о профессии](https://habr.com/ru/post/686344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
