@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моя попытка сделать WiFi-флешку и что из этого получилось &lpar;а что нет&rpar;](https://habr.com/ru/post/685768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685768)
 - [Человеческим языком про метрики 2: Prometheus](https://habr.com/ru/post/685636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685636)
 - [Заметки непосредственного специалиста из мира программирования о профессии](https://habr.com/ru/post/686344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686344)
 - [Дайджест интересных материалов для мобильного разработчика #455 &lpar;29 августа — 4 сентября&rpar;](https://habr.com/ru/post/686342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686342)
 - [Программирование: искусство, наука, или ремесло?](https://habr.com/ru/post/686310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686310)
-- [Криптостойкость Биткоина против квантового компьютера QIANSHI от китайского гиганта поисковой системы Baidu Inc](https://habr.com/ru/post/685720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
