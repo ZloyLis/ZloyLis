@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-30 бесплатных курсов обучения по Python 2022 года](https://habr.com/ru/post/686632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686632)
 - [Использование HTMS для хранения и применения нейронных сетей](https://habr.com/ru/post/686696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686696)
 - [Стенд для тестирования плат после монтажа](https://habr.com/ru/post/686674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686674)
 - [[Перевод] 10 задач с JavaScript Promise для подготовки к собеседованиям](https://habr.com/ru/post/686670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686670)
 - [Краткое введение в разработку собственных правил для ESLint](https://habr.com/ru/post/686662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686662)
-- [[recovery mode] Краткое руководство по гарантированному получению льгот ИТ-компанией](https://habr.com/ru/post/686658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
