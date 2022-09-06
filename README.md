@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пробел в нумерации, или почему никто не говорит про IPv5](https://habr.com/ru/post/686652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686652)
+- [[Перевод] Планируем идеальный поход с NetworkX и OpenStreetMap](https://habr.com/ru/post/686688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686688)
 - [Реализация кэш-компрессии по алгоритму base+delta](https://habr.com/ru/post/686766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686766)
 - [Как Go выполняет встраивание](https://habr.com/ru/post/686758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686758)
 - [Взять и собрать «мусор» в облаке — несколько open source решений, которые с этим помогут](https://habr.com/ru/post/685706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685706)
-- [[recovery mode] Добавление масштабирования при ширине экрана менее чем body min-width в Firefox и Safari](https://habr.com/ru/post/686748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686748)
-- [Чем опасны уязвимые зависимости в проекте и как с этим помогает SCA?](https://habr.com/ru/post/686746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
