@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация кэш-компрессии по алгоритму base+delta](https://habr.com/ru/post/686766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686766)
+- [Как Go выполняет встраивание](https://habr.com/ru/post/686758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686758)
+- [Взять и собрать «мусор» в облаке — несколько open source решений, которые с этим помогут](https://habr.com/ru/post/685706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685706)
 - [[recovery mode] Добавление масштабирования при ширине экрана менее чем body min-width в Firefox и Safari](https://habr.com/ru/post/686748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686748)
 - [Чем опасны уязвимые зависимости в проекте и как с этим помогает SCA?](https://habr.com/ru/post/686746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686746)
-- [Обязан ли разработчик развиваться?](https://habr.com/ru/post/686742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686742)
-- [Как мы исправили проблему авторизации через Google на iOS](https://habr.com/ru/post/686730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686730)
-- [Spring Boot @ConfigurationProperties и коллекции](https://habr.com/ru/post/686726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
