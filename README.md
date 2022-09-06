@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка «зрелищной» программы. Интерфейс оператора, GUI и маркетинг](https://habr.com/ru/post/686612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686612)
 - [Спасти образование](https://habr.com/ru/post/686470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686470)
 - [Невыжившие в IT](https://habr.com/ru/post/686566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686566)
 - [[Перевод] Интеграция Open Policy Agent &lpar;OPA&rpar; в Kubernetes](https://habr.com/ru/post/686538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686538)
 - [Как мы делаем dogfooding наших QA-студентов и платим им за это $1000+/мес](https://habr.com/ru/post/686488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686488)
-- [Security Week 2236: корпоративная атака с помощью кода из игры](https://habr.com/ru/post/686468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
