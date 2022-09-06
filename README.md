@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стенд для тестирования плат после монтажа](https://habr.com/ru/post/686674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686674)
+- [[Перевод] 10 задач с JavaScript Promise для подготовки к собеседованиям](https://habr.com/ru/post/686670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686670)
+- [Краткое введение в разработку собственных правил для ESLint](https://habr.com/ru/post/686662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686662)
+- [[recovery mode] Краткое руководство по гарантированному получению льгот ИТ-компанией](https://habr.com/ru/post/686658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686658)
 - [Как найти и устранить IDOR — ликбез по уязвимости для пентестеров и веб-разработчиков](https://habr.com/ru/post/686464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686464)
-- [Ускоряем разработку](https://habr.com/ru/post/686628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686628)
-- [Выкатываем сервис в production: 6 шагов к успешному релизу](https://habr.com/ru/post/686568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686568)
-- [Распределенная трассировка: подключить всех и не умереть](https://habr.com/ru/post/686512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686512)
-- [Колхоз. Большая история фермы устройств Яндекса](https://habr.com/ru/post/686324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
