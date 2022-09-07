@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы развиваем культуру UX-исследований в Сравни](https://habr.com/ru/post/687030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687030)
 - [[Перевод] Парсинг JSON с помощью Jackson](https://habr.com/ru/post/687004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687004)
 - [Как проходит интервью QA-инженеров в Тинькофф](https://habr.com/ru/post/686996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686996)
 - [Microservice mesh и тестирование под высокой нагрузкой](https://habr.com/ru/post/686924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686924)
 - [MFC В 2022](https://habr.com/ru/post/686980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686980)
-- [Год бесплатного обучения Android-разработке для школьников: все об IT Школе Samsung](https://habr.com/ru/post/686926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
