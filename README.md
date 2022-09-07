@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пользовательские типы и std::format в C++20](https://habr.com/ru/post/686900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686900)
+- [Клавиатурный тренажер в виде тюли из клавиш](https://habr.com/ru/post/686896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686896)
+- [Как достичь производительного рендеринга в браузере](https://habr.com/ru/post/660687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660687)
 - [Примеры кошмарного программирования вокруг нас. Выученная беспомощность](https://habr.com/ru/post/686424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686424)
 - [[Перевод] UX для здравоохранения — дизайн, который спасает жизни](https://habr.com/ru/post/686876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686876)
-- [Топ-30 бесплатных курсов по JavaScript 2022 года](https://habr.com/ru/post/686858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686858)
-- [Кто такой Data Product Manager и почему без него не обойтись в 2022 году, если вы работаете с Big Data](https://habr.com/ru/post/682822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682822)
-- [Опыт проектов с ИИ в промышленности на примере проекта по обеспечению контроля технического состояния электролизеров](https://habr.com/ru/post/686864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
