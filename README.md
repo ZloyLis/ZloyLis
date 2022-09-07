@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовим Android к пентесту — WSA edition](https://habr.com/ru/post/685410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685410)
 - [Пробел в нумерации, или почему никто не говорит про IPv5](https://habr.com/ru/post/686652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686652)
 - [[Перевод] Планируем идеальный поход с NetworkX и OpenStreetMap](https://habr.com/ru/post/686688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686688)
 - [Реализация кэш-компрессии по алгоритму base+delta](https://habr.com/ru/post/686766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686766)
 - [Как Go выполняет встраивание](https://habr.com/ru/post/686758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686758)
-- [Взять и собрать «мусор» в облаке — несколько open source решений, которые с этим помогут](https://habr.com/ru/post/685706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
