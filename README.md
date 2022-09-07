@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Чем интересуется в микроэлектронике западная и азиатская молодежь &lpar;инфо не из интернета&rpar;](https://habr.com/ru/post/686602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686602)
-- [TypeScript: разбираем исходный код Radash](https://habr.com/ru/post/686824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686824)
-- [Вендор ушел, а клоуны остались. Как мы начали сопровождать чёрный ящик](https://habr.com/ru/post/686836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686836)
-- [Готовим Android к пентесту — WSA edition](https://habr.com/ru/post/685410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685410)
-- [Пробел в нумерации, или почему никто не говорит про IPv5](https://habr.com/ru/post/686652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686652)
+- [Примеры кошмарного программирования вокруг нас. Выученная беспомощность](https://habr.com/ru/post/686424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686424)
+- [[Перевод] UX для здравоохранения — дизайн, который спасает жизни](https://habr.com/ru/post/686876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686876)
+- [Топ-30 бесплатных курсов по JavaScript 2022 года](https://habr.com/ru/post/686858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686858)
+- [Кто такой Data Product Manager и почему без него не обойтись в 2022 году, если вы работаете с Big Data](https://habr.com/ru/post/682822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682822)
+- [Опыт проектов с ИИ в промышленности на примере проекта по обеспечению контроля технического состояния электролизеров](https://habr.com/ru/post/686864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
