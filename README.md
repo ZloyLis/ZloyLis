@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Парсинг JSON с помощью Jackson](https://habr.com/ru/post/687004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687004)
+- [Как проходит интервью QA-инженеров в Тинькофф](https://habr.com/ru/post/686996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686996)
+- [Microservice mesh и тестирование под высокой нагрузкой](https://habr.com/ru/post/686924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686924)
 - [MFC В 2022](https://habr.com/ru/post/686980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686980)
 - [Год бесплатного обучения Android-разработке для школьников: все об IT Школе Samsung](https://habr.com/ru/post/686926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686926)
-- [Как мы переходили на React-router v6: подводные камни и альтернативы](https://habr.com/ru/post/686954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686954)
-- [Как правильно внедрить Self-service-аналитику и для чего вам это. Кейс «Пятёрочки»](https://habr.com/ru/post/686920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686920)
-- [Сколько школ во всем мире? Чтение сотен гигабайт OpenStreetMap данных в JVM из Apache Arrow](https://habr.com/ru/post/686860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
