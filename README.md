@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы переходили на React-router v6: подводные камни и альтернативы](https://habr.com/ru/post/686954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686954)
+- [Как правильно внедрить Self-service-аналитику и для чего вам это. Кейс «Пятёрочки»](https://habr.com/ru/post/686920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686920)
+- [Сколько школ во всем мире? Чтение сотен гигабайт данных в JVM из Apache Arrow](https://habr.com/ru/post/686860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686860)
 - [Trunk Based Flow — кто такой и зачем нужен](https://habr.com/ru/post/680522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680522)
 - [[Перевод] Четыре важных теста для Apache Kafka CI/CD с GitHub Actions](https://habr.com/ru/post/686922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686922)
-- [[Перевод] Пользовательские типы и std::format в C++20](https://habr.com/ru/post/686900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686900)
-- [Клавиатурный тренажер в виде тюли из клавиш](https://habr.com/ru/post/686896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686896)
-- [Как достичь производительного рендеринга в браузере](https://habr.com/ru/post/660687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
