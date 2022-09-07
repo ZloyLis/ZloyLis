@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Trunk Based Flow — кто такой и зачем нужен](https://habr.com/ru/post/680522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680522)
+- [[Перевод] Четыре важных теста для Apache Kafka CI/CD с GitHub Actions](https://habr.com/ru/post/686922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686922)
 - [[Перевод] Пользовательские типы и std::format в C++20](https://habr.com/ru/post/686900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686900)
 - [Клавиатурный тренажер в виде тюли из клавиш](https://habr.com/ru/post/686896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686896)
 - [Как достичь производительного рендеринга в браузере](https://habr.com/ru/post/660687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660687)
-- [Примеры кошмарного программирования вокруг нас. Выученная беспомощность](https://habr.com/ru/post/686424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686424)
-- [[Перевод] UX для здравоохранения — дизайн, который спасает жизни](https://habr.com/ru/post/686876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
