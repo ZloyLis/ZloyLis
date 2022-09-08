@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что читать DevOps-инженеру: 7 полезных книг](https://habr.com/ru/post/686942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686942)
+- [Топ-30 бесплатных курсов обучения по Java 2022 года](https://habr.com/ru/post/687138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687138)
 - [Залогиниться из России через Турцию — без VPN. Обновление геолокаций IP с помощью Geofeed](https://habr.com/ru/post/687066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687066)
 - [Ускоряем разработку: автоматический перевод C++ в Swift. Часть II](https://habr.com/ru/post/686902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686902)
 - [Как мы внедряли tracing](https://habr.com/ru/post/686414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686414)
-- [Как мы создали шаблон функциональных требований к разработке ПО](https://habr.com/ru/post/686570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686570)
-- [[Перевод] Предварительная версия C# 11: обощённые типы для ML, обязательные члены и многое другое](https://habr.com/ru/post/686880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
