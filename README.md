@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как обеспечить конфиденциальность и безопасность данных участников исследования](https://habr.com/ru/post/687226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687226)
+- [Как все-таки на самом деле стать тестировщиком с нуля &lpar;и сразу релоцироваться&rpar;](https://habr.com/ru/post/686966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686966)
+- [Philips DCC175: Компьютерная цифровая кассета](https://habr.com/ru/post/687208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687208)
 - [[recovery mode] Два в шестой степени](https://habr.com/ru/post/687212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687212)
 - [Развертывание Spring Boot приложения с помощью Nginx, Let&#39;s Encrypt и Docker Compose](https://habr.com/ru/post/687210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687210)
-- [Umbrella-sharing: как система проката зонтиков сделала нас фанатами Android разработки](https://habr.com/ru/post/686958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686958)
-- [Flutter 3.3 — Что нового во Flutter](https://habr.com/ru/post/687186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687186)
-- [Как привлечь первых пользователей в свою игру или приложение](https://habr.com/ru/post/681930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
