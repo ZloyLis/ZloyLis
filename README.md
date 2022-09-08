@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему интеграционная БД это отстой](https://habr.com/ru/post/672086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672086)
-- [[recovery mode] Deep Dive Into Deep Link. Часть 1. Введение и исходная задача](https://habr.com/ru/post/686990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686990)
-- [[Перевод] Занимательные задачки: Филдсовская медаль для начинающих](https://habr.com/ru/post/687156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687156)
-- [Что читать DevOps-инженеру: 7 полезных книг](https://habr.com/ru/post/686942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686942)
-- [Топ-30 бесплатных курсов обучения по Java 2022 года](https://habr.com/ru/post/687138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687138)
+- [[recovery mode] Два в шестой степени](https://habr.com/ru/post/687212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687212)
+- [Развертывание Spring Boot приложения с помощью Nginx, Let&#39;s Encrypt и Docker Compose](https://habr.com/ru/post/687210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687210)
+- [Umbrella-sharing: как система проката зонтиков сделала нас фанатами Android разработки](https://habr.com/ru/post/686958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686958)
+- [Flutter 3.3 — Что нового во Flutter](https://habr.com/ru/post/687186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687186)
+- [Как привлечь первых пользователей в свою игру или приложение](https://habr.com/ru/post/681930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=681930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
