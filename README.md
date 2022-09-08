@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему интеграционная БД это отстой](https://habr.com/ru/post/672086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672086)
+- [[recovery mode] Deep Dive Into Deep Link. Часть 1. Введение и исходная задача](https://habr.com/ru/post/686990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686990)
+- [[Перевод] Занимательные задачки: Филдсовская медаль для начинающих](https://habr.com/ru/post/687156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687156)
 - [Что читать DevOps-инженеру: 7 полезных книг](https://habr.com/ru/post/686942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686942)
 - [Топ-30 бесплатных курсов обучения по Java 2022 года](https://habr.com/ru/post/687138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687138)
-- [Залогиниться из России через Турцию — без VPN. Обновление геолокаций IP с помощью Geofeed](https://habr.com/ru/post/687066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687066)
-- [Ускоряем разработку: автоматический перевод C++ в Swift. Часть II](https://habr.com/ru/post/686902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686902)
-- [Как мы внедряли tracing](https://habr.com/ru/post/686414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
