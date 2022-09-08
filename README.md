@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем разработку: автоматический перевод C++ в Swift. Часть II](https://habr.com/ru/post/686902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686902)
 - [Как мы внедряли tracing](https://habr.com/ru/post/686414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686414)
 - [Как мы создали шаблон функциональных требований к разработке ПО](https://habr.com/ru/post/686570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686570)
 - [[Перевод] Предварительная версия C# 11: обощённые типы для ML, обязательные члены и многое другое](https://habr.com/ru/post/686880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686880)
 - [Простая масштабируемая структура Angular приложения](https://habr.com/ru/post/687062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687062)
-- [Как мы развиваем культуру UX-исследований в Сравни](https://habr.com/ru/post/687030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
