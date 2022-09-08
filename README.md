@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Мне 22 года и вот чему я научился за первые 90 дней работы над своим стартапом](https://habr.com/ru/post/682094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682094)
+- [Золотой Selenide. Мои лучшие практики по тестированию](https://habr.com/ru/post/687246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687246)
 - [[Перевод] Как обеспечить конфиденциальность и безопасность данных участников исследования](https://habr.com/ru/post/687226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687226)
 - [Как все-таки на самом деле стать тестировщиком с нуля &lpar;и сразу релоцироваться&rpar;](https://habr.com/ru/post/686966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686966)
 - [Philips DCC175: Компьютерная цифровая кассета](https://habr.com/ru/post/687208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687208)
