@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Документация в Kotlin-коде и CI/CD](https://habr.com/ru/post/687244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687244)
+- [Пять признаков, что в вашей продуктовой команде не хватает UX-редактора](https://habr.com/ru/post/687366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687366)
 - [[Перевод] http://http://http://@http://http://?http://#http://](https://habr.com/ru/post/687402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687402)
 - [Какие у нас есть клавиши в клавиатуре или как непрограммист язык разрабатывал](https://habr.com/ru/post/687398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687398)
 - [Готовим приватные репозитории с помощью Artipie](https://habr.com/ru/post/687394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687394)
-- [[Перевод] Spring Data JDBC – генерация первичных ключей с помощью последовательностей &lpar;sequence&rpar;](https://habr.com/ru/post/687386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687386)
-- [[recovery mode] Топ-25 бесплатных курсов Android-разработчика 2022 года](https://habr.com/ru/post/687376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
