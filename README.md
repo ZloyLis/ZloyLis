@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пример использования SSR с React в крупном приложении интернет-магазина](https://habr.com/ru/post/687230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687230)
+- [[Перевод] Продвинутые хуки в React: всё о UseEffect](https://habr.com/ru/post/687364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687364)
 - [Как сделать стриминговый сервис](https://habr.com/ru/post/687360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687360)
 - [История Android от L до T](https://habr.com/ru/post/686614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686614)
 - [Как мы создали тренинги по Tarantool](https://habr.com/ru/post/687182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687182)
-- [Старое, новое, наше: история тестирования ПО и работа тестировщиком в команде Сбера](https://habr.com/ru/post/687356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687356)
-- [Что общего между локализацией багов и расследованием преступления?](https://habr.com/ru/post/687102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
