@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как опубликовать свой плагин в репозиторий WordPress.org](https://habr.com/ru/post/687348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687348)
-- [Three.js, квантовый спин, сфера Блоха и квантовые вращения](https://habr.com/ru/post/687330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687330)
-- [Как мы зарелизили новую корзину и победили проблему разваливающихся заказов](https://habr.com/ru/post/687298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687298)
-- [Обзор операторов PostgreSQL для Kubernetes. Часть 3: CloudNativePG](https://habr.com/ru/post/684202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684202)
-- [[Перевод] Предохранители для данных: как автоматические выключатели повышают Data Quality](https://habr.com/ru/post/684120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684120)
+- [Как сделать стриминговый сервис](https://habr.com/ru/post/687360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687360)
+- [История Android от L до T](https://habr.com/ru/post/686614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686614)
+- [Как мы создали тренинги по Tarantool](https://habr.com/ru/post/687182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687182)
+- [Старое, новое, наше: история тестирования ПО и работа тестировщиком в команде Сбера](https://habr.com/ru/post/687356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687356)
+- [Что общего между локализацией багов и расследованием преступления?](https://habr.com/ru/post/687102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
