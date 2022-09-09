@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полифилы JavaScript: что это и зачем они нужны?](https://habr.com/ru/post/687288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687288)
 - [Обзор метрик обнаружения аномалий &lpar;плюс много дополнительной информации&rpar;](https://habr.com/ru/post/687270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687270)
 - [[Перевод] Вероятно вам не нужен MediatR](https://habr.com/ru/post/686278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686278)
 - [Корутины C++20 и многозадачность на примере контроллеров stm32](https://habr.com/ru/post/687266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687266)
 - [Золотой Selenide. Мои лучшие практики по тестированию](https://habr.com/ru/post/687246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687246)
-- [[Перевод] Как обеспечить конфиденциальность и безопасность данных участников исследования](https://habr.com/ru/post/687226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
