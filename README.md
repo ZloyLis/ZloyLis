@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор операторов PostgreSQL для Kubernetes. Часть 3: CloudNativePG](https://habr.com/ru/post/684202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684202)
+- [[Перевод] Предохранители для данных: как автоматические выключатели повышают Data Quality](https://habr.com/ru/post/684120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684120)
 - [Полифилы JavaScript: что это и зачем они нужны?](https://habr.com/ru/post/687288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687288)
 - [Обзор метрик обнаружения аномалий &lpar;плюс много дополнительной информации&rpar;](https://habr.com/ru/post/687270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687270)
 - [[Перевод] Вероятно вам не нужен MediatR](https://habr.com/ru/post/686278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686278)
-- [Корутины C++20 и многозадачность на примере контроллеров stm32](https://habr.com/ru/post/687266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687266)
-- [Золотой Selenide. Мои лучшие практики по тестированию](https://habr.com/ru/post/687246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
