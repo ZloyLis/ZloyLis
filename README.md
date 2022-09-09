@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование в Word: зачем, почему?](https://habr.com/ru/post/687410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687410)
+- [Куда катится девопс: о чём говорили на круглом столе в Слёрме](https://habr.com/ru/post/687434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687434)
+- [Повышаем качество сервисов и делаем пользователей счастливыми: как работают в команде QA ВКонтакте](https://habr.com/ru/post/687458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687458)
 - [Документация в Kotlin-коде и CI/CD](https://habr.com/ru/post/687244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687244)
 - [Пять признаков, что в вашей продуктовой команде не хватает UX-редактора](https://habr.com/ru/post/687366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687366)
-- [[Перевод] http://http://http://@http://http://?http://#http://](https://habr.com/ru/post/687402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687402)
-- [Какие у нас есть клавиши в клавиатуре или как непрограммист язык разрабатывал](https://habr.com/ru/post/687398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687398)
-- [Готовим приватные репозитории с помощью Artipie](https://habr.com/ru/post/687394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
