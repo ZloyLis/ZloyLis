@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Красота математики в формате бумаги A4](https://habr.com/ru/post/687472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687472)
 - [Cache pollution? Запасайтесь тестами](https://habr.com/ru/post/687146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687146)
 - [Программирование в Word: зачем, почему?](https://habr.com/ru/post/687410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687410)
 - [Куда катится девопс: о чём говорили на круглом столе в Слёрме](https://habr.com/ru/post/687434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687434)
 - [Повышаем качество сервисов и делаем пользователей счастливыми: как работают в команде QA ВКонтакте](https://habr.com/ru/post/687458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687458)
-- [Документация в Kotlin-коде и CI/CD](https://habr.com/ru/post/687244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
