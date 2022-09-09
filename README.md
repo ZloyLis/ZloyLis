@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как опубликовать свой плагин в репозиторий WordPress.org](https://habr.com/ru/post/687348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687348)
+- [Three.js, квантовый спин, сфера Блоха и квантовые вращения](https://habr.com/ru/post/687330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687330)
 - [Как мы зарелизили новую корзину и победили проблему разваливающихся заказов](https://habr.com/ru/post/687298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687298)
 - [Обзор операторов PostgreSQL для Kubernetes. Часть 3: CloudNativePG](https://habr.com/ru/post/684202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684202)
 - [[Перевод] Предохранители для данных: как автоматические выключатели повышают Data Quality](https://habr.com/ru/post/684120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684120)
-- [Полифилы JavaScript: что это и зачем они нужны?](https://habr.com/ru/post/687288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687288)
-- [Обзор метрик обнаружения аномалий &lpar;плюс много дополнительной информации&rpar;](https://habr.com/ru/post/687270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
