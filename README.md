@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Плагины, горячие клавиши, настройки для PyCharm](https://habr.com/ru/post/687482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687482)
+- [Midjourney — нейросеть генерирующая картинки по текстовому описанию](https://habr.com/ru/post/687524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687524)
+- [Как я выиграл апелляцию против американских санкций](https://habr.com/ru/post/687510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687510)
 - [[Перевод] Красота математики в формате бумаги A4](https://habr.com/ru/post/687472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687472)
 - [Cache pollution? Запасайтесь тестами](https://habr.com/ru/post/687146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687146)
-- [Программирование в Word: зачем, почему?](https://habr.com/ru/post/687410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687410)
-- [Повышаем качество сервисов и делаем пользователей счастливыми: как работают в команде QA ВКонтакте](https://habr.com/ru/post/687458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687458)
-- [Документация в Kotlin-коде и CI/CD](https://habr.com/ru/post/687244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
