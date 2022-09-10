@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применяем паттерн MVVM на React](https://habr.com/ru/post/687568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687568)
 - [[recovery mode] «Вам повезло!» или как Яндекс устранял баг](https://habr.com/ru/post/687542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687542)
 - [Задачник по теории информации + ML. Часть 1](https://habr.com/ru/post/686806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686806)
 - [Плагины, горячие клавиши, настройки для PyCharm](https://habr.com/ru/post/687482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687482)
 - [Midjourney — нейросеть генерирующая картинки по текстовому описанию](https://habr.com/ru/post/687524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687524)
-- [Как я выиграл апелляцию против американских санкций](https://habr.com/ru/post/687510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
