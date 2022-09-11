@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему падают темпы прогреса?](https://habr.com/ru/post/687388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687388)
 - [[recovery mode] Coingecko &amp;amp; Agent Ftpupload создаем красивые адреса криптокошелька, но помним о сохранности приватного ключа](https://habr.com/ru/post/687630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687630)
 - [Интеграция QUIK в инфраструктуру или API](https://habr.com/ru/post/680872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680872)
 - [Задачник по теории информации + ML. Часть 2](https://habr.com/ru/post/687546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687546)
 - [10 принципов хорошего левел дизайна](https://habr.com/ru/post/685992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685992)
-- [[recovery mode] «Вам повезло!» или как Яндекс устранял баг](https://habr.com/ru/post/687542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
