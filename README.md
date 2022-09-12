@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Минимизация ошибок продуктового дизайнера с помощью коридорного тестирования](https://habr.com/ru/post/687790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687790)
+- [Школы IT: что делать, куда идти?](https://habr.com/ru/post/687784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687784)
 - [PowerShell, HTML Agility Pack: получение значения атрибута HTML-элемента](https://habr.com/ru/post/687744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687744)
 - [Пилим-режем: как создать новый интерфейс без гвоздей и бревен](https://habr.com/ru/post/687736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687736)
 - [Фича-команды — профит или балласт?](https://habr.com/ru/post/687740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687740)
-- [[Перевод] Подтесты в Python](https://habr.com/ru/post/685890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685890)
-- [Как снимать логи с устройств на Android и iOS: разбираемся с инструментами](https://habr.com/ru/post/687184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
