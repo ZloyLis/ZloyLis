@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что вам поможет стать программистом](https://habr.com/ru/post/687820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687820)
+- [[Перевод] Принципы построения многомодульных Android-приложений](https://habr.com/ru/post/687882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687882)
 - [[Перевод] Как повысить скорость разработки с помощью общедоступных функций JavaScript](https://habr.com/ru/post/687868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687868)
 - [Дайджест недели от Apple Pro Weekly News &lpar;05.09 – 11.09.22&rpar;](https://habr.com/ru/post/687862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687862)
 - [Топ-25 бесплатных курсов веб-разработчика 2022 года](https://habr.com/ru/post/687844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687844)
-- [Java Middle Interview](https://habr.com/ru/post/687824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687824)
-- [[Перевод] TypeScript в деталях. Часть 2](https://habr.com/ru/post/687806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
