@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Middle Interview](https://habr.com/ru/post/687824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687824)
 - [[Перевод] TypeScript в деталях. Часть 2](https://habr.com/ru/post/687806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687806)
 - [Блок удаленного выключения зажигания двухтактных ДВС](https://habr.com/ru/post/683928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683928)
 - [Адаптивный ПИД-регулятор поддержания уровня металла в кристаллизаторе УНРС](https://habr.com/ru/post/687802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687802)
 - [Минимизация ошибок продуктового дизайнера с помощью коридорного тестирования](https://habr.com/ru/post/687790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687790)
-- [Школы IT: что делать, куда идти?](https://habr.com/ru/post/687784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
