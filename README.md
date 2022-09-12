@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell, HTML Agility Pack: получение значения атрибута HTML-элемента](https://habr.com/ru/post/687744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687744)
 - [Пилим-режем: как создать новый интерфейс без гвоздей и бревен](https://habr.com/ru/post/687736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687736)
 - [Фича-команды — профит или балласт?](https://habr.com/ru/post/687740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687740)
 - [[Перевод] Подтесты в Python](https://habr.com/ru/post/685890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685890)
 - [Как снимать логи с устройств на Android и iOS: разбираемся с инструментами](https://habr.com/ru/post/687184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687184)
-- [Синтаксический сахар в Redux: Type to reducer и Redux toolkit для самых маленьких](https://habr.com/ru/post/687704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
