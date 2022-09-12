@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] TypeScript в деталях. Часть 2](https://habr.com/ru/post/687806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687806)
+- [Блок удаленного выключения зажигания двухтактных ДВС](https://habr.com/ru/post/683928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683928)
+- [Адаптивный ПИД-регулятор поддержания уровня металла в кристаллизаторе УНРС](https://habr.com/ru/post/687802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687802)
 - [Минимизация ошибок продуктового дизайнера с помощью коридорного тестирования](https://habr.com/ru/post/687790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687790)
 - [Школы IT: что делать, куда идти?](https://habr.com/ru/post/687784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687784)
-- [PowerShell, HTML Agility Pack: получение значения атрибута HTML-элемента](https://habr.com/ru/post/687744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687744)
-- [Пилим-режем: как создать новый интерфейс без гвоздей и бревен](https://habr.com/ru/post/687736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687736)
-- [Фича-команды — профит или балласт?](https://habr.com/ru/post/687740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
