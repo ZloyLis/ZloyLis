@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пилим-режем: как создать новый интерфейс без гвоздей и бревен](https://habr.com/ru/post/687736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687736)
+- [Фича-команды — профит или балласт?](https://habr.com/ru/post/687740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687740)
+- [[Перевод] Подтесты в Python](https://habr.com/ru/post/685890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685890)
+- [Как снимать логи с устройств на Android и iOS: разбираемся с инструментами](https://habr.com/ru/post/687184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687184)
 - [Синтаксический сахар в Redux: Type to reducer и Redux toolkit для самых маленьких](https://habr.com/ru/post/687704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687704)
-- [Топ вещей из Java, которых мне не хватает в C#](https://habr.com/ru/post/687412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687412)
-- [Мой аналог The GO Playground](https://habr.com/ru/post/687692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687692)
-- [Дайджест интересных материалов для мобильного разработчика #456 &lpar;5 — 11 сентября&rpar;](https://habr.com/ru/post/687648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687648)
-- [Почему падают темпы прогресса?](https://habr.com/ru/post/687388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
