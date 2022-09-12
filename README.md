@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;05.09 – 11.09.22&rpar;](https://habr.com/ru/post/687862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687862)
 - [Топ-25 бесплатных курсов веб-разработчика 2022 года](https://habr.com/ru/post/687844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687844)
 - [Java Middle Interview](https://habr.com/ru/post/687824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687824)
 - [[Перевод] TypeScript в деталях. Часть 2](https://habr.com/ru/post/687806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687806)
 - [Блок удаленного выключения зажигания двухтактных ДВС](https://habr.com/ru/post/683928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683928)
-- [Адаптивный ПИД-регулятор поддержания уровня металла в кристаллизаторе УНРС](https://habr.com/ru/post/687802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
