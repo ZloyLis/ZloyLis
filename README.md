@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование GitHub в обучении студентов. Автоматизация проверок. Часть I](https://habr.com/ru/post/687940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687940)
+- [В iOS 16 установленные обновления безопасности можно будет удалить автоматически](https://habr.com/ru/post/687934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687934)
 - [Сказ об ООП, пиве, чае и дружбе](https://habr.com/ru/post/687930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687930)
 - [Разработка Angular-приложений и построение их архитектуры](https://habr.com/ru/post/687712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687712)
 - [[Перевод] Как получить элементы HTML с несколькими классами с помощью JavaScript](https://habr.com/ru/post/687920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687920)
-- [Что мы используем для анализа Android-приложений](https://habr.com/ru/post/685920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685920)
-- [Как поладить с программистами](https://habr.com/ru/post/687894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
