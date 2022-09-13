@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление техническим долгом в Scrum-разработке](https://habr.com/ru/post/688036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688036)
 - [Зачем работадатели требуют наличие ВО и почему это оправданно](https://habr.com/ru/post/688016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688016)
 - [Устраиваем на работу за один день — One Day Offer от Sportmaster Lab](https://habr.com/ru/post/688014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688014)
 - [[Перевод] Как устроена виртуальная машина SQLite](https://habr.com/ru/post/687994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687994)
 - [Чего боятся стажеры?](https://habr.com/ru/post/687998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687998)
-- [Топ-30 бесплатных курсов по PHP программированию 2022](https://habr.com/ru/post/687970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
