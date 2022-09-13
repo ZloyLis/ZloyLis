@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Использование GitHub в обучении студентов. Автоматизация проверок. Часть I](https://habr.com/ru/post/687940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687940)
-- [В iOS 16 установленные обновления безопасности можно будет удалить автоматически](https://habr.com/ru/post/687934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687934)
-- [Сказ об ООП, пиве, чае и дружбе](https://habr.com/ru/post/687930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687930)
-- [Разработка Angular-приложений и построение их архитектуры](https://habr.com/ru/post/687712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687712)
-- [[Перевод] Как получить элементы HTML с несколькими классами с помощью JavaScript](https://habr.com/ru/post/687920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687920)
+- [Как мы обновили интерфейс сложной платформы для проектировщиков](https://habr.com/ru/post/687938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687938)
+- [Программисты 2022: кто они?](https://habr.com/ru/post/687816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687816)
+- [Превью сайта с разметкой Open Graph: как автоматически рендерить картинку](https://habr.com/ru/post/687726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687726)
+- [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 2: аутентификация](https://habr.com/ru/post/687106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687106)
+- [Обработка исключений в Java в функциональном стиле. Часть 2](https://habr.com/ru/post/687954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
