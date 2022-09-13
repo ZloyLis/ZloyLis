@@ -26,8 +26,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что мы используем для анализа Android-приложений](https://habr.com/ru/post/685920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685920)
 - [Как поладить с программистами](https://habr.com/ru/post/687894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687894)
-- [NTMgNmIgNjkgNmMgNmMgNDYgNjEgNjMgNzQgNmYgNzIgNzkgMjAgZDAgYmYgZDAgYmUgZDAgYjcg ZDAgYjQgZDEgODAgZDAgYjAgZDAgYjIgZDAgYmIgZDE](https://habr.com/ru/post/687846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687846)
 - [Что вам поможет стать программистом](https://habr.com/ru/post/687820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687820)
 - [[Перевод] Принципы построения многомодульных Android-приложений](https://habr.com/ru/post/687882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687882)
 - [[Перевод] Как повысить скорость разработки с помощью общедоступных функций JavaScript](https://habr.com/ru/post/687868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687868)
