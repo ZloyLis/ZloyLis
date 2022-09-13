@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Фокусы оптимизации размера исполняемых файлов ELF. Поддержка 4 ОС в 400 байт единственного бинарника](https://habr.com/ru/post/688078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688078)
 - [Security Week 2237: бесконтактное детектирование работающих микрофонов](https://habr.com/ru/post/687834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687834)
 - [VK Видео: архитектура сервиса на основе пользовательских метрик](https://habr.com/ru/post/687752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687752)
 - [Зачем работадатели требуют наличие ВО и почему это оправданно](https://habr.com/ru/post/688016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688016)
 - [Устраиваем на работу за один день — One Day Offer от Sportmaster Lab](https://habr.com/ru/post/688014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688014)
-- [[Перевод] Как устроена виртуальная машина SQLite](https://habr.com/ru/post/687994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
