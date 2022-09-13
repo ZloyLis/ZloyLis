@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чего боятся стажеры?](https://habr.com/ru/post/687998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687998)
 - [Топ-30 бесплатных курсов по PHP программированию 2022](https://habr.com/ru/post/687970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687970)
 - [Программисты 2022: кто они?](https://habr.com/ru/post/687816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687816)
 - [Превью сайта с разметкой Open Graph: как автоматически рендерить картинку](https://habr.com/ru/post/687726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687726)
 - [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 2: аутентификация](https://habr.com/ru/post/687106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687106)
-- [Обработка исключений в Java в функциональном стиле. Часть 2](https://habr.com/ru/post/687954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
