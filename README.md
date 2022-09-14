@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что делать, если собеседование QA по типовым вопросам не работает](https://habr.com/ru/post/685204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685204)
+- [[Перевод] Создание IoT-приложения с использованием HTTP API](https://habr.com/ru/post/687714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687714)
 - [Неочевидное про Fragment API. Часть 1. Транзакции](https://habr.com/ru/post/688222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688222)
 - [Приглашаем на онлайновый митап про нативный фаззинг в 1.18 Go и его особенности](https://habr.com/ru/post/688242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688242)
 - [Топ-30 бесплатных курсов Unity-разработчика 2022 года](https://habr.com/ru/post/688210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688210)
-- [Как вырастить Senior QA в команде?](https://habr.com/ru/post/688192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688192)
-- [[Перевод] Как базы данных «ключ-значение» обеспечивают производительность и масштабируемость без границ](https://habr.com/ru/post/685402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
