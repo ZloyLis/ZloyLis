@@ -27,7 +27,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Применяем политики и рекомендации по безопасности в кластерах Kubernetes с OPA Gatekeeper](https://habr.com/ru/post/688268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688268)
-- [Параллелизм в алгоритмах — выявле́ние и рациональное его использование. Возможности компьютерного моделирования](https://habr.com/ru/post/688196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688196)
+- [ПАРАЛЛЕЛИЗМ В АЛГОРИТМАХ — ВЫЯВЛЕ́НИЕ И РАЦИОНАЛЬНОЕ ЕГО ИСПОЛЬЗОВАНИЕ. Возможности компьютерного моделирования](https://habr.com/ru/post/688196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688196)
 - [[Перевод] Как обнаружить мертвый узел в распределенной системе](https://habr.com/ru/post/688274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688274)
 - [Что делать, если собеседование QA по типовым вопросам не работает](https://habr.com/ru/post/685204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685204)
 - [[Перевод] Создание IoT-приложения с использованием HTTP API](https://habr.com/ru/post/687714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687714)
