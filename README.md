@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Добровольцы поддерживают критические части опенсорса. Но продолжают выгорать и срываться](https://habr.com/ru/post/687176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687176)
 - [[Перевод] Пожалуйста, не используйте Python для инструментария](https://habr.com/ru/post/688108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688108)
 - [[Перевод] Фокусы оптимизации размера исполняемых файлов ELF. Поддержка 4 ОС в 400 байт единственного бинарника](https://habr.com/ru/post/688078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688078)
+- [Использование ООП подхода для рассылки писем через Unione &lpar;php, Yii2&rpar;](https://habr.com/ru/post/688090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688090)
 - [Security Week 2237: бесконтактное детектирование работающих микрофонов](https://habr.com/ru/post/687834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687834)
-- [VK Видео: архитектура сервиса на основе пользовательских метрик](https://habr.com/ru/post/687752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687752)
-- [Зачем работадатели требуют наличие ВО и почему это оправданно](https://habr.com/ru/post/688016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
