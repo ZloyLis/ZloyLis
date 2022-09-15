@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Rust – не Си на стероидах. Чтобы его изучить, нужно избавиться от предрассудков»](https://habr.com/ru/post/688366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688366)
+- [Как разговорить айтишника: превращаем инженера в спикера](https://habr.com/ru/post/688142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688142)
+- [Эффективная FIFO-обработка для Node.js и Chrome](https://habr.com/ru/post/688182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688182)
 - [Как мы решаем проблемы со склонением слов для задач seo-оптимизации с помощью phpMorphy](https://habr.com/ru/post/688330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688330)
 - [GraphQL: доступ запрещен](https://habr.com/ru/post/688158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688158)
-- [Что такое объект](https://habr.com/ru/post/688348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688348)
-- [[Перевод] Кто и как разработал технологию Википедии](https://habr.com/ru/post/688338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688338)
-- [[Перевод] Все июльские обновления VS Code 2022](https://habr.com/ru/post/683740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
