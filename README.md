@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Парное программирование: да или нет?](https://habr.com/ru/post/688154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688154)
+- [Разработка программы отображения для гидроакустической станции под Linux](https://habr.com/ru/post/688440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688440)
 - [Нефункциональные требования: как не пустить систему ко дну](https://habr.com/ru/post/688428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688428)
 - [Перегрузка функций в TypeScript](https://habr.com/ru/post/688270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688270)
 - [skip connections и симметрия](https://habr.com/ru/post/688350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688350)
-- [Проверка JavaScript-движка Rhino, или как встретились единорог с носорогом](https://habr.com/ru/post/688422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688422)
-- [[Перевод] Вот почему вам стоит использовать оператор Walrus в Python](https://habr.com/ru/post/688032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
