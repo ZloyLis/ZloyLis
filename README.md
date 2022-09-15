@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вот почему вам стоит использовать оператор Walrus в Python](https://habr.com/ru/post/688032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688032)
+- [Где найти ментора в IT? Обзор площадок](https://habr.com/ru/post/688332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688332)
+- [[Перевод] Flutter 3.3: что нового](https://habr.com/ru/post/688194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688194)
 - [Паттерн внедрение зависимостей в .NET nanoFramework для микроконтроллеров](https://habr.com/ru/post/688052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688052)
 - [«Rust – не Си на стероидах. Чтобы его изучить, нужно избавиться от предрассудков»](https://habr.com/ru/post/688366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688366)
-- [Как разговорить айтишника: превращаем инженера в спикера](https://habr.com/ru/post/688142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688142)
-- [Эффективная FIFO-обработка для Node.js и Chrome](https://habr.com/ru/post/688182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688182)
-- [Как мы решаем проблемы со склонением слов для задач seo-оптимизации с помощью phpMorphy](https://habr.com/ru/post/688330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
