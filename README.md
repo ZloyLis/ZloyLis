@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерн внедрение зависимостей в .NET nanoFramework для микроконтроллеров](https://habr.com/ru/post/688052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688052)
 - [«Rust – не Си на стероидах. Чтобы его изучить, нужно избавиться от предрассудков»](https://habr.com/ru/post/688366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688366)
 - [Как разговорить айтишника: превращаем инженера в спикера](https://habr.com/ru/post/688142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688142)
 - [Эффективная FIFO-обработка для Node.js и Chrome](https://habr.com/ru/post/688182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688182)
 - [Как мы решаем проблемы со склонением слов для задач seo-оптимизации с помощью phpMorphy](https://habr.com/ru/post/688330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688330)
-- [GraphQL: доступ запрещен](https://habr.com/ru/post/688158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
