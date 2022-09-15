@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-25 бесплатных курсов QA-тестировщиков 2022 года](https://habr.com/ru/post/688456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688456)
+- [iOS-митап в red_mad_robot 6 октября](https://habr.com/ru/post/688398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688398)
 - [[Перевод] Парное программирование: да или нет?](https://habr.com/ru/post/688154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688154)
 - [Разработка программы отображения для гидроакустической станции под Linux](https://habr.com/ru/post/688440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688440)
 - [Нефункциональные требования: как не пустить систему ко дну](https://habr.com/ru/post/688428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688428)
-- [Перегрузка функций в TypeScript](https://habr.com/ru/post/688270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688270)
-- [skip connections и симметрия](https://habr.com/ru/post/688350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
