@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нефункциональные требования: как не пустить систему ко дну](https://habr.com/ru/post/688428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688428)
+- [Перегрузка функций в TypeScript](https://habr.com/ru/post/688270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688270)
+- [skip connections и симметрия](https://habr.com/ru/post/688350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688350)
+- [Проверка JavaScript-движка Rhino, или как встретились единорог с носорогом](https://habr.com/ru/post/688422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688422)
 - [[Перевод] Вот почему вам стоит использовать оператор Walrus в Python](https://habr.com/ru/post/688032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688032)
-- [Где найти ментора в IT? Обзор площадок](https://habr.com/ru/post/688332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688332)
-- [[Перевод] Flutter 3.3: что нового](https://habr.com/ru/post/688194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688194)
-- [Паттерн внедрение зависимостей в .NET nanoFramework для микроконтроллеров](https://habr.com/ru/post/688052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688052)
-- [«Rust – не Си на стероидах. Чтобы его изучить, нужно избавиться от предрассудков»](https://habr.com/ru/post/688366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
