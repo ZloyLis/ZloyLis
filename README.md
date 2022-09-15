@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое объект](https://habr.com/ru/post/688348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688348)
 - [[Перевод] Кто и как разработал технологию Википедии](https://habr.com/ru/post/688338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688338)
 - [[Перевод] Все июльские обновления VS Code 2022](https://habr.com/ru/post/683740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683740)
 - [[Перевод] Применяем политики и рекомендации по безопасности в кластерах Kubernetes с OPA Gatekeeper](https://habr.com/ru/post/688268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688268)
 - [ПАРАЛЛЕЛИЗМ В АЛГОРИТМАХ — ВЫЯВЛЕ́НИЕ И РАЦИОНАЛЬНОЕ ЕГО ИСПОЛЬЗОВАНИЕ. Возможности компьютерного моделирования](https://habr.com/ru/post/688196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688196)
-- [[Перевод] Как обнаружить мертвый узел в распределенной системе](https://habr.com/ru/post/688274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
