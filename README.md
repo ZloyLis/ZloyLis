@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ВКС-дайджест: уход Avaya, транскрипция с русского, бесплатная версия Teams для переговорных](https://habr.com/ru/post/688484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688484)
 - [Топ-25 бесплатных курсов QA-тестировщиков 2022 года](https://habr.com/ru/post/688456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688456)
 - [iOS-митап в red_mad_robot 6 октября](https://habr.com/ru/post/688398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688398)
 - [[Перевод] Парное программирование: да или нет?](https://habr.com/ru/post/688154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688154)
 - [Разработка программы отображения для гидроакустической станции под Linux](https://habr.com/ru/post/688440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688440)
-- [Нефункциональные требования: как не пустить систему ко дну](https://habr.com/ru/post/688428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
