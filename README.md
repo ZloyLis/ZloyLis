@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Размер имеет значение! Часть 1](https://habr.com/ru/post/688540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688540)
+- [Ionic get started: что важно знать до начала разработки первого приложения](https://habr.com/ru/post/688538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688538)
 - [Принципы SOLID на примерах](https://habr.com/ru/post/688530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688530)
 - [Создание модулей с учётом новой структуры Joomla 4](https://habr.com/ru/post/684534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684534)
 - [[Перевод] Оно живое](https://habr.com/ru/post/688504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688504)
-- [Готовим Window Inset под соусом Jetpack Compose и щепоткой View](https://habr.com/ru/post/687310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687310)
-- [ВКС-дайджест: уход Avaya, транскрипция с русского, бесплатная версия Teams для переговорных](https://habr.com/ru/post/688484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
