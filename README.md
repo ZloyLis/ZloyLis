@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Принципы SOLID на примерах](https://habr.com/ru/post/688530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688530)
 - [Создание модулей с учётом новой структуры Joomla 4](https://habr.com/ru/post/684534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684534)
 - [[Перевод] Оно живое](https://habr.com/ru/post/688504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688504)
 - [Готовим Window Inset под соусом Jetpack Compose и щепоткой View](https://habr.com/ru/post/687310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687310)
 - [ВКС-дайджест: уход Avaya, транскрипция с русского, бесплатная версия Teams для переговорных](https://habr.com/ru/post/688484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688484)
-- [Топ-25 бесплатных курсов QA-тестировщиков 2022 года](https://habr.com/ru/post/688456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
