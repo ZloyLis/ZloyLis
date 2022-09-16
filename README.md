@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Высшее образование: откуда столько ненависти?](https://habr.com/ru/post/688652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688652)
+- [Импорт фотографий из командной строки Linux](https://habr.com/ru/post/688650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688650)
 - [Как внести Хаос в свой кластер k8s, и почему гении властвуют над Хаосом?](https://habr.com/ru/post/688620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688620)
 - [On-Demand ISR в Next.js или как эффективно обновлять статический контент на сайте, поступающий из CMS или админки](https://habr.com/ru/post/688630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688630)
-- [SVTR — state-of-the-art нейросеть для задачи OCR](https://habr.com/ru/post/686884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686884)
 - [ТОП-25 бесплатных курсов системного администратора 2022 года](https://habr.com/ru/post/688612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688612)
-- [Особенности построения хранилища данных на базе ClickHouse в Yandex Cloud](https://habr.com/ru/post/688126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
