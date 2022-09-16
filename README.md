@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Клуб использованных техлидов](https://habr.com/ru/post/688554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688554)
 - [Размер имеет значение! Часть 1](https://habr.com/ru/post/688540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688540)
 - [Ionic get started: что важно знать до начала разработки первого приложения](https://habr.com/ru/post/688538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688538)
 - [Принципы SOLID на примерах](https://habr.com/ru/post/688530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688530)
 - [Создание модулей с учётом новой структуры Joomla 4](https://habr.com/ru/post/684534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684534)
-- [[Перевод] Оно живое](https://habr.com/ru/post/688504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
