@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности построения хранилища данных на базе ClickHouse в Yandex Cloud](https://habr.com/ru/post/688126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688126)
 - [Компилирование и исполнение Java-кода в Runtime](https://habr.com/ru/post/688462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688462)
 - [Миграция приложения из Docker Compose в Kubernetes. Как, зачем и с какими проблемами я столкнулся](https://habr.com/ru/post/688558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688558)
 - [Клуб использованных техлидов](https://habr.com/ru/post/688554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688554)
 - [Размер имеет значение! Часть 1](https://habr.com/ru/post/688540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688540)
-- [Ionic get started: что важно знать до начала разработки первого приложения](https://habr.com/ru/post/688538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
