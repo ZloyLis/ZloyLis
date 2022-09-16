@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ликбез по диплинкам. Часть 1: Что такое диплинк?](https://habr.com/ru/post/688728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688728)
+- [[Перевод] FAQ по var в Java](https://habr.com/ru/post/688722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688722)
 - [[Перевод] Как использовать тип JSONB в PostgreSQL с Hibernate](https://habr.com/ru/post/688714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688714)
 - [Как настроить CI в мобильных приложениях](https://habr.com/ru/post/688598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688598)
 - [[Перевод] Формальное описание менеджера пакетов](https://habr.com/ru/post/688708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688708)
-- [Вагон не тронется: какие данные используют операторы для контроля за перемещением грузов по железной дороге](https://habr.com/ru/post/688416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688416)
-- [Развиваемся за деньги работодателя](https://habr.com/ru/post/688692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
