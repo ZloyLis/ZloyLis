@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontend в условиях полной редактируемости](https://habr.com/ru/post/688824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688824)
 - [PowerShell: распознавание БЭМ-сущностей на HTML-странице](https://habr.com/ru/post/688776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688776)
 - [Имитационные тренажеры и импортозамещение Honeywell Unisim](https://habr.com/ru/post/688770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688770)
 - [Как в Финляндии учат программистов. Tampere University of Technology](https://habr.com/ru/post/688746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688746)
 - [Как убедить работодателя отправить тебя на конференцию](https://habr.com/ru/post/688736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688736)
-- [[Перевод] Ликбез по диплинкам. Часть 1: Что такое диплинк?](https://habr.com/ru/post/688728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
