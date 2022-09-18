@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миллиард абитуриентов МИРЭА 2](https://habr.com/ru/post/687588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687588)
 - [Webpack + CSS Modules + TS = Love](https://habr.com/ru/post/688844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688844)
 - [Frontend в условиях полной редактируемости](https://habr.com/ru/post/688824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688824)
 - [PowerShell: распознавание БЭМ-сущностей на HTML-странице](https://habr.com/ru/post/688776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688776)
 - [Имитационные тренажеры и импортозамещение Honeywell Unisim](https://habr.com/ru/post/688770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688770)
-- [Как в Финляндии учат программистов. Tampere University of Technology](https://habr.com/ru/post/688746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
