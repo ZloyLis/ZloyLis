@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теория сильного ИИ](https://habr.com/ru/post/688898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688898)
 - [Системный шрифт как проприетарные куки. Необычный метод пометки вашего устройства](https://habr.com/ru/post/688886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688886)
 - [Почему не нужно хвалить коллег, когда вы их критикуете, и как правильно давать неприятную обратную связь](https://habr.com/ru/post/688880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688880)
 - [Обучение модели Stable Diffusion текстовой инверсии с помощью diffusers](https://habr.com/ru/post/688870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688870)
 - [Кто я в IT](https://habr.com/ru/post/688854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688854)
-- [Миллиард абитуриентов МИРЭА 2](https://habr.com/ru/post/687588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
