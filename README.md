@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Увеличиваем RPS на Nuxt.js](https://habr.com/ru/post/688858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688858)
+- [Как выглядит качественное тестирование](https://habr.com/ru/post/688966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688966)
 - [Простейшая реализация HashMap на Go](https://habr.com/ru/post/688964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688964)
 - [Личный опыт: перезапуск тимлидства в растущей IT-компании. Часть 1](https://habr.com/ru/post/688950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688950)
 - [Гайд по первичной настройке асинхронного Python-приложения с GraphQL-библиотекой Strawberry](https://habr.com/ru/post/688876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688876)
-- [25 правил разработки программных интерфейсов [издание третье, дополненное и расширенное]](https://habr.com/ru/post/688914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688914)
-- [Работа со списками во Flutter-приложениях &lpar;часть 2&rpar;](https://habr.com/ru/post/688864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
