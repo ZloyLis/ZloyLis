@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [25 правил разработки программных интерфейсов [издание третье, дополненное и расширенное]](https://habr.com/ru/post/688914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688914)
 - [Работа со списками во Flutter-приложениях &lpar;часть 2&rpar;](https://habr.com/ru/post/688864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688864)
 - [Дайджест интересных материалов для мобильного разработчика #457 &lpar;12 — 18 сентября&rpar;](https://habr.com/ru/post/688922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688922)
 - [Теория сильного ИИ](https://habr.com/ru/post/688898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688898)
 - [Системный шрифт как проприетарные куки. Необычный метод пометки вашего устройства](https://habr.com/ru/post/688886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688886)
-- [Почему не нужно хвалить коллег, когда вы их критикуете, и как правильно давать неприятную обратную связь](https://habr.com/ru/post/688880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
