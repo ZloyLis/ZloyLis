@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React: разрабатываем кастомный useEffect](https://habr.com/ru/post/688982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688982)
+- [Accessibility: для кого и как внедрять?](https://habr.com/ru/post/688902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688902)
 - [Увеличиваем RPS на Nuxt.js](https://habr.com/ru/post/688858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688858)
 - [Как выглядит качественное тестирование](https://habr.com/ru/post/688966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688966)
 - [Простейшая реализация HashMap на Go](https://habr.com/ru/post/688964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688964)
-- [Личный опыт: перезапуск тимлидства в растущей IT-компании. Часть 1](https://habr.com/ru/post/688950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688950)
-- [Гайд по первичной настройке асинхронного Python-приложения с GraphQL-библиотекой Strawberry](https://habr.com/ru/post/688876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
