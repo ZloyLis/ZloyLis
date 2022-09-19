@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые возможности AndroidX Media и ExoPlayer](https://habr.com/ru/post/689022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689022)
+- [Security Week 2238: самораспространяющийся зловред атакует геймеров](https://habr.com/ru/post/689004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689004)
 - [[Перевод] Select принципиально неисправен. Мультиплексирование ввода/вывода часть #2](https://habr.com/ru/post/689006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689006)
 - [[Перевод] Списковые включения в Python мощнее, чем можно подумать](https://habr.com/ru/post/687520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687520)
 - [React: разрабатываем кастомный useEffect](https://habr.com/ru/post/688982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688982)
-- [Accessibility: для кого и как внедрять?](https://habr.com/ru/post/688902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688902)
-- [Увеличиваем RPS на Nuxt.js](https://habr.com/ru/post/688858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
