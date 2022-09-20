@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Курс молодого бойца: ускоряем проекты на Битрикс, повышаем их отказоустойчивость](https://habr.com/ru/post/689170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689170)
-- [Своё IOS приложение с нуля в разработке будучи 16-и летнем парнем](https://habr.com/ru/post/689190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689190)
-- [Самый хитрый способ победы на выборах: джерримендеринг или избирательная геометрия](https://habr.com/ru/post/689180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689180)
-- [Как вернуть в iPhone СберБанк, СберБизнес, Аэрофлот и прочие пропавшие из App Store приложения](https://habr.com/ru/post/689122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689122)
-- [Как мы обучали тестировщиков автоматизации и что из этого вышло](https://habr.com/ru/post/689156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689156)
+- [Пять задач, которые приходится решать при трудоустройстве начинающим Java-разработчикам в 2022 году](https://habr.com/ru/post/689226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689226)
+- [Открытая трансляция Главного зала Saint HighLoad++ 2022](https://habr.com/ru/post/679542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679542)
+- [Сортировки в C#: OrderBy.OrderBy или OrderBy.ThenBy? Разбираемся, что эффективнее и почему](https://habr.com/ru/post/689216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689216)
+- [Как оценивать дизайнеров. Матрица навыков для профессий с нечеткими критериями грейдов](https://habr.com/ru/post/689214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689214)
+- [Генератор коротких CSS классов и id](https://habr.com/ru/post/687968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
