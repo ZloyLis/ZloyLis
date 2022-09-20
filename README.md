@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление рисками в проектном менеджменте](https://habr.com/ru/post/689236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689236)
 - [Пять задач, которые приходится решать при трудоустройстве начинающим Java-разработчикам в 2022 году](https://habr.com/ru/post/689226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689226)
 - [Открытая трансляция Главного зала Saint HighLoad++ 2022](https://habr.com/ru/post/679542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679542)
 - [Сортировки в C#: OrderBy.OrderBy или OrderBy.ThenBy? Разбираемся, что эффективнее и почему](https://habr.com/ru/post/689216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689216)
 - [Как оценивать дизайнеров. Матрица навыков для профессий с нечеткими критериями грейдов](https://habr.com/ru/post/689214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689214)
-- [Генератор коротких CSS классов и id](https://habr.com/ru/post/687968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
