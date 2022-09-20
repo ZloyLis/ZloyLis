@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что не так с изображением сферы Блоха в википедии, на многих сайтах и статьях](https://habr.com/ru/post/689164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689164)
-- [Почему разработчику важно заниматься «PET-проектами»](https://habr.com/ru/post/689154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689154)
-- [Как мы перепридумали поиск для разработчиков](https://habr.com/ru/post/688952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688952)
-- [Как подружить Svelte и Spring Boot](https://habr.com/ru/post/689136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689136)
-- [Руководство по парольной политике. Часть 2](https://habr.com/ru/post/689114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689114)
+- [Курс молодого бойца: ускоряем проекты на Битрикс, повышаем их отказоустойчивость](https://habr.com/ru/post/689170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689170)
+- [Своё IOS приложение с нуля в разработке будучи 16-и летнем парнем](https://habr.com/ru/post/689190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689190)
+- [Самый хитрый способ победы на выборах: джерримендеринг или избирательная геометрия](https://habr.com/ru/post/689180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689180)
+- [Как вернуть в iPhone СберБанк, СберБизнес, Аэрофлот и прочие пропавшие из App Store приложения](https://habr.com/ru/post/689122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689122)
+- [Как мы обучали тестировщиков автоматизации и что из этого вышло](https://habr.com/ru/post/689156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
