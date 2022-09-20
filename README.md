@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как научиться учиться с помощью второго мозга. 4 инструмента, 3 апгрейда и 3 ошибки](https://habr.com/ru/post/689294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689294)
 - [«Запуск Завтра» с Саматом Галимовым: как создать самый популярный технический подкаст страны](https://habr.com/ru/post/689258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689258)
 - [[Перевод] Почему исключения в Kotlin Coroutines это сложно и как с этим жить?](https://habr.com/ru/post/689256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689256)
 - [Приглашаем на мобильный митап от команды СберМаркет Tech](https://habr.com/ru/post/689230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689230)
 - [Решаем судоку при помощи компьютерного зрения](https://habr.com/ru/post/689240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689240)
-- [Управление рисками в проектном менеджменте](https://habr.com/ru/post/689236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
