@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Запуск Завтра» с Саматом Галимовым: как создать самый популярный технический подкаст страны](https://habr.com/ru/post/689258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689258)
+- [[Перевод] Почему исключения в Kotlin Coroutines это сложно и как с этим жить?](https://habr.com/ru/post/689256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689256)
+- [Приглашаем на мобильный митап от команды СберМаркет Tech](https://habr.com/ru/post/689230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689230)
+- [Решаем судоку при помощи компьютерного зрения](https://habr.com/ru/post/689240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689240)
 - [Управление рисками в проектном менеджменте](https://habr.com/ru/post/689236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689236)
-- [Пять задач, которые приходится решать при трудоустройстве начинающим Java-разработчикам в 2022 году](https://habr.com/ru/post/689226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689226)
-- [Открытая трансляция Главного зала Saint HighLoad++ 2022](https://habr.com/ru/post/679542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679542)
-- [Сортировки в C#: OrderBy.OrderBy или OrderBy.ThenBy? Разбираемся, что эффективнее и почему](https://habr.com/ru/post/689216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689216)
-- [Как оценивать дизайнеров. Матрица навыков для профессий с нечеткими критериями грейдов](https://habr.com/ru/post/689214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
