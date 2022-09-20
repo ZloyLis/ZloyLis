@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подружить Svelte и Spring Boot](https://habr.com/ru/post/689136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689136)
 - [Руководство по парольной политике. Часть 2](https://habr.com/ru/post/689114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689114)
 - [Обзор markdown редакторов для Django](https://habr.com/ru/post/689106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689106)
 - [Дайджест недели от Apple Pro Weekly News &lpar;12.09 – 18.09.22&rpar;](https://habr.com/ru/post/689084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689084)
 - [Как вместить данные в холодное хранилище](https://habr.com/ru/post/688602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688602)
-- [Новые возможности AndroidX Media и ExoPlayer](https://habr.com/ru/post/689022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
