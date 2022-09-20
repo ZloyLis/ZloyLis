@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что не так с изображением сферы Блоха в википедии, на многих сайтах и статьях](https://habr.com/ru/post/689164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689164)
 - [Почему разработчику важно заниматься «PET-проектами»](https://habr.com/ru/post/689154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689154)
 - [Как мы перепридумали поиск для разработчиков](https://habr.com/ru/post/688952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688952)
 - [Как подружить Svelte и Spring Boot](https://habr.com/ru/post/689136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689136)
 - [Руководство по парольной политике. Часть 2](https://habr.com/ru/post/689114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689114)
-- [Обзор markdown редакторов для Django](https://habr.com/ru/post/689106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
