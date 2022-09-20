@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Golang] Ошибки, которые нельзя обработать](https://habr.com/ru/post/689356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689356)
 - [Вышла Java 19](https://habr.com/ru/post/689344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689344)
 - [Как создать сайт с организационной точки зрения](https://habr.com/ru/post/689296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689296)
 - [Как научиться учиться с помощью второго мозга. 4 инструмента, 3 апгрейда и 3 ошибки](https://habr.com/ru/post/689294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689294)
 - [«Запуск Завтра» с Саматом Галимовым: как создать самый популярный технический подкаст страны](https://habr.com/ru/post/689258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689258)
-- [[Перевод] Почему исключения в Kotlin Coroutines это сложно и как с этим жить?](https://habr.com/ru/post/689256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
