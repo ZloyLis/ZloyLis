@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не потерять собственное приложение](https://habr.com/ru/post/689426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689426)
+- [Способ представления числовых ключей для обратного поискового индекса](https://habr.com/ru/post/688230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688230)
 - [Жизнь выдающихся программистов. Джей Фриман &lpar;saurik&rpar;](https://habr.com/ru/post/688716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688716)
 - [Сервис, который должен был объединить торговые площадки США Ebay, Amazon и Zappos](https://habr.com/ru/post/689410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689410)
 - [Имитация трёхмерных зданий в 2D-игре](https://habr.com/ru/post/689408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689408)
-- [ExKeyMo — кастомизируем раскладку внешней клавиатуры на Android без root](https://habr.com/ru/post/689370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689370)
-- [Приручаем многопоточность в Node.js &lpar;часть 1: базовые концепты&rpar;](https://habr.com/ru/post/689144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
