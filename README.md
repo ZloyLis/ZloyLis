@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-25 бесплатных курсов по IOS-разработке 2022 года](https://habr.com/ru/post/689454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689454)
+- [Без А/B результат XЗ, или Как построить высоконагруженную платформу А/B-тестов](https://habr.com/ru/post/689052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689052)
+- [[Перевод] Ликбез по диплинкам. Часть 2: диплинки с нуля](https://habr.com/ru/post/689452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689452)
 - [[Перевод] Почему вам следует полностью переходить на Kotlin](https://habr.com/ru/post/689436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689436)
 - [Как передавать макеты в разработку?](https://habr.com/ru/post/689434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689434)
-- [Как не потерять собственное приложение](https://habr.com/ru/post/689426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689426)
-- [Способ представления числовых ключей для обратного поискового индекса](https://habr.com/ru/post/688230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688230)
-- [Жизнь выдающихся программистов. Джей Фриман &lpar;saurik&rpar;](https://habr.com/ru/post/688716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
