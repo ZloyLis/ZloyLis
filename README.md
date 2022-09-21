@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля](https://habr.com/ru/post/689374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689374)
 - [Кто же такой этот многорукий бандит?](https://habr.com/ru/post/689364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689364)
 - [[Golang] Ошибки, которые нельзя обработать](https://habr.com/ru/post/689356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689356)
 - [Вышла Java 19](https://habr.com/ru/post/689344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689344)
 - [Как научиться учиться с помощью второго мозга. 4 инструмента, 3 апгрейда и 3 ошибки](https://habr.com/ru/post/689294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689294)
-- [«Запуск Завтра» с Саматом Галимовым: как создать самый популярный технический подкаст страны](https://habr.com/ru/post/689258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
