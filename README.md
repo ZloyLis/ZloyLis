@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Everything Bagel, часть II: версионные таблицы озера данных в lakeFS и Trino](https://habr.com/ru/post/687764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687764)
+- [Переход на Metal](https://habr.com/ru/post/689390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689390)
 - [Как мы внедряли Allure TestOps в стриминговом сервисе](https://habr.com/ru/post/689330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689330)
 - [Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля](https://habr.com/ru/post/689374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689374)
 - [Кто же такой этот многорукий бандит?](https://habr.com/ru/post/689364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689364)
-- [[Golang] Ошибки, которые нельзя обработать](https://habr.com/ru/post/689356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689356)
-- [Вышла Java 19](https://habr.com/ru/post/689344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
