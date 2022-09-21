@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Программный комитет FrontendConf рассказал, как готовятся конференции](https://habr.com/ru/post/660689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660689)
-- [[Перевод] Everything Bagel, часть II: версионные таблицы озера данных в lakeFS и Trino](https://habr.com/ru/post/687764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687764)
-- [Переход на Metal](https://habr.com/ru/post/689390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689390)
-- [Как мы внедряли Allure TestOps в стриминговом сервисе](https://habr.com/ru/post/689330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689330)
-- [Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля](https://habr.com/ru/post/689374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689374)
+- [Жизнь выдающихся программистов. Джей Фриман &lpar;saurik&rpar;](https://habr.com/ru/post/688716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688716)
+- [Сервис, который должен был объединить торговые площадки США Ebay, Amazon и Zappos](https://habr.com/ru/post/689410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689410)
+- [Имитация трёхмерных зданий в 2D-игре](https://habr.com/ru/post/689408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689408)
+- [ExKeyMo — кастомизируем раскладку внешней клавиатуры на Android без root](https://habr.com/ru/post/689370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689370)
+- [Приручаем многопоточность в Node.js &lpar;часть 1: базовые концепты&rpar;](https://habr.com/ru/post/689144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
