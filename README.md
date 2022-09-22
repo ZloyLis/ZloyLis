@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как хранить сеть дорог в БД для построения маршрута?](https://habr.com/ru/post/688556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688556)
 - [Работаем с pdf из контекстного меню файлового менеджера](https://habr.com/ru/post/689530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689530)
 - [Скрамсара аналитика](https://habr.com/ru/post/689518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689518)
 - [[Перевод] Алгоритм большинства голосов Бойера — Мура](https://habr.com/ru/post/689492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689492)
 - [Event sourcing+CQRS с помощью Spring](https://habr.com/ru/post/689468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689468)
-- [Топ-25 бесплатных курсов по iOS-разработке 2022 года](https://habr.com/ru/post/689454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
