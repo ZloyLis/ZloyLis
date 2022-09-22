@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совместное моделирование быстродействующих систем средствами TIA Portal и Simulink](https://habr.com/ru/post/689654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689654)
+- [Event Storming: что будет, если запереть 10 человек в одной комнате](https://habr.com/ru/post/689620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689620)
+- [Реализация Интернета вещей для промышленного оборудования простыми методами](https://habr.com/ru/post/689646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689646)
 - [Как полюбить задачи регрессии](https://habr.com/ru/post/689338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689338)
 - [[Перевод] Динамическое масштабирование кластеров Kubernetes в Airbnb](https://habr.com/ru/post/689490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689490)
-- [Всплывающие окна на флаттер карте или flutter_map_marker_popup](https://habr.com/ru/post/689578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689578)
-- [GUI Генератор паролей на Python](https://habr.com/ru/post/689536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689536)
-- [Топ-25 бесплатных курсов по обучению React JS 2022 года](https://habr.com/ru/post/689574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
