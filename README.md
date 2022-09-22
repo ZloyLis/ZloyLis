@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-25 бесплатных курсов по обучению React JS 2022 года](https://habr.com/ru/post/689574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689574)
+- [Визуализация алгоритмов сортировки](https://habr.com/ru/post/689064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689064)
 - [Рефакторинг прайс-листа без духоты](https://habr.com/ru/post/689278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689278)
 - [Как хранить сеть дорог в БД для построения маршрута?](https://habr.com/ru/post/688556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688556)
 - [Работаем с pdf из контекстного меню файлового менеджера](https://habr.com/ru/post/689530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689530)
-- [Скрамсара аналитика](https://habr.com/ru/post/689518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689518)
-- [[Перевод] Алгоритм большинства голосов Бойера — Мура](https://habr.com/ru/post/689492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
