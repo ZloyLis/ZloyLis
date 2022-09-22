@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Best practices при написании YAML-файлов манифеста Kubernetes](https://habr.com/ru/post/689714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689714)
 - [Telegram Bot на Kotlin: Дратути](https://habr.com/ru/post/675994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675994)
 - [Ловушка приоритетов Angular Guards](https://habr.com/ru/post/689682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689682)
 - [Как мы сделали микросервис на Camunda для кол-центра и увеличили конверсию в два раза](https://habr.com/ru/post/689688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689688)
 - [Боремся с 16-летним легаси-кодом, или исправляем C и C++ front-end в PVS-Studio](https://habr.com/ru/post/689686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689686)
-- [Совместное моделирование быстродействующих систем средствами TIA Portal и Simulink](https://habr.com/ru/post/689654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
