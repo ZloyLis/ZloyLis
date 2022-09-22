@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Динамическое масштабирование кластеров Kubernetes в Airbnb](https://habr.com/ru/post/689490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689490)
 - [Всплывающие окна на флаттер карте или flutter_map_marker_popup](https://habr.com/ru/post/689578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689578)
 - [GUI Генератор паролей на Python](https://habr.com/ru/post/689536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689536)
 - [Топ-25 бесплатных курсов по обучению React JS 2022 года](https://habr.com/ru/post/689574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689574)
 - [Визуализация алгоритмов сортировки](https://habr.com/ru/post/689064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689064)
-- [Рефакторинг прайс-листа без духоты](https://habr.com/ru/post/689278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
