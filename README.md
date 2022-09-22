@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ловушка приоритетов Angular Guards](https://habr.com/ru/post/689682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689682)
+- [Как мы сделали микросервис на Camunda для кол-центра и увеличили конверсию в два раза](https://habr.com/ru/post/689688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689688)
+- [Боремся с 16-летним легаси-кодом, или исправляем C и C++ front-end в PVS-Studio](https://habr.com/ru/post/689686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689686)
 - [Совместное моделирование быстродействующих систем средствами TIA Portal и Simulink](https://habr.com/ru/post/689654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689654)
 - [Event Storming: что будет, если запереть 10 человек в одной комнате](https://habr.com/ru/post/689620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689620)
-- [Реализация Интернета вещей для промышленного оборудования простыми методами](https://habr.com/ru/post/689646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689646)
-- [Как полюбить задачи регрессии](https://habr.com/ru/post/689338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689338)
-- [[Перевод] Динамическое масштабирование кластеров Kubernetes в Airbnb](https://habr.com/ru/post/689490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
