@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML, JavaScript, YandexAPI и щепотку Bootstrap](https://habr.com/ru/post/689766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689766)
+- [Рисуем карту сервисов при помощи Qt Quick и GraphViz](https://habr.com/ru/post/689496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689496)
 - [PowerShell: проверка совмещения имен БЭМ-сущностей на одном HTML-узле](https://habr.com/ru/post/689762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689762)
 - [Немного хардкора: как поднять Kubernetes на двух старых ноутбуках с Gentoo](https://habr.com/ru/post/685616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685616)
 - [Алгоритмы сортировки и их производительность](https://habr.com/ru/post/689738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689738)
-- [Telegram Bot на Kotlin: Дратути](https://habr.com/ru/post/675994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675994)
-- [Ловушка приоритетов Angular Guards](https://habr.com/ru/post/689682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
