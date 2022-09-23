@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.64.0: rust-analyzer в rustup, IntoFuture, ffi-типы в core и alloc, улучшения в Cargo](https://habr.com/ru/post/689876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689876)
 - [Первый опыт написания полноценной программы](https://habr.com/ru/post/689846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689846)
 - [[Перевод] Понедельный план онбординга для QA-инженера с опытом](https://habr.com/ru/post/689832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689832)
 - [Как стать UX-дизайнером, 10 советов из практики](https://habr.com/ru/post/689830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689830)
 - [Simics: Забиваем гвозди сваебоем](https://habr.com/ru/post/689614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689614)
-- [Количество Биткоинов не будет 21.000.000](https://habr.com/ru/post/689792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
