@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: проверка совмещения имен БЭМ-сущностей на одном HTML-узле](https://habr.com/ru/post/689762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689762)
+- [Немного хардкора: как поднять Kubernetes на двух старых ноутбуках с Gentoo](https://habr.com/ru/post/685616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685616)
 - [Алгоритмы сортировки и их производительность](https://habr.com/ru/post/689738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689738)
 - [Telegram Bot на Kotlin: Дратути](https://habr.com/ru/post/675994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675994)
 - [Ловушка приоритетов Angular Guards](https://habr.com/ru/post/689682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689682)
-- [Как мы сделали микросервис на Camunda для кол-центра и увеличили конверсию в два раза](https://habr.com/ru/post/689688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689688)
-- [Боремся с 16-летним легаси-кодом, или исправляем C и C++ front-end в PVS-Studio](https://habr.com/ru/post/689686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
