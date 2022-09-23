@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Первый опыт написания полноценной программы](https://habr.com/ru/post/689846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689846)
 - [[Перевод] Понедельный план онбординга для QA-инженера с опытом](https://habr.com/ru/post/689832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689832)
 - [Как стать UX-дизайнером, 10 советов из практики](https://habr.com/ru/post/689830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689830)
 - [Simics: Забиваем гвозди сваебоем](https://habr.com/ru/post/689614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689614)
 - [Количество Биткоинов не будет 21.000.000](https://habr.com/ru/post/689792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689792)
-- [Алгоритмы для веб-разработчиков простыми словами &lpar;часть 2&rpar;](https://habr.com/ru/post/689770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
