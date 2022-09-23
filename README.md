@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Игра Жизнь — клеточный автомат на HTML](https://habr.com/ru/post/689918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689918)
 - [Размер имеет значение! Часть 2](https://habr.com/ru/post/688760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688760)
 - [[Перевод] Rust 1.64.0: rust-analyzer в rustup, IntoFuture, ffi-типы в core и alloc, улучшения в Cargo](https://habr.com/ru/post/689876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689876)
 - [Первый опыт написания полноценной программы](https://habr.com/ru/post/689846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689846)
 - [[Перевод] Понедельный план онбординга для QA-инженера с опытом](https://habr.com/ru/post/689832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689832)
-- [Как стать UX-дизайнером, 10 советов из практики](https://habr.com/ru/post/689830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
