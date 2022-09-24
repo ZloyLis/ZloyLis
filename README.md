@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шифрование сертификатов TLS — как формируется цифровая подпись](https://habr.com/ru/post/689984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689984)
 - [Рассылка писем через Unione &lpar;php, Yii2&rpar;](https://habr.com/ru/post/689968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689968)
 - [Добавление расчёта пути к схеме метро Москвы из Википедии](https://habr.com/ru/post/689966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689966)
 - [Объясняю Pattern Memento &lpar;Снимок&rpar;](https://habr.com/ru/post/689948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689948)
 - [Если нужно провести пентест или обнаружить вредоносную активность в сети — обсуждаем проект p0f](https://habr.com/ru/post/689850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689850)
-- [Игра Жизнь — клеточный автомат на HTML](https://habr.com/ru/post/689918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
