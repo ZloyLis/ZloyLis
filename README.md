@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Объясняю Pattern Memento &lpar;Снимок&rpar;](https://habr.com/ru/post/689948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689948)
 - [Если нужно провести пентест или обнаружить вредоносную активность в сети — обсуждаем проект p0f](https://habr.com/ru/post/689850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689850)
 - [Игра Жизнь — клеточный автомат на HTML](https://habr.com/ru/post/689918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689918)
 - [Размер имеет значение! Часть 2](https://habr.com/ru/post/688760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688760)
 - [[Перевод] Rust 1.64.0: rust-analyzer в rustup, IntoFuture, ffi-типы в core и alloc, улучшения в Cargo](https://habr.com/ru/post/689876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689876)
-- [Первый опыт написания полноценной программы](https://habr.com/ru/post/689846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
