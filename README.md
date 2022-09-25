@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как получить доступ к переменным dotenv &lpar;.env&rpar; с помощью плагина fastify-env](https://habr.com/ru/post/690054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690054)
 - [[Перевод] Стили заголовков в CSS: картинки, тени, анимации](https://habr.com/ru/post/690042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690042)
 - [Обработка ошибок и C++](https://habr.com/ru/post/690038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690038)
 - [[Перевод] Как мы создали Pingora, прокси-сервер, связывающий Cloudflare с Интернетом](https://habr.com/ru/post/689996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689996)
 - [Шифрование сертификатов TLS — как формируется цифровая подпись](https://habr.com/ru/post/689984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689984)
-- [Рассылка писем через Unione &lpar;php, Yii2&rpar;](https://habr.com/ru/post/689968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
