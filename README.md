@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рассуждения о потерях](https://habr.com/ru/post/684310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684310)
 - [[Перевод] Как мы создали Pingora, прокси-сервер, связывающий Cloudflare с Интернетом](https://habr.com/ru/post/689996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689996)
 - [Шифрование сертификатов TLS — как формируется цифровая подпись](https://habr.com/ru/post/689984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689984)
 - [Рассылка писем через Unione &lpar;php, Yii2&rpar;](https://habr.com/ru/post/689968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689968)
 - [Добавление расчёта пути к схеме метро Москвы из Википедии](https://habr.com/ru/post/689966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689966)
+- [Объясняю Pattern Memento &lpar;Снимок&rpar;](https://habr.com/ru/post/689948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
