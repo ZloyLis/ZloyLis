@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Taichi и 100-кратное ускорение Python-кода](https://habr.com/ru/post/688134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688134)
+- [[Перевод] Что станет с производительностью, если переборщить с ленивой загрузкой](https://habr.com/ru/post/689796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689796)
+- [Фишки IDEA. Часть 3 — теперь с Git](https://habr.com/ru/post/690114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690114)
 - [Готовимся к миграции чувствительных данных](https://habr.com/ru/post/690098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690098)
 - [Приручаем многопоточность в Node.js &lpar;часть 2: очередь, каналы и координатор&rpar;](https://habr.com/ru/post/689406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689406)
-- [История о том как я переехал в США и искал тут работу. Офферы от MAANG и не только](https://habr.com/ru/post/690066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690066)
-- [[Перевод] Провал Tailwind, инструмента для невежд](https://habr.com/ru/post/689818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689818)
-- [Дайджест интересных материалов для мобильного разработчика #458 &lpar;19 — 25 сентября&rpar;](https://habr.com/ru/post/690064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
