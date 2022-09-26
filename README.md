@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Децентрализованный поиск для свободного веба](https://habr.com/ru/post/690252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690252)
+- [Дайджест недели от Apple Pro Weekly News &lpar;19.09 – 25.09.22&rpar;](https://habr.com/ru/post/690264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690264)
 - [Попасть в Amazon в 47 лет. История нашего студента](https://habr.com/ru/post/690244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690244)
 - [Задача про пьяницу](https://habr.com/ru/post/690242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690242)
 - [Бамбук, Mito-лист и Деталь, или как подготовиться ко встрече с пандами](https://habr.com/ru/post/690044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690044)
-- [Charles для начинающего QA: от настройки до использования](https://habr.com/ru/post/690220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690220)
-- [Передача дел: Как менеджеру избежать проблем на новом проекте?](https://habr.com/ru/post/690212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
