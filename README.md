@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовимся к миграции чувствительных данных](https://habr.com/ru/post/690098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690098)
 - [Приручаем многопоточность в Node.js &lpar;часть 2: очередь, каналы и координатор&rpar;](https://habr.com/ru/post/689406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689406)
 - [История о том как я переехал в США и искал тут работу. Офферы от MAANG и не только](https://habr.com/ru/post/690066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690066)
 - [[Перевод] Провал Tailwind, инструмента для невежд](https://habr.com/ru/post/689818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689818)
 - [Дайджест интересных материалов для мобильного разработчика #458 &lpar;19 — 25 сентября&rpar;](https://habr.com/ru/post/690064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690064)
-- [[Перевод] Как получить доступ к переменным dotenv &lpar;.env&rpar; с помощью плагина fastify-env](https://habr.com/ru/post/690054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
