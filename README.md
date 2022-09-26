@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Charles для начинающего QA: от настройки до использования](https://habr.com/ru/post/690220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690220)
+- [Передача дел: Как менеджеру избежать проблем на новом проекте?](https://habr.com/ru/post/690212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690212)
 - [Security Week 2239: безопасность аддонов для Slack и Teams](https://habr.com/ru/post/690158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690158)
 - [[Перевод] Как Discord прокачивает сетевые диски, сводя задержки к минимуму](https://habr.com/ru/post/690190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690190)
 - [Пишем библиотеку для запроса оценки в AppStore](https://habr.com/ru/post/690176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690176)
-- [Пишем типизированный DI-контейнер для iOS приложения. Часть 1](https://habr.com/ru/post/688664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688664)
-- [Перевод документации React-redux и проблемы переводчиков](https://habr.com/ru/post/686530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
