@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как хранить Config в Excel](https://habr.com/ru/post/690298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690298)
+- [[Перевод] Что такое Quality Gates?](https://habr.com/ru/post/690296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690296)
 - [[Перевод] Руководство по программированию сокетов на Python. От введения до работающего примера](https://habr.com/ru/post/690186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690186)
 - [Децентрализованный поиск для свободного веба](https://habr.com/ru/post/690252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690252)
 - [Дайджест недели от Apple Pro Weekly News &lpar;19.09 – 25.09.22&rpar;](https://habr.com/ru/post/690264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690264)
-- [Попасть в Amazon в 47 лет. История нашего студента](https://habr.com/ru/post/690244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690244)
-- [Задача про пьяницу](https://habr.com/ru/post/690242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
