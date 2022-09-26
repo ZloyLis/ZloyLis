@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Попасть в Amazon в 47 лет. История нашего студента](https://habr.com/ru/post/690244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690244)
+- [Задача про пьяницу](https://habr.com/ru/post/690242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690242)
+- [Бамбук, Mito-лист и Деталь, или как подготовиться ко встрече с пандами](https://habr.com/ru/post/690044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690044)
 - [Charles для начинающего QA: от настройки до использования](https://habr.com/ru/post/690220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690220)
 - [Передача дел: Как менеджеру избежать проблем на новом проекте?](https://habr.com/ru/post/690212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690212)
-- [Пять докладов для фронтендера](https://habr.com/ru/post/690188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690188)
-- [Security Week 2239: безопасность аддонов для Slack и Teams](https://habr.com/ru/post/690158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690158)
-- [[Перевод] Как Discord прокачивает сетевые диски, сводя задержки к минимуму](https://habr.com/ru/post/690190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
