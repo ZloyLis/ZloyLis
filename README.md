@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Перевод документации React-redux и проблемы переводчиков](https://habr.com/ru/post/686530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686530)
+- [Java из Python и обратно на Android](https://habr.com/ru/post/683536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683536)
+- [[Перевод] Excel очень крут](https://habr.com/ru/post/690148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690148)
+- [Неочевидное про Fragment API. Часть 2. &lpar;Не&rpar; создаем инстанс](https://habr.com/ru/post/690134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690134)
 - [Control flow with try/catch and Promises](https://habr.com/ru/post/690126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690126)
-- [[Перевод] Taichi и 100-кратное ускорение Python-кода](https://habr.com/ru/post/688134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688134)
-- [[Перевод] Что станет с производительностью, если переборщить с ленивой загрузкой](https://habr.com/ru/post/689796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689796)
-- [Фишки IDEA. Часть 3 — теперь с Git](https://habr.com/ru/post/690114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690114)
-- [Готовимся к миграции чувствительных данных](https://habr.com/ru/post/690098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
