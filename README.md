@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2239: безопасность аддонов для Slack и Teams](https://habr.com/ru/post/690158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690158)
+- [[Перевод] Как Discord прокачивает сетевые диски, сводя задержки к минимуму](https://habr.com/ru/post/690190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690190)
 - [Пишем библиотеку для запроса оценки в AppStore](https://habr.com/ru/post/690176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690176)
 - [Пишем типизированный DI-контейнер для iOS приложения. Часть 1](https://habr.com/ru/post/688664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688664)
 - [Перевод документации React-redux и проблемы переводчиков](https://habr.com/ru/post/686530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686530)
-- [Java из Python и обратно на Android](https://habr.com/ru/post/683536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=683536)
-- [[Перевод] Excel очень крут](https://habr.com/ru/post/690148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
