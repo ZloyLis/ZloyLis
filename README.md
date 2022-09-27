@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Наблюдения программиста в возрасте](https://habr.com/ru/post/690406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690406)
+- [Регрессионный анализ в DataScience. Простая линейная регрессия. Библиотека statsmodels](https://habr.com/ru/post/690414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690414)
+- [Логи в iOS, эпизод 1: os_log](https://habr.com/ru/post/689758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689758)
+- [Торопиться не надо… &lpar;Про спинлоки&rpar;](https://habr.com/ru/post/689310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689310)
 - [Почему ученики застревают в online обучении IT даже с наставником?](https://habr.com/ru/post/690398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690398)
-- [Расплывающаяся менюшка](https://habr.com/ru/post/690180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690180)
-- [Универсальная функция JS по определению хитбоксов у HTML блоков](https://habr.com/ru/post/690370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690370)
-- [Как развернуть свою блокчейн-платформу на базе технологий Web3 Tech](https://habr.com/ru/post/690364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690364)
-- [Интеграция с маркетплейсами или как я научился не волноваться и полюбил API-интеграцию](https://habr.com/ru/post/686904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
