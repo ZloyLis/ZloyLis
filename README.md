@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему ученики застревают в online обучении IT даже с наставником?](https://habr.com/ru/post/690398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690398)
+- [Расплывающаяся менюшка](https://habr.com/ru/post/690180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690180)
 - [Универсальная функция JS по определению хитбоксов у HTML блоков](https://habr.com/ru/post/690370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690370)
 - [Как развернуть свою блокчейн-платформу на базе технологий Web3 Tech](https://habr.com/ru/post/690364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690364)
 - [Интеграция с маркетплейсами или как я научился не волноваться и полюбил API-интеграцию](https://habr.com/ru/post/686904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686904)
-- [Интервью с Джейсоном Тернером, одним из ведущих подкаста «CppCast»: история и причины закрытия проекта](https://habr.com/ru/post/690336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690336)
-- [Стажировка в UNIGINE: и денег дадим, и кодить научим](https://habr.com/ru/post/690328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
