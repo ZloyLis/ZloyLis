@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы научились учитывать перепады высот по геокоординатам в мобильном приложении](https://habr.com/ru/post/690448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690448)
 - [[Перевод] Наблюдения программиста в возрасте](https://habr.com/ru/post/690406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690406)
 - [Регрессионный анализ в DataScience. Простая линейная регрессия. Библиотека statsmodels](https://habr.com/ru/post/690414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690414)
 - [Логи в iOS, эпизод 1: os_log](https://habr.com/ru/post/689758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689758)
 - [Торопиться не надо… &lpar;Про спинлоки&rpar;](https://habr.com/ru/post/689310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689310)
-- [Почему ученики застревают в online обучении IT даже с наставником?](https://habr.com/ru/post/690398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
