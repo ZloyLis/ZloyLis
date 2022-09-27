@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интервью с Джейсоном Тернером, одним из ведущих подкаста «CppCast»: история и причины закрытия проекта](https://habr.com/ru/post/690336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690336)
+- [Стажировка в UNIGINE: и денег дадим, и &lpar;ш&rpar;кодить научим](https://habr.com/ru/post/690328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690328)
+- [Будущее ретро: Asus Zephyrus Duo](https://habr.com/ru/post/690272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690272)
 - [Простая гравитационная модель в браузере](https://habr.com/ru/post/690292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690292)
 - [Как хранить Config в Excel](https://habr.com/ru/post/690298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690298)
-- [[Перевод] Что такое Quality Gates?](https://habr.com/ru/post/690296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690296)
-- [[Перевод] Руководство по программированию сокетов на Python. От введения до работающего примера](https://habr.com/ru/post/690186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690186)
-- [Децентрализованный поиск для свободного веба](https://habr.com/ru/post/690252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
