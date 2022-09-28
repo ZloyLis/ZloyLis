@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RubyRussia 2022: как выбрать себе доклад?](https://habr.com/ru/post/690574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690574)
+- [[recovery mode] Flutter: Настройка тем приложения](https://habr.com/ru/post/690572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690572)
 - [Рассказываем о пользе и вреде FullStack-фреймворков на примере Meteor.js](https://habr.com/ru/post/690464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690464)
 - [Экскурсия в backend Интернета вещей](https://habr.com/ru/post/679544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679544)
 - [Как небольшой IT-компании запустить образовательный курс: рассказываем о своём опыте](https://habr.com/ru/post/690460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690460)
-- [Мобильное ТОРО: ускоряем ремонты и бережем лес](https://habr.com/ru/post/690456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690456)
-- [Сквозь тернии к core-у или процесс компиляции Vue](https://habr.com/ru/post/690522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
