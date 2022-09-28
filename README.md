@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] История Goose Maps, первых автономных оффлайн карт для Apple Watch](https://habr.com/ru/post/690506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690506)
+- [[Перевод] История Goose Maps, первых автономных офлайн карт для Apple Watch](https://habr.com/ru/post/690506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690506)
 - [Asychronous Flow Kit — Objective-C тулкит для асинхронных операций](https://habr.com/ru/post/690484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690484)
 - [[Перевод] JupyterLab: визуальное программирование и управление роботами с Blockly](https://habr.com/ru/post/690362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690362)
 - [Как мы научились учитывать перепады высот по геокоординатам в мобильном приложении](https://habr.com/ru/post/690448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690448)
