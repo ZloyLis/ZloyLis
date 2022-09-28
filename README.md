@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рассказываем о пользе и вреде FullStack-фреймворков на примере Meteor.js](https://habr.com/ru/post/690464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690464)
+- [Экскурсия в backend Интернета вещей](https://habr.com/ru/post/679544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679544)
+- [Как небольшой IT-компании запустить образовательный курс: рассказываем о своём опыте](https://habr.com/ru/post/690460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690460)
+- [Мобильное ТОРО: ускоряем ремонты и бережем лес](https://habr.com/ru/post/690456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690456)
 - [Сквозь тернии к core-у или процесс компиляции Vue](https://habr.com/ru/post/690522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690522)
-- [Выразить иерархически: вопрос как увидеть хамелеона](https://habr.com/ru/post/690518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690518)
-- [[Перевод] История Goose Maps, первых автономных офлайн карт для Apple Watch](https://habr.com/ru/post/690506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690506)
-- [Asychronous Flow Kit — Objective-C тулкит для асинхронных операций](https://habr.com/ru/post/690484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690484)
-- [[Перевод] JupyterLab: визуальное программирование и управление роботами с Blockly](https://habr.com/ru/post/690362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
