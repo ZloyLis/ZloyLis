@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Unreal Engine: Unreal header tool и Рефлексия в деталях](https://habr.com/ru/post/690662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690662)
 - [Как бороться со стрессом в важных моментах?](https://habr.com/ru/post/690818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690818)
 - [[Перевод] Модульное тестирование операторов Kubernetes с помощью моков](https://habr.com/ru/post/690792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690792)
 - [Когда тестирование выпало из DevOps, и как его туда вернуть](https://habr.com/ru/post/689298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689298)
 - [На твой телефон пришло новое сообщение](https://habr.com/ru/post/690770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690770)
-- [[Перевод] Когда и как следует инвалидировать кэш](https://habr.com/ru/post/690764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
