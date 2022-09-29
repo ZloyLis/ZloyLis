@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я провёл 400 собеседований за год. Мне есть что сказать](https://habr.com/ru/post/690720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690720)
+- [Как создать цепляющий креатив: техники креативного мышления + 20 примеров](https://habr.com/ru/post/690674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690674)
+- [CyberCamp 2022: как это было](https://habr.com/ru/post/690672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690672)
+- [[Перевод] TypeScript в деталях. Часть 3](https://habr.com/ru/post/690726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690726)
 - [Как начать заниматься багхантингом веб-приложений](https://habr.com/ru/post/690716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690716)
-- [Как пережить эпоху перемен: советы по сохранению психологического здоровья](https://habr.com/ru/post/690710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690710)
-- [GitOps — что это такое и с чем его едят?](https://habr.com/ru/post/690544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690544)
-- [Как структурировать проект на Golang: гайд от backend-разработчика](https://habr.com/ru/post/690088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690088)
-- [[Перевод] 58 байтов CSS, которые выглядят красиво почти где угодно](https://habr.com/ru/post/690702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
