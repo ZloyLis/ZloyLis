@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один момент: готовим видеоленту без костылей и бубнов](https://habr.com/ru/post/690596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690596)
+- [Приручаем многопоточность в Node.js &lpar;часть 3: разделяемая память, атомарные операции и блокировки&rpar;](https://habr.com/ru/post/689864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689864)
 - [[Перевод] Взлом чего угодно с помощью GNU Guix](https://habr.com/ru/post/690612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690612)
 - [Умный в гору не пойдет](https://habr.com/ru/post/688850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688850)
 - [[Перевод] Ранжирование по-байесовски от доктора Кюблера](https://habr.com/ru/post/690560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690560)
-- [Как программист решил электриком стать](https://habr.com/ru/post/690610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690610)
-- [Wireframes в разработке: особенности и преимущества](https://habr.com/ru/post/690598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
