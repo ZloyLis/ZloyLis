@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать заниматься багхантингом веб-приложений](https://habr.com/ru/post/690716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690716)
+- [Как пережить эпоху перемен: советы по сохранению психологического здоровья](https://habr.com/ru/post/690710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690710)
 - [GitOps — что это такое и с чем его едят?](https://habr.com/ru/post/690544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690544)
 - [Как структурировать проект на Golang: гайд от backend-разработчика](https://habr.com/ru/post/690088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690088)
 - [[Перевод] 58 байтов CSS, которые выглядят красиво почти где угодно](https://habr.com/ru/post/690702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690702)
-- [Один момент: готовим видеоленту без костылей и бубнов](https://habr.com/ru/post/690596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690596)
-- [Приручаем многопоточность в Node.js &lpar;часть 3: разделяемая память, атомарные операции и блокировки&rpar;](https://habr.com/ru/post/689864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
