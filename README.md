@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Взлом чего угодно с помощью GNU Guix](https://habr.com/ru/post/690612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690612)
 - [Умный в гору не пойдет](https://habr.com/ru/post/688850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688850)
 - [[Перевод] Ранжирование по-байесовски от доктора Кюблера](https://habr.com/ru/post/690560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690560)
 - [Как программист решил электриком стать](https://habr.com/ru/post/690610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690610)
 - [Wireframes в разработке: особенности и преимущества](https://habr.com/ru/post/690598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690598)
-- [[Перевод] Как следить за кластером Kubernetes: 6 главных метрик, на которые нужно обращать внимание](https://habr.com/ru/post/687766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
