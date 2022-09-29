@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование «Задания на проектирование» при разработке интерфейсов](https://habr.com/ru/post/690752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690752)
 - [Я провёл 400 собеседований за год. Мне есть что сказать](https://habr.com/ru/post/690720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690720)
 - [Как создать цепляющий креатив: техники креативного мышления + 20 примеров](https://habr.com/ru/post/690674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690674)
 - [CyberCamp 2022: как это было](https://habr.com/ru/post/690672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690672)
 - [[Перевод] TypeScript в деталях. Часть 3](https://habr.com/ru/post/690726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690726)
-- [Как начать заниматься багхантингом веб-приложений](https://habr.com/ru/post/690716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
