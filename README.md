@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Человеческим языком про метрики 3: перцентили для чайников](https://habr.com/ru/post/690814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690814)
+- [[recovery mode] Tiny-qORM: рассказ без счастливого конца](https://habr.com/ru/post/452588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=452588)
 - [А пользователь кто? Моделирование пользовательских ролей и описание персон](https://habr.com/ru/post/690872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690872)
 - [Unreal Engine: Unreal header tool и Рефлексия в деталях](https://habr.com/ru/post/690662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690662)
 - [Как бороться со стрессом в важных моментах?](https://habr.com/ru/post/690818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690818)
-- [[Перевод] Модульное тестирование операторов Kubernetes с помощью моков](https://habr.com/ru/post/690792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690792)
-- [Когда тестирование выпало из DevOps, и как его туда вернуть](https://habr.com/ru/post/689298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
