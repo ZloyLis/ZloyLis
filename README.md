@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор IDE Monokle, или Рассказ о неоправдавшихся ожиданиях](https://habr.com/ru/post/690564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690564)
+- [WebView: забыть нельзя интегрировать](https://habr.com/ru/post/690536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690536)
+- [От Web до Desktop за 2 недели: технология Electron на практике](https://habr.com/ru/post/689980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689980)
 - [Человеческим языком про метрики 3: перцентили для чайников](https://habr.com/ru/post/690814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690814)
 - [[recovery mode] Tiny-qORM: рассказ без счастливого конца](https://habr.com/ru/post/452588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=452588)
-- [А пользователь кто? Моделирование пользовательских ролей и описание персон](https://habr.com/ru/post/690872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690872)
-- [Unreal Engine: Unreal header tool и Рефлексия в деталях](https://habr.com/ru/post/690662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690662)
-- [Как бороться со стрессом в важных моментах?](https://habr.com/ru/post/690818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
