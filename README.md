@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разбираем по полочкам «философию Unix»](https://habr.com/ru/post/690844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690844)
+- [Чеклист для дизайнеров от frontend и mobile разработчиков](https://habr.com/ru/post/690916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690916)
+- [Touch-Tab — Command-Tab с помощью тачпада в macOS](https://habr.com/ru/post/684190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684190)
 - [Что может предложить ЯП для облака](https://habr.com/ru/post/690418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690418)
 - [Обзор IDE Monokle, или Рассказ о неоправдавшихся ожиданиях](https://habr.com/ru/post/690564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690564)
-- [WebView: забыть нельзя интегрировать](https://habr.com/ru/post/690536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690536)
-- [От Web до Desktop за 2 недели: технология Electron на практике](https://habr.com/ru/post/689980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689980)
-- [Человеческим языком про метрики 3: перцентили для чайников](https://habr.com/ru/post/690814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
