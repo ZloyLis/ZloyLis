@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лямбды в C++. Как это работает](https://habr.com/ru/post/691028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691028)
 - [Это деловой подход](https://habr.com/ru/post/691014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691014)
 - [User Defined Type. Что это и как его использовать](https://habr.com/ru/post/691000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691000)
 - [История одного бага](https://habr.com/ru/post/690998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690998)
 - [Интервью с разработчиками школы акселерации для вузов от Платформы НТИ: что это и как работает](https://habr.com/ru/post/690982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690982)
-- [[Перевод] Как повысить безопасность приложений с помощью фабрик строк в psycopg](https://habr.com/ru/post/690582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
