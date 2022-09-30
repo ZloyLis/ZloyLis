@@ -28,9 +28,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [User Defined Type. Что это и как его использовать](https://habr.com/ru/post/691000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691000)
 - [История одного бага](https://habr.com/ru/post/690998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690998)
-- [Как мы в SegmentStream интегрировали Cube](https://habr.com/ru/post/690996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690996)
 - [Интервью с разработчиками школы акселерации для вузов от Платформы НТИ: что это и как работает](https://habr.com/ru/post/690982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690982)
 - [[Перевод] Как повысить безопасность приложений с помощью фабрик строк в psycopg](https://habr.com/ru/post/690582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690582)
+- [Эмуляторы, симуляторы или тестовые фермы. Что выбрать для мобильного тестирования?](https://habr.com/ru/post/690906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
