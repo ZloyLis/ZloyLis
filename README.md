@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Безопасный Spring REST с применением Spring Security и OAuth2](https://habr.com/ru/post/690978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690978)
 - [[recovery mode] Platform V Incident Manager и обработка связанных инцидентов: упрощаем жизнь командам сопровождения](https://habr.com/ru/post/690952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690952)
 - [Auto Layout настройка кодом](https://habr.com/ru/post/690940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690940)
 - [[Перевод] Основное про API-шлюз в Kubernetes](https://habr.com/ru/post/690934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690934)
 - [[Перевод] Разбираем по полочкам «философию Unix»](https://habr.com/ru/post/690844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690844)
-- [Чеклист для дизайнеров от frontend и mobile разработчиков](https://habr.com/ru/post/690916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
