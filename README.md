@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Агрегаторы](https://habr.com/ru/post/689914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689914)
 - [Заблокировали личный аккаунт на GitHub](https://habr.com/ru/post/691064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691064)
 - [Мой Опыт Работы С Shopify Как Разработчика](https://habr.com/ru/post/691044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691044)
 - [Лямбды в C++. Как это работает](https://habr.com/ru/post/691028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691028)
 - [Это деловой подход](https://habr.com/ru/post/691014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691014)
-- [User Defined Type. Что это и как его использовать](https://habr.com/ru/post/691000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
