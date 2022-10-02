@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание .NET библиотеки от А до Я](https://habr.com/ru/post/691128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691128)
 - [Некоторые особенности заказной разработки](https://habr.com/ru/post/691110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691110)
 - [Заблуждения программистов о почтовых адресах](https://habr.com/ru/post/691088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691088)
 - [Создаём свою библиотеку виджетов на Javascript голыми руками. Часть 0: Классы и модули](https://habr.com/ru/post/690852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690852)
 - [Размер имеет значение! Часть 3](https://habr.com/ru/post/691074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691074)
-- [Агрегаторы](https://habr.com/ru/post/689914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
