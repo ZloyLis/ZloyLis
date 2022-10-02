@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простые, но приятные и воздушные тени вместе с Vue Box Shadows](https://habr.com/ru/post/691148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691148)
+- [Стремление к простоте: о санкциях, транзакциях и одном рефакторинге](https://habr.com/ru/post/691146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691146)
 - [Создание .NET библиотеки от А до Я](https://habr.com/ru/post/691128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691128)
 - [Импортозамещение VR-а клавиатуре покоя не даёт](https://habr.com/ru/post/691116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691116)
 - [Некоторые особенности заказной разработки](https://habr.com/ru/post/691110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691110)
-- [Заблуждения программистов о почтовых адресах](https://habr.com/ru/post/691088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691088)
-- [Создаём свою библиотеку виджетов на Javascript голыми руками. Часть 0: Классы и модули](https://habr.com/ru/post/690852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
