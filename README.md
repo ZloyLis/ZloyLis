@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang-дайджест № 21 &lpar;1 – 30 сентября  2022&rpar;](https://habr.com/ru/post/691280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691280)
+- [Security Week 2240: новая уязвимость zero-day в Microsoft Exchange](https://habr.com/ru/post/691270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691270)
+- [Руководство по AccessControl от OpenZeppelin](https://habr.com/ru/post/691274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691274)
+- [Архитектура ELK-RabbitMQ — управление логами для большой IT-инфраструктуры](https://habr.com/ru/post/691246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691246)
 - [Deep Dive Into Deep Link. Часть 2. Проблемы: устройство, версия ОС](https://habr.com/ru/post/691220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691220)
-- [Лучшие практики для российской электроники за последний год](https://habr.com/ru/post/691214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691214)
-- [«Если апатия приводит в Python, то конструктивный поиск ведёт к Rust или Go»](https://habr.com/ru/post/690992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690992)
-- [[Перевод] Новые функции внедрения зависимостей в .Net 6](https://habr.com/ru/post/690970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690970)
-- [Тест Йохансена на коинтеграцию](https://habr.com/ru/post/686314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
