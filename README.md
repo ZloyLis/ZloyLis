@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Новые функции внедрения зависимостей в .Net 6](https://habr.com/ru/post/690970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690970)
+- [Тест Йохансена на коинтеграцию](https://habr.com/ru/post/686314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686314)
+- [Автоматическая озвучка субтитров на YouTube](https://habr.com/ru/post/691186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691186)
 - [Fluent Assertions — инструмент автоматизированного тестирования](https://habr.com/ru/post/691160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691160)
 - [[Перевод] Классы значения в Kotlin: прощайте псевдонимы типов?](https://habr.com/ru/post/691152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691152)
-- [Дайджест интересных материалов для мобильного разработчика #459 &lpar;26 сентября — 2 октября&rpar;](https://habr.com/ru/post/691156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691156)
-- [Простые, но приятные и воздушные тени вместе с Vue Box Shadows](https://habr.com/ru/post/691148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691148)
-- [Стремление к простоте: о санкциях, транзакциях и одном рефакторинге](https://habr.com/ru/post/691146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
