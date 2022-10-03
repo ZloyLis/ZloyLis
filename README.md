@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluent Assertions — инструмент автоматизированного тестирования](https://habr.com/ru/post/691160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691160)
 - [[Перевод] Классы значения в Kotlin: прощайте псевдонимы типов?](https://habr.com/ru/post/691152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691152)
 - [Дайджест интересных материалов для мобильного разработчика #459 &lpar;26 сентября — 2 октября&rpar;](https://habr.com/ru/post/691156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691156)
 - [Простые, но приятные и воздушные тени вместе с Vue Box Shadows](https://habr.com/ru/post/691148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691148)
 - [Стремление к простоте: о санкциях, транзакциях и одном рефакторинге](https://habr.com/ru/post/691146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691146)
-- [Создание .NET библиотеки от А до Я](https://habr.com/ru/post/691128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
