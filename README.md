@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Леньхаки. Так лень, что не лень](https://habr.com/ru/post/691316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691316)
 - [[Перевод] Что нового можем делать с формами в 2022?](https://habr.com/ru/post/691294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691294)
 - [Дайджест недели от Apple Pro Weekly News &lpar;26.09 – 02.10.22&rpar;](https://habr.com/ru/post/691286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691286)
 - [Golang-дайджест № 21 &lpar;1 – 30 сентября  2022&rpar;](https://habr.com/ru/post/691280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691280)
 - [Security Week 2240: новая уязвимость zero-day в Microsoft Exchange](https://habr.com/ru/post/691270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691270)
-- [Руководство по AccessControl от OpenZeppelin](https://habr.com/ru/post/691274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
