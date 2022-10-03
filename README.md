@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive Into Deep Link. Часть 2. Проблемы: устройство, версия ОС](https://habr.com/ru/post/691220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691220)
 - [Лучшие практики для российской электроники за последний год](https://habr.com/ru/post/691214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691214)
 - [«Если апатия приводит в Python, то конструктивный поиск ведёт к Rust или Go»](https://habr.com/ru/post/690992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690992)
 - [[Перевод] Новые функции внедрения зависимостей в .Net 6](https://habr.com/ru/post/690970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690970)
 - [Тест Йохансена на коинтеграцию](https://habr.com/ru/post/686314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686314)
-- [Автоматическая озвучка субтитров на YouTube](https://habr.com/ru/post/691186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
