@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности реализации List в C#](https://habr.com/ru/post/691476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691476)
+- [Как работают системы распознавания речи](https://habr.com/ru/post/691288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691288)
+- [Что такое BPMN-диаграмма и зачем она нужна в разработке](https://habr.com/ru/post/691436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691436)
 - [Настраиваем память JVM-приложения в Kubernetes](https://habr.com/ru/post/691240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691240)
 - [Неочевидное про Fragment API. Часть 3. Навигация](https://habr.com/ru/post/691344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691344)
-- [[Перевод] Нужны ли нам микросервисы?](https://habr.com/ru/post/690512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690512)
-- [Онлайн-фестиваль TechTrain — для тех, кто уехал, и тех, кто остался](https://habr.com/ru/post/688832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688832)
-- [Kotlin. Автоматизация тестирования &lpar;Часть 3&rpar;. Расширения Kotest и Spring Test](https://habr.com/ru/post/685330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
