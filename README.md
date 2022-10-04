@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Покажи мне свой Git, и я скажу, кто ты](https://habr.com/ru/post/691468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691468)
+- [Приручаем многопоточность в Node.js &lpar;часть 4: координатор против синхронного кода&rpar;](https://habr.com/ru/post/691352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691352)
 - [Особенности реализации List в C#](https://habr.com/ru/post/691476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691476)
 - [Как работают системы распознавания речи](https://habr.com/ru/post/691288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691288)
 - [Что такое BPMN-диаграмма и зачем она нужна в разработке](https://habr.com/ru/post/691436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691436)
-- [Настраиваем память JVM-приложения в Kubernetes](https://habr.com/ru/post/691240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691240)
-- [Неочевидное про Fragment API. Часть 3. Навигация](https://habr.com/ru/post/691344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
