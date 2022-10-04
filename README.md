@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интересное о протоколах, сетях и работе интернет-провайдеров](https://habr.com/ru/post/690410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690410)
+- [Ускоряем разработку в VSCode](https://habr.com/ru/post/691534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691534)
+- [Дайджест о протоколах, сетях и работе интернет-провайдеров](https://habr.com/ru/post/690410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690410)
 - [Покажи мне свой Git, и я скажу, кто ты](https://habr.com/ru/post/691468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691468)
 - [Приручаем многопоточность в Node.js &lpar;часть 4: координатор против синхронного кода&rpar;](https://habr.com/ru/post/691352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691352)
 - [Особенности реализации List в C#](https://habr.com/ru/post/691476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691476)
-- [Как работают системы распознавания речи](https://habr.com/ru/post/691288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
