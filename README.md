@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin. Автоматизация тестирования &lpar;Часть 3&rpar;. Расширения Kotest и Spring Test](https://habr.com/ru/post/685330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685330)
+- [Опыт многопоточной работы, или Как быть DevOps’ом для множества команд разработки](https://habr.com/ru/post/690748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690748)
 - [Разрабатываем библиотеку компонентов с помощью React и TypeScript](https://habr.com/ru/post/691338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691338)
 - [Палки в колесах или как я генератор SDK для API ВКонтакте писал](https://habr.com/ru/post/691340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691340)
 - [Леньхаки. Так лень, что не лень](https://habr.com/ru/post/691316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691316)
-- [[Перевод] Что нового можем делать с формами в 2022?](https://habr.com/ru/post/691294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691294)
-- [Дайджест недели от Apple Pro Weekly News &lpar;26.09 – 02.10.22&rpar;](https://habr.com/ru/post/691286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
