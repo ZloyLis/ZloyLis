@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Нужны ли нам микросервисы?](https://habr.com/ru/post/690512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690512)
+- [Онлайн-фестиваль TechTrain — для тех, кто уехал, и тех, кто остался](https://habr.com/ru/post/688832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688832)
 - [Kotlin. Автоматизация тестирования &lpar;Часть 3&rpar;. Расширения Kotest и Spring Test](https://habr.com/ru/post/685330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685330)
 - [Опыт многопоточной работы, или Как быть DevOps’ом для множества команд разработки](https://habr.com/ru/post/690748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690748)
 - [Разрабатываем библиотеку компонентов с помощью React и TypeScript](https://habr.com/ru/post/691338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691338)
-- [Палки в колесах или как я генератор SDK для API ВКонтакте писал](https://habr.com/ru/post/691340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691340)
-- [Леньхаки. Так лень, что не лень](https://habr.com/ru/post/691316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
