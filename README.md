@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Решение одной задачи с помощью 16 языков программирования](https://habr.com/ru/post/691602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691602)
+- [[Перевод] Что делать со сбоями в подах: практическое руководство с примерами конфигураций](https://habr.com/ru/post/687710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687710)
+- [Как определять смысл концепта](https://habr.com/ru/post/691604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691604)
 - [[Перевод] Руководство по программированию сокетов на Python. Клиент, сервер и несколько соединений](https://habr.com/ru/post/691296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691296)
 - [Молодёжный и бюджетный дядька из нулевых. Обзор коммуникатора HTC Gene Оживление, Использование в наше время](https://habr.com/ru/post/691550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691550)
-- [Ускоряем разработку в VSCode](https://habr.com/ru/post/691534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691534)
-- [Дайджест о протоколах, сетях и работе интернет-провайдеров](https://habr.com/ru/post/690410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690410)
-- [Покажи мне свой Git, и я скажу, кто ты](https://habr.com/ru/post/691468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
