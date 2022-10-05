@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удобный бенчмаркинг с Jetpack Benchmark Library. Макро- и микробенчмарки](https://habr.com/ru/post/691620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691620)
 - [Особое мнение: предугадываем фрод без дата-сайнса](https://habr.com/ru/post/691486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691486)
 - [Логи в iOS, эпизод 2: os_signpost](https://habr.com/ru/post/690542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690542)
 - [Куда приводят Ops&#39;ы: размышления о развитии ландшафта *Ops-специализаций](https://habr.com/ru/post/691636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691636)
 - [[Перевод] Решение одной задачи с помощью 16 языков программирования](https://habr.com/ru/post/691602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691602)
-- [[Перевод] Что делать со сбоями в подах: практическое руководство с примерами конфигураций](https://habr.com/ru/post/687710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=687710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
