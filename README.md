@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Октябрь — лучший «понедельник» для Open Source](https://habr.com/ru/post/691872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691872)
+- [Как жить с потоком алертов и не сойти с ума?](https://habr.com/ru/post/691864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691864)
 - [Как работать с секретами в Golang, чтобы минимизировать хаос](https://habr.com/ru/post/679546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679546)
 - [Знакомимся с не-X.509 сертификатами для документов нового поколения](https://habr.com/ru/post/691812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691812)
 - [3 типа системных аналитиков и как с ними работать](https://habr.com/ru/post/691802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691802)
-- [Планируете взяться за .NET MAUI? Будьте готовы к приключениям с NullReferenceException](https://habr.com/ru/post/691790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691790)
-- [[Перевод] Кто-то притворяется мной](https://habr.com/ru/post/691778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
