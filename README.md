@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Планируете взяться за .NET MAUI? Будьте готовы к приключениям с NullReferenceException](https://habr.com/ru/post/691790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691790)
+- [[Перевод] Кто-то притворяется мной](https://habr.com/ru/post/691778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691778)
 - [[Перевод] От wtf-кода к чистой архитектуре](https://habr.com/ru/post/691562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691562)
 - [Удобный бенчмаркинг с Jetpack Benchmark Library. Макро- и микробенчмарки](https://habr.com/ru/post/691620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691620)
 - [Особое мнение: предугадываем фрод без дата-сайнса](https://habr.com/ru/post/691486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691486)
-- [Логи в iOS, эпизод 2: os_signpost](https://habr.com/ru/post/690542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690542)
-- [Куда приводят Ops&#39;ы: размышления о развитии ландшафта *Ops-специализаций](https://habr.com/ru/post/691636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
