@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [3 типа системных аналитиков и как с ними работать](https://habr.com/ru/post/691802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691802)
 - [Планируете взяться за .NET MAUI? Будьте готовы к приключениям с NullReferenceException](https://habr.com/ru/post/691790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691790)
 - [[Перевод] Кто-то притворяется мной](https://habr.com/ru/post/691778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691778)
 - [[Перевод] От wtf-кода к чистой архитектуре](https://habr.com/ru/post/691562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691562)
 - [Удобный бенчмаркинг с Jetpack Benchmark Library. Макро- и микробенчмарки](https://habr.com/ru/post/691620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691620)
-- [Особое мнение: предугадываем фрод без дата-сайнса](https://habr.com/ru/post/691486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
