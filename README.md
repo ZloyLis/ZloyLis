@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как оставаться программистом, если у тебя память как у дрозофилы](https://habr.com/ru/post/691908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691908)
+- [Серебро и бронза: как мобильная разработка ПСБ попала в топ-3 отрасли](https://habr.com/ru/post/691896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691896)
 - [Прогулка по изнанке «Спортмастера»: ножками и в приложениях](https://habr.com/ru/post/691448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691448)
 - [Как работать из PyCharm community c CSS](https://habr.com/ru/post/691892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691892)
 - [Книга «Алгоритмы неформально»](https://habr.com/ru/post/691458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691458)
-- [Октябрь — лучший «понедельник» для Open Source](https://habr.com/ru/post/691872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691872)
-- [Как жить с потоком алертов и не сойти с ума?](https://habr.com/ru/post/691864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
