@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose Layouts](https://habr.com/ru/post/691954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691954)
 - [Как я делаю цифровую минигитару. Часть 3](https://habr.com/ru/post/660483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660483)
 - [[Перевод] Пишем сложные операторы Kubernetes](https://habr.com/ru/post/691878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691878)
 - [[Перевод] Как оставаться программистом, если у тебя память как у дрозофилы](https://habr.com/ru/post/691908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691908)
 - [Серебро и бронза: как мобильная разработка ПСБ попала в топ-3 отрасли](https://habr.com/ru/post/691896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691896)
-- [Прогулка по изнанке «Спортмастера»: ножками и в приложениях](https://habr.com/ru/post/691448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
