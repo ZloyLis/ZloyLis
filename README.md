@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Для чего вам нужен Terraform? Статья и обучающее видео](https://habr.com/ru/post/692138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692138)
+- [Туда — не знаю куда и как. Что делать, если вашей компании нужно поменять основной инструментарий](https://habr.com/ru/post/688686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688686)
 - [Управление облаком с помощью API и CLI. Основы](https://habr.com/ru/post/692122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692122)
 - [Мы создали два курса по мобильной разработке, и вот чем они интересны](https://habr.com/ru/post/692126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692126)
 - [Flow: новая конференция по системному и бизнес-анализу](https://habr.com/ru/post/692020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692020)
-- [Как мы улучшали функционал онлайн-кинотеатра на tvOS](https://habr.com/ru/post/692074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692074)
-- [[Перевод] EspMon: мониторинг CPU и GPU с помощью T-Display S3](https://habr.com/ru/post/691474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
