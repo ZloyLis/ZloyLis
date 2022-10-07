@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рабочий процесс в команде UX писателей: от создания команды до влияния на ключевые метрики](https://habr.com/ru/post/690478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690478)
 - [[Перевод] JavaScript: малоизвестные, но полезные API](https://habr.com/ru/post/691992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691992)
 - [С++ и Raylib как глоток свежего воздуха](https://habr.com/ru/post/691982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691982)
 - [Jetpack Compose Layouts](https://habr.com/ru/post/691954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691954)
 - [Как я делаю цифровую минигитару. Часть 3](https://habr.com/ru/post/660483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660483)
-- [[Перевод] Пишем сложные операторы Kubernetes](https://habr.com/ru/post/691878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
