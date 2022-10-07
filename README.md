@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Customization Driven Development &lpar;CDD&rpar;](https://habr.com/ru/post/692164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692164)
+- [Подводные камни при получения отсрочки сотрудников от мобилизации](https://habr.com/ru/post/692162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692162)
+- [Верните мне мой 2013: Обзор китайского смартфона за три банки пива, с закупочной ценой 800 рублей&lpar;!&rpar;](https://habr.com/ru/post/692160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692160)
 - [Для чего вам нужен Terraform? Статья и обучающее видео](https://habr.com/ru/post/692138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692138)
 - [Туда — не знаю куда и как. Что делать, если вашей компании нужно поменять основной инструментарий](https://habr.com/ru/post/688686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688686)
-- [Управление облаком с помощью API и CLI. Основы](https://habr.com/ru/post/692122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692122)
-- [Мы создали два курса по мобильной разработке, и вот чем они интересны](https://habr.com/ru/post/692126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692126)
-- [Flow: новая конференция по системному и бизнес-анализу](https://habr.com/ru/post/692020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
