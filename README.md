@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Биометрия по закону: что нового и есть ли перспективы](https://habr.com/ru/post/692082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692082)
+- [Рефайнмент бэклога и как это повышает эффективность работы](https://habr.com/ru/post/692084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692084)
 - [[Перевод] В чем заключается ценность унаследованного кода](https://habr.com/ru/post/692046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692046)
 - [Анализ трафика телеметрической информации Android смартфона](https://habr.com/ru/post/690034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690034)
 - [Как мы улучшили типографику на сайте Авито](https://habr.com/ru/post/691262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691262)
-- [Мейнстримовый Agile пора выбрасывать на свалку истории!? Введение в Shape up](https://habr.com/ru/post/692040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692040)
-- [Днем с огнем: как дела у отечественных ERP?](https://habr.com/ru/post/692028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
