@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow: новая конференция по системному и бизнес-анализу](https://habr.com/ru/post/692020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692020)
+- [Как мы улучшали функционал онлайн-кинотеатра на tvOS](https://habr.com/ru/post/692074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692074)
+- [[Перевод] EspMon: мониторинг CPU и GPU с помощью T-Display S3](https://habr.com/ru/post/691474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691474)
 - [Биометрия по закону: что нового и есть ли перспективы](https://habr.com/ru/post/692082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692082)
 - [Рефайнмент бэклога и как это повышает эффективность работы](https://habr.com/ru/post/692084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692084)
-- [[Перевод] В чем заключается ценность унаследованного кода](https://habr.com/ru/post/692046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692046)
-- [Анализ трафика телеметрической информации Android смартфона](https://habr.com/ru/post/690034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690034)
-- [Как мы улучшили типографику на сайте Авито](https://habr.com/ru/post/691262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
