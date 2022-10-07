@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Днем с огнем: как дела у отечественных ERP?](https://habr.com/ru/post/692028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692028)
 - [Почему вам не нужна версия для слабовидящих](https://habr.com/ru/post/660691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660691)
 - [Улучшаем качество кода React-приложения с помощью Compound Components](https://habr.com/ru/post/691976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691976)
 - [Мечтают ли джуны о тестовых заданиях?](https://habr.com/ru/post/691986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691986)
 - [Рабочий процесс в команде UX писателей: от создания команды до влияния на ключевые метрики](https://habr.com/ru/post/690478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690478)
-- [[Перевод] JavaScript: малоизвестные, но полезные API](https://habr.com/ru/post/691992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
