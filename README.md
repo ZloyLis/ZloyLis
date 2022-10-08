@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Динамический компаратор для объектов с помощью ComparatorChain](https://habr.com/ru/post/692200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692200)
 - [Последняя песнь Nokia — обзор одного из самых последних смартфонов на Symbian с GPU, и во что можно на нём поиграть](https://habr.com/ru/post/692194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692194)
 - [Создание анимаций для навигации в iOS](https://habr.com/ru/post/692180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692180)
 - [Самая модная «Lumia» в России: Доводим китайца за 200 рублей до ума, ставим «Touchwiz»](https://habr.com/ru/post/692176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692176)
-- [Customization Driven Development &lpar;CDD&rpar;](https://habr.com/ru/post/692164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692164)
-- [Подводные камни при получения отсрочки сотрудников от мобилизации](https://habr.com/ru/post/692162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692162)
+- [Разработка приложений со 100%-й кастомизацией. Customization Driven Development &lpar;CDD&rpar;](https://habr.com/ru/post/692164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
