@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы приложение факультета писали](https://habr.com/ru/post/692222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692222)
 - [С чего начать изучать программирование?](https://habr.com/ru/post/692210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692210)
 - [Динамический компаратор для объектов с помощью ComparatorChain](https://habr.com/ru/post/692200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692200)
 - [Последняя песнь Nokia — обзор одного из самых последних смартфонов на Symbian с GPU, и во что можно на нём поиграть](https://habr.com/ru/post/692194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692194)
 - [Создание анимаций для навигации в iOS](https://habr.com/ru/post/692180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692180)
-- [Самая модная «Lumia» в России: Доводим китайца за 200 рублей до ума, ставим «Touchwiz»](https://habr.com/ru/post/692176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
