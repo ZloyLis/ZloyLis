@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание анимаций для навигации в iOS](https://habr.com/ru/post/692180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692180)
 - [Самая модная «Lumia» в России: Доводим китайца за 200 рублей до ума, ставим «Touchwiz»](https://habr.com/ru/post/692176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692176)
 - [Customization Driven Development &lpar;CDD&rpar;](https://habr.com/ru/post/692164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692164)
 - [Подводные камни при получения отсрочки сотрудников от мобилизации](https://habr.com/ru/post/692162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692162)
 - [Верните мне мой 2013: Обзор китайского смартфона за три банки пива, с закупочной ценой 800 рублей&lpar;!&rpar;](https://habr.com/ru/post/692160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692160)
-- [Для чего вам нужен Terraform? Статья и обучающее видео](https://habr.com/ru/post/692138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
