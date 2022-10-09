@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест интересных материалов для мобильного разработчика #460 &lpar;3 — 9 октября&rpar;](https://habr.com/ru/post/692266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692266)
 - [Использование GitHub в обучении студентов. Автоматизация проверок. Часть II](https://habr.com/ru/post/692260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692260)
 - [[Перевод] Микроскоп из оптических головок от DVD-привода](https://habr.com/ru/post/691772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691772)
 - [Как мы приложение факультета писали](https://habr.com/ru/post/692222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692222)
 - [С чего начать изучать программирование?](https://habr.com/ru/post/692210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692210)
-- [Динамический компаратор для объектов с помощью ComparatorChain](https://habr.com/ru/post/692200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
