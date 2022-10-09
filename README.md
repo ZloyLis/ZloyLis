@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование GitHub в обучении студентов. Автоматизация проверок. Часть II](https://habr.com/ru/post/692260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692260)
 - [[Перевод] Микроскоп из оптических головок от DVD-привода](https://habr.com/ru/post/691772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691772)
 - [Как мы приложение факультета писали](https://habr.com/ru/post/692222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692222)
 - [С чего начать изучать программирование?](https://habr.com/ru/post/692210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692210)
 - [Динамический компаратор для объектов с помощью ComparatorChain](https://habr.com/ru/post/692200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692200)
-- [Последняя песнь Nokia — обзор одного из самых последних смартфонов на Symbian с GPU, и во что можно на нём поиграть](https://habr.com/ru/post/692194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
