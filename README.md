@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разбираемся в анимациях и временных переходах в CSS](https://habr.com/ru/post/692466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692466)
+- [[Перевод] K8s: контейнеры для продвинутых](https://habr.com/ru/post/692450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692450)
 - [Security Week 2241: браузер Tor с бэкдором](https://habr.com/ru/post/692440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692440)
 - [Как настроить удобную синхронизацию между Notion и календарем через ICS на JS без сервера](https://habr.com/ru/post/692422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692422)
 - [Чем так хороши кликабельные прототипы](https://habr.com/ru/post/692414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692414)
-- [Xamarin.Forms — определение координат нажатия на экран](https://habr.com/ru/post/692308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692308)
-- [Квест на прокачку QA или приключение на 20 минут](https://habr.com/ru/post/692348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
