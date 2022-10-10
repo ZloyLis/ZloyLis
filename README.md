@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Dependency Injection Containers &lpar;DI контейнеры&rpar; в Joomla 4](https://habr.com/ru/post/692342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692342)
+- [PyGMTSAR &lpar;Python GMTSAR&rpar; — Простая и быстрая спутниковая интерферометрия для всех](https://habr.com/ru/post/692334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692334)
 - [Allure TestOps: «Нестандартный» сценарий использования](https://habr.com/ru/post/691660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691660)
 - [MVI и State Machine — объединяем концепции. Визуализация и анализ диаграммы состояний в Android и KMM проектах](https://habr.com/ru/post/691446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691446)
 - [Картографический фотопроект «По местам съёмок фильма «Брат»](https://habr.com/ru/post/692282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692282)
-- [Видеосъёмка из браузера. HTML-код, который включает камеру на смартфоне](https://habr.com/ru/post/692276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692276)
-- [Дайджест интересных материалов для мобильного разработчика #460 &lpar;3 — 9 октября&rpar;](https://habr.com/ru/post/692266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
