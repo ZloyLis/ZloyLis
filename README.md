@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квест на прокачку QA или приключение на 20 минут](https://habr.com/ru/post/692348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692348)
+- [[Перевод] Рассуждения об asyncio.Semaphore](https://habr.com/ru/post/692292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692292)
 - [[Перевод] Dependency Injection Containers &lpar;DI контейнеры&rpar; в Joomla 4](https://habr.com/ru/post/692342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692342)
-- [PyGMTSAR &lpar;Python GMTSAR&rpar; — Простая и быстрая спутниковая интерферометрия для всех](https://habr.com/ru/post/692334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692334)
+- [PyGMTSAR &lpar;Python GMTSAR&rpar; — Спутниковая интерферометрия для всех](https://habr.com/ru/post/692334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692334)
 - [Allure TestOps: «Нестандартный» сценарий использования](https://habr.com/ru/post/691660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691660)
-- [MVI и State Machine — объединяем концепции. Визуализация и анализ диаграммы состояний в Android и KMM проектах](https://habr.com/ru/post/691446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691446)
-- [Картографический фотопроект «По местам съёмок фильма «Брат»](https://habr.com/ru/post/692282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
