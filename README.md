@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда понты дороже денег: Оживляем Java подделку iPhone 4s, и смотрим на что она способна](https://habr.com/ru/post/692702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692702)
 - [Перезапуск Вебиума](https://habr.com/ru/post/692586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692586)
 - [Принимаем TRON USDT на Java](https://habr.com/ru/post/692626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692626)
 - [Technical Governance для IDP на 7000 разработчиков](https://habr.com/ru/post/692608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692608)
 - [Наводим мосты между Flutter и нативными библиотеками](https://habr.com/ru/post/692530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692530)
-- [[Перевод] Начало работы с Dynamic Island и Live Activities в iOS 16.1](https://habr.com/ru/post/692574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
