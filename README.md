@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мороз, вагоны и математика: как новый цифровой сервис экономит нам до 4 млн кубов газа в год](https://habr.com/ru/post/675892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675892)
+- [Когда не забили на джунов](https://habr.com/ru/post/691692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691692)
+- [Как я делал serverless поиск для мейлинг листов OpenJDK](https://habr.com/ru/post/692512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692512)
 - [Красная нить MVC-Flux-Redux](https://habr.com/ru/post/692492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692492)
 - [Нужно ли ИТ-аналитикам уметь программировать](https://habr.com/ru/post/692524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692524)
-- [Архитектура универсального проекта Django](https://habr.com/ru/post/692518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692518)
-- [Вариационное исчисление и Вариационные алгоритмы](https://habr.com/ru/post/692514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692514)
-- [Дайджест недели от Apple Pro Weekly News &lpar;03.10 – 09.10.22&rpar;](https://habr.com/ru/post/692498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
