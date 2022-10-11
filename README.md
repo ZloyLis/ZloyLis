@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наставничество: как я с этим жил](https://habr.com/ru/post/692540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692540)
+- [На что бизнесу обращать внимание при проверке контрагентов: 13 показателей](https://habr.com/ru/post/692290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692290)
 - [Цветные функции: ищем плохие архитектурные паттерны](https://habr.com/ru/post/691828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691828)
 - [Код, который пишет себя сам](https://habr.com/ru/post/692256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692256)
 - [Конструктор триггеров в Telegram. Или как мы сделали простейшего, но полезного бота](https://habr.com/ru/post/692544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692544)
-- [Мороз, вагоны и математика: как новый цифровой сервис экономит нам до 4 млн кубов газа в год](https://habr.com/ru/post/675892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675892)
-- [Когда не забили на джунов](https://habr.com/ru/post/691692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
