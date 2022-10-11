@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конструктор триггеров в Telegram. Или как мы сделали простейшего, но полезного бота](https://habr.com/ru/post/692544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692544)
 - [Мороз, вагоны и математика: как новый цифровой сервис экономит нам до 4 млн кубов газа в год](https://habr.com/ru/post/675892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=675892)
 - [Когда не забили на джунов](https://habr.com/ru/post/691692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691692)
 - [Как я делал serverless поиск для мейлинг листов OpenJDK](https://habr.com/ru/post/692512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692512)
 - [Красная нить MVC-Flux-Redux](https://habr.com/ru/post/692492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692492)
-- [Нужно ли ИТ-аналитикам уметь программировать](https://habr.com/ru/post/692524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
