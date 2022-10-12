@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор смартфона LG V50 ThinQ 5G: настоящий флагман за бесценок](https://habr.com/ru/post/692766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692766)
+- [Подводные камни Spark: что делать с перезаписью и дополнением в таблицах](https://habr.com/ru/post/692552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692552)
+- [Кручу, верчу, imgui loader нарисовать хочу…](https://habr.com/ru/post/692300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692300)
 - [Vivaldi 5.5 для Android — Быстро и красиво](https://habr.com/ru/post/692706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692706)
 - [Должен ли продакт-менеджер уметь программировать?](https://habr.com/ru/post/692738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692738)
-- [Ошибки выбора MongoDB в качестве основной БД в стартапе](https://habr.com/ru/post/692736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692736)
-- [Когда понты дороже денег: Оживляем Java подделку iPhone 4s, и смотрим на что она способна](https://habr.com/ru/post/692702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692702)
-- [Перезапуск Вебиума](https://habr.com/ru/post/692586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
