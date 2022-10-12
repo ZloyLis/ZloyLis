@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi 5.5 для Android — Быстро и красиво](https://habr.com/ru/post/692706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692706)
 - [Должен ли продакт-менеджер уметь программировать?](https://habr.com/ru/post/692738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692738)
 - [Ошибки выбора MongoDB в качестве основной БД в стартапе](https://habr.com/ru/post/692736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692736)
 - [Когда понты дороже денег: Оживляем Java подделку iPhone 4s, и смотрим на что она способна](https://habr.com/ru/post/692702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692702)
 - [Перезапуск Вебиума](https://habr.com/ru/post/692586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692586)
-- [Принимаем TRON USDT на Java](https://habr.com/ru/post/692626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
