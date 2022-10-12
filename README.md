@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как программист настроил автоматическое развертывание бекенда с базой данных](https://habr.com/ru/post/692198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692198)
+- [Работа с ASO: как тестировать тренды и не получить иск](https://habr.com/ru/post/692830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692830)
 - [Выкуси, Telegram Premium — бот-конвертер голосовых сообщений для обхода ограничений &lpar;Java, Spring, вебхуки, ffmpeg&rpar;](https://habr.com/ru/post/692826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692826)
 - [[Перевод] Java и низкая задержка](https://habr.com/ru/post/692680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692680)
 - [Подпись на эллиптических кривых: всё, что нужно знать, чтобы подписать транзакцию в Bitcoin с полного нуля](https://habr.com/ru/post/692842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692842)
-- [Как запускать SQL в Go с максимальным комфортом](https://habr.com/ru/post/692062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692062)
-- [RabbitMQ и Apache Kafka: что выбрать и можно ли интегрировать](https://habr.com/ru/post/692822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
