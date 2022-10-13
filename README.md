@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Первые шаги в анализе безопасности мобильных приложений: разбираемся на примере Allsafe](https://habr.com/ru/post/688064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688064)
+- [Real-time optimization &lpar;RTO&rpar; — что это такое и в чем его польза](https://habr.com/ru/post/693042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693042)
 - [[Перевод] Алгоритмы поиска решений лабиринтов и их практическое применение в реальном мире — Кит Берроуз и Ванесса Клотцман](https://habr.com/ru/post/693036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693036)
 - [Роль аналитика в проекте по распилу монолита](https://habr.com/ru/post/690468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690468)
 - [Как сплотить команду в трудные времена](https://habr.com/ru/post/693024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693024)
-- [Компьютерная революция в примерах. Вычисления кардинально улучшили мир за полвека](https://habr.com/ru/post/693026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693026)
-- [Есть ли жизнь без RTTI: пишем свой dynamic_cast](https://habr.com/ru/post/693014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
