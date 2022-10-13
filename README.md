@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] React, я люблю тебя, но ты сводишь меня с ума](https://habr.com/ru/post/693072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693072)
 - [Найдите 10 отличий. Тестируем сравнением снимков экрана с образцом](https://habr.com/ru/post/692974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692974)
 - [Как заменить Qlik и PowerBI с минимальными потерями: Visiology+Loginom+PostgreSQL](https://habr.com/ru/post/692876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692876)
 - [Первые шаги в анализе безопасности мобильных приложений: разбираемся на примере Allsafe](https://habr.com/ru/post/688064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688064)
 - [Real-time optimization &lpar;RTO&rpar; — что это такое и в чем его польза](https://habr.com/ru/post/693042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693042)
-- [[Перевод] Алгоритмы поиска решений лабиринтов и их практическое применение в реальном мире — Кит Берроуз и Ванесса Клотцман](https://habr.com/ru/post/693036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
