@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вот как генеративно-состязательные сети учатся творить](https://habr.com/ru/post/693200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693200)
 - [Sony Ericsson P990: все, что вы хотели от смартфона](https://habr.com/ru/post/693220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693220)
 - [Как перестать велосипедить или 4 self-hosted сервиса для начинающего СТО](https://habr.com/ru/post/693198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693198)
 - [Человеческие docker-образы AstraLinux](https://habr.com/ru/post/693176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693176)
 - [[Перевод] React, я люблю тебя, но ты сводишь меня с ума](https://habr.com/ru/post/693072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693072)
-- [Найдите 10 отличий. Тестируем сравнением снимков экрана с образцом](https://habr.com/ru/post/692974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
