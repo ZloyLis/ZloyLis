@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция репозитория: от простого к сложному](https://habr.com/ru/post/692982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692982)
+- [DoZer — сцинтилляционный гамма-спектрометр с bluetooth](https://habr.com/ru/post/692994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692994)
 - [Тестирование проектов в заказной разработке или «я не буду за это платить»](https://habr.com/ru/post/692976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692976)
 - [Deeplinks и Flutter](https://habr.com/ru/post/692930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692930)
 - [Алгоритмы сортировки в Swift](https://habr.com/ru/post/692928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692928)
-- [Как программист настроил автоматическое развертывание бекенда с базой данных](https://habr.com/ru/post/692198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692198)
-- [Работа с ASO: как тестировать тренды и не получить иск](https://habr.com/ru/post/692830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
