@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Эволюция репозитория: от простого к сложному](https://habr.com/ru/post/692982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692982)
-- [DoZer — сцинтилляционный гамма-спектрометр с bluetooth](https://habr.com/ru/post/692994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692994)
-- [Тестирование проектов в заказной разработке или «я не буду за это платить»](https://habr.com/ru/post/692976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692976)
-- [Deeplinks и Flutter](https://habr.com/ru/post/692930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692930)
-- [Алгоритмы сортировки в Swift](https://habr.com/ru/post/692928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692928)
+- [[Перевод] Алгоритмы поиска решений лабиринтов и их практическое применение в реальном мире — Кит Берроуз и Ванесса Клотцман](https://habr.com/ru/post/693036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693036)
+- [Роль аналитика в проекте по распилу монолита](https://habr.com/ru/post/690468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690468)
+- [Как сплотить команду в трудные времена](https://habr.com/ru/post/693024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693024)
+- [Компьютерная революция в примерах. Вычисления кардинально улучшили мир за полвека](https://habr.com/ru/post/693026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693026)
+- [Есть ли жизнь без RTTI: пишем свой dynamic_cast](https://habr.com/ru/post/693014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
