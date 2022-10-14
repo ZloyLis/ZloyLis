@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наставник рядом, а ученик приобретает опыт методом «проб и ошибок». Как такое возможно?](https://habr.com/ru/post/693396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693396)
+- [IDE и редакторы кода для разработчиков. Подборка](https://habr.com/ru/post/693374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693374)
+- [RTC, почти RTC и Франкенштейн](https://habr.com/ru/post/660693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660693)
+- [10 вредных советов для дизайнеров-джунов](https://habr.com/ru/post/693378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693378)
 - [Deep Dive Into Deep Link. Часть 3. Оболочка ОС, приложение](https://habr.com/ru/post/693368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693368)
-- [Как расскажут про девопс на DevOops 2022](https://habr.com/ru/post/690430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690430)
-- [Как делегировать и спать спокойно](https://habr.com/ru/post/693308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693308)
-- [Лучшие практики модальных окон. Компоненты дизайн системы](https://habr.com/ru/post/693272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693272)
-- [Android Debug Bridge для тестировщика без SMS и регистрации](https://habr.com/ru/post/692998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
