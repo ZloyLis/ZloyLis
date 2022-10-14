@@ -26,9 +26,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синхронный «запрос-ответ» с использованием REST и Apache Kafka](https://habr.com/ru/post/693380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693380)
 - [Samsung, но не Galaxy — идейный продолжатель «народного» тачфона S5230](https://habr.com/ru/post/693422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693422)
 - [Как внедрить систему наставничества в компании и успешно адаптировать новых сотрудников](https://habr.com/ru/post/693418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693418)
-- [Ближе к ядру: как мы создавали кастомные пользовательские поля в Битрикс](https://habr.com/ru/post/693408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693408)
 - [Проверка автокорреляции с использованием критерия Дарбина-Уотсона средствами Python](https://habr.com/ru/post/693402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693402)
 - [Наставник рядом, а ученик приобретает опыт методом «проб и ошибок». Как такое возможно?](https://habr.com/ru/post/693396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693396)
 <!-- BLOG-POST-LIST:END -->
