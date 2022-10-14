@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как делегировать и спать спокойно](https://habr.com/ru/post/693308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693308)
 - [Лучшие практики модальных окон. Компоненты дизайн системы](https://habr.com/ru/post/693272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693272)
 - [Android Debug Bridge для тестировщика без SMS и регистрации](https://habr.com/ru/post/692998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692998)
 - [[Перевод] Начало работы с бесcерверными функциями Azure. Часть 2](https://habr.com/ru/post/693288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693288)
 - [Урбанизм и алгоритмы: построение сетей велодорожек с учетом спроса](https://habr.com/ru/post/692986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692986)
-- [[Перевод] Почему современное ПО такое медленное — разбираемся на примере диктофона Windows](https://habr.com/ru/post/693216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
