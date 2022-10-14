@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я запрограммировал кошачью кормушку, чтобы она выдавала мне конфеты за код](https://habr.com/ru/post/693266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693266)
 - [Многопоточность Java. #неОпятьАСнова #javaJunior #javaCore](https://habr.com/ru/post/693244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693244)
 - [[Перевод] Вот как генеративно-состязательные сети учатся творить](https://habr.com/ru/post/693200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693200)
 - [Sony Ericsson P990: все, что вы хотели от смартфона](https://habr.com/ru/post/693220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693220)
 - [Как перестать велосипедить или 4 self-hosted сервиса для начинающего СТО](https://habr.com/ru/post/693198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693198)
-- [Человеческие docker-образы AstraLinux](https://habr.com/ru/post/693176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
