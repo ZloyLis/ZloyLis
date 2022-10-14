@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung, но не Galaxy — идейный продолжатель «народного» тачфона S5230](https://habr.com/ru/post/693422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693422)
+- [Как внедрить систему наставничества в компании и успешно адаптировать новых сотрудников](https://habr.com/ru/post/693418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693418)
+- [Ближе к ядру: как мы создавали кастомные пользовательские поля в Битрикс](https://habr.com/ru/post/693408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693408)
+- [Проверка автокорреляции с использованием критерия Дарбина-Уотсона средствами Python](https://habr.com/ru/post/693402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693402)
 - [Наставник рядом, а ученик приобретает опыт методом «проб и ошибок». Как такое возможно?](https://habr.com/ru/post/693396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693396)
-- [IDE и редакторы кода для разработчиков. Подборка](https://habr.com/ru/post/693374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693374)
-- [RTC, почти RTC и Франкенштейн](https://habr.com/ru/post/660693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660693)
-- [10 вредных советов для дизайнеров-джунов](https://habr.com/ru/post/693378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693378)
-- [Deep Dive Into Deep Link. Часть 3. Оболочка ОС, приложение](https://habr.com/ru/post/693368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
