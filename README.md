@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сага о SEO, часть 2: разметка](https://habr.com/ru/post/693480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693480)
 - [[Перевод] Высокоэффективная генерация изображений на KerasCV с помощью Stable Diffusion](https://habr.com/ru/post/693322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693322)
 - [Как создать и исследовать лог процесса выполнения программы](https://habr.com/ru/post/693442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693442)
 - [Синхронный «запрос-ответ» с использованием REST и Apache Kafka](https://habr.com/ru/post/693380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693380)
 - [Samsung, но не Galaxy — идейный продолжатель «народного» тачфона S5230](https://habr.com/ru/post/693422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693422)
-- [Как внедрить систему наставничества в компании и успешно адаптировать новых сотрудников](https://habr.com/ru/post/693418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
