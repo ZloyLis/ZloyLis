@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Y — что молодежь могла сделать с молодежным смартфоном 2012 года?](https://habr.com/ru/post/693582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693582)
 - [E2E-тестирование подключения по WalletConnect между DApp и мобильным приложением Metamask](https://habr.com/ru/post/693566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693566)
 - [Unity WebGL + React](https://habr.com/ru/post/693534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693534)
 - [Causal Inference: DAG](https://habr.com/ru/post/693532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693532)
 - [Как развернуть React приложение с помощью AWS S3 и CloudFront](https://habr.com/ru/post/693528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693528)
-- [«Я устал, я мухожук», или почему VK скатился](https://habr.com/ru/post/693496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
