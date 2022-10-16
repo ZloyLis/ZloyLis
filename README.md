@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Перспективы IT — разный взгляд на будущие тренды](https://habr.com/ru/post/693640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693640)
 - [Китайский айфон на чистом Android — совсем бесполезен в 2022?](https://habr.com/ru/post/693620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693620)
 - [E2E-тестирование подключения по WalletConnect между DApp и мобильным приложением Metamask](https://habr.com/ru/post/693566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693566)
 - [Unity WebGL + React](https://habr.com/ru/post/693534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693534)
 - [Causal Inference: DAG](https://habr.com/ru/post/693532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693532)
-- [Как развернуть React приложение с помощью AWS S3 и CloudFront](https://habr.com/ru/post/693528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
