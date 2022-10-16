@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще один способ использования Java records как DTO](https://habr.com/ru/post/693648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693648)
 - [[recovery mode] Tesla BrainWallet ловушки от Биткоин кошельков остерегаемся фишинга и популярных парольных фраз](https://habr.com/ru/post/689442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689442)
 - [Перспективы IT — разный взгляд на будущие тренды](https://habr.com/ru/post/693640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693640)
 - [Китайский айфон на чистом Android — совсем бесполезен в 2022?](https://habr.com/ru/post/693620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693620)
 - [E2E-тестирование подключения по WalletConnect между DApp и мобильным приложением Metamask](https://habr.com/ru/post/693566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693566)
-- [Unity WebGL + React](https://habr.com/ru/post/693534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
