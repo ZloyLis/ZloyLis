@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мечты о хорошем спеллчекере без лишних заморочек](https://habr.com/ru/post/693790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693790)
-- [Фрактал простых чисел](https://habr.com/ru/post/693612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693612)
-- [[Перевод] Исчерпывающее руководство по множествам в Python](https://habr.com/ru/post/693592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693592)
-- [Уйти нельзя остаться — что делать, когда очень хочется уволиться](https://habr.com/ru/post/693726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693726)
-- [14 КБ это слишком много. Делаем сайты меньше 1 КБ](https://habr.com/ru/post/692840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692840)
+- [[Перевод] Добавляем поддержку Markdown в ASP.NET Core приложение. Часть 2](https://habr.com/ru/post/693818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693818)
+- [Полезные ссылки, статьи, сервисы и материалы для разработчика игр](https://habr.com/ru/post/693812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693812)
+- [Неочевидное про Fragment API. Часть 4. Анимации и меню](https://habr.com/ru/post/693794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693794)
+- [Flutter Web и WebAssembly — ключ к тайной комнате](https://habr.com/ru/post/693572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693572)
+- [Чем жив ВКС-рынок в России](https://habr.com/ru/post/693044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
