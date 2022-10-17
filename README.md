@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мечты о хорошем спеллчекере без лишних заморочек](https://habr.com/ru/post/693790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693790)
+- [Фрактал простых чисел](https://habr.com/ru/post/693612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693612)
 - [[Перевод] Исчерпывающее руководство по множествам в Python](https://habr.com/ru/post/693592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693592)
 - [Уйти нельзя остаться — что делать, когда очень хочется уволиться](https://habr.com/ru/post/693726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693726)
 - [14 КБ это слишком много. Делаем сайты меньше 1 КБ](https://habr.com/ru/post/692840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692840)
-- [Самый SOC: история одной стажировки в Positive Technologies. Часть вторая](https://habr.com/ru/post/693730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693730)
-- [Как я начал писать движки для визуальных новелл на C++. Часть 1: Начало пути](https://habr.com/ru/post/693714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
