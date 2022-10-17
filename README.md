@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не повторять, выполнено профессионалами: как не надо разрабатывать таск-трекер](https://habr.com/ru/post/690480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690480)
+- [Топ-10 докладов на С++ конференциях 2019-2022 года](https://habr.com/ru/post/693872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693872)
 - [Программирование без кода. Лучшие инструменты 2022 года](https://habr.com/ru/post/693864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693864)
 - [Security Week 2242: блокировка уязвимых драйверов в Windows](https://habr.com/ru/post/693840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693840)
 - [Человеческим языком про метрики 4: PromQL](https://habr.com/ru/post/693834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693834)
-- [[recovery mode] Кровь, пот и слезы: как я переделал навигацию на сайте документации и в чём профит переделки](https://habr.com/ru/post/693832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693832)
-- [[Перевод] 5 советов по созданию лучших диаграмм архитектуры решения](https://habr.com/ru/post/693822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
