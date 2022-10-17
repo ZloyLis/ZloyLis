@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [14 КБ это слишком много. Делаем сайты меньше 1 КБ](https://habr.com/ru/post/692840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692840)
+- [Самый SOC: история одной стажировки в Positive Technologies. Часть вторая](https://habr.com/ru/post/693730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693730)
 - [Как я начал писать движки для визуальных новелл на C++. Часть 1: Начало пути](https://habr.com/ru/post/693714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693714)
 - [red_mad_robot на DevFest Omsk 23 октября](https://habr.com/ru/post/693704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693704)
 - [Декомпозируем регулярные выражения](https://habr.com/ru/post/693622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693622)
-- [Ресёрч в процессе дизайна: наши процессы, решения и полезные ссылки](https://habr.com/ru/post/693656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693656)
-- [Дайджест интересных материалов для мобильного разработчика #461 &lpar;10 — 16 октября&rpar;](https://habr.com/ru/post/693672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
