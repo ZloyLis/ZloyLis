@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ресёрч в процессе дизайна: наши процессы, решения и полезные ссылки](https://habr.com/ru/post/693656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693656)
 - [Дайджест интересных материалов для мобильного разработчика #461 &lpar;10 — 16 октября&rpar;](https://habr.com/ru/post/693672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693672)
 - [Бизнес культура и копирайтинг. Эволюция заголовков iPhone](https://habr.com/ru/post/693670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693670)
 - [Портирование DOS игр. Tutorial](https://habr.com/ru/post/693660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693660)
 - [Еще один способ использования Java records как DTO](https://habr.com/ru/post/693648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693648)
-- [[recovery mode] Tesla BrainWallet ловушки от Биткоин кошельков остерегаемся фишинга и популярных парольных фраз](https://habr.com/ru/post/689442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=689442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
