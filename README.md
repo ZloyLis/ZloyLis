@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;10.10 – 16.10.22&rpar;](https://habr.com/ru/post/693910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693910)
 - [4 видео для мобильных разработчиков. Анимации в React Native, keyboard avoiding в SwiftUI и другое](https://habr.com/ru/post/693894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693894)
 - [Можно ли доверять библиотекам, которые использует ваше приложение?](https://habr.com/ru/post/693890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693890)
 - [Шесть картинок, как создать словарь](https://habr.com/ru/post/693888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693888)
 - [Не повторять, выполнено профессионалами: как не надо разрабатывать таск-трекер](https://habr.com/ru/post/690480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690480)
-- [Топ-10 докладов на С++ конференциях 2019-2022 года](https://habr.com/ru/post/693872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
