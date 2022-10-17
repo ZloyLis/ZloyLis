@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2242: блокировка уязвимых драйверов в Windows](https://habr.com/ru/post/693840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693840)
+- [Человеческим языком про метрики 4: PromQL](https://habr.com/ru/post/693834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693834)
+- [[recovery mode] Кровь, пот и слезы: как я переделал навигацию на сайте документации и в чём профит переделки](https://habr.com/ru/post/693832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693832)
+- [[Перевод] 5 советов по созданию лучших диаграмм архитектуры решения](https://habr.com/ru/post/693822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693822)
 - [[Перевод] Добавляем поддержку Markdown в ASP.NET Core приложение. Часть 2](https://habr.com/ru/post/693818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693818)
-- [Полезные ссылки, статьи, сервисы и материалы для разработчика игр](https://habr.com/ru/post/693812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693812)
-- [Неочевидное про Fragment API. Часть 4. Анимации и меню](https://habr.com/ru/post/693794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693794)
-- [Flutter Web и WebAssembly — ключ к тайной комнате](https://habr.com/ru/post/693572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693572)
-- [Чем жив ВКС-рынок в России](https://habr.com/ru/post/693044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
