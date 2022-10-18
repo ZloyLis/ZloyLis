@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности разработки TWA в 2022 году](https://habr.com/ru/post/693090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693090)
+- [Грейды для менеджеров](https://habr.com/ru/post/694070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694070)
 - [Как QA-инженер может влиять на unit-тесты](https://habr.com/ru/post/692940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692940)
 - [Будни техпода. Разворачиваем Android на Hyper-V](https://habr.com/ru/post/693734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693734)
 - [Как организовать в команде управление знаниями](https://habr.com/ru/post/694034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694034)
-- [Моя учеба в голландской провинции и что из этого вышло](https://habr.com/ru/post/693958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693958)
-- [UX для бизнеса](https://habr.com/ru/post/693970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
