@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать Jenkins стабильным и сэкономить время, деньги и нервы](https://habr.com/ru/post/694144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694144)
 - [[Перевод] Математические задачки от автора блога DataGenetics](https://habr.com/ru/post/694136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694136)
 - [Заблокированный iPhone 5c от которого никто и ничего не помнит — что с ним можно сделать?](https://habr.com/ru/post/694130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694130)
 - [RTOS или не RTOS вот в чем вопрос 2, или Windows тоже RTOS?](https://habr.com/ru/post/694120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694120)
 - [Большой экран — большие возможности: адаптация приложений под складные устройства](https://habr.com/ru/post/694092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694092)
-- [Особенности разработки TWA в 2022 году](https://habr.com/ru/post/693090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
