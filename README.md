@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Моя учеба в голландской провинции и что из этого вышло](https://habr.com/ru/post/693958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693958)
-- [[recovery mode] Импортозамещение ПО 2022: краткое руководство к действию](https://habr.com/ru/post/693980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693980)
 - [UX для бизнеса](https://habr.com/ru/post/693970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693970)
 - [Дайджест недели от Apple Pro Weekly News &lpar;10.10 – 16.10.22&rpar;](https://habr.com/ru/post/693910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693910)
 - [4 видео для мобильных разработчиков. Анимации в React Native, keyboard avoiding в SwiftUI и другое](https://habr.com/ru/post/693894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693894)
+- [Можно ли доверять библиотекам, которые использует ваше приложение?](https://habr.com/ru/post/693890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
