@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [7 полезных книг по Python для старта и развития навыков: выбор сотрудников Selectel](https://habr.com/ru/post/693800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693800)
+- [Эволюция архитектуры данных: как потребности бизнеса изменили инструменты для хранения данных](https://habr.com/ru/post/692554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692554)
+- [[Перевод] Управление данными ставит перед предприятиями непростые задачи](https://habr.com/ru/post/694256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694256)
+- [Язык сломаешь. Советские алгоритмические языки для обучения программированию](https://habr.com/ru/post/692594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692594)
 - [PVS-Studio 7.21: GitLab Code Quality, Unreal Engine](https://habr.com/ru/post/694216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694216)
-- [Секретный прогноз IT-экосистемы &lpar;сбывшийся на 82%&rpar;, чтобы понять к чему готовиться](https://habr.com/ru/post/691914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691914)
-- [Конструктор клиент-серверных протоколов](https://habr.com/ru/post/694146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694146)
-- [Как сделать Jenkins стабильным и сэкономить время, деньги и нервы](https://habr.com/ru/post/694144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694144)
-- [[Перевод] Математические задачки от автора блога DataGenetics](https://habr.com/ru/post/694136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
