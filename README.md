@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Секретный прогноз IT-экосистемы &lpar;сбывшийся на 82%&rpar;, чтобы понять к чему готовиться](https://habr.com/ru/post/691914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691914)
 - [Конструктор клиент-серверных протоколов](https://habr.com/ru/post/694146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694146)
 - [Как сделать Jenkins стабильным и сэкономить время, деньги и нервы](https://habr.com/ru/post/694144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694144)
 - [[Перевод] Математические задачки от автора блога DataGenetics](https://habr.com/ru/post/694136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694136)
 - [RTOS или не RTOS вот в чем вопрос 2, или Windows тоже RTOS?](https://habr.com/ru/post/694120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694120)
-- [Большой экран — большие возможности: адаптация приложений под складные устройства](https://habr.com/ru/post/694092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
