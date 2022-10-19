@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История одной QA-интернатуры или мой вход в ИТ](https://habr.com/ru/post/694310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694310)
 - [[Перевод] Как уменьшить размер образа Docker для JVM](https://habr.com/ru/post/692992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692992)
 - [Как сделать AMP версию всего сайта на 1С-Битрикс](https://habr.com/ru/post/694264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694264)
 - [7 полезных книг по Python для старта и развития навыков: выбор сотрудников Selectel](https://habr.com/ru/post/693800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693800)
 - [Эволюция архитектуры данных: как потребности бизнеса изменили инструменты для хранения данных](https://habr.com/ru/post/692554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692554)
-- [[Перевод] Управление данными ставит перед предприятиями непростые задачи](https://habr.com/ru/post/694256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
