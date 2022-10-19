@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как уменьшить размер образа Docker для JVM](https://habr.com/ru/post/692992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692992)
+- [Как сделать AMP версию всего сайта на 1С-Битрикс](https://habr.com/ru/post/694264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694264)
 - [7 полезных книг по Python для старта и развития навыков: выбор сотрудников Selectel](https://habr.com/ru/post/693800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693800)
 - [Эволюция архитектуры данных: как потребности бизнеса изменили инструменты для хранения данных](https://habr.com/ru/post/692554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692554)
 - [[Перевод] Управление данными ставит перед предприятиями непростые задачи](https://habr.com/ru/post/694256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694256)
-- [Язык сломаешь. Советские алгоритмические языки для обучения программированию](https://habr.com/ru/post/692594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692594)
-- [PVS-Studio 7.21: GitLab Code Quality, Unreal Engine](https://habr.com/ru/post/694216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
