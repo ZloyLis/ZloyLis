@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быть программистом. Батенька, у вас идея фикс](https://habr.com/ru/post/694472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694472)
+- [Разработка на Angular под SmartTV: история одной фичи](https://habr.com/ru/post/694384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694384)
+- [API-First и микросервисы](https://habr.com/ru/post/694340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694340)
 - [Представляем ClusterIssuer для автоматического выпуска SSL-сертификатов REG.RU в Kubernetes](https://habr.com/ru/post/693858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693858)
 - [Приручаем многопоточность в Node.js &lpar;часть 5: автомасштабирование под нагрузку&rpar;](https://habr.com/ru/post/693738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693738)
-- [Как работают глаза и что надо учитывать, создавая тёмную тему приложения](https://habr.com/ru/post/694412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694412)
-- [[Перевод] Как сделать графические аналоговые часы](https://habr.com/ru/post/694332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694332)
-- [Пошаговая боевая система на примере JS](https://habr.com/ru/post/694390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
