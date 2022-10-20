@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Молодежь нынче пошла не та, или поиск системного аналитика «за 200»](https://habr.com/ru/post/694478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694478)
 - [Быть программистом. Батенька, у вас идея фикс](https://habr.com/ru/post/694472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694472)
+- [[Перевод] Service Locator — антипаттерн](https://habr.com/ru/post/694458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694458)
 - [Разработка на Angular под SmartTV: история одной фичи](https://habr.com/ru/post/694384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694384)
 - [API-First и микросервисы](https://habr.com/ru/post/694340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694340)
-- [Представляем ClusterIssuer для автоматического выпуска SSL-сертификатов REG.RU в Kubernetes](https://habr.com/ru/post/693858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693858)
-- [Приручаем многопоточность в Node.js &lpar;часть 5: автомасштабирование под нагрузку&rpar;](https://habr.com/ru/post/693738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
