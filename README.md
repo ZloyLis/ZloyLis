@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как сделать графические аналоговые часы](https://habr.com/ru/post/694332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694332)
 - [Пошаговая боевая система на примере JS](https://habr.com/ru/post/694390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694390)
 - [От новичка, для новичков: «Event-driven programming. EventEmitter.»](https://habr.com/ru/post/694346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694346)
 - [«Рабочие места» для цифровых кочевников: реализация прагматичного API](https://habr.com/ru/post/694142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694142)
 - [Откуда в подсолнухе золотое сечение?](https://habr.com/ru/post/694156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694156)
-- [История одной QA-интернатуры или мой вход в ИТ](https://habr.com/ru/post/694310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
