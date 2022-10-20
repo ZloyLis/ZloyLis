@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Менторство в команде Ops: внедрение процесса и первые результаты](https://habr.com/ru/post/693728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693728)
 - [Как PVS-Studio защищает от поспешных правок кода, пример N6](https://habr.com/ru/post/694586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694586)
 - [Sony DSC-F717: двадцатилетняя фотокамера со странностями](https://habr.com/ru/post/694544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694544)
 - [Библиотека тестировщика: обзор полезных книг по тестированию ПО](https://habr.com/ru/post/694548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694548)
 - [Молодежь нынче пошла не та, или поиск системного аналитика «за 200»](https://habr.com/ru/post/694478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694478)
-- [Быть программистом. Батенька, у вас идея фикс](https://habr.com/ru/post/694472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
