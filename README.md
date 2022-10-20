@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram бот с offline распознаванием голосовых и генерацией аудио из текста](https://habr.com/ru/post/694632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694632)
 - [Ограничения криптовалют и Форвардинг криптоплатежей](https://habr.com/ru/post/694614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694614)
 - [Менторство в команде Ops: внедрение процесса и первые результаты](https://habr.com/ru/post/693728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693728)
 - [Как PVS-Studio защищает от поспешных правок кода, пример N6](https://habr.com/ru/post/694586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694586)
 - [Sony DSC-F717: двадцатилетняя фотокамера со странностями](https://habr.com/ru/post/694544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694544)
-- [Библиотека тестировщика: обзор полезных книг по тестированию ПО](https://habr.com/ru/post/694548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
