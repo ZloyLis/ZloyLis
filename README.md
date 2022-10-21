@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [VPN на минималках ч.3](https://habr.com/ru/post/693750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693750)
+- [Гексагональная архитектура и DDD на опыте интернет-магазина Спортмастер. Часть 1](https://habr.com/ru/post/694672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694672)
+- [[Перевод] DeepWalk: поведение и как его реализовать](https://habr.com/ru/post/694484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694484)
+- [Что можно будет узнать о тестировании на Heisenbug 2022 Autumn](https://habr.com/ru/post/690438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690438)
 - [Рассеиваем туман. Инструменты и полезная литература для Junior QA](https://habr.com/ru/post/694696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694696)
-- [[Перевод] Машинное обучение переосмысливает строительные блоки вычислений](https://habr.com/ru/post/694646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694646)
-- [Как PaaS Авито помогает регулировать потребление ресурсов CPU и RAM](https://habr.com/ru/post/694232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694232)
-- [Как мы используем Greenplum в платформе данных Тинькофф](https://habr.com/ru/post/694652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694652)
-- [JavaScript: редко используемые, но полезные API](https://habr.com/ru/post/694636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
