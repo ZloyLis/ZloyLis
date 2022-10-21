@@ -26,10 +26,10 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рассеиваем туман. Инструменты и полезная литература для Junior QA](https://habr.com/ru/post/694696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694696)
 - [[Перевод] Машинное обучение переосмысливает строительные блоки вычислений](https://habr.com/ru/post/694646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694646)
 - [Как PaaS Авито помогает регулировать потребление ресурсов CPU и RAM](https://habr.com/ru/post/694232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694232)
 - [Как мы используем Greenplum в платформе данных Тинькофф](https://habr.com/ru/post/694652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694652)
-- [Расшифровка черного ящика: как оцифровать расчеты, которые заказчик годами вел в экселе](https://habr.com/ru/post/693986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693986)
 - [JavaScript: редко используемые, но полезные API](https://habr.com/ru/post/694636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694636)
 <!-- BLOG-POST-LIST:END -->
 
