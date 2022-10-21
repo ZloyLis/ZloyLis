@@ -26,8 +26,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем собственный ColorWheel на основе представления &lpar;View&rpar; в Android](https://habr.com/ru/post/694852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694852)
 - [Внутренний мир: Project Reactor](https://habr.com/ru/post/694850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694850)
-- [Ошибки, которые не учат. На что обратить внимание при изучении JavaScript](https://habr.com/ru/post/694848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694848)
 - [[Перевод] Семь грехов численной линейной алгебры](https://habr.com/ru/post/693330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693330)
 - [Детские курсы по программированию: как удержать интерес ребенка?](https://habr.com/ru/post/694842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694842)
 - [Слайдерный дядька из нулевых. На что способен кнопочный смартфон из 2005](https://habr.com/ru/post/694796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694796)
