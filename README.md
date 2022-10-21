@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация и кастомизация запросов с использованием Spring Cache и Scope Bean](https://habr.com/ru/post/694768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694768)
 - [[Перевод] Исключения из принципа YAGNI](https://habr.com/ru/post/694736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694736)
 - [Распространяй и властвуй: приглашаем на открытый Frontend Meetup](https://habr.com/ru/post/693438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693438)
 - [Чем занимается AppSec?](https://habr.com/ru/post/694522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694522)
 - [VPN на минималках ч.3](https://habr.com/ru/post/693750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693750)
-- [Гексагональная архитектура и DDD на опыте интернет-магазина Спортмастер. Часть 1](https://habr.com/ru/post/694672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
