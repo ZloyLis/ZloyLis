@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исключения из принципа YAGNI](https://habr.com/ru/post/694736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694736)
+- [Распространяй и властвуй: приглашаем на открытый Frontend Meetup](https://habr.com/ru/post/693438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693438)
+- [Чем занимается AppSec?](https://habr.com/ru/post/694522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694522)
 - [VPN на минималках ч.3](https://habr.com/ru/post/693750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693750)
 - [Гексагональная архитектура и DDD на опыте интернет-магазина Спортмастер. Часть 1](https://habr.com/ru/post/694672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694672)
-- [[Перевод] DeepWalk: поведение и как его реализовать](https://habr.com/ru/post/694484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694484)
-- [Что можно будет узнать о тестировании на Heisenbug 2022 Autumn](https://habr.com/ru/post/690438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690438)
-- [Рассеиваем туман. Инструменты и полезная литература для Junior QA](https://habr.com/ru/post/694696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
