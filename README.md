@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ДЕТСКИЕ КУРСЫ ПО ПРОГРАММИРОВАНИЮ: КАК УДЕРЖАТЬ ИНТЕРЕС РЕБЕНКА?](https://habr.com/ru/post/694842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694842)
+- [Внутренний мир: Project Reactor](https://habr.com/ru/post/694850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694850)
+- [Ошибки, которые не учат. На что обратить внимание при изучении JavaScript](https://habr.com/ru/post/694848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694848)
+- [[Перевод] Семь грехов численной линейной алгебры](https://habr.com/ru/post/693330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693330)
+- [Детские курсы по программированию: как удержать интерес ребенка?](https://habr.com/ru/post/694842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694842)
 - [Слайдерный дядька из нулевых. На что способен кнопочный смартфон из 2005](https://habr.com/ru/post/694796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694796)
-- [99 советов геймдизайнеру — Часть 1](https://habr.com/ru/post/694784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694784)
-- [Оптимизация и кастомизация запросов с использованием Spring Cache и Scope Bean](https://habr.com/ru/post/694768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694768)
-- [[Перевод] Исключения из принципа YAGNI](https://habr.com/ru/post/694736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
