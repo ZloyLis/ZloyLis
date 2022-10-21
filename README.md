@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Слайдерный дядька из нулевых. На что способен кнопочный смартфон из 2005](https://habr.com/ru/post/694796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694796)
 - [99 советов геймдизайнеру — Часть 1](https://habr.com/ru/post/694784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694784)
 - [Оптимизация и кастомизация запросов с использованием Spring Cache и Scope Bean](https://habr.com/ru/post/694768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694768)
 - [[Перевод] Исключения из принципа YAGNI](https://habr.com/ru/post/694736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694736)
 - [Распространяй и властвуй: приглашаем на открытый Frontend Meetup](https://habr.com/ru/post/693438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693438)
-- [Чем занимается AppSec?](https://habr.com/ru/post/694522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
