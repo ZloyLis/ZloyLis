@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему гипотеза Коллатца верна](https://habr.com/ru/post/694870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694870)
 - [Пошаговая GDB отладка ARM процессора из консоли в Win10](https://habr.com/ru/post/694708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694708)
 - [Пишем собственный ColorWheel на основе представления &lpar;View&rpar; в Android](https://habr.com/ru/post/694852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694852)
 - [Внутренний мир: Project Reactor](https://habr.com/ru/post/694850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694850)
 - [[Перевод] Семь грехов численной линейной алгебры](https://habr.com/ru/post/693330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693330)
-- [Детские курсы по программированию: как удержать интерес ребенка?](https://habr.com/ru/post/694842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
