@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем Groovy скрипты](https://habr.com/ru/post/694878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694878)
 - [Создание REST aсtivity &lpar;действий&rpar; Битрикс24 с приложением-встройкой для препроцессинга параметров](https://habr.com/ru/post/694874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694874)
 - [Почему гипотеза Коллатца верна](https://habr.com/ru/post/694870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694870)
 - [Пошаговая GDB отладка ARM процессора из консоли в Win10](https://habr.com/ru/post/694708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694708)
 - [Пишем собственный ColorWheel на основе представления &lpar;View&rpar; в Android](https://habr.com/ru/post/694852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694852)
-- [Внутренний мир: Project Reactor](https://habr.com/ru/post/694850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
