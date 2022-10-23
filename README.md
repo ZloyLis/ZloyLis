@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ЛИЗИНГ ИТ ПРОЕКТОВ. РАБСТВО ИЛИ БЛАГО](https://habr.com/ru/post/694950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694950)
 - [iOS: Навигация по-новому](https://habr.com/ru/post/694946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694946)
 - [IT не уникально](https://habr.com/ru/post/694928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694928)
 - [Какие стартапы ждут инвесторы в новом году? 10 трендов стратегических технологий 2023](https://habr.com/ru/post/694932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694932)
 - [Передача цифровых данных по рации с помощью мобильного приложения. Часть 1](https://habr.com/ru/post/694916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694916)
-- [Как стиральная машина управляет двигателем. Часть I — подключение двигателя и алгоритм стабилизации](https://habr.com/ru/post/694892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
