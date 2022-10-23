@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Реализуем Frey-Rück Attack чтобы получить секретный ключ “K” &lpar;NONCE&rpar;](https://habr.com/ru/post/694122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694122)
 - [Мой первый компьютер](https://habr.com/ru/post/694966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694966)
 - [Motorola Milestone — один из первых Android смартфонов](https://habr.com/ru/post/694962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694962)
 - [iOS: Навигация по-новому](https://habr.com/ru/post/694946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694946)
 - [IT не уникально](https://habr.com/ru/post/694928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694928)
-- [Какие стартапы ждут инвесторы в новом году? 10 трендов стратегических технологий 2023](https://habr.com/ru/post/694932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
