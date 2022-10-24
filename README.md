@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс практикум, отзыв мазохиста. Курс Аналитик данных](https://habr.com/ru/post/695136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695136)
+- [Откуда возникает TransactionTooLargeException, если я ничего такого не делал?](https://habr.com/ru/post/694746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694746)
 - [Open Source для MLOps: сравнение популярных решений](https://habr.com/ru/post/694482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694482)
 - [[recovery mode] Пайплайн gitlab для Spring REST приложения. Часть 1](https://habr.com/ru/post/695044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695044)
 - [Next.js v13. Что нового и чего ждать в будущем](https://habr.com/ru/post/695080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695080)
-- [Next.js Layout RFC. Изменить всё и сделать веб ещё быстрее](https://habr.com/ru/post/695076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695076)
-- [HTC HD2 — один из последних девайсов на WM](https://habr.com/ru/post/695100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
