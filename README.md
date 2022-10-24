@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем код без NPE. Настройка Intellij Idea](https://habr.com/ru/post/695004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695004)
 - [Как составить базу знаний &lpar;Как не умереть в море обучающих материалов &rpar;](https://habr.com/ru/post/695002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695002)
 - [Установка кастомных прошивок. Root-права и Magisk](https://habr.com/ru/post/695000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695000)
 - [Аналитика и нотификации для iOS](https://habr.com/ru/post/694990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694990)
 - [Эмбарго на A-GPS или почему смартфоны стали плохо определять местоположение](https://habr.com/ru/post/694984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694984)
-- [[recovery mode] Реализуем Frey-Rück Attack чтобы получить секретный ключ “K” &lpar;NONCE&rpar;](https://habr.com/ru/post/694122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
