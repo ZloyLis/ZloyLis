@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 no-code-платформ, на которые стоит обратить внимание в 2022 году](https://habr.com/ru/post/695088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695088)
+- [React tips for faster development at scale](https://habr.com/ru/post/694896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694896)
+- [[recovery mode] Обзор 8 пакета санкций ЕС против России от 06.10.2022 в отношении криптовалютной и ИТ-деятельности россиян](https://habr.com/ru/post/695082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695082)
 - [Сохраняем состояние страницы после авторизации VK с помощью Broadcast API](https://habr.com/ru/post/694762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694762)
 - [Дайджест недели от Apple Pro Weekly News &lpar;17.10 – 23.10.22&rpar;](https://habr.com/ru/post/695008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695008)
-- [«А у нас сиеста!» или как ресторану обрабатывать звонки клиентов с помощью API](https://habr.com/ru/post/692726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692726)
-- [Дайджест интересных материалов для мобильного разработчика #462 &lpar;17 — 23 октября&rpar;](https://habr.com/ru/post/695010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695010)
-- [Пишем код без NPE. Настройка Intellij Idea](https://habr.com/ru/post/695004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
