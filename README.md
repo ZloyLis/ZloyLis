@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Layout RFC. Изменить всё и сделать веб ещё быстрее](https://habr.com/ru/post/695076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695076)
+- [HTC HD2 — один из последних девайсов на WM](https://habr.com/ru/post/695100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695100)
+- [Работа с геоданными в Go: как обойти ограничения OpenStreetMaps](https://habr.com/ru/post/695098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695098)
 - [5 no-code-платформ, на которые стоит обратить внимание в 2022 году](https://habr.com/ru/post/695088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695088)
-- [React tips for faster development at scale](https://habr.com/ru/post/694896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694896)
-- [[recovery mode] Обзор 8 пакета санкций ЕС против России от 06.10.2022 в отношении криптовалютной и ИТ-деятельности россиян](https://habr.com/ru/post/695082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695082)
-- [Сохраняем состояние страницы после авторизации VK с помощью Broadcast API](https://habr.com/ru/post/694762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694762)
-- [Дайджест недели от Apple Pro Weekly News &lpar;17.10 – 23.10.22&rpar;](https://habr.com/ru/post/695008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695008)
+- [Приключения онлайн-кинотеатра Premier в Android TV, или Как мы javascript внедряли](https://habr.com/ru/post/694998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
