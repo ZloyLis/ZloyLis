@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source для MLOps: сравнение популярных решений](https://habr.com/ru/post/694482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694482)
+- [[recovery mode] Пайплайн gitlab для Spring REST приложения. Часть 1](https://habr.com/ru/post/695044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695044)
+- [Next.js v13. Что нового и чего ждать в будущем](https://habr.com/ru/post/695080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695080)
 - [Next.js Layout RFC. Изменить всё и сделать веб ещё быстрее](https://habr.com/ru/post/695076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695076)
 - [HTC HD2 — один из последних девайсов на WM](https://habr.com/ru/post/695100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695100)
-- [Работа с геоданными в Go: как обойти ограничения OpenStreetMaps](https://habr.com/ru/post/695098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695098)
-- [5 no-code-платформ, на которые стоит обратить внимание в 2022 году](https://habr.com/ru/post/695088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695088)
-- [Приключения онлайн-кинотеатра Premier в Android TV, или Как мы javascript внедряли](https://habr.com/ru/post/694998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
