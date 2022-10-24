@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Security Week 2243: кража паролей с помощью тепловизора](https://habr.com/ru/post/695164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695164)
-- [Что такое «Разрешение»? Верстальщице на заметку](https://habr.com/ru/post/695168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695168)
 - [Яндекс практикум, отзыв мазохиста. Курс Аналитик данных](https://habr.com/ru/post/695136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695136)
 - [Откуда возникает TransactionTooLargeException, если я ничего такого не делал?](https://habr.com/ru/post/694746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694746)
 - [Open Source для MLOps: сравнение популярных решений](https://habr.com/ru/post/694482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694482)
+- [[recovery mode] Пайплайн gitlab для Spring REST приложения. Часть 1](https://habr.com/ru/post/695044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
