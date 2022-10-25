@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что Java-разработчикам расскажут на Joker 2022](https://habr.com/ru/post/695278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695278)
-- [Spring Data JPA: метод save и границы его применимости](https://habr.com/ru/post/695360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695360)
-- [[Перевод] Quality gates in testing](https://habr.com/ru/post/694618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694618)
-- [Синхронизация в UX-дизайне: как поддерживать единую стилистику сервисов для разных устройств](https://habr.com/ru/post/695338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695338)
-- [Оригами Оскар](https://habr.com/ru/post/695334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695334)
+- [[Перевод] Первый философ Искусственного Интеллекта](https://habr.com/ru/post/694934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694934)
+- [Лишние кирпичики карьеры?](https://habr.com/ru/post/695238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695238)
+- [Love, Spring and HTTP Bugs](https://habr.com/ru/post/695352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695352)
+- [Пишем бота на JavaScript для Minecraft &lpar;1.8-1.18&rpar; / Часть 1-9](https://habr.com/ru/post/695372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695372)
+- [Сертификаты K8S или как распутать вермишель Часть 2](https://habr.com/ru/post/695344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
