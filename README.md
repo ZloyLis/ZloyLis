@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Роли и ответственность в команде](https://habr.com/ru/post/695264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695264)
+- [Повторное использование кода с помощью React-компонентов](https://habr.com/ru/post/694774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694774)
 - [Что такое «Разрешение»?](https://habr.com/ru/post/695250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695250)
 - [Что там по автотестам на Android в 2022?](https://habr.com/ru/post/695244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695244)
 - [Security Week 2243: кража паролей с помощью тепловизора](https://habr.com/ru/post/695164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695164)
-- [Яндекс практикум, отзыв мазохиста. Курс Аналитик данных](https://habr.com/ru/post/695136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695136)
-- [Откуда возникает TransactionTooLargeException, если я ничего такого не делал?](https://habr.com/ru/post/694746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
