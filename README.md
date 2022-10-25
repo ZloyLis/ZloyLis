@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] K8s: контейнеры для продвинутых](https://habr.com/ru/post/695292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695292)
+- [Китайские LEGO-совместимые робототехнические конструкторы. На чем можно учить, когда нет официальных наборов](https://habr.com/ru/post/695444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695444)
+- [Можно ли стать аналитиком, отучившись в онлайн-школе?](https://habr.com/ru/post/695442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695442)
 - [Пишем 3D игру под Windows Mobile, ч.1](https://habr.com/ru/post/695428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695428)
 - [Примеры ошибок, которые может обнаружить PVS-Studio в коде LLVM 15.0](https://habr.com/ru/post/695426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695426)
-- [Масштабирование. Алгоритм Уменьшения и Увеличения изображения](https://habr.com/ru/post/695418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695418)
-- [[Перевод] Первый философ Искусственного Интеллекта](https://habr.com/ru/post/694934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694934)
-- [Лишние кирпичики карьеры?](https://habr.com/ru/post/695238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
