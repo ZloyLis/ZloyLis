@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синхронизация в UX-дизайне: как поддерживать единую стилистику сервисов для разных устройств](https://habr.com/ru/post/695338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695338)
+- [Оригами Оскар](https://habr.com/ru/post/695334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695334)
 - [Package-lock.json: немного о файле для идеальных деревьев](https://habr.com/ru/post/680316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680316)
 - [«Рабочие места» для цифровых кочевников: реализация фронтэнда](https://habr.com/ru/post/695200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695200)
 - [[Перевод] Как создать оптимизатор заголовков блог-постов с помощью GPT-3 и данных с Hacker News](https://habr.com/ru/post/695228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695228)
-- [nocc — распределённый компилятор для гигантских проектов на С++](https://habr.com/ru/post/694536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694536)
-- [Как работать с атомарными типами данных в C++](https://habr.com/ru/post/694284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
