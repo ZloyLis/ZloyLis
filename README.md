@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что Java-разработчикам расскажут на Joker 2022](https://habr.com/ru/post/695278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695278)
+- [Spring Data JPA: метод save и границы его применимости](https://habr.com/ru/post/695360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695360)
+- [[Перевод] Quality gates in testing](https://habr.com/ru/post/694618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694618)
 - [Синхронизация в UX-дизайне: как поддерживать единую стилистику сервисов для разных устройств](https://habr.com/ru/post/695338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695338)
 - [Оригами Оскар](https://habr.com/ru/post/695334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695334)
-- [Package-lock.json: немного о файле для идеальных деревьев](https://habr.com/ru/post/680316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680316)
-- [«Рабочие места» для цифровых кочевников: реализация фронтэнда](https://habr.com/ru/post/695200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695200)
-- [[Перевод] Как создать оптимизатор заголовков блог-постов с помощью GPT-3 и данных с Hacker News](https://habr.com/ru/post/695228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
