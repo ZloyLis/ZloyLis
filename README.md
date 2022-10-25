@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем 3D игру под Windows Mobile, ч.1](https://habr.com/ru/post/695428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695428)
+- [Примеры ошибок, которые может обнаружить PVS-Studio в коде LLVM 15.0](https://habr.com/ru/post/695426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695426)
+- [Масштабирование. Алгоритм Уменьшения и Увеличения изображения](https://habr.com/ru/post/695418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695418)
 - [[Перевод] Первый философ Искусственного Интеллекта](https://habr.com/ru/post/694934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694934)
 - [Лишние кирпичики карьеры?](https://habr.com/ru/post/695238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695238)
-- [Love, Spring and HTTP Bugs](https://habr.com/ru/post/695352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695352)
-- [Пишем бота на JavaScript для Minecraft &lpar;1.8-1.18&rpar; / Часть 1-9](https://habr.com/ru/post/695372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695372)
-- [Сертификаты K8S или как распутать вермишель Часть 2](https://habr.com/ru/post/695344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
