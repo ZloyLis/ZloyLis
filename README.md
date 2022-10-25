@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Роли и ответственность в команде](https://habr.com/ru/post/695264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695264)
-- [Повторное использование кода с помощью React-компонентов](https://habr.com/ru/post/694774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694774)
-- [Что такое «Разрешение»?](https://habr.com/ru/post/695250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695250)
-- [Что там по автотестам на Android в 2022?](https://habr.com/ru/post/695244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695244)
-- [Security Week 2243: кража паролей с помощью тепловизора](https://habr.com/ru/post/695164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695164)
+- [[Перевод] Как создать оптимизатор заголовков блог-постов с помощью GPT-3 и данных с Hacker News](https://habr.com/ru/post/695228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695228)
+- [nocc — распределённый компилятор для гигантских проектов на С++](https://habr.com/ru/post/694536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694536)
+- [Как работать с атомарными типами данных в C++](https://habr.com/ru/post/694284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694284)
+- [Создание кастомных чатов с помощью Firebase Realtime database](https://habr.com/ru/post/695296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695296)
+- [OpenSource на завтрак](https://habr.com/ru/post/694510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
