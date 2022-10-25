@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Дедлайн» – роман про управление проектам, хозяйке на заметку](https://habr.com/ru/post/695486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695486)
 - [[Перевод] K8s: контейнеры для продвинутых](https://habr.com/ru/post/695292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695292)
 - [Китайские LEGO-совместимые робототехнические конструкторы. На чем можно учить, когда нет официальных наборов](https://habr.com/ru/post/695444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695444)
 - [Можно ли стать аналитиком, отучившись в онлайн-школе?](https://habr.com/ru/post/695442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695442)
 - [Пишем 3D игру под Windows Mobile, ч.1](https://habr.com/ru/post/695428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695428)
-- [Примеры ошибок, которые может обнаружить PVS-Studio в коде LLVM 15.0](https://habr.com/ru/post/695426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
