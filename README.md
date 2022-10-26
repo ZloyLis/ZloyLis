@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация кода API клиента приложения на основе пакета dart openapi generator](https://habr.com/ru/post/695528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695528)
+- [[Перевод] Как изучение новых языков программирования помогло мне расти профессионально](https://habr.com/ru/post/695268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695268)
 - [Сколько стоит любовь в Tinder? Unit-экономика финансового отчета 2021 Match Group](https://habr.com/ru/post/695510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695510)
 - [Китайские LEGO-совместимые робототехнические конструкторы. На чем можно учить, когда нет официальных наборов](https://habr.com/ru/post/695444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695444)
 - [Можно ли стать аналитиком, отучившись в онлайн-школе?](https://habr.com/ru/post/695442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695442)
-- [Пишем 3D игру под Windows Mobile, ч.1](https://habr.com/ru/post/695428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695428)
-- [Примеры ошибок, которые может обнаружить PVS-Studio в коде LLVM 15.0](https://habr.com/ru/post/695426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
