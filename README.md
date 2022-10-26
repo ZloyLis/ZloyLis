@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать Flutter-разработчиком, или Почему кроссплатформа сейчас — это лучший выбор](https://habr.com/ru/post/695568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695568)
+- [Как превратить сайт в удобное мобильное приложение на примере интернет-банка «ВТБ Онлайн»](https://habr.com/ru/post/694260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694260)
+- [Что ждет data-инжиниринг в будущем](https://habr.com/ru/post/693126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693126)
+- [Регрессионный анализ в DataScience. Часть 2. Преобразование Бокса-Кокса. Проверка тренда и случайности](https://habr.com/ru/post/695556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695556)
 - [Генерация кода API клиента приложения на основе пакета dart openapi generator](https://habr.com/ru/post/695528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695528)
-- [[Перевод] Как изучение новых языков программирования помогло мне расти профессионально](https://habr.com/ru/post/695268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695268)
-- [Сколько стоит любовь в Tinder? Unit-экономика финансового отчета 2021 Match Group](https://habr.com/ru/post/695510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695510)
-- [Китайские LEGO-совместимые робототехнические конструкторы. На чем можно учить, когда нет официальных наборов](https://habr.com/ru/post/695444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695444)
-- [Можно ли стать аналитиком, отучившись в онлайн-школе?](https://habr.com/ru/post/695442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
