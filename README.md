@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Китай, Android и чипы RISC-V: зачем китайские компании добавляют поддержку новой архитектуры в мобильную ОС](https://habr.com/ru/post/693900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693900)
+- [Почему уходят из 1С?](https://habr.com/ru/post/695734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695734)
 - [[Перевод] Вот как ускорится JupyterLab к четвёртой версии](https://habr.com/ru/post/693336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693336)
 - [Как и зачем разрабатывать информационное обеспечение автоматизированных систем](https://habr.com/ru/post/695718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695718)
 - [Гипотеза Гольдбаха подтверждена](https://habr.com/ru/post/695492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695492)
-- [Вы уверены? Как писать тексты для экранов подтверждения](https://habr.com/ru/post/695704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695704)
-- [Хоть Android, хоть iOS: о чём расскажут на Mobius 2022 Autumn](https://habr.com/ru/post/695342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
