@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [#3 Нейронные сети для начинающих. Работа с изображениями в OpenCV. Алгоритм Canny Edge Detector](https://habr.com/ru/post/694994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694994)
+- [Как мы автоматизировали работу с Kafka: через тернии к Cruise Control](https://habr.com/ru/post/694030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694030)
 - [Отдай ребёнка дьяволу или купи мне пиво: вот, чем вы рискуете, когда используете свободное ПО](https://habr.com/ru/post/695606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695606)
 - [Экспресс до стора: как мы запускали релизный поезд](https://habr.com/ru/post/695580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695580)
 - [Как стать Flutter-разработчиком, или Почему кроссплатформа сейчас — это лучший выбор](https://habr.com/ru/post/695568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695568)
-- [Как превратить сайт в удобное мобильное приложение на примере интернет-банка «ВТБ Онлайн»](https://habr.com/ru/post/694260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694260)
-- [Что ждет data-инжиниринг в будущем](https://habr.com/ru/post/693126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
