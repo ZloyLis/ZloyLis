@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отдай ребёнка дьяволу или купи мне пиво: вот, чем вы рискуете, когда используете свободное ПО](https://habr.com/ru/post/695606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695606)
 - [Экспресс до стора: как мы запускали релизный поезд](https://habr.com/ru/post/695580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695580)
 - [Как стать Flutter-разработчиком, или Почему кроссплатформа сейчас — это лучший выбор](https://habr.com/ru/post/695568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695568)
 - [Как превратить сайт в удобное мобильное приложение на примере интернет-банка «ВТБ Онлайн»](https://habr.com/ru/post/694260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694260)
 - [Что ждет data-инжиниринг в будущем](https://habr.com/ru/post/693126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693126)
-- [Регрессионный анализ в DataScience. Часть 2. Преобразование Бокса-Кокса. Проверка тренда и случайности](https://habr.com/ru/post/695556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
