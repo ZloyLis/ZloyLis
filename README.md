@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гипотеза Гольдбаха подтверждена](https://habr.com/ru/post/695492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695492)
 - [Вы уверены? Как писать тексты для экранов подтверждения](https://habr.com/ru/post/695704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695704)
 - [Хоть Android, хоть iOS: о чём расскажут на Mobius 2022 Autumn](https://habr.com/ru/post/695342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695342)
-- [Бот для определения болезней собак. Улучшаем систему опроса](https://habr.com/ru/post/695668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695668)
+- [Бот для определения болезней собак](https://habr.com/ru/post/695668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695668)
 - [0, 1, 2, Фредди забрал Blender](https://habr.com/ru/post/695658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695658)
-- [#3 Нейронные сети для начинающих. Работа с изображениями в OpenCV. Алгоритм Canny Edge Detector](https://habr.com/ru/post/694994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
