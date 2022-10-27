@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [9 продуктов для создания дашбордов](https://habr.com/ru/post/695310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695310)
+- [Дженерики в Go: когда нужны и когда можно без них](https://habr.com/ru/post/695400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695400)
+- [Как я стал DevOps-инженером. История студента](https://habr.com/ru/post/695776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695776)
 - [Робот-кот на фестивале «НАУКА 0+»](https://habr.com/ru/post/693760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693760)
 - [Все на борт! Онбординг и адаптация новых сотрудников](https://habr.com/ru/post/695700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695700)
-- [Не только tinder вероятно знает с кем вы спите. Патент No: 0342684 A1](https://habr.com/ru/post/695740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695740)
-- [Китай, Android и чипы RISC-V: зачем китайские компании добавляют поддержку открытой архитектуры в мобильную ОС](https://habr.com/ru/post/693900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693900)
-- [Почему уходят из 1С?](https://habr.com/ru/post/695734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
