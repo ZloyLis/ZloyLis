@@ -28,9 +28,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Стайлгайд для технической документации: зачем нужен, из чего состоит, как его создавать](https://habr.com/ru/post/695804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695804)
 - [[Перевод] Следующий этап развития Веба](https://habr.com/ru/post/695798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695798)
-- [9 продуктов для создания дашбордов](https://habr.com/ru/post/695310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695310)
 - [Дженерики в Go: когда нужны и когда можно без них](https://habr.com/ru/post/695400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695400)
 - [Как я стал DevOps-инженером. История студента](https://habr.com/ru/post/695776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695776)
+- [Робот-кот на фестивале «НАУКА 0+»](https://habr.com/ru/post/693760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
