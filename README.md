@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пример как писать тесты в Yandex.Contest](https://habr.com/ru/post/696030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696030)
+- [Как в Android запрещали фоновую работу и улучшали расход батареи](https://habr.com/ru/post/693094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693094)
+- [Тактовый механизм управления DWH: как разгрести бесконечную очередь и не умереть](https://habr.com/ru/post/695416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695416)
 - [99 советов геймдизайнеру — Часть 2](https://habr.com/ru/post/696008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696008)
 - [Пять диалогов с ментором. Как улучшить процесс обучения QA-специалистов](https://habr.com/ru/post/695858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695858)
-- [[Перевод] Строим приманки для взломщиков с помощью vcluster и Falco. Эпизод I](https://habr.com/ru/post/695390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695390)
-- [TypeScript 4.9: что нас ожидает](https://habr.com/ru/post/695900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695900)
-- [Обзор старой книги про ICONIX](https://habr.com/ru/post/695980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
