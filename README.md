@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native is better than Flutter*](https://habr.com/ru/post/696148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696148)
 - [Как кастомизировать UI артефакты для Selenide + Selenoid + Allure &lpar;with TestOPS&rpar;](https://habr.com/ru/post/696140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696140)
 - [Как мы ведем требования к ПО: формализация](https://habr.com/ru/post/694864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694864)
 - [Полезные плагины VS Code для разработки кроссплатформенных приложений с использованием React Native и Flutter](https://habr.com/ru/post/696128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696128)
 - [Создаём асинхронный Fluent API](https://habr.com/ru/post/695966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695966)
-- [Как мы баг в PVS-Studio искали или 278 Гигабайтов логов](https://habr.com/ru/post/696108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
