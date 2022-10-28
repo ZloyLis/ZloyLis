@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор старой книги про ICONIX](https://habr.com/ru/post/695980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695980)
 - [О чём расскажут на HolyJS 2022 Autumn](https://habr.com/ru/post/695654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695654)
 - [Как фронтендерам общаться с дизайнерами: топ-3 практик](https://habr.com/ru/post/695646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695646)
 - [SiteWatcher — наблюдаем за изменениями на страницах сайтов](https://habr.com/ru/post/695842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695842)
 - [Стайлгайд для технической документации: зачем нужен, из чего состоит, как его создавать](https://habr.com/ru/post/695804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695804)
-- [[Перевод] Следующий этап развития Веба](https://habr.com/ru/post/695798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
