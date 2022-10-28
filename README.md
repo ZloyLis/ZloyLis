@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что учесть при разработке интеграций информационных систем](https://habr.com/ru/post/696102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696102)
+- [Алгоритмы для веб-разработчиков простыми словами &lpar;часть 3&rpar;](https://habr.com/ru/post/696054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696054)
+- [Пайплайн для Spring REST приложения. Часть 2](https://habr.com/ru/post/695040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695040)
+- [Yamal Dev Conf — Север, дикий дубак и ИТ &lpar;5 и 6 ноября&rpar;](https://habr.com/ru/post/696050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696050)
 - [Как мы “побеждали” в хакатоне по машинному обучению Data Product Hack](https://habr.com/ru/post/696056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696056)
-- [Всем выйти из сумрака: как добавить тень для кнопки на Android](https://habr.com/ru/post/696006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696006)
-- [[Перевод] Анатомия ошибки в JavaScript](https://habr.com/ru/post/695890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695890)
-- [Пример как писать тесты в Yandex.Contest](https://habr.com/ru/post/696030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696030)
-- [Как в Android запрещали фоновую работу и улучшали расход батареи](https://habr.com/ru/post/693094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
