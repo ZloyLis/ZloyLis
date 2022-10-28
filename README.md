@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы “побеждали” в хакатоне по машинному обучению Data Product Hack](https://habr.com/ru/post/696056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696056)
+- [Всем выйти из сумрака: как добавить тень для кнопки на Android](https://habr.com/ru/post/696006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696006)
+- [[Перевод] Анатомия ошибки в JavaScript](https://habr.com/ru/post/695890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695890)
 - [Пример как писать тесты в Yandex.Contest](https://habr.com/ru/post/696030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696030)
 - [Как в Android запрещали фоновую работу и улучшали расход батареи](https://habr.com/ru/post/693094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693094)
-- [Тактовый механизм управления DWH: как разгрести бесконечную очередь и не умереть](https://habr.com/ru/post/695416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695416)
-- [99 советов геймдизайнеру — Часть 2](https://habr.com/ru/post/696008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696008)
-- [Пять диалогов с ментором. Как улучшить процесс обучения QA-специалистов](https://habr.com/ru/post/695858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
