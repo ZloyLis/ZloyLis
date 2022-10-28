@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [99 советов геймдизайнеру — Часть 2](https://habr.com/ru/post/696008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696008)
+- [Пять диалогов с ментором. Как улучшить процесс обучения QA-специалистов](https://habr.com/ru/post/695858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695858)
 - [[Перевод] Строим приманки для взломщиков с помощью vcluster и Falco. Эпизод I](https://habr.com/ru/post/695390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695390)
 - [TypeScript 4.9: что нас ожидает](https://habr.com/ru/post/695900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695900)
 - [Обзор старой книги про ICONIX](https://habr.com/ru/post/695980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695980)
-- [О чём расскажут на HolyJS 2022 Autumn](https://habr.com/ru/post/695654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695654)
-- [Как фронтендерам общаться с дизайнерами: топ-3 практик](https://habr.com/ru/post/695646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
