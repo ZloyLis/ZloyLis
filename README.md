@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём асинхронный Fluent API](https://habr.com/ru/post/695966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695966)
+- [Как мы баг в PVS-Studio искали или 278 Гигабайтов логов](https://habr.com/ru/post/696108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696108)
 - [Что учесть при разработке интеграций информационных систем](https://habr.com/ru/post/696102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696102)
 - [Алгоритмы для веб-разработчиков простыми словами &lpar;часть 3&rpar;](https://habr.com/ru/post/696054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696054)
 - [Пайплайн для Spring REST приложения. Часть 2](https://habr.com/ru/post/695040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695040)
-- [Yamal Dev Conf — Север, дикий дубак и ИТ &lpar;5 и 6 ноября&rpar;](https://habr.com/ru/post/696050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696050)
-- [Как мы “побеждали” в хакатоне по машинному обучению Data Product Hack](https://habr.com/ru/post/696056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
