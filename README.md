@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket ориентированое Api на Nest.js](https://habr.com/ru/post/696252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696252)
 - [Притча о семи с половиной языках](https://habr.com/ru/post/696246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696246)
-- [Ищем значение числа Пи используя генератор случайных значений](https://habr.com/ru/post/696244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696244)
+- [Ищем значение числа Пи, используя генератор случайных значений](https://habr.com/ru/post/696244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696244)
 - [Был телефон, а стал классным плеером. Sony Xperia U, почему я сонибой в немного другой сфере?](https://habr.com/ru/post/696242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696242)
 - [Немного о WebEngine — low-code IDE для разработки современных веб-приложений](https://habr.com/ru/post/696186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696186)
-- [ОС ToaruOS, написанная с нуля, взрослеет: на что способна экспериментальная операционная система год спустя](https://habr.com/ru/post/693124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
