@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Был телефон, а стал классным плеером. Sony Xperia U, почему я сонибой в немного другой сфере?](https://habr.com/ru/post/696242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696242)
 - [Немного о WebEngine — low-code IDE для разработки современных веб-приложений](https://habr.com/ru/post/696186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696186)
 - [ОС ToaruOS, написанная с нуля, взрослеет: на что способна экспериментальная операционная система год спустя](https://habr.com/ru/post/693124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693124)
 - [React Native is better than Flutter*](https://habr.com/ru/post/696148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696148)
 - [Как кастомизировать UI артефакты для Selenide + Selenoid + Allure &lpar;with TestOPS&rpar;](https://habr.com/ru/post/696140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696140)
-- [Как мы ведем требования к ПО: формализация](https://habr.com/ru/post/694864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
