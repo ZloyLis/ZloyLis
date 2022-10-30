@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Stream API #неОпятьАСнова #javaJunior #java8](https://habr.com/ru/post/693666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693666)
 - [Samsung Galaxy Ace 2 — как поживает новаторский «туз» самсунга в 2022?](https://habr.com/ru/post/696344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696344)
 - [Что делать, если твой временной ряд растёт вширь](https://habr.com/ru/post/696336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696336)
 - [Как преобразовать правило .gitignore в регулярное выражение](https://habr.com/ru/post/696330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696330)
 - [Дополненная реальность в Tilda](https://habr.com/ru/post/696300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696300)
-- [JavaScript: Zoom как в картах для SVG/HTML](https://habr.com/ru/post/696266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
