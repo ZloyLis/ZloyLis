@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дополненная реальность в Tilda](https://habr.com/ru/post/696300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696300)
 - [JavaScript: Zoom как в картах для SVG/HTML](https://habr.com/ru/post/696266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696266)
 - [WebSocket ориентированое Api на Nest.js](https://habr.com/ru/post/696252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696252)
 - [Притча о семи с половиной языках](https://habr.com/ru/post/696246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696246)
 - [Ищем значение числа Пи, используя генератор случайных значений](https://habr.com/ru/post/696244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696244)
-- [Был телефон, а стал классным плеером. Sony Xperia U, почему я сонибой в немного другой сфере?](https://habr.com/ru/post/696242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
