@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить большое мобильное приложение в проекте… который был уже несколько раз потрачен до тебя](https://habr.com/ru/post/696388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696388)
 - [К AGI через фрактальную адаптацию структуры](https://habr.com/ru/post/696384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696384)
 - [[Перевод] Гвидо ван Россум. Размышления о классе asyncio.Semaphore](https://habr.com/ru/post/693342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693342)
 - [[Перевод] Программисты-экстремисты](https://habr.com/ru/post/696372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696372)
 - [Пожилое яблоко. На что способен iPhone 3GS 2009 года выпуска в 2022?](https://habr.com/ru/post/696354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696354)
-- [Запуск сервера сборки Jenkins](https://habr.com/ru/post/695978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
