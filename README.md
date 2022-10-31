@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мои проблемы с памятью привели к созданию синтаксиса, который невозможно забыть](https://habr.com/ru/post/696654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696654)
+- [Дайджест недели от Apple Pro Weekly News &lpar;24.10 – 30.10.22&rpar;](https://habr.com/ru/post/696652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696652)
+- [[Перевод] Как аккуратно записать гифку с консоли](https://habr.com/ru/post/696564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696564)
 - [Как я подключил Sign in with Apple — Apple авторизацию. Подробный гайд](https://habr.com/ru/post/696646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696646)
 - [Топ-50 онлайн-ресурсов для обучения детей основам программирования на Python](https://habr.com/ru/post/696634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696634)
-- [Окружен, но не сломлен. Музыкальная Nokia конца нулевых прямиком из мусорки](https://habr.com/ru/post/696626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696626)
-- [Падающие проды, соискатели-мошенники, нейросети: собрали страхи разработчиков](https://habr.com/ru/post/696604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696604)
-- [Обход граблей в процессе согласования требований](https://habr.com/ru/post/696462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
