@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Окружен, но не сломлен. Музыкальная Nokia конца нулевых прямиком из мусорки](https://habr.com/ru/post/696626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696626)
 - [Падающие проды, соискатели-мошенники, нейросети: собрали страхи разработчиков](https://habr.com/ru/post/696604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696604)
 - [Обход граблей в процессе согласования требований](https://habr.com/ru/post/696462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696462)
 - [ОС Аврора 4.0.2 для разработчиков: обзор и примеры исходного кода](https://habr.com/ru/post/696574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696574)
 - [JavaScript в связке с Selenium WebDriver. Опыт использования](https://habr.com/ru/post/696446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696446)
-- [Security Week 2244: расследование фишинговой атаки на Twilio](https://habr.com/ru/post/696558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
