@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Падающие проды, соискатели-мошенники, нейросети: собрали страхи разработчиков](https://habr.com/ru/post/696604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696604)
+- [Обход граблей в процессе согласования требований](https://habr.com/ru/post/696462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696462)
 - [ОС Аврора 4.0.2 для разработчиков: обзор и примеры исходного кода](https://habr.com/ru/post/696574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696574)
 - [JavaScript в связке с Selenium WebDriver. Опыт использования](https://habr.com/ru/post/696446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696446)
 - [Security Week 2244: расследование фишинговой атаки на Twilio](https://habr.com/ru/post/696558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696558)
-- [Не путаем требования и модели решений или что все-таки разрабатывает аналитик](https://habr.com/ru/post/696562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696562)
-- [8 Популярных программ и сервисов для дизайна. Что выбрать?](https://habr.com/ru/post/696552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
