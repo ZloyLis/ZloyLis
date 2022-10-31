@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Курсов будет недостаточно: как гуманитарию стать разработчиком](https://habr.com/ru/post/696488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696488)
 - [ИИ проектирует GUI: первые шаги](https://habr.com/ru/post/696474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696474)
 - [ОС Аврора 4.0.2 для разработчиков: обзор и примеры исходного кода](https://habr.com/ru/post/696482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696482)
 - [Апгрейд системы мониторинга для банка: как мы заменили legacy-систему на современное Web-приложение за 9 месяцев](https://habr.com/ru/post/696470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696470)
 - [Какая она, «семёрка»? Обзор возможностей Pixel 7 от Google, его разборка и оценка ремонтопригодности](https://habr.com/ru/post/696464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696464)
-- [Вижу цель: три решения задачи по созданию предсказательной ML-модели](https://habr.com/ru/post/695564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
