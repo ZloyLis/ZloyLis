@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не путаем требования и модели решений или что все-таки разрабатывает аналитик](https://habr.com/ru/post/696562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696562)
+- [8 Популярных программ и сервисов для дизайна. Что выбрать?](https://habr.com/ru/post/696552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696552)
 - [Как мы побеждаем проблемы роста команды на примере третьих «Героев»](https://habr.com/ru/post/696542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696542)
 - [[Перевод] Как использовать QueryParamsHandling в Angular](https://habr.com/ru/post/696072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696072)
 - [Построение сложных маршрутов в Apache Camel с помощью компонента Direct](https://habr.com/ru/post/696530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696530)
-- [Курсов будет недостаточно: как гуманитарию стать разработчиком](https://habr.com/ru/post/696488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696488)
-- [ИИ проектирует GUI: первые шаги](https://habr.com/ru/post/696474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
