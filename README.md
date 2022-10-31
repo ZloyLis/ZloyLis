@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Историческое решение Netflix — введение карьерных уровней для инженеров-программистов](https://habr.com/ru/post/695572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695572)
+- [Как не отказаться от тестирования фича-веток при переходе на микросервисы](https://habr.com/ru/post/696112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696112)
 - [Учет обратной совместимости для самых маленьких](https://habr.com/ru/post/696436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696436)
 - [Крик души 1С-ника &lpar;в разрезе, масштаб 1:1&rpar;](https://habr.com/ru/post/696082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696082)
 - [Дайджест интересных материалов для мобильного разработчика #463 &lpar;24 — 30 октября&rpar;](https://habr.com/ru/post/696392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696392)
-- [Как построить большое мобильное приложение в проекте… который был уже несколько раз потрачен до тебя](https://habr.com/ru/post/696388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696388)
-- [К AGI через фрактальную адаптацию структуры](https://habr.com/ru/post/696384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
