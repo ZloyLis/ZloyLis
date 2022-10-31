@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ проектирует GUI: первые шаги](https://habr.com/ru/post/696474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696474)
+- [ОС Аврора 4.0.2 для разработчиков: обзор и примеры исходного кода](https://habr.com/ru/post/696482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696482)
 - [Апгрейд системы мониторинга для банка: как мы заменили legacy-систему на современное Web-приложение за 9 месяцев](https://habr.com/ru/post/696470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696470)
 - [Какая она, «семёрка»? Обзор возможностей Pixel 7 от Google, его разборка и оценка ремонтопригодности](https://habr.com/ru/post/696464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696464)
 - [Вижу цель: три решения задачи по созданию предсказательной ML-модели](https://habr.com/ru/post/695564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695564)
-- [Цифровые робингуды, или Кто и как зарабатывает на поиске уязвимостей](https://habr.com/ru/post/696454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696454)
-- [[Перевод] Историческое решение Netflix — введение карьерных уровней для инженеров-программистов](https://habr.com/ru/post/695572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
