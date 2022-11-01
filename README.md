@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы наш большой проект на KPHP мигрировали](https://habr.com/ru/post/686496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686496)
+- [Учимся настраивать свою почту, не наступая на чужие грабли: Postfix + msmtp + сайт](https://habr.com/ru/post/696726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696726)
+- [Elm – забава или серьёзный инструмент?](https://habr.com/ru/post/696718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696718)
 - [Как составить индивидуальный план развития](https://habr.com/ru/post/696702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696702)
 - [Что такое клиринг, как он работает и реализован на примере платёжной системы «Мир»](https://habr.com/ru/post/695262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695262)
 - [Подборка расширений для разработчиков](https://habr.com/ru/post/696686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696686)
-- [Дегустация Argo Rollouts: обзор решения, часть 1](https://habr.com/ru/post/695242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
