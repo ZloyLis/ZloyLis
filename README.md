@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Использование OAuth в интеграции API с помощью Python, REST и HL7 FHIR](https://habr.com/ru/post/696906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696906)
 - [[Перевод] Перерождение Lerna. Что нового в Lerna 6?](https://habr.com/ru/post/696770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696770)
 - [PostgreSQL, что в логе твоем?](https://habr.com/ru/post/696804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696804)
 - [Пишем игру под мобилки, ч.2. Масштабируемый UI, порт на Android, геймплей](https://habr.com/ru/post/696822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696822)
 - [История о том, как мы монолит с .NET Framework на .NET 6 и Kubernetes переводили](https://habr.com/ru/post/696522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696522)
-- [Как я остался работать в «Сириусе»](https://habr.com/ru/post/696772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
