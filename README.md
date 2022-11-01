@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как определять пользовательские намерения, о которых мы узнали 5 минут назад](https://habr.com/ru/post/696756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696756)
+- [[Перевод] Bottom Sheet API в SwiftUI](https://habr.com/ru/post/696752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696752)
 - [Учимся настраивать свою почту, не наступая на чужие грабли: Postfix + msmtp + сайт](https://habr.com/ru/post/696726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696726)
 - [Elm – забава или серьёзный инструмент?](https://habr.com/ru/post/696718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696718)
 - [Как составить индивидуальный план развития](https://habr.com/ru/post/696702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696702)
-- [Что такое клиринг, как он работает и реализован на примере платёжной системы «Мир»](https://habr.com/ru/post/695262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695262)
-- [Подборка расширений для разработчиков](https://habr.com/ru/post/696686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
