@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я остался работать с «Сириусе»](https://habr.com/ru/post/696772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696772)
+- [[Перевод] Новые возможности Angular 14 изменят ваш код](https://habr.com/ru/post/696746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696746)
+- [Не трогай это](https://habr.com/ru/post/696760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696760)
 - [Как определять пользовательские намерения, о которых мы узнали 5 минут назад](https://habr.com/ru/post/696756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696756)
 - [[Перевод] Bottom Sheet API в SwiftUI](https://habr.com/ru/post/696752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696752)
-- [Учимся настраивать свою почту, не наступая на чужие грабли: Postfix + msmtp + сайт](https://habr.com/ru/post/696726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696726)
-- [Elm – забава или серьёзный инструмент?](https://habr.com/ru/post/696718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696718)
-- [Как составить индивидуальный план развития](https://habr.com/ru/post/696702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
