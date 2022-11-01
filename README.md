@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL, что в логе твоем?](https://habr.com/ru/post/696804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696804)
 - [Пишем игру под мобилки, ч.2. Масштабируемый UI, порт на Android, геймплей](https://habr.com/ru/post/696822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696822)
 - [История о том, как мы монолит с .NET Framework на .NET 6 и Kubernetes переводили](https://habr.com/ru/post/696522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696522)
 - [Как я остался работать в «Сириусе»](https://habr.com/ru/post/696772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696772)
 - [[Перевод] Новые возможности Angular 14 изменят ваш код](https://habr.com/ru/post/696746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696746)
-- [Не трогай это](https://habr.com/ru/post/696760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
