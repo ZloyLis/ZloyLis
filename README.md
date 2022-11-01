@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое клиринг, как он работает и реализован на примере платёжной системы «Мир»](https://habr.com/ru/post/695262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695262)
+- [Подборка расширений для разработчиков](https://habr.com/ru/post/696686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696686)
 - [Дегустация Argo Rollouts: обзор решения, часть 1](https://habr.com/ru/post/695242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695242)
 - [Почему массивы начинаются с нуля](https://habr.com/ru/post/696666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696666)
 - [Туториал: Frontity — настройка авторизации для приватных эндпоинтов WordPress](https://habr.com/ru/post/696650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696650)
-- [Как мои проблемы с памятью привели к созданию синтаксиса, который невозможно забыть](https://habr.com/ru/post/696654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696654)
-- [Дайджест недели от Apple Pro Weekly News &lpar;24.10 – 30.10.22&rpar;](https://habr.com/ru/post/696652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
