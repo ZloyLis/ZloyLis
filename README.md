@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как подготовиться к собеседованию в Samsung Advanced Computing Lab](https://habr.com/ru/post/693568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693568)
+- [О Dependency Injection в Magento 2](https://habr.com/ru/post/697140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697140)
 - [Используем делегаты в android-приложениях](https://habr.com/ru/post/696162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696162)
 - [Security, Cloud с JWT и WebFlux](https://habr.com/ru/post/697098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697098)
 - [Какую математику сегодня проверяют работодатели при найме Data Analysts &amp;amp; Scientists](https://habr.com/ru/post/697092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697092)
