@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Создание Telegram бота на PHP #1: основные понятия для работы с API](https://habr.com/ru/post/696864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696864)
+- [Трудности в определении пользователя ИС: советы начинающим аналитикам](https://habr.com/ru/post/697066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697066)
+- [Магазин приложений RuStore: зачем он нужен и чем полезен](https://habr.com/ru/post/696976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696976)
 - [Ближе к ядру: как мы создавали кастомные пользовательские поля в Битрикс](https://habr.com/ru/post/697050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697050)
 - [[Перевод] Swift Combine мертв?](https://habr.com/ru/post/696984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696984)
-- [Чек-лист переезда в K8s](https://habr.com/ru/post/696418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696418)
-- [Чего ждут коллеги разных уровней от тимлида](https://habr.com/ru/post/696098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696098)
-- [Первая Робопрактика для frontend-разработчиков: как это было](https://habr.com/ru/post/696970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
