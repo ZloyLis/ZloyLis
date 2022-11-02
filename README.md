@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подготовиться к собеседованию в Samsung Advanced Computing Lab](https://habr.com/ru/post/693568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693568)
 - [Используем делегаты в android-приложениях](https://habr.com/ru/post/696162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696162)
 - [Security, Cloud с JWT и WebFlux](https://habr.com/ru/post/697098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697098)
 - [Какую математику сегодня проверяют работодатели при найме Data Analysts &amp;amp; Scientists](https://habr.com/ru/post/697092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697092)
 - [Почему API приложениям нужен дизайн гайдлайн: рассказываем, показываем и делимся своим](https://habr.com/ru/post/697070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697070)
-- [Внутренние факторы ранжирования страницы сайта для копирайтера-подрядчика: теги, дизайн и тексты](https://habr.com/ru/post/697088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
