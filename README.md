@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ближе к ядру: как мы создавали кастомные пользовательские поля в Битрикс](https://habr.com/ru/post/697050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697050)
 - [[Перевод] Swift Combine мертв?](https://habr.com/ru/post/696984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696984)
 - [Чек-лист переезда в K8s](https://habr.com/ru/post/696418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696418)
 - [Чего ждут коллеги разных уровней от тимлида](https://habr.com/ru/post/696098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696098)
 - [Первая Робопрактика для frontend-разработчиков: как это было](https://habr.com/ru/post/696970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696970)
-- [Еще раз о сфере Блоха и, возможно, ее неправильном изображении в википедии, некоторых сайтах, книгах и статьях](https://habr.com/ru/post/696966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
