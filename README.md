@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Создание Telegram бота на PHP #1: основные понятия для работы с API](https://habr.com/ru/post/696864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696864)
-- [Трудности в определении пользователя ИС: советы начинающим аналитикам](https://habr.com/ru/post/697066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697066)
-- [Магазин приложений RuStore: зачем он нужен и чем полезен](https://habr.com/ru/post/696976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696976)
-- [Ближе к ядру: как мы создавали кастомные пользовательские поля в Битрикс](https://habr.com/ru/post/697050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697050)
-- [[Перевод] Swift Combine мертв?](https://habr.com/ru/post/696984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696984)
+- [Security, Cloud с JWT и WebFlux](https://habr.com/ru/post/697098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697098)
+- [Какую математику сегодня проверяют работодатели при найме Data Analysts &amp;amp; Scientists](https://habr.com/ru/post/697092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697092)
+- [Почему API приложениям нужен дизайн гайдлайн: рассказываем, показываем и делимся своим](https://habr.com/ru/post/697070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697070)
+- [Внутренние факторы ранжирования страницы сайта для копирайтера-подрядчика: теги, дизайн и тексты](https://habr.com/ru/post/697088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697088)
+- [[Перевод] Как автоматизировать выдачу сертификатов для развертываний Kubernetes с помощью Autocert](https://habr.com/ru/post/696126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
