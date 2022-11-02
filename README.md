@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Опыт портирования геометрического ядра C3D на платформу «Эльбрус»](https://habr.com/ru/post/696740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696740)
+- [[Перевод] Swift Combine мертв?](https://habr.com/ru/post/696984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696984)
+- [Чек-лист переезда в K8s](https://habr.com/ru/post/696418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696418)
+- [Чего ждут коллеги разных уровней от тимлида](https://habr.com/ru/post/696098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696098)
 - [Первая Робопрактика для frontend-разработчиков: как это было](https://habr.com/ru/post/696970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696970)
 - [Еще раз о сфере Блоха и, возможно, ее неправильном изображении в википедии, некоторых сайтах, книгах и статьях](https://habr.com/ru/post/696966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696966)
-- [[Перевод] Иллюзорность статистической значимости](https://habr.com/ru/post/696920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696920)
-- [2+2=2, или что общего у пальм и чисел?](https://habr.com/ru/post/696912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
