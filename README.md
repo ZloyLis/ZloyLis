@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт портирования геометрического ядра C3D на платформу «Эльбрус»](https://habr.com/ru/post/696740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696740)
 - [Первая Робопрактика для frontend-разработчиков: как это было](https://habr.com/ru/post/696970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696970)
 - [Еще раз о сфере Блоха и, возможно, ее неправильном изображении в википедии, некоторых сайтах, книгах и статьях](https://habr.com/ru/post/696966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696966)
 - [[Перевод] Иллюзорность статистической значимости](https://habr.com/ru/post/696920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696920)
 - [2+2=2, или что общего у пальм и чисел?](https://habr.com/ru/post/696912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696912)
-- [[Перевод] Использование OAuth в интеграции API с помощью Python, REST и HL7 FHIR](https://habr.com/ru/post/696906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
