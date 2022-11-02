@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] systemd: как писать юниты с элегантной перезагрузкой](https://habr.com/ru/post/697152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697152)
+- [Как я в зеленом банке архитектором работал](https://habr.com/ru/post/697194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697194)
 - [«Если заинтересованы большие деньги, то возможно всё»: Максим Горшенин об «Эльбрусах» и российской микроэлектронике](https://habr.com/ru/post/697188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697188)
 - [Golang-дайджест № 22 &lpar;1 – 31 октября  2022&rpar;](https://habr.com/ru/post/697164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697164)
 - [О Dependency Injection в Magento 2](https://habr.com/ru/post/697140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697140)
-- [Используем делегаты в android-приложениях](https://habr.com/ru/post/696162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696162)
-- [Security, Cloud с JWT и WebFlux](https://habr.com/ru/post/697098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
