@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] «Устаревший» или «завершённый»? В защиту софта, который в обновлениях не нуждается](https://habr.com/ru/post/695636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695636)
+- [Создание Telegram бота на PHP #3: примеры отправки сообщений с кнопками в Telegram](https://habr.com/ru/post/697002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697002)
+- [Canary-релизы в Kubernetes на базе Ingress-NGINX Controller](https://habr.com/ru/post/697030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697030)
+- [Создание Telegram бота на PHP #2: создание первого бота для Telegram](https://habr.com/ru/post/697000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697000)
 - [Дегустация Argo Rollouts: Experiments, Analysis. Часть 2](https://habr.com/ru/post/695744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695744)
-- [Не до любви сейчас — tinder фин отчет 2Q](https://habr.com/ru/post/697210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697210)
-- [[Перевод] Принцип «Fail Fast!» в разработке приложений](https://habr.com/ru/post/697084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697084)
-- [CI/CD из GitHub в Яндекс Облако через Docker](https://habr.com/ru/post/697206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697206)
-- [[Перевод] systemd: как писать юниты с элегантной перезагрузкой](https://habr.com/ru/post/697152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
