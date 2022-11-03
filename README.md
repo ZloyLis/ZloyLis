@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Умные конструкторы для кейс-классов](https://habr.com/ru/post/697248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697248)
+- [Почему контейнеры «убьют» виртуальные машины?](https://habr.com/ru/post/696304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696304)
+- [Где искать баги фаззингом и откуда вообще появился этот метод](https://habr.com/ru/post/696724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696724)
 - [Python на максималках: расширения на языках Rust и Cython](https://habr.com/ru/post/697034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697034)
 - [Impress me или как решить задачу на интервью](https://habr.com/ru/post/697234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697234)
-- [[Перевод] «Устаревший» или «завершённый»? В защиту софта, который в обновлениях не нуждается](https://habr.com/ru/post/695636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695636)
-- [Создание Telegram бота на PHP #3: примеры отправки сообщений с кнопками в Telegram](https://habr.com/ru/post/697002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697002)
-- [Canary-релизы в Kubernetes на базе Ingress-NGINX Controller](https://habr.com/ru/post/697030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
