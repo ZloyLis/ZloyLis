@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое катастрофический возврат и как регулярное выражение может стать причиной ReDoS-уязвимости?](https://habr.com/ru/post/697294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697294)
+- [Совсем другая история: как мы проводим A/B-тесты в офлайне и чем они отличаются от классических онлайн-экспериментов](https://habr.com/ru/post/697282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697282)
 - [Как математика помогает логистике быть точнее. Опыт ПГК](https://habr.com/ru/post/697278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697278)
 - [USB 4: что это такое и почему «четвёрка» лучше всех предыдущих стандартов](https://habr.com/ru/post/697276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697276)
 - [От Single-Instance-прототипа до облачной промышленной платформы интернета вещей: как мы разрабатывали Cloud IoT Platform](https://habr.com/ru/post/697100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697100)
-- [RESTful запросы на основе паттерна «Команда»/](https://habr.com/ru/post/697262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697262)
-- [Как в Тинькофф создавали Data Catalog](https://habr.com/ru/post/697220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
