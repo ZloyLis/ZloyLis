@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как математика помогает логистике быть точнее. Опыт ПГК](https://habr.com/ru/post/697278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697278)
+- [USB 4: что это такое и почему «четвёрка» лучше всех предыдущих стандартов](https://habr.com/ru/post/697276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697276)
+- [От Single-Instance-прототипа до облачной промышленной платформы интернета вещей: как мы разрабатывали Cloud IoT Platform](https://habr.com/ru/post/697100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697100)
 - [RESTful запросы на основе паттерна «Команда»/](https://habr.com/ru/post/697262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697262)
 - [Как в Тинькофф создавали Data Catalog](https://habr.com/ru/post/697220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697220)
-- [[Перевод] Умные конструкторы для кейс-классов](https://habr.com/ru/post/697248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697248)
-- [Почему контейнеры «убьют» виртуальные машины?](https://habr.com/ru/post/696304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696304)
-- [Где искать баги фаззингом и откуда вообще появился этот метод](https://habr.com/ru/post/696724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
