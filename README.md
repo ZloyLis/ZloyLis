@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дегустация Argo Rollouts: Experiments, Analysis. Часть 2](https://habr.com/ru/post/695744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695744)
+- [Не до любви сейчас — tinder фин отчет 2Q](https://habr.com/ru/post/697210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697210)
 - [[Перевод] Принцип «Fail Fast!» в разработке приложений](https://habr.com/ru/post/697084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697084)
 - [CI/CD из GitHub в Яндекс Облако через Docker](https://habr.com/ru/post/697206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697206)
 - [[Перевод] systemd: как писать юниты с элегантной перезагрузкой](https://habr.com/ru/post/697152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697152)
-- [Как я в зеленом банке архитектором работал](https://habr.com/ru/post/697194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697194)
-- [«Если заинтересованы большие деньги, то возможно всё»: Максим Горшенин об «Эльбрусах» и российской микроэлектронике](https://habr.com/ru/post/697188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
