@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миниатюрный гигачад 2013 года. Как «обмылок» оказался одним из самых народных аппаратов — Galaxy S4 mini](https://habr.com/ru/post/697370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697370)
 - [Как начать моделировать бизнес-процессы в BPMN](https://habr.com/ru/post/697326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697326)
 - [Изобретая бота: система обработки сообщений на примере конструктора чат-бота](https://habr.com/ru/post/697024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697024)
 - [[recovery mode] Пайплайн gitlab для Spring REST приложения. Часть 3](https://habr.com/ru/post/695336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695336)
 - [[Перевод] Пришло время программистов-самоучек](https://habr.com/ru/post/697290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697290)
-- [Что такое катастрофический возврат и как регулярное выражение может стать причиной ReDoS-уязвимости?](https://habr.com/ru/post/697294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
