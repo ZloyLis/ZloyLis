@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python на максималках: расширения на языках Rust и Cython](https://habr.com/ru/post/697034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697034)
+- [Impress me или как решить задачу на интервью](https://habr.com/ru/post/697234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697234)
 - [[Перевод] «Устаревший» или «завершённый»? В защиту софта, который в обновлениях не нуждается](https://habr.com/ru/post/695636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695636)
 - [Создание Telegram бота на PHP #3: примеры отправки сообщений с кнопками в Telegram](https://habr.com/ru/post/697002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697002)
 - [Canary-релизы в Kubernetes на базе Ingress-NGINX Controller](https://habr.com/ru/post/697030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697030)
-- [Создание Telegram бота на PHP #2: создание первого бота для Telegram](https://habr.com/ru/post/697000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697000)
-- [Дегустация Argo Rollouts: Experiments, Analysis. Часть 2](https://habr.com/ru/post/695744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
