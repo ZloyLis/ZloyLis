@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать моделировать бизнес-процессы в BPMN](https://habr.com/ru/post/697326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697326)
+- [Изобретая бота: система обработки сообщений на примере конструктора чат-бота](https://habr.com/ru/post/697024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697024)
 - [[recovery mode] Пайплайн gitlab для Spring REST приложения. Часть 3](https://habr.com/ru/post/695336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695336)
 - [[Перевод] Пришло время программистов-самоучек](https://habr.com/ru/post/697290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697290)
 - [Что такое катастрофический возврат и как регулярное выражение может стать причиной ReDoS-уязвимости?](https://habr.com/ru/post/697294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697294)
-- [Совсем другая история: как мы проводим A/B-тесты в офлайне и чем они отличаются от классических онлайн-экспериментов](https://habr.com/ru/post/697282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697282)
-- [Как математика помогает логистике быть точнее. Опыт ПГК](https://habr.com/ru/post/697278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
