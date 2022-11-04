@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математика во спасение: почему рой пчел не рассыпается](https://habr.com/ru/post/697260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697260)
+- [Создание Telegram бота на PHP #4: отправка файлов и изображений в Telegram](https://habr.com/ru/post/697010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697010)
+- [[Перевод] React: все о новом предложении — хуке use&lpar;&rpar;](https://habr.com/ru/post/697414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697414)
 - [Каникулы — как мы это сделали](https://habr.com/ru/post/697380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697380)
 - [Миниатюрный гигачад 2013 года. Как «обмылок» оказался одним из самых народных аппаратов — Galaxy S4 mini](https://habr.com/ru/post/697370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697370)
-- [Как начать моделировать бизнес-процессы в BPMN](https://habr.com/ru/post/697326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697326)
-- [Изобретая бота: система обработки сообщений на примере конструктора чат-бота](https://habr.com/ru/post/697024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697024)
-- [[recovery mode] Пайплайн gitlab для Spring REST приложения. Часть 3](https://habr.com/ru/post/695336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
