@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что есть обоснование функциональных требований](https://habr.com/ru/post/697444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697444)
+- [Feature-Sliced Design: эволюция фронтенда для быстрых экспериментов](https://habr.com/ru/post/693768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693768)
 - [[Перевод] Rust 1.65.0: GAT, let-else, break от помеченных блоков, отказ от RLS](https://habr.com/ru/post/697430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697430)
 - [Как мы научили тексты на вебе жить по правилам](https://habr.com/ru/post/696544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696544)
 - [Математика во спасение: почему рой пчел не рассыпается](https://habr.com/ru/post/697260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697260)
-- [Создание Telegram бота на PHP #4: отправка файлов и изображений в Telegram](https://habr.com/ru/post/697010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697010)
-- [[Перевод] React: все о новом предложении — хуке use&lpar;&rpar;](https://habr.com/ru/post/697414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
