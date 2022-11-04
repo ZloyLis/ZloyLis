@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужна помощь от хабровчан](https://habr.com/ru/post/697488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697488)
+- [Сферический БПЛА в воздухе](https://habr.com/ru/post/697440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697440)
 - [Структурный анализ сетевой анонимности](https://habr.com/ru/post/697458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697458)
 - [[Перевод] CSS запросы к контейнерам наконец с нами](https://habr.com/ru/post/697456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697456)
 - [Что есть обоснование функциональных требований](https://habr.com/ru/post/697444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697444)
-- [Feature-Sliced Design: эволюция фронтенда для быстрых экспериментов](https://habr.com/ru/post/693768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=693768)
-- [[Перевод] Rust 1.65.0: GAT, let-else, break от помеченных блоков, отказ от RLS](https://habr.com/ru/post/697430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
