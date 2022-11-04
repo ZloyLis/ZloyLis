@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.65.0: GAT, let-else, break от помеченных блоков, отказ от RLS](https://habr.com/ru/post/697430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697430)
+- [Как мы научили тексты на вебе жить по правилам](https://habr.com/ru/post/696544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696544)
 - [Математика во спасение: почему рой пчел не рассыпается](https://habr.com/ru/post/697260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697260)
 - [Создание Telegram бота на PHP #4: отправка файлов и изображений в Telegram](https://habr.com/ru/post/697010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697010)
 - [[Перевод] React: все о новом предложении — хуке use&lpar;&rpar;](https://habr.com/ru/post/697414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697414)
-- [Каникулы — как мы это сделали](https://habr.com/ru/post/697380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697380)
-- [Миниатюрный гигачад 2013 года. Как «обмылок» оказался одним из самых народных аппаратов — Galaxy S4 mini](https://habr.com/ru/post/697370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
