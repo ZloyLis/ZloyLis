@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение расстояния Левенштейна с целью оптимизации работы склада](https://habr.com/ru/post/697614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697614)
 - [Как SKAdNetwork 4.0 дала приложениям на iOS надежду сделать рекламу чуть лучше](https://habr.com/ru/post/697610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697610)
 - [Увеличение площади полигона за счет второго полигона](https://habr.com/ru/post/697602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697602)
 - [Оптимизируем дерево отрезков, делаем из него куст o_O](https://habr.com/ru/post/697598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697598)
 - [Умный BottomNavigationView без боли: настройка нижнего меню навигации с динамической конфигурацией в Android-приложении](https://habr.com/ru/post/697578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697578)
-- [Физика вращения 3д тел](https://habr.com/ru/post/697534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
