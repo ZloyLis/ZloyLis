@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настройка jwt-username-password authentication через spring-security-oauth2-resource-server](https://habr.com/ru/post/697694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697694)
 - [2 2 2 2 = 7](https://habr.com/ru/post/697662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697662)
 - [Как сделать локальный Django-сайт доступным в Интернете / Туннели ngrok](https://habr.com/ru/post/697620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697620)
 - [Применение расстояния Левенштейна с целью оптимизации работы склада](https://habr.com/ru/post/697614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697614)
 - [Как SKAdNetwork 4.0 дала приложениям на iOS надежду сделать рекламу чуть лучше](https://habr.com/ru/post/697610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697610)
-- [Увеличение площади полигона за счет второго полигона](https://habr.com/ru/post/697602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
