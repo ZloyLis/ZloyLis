@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка полезных сервисов с применением нейронных сетей](https://habr.com/ru/post/697540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697540)
 - [Дайджест интересных материалов для мобильного разработчика #464 &lpar;31 октября — 6 ноября&rpar;](https://habr.com/ru/post/697718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697718)
 - [Зачем менять надёжный пароль? Брутфорс и энтропия](https://habr.com/ru/post/697708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697708)
 - [Настройка jwt-username-password authentication через spring-security-oauth2-resource-server](https://habr.com/ru/post/697694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697694)
 - [2 2 2 2 = 7](https://habr.com/ru/post/697662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697662)
-- [Как сделать локальный Django-сайт доступным в Интернете / Туннели ngrok](https://habr.com/ru/post/697620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
