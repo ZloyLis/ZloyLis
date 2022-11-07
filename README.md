@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GeekBrains, который мы потеряли](https://habr.com/ru/post/594329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=594329)
+- [Пайтон Джуньор Плюс, или путеводитель начинающего Python-программиста](https://habr.com/ru/post/697760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697760)
+- [Как собрать кастомную CRM с нуля на low-code платформе ozma.io](https://habr.com/ru/post/692446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692446)
+- [Имя enum&#39;a с++ в рантайме](https://habr.com/ru/post/697198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697198)
 - [Как мы сделали свое Heroku-подобное облако](https://habr.com/ru/post/697698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697698)
-- [Монорепозиторий на обед](https://habr.com/ru/post/694808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694808)
-- [Подборка полезных сервисов с применением нейронных сетей](https://habr.com/ru/post/697540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697540)
-- [Дайджест интересных материалов для мобильного разработчика #464 &lpar;31 октября — 6 ноября&rpar;](https://habr.com/ru/post/697718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697718)
-- [Зачем менять надёжный пароль? Брутфорс и энтропия](https://habr.com/ru/post/697708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
