@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я тоже Понг на JS делал](https://habr.com/ru/post/697870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697870)
+- [Релиз языка программирования NewLang 0.3](https://habr.com/ru/post/697400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697400)
+- [[Перевод] Тестирование Rust](https://habr.com/ru/post/697772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697772)
+- [Yii3 Overview 2. Вспомогательные инструменты разработки](https://habr.com/ru/post/697586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697586)
 - [[Перевод] Стоит ли использовать кастомные исключения в Python](https://habr.com/ru/post/697818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697818)
-- [iOS-митап в red_mad_robot 17 ноября](https://habr.com/ru/post/697816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697816)
-- [Объяснение паттерна Наблюдатель на примере Redux](https://habr.com/ru/post/697026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697026)
-- [[Перевод] Продвинутые принципы безопасности в Kubernetes](https://habr.com/ru/post/697806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697806)
-- [Graph Neural Networks: просто на математическом](https://habr.com/ru/post/697704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
