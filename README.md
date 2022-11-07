@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Туда и обратно: как мы пытлались отследить актуальное время в Android](https://habr.com/ru/post/695178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695178)
+- [Написать архитектуру продукта — это не сложно](https://habr.com/ru/post/668056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668056)
 - [Дайджест недели от Apple Pro Weekly News &lpar;31.10 – 06.11.22&rpar;](https://habr.com/ru/post/697932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697932)
 - [Старый код в новой обёртке — как наша команда избавлялась от legacy](https://habr.com/ru/post/697904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697904)
 - [Kotlin Extensions для Android проекта](https://habr.com/ru/post/697908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697908)
-- [Сертификаты Apple. Понимание. Что это и зачем вообще нужны?](https://habr.com/ru/post/697906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697906)
-- [Security Week 2245: утечка кода из Dropbox](https://habr.com/ru/post/697826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
