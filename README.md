@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS-митап в red_mad_robot 17 ноября](https://habr.com/ru/post/697816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697816)
+- [Объяснение паттерна Наблюдатель на примере Redux](https://habr.com/ru/post/697026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697026)
 - [[Перевод] Продвинутые принципы безопасности в Kubernetes](https://habr.com/ru/post/697806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697806)
 - [Graph Neural Networks: просто на математическом](https://habr.com/ru/post/697704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697704)
 - [Правка чужого кода](https://habr.com/ru/post/697688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697688)
-- [GeekBrains, который мы потеряли](https://habr.com/ru/post/594329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=594329)
-- [Пайтон Джуньор Плюс, или путеводитель начинающего Python-программиста](https://habr.com/ru/post/697760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
