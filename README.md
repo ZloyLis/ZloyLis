@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [API Тестирование без Postman](https://habr.com/ru/post/697968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697968)
 - [Разработка мобильных приложений на Go](https://habr.com/ru/post/698140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698140)
 - [Starting Kivy App and Service on bootup on Android](https://habr.com/ru/post/694906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694906)
 - [Публикация пакета Wolfram Language](https://habr.com/ru/post/698148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698148)
 - [Зачем в разработке Mind Maps](https://habr.com/ru/post/698128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698128)
-- [От взлома Firefox до подготовки к Апокалипсису. Как польский хакер Михал Залевски попал в «Матрицу»](https://habr.com/ru/post/695386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
