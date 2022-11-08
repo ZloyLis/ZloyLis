@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на онлайновый митап про Метавселенную, ее образы и технологии](https://habr.com/ru/post/698088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698088)
+- [Deep Dive Into Deep Link. Часть 4. Проблемы: ссылки без схемы, второй хост, перехваты всего](https://habr.com/ru/post/698094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698094)
 - [[Перевод] Какую модель памяти следует использовать в языке Rust?](https://habr.com/ru/post/697882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697882)
 - [[Перевод] Гэри Дарби, автобиография — Delphi For Fun](https://habr.com/ru/post/697954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697954)
 - [[Перевод] Микрофронтенды: микросервисы для фронтенда](https://habr.com/ru/post/697994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697994)
-- [Наедине с микросервисом — как забороть тревожность](https://habr.com/ru/post/697946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697946)
-- [Как построить матрицу компетенций с нуля](https://habr.com/ru/post/698006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
