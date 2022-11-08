@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Найти и уничтожить: как Clickhouse удаляет собственный код из памяти и переключается на использование Huge Pages](https://habr.com/ru/post/697986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697986)
+- [Оптимальный процесс разработки онлайн игр](https://habr.com/ru/post/697502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697502)
 - [[Перевод] Почему набор инструкций AVX 512 полезен для RPCS3?](https://habr.com/ru/post/697972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697972)
 - [Туда и обратно: как мы пытались отследить актуальное время в Android](https://habr.com/ru/post/695178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695178)
 - [Написать архитектуру продукта — это не сложно](https://habr.com/ru/post/668056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668056)
-- [Дайджест недели от Apple Pro Weekly News &lpar;31.10 – 06.11.22&rpar;](https://habr.com/ru/post/697932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697932)
-- [Старый код в новой обёртке — как наша команда избавлялась от legacy](https://habr.com/ru/post/697904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
