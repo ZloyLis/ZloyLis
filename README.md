@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наедине с микросервисом — как забороть тревожность](https://habr.com/ru/post/697946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697946)
+- [Как построить матрицу компетенций с нуля](https://habr.com/ru/post/698006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698006)
 - [Следим и вычисляем с Vue 3, или Как использовать watchEffect](https://habr.com/ru/post/697910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697910)
 - [[Перевод] Система типов — лучший друг программиста](https://habr.com/ru/post/697926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697926)
 - [Найти и уничтожить: как Clickhouse удаляет собственный код из памяти и переключается на использование Huge Pages](https://habr.com/ru/post/697986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697986)
-- [Оптимальный процесс разработки онлайн игр](https://habr.com/ru/post/697502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697502)
-- [[Перевод] Почему набор инструкций AVX 512 полезен для RPCS3?](https://habr.com/ru/post/697972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
