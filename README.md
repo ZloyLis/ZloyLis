@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [6 принципов автоматизации закупок, чтобы сократить затраты на 15% и более](https://habr.com/ru/post/698338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698338)
-- [Структуры данных Java #неОпятьАСнова #javaJunior](https://habr.com/ru/post/696184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696184)
-- [[recovery mode] Программная роботизация атомной отрасли – от простых роботов к сложным](https://habr.com/ru/post/698312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698312)
-- [Low-code-биллинг для частного облака](https://habr.com/ru/post/697950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697950)
-- [JavaScript: управление содержимым веб-страницы с помощью жестов](https://habr.com/ru/post/698286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698286)
+- [Мой личный опыт восстановления старых фотографий с помощью нейросетей](https://habr.com/ru/post/695962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695962)
+- [[Перевод] 3 трюка для устранения странных ошибок с дженериками](https://habr.com/ru/post/665048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665048)
+- [Как упросить жизнь за 312 коротких шагов: проектируем GraphQL API в микросервисной архитектуре](https://habr.com/ru/post/698352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698352)
+- [Как мы обучаем джунов, подходим к формированию грейдов, найму и развитию разработчиков](https://habr.com/ru/post/698348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698348)
+- [База знаний веб-разработчика: прокачиваем навыки владения CSS](https://habr.com/ru/post/698350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
