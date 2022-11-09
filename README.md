@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тонкие Тошибы: трактат о компактных ретроноутбуках](https://habr.com/ru/post/698378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698378)
+- [[Перевод] API Токийской фондовой биржи Jquants](https://habr.com/ru/post/698090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698090)
 - [Мой личный опыт восстановления старых фотографий с помощью нейросетей](https://habr.com/ru/post/695962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695962)
 - [[Перевод] 3 трюка для устранения странных ошибок с дженериками](https://habr.com/ru/post/665048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665048)
-- [Как упросить жизнь за 312 коротких шагов: проектируем GraphQL API в микросервисной архитектуре](https://habr.com/ru/post/698352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698352)
-- [Как мы обучаем джунов, подходим к формированию грейдов, найму и развитию разработчиков](https://habr.com/ru/post/698348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698348)
-- [База знаний веб-разработчика: прокачиваем навыки владения CSS](https://habr.com/ru/post/698350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698350)
+- [Как упростить жизнь за 312 коротких шагов: проектируем GraphQL API в микросервисной архитектуре](https://habr.com/ru/post/698352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
