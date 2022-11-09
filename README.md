@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вышел deno 1.27. Подробности об улучшениях под катом](https://habr.com/ru/post/697752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697752)
 - [Tester. Или почему важно, изменить свою роль в команде](https://habr.com/ru/post/698448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698448)
 - [Часть 1. История систем автоматизации](https://habr.com/ru/post/698406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698406)
 - [Добавляем список глав прямо в плеер YouTube](https://habr.com/ru/post/698344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698344)
 - [Как Apple и другие крупные компании настиг программный баг](https://habr.com/ru/post/698404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698404)
-- [Тонкие Тошибы: трактат о компактных ретроноутбуках](https://habr.com/ru/post/698378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
