@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Программная роботизация атомной отрасли – от простых роботов к сложным](https://habr.com/ru/post/698312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698312)
+- [Low-code-биллинг для частного облака](https://habr.com/ru/post/697950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697950)
+- [JavaScript: управление содержимым веб-страницы с помощью жестов](https://habr.com/ru/post/698286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698286)
 - [Как сделать удобное взаимодействие с Kotlin из Swift: обзор проблем и решений](https://habr.com/ru/post/697966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697966)
 - [Как создать пользовательский сервис на Qlik Sense](https://habr.com/ru/post/698278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698278)
-- [Что учесть в разработке супераппа. Рассказываем на примере приложения «Мой Beeline»](https://habr.com/ru/post/698072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698072)
-- [Как создать коробочное решение для Enterprise-заказчиков на примере Private Cloud](https://habr.com/ru/post/697852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697852)
-- [Как работает автозаполнение в браузерах и что важно учитывать веб-разработчику](https://habr.com/ru/post/686668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
