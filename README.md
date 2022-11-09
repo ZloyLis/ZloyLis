@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать коробочное решение для Enterprise-заказчиков на примере Private Cloud](https://habr.com/ru/post/697852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697852)
+- [Как работает автозаполнение в браузерах и что важно учитывать веб-разработчику](https://habr.com/ru/post/686668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686668)
+- [MobX с MVVM упрощает жизнь Frontend разработчика гораздо сильнее Redux&#39;а](https://habr.com/ru/post/692218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692218)
 - [[Перевод] Как обнаружить выбросы автоэнкодером?](https://habr.com/ru/post/697754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697754)
 - [Ошибки технарей, которые пишут документацию для разработчиков](https://habr.com/ru/post/698046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698046)
-- [API Тестирование без Postman](https://habr.com/ru/post/697968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697968)
-- [Разработка мобильных приложений на Go](https://habr.com/ru/post/698140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698140)
-- [Starting Kivy App and Service on bootup on Android](https://habr.com/ru/post/694906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
