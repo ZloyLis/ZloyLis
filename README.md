@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Часть 1. История систем автоматизации](https://habr.com/ru/post/698406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698406)
+- [Добавляем список глав прямо в плеер YouTube](https://habr.com/ru/post/698344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698344)
 - [Тонкие Тошибы: трактат о компактных ретроноутбуках](https://habr.com/ru/post/698378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698378)
 - [[Перевод] API Токийской фондовой биржи Jquants](https://habr.com/ru/post/698090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698090)
 - [Мой личный опыт восстановления старых фотографий с помощью нейросетей](https://habr.com/ru/post/695962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695962)
-- [[Перевод] 3 трюка для устранения странных ошибок с дженериками](https://habr.com/ru/post/665048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=665048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
