@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Как обнаружить выбросы автоэнкодером?](https://habr.com/ru/post/697754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697754)
+- [Ошибки технарей, которые пишут документацию для разработчиков](https://habr.com/ru/post/698046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698046)
 - [API Тестирование без Postman](https://habr.com/ru/post/697968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697968)
 - [Разработка мобильных приложений на Go](https://habr.com/ru/post/698140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698140)
 - [Starting Kivy App and Service on bootup on Android](https://habr.com/ru/post/694906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694906)
-- [Публикация пакета Wolfram Language](https://habr.com/ru/post/698148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
