@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Технические кружки и секции для детей: 10 ресурсов для поиска школ по отзывам](https://habr.com/ru/post/698680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698680)
 - [Личный опыт: какой уровень иностранного языка нужен для работы в IT в разных компаниях и странах](https://habr.com/ru/post/698676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698676)
 - [«Музыкальный» апельсин из нулевых. Sony Ericsson W610](https://habr.com/ru/post/698666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698666)
 - [Часть 2. Немного про ПЛК](https://habr.com/ru/post/698654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698654)
 - [«Не заставляйте меня думать»](https://habr.com/ru/post/698644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698644)
-- [Kubernetes &lpar;не&rpar; для всех](https://habr.com/ru/post/698626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
