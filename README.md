@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Музыкальный» апельсин из нулевых. Sony Ericsson W610](https://habr.com/ru/post/698666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698666)
+- [Часть 2. Немного про ПЛК](https://habr.com/ru/post/698654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698654)
 - [«Не заставляйте меня думать»](https://habr.com/ru/post/698644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698644)
 - [Kubernetes &lpar;не&rpar; для всех](https://habr.com/ru/post/698626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698626)
 - [Есть вопрос: два взгляда на анкеты-опросники от red_mad_robot для организаторов и соискателей](https://habr.com/ru/post/698588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698588)
-- [Reverse-инжиниринг “чёрного ящика”: зачем поддержке исходный код?](https://habr.com/ru/post/698576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698576)
-- [Самое подробное руководство по установке высокодоступного &lpar;почти ಠ ͜ʖ ಠ &rpar; Kubernetes-кластера](https://habr.com/ru/post/682364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
