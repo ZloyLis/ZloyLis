@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самое подробное руководство по установке высокодоступного &lpar;почти ಠ ͜ʖ ಠ &rpar; Kubernetes-кластера](https://habr.com/ru/post/682364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682364)
+- [Разбираем tableHeaderView и viewForHeaderInSection на простом приложении](https://habr.com/ru/post/698574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698574)
+- [Как битриксоиды в React уходили](https://habr.com/ru/post/698536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698536)
 - [5 лучших книг по Java для новичков и профи, на которые стоит обратить внимание в 2022 году](https://habr.com/ru/post/698546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698546)
 - [Не просто запуск контейнеров: Kubernetes для управления жизненным циклом приложения и инфраструктурой](https://habr.com/ru/post/698544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698544)
-- [Telegram Bot на службе у автоматизации тестирования. Или как, попивая чай с плюшками, запускать автотесты с телефона](https://habr.com/ru/post/698530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698530)
-- [Анализ покупок в iOS приложениях по открытым данным](https://habr.com/ru/post/698528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698528)
-- [Почему нам пришлось писать собственный оператор для логирования в Kubernetes](https://habr.com/ru/post/698526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
