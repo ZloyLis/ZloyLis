@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть вопрос: два взгляда на анкеты-опросники от red_mad_robot для организаторов и соискателей](https://habr.com/ru/post/698588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698588)
+- [Reverse-инжиниринг “чёрного ящика”: зачем поддержке исходный код?](https://habr.com/ru/post/698576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698576)
 - [Самое подробное руководство по установке высокодоступного &lpar;почти ಠ ͜ʖ ಠ &rpar; Kubernetes-кластера](https://habr.com/ru/post/682364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682364)
 - [Разбираем tableHeaderView и viewForHeaderInSection на простом приложении](https://habr.com/ru/post/698574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698574)
 - [Как битриксоиды в React уходили](https://habr.com/ru/post/698536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698536)
-- [5 лучших книг по Java для новичков и профи, на которые стоит обратить внимание в 2022 году](https://habr.com/ru/post/698546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698546)
-- [Не просто запуск контейнеров: Kubernetes для управления жизненным циклом приложения и инфраструктурой](https://habr.com/ru/post/698544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
