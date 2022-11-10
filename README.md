@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Bot на службе у автоматизации тестирования. Или как, попивая чай с плюшками, запускать автотесты с телефона](https://habr.com/ru/post/698530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698530)
+- [Анализ покупок в iOS приложениях по открытым данным](https://habr.com/ru/post/698528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698528)
+- [Почему нам пришлось писать собственный оператор для логирования в Kubernetes](https://habr.com/ru/post/698526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698526)
+- [Как построить Security Сenter для Kubernetes-платформы](https://habr.com/ru/post/679548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=679548)
 - [Хакатон «GameDev + AI»](https://habr.com/ru/post/698322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698322)
-- [Разделяй и не страдай: что выбрать для микрофронтенда?](https://habr.com/ru/post/698240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698240)
-- [[Перевод] Вышла deno 1.27. Подробности об улучшениях под катом](https://habr.com/ru/post/697752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697752)
-- [Tester. Или почему важно, изменить свою роль в команде](https://habr.com/ru/post/698448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698448)
-- [Часть 1. История систем автоматизации](https://habr.com/ru/post/698406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
