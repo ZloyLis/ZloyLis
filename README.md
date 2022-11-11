@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От OSB до Serverless](https://habr.com/ru/post/697438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697438)
+- [Как организовать локальный чемпионат по робототехнике и сделать его традиционным &lpar;vol. 4.1&rpar;](https://habr.com/ru/post/698774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698774)
 - [KasperskyOS: от абстрактной идеи к реальной системе](https://habr.com/ru/post/698678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698678)
 - [Задача Пуаро](https://habr.com/ru/post/698754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698754)
 - [Пакуем секреты правильно](https://habr.com/ru/post/698738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698738)
-- [Характеристики и описание на странице товара в интернет-магазинах: 101 гайдлайн](https://habr.com/ru/post/698728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698728)
-- [Часть 4. Немного про SCADA](https://habr.com/ru/post/698724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
