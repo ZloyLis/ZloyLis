@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему после курсов по программированию вы никому не нужны. Как найти первую работу в IT](https://habr.com/ru/post/698934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698934)
 - [Все, что вы хотели знать о времени, но боялись спросить](https://habr.com/ru/post/698930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698930)
 - [Чини опять свою Теслу сам, тыжпрограммист](https://habr.com/ru/post/698904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698904)
 - [Я купил почти новый iPhone 4 по уценке в связном за 900 рублей, спустя 10 лет. Что из этого вышло?](https://habr.com/ru/post/698900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698900)
 - [Effector — убийца Redux? Туториал с нуля. Часть 1](https://habr.com/ru/post/698880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698880)
-- [Чем различаются Kafka и RabbitMQ: простыми словами](https://habr.com/ru/post/698838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
