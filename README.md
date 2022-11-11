@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Характеристики и описание на странице товара в интернет-магазинах: 101 гайдлайн](https://habr.com/ru/post/698728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698728)
+- [Часть 4. Немного про SCADA](https://habr.com/ru/post/698724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698724)
+- [Часть 3. Мифы on-line модификации прикладного ПО ПЛК](https://habr.com/ru/post/698720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698720)
 - [Беги муравей, беги! Ремейк 2022](https://habr.com/ru/post/698694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698694)
 - [28 расширений VS Code для разработки документации](https://habr.com/ru/post/698702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698702)
-- [Технические кружки и секции для детей: 10 ресурсов для поиска школ по отзывам](https://habr.com/ru/post/698680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698680)
-- [Личный опыт: какой уровень иностранного языка нужен для работы в IT в разных компаниях и странах](https://habr.com/ru/post/698676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698676)
-- [«Музыкальный» апельсин из нулевых. Sony Ericsson W610](https://habr.com/ru/post/698666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
