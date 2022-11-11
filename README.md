@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что о системном анализе и бизнес-анализе можно будет узнать на Flow](https://habr.com/ru/post/698260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698260)
+- [Spring. Экспертное мнение о плюсах и минусах самого популярного Java-фреймворка](https://habr.com/ru/post/698780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698780)
 - [Кря-кря на день программиста: вспоминаем универсальный метод решения проблемных задач](https://habr.com/ru/post/698726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698726)
 - [Фронтенд на Go с использованием библиотеки RUI](https://habr.com/ru/post/698818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698818)
 - [Введение в триангуляцию](https://habr.com/ru/post/698816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698816)
-- [Миниатюрные гимнасты: динамика прыгающих ногохвостиков](https://habr.com/ru/post/698668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698668)
-- [Призраки, шаманы и шамановоды: как мы конструируем геймплей для игры Rush Royal](https://habr.com/ru/post/698742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
