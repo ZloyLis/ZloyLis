@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] REST API в микросервисной архитектуре](https://habr.com/ru/post/698798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698798)
-- [Как я участвовал в конкурсе Telegram на создание медиаредактора и занял никакое место &lpar;но получил бесценный опыт?&rpar;](https://habr.com/ru/post/698790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698790)
-- [Как подружить разработчиков и тестировщиков с помощью кастомной TMS: опыт Авито](https://habr.com/ru/post/698280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698280)
-- [KPHP спустя 2 года](https://habr.com/ru/post/698294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698294)
-- [От OSB до Serverless](https://habr.com/ru/post/697438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697438)
+- [Кря-кря на день программиста: вспоминаем универсальный метод решения проблемных задач](https://habr.com/ru/post/698726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698726)
+- [Фронтенд на Go с использованием библиотеки RUI](https://habr.com/ru/post/698818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698818)
+- [Введение в триангуляцию](https://habr.com/ru/post/698816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698816)
+- [Миниатюрные гимнасты: динамика прыгающих ногохвостиков](https://habr.com/ru/post/698668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698668)
+- [Призраки, шаманы и шамановоды: как мы конструируем геймплей для игры Rush Royal](https://habr.com/ru/post/698742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
