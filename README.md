@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] REST API в микросервисной архитектуре](https://habr.com/ru/post/698798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698798)
+- [Как я участвовал в конкурсе Telegram на создание медиаредактора и занял никакое место &lpar;но получил бесценный опыт?&rpar;](https://habr.com/ru/post/698790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698790)
+- [Как подружить разработчиков и тестировщиков с помощью кастомной TMS: опыт Авито](https://habr.com/ru/post/698280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698280)
+- [KPHP спустя 2 года](https://habr.com/ru/post/698294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698294)
 - [От OSB до Serverless](https://habr.com/ru/post/697438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697438)
-- [Как организовать локальный чемпионат по робототехнике и сделать его традиционным &lpar;vol. 4.1&rpar;](https://habr.com/ru/post/698774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698774)
-- [KasperskyOS: от абстрактной идеи к реальной системе](https://habr.com/ru/post/698678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698678)
-- [Задача Пуаро](https://habr.com/ru/post/698754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698754)
-- [Пакуем секреты правильно](https://habr.com/ru/post/698738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
