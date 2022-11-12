@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [УНИКАЛЬНОЕ «УМНОЕ РЕШЕНИЕ»](https://habr.com/ru/post/698970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698970)
+- [Как построить управление анимациями персонажа в Unigine](https://habr.com/ru/post/698974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698974)
 - [[Перевод] Что нового в Next.js 13?](https://habr.com/ru/post/698966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698966)
 - [Наступая на грабли. Опыт написания Kubernetes Operator’а](https://habr.com/ru/post/698960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698960)
 - [IT для неайтишников: Технический долг или почему теперь всё так долго?](https://habr.com/ru/post/698942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698942)
