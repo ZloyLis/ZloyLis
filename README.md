@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Stm32 + USB на шаблонах C++. Продолжение&#39;. Делаем MSC](https://habr.com/ru/post/698916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698916)
 - [Почему в Python плохой ООП](https://habr.com/ru/post/698982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698982)
 - [Как построить управление анимациями персонажа в Unigine](https://habr.com/ru/post/698974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698974)
 - [[Перевод] Что нового в Next.js 13?](https://habr.com/ru/post/698966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698966)
 - [Наступая на грабли. Опыт написания Kubernetes Operator’а](https://habr.com/ru/post/698960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698960)
-- [IT для неайтишников: Технический долг или почему теперь всё так долго?](https://habr.com/ru/post/698942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
