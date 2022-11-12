@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [УНИКАЛЬНОЕ «УМНОЕ РЕШЕНИЕ»](https://habr.com/ru/post/698970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698970)
+- [[Перевод] Что нового в Next.js 13?](https://habr.com/ru/post/698966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698966)
 - [Наступая на грабли. Опыт написания Kubernetes Operator’а](https://habr.com/ru/post/698960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698960)
 - [IT для неайтишников: Технический долг или почему теперь всё так долго?](https://habr.com/ru/post/698942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698942)
 - [Почему после курсов по программированию вы никому не нужны. Как найти первую работу в IT](https://habr.com/ru/post/698934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698934)
-- [Все, что вы хотели знать о времени, но боялись спросить](https://habr.com/ru/post/698930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698930)
-- [Чини опять свою Теслу сам, тыжпрограммист](https://habr.com/ru/post/698904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
