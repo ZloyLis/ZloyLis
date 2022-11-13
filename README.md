@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital богемия. Руководство по дизайну 1.0](https://habr.com/ru/post/698994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698994)
 - [[Перевод] Как НЕ надо строить надежные системы](https://habr.com/ru/post/698014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698014)
 - [Деревья Меркла и экономия газа в смарт-контрактах Solidity](https://habr.com/ru/post/699032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699032)
 - [Запросы с пагинацией с помощью Paging 3 и работа над ошибками. Boilerplate ч. 4](https://habr.com/ru/post/682120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682120)
 - [[Перевод] Обзор уязвимости CVE-2022-42889: выполнение произвольного кода в Apache Commons Text &lpar;Text4Shell&rpar;](https://habr.com/ru/post/698914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698914)
-- [[Перевод] Как я случайно обошёл блокировку Google Pixel и получил за это $70 тысяч](https://habr.com/ru/post/698918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
