@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я случайно обошёл блокировку Google Pixel и получил за это $70 тысяч](https://habr.com/ru/post/698918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698918)
 - [Астрофото: совмещаем одиночные кадры](https://habr.com/ru/post/698992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698992)
 - [ЯП с нуля до прототипа &lpar;Лексер&rpar; #1](https://habr.com/ru/post/698990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698990)
 - [Stm32 + USB на шаблонах C++. Продолжение&#39;. Делаем MSC](https://habr.com/ru/post/698916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698916)
 - [Почему в Python плохой ООП](https://habr.com/ru/post/698982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698982)
-- [Как построить управление анимациями персонажа в Unigine](https://habr.com/ru/post/698974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
