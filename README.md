@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;07.11 – 13.11.22&rpar;](https://habr.com/ru/post/699324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699324)
+- [Безмашинное обучение программированию и робототехнике: Pro et Contra](https://habr.com/ru/post/699322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699322)
 - [Запросы к апи с бэка с повтором если был ответ 401 &lpar;UnAuthorized&rpar; на примере Mercuryo. PHP, Yii2](https://habr.com/ru/post/699312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699312)
 - [Security Week 2246: UEFI-уязвимость в ноутбуках Lenovo](https://habr.com/ru/post/699172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699172)
 - [Пишем CD Pipeline с интеграцией Docker, Kubernetes и Jenkins в Google Cloud &lpar;GCE/GKE&rpar;](https://habr.com/ru/post/699300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699300)
-- [Шахматная доска в псевдографике](https://habr.com/ru/post/699118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699118)
-- [[Перевод] Функциональный поиск событий с помощью cats-effect](https://habr.com/ru/post/699294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
