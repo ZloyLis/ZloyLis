@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Функциональный поиск событий с помощью cats-effect](https://habr.com/ru/post/699294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699294)
 - [[Перевод] Пишем обёртку для API Токийской фондовой биржи на Golang](https://habr.com/ru/post/698740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698740)
 - [[Перевод] Создание очередей с низкой задержкой размером в терабайт](https://habr.com/ru/post/698858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698858)
 - [[Перевод] Представление Project Loom в Java](https://habr.com/ru/post/698440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698440)
 - [Как дизайн помогает компаниям экономить? 3 доклада для дизайнеров](https://habr.com/ru/post/699202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699202)
-- [Путь разработчика: чему не учат в школе и университете, но вы все равно этому научитесь](https://habr.com/ru/post/699200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
