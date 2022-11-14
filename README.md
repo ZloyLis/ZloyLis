@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как дизайн помогает компаниям экономить? 3 видео для дизайнеров](https://habr.com/ru/post/699202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699202)
+- [[Перевод] Представление Project Loom в Java](https://habr.com/ru/post/698440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698440)
+- [Как дизайн помогает компаниям экономить? 3 доклада для дизайнеров](https://habr.com/ru/post/699202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699202)
 - [Путь разработчика: чему не учат в школе и университете, но вы все равно этому научитесь](https://habr.com/ru/post/699200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699200)
 - [[Перевод] К вопросу о современном восприятии методологии 12 Factor App](https://habr.com/ru/post/699170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699170)
 - [Как ускорить запросы к InfluxDB разными способами](https://habr.com/ru/post/698156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698156)
-- [Используем нейросеть для генерации стихов в стиле «Евгения Онегина»](https://habr.com/ru/post/699058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
