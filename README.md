@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все библиотеки имеют фатальные недостатки, или Как мы изобретали Retrofit-подобный велосипед для JSON-RPC протокола](https://habr.com/ru/post/698870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698870)
+- [Kubernetes + Jenkins: как использовать вместе](https://habr.com/ru/post/699158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699158)
+- [[Перевод] Лекция 6. Angry Birds — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/699150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699150)
 - [Проектируем рейтинг и отзывы на странице товара в интернет-магазине: 146 гайдлайнов](https://habr.com/ru/post/699128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699128)
 - [[Перевод] TCP — плохой вариант для дата-центров. Встречайте новый протокол Homa](https://habr.com/ru/post/699024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699024)
-- [Дайджест интересных материалов для мобильного разработчика #465 &lpar;7 — 13 ноября&rpar;](https://habr.com/ru/post/699120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699120)
-- [Параллелизм, асинхронность, многопоточность – Reactor почти всё сделает за Вас](https://habr.com/ru/post/699112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699112)
-- [Digital богемия. Руководство по дизайну 1.0](https://habr.com/ru/post/698994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
