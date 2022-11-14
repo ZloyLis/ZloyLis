@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как ускорить запросы к InfluxDB разными способами](https://habr.com/ru/post/698156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698156)
+- [Используем нейросеть для генерации стихов в стиле «Евгения Онегина»](https://habr.com/ru/post/699058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699058)
+- [Как голосовой робот в мобильной CRM для коллекторов помогает повысить уровень сбора платежей и защитить должников](https://habr.com/ru/post/699162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699162)
 - [Все библиотеки имеют фатальные недостатки, или Как мы изобретали Retrofit-подобный велосипед для JSON-RPC протокола](https://habr.com/ru/post/698870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698870)
 - [Kubernetes + Jenkins: как использовать вместе](https://habr.com/ru/post/699158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699158)
-- [[Перевод] Лекция 6. Angry Birds — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/699150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699150)
-- [Проектируем рейтинг и отзывы на странице товара в интернет-магазине: 146 гайдлайнов](https://habr.com/ru/post/699128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699128)
-- [[Перевод] TCP — плохой вариант для дата-центров. Встречайте новый протокол Homa](https://habr.com/ru/post/699024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
