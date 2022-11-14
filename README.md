@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем приложение на Mi Band 7 с сервисной частью](https://habr.com/ru/post/699368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699368)
 - [Дайджест недели от Apple Pro Weekly News &lpar;07.11 – 13.11.22&rpar;](https://habr.com/ru/post/699324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699324)
 - [Безмашинное обучение программированию и робототехнике: Pro et Contra](https://habr.com/ru/post/699322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699322)
 - [Запросы к апи с бэка с повтором если был ответ 401 &lpar;UnAuthorized&rpar; на примере Mercuryo. PHP, Yii2](https://habr.com/ru/post/699312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699312)
 - [Security Week 2246: UEFI-уязвимость в ноутбуках Lenovo](https://habr.com/ru/post/699172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699172)
-- [Пишем CD Pipeline с интеграцией Docker, Kubernetes и Jenkins в Google Cloud &lpar;GCE/GKE&rpar;](https://habr.com/ru/post/699300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
