@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектируем рейтинг и отзывы на странице товара в интернет-магазине: 146 гайдлайнов](https://habr.com/ru/post/699128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699128)
+- [[Перевод] TCP — плохой вариант для дата-центров. Встречайте новый протокол Homa](https://habr.com/ru/post/699024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699024)
 - [Дайджест интересных материалов для мобильного разработчика #465 &lpar;7 — 13 ноября&rpar;](https://habr.com/ru/post/699120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699120)
 - [Параллелизм, асинхронность, многопоточность – Reactor почти всё сделает за Вас](https://habr.com/ru/post/699112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699112)
 - [Digital богемия. Руководство по дизайну 1.0](https://habr.com/ru/post/698994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698994)
-- [[Перевод] Как НЕ надо строить надежные системы](https://habr.com/ru/post/698014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698014)
-- [Деревья Меркла и экономия газа в смарт-контрактах Solidity](https://habr.com/ru/post/699032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
