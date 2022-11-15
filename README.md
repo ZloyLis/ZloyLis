@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простое понимание замыканий в Rust](https://habr.com/ru/post/699596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699596)
 - [Работа с требованиями и данными при проектировании интерфейсов](https://habr.com/ru/post/699592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699592)
 - [Sales Enablement! Если не хочешь делать за продавцов их работу…](https://habr.com/ru/post/699586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699586)
 - [Я купил и оживил одну из первых китайских смартфонов-подделок на Android. Что он из себя представляет в 2022?](https://habr.com/ru/post/699584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699584)
 - [Слышали про телеграм-бот для управления Tesla? Мы поговорили с его разработчиком-самоучкой из Чечни](https://habr.com/ru/post/699516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699516)
-- [Инструментирование ассемблерного кода для сборки данных о динамическом покрытии](https://habr.com/ru/post/698194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
