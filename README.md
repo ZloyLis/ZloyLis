@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript: паттерны проектирования. Часть 1](https://habr.com/ru/post/699408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699408)
+- [[Перевод] Руководство по созданию облачного приложения под Microsoft Azure на основе опенсорсных технологий. Часть 1](https://habr.com/ru/post/699448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699448)
+- [[Перевод] Аудит качества: как, для чего, стадии](https://habr.com/ru/post/699248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699248)
 - [Как портят софт ради обратной совместимости](https://habr.com/ru/post/697048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697048)
-- [[Перевод] Эксплуатация браузера Chrome, часть 1: введение в V8 и внутреннее устройство JavaScript](https://habr.com/ru/post/699168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699168)
-- [Программная генерация костюма на основе биологических параметров человека](https://habr.com/ru/post/699432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699432)
-- [[Перевод] История скромного успеха моей первой за десять лет инди-игры](https://habr.com/ru/post/699430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699430)
-- [Продуктовый подход в HR](https://habr.com/ru/post/699412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699412)
+- [[Перевод] Эксплойтинг браузера Chrome, часть 1: введение в V8 и внутреннее устройство JavaScript](https://habr.com/ru/post/699168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
