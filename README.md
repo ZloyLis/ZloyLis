@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое ngrx/createFeature и как это может облегчить жизнь frontend-разработчику](https://habr.com/ru/post/698980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698980)
 - [Проектируем карточки товаров в листинге интернет-магазина: 175 гайдлайнов](https://habr.com/ru/post/699394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699394)
 - [Как я создавал homelab для учебы на DevOps-инженера](https://habr.com/ru/post/699372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699372)
 - [Пишем приложение на Mi Band 7 с сервисной частью](https://habr.com/ru/post/699368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699368)
 - [Дайджест недели от Apple Pro Weekly News &lpar;07.11 – 13.11.22&rpar;](https://habr.com/ru/post/699324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699324)
-- [Безмашинное обучение программированию и робототехнике: Pro et Contra](https://habr.com/ru/post/699322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
