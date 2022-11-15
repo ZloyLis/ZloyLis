@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как портят софт ради обратной совместимости](https://habr.com/ru/post/697048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697048)
+- [[Перевод] Эксплуатация браузера Chrome, часть 1: введение в V8 и внутреннее устройство JavaScript](https://habr.com/ru/post/699168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699168)
+- [Программная генерация костюма на основе биологических параметров человека](https://habr.com/ru/post/699432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699432)
+- [[Перевод] История скромного успеха моей первой за десять лет инди-игры](https://habr.com/ru/post/699430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699430)
 - [Продуктовый подход в HR](https://habr.com/ru/post/699412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699412)
-- [Что такое ngrx/createFeature и как это может облегчить жизнь frontend-разработчику](https://habr.com/ru/post/698980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698980)
-- [V lang. Обзор и сравнение с Golang](https://habr.com/ru/post/699396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699396)
-- [Проектируем карточки товаров в листинге интернет-магазина: 175 гайдлайнов](https://habr.com/ru/post/699394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699394)
-- [Как я создавал homelab для учебы на DevOps-инженера](https://habr.com/ru/post/699372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
