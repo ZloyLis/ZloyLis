@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Организация стажировки от идеи до найма](https://habr.com/ru/post/699440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699440)
+- [Проектируем каталог товаров в интернет-магазине: 152 гайдлайна](https://habr.com/ru/post/699508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699508)
 - [TypeScript: паттерны проектирования. Часть 1](https://habr.com/ru/post/699408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699408)
 - [[Перевод] Руководство по созданию облачного приложения под Microsoft Azure на основе опенсорсных технологий. Часть 1](https://habr.com/ru/post/699448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699448)
 - [[Перевод] Аудит качества: как, для чего, стадии](https://habr.com/ru/post/699248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699248)
-- [Как портят софт ради обратной совместимости](https://habr.com/ru/post/697048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697048)
-- [[Перевод] Эксплойтинг браузера Chrome, часть 1: введение в V8 и внутреннее устройство JavaScript](https://habr.com/ru/post/699168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
