@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Слышали про телеграм-бот для управления Tesla? Мы поговорили с его разработчиком-самоучкой из Чечни](https://habr.com/ru/post/699516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699516)
 - [Инструментирование ассемблерного кода для сборки данных о динамическом покрытии](https://habr.com/ru/post/698194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698194)
 - [Use Case. Инструкция по работе со сценариями использования для молодого системного аналитика](https://habr.com/ru/post/699522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699522)
 - [Организация стажировки от идеи до найма](https://habr.com/ru/post/699440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699440)
 - [Проектируем каталог товаров в интернет-магазине: 152 гайдлайна](https://habr.com/ru/post/699508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699508)
-- [TypeScript: паттерны проектирования. Часть 1](https://habr.com/ru/post/699408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
