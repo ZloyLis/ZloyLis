@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Хранимые процедуры, функции и триггеры на Java](https://habr.com/ru/post/699732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699732)
+- [Челленджи деплоя, сетевых политик и планировщика: как мы внедряли ML-платформу Kubeflow](https://habr.com/ru/post/698760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698760)
 - [Регистрация аккаунта разработчика в Apple: что может пойти не так](https://habr.com/ru/post/699722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699722)
 - [Реализация алгоритма Дейкстры для поиска оптимального пути между двумя точками на поверхности и обхода препятствий](https://habr.com/ru/post/699466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699466)
 - [Что нового в .NET 7?](https://habr.com/ru/post/699706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699706)
-- [Игровая камера: сборник приемов](https://habr.com/ru/post/695608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695608)
-- [[recovery mode] Как мы развивали бэкенд War Robots, в процессе заDDoSив самих себя — и чему научились после этого](https://habr.com/ru/post/699558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
