@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отображаем ACF поля красиво и без кодинга](https://habr.com/ru/post/699774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699774)
+- [Как мы провели второй русскоязычный Laravel-митап](https://habr.com/ru/post/699770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699770)
 - [[recovery mode] Хранимые процедуры, функции и триггеры на Java](https://habr.com/ru/post/699732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699732)
 - [Челленджи деплоя, сетевых политик и планировщика: как мы внедряли ML-платформу Kubeflow](https://habr.com/ru/post/698760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698760)
 - [Регистрация аккаунта разработчика в Apple: что может пойти не так](https://habr.com/ru/post/699722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699722)
-- [Реализация алгоритма Дейкстры для поиска оптимального пути между двумя точками на поверхности и обхода препятствий](https://habr.com/ru/post/699466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699466)
-- [Что нового в .NET 7?](https://habr.com/ru/post/699706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
