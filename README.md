@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Игровая камера: сборник приемов](https://habr.com/ru/post/695608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695608)
+- [[recovery mode] Как мы развивали бэкенд War Robots, в процессе заDDoSив самих себя — и чему научились после этого](https://habr.com/ru/post/699558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699558)
+- [Сварочный тренажер. Замена санкционных Soldamatic и Lincoln](https://habr.com/ru/post/699690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699690)
 - [Как построить прогноз спроса и не потерять голову](https://habr.com/ru/post/698118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698118)
 - [Hex: Мастерим бота](https://habr.com/ru/post/691234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691234)
-- [Как тимлиду оптимизировать себя и команду под новую реальность: узнаем на TeamLead Conf](https://habr.com/ru/post/673592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673592)
-- [WebAuthn как альтернатива паролям](https://habr.com/ru/post/699386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699386)
-- [[Перевод] Создание e-ink дисплея с прогнозом погоды](https://habr.com/ru/post/699638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
