@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как тимлиду оптимизировать себя и команду под новую реальность: узнаем на TeamLead Conf](https://habr.com/ru/post/673592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673592)
 - [WebAuthn как альтернатива паролям](https://habr.com/ru/post/699386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699386)
 - [[Перевод] Создание e-ink дисплея с прогнозом погоды](https://habr.com/ru/post/699638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699638)
 - [API для Инвестиций, или Как написать торгового робота](https://habr.com/ru/post/699624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699624)
 - [Проектируем цену и скидки на странице товара в интернет-магазине: 56 моментов, которые стоит учитывать](https://habr.com/ru/post/699622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699622)
-- [Простое понимание замыканий в Rust](https://habr.com/ru/post/699596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
