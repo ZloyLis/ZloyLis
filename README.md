@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация алгоритма Дейкстры для поиска оптимального пути между двумя точками на поверхности и обхода препятствий](https://habr.com/ru/post/699466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699466)
+- [Что нового в .NET 7?](https://habr.com/ru/post/699706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699706)
 - [Игровая камера: сборник приемов](https://habr.com/ru/post/695608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695608)
 - [[recovery mode] Как мы развивали бэкенд War Robots, в процессе заDDoSив самих себя — и чему научились после этого](https://habr.com/ru/post/699558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699558)
 - [Сварочный тренажер. Замена санкционных Soldamatic и Lincoln](https://habr.com/ru/post/699690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699690)
-- [Как построить прогноз спроса и не потерять голову](https://habr.com/ru/post/698118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698118)
-- [Hex: Мастерим бота](https://habr.com/ru/post/691234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
