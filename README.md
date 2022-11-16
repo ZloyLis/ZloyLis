@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как реализовать символьную языковую рекуррентную нейронную сеть](https://habr.com/ru/post/697758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697758)
 - [Попробуй пройди за 4 часа тестовое задание в канадскую компанию](https://habr.com/ru/post/699668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699668)
 - [Я купил смартфон-подделку с опт. ценой ~1.000руб. из своей юности. На что M-Horse S4 mini способен теперь?](https://habr.com/ru/post/699808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699808)
 - [Отображаем ACF поля красиво и без кодинга](https://habr.com/ru/post/699774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699774)
 - [Как мы провели второй русскоязычный Laravel-митап](https://habr.com/ru/post/699770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699770)
-- [[recovery mode] Хранимые процедуры, функции и триггеры на Java](https://habr.com/ru/post/699732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
