@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [TDE в Platform V DataGrid: учим систему шифрования менять ключи на лету](https://habr.com/ru/post/700036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700036)
+- [Очереди сообщений: от потерь данных к дублированию доставок](https://habr.com/ru/post/700058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700058)
+- [Этой имиджевой Nokia уже 18 лет, и на ней 10 лет назад поставили крест в буквальном смысле. Справедливо ли!?](https://habr.com/ru/post/700052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700052)
+- [Внешние факторы и собственные прогнозы: почему мы ошибаемся и что с этим делать](https://habr.com/ru/post/700032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700032)
 - [Bottom sheet: Custom transitioning](https://habr.com/ru/post/697962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697962)
 - [[Перевод] Создание приложения для чата в реальном времени с помощью Angular и Appwrite](https://habr.com/ru/post/700016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700016)
-- [Декларативный UI: определение, история и необходимость](https://habr.com/ru/post/700010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700010)
-- [Телеграм-каналы о Flutter и Dart-разработке](https://habr.com/ru/post/700002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
