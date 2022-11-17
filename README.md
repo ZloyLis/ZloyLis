@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TDE в Platform V DataGrid: учим систему шифрования менять ключи на лету](https://habr.com/ru/post/700036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700036)
+- [Bottom sheet: Custom transitioning](https://habr.com/ru/post/697962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697962)
 - [[Перевод] Создание приложения для чата в реальном времени с помощью Angular и Appwrite](https://habr.com/ru/post/700016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700016)
 - [Декларативный UI: определение, история и необходимость](https://habr.com/ru/post/700010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700010)
 - [Телеграм-каналы о Flutter и Dart-разработке](https://habr.com/ru/post/700002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700002)
-- [HP Omnibook 800ct: ноутбук со встроенной мышью](https://habr.com/ru/post/699850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699850)
-- [Можно ли решить задачу реального времени без RTOS, разберем реализованную задачу](https://habr.com/ru/post/699942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
