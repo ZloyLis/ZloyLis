@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Побег из урановых рудников технической поддержки](https://habr.com/ru/post/699782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699782)
+- [Дизайн-система Авито: как всё устроено](https://habr.com/ru/post/699652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699652)
 - [Стоит ли переходить с UIKit на SwiftUI? Опыт СберМаркета](https://habr.com/ru/post/699734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699734)
 - [10 “яблочек” для iPhone: настройки, которые нужно поменять сразу](https://habr.com/ru/post/699692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699692)
 - [Мясная аналитика на СlickHouse](https://habr.com/ru/post/699778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699778)
-- [[Перевод] Как отображать посты и ACF поля в WordPress. 2 Способа &lpar;перевод&rpar;](https://habr.com/ru/post/699712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699712)
-- [Проектируем блоки допродажи и cross-sell на странице товара в интернет-магазине: 19 идей и 53 гайдлайна](https://habr.com/ru/post/699660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
