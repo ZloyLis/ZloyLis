@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Очереди сообщений: от потерь данных к дублированию доставок](https://habr.com/ru/post/700058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700058)
+- [Как мы меняли шину данных, а создали интеграционную платформу](https://habr.com/ru/post/700068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700068)
 - [Этой имиджевой Nokia уже 18 лет, и на ней 10 лет назад поставили крест в буквальном смысле. Справедливо ли!?](https://habr.com/ru/post/700052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700052)
 - [Внешние факторы и собственные прогнозы: почему мы ошибаемся и что с этим делать](https://habr.com/ru/post/700032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700032)
 - [Bottom sheet: Custom transitioning](https://habr.com/ru/post/697962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697962)
