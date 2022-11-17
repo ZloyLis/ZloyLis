@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Omnibook 800ct: ноутбук со встроенной мышью](https://habr.com/ru/post/699850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699850)
 - [Можно ли решить задачу реального времени без RTOS, разберем реализованную задачу](https://habr.com/ru/post/699942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699942)
 - [Как переехать на Kubeflow в качестве ML-платформы?](https://habr.com/ru/post/699714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699714)
 - [Побег из урановых рудников технической поддержки](https://habr.com/ru/post/699782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699782)
 - [Дизайн-система Авито: как всё устроено](https://habr.com/ru/post/699652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699652)
-- [Стоит ли переходить с UIKit на SwiftUI? Опыт СберМаркета](https://habr.com/ru/post/699734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
