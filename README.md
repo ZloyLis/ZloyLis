@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сборка мусора в неисправных JVM, проактивный подход](https://habr.com/ru/post/700224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700224)
+- [Трудности перевода в разработке: как делать интернациональные проекты и говорить с пользователями на одном языке](https://habr.com/ru/post/699852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699852)
+- [[Перевод] Учимся создавать пакеты Python](https://habr.com/ru/post/700282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700282)
 - [ТОП-10 онлайн-ресурсов для прокачки навыков фронтендера](https://habr.com/ru/post/700274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700274)
 - [Отечественная образовательная микроэлектроника и робототехника. Какие решения существуют на рынке](https://habr.com/ru/post/700278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700278)
-- [Смешать, но не взбалтывать: добавляем видеообложки в ленту товаров](https://habr.com/ru/post/699984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699984)
-- [Ещё раз про умный дом](https://habr.com/ru/post/700264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700264)
-- [Типизация для Kafka-топиков в Юле](https://habr.com/ru/post/700202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
