@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать удобное взаимодействие с Kotlin из Swift: решение с помощью плагина MOKO KSwift](https://habr.com/ru/post/700030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700030)
+- [Почему не случилось бума пико-проекторов](https://habr.com/ru/post/700296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700296)
 - [[Перевод] Сборка мусора в неисправных JVM, проактивный подход](https://habr.com/ru/post/700224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700224)
 - [Трудности перевода в разработке: как делать интернациональные проекты и говорить с пользователями на одном языке](https://habr.com/ru/post/699852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699852)
 - [[Перевод] Учимся создавать пакеты Python](https://habr.com/ru/post/700282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700282)
-- [ТОП-10 онлайн-ресурсов для прокачки навыков фронтендера](https://habr.com/ru/post/700274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700274)
-- [Отечественная образовательная микроэлектроника и робототехника. Какие решения существуют на рынке](https://habr.com/ru/post/700278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
