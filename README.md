@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes the hard way](https://habr.com/ru/post/699074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699074)
-- [[Перевод] Три инструмента для быстрого профилирования данных](https://habr.com/ru/post/700082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700082)
-- [[Перевод] Datafaker: альтернатива использованию производственных данных](https://habr.com/ru/post/667610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667610)
-- [Как мы меняли шину данных, а создали интеграционную платформу](https://habr.com/ru/post/700068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700068)
-- [Этой имиджевой Nokia уже 18 лет, и на ней 10 лет назад поставили крест в буквальном смысле. Справедливо ли!?](https://habr.com/ru/post/700052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700052)
+- [Как мы изменили подход к локализации приложения и перевели его на казахский за 4 недели](https://habr.com/ru/post/699702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699702)
+- [[Перевод] TypeScript: паттерны проектирования. Часть 2](https://habr.com/ru/post/700146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700146)
+- [Форматирование милли/микро/нано секунд в java.sql.Timestamp](https://habr.com/ru/post/700148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700148)
+- [[Перевод] Хотите service mesh без sidecar’ов?](https://habr.com/ru/post/700138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700138)
+- [А вот и не подерётесь: как организовать работу команды аналитиков на проекте](https://habr.com/ru/post/700018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
