@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Типизация для Kafka-топиков в Юле](https://habr.com/ru/post/700202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700202)
+- [Мульти-поточная загрузка и выгрузка текстур в OpenGL C++](https://habr.com/ru/post/700194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700194)
 - [[Перевод] Apache Spark на Kubernetes: какие уроки можно извлечь из запуска миллионов исполнителей Spark](https://habr.com/ru/post/698038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698038)
 - [3D для каждого. Риггинг и анимация](https://habr.com/ru/post/698270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698270)
 - [Как мы продвигали Tinkoff Black в Telegram Ads](https://habr.com/ru/post/700168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700168)
-- [Custom View — разбиваем функционал](https://habr.com/ru/post/700182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700182)
-- [Проектируем фильтры в листинге товаров интернет-магазина: 155 гайдлайнов](https://habr.com/ru/post/699900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
