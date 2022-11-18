@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Готовим, пробуем Casbin RBAC и handmade RBAC](https://habr.com/ru/post/700144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700144)
-- [DDD, HEXAGON, HIBERNATE, не считая JOOQ. Часть 1](https://habr.com/ru/post/700158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700158)
-- [Несмотря на новые вызовы, наши требования к докладам DevOpsConf 2023 все так же высоки](https://habr.com/ru/post/699892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699892)
-- [Как мы изменили подход к локализации приложения и перевели его на казахский за 4 недели](https://habr.com/ru/post/699702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699702)
-- [[Перевод] TypeScript: паттерны проектирования. Часть 2](https://habr.com/ru/post/700146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700146)
+- [[Перевод] Apache Spark на Kubernetes: какие уроки можно извлечь из запуска миллионов исполнителей Spark](https://habr.com/ru/post/698038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698038)
+- [3D для каждого. Риггинг и анимация](https://habr.com/ru/post/698270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698270)
+- [Как мы продвигали Tinkoff Black в Telegram Ads](https://habr.com/ru/post/700168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700168)
+- [Custom View — разбиваем функционал](https://habr.com/ru/post/700182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700182)
+- [Проектируем фильтры в листинге товаров интернет-магазина: 155 гайдлайнов](https://habr.com/ru/post/699900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
