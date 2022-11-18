@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-10 онлайн-ресурсов для прокачки навыков фронтендера](https://habr.com/ru/post/700274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700274)
+- [Отечественная образовательная микроэлектроника и робототехника. Какие решения существуют на рынке](https://habr.com/ru/post/700278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700278)
+- [Смешать, но не взбалтывать: добавляем видеообложки в ленту товаров](https://habr.com/ru/post/699984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699984)
+- [Ещё раз про умный дом](https://habr.com/ru/post/700264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700264)
 - [Типизация для Kafka-топиков в Юле](https://habr.com/ru/post/700202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700202)
-- [Мульти-поточная загрузка и выгрузка текстур в OpenGL C++](https://habr.com/ru/post/700194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700194)
-- [[Перевод] Apache Spark на Kubernetes: какие уроки можно извлечь из запуска миллионов исполнителей Spark](https://habr.com/ru/post/698038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698038)
-- [3D для каждого. Риггинг и анимация](https://habr.com/ru/post/698270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698270)
-- [Как мы продвигали Tinkoff Black в Telegram Ads](https://habr.com/ru/post/700168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
