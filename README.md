@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовим, пробуем Casbin RBAC и handmade RBAC](https://habr.com/ru/post/700144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700144)
+- [DDD, HEXAGON, HIBERNATE, не считая JOOQ. Часть 1](https://habr.com/ru/post/700158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700158)
+- [Несмотря на новые вызовы, наши требования к докладам DevOpsConf 2023 все так же высоки](https://habr.com/ru/post/699892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699892)
 - [Как мы изменили подход к локализации приложения и перевели его на казахский за 4 недели](https://habr.com/ru/post/699702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699702)
 - [[Перевод] TypeScript: паттерны проектирования. Часть 2](https://habr.com/ru/post/700146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700146)
-- [Форматирование милли/микро/нано секунд в java.sql.Timestamp](https://habr.com/ru/post/700148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700148)
-- [[Перевод] Хотите service mesh без sidecar’ов?](https://habr.com/ru/post/700138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700138)
-- [А вот и не подерётесь: как организовать работу команды аналитиков на проекте](https://habr.com/ru/post/700018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
