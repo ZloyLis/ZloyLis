@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эта Nokia смогла вернуть мне мой 2007. Nokia 5320 XpressMusic](https://habr.com/ru/post/700334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700334)
+- [[Перевод] Никто не бесил меня больше, чем Google Play Team](https://habr.com/ru/post/700076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700076)
 - [Как подготовить интернет-магазин к перегрузкам](https://habr.com/ru/post/700326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700326)
 - [[Перевод] Подробное руководство по методам синтетического контроля](https://habr.com/ru/post/700260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700260)
 - [[Перевод] Как сделать динамические цвета в CSS](https://habr.com/ru/post/700302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700302)
-- [Как сделать удобное взаимодействие с Kotlin из Swift: решение с помощью плагина MOKO KSwift](https://habr.com/ru/post/700030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700030)
-- [Почему не случилось бума пико-проекторов](https://habr.com/ru/post/700296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
