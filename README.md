@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Троян-снаряд против крипто-брони. Трагедия в трёх актах](https://habr.com/ru/post/700098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700098)
 - [ТОП-20 лучших онлайн-курсов для обучения созданию сайтов подростков](https://habr.com/ru/post/700362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700362)
 - [CORONAROGRAPHY.AI](https://habr.com/ru/post/700324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700324)
 - [3. Теория информации и ML. Прогноз](https://habr.com/ru/post/690100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690100)
 - [Крестики-нолики, шашки и шахматы: немного об играх в математике](https://habr.com/ru/post/700322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700322)
-- [Эта Nokia смогла вернуть мне мой 2007. Nokia 5320 XpressMusic](https://habr.com/ru/post/700334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
