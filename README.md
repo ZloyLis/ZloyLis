@@ -27,7 +27,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Как я организовал автоматический деплой для своих пет-проектов](https://habr.com/ru/post/700440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700440)
-- [[Перевод] Как строить бизнес в разработке, когда тебе 40](https://habr.com/ru/post/699872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699872)
+- [[Перевод] Каково это: строить бизнес в разработке, когда тебе 40](https://habr.com/ru/post/699872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699872)
 - [Улучшаем маршруты обхода на складе силами веб-программиста и математики](https://habr.com/ru/post/700408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700408)
 - [Обобщения C#](https://habr.com/ru/post/700398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700398)
 - [[Перевод] Шаблоны согласования потока событий в реальном времени](https://habr.com/ru/post/660971/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660971)
