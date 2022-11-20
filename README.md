@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как строить бизнес в разработке, когда тебе 40](https://habr.com/ru/post/699872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699872)
 - [Улучшаем маршруты обхода на складе силами веб-программиста и математики](https://habr.com/ru/post/700408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700408)
 - [Обобщения C#](https://habr.com/ru/post/700398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700398)
 - [[Перевод] Шаблоны согласования потока событий в реальном времени](https://habr.com/ru/post/660971/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660971)
 - [Троян-снаряд против крипто-брони. Трагедия в трёх актах](https://habr.com/ru/post/700098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700098)
-- [CORONAROGRAPHY.AI](https://habr.com/ru/post/700324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
