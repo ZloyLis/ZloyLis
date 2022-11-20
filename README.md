@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О том, как алгоритм Дейкстры реализовывал и некоторых его применениях](https://habr.com/ru/post/700462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700462)
+- [NuxtJS получил тройку, потерял JS и меняет фронтенд](https://habr.com/ru/post/700468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700468)
 - [Kubernetes для самых маленьких](https://habr.com/ru/post/697566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697566)
 - [Продолжение серии статей про работу исключений в С++ «под капотом»](https://habr.com/ru/post/700458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700458)
 - [Как создать игру в Telegram за 20 недель и не спиться](https://habr.com/ru/post/700454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700454)
-- [Как я организовал автоматический деплой для своих пет-проектов](https://habr.com/ru/post/700440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700440)
-- [[Перевод] Каково это: строить бизнес в разработке, когда тебе 40](https://habr.com/ru/post/699872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
