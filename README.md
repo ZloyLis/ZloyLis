@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продолжение серии статей про работу исключений в С++ «под капотом»](https://habr.com/ru/post/700458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700458)
+- [Как создать игру в Telegram за 20 недель и не спиться](https://habr.com/ru/post/700454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700454)
 - [Как я организовал автоматический деплой для своих пет-проектов](https://habr.com/ru/post/700440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700440)
 - [[Перевод] Каково это: строить бизнес в разработке, когда тебе 40](https://habr.com/ru/post/699872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699872)
 - [Улучшаем маршруты обхода на складе силами веб-программиста и математики](https://habr.com/ru/post/700408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700408)
-- [Обобщения C#](https://habr.com/ru/post/700398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700398)
-- [[Перевод] Шаблоны согласования потока событий в реальном времени](https://habr.com/ru/post/660971/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660971)
 <!-- BLOG-POST-LIST:END -->
 
 ---
