@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2247: статистика по вредоносному майнингу](https://habr.com/ru/post/700664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700664)
+- [Непредсказуемые инвестиции с Python](https://habr.com/ru/post/700660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700660)
+- [Гипотеза Эскобара](https://habr.com/ru/post/691076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691076)
 - [Тестирование gRPC](https://habr.com/ru/post/699616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699616)
 - [Генерация статических сайтов с Hugo](https://habr.com/ru/post/700640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700640)
-- [Месячная заруба с Apple. Встраиваем On-Demand Resources. Часть 1](https://habr.com/ru/post/700650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700650)
-- [PUSH в GIT как средство доставки в прод, или как сэкономить время на развертывании и обновлении сервисов](https://habr.com/ru/post/700620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700620)
-- [Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей](https://habr.com/ru/post/700634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
