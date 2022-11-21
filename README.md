@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/post/700608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700608)
 - [Товарная дистрибуция 30 лет спустя. Как программисты изменили продажи крупного бизнеса](https://habr.com/ru/post/700556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700556)
 - [Об архитектуре математики и информатики](https://habr.com/ru/post/700580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700580)
 - [[Перевод] Работая в Xcode: создаем реюзабельные цветовые палитры, которыми можно поделиться](https://habr.com/ru/post/700572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700572)
 - [[Перевод] Полное руководство по модулю asyncio в Python. Часть 1](https://habr.com/ru/post/700474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700474)
-- [IT&#39;s Tinkoff .NET Meetup в Томске и Нижнем Новгороде](https://habr.com/ru/post/700568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
