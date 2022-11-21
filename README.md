@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование gRPC](https://habr.com/ru/post/699616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699616)
+- [Генерация статических сайтов с Hugo](https://habr.com/ru/post/700640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700640)
+- [Месячная заруба с Apple. Встраиваем On-Demand Resources. Часть 1](https://habr.com/ru/post/700650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700650)
+- [PUSH в GIT как средство доставки в прод, или как сэкономить время на развертывании и обновлении сервисов](https://habr.com/ru/post/700620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700620)
 - [Видеоаналитика на взрывоопасном заводе площадью в 700 футбольных полей](https://habr.com/ru/post/700634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700634)
-- [[Перевод] Системная инженерия, или за что мне платят деньги](https://habr.com/ru/post/700270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700270)
-- [Битва брокеров сообщений: RabbitMQ, Kafka, AWS SNS/SQS](https://habr.com/ru/post/700608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700608)
-- [Товарная дистрибуция 30 лет спустя. Как программисты изменили продажи крупного бизнеса](https://habr.com/ru/post/700556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700556)
-- [Об архитектуре математики и информатики](https://habr.com/ru/post/700580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
