@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Исследователи показывают, что кубиты могут быть такими же безопасными, как и биты](https://habr.com/ru/post/700498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700498)
-- [Как оценить реальную производительность своего кода](https://habr.com/ru/post/698016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698016)
-- [[Перевод] Testcontainers: тестирование с реальными зависимостями](https://habr.com/ru/post/700286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700286)
-- [Как можно хранить стабы для MockWebServer в Android-тестах](https://habr.com/ru/post/700014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700014)
-- [Как я Jest с помощью SWC ускорял](https://habr.com/ru/post/699582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699582)
+- [[Перевод] Работая в Xcode: создаем реюзабельные цветовые палитры, которыми можно поделиться](https://habr.com/ru/post/700572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700572)
+- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 1](https://habr.com/ru/post/700474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700474)
+- [IT&#39;s Tinkoff .NET Meetup в Томске и Нижнем Новгороде](https://habr.com/ru/post/700568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700568)
+- [Перевезу в iframe. Дешево](https://habr.com/ru/post/694592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694592)
+- [Workflow и визуализация процессов: как сделать правильно и не выстрелить себе в ногу](https://habr.com/ru/post/696994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
