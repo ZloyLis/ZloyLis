@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [User Story Mapping как подход к проектированию](https://habr.com/ru/post/699950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699950)
 - [Мобильная разработка за неделю #466 &lpar;14 — 20 ноября&rpar;](https://habr.com/ru/post/700488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700488)
 - [О том, как алгоритм Дейкстры реализовывал и некоторых его применениях](https://habr.com/ru/post/700462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700462)
 - [NuxtJS получил тройку, потерял JS и меняет фронтенд](https://habr.com/ru/post/700468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700468)
 - [Kubernetes для самых маленьких](https://habr.com/ru/post/697566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697566)
-- [Продолжение серии статей про работу исключений в С++ «под капотом»](https://habr.com/ru/post/700458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
