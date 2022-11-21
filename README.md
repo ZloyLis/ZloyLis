@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Этот слайдер Samsung работал на… Symbian. Что он умеет сегодня?](https://habr.com/ru/post/700686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700686)
+- [Пользовательские истории в разработке](https://habr.com/ru/post/700682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700682)
 - [Security Week 2247: статистика по вредоносному майнингу](https://habr.com/ru/post/700664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700664)
 - [Непредсказуемые инвестиции с Python](https://habr.com/ru/post/700660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700660)
 - [Гипотеза Эскобара](https://habr.com/ru/post/691076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=691076)
-- [Тестирование gRPC](https://habr.com/ru/post/699616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699616)
-- [Генерация статических сайтов с Hugo](https://habr.com/ru/post/700640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
