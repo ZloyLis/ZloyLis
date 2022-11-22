@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выжимаем все соки: PGO Оптимизация ядра Linux](https://habr.com/ru/post/696236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696236)
+- [Генерация трейлеров и хайлайтов. Опыт Иви](https://habr.com/ru/post/698788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698788)
+- [Чек-лист идеального веб-дизайна](https://habr.com/ru/post/700806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700806)
+- [Как войти в блокчейн через JavaSсript: создаем свой DeFi-проект на базе JS SDK смарт-контрактов Waves Enterprise](https://habr.com/ru/post/700626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700626)
 - [Хакинг метрик качества видео или как с приходом ИИ все становится намного сложнее](https://habr.com/ru/post/700726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700726)
-- [Путь аналитика от получения пожеланий бизнеса до подготовки ТЗ для разработчиков: на примере реального кейса](https://habr.com/ru/post/700792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700792)
-- [DDD, HEXAGON, HIBERNATE, не считая JOOQ. Часть 2: гексагональная архитектура](https://habr.com/ru/post/700790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700790)
-- [Careem app – сервисы в одно окно](https://habr.com/ru/post/700780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700780)
-- [Извилистый путь через «скалу» в Spark: как одинэсник стал дата-инженером и полюбил строго типизированные языки](https://habr.com/ru/post/700678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
