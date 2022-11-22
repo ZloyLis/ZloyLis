@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Руководство по программированию сокетов на Python. Протокол и сообщения](https://habr.com/ru/post/700246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700246)
 - [Поиск не вставая с дивана, или как подружить приложение со Сбер Ассистентом](https://habr.com/ru/post/697894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697894)
 - [Сервисная архитектура во Vue 2 | Какие собственно варианты?](https://habr.com/ru/post/700392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700392)
 - [99 советов по монетизации игр — Часть 1](https://habr.com/ru/post/700942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700942)
 - [Книга «Программируем на Java. 5-е межд. изд.»](https://habr.com/ru/post/700834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700834)
-- [Выгорание разработчиков](https://habr.com/ru/post/700882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
