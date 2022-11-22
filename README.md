@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследовательские сценарии как метод раскрытия преступления &lpar;Часть первая&rpar;](https://habr.com/ru/post/700762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700762)
+- [Приручая System Design Interview](https://habr.com/ru/post/698734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698734)
+- [[Перевод] CURL: почему проект, которому четверть века, не торопится переходить на C99](https://habr.com/ru/post/700382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700382)
 - [Луковичная архитектура в компоновке backend-приложения и куда в итоге класть маперы](https://habr.com/ru/post/672328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672328)
 - [Пишу фреймворк LDL на С++ с поддержкой старых систем](https://habr.com/ru/post/700668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700668)
-- [Загружаем dSYM в Firebase Crashlytics через Xcode Cloud](https://habr.com/ru/post/700742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700742)
-- [[recovery mode] Пример использования API поиска Algolia на примере телеграм бота](https://habr.com/ru/post/700724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700724)
-- [Культовый народный смартфон от Samsung — Galaxy Ace! На что способен в 2022?](https://habr.com/ru/post/700720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
