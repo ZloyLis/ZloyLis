@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакинг метрик качества видео или как с приходом ИИ все становится намного сложнее](https://habr.com/ru/post/700726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700726)
+- [Путь аналитика от получения пожеланий бизнеса до подготовки ТЗ для разработчиков: на примере реального кейса](https://habr.com/ru/post/700792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700792)
+- [DDD, HEXAGON, HIBERNATE, не считая JOOQ. Часть 2: гексагональная архитектура](https://habr.com/ru/post/700790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700790)
+- [Careem app – сервисы в одно окно](https://habr.com/ru/post/700780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700780)
 - [Извилистый путь через «скалу» в Spark: как одинэсник стал дата-инженером и полюбил строго типизированные языки](https://habr.com/ru/post/700678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700678)
-- [[Перевод] Kubernetes никогда не задумывали для пакетной обработки задач](https://habr.com/ru/post/700492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700492)
-- [Глеб Помыкалов: Rust еще долго будет оставаться самым любимым языком](https://habr.com/ru/post/700612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700612)
-- [В чем кайф быть QA-ментором #3 — Ораторствуем и Зарабатываем](https://habr.com/ru/post/700768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700768)
-- [Проектируем сортировку листинга товаров в интернет-магазине: 63 гайдлайна](https://habr.com/ru/post/700746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
