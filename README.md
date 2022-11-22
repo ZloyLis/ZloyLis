@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ментальные модели для разработчиков: 5 универсальных вариантов](https://habr.com/ru/post/700854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700854)
 - [Приглашаем на онлайновый митап про автотесты для огромных инфраструктур](https://habr.com/ru/post/700828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700828)
 - [Техническое обеспечение надежности сайтов &lpar;SRE&rpar;: как проектируются безотказные ресурсы?](https://habr.com/ru/post/700826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700826)
 - [Собираю умный дом с Марусей](https://habr.com/ru/post/700582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700582)
 - [Выжимаем все соки: PGO Оптимизация ядра Linux](https://habr.com/ru/post/696236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696236)
-- [Генерация трейлеров и хайлайтов. Опыт Иви](https://habr.com/ru/post/698788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
