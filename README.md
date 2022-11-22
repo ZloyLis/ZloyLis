@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на онлайновый митап про автотесты для огромных инфраструктур](https://habr.com/ru/post/700828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700828)
+- [Техническое обеспечение надежности сайтов &lpar;SRE&rpar;: как проектируются безотказные ресурсы?](https://habr.com/ru/post/700826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700826)
+- [Собираю умный дом с Марусей](https://habr.com/ru/post/700582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700582)
 - [Выжимаем все соки: PGO Оптимизация ядра Linux](https://habr.com/ru/post/696236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696236)
 - [Генерация трейлеров и хайлайтов. Опыт Иви](https://habr.com/ru/post/698788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698788)
-- [Чек-лист идеального веб-дизайна](https://habr.com/ru/post/700806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700806)
-- [Как войти в блокчейн через JavaSсript: создаем свой DeFi-проект на базе JS SDK смарт-контрактов Waves Enterprise](https://habr.com/ru/post/700626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700626)
-- [Хакинг метрик качества видео или как с приходом ИИ все становится намного сложнее](https://habr.com/ru/post/700726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
