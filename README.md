@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Луковичная архитектура в компоновке backend-приложения и куда в итоге класть маперы](https://habr.com/ru/post/672328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=672328)
 - [Пишу фреймворк LDL на С++ с поддержкой старых систем](https://habr.com/ru/post/700668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700668)
 - [Загружаем dSYM в Firebase Crashlytics через Xcode Cloud](https://habr.com/ru/post/700742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700742)
 - [[recovery mode] Пример использования API поиска Algolia на примере телеграм бота](https://habr.com/ru/post/700724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700724)
 - [Культовый народный смартфон от Samsung — Galaxy Ace! На что способен в 2022?](https://habr.com/ru/post/700720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700720)
-- [Дайджест недели от Apple Pro Weekly News &lpar;14.11 – 20.11.22&rpar;](https://habr.com/ru/post/700702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
