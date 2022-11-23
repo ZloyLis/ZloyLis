@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как найти утекшие объекты в дампах памяти Chrome DevTools](https://habr.com/ru/post/701150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701150)
+- [Deep Dive Into Deep Link. Часть 5. Нюансы: port, mime, path, диспетчеризация, обратная совместимость](https://habr.com/ru/post/701148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701148)
 - [[Перевод] Что такое Black Box Testing?](https://habr.com/ru/post/700858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700858)
 - [[Перевод] «Оживляем» наше iOS-приложение с помощью Live Activity](https://habr.com/ru/post/701104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701104)
 - [Полезные ресурсы для погружения в Go: выбор сотрудников Selectel](https://habr.com/ru/post/700996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700996)
-- [Двухсторонние очереди в Python: как альтернатива спискам повышает производительность](https://habr.com/ru/post/700520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700520)
-- [Добавляем поддержку Flatpak в Compose Desktop](https://habr.com/ru/post/701078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
