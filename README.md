@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] JUnit: тестирование методов, вызывающих System.exit&lpar;&rpar;](https://habr.com/ru/post/701174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701174)
 - [[Перевод] Миграция на Hibernate 6](https://habr.com/ru/post/696356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696356)
 - [Effector &lpar;reflect, typescript, forms&rpar;. Основные инструменты. Туториал с нуля. Часть 2](https://habr.com/ru/post/701160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701160)
 - [Как найти утекшие объекты в дампах памяти Chrome DevTools](https://habr.com/ru/post/701150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701150)
 - [Deep Dive Into Deep Link. Часть 5. Нюансы: port, mime, path, диспетчеризация, обратная совместимость](https://habr.com/ru/post/701148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701148)
-- [[Перевод] Что такое Black Box Testing?](https://habr.com/ru/post/700858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
