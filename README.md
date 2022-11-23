@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] «Оживляем» наше iOS-приложение с помощью Live Activity](https://habr.com/ru/post/701104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701104)
+- [Полезные ресурсы для погружения в Go: выбор сотрудников Selectel](https://habr.com/ru/post/700996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700996)
+- [Двухсторонние очереди в Python: как альтернатива спискам повышает производительность](https://habr.com/ru/post/700520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700520)
 - [Добавляем поддержку Flatpak в Compose Desktop](https://habr.com/ru/post/701078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701078)
 - [Бесшовное внедрение практик безопасности в DEVOPS-конвейер](https://habr.com/ru/post/698480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698480)
-- [Пишем бота на JavaScript для Minecraft &lpar;1.8-1.18&rpar; / Часть 10-14](https://habr.com/ru/post/701056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701056)
-- [Код архитектуры — это жидкость](https://habr.com/ru/post/701050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701050)
-- [Резиновый десктопный адаптив: как сделать большие экраны одинаковыми](https://habr.com/ru/post/700950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
