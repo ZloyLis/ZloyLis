@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Руководство по программированию сокетов на Python. Устранение проблем и справочный раздел](https://habr.com/ru/post/700248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700248)
 - [Пишем собственный CustomStepper в Swift](https://habr.com/ru/post/701202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701202)
 - [Лицемерие Apple и танцы вокруг privacy](https://habr.com/ru/post/701194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701194)
 - [[Перевод] JUnit: тестирование методов, вызывающих System.exit&lpar;&rpar;](https://habr.com/ru/post/701174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701174)
 - [[Перевод] Миграция на Hibernate 6](https://habr.com/ru/post/696356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696356)
-- [Effector &lpar;reflect, typescript, forms&rpar;. Основные инструменты. Туториал с нуля. Часть 2](https://habr.com/ru/post/701160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
