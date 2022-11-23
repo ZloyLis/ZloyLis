@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Добавляем поддержку Flatpak в Compose Desktop](https://habr.com/ru/post/701078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701078)
+- [Бесшовное внедрение практик безопасности в DEVOPS-конвейер](https://habr.com/ru/post/698480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698480)
+- [Пишем бота на JavaScript для Minecraft &lpar;1.8-1.18&rpar; / Часть 10-14](https://habr.com/ru/post/701056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701056)
 - [Код архитектуры — это жидкость](https://habr.com/ru/post/701050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701050)
 - [Резиновый десктопный адаптив: как сделать большие экраны одинаковыми](https://habr.com/ru/post/700950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700950)
-- [Как работать с процессами и потоками в Python](https://habr.com/ru/post/701020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701020)
-- [[recovery mode] Как работают this, call, apply и bind в Java Script: разбираемся на примерах](https://habr.com/ru/post/701040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701040)
-- [Как сделать трек на ИТ-конференции в меняющихся условиях и при этом не упустить работу: опыт организатора](https://habr.com/ru/post/701030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
