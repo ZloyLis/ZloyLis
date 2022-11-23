@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Резиновый десктопный адаптив: как сделать большие экраны одинаковыми](https://habr.com/ru/post/700950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700950)
+- [Как работать с процессами и потоками в Python](https://habr.com/ru/post/701020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701020)
+- [[recovery mode] Как работают this, call, apply и bind в Java Script: разбираемся на примерах](https://habr.com/ru/post/701040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701040)
+- [Как сделать трек на ИТ-конференции в меняющихся условиях и при этом не упустить работу: опыт организатора](https://habr.com/ru/post/701030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701030)
 - [Как компании используют RabbitMQ](https://habr.com/ru/post/701018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701018)
-- [Проектируем интерфейс корзины в интернет-магазине: 138 гайдлайнов](https://habr.com/ru/post/701006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701006)
-- [Удалённая сборка Android проектов на сервере прямо из Android Studio](https://habr.com/ru/post/700744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700744)
-- [SciPy — интегрирование и дифференцирование, обработка изображений и сигналов](https://habr.com/ru/post/701016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701016)
-- [К каким вопросам готовиться перед собеседованием на Python-разработчика](https://habr.com/ru/post/699600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
