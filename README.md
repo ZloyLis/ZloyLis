@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Код архитектуры — это жидкость](https://habr.com/ru/post/701050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701050)
 - [Резиновый десктопный адаптив: как сделать большие экраны одинаковыми](https://habr.com/ru/post/700950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700950)
 - [Как работать с процессами и потоками в Python](https://habr.com/ru/post/701020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701020)
 - [[recovery mode] Как работают this, call, apply и bind в Java Script: разбираемся на примерах](https://habr.com/ru/post/701040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701040)
 - [Как сделать трек на ИТ-конференции в меняющихся условиях и при этом не упустить работу: опыт организатора](https://habr.com/ru/post/701030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701030)
-- [Как компании используют RabbitMQ](https://habr.com/ru/post/701018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
