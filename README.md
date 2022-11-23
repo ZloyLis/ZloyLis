@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как компании используют RabbitMQ](https://habr.com/ru/post/701018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701018)
+- [Проектируем интерфейс корзины в интернет-магазине: 138 гайдлайнов](https://habr.com/ru/post/701006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701006)
+- [Удалённая сборка Android проектов на сервере прямо из Android Studio](https://habr.com/ru/post/700744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700744)
 - [SciPy — интегрирование и дифференцирование, обработка изображений и сигналов](https://habr.com/ru/post/701016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701016)
 - [К каким вопросам готовиться перед собеседованием на Python-разработчика](https://habr.com/ru/post/699600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699600)
-- [Как мы делали приложение а-ля Google Meet с помощью PeerJS, SocketIO и NextJS](https://habr.com/ru/post/701002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701002)
-- [Как отобразить таблицу на экране мобильного устройства: решения](https://habr.com/ru/post/700998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700998)
-- [[Перевод] Руководство по программированию сокетов на Python. Протокол и сообщения](https://habr.com/ru/post/700246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
