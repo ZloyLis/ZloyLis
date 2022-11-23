@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SciPy — интегрирование и дифференцирование, обработка изображений и сигналов](https://habr.com/ru/post/701016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701016)
+- [К каким вопросам готовиться перед собеседованием на Python-разработчика](https://habr.com/ru/post/699600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699600)
 - [Как мы делали приложение а-ля Google Meet с помощью PeerJS, SocketIO и NextJS](https://habr.com/ru/post/701002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701002)
 - [Как отобразить таблицу на экране мобильного устройства: решения](https://habr.com/ru/post/700998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700998)
 - [[Перевод] Руководство по программированию сокетов на Python. Протокол и сообщения](https://habr.com/ru/post/700246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700246)
-- [Поиск не вставая с дивана, или как подружить приложение со Сбер Ассистентом](https://habr.com/ru/post/697894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697894)
-- [Сервисная архитектура во Vue 2 | Какие собственно варианты?](https://habr.com/ru/post/700392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
