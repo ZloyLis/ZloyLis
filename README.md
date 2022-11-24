@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Профайлер Бедного Человека: первое знакомство и &lpar;приятные&rpar; последствия](https://habr.com/ru/post/700918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700918)
-- [Проектируем интерфейс оплаты картой: 129 гайдлайнов](https://habr.com/ru/post/701230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701230)
-- [Ambrosia – Open Source-библиотека для работы с A/B-тестами](https://habr.com/ru/post/700992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700992)
-- [Генерация API сайта на основе заданных пользователем функций](https://habr.com/ru/post/700926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700926)
-- [Создание игровых аддонов и текстур — minecraft](https://habr.com/ru/post/701226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701226)
+- [[Перевод] Java очень быстрая, если не создавать много объектов](https://habr.com/ru/post/701290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701290)
+- [Проектирование технологических установок в ПАССАТ + Model Studio CS](https://habr.com/ru/post/701286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701286)
+- [Архитектура PostgreSQL. Часть 0. Старт программы](https://habr.com/ru/post/701284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701284)
+- [Автоматический подбор параметров для Spark-приложений на примере spark.executor.memory](https://habr.com/ru/post/701136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701136)
+- [Как в Авито используют продуктовый подход к разработке технических фич](https://habr.com/ru/post/700624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
