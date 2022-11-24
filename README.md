@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хочешь собрать транспортное решение? Спроси меня как](https://habr.com/ru/post/699544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699544)
+- [Как создавать курсы и писать технические тексты: Хекслет запустил бесплатную Школу Авторов](https://habr.com/ru/post/701384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701384)
 - [Алгоритм поиска цепочки друзей для пользователей соцсети](https://habr.com/ru/post/701380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701380)
 - [&lpar;Микро&rpar;фронтенды и микросервисы с помощью Webpack](https://habr.com/ru/post/701152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701152)
 - [Рассматриваем под лупой отладчик Delve для Go-разработчиков](https://habr.com/ru/post/701198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701198)
-- [[Перевод] Насколько быстр ASP.NET Core?](https://habr.com/ru/post/701352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701352)
-- [Как системное мышление приводит на работу в ИТ из очень разных мест](https://habr.com/ru/post/701262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
