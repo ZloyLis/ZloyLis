@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как системное мышление приводит на работу в ИТ](https://habr.com/ru/post/701262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701262)
+- [Как устроено приложение Календарь в iPhone](https://habr.com/ru/post/701332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701332)
+- [[Перевод] Зачем писать на C++ в 2022 году?](https://habr.com/ru/post/701324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701324)
 - [Web3.0 на Python, часть 2: advanced](https://habr.com/ru/post/699560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699560)
 - [Нужна ли книга про пакеты Python?](https://habr.com/ru/post/701302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701302)
-- [Общий взгляд на проблемы компьютерных систем](https://habr.com/ru/post/701296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701296)
-- [[Перевод] Java очень быстрая, если не создавать много объектов](https://habr.com/ru/post/701290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701290)
-- [Проектирование технологических установок в ПАССАТ + Model Studio CS](https://habr.com/ru/post/701286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
