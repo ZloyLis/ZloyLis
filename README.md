@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как системное мышление приводит на работу в ИТ](https://habr.com/ru/post/701262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701262)
-- [Как устроено приложение Календарь в iPhone](https://habr.com/ru/post/701332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701332)
-- [[Перевод] Зачем писать на C++ в 2022 году?](https://habr.com/ru/post/701324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701324)
-- [Web3.0 на Python, часть 2: advanced](https://habr.com/ru/post/699560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699560)
-- [Нужна ли книга про пакеты Python?](https://habr.com/ru/post/701302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701302)
+- [Алгоритм поиска цепочки друзей для пользователей соцсети](https://habr.com/ru/post/701380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701380)
+- [&lpar;Микро&rpar;фронтенды и микросервисы с помощью Webpack](https://habr.com/ru/post/701152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701152)
+- [Рассматриваем под лупой отладчик Delve для Go-разработчиков](https://habr.com/ru/post/701198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701198)
+- [[Перевод] Насколько быстр ASP.NET Core?](https://habr.com/ru/post/701352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701352)
+- [Как системное мышление приводит на работу в ИТ из очень разных мест](https://habr.com/ru/post/701262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
