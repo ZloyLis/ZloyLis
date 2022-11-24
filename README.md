@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужна ли книга про пакеты Python?](https://habr.com/ru/post/701302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701302)
+- [Общий взгляд на проблемы компьютерных систем](https://habr.com/ru/post/701296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701296)
 - [[Перевод] Java очень быстрая, если не создавать много объектов](https://habr.com/ru/post/701290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701290)
 - [Проектирование технологических установок в ПАССАТ + Model Studio CS](https://habr.com/ru/post/701286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701286)
 - [Архитектура PostgreSQL. Часть 0. Старт программы](https://habr.com/ru/post/701284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701284)
-- [Автоматический подбор параметров для Spark-приложений на примере spark.executor.memory](https://habr.com/ru/post/701136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701136)
-- [Как в Авито используют продуктовый подход к разработке технических фич](https://habr.com/ru/post/700624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
