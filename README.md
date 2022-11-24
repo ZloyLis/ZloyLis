@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambrosia – Open Source-библиотека для работы с A/B-тестами](https://habr.com/ru/post/700992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700992)
 - [Генерация API сайта на основе заданных пользователем функций](https://habr.com/ru/post/700926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700926)
 - [Создание игровых аддонов и текстур — minecraft](https://habr.com/ru/post/701226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701226)
 - [Геометрические фигуры мультимедийной библиотеки SFML для разработки игр на C++](https://habr.com/ru/post/701224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701224)
 - [[Перевод] Руководство по программированию сокетов на Python. Устранение проблем и справочный раздел](https://habr.com/ru/post/700248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700248)
-- [Пишем собственный CustomStepper в Swift](https://habr.com/ru/post/701202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
