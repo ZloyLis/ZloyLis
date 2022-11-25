@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Rust — это язык для изобретательства»: Илья Лахин о том, нужен ли Rust в GameDev](https://habr.com/ru/post/701522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701522)
+- [Как подсчитать медведей с помощью термодинамики? Рецепт простой: много фотоловушек, две ложки компьютерного зрения и щеп](https://habr.com/ru/post/701184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701184)
 - [Наша новая удачная попытка бесшовной замены Redis на KeyDB](https://habr.com/ru/post/700294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700294)
 - [Задача коммивояжера &lpar;TSP&rpar; точное решение — метод динамического программирования](https://habr.com/ru/post/701458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701458)
 - [[Перевод] Будьте другом своему пользователю, пишите осмысленные сообщения об ошибках](https://habr.com/ru/post/698498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698498)
-- [Orange Pi OS: операционная система от создателей конкурента Raspberry Pi. Возможности ОС](https://habr.com/ru/post/701088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701088)
-- [Сервисная архитектура во Vue 2 | Проектирование класса &lpar;примитивы и объекты&rpar;](https://habr.com/ru/post/700964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
