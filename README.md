@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настройка Webpack 5](https://habr.com/ru/post/701724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701724)
 - [Программа для распознавания текста и перевода AssistAnt](https://habr.com/ru/post/701716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701716)
 - [[Pet] Двумерная симуляция взаимодействия небесных тел на C++](https://habr.com/ru/post/701702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701702)
 - [[Перевод] Трудности, с которыми мы столкнулись при модуляризации нашего приложения — Часть 1](https://habr.com/ru/post/701688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701688)
 - [[Перевод] CAP двенадцать лет спустя: как изменились «правила»](https://habr.com/ru/post/701492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701492)
-- [Проецирование вершин графа в векторное пространство. Часть 1. Разложение матрицы смежности](https://habr.com/ru/post/701656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
