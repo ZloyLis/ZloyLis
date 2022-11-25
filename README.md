@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] CAP двенадцать лет спустя: как изменились «правила»](https://habr.com/ru/post/701492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701492)
+- [Проецирование вершин графа в векторное пространство. Часть 1. Разложение матрицы смежности](https://habr.com/ru/post/701656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701656)
+- [[recovery mode] Как доработка UX помогла сократить время прохождения сценария заказа еды на 70%. Часть 1](https://habr.com/ru/post/701652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701652)
 - [[Перевод] Практическое руководство по реализации наблюдаемости в DevOps](https://habr.com/ru/post/701034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701034)
 - [[Перевод] Из специалистов по анализу получаются лучшие инженеры-аналитики](https://habr.com/ru/post/701624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701624)
-- [Чёрная магия трансформов, или об оптимизации анимаций на CSS](https://habr.com/ru/post/701604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701604)
-- [Core Data в современном интерьере SwftUI. Взаимосвязь объектов. Динамический @FetchRequest. часть 2](https://habr.com/ru/post/667874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667874)
-- [Core Data в современном интерьере SwftUI. Некоторые уточнения и заблуждения. часть 1](https://habr.com/ru/post/663974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
