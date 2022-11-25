@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Из специалистов по анализу получаются лучшие инженеры-аналитики](https://habr.com/ru/post/701624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701624)
+- [Чёрная магия трансформов, или об оптимизации анимаций на CSS](https://habr.com/ru/post/701604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701604)
 - [Core Data в современном интерьере SwftUI. Взаимосвязь объектов. Динамический @FetchRequest. часть 2](https://habr.com/ru/post/667874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=667874)
 - [Core Data в современном интерьере SwftUI. Некоторые уточнения и заблуждения. часть 1](https://habr.com/ru/post/663974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=663974)
 - [[Перевод] Что такое дырявые абстракции? &lpar;иллюстрированное руководство&rpar;](https://habr.com/ru/post/701400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701400)
-- [[Перевод] Видение вариативных дженериков в Swift](https://habr.com/ru/post/701558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701558)
-- [Создаём сложные интерфейсы и спецэффекты на базе Qt. Часть II](https://habr.com/ru/post/701382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
