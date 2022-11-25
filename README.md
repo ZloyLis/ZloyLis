@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Orange Pi OS: операционная система от создателей конкурента Raspberry Pi. Возможности ОС](https://habr.com/ru/post/701088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701088)
 - [Сервисная архитектура во Vue 2 | Проектирование класса &lpar;примитивы и объекты&rpar;](https://habr.com/ru/post/700964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700964)
 - [Шифруем CoreML](https://habr.com/ru/post/701462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701462)
 - [Как расширить возможности runtime KPHP](https://habr.com/ru/post/701216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701216)
 - [Балансировка нагрузки и поддержка непрерывности в режиме катастрофоустойчивости](https://habr.com/ru/post/701444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701444)
-- [«Быть руководителем — скучно»: 0b100 ошибок, породивших популярный IT-миф](https://habr.com/ru/post/701114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
