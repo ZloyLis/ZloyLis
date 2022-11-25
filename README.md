@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое дырявые абстракции? &lpar;иллюстрированное руководство&rpar;](https://habr.com/ru/post/701400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701400)
+- [[Перевод] Видение вариативных дженериков в Swift](https://habr.com/ru/post/701558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701558)
+- [Создаём сложные интерфейсы и спецэффекты на базе Qt. Часть II](https://habr.com/ru/post/701382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701382)
 - [Пишем анонимный мессенджер с нуля](https://habr.com/ru/post/701488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701488)
 - [Как в МойОфис обучают разработчиков. Возможности и форматы](https://habr.com/ru/post/699642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699642)
-- [6 универсальных советов, что проверить в инфраструктуре сайта перед Чёрной пятницей](https://habr.com/ru/post/701528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701528)
-- [«Rust — это язык для изобретательства»: Илья Лахин о том, нужен ли Rust в GameDev](https://habr.com/ru/post/701522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701522)
-- [Как подсчитать медведей с помощью термодинамики? Рецепт простой: много фотоловушек, две ложки компьютерного зрения и щеп](https://habr.com/ru/post/701184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
