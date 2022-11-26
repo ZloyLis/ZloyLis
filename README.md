@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прикладная архитектура карт в вебе на React и Mapbox. 1 часть — технологический стек](https://habr.com/ru/post/701778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701778)
 - [Что такое Shared UI, как он нам помог и причём тут микросервисы](https://habr.com/ru/post/701720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701720)
 - [Yandex Object Storage — реализация SignedURL для загрузки данных в bucket на NodeJS](https://habr.com/ru/post/701736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701736)
 - [[Перевод] Занимательная задачка по мотивам теоремы Гёделя о неполноте](https://habr.com/ru/post/701734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701734)
 - [Настройка Webpack 5](https://habr.com/ru/post/701724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701724)
-- [Программа для распознавания текста и перевода AssistAnt](https://habr.com/ru/post/701716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
