@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML-шаблоны на сервере снова в моде! htmx и другие средства борьбы с javascript fatigue](https://habr.com/ru/post/701894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701894)
 - [Кто такой системный аналитик и как не перепутать его с бизнесом](https://habr.com/ru/post/701888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701888)
 - [[Перевод] Чем порадует и удивит Swift в 2023 году?](https://habr.com/ru/post/701870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701870)
 - [[recovery mode] Микро-сервисы и макро-твиттер](https://habr.com/ru/post/701848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701848)
 - [Big O нотация в Swift &lpar;часть 2 — Сокращение&rpar;](https://habr.com/ru/post/701822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701822)
-- [[Перевод] Логистическая регрессия на Python](https://habr.com/ru/post/701530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
