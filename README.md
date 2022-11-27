@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Big O нотация в Swift &lpar;часть 2 — Сокращение&rpar;](https://habr.com/ru/post/701822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701822)
 - [[Перевод] Логистическая регрессия на Python](https://habr.com/ru/post/701530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701530)
 - [Проверяем Архитектурные стили на движке Factorio &lpar;часть 2, SOA&rpar;](https://habr.com/ru/post/701796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701796)
 - [Почему Твиттеру нужны 1000 микросервисов](https://habr.com/ru/post/701788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701788)
 - [Пишем на С++ вектор, умеющий расширяться без копирования элементов](https://habr.com/ru/post/701784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701784)
-- [Прикладная архитектура карт в вебе на React и Mapbox. 1 часть — технологический стек](https://habr.com/ru/post/701778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
