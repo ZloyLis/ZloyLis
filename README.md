@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мне нужна твоя поддержка: как запустить чат-бот на восьми языках быстро, без разметки и смс](https://habr.com/ru/post/699574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699574)
-- [[Перевод] Инструменты мониторинга производительности приложений: зачем они нужны и как используются](https://habr.com/ru/post/701954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701954)
-- [Создаем игровую приставку Pong-типа с помощью блочного языка и Arduino](https://habr.com/ru/post/702064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702064)
-- [Сколько стоит kapt в многомодульном проекте](https://habr.com/ru/post/699542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699542)
-- [[Перевод] Ввод-вывод — уже не узкое место](https://habr.com/ru/post/702026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702026)
+- [React: решение интересной практической задачи](https://habr.com/ru/post/701972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701972)
+- [Пишем собственную тему для Visual Studio Code](https://habr.com/ru/post/701934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701934)
+- [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/post/700550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700550)
+- [Как мы в MANGO OFFICE проводим нагрузочное тестирование асинхронных систем](https://habr.com/ru/post/702072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702072)
+- [Как настроить Charles](https://habr.com/ru/post/701700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
