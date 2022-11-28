@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мне нужна твоя поддержка: как запустить чат-бот на восьми языках быстро, без разметки и смс](https://habr.com/ru/post/699574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699574)
+- [[Перевод] Инструменты мониторинга производительности приложений: зачем они нужны и как используются](https://habr.com/ru/post/701954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701954)
+- [Создаем игровую приставку Pong-типа с помощью блочного языка и Arduino](https://habr.com/ru/post/702064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702064)
 - [Сколько стоит kapt в многомодульном проекте](https://habr.com/ru/post/699542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699542)
 - [[Перевод] Ввод-вывод — уже не узкое место](https://habr.com/ru/post/702026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702026)
-- [Bottom sheet: Navigation](https://habr.com/ru/post/697626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697626)
-- [Пишу диаграммы последовательностей текстом &lpar;кодом&rpar;. Вы тоже можете](https://habr.com/ru/post/701970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701970)
-- [VK Cup: место встречи чемпионов](https://habr.com/ru/post/701956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
