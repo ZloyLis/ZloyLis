@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;21.11 – 27.11.22&rpar;](https://habr.com/ru/post/702116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702116)
 - [Security Week 2248: недобровольная геолокация устройств WiFi](https://habr.com/ru/post/702018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702018)
 - [Зачем банкам подключаться к Открытым API?](https://habr.com/ru/post/702106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702106)
 - [Аналитика и декомпозиция задач. Как определяется время разработки](https://habr.com/ru/post/702094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702094)
 - [React: решение интересной практической задачи](https://habr.com/ru/post/701972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701972)
-- [Пишем собственную тему для Visual Studio Code](https://habr.com/ru/post/701934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
