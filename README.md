@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Поднимаем Vapor-сервер на ARM Synology NAS с помощью Docker](https://habr.com/ru/post/701922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701922)
+- [Проектируем интерфейс оформления заказа: выбор адреса и времени доставки. 162 гайдлайна](https://habr.com/ru/post/701878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701878)
 - [Мобильная разработка за неделю #467 &lpar;21 — 27 ноября&rpar;](https://habr.com/ru/post/701920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701920)
 - [Многопоточность на фронте: абсурд или прекрасное архитектурное решение?](https://habr.com/ru/post/701914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701914)
 - [Security микросервисов с помощью Spring Cloud Gateway и TokenReley](https://habr.com/ru/post/701912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701912)
