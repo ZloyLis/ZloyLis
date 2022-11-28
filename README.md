@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #467 &lpar;21 — 27 ноября&rpar;](https://habr.com/ru/post/701920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701920)
 - [Многопоточность на фронте: абсурд или прекрасное архитектурное решение?](https://habr.com/ru/post/701914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701914)
 - [Security микросервисов с помощью Spring Cloud Gateway и TokenReley](https://habr.com/ru/post/701912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701912)
-- [HTML-шаблоны на сервере снова в моде! htmx и другие средства борьбы с javascript fatigue](https://habr.com/ru/post/701894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701894)
+- [Олдскульные HTML-шаблоны снова в моде! htmx и другие средства борьбы с javascript fatigue](https://habr.com/ru/post/701894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701894)
 - [Кто такой системный аналитик и как не перепутать его с бизнесом](https://habr.com/ru/post/701888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701888)
-- [[Перевод] Чем порадует и удивит Swift в 2023 году?](https://habr.com/ru/post/701870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
