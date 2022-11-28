@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитика и декомпозиция задач. Как определяется время разработки](https://habr.com/ru/post/702094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702094)
 - [React: решение интересной практической задачи](https://habr.com/ru/post/701972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701972)
 - [Пишем собственную тему для Visual Studio Code](https://habr.com/ru/post/701934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701934)
 - [Android vs iOS: кто быстрее покорит Эверест?](https://habr.com/ru/post/700550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700550)
 - [Как мы в MANGO OFFICE проводим нагрузочное тестирование асинхронных систем](https://habr.com/ru/post/702072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702072)
-- [Как настроить Charles](https://habr.com/ru/post/701700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
