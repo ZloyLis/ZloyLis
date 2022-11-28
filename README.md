@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишу диаграммы последовательностей текстом &lpar;кодом&rpar;. Вы тоже можете](https://habr.com/ru/post/701970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701970)
 - [VK Cup: место встречи чемпионов](https://habr.com/ru/post/701956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701956)
 - [[Перевод] 6 Эмуляторов операционных систем, полностью написанных на JavaScript](https://habr.com/ru/post/701986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701986)
 - [[Перевод] Полное руководство по модулю asyncio в Python. Часть 2](https://habr.com/ru/post/701982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701982)
 - [IT&#39;s Tinkoff Mobile Meetup в Челябинске](https://habr.com/ru/post/701942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701942)
-- [Упс и опаньки… Юмору не место в сообщениях об ошибках](https://habr.com/ru/post/699684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
