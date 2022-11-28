@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько стоит kapt в многомодульном проекте](https://habr.com/ru/post/699542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699542)
+- [[Перевод] Ввод-вывод — уже не узкое место](https://habr.com/ru/post/702026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702026)
+- [Bottom sheet: Navigation](https://habr.com/ru/post/697626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697626)
 - [Пишу диаграммы последовательностей текстом &lpar;кодом&rpar;. Вы тоже можете](https://habr.com/ru/post/701970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701970)
 - [VK Cup: место встречи чемпионов](https://habr.com/ru/post/701956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701956)
-- [[Перевод] 6 Эмуляторов операционных систем, полностью написанных на JavaScript](https://habr.com/ru/post/701986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701986)
-- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 2](https://habr.com/ru/post/701982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701982)
-- [IT&#39;s Tinkoff Mobile Meetup в Челябинске](https://habr.com/ru/post/701942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
