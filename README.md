@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм распознания арифметических выражений](https://habr.com/ru/post/702142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702142)
 - [Родители и дети. Связываем документы в Elasticsearch](https://habr.com/ru/post/702134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702134)
 - [2D примитивы мультимедийной библиотеки SFML для разработки игр на C++](https://habr.com/ru/post/702128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702128)
 - [Команды, механизмы и основы аддонов — Minecraft](https://habr.com/ru/post/702126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702126)
 - [Разбираемся с оптимизацией FlatList и миграцией на FlashList](https://habr.com/ru/post/701780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701780)
-- [Дайджест недели от Apple Pro Weekly News &lpar;21.11 – 27.11.22&rpar;](https://habr.com/ru/post/702116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
