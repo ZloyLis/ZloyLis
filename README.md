@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [IT&#39;s Tinkoff Mobile Meetup в Челябинске](https://habr.com/ru/post/701942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701942)
+- [Упс и опаньки… Юмору не место в сообщениях об ошибках](https://habr.com/ru/post/699684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699684)
+- [Гранулярность микросервисов. Насколько мелко нарезать?](https://habr.com/ru/post/699750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699750)
+- [Разбираемся с Docker: как создаются образы](https://habr.com/ru/post/701950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701950)
 - [Ретроспектива работы с bare metal Kubernetes, или Туда и обратно](https://habr.com/ru/post/701112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701112)
-- [[Перевод] Создание пользовательского &lpar;индивидуального&rpar; макета в SwiftUI. Основы](https://habr.com/ru/post/701864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701864)
-- [Чиним отставание реплик, не меняя архитектуру Ruby-монолита](https://habr.com/ru/post/701490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701490)
-- [Как мы создавали сервис для улучшения города в Ташкенте &lpar;Узбекистан&rpar;](https://habr.com/ru/post/701682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701682)
-- [Проектируем интерфейс оформления заказа: выбор адреса и времени доставки. 162 гайдлайна](https://habr.com/ru/post/701878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
