@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ретроспектива работы с bare metal Kubernetes, или Туда и обратно](https://habr.com/ru/post/701112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701112)
+- [[Перевод] Создание пользовательского &lpar;индивидуального&rpar; макета в SwiftUI. Основы](https://habr.com/ru/post/701864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701864)
+- [Чиним отставание реплик, не меняя архитектуру Ruby-монолита](https://habr.com/ru/post/701490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701490)
 - [Как мы создавали сервис для улучшения города в Ташкенте &lpar;Узбекистан&rpar;](https://habr.com/ru/post/701682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701682)
 - [Проектируем интерфейс оформления заказа: выбор адреса и времени доставки. 162 гайдлайна](https://habr.com/ru/post/701878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701878)
-- [Мобильная разработка за неделю #467 &lpar;21 — 27 ноября&rpar;](https://habr.com/ru/post/701920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701920)
-- [Многопоточность на фронте: абсурд или прекрасное архитектурное решение?](https://habr.com/ru/post/701914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701914)
-- [Security микросервисов с помощью Spring Cloud Gateway и TokenReley](https://habr.com/ru/post/701912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
