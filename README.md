@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектируем процесс авторизации по номеру телефона: 130 гайдлайнов](https://habr.com/ru/post/702184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702184)
 - [Настройка Push Notifications на React Native &amp;amp; Expo Go](https://habr.com/ru/post/702160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702160)
 - [Получаем статистку Telegram-канала при помощи api и python](https://habr.com/ru/post/702148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702148)
 - [Алгоритм распознания арифметических выражений](https://habr.com/ru/post/702142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702142)
 - [Родители и дети. Связываем документы в Elasticsearch](https://habr.com/ru/post/702134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702134)
-- [2D примитивы мультимедийной библиотеки SFML для разработки игр на C++](https://habr.com/ru/post/702128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
