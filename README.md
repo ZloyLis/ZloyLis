@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простые метрики по качеству: как их вести и зачем они нужны](https://habr.com/ru/post/702282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702282)
+- [Программа адаптации – как помочь новичку стать «своим» в команде](https://habr.com/ru/post/702270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702270)
 - [[Перевод] Как программисту избежать выгорания](https://habr.com/ru/post/702086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702086)
 - [[Перевод] Обзор новых API навигации в SwiftUI](https://habr.com/ru/post/701868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701868)
 - [Про ООП через призму косвенности. И «Галя, отмена!»](https://habr.com/ru/post/702248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702248)
-- [Это не тот ЦОД, к которому вы привыкли. Чем аттестованный сегмент отличается от классического?](https://habr.com/ru/post/702114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702114)
-- [[Перевод] Какое будущее ожидает тестирование программного обеспечения?](https://habr.com/ru/post/701584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
