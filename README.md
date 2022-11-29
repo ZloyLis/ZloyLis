@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про ООП через призму косвенности. И «Галя, отмена!»](https://habr.com/ru/post/702248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702248)
+- [Это не тот ЦОД, к которому вы привыкли. Чем аттестованный сегмент отличается от классического?](https://habr.com/ru/post/702114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702114)
+- [[Перевод] Какое будущее ожидает тестирование программного обеспечения?](https://habr.com/ru/post/701584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701584)
+- [Этот китайский смартфон за 250 рублей имеет аккумулятор, который можно подключить «на горячую». Всё ещё достоин?](https://habr.com/ru/post/702228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702228)
 - [Как мы допилили PyTest для счастья разработчиков, билд-инженеров, тестировщиков и менеджеров](https://habr.com/ru/post/701670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701670)
-- [Посчитайте сумму n-го ряда пирамиды нечетных чисел](https://habr.com/ru/post/702162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702162)
-- [[Перевод] Управление загрузками в Xcode](https://habr.com/ru/post/701862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701862)
-- [Зачем __name__ == &amp;quot;__main__&amp;quot;?](https://habr.com/ru/post/702218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702218)
-- [Проектируем процесс авторизации по номеру телефона: 130 гайдлайнов](https://habr.com/ru/post/702184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
