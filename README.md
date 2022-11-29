@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Platform V Works: как мы за год создали свой продукт для управления разработкой в Сбере](https://habr.com/ru/post/702360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702360)
+- [Раз в месяц по инновации: чек-лист команды по поддержке внедрения новых сервисов](https://habr.com/ru/post/702318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702318)
+- [[Перевод] Эти 10 новых возможностей делают Groovy 4.0 потрясающим](https://habr.com/ru/post/702356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702356)
+- [Взламываем простой смарт-контракт в блокчейне TON](https://habr.com/ru/post/702352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702352)
 - [Lumia 640 — всё ещё достоин?](https://habr.com/ru/post/702334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702334)
-- [Хаос инженерия в Kubernetes с использованием Litmus](https://habr.com/ru/post/702328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702328)
-- [Как наши преподаватели снимают с себя рутину, или история одного бота](https://habr.com/ru/post/702202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702202)
-- [Текстовые шаблонизаторы и их реализация](https://habr.com/ru/post/698532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698532)
-- [Простые метрики по качеству: как их вести и зачем они нужны](https://habr.com/ru/post/702282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
