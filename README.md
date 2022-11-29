@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонимность и подлинность](https://habr.com/ru/post/702374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702374)
+- [Идеальные интернатуры после QA-курса: «едем» в солнечную Калифорнию и не только](https://habr.com/ru/post/702362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702362)
 - [Platform V Works: как мы за год создали свой продукт для управления разработкой в Сбере](https://habr.com/ru/post/702360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702360)
 - [Раз в месяц по инновации: чек-лист команды по поддержке внедрения новых сервисов](https://habr.com/ru/post/702318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702318)
 - [[Перевод] Эти 10 новых возможностей делают Groovy 4.0 потрясающим](https://habr.com/ru/post/702356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702356)
-- [Взламываем простой смарт-контракт в блокчейне TON](https://habr.com/ru/post/702352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702352)
-- [Lumia 640 — всё ещё достоин?](https://habr.com/ru/post/702334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
