@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как с нуля разработать систему аналитики для телеграм бота?](https://habr.com/ru/post/702658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702658)
+- [Как выбрать язык программирования и начать карьеру: советы от разработчика, занимающегося наймом](https://habr.com/ru/post/702638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702638)
 - [Как обучать команды микросервисной разработке?](https://habr.com/ru/post/702642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702642)
 - [Неблокирующий повтор &lpar;retry&rpar; в Java и проект Loom](https://habr.com/ru/post/702628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702628)
 - [[Перевод] Пора закончить холодную войну между DevOps и разработчиками ПО](https://habr.com/ru/post/702514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702514)
-- [Реализация и применение Entity Component System на примере python](https://habr.com/ru/post/702598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702598)
-- [[Перевод] Улучшенные API навигации SwiftUI](https://habr.com/ru/post/702580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
