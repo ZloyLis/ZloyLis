@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пора закончить холодную войну между DevOps и разработчиками ПО](https://habr.com/ru/post/702514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702514)
+- [Реализация и применение Entity Component System на примере python](https://habr.com/ru/post/702598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702598)
+- [[Перевод] Улучшенные API навигации SwiftUI](https://habr.com/ru/post/702580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702580)
 - [Как мы разрабатываем без бэков: закрываем задачи силами фронта и сохраняем бюджет клиента](https://habr.com/ru/post/702278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702278)
 - [Жизнь по скраму: как работает компания RDP](https://habr.com/ru/post/702576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702576)
-- [Синяя немецкая стрекоза. Siemens C65 — народный телефон 2004 года](https://habr.com/ru/post/702528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702528)
-- [Защищаем данные на проекте: про плагин Calico и правила работы с ним](https://habr.com/ru/post/702338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702338)
-- [Как задавать вопросы осмысленно, чтобы получить нужную информацию](https://habr.com/ru/post/673594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
