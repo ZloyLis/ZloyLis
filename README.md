@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработка приложений с помощью Симулятора Аксессуаров HomeKit](https://habr.com/ru/post/702394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702394)
+- [Игра в маляра, или Content-based color scheme: как цветовая схема приложения может меняться в зависимости от контента](https://habr.com/ru/post/702466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702466)
+- [[Перевод] Истоки Python](https://habr.com/ru/post/702458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702458)
 - [Исследовательские сценарии как метод раскрытия преступления &lpar;Часть вторая и заключительная&rpar;](https://habr.com/ru/post/702454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702454)
 - [Архитектура сайта: Node.js &lpar;Nuxt.js&rpar; + ORM](https://habr.com/ru/post/702230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702230)
-- [Проектируем хлебные крошки в интернет-магазине: 83 гайдлайна](https://habr.com/ru/post/702440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702440)
-- [[Перевод] Гладко было на бумаге, или почему не стоит чрезмерно доверять туториалам](https://habr.com/ru/post/702432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702432)
-- [Анонимность и подлинность](https://habr.com/ru/post/702374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
