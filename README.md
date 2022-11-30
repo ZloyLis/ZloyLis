@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы разрабатываем без бэков: закрываем задачи силами фронта и сохраняем бюджет клиента](https://habr.com/ru/post/702278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702278)
+- [Жизнь по скраму: как работает компания RDP](https://habr.com/ru/post/702576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702576)
 - [Синяя немецкая стрекоза. Siemens C65 — народный телефон 2004 года](https://habr.com/ru/post/702528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702528)
 - [Защищаем данные на проекте: про плагин Calico и правила работы с ним](https://habr.com/ru/post/702338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702338)
 - [Как задавать вопросы осмысленно, чтобы получить нужную информацию](https://habr.com/ru/post/673594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673594)
-- [[Перевод] Пишем кастомные CUDA-ядра на Triton](https://habr.com/ru/post/702298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702298)
-- [[Перевод] Разработка приложений с помощью Симулятора Аксессуаров HomeKit](https://habr.com/ru/post/702394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
