@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как задавать вопросы осмысленно, чтобы получить нужную информацию](https://habr.com/ru/post/673594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673594)
 - [[Перевод] Пишем кастомные CUDA-ядра на Triton](https://habr.com/ru/post/702298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702298)
 - [[Перевод] Разработка приложений с помощью Симулятора Аксессуаров HomeKit](https://habr.com/ru/post/702394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702394)
 - [Игра в маляра, или Content-based color scheme: как цветовая схема приложения может меняться в зависимости от контента](https://habr.com/ru/post/702466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702466)
 - [[Перевод] Истоки Python](https://habr.com/ru/post/702458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702458)
-- [Исследовательские сценарии как метод раскрытия преступления &lpar;Часть вторая и заключительная&rpar;](https://habr.com/ru/post/702454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
