@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разрабатываем софт через статистику](https://habr.com/ru/post/702690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702690)
 - [Почему умножение матриц такое](https://habr.com/ru/post/697934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697934)
 - [Как с нуля разработать систему аналитики для телеграм бота?](https://habr.com/ru/post/702658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702658)
 - [Как выбрать язык программирования и начать карьеру: советы от разработчика, занимающегося наймом](https://habr.com/ru/post/702638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702638)
 - [Как обучать команды микросервисной разработке?](https://habr.com/ru/post/702642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702642)
-- [Неблокирующий повтор &lpar;retry&rpar; в Java и проект Loom](https://habr.com/ru/post/702628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
