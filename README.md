@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синяя немецкая стрекоза. Siemens C65 — народный телефон 2004 года](https://habr.com/ru/post/702528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702528)
 - [Защищаем данные на проекте: про плагин Calico и правила работы с ним](https://habr.com/ru/post/702338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702338)
 - [Как задавать вопросы осмысленно, чтобы получить нужную информацию](https://habr.com/ru/post/673594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673594)
 - [[Перевод] Пишем кастомные CUDA-ядра на Triton](https://habr.com/ru/post/702298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702298)
 - [[Перевод] Разработка приложений с помощью Симулятора Аксессуаров HomeKit](https://habr.com/ru/post/702394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702394)
-- [Игра в маляра, или Content-based color scheme: как цветовая схема приложения может меняться в зависимости от контента](https://habr.com/ru/post/702466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
