@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins Dynamic Agents в K8s](https://habr.com/ru/post/702984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702984)
+- [Ещё одна подборка книг по фронтенду](https://habr.com/ru/post/702972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702972)
+- [Оптимизируй или сдохни: профилирование и оптимизация Jetpack Compose](https://habr.com/ru/post/701422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701422)
 - [Как мудрый царь электронные подписи вводил](https://habr.com/ru/post/702944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702944)
 - [Тридцатилетие минидиска, элитный хайфай и немного аудиофилии](https://habr.com/ru/post/702948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702948)
-- [[Перевод] Зональная Диаграмма со слоем затемнения вплоть до текущего момента времени](https://habr.com/ru/post/702890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702890)
-- [[Перевод] React: разработка реального приложения с помощью React Query](https://habr.com/ru/post/702876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702876)
-- [Жизненный цикл инфраструктурной документации: документируй это от заката до рассвета](https://habr.com/ru/post/702922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
