@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Зональная Диаграмма со слоем затемнения вплоть до текущего момента времени](https://habr.com/ru/post/702890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702890)
+- [Яндекс уже не торт](https://habr.com/ru/post/702940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702940)
+- [[Перевод] React: разработка реального приложения с помощью React Query](https://habr.com/ru/post/702876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702876)
 - [Жизненный цикл инфраструктурной документации: документируй это от заката до рассвета](https://habr.com/ru/post/702922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702922)
 - [Как мы собрали решение для пассажиров: транспортный процессинг и вот это вот все](https://habr.com/ru/post/702864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702864)
-- [[recovery mode] Простой Telegram-бот на JavaScript за 10 минут](https://habr.com/ru/post/702860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702860)
-- [Может ли виртуальный подарок быть дороже реального?](https://habr.com/ru/post/702850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702850)
-- [Работа тестировщика &lpar;не&rpar; сказка? Разбираем зоны ответственности QA-экспертов в командах без СМС и регистрации](https://habr.com/ru/post/702738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
