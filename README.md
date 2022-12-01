@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [NFun — expression evaluator для .Net](https://habr.com/ru/post/698190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698190)
 - [Провести собеседование и не остаться «душнилой»](https://habr.com/ru/post/702734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702734)
 - [Разрабатываем софт через статистику](https://habr.com/ru/post/702690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702690)
 - [Почему умножение матриц такое](https://habr.com/ru/post/697934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697934)
 - [Как с нуля разработать систему аналитики для телеграм бота?](https://habr.com/ru/post/702658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702658)
-- [Как выбрать язык программирования и начать карьеру: советы от разработчика, занимающегося наймом](https://habr.com/ru/post/702638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
