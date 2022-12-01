@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Правила работы с MainActor](https://habr.com/ru/post/702410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702410)
 - [Есть ли жизнь на iPhone 14 без физической SIM-карты?](https://habr.com/ru/post/702778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702778)
 - [Проектируем работу с Избранным в интернет-магазине: 117 гайдлайнов](https://habr.com/ru/post/702380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702380)
 - [[Перевод] Лекция 7. Pokemon — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/702756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702756)
 - [Typescript в hh.ru](https://habr.com/ru/post/702346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702346)
-- [Пушкин – это нейросеть? Учимся распознавать сгенерированный текст](https://habr.com/ru/post/702424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
