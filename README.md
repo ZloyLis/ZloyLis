@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мудрый царь электронные подписи вводил](https://habr.com/ru/post/702944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702944)
+- [Тридцатилетие минидиска, элитный хайфай и немного аудиофилии](https://habr.com/ru/post/702948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702948)
 - [[Перевод] Зональная Диаграмма со слоем затемнения вплоть до текущего момента времени](https://habr.com/ru/post/702890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702890)
-- [Яндекс уже не торт](https://habr.com/ru/post/702940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702940)
 - [[Перевод] React: разработка реального приложения с помощью React Query](https://habr.com/ru/post/702876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702876)
 - [Жизненный цикл инфраструктурной документации: документируй это от заката до рассвета](https://habr.com/ru/post/702922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702922)
-- [Как мы собрали решение для пассажиров: транспортный процессинг и вот это вот все](https://habr.com/ru/post/702864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
