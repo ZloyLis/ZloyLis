@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Простой Telegram-бот на JavaScript за 10 минут](https://habr.com/ru/post/702860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702860)
+- [Может ли виртуальный подарок быть дороже реального?](https://habr.com/ru/post/702850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702850)
+- [Работа тестировщика &lpar;не&rpar; сказка? Разбираем зоны ответственности QA-экспертов в командах без СМС и регистрации](https://habr.com/ru/post/702738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702738)
 - [Этому не научат на онлайн-курсах: к чему готовиться дежурному инженеру по эксплуатации](https://habr.com/ru/post/702144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702144)
 - [Как устроена работа thread_local переменных: разбираемся и добавляем поддержку в учебную ОС](https://habr.com/ru/post/702814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702814)
-- [[Перевод] Правила работы с MainActor](https://habr.com/ru/post/702410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702410)
-- [Есть ли жизнь на iPhone 14 без физической SIM-карты?](https://habr.com/ru/post/702778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702778)
-- [Проектируем работу с Избранным в интернет-магазине: 117 гайдлайнов](https://habr.com/ru/post/702380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
