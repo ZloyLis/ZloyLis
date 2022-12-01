@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не твое змеиное дело: как Python выглядит изнутри сегодня](https://habr.com/ru/post/702744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702744)
 - [Jenkins Dynamic Agents в K8s](https://habr.com/ru/post/702984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702984)
 - [Ещё одна подборка книг по фронтенду](https://habr.com/ru/post/702972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702972)
 - [Оптимизируй или сдохни: профилирование и оптимизация Jetpack Compose](https://habr.com/ru/post/701422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701422)
 - [Как мудрый царь электронные подписи вводил](https://habr.com/ru/post/702944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702944)
-- [Тридцатилетие минидиска, элитный хайфай и немного аудиофилии](https://habr.com/ru/post/702948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
