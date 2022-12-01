@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектируем работу с Избранным в интернет-магазине: 117 гайдлайнов](https://habr.com/ru/post/702380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702380)
 - [[Перевод] Лекция 7. Pokemon — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/702756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702756)
 - [Typescript в hh.ru](https://habr.com/ru/post/702346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702346)
 - [Пушкин – это нейросеть? Учимся распознавать сгенерированный текст](https://habr.com/ru/post/702424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702424)
 - [NFun — expression evaluator для .Net](https://habr.com/ru/post/698190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698190)
-- [Провести собеседование и не остаться «душнилой»](https://habr.com/ru/post/702734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
