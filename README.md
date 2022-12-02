@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делегаты в Swift на простом примере](https://habr.com/ru/post/703232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703232)
+- [[Перевод] Советы по отладке при работе над проектами Swift](https://habr.com/ru/post/703184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703184)
 - [Samsung Galaxy S3 — флагман недавнего прошлого, очень большая статья в спец. формате](https://habr.com/ru/post/703222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703222)
 - [Заполнить виджет градиентом, изображением или гифкой с помощью ShaderMask](https://habr.com/ru/post/703218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703218)
 - [Основные трудности и ошибки при разработке дизайн-системы](https://habr.com/ru/post/703176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703176)
-- [[Перевод] Вам нужен чистый код? Используйте правило шести](https://habr.com/ru/post/703172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703172)
-- [[Перевод] Как NodeJS обрабатывает множественные запросы?](https://habr.com/ru/post/703154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
