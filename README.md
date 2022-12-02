@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вам нужен чистый код? Используйте правило шести](https://habr.com/ru/post/703172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703172)
 - [[Перевод] Как NodeJS обрабатывает множественные запросы?](https://habr.com/ru/post/703154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703154)
 - [[Перевод] Работа с поверхностными и глубокими копиями в Python](https://habr.com/ru/post/702486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702486)
 - [Как подключить свой умный дом на базе Home Assistant к Марусе и управлять им голосом](https://habr.com/ru/post/702986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702986)
 - [[Перевод] Как провести эффективное тестирование мобильных приложений? Стратегия пятиуровневой пирамиды тестов](https://habr.com/ru/post/703146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703146)
-- [Мысли о разумном Maintainability в этом несовершенном мире](https://habr.com/ru/post/702574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
