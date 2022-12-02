@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заполнить виджет градиентом, изображением или гифкой с помощью ShaderMask](https://habr.com/ru/post/703218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703218)
 - [Основные трудности и ошибки при разработке дизайн-системы](https://habr.com/ru/post/703176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703176)
 - [[Перевод] Вам нужен чистый код? Используйте правило шести](https://habr.com/ru/post/703172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703172)
 - [[Перевод] Как NodeJS обрабатывает множественные запросы?](https://habr.com/ru/post/703154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703154)
 - [[Перевод] Работа с поверхностными и глубокими копиями в Python](https://habr.com/ru/post/702486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702486)
-- [Как подключить свой умный дом на базе Home Assistant к Марусе и управлять им голосом](https://habr.com/ru/post/702986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
