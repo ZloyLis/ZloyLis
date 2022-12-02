@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UX/UI поисковой строки в интернет-магазине: 177 гайдлайнов](https://habr.com/ru/post/703040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703040)
 - [Бесполезный и красиво ужасный язык программирования ALLang](https://habr.com/ru/post/703036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703036)
 - [[recovery mode] VAOP как low code инструмент для разработки telegram BOT и не только](https://habr.com/ru/post/680160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680160)
 - [Задачка: Сбор дождевой воды 3D](https://habr.com/ru/post/703020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703020)
 - [Rust: параметризуем мутабельность через маркеры и зависимые типы](https://habr.com/ru/post/703018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703018)
-- [Вы ничего не знаете про SEO, или как подготовиться к неизбежному – тренды онлайн-продвижения ближайших 5-ти лет](https://habr.com/ru/post/703012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
