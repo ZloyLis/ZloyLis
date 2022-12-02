@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [UX/UI поисковой строки в интернет-магазине: 177 гайдлайнов](https://habr.com/ru/post/703040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703040)
-- [Бесполезный и красиво ужасный язык программирования ALLang](https://habr.com/ru/post/703036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703036)
-- [[recovery mode] VAOP как low code инструмент для разработки telegram BOT и не только](https://habr.com/ru/post/680160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680160)
-- [Задачка: Сбор дождевой воды 3D](https://habr.com/ru/post/703020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703020)
-- [Rust: параметризуем мутабельность через маркеры и зависимые типы](https://habr.com/ru/post/703018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703018)
+- [Поиски баланса в составлении функциональных требований. Особенности Shaping’а в Shape up](https://habr.com/ru/post/703086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703086)
+- [Заходят тимлид, менеджер и инженер в бар, а там матрица компетенций…](https://habr.com/ru/post/703074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703074)
+- [Универсальный солдат: обзор библиотеки Signals от команды Preact](https://habr.com/ru/post/702108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702108)
+- [RabbitMQ: терминология и базовые сущности](https://habr.com/ru/post/703060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703060)
+- [Выбросьте блокноты, или почему заниматься Data Science нужно так, будто вы разработчик](https://habr.com/ru/post/702798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
