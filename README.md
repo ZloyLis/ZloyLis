@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как провести эффективное тестирование мобильных приложений? Стратегия пятиуровневой пирамиды тестов](https://habr.com/ru/post/703146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703146)
+- [Мысли о разумном Maintainability в этом несовершенном мире](https://habr.com/ru/post/702574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702574)
 - [Приглашаем на KasperskyOS Night 2022](https://habr.com/ru/post/703120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703120)
 - [[Перевод] Когда о человеке можно сказать, что он стал программистом?](https://habr.com/ru/post/703038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703038)
 - [Выкуп подержанных смартфонов на Авито: как мы запустили пилот за три месяца](https://habr.com/ru/post/700784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700784)
-- [Поиски баланса в составлении функциональных требований. Особенности Shaping’а в Shape up](https://habr.com/ru/post/703086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703086)
-- [Заходят тимлид, менеджер и инженер в бар, а там матрица компетенций…](https://habr.com/ru/post/703074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
