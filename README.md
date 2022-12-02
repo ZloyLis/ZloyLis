@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Когда о человеке можно сказать, что он стал программистом?](https://habr.com/ru/post/703038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703038)
+- [Выкуп подержанных смартфонов на Авито: как мы запустили пилот за три месяца](https://habr.com/ru/post/700784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700784)
 - [Поиски баланса в составлении функциональных требований. Особенности Shaping’а в Shape up](https://habr.com/ru/post/703086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703086)
 - [Заходят тимлид, менеджер и инженер в бар, а там матрица компетенций…](https://habr.com/ru/post/703074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703074)
 - [Универсальный солдат: обзор библиотеки Signals от команды Preact](https://habr.com/ru/post/702108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702108)
-- [RabbitMQ: терминология и базовые сущности](https://habr.com/ru/post/703060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703060)
-- [Выбросьте блокноты, или почему заниматься Data Science нужно так, будто вы разработчик](https://habr.com/ru/post/702798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
