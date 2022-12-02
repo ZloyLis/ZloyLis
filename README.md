@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] VAOP как low code инструмент для разработки telegram BOT и не только](https://habr.com/ru/post/680160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680160)
 - [Задачка: Сбор дождевой воды 3D](https://habr.com/ru/post/703020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703020)
 - [Rust: параметризуем мутабельность через маркеры и зависимые типы](https://habr.com/ru/post/703018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703018)
 - [Вы ничего не знаете про SEO, или как подготовиться к неизбежному – тренды онлайн-продвижения ближайших 5-ти лет](https://habr.com/ru/post/703012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703012)
 - [server-queryselector aka парсим html в nodejs](https://habr.com/ru/post/703010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703010)
-- [Jenkins Dynamic Agents в K8s](https://habr.com/ru/post/702984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
