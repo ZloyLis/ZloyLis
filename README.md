@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [К вопросу  о роли аналитика на современных банковских ИТ-проектах](https://habr.com/ru/post/703256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703256)
+- [Я купил телефон за 50 российских рублей. На что он способен?](https://habr.com/ru/post/702712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702712)
 - [13 хаков для перемены карьеры: как поменять карьеру в декрете и не сойти с ума](https://habr.com/ru/post/703250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703250)
 - [[Перевод] Эффективная работа со строками в JavaScript](https://habr.com/ru/post/703238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703238)
 - [Делегаты в Swift на простом примере](https://habr.com/ru/post/703232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703232)
-- [[Перевод] Советы по отладке при работе над проектами Swift](https://habr.com/ru/post/703184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703184)
-- [Samsung Galaxy S3 — флагман недавнего прошлого, очень большая статья в спец. формате](https://habr.com/ru/post/703222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
