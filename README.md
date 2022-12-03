@@ -28,7 +28,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Улучшенный benchstat для оптимизирующих гоферов](https://habr.com/ru/post/703294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703294)
 - [Прочитай это прежде чем поступить в университет](https://habr.com/ru/post/703290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703290)
-- [Философия диафильмов: путь к идеальной презентации](https://habr.com/ru/post/703282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703282)
+- [Философия диафильмов: 5 шагов к идеальной презентации](https://habr.com/ru/post/703282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703282)
 - [Бизнес, анализ, результат](https://habr.com/ru/post/703286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703286)
 - [Как я писал трекинг парковочных мест](https://habr.com/ru/post/703276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703276)
 <!-- BLOG-POST-LIST:END -->
