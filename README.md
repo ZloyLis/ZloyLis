@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес, анализ, результат](https://habr.com/ru/post/703286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703286)
 - [Как я писал трекинг парковочных мест](https://habr.com/ru/post/703276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703276)
-- [[Перевод] Редактируйте Виджеты Экрана Блокировки когда устройство заблокировано](https://habr.com/ru/post/703158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703158)
+- [[Перевод] Редактируйте виджеты экрана блокировки когда устройство заблокировано](https://habr.com/ru/post/703158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703158)
 - [К вопросу  о роли аналитика на современных банковских ИТ-проектах](https://habr.com/ru/post/703256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703256)
 - [Я купил телефон за 50 российских рублей. На что он способен?](https://habr.com/ru/post/702712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702712)
-- [13 хаков для перемены карьеры: как поменять карьеру в декрете и не сойти с ума](https://habr.com/ru/post/703250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
