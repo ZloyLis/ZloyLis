@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я создал дополнение для чата в minecraft](https://habr.com/ru/post/703418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703418)
+- [CI/CD для AWS Lambda через GitHub Actions](https://habr.com/ru/post/703416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703416)
 - [Spring Type Conversion and Field Formatting — пишем первый конвертер или форматтер](https://habr.com/ru/post/703402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703402)
 - [Открытый проект Электронного подписания внутренних документов компании на примере кадровых](https://habr.com/ru/post/703388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703388)
 - [Фракталы, порожденные zeta-функцией](https://habr.com/ru/post/703378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703378)
-- [Превью профессии «говорящий с нейросетями»](https://habr.com/ru/post/703380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703380)
-- [Заблуждения программистов о времени](https://habr.com/ru/post/703360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
