@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ + Spring boot + Docker. Отправляем и получаем сообщения через Producer и Consumer. Пошаговое руководство](https://habr.com/ru/post/703352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703352)
 - [[Перевод] Малоизвестные возможности расширения VS Code Swift](https://habr.com/ru/post/703314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703314)
 - [Спрячь и покажи: чистый фронтенд](https://habr.com/ru/post/703266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703266)
 - [[Перевод] Создание расширения для браузера Google Chrome. Часть 1](https://habr.com/ru/post/703330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703330)
 - [Улучшенный benchstat для оптимизирующих гоферов](https://habr.com/ru/post/703294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703294)
-- [Как развивался интернет — компактная подборка литературы, где можно об этом почитать](https://habr.com/ru/post/702896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
