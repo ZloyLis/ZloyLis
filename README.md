@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Юнит-тесты на внедрение зависимостей Microsoft.Extensions.DependencyInjection](https://habr.com/ru/post/703536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703536)
+- [Протоколы защищенного обмена сообщениями и новинка от GlobalPlatform](https://habr.com/ru/post/703512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703512)
+- [Node.js for ruby developers](https://habr.com/ru/post/702928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702928)
 - [[Перевод] Полное руководство по модулю asyncio в Python. Часть 3](https://habr.com/ru/post/702484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702484)
 - [Как настроить библиотеку SFML в Visual Studio](https://habr.com/ru/post/703500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703500)
-- [Ангелы Charles: Как сниффер поможет разработчикам мобильных приложений](https://habr.com/ru/post/703188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703188)
-- [[Перевод] Как Параллелизм в Swift предотвращает взрывы потоков?](https://habr.com/ru/post/703370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703370)
-- [Делаем плавный скролл в нагруженных таблицах](https://habr.com/ru/post/702708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
