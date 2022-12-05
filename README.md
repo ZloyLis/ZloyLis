@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Geb Framework для автотестов](https://habr.com/ru/post/703612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703612)
 - [[Перевод] StatefulSet в Kubernetes – примеры и наилучшие практики](https://habr.com/ru/post/703550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703550)
 - [Как работает Activity. Часть 1](https://habr.com/ru/post/703548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703548)
 - [GitHub Codespaces](https://habr.com/ru/post/703554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703554)
 - [Разработка игр на Kotlin Native. Часть 1](https://habr.com/ru/post/703516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703516)
-- [[Перевод] Стратегии доставки и дедупликации сообщений](https://habr.com/ru/post/703542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
