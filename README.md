@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как Параллелизм в Swift предотвращает взрывы потоков?](https://habr.com/ru/post/703370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703370)
+- [Делаем плавный скролл в нагруженных таблицах](https://habr.com/ru/post/702708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702708)
 - [Мобильная разработка за неделю #468 &lpar;28 ноября — 4 декабря&rpar;](https://habr.com/ru/post/703424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703424)
 - [Как я создал дополнение для чата в minecraft](https://habr.com/ru/post/703418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703418)
 - [CI/CD для AWS Lambda через GitHub Actions](https://habr.com/ru/post/703416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703416)
-- [Spring Type Conversion and Field Formatting — пишем первый конвертер или форматтер](https://habr.com/ru/post/703402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703402)
-- [Открытый проект Электронного подписания внутренних документов компании на примере кадровых](https://habr.com/ru/post/703388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
