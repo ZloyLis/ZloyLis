@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 3](https://habr.com/ru/post/702484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702484)
+- [Как настроить библиотеку SFML в Visual Studio](https://habr.com/ru/post/703500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703500)
+- [Ангелы Charles: Как сниффер поможет разработчикам мобильных приложений](https://habr.com/ru/post/703188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703188)
 - [[Перевод] Как Параллелизм в Swift предотвращает взрывы потоков?](https://habr.com/ru/post/703370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703370)
 - [Делаем плавный скролл в нагруженных таблицах](https://habr.com/ru/post/702708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702708)
-- [Мобильная разработка за неделю #468 &lpar;28 ноября — 4 декабря&rpar;](https://habr.com/ru/post/703424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703424)
-- [Как я создал дополнение для чата в minecraft](https://habr.com/ru/post/703418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703418)
-- [CI/CD для AWS Lambda через GitHub Actions](https://habr.com/ru/post/703416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
