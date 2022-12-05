@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работает Activity. Часть 1](https://habr.com/ru/post/703548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703548)
+- [GitHub Codespaces](https://habr.com/ru/post/703554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703554)
 - [Разработка игр на Kotlin Native. Часть 1](https://habr.com/ru/post/703516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703516)
+- [[Перевод] Стратегии доставки и дедупликации сообщений](https://habr.com/ru/post/703542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703542)
 - [Golang-дайджест № 23 &lpar;1 – 30 ноября  2022&rpar;](https://habr.com/ru/post/703556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703556)
-- [Асинхронность в питоне — это хайп, не стоит отказываться от блокирующего кода](https://habr.com/ru/post/703422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703422)
-- [Юнит-тесты на внедрение зависимостей Microsoft.Extensions.DependencyInjection](https://habr.com/ru/post/703536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703536)
-- [Протоколы защищенного обмена сообщениями и новинка от GlobalPlatform](https://habr.com/ru/post/703512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
