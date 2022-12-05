@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка игр на Kotlin Native. Часть 1](https://habr.com/ru/post/703516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703516)
+- [Golang-дайджест № 23 &lpar;1 – 30 ноября  2022&rpar;](https://habr.com/ru/post/703556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703556)
+- [Асинхронность в питоне — это хайп, не стоит отказываться от блокирующего кода](https://habr.com/ru/post/703422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703422)
 - [Юнит-тесты на внедрение зависимостей Microsoft.Extensions.DependencyInjection](https://habr.com/ru/post/703536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703536)
 - [Протоколы защищенного обмена сообщениями и новинка от GlobalPlatform](https://habr.com/ru/post/703512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703512)
-- [Node.js for ruby developers](https://habr.com/ru/post/702928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702928)
-- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 3](https://habr.com/ru/post/702484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702484)
-- [Как настроить библиотеку SFML в Visual Studio](https://habr.com/ru/post/703500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
