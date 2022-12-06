@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Bottom sheet: Scrolling and interactions](https://habr.com/ru/post/703260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703260)
+- [Как найти и сравнить похожие изображения автоэнкодером](https://habr.com/ru/post/703796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703796)
 - [Фронтендерская история](https://habr.com/ru/post/703780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703780)
 - [Самурай под красным флагом или что-то «не то»](https://habr.com/ru/post/698478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698478)
 - [Валя, как это было… И еще раз о ботах с человеческим именем](https://habr.com/ru/post/703212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703212)
-- [Kubernetes 1.26: обзор нововведений, включая первый KEP «Фланта»](https://habr.com/ru/post/703372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703372)
-- [Проектируем блок с телефоном службы поддержки в интернет-магазине: 80 гайдлайнов](https://habr.com/ru/post/702564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
