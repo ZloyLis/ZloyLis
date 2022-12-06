@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кастомный аллокатор для закрытого 3rd](https://habr.com/ru/post/703906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703906)
+- [Tutorial по обмену сайта с 1С. Часть вторая: зачем и как писать свой обмен с нуля на очередях и REST API](https://habr.com/ru/post/703874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703874)
 - [Flutter, создание Home Widget на платформе iOS](https://habr.com/ru/post/703632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703632)
 - [Зачем кодить, если можно не кодить? Часть 1: Какие задачи решают Glide и Lucidchart](https://habr.com/ru/post/703842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703842)
 - [Что нужно знать, перед тем как использовать Prisma у себя в проекте](https://habr.com/ru/post/702930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702930)
-- [Пишем мультиметоды из Lisp в С++](https://habr.com/ru/post/703846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703846)
-- [Bottom sheet: Scrolling and interactions](https://habr.com/ru/post/703260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
