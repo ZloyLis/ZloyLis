@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter, создание Home Widget на платформе iOS](https://habr.com/ru/post/703632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703632)
 - [Зачем кодить, если можно не кодить? Часть 1: Какие задачи решают Glide и Lucidchart](https://habr.com/ru/post/703842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703842)
 - [Что нужно знать, перед тем как использовать Prisma у себя в проекте](https://habr.com/ru/post/702930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702930)
 - [Пишем мультиметоды из Lisp в С++](https://habr.com/ru/post/703846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703846)
 - [Bottom sheet: Scrolling and interactions](https://habr.com/ru/post/703260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703260)
-- [Как найти и сравнить похожие изображения автоэнкодером](https://habr.com/ru/post/703796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
