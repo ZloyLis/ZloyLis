@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем кодить, если можно не кодить? Часть 1: Какие задачи решают Glide и Lucidchart](https://habr.com/ru/post/703842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703842)
+- [Что нужно знать, перед тем как использовать Prisma у себя в проекте](https://habr.com/ru/post/702930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702930)
+- [Пишем мультиметоды из Lisp в С++](https://habr.com/ru/post/703846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703846)
 - [Bottom sheet: Scrolling and interactions](https://habr.com/ru/post/703260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703260)
 - [Как найти и сравнить похожие изображения автоэнкодером](https://habr.com/ru/post/703796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703796)
-- [Фронтендерская история](https://habr.com/ru/post/703780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703780)
-- [Самурай под красным флагом или что-то «не то»](https://habr.com/ru/post/698478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698478)
-- [Валя, как это было… И еще раз о ботах с человеческим именем](https://habr.com/ru/post/703212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
