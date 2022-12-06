@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Валя, как это было… И еще раз о ботах с человеческим именем](https://habr.com/ru/post/703212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703212)
+- [Kubernetes 1.26: обзор нововведений, включая первый KEP «Фланта»](https://habr.com/ru/post/703372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703372)
+- [Проектируем блок с телефоном службы поддержки в интернет-магазине: 80 гайдлайнов](https://habr.com/ru/post/702564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702564)
 - [Security Week 2249: особенности защиты сетевых видеокамер Eufy](https://habr.com/ru/post/703592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703592)
 - [Дайджест недели от Apple Pro Weekly News &lpar;28.11 – 04.12.22&rpar;](https://habr.com/ru/post/703618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703618)
-- [Полиморфные структуры данных и производительность](https://habr.com/ru/post/703666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703666)
-- [[Перевод] Какой из циклов в Java быстрее: for или for-each](https://habr.com/ru/post/703634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703634)
-- [Не только работой едины — ARK+K3S+MetalLB](https://habr.com/ru/post/703624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
