@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Смотрите прямой эфир NEF — евразийского финала чемпионата по программированию ICPC](https://habr.com/ru/post/703864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703864)
 - [[Перевод] Поиск бага регистра, приводящего к вылету Chrome](https://habr.com/ru/post/703894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703894)
 - [Управление знаниями на практике: с чего все начиналось](https://habr.com/ru/post/703940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703940)
 - [[Перевод] Брендан Эйх о создании JavaScript за 10 дней и о том, что сегодня он сделал бы по-другому](https://habr.com/ru/post/703398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703398)
 - [Кастомный аллокатор для закрытого 3rd](https://habr.com/ru/post/703906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703906)
-- [Tutorial по обмену сайта с 1С. Часть вторая: зачем и как писать свой обмен с нуля на очередях и REST API](https://habr.com/ru/post/703874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
