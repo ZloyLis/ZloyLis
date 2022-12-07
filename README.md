@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Люди и интерфейсы. Рассказ незрячего тестировщика о том, как сервисы Яндекса становятся доступнее](https://habr.com/ru/post/700596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700596)
+- [В чем кайф быть QA-ментором #4 — Режим бога и Мозг на 100%](https://habr.com/ru/post/704014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704014)
 - [6 мягких навыков, чтобы не разрушаться в кризис](https://habr.com/ru/post/703806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703806)
 - [История разработчиков коммерческой системы видеосвязи Video Union, путь 2013 — 2022](https://habr.com/ru/post/703990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703990)
 - [[Перевод] GitHub Copilot: он не стоит таких рисков](https://habr.com/ru/post/703962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703962)
-- [Об опасности заимствования западной методологии нормализации и ведения Справочника МТР по шаблонам свойств-значений](https://habr.com/ru/post/703970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703970)
-- [Android-митап в red_mad_robot 15 декабря](https://habr.com/ru/post/703968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
