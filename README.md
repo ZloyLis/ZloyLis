@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [6 мягких навыков, чтобы не разрушаться в кризис](https://habr.com/ru/post/703806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703806)
+- [История разработчиков коммерческой системы видеосвязи Video Union, путь 2013 — 2022](https://habr.com/ru/post/703990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703990)
 - [[Перевод] GitHub Copilot: он не стоит таких рисков](https://habr.com/ru/post/703962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703962)
 - [Об опасности заимствования западной методологии нормализации и ведения Справочника МТР по шаблонам свойств-значений](https://habr.com/ru/post/703970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703970)
 - [Android-митап в red_mad_robot 15 декабря](https://habr.com/ru/post/703968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703968)
-- [Вся правда о кубах данных OLAP: развенчиваем мифы](https://habr.com/ru/post/703508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703508)
-- [Смотрите прямой эфир NEF — евразийского финала чемпионата по программированию ICPC](https://habr.com/ru/post/703864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
