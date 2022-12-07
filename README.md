@@ -30,7 +30,7 @@ ___
 - [[Перевод] Использование final для повышения производительности в C++](https://habr.com/ru/post/704016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704016)
 - [Боксы, микрофичи и хлебные крошки: как прошёл iOS-митап red_mad_robot](https://habr.com/ru/post/704060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704060)
 - [Как создать Minecraft на Python? Обзор библиотеки Ursina Engine](https://habr.com/ru/post/704040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704040)
-- [«Хакер»: Учимся анализировать программы для x86-64 с нуля](https://habr.com/ru/post/704056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704056)
+- [«Хакер»: Учимся анализировать программы для x86 с нуля](https://habr.com/ru/post/704056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
