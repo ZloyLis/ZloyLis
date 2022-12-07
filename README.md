@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] GitHub Copilot: он не стоит таких рисков](https://habr.com/ru/post/703962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703962)
+- [Об опасности заимствования западной методологии нормализации и ведения Справочника МТР по шаблонам свойств-значений](https://habr.com/ru/post/703970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703970)
+- [Android-митап в red_mad_robot 15 декабря](https://habr.com/ru/post/703968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703968)
+- [Вся правда о кубах данных OLAP: развенчиваем мифы](https://habr.com/ru/post/703508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703508)
 - [Смотрите прямой эфир NEF — евразийского финала чемпионата по программированию ICPC](https://habr.com/ru/post/703864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703864)
-- [[Перевод] Поиск бага регистра, приводящего к вылету Chrome](https://habr.com/ru/post/703894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703894)
-- [Управление знаниями на практике: с чего все начиналось](https://habr.com/ru/post/703940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703940)
-- [[Перевод] Брендан Эйх о создании JavaScript за 10 дней и о том, что сегодня он сделал бы по-другому](https://habr.com/ru/post/703398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703398)
-- [Кастомный аллокатор для закрытого 3rd](https://habr.com/ru/post/703906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
