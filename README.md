@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Редкий чистокровный американец: Palm Treo 680. Делаем свой аккумулятор из подручных средств](https://habr.com/ru/post/704042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704042)
-- [Создаем свой babel плагин и публикуем в npm](https://habr.com/ru/post/704028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704028)
-- [Люди и интерфейсы. Рассказ незрячего тестировщика о том, как сервисы Яндекса становятся доступнее](https://habr.com/ru/post/700596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700596)
-- [6 мягких навыков, чтобы не разрушаться в кризис](https://habr.com/ru/post/703806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703806)
-- [История разработчиков коммерческой системы видеосвязи Video Union, путь 2013 — 2022](https://habr.com/ru/post/703990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703990)
+- [[Перевод] Не обманывайте себя: вы не «исправите это потом»](https://habr.com/ru/post/704072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704072)
+- [[Перевод] Использование final для повышения производительности в C++](https://habr.com/ru/post/704016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704016)
+- [Боксы, микрофичи и хлебные крошки: как прошёл iOS-митап red_mad_robot](https://habr.com/ru/post/704060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704060)
+- [Как создать Minecraft на Python? Обзор библиотеки Ursina Engine](https://habr.com/ru/post/704040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704040)
+- [«Хакер»: Учимся анализировать программы для x86-64 с нуля](https://habr.com/ru/post/704056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
