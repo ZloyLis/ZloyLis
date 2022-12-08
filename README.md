@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анимация в Figma от 0 до постинга на Behance](https://habr.com/ru/post/704292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704292)
+- [Маленький dsl](https://habr.com/ru/post/704168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704168)
 - [Как ускорить прогон тестов в многомодульном проекте Maven](https://habr.com/ru/post/703986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703986)
 - [[Перевод] Моделирование доходов от подписки](https://habr.com/ru/post/704240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704240)
 - [Как я проходил собеседования на Machine Learning Engineer](https://habr.com/ru/post/704128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704128)
-- [PVS-Studio: 2 фишки для быстрого старта](https://habr.com/ru/post/704212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704212)
-- [[Перевод] Добавим динамическую среду в C: мой проект компоновщика](https://habr.com/ru/post/700250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
