@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я проходил собеседования на Machine Learning Engineer](https://habr.com/ru/post/704128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704128)
 - [[Перевод] Добавим динамическую среду в C: мой проект компоновщика](https://habr.com/ru/post/700250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700250)
 - [Как запускать RabbitMQ в Docker](https://habr.com/ru/post/704208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704208)
 - [Матрицы. Перезагрузка: помогли Х5 Tech внедрить единую систему оценки компетенций](https://habr.com/ru/post/704206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704206)
 - [Фантомас, Наташа Ростова и Мейбл Пайнс: как мы делали темную тему для ispmanager](https://habr.com/ru/post/703050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703050)
-- [Бизнес-класс за приемлемые деньги: Nokia E63 с QWERTY клавиатурой за 200 российских рублей](https://habr.com/ru/post/703680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
