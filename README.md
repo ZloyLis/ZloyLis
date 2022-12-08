@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Телеграм терминал для Laurent](https://habr.com/ru/post/704262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704262)
 - [Анимация в Figma от 0 до постинга на Behance](https://habr.com/ru/post/704292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704292)
 - [Маленький dsl](https://habr.com/ru/post/704168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704168)
+- [Запись митапа Tele2 «Продакт и продукт»](https://habr.com/ru/post/704274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704274)
 - [Как ускорить прогон тестов в многомодульном проекте Maven](https://habr.com/ru/post/703986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703986)
-- [[Перевод] Моделирование доходов от подписки](https://habr.com/ru/post/704240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704240)
-- [Как я проходил собеседования на Machine Learning Engineer](https://habr.com/ru/post/704128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
