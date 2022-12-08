@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как собрать, покрыть тестами и опубликовать TypeScript-пакет в npm в 2022 году](https://habr.com/ru/post/704398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704398)
 - [Business Intelligence в Уралсибе: почему мы перешли на FineBI после ухода Tableau из России](https://habr.com/ru/post/704370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704370)
 - [Телеграм терминал для Laurent](https://habr.com/ru/post/704262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704262)
 - [Анимация в Figma от 0 до постинга на Behance](https://habr.com/ru/post/704292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704292)
 - [Маленький dsl](https://habr.com/ru/post/704168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704168)
-- [Запись митапа Tele2 «Продакт и продукт»](https://habr.com/ru/post/704274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
