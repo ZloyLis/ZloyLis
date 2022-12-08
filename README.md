@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Делаем кастомный Collapsing Toolbar на Jetpack Compose](https://habr.com/ru/post/703192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703192)
-- [Вся боль undefined](https://habr.com/ru/post/704152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704152)
-- [React vs Vue vs Angular](https://habr.com/ru/post/703836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703836)
-- [React: работа с 3D-графикой](https://habr.com/ru/post/704024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704024)
-- [Как тестировать методы REST API](https://habr.com/ru/post/704090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704090)
+- [[Перевод] Добавим динамическую среду в C: мой проект компоновщика](https://habr.com/ru/post/700250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700250)
+- [Как запускать RabbitMQ в Docker](https://habr.com/ru/post/704208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704208)
+- [Матрицы. Перезагрузка: помогли Х5 Tech внедрить единую систему оценки компетенций](https://habr.com/ru/post/704206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704206)
+- [Фантомас, Наташа Ростова и Мейбл Пайнс: как мы делали темную тему для ispmanager](https://habr.com/ru/post/703050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703050)
+- [Бизнес-класс за приемлемые деньги: Nokia E63 с QWERTY клавиатурой за 200 российских рублей](https://habr.com/ru/post/703680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
