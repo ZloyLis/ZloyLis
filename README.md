@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Представляем specialist — пакет для оптимизаций Python-кода](https://habr.com/ru/post/700254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700254)
 - [Нарисуй сон](https://habr.com/ru/post/703292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703292)
 - [Как получить доступ к chatGPT в России](https://habr.com/ru/post/704600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704600)
 - [NestJS для разрастающейся разработки: зачем так сложно и почему всё-таки да](https://habr.com/ru/post/704594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704594)
 - [Отечественная образовательная робототехника. Часть 2: Переклеивание шильдиков или самобытные решения?](https://habr.com/ru/post/704584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704584)
-- [[recovery mode] Задача про рыцарей и лжецов](https://habr.com/ru/post/704554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
