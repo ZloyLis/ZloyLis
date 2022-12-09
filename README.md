@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Доступный AutoML: как оптимизировать работу с ML-моделями с помощью VK Cloud и FEDOT](https://habr.com/ru/post/703474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703474)
 - [Строки кода, которые изменили мир](https://habr.com/ru/post/702746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702746)
 - [Tarantool: Билли Миллиган в мире СУБД](https://habr.com/ru/post/704286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704286)
 - [[Перевод] Создание custom layout в SwiftUI. Кэширование](https://habr.com/ru/post/703850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703850)
 - [Проектируем слайдер на главной странице интернет-магазина: 103 гайдлайна](https://habr.com/ru/post/704434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704434)
-- [Используем Objective-C в C++ без проблем](https://habr.com/ru/post/704436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
