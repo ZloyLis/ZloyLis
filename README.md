@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мое первое серебро на Kaggle или как стабилизировать ML модель и подпрыгнуть на 700 мест вверх](https://habr.com/ru/post/704440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704440)
-- [[Перевод] Правила Трех, Пяти и Ноля](https://habr.com/ru/post/704492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704492)
-- [Создаём стенд для бэкенд-разработки на Bare Metal &lpar;и не только&rpar;. Часть 1](https://habr.com/ru/post/702290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702290)
-- [[Перевод] Запросы к MongoDB из Java с помощью билдера фильтров](https://habr.com/ru/post/704488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704488)
-- [Лонгрид по полезному чтению в 2023 году: 39 книг, которые помогут писать красивый &amp;lt;код&amp;gt;](https://habr.com/ru/post/704424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704424)
+- [[recovery mode] Задача про рыцарей и лжецов](https://habr.com/ru/post/704554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704554)
+- [[Перевод] Почему стоит использовать лимиты CPU в Kubernetes](https://habr.com/ru/post/703714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703714)
+- [Весенние конференции JUG Ru Group: много офлайна и много онлайна](https://habr.com/ru/post/704428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704428)
+- [Как поучаствовать в хакатоне и облажаться в последний момент](https://habr.com/ru/post/703670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703670)
+- [[Перевод] Argo Rollouts с примерами](https://habr.com/ru/post/704502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
