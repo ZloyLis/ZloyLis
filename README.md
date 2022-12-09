@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание custom layout в SwiftUI. Кэширование](https://habr.com/ru/post/703850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703850)
+- [Проектируем слайдер на главной странице интернет-магазина: 103 гайдлайна](https://habr.com/ru/post/704434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704434)
 - [Используем Objective-C в C++ без проблем](https://habr.com/ru/post/704436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704436)
 - [Kubernetes the hard way &lpar;Эволюция Часть 1&rpar;](https://habr.com/ru/post/704410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704410)
 - [Suggestion: Чего не хватает в принципах тестирования](https://habr.com/ru/post/704416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704416)
-- [[Перевод] Как собрать, покрыть тестами и опубликовать TypeScript-пакет в npm в 2022 году](https://habr.com/ru/post/704398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704398)
-- [Business Intelligence в Уралсибе: почему мы перешли на FineBI после ухода Tableau из России](https://habr.com/ru/post/704370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
