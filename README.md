@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мое первое серебро на Kaggle или как стабилизировать ML модель и подпрыгнуть на 700 мест вверх](https://habr.com/ru/post/704440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704440)
+- [[Перевод] Правила Трех, Пяти и Ноля](https://habr.com/ru/post/704492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704492)
 - [Создаём стенд для бэкенд-разработки на Bare Metal &lpar;и не только&rpar;. Часть 1](https://habr.com/ru/post/702290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702290)
 - [[Перевод] Запросы к MongoDB из Java с помощью билдера фильтров](https://habr.com/ru/post/704488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704488)
 - [Лонгрид по полезному чтению в 2023 году: 39 книг, которые помогут писать красивый &amp;lt;код&amp;gt;](https://habr.com/ru/post/704424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704424)
-- [Двадцать бабушек – уже рубль. Как GraalVM Native Image позволяет экономить джавистам и девопсам деньги на облако](https://habr.com/ru/post/704494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704494)
-- [Tinkoff: Cracking AI Research](https://habr.com/ru/post/704374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
