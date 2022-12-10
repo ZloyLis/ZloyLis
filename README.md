@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Под капотом autofocus.su](https://habr.com/ru/post/704672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704672)
 - [[Перевод] Создание расширения браузера Google Chrome для извлечения всех изображений web-страницы. Часть 2](https://habr.com/ru/post/704660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704660)
 - [Обзор книги Дэна Бейдера «Чистый Python. Тонкости программирования для профи» — почему её стоит прочитать](https://habr.com/ru/post/704652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704652)
 - [Игра Жизнь и Julia](https://habr.com/ru/post/704640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704640)
 - [SuperIndustry — Dev log #0 – Начало приключения](https://habr.com/ru/post/704636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704636)
-- [[Перевод] clipped&lpar;&rpar; не оказывает влияния на проверку касаний](https://habr.com/ru/post/704142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
