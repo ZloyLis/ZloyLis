@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор книги Дэна Бейдера «Чистый Python. Тонкости программирования для профи» — почему её стоит прочитать](https://habr.com/ru/post/704652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704652)
+- [Игра Жизнь и Julia](https://habr.com/ru/post/704640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704640)
 - [SuperIndustry — Dev log #0 – Начало приключения](https://habr.com/ru/post/704636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704636)
 - [[Перевод] clipped&lpar;&rpar; не оказывает влияния на проверку касаний](https://habr.com/ru/post/704142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704142)
 - [[Перевод] Представляем specialist — пакет для оптимизаций Python-кода](https://habr.com/ru/post/700254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700254)
-- [Нарисуй сон](https://habr.com/ru/post/703292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703292)
-- [Как получить доступ к chatGPT в России](https://habr.com/ru/post/704600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
