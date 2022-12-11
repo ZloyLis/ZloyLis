@@ -29,7 +29,7 @@ ___
 - [Библиотека алгоритмов на графах на языке Go. Часть 1](https://habr.com/ru/post/704730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704730)
 - [Пишем обобщённую хеш-таблицу с открытой адресацией на чистом C](https://habr.com/ru/post/704724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704724)
 - [Чем самообучение лучше курсов](https://habr.com/ru/post/704702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704702)
-- [Под капотом autofocus.su](https://habr.com/ru/post/704672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704672)
+- [Fullstack на Джанго и Вью](https://habr.com/ru/post/704672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704672)
 - [[Перевод] Создание расширения браузера Google Chrome для извлечения всех изображений web-страницы. Часть 2](https://habr.com/ru/post/704660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704660)
 <!-- BLOG-POST-LIST:END -->
 
