@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #469 &lpar;5 — 11 декабря&rpar;](https://habr.com/ru/post/705006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705006)
+- [Как Сбер стал игровые хакатоны проводить: удовольствие, нетворкинг и поиск новых специалистов](https://habr.com/ru/post/704994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704994)
+- [Как из данных узнавать о том, что в продукте что-то пошло не по плану](https://habr.com/ru/post/704988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704988)
 - [[Перевод] Прогнозируем результаты Чемпионата мира 2022 FIFA простой моделью на Python](https://habr.com/ru/post/704570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704570)
 - [PVS-Studio и RPCS3: лучшие предупреждения в один клик](https://habr.com/ru/post/704972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704972)
-- [Электронные часы, мультимедийная библиотека SFML для разработки игр на C++](https://habr.com/ru/post/704956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704956)
-- [Мы с братом сделали сервис Mind Tracker](https://habr.com/ru/post/704922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704922)
-- [Земля круглая, вода мокрая, JPEG шакалит, небо голубое… Или нет?](https://habr.com/ru/post/704750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
