@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Электронные часы, мультимедийная библиотека SFML для разработки игр на C++](https://habr.com/ru/post/704956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704956)
+- [Мы с братом сделали сервис Mind Tracker](https://habr.com/ru/post/704922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704922)
 - [Земля круглая, вода мокрая, JPEG шакалит, небо голубое… Или нет?](https://habr.com/ru/post/704750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704750)
 - [Первое знакомство с требованиями информационной безопасности при разработке ГИС системы](https://habr.com/ru/post/704904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704904)
 - [[Перевод] Лекция 8. Helicopter Game 3D — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/704888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704888)
-- [[Перевод] Интуитивно понятное управление: как помочь пользователям разобраться в принципах работы приложения](https://habr.com/ru/post/704882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704882)
-- [Java. Работа с XML-документами](https://habr.com/ru/post/704818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
