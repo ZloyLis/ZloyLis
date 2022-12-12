@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Земля круглая, вода мокрая, JPEG шакалит, небо голубое… Или нет?](https://habr.com/ru/post/704750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704750)
+- [Первое знакомство с требованиями информационной безопасности при разработке ГИС системы](https://habr.com/ru/post/704904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704904)
 - [[Перевод] Лекция 8. Helicopter Game 3D — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/704888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704888)
 - [[Перевод] Интуитивно понятное управление: как помочь пользователям разобраться в принципах работы приложения](https://habr.com/ru/post/704882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704882)
 - [Java. Работа с XML-документами](https://habr.com/ru/post/704818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704818)
-- [Проблема grpc-gateway и как ее можно решить](https://habr.com/ru/post/704802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704802)
-- [Величайшие программисты 21 века. Джон-Движок Кармак](https://habr.com/ru/post/701556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
