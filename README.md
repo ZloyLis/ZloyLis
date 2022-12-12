@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Прогнозируем результаты Чемпионата мира 2022 FIFA простой моделью на Python](https://habr.com/ru/post/704570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704570)
+- [PVS-Studio и RPCS3: лучшие предупреждения в один клик](https://habr.com/ru/post/704972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704972)
 - [Электронные часы, мультимедийная библиотека SFML для разработки игр на C++](https://habr.com/ru/post/704956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704956)
 - [Мы с братом сделали сервис Mind Tracker](https://habr.com/ru/post/704922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704922)
 - [Земля круглая, вода мокрая, JPEG шакалит, небо голубое… Или нет?](https://habr.com/ru/post/704750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704750)
-- [Первое знакомство с требованиями информационной безопасности при разработке ГИС системы](https://habr.com/ru/post/704904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704904)
-- [[Перевод] Лекция 8. Helicopter Game 3D — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/704888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
