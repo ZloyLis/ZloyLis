@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделай сам: МИС на коленке и в облаке](https://habr.com/ru/post/703732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703732)
 - [Вещи, которые я бы хотел знать будучи Junior-дизайнером](https://habr.com/ru/post/704824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704824)
 - [Архитектура PostgreSQL. Часть 1. Цикл сервера](https://habr.com/ru/post/704618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704618)
 - [Проектируем форму подписки на рассылку в интернет-магазине: 105 гайдлайнов](https://habr.com/ru/post/704806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704806)
 - [Релизный цикл ПО для самых маленьких](https://habr.com/ru/post/704696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704696)
-- [«Человек-паук» или как я учился на системного аналитика в Нетологии](https://habr.com/ru/post/704790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
