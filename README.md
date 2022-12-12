@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RecyclerView для начинающего Android-разработчика](https://habr.com/ru/post/705064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705064)
 - [Мобильная разработка за неделю #469 &lpar;5 — 11 декабря&rpar;](https://habr.com/ru/post/705006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705006)
 - [Как Сбер стал игровые хакатоны проводить: удовольствие, нетворкинг и поиск новых специалистов](https://habr.com/ru/post/704994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704994)
 - [Как из данных узнавать о том, что в продукте что-то пошло не по плану](https://habr.com/ru/post/704988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704988)
 - [[Перевод] Прогнозируем результаты Чемпионата мира 2022 FIFA простой моделью на Python](https://habr.com/ru/post/704570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704570)
-- [PVS-Studio и RPCS3: лучшие предупреждения в один клик](https://habr.com/ru/post/704972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
