@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема grpc-gateway и как ее можно решить](https://habr.com/ru/post/704802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704802)
+- [Величайшие программисты 21 века. Джон-Движок Кармак](https://habr.com/ru/post/701556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701556)
+- [Писать нативные автотесты для iOS сложно? Это пока вы их запускать не начнёте](https://habr.com/ru/post/698476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698476)
+- [ActiveRecord Schema Consistency — а если проверю?](https://habr.com/ru/post/703494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703494)
 - [Взгляд профессионалов на UX: единства нет](https://habr.com/ru/post/704800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704800)
-- [IT&#39;s Tinkoff QA Meetup](https://habr.com/ru/post/704840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704840)
-- [Сделай сам: МИС на коленке и в облаке](https://habr.com/ru/post/703732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703732)
-- [Вещи, которые я бы хотел знать будучи Junior-дизайнером](https://habr.com/ru/post/704824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704824)
-- [Архитектура PostgreSQL. Часть 1. Цикл сервера](https://habr.com/ru/post/704618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
