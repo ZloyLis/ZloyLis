@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Лекция 8. Helicopter Game 3D — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/704888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704888)
+- [[Перевод] Интуитивно понятное управление: как помочь пользователям разобраться в принципах работы приложения](https://habr.com/ru/post/704882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704882)
+- [Java. Работа с XML-документами](https://habr.com/ru/post/704818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704818)
 - [Проблема grpc-gateway и как ее можно решить](https://habr.com/ru/post/704802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704802)
 - [Величайшие программисты 21 века. Джон-Движок Кармак](https://habr.com/ru/post/701556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701556)
-- [Писать нативные автотесты для iOS сложно? Это пока вы их запускать не начнёте](https://habr.com/ru/post/698476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698476)
-- [ActiveRecord Schema Consistency — а если проверю?](https://habr.com/ru/post/703494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703494)
-- [Взгляд профессионалов на UX: единства нет](https://habr.com/ru/post/704800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
