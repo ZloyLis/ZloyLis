@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вещи, которые я бы хотел знать будучи Junior-дизайнером](https://habr.com/ru/post/704824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704824)
+- [Архитектура PostgreSQL. Часть 1. Цикл сервера](https://habr.com/ru/post/704618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704618)
+- [Проектируем форму подписки на рассылку в интернет-магазине: 105 гайдлайнов](https://habr.com/ru/post/704806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704806)
+- [Релизный цикл ПО для самых маленьких](https://habr.com/ru/post/704696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704696)
 - [«Человек-паук» или как я учился на системного аналитика в Нетологии](https://habr.com/ru/post/704790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704790)
-- [Java-дайджест 5-12 декабря 2022](https://habr.com/ru/post/704788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704788)
-- [[Перевод] Управление заголовками HTTP в Joomla 4 &lpar;часть 1&rpar;](https://habr.com/ru/post/697214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697214)
-- [Легендарная Nokia с миниатюрным жёстким диском! Какова она в 2022?](https://habr.com/ru/post/704768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704768)
-- [Что мы знаем про UX? Психологические аспекты пользовательского опыта](https://habr.com/ru/post/704764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
