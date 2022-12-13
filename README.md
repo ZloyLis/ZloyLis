@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Российская виртуализация или после сборки обработать напильником](https://habr.com/ru/post/705124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705124)
+- [Как за 5 минут развернуть IDE для прототипирования в облаке?](https://habr.com/ru/post/705156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705156)
 - [Разумные правила оптимальной зарядки: подробнее про скорость, блоки питания, внешние аккумуляторы и многое другое](https://habr.com/ru/post/705138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705138)
 - [Security Week 2250: защита данных пользователей Apple](https://habr.com/ru/post/705140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705140)
 - [Какие нужны требования: развитие концепта](https://habr.com/ru/post/703758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703758)
-- [ТОП-10 лучших текстов блога ЛАНИТ на Хабре за два года](https://habr.com/ru/post/704404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704404)
-- [Кастомный генератор кода API: структура и методы доработки](https://habr.com/ru/post/704902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
