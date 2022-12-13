@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Трудности, с которыми мы столкнулись при модуляризации нашего приложения. Часть 2](https://habr.com/ru/post/705292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705292)
+- [Как обеспечивать качество при релизах раз в час](https://habr.com/ru/post/703230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703230)
+- [Kotlin Symbol Processing. От теории до практики](https://habr.com/ru/post/705278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705278)
 - [[Перевод] Qooxdoo 6.0 — JavaScript фреймворк для тех, кто любит кодить](https://habr.com/ru/post/705254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705254)
 - [Как заработать на Bug Bounty](https://habr.com/ru/post/705222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705222)
-- [[recovery mode] Jenkins pipelines с Groovy](https://habr.com/ru/post/705240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705240)
-- [[Перевод] Только начинаете автоматизацию тестирования? Не совершайте эти ошибки](https://habr.com/ru/post/705214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705214)
-- [Нюансы поддержки npm в Deno](https://habr.com/ru/post/705204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
