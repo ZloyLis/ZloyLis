@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Jenkins pipelines с Groovy](https://habr.com/ru/post/705240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705240)
 - [[Перевод] Только начинаете автоматизацию тестирования? Не совершайте эти ошибки](https://habr.com/ru/post/705214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705214)
 - [Нюансы поддержки npm в Deno](https://habr.com/ru/post/705204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705204)
 - [Ценный QA Automation – кто он на самом деле? Загадка от Жака Фреско](https://habr.com/ru/post/705190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705190)
 - [Российская виртуализация или после сборки обработать напильником](https://habr.com/ru/post/705124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705124)
-- [Как за 5 минут развернуть IDE для прототипирования в облаке?](https://habr.com/ru/post/705156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
