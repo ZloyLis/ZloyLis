@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест недели от Apple Pro Weekly News &lpar;05.12 – 11.12.22&rpar;](https://habr.com/ru/post/704782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704782)
+- [[Перевод] HTML &amp;amp; CSS Features, Tips For a 10x Faster Page Loading Speed — DEV Community](https://habr.com/ru/post/705310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705310)
 - [[Перевод] Трудности, с которыми мы столкнулись при модуляризации нашего приложения. Часть 2](https://habr.com/ru/post/705292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705292)
 - [Как обеспечивать качество при релизах раз в час](https://habr.com/ru/post/703230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703230)
 - [Kotlin Symbol Processing. От теории до практики](https://habr.com/ru/post/705278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705278)
-- [[Перевод] Qooxdoo 6.0 — JavaScript фреймворк для тех, кто любит кодить](https://habr.com/ru/post/705254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705254)
-- [Как заработать на Bug Bounty](https://habr.com/ru/post/705222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
