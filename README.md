@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие нужны требования: развитие концепта](https://habr.com/ru/post/703758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703758)
 - [ТОП-10 лучших текстов блога ЛАНИТ на Хабре за два года](https://habr.com/ru/post/704404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704404)
 - [Кастомный генератор кода API: структура и методы доработки](https://habr.com/ru/post/704902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704902)
 - [[Перевод] dataTile for Simulator — публичная бета уже на TestFlight](https://habr.com/ru/post/704880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704880)
 - [Программировали два товарища](https://habr.com/ru/post/705106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705106)
-- [Проектируем блок с призывом к установке мобильного приложения: 76 гайдлайнов](https://habr.com/ru/post/705092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
