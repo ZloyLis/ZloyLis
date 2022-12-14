@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Привет из мира 1С — Обработка результатов запроса произвольными вычисляемыми полями. Обзор некоторых новых функций СКД](https://habr.com/ru/post/705540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705540)
 - [Как применять Module Federation для шеринга виджетов из UI-kit](https://habr.com/ru/post/705514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705514)
 - [Одно из лучших физкультурных упражнений для программиста. Почему трудно делать и workaround на смартфоне и смарт часах](https://habr.com/ru/post/705444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705444)
 - [Локализуем игру в слова с искусственным интеллектом](https://habr.com/ru/post/705410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705410)
 - [[Перевод] Анонс Lottie 4.0 для iOS](https://habr.com/ru/post/705314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705314)
-- [Определение комбинации в Техасском Холдеме](https://habr.com/ru/post/705488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
