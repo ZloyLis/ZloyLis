@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс выпускает Yatagan — опенсорс-фреймворк для внедрения зависимостей, позволяющий ускорить сборку](https://habr.com/ru/post/704838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704838)
 - [[Перевод] Прощай, Data Science](https://habr.com/ru/post/704938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704938)
 - [Дайджест недели от Apple Pro Weekly News &lpar;05.12 – 11.12.22&rpar;](https://habr.com/ru/post/704782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704782)
 - [[Перевод] HTML &amp;amp; CSS Features, Tips For a 10x Faster Page Loading Speed — DEV Community](https://habr.com/ru/post/705310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705310)
 - [[Перевод] Трудности, с которыми мы столкнулись при модуляризации нашего приложения. Часть 2](https://habr.com/ru/post/705292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705292)
-- [Как обеспечивать качество при релизах раз в час](https://habr.com/ru/post/703230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
