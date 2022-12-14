@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Создание веб-приложения на Ktor. Часть 1](https://habr.com/ru/post/705480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705480)
-- [Поиск в глубину, поиск в ширину, алгоритмы Дейкстры и А* — это один и тот же алгоритм](https://habr.com/ru/post/705178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705178)
-- [[Перевод] CHAD Principles](https://habr.com/ru/post/705452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705452)
-- [Зачем Clojure Flutter](https://habr.com/ru/post/705448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705448)
-- [[recovery mode] Как доработка UX помогла сократить время прохождения сценария заказа еды на 70%. Часть 2](https://habr.com/ru/post/705434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705434)
+- [Разработчики и игры в рабочее время = есть ли решение?](https://habr.com/ru/post/705498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705498)
+- [Локализуем игру в слова с искусственным интеллектом](https://habr.com/ru/post/705410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705410)
+- [[Перевод] Анонс Lottie 4.0 для iOS](https://habr.com/ru/post/705314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705314)
+- [Определение комбинации в Техасском Холдеме](https://habr.com/ru/post/705488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705488)
+- [[Перевод] Что нового в Java 20?](https://habr.com/ru/post/705478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
