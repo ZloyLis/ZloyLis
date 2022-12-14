@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Одно из лучших физкультурных упражнений для программиста. Почему трудно делать и workaround на смартфоне и смарт часах](https://habr.com/ru/post/705444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705444)
 - [Разработчики и игры в рабочее время = есть ли решение?](https://habr.com/ru/post/705498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705498)
 - [Локализуем игру в слова с искусственным интеллектом](https://habr.com/ru/post/705410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705410)
 - [[Перевод] Анонс Lottie 4.0 для iOS](https://habr.com/ru/post/705314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705314)
 - [Определение комбинации в Техасском Холдеме](https://habr.com/ru/post/705488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705488)
-- [[Перевод] Что нового в Java 20?](https://habr.com/ru/post/705478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
