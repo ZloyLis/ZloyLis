@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Классика, визуализация и GNN: три решения для ML-модели с графовыми данными](https://habr.com/ru/post/703484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703484)
 - [ChatGPT пройдёт собеседование по Data Science вместо вас](https://habr.com/ru/post/705094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705094)
 - [[Перевод] Стратегии роста Notion. Часть 1](https://habr.com/ru/post/705386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705386)
 - [Онбординг новичков: как компании влюбить в себя сотрудника](https://habr.com/ru/post/700516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700516)
 - [Tutorial по обмену с 1С. Часть третья: Выжимаем максимум из стандарта. Что мы хотели бы знать 1000 проектов назад](https://habr.com/ru/post/705244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705244)
-- [Редизайн приложения для ЖКХ: как упорядочить хаос и не наломать дров](https://habr.com/ru/post/705390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
