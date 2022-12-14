@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание веб-приложения на Ktor. Часть 1](https://habr.com/ru/post/705480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705480)
+- [Поиск в глубину, поиск в ширину, алгоритмы Дейкстры и А* — это один и тот же алгоритм](https://habr.com/ru/post/705178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705178)
+- [[Перевод] CHAD Principles](https://habr.com/ru/post/705452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705452)
 - [Зачем Clojure Flutter](https://habr.com/ru/post/705448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705448)
 - [[recovery mode] Как доработка UX помогла сократить время прохождения сценария заказа еды на 70%. Часть 2](https://habr.com/ru/post/705434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705434)
-- [К вопросу о математических способностях студентов или как учить переполненный мозг](https://habr.com/ru/post/704798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704798)
-- [Казуальный клавиатурный тренажер Keytulle, теперь free-to-pay](https://habr.com/ru/post/705430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705430)
-- [Классика, визуализация и GNN: три решения для ML-модели с графовыми данными](https://habr.com/ru/post/703484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
