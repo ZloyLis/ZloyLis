@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как проектировать спецификации OpenAPI для SPA: теория и практика](https://habr.com/ru/post/705698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705698)
+- [[Перевод] Почему усилия Европы по разблокировке iPhone не сильно навредят Apple](https://habr.com/ru/post/705688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705688)
+- [5 способов выбрать тему для выступления на ИТ-конференции](https://habr.com/ru/post/704960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704960)
 - [RTK query, что мы от него хотим и почему он вам очень нужен](https://habr.com/ru/post/705640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705640)
 - [[Перевод] Практический подход к изучению профиля клиентов по данным популяционного исследования. Исследования субпопуляции](https://habr.com/ru/post/705670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705670)
-- [[Перевод] Геометрия объектной модели документа: исчерпывающее руководство](https://habr.com/ru/post/705552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705552)
-- [MobX c MVVM хорош, но с DI ещё лучше](https://habr.com/ru/post/704772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704772)
-- [Vivaldi 5.6 для Android — Тонкая работа](https://habr.com/ru/post/705624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
