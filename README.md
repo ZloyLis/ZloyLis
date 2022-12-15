@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 5](https://habr.com/ru/post/705806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705806)
+- [Практической опыт проектирования систем графового анализа](https://habr.com/ru/post/705802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705802)
+- [Ускоряем разработку за счет пакета Mason на Flutter](https://habr.com/ru/post/705798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705798)
 - [Магия размерностей и магия Котлина. Часть вторая: Продвинутые возможности  KotUniL](https://habr.com/ru/post/705788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705788)
 - [[Перевод] Разработка и тестирование сортируемых компонентов Drag and Drop. Часть 1 — Разработка](https://habr.com/ru/post/704604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704604)
-- [Дизайн. С нуля до миддла](https://habr.com/ru/post/705776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705776)
-- [[Перевод] Немного о Fastify](https://habr.com/ru/post/705762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705762)
-- [Управление в децентрализованных сетях](https://habr.com/ru/post/705758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
