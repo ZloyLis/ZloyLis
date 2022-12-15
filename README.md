@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как скетчи помогают в работе и жизни: от коммуникации с заказчиком до иллюстративного дневника](https://habr.com/ru/post/705718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705718)
+- [Трекинг без разметки или как следить за тысячами пузырьков на производстве](https://habr.com/ru/post/705020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705020)
+- [Apple Powerbook G4: основатель династии](https://habr.com/ru/post/705596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705596)
 - [Как проектировать спецификации OpenAPI для SPA: теория и практика](https://habr.com/ru/post/705698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705698)
 - [[Перевод] Почему усилия Европы по разблокировке iPhone не сильно навредят Apple](https://habr.com/ru/post/705688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705688)
-- [5 способов выбрать тему для выступления на ИТ-конференции](https://habr.com/ru/post/704960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704960)
-- [RTK query, что мы от него хотим и почему он вам очень нужен](https://habr.com/ru/post/705640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705640)
-- [[Перевод] Практический подход к изучению профиля клиентов по данным популяционного исследования. Исследования субпопуляции](https://habr.com/ru/post/705670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
