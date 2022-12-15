@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многопоточный процесс выполнения процедуры с помощью методов стандартных подсистем 1С](https://habr.com/ru/post/705840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705840)
 - [[Перевод] Точка с запятой в JavaScript: Действительно ли она вам нужна? [Руководство 2022]](https://habr.com/ru/post/705828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705828)
 - [Чему не учат разработчиков: советы для начинающих](https://habr.com/ru/post/705824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705824)
-- [Galaxy S IV — шедевр Samsung&#39;а из далекого 2013 года. Какой он в 2022, при стоимости в 500 рублей?](https://habr.com/ru/post/705818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705818)
+- [Еще один «привет» из мира 1с — новые возможности языка запроса, которые нужно знать всем 1с-никам](https://habr.com/ru/post/705800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705800)
 - [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 5](https://habr.com/ru/post/705806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705806)
-- [Практической опыт проектирования систем графового анализа](https://habr.com/ru/post/705802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
