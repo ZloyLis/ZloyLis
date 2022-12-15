@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Магия размерностей и магия Котлина. Часть вторая: Продвинутые возможности  KotUniL](https://habr.com/ru/post/705788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705788)
+- [[Перевод] Разработка и тестирование сортируемых компонентов Drag and Drop. Часть 1 — Разработка](https://habr.com/ru/post/704604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704604)
+- [Дизайн. С нуля до миддла](https://habr.com/ru/post/705776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705776)
 - [[Перевод] Немного о Fastify](https://habr.com/ru/post/705762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705762)
 - [Управление в децентрализованных сетях](https://habr.com/ru/post/705758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705758)
-- [Менторство в команде Ops: взгляд со стороны ментора](https://habr.com/ru/post/703178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703178)
-- [[Перевод] Создаем оберточный HStack с помощью протокола Layout SwiftUI](https://habr.com/ru/post/705722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705722)
-- [Создаем простую игру с Jetpack Compose для часов на Google WearOS](https://habr.com/ru/post/705686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
