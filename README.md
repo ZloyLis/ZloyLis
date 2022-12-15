@@ -35,4 +35,4 @@ ___
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloylis&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
+[![Top Langs](https://github-readme-stats-lyart-beta.vercel.app/api/top-langs/?username=zloylis&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
