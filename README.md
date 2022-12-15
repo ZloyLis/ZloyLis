@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизируем перевод с деплоя bash-скриптами на helmfile при помощи Python: инструкция по применению](https://habr.com/ru/post/705620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705620)
 - [GraphQL: сложность запросов](https://habr.com/ru/post/705512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705512)
 - [Моделирование двигателя по неполной спецификации](https://habr.com/ru/post/705612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705612)
 - [[Перевод] Моушн-инжиниринг в Масштабе](https://habr.com/ru/post/705286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705286)
 - [От крышки рояля до фреймворка на rust: как системное программирование помогает творческой реализации](https://habr.com/ru/post/705600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705600)
-- [Магия размерностей и магия Котлина. Часть первая: Введение в KotUniL](https://habr.com/ru/post/705588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
