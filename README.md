@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От крышки рояля до фреймворка на rust: как системное программирование помогает творческой реализации](https://habr.com/ru/post/705600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705600)
 - [Магия размерностей и магия Котлина. Часть первая: Введение в KotUniL](https://habr.com/ru/post/705588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705588)
 - [Поиск оптимильных маршрутов для перевозки самокатов](https://habr.com/ru/post/705582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705582)
 - [Настало время раскрыть карты](https://habr.com/ru/post/705578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705578)
 - [Привет из мира 1С — Обработка результатов запроса произвольными вычисляемыми полями. Обзор некоторых новых функций СКД](https://habr.com/ru/post/705540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705540)
-- [Как применять Module Federation для шеринга виджетов из UI-kit](https://habr.com/ru/post/705514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
