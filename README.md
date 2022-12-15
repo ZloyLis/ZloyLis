@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Немного о Fastify](https://habr.com/ru/post/705762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705762)
+- [Управление в децентрализованных сетях](https://habr.com/ru/post/705758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705758)
+- [Менторство в команде Ops: взгляд со стороны ментора](https://habr.com/ru/post/703178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703178)
 - [[Перевод] Создаем оберточный HStack с помощью протокола Layout SwiftUI](https://habr.com/ru/post/705722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705722)
 - [Создаем простую игру с Jetpack Compose для часов на Google WearOS](https://habr.com/ru/post/705686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705686)
-- [Архитектура приложений и интеграции: гайд по основным понятиям простыми словами](https://habr.com/ru/post/705598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705598)
-- [Гексагональная архитектура и DDD на опыте интернет-магазина Спортмастер. Пробуем новое](https://habr.com/ru/post/705192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705192)
-- [Как скетчи помогают в работе и жизни: от коммуникации с заказчиком до иллюстративного дневника](https://habr.com/ru/post/705718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
