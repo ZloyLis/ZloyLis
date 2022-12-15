@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RTK query, что мы от него хотим и почему он вам очень нужен](https://habr.com/ru/post/705640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705640)
+- [[Перевод] Практический подход к изучению профиля клиентов по данным популяционного исследования. Исследования субпопуляции](https://habr.com/ru/post/705670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705670)
 - [[Перевод] Геометрия объектной модели документа: исчерпывающее руководство](https://habr.com/ru/post/705552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705552)
 - [MobX c MVVM хорош, но с DI ещё лучше](https://habr.com/ru/post/704772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704772)
 - [Vivaldi 5.6 для Android — Тонкая работа](https://habr.com/ru/post/705624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705624)
-- [Создаём «умный» мок с минимумом усилий](https://habr.com/ru/post/705652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705652)
-- [Мониторинг межсервисного взаимодействия Kubernetes с помощью протокола NetFlow](https://habr.com/ru/post/704586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
