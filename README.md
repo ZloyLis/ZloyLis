@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизируем перевод с деплоя bash-скриптами на helmfile при помощи Python: инструкция по применению](https://habr.com/ru/post/705620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705620)
-- [GraphQL: сложность запросов](https://habr.com/ru/post/705512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705512)
-- [Моделирование двигателя по неполной спецификации](https://habr.com/ru/post/705612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705612)
-- [[Перевод] Моушн-инжиниринг в Масштабе](https://habr.com/ru/post/705286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705286)
-- [От крышки рояля до фреймворка на rust: как системное программирование помогает творческой реализации](https://habr.com/ru/post/705600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705600)
+- [[Перевод] Геометрия объектной модели документа: исчерпывающее руководство](https://habr.com/ru/post/705552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705552)
+- [MobX c MVVM хорош, но с DI ещё лучше](https://habr.com/ru/post/704772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704772)
+- [Vivaldi 5.6 для Android — Тонкая работа](https://habr.com/ru/post/705624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705624)
+- [Создаём «умный» мок с минимумом усилий](https://habr.com/ru/post/705652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705652)
+- [Мониторинг межсервисного взаимодействия Kubernetes с помощью протокола NetFlow](https://habr.com/ru/post/704586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
