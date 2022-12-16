@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности работы мобильного аналитика в банковских проектах](https://habr.com/ru/post/705888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705888)
+- [Баг или фича *BNDDIR?](https://habr.com/ru/post/705926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705926)
 - [[Перевод] Может ли Java-приложение использовать больше памяти, чем размер кучи](https://habr.com/ru/post/705982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705982)
 - [Поиск единомышленников, помощник при релокейте и подписка на всё: концепты с зимнего хакатона red_mad_robot](https://habr.com/ru/post/705978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705978)
 - [Особенность CI/CD-конвейеров для корпораций и новое решение от Сбера](https://habr.com/ru/post/705966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705966)
-- [UNIGINE 2.16.1 — Screen-Space Haze Global Illumination, улучшенный API импорта, усовершенствования для VR](https://habr.com/ru/post/705940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705940)
-- [Посуточная аренда в Авито: как мы делаем сервис надёжным с помощью MLP онлайн-бронирования](https://habr.com/ru/post/705924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
