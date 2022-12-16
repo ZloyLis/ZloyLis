@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Посуточная аренда в Авито: как мы делаем сервис надёжным с помощью MLP онлайн-бронирования](https://habr.com/ru/post/705924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705924)
 - [Готовим docker-образы Astra Linux с Ruby и NodeJS](https://habr.com/ru/post/705860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705860)
 - [Как программисты дурят бизнес?](https://habr.com/ru/post/705246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705246)
 - [Я купил смартфон за 500 рублей, а он оказался с подвохом. Делаем из него домашний сервер](https://habr.com/ru/post/705298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705298)
 - [Что такое service mesh простыми словами](https://habr.com/ru/post/705914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705914)
-- [Семь прогнозов: что ждет data-инжиниринг в 2023 году](https://habr.com/ru/post/704928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
