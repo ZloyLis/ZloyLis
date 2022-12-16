@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Бредовые проекты в разработке](https://habr.com/ru/post/705874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705874)
+- [Стандартные возможности работы со строками при помощи БСП, которые уже каждый придумал для себя](https://habr.com/ru/post/705870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705870)
 - [[Перевод] Сказ о M1 GPU](https://habr.com/ru/post/705852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705852)
 - [Многопоточный процесс выполнения процедуры с помощью методов стандартных подсистем 1С](https://habr.com/ru/post/705840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705840)
 - [[Перевод] Точка с запятой в JavaScript: Действительно ли она вам нужна? [Руководство 2022]](https://habr.com/ru/post/705828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705828)
-- [Чему не учат разработчиков: советы для начинающих](https://habr.com/ru/post/705824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705824)
-- [Еще один «привет» из мира 1с — новые возможности языка запроса, которые нужно знать всем 1с-никам](https://habr.com/ru/post/705800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
