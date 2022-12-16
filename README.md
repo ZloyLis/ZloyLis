@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Может ли Java-приложение использовать больше памяти, чем размер кучи](https://habr.com/ru/post/705982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705982)
+- [Поиск единомышленников, помощник при релокейте и подписка на всё: концепты с зимнего хакатона red_mad_robot](https://habr.com/ru/post/705978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705978)
+- [Особенность CI/CD-конвейеров для корпораций и новое решение от Сбера](https://habr.com/ru/post/705966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705966)
 - [UNIGINE 2.16.1 — Screen-Space Haze Global Illumination, улучшенный API импорта, усовершенствования для VR](https://habr.com/ru/post/705940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705940)
 - [Посуточная аренда в Авито: как мы делаем сервис надёжным с помощью MLP онлайн-бронирования](https://habr.com/ru/post/705924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705924)
-- [Готовим docker-образы Astra Linux с Ruby и NodeJS](https://habr.com/ru/post/705860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705860)
-- [Как программисты дурят бизнес?](https://habr.com/ru/post/705246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705246)
-- [Я купил смартфон за 500 рублей, а он оказался с подвохом. Делаем из него домашний сервер](https://habr.com/ru/post/705298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
