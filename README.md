@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Генерация штрихкодов с помощью стандартных подсистем 1с для программистов](https://habr.com/ru/post/705898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705898)
-- [Проектируем процесс сравнения товаров в интернет-магазине: 156 гайдлайнов](https://habr.com/ru/post/705878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705878)
-- [[Перевод] Бредовые проекты в разработке](https://habr.com/ru/post/705874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705874)
-- [Стандартные возможности работы со строками при помощи БСП, которые уже каждый придумал для себя](https://habr.com/ru/post/705870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705870)
-- [[Перевод] Сказ о M1 GPU](https://habr.com/ru/post/705852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705852)
+- [Как программисты дурят бизнес?](https://habr.com/ru/post/705246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705246)
+- [Я купил смартфон за 500 рублей, а он оказался с подвохом. Делаем из него домашний сервер](https://habr.com/ru/post/705298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705298)
+- [Что такое service mesh простыми словами](https://habr.com/ru/post/705914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705914)
+- [Семь прогнозов: что ждет data-инжиниринг в 2023 году](https://habr.com/ru/post/704928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704928)
+- [Объявление: харизматичная команда без в/п и м/п ищет единомышленников для регулярных встреч и совместной работы](https://habr.com/ru/post/705904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
