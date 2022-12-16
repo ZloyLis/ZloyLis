@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация штрихкодов с помощью стандартных подсистем 1с для программистов](https://habr.com/ru/post/705898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705898)
 - [Проектируем процесс сравнения товаров в интернет-магазине: 156 гайдлайнов](https://habr.com/ru/post/705878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705878)
 - [[Перевод] Бредовые проекты в разработке](https://habr.com/ru/post/705874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705874)
 - [Стандартные возможности работы со строками при помощи БСП, которые уже каждый придумал для себя](https://habr.com/ru/post/705870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705870)
 - [[Перевод] Сказ о M1 GPU](https://habr.com/ru/post/705852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705852)
-- [Многопоточный процесс выполнения процедуры с помощью методов стандартных подсистем 1С](https://habr.com/ru/post/705840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
