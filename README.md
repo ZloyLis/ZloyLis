@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмпирические исследования UX от начала 2000-х до наших дней](https://habr.com/ru/post/706152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706152)
+- [Креативность и программист](https://habr.com/ru/post/706148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706148)
 - [Как зануды предсказывают результаты футбольных матчей](https://habr.com/ru/post/706128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706128)
 - [15 причин, почему ты всё ещё джун](https://habr.com/ru/post/706122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706122)
 - [«Чтение — всему голова!» Переводим электронные книги формата .EPUB с помощью Python](https://habr.com/ru/post/706118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706118)
-- [Телепортируем мемы в telegram, или как вернуть нажитое непосильным трудом](https://habr.com/ru/post/706116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706116)
-- [gRPC — альтернатива REST API от Google](https://habr.com/ru/post/706114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
