@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [15 причин, почему ты всё ещё джун](https://habr.com/ru/post/706122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706122)
+- [«Чтение — всему голова!» Переводим электронные книги формата .EPUB с помощью Python](https://habr.com/ru/post/706118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706118)
+- [Телепортируем мемы в telegram, или как вернуть нажитое непосильным трудом](https://habr.com/ru/post/706116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706116)
 - [gRPC — альтернатива REST API от Google](https://habr.com/ru/post/706114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706114)
 - [Колдовской NeoVIM. Часть вторая. “Конфиг Всевластья”](https://habr.com/ru/post/706110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706110)
-- [Сделал приложение для создания мультиязычных книг и параллельных корпусов](https://habr.com/ru/post/704958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704958)
-- [Redux в Angular. Туда и обратно](https://habr.com/ru/post/706092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706092)
-- [[Перевод] Как работают рекомендации в Spotify](https://habr.com/ru/post/706060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
