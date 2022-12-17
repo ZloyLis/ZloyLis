@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделал приложение для создания мультиязычных книг и параллельных корпусов](https://habr.com/ru/post/704958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704958)
 - [Redux в Angular. Туда и обратно](https://habr.com/ru/post/706092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706092)
 - [[Перевод] Как работают рекомендации в Spotify](https://habr.com/ru/post/706060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706060)
 - [Почему стоит регистрировать программы для ЭВМ как изобретения: 5 примеров из практики](https://habr.com/ru/post/706036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706036)
 - [Магия размерностей и магия Котлина. Часть третья: Смешение магий](https://habr.com/ru/post/706034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706034)
-- [Антипаттерны проектирования](https://habr.com/ru/post/706024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
