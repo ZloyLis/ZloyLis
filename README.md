@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микросервисы на основе событий с Dapr](https://habr.com/ru/post/706186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706186)
 - [Можно ли стать программистом &lpar;в возрасте&rpar;?](https://habr.com/ru/post/706206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706206)
 - [Параллелизм истинный и мнимый или… и ты туда же, Рикитаке](https://habr.com/ru/post/706192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706192)
 - [[Перевод] Rust 1.66.0: дискриминанты для перечислений с полями, black_box, cargo remove](https://habr.com/ru/post/706176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706176)
 - [Самый запутанный краш в моей жизни](https://habr.com/ru/post/706126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706126)
-- [Эмпирические исследования UX от начала 2000-х до наших дней](https://habr.com/ru/post/706152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
