@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.66.0: дискриминанты для перечислений с полями, black_box, cargo remove](https://habr.com/ru/post/706176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706176)
 - [Самый запутанный краш в моей жизни](https://habr.com/ru/post/706126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706126)
 - [Эмпирические исследования UX от начала 2000-х до наших дней](https://habr.com/ru/post/706152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706152)
 - [Креативность и программист](https://habr.com/ru/post/706148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706148)
 - [Как зануды предсказывают результаты футбольных матчей](https://habr.com/ru/post/706128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706128)
-- [15 причин, почему ты всё ещё джун](https://habr.com/ru/post/706122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
