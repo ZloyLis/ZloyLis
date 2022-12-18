@@ -17,7 +17,7 @@
 ![WebPAck](https://img.shields.io/badge/WebPack-informational?logo=webPack&style=flat&logoColor=white&color=FF6F00)
 ![Vue](https://img.shields.io/badge/Vue-informational?logo=vue.js&style=flat&logoColor=white&color=red)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?logo=Bootstrap&style=flat&logoColor=white&color=7952B3)<br>
-![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=darkorange)
+![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=F05133)
 ![Figma](https://img.shields.io/badge/Figma-informational?logo=figma&style=flat&logoColor=white&color=darkred)
 
 <!--
