@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как встроить в процессы UX-редакторов, чтобы продуктовая команда работала с удовольствием](https://habr.com/ru/post/705938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705938)
+- [Декомпозиция систем по ограниченным контекстам DDD — глубокое погружение](https://habr.com/ru/post/705846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705846)
+- [Альтернативные магазины мобильных приложений: как обойтись без Google Play и AppStore](https://habr.com/ru/post/706278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706278)
 - [Как устроено приложение Калькулятор на iPhone](https://habr.com/ru/post/706274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706274)
 - [Настраиваем Gitlab CI для сборки Android-проекта](https://habr.com/ru/post/706222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706222)
-- [Exposed с SQLite на Android?](https://habr.com/ru/post/706220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706220)
-- [Мобильная разработка за неделю #470 &lpar;12 — 18 декабря&rpar;](https://habr.com/ru/post/706262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706262)
-- [[Перевод] Как же приятно писать программы, которые не предназначены ни для чего серьезного](https://habr.com/ru/post/706032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
