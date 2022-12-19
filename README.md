@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нагрузочное тестирование СХД и особенности генерации тестовых данных из опыта компании Dell](https://habr.com/ru/post/706298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706298)
 - [Как мы тестировали первый в России финансовый маркетплейс](https://habr.com/ru/post/706312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706312)
 - [Как мы переизобрели экзамены на сертификаты в отдельно взятой компании](https://habr.com/ru/post/706038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706038)
 - [Пишем плагин для IntelliJ IDEA. Ускоряем написание тестов на DTO](https://habr.com/ru/post/706314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706314)
 - [Семантическое версионирование и проблемы с зависимостями — коротко о lockfile](https://habr.com/ru/post/705876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705876)
-- [База по шардированию базы](https://habr.com/ru/post/705912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
