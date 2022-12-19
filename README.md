@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нестандартный полиморфизм. Паттерн Type Erasure](https://habr.com/ru/post/706450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706450)
+- [Telegram WebApps. Как встроить веб-приложения в чат-бота?](https://habr.com/ru/post/706446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706446)
+- [[recovery mode] Аббревиатуры и термины в современном проектировании и разработке ПО](https://habr.com/ru/post/706362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706362)
 - [Дайджест недели от Apple Pro Weekly News &lpar;12.12 – 18.12.22&rpar;](https://habr.com/ru/post/706438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706438)
 - [Как создать cloud-init шаблон ОС Astra Linux в Proxmox](https://habr.com/ru/post/706434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706434)
-- [Создаём свою CMS для интернет магазина: вступление](https://habr.com/ru/post/706424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706424)
-- [[recovery mode] Инверсия зависимостей &lpar;dependency inversion principle&rpar;](https://habr.com/ru/post/706416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706416)
-- [Тестирование мобильных приложений на Flutter с использованием Python + Appium](https://habr.com/ru/post/706394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
