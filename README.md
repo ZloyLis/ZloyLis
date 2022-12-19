@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #470 &lpar;12 — 18 декабря&rpar;](https://habr.com/ru/post/706262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706262)
 - [[Перевод] Как же приятно писать программы, которые не предназначены ни для чего серьезного](https://habr.com/ru/post/706032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706032)
 - [Полурешётки и законы Мерфи](https://habr.com/ru/post/706162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706162)
 - [Glider guns vs случайная конфигурация в игре «Жизнь»](https://habr.com/ru/post/706210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706210)
 - [Микросервисы на основе событий с Dapr](https://habr.com/ru/post/706186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706186)
-- [Можно ли стать программистом &lpar;в возрасте&rpar;?](https://habr.com/ru/post/706206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
