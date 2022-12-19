@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование мобильных приложений на Flutter с использованием Python + Appium](https://habr.com/ru/post/706394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706394)
+- [Security Week 2251: эксфильтрация данных через процессор](https://habr.com/ru/post/706356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706356)
+- [[Перевод] Помимо Правил Трех, Пяти и Ноля](https://habr.com/ru/post/706404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706404)
+- [Как нам живется в фиче-командах при тестировании супераппа](https://habr.com/ru/post/706396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706396)
 - [[Перевод] Что такое веб-стандарты, и как работает веб-браузер?](https://habr.com/ru/post/706390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706390)
-- [Проверка корректности А/Б тестов](https://habr.com/ru/post/706388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706388)
-- [Дизайн-система и цифровая трансформация Ростелекома](https://habr.com/ru/post/706288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706288)
-- [Помоги компилятору, и он поможет тебе. Тонкости работы с nullable reference типами](https://habr.com/ru/post/706376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706376)
-- [[Перевод] Разработка и тестирование сортируемых компонентов Drag and Drop. Часть 2 — Тестирование](https://habr.com/ru/post/706332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
