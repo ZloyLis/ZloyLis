@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое веб-стандарты, и как работает веб-браузер?](https://habr.com/ru/post/706390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706390)
+- [Проверка корректности А/Б тестов](https://habr.com/ru/post/706388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706388)
 - [Дизайн-система и цифровая трансформация Ростелекома](https://habr.com/ru/post/706288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706288)
 - [Помоги компилятору, и он поможет тебе. Тонкости работы с nullable reference типами](https://habr.com/ru/post/706376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706376)
 - [[Перевод] Разработка и тестирование сортируемых компонентов Drag and Drop. Часть 2 — Тестирование](https://habr.com/ru/post/706332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706332)
-- [Нагрузочное тестирование СХД и особенности генерации тестовых данных из опыта компании Dell](https://habr.com/ru/post/706298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706298)
-- [Как мы тестировали первый в России финансовый маркетплейс](https://habr.com/ru/post/706312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
