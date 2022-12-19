@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Инверсия зависимостей &lpar;dependency inversion principle&rpar;](https://habr.com/ru/post/706416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706416)
 - [Тестирование мобильных приложений на Flutter с использованием Python + Appium](https://habr.com/ru/post/706394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706394)
 - [Security Week 2251: эксфильтрация данных через процессор](https://habr.com/ru/post/706356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706356)
 - [[Перевод] Помимо Правил Трех, Пяти и Ноля](https://habr.com/ru/post/706404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706404)
 - [Как нам живется в фиче-командах при тестировании супераппа](https://habr.com/ru/post/706396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706396)
-- [[Перевод] Что такое веб-стандарты, и как работает веб-браузер?](https://habr.com/ru/post/706390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
