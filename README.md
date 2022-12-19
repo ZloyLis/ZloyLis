@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы переизобрели экзамены на сертификаты в отдельно взятой компании](https://habr.com/ru/post/706038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706038)
+- [Пишем плагин для IntelliJ IDEA. Ускоряем написание тестов на DTO](https://habr.com/ru/post/706314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706314)
+- [Семантическое версионирование и проблемы с зависимостями — коротко о lockfile](https://habr.com/ru/post/705876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705876)
+- [База по шардированию базы](https://habr.com/ru/post/705912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705912)
 - [Что узнали рубисты igooods, делая push-уведомления](https://habr.com/ru/post/704408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704408)
-- [Как встроить в процессы UX-редакторов, чтобы продуктовая команда работала с удовольствием](https://habr.com/ru/post/705938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705938)
-- [Декомпозиция систем по ограниченным контекстам DDD — глубокое погружение](https://habr.com/ru/post/705846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705846)
-- [Альтернативные магазины мобильных приложений: как обойтись без Google Play и AppStore](https://habr.com/ru/post/706278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706278)
-- [Как устроено приложение Калькулятор на iPhone](https://habr.com/ru/post/706274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
