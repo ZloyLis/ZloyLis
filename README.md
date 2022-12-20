@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Доказуемая честность и PoL в казино &lpar;и не только&rpar;](https://habr.com/ru/post/706734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706734)
+- [React memo: Преисполнимся в оптимизации](https://habr.com/ru/post/706730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706730)
 - [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 6](https://habr.com/ru/post/706678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706678)
 - [[Перевод] Для этого не нужна ARIA](https://habr.com/ru/post/706674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706674)
 - [[Перевод] 38 лучших CI/CD-инструментов в 2022 году](https://habr.com/ru/post/706646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706646)
-- [[Перевод] Алгоритмы диапазонов C++20 — 7 немодифицирующих операций](https://habr.com/ru/post/706458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706458)
-- [Как дизайнить приложения, если ты не дизайнер? Пошаговая инструкция](https://habr.com/ru/post/706666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
