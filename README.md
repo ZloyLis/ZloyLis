@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как переехать в облака и не остаться без штанов](https://habr.com/ru/post/706572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706572)
+- [#4 Нейронные сети для начинающих. Sudoku Solver. Судоку. Часть 1](https://habr.com/ru/post/706164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706164)
+- [[Перевод] Как и зачем шардировать смарт контракты в блокчейне TON — изучаем анатомию Jettons](https://habr.com/ru/post/706648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706648)
 - [Ныряем в готовые кластеры Kubernetes с Deckhouse и werf](https://habr.com/ru/post/706372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706372)
 - [Несовершенство трех законов робототехники](https://habr.com/ru/post/706598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706598)
-- [Взломана защищённая ФБР сеть обмена информацией «InfraGard»](https://habr.com/ru/post/706588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706588)
-- [[Перевод] Цель верификации и валидации в тестировании программного обеспечения](https://habr.com/ru/post/706538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706538)
-- [Изоляция микросервисов по данным при миграции с монолита](https://habr.com/ru/post/706532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
