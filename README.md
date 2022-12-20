@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему нет смартфонов для подростков?](https://habr.com/ru/post/706524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706524)
+- [Адаптивная верстка: старый друг, который не бросит в трудную минуту](https://habr.com/ru/post/706494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706494)
+- [[Перевод] Как мы обновили старый кластер Elasticsearch на 3 ПБ без простоев. Часть 5 — два клиента Elasticsearch на одной JVM](https://habr.com/ru/post/706506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706506)
 - [Flutter Flame: глобальная оптимизация игрового движка](https://habr.com/ru/post/706256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706256)
 - [Колдовской NeoVIM. Часть третья. «Режимы сна, отдыха и Nvim’a»](https://habr.com/ru/post/706462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706462)
-- [Как фронтендеры приручили микросервисы и перестали беспокоить бэкендеров](https://habr.com/ru/post/700886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700886)
-- [От Isolation к Consistency — дорога длиной в 30 лет](https://habr.com/ru/post/705332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705332)
-- [«Настоящий» Low-Code: деградация программирования, или назад в будущее?](https://habr.com/ru/post/706472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
