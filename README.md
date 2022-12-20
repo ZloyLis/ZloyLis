@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Колдовской NeoVIM. Часть третья. «Режимы сна, отдыха и Nvim’a»](https://habr.com/ru/post/706462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706462)
+- [Как фронтендеры приручили микросервисы и перестали беспокоить бэкендеров](https://habr.com/ru/post/700886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700886)
 - [От Isolation к Consistency — дорога длиной в 30 лет](https://habr.com/ru/post/705332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705332)
 - [«Настоящий» Low-Code: деградация программирования, или назад в будущее?](https://habr.com/ru/post/706472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706472)
 - [Нестандартный полиморфизм. Паттерн Type Erasure](https://habr.com/ru/post/706450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706450)
-- [Telegram WebApps. Как встроить веб-приложения в чат-бота?](https://habr.com/ru/post/706446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706446)
-- [[recovery mode] Аббревиатуры и термины в современном проектировании и разработке ПО](https://habr.com/ru/post/706362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
