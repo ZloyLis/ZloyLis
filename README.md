@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Несовершенство трех законов робототехники](https://habr.com/ru/post/706598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706598)
 - [Взломана защищённая ФБР сеть обмена информацией «InfraGard»](https://habr.com/ru/post/706588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706588)
 - [[Перевод] Цель верификации и валидации в тестировании программного обеспечения](https://habr.com/ru/post/706538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706538)
 - [Изоляция микросервисов по данным при миграции с монолита](https://habr.com/ru/post/706532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706532)
 - [Профессиональная клавиатура «jbak2»](https://habr.com/ru/post/706552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706552)
-- [Библиотека компонентов для дизайнеров приложений](https://habr.com/ru/post/706546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
