@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кому принадлежит время](https://habr.com/ru/post/706478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706478)
+- [7-zip — нет времени спешить](https://habr.com/ru/post/706790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706790)
+- [Domain Driven Design: модели вместо требований](https://habr.com/ru/post/705958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705958)
+- [Архитектура — зеркало корпоративных ценностей](https://habr.com/ru/post/705952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705952)
 - [Оптимизация поиска по большому полю](https://habr.com/ru/post/705780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705780)
-- [6. Устойчивость систем автоматического регулирования. Теоремы Ляпунова. критерий устойчивости Гурвица](https://habr.com/ru/post/702414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702414)
-- [C++ для Maya](https://habr.com/ru/post/706740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706740)
-- [Доказуемая честность и PoL в казино &lpar;и не только&rpar;](https://habr.com/ru/post/706734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706734)
-- [React memo: Преисполнимся в оптимизации](https://habr.com/ru/post/706730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
