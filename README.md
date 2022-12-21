@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: замена фона видео и реализация интересных эффектов на основе координат лица в реальном времени](https://habr.com/ru/post/706880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706880)
 - [Приложение для бортпроводников c 23 интеграциями и работой без интернета](https://habr.com/ru/post/706852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706852)
 - [Как выглядит стажировка в ИТМО](https://habr.com/ru/post/706874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706874)
 - [[Перевод] Умные указатели в современном C++ с точки зрения новичка](https://habr.com/ru/post/706866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706866)
 - [Конфигурируем веб-сервер для Next.js](https://habr.com/ru/post/706838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706838)
-- [Кому принадлежит время](https://habr.com/ru/post/706478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
