@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Обзор JupyterLab Desktop](https://habr.com/ru/post/706872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706872)
 - [Забудьте про корпоратив, делайте для людей](https://habr.com/ru/post/706968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706968)
 - [u-принцип и проявление детальных требований и потребностей ИТ-системы](https://habr.com/ru/post/706956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706956)
 - [Аналоговые часы SFML C++](https://habr.com/ru/post/706954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706954)
 - [[Перевод] Под капотом у компилятора Go: добавление нового оператора в Go — часть 1](https://habr.com/ru/post/706942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706942)
-- [Основы автоматизации в Ansible: роли и сценарии](https://habr.com/ru/post/706920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
