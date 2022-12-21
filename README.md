@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы автоматизации в Ansible: роли и сценарии](https://habr.com/ru/post/706920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706920)
+- [Swift модуляризация вашего проекта](https://habr.com/ru/post/706914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706914)
+- [[Перевод] Несколько советов по работе с CORS для начинающих разработчиков](https://habr.com/ru/post/706908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706908)
 - [JavaScript: замена фона видео и реализация интересных эффектов на основе координат лица в реальном времени](https://habr.com/ru/post/706880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706880)
 - [Приложение для бортпроводников c 23 интеграциями и работой без интернета](https://habr.com/ru/post/706852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706852)
-- [Как выглядит стажировка в ИТМО](https://habr.com/ru/post/706874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706874)
-- [[Перевод] Умные указатели в современном C++ с точки зрения новичка](https://habr.com/ru/post/706866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706866)
-- [Конфигурируем веб-сервер для Next.js](https://habr.com/ru/post/706838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
