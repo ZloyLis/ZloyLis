@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение для бортпроводников c 23 интеграциями и работой без интернета](https://habr.com/ru/post/706852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706852)
+- [Как выглядит стажировка в ИТМО](https://habr.com/ru/post/706874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706874)
+- [[Перевод] Умные указатели в современном C++ с точки зрения новичка](https://habr.com/ru/post/706866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706866)
 - [Конфигурируем веб-сервер для Next.js](https://habr.com/ru/post/706838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706838)
 - [Кому принадлежит время](https://habr.com/ru/post/706478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706478)
-- [7-zip — нет времени спешить](https://habr.com/ru/post/706790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706790)
-- [Domain Driven Design: модели вместо требований](https://habr.com/ru/post/705958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705958)
-- [Архитектура — зеркало корпоративных ценностей](https://habr.com/ru/post/705952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
