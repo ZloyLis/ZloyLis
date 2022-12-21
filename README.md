@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация поиска по большому полю](https://habr.com/ru/post/705780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705780)
 - [6. Устойчивость систем автоматического регулирования. Теоремы Ляпунова. критерий устойчивости Гурвица](https://habr.com/ru/post/702414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702414)
 - [C++ для Maya](https://habr.com/ru/post/706740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706740)
 - [Доказуемая честность и PoL в казино &lpar;и не только&rpar;](https://habr.com/ru/post/706734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706734)
 - [React memo: Преисполнимся в оптимизации](https://habr.com/ru/post/706730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706730)
-- [Создание онлайн сервера для мобильных многопользовательских, realtime 2D игр &lpar;жанра RPG и стратегии&rpar; с API на PHP ч. 6](https://habr.com/ru/post/706678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
