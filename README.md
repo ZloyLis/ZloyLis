@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как IT меняет здравоохранение: интеграция на основе микросервисов](https://habr.com/ru/post/707168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707168)
+- [Как тестировать современный фронтенд](https://habr.com/ru/post/704342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704342)
+- [Экосистема спортивного ориентирования — что это и как оно устроено](https://habr.com/ru/post/707164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707164)
+- [Как мы создавали мобильное приложение «Х5 Недвижимость», или любовь не с первого касания](https://habr.com/ru/post/707156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707156)
 - [Укрепление Nginx с помощью Fail2ban: тестируем и оцениваем «профит»](https://habr.com/ru/post/707044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707044)
-- [[Перевод] 5 вещей, которым я научился за 20 лет программирования](https://habr.com/ru/post/707096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707096)
-- [Сравниваем open-source решения VRP задачи](https://habr.com/ru/post/707118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707118)
-- [Честные модули внутри PHP: теперь они существуют](https://habr.com/ru/post/705998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705998)
-- [Как распознать синтезированную речь](https://habr.com/ru/post/707088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
