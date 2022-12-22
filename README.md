@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие проблемы решает Release Train в мобильной разработке](https://habr.com/ru/post/706158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706158)
+- [[Перевод] Что же такого прекрасного в функциональном программировании?](https://habr.com/ru/post/706890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706890)
 - [Использование unified для конвертирования markdown в html](https://habr.com/ru/post/707004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707004)
 - [[Перевод] Обзор JupyterLab Desktop](https://habr.com/ru/post/706872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706872)
 - [Забудьте про корпоратив, делайте для людей](https://habr.com/ru/post/706968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706968)
-- [u-принцип и проявление детальных требований и потребностей ИТ-системы](https://habr.com/ru/post/706956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706956)
-- [Аналоговые часы SFML C++](https://habr.com/ru/post/706954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
