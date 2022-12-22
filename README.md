@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравниваем open-source решения VRP задачи](https://habr.com/ru/post/707118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707118)
+- [Честные модули внутри PHP: теперь они существуют](https://habr.com/ru/post/705998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705998)
 - [Как распознать синтезированную речь](https://habr.com/ru/post/707088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707088)
 - [[recovery mode] Как я собрался писать открытую библиотеку для разработки и управления спутниками](https://habr.com/ru/post/706230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706230)
 - [Год Тигра в Taiga UI](https://habr.com/ru/post/707050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707050)
-- [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 3: работа с задачами](https://habr.com/ru/post/706964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706964)
-- [Meet Transferable](https://habr.com/ru/post/706898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
