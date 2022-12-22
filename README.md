@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«А поговорить?»: как сделать голосового помощника в браузере](https://habr.com/ru/post/706700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706700)
 - [Возможно вам не нужен AutoMapper](https://habr.com/ru/post/705296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705296)
 - [[Перевод] Лучший способ выполнить миграцию на Spring 6](https://habr.com/ru/post/702474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702474)
 - [Проблемы unsafe кода C#](https://habr.com/ru/post/707172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707172)
 - [[Перевод] Как IT меняет здравоохранение: интеграция на основе микросервисов](https://habr.com/ru/post/707168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707168)
-- [Как тестировать современный фронтенд](https://habr.com/ru/post/704342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
