@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оценка производительности конфигурации 1с с помощью стандартных подсистем](https://habr.com/ru/post/707052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707052)
+- [Редчайший открытый смартфон на Linux: Neo Freerunner. Каким был прадедушка PinePhone?](https://habr.com/ru/post/704610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704610)
+- [Как упростить работу с API в React-приложениях](https://habr.com/ru/post/706802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706802)
 - [Мой извилистый путь с завода железобетонных изделий до архитектора](https://habr.com/ru/post/706848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706848)
 - [SPA потоки и состояния: Шаблон Мейоз](https://habr.com/ru/post/707018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707018)
-- [Какие проблемы решает Release Train в мобильной разработке](https://habr.com/ru/post/706158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706158)
-- [[Перевод] Что же такого прекрасного в функциональном программировании?](https://habr.com/ru/post/706890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706890)
-- [Использование unified для конвертирования markdown в html и подключение компонентов React](https://habr.com/ru/post/707004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
