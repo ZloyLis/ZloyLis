@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Оценка производительности конфигурации 1с с помощью стандартных подсистем](https://habr.com/ru/post/707052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707052)
-- [Редчайший открытый смартфон на Linux: Neo Freerunner. Каким был прадедушка PinePhone?](https://habr.com/ru/post/704610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704610)
-- [Как упростить работу с API в React-приложениях](https://habr.com/ru/post/706802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706802)
-- [Мой извилистый путь с завода железобетонных изделий до архитектора](https://habr.com/ru/post/706848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706848)
-- [SPA потоки и состояния: Шаблон Мейоз](https://habr.com/ru/post/707018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707018)
+- [Как распознать синтезированную речь](https://habr.com/ru/post/707088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707088)
+- [[recovery mode] Как я собрался писать открытую библиотеку для разработки и управления спутниками](https://habr.com/ru/post/706230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706230)
+- [Год Тигра в Taiga UI](https://habr.com/ru/post/707050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707050)
+- [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 3: работа с задачами](https://habr.com/ru/post/706964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706964)
+- [Meet Transferable](https://habr.com/ru/post/706898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
