@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Укрепление Nginx с помощью Fail2ban: тестируем и оцениваем «профит»](https://habr.com/ru/post/707044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707044)
 - [[Перевод] 5 вещей, которым я научился за 20 лет программирования](https://habr.com/ru/post/707096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707096)
 - [Сравниваем open-source решения VRP задачи](https://habr.com/ru/post/707118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707118)
 - [Честные модули внутри PHP: теперь они существуют](https://habr.com/ru/post/705998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705998)
 - [Как распознать синтезированную речь](https://habr.com/ru/post/707088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707088)
-- [[recovery mode] Как я собрался писать открытую библиотеку для разработки и управления спутниками](https://habr.com/ru/post/706230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
