@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как &lpar;и зачем&rpar; я писал README в Jupyter-ноутбуке для Node.js-приложения](https://habr.com/ru/post/707380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707380)
+- [Используем аннотацию @Transactional like a pro](https://habr.com/ru/post/707378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707378)
 - [[Перевод] Моя любимая функция Kotlin](https://habr.com/ru/post/707362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707362)
 - [А давайте… по ГОСТу](https://habr.com/ru/post/707358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707358)
 - [Подход к ведению документации на ОС: наш опыт](https://habr.com/ru/post/707356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707356)
-- [[Перевод] Как Java мусорит за пределами кучи: часть 1, реляционные базы данных](https://habr.com/ru/post/702802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702802)
-- [Нефункциональные проверки при тестировании мобильных приложений](https://habr.com/ru/post/707280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
