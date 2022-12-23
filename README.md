@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А давайте… по ГОСТу](https://habr.com/ru/post/707358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707358)
+- [[Перевод] Как Java мусорит за пределами кучи: часть 1, реляционные базы данных](https://habr.com/ru/post/702802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702802)
+- [Нефункциональные проверки при тестировании мобильных приложений](https://habr.com/ru/post/707280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707280)
 - [Немного про ПИД-регуляторы или «велосипед автоматизации»](https://habr.com/ru/post/707326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707326)
 - [10 лайфхаков, как запустить собственное мини-приложение ВКонтакте: от автора сервисов «Футбол», «Хоккей» и «Баскетбол»](https://habr.com/ru/post/707086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707086)
-- [Как развернуть Apache Superset в облаке: Docker, ВМ, Kubernetes](https://habr.com/ru/post/706418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706418)
-- [Yolo на мобильном без постобработки](https://habr.com/ru/post/707298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707298)
-- [Риск-менеджмент: Инцидент, post-mortem, плановые работы и Support card](https://habr.com/ru/post/707292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
