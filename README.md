@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Риск-менеджмент: Инцидент, post-mortem, плановые работы и Support card](https://habr.com/ru/post/707292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707292)
 - [Async/await в iOS: что нам дает неблокирование потоков](https://habr.com/ru/post/707244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707244)
 - [[Перевод] Как получить все сообщения через логическую репликацию Postgres](https://habr.com/ru/post/702426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702426)
 - [Документирование ASP .Net Core Web API с помощью OpenAPI/Swagger. Библиотека Swashbuckle](https://habr.com/ru/post/707108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707108)
 - [Сервис полезных ссылок и ресурсов для разработчиков игр и геймдизайнеров](https://habr.com/ru/post/707242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707242)
-- [Как студенты SkillFactory разработали AI-модель для бионического протеза «Моторики»](https://habr.com/ru/post/707136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
