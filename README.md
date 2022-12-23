@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного про ПИД-регуляторы или «велосипед автоматизации»](https://habr.com/ru/post/707326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707326)
+- [10 лайфхаков, как запустить собственное мини-приложение ВКонтакте: от автора сервисов «Футбол», «Хоккей» и «Баскетбол»](https://habr.com/ru/post/707086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707086)
 - [Как развернуть Apache Superset в облаке: Docker, ВМ, Kubernetes](https://habr.com/ru/post/706418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706418)
 - [Yolo на мобильном без постобработки](https://habr.com/ru/post/707298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707298)
 - [Риск-менеджмент: Инцидент, post-mortem, плановые работы и Support card](https://habr.com/ru/post/707292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707292)
-- [Async/await в iOS: что нам дает неблокирование потоков](https://habr.com/ru/post/707244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707244)
-- [[Перевод] Как получить все сообщения через логическую репликацию Postgres](https://habr.com/ru/post/702426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
