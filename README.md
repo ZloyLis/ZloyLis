@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Моя любимая функция Kotlin](https://habr.com/ru/post/707362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707362)
 - [А давайте… по ГОСТу](https://habr.com/ru/post/707358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707358)
+- [Подход к ведению документации на ОС: наш опыт](https://habr.com/ru/post/707356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707356)
 - [[Перевод] Как Java мусорит за пределами кучи: часть 1, реляционные базы данных](https://habr.com/ru/post/702802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702802)
 - [Нефункциональные проверки при тестировании мобильных приложений](https://habr.com/ru/post/707280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707280)
-- [Немного про ПИД-регуляторы или «велосипед автоматизации»](https://habr.com/ru/post/707326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707326)
-- [10 лайфхаков, как запустить собственное мини-приложение ВКонтакте: от автора сервисов «Футбол», «Хоккей» и «Баскетбол»](https://habr.com/ru/post/707086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
