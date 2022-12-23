@@ -34,8 +34,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Документирование ASP .Net Core Web API с помощью OpenAPI/Swagger. Библиотека Swashbuckle](https://habr.com/ru/post/707108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707108)
 - [Сервис полезных ссылок и ресурсов для разработчиков игр и геймдизайнеров](https://habr.com/ru/post/707242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707242)
-- [Аутсорс разработка. Мошенники](https://habr.com/ru/post/707240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707240)
 - [Как студенты SkillFactory разработали AI-модель для бионического протеза «Моторики»](https://habr.com/ru/post/707136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707136)
 - [20 бесплатных ресурсов по компьютерной грамотности для детей](https://habr.com/ru/post/707216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707216)
 - [«А поговорить?»: как сделать голосового помощника в браузере](https://habr.com/ru/post/706700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706700)
