@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экосистема фронтенд-разработчика на JavaScript: полезный инструментарий для начинающих](https://habr.com/ru/post/707400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707400)
+- [Как подключить российский SSL-сертификат к iOS-приложению](https://habr.com/ru/post/707396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707396)
 - [Как &lpar;и зачем&rpar; я писал README в Jupyter-ноутбуке для Node.js-приложения](https://habr.com/ru/post/707380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707380)
 - [Используем аннотацию @Transactional like a pro](https://habr.com/ru/post/707378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707378)
 - [[Перевод] Моя любимая функция Kotlin](https://habr.com/ru/post/707362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707362)
-- [А давайте… по ГОСТу](https://habr.com/ru/post/707358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707358)
-- [Подход к ведению документации на ОС: наш опыт](https://habr.com/ru/post/707356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
