@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кушайте хоть в три горла – но, с нашим приложением, все равно когда-то похудеете](https://habr.com/ru/post/707000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707000)
 - [Как студенты SkillFactory разработали AI-модель для бионического протеза «Моторики»](https://habr.com/ru/post/707136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707136)
 - [20 бесплатных ресурсов по компьютерной грамотности для детей](https://habr.com/ru/post/707216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707216)
 - [«А поговорить?»: как сделать голосового помощника в браузере](https://habr.com/ru/post/706700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706700)
 - [Возможно вам не нужен AutoMapper](https://habr.com/ru/post/705296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705296)
-- [[Перевод] Лучший способ выполнить миграцию на Spring 6](https://habr.com/ru/post/702474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
