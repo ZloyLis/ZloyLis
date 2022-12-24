@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного про ПИД-регуляторы или «велосипед автоматизации». Часть 2](https://habr.com/ru/post/707338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707338)
 - [Как не утонуть продукту в куче мелких UI/UX-багов](https://habr.com/ru/post/707438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707438)
 - [Ноутбучный дядька из нулевых! Смотрим на HTC TyTN II](https://habr.com/ru/post/707432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707432)
 - [Экосистема фронтенд-разработчика на JavaScript: полезный инструментарий для начинающих](https://habr.com/ru/post/707400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707400)
 - [Как подключить российский SSL-сертификат к iOS-приложению](https://habr.com/ru/post/707396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707396)
-- [Как &lpar;и зачем&rpar; я писал README в Jupyter-ноутбуке для Node.js-приложения](https://habr.com/ru/post/707380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
