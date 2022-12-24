@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мощь декораторов TypeScript на живых примерах. Декорирование методов класса](https://habr.com/ru/post/707496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707496)
 - [Задача теплопроводности методом продольно-поперечной прогонки средствами MPI](https://habr.com/ru/post/707462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707462)
 - [[Перевод] Лекция 9. DREADHALLS — CS50`s Introduction to Game Development с русскими субтитрами](https://habr.com/ru/post/707456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707456)
 - [[Перевод] Как устроен внутри Github Copilot](https://habr.com/ru/post/707222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707222)
 - [Немного про ПИД-регуляторы или «велосипед автоматизации». Часть 2](https://habr.com/ru/post/707338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707338)
-- [Как не утонуть продукту в куче мелких UI/UX-багов](https://habr.com/ru/post/707438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
