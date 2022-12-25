@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Максимальная оптимизация игры «Жизнь» на Julia](https://habr.com/ru/post/706228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706228)
 - [Не верьте ChatGPT и используйте KotUniL](https://habr.com/ru/post/707548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707548)
 - [Конструктор базы для браузерной стратегии в духе Dune 2/2000 на Three.js, Vue3 + TS](https://habr.com/ru/post/707518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707518)
 - [ChatGPT. Übermensch из мира A.I.?](https://habr.com/ru/post/707502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707502)
 - [[Перевод] Однажды у нас будет полностью настраиваемый select](https://habr.com/ru/post/707498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707498)
-- [[Перевод] Мощь декораторов TypeScript на живых примерах. Декорирование методов класса](https://habr.com/ru/post/707496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
