@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cтандартизированные методики исследования UX](https://habr.com/ru/post/707810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707810)
+- [.NET и HasiCorp Vault: Использование секретов в настройках .NET Core приложения](https://habr.com/ru/post/707802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707802)
 - [Виртуальная карта впервые в Telegram: почему это удобно и безопасно](https://habr.com/ru/post/707798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707798)
 - [[Перевод] 10 WordPress плагинов которые вы должны знать в 2023](https://habr.com/ru/post/707782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707782)
 - [Как стать программистом самостоятельно](https://habr.com/ru/post/707596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707596)
-- [Что выбрать: Red Team или Penetration Testing](https://habr.com/ru/post/707746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707746)
-- [[Перевод] React + TypeScript: необходимый минимум](https://habr.com/ru/post/707744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
