@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2252: сложная история взлома LastPass](https://habr.com/ru/post/707736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707736)
 - [Паттерны отказоустойчивости приложений в Kubernetes](https://habr.com/ru/post/707284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707284)
 - [Spring Data Specification: наложение фронтенд-фильтров на репозитории spring data](https://habr.com/ru/post/707724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707724)
 - [Дизайн-ревью. Внедряем новый процесс](https://habr.com/ru/post/707714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707714)
 - [Как составить Customer Journey Map и почему не надо игнорировать этот инструмент](https://habr.com/ru/post/707700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707700)
-- [Сколько нужно времени, чтобы переписать объявление?](https://habr.com/ru/post/703754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
