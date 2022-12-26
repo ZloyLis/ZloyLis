@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерны отказоустойчивости приложений в Kubernetes](https://habr.com/ru/post/707284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707284)
+- [Spring Data Specification: наложение фронтенд-фильтров на репозитории spring data](https://habr.com/ru/post/707724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707724)
+- [Дизайн-ревью. Внедряем новый процесс](https://habr.com/ru/post/707714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707714)
+- [Как составить Customer Journey Map и почему не надо игнорировать этот инструмент](https://habr.com/ru/post/707700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707700)
 - [Сколько нужно времени, чтобы переписать объявление?](https://habr.com/ru/post/703754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703754)
-- [Немного про ПИД-регуляторы или «велосипед автоматизации»](https://habr.com/ru/post/707688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707688)
-- [Как мы сделали и оптимизировали механизм правил для персонализации UI](https://habr.com/ru/post/706970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706970)
-- [API platform по быстрому](https://habr.com/ru/post/707666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707666)
-- [Про Inbox, веселые легаси и динамические микрофронты](https://habr.com/ru/post/706554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
