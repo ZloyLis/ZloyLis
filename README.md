@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 10 WordPress плагинов которые вы должны знать в 2023](https://habr.com/ru/post/707782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707782)
+- [Как стать программистом самостоятельно](https://habr.com/ru/post/707596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707596)
 - [Что выбрать: Red Team или Penetration Testing](https://habr.com/ru/post/707746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707746)
 - [[Перевод] React + TypeScript: необходимый минимум](https://habr.com/ru/post/707744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707744)
 - [[Перевод] Абстрактные классы и интерфейсы в Java](https://habr.com/ru/post/707762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707762)
-- [Security Week 2252: сложная история взлома LastPass](https://habr.com/ru/post/707736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707736)
-- [Паттерны отказоустойчивости приложений в Kubernetes](https://habr.com/ru/post/707284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
