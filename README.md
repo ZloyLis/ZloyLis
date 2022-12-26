@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое состояние](https://habr.com/ru/post/706086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706086)
+- [Утечка или сбой: Wildberries блокирует личные кабинеты поставщиков, чьи данные могли попасть злоумышленникам](https://habr.com/ru/post/707646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707646)
+- [3 попытки и 8 лет перехода с Ruby на Elixir](https://habr.com/ru/post/707588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707588)
 - [[Перевод] Стратегии роста Notion. Часть 2](https://habr.com/ru/post/707372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707372)
 - [Big State Managers Benchmark](https://habr.com/ru/post/707600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707600)
-- [ИИ в конце 2022 года или как ИИ может помочь создать видеоролик](https://habr.com/ru/post/707556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707556)
-- [«Краткость сестра...» или  интеграция СМС API в бизнес процессы](https://habr.com/ru/post/704162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704162)
-- [Мобильная разработка за неделю #471 &lpar;19 — 25 декабря&rpar;](https://habr.com/ru/post/707604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
