@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Краткость сестра...» или  интеграция СМС API в бизнес процессы](https://habr.com/ru/post/704162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704162)
 - [Мобильная разработка за неделю #471 &lpar;19 — 25 декабря&rpar;](https://habr.com/ru/post/707604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707604)
 - [Как я написал свою поисковую систему для быстрого поиска личной информации](https://habr.com/ru/post/707594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707594)
 - [Моделирование данных в слоеной архитектуре](https://habr.com/ru/post/707582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707582)
 - [Максимальная оптимизация игры «Жизнь» на Julia](https://habr.com/ru/post/706228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706228)
-- [Не верьте ChatGPT и используйте KotUniL](https://habr.com/ru/post/707548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
