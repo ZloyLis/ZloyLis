@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько нужно времени, чтобы переписать объявление?](https://habr.com/ru/post/703754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703754)
+- [Немного про ПИД-регуляторы или «велосипед автоматизации»](https://habr.com/ru/post/707688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707688)
 - [Как мы сделали и оптимизировали механизм правил для персонализации UI](https://habr.com/ru/post/706970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706970)
 - [API platform по быстрому](https://habr.com/ru/post/707666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707666)
 - [Про Inbox, веселые легаси и динамические микрофронты](https://habr.com/ru/post/706554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706554)
-- [Двое на самокате, не считая кучи разных датчиков: как мы учились определять поездки вдвоем](https://habr.com/ru/post/707176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707176)
-- [Что такое состояние](https://habr.com/ru/post/706086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
