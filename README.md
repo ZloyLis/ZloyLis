@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поверхность по сети кривых](https://habr.com/ru/post/707134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707134)
+- [[Перевод] Создание собственного макета в SwiftUI. Интервалы](https://habr.com/ru/post/707704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707704)
+- [ИИ, нейросети и высоконагруженные системы: чему VK и ВШЭ учат студентов](https://habr.com/ru/post/707752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707752)
+- [[Перевод] Использование ChatGPT для автоматизации тестирования](https://habr.com/ru/post/707606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707606)
 - [BDD-фреймворк для автоматизации API без кода](https://habr.com/ru/post/707932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707932)
-- [Как перемещаться между специализациями IT &lpar;и не покалечиться&rpar;](https://habr.com/ru/post/707886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707886)
-- [Приемы для ускорения написания кода на ABAP](https://habr.com/ru/post/707402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707402)
-- [Как обработать deep link со сложным path? Вот так](https://habr.com/ru/post/707864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707864)
-- [Опыт использования Tyk в качестве шлюза GraphQL API](https://habr.com/ru/post/707648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
