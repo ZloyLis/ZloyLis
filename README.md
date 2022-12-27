@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задача коммивояжера &lpar;TSP&rpar; точное решение — метод ветвей и границ](https://habr.com/ru/post/708072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708072)
 - [Как прошел митап для iOS-разработчиков в Минске](https://habr.com/ru/post/708062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708062)
 - [Flamingo, Go ahead! или Как реализовать DDD в Go?](https://habr.com/ru/post/708030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708030)
 - [Подводим итоги года в направлении «Программирование»](https://habr.com/ru/post/708034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708034)
 - [Компонентный подход. Боремся со сложностью в Android-приложениях](https://habr.com/ru/post/708040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708040)
-- [Менторство в команде Ops: взгляд со стороны менти](https://habr.com/ru/post/708036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
