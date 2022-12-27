@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как прошел митап для iOS-разработчиков в Минске](https://habr.com/ru/post/708062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708062)
 - [Flamingo, Go ahead! или Как реализовать DDD в Go?](https://habr.com/ru/post/708030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708030)
 - [Подводим итоги года в направлении «Программирование»](https://habr.com/ru/post/708034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708034)
 - [Компонентный подход. Боремся со сложностью в Android-приложениях](https://habr.com/ru/post/708040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708040)
 - [Менторство в команде Ops: взгляд со стороны менти](https://habr.com/ru/post/708036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708036)
-- [[Перевод] Статические и динамические фреймворки на iOS — обсуждение с ChatGPT](https://habr.com/ru/post/707742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
