@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распознавание товаров на полках](https://habr.com/ru/post/707210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707210)
 - [Немного про ПИД-регуляторы или «велосипед автоматизации». Часть 4](https://habr.com/ru/post/707840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707840)
 - [Как мы внедряли полнотекстовый поиск](https://habr.com/ru/post/707832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707832)
 - [Применение методов, лежащих в основе генетических алгоритмов, для обеспечения проектирования упаковки](https://habr.com/ru/post/707830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707830)
 - [Cтандартизированные методики исследования UX](https://habr.com/ru/post/707810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707810)
-- [.NET и HasiCorp Vault: Использование секретов в настройках .NET Core приложения](https://habr.com/ru/post/707802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
