@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flamingo, Go ahead! или Как реализовать DDD в Go?](https://habr.com/ru/post/708000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708000)
+- [[Перевод] Статические и динамические фреймворки на iOS — обсуждение с ChatGPT](https://habr.com/ru/post/707742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707742)
 - [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 3 — Классы и интерфейсы](https://habr.com/ru/post/707990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707990)
 - [[Перевод] Расширяя Xcode с помощью включений](https://habr.com/ru/post/707740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707740)
 - [Как отрефакторить 2.5 млн строк кода](https://habr.com/ru/post/707982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707982)
-- [[Перевод] Туториал по Встроенным Подпискам в iOS с помощью StoreKit 2 и Swift](https://habr.com/ru/post/707730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707730)
-- [Дайджест недели от Apple Pro Weekly News &lpar;19.12 – 25.12.22&rpar;](https://habr.com/ru/post/707828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
