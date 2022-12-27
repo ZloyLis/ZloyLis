@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Поверхность по сети кривых](https://habr.com/ru/post/707134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707134)
-- [[Перевод] Создание собственного макета в SwiftUI. Интервалы](https://habr.com/ru/post/707704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707704)
-- [ИИ, нейросети и высоконагруженные системы: чему VK и ВШЭ учат студентов](https://habr.com/ru/post/707752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707752)
-- [[Перевод] Использование ChatGPT для автоматизации тестирования](https://habr.com/ru/post/707606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707606)
-- [BDD-фреймворк для автоматизации API без кода](https://habr.com/ru/post/707932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707932)
+- [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 3 — Классы и интерфейсы](https://habr.com/ru/post/707990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707990)
+- [[Перевод] Расширяя Xcode с помощью включений](https://habr.com/ru/post/707740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707740)
+- [Как отрефакторить 2.5 млн строк кода](https://habr.com/ru/post/707982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707982)
+- [[Перевод] Туториал по Встроенным Подпискам в iOS с помощью StoreKit 2 и Swift](https://habr.com/ru/post/707730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707730)
+- [Дайджест недели от Apple Pro Weekly News &lpar;19.12 – 25.12.22&rpar;](https://habr.com/ru/post/707828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
