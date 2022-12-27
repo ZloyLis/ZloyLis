@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обработать deep link со сложным path? Вот так](https://habr.com/ru/post/707864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707864)
+- [Опыт использования Tyk в качестве шлюза GraphQL API](https://habr.com/ru/post/707648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707648)
+- [Компиляция карт для Half-Life 1 на ТВ-приставке](https://habr.com/ru/post/707860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707860)
 - [Распознавание товаров на полках](https://habr.com/ru/post/707210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707210)
 - [Немного про ПИД-регуляторы или «велосипед автоматизации». Часть 4](https://habr.com/ru/post/707840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707840)
-- [Как мы внедряли полнотекстовый поиск](https://habr.com/ru/post/707832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707832)
-- [Применение методов, лежащих в основе генетических алгоритмов, для обеспечения проектирования упаковки](https://habr.com/ru/post/707830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707830)
-- [Cтандартизированные методики исследования UX](https://habr.com/ru/post/707810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
