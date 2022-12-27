@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перемещаться между специализациями IT &lpar;и не покалечиться&rpar;](https://habr.com/ru/post/707886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707886)
 - [Приемы для ускорения написания кода на ABAP](https://habr.com/ru/post/707402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707402)
 - [Как обработать deep link со сложным path? Вот так](https://habr.com/ru/post/707864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707864)
 - [Опыт использования Tyk в качестве шлюза GraphQL API](https://habr.com/ru/post/707648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707648)
 - [Компиляция карт для Half-Life 1 на ТВ-приставке](https://habr.com/ru/post/707860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707860)
-- [Распознавание товаров на полках](https://habr.com/ru/post/707210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
