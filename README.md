@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как выбрать надежный дата-центр на примере GreenBushDC: оборудование, резервирование, персонал](https://habr.com/ru/post/708208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708208)
-- [[Перевод] 2.6 миллиона доменов и ~45 000 открытых Phpinfo&lpar;&rpar; спустя… История о незащищенном Phpinfo&lpar;&rpar;](https://habr.com/ru/post/708192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708192)
-- [Тестирование умерло, да здравствует тестирование](https://habr.com/ru/post/698474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698474)
-- [Технологии прошлого сегодня — стандарт X.25](https://habr.com/ru/post/708020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708020)
-- [Коллекционирую лучшие C++ практики](https://habr.com/ru/post/708138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708138)
+- [Схема разделения ключа Шамира в Hashicorp Vault](https://habr.com/ru/post/708230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708230)
+- [Топ-10 ошибок, найденных в C#-проектах за 2022 год](https://habr.com/ru/post/708226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708226)
+- [[recovery mode] Как доработка UX помогла сократить время прохождения сценария заказа еды на 70%. Часть 3](https://habr.com/ru/post/708222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708222)
+- [Дизайн-долг платежом красен: улучшаем таблицы в большом продукте](https://habr.com/ru/post/708162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708162)
+- [[Перевод] Повышаем производительность C# кода с помощью Span&amp;lt;T&amp;gt; и Memory&amp;lt;T&amp;gt;](https://habr.com/ru/post/708210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
