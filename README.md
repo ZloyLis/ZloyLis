@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT. Новая парадигма, новый мир. Часть 1](https://habr.com/ru/post/708270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708270)
+- [Развертывание ASP.NET MVC приложения на Ubuntu 20.04 на VPS. Установка SSL](https://habr.com/ru/post/708336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708336)
+- [Разрешение и «Полу-пиксель»](https://habr.com/ru/post/708334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708334)
+- [ChatGPT. Новая парадигма, новый мир. Часть 1 — о профессиях](https://habr.com/ru/post/708270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708270)
 - [[recovery mode] Стрёмное собеседование в Яндекс](https://habr.com/ru/post/708318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708318)
 - [Обзор пакетов SciPy, Pyomo и CVXPY для решения задач условной оптимизации](https://habr.com/ru/post/708294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708294)
-- [Метрика Churn Rate: что это и как посчитать?](https://habr.com/ru/post/708148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708148)
-- [ChatGPT написал Android приложение](https://habr.com/ru/post/708248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
