@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование умерло, да здравствует тестирование](https://habr.com/ru/post/698474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=698474)
 - [Технологии прошлого сегодня — стандарт X.25](https://habr.com/ru/post/708020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708020)
 - [Коллекционирую лучшие C++ практики](https://habr.com/ru/post/708138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708138)
 - [Лучшие практики UX/UI в e-сommerce](https://habr.com/ru/post/708120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708120)
 - [5+ трендов, которые ждут разработчиков в 2023 году](https://habr.com/ru/post/708106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708106)
-- [Текст-майнинг с пандами, облаками и яблоками](https://habr.com/ru/post/708100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
