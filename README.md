@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial по обмену с 1С. Часть четвертая: Обмен через промежуточную базу данных](https://habr.com/ru/post/708290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708290)
+- [Профессиональные задачи, которые вы можете решить с AI системой ChatGPT от OpenAI](https://habr.com/ru/post/708280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708280)
+- [Стало известно о невышедшем QWERTY смартфоне MC01 Legend от компании Punkt](https://habr.com/ru/post/708266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708266)
 - [[Перевод] Использование Postgres в качестве очереди сообщений](https://habr.com/ru/post/708134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708134)
 - [[Перевод] Scratch — это уже не игрушки](https://habr.com/ru/post/708242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708242)
-- [Схема разделения ключа Шамира в Hashicorp Vault](https://habr.com/ru/post/708230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708230)
-- [Топ-10 ошибок, найденных в C#-проектах за 2022 год](https://habr.com/ru/post/708226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708226)
-- [[recovery mode] Как доработка UX помогла сократить время прохождения сценария заказа еды на 70%. Часть 3](https://habr.com/ru/post/708222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
