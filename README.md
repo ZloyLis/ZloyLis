@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT написал Android приложение](https://habr.com/ru/post/708248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708248)
 - [Tutorial по обмену с 1С. Часть четвертая: Обмен через промежуточную базу данных](https://habr.com/ru/post/708290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708290)
 - [Профессиональные задачи, которые вы можете решить с AI системой ChatGPT от OpenAI](https://habr.com/ru/post/708280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708280)
 - [Стало известно о невышедшем QWERTY смартфоне MC01 Legend от компании Punkt](https://habr.com/ru/post/708266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708266)
 - [[Перевод] Использование Postgres в качестве очереди сообщений](https://habr.com/ru/post/708134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708134)
-- [[Перевод] Scratch — это уже не игрушки](https://habr.com/ru/post/708242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
