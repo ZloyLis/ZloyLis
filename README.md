@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ещё одна подборка материалов по мобильной разработке](https://habr.com/ru/post/708518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708518)
+- [Неизвестный Kickstarter: проекты в области робототехники и программирования, которые могли пройти мимо вас](https://habr.com/ru/post/708512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708512)
+- [Праздник к нам приходит: новогодний сезон Kubernetes на Хабре](https://habr.com/ru/post/708158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708158)
 - [[Перевод] Как я засунул Stable Diffusion в IPhone](https://habr.com/ru/post/708504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708504)
 - [Темная тема = шрифтовой ад](https://habr.com/ru/post/708496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708496)
-- [Стихи, цветы и драконы на EMNLP 2022](https://habr.com/ru/post/708490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708490)
-- [Как написать 2D игру на C++ и чистом STL для терминала в Linux](https://habr.com/ru/post/708486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708486)
-- [Вжух и собралось или один из вариантов ускорения сборки UI на базе jenkins, yarn и nx](https://habr.com/ru/post/708450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
