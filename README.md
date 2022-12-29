@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Одна платформа, чтобы править всеми](https://habr.com/ru/post/708274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708274)
-- [Как внедрить KMM в существующие проекты и не пожалеть: теория, наш опыт и гайд](https://habr.com/ru/post/708328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708328)
-- [Чтобы не терять деньги: оповещения о падениях продуктовых метрик](https://habr.com/ru/post/708166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708166)
-- [IT-письмо Деду Морозу от тех, кто хорошо себя вёл на работе](https://habr.com/ru/post/708200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708200)
-- [Ретротехнологии в фильме «Матрица»](https://habr.com/ru/post/707486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707486)
+- [Вжух и собралось или один из вариантов ускорения сборки UI на базе jenkins, yarn и nx](https://habr.com/ru/post/708450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708450)
+- [История про Growth hacking на практике](https://habr.com/ru/post/708432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708432)
+- [Взгляд на создание продуктивной команды тестирования мобильных приложений](https://habr.com/ru/post/708456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708456)
+- [Топ-10 ошибок в C++ проектах за 2022 год](https://habr.com/ru/post/708448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708448)
+- [Как изучать Kubernetes джуну — и зачем](https://habr.com/ru/post/708418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
