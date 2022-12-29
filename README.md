@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стихи, цветы и драконы на EMNLP 2022](https://habr.com/ru/post/708490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708490)
+- [Как написать 2D игру на C++ и чистом STL для терминала в Linux](https://habr.com/ru/post/708486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708486)
 - [Вжух и собралось или один из вариантов ускорения сборки UI на базе jenkins, yarn и nx](https://habr.com/ru/post/708450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708450)
 - [История про Growth hacking на практике](https://habr.com/ru/post/708432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708432)
 - [Взгляд на создание продуктивной команды тестирования мобильных приложений](https://habr.com/ru/post/708456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708456)
-- [Топ-10 ошибок в C++ проектах за 2022 год](https://habr.com/ru/post/708448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708448)
-- [Как изучать Kubernetes джуну — и зачем](https://habr.com/ru/post/708418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
