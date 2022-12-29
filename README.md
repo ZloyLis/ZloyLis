@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Алгоритмы диапазонов C++20 — 11 модифицирующих операций](https://habr.com/ru/post/707948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707948)
+- [Делал отладчик, сделал БП&rpar; Часть первая](https://habr.com/ru/post/705872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705872)
 - [Я учусь на тестировщика: hаppy end](https://habr.com/ru/post/708528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708528)
-- [Ещё одна подборка материалов для Android-разработчиков](https://habr.com/ru/post/708518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708518)
+- [Подборка материалов для Android-разработчиков](https://habr.com/ru/post/708518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708518)
 - [Неизвестный Kickstarter: проекты в области робототехники и программирования, которые могли пройти мимо вас](https://habr.com/ru/post/708512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708512)
-- [Праздник к нам приходит: новогодний сезон Kubernetes на Хабре](https://habr.com/ru/post/708158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708158)
-- [[Перевод] Как я засунул Stable Diffusion в IPhone](https://habr.com/ru/post/708504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
