@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Одна платформа, чтобы править всеми](https://habr.com/ru/post/708274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708274)
+- [Как внедрить KMM в существующие проекты и не пожалеть: теория, наш опыт и гайд](https://habr.com/ru/post/708328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708328)
+- [Чтобы не терять деньги: оповещения о падениях продуктовых метрик](https://habr.com/ru/post/708166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708166)
+- [IT-письмо Деду Морозу от тех, кто хорошо себя вёл на работе](https://habr.com/ru/post/708200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708200)
 - [Ретротехнологии в фильме «Матрица»](https://habr.com/ru/post/707486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707486)
-- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 4](https://habr.com/ru/post/707558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707558)
-- [Как повысить вовлечённость сотрудников и остаться в живых](https://habr.com/ru/post/673590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673590)
-- [РЖДфон десять лет спустя](https://habr.com/ru/post/697648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697648)
-- [Tinkoff Pro Open Source](https://habr.com/ru/post/708378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
