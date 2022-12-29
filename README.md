@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 4 — Литералы и дженерики](https://habr.com/ru/post/708370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708370)
-- [JavaScript. В два раза сократил исходный код редактора блок-схем dgrm.net](https://habr.com/ru/post/708368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708368)
-- [Стандарты использования сообщений пользователю в 1С](https://habr.com/ru/post/708350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708350)
-- [Приручить «зоопарк»: как мы искали IT-подход к разнообразному парку самокатов](https://habr.com/ru/post/708310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708310)
-- [Развертывание ASP.NET MVC приложения на Ubuntu 20.04 на VPS. Установка SSL](https://habr.com/ru/post/708336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708336)
+- [РЖДфон десять лет спустя](https://habr.com/ru/post/697648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697648)
+- [Tinkoff Pro Open Source](https://habr.com/ru/post/708378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708378)
+- [Мессенджеры на работе — это не прокрастинация, или как мы сделали сервис для автотестирования](https://habr.com/ru/post/708052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708052)
+- [Архитектура Шредингера и способы с ней бороться](https://habr.com/ru/post/708376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708376)
+- [Hibernate: заполняем пробелы](https://habr.com/ru/post/708374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
