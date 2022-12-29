@@ -37,8 +37,8 @@ ___
 - [[Перевод] Алгоритмы диапазонов C++20 — 11 модифицирующих операций](https://habr.com/ru/post/707948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707948)
 - [Делал отладчик, сделал БП&rpar; Часть первая](https://habr.com/ru/post/705872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705872)
 - [Я учусь на тестировщика: hаppy end](https://habr.com/ru/post/708528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708528)
+- [ReactOS и «новогодняя банка»](https://habr.com/ru/post/707576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707576)
 - [Подборка материалов для Android-разработчиков](https://habr.com/ru/post/708518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708518)
-- [Неизвестный Kickstarter: проекты в области робототехники и программирования, которые могли пройти мимо вас](https://habr.com/ru/post/708512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
