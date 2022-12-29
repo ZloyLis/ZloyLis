@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 4 — Литералы и дженерики](https://habr.com/ru/post/708370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708370)
+- [JavaScript. В два раза сократил исходный код редактора блок-схем dgrm.net](https://habr.com/ru/post/708368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708368)
 - [Стандарты использования сообщений пользователю в 1С](https://habr.com/ru/post/708350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708350)
+- [Приручить «зоопарк»: как мы искали IT-подход к разнообразному парку самокатов](https://habr.com/ru/post/708310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708310)
 - [Развертывание ASP.NET MVC приложения на Ubuntu 20.04 на VPS. Установка SSL](https://habr.com/ru/post/708336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708336)
-- [Разрешение и «Полу-пиксель»](https://habr.com/ru/post/708334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708334)
-- [ChatGPT. Новая парадигма, новый мир. Часть 1 — о профессиях](https://habr.com/ru/post/708270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708270)
-- [[recovery mode] Стрёмное собеседование в Яндекс](https://habr.com/ru/post/708318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
