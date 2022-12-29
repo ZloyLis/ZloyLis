@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация файлов с Adobe](https://habr.com/ru/post/708566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708566)
 - [Открываем и закрываем модалки на Vue Composition API](https://habr.com/ru/post/708562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708562)
 - [[Перевод] Алгоритмы диапазонов C++20 — 11 модифицирующих операций](https://habr.com/ru/post/707948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707948)
 - [Делал отладчик, сделал БП :-&rpar; Часть первая](https://habr.com/ru/post/705872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705872)
 - [Я учусь на тестировщика: hаppy end](https://habr.com/ru/post/708528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708528)
-- [ReactOS и «новогодняя банка»](https://habr.com/ru/post/707576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
