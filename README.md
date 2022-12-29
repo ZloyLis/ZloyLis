@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 4](https://habr.com/ru/post/707558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707558)
+- [Как повысить вовлечённость сотрудников и остаться в живых](https://habr.com/ru/post/673590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673590)
 - [РЖДфон десять лет спустя](https://habr.com/ru/post/697648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697648)
 - [Tinkoff Pro Open Source](https://habr.com/ru/post/708378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708378)
 - [Мессенджеры на работе — это не прокрастинация, или как мы сделали сервис для автотестирования](https://habr.com/ru/post/708052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708052)
-- [Архитектура Шредингера и способы с ней бороться](https://habr.com/ru/post/708376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708376)
-- [Hibernate: заполняем пробелы](https://habr.com/ru/post/708374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
