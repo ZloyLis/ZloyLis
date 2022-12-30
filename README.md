@@ -34,7 +34,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение Хабра для Android](https://habr.com/ru/post/708690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708690)
+- [Приложение Хабра для Android и iOS](https://habr.com/ru/post/708690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708690)
 - [Tutorial по обмену с 1С. Часть пятая: Наш опыт настройки 1000 и 1 обмена](https://habr.com/ru/post/708698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708698)
 - [10 популярных вопросов, которые нужно знать, чтобы пройти собеседование на позицию Flutter-разработчика](https://habr.com/ru/post/708692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708692)
 - [Качество данных, или как заставить аналитика красить траву в зелёный цвет](https://habr.com/ru/post/708684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708684)
