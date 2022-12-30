@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности публикации финтех-приложений в сторах](https://habr.com/ru/post/707936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707936)
 - [Как мы научили нейросеть разбирать названия товаров в чеках](https://habr.com/ru/post/708608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708608)
 - [Изморозь на пицце: делаем новогоднюю анимацию в Android-приложении](https://habr.com/ru/post/708104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708104)
 - [Пройти leetcode за год: экскурсия по сайту и roadmap](https://habr.com/ru/post/708570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708570)
 - [Генерация файлов с Adobe](https://habr.com/ru/post/708566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708566)
-- [Открываем и закрываем модалки на Vue Composition API](https://habr.com/ru/post/708562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
