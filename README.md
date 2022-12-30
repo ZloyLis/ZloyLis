@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 популярных вопросов, которые нужно знать, чтобы пройти собеседование на позицию Flutter-разработчика](https://habr.com/ru/post/708692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708692)
+- [Качество данных, или как заставить аналитика красить траву в зелёный цвет](https://habr.com/ru/post/708684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708684)
+- [Пишем FastAPI с нуля на python](https://habr.com/ru/post/708678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708678)
 - [Как мы развиваем айтишников в СИБУР Диджитал](https://habr.com/ru/post/708662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708662)
 - [[Перевод] Учёба — это запоминание](https://habr.com/ru/post/708644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708644)
-- [Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud](https://habr.com/ru/post/707422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707422)
-- [Как настроить Gitlab CI/CD в связке с Fastlane для iOS-проектов на Mac mini](https://habr.com/ru/post/707988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707988)
-- [CI/CD для iOS-проектов: на железе или в облаке? Что лучше, по версии Doubletapp](https://habr.com/ru/post/707996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
