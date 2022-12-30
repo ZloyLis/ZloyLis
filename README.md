@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы научили нейросеть разбирать названия товаров в чеках](https://habr.com/ru/post/708608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708608)
+- [Изморозь на пицце: делаем новогоднюю анимацию в Android-приложении](https://habr.com/ru/post/708104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708104)
+- [Пройти leetcode за год: экскурсия по сайту и roadmap](https://habr.com/ru/post/708570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708570)
 - [Генерация файлов с Adobe](https://habr.com/ru/post/708566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708566)
 - [Открываем и закрываем модалки на Vue Composition API](https://habr.com/ru/post/708562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708562)
-- [[Перевод] Алгоритмы диапазонов C++20 — 11 модифицирующих операций](https://habr.com/ru/post/707948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707948)
-- [Делал отладчик, сделал БП :-&rpar; Часть первая](https://habr.com/ru/post/705872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705872)
-- [Я учусь на тестировщика: hаppy end](https://habr.com/ru/post/708528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
