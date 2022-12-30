@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Логи в iOS, эпизод 3: BlackBox](https://habr.com/ru/post/692532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=692532)
-- [Пошаговая инструкция: как с Node.js организовать иконки из Figma в проекте](https://habr.com/ru/post/708286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708286)
-- [Особенности публикации финтех-приложений в сторах](https://habr.com/ru/post/707936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707936)
-- [Как мы научили нейросеть разбирать названия товаров в чеках](https://habr.com/ru/post/708608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708608)
-- [Изморозь на пицце: делаем новогоднюю анимацию в Android-приложении](https://habr.com/ru/post/708104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708104)
+- [Как мы развиваем айтишников в СИБУР Диджитал](https://habr.com/ru/post/708662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708662)
+- [[Перевод] Учёба — это запоминание](https://habr.com/ru/post/708644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708644)
+- [Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud](https://habr.com/ru/post/707422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707422)
+- [Как настроить Gitlab CI/CD в связке с Fastlane для iOS-проектов на Mac mini](https://habr.com/ru/post/707988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707988)
+- [CI/CD для iOS-проектов: на железе или в облаке? Что лучше, по версии Doubletapp](https://habr.com/ru/post/707996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
