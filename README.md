@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI в 2022. Что нового?](https://habr.com/ru/post/708770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708770)
+- [[Перевод] Восемь самых востребованных языков программирования в 2022 году](https://habr.com/ru/post/708764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708764)
 - [Как из браузера открыть папку в проводнике Windows](https://habr.com/ru/post/708760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708760)
 - [Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения](https://habr.com/ru/post/708752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708752)
 - [Когда хочется больше: пишем кубовый оператор](https://habr.com/ru/post/708522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708522)
-- [От n! до n^n всего n слагаемых, но это — не самое замечательное](https://habr.com/ru/post/708742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708742)
-- [[Перевод] Алгоритмы диапазонов C++20 — сортировка, множества, обновления C++23 и прочее](https://habr.com/ru/post/707946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
