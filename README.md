@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда хочется больше: пишем кубовый оператор](https://habr.com/ru/post/708522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708522)
 - [От n! до n^n всего n слагаемых, но это — не самое замечательное](https://habr.com/ru/post/708742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708742)
 - [[Перевод] Алгоритмы диапазонов C++20 — сортировка, множества, обновления C++23 и прочее](https://habr.com/ru/post/707946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707946)
 - [Как превратить единственный SwiftUI контейнер в dropDestination для нескольких Transferable типов?](https://habr.com/ru/post/708676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708676)
 - [Приложение Хабра для Android и iOS](https://habr.com/ru/post/708690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708690)
-- [Tutorial по обмену с 1С. Часть пятая: Наш опыт настройки 1000 и 1 обмена](https://habr.com/ru/post/708698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
