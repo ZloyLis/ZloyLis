@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фокус внимания. Как перестать отвлекаться и стать в разы продуктивнее](https://habr.com/ru/post/708778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708778)
 - [Почему вы должны использовать Styled Components](https://habr.com/ru/post/707510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707510)
 - [SwiftUI в 2022. Что нового?](https://habr.com/ru/post/708770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708770)
 - [[Перевод] Восемь самых востребованных языков программирования в 2022 году](https://habr.com/ru/post/708764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708764)
 - [Как из браузера открыть папку в проводнике Windows](https://habr.com/ru/post/708760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708760)
-- [Математика для Data Science и машинного обучения за 8 месяцев. Подробный план обучения](https://habr.com/ru/post/708752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
