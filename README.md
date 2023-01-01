@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмулируем React useState в обычном JS &lpar;via data-attributes &amp;amp; css selectors&rpar;](https://habr.com/ru/post/708822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708822)
 - [Boson — разработка СУБД «с нуля» &lpar;часть I&rpar;](https://habr.com/ru/post/708768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708768)
 - [[Перевод] Таинственный мир информационной геометрии. Введение](https://habr.com/ru/post/708796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708796)
-- [Фокус внимания. Как перестать отвлекаться и стать в разы продуктивнее](https://habr.com/ru/post/708778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708778)
+- [Как перестать отвлекаться, работая в IT](https://habr.com/ru/post/708778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708778)
 - [Почему вы должны использовать Styled Components](https://habr.com/ru/post/707510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707510)
-- [SwiftUI в 2022. Что нового?](https://habr.com/ru/post/708770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
