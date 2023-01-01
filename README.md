@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самоучитель для физиков и лириков эпоху перемен](https://habr.com/ru/post/708848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708848)
+- [[Перевод] Как писать код на Go? Подход Google. Часть первая](https://habr.com/ru/post/708830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708830)
 - [Оффлайн-митап Игроделье + Qt6 QML](https://habr.com/ru/post/708838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708838)
 - [Эмулируем React useState в обычном JS &lpar;via data-attributes &amp;amp; css selectors&rpar;](https://habr.com/ru/post/708822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708822)
 - [Boson — разработка СУБД «с нуля» &lpar;часть I&rpar;](https://habr.com/ru/post/708768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708768)
-- [[Перевод] Таинственный мир информационной геометрии. Введение](https://habr.com/ru/post/708796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708796)
-- [Как перестать отвлекаться, работая в IT](https://habr.com/ru/post/708778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
