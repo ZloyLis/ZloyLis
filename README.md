@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [std::conditional_variable и std::atomic_flag в С++20](https://habr.com/ru/post/708918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708918)
 - [Оптимизация графики для небольших сайтов: quetzli, webp, avif](https://habr.com/ru/post/708910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708910)
 - [Как отправить Google Форму без участия пользователя](https://habr.com/ru/post/708886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708886)
 - [Программирование без программирования](https://habr.com/ru/post/708904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708904)
 - [Примеры кошмарного софта вокруг нас](https://habr.com/ru/post/708750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708750)
-- [Программирование для подростков: как подготовиться к поступлению на IT-специальность](https://habr.com/ru/post/708860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
