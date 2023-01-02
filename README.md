@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Темная тема = шрифтовой ад / Решение](https://habr.com/ru/post/708858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708858)
 - [Как создать консольное приложение на языке dart, используя пакет weather_pack?](https://habr.com/ru/post/708854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708854)
 - [Делаем свой криптокошелек для BITCOIN монет](https://habr.com/ru/post/708852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708852)
 - [Удобный прогноз северного сияния: в цветах и графиках](https://habr.com/ru/post/708850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708850)
 - [Самоучитель для физиков и лириков в эпоху перемен](https://habr.com/ru/post/708848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708848)
-- [Оффлайн-митап Игроделье + Qt6 QML](https://habr.com/ru/post/708838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
