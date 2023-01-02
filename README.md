@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Домашнее облачко или что можно сделать с Orange Pi 5 &lpar;Часть 1&rpar;](https://habr.com/ru/post/708944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708944)
 - [Формула Байеса и где ее использовать](https://habr.com/ru/post/708940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708940)
 - [5 бизнес-процессов в разработке](https://habr.com/ru/post/708930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708930)
 - [std::conditional_variable и std::atomic_flag в С++20](https://habr.com/ru/post/708918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708918)
 - [Оптимизация графики для небольших сайтов: quetzli, webp, avif](https://habr.com/ru/post/708910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708910)
-- [Как отправить Google Форму без участия пользователя](https://habr.com/ru/post/708886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
