@@ -38,7 +38,7 @@ ___
 - [Делаем свой криптокошелек для BITCOIN монет](https://habr.com/ru/post/708852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708852)
 - [Удобный прогноз северного сияния: в цветах и графиках](https://habr.com/ru/post/708850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708850)
 - [Самоучитель для физиков и лириков в эпоху перемен](https://habr.com/ru/post/708848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708848)
-- [[Перевод] Как писать код на Go? Подход Google. Часть первая](https://habr.com/ru/post/708830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708830)
+- [Оффлайн-митап Игроделье + Qt6 QML](https://habr.com/ru/post/708838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
