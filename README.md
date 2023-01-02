@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как отправить Google Форму без участия пользователя](https://habr.com/ru/post/708886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708886)
+- [Программирование без программирования](https://habr.com/ru/post/708904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708904)
 - [Примеры кошмарного софта вокруг нас](https://habr.com/ru/post/708750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708750)
 - [Программирование для подростков: как подготовиться к поступлению на IT-специальность](https://habr.com/ru/post/708860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708860)
 - [Темная тема = шрифтовой ад / Решение](https://habr.com/ru/post/708858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708858)
-- [Как создать консольное приложение на языке dart, используя пакет weather_pack?](https://habr.com/ru/post/708854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708854)
-- [Делаем свой криптокошелек для BITCOIN монет](https://habr.com/ru/post/708852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
