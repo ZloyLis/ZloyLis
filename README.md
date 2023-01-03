@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще один Port knocking](https://habr.com/ru/post/709022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709022)
 - [[Перевод] Разработка dApp для TON блокчейна](https://habr.com/ru/post/709014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709014)
 - [Запускаем Telegram Bot на панеле оператора &lpar;HMI&rpar; от Weintek](https://habr.com/ru/post/709010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709010)
 - [Проблемы вызванные появлением ChatGPT в сфере образования](https://habr.com/ru/post/708990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708990)
 - [Знакомство c Reatom](https://habr.com/ru/post/708826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708826)
-- [Домашнее облачко или что можно сделать с Orange Pi 5 &lpar;Часть 1&rpar;](https://habr.com/ru/post/708944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
