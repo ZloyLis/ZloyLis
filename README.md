@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как алгоритм 1972 года спас наш проект и при чем тут Тарьян?](https://habr.com/ru/post/709096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709096)
+- [Heatmap на интерактивной карте с помощью folium](https://habr.com/ru/post/709092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709092)
 - [Мои 3 способа для выравнивания UI на разных девайсах в Swift](https://habr.com/ru/post/709088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709088)
 - [Шедевральная Nokia из нулевых. Nokia E90 Communicator: Уникальный аппарат во всех смыслах](https://habr.com/ru/post/709076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709076)
 - [[recovery mode] SwiftUI ScrollView и параллакс без тормозов](https://habr.com/ru/post/589051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=589051)
-- [Вам не нужен свой Kubernetes](https://habr.com/ru/post/708938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708938)
-- [Настраиваем окружение Qt6+QtC без VPN](https://habr.com/ru/post/709064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
