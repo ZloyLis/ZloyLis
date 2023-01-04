@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mockoon](https://habr.com/ru/post/709122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709122)
+- [Как создать эвристический алгоритм онлайн-мастеринга и получить предупреждение от RIAA](https://habr.com/ru/post/709120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709120)
 - [SQL за 2 месяца. Подробный план обучения](https://habr.com/ru/post/709116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709116)
 - [Изучаем Python за 6 месяцев. Подробный план обучения](https://habr.com/ru/post/709102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709102)
 - [Как алгоритм 1972 года спас наш проект и при чем тут Тарьян?](https://habr.com/ru/post/709096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709096)
-- [Heatmap на интерактивной карте с помощью folium](https://habr.com/ru/post/709092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709092)
-- [Мои 3 способа для выравнивания UI на разных девайсах в Swift](https://habr.com/ru/post/709088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
