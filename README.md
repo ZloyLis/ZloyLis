@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] SwiftUI ScrollView и относительное смещение без тормозов](https://habr.com/ru/post/589051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=589051)
 - [Вам не нужен свой Kubernetes](https://habr.com/ru/post/708938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708938)
 - [Настраиваем окружение Qt6+QtC без VPN](https://habr.com/ru/post/709064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709064)
 - [Колдовской NeoVIM. Часть четвертая. «Полёты во сне и наяву»](https://habr.com/ru/post/709046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709046)
 - [Особенности типов данных и преобразования в JavaScript](https://habr.com/ru/post/709048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709048)
-- [Еще один Port knocking](https://habr.com/ru/post/709022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
