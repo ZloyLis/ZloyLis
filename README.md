@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Falang.io: редактор блок-схем](https://habr.com/ru/post/709200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709200)
 - [[Перевод] Создаём веб-сайт, как будто сейчас 1999 год](https://habr.com/ru/post/709026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709026)
 - [Как сегодня делают веб-приложения? Часть 1](https://habr.com/ru/post/709160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709160)
 - [Busrpc — фреймворк для разработки микросервисов](https://habr.com/ru/post/709138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709138)
 - [Mockoon](https://habr.com/ru/post/709122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709122)
-- [Как создать эвристический алгоритм онлайн-мастеринга и получить предупреждение от RIAA](https://habr.com/ru/post/709120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
