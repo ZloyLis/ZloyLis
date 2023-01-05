@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История мобильных телефонов &lpar;1994-2022&rpar;](https://habr.com/ru/post/709226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709226)
 - [Опыт разработки виджетов для Figma. От 0 до 23000 установок за 4 месяца](https://habr.com/ru/post/709208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709208)
 - [[recovery mode] Falang.io: редактор блок-схем](https://habr.com/ru/post/709200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709200)
 - [[Перевод] Создаём веб-сайт, как будто сейчас 1999 год](https://habr.com/ru/post/709026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709026)
 - [Как сегодня делают веб-приложения? Часть 1](https://habr.com/ru/post/709160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709160)
-- [Busrpc — фреймворк для разработки микросервисов](https://habr.com/ru/post/709138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
