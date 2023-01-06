@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я написал свой язык и онлайн IDE](https://habr.com/ru/post/709300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709300)
 - [Отправка файлов на подпись с Adobe Sign API](https://habr.com/ru/post/709296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709296)
 - [Полностью удаленная разработка: сквозь пандемию к 2023](https://habr.com/ru/post/709284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709284)
 - [[Перевод] 6 Python декораторов, которые значительно упростят ваш код](https://habr.com/ru/post/709280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709280)
 - [С чего айтишнику можно начать 2023 год?](https://habr.com/ru/post/709274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709274)
-- [[recovery mode] Самосинхронизирующиеся коды для связи через SPI интерфейс](https://habr.com/ru/post/709270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
