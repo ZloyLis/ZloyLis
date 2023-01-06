@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Резервное копирование репозиториев с github, gitlab](https://habr.com/ru/post/709298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709298)
 - [[Перевод] Обучаем нейросеть распознавать цифры на выборке от MNIST. Реализация алгоритма обратного распространения на C#](https://habr.com/ru/post/708928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708928)
 - [Обновляем платформу 1С на сервере под управлением Linux](https://habr.com/ru/post/709308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709308)
 - [Анализ HTA файла, содержащего обфусцированный JavaScript код](https://habr.com/ru/post/709304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709304)
 - [О том, как я прошёл курсы по программированию и остался «выжившим» в IT. Советы тем, кто хочет начать учиться в 2023](https://habr.com/ru/post/709302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709302)
-- [Как я написал свой язык и онлайн IDE](https://habr.com/ru/post/709300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
