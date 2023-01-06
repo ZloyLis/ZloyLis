@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем заняться в 2023? Идеи для пет-проектов и подборка материалов по профессиональному развитию](https://habr.com/ru/post/708554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708554)
 - [unit-тестирование здорового человека ч.1](https://habr.com/ru/post/709228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709228)
 - [Торговые роботы на Python](https://habr.com/ru/post/709166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709166)
 - [История мобильных телефонов &lpar;1994-2022&rpar;](https://habr.com/ru/post/709226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709226)
 - [Опыт разработки виджетов для Figma. От 0 до 23000 установок за 4 месяца](https://habr.com/ru/post/709208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709208)
-- [[recovery mode] Falang.io: редактор блок-схем](https://habr.com/ru/post/709200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
