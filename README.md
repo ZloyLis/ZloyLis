@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсинг HTML с помощью PHP и SQL. Немного провокационный пример с анализом пользователей Хабра](https://habr.com/ru/post/709262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709262)
 - [Точка, точка… запятая?](https://habr.com/ru/post/709254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709254)
 - [Шаблон приложения Asp .Net Core 6 Web API с предустановкой и настройкой необходимых инструментов](https://habr.com/ru/post/709250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709250)
 - [Чем заняться в 2023? Идеи для пет-проектов и подборка материалов по профессиональному развитию](https://habr.com/ru/post/708554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708554)
 - [unit-тестирование здорового человека ч.1](https://habr.com/ru/post/709228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709228)
-- [Торговые роботы на Python](https://habr.com/ru/post/709166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
