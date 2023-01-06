@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 6 Python декораторов, которые значительно упростят ваш код](https://habr.com/ru/post/709280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709280)
+- [С чего айтишнику можно начать 2023 год?](https://habr.com/ru/post/709274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709274)
 - [[recovery mode] Самосинхронизирующиеся коды для связи через SPI интерфейс](https://habr.com/ru/post/709270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709270)
 - [Парсинг HTML с помощью PHP и SQL. Немного провокационный пример с анализом пользователей Хабра](https://habr.com/ru/post/709262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709262)
 - [Точка, точка… запятая?](https://habr.com/ru/post/709254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709254)
-- [Шаблон приложения Asp .Net Core 6 Web API с предустановкой и настройкой необходимых инструментов](https://habr.com/ru/post/709250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709250)
-- [Чем заняться в 2023? Идеи для пет-проектов и подборка материалов по профессиональному развитию](https://habr.com/ru/post/708554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
