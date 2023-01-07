@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Распознавание образов с помощью искусственного интеллекта](https://habr.com/ru/post/709432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709432)
+- [Создаём тематические иконки для приложения на Android 13](https://habr.com/ru/post/709428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709428)
 - [Подробный гайд Dynamic Island и Live Activities](https://habr.com/ru/post/709422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709422)
 - [Настройка badges в репозиториях gitlab, с помощью Gitlab API, в CI/CD](https://habr.com/ru/post/709418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709418)
 - [О том как я престал беспокоится и начал программировать](https://habr.com/ru/post/709414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709414)
-- [Все эссе Пола Грэма на русском](https://habr.com/ru/post/709412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709412)
-- [Вычисление сигнатуры строки для её применения в сортировке строк в алфавитном порядке по всем символам](https://habr.com/ru/post/709406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
