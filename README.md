@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес-смартфон ThinkPhone и другие новинки Lenovo на CES 2023](https://habr.com/ru/post/709326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709326)
+- [Цена ошибки](https://habr.com/ru/post/709358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709358)
 - [Меньше, еще меньше! Делаем вольт-ампер-ватт метр на Attiny85](https://habr.com/ru/post/709344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709344)
 - [Развертывание ASP.NET Core приложения в Kubernetes](https://habr.com/ru/post/709342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709342)
 - [Резервное копирование репозиториев с github, gitlab](https://habr.com/ru/post/709298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709298)
-- [[Перевод] Обучаем нейросеть распознавать цифры на выборке от MNIST. Реализация алгоритма обратного распространения на C#](https://habr.com/ru/post/708928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708928)
-- [Обновляем платформу 1С на сервере под управлением Linux](https://habr.com/ru/post/709308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
