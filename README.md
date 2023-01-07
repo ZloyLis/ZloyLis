@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все эссе Пола Грэма на русском](https://habr.com/ru/post/709412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709412)
+- [Вычисление сигнатуры строки для её применения в сортировке строк в алфавитном порядке по всем символам](https://habr.com/ru/post/709406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709406)
 - [Flutter + In-App Purchases](https://habr.com/ru/post/709400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709400)
 - [Бизнес-смартфон ThinkPhone и другие новинки Lenovo на CES 2023](https://habr.com/ru/post/709326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709326)
 - [Цена ошибки](https://habr.com/ru/post/709358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709358)
-- [Меньше, еще меньше! Делаем вольт-ампер-ватт метр на Attiny85](https://habr.com/ru/post/709344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709344)
-- [Развертывание ASP.NET Core приложения в Kubernetes](https://habr.com/ru/post/709342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
