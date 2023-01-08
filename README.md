@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовим FeatureToggle для Android](https://habr.com/ru/post/709542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709542)
 - [Смерть или эволюция. Что ждёт программирование в будущем?](https://habr.com/ru/post/709310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709310)
 - [Прекращайте оправдываться](https://habr.com/ru/post/709516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709516)
 - [Теория категорий в API для консистентности Apache Cassandra](https://habr.com/ru/post/709508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709508)
 - [Изучение физического движка Bullet](https://habr.com/ru/post/709498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709498)
-- [Как правильно писать API авто тесты на Python](https://habr.com/ru/post/709380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
