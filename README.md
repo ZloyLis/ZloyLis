@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как правильно писать API авто тесты на Python](https://habr.com/ru/post/709380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709380)
+- [Взлет и падение Vuetify. Некролог](https://habr.com/ru/post/709492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709492)
+- [Это ужасно бесит — подборка косяков, постоянно встречающихся от сайта к сайту, от приложения к приложению](https://habr.com/ru/post/709494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709494)
 - [[Перевод] Пять шаблонов загрузки данных для повышения быстродействия сайтов](https://habr.com/ru/post/709056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709056)
 - [Модель камеры](https://habr.com/ru/post/709378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709378)
-- [Интеграция Okta с Firebase через OpenId Connect без бэкенда](https://habr.com/ru/post/709456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709456)
-- [Популяризация JSON-RPC &lpar;часть 1&rpar;](https://habr.com/ru/post/709362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709362)
-- [Принцнипы SOLID коротко и простым языком &lpar;на JS&rpar;](https://habr.com/ru/post/709446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
