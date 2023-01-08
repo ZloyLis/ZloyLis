@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель камеры](https://habr.com/ru/post/709378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709378)
 - [Интеграция Okta с Firebase через OpenId Connect без бэкенда](https://habr.com/ru/post/709456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709456)
 - [Популяризация JSON-RPC &lpar;часть 1&rpar;](https://habr.com/ru/post/709362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709362)
 - [Принцнипы SOLID коротко и простым языком &lpar;на JS&rpar;](https://habr.com/ru/post/709446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709446)
 - [Go: обобщенные алгоритмы и типы](https://habr.com/ru/post/709438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709438)
-- [[Перевод] Распознавание образов с помощью искусственного интеллекта](https://habr.com/ru/post/709432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
