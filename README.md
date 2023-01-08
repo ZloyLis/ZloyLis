@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Принцнипы SOLID коротко и простым языком &lpar;на JS&rpar;](https://habr.com/ru/post/709446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709446)
 - [Go: обобщенные алгоритмы и типы](https://habr.com/ru/post/709438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709438)
 - [[Перевод] Распознавание образов с помощью искусственного интеллекта](https://habr.com/ru/post/709432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709432)
 - [Создаём тематические иконки для приложения на Android 13](https://habr.com/ru/post/709428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709428)
 - [Подробный гайд Dynamic Island и Live Activities](https://habr.com/ru/post/709422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709422)
-- [Настройка badges в репозиториях gitlab, с помощью Gitlab API, в CI/CD](https://habr.com/ru/post/709418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
