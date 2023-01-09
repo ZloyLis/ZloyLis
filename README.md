@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли польза от решения алгоритмических задач на LeetCode?](https://habr.com/ru/post/709550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709550)
+- [Интеллект-карты. Или как вырастить дерево требований из потока сознания заказчика](https://habr.com/ru/post/709556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709556)
+- [Подготовка бэкэнда](https://habr.com/ru/post/707950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707950)
+- [AVFoundation — пишем простейшую фотокамеру](https://habr.com/ru/post/709558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709558)
 - [Готовим FeatureToggle для Android](https://habr.com/ru/post/709542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709542)
-- [Смерть или эволюция. Что ждёт программирование в будущем?](https://habr.com/ru/post/709310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709310)
-- [Прекращайте оправдываться](https://habr.com/ru/post/709516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709516)
-- [Теория категорий в API для консистентности Apache Cassandra](https://habr.com/ru/post/709508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709508)
-- [Изучение физического движка Bullet](https://habr.com/ru/post/709498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
