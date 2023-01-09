@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Понимание жизненных циклов вью SwiftUI](https://habr.com/ru/post/708252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708252)
 - [Языки программирования как зеркало IT-столпотворения. Часть I](https://habr.com/ru/post/709714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709714)
 - [Security Week 2302: уязвимости инфраструктуры автопроизводителей](https://habr.com/ru/post/709706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709706)
 - [Управление состоянием в React приложения](https://habr.com/ru/post/709692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709692)
 - [[recovery mode] Интеграция Primefaces в приложение на Spring Boot. Часть 1 — настройка зависимостей и базовый проект](https://habr.com/ru/post/709170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709170)
-- [Доступная отказоустойчивость для вашего сайта](https://habr.com/ru/post/709650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
