@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Языки программирования как зеркало IT-столпотворения. Часть I](https://habr.com/ru/post/709714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709714)
+- [Security Week 2302: уязвимости инфраструктуры автопроизводителей](https://habr.com/ru/post/709706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709706)
 - [Управление состоянием в React приложения](https://habr.com/ru/post/709692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709692)
 - [[recovery mode] Интеграция Primefaces в приложение на Spring Boot. Часть 1 — настройка зависимостей и базовый проект](https://habr.com/ru/post/709170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709170)
-- [150 книг для тех, кто делает игры](https://habr.com/ru/post/709684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709684)
 - [Доступная отказоустойчивость для вашего сайта](https://habr.com/ru/post/709650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709650)
-- [Как устроены интернет-платежи в Dodо](https://habr.com/ru/post/709598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
