@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Убьет ли HTTP/2 лонг поллинг и вебсокеты?](https://habr.com/ru/post/705232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705232)
+- [Современные возможности C++ и проверенные паттерны: активный объект, внешний полиморфизм и корутины](https://habr.com/ru/post/709436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709436)
 - [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 5 — Строгий режим и сужение типов](https://habr.com/ru/post/709580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709580)
 - [Как я написал книгу по Java](https://habr.com/ru/post/709176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709176)
 - [Как стать Android разработчиком в 2023](https://habr.com/ru/post/709524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709524)
-- [Есть ли польза от решения алгоритмических задач на LeetCode?](https://habr.com/ru/post/709550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709550)
-- [Интеллект-карты. Или как вырастить дерево требований из потока сознания заказчика](https://habr.com/ru/post/709556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
