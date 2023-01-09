@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 5 — Строгий режим и сужение типов](https://habr.com/ru/post/709580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709580)
+- [Как я написал книгу по Java](https://habr.com/ru/post/709176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709176)
+- [Как стать Android разработчиком в 2023](https://habr.com/ru/post/709524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709524)
 - [Есть ли польза от решения алгоритмических задач на LeetCode?](https://habr.com/ru/post/709550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709550)
 - [Интеллект-карты. Или как вырастить дерево требований из потока сознания заказчика](https://habr.com/ru/post/709556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709556)
-- [Подготовка бэкэнда](https://habr.com/ru/post/707950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707950)
-- [AVFoundation — пишем простейшую фотокамеру](https://habr.com/ru/post/709558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709558)
-- [Готовим FeatureToggle для Android](https://habr.com/ru/post/709542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
