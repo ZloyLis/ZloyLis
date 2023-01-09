@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Повышайте безопасность приложений с помощью FORTIFY_SOURCE](https://habr.com/ru/post/709660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709660)
+- [Мульти-прокси смарт контракт стандарта EIP-2535 “Diamond”](https://habr.com/ru/post/709642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709642)
+- [3D-моделирование в Blender для подростков: чему можно научиться](https://habr.com/ru/post/709638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709638)
 - [Экстремально уменьшаем размер NPM пакета](https://habr.com/ru/post/709480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709480)
 - [[Перевод] Полное руководство по модулю asyncio в Python. Часть 5](https://habr.com/ru/post/709272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709272)
-- [Убьет ли HTTP/2 лонг поллинг и вебсокеты?](https://habr.com/ru/post/705232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705232)
-- [Современные возможности C++ и проверенные паттерны: активный объект, внешний полиморфизм и корутины](https://habr.com/ru/post/709436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709436)
-- [[Перевод] Изучение TypeScript — полное руководство для начинающих. Часть 5 — Строгий режим и сужение типов](https://habr.com/ru/post/709580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
