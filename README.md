@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Доступная отказоустойчивость для вашего сайта](https://habr.com/ru/post/709650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709650)
+- [Как устроены интернет-платежи в Dodо](https://habr.com/ru/post/709598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709598)
+- [Быстрый приём платежей QIWI в проекте Python](https://habr.com/ru/post/709676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709676)
 - [[Перевод] Повышайте безопасность приложений с помощью FORTIFY_SOURCE](https://habr.com/ru/post/709660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709660)
-- [Мульти-прокси смарт контракт стандарта EIP-2535 “Diamond”](https://habr.com/ru/post/709642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709642)
-- [3D-моделирование в Blender для подростков: чему можно научиться](https://habr.com/ru/post/709638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709638)
-- [Экстремально уменьшаем размер NPM пакета](https://habr.com/ru/post/709480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709480)
-- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 5](https://habr.com/ru/post/709272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709272)
+- [Мульти-прокси смарт контракт стандарта EIP-2535 «Diamond»](https://habr.com/ru/post/709642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
