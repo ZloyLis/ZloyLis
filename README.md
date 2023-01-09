@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как включить в модель знания предметной области](https://habr.com/ru/post/709682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709682)
 - [Говорящая книга: четверть века спустя](https://habr.com/ru/post/709740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709740)
 - [[Перевод] Понимание жизненных циклов вью SwiftUI](https://habr.com/ru/post/708252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708252)
 - [Языки программирования как зеркало IT-столпотворения. Часть I](https://habr.com/ru/post/709714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709714)
 - [Security Week 2302: уязвимости инфраструктуры автопроизводителей](https://habr.com/ru/post/709706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709706)
-- [Управление состоянием в React приложения](https://habr.com/ru/post/709692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
