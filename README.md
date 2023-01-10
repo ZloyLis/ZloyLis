@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компонентный подход. Реализуем экраны с помощью библиотеки Decompose](https://habr.com/ru/post/709808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709808)
+- [Звуковой датчик при респавне игрока](https://habr.com/ru/post/709802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709802)
 - [Размышление об Active Object в контексте Qt6. Часть 1](https://habr.com/ru/post/709768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709768)
 - [Происхождение и эволюция аллокатора памяти в С](https://habr.com/ru/post/707032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707032)
 - [Из домохозяек в машинное обучение. Часть 1](https://habr.com/ru/post/709770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709770)
-- [Улучшите своё программирование с ChatGPT3](https://habr.com/ru/post/709762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709762)
-- [Микропроцессоры будущего поколения](https://habr.com/ru/post/709758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
