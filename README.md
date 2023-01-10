@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data JDBC и генерация ID](https://habr.com/ru/post/709848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709848)
+- [Почему компании продолжают звонить и писать отказавшимся от коммуникаций клиентам](https://habr.com/ru/post/709812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709812)
+- [Как новичку разработать опенсорс-библиотеку: опыт фронтенд-разработчика](https://habr.com/ru/post/706662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706662)
 - [Эволюция распределённых атак в интернете: 1994 — настоящее время](https://habr.com/ru/post/708108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708108)
 - [Компонентный подход. Реализуем экраны с помощью библиотеки Decompose](https://habr.com/ru/post/709808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709808)
-- [Звуковой датчик при респавне игрока](https://habr.com/ru/post/709802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709802)
-- [Как быстро сдать экзамен 1С: Профессионал по платформе «1С: Предприятие 8.3](https://habr.com/ru/post/709796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709796)
-- [Размышление об Active Object в контексте Qt6. Часть 1](https://habr.com/ru/post/709768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
