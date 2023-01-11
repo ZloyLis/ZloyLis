@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Две культуры программирования](https://habr.com/ru/post/709718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709718)
+- [Почему форумы продолжают жить](https://habr.com/ru/post/709572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709572)
+- [Телеграм бот на Python, для напоминаний о реквестах на BitBucket](https://habr.com/ru/post/710036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710036)
+- [Декларативное построение диаграмм](https://habr.com/ru/post/710028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710028)
+- [Две культуры программирования: почему обе из них важны?](https://habr.com/ru/post/709718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709718)
 - [Как айтишнику из России получить работу в Германии в 2023 году?](https://habr.com/ru/post/710014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710014)
-- [Вредные советы начинающим разработчикам](https://habr.com/ru/post/709574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709574)
-- [Строим свое будущее: как выбрать квартиру, опираясь на методы регрессионного анализа?](https://habr.com/ru/post/710000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710000)
-- [О desktop-уведомлениях в Linux-системах](https://habr.com/ru/post/709940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
