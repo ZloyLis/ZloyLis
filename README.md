@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделано на Python: экспорт статистики ВКонтакте с помощью Prometeus и Grafana](https://habr.com/ru/post/709980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709980)
 - [Почему форумы продолжают жить](https://habr.com/ru/post/709572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709572)
 - [Телеграм бот на Python, для напоминаний о реквестах на BitBucket](https://habr.com/ru/post/710036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710036)
 - [Декларативное построение диаграмм](https://habr.com/ru/post/710028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710028)
 - [Две культуры программирования: почему обе из них важны?](https://habr.com/ru/post/709718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709718)
-- [Как айтишнику из России получить работу в Германии в 2023 году?](https://habr.com/ru/post/710014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
