@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Строим свое будущее: как выбрать квартиру, опираясь на методы регрессионного анализа?](https://habr.com/ru/post/710000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710000)
 - [О desktop-уведомлениях в Linux-системах](https://habr.com/ru/post/709940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709940)
 - [Создаем VIPER шаблон с помощью Generamba](https://habr.com/ru/post/709928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709928)
 - [Алгоритм построения набора нетранзитивных игральных костей](https://habr.com/ru/post/709900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709900)
 - [PVS-Studio научился анализировать Blazor компоненты](https://habr.com/ru/post/709896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709896)
-- [Spring Data JDBC и генерация ID](https://habr.com/ru/post/709848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
