@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tests as code с Allure TestOps и что из этого вышло](https://habr.com/ru/post/709902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709902)
+- [Пишем ETL-процесс на Python](https://habr.com/ru/post/710106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710106)
+- [[recovery mode] Игровое меню SFML C++](https://habr.com/ru/post/710100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710100)
+- [Количественные исследования: виды, методы, анализ результатов](https://habr.com/ru/post/710042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710042)
 - [Сделано на Python: экспорт статистики ВКонтакте с помощью Prometeus и Grafana](https://habr.com/ru/post/709980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709980)
-- [Почему форумы продолжают жить](https://habr.com/ru/post/709572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709572)
-- [Телеграм бот на Python, для напоминаний о реквестах на BitBucket](https://habr.com/ru/post/710036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710036)
-- [Декларативное построение диаграмм](https://habr.com/ru/post/710028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710028)
-- [Две культуры программирования: почему обе из них важны?](https://habr.com/ru/post/709718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
