@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Меньше точно не бывает! Делаем вольтметр на ATTINY10](https://habr.com/ru/post/710132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710132)
 - [[Перевод] О важности владения кодом](https://habr.com/ru/post/710166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710166)
 - [Пишем Discord бота крестики-нолики](https://habr.com/ru/post/710158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710158)
 - [Мастер-контейнер для Docker сети](https://habr.com/ru/post/710126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710126)
 - [Tests as code с Allure TestOps и что из этого вышло](https://habr.com/ru/post/709902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709902)
-- [Пишем ETL-процесс на Python](https://habr.com/ru/post/710106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
