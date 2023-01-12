@@ -38,7 +38,7 @@ ___
 - [Прокси хранилища 1С &lpar;IIS, OneScript&rpar;](https://habr.com/ru/post/710130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710130)
 - [[Перевод] Ограничиваем число процессов в pod’е Kubernetes](https://habr.com/ru/post/710286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710286)
 - [Как я стал Solution Architect в Сбере: карьерный путь длиной в 12 лет](https://habr.com/ru/post/710062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710062)
-- [[Перевод] Анимация текстовых переходов](https://habr.com/ru/post/710276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710276)
+- [[Перевод] Как сделать бесконечный круговой CSS-слайдер](https://habr.com/ru/post/710196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
