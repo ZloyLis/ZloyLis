@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как фронтендеру стать мобильным разработчиком, или Перевод API React в Jetpack Compose](https://habr.com/ru/post/707038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707038)
+- [Прокси хранилища 1С &lpar;IIS, OneScript&rpar;](https://habr.com/ru/post/710130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710130)
 - [[Перевод] Ограничиваем число процессов в pod’е Kubernetes](https://habr.com/ru/post/710286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710286)
 - [Как я стал Solution Architect в Сбере: карьерный путь длиной в 12 лет](https://habr.com/ru/post/710062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710062)
 - [[Перевод] Анимация текстовых переходов](https://habr.com/ru/post/710276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710276)
-- [CI, кодстайл и TDD: обзор практик для повышения качества кода](https://habr.com/ru/post/705970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705970)
-- [Краткий обзор Bun — новой среды выполнения JavaScript](https://habr.com/ru/post/710202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
