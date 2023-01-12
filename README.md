@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда наступит WEB 3.0?](https://habr.com/ru/post/710344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710344)
+- [Entity Framework c Code-First миграциями для .Net Maui](https://habr.com/ru/post/710336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710336)
 - [Лучшие школы программирования в 2023 &lpar;голосование&rpar;](https://habr.com/ru/post/710330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710330)
 - [Как джун построил процесс образовательных митингов в отделе и заработал на этом денег](https://habr.com/ru/post/710328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710328)
 - [Интеграция Primefaces в приложение на Spring Boot. Часть 2 — Готовим контекстное меню для главной страницы](https://habr.com/ru/post/709726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709726)
-- [Зачем появился интерактивный «100-years QA-textbook» для обучающихся самостоятельно и бесплатно](https://habr.com/ru/post/710324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710324)
-- [[Перевод] Как фронтендеру стать мобильным разработчиком, или Перевод API React в Jetpack Compose](https://habr.com/ru/post/707038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
