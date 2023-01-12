@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настройка LDAP-аутентификации в кластере Kubernetes под управлением Deckhouse](https://habr.com/ru/post/710010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710010)
+- [Как сделать анимацию с помощью MotionLayout](https://habr.com/ru/post/709958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709958)
 - [Javarush, так ли полезно спустя 9.5 лет?](https://habr.com/ru/post/710206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710206)
 - [[Перевод] Запустится ли это в Doom? Калькулятор, работающий на демонах](https://habr.com/ru/post/709466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709466)
 - [Меньше точно не бывает! Делаем вольтметр на ATTINY10](https://habr.com/ru/post/710132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710132)
-- [[Перевод] О важности владения кодом](https://habr.com/ru/post/710166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710166)
-- [Пишем Discord бота крестики-нолики](https://habr.com/ru/post/710158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
