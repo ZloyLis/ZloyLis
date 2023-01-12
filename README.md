@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI, кодстайл и TDD: обзор практик для повышения качества кода](https://habr.com/ru/post/705970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705970)
+- [Краткий обзор Bun — новой среды выполнения JavaScript](https://habr.com/ru/post/710202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710202)
+- [Паттерн Мейоз: локальное состояние и сервисы](https://habr.com/ru/post/710208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710208)
+- [Под капотом SAST: как инструменты анализа кода ищут дефекты безопасности](https://habr.com/ru/post/710224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710224)
 - [Настройка LDAP-аутентификации в кластере Kubernetes под управлением Deckhouse](https://habr.com/ru/post/710010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710010)
-- [Как сделать анимацию с помощью MotionLayout](https://habr.com/ru/post/709958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709958)
-- [Javarush, так ли полезно спустя 9.5 лет?](https://habr.com/ru/post/710206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710206)
-- [[Перевод] Запустится ли это в Doom? Калькулятор, работающий на демонах](https://habr.com/ru/post/709466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709466)
-- [Меньше точно не бывает! Делаем вольтметр на ATTINY10](https://habr.com/ru/post/710132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
