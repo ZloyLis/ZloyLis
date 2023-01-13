@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [XMLDSig: php + openssl](https://habr.com/ru/post/710532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710532)
 - [[Перевод] C++ по итогам 2022-го](https://habr.com/ru/post/710522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710522)
 - [Языки программирования как зеркало IT-столпотворения. Часть II](https://habr.com/ru/post/710512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710512)
 - [SuperIndustry — Dev log #1 – Большой и страшный монстр по имени C++](https://habr.com/ru/post/710516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710516)
 - [Часть 1. Управление знаниями в Obsidian. Обработка информации. Рабочий процесс. Источники информации. Работа с заметками](https://habr.com/ru/post/710508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710508)
-- [[Перевод] Эволюция кода: путь к лучшему дизайну](https://habr.com/ru/post/710008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
