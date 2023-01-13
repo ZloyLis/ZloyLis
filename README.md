@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть 1. Управление знаниями в Obsidian. Обработка информации. Рабочий процесс. Источники информации. Работа с заметками](https://habr.com/ru/post/710508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710508)
 - [[Перевод] Эволюция кода: путь к лучшему дизайну](https://habr.com/ru/post/710008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710008)
 - [Упрощаем создание FragmentFactory при помощи dsl котлина](https://habr.com/ru/post/710474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710474)
 - [OpenSSL + ГИС ЖКХ](https://habr.com/ru/post/710462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710462)
 - [[Перевод] Spring Modulith: достигли ли мы зрелости модульности](https://habr.com/ru/post/701984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701984)
-- [Первая С++ стажировка в UNIGINE: post-mortem. Горящие глаза, короткие сроки и happy end](https://habr.com/ru/post/710440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
