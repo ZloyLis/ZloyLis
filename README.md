@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Первая С++ стажировка в UNIGINE: post-mortem. Горящие глаза, короткие сроки и happy end](https://habr.com/ru/post/710440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710440)
+- [Решение бизнес-задачи с помощью многофакторного кластерного анализа и здравого смысла](https://habr.com/ru/post/710434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710434)
 - [Пререндеринг или Серверный рендеринг?](https://habr.com/ru/post/709394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709394)
 - [Особое мнение: смотрим на нагрузочные тесты как на функциональные](https://habr.com/ru/post/709822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709822)
 - [Как отправить и скачать файл в FastAPI](https://habr.com/ru/post/710376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710376)
-- [Размышление об Active Object в контексте Qt6. Часть 2](https://habr.com/ru/post/710368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710368)
-- [Теория управления шаговым двигателем &lpar;или как вертеть PTZ камеру&rpar;](https://habr.com/ru/post/709500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
