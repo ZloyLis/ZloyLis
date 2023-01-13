@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пререндеринг или Серверный рендеринг?](https://habr.com/ru/post/709394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709394)
+- [Особое мнение: смотрим на нагрузочные тесты как на функциональные](https://habr.com/ru/post/709822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709822)
 - [Как отправить и скачать файл в FastAPI](https://habr.com/ru/post/710376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710376)
 - [Размышление об Active Object в контексте Qt6. Часть 2](https://habr.com/ru/post/710368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710368)
 - [Теория управления шаговым двигателем &lpar;или как вертеть PTZ камеру&rpar;](https://habr.com/ru/post/709500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709500)
-- [Когда наступит WEB 3.0?](https://habr.com/ru/post/710344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710344)
-- [Entity Framework c Code-First миграциями для .Net Maui](https://habr.com/ru/post/710336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
