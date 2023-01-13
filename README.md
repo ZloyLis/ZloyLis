@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эволюция кода: путь к лучшему дизайну](https://habr.com/ru/post/710008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710008)
+- [Упрощаем создание FragmentFactory при помощи dsl котлина](https://habr.com/ru/post/710474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710474)
 - [OpenSSL + ГИС ЖКХ](https://habr.com/ru/post/710462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710462)
 - [[Перевод] Spring Modulith: достигли ли мы зрелости модульности](https://habr.com/ru/post/701984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=701984)
 - [Первая С++ стажировка в UNIGINE: post-mortem. Горящие глаза, короткие сроки и happy end](https://habr.com/ru/post/710440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710440)
-- [Решение бизнес-задачи с помощью многофакторного кластерного анализа и здравого смысла](https://habr.com/ru/post/710434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710434)
-- [Пререндеринг или Серверный рендеринг?](https://habr.com/ru/post/709394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
