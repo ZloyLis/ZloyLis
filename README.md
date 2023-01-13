@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теория управления шаговым двигателем &lpar;или как вертеть PTZ камеру&rpar;](https://habr.com/ru/post/709500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709500)
 - [Когда наступит WEB 3.0?](https://habr.com/ru/post/710344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710344)
 - [Entity Framework c Code-First миграциями для .Net Maui](https://habr.com/ru/post/710336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710336)
 - [Лучшие школы программирования в 2023 &lpar;голосование&rpar;](https://habr.com/ru/post/710330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710330)
 - [Как джун построил процесс образовательных митингов в отделе и заработал на этом денег](https://habr.com/ru/post/710328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710328)
-- [Интеграция Primefaces в приложение на Spring Boot. Часть 2 — Готовим контекстное меню для главной страницы](https://habr.com/ru/post/709726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
