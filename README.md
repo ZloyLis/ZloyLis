@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся в нюансах создания оператора на golang](https://habr.com/ru/post/710588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710588)
 - [[Перевод] YAML из Ада](https://habr.com/ru/post/710414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710414)
 - [Размышление об Active Object в контексте Qt6. Часть 2.5](https://habr.com/ru/post/710550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710550)
 - [XMLDSig: php + openssl](https://habr.com/ru/post/710532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710532)
 - [[Перевод] C++ по итогам 2022-го](https://habr.com/ru/post/710522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710522)
-- [Языки программирования как зеркало IT-столпотворения. Часть II](https://habr.com/ru/post/710512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
