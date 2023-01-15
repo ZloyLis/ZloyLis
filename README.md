@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Улучшения Функции Автозавершения в Xcode 14](https://habr.com/ru/post/710282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710282)
 - [Зелёным вайтишникам: можно ли обойтись единственной таблицей?](https://habr.com/ru/post/710662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710662)
 - [Размышление об Active Object в контексте Qt6. Часть 3. HttpManager](https://habr.com/ru/post/710656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710656)
 - [Сборная солянка о «ненужных бумажках» в ИТ, дипломах, сертификатах, ЕГЭ, обучении, университетах](https://habr.com/ru/post/710636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710636)
 - [Что лучше: UIKit и SwiftUI?](https://habr.com/ru/post/710632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710632)
-- [Сортировка слиянием через рекурсию](https://habr.com/ru/post/710620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
