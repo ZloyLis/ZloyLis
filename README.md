@@ -35,10 +35,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Алиса, Яндекс.Станция и Nigthscout](https://habr.com/ru/post/710736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710736)
-- [Пишем и отлаживаем приложения для Flipper Zero](https://habr.com/ru/post/710700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710700)
 - [[Перевод] Улучшения Функции Автозавершения в Xcode 14](https://habr.com/ru/post/710282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710282)
 - [Размышление об Active Object в контексте Qt6. Часть 3. HttpManager](https://habr.com/ru/post/710656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710656)
 - [Сборная солянка о «ненужных бумажках» в ИТ, дипломах, сертификатах, ЕГЭ, обучении, университетах](https://habr.com/ru/post/710636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710636)
+- [Что лучше: UIKit или SwiftUI?](https://habr.com/ru/post/710632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
