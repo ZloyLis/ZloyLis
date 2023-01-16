@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Два модема](https://habr.com/ru/post/710626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710626)
 - [Как работают text2image модели?](https://habr.com/ru/post/711020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711020)
 - [Kubernetes через грабли или внедрение в университете](https://habr.com/ru/post/711008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711008)
 - [Мой опыт разработки программы для игры в шашки с помощью алгоритма минимакс](https://habr.com/ru/post/710990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710990)
 - [Парсим сайты с защитой от роботов](https://habr.com/ru/post/710982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710982)
-- [Security Week 2303: проблемы шифрования данных в мессенджере Threema](https://habr.com/ru/post/710840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
