@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Движение по магистрали без аварий. Или как передавать 1,5 терабайта в сутки и ни одного не потерять?](https://habr.com/ru/post/710770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710770)
+- [[Перевод] Состояние навигации в Jetpack Compose](https://habr.com/ru/post/710768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710768)
+- [Популяризация JSON-RPC &lpar;часть 2&rpar;](https://habr.com/ru/post/710652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710652)
 - [4 часа недоступности: постмортем падения Dodo IS](https://habr.com/ru/post/703052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703052)
 - [Алиса, Яндекс.Станция и Nigthscout](https://habr.com/ru/post/710736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710736)
-- [[Перевод] Улучшения Функции Автодополнения в Xcode 14](https://habr.com/ru/post/710282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710282)
-- [Размышление об Active Object в контексте Qt6. Часть 3. HttpManager](https://habr.com/ru/post/710656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710656)
-- [Сборная солянка о «ненужных бумажках» в ИТ, дипломах, сертификатах, ЕГЭ, обучении, университетах](https://habr.com/ru/post/710636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
