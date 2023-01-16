@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неполная, неточная и наполовину выдуманная история исключений](https://habr.com/ru/post/710746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710746)
 - [Движение по магистрали без аварий. Или как передавать 1,5 терабайта в сутки и ни одного не потерять?](https://habr.com/ru/post/710770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710770)
 - [[Перевод] Состояние навигации в Jetpack Compose](https://habr.com/ru/post/710768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710768)
 - [Популяризация JSON-RPC &lpar;часть 2&rpar;](https://habr.com/ru/post/710652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710652)
 - [4 часа недоступности: постмортем падения Dodo IS](https://habr.com/ru/post/703052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=703052)
-- [Алиса, Яндекс.Станция и Nigthscout](https://habr.com/ru/post/710736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
