@@ -34,7 +34,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [English Tenses — моё представление времён в английском языке](https://habr.com/ru/post/710938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710938)
+- [Security Week 2303: проблемы шифрования данных в мессенджере Threema](https://habr.com/ru/post/710840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710840)
 - [[Перевод] Управление зависимостями в IntelliJ IDEA](https://habr.com/ru/post/710802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710802)
 - [[Перевод] На технических собеседованиях даже нормальные люди звереют](https://habr.com/ru/post/710870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710870)
 - [[Перевод] Нужно читать академические статьи в Computer Science](https://habr.com/ru/post/710822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710822)
