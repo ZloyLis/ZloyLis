@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 6](https://habr.com/ru/post/710190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710190)
+- [Как погода влияет на отзывы людей в интернете?](https://habr.com/ru/post/710818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710818)
+- [Как машинное обучение помогает проекту «ЗабастКом» освещать трудовые конфликты](https://habr.com/ru/post/707760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707760)
+- [[Перевод] Воины и волшебники, часть первая](https://habr.com/ru/post/710748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710748)
 - [Как организовать конференцию без опыта](https://habr.com/ru/post/710794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710794)
-- [[Перевод] Более Быстрые Сборки Apple с помощью lld Linker](https://habr.com/ru/post/710280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710280)
-- [Неполная, неточная и наполовину выдуманная история исключений](https://habr.com/ru/post/710746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710746)
-- [Движение по магистрали без аварий. Или как передавать 1,5 терабайта в сутки и ни одного не потерять?](https://habr.com/ru/post/710770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710770)
-- [[Перевод] Состояние навигации в Jetpack Compose](https://habr.com/ru/post/710768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
