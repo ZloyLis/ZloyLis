@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полный обзор webpack](https://habr.com/ru/post/710844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710844)
+- [Тренд на low-code/no-code: как разработка без кода влияет на рынок, и почему она не заменит опытных программистов](https://habr.com/ru/post/710728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710728)
+- [Облачный гейминг в браузере](https://habr.com/ru/post/710760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710760)
 - [[Перевод] Полное руководство по модулю asyncio в Python. Часть 6](https://habr.com/ru/post/710190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710190)
-- [Как погода влияет на отзывы людей в интернете?](https://habr.com/ru/post/710818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710818)
 - [Как машинное обучение помогает проекту «ЗабастКом» освещать трудовые конфликты](https://habr.com/ru/post/707760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707760)
-- [[Перевод] Воины и волшебники, часть первая](https://habr.com/ru/post/710748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710748)
-- [Как организовать конференцию без опыта](https://habr.com/ru/post/710794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
