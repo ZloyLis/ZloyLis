@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Управление зависимостями в IntelliJ IDEA](https://habr.com/ru/post/710802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710802)
+- [[Перевод] На технических собеседованиях даже нормальные люди звереют](https://habr.com/ru/post/710870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710870)
+- [[Перевод] Нужно читать академические статьи в Computer Science](https://habr.com/ru/post/710822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710822)
+- [Повышение электробезопасности](https://habr.com/ru/post/710858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710858)
 - [[Перевод] Полный обзор webpack](https://habr.com/ru/post/710844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710844)
-- [Тренд на low-code/no-code: как разработка без кода влияет на рынок, и почему она не заменит опытных программистов](https://habr.com/ru/post/710728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710728)
-- [Облачный гейминг в браузере](https://habr.com/ru/post/710760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710760)
-- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 6](https://habr.com/ru/post/710190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710190)
-- [Как машинное обучение помогает проекту «ЗабастКом» освещать трудовые конфликты](https://habr.com/ru/post/707760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
