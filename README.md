@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как нейросети обманывают врачей](https://habr.com/ru/post/711092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711092)
-- [Agile-методы: light-версии требований](https://habr.com/ru/post/709912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709912)
-- [[Перевод] Воины и волшебники, часть вторая](https://habr.com/ru/post/710752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710752)
-- [В очередь, ...! Как управлять состоянием системы через события](https://habr.com/ru/post/699492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699492)
-- [Еще одно видение low-code платформы](https://habr.com/ru/post/711046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711046)
+- [[Перевод] Как использовать API Google Analytics](https://habr.com/ru/post/711112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711112)
+- [Как мы решили дергать ChatGPT по хоткею](https://habr.com/ru/post/710604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710604)
+- [Упрощаем себе жизнь при разработке интерфейса взаимодействия приложения и БД](https://habr.com/ru/post/711100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711100)
+- [Как протестировать культурный код, или UX-тестирование детского голосового помощника](https://habr.com/ru/post/704558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704558)
+- [Критерий Манна-Уитни — самый главный враг A/B-тестов](https://habr.com/ru/post/709596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
