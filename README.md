@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Искусственный Интеллект. Самообучение играм на победу на примере «Крестики-Нолики»](https://habr.com/ru/post/711032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711032)
 - [Автоматизация в путевых листах через гугл таблицы и скрипты в 2023 году](https://habr.com/ru/post/710584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710584)
 - [Два модема](https://habr.com/ru/post/710626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710626)
 - [Как работают text2image модели?](https://habr.com/ru/post/711020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711020)
 - [Kubernetes через грабли или внедрение в университете](https://habr.com/ru/post/711008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711008)
-- [Мой опыт разработки программы для игры в шашки с помощью алгоритма минимакс](https://habr.com/ru/post/710990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
