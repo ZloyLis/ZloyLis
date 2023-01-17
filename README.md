@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В очередь, ...! Как управлять состоянием системы через события](https://habr.com/ru/post/699492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699492)
+- [Еще одно видение low-code платформы](https://habr.com/ru/post/711046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711046)
+- [Apple Pro Weekly News &lpar;01.01 – 15.01.23&rpar;](https://habr.com/ru/post/710992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710992)
 - [Искусственный Интеллект. Самообучение играм на победу на примере «Крестики-Нолики»](https://habr.com/ru/post/711032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711032)
 - [Автоматизация в путевых листах через гугл таблицы и скрипты в 2023 году](https://habr.com/ru/post/710584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710584)
-- [Два модема](https://habr.com/ru/post/710626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710626)
-- [Как работают text2image модели?](https://habr.com/ru/post/711020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711020)
-- [Kubernetes через грабли или внедрение в университете](https://habr.com/ru/post/711008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
