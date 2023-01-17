@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем бота-кликера на Kotlin для Lineage 2](https://habr.com/ru/post/711168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711168)
+- [История развития паролей и средств их хранения](https://habr.com/ru/post/707084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707084)
+- [Удаленное управление и обмен данными между роутерами Микротик через SSH-exec](https://habr.com/ru/post/711114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711114)
+- [Kyverno — замена PodSecurityPolicy или нечто большее?](https://habr.com/ru/post/711102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711102)
 - [[Перевод] Как использовать API Google Analytics](https://habr.com/ru/post/711112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711112)
-- [Как мы решили дергать ChatGPT по хоткею](https://habr.com/ru/post/710604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710604)
-- [Упрощаем себе жизнь при разработке интерфейса взаимодействия приложения и БД](https://habr.com/ru/post/711100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711100)
-- [Как протестировать культурный код, или UX-тестирование детского голосового помощника](https://habr.com/ru/post/704558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704558)
-- [Критерий Манна-Уитни — самый главный враг A/B-тестов](https://habr.com/ru/post/709596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
