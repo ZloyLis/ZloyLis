@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем дашборды для Grafana из того, что отдает экспортер метрик Prometheus](https://habr.com/ru/post/711280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711280)
 - [Github Actions. Простой пример для уверенного знакомства](https://habr.com/ru/post/711278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711278)
 - [[Перевод] 3D-слайдер на CSS](https://habr.com/ru/post/711256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711256)
 - [Оценка юзабилити сайта мебельного магазина &lpar;кейс тестового задания&rpar;](https://habr.com/ru/post/711262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711262)
 - [Google foobar challenge — это для себя](https://habr.com/ru/post/711254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711254)
-- [[Перевод] Полароидный CSS и совсем немного HTML](https://habr.com/ru/post/710820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
