@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Docker in Docker в GitLab](https://habr.com/ru/post/710782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710782)
+- [Админка для Private Docker Registry &lpar;Registry Admin&rpar;](https://habr.com/ru/post/709988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709988)
+- [[Перевод] Лидерство в тестировании: введение](https://habr.com/ru/post/711118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711118)
 - [Пишем бота-кликера на Kotlin для Lineage 2](https://habr.com/ru/post/711168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711168)
 - [История развития паролей и средств их хранения](https://habr.com/ru/post/707084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707084)
-- [Удаленное управление и обмен данными между роутерами Микротик через SSH-exec](https://habr.com/ru/post/711114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711114)
-- [Kyverno — замена PodSecurityPolicy или нечто большее?](https://habr.com/ru/post/711102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711102)
-- [[Перевод] Как использовать API Google Analytics](https://habr.com/ru/post/711112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
