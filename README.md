@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полароидный CSS и совсем немного HTML](https://habr.com/ru/post/710820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710820)
 - [Использование Docker in Docker в GitLab](https://habr.com/ru/post/710782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710782)
 - [Админка для Private Docker Registry &lpar;Registry Admin&rpar;](https://habr.com/ru/post/709988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709988)
 - [[Перевод] Лидерство в тестировании: введение](https://habr.com/ru/post/711118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711118)
 - [Пишем бота-кликера на Kotlin для Lineage 2](https://habr.com/ru/post/711168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711168)
-- [История развития паролей и средств их хранения](https://habr.com/ru/post/707084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
