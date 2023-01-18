@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кнопочник новодел vs старый флагман. Смотрим на Nokia N72 и выясняем кто лучше](https://habr.com/ru/post/711478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711478)
 - [Почему стандарты ИСО не публикуют в открытом доступе?](https://habr.com/ru/post/711456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711456)
 - [[Перевод] Краткое руководство по работе с данными с помощью Miller](https://habr.com/ru/post/711246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711246)
 - [Apple Machine Learning &lpar;ML&rpar;. «Create ML»](https://habr.com/ru/post/711400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711400)
 - [[Перевод] Java 20: огромные разреженные сегменты памяти](https://habr.com/ru/post/710664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710664)
-- [Шэрим стейт между хуками в React](https://habr.com/ru/post/709256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
