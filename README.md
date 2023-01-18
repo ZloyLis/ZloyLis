@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Страх и ненависть в переговорке: курим VideoSDK API, Vosk и Python](https://habr.com/ru/post/710524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710524)
 - [13 распространенных задач в Kubernetes и способы их решения](https://habr.com/ru/post/710852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710852)
 - [[Перевод] Воины и волшебники, часть третья](https://habr.com/ru/post/710754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710754)
 - [Платформа из красного кирпича: как настроить окружение в Kotlin Multiplatform Mobile](https://habr.com/ru/post/711234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711234)
 - [[Перевод] Новая библиотека, чтобы управлять зависимостями и не дать им управлять вами](https://habr.com/ru/post/711208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711208)
-- [Делаем дашборды для Grafana из того, что отдает экспортер метрик Prometheus и автоматизируем это](https://habr.com/ru/post/711280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
