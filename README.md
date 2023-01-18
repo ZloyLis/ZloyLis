@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [13 распространенных задач в Kubernetes и способы их решения](https://habr.com/ru/post/710852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710852)
+- [[Перевод] Воины и волшебники, часть третья](https://habr.com/ru/post/710754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710754)
+- [Платформа из красного кирпича: как настроить окружение в Kotlin Multiplatform Mobile](https://habr.com/ru/post/711234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711234)
 - [[Перевод] Новая библиотека, чтобы управлять зависимостями и не дать им управлять вами](https://habr.com/ru/post/711208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711208)
 - [Делаем дашборды для Grafana из того, что отдает экспортер метрик Prometheus и автоматизируем это](https://habr.com/ru/post/711280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711280)
-- [Github Actions. Простой пример для уверенного знакомства](https://habr.com/ru/post/711278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711278)
-- [[Перевод] 3D-слайдер на CSS](https://habr.com/ru/post/711256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711256)
-- [Оценка юзабилити сайта мебельного магазина &lpar;кейс тестового задания&rpar;](https://habr.com/ru/post/711262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
