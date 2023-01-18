@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм HyperLogLog, или Оцениваем мощность множества за O&lpar;1&rpar;](https://habr.com/ru/post/711126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711126)
+- [Подводные камни компараторов в С++](https://habr.com/ru/post/710916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710916)
+- [Server-driven UI, «Триплекс» и JSON: как Сбер сервисы в мобильные приложения выводит](https://habr.com/ru/post/711374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711374)
 - [Что читать техлиду: 7 увлекательных книг](https://habr.com/ru/post/711070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711070)
 - [Эволюция синхронного обучения на Хекслете: как понять, какой подход к обучению разработке вам больше подходит](https://habr.com/ru/post/711178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711178)
-- [Страх и ненависть в переговорке: курим VideoSDK API, Vosk и Python](https://habr.com/ru/post/710524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710524)
-- [13 распространенных задач в Kubernetes и способы их решения](https://habr.com/ru/post/710852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710852)
-- [[Перевод] Воины и волшебники, часть третья](https://habr.com/ru/post/710754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
