@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jest: error Command failed with exit code 1](https://habr.com/ru/post/710342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710342)
-- [[Перевод] Предварительный просмотр Stateful Вью в SwiftUI](https://habr.com/ru/post/710926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710926)
-- [Обзор механизма подписания документов ЭЦП с применением QR кодов через приложение eGov mobile &lpar;aka QR-подписание&rpar;](https://habr.com/ru/post/711388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711388)
-- [Алгоритм HyperLogLog, или Оцениваем мощность множества за O&lpar;1&rpar;](https://habr.com/ru/post/711126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711126)
-- [Подводные камни компараторов в С++](https://habr.com/ru/post/710916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710916)
+- [Как я погнался за девушкой, а стал middle-разработчиком](https://habr.com/ru/post/711416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711416)
+- [[Перевод] Краткое руководство по работе с данными с помощью Miller](https://habr.com/ru/post/711246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711246)
+- [Apple Machine Learning &lpar;ML&rpar;. «Create ML»](https://habr.com/ru/post/711400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711400)
+- [[Перевод] Java 20: огромные разреженные сегменты памяти](https://habr.com/ru/post/710664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710664)
+- [Шэрим стейт между хуками в React](https://habr.com/ru/post/709256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
