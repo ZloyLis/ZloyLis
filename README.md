@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему Майнкрафт является лидером игр для обучения программированию для детей](https://habr.com/ru/post/711658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711658)
 - [[recovery mode] Чистый Vue, или Как правильно настроить линтинг](https://habr.com/ru/post/711574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711574)
 - [Эволюция подходов к работе с таблицами во фронтенде](https://habr.com/ru/post/711202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711202)
 - [Книга «Kotlin. Программирование для профессионалов. 2-е изд.»](https://habr.com/ru/post/711592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711592)
 - [PVS-Studio в 2022 году](https://habr.com/ru/post/711624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711624)
-- [Node.js: Клонирование ключей. Is eval&lpar;&rpar; evil?](https://habr.com/ru/post/711552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
