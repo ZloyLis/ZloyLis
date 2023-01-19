@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как структурировать проект ML и сделать его воспроизводимым и поддерживаемым](https://habr.com/ru/post/710816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710816)
 - [Dell Latitude CPx, ноутбук не из «Матрицы»](https://habr.com/ru/post/711688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711688)
 - [Как я участвовал в создании информационных систем для медицины](https://habr.com/ru/post/711682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711682)
 - [Мы сделали свой конструктор лендингов. Зачем, если их и так много, и что получилось](https://habr.com/ru/post/711472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711472)
 - [Почему Майнкрафт является лидером игр для обучения программированию для детей](https://habr.com/ru/post/711658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711658)
-- [[recovery mode] Чистый Vue, или Как правильно настроить линтинг](https://habr.com/ru/post/711574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
