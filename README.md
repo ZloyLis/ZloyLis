@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наши 5 лет с инфраструктурой «ВсеИнструменты.ру»: от нескольких ВМ до отказоустойчивого решения в трёх дата-центрах](https://habr.com/ru/post/711348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711348)
 - [Подготовка инженеров АСУТП в ВУЗе. Часть 3 — Будущее](https://habr.com/ru/post/709674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709674)
 - [Подготовка инженеров АСУТП в ВУЗе. Часть 2 — Настоящее](https://habr.com/ru/post/709672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709672)
 - [Подготовка инженеров АСУТП в ВУЗе. Часть 1 — Прошлое](https://habr.com/ru/post/709664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709664)
 - [Кодогенератор Waffle++ для C++](https://habr.com/ru/post/710744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710744)
-- [Кнопочник новодел vs старый флагман. Смотрим на Nokia N72 и выясняем кто лучше](https://habr.com/ru/post/711478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
