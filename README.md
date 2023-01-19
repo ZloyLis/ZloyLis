@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция подходов к работе с таблицами во фронтенде](https://habr.com/ru/post/711202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711202)
+- [Книга «Kotlin. Программирование для профессионалов. 2-е изд.»](https://habr.com/ru/post/711592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711592)
+- [Node.js: Клонирование ключей. Is eval&lpar;&rpar; evil?](https://habr.com/ru/post/711552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711552)
 - [Как работает Activity. Часть 2](https://habr.com/ru/post/711606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711606)
 - [Но это &lpar;не&rpar;точно: чего ждать мобильным разработчикам в 2023-м году](https://habr.com/ru/post/711602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711602)
-- [Гексагональная архитектура и DDD на опыте интернет-магазина Спортмастер. Часть 3](https://habr.com/ru/post/711298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711298)
-- [[Перевод] Использование SEDA со Spring Integration и Apache Camel](https://habr.com/ru/post/696978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696978)
-- [[Перевод] Как легко пройти собеседование по Kubernetes в 2023 году](https://habr.com/ru/post/711568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
