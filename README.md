@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что такое фаззинг и зачем он нужен?](https://habr.com/ru/post/711428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711428)
+- [Как работает Activity. Часть 2](https://habr.com/ru/post/711606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711606)
+- [Но это &lpar;не&rpar;точно: чего ждать мобильным разработчикам в 2023-м году](https://habr.com/ru/post/711602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711602)
+- [Гексагональная архитектура и DDD на опыте интернет-магазина Спортмастер. Часть 3](https://habr.com/ru/post/711298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711298)
+- [[Перевод] Использование SEDA со Spring Integration и Apache Camel](https://habr.com/ru/post/696978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696978)
 - [[Перевод] Как легко пройти собеседование по Kubernetes в 2023 году](https://habr.com/ru/post/711568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711568)
-- [Fuzzing-тесты в Go после v1.18: знакомство и практика](https://habr.com/ru/post/709248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709248)
-- [Как определять объекты на пересыпе — кейс rdl by red_mad_robot с «Еврохим» и ERG](https://habr.com/ru/post/711534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711534)
-- [[Перевод] Как поддерживать несколько виджетов при использовании WidgetKit?](https://habr.com/ru/post/710918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
