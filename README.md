@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuzzing-тесты в Go после v1.18: знакомство и практика](https://habr.com/ru/post/709248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709248)
+- [Как определять объекты на пересыпе — кейс rdl by red_mad_robot с «Еврохим» и ERG](https://habr.com/ru/post/711534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711534)
 - [[Перевод] Как поддерживать несколько виджетов при использовании WidgetKit?](https://habr.com/ru/post/710918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710918)
 - [[Перевод] Воины и волшебники, часть четвертая](https://habr.com/ru/post/711132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711132)
 - [[Перевод] Почему для открытия меню «Пуск» иногда требуется несколько секунд](https://habr.com/ru/post/711484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711484)
-- [Наши 5 лет с инфраструктурой «ВсеИнструменты.ру»: от нескольких ВМ до отказоустойчивого решения в трёх дата-центрах](https://habr.com/ru/post/711348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711348)
-- [Подготовка инженеров АСУТП в ВУЗе. Часть 3 — Будущее](https://habr.com/ru/post/709674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
