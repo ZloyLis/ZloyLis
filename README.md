@@ -34,9 +34,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Безопасная отладка вашего приложения в продакшене](https://habr.com/ru/post/710922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710922)
 - [[Перевод] Журналы аудита Kubernetes: лучшие практики и настройка](https://habr.com/ru/post/711868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711868)
 - [[Перевод] Создание столбчатых диаграмм с помощью JavaScript](https://habr.com/ru/post/711728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711728)
-- [[Перевод] Docker для самых маленьких](https://habr.com/ru/post/711862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711862)
 - [Как писать конспекты на компьютере быстрее, чем от руки, при помощи VS Code](https://habr.com/ru/post/711830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711830)
 - [[Перевод] Node.js наизнанку: не все происходит в пуле потоков](https://habr.com/ru/post/711804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711804)
 <!-- BLOG-POST-LIST:END -->
