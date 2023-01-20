@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Воины и волшебники, часть пятая, финал](https://habr.com/ru/post/711500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711500)
+- [Volvo SCT / part 1 — как проникнуть в чужое ядро](https://habr.com/ru/post/706840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706840)
 - [Не куб, а кубик: kubernetes для не-highload](https://habr.com/ru/post/711440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711440)
 - [User Defined Type. Что это и как его использовать, часть 2](https://habr.com/ru/post/711222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711222)
 - [Простое &lpar;не очень&rpar; увлажнение квартиры](https://habr.com/ru/post/711710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711710)
-- [[Перевод] Как структурировать проект ML и сделать его воспроизводимым и поддерживаемым](https://habr.com/ru/post/710816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710816)
-- [Dell Latitude CPx, ноутбук не из «Матрицы»](https://habr.com/ru/post/711688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
