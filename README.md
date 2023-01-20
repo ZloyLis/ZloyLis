@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод - recovery mode ] Создание кастомного макета в SwiftUI. Интервалы](https://habr.com/ru/post/711912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711912)
+- [[Перевод] Типы тестировщиков](https://habr.com/ru/post/711910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711910)
+- [Приглашаем на Ozon Tech Community A/B-testing Meetup](https://habr.com/ru/post/711838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711838)
 - [Бесперебойный деплой микрофронтендов с Kubernetes: как настроить](https://habr.com/ru/post/711898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711898)
 - [Часть 2. Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример](https://habr.com/ru/post/711884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711884)
-- [[Перевод] Безопасная отладка вашего приложения в продакшене](https://habr.com/ru/post/710922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710922)
-- [[Перевод] Журналы аудита Kubernetes: лучшие практики и настройка](https://habr.com/ru/post/711868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711868)
-- [[Перевод] Создание столбчатых диаграмм с помощью JavaScript](https://habr.com/ru/post/711728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
