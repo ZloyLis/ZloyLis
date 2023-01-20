@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Журналы аудита Kubernetes: лучшие практики и настройка](https://habr.com/ru/post/711868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711868)
+- [[Перевод] Создание столбчатых диаграмм с помощью JavaScript](https://habr.com/ru/post/711728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711728)
+- [[Перевод] Docker для самых маленьких](https://habr.com/ru/post/711862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711862)
 - [Как писать конспекты на компьютере быстрее, чем от руки, при помощи VS Code](https://habr.com/ru/post/711830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711830)
 - [[Перевод] Node.js наизнанку: не все происходит в пуле потоков](https://habr.com/ru/post/711804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711804)
-- [[Перевод] Testcontainers с Kotlin и Spring Data R2DBC](https://habr.com/ru/post/710924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710924)
-- [[Перевод] Строим OCR-ферму на базе айфонов для скрапинга мемов в Интернете](https://habr.com/ru/post/711792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711792)
-- [Визуализация весов в машинном обучении на примере алгоритма Random Forest и Decision Tree](https://habr.com/ru/post/711770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
