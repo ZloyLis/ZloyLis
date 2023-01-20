@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Testcontainers с Kotlin и Spring Data R2DBC](https://habr.com/ru/post/710924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710924)
+- [[Перевод] Строим OCR-ферму на базе айфонов для скрапинга мемов в Интернете](https://habr.com/ru/post/711792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711792)
 - [Визуализация весов в машинном обучении на примере алгоритма Random Forest и Decision Tree](https://habr.com/ru/post/711770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711770)
 - [[Перевод] Как управлять настройками сборки, используя файлы конфигурации Xcode](https://habr.com/ru/post/704536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704536)
 - [Микросервис головного мозга](https://habr.com/ru/post/711618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711618)
-- [99 советов по монетизации игр — Часть 2](https://habr.com/ru/post/711748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711748)
-- [[Перевод] Воины и волшебники, часть пятая, финал](https://habr.com/ru/post/711500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
