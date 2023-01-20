@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесперебойный деплой микрофронтендов с Kubernetes: как настроить](https://habr.com/ru/post/711898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711898)
+- [Часть 2. Управление знаниями в Obsidian. Базовый рабочий процесс. Журнал. Источники и их библиотеки. Пример](https://habr.com/ru/post/711884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711884)
 - [[Перевод] Безопасная отладка вашего приложения в продакшене](https://habr.com/ru/post/710922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710922)
 - [[Перевод] Журналы аудита Kubernetes: лучшие практики и настройка](https://habr.com/ru/post/711868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711868)
 - [[Перевод] Создание столбчатых диаграмм с помощью JavaScript](https://habr.com/ru/post/711728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711728)
-- [Как писать конспекты на компьютере быстрее, чем от руки, при помощи VS Code](https://habr.com/ru/post/711830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711830)
-- [[Перевод] Node.js наизнанку: не все происходит в пуле потоков](https://habr.com/ru/post/711804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
