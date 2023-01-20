@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рекурсивные регулярные выражения](https://habr.com/ru/post/711942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711942)
 - [Иной взгляд на React компоненты](https://habr.com/ru/post/711940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711940)
 - [[Перевод - recovery mode ] Создание кастомного макета в SwiftUI. Интервалы](https://habr.com/ru/post/711912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711912)
 - [[Перевод] Типы тестировщиков](https://habr.com/ru/post/711910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711910)
 - [Приглашаем на Ozon Tech Community A/B-testing Meetup](https://habr.com/ru/post/711838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711838)
-- [Бесперебойный деплой микрофронтендов с Kubernetes: как настроить](https://habr.com/ru/post/711898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
