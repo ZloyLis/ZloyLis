@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Игра «Жизнь» — как собрать произвольный шаблон всего из 15 глайдеров](https://habr.com/ru/post/711962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711962)
 - [Задача коммивояжера &lpar;TSP&rpar; точное решение — метод целочисленного линейного программирования &lpar;Integer programming&rpar;](https://habr.com/ru/post/711708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711708)
 - [Как подключить препроцессор SASS/SCSS к Django](https://habr.com/ru/post/711954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711954)
 - [Как поступить в китайский университет](https://habr.com/ru/post/711950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711950)
 - [Рекурсивные регулярные выражения](https://habr.com/ru/post/711942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711942)
-- [Иной взгляд на React компоненты](https://habr.com/ru/post/711940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
