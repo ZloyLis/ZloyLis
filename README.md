@@ -35,10 +35,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Пишем ETL-процесс на Python, часть 2](https://habr.com/ru/post/711590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711590)
-- [Лемма Бернсайда. Теорема Пойа](https://habr.com/ru/post/712006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712006)
 - [Почему вам не стоит использовать Styled](https://habr.com/ru/post/711990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711990)
 - [Как мы нашли применение Chat GPT в нашем IT продукте &lpar;игре для разработчиков&rpar;](https://habr.com/ru/post/711978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711978)
 - [Пет-проект, который пока не умер](https://habr.com/ru/post/711972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711972)
+- [[Перевод] Игра «Жизнь» — как собрать произвольный шаблон всего из 15 глайдеров](https://habr.com/ru/post/711962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
