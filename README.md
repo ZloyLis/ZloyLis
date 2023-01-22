@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про тестирование мобильных приложений. Часть 2. Unit tests](https://habr.com/ru/post/712060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712060)
+- [Amazon IVS: как быстро добавить видеотрансляции в приложение или на сайт](https://habr.com/ru/post/707488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707488)
+- [Про тестирование мобильных приложений. Часть 1. Обзор](https://habr.com/ru/post/711718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711718)
 - [Язык программирования Rave](https://habr.com/ru/post/712036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712036)
 - [Изучаем Reanimated 2 создавая анимированный компонент](https://habr.com/ru/post/711224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711224)
-- [Пишем ETL-процесс на Python, часть 2](https://habr.com/ru/post/711590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711590)
-- [Почему вам не стоит использовать Styled](https://habr.com/ru/post/711990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711990)
-- [Как мы нашли применение Chat GPT в нашем IT продукте &lpar;игре для разработчиков&rpar;](https://habr.com/ru/post/711978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
