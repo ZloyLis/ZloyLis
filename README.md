@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [adb: tap, swipe и два дымящихся event&#39;а](https://habr.com/ru/post/712374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712374)
 - [Табличная классификация и регрессия Apple ML](https://habr.com/ru/post/712094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712094)
 - [Apple Pro Weekly News &lpar;16.01 – 22.01.23&rpar;](https://habr.com/ru/post/712354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712354)
 - [Все еще работаете с access token на клиенте? Тогда мы идем к вам](https://habr.com/ru/post/710552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710552)
 - [Размышление об Active Object в контексте Qt6. Часть 2.6](https://habr.com/ru/post/712328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712328)
-- [Security Week 2304: вредоносные программы в поисковых результатах Google](https://habr.com/ru/post/712308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
