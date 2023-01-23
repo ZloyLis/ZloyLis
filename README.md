@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Текстовые модификаторы в SwiftUI](https://habr.com/ru/post/711220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711220)
 - [Как в VBA правильно создавать одномерный массив. ArrayList](https://habr.com/ru/post/712000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712000)
 - [Мобильная разработка за неделю #472 &lpar;16 — 22 января&rpar;](https://habr.com/ru/post/712108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712108)
 - [Про тестирование мобильных приложений. Часть 2. Unit tests](https://habr.com/ru/post/712060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712060)
 - [Amazon IVS: как быстро добавить видеотрансляции в приложение или на сайт](https://habr.com/ru/post/707488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707488)
-- [Про тестирование мобильных приложений. Часть 1. Обзор](https://habr.com/ru/post/711718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
