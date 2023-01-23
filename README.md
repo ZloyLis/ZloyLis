@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не бойтесь использовать Gradle](https://habr.com/ru/post/711712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711712)
+- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 7](https://habr.com/ru/post/711012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711012)
+- [Dry-rb — экосистема, которая упростит архитектуру вашего проекта](https://habr.com/ru/post/712166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712166)
 - [Красивая иконка на табло Яндекс Браузера](https://habr.com/ru/post/712064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712064)
 - [[Перевод] Текстовые модификаторы в SwiftUI](https://habr.com/ru/post/711220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711220)
-- [Как в VBA правильно создавать одномерный массив. ArrayList](https://habr.com/ru/post/712000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712000)
-- [Мобильная разработка за неделю #472 &lpar;16 — 22 января&rpar;](https://habr.com/ru/post/712108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712108)
-- [Про тестирование мобильных приложений. Часть 2. Unit tests](https://habr.com/ru/post/712060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
