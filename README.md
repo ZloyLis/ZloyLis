@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выбираем формат хранения данных в экосистеме Hadoop](https://habr.com/ru/post/712246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712246)
 - [[Перевод] Алгоритм внешней сортировки слиянием](https://habr.com/ru/post/712234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712234)
 - [Чеклист для прототипов](https://habr.com/ru/post/711620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711620)
 - [[Перевод] Топ-15 шпаргалок для программистов и WEB-разработчиков](https://habr.com/ru/post/712228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712228)
 - [Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform](https://habr.com/ru/post/712216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712216)
-- [Не бойтесь использовать Gradle](https://habr.com/ru/post/711712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
