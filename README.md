@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Алгоритм внешней сортировки слиянием](https://habr.com/ru/post/712234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712234)
+- [Чеклист для прототипов](https://habr.com/ru/post/711620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711620)
+- [[Перевод] Топ-15 шпаргалок для программистов и WEB-разработчиков](https://habr.com/ru/post/712228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712228)
+- [Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform](https://habr.com/ru/post/712216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712216)
 - [Не бойтесь использовать Gradle](https://habr.com/ru/post/711712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711712)
-- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 7](https://habr.com/ru/post/711012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711012)
-- [Dry-rb — экосистема, которая упростит архитектуру вашего проекта](https://habr.com/ru/post/712166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712166)
-- [Красивая иконка на табло Яндекс Браузера](https://habr.com/ru/post/712064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712064)
-- [[Перевод] Текстовые модификаторы в SwiftUI](https://habr.com/ru/post/711220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
