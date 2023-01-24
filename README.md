@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем программу для обучения английскому языку с помощью OpenAI API](https://habr.com/ru/post/712596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712596)
 - [Wave Function Collapse для процедурной генерации в Unity](https://habr.com/ru/post/712580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712580)
 - [Технология непрерывной поставки ПО](https://habr.com/ru/post/712280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712280)
 - [13 инструментов для защиты абонентов](https://habr.com/ru/post/712522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712522)
 - [[Перевод] Как построить WaitGroup на основе 32-разрядного целого числа](https://habr.com/ru/post/712542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712542)
-- [[Перевод] Делаем свернутый контент доступным с помощью hidden=until-Found](https://habr.com/ru/post/712562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
