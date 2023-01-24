@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Programming, или как использовать предыдущий computation-опыт](https://habr.com/ru/post/711352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711352)
+- [Базовое проектирование и разработка требований к интеграции систем &lpar;для начинающих аналитиков&rpar;](https://habr.com/ru/post/712504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712504)
 - [[Перевод] 5 полезных расширений Chrome для тестировщиков](https://habr.com/ru/post/712452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712452)
 - [Нельзя просто так взять и написать полезный iOS фреймворк… Или можно?](https://habr.com/ru/post/712162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712162)
 - [Хабр Эксперты: IT-менторство на Хабр Карьере](https://habr.com/ru/post/712456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712456)
-- [Как мы взяли и отменили Бережливое производство на проекте &lpar;И чем это кончилось&rpar;](https://habr.com/ru/post/712442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712442)
-- [Шесть причин, почему ваши A/B-тесты не работают](https://habr.com/ru/post/712306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
