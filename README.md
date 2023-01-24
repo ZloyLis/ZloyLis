@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нельзя просто так взять и написать полезный iOS фреймворк… Или можно?](https://habr.com/ru/post/712162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712162)
+- [Хабр Эксперты: IT-менторство на Хабр Карьере](https://habr.com/ru/post/712456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712456)
+- [Как мы взяли и отменили Бережливое производство на проекте &lpar;И чем это кончилось&rpar;](https://habr.com/ru/post/712442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712442)
+- [Шесть причин, почему ваши A/B-тесты не работают](https://habr.com/ru/post/712306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712306)
 - [Js, трюки, наблюдения, бенчмарки и как Лиса уничтожает Хром. Я протестировал всё, что вам было лень](https://habr.com/ru/post/712386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712386)
-- [Микросервис головного мозга. Рецепты качества](https://habr.com/ru/post/660695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660695)
-- [Микрофронтенды с Module Federation: истории внедрения в готовый проект и создания с нуля](https://habr.com/ru/post/712430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712430)
-- [Combine: часть 1. Погружение в реактивное программирование](https://habr.com/ru/post/712332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712332)
-- [«Подводные камни» интеллектуальной собственности на программное обеспечение, или Чего опасаться «стартапам»](https://habr.com/ru/post/712424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
