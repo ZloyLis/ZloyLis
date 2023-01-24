@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка клиент-серверного приложения с помощью Next.js и TypeScript. Часть 1. Настройка проекта и разработка сервера](https://habr.com/ru/post/712294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712294)
+- [[Перевод] Как создать виджет экрана блокировки в iOS?](https://habr.com/ru/post/708254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708254)
+- [Цифровизация в образовательном процессе: кейс «IP-задачник» Казанского техникума связи](https://habr.com/ru/post/712412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712412)
+- [Index.ts – зло и польза](https://habr.com/ru/post/704386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704386)
 - [Эволюция тимлида: как сглаживать углы и не подгонять разработчиков](https://habr.com/ru/post/711616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711616)
-- [Как Василий ускорял сборку тестов](https://habr.com/ru/post/712396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712396)
-- [GitHub Student pack как способ учиться легче и быстрее](https://habr.com/ru/post/712380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712380)
-- [adb: tap, swipe и два дымящихся event&#39;а](https://habr.com/ru/post/712374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712374)
-- [Табличная классификация и регрессия Apple ML](https://habr.com/ru/post/712094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
