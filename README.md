@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Wave Function Collapse для процедурной генерации в Unity](https://habr.com/ru/post/712580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712580)
+- [Технология непрерывной поставки ПО](https://habr.com/ru/post/712280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712280)
+- [13 инструментов для защиты абонентов](https://habr.com/ru/post/712522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712522)
 - [[Перевод] Как построить WaitGroup на основе 32-разрядного целого числа](https://habr.com/ru/post/712542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712542)
 - [[Перевод] Делаем свернутый контент доступным с помощью hidden=until-Found](https://habr.com/ru/post/712562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712562)
-- [Разбор баланса My Mini Mart](https://habr.com/ru/post/712560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712560)
-- [Dynamic Programming, или как использовать предыдущий computation-опыт](https://habr.com/ru/post/711352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711352)
-- [Базовое проектирование и разработка требований к интеграции систем &lpar;для начинающих аналитиков&rpar;](https://habr.com/ru/post/712504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
