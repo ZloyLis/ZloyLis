@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция тимлида: как сглаживать углы и не подгонять разработчиков](https://habr.com/ru/post/711616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711616)
 - [Как Василий ускорял сборку тестов](https://habr.com/ru/post/712396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712396)
 - [GitHub Student pack как способ учиться легче и быстрее](https://habr.com/ru/post/712380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712380)
 - [adb: tap, swipe и два дымящихся event&#39;а](https://habr.com/ru/post/712374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712374)
 - [Табличная классификация и регрессия Apple ML](https://habr.com/ru/post/712094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712094)
-- [Объединение макросов в confluence](https://habr.com/ru/post/712266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
