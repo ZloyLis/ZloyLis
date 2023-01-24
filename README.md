@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработка клиент-серверного приложения с помощью Next.js и TypeScript. Часть 1. Настройка проекта и разработка сервера](https://habr.com/ru/post/712294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712294)
-- [[Перевод] Как создать виджет экрана блокировки в iOS?](https://habr.com/ru/post/708254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708254)
-- [Цифровизация в образовательном процессе: кейс «IP-задачник» Казанского техникума связи](https://habr.com/ru/post/712412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712412)
-- [Index.ts – зло и польза](https://habr.com/ru/post/704386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704386)
-- [Эволюция тимлида: как сглаживать углы и не подгонять разработчиков](https://habr.com/ru/post/711616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711616)
+- [Js, трюки, наблюдения, бенчмарки и как Лиса уничтожает Хром. Я протестировал всё, что вам было лень](https://habr.com/ru/post/712386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712386)
+- [Микросервис головного мозга. Рецепты качества](https://habr.com/ru/post/660695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660695)
+- [Микрофронтенды с Module Federation: истории внедрения в готовый проект и создания с нуля](https://habr.com/ru/post/712430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712430)
+- [Combine: часть 1. Погружение в реактивное программирование](https://habr.com/ru/post/712332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712332)
+- [«Подводные камни» интеллектуальной собственности на программное обеспечение, или Чего опасаться «стартапам»](https://habr.com/ru/post/712424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
