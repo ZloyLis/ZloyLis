@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Способы эмуляции Win32](https://habr.com/ru/post/712454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712454)
 - [Как провести интерактивный конкурс в самом популярном цифровом помощнике для школьников](https://habr.com/ru/post/712564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712564)
 - [Работа преподавателем в колледже IT — личный опыт](https://habr.com/ru/post/712636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712636)
 - [SOLID на примере JavaScript с chatGPT](https://habr.com/ru/post/712630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712630)
 - [Spring Cloud Config и обновление компонентов в рантайме](https://habr.com/ru/post/712628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712628)
-- [Нельзя просто так взять и распарсить этот JSON на JavaScript](https://habr.com/ru/post/712618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
