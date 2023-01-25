@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Подбор коэффициентов последовательным перебором. Сокращаем вычисления](https://habr.com/ru/post/712682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712682)
-- [PHPStorm + XDebug + Docker](https://habr.com/ru/post/712670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712670)
-- [[Перевод] Способы эмуляции Win32](https://habr.com/ru/post/712454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712454)
-- [Как провести интерактивный конкурс в самом популярном цифровом помощнике для школьников](https://habr.com/ru/post/712564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712564)
-- [Работа преподавателем в колледже IT — личный опыт](https://habr.com/ru/post/712636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712636)
+- [Пишем UI авто тесты на TypeScript с использованием Page Object, Page Factory](https://habr.com/ru/post/712084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712084)
+- [Итоги года Smart Engines: 65 научных работ и выручка свыше 400 млн рублей](https://habr.com/ru/post/712678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712678)
+- [Горячие следы на тернистом пути](https://habr.com/ru/post/712706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712706)
+- [Грамотный комментарий к проверенной задаче](https://habr.com/ru/post/712700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712700)
+- [Себе в 20 лет я бы посоветовал…](https://habr.com/ru/post/712690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
