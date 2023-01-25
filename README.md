@@ -36,9 +36,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Скажи пока плохим практикам в JS](https://habr.com/ru/post/712850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712850)
 - [О чем говорят сертификаты дата-центров](https://habr.com/ru/post/712822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712822)
-- [[Перевод] Обновления .NET 7, посвящённые сети](https://habr.com/ru/post/710810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710810)
 - [[Перевод] Не тратьте время на санацию ввода. Лучше экранируйте вывод](https://habr.com/ru/post/712830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712830)
 - [Основные приемы работы с Canvas [Part 2]](https://habr.com/ru/post/712808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712808)
+- [Книга «Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python»](https://habr.com/ru/post/711636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
