@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа преподавателем в колледже IT — личный опыт](https://habr.com/ru/post/712636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712636)
 - [SOLID на примере JavaScript с chatGPT](https://habr.com/ru/post/712630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712630)
 - [Spring Cloud Config и обновление компонентов в рантайме](https://habr.com/ru/post/712628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712628)
 - [Нельзя просто так взять и распарсить этот JSON на JavaScript](https://habr.com/ru/post/712618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712618)
 - [Joomla-дайджест. 2-е полугодие 2022](https://habr.com/ru/post/712134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712134)
-- [Пишем программу для обучения английскому языку с помощью OpenAI API](https://habr.com/ru/post/712596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
