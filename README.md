@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга «Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python»](https://habr.com/ru/post/711636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711636)
+- [[Перевод] Визуальные карты сетей кластеров K8s для оценки их производительности](https://habr.com/ru/post/712536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712536)
+- [Жизнь после Docker: как команда VK Cloud переходила на CRI-O](https://habr.com/ru/post/707312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707312)
 - [[Перевод] Усиливаем защиту доступа к Kubernetes API](https://habr.com/ru/post/712736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712736)
 - [Пишем UI авто тесты на TypeScript с использованием Page Object, Page Factory](https://habr.com/ru/post/712084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712084)
-- [Proxyless Service Mesh в gRPC Java-сервисах за 4 шага](https://habr.com/ru/post/712714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712714)
-- [Итоги года Smart Engines: 65 научных работ и выручка свыше 400 млн рублей](https://habr.com/ru/post/712678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712678)
-- [Горячие следы на тернистом пути](https://habr.com/ru/post/712706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
