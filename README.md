@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О чем говорят сертификаты дата-центров](https://habr.com/ru/post/712822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712822)
+- [[Перевод] Обновления .NET 7, посвящённые сети](https://habr.com/ru/post/710810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710810)
+- [[Перевод] Не тратьте время на санацию ввода. Лучше экранируйте вывод](https://habr.com/ru/post/712830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712830)
 - [Основные приемы работы с Canvas [Part 2]](https://habr.com/ru/post/712808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712808)
 - [Книга «Математические алгоритмы для программистов. 3D-графика, машинное обучение и моделирование на Python»](https://habr.com/ru/post/711636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711636)
-- [[Перевод] Визуальные карты сетей кластеров K8s для оценки их производительности](https://habr.com/ru/post/712536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712536)
-- [Жизнь после Docker: как команда VK Cloud переходила на CRI-O](https://habr.com/ru/post/707312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707312)
-- [[Перевод] Усиливаем защиту доступа к Kubernetes API](https://habr.com/ru/post/712736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
