@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбираемся в asyncio: где полезно, а где —нет?](https://habr.com/ru/post/713084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713084)
+- [GitLab выкатил версию 15.8. Рассказываем, что нового](https://habr.com/ru/post/713106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713106)
+- [[Перевод] Использование Makefiles для проектов Swift](https://habr.com/ru/post/713074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713074)
+- [Разбираемся в асинхронности: где полезно, а где — нет?](https://habr.com/ru/post/713084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713084)
 - [«Кандидат сбежал в слезах»: 5 главных вопросов для собеседования на Python разработчика](https://habr.com/ru/post/700114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700114)
 - [Процессный подход на цыпочках или как выстроить процессы в крупном ритейле](https://habr.com/ru/post/713048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713048)
-- [Vertu… но с подвохом! Верту сигнейчур, который может позволить себе каждый](https://habr.com/ru/post/713046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713046)
-- [От джуна &lpar;2022-2023&rpar; джуну](https://habr.com/ru/post/713044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
