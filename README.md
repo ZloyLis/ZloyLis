@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как найти часть суши, окруженную водой](https://habr.com/ru/post/712848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712848)
 - [Просто о RCU &lpar;Read–Copy-Update&rpar;](https://habr.com/ru/post/712882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712882)
 - [Создание WEBGL приложения Вконтакте на Unity](https://habr.com/ru/post/712876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712876)
 - [[Перевод] Скажи пока плохим практикам в JS](https://habr.com/ru/post/712850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712850)
 - [О чем говорят сертификаты дата-центров](https://habr.com/ru/post/712822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712822)
-- [[Перевод] Не тратьте время на санацию ввода. Лучше экранируйте вывод](https://habr.com/ru/post/712830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
