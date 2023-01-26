@@ -38,7 +38,7 @@ ___
 - [[Перевод] Использование Makefiles для проектов Swift](https://habr.com/ru/post/713074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713074)
 - [Разбираемся в асинхронности: где полезно, а где — нет?](https://habr.com/ru/post/713084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713084)
 - [«Кандидат сбежал в слезах»: 5 главных вопросов для собеседования на Python разработчика](https://habr.com/ru/post/700114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700114)
-- [Процессный подход на цыпочках или как выстроить процессы в крупном ритейле](https://habr.com/ru/post/713048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713048)
+- [Процессный подход на цыпочках, или как выстроить процессы в крупном ритейле](https://habr.com/ru/post/713048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
