@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vertu… но с подвохом! Верту сигнейчур, который может позволить себе каждый](https://habr.com/ru/post/713046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713046)
+- [От джуна &lpar;2022-2023&rpar; джуну](https://habr.com/ru/post/713044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713044)
+- [Поломали сайт Альфа-Банка в «прямом эфире»: записи митапа Alfa Backend Stories Meetup #1](https://habr.com/ru/post/713040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713040)
+- [[Перевод] Вот что я нагуглила за неделю в качестве старшего инженера-программиста](https://habr.com/ru/post/713028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713028)
 - [Alias DNS-записи: что это и когда использовать](https://habr.com/ru/post/712722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712722)
-- [[Перевод] Чистый код: как писать код, который легко читать](https://habr.com/ru/post/713016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713016)
-- [Бардак в main, стандартизация и uber.fx. Как сделать структуру кода понятнее для всех](https://habr.com/ru/post/699994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699994)
-- [Интеграция Primefaces в приложение на Spring Boot. Часть 3 — динамическое обновление контента страницы](https://habr.com/ru/post/712858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712858)
-- [Групповой видеозвонок на сайт](https://habr.com/ru/post/712974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
