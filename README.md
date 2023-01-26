@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Искусственный интеллект как React-разработчик](https://habr.com/ru/post/712828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712828)
+- [7 шагов по организации пространства в серверной стойке](https://habr.com/ru/post/711004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711004)
+- [Цепи Маркова: как использовать силу анализа ссылок в SEO](https://habr.com/ru/post/712942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712942)
+- [Git для ленивых: обзор консольной утилиты Lazygit](https://habr.com/ru/post/712874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712874)
 - [Подключаем SignalR к Unity](https://habr.com/ru/post/712918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712918)
-- [История Дениса: уйти, чтобы вернуться](https://habr.com/ru/post/712270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712270)
-- [[Перевод] Когда вам нужно сообщить об использовании шифрования вашим приложением?](https://habr.com/ru/post/711212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711212)
-- [Математическая продлёнка. Теория чисел на пальцах](https://habr.com/ru/post/710642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710642)
-- [[Перевод] Flutter 3.7 — Что нового во Flutter](https://habr.com/ru/post/712894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
