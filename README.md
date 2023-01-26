@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бардак в main, стандартизация и uber.fx. Как сделать структуру кода понятнее для всех](https://habr.com/ru/post/699994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699994)
+- [Интеграция Primefaces в приложение на Spring Boot. Часть 3 — динамическое обновление контента страницы](https://habr.com/ru/post/712858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712858)
 - [Групповой видеозвонок на сайт](https://habr.com/ru/post/712974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712974)
 - [Алгоритм поиска «одинаковых» геометрий](https://habr.com/ru/post/712968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712968)
 - [eBPF в production-условиях](https://habr.com/ru/post/712658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712658)
-- [[Перевод] Искусственный интеллект как React-разработчик](https://habr.com/ru/post/712828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712828)
-- [7 шагов по организации пространства в серверной стойке](https://habr.com/ru/post/711004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
