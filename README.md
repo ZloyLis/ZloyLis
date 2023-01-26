@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся в asyncio: где полезно, а где —нет?](https://habr.com/ru/post/713084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713084)
+- [«Кандидат сбежал в слезах»: 5 главных вопросов для собеседования на Python разработчика](https://habr.com/ru/post/700114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700114)
+- [Процессный подход на цыпочках или как выстроить процессы в крупном ритейле](https://habr.com/ru/post/713048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713048)
 - [Vertu… но с подвохом! Верту сигнейчур, который может позволить себе каждый](https://habr.com/ru/post/713046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713046)
 - [От джуна &lpar;2022-2023&rpar; джуну](https://habr.com/ru/post/713044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713044)
-- [Поломали сайт Альфа-Банка в «прямом эфире»: записи митапа Alfa Backend Stories Meetup #1](https://habr.com/ru/post/713040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713040)
-- [[Перевод] Вот что я нагуглила за неделю в качестве старшего инженера-программиста](https://habr.com/ru/post/713028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713028)
-- [Alias DNS-записи: что это и когда использовать](https://habr.com/ru/post/712722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
