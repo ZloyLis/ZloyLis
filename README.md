@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Alias DNS-записи: что это и когда использовать](https://habr.com/ru/post/712722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712722)
+- [[Перевод] Чистый код: как писать код, который легко читать](https://habr.com/ru/post/713016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713016)
 - [Бардак в main, стандартизация и uber.fx. Как сделать структуру кода понятнее для всех](https://habr.com/ru/post/699994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=699994)
 - [Интеграция Primefaces в приложение на Spring Boot. Часть 3 — динамическое обновление контента страницы](https://habr.com/ru/post/712858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712858)
 - [Групповой видеозвонок на сайт](https://habr.com/ru/post/712974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712974)
-- [Алгоритм поиска «одинаковых» геометрий](https://habr.com/ru/post/712968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712968)
-- [eBPF в production-условиях](https://habr.com/ru/post/712658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
