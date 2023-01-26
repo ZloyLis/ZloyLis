@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Когда вам нужно сообщить об использовании шифрования вашим приложением?](https://habr.com/ru/post/711212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711212)
 - [Математическая продлёнка. Теория чисел на пальцах](https://habr.com/ru/post/710642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710642)
 - [[Перевод] Flutter 3.7 — Что нового во Flutter](https://habr.com/ru/post/712894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712894)
 - [Как найти часть суши, окруженную водой](https://habr.com/ru/post/712848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712848)
 - [Просто о RCU &lpar;Read–Copy-Update&rpar;](https://habr.com/ru/post/712882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712882)
-- [Создание WEBGL приложения Вконтакте на Unity](https://habr.com/ru/post/712876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
