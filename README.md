@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Групповой видеозвонок на сайт](https://habr.com/ru/post/712974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712974)
+- [Алгоритм поиска «одинаковых» геометрий](https://habr.com/ru/post/712968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712968)
 - [eBPF в production-условиях](https://habr.com/ru/post/712658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712658)
 - [[Перевод] Искусственный интеллект как React-разработчик](https://habr.com/ru/post/712828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712828)
 - [7 шагов по организации пространства в серверной стойке](https://habr.com/ru/post/711004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711004)
-- [Цепи Маркова: как использовать силу анализа ссылок в SEO](https://habr.com/ru/post/712942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712942)
-- [Git для ленивых: обзор консольной утилиты Lazygit](https://habr.com/ru/post/712874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
