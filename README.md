@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Связный список в Swift](https://habr.com/ru/post/713162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713162)
 - [Лучшие курсы по веб дизайну 2023 &lpar;голосование&rpar;](https://habr.com/ru/post/713130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713130)
 - [GitLab выкатил версию 15.8. Рассказываем, что нового](https://habr.com/ru/post/713106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713106)
 - [[Перевод] Использование Makefiles для проектов Swift](https://habr.com/ru/post/713074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713074)
 - [Разбираемся в асинхронности: где полезно, а где — нет?](https://habr.com/ru/post/713084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713084)
-- [«Кандидат сбежал в слезах»: 5 главных вопросов для собеседования на Python разработчика](https://habr.com/ru/post/700114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
