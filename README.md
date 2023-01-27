@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Боль ML-проектов: как перестать ее чувствовать и начать доходить до прода](https://habr.com/ru/post/713210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713210)
 - [Клинические алгоритмы при пандемии COVID-19 на медицинском языке ДРАКОН. Часть 1](https://habr.com/ru/post/712078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712078)
 - [Учись, студент: подборка полезных материалов для тех, кто покоряет вузы](https://habr.com/ru/post/713144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713144)
 - [[Перевод] Иногда геймификация заводит не туда: долой стрейки](https://habr.com/ru/post/713188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713188)
 - [Телефон от Nokia, который никогда не существовал… Оживляем Nokia TV E71 с телевизором](https://habr.com/ru/post/712010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712010)
-- [KubEnv — простое управление конфигами Kubernetes](https://habr.com/ru/post/713172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
