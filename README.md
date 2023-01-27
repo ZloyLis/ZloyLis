@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Яндекс Карты и React Native](https://habr.com/ru/post/713322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713322)
+- [Гонка за детскими часами и при чём здесь кот?](https://habr.com/ru/post/713342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713342)
+- [[recovery mode] Яндекс Карты и React Native. Часть 1. Установка и примитивы](https://habr.com/ru/post/713322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713322)
 - [[Перевод] Производительность параллельных алгоритмов STL](https://habr.com/ru/post/713316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713316)
 - [[Перевод] Устранение неисправностей в приложении Java под Kubernetes](https://habr.com/ru/post/713248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713248)
 - [[Перевод] Создаём и расширяем образы Docker с функциями middleware](https://habr.com/ru/post/713304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713304)
-- [[Перевод] Осваиваем TypeScript: 21 лучшая практика при написании кода](https://habr.com/ru/post/712548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
