@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Осваиваем TypeScript: 21 лучшая практика при написании кода](https://habr.com/ru/post/712548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712548)
+- [Фича-тогглы: инструкция по применению](https://habr.com/ru/post/686814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=686814)
+- [Как не надо участвовать в командных хакатонах. Рефлексия дубль 2, блеск и нищета поражения](https://habr.com/ru/post/713278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713278)
 - [[Перевод] Работа с Unicode в регулярных выражениях: графемы, категории, письменности](https://habr.com/ru/post/713256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713256)
 - [Погнался за девушкой, а стал middle-разработчиком](https://habr.com/ru/post/713234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713234)
-- [Интервью со студенткой школы Metaclass, которая прошла два наших курса и дважды попала на стажировку в KTS](https://habr.com/ru/post/713222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713222)
-- [[Перевод] Обновление Flutter 3.7: перевод официального релиза и комментарии](https://habr.com/ru/post/713218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713218)
-- [Боль ML-проектов: как перестать ее чувствовать и начать доходить до прода](https://habr.com/ru/post/713210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
