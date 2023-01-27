@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Работа с Unicode в регулярных выражениях: графемы, категории, письменности](https://habr.com/ru/post/713256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713256)
+- [Погнался за девушкой, а стал middle-разработчиком](https://habr.com/ru/post/713234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713234)
 - [Интервью со студенткой школы Metaclass, которая прошла два наших курса и дважды попала на стажировку в KTS](https://habr.com/ru/post/713222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713222)
 - [[Перевод] Обновление Flutter 3.7: перевод официального релиза и комментарии](https://habr.com/ru/post/713218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713218)
 - [Боль ML-проектов: как перестать ее чувствовать и начать доходить до прода](https://habr.com/ru/post/713210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713210)
-- [Клинические алгоритмы при пандемии COVID-19 на медицинском языке ДРАКОН. Часть 1](https://habr.com/ru/post/712078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712078)
-- [Учись, студент: подборка полезных материалов для тех, кто покоряет вузы](https://habr.com/ru/post/713144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
