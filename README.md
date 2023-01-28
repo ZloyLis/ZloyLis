@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Минимизируем человеческий фактор в Swift](https://habr.com/ru/post/713456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713456)
 - [Что скрывают программы от отладчика?](https://habr.com/ru/post/713446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713446)
 - [[Перевод] TLS 1.3, только игрушечный](https://habr.com/ru/post/713392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713392)
 - [Создаем свой собственный язык программирования с использованием LLVM. Часть 1: Лексический и синтаксический анализ](https://habr.com/ru/post/713434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713434)
 - [Прошивка и отладка STM32 в VSCode под Windows](https://habr.com/ru/post/713432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713432)
-- [[Перевод] Разбираем Теорию Игр с python-библиотеками nashpy и axelrod](https://habr.com/ru/post/713120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
