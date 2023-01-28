@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Раскатка k8s 1.26 ansible+jenkins](https://habr.com/ru/post/713398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713398)
 - [Boson — разработка СУБД «с нуля» &lpar;часть II&rpar;](https://habr.com/ru/post/712896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712896)
 - [И смартфоны тоже: падение рынка худшее за много лет. В чем причина?](https://habr.com/ru/post/711810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711810)
 - [Retry or No?](https://habr.com/ru/post/712964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712964)
 - [Настраиваем Clion для разработки под Flipper Zero](https://habr.com/ru/post/713382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713382)
-- [Информация, как много в этом слове…](https://habr.com/ru/post/713376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
