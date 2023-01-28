@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] TLS 1.3, только игрушечный](https://habr.com/ru/post/713392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713392)
+- [Создаем свой собственный язык программирования с использованием LLVM. Часть 1: Лексический и синтаксический анализ](https://habr.com/ru/post/713434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713434)
+- [Прошивка и отладка STM32 в VSCode под Windows](https://habr.com/ru/post/713432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713432)
 - [[Перевод] Разбираем Теорию Игр с python-библиотеками nashpy и axelrod](https://habr.com/ru/post/713120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713120)
 - [[recovery mode] 10 советов по оптимизации приложения NodeJS](https://habr.com/ru/post/713428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713428)
-- [План алгоритмического собеседования: как впечатлить интервьюера и получить работу мечты](https://habr.com/ru/post/713404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713404)
-- [Масштабирование NodeJS приложений, теория и практика](https://habr.com/ru/post/713420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713420)
-- [Раскатка k8s 1.26 ansible+jenkins](https://habr.com/ru/post/713398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
