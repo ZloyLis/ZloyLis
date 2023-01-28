@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [И смартфоны тоже: падение рынка худшее за много лет. В чем причина?](https://habr.com/ru/post/711810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711810)
 - [Retry or No?](https://habr.com/ru/post/712964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712964)
 - [Настраиваем Clion для разработки под Flipper Zero](https://habr.com/ru/post/713382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713382)
 - [Информация, как много в этом слове…](https://habr.com/ru/post/713376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713376)
 - [Яндекс Карты и React Native. Часть 2. HUD и методы карты](https://habr.com/ru/post/713374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713374)
-- [Гонка за детскими часами и при чём здесь кот?](https://habr.com/ru/post/713342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
