@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разбираем Теорию Игр с python-библиотеками nashpy и axelrod](https://habr.com/ru/post/713120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713120)
+- [[recovery mode] 10 советов по оптимизации приложения NodeJS](https://habr.com/ru/post/713428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713428)
 - [План алгоритмического собеседования: как впечатлить интервьюера и получить работу мечты](https://habr.com/ru/post/713404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713404)
-- [NodeJS и Golang — Коротко об отличиях](https://habr.com/ru/post/713422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713422)
 - [Масштабирование NodeJS приложений, теория и практика](https://habr.com/ru/post/713420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713420)
 - [Раскатка k8s 1.26 ansible+jenkins](https://habr.com/ru/post/713398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713398)
-- [Boson — разработка СУБД «с нуля» &lpar;часть II&rpar;](https://habr.com/ru/post/712896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
