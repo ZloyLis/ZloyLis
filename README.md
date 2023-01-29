@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание Kubernetes-кластера на пальцах или почему это не сложно](https://habr.com/ru/post/713520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713520)
+- [Библиотека «Room» для начинающего Android-разработчика](https://habr.com/ru/post/713518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713518)
 - [Старая математика ломает постквантовые шифры](https://habr.com/ru/post/713512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713512)
 - [Создаем библиотеку по теории игр на питоне для максимально широкого спектра разнообразных игр](https://habr.com/ru/post/713460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713460)
 - [From Zero to Hero: определите ваш уровень решения LeetCode задач от 1 до 5](https://habr.com/ru/post/713498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713498)
-- [Строковые дубликаты в исходниках python — вариант решения](https://habr.com/ru/post/713474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713474)
-- [Минимизируем человеческий фактор в Swift](https://habr.com/ru/post/713456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
