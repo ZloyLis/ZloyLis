@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Hero: определите ваш уровень решения LeetCode задач от 1 до 5](https://habr.com/ru/post/713498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713498)
 - [Строковые дубликаты в исходниках python — вариант решения](https://habr.com/ru/post/713474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713474)
 - [Минимизируем человеческий фактор в Swift](https://habr.com/ru/post/713456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713456)
 - [Что скрывают программы от отладчика?](https://habr.com/ru/post/713446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713446)
 - [[Перевод] TLS 1.3, только игрушечный](https://habr.com/ru/post/713392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713392)
-- [Создаем свой собственный язык программирования с использованием LLVM. Часть 1: Лексический и синтаксический анализ](https://habr.com/ru/post/713434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
