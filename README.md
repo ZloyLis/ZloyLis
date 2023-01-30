@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ультра-маленькие демки под DOS](https://habr.com/ru/post/713550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713550)
 - [Концепция ORM как двигатель прогресса – выявит слабое место Вашей СУБД](https://habr.com/ru/post/713724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713724)
 - [Apple Pro Weekly News &lpar;23.01 – 29.01.23&rpar;](https://habr.com/ru/post/713782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713782)
 - [[Перевод] Rust 1.67.0: #[must_use] для Future, смена реализации mpsc](https://habr.com/ru/post/713740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713740)
 - [Поиск callback-ов кнопок в рантайме iOS](https://habr.com/ru/post/713732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713732)
-- [[Перевод] Анимация грида в CSS](https://habr.com/ru/post/713386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
