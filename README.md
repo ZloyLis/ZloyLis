@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tarantool Data Grid + Java = …](https://habr.com/ru/post/713592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713592)
+- [Техподдержка: как научиться жить без Jira](https://habr.com/ru/post/712988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712988)
+- [[Перевод] Настройте 3D-шахматную доску с помощью SwiftUI и RealityKit](https://habr.com/ru/post/713358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713358)
 - [Мобильная разработка за неделю #473 &lpar;23 — 29 января&rpar;](https://habr.com/ru/post/713554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713554)
 - [Kodi перестал обновлять информацию о фильмах, потому что TMDB заблокировал доступ пользователям из России](https://habr.com/ru/post/712180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712180)
-- [Кто последний на индустриальный стандарт? Мне только спросить…](https://habr.com/ru/post/713534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713534)
-- [Сайт, целиком написанный OpenAI](https://habr.com/ru/post/713532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713532)
-- [Создание Kubernetes-кластера на пальцах или почему это не сложно](https://habr.com/ru/post/713520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
