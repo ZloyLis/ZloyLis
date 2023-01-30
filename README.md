@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск callback-ов кнопок в рантайме iOS](https://habr.com/ru/post/713732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713732)
+- [[Перевод] Анимация грида в CSS](https://habr.com/ru/post/713386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713386)
 - [[Перевод] Как ускорить разработку и тестирование в SwiftUI с помощью PreviewSnapshots](https://habr.com/ru/post/713346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713346)
+- [[Перевод] Введение в нечёткую логику](https://habr.com/ru/post/713620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713620)
 - [Helm Canary: как Сбер канареечные релизы реализовывал](https://habr.com/ru/post/713686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713686)
-- [Ровно 10 лет назад состоялся первый полноценный показ BlackBerry 10](https://habr.com/ru/post/713680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713680)
-- [Что такое мат.анализ и с чем его едят?](https://habr.com/ru/post/713676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713676)
-- [Криптономикон 2022, или Блокчейн для чайников](https://habr.com/ru/post/713674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
