@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kodi перестал обновлять информацию о фильмах, потому что TMDB заблокировал доступ пользователям из России](https://habr.com/ru/post/712180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712180)
 - [Кто последний на индустриальный стандарт? Мне только спросить…](https://habr.com/ru/post/713534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713534)
 - [Сайт, целиком написанный OpenAI](https://habr.com/ru/post/713532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713532)
 - [Создание Kubernetes-кластера на пальцах или почему это не сложно](https://habr.com/ru/post/713520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713520)
 - [Библиотека «Room» для начинающего Android-разработчика](https://habr.com/ru/post/713518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713518)
-- [Старая математика ломает постквантовые шифры](https://habr.com/ru/post/713512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
