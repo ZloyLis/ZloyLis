@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ровно 10 лет назад состоялся первый полноценный показ BlackBerry 10](https://habr.com/ru/post/713680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713680)
+- [Что такое мат.анализ и с чем его едят?](https://habr.com/ru/post/713676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713676)
+- [Криптономикон 2022, или Блокчейн для чайников](https://habr.com/ru/post/713674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713674)
+- [Security Week 2305: взлом инфраструктуры Zendesk](https://habr.com/ru/post/713568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713568)
 - [Nokia X2-02: Лучшая мобилка для владельца старого авто](https://habr.com/ru/post/713654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713654)
-- [Использование шейдеров во Flutter. Часть 1](https://habr.com/ru/post/713298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713298)
-- [[Перевод] Риски, связанные с наследованием](https://habr.com/ru/post/713608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713608)
-- [[Перевод] Пара HTTP-заголовков, о которых, похоже, не знают разработчики](https://habr.com/ru/post/713142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713142)
-- [Сжатие без потерь — главная концепция в нашей жизни](https://habr.com/ru/post/712652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
