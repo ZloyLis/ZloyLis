@@ -35,10 +35,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Риски, связанные с наследованием](https://habr.com/ru/post/713608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713608)
+- [[Перевод] Пара HTTP-заголовков, о которых, похоже, не знают разработчики](https://habr.com/ru/post/713142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713142)
 - [Сжатие без потерь — главная концепция в нашей жизни](https://habr.com/ru/post/712652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712652)
 - [Tarantool Data Grid + Java = …](https://habr.com/ru/post/713592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713592)
 - [Техподдержка: как научиться жить без Jira](https://habr.com/ru/post/712988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712988)
-- [[Перевод] Настройте 3D-шахматную доску с помощью SwiftUI и RealityKit](https://habr.com/ru/post/713358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
