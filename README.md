@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Nokia X2-02: Лучшая мобилка для владельца старого авто](https://habr.com/ru/post/713654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713654)
+- [Использование шейдеров во Flutter. Часть 1](https://habr.com/ru/post/713298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713298)
 - [[Перевод] Риски, связанные с наследованием](https://habr.com/ru/post/713608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713608)
 - [[Перевод] Пара HTTP-заголовков, о которых, похоже, не знают разработчики](https://habr.com/ru/post/713142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713142)
 - [Сжатие без потерь — главная концепция в нашей жизни](https://habr.com/ru/post/712652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712652)
-- [Tarantool Data Grid + Java = …](https://habr.com/ru/post/713592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713592)
-- [Техподдержка: как научиться жить без Jira](https://habr.com/ru/post/712988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
