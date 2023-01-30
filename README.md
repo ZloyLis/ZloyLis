@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Helm Canary: как Сбер канареечные релизы реализовывал](https://habr.com/ru/post/713686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713686)
 - [Ровно 10 лет назад состоялся первый полноценный показ BlackBerry 10](https://habr.com/ru/post/713680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713680)
 - [Что такое мат.анализ и с чем его едят?](https://habr.com/ru/post/713676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713676)
 - [Криптономикон 2022, или Блокчейн для чайников](https://habr.com/ru/post/713674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713674)
 - [Security Week 2305: взлом инфраструктуры Zendesk](https://habr.com/ru/post/713568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713568)
-- [Nokia X2-02: Лучшая мобилка для владельца старого авто](https://habr.com/ru/post/713654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
