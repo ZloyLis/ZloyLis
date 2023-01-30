@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Риски, связанные с наследованием](https://habr.com/ru/post/713608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713608)
+- [Сжатие без потерь — главная концепция в нашей жизни](https://habr.com/ru/post/712652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712652)
 - [Tarantool Data Grid + Java = …](https://habr.com/ru/post/713592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713592)
 - [Техподдержка: как научиться жить без Jira](https://habr.com/ru/post/712988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712988)
 - [[Перевод] Настройте 3D-шахматную доску с помощью SwiftUI и RealityKit](https://habr.com/ru/post/713358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713358)
-- [Мобильная разработка за неделю #473 &lpar;23 — 29 января&rpar;](https://habr.com/ru/post/713554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713554)
-- [Kodi перестал обновлять информацию о фильмах, потому что TMDB заблокировал доступ пользователям из России](https://habr.com/ru/post/712180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
