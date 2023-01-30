@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.67.0: #[must_use] для Future, смена реализации mpsc](https://habr.com/ru/post/713740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713740)
 - [Поиск callback-ов кнопок в рантайме iOS](https://habr.com/ru/post/713732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713732)
 - [[Перевод] Анимация грида в CSS](https://habr.com/ru/post/713386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713386)
 - [[Перевод] Как ускорить разработку и тестирование в SwiftUI с помощью PreviewSnapshots](https://habr.com/ru/post/713346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713346)
 - [[Перевод] Введение в нечёткую логику](https://habr.com/ru/post/713620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713620)
-- [Helm Canary: как Сбер канареечные релизы реализовывал](https://habr.com/ru/post/713686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
