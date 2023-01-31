@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Три способа общения через WatchConnectivity](https://habr.com/ru/post/713354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713354)
+- [Как Chat GPT повлияет на текущую систему образования?](https://habr.com/ru/post/714002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714002)
 - [Выходя за рамки JUnit. Создаем сложные расширения](https://habr.com/ru/post/713908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713908)
 - [Делаем тонкий клиент и игровую консоль за 100 рублей &lpar;1.5$&rpar;. Как Sony Ericsson Xperia Arc проявляет себя в 2023?](https://habr.com/ru/post/712872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712872)
 - [ИТМО глазами постдока из Китая](https://habr.com/ru/post/713976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713976)
-- [Вознаграждения в Bug Bounty VK, или Как мы работаем с деньгами](https://habr.com/ru/post/713870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713870)
-- [Как не навредить себе и коллегам, когда проводишь изменения в компании](https://habr.com/ru/post/713896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
