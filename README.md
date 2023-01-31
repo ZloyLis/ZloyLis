@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Подборка материалов для погружения в Angular: выбор сотрудников Selectel](https://habr.com/ru/post/713876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713876)
-- [Мониторинг аномальной активности в операционной системе «Нейтрино»](https://habr.com/ru/post/713690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713690)
-- [Дистанционно-управляемый XY-манипулятор на базе кинематики H-bot](https://habr.com/ru/post/713492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713492)
-- [[Перевод] Понять TypeScript c помощью теории множеств](https://habr.com/ru/post/713800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713800)
-- [[Перевод] Оптимизация тестов для Continuous Integration](https://habr.com/ru/post/713784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713784)
+- [Архитектура PostgreSQL. Часть 3. Инициализация бэкэнда](https://habr.com/ru/post/709404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709404)
+- [Повышаем живучесть Raft в реальных условиях](https://habr.com/ru/post/713634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713634)
+- [[Перевод] Тестирование аутентификации в веб-приложениях](https://habr.com/ru/post/713906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713906)
+- [Сквозное тестирование DApp в связке с расширением Metamask](https://habr.com/ru/post/708622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708622)
+- [Сменить профессию и не сойти с ума: интервью со студентом школы Metaclass](https://habr.com/ru/post/713886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
