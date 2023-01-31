@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка материалов для погружения в Angular: выбор сотрудников Selectel](https://habr.com/ru/post/713876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713876)
+- [Мониторинг аномальной активности в операционной системе «Нейтрино»](https://habr.com/ru/post/713690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713690)
 - [Дистанционно-управляемый XY-манипулятор на базе кинематики H-bot](https://habr.com/ru/post/713492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713492)
 - [[Перевод] Понять TypeScript c помощью теории множеств](https://habr.com/ru/post/713800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713800)
 - [[Перевод] Оптимизация тестов для Continuous Integration](https://habr.com/ru/post/713784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713784)
-- [JavaScript: заметка об операторе конвейера](https://habr.com/ru/post/713768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713768)
-- [Как багхантеры ищут уязвимости: лайфхаки и неочевидные нюансы](https://habr.com/ru/post/713764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
