@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дистанционно-управляемый XY-манипулятор на базе кинематики H-bot](https://habr.com/ru/post/713492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713492)
 - [[Перевод] Понять TypeScript c помощью теории множеств](https://habr.com/ru/post/713800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713800)
 - [[Перевод] Оптимизация тестов для Continuous Integration](https://habr.com/ru/post/713784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713784)
 - [JavaScript: заметка об операторе конвейера](https://habr.com/ru/post/713768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713768)
 - [Как багхантеры ищут уязвимости: лайфхаки и неочевидные нюансы](https://habr.com/ru/post/713764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713764)
-- [[Перевод] 12 методик, которые помогут создавать приложения на Flutter легко и просто](https://habr.com/ru/post/713702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
