@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Встраиваем распознавание документов от Smart Engines куда угодно за пять минут](https://habr.com/ru/post/711822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711822)
-- [Простой пример написания Dockerfile. Использование многоэтапной сборки](https://habr.com/ru/post/713942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713942)
-- [Теория вероятностей в машинном обучении. Часть 1: модель регрессии](https://habr.com/ru/post/713920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713920)
-- [Архитектура PostgreSQL. Часть 3. Инициализация бэкэнда](https://habr.com/ru/post/709404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709404)
-- [Повышаем живучесть Raft в реальных условиях](https://habr.com/ru/post/713634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713634)
+- [Вознаграждения в Bug Bounty VK, или Как мы работаем с деньгами](https://habr.com/ru/post/713870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713870)
+- [Как не навредить себе и коллегам, когда проводишь изменения в компании](https://habr.com/ru/post/713896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713896)
+- [Книга «Computer Science для программиста-самоучки. Все что нужно знать о структурах данных и алгоритмах»](https://habr.com/ru/post/711786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711786)
+- [Как жить QA в условиях проблемной документации](https://habr.com/ru/post/713962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713962)
+- [[recovery mode] На старт, внимание, патч! Как реализовать онлайн-документацию для накопительных изменений](https://habr.com/ru/post/713960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
