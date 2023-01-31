@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Встраиваем распознавание документов от Smart Engines куда угодно за пять минут](https://habr.com/ru/post/711822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711822)
+- [Простой пример написания Dockerfile. Использование многоэтапной сборки](https://habr.com/ru/post/713942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713942)
+- [Теория вероятностей в машинном обучении. Часть 1: модель регрессии](https://habr.com/ru/post/713920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713920)
 - [Архитектура PostgreSQL. Часть 3. Инициализация бэкэнда](https://habr.com/ru/post/709404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=709404)
 - [Повышаем живучесть Raft в реальных условиях](https://habr.com/ru/post/713634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713634)
-- [[Перевод] Тестирование аутентификации в веб-приложениях](https://habr.com/ru/post/713906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713906)
-- [Сквозное тестирование DApp в связке с расширением Metamask](https://habr.com/ru/post/708622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708622)
-- [Сменить профессию и не сойти с ума: интервью со студентом школы Metaclass](https://habr.com/ru/post/713886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
