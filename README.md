@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бинарники из Python-файлов: Nuitka-компилятор, обзор и небольшое исследование](https://habr.com/ru/post/710690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710690)
 - [Краткая история NLP — Natural Language Processing](https://habr.com/ru/post/713804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713804)
 - [Ультра-маленькие демки под DOS](https://habr.com/ru/post/713550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713550)
 - [Концепция ORM как двигатель прогресса – выявит слабое место Вашей СУБД](https://habr.com/ru/post/713724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713724)
 - [Apple Pro Weekly News &lpar;23.01 – 29.01.23&rpar;](https://habr.com/ru/post/713782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713782)
-- [[Перевод] Rust 1.67.0: #[must_use] для Future, смена реализации mpsc](https://habr.com/ru/post/713740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
