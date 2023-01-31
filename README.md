@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выходя за рамки JUnit. Создаем сложные расширения](https://habr.com/ru/post/713908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713908)
+- [Делаем тонкий клиент и игровую консоль за 100 рублей &lpar;1.5$&rpar;. Как Sony Ericsson Xperia Arc проявляет себя в 2023?](https://habr.com/ru/post/712872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712872)
+- [ИТМО глазами постдока из Китая](https://habr.com/ru/post/713976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713976)
 - [Вознаграждения в Bug Bounty VK, или Как мы работаем с деньгами](https://habr.com/ru/post/713870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713870)
 - [Как не навредить себе и коллегам, когда проводишь изменения в компании](https://habr.com/ru/post/713896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713896)
-- [Книга «Computer Science для программиста-самоучки. Все что нужно знать о структурах данных и алгоритмах»](https://habr.com/ru/post/711786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711786)
-- [Как жить QA в условиях проблемной документации](https://habr.com/ru/post/713962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713962)
-- [[recovery mode] На старт, внимание, патч! Как реализовать онлайн-документацию для накопительных изменений](https://habr.com/ru/post/713960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
