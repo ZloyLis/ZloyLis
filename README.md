@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Kotlin/Golang работа в двух языках](https://habr.com/ru/post/714050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714050)
 - [Что делать, если в начале спринта у тестировщика нет задач?](https://habr.com/ru/post/714034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714034)
 - [Разбираем шаблоны проектирования](https://habr.com/ru/post/713728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713728)
 - [[Перевод] Три способа общения через WatchConnectivity](https://habr.com/ru/post/713354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713354)
 - [Как Chat GPT повлияет на текущую систему образования?](https://habr.com/ru/post/714002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714002)
-- [Выходя за рамки JUnit. Создаем сложные расширения](https://habr.com/ru/post/713908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
