@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Почему запись от руки остаётся лучшим способом запоминания информации](https://habr.com/ru/post/705014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705014)
-- [Собираем логи веб-приложений в Kibana или Loki](https://habr.com/ru/post/710874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710874)
-- [Как устроена бесшовная авторизация в онлайн-кинотеатре](https://habr.com/ru/post/713754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713754)
-- [[Перевод] Разработка iOS Framework в унисон с помощью Swift и Objective-C](https://habr.com/ru/post/713352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713352)
-- [Бинарники из Python-файлов: Nuitka-компилятор, обзор и небольшое исследование](https://habr.com/ru/post/710690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710690)
+- [[Перевод] Понять TypeScript c помощью теории множеств](https://habr.com/ru/post/713800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713800)
+- [[Перевод] Оптимизация тестов для Continuous Integration](https://habr.com/ru/post/713784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713784)
+- [JavaScript: заметка об операторе конвейера](https://habr.com/ru/post/713768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713768)
+- [Как багхантеры ищут уязвимости: лайфхаки и неочевидные нюансы](https://habr.com/ru/post/713764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713764)
+- [[Перевод] 12 методик, которые помогут создавать приложения на Flutter легко и просто](https://habr.com/ru/post/713702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
