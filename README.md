@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему запись от руки остаётся лучшим способом запоминания информации](https://habr.com/ru/post/705014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705014)
+- [Собираем логи веб-приложений в Kibana или Loki](https://habr.com/ru/post/710874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710874)
 - [Как устроена бесшовная авторизация в онлайн-кинотеатре](https://habr.com/ru/post/713754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713754)
 - [[Перевод] Разработка iOS Framework в унисон с помощью Swift и Objective-C](https://habr.com/ru/post/713352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713352)
 - [Бинарники из Python-файлов: Nuitka-компилятор, обзор и небольшое исследование](https://habr.com/ru/post/710690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710690)
-- [Краткая история NLP — Natural Language Processing](https://habr.com/ru/post/713804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713804)
-- [Ультра-маленькие демки под DOS](https://habr.com/ru/post/713550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
