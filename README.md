@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Всплывающие подсказки &lpar;tooltips&rpar;, для самых маленьких, в React приложениях](https://habr.com/ru/post/714270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714270)
+- [Интеграция Primefaces в приложение на Spring Boot. Часть 4 — Вывод списка данных в виде таблицы](https://habr.com/ru/post/713770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713770)
 - [[Перевод] Kubeflow: учимся устанавливать и запускать Kubeflow на локальной машине](https://habr.com/ru/post/714172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714172)
+- [«Хабр, не закрывайте старый редактор!» Как мы хакнули систему, ускорив верстку статей в несколько раз](https://habr.com/ru/post/714202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714202)
 - [[Перевод] NSPredicate: старый API с новыми сюрпризами](https://habr.com/ru/post/713250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713250)
-- [Как я написал самую эффективную библиотеку для реактивного состояния](https://habr.com/ru/post/713808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713808)
-- [Оценка стоимости разработки программного продукта, информационной системы, сервиса или задачи](https://habr.com/ru/post/713998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713998)
-- [Сопоставление «The Business Analysis Standard» IIBA с профстандартом бизнес-аналитика РФ](https://habr.com/ru/post/714184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
