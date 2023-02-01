@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зеркалирование GitHub-проектов в 2023 году](https://habr.com/ru/post/714316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714316)
 - [[Перевод] Логистическая регрессия: подробный обзор](https://habr.com/ru/post/714244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714244)
 - [Мнение: Почему ChatGPT не заменит поисковики](https://habr.com/ru/post/714284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714284)
 - [[recovery mode] React, всплывающие подсказки &lpar;tooltips&rpar;, для самых маленьких](https://habr.com/ru/post/714270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714270)
 - [О важности поиска своих людей/идей и всего-всего](https://habr.com/ru/post/714268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714268)
-- [Интеграция Primefaces в приложение на Spring Boot. Часть 4 — Вывод списка данных в виде таблицы](https://habr.com/ru/post/713770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
