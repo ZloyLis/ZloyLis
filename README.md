@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Kubeflow: учимся устанавливать и запускать Kubeflow на локальной машине](https://habr.com/ru/post/714172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714172)
 - [[Перевод] NSPredicate: старый API с новыми сюрпризами](https://habr.com/ru/post/713250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713250)
 - [Как я написал самую эффективную библиотеку для реактивного состояния](https://habr.com/ru/post/713808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713808)
 - [Оценка стоимости разработки программного продукта, информационной системы, сервиса или задачи](https://habr.com/ru/post/713998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713998)
 - [Сопоставление «The Business Analysis Standard» IIBA с профстандартом бизнес-аналитика РФ](https://habr.com/ru/post/714184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714184)
-- [«Извините, но вам придется закодировать Щелкунчика»](https://habr.com/ru/post/714036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
