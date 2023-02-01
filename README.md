@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Маруся отвечает на вопросы пользователей обо всём на свете](https://habr.com/ru/post/713124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713124)
+- [Как определить размер выборки для бутстрэпа старым дедовским способом](https://habr.com/ru/post/707816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707816)
+- [[Перевод] Как ускорить работу PostgreSQL](https://habr.com/ru/post/714096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714096)
 - [Чтение/запись текста в Telegram канал из Android приложения](https://habr.com/ru/post/713748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713748)
 - [Принципы SOLID на JS, теперь точно простым языком, но не очень коротко](https://habr.com/ru/post/714068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714068)
-- [[Перевод] Bittorrent с нуля на Go](https://habr.com/ru/post/714044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714044)
-- [[recovery mode] Kotlin/Golang работа в двух языках](https://habr.com/ru/post/714050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714050)
-- [Что делать, если в начале спринта у тестировщика нет задач?](https://habr.com/ru/post/714034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
