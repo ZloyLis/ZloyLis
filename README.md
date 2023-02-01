@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Извините, но вам придется закодировать Щелкунчика»](https://habr.com/ru/post/714036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714036)
+- [Как стать программистом с нуля?](https://habr.com/ru/post/714158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714158)
 - [SOAR в Kubernetes малой кровью](https://habr.com/ru/post/712660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712660)
 - [Что выбрать для очередного API: HTTP или gRPC](https://habr.com/ru/post/713184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713184)
 - [Как Маруся отвечает на вопросы пользователей обо всём на свете](https://habr.com/ru/post/713124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713124)
-- [Как определить размер выборки для бутстрэпа старым дедовским способом](https://habr.com/ru/post/707816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707816)
-- [[Перевод] Как ускорить работу PostgreSQL](https://habr.com/ru/post/714096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
