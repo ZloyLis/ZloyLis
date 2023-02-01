@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сопоставление «The Business Analysis Standard» IIBA с профстандартом бизнес-аналитика РФ](https://habr.com/ru/post/714184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714184)
 - [«Извините, но вам придется закодировать Щелкунчика»](https://habr.com/ru/post/714036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714036)
 - [Как стать программистом с нуля?](https://habr.com/ru/post/714158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714158)
 - [SOAR в Kubernetes малой кровью](https://habr.com/ru/post/712660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712660)
 - [Что выбрать для очередного API: HTTP или gRPC](https://habr.com/ru/post/713184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713184)
-- [Как Маруся отвечает на вопросы пользователей обо всём на свете](https://habr.com/ru/post/713124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
