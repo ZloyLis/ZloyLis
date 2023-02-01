@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ЧТЕНИЕ/ЗАПИСЬ ТЕКСТА В TELEGRAM КАНАЛ ИЗ ANDROID ПРИЛОЖЕНИЯ](https://habr.com/ru/post/713748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713748)
 - [Принципы SOLID на JS, теперь точно простым языком, но не очень коротко](https://habr.com/ru/post/714068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714068)
 - [[Перевод] Bittorrent с нуля на Go](https://habr.com/ru/post/714044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714044)
 - [[recovery mode] Kotlin/Golang работа в двух языках](https://habr.com/ru/post/714050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714050)
 - [Что делать, если в начале спринта у тестировщика нет задач?](https://habr.com/ru/post/714034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714034)
-- [Разбираем шаблоны проектирования](https://habr.com/ru/post/713728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
