@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Революционный метод сжатия изображений](https://habr.com/ru/post/713590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713590)
+- [[Перевод] Соотношение сторон и масштабирование изображений в Image компоненте](https://habr.com/ru/post/714438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714438)
+- [Как настроить Gitlab CI/CD для Android и Firebase App Distribution для доставки сборок](https://habr.com/ru/post/712490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712490)
 - [Собирайте свои достижения](https://habr.com/ru/post/714426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714426)
 - [Интеграция Primefaces в приложение на Spring Boot. Часть 5 — Вывод данных для просмотра и редактирования](https://habr.com/ru/post/713844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713844)
-- [Робкие попытки приставить к делу старый ноутбук](https://habr.com/ru/post/712310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712310)
-- [MIDV-2020: как мы создали крупнейший датасет  документов, удостоверяющих личность](https://habr.com/ru/post/714250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714250)
-- [HabraTab — девайс для хаброзависимых](https://habr.com/ru/post/712114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
