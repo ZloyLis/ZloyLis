@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Pulse 3: что ты такое?](https://habr.com/ru/post/713360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713360)
+- [Как мы проблемы UI в виджетах решали](https://habr.com/ru/post/713994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713994)
+- [Типовое использование RabbitMQ](https://habr.com/ru/post/714358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714358)
+- [Интерпретируемость в медицине](https://habr.com/ru/post/714354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714354)
 - [Как поместить весь мир в обычный ноутбук: PostgreSQL и OpenStreetMap](https://habr.com/ru/post/714326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714326)
-- [Поздравить пользователя 00 февраля с минус семитысячелетием или Заблуждения о паспортах в базе](https://habr.com/ru/post/714092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714092)
-- [Зеркалирование GitHub-проектов в 2023 году](https://habr.com/ru/post/714316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714316)
-- [[Перевод] Логистическая регрессия: подробный обзор](https://habr.com/ru/post/714244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714244)
-- [Мнение: Почему ChatGPT не заменит поисковики](https://habr.com/ru/post/714284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
