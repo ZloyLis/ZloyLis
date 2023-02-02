@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Привет Unicode! Или как компьютеры работают с символами](https://habr.com/ru/post/714540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714540)
 - [[Перевод] Представление, кластеризация и подобие в примерах, иллюстрациях и таблицах](https://habr.com/ru/post/714304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714304)
 - [Китайцы могут, когда хотят! Можно ли пользоваться подделкой BlackBerry Bold 9000 в 2023?](https://habr.com/ru/post/714526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714526)
 - [[Перевод] Топ рекомендаций по Core Web Vitals на 2023 год](https://habr.com/ru/post/714280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714280)
 - [Революционный метод сжатия изображений](https://habr.com/ru/post/713590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713590)
-- [[Перевод] Соотношение сторон и масштабирование изображений в Image компоненте](https://habr.com/ru/post/714438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
