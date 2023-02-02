@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HabraTab — девайс для хаброзависимых](https://habr.com/ru/post/712114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712114)
 - [Сложности обеспечения ИБ в финансовых организациях](https://habr.com/ru/post/714362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714362)
 - [[Перевод] Pulse 3: что ты такое?](https://habr.com/ru/post/713360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713360)
 - [Как мы проблемы UI в виджетах решали](https://habr.com/ru/post/713994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713994)
 - [Типовое использование RabbitMQ](https://habr.com/ru/post/714358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714358)
-- [Интерпретируемость в медицине](https://habr.com/ru/post/714354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
