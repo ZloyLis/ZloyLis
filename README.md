@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Топ рекомендаций по Core Web Vitals на 2023 год](https://habr.com/ru/post/714280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714280)
 - [Революционный метод сжатия изображений](https://habr.com/ru/post/713590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713590)
 - [[Перевод] Соотношение сторон и масштабирование изображений в Image компоненте](https://habr.com/ru/post/714438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714438)
 - [Как настроить Gitlab CI/CD для Android и Firebase App Distribution для доставки сборок](https://habr.com/ru/post/712490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712490)
 - [Собирайте свои достижения](https://habr.com/ru/post/714426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714426)
-- [Интеграция Primefaces в приложение на Spring Boot. Часть 5 — Вывод данных для просмотра и редактирования](https://habr.com/ru/post/713844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
