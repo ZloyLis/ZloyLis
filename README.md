@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MIDV-2020: как мы создали крупнейший датасет  документов, удостоверяющих личность](https://habr.com/ru/post/714250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714250)
 - [HabraTab — девайс для хаброзависимых](https://habr.com/ru/post/712114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712114)
+- [Обзор плагина PVS-Studio для Visual Studio Code](https://habr.com/ru/post/714392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714392)
 - [Сложности обеспечения ИБ в финансовых организациях](https://habr.com/ru/post/714362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714362)
 - [[Перевод] Pulse 3: что ты такое?](https://habr.com/ru/post/713360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713360)
-- [Как мы проблемы UI в виджетах решали](https://habr.com/ru/post/713994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713994)
-- [Типовое использование RabbitMQ](https://habr.com/ru/post/714358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
