@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GlusterFS, NFS — заметки о скорости и крохотном хранилище](https://habr.com/ru/post/714208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714208)
 - [[Перевод] [Перевод] FSI: метод калибровки FTM с использованием информации о физическом уровне Wi-Fi](https://habr.com/ru/post/714340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714340)
 - [Привет Unicode! Или как компьютеры работают с символами](https://habr.com/ru/post/714540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714540)
 - [[Перевод] Представление, кластеризация и подобие в примерах, иллюстрациях и таблицах](https://habr.com/ru/post/714304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714304)
 - [Китайцы могут, когда хотят! Можно ли пользоваться подделкой BlackBerry Bold 9000 в 2023?](https://habr.com/ru/post/714526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714526)
-- [[Перевод] Топ рекомендаций по Core Web Vitals на 2023 год](https://habr.com/ru/post/714280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
