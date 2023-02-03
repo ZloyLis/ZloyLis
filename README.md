@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с контейнерами в Minikube](https://habr.com/ru/post/714612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714612)
+- [[Перевод] Не создавайте отдельные пути для sign-in](https://habr.com/ru/post/713058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713058)
+- [Теория вероятностей в машинном обучении. Часть 2: модель классификации](https://habr.com/ru/post/714670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714670)
 - [Математическая продлёнка. Квадратные уравнения во всей красе](https://habr.com/ru/post/714660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714660)
 - [[Перевод] Advanced Data Protection для iCloud. Какое значение это имеет для Tact и других приложений, использующих CloudKit](https://habr.com/ru/post/713350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713350)
-- [Сортировка слиянием — не так просто, как кажется](https://habr.com/ru/post/714524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714524)
-- [Интеграция с платежными системами, PCI DSS на примере Stripe и Flutter](https://habr.com/ru/post/714594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714594)
-- [Микровселенная безумия, или Как устроены микрофронтенды в Dodo](https://habr.com/ru/post/712320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
