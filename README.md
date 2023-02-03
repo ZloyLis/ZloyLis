@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как на практике работать над перфомансом веб-приложения: опыт Авто.ру](https://habr.com/ru/post/714656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714656)
 - [Пчела на работе, разработка игр на SFML C++](https://habr.com/ru/post/714764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714764)
 - [[recovery mode] Kubernetes в Docker &lpar;KinD&rpar;: балансировка нагрузки Kubernetes в Docker](https://habr.com/ru/post/714748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714748)
 - [Приглашаем на Ozon Tech Community Mobile Meetup](https://habr.com/ru/post/714716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714716)
 - [Проблема N+1 и как её решить с помощью EntityGraph](https://habr.com/ru/post/714704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714704)
-- [Наши любимые приложения-помощники в тестировании back-end](https://habr.com/ru/post/714700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
