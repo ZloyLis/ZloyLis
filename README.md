@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема N+1 и как её решить с помощью EntityGraph](https://habr.com/ru/post/714704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714704)
+- [Наши любимые приложения-помощники в тестировании back-end](https://habr.com/ru/post/714700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714700)
 - [Работа с контейнерами в Minikube](https://habr.com/ru/post/714612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714612)
 - [[Перевод] Не создавайте отдельные пути для sign-in](https://habr.com/ru/post/713058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713058)
 - [Теория вероятностей в машинном обучении. Часть 2: модель классификации](https://habr.com/ru/post/714670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714670)
-- [Математическая продлёнка. Квадратные уравнения во всей красе](https://habr.com/ru/post/714660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714660)
-- [[Перевод] Advanced Data Protection для iCloud. Какое значение это имеет для Tact и других приложений, использующих CloudKit](https://habr.com/ru/post/713350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
