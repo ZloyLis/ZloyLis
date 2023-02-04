@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заблуждения программистов о тексте](https://habr.com/ru/post/714818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714818)
+- [[Перевод] 5 лайфхаков Python, которые сделают ваш код более читабельным и элегантным](https://habr.com/ru/post/714820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714820)
 - [Git scraping: методика бесплатного хостинга не совсем статических сайтов](https://habr.com/ru/post/714538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714538)
 - [Как на практике работать над перфомансом веб-приложения: опыт Авто.ру](https://habr.com/ru/post/714656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714656)
 - [Пчела на работе, разработка игр на SFML C++](https://habr.com/ru/post/714764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714764)
-- [[recovery mode] Kubernetes в Docker &lpar;KinD&rpar;: балансировка нагрузки Kubernetes в Docker](https://habr.com/ru/post/714748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714748)
-- [Приглашаем на Ozon Tech Community Mobile Meetup](https://habr.com/ru/post/714716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
