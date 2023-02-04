@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Визуальный язык ДРАКОН: математические истоки алгоритмической макроконструкции «силуэт» и метод Ашкрофта-Манны](https://habr.com/ru/post/713574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713574)
+- [Создаем свой собственный язык программирования с использованием LLVM. Часть 2: Семантический анализ](https://habr.com/ru/post/714838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714838)
 - [Диспетчеризация методов в Swift](https://habr.com/ru/post/714830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714830)
 - [Заблуждения программистов о тексте](https://habr.com/ru/post/714818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714818)
 - [[Перевод] 5 лайфхаков Python, которые сделают ваш код более читабельным и элегантным](https://habr.com/ru/post/714820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714820)
-- [Git scraping: методика бесплатного хостинга не совсем статических сайтов](https://habr.com/ru/post/714538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714538)
-- [Как на практике работать над перфомансом веб-приложения: опыт Авто.ру](https://habr.com/ru/post/714656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
