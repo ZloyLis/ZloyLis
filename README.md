@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что самое трудное в разработке программного обеспечения?](https://habr.com/ru/post/714992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714992)
+- [[Перевод] Как я написала веб-плеер с искусственным интеллектом](https://habr.com/ru/post/714966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714966)
 - [[Перевод] Концепции Rust, которые неплохо бы знать пораньше](https://habr.com/ru/post/714980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714980)
 - [Изучение физического движка Bullet Physics. Часть 2. Примеры](https://habr.com/ru/post/714974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714974)
 - [Nanc — backend-agnostic CMS с Flutterлюшками](https://habr.com/ru/post/714076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714076)
-- [Засылаем картинку из Unreal Engine на сервер в теле HTTP запроса](https://habr.com/ru/post/714948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714948)
-- [Как установить 2GIS на iPhone в 2023 без танцев с бубном &lpar;почти&rpar;?](https://habr.com/ru/post/714932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
