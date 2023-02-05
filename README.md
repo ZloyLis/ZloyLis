@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Доменные имена с валидным SSL для локальных Docker-контейнеров](https://habr.com/ru/post/714916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714916)
 - [[Перевод] Общие шаблоны и нюансы использования React Query](https://habr.com/ru/post/714920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714920)
 - [[Перевод] Зачем идти в full-stack в 2023-м году?](https://habr.com/ru/post/714788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714788)
 - [О планировании. Сон. Воля. Самодисциплина. Принципы](https://habr.com/ru/post/714914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714914)
 - [Мобильная разработка за неделю #474 &lpar;30 января — 5 февраля&rpar;](https://habr.com/ru/post/714902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714902)
-- [[Перевод] REcollapse: фаззинг с использованием unicode-нормализации](https://habr.com/ru/post/714794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
