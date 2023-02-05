@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Предсказательная вычислительная гидродинамика](https://habr.com/ru/post/714886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714886)
 - [Топ 3 странности андроида с которыми мне приходилось сталкиваться](https://habr.com/ru/post/714850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714850)
 - [Визуальный язык ДРАКОН: математические истоки алгоритмической макроконструкции «силуэт» и метод Ашкрофта-Манны](https://habr.com/ru/post/713574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713574)
 - [Создаем свой собственный язык программирования с использованием LLVM. Часть 2: Семантический анализ](https://habr.com/ru/post/714838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714838)
 - [Диспетчеризация методов в Swift](https://habr.com/ru/post/714830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714830)
-- [Заблуждения программистов о тексте](https://habr.com/ru/post/714818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
