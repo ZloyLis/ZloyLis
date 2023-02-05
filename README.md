@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучение физического движка Bullet Physics. Часть 2. Примеры](https://habr.com/ru/post/714974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714974)
 - [Nanc — backend-agnostic CMS с Flutterлюшками](https://habr.com/ru/post/714076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714076)
 - [Засылаем картинку из Unreal Engine на сервер в теле HTTP запроса](https://habr.com/ru/post/714948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714948)
 - [Как установить 2GIS на iPhone в 2023 без танцев с бубном &lpar;почти&rpar;?](https://habr.com/ru/post/714932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714932)
 - [Доменные имена с валидным SSL для локальных Docker-контейнеров](https://habr.com/ru/post/714916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714916)
-- [[Перевод] Общие шаблоны и нюансы использования React Query](https://habr.com/ru/post/714920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
