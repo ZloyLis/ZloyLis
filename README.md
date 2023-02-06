@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как программы общаются между собой](https://habr.com/ru/post/715008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715008)
+- [[Перевод] Прокачивайте математику – вот как это поможет при программировании](https://habr.com/ru/post/715106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715106)
+- [Работа с микросервисами через API-gateway](https://habr.com/ru/post/705752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705752)
 - [[Перевод] Swift-код в качестве пользовательских команд LLDB](https://habr.com/ru/post/715128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715128)
 - [[Перевод] Полное руководство по модулю asyncio в Python. Часть 8](https://habr.com/ru/post/715126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715126)
-- [Величайшие программисты XXI века. Юрки Алакуйяла — гений сжатия](https://habr.com/ru/post/713648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713648)
-- [Яблочко, которое гордо представил лично Стив Джобс! Смотрим на iPhone 2G в 2023](https://habr.com/ru/post/715074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715074)
-- [Как мы повысили честность Авито Аукциона с помощью базовой визуализации](https://habr.com/ru/post/714380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
