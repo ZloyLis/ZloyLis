@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удаленный доступ к IP камерам. Часть 3. HEVC и web](https://habr.com/ru/post/715016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715016)
 - [Выявляем волков в овечьей шкуре среди пользователей сайта](https://habr.com/ru/post/715006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715006)
 - [[Перевод] Что самое трудное в разработке программного обеспечения?](https://habr.com/ru/post/714992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714992)
 - [[Перевод] Как я написала веб-плеер с искусственным интеллектом](https://habr.com/ru/post/714966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714966)
 - [[Перевод] Концепции Rust, которые неплохо бы знать пораньше](https://habr.com/ru/post/714980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714980)
-- [Изучение физического движка Bullet Physics. Часть 2. Примеры](https://habr.com/ru/post/714974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
