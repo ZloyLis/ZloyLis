@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование шейдеров во Flutter. Часть 2](https://habr.com/ru/post/714956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714956)
 - [Security Week 2306: критическая уязвимость в устройствах QNAP](https://habr.com/ru/post/715194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715194)
 - [[Перевод] Как программы общаются между собой](https://habr.com/ru/post/715008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715008)
 - [[Перевод] Прокачивайте математику – вот как это поможет при программировании](https://habr.com/ru/post/715106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715106)
 - [Работа с микросервисами через API-gateway](https://habr.com/ru/post/705752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705752)
-- [[Перевод] Swift-код в качестве пользовательских команд LLDB](https://habr.com/ru/post/715128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
