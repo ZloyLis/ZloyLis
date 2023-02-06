@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление архитектурой как кодом &lpar;январские тезисы&rpar;](https://habr.com/ru/post/715054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715054)
+- [Гайд по созданию Big Data-проектов в облаке: технологический стек, этапы и подводные камни](https://habr.com/ru/post/714124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714124)
+- [[Перевод] Получение доступа к командной строке из XCTest](https://habr.com/ru/post/714784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714784)
+- [[Перевод] В чем разница между unit и компонентным тестированием](https://habr.com/ru/post/714962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714962)
 - [Простейшая нейросеть: еще раз и подробнее](https://habr.com/ru/post/714988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714988)
-- [Какой язык программирования выбрать? Часть 1. Rust](https://habr.com/ru/post/714742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714742)
-- [Организация автоматического запуска автотестов с использованием Downstream pipelines в GitLab CI](https://habr.com/ru/post/715028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715028)
-- [Удаленный доступ к IP камерам. Часть 3. HEVC и web](https://habr.com/ru/post/715016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715016)
-- [Выявляем волков в овечьей шкуре среди пользователей сайта](https://habr.com/ru/post/715006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
