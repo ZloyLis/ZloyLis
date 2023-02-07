@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В какой сказке встречаются Баба Яга и Колобок или сказ о том как мы таск-трекер писали](https://habr.com/ru/post/685984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685984)
+- [[Перевод] Создание пользовательских слоев в SwiftUI. LayoutValueKey](https://habr.com/ru/post/714778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714778)
+- [[Перевод] Что может быть проще &lpar;сложнее&rpar;, чем упорядочивание чисел?](https://habr.com/ru/post/715080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715080)
 - [Чит-лист функционального тестирования, памятка тестировщику](https://habr.com/ru/post/715262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715262)
 - [Как использовать TestRail для регресса?](https://habr.com/ru/post/715264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715264)
-- [Apple Pro Weekly News &lpar;30.01 – 05.02.23&rpar;](https://habr.com/ru/post/715254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715254)
-- [Использование шейдеров во Flutter. Часть 2](https://habr.com/ru/post/714956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714956)
-- [Security Week 2306: критическая уязвимость в устройствах QNAP](https://habr.com/ru/post/715194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
