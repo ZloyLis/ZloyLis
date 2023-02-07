@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как оптимизировать Latency в Cloud Gaming](https://habr.com/ru/post/713660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713660)
 - [Как Тарас стал Senior+ из-за CS 1.6 и дедушки с ТЭЦ](https://habr.com/ru/post/713640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713640)
 - [Как стать веб-дизайнером](https://habr.com/ru/post/713708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713708)
 - [Собираем логи веб-приложений в Kibana/Loki](https://habr.com/ru/post/715212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715212)
 - [В какой сказке встречаются Баба Яга и Колобок или сказ о том как мы таск-трекер писали](https://habr.com/ru/post/685984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=685984)
-- [[Перевод] Создание пользовательских слоев в SwiftUI. LayoutValueKey](https://habr.com/ru/post/714778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
