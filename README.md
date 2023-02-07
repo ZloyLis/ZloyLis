@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Зачем нужен контейнер pause в Kubernetes](https://habr.com/ru/post/715402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715402)
+- [Книга «Непрерывное развитие API. Правильные решения в изменчивом технологическом ландшафте, 2-е изд.»](https://habr.com/ru/post/715438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715438)
 - [Тонкости C++: итак, вы объявили класс…](https://habr.com/ru/post/715436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715436)
 - [[Перевод] Как ускорить Swift с помощью Conformances](https://habr.com/ru/post/714758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714758)
 - [Приглашаем на онлайновый митап про базу знаний «здорового техписа»](https://habr.com/ru/post/715414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715414)
-- [Тестирование Rails приложения с Turbo Frames](https://habr.com/ru/post/715410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715410)
-- [Арт-терапия и вялотекущая миграция с монолита](https://habr.com/ru/post/715300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
