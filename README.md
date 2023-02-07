@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на онлайновый митап про базу знаний «здорового техписа»](https://habr.com/ru/post/715414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715414)
+- [Тестирование Rails приложения с Turbo Frames](https://habr.com/ru/post/715410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715410)
+- [Арт-терапия и вялотекущая миграция с монолита](https://habr.com/ru/post/715300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715300)
+- [Масштабирование SSR-приложений](https://habr.com/ru/post/715404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715404)
 - [Собственный и полезный Spring Boot Banner](https://habr.com/ru/post/715388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715388)
-- [Меры центральности в Network Science](https://habr.com/ru/post/715386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715386)
-- [Пишем простой Telegram bot на java, который показывает официальный курс по отношению к иностранным валютам](https://habr.com/ru/post/715384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715384)
-- [Как оптимизировать Latency в Cloud Gaming](https://habr.com/ru/post/713660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713660)
-- [Как Тарас стал Senior+ из-за CS 1.6 и дедушки с ТЭЦ](https://habr.com/ru/post/713640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
