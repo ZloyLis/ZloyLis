@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Биоинформатика — это не набор инструкций](https://habr.com/ru/post/713344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713344)
+- [[Перевод] Знакомимся с совместимостью Swift и C++](https://habr.com/ru/post/714756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714756)
 - [Приглашаем на Ozon Tech Community Design Meetup. Дизайн продукта: путь до прода](https://habr.com/ru/post/715144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715144)
 - [Разработка клиент-серверного приложения с помощью Next.js и TypeScript. Часть 2. Разработка клиента](https://habr.com/ru/post/715510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715510)
-- [Чеки от Google в моем почтовом ящике, или как меня изменил собственный сын](https://habr.com/ru/post/715652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715652)
 - [Книга «Head First. Изучаем Swift»](https://habr.com/ru/post/714718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714718)
+- [Как устроена аутентификация в Micronaut: гайд по настройке](https://habr.com/ru/post/715634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
