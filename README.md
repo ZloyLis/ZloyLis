@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пять примечательных функций Postman, которые используем в тестировании банковских систем](https://habr.com/ru/post/715304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715304)
+- [Книга «Head First. Изучаем Swift»](https://habr.com/ru/post/714718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714718)
+- [Как устроена аутентификация в Micronaut: гайд по настройке](https://habr.com/ru/post/715634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715634)
+- [Пять примечательных функций Postman, которые мы используем в тестировании банковских систем](https://habr.com/ru/post/715304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715304)
 - [[Перевод] C++17 — std::string_view и никакого копирования](https://habr.com/ru/post/715608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715608)
 - [MLOps в облаке: как организовать работу над ML-экспериментами с помощью MLflow](https://habr.com/ru/post/712900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712900)
-- [Как адаптировать Android-приложение под Huawei](https://habr.com/ru/post/715206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715206)
-- [Сам себя не потренируешь — никто не потренирует](https://habr.com/ru/post/715586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
