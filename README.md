@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ 5 недостатков Excel в управлении запасами](https://habr.com/ru/post/715720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715720)
 - [«Разделяй и властвуй» для OpenStreetMap мира в PostgreSQL](https://habr.com/ru/post/715622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715622)
 - [Интеграция Primefaces в приложение на Spring Boot. Часть 7 — Компоненты для сохранения и редактирования данных](https://habr.com/ru/post/715516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715516)
 - [[Перевод] Знакомимся с совместимостью Swift и C++](https://habr.com/ru/post/714756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714756)
 - [Новая фича в Dart — Records &lpar;записи&rpar;](https://habr.com/ru/post/715680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715680)
-- [Интервью с практикующим биоинформатиком](https://habr.com/ru/post/713344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
