@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция Primefaces в приложение на Spring Boot. Часть 7 — Компоненты для сохранения и редактирования данных](https://habr.com/ru/post/715516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715516)
 - [[Перевод] Знакомимся с совместимостью Swift и C++](https://habr.com/ru/post/714756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714756)
+- [Новая фича в Dart — Records &lpar;записи&rpar;](https://habr.com/ru/post/715680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715680)
 - [Приглашаем на Ozon Tech Community Design Meetup. Дизайн продукта: путь до прода](https://habr.com/ru/post/715144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715144)
 - [Разработка клиент-серверного приложения с помощью Next.js и TypeScript. Часть 2. Разработка клиента](https://habr.com/ru/post/715510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715510)
-- [Книга «Head First. Изучаем Swift»](https://habr.com/ru/post/714718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714718)
-- [Как устроена аутентификация в Micronaut: гайд по настройке](https://habr.com/ru/post/715634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
