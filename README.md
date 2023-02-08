@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сам себя не потренируешь — никто не потренирует](https://habr.com/ru/post/715586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715586)
 - [Теперь мой «iPhone» заряжается от нокиевской зарядки! Смотрим, на что способна подделка iPhone 6 на Android в 2023 году](https://habr.com/ru/post/714212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714212)
 - [Практический кейс: как быстро развернуть Testcontainer PostgreSQL для Spring Boot API](https://habr.com/ru/post/715496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715496)
 - [[Перевод] Современный SwiftUI: общение родителей и детей](https://habr.com/ru/post/714780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714780)
 - [Бинарная классификация. Проблема равнозначности разделяющих прямых](https://habr.com/ru/post/714994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714994)
-- [STM32 Часть 1. Как поморгать светодиодиком](https://habr.com/ru/post/694184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=694184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
