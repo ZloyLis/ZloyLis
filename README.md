@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Купил китайские айфоны в коробке и пленках. На что они способны теперь?](https://habr.com/ru/post/715958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715958)
 - [Как я начал учить Python и ничего не произошло](https://habr.com/ru/post/715950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715950)
 - [Настройка Hibernate Envers](https://habr.com/ru/post/715918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715918)
 - [[Перевод] Сегрегация общества: модель Шеллинга и распределение этнических групп в городах Израиля](https://habr.com/ru/post/715768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715768)
 - [Шутки, пасхалки и забытые знания старых мануалов](https://habr.com/ru/post/715826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715826)
-- [[Перевод] Почему освоить Python невозможно, и почему это нормально | Pydon&#39;t](https://habr.com/ru/post/715860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
