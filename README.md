@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что такое GitOps и почему он &lpar;почти&rpar; бесполезен](https://habr.com/ru/post/715190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715190)
-- [5 выводов о «продающей» коммуникации для менеджеров проектов](https://habr.com/ru/post/715842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715842)
-- [Какие параметры компьютера влияют на скорость сборки Gradle проекта](https://habr.com/ru/post/715640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715640)
-- [Process Decision Record  простой инструмент постепенной рационализации процессов](https://habr.com/ru/post/715764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715764)
-- [Упрощаем работу и добавляем красок: доклады с Android-митапа red_mad_robot](https://habr.com/ru/post/715788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715788)
+- [Как я клонировал Томми Версетти, или запускаем GUI/GPU приложения в Kubernetes](https://habr.com/ru/post/715886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715886)
+- [Изучаем mergeMap, switchMap, concatMap и exhaustMap](https://habr.com/ru/post/715882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715882)
+- [Как мы Nautobot до ума доводили](https://habr.com/ru/post/715838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715838)
+- [RTFM*, или Как наш отдел выездного сервиса платформу корпоративного обучения запускал](https://habr.com/ru/post/715864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715864)
+- [[Перевод] Баг Safari, которого никогда не было](https://habr.com/ru/post/715858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
