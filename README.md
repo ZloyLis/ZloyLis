@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Error Budget, SLO и мониторинг: советы для начинающих SRE-инженеров](https://habr.com/ru/post/715762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715762)
+- [ChatGPT показала 5 тысяч самых опасных файлов, с помощью которых можно легко взламывать сайты](https://habr.com/ru/post/715160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715160)
+- [Делай нейминг как сеньор](https://habr.com/ru/post/714512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714512)
+- [Scala Digest. Выпуск 1](https://habr.com/ru/post/715604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715604)
 - [Найди себя в React](https://habr.com/ru/post/714454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714454)
-- [[Перевод] Столетний язык программирования — какой он](https://habr.com/ru/post/715668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715668)
-- [Генератор случайных чисел на базе неопределённого поведения состояния гонки](https://habr.com/ru/post/715744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715744)
-- [Топ 5 недостатков Excel в управлении запасами](https://habr.com/ru/post/715720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715720)
-- [«Разделяй и властвуй» для OpenStreetMap мира в PostgreSQL](https://habr.com/ru/post/715622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
