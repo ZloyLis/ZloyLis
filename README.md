@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Настойка Hibernate Envers](https://habr.com/ru/post/715918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715918)
+- [Настройка Hibernate Envers](https://habr.com/ru/post/715918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715918)
 - [[Перевод] Сегрегация общества: классическая модель Шеллинга, вариации и распределение этнических групп в городах Израиля](https://habr.com/ru/post/715768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715768)
 - [Шутки, пасхалки и забытые знания старых мануалов](https://habr.com/ru/post/715826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715826)
 - [[Перевод] Почему освоить Python невозможно, и почему это нормально | Pydon&#39;t](https://habr.com/ru/post/715860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715860)
-- [Субъективно интересное из мира Python за январь-2023](https://habr.com/ru/post/715646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715646)
+- [Главное из мира Python за январь-2023](https://habr.com/ru/post/715646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
