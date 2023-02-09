@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему освоить Python невозможно, и почему это нормально | Pydon&#39;t](https://habr.com/ru/post/715860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715860)
+- [Субъективно интересное из мира Python за январь-2023](https://habr.com/ru/post/715646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715646)
+- [Архитектурные шаблоны взаимодействия с базами данных](https://habr.com/ru/post/715702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715702)
+- [Как создать внутреннюю базу знаний для большой IT-компании. Из хаоса в гиперспейсы](https://habr.com/ru/post/712756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712756)
 - [Как я клонировал Томми Версетти, или запускаем GUI/GPU приложения в Kubernetes](https://habr.com/ru/post/715886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715886)
-- [Изучаем mergeMap, switchMap, concatMap и exhaustMap](https://habr.com/ru/post/715882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715882)
-- [Как мы Nautobot до ума доводили](https://habr.com/ru/post/715838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715838)
-- [RTFM*, или Как наш отдел выездного сервиса платформу корпоративного обучения запускал](https://habr.com/ru/post/715864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715864)
-- [[Перевод] Баг Safari, которого никогда не было](https://habr.com/ru/post/715858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
