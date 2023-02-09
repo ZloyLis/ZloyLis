@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие параметры компьютера влияют на скорость сборки Gradle проекта](https://habr.com/ru/post/715640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715640)
+- [Process Decision Record  простой инструмент постепенной рационализации процессов](https://habr.com/ru/post/715764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715764)
+- [Упрощаем работу и добавляем красок: доклады с Android-митапа red_mad_robot](https://habr.com/ru/post/715788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715788)
 - [Error Budget, SLO и мониторинг: советы для начинающих SRE-инженеров](https://habr.com/ru/post/715762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715762)
 - [ChatGPT показала 5 тысяч самых опасных файлов, с помощью которых можно легко взламывать сайты](https://habr.com/ru/post/715160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715160)
-- [Делай нейминг как сеньор](https://habr.com/ru/post/714512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714512)
-- [Scala Digest. Выпуск 1](https://habr.com/ru/post/715604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715604)
-- [Найди себя в React](https://habr.com/ru/post/714454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
