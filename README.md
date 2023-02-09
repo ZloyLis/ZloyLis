@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Найди себя в React](https://habr.com/ru/post/714454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714454)
 - [[Перевод] Столетний язык программирования — какой он](https://habr.com/ru/post/715668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715668)
 - [Генератор случайных чисел на базе неопределённого поведения состояния гонки](https://habr.com/ru/post/715744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715744)
 - [Топ 5 недостатков Excel в управлении запасами](https://habr.com/ru/post/715720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715720)
 - [«Разделяй и властвуй» для OpenStreetMap мира в PostgreSQL](https://habr.com/ru/post/715622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715622)
-- [Интеграция Primefaces в приложение на Spring Boot. Часть 7 — Компоненты для сохранения и редактирования данных](https://habr.com/ru/post/715516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
