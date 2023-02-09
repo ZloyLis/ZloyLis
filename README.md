@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое GitOps и почему он &lpar;почти&rpar; бесполезен](https://habr.com/ru/post/715190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715190)
+- [5 выводов о «продающей» коммуникации для менеджеров проектов](https://habr.com/ru/post/715842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715842)
 - [Какие параметры компьютера влияют на скорость сборки Gradle проекта](https://habr.com/ru/post/715640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715640)
 - [Process Decision Record  простой инструмент постепенной рационализации процессов](https://habr.com/ru/post/715764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715764)
 - [Упрощаем работу и добавляем красок: доклады с Android-митапа red_mad_robot](https://habr.com/ru/post/715788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715788)
-- [Error Budget, SLO и мониторинг: советы для начинающих SRE-инженеров](https://habr.com/ru/post/715762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715762)
-- [ChatGPT показала 5 тысяч самых опасных файлов, с помощью которых можно легко взламывать сайты](https://habr.com/ru/post/715160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
