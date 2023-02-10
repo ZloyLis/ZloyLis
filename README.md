@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Элемент выбора эмодзи &lpar;aka EmojiPicker&rpar; для iOS как в MacOS](https://habr.com/ru/post/716194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716194)
+- [Нужно ли проверять библиотеки перед их использованием? Разберём на примере MudBlazor](https://habr.com/ru/post/716178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716178)
 - [Что под капотом «ответов на вопросы» Маруси?](https://habr.com/ru/post/716024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716024)
 - [[Перевод] Как и зачем следует автоматизировать DevOps](https://habr.com/ru/post/715536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715536)
 - [Гайд: как бесплатно получить обучение на Coursera](https://habr.com/ru/post/716004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716004)
-- [Борьба за человекочитаемость кода, которому 10 лет: опыт Хабра](https://habr.com/ru/post/715836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715836)
-- [Модальное окно на чистом CSS и JS](https://habr.com/ru/post/716142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
