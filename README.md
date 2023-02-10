@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Reflection. Упрощаем работу и используем в тестировании](https://habr.com/ru/post/716104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716104)
 - [Лучшие техники ревью кода](https://habr.com/ru/post/716068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716068)
 - [Решаем задачу заливки однородной области](https://habr.com/ru/post/715874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715874)
 - [Как девять женщин могут родить ребёнка за месяц](https://habr.com/ru/post/712392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712392)
 - [[Перевод] 5 неочевидных возможностей FastAPI: упрощаем работу с бэкендом на Python](https://habr.com/ru/post/714688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714688)
-- [Графический интерфейс для bash, делаем работу в командной строке удобнее](https://habr.com/ru/post/715824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
