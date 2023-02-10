@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Участвует ли Apple в современной ИИ-революции?](https://habr.com/ru/post/716018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716018)
+- [Динамическая База данных на Turbo Prolog](https://habr.com/ru/post/716012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716012)
 - [[Перевод] [Научпоп с кодом] Что такое «жидкая» нейросеть и как научить её играть в Atari?](https://habr.com/ru/post/715682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715682)
 - [Разница между debounceTime и throttleTime](https://habr.com/ru/post/715972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715972)
 - [Просто о RCU &lpar;Read–Copy-Update&rpar;. Часть 2](https://habr.com/ru/post/715852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715852)
-- [Купил китайские айфоны в коробке и пленках. На что они способны теперь?](https://habr.com/ru/post/715958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715958)
-- [Как я начал учить Python и ничего не произошло](https://habr.com/ru/post/715950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
