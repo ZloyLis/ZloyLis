@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модальное окно на чистом CSS и JS](https://habr.com/ru/post/716142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716142)
 - [Что делать, когда бросили плыть без онбординга](https://habr.com/ru/post/716124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716124)
 - [Концепция постpоения локальной вычислительной сети. Взгляд из «лихих» 90-х](https://habr.com/ru/post/716122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716122)
 - [.NET Reflection. Упрощаем работу и используем в тестировании](https://habr.com/ru/post/716104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716104)
 - [Лучшие техники ревью кода](https://habr.com/ru/post/716068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716068)
-- [Решаем задачу заливки однородной области](https://habr.com/ru/post/715874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
