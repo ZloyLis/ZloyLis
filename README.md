@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что под капотом «ответов на вопросы» Маруси?](https://habr.com/ru/post/716024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716024)
+- [[Перевод] Как и зачем следует автоматизировать DevOps](https://habr.com/ru/post/715536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715536)
+- [Гайд: как бесплатно получить обучение на Coursera](https://habr.com/ru/post/716004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716004)
+- [Борьба за человекочитаемость кода, которому 10 лет: опыт Хабра](https://habr.com/ru/post/715836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715836)
 - [Модальное окно на чистом CSS и JS](https://habr.com/ru/post/716142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716142)
-- [Что делать, когда бросили плыть без онбординга](https://habr.com/ru/post/716124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716124)
-- [Концепция постpоения локальной вычислительной сети. Взгляд из «лихих» 90-х](https://habr.com/ru/post/716122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716122)
-- [.NET Reflection. Упрощаем работу и используем в тестировании](https://habr.com/ru/post/716104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716104)
-- [Лучшие техники ревью кода](https://habr.com/ru/post/716068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
