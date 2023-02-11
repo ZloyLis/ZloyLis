@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как в AppMetrica отследить рекламные переходы с сайта в приложение](https://habr.com/ru/post/716346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716346)
 - [Таблица решений для тестирования алгоритмов](https://habr.com/ru/post/716334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716334)
 - [Футуристичный моноблок из 2005. Motorola SLVR L6](https://habr.com/ru/post/716320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716320)
 - [А вы давно заглядывали внутрь ваших зависимостей?](https://habr.com/ru/post/716306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716306)
 - [Конвертация MIDI-времени в такты и доли](https://habr.com/ru/post/716300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716300)
-- [JavaFx application with Spring boot](https://habr.com/ru/post/716298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
