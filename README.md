@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-code MVP для получения плана застройки участка по кадастровому номеру на базе Notion, Airtable и Telegram](https://habr.com/ru/post/716030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716030)
 - [Pytest-фикстуры на человеческом](https://habr.com/ru/post/716248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716248)
 - [Цикл постов про Keycloak. Часть первая: Внедрение](https://habr.com/ru/post/716232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716232)
 - [Prostore — простой Event sourcing + CQRS фреймворк](https://habr.com/ru/post/716218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716218)
 - [Элемент выбора эмодзи &lpar;aka EmojiPicker&rpar; для iOS как в MacOS](https://habr.com/ru/post/716194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716194)
-- [Нужно ли проверять библиотеки перед их использованием? Разберём на примере MudBlazor](https://habr.com/ru/post/716178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
