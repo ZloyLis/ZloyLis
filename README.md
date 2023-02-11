@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Футуристичный моноблок из 2005. Motorola SLVR L6](https://habr.com/ru/post/716320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716320)
 - [А вы давно заглядывали внутрь ваших зависимостей?](https://habr.com/ru/post/716306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716306)
 - [Конвертация MIDI-времени в такты и доли](https://habr.com/ru/post/716300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716300)
 - [JavaFx application with Spring boot](https://habr.com/ru/post/716298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716298)
 - [Low-code MVP для получения плана застройки участка по кадастровому номеру на базе Notion, Airtable и Telegram](https://habr.com/ru/post/716030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716030)
-- [Pytest-фикстуры на человеческом](https://habr.com/ru/post/716248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
