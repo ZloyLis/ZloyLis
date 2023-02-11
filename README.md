@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А вы давно заглядывали внутрь ваших зависимостей?](https://habr.com/ru/post/716306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716306)
+- [Конвертация MIDI-времени в такты и доли](https://habr.com/ru/post/716300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716300)
+- [JavaFx application with Spring boot](https://habr.com/ru/post/716298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716298)
 - [Low-code MVP для получения плана застройки участка по кадастровому номеру на базе Notion, Airtable и Telegram](https://habr.com/ru/post/716030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716030)
 - [Pytest-фикстуры на человеческом](https://habr.com/ru/post/716248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716248)
-- [Цикл постов про Keycloak. Часть первая: Внедрение](https://habr.com/ru/post/716232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716232)
-- [Prostore — простой Event sourcing + CQRS фреймворк](https://habr.com/ru/post/716218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716218)
-- [Элемент выбора эмодзи &lpar;aka EmojiPicker&rpar; для iOS как в MacOS](https://habr.com/ru/post/716194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
