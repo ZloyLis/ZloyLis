@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я завалил первый тех. собес на позицию Junior QA Engineer](https://habr.com/ru/post/716440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716440)
 - [[recovery mode] Delayed durability поможет вашему ORM увеличить производительность на 50% и более, если Вы только будете использовать …](https://habr.com/ru/post/716432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716432)
 - [Chrome Headless против cloudflare JS challenge](https://habr.com/ru/post/716434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716434)
 - [[recovery mode] Как подключить ИИ-ассистента* на технологии OpenAI** к мессенджерам*** на вашем смартфоне**** &lpar;кликбейт&rpar;](https://habr.com/ru/post/716414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716414)
 - [Как эффективно продвигать ивенты в digital?](https://habr.com/ru/post/716424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716424)
-- [Есть ли польза от GoF-паттернов?](https://habr.com/ru/post/716412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
