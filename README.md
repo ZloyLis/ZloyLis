@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Как подключить ИИ-ассистента* на технологии OpenAI** к мессенджерам*** на вашем смартфоне**** &lpar;кликбейт&rpar;](https://habr.com/ru/post/716414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716414)
 - [Как эффективно продвигать ивенты в digital?](https://habr.com/ru/post/716424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716424)
 - [Есть ли польза от GoF-паттернов?](https://habr.com/ru/post/716412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716412)
 - [[Перевод] Моделирование лесных пожаров: теория, клеточный автомат на Python](https://habr.com/ru/post/716342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716342)
 - [[recovery mode] В чем отличие Linux от Windows и почему я перестал пользоваться продуктами Microsoft](https://habr.com/ru/post/716394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716394)
-- [Градиентный спуск простыми словами](https://habr.com/ru/post/716380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
