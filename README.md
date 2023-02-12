@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Градиентный спуск простыми словами](https://habr.com/ru/post/716380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716380)
 - [Мобильная разработка за неделю #475 &lpar;6 — 12 февраля&rpar;](https://habr.com/ru/post/716378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716378)
 - [Как стать джуном, которого берут на работу &lpar;frontend-разработка&rpar;](https://habr.com/ru/post/716368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716368)
 - [Как в AppMetrica отследить рекламные переходы с сайта в приложение](https://habr.com/ru/post/716346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716346)
 - [Таблица решений для тестирования алгоритмов](https://habr.com/ru/post/716334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716334)
-- [Футуристичный моноблок из 2005. Motorola SLVR L6](https://habr.com/ru/post/716320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
