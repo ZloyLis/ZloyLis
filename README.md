@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С чем едят микросервисы](https://habr.com/ru/post/716686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716686)
+- [Kotlin-сервер без JVM — реальность?](https://habr.com/ru/post/716678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716678)
+- [Security Week 2307: утечка обучающих датасетов из нейросетей](https://habr.com/ru/post/716562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716562)
 - [Интеграция Primefaces в приложение на Spring Boot. Часть 8 — Композитная форма для редактирования сложных данных](https://habr.com/ru/post/716372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716372)
 - [[Перевод] Прокачиваем навыки CSS с помощью селектора :has&lpar;&rpar;](https://habr.com/ru/post/716356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716356)
-- [[Перевод] Разбираемся с рекурсией на примере связных списков](https://habr.com/ru/post/716652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716652)
-- [Пчела на работе, разработка игр на SFML C++](https://habr.com/ru/post/716644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716644)
-- [Интервью с генеральным продюсером студии-разработчика мобильных игр Black Caviar Games Александром Демидовым](https://habr.com/ru/post/716616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
