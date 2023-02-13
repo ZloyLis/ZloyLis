@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как передать потомкам исполняемый код? Задача сложнее, чем кажется](https://habr.com/ru/post/715104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715104)
+- [[Перевод] Бухучёт для программистов](https://habr.com/ru/post/715266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715266)
+- [[Перевод] Встроенные покупки в iOS. Часть 1: создание покупок и добавление их в проект](https://habr.com/ru/post/713244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713244)
 - [Artficial &amp;amp; Intelligence](https://habr.com/ru/post/716500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716500)
 - [Превратности диспетчеризации в Swift](https://habr.com/ru/post/715928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715928)
-- [Как Никита Биер дважды получил миллионы юзеров и продал один и тот же продукт за миллионы долларов](https://habr.com/ru/post/716490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716490)
-- [[recovery mode] Пошаговая отладка, inline-методы, JVM](https://habr.com/ru/post/716426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716426)
-- [filebump — хостинг файлов по API](https://habr.com/ru/post/716450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
