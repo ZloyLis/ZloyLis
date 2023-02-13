@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как передать потомкам исполняемый код? Задача сложнее, чем кажется](https://habr.com/ru/post/715104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715104)
-- [[Перевод] Бухучёт для программистов](https://habr.com/ru/post/715266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715266)
-- [[Перевод] Встроенные покупки в iOS. Часть 1: создание покупок и добавление их в проект](https://habr.com/ru/post/713244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713244)
-- [Artficial &amp;amp; Intelligence](https://habr.com/ru/post/716500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716500)
-- [Превратности диспетчеризации в Swift](https://habr.com/ru/post/715928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715928)
+- [Обзор сервисов внешней аналитики маркетплейсов 2023 года: бесплатные, платные, что умеют и не умеют, какой выбрать](https://habr.com/ru/post/715650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715650)
+- [Server-Sent Events в java. От любви до ненависти…](https://habr.com/ru/post/716544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716544)
+- [Интеграция Google Analytics с Telegram](https://habr.com/ru/post/716538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716538)
+- [Аутентификация и авторизация в проекте с микросервисной архитектурой: стратегии, практический пример](https://habr.com/ru/post/715290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715290)
+- [Как начать тестировать frontend: гайд для новичков](https://habr.com/ru/post/716526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
