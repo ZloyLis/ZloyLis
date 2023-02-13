@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция Primefaces в приложение на Spring Boot. Часть 8 — Композитная форма для редактирования сложных данных](https://habr.com/ru/post/716372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716372)
+- [[Перевод] Прокачиваем навыки CSS с помощью селектора :has&lpar;&rpar;](https://habr.com/ru/post/716356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716356)
+- [[Перевод] Разбираемся с рекурсией на примере связных списков](https://habr.com/ru/post/716652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716652)
+- [Пчела на работе, разработка игр на SFML C++](https://habr.com/ru/post/716644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716644)
 - [Интервью с генеральным продюсером студии-разработчика мобильных игр Black Caviar Games Александром Демидовым](https://habr.com/ru/post/716616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716616)
-- [Лучшие библиотеки Java для тестирования в 2023 году](https://habr.com/ru/post/716444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716444)
-- [Выпускайте Кракена: опыт использования KrakenD](https://habr.com/ru/post/716512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716512)
-- [KMM глазами iOS-разработчика](https://habr.com/ru/post/715890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715890)
-- [Golang-дайджест № 25 &lpar;1 – 31 января  2023&rpar;](https://habr.com/ru/post/716560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
