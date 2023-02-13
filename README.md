@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Пошаговая отладка, inline-методы, JVM](https://habr.com/ru/post/716426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716426)
 - [filebump — хостинг файлов по API](https://habr.com/ru/post/716450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716450)
 - [Как я завалил первый тех. собес на позицию Junior QA Engineer](https://habr.com/ru/post/716440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716440)
 - [[recovery mode] Delayed durability поможет вашему ORM увеличить производительность на 50% и более, если Вы только будете использовать …](https://habr.com/ru/post/716432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716432)
 - [Chrome Headless против cloudflare JS challenge](https://habr.com/ru/post/716434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716434)
-- [[recovery mode] Как подключить ИИ-ассистента* на технологии OpenAI** к мессенджерам*** на вашем смартфоне**** &lpar;кликбейт&rpar;](https://habr.com/ru/post/716414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
