@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интервью с генеральным продюсером студии-разработчика мобильных игр Black Caviar Games Александром Демидовым](https://habr.com/ru/post/716616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716616)
 - [Лучшие библиотеки Java для тестирования в 2023 году](https://habr.com/ru/post/716444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716444)
 - [Выпускайте Кракена: опыт использования KrakenD](https://habr.com/ru/post/716512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716512)
 - [KMM глазами iOS-разработчика](https://habr.com/ru/post/715890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715890)
 - [Golang-дайджест № 25 &lpar;1 – 31 января  2023&rpar;](https://habr.com/ru/post/716560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716560)
-- [Как установить Copilot в России и использовать его эффективно](https://habr.com/ru/post/716554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
