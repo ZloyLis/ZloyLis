@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Artficial &amp;amp; Intelligence](https://habr.com/ru/post/716500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716500)
+- [Превратности диспетчеризации в Swift](https://habr.com/ru/post/715928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715928)
+- [Как Никита Биер дважды получил миллионы юзеров и продал один и тот же продукт за миллионы долларов](https://habr.com/ru/post/716490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716490)
 - [[recovery mode] Пошаговая отладка, inline-методы, JVM](https://habr.com/ru/post/716426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716426)
 - [filebump — хостинг файлов по API](https://habr.com/ru/post/716450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716450)
-- [Как я завалил первый тех. собес на позицию Junior QA Engineer](https://habr.com/ru/post/716440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716440)
-- [[recovery mode] Delayed durability поможет вашему ORM увеличить производительность на 50% и более, если Вы только будете использовать …](https://habr.com/ru/post/716432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716432)
-- [Chrome Headless против cloudflare JS challenge](https://habr.com/ru/post/716434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
