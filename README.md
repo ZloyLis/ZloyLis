@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор сервисов внешней аналитики маркетплейсов 2023 года: бесплатные, платные, что умеют и не умеют, какой выбрать](https://habr.com/ru/post/715650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715650)
-- [Server-Sent Events в java. От любви до ненависти…](https://habr.com/ru/post/716544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716544)
-- [Интеграция Google Analytics с Telegram](https://habr.com/ru/post/716538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716538)
-- [Аутентификация и авторизация в проекте с микросервисной архитектурой: стратегии, практический пример](https://habr.com/ru/post/715290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715290)
-- [Как начать тестировать frontend: гайд для новичков](https://habr.com/ru/post/716526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716526)
+- [Лучшие библиотеки Java для тестирования в 2023 году](https://habr.com/ru/post/716444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716444)
+- [Выпускайте Кракена: опыт использования KrakenD](https://habr.com/ru/post/716512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716512)
+- [KMM глазами iOS-разработчика](https://habr.com/ru/post/715890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715890)
+- [Golang-дайджест № 25 &lpar;1 – 31 января  2023&rpar;](https://habr.com/ru/post/716560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716560)
+- [Как установить Copilot в России и использовать его эффективно](https://habr.com/ru/post/716554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
