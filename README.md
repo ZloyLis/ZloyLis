@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как проходить HR-интервью и отвечать на странные вопросы HR?](https://habr.com/ru/post/716838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716838)
+- [Автор библиотеки, от которой зависит половина веб-сайтов, сидит без денег](https://habr.com/ru/post/716832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716832)
 - [Стратегии прогнозирования временных рядов в ETNA](https://habr.com/ru/post/716692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716692)
 - [[Перевод] Rust: ни в коем случае не используйте unwrap&lpar;&rpar; в продакшене](https://habr.com/ru/post/716802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716802)
 - [Service Mesh на стероидах, часть 2: Zero Deployment Downtime в корпоративных приложениях](https://habr.com/ru/post/708110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708110)
-- [Как развивать внутренние сообщества с пользой для компании и людей](https://habr.com/ru/post/716664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716664)
-- [Сказ о неработающих гайдлайнах: Toptal, GraphQL и линтеры](https://habr.com/ru/post/716250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
