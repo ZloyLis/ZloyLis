@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тестирование совместимости: всё, что вам нужно знать](https://habr.com/ru/post/716862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716862)
+- [Вдали от Webpack, или Как мы в Dodo микрофронтенды на Vite переводили](https://habr.com/ru/post/715988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715988)
+- [Как использовать Яндекс Карты во Flutter](https://habr.com/ru/post/715940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715940)
 - [Как проходить HR-интервью и отвечать на странные вопросы HR?](https://habr.com/ru/post/716838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716838)
 - [Автор библиотеки, от которой зависит половина веб-сайтов, сидит без денег](https://habr.com/ru/post/716832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716832)
-- [Стратегии прогнозирования временных рядов в ETNA](https://habr.com/ru/post/716692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716692)
-- [[Перевод] Rust: ни в коем случае не используйте unwrap&lpar;&rpar; в продакшене](https://habr.com/ru/post/716802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716802)
-- [Service Mesh на стероидах, часть 2: Zero Deployment Downtime в корпоративных приложениях](https://habr.com/ru/post/708110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
