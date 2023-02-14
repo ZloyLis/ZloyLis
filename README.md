@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпускные проекты наших «бауманцев»](https://habr.com/ru/post/716540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716540)
 - [[Перевод] Этапы сборки SwiftLint с входными и выходными файлами Xcode](https://habr.com/ru/post/716584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716584)
 - [Взаимодействие с MinIO по относительному пути. Получится или нет?](https://habr.com/ru/post/716910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716910)
 - [Парсинг ответов на BLE-команды на языке Swift на примере GoPro](https://habr.com/ru/post/716162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716162)
 - [Специфика DataOPS в Учи.ру](https://habr.com/ru/post/716904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716904)
-- [Tinder по интересам, «Морской Boy» и сегментация КТ-снимков: 10 студенческих идей, которые стали проектами](https://habr.com/ru/post/716888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
