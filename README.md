@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Спасайтесь, в группах дети!» и другие истории о специфике модерации отдельных групп респондентов](https://habr.com/ru/post/716786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716786)
+- [Взаимодействие с MinIO по относительному пути. Получится или нет?](https://habr.com/ru/post/716910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716910)
+- [Парсинг ответов на BLE-команды на языке Swift на примере GoPro](https://habr.com/ru/post/716162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716162)
 - [Специфика DataOPS в Учи.ру](https://habr.com/ru/post/716904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716904)
 - [Tinder по интересам, «Морской Boy» и сегментация КТ-снимков: 10 студенческих идей, которые стали проектами](https://habr.com/ru/post/716888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716888)
-- [Приключения капитана Блада: потонет ли Арабелла?](https://habr.com/ru/post/716884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716884)
-- [[Перевод] Эксплойтинг браузера Chrome, часть 2: знакомство с Ignition, Sparkplug и компиляцией JIT в TurboFan](https://habr.com/ru/post/706322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706322)
-- [Стеклянная луковица dns внутри k8s](https://habr.com/ru/post/716744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
