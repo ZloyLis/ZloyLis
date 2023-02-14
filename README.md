@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Альфа-бета фильтр Калмана: фильтр «Hello world!»](https://habr.com/ru/post/716750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716750)
 - [Apple Pro Weekly News &lpar;06.02 – 12.02.23&rpar;](https://habr.com/ru/post/716738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716738)
 - [Мессенджеры на работе — это не прокрастинация, или как мы сделали сервис для автотестирования. Часть 2](https://habr.com/ru/post/716694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716694)
 - [С чем едят микросервисы](https://habr.com/ru/post/716686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716686)
 - [Kotlin-сервер без JVM — реальность?](https://habr.com/ru/post/716678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716678)
-- [Security Week 2307: утечка обучающих датасетов из нейросетей](https://habr.com/ru/post/716562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
