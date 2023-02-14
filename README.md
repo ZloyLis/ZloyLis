@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Код на репите. Механизмы повторного использования кода: от элитного до простого](https://habr.com/ru/post/716754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716754)
+- [Управление подписками: много слов о потоках, отписках и утечке памяти](https://habr.com/ru/post/716770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716770)
 - [Делаем ТруЪ-DevOps в мире хранилищ данных](https://habr.com/ru/post/715430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715430)
 - [Как развивается российский рынок тестирования ПО](https://habr.com/ru/post/716080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716080)
 - [Увеличь это! Современное увеличение разрешения в 2023](https://habr.com/ru/post/716706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716706)
-- [[Перевод] Самостоятельный хостинг macOS CI на Apple Silicon с приложением Cilicon](https://habr.com/ru/post/716586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716586)
-- [Альфа-бета фильтр Калмана: фильтр «Hello world!»](https://habr.com/ru/post/716750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
