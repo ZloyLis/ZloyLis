@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Специфика DataOPS в Учи.ру](https://habr.com/ru/post/716904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716904)
+- [Tinder по интересам, «Морской Boy» и сегментация КТ-снимков: 10 студенческих идей, которые стали проектами](https://habr.com/ru/post/716888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716888)
 - [Приключения капитана Блада: потонет ли Арабелла?](https://habr.com/ru/post/716884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716884)
 - [[Перевод] Эксплойтинг браузера Chrome, часть 2: знакомство с Ignition, Sparkplug и компиляцией JIT в TurboFan](https://habr.com/ru/post/706322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=706322)
 - [Стеклянная луковица dns внутри k8s](https://habr.com/ru/post/716744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716744)
-- [[Перевод] Тестирование совместимости: всё, что вам нужно знать](https://habr.com/ru/post/716862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716862)
-- [Вдали от Webpack, или Как мы в Dodo микрофронтенды на Vite переводили](https://habr.com/ru/post/715988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
