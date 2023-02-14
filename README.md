@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Код на репите. Механизмы повторного использования кода: от элитного до простого](https://habr.com/ru/post/716754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716754)
-- [Управление подписками: много слов о потоках, отписках и утечке памяти](https://habr.com/ru/post/716770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716770)
-- [Делаем ТруЪ-DevOps в мире хранилищ данных](https://habr.com/ru/post/715430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715430)
-- [Как развивается российский рынок тестирования ПО](https://habr.com/ru/post/716080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716080)
-- [Увеличь это! Современное увеличение разрешения в 2023](https://habr.com/ru/post/716706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716706)
+- [Стратегии прогнозирования временных рядов в ETNA](https://habr.com/ru/post/716692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716692)
+- [[Перевод] Rust: ни в коем случае не используйте unwrap&lpar;&rpar; в продакшене](https://habr.com/ru/post/716802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716802)
+- [Service Mesh на стероидах, часть 2: Zero Deployment Downtime в корпоративных приложениях](https://habr.com/ru/post/708110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708110)
+- [Как развивать внутренние сообщества с пользой для компании и людей](https://habr.com/ru/post/716664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716664)
+- [Сказ о неработающих гайдлайнах: Toptal, GraphQL и линтеры](https://habr.com/ru/post/716250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
