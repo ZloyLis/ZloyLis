@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как оцифровка жизненного цикла деталей помогает сокращать издержки производства](https://habr.com/ru/post/717200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717200)
 - [Автоматное программирование в SimInTech и ВКПа](https://habr.com/ru/post/717190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717190)
 - [Обезопасить, удержать, сохранить. Выгрузка трафика анонимной сети как свойство отложенной маршрутизации в HLT](https://habr.com/ru/post/717184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717184)
 - [[recovery mode] Как мы сделали образовательную игру для разработчиков в телеграмме?](https://habr.com/ru/post/717142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717142)
 - [Переделка ККМ Атол в термопринтер](https://habr.com/ru/post/717134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717134)
-- [Spring Boot. Настройка профилирования времени выполнения](https://habr.com/ru/post/717114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
