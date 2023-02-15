@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Как мы сделали образовательную игру для разработчиков в телеграмме?](https://habr.com/ru/post/717142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717142)
 - [Переделка ККМ Атол в термопринтер](https://habr.com/ru/post/717134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717134)
 - [Spring Boot. Настройка профилирования времени выполнения](https://habr.com/ru/post/717114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717114)
 - [8 вещей, о которых забывают разработчики при переносе приложения в Kubernetes](https://habr.com/ru/post/717100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717100)
 - [[Перевод] 20 уроков, которые я вынес из 20 лет работы программистом](https://habr.com/ru/post/717108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717108)
-- [Создание мобильного приложения для рисования на Android Studio](https://habr.com/ru/post/717102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
