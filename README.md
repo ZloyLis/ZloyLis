@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot. Настройка профилирования времени выполнения](https://habr.com/ru/post/717114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717114)
+- [8 вещей, о которых забывают разработчики при переносе приложения в Kubernetes](https://habr.com/ru/post/717100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717100)
 - [[Перевод] 20 уроков, которые я вынес из 20 лет работы программистом](https://habr.com/ru/post/717108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717108)
 - [Создание мобильного приложения для рисования на Android Studio](https://habr.com/ru/post/717102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717102)
 - [Курс по изучению Kotlin и Android Studio с нуля до Junior. #1 Введение. Установка Android Studio](https://habr.com/ru/post/717074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717074)
-- [Как проводить качественные исследования: интервью, UX-тестирование и фокус-группы](https://habr.com/ru/post/717042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717042)
-- [Планировщик задач: не замораживаем вкладку при открытии страницы](https://habr.com/ru/post/716620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
