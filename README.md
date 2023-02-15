@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Курс по изучению Kotlin и Android Studio с нуля до Junior. #1 Введение. Установка Android Studio](https://habr.com/ru/post/717074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717074)
+- [Как проводить качественные исследования: интервью, UX-тестирование и фокус-группы](https://habr.com/ru/post/717042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717042)
 - [Планировщик задач: не замораживаем вкладку при открытии страницы](https://habr.com/ru/post/716620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716620)
 - [Как MLOps помогает обеспечить гибкость машинного обучения и стимулирует инновации](https://habr.com/ru/post/713182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713182)
 - [Семь дощечек мастерства на службе ML](https://habr.com/ru/post/717006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717006)
-- [[Перевод] DND 18: Создание пользовательских SF Symbols](https://habr.com/ru/post/716582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716582)
-- [Как пользоваться CSI Provider: доставляем секреты из Vault в Kubernetes](https://habr.com/ru/post/716624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
