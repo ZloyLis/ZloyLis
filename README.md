@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Планировщик задач: не замораживаем вкладку при открытии страницы](https://habr.com/ru/post/716620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716620)
 - [Как MLOps помогает обеспечить гибкость машинного обучения и стимулирует инновации](https://habr.com/ru/post/713182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713182)
 - [Семь дощечек мастерства на службе ML](https://habr.com/ru/post/717006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717006)
 - [[Перевод] DND 18: Создание пользовательских SF Symbols](https://habr.com/ru/post/716582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716582)
 - [Как пользоваться CSI Provider: доставляем секреты из Vault в Kubernetes](https://habr.com/ru/post/716624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716624)
-- [Пишем собственный WYSIWYG редактор на основе веб-компонентов и textarea. Часть 1](https://habr.com/ru/post/716986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
