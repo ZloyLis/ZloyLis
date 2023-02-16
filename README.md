@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Наблюдение за смещением содержимого SwiftUI ScrollView](https://habr.com/ru/post/716580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716580)
+- [Netcode for GameObject, или ещё один способ пилить многопользовательские игры на коленке](https://habr.com/ru/post/717270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717270)
 - [Почему анимированная погода – это код из конфигуратора или История одного грустного пакета](https://habr.com/ru/post/717192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717192)
 - [[Перевод] Пишем GPT в 60 строк NumPy](https://habr.com/ru/post/716902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716902)
-- [Ретрит с аяуаской: личный опыт](https://habr.com/ru/post/717248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717248)
 - [[Перевод] В Ruby появилась поддержка WebAssemblу: что это значит?](https://habr.com/ru/post/717130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717130)
-- [#2 Дайджест материалов для QA инженера за &lpar;1 — 13&rpar; февраль](https://habr.com/ru/post/714984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
