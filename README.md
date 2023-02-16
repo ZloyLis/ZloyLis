@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать матрицу-компетенций: 6 простых шагов с примерами](https://habr.com/ru/post/717430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717430)
+- [[Перевод] Как Homebrew раздаёт 52 миллиона пакетов в месяц?](https://habr.com/ru/post/717400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717400)
 - [Личный путь и опыт в становлении Python разработчиком](https://habr.com/ru/post/717424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717424)
 - [Курс по изучению Kotlin и Android Studio с нуля до Junior. #2 Создание первого проекта в Android Studio](https://habr.com/ru/post/717394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717394)
 - [Шаблон backend сервера на Golang — часть 3 &lpar;Docker, Docker Compose, Kubernetes &lpar;kustomize&rpar;](https://habr.com/ru/post/716634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716634)
-- [Когда о человеке можно сказать, что он стал программистом](https://habr.com/ru/post/717362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717362)
-- [Радиотелефончик на смартфоне](https://habr.com/ru/post/715978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
