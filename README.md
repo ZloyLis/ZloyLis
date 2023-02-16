@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Курс по изучению Kotlin и Android Studio с нуля до Junior. #2 Создание первого проекта в Android Studio](https://habr.com/ru/post/717394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717394)
+- [Шаблон backend сервера на Golang — часть 3 &lpar;Docker, Docker Compose, Kubernetes &lpar;kustomize&rpar;](https://habr.com/ru/post/716634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716634)
 - [Когда о человеке можно сказать, что он стал программистом](https://habr.com/ru/post/717362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717362)
 - [Радиотелефончик на смартфоне](https://habr.com/ru/post/715978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715978)
 - [Java-сертификация: как мы заняли место ушедшего из РФ Oracle](https://habr.com/ru/post/717348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717348)
-- [Основы библиотеки cURL PHP](https://habr.com/ru/post/717346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717346)
-- [Не как на Фукусиме, или Как разрабатывают в ядерной индустрии](https://habr.com/ru/post/717344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
