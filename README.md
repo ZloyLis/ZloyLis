@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] NSPredicate: старый API с новыми сюрпризами](https://habr.com/ru/post/717334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717334)
-- [[Перевод] Что нового в Swift 5.7: Regex](https://habr.com/ru/post/717326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717326)
-- [Как мы запускали SSP-систему, боролись с высокими нагрузками и прокачивали навыки](https://habr.com/ru/post/717312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717312)
-- [Ускоряем Cycle Time и растим счастье в команде](https://habr.com/ru/post/715644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715644)
-- [PVS-Studio 7.23: плагин Qt Creator 9 и не только](https://habr.com/ru/post/717306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717306)
+- [Когда о человеке можно сказать, что он стал программистом](https://habr.com/ru/post/717362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717362)
+- [Радиотелефончик на смартфоне](https://habr.com/ru/post/715978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715978)
+- [Java-сертификация: как мы заняли место ушедшего из РФ Oracle](https://habr.com/ru/post/717348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717348)
+- [Основы библиотеки cURL PHP](https://habr.com/ru/post/717346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717346)
+- [Не как на Фукусиме, или Как разрабатывают в ядерной индустрии](https://habr.com/ru/post/717344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
