@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Методы обфускации трафика. Гомоморфное шифрование](https://habr.com/ru/post/717482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717482)
 - [[Перевод] Что нового в Lighthouse 10](https://habr.com/ru/post/717476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717476)
 - [[Перевод] Bing: «Я не причиню вам вреда, пока вы не причините вред мне»](https://habr.com/ru/post/717336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717336)
 - [Знания на экране монитора. Чему меня научило ведение базы знаний?](https://habr.com/ru/post/717458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717458)
 - [Деконструкция OCP](https://habr.com/ru/post/717452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717452)
-- [Из журналистики в тестирование: мой опыт переключения](https://habr.com/ru/post/717428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
