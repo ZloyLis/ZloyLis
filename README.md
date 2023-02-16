@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Наблюдение за смещением содержимого SwiftUI ScrollView](https://habr.com/ru/post/716580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716580)
-- [Netcode for GameObject, или ещё один способ пилить многопользовательские игры на коленке](https://habr.com/ru/post/717270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717270)
-- [Почему анимированная погода – это код из конфигуратора или История одного грустного пакета](https://habr.com/ru/post/717192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717192)
-- [[Перевод] Пишем GPT в 60 строк NumPy](https://habr.com/ru/post/716902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716902)
-- [[Перевод] В Ruby появилась поддержка WebAssemblу: что это значит?](https://habr.com/ru/post/717130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717130)
+- [Как мы запускали SSP-систему, боролись с высокими нагрузками и прокачивали навыки](https://habr.com/ru/post/717312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717312)
+- [Ускоряем Cycle Time и растим счастье в команде](https://habr.com/ru/post/715644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715644)
+- [PVS-Studio 7.23: плагин Qt Creator 9 и не только](https://habr.com/ru/post/717306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717306)
+- [Замахнемся на гипотезу Коллаца](https://habr.com/ru/post/717094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717094)
+- [Создание обертки C3D для использования на разных языках и платформах](https://habr.com/ru/post/715170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
