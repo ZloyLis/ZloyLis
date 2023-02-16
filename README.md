@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему анимированная погода – это код из конфигуратора или История одного грустного пакета](https://habr.com/ru/post/717192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717192)
+- [[Перевод] Пишем GPT в 60 строк NumPy](https://habr.com/ru/post/716902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716902)
 - [Ретрит с аяуаской: личный опыт](https://habr.com/ru/post/717248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717248)
 - [[Перевод] В Ruby появилась поддержка WebAssemblу: что это значит?](https://habr.com/ru/post/717130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717130)
 - [#2 Дайджест материалов для QA инженера за &lpar;1 — 13&rpar; февраль](https://habr.com/ru/post/714984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714984)
-- [Собеседование мечты: как девопсу попасть на работу](https://habr.com/ru/post/717204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717204)
-- [Как оцифровка жизненного цикла деталей помогает сокращать издержки производства](https://habr.com/ru/post/717200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
