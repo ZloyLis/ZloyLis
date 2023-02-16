@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Знания на экране монитора. Чему меня научило ведение базы знаний?](https://habr.com/ru/post/717458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717458)
 - [Деконструкция OCP](https://habr.com/ru/post/717452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717452)
 - [Из журналистики в тестирование: мой опыт переключения](https://habr.com/ru/post/717428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717428)
 - [Как мы распараллелили CatBoost на Spark](https://habr.com/ru/post/717450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717450)
 - [Как создать матрицу-компетенций: 6 простых шагов с примерами](https://habr.com/ru/post/717430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717430)
-- [[Перевод] Как Homebrew раздаёт 52 миллиона пакетов в месяц?](https://habr.com/ru/post/717400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
