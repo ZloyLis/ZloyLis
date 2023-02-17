@@ -34,7 +34,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нужен ли такой одноплатник?](https://habr.com/ru/post/717528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717528)
+- [Устанавливаем Kubernetes-платформу Deckhouse в закрытом окружении. Пошаговая инструкция](https://habr.com/ru/post/717484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717484)
 - [[Перевод] О трёх существенных недостатках известных алгоритмов обучения с подкреплением &lpar;и о том, как их устранить&rpar;](https://habr.com/ru/post/717360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717360)
 - [MDM в Android: плюсы, минусы, подводные камни](https://habr.com/ru/post/717496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717496)
 - [Методы обфускации трафика. Гомоморфное шифрование](https://habr.com/ru/post/717482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717482)
