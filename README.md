@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud OpenFeign и авторизация](https://habr.com/ru/post/717610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717610)
+- [Дайджест научных исследований в CS #1](https://habr.com/ru/post/717596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717596)
+- [Проектируем дизайн честного кредитного калькулятора](https://habr.com/ru/post/717584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717584)
 - [Пишем умный поиск по коду с Open AI](https://habr.com/ru/post/717576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717576)
 - [Структуры данных: связный список](https://habr.com/ru/post/717572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717572)
-- [Работаем с PostgreSQL в Go. Опыт Авито](https://habr.com/ru/post/716516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716516)
-- [Полное руководство по Remix. Часть 1](https://habr.com/ru/post/717156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717156)
-- [Устанавливаем Kubernetes-платформу Deckhouse в закрытом окружении. Пошаговая инструкция](https://habr.com/ru/post/717484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
