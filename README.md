@@ -35,10 +35,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [История с продолжением: почему для движения вперед инвалидное кресло не помеха](https://habr.com/ru/post/717564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717564)
-- [Как я почти бесплатно запустил блог на Эгее](https://habr.com/ru/post/717506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717506)
 - [Spring Cloud OpenFeign и авторизация](https://habr.com/ru/post/717610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717610)
 - [Дайджест научных исследований в CS #1](https://habr.com/ru/post/717596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717596)
 - [Проектируем дизайн честного кредитного калькулятора](https://habr.com/ru/post/717584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717584)
+- [Пишем умный поиск по коду с Open AI](https://habr.com/ru/post/717576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
