@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hashmap&lpar;map&rpar; по версии Golang. Часть 2](https://habr.com/ru/post/717724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717724)
 - [Анализ кода в Flutter-приложениях и настройка сборочной линии Gitlab CI для анализа](https://habr.com/ru/post/717708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717708)
 - [Изучение программирования с нуля: готовьте на это очень много времени и не ждите быстрого результата](https://habr.com/ru/post/717702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717702)
 - [Как Heflo поломал мою картину мира](https://habr.com/ru/post/717700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717700)
 - [VueEnt — сложные формы на Vue и не только](https://habr.com/ru/post/717680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717680)
-- [Работа с хранилищами в Kubernetes](https://habr.com/ru/post/717486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
