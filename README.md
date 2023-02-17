@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Heflo поломал мою картину мира](https://habr.com/ru/post/717700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717700)
 - [VueEnt — сложные формы на Vue и не только](https://habr.com/ru/post/717680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717680)
 - [Работа с хранилищами в Kubernetes](https://habr.com/ru/post/717486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717486)
 - [[Перевод] Как мы сократили время запуска нашего iOS-приложения на 60%](https://habr.com/ru/post/716576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716576)
 - [История с продолжением: почему для движения вперед инвалидное кресло не помеха](https://habr.com/ru/post/717564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717564)
-- [Spring Cloud OpenFeign и авторизация](https://habr.com/ru/post/717610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
