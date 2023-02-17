@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем умный поиск по коду с Open AI](https://habr.com/ru/post/717576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717576)
+- [Структуры данных: связный список](https://habr.com/ru/post/717572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717572)
+- [Работаем с PostgreSQL в Go. Опыт Авито](https://habr.com/ru/post/716516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716516)
 - [Полное руководство по Remix. Часть 1](https://habr.com/ru/post/717156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717156)
 - [Устанавливаем Kubernetes-платформу Deckhouse в закрытом окружении. Пошаговая инструкция](https://habr.com/ru/post/717484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717484)
-- [[Перевод] О трёх существенных недостатках известных алгоритмов обучения с подкреплением &lpar;и о том, как их устранить&rpar;](https://habr.com/ru/post/717360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717360)
-- [MDM в Android: плюсы, минусы, подводные камни](https://habr.com/ru/post/717496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717496)
-- [Методы обфускации трафика. Гомоморфное шифрование](https://habr.com/ru/post/717482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
