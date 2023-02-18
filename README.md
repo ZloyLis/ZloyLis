@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все, что вы хотели знать о задаче определения остаточного ресурса оборудования](https://habr.com/ru/post/717812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717812)
 - [Solana смарт-контракты на Rust для самых маленьких](https://habr.com/ru/post/716312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716312)
 - [Гайд по эвент-сорсингу](https://habr.com/ru/post/717774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717774)
 - [Больше Linux-устройств хороших и разных: портативный «наладонник» из Китая, док-станция для Librem 5 и кое-что еще](https://habr.com/ru/post/717276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717276)
 - [Hashmap&lpar;map&rpar; по версии Golang. Часть 2](https://habr.com/ru/post/717724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717724)
-- [Анализ кода в Flutter-приложениях и настройка сборочной линии Gitlab CI для анализа](https://habr.com/ru/post/717708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
