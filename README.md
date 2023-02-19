@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] История моделирования лесных пожаров](https://habr.com/ru/post/716974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716974)
 - [Внедрение low-code платформы — стратегия лоскутного покрытия](https://habr.com/ru/post/717872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717872)
 - [Пет-прожекты без идеи как признак среднего разработчика или кем бы ты ни был — смотрим шире себя](https://habr.com/ru/post/717870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717870)
 - [Спик инглиш, парле франсэ, шпрехен зи дойч, 说中文: дайджест для тех, кто идёт до конца](https://habr.com/ru/post/717868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717868)
 - [Знакомство с указателями в Паскале](https://habr.com/ru/post/717866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717866)
-- [[Перевод] 5 простых способов выйти из вложенных циклов в Python](https://habr.com/ru/post/717864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
