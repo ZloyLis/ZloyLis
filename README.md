@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AR Face tracking в Unity3d под Android/IOS](https://habr.com/ru/post/717908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717908)
 - [Как тестировщику критиковать и сохранить хорошие отношения с командой?](https://habr.com/ru/post/717904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717904)
 - [[Перевод] Давно забытый ExecuteExcel4Macro](https://habr.com/ru/post/717902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717902)
 - [HTTP MITMProxy — помощник в разработке и тестировании](https://habr.com/ru/post/717882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717882)
 - [Создаем свой собственный язык программирования с использованием LLVM. Часть 3: Генерация кода](https://habr.com/ru/post/717886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717886)
-- [Программы пишут программы, или стоит ли разработчикам осваивать новые профессии](https://habr.com/ru/post/717874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
