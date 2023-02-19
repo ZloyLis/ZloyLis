@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Знакомство с указателями в Паскале](https://habr.com/ru/post/717866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717866)
+- [[Перевод] 5 простых способов выйти из вложенных циклов в Python](https://habr.com/ru/post/717864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717864)
 - [16 советов, как повысить мотивацию к учебе](https://habr.com/ru/post/717860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717860)
 - [[Перевод] Компилятор с полностью гомоморфным шифрованием от Google](https://habr.com/ru/post/717848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717848)
 - [Запускаем Kubernetes Ingress-контроллер c публичным ip на домашнем ноутбуке](https://habr.com/ru/post/717842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717842)
-- [Рекурсивное название небольшой статьи о рекурсии](https://habr.com/ru/post/717818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717818)
-- [Все, что вы хотели знать о задаче определения остаточного ресурса оборудования](https://habr.com/ru/post/717812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
