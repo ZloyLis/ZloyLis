@@ -36,9 +36,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Рекурсивное название небольшой статьи о рекурсии](https://habr.com/ru/post/717818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717818)
 - [Все, что вы хотели знать о задаче определения остаточного ресурса оборудования](https://habr.com/ru/post/717812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717812)
+- [[Перевод] Что нового завезли в DevTools &lpar;Chrome 111&rpar;](https://habr.com/ru/post/717800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717800)
 - [Solana смарт-контракты на Rust для самых маленьких](https://habr.com/ru/post/716312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716312)
 - [Гайд по эвент-сорсингу](https://habr.com/ru/post/717774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717774)
-- [Больше Linux-устройств хороших и разных: портативный «наладонник» из Китая, док-станция для Librem 5 и кое-что еще](https://habr.com/ru/post/717276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
