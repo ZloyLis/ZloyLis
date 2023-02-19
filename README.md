@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP MITMProxy — помощник в разработке и тестировании](https://habr.com/ru/post/717882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717882)
+- [Создаем свой собственный язык программирования с использованием LLVM. Часть 3: Генерация кода](https://habr.com/ru/post/717886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717886)
 - [Программы пишут программы, или стоит ли разработчикам осваивать новые профессии](https://habr.com/ru/post/717874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717874)
 - [[Перевод] История моделирования лесных пожаров](https://habr.com/ru/post/716974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716974)
 - [Внедрение low-code платформы — стратегия лоскутного покрытия](https://habr.com/ru/post/717872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717872)
-- [Пет-прожекты без идеи как признак среднего разработчика или кем бы ты ни был — смотрим шире себя](https://habr.com/ru/post/717870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717870)
-- [Спик инглиш, парле франсэ, шпрехен зи дойч, 说中文: дайджест для тех, кто идёт до конца](https://habr.com/ru/post/717868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
