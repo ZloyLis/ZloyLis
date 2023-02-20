@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы провели мероприятие по оптимизации использования железа и что от него получили](https://habr.com/ru/post/718046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718046)
+- [[Перевод] Лучшая задача по программированию для собеседования](https://habr.com/ru/post/717988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717988)
+- [Как подготовиться ко всему?](https://habr.com/ru/post/717880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717880)
+- [[recovery mode] Меры поддержки ИТ-компаний: нюансы применения льгот в 2023 году](https://habr.com/ru/post/718040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718040)
 - [[Перевод] Как избавиться от проверок выхода за границы при доступе по индексу в Rust &lpar;без unsafe!&rpar;. Часть 1](https://habr.com/ru/post/718012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718012)
-- [React Spectrum — создание компонентов нового поколения](https://habr.com/ru/post/718000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718000)
-- [C++23 — финал, C++26 — начало](https://habr.com/ru/post/715358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715358)
-- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 9](https://habr.com/ru/post/716740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716740)
-- [С чем едят конечный автомат](https://habr.com/ru/post/717628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
