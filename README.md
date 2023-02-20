@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] OpenAPI Comparator — детектор изменений, ломающих [большие] API](https://habr.com/ru/post/717918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717918)
 - [[recovery mode] CMS, CMF … CMG &lpar;Content management generator&rpar;](https://habr.com/ru/post/717706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717706)
 - [Мобильная разработка за неделю #476 &lpar;13 — 19 февраля&rpar;](https://habr.com/ru/post/717920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717920)
 - [PowerShell и LiveJournal &lpar;ЖЖ&rpar;: три способа аутентификации](https://habr.com/ru/post/717914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717914)
 - [AR Face tracking в Unity3d под Android/IOS](https://habr.com/ru/post/717908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717908)
-- [Как тестировщику критиковать и сохранить хорошие отношения с командой?](https://habr.com/ru/post/717904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
