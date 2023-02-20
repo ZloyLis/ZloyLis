@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С чем едят конечный автомат](https://habr.com/ru/post/717628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717628)
+- [Пишем типизированный DI-контейнер для iOS приложения. Часть 2. Жизненные циклы](https://habr.com/ru/post/713848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713848)
+- [Schema Registry с Protobuf в Kafka — зачем оно надо?](https://habr.com/ru/post/715298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715298)
 - [Подборка полезных ссылок для разработчиков игр #1](https://habr.com/ru/post/717936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717936)
 - [Что нам несет Python 3.12](https://habr.com/ru/post/717420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717420)
-- [Конструктор в мире коммуникаций: обзор платформы МТС Exolve](https://habr.com/ru/post/717824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717824)
-- [[Перевод] OpenAPI Comparator — детектор изменений, ломающих [большие] API](https://habr.com/ru/post/717918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717918)
-- [[recovery mode] CMS, CMF … CMG &lpar;Content management generator&rpar;](https://habr.com/ru/post/717706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
