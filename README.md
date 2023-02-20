@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как избавиться от проверок выхода за границы при доступе по индексу в Rust &lpar;без unsafe!&rpar;. Часть 1](https://habr.com/ru/post/718012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718012)
+- [React Spectrum — создание компонентов нового поколения](https://habr.com/ru/post/718000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718000)
 - [C++23 — финал, C++26 — начало](https://habr.com/ru/post/715358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715358)
 - [[Перевод] Полное руководство по модулю asyncio в Python. Часть 9](https://habr.com/ru/post/716740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716740)
 - [С чем едят конечный автомат](https://habr.com/ru/post/717628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717628)
-- [Пишем типизированный DI-контейнер для iOS приложения. Часть 2. Жизненные циклы](https://habr.com/ru/post/713848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713848)
-- [Schema Registry с Protobuf в Kafka — зачем оно надо?](https://habr.com/ru/post/715298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
