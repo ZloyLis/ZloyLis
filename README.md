@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка полезных ссылок для разработчиков игр #1](https://habr.com/ru/post/717936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717936)
+- [Что нам несет Python 3.12](https://habr.com/ru/post/717420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717420)
+- [Конструктор в мире коммуникаций: обзор платформы МТС Exolve](https://habr.com/ru/post/717824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717824)
 - [[Перевод] OpenAPI Comparator — детектор изменений, ломающих [большие] API](https://habr.com/ru/post/717918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717918)
 - [[recovery mode] CMS, CMF … CMG &lpar;Content management generator&rpar;](https://habr.com/ru/post/717706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717706)
-- [Мобильная разработка за неделю #476 &lpar;13 — 19 февраля&rpar;](https://habr.com/ru/post/717920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717920)
-- [PowerShell и LiveJournal &lpar;ЖЖ&rpar;: три способа аутентификации](https://habr.com/ru/post/717914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717914)
-- [AR Face tracking в Unity3d под Android/IOS](https://habr.com/ru/post/717908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
