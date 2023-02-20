@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++23 — финал, C++26 — начало](https://habr.com/ru/post/715358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715358)
+- [[Перевод] Полное руководство по модулю asyncio в Python. Часть 9](https://habr.com/ru/post/716740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716740)
 - [С чем едят конечный автомат](https://habr.com/ru/post/717628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717628)
 - [Пишем типизированный DI-контейнер для iOS приложения. Часть 2. Жизненные циклы](https://habr.com/ru/post/713848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713848)
 - [Schema Registry с Protobuf в Kafka — зачем оно надо?](https://habr.com/ru/post/715298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715298)
-- [Подборка полезных ссылок для разработчиков игр #1](https://habr.com/ru/post/717936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717936)
-- [Что нам несет Python 3.12](https://habr.com/ru/post/717420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
