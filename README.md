@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT и Java Back-End Spring Boot](https://habr.com/ru/post/718082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718082)
+- [Почему коптеры не летают долго?](https://habr.com/ru/post/718078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718078)
 - [Как мы провели мероприятие по оптимизации использования железа и что от него получили](https://habr.com/ru/post/718046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718046)
 - [[Перевод] Лучшая задача по программированию для собеседования](https://habr.com/ru/post/717988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717988)
 - [Как подготовиться ко всему?](https://habr.com/ru/post/717880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717880)
-- [[recovery mode] Меры поддержки ИТ-компаний: нюансы применения льгот в 2023 году](https://habr.com/ru/post/718040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718040)
-- [[Перевод] Как избавиться от проверок выхода за границы при доступе по индексу в Rust &lpar;без unsafe!&rpar;. Часть 1](https://habr.com/ru/post/718012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
