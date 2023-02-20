@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;13.02 – 19.02.23&rpar;](https://habr.com/ru/post/718166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718166)
+- [Security Week 2308: слежка за владельцами iPhone через бэкапы](https://habr.com/ru/post/718052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718052)
 - [Как сделать SILO-структуру сайта](https://habr.com/ru/post/718156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718156)
 - [Причины отказа в приеме на работу и что на самом деле за ними стоит](https://habr.com/ru/post/718152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718152)
 - [Ищем альтернативу и упрощаем работу с JSON](https://habr.com/ru/post/718140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718140)
-- [Учимся учиться или как получить реальную пользу от курсов](https://habr.com/ru/post/718120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718120)
-- [PCI DSS и ГОСТ Р 57580.1-2017 вместе — дешевле?](https://habr.com/ru/post/718104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
