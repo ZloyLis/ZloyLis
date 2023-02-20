@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я учусь на разработчика игр в Московском Политехе](https://habr.com/ru/post/718176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718176)
 - [Apple Pro Weekly News &lpar;13.02 – 19.02.23&rpar;](https://habr.com/ru/post/718166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718166)
 - [Security Week 2308: слежка за владельцами iPhone через бэкапы](https://habr.com/ru/post/718052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718052)
 - [Как сделать SILO-структуру сайта](https://habr.com/ru/post/718156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718156)
 - [Причины отказа в приеме на работу и что на самом деле за ними стоит](https://habr.com/ru/post/718152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718152)
-- [Ищем альтернативу и упрощаем работу с JSON](https://habr.com/ru/post/718140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
