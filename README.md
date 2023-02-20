@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ищем альтернативу и упрощаем работу с JSON](https://habr.com/ru/post/718140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718140)
 - [Учимся учиться или как получить реальную пользу от курсов](https://habr.com/ru/post/718120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718120)
 - [PCI DSS и ГОСТ Р 57580.1-2017 вместе — дешевле?](https://habr.com/ru/post/718104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718104)
 - [XSS атакует! Краткий обзор XSS уязвимостей](https://habr.com/ru/post/717896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717896)
 - [ChatGPT и Java Back-End Spring Boot](https://habr.com/ru/post/718082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718082)
-- [Почему коптеры не летают долго?](https://habr.com/ru/post/718078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
