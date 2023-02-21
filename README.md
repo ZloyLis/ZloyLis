@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [90 лет со дня рождения Игоря Васильевича Поттосина](https://habr.com/ru/post/717338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717338)
-- [Javascript: базовые вопросы и понятия для самых маленьких](https://habr.com/ru/post/718130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718130)
-- [[Перевод] Пишем GPT в 60 строк NumPy &lpar;окончание, 2/2&rpar;](https://habr.com/ru/post/717644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717644)
-- [SQL HowTo: крупицы золота в реестре](https://habr.com/ru/post/718092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718092)
-- [Rust быстрее всех, Miiao сделал замеры](https://habr.com/ru/post/718186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718186)
+- [На расстоянии плевка: специфика работы лидом во внутренней разработке](https://habr.com/ru/post/717414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717414)
+- [Зачем нужен личный сайт в 2023 году](https://habr.com/ru/post/717952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717952)
+- [[Перевод] Эволюция архитектуры приложения Facebook для iOS](https://habr.com/ru/post/716816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716816)
+- [[Перевод] Business Intelligence и бизнес-аналитика: стратегия, этапы, процессы и инструменты](https://habr.com/ru/post/714910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714910)
+- [Пошаговый гайд: как мы ВКонтакте делаем собственный переводчик](https://habr.com/ru/post/718194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
