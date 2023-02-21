@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного о безопасности Kubernetes](https://habr.com/ru/post/718178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718178)
+- [Хранение токена доступа в сервис-воркере](https://habr.com/ru/post/718320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718320)
+- [Методы анализа A/B тестов: как выбрать правильный метод для каждого типа метрик и размера выборки](https://habr.com/ru/post/718336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718336)
+- [Книга «Грокаем алгоритмы искусcтвенного интеллекта»](https://habr.com/ru/post/717660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717660)
 - [Live coding интервью для iOS разработчиков](https://habr.com/ru/post/718334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718334)
-- [Рекомендации по увеличению скорости для Next.js приложения](https://habr.com/ru/post/718160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718160)
-- [Что должен уметь Frontend разработчик в 2023 году &lpar;+Roadmap&rpar;](https://habr.com/ru/post/718286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718286)
-- [Топ вопросов на Junior собеседованиях](https://habr.com/ru/post/718282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718282)
-- [[Перевод] Лидерство в Тестировании: Определение Стратегии Тестирования](https://habr.com/ru/post/716894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
