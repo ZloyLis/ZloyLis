@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [АБ-тесты — это не только ценный мех… Но еще и процессы](https://habr.com/ru/post/716110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716110)
+- [Рекомендации по увеличению скорости для Next.js приложения](https://habr.com/ru/post/718160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718160)
+- [Что должен уметь Frontend разработчик в 2023 году &lpar;+Roadmap&rpar;](https://habr.com/ru/post/718286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718286)
+- [Топ вопросов на Junior собеседованиях](https://habr.com/ru/post/718282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718282)
 - [[Перевод] Лидерство в Тестировании: Определение Стратегии Тестирования](https://habr.com/ru/post/716894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716894)
-- [Сколько стоит содержать виртуальную девушку? Создаем подругу, записывающую кружочки в Telegram, с помощью 4 нейросетей](https://habr.com/ru/post/718134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718134)
-- [[Перевод] Call Stack Logger — инструментирование функций как способ отслеживания потока выполнения программы](https://habr.com/ru/post/718258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718258)
-- [На расстоянии плевка: специфика работы лидом во внутренней разработке](https://habr.com/ru/post/717414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717414)
-- [Зачем нужен личный сайт в 2023 году](https://habr.com/ru/post/717952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
