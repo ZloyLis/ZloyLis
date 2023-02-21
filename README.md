@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Псалом параноика: мессенджер с максимальной безопасностью](https://habr.com/ru/post/718348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718348)
 - [[Перевод] Сетевые политики на защите рабочих нагрузок в кластере Kubernetes](https://habr.com/ru/post/718262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718262)
 - [Немного о безопасности Kubernetes](https://habr.com/ru/post/718178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718178)
 - [Хранение токена доступа в сервис-воркере](https://habr.com/ru/post/718320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718320)
 - [Методы анализа A/B тестов: как выбрать правильный метод для каждого типа метрик и размера выборки](https://habr.com/ru/post/718336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718336)
-- [Книга «Грокаем алгоритмы искусcтвенного интеллекта»](https://habr.com/ru/post/717660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
