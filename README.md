@@ -34,7 +34,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [АБ-тесты — это не только ценный мех… Но еще и процессы](https://habr.com/ru/post/716110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716110)
+- [Live coding интервью для iOS разработчиков](https://habr.com/ru/post/718334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718334)
 - [Рекомендации по увеличению скорости для Next.js приложения](https://habr.com/ru/post/718160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718160)
 - [Что должен уметь Frontend разработчик в 2023 году &lpar;+Roadmap&rpar;](https://habr.com/ru/post/718286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718286)
 - [Топ вопросов на Junior собеседованиях](https://habr.com/ru/post/718282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718282)
