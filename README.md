@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [90 лет со дня рождения Игоря Васильевича Поттосина](https://habr.com/ru/post/717338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717338)
+- [Javascript: базовые вопросы и понятия для самых маленьких](https://habr.com/ru/post/718130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718130)
 - [[Перевод] Пишем GPT в 60 строк NumPy &lpar;окончание, 2/2&rpar;](https://habr.com/ru/post/717644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717644)
 - [SQL HowTo: крупицы золота в реестре](https://habr.com/ru/post/718092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718092)
 - [Rust быстрее всех, Miiao сделал замеры](https://habr.com/ru/post/718186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718186)
-- [Борьба с современным Web. Создаём расширение для скачивания видео из VK](https://habr.com/ru/post/718182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718182)
-- [[Перевод] Квантовая теория поля открывает пути к решению математической головоломки](https://habr.com/ru/post/718026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
