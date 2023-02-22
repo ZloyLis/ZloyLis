@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Самодостаточный системный подход с применением мультиплатформенного Kotlin](https://habr.com/ru/post/718576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718576)
 - [Как мы создавали Нативатор — SaaS, который работает сам на себе, часть 1 — Заказы](https://habr.com/ru/post/718594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718594)
 - [Spring Cloud DataFlow overview](https://habr.com/ru/post/718572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718572)
 - [Шаблоны тест-кейсов по API, тест-кейсы по идемпотентности](https://habr.com/ru/post/718560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718560)
 - [[Перевод] Live Text API в iOS 16 — сканирование данных с помощью камеры в SwiftUI](https://habr.com/ru/post/718554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718554)
-- [Зачем мигрировать с go build на Bazel?](https://habr.com/ru/post/718340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
