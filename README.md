@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП горячих клавиш VS Code для начинающего джуна](https://habr.com/ru/post/718662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718662)
 - [[Перевод] Неявные параметры. Когда их следует использовать? Часть 1](https://habr.com/ru/post/718628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718628)
 - [Свой Firebase за 7$ или практический опыт внедрения Appwrite как сервера для мобильного приложения](https://habr.com/ru/post/718574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718574)
 - [Основы OkHttp в Android-разработке](https://habr.com/ru/post/717900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717900)
 - [Фреймворки и инструменты для BDD тестирования, на которые следует обратить внимание](https://habr.com/ru/post/718318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718318)
-- [[Перевод] Самодостаточный системный подход с применением мультиплатформенного Kotlin](https://habr.com/ru/post/718576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
