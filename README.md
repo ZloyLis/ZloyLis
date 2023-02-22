@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud DataFlow overview](https://habr.com/ru/post/718572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718572)
+- [Шаблоны тест-кейсов по API, тест-кейсы по идемпотентности](https://habr.com/ru/post/718560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718560)
+- [[Перевод] Live Text API в iOS 16 — сканирование данных с помощью камеры в SwiftUI](https://habr.com/ru/post/718554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718554)
 - [Зачем мигрировать с go build на Bazel?](https://habr.com/ru/post/718340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718340)
 - [Деплой Telegram бота на VPS | Webhooks + Java + Spring Boot](https://habr.com/ru/post/718536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718536)
-- [[Перевод] Иерархические пространства имен в Kubernetes: объясняем на примере](https://habr.com/ru/post/717938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717938)
-- [«Бесконечность не предел» или краткая история отеля Hilbert](https://habr.com/ru/post/717980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717980)
-- [Зачем кодить, если можно не кодить? Часть 2: Google Sheets и Notion](https://habr.com/ru/post/718492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
