@@ -37,8 +37,8 @@ ___
 - [Оценка количества простых циклов на графе](https://habr.com/ru/post/718674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718674)
 - [Как построить MVP системы для удобной работы аналитика без Docker, Kubernetes и Airflow](https://habr.com/ru/post/718670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718670)
 - [ТОП горячих клавиш VS Code для начинающего джуна](https://habr.com/ru/post/718662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718662)
+- [[Перевод] Транскрипция речи с открытым исходным кодом](https://habr.com/ru/post/718654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718654)
 - [[Перевод] Неявные параметры. Когда их следует использовать? Часть 1](https://habr.com/ru/post/718628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718628)
-- [Свой Firebase за 7$ или практический опыт внедрения Appwrite как сервера для мобильного приложения](https://habr.com/ru/post/718574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
