@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем кодить, если можно не кодить? Часть 2: Google Sheets и Notion](https://habr.com/ru/post/718492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718492)
 - [[Перевод] Что ждёт Flutter в будущем](https://habr.com/ru/post/718500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718500)
 - [Как осознать себя в роли руководителя тимлидов](https://habr.com/ru/post/718412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718412)
 - [История о том, как мы на Module Federation съезжали. Часть 1](https://habr.com/ru/post/718302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718302)
 - [95 лет изобретателю Бейсика Томасу Курцу](https://habr.com/ru/post/717608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717608)
-- [Параллельный запуск тестов utPLSQL &lpar;Oracle&rpar;](https://habr.com/ru/post/718472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
