@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Параллельный запуск тестов utPLSQL &lpar;Oracle&rpar;](https://habr.com/ru/post/718472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718472)
+- [[Перевод] Как избежать скрытых опасностей: обход неочевидных ловушек в машинном обучении &lpar;ML&rpar; на iOS](https://habr.com/ru/post/716594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716594)
 - [Обработка естественного языка &lpar;NLP&rpar;. Личный опыт — мой первый запуск BERT](https://habr.com/ru/post/718352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718352)
 - [Как стать системным аналитиком, если ты гуманитарий](https://habr.com/ru/post/718386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718386)
 - [[Перевод] Как работает поиск по коду на Github](https://habr.com/ru/post/718350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718350)
-- [Заходи в zoom как батя](https://habr.com/ru/post/718422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718422)
-- [[recovery mode] Псалом параноика: мессенджер с максимальной безопасностью](https://habr.com/ru/post/718348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
