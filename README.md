@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обработка естественного языка &lpar;NLP&rpar;. Личный опыт — мой первый запуск BERT](https://habr.com/ru/post/718352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718352)
+- [Как стать системным аналитиком, если ты гуманитарий](https://habr.com/ru/post/718386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718386)
 - [[Перевод] Как работает поиск по коду на Github](https://habr.com/ru/post/718350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718350)
 - [Заходи в zoom как батя](https://habr.com/ru/post/718422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718422)
 - [[recovery mode] Псалом параноика: мессенджер с максимальной безопасностью](https://habr.com/ru/post/718348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718348)
-- [[Перевод] Сетевые политики на защите рабочих нагрузок в кластере Kubernetes](https://habr.com/ru/post/718262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718262)
-- [Как изучать язык Python для веб-разработки в 2023 году. Общие ориентиры](https://habr.com/ru/post/718376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
