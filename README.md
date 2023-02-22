@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что ждёт Flutter в будущем](https://habr.com/ru/post/718500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718500)
+- [Как осознать себя в роли руководителя тимлидов](https://habr.com/ru/post/718412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718412)
+- [История о том, как мы на Module Federation съезжали. Часть 1](https://habr.com/ru/post/718302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718302)
+- [95 лет изобретателю Бейсика Томасу Курцу](https://habr.com/ru/post/717608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717608)
 - [Параллельный запуск тестов utPLSQL &lpar;Oracle&rpar;](https://habr.com/ru/post/718472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718472)
-- [[Перевод] Как избежать скрытых опасностей: обход неочевидных ловушек в машинном обучении &lpar;ML&rpar; на iOS](https://habr.com/ru/post/716594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716594)
-- [Обработка естественного языка &lpar;NLP&rpar;. Личный опыт — мой первый запуск BERT](https://habr.com/ru/post/718352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718352)
-- [Как стать системным аналитиком, если ты гуманитарий](https://habr.com/ru/post/718386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718386)
-- [[Перевод] Как работает поиск по коду на Github](https://habr.com/ru/post/718350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
