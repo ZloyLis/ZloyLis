@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi 5.7 для Android — Крупные ставки](https://habr.com/ru/post/718722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718722)
 - [[Перевод] 7 интересных API на JavaScript для создания веб-сайтов, о которых вы &lpar;скорее всего&rpar; не знали](https://habr.com/ru/post/718712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718712)
 - [[Перевод] Математика самонаводящихся ракет из аниме](https://habr.com/ru/post/718018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718018)
 - [Angular — API композиции директив](https://habr.com/ru/post/718692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718692)
 - [Оценка количества простых циклов на графе](https://habr.com/ru/post/718674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718674)
-- [Как построить MVP системы для удобной работы аналитика без Docker, Kubernetes и Airflow](https://habr.com/ru/post/718670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
