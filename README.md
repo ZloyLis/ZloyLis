@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как разработать Telegram-бота для генерации сложных паролей](https://habr.com/ru/post/717690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717690)
 - [Методы и способы построения нейросетевого ПО. Что надо знать, если вы решили профессионально разрабатывать ИНС. Часть 1](https://habr.com/ru/post/718750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718750)
 - [О «Гипотезе Лотерейного Билета»](https://habr.com/ru/post/718748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718748)
 - [Как мы играли в тесты на Groovy и проиграли](https://habr.com/ru/post/717892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717892)
 - [[Перевод] Отслеживание местоположения при наведении в SwiftUI](https://habr.com/ru/post/718542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718542)
-- [Vivaldi 5.7 для Android — Крупные ставки](https://habr.com/ru/post/718722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
