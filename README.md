@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенчмаркинг: пошаговая схема работы](https://habr.com/ru/post/718786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718786)
 - [Стартуем микросервис на Node.js + fastify + Typescript + prisma + mongodb + grpc](https://habr.com/ru/post/718774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718774)
 - [Как разработать Telegram-бота для генерации сложных паролей](https://habr.com/ru/post/717690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717690)
 - [Методы и способы построения нейросетевого ПО. Что надо знать, если вы решили профессионально разрабатывать ИНС. Часть 1](https://habr.com/ru/post/718750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718750)
 - [О «Гипотезе Лотерейного Билета»](https://habr.com/ru/post/718748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718748)
-- [Как мы играли в тесты на Groovy и проиграли](https://habr.com/ru/post/717892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
