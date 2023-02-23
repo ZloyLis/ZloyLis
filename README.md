@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular — API композиции директив](https://habr.com/ru/post/718692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718692)
 - [Оценка количества простых циклов на графе](https://habr.com/ru/post/718674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718674)
 - [Как построить MVP системы для удобной работы аналитика без Docker, Kubernetes и Airflow](https://habr.com/ru/post/718670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718670)
 - [ТОП горячих клавиш VS Code для начинающего джуна](https://habr.com/ru/post/718662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718662)
 - [[Перевод] Транскрипция речи с открытым исходным кодом](https://habr.com/ru/post/718654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718654)
-- [[Перевод] Неявные параметры. Когда их следует использовать? Часть 1](https://habr.com/ru/post/718628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
