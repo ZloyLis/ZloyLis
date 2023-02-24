@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как на старте брифоваться так, чтобы в конце все остались довольны?](https://habr.com/ru/post/718860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718860)
 - [[Перевод] Руководство по реализации отзывчивого дизайна в 2023 году](https://habr.com/ru/post/718700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718700)
 - [Как сократить time2market с помощью coding kata?](https://habr.com/ru/post/718746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718746)
 - [[Перевод] 7 Инструментов для оптимизации и ускорения React разработки](https://habr.com/ru/post/718820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718820)
 - [На грани отвала eMMC: Устанавливаем Android на SD-карту на любом смартфоне/планшете! Вторая жизнь для дешевых кит. устр](https://habr.com/ru/post/717956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717956)
-- [Младенцы против ИИ: оценка и сравнение психологии здравого смысла](https://habr.com/ru/post/718730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
