@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Пятничное] 10 удивительно зрелищных простейших клеточных автоматов](https://habr.com/ru/post/718620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718620)
+- [Python для детей](https://habr.com/ru/post/718784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718784)
 - [Математическая продлёнка. Про углы и тригонометрию](https://habr.com/ru/post/718694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718694)
 - [[Перевод] Градиентные тени на CSS](https://habr.com/ru/post/718732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718732)
 - [Отправляем формы в Гугл таблицы](https://habr.com/ru/post/718790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718790)
-- [Бенчмаркинг: пошаговая схема работы](https://habr.com/ru/post/718786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718786)
-- [Стартуем микросервис на Node.js + fastify + Typescript + prisma + mongodb + grpc](https://habr.com/ru/post/718774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
