@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание «Google Sheets» через Websockets на Node.js](https://habr.com/ru/post/718780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718780)
+- [Краткий обзор Layout XML в Android. Часть 1](https://habr.com/ru/post/718890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718890)
 - [Создание модуля WebAssembly с помощью Emscripten, AssemblyScript и Rust](https://habr.com/ru/post/718874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718874)
 - [Реализация конфигурируемого SaaS решения via ArgoCD &amp;amp; Terraform](https://habr.com/ru/post/718866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718866)
 - [&lpar;не&rpar;очевидный механизм переводов в Android](https://habr.com/ru/post/718870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718870)
-- [Памятка по проведению брифинга с клиентом](https://habr.com/ru/post/718860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718860)
-- [[Перевод] Руководство по реализации отзывчивого дизайна в 2023 году](https://habr.com/ru/post/718700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
