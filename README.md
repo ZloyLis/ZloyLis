@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На грани отвала eMMC: Устанавливаем Android на SD-карту на любом смартфоне/планшете! Вторая жизнь для дешевых кит. устр](https://habr.com/ru/post/717956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717956)
+- [Младенцы против ИИ: оценка и сравнение психологии здравого смысла](https://habr.com/ru/post/718730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718730)
 - [[Пятничное] 10 удивительно зрелищных простейших клеточных автоматов](https://habr.com/ru/post/718620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718620)
 - [Python для детей](https://habr.com/ru/post/718784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718784)
 - [Математическая продлёнка. Про углы и тригонометрию](https://habr.com/ru/post/718694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718694)
-- [[Перевод] Градиентные тени на CSS](https://habr.com/ru/post/718732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718732)
-- [Отправляем формы в Гугл таблицы](https://habr.com/ru/post/718790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
