@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание модуля WebAssembly с помощью Emscripten, AssemblyScript и Rust](https://habr.com/ru/post/718874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718874)
+- [Реализация конфигурируемого SaaS решения via ArgoCD &amp;amp; Terraform](https://habr.com/ru/post/718866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718866)
+- [&lpar;не&rpar;очевидный механизм переводов в Android](https://habr.com/ru/post/718870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718870)
 - [Как на старте брифоваться так, чтобы в конце все остались довольны?](https://habr.com/ru/post/718860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718860)
 - [[Перевод] Руководство по реализации отзывчивого дизайна в 2023 году](https://habr.com/ru/post/718700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718700)
-- [Как сократить time2market с помощью coding kata?](https://habr.com/ru/post/718746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718746)
-- [[Перевод] 7 Инструментов для оптимизации и ускорения React разработки](https://habr.com/ru/post/718820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718820)
-- [На грани отвала eMMC: Устанавливаем Android на SD-карту на любом смартфоне/планшете! Вторая жизнь для дешевых кит. устр](https://habr.com/ru/post/717956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
