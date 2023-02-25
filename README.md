@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony](https://habr.com/ru/post/718916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718916)
 - [Алиса &lpar;голосовой помощник Яндекса&rpar; играет в Шахматы](https://habr.com/ru/post/718880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718880)
 - [Создание «Google Sheets» через Websockets на Node.js](https://habr.com/ru/post/718780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718780)
 - [Краткий обзор Layout XML в Android. Часть 1](https://habr.com/ru/post/718890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718890)
 - [Создание модуля WebAssembly с помощью Emscripten, AssemblyScript и Rust](https://habr.com/ru/post/718874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718874)
-- [Реализация конфигурируемого SaaS решения via ArgoCD &amp;amp; Terraform](https://habr.com/ru/post/718866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
