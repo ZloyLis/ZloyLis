@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое Style Queries?](https://habr.com/ru/post/718930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718930)
 - [[Перевод] Spring Security и архитектура наследования ролей в не плоской модели](https://habr.com/ru/post/718842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718842)
 - [Сказ о том как pet-project превратился в небольшой пассивный доход &lpar;часть 1&rpar;](https://habr.com/ru/post/718898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718898)
 - [Clean Architecture, DDD, гексагональная архитектура. Разбираем на практике blog на Symfony](https://habr.com/ru/post/718916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718916)
 - [Алиса &lpar;голосовой помощник Яндекса&rpar; играет в Шахматы](https://habr.com/ru/post/718880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718880)
-- [Создание «Google Sheets» через Websockets на Node.js](https://habr.com/ru/post/718780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
