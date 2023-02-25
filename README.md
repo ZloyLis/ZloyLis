@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как при помощи Rust в 150 раз ускорить код на Python](https://habr.com/ru/post/718894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718894)
 - [Пишем API автотесты на TypeScript + Playwright](https://habr.com/ru/post/718814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718814)
 - [Как быстро и легко локализовать приложение на flutter. Riverpod + slang](https://habr.com/ru/post/718310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718310)
 - [10 первых ошибок в карьере ML-инженера](https://habr.com/ru/post/718942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718942)
 - [[Перевод] Что такое Style Queries?](https://habr.com/ru/post/718930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718930)
-- [[Перевод] Spring Security и архитектура наследования ролей в не плоской модели](https://habr.com/ru/post/718842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
