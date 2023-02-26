@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Я: стажировался бекенд-разработчиком &lpar;C++&rpar; в Яндексе по программе Deep Dive &lpar;в формате буткемпа&rpar;](https://habr.com/ru/post/654739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654739)
+- [Работа с i18n — автоматизация Google Translate и другие полезные советы](https://habr.com/ru/post/718990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718990)
+- [Путешествие в космос или праймер по симплекс-методу для школьников](https://habr.com/ru/post/718460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718460)
 - [10 полезных сочетаний клавиш в PyCharm](https://habr.com/ru/post/718980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718980)
 - [Пишем простой чат с консольным интерфейсом используя трубно-ориентированное программирование с котами](https://habr.com/ru/post/717846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717846)
-- [Fitter —  сшиватель API/Website&#39;s, часть личного проекта которую хотел опенсорснуть](https://habr.com/ru/post/718972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718972)
-- [[Перевод] Как при помощи Rust в 150 раз ускорить код на Python](https://habr.com/ru/post/718894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718894)
-- [Пишем API автотесты на TypeScript + Playwright](https://habr.com/ru/post/718814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
