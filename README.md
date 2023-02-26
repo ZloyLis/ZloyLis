@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитика мобильных приложений — простыми словами для бизнеса](https://habr.com/ru/post/719024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719024)
 - [О «раздутом пузыре» нейросетей](https://habr.com/ru/post/718996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718996)
 - [Как Я: стажировался бекенд-разработчиком &lpar;C++&rpar; в Яндексе по программе Deep Dive &lpar;в формате буткемпа&rpar;](https://habr.com/ru/post/654739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=654739)
 - [Работа с i18n — автоматизация Google Translate и другие полезные советы](https://habr.com/ru/post/718990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718990)
 - [Путешествие в космос или введение в симплекс-метод для школьников](https://habr.com/ru/post/718460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718460)
-- [10 полезных сочетаний клавиш в PyCharm](https://habr.com/ru/post/718980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
