@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подробный гайд по Docker на M1](https://habr.com/ru/post/716630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716630)
+- [12 неочевидных правил проектирования REST API](https://habr.com/ru/post/719222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719222)
+- [VS Code, python, контейнеры — как обуздать эту триаду](https://habr.com/ru/post/717110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717110)
 - [Как сломанный лифт привел к появлению одного из самых популярных языков программирования](https://habr.com/ru/post/719214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719214)
 - [Бытовые проблемы добрых хакеров или жизнь в окружении стереотипов](https://habr.com/ru/post/719212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719212)
-- [Как улучшить точность ML-модели используя разведочный анализ](https://habr.com/ru/post/719206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719206)
-- [Репликация между SQL- и NoSQL-базами данных: туда и обратно](https://habr.com/ru/post/719112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719112)
-- [[Перевод] Особенности автоматического дифференцирования в PyTorch. Часть 1](https://habr.com/ru/post/719196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
