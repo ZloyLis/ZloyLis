@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не придумывайте данные для интеграционных тестов — генерируйте их](https://habr.com/ru/post/719302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719302)
+- [Путь миграции с go build на Bazel](https://habr.com/ru/post/718360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718360)
+- [Apple Pro Weekly News &lpar;20.02 – 26.02.23&rpar;](https://habr.com/ru/post/719300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719300)
 - [[Перевод] Daily bit&lpar;e&rpar; of C++ | С числами не так все просто](https://habr.com/ru/post/719288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719288)
 - [Безопасная разработка в HTML](https://habr.com/ru/post/718626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718626)
-- [Настраиваем Android-девайс для анализа трафика приложений](https://habr.com/ru/post/719272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719272)
-- [Реализация мультиоблачной стратегии для Cloud Storage в Битрикс24](https://habr.com/ru/post/717940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717940)
-- [Стрелочные функции и что о них стоит помнить](https://habr.com/ru/post/719138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
