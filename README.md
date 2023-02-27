@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как получить действенные инсайты онбордя пользователей как Superhuman](https://habr.com/ru/post/719062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719062)
 - [Мобильная разработка за неделю #477 &lpar;20 — 26 февраля&rpar;](https://habr.com/ru/post/719050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719050)
 - [Перенос URLSessionTask в background URLSession при уходе приложения в фон](https://habr.com/ru/post/719048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719048)
 - [[Перевод] Как мы чуть не взломали шифровальщик Phobos с помощью CUDA](https://habr.com/ru/post/719016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719016)
 - [Аналитика мобильных приложений — простыми словами для бизнеса](https://habr.com/ru/post/719024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719024)
-- [О «раздутом пузыре» нейросетей](https://habr.com/ru/post/718996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
