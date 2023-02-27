@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Daily bit&lpar;e&rpar; of C++ | С числами не так все просто](https://habr.com/ru/post/719288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719288)
+- [Безопасная разработка в HTML](https://habr.com/ru/post/718626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718626)
 - [Настраиваем Android-девайс для анализа трафика приложений](https://habr.com/ru/post/719272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719272)
 - [Реализация мультиоблачной стратегии для Cloud Storage в Битрикс24](https://habr.com/ru/post/717940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717940)
 - [Стрелочные функции и что о них стоит помнить](https://habr.com/ru/post/719138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719138)
-- [[Перевод] Брифинг по дженерикам Go 1.18](https://habr.com/ru/post/719262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719262)
-- [Kotlin. Ключевые слова in и out. А так же что такое ковариантность и контрвариантность](https://habr.com/ru/post/719256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
