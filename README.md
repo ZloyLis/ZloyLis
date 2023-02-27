@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на онлайновый митап про корпверс](https://habr.com/ru/post/719172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719172)
+- [Инструменты для нагрузочного тестирования](https://habr.com/ru/post/718824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718824)
+- [Ответы на частые вопросы от начинающих Android-разработчиков](https://habr.com/ru/post/719150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719150)
+- [Распределённые системы на службе ФССП России. Часть 1. МВВ](https://habr.com/ru/post/719152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719152)
 - [[recovery mode] Пути и графы](https://habr.com/ru/post/719142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719142)
-- [Как навсегда запомнить выученное — 2 самые эффективные техники запоминания](https://habr.com/ru/post/718856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718856)
-- [Что такое финансовая математика и как она поможет вам заработать](https://habr.com/ru/post/719104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719104)
-- [[Перевод] Стилизация компонентов в SwiftUI](https://habr.com/ru/post/718548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718548)
-- [Как получить действенные инсайты онбордя пользователей как Superhuman](https://habr.com/ru/post/719062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
