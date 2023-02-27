@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Приглашаем на онлайновый митап про корпверс](https://habr.com/ru/post/719172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719172)
-- [Инструменты для нагрузочного тестирования](https://habr.com/ru/post/718824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718824)
-- [Ответы на частые вопросы от начинающих Android-разработчиков](https://habr.com/ru/post/719150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719150)
-- [Распределённые системы на службе ФССП России. Часть 1. МВВ](https://habr.com/ru/post/719152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719152)
-- [[recovery mode] Пути и графы](https://habr.com/ru/post/719142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719142)
+- [Как сломанный лифт привел к появлению одного из самых популярных языков программирования](https://habr.com/ru/post/719214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719214)
+- [Бытовые проблемы добрых хакеров или жизнь в окружении стереотипов](https://habr.com/ru/post/719212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719212)
+- [Как улучшить точность ML-модели используя разведочный анализ](https://habr.com/ru/post/719206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719206)
+- [Репликация между SQL- и NoSQL-базами данных: туда и обратно](https://habr.com/ru/post/719112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719112)
+- [[Перевод] Особенности автоматического дифференцирования в PyTorch. Часть 1](https://habr.com/ru/post/719196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
