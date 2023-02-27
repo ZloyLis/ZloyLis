@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизированный доступ к GPIO и не только, часть вторая](https://habr.com/ru/post/719320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719320)
+- [Тестовые порождают боль, боль порождает тестовые](https://habr.com/ru/post/719314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719314)
 - [Не придумывайте данные для интеграционных тестов — генерируйте их](https://habr.com/ru/post/719302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719302)
 - [Путь миграции с go build на Bazel](https://habr.com/ru/post/718360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718360)
 - [Apple Pro Weekly News &lpar;20.02 – 26.02.23&rpar;](https://habr.com/ru/post/719300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719300)
-- [[Перевод] Daily bit&lpar;e&rpar; of C++ | С числами не так все просто](https://habr.com/ru/post/719288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719288)
-- [Безопасная разработка в HTML](https://habr.com/ru/post/718626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
