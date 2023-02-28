@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление личными делами на базовом уровне](https://habr.com/ru/post/719558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719558)
+- [[Перевод] У меня возникают сложности с продуктивной работой на Python](https://habr.com/ru/post/719532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719532)
 - [Настройка кластера K8S на 3 хостах CentOS](https://habr.com/ru/post/719466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719466)
 - [Security Week 2309: безопасность голосовой биометрии](https://habr.com/ru/post/719260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719260)
 - [[Перевод] Современный способ глубокого клонирования объектов в JavaScript](https://habr.com/ru/post/719460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719460)
-- [Ложь на собеседовании: ваше преимущество или риск?](https://habr.com/ru/post/719446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719446)
-- [В Kubernetes-платформе Deckhouse появилась система виртуализации нового поколения](https://habr.com/ru/post/715426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
