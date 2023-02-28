@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Quic от Google](https://habr.com/ru/post/719598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719598)
+- [Campus. Система, позволяющая управлять образовательным процессом](https://habr.com/ru/post/719596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719596)
+- [C++, параллелизм и введение в автоматное программирование в SimInTech](https://habr.com/ru/post/719592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719592)
 - [Как мне удалось найти работу через восемь месяцев после первого Hello, world](https://habr.com/ru/post/719554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719554)
 - [Список фишек Android Studio для ускорения разработки](https://habr.com/ru/post/719218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719218)
-- [Какую портативную консоль выбрать в 2023? Выбираем БУ девайс по карману](https://habr.com/ru/post/719576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719576)
-- [[Перевод] Анализ дампа кучи Java: разбираем на примерах](https://habr.com/ru/post/719434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719434)
-- [Книга «40 алгоритмов, которые должен знать каждый программист на Python»](https://habr.com/ru/post/719228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
