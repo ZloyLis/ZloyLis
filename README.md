@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что такое GitOps и почему он &lpar;почти&rpar; бесполезен. Часть 2](https://habr.com/ru/post/717098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717098)
-- [Настройка FDCAN в CubeMx](https://habr.com/ru/post/719358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719358)
-- [Плохие практики разработки, которые до сих пор встречаю в стартапах](https://habr.com/ru/post/719352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719352)
-- [[Перевод] Для обучения компьютерной математике исследователи объединяют подходы искусственного интеллекта](https://habr.com/ru/post/719338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719338)
-- [[recovery mode] Полиморфизм: подавать холодным](https://habr.com/ru/post/718888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718888)
+- [Оптимизация зубчатых передач в КОМПАС-3D с помощью приложений «Валы и механические передачи 3D» и «Оптимизация IOSO-К»](https://habr.com/ru/post/715624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715624)
+- [Полное понимание асинхронности в браузере](https://habr.com/ru/post/718084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718084)
+- [«Аналитики не нужны» — действительно ли это так?](https://habr.com/ru/post/719316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719316)
+- [Большой обзор Service Mesh: часть первая](https://habr.com/ru/post/719394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719394)
+- [Тенденции и тренды API на 2023 год: от API-First до искусственного интеллекта](https://habr.com/ru/post/719390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
