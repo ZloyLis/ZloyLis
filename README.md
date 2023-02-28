@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мне удалось найти работу через восемь месяцев после первого Hello, world](https://habr.com/ru/post/719554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719554)
+- [Список фишек Android Studio для ускорения разработки](https://habr.com/ru/post/719218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719218)
+- [Какую портативную консоль выбрать в 2023? Выбираем БУ девайс по карману](https://habr.com/ru/post/719576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719576)
 - [[Перевод] Анализ дампа кучи Java: разбираем на примерах](https://habr.com/ru/post/719434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719434)
 - [Книга «40 алгоритмов, которые должен знать каждый программист на Python»](https://habr.com/ru/post/719228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719228)
-- [Управление личными делами на базовом уровне](https://habr.com/ru/post/719558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719558)
-- [[Перевод] У меня возникают сложности с продуктивной работой на Python](https://habr.com/ru/post/719532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719532)
-- [Настройка кластера K8S на 3 хостах CentOS](https://habr.com/ru/post/719466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
