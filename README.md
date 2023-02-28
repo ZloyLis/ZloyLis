@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое GitOps и почему он &lpar;почти&rpar; бесполезен. Часть 2](https://habr.com/ru/post/717098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717098)
 - [Настройка FDCAN в CubeMx](https://habr.com/ru/post/719358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719358)
 - [Плохие практики разработки, которые до сих пор встречаю в стартапах](https://habr.com/ru/post/719352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719352)
 - [[Перевод] Для обучения компьютерной математике исследователи объединяют подходы искусственного интеллекта](https://habr.com/ru/post/719338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719338)
 - [[recovery mode] Полиморфизм: подавать холодным](https://habr.com/ru/post/718888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718888)
-- [Оптимизированный доступ к GPIO и не только, часть вторая](https://habr.com/ru/post/719320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
