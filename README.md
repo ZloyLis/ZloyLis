@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Архитектура потоковой обработки медиа-данных](https://habr.com/ru/post/719566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719566)
 - [Quic от Google](https://habr.com/ru/post/719598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719598)
 - [Campus. Система, позволяющая управлять образовательным процессом](https://habr.com/ru/post/719596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719596)
 - [C++, параллелизм и введение в автоматное программирование в SimInTech](https://habr.com/ru/post/719592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719592)
 - [Как мне удалось найти работу через восемь месяцев после первого Hello, world](https://habr.com/ru/post/719554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719554)
-- [Список фишек Android Studio для ускорения разработки](https://habr.com/ru/post/719218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
