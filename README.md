@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram* сможет работать без VPN?](https://habr.com/ru/post/719420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719420)
-- [17 вопросов по Kubernetes, которые может услышать разработчик на собеседовании](https://habr.com/ru/post/719198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719198)
-- [Оптимизация зубчатых передач в КОМПАС-3D с помощью приложений «Валы и механические передачи 3D» и «Оптимизация IOSO-К»](https://habr.com/ru/post/715624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715624)
-- [Полное понимание асинхронности в браузере](https://habr.com/ru/post/718084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718084)
-- [«Аналитики не нужны» — действительно ли это так?](https://habr.com/ru/post/719316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719316)
+- [Security Week 2309: безопасность голосовой биометрии](https://habr.com/ru/post/719260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719260)
+- [[Перевод] Современный способ глубокого клонирования объектов в JavaScript](https://habr.com/ru/post/719460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719460)
+- [Ложь на собеседовании: ваше преимущество или риск?](https://habr.com/ru/post/719446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719446)
+- [В Kubernetes-платформе Deckhouse появилась система виртуализации нового поколения](https://habr.com/ru/post/715426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715426)
+- [«Еще умнее — еще проще для пользователя»: CEO Postgres Pro Олег Бартунов о будущем СУБД, open source и астрономии](https://habr.com/ru/post/719424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
