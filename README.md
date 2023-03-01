@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Технология единого входа &lpar;Single Sign-On&rpar; в Kubernetes: реализация на примере VK Cloud](https://habr.com/ru/post/718332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718332)
+- [Меры поддержки ИТ-компаний в 2023 году: льготная ипотека для сотрудников](https://habr.com/ru/post/719712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719712)
+- [«Твоя моя не понимай» — когнитивные аспекты обмена знаниями](https://habr.com/ru/post/673586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673586)
+- [Почему Banditypes — самая маленькая TS-библиотека для валидации схем](https://habr.com/ru/post/719708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719708)
 - [Как Android-разработчику избавиться от комплекса доменной неполноценности](https://habr.com/ru/post/719498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719498)
-- [iOS-разработка со SnapKit: спасаем консоль от простыни ошибок и ускоряем отрисовку UI](https://habr.com/ru/post/719474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719474)
-- [Все про Школу анализа данных от Яндекса](https://habr.com/ru/post/719692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719692)
-- [Разделяй и властвуй. Как разбить приложение на модули в XCode](https://habr.com/ru/post/719638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719638)
-- [5 вредных советов начинающему тестировщику](https://habr.com/ru/post/719672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
