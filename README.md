@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы удалили упоминания запрещённых сетей из всех продуктов при помощи нейросети: кейс Нетологии](https://habr.com/ru/post/719794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719794)
+- [Облачный Bitrix: оно того стоит](https://habr.com/ru/post/711676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711676)
 - [Монады на JS/TS в дикой жизни](https://habr.com/ru/post/719790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719790)
-- [Как я выиграл Станцию Макс](https://habr.com/ru/post/719784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719784)
 - [Фукуяма, NAT, TCP и кротовые норы](https://habr.com/ru/post/719626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719626)
 - [Spring Data JPA и upsert](https://habr.com/ru/post/719432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719432)
-- [[Перевод] No-code для бизнес-аналитиков](https://habr.com/ru/post/719728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
