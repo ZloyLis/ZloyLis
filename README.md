@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Android-разработчику избавиться от комплекса доменной неполноценности](https://habr.com/ru/post/719498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719498)
+- [iOS-разработка со SnapKit: спасаем консоль от простыни ошибок и ускоряем отрисовку UI](https://habr.com/ru/post/719474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719474)
+- [Все про Школу анализа данных от Яндекса](https://habr.com/ru/post/719692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719692)
 - [Разделяй и властвуй. Как разбить приложение на модули в XCode](https://habr.com/ru/post/719638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719638)
 - [5 вредных советов начинающему тестировщику](https://habr.com/ru/post/719672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719672)
-- [Объяснение NFT простыми словами на примере Dapper платформ и печенек Oreo](https://habr.com/ru/post/719428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719428)
-- [Навеяно проблемой четырёх красок](https://habr.com/ru/post/719646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719646)
-- [[recovery mode] Архитектура потоковой обработки медиа-данных](https://habr.com/ru/post/719566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
