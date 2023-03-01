@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Руководство по возможностям языка Java версий 8-19](https://habr.com/ru/post/719744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719744)
+- [Чем отличаются и на что влияют типы CDN: P2P, Push и Pull](https://habr.com/ru/post/719848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719848)
 - [Программа для магазина на Android, ч. 2 — Нативатор Касса](https://habr.com/ru/post/718918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718918)
 - [Вариант реализации DSL с помощью макросов](https://habr.com/ru/post/719332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719332)
 - [Технический долг. Как не обанкротиться](https://habr.com/ru/post/719836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719836)
-- [Обзор сервисов внешней аналитики маркетплейсов 2023 года: бесплатные, платные, что умеют и не умеют, какой выбрать](https://habr.com/ru/post/719834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719834)
-- [Kubernetes Observability: Prometheus and Grafana](https://habr.com/ru/post/719824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
