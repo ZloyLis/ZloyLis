@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Монады на JS/TS в дикой жизни](https://habr.com/ru/post/719790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719790)
+- [Как я выиграл Станцию Макс](https://habr.com/ru/post/719784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719784)
 - [Фукуяма, NAT, TCP и кротовые норы](https://habr.com/ru/post/719626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719626)
 - [Spring Data JPA и upsert](https://habr.com/ru/post/719432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719432)
 - [[Перевод] No-code для бизнес-аналитиков](https://habr.com/ru/post/719728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719728)
-- [Технология единого входа &lpar;Single Sign-On&rpar; в Kubernetes: реализация на примере VK Cloud](https://habr.com/ru/post/718332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718332)
-- [Меры поддержки ИТ-компаний в 2023 году: льготная ипотека для сотрудников](https://habr.com/ru/post/719712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
