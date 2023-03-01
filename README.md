@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Руководство по цветовым функциям CSS](https://habr.com/ru/post/719774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719774)
-- [Как мы удалили упоминания запрещённых сетей из всех продуктов при помощи нейросети: кейс Нетологии](https://habr.com/ru/post/719794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719794)
-- [Облачный Bitrix: оно того стоит](https://habr.com/ru/post/711676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711676)
-- [Монады на JS/TS в дикой жизни](https://habr.com/ru/post/719790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719790)
-- [Фукуяма, NAT, TCP и кротовые норы](https://habr.com/ru/post/719626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719626)
+- [Программа для магазина на Android, ч. 2 — Нативатор Касса](https://habr.com/ru/post/718918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718918)
+- [Вариант реализации DSL с помощью макросов](https://habr.com/ru/post/719332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719332)
+- [Технический долг. Как не обанкротиться](https://habr.com/ru/post/719836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719836)
+- [Обзор сервисов внешней аналитики маркетплейсов 2023 года: бесплатные, платные, что умеют и не умеют, какой выбрать](https://habr.com/ru/post/719834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719834)
+- [Kubernetes Observability: Prometheus and Grafana](https://habr.com/ru/post/719824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
