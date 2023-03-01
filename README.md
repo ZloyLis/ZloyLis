@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 вредных советов начинающему тестировщику](https://habr.com/ru/post/719672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719672)
 - [Объяснение NFT простыми словами на примере Dapper платформ и печенек Oreo](https://habr.com/ru/post/719428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719428)
 - [Навеяно проблемой четырёх красок](https://habr.com/ru/post/719646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719646)
 - [[recovery mode] Архитектура потоковой обработки медиа-данных](https://habr.com/ru/post/719566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719566)
 - [Quic от Google](https://habr.com/ru/post/719598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719598)
-- [Campus. Система, позволяющая управлять образовательным процессом](https://habr.com/ru/post/719596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
