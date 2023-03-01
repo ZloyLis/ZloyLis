@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка кросплатформенного приложения на Qt с использованием нейросетей, обученных на tensorflow](https://habr.com/ru/post/719888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719888)
 - [Как кастомизировать стандартные страницы ошибок](https://habr.com/ru/post/719882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719882)
 - [[Перевод] Руководство по возможностям языка Java версий 8-19](https://habr.com/ru/post/719744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719744)
 - [Чем отличаются и на что влияют типы CDN: P2P, Push и Pull](https://habr.com/ru/post/719848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719848)
 - [Программа для магазина на Android, ч. 2 — Нативатор Касса](https://habr.com/ru/post/718918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718918)
-- [Вариант реализации DSL &lpar;domain-specific language&rpar; с помощью макросов](https://habr.com/ru/post/719332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
