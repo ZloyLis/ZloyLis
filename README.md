@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фукуяма, NAT, TCP и кротовые норы](https://habr.com/ru/post/719626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719626)
+- [Spring Data JPA и upsert](https://habr.com/ru/post/719432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719432)
+- [[Перевод] No-code для бизнес-аналитиков](https://habr.com/ru/post/719728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719728)
 - [Технология единого входа &lpar;Single Sign-On&rpar; в Kubernetes: реализация на примере VK Cloud](https://habr.com/ru/post/718332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718332)
 - [Меры поддержки ИТ-компаний в 2023 году: льготная ипотека для сотрудников](https://habr.com/ru/post/719712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719712)
-- [«Твоя моя не понимай» — когнитивные аспекты обмена знаниями](https://habr.com/ru/post/673586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=673586)
-- [Почему Banditypes — самая маленькая TS-библиотека для валидации схем](https://habr.com/ru/post/719708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719708)
-- [Как Android-разработчику избавиться от комплекса доменной неполноценности](https://habr.com/ru/post/719498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
