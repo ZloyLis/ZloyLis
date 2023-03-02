@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хорошо ли ChatGPT ищет ошибки в коде?](https://habr.com/ru/post/719958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719958)
+- [Vite, SVG и карьерные свичи: рассказываем, как прошел митап #DevTalks о фронтенде](https://habr.com/ru/post/719780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719780)
 - [[recovery mode] Spring Cloud OpenFeign и авторизация &lpar;OAuth2&rpar;. Ещё проще](https://habr.com/ru/post/719934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719934)
 - [Работаем с таблицами с помощью React Table](https://habr.com/ru/post/719796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719796)
 - [Точность — вежливость Scala’лазов: разбираем уточняющие типы данных и практику их применения](https://habr.com/ru/post/719488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719488)
-- [Дизайн-спринты: как они помогут вашей команде и лично вам](https://habr.com/ru/post/719930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719930)
-- [Разработка кросплатформенного приложения на Qt с использованием нейросетей, обученных на tensorflow](https://habr.com/ru/post/719888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
