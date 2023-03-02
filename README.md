@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular. Работа с template-driven формами](https://habr.com/ru/post/720084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720084)
+- [Как и зачем оценивают индекс зрелости ИИ](https://habr.com/ru/post/720076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720076)
 - [KeyCloak и микро-сервисы. Как облегчить жизнь программисту](https://habr.com/ru/post/720070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720070)
 - [Безопасная информатизация: как мы создали единую инфраструктуру для всех бюджетных учреждений республики](https://habr.com/ru/post/720006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720006)
 - [MapReduce: как и зачем?](https://habr.com/ru/post/720050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720050)
-- [[Перевод] MDos — Стек Kubernetes с открытым исходным кодом](https://habr.com/ru/post/720040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720040)
-- [Книга «Алгоритмы на практике»](https://habr.com/ru/post/719968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
