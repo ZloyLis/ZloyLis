@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KMongo и неструктурированные данные](https://habr.com/ru/post/719860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719860)
+- [Подготовка шаблона приложения на Typescript с Nest, Nuxt 3 и Docker](https://habr.com/ru/post/720000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720000)
 - [Один плагин, чтоб править всеми. Как разработать сканер на Flutter для 3 платформ и ускорить ввод данных в 2 раза](https://habr.com/ru/post/719664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719664)
 - [PostgreSQL под капотом. Часть 4. Цикл бэкэнда](https://habr.com/ru/post/714840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714840)
 - [Наставничество и ревьюерство как апскилинг для мидла](https://habr.com/ru/post/719844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719844)
-- [Scala Digest. Выпуск 2](https://habr.com/ru/post/719926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719926)
-- [Хорошо ли ChatGPT ищет ошибки в коде?](https://habr.com/ru/post/719958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
