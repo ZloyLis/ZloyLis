@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL под капотом. Часть 4. Цикл бэкэнда](https://habr.com/ru/post/714840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714840)
+- [Наставничество и ревьюерство как апскилинг для мидла](https://habr.com/ru/post/719844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719844)
+- [Scala Digest. Выпуск 2](https://habr.com/ru/post/719926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719926)
 - [Хорошо ли ChatGPT ищет ошибки в коде?](https://habr.com/ru/post/719958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719958)
 - [Vite, SVG и карьерные свичи: рассказываем, как прошел митап #DevTalks о фронтенде](https://habr.com/ru/post/719780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719780)
-- [[recovery mode] Spring Cloud OpenFeign и авторизация &lpar;OAuth2&rpar;. Ещё проще](https://habr.com/ru/post/719934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719934)
-- [Работаем с таблицами с помощью React Table](https://habr.com/ru/post/719796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719796)
-- [Точность — вежливость Scala’лазов: разбираем уточняющие типы данных и практику их применения](https://habr.com/ru/post/719488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
