@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [KMongo и неструктурированные данные](https://habr.com/ru/post/719860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719860)
-- [Подготовка шаблона приложения на Typescript с Nest, Nuxt 3 и Docker](https://habr.com/ru/post/720000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720000)
-- [Один плагин, чтоб править всеми. Как разработать сканер на Flutter для 3 платформ и ускорить ввод данных в 2 раза](https://habr.com/ru/post/719664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719664)
-- [PostgreSQL под капотом. Часть 4. Цикл бэкэнда](https://habr.com/ru/post/714840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714840)
-- [Наставничество и ревьюерство как апскилинг для мидла](https://habr.com/ru/post/719844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719844)
+- [[Перевод] MDos — Стек Kubernetes с открытым исходным кодом](https://habr.com/ru/post/720040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720040)
+- [Книга «Алгоритмы на практике»](https://habr.com/ru/post/719968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719968)
+- [[Перевод] Рисуем верёвку в формате SVG при помощи JavaScript](https://habr.com/ru/post/719822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719822)
+- [Как мы быстро запустили мобильное приложение и споткнулись о свой успех](https://habr.com/ru/post/717710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717710)
+- [Правила выживания начинающего программиста или как работает эффект Данинга-Крюгера](https://habr.com/ru/post/720026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
