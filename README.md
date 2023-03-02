@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасная информатизация: как мы создали единую инфраструктуру для всех бюджетных учреждений республики](https://habr.com/ru/post/720006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720006)
+- [MapReduce: как и зачем?](https://habr.com/ru/post/720050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720050)
 - [[Перевод] MDos — Стек Kubernetes с открытым исходным кодом](https://habr.com/ru/post/720040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720040)
 - [Книга «Алгоритмы на практике»](https://habr.com/ru/post/719968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719968)
 - [[Перевод] Рисуем верёвку в формате SVG при помощи JavaScript](https://habr.com/ru/post/719822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719822)
-- [Как мы быстро запустили мобильное приложение и споткнулись о свой успех](https://habr.com/ru/post/717710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717710)
-- [Правила выживания начинающего программиста или как работает эффект Данинга-Крюгера](https://habr.com/ru/post/720026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
