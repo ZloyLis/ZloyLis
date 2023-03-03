@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Журнал архитектурных решений &lpar;ADL&rpar; при проектировании информационных систем](https://habr.com/ru/post/720314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720314)
+- [Как рисовать красивые соединения с помощью SVG](https://habr.com/ru/post/720328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720328)
 - [[Перевод] Исторические исходные коды, с которыми должен быть знаком каждый разработчик](https://habr.com/ru/post/720312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720312)
 - [Как опубликовать приложение в RuStore и подключить монетизацию: пошаговый гайд](https://habr.com/ru/post/718062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718062)
 - [Как Архимейт позволяет научить команду разработки бизнес-ориентированному подходу](https://habr.com/ru/post/720300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720300)
-- [[recovery mode] Как ментор помог стать увереннее в своих знаниях и вырасти в доходе?](https://habr.com/ru/post/720298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720298)
-- [[Перевод] Заметка о хуке useSyncExternalStore](https://habr.com/ru/post/720136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
