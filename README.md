@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Sealed классы Java в действии: создание надежных и безопасных приложений](https://habr.com/ru/post/720044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720044)
+- [[Перевод] Пять лучших технических советов, которые я украла у гуманитариев](https://habr.com/ru/post/719786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719786)
+- [SEO для разработчика и верстальщика: основные SEO-требования к разработке сайтов](https://habr.com/ru/post/720242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720242)
+- [Алгоритмы быстрого умножения чисел: от столбика до Шенхаге-Штрассена](https://habr.com/ru/post/719648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719648)
 - [Про микросервисы на примерах](https://habr.com/ru/post/718354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718354)
-- [Как «яжепрограммист» построил всю свою родню](https://habr.com/ru/post/716404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716404)
-- [Как не «сломать» вёрстку Flutter-приложения из-за textScaleFactor](https://habr.com/ru/post/720098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720098)
-- [И самые лучшие книги они в рюкзаках хранят…](https://habr.com/ru/post/719990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719990)
-- [Свежий Android на 9 летнем железе: Сможет ли смартфон 2016 года оставаться актуальным в 2023 с кастомной прошивкой?](https://habr.com/ru/post/720176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
