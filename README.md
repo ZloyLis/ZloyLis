@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исторические исходные коды, с которыми должен быть знаком каждый разработчик](https://habr.com/ru/post/720312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720312)
+- [Как опубликовать приложение в RuStore и подключить монетизацию: пошаговый гайд](https://habr.com/ru/post/718062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718062)
 - [Как Архимейт позволяет научить команду разработки бизнес-ориентированному подходу](https://habr.com/ru/post/720300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720300)
 - [[recovery mode] Как ментор помог стать увереннее в своих знаниях и вырасти в доходе?](https://habr.com/ru/post/720298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720298)
 - [[Перевод] Заметка о хуке useSyncExternalStore](https://habr.com/ru/post/720136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720136)
-- [Аномалии под нагрузкой в PostgreSQL: о чём стоит помнить и с чем надо бороться](https://habr.com/ru/post/720272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720272)
-- [Введение в архитектурный шаблон «Мрак в Моделях»](https://habr.com/ru/post/684988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=684988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
