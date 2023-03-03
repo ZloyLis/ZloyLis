@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart: Асинхронность](https://habr.com/ru/post/720352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720352)
+- [Диалог между JS и Python если бы они были людьми](https://habr.com/ru/post/720350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720350)
 - [Пчела на работе, разработка игр на SFML C++](https://habr.com/ru/post/720342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720342)
 - [Журнал архитектурных решений &lpar;ADL&rpar; при проектировании информационных систем](https://habr.com/ru/post/720314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720314)
 - [Как рисовать красивые соединения с помощью SVG](https://habr.com/ru/post/720328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720328)
-- [[Перевод] Исторические исходные коды, с которыми должен быть знаком каждый разработчик](https://habr.com/ru/post/720312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720312)
-- [Как опубликовать приложение в RuStore и подключить монетизацию: пошаговый гайд](https://habr.com/ru/post/718062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
