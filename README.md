@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«База знаний — не самурай». 7+ ключевых советов про БЗ от техписов и не только](https://habr.com/ru/post/720264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720264)
+- [Сроки доставки заказов: как в Авито сделали прогноз более точным](https://habr.com/ru/post/719710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719710)
+- [Как мы выбирали технологию для фронтенда и что из этого вышло](https://habr.com/ru/post/720184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720184)
 - [[Перевод] Sealed классы Java в действии: создание надежных и безопасных приложений](https://habr.com/ru/post/720044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720044)
 - [[Перевод] Пять лучших технических советов, которые я украла у гуманитариев](https://habr.com/ru/post/719786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719786)
-- [SEO для разработчика и верстальщика: основные SEO-требования к разработке сайтов](https://habr.com/ru/post/720242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720242)
-- [Алгоритмы быстрого умножения чисел: от столбика до Шенхаге-Штрассена](https://habr.com/ru/post/719648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719648)
-- [Про микросервисы на примерах](https://habr.com/ru/post/718354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
