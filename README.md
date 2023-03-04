@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java web: от сокетов в сервлеты в spring web](https://habr.com/ru/post/720414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720414)
+- [Chaos Engineering, применение на практике](https://habr.com/ru/post/720424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720424)
+- [Математическая продлёнка. Рисуем по клеточкам](https://habr.com/ru/post/719688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719688)
 - [Telegram бот на Rust, Два, Три и Raspberry Pi 2](https://habr.com/ru/post/720410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720410)
 - [Краткий обзор Layout XML в Android. Часть 2](https://habr.com/ru/post/720134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720134)
 - [Взаимодействие между процессами на С++ и PHP. Сокеты, семафоры и разделяемая память](https://habr.com/ru/post/720126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720126)
-- [Об отечественном велосипедостроении – система контроля доступа для low-code платформы](https://habr.com/ru/post/720368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
