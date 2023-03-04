@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Версионная миграция данных в мире DTO](https://habr.com/ru/post/720478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720478)
 - [Стартап в соло. Часть 1: текущие показатели](https://habr.com/ru/post/720456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720456)
 - [ChatGPT: новый инструмент в борьбе с багами. Как можно использовать AI для повышения качества тестирования](https://habr.com/ru/post/720454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720454)
 - [Истинная сложность алгоритма Bubble Sort](https://habr.com/ru/post/720450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720450)
 - [Chaos Engineering, применение на практике](https://habr.com/ru/post/720424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720424)
-- [Математическая продлёнка. Рисуем по клеточкам](https://habr.com/ru/post/719688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
