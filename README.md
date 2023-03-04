@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: новый инструмент в борьбе с багами. Как можно использовать AI для повышения качества тестирования](https://habr.com/ru/post/720454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720454)
+- [Истинная сложность алгоритма Bubble Sort](https://habr.com/ru/post/720450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720450)
 - [Chaos Engineering, применение на практике](https://habr.com/ru/post/720424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720424)
 - [Математическая продлёнка. Рисуем по клеточкам](https://habr.com/ru/post/719688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719688)
 - [Telegram бот на Rust, Два, Три и Raspberry Pi 2](https://habr.com/ru/post/720410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720410)
-- [Краткий обзор Layout XML в Android. Часть 2](https://habr.com/ru/post/720134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720134)
-- [Взаимодействие между процессами на С++ и PHP. Сокеты, семафоры и разделяемая память](https://habr.com/ru/post/720126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
