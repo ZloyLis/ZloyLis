@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Краткий обзор Layout XML в Android. Часть 2](https://habr.com/ru/post/720134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720134)
 - [Взаимодействие между процессами на С++ и PHP. Сокеты, семафоры и разделяемая память](https://habr.com/ru/post/720126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720126)
 - [Об отечественном велосипедостроении – система контроля доступа для low-code платформы](https://habr.com/ru/post/720368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720368)
 - [C/C++ из Python &lpar;Kivy, ctypes&rpar; на iOS](https://habr.com/ru/post/720310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720310)
 - [Dart: Асинхронность](https://habr.com/ru/post/720352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720352)
-- [Диалог между JS и Python если бы они были людьми](https://habr.com/ru/post/720350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
