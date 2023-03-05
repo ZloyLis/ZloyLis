@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сайты определяют ботов? Деобфускация Akamai Bot Manager 2.0](https://habr.com/ru/post/720588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720588)
 - [Топ-17 летних профильных лагерей по интересам для детей: от робототехники до видеоблогинга](https://habr.com/ru/post/720580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720580)
 - [Колдовской NeoVIM. Часть пятая. «Окно в… редакторе. И фолды»](https://habr.com/ru/post/720564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720564)
 - [Module Federation — что скрывается под кажущейся простотой](https://habr.com/ru/post/720560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720560)
 - [Развёртывание программных систем в Kubernetes с помощью Jsonnet](https://habr.com/ru/post/720556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720556)
-- [Тайные каналы связи или как централизованные сервисы способны разлагаться изнутри](https://habr.com/ru/post/720544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
