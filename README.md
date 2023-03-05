@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Большая подборка ресурсов и сообществ для тестировщика](https://habr.com/ru/post/720526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720526)
 - [[Перевод] То, чего мне не хватает в CSS](https://habr.com/ru/post/720498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720498)
 - [[Перевод] О вреде GOTO-фобии &lpar;с примерами на C&rpar;](https://habr.com/ru/post/720486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720486)
 - [Версионная миграция данных в мире DTO](https://habr.com/ru/post/720478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720478)
 - [Стартап в соло. Часть 1: текущие показатели](https://habr.com/ru/post/720456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720456)
-- [ChatGPT: новый инструмент в борьбе с багами. Как можно использовать AI для повышения качества тестирования](https://habr.com/ru/post/720454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
