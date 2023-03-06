@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Курсы дали больше университета: интервью со студентом школы Metaclass](https://habr.com/ru/post/720750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720750)
+- [[Перевод] Тестируйте свои React-компоненты с помощью Nightwatch и Testing Library](https://habr.com/ru/post/719266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719266)
+- [Полный гайд по собеседованиям в IT](https://habr.com/ru/post/720732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720732)
 - [Развитие QSqlTableModel и QTableView](https://habr.com/ru/post/720716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720716)
-- [Один день из жизни JVM-инженера](https://habr.com/ru/post/719614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719614)
-- [Разрабатываем браузерное расширение легким движением руки](https://habr.com/ru/post/720646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720646)
-- [Шаблон backend сервера на Golang — часть 5 — оптимизация Worker pool](https://habr.com/ru/post/720286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720286)
-- [[Перевод] The Composable Architecture — лучшие практики](https://habr.com/ru/post/720018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720018)
+- [Высоконагруженный IPC между C++ и Python](https://habr.com/ru/post/717492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
