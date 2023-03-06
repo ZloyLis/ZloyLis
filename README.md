@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация мемоизации в JavaScript](https://habr.com/ru/post/720594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720594)
 - [Мобильная разработка за неделю #478 &lpar;27 февраля — 5 марта&rpar;](https://habr.com/ru/post/720602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720602)
 - [Как сайты определяют ботов? Деобфускация Akamai Bot Manager 2.0](https://habr.com/ru/post/720588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720588)
 - [Колдовской NeoVIM. Часть пятая. «Окно в… редакторе. И фолды»](https://habr.com/ru/post/720564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720564)
 - [Module Federation — что скрывается под кажущейся простотой](https://habr.com/ru/post/720560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720560)
-- [Развёртывание программных систем в Kubernetes с помощью Jsonnet](https://habr.com/ru/post/720556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
