@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эргономичный мониторинг на практике](https://habr.com/ru/post/719938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719938)
+- [Freyr-js: находка меломана](https://habr.com/ru/post/720782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720782)
+- [Как устроены интернет-платежи: вопрос—ответ](https://habr.com/ru/post/720696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720696)
 - [Весна идёт — весне дорогу! Итоги сезона Kubernetes](https://habr.com/ru/post/720322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720322)
 - [Региональные сообщества разработчиков игр: как они помогут развитию геймдев в России?](https://habr.com/ru/post/720772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720772)
-- [[Перевод] Основы веба, которые должен знать начинающий разработчик](https://habr.com/ru/post/720704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720704)
-- [Элементы функционального программирования в R](https://habr.com/ru/post/720762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720762)
-- [Курсы дали больше университета: интервью со студентом школы Metaclass](https://habr.com/ru/post/720750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
