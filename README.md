@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Весна идёт — весне дорогу! Итоги сезона Kubernetes](https://habr.com/ru/post/720322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720322)
+- [Региональные сообщества разработчиков игр: как они помогут развитию геймдев в России?](https://habr.com/ru/post/720772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720772)
+- [[Перевод] Основы веба, которые должен знать начинающий разработчик](https://habr.com/ru/post/720704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720704)
+- [Элементы функционального программирования в R](https://habr.com/ru/post/720762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720762)
 - [Курсы дали больше университета: интервью со студентом школы Metaclass](https://habr.com/ru/post/720750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720750)
-- [[Перевод] Тестируйте свои React-компоненты с помощью Nightwatch и Testing Library](https://habr.com/ru/post/719266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719266)
-- [Полный гайд по собеседованиям в IT](https://habr.com/ru/post/720732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720732)
-- [Развитие QSqlTableModel и QTableView](https://habr.com/ru/post/720716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720716)
-- [Высоконагруженный IPC между C++ и Python](https://habr.com/ru/post/717492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
