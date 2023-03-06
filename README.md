@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Развитие QSqlTableModel и QTableView](https://habr.com/ru/post/720716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720716)
 - [Один день из жизни JVM-инженера](https://habr.com/ru/post/719614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719614)
 - [Разрабатываем браузерное расширение легким движением руки](https://habr.com/ru/post/720646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720646)
 - [Шаблон backend сервера на Golang — часть 5 — оптимизация Worker pool](https://habr.com/ru/post/720286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720286)
 - [[Перевод] The Composable Architecture — лучшие практики](https://habr.com/ru/post/720018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720018)
-- [Apache NlpCraft 1.0.0. Упрощение использования и расширение возможностей](https://habr.com/ru/post/720622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
