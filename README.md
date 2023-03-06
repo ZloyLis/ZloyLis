@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разрабатываем браузерное расширение легким движением руки](https://habr.com/ru/post/720646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720646)
+- [Шаблон backend сервера на Golang — часть 5 — оптимизация Worker pool](https://habr.com/ru/post/720286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720286)
+- [[Перевод] The Composable Architecture — лучшие практики](https://habr.com/ru/post/720018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720018)
 - [Apache NlpCraft 1.0.0. Упрощение использования и расширение возможностей](https://habr.com/ru/post/720622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720622)
 - [Samoyed CMG — пользовательские генераторы кодовой базы](https://habr.com/ru/post/720528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720528)
-- [Декомпозиция и интерфейс vue-компонентов](https://habr.com/ru/post/719980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719980)
-- [Docs as Code для художественной литературы. Делаем творческий сайт ребенка с помощью MkDocs](https://habr.com/ru/post/720584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720584)
-- [SimpleUI фреймворк для быстрого создания бизнес приложений на Android](https://habr.com/ru/post/720610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
