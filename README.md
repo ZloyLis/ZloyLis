@@ -34,7 +34,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Особенности автоматического дифференцирования в PyTorch. Часть 2](https://habr.com/ru/post/720676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720676)
+- [Один день из жизни JVM-инженера](https://habr.com/ru/post/719614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719614)
 - [Разрабатываем браузерное расширение легким движением руки](https://habr.com/ru/post/720646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720646)
 - [Шаблон backend сервера на Golang — часть 5 — оптимизация Worker pool](https://habr.com/ru/post/720286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720286)
 - [[Перевод] The Composable Architecture — лучшие практики](https://habr.com/ru/post/720018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720018)
