@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache NlpCraft 1.0.0. Упрощение использования и расширение возможностей](https://habr.com/ru/post/720622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720622)
 - [Samoyed CMG — пользовательские генераторы кодовой базы](https://habr.com/ru/post/720528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720528)
 - [Декомпозиция и интерфейс vue-компонентов](https://habr.com/ru/post/719980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719980)
 - [Docs as Code для художественной литературы. Делаем творческий сайт ребенка с помощью MkDocs](https://habr.com/ru/post/720584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720584)
 - [SimpleUI фреймворк для быстрого создания бизнес приложений на Android](https://habr.com/ru/post/720610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720610)
-- [Заблуждения об именах в документах](https://habr.com/ru/post/719120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
