@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выиграть ВСОШ по информатике и поступить в ВУЗ мечты?](https://habr.com/ru/post/720840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720840)
 - [Apple Pro Weekly News &lpar;27.02 – 05.03.23&rpar;](https://habr.com/ru/post/720834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720834)
 - [Security Week 2310: безопасность квадрокоптеров DJI](https://habr.com/ru/post/720708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720708)
 - [Spring-потрошитель: жизненный цикл Spring Framework](https://habr.com/ru/post/720794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720794)
 - [Небезопасный android: эксперименты с sun.misc.Unsafe. Часть 1](https://habr.com/ru/post/720788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720788)
-- [Эргономичный мониторинг на практике](https://habr.com/ru/post/719938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
