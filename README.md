@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему мы ошибаемся при первоначальной оценке фич?](https://habr.com/ru/post/720740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720740)
 - [Swagger и полиморфные контракты в .NET 7](https://habr.com/ru/post/715000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715000)
 - [Kubernetes Observability: логгинг с EFK](https://habr.com/ru/post/721004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721004)
 - [Как объединить устройства с разными протоколами передачи данных на одной IoT-платформе](https://habr.com/ru/post/720952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720952)
 - [Стартап в соло. Часть 2: идея и первая версия](https://habr.com/ru/post/720998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720998)
-- [Идентификация, Аутентификация, Авторизация. В чем же разница?](https://habr.com/ru/post/720842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
