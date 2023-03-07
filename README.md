@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как избежать проблем при запуске MVP](https://habr.com/ru/post/720896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720896)
-- [Формула, соединяющая е и пи](https://habr.com/ru/post/720930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720930)
-- [[Перевод] Произвольные красивые цвета: RGB, HSL, LCH и вот это вот всё](https://habr.com/ru/post/719948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719948)
-- [[Перевод] Data Mesh: что это такое и для чего он нужен инженерам](https://habr.com/ru/post/720652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720652)
-- [Российский Kubernetes, какой он? Знакомимся с платформой Deckhouse](https://habr.com/ru/post/720816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720816)
+- [Синий свет — зеленый свет: релизим без даунтаймов](https://habr.com/ru/post/720986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720986)
+- [[Перевод] Как вавилонянам удалось вычислить √2 с точностью до шести знаков после запятой?](https://habr.com/ru/post/720982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720982)
+- [Дополняем реальность в мобильных приложениях через ARCore](https://habr.com/ru/post/720962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720962)
+- [[Перевод] Исследование нескольких проблем, обнаруженных при статическом анализе](https://habr.com/ru/post/720688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720688)
+- [Smart Tomo Engine 2.0. Выход на новый уровень](https://habr.com/ru/post/719632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
