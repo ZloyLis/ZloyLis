@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Постмортем: Как мы слили крупнейший хакатон в РФ и чему у нас можно научиться](https://habr.com/ru/post/721034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721034)
+- [Сказ о том как pet-project превратился в небольшой пассивный доход &lpar;часть 2&rpar;](https://habr.com/ru/post/720596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720596)
 - [Почему мы ошибаемся при первоначальной оценке фич?](https://habr.com/ru/post/720740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720740)
 - [Swagger и полиморфные контракты в .NET 7](https://habr.com/ru/post/715000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715000)
 - [Kubernetes Observability: логгинг с EFK](https://habr.com/ru/post/721004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721004)
-- [Как объединить устройства с разными протоколами передачи данных на одной IoT-платформе](https://habr.com/ru/post/720952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720952)
-- [Стартап в соло. Часть 2: идея и первая версия](https://habr.com/ru/post/720998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
