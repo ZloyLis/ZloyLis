@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Понимаем обычное дерево отрезков](https://habr.com/ru/post/721086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721086)
 - [Как я использовал-таки классы в VBA и даже полюбил это дело](https://habr.com/ru/post/721078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721078)
 - [«Люди любят испытывать эмоции»: итоги научной конференции в Институте бизнеса и дизайна](https://habr.com/ru/post/721076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721076)
 - [История дизайна в IT 1984 – 2024](https://habr.com/ru/post/721074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721074)
 - [Микросервисная реализация объектно-ориентированных баз данных](https://habr.com/ru/post/721066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721066)
-- [Постмортем: Как мы слили крупнейший хакатон в РФ и чему у нас можно научиться](https://habr.com/ru/post/721034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
