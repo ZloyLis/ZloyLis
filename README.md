@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Произвольные красивые цвета: RGB, HSL, LCH и вот это вот всё](https://habr.com/ru/post/719948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719948)
+- [[Перевод] Data Mesh: что это такое и для чего он нужен инженерам](https://habr.com/ru/post/720652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720652)
+- [Российский Kubernetes, какой он? Знакомимся с платформой Deckhouse](https://habr.com/ru/post/720816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720816)
 - [[Перевод] Лучшие практики для Java-приложений в Kubernetes](https://habr.com/ru/post/720402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720402)
 - [Мой путь в профессию: из аналитиков в Go-разработчики](https://habr.com/ru/post/720678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720678)
-- [Полное руководство по Remix. Часть 2](https://habr.com/ru/post/720642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720642)
-- [Как мы приложение Додо Пиццы на арабский переводили](https://habr.com/ru/post/720632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720632)
-- [[Перевод] Неожиданная эффективность условных вероятностей](https://habr.com/ru/post/720206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
