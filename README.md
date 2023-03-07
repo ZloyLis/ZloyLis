@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Синий свет — зеленый свет: релизим без даунтаймов](https://habr.com/ru/post/720986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720986)
-- [[Перевод] Как вавилонянам удалось вычислить √2 с точностью до шести знаков после запятой?](https://habr.com/ru/post/720982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720982)
-- [Дополняем реальность в мобильных приложениях через ARCore](https://habr.com/ru/post/720962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720962)
-- [[Перевод] Исследование нескольких проблем, обнаруженных при статическом анализе](https://habr.com/ru/post/720688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720688)
-- [Smart Tomo Engine 2.0. Выход на новый уровень](https://habr.com/ru/post/719632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719632)
+- [Swagger и полиморфные контракты в .NET 7](https://habr.com/ru/post/715000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715000)
+- [Kubernetes Observability: логгинг с EFK](https://habr.com/ru/post/721004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721004)
+- [Как объединить устройства с разными протоколами передачи данных на одной IoT-платформе](https://habr.com/ru/post/720952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720952)
+- [Стартап в соло. Часть 2: идея и первая версия](https://habr.com/ru/post/720998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720998)
+- [Идентификация, Аутентификация, Авторизация. В чем же разница?](https://habr.com/ru/post/720842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
