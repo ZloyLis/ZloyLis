@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Неожиданная эффективность условных вероятностей](https://habr.com/ru/post/720206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720206)
+- [Rust и C++ при создании астродинамической библиотеки](https://habr.com/ru/post/720538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720538)
 - [В этой одежде системы распознавания будут считать вас животным](https://habr.com/ru/post/719368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719368)
 - [Корутины в UnrealEngine](https://habr.com/ru/post/720868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720868)
 - [Мой издательский пост](https://habr.com/ru/post/720856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720856)
-- [Парсинг данных через api vk и google sheets api на python](https://habr.com/ru/post/720862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720862)
-- [Как выиграть ВСОШ по информатике и поступить в ВУЗ мечты?](https://habr.com/ru/post/720840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
