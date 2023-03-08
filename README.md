@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как разработать канбан-доску на Django, DRF и Alpine.js](https://habr.com/ru/post/721022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721022)
+- [Сравнение Rollup c Webpack: обзор преимуществ и недостатков](https://habr.com/ru/post/721110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721110)
 - [К 8 марта — 8 женских докладов c наших конференций](https://habr.com/ru/post/718522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718522)
 - [Будни техпода. Разворачиваем сайт из конструктора на vds за 130 рублей](https://habr.com/ru/post/720012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720012)
 - [Судоку: магия чисел](https://habr.com/ru/post/712058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712058)
-- [Исходников нет, но мы не сдадимся: портируем Android без каких-либо исходников от производителя](https://habr.com/ru/post/720388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720388)
-- [Понимаем обычное дерево отрезков](https://habr.com/ru/post/721086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
