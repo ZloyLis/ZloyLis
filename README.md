@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Certified Kubernetes Security Specialist — мой опыт сдачи экзамена](https://habr.com/ru/post/721136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721136)
+- [Динамические типы с GraphQL](https://habr.com/ru/post/721132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721132)
 - [Как разработать канбан-доску на Django, DRF и Alpine.js](https://habr.com/ru/post/721022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721022)
 - [Сравнение Rollup c Webpack: обзор преимуществ и недостатков](https://habr.com/ru/post/721110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721110)
 - [К 8 марта — 8 женских докладов c наших конференций](https://habr.com/ru/post/718522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718522)
-- [Будни техпода. Разворачиваем сайт из конструктора на vds за 130 рублей](https://habr.com/ru/post/720012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720012)
-- [Судоку: магия чисел](https://habr.com/ru/post/712058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
