@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мы обнаружили в GPT-2 нейрон конкретного токена](https://habr.com/ru/post/718720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718720)
+- [Гуёвая автоматизация управления кластерами](https://habr.com/ru/post/720256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720256)
 - [Remote бэкенд на Firebase для МП без бэкенда](https://habr.com/ru/post/719102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719102)
 - [Семейство алгоритмов Ascon — новый стандарт легковесной криптографии](https://habr.com/ru/post/721194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721194)
 - [5 классных сервисов на основе ИИ &lpar;с примерами&rpar;](https://habr.com/ru/post/721114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721114)
-- [→ Как быстро завести темную тему](https://habr.com/ru/post/721182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721182)
-- [[Перевод] CSS сolor-сontrast&lpar;&rpar;: пошаговое руководство](https://habr.com/ru/post/721164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
