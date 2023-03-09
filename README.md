@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote бэкенд на Firebase для МП без бэкенда](https://habr.com/ru/post/719102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719102)
+- [Семейство алгоритмов Ascon — новый стандарт легковесной криптографии](https://habr.com/ru/post/721194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721194)
+- [5 классных сервисов на основе ИИ &lpar;с примерами&rpar;](https://habr.com/ru/post/721114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721114)
 - [→ Как быстро завести темную тему](https://habr.com/ru/post/721182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721182)
 - [[Перевод] CSS сolor-сontrast&lpar;&rpar;: пошаговое руководство](https://habr.com/ru/post/721164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721164)
-- [Создаём расширение google chrome для записи экрана и камеры](https://habr.com/ru/post/721158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721158)
-- [Certified Kubernetes Security Specialist — мой опыт сдачи экзамена](https://habr.com/ru/post/721136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721136)
-- [Динамические типы с GraphQL](https://habr.com/ru/post/721132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
