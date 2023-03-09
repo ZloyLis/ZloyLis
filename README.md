@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Как не потерять всю переписку в Slack? Подробная инструкция, что можно сейчас сделать](https://habr.com/ru/post/721318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721318)
+- [Эволюция алгоритма фильтрации модификаций товаров в Авито](https://habr.com/ru/post/720880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720880)
+- [[Перевод] Что нового в Chrome 111?](https://habr.com/ru/post/721292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721292)
 - [Почему UserStory и ныне там?](https://habr.com/ru/post/721290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721290)
 - [Как мы попробовали Yatagan](https://habr.com/ru/post/721248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721248)
-- [App Bundle. Google Play Dynamic Delivery](https://habr.com/ru/post/715052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715052)
-- [Bazel, stamping, remote cache](https://habr.com/ru/post/720792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720792)
-- [Как автоматизировать тестирование сложных API форм и не потратить время впустую](https://habr.com/ru/post/721238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
