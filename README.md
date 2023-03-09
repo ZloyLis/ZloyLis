@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Независимая разработка совместимых компонент на ORM – миф или реальность в аннотациях Java?](https://habr.com/ru/post/721424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721424)
+- [Архитектура Hashicorp Vault](https://habr.com/ru/post/721416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721416)
 - [О Книгах](https://habr.com/ru/post/721388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721388)
 - [Зачем в Hoff Tech архитекторы или как мы строим и описываем ИТ-ландшафт](https://habr.com/ru/post/721258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721258)
 - [[Перевод] GAN: убийство двух зайцев одним выстрелом для синтеза табличных данных](https://habr.com/ru/post/668146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=668146)
-- [Типизируй с нами, типизируй, как мы…](https://habr.com/ru/post/721346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721346)
-- [Обработка исключений в Java с использованием сопоставления с образцом &lpar;pattern matching&rpar;](https://habr.com/ru/post/721326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
