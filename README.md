@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему UserStory и ныне там?](https://habr.com/ru/post/721290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721290)
+- [Как мы попробовали Yatagan](https://habr.com/ru/post/721248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721248)
 - [App Bundle. Google Play Dynamic Delivery](https://habr.com/ru/post/715052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715052)
 - [Bazel, stamping, remote cache](https://habr.com/ru/post/720792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720792)
 - [Как автоматизировать тестирование сложных API форм и не потратить время впустую](https://habr.com/ru/post/721238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721238)
-- [Инструменты для MLOps: выбираем между вендорскими и Open Source-решениями](https://habr.com/ru/post/720654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720654)
-- [Кастомная стратегия виртуального скроллинга для просмотра pdf](https://habr.com/ru/post/721220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
