@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как автоматизировать тестирование сложных API форм и не потратить время впустую](https://habr.com/ru/post/721238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721238)
+- [Инструменты для MLOps: выбираем между вендорскими и Open Source-решениями](https://habr.com/ru/post/720654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720654)
 - [Кастомная стратегия виртуального скроллинга для просмотра pdf](https://habr.com/ru/post/721220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721220)
 - [Разбираем лучшие решения задач с VK Cup](https://habr.com/ru/post/720956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720956)
 - [[Перевод] Мы обнаружили в GPT-2 нейрон конкретного токена](https://habr.com/ru/post/718720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718720)
-- [Гуёвая автоматизация управления кластерами](https://habr.com/ru/post/720256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720256)
-- [Remote бэкенд на Firebase для МП без бэкенда](https://habr.com/ru/post/719102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
