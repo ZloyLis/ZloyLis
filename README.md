@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Есть ли альтернатива контейнерам?](https://habr.com/ru/post/721394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721394)
-- [[Перевод] Пишем игру от первого лица в 2КБ на Rust](https://habr.com/ru/post/720672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720672)
-- [Гибридный Kubernetes-кластер из bare metal и динамически подключаемых облачных виртуальных машин](https://habr.com/ru/post/721268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721268)
-- [Пятничные клеточные автоматы. 10 удивительных правил с нотацией Хенселя](https://habr.com/ru/post/721178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721178)
-- [Карта на WebGL: особенности тестирования](https://habr.com/ru/post/721452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721452)
+- [«Хакер»: Используем отладчик для анализа 64-разрядных программ в Windows](https://habr.com/ru/post/721528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721528)
+- [Что, где, откуда: извлекаем реляционный датасет из JSON](https://habr.com/ru/post/721464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721464)
+- [Качество социальных отношений в ИТ-команде](https://habr.com/ru/post/721518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721518)
+- [Безопасная разработка в Java](https://habr.com/ru/post/721376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721376)
+- [[Перевод] Как я проводил обратную разработку таинственного UDP-трафика в гостиничном номере](https://habr.com/ru/post/721508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
