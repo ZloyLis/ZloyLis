@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём иной смарт-контракт по старому адресу](https://habr.com/ru/post/721582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721582)
 - [Почему в вашем коде так сложно разобраться](https://habr.com/ru/post/721578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721578)
 - [День дизайн-директора](https://habr.com/ru/post/721498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721498)
 - [[Перевод] Полезные и неизвестные библиотеки Java](https://habr.com/ru/post/720334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720334)
 - [«Хакер»: Используем отладчик для анализа 64-разрядных программ в Windows](https://habr.com/ru/post/721528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721528)
-- [Что, где, откуда: извлекаем реляционный датасет из JSON](https://habr.com/ru/post/721464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
