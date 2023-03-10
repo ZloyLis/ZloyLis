@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пишем игру от первого лица в 2КБ на Rust](https://habr.com/ru/post/720672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720672)
+- [Гибридный Kubernetes-кластер из bare metal и динамически подключаемых облачных виртуальных машин](https://habr.com/ru/post/721268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721268)
 - [Пятничные клеточные автоматы. 10 удивительных правил с нотацией Хенселя](https://habr.com/ru/post/721178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721178)
-- [Terraform: от незнания к best practices](https://habr.com/ru/post/721404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721404)
 - [Карта на WebGL: особенности тестирования](https://habr.com/ru/post/721452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721452)
 - [[recovery mode] Способы подготовки манифестов для Kubernetes](https://habr.com/ru/post/721410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721410)
-- [Распределение для рекордов, циклических перестановок и количества дел, которые вы успеете сделать за свою жизнь](https://habr.com/ru/post/718832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
