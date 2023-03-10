@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полезные и неизвестные библиотеки Java](https://habr.com/ru/post/720334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720334)
 - [«Хакер»: Используем отладчик для анализа 64-разрядных программ в Windows](https://habr.com/ru/post/721528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721528)
 - [Что, где, откуда: извлекаем реляционный датасет из JSON](https://habr.com/ru/post/721464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721464)
 - [Качество социальных отношений в ИТ-команде](https://habr.com/ru/post/721518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721518)
 - [Безопасная разработка в Java](https://habr.com/ru/post/721376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721376)
-- [[Перевод] Как я проводил обратную разработку таинственного UDP-трафика в гостиничном номере](https://habr.com/ru/post/721508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
