@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KVM: Что такое Kernel-based Virtual Machine?](https://habr.com/ru/post/721408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721408)
 - [API Честный знак как получить ключ сессии](https://habr.com/ru/post/721622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721622)
 - [Фрод в мобильных приложениях: как его вычислить, чтобы не слить бюджет продвижения](https://habr.com/ru/post/702536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702536)
 - [Эволюция электронного наряда-допуска или как исключить убытки, избавившись от бумаги, и зачем для этого лицензия ФСБ](https://habr.com/ru/post/702516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702516)
 - [Как взломать собеседование](https://habr.com/ru/post/721522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721522)
-- [Создаём иной смарт-контракт по старому адресу](https://habr.com/ru/post/721582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
