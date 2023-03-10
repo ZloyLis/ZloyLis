@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Карта на WebGL: особенности тестирования](https://habr.com/ru/post/721452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721452)
 - [[recovery mode] Способы подготовки манифестов для Kubernetes](https://habr.com/ru/post/721410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721410)
 - [Распределение для рекордов, циклических перестановок и количества дел, которые вы успеете сделать за свою жизнь](https://habr.com/ru/post/718832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718832)
 - [Независимая разработка совместимых компонент на ORM – миф или реальность в аннотациях Java?](https://habr.com/ru/post/721424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721424)
 - [Архитектура Hashicorp Vault](https://habr.com/ru/post/721416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721416)
-- [О Книгах](https://habr.com/ru/post/721388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
