@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я разработал свой keyless продукт для удостоверения Docker образов — DIA](https://habr.com/ru/post/721692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721692)
+- [Ближайшие бесплатные мероприятия по разработке &lpar;13 марта — 21 марта&rpar;](https://habr.com/ru/post/721684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721684)
+- [Распознавание речи через Deepgram API в PWA](https://habr.com/ru/post/721668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721668)
 - [ChatGPT в роли стримера](https://habr.com/ru/post/721682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721682)
 - [KVM: Что такое Kernel-based Virtual Machine?](https://habr.com/ru/post/721408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721408)
-- [API Честный знак как получить ключ сессии](https://habr.com/ru/post/721622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721622)
-- [Фрод в мобильных приложениях: как его вычислить, чтобы не слить бюджет продвижения](https://habr.com/ru/post/702536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702536)
-- [Эволюция электронного наряда-допуска или как исключить убытки, избавившись от бумаги, и зачем для этого лицензия ФСБ](https://habr.com/ru/post/702516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
