@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Небезопасный android: эксперименты с sun.misc.Unsafe. Часть 2](https://habr.com/ru/post/721054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721054)
 - [Шаблон Строитель в Scala 3](https://habr.com/ru/post/721736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721736)
 - [BIG TCP приходит в Linux — теперь и для IPv4](https://habr.com/ru/post/721696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721696)
 - [Я разработал свой keyless продукт для удостоверения Docker образов — DIA](https://habr.com/ru/post/721692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721692)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;13 марта — 21 марта&rpar;](https://habr.com/ru/post/721684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721684)
-- [Распознавание речи через Deepgram API в PWA](https://habr.com/ru/post/721668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
