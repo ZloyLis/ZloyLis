@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Rust в Веб-Разработке](https://habr.com/ru/post/721856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721856)
 - [[Перевод] Kubernetes без Kubelet: рассказываем об инструменте KWOK](https://habr.com/ru/post/721830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721830)
 - [Аудирование в микросервисной архитектуре](https://habr.com/ru/post/721806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721806)
 - [Программная реализация шифровальной машины «Энигма» на языке Си](https://habr.com/ru/post/721790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721790)
 - [Генерируем рецепты блюд на JS и цепях Маркова](https://habr.com/ru/post/721546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721546)
-- [Переходите на микрофронтовую архитектуру](https://habr.com/ru/post/721762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
