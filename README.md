@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерируем рецепты блюд на JS и цепях Маркова](https://habr.com/ru/post/721546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721546)
 - [Переходите на микрофронтовую архитектуру](https://habr.com/ru/post/721762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721762)
 - [Стартап в Соло. Часть 3: упрощаем продукт](https://habr.com/ru/post/721748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721748)
 - [Небезопасный android: эксперименты с sun.misc.Unsafe. Часть 2](https://habr.com/ru/post/721054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721054)
 - [Шаблон Строитель в Scala 3](https://habr.com/ru/post/721736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721736)
-- [BIG TCP приходит в Linux — теперь и для IPv4](https://habr.com/ru/post/721696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
