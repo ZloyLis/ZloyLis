@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анимация UIView, зависящая от прокрутки содержимого UIScrollView](https://habr.com/ru/post/721894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721894)
 - [React и Typescript: Создание динамического компонента на примере кнопки](https://habr.com/ru/post/721862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721862)
 - [Пчела на работе, разработка игр на SFML C++](https://habr.com/ru/post/721860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721860)
 - [Использование Rust в Веб-Разработке](https://habr.com/ru/post/721856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721856)
 - [[Перевод] Kubernetes без Kubelet: рассказываем об инструменте KWOK](https://habr.com/ru/post/721830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721830)
-- [Аудирование в микросервисной архитектуре](https://habr.com/ru/post/721806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
