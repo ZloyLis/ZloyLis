@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Управление памятью JavaScript: Как избежать распространенных утечек памяти и повысить производительность](https://habr.com/ru/post/721994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721994)
+- [Свой мониторинг сайтов: от идеи до реализации](https://habr.com/ru/post/720488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720488)
 - [Генерация 2D мира с помощью клеточного автомата на Python](https://habr.com/ru/post/721956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721956)
 - [Что не так с твоим покрытием тестов в Go?](https://habr.com/ru/post/721958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721958)
 - [Делать Data Vault руками? НЕТ! Подходы к автоматической генерации при построении Data Vault](https://habr.com/ru/post/721950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721950)
-- [Компилируем быстрые консольные .exe приложения на PHP 8.1 в 2023 году, а почему бы и нет?](https://habr.com/ru/post/721504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721504)
-- [Учим нейросеть принимать решения на основе уже известного опыта &lpar;на примере Шахмат и загруженного датасета&rpar;](https://habr.com/ru/post/721818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
