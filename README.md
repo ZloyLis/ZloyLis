@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация 2D мира с помощью клеточного автомата на Python](https://habr.com/ru/post/721956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721956)
+- [Что не так с твоим покрытием тестов в Go?](https://habr.com/ru/post/721958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721958)
+- [Делать Data Vault руками? НЕТ! Подходы к автоматической генерации при построении Data Vault](https://habr.com/ru/post/721950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721950)
 - [Компилируем быстрые консольные .exe приложения на PHP 8.1 в 2023 году, а почему бы и нет?](https://habr.com/ru/post/721504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721504)
 - [Учим нейросеть принимать решения на основе уже известного опыта &lpar;на примере Шахмат и загруженного датасета&rpar;](https://habr.com/ru/post/721818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721818)
-- [[Перевод] Обнаружение мошенничества с помощью PyMC](https://habr.com/ru/post/719698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719698)
-- [Современные &lpar;инкрементные&rpar; Source Generators в .NET](https://habr.com/ru/post/721874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721874)
-- [[Перевод] Десять самых распространённых проблем с качеством данных и способы их устранения](https://habr.com/ru/post/718708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
