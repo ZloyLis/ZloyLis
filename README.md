@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Дао Кодинга](https://habr.com/ru/post/722168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722168)
 - [[Перевод] Rust 1.68.0: разреженный протокол cargo, локальный pin, обработчик ошибок аллокации](https://habr.com/ru/post/722152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722152)
 - [Как мы сделали аудиозвонки в приложении для сотрудников](https://habr.com/ru/post/722084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722084)
 - [Archimate. Мотивационный слой](https://habr.com/ru/post/722134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722134)
 - [[Перевод] Тестируйте API, как профессионал Часть 1](https://habr.com/ru/post/722128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722128)
-- [Что интересного было на MWC 2023?](https://habr.com/ru/post/722098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
