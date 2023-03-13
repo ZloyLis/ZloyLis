@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что интересного было на MWC 2023?](https://habr.com/ru/post/722098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722098)
 - [Как системный аналитик может улучшить юзабилити проекта](https://habr.com/ru/post/722094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722094)
 - [[Перевод] Тестирование UI в JavaScript – наилучшие практики](https://habr.com/ru/post/722004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722004)
-- [[Перевод] О моём трудном и утомительном пути от идеи до веб-сайта](https://habr.com/ru/post/721998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721998)
-- [Security Week 2311: уязвимости в умных дверных замках Akuvox](https://habr.com/ru/post/722052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722052)
-- [[Перевод] Playwright и Puppeteer в 2023 году: что выбрать](https://habr.com/ru/post/721740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721740)
+- [[Перевод] О трудном и утомительном пути от идеи до веб-сайта](https://habr.com/ru/post/721998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721998)
+- [[Перевод] Spring Data JPA: проекции в запросах](https://habr.com/ru/post/722060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
