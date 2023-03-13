@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2311: уязвимости в умных дверных замках Akuvox](https://habr.com/ru/post/722052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722052)
 - [[Перевод] Playwright и Puppeteer в 2023 году: что выбрать](https://habr.com/ru/post/721740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721740)
 - [[Перевод] Как нанять талантливого программиста и никому не навредить](https://habr.com/ru/post/722018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722018)
 - [Jetpack Compose — сила Android-разработки](https://habr.com/ru/post/722040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722040)
 - [Методы и способы построения нейросетевого ПО. Что надо знать, если вы решили профессионально разрабатывать ИНС. Часть 2](https://habr.com/ru/post/722030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722030)
-- [Как я повелась на разрекламированные условия IT-компании и поплатилась](https://habr.com/ru/post/721480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
