@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Достаточно ли защищен ваш GraphQL API?](https://habr.com/ru/post/722014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722014)
-- [[Перевод] Управление памятью JavaScript: Как избежать распространенных утечек памяти и повысить производительность](https://habr.com/ru/post/721994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721994)
-- [Свой мониторинг сайтов: от идеи до реализации](https://habr.com/ru/post/720488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720488)
-- [Проводим тестирование и анализ поиска в интернет магазине. На примере](https://habr.com/ru/post/721968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721968)
-- [Генерация 2D мира с помощью клеточного автомата на Python](https://habr.com/ru/post/721956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721956)
+- [[Перевод] Playwright и Puppeteer в 2023 году: что выбрать](https://habr.com/ru/post/721740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721740)
+- [[Перевод] Как нанять талантливого программиста и никому не навредить](https://habr.com/ru/post/722018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722018)
+- [Jetpack Compose — сила Android-разработки](https://habr.com/ru/post/722040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722040)
+- [Методы и способы построения нейросетевого ПО. Что надо знать, если вы решили профессионально разрабатывать ИНС. Часть 2](https://habr.com/ru/post/722030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722030)
+- [Как я повелась на разрекламированные условия IT-компании и поплатилась](https://habr.com/ru/post/721480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
