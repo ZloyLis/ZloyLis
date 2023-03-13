@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #479 &lpar;6 — 12 марта&rpar;](https://habr.com/ru/post/721898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721898)
 - [Темные Паттерны — это сложно. Эффект «Большой колы»](https://habr.com/ru/post/721896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721896)
 - [Анимация UIView, зависящая от прокрутки содержимого UIScrollView](https://habr.com/ru/post/721894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721894)
 - [React и Typescript: Создание динамического компонента на примере кнопки](https://habr.com/ru/post/721862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721862)
 - [Пчела на работе, разработка игр на SFML C++](https://habr.com/ru/post/721860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721860)
-- [Использование Rust в Веб-Разработке](https://habr.com/ru/post/721856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
