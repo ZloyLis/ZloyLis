@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Достаточно ли защищен ваш GraphQL API?](https://habr.com/ru/post/722014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722014)
 - [[Перевод] Управление памятью JavaScript: Как избежать распространенных утечек памяти и повысить производительность](https://habr.com/ru/post/721994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721994)
 - [Свой мониторинг сайтов: от идеи до реализации](https://habr.com/ru/post/720488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720488)
+- [Проводим тестирование и анализ поиска в интернет магазине. На примере](https://habr.com/ru/post/721968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721968)
 - [Генерация 2D мира с помощью клеточного автомата на Python](https://habr.com/ru/post/721956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721956)
-- [Что не так с твоим покрытием тестов в Go?](https://habr.com/ru/post/721958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721958)
-- [Делать Data Vault руками? НЕТ! Подходы к автоматической генерации при построении Data Vault](https://habr.com/ru/post/721950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
