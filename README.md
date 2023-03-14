@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Возможности продления кривых для пользователей ядра C3D](https://habr.com/ru/post/721262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721262)
-- [О машинном обучении с точки зрения ИБ: реальная обстановка](https://habr.com/ru/post/721930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721930)
-- [Неожиданная проблема с макросами &lpar;точнее без макросов&rpar;](https://habr.com/ru/post/721908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721908)
-- [Java для сисадминов](https://habr.com/ru/post/721210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721210)
-- [Главное из мира Python за февраль 2023](https://habr.com/ru/post/722008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722008)
+- [Подходы для создания системы управления доступом устройства на ОС Android. Что изменилось в 2023 году?](https://habr.com/ru/post/722232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722232)
+- [Проверка XML. Schematron](https://habr.com/ru/post/719956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719956)
+- [МентиМентор: как и зачем работать с джунами](https://habr.com/ru/post/722104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722104)
+- [Как разминировать свой код на PHP &lpar;и не только&rpar;?](https://habr.com/ru/post/708112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708112)
+- [Как мы сделали для разработчиков универсальную шину событий, не требующую знаний Kafka и прочих брокеров](https://habr.com/ru/post/721964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
