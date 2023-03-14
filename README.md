@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Учимся тестированию с помощью Bootstrap](https://habr.com/ru/post/720874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720874)
+- [Как менять работу без стресса: идём в гости в компанию через прелогин](https://habr.com/ru/post/722102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722102)
+- [[Перевод] Политика как код на Kubernetes вместе с Kyverno](https://habr.com/ru/post/722264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722264)
 - [[Перевод] Веб-скрейпинг с помощью JavaScript и Node.js — исчерпывающее руководство](https://habr.com/ru/post/722300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722300)
 - [Очередной этап сделайсама: микроконтроллеры + JS](https://habr.com/ru/post/721928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721928)
-- [Проверка корневых структур на изоморфизм](https://habr.com/ru/post/722292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722292)
-- [Интеграция с Apache Cassandra. Создаем микросервис с Cassandra и Kafka](https://habr.com/ru/post/722278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722278)
-- [Бот из машины. Как инженеру сократить время на диагностику дисков](https://habr.com/ru/post/722082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
