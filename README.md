@@ -35,10 +35,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Бот из машины. Как инженеру сократить время на диагностику дисков](https://habr.com/ru/post/722082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722082)
+- [Почему 17 исходов лучше 100 тысяч, или как аэропорт систему рекомендаций настраивал](https://habr.com/ru/post/721868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721868)
 - [[Перевод] Первая информация о JDK 21: что принесет следующий LTS релиз?](https://habr.com/ru/post/721710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721710)
 - [Разработка надстройки Macro Tools VBA – для автоматизации процесса создания макросов в VBE MS Excel](https://habr.com/ru/post/720806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720806)
 - [Подходы для создания системы управления доступом устройства на ОС Android. Что изменилось в 2023 году?](https://habr.com/ru/post/722232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722232)
-- [Проверка XML. Schematron](https://habr.com/ru/post/719956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
