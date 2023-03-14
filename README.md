@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бот из машины. Как инженеру сократить время на диагностику дисков](https://habr.com/ru/post/722082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722082)
+- [[Перевод] Первая информация о JDK 21: что принесет следующий LTS релиз?](https://habr.com/ru/post/721710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721710)
+- [Разработка надстройки Macro Tools VBA – для автоматизации процесса создания макросов в VBE MS Excel](https://habr.com/ru/post/720806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720806)
 - [Подходы для создания системы управления доступом устройства на ОС Android. Что изменилось в 2023 году?](https://habr.com/ru/post/722232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722232)
 - [Проверка XML. Schematron](https://habr.com/ru/post/719956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719956)
-- [МентиМентор: как и зачем работать с джунами](https://habr.com/ru/post/722104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722104)
-- [Как разминировать свой код на PHP &lpar;и не только&rpar;?](https://habr.com/ru/post/708112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708112)
-- [Как мы сделали для разработчиков универсальную шину событий, не требующую знаний Kafka и прочих брокеров](https://habr.com/ru/post/721964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
