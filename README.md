@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Веб-скрейпинг с помощью JavaScript и Node.js — исчерпывающее руководство](https://habr.com/ru/post/722300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722300)
+- [Очередной этап сделайсама: микроконтроллеры + JS](https://habr.com/ru/post/721928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721928)
+- [Проверка корневых структур на изоморфизм](https://habr.com/ru/post/722292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722292)
+- [Интеграция с Apache Cassandra. Создаем микросервис с Cassandra и Kafka](https://habr.com/ru/post/722278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722278)
 - [Бот из машины. Как инженеру сократить время на диагностику дисков](https://habr.com/ru/post/722082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722082)
-- [Почему 17 исходов лучше 100 тысяч, или как аэропорт систему рекомендаций настраивал](https://habr.com/ru/post/721868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721868)
-- [[Перевод] Первая информация о JDK 21: что принесет следующий LTS релиз?](https://habr.com/ru/post/721710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721710)
-- [Разработка надстройки Macro Tools VBA – для автоматизации процесса создания макросов в VBE MS Excel](https://habr.com/ru/post/720806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720806)
-- [Подходы для создания системы управления доступом устройства на ОС Android. Что изменилось в 2023 году?](https://habr.com/ru/post/722232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
