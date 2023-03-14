@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java для сисадминов](https://habr.com/ru/post/721210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721210)
 - [Главное из мира Python за февраль 2023](https://habr.com/ru/post/722008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722008)
 - [Как создать шаблон документации к микросервису](https://habr.com/ru/post/722132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722132)
 - [Регулятор нагрузки](https://habr.com/ru/post/722184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722184)
 - [Встраивание WebGL в HTML-страницу с помощью Three.JS](https://habr.com/ru/post/721912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721912)
-- [[Перевод] Как локализовать все ваши iOS приложения на 20 языков за 5 минут](https://habr.com/ru/post/722172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
