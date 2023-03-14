@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Возможности продления кривых для пользователей ядра C3D](https://habr.com/ru/post/721262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721262)
+- [О машинном обучении с точки зрения ИБ: реальная обстановка](https://habr.com/ru/post/721930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721930)
+- [Неожиданная проблема с макросами &lpar;точнее без макросов&rpar;](https://habr.com/ru/post/721908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721908)
 - [Java для сисадминов](https://habr.com/ru/post/721210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721210)
 - [Главное из мира Python за февраль 2023](https://habr.com/ru/post/722008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722008)
-- [Как создать шаблон документации к микросервису](https://habr.com/ru/post/722132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722132)
-- [Регулятор нагрузки](https://habr.com/ru/post/722184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722184)
-- [Встраивание WebGL в HTML-страницу с помощью Three.JS](https://habr.com/ru/post/721912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
