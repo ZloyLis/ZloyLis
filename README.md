@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Описательная статистика перформанс-распределений](https://habr.com/ru/post/722342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722342)
 - [6 простых принципов написания приложения на Vue, которое легко поддерживать &lpar;часть 1&rpar;](https://habr.com/ru/post/722332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722332)
 - [[Перевод] Учимся тестированию с помощью Bootstrap](https://habr.com/ru/post/720874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720874)
 - [Как менять работу без стресса: идём в гости в компанию через прелогин](https://habr.com/ru/post/722102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722102)
 - [[Перевод] Политика как код на Kubernetes вместе с Kyverno](https://habr.com/ru/post/722264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722264)
-- [[Перевод] Веб-скрейпинг с помощью JavaScript и Node.js — исчерпывающее руководство](https://habr.com/ru/post/722300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
