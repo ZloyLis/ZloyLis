@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram — Боже храни стандартизацию, или Паша найми дизайнера и верни стену](https://habr.com/ru/post/722530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722530)
+- [Численно решаем волновое уравнение разностной схемой](https://habr.com/ru/post/722518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722518)
 - [Апгрейд и рефакторинг PHP-проектов — теперь это просто с Rector](https://habr.com/ru/post/720216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720216)
 - [Выгорание программиста. Интересная работа — самая опасная](https://habr.com/ru/post/722000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722000)
 - [Лемма Гаусса и теорема Эйзенштейна для многочленов](https://habr.com/ru/post/722504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722504)
-- [«Школа 21» в 2022 году: результаты работы и планы на будущее](https://habr.com/ru/post/722490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722490)
-- [Легендарный игровой смартфон PlayStation — таких больше не делают! Оживляем и смотрим на Sony Ericsson Xperia Play](https://habr.com/ru/post/721782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
