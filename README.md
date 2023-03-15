@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто такой бизнес-аналитик?](https://habr.com/ru/post/722572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722572)
+- [Износ основных средств — мобильное приложение на Flutter](https://habr.com/ru/post/722562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722562)
+- [[Перевод] Защитите свои рабочие нагрузки Kubernetes с помощью gVisor](https://habr.com/ru/post/722550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722550)
+- [progressive_plots или ускоряем построение графиков](https://habr.com/ru/post/722556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722556)
 - [Не можете измерить — не сможете улучшить: как мы используем метрики в разработке автотестов](https://habr.com/ru/post/722378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722378)
-- [Как и зачем тестировать код на бэкенде: рекомендации для новичков](https://habr.com/ru/post/721434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721434)
-- [Численно решаем волновое уравнение разностной схемой](https://habr.com/ru/post/722518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722518)
-- [Апгрейд и рефакторинг PHP-проектов — теперь это просто с Rector](https://habr.com/ru/post/720216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720216)
-- [Выгорание программиста. Интересная работа — самая опасная](https://habr.com/ru/post/722000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
