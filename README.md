@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем простой калькулятор используя фреймворк eframe &lpar;egui&rpar;](https://habr.com/ru/post/722438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722438)
+- [[Перевод] 5 ключевых различий между GPT-4 и его предшественниками](https://habr.com/ru/post/722436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722436)
 - [Подробно рассматриваем обратное распространение ошибки для простой нейронной сети. Численный пример](https://habr.com/ru/post/722422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722422)
 - [Как Digital twins помогают создать автономную фабрику](https://habr.com/ru/post/722420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722420)
 - [Описательная статистика перформанс-распределений](https://habr.com/ru/post/722342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722342)
-- [6 простых принципов написания приложения на Vue, которое легко поддерживать &lpar;часть 1&rpar;](https://habr.com/ru/post/722332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722332)
-- [[Перевод] Учимся тестированию с помощью Bootstrap](https://habr.com/ru/post/720874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
