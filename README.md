@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Апгрейд и рефакторинг PHP-проектов — теперь это просто с Rector](https://habr.com/ru/post/720216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720216)
+- [Выгорание программиста. Интересная работа — самая опасная](https://habr.com/ru/post/722000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722000)
+- [Лемма Гаусса и теорема Эйзенштейна для многочленов](https://habr.com/ru/post/722504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722504)
 - [«Школа 21» в 2022 году: результаты работы и планы на будущее](https://habr.com/ru/post/722490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722490)
 - [Легендарный игровой смартфон PlayStation — таких больше не делают! Оживляем и смотрим на Sony Ericsson Xperia Play](https://habr.com/ru/post/721782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721782)
-- [Смотрю в книгу — вижу «фигу». Техника «абсорбирования» учебников SQ3R вместо пассивного чтения](https://habr.com/ru/post/721468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721468)
-- [Как усмирить данные о звонках в таблицах одним скриптом](https://habr.com/ru/post/722322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722322)
-- [Оплачиваемое хобби: как из студента стать ментором курса](https://habr.com/ru/post/722458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
