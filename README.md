@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [→ Как сделать гармоничный, полезный интерфейс и сэкономить на разработке](https://habr.com/ru/post/722424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722424)
+- [Подключаемся к Notion API при помощи R](https://habr.com/ru/post/722654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722654)
+- [Язык программирования Rust: безопасность, производительность и преимущества](https://habr.com/ru/post/722658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722658)
 - [Бесплатный мультиязычный чат для сайта на Tawk + Notion + Telegram + chatGPT + GPT-Index](https://habr.com/ru/post/722388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722388)
 - [[Перевод] Вот что такое искусственный интеллект по мнению изобретателя байесовских сетей](https://habr.com/ru/post/722582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722582)
-- [[Перевод] SourceBuddy динамически компилирует исходный код Java](https://habr.com/ru/post/711922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711922)
-- [[Перевод] Возможности JavaScript и TypeScript последних лет. Часть 1](https://habr.com/ru/post/722450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722450)
-- [Фреймворк Qual IT и его новые фичи](https://habr.com/ru/post/722596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
