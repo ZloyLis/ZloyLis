@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Снова про ARIS. Коллекция «велосипедов» для разработчика](https://habr.com/ru/post/722418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722418)
+- [[Перевод] Оптимизируем изображения в HTML](https://habr.com/ru/post/721972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721972)
+- [Apple Pro Weekly News &lpar;06.03 – 12.03.23&rpar;](https://habr.com/ru/post/722442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722442)
 - [Код: маленький и ненужный](https://habr.com/ru/post/722448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722448)
 - [Правильно ли вы используете useSelector в Redux?](https://habr.com/ru/post/722444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722444)
-- [Пишем простой калькулятор используя фреймворк eframe &lpar;egui&rpar;](https://habr.com/ru/post/722438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722438)
-- [[Перевод] 5 ключевых различий между GPT-4 и его предшественниками](https://habr.com/ru/post/722436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722436)
-- [Подробно рассматриваем обратное распространение ошибки для простой нейронной сети. Численный пример](https://habr.com/ru/post/722422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
