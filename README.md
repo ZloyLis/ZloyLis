@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Код: маленький и ненужный](https://habr.com/ru/post/722448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722448)
 - [Правильно ли вы используете useSelector в Redux?](https://habr.com/ru/post/722444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722444)
 - [Пишем простой калькулятор используя фреймворк eframe &lpar;egui&rpar;](https://habr.com/ru/post/722438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722438)
 - [[Перевод] 5 ключевых различий между GPT-4 и его предшественниками](https://habr.com/ru/post/722436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722436)
 - [Подробно рассматриваем обратное распространение ошибки для простой нейронной сети. Численный пример](https://habr.com/ru/post/722422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722422)
-- [Как Digital twins помогают создать автономную фабрику](https://habr.com/ru/post/722420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
