@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вот что такое искусственный интеллект по мнению изобретателя байесовских сетей](https://habr.com/ru/post/722582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722582)
 - [[Перевод] SourceBuddy динамически компилирует исходный код Java](https://habr.com/ru/post/711922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711922)
 - [[Перевод] Возможности JavaScript и TypeScript последних лет. Часть 1](https://habr.com/ru/post/722450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722450)
 - [Фреймворк Qual IT и его новые фичи](https://habr.com/ru/post/722596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722596)
 - [Лучшие языки программирования для изучения в 2023 году | Голосование](https://habr.com/ru/post/722586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722586)
-- [6 простых принципов написания приложения на Vue, которое легко поддерживать &lpar;часть 2&rpar;](https://habr.com/ru/post/722568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
