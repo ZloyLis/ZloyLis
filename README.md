@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Школа 21» в 2022 году: результаты работы и планы на будущее](https://habr.com/ru/post/722490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722490)
+- [Легендарный игровой смартфон PlayStation — таких больше не делают! Оживляем и смотрим на Sony Ericsson Xperia Play](https://habr.com/ru/post/721782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721782)
+- [Смотрю в книгу — вижу «фигу». Техника «абсорбирования» учебников SQ3R вместо пассивного чтения](https://habr.com/ru/post/721468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721468)
+- [Как усмирить данные о звонках в таблицах одним скриптом](https://habr.com/ru/post/722322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722322)
 - [Оплачиваемое хобби: как из студента стать ментором курса](https://habr.com/ru/post/722458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722458)
-- [Переходим на Flutter: за и против](https://habr.com/ru/post/722466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722466)
-- [Снова про ARIS. Коллекция «велосипедов» для разработчика](https://habr.com/ru/post/722418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722418)
-- [[Перевод] Оптимизируем изображения в HTML](https://habr.com/ru/post/721972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721972)
-- [Apple Pro Weekly News &lpar;06.03 – 12.03.23&rpar;](https://habr.com/ru/post/722442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
