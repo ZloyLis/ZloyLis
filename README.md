@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Топ актуальных языков программирования для изучения в 2023 году | Голосование](https://habr.com/ru/post/722586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722586)
+- [[Перевод] SourceBuddy динамически компилирует исходный код Java](https://habr.com/ru/post/711922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=711922)
+- [[Перевод] Возможности JavaScript и TypeScript последних лет. Часть 1](https://habr.com/ru/post/722450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722450)
+- [Лучшие языки программирования для изучения в 2023 году | Голосование](https://habr.com/ru/post/722586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722586)
 - [6 простых принципов написания приложения на Vue, которое легко поддерживать &lpar;часть 2&rpar;](https://habr.com/ru/post/722568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722568)
 - [Кто такой бизнес-аналитик?](https://habr.com/ru/post/722572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722572)
-- [Износ основных средств — мобильное приложение на Flutter](https://habr.com/ru/post/722562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722562)
-- [[Перевод] Защитите свои рабочие нагрузки Kubernetes с помощью gVisor](https://habr.com/ru/post/722550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
