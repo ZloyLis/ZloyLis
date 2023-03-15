@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ актуальных языков программирования для изучения в 2023 году | Голосование](https://habr.com/ru/post/722586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722586)
+- [6 простых принципов написания приложения на Vue, которое легко поддерживать &lpar;часть 2&rpar;](https://habr.com/ru/post/722568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722568)
 - [Кто такой бизнес-аналитик?](https://habr.com/ru/post/722572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722572)
 - [Износ основных средств — мобильное приложение на Flutter](https://habr.com/ru/post/722562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722562)
 - [[Перевод] Защитите свои рабочие нагрузки Kubernetes с помощью gVisor](https://habr.com/ru/post/722550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722550)
-- [progressive_plots или ускоряем построение графиков](https://habr.com/ru/post/722556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722556)
-- [Не можете измерить — не сможете улучшить: как мы используем метрики в разработке автотестов](https://habr.com/ru/post/722378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
