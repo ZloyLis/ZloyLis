@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оплачиваемое хобби: как из студента стать ментором курса](https://habr.com/ru/post/722458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722458)
+- [Переходим на Flutter: за и против](https://habr.com/ru/post/722466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722466)
 - [Снова про ARIS. Коллекция «велосипедов» для разработчика](https://habr.com/ru/post/722418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722418)
 - [[Перевод] Оптимизируем изображения в HTML](https://habr.com/ru/post/721972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721972)
 - [Apple Pro Weekly News &lpar;06.03 – 12.03.23&rpar;](https://habr.com/ru/post/722442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722442)
-- [Код: маленький и ненужный](https://habr.com/ru/post/722448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722448)
-- [Правильно ли вы используете useSelector в Redux?](https://habr.com/ru/post/722444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
