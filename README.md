@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутри Mailion: как устроен фронтенд почты на миллион пользователей](https://habr.com/ru/post/722396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722396)
+- [Большой обзор Service Mesh: часть вторая](https://habr.com/ru/post/722778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722778)
 - [CJM как способ взглянуть на очевидные вещи по-новому](https://habr.com/ru/post/722768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722768)
 - [Функциональный магнитофон 2: больше функциональности](https://habr.com/ru/post/722682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722682)
 - [Как начать заниматься багхантингом веб-приложений. Часть 2](https://habr.com/ru/post/721978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721978)
-- [Python Дайджест: как актуализировать всю кодовую базу с помощью pre-commit](https://habr.com/ru/post/721732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721732)
-- [Как наниматели используют вас для бесплатной работы в тестовом задании](https://habr.com/ru/post/722738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
