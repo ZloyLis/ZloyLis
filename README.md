@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое на самом деле креативное мышление, почему оно так нужно в IT и как его развить даже самым «некреативным»](https://habr.com/ru/post/722230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722230)
+- [Почему low-code не помогает «хорошим людям»](https://habr.com/ru/post/722818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722818)
+- [Ethers js — основы](https://habr.com/ru/post/722816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722816)
+- [Десять интересных фактов в честь дня π](https://habr.com/ru/post/722802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722802)
 - [Внутри Mailion: как устроен фронтенд почты на миллион пользователей](https://habr.com/ru/post/722396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722396)
-- [Большой обзор Service Mesh: часть вторая](https://habr.com/ru/post/722778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722778)
-- [CJM как способ взглянуть на очевидные вещи по-новому](https://habr.com/ru/post/722768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722768)
-- [Функциональный магнитофон 2: больше функциональности](https://habr.com/ru/post/722682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722682)
-- [Как начать заниматься багхантингом веб-приложений. Часть 2](https://habr.com/ru/post/721978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
