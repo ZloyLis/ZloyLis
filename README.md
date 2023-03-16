@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гугл таблица как бд для телеграм бота](https://habr.com/ru/post/722952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722952)
 - [Что в DI-Контейнере твоем, С++? Пробуем написать](https://habr.com/ru/post/722940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722940)
 - [Установка OpenCV под Windows](https://habr.com/ru/post/722918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722918)
 - [Разбираем ошибки начинающих iOS-разработчиков](https://habr.com/ru/post/722812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722812)
 - [Краткий обзор нововведений C++23: deducing this](https://habr.com/ru/post/722668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722668)
-- [[Перевод] 5 паттернов параллельного программирования в GO, которые сделают ваш следующий проект лучше](https://habr.com/ru/post/722880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
