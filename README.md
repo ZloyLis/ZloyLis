@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать заниматься багхантингом веб-приложений. Часть 2](https://habr.com/ru/post/721978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721978)
+- [Python Дайджест: как актуализировать всю кодовую базу с помощью pre-commit](https://habr.com/ru/post/721732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721732)
+- [Как наниматели используют вас для бесплатной работы в тестовом задании](https://habr.com/ru/post/722738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722738)
+- [Как фронтендер подписывать CSR учился](https://habr.com/ru/post/722732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722732)
 - [Как мы делали редизайн писем, почему это было так сложно и почему лучшее письмо — самое простое](https://habr.com/ru/post/722708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722708)
-- [AES, autoconf &amp;amp; emscripten. Часть II — симметричное шифрование](https://habr.com/ru/post/722148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722148)
-- [Говорящая Java](https://habr.com/ru/post/722674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722674)
-- [→ Как сделать гармоничный, полезный интерфейс и сэкономить на разработке](https://habr.com/ru/post/722424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722424)
-- [Подключаемся к Notion API при помощи R](https://habr.com/ru/post/722654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
