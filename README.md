@@ -34,10 +34,10 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Tone of Voice и его влияние на бренд: теория, примеры, полезные инструменты](https://habr.com/ru/post/722894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722894)
+- [Краткий обзор нововведений C++23: deducing this](https://habr.com/ru/post/722668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722668)
+- [[Перевод] 5 паттернов параллельного программирования в GO, которые сделают ваш следующий проект лучше](https://habr.com/ru/post/722880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722880)
 - [Граф стека вызовов — новая функция для GitHub, GitLab, JetBrains IDE](https://habr.com/ru/post/722864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722864)
 - [К 70-летию Фортрана. Историческая справка. Часть I](https://habr.com/ru/post/722834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722834)
-- [Удаленка или офис?](https://habr.com/ru/post/722854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722854)
 - [[Перевод] JDK 20 и JDK 21: что мы знаем на сегодняшний день](https://habr.com/ru/post/721714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721714)
 <!-- BLOG-POST-LIST:END -->
 
