@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [К 70-летию Фортрана. Историческая справка. Часть I](https://habr.com/ru/post/722834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722834)
+- [Удаленка или офис?](https://habr.com/ru/post/722854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722854)
+- [[Перевод] JDK 20 и JDK 21: что мы знаем на сегодняшний день](https://habr.com/ru/post/721714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721714)
 - [Что такое на самом деле креативное мышление, почему оно так нужно в IT и как его развить даже самым «некреативным»](https://habr.com/ru/post/722230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722230)
 - [Почему low-code не помогает «хорошим людям»](https://habr.com/ru/post/722818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722818)
-- [Ethers js — основы](https://habr.com/ru/post/722816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722816)
-- [Десять интересных фактов в честь дня π](https://habr.com/ru/post/722802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722802)
-- [Внутри Mailion: как устроен фронтенд почты на миллион пользователей](https://habr.com/ru/post/722396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
