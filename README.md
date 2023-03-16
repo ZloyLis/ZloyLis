@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AES, autoconf &amp;amp; emscripten. Часть II — симметричное шифрование](https://habr.com/ru/post/722148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722148)
 - [Говорящая Java](https://habr.com/ru/post/722674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722674)
 - [→ Как сделать гармоничный, полезный интерфейс и сэкономить на разработке](https://habr.com/ru/post/722424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722424)
 - [Подключаемся к Notion API при помощи R](https://habr.com/ru/post/722654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722654)
 - [Язык программирования Rust: безопасность, производительность и преимущества](https://habr.com/ru/post/722658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722658)
-- [Бесплатный мультиязычный чат для сайта на Tawk + Notion + Telegram + chatGPT + GPT-Index](https://habr.com/ru/post/722388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
