@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.JS: заменили модуль SSH2 на OpenSSH и снизили задержки eventloop в 15 раз](https://habr.com/ru/post/722616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722616)
+- [Пятничные клеточные автоматы: 10 правил «больших, чем жизнь»](https://habr.com/ru/post/722800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722800)
 - [[Перевод] Стохастический язык программирования на основе алгоритмов Маркова](https://habr.com/ru/post/721314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721314)
 - [[Перевод] Как создать монорепозиторий с несколькими сервисами, используя Lerna и Yarn?](https://habr.com/ru/post/722972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722972)
 - [Гугл таблица как бд для телеграм бота](https://habr.com/ru/post/722952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722952)
-- [Что в DI-Контейнере твоем, С++? Пробуем написать](https://habr.com/ru/post/722940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722940)
-- [Установка OpenCV под Windows](https://habr.com/ru/post/722918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
