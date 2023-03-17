@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как подключить платежный шлюз на примере Сбера](https://habr.com/ru/post/723078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723078)
-- [Восемь неочевидных вещей в шаблонах С++](https://habr.com/ru/post/723062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723062)
-- [«Нет разделения на онлайн и офлайн — мы сами его себе придумали»](https://habr.com/ru/post/723046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723046)
-- [Кем вы видите себя через 6 лет в тестировании?](https://habr.com/ru/post/722948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722948)
-- [Делаем бесконечную рабочую область без Canvas](https://habr.com/ru/post/722964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722964)
+- [[Перевод] Когда использовать микросервисы: отвечают Сэм Ньюмен и Мартин Фаулер](https://habr.com/ru/post/723076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723076)
+- [Хаос-инжиниринг с Chaos Mesh](https://habr.com/ru/post/723034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723034)
+- [[Перевод] Как быстро и просто обновлять YAML-файлы с помощью kubectl](https://habr.com/ru/post/722488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722488)
+- [Большой обзор Service Mesh: часть вторая](https://habr.com/ru/post/723092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723092)
+- [Приглашаем на Samokat.tech Meetup #2 — безопасность, Next JS и микрофронтенды](https://habr.com/ru/post/722934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
