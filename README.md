@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кросс-компилируем Rust приложения при помощи Nix](https://habr.com/ru/post/723194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723194)
+- [Понять комбинаторные селекторы и селекторы потомков в CSS](https://habr.com/ru/post/722962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722962)
+- [Как компании подготовиться к модуляризации iOS приложений](https://habr.com/ru/post/723190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723190)
+- [Эволюция Dev-серверов CarPrice: от монолита к микросервисам и Kubernetes](https://habr.com/ru/post/723180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723180)
 - [[Перевод] Будущее &lpar;и прошлое&rpar; веба — это рендеринг на стороне сервера](https://habr.com/ru/post/723174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723174)
-- [[Перевод] Использование Java Records в качестве DTO в Spring Boot 3](https://habr.com/ru/post/721694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721694)
-- [[Перевод] Основы фронтенд-разработки: фреймворки, DOM-дерево, взаимодействие с бэкендом](https://habr.com/ru/post/722464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722464)
-- [К 70-летию Фортрана. Историческая справка. Часть II](https://habr.com/ru/post/723158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723158)
-- [[Перевод] Нужно ли говорить на собеседовании, что предложенная задача вам уже встречалась?](https://habr.com/ru/post/723146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
