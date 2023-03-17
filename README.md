@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Нет разделения на онлайн и офлайн — мы сами его себе придумали»](https://habr.com/ru/post/723046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723046)
+- [Кем вы видите себя через 6 лет в тестировании?](https://habr.com/ru/post/722948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722948)
+- [Делаем бесконечную рабочую область без Canvas](https://habr.com/ru/post/722964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722964)
 - [Node.JS: заменили модуль SSH2 на OpenSSH и снизили задержки eventloop в 15 раз](https://habr.com/ru/post/722616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722616)
 - [Пятничные клеточные автоматы: 10 правил «больших, чем жизнь»](https://habr.com/ru/post/722800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722800)
-- [[Перевод] Стохастический язык программирования на основе алгоритмов Маркова](https://habr.com/ru/post/721314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721314)
-- [[Перевод] Как создать монорепозиторий с несколькими сервисами, используя Lerna и Yarn?](https://habr.com/ru/post/722972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722972)
-- [Гугл таблица как бд для телеграм бота](https://habr.com/ru/post/722952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
