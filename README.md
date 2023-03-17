@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Будущее &lpar;и прошлое&rpar; веба — это рендеринг на стороне сервера](https://habr.com/ru/post/723174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723174)
 - [[Перевод] Использование Java Records в качестве DTO в Spring Boot 3](https://habr.com/ru/post/721694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721694)
 - [[Перевод] Основы фронтенд-разработки: фреймворки, DOM-дерево, взаимодействие с бэкендом](https://habr.com/ru/post/722464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722464)
 - [К 70-летию Фортрана. Историческая справка. Часть II](https://habr.com/ru/post/723158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723158)
 - [[Перевод] Нужно ли говорить на собеседовании, что предложенная задача вам уже встречалась?](https://habr.com/ru/post/723146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723146)
-- [[Перевод] Когда использовать микросервисы: отвечают Сэм Ньюмен и Мартин Фаулер](https://habr.com/ru/post/723076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
