@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подключить платежный шлюз на примере Сбера](https://habr.com/ru/post/723078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723078)
+- [Восемь неочевидных вещей в шаблонах С++](https://habr.com/ru/post/723062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723062)
 - [«Нет разделения на онлайн и офлайн — мы сами его себе придумали»](https://habr.com/ru/post/723046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723046)
 - [Кем вы видите себя через 6 лет в тестировании?](https://habr.com/ru/post/722948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722948)
 - [Делаем бесконечную рабочую область без Canvas](https://habr.com/ru/post/722964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722964)
-- [Node.JS: заменили модуль SSH2 на OpenSSH и снизили задержки eventloop в 15 раз](https://habr.com/ru/post/722616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722616)
-- [Пятничные клеточные автоматы: 10 правил «больших, чем жизнь»](https://habr.com/ru/post/722800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
