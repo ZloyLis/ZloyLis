@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы нейросеть в браузер тащили](https://habr.com/ru/post/723286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723286)
 - [Продуктовый дизайн. Инструкция по Agile методологии для новичка](https://habr.com/ru/post/723272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723272)
 - [[Перевод] Может ли GPT-4 на самом деле писать код?](https://habr.com/ru/post/723238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723238)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;21 марта — 1 апреля 2023&rpar;](https://habr.com/ru/post/723264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723264)
 - [Математическая продлёнка. Мир треугольников](https://habr.com/ru/post/649015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=649015)
-- [Трассировка сервисов через очередь сообщений. OpenTelemetry, NATS](https://habr.com/ru/post/723248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
