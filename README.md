@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Трассировка сервисов через очередь сообщений. OpenTelemetry, NATS](https://habr.com/ru/post/723248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723248)
 - [[Перевод] Go. О покрытии кода интеграционными тестами и флаге -cover](https://habr.com/ru/post/723244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723244)
 - [Campus. Система, позволяющая управлять образовательным процессом. Мобильное приложение](https://habr.com/ru/post/721886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721886)
 - [Модель обнаружения смс-спама: создаем и тестируем](https://habr.com/ru/post/723224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723224)
 - [3 правила в веб-дизайне, которые упрощают жизнь разработчикам](https://habr.com/ru/post/723198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723198)
-- [Кросс-компилируем Rust приложения при помощи Nix](https://habr.com/ru/post/723194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
