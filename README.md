@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ближайшие бесплатные мероприятия по разработке &lpar;21 марта — 1 апреля 2023&rpar;](https://habr.com/ru/post/723264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723264)
 - [Математическая продлёнка. Мир треугольников](https://habr.com/ru/post/649015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=649015)
 - [Трассировка сервисов через очередь сообщений. OpenTelemetry, NATS](https://habr.com/ru/post/723248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723248)
 - [[Перевод] Go. О покрытии кода интеграционными тестами и флаге -cover](https://habr.com/ru/post/723244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723244)
 - [Campus. Система, позволяющая управлять образовательным процессом. Мобильное приложение](https://habr.com/ru/post/721886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721886)
-- [Модель обнаружения смс-спама: создаем и тестируем](https://habr.com/ru/post/723224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
