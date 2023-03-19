@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с научными данными в рамках data-driven подхода](https://habr.com/ru/post/723402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723402)
+- [Программирование — как выражение строгой математической теории](https://habr.com/ru/post/723398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723398)
+- [Как закалялась сталь современной симметричной криптографии. Глава 1. Классическая криптография](https://habr.com/ru/post/723392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723392)
 - [Примеры анимаций, зависящих от прокрутки содержимого UIScrollView](https://habr.com/ru/post/723386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723386)
 - [Худшие курсы по программированию 2023 | Голосование](https://habr.com/ru/post/723318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723318)
-- [Борьба за Жизнь. Состязание внутри клеточного автомата](https://habr.com/ru/post/723350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723350)
-- [Вечный RnD: chunk flushing для серверного рендеринга React + WMF](https://habr.com/ru/post/723348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723348)
-- [ChatGPT: продавец, юрист, психолог, … в роли консультанта на вашем сайте](https://habr.com/ru/post/723326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
