@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Борьба за Жизнь. Состязание внутри клеточного автомата](https://habr.com/ru/post/723350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723350)
+- [Вечный RnD: chunk flushing для серверного рендеринга React + WMF](https://habr.com/ru/post/723348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723348)
 - [ChatGPT: продавец, юрист, психолог, … в роли консультанта на вашем сайте](https://habr.com/ru/post/723326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723326)
 - [Быстрый поиск изоморфных подграфов](https://habr.com/ru/post/723328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723328)
 - [[Перевод] На что способен хороший отладчик](https://habr.com/ru/post/723308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723308)
-- [Django REST. Реализация функционала добавления в «избранное» с возможностью расширения типов добавляемого контента](https://habr.com/ru/post/723300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723300)
-- [Как мы нейросеть в браузер тащили](https://habr.com/ru/post/723286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
