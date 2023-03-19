@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: продавец, юрист, психолог, … в роли консультанта на вашем сайте](https://habr.com/ru/post/723326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723326)
 - [Быстрый поиск изоморфных подграфов](https://habr.com/ru/post/723328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723328)
 - [[Перевод] На что способен хороший отладчик](https://habr.com/ru/post/723308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723308)
 - [Django REST. Реализация функционала добавления в «избранное» с возможностью расширения типов добавляемого контента](https://habr.com/ru/post/723300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723300)
 - [Как мы нейросеть в браузер тащили](https://habr.com/ru/post/723286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723286)
-- [Продуктовый дизайн. Инструкция по Agile методологии для новичка](https://habr.com/ru/post/723272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
