@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Примеры анимаций, зависящих от прокрутки содержимого UIScrollView](https://habr.com/ru/post/723386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723386)
+- [Худшие курсы по программированию 2023 | Голосование](https://habr.com/ru/post/723318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723318)
 - [Борьба за Жизнь. Состязание внутри клеточного автомата](https://habr.com/ru/post/723350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723350)
 - [Вечный RnD: chunk flushing для серверного рендеринга React + WMF](https://habr.com/ru/post/723348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723348)
 - [ChatGPT: продавец, юрист, психолог, … в роли консультанта на вашем сайте](https://habr.com/ru/post/723326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723326)
-- [Быстрый поиск изоморфных подграфов](https://habr.com/ru/post/723328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723328)
-- [[Перевод] На что способен хороший отладчик](https://habr.com/ru/post/723308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
