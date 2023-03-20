@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Работа в офисе – эффективнее?](https://habr.com/ru/post/723652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723652)
 - [Возвращаясь к основам, или std::vector&amp;lt;char&amp;gt; в качестве выходного буфера для операций ввода-вывода](https://habr.com/ru/post/723632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723632)
 - [Green threads в Java: обзор](https://habr.com/ru/post/723634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723634)
 - [[Перевод] Быстрое начало работы с Gitlab CI/CD: пайплайн для веб-сайта на AWS S3 Bucket](https://habr.com/ru/post/723608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723608)
 - [Как развивался DevOps: от начала времен до ArgoCD и IaC](https://habr.com/ru/post/723148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723148)
-- [Security Week 2312: уязвимости 0-day в радиомодемах Samsung](https://habr.com/ru/post/723612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
