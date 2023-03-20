@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Быстрое начало работы с Gitlab CI/CD: пайплайн для веб-сайта на AWS S3 Bucket](https://habr.com/ru/post/723608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723608)
 - [Как развивался DevOps: от начала времен до ArgoCD и IaC](https://habr.com/ru/post/723148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723148)
 - [Security Week 2312: уязвимости 0-day в радиомодемах Samsung](https://habr.com/ru/post/723612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723612)
 - [Как новичку подарить жизнь telegram-боту на java](https://habr.com/ru/post/723580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723580)
 - [Как красиво писать формулы c LaTeX?](https://habr.com/ru/post/723564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723564)
-- [Обзор смартфона Google Pixel 6a: лучший камерафон в среднем классе](https://habr.com/ru/post/723562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
