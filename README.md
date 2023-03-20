@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переходим на Go: 16 материалов для самостоятельного изучения языка](https://habr.com/ru/post/722540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722540)
 - [[Перевод] Можно ли доверять ответам на математические вопросы ChatGPT и другим языковым моделям?](https://habr.com/ru/post/723462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723462)
 - [Мобильная разработка за неделю #480 &lpar;13 — 19 марта&rpar;](https://habr.com/ru/post/723458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723458)
 - [[Перевод] Использовать unwrap&lpar;&rpar; в Rust — это нормально](https://habr.com/ru/post/723434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723434)
 - [Telegram удалил нашего ChatGPT-бота на 27,000 пользователей без объяснения причин](https://habr.com/ru/post/723428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723428)
-- [Стартап в Соло. Часть 4: техническая реализация](https://habr.com/ru/post/723412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
