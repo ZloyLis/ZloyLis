@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Самая маленькая хеш-таблица в мире](https://habr.com/ru/post/723536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723536)
+- [Как системному аналитику написать хорошее резюме — 11 рекомендаций](https://habr.com/ru/post/723540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723540)
 - [[recovery mode] Блокчейн для распределенного реестра](https://habr.com/ru/post/723530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723530)
 - [Вопросы и ответы для собеседования по Kotlin. Часть 2](https://habr.com/ru/post/722686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722686)
 - [Вопросы и ответы для собеседования по Kotlin. Часть 1](https://habr.com/ru/post/721084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721084)
-- [Бестолковый дизайн](https://habr.com/ru/post/723030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723030)
-- [[Перевод] Чтобы научить компьютеры математике учёные объединяют разные ИИ](https://habr.com/ru/post/723044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
