@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Самая маленькая хеш-таблица в мире](https://habr.com/ru/post/723536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723536)
-- [Как системному аналитику написать хорошее резюме — 11 рекомендаций](https://habr.com/ru/post/723540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723540)
-- [[recovery mode] Блокчейн для распределенного реестра](https://habr.com/ru/post/723530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723530)
-- [Вопросы и ответы для собеседования по Kotlin. Часть 2](https://habr.com/ru/post/722686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722686)
-- [Вопросы и ответы для собеседования по Kotlin. Часть 1](https://habr.com/ru/post/721084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721084)
+- [Как красиво писать формулы c LaTeX?](https://habr.com/ru/post/723564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723564)
+- [Обзор смартфона Google Pixel 6a: лучший камерафон в среднем классе](https://habr.com/ru/post/723562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723562)
+- [Cocoapods, Carthage, SPM: как выбрать менеджер зависимостей в iOS](https://habr.com/ru/post/723560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723560)
+- [YTsaurus: основная система для хранения и обработки данных Яндекса теперь open source](https://habr.com/ru/post/721526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721526)
+- [[Перевод] Отладка SwiftUI с пользовательским модификатором вью](https://habr.com/ru/post/723140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
