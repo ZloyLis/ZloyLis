@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы за год в 5 раз снизили количество приемочных багов через shift left testing](https://habr.com/ru/post/722604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722604)
 - [Apple Pro Weekly News &lpar;13.03 – 19.03.23&rpar;](https://habr.com/ru/post/723682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723682)
 - [Реверсинжинерим московское метро](https://habr.com/ru/post/723680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723680)
 - [Создание простого SPA на VueJs с использованием CMS Strapi](https://habr.com/ru/post/723676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723676)
 - [Обучение VAE и нижняя вариационная граница](https://habr.com/ru/post/723674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723674)
-- [[Перевод] Работа в офисе – эффективнее?](https://habr.com/ru/post/723652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
