@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В платформе Deckhouse появился модуль delivery для непрерывной доставки приложений в Kubernetes](https://habr.com/ru/post/723656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723656)
+- [Советы по веб-разработке, которые я дал бы себе 2 года назад](https://habr.com/ru/post/723702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723702)
 - [Как мы за год в 5 раз снизили количество приемочных багов через shift left testing](https://habr.com/ru/post/722604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722604)
 - [Apple Pro Weekly News &lpar;13.03 – 19.03.23&rpar;](https://habr.com/ru/post/723682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723682)
 - [Реверсинжинерим московское метро](https://habr.com/ru/post/723680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723680)
-- [Создание простого SPA на VueJs с использованием CMS Strapi](https://habr.com/ru/post/723676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723676)
-- [Обучение VAE и нижняя вариационная граница](https://habr.com/ru/post/723674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
