@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в Jmix 1.5](https://habr.com/ru/post/723764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723764)
+- [Как в IntelliJ IDEA написать и собрать в исполняемый .exe файл приложение на JavaFX](https://habr.com/ru/post/723798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723798)
+- [«Серый кардинал»: зачем программистам SQL и для каких задач он используется](https://habr.com/ru/post/723486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723486)
 - [Анализ STL моделей с использованием Python](https://habr.com/ru/post/723786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723786)
 - [Переводчик по фото: сравнение приложений перевода текста с фотографий](https://habr.com/ru/post/723436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723436)
-- [Как нанимать разработчиков через школу: наши выводы за 6 лет обучения и 50 нанятых стажёров](https://habr.com/ru/post/723744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723744)
-- [Парсинг string в enum ценой в 50 Гб: разбираем уязвимость CVE-2020-36620](https://habr.com/ru/post/723776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723776)
-- [Учимся определять способность Core Data к легковесной миграции до загрузки контейнера](https://habr.com/ru/post/723672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
