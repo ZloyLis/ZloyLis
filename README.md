@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React: интересная схема работы с формами](https://habr.com/ru/post/722108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722108)
 - [Что нового в Jmix 1.5](https://habr.com/ru/post/723764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723764)
 - [Как в IntelliJ IDEA написать и собрать в исполняемый .exe файл приложение на JavaFX](https://habr.com/ru/post/723798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723798)
 - [«Серый кардинал»: зачем программистам SQL и для каких задач он используется](https://habr.com/ru/post/723486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723486)
 - [Анализ STL моделей с использованием Python](https://habr.com/ru/post/723786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723786)
-- [Переводчик по фото: сравнение приложений перевода текста с фотографий](https://habr.com/ru/post/723436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
