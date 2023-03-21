@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ STL моделей с использованием Python](https://habr.com/ru/post/723786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723786)
+- [Переводчик по фото: сравнение приложений перевода текста с фотографий](https://habr.com/ru/post/723436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723436)
 - [Как нанимать разработчиков через школу: наши выводы за 6 лет обучения и 50 нанятых стажёров](https://habr.com/ru/post/723744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723744)
 - [Парсинг string в enum ценой в 50 Гб: разбираем уязвимость CVE-2020-36620](https://habr.com/ru/post/723776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723776)
 - [Учимся определять способность Core Data к легковесной миграции до загрузки контейнера](https://habr.com/ru/post/723672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723672)
-- [[Перевод] Флаги командной строки в C++](https://habr.com/ru/post/723770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723770)
-- [[Перевод] Руны и лёд: техническое собеседование по TypeScript](https://habr.com/ru/post/723752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
