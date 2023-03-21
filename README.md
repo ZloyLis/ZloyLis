@@ -34,11 +34,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Трансплантация реактивности](https://habr.com/ru/post/723728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723728)
-- [Хакнуть k8s: разбор пэйлоадов и способов защиты](https://habr.com/ru/post/708114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708114)
-- [[Перевод] Реализация спойлеров в SwiftUI](https://habr.com/ru/post/723132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723132)
-- [[Перевод] Изучаем чёрный рынок фальшивых звёзд GitHub](https://habr.com/ru/post/723648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723648)
-- [В платформе Deckhouse появился модуль delivery для непрерывной доставки приложений в Kubernetes](https://habr.com/ru/post/723656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723656)
+- [Как нанимать разработчиков через школу: наши выводы за 6 лет обучения и 50 нанятых стажёров](https://habr.com/ru/post/723744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723744)
+- [Парсинг string в enum ценой в 50 Гб: разбираем уязвимость CVE-2020-36620](https://habr.com/ru/post/723776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723776)
+- [Учимся определять способность Core Data к легковесной миграции до загрузки контейнера](https://habr.com/ru/post/723672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723672)
+- [[Перевод] Флаги командной строки в C++](https://habr.com/ru/post/723770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723770)
+- [[Перевод] Руны и лёд: техническое собеседование по TypeScript](https://habr.com/ru/post/723752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
