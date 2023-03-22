@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] 6 причин интегрировать бизнес в IT](https://habr.com/ru/post/724140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724140)
 - [Linux-порт Far Manager: новости весны 2023](https://habr.com/ru/post/724118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724118)
 - [Как написать первый автотест на Android-приложение](https://habr.com/ru/post/721854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721854)
 - [Сравниваем структуры хоть и глубоко, но быстро](https://habr.com/ru/post/724098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724098)
 - [Симулятор-Отладчик x86-кода](https://habr.com/ru/post/724096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724096)
-- [[recovery mode] k8s: подготовка к CKA](https://habr.com/ru/post/724080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
