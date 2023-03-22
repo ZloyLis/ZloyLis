@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глубокое сравнение структур](https://habr.com/ru/post/724098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724098)
+- [Симулятор-Отладчик x86-кода](https://habr.com/ru/post/724096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724096)
 - [[recovery mode] k8s: подготовка к CKA](https://habr.com/ru/post/724080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724080)
 - [[Перевод] Как устроено индексирование баз данных](https://habr.com/ru/post/724066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724066)
 - [Что нужно знать на позицию junior Data Science и как подготовиться к собеседованию](https://habr.com/ru/post/724064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724064)
-- [Мой шаблон Android приложения для Pet-проектов](https://habr.com/ru/post/723596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723596)
-- [[recovery mode] Разработка калькулятора Miracle](https://habr.com/ru/post/724044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
