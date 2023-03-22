@@ -19,6 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?logo=Bootstrap&style=flat&logoColor=white&color=7952B3)<br>
 ![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=F05133)
 ![Figma](https://img.shields.io/badge/Figma-informational?logo=figma&style=flat&logoColor=white&color=darkred)
+![MySQL](https://img.shields.io/badge/MySQL-informational?logo=MySQL&style=flat&logoColor=white&color=00f)
 
 <!--
 ![Kotlin](https://img.shields.io/badge/Kotlin-informational?logo=Kotlin&style=flat&logoColor=white&color=0095D5)
