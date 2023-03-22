@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Освоение диаграмм в SwiftUI. Доступность](https://habr.com/ru/post/723124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723124)
+- [Ускорение компиляции КОМПАС-3D в 4 раза при помощи PCH](https://habr.com/ru/post/723242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723242)
 - [Кнопочник на Android за 1.000 рублей — тапок или полноценный смартфон? Смотрим на девайс](https://habr.com/ru/post/723988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723988)
 - [Байки погромиста. Если кто-то скажет, что программирование — это скучно](https://habr.com/ru/post/723600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723600)
 - [[recovery mode] CI/CD GitHub Actions](https://habr.com/ru/post/723982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723982)
-- [Как не потерять голову &lpar;и память&rpar; при поиске утечек в iOS](https://habr.com/ru/post/723954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723954)
-- [Как правильно бегать — с пятки или с носка? Измеряем, сравниваем ударные нагрузки, время в полете. Android, акселерометр](https://habr.com/ru/post/714698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
