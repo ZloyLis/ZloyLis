@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Разработка калькулятора Miracle](https://habr.com/ru/post/724044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724044)
+- [Ключевые метрики, анализ которых позволит повысить прибыльность вашего приложения](https://habr.com/ru/post/724038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724038)
+- [6 проблем UX-редакции, которые поможет решить планирование](https://habr.com/ru/post/718552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718552)
+- [Как сделать единый заглушечный контур](https://habr.com/ru/post/714482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714482)
 - [Система противораскачивания груза &lpar;Anti-Sway Control&rpar;](https://habr.com/ru/post/724006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724006)
-- [[Перевод] Освоение диаграмм в SwiftUI. Доступность](https://habr.com/ru/post/723124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723124)
-- [[Перевод - recovery mode ] Перевод: Защита ваших репозиториев Git: Исчерпывающее руководство по использованию Gitleaks](https://habr.com/ru/post/723916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723916)
-- [Ускорение компиляции КОМПАС-3D в 4 раза при помощи PCH](https://habr.com/ru/post/723242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723242)
-- [Кнопочник на Android за 1.000 рублей — тапок или полноценный смартфон? Смотрим на девайс](https://habr.com/ru/post/723988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
