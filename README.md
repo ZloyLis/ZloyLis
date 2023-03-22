@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] k8s: подготовка к CKA](https://habr.com/ru/post/724080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724080)
+- [[Перевод] Как устроено индексирование баз данных](https://habr.com/ru/post/724066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724066)
+- [Что нужно знать на позицию junior Data Science и как подготовиться к собеседованию](https://habr.com/ru/post/724064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724064)
 - [Мой шаблон Android приложения для Pet-проектов](https://habr.com/ru/post/723596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723596)
 - [[recovery mode] Разработка калькулятора Miracle](https://habr.com/ru/post/724044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724044)
-- [Ключевые метрики, анализ которых позволит повысить прибыльность вашего приложения](https://habr.com/ru/post/724038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724038)
-- [Шесть проблем UX-редакции, которые поможет решить планирование](https://habr.com/ru/post/718552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718552)
-- [Как сделать единый заглушечный контур и освободить себя от рутины](https://habr.com/ru/post/714482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
