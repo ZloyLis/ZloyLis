@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не потерять голову &lpar;и память&rpar; при поиске утечек в iOS](https://habr.com/ru/post/723954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723954)
+- [Как правильно бегать — с пятки или с носка? Измеряем, сравниваем ударные нагрузки, время в полете. Android, акселерометр](https://habr.com/ru/post/714698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714698)
 - [Шрифтовая «не-пара»](https://habr.com/ru/post/723928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723928)
 - [Зачем учить R в 2023 году?](https://habr.com/ru/post/723882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723882)
 - [Вышла Java 20](https://habr.com/ru/post/723850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723850)
-- [Гайд по написанию пользовательских историй и критериев приёмки](https://habr.com/ru/post/723742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723742)
-- [[Перевод] Различия в тестировании мобильных и веб-приложений](https://habr.com/ru/post/718726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
