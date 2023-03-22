@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кнопочник на Android за 1.000 рублей — тапок или полноценный смартфон? Смотрим на девайс](https://habr.com/ru/post/723988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723988)
+- [Байки погромиста. Если кто-то скажет, что программирование — это скучно](https://habr.com/ru/post/723600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723600)
+- [[recovery mode] CI/CD GitHub Actions](https://habr.com/ru/post/723982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723982)
 - [Как не потерять голову &lpar;и память&rpar; при поиске утечек в iOS](https://habr.com/ru/post/723954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723954)
 - [Как правильно бегать — с пятки или с носка? Измеряем, сравниваем ударные нагрузки, время в полете. Android, акселерометр](https://habr.com/ru/post/714698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=714698)
-- [Шрифтовая «не-пара»](https://habr.com/ru/post/723928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723928)
-- [Зачем учить R в 2023 году?](https://habr.com/ru/post/723882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723882)
-- [Вышла Java 20](https://habr.com/ru/post/723850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
