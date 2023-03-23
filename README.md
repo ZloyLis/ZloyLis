@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не цель важна, а важен путь. Как определить оптимальную подпоследовательность тем при автоматизации чатов](https://habr.com/ru/post/720832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720832)
+- [[Перевод] SwiftUI вью против модификаторов](https://habr.com/ru/post/723120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723120)
+- [Сборка OpenCV с поддержкой OpenVINO](https://habr.com/ru/post/724276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724276)
 - [Расширяем Android Lint](https://habr.com/ru/post/724234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724234)
 - [Мышление и ИИ: что останется человеку](https://habr.com/ru/post/724238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724238)
-- [Шесть открытых библиотек от Mad Brains, которые упростят жизнь Flutter-разработчика](https://habr.com/ru/post/724236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724236)
-- [Федеральные рекомендации по интерфейсам: переманить цифровую бюрократию на свою сторону](https://habr.com/ru/post/723974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723974)
-- [Полное руководство по switch в Java](https://habr.com/ru/post/724186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
