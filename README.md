@@ -39,7 +39,7 @@ ___
 - [Представляю универсальный responsive header для React.js](https://habr.com/ru/post/724422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724422)
 - [PowerShell и LiveJournal &lpar;ЖЖ&rpar;: скачивание постов журнала](https://habr.com/ru/post/724412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724412)
 - [Иде­аль­ная транс­порт­ная си­сте­ма «ИТС-СПРУТ»– практическая ре­а­ли­за­ция](https://habr.com/ru/post/724408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724408)
-- [Compose Multiplatform: новый горизонт в кросс-платформенной мобильной разработке?](https://habr.com/ru/post/724388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724388)
+- [Ef миграция для maui &lpar;так, как нравится мне&rpar;](https://habr.com/ru/post/724380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
