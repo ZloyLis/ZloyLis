@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket на PHP. Пишем свой мессенджер](https://habr.com/ru/post/724366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724366)
+- [BlackBerry объявляет о новой сделке по продаже патентов на мобильные устройства на сумму $900 млн](https://habr.com/ru/post/724352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724352)
 - [Как выбрать библиотеку стайлинга и заменить несколько дизайн-систем на одну. Часть 1](https://habr.com/ru/post/724346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724346)
 - [Алгебра int о которой не говорят](https://habr.com/ru/post/723370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723370)
 - [Клиент Ozon Seller API на Golang](https://habr.com/ru/post/724344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724344)
-- [Как появился миф про визуалов, аудиалов и кинестетиков, и почему модель доминирующего стиля обучения вредна для человека](https://habr.com/ru/post/724342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724342)
-- [Решаем задачу по взаимодействию микросервисов на Python тремя способами](https://habr.com/ru/post/724278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
