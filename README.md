@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработка небольшого солнечного трекера](https://habr.com/ru/post/718680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718680)
-- [Универсальный загрузчик XML на java. Или как загрузить файлы ГАР на 250 гб и остаться при памяти](https://habr.com/ru/post/724324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724324)
-- [Мыслить как QA. Некоторые нюансы организации тестирования в небольшой компании](https://habr.com/ru/post/724110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724110)
-- [А давно ли вы измеряли радиацию у себя дома? Делаем дозиметр из Flipper](https://habr.com/ru/post/723996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723996)
-- [Микросервисы на фронтенде — что выбрать](https://habr.com/ru/post/724314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724314)
+- [Как выбрать библиотеку стайлинга и заменить несколько дизайн-систем на одну. Часть 1](https://habr.com/ru/post/724346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724346)
+- [Алгебра int о которой не говорят](https://habr.com/ru/post/723370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723370)
+- [Клиент Ozon Seller API на Golang](https://habr.com/ru/post/724344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724344)
+- [Как появился миф про визуалов, аудиалов и кинестетиков, и почему модель доминирующего стиля обучения вредна для человека](https://habr.com/ru/post/724342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724342)
+- [Решаем задачу по взаимодействию микросервисов на Python тремя способами](https://habr.com/ru/post/724278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
