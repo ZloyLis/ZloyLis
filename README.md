@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell и LiveJournal &lpar;ЖЖ&rpar;: скачивание постов журнала](https://habr.com/ru/post/724412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724412)
+- [Иде­аль­ная транс­порт­ная си­сте­ма «ИТС-СПРУТ»– практическая ре­а­ли­за­ция](https://habr.com/ru/post/724408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724408)
 - [Compose Multiplatform: новый горизонт в кросс-платформенной мобильной разработке?](https://habr.com/ru/post/724388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724388)
 - [Ef миграция для maui &lpar;так, как нравится мне&rpar;](https://habr.com/ru/post/724380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724380)
 - [Хеш-таблица, хеш-функция в Swift](https://habr.com/ru/post/724376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724376)
-- [Как выбрать библиотеку стайлинга и заменить несколько дизайн-систем на одну. Часть 1](https://habr.com/ru/post/724346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724346)
-- [[Перевод] Как разработать драйвер Linux с нуля](https://habr.com/ru/post/724282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
