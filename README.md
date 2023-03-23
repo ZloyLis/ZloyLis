@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Compose Multiplatform: новый горизонт в кросс-платформенной мобильной разработке?](https://habr.com/ru/post/724388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724388)
+- [Ef миграция для maui &lpar;так как нравится мне&rpar;](https://habr.com/ru/post/724380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724380)
+- [Хеш-таблица, хеш-функция в Swift](https://habr.com/ru/post/724376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724376)
 - [WebSocket на PHP. Пишем свой мессенджер](https://habr.com/ru/post/724366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724366)
-- [BlackBerry объявляет о новой сделке по продаже патентов на мобильные устройства на сумму $900 млн](https://habr.com/ru/post/724352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724352)
 - [Как выбрать библиотеку стайлинга и заменить несколько дизайн-систем на одну. Часть 1](https://habr.com/ru/post/724346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724346)
-- [Алгебра int о которой не говорят](https://habr.com/ru/post/723370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723370)
-- [Клиент Ozon Seller API на Golang](https://habr.com/ru/post/724344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
