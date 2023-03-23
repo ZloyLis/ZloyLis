@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Федеральные рекомендации по интерфейсам: переманить цифровую бюрократию на свою сторону](https://habr.com/ru/post/723974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723974)
 - [Полное руководство по switch в Java](https://habr.com/ru/post/724186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724186)
 - [Создаем свой собственный язык программирования с использованием LLVM. Часть 4: Поддержка составных типов](https://habr.com/ru/post/724010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724010)
 - [Кодогенерация Dart](https://habr.com/ru/post/724184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724184)
 - [Метод Шерлока Холмса – это «Байесовское рассуждение + вопросы в стиле Акинатора»](https://habr.com/ru/post/724182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724182)
-- [Парсинг погоды для Home Assistant с помощью Node-RED](https://habr.com/ru/post/724154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
