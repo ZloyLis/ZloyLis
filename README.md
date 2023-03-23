@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А давно ли вы измеряли радиацию у себя дома? Делаем дозиметр из Flipper](https://habr.com/ru/post/723996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723996)
+- [Микросервисы на фронтенде — что выбрать](https://habr.com/ru/post/724314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724314)
+- [Все web-дизайнеры привирают о свои размерах. Или проблема height&#39;ов](https://habr.com/ru/post/724312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724312)
 - [Не цель важна, а важен путь. Как определить оптимальную подпоследовательность тем при автоматизации чатов](https://habr.com/ru/post/720832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720832)
 - [[Перевод] SwiftUI вью против модификаторов](https://habr.com/ru/post/723120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723120)
-- [Сборка OpenCV с поддержкой OpenVINO](https://habr.com/ru/post/724276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724276)
-- [Расширяем Android Lint](https://habr.com/ru/post/724234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724234)
-- [Мышление и ИИ: что останется человеку](https://habr.com/ru/post/724238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
