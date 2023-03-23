@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка небольшого солнечного трекера](https://habr.com/ru/post/718680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718680)
+- [Универсальный загрузчик XML на java. Или как загрузить файлы ГАР на 250 гб и остаться при памяти](https://habr.com/ru/post/724324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724324)
+- [Мыслить как QA. Некоторые нюансы организации тестирования в небольшой компании](https://habr.com/ru/post/724110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724110)
 - [А давно ли вы измеряли радиацию у себя дома? Делаем дозиметр из Flipper](https://habr.com/ru/post/723996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723996)
 - [Микросервисы на фронтенде — что выбрать](https://habr.com/ru/post/724314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724314)
-- [Все web-дизайнеры привирают о свои размерах. Или проблема height&#39;ов](https://habr.com/ru/post/724312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724312)
-- [Не цель важна, а важен путь. Как определить оптимальную подпоследовательность тем при автоматизации чатов](https://habr.com/ru/post/720832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720832)
-- [[Перевод] SwiftUI вью против модификаторов](https://habr.com/ru/post/723120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
