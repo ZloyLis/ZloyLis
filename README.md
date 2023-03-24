@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] KotlinDL 0.5 появился на Android](https://habr.com/ru/post/724548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724548)
+- [Формат имён в коде](https://habr.com/ru/post/724556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724556)
+- [Модульные тесты как оплот стабильности в Agile разработке](https://habr.com/ru/post/724318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724318)
 - [Болевые точки Dart и Flutter](https://habr.com/ru/post/724538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724538)
 - [Поиск ошибок в логике работы чат-бота с помощью TF-IDF и DBSCAN](https://habr.com/ru/post/724536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724536)
-- [Про автоматизацию REST API с помощью Postman, Newman и Jenkins](https://habr.com/ru/post/724524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724524)
-- [6 ошибок, из-за которых менеджеры-джуны остаются джунами](https://habr.com/ru/post/724516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724516)
-- [Как мы выбирали open-source контейнерную ОС для Kubernetes?](https://habr.com/ru/post/724368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
