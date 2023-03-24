@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что о тестировании расскажут на Heisenbug 2023 Spring: от инструментов до марсоходов](https://habr.com/ru/post/723834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723834)
 - [Простые способы улучшить читаемость функциональных требований](https://habr.com/ru/post/724584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724584)
 - [Как мы искали самый точный метод детектирования ключевых точек](https://habr.com/ru/post/724580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724580)
 - [Как мы сделали ленту соцсети для инвесторов умной](https://habr.com/ru/post/724574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724574)
 - [Из кондитера в программиста или как я училась в Geekbrains. Начало](https://habr.com/ru/post/724570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724570)
-- [[Перевод] KotlinDL 0.5 появился на Android](https://habr.com/ru/post/724548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
