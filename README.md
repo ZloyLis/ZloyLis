@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про автоматизацию REST API с помощью Postman, Newman и Jenkins](https://habr.com/ru/post/724524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724524)
+- [6 ошибок, из-за которых менеджеры-джуны остаются джунами](https://habr.com/ru/post/724516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724516)
 - [Как мы выбирали open-source контейнерную ОС для Kubernetes?](https://habr.com/ru/post/724368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724368)
 - [С кем дружить UX-редактору? Как быстро вырастить грейд? Что включить в редполитику? И ещё 22 вопроса о UX Writing](https://habr.com/ru/post/724490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724490)
 - [[Перевод] Test Plans — теперь по умолчанию для новых проектов с Xcode 14.3](https://habr.com/ru/post/723128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723128)
-- [[Перевод] Согласованность данных: что это на самом деле такое и почему с ней все так сложно](https://habr.com/ru/post/723734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723734)
-- [Как я учился языку JAVA на Яндекс платформе](https://habr.com/ru/post/724496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
