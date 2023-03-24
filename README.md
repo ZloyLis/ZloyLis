@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем ChatGPT похож на человека и почему к этому надо относиться серьезно](https://habr.com/ru/post/724468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724468)
 - [Полгода самостоятельного изучения .NET – не повторяйте моих ошибок](https://habr.com/ru/post/724444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724444)
 - [[Перевод] Извлекаем прошивку GameBoy по фотографии чипа](https://habr.com/ru/post/724428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724428)
 - [Представляю универсальный responsive header для React.js](https://habr.com/ru/post/724422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724422)
 - [PowerShell и LiveJournal &lpar;ЖЖ&rpar;: скачивание постов журнала](https://habr.com/ru/post/724412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724412)
-- [Иде­аль­ная транс­порт­ная си­сте­ма «ИТС-СПРУТ»– практическая ре­а­ли­за­ция](https://habr.com/ru/post/724408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
