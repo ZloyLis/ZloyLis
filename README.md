@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простые способы улучшить читаемость функциональных требований](https://habr.com/ru/post/724584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724584)
+- [Как мы искали самый точный метод детектирования ключевых точек](https://habr.com/ru/post/724580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724580)
+- [Как мы сделали ленту соцсети для инвесторов умной](https://habr.com/ru/post/724574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724574)
+- [Из кондитера в программиста или как я училась в Geekbrains. Начало](https://habr.com/ru/post/724570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724570)
 - [[Перевод] KotlinDL 0.5 появился на Android](https://habr.com/ru/post/724548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724548)
-- [Формат имён в коде](https://habr.com/ru/post/724556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724556)
-- [Модульные тесты как оплот стабильности в Agile разработке](https://habr.com/ru/post/724318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724318)
-- [Болевые точки Dart и Flutter](https://habr.com/ru/post/724538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724538)
-- [Поиск ошибок в логике работы чат-бота с помощью TF-IDF и DBSCAN](https://habr.com/ru/post/724536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
