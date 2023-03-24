@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Слышали ли вы про язык «e»? А ведь он был продан за $315 миллионов долларов](https://habr.com/ru/post/724442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724442)
+- [Как устроена разработка Kubernetes-платформы Deckhouse &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/post/724018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724018)
+- [Пятничные клеточные автоматы: циклические конфигурации; камень-ножницы-бумага](https://habr.com/ru/post/723414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723414)
+- [Инструменты анализа эффективности работы приложения. PerfView](https://habr.com/ru/post/723010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723010)
 - [Чем ChatGPT похож на человека и почему к этому надо относиться серьезно](https://habr.com/ru/post/724468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724468)
-- [Полгода самостоятельного изучения .NET – не повторяйте моих ошибок](https://habr.com/ru/post/724444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724444)
-- [[Перевод] Извлекаем прошивку GameBoy по фотографии чипа](https://habr.com/ru/post/724428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724428)
-- [Представляю универсальный responsive header для React.js](https://habr.com/ru/post/724422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724422)
-- [PowerShell и LiveJournal &lpar;ЖЖ&rpar;: скачивание постов журнала](https://habr.com/ru/post/724412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
