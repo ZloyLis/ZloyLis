@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT и судьба джуна](https://habr.com/ru/post/724678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724678)
 - [Nokia N900 — легендарный Linux смартфон](https://habr.com/ru/post/723016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723016)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;28 марта — 1 апреля&rpar;](https://habr.com/ru/post/724704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724704)
 - [Сказка о типизации](https://habr.com/ru/post/724700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724700)
 - [Нетранзитивный досуг. Мышка, сервер, разработчик, печенюшка, кот](https://habr.com/ru/post/724698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724698)
-- [Проектирование процессов разработки IT продукта](https://habr.com/ru/post/724692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
