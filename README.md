@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Begin /* Лицензии](https://habr.com/ru/post/724782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724782)
 - [Как я ускорил скорость парсинга в Python](https://habr.com/ru/post/724780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724780)
 - [SSH для новичков](https://habr.com/ru/post/724762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724762)
 - [Простейшее решение калькулятора на js без eval&lpar;&rpar;;](https://habr.com/ru/post/724750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724750)
 - [Путешествие к центру Spring Security](https://habr.com/ru/post/724738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724738)
-- [SharedPreferences отличное хранилище для вашего flutter-приложения. Но есть нюансы…](https://habr.com/ru/post/724706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
