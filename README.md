@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подход к системному анализу](https://habr.com/ru/post/724876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724876)
 - [Декоратор cached_property](https://habr.com/ru/post/724852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724852)
 - [Как я стал Python-разработчиком с нуля — мой опыт становления тестировщиком](https://habr.com/ru/post/724844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724844)
 - [[Перевод] Конец фронтенд-разработки](https://habr.com/ru/post/724838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724838)
 - [Списки Python для детей: строки, кортежи, множества, словари](https://habr.com/ru/post/724828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724828)
-- [Учим ChatGPT говорить и слушать](https://habr.com/ru/post/724816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
