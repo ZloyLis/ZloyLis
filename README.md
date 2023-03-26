@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Пайплайн для создания классификации текстовой информации](https://habr.com/ru/post/724790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724790)
 - [Begin /* Лицензии](https://habr.com/ru/post/724782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724782)
-- [Как я ускорил скорость парсинга в Python](https://habr.com/ru/post/724780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724780)
+- [Как я ускорил парсинг в Python](https://habr.com/ru/post/724780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724780)
 - [SSH для новичков](https://habr.com/ru/post/724762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724762)
 - [Простейшее решение калькулятора на js без eval&lpar;&rpar;;](https://habr.com/ru/post/724750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724750)
 <!-- BLOG-POST-LIST:END -->
