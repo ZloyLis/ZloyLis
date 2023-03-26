@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Конец фронтенд-разработки](https://habr.com/ru/post/724838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724838)
 - [Списки Python для детей: строки, кортежи, множества, словари](https://habr.com/ru/post/724828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724828)
 - [Учим ChatGPT говорить и слушать](https://habr.com/ru/post/724816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724816)
 - [Дизайн-система. Критикуем и предлагаем](https://habr.com/ru/post/724806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724806)
 - [[Перевод] Создание карты потоков с помощью JavaScript: пошаговое руководство](https://habr.com/ru/post/724454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724454)
-- [Анализ подбора гиперпараметров при обучении нейронной сети прямого распространения — FNN &lpar;на примере MNIST&rpar;](https://habr.com/ru/post/724418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
