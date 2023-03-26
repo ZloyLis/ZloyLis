@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание карты потоков с помощью JavaScript: пошаговое руководство](https://habr.com/ru/post/724454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724454)
+- [Анализ подбора гиперпараметров при обучении нейронной сети прямого распространения — FNN &lpar;на примере MNIST&rpar;](https://habr.com/ru/post/724418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724418)
 - [Пайплайн для создания классификации текстовой информации](https://habr.com/ru/post/724790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724790)
 - [Begin /* Лицензии](https://habr.com/ru/post/724782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724782)
-- [Как я ускорил парсинг в Python](https://habr.com/ru/post/724780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724780)
-- [SSH для новичков](https://habr.com/ru/post/724762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724762)
-- [Простейшее решение калькулятора на js без eval&lpar;&rpar;;](https://habr.com/ru/post/724750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724750)
+- [Как я ускорил парсинг](https://habr.com/ru/post/724780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
