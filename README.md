@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability для микросервисных приложений в Kubernetes](https://habr.com/ru/post/725000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725000)
+- [Кросс-функциональные переходы: как превратить миф в реальность](https://habr.com/ru/post/725032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725032)
 - [SQRT.app или о том как, сократить затраты в автоматизации тестирования](https://habr.com/ru/post/725050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725050)
 - [Security Week 2313: вредоносные атаки с помощью ультразвука](https://habr.com/ru/post/724986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724986)
 - [Можно ли выучить язык программирования через заучивание &lpar;зубрежку&rpar;?](https://habr.com/ru/post/725010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725010)
-- [Неполнота и относительность — как Эйнштейн, Гейзенберг, Шрёдингер и Гёдель сокрушили Запад и построили мост на Восток](https://habr.com/ru/post/720396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720396)
-- [Reddit для программистов](https://habr.com/ru/post/724998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
