@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Учимся совершать правильные ошибки — краткое сравнение человеческого восприятия и мультимодальных языковых моделей](https://habr.com/ru/post/724608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724608)
+- [From zero to hero в билайне](https://habr.com/ru/post/724952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724952)
 - [Для чего QA сдавать кэмбриджский экзамен?](https://habr.com/ru/post/724954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724954)
 - [Запускаем на телефоне нейронку LLaMa 7B -13B 4 bit от фейсбука с настройкой Alpaca-LoRA](https://habr.com/ru/post/724944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724944)
 - [[Перевод] Как запустить Java-приложение с помощью CRaC в контейнере Docker](https://habr.com/ru/post/719522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719522)
-- [Почему шаблоны в $mol такие странные?](https://habr.com/ru/post/724884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724884)
-- [Андрей Гейн: субъективные новости из мира Python](https://habr.com/ru/post/724930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
