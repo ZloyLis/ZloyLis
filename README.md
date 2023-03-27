@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как создавать пользовательские представления в Android &lpar;Custom Views&rpar;](https://habr.com/ru/post/725118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725118)
 - [Кто такие Security Champions?](https://habr.com/ru/post/725088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725088)
 - [[Перевод] Казалось бы, простой вопрос: что такое паттерны проектирования?](https://habr.com/ru/post/725074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725074)
 - [Как я сделал Telegram-бота для студентов РТСУ](https://habr.com/ru/post/725086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725086)
 - [Observability для микросервисных приложений в Kubernetes](https://habr.com/ru/post/725000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725000)
-- [Кросс-функциональные переходы: как превратить миф в реальность](https://habr.com/ru/post/725032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
