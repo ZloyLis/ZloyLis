@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GitOps-платформа на базе Argo CD](https://habr.com/ru/post/723760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723760)
+- [Как быстро увеличить конверсию сайта в 7 раз. Изменили заголовки и удалили клише – количество заявок выросло на 518%](https://habr.com/ru/post/724910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724910)
 - [JavaScript. Работа с буфером, Ctrl+C Ctrl+V](https://habr.com/ru/post/724904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724904)
 - [Мобильная разработка за неделю #481 &lpar;20 — 26 марта&rpar;](https://habr.com/ru/post/724894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724894)
 - [[Перевод] Язык&lpar;и&rpar; программирования будущего](https://habr.com/ru/post/724882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724882)
-- [Южная Корея, магистратура &lpar;UNIST&rpar; – «И ты один просто едешь?» – первые 7 месяцев](https://habr.com/ru/post/724878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724878)
-- [Подход к системному анализу](https://habr.com/ru/post/724876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
