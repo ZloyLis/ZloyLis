@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда один TCP-порт может быть поделён](https://habr.com/ru/post/725144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725144)
+- [Реализация конечных автоматов через систему типов Rust](https://habr.com/ru/post/725148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725148)
 - [[recovery mode] 8 инструментов, которые помогли увеличить конверсию сайта на 147% и получать заявки на протезирование зубов по 157 руб](https://habr.com/ru/post/725130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725130)
 - [Apple Pro Weekly News &lpar;20.03 – 26.03.23&rpar;](https://habr.com/ru/post/725124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725124)
 - [[Перевод] Как создавать пользовательские представления в Android &lpar;Custom Views&rpar;](https://habr.com/ru/post/725118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725118)
-- [Кто такие Security Champions?](https://habr.com/ru/post/725088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725088)
-- [[Перевод] Казалось бы, простой вопрос: что такое паттерны проектирования?](https://habr.com/ru/post/725074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
