@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #481 &lpar;20 — 26 марта&rpar;](https://habr.com/ru/post/724894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724894)
 - [[Перевод] Язык&lpar;и&rpar; программирования будущего](https://habr.com/ru/post/724882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724882)
 - [Южная Корея, магистратура &lpar;UNIST&rpar; – «И ты один просто едешь?» – первые 7 месяцев](https://habr.com/ru/post/724878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724878)
 - [Подход к системному анализу](https://habr.com/ru/post/724876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724876)
 - [Декоратор cached_property](https://habr.com/ru/post/724852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724852)
-- [Как я стал Python-разработчиком с нуля — мой опыт становления тестировщиком](https://habr.com/ru/post/724844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
