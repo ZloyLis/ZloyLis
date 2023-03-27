@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Андрей Гейн: субъективные новости из мира Python](https://habr.com/ru/post/724930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724930)
 - [GitOps-платформа на базе Argo CD](https://habr.com/ru/post/723760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723760)
 - [Как быстро увеличить конверсию сайта в 7 раз. Изменили заголовки и удалили клише – количество заявок выросло на 518%](https://habr.com/ru/post/724910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724910)
 - [JavaScript. Работа с буфером, Ctrl+C Ctrl+V](https://habr.com/ru/post/724904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724904)
 - [Мобильная разработка за неделю #481 &lpar;20 — 26 марта&rpar;](https://habr.com/ru/post/724894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724894)
-- [[Перевод] Язык&lpar;и&rpar; программирования будущего](https://habr.com/ru/post/724882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
