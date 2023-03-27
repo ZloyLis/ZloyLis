@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Для чего QA сдавать кэмбриджский экзамен?](https://habr.com/ru/post/724954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724954)
+- [Запускаем на телефоне нейронку LLaMa 7B -13B 4 bit от фейсбука с настройкой Alpaca-LoRA](https://habr.com/ru/post/724944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724944)
+- [[Перевод] Как запустить Java-приложение с помощью CRaC в контейнере Docker](https://habr.com/ru/post/719522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719522)
+- [Почему шаблоны в $mol такие странные?](https://habr.com/ru/post/724884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724884)
 - [Андрей Гейн: субъективные новости из мира Python](https://habr.com/ru/post/724930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724930)
-- [GitOps-платформа на базе Argo CD](https://habr.com/ru/post/723760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723760)
-- [Как быстро увеличить конверсию сайта в 7 раз. Изменили заголовки и удалили клише – количество заявок выросло на 518%](https://habr.com/ru/post/724910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724910)
-- [JavaScript. Работа с буфером, Ctrl+C Ctrl+V](https://habr.com/ru/post/724904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724904)
-- [Мобильная разработка за неделю #481 &lpar;20 — 26 марта&rpar;](https://habr.com/ru/post/724894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
