@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подходы к реализации паттерна Фабрика в Python](https://habr.com/ru/post/725340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725340)
+- [[recovery mode] Как стать middle frontend-разработчиком бесплатно от Яндекс Практикум](https://habr.com/ru/post/725318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725318)
 - [[Перевод] Внедрение автоматизации тестирования в ваш проект](https://habr.com/ru/post/725272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725272)
 - [YOLOv7 для определения поз людей на видео](https://habr.com/ru/post/725296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725296)
 - [Webpack: заменить нельзя оставить](https://habr.com/ru/post/660697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660697)
-- [Как прогнать все UI-тесты на мерж-реквесте и не состариться](https://habr.com/ru/post/725080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725080)
-- [Обзор Komodor — графического интерфейса для мониторинга и поиска неполадок в Kubernetes](https://habr.com/ru/post/722848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
