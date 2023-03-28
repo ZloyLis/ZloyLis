@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какую Data Science школу выбрать?](https://habr.com/ru/post/725230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725230)
+- [@Transactional в Spring и исключения](https://habr.com/ru/post/725064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725064)
+- [Java для начинающих: решаем задачу умножения матриц](https://habr.com/ru/post/723510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723510)
 - [NULL в SQL: Что это такое и почему его знание необходимо каждому разработчику](https://habr.com/ru/post/725214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725214)
 - [Может ли chatgpt заменить архитектора ПО?](https://habr.com/ru/post/725184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725184)
-- [Успешный продукт начинается с тестирования: основы и типы тестирования для новичков](https://habr.com/ru/post/725188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725188)
-- [[Перевод] Когда один TCP-порт может быть поделён](https://habr.com/ru/post/725144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725144)
-- [Реализация конечных автоматов через систему типов Rust](https://habr.com/ru/post/725148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
