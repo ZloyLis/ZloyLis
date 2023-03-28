@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гугл таблица как бд для телеграм бота &lpar;продолжение&rpar;](https://habr.com/ru/post/725420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725420)
+- [Ультимативная дорожная карта для изучения SQL и баз данных в 2023 году + источники для знаний](https://habr.com/ru/post/725414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725414)
+- [Кащеева смерть — защищаем свои пароли с помощью аппаратного хранилища ключей Android](https://habr.com/ru/post/725412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725412)
 - [Kubernetes Volumes: MySQL с сетевой файловой системой &lpar;NFS&rpar;](https://habr.com/ru/post/725394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725394)
 - [[Перевод] Сетевые политики Kubernetes для изоляции подов и пространств имён](https://habr.com/ru/post/725324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725324)
-- [[Перевод] Возможности JavaScript и TypeScript последних лет. Часть 2](https://habr.com/ru/post/723332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723332)
-- [Микрофронтенды на React и ExtJS](https://habr.com/ru/post/724512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724512)
-- [Книга «Объекты. Стильное ООП»](https://habr.com/ru/post/725338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
