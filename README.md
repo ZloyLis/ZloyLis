@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Webpack: заменить нельзя оставить](https://habr.com/ru/post/660697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660697)
+- [Как прогнать все UI-тесты на мерж-реквесте и не состариться](https://habr.com/ru/post/725080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725080)
+- [Обзор Komodor — графического интерфейса для мониторинга и поиска неполадок в Kubernetes](https://habr.com/ru/post/722848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722848)
 - [Какую Data Science школу выбрать?](https://habr.com/ru/post/725230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725230)
 - [@Transactional в Spring и исключения](https://habr.com/ru/post/725064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725064)
-- [Java для начинающих: решаем задачу умножения матриц](https://habr.com/ru/post/723510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723510)
-- [NULL в SQL: Что это такое и почему его знание необходимо каждому разработчику](https://habr.com/ru/post/725214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725214)
-- [Может ли chatgpt заменить архитектора ПО?](https://habr.com/ru/post/725184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
