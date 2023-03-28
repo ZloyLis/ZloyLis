@@ -39,7 +39,7 @@ ___
 - [[recovery mode] Как стать middle frontend-разработчиком бесплатно от Яндекс Практикум](https://habr.com/ru/post/725318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725318)
 - [[Перевод] Внедрение автоматизации тестирования в ваш проект](https://habr.com/ru/post/725272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725272)
 - [YOLOv7 для определения поз людей на видео](https://habr.com/ru/post/725296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725296)
-- [Webpack: заменить нельзя оставить](https://habr.com/ru/post/660697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660697)
+- [Внедряем DevSecOps в процесс разработки. Часть 1. Обзор инструментов, Pre-commit Checks](https://habr.com/ru/post/724914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
