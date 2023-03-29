@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как СберБанк Онлайн на микросервисную архитектуру мигрировал и от legacy старался избавиться](https://habr.com/ru/post/725568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725568)
+- [Как Контур меняет стандарты обучения разработчиков и работает с ними](https://habr.com/ru/post/725578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725578)
 - [«Скачал плагин и опингвинился». Полезные инструменты для работы с IDE](https://habr.com/ru/post/725358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725358)
 - [Миллиарды на сексе и любви: как правильно знакомиться и делать дейтинг-сервисы](https://habr.com/ru/post/725586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725586)
 - [Ультимативный гайд по HTTP. Часть 1. Структура запроса и ответа](https://habr.com/ru/post/710660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710660)
-- [Обзор Teleport: организация безопасного доступа для кластеров Kubernetes](https://habr.com/ru/post/724992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724992)
-- [Elasticsearch: схема полей для фасетного поиска, фильтра в интернет-магазине](https://habr.com/ru/post/725546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
