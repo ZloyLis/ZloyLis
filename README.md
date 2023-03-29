@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как использовать пропсы для передачи данных дочерним компонентам в Vue 3](https://habr.com/ru/post/725506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725506)
+- [Пишем простого бота-администратора для Telegram на Python. Тестируем на жене](https://habr.com/ru/post/725526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725526)
 - [Сказ о том, как МКБ к ОБИ подключался &lpar;и при чем тут OpenAPI&rpar;](https://habr.com/ru/post/725366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725366)
 - [Автоматический подбор гиперпараметров и архитектур нейронных сетей. Часть 1](https://habr.com/ru/post/725182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725182)
 - [Пишем свой ansible плагин &lpar;connection&rpar;](https://habr.com/ru/post/724450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724450)
-- [Решение задачи о 8 ферзях на трёх уровнях Scala — программа, типы, метапрограмма](https://habr.com/ru/post/725462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725462)
-- [[Перевод] Фракталы, рекурсия и Python](https://habr.com/ru/post/725368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
