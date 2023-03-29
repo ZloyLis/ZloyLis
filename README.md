@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нюансы разработки парсера для свего языка программирования](https://habr.com/ru/post/724146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724146)
 - [[Перевод] Как контрибьютить в проект, о котором ничего не знаешь](https://habr.com/ru/post/725622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725622)
 - [Тестирование remote push notifications на iOS, когда используем Firebase Cloud Messaging](https://habr.com/ru/post/725634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725634)
 - [Как СберБанк Онлайн на микросервисную архитектуру мигрировал и от legacy старался избавиться](https://habr.com/ru/post/725568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725568)
 - [Как Контур меняет стандарты обучения разработчиков и работает с ними](https://habr.com/ru/post/725578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725578)
-- [«Скачал плагин и опингвинился». Полезные инструменты для работы с IDE](https://habr.com/ru/post/725358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
