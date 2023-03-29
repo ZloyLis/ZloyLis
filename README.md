@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SuperIndustry — Dev log #2 – Добро пожаловать в темный лес](https://habr.com/ru/post/725700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725700)
 - [Коммерческое QA-образование умерло. Возвращаемся к профессиональному &lpar;и призываем нейроменторов&rpar;](https://habr.com/ru/post/725652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725652)
 - [Нюансы разработки парсера для свего языка программирования](https://habr.com/ru/post/724146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724146)
 - [[Перевод] Как контрибьютить в проект, о котором ничего не знаешь](https://habr.com/ru/post/725622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725622)
 - [Тестирование remote push notifications на iOS, когда используем Firebase Cloud Messaging](https://habr.com/ru/post/725634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725634)
-- [Как СберБанк Онлайн на микросервисную архитектуру мигрировал и от legacy старался избавиться](https://habr.com/ru/post/725568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
