@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем свой ansible плагин &lpar;connection&rpar;](https://habr.com/ru/post/724450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724450)
 - [Решение задачи о 8 ферзях на трёх уровнях Scala — программа, типы, метапрограмма](https://habr.com/ru/post/725462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725462)
 - [[Перевод] Фракталы, рекурсия и Python](https://habr.com/ru/post/725368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725368)
 - [К гипотезе Коллатца через эзолэнг Джона Конвея](https://habr.com/ru/post/725456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725456)
 - [Гугл таблица как бд для телеграм бота &lpar;продолжение&rpar;](https://habr.com/ru/post/725420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725420)
-- [Ультимативная дорожная карта для изучения SQL и баз данных в 2023 году + источники для знаний](https://habr.com/ru/post/725414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
