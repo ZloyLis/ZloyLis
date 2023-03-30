@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дебажим коммуникацию: протоколы общения человеков](https://habr.com/ru/post/719742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719742)
+- [Как быстрее узнать, что сервису плохо, или realtime-детекция разладок с помощью CatBoost](https://habr.com/ru/post/725284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725284)
 - [«Прокачиваем» кнопочный Android смартфон за 13$. Как довести до ума телефон без официальной поддержки?](https://habr.com/ru/post/724632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724632)
 - [[Перевод] Использование лямбда выражений для чистоты кода](https://habr.com/ru/post/724968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724968)
 - [Эффектно и эффективно. 6 инструментов для анимации в React Native](https://habr.com/ru/post/725042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725042)
-- [Open-source библиотеки от команд ИТМО: оптимизация графовых структур, генеративный дизайн, оптимизация гиперпараметров](https://habr.com/ru/post/725800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725800)
-- [Мы добавили markdown-режим в новый редактор](https://habr.com/ru/post/725748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
