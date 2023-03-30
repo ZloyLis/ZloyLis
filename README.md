@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 10 причуд Zig](https://habr.com/ru/post/725994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725994)
 - [С какими сложностями встретится новичок в IT на первой работе?](https://habr.com/ru/post/725990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725990)
 - [[Перевод] msgspec: быстрый и экономичный парсинг JSON на Python](https://habr.com/ru/post/725972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725972)
 - [[Перевод] Выражение Hibernate запросов в виде типо‑безопасных Java-потоков](https://habr.com/ru/post/721788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721788)
 - [ArrayPool&amp;lt;T&amp;gt;: подводные камни](https://habr.com/ru/post/723420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723420)
-- [Ультимативный Roadmap для Python-разработчика в 2023 году + источники знаний](https://habr.com/ru/post/725930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
