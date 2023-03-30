@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Школа Программистов-2022: вступительные испытания и разбор задач](https://habr.com/ru/post/725648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725648)
-- [Волновая интуиция](https://habr.com/ru/post/713022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713022)
-- [131 вопрос с собеседований про SQL](https://habr.com/ru/post/725780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725780)
-- [[Перевод] Полезные, смешные, нелепые: репозитории GitHub, которые вас удивят](https://habr.com/ru/post/725736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725736)
-- [SuperIndustry — Dev log #2 – Добро пожаловать в темный лес](https://habr.com/ru/post/725700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725700)
+- [«Прокачиваем» кнопочный Android смартфон за 13$. Как довести до ума телефон без официальной поддержки?](https://habr.com/ru/post/724632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724632)
+- [[Перевод] Использование лямбда выражений для чистоты кода](https://habr.com/ru/post/724968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724968)
+- [Эффектно и эффективно. 6 инструментов для анимации в React Native](https://habr.com/ru/post/725042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725042)
+- [Open-source библиотеки от команд ИТМО: оптимизация графовых структур, генеративный дизайн, оптимизация гиперпараметров](https://habr.com/ru/post/725800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725800)
+- [Мы добавили markdown-режим в новый редактор](https://habr.com/ru/post/725748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
