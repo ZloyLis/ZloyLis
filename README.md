@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ArrayPool&amp;lt;T&amp;gt;: подводные камни](https://habr.com/ru/post/723420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723420)
+- [Ультимативный Roadmap для Python-разработчика в 2023 году + источники знаний](https://habr.com/ru/post/725930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725930)
 - [[Перевод] Эфемерные контейнеры в Kubernetes](https://habr.com/ru/post/720510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720510)
 - [Что под капотом у Leak Canary?](https://habr.com/ru/post/725778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725778)
 - [Не шути с ChatGPT. Как хайповая нейросеть может применяться в кибератаках и изменить ИБ](https://habr.com/ru/post/725730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725730)
-- [Как мы создавали свой тренажёр по программированию — опыт Нетологии](https://habr.com/ru/post/725540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725540)
-- [[Перевод] Отладка гейзенбагов: история о параллельной обработке](https://habr.com/ru/post/725864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
