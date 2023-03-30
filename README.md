@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы создавали свой тренажёр по программированию — опыт Нетологии](https://habr.com/ru/post/725540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725540)
+- [[Перевод] Отладка гейзенбагов: история о параллельной обработке](https://habr.com/ru/post/725864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725864)
+- [Как привлечь в приложение 1 млн пользователей с помощью геймификации: опыт Спортмастера](https://habr.com/ru/post/725884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725884)
+- [Балансировка в Finagle: как работает и как сделать свой балансировщик](https://habr.com/ru/post/725876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725876)
 - [Как мы с Jasmin SMS Gateway боролись &lpar;и победили&rpar;](https://habr.com/ru/post/725816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725816)
-- [Разворачиваем Kubernetes-кластер на bare metal под управлением Deckhouse и создаем в нем виртуальные машины](https://habr.com/ru/post/725706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725706)
-- [Дебажим коммуникацию: протоколы общения человеков](https://habr.com/ru/post/719742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719742)
-- [Как быстрее узнать, что сервису плохо, или realtime-детекция разладок с помощью CatBoost](https://habr.com/ru/post/725284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725284)
-- [«Прокачиваем» кнопочный Android смартфон за 13$. Как довести до ума телефон без официальной поддержки?](https://habr.com/ru/post/724632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
