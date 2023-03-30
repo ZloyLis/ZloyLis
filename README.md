@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Школа Программистов-2022: вступительные испытания и разбор задач](https://habr.com/ru/post/725648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725648)
+- [Волновая интуиция](https://habr.com/ru/post/713022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713022)
+- [131 вопрос с собеседований про SQL](https://habr.com/ru/post/725780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725780)
 - [[Перевод] Полезные, смешные, нелепые: репозитории GitHub, которые вас удивят](https://habr.com/ru/post/725736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725736)
 - [SuperIndustry — Dev log #2 – Добро пожаловать в темный лес](https://habr.com/ru/post/725700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725700)
-- [Коммерческое QA-образование умерло. Возвращаемся к профессиональному &lpar;и призываем нейроменторов&rpar;](https://habr.com/ru/post/725652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725652)
-- [Нюансы разработки парсера для свего языка программирования](https://habr.com/ru/post/724146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724146)
-- [[Перевод] Как контрибьютить в проект, о котором ничего не знаешь](https://habr.com/ru/post/725622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
