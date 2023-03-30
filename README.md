@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что под капотом у Leak Canary?](https://habr.com/ru/post/725778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725778)
+- [Не шути с ChatGPT. Как хайповая нейросеть может применяться в кибератаках и изменить ИБ](https://habr.com/ru/post/725730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725730)
 - [Как мы создавали свой тренажёр по программированию — опыт Нетологии](https://habr.com/ru/post/725540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725540)
 - [[Перевод] Отладка гейзенбагов: история о параллельной обработке](https://habr.com/ru/post/725864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725864)
 - [Как привлечь в приложение 1 млн пользователей с помощью геймификации: опыт Спортмастера](https://habr.com/ru/post/725884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725884)
-- [Балансировка в Finagle: как работает и как сделать свой балансировщик](https://habr.com/ru/post/725876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725876)
-- [Как мы с Jasmin SMS Gateway боролись &lpar;и победили&rpar;](https://habr.com/ru/post/725816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
