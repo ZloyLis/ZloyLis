@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Текстовые строки в языках программирования](https://habr.com/ru/post/726116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726116)
+- [Потоковый обмен в распределённых системах и использование реактивных потоков в нереактивных приложениях: опыт «Магнита»](https://habr.com/ru/post/726090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726090)
+- [Проверяй и доверяй: упрощаем функциональное API-тестирование в облаке](https://habr.com/ru/post/725612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725612)
 - [Что такое менеджер пакетов, и в чем разница YARN, NPM, PNPM?](https://habr.com/ru/post/726096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726096)
 - [Как мы увеличили скорость работы сайта в 10 раз](https://habr.com/ru/post/725880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725880)
-- [Многомодульный BDSM. Бутылочные горлышки среди модулей](https://habr.com/ru/post/725984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725984)
-- [Что Java-разработчикам расскажут на JPoint 2023?](https://habr.com/ru/post/725848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725848)
-- [Не навреди. Деликатные советы для наставников, работающих с новичками](https://habr.com/ru/post/726072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
