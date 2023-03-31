@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизируем тестирование микросервисов с REST-assured и Kotlin + Allure](https://habr.com/ru/post/726064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726064)
+- [Как мы применяли исследования при разработке сервиса Европротокол онлайн](https://habr.com/ru/post/725904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725904)
+- [Практика код-ревью: спорные моменты](https://habr.com/ru/post/726054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726054)
 - [CSR, SSG, SSR — про рендеринг приложений на примерах](https://habr.com/ru/post/725626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725626)
 - [Ассоциативная память без нейросетей + генерация текста](https://habr.com/ru/post/726030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726030)
-- [Соблюдаем дистанцию, как топологи](https://habr.com/ru/post/725996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725996)
-- [[Перевод] 10 причуд Zig](https://habr.com/ru/post/725994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725994)
-- [С какими сложностями встретится новичок в IT на первой работе?](https://habr.com/ru/post/725990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
