@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSR, SSG, SSR — про рендеринг приложений на примерах](https://habr.com/ru/post/725626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725626)
+- [Ассоциативная память без нейросетей + генерация текста](https://habr.com/ru/post/726030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726030)
 - [Соблюдаем дистанцию, как топологи](https://habr.com/ru/post/725996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725996)
 - [[Перевод] 10 причуд Zig](https://habr.com/ru/post/725994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725994)
 - [С какими сложностями встретится новичок в IT на первой работе?](https://habr.com/ru/post/725990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725990)
-- [[Перевод] msgspec: быстрый и экономичный парсинг JSON на Python](https://habr.com/ru/post/725972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725972)
-- [[Перевод] Выражение Hibernate запросов в виде типо‑безопасных Java-потоков](https://habr.com/ru/post/721788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
