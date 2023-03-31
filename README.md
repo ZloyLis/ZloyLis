@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть 2. Перевод нейронной сети на базе Keras LSTM на работу с матричными операциями](https://habr.com/ru/post/723792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723792)
 - [Публикация NPM-пакетов](https://habr.com/ru/post/726158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726158)
 - [Замеряй и ускоряй: как мы сократили время вызова метода в Java-коде в 16 раз](https://habr.com/ru/post/726100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726100)
 - [Прости, Rosetta, мы должны расстаться](https://habr.com/ru/post/726118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726118)
 - [Личный кабинет и все, все, все. Часть 1.2. Анализ конкурентов](https://habr.com/ru/post/726148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726148)
-- [Запускаем на телефоне нейронку LLaMa 7B 4 bit от фейсбука с настройкой Alpaca-LoRA](https://habr.com/ru/post/726134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
