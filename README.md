@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое менеджер пакетов, и в чем разница YARN, NPM, PNPM?](https://habr.com/ru/post/726096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726096)
+- [Как мы увеличили скорость работы сайта в 10 раз](https://habr.com/ru/post/725880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725880)
+- [Многомодульный BDSM. Бутылочные горлышки среди модулей](https://habr.com/ru/post/725984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725984)
 - [Что Java-разработчикам расскажут на JPoint 2023?](https://habr.com/ru/post/725848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725848)
 - [Не навреди. Деликатные советы для наставников, работающих с новичками](https://habr.com/ru/post/726072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726072)
-- [Причина агонии студентов во время интервью, или популярно о моделях интерфейсов шины](https://habr.com/ru/post/726022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726022)
-- [Автоматизируем тестирование микросервисов с REST-assured и Kotlin + Allure](https://habr.com/ru/post/726064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726064)
-- [Как мы применяли исследования при разработке сервиса «Европротокол онлайн»](https://habr.com/ru/post/725904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
