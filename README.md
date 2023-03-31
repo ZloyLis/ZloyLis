@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что Java-разработчикам расскажут на JPoint 2023?](https://habr.com/ru/post/725848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725848)
+- [Не навреди. Деликатные советы для наставников, работающих с новичками](https://habr.com/ru/post/726072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726072)
+- [Причина агонии студентов во время интервью, или популярно о моделях интерфейсов шины](https://habr.com/ru/post/726022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726022)
 - [Автоматизируем тестирование микросервисов с REST-assured и Kotlin + Allure](https://habr.com/ru/post/726064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726064)
-- [Как мы применяли исследования при разработке сервиса Европротокол онлайн](https://habr.com/ru/post/725904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725904)
-- [Практика код-ревью: спорные моменты](https://habr.com/ru/post/726054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726054)
-- [CSR, SSG, SSR — про рендеринг приложений на примерах](https://habr.com/ru/post/725626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725626)
-- [Ассоциативная память без нейросетей + генерация текста](https://habr.com/ru/post/726030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726030)
+- [Как мы применяли исследования при разработке сервиса «Европротокол онлайн»](https://habr.com/ru/post/725904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
