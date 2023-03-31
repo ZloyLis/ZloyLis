@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ревью — это что-то на программистском?](https://habr.com/ru/post/726256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726256)
 - [Адаптивный и многоязычный компонент футера для Vue 3: создание и использование](https://habr.com/ru/post/726242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726242)
 - [Обзор Unihertz Golden Eye: защищенный смартфон с функцией сверхмощного фонаря](https://habr.com/ru/post/726232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726232)
 - [Пора забывать GridSearch — встречайте ProgressiveGridSearch. Фракталы в ML, постепенно увеличиваем разрешение](https://habr.com/ru/post/726222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726222)
 - [[Перевод] Как собирать логи с помощью Fluentd и Fluent Bit](https://habr.com/ru/post/726192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726192)
-- [Футбол + английский, или что нужно учить сейчас, чтобы стать Стивом Джобсом потом](https://habr.com/ru/post/725892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
