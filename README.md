@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Публикация NPM-пакетов](https://habr.com/ru/post/726158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726158)
+- [Замеряй и ускоряй: как мы сократили время вызова метода в Java-коде в 16 раз](https://habr.com/ru/post/726100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726100)
+- [Прости, Rosetta, мы должны расстаться](https://habr.com/ru/post/726118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726118)
+- [Личный кабинет и все, все, все. Часть 1.2. Анализ конкурентов](https://habr.com/ru/post/726148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726148)
 - [Запускаем на телефоне нейронку LLaMa 7B 4 bit от фейсбука с настройкой Alpaca-LoRA](https://habr.com/ru/post/726134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726134)
-- [Kotlin Multiplatform Mobile: как усложнить жизнь себе и упростить её потомкам](https://habr.com/ru/post/726130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726130)
-- [Личный кабинет и все, все, все. Тестируем, анализируем и занимаемся всяким. Часть 1](https://habr.com/ru/post/725942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725942)
-- [ML-подходы по поиску похожих изображений](https://habr.com/ru/post/726122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726122)
-- [Как математики расшифровали «код» природы и внесли свой вклад в биологию](https://habr.com/ru/post/725970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
