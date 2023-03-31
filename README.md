@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Текстовые строки в языках программирования](https://habr.com/ru/post/726116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726116)
-- [Потоковый обмен в распределённых системах и использование реактивных потоков в нереактивных приложениях: опыт «Магнита»](https://habr.com/ru/post/726090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726090)
-- [Проверяй и доверяй: упрощаем функциональное API-тестирование в облаке](https://habr.com/ru/post/725612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725612)
-- [Что такое менеджер пакетов, и в чем разница YARN, NPM, PNPM?](https://habr.com/ru/post/726096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726096)
-- [Как мы увеличили скорость работы сайта в 10 раз](https://habr.com/ru/post/725880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725880)
+- [Запускаем на телефоне нейронку LLaMa 7B 4 bit от фейсбука с настройкой Alpaca-LoRA](https://habr.com/ru/post/726134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726134)
+- [Kotlin Multiplatform Mobile: как усложнить жизнь себе и упростить её потомкам](https://habr.com/ru/post/726130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726130)
+- [Личный кабинет и все, все, все. Тестируем, анализируем и занимаемся всяким. Часть 1](https://habr.com/ru/post/725942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725942)
+- [ML-подходы по поиску похожих изображений](https://habr.com/ru/post/726122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726122)
+- [Как математики расшифровали «код» природы и внесли свой вклад в биологию](https://habr.com/ru/post/725970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
