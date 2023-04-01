@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как работает веб-браузер &lpar;с картинками&rpar;](https://habr.com/ru/post/726292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726292)
+- [Койн Шрёдингера — новое слово в криптовалютах](https://habr.com/ru/post/726202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726202)
 - [Настройка Пошаговой Отладки JLink+Eclipse](https://habr.com/ru/post/682498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682498)
 - [Ревью — это что-то на программистском?](https://habr.com/ru/post/726256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726256)
 - [Адаптивный и многоязычный компонент футера для Vue 3: создание и использование](https://habr.com/ru/post/726242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726242)
-- [Обзор Unihertz Golden Eye: защищенный смартфон с функцией сверхмощного фонаря](https://habr.com/ru/post/726232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726232)
-- [Пора забывать GridSearch — встречайте ProgressiveGridSearch. Фракталы в ML, постепенно увеличиваем разрешение](https://habr.com/ru/post/726222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
