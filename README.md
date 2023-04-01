@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где решать задачи по программированию, чтобы пройти путь from zero to hero](https://habr.com/ru/post/726366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726366)
 - [Как наладить код-ревью, если ты совсем один](https://habr.com/ru/post/726082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726082)
 - [Архитектура front-end приложений — react, react native, angular. Обзор](https://habr.com/ru/post/726354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726354)
 - [Постпятничные клеточные автоматы: альтернативные окрестности и HROT](https://habr.com/ru/post/725136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725136)
 - [Секретный ингредиент для оценки архитектуры кода](https://habr.com/ru/post/726338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726338)
-- [Создаем читабельный e2e тест для микросервисов на Spring Boot с помощью Cucumber 7 и Wiremock](https://habr.com/ru/post/726332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
