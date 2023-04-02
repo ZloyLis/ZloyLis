@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinia scoped стор](https://habr.com/ru/post/726452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726452)
 - [Docker для приложения Rails 7](https://habr.com/ru/post/726438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726438)
 - [Руководство по Кросс-Платформенному Системному Программированию для UNIX и Windows: Уровень 1](https://habr.com/ru/post/726410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726410)
 - [Математическая продлёнка. Из чего сделаны Пифагоровы штаны](https://habr.com/ru/post/726268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726268)
 - [Интегрируем Яндекс Музыку в Visual Studio Code](https://habr.com/ru/post/725460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725460)
-- [Разбираем float на части](https://habr.com/ru/post/726312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
