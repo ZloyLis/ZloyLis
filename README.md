@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интегрируем Яндекс Музыку в Visual Studio Code](https://habr.com/ru/post/725460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725460)
+- [Разбираем float на части](https://habr.com/ru/post/726312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726312)
 - [Ретеншен — основная метрика F2P игры, вероятностный подход](https://habr.com/ru/post/726396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726396)
 - [Подготовка к собеседованию на iOS разработчика &lpar;актуально на начало 2023 года&rpar;](https://habr.com/ru/post/726388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726388)
 - [Делаю Package Manager для VBA](https://habr.com/ru/post/726384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726384)
-- [Где решать задачи по программированию, чтобы пройти путь from zero to hero](https://habr.com/ru/post/726366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726366)
-- [Как наладить код-ревью, если ты совсем один](https://habr.com/ru/post/726082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
