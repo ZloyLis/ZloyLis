@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нового в Rust 1.68](https://habr.com/ru/post/726552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726552)
+- [Спортивные бобры и NFT из первого граффити ВКонтакте — какие проекты создали участники первого Web3-хакатона VK NFT](https://habr.com/ru/post/726534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726534)
 - [Почему десктопные приложения работают на веб-платформе?](https://habr.com/ru/post/725602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725602)
 - [Фотки по-красоте: как сделать сетку предпросмотра изображений](https://habr.com/ru/post/726408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726408)
 - [[Перевод] Модульное глубокое обучение](https://habr.com/ru/post/726460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726460)
-- [Scala Digest. Выпуск 3](https://habr.com/ru/post/726530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726530)
-- [Как мы разрабатывали браузерную игру: взгляд со стороны frontend-архитектора](https://habr.com/ru/post/726512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
