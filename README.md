@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Свое мобильное приложение: от идеи до разработки, продвижения и развития](https://habr.com/ru/post/726516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726516)
 - [Безопасность в тренде. Лучшие опенсорс-проекты 2022 года](https://habr.com/ru/post/726706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726706)
 - [[Перевод] Без рутины и тоски: как провести код-ревью](https://habr.com/ru/post/726690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726690)
 - [Тестирование кода разработчиками — почему этот аспект цикла разработки в плохом состоянии и что с этим делать](https://habr.com/ru/post/726682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726682)
 - [Apple Pro Weekly News &lpar;27.03 – 02.04.23&rpar;](https://habr.com/ru/post/726678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726678)
-- [Микросервисы сына маминой подруги. Пишем правильные микросервисные приложения на Java](https://habr.com/ru/post/726672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
