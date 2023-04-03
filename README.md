@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фортран: пишем параллельные программы](https://habr.com/ru/post/726654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726654)
+- [Security Week 2314: атака supply chain на компанию 3CX](https://habr.com/ru/post/726574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726574)
 - [Helm Best Practices &lpar;Part 1&rpar;](https://habr.com/ru/post/726636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726636)
 - [Создаем байт-код для JVM без компилятора](https://habr.com/ru/post/726610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726610)
 - [Оптимизация бюджета с помощью Telegram-бота](https://habr.com/ru/post/726622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726622)
-- [[Перевод] Три причины передавать std::string_view по значению](https://habr.com/ru/post/726620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726620)
-- [Ищем по-соседски: методы приближённого поиска ближайших соседей для A/B-тестирования гипотез](https://habr.com/ru/post/726532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
