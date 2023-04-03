@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я стал DevOps: реальные истории входа в профессию](https://habr.com/ru/post/726506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726506)
+- [Кубики и рогалики в средиземье: разработка игры на svelte с применением ChatGPT и stable diffusion](https://habr.com/ru/post/726462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726462)
+- [Как написать простое консольное приложение с аргументами на Java](https://habr.com/ru/post/726496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726496)
 - [Мобильная разработка за неделю #482 &lpar;27 марта — 2 апреля&rpar;](https://habr.com/ru/post/726476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726476)
-- [Pinia scoped стор](https://habr.com/ru/post/726452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726452)
-- [Docker для приложения Rails 7](https://habr.com/ru/post/726438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726438)
-- [Руководство по Кросс-Платформенному Системному Программированию для UNIX и Windows: Уровень 1](https://habr.com/ru/post/726410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726410)
-- [Математическая продлёнка. Из чего сделаны Пифагоровы штаны](https://habr.com/ru/post/726268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726268)
+- [Pinia scoped store](https://habr.com/ru/post/726452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
