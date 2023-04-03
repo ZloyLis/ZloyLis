@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DUMP 2023, секция Тестирование и QA](https://habr.com/ru/post/726576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726576)
+- [Создание и тестирование процессоров аннотаций &lpar;с кодогенерацией&rpar; для Kotlin](https://habr.com/ru/post/726458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726458)
+- [Менеджмент зависимостей в Javascript](https://habr.com/ru/post/725992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725992)
 - [[Перевод] Что нового в Rust 1.68](https://habr.com/ru/post/726552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726552)
 - [Спортивные бобры и NFT из первого граффити ВКонтакте — какие проекты создали участники первого Web3-хакатона VK NFT](https://habr.com/ru/post/726534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726534)
-- [Почему десктопные приложения работают на веб-платформе?](https://habr.com/ru/post/725602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725602)
-- [Фотки по-красоте: как сделать сетку предпросмотра изображений](https://habr.com/ru/post/726408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726408)
-- [[Перевод] Модульное глубокое обучение](https://habr.com/ru/post/726460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
