@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микросервисы сына маминой подруги. Пишем правильные микросервисные приложения на Java](https://habr.com/ru/post/726672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726672)
+- [Как перевезти вашу инфраструктуру в K8S в SberCloud, и почему не надо летать в облаках?](https://habr.com/ru/post/726594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726594)
+- [Эффект FOMO и важность корпоративной культуры: видеоподкаст «Из бэклога» от red_mad_robot и Alfa Digital](https://habr.com/ru/post/726666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726666)
+- [[Перевод] Практическое DDD. Часть 1: Создание правильных основ](https://habr.com/ru/post/726628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726628)
 - [Фортран: пишем параллельные программы](https://habr.com/ru/post/726654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726654)
-- [Security Week 2314: атака supply chain на компанию 3CX](https://habr.com/ru/post/726574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726574)
-- [Helm Best Practices &lpar;Part 1&rpar;](https://habr.com/ru/post/726636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726636)
-- [Создаем байт-код для JVM без компилятора](https://habr.com/ru/post/726610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726610)
-- [Оптимизация бюджета с помощью Telegram-бота](https://habr.com/ru/post/726622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
