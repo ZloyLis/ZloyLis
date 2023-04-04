@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как не упустить свой шанс и создать крупнейшую независимую ИТ-компанию на рынке еды в России](https://habr.com/ru/post/726804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726804)
+- [[Перевод] Как эффективно тестировать мобильные приложения? Пятиуровневая пирамида тестирования](https://habr.com/ru/post/726816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726816)
+- [[Перевод - recovery mode ] 4 основных направления цифровой трансформации](https://habr.com/ru/post/726810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726810)
 - [PokiToki: Удобный GPT-бот в телеграме](https://habr.com/ru/post/726692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726692)
 - [Jetpack Compose Layouts часть 2](https://habr.com/ru/post/726788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726788)
 - [Подключаем VictoriaMetrics в Deckhouse и настраиваем уведомления в Telegram](https://habr.com/ru/post/726528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726528)
-- [QR-коды против SMS: Какой способ подключения к WhatsApp лучше?](https://habr.com/ru/post/726782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
