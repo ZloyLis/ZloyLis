@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фортран: пишем параллельные программы для суперкомпьютера](https://habr.com/ru/articles/726904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726904)
+- [Книга «Красивый C++: 30 главных правил чистого, безопасного и быстрого кода»](https://habr.com/ru/companies/piter/articles/726878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726878)
+- [Как построить CJM: лучший способ посмотреть на продукт глазами пользователя](https://habr.com/ru/companies/agima/articles/726868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726868)
 - [[Перевод] Как я заставил Python взаимодействовать с Kotlin](https://habr.com/ru/companies/otus/articles/726860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726860)
 - [[recovery mode] Как “резать” бюджет SCRUM проекта, убирая лишние роли](https://habr.com/ru/articles/726888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726888)
-- [[recovery mode] Как использовать промты в ChatGPT для генерации кода на Python](https://habr.com/ru/articles/726870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726870)
-- [[Перевод] Как эффективно тестировать мобильные приложения? Пятиуровневая пирамида тестирования](https://habr.com/ru/articles/726816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726816)
-- [[Перевод - recovery mode ] 4 основных направления цифровой трансформации](https://habr.com/ru/articles/726810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
