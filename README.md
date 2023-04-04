@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сделали кибериммунный продукт с использованием опенсорсной библиотеки: этапы, подводные камни, решения](https://habr.com/ru/articles/727020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727020)
 - [Парадокс подарка: что может поведение рабочего коллектива сказать об экономике?](https://habr.com/ru/articles/726988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726988)
 - [Как в РНКБ IPv6 внедряли](https://habr.com/ru/companies/rncb/articles/726182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726182)
 - [Выпуск CelerData призван устранить ограничения, связанные с озерным хранилищем](https://habr.com/ru/companies/otus/articles/726872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726872)
 - [«Интернет-магазин на диване». Разрабатываем веб-приложение в Telegram](https://habr.com/ru/companies/selectel/articles/726856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726856)
-- [Kubernetes Volumes: реплицированная MongoDB со StatefulSet](https://habr.com/ru/companies/otus/articles/726914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
