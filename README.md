@@ -45,3 +45,4 @@ ___
 ---
 
 [![Top Langs](https://github-readme-stats-lyart-beta.vercel.app/api/top-langs/?username=zloylis&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true&custom_title="ZloyLis&nbsp;Stat"&hide=contribs&hide_rank=true)
