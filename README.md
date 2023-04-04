@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как эффективно тестировать мобильные приложения? Пятиуровневая пирамида тестирования](https://habr.com/ru/post/726816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726816)
-- [[Перевод - recovery mode ] 4 основных направления цифровой трансформации](https://habr.com/ru/post/726810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726810)
-- [PokiToki: Удобный GPT-бот в телеграме](https://habr.com/ru/post/726692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726692)
-- [Jetpack Compose Layouts часть 2](https://habr.com/ru/post/726788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726788)
-- [Подключаем VictoriaMetrics в Deckhouse и настраиваем уведомления в Telegram](https://habr.com/ru/post/726528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726528)
+- [[Перевод] Как я заставил Python взаимодействовать с Kotlin](https://habr.com/ru/companies/otus/articles/726860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726860)
+- [[recovery mode] Как “резать” бюджет SCRUM проекта, убирая лишние роли](https://habr.com/ru/articles/726888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726888)
+- [[recovery mode] Как использовать промты в ChatGPT для генерации кода на Python](https://habr.com/ru/articles/726870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726870)
+- [[Перевод] Как эффективно тестировать мобильные приложения? Пятиуровневая пирамида тестирования](https://habr.com/ru/articles/726816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726816)
+- [[Перевод - recovery mode ] 4 основных направления цифровой трансформации](https://habr.com/ru/articles/726810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
