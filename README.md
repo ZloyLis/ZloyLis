@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрее, больше, сильнее: фреймворки Python с параллельной обработкой данных](https://habr.com/ru/post/724776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724776)
+- [Знакомьтесь, tRPC](https://habr.com/ru/post/723698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723698)
+- [Частотный vs байесовский подходы: оцениваем True Positive Rate при неполной разметке данных](https://habr.com/ru/post/726764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726764)
+- [Картографический фреймворк для отечественной ОС «Нейтрино»](https://habr.com/ru/post/726550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726550)
 - [Подборка полезных ссылок для разработчиков игр #2](https://habr.com/ru/post/726742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726742)
-- [GitFlow в его простоте от dev до prod](https://habr.com/ru/post/705032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=705032)
-- [Шорт-лист мифов о безопасности мобильных приложений и неприкрытая правда](https://habr.com/ru/post/726708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726708)
-- [Дешевый как автобус, удобный как такси: перспективный вид общественного транспорта для больших и средних городов. Часть1](https://habr.com/ru/post/713792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713792)
-- [3 примера, в которых доступность помогла заработать денег, подсветить ошибки и решить споры](https://habr.com/ru/post/718416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=718416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
