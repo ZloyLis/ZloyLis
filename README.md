@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск CelerData призван устранить ограничения, связанные с озерным хранилищем](https://habr.com/ru/companies/otus/articles/726872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726872)
+- [«Интернет-магазин на диване». Разрабатываем веб-приложение в Telegram](https://habr.com/ru/companies/selectel/articles/726856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726856)
 - [Kubernetes Volumes: реплицированная MongoDB со StatefulSet](https://habr.com/ru/companies/otus/articles/726914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726914)
 - [[Перевод] Kotlin 1.8.20](https://habr.com/ru/articles/726912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726912)
 - [Фортран: пишем параллельные программы для суперкомпьютера](https://habr.com/ru/articles/726904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726904)
-- [Книга «Красивый C++: 30 главных правил чистого, безопасного и быстрого кода»](https://habr.com/ru/companies/piter/articles/726878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726878)
-- [Как построить CJM: лучший способ посмотреть на продукт глазами пользователя](https://habr.com/ru/companies/agima/articles/726868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
