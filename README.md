@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Volumes: реплицированная MongoDB со StatefulSet](https://habr.com/ru/companies/otus/articles/726914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726914)
+- [[Перевод] Kotlin 1.8.20](https://habr.com/ru/articles/726912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726912)
 - [Фортран: пишем параллельные программы для суперкомпьютера](https://habr.com/ru/articles/726904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726904)
 - [Книга «Красивый C++: 30 главных правил чистого, безопасного и быстрого кода»](https://habr.com/ru/companies/piter/articles/726878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726878)
 - [Как построить CJM: лучший способ посмотреть на продукт глазами пользователя](https://habr.com/ru/companies/agima/articles/726868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726868)
-- [[Перевод] Как я заставил Python взаимодействовать с Kotlin](https://habr.com/ru/companies/otus/articles/726860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726860)
-- [[recovery mode] Как “резать” бюджет SCRUM проекта, убирая лишние роли](https://habr.com/ru/articles/726888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
