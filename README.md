@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Быстрее, больше, сильнее: фреймворки Python с параллельной обработкой данных](https://habr.com/ru/post/724776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724776)
-- [Знакомьтесь, tRPC](https://habr.com/ru/post/723698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723698)
-- [Частотный vs байесовский подходы: оцениваем True Positive Rate при неполной разметке данных](https://habr.com/ru/post/726764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726764)
-- [Картографический фреймворк для отечественной ОС «Нейтрино»](https://habr.com/ru/post/726550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726550)
-- [Подборка полезных ссылок для разработчиков игр #2](https://habr.com/ru/post/726742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726742)
+- [Как не упустить свой шанс и создать крупнейшую независимую ИТ-компанию на рынке еды в России](https://habr.com/ru/post/726804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726804)
+- [PokiToki: Удобный GPT-бот в телеграме](https://habr.com/ru/post/726692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726692)
+- [Jetpack Compose Layouts часть 2](https://habr.com/ru/post/726788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726788)
+- [Подключаем VictoriaMetrics в Deckhouse и настраиваем уведомления в Telegram](https://habr.com/ru/post/726528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726528)
+- [QR-коды против SMS: Какой способ подключения к WhatsApp лучше?](https://habr.com/ru/post/726782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
