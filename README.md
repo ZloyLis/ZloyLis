@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [11 полезных AI сервисов + Plasma AI Telegram бот с 160 ролевыми моделями, эксклюзивом от chatGPT 4 и MidJourney 5](https://habr.com/ru/articles/727254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727254)
 - [[recovery mode] Как мог бы выглядеть тёмный Хабр](https://habr.com/ru/articles/727028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727028)
 - [Практика использования BPMS в бэк-офисных процессах биржи](https://habr.com/ru/companies/moex/articles/727216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727216)
 - [[Перевод] Стриминговая аналитика с применением Apache Pulsar и структурированные потоки Spark](https://habr.com/ru/companies/timeweb/articles/727166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727166)
 - [Приложения в Kubernetes: быстрый запуск Kafka с KRaft](https://habr.com/ru/companies/otus/articles/726954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726954)
-- [Инструкция для менеджеров и руководителей по реанимации проекта](https://habr.com/ru/companies/kts/articles/727148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
