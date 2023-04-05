@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Стриминговая аналитика с применением Apache Pulsar и структурированные потоки Spark](https://habr.com/ru/companies/timeweb/articles/727166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727166)
 - [Приложения в Kubernetes: быстрый запуск Kafka с KRaft](https://habr.com/ru/companies/otus/articles/726954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726954)
 - [Инструкция для менеджеров и руководителей по реанимации проекта](https://habr.com/ru/companies/kts/articles/727148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727148)
+- [[Перевод] Практическое DDD. Часть 2: Архитектурные темы 1 — Агрегат и ограниченный контекст в микросервисе](https://habr.com/ru/companies/otus/articles/727176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727176)
 - [Многоязычность на Kotlin-бэкэнде](https://habr.com/ru/companies/otus/articles/727130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727130)
-- [Вечная битва High Code и Low Code](https://habr.com/ru/companies/glowbyte/articles/727174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727174)
-- [Построение архитектуры с использованием формальных моделей безопасности](https://habr.com/ru/companies/bimeister/articles/727162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
