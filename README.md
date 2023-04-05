@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain и AI нацелились на авиацию](https://habr.com/ru/articles/727060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727060)
+- [Ленивое программирование с помощью ChatGPT: время пришло?](https://habr.com/ru/articles/727058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727058)
+- [Что джуну без опыта показать на собеседовании: вклад в open source или пет-проекты](https://habr.com/ru/companies/yandex_praktikum/articles/725694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725694)
 - [[recovery mode] Ловим и исправляем «Internal Server Error» — apache2](https://habr.com/ru/articles/727034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727034)
 - [Как мы сделали кибериммунный продукт с использованием опенсорсной библиотеки: этапы, подводные камни, решения](https://habr.com/ru/articles/727020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727020)
-- [Парадокс подарка: что может поведение рабочего коллектива сказать об экономике?](https://habr.com/ru/articles/726988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726988)
-- [Как в РНКБ IPv6 внедряли](https://habr.com/ru/companies/rncb/articles/726182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726182)
-- [Выпуск CelerData призван устранить ограничения, связанные с озерным хранилищем](https://habr.com/ru/companies/otus/articles/726872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
