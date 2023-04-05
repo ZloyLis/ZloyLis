@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложения в Kubernetes: быстрый запуск Kafka с KRaft](https://habr.com/ru/companies/otus/articles/726954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726954)
 - [Инструкция для менеджеров и руководителей по реанимации проекта](https://habr.com/ru/companies/kts/articles/727148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727148)
 - [Многоязычность на Kotlin-бэкэнде](https://habr.com/ru/companies/otus/articles/727130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727130)
 - [Вечная битва High Code и Low Code](https://habr.com/ru/companies/glowbyte/articles/727174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727174)
 - [Построение архитектуры с использованием формальных моделей безопасности](https://habr.com/ru/companies/bimeister/articles/727162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727162)
-- [[Перевод] Перспективы развития Flutter](https://habr.com/ru/articles/726836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
