@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практика использования BPMS в бэк-офисных процессах биржи](https://habr.com/ru/companies/moex/articles/727216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727216)
 - [[Перевод] Стриминговая аналитика с применением Apache Pulsar и структурированные потоки Spark](https://habr.com/ru/companies/timeweb/articles/727166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727166)
 - [Приложения в Kubernetes: быстрый запуск Kafka с KRaft](https://habr.com/ru/companies/otus/articles/726954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726954)
 - [Инструкция для менеджеров и руководителей по реанимации проекта](https://habr.com/ru/companies/kts/articles/727148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727148)
 - [[Перевод] Практическое DDD. Часть 2: Архитектурные темы 1 — Агрегат и ограниченный контекст в микросервисе](https://habr.com/ru/companies/otus/articles/727176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727176)
-- [Многоязычность на Kotlin-бэкэнде](https://habr.com/ru/companies/otus/articles/727130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
