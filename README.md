@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История о том, как мы на Module Federation съезжали. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/726880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726880)
+- [[Перевод] 9 мифов о Java](https://habr.com/ru/articles/727108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727108)
 - [Elбрус, или Как дела с микроэлектроникой в России в 2023 году](https://habr.com/ru/companies/redmadrobot/articles/727098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727098)
 - [Алгоритм «Longest common subsequence» на Go. Как прийти к решению?](https://habr.com/ru/companies/karuna/articles/725552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725552)
 - [Мышиные гонки: что делать со скоростью скролла PC-мыши на MacOS](https://habr.com/ru/companies/vk/articles/726604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726604)
-- [Blockchain и AI нацелились на авиацию](https://habr.com/ru/articles/727060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727060)
-- [Ленивое программирование с помощью ChatGPT: время пришло?](https://habr.com/ru/articles/727058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
