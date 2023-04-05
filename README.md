@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм «Longest common subsequence» на Go. Как прийти к решению?](https://habr.com/ru/companies/karuna/articles/725552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725552)
+- [Мышиные гонки: что делать со скоростью скролла PC-мыши на MacOS](https://habr.com/ru/companies/vk/articles/726604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726604)
 - [Blockchain и AI нацелились на авиацию](https://habr.com/ru/articles/727060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727060)
 - [Ленивое программирование с помощью ChatGPT: время пришло?](https://habr.com/ru/articles/727058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727058)
 - [Что джуну без опыта показать на собеседовании: вклад в open source или пет-проекты](https://habr.com/ru/companies/yandex_praktikum/articles/725694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725694)
-- [[recovery mode] Ловим и исправляем «Internal Server Error» — apache2](https://habr.com/ru/articles/727034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727034)
-- [Как мы сделали кибериммунный продукт с использованием опенсорсной библиотеки: этапы, подводные камни, решения](https://habr.com/ru/articles/727020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
