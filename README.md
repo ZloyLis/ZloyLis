@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструкция для менеджеров и руководителей по реанимации проекта](https://habr.com/ru/companies/kts/articles/727148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727148)
+- [Многоязычность на Kotlin-бэкэнде](https://habr.com/ru/companies/otus/articles/727130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727130)
+- [Вечная битва High Code и Low Code](https://habr.com/ru/companies/glowbyte/articles/727174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727174)
+- [Построение архитектуры с использованием формальных моделей безопасности](https://habr.com/ru/companies/bimeister/articles/727162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727162)
 - [[Перевод] Перспективы развития Flutter](https://habr.com/ru/articles/726836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726836)
-- [История о том, как мы на Module Federation съезжали. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/726880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726880)
-- [[Перевод] 9 мифов о Java](https://habr.com/ru/articles/727108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727108)
-- [Elбрус, или Как дела с микроэлектроникой в России в 2023 году](https://habr.com/ru/companies/redmadrobot/articles/727098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727098)
-- [Алгоритм «Longest common subsequence» на Go. Как прийти к решению?](https://habr.com/ru/companies/karuna/articles/725552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
