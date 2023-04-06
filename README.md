@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шаблон проектирования: Chain of Responsibility](https://habr.com/ru/articles/727454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727454)
+- [[Перевод] Йошуа Бенжио о замедлении развития ИИ-систем, которые проходят тест Тьюринга](https://habr.com/ru/articles/727450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727450)
+- [Разбираемся в сортах USB](https://habr.com/ru/articles/727446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727446)
 - [Гугл таблица как бд для телеграм бота &lpar;запись в таблицу&rpar;](https://habr.com/ru/articles/727248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727248)
 - [Как ChatGPT помогла мне исправить баг в far2l, turbo и wxWidgets](https://habr.com/ru/articles/727438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727438)
-- [Битва за удобный для IDE stack trace в Go &lpar;с Bazel и без&rpar;](https://habr.com/ru/companies/joom/articles/727418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727418)
-- [Меньше багов богу разработки: плюсы, минусы и нюансы имплементации подхода Secure by design](https://habr.com/ru/companies/kaspersky/articles/725360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725360)
-- [EasySteamPaybot или как я помогал людям пополнять Steam](https://habr.com/ru/articles/727400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
