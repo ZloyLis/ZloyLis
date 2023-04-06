@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Istio в разрезе: что умеет и не умеет самый популярный Service Mesh &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/726958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726958)
+- [EasySteamPaybot или как я помогал людям пополнять Steam](https://habr.com/ru/articles/727400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727400)
+- [Можно ли сейчас продолжать развивать IT-инфраструктуру? Что изменилось после февраля 2022 года](https://habr.com/ru/companies/oleg-bunin/articles/727366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727366)
+- [Istio в разрезе: что умеет и не умеет самый популярный Service Mesh &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/726958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726958)
 - [[Перевод] Пришло время пересмотреть структуру проектов на .NET](https://habr.com/ru/companies/skbkontur/articles/723840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723840)
 - [Как использовать системный анализ для определения угроз безопасности: кратко для всех](https://habr.com/ru/companies/otus/articles/727378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727378)
-- [[Перевод - recovery mode ] Вызов асинхронных внешних API с помощью AWS Step Functions](https://habr.com/ru/articles/727354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727354)
-- [Раз и навсегда про тёмную тему или почему вам «на самом деле» нужна тёмная тема](https://habr.com/ru/articles/695468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
