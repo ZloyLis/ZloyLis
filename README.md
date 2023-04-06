@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Istio в разрезе: что умеет и не умеет самый популярный Service Mesh &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/726958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726958)
+- [[Перевод] Пришло время пересмотреть структуру проектов на .NET](https://habr.com/ru/companies/skbkontur/articles/723840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723840)
+- [Как использовать системный анализ для определения угроз безопасности: кратко для всех](https://habr.com/ru/companies/otus/articles/727378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727378)
 - [[Перевод - recovery mode ] Вызов асинхронных внешних API с помощью AWS Step Functions](https://habr.com/ru/articles/727354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727354)
 - [Раз и навсегда про тёмную тему или почему вам «на самом деле» нужна тёмная тема](https://habr.com/ru/articles/695468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=695468)
-- [Как я решила попробовать себя в ML: анализ эмоциональной окраски отзывов с Кинопоиска 2.0](https://habr.com/ru/articles/727348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727348)
-- [Как ИТ-специалисту развить у себя умение работать в команде](https://habr.com/ru/companies/ncloudtech/articles/727210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727210)
-- [Как мы управляем распределенными транзакциями в сервисах #CloudMTS. Без саг](https://habr.com/ru/companies/cloud_mts/articles/726964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
