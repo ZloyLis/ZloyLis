@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы управляем распределенными транзакциями в сервисах #CloudMTS. Без саг](https://habr.com/ru/companies/cloud_mts/articles/726964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726964)
+- [Смартфон-раскладушка на Android с двумя AMOLED дисплеями. Ремонтируем и смотрим на редчайшний Samsung SM-W2014](https://habr.com/ru/companies/timeweb/articles/726286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726286)
+- [Снижаем размерность эмбеддингов предложений для задачи определения семантического сходства](https://habr.com/ru/articles/727318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727318)
+- [[Перевод] Релизы Safari — это ад для разработчиков](https://habr.com/ru/articles/727218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727218)
 - [[Перевод] Как я неделю просидел над десятью строками кода](https://habr.com/ru/companies/productivity_inside/articles/727294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727294)
-- [6.4 Устойчивость систем автоматического регулирования. Частотный критерий устойчивости Михайлова](https://habr.com/ru/articles/719872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719872)
-- [Oracle Real Application Clusters в среде Bare Metal Kubernetes Cluster](https://habr.com/ru/articles/727286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727286)
-- [Кидалово mytonwallet.io Почему не стоит делать тестовые задания](https://habr.com/ru/articles/727278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727278)
-- [11 полезных AI сервисов + Plasma AI Telegram бот с 160 ролевыми моделями, эксклюзивом от chatGPT 4 и MidJourney 5](https://habr.com/ru/articles/727254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
