@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я неделю просидел над десятью строками кода](https://habr.com/ru/companies/productivity_inside/articles/727294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727294)
 - [6.4 Устойчивость систем автоматического регулирования. Частотный критерий устойчивости Михайлова](https://habr.com/ru/articles/719872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719872)
 - [Oracle Real Application Clusters в среде Bare Metal Kubernetes Cluster](https://habr.com/ru/articles/727286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727286)
 - [Кидалово mytonwallet.io Почему не стоит делать тестовые задания](https://habr.com/ru/articles/727278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727278)
 - [11 полезных AI сервисов + Plasma AI Telegram бот с 160 ролевыми моделями, эксклюзивом от chatGPT 4 и MidJourney 5](https://habr.com/ru/articles/727254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727254)
-- [[recovery mode] Как мог бы выглядеть тёмный Хабр](https://habr.com/ru/articles/727028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
