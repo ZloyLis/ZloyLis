@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Добро пожаловать в мир приключений по API-серверу Kubernetes. Часть 1](https://habr.com/ru/companies/southbridge/articles/727470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727470)
 - [Шаблон проектирования: Chain of Responsibility](https://habr.com/ru/articles/727454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727454)
 - [Разбираемся в сортах USB](https://habr.com/ru/articles/727446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727446)
 - [Гугл таблица как БД для телеграм бота &lpar;запись в таблицу&rpar;](https://habr.com/ru/articles/727248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727248)
 - [Как ChatGPT помогла мне исправить баг в far2l, turbo и wxWidgets](https://habr.com/ru/articles/727438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727438)
-- [Битва за удобный для IDE stack trace в Go &lpar;с Bazel и без&rpar;](https://habr.com/ru/companies/joom/articles/727418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
