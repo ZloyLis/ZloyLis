@@ -35,9 +35,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как ИТ-специалисту развить у себя умение работать в команде](https://habr.com/ru/companies/ncloudtech/articles/727210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727210)
 - [Как мы управляем распределенными транзакциями в сервисах #CloudMTS. Без саг](https://habr.com/ru/companies/cloud_mts/articles/726964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726964)
 - [Смартфон-раскладушка на Android с двумя AMOLED дисплеями. Ремонтируем и смотрим на редчайшний Samsung SM-W2014](https://habr.com/ru/companies/timeweb/articles/726286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726286)
-- [Снижаем размерность эмбеддингов предложений для задачи определения семантического сходства](https://habr.com/ru/articles/727318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727318)
 - [[Перевод] Релизы Safari — это ад для разработчиков](https://habr.com/ru/articles/727218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727218)
 - [[Перевод] Как я неделю просидел над десятью строками кода](https://habr.com/ru/companies/productivity_inside/articles/727294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727294)
 <!-- BLOG-POST-LIST:END -->
