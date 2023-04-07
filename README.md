@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удивительные клеточные автоматы: блочные КА, окрестность Марголуса](https://habr.com/ru/companies/timeweb/articles/727016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727016)
+- [Как уменьшить размер APK](https://habr.com/ru/companies/broadcast/articles/715062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715062)
+- [Опыт портирования Eclipse 4diac на KasperskyOS CE](https://habr.com/ru/articles/727562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727562)
 - [Остановись, мгновенье. Медленное программирование — тренд для уставших разработчиков](https://habr.com/ru/articles/727464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727464)
 - [Старый софт, LPT и современное железо](https://habr.com/ru/articles/727468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727468)
-- [Знакомимся с Notion Ai](https://habr.com/ru/articles/727478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727478)
-- [[Перевод] Добро пожаловать в мир приключений по API-серверу Kubernetes. Часть 1](https://habr.com/ru/companies/southbridge/articles/727470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727470)
-- [Шаблон проектирования: Chain of Responsibility](https://habr.com/ru/articles/727454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
