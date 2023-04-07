@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выражение числа в виде букв](https://habr.com/ru/articles/727738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727738)
 - [Как стать аналитиком данных в 2023 году](https://habr.com/ru/articles/727732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727732)
 - [А работают ли игровые механики?](https://habr.com/ru/companies/alfa/articles/727606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727606)
 - [Основы Websocket. Использование с react, redux, saga и RTK Query](https://habr.com/ru/articles/727696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727696)
 - [[Перевод] Мир приключений по API-серверу Kubernetes. Часть 2. Наблюдение и кэширование](https://habr.com/ru/companies/southbridge/articles/727510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727510)
-- [[Перевод] Как создавать SBOM в Java с помощью Maven и Gradle](https://habr.com/ru/articles/723214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
