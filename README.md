@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А работают ли игровые механики?](https://habr.com/ru/companies/alfa/articles/727606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727606)
 - [Основы Websocket. Использование с react, redux, saga и RTK Query](https://habr.com/ru/articles/727696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727696)
 - [[Перевод] Мир приключений по API-серверу Kubernetes. Часть 2. Наблюдение и кэширование](https://habr.com/ru/companies/southbridge/articles/727510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727510)
 - [[Перевод] Как создавать SBOM в Java с помощью Maven и Gradle](https://habr.com/ru/articles/723214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723214)
 - [[Перевод] Наиболее распространённые мифы о Scala: сеанс с разоблачением](https://habr.com/ru/companies/piter/articles/727582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727582)
-- [[Перевод] Сопоставление с шаблоном в Java — 5 примеров для занятых разработчиков](https://habr.com/ru/articles/719384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
