@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Старый софт, LPT и современное железо](https://habr.com/ru/articles/727468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727468)
 - [Знакомимся с Notion Ai](https://habr.com/ru/articles/727478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727478)
 - [[Перевод] Добро пожаловать в мир приключений по API-серверу Kubernetes. Часть 1](https://habr.com/ru/companies/southbridge/articles/727470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727470)
 - [Шаблон проектирования: Chain of Responsibility](https://habr.com/ru/articles/727454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727454)
 - [Разбираемся в сортах USB](https://habr.com/ru/articles/727446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727446)
-- [Гугл таблица как БД для телеграм бота &lpar;запись в таблицу&rpar;](https://habr.com/ru/articles/727248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
