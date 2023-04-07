@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Трудности маскирования текстового поля](https://habr.com/ru/companies/tinkoff/articles/727368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727368)
 - [Удивительные клеточные автоматы: блочные КА, окрестность Марголуса](https://habr.com/ru/companies/timeweb/articles/727016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727016)
 - [Как уменьшить размер APK](https://habr.com/ru/companies/broadcast/articles/715062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715062)
 - [Опыт портирования Eclipse 4diac на KasperskyOS CE](https://habr.com/ru/articles/727562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727562)
 - [Остановись, мгновенье. Медленное программирование — тренд для уставших разработчиков](https://habr.com/ru/articles/727464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727464)
-- [Старый софт, LPT и современное железо](https://habr.com/ru/articles/727468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
