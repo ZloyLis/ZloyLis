@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сопоставление с шаблоном в Java — 5 примеров для занятых разработчиков](https://habr.com/ru/articles/719384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719384)
+- [Приглашаем на онлайновый митап про карьерный трек C++ разработчика](https://habr.com/ru/companies/kaspersky/articles/727618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727618)
+- [[Перевод] Визуализация 5 алгоритмов сортировки на Python](https://habr.com/ru/companies/kts/articles/727528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727528)
 - [Трудности маскирования текстового поля](https://habr.com/ru/companies/tinkoff/articles/727368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727368)
 - [Удивительные клеточные автоматы: блочные КА, окрестность Марголуса](https://habr.com/ru/companies/timeweb/articles/727016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727016)
-- [Как уменьшить размер APK](https://habr.com/ru/companies/broadcast/articles/715062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715062)
-- [Опыт портирования Eclipse 4diac на KasperskyOS CE](https://habr.com/ru/articles/727562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727562)
-- [Остановись, мгновенье. Медленное программирование — тренд для уставших разработчиков](https://habr.com/ru/articles/727464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
