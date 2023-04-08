@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Манипуляции с байт-кодом Java](https://habr.com/ru/companies/timeweb/articles/727726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727726)
+- [Ближайшие бесплатные мероприятия по разработке &lpar;12 апреля — 20 апреля&rpar;](https://habr.com/ru/articles/727762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727762)
 - [Скоростной серфинг по библиотеке с помощью ChatGPT](https://habr.com/ru/articles/727758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727758)
 - [Настройка Fastlane в React Native](https://habr.com/ru/articles/727756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727756)
 - [Выражение числа в виде букв](https://habr.com/ru/articles/727738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727738)
-- [А работают ли игровые механики?](https://habr.com/ru/companies/alfa/articles/727606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727606)
-- [Основы Websocket. Использование с react, redux, saga и RTK Query](https://habr.com/ru/articles/727696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
