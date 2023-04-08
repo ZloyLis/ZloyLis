@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаем клон Instagram при помощи Flutter и Feeds. Часть 1](https://habr.com/ru/articles/727794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727794)
 - [Что нам стоит на Bubble построить &lpar;+ мнение о возможности симбиоза кода и nocode&rpar;](https://habr.com/ru/articles/727810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727810)
 - [Если не использовать «React»](https://habr.com/ru/articles/727798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727798)
 - [Swift async/await. Чем он лучше GCD?](https://habr.com/ru/articles/727788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727788)
 - [Царица наук: математика, беспощадная ты мука](https://habr.com/ru/articles/727776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727776)
-- [Языковой конкур](https://habr.com/ru/articles/727772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
