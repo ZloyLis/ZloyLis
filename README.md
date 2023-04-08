@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Если не использовать «React»](https://habr.com/ru/articles/727798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727798)
 - [Swift async/await. Чем он лучше GCD?](https://habr.com/ru/articles/727788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727788)
 - [Царица наук: математика, беспощадная ты мука](https://habr.com/ru/articles/727776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727776)
 - [Языковой конкур](https://habr.com/ru/articles/727772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727772)
 - [[Перевод] Манипуляции с байт-кодом Java](https://habr.com/ru/companies/timeweb/articles/727726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727726)
-- [Ближайшие бесплатные мероприятия по разработке &lpar;12 апреля — 20 апреля&rpar;](https://habr.com/ru/articles/727762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
