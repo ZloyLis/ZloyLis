@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Законно ли хранить код на GitHub?](https://habr.com/ru/articles/727882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727882)
 - [Гуманитарий с 0 знаний в IT и в программировании &lpar;в 1С, в частности&rpar;. Нулевая вводная часть](https://habr.com/ru/articles/727876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727876)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 1&rpar;](https://habr.com/ru/articles/727850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727850)
 - [[Перевод] Строка на 1,5 гигабайта](https://habr.com/ru/articles/727854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727854)
 - [Парадокс четырехмерного пространства. Что, зачем и как?](https://habr.com/ru/articles/727856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727856)
-- [Удивительные кубы Хинтона, которые позволяют каждому увидеть четырехмерный мир](https://habr.com/ru/articles/727838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
