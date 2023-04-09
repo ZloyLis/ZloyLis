@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Строка на 1,5 гигабайта](https://habr.com/ru/articles/727854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727854)
+- [Парадокс четырехмерного пространства. Что, зачем и как?](https://habr.com/ru/articles/727856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727856)
 - [Удивительные кубы Хинтона, которые позволяют каждому увидеть четырехмерный мир](https://habr.com/ru/articles/727838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727838)
 - [Какой ты нафиг программист?](https://habr.com/ru/articles/727826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727826)
 - [[Перевод] Создаем клон Instagram при помощи Flutter и Feeds. Часть 1](https://habr.com/ru/articles/727794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727794)
-- [Что нам стоит на Bubble построить &lpar;+ мнение о возможности симбиоза кода и nocode&rpar;](https://habr.com/ru/articles/727810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727810)
-- [Если не использовать «React»](https://habr.com/ru/articles/727798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
