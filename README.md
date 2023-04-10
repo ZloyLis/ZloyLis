@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #483 &lpar;3 — 9 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/727950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727950)
 - [Гайд для новичков по установке Kubernetes](https://habr.com/ru/articles/725640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725640)
 - [Делаем Ambient Light на Raspberry Pico. Контрибьютим в OpenRgb](https://habr.com/ru/articles/727914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727914)
 - [Пишем свой личный Duolingo на минималках](https://habr.com/ru/articles/727900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727900)
 - [Корни RxJava — о чем мы не подозревали](https://habr.com/ru/articles/727892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727892)
-- [Как защищать свои ключи SSH. Почему не сертификаты?](https://habr.com/ru/companies/globalsign/articles/727890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
