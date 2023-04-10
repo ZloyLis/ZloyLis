@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Андрей Карпаты. Software 2.0. Непонятный софт будущего](https://habr.com/ru/companies/ruvds/articles/726740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726740)
+- [Как объяснить детям, что такое DNS, Kafka, Kubernetes, облака](https://habr.com/ru/companies/cloud_mts/articles/727796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727796)
+- [[Перевод] Ускорение работы моделей Stable Diffusion на процессорах Intel](https://habr.com/ru/companies/wunderfund/articles/728030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728030)
+- [Странные языки программирования](https://habr.com/ru/articles/728028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728028)
 - [Гипертекстовое чтиво. Жанр литературы, который предопределил Интернет](https://habr.com/ru/companies/mvideo/articles/728004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728004)
-- [Как управлять инфраструктурой в GitOps с помощью Crossplane](https://habr.com/ru/companies/kts/articles/726026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726026)
-- [JavaScript: два интересных сниппета](https://habr.com/ru/companies/timeweb/articles/725504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725504)
-- [Python Дайджест: как сделать CI для OpenSource проекта с Github Actions](https://habr.com/ru/companies/first/articles/726826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726826)
-- [Материалы python-митапа: Go для питонистов, syslog и контейнерные рантаймы](https://habr.com/ru/companies/yadro/articles/727580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
