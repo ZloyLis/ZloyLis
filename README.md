@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: два интересных сниппета](https://habr.com/ru/companies/timeweb/articles/725504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725504)
+- [Python Дайджест: как сделать CI для OpenSource проекта с Github Actions](https://habr.com/ru/companies/first/articles/726826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726826)
+- [Учитесь, глупцы](https://habr.com/ru/articles/726970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726970)
 - [Какой язык программирования выбрать? Часть 2. Scala](https://habr.com/ru/companies/kryptonite/articles/717150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717150)
 - [Методика портирования пакетов Python в операционную систему «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/726196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726196)
-- [ThreadPool.Intro](https://habr.com/ru/companies/skbkontur/articles/727532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727532)
-- [Компонентный подход. Организуем навигацию с помощью библиотеки Decompose](https://habr.com/ru/articles/727962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727962)
-- [[Перевод] Savant: новый высокопроизводительный фреймворк Python для видеоаналитики на оборудовании Nvidia](https://habr.com/ru/articles/727804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
