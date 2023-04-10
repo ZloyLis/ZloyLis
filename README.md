@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Андрей Карпаты. Software 2.0. Непонятный софт будущего](https://habr.com/ru/companies/ruvds/articles/726740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726740)
+- [Чем занимается Android-разработчик, или Хватит уже спрашивать у них алгоритмы](https://habr.com/ru/companies/yandex_praktikum/articles/726540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726540)
+- [[Перевод] Два типа разработчиков ПО](https://habr.com/ru/articles/728052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728052)
 - [Как объяснить детям, что такое DNS, Kafka, Kubernetes, облака](https://habr.com/ru/companies/cloud_mts/articles/727796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727796)
 - [[Перевод] Ускорение работы моделей Stable Diffusion на процессорах Intel](https://habr.com/ru/companies/wunderfund/articles/728030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728030)
 - [Странные языки программирования](https://habr.com/ru/articles/728028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728028)
-- [Гипертекстовое чтиво. Жанр литературы, который предопределил Интернет](https://habr.com/ru/companies/mvideo/articles/728004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
