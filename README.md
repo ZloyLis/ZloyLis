@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы строим архитектуру микросервисов для мобильного приложения СберБизнес](https://habr.com/ru/companies/sberbank/articles/727312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727312)
 - [Танец со злобным гением, или Как ищут тексты, созданные ИИ](https://habr.com/ru/companies/antiplagiat/articles/728112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728112)
 - [[Перевод] Продвинутый GraphQL со Spring Boot](https://habr.com/ru/articles/720360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720360)
 - [Андрей Карпаты. Software 2.0. Непонятный софт будущего](https://habr.com/ru/companies/ruvds/articles/728056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728056)
 - [Как найти точки роста ИТ, Кросс-функциональных команд и центров компетенций с помощью 270 вопросов?](https://habr.com/ru/articles/724978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724978)
-- [Real-time optimization &lpar;RTO&rpar; — продолжение](https://habr.com/ru/companies/sibur_official/articles/728092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
