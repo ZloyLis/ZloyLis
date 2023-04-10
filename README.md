@@ -38,7 +38,7 @@ ___
 - [Как программный код привел к потерям большого количества денег и даже трагедиям](https://habr.com/ru/articles/728144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728144)
 - [[Перевод] Если вы отказались от регулярных выражений, то теперь у вас три проблемы](https://habr.com/ru/companies/ruvds/articles/728158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728158)
 - [Как мы строим архитектуру микросервисов для мобильного приложения СберБизнес](https://habr.com/ru/companies/sberbank/articles/727312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727312)
-- [Танец со злобным гением, или Как ищут тексты, созданные ИИ](https://habr.com/ru/companies/antiplagiat/articles/728112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728112)
+- [За кулисами интеллекта ChatGPT: рассказ о том, как определяют тексты, созданные ИИ](https://habr.com/ru/companies/antiplagiat/articles/728112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728112)
 - [[Перевод] Продвинутый GraphQL со Spring Boot](https://habr.com/ru/articles/720360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720360)
 <!-- BLOG-POST-LIST:END -->
 
