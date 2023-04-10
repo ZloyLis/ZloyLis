@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гипертекстовое чтиво. Жанр литературы, который предопределил Интернет](https://habr.com/ru/companies/mvideo/articles/728004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728004)
+- [Как управлять инфраструктурой в GitOps с помощью Crossplane](https://habr.com/ru/companies/kts/articles/726026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726026)
 - [JavaScript: два интересных сниппета](https://habr.com/ru/companies/timeweb/articles/725504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725504)
 - [Python Дайджест: как сделать CI для OpenSource проекта с Github Actions](https://habr.com/ru/companies/first/articles/726826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726826)
-- [Учитесь, глупцы](https://habr.com/ru/articles/726970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726970)
-- [Какой язык программирования выбрать? Часть 2. Scala](https://habr.com/ru/companies/kryptonite/articles/717150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717150)
-- [Методика портирования пакетов Python в операционную систему «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/726196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726196)
+- [Материалы python-митапа: Go для питонистов, syslog и контейнерные рантаймы](https://habr.com/ru/companies/yadro/articles/727580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
