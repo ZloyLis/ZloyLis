@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какой язык программирования выбрать? Часть 2. Scala](https://habr.com/ru/companies/kryptonite/articles/717150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=717150)
+- [Методика портирования пакетов Python в операционную систему «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/726196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726196)
+- [ThreadPool.Intro](https://habr.com/ru/companies/skbkontur/articles/727532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727532)
 - [Компонентный подход. Организуем навигацию с помощью библиотеки Decompose](https://habr.com/ru/articles/727962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727962)
 - [[Перевод] Savant: новый высокопроизводительный фреймворк Python для видеоаналитики на оборудовании Nvidia](https://habr.com/ru/articles/727804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727804)
-- [Мобильная разработка за неделю #483 &lpar;3 — 9 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/727950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727950)
-- [Гайд для новичков по установке Kubernetes](https://habr.com/ru/articles/725640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725640)
-- [Делаем Ambient Light на Raspberry Pico. Контрибьютим в OpenRgb](https://habr.com/ru/articles/727914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
