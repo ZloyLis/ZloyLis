@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Танец со злобным гением, или Как ищут тексты, созданные ИИ](https://habr.com/ru/companies/antiplagiat/articles/728112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728112)
+- [[Перевод] Продвинутый GraphQL со Spring Boot](https://habr.com/ru/articles/720360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720360)
 - [Андрей Карпаты. Software 2.0. Непонятный софт будущего](https://habr.com/ru/companies/ruvds/articles/728056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728056)
 - [Как найти точки роста ИТ, Кросс-функциональных команд и центров компетенций с помощью 270 вопросов?](https://habr.com/ru/articles/724978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724978)
 - [Real-time optimization &lpar;RTO&rpar; — продолжение](https://habr.com/ru/companies/sibur_official/articles/728092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728092)
-- [Security Week 2315: многодневный сбой сервисов Western Digital](https://habr.com/ru/companies/kaspersky/articles/727998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727998)
-- [Способы создания авторизации на сайте. Руководство с примерами. Безопасность в браузере](https://habr.com/ru/articles/728072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
