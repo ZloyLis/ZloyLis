@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Производительность и стабильность Knime на слабых компьютерах](https://habr.com/ru/articles/728204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728204)
+- [TypeScript здорового человека, или почему с Enum лучше](https://habr.com/ru/articles/728202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728202)
 - [Mediastreamer2. Применение Lua-машины в фильтрах](https://habr.com/ru/articles/728188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728188)
 - [Как программный код привел к потерям большого количества денег и даже трагедиям](https://habr.com/ru/articles/728144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728144)
 - [[Перевод] Если вы отказались от регулярных выражений, то теперь у вас три проблемы](https://habr.com/ru/companies/ruvds/articles/728158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728158)
-- [Как мы строим архитектуру микросервисов для мобильного приложения СберБизнес](https://habr.com/ru/companies/sberbank/articles/727312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727312)
-- [За кулисами интеллекта ChatGPT: рассказ о том, как определяют тексты, созданные ИИ](https://habr.com/ru/companies/antiplagiat/articles/728112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
