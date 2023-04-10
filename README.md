@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-time optimization &lpar;RTO&rpar; — продолжение](https://habr.com/ru/companies/sibur_official/articles/728092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728092)
+- [Security Week 2315: многодневный сбой сервисов Western Digital](https://habr.com/ru/companies/kaspersky/articles/727998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727998)
+- [Книга «Apache Kafka. Потоковая обработка и анализ данных, 2-е издание»](https://habr.com/ru/companies/piter/articles/728020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728020)
+- [Выступай! Или секреты захватывающей презентации](https://habr.com/ru/articles/728048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728048)
 - [Чем занимается Android-разработчик, или Хватит уже спрашивать у них алгоритмы](https://habr.com/ru/companies/yandex_praktikum/articles/726540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726540)
-- [[Перевод] Два типа разработчиков ПО](https://habr.com/ru/articles/728052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728052)
-- [Как объяснить детям, что такое DNS, Kafka, Kubernetes, облака](https://habr.com/ru/companies/cloud_mts/articles/727796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727796)
-- [[Перевод] Ускорение работы моделей Stable Diffusion на процессорах Intel](https://habr.com/ru/companies/wunderfund/articles/728030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728030)
-- [Странные языки программирования](https://habr.com/ru/articles/728028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
