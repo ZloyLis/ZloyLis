@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дорожная карта навыков разработчика на C++](https://habr.com/ru/specials/726724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726724)
+- [Как мы упростили жизнь высоконагруженным сервисам с Platform V SessionsData. Часть 1](https://habr.com/ru/companies/sberbank/articles/728254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728254)
+- [Добавление файлов контента в nuget-пакетах](https://habr.com/ru/companies/tinkoff/articles/728242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728242)
+- [Как сделать калькулятор заказов на сайт в Excel и превратить его в генератор счетов](https://habr.com/ru/articles/726014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726014)
 - [30 идей по улучшению страницы подтверждения заказа в интернет-магазине](https://habr.com/ru/articles/728238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728238)
-- [Автоматическое построение плоской панорамы](https://habr.com/ru/articles/708986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708986)
-- [[Перевод] Мысли о Zig и Rust](https://habr.com/ru/articles/725630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725630)
-- [Кубернетес и микросервисы. О пользе стандартизации](https://habr.com/ru/articles/728222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728222)
-- [История учебы Васи и конечный автомат на SQL](https://habr.com/ru/articles/728196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
