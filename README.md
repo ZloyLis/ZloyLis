@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отменить нельзя продолжить](https://habr.com/ru/companies/ruvds/articles/725208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725208)
 - [[Перевод] Как неуловимый «эйнштейн» помог решить давнюю математическую задачу](https://habr.com/ru/articles/728344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728344)
 - [[Перевод] 4 мифа о качестве программного обеспечения](https://habr.com/ru/articles/728280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728280)
 - [Custom View в Android — краткое руководство](https://habr.com/ru/articles/727744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727744)
 - [[Перевод] Эксплойтинг браузера Chrome, часть 3: анализ и эксплойт уязвимости CVE-2018-17463](https://habr.com/ru/companies/bastion/articles/716640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716640)
-- [Платформа для организации производства Информационных систем. Часть 1](https://habr.com/ru/articles/728146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
