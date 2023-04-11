@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как получать стипендию Тинькофф, зная лишь ChatGPT?](https://habr.com/ru/articles/728452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728452)
 - [Apple Pro Weekly News &lpar;03.04 – 09.04.23&rpar;](https://habr.com/ru/articles/728428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728428)
 - [Вовлеченность посетителей сайта: на что влияет, как измерить и как повысить — 4 рабочих способа](https://habr.com/ru/articles/728418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728418)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 2&rpar;](https://habr.com/ru/articles/727886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727886)
 - [Релиз Django LTS 4.2: обзор изменений и необходимости обновления](https://habr.com/ru/companies/yandex_praktikum/articles/727626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727626)
-- [GPT-3 нашёл 213 Security Vulnerabilities… Или не нашёл](https://habr.com/ru/companies/pvs-studio/articles/728388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
