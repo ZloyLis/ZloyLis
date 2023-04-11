@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom View в Android — краткое руководство](https://habr.com/ru/articles/727744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727744)
 - [[Перевод] Эксплойтинг браузера Chrome, часть 3: анализ и эксплойт уязвимости CVE-2018-17463](https://habr.com/ru/companies/bastion/articles/716640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716640)
 - [Платформа для организации производства Информационных систем. Часть 1](https://habr.com/ru/articles/728146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728146)
 - [Go, Allure и HTTP, или Как мило тестировать HTTP-сервисы на Go &lpar;часть 2&rpar;](https://habr.com/ru/companies/ozontech/articles/728172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728172)
 - [«Добрый день! Есть вакансия с Вашим стэком. Интересно?» или зачем разработчику общаться с рекрутером](https://habr.com/ru/articles/728274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728274)
-- [IT-сертификация, курсы или высшее образование. Какой вариант лучше и как их комбинировать](https://habr.com/ru/companies/first/articles/728208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
