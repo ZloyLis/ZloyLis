@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кубернетес и микросервисы. О пользе стандартизации](https://habr.com/ru/articles/728222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728222)
+- [История учебы Васи и конечный автомат на SQL](https://habr.com/ru/articles/728196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728196)
 - [Производительность и стабильность Knime на слабых компьютерах](https://habr.com/ru/articles/728204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728204)
 - [TypeScript здорового человека, или почему с Enum лучше](https://habr.com/ru/articles/728202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728202)
 - [Mediastreamer2. Применение Lua-машины в фильтрах](https://habr.com/ru/articles/728188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728188)
-- [Как программный код привел к потерям большого количества денег и даже трагедиям](https://habr.com/ru/articles/728144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728144)
-- [[Перевод] Если вы отказались от регулярных выражений, то теперь у вас три проблемы](https://habr.com/ru/companies/ruvds/articles/728158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
