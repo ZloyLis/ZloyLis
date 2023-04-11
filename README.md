@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [30 идей по улучшению страницы подтверждения заказа в интернет-магазине](https://habr.com/ru/articles/728238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728238)
+- [Автоматическое построение плоской панорамы](https://habr.com/ru/articles/708986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708986)
+- [[Перевод] Мысли о Zig и Rust](https://habr.com/ru/articles/725630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725630)
 - [Кубернетес и микросервисы. О пользе стандартизации](https://habr.com/ru/articles/728222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728222)
 - [История учебы Васи и конечный автомат на SQL](https://habr.com/ru/articles/728196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728196)
-- [Производительность и стабильность Knime на слабых компьютерах](https://habr.com/ru/articles/728204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728204)
-- [TypeScript здорового человека, или почему с Enum лучше](https://habr.com/ru/articles/728202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728202)
-- [Mediastreamer2. Применение Lua-машины в фильтрах](https://habr.com/ru/articles/728188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
