@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История онлайн-видео](https://habr.com/ru/companies/oleg-bunin/articles/728518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728518)
 - [Что выбрать начинающему HTML5-разработчику: сравниваем российские игровые площадки](https://habr.com/ru/articles/727476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727476)
 - [Что бы мне поделать, только бы не сравнивать наблюдаемый аплифт с MDE](https://habr.com/ru/companies/lamoda/articles/728034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728034)
 - [Kubernetes 1.27: обзор нововведений](https://habr.com/ru/companies/flant/articles/728040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728040)
 - [AI, остановись! Может ли искусственный интеллект остановить сам себя?](https://habr.com/ru/companies/smartengines/articles/727670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727670)
-- [Проблема первой линии](https://habr.com/ru/articles/728506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
