@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как выжать 1,5 терафлопса производительности для 32-битных чисел с плавающей точкой на одном процессоре M1](https://habr.com/ru/companies/skillfactory/articles/728458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728458)
 - [Сколько времени нужно на выполнение задачи?](https://habr.com/ru/articles/728652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728652)
 - [Тетрис, разработка игр на SFML C++](https://habr.com/ru/articles/728654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728654)
 - [Вопросы, которые я бы хотел услышать на техническом собеседовании](https://habr.com/ru/articles/728572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728572)
 - [Разбираемся, как углубленно работать с k8s на курсе «Kubernetes: Мега»](https://habr.com/ru/companies/southbridge/articles/728626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728626)
-- [Как в банке внедрить облачные технологии так, чтобы это было удобно, безопасно, быстро и дёшево](https://habr.com/ru/companies/alfa/articles/728232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
