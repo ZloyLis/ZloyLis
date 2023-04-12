@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Суперэллипс — фигура, которую многие видят каждый день, но не догадываются об этом](https://habr.com/ru/articles/728482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728482)
 - [А может споём? Karaoke Eternal + Samba + K3s + MetallB](https://habr.com/ru/articles/728468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728468)
 - [Его Величие Смайлик :-&rpar;](https://habr.com/ru/articles/728466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728466)
 - [Как получать стипендию Тинькофф, зная лишь ChatGPT?](https://habr.com/ru/articles/728452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728452)
 - [Apple Pro Weekly News &lpar;03.04 – 09.04.23&rpar;](https://habr.com/ru/articles/728428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728428)
-- [Вовлеченность посетителей сайта: на что влияет, как измерить и как повысить — 4 рабочих способа](https://habr.com/ru/articles/728418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
