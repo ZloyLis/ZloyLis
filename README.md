@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как в банке внедрить облачные технологии так, чтобы это было удобно, безопасно, быстро и дёшево](https://habr.com/ru/companies/alfa/articles/728232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728232)
+- [Как настроить автомиграцию в Room](https://habr.com/ru/companies/simbirsoft/articles/728492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728492)
+- [Как мы упростили жизнь высоконагруженным сервисам с Platform V SessionsData. Часть 1](https://habr.com/ru/companies/sberbank/articles/728612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728612)
 - [Тонкости настройки Grafana Loki](https://habr.com/ru/companies/kts/articles/723980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723980)
 - [Что умеет Try Catch в ABAP?](https://habr.com/ru/articles/728588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728588)
-- [OpenApiGenerator — или как мы генерируем документацию для 3k сервисов API на PHP без погружения в openapi](https://habr.com/ru/articles/721650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721650)
-- [Платформа для организации производства Информационных систем. Часть 2](https://habr.com/ru/articles/728498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728498)
-- [[Перевод] Алгоритм рекомендаций Twitter: как он работает](https://habr.com/ru/articles/727786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
