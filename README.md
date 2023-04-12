@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI, остановись! Может ли искусственный интеллект остановить сам себя?](https://habr.com/ru/companies/smartengines/articles/727670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727670)
+- [Проблема первой линии](https://habr.com/ru/articles/728506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728506)
+- [[Перевод] Конец тирании Outlook: HTML в почте без таблиц](https://habr.com/ru/articles/728432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728432)
+- [Исследование https-трафика мобильного приложения](https://habr.com/ru/articles/728206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728206)
 - [Суперэллипс — фигура, которую многие видят каждый день, но не догадываются об этом](https://habr.com/ru/articles/728482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728482)
-- [А может споём? Karaoke Eternal + Samba + K3s + MetallB](https://habr.com/ru/articles/728468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728468)
-- [Его Величие Смайлик :-&rpar;](https://habr.com/ru/articles/728466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728466)
-- [Как получать стипендию Тинькофф, зная лишь ChatGPT?](https://habr.com/ru/articles/728452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728452)
-- [Apple Pro Weekly News &lpar;03.04 – 09.04.23&rpar;](https://habr.com/ru/articles/728428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
