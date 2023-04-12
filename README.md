@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тонкости настройки Grafana Loki](https://habr.com/ru/companies/kts/articles/723980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723980)
+- [Что умеет Try Catch в ABAP?](https://habr.com/ru/articles/728588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728588)
 - [OpenApiGenerator — или как мы генерируем документацию для 3k сервисов API на PHP без погружения в openapi](https://habr.com/ru/articles/721650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721650)
 - [Платформа для организации производства Информационных систем. Часть 2](https://habr.com/ru/articles/728498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728498)
 - [[Перевод] Алгоритм рекомендаций Twitter: как он работает](https://habr.com/ru/articles/727786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727786)
-- [mQSL: подтверждение QSO/SWL по E-Mail](https://habr.com/ru/articles/728576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728576)
-- [Ядро планеты Python. Интерактивный учебник](https://habr.com/ru/articles/728568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
