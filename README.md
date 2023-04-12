@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько времени нужно на выполнение задачи?](https://habr.com/ru/articles/728652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728652)
 - [Тетрис, разработка игр на SFML C++](https://habr.com/ru/articles/728654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728654)
 - [Вопросы, которые я бы хотел услышать на техническом собеседовании](https://habr.com/ru/articles/728572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728572)
+- [Разбираемся, как углубленно работать с k8s на курсе «Kubernetes: Мега»](https://habr.com/ru/companies/southbridge/articles/728626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728626)
 - [Как в банке внедрить облачные технологии так, чтобы это было удобно, безопасно, быстро и дёшево](https://habr.com/ru/companies/alfa/articles/728232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728232)
-- [Как настроить автомиграцию в Room](https://habr.com/ru/companies/simbirsoft/articles/728492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728492)
-- [Как мы упростили жизнь высоконагруженным сервисам с Platform V SessionsData. Часть 1](https://habr.com/ru/companies/sberbank/articles/728612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
