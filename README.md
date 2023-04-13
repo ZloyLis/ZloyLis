@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Время переходить на open-source](https://habr.com/ru/companies/lsfusion/articles/707286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707286)
+- [Сам себе экосистема: Как я адаптировал старый смартфон под современные реалии и написал клиенты нужных мне сервисов](https://habr.com/ru/companies/timeweb/articles/726086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726086)
+- [Как научить Наивного Байеса давать персональные рекомендации](https://habr.com/ru/articles/728802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728802)
+- [Язык программирования Vala и где он используется. Создаем простое приложение для прослушивания радио](https://habr.com/ru/companies/first/articles/728594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728594)
 - [Интеграция Yandex MapKit в SwiftUI проект. Часть 1](https://habr.com/ru/articles/728772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728772)
-- [Как мы улучшили самозащиту приложения благодаря KNOX](https://habr.com/ru/companies/kaspersky/articles/728488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728488)
-- [Лучшие практики при работе с мастер-данными](https://habr.com/ru/companies/magnit/articles/728676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728676)
-- [Мифы об универсальном идентификаторе](https://habr.com/ru/articles/726928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726928)
-- [[Перевод] Как выжать 1,5 терафлопса производительности для 32-битных чисел с плавающей точкой на одном процессоре M1](https://habr.com/ru/companies/skillfactory/articles/728458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
