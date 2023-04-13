@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем новее, тем лучше: как мы с GSON на Kotlinx.Serialization переезжали](https://habr.com/ru/companies/tinkoff/articles/728928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728928)
+- [[Перевод] Как взломать Kubernetes &lpar;и как его защитить&rpar;](https://habr.com/ru/companies/southbridge/articles/728936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728936)
 - [[recovery mode] Дом по цифровой вертикали: российское ПО и технологии сформируют единую информационную среду в сфере строительства](https://habr.com/ru/articles/728930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728930)
 - [Как добиться эталонного качества передачи голоса через интернет](https://habr.com/ru/companies/vk/articles/728200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728200)
 - [Как закалялась сталь современной симметричной криптографии. Глава 2. Математическая криптография](https://habr.com/ru/articles/728908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728908)
-- [Java на стероидах, или опыт работы с Jmix](https://habr.com/ru/articles/728896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728896)
-- [[Перевод] «Чистый» код, ужасная производительность](https://habr.com/ru/companies/sportmaster_lab/articles/728880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
