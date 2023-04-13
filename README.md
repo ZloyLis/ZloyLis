@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алерты в микросервисной архитектуре](https://habr.com/ru/companies/garage8/articles/726464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726464)
+- [Как перезапускать упавшие тесты параллельно](https://habr.com/ru/companies/wrike/articles/728826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728826)
+- [Искусственный Художник — Google от мира Text-To-Img](https://habr.com/ru/articles/728736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728736)
+- [Мимо тёщиного дома я без метрик не хожу &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/728456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728456)
 - [Почему системный аналитик не должен заниматься проектированием](https://habr.com/ru/companies/ssp-soft/articles/728758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728758)
-- [Как мы наводили порядок в проекте с помощью принципов чистой архитектуры](https://habr.com/ru/companies/cloud_mts/articles/728642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728642)
-- [Время переходить на open-source](https://habr.com/ru/companies/lsfusion/articles/707286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=707286)
-- [Сам себе экосистема: Как я адаптировал старый смартфон под современные реалии и написал клиенты нужных мне сервисов](https://habr.com/ru/companies/timeweb/articles/726086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726086)
-- [Как научить Наивного Байеса давать персональные рекомендации](https://habr.com/ru/articles/728802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
