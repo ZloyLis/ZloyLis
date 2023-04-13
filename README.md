@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как закалялась сталь современной симметричной криптографии. Глава 2. Математическая криптография](https://habr.com/ru/articles/728908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728908)
+- [Java на стероидах, или опыт работы с Jmix](https://habr.com/ru/articles/728896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728896)
+- [[Перевод] «Чистый» код, ужасная производительность](https://habr.com/ru/companies/sportmaster_lab/articles/728880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728880)
 - [Postgres под капотом. Часть 5. Простой SELECT запрос](https://habr.com/ru/articles/723668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723668)
 - [ChatGPT на Java пишет renamer для файлов](https://habr.com/ru/articles/728868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728868)
-- [Оформление ВКР: что важно помнить студенту?](https://habr.com/ru/companies/ncloudtech/articles/728628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728628)
-- [Алерты в микросервисной архитектуре](https://habr.com/ru/companies/garage8/articles/726464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726464)
-- [Как перезапускать упавшие тесты параллельно](https://habr.com/ru/companies/wrike/articles/728826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
