@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неисправимая ошибка квадратных скобок в хедерах UnityFramework в Xcode](https://habr.com/ru/articles/729002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729002)
 - [Создание и тестирование процессора аннотаций и кодогенератора на KSP](https://habr.com/ru/companies/otus/articles/728938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728938)
 - [Managed Kubernetes the hard way](https://habr.com/ru/articles/727820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727820)
 - [MLS &lpar;Messaging Layer Security&rpar; — единый протокол шифрования для всех приложений](https://habr.com/ru/companies/globalsign/articles/728964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728964)
 - [Чем новее, тем лучше: как мы с GSON на Kotlinx.Serialization переезжали](https://habr.com/ru/companies/tinkoff/articles/728928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728928)
-- [[Перевод] Как взломать Kubernetes &lpar;и как его защитить&rpar;](https://habr.com/ru/companies/southbridge/articles/728936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
