@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция Yandex MapKit в SwiftUI проект. Часть 1](https://habr.com/ru/articles/728772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728772)
 - [Как мы улучшили самозащиту приложения благодаря KNOX](https://habr.com/ru/companies/kaspersky/articles/728488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728488)
 - [Лучшие практики при работе с мастер-данными](https://habr.com/ru/companies/magnit/articles/728676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728676)
 - [Мифы об универсальном идентификаторе](https://habr.com/ru/articles/726928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726928)
 - [[Перевод] Как выжать 1,5 терафлопса производительности для 32-битных чисел с плавающей точкой на одном процессоре M1](https://habr.com/ru/companies/skillfactory/articles/728458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728458)
-- [Сколько времени нужно на выполнение задачи?](https://habr.com/ru/articles/728652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
