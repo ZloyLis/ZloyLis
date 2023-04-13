@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я спросил людей разных профессий о том, что они знают об IT, вот что вышло. Часть 1](https://habr.com/ru/articles/728682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728682)
+- [Как мы улучшили самозащиту приложения благодаря KNOX](https://habr.com/ru/companies/kaspersky/articles/728488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728488)
+- [Лучшие практики при работе с мастер-данными](https://habr.com/ru/companies/magnit/articles/728676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728676)
+- [Мифы об универсальном идентификаторе](https://habr.com/ru/articles/726928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726928)
 - [[Перевод] Как выжать 1,5 терафлопса производительности для 32-битных чисел с плавающей точкой на одном процессоре M1](https://habr.com/ru/companies/skillfactory/articles/728458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728458)
 - [Сколько времени нужно на выполнение задачи?](https://habr.com/ru/articles/728652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728652)
-- [Тетрис, разработка игр на SFML C++](https://habr.com/ru/articles/728654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728654)
-- [Вопросы, которые я бы хотел услышать на техническом собеседовании](https://habr.com/ru/articles/728572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
