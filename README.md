@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres под капотом. Часть 5. Простой SELECT запрос](https://habr.com/ru/articles/723668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723668)
+- [ChatGPT на Java пишет renamer для файлов](https://habr.com/ru/articles/728868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728868)
+- [Оформление ВКР: что важно помнить студенту?](https://habr.com/ru/companies/ncloudtech/articles/728628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728628)
 - [Алерты в микросервисной архитектуре](https://habr.com/ru/companies/garage8/articles/726464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726464)
 - [Как перезапускать упавшие тесты параллельно](https://habr.com/ru/companies/wrike/articles/728826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728826)
-- [Искусственный Художник — Google от мира Text-To-Img](https://habr.com/ru/articles/728736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728736)
-- [Мимо тёщиного дома я без метрик не хожу &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/728456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728456)
-- [Почему системный аналитик не должен заниматься проектированием](https://habr.com/ru/companies/ssp-soft/articles/728758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
