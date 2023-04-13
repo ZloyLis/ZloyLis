@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Дом по цифровой вертикали: российское ПО и технологии сформируют единую информационную среду в сфере строительства](https://habr.com/ru/articles/728930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728930)
+- [Как добиться эталонного качества передачи голоса через интернет](https://habr.com/ru/companies/vk/articles/728200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728200)
 - [Как закалялась сталь современной симметричной криптографии. Глава 2. Математическая криптография](https://habr.com/ru/articles/728908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728908)
 - [Java на стероидах, или опыт работы с Jmix](https://habr.com/ru/articles/728896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728896)
 - [[Перевод] «Чистый» код, ужасная производительность](https://habr.com/ru/companies/sportmaster_lab/articles/728880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728880)
-- [Postgres под капотом. Часть 5. Простой SELECT запрос](https://habr.com/ru/articles/723668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723668)
-- [ChatGPT на Java пишет renamer для файлов](https://habr.com/ru/articles/728868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
