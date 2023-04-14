@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я намайнил первое* в мире биткоин**-стихотворение](https://habr.com/ru/articles/728944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728944)
 - [Работа с размерами изображений с помощью класса Uri в Joomla 4](https://habr.com/ru/articles/729078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729078)
 - [Не всё пропало: как мы провели импортозамещение роботов незаметно для 90% пользователей](https://habr.com/ru/companies/hofftech/articles/728760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728760)
 - [Чистый код, часть 1](https://habr.com/ru/companies/qiwi/articles/726436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726436)
 - [Как «Эффект домино» может помочь развитию продукта](https://habr.com/ru/articles/729108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729108)
-- [Зачем нужны feature-окружения и как с ними работать](https://habr.com/ru/companies/gazprombank/articles/715570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
