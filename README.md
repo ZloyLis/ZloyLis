@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парадокс подарка: что может поведение рабочего коллектива сказать об экономике?](https://habr.com/ru/articles/729230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729230)
+- [[Перевод] Топ-11 ошибок при установке Kubernetes, которые не стоит допускать](https://habr.com/ru/companies/southbridge/articles/729228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729228)
+- [Зачем нам Reactive и как его готовить](https://habr.com/ru/companies/alfa/articles/729020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729020)
 - [Маски ввода номера телефона на Flutter](https://habr.com/ru/articles/729216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729216)
 - [Интерфейс доступный каждому: практические рекомендации](https://habr.com/ru/articles/729208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729208)
-- [Генерируем пифагоровы тройки на RxJS](https://habr.com/ru/articles/729112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729112)
-- [Как заставить Jmeter собирать скриншоты графиков после тестов](https://habr.com/ru/companies/rshb/articles/729196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729196)
-- [Два прихлопа, два притопа: как я делал раннер со звуковым управлением на JS](https://habr.com/ru/companies/leroy_merlin/articles/729098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
