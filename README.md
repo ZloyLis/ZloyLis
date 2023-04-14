@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Два прихлопа, два притопа: как я делал раннер со звуковым управлением на JS](https://habr.com/ru/companies/leroy_merlin/articles/729098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729098)
+- [[recovery mode] Сети и графы](https://habr.com/ru/articles/728546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728546)
+- [Применение low-code платформ в энтерпрайзе](https://habr.com/ru/articles/729188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729188)
 - [[Перевод] Анонимные пространства имен vs. static в пространстве имен](https://habr.com/ru/companies/otus/articles/729144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729144)
 - [История развития мейкерского движения](https://habr.com/ru/companies/vk/articles/729122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729122)
-- [Как я намайнил первое* в мире биткоин**-стихотворение](https://habr.com/ru/articles/728944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728944)
-- [Работа с размерами изображений с помощью класса Uri в Joomla 4](https://habr.com/ru/articles/729078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729078)
-- [Не всё пропало: как мы провели импортозамещение роботов незаметно для 90% пользователей](https://habr.com/ru/companies/hofftech/articles/728760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
