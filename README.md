@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем нужны feature-окружения и как с ними работать](https://habr.com/ru/companies/gazprombank/articles/715570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715570)
+- [Как подключить локализацию L10n c Riverpod без ошибок с HTTP Requests](https://habr.com/ru/articles/729102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729102)
 - [Удивительные клеточные автоматы: вариативные окрестности &lpar;взвешенные, Гаусса, «далёкие углы/стороны»&rpar;](https://habr.com/ru/companies/timeweb/articles/728198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728198)
 - [Storybook: разработка без боли для команды и бизнеса. Возможности и нюансы](https://habr.com/ru/companies/simbirsoft/articles/729066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729066)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 3&rpar;](https://habr.com/ru/articles/728830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728830)
-- [Пришёл и всё оптимизировал: что делают и что умеют системные инженеры](https://habr.com/ru/companies/netologyru/articles/729010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729010)
-- [Как создать множество документов на основе единого шаблона при помощи скрипта внутри гугл таблицы](https://habr.com/ru/articles/728840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
