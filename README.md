@@ -35,7 +35,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Парадокс подарка: что может поведение рабочего коллектива сказать об экономике?](https://habr.com/ru/articles/729230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729230)
+- [Telegram бот на ESP32 для удаленного мониторинга и управления насосной станцией](https://habr.com/ru/articles/729246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729246)
 - [[Перевод] Топ-11 ошибок при установке Kubernetes, которые не стоит допускать](https://habr.com/ru/companies/southbridge/articles/729228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729228)
 - [Зачем нам Reactive и как его готовить](https://habr.com/ru/companies/alfa/articles/729020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729020)
 - [Маски ввода номера телефона на Flutter](https://habr.com/ru/articles/729216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729216)
