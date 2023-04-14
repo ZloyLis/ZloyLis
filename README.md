@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 «Почему» для понимания архитектурных концептов при создании информационных продуктов](https://habr.com/ru/companies/alfastrah/articles/728366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728366)
 - [Telegram бот на ESP32 для удаленного мониторинга и управления насосной станцией](https://habr.com/ru/articles/729246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729246)
 - [[Перевод] Топ-11 ошибок при установке Kubernetes, которые не стоит допускать](https://habr.com/ru/companies/southbridge/articles/729228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729228)
 - [Зачем нам Reactive и как его готовить](https://habr.com/ru/companies/alfa/articles/729020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729020)
 - [Маски ввода номера телефона на Flutter](https://habr.com/ru/articles/729216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729216)
-- [Интерфейс доступный каждому: практические рекомендации](https://habr.com/ru/articles/729208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
