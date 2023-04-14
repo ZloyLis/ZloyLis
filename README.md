@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Маски ввода номера телефона на Flutter](https://habr.com/ru/articles/729216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729216)
+- [Интерфейс доступный каждому: практические рекомендации](https://habr.com/ru/articles/729208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729208)
 - [Генерируем пифагоровы тройки на RxJS](https://habr.com/ru/articles/729112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729112)
 - [Как заставить Jmeter собирать скриншоты графиков после тестов](https://habr.com/ru/companies/rshb/articles/729196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729196)
 - [Два прихлопа, два притопа: как я делал раннер со звуковым управлением на JS](https://habr.com/ru/companies/leroy_merlin/articles/729098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729098)
-- [[recovery mode] Сети и графы](https://habr.com/ru/articles/728546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728546)
-- [Применение low-code платформ в энтерпрайзе](https://habr.com/ru/articles/729188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
