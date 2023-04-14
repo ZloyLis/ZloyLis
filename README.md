@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удивительные клеточные автоматы: вариативные окрестности &lpar;взвешенные, Гаусса, «далёкие углы/стороны»&rpar;](https://habr.com/ru/companies/timeweb/articles/728198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728198)
+- [Storybook: разработка без боли для команды и бизнеса. Возможности и нюансы](https://habr.com/ru/companies/simbirsoft/articles/729066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729066)
+- [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 3&rpar;](https://habr.com/ru/articles/728830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728830)
 - [Пришёл и всё оптимизировал: что делают и что умеют системные инженеры](https://habr.com/ru/companies/netologyru/articles/729010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729010)
 - [Как создать множество документов на основе единого шаблона при помощи скрипта внутри гугл таблицы](https://habr.com/ru/articles/728840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728840)
-- [Регрессионный анализ в DataScience. Часть 3. Аппроксимация](https://habr.com/ru/articles/729048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729048)
-- [Неисправимая ошибка квадратных скобок в хедерах UnityFramework в Xcode](https://habr.com/ru/articles/729002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729002)
-- [Создание и тестирование процессора аннотаций и кодогенератора на KSP](https://habr.com/ru/companies/otus/articles/728938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
