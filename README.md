@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерируем пифагоровы тройки на RxJS](https://habr.com/ru/articles/729112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729112)
+- [Как заставить Jmeter собирать скриншоты графиков после тестов](https://habr.com/ru/companies/rshb/articles/729196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729196)
 - [Два прихлопа, два притопа: как я делал раннер со звуковым управлением на JS](https://habr.com/ru/companies/leroy_merlin/articles/729098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729098)
 - [[recovery mode] Сети и графы](https://habr.com/ru/articles/728546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728546)
 - [Применение low-code платформ в энтерпрайзе](https://habr.com/ru/articles/729188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729188)
-- [[Перевод] Анонимные пространства имен vs. static в пространстве имен](https://habr.com/ru/companies/otus/articles/729144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729144)
-- [История развития мейкерского движения](https://habr.com/ru/companies/vk/articles/729122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
