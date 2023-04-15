@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Миф развенчан: распределённые транзакции можно масштабировать](https://habr.com/ru/articles/729314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729314)
 - [BlackMamba или как ChatGPT пишет вредоносы](https://habr.com/ru/articles/729300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729300)
 - [Добавляем pairwise &lpar;попарное тестирование&rpar; в свой арсенал QA инженера](https://habr.com/ru/articles/729294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729294)
 - [[Перевод] Как в Индиане чуть не узаконили π = 3.2](https://habr.com/ru/articles/729290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729290)
 - [Как IT-специалисты-экологи спасут планету](https://habr.com/ru/articles/729268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729268)
-- [Реализация алгоритма SHA-256](https://habr.com/ru/articles/729260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
