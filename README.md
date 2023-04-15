@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Ближайшие бесплатные мероприятия по разработке](https://habr.com/ru/articles/729282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729282)
-- [[Перевод] Написание клона Instagram на Flutter](https://habr.com/ru/articles/726940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726940)
 - [Как IT-специалисты-экологи спасут планету](https://habr.com/ru/articles/729268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729268)
 - [Реализация алгоритма SHA-256](https://habr.com/ru/articles/729260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729260)
 - [REST API Firebase или как не заморачиваться с сервером для пет-проекта](https://habr.com/ru/articles/729252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729252)
+- [Мир математики глазами AI](https://habr.com/ru/articles/729226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
