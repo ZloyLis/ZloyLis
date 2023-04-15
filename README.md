@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Написание клона Instagram на Flutter](https://habr.com/ru/articles/726940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726940)
+- [Как IT-специалисты-экологи спасут планету](https://habr.com/ru/articles/729268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729268)
 - [Реализация алгоритма SHA-256](https://habr.com/ru/articles/729260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729260)
 - [REST API Firebase или как не заморачиваться с сервером для пет-проекта](https://habr.com/ru/articles/729252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729252)
 - [Мир математики глазами AI](https://habr.com/ru/articles/729226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729226)
-- [5 «Почему» для понимания архитектурных концептов при создании информационных продуктов](https://habr.com/ru/companies/alfastrah/articles/728366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728366)
-- [Telegram бот на ESP32 для удаленного мониторинга и управления насосной станцией](https://habr.com/ru/articles/729246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
