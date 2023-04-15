@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Добавляем pairwise &lpar;попарное тестирование&rpar; в свой арсенал QA инженера](https://habr.com/ru/articles/729294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729294)
 - [[Перевод] Как в Индиане чуть не узаконили π = 3.2](https://habr.com/ru/articles/729290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729290)
-- [Ближайшие бесплатные мероприятия по разработке](https://habr.com/ru/articles/729282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729282)
 - [Как IT-специалисты-экологи спасут планету](https://habr.com/ru/articles/729268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729268)
 - [Реализация алгоритма SHA-256](https://habr.com/ru/articles/729260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729260)
+- [REST API Firebase или как не заморачиваться с сервером для пет-проекта](https://habr.com/ru/articles/729252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
