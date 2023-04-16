@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь во фронтэнд 2023: проблемы и ловушки](https://habr.com/ru/articles/729352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729352)
 - [Tree Oriented Programming](https://habr.com/ru/articles/729344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729344)
 - [Ни одно задание не будет провалено: Spring Boot и Quartz в режиме cluster](https://habr.com/ru/articles/729332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729332)
 - [[Перевод] Миф развенчан: распределённые транзакции можно масштабировать](https://habr.com/ru/articles/729314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729314)
 - [BlackMamba или как ChatGPT пишет вредоносы](https://habr.com/ru/articles/729300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729300)
-- [Добавляем pairwise &lpar;попарное тестирование&rpar; в свой арсенал QA инженера](https://habr.com/ru/articles/729294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
