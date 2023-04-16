@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Blueprint: удобный инструмент для создания UI на Gtk4](https://habr.com/ru/articles/729084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729084)
 - [Как мы написали курс планиметрии](https://habr.com/ru/articles/729368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729368)
 - [Оптимизация бэкенда приложения с примерами на Symfony. Часть 1](https://habr.com/ru/articles/729360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729360)
 - [Полное и безупречное​ доказательство того, что π = 4, составленное потомственнымъ изобрѣтателемъ Ѳомой Пустобрехомъ](https://habr.com/ru/articles/729326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729326)
 - [Путь во фронтэнд 2023: проблемы и ловушки](https://habr.com/ru/articles/729352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729352)
-- [Tree Oriented Programming](https://habr.com/ru/articles/729344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
