@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чего боятся разработчики при внедрении коммуникационных API](https://habr.com/ru/companies/ru_mts/articles/729404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729404)
+- [Клонирование объектов JS](https://habr.com/ru/companies/usetech/articles/729434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729434)
 - [Мобильная разработка за неделю #484 &lpar;10 — 16 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/729424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729424)
 - [Разработка .NET Web приложения на Yandex Cloud Functions](https://habr.com/ru/articles/729406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729406)
 - [Blueprint: удобный инструмент для создания UI на Gtk4](https://habr.com/ru/articles/729084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729084)
-- [Как мы написали курс планиметрии](https://habr.com/ru/articles/729368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729368)
-- [Оптимизация бэкенда приложения с примерами на Symfony. Часть 1](https://habr.com/ru/articles/729360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
