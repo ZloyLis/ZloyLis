@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как багхантеру искать XSS-уязвимости через наложение парсеров: исследование Positive Technologies](https://habr.com/ru/companies/pt/articles/729134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729134)
 - [[recovery mode] Как настроить шлагбаум с помощью мобильного приложения](https://habr.com/ru/companies/perco/articles/729500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729500)
 - [ChatGPT — лучший помощник программиста. Примеры реальных задач. Плагины и инструменты](https://habr.com/ru/companies/ruvds/articles/728512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728512)
 - [[Перевод] Совместное использование контента в SwiftUI](https://habr.com/ru/articles/728018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728018)
 - [Middle или Senior: какой ваш уровень в аналитике?](https://habr.com/ru/companies/avito/articles/729222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729222)
-- [Доверенные микросхемы и аппаратура: «Сколько вешать в граммах ?»](https://habr.com/ru/articles/729470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
