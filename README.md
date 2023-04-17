@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Middle или Senior: какой ваш уровень в аналитике?](https://habr.com/ru/companies/avito/articles/729222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729222)
+- [[Перевод] Как запустить кластер kubernetes с k3s](https://habr.com/ru/companies/southbridge/articles/729480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729480)
+- [Доверенные микросхемы и аппаратура: «Сколько вешать в граммах ?»](https://habr.com/ru/articles/729470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729470)
 - [6 перспективных российских стартапов за март 2023 года](https://habr.com/ru/articles/728320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728320)
 - [Чего боятся разработчики при внедрении коммуникационных API](https://habr.com/ru/companies/ru_mts/articles/729404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729404)
-- [Клонирование объектов JS](https://habr.com/ru/companies/usetech/articles/729434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729434)
-- [Мобильная разработка за неделю #484 &lpar;10 — 16 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/729424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729424)
-- [Разработка .NET Web приложения на Yandex Cloud Functions](https://habr.com/ru/articles/729406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
