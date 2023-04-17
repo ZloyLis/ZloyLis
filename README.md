@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Как настроить шлагбаум с помощью мобильного приложения](https://habr.com/ru/companies/perco/articles/729500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729500)
+- [ChatGPT — лучший помощник программиста. Примеры реальных задач. Плагины и инструменты](https://habr.com/ru/companies/ruvds/articles/728512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728512)
+- [[Перевод] Совместное использование контента в SwiftUI](https://habr.com/ru/articles/728018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728018)
 - [Middle или Senior: какой ваш уровень в аналитике?](https://habr.com/ru/companies/avito/articles/729222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729222)
-- [[Перевод] Как запустить кластер kubernetes с k3s](https://habr.com/ru/companies/southbridge/articles/729480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729480)
 - [Доверенные микросхемы и аппаратура: «Сколько вешать в граммах ?»](https://habr.com/ru/articles/729470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729470)
-- [6 перспективных российских стартапов за март 2023 года](https://habr.com/ru/articles/728320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728320)
-- [Чего боятся разработчики при внедрении коммуникационных API](https://habr.com/ru/companies/ru_mts/articles/729404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
