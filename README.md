@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Схема кампуса в Android приложении](https://habr.com/ru/articles/729650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729650)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 4&rpar;](https://habr.com/ru/articles/729296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729296)
-- [Как приготовить формулу Стирилинга](https://habr.com/ru/articles/729626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729626)
+- [Как приготовить формулу Стирлинга](https://habr.com/ru/articles/729626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729626)
 - [Apple Pro Weekly News &lpar;10.04 – 16.04.23&rpar;](https://habr.com/ru/articles/729628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729628)
 - [[Перевод] Миллиарды сообщений в минуту по протоколу TCP/IP](https://habr.com/ru/articles/724942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724942)
 <!-- BLOG-POST-LIST:END -->
