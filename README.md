@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 4&rpar;](https://habr.com/ru/articles/729296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729296)
 - [Как приготовить формулу Стирилинга](https://habr.com/ru/articles/729626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729626)
 - [Apple Pro Weekly News &lpar;10.04 – 16.04.23&rpar;](https://habr.com/ru/articles/729628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729628)
 - [[Перевод] Миллиарды сообщений в минуту по протоколу TCP/IP](https://habr.com/ru/articles/724942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724942)
 - [Супергерой или миф: как возникло понятие 10х-программист и что за ним стоит](https://habr.com/ru/articles/729600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729600)
-- [Паттерны и практики написания кода: новый сезон](https://habr.com/ru/companies/avito/articles/729590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
