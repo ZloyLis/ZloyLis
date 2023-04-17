@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Миллиарды сообщений в минуту по протоколу TCP/IP](https://habr.com/ru/articles/724942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724942)
+- [Супергерой или миф: как возникло понятие 10х-программист и что за ним стоит](https://habr.com/ru/articles/729600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729600)
 - [Паттерны и практики написания кода: новый сезон](https://habr.com/ru/companies/avito/articles/729590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729590)
 - [Security Week 2316: уязвимость zero-day в Microsoft Windows](https://habr.com/ru/companies/kaspersky/articles/729508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729508)
 - [До того, как это стало стримом](https://habr.com/ru/companies/cleverpumpkin/articles/729548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729548)
-- [Как рассчитать рекламный бюджет](https://habr.com/ru/articles/729544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729544)
-- [Как багхантеру искать XSS-уязвимости через наложение парсеров: исследование Positive Technologies](https://habr.com/ru/companies/oleg-bunin/articles/729134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
