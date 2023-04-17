@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [До того, как это стало стримом](https://habr.com/ru/companies/cleverpumpkin/articles/729548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729548)
 - [Как рассчитать рекламный бюджет](https://habr.com/ru/articles/729544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729544)
 - [Как багхантеру искать XSS-уязвимости через наложение парсеров: исследование Positive Technologies](https://habr.com/ru/companies/oleg-bunin/articles/729134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729134)
 - [ChatGPT — лучший помощник программиста. Примеры реальных задач. Плагины и инструменты](https://habr.com/ru/companies/ruvds/articles/728512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728512)
 - [[Перевод] Совместное использование контента в SwiftUI](https://habr.com/ru/articles/728018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728018)
-- [Middle или Senior: какой ваш уровень в аналитике?](https://habr.com/ru/companies/avito/articles/729222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
