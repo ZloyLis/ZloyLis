@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кастомные хуки в React: лучшие практики, пример использования и покрытия тестами](https://habr.com/ru/companies/otus/articles/729596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729596)
+- [Как мы учили Почту события в календарь добавлять. Часть 1](https://habr.com/ru/companies/vk/articles/729126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729126)
+- [[Перевод] Разнообразие enum в Kotlin](https://habr.com/ru/articles/729824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729824)
+- [Наблюдение за температурой: введение в холодные и горячие Observable в rxjs](https://habr.com/ru/companies/tinkoff/articles/729808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729808)
 - [[Перевод] Практические советы по написанию чистого кода для автоматизации тестирования](https://habr.com/ru/articles/729390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729390)
-- [Подлые конкуренты, вымогатели и двойные агенты: как мы боролись с хакерскими атаками на клиентов](https://habr.com/ru/articles/729810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729810)
-- [Vivaldi 6.0 для Android — Мобильный мультитул](https://habr.com/ru/companies/vivaldi/articles/729684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729684)
-- [Secure by Design: с чего начинается безопасность продукта](https://habr.com/ru/companies/vk/articles/729516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729516)
-- [Клиент-серверное и межсервисное взаимодействие: разбираемся в REST, GraphQL, RPC и WebSocket](https://habr.com/ru/articles/729528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
