@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация настройки Webpack проекта на CRA](https://habr.com/ru/articles/729714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729714)
+- [Философские вопросы интернационализации веб-приложений](https://habr.com/ru/articles/729542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729542)
 - [Роль UX/UI-дизайна в процессах автоматизации бизнеса на примере оформления ипотеки](https://habr.com/ru/articles/729688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729688)
 - [Схема кампуса в Android приложении](https://habr.com/ru/articles/729650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729650)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 4&rpar;](https://habr.com/ru/articles/729296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729296)
-- [Как приготовить формулу Стирлинга](https://habr.com/ru/articles/729626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729626)
-- [Apple Pro Weekly News &lpar;10.04 – 16.04.23&rpar;](https://habr.com/ru/articles/729628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
