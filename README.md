@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure by Design: с чего начинается безопасность продукта](https://habr.com/ru/companies/vk/articles/729516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729516)
 - [Голь на выдумки хитра или как сэкономить более 200 тыс.руб на изготовлении собственого оборудования](https://habr.com/ru/companies/timeweb/articles/728684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728684)
+- [Клиент-серверное и межсервисное взаимодействие: разбираемся в REST, GraphQL, RPC и WebSocket](https://habr.com/ru/articles/729528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729528)
 - [«Прозрачный промоушн выгоден и разработчику, и его тимлиду». Нюансы карьеры разработчика на С++](https://habr.com/ru/companies/kaspersky/articles/729620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729620)
 - [Приложение для инженеров на Flutter](https://habr.com/ru/articles/728782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728782)
-- [Оптимизация настройки Webpack проекта на CRA](https://habr.com/ru/articles/729714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729714)
-- [Философские вопросы интернационализации веб-приложений](https://habr.com/ru/articles/729542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
