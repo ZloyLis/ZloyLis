@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создай своего ИИ-ассистента с помощью Streamlit](https://habr.com/ru/companies/ods/articles/729662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729662)
 - [Книга «Паттерны проектирования API»](https://habr.com/ru/companies/piter/articles/729874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729874)
 - [О, «Герои»? Дайте две! Как я писал очередной браузерный клон легендарной стратегии, в который уже почти* можно играть](https://habr.com/ru/companies/soletude/articles/719280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719280)
 - [Страшно ли делать плохо? Прожарка твоего кода онлайн, без купюр](https://habr.com/ru/companies/ozontech/articles/729762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729762)
 - [Макросы в «МойОфис»: Расширяя возможности](https://habr.com/ru/articles/729860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729860)
-- [Библиотека разработчика микросервисов. Полезные книги на русском языке](https://habr.com/ru/companies/skillbox/articles/729854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
