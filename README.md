@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Принцип определения дальности между радио трансиверами &lpar;Конечный автомат для DS TWR&rpar;](https://habr.com/ru/articles/723822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723822)
 - [Асинхронная интеграция. Что это такое и как её дружить](https://habr.com/ru/companies/itq_group/articles/729948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729948)
 - [Создай своего ИИ-ассистента с помощью Streamlit](https://habr.com/ru/companies/ods/articles/729662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729662)
 - [Книга «Паттерны проектирования API»](https://habr.com/ru/companies/piter/articles/729874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729874)
 - [О, «Герои»? Дайте две! Как я писал очередной браузерный клон легендарной стратегии, в который уже почти* можно играть](https://habr.com/ru/companies/soletude/articles/719280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719280)
-- [Страшно ли делать плохо? Прожарка твоего кода онлайн, без купюр](https://habr.com/ru/companies/ozontech/articles/729762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
