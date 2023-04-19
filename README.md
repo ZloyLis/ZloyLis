@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерфейс дерева комментариев. Сравниваем Хабр и клиенты Reddit; переделываем Хабр](https://habr.com/ru/articles/730172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730172)
 - [Создаем eval через байт-код JVM](https://habr.com/ru/companies/otus/articles/730160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730160)
 - [Ultron — самый простой фреймворк для разработки UI тестов Android](https://habr.com/ru/articles/730144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730144)
 - [Простое должно быть простым: враги импорта](https://habr.com/ru/articles/730132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730132)
 - [[Перевод] Реверс-инжиниринг британских билетов на поезд](https://habr.com/ru/companies/ruvds/articles/730122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730122)
-- [Как подключить платежную систему с Payments к Telegram](https://habr.com/ru/companies/selectel/articles/729856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
