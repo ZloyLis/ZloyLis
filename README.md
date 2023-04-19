@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultron — самый простой фреймворк для разработки UI тестов Android](https://habr.com/ru/articles/730144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730144)
 - [Простое должно быть простым: враги импорта](https://habr.com/ru/articles/730132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730132)
 - [[Перевод] Реверс-инжиниринг британских билетов на поезд](https://habr.com/ru/companies/ruvds/articles/730122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730122)
 - [Интервью с сооснователем Coffee&amp;amp;Code Владиславом Мокровым: зачем программисту комьюнити?](https://habr.com/ru/companies/pvs-studio/articles/730114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730114)
 - [[Перевод] Создаем клон Instagram при помощи Flutter и Feeds. Часть 2](https://habr.com/ru/articles/730104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730104)
-- [Ускоряем дебаг в разы. Зачем и как использовать брейкпоинты](https://habr.com/ru/companies/agima/articles/730008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
