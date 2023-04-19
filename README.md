@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теорема Байеса — в поисках золота &lpar;Урок 0 и 1&rpar;](https://habr.com/ru/articles/729992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729992)
+- [Строим культуру офбординга в команде](https://habr.com/ru/companies/vk/articles/729990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729990)
+- [Личный опыт: как &lpar;и зачем&rpar; прокачивать навыки опытным разработчикам](https://habr.com/ru/companies/yandex_praktikum/articles/729618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729618)
 - [«Программирование — вторая грамотность». К 92-летию со дня рождения ученого-программиста Андрея Петровича Ершова](https://habr.com/ru/companies/timeweb/articles/729960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729960)
 - [Принцип Определения Дальности Между UWB Трансиверами &lpar;Конечный Автомат для DS-TWR&rpar;](https://habr.com/ru/articles/723822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723822)
-- [Асинхронная интеграция. Что это такое и как её дружить](https://habr.com/ru/companies/itq_group/articles/729948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729948)
-- [Создай своего ИИ-ассистента с помощью ChatGPT и Streamlit](https://habr.com/ru/companies/ods/articles/729662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729662)
-- [Книга «Паттерны проектирования API»](https://habr.com/ru/companies/piter/articles/729874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
