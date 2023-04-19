@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем дебаг в разы. Зачем и как использовать брейкпоинты](https://habr.com/ru/companies/agima/articles/730008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730008)
 - [Почему так удобно использовать паттерн MVI в KMM](https://habr.com/ru/companies/kts/articles/729832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729832)
 - [Кормушка для собак с интеграцией Bitcoin и Lightning Network](https://habr.com/ru/articles/730058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730058)
 - [Строим культуру офбординга в команде](https://habr.com/ru/companies/vk/articles/729990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729990)
 - [Личный опыт: как &lpar;и зачем&rpar; прокачивать навыки опытным разработчикам](https://habr.com/ru/companies/yandex_praktikum/articles/729618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729618)
-- [«Программирование — вторая грамотность». К 92-летию со дня рождения ученого-программиста Андрея Петровича Ершова](https://habr.com/ru/companies/timeweb/articles/729960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
