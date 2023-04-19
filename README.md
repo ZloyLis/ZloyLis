@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Программирование — вторая грамотность». К 92-летию со дня рождения ученого-программиста Андрея Петровича Ершова](https://habr.com/ru/companies/timeweb/articles/729960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729960)
 - [Принцип Определения Дальности Между UWB Трансиверами &lpar;Конечный Автомат для DS-TWR&rpar;](https://habr.com/ru/articles/723822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723822)
 - [Асинхронная интеграция. Что это такое и как её дружить](https://habr.com/ru/companies/itq_group/articles/729948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729948)
 - [Создай своего ИИ-ассистента с помощью ChatGPT и Streamlit](https://habr.com/ru/companies/ods/articles/729662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729662)
 - [Книга «Паттерны проектирования API»](https://habr.com/ru/companies/piter/articles/729874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729874)
-- [О, «Герои»? Дайте две! Как я писал очередной браузерный клон легендарной стратегии, в который уже почти* можно играть](https://habr.com/ru/companies/soletude/articles/719280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
