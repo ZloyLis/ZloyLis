@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Московский политех не слышал про конфиденциальность](https://habr.com/ru/articles/730236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730236)
+- [Регулярные выражения для JS &lpar;TS&rpar; juniors](https://habr.com/ru/articles/730242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730242)
 - [Как живут системные аналитики в Тинькофф](https://habr.com/ru/companies/tinkoff/articles/730024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730024)
 - [SingleRecyclerAdapter плюс ViewBindingили зачем я написал библиотеку для списков](https://habr.com/ru/articles/730218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730218)
 - [Интерфейс дерева комментариев. Сравниваем Хабр и клиенты Reddit; переделываем Хабр](https://habr.com/ru/articles/730172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730172)
-- [Создаем eval через байт-код JVM](https://habr.com/ru/companies/otus/articles/730160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730160)
-- [Ultron — самый простой фреймворк для разработки UI тестов Android](https://habr.com/ru/articles/730144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
