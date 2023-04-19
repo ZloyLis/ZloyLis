@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простое должно быть простым: враги импорта](https://habr.com/ru/articles/730132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730132)
+- [[Перевод] Реверс-инжиниринг британских билетов на поезд](https://habr.com/ru/companies/ruvds/articles/730122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730122)
+- [Интервью с сооснователем Coffee&amp;amp;Code Владиславом Мокровым: зачем программисту комьюнити?](https://habr.com/ru/companies/pvs-studio/articles/730114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730114)
 - [[Перевод] Создаем клон Instagram при помощи Flutter и Feeds. Часть 2](https://habr.com/ru/articles/730104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730104)
 - [Ускоряем дебаг в разы. Зачем и как использовать брейкпоинты](https://habr.com/ru/companies/agima/articles/730008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730008)
-- [Обзор мобильного приложения Carbonio Files](https://habr.com/ru/companies/Zextras/articles/730044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730044)
-- [Почему так удобно использовать паттерн MVI в KMM](https://habr.com/ru/companies/kts/articles/729832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729832)
-- [Кормушка для собак с интеграцией Bitcoin и Lightning Network](https://habr.com/ru/articles/730058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
