@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работает PGO-оптимизация в Go «на пальцах»](https://habr.com/ru/companies/yandex_praktikum/articles/729570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729570)
+- [Написали UI для чата поддержки с помощью Jetpack Compose: как это было](https://habr.com/ru/articles/730368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730368)
+- [API vs Web Services. Who is who?](https://habr.com/ru/articles/730364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730364)
 - [Как мы стриминг пилили, или 5 неочевидных палок в колеса от Flutter](https://habr.com/ru/companies/surfstudio/articles/730340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730340)
-- [Стандарты безопасности в Kubernetes &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/730158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730158)
-- [В какой сказке встречаются Баба Яга и Колобок или сказ о том как мы таск-трекер писали, часть вторая](https://habr.com/ru/companies/rostelecom/articles/721876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721876)
-- [Этот смартфон должны были выдавать выпускникам курсов JavaScript — смотрим на Alcatel Fire E на базе FireFox OS](https://habr.com/ru/companies/timeweb/articles/729534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729534)
-- [Как хранить данные в iOS: UserDefaults, Keychain и сэндвичи](https://habr.com/ru/companies/redmadrobot/articles/730316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730316)
+- [Стандарты безопасности в Kubernetes &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/vk/articles/730158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
