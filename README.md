@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы стриминг пилили, или 5 неочевидных палок в колеса от Flutter](https://habr.com/ru/companies/surfstudio/articles/730340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730340)
+- [Стандарты безопасности в Kubernetes &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/730158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730158)
 - [В какой сказке встречаются Баба Яга и Колобок или сказ о том как мы таск-трекер писали, часть вторая](https://habr.com/ru/companies/rostelecom/articles/721876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721876)
 - [Этот смартфон должны были выдавать выпускникам курсов JavaScript — смотрим на Alcatel Fire E на базе FireFox OS](https://habr.com/ru/companies/timeweb/articles/729534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729534)
 - [Как хранить данные в iOS: UserDefaults, Keychain и сэндвичи](https://habr.com/ru/companies/redmadrobot/articles/730316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730316)
-- [Московский политех не слышал про конфиденциальность](https://habr.com/ru/articles/730236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730236)
-- [Регулярные выражения для JS &lpar;TS&rpar; juniors](https://habr.com/ru/articles/730242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
