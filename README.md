@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Простая очередь задач в Django, подключение Kandinsky 2.1](https://habr.com/ru/articles/730238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730238)
 - [Московский политех не слышал про конфиденциальность](https://habr.com/ru/articles/730236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730236)
 - [Регулярные выражения для JS &lpar;TS&rpar; juniors](https://habr.com/ru/articles/730242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730242)
 - [Как живут системные аналитики в Тинькофф](https://habr.com/ru/companies/tinkoff/articles/730024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730024)
-- [SingleRecyclerAdapter плюс ViewBindingили зачем я написал библиотеку для списков](https://habr.com/ru/articles/730218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730218)
+- [SingleRecyclerAdapter плюс ViewBinding или зачем я написал библиотеку для списков](https://habr.com/ru/articles/730218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730218)
+- [Интерфейс дерева комментариев. Сравниваем Хабр и клиенты Reddit; переделываем Хабр](https://habr.com/ru/articles/730172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
