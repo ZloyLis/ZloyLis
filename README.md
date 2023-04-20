@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микрофронтенды — универсальное решение всех проблем или просто удобный подход?](https://habr.com/ru/companies/vk/articles/730504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730504)
+- [Как придумал себе &lpar;проблему&rpar; задачу и вспомнил школьный курс алгебры](https://habr.com/ru/articles/730508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730508)
 - [Беда “войти в айти” или курсы тестировщика отзывы: Спустя 1.5 года исследования QA-курсов](https://habr.com/ru/articles/730366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730366)
 - [[Перевод] Рекомендации по архитектуре программного обеспечения](https://habr.com/ru/companies/piter/articles/730466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730466)
 - [Будущее ретро: Samsung Galaxy Fold](https://habr.com/ru/companies/kaspersky/articles/730456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730456)
-- [Fx — мощная JavaScript альтернатива jq для JSON](https://habr.com/ru/articles/730442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730442)
-- [«Дамбфоны» в 2023 году: что и почему выбирают любители ретрозвонилок](https://habr.com/ru/companies/sberbank/articles/730430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
