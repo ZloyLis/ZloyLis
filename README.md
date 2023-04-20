@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как работает PGO-оптимизация в Go «на пальцах»](https://habr.com/ru/companies/yandex_praktikum/articles/729570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729570)
-- [Написали UI для чата поддержки с помощью Jetpack Compose: как это было](https://habr.com/ru/articles/730368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730368)
-- [API vs Web Services. Who is who?](https://habr.com/ru/articles/730364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730364)
-- [Как мы стриминг пилили, или 5 неочевидных палок в колеса от Flutter](https://habr.com/ru/companies/surfstudio/articles/730340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730340)
-- [Стандарты безопасности в Kubernetes &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/vk/articles/730158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730158)
+- [API FIRST — что это поменяло](https://habr.com/ru/companies/T1Holding/articles/730404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730404)
+- [Kubernetes-валидаторы и где они обитают](https://habr.com/ru/companies/simbirsoft/articles/730318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730318)
+- [Будущее уже тут: баг репорт от ChatGPT](https://habr.com/ru/articles/730390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730390)
+- [Продакт, не копайся в метриках — апгрейдь технологии, метрики сами вырастут](https://habr.com/ru/companies/alfa/articles/728892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728892)
+- [[Перевод] Потоковый проект в режиме реального времени с использованием данных смартфона](https://habr.com/ru/companies/southbridge/articles/730380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
