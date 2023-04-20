@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Беда “войти в айти” или курсы тестировщика отзывы: Спустя 1.5 года исследования QA-курсов](https://habr.com/ru/articles/730366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730366)
+- [[Перевод] Рекомендации по архитектуре программного обеспечения](https://habr.com/ru/companies/piter/articles/730466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730466)
 - [Будущее ретро: Samsung Galaxy Fold](https://habr.com/ru/companies/kaspersky/articles/730456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730456)
 - [Fx — мощная JavaScript альтернатива jq для JSON](https://habr.com/ru/articles/730442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730442)
 - [«Дамбфоны» в 2023 году: что и почему выбирают любители ретрозвонилок](https://habr.com/ru/companies/sberbank/articles/730430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730430)
-- [API FIRST — что это поменяло](https://habr.com/ru/companies/T1Holding/articles/730404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730404)
-- [Kubernetes-валидаторы и где они обитают](https://habr.com/ru/companies/simbirsoft/articles/730318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
