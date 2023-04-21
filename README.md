@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] DoccGPT: cамодокументируемый код на Swift с помощью GPT и DocC](https://habr.com/ru/articles/728016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728016)
+- [[Перевод] GraphQL: от восторга до разочарования](https://habr.com/ru/articles/728476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728476)
+- [[Перевод] Low-code инструменты для разработки ПО — сплошной обман](https://habr.com/ru/companies/productivity_inside/articles/730662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730662)
 - [Эволюция графической подсистемы в отечественной ОС «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/726418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726418)
 - [Мобильная разработка: дайджест новостей от RuStore](https://habr.com/ru/companies/vk/articles/730586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730586)
-- [Вам шашечки или ехать: как написать подробную документацию и не потратить на нее все ресурсы проекта](https://habr.com/ru/companies/kts/articles/730418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730418)
-- [[Перевод] Rust 1.69](https://habr.com/ru/articles/730610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730610)
-- [[Перевод] Пишем на Go как в Google. Лучшие практики — часть первая](https://habr.com/ru/companies/skillfactory/articles/729924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
