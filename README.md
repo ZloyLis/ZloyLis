@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация тестов на основе трассировки для высоконагруженных систем](https://habr.com/ru/companies/otus/articles/730816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730816)
 - [О чём расскажут на C++ Russia 2023 в онлайне и офлайне](https://habr.com/ru/companies/jugru/articles/729958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729958)
 - [Требования к графическим интерфейсам: одна памятка ответит на все ваши вопросы](https://habr.com/ru/companies/rtlabs/articles/730806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730806)
 - [ClickHouse: как мы уменьшили потребление памяти в 50 раз](https://habr.com/ru/companies/neoflex/articles/730758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730758)
 - [[Перевод] Основные принципы маскирования в CSS](https://habr.com/ru/companies/ruvds/articles/729974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729974)
-- [[Перевод] Отладка C при помощи пакета Cosmopolitan Libc](https://habr.com/ru/companies/piter/articles/730746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
