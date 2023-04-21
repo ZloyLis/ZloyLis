@@ -39,7 +39,7 @@ ___
 - [[Перевод] Пишем на Go как в Google. Лучшие практики — часть первая](https://habr.com/ru/companies/skillfactory/articles/729924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729924)
 - [Kafka Client для фреймворка Ktor](https://habr.com/ru/articles/730594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730594)
 - [Открытое бесплатное chrome расширение для изучающих японский язык &lpar;OCR + translation + annotation&rpar;](https://habr.com/ru/articles/730566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730566)
-- [Микрофронтенды — универсальное решение всех проблем или просто удобный подход?](https://habr.com/ru/companies/vk/articles/730504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730504)
+- [Генерация сайтов с помощью AI](https://habr.com/ru/articles/730556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
