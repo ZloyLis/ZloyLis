@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запускаем Android Emulator на процессорах AMD под управлением Windows 10/11 Home](https://habr.com/ru/articles/730702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730702)
+- [Как сделать внешнюю обводку у полигона](https://habr.com/ru/articles/730696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730696)
+- [Создаем свой собственный язык программирования с использованием LLVM. Часть 5: Поддержка классов и перегрузки функций](https://habr.com/ru/articles/730686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730686)
+- [Берём Glance Widgets под контроль](https://habr.com/ru/articles/730678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730678)
 - [[Перевод] DoccGPT: cамодокументируемый код на Swift с помощью GPT и DocC](https://habr.com/ru/articles/728016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728016)
-- [[Перевод] GraphQL: от восторга до разочарования](https://habr.com/ru/articles/728476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728476)
-- [[Перевод] Low-code инструменты для разработки ПО — сплошной обман](https://habr.com/ru/companies/productivity_inside/articles/730662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730662)
-- [Эволюция графической подсистемы в отечественной ОС «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/726418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726418)
-- [Мобильная разработка: дайджест новостей от RuStore](https://habr.com/ru/companies/vk/articles/730586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
