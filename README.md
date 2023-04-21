@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Отладка C при помощи пакета Cosmopolitan Libc](https://habr.com/ru/companies/piter/articles/730746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730746)
+- [Храним секреты своих проектов в Yandex Lockbox и используем их за пределами Yandex Cloud](https://habr.com/ru/articles/730750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730750)
+- [[Перевод] Реализация gRPC с помощью Java и Spring Boot](https://habr.com/ru/companies/otus/articles/730740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730740)
+- [Самостоятельное обучение стало проще с Notion AI. Онлайн школы скоро вымрут? Пример SQL курса](https://habr.com/ru/articles/730730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730730)
 - [Монорепозиторий на TypeScript вместо подорожника. Как мы все сломали и сделали лучше](https://habr.com/ru/articles/730710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730710)
-- [Запускаем Android Emulator на процессорах AMD под управлением Windows 10/11 Home](https://habr.com/ru/articles/730702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730702)
-- [Как сделать внешнюю обводку у полигона](https://habr.com/ru/articles/730696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730696)
-- [Создаем свой собственный язык программирования с использованием LLVM. Часть 5: Поддержка классов и перегрузки функций](https://habr.com/ru/articles/730686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730686)
-- [Берём Glance Widgets под контроль](https://habr.com/ru/articles/730678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
