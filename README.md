@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ClickHouse: как мы уменьшили потребление памяти в 50 раз](https://habr.com/ru/companies/neoflex/articles/730758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730758)
+- [[Перевод] Основные принципы маскирования в CSS](https://habr.com/ru/companies/ruvds/articles/729974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729974)
 - [[Перевод] Отладка C при помощи пакета Cosmopolitan Libc](https://habr.com/ru/companies/piter/articles/730746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730746)
 - [Храним секреты своих проектов в Yandex Lockbox и используем их за пределами Yandex Cloud](https://habr.com/ru/articles/730750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730750)
 - [[Перевод] Реализация gRPC с помощью Java и Spring Boot](https://habr.com/ru/companies/otus/articles/730740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730740)
-- [Самостоятельное обучение стало проще с Notion AI. Онлайн школы скоро вымрут? Пример SQL курса](https://habr.com/ru/articles/730730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730730)
-- [Монорепозиторий на TypeScript вместо подорожника. Как мы все сломали и сделали лучше](https://habr.com/ru/articles/730710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
