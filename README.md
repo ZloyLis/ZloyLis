@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка игр на Go: шейдеры](https://habr.com/ru/articles/730848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730848)
 - [CustomView Android. Кольцевая диаграмма для отображения статистики](https://habr.com/ru/articles/730924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730924)
 - [RTK Query и redux. Минимум кода для работы с api](https://habr.com/ru/articles/730916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730916)
 - [ARRS // Нам нужна ваша помощь](https://habr.com/ru/articles/730910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730910)
 - [Удивительные клеточные автоматы: направленные и пользовательские окрестности](https://habr.com/ru/companies/timeweb/articles/727932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727932)
-- [Дешевый как автобус, удобный как такси: перспективный вид общественного транспорта для больших и средних городов. Часть2](https://habr.com/ru/articles/727118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
