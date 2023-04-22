@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ARRS // Нам нужна ваша помощь](https://habr.com/ru/articles/730910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730910)
 - [Удивительные клеточные автоматы: направленные и пользовательские окрестности](https://habr.com/ru/companies/timeweb/articles/727932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727932)
 - [Дешевый как автобус, удобный как такси: перспективный вид общественного транспорта для больших и средних городов. Часть2](https://habr.com/ru/articles/727118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727118)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;22 апреля — 27 апреля&rpar;](https://habr.com/ru/articles/730874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730874)
 - [Простая Enterprise Architecture. Автопостроение схемы архитектуры по данным репозитария](https://habr.com/ru/articles/730868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730868)
-- [DataHub: организовываем доступ к публичным данным через Predefined Queries](https://habr.com/ru/articles/730858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
