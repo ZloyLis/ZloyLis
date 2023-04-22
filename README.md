@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация автотестов Cypress с помощью  циклов JavaScript](https://habr.com/ru/articles/730962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730962)
 - [Рейтинг языков программирования 2023. JavaScript/TypeScript завоевывают мир, Python вошел в топ-3](https://habr.com/ru/articles/730954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730954)
 - [Это невозможное доказательство теоремы Пифагора нашли в 2023 году](https://habr.com/ru/articles/730946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730946)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 5&rpar;](https://habr.com/ru/articles/729722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729722)
 - [[Перевод] Нормально разбираемся в Нормальном распределении](https://habr.com/ru/articles/730936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730936)
-- [Как жить-то, когда нет целевой архитектуры?](https://habr.com/ru/companies/alfa/articles/730620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
