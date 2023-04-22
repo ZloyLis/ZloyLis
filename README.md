@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простая Enterprise Architecture. Автопостроение схемы архитектуры по данным репозитария](https://habr.com/ru/articles/730868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730868)
 - [DataHub: организовываем доступ к публичным данным через Predefined Queries](https://habr.com/ru/articles/730858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730858)
 - [Генерируем X509 сертификат с OpenSSL C++](https://habr.com/ru/articles/730852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730852)
 - [Три уровня Kubernetes in Kubernetes](https://habr.com/ru/articles/730850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730850)
 - [Генерация тестов на основе трассировки для высоконагруженных систем](https://habr.com/ru/companies/otus/articles/730816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730816)
-- [О чём расскажут на C++ Russia 2023 в онлайне и офлайне](https://habr.com/ru/companies/jugru/articles/729958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
