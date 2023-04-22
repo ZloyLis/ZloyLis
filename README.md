@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 5&rpar;](https://habr.com/ru/articles/729722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729722)
+- [[Перевод] Нормально разбираемся в Нормальном распределении](https://habr.com/ru/articles/730936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730936)
 - [Как жить-то, когда нет целевой архитектуры?](https://habr.com/ru/companies/alfa/articles/730620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730620)
 - [Разработка игр на Go: шейдеры](https://habr.com/ru/articles/730848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730848)
 - [CustomView Android. Кольцевая диаграмма для отображения статистики](https://habr.com/ru/articles/730924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730924)
-- [RTK Query и redux. Минимум кода для работы с api](https://habr.com/ru/articles/730916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730916)
-- [ARRS // Нам нужна ваша помощь](https://habr.com/ru/articles/730910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
