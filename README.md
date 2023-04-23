@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrated Architecture Framework для описания архитектуры предприятия](https://habr.com/ru/companies/otus/articles/730964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730964)
 - [Математическая оптимизация и моделирование в PuLP: задача о назначениях](https://habr.com/ru/articles/731006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731006)
 - [Очередной драйвер SPI флэшек… Но уже с кэшем и «нормальным» api](https://habr.com/ru/articles/730232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730232)
 - [[Перевод] Фичи WebKit в Safari 16.4](https://habr.com/ru/articles/730998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730998)
 - [Оптимизация автотестов Cypress с помощью  циклов JavaScript](https://habr.com/ru/articles/730962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730962)
-- [Рейтинг языков программирования 2023. JavaScript/TypeScript завоевывают мир, Python вошел в топ-3](https://habr.com/ru/articles/730954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
