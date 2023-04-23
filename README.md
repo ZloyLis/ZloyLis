@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест новостей из мира программирования #1](https://habr.com/ru/articles/731054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731054)
 - [Ряд Фибоначчи и Мемоизация с примерами на Swift языке](https://habr.com/ru/articles/731048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731048)
 - [С чего начать изучение Go](https://habr.com/ru/articles/731046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731046)
 - [Экономный APM для backend или как использовать Loki+Grafana+логи приложения для APM](https://habr.com/ru/articles/726260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726260)
 - [Быстрое нахождениe остатка от деления больших чисел для делителей специального вида](https://habr.com/ru/articles/731038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731038)
-- [MIDI chiptune + detune](https://habr.com/ru/articles/731036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
