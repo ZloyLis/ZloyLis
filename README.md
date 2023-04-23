@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрое нахождения остатка от деления больших чисел для делителей специального вида](https://habr.com/ru/articles/731038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731038)
+- [MIDI chiptune + detune](https://habr.com/ru/articles/731036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731036)
 - [Мобильная разработка за неделю #485 &lpar;17 — 23 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/731034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731034)
 - [Мой поиск аналога Microsoft Visio](https://habr.com/ru/articles/731028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731028)
 - [Integrated Architecture Framework для описания архитектуры предприятия](https://habr.com/ru/companies/otus/articles/730964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730964)
-- [Математическая оптимизация и моделирование в PuLP: задача о назначениях](https://habr.com/ru/articles/731006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731006)
-- [Очередной драйвер SPI флэшек… Но уже с кэшем и «нормальным» api](https://habr.com/ru/articles/730232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
