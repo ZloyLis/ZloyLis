@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шаблоны селекторов в автотестах Cypress: две полезные шпаргалки](https://habr.com/ru/articles/731346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731346)
 - [Apple Pro Weekly News &lpar;17.04 – 23.04.23&rpar;](https://habr.com/ru/articles/731340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731340)
 - [LaraКурс для начинающих расхитителей гробниц](https://habr.com/ru/articles/731318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731318)
 - [Современные Source Generators в .NET, часть 2](https://habr.com/ru/articles/731310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731310)
 - [Безопасная разработка на Python](https://habr.com/ru/companies/otus/articles/730822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730822)
-- [[Перевод] Все о фабричном конструкторе в Dart](https://habr.com/ru/articles/731298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
