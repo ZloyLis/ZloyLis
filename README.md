@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Межцеховое планирование в «1С:ERP», или Когда уровень MES не нужен](https://habr.com/ru/articles/731250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731250)
+- [Что JS-разработчики смогут узнать на HolyJS 2023 Spring](https://habr.com/ru/companies/jugru/articles/730534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730534)
+- [Использование ETL-процессов для анализа данных](https://habr.com/ru/companies/otus/articles/731224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731224)
 - [Алгоритм оценки математического выражения с использованием JavaFX](https://habr.com/ru/articles/731244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731244)
 - [Security Week 2317: подробности атаки supply chain на компанию 3CX](https://habr.com/ru/companies/kaspersky/articles/731214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731214)
-- [Circuit-фреймворк для Jetpack Compose и тестирование с Robolectric](https://habr.com/ru/companies/otus/articles/731150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731150)
-- [От собеседования до амбассадора: пирамида потребностей разработчика](https://habr.com/ru/specials/722366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722366)
-- [[Перевод] Моделирование данных с помощью записей — 5 примеров для занятых разработчиков](https://habr.com/ru/articles/724950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
