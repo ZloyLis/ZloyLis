@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-разработка: 15 материалов для самостоятельного изучения](https://habr.com/ru/companies/yandex_praktikum/articles/730344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730344)
+- [Что произошло в мире Python за последний месяц](https://habr.com/ru/articles/730374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730374)
 - [Расширение для скачивания видео с VK в один клик. Теперь и для desktop-а](https://habr.com/ru/articles/731078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731078)
 - [Пошаговый путь юриста в java-разработку](https://habr.com/ru/articles/731108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731108)
 - [Пародия на замыкания](https://habr.com/ru/companies/skbkontur/articles/730554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730554)
-- [Реализация IDisposable в моделях представлений в проектах MAUI](https://habr.com/ru/articles/731060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731060)
-- [Дайджест новостей из мира программирования #1](https://habr.com/ru/articles/731054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
