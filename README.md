@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [VR и обучение персонала. За и против](https://habr.com/ru/articles/730986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730986)
 - [Математический подход к выбору девушки*. Правило 37%](https://habr.com/ru/companies/ruvds/articles/730004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730004)
 - [Как обеспечить защиту периметра сети после ухода с рынка иностранных производителей](https://habr.com/ru/companies/step_logic/articles/727610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727610)
 - [[Перевод] StackLLaMA: практическое руководство по обучению LLaMA с помощью RLHF](https://habr.com/ru/companies/wunderfund/articles/731128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731128)
 - [Веб-разработка: 15 материалов для самостоятельного изучения](https://habr.com/ru/companies/yandex_praktikum/articles/730344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730344)
-- [Что произошло в мире Python за последний месяц](https://habr.com/ru/articles/730374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
