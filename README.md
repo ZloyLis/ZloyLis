@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Подождите, не успеваю записывать код …». Я слушал это пару лет и в итоге написал раздатчик изменений кода для студентов](https://habr.com/ru/companies/rostelecom/articles/731136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731136)
-- [От ручной работы к машинному обучению: как попасть в топ-5 поисковой выдачи, автоматически генерируя мета-теги](https://habr.com/ru/companies/samokat_tech/articles/730398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730398)
-- [VR и обучение персонала. За и против](https://habr.com/ru/articles/730986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730986)
-- [Математический подход к выбору девушки*. Правило 37%](https://habr.com/ru/companies/ruvds/articles/730004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730004)
-- [Как обеспечить защиту периметра сети после ухода с рынка иностранных производителей](https://habr.com/ru/companies/step_logic/articles/727610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727610)
+- [[Перевод] Моделирование данных с помощью записей — 5 примеров для занятых разработчиков](https://habr.com/ru/articles/724950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724950)
+- [Об инициации весов при обучении нейронных сетей](https://habr.com/ru/articles/730300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730300)
+- [[Перевод] Как собирать поведенческие данные? Руководство для дата-инженеров и аналитиков](https://habr.com/ru/companies/otus/articles/731212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731212)
+- [Бизнес. Юридическое определение](https://habr.com/ru/articles/651591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=651591)
+- [Влияние слонов на сходимость проектов](https://habr.com/ru/articles/731208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
