@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм оценки математического выражения с использованием JavaFX](https://habr.com/ru/articles/731244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731244)
+- [Security Week 2317: подробности атаки supply chain на компанию 3CX](https://habr.com/ru/companies/kaspersky/articles/731214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731214)
+- [Circuit-фреймворк для Jetpack Compose и тестирование с Robolectric](https://habr.com/ru/companies/otus/articles/731150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731150)
+- [От собеседования до амбассадора: пирамида потребностей разработчика](https://habr.com/ru/specials/722366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722366)
 - [[Перевод] Моделирование данных с помощью записей — 5 примеров для занятых разработчиков](https://habr.com/ru/articles/724950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724950)
-- [Об инициации весов при обучении нейронных сетей](https://habr.com/ru/articles/730300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730300)
-- [[Перевод] Как собирать поведенческие данные? Руководство для дата-инженеров и аналитиков](https://habr.com/ru/companies/otus/articles/731212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731212)
-- [Бизнес. Юридическое определение](https://habr.com/ru/articles/651591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=651591)
-- [Влияние слонов на сходимость проектов](https://habr.com/ru/articles/731208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
