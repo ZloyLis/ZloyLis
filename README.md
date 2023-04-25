@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем скелеты микросервисов быстро и без боли](https://habr.com/ru/companies/lamoda/articles/728920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728920)
+- [Engshell — автоматизация управления ОС из консоли на базе ИИ](https://habr.com/ru/companies/timeweb/articles/730908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730908)
+- [Python Дайджест: как ускорить Django проект до &lpar;почти&rpar; максимума](https://habr.com/ru/companies/first/articles/728792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728792)
+- [[Паттерны API] Введение. Аутентификация партнёров и авторизация вызовов API. Стратегии синхронизации](https://habr.com/ru/articles/731406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731406)
 - [[Перевод] Сравнение TCP и QUIC](https://habr.com/ru/companies/flant/articles/729812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729812)
-- [Шаблоны селекторов в автотестах Cypress: две полезные шпаргалки](https://habr.com/ru/articles/731346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731346)
-- [Apple Pro Weekly News &lpar;17.04 – 23.04.23&rpar;](https://habr.com/ru/articles/731340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731340)
-- [LaraКурс для начинающих расхитителей гробниц](https://habr.com/ru/articles/731318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731318)
-- [Современные Source Generators в .NET, часть 2](https://habr.com/ru/articles/731310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
