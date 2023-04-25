@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создаем скелеты микросервисов быстро и без боли](https://habr.com/ru/companies/lamoda/articles/728920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728920)
-- [Engshell — автоматизация управления ОС из консоли на базе ИИ](https://habr.com/ru/companies/timeweb/articles/730908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730908)
-- [Python Дайджест: как ускорить Django проект до &lpar;почти&rpar; максимума](https://habr.com/ru/companies/first/articles/728792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728792)
-- [[Паттерны API] Введение. Аутентификация партнёров и авторизация вызовов API. Стратегии синхронизации](https://habr.com/ru/articles/731406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731406)
-- [[Перевод] Сравнение TCP и QUIC](https://habr.com/ru/companies/flant/articles/729812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729812)
+- [Лучшие книги и статьи по Kubernetes для системного аналитика с noob-level в DevOps](https://habr.com/ru/articles/731446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731446)
+- [[Перевод] Пасхалки — самовыражение или баловство?](https://habr.com/ru/companies/cloud4y/articles/731438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731438)
+- [Что делать после ухода Red Hat OpenShift?](https://habr.com/ru/companies/oleg-bunin/articles/728526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728526)
+- [Обобщай это, обобщай то](https://habr.com/ru/companies/ruvds/articles/726368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726368)
+- [Воскрешаем старый проект с помощью ChatGPT](https://habr.com/ru/articles/731422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
