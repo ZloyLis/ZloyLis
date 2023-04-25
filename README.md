@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучение C++, UTF-8 с первой программы](https://habr.com/ru/articles/731614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731614)
 - [[Перевод] Перевод второй части учебника Patterns.dev](https://habr.com/ru/articles/731610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731610)
 - [Как мы делали скоринг на микросервисной архитектуре руками не-программистов](https://habr.com/ru/articles/731596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731596)
 - [Backend Client как универсальный инструмент для UI-автотестов](https://habr.com/ru/companies/okko/articles/731570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731570)
 - [[Перевод] Комбинируем Prometheus, ChatGPT и Slack — получается Robusta](https://habr.com/ru/companies/southbridge/articles/731560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731560)
-- [Алгоритм, сделавший ChatGPT таким «человечным» — Reinforcement Learning from Human Feedback](https://habr.com/ru/articles/730990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
