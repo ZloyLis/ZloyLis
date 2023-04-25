@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Комбинируем Prometheus, ChatGPT и Slack — получается Robusta](https://habr.com/ru/companies/southbridge/articles/731560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731560)
+- [Алгоритм, сделавший ChatGPT таким «человечным» — Reinforcement Learning from Human Feedback](https://habr.com/ru/articles/730990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730990)
+- [Книга «Software: Ошибки и компромиссы при разработке ПО»](https://habr.com/ru/companies/piter/articles/731546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731546)
 - [[Перевод] Организуем окружение Rust и сборку Docker с применением Nix Flakes](https://habr.com/ru/companies/timeweb/articles/731478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731478)
 - [Быть или не быть начальником. 3 вопроса, которые я не задал себе, прежде чем пойти на повышение](https://habr.com/ru/companies/agima/articles/725290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725290)
-- [Пагинация в ElasticSearch](https://habr.com/ru/articles/731522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731522)
-- [Управление параметрами FPV видеопередатчиков по протоколам IRC Tramp и TBS SmartAudio](https://habr.com/ru/articles/731514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731514)
-- [Практический гайд по использованию модуля метрик Tarantool](https://habr.com/ru/companies/vk/articles/731358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
