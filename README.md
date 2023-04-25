@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать декларативный роутинг диалогов в Angular на примере Taiga UI](https://habr.com/ru/companies/tinkoff/articles/731376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731376)
+- [XSS атакует! Не краткий обзор где и как искать уязвимости](https://habr.com/ru/companies/alfa/articles/731394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731394)
+- [Снятся ли разработчикам безопасные приложения?](https://habr.com/ru/companies/pvs-studio/articles/731450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731450)
 - [Лучшие книги и статьи по Kubernetes для системного аналитика с noob-level в DevOps](https://habr.com/ru/articles/731446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731446)
 - [[Перевод] Пасхалки — самовыражение или баловство?](https://habr.com/ru/companies/cloud4y/articles/731438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731438)
-- [Что делать после ухода Red Hat OpenShift?](https://habr.com/ru/companies/oleg-bunin/articles/728526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728526)
-- [Обобщай это, обобщай то](https://habr.com/ru/companies/ruvds/articles/726368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726368)
-- [Воскрешаем старый проект с помощью ChatGPT](https://habr.com/ru/articles/731422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
