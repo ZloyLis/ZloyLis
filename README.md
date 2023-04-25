@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление параметрами FPV видеопередатчиков по протоколам IRC Tramp и TBS SmartAudio](https://habr.com/ru/articles/731514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731514)
+- [Практический гайд по использованию модуля метрик Tarantool](https://habr.com/ru/companies/vk/articles/731358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731358)
+- [Простая процедурная генерация мира, или Шумы Перлина на Python](https://habr.com/ru/companies/selectel/articles/731506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731506)
+- [[Перевод] 5 трудностей в работе junior тестировщика](https://habr.com/ru/articles/731442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731442)
 - [Как сделать декларативный роутинг диалогов в Angular на примере Taiga UI](https://habr.com/ru/companies/tinkoff/articles/731376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731376)
-- [XSS атакует! Не краткий обзор где и как искать уязвимости](https://habr.com/ru/companies/alfa/articles/731394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731394)
-- [Снятся ли разработчикам безопасные приложения?](https://habr.com/ru/companies/pvs-studio/articles/731450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731450)
-- [Лучшие книги и статьи по Kubernetes для системного аналитика с noob-level в DevOps](https://habr.com/ru/articles/731446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731446)
-- [[Перевод] Пасхалки — самовыражение или баловство?](https://habr.com/ru/companies/cloud4y/articles/731438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
