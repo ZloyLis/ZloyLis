@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы делали скоринг на микросервисной архитектуре руками не-программистов](https://habr.com/ru/articles/731596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731596)
 - [Backend Client как универсальный инструмент для UI-автотестов](https://habr.com/ru/companies/okko/articles/731570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731570)
 - [[Перевод] Комбинируем Prometheus, ChatGPT и Slack — получается Robusta](https://habr.com/ru/companies/southbridge/articles/731560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731560)
 - [Алгоритм, сделавший ChatGPT таким «человечным» — Reinforcement Learning from Human Feedback](https://habr.com/ru/articles/730990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730990)
 - [Книга «Software: Ошибки и компромиссы при разработке ПО»](https://habr.com/ru/companies/piter/articles/731546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731546)
-- [[Перевод] Организуем окружение Rust и сборку Docker с применением Nix Flakes](https://habr.com/ru/companies/timeweb/articles/731478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
