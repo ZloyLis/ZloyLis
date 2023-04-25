@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Организуем окружение Rust и сборку Docker с применением Nix Flakes](https://habr.com/ru/companies/timeweb/articles/731478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731478)
+- [Быть или не быть начальником. 3 вопроса, которые я не задал себе, прежде чем пойти на повышение](https://habr.com/ru/companies/agima/articles/725290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725290)
+- [Пагинация в ElasticSearch](https://habr.com/ru/articles/731522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731522)
 - [Управление параметрами FPV видеопередатчиков по протоколам IRC Tramp и TBS SmartAudio](https://habr.com/ru/articles/731514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731514)
 - [Практический гайд по использованию модуля метрик Tarantool](https://habr.com/ru/companies/vk/articles/731358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731358)
-- [Простая процедурная генерация мира, или Шумы Перлина на Python](https://habr.com/ru/companies/selectel/articles/731506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731506)
-- [[Перевод] 5 трудностей в работе junior тестировщика](https://habr.com/ru/articles/731442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731442)
-- [Как сделать декларативный роутинг диалогов в Angular на примере Taiga UI](https://habr.com/ru/companies/tinkoff/articles/731376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
