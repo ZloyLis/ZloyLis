@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Не пытайтесь присопосбить свой код к будущему](https://habr.com/ru/companies/productivity_inside/articles/731694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731694)
-- [[Перевод] Как настроить мониторинг и оповещения на Nginx ingress в Kubernetes](https://habr.com/ru/companies/vk/articles/729796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729796)
-- [6. Устойчивость систем автоматического регулирования. 6.5. Частотный критерий Найквиста](https://habr.com/ru/articles/727912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727912)
-- [Гайды, глоссарии, редполитика. С чего начать?](https://habr.com/ru/companies/sbermarket/articles/731566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731566)
-- [AbortController: Варианты применения для эффективного управления асинхронными операциями](https://habr.com/ru/articles/731644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731644)
+- [[Перевод] В чём разница между хорошим и плохим кодом? Объяснение для непрограммистов](https://habr.com/ru/companies/beeline_tech/articles/731706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731706)
+- [Selenoid: запускаем Appium UI-тесты на Android. Часть I](https://habr.com/ru/companies/inDrive/articles/729774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729774)
+- [Пол — это лава: разработка прототипа интерактивной светодиодной игровой платформы](https://habr.com/ru/articles/731704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731704)
+- [Jenkins + Android](https://habr.com/ru/companies/southbridge/articles/731698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731698)
+- [[Перевод] Не пытайтесь приспособить свой код к будущему](https://habr.com/ru/companies/productivity_inside/articles/731694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
