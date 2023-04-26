@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Куда приложить машинное обучение?](https://habr.com/ru/companies/garage8/articles/731712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731712)
 - [[Перевод] В чём разница между хорошим и плохим кодом? Объяснение для непрограммистов](https://habr.com/ru/companies/beeline_tech/articles/731706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731706)
 - [Selenoid: запускаем Appium UI-тесты на Android. Часть I](https://habr.com/ru/companies/inDrive/articles/729774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729774)
 - [Пол — это лава: разработка прототипа интерактивной светодиодной игровой платформы](https://habr.com/ru/articles/731704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731704)
 - [Jenkins + Android](https://habr.com/ru/companies/southbridge/articles/731698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731698)
-- [[Перевод] Не пытайтесь приспособить свой код к будущему](https://habr.com/ru/companies/productivity_inside/articles/731694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
