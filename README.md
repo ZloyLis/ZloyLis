@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] C# как замена VBA в Excel](https://habr.com/ru/companies/ruvds/articles/731770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731770)
+- [Как мы автоматизировали тестирование OpenStack с помощью Rally и Tempest](https://habr.com/ru/companies/selectel/articles/724040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724040)
 - [Что о мобильной разработке можно будет узнать на Mobius 2023 Spring](https://habr.com/ru/companies/jugru/articles/730180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730180)
 - [Визуальное программирование vs DSL](https://habr.com/ru/companies/lsfusion/articles/730688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730688)
 - [Куда приложить машинное обучение?](https://habr.com/ru/companies/garage8/articles/731712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731712)
-- [[Перевод] В чём разница между хорошим и плохим кодом? Объяснение для непрограммистов](https://habr.com/ru/companies/beeline_tech/articles/731706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731706)
-- [Selenoid: запускаем Appium UI-тесты на Android. Часть I](https://habr.com/ru/companies/inDrive/articles/729774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
