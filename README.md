@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Игры в телеграм в 2023. Пациент жив или скорее мертв?](https://habr.com/ru/articles/731826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731826)
 - [Беда “войти в айти” или курсы тестировщика отзывы: Какой процент QA-студентов на самом деле трудоустраивается](https://habr.com/ru/articles/731788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731788)
-- [Рекомендации Яндекс. Музыка, которые не работают :&lpar;](https://habr.com/ru/articles/731790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731790)
 - [Ethers js — транзакции](https://habr.com/ru/articles/731786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731786)
 - [[Перевод] C# как замена VBA в Excel](https://habr.com/ru/companies/ruvds/articles/731770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731770)
+- [Как мы автоматизировали тестирование OpenStack с помощью Rally и Tempest](https://habr.com/ru/companies/selectel/articles/724040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
