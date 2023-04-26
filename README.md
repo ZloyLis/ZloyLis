@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайды, глоссарии, редполитика. С чего начать?](https://habr.com/ru/companies/sbermarket/articles/731566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731566)
 - [AbortController: Варианты применения для эффективного управления асинхронными операциями](https://habr.com/ru/articles/731644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731644)
 - [Обучение C++, UTF-8 с первой программы](https://habr.com/ru/articles/731614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731614)
 - [[Перевод] Перевод второй части учебника Patterns.dev](https://habr.com/ru/articles/731610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731610)
 - [Как мы делали скоринг на микросервисной архитектуре руками не-программистов](https://habr.com/ru/articles/731596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731596)
-- [Backend Client как универсальный инструмент для UI-автотестов](https://habr.com/ru/companies/okko/articles/731570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
