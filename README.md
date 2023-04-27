@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что не так с IT-образованием в России, и как я пытаюсь это исправить уже более 10 лет](https://habr.com/ru/companies/aitalenthub/articles/731728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731728)
+- [Внедрение баз данных с бэкапированием и репликацией при помощи консоли dBrain. Как это работает](https://habr.com/ru/companies/dbraincloud/articles/731932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731932)
 - [Как повысить эффективность своего колл-центра или улучшить пуш-сообщения](https://habr.com/ru/companies/tinkoff/articles/731906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731906)
 - [Чего ждать разработчикам от WWDC 2023?](https://habr.com/ru/companies/usetech/articles/731808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731808)
 - [[Перевод] Семафоры в Linux медленно сходят со сцены](https://habr.com/ru/articles/731904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731904)
-- [Вы уже используете “Доменный анализ” / “Domain analysis”](https://habr.com/ru/articles/731902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731902)
-- [Создание бесплатного ChatGPT телеграм бота на Python](https://habr.com/ru/articles/731896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
