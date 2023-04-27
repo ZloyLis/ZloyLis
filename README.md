@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про обучение, преподавание и, конечно, нейросети. Как учиться эффективно?](https://habr.com/ru/articles/732108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732108)
+- [Хочу в iOS-разработку: к чему готовиться на собеседовании в продуктовую команду](https://habr.com/ru/companies/alfa/articles/728322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728322)
+- [Собираем Kubernetes из исходников — ч1](https://habr.com/ru/articles/732100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732100)
 - [Алгоритм движка генератора карт трассировок для алгоритма замены свёрточных нейросетей](https://habr.com/ru/articles/732092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732092)
 - [Анализ временных рядов](https://habr.com/ru/companies/otus/articles/732080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732080)
-- [Begin /* Снова о математике для программиста](https://habr.com/ru/articles/732058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732058)
-- [Нахождение минимальных путей в разреженных графах, используя матрицу 5xN](https://habr.com/ru/articles/732056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732056)
-- [Эффективный алгоритм обработки больших баз данных MLM-структур](https://habr.com/ru/articles/732012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
