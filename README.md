@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Begin /* Снова о математике для программиста](https://habr.com/ru/articles/732058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732058)
+- [Нахождение минимальных путей в графе используя матрицу 5xN](https://habr.com/ru/articles/732056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732056)
 - [Эффективный алгоритм обработки больших баз данных MLM-структур](https://habr.com/ru/articles/732012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732012)
 - [Безопасность контейнеризированных приложений в рамках DevSecOps: какие практики использовать и с чего начать](https://habr.com/ru/companies/swordfish_security/articles/731746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731746)
 - [Воспитание детей через игру](https://habr.com/ru/articles/731828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731828)
-- [Распознавание банковских карт в видеопотоке в браузере с помощью SmartEngines и WebAssembly](https://habr.com/ru/companies/smartengines/articles/723654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723654)
-- [Виджеты: Android против iOS](https://habr.com/ru/companies/jugru/articles/731576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
