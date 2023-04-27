@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм движка генератора карт трассировок для алгоритма замены свёрточных нейросетей](https://habr.com/ru/articles/732092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732092)
+- [Анализ временных рядов](https://habr.com/ru/companies/otus/articles/732080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732080)
 - [Begin /* Снова о математике для программиста](https://habr.com/ru/articles/732058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732058)
-- [Нахождение минимальных путей в графе используя матрицу 5xN](https://habr.com/ru/articles/732056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732056)
+- [Нахождение минимальных путей в разреженных графах, используя матрицу 5xN](https://habr.com/ru/articles/732056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732056)
 - [Эффективный алгоритм обработки больших баз данных MLM-структур](https://habr.com/ru/articles/732012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732012)
-- [Безопасность контейнеризированных приложений в рамках DevSecOps: какие практики использовать и с чего начать](https://habr.com/ru/companies/swordfish_security/articles/731746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731746)
-- [Воспитание детей через игру](https://habr.com/ru/articles/731828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
