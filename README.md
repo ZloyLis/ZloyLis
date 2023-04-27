@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чего ждать разработчикам от WWDC 2023?](https://habr.com/ru/companies/usetech/articles/731808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731808)
 - [[Перевод] Семафоры в Linux медленно сходят со сцены](https://habr.com/ru/articles/731904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731904)
 - [Вы уже используете “Доменный анализ” / “Domain analysis”](https://habr.com/ru/articles/731902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731902)
 - [Создание бесплатного ChatGPT телеграм бота на Python](https://habr.com/ru/articles/731896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731896)
 - [Игры в телеграм в 2023. Пациент жив или скорее мертв?](https://habr.com/ru/articles/731826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731826)
-- [Беда «войти в айти» или курсы тестировщика отзывы: Какой процент QA-студентов на самом деле трудоустраивается](https://habr.com/ru/articles/731788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
