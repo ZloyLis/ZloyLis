@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ночь. Облако. Дебаг. Прокся, или Как мы все вылечили, развернув L2-тесты в Kubernetes](https://habr.com/ru/companies/kaspersky/articles/725348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725348)
+- [Ультимативный гайд по HTTP. Cookies и CORS](https://habr.com/ru/companies/avito/articles/710674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710674)
+- [UI-библиотеки для React](https://habr.com/ru/articles/731964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731964)
 - [BlackBerry Z30 — Стоит ли брать «ежевичный» смартфон за 500 рублей в 2023?](https://habr.com/ru/companies/timeweb/articles/730748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730748)
 - [Правильная поддержка Apple Silicon: как избежать проблем при апгрейде с Intel &lpar;x86_64&rpar; на Apple &lpar;arm64&rpar;](https://habr.com/ru/companies/surfstudio/articles/731868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731868)
-- [Combine: часть 2. Вершина айсберга](https://habr.com/ru/companies/simbirsoft/articles/731918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731918)
-- [Что не так с IT-образованием в России, и как я пытаюсь это исправить уже более 10 лет](https://habr.com/ru/companies/aitalenthub/articles/731728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731728)
-- [Внедрение баз данных с бэкапированием и репликацией при помощи консоли dBrain. Как это работает](https://habr.com/ru/companies/dbraincloud/articles/731932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
