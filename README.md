@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Гиги за шаги оценки». Как школьники Татарстана получают мегабайты Интернета за пятерки](https://habr.com/ru/companies/digital_tatarstan/articles/732062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732062)
-- [Как мы с помощью Mid Journey повысили удержание пользователей в приложении на 43%](https://habr.com/ru/articles/732112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732112)
+- [«Гиги за оценки». Как школьники Татарстана получают мегабайты Интернета за пятерки](https://habr.com/ru/companies/digital_tatarstan/articles/732062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732062)
 - [Про обучение, преподавание и, конечно, нейросети. Как учиться эффективно?](https://habr.com/ru/articles/732108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732108)
 - [Хочу в iOS-разработку: к чему готовиться на собеседовании в продуктовую команду](https://habr.com/ru/companies/alfa/articles/728322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728322)
 - [Собираем Kubernetes из исходников — ч1](https://habr.com/ru/articles/732100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732100)
+- [Алгоритм движка генератора карт трассировок для алгоритма замены свёрточных нейросетей](https://habr.com/ru/articles/732092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
