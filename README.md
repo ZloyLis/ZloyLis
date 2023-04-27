@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность контейнеризированных приложений в рамках DevSecOps: какие практики использовать и с чего начать](https://habr.com/ru/companies/swordfish_security/articles/731746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731746)
+- [Воспитание детей через игру](https://habr.com/ru/articles/731828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731828)
 - [Распознавание банковских карт в видеопотоке в браузере с помощью SmartEngines и WebAssembly](https://habr.com/ru/companies/smartengines/articles/723654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723654)
 - [Виджеты: Android против iOS](https://habr.com/ru/companies/jugru/articles/731576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731576)
 - [Проблемы приземления данных из Kafka и их решения на Apache Flink](https://habr.com/ru/companies/oleg-bunin/articles/728520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728520)
-- [Ночь. Облако. Дебаг. Прокся, или Как мы все вылечили, развернув L2-тесты в Kubernetes](https://habr.com/ru/companies/kaspersky/articles/725348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725348)
-- [Ультимативный гайд по HTTP. Cookies и CORS](https://habr.com/ru/companies/avito/articles/710674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
