@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Downtime и Spring Boot. Апдейтим базу](https://habr.com/ru/articles/728850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728850)
-- [Тренды Kubernetes и контейнеризации в 2023 году](https://habr.com/ru/companies/flant/articles/732152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732152)
-- [[Перевод] Конец эпохи компьютерных журналов в Америке](https://habr.com/ru/companies/productivity_inside/articles/732148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732148)
-- [Harmony, гармония или что там с безопасностью в HarmonyOS](https://habr.com/ru/companies/dsec/articles/731984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731984)
-- [«Гиги за оценки». Как школьники Татарстана получают мегабайты Интернета за пятерки](https://habr.com/ru/companies/digital_tatarstan/articles/732062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732062)
+- [[Перевод] Полезен ли сегодня быстрый обратный квадратный корень из Quake III?](https://habr.com/ru/articles/730872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730872)
+- [[Паттерны API] Слабая консистентность](https://habr.com/ru/articles/732180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732180)
+- [Clean Architecture](https://habr.com/ru/companies/otus/articles/732178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732178)
+- [Как мы посредством динамического троттлинга защищаем  миллионы клиентов от перегрузок](https://habr.com/ru/companies/billing/articles/730170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730170)
+- [Полезные команды GNU/Linux для разработчика. Часть 1](https://habr.com/ru/companies/maxilect/articles/732172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
