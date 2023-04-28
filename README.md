@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Василиск Роко: задачка по теории игр или страшное и неизбежное будущее?](https://habr.com/ru/articles/732366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732366)
 - [Гипотеза Коллатца, часть 1](https://habr.com/ru/articles/732356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732356)
 - [Бесплатный доступ к PDF 2.0](https://habr.com/ru/companies/globalsign/articles/732340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732340)
 - [Можно ли экспортировать макеты из Figma в готовое React приложение?](https://habr.com/ru/articles/732322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732322)
 - [«Проблема доверия в сети». Точка зрения](https://habr.com/ru/articles/732312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732312)
-- [Почему MVx архитектуры всегда получаются плохо](https://habr.com/ru/articles/732118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
