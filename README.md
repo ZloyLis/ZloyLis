@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему MVx архитектуры всегда получаются плохо](https://habr.com/ru/articles/732118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732118)
+- [TechRetro: как решать инженерные проблемы сообща, если работаешь в кросс-функциональной структуре](https://habr.com/ru/companies/sbermarket/articles/732190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732190)
 - [[Перевод] Ответом на задачу по упаковке цветов в бесконечной сетке оказалось число 15](https://habr.com/ru/companies/ruvds/articles/731666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731666)
 - [Как подключить технику Xiaomi к локальному серверу на Node.js: первый шаг к настройке своего Умного дома](https://habr.com/ru/articles/732276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732276)
 - [[Перевод] Spring для GraphQL](https://habr.com/ru/companies/otus/articles/732234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732234)
-- [Канва Остервальдера: как избежать типичных ошибок при построении бизнес-модели](https://habr.com/ru/companies/redmadrobot/articles/732208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732208)
-- [Модульное тестирование в iOS: все, что надо знать. Часть 1](https://habr.com/ru/companies/docdoc/articles/732102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
