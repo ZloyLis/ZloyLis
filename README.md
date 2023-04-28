@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модульное тестирование в iOS: все, что надо знать. Часть 1](https://habr.com/ru/companies/docdoc/articles/732102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732102)
+- [Вопросы и ответы для собеседования по Kotlin. Часть 3](https://habr.com/ru/articles/728742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728742)
+- [Джунов не ждут: можно ли стать тестировщиком после курсов в 2023 году](https://habr.com/ru/articles/732188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732188)
 - [[Перевод] Полезен ли сегодня быстрый обратный квадратный корень из Quake III?](https://habr.com/ru/articles/730872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730872)
 - [[Паттерны API] Слабая консистентность](https://habr.com/ru/articles/732180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732180)
-- [Clean Architecture](https://habr.com/ru/companies/otus/articles/732178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732178)
-- [Как мы посредством динамического троттлинга защищаем  миллионы клиентов от перегрузок](https://habr.com/ru/companies/billing/articles/730170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730170)
-- [Полезные команды GNU/Linux для разработчика. Часть 1](https://habr.com/ru/companies/maxilect/articles/732172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
