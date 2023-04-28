@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Downtime и Spring Boot. Апдейтим базу](https://habr.com/ru/articles/728850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728850)
+- [Тренды Kubernetes и контейнеризации в 2023 году](https://habr.com/ru/companies/flant/articles/732152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732152)
 - [[Перевод] Конец эпохи компьютерных журналов в Америке](https://habr.com/ru/companies/productivity_inside/articles/732148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732148)
 - [Harmony, гармония или что там с безопасностью в HarmonyOS](https://habr.com/ru/companies/dsec/articles/731984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731984)
 - [«Гиги за оценки». Как школьники Татарстана получают мегабайты Интернета за пятерки](https://habr.com/ru/companies/digital_tatarstan/articles/732062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732062)
-- [Про обучение, преподавание и, конечно, нейросети. Как учиться эффективно?](https://habr.com/ru/articles/732108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732108)
-- [Хочу в iOS-разработку: к чему готовиться на собеседовании в продуктовую команду](https://habr.com/ru/companies/alfa/articles/728322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
