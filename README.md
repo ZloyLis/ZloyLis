@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Spring для GraphQL](https://habr.com/ru/companies/otus/articles/732234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732234)
+- [Канва Остервальдера: как избежать типичных ошибок при построении бизнес-модели](https://habr.com/ru/companies/redmadrobot/articles/732208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732208)
 - [Модульное тестирование в iOS: все, что надо знать. Часть 1](https://habr.com/ru/companies/docdoc/articles/732102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732102)
 - [Вопросы и ответы для собеседования по Kotlin. Часть 3](https://habr.com/ru/articles/728742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728742)
 - [Джунов не ждут: можно ли стать тестировщиком после курсов в 2023 году](https://habr.com/ru/articles/732188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732188)
-- [[Перевод] Полезен ли сегодня быстрый обратный квадратный корень из Quake III?](https://habr.com/ru/articles/730872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730872)
-- [[Паттерны API] Слабая консистентность](https://habr.com/ru/articles/732180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
