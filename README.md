@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли экспортировать макеты из Figma в готовое React приложение?](https://habr.com/ru/articles/732322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732322)
 - [«Проблема доверия в сети». Точка зрения](https://habr.com/ru/articles/732312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732312)
 - [Почему MVx архитектуры всегда получаются плохо](https://habr.com/ru/articles/732118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732118)
 - [TechRetro: как решать инженерные проблемы сообща, если работаешь в кросс-функциональной структуре](https://habr.com/ru/companies/sbermarket/articles/732190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732190)
 - [[Перевод] Ответом на задачу по упаковке цветов в бесконечной сетке оказалось число 15](https://habr.com/ru/companies/ruvds/articles/731666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731666)
-- [Как подключить технику Xiaomi к локальному серверу на Node.js: первый шаг к настройке своего Умного дома](https://habr.com/ru/articles/732276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
