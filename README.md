@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О разнице между лямбдами и обычными функциями и о имплементации лямбд в некторых языках программирования](https://habr.com/ru/articles/732434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732434)
 - [Искусство прогнозирования: погружение в Марковские цепи](https://habr.com/ru/companies/otus/articles/732424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732424)
 - [Как за полчаса написать простую читалку книг FB2 для десктопа на Java](https://habr.com/ru/articles/732412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732412)
 - [Как я сделал SPA в два раза быстрее](https://habr.com/ru/articles/732406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732406)
 - [Исправляем грамматику с помощью GPT-4 API](https://habr.com/ru/articles/732394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732394)
-- [Кроссплатформенный клиент для ChatGPT](https://habr.com/ru/articles/732384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
