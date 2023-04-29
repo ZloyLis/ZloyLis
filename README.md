@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я сделал SPA в два раза быстрее](https://habr.com/ru/articles/732406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732406)
 - [Исправляем грамматику с помощью GPT-4 API](https://habr.com/ru/articles/732394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732394)
 - [Кроссплатформенный клиент для ChatGPT](https://habr.com/ru/articles/732384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732384)
 - [Василиск Роко: задачка по теории игр или страшное и неизбежное будущее?](https://habr.com/ru/articles/732366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732366)
 - [Гипотеза Коллатца, часть 1](https://habr.com/ru/articles/732356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732356)
-- [Бесплатный доступ к PDF 2.0](https://habr.com/ru/companies/globalsign/articles/732340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
