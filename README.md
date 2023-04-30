@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переключение цветовых тем в React приложении](https://habr.com/ru/articles/732534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732534)
 - [«Странная алгебра», философия упрощения и изобретение бита. К 107-летию со дня рождения Клода Элвуда Шеннона](https://habr.com/ru/companies/timeweb/articles/732464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732464)
 - [Тестирование данных Excel файла с помощью Cypress](https://habr.com/ru/articles/732472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732472)
 - [Оптимизация бэкенда приложения с примерами на Symfony. Часть 2](https://habr.com/ru/articles/732470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732470)
 - [Цифровая стройка. Единая среда общих данных &lpar;ЕСОД&rpar;](https://habr.com/ru/articles/732460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732460)
-- [Бэкапим Кроличьи мозги на случай ядерных войн](https://habr.com/ru/articles/732458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
