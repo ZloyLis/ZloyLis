@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация бэкенда приложения с примерами на Symfony. Часть 2](https://habr.com/ru/articles/732470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732470)
 - [Цифровая стройка. Единая среда общих данных &lpar;ЕСОД&rpar;](https://habr.com/ru/articles/732460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732460)
 - [Бэкапим Кроличьи мозги на случай ядерных войн](https://habr.com/ru/articles/732458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732458)
 - [Переводим статический веб-сайт на языки мира при помощи Weblate](https://habr.com/ru/articles/732390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732390)
 - [Управляем воспроизведением на Mac OS через быстрые команды iOS](https://habr.com/ru/articles/727816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727816)
-- [О разнице между лямбдами и обычными функциями и о имплементации лямбд в некторых языках программирования](https://habr.com/ru/articles/732434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
