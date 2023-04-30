@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мое Знакомство с УИИ или Путешествие в Параллельную Реальность](https://habr.com/ru/articles/732556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732556)
+- [Метод персон на примере проектирования ПО для аренды шашлычных беседок](https://habr.com/ru/articles/732554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732554)
 - [Github pages для pet проектов](https://habr.com/ru/articles/732546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732546)
 - [Переключение цветовых тем в React приложении](https://habr.com/ru/articles/732534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732534)
 - [«Странная алгебра», философия упрощения и изобретение бита. К 107-летию со дня рождения Клода Элвуда Шеннона](https://habr.com/ru/companies/timeweb/articles/732464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732464)
-- [Тестирование данных Excel файла с помощью Cypress](https://habr.com/ru/articles/732472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732472)
-- [Оптимизация бэкенда приложения с примерами на Symfony. Часть 2](https://habr.com/ru/articles/732470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
