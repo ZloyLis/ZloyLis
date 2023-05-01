@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Алгоритмы балансировки нагрузок](https://habr.com/ru/companies/ruvds/articles/732648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732648)
 - [[Паттерны API] Асинхронность и управление временем](https://habr.com/ru/articles/732646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732646)
 - [[Перевод] Оживляем веб-камеру 1999 года](https://habr.com/ru/articles/732644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732644)
 - [Как я разрабатывал кастомный Segmented Control на SwiftUI](https://habr.com/ru/articles/732640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732640)
 - [Женщина-математик с фамилией, известной любому жителю СССР. Была в тени своего брата, но добилась успехов и пережила всё](https://habr.com/ru/articles/732624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732624)
-- [Интересные трюки HTML, CSS и JS](https://habr.com/ru/companies/ruvds/articles/731960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
