@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Валидация форм без зависимостей](https://habr.com/ru/articles/732690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732690)
+- [Кажется у меня появился джун](https://habr.com/ru/articles/732684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732684)
 - [React Native vs нативные языки программирования: что выбрать бизнесу?](https://habr.com/ru/articles/732676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732676)
 - [Используем модель нейросети на C++](https://habr.com/ru/articles/732670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732670)
 - [[Перевод] Алгоритмы балансировки нагрузок](https://habr.com/ru/companies/ruvds/articles/732648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732648)
-- [[Паттерны API] Асинхронность и управление временем](https://habr.com/ru/articles/732646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732646)
-- [[Перевод] Оживляем веб-камеру 1999 года](https://habr.com/ru/articles/732644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
