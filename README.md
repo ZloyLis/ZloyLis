@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #486 &lpar;24 — 30 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/732594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732594)
 - [Создание DSL на Python с библиотекой textx](https://habr.com/ru/companies/otus/articles/732562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732562)
 - [Дайджест новостей из мира программирования #2](https://habr.com/ru/articles/732580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732580)
 - [Что не так с OpenAPI?](https://habr.com/ru/articles/732572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732572)
 - [Мое Знакомство с УИИ или Путешествие в Параллельную Реальность](https://habr.com/ru/articles/732556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732556)
-- [Метод персон на примере проектирования ПО для аренды шашлычных беседок](https://habr.com/ru/articles/732554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
