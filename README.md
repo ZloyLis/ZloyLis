@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Личный опыт ISTQB сертификации для тестировщиков — проверить свой уровень, усовершенствовать навыки](https://habr.com/ru/articles/732872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732872)
+- [3D-принтер на прокачку](https://habr.com/ru/companies/vk/articles/732068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732068)
 - [localStorage для авторизации](https://habr.com/ru/articles/732864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732864)
 - [Искусственный интеллект и странные аттракторы](https://habr.com/ru/articles/732410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732410)
 - [Редактор для создания коллажей, спрайтов, редактирование картинок](https://habr.com/ru/articles/732844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732844)
-- [Ускоряем приложение: никаких фреймворков — только математика](https://habr.com/ru/companies/oleg-bunin/articles/732712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732712)
-- [Как прошёл чемпионат RuCTF глазами победителей](https://habr.com/ru/companies/vk/articles/732774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
