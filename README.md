@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Загрузчик файлов для React](https://habr.com/ru/articles/732764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732764)
+- [Чистый код. Часть 2](https://habr.com/ru/companies/qiwi/articles/730988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730988)
+- [Scala Digest. Выпуск 4](https://habr.com/ru/companies/tinkoff/articles/732306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732306)
+- [Производительность Android приложений Kotlin в сравнении с С++](https://habr.com/ru/articles/732746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732746)
 - [Вычислительная сложность некоторых игр и головоломок](https://habr.com/ru/companies/first/articles/732604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732604)
-- [Крошечный рецепт приготовления react-dnd](https://habr.com/ru/articles/732742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732742)
-- [[Перевод] Шаг за шагом: развёртываем Kafka Connect с помощью оператора Strimzi в Kubernetes](https://habr.com/ru/companies/southbridge/articles/732732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732732)
-- [Security Week 2318: новая аппаратная уязвимость в процессорах Intel](https://habr.com/ru/companies/kaspersky/articles/732672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732672)
-- [[Перевод] Красивый двоичный поиск без ветвления](https://habr.com/ru/articles/732632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
