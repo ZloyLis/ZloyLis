@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вычислительная сложность некоторых игр и головоломок](https://habr.com/ru/companies/first/articles/732604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732604)
+- [Крошечный рецепт приготовления react-dnd](https://habr.com/ru/articles/732742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732742)
+- [[Перевод] Шаг за шагом: развёртываем Kafka Connect с помощью оператора Strimzi в Kubernetes](https://habr.com/ru/companies/southbridge/articles/732732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732732)
+- [Security Week 2318: новая аппаратная уязвимость в процессорах Intel](https://habr.com/ru/companies/kaspersky/articles/732672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732672)
 - [[Перевод] Красивый двоичный поиск без ветвления](https://habr.com/ru/articles/732632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732632)
-- [[Перевод] FTM, который написал MUSIC: точное определение местоположения Wi-Fi-устройств в условиях многолучевости. Часть 1/3](https://habr.com/ru/companies/stc_spb/articles/731530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731530)
-- [Валидация форм без зависимостей](https://habr.com/ru/articles/732690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732690)
-- [Кажется, у меня появился джун](https://habr.com/ru/articles/732684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732684)
-- [React Native vs нативные языки программирования: что выбрать бизнесу?](https://habr.com/ru/articles/732676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
