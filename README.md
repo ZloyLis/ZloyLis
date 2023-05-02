@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Красивый двоичный поиск без ветвления](https://habr.com/ru/articles/732632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732632)
 - [[Перевод] FTM, который написал MUSIC: точное определение местоположения Wi-Fi-устройств в условиях многолучевости. Часть 1/3](https://habr.com/ru/companies/stc_spb/articles/731530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731530)
 - [Валидация форм без зависимостей](https://habr.com/ru/articles/732690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732690)
 - [Кажется, у меня появился джун](https://habr.com/ru/articles/732684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732684)
 - [React Native vs нативные языки программирования: что выбрать бизнесу?](https://habr.com/ru/articles/732676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732676)
-- [Используем модель нейросети на C++](https://habr.com/ru/articles/732670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
