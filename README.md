@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как прошёл чемпионат RuCTF глазами победителей](https://habr.com/ru/companies/vk/articles/732774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732774)
 - [Как за 1,5 месяца создать сайт с нуля и подготовить его к нагрузкам ~230 000 пользователей в день? Кейс Финзачета](https://habr.com/ru/articles/732636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732636)
 - [Открытый код в ИТМО](https://habr.com/ru/companies/spbifmo/articles/732756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732756)
 - [Загрузчик файлов для React](https://habr.com/ru/articles/732764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732764)
 - [Чистый код. Часть 2](https://habr.com/ru/companies/qiwi/articles/730988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730988)
-- [Scala Digest. Выпуск 4](https://habr.com/ru/companies/tinkoff/articles/732306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
