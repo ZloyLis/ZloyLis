@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Гипотеза Коллатца, часть 2](https://habr.com/ru/articles/732920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732920)
 - [Apple Pro Weekly News &lpar;24.04 – 30.04.23&rpar;](https://habr.com/ru/articles/732898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732898)
 - [Представляем вам хранилище на Vercel](https://habr.com/ru/articles/732886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732886)
 - [Модель нелинейной аппроксимации ретеншена](https://habr.com/ru/articles/732882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732882)
 - [Личный опыт ISTQB сертификации для тестировщиков — проверить свой уровень, усовершенствовать навыки](https://habr.com/ru/articles/732872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732872)
-- [3D-принтер на прокачку](https://habr.com/ru/companies/vk/articles/732068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
