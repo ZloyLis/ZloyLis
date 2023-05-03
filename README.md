@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я убеждал блондинку Машу перейти с программирования RTOS в проектирование железа &lpar;а также Coq, Lisp и Haskell&rpar;](https://habr.com/ru/articles/732700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732700)
+- [Как мы боролись с багами при подготовке релиза 1.43 K8s-платформы Deckhouse и какие выводы из этого сделали](https://habr.com/ru/companies/flant/articles/732854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732854)
 - [[recovery mode] О спинорах человеческим языком](https://habr.com/ru/articles/732926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732926)
 - [Мониторинг: измеряем потери пакетов с помощью C++](https://habr.com/ru/articles/732922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732922)
 - [[recovery mode] Гипотеза Коллатца, часть 2](https://habr.com/ru/articles/732920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732920)
-- [Apple Pro Weekly News &lpar;24.04 – 30.04.23&rpar;](https://habr.com/ru/articles/732898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732898)
-- [Модель нелинейной аппроксимации ретеншена](https://habr.com/ru/articles/732882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
