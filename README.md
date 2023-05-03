@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] eBPF и его возможности](https://habr.com/ru/companies/timeweb/articles/733058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733058)
+- [Качественно — значит долго? Как быстро создавать жизнеспособные MVP](https://habr.com/ru/articles/732888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732888)
+- [Я хотел улучшить React](https://habr.com/ru/articles/733094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733094)
+- [Как общаться с ChatGPT с помощью голосовых сообщений в Telegram](https://habr.com/ru/companies/selectel/articles/731692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731692)
 - [[Перевод] Эй, Google, это твой баг](https://habr.com/ru/companies/ruvds/articles/733072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733072)
-- [CoreData для базовых задач одним методом](https://habr.com/ru/companies/cleverpumpkin/articles/733038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733038)
-- [Обзор мобильного приложения Zextras Chats](https://habr.com/ru/companies/Zextras/articles/733022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733022)
-- [yield return](https://habr.com/ru/companies/skbkontur/articles/732704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732704)
-- [[Перевод] Чем раньше, тем лучше: сдвигаем тестирование в начало разработки в среде Kubernetes](https://habr.com/ru/companies/vk/articles/732996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
