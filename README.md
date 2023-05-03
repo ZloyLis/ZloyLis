@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] eBPF и его возможности](https://habr.com/ru/companies/timeweb/articles/733058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733058)
 - [Качественно — значит долго? Как быстро создавать жизнеспособные MVP](https://habr.com/ru/articles/732888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732888)
+- [[Перевод] Лучшие Golang-фреймворки в 2023 году](https://habr.com/ru/companies/southbridge/articles/733100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733100)
 - [Я хотел улучшить React](https://habr.com/ru/articles/733094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733094)
 - [Как общаться с ChatGPT с помощью голосовых сообщений в Telegram](https://habr.com/ru/companies/selectel/articles/731692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731692)
-- [[Перевод] Эй, Google, это твой баг](https://habr.com/ru/companies/ruvds/articles/733072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
