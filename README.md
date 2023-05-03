@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Чем раньше, тем лучше: сдвигаем тестирование в начало разработки в среде Kubernetes](https://habr.com/ru/companies/vk/articles/732996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732996)
 - [Selenoid: Запускаем Appium UI-тесты на iOS. Часть 2](https://habr.com/ru/companies/inDrive/articles/732226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732226)
 - [История о жрущем память API-сервере Kubernetes](https://habr.com/ru/companies/rtlabs/articles/732858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732858)
 - [Автоматизация публикации Android приложений в Google Play и Huawei AppGallery — инструкция от А до Я](https://habr.com/ru/articles/732550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732550)
 - [Интерактивные книги 2: на этот раз про геймдизайн и алгоритмы](https://habr.com/ru/companies/timeweb/articles/732902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732902)
-- [Извлечение открытых данных сайта zakupki.gov.ru с помощью СУБД BaseX](https://habr.com/ru/articles/732976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
