@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Асинхронность как основной подход к разработке высоконагруженных приложений](https://habr.com/ru/articles/733154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733154)
+- [Алгоритмы программы для дозиметра на счетчике Гейгера](https://habr.com/ru/articles/732456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732456)
 - [Как прошел IT’s Tinkoff Solution Cup](https://habr.com/ru/companies/tinkoff/articles/733090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733090)
 - [[Перевод] eBPF и его возможности](https://habr.com/ru/companies/timeweb/articles/733058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733058)
 - [Качественно — значит долго? Как быстро создавать жизнеспособные MVP](https://habr.com/ru/articles/732888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732888)
-- [[Перевод] Лучшие Golang-фреймворки в 2023 году](https://habr.com/ru/companies/southbridge/articles/733100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733100)
-- [Я хотел улучшить React](https://habr.com/ru/articles/733094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
