@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация публикации Android приложений в Google Play и Huawei AppGallery — инструкция от А до Я](https://habr.com/ru/articles/732550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732550)
+- [Интерактивные книги 2: на этот раз про геймдизайн и алгоритмы](https://habr.com/ru/companies/timeweb/articles/732902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732902)
+- [Извлечение открытых данных сайта zakupki.gov.ru с помощью СУБД BaseX](https://habr.com/ru/articles/732976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732976)
+- [Как ускорить бинарный поиск](https://habr.com/ru/articles/732970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732970)
 - [Как я убеждал блондинку Машу перейти с программирования RTOS в проектирование железа &lpar;а также Coq, Lisp и Haskell&rpar;](https://habr.com/ru/articles/732700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732700)
-- [Как мы боролись с багами при подготовке релиза 1.43 K8s-платформы Deckhouse и какие выводы из этого сделали](https://habr.com/ru/companies/flant/articles/732854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732854)
-- [[recovery mode] О спинорах человеческим языком](https://habr.com/ru/articles/732926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732926)
-- [Мониторинг: измеряем потери пакетов с помощью C++](https://habr.com/ru/articles/732922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732922)
-- [[recovery mode] Гипотеза Коллатца, часть 2](https://habr.com/ru/articles/732920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
