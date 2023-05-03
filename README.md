@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CoreData для базовых задач одним методом](https://habr.com/ru/companies/cleverpumpkin/articles/733038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733038)
+- [Обзор мобильного приложения Zextras Chats](https://habr.com/ru/companies/Zextras/articles/733022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733022)
 - [yield return](https://habr.com/ru/companies/skbkontur/articles/732704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732704)
 - [[Перевод] Чем раньше, тем лучше: сдвигаем тестирование в начало разработки в среде Kubernetes](https://habr.com/ru/companies/vk/articles/732996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732996)
 - [Selenoid: Запускаем Appium UI-тесты на iOS. Часть 2](https://habr.com/ru/companies/inDrive/articles/732226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732226)
-- [История о жрущем память API-сервере Kubernetes](https://habr.com/ru/companies/rtlabs/articles/732858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732858)
-- [Автоматизация публикации Android приложений в Google Play и Huawei AppGallery — инструкция от А до Я](https://habr.com/ru/articles/732550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
