@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PySpark для аналитика. Как правильно просить ресурсы и как понять, сколько нужно брать](https://habr.com/ru/companies/avito/articles/732870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732870)
+- [[Перевод] Swift Power Assert](https://habr.com/ru/articles/730788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730788)
 - [Из оператора в Data-инженеры: выверка данных через шаблоны Excel](https://habr.com/ru/companies/sigma/articles/733056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733056)
 - [Принять и отдать: как мы совершенствовали Wi-Fi сигнал](https://habr.com/ru/articles/733286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733286)
 - [[Перевод] Укрощение имен. Как нейминг помогает оптимизировать код](https://habr.com/ru/companies/ncloudtech/articles/733012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733012)
-- [Математическая продлёнка. Математика кривого пропеллера](https://habr.com/ru/articles/733252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733252)
-- [Долгоиграющие приложения на PHP](https://habr.com/ru/companies/oleg-bunin/articles/715844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
