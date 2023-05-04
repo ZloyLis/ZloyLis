@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура microkernel в приложениях: особенности и преимущества](https://habr.com/ru/companies/otus/articles/733374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733374)
+- [Hard skills для входа в тестирование бэка](https://habr.com/ru/companies/inpglobal/articles/733380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733380)
 - [Простая чистая архитектура](https://habr.com/ru/articles/733310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733310)
 - [Что делать, если ужас как хочется купить BMW или швейцарские часы](https://habr.com/ru/companies/tinkoff/articles/733344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733344)
 - [PySpark для аналитика. Как правильно просить ресурсы и как понять, сколько нужно брать](https://habr.com/ru/companies/avito/articles/732870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732870)
-- [[Перевод] Swift Power Assert](https://habr.com/ru/articles/730788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730788)
-- [Из оператора в Data-инженеры: выверка данных через шаблоны Excel](https://habr.com/ru/companies/sigma/articles/733056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
