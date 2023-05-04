@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один из способов ускорения компиляции TypeScript](https://habr.com/ru/articles/733020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733020)
+- [[Перевод] Реализация авторизации на основе ролей в Spring Boot с помощью Keycloak](https://habr.com/ru/companies/otus/articles/733404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733404)
 - [Как я написал удобную оболочку над электронным дневником](https://habr.com/ru/articles/733392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733392)
 - [Архитектура microkernel в приложениях: особенности и преимущества](https://habr.com/ru/companies/otus/articles/733374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733374)
 - [Hard skills для входа в тестирование бэка](https://habr.com/ru/companies/inpglobal/articles/733380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733380)
-- [Простая чистая архитектура](https://habr.com/ru/articles/733310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733310)
-- [Что делать, если ужас как хочется купить BMW или швейцарские часы](https://habr.com/ru/companies/tinkoff/articles/733344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
