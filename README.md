@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Крепкое резюме тестировщика: советы для начинающих и не только](https://habr.com/ru/companies/hh/articles/733108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733108)
-- [[Перевод] Kotlin Coding Conventions](https://habr.com/ru/articles/708074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=708074)
-- [Пишем свой хук для отслеживания изменений в LocalStorage](https://habr.com/ru/articles/733194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733194)
-- [Асинхронность как основной подход к разработке высоконагруженных приложений](https://habr.com/ru/articles/733154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733154)
-- [Алгоритмы программы для дозиметра на счетчике Гейгера](https://habr.com/ru/articles/732456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732456)
+- [Долгоиграющие приложения на PHP](https://habr.com/ru/companies/oleg-bunin/articles/715844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715844)
+- [Из дальнобойщика — в IT: приключение, где нужно быстро учиться и работать без выходных](https://habr.com/ru/companies/it-guide/articles/733272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733272)
+- [Вокруг формулы Пика](https://habr.com/ru/articles/733264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733264)
+- [[Перевод] Эй, разработчики Flutter, я слышал, что вам нравятся модификаторы классов](https://habr.com/ru/articles/733258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733258)
+- [LangChain для бывалых: память и агенты. часть 1](https://habr.com/ru/articles/733262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
