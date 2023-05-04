@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Из оператора в Data-инженеры: выверка данных через шаблоны Excel](https://habr.com/ru/companies/sigma/articles/733056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733056)
+- [Принять и отдать: как мы совершенствовали Wi-Fi сигнал](https://habr.com/ru/articles/733286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733286)
+- [[Перевод] Укрощение имен. Как нейминг помогает оптимизировать код](https://habr.com/ru/companies/ncloudtech/articles/733012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733012)
+- [Математическая продлёнка. Математика кривого пропеллера](https://habr.com/ru/articles/733252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733252)
 - [Долгоиграющие приложения на PHP](https://habr.com/ru/companies/oleg-bunin/articles/715844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=715844)
-- [Из дальнобойщика — в IT: приключение, где нужно быстро учиться и работать без выходных](https://habr.com/ru/companies/it-guide/articles/733272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733272)
-- [Вокруг формулы Пика](https://habr.com/ru/articles/733264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733264)
-- [[Перевод] Эй, разработчики Flutter, я слышал, что вам нравятся модификаторы классов](https://habr.com/ru/articles/733258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733258)
-- [LangChain для бывалых: память и агенты. часть 1](https://habr.com/ru/articles/733262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
