@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 16 простых и эффективных правил дизайна UI](https://habr.com/ru/companies/ruvds/articles/732942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732942)
 - [[Перевод] Расширенные концепции JavaScript для написания качественного, поддерживаемого кода](https://habr.com/ru/articles/733570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733570)
 - [[Перевод] Когда не стоит полагаться на DRY](https://habr.com/ru/companies/sibur_official/articles/733566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733566)
 - [Миграция из Kubernetes в Docker Compose](https://habr.com/ru/articles/733394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733394)
 - [Шаблон проектирования: Composite](https://habr.com/ru/articles/733546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733546)
-- [Модная разработка ПО](https://habr.com/ru/articles/733540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
