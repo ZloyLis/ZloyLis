@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модная разработка ПО](https://habr.com/ru/articles/733540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733540)
+- [Реализация генераторов в языке программирования Ü](https://habr.com/ru/articles/733088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733088)
 - [[Перевод] Управляйте своим Flutter приложением на лету с помощью Firebase Remote Config](https://habr.com/ru/articles/733376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733376)
 - [Dart 3 на практике: что принесёт нам мажорное обновление языка](https://habr.com/ru/companies/surfstudio/articles/733532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733532)
 - [Еще один путь снизить боль при работе с Java проектами и их документированием](https://habr.com/ru/articles/732564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732564)
-- [Инфраструктура Selenium-тестов: как создать связную систему Allure-отчётов без Allure-сервера](https://habr.com/ru/companies/simbirsoft/articles/733486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733486)
-- [Кто победит: средненагруженный Kubernetes или простой list-запрос?](https://habr.com/ru/companies/flant/articles/733268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
