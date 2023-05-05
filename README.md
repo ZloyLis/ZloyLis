@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработчики программного обеспечения скоро перестанут писать код](https://habr.com/ru/companies/ispmanager/articles/733668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733668)
+- [Змейка на PDCurses С++](https://habr.com/ru/articles/733664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733664)
 - [Как мы разрабатываем SDK для RuStore](https://habr.com/ru/companies/vk/articles/733434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733434)
 - [Решаем криптарифмы с помощью алгебры и python](https://habr.com/ru/articles/733642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733642)
 - [Как с помощью нейронной сети снизить дозу КТ, не потеряв в качестве реконструкции](https://habr.com/ru/companies/smartengines/articles/733254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733254)
-- [Как появляются дизайн-системы: рассказываем и показываем на собственном примере](https://habr.com/ru/companies/quadcode/articles/733584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733584)
-- [[Перевод] 16 простых и эффективных правил дизайна UI](https://habr.com/ru/companies/ruvds/articles/732942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
