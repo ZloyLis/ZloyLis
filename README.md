@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Shopify Editions 2023 — крупное обновление в Шопифай](https://habr.com/ru/articles/733480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733480)
+- [Дайте крудошлепа](https://habr.com/ru/articles/733400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733400)
 - [[Перевод] Что такое URL](https://habr.com/ru/articles/733456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733456)
 - [[Перевод] Асинхронные задачи с FastAPI и Celery](https://habr.com/ru/articles/733452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733452)
 - [Один из способов ускорения компиляции TypeScript](https://habr.com/ru/articles/733020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733020)
-- [[Перевод] Реализация авторизации на основе ролей в Spring Boot с помощью Keycloak](https://habr.com/ru/companies/otus/articles/733404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733404)
-- [Как я написал удобную оболочку над электронным дневником](https://habr.com/ru/articles/733392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
