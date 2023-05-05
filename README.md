@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миграция из Kubernetes в Docker Compose](https://habr.com/ru/articles/733394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733394)
+- [Шаблон проектирования: Composite](https://habr.com/ru/articles/733546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733546)
 - [Модная разработка ПО](https://habr.com/ru/articles/733540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733540)
 - [Реализация генераторов в языке программирования Ü](https://habr.com/ru/articles/733088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733088)
 - [[Перевод] Управляйте своим Flutter приложением на лету с помощью Firebase Remote Config](https://habr.com/ru/articles/733376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733376)
-- [Dart 3 на практике: что принесёт нам мажорное обновление языка](https://habr.com/ru/companies/surfstudio/articles/733532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733532)
-- [Еще один путь снизить боль при работе с Java проектами и их документированием](https://habr.com/ru/articles/732564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
