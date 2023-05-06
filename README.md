@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать хороший технический дизайн документ и не провалить проект](https://habr.com/ru/articles/732662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732662)
+- [[Перевод] Создаем клон Instagram при помощи Flutter и Feeds. Часть 3](https://habr.com/ru/articles/733748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733748)
 - [За границей Hello World: полный гайд по разработке Telegram ботов на Python + Aiogram 3. Часть 2: Меню и OpenAI API](https://habr.com/ru/articles/733732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733732)
 - [Begin /* Снова о месте творчества и искусства в программировании](https://habr.com/ru/articles/733698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733698)
 - [[Перевод] Разработчики программного обеспечения скоро перестанут писать код](https://habr.com/ru/companies/ispmanager/articles/733668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733668)
-- [Змейка на PDCurses С++](https://habr.com/ru/articles/733664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733664)
-- [Как мы разрабатываем SDK для RuStore](https://habr.com/ru/companies/vk/articles/733434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
