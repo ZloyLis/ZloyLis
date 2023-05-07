@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рендеринг модальных окон с помощью функций на Vue](https://habr.com/ru/articles/733852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733852)
+- [Как я сдал OSCP и OSWP в 2022 году](https://habr.com/ru/articles/733862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733862)
+- [[Перевод] Вышел Chrome 113](https://habr.com/ru/articles/733858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733858)
 - [Webpack. Создание WebP вместе с Jpeg и Png](https://habr.com/ru/articles/733850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733850)
 - [Мобильная разработка за неделю #487 &lpar;1 — 7 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/733838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733838)
-- [Charles Proxy на пальцах: главный помощник QA и разработчиков](https://habr.com/ru/articles/733834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733834)
-- [Token-Based Authetification в автономных системах посредством Qt6 с использованием Qr-кодов. Http-сервер](https://habr.com/ru/articles/733832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733832)
-- [Token-Based Authetification в автономных системах посредством Qt6 с использованием Qr-кодов](https://habr.com/ru/articles/733788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
