@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] PostgreSQL ltree: обеспечение целостности данных](https://habr.com/ru/articles/733814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733814)
 - [Этот «iPhone» работает на Windows — что может китайский айфон на винде в 2023?](https://habr.com/ru/articles/733494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733494)
 - [Метод генерации столбцов для решения задач математической оптимизации большой размерности](https://habr.com/ru/articles/733804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733804)
 - [[Перевод] Даже Amazon не может разобраться в serverless и микросервисах](https://habr.com/ru/articles/733786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733786)
 - [[Перевод] Масштабирование сервиса мониторинга аудио/видео-потоков в Prime Video со снижением расходов на 90%](https://habr.com/ru/articles/733780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733780)
-- [Как написать хороший технический дизайн документ и не провалить проект](https://habr.com/ru/articles/732662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
