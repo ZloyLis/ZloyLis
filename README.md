@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #487 &lpar;1 — 7 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/733838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733838)
 - [Charles Proxy на пальцах: главный помощник QA и разработчиков](https://habr.com/ru/articles/733834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733834)
 - [Token-Based Authetification в автономных системах посредством Qt6 с использованием Qr-кодов. Http-сервер](https://habr.com/ru/articles/733832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733832)
 - [Token-Based Authetification в автономных системах посредством Qt6 с использованием Qr-кодов](https://habr.com/ru/articles/733788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733788)
 - [[Перевод] PostgreSQL ltree: обеспечение целостности данных](https://habr.com/ru/articles/733814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733814)
-- [Этот «iPhone» работает на Windows — что может китайский айфон на винде в 2023?](https://habr.com/ru/articles/733494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
