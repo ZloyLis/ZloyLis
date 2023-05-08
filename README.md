@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про тестирование мобильных приложений. Часть 3. Cквозное &lpar;UI, e2e&rpar; тестирование](https://habr.com/ru/articles/731062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731062)
 - [«Почему я заваливаю кандидатов на собеседованиях в Google»](https://habr.com/ru/companies/ruvds/articles/733928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733928)
 - [Как я получил сертификат Associate Android Developer](https://habr.com/ru/articles/733932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733932)
 - [Почему мне противно от хакатонов, но все равно в них участвую](https://habr.com/ru/articles/733922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733922)
 - [PostgreSQL, Spring Framework и Android для начинающего разработчика](https://habr.com/ru/articles/733918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733918)
-- [Мейнтейнер на всю жизнь. Даниэль Стенберг, автор curl](https://habr.com/ru/companies/ruvds/articles/733002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
