@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Документирование API сервисов с помощью Swagger на примере фреймворков Express.js и Gin](https://habr.com/ru/articles/733868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733868)
 - [Рендеринг модальных окон с помощью функций на Vue](https://habr.com/ru/articles/733852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733852)
 - [Как я сдал OSCP и OSWP в 2022 году](https://habr.com/ru/articles/733862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733862)
 - [[Перевод] Вышел Chrome 113](https://habr.com/ru/articles/733858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733858)
 - [Webpack. Создание WebP вместе с Jpeg и Png](https://habr.com/ru/articles/733850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733850)
-- [Мобильная разработка за неделю #487 &lpar;1 — 7 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/733838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
