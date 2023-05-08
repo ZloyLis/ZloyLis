@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему мне противно от хакатонов, но все равно в них участвую](https://habr.com/ru/articles/733922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733922)
 - [PostgreSQL, Spring Framework и Android для начинающего разработчика](https://habr.com/ru/articles/733918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733918)
 - [Мейнтейнер на всю жизнь. Даниэль Стенберг, автор curl](https://habr.com/ru/companies/ruvds/articles/733002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733002)
 - [Документирование API сервисов с помощью Swagger на примере фреймворков Express.js и Gin](https://habr.com/ru/articles/733868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733868)
 - [Рендеринг модальных окон с помощью функций на Vue](https://habr.com/ru/articles/733852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733852)
-- [Как я сдал OSCP и OSWP в 2022 году](https://habr.com/ru/articles/733862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
