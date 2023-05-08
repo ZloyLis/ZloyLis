@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Три способа отладки T-SQL кода](https://habr.com/ru/articles/733950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733950)
 - [Разбираемся с использованием неблокируещего ввода-вывода в ОС Linux. Пишем пример сервера на голых системных вызовах](https://habr.com/ru/articles/733948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733948)
 - [Про тестирование мобильных приложений. Часть 3. Cквозное &lpar;UI, e2e&rpar; тестирование](https://habr.com/ru/articles/731062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731062)
 - [Как я получил сертификат Associate Android Developer](https://habr.com/ru/articles/733932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733932)
 - [Почему мне противно от хакатонов, но все равно в них участвую](https://habr.com/ru/articles/733922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733922)
-- [PostgreSQL, Spring Framework и Android для начинающего разработчика](https://habr.com/ru/articles/733918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
