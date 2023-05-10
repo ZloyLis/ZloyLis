@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вам нужен медиатор](https://habr.com/ru/articles/734302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734302)
+- [Дешевый как автобус, удобный как такси: перспективный вид общественного транспорта для больших и средних городов. Часть3](https://habr.com/ru/articles/734022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734022)
 - [Алгоритм Байеса для аналитики данных](https://habr.com/ru/companies/otus/articles/733598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733598)
 - [Реализация утилиты cat на C](https://habr.com/ru/articles/734254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734254)
 - [7 ошибок глобального рефакторинга и как их избежать](https://habr.com/ru/articles/733302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733302)
-- [React: революция использования фигурных скобочек](https://habr.com/ru/articles/727542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727542)
-- [Butterflynet. Обзор приложения с JS на Android](https://habr.com/ru/articles/734244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
