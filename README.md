@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать iOS-разработчиком?](https://habr.com/ru/companies/kts/articles/734166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734166)
+- [Как реализовать end-to-end-тестирование telegram-бота](https://habr.com/ru/companies/beeline_cloud/articles/734164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734164)
+- [Как правильно подходить к UI/UX дизайну](https://habr.com/ru/articles/734160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734160)
 - [LangChain для бывалых — память и агенты. часть 2](https://habr.com/ru/articles/734146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734146)
 - [RSync на стероидах с поддержкой Windows](https://habr.com/ru/companies/ruvds/articles/734070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734070)
-- [Security Week 2319: стандарт обнаружения геометок-шпионов](https://habr.com/ru/companies/kaspersky/articles/734116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734116)
-- [Облегчаем жизнь разработчиков на Go: полезные советы и лайфхаки для начинающих](https://habr.com/ru/companies/cloud_mts/articles/733956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733956)
-- [Как мы разработали российскую систему предбиллинга на замену решениям HP и Oracle](https://habr.com/ru/companies/billing/articles/734118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
