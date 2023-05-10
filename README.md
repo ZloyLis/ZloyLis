@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RSync на стероидах с поддержкой Windows](https://habr.com/ru/companies/ruvds/articles/734070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734070)
+- [Security Week 2319: стандарт обнаружения геометок-шпионов](https://habr.com/ru/companies/kaspersky/articles/734116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734116)
 - [Облегчаем жизнь разработчиков на Go: полезные советы и лайфхаки для начинающих](https://habr.com/ru/companies/cloud_mts/articles/733956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733956)
 - [Spatium: цифровой завод в браузере или 3D в контексте клиент-серверных web приложений](https://habr.com/ru/companies/bimeister/articles/734110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734110)
 - [Потратили $50&#39;000 на создание интерактивного QA-учебника, перевели на русский и выложили бесплатно](https://habr.com/ru/articles/734096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734096)
-- [Решаем криптографическую задачу: Из России с любовью](https://habr.com/ru/companies/first/articles/734004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734004)
-- [«Внешняя» навигация в многомодульном проекте на Kotlin](https://habr.com/ru/companies/doubletapp/articles/732816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
