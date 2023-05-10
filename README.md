@@ -35,7 +35,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [React: революция использования фигурных скобочек](https://habr.com/ru/articles/727542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727542)
+- [7 ошибок глобального рефакторинга и как их избежать](https://habr.com/ru/articles/733302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733302)
 - [Butterflynet. Обзор приложения с JS на Android](https://habr.com/ru/articles/734244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734244)
 - [[Перевод] Почему работать с OAuth сложно даже сегодня?](https://habr.com/ru/companies/ruvds/articles/734204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734204)
 - [Делегировать, искать подход и шутить: 11 правил жизни руководителя QA-отдела](https://habr.com/ru/companies/redmadrobot/articles/734224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734224)
