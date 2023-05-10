@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift async/await на примерах](https://habr.com/ru/articles/728732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728732)
 - [Telegram Bot на Kotlin:… и в продакшн](https://habr.com/ru/articles/734298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734298)
 - [Вам нужен медиатор](https://habr.com/ru/articles/734302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734302)
 - [Дешевый как автобус, удобный как такси: перспективный вид общественного транспорта для больших и средних городов. Часть3](https://habr.com/ru/articles/734022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734022)
 - [Алгоритм Байеса для аналитики данных](https://habr.com/ru/companies/otus/articles/733598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733598)
-- [Реализация утилиты cat на C](https://habr.com/ru/articles/734254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
