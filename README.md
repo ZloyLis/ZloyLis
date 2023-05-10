@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование отображения формул из старого редактора](https://habr.com/ru/articles/734232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734232)
+- [[Перевод] Почему работать с OAuth сложно даже сегодня?](https://habr.com/ru/companies/ruvds/articles/734204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734204)
+- [Делегировать, искать подход и шутить: 11 правил жизни руководителя QA-отдела](https://habr.com/ru/companies/redmadrobot/articles/734224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734224)
+- [Готовые кластеры Kubernetes или самостоятельное развертывание? Что выбрать](https://habr.com/ru/companies/selectel/articles/734052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734052)
 - [[Перевод] Как структурировать проекты машинного обучения с помощью GitHub и VS Code: полная инструкция с настройками и шаблонами](https://habr.com/ru/companies/vk/articles/733000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733000)
-- [Урок на Unity. Интерактивное взаимодействие игрока с окружающими предметами в 3D с помощью меток](https://habr.com/ru/articles/734192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734192)
-- [Беда «войти в айти» или курсы тестировщика отзывы: Список худших* курсов по числу трудоустраивающихся выпускников](https://habr.com/ru/articles/734152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734152)
-- [Как стать iOS-разработчиком?](https://habr.com/ru/companies/kts/articles/734166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734166)
-- [Как реализовать end-to-end-тестирование telegram-бота](https://habr.com/ru/companies/beeline_cloud/articles/734164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
