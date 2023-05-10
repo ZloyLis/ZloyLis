@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Про оффер: нормально делай – нормально будет](https://habr.com/ru/articles/734094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734094)
-- [JavaScript для самых маленьких. Часть 2](https://habr.com/ru/companies/lanit/articles/733064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733064)
-- [Интервью с создателем обобщённого программирования Александром Степановым](https://habr.com/ru/companies/jugru/articles/734048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734048)
-- [Управлять инструментом, который управляет всем: наш путь к GitOps](https://habr.com/ru/companies/dyninno/articles/733582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733582)
-- [Производная с вещественным показателем](https://habr.com/ru/articles/734000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734000)
+- [Облегчаем жизнь разработчиков на Go: полезные советы и лайфхаки для начинающих](https://habr.com/ru/companies/cloud_mts/articles/733956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733956)
+- [Spatium: цифровой завод в браузере или 3D в контексте клиент-серверных web приложений](https://habr.com/ru/companies/bimeister/articles/734110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734110)
+- [Потратили $50&#39;000 на создание интерактивного QA-учебника, перевели на русский и выложили бесплатно](https://habr.com/ru/articles/734096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734096)
+- [Решаем криптографическую задачу: Из России с любовью](https://habr.com/ru/companies/first/articles/734004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734004)
+- [«Внешняя» навигация в многомодульном проекте на Kotlin](https://habr.com/ru/companies/doubletapp/articles/732816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
