@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про оффер: нормально делай – нормально будет](https://habr.com/ru/articles/734094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734094)
+- [JavaScript для самых маленьких. Часть 2](https://habr.com/ru/companies/lanit/articles/733064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733064)
+- [Интервью с создателем обобщённого программирования Александром Степановым](https://habr.com/ru/companies/jugru/articles/734048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734048)
 - [Управлять инструментом, который управляет всем: наш путь к GitOps](https://habr.com/ru/companies/dyninno/articles/733582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733582)
 - [Производная с вещественным показателем](https://habr.com/ru/articles/734000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734000)
-- [VSСode. Как настроить окружение для разработки в Docker на удаленном сервере через SSH](https://habr.com/ru/articles/734062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734062)
-- [Язык PL/I: десять тонн синтаксического сахара](https://habr.com/ru/articles/734028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734028)
-- [Kerberos аутентификация при подключении из Java к MSSQL](https://habr.com/ru/articles/734030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
