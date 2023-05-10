@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тестирование отображения формул из старого редактора](https://habr.com/ru/articles/734232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734232)
+- [React: революция использования фигурных скобочек](https://habr.com/ru/articles/727542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727542)
+- [Butterflynet. Обзор приложения с JS на Android](https://habr.com/ru/articles/734244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734244)
 - [[Перевод] Почему работать с OAuth сложно даже сегодня?](https://habr.com/ru/companies/ruvds/articles/734204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734204)
 - [Делегировать, искать подход и шутить: 11 правил жизни руководителя QA-отдела](https://habr.com/ru/companies/redmadrobot/articles/734224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734224)
 - [Готовые кластеры Kubernetes или самостоятельное развертывание? Что выбрать](https://habr.com/ru/companies/selectel/articles/734052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734052)
-- [[Перевод] Как структурировать проекты машинного обучения с помощью GitHub и VS Code: полная инструкция с настройками и шаблонами](https://habr.com/ru/companies/vk/articles/733000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
