@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как структурировать проекты машинного обучения с помощью GitHub и VS Code: полная инструкция с настройками и шаблонами](https://habr.com/ru/companies/vk/articles/733000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733000)
+- [Урок на Unity. Интерактивное взаимодействие игрока с окружающими предметами в 3D с помощью меток](https://habr.com/ru/articles/734192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734192)
+- [Беда «войти в айти» или курсы тестировщика отзывы: Список худших* курсов по числу трудоустраивающихся выпускников](https://habr.com/ru/articles/734152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734152)
 - [Как стать iOS-разработчиком?](https://habr.com/ru/companies/kts/articles/734166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734166)
 - [Как реализовать end-to-end-тестирование telegram-бота](https://habr.com/ru/companies/beeline_cloud/articles/734164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734164)
-- [Как правильно подходить к UI/UX дизайну](https://habr.com/ru/articles/734160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734160)
-- [LangChain для бывалых — память и агенты. часть 2](https://habr.com/ru/articles/734146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734146)
-- [RSync на стероидах с поддержкой Windows](https://habr.com/ru/companies/ruvds/articles/734070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
