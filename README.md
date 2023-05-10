@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [VSСode. Как настроить окружение для разработки в Docker на удаленном сервере через SSH](https://habr.com/ru/articles/734062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734062)
-- [Язык PL/I: десять тонн синтаксического сахара](https://habr.com/ru/articles/734028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734028)
 - [Kerberos аутентификация при подключении из Java к MSSQL](https://habr.com/ru/articles/734030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734030)
 - [Token-Based Authetification в автономных системах посредством Qt6 с использованием Qr-кодов. Qr-коды](https://habr.com/ru/articles/734032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734032)
 - [Алгоритмы поиска подстроки на JavaScript](https://habr.com/ru/articles/733998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733998)
+- [[Перевод] Понимание и тестирование адаптивного веб-дизайна](https://habr.com/ru/articles/733938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733938)
+- [[Паттерны API] Списки и организация доступа к ним](https://habr.com/ru/articles/733978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
