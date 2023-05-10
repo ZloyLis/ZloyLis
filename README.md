@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм Байеса для аналитики данных](https://habr.com/ru/companies/otus/articles/733598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733598)
+- [Реализация утилиты cat на C](https://habr.com/ru/articles/734254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734254)
 - [7 ошибок глобального рефакторинга и как их избежать](https://habr.com/ru/articles/733302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733302)
+- [React: революция использования фигурных скобочек](https://habr.com/ru/articles/727542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727542)
 - [Butterflynet. Обзор приложения с JS на Android](https://habr.com/ru/articles/734244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734244)
-- [[Перевод] Почему работать с OAuth сложно даже сегодня?](https://habr.com/ru/companies/ruvds/articles/734204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734204)
-- [Делегировать, искать подход и шутить: 11 правил жизни руководителя QA-отдела](https://habr.com/ru/companies/redmadrobot/articles/734224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734224)
-- [Готовые кластеры Kubernetes или самостоятельное развертывание? Что выбрать](https://habr.com/ru/companies/selectel/articles/734052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
