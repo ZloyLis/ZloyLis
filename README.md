@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильная аналитика в hh.ru и не только](https://habr.com/ru/companies/hh/articles/734158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734158)
-- [Swift async/await на примерах](https://habr.com/ru/articles/728732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728732)
-- [Telegram Bot на Kotlin:… и в продакшн](https://habr.com/ru/articles/734298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734298)
-- [Вам нужен медиатор](https://habr.com/ru/articles/734302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734302)
-- [Дешевый как автобус, удобный как такси: перспективный вид общественного транспорта для больших и средних городов. Часть3](https://habr.com/ru/articles/734022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734022)
+- [Установка Laravel-приложений на хостинг с ispmanager](https://habr.com/ru/companies/ispmanager/articles/730268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730268)
+- [Полезные команды GNU/Linux для разработчика. Часть 2](https://habr.com/ru/companies/maxilect/articles/734276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734276)
+- [Шаблон Котлин-приложения](https://habr.com/ru/articles/733722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733722)
+- [Как приготовить Kubernetes: бэкапирование и схема работы через kube API](https://habr.com/ru/companies/dbraincloud/articles/734188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734188)
+- [Как Kinect только Pinect](https://habr.com/ru/articles/724232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
