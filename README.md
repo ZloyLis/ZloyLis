@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработка на основе DevRel](https://habr.com/ru/companies/otus/articles/734532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734532)
+- [SQL HowTo: замена в строке по набору](https://habr.com/ru/companies/tensor/articles/734478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734478)
+- [Делаем свой генератор CRUD для asp.net mvc &lpar;часть 1 — получаем данные&rpar;](https://habr.com/ru/articles/734520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734520)
 - [JavaCard как второй фактор аутентификации в Android-приложении](https://habr.com/ru/articles/734516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734516)
 - [Как мы отказались от поддержки Internet Explorer в интернет-клиент-банке и никто не пострадал](https://habr.com/ru/companies/rosbank/articles/734512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734512)
-- [Google I/O 2023. Что нового в Kotlin для Android?](https://habr.com/ru/articles/734338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734338)
-- [«Карманный синоптик за час». Пишем Telegram-бота для мониторинга погоды на Python](https://habr.com/ru/companies/selectel/articles/734194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734194)
-- [Надстройка импорта банковских выписок 1С в Excel](https://habr.com/ru/articles/734486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
