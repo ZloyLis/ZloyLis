@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Консерватизм пользователей программных продуктов](https://habr.com/ru/companies/lsfusion/articles/732286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732286)
+- [BlackBerry Passport за 2.500 рублей в 2023 — шедевральный QWERTY смартфон. Справится ли с повседневными задачами?](https://habr.com/ru/companies/timeweb/articles/733890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733890)
+- [Go-митап для тех, кто переходит или недавно перешел на Go](https://habr.com/ru/companies/yadro/articles/733648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733648)
 - [Установка Laravel-приложений на хостинг с ispmanager](https://habr.com/ru/companies/ispmanager/articles/730268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730268)
 - [Полезные команды GNU/Linux для разработчика. Часть 2](https://habr.com/ru/companies/maxilect/articles/734276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734276)
-- [Шаблон Котлин-приложения](https://habr.com/ru/articles/733722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733722)
-- [Как приготовить Kubernetes: бэкапирование и схема работы через kube API](https://habr.com/ru/companies/dbraincloud/articles/734188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734188)
-- [Как Kinect только Pinect](https://habr.com/ru/articles/724232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
