@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гибкие смартфоны: как развивается рынок, и есть ли у него будущее](https://habr.com/ru/companies/sberbank/articles/734474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734474)
+- [[Перевод] Готовим наши приложения к Swift 6](https://habr.com/ru/companies/otus/articles/734468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734468)
 - [[Перевод] Анонс Dart 3](https://habr.com/ru/articles/734396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734396)
 - [Удобства и боли рендеринга с React-pdf: опыт использования](https://habr.com/ru/companies/kaspersky/articles/734144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734144)
 - [Создаём репозиторий в Go через менеджер транзакций](https://habr.com/ru/companies/avito/articles/727168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727168)
-- [Как сделать сервисы доступнее для людей с нарушениями зрения. Исправляем 5 самых частых ошибок](https://habr.com/ru/companies/yandex/articles/733608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733608)
-- [Vaadin или как стать full-stack разработчиком](https://habr.com/ru/articles/734380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
