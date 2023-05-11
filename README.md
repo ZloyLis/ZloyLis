@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaCard как второй фактор аутентификации в Android-приложении](https://habr.com/ru/articles/734516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734516)
+- [Как мы отказались от поддержки Internet Explorer в интернет-клиент-банке и никто не пострадал](https://habr.com/ru/companies/rosbank/articles/734512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734512)
 - [Google I/O 2023. Что нового в Kotlin для Android?](https://habr.com/ru/articles/734338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734338)
+- [«Карманный синоптик за час». Пишем Telegram-бота для мониторинга погоды на Python](https://habr.com/ru/companies/selectel/articles/734194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734194)
 - [Надстройка импорта банковских выписок 1С в Excel](https://habr.com/ru/articles/734486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734486)
-- [Гибкие смартфоны: как развивается рынок, и есть ли у него будущее](https://habr.com/ru/companies/sberbank/articles/734474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734474)
-- [[Перевод] Готовим наши приложения к Swift 6](https://habr.com/ru/companies/otus/articles/734468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734468)
-- [[Перевод] Анонс Dart 3](https://habr.com/ru/articles/734396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
