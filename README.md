@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рогатая сфера Александера — дикая конструкция, которая стала одним из символов топологии](https://habr.com/ru/articles/734600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734600)
 - [[Перевод] Разработка на основе DevRel](https://habr.com/ru/companies/otus/articles/734532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734532)
 - [SQL HowTo: замена в строке по набору](https://habr.com/ru/companies/tensor/articles/734478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734478)
 - [Делаем свой генератор CRUD для asp.net mvc &lpar;часть 1 — получаем данные&rpar;](https://habr.com/ru/articles/734520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734520)
 - [JavaCard как второй фактор аутентификации в Android-приложении](https://habr.com/ru/articles/734516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734516)
-- [Как мы отказались от поддержки Internet Explorer в интернет-клиент-банке и никто не пострадал](https://habr.com/ru/companies/rosbank/articles/734512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
