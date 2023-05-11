@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Консерватизм пользователей программных продуктов](https://habr.com/ru/companies/lsfusion/articles/732286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732286)
-- [BlackBerry Passport за 2.500 рублей в 2023 — шедевральный QWERTY смартфон. Справится ли с повседневными задачами?](https://habr.com/ru/companies/timeweb/articles/733890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733890)
-- [Go-митап для тех, кто переходит или недавно перешел на Go](https://habr.com/ru/companies/yadro/articles/733648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733648)
-- [Установка Laravel-приложений на хостинг с ispmanager](https://habr.com/ru/companies/ispmanager/articles/730268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730268)
-- [Полезные команды GNU/Linux для разработчика. Часть 2](https://habr.com/ru/companies/maxilect/articles/734276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734276)
+- [Как сделать сервисы доступнее для людей с нарушениями зрения. Исправляем 5 самых частых ошибок](https://habr.com/ru/companies/yandex/articles/733608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733608)
+- [Vaadin или как стать full-stack разработчиком](https://habr.com/ru/articles/734380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734380)
+- [QAk-QAk мы запускали подкаст](https://habr.com/ru/companies/tinkoff/articles/732814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732814)
+- [Пуш-уведомления в RuStore: как мы сделали свой транспорт на замену Google Firebase](https://habr.com/ru/companies/oleg-bunin/articles/728516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728516)
+- [Устраняем недостаток микрофронтендов: четыре способа коммуникации между frontend-приложениями](https://habr.com/ru/companies/simbirsoft/articles/734342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
