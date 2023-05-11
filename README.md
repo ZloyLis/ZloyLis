@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Анонс Dart 3](https://habr.com/ru/articles/734396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734396)
+- [Удобства и боли рендеринга с React-pdf: опыт использования](https://habr.com/ru/companies/kaspersky/articles/734144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734144)
+- [Создаём репозиторий в Go через менеджер транзакций](https://habr.com/ru/companies/avito/articles/727168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727168)
 - [Как сделать сервисы доступнее для людей с нарушениями зрения. Исправляем 5 самых частых ошибок](https://habr.com/ru/companies/yandex/articles/733608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733608)
 - [Vaadin или как стать full-stack разработчиком](https://habr.com/ru/articles/734380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734380)
-- [QAk-QAk мы запускали подкаст](https://habr.com/ru/companies/tinkoff/articles/732814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732814)
-- [Пуш-уведомления в RuStore: как мы сделали свой транспорт на замену Google Firebase](https://habr.com/ru/companies/oleg-bunin/articles/728516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728516)
-- [Устраняем недостаток микрофронтендов: четыре способа коммуникации между frontend-приложениями](https://habr.com/ru/companies/simbirsoft/articles/734342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
