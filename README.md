@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2023. Что нового в Kotlin для Android?](https://habr.com/ru/articles/734338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734338)
+- [Надстройка импорта банковских выписок 1С в Excel](https://habr.com/ru/articles/734486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734486)
 - [Гибкие смартфоны: как развивается рынок, и есть ли у него будущее](https://habr.com/ru/companies/sberbank/articles/734474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734474)
 - [[Перевод] Готовим наши приложения к Swift 6](https://habr.com/ru/companies/otus/articles/734468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734468)
 - [[Перевод] Анонс Dart 3](https://habr.com/ru/articles/734396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734396)
-- [Удобства и боли рендеринга с React-pdf: опыт использования](https://habr.com/ru/companies/kaspersky/articles/734144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734144)
-- [Создаём репозиторий в Go через менеджер транзакций](https://habr.com/ru/companies/avito/articles/727168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
