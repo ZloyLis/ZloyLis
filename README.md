@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Паттерны API] Двунаправленные потоки данных. Push и poll-модели](https://habr.com/ru/articles/734630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734630)
+- [«Хакер»: Python с абсолютного нуля! Учимся кодить без скучных книжек](https://habr.com/ru/companies/xakep/articles/734622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734622)
 - [[recovery mode] Samoyed CMG — генератор API](https://habr.com/ru/articles/722970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722970)
 - [Фантомный double в прошивках для ядер Cortex-M*](https://habr.com/ru/articles/734604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734604)
 - [Рогатая сфера Александера — дикая конструкция, которая стала одним из символов топологии](https://habr.com/ru/articles/734600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734600)
-- [[Перевод] Разработка на основе DevRel](https://habr.com/ru/companies/otus/articles/734532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734532)
-- [SQL HowTo: замена в строке по набору](https://habr.com/ru/companies/tensor/articles/734478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
