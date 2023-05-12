@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я подал 1000 откликов на вакансии и устроился тестировщиком в Ozon](https://habr.com/ru/companies/yandex_praktikum/articles/734522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734522)
+- [Зачем компании Skills Set и можно ли разложить по полочкам навыки разработчиков](https://habr.com/ru/companies/selectel/articles/734500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734500)
 - [Кэширование](https://habr.com/ru/articles/734660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734660)
 - [Как обработать ответ multipart/form-data с rest template или web client](https://habr.com/ru/articles/734638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734638)
 - [[Паттерны API] Двунаправленные потоки данных. Push и poll-модели](https://habr.com/ru/articles/734630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734630)
-- [«Хакер»: Python с абсолютного нуля! Учимся кодить без скучных книжек](https://habr.com/ru/companies/xakep/articles/734622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734622)
-- [[recovery mode] Samoyed CMG — генератор API](https://habr.com/ru/articles/722970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
