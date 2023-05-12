@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тёмная сторона Mac App Store: как скам-приложения и серые разработчики охотятся на пользователей](https://habr.com/ru/companies/ruvds/articles/733306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733306)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 6&rpar;](https://habr.com/ru/articles/732738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732738)
 - [Как я подал 1000 откликов на вакансии и устроился тестировщиком в Ozon](https://habr.com/ru/companies/yandex_praktikum/articles/734522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734522)
 - [Кэширование](https://habr.com/ru/articles/734660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734660)
 - [Как обработать ответ multipart/form-data с rest template или web client](https://habr.com/ru/articles/734638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734638)
-- [[Паттерны API] Двунаправленные потоки данных. Push и poll-модели](https://habr.com/ru/articles/734630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
