@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ сингулярного спектра](https://habr.com/ru/companies/otus/articles/734780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734780)
 - [[Перевод] Обзор книги «README. Суровые реалии разработчиков»](https://habr.com/ru/companies/piter/articles/734676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734676)
 - [[Перевод] Тёмная сторона Mac App Store: как скам-приложения и серые разработчики охотятся на пользователей](https://habr.com/ru/companies/ruvds/articles/733306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733306)
 - [Как и зачем аналитику проводить UX тесты. Часть первая](https://habr.com/ru/companies/koshelek/articles/734714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734714)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 6&rpar;](https://habr.com/ru/articles/732738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732738)
-- [Как я подал 1000 откликов на вакансии и устроился тестировщиком в Ozon](https://habr.com/ru/companies/yandex_praktikum/articles/734522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
