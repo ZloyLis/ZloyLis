@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Samoyed CMG — генератор API](https://habr.com/ru/articles/722970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722970)
 - [Фантомный double в прошивках для ядер Cortex-M*](https://habr.com/ru/articles/734604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734604)
 - [Рогатая сфера Александера — дикая конструкция, которая стала одним из символов топологии](https://habr.com/ru/articles/734600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734600)
 - [[Перевод] Разработка на основе DevRel](https://habr.com/ru/companies/otus/articles/734532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734532)
 - [SQL HowTo: замена в строке по набору](https://habr.com/ru/companies/tensor/articles/734478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734478)
-- [Делаем свой генератор CRUD для asp.net mvc &lpar;часть 1 — получаем данные&rpar;](https://habr.com/ru/articles/734520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
