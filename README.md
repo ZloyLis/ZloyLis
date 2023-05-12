@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гипотеза Коллатца. Взгляд со стороны двоичной системы счислений](https://habr.com/ru/articles/734816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734816)
 - [Шаблон для асинхронной торговой стратегии](https://habr.com/ru/articles/734806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734806)
 - [[recovery mode] GptGram — приложение для создания контента, на базе ИИ OpenAI GPT-4 и Midjourney V5](https://habr.com/ru/articles/734800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734800)
 - [Анализ сингулярного спектра](https://habr.com/ru/companies/otus/articles/734780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734780)
 - [[Перевод] Обзор книги «README. Суровые реалии разработчиков»](https://habr.com/ru/companies/piter/articles/734676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734676)
-- [[Перевод] Тёмная сторона Mac App Store: как скам-приложения и серые разработчики охотятся на пользователей](https://habr.com/ru/companies/ruvds/articles/733306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
