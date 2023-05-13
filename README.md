@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Валидируем X509 сертификат с OpenSSL C++](https://habr.com/ru/articles/734894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734894)
 - [Picture in Picture Mode в android. Показываем видео в мини-окне](https://habr.com/ru/articles/734890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734890)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;13 мая — 25 мая 2023&rpar;](https://habr.com/ru/articles/734830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734830)
 - [Разбор Android 13 для разработчиков](https://habr.com/ru/companies/broadcast/articles/728096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728096)
 - [Повышение точности решения плохо обусловленных СЛАУ методом Гаусса](https://habr.com/ru/articles/734844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734844)
-- [Запуск автотестов Cypress в Docker контейнерах с использованием различных Docker образов](https://habr.com/ru/articles/734820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
