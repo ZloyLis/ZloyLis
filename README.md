@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [True-crime в IT: аналитик пытался убить &lpar;в себе&rpar; менеджера](https://habr.com/ru/articles/734902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734902)
+- [Про основы API, Rest API для начинающего тестировщика. Какой запрос быстрее? 2023](https://habr.com/ru/articles/734900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734900)
 - [Валидируем X509 сертификат с OpenSSL C++](https://habr.com/ru/articles/734894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734894)
 - [Picture in Picture Mode в android. Показываем видео в мини-окне](https://habr.com/ru/articles/734890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734890)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;13 мая — 25 мая 2023&rpar;](https://habr.com/ru/articles/734830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734830)
-- [Разбор Android 13 для разработчиков](https://habr.com/ru/companies/broadcast/articles/728096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728096)
-- [Повышение точности решения плохо обусловленных СЛАУ методом Гаусса](https://habr.com/ru/articles/734844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
