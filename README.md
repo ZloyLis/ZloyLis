@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбор Android 13](https://habr.com/ru/companies/broadcast/articles/728096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728096)
 - [Повышение точности решения плохо обусловленных СЛАУ методом Гаусса](https://habr.com/ru/articles/734844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734844)
 - [Запуск автотестов Cypress в Docker контейнерах с использованием различных Docker образов](https://habr.com/ru/articles/734820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734820)
 - [Гипотеза Коллатца. Взгляд со стороны двоичной системы счислений](https://habr.com/ru/articles/734816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734816)
 - [Шаблон для асинхронной торговой стратегии](https://habr.com/ru/articles/734806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734806)
-- [[recovery mode] GptGram — приложение для создания контента, на базе ИИ OpenAI GPT-4 и Midjourney V5](https://habr.com/ru/articles/734800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
