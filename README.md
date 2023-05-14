@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #488 &lpar;8 — 14 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/734966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734966)
+- [Jetpack Compose: Expandable Text](https://habr.com/ru/articles/734964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734964)
 - [47 лет польский художник рисовал всего одну картину… из чисел! Смысл жизни Романа Опалки](https://habr.com/ru/articles/734944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734944)
 - [Автоматическая регистрация по атрибутам для .net](https://habr.com/ru/articles/734938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734938)
 - [Как мы исследовали запросы аудитории, чтобы собрать актуальную программу для FrontendConf 2023](https://habr.com/ru/companies/oleg-bunin/articles/660699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=660699)
-- [Поднимаем Kubernetes с нуля](https://habr.com/ru/articles/734928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734928)
-- [Код-ревью: зачем нужен и как его правильно готовить](https://habr.com/ru/companies/yandex_praktikum/articles/734568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
