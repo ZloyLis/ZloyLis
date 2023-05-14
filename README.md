@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поднимаем Kubernetes с нуля](https://habr.com/ru/articles/734928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734928)
+- [Код-ревью: зачем нужен и как его правильно готовить](https://habr.com/ru/companies/yandex_praktikum/articles/734568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734568)
 - [Четыре платформы — один код. Что такое Compose Multiplatform?](https://habr.com/ru/companies/timeweb/articles/734818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734818)
 - [Родительский helm chart для проектов + werf](https://habr.com/ru/articles/734922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734922)
 - [True-crime в IT: аналитик пытался убить &lpar;в себе&rpar; менеджера](https://habr.com/ru/articles/734902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734902)
-- [Про основы API, Rest API для начинающего тестировщика. Какой запрос быстрее? 2023](https://habr.com/ru/articles/734900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734900)
-- [Валидируем X509 сертификат с OpenSSL C++](https://habr.com/ru/articles/734894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
