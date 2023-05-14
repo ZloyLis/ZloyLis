@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Первый опыт работы с GitHub Copilot X: взгляд программиста](https://habr.com/ru/companies/ispmanager/articles/734990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734990)
+- [Тренды в оформлении визуальных метаданных и встроенных событий в приложениях для знакомств в Apple Store US](https://habr.com/ru/articles/734996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734996)
 - [Делаем пагинацию в React приложении](https://habr.com/ru/articles/734980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734980)
 - [Мобильная разработка за неделю #488 &lpar;8 — 14 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/734966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734966)
 - [Jetpack Compose: Expandable Text](https://habr.com/ru/articles/734964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734964)
-- [47 лет польский художник рисовал всего одну картину… из чисел! Смысл жизни Романа Опалки](https://habr.com/ru/articles/734944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734944)
-- [Автоматическая регистрация по атрибутам для .net](https://habr.com/ru/articles/734938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
