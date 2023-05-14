@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] FTM, который написал MUSIC: точное определение местоположения Wi-Fi-устройств в условиях многолучевости.Часть 2/3](https://habr.com/ru/companies/stc_spb/articles/731750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731750)
+- [6. Устойчивость систем автоматического управления. 6.6 Понятие об областях устойчивости](https://habr.com/ru/articles/732448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732448)
 - [Единица по Бурбаки. Красота запредельной абстрактности](https://habr.com/ru/articles/734932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734932)
 - [[Перевод] Первый опыт работы с GitHub Copilot X: взгляд программиста](https://habr.com/ru/companies/ispmanager/articles/734990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734990)
 - [Тренды в оформлении визуальных метаданных и встроенных событий в приложениях для знакомств в Apple Store US](https://habr.com/ru/articles/734996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734996)
-- [Делаем пагинацию в React приложении](https://habr.com/ru/articles/734980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734980)
-- [Мобильная разработка за неделю #488 &lpar;8 — 14 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/734966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
