@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модульная архитектура — анализ зависимостей](https://habr.com/ru/articles/733860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733860)
+- [Использование Spring Cloud Gateway в качестве OAuth2 клиента  и KeyCloak для защиты служб](https://habr.com/ru/articles/735076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735076)
+- [Перевод с программистского: как убедить бизнес инвестировать в технику](https://habr.com/ru/articles/734666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734666)
+- [Свобода воли c точки зрения точных наук](https://habr.com/ru/articles/734882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734882)
 - [[Паттерны API] Мультиплексирование сообщений. Асинхронная обработка событий](https://habr.com/ru/articles/735064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735064)
-- [[Перевод] Julia 1.9 Основные моменты](https://habr.com/ru/articles/735014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735014)
-- [[Перевод] FTM, который написал MUSIC: точное определение местоположения Wi-Fi-устройств в условиях многолучевости.Часть 2/3](https://habr.com/ru/companies/stc_spb/articles/731750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731750)
-- [6. Устойчивость систем автоматического управления. 6.6 Понятие об областях устойчивости](https://habr.com/ru/articles/732448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732448)
-- [Единица по Бурбаки. Красота запредельной абстрактности](https://habr.com/ru/articles/734932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
