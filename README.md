@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Событийно-ориентированные приложения с использованием Kafka и Python](https://habr.com/ru/companies/southbridge/articles/735262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735262)
+- [Менеджеры заметок, BrainMap&#39;ы, RoadMap&#39;ы, вот это всё](https://habr.com/ru/articles/735256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735256)
 - [Security Week 2320: патч Microsoft выключит старые загрузочные носители](https://habr.com/ru/companies/kaspersky/articles/735132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735132)
 - [Опыт Garage Eight: Как мы улучшали нашу AT-систему](https://habr.com/ru/companies/oleg-bunin/articles/735228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735228)
 - [Линукс в четыре руки. Сетевая OpenArena на двух Nokia N900](https://habr.com/ru/companies/timeweb/articles/734998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734998)
-- [Кастомный select для React](https://habr.com/ru/articles/735224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735224)
-- [Мы же всё протестировали, или откуда берутся баги на проде &lpar;часть 1&rpar;](https://habr.com/ru/articles/735218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
