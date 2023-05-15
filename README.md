@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чистый код. Часть 3](https://habr.com/ru/companies/qiwi/articles/732702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732702)
+- [ThreadPool. async/await](https://habr.com/ru/companies/skbkontur/articles/734670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734670)
+- [Реализация двустороннего A* на двух потоках](https://habr.com/ru/companies/vk/articles/731656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731656)
 - [Координатный квест: как найти координаты и расстояния без регистраций и смс](https://habr.com/ru/articles/735098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735098)
 - [Форматы векторной графики. Замена «толстому» SVG](https://habr.com/ru/companies/ruvds/articles/734620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734620)
-- [[Перевод] Представляем вам Vue 3.3](https://habr.com/ru/articles/735086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735086)
-- [Модульная архитектура — анализ зависимостей](https://habr.com/ru/articles/733860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733860)
-- [Использование Spring Cloud Gateway в качестве OAuth2 клиента  и KeyCloak для защиты служб](https://habr.com/ru/articles/735076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
