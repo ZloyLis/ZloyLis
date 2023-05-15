@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как yarn v3 и философия Zero Installs помогли нам сократить длительность ci/cd пайплайна в 3 раза](https://habr.com/ru/companies/kts/articles/735104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735104)
-- [Анализ выживаемости](https://habr.com/ru/companies/otus/articles/735206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735206)
-- [Простота Subject’ов, удобство NGRX: что такое компонентный стор и с чем его едят](https://habr.com/ru/companies/tinkoff/articles/735198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735198)
-- [Особенности прогнозирования продаж и оттока в условиях неопределенности](https://habr.com/ru/companies/beeline_tech/articles/735156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735156)
-- [Игровая консоль по цене шаурмы: Можно ли купить живую приставку за 300 рублей?](https://habr.com/ru/articles/735094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735094)
+- [Опыт Garage Eight: Как мы улучшали нашу AT-систему](https://habr.com/ru/companies/garage8/articles/735228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735228)
+- [Линукс в четыре руки. Сетевая OpenArena на двух Nokia N900](https://habr.com/ru/companies/timeweb/articles/734998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734998)
+- [Кастомный select для React](https://habr.com/ru/articles/735224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735224)
+- [Мы же всё протестировали, или откуда берутся баги на проде &lpar;часть 1&rpar;](https://habr.com/ru/articles/735218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735218)
+- [[Перевод] Трассировка запросов в Node.js](https://habr.com/ru/companies/otus/articles/735188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
