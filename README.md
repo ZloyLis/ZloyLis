@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT — помощник для программиста? Пример реальной задачи: распознавание квадратов Нейросетью](https://habr.com/ru/articles/735298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735298)
 - [Apple Pro Weekly News &lpar;01.05 – 14.05.23&rpar;](https://habr.com/ru/articles/735290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735290)
 - [Пишем простой docker-compose.yml для контейнеризации приложения &lpar;React, Spring Boot, PostgreSQL, pgAdmin&rpar;](https://habr.com/ru/articles/735274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735274)
 - [[Перевод] Событийно-ориентированные приложения с использованием Kafka и Python](https://habr.com/ru/companies/southbridge/articles/735262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735262)
 - [Менеджеры заметок, BrainMap&#39;ы, RoadMap&#39;ы, вот это всё](https://habr.com/ru/articles/735256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735256)
-- [Security Week 2320: патч Microsoft выключит старые загрузочные носители](https://habr.com/ru/companies/kaspersky/articles/735132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
