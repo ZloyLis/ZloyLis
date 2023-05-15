@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Координатный квест: как найти координаты и расстояния без регистраций и смс](https://habr.com/ru/articles/735098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735098)
+- [Форматы векторной графики. Замена «толстому» SVG](https://habr.com/ru/companies/ruvds/articles/734620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734620)
+- [[Перевод] Представляем вам Vue 3.3](https://habr.com/ru/articles/735086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735086)
 - [Модульная архитектура — анализ зависимостей](https://habr.com/ru/articles/733860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733860)
 - [Использование Spring Cloud Gateway в качестве OAuth2 клиента  и KeyCloak для защиты служб](https://habr.com/ru/articles/735076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735076)
-- [Перевод с программистского: как убедить бизнес инвестировать в технику](https://habr.com/ru/articles/734666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734666)
-- [Свобода воли c точки зрения точных наук](https://habr.com/ru/articles/734882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734882)
-- [[Паттерны API] Мультиплексирование сообщений. Асинхронная обработка событий](https://habr.com/ru/articles/735064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
