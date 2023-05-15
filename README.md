@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Паттерны API] Мультиплексирование сообщений. Асинхронная обработка событий](https://habr.com/ru/articles/735064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735064)
 - [[Перевод] Julia 1.9 Основные моменты](https://habr.com/ru/articles/735014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735014)
 - [[Перевод] FTM, который написал MUSIC: точное определение местоположения Wi-Fi-устройств в условиях многолучевости.Часть 2/3](https://habr.com/ru/companies/stc_spb/articles/731750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731750)
 - [6. Устойчивость систем автоматического управления. 6.6 Понятие об областях устойчивости](https://habr.com/ru/articles/732448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732448)
 - [Единица по Бурбаки. Красота запредельной абстрактности](https://habr.com/ru/articles/734932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734932)
-- [[Перевод] Первый опыт работы с GitHub Copilot X: взгляд программиста](https://habr.com/ru/companies/ispmanager/articles/734990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
