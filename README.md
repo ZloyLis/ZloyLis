@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как yarn v3 и философия Zero Installs помогли нам сократить длительность ci/cd пайплайна в 3 раза](https://habr.com/ru/companies/kts/articles/735104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735104)
+- [Анализ выживаемости](https://habr.com/ru/companies/otus/articles/735206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735206)
+- [Простота Subject’ов, удобство NGRX: что такое компонентный стор и с чем его едят](https://habr.com/ru/companies/tinkoff/articles/735198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735198)
 - [Особенности прогнозирования продаж и оттока в условиях неопределенности](https://habr.com/ru/companies/beeline_tech/articles/735156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735156)
 - [Игровая консоль по цене шаурмы: Можно ли купить живую приставку за 300 рублей?](https://habr.com/ru/articles/735094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735094)
-- [Чистый код. Часть 3](https://habr.com/ru/companies/qiwi/articles/732702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732702)
-- [ThreadPool. async/await](https://habr.com/ru/companies/skbkontur/articles/734670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734670)
-- [Реализация двустороннего A* на двух потоках](https://habr.com/ru/companies/vk/articles/731656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
