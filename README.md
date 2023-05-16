@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ОС «Сивелькирия»: архитектура](https://habr.com/ru/articles/724886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724886)
+- [Тестирование с Ava.js](https://habr.com/ru/companies/simbirsoft/articles/735138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735138)
+- [Как журналист помогает выявлять серийных убийц с помощью алгоритма](https://habr.com/ru/companies/first/articles/735282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735282)
+- [[Перевод] Обзор тестирования производительности](https://habr.com/ru/articles/735376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735376)
 - [Автоматическая рассылка сообщений WhatsApp](https://habr.com/ru/articles/735394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735394)
-- [Приглашаем на онлайновый митап «Выйти в open source и нанести всем пользу»](https://habr.com/ru/companies/kaspersky/articles/735392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735392)
-- [Когда типизация делает тебе больно: как у нас появился статический анализатор](https://habr.com/ru/companies/selectel/articles/735178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735178)
-- [Как мы придумали и запустили совместные поездки в Яндекс Go](https://habr.com/ru/companies/yandex/articles/735172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735172)
-- [JavaScript — подходящий язык для новичков?](https://habr.com/ru/companies/yandex_praktikum/articles/735238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
