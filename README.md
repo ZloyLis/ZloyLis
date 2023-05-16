@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мультиарендность в Kubernetes](https://habr.com/ru/companies/southbridge/articles/735404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735404)
+- [EvilGPT против джуна: обманываем разработчика и сбегаем из дырявого приложения](https://habr.com/ru/companies/it-guide/articles/734508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734508)
+- [Почему пингвины падают в пропасть: особенности декомпозиции в Scala](https://habr.com/ru/companies/kryptonite/articles/735440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735440)
+- [Приходите на Samokat.tech Meetup про Golang-разработку](https://habr.com/ru/companies/samokat_tech/articles/735418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735418)
 - [Миграция базы данных с Oracle на PostgreSQL в системе с микросервисной архитектурой](https://habr.com/ru/companies/axenix/articles/720820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720820)
-- [ОС «Сивелькирия»: архитектура](https://habr.com/ru/articles/724886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724886)
-- [Тестирование с Ava.js](https://habr.com/ru/companies/simbirsoft/articles/735138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735138)
-- [Как журналист помогает выявлять серийных убийц с помощью алгоритма](https://habr.com/ru/companies/first/articles/735282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735282)
-- [[Перевод] Обзор тестирования производительности](https://habr.com/ru/articles/735376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
