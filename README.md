@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматическая рассылка сообщений WhatsApp](https://habr.com/ru/articles/735394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735394)
+- [Приглашаем на онлайновый митап «Выйти в open source и нанести всем пользу»](https://habr.com/ru/companies/kaspersky/articles/735392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735392)
+- [Когда типизация делает тебе больно: как у нас появился статический анализатор](https://habr.com/ru/companies/selectel/articles/735178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735178)
 - [Как мы придумали и запустили совместные поездки в Яндекс Go](https://habr.com/ru/companies/yandex/articles/735172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735172)
 - [JavaScript — подходящий язык для новичков?](https://habr.com/ru/companies/yandex_praktikum/articles/735238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735238)
-- [Как нейросеть достопримечательности на фотокарточках распознавала](https://habr.com/ru/articles/735374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735374)
-- [Точечные фильтры: алгоритмы и их реализация](https://habr.com/ru/articles/735316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735316)
-- [Как меняется сумма от перемены мест в графике производства](https://habr.com/ru/companies/nlmk/articles/734612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
