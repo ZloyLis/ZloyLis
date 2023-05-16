@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сократить время тестирования с помощью Jenkins, Docker, Java, Selenide и Allure](https://habr.com/ru/articles/735342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735342)
 - [Перформанс 2ГИС для Android](https://habr.com/ru/companies/2gis/articles/734688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734688)
 - [Интеграция полевых устройств в системы автоматизации производств &lpar;Язык описания электронных устройств EDDL&rpar;](https://habr.com/ru/articles/734874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734874)
 - [ChatGPT — помощник для программиста? Пример реальной задачи: распознавание квадратов Нейросетью](https://habr.com/ru/articles/735298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735298)
 - [Apple Pro Weekly News &lpar;01.05 – 14.05.23&rpar;](https://habr.com/ru/articles/735290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735290)
-- [Пишем простой docker-compose.yml для контейнеризации приложения &lpar;React, Spring Boot, PostgreSQL, pgAdmin&rpar;](https://habr.com/ru/articles/735274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
