@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перевезти интернет-магазин на Spree и RoR в облако и улучшить стабильность сайта в 4 раза?](https://habr.com/ru/companies/itsumma/articles/735630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735630)
+- [Один сервис, чтобы коннектиться со всеми, или как я интегрировал игру с VK и немного увлекся](https://habr.com/ru/articles/735466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735466)
 - [Несколько мыслей по подготовке к алгоритмической части собеседования](https://habr.com/ru/companies/cloud_mts/articles/735348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735348)
+- [Ты не видишь капчу, а она есть: как мы разрабатывали сервис Yandex SmartCaptcha для людей и бизнеса](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735598)
 - [Использование Command Line Tool на Swift в iOS проекте](https://habr.com/ru/articles/732576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732576)
-- [Маркеры хорошей базы знаний](https://habr.com/ru/articles/735620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735620)
-- [Проблема воспроизведения видео и его адаптация под iPhone и iPad. HTML5](https://habr.com/ru/articles/735490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735490)
-- [Учимся писать сложные Typescript типы на примере роутинга в React](https://habr.com/ru/articles/735542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
