@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как перевезти интернет-магазин на Spree и RoR в облако и улучшить стабильность сайта в 4 раза?](https://habr.com/ru/companies/itsumma/articles/735630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735630)
-- [Один сервис, чтобы коннектиться со всеми, или как я интегрировал игру с VK и немного увлекся](https://habr.com/ru/articles/735466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735466)
-- [Несколько мыслей по подготовке к алгоритмической части собеседования](https://habr.com/ru/companies/cloud_mts/articles/735348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735348)
-- [Ты не видишь капчу, а она есть: как мы разрабатывали сервис Yandex SmartCaptcha для людей и бизнеса](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735598)
-- [Использование Command Line Tool на Swift в iOS проекте](https://habr.com/ru/articles/732576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732576)
+- [[recovery mode] Интеграция СКУД PERCo и SAP на крупном металлургическом предприятии](https://habr.com/ru/companies/perco/articles/735676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735676)
+- [Математическое моделирование в ORtools: задача планирования расписаний](https://habr.com/ru/articles/735572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735572)
+- [Telegram боты на Java и где они обитают](https://habr.com/ru/articles/735666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735666)
+- [Почему ваши DevOps – эникейщики](https://habr.com/ru/companies/oleg-bunin/articles/728524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728524)
+- [[Перевод] Компьютерное искусство 50-х и 60-х годов. Часть 1](https://habr.com/ru/companies/cloud4y/articles/735644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
