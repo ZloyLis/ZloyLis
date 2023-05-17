@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы используем ProseMirror в нашем проекте](https://habr.com/ru/articles/734456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734456)
 - [Ссылка для айтишников или работа по распределению](https://habr.com/ru/articles/735590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735590)
 - [В каких случаях использовать функцию derivedStateOf из Jetpack Compose](https://habr.com/ru/articles/735526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735526)
 - [[Перевод] Мультиарендность в Kubernetes](https://habr.com/ru/companies/southbridge/articles/735404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735404)
 - [EvilGPT против джуна: обманываем разработчика и сбегаем из дырявого приложения](https://habr.com/ru/companies/it-guide/articles/734508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734508)
-- [Почему пингвины падают в пропасть: особенности декомпозиции в Scala](https://habr.com/ru/companies/kryptonite/articles/735440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
