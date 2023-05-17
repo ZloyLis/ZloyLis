@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Беда “войти в айти” или курсы тестировщика отзывы: Как войти в IT с гарантией работы &lpar;но этот гайд не всем понравится&rpar;](https://habr.com/ru/articles/735680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735680)
+- [Джейлбрейки ChatGPT: как Волдеморт помогает взламывать нейросети](https://habr.com/ru/companies/kaspersky/articles/735672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735672)
+- [Что известно об iPhone 15?](https://habr.com/ru/companies/mvideo/articles/735828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735828)
 - [Летняя ИТ-школа КРОК: начни карьеру уже этим летом](https://habr.com/ru/companies/croc/articles/735796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735796)
 - [[recovery mode] Обфускация кода — что, как и зачем](https://habr.com/ru/articles/735812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735812)
-- [1 автотест на 10 языках программирования](https://habr.com/ru/companies/rostelecom/articles/735704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735704)
-- [Как заонбордиться тимлиду — первые 90 дней на новой работе](https://habr.com/ru/companies/avito/articles/734430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734430)
-- [Степени свободы в статистике](https://habr.com/ru/companies/otus/articles/735800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
