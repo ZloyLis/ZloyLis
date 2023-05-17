@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Command Line Tool на Swift в iOS проекте](https://habr.com/ru/articles/732576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732576)
+- [Маркеры хорошей базы знаний](https://habr.com/ru/articles/735620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735620)
+- [Проблема воспроизведения видео и его адаптация под iPhone и iPad. HTML5](https://habr.com/ru/articles/735490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735490)
 - [Учимся писать сложные Typescript типы на примере роутинга в React](https://habr.com/ru/articles/735542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735542)
 - [Как мы используем ProseMirror в нашем проекте](https://habr.com/ru/articles/734456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734456)
-- [Ссылка для айтишников или работа по распределению](https://habr.com/ru/articles/735590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735590)
-- [В каких случаях использовать функцию derivedStateOf из Jetpack Compose](https://habr.com/ru/articles/735526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735526)
-- [[Перевод] Мультиарендность в Kubernetes](https://habr.com/ru/companies/southbridge/articles/735404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
