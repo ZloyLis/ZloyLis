@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [15 качеств, которые понадобятся разработчику веб-приложений](https://habr.com/ru/companies/skillbox/articles/735772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735772)
-- [Создаем блог на Django с опросами и тестами. Краткая инструкция. Часть 1](https://habr.com/ru/companies/selectel/articles/735556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735556)
-- [Карта, золото, «Герои»: продолжаем разбираться в технико-исторической части HeroWO.js — браузерного клона культовой игры](https://habr.com/ru/companies/soletude/articles/726416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726416)
-- [Цифровой путь: из слесаря по ремонту вагонов в бизнес-аналитики на ж/д](https://habr.com/ru/companies/pgk/articles/735748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735748)
-- [Продуктовая аналитика в Power BI. ABC-XYZ анализ](https://habr.com/ru/companies/otus/articles/735730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735730)
+- [1 автотест на 10 языках программирования](https://habr.com/ru/companies/rostelecom/articles/735704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735704)
+- [Как заонбордиться тимлиду — первые 90 дней на новой работе](https://habr.com/ru/companies/avito/articles/734430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734430)
+- [Степени свободы в статистике](https://habr.com/ru/companies/otus/articles/735800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735800)
+- [[recovery mode] Архитектура крипто ТЭЦ](https://habr.com/ru/articles/735798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735798)
+- [Weekend Offer для QA Automation в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/articles/735788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
