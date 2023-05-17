@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование по-пацански №1. Мыслить как программист](https://habr.com/ru/articles/735702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735702)
 - [[recovery mode] Интеграция СКУД PERCo и SAP на крупном металлургическом предприятии](https://habr.com/ru/companies/perco/articles/735676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735676)
 - [Математическое моделирование в ORtools: задача планирования расписаний](https://habr.com/ru/articles/735572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735572)
 - [Telegram боты на Java и где они обитают](https://habr.com/ru/articles/735666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735666)
 - [Почему ваши DevOps – эникейщики](https://habr.com/ru/companies/oleg-bunin/articles/728524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728524)
-- [[Перевод] Компьютерное искусство 50-х и 60-х годов. Часть 1](https://habr.com/ru/companies/cloud4y/articles/735644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
