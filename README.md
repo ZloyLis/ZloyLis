@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Летняя ИТ-школа КРОК: начни карьеру уже этим летом](https://habr.com/ru/companies/croc/articles/735796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735796)
+- [[recovery mode] Обфускация кода — что, как и зачем](https://habr.com/ru/articles/735812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735812)
 - [1 автотест на 10 языках программирования](https://habr.com/ru/companies/rostelecom/articles/735704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735704)
 - [Как заонбордиться тимлиду — первые 90 дней на новой работе](https://habr.com/ru/companies/avito/articles/734430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734430)
 - [Степени свободы в статистике](https://habr.com/ru/companies/otus/articles/735800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735800)
-- [[recovery mode] Архитектура крипто ТЭЦ](https://habr.com/ru/articles/735798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735798)
-- [Weekend Offer для QA Automation в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/articles/735788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
