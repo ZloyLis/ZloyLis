@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [15 качеств, которые понадобятся разработчику веб-приложений](https://habr.com/ru/companies/skillbox/articles/735772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735772)
+- [Создаем блог на Django с опросами и тестами. Краткая инструкция. Часть 1](https://habr.com/ru/companies/selectel/articles/735556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735556)
+- [Карта, золото, «Герои»: продолжаем разбираться в технико-исторической части HeroWO.js — браузерного клона культовой игры](https://habr.com/ru/companies/soletude/articles/726416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726416)
 - [Цифровой путь: из слесаря по ремонту вагонов в бизнес-аналитики на ж/д](https://habr.com/ru/companies/pgk/articles/735748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735748)
 - [Продуктовая аналитика в Power BI. ABC-XYZ анализ](https://habr.com/ru/companies/otus/articles/735730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735730)
-- [Делаем кастомный RadioGroup в 99 строк для React](https://habr.com/ru/articles/735724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735724)
-- [Реализация прогресс бара при отправке или загрузке файлов](https://habr.com/ru/articles/735710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735710)
-- [Программирование по-пацански №1. Мыслить как программист](https://habr.com/ru/articles/735702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
