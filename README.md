@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности сред исполнения различных систем эффектов в Scala](https://habr.com/ru/companies/tinkoff/articles/736056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736056)
+- [Как мы пишем инструменты для внутренних пользователей в Практикуме](https://habr.com/ru/companies/yandex_praktikum/articles/728358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728358)
 - [Как заставить бэкендера писать фронтенд](https://habr.com/ru/companies/yandex/articles/736006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736006)
 - [API сквозь года. История программных интерфейсов](https://habr.com/ru/companies/serverspace/articles/735930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735930)
 - [Возможность использования программного эмулятора Android в компьютерно-техническом исследовании](https://habr.com/ru/articles/735992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735992)
-- [Авторизация OAuth 2.0 в Google Api для Android без специальных библиотек](https://habr.com/ru/articles/735982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735982)
-- [[recovery mode] Работа по распределению: ссылка или стартап?](https://habr.com/ru/articles/735976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
