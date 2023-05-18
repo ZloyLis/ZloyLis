@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А у вас в окнах дырки! Пентесты Windows-приложений: кейсы, инструменты и рекомендации](https://habr.com/ru/companies/kaspersky/articles/735968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735968)
+- [Написание нативных Swift модулей для React Native на примере Yandex Mapkit](https://habr.com/ru/articles/736106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736106)
 - [Из лягушек в автоматизаторы — мое решение](https://habr.com/ru/articles/736084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736084)
 - [RPA в Х5: когда каждый в Матрице – избранный](https://habr.com/ru/specials/736058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736058)
 - [Особенности сред исполнения различных систем эффектов в Scala](https://habr.com/ru/companies/tinkoff/articles/736056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736056)
-- [Как мы пишем инструменты для внутренних пользователей в Практикуме](https://habr.com/ru/companies/yandex_praktikum/articles/728358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728358)
-- [Как заставить бэкендера писать фронтенд](https://habr.com/ru/companies/yandex/articles/736006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
