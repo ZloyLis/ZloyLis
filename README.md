@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасная локализация строк в iOS: Localinter](https://habr.com/ru/companies/ozontech/articles/734214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734214)
+- [TestRail для автоматизации тестирования. Делаем интеграцию: отправляем результаты и собираем репорты](https://habr.com/ru/articles/735838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735838)
 - [Inline Event Sourcing](https://habr.com/ru/articles/735594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735594)
 - [Redux-saga: обзорная экскурсия](https://habr.com/ru/companies/usetech/articles/735914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735914)
 - [Базовые требования к парольной аутентификации](https://habr.com/ru/companies/simbirsoft/articles/735608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735608)
-- [Чему учит Kubernetes The Hard Way?](https://habr.com/ru/articles/735898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735898)
-- [30 советов для начинающего FrontEnd программиста](https://habr.com/ru/articles/735890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
