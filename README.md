@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Работа по распределению: ссылка или стартап?](https://habr.com/ru/articles/735976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735976)
+- [&lpar;Не&rpar;безопасная разработка, часть 2: заимствование метаданных популярных пакетов для подделки рейтинга Python-проектов](https://habr.com/ru/companies/pt/articles/734758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734758)
+- [Матрица Судьбы &lpar;компетенций&rpar; Android-программиста](https://habr.com/ru/articles/735516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735516)
+- [Многомодульное iOS-приложение: подходы к организации межмодульного взаимодействия](https://habr.com/ru/companies/docdoc/articles/735946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735946)
 - [Безопасная локализация строк в iOS: Localinter](https://habr.com/ru/companies/ozontech/articles/734214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734214)
-- [TestRail для автоматизации тестирования. Делаем интеграцию: отправляем результаты и собираем репорты](https://habr.com/ru/articles/735838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735838)
-- [Inline Event Sourcing](https://habr.com/ru/articles/735594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735594)
-- [Redux-saga: обзорная экскурсия](https://habr.com/ru/companies/usetech/articles/735914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735914)
-- [Базовые требования к парольной аутентификации](https://habr.com/ru/companies/simbirsoft/articles/735608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
