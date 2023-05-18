@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Inline Event Sourcing](https://habr.com/ru/articles/735594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735594)
+- [Redux-saga: обзорная экскурсия](https://habr.com/ru/companies/usetech/articles/735914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735914)
+- [Базовые требования к парольной аутентификации](https://habr.com/ru/companies/simbirsoft/articles/735608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735608)
 - [Чему учит Kubernetes The Hard Way?](https://habr.com/ru/articles/735898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735898)
 - [30 советов для начинающего FrontEnd программиста](https://habr.com/ru/articles/735890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735890)
-- [Беда “войти в айти” или курсы тестировщика отзывы: Как войти в IT с гарантией работы &lpar;но этот гайд не всем понравится&rpar;](https://habr.com/ru/articles/735680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735680)
-- [Джейлбрейки ChatGPT: как Волдеморт помогает взламывать нейросети](https://habr.com/ru/companies/kaspersky/articles/735672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735672)
-- [Что известно об iPhone 15?](https://habr.com/ru/companies/mvideo/articles/735828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
