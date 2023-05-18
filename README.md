@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как заставить бэкендера писать фронтенд](https://habr.com/ru/companies/yandex/articles/736006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736006)
+- [API сквозь года. История программных интерфейсов](https://habr.com/ru/companies/serverspace/articles/735930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735930)
 - [Возможность использования программного эмулятора Android в компьютерно-техническом исследовании](https://habr.com/ru/articles/735992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735992)
 - [Авторизация OAuth 2.0 в Google Api для Android без специальных библиотек](https://habr.com/ru/articles/735982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735982)
 - [[recovery mode] Работа по распределению: ссылка или стартап?](https://habr.com/ru/articles/735976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735976)
-- [&lpar;Не&rpar;безопасная разработка, часть 2: заимствование метаданных популярных пакетов для подделки рейтинга Python-проектов](https://habr.com/ru/companies/pt/articles/734758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734758)
-- [Матрица Судьбы &lpar;компетенций&rpar; Android-программиста](https://habr.com/ru/articles/735516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
