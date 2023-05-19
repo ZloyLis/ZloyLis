@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему японские веб-сайты выглядят так необычно, или учимся оценивать дизайн, не делая поспешных выводов](https://habr.com/ru/companies/ispsystem/articles/736182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736182)
+- [[Перевод] У нас была возможность удалить любой пост с LinkedIn](https://habr.com/ru/companies/productivity_inside/articles/736250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736250)
 - [MVP: как получить «минимально жизнеспособный», а не «минимально полезный» продукт](https://habr.com/ru/companies/surfstudio/articles/736240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736240)
 - [Эволюция процессов CI/CD в more.tv](https://habr.com/ru/companies/nmg/articles/736086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736086)
 - [Как мы учили Почту события в календарь добавлять. Часть 2](https://habr.com/ru/companies/vk/articles/734674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734674)
-- [Как создать приватные репозитории composer](https://habr.com/ru/articles/736234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736234)
-- [Крошечная копия iPhone 6 за 150 рублей — можно ли пользоваться смартфоном на Android, размером с ладошку?](https://habr.com/ru/companies/timeweb/articles/734986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
