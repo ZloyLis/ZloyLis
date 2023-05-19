@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я преподавал на ИТ-курсах: буст софтов или потраченное время](https://habr.com/ru/companies/alfa/articles/735588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735588)
+- [А вам точно нужен Kubernetes?](https://habr.com/ru/companies/amvera/articles/736264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736264)
+- [[Перевод] Новый подход к вычислениям переосмысливает искусственный интеллект](https://habr.com/ru/companies/first/articles/735648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735648)
 - [Как дебажить код на JavaScript: примеры ошибок и советы новичкам](https://habr.com/ru/companies/yandex_praktikum/articles/736078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736078)
 - [Делаем кастомное модальное окно для React](https://habr.com/ru/articles/736284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736284)
-- [[Перевод] Почему японские веб-сайты выглядят так необычно, или учимся оценивать дизайн, не делая поспешных выводов](https://habr.com/ru/companies/ispsystem/articles/736182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736182)
-- [[Перевод] У нас была возможность удалить любой пост с LinkedIn](https://habr.com/ru/companies/productivity_inside/articles/736250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736250)
-- [MVP: как получить «минимально жизнеспособный», а не «минимально полезный» продукт](https://habr.com/ru/companies/surfstudio/articles/736240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
