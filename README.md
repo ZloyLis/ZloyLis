@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерны проектирования на Dart с примерами кода. Часть 1](https://habr.com/ru/articles/736364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736364)
+- [Микрофронтенды на Module Federation — наш опыт. Часть 2](https://habr.com/ru/companies/qiwi/articles/736350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736350)
 - [Как создать анимированные шейдеры в Jetpack Compose](https://habr.com/ru/companies/timeweb/articles/736192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736192)
+- [Микрофронтенды на Module Federation — наш опыт. Часть 1](https://habr.com/ru/companies/qiwi/articles/736344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736344)
 - [[recovery mode] Графы и программирование](https://habr.com/ru/articles/734642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734642)
-- [[Перевод] База данных в контейнере Docker — как ее запустить, и зачем она нужна](https://habr.com/ru/companies/piter/articles/736332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736332)
-- [Как менеджеру продукта быстро тестировать гипотезы](https://habr.com/ru/companies/otus/articles/736334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736334)
-- [[Перевод] Откройте для себя весь потенциал побитовых операторов. Без математики](https://habr.com/ru/companies/ruvds/articles/735668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
