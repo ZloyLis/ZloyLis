@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дополнительная клавиатура своими руками](https://habr.com/ru/articles/736384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736384)
 - [Паттерны проектирования на Dart с примерами кода. Часть 1](https://habr.com/ru/articles/736364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736364)
 - [Микрофронтенды на Module Federation — наш опыт. Часть 2](https://habr.com/ru/companies/qiwi/articles/736350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736350)
 - [Как создать анимированные шейдеры в Jetpack Compose](https://habr.com/ru/companies/timeweb/articles/736192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736192)
 - [Микрофронтенды на Module Federation — наш опыт. Часть 1](https://habr.com/ru/companies/qiwi/articles/736344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736344)
-- [[recovery mode] Графы и программирование](https://habr.com/ru/articles/734642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
