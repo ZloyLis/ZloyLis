@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать анимированные шейдеры в Jetpack Compose](https://habr.com/ru/companies/timeweb/articles/736192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736192)
+- [[recovery mode] Графы и программирование](https://habr.com/ru/articles/734642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734642)
+- [[Перевод] База данных в контейнере Docker — как ее запустить, и зачем она нужна](https://habr.com/ru/companies/piter/articles/736332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736332)
+- [Как менеджеру продукта быстро тестировать гипотезы](https://habr.com/ru/companies/otus/articles/736334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736334)
 - [[Перевод] Откройте для себя весь потенциал побитовых операторов. Без математики](https://habr.com/ru/companies/ruvds/articles/735668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735668)
-- [Как мы делаем клиентский сервис](https://habr.com/ru/companies/sportmaster_lab/articles/736324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736324)
-- [Как провести лайвкодинг так, чтобы кандидат хотел к вам вернуться даже после провала](https://habr.com/ru/companies/vk/articles/736268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736268)
-- [Как я преподавал на ИТ-курсах: буст софтов или потраченное время](https://habr.com/ru/companies/alfa/articles/735588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735588)
-- [А вам точно нужен Kubernetes?](https://habr.com/ru/companies/amvera/articles/736264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
