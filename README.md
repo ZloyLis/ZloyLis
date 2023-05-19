@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Крошечная копия iPhone 6 за 150 рублей — можно ли пользоваться смартфоном на Android, размером с ладошку?](https://habr.com/ru/companies/timeweb/articles/734986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734986)
+- [Готовим справку к интеграции в Qt Creator](https://habr.com/ru/companies/swd_es/articles/729896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729896)
+- [Единый формат времени для приложения](https://habr.com/ru/articles/736224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736224)
+- [PostgreSQL под капотом. Часть 5. Простой SELECT запрос](https://habr.com/ru/articles/736154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736154)
 - [ИИ вместо врача: алгоритм определения тактики лечения пациентов с сепсисом](https://habr.com/ru/companies/ua-hosting/articles/735918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735918)
-- [Три консоли в инструментах разработчика 1С: упрощаем отладку кода, запросов и отчетов](https://habr.com/ru/companies/simbirsoft/articles/736194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736194)
-- [Приручение WinAPI](https://habr.com/ru/articles/736146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736146)
-- [Как Литрес сделал из меня Flutter разработчика](https://habr.com/ru/articles/736172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736172)
-- [Ural Digital Weekend 2023 — конференция про разработку и управление в Digital](https://habr.com/ru/companies/spectr/articles/736112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
