@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MVP: как получить «минимально жизнеспособный», а не «минимально полезный» продукт](https://habr.com/ru/companies/surfstudio/articles/736240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736240)
+- [Эволюция процессов CI/CD в more.tv](https://habr.com/ru/companies/nmg/articles/736086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736086)
+- [Как мы учили Почту события в календарь добавлять. Часть 2](https://habr.com/ru/companies/vk/articles/734674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734674)
+- [Как создать приватные репозитории composer](https://habr.com/ru/articles/736234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736234)
 - [Крошечная копия iPhone 6 за 150 рублей — можно ли пользоваться смартфоном на Android, размером с ладошку?](https://habr.com/ru/companies/timeweb/articles/734986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734986)
-- [Готовим справку к интеграции в Qt Creator](https://habr.com/ru/companies/swd_es/articles/729896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729896)
-- [Единый формат времени для приложения](https://habr.com/ru/articles/736224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736224)
-- [PostgreSQL под капотом. Часть 5. Простой SELECT запрос](https://habr.com/ru/articles/736154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736154)
-- [ИИ вместо врача: алгоритм определения тактики лечения пациентов с сепсисом](https://habr.com/ru/companies/ua-hosting/articles/735918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
