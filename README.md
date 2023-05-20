@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полезные Snippets для Flutter-разработчика](https://habr.com/ru/articles/736444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736444)
 - [Подход к пагинации записей из разных источников](https://habr.com/ru/articles/736390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736390)
 - [Бенчмаркая строки и циклы: Replace, Split и Substring](https://habr.com/ru/articles/736434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736434)
 - [Как дизайнеру устроиться в Uber &lpar;часть 2&rpar;](https://habr.com/ru/articles/736418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736418)
 - [Как дизайнеру устроиться в Uber &lpar;часть 1&rpar;](https://habr.com/ru/articles/736394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736394)
-- [Дополнительная клавиатура своими руками](https://habr.com/ru/articles/736384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
