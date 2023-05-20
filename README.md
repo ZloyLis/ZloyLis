@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть — что это такое и как создать свою нейросеть](https://habr.com/ru/articles/736466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736466)
 - [Полезные Snippets для Flutter-разработчика](https://habr.com/ru/articles/736444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736444)
 - [Подход к пагинации записей из разных источников](https://habr.com/ru/articles/736390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736390)
 - [Бенчмаркая строки и циклы: Replace, Split и Substring](https://habr.com/ru/articles/736434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736434)
 - [Как дизайнеру устроиться в Uber &lpar;часть 2&rpar;](https://habr.com/ru/articles/736418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736418)
-- [Как дизайнеру устроиться в Uber &lpar;часть 1&rpar;](https://habr.com/ru/articles/736394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
