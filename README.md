@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чистая архитектура на практике](https://habr.com/ru/articles/736574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736574)
+- [На первый-второй рассчитайсь: как контролировать количество и очередность запросов к Kubernetes API с FlowControl](https://habr.com/ru/companies/flant/articles/735718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735718)
 - [Введение в Clickhouse движок AggregatingMergeTree](https://habr.com/ru/articles/736518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736518)
 - [Как мы автоматизировали FTP&lpar;S&rpar; с уникальными симптомами проблемы?](https://habr.com/ru/articles/736514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736514)
 - [[Перевод] 5 антипаттернов при написании кода на функциональном ЯП](https://habr.com/ru/companies/ruvds/articles/735910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735910)
-- [Мобильная разработка за неделю #489 &lpar;15 — 21 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/736496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736496)
-- [Jakarta Faces и Spring Boot](https://habr.com/ru/articles/736474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
