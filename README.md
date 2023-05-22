@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности асинхронности в Python](https://habr.com/ru/companies/rosbank/articles/736698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736698)
+- [Универсальный дирижер проекта: что стало с ролью Solution Architect и как она меняет IT](https://habr.com/ru/companies/kaspersky/articles/736266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736266)
 - [Мобильная разработка в апреле: дайджест новостей от RuStore](https://habr.com/ru/companies/vk/articles/736360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736360)
 - [[Перевод] Поймай меня, если сможешь: руководство по обработке исключений в Python](https://habr.com/ru/companies/wunderfund/articles/736526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736526)
 - [Тестируем работу с БД из SpringBoot: TestContainers, DBUnit и все-все-все](https://habr.com/ru/articles/733408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733408)
-- [Тайны инженерных расчётов](https://habr.com/ru/articles/736656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736656)
-- [Telegram-бота для скачивания видео из VK на Spring Boot и деплоим в Kubernetes](https://habr.com/ru/articles/735902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
