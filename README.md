@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какая ты кривая, или математика вокруг нас](https://habr.com/ru/articles/736714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736714)
+- [Мониторинг пользовательских устройств с помощью Zabbix](https://habr.com/ru/companies/tinkoff/articles/736704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736704)
 - [Особенности асинхронности в Python](https://habr.com/ru/companies/rosbank/articles/736698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736698)
 - [Универсальный дирижер проекта: что стало с ролью Solution Architect и как она меняет IT](https://habr.com/ru/companies/kaspersky/articles/736266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736266)
 - [Мобильная разработка в апреле: дайджест новостей от RuStore](https://habr.com/ru/companies/vk/articles/736360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736360)
-- [[Перевод] Поймай меня, если сможешь: руководство по обработке исключений в Python](https://habr.com/ru/companies/wunderfund/articles/736526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736526)
-- [Тестируем работу с БД из SpringBoot: TestContainers, DBUnit и все-все-все](https://habr.com/ru/articles/733408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
