@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Улучшенная эвристика при квантовании цветовой палитры](https://habr.com/ru/articles/736858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736858)
 - [[Перевод] Пишем на Python как на Rust](https://habr.com/ru/articles/736842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736842)
 - [Визуальные метаданные social casino games в App Store](https://habr.com/ru/articles/736832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736832)
 - [Подвох с указателями на Default Subobject](https://habr.com/ru/articles/736828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736828)
 - [Apple Pro Weekly News &lpar;15.05 – 21.05.23&rpar;](https://habr.com/ru/articles/736826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736826)
-- [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 7&rpar;](https://habr.com/ru/articles/734880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
