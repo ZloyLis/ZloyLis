@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Детокс для i18n](https://habr.com/ru/articles/736530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736530)
 - [Хорошая замена Celery](https://habr.com/ru/articles/736598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736598)
 - [[Перевод] FTM, который написал MUSIC: точное определение местоположения Wi-Fi-устройств в условиях многолучевости. Часть 3/3](https://habr.com/ru/companies/stc_spb/articles/731752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=731752)
 - [Чистая архитектура на практике](https://habr.com/ru/articles/736574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736574)
 - [На первый-второй рассчитайсь: как контролировать количество и очередность запросов к Kubernetes API с FlowControl](https://habr.com/ru/companies/flant/articles/735718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735718)
-- [Введение в Clickhouse движок AggregatingMergeTree](https://habr.com/ru/articles/736518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
