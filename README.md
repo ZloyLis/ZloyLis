@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подвох с указателями на Default Subobject](https://habr.com/ru/articles/736828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736828)
+- [Apple Pro Weekly News &lpar;15.05 – 21.05.23&rpar;](https://habr.com/ru/articles/736826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736826)
 - [[Перевод] Как на самом деле работает Async/Await в C# &lpar;Часть 7&rpar;](https://habr.com/ru/articles/734880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734880)
 - [От бумажной волокиты до комплексной автоматизации. Как кратно увеличить прибыль от аренды склада](https://habr.com/ru/articles/736792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736792)
 - [[Перевод] Рендеринг на сервере и HTMX — это будущее](https://habr.com/ru/companies/ruvds/articles/736754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736754)
-- [Первое механическое счетное устройство. Машина Шиккарда](https://habr.com/ru/articles/736758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736758)
-- [Молекулярный драйвер: как мы запускали Molecule Delegated Driver в облаке VK Cloud](https://habr.com/ru/companies/vk/articles/735744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
