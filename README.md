@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От бумажной волокиты до комплексной автоматизации. Как кратно увеличить прибыль от аренды склада](https://habr.com/ru/articles/736792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736792)
 - [[Перевод] Рендеринг на сервере и HTMX — это будущее](https://habr.com/ru/companies/ruvds/articles/736754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736754)
 - [Первое механическое счетное устройство. Машина Шиккарда](https://habr.com/ru/articles/736758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736758)
 - [Молекулярный драйвер: как мы запускали Molecule Delegated Driver в облаке VK Cloud](https://habr.com/ru/companies/vk/articles/735744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735744)
 - [Какая ты кривая, или математика вокруг нас](https://habr.com/ru/articles/736714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736714)
-- [Мониторинг пользовательских устройств с помощью Zabbix](https://habr.com/ru/companies/tinkoff/articles/736704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
