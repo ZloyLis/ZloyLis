@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Построение графа зависимостей Objective-C файлов](https://habr.com/ru/articles/736516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736516)
 - [Как аналитику работать с задачами на интеграции — пошаговая инструкция](https://habr.com/ru/articles/735332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735332)
 - [Проектируем уведомления в iOS: 104 гайдлайна](https://habr.com/ru/articles/736614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736614)
 - [Как построить систему геоаналитики с применением ML](https://habr.com/ru/companies/vk/articles/734102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734102)
 - [Детокс для i18n](https://habr.com/ru/articles/736530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736530)
-- [Хорошая замена Celery](https://habr.com/ru/articles/736598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
