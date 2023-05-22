@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка в апреле: дайджест новостей от RuStore](https://habr.com/ru/companies/vk/articles/736360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736360)
+- [[Перевод] Поймай меня, если сможешь: руководство по обработке исключений в Python](https://habr.com/ru/companies/wunderfund/articles/736526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736526)
+- [Тестируем работу с БД из SpringBoot: TestContainers, DBUnit и все-все-все](https://habr.com/ru/articles/733408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733408)
+- [Тайны инженерных расчётов](https://habr.com/ru/articles/736656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736656)
 - [Telegram-бота для скачивания видео из VK на Spring Boot и деплоим в Kubernetes](https://habr.com/ru/articles/735902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735902)
-- [Построение графа зависимостей Objective-C файлов](https://habr.com/ru/articles/736516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736516)
-- [Как аналитику работать с задачами на интеграции — пошаговая инструкция](https://habr.com/ru/articles/735332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735332)
-- [Проектируем уведомления в iOS: 104 гайдлайна](https://habr.com/ru/articles/736614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736614)
-- [Как построить систему геоаналитики с применением ML](https://habr.com/ru/companies/vk/articles/734102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
