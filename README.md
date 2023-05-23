@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я после колледжа в Екатеринбурге поступил в чешский университет на программиста](https://habr.com/ru/articles/737106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737106)
 - [[recovery mode] Структурирование кредитного портфеля методами машинного обучения](https://habr.com/ru/articles/737086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737086)
 - [Настоящий Смартфон](https://habr.com/ru/articles/737074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737074)
 - [Security Week 2321: уязвимость в умной розетке Belkin](https://habr.com/ru/companies/kaspersky/articles/736744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736744)
 - [[Перевод] Elsie: программируемые презентации](https://habr.com/ru/companies/timeweb/articles/737036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737036)
-- [Паттерны проектирования на Dart с примерами кода. Часть 2](https://habr.com/ru/articles/737038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
