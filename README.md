@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математическая продлёнка. Самый правильный угол](https://habr.com/ru/articles/736862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736862)
+- [[Перевод] Лидерство в тестировании: планирование тестирования](https://habr.com/ru/articles/733560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733560)
+- [Сам себе заказчик: как мы провели редизайн сервиса и вернули доверие пользователей](https://habr.com/ru/companies/ozontech/articles/736712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736712)
+- [Blur Behind: История провалов на разных ОС](https://habr.com/ru/companies/vk/articles/735716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735716)
 - [Интеграция с 1С: то, о чем не рассказывают в книгах](https://habr.com/ru/companies/simbirsoft/articles/736802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736802)
-- [Подключаем RuStore оплаты для вашего Ruby-приложения](https://habr.com/ru/companies/joydev/articles/736756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736756)
-- [Устроиться на первую работу в IT: три истории джунов о трудностях и выученных уроках](https://habr.com/ru/companies/yandex_praktikum/articles/736896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736896)
-- [[Паттерны API] Атомарность массовых изменений](https://habr.com/ru/articles/736892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736892)
-- [Как спроектировать хороший таббар: 67 гайдлайнов](https://habr.com/ru/articles/736880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
