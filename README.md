@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое Self-Service BI и зачем он нужен?](https://habr.com/ru/articles/736978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736978)
+- [[Перевод] Используйте всё богатство HTTP-кодов состояний](https://habr.com/ru/articles/736976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736976)
+- [[Перевод] О многообразии форм однонаправленных архитектур в Swift](https://habr.com/ru/companies/otus/articles/736944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736944)
 - [Математическая продлёнка. Самый правильный угол](https://habr.com/ru/articles/736862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736862)
 - [[Перевод] Лидерство в тестировании: планирование тестирования](https://habr.com/ru/articles/733560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733560)
-- [Сам себе заказчик: как мы провели редизайн сервиса и вернули доверие пользователей](https://habr.com/ru/companies/ozontech/articles/736712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736712)
-- [Blur Behind: История провалов на разных ОС](https://habr.com/ru/companies/vk/articles/735716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735716)
-- [Интеграция с 1С: то, о чем не рассказывают в книгах](https://habr.com/ru/companies/simbirsoft/articles/736802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
