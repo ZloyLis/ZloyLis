@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Elsie: программируемые презентации](https://habr.com/ru/companies/timeweb/articles/737036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737036)
+- [Паттерны проектирования на Dart с примерами кода. Часть 2](https://habr.com/ru/articles/737038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737038)
 - [Как на Московской бирже работает система генерации отчетов для участников рынка](https://habr.com/ru/articles/736782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736782)
 - [Выбираем между кросс-платформенной и нативной разработкой](https://habr.com/ru/companies/agima/articles/736984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736984)
 - [DevOps спит, Gitlab CI работает…](https://habr.com/ru/companies/oleg-bunin/articles/736998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736998)
-- [Что такое Self-Service BI и зачем он нужен?](https://habr.com/ru/articles/736978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736978)
-- [[Перевод] Используйте всё богатство HTTP-кодов состояний](https://habr.com/ru/articles/736976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
