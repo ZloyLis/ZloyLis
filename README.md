@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как спроектировать хороший таббар: 67 гайдлайнов](https://habr.com/ru/articles/736880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736880)
+- [Как мы запустили рекомендацию похожих фильмов в онлайн-кинотеатре](https://habr.com/ru/companies/ru_mts/articles/736846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736846)
 - [Обеспечение безопасности Frontend приложений](https://habr.com/ru/articles/736866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736866)
 - [[Перевод] Улучшенная эвристика при квантовании цветовой палитры](https://habr.com/ru/articles/736858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736858)
 - [[Перевод] Пишем на Python как на Rust](https://habr.com/ru/articles/736842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736842)
-- [Визуальные метаданные social casino games в App Store](https://habr.com/ru/articles/736832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736832)
-- [Подвох с указателями на Default Subobject](https://habr.com/ru/articles/736828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
