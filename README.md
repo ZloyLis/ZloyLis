@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стажировка в большой компании может преобразить студенческий проект](https://habr.com/ru/companies/T1Holding/articles/736768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736768)
+- [Подключаем RuStore оплаты для вашего Ruby-приложения](https://habr.com/ru/companies/joydev/articles/736756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736756)
+- [Устроиться на первую работу в IT: три истории джунов о трудностях и выученных уроках](https://habr.com/ru/companies/yandex_praktikum/articles/736896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736896)
+- [[Паттерны API] Атомарность массовых изменений](https://habr.com/ru/articles/736892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736892)
 - [Как спроектировать хороший таббар: 67 гайдлайнов](https://habr.com/ru/articles/736880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736880)
-- [Как мы запустили рекомендацию похожих фильмов в онлайн-кинотеатре](https://habr.com/ru/companies/ru_mts/articles/736846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736846)
-- [Обеспечение безопасности Frontend приложений](https://habr.com/ru/articles/736866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736866)
-- [[Перевод] Улучшенная эвристика при квантовании цветовой палитры](https://habr.com/ru/articles/736858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736858)
-- [[Перевод] Пишем на Python как на Rust](https://habr.com/ru/articles/736842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
