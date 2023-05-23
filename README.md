@@ -35,7 +35,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как стажировка в большой компании может преобразить студенческий проект](https://habr.com/ru/companies/T1Holding/articles/736768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736768)
+- [Интеграция с 1С: то, о чем не рассказывают в книгах](https://habr.com/ru/companies/simbirsoft/articles/736802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736802)
 - [Подключаем RuStore оплаты для вашего Ruby-приложения](https://habr.com/ru/companies/joydev/articles/736756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736756)
 - [Устроиться на первую работу в IT: три истории джунов о трудностях и выученных уроках](https://habr.com/ru/companies/yandex_praktikum/articles/736896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736896)
 - [[Паттерны API] Атомарность массовых изменений](https://habr.com/ru/articles/736892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736892)
