@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выбираем между кросс-платформенной и нативной разработкой](https://habr.com/ru/companies/agima/articles/736984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736984)
+- [DevOps спит, Gitlab CI работает…](https://habr.com/ru/companies/oleg-bunin/articles/736998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736998)
 - [Что такое Self-Service BI и зачем он нужен?](https://habr.com/ru/articles/736978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736978)
 - [[Перевод] Используйте всё богатство HTTP-кодов состояний](https://habr.com/ru/articles/736976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736976)
 - [[Перевод] О многообразии форм однонаправленных архитектур в Swift](https://habr.com/ru/companies/otus/articles/736944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736944)
-- [Математическая продлёнка. Самый правильный угол](https://habr.com/ru/articles/736862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736862)
-- [[Перевод] Лидерство в тестировании: планирование тестирования](https://habr.com/ru/articles/733560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
