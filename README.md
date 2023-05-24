@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лови мутанта! Мутационные тесты: зачем и как](https://habr.com/ru/articles/737278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737278)
+- [userver — что мы узнали за полгода в open-source](https://habr.com/ru/companies/yandex/articles/729588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729588)
+- [Архитектурные изменения: важно не терять темпа и воли к улучшению ситуации](https://habr.com/ru/articles/737252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737252)
 - [[Перевод] taichi.js: Программируем на WebGPU без боли](https://habr.com/ru/articles/737144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737144)
 - [[Перевод] Сравнительный анализ производительности популярных JS-фреймворков — Express.js, Koa.js и Fastify](https://habr.com/ru/companies/otus/articles/737228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737228)
-- [Архитектура и реактивное программирование](https://habr.com/ru/companies/ruvds/articles/737114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737114)
-- [VK Open: зачем разработчику открытые платформы](https://habr.com/ru/specials/736906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736906)
-- [Сам себе игровая консоль: превращаем планшет с нерабочим тачскрином в игровой девайс из 8 кнопок и микроконтроллера](https://habr.com/ru/companies/timeweb/articles/736438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
