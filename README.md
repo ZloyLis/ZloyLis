@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контейнерная разработка в 2023 году, вебинар по Kubernetes и личные размышления](https://habr.com/ru/companies/beeline_cloud/articles/737312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737312)
+- [[Перевод] Адаптируем код .NET Core под Linux](https://habr.com/ru/companies/piter/articles/737274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737274)
+- [Software Architect](https://habr.com/ru/companies/otus/articles/736820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736820)
 - [Как мы сделали игру для разработчиков в телеграм на 10+ тыс юзеров](https://habr.com/ru/articles/737292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737292)
 - [3500 в час с ChatGPT](https://habr.com/ru/companies/mvideo/articles/737250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737250)
-- [Лови мутанта! Мутационные тесты: зачем и как](https://habr.com/ru/articles/737278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737278)
-- [userver — что мы узнали за полгода в open-source](https://habr.com/ru/companies/yandex/articles/729588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729588)
-- [Архитектурные изменения: важно не терять темпа и воли к улучшению ситуации](https://habr.com/ru/articles/737252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
