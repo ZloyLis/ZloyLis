@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сделали игру для разработчиков в телеграм на 10+ тыс юзеров](https://habr.com/ru/articles/737292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737292)
+- [3500 в час с ChatGPT](https://habr.com/ru/companies/mvideo/articles/737250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737250)
 - [Лови мутанта! Мутационные тесты: зачем и как](https://habr.com/ru/articles/737278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737278)
 - [userver — что мы узнали за полгода в open-source](https://habr.com/ru/companies/yandex/articles/729588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729588)
 - [Архитектурные изменения: важно не терять темпа и воли к улучшению ситуации](https://habr.com/ru/articles/737252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737252)
-- [[Перевод] taichi.js: Программируем на WebGPU без боли](https://habr.com/ru/articles/737144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737144)
-- [[Перевод] Сравнительный анализ производительности популярных JS-фреймворков — Express.js, Koa.js и Fastify](https://habr.com/ru/companies/otus/articles/737228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
