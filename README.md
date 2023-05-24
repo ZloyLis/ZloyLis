@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] taichi.js: Программируем на WebGPU без боли](https://habr.com/ru/articles/737144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737144)
+- [[Перевод] Сравнительный анализ производительности популярных JS-фреймворков — Express.js, Koa.js и Fastify](https://habr.com/ru/companies/otus/articles/737228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737228)
 - [Архитектура и реактивное программирование](https://habr.com/ru/companies/ruvds/articles/737114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737114)
 - [VK Open: зачем разработчику открытые платформы](https://habr.com/ru/specials/736906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736906)
 - [Сам себе игровая консоль: превращаем планшет с нерабочим тачскрином в игровой девайс из 8 кнопок и микроконтроллера](https://habr.com/ru/companies/timeweb/articles/736438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736438)
-- [Как ускорить написание кода: AI, генерация кода, плагины](https://habr.com/ru/companies/broadcast/articles/730810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730810)
-- [Интеграция рекламы в Android-приложение: Yandex Mobile Ads Vs. Google AdMob](https://habr.com/ru/companies/simbirsoft/articles/737158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
