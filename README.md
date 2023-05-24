@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы решили проблему общения микрофронтендов в приложении](https://habr.com/ru/companies/tinkoff/articles/736352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736352)
+- [[Перевод] Код-ревью: cookbook от Google](https://habr.com/ru/articles/737012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737012)
+- [Sketch: искусственный интеллект на службе аналитика данных в Pandas](https://habr.com/ru/articles/737174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737174)
 - [Багатон как в первый раз](https://habr.com/ru/companies/alfa/articles/736730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736730)
 - [Как учиться учиться и для чего интровертам телеграм-канал](https://habr.com/ru/companies/dododev/articles/736612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736612)
-- [БЕКОН — первая в России конференция по БЕзопасности КОНтейнеров и контейнерных сред](https://habr.com/ru/articles/734962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734962)
-- [Введение в GitHub Actions. Делаем пайплайн для деплоя Spring Boot проекта на VPS с помощью Docker](https://habr.com/ru/articles/737148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737148)
-- [Короче, Proxyman: краткий обзор самого яблочного сниффера](https://habr.com/ru/companies/ostrovok/articles/737120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
