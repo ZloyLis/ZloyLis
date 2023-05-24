@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [БЕКОН — первая в России конференция по БЕзопасности КОНтейнеров и контейнерных сред](https://habr.com/ru/articles/734962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734962)
 - [Введение в GitHub Actions. Делаем пайплайн для деплоя Spring Boot проекта на VPS с помощью Docker](https://habr.com/ru/articles/737148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737148)
 - [Короче, Proxyman: краткий обзор самого яблочного сниффера](https://habr.com/ru/companies/ostrovok/articles/737120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737120)
 - [Как я после колледжа в Екатеринбурге поступил в чешский университет на программиста](https://habr.com/ru/articles/737106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737106)
 - [[recovery mode] Структурирование кредитного портфеля методами машинного обучения](https://habr.com/ru/articles/737086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737086)
-- [Настоящий Смартфон](https://habr.com/ru/articles/737074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
