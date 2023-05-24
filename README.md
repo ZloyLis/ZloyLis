@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сам себе игровая консоль: превращаем планшет с нерабочим тачскрином в игровой девайс из 8 кнопок и микроконтроллера](https://habr.com/ru/companies/timeweb/articles/736438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736438)
+- [Как ускорить написание кода: AI, генерация кода, плагины](https://habr.com/ru/companies/broadcast/articles/730810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730810)
+- [Интеграция рекламы в Android-приложение: Yandex Mobile Ads Vs. Google AdMob](https://habr.com/ru/companies/simbirsoft/articles/737158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737158)
 - [Как мы решили проблему общения микрофронтендов в приложении](https://habr.com/ru/companies/tinkoff/articles/736352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736352)
 - [[Перевод] Код-ревью: cookbook от Google](https://habr.com/ru/articles/737012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737012)
-- [Sketch: искусственный интеллект на службе аналитика данных в Pandas](https://habr.com/ru/articles/737174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737174)
-- [Багатон как в первый раз](https://habr.com/ru/companies/alfa/articles/736730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736730)
-- [Как учиться учиться и для чего интровертам телеграм-канал](https://habr.com/ru/companies/dododev/articles/736612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
