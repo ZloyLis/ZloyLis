@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем хорош и чем плох Tailwind CSS, или «Допустим, у вас стартап!»](https://habr.com/ru/companies/sbermarket/articles/737474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737474)
+- [[Перевод] Раннее компьютерное искусство 50-х и 60-х годов. Часть 2](https://habr.com/ru/companies/cloud4y/articles/737286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737286)
 - [От «Hello World» до получения патента и включения программы в реестр российского ПО](https://habr.com/ru/companies/sportmaster_lab/articles/723068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723068)
 - [Строим свой SSO сервер используя Spring Authorization Server](https://habr.com/ru/articles/737548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737548)
 - [Python или Java: что выбрать новичку?](https://habr.com/ru/articles/737518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737518)
-- [Анализ и приоритизация задач в тикетной системе: как красиво реализовать на PHP](https://habr.com/ru/companies/oleg-bunin/articles/737218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737218)
-- [[Перевод] ETTrace: надежное профилирование в iOS с Flame Charts](https://habr.com/ru/articles/736074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
