@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Графические эффекты в четырех стихиях](https://habr.com/ru/articles/737464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737464)
-- [Ключевое звено всего производства: чего не хватало прокатному стану 2000](https://habr.com/ru/companies/nlmk/articles/737054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737054)
-- [Проектируем быстрые действия в iOS: 58 гайдлайнов](https://habr.com/ru/articles/737452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737452)
-- [Кэш в JavaScript: не все Map&#39;ы одинаково полезны](https://habr.com/ru/companies/tensor/articles/737432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737432)
-- [Совершенный кубоид](https://habr.com/ru/articles/737290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737290)
+- [Python или Java: что выбрать новичку?](https://habr.com/ru/articles/737518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737518)
+- [Анализ и приоритизация задач в тикетной системе: как красиво реализовать на PHP](https://habr.com/ru/companies/oleg-bunin/articles/737218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737218)
+- [[Перевод] ETTrace: Надежное Профилирование в iOS с Flame Charts](https://habr.com/ru/articles/736074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736074)
+- [Ультимативный гайд по HTTP. HTTP/1.1 vs HTTP/2](https://habr.com/ru/companies/avito/articles/710678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710678)
+- [«Сначала на себя, потом на ребёнка»: как мы запустили DevOps для себя, а потом начали продавать клиентам](https://habr.com/ru/companies/kts/articles/737504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
