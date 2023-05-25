@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От «Hello World» до получения патента и включения программы в реестр российского ПО](https://habr.com/ru/companies/sportmaster_lab/articles/723068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723068)
+- [Строим свой SSO сервер используя Spring Authorization Server](https://habr.com/ru/articles/737548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737548)
 - [Python или Java: что выбрать новичку?](https://habr.com/ru/articles/737518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737518)
 - [Анализ и приоритизация задач в тикетной системе: как красиво реализовать на PHP](https://habr.com/ru/companies/oleg-bunin/articles/737218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737218)
-- [[Перевод] ETTrace: Надежное Профилирование в iOS с Flame Charts](https://habr.com/ru/articles/736074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736074)
-- [Ультимативный гайд по HTTP. HTTP/1.1 vs HTTP/2](https://habr.com/ru/companies/avito/articles/710678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710678)
-- [«Сначала на себя, потом на ребёнка»: как мы запустили DevOps для себя, а потом начали продавать клиентам](https://habr.com/ru/companies/kts/articles/737504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737504)
+- [[Перевод] ETTrace: надежное профилирование в iOS с Flame Charts](https://habr.com/ru/articles/736074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
