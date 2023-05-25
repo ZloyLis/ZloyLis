@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подключить Lombok к Android Studio в 2023 году](https://habr.com/ru/articles/737698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737698)
+- [Самые необычные правила паролей](https://habr.com/ru/companies/globalsign/articles/737694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737694)
 - [Клеточные автоматы. Игра «Жизнь». Часть 1](https://habr.com/ru/articles/737672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737672)
 - [Книга «Рекурсивная книга о рекурсии»](https://habr.com/ru/companies/piter/articles/737600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737600)
 - [Как работают сервисы карт и маршрутизации](https://habr.com/ru/articles/737592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737592)
-- [Чем хорош и чем плох Tailwind CSS, или «Допустим, у вас стартап!»](https://habr.com/ru/companies/sbermarket/articles/737474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737474)
-- [[Перевод] Раннее компьютерное искусство 50-х и 60-х годов. Часть 2](https://habr.com/ru/companies/cloud4y/articles/737286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
