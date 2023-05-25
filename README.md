@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Графические эффекты в четырех стихиях](https://habr.com/ru/articles/737464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737464)
 - [Ключевое звено всего производства: чего не хватало прокатному стану 2000](https://habr.com/ru/companies/nlmk/articles/737054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737054)
 - [Проектируем быстрые действия в iOS: 58 гайдлайнов](https://habr.com/ru/articles/737452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737452)
 - [Кэш в JavaScript: не все Map&#39;ы одинаково полезны](https://habr.com/ru/companies/tensor/articles/737432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737432)
 - [Совершенный кубоид](https://habr.com/ru/articles/737290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737290)
-- [Как настроить миграцию etcd между облачными кластерами Kubernetes и избежать простоев](https://habr.com/ru/companies/flant/articles/737204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
