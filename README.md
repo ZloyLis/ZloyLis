@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правильное подключение к БД: почему, зачем и как](https://habr.com/ru/companies/sberbank/articles/736464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736464)
 - [На грани между exceptions и std::expected](https://habr.com/ru/articles/737408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737408)
 - [[Перевод] Представляем popover API](https://habr.com/ru/articles/737398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737398)
 - [Как и зачем аналитику проводить UX тесты. Часть вторая](https://habr.com/ru/companies/koshelek/articles/737392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737392)
 - [Создание плагинов с учётом новой структуры Joomla 4](https://habr.com/ru/articles/736412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736412)
-- [Чем отличаются приложения для хранения чеков: разбираем шесть лучших](https://habr.com/ru/companies/stm_labs/articles/737328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
