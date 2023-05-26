@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Проверяем невероятные заявления разработчиков приложения-мессенджера с шифрованием](https://habr.com/ru/companies/productivity_inside/articles/737752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737752)
+- [[Перевод] 5 млн долларов за строчку кода: подробный разбор сбоя сервисов Datadog](https://habr.com/ru/companies/flant/articles/737750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737750)
 - [[Перевод] Исчерпывающее руководство по различным типам API](https://habr.com/ru/companies/otus/articles/737610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737610)
 - [CodeBert для автогенерации комментариев к коду](https://habr.com/ru/companies/sberbank/articles/737730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737730)
 - [[Паттерны API] Частичные обновления. Деградация и предсказуемость](https://habr.com/ru/articles/737728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737728)
-- [Что будет, если у программиста появится хобби кулинария. Часть 2](https://habr.com/ru/articles/737704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737704)
-- [Как подключить Lombok к Android Studio в 2023 году](https://habr.com/ru/articles/737698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
