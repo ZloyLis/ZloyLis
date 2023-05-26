@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как выбирать технологии для Data Mesh — децентрализованного управления данными](https://habr.com/ru/companies/vk/articles/737152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737152)
+- [Анализ номинативных данных](https://habr.com/ru/companies/otus/articles/737846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737846)
 - [ContentChild, ViewChild, template reference variables](https://habr.com/ru/companies/tinkoff/articles/737836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737836)
 - [Как мы выбирали процессный движок: месяц мучений ради идеала](https://habr.com/ru/companies/ibs/articles/737816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737816)
-- [25 бесплатных обучающих курсов по Python 2023 года](https://habr.com/ru/articles/737812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737812)
 - [Swift Concurrency Instrument: чем он полезен iOS-разработчику](https://habr.com/ru/companies/surfstudio/articles/737578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737578)
-- [Бизнес-аналитик: разбор профессии и перспективы на рынке IT](https://habr.com/ru/companies/yandex_praktikum/articles/737634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
