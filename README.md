@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Атомарный подход в Unity](https://habr.com/ru/articles/735244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735244)
 - [Физическая программная археология](https://habr.com/ru/articles/737624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737624)
 - [[Перевод] Усиление безопасности Kubernetes с помощью Kyverno, RuntimeClass и контейнеров Kata](https://habr.com/ru/companies/otus/articles/737814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737814)
 - [[Перевод] Я написал одну из самых быстрых библиотек датафреймов](https://habr.com/ru/companies/timeweb/articles/737808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737808)
 - [Рецензируемый QA-журнал для трейни/джунов/мидлов: Дайджест](https://habr.com/ru/articles/737870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737870)
-- [[Перевод] Реализация реактивности и компонуемости во фронтенд-фреймворке без зависимостей](https://habr.com/ru/companies/ruvds/articles/737192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
