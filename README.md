@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исчерпывающее руководство по различным типам API](https://habr.com/ru/companies/otus/articles/737610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737610)
+- [CodeBert для автогенерации комментариев к коду](https://habr.com/ru/companies/sberbank/articles/737730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737730)
+- [[Паттерны API] Частичные обновления. Деградация и предсказуемость](https://habr.com/ru/articles/737728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737728)
 - [Что будет, если у программиста появится хобби кулинария. Часть 2](https://habr.com/ru/articles/737704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737704)
 - [Как подключить Lombok к Android Studio в 2023 году](https://habr.com/ru/articles/737698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737698)
-- [Самые необычные правила паролей](https://habr.com/ru/companies/globalsign/articles/737694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737694)
-- [Клеточные автоматы. Игра «Жизнь». Часть 1](https://habr.com/ru/articles/737672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737672)
-- [Книга «Рекурсивная книга о рекурсии»](https://habr.com/ru/companies/piter/articles/737600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
