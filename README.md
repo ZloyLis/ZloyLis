@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Физическая программная археология](https://habr.com/ru/articles/737624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737624)
+- [Как сконфигурировать Spring web client под SSL](https://habr.com/ru/articles/737906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737906)
+- [[Перевод] Усиление безопасности Kubernetes с помощью Kyverno, RuntimeClass и контейнеров Kata](https://habr.com/ru/companies/otus/articles/737814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737814)
 - [[Перевод] Я написал одну из самых быстрых библиотек датафреймов](https://habr.com/ru/companies/timeweb/articles/737808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737808)
 - [Рецензируемый QA-журнал для трейни/джунов/мидлов: Дайджест](https://habr.com/ru/articles/737870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737870)
-- [[Перевод] Реализация реактивности и компонуемости во фронтенд-фреймворке без зависимостей](https://habr.com/ru/companies/ruvds/articles/737192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737192)
-- [12 ошибок при публикации приложения в RuStore — и как их избежать](https://habr.com/ru/companies/vk/articles/737864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737864)
-- [[recovery mode] In-app event’ы в ASO — мощный инструмент для продвижения в Apple store](https://habr.com/ru/articles/737868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
