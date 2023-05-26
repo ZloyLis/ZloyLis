@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я написал одну из самых быстрых библиотек датафреймов](https://habr.com/ru/companies/timeweb/articles/737808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737808)
 - [Рецензируемый QA-журнал для трейни/джунов/мидлов: Дайджест](https://habr.com/ru/articles/737870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737870)
 - [[Перевод] Реализация реактивности и компонуемости во фронтенд-фреймворке без зависимостей](https://habr.com/ru/companies/ruvds/articles/737192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737192)
 - [12 ошибок при публикации приложения в RuStore — и как их избежать](https://habr.com/ru/companies/vk/articles/737864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737864)
 - [[recovery mode] In-app event’ы в ASO — мощный инструмент для продвижения в Apple store](https://habr.com/ru/articles/737868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737868)
-- [[Перевод] Как выбирать технологии для Data Mesh — децентрализованного управления данными](https://habr.com/ru/companies/vk/articles/737152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
