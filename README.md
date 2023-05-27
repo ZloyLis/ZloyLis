@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как записать преобразованный массив данных в Google таблицу с использованием Javascript](https://habr.com/ru/articles/738040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738040)
 - [ChatGPT не умеет писать макросы](https://habr.com/ru/articles/738038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738038)
 - [Миграция на Vue 2.7](https://habr.com/ru/articles/738032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738032)
+- [С чего начинается embedded-разработка? Debug UART на Repka Pi 3 — подключение к отладочному терминалу Репки через UART](https://habr.com/ru/articles/737948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737948)
 - [Telegram клиент. TDLib и Spring Boot](https://habr.com/ru/articles/738022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738022)
-- [[Перевод] Полное руководство по логированию в Node.js с помощью Pino](https://habr.com/ru/articles/737982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737982)
-- [Принцип «Web of Trust» или как работает PGP](https://habr.com/ru/articles/737944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
