@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[По полочкам] Алгоритмы сортировок. Часть 1](https://habr.com/ru/articles/738122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738122)
 - [Как сделать обмен информацией простым как никогда с помощью мобильного приложения](https://habr.com/ru/articles/738094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738094)
 - [Разработка быстрых и современных сайтов на базе Next.js, с использованием GraphQL &amp;amp; WordPress](https://habr.com/ru/articles/738074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738074)
 - [База для новичков в тестировании](https://habr.com/ru/articles/738042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738042)
 - [Как записать преобразованный массив данных в Google таблицу с использованием Javascript](https://habr.com/ru/articles/738040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738040)
-- [ChatGPT не умеет писать макросы](https://habr.com/ru/articles/738038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
