@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Spring Data JPA: разница между методами findById, getOne, getById и findOne](https://habr.com/ru/companies/otus/articles/738298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738298)
+- [[recovery mode] Layout библиотека для iOS проектов](https://habr.com/ru/articles/738368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738368)
 - [Что такое COM объект, как происходит его разработка, какие особенности реализации COM Microsoft?](https://habr.com/ru/articles/738350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738350)
 - [Обезличенный вызов делегатов в C#](https://habr.com/ru/articles/738346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738346)
 - [Load2SRE: от нагрузки к доступности, без потери производительности](https://habr.com/ru/companies/samokat_tech/articles/734414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734414)
-- [[Перевод] Итоги двадцати лет работы — технический долг и неподдерживаемый код](https://habr.com/ru/companies/ruvds/articles/738316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738316)
-- [ChatGPT во фронтенде: как его использовать и когда он заменит разработчиков](https://habr.com/ru/articles/737050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
