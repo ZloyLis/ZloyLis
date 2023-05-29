@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;22.05 – 28.05.23&rpar;](https://habr.com/ru/articles/738396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738396)
 - [Security Week 2322: практический пример атаки с использованием домена .zip](https://habr.com/ru/companies/kaspersky/articles/738340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738340)
 - [[Перевод] Spring Data JPA: разница между методами findById, getOne, getById и findOne](https://habr.com/ru/companies/otus/articles/738298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738298)
 - [[recovery mode] Layout библиотека для iOS проектов](https://habr.com/ru/articles/738368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738368)
 - [Что такое COM объект, как происходит его разработка, какие особенности реализации COM Microsoft?](https://habr.com/ru/articles/738350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738350)
-- [Обезличенный вызов делегатов в C#](https://habr.com/ru/articles/738346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
