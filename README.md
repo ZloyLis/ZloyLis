@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пишем на Python, как будто это Rust](https://habr.com/ru/articles/738432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738432)
 - [[Перевод] Lua: маленький язык, который смог](https://habr.com/ru/articles/738414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738414)
 - [Apple Pro Weekly News &lpar;22.05 – 28.05.23&rpar;](https://habr.com/ru/articles/738396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738396)
 - [Security Week 2322: практический пример атаки с использованием домена .zip](https://habr.com/ru/companies/kaspersky/articles/738340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738340)
 - [[Перевод] Spring Data JPA: разница между методами findById, getOne, getById и findOne](https://habr.com/ru/companies/otus/articles/738298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738298)
-- [[recovery mode] Layout библиотека для iOS проектов](https://habr.com/ru/articles/738368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
