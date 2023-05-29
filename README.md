@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Mojo может стать крупнейшим достижением в области программирования за последние десятилетия](https://habr.com/ru/articles/736068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736068)
+- [[Перевод] Итоги двадцати лет работы — технический долг и неподдерживаемый код](https://habr.com/ru/companies/ruvds/articles/738316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738316)
+- [ChatGPT во фронтенде: как его использовать и когда он заменит разработчиков](https://habr.com/ru/articles/737050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737050)
 - [Халяльный дизайн: как делать приложения на арабском](https://habr.com/ru/articles/738286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738286)
 - [[recovery mode] Гипотеза Коллатца, часть 3](https://habr.com/ru/articles/738260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738260)
 - [Как я поступил в университеты США на магистратуру Computer Science в 30 лет](https://habr.com/ru/articles/738254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738254)
-- [Многопоточность и Thread Pool в C++](https://habr.com/ru/articles/738250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
