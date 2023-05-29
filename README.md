@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Гипотеза Коллатца, часть 3](https://habr.com/ru/articles/738260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738260)
 - [Как я поступил в университеты США на магистратуру Computer Science в 30 лет](https://habr.com/ru/articles/738254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738254)
 - [Многопоточность и Thread Pool в C++](https://habr.com/ru/articles/738250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738250)
 - [Новейшая технология КТ — измерения под контролем реконструкции](https://habr.com/ru/companies/smartengines/articles/737460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737460)
 - [[Перевод] Идеальный препроцессинговый пайплайн для NLP-моделей](https://habr.com/ru/articles/738176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738176)
-- [Самый необычный Windows-коммуникатор](https://habr.com/ru/companies/timeweb/articles/738106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
