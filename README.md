@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое COM объект, как происходит его разработка, какие особенности реализации COM Microsoft?](https://habr.com/ru/articles/738350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738350)
+- [Обезличенный вызов делегатов в C#](https://habr.com/ru/articles/738346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738346)
+- [Load2SRE: от нагрузки к доступности, без потери производительности](https://habr.com/ru/companies/samokat_tech/articles/734414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734414)
 - [[Перевод] Итоги двадцати лет работы — технический долг и неподдерживаемый код](https://habr.com/ru/companies/ruvds/articles/738316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738316)
 - [ChatGPT во фронтенде: как его использовать и когда он заменит разработчиков](https://habr.com/ru/articles/737050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737050)
-- [Халяльный дизайн: как делать приложения на арабском](https://habr.com/ru/articles/738286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738286)
-- [[recovery mode] Гипотеза Коллатца, часть 3](https://habr.com/ru/articles/738260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738260)
-- [Как я поступил в университеты США на магистратуру Computer Science в 30 лет](https://habr.com/ru/articles/738254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
