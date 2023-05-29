@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самый необычный Windows-коммуникатор](https://habr.com/ru/companies/timeweb/articles/738106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738106)
+- [Создание надстроек для отечественного офисного пакета «МойОфис». Часть первая, вводная](https://habr.com/ru/articles/738182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738182)
 - [Как в 3 раза снизить затраты на отказоустойчивую инфраструктуру, переехав с Hazelcast на Redis](https://habr.com/ru/companies/alfa/articles/737630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737630)
 - [Коварство метрик памяти Kubernetes &lpar;и cgroups&rpar;](https://habr.com/ru/articles/737968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737968)
 - [Монадическая композиция Expected в C++](https://habr.com/ru/articles/738174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738174)
-- [Мобильная разработка за неделю #490 &lpar;22 — 28 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/738154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738154)
-- [[Перевод] Разница между традиционными функциями и стрелочными функциями в JavaScript](https://habr.com/ru/articles/738146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
