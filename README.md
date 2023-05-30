@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Контрибьютинг — ваше лучшее резюме». 7+ итогов митапа про выход в open source](https://habr.com/ru/companies/kaspersky/articles/738632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738632)
 - [“Перспективный вид общественного транспорта для больших и средних городов” — главная идея в кратком пересказе](https://habr.com/ru/articles/738388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738388)
 - [[Перевод] Современные паттерны навигации в iOS-приложениях](https://habr.com/ru/companies/cleverpumpkin/articles/738584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738584)
 - [Нельзя просто взять и сделать нормальную адресную систему в приложении](https://habr.com/ru/companies/dododev/articles/737800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737800)
 - [[Перевод] Что такое абстрактные классы и методы в Java](https://habr.com/ru/companies/piter/articles/738508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738508)
-- [COROUTINES-23: code review fixes](https://habr.com/ru/companies/alfa/articles/738270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
