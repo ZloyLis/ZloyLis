@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Битва CLIs: почему мы отказались от Angular CLI в пользу Nx](https://habr.com/ru/companies/tinkoff/articles/738654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738654)
+- [[Перевод] Алерты Grafana в виде кода: Начните работу с Terraform и Grafana Alerting](https://habr.com/ru/companies/otus/articles/738576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738576)
 - [«Контрибьютинг — ваше лучшее резюме». 7+ итогов митапа про выход в open source](https://habr.com/ru/companies/kaspersky/articles/738632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738632)
 - [“Перспективный вид общественного транспорта для больших и средних городов” — главная идея в кратком пересказе](https://habr.com/ru/articles/738388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738388)
 - [[Перевод] Современные паттерны навигации в iOS-приложениях](https://habr.com/ru/companies/cleverpumpkin/articles/738584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738584)
-- [Нельзя просто взять и сделать нормальную адресную систему в приложении](https://habr.com/ru/companies/dododev/articles/737800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
