@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решаем вечную проблему deployment bottleneck и репликации окружений](https://habr.com/ru/articles/738702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738702)
 - [[recovery mode] Как растет Знание. Философия](https://habr.com/ru/articles/738684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738684)
 - [Битва CLIs: почему мы отказались от Angular CLI в пользу Nx](https://habr.com/ru/companies/tinkoff/articles/738654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738654)
 - [[Перевод] Алерты Grafana в виде кода: Начните работу с Terraform и Grafana Alerting](https://habr.com/ru/companies/otus/articles/738576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738576)
 - [«Контрибьютинг — ваше лучшее резюме». 7+ итогов митапа про выход в open source](https://habr.com/ru/companies/kaspersky/articles/738632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738632)
-- [“Перспективный вид общественного транспорта для больших и средних городов” — главная идея в кратком пересказе](https://habr.com/ru/articles/738388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
