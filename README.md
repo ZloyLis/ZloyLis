@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как упростить импорт JavaScript модулей с помощью Node.js Subpath Imports](https://habr.com/ru/articles/738132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738132)
 - [Шарды? Репликация? Part 1: Подбор БД на примере URL-сокращателя](https://habr.com/ru/articles/738442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738442)
 - [[Перевод] Пишем на Python, как будто это Rust](https://habr.com/ru/articles/738432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738432)
 - [[Перевод] Lua: маленький язык, который смог](https://habr.com/ru/articles/738414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738414)
 - [Apple Pro Weekly News &lpar;22.05 – 28.05.23&rpar;](https://habr.com/ru/articles/738396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738396)
-- [Security Week 2322: практический пример атаки с использованием домена .zip](https://habr.com/ru/companies/kaspersky/articles/738340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
