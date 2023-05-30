@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание надстроек для офисного пакета «МойОфис». Часть 2. Расширяем структуру файлов надстройки и удалённая отладка](https://habr.com/ru/articles/738478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738478)
+- [Контекст, награда, много рук. Многорукие бандиты как метод принятия решений](https://habr.com/ru/companies/ozontech/articles/738318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738318)
 - [Самый быстрый форматер кода](https://habr.com/ru/companies/bft/articles/738320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738320)
 - [Блокчейн-разработчик: как освоить профессию будущего уже сейчас](https://habr.com/ru/companies/lanit/articles/737110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737110)
 - [Senior Softskills Engineer](https://habr.com/ru/articles/738450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738450)
-- [Reciprocal throughput](https://habr.com/ru/companies/skbkontur/articles/737858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737858)
-- [Как упростить импорт JavaScript модулей с помощью Node.js Subpath Imports](https://habr.com/ru/articles/738132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
