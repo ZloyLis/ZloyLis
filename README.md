@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Что такое абстрактные классы и методы в Java](https://habr.com/ru/companies/piter/articles/738508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738508)
+- [COROUTINES-23: code review fixes](https://habr.com/ru/companies/alfa/articles/738270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738270)
 - [Построение HPC/GPU кластеров для машинного обучения](https://habr.com/ru/companies/oleg-bunin/articles/736948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736948)
 - [[recovery mode] Сбой в работе почтового сервиса @mail.ru](https://habr.com/ru/articles/738486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738486)
 - [Создаем типовое локальное окружение для разработчика](https://habr.com/ru/companies/cloud_mts/articles/735350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735350)
-- [Создание надстроек для офисного пакета «МойОфис». Часть 2. Расширяем структуру файлов надстройки и удалённая отладка](https://habr.com/ru/articles/738478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
