@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что в имени тебе моём? Часть 2](https://habr.com/ru/articles/738694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738694)
 - [+100500 непрочитанных: Почему я подписан на телеграм-каналы, которые не читаю?](https://habr.com/ru/articles/738716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738716)
 - [Кросс-браузерное тестирование с Cypress в CI с использованием Docker](https://habr.com/ru/articles/738708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738708)
 - [Решаем вечную проблему deployment bottleneck и репликации окружений](https://habr.com/ru/articles/738702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738702)
 - [Infrastructure as a Code: ожидания и реальность](https://habr.com/ru/companies/yandex_praktikum/articles/738682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738682)
-- [[recovery mode] Как растет Знание. Философия](https://habr.com/ru/articles/738684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
