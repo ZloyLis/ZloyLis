@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Чему я научился после проведения тысячи собеседований: часть первая](https://habr.com/ru/companies/productivity_inside/articles/738814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738814)
+- [[recovery mode] Программируй свое здоровье](https://habr.com/ru/articles/738822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738822)
+- [Как мы упростили жизнь высоконагруженным сервисам с Platform V SessionsData. Часть 2](https://habr.com/ru/companies/sberbank/articles/738532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738532)
 - [Трассировка стека вызовов в среде кооперативной многозадачности: стектрейсы, файберы, два ствола](https://habr.com/ru/companies/vk/articles/735794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735794)
 - [Уязвимость XSS в приложении ASP.NET: разбираем CVE-2023-24322 в CMS mojoPortal](https://habr.com/ru/companies/pvs-studio/articles/738796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738796)
-- [Добавляем тесты в Vercel](https://habr.com/ru/articles/738706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738706)
-- [Не доверять данным и уметь признавать ошибки: какие софтскилы нужны аналитику данных](https://habr.com/ru/companies/yandex_praktikum/articles/738520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738520)
-- [Аутсорс-разработчики и эдтех: какие шишки мы набили, сделав курс по Flutter, и к каким выводам пришли](https://habr.com/ru/companies/surfstudio/articles/738704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
