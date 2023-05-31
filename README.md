@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Daisy: ежедневный помощник на основе ChatGPT в твоём кармане](https://habr.com/ru/companies/redmadrobot/articles/738850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738850)
+- [Как мы переработали личный кабинет Soax с учётом пользовательских сценариев](https://habr.com/ru/articles/738816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738816)
 - [[Перевод] Чему я научился после проведения тысячи собеседований: часть первая](https://habr.com/ru/companies/productivity_inside/articles/738814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738814)
 - [[recovery mode] Программируй свое здоровье](https://habr.com/ru/articles/738822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738822)
 - [Как мы упростили жизнь высоконагруженным сервисам с Platform V SessionsData. Часть 2](https://habr.com/ru/companies/sberbank/articles/738532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738532)
-- [Трассировка стека вызовов в среде кооперативной многозадачности: стектрейсы, файберы, два ствола](https://habr.com/ru/companies/vk/articles/735794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735794)
-- [Уязвимость XSS в приложении ASP.NET: разбираем CVE-2023-24322 в CMS mojoPortal](https://habr.com/ru/companies/pvs-studio/articles/738796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
