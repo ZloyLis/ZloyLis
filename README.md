@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кластеризация текста в PySpark](https://habr.com/ru/articles/738906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738906)
+- [Консолидация отображения данных с использованием протокола OData](https://habr.com/ru/articles/738526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738526)
+- [Упрощаем разработку на React Native: чем полезен CocoaPods?](https://habr.com/ru/companies/ncloudtech/articles/738828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738828)
 - [Работа Apache Kafka на примерах. Поднимаем Kafka Cluster используя docker-compose](https://habr.com/ru/articles/738874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738874)
 - [Daisy: ежедневный помощник на основе ChatGPT в твоём кармане](https://habr.com/ru/companies/redmadrobot/articles/738850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738850)
-- [Как мы переработали личный кабинет Soax с учётом пользовательских сценариев](https://habr.com/ru/articles/738816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738816)
-- [[Перевод] Чему я научился после проведения тысячи собеседований: часть первая](https://habr.com/ru/companies/productivity_inside/articles/738814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738814)
-- [[recovery mode] Программируй свое здоровье](https://habr.com/ru/articles/738822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
