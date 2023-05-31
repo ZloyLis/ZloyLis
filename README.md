@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Магия превращений: клик на сайте в выполнение Powershell скрипта на сервере](https://habr.com/ru/articles/737642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737642)
-- [Что в имени тебе моём? Часть 2](https://habr.com/ru/articles/738694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738694)
-- [+100500 непрочитанных: Почему я подписан на телеграм-каналы, которые не читаю?](https://habr.com/ru/articles/738716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738716)
-- [Кросс-браузерное тестирование с Cypress в CI с использованием Docker](https://habr.com/ru/articles/738708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738708)
-- [Решаем вечную проблему deployment bottleneck и репликации окружений](https://habr.com/ru/articles/738702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738702)
+- [Трассировка стека вызовов в среде кооперативной многозадачности: стектрейсы, файберы, два ствола](https://habr.com/ru/companies/vk/articles/735794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735794)
+- [Уязвимость XSS в приложении ASP.NET: разбираем CVE-2023-24322 в CMS mojoPortal](https://habr.com/ru/companies/pvs-studio/articles/738796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738796)
+- [Добавляем тесты в Vercel](https://habr.com/ru/articles/738706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738706)
+- [Не доверять данным и уметь признавать ошибки: какие софтскилы нужны аналитику данных](https://habr.com/ru/companies/yandex_praktikum/articles/738520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738520)
+- [Аутсорс-разработчики и эдтех: какие шишки мы набили, сделав курс по Flutter, и к каким выводам пришли](https://habr.com/ru/companies/surfstudio/articles/738704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
