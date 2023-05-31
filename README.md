@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать автодеплой ui-kit на npm с помощью ci/cd gitlab](https://habr.com/ru/articles/739000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739000)
 - [MariaDB, фрагментация, varchar и печалька](https://habr.com/ru/articles/738898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738898)
 - [[Перевод] Отслеживание сетевого трафика между подами в Kubernetes](https://habr.com/ru/companies/southbridge/articles/738920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738920)
 - [Книга «JavaScript с нуля до профи»](https://habr.com/ru/companies/piter/articles/737856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737856)
 - [Создаем блог на Django с опросами и тестами. Краткая инструкция. Часть 2](https://habr.com/ru/companies/selectel/articles/738942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738942)
-- [[Перевод] Куда подевались все хакеры? Как правильно обсуждать языки программирования](https://habr.com/ru/companies/ruvds/articles/738930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
