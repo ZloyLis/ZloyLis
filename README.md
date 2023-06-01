@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я библиотеку для Дневника МЭШ писал](https://habr.com/ru/articles/739190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739190)
+- [Scala Digest. Выпуск 5](https://habr.com/ru/companies/tinkoff/articles/739162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739162)
 - [Мониторинг черных ящиков и котов в мешке через eBPF](https://habr.com/ru/companies/qiwi/articles/738968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738968)
 - [[Перевод] Как я стал Android-разработчиком в 40 лет](https://habr.com/ru/companies/beeline_tech/articles/739104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739104)
 - [«Наташ, вставай!» или как научить GitHub присылать вам SMS](https://habr.com/ru/companies/ru_mts/articles/739078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739078)
-- [Хождение по граблям PDO: что скрывают за собой современные PHP ORM](https://habr.com/ru/companies/oleg-bunin/articles/727930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727930)
-- [Как превратить DevOps-пайплайн в DevSecOps-пайплайн. Обзор концепции Shift Left](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/738192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
