@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я очень захотел перейти из фронтенда в бэкенд — и перешёл](https://habr.com/ru/companies/avito/articles/737598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737598)
+- [Минëр: сапëр наоборот](https://habr.com/ru/articles/408169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=408169)
 - [Проектное обучение в ВУЗе. Взгляд преподавателя](https://habr.com/ru/articles/739060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739060)
 - [Муки выбора, или Как найти идеальную систему мониторинга. Опыт dBrain](https://habr.com/ru/companies/dbraincloud/articles/738952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738952)
 - [Простейший алгоритм разделения слова на слоги](https://habr.com/ru/articles/739026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739026)
-- [[Перевод] Попробуем выиграть 300 мс при загрузке Википедии](https://habr.com/ru/articles/739016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739016)
-- [Простое должно быть простым: Палки в разметку](https://habr.com/ru/articles/730342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
