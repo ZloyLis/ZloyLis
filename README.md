@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Разбор резюме] Фронтенд-разработчик: как не утопить рекрутера в технологиях и не потерять фокус](https://habr.com/ru/companies/getmatch/articles/739218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739218)
+- [Разработчики — налево, методологи — направо: четыре шага к оптимизации работы BI-аналитиков](https://habr.com/ru/companies/selectel/articles/737590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737590)
+- [Многопоточность в мобильной разработке](https://habr.com/ru/articles/739212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739212)
 - [Как я библиотеку для Дневника МЭШ писал](https://habr.com/ru/articles/739190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739190)
 - [Scala Digest. Выпуск 5](https://habr.com/ru/companies/tinkoff/articles/739162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739162)
-- [Мониторинг черных ящиков и котов в мешке через eBPF](https://habr.com/ru/companies/qiwi/articles/738968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738968)
-- [[Перевод] Как я стал Android-разработчиком в 40 лет](https://habr.com/ru/companies/beeline_tech/articles/739104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739104)
-- [«Наташ, вставай!» или как научить GitHub присылать вам SMS](https://habr.com/ru/companies/ru_mts/articles/739078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
