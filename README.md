@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Состояние Node.js Performance в 2023 году](https://habr.com/ru/companies/otus/articles/739270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739270)
 - [IT Navigation All Day Long – погружение в ИТ для студентов вместе с КРОК](https://habr.com/ru/companies/croc/articles/739258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739258)
 - [[Перевод] Что нового во Flutter 3.10, ч.1](https://habr.com/ru/articles/739256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739256)
 - [[Перевод] Три очень практичные фичи C++23](https://habr.com/ru/companies/otus/articles/739250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739250)
 - [[recovery mode] Мыслящая материя](https://habr.com/ru/articles/738476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738476)
-- [Как мы на 20% повысили скорость запуска приложения с помощью Baseline Profiles](https://habr.com/ru/companies/dododev/articles/739064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
