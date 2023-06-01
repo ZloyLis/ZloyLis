@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Простейший алгоритм разбивки слова на слоги](https://habr.com/ru/articles/739026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739026)
+- [[Перевод] Попробуем выиграть 300 мс при загрузке Википедии](https://habr.com/ru/articles/739016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739016)
 - [Простое должно быть простым: Палки в разметку](https://habr.com/ru/articles/730342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730342)
 - [Как сделать автодеплой ui-kit на npm с помощью ci/cd gitlab](https://habr.com/ru/articles/739000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739000)
 - [MariaDB, фрагментация, varchar и печалька](https://habr.com/ru/articles/738898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738898)
-- [[Перевод] Отслеживание сетевого трафика между подами в Kubernetes](https://habr.com/ru/companies/southbridge/articles/738920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
