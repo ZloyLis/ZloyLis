@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектное обучение в ВУЗе. Взгляд преподавателя](https://habr.com/ru/articles/739060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739060)
 - [Муки выбора, или Как найти идеальную систему мониторинга. Опыт dBrain](https://habr.com/ru/companies/dbraincloud/articles/738952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738952)
 - [Простейший алгоритм разделения слова на слоги](https://habr.com/ru/articles/739026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739026)
 - [[Перевод] Попробуем выиграть 300 мс при загрузке Википедии](https://habr.com/ru/articles/739016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739016)
 - [Простое должно быть простым: Палки в разметку](https://habr.com/ru/articles/730342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=730342)
-- [Как сделать автодеплой ui-kit на npm с помощью ci/cd gitlab](https://habr.com/ru/articles/739000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
