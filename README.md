@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [IT Navigation All Day Long – погружение в ИТ для студентов вместе с КРОК](https://habr.com/ru/companies/croc/articles/739258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739258)
+- [[Перевод] Что нового во Flutter 3.10, ч.1](https://habr.com/ru/articles/739256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739256)
+- [[Перевод] Три очень практичные фичи C++23](https://habr.com/ru/companies/otus/articles/739250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739250)
+- [[recovery mode] Мыслящая материя](https://habr.com/ru/articles/738476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738476)
 - [Как мы на 20% повысили скорость запуска приложения с помощью Baseline Profiles](https://habr.com/ru/companies/dododev/articles/739064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739064)
-- [Performance review, ачивки и погоня за повышением грейда — что может причинить боль сотруднику IT-компании?](https://habr.com/ru/companies/vk/articles/739174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739174)
-- [Анализируй так: умные расшифровщики, поисковики, дашборды и искусственный интеллект](https://habr.com/ru/companies/redmadrobot/articles/739224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739224)
-- [[Разбор резюме] Фронтенд-разработчик: как не утопить рекрутера в технологиях и не потерять фокус](https://habr.com/ru/companies/getmatch/articles/739218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739218)
-- [Разработчики — налево, методологи — направо: четыре шага к оптимизации работы BI-аналитиков](https://habr.com/ru/companies/selectel/articles/737590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
