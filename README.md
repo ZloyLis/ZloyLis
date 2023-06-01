@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я очень захотел перейти из фронтенда в бэкенд — и перешёл](https://habr.com/ru/companies/avito/articles/737598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737598)
-- [Минëр: сапëр наоборот](https://habr.com/ru/articles/408169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=408169)
-- [Проектное обучение в ВУЗе. Взгляд преподавателя](https://habr.com/ru/articles/739060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739060)
-- [Муки выбора, или Как найти идеальную систему мониторинга. Опыт dBrain](https://habr.com/ru/companies/dbraincloud/articles/738952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738952)
-- [Простейший алгоритм разделения слова на слоги](https://habr.com/ru/articles/739026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739026)
+- [Мониторинг черных ящиков и котов в мешке через eBPF](https://habr.com/ru/companies/qiwi/articles/738968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738968)
+- [[Перевод] Как я стал Android-разработчиком в 40 лет](https://habr.com/ru/companies/beeline_tech/articles/739104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739104)
+- [«Наташ, вставай!» или как научить GitHub присылать вам SMS](https://habr.com/ru/companies/ru_mts/articles/739078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739078)
+- [Хождение по граблям PDO: что скрывают за собой современные PHP ORM](https://habr.com/ru/companies/oleg-bunin/articles/727930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=727930)
+- [Как превратить DevOps-пайплайн в DevSecOps-пайплайн. Обзор концепции Shift Left](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/738192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
