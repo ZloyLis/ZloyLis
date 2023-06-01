@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Повторяй за мной или двигаем виртуальной камерой like a pro](https://habr.com/ru/articles/739320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739320)
+- [FastAPI без db: Session](https://habr.com/ru/articles/739314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739314)
 - [Как начать тестировать backend и не сойти с ума](https://habr.com/ru/companies/usetech/articles/739306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739306)
 - [Математическая версия игры «Морской бой»](https://habr.com/ru/articles/739302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739302)
 - [Технохаб «Сбера» для IT-специалистов в Екатеринбурге изнутри](https://habr.com/ru/articles/739196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739196)
-- [Свой NPM репозитарий Verdaccio + GitLab + Docker](https://habr.com/ru/articles/739298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739298)
-- [[Перевод] Состояние Node.js Performance в 2023 году](https://habr.com/ru/companies/otus/articles/739270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
