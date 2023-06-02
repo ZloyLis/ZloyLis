@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Предположим, нам дали два целых числа, но не примитивы, а Integer-объекты…](https://habr.com/ru/companies/ibs/articles/739380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739380)
+- [Быстрый старт с Zsh и Powerlevel10k: двигаемся к терминалу мечты](https://habr.com/ru/articles/739376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739376)
 - [Решаем задачу сетевого планирования с помощью Python](https://habr.com/ru/articles/739368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739368)
 - [Статистика за май по QA вакансиям на HeadHunter](https://habr.com/ru/articles/739336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739336)
 - [Business continuity &amp;amp; Operational resilience: вчера, сегодня, завтра. Откуда пришло и что дальше?](https://habr.com/ru/articles/739322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739322)
-- [Повторяй за мной или двигаем виртуальной камерой like a pro](https://habr.com/ru/articles/739320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739320)
-- [FastAPI без db: Session](https://habr.com/ru/articles/739314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
