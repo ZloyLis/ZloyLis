@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание сервера для онлайн ММО игр на PHP ч. 8 — Клиентская часть на Unity](https://habr.com/ru/articles/739516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739516)
 - [Создание надстроек для офисного пакета «МойОфис». Часть 3. Автозаполнение для API и знакомимся с контролами](https://habr.com/ru/articles/739508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739508)
 - [Как RuStore может заблокировать любое приложение, если оно читает файлы](https://habr.com/ru/articles/739502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739502)
+- [О несоответствии в AdTech, и как мы с ним боролись](https://habr.com/ru/companies/smartup_tech/articles/739498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739498)
 - [Валим всё в одну кучу, как алгебраисты](https://habr.com/ru/articles/739460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739460)
-- [Tarantool 2.11 LTS: Рассказываем про новые возможности администрирования и безопасности](https://habr.com/ru/companies/vk/articles/739134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739134)
-- [[Перевод] Внутреннее устройство DRBD: алгоритмы работы отказоустойчивого хранилища](https://habr.com/ru/companies/flant/articles/733770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
