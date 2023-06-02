@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключаемся к Ethereum Testnet используя только web3.js и консоль](https://habr.com/ru/articles/739342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739342)
 - [LTV и каршеринг — как мы в Ситидрайве считаем прибыльность клиента](https://habr.com/ru/companies/citydrive/articles/739398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739398)
 - [Из серии: заглянем под капот clang-e2k/llvm-e2k из штатного дистрибутива для Эльбруса](https://habr.com/ru/articles/739394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739394)
 - [The Walking Pod: основные стратегии атак изнутри кластера](https://habr.com/ru/companies/vk/articles/738806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738806)
 - [[Перевод] Что делает ChatGPT… и почему это работает?](https://habr.com/ru/articles/739014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739014)
-- [Предположим, нам дали два целых числа, но не примитивы, а Integer-объекты…](https://habr.com/ru/companies/ibs/articles/739380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
