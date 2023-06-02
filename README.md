@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание надстроек для офисного пакета «МойОфис». Часть 3. Автозаполнение для API и знакомимся с контролами](https://habr.com/ru/articles/739508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739508)
+- [Как RuStore может заблокировать любое приложение, если оно читает файлы](https://habr.com/ru/articles/739502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739502)
 - [Валим всё в одну кучу, как алгебраисты](https://habr.com/ru/articles/739460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739460)
 - [Tarantool 2.11 LTS: Рассказываем про новые возможности администрирования и безопасности](https://habr.com/ru/companies/vk/articles/739134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739134)
 - [[Перевод] Внутреннее устройство DRBD: алгоритмы работы отказоустойчивого хранилища](https://habr.com/ru/companies/flant/articles/733770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733770)
-- [Java для новичков: подборка материалов для самостоятельного изучения и сообществ для погружения](https://habr.com/ru/companies/yandex_praktikum/articles/738812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738812)
-- [Подключаемся к Ethereum Testnet используя только web3.js и консоль](https://habr.com/ru/articles/739342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
