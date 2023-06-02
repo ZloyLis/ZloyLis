@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решаем задачу сетевого планирования с помощью Python](https://habr.com/ru/articles/739368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739368)
 - [Статистика за май по QA вакансиям на HeadHunter](https://habr.com/ru/articles/739336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739336)
 - [Business continuity &amp;amp; Operational resilience: вчера, сегодня, завтра. Откуда пришло и что дальше?](https://habr.com/ru/articles/739322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739322)
 - [Повторяй за мной или двигаем виртуальной камерой like a pro](https://habr.com/ru/articles/739320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739320)
 - [FastAPI без db: Session](https://habr.com/ru/articles/739314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739314)
-- [Как начать тестировать backend и не сойти с ума](https://habr.com/ru/companies/usetech/articles/739306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
