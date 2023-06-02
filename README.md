@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делюсь опытом участия в хакатоне от совкомбанка](https://habr.com/ru/articles/739350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739350)
 - [[Перевод] Rust 1.70.0: протокол &#39;&#39;sparce&#39;&#39; для crates.io, OnceCell и OnceLock, лейблы отладочной информации](https://habr.com/ru/articles/739570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739570)
 - [[Перевод] Кто до сих пор использует PHP?](https://habr.com/ru/companies/ruvds/articles/739042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739042)
 - [Навеянное вентилятором кулера после очередного обновления через месяц после установки](https://habr.com/ru/articles/739546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739546)
 - [Создание сервера для онлайн ММО игр на PHP ч. 8 — Клиентская часть на Unity](https://habr.com/ru/articles/739516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739516)
-- [Создание надстроек для офисного пакета «МойОфис». Часть 3. Автозаполнение для API и знакомимся с контролами](https://habr.com/ru/articles/739508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
