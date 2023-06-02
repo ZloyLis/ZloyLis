@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Внутреннее устройство DRBD: метаданные, идентификаторы поколений и другие подкапотные дела](https://habr.com/ru/companies/flant/articles/733770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733770)
+- [Валим всё в одну кучу, как алгебраисты](https://habr.com/ru/articles/739460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739460)
+- [Tarantool 2.11 LTS: Рассказываем про новые возможности администрирования и безопасности](https://habr.com/ru/companies/vk/articles/739134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739134)
+- [[Перевод] Внутреннее устройство DRBD: алгоритмы работы отказоустойчивого хранилища](https://habr.com/ru/companies/flant/articles/733770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733770)
 - [Java для новичков: подборка материалов для самостоятельного изучения и сообществ для погружения](https://habr.com/ru/companies/yandex_praktikum/articles/738812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738812)
 - [Подключаемся к Ethereum Testnet используя только web3.js и консоль](https://habr.com/ru/articles/739342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739342)
-- [LTV и каршеринг — как мы в Ситидрайве считаем прибыльность клиента](https://habr.com/ru/companies/citydrive/articles/739398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739398)
-- [Из серии: заглянем под капот clang-e2k/llvm-e2k из штатного дистрибутива для Эльбруса](https://habr.com/ru/articles/739394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
