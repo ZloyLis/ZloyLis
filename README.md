@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LTV и каршеринг — как мы в Ситидрайве считаем прибыльность клиента](https://habr.com/ru/companies/citydrive/articles/739398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739398)
+- [Из серии: заглянем под капот clang-e2k/llvm-e2k из штатного дистрибутива для Эльбруса](https://habr.com/ru/articles/739394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739394)
+- [The Walking Pod: основные стратегии атак изнутри кластера](https://habr.com/ru/companies/vk/articles/738806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738806)
+- [[Перевод] Что делает ChatGPT… и почему это работает?](https://habr.com/ru/articles/739014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739014)
 - [Предположим, нам дали два целых числа, но не примитивы, а Integer-объекты…](https://habr.com/ru/companies/ibs/articles/739380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739380)
-- [Быстрый старт с Zsh и Powerlevel10k: двигаемся к терминалу мечты](https://habr.com/ru/articles/739376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739376)
-- [Решаем задачу сетевого планирования с помощью Python](https://habr.com/ru/articles/739368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739368)
-- [Статистика за май по QA вакансиям на HeadHunter](https://habr.com/ru/articles/739336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739336)
-- [Business continuity &amp;amp; Operational resilience: вчера, сегодня, завтра. Откуда пришло и что дальше?](https://habr.com/ru/articles/739322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
