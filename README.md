@@ -35,7 +35,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Кто эти люди, которые до сих пор используют PHP?](https://habr.com/ru/companies/ruvds/articles/739042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739042)
+- [[Перевод] Кто до сих пор использует PHP?](https://habr.com/ru/companies/ruvds/articles/739042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739042)
 - [Навеянное вентилятором кулера после очередного обновления через месяц после установки](https://habr.com/ru/articles/739546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739546)
 - [Создание сервера для онлайн ММО игр на PHP ч. 8 — Клиентская часть на Unity](https://habr.com/ru/articles/739516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739516)
 - [Создание надстроек для офисного пакета «МойОфис». Часть 3. Автозаполнение для API и знакомимся с контролами](https://habr.com/ru/articles/739508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739508)
