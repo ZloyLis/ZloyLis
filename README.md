@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ближайшие бесплатные мероприятия по разработке &lpar;6 июня — 8 июня 2023&rpar;](https://habr.com/ru/articles/739616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739616)
 - [Zapier для бедных](https://habr.com/ru/articles/739504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739504)
 - [Шутер «Проект Кощей», разработка игр на SFML C++](https://habr.com/ru/articles/739584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739584)
 - [Делюсь опытом участия в хакатоне от Совкомбанка](https://habr.com/ru/articles/739350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739350)
 - [[Перевод] Rust 1.70.0: протокол &#39;&#39;sparce&#39;&#39; для crates.io, OnceCell и OnceLock, лейблы отладочной информации](https://habr.com/ru/articles/739570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739570)
-- [[Перевод] Кто до сих пор использует PHP?](https://habr.com/ru/companies/ruvds/articles/739042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
