@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не нужно фиксить concurrency проблемы](https://habr.com/ru/articles/739640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739640)
 - [[Перевод] JVM internals — перевод](https://habr.com/ru/articles/739338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739338)
 - [Создание сервера для онлайн ММО игр на PHP ч. 10 — Открытый бесшовной мира в 2D игре и причем тут беспилотники](https://habr.com/ru/articles/725466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725466)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;6 июня — 8 июня 2023&rpar;](https://habr.com/ru/articles/739616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739616)
 - [Zapier для бедных](https://habr.com/ru/articles/739504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739504)
-- [Шутер «Проект Кощей», разработка игр на SFML C++](https://habr.com/ru/articles/739584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
