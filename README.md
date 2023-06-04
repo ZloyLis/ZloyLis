@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Одноплатный компьютер за 400 рублей: как применить дешёвый ТВ-стик в качестве одноплатного компьютера?](https://habr.com/ru/companies/itglobalcom/articles/739656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739656)
 - [[Перевод] Сколько памяти нужно для запуска 1 миллиона параллельных задач?](https://habr.com/ru/companies/ruvds/articles/739054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739054)
 - [[Перевод] ML System Design: основные способы деплоя и тестирования моделей машинного обучения в продакшене](https://habr.com/ru/articles/739316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739316)
 - [Бенчмаркая Array Reverse: как быстро перевернуть массив?](https://habr.com/ru/articles/739674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739674)
 - [Прощай, открытое образование](https://habr.com/ru/articles/739664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739664)
-- [Repka Pi и начало работы. Тесты разных MicroSD, клонирование SD карт, создание образов SD карт c рабочей прошивкой](https://habr.com/ru/articles/736456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
