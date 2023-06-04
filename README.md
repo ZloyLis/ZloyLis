@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Робот — Гобот» или изучаем азы программирования видеоигр в Godot](https://habr.com/ru/articles/739756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739756)
 - [Парсинг заголовков объявлений](https://habr.com/ru/articles/739750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739750)
 - [Apple Pro Weekly News &lpar;29.05 – 04.06.23&rpar;](https://habr.com/ru/articles/739736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739736)
 - [10 советов по TypeScript для продвинутых пользователей в манере русских мифов](https://habr.com/ru/articles/739730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739730)
 - [[Перевод] Affordable as a Bus, Comfortable as a Taxi: A Promising Type of Public Transport for Large and Medium-Sized Cities.Part1](https://habr.com/ru/articles/739286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739286)
-- [Почти одноплатник за 400 рублей: как применить дешёвый ТВ-стик 10-летней давности?](https://habr.com/ru/companies/itglobalcom/articles/739656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
