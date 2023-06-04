@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Affordable as a Bus, Comfortable as a Taxi: A Promising Type of Public Transport for Large and Medium-Sized Cities. Part](https://habr.com/ru/articles/739286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739286)
-- [Одноплатный компьютер за 400 рублей: как применить дешёвый ТВ-стик в качестве одноплатного компьютера?](https://habr.com/ru/companies/itglobalcom/articles/739656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739656)
+- [10 советов по TypeScript для продвинутых пользователей в манере русских мифов](https://habr.com/ru/articles/739730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739730)
+- [[Перевод] Affordable as a Bus, Comfortable as a Taxi: A Promising Type of Public Transport for Large and Medium-Sized Cities.Part1](https://habr.com/ru/articles/739286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739286)
+- [Почти одноплатник за 400 рублей: как применить дешёвый ТВ-стик 10-летней давности?](https://habr.com/ru/companies/itglobalcom/articles/739656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739656)
 - [[Перевод] Сколько памяти нужно для запуска 1 миллиона параллельных задач?](https://habr.com/ru/companies/ruvds/articles/739054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739054)
 - [[Перевод] ML System Design: основные способы деплоя и тестирования моделей машинного обучения в продакшене](https://habr.com/ru/articles/739316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739316)
-- [Бенчмаркая Array Reverse: как быстро перевернуть массив?](https://habr.com/ru/articles/739674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
