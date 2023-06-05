@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая сексуальная революция от Apple &lpar;18+&rpar;](https://habr.com/ru/articles/740036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740036)
 - [Security Week 2323: целевая атака на устройства под управлением iOS](https://habr.com/ru/companies/kaspersky/articles/739944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739944)
 - [Потенциал искусственного интеллекта в пищевой промышленности и фарме](https://habr.com/ru/articles/740008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740008)
 - [Пример биометрической аутентификации в веб-приложениях](https://habr.com/ru/articles/740000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740000)
 - [[Перевод] 10 игр для изучения JavaScript](https://habr.com/ru/companies/otus/articles/739946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739946)
-- [Как создать дизайн-систему, в которой комфортно всем](https://habr.com/ru/companies/bft/articles/739752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
