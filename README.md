@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пример биометрической аутентификации в веб-приложениях](https://habr.com/ru/articles/740000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740000)
 - [[Перевод] 10 игр для изучения JavaScript](https://habr.com/ru/companies/otus/articles/739946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739946)
+- [Как создать дизайн-систему, в которой комфортно всем](https://habr.com/ru/companies/bft/articles/739752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739752)
 - [[Перевод] Что такое аннотации в Kubernetes?](https://habr.com/ru/companies/southbridge/articles/739920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739920)
 - [Оптимизируем кодирование u128 в base62](https://habr.com/ru/articles/739936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739936)
-- [Массовый дефейс веб-сайтов .РФ](https://habr.com/ru/companies/ruvds/articles/739898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739898)
-- [BFE как альтернативный балансировщик уровня приложения](https://habr.com/ru/companies/otus/articles/739722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
