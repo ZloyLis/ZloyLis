@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизируем кодирование u128 в base62](https://habr.com/ru/articles/739936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739936)
+- [Массовый дефейс веб-сайтов.РФ](https://habr.com/ru/companies/ruvds/articles/739898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739898)
 - [BFE как альтернативный балансировщик уровня приложения](https://habr.com/ru/companies/otus/articles/739722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739722)
 - [5 книг, которые стоит прочесть С++-разработчику](https://habr.com/ru/companies/ru_mts/articles/739908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739908)
 - [[Перевод] Что нового во Flutter 3.10, ч.2](https://habr.com/ru/articles/739878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739878)
-- [Как создавался умный агрегатор новостей LifeLines](https://habr.com/ru/articles/739870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739870)
-- [[Перевод] Продакты VS Разработчики: как недоверие и отказ от сотрудничества замедляют выход продукта](https://habr.com/ru/companies/vk/articles/737162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
