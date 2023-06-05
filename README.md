@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Принцип подстановки Барбары Лисков в Java](https://habr.com/ru/articles/739734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739734)
 - [«Фокус-покус», или еще одна попытка побороть Leanback](https://habr.com/ru/companies/gazprommedia/articles/710088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710088)
 - [Мобильная разработка за неделю #491 &lpar;29 мая — 4 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/739766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739766)
 - [Автоответчик на запросы доступа к файлам в гугл почте](https://habr.com/ru/articles/739168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739168)
 - [Что за паркур вы построили в Roblox? Давайте сделаем круче](https://habr.com/ru/articles/739760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739760)
-- [«Робот — Гобот» или изучаем азы программирования видеоигр в Godot](https://habr.com/ru/articles/739756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739756)
 <!-- BLOG-POST-LIST:END -->
 
 ---
