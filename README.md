@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 10 игр для изучения JavaScript](https://habr.com/ru/companies/otus/articles/739946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739946)
 - [[Перевод] Что такое аннотации в Kubernetes?](https://habr.com/ru/companies/southbridge/articles/739920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739920)
 - [Оптимизируем кодирование u128 в base62](https://habr.com/ru/articles/739936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739936)
-- [Массовый дефейс веб-сайтов.РФ](https://habr.com/ru/companies/ruvds/articles/739898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739898)
+- [Массовый дефейс веб-сайтов .РФ](https://habr.com/ru/companies/ruvds/articles/739898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739898)
 - [BFE как альтернативный балансировщик уровня приложения](https://habr.com/ru/companies/otus/articles/739722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739722)
-- [5 книг, которые стоит прочесть С++-разработчику](https://habr.com/ru/companies/ru_mts/articles/739908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
