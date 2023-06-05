@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создавался умный агрегатор новостей LifeLines](https://habr.com/ru/articles/739870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739870)
+- [[Перевод] Продакты VS Разработчики: как недоверие и отказ от сотрудничества замедляют выход продукта](https://habr.com/ru/companies/vk/articles/737162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737162)
+- [MoR ошибок, сбоев и багов в проде](https://habr.com/ru/companies/tinkoff/articles/716420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=716420)
+- [60 антипаттернов для С++ программиста, часть 1 &lpar;совет 1 — 5&rpar;](https://habr.com/ru/companies/pvs-studio/articles/739848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739848)
 - [Колин Персиваль, автор tarsnap — математик, криптограф и программист. Невольный пособник крипты](https://habr.com/ru/companies/ruvds/articles/739392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739392)
-- [Теорема Байеса для чайников](https://habr.com/ru/articles/739648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739648)
-- [От алгебры школьной — к университетской](https://habr.com/ru/articles/739822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739822)
-- [[HTTP API &amp;amp; REST] Терминология. Мифология REST. Составляющие HTTP-запроса](https://habr.com/ru/articles/739808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739808)
-- [[Перевод] Принцип подстановки Барбары Лисков в Java](https://habr.com/ru/articles/739734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
