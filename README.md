@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теорема Байеса для чайников](https://habr.com/ru/articles/739648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739648)
+- [От алгебры школьной — к университетской](https://habr.com/ru/articles/739822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739822)
+- [[HTTP API &amp;amp; REST] Терминология. Мифология REST. Составляющие HTTP-запроса](https://habr.com/ru/articles/739808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739808)
 - [[Перевод] Принцип подстановки Барбары Лисков в Java](https://habr.com/ru/articles/739734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739734)
 - [«Фокус-покус», или еще одна попытка побороть Leanback](https://habr.com/ru/companies/gazprommedia/articles/710088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710088)
-- [Мобильная разработка за неделю #491 &lpar;29 мая — 4 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/739766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739766)
-- [Автоответчик на запросы доступа к файлам в гугл почте](https://habr.com/ru/articles/739168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739168)
-- [Что за паркур вы построили в Roblox? Давайте сделаем круче](https://habr.com/ru/articles/739760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
