@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как разобраться в технологии, даже если вы очень крутой?](https://habr.com/ru/companies/regionsoft/articles/740038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740038)
+- [Есть проблемы гораздо сложнее, чем NP-Complete](https://habr.com/ru/companies/timeweb/articles/740100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740100)
+- [Системы счисления, которым ещё не время умирать](https://habr.com/ru/companies/first/articles/739802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739802)
+- [5 кейсов, как разработчику помогает знание DevOps-инструментов](https://habr.com/ru/companies/southbridge/articles/740086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740086)
 - [О чём могут рассказать логи: важный инструмент в работе тестировщика](https://habr.com/ru/companies/yandex_praktikum/articles/739058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739058)
-- [Спецвыпуск Apple Pro Weekly News – WWDC23](https://habr.com/ru/articles/740032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740032)
-- [WWDC 2023. Что нового для разработчика](https://habr.com/ru/companies/usetech/articles/740046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740046)
-- [HTTP 1, 2 и 3 — просто](https://habr.com/ru/articles/739166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739166)
-- [[Перевод] Regular expressions in Swift](https://habr.com/ru/articles/740044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
