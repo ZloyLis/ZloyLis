@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP 1, 2 и 3 — просто](https://habr.com/ru/articles/739166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739166)
 - [[Перевод] Regular expressions in Swift](https://habr.com/ru/articles/740044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740044)
 - [Security Week 2323: целевая атака на устройства под управлением iOS](https://habr.com/ru/companies/kaspersky/articles/739944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739944)
 - [Потенциал искусственного интеллекта в пищевой промышленности и фарме](https://habr.com/ru/articles/740008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740008)
 - [Пример биометрической аутентификации в веб-приложениях](https://habr.com/ru/articles/740000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740000)
-- [[Перевод] 10 игр для изучения JavaScript](https://habr.com/ru/companies/otus/articles/739946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
