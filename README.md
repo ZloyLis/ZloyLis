@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Укрощение мифического чудовища: реальный опыт промышленного использования ScyllaDB без прикрас](https://habr.com/ru/companies/oleg-bunin/articles/737462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737462)
+- [Приложение BAI Chat на GTK4 и Python](https://habr.com/ru/companies/first/articles/740082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740082)
+- [От Black box к White box: как мы реализовали управление ресурсами кластеров Kubernetes](https://habr.com/ru/companies/vk/articles/737288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737288)
 - [Как разобраться в технологии, даже если вы очень крутой?](https://habr.com/ru/companies/regionsoft/articles/740038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740038)
 - [Есть проблемы гораздо сложнее, чем NP-Complete](https://habr.com/ru/companies/timeweb/articles/740100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740100)
-- [Системы счисления, которым ещё не время умирать](https://habr.com/ru/companies/first/articles/739802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739802)
-- [5 кейсов, как разработчику помогает знание DevOps-инструментов](https://habr.com/ru/companies/southbridge/articles/740086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740086)
-- [О чём могут рассказать логи: важный инструмент в работе тестировщика](https://habr.com/ru/companies/yandex_praktikum/articles/739058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
