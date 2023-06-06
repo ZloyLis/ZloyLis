@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Своя библиотека под Android за один вечер](https://habr.com/ru/articles/739332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739332)
+- [[Перевод] Affordable as a Bus, Comfortable as a Taxi: A Promising Type of Public Transport for Large and Medium-Sized Cities.Part3](https://habr.com/ru/articles/740162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740162)
+- [Tinder ушёл… да здравствует $hyoo_match](https://habr.com/ru/articles/740240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740240)
 - [Тусовка профессионалов разработки игр, VR 3D-графики — UNIGINE Open Air 2023](https://habr.com/ru/companies/unigine/articles/739886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739886)
 - [Как No-code и генеративный ИИ позволяют за секунды создавать новые сайты](https://habr.com/ru/companies/itglobalcom/articles/740182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740182)
-- [Просто о сложном: трассировки в микросервисах](https://habr.com/ru/companies/simbirsoft/articles/740152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740152)
-- [Как коммитить в open source. Пошаговый гайд](https://habr.com/ru/articles/740174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740174)
-- [Мелодия и золотое сечение](https://habr.com/ru/articles/735912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
