@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как No-code и генеративный ИИ позволяют за секунды создавать новые сайты](https://habr.com/ru/companies/itglobalcom/articles/740182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740182)
+- [Просто о сложном: трассировки в микросервисах](https://habr.com/ru/companies/simbirsoft/articles/740152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740152)
+- [Как коммитить в open source. Пошаговый гайд](https://habr.com/ru/articles/740174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740174)
+- [Мелодия и золотое сечение](https://habr.com/ru/articles/735912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735912)
 - [[Перевод] Шпаргалка по техникам тест дизайна](https://habr.com/ru/articles/740026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740026)
-- [«Инженеров данных заменит автоматика» и другие мифы о DE](https://habr.com/ru/specials/740058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740058)
-- [Избавляемся от предупреждений и уязвимостей при установке пакетов с помощью yarn](https://habr.com/ru/articles/739296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739296)
-- [Оптимизация Change Data Capture в БД Oracle](https://habr.com/ru/articles/740136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740136)
-- [Работа с файлами в приложениях: как уйти от зарубежных .NET-библиотек](https://habr.com/ru/articles/739114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
