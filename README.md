@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Шпаргалка по техникам тест дизайна](https://habr.com/ru/articles/740026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740026)
+- [«Инженеров данных заменит автоматика» и другие мифы о DE](https://habr.com/ru/specials/740058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740058)
+- [Избавляемся от предупреждений и уязвимостей при установке пакетов с помощью yarn](https://habr.com/ru/articles/739296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739296)
+- [Оптимизация Change Data Capture в БД Oracle](https://habr.com/ru/articles/740136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740136)
 - [Работа с файлами в приложениях: как уйти от зарубежных .NET-библиотек](https://habr.com/ru/articles/739114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739114)
-- [Укрощение мифического чудовища: реальный опыт промышленного использования ScyllaDB без прикрас](https://habr.com/ru/companies/oleg-bunin/articles/737462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737462)
-- [Приложение BAI Chat на GTK4 и Python](https://habr.com/ru/companies/first/articles/740082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740082)
-- [От Black box к White box: как мы реализовали управление ресурсами кластеров Kubernetes](https://habr.com/ru/companies/vk/articles/737288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737288)
-- [Как разобраться в технологии, даже если вы очень крутой?](https://habr.com/ru/companies/regionsoft/articles/740038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
