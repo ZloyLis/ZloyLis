@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О чём могут рассказать логи: важный инструмент в работе тестировщика](https://habr.com/ru/companies/yandex_praktikum/articles/739058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739058)
+- [Спецвыпуск Apple Pro Weekly News – WWDC23](https://habr.com/ru/articles/740032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740032)
+- [WWDC 2023. Что нового для разработчика](https://habr.com/ru/companies/usetech/articles/740046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740046)
 - [HTTP 1, 2 и 3 — просто](https://habr.com/ru/articles/739166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739166)
 - [[Перевод] Regular expressions in Swift](https://habr.com/ru/articles/740044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740044)
-- [Security Week 2323: целевая атака на устройства под управлением iOS](https://habr.com/ru/companies/kaspersky/articles/739944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739944)
-- [Потенциал искусственного интеллекта в пищевой промышленности и фарме](https://habr.com/ru/articles/740008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740008)
-- [Пример биометрической аутентификации в веб-приложениях](https://habr.com/ru/articles/740000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
