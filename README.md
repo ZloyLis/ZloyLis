@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дообучение модели машинного перевода](https://habr.com/ru/articles/738086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738086)
 - [Своя библиотека под Android за один вечер](https://habr.com/ru/articles/739332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739332)
 - [Tinder ушёл… да здравствует $hyoo_match](https://habr.com/ru/articles/740240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740240)
 - [Тусовка профессионалов разработки игр, VR 3D-графики — UNIGINE Open Air 2023](https://habr.com/ru/companies/unigine/articles/739886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739886)
 - [[Перевод] Практическое руководство по Jetpack Compose: создаем анимированную кнопку-счетчик](https://habr.com/ru/companies/otus/articles/740190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740190)
-- [Как No-code и генеративный ИИ позволяют за секунды создавать новые сайты](https://habr.com/ru/companies/itglobalcom/articles/740182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
