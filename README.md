@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать интерактивный дашборд с нуля через ChatGPT](https://habr.com/ru/companies/rosbank/articles/740374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740374)
+- [[Перевод] Разница между FileReader и BufferedReader в Java](https://habr.com/ru/companies/otus/articles/740278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740278)
 - [Java Digest #1](https://habr.com/ru/companies/tinkoff/articles/740350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740350)
 - [TypeScript 5.0 и 4.9: оцениваем и сравниваем изменения](https://habr.com/ru/companies/simbirsoft/articles/740224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740224)
 - [Безопасное использование JSON: Распространенные ошибки и решения](https://habr.com/ru/companies/otus/articles/739966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739966)
-- [Внедрить или не внедрить? Отвечает команда GrowthHacking](https://habr.com/ru/companies/alfa/articles/739106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739106)
-- [Как внедрить SLO в продукт и получить от этого пользу](https://habr.com/ru/companies/skbkontur/articles/739774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
