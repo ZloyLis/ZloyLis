@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка бесплатных инструментов для удаленной разработки](https://habr.com/ru/companies/cloud_mts/articles/740486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740486)
+- [[Перевод] Как устроено распределение памяти](https://habr.com/ru/companies/ruvds/articles/740466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740466)
+- [ts-reset vs types-spring](https://habr.com/ru/articles/740474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740474)
 - [Горячие новинки WWDC 2023](https://habr.com/ru/companies/surfstudio/articles/740392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740392)
 - [Spring Data JPA: замена нескольких запросов одним и почему это очень важно](https://habr.com/ru/articles/740446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740446)
-- [А у вас есть кубернетес? Подборка текстов по k8s для тех, кто не DevOps](https://habr.com/ru/companies/selectel/articles/740400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740400)
-- [[Перевод] С++ как скриптовый язык на примере простой игры](https://habr.com/ru/companies/piter/articles/740422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740422)
-- [Эти ваши синусы](https://habr.com/ru/articles/739216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
