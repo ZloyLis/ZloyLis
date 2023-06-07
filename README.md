@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разыменование нуля в Linux – возможность эксплойта](https://habr.com/ru/companies/timeweb/articles/740494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740494)
 - [Подборка бесплатных инструментов для удаленной разработки](https://habr.com/ru/companies/cloud_mts/articles/740486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740486)
 - [[Перевод] Как устроено распределение памяти](https://habr.com/ru/companies/ruvds/articles/740466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740466)
 - [ts-reset vs types-spring](https://habr.com/ru/articles/740474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740474)
 - [Горячие новинки WWDC 2023](https://habr.com/ru/companies/surfstudio/articles/740392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740392)
-- [Spring Data JPA: замена нескольких запросов одним и почему это очень важно](https://habr.com/ru/articles/740446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
