@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Горячие новинки WWDC 2023](https://habr.com/ru/companies/surfstudio/articles/740392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740392)
+- [Spring Data JPA: замена нескольких запросов одним и почему это очень важно](https://habr.com/ru/articles/740446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740446)
+- [А у вас есть кубернетес? Подборка текстов по k8s для тех, кто не DevOps](https://habr.com/ru/companies/selectel/articles/740400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740400)
+- [[Перевод] С++ как скриптовый язык на примере простой игры](https://habr.com/ru/companies/piter/articles/740422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740422)
 - [Эти ваши синусы](https://habr.com/ru/articles/739216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739216)
-- [Atomic Design в веб-дизайне](https://habr.com/ru/articles/740416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740416)
-- [Ограничиваем доступ в Kubernetes: без смс, но с регистрацией](https://habr.com/ru/companies/croc/articles/740248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740248)
-- [Как создать интерактивный дашборд с нуля через ChatGPT](https://habr.com/ru/companies/rosbank/articles/740374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740374)
-- [[Перевод] Разница между FileReader и BufferedReader в Java](https://habr.com/ru/companies/otus/articles/740278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
