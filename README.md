@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрить или не внедрить? Отвечает команда GrowthHacking](https://habr.com/ru/companies/alfa/articles/739106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739106)
+- [Как внедрить SLO в продукт и получить от этого пользу](https://habr.com/ru/companies/skbkontur/articles/739774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739774)
 - [60 антипаттернов для С++ программиста, часть 2 &lpar;совет 6 — 10&rpar;](https://habr.com/ru/companies/pvs-studio/articles/740318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740318)
 - [Заставляем трансформеров отвечать на вопросы](https://habr.com/ru/articles/740308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740308)
 - [Выбираем Qt](https://habr.com/ru/companies/2gis/articles/740054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740054)
-- [Бенчмаркая Capacity 18 коллекций: как быстрей?](https://habr.com/ru/articles/740296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740296)
-- [Дообучение модели машинного перевода](https://habr.com/ru/articles/738086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
