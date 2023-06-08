@@ -39,7 +39,7 @@ ___
 - [Когда неудачные решения в IT-проекте приводят к крутому пике: как не допустить катастрофы](https://habr.com/ru/companies/simbirsoft/articles/740618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740618)
 - [«Сжать и не потерять», Или как эффективно кодировать изображения](https://habr.com/ru/companies/sberbank/articles/740624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740624)
 - [Почему всем нужна обратная связь, как её принимать и запрашивать](https://habr.com/ru/companies/yandex_praktikum/articles/739274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739274)
-- [“И швец, и жнец, и на дуде игрец” или как совмещать управление командой и тестирование](https://habr.com/ru/articles/740640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740640)
+- [«И швец, и жнец, и на дуде игрец» или как совмещать управление командой и тестирование](https://habr.com/ru/articles/740640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
