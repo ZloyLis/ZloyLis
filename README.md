@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Оптимизация сборки веб-приложения](https://habr.com/ru/companies/domclick/articles/722256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722256)
-- [API-First: как мы внедряем привычный OpenAPI и «слегка подозрительный» AsyncAPI](https://habr.com/ru/companies/gazprombank/articles/740456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740456)
-- [Newbie Guide: разбираемся с MVCC на простых примерах](https://habr.com/ru/companies/vk/articles/740108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740108)
-- [Работа или жизнь: как сохранить продуктивность и себя в эпоху онлайна](https://habr.com/ru/companies/redmadrobot/articles/740580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740580)
-- [Архитектура event-driven приложений](https://habr.com/ru/companies/otus/articles/740578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740578)
+- [«Сжать и не потерять», Или как эффективно кодировать изображения](https://habr.com/ru/companies/sberbank/articles/740624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740624)
+- [Почему всем нужна обратная связь, как её принимать и запрашивать](https://habr.com/ru/companies/yandex_praktikum/articles/739274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739274)
+- [“И швец, и жнец, и на дуде игрец” или как совмещать управление командой и тестирование](https://habr.com/ru/articles/740640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740640)
+- [Хранилище для Почты](https://habr.com/ru/companies/oleg-bunin/articles/737502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=737502)
+- [А/Б тесты с метрикой отношения. Дельта-метод](https://habr.com/ru/companies/X5Tech/articles/740476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
