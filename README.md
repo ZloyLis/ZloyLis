@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа или жизнь: как сохранить продуктивность и себя в эпоху онлайна](https://habr.com/ru/companies/redmadrobot/articles/740580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740580)
+- [Архитектура event-driven приложений](https://habr.com/ru/companies/otus/articles/740578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740578)
 - [[Перевод] Знакомимся с @scope в CSS](https://habr.com/ru/articles/740550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740550)
 - [Kubernetes Observability: Audit Logs](https://habr.com/ru/companies/otus/articles/740506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740506)
 - [Подборка бесплатных инструментов для удаленной разработки](https://habr.com/ru/companies/cloud_mts/articles/740486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740486)
-- [[Перевод] Как устроено распределение памяти](https://habr.com/ru/companies/ruvds/articles/740466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740466)
-- [ts-reset vs types-spring](https://habr.com/ru/articles/740474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
