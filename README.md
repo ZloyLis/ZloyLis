@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CDN — как взять и ускорить доставку контента за счет сервиса #CloudMTS](https://habr.com/ru/companies/cloud_mts/articles/740256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740256)
+- [Как фронтендеру пройти собеседование: разбор типичных задач и советы от тимлида «РТК ИТ»](https://habr.com/ru/companies/hexlet/articles/740714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740714)
+- [Профилирование, ассемблер и все-все-все](https://habr.com/ru/articles/542156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=542156)
+- [Сводите свой код в салон красоты вместе с ESLint](https://habr.com/ru/articles/740700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740700)
 - [Как катить фичи без релизов. Часть 1: про виджеты](https://habr.com/ru/companies/alfa/articles/739568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739568)
-- [Треугольник Серпинского — Canvas, JS](https://habr.com/ru/articles/740658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740658)
-- [Когда неудачные решения в IT-проекте приводят к крутому пике: как не допустить катастрофы](https://habr.com/ru/companies/simbirsoft/articles/740618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740618)
-- [«Сжать и не потерять», Или как эффективно кодировать изображения](https://habr.com/ru/companies/sberbank/articles/740624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740624)
-- [Почему всем нужна обратная связь, как её принимать и запрашивать](https://habr.com/ru/companies/yandex_praktikum/articles/739274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
