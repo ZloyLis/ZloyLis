@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хороший, плохой, злой и… свободный? Сравниваем глуповатые, но усердные AI-плагины для разработки](https://habr.com/ru/companies/kaspersky/articles/739208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739208)
 - [CDN — как взять и ускорить доставку контента за счет сервиса #CloudMTS](https://habr.com/ru/companies/cloud_mts/articles/740256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740256)
 - [Как фронтендеру пройти собеседование: разбор типичных задач и советы от тимлида «РТК ИТ»](https://habr.com/ru/companies/hexlet/articles/740714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740714)
 - [Профилирование, ассемблер и все-все-все](https://habr.com/ru/articles/542156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=542156)
 - [Сводите свой код в салон красоты вместе с ESLint](https://habr.com/ru/articles/740700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740700)
-- [Как катить фичи без релизов. Часть 1: про виджеты](https://habr.com/ru/companies/alfa/articles/739568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
