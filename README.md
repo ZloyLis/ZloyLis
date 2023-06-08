@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ещё раз о пропертях или откуда что берётся](https://habr.com/ru/articles/740802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740802)
 - [Микро оптимизация и где её нужно применять](https://habr.com/ru/articles/740774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740774)
 - [Пишем свой игровой движок.Часть 1 — WinApi и Directx](https://habr.com/ru/articles/740770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740770)
 - [Хороший, плохой, злой и… свободный? Сравниваем глуповатые, но усердные AI-плагины для разработки](https://habr.com/ru/companies/kaspersky/articles/739208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739208)
 - [CDN — как взять и ускорить доставку контента за счет сервиса #CloudMTS](https://habr.com/ru/companies/cloud_mts/articles/740256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740256)
-- [Как фронтендеру пройти собеседование: разбор типичных задач и советы от тимлида «РТК ИТ»](https://habr.com/ru/companies/hexlet/articles/740714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
