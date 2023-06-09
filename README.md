@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741016)
+- [5 страшилок об искусственном интеллекте](https://habr.com/ru/companies/mvideo/articles/741008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741008)
 - [Зачем разработчику нужен Linux вообще и терминал в частности](https://habr.com/ru/articles/740966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740966)
 - [[recovery mode] Академия Аналитиков Авито: новый набор](https://habr.com/ru/companies/avito/articles/740986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740986)
 - [Как РСХБ-Интех ездил на CodeFest: взгляд стендиста](https://habr.com/ru/companies/rshb/articles/740976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740976)
-- [[Перевод] SectorC: компилятор Си в пределах 512 байт](https://habr.com/ru/companies/ruvds/articles/740310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740310)
-- [«Системный дуализм» и выгорание: дуальности системного аналитика](https://habr.com/ru/articles/740418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
