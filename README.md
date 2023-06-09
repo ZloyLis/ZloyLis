@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [4 фичи для инклюзивного дизайна на примере приложения Duolingo](https://habr.com/ru/articles/740946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740946)
+- [Любите ли вы Rust, как люблю его я?](https://habr.com/ru/articles/740936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740936)
 - [ECMAScript 2015, 2016, 2017, 2018, 2019, 2020, 2021](https://habr.com/ru/articles/740934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740934)
 - [Работа с формами в Angular — модуль работы с формами и обертки полей](https://habr.com/ru/companies/tinkoff/articles/740706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740706)
 - [Как создать модули со всей обвязкой под проект, аки Танос пальцем щёлкнув?](https://habr.com/ru/companies/cian/articles/740928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740928)
-- [[Перевод] Пару слов о полях и свойствах в Kotlin](https://habr.com/ru/companies/otus/articles/740910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740910)
-- [[recovery mode] Максимальное Потребление Кислорода. Как там наши сердце и легкие?](https://habr.com/ru/articles/740896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
