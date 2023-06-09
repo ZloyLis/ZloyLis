@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Создание фоновых задач в .NET с запросом состояния запущенного таска](https://habr.com/ru/articles/741044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741044)
 - [BALLSORT на $mol](https://habr.com/ru/articles/741040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741040)
 - [Задача коммивояжёра — ещё немного больше, ещё немного быстрее](https://habr.com/ru/articles/740984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740984)
 - [Модификация алгоритма FP Growth или как правильно ухаживать за своими деревьями](https://habr.com/ru/articles/741024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741024)
 - [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741016)
-- [5 страшилок об искусственном интеллекте](https://habr.com/ru/companies/mvideo/articles/741008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
