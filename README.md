@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем разработчику нужен Linux вообще и терминал в частности](https://habr.com/ru/articles/740966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740966)
+- [[recovery mode] Академия Аналитиков Авито: новый набор](https://habr.com/ru/companies/avito/articles/740986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740986)
+- [Как РСХБ-Интех ездил на CodeFest: взгляд стендиста](https://habr.com/ru/companies/rshb/articles/740976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740976)
 - [[Перевод] SectorC: компилятор Си в пределах 512 байт](https://habr.com/ru/companies/ruvds/articles/740310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740310)
 - [«Системный дуализм» и выгорание: дуальности системного аналитика](https://habr.com/ru/articles/740418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740418)
-- [4 фичи для инклюзивного дизайна на примере приложения Duolingo](https://habr.com/ru/articles/740946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740946)
-- [Любите ли вы Rust, как люблю его я?](https://habr.com/ru/articles/740936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740936)
-- [ECMAScript 2015, 2016, 2017, 2018, 2019, 2020, 2021](https://habr.com/ru/articles/740934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
