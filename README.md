@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Патистейшен — или как всадить 30 млн рублей, а потом передумать](https://habr.com/ru/articles/740790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740790)
+- [[HTTP API &amp;amp; REST] Преимущества и недостатки HTTP API](https://habr.com/ru/articles/740828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740828)
 - [[Перевод] Эффект внутреннего JSON](https://habr.com/ru/articles/736900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736900)
 - [О шестом технологическом укладе](https://habr.com/ru/articles/740810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740810)
 - [Ещё раз о пропертях или откуда что берётся](https://habr.com/ru/articles/740802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740802)
-- [Микро оптимизация и где её нужно применять](https://habr.com/ru/articles/740774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740774)
-- [Пишем свой игровой движок.Часть 1 — WinApi и Directx](https://habr.com/ru/articles/740770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
