@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кросс-компиляция под RISC-V для самых маленьких](https://habr.com/ru/articles/740868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740868)
+- [[Перевод] Чего стоят звезды на GitHub?](https://habr.com/ru/companies/productivity_inside/articles/740860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740860)
 - [Из SQL в NoSQL: меняем парадигму запросов](https://habr.com/ru/companies/vk/articles/739540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739540)
 - [Когда что-то пошло не так: что расскажут экраны тестировщику](https://habr.com/ru/companies/rshb/articles/740814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740814)
 - [60 антипаттернов для С++ программиста, часть 3 &lpar;совет 11 — 15&rpar;](https://habr.com/ru/companies/pvs-studio/articles/740838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740838)
-- [PySpark для аналитика. Как выгружать данные с помощью toPandas и его альтернатив](https://habr.com/ru/companies/avito/articles/740232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740232)
-- [Говорим про системное программирование и дизайн микропроцессоров простым языком](https://habr.com/ru/companies/yadro/articles/740726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
