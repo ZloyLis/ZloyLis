@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модификация алгоритма FP Growth или как правильно ухаживать за своими деревьями](https://habr.com/ru/articles/741024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741024)
 - [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741016)
 - [5 страшилок об искусственном интеллекте](https://habr.com/ru/companies/mvideo/articles/741008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741008)
 - [Зачем разработчику нужен Linux вообще и терминал в частности](https://habr.com/ru/articles/740966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740966)
 - [[recovery mode] Академия Аналитиков Авито: новый набор](https://habr.com/ru/companies/avito/articles/740986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740986)
-- [Как РСХБ-Интех ездил на CodeFest: взгляд стендиста](https://habr.com/ru/companies/rshb/articles/740976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
