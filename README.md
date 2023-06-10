@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Декомпозиция тест кейсов в теории и на практике](https://habr.com/ru/articles/741094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741094)
 - [[recovery mode] Телеграм-боты на NodeJS](https://habr.com/ru/articles/740796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740796)
 - [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736502)
 - [Как считать токены для GPT-3/GPT-4](https://habr.com/ru/articles/741068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741068)
 - [Gravitee.io: добавление кастомных плагинов, используя docker-compose](https://habr.com/ru/articles/741034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741034)
-- [Факторный анализ](https://habr.com/ru/companies/otus/articles/741064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
