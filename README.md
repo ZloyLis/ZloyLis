@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с void* в стиле C++](https://habr.com/ru/articles/736860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736860)
 - [JavaScript Live-Coding: Мастерство решения типовых задач на собеседованиях](https://habr.com/ru/articles/741108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741108)
-- [Как заходить в android automation &lpar;часть 1&rpar;](https://habr.com/ru/articles/741098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741098)
+- [Как заходить в android automation &lpar;часть 1 — Kotlin для тестировщика&rpar;](https://habr.com/ru/articles/741098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741098)
 - [Правильное Unit тестирование: декомпозиция тест кейсов в теории и на практике](https://habr.com/ru/articles/741094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741094)
 - [[recovery mode] Телеграм-боты на NodeJS](https://habr.com/ru/articles/740796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740796)
-- [Пишем gRPC автотесты на Go с Allure отчетом](https://habr.com/ru/articles/736502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
