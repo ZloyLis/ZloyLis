@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как считать токены для GPT-3/GPT-4](https://habr.com/ru/articles/741068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741068)
+- [Gravitee.io: добавление кастомных плагинов, используя docker-compose](https://habr.com/ru/articles/741034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741034)
 - [Факторный анализ](https://habr.com/ru/companies/otus/articles/741064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741064)
 - [Remote Console для трассировки web-приложений](https://habr.com/ru/articles/741062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741062)
 - [[recovery mode] Создание фоновых задач в .NET с запросом состояния запущенного таска](https://habr.com/ru/articles/741044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741044)
-- [BALLSORT на $mol](https://habr.com/ru/articles/741040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741040)
-- [Задача коммивояжёра — ещё немного больше, ещё немного быстрее](https://habr.com/ru/articles/740984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
