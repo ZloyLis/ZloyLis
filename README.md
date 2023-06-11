@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем в Switch SDK три разных sin?](https://habr.com/ru/articles/741184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741184)
 - [Load Balancer и Reverse Proxy в микросервисной архитектуре](https://habr.com/ru/companies/otus/articles/741136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741136)
 - [[Перевод] Rust моей мечты — несостоявшийся язык](https://habr.com/ru/articles/741124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741124)
 - [Работа с void* в стиле C++](https://habr.com/ru/articles/736860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736860)
 - [JavaScript Live-Coding: Мастерство решения типовых задач на собеседованиях](https://habr.com/ru/articles/741108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741108)
-- [Как заходить в android automation &lpar;часть 1 — Kotlin для тестировщика&rpar;](https://habr.com/ru/articles/741098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
