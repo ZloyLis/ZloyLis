@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Load Balancer и Reverse Proxy в микросервисной архитектуре](https://habr.com/ru/companies/otus/articles/741136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741136)
+- [[Перевод] Rust моей мечты — несостоявшийся язык](https://habr.com/ru/articles/741124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741124)
 - [Работа с void* в стиле C++](https://habr.com/ru/articles/736860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736860)
 - [JavaScript Live-Coding: Мастерство решения типовых задач на собеседованиях](https://habr.com/ru/articles/741108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741108)
 - [Как заходить в android automation &lpar;часть 1 — Kotlin для тестировщика&rpar;](https://habr.com/ru/articles/741098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741098)
-- [Правильное Unit тестирование: декомпозиция тест кейсов в теории и на практике](https://habr.com/ru/articles/741094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
