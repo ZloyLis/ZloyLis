@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BALLSORT на $mol. Часть 2](https://habr.com/ru/articles/741256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741256)
+- [[Перевод] Какие уроки я извлёк из создания расширения VSCode с помощью GPT-4](https://habr.com/ru/companies/ruvds/articles/740716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740716)
+- [Настройка Flutter/Dart на Linux](https://habr.com/ru/articles/741248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741248)
+- [Кубернетес для сетевых инженеров](https://habr.com/ru/articles/741246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741246)
 - [Как модернизировать ИТ-инфраструктуру для 1С с учетом развития бизнеса](https://habr.com/ru/articles/741238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741238)
-- [STM32 — Моделирование аналоговых сигналов и АЧХ &lpar;математическим методом&rpar;](https://habr.com/ru/articles/741232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741232)
-- [60 антипаттернов для С++ программиста, часть 4 &lpar;совет 16 — 20&rpar;](https://habr.com/ru/companies/pvs-studio/articles/741228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741228)
-- [Как мы нашли способ объяснять пользователям, почему рекомендуем именно эти магазины](https://habr.com/ru/companies/tinkoff/articles/741218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741218)
-- [Я купил смартфон с камерой 41мп за 600 рублей и оживил его. Сможет ли он стать повседневным фотоаппаратом?](https://habr.com/ru/companies/timeweb/articles/741154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
