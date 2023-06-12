@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #492 &lpar;5 — 11 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/741206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741206)
 - [Зачем в Switch SDK три разных sin?](https://habr.com/ru/articles/741184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741184)
 - [Load Balancer и Reverse Proxy в микросервисной архитектуре](https://habr.com/ru/companies/otus/articles/741136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741136)
 - [[Перевод] Rust моей мечты — несостоявшийся язык](https://habr.com/ru/articles/741124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741124)
 - [Работа с void* в стиле C++](https://habr.com/ru/articles/736860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736860)
-- [JavaScript Live-Coding: Мастерство решения типовых задач на собеседованиях](https://habr.com/ru/articles/741108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
