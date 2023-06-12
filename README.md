@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UICollectionViewCompositionalLayout](https://habr.com/ru/articles/741266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741266)
 - [BALLSORT на $mol. Часть 2](https://habr.com/ru/articles/741256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741256)
 - [[Перевод] Какие уроки я извлёк из создания расширения VSCode с помощью GPT-4](https://habr.com/ru/companies/ruvds/articles/740716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740716)
 - [Настройка Flutter/Dart на Linux](https://habr.com/ru/articles/741248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741248)
 - [Кубернетес для сетевых инженеров](https://habr.com/ru/articles/741246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741246)
-- [Как модернизировать ИТ-инфраструктуру для 1С с учетом развития бизнеса](https://habr.com/ru/articles/741238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
