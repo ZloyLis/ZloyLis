@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я купил смартфон с камерой 41мп за 600 рублей и оживил его. Сможет ли он стать повседневным фотоаппаратом?](https://habr.com/ru/companies/timeweb/articles/741154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741154)
+- [Как сделать кастомный Semi Donut Chart с помощью SVG](https://habr.com/ru/articles/741214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741214)
 - [Мобильная разработка за неделю #492 &lpar;5 — 11 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/741206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741206)
 - [Зачем в Switch SDK три разных sin?](https://habr.com/ru/articles/741184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741184)
 - [Load Balancer и Reverse Proxy в микросервисной архитектуре](https://habr.com/ru/companies/otus/articles/741136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741136)
-- [[Перевод] Rust моей мечты — несостоявшийся язык](https://habr.com/ru/articles/741124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741124)
-- [Работа с void* в стиле C++](https://habr.com/ru/articles/736860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
