@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Reactive Streams для упрощения разработки микросервисных систем](https://habr.com/ru/companies/otus/articles/741354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741354)
+- [Обновление fheroes2 — открытого движка Heroes of Might and Magic 2](https://habr.com/ru/articles/741342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741342)
+- [Создание сервера для онлайн ММО игр на PHP ч. 12 — Очереди и параллельное программирование на CPU](https://habr.com/ru/articles/725490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725490)
 - [Defensive programming. Что это такое и когда использовать](https://habr.com/ru/companies/yandex_praktikum/articles/740734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740734)
 - [Шесть историй про одну модель](https://habr.com/ru/articles/740844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740844)
-- [Обработка данных в реальном времени из API через Apache Kafka + Hazelcast](https://habr.com/ru/companies/otus/articles/741174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741174)
-- [Безопасный k8s: Допуск безопасности пода &lpar;PSA&rpar;](https://habr.com/ru/companies/otus/articles/741326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741326)
-- [Сказка про Branch prediction](https://habr.com/ru/companies/skbkontur/articles/740564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
