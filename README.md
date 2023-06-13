@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Defensive programming. Что это такое и когда использовать](https://habr.com/ru/companies/yandex_praktikum/articles/740734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740734)
+- [Шесть историй про одну модель](https://habr.com/ru/articles/740844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740844)
 - [Обработка данных в реальном времени из API через Apache Kafka + Hazelcast](https://habr.com/ru/companies/otus/articles/741174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741174)
 - [Безопасный k8s: Допуск безопасности пода &lpar;PSA&rpar;](https://habr.com/ru/companies/otus/articles/741326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741326)
 - [Сказка про Branch prediction](https://habr.com/ru/companies/skbkontur/articles/740564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740564)
-- [Как я создал игру совместно с Chat GPT: история игры Чубрики](https://habr.com/ru/articles/741302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741302)
-- [Как создать и развивать процессы CI/CD в команде](https://habr.com/ru/companies/otus/articles/741278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
