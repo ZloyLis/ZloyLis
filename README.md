@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Быть инженером, а не фреймворкером](https://habr.com/ru/companies/ispsystem/articles/741308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741308)
 - [Kubernetes AppArmor](https://habr.com/ru/companies/otus/articles/741322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741322)
 - [[Перевод] 21 новая фича C++, которые вам обязательно пригодятся](https://habr.com/ru/companies/otus/articles/741428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741428)
 - [Книга «Роберт Мартин рекомендует. Код, который умещается в голове: эвристики для разработчиков»](https://habr.com/ru/companies/piter/articles/740948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740948)
 - [Учим PixiJS на играх](https://habr.com/ru/articles/741086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741086)
-- [[Перевод] В 10-17 раз быстрее, чем что? Анализ производительности Intel x86-simd-sort &lpar;AVX-512&rpar;](https://habr.com/ru/articles/741148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
