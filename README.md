@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как этап оценки проекта нашей командой может выявить неочевидные перспективы масштабирования бизнеса через автоматизацию](https://habr.com/ru/articles/741378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741378)
+- [[Перевод] Почему для MLOps лучше выбирать Open Source, а не проприетарное ПО](https://habr.com/ru/companies/vk/articles/735720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735720)
+- [Новые возможности ECMAScript 2021-2023](https://habr.com/ru/articles/741372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741372)
+- [Compose-recompose: почему происходят рекомпозиции и как уменьшить их количество](https://habr.com/ru/companies/yandex/articles/739510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739510)
 - [Использование Reactive Streams для упрощения разработки микросервисных систем](https://habr.com/ru/companies/otus/articles/741354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741354)
-- [Обновление fheroes2 — открытого движка Heroes of Might and Magic 2](https://habr.com/ru/articles/741342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741342)
-- [Создание сервера для онлайн ММО игр на PHP ч. 12 — Очереди и параллельное программирование на CPU](https://habr.com/ru/articles/725490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725490)
-- [Defensive programming. Что это такое и когда использовать](https://habr.com/ru/companies/yandex_praktikum/articles/740734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740734)
-- [Шесть историй про одну модель](https://habr.com/ru/articles/740844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
