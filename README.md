@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Учим PixiJS на играх](https://habr.com/ru/articles/741086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741086)
+- [[Перевод] В 10-17 раз быстрее, чем что? Анализ производительности Intel x86-simd-sort &lpar;AVX-512&rpar;](https://habr.com/ru/articles/741148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741148)
 - [Балансируем между консистентностью и доступностью в распределённой системе: опыт Tarantool](https://habr.com/ru/companies/vk/articles/738616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738616)
 - [Security Week 2324: последствия нажатия на поддельную кнопку Download](https://habr.com/ru/companies/kaspersky/articles/741336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741336)
 - [Не один только Ktor. Микрофреймворк Jooby](https://habr.com/ru/companies/otus/articles/741386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741386)
-- [Что такое исследование данных и почему оно необходимо — кейс rdl by red_mad_robot и «АгроТерры»](https://habr.com/ru/companies/redmadrobot/articles/741414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741414)
-- [Аутентификация Firebase с помощью Google Sign-In в iOS](https://habr.com/ru/articles/741408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
