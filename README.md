@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация Пещер](https://habr.com/ru/articles/741564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741564)
 - [Apple Pro Weekly News &lpar;05.06 – 11.06.23&rpar;](https://habr.com/ru/articles/741560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741560)
 - [[Перевод] Быть инженером, а не фреймворкером](https://habr.com/ru/companies/ispsystem/articles/741308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741308)
 - [Kubernetes AppArmor](https://habr.com/ru/companies/otus/articles/741322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741322)
 - [[Перевод] 21 новая фича C++, которые вам обязательно пригодятся](https://habr.com/ru/companies/otus/articles/741428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741428)
-- [Книга «Роберт Мартин рекомендует. Код, который умещается в голове: эвристики для разработчиков»](https://habr.com/ru/companies/piter/articles/740948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
