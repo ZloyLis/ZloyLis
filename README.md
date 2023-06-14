@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От K8S в мечтах к K8S в проде: как построить инфраструктуру для деплоя. Часть 1](https://habr.com/ru/companies/spbifmo/articles/741738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741738)
+- [50 лет Ethernet. Почему технология по-прежнему остаётся сердцем Интернета](https://habr.com/ru/companies/timeweb/articles/741102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741102)
+- [Создание надстроек для отечественного офисного пакета «МойОфис». Часть 4. Разбираем структуру](https://habr.com/ru/articles/741744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741744)
+- [От Kubernetes в мечтах к Kubernetes в проде: как построить инфраструктуру для деплоя. Часть 1](https://habr.com/ru/companies/spbifmo/articles/741738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741738)
 - [[Перевод] Новые целочисленные типы для языка C++](https://habr.com/ru/companies/piter/articles/741736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741736)
 - [[Перевод] Программные баги, которые приносят реальный вред](https://habr.com/ru/companies/ruvds/articles/741204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741204)
-- [История о том, как мы на Module Federation съезжали. Часть 3](https://habr.com/ru/companies/tinkoff/articles/741722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741722)
-- [Смысловая капча. Применение семантического анализатора Real AI для реализации капчи](https://habr.com/ru/companies/realai/articles/741486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
