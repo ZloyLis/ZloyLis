@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] RSC с нуля. Часть 1: серверные компоненты](https://habr.com/ru/articles/741604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741604)
 - [Расширение Kafka для отправки данных через REST API](https://habr.com/ru/companies/otus/articles/741272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741272)
 - [Генерация Пещер](https://habr.com/ru/articles/741564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741564)
 - [Apple Pro Weekly News &lpar;05.06 – 11.06.23&rpar;](https://habr.com/ru/articles/741560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741560)
 - [[Перевод] Быть инженером, а не фреймворкером](https://habr.com/ru/companies/ispsystem/articles/741308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741308)
-- [Kubernetes AppArmor](https://habr.com/ru/companies/otus/articles/741322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
