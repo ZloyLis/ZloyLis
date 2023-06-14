@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Смысловая капча. Применение семантического анализатора Real AI для реализации капчи](https://habr.com/ru/companies/realai/articles/741486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741486)
+- [Оптимизируем декодирование u128 из base62](https://habr.com/ru/articles/741712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741712)
 - [Несколько подходов к суммированию](https://habr.com/ru/articles/741634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741634)
 - [60 антипаттернов для С++ программиста, часть 5 &lpar;совет 21 — 25&rpar;](https://habr.com/ru/companies/pvs-studio/articles/741628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741628)
 - [Kubernetes Observability: sidecar logging](https://habr.com/ru/companies/otus/articles/741626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741626)
-- [Диаграммы без боли и страданий: PlantUML](https://habr.com/ru/companies/alfa/articles/740518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740518)
-- [[Перевод] RSC с нуля. Часть 1: серверные компоненты](https://habr.com/ru/articles/741604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
