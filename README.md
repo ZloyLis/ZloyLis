@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Несколько подходов к суммированию](https://habr.com/ru/articles/741634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741634)
+- [60 антипаттернов для С++ программиста, часть 5 &lpar;совет 21 — 25&rpar;](https://habr.com/ru/companies/pvs-studio/articles/741628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741628)
+- [Kubernetes Observability: sidecar logging](https://habr.com/ru/companies/otus/articles/741626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741626)
+- [Диаграммы без боли и страданий: PlantUML](https://habr.com/ru/companies/alfa/articles/740518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740518)
 - [[Перевод] RSC с нуля. Часть 1: серверные компоненты](https://habr.com/ru/articles/741604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741604)
-- [Расширение Kafka для отправки данных через REST API](https://habr.com/ru/companies/otus/articles/741272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741272)
-- [Генерация Пещер](https://habr.com/ru/articles/741564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741564)
-- [Apple Pro Weekly News &lpar;05.06 – 11.06.23&rpar;](https://habr.com/ru/articles/741560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741560)
-- [[Перевод] Быть инженером, а не фреймворкером](https://habr.com/ru/companies/ispsystem/articles/741308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
