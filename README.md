@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Лучшие курсы QA тестировщика для обучения в 2023 &lpar;голосование&rpar;](https://habr.com/ru/articles/741826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741826)
 - [В США умер безумный математик-террорист Качинский, который кошмарил страну в течение 17 лет! Его цитировал даже Брейвик](https://habr.com/ru/companies/itglobalcom/articles/741538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741538)
-- [Создание сервера для онлайн ММО игр на PHP ч. 13 — Event-driven паттерн,JSON-RPC и почему не сервисная &lpar;SOA&rpar; архитектура](https://habr.com/ru/articles/741734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741734)
+- [Создание сервера для онлайн ММО игр на PHP ч.13 — Event-driven паттерн, JSON-RPC и почему не сервисная &lpar;SOA&rpar; архитектура](https://habr.com/ru/articles/741734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741734)
 - [50 лет Ethernet. Почему технология по-прежнему остаётся сердцем Интернета](https://habr.com/ru/companies/timeweb/articles/741102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741102)
 - [Создание надстроек для отечественного офисного пакета «МойОфис». Часть 4. Разбираем структуру](https://habr.com/ru/articles/741744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741744)
 <!-- BLOG-POST-LIST:END -->
