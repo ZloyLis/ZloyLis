@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Implicits в Scala — неявные методы, функции, значения и особенности](https://habr.com/ru/companies/beeline_tech/articles/741824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741824)
 - [Кто и в каких задачах быстрее? Coroutines, RxJava, Executor?](https://habr.com/ru/companies/cian/articles/740782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740782)
 - [«Это ключ? Нет, кое-что получше»: будущее беспарольной аутентификации](https://habr.com/ru/companies/vk/articles/741720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741720)
 - [Выносим за скобки настройки cmake](https://habr.com/ru/companies/timeweb/articles/741868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741868)
 - [[recovery mode] Строение атома и материи](https://habr.com/ru/articles/741622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741622)
-- [Где и как можно ускорить приложение на Android](https://habr.com/ru/companies/yandex/articles/721984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
