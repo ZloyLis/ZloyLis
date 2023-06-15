@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка в мае: дайджест новостей от RuStore](https://habr.com/ru/companies/vk/articles/741708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741708)
 - [Новенькое с WWDC23: Отчёты о тестировании и аудит доступности](https://habr.com/ru/companies/surfstudio/articles/741830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741830)
 - [Как тестировать Android-приложения без использования эмуляторов? Знакомство с фермами мобильных устройств](https://habr.com/ru/companies/selectel/articles/740482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740482)
 - [Доступность сервиса: экспресс-тестирование](https://habr.com/ru/companies/rtlabs/articles/741906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741906)
-- [Шум в компьютерной томографии: правда ли он нам мешает?](https://habr.com/ru/articles/741796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741796)
-- [Как стать профессиональным IT-коллекционером? Часть 2. Врываемся в DevOps](https://habr.com/ru/companies/glowbyte/articles/741954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741954)
+- [Шум в компьютерной томографии: правда ли он нам мешает?](https://habr.com/ru/companies/smartengines/articles/741796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
