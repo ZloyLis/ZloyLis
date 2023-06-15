@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implicits в Scala — неявные методы, функции, значения и особенности](https://habr.com/ru/companies/beeline_tech/articles/741824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741824)
-- [Кто и в каких задачах быстрее? Coroutines, RxJava, Executor?](https://habr.com/ru/companies/cian/articles/740782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740782)
-- [«Это ключ? Нет, кое-что получше»: будущее беспарольной аутентификации](https://habr.com/ru/companies/vk/articles/741720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741720)
-- [Выносим за скобки настройки cmake](https://habr.com/ru/companies/timeweb/articles/741868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741868)
-- [[recovery mode] Строение атома и материи](https://habr.com/ru/articles/741622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741622)
+- [[Перевод] Чему я научился после проведения тысячи собеседований: часть вторая](https://habr.com/ru/companies/productivity_inside/articles/741938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741938)
+- [Создаем движок на WinApi &amp;amp; Directx11 часть 1&lpar;перевыпуск&rpar;](https://habr.com/ru/articles/741940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741940)
+- [В изоляции. История появления и развития контейнеров](https://habr.com/ru/companies/serverspace/articles/741874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741874)
+- [Android-разработка для новичков: 20+ полезных ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/738638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738638)
+- [Какие три коробочных сервиса в коммуникациях пора сменить на API](https://habr.com/ru/companies/ru_mts/articles/741910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
