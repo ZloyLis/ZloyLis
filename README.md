@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто и в каких задачах быстрее? Coroutines, RxJava, Executor?](https://habr.com/ru/companies/cian/articles/740782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740782)
+- [«Это ключ? Нет, кое-что получше»: будущее беспарольной аутентификации](https://habr.com/ru/companies/vk/articles/741720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741720)
+- [Выносим за скобки настройки cmake](https://habr.com/ru/companies/timeweb/articles/741868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741868)
+- [[recovery mode] Строение атома и материи](https://habr.com/ru/articles/741622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741622)
 - [Где и как можно ускорить приложение на Android](https://habr.com/ru/companies/yandex/articles/721984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721984)
-- [О том, почему так важно участвовать в жизни профессионального комьюнити](https://habr.com/ru/articles/741860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741860)
-- [Карта навыков системного аналитика: как начать карьеру и куда расти](https://habr.com/ru/articles/741854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741854)
-- [[Перевод] Траблшутинг в K8s — узел не готов к работе](https://habr.com/ru/companies/southbridge/articles/741856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741856)
-- [Permissions в Android: как не допустить ошибок при разработке](https://habr.com/ru/companies/swordfish_security/articles/741574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
