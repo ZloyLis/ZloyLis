@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как отказаться от XPath/CSS локаторов в тестах](https://habr.com/ru/articles/742088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742088)
 - [Приходите на Flow 2023 Meetup #9 про системный и бизнес-анализ](https://habr.com/ru/companies/samokat_tech/articles/742056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742056)
 - [Менеджер маркетплейсов обучение &lpar;сравнение курсов и голосование&rpar;](https://habr.com/ru/articles/742006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742006)
 - [Построение BI-системы: вы могли об этом забыть…](https://habr.com/ru/articles/742026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742026)
 - [Мобильная разработка в мае: дайджест новостей от RuStore](https://habr.com/ru/companies/vk/articles/741708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741708)
-- [Новенькое с WWDC23: Отчёты о тестировании и аудит доступности](https://habr.com/ru/companies/surfstudio/articles/741830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
