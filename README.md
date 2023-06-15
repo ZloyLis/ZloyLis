@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Чему я научился после проведения тысячи собеседований: часть вторая](https://habr.com/ru/companies/productivity_inside/articles/741938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741938)
-- [Создаем движок на WinApi &amp;amp; Directx11 часть 1&lpar;перевыпуск&rpar;](https://habr.com/ru/articles/741940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741940)
-- [В изоляции. История появления и развития контейнеров](https://habr.com/ru/companies/serverspace/articles/741874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741874)
-- [Android-разработка для новичков: 20+ полезных ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/738638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738638)
-- [Какие три коробочных сервиса в коммуникациях пора сменить на API](https://habr.com/ru/companies/ru_mts/articles/741910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741910)
+- [Новенькое с WWDC23: Отчёты о тестировании и аудит доступности](https://habr.com/ru/companies/surfstudio/articles/741830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741830)
+- [Как тестировать Android-приложения без использования эмуляторов? Знакомство с фермами мобильных устройств](https://habr.com/ru/companies/selectel/articles/740482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740482)
+- [Доступность сервиса: экспресс-тестирование](https://habr.com/ru/companies/rtlabs/articles/741906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741906)
+- [Шум в компьютерной томографии: правда ли он нам мешает?](https://habr.com/ru/articles/741796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741796)
+- [Как стать профессиональным IT-коллекционером? Часть 2. Врываемся в DevOps](https://habr.com/ru/companies/glowbyte/articles/741954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
