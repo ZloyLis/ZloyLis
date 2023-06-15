@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Форматы данных и файлов: руководство для архитекторов](https://habr.com/ru/companies/vk/articles/741702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741702)
 - [Программирование в Minecraft — Creative+](https://habr.com/ru/articles/741834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741834)
 - [Лучшие курсы QA тестировщика для обучения в 2023 &lpar;голосование&rpar;](https://habr.com/ru/articles/741826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741826)
 - [В США умер безумный математик-террорист Качинский, который кошмарил страну в течение 17 лет! Его цитировал даже Брейвик](https://habr.com/ru/companies/itglobalcom/articles/741538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741538)
 - [Создание сервера для онлайн ММО игр на PHP ч.13 — Event-driven паттерн, JSON-RPC и почему не сервисная &lpar;SOA&rpar; архитектура](https://habr.com/ru/articles/741734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741734)
-- [50 лет Ethernet. Почему технология по-прежнему остаётся сердцем Интернета](https://habr.com/ru/companies/timeweb/articles/741102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
