@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы боролись с овербукингом Kubernetes-кластеров](https://habr.com/ru/companies/samokat_tech/articles/735638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735638)
+- [MacBook Pro 2015 для учебы в 2023-м?](https://habr.com/ru/companies/doubletapp/articles/741924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741924)
 - [Kotlin вместо bash. Прокачиваем автоматизацию на сервере](https://habr.com/ru/companies/otus/articles/742050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742050)
 - [Cмарт-контракт. Solidity + Ganache](https://habr.com/ru/articles/741798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741798)
 - [10 книг по Python: как для новичков, так и для профи](https://habr.com/ru/companies/ru_mts/articles/742146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742146)
-- [Читать push нельзя игнорировать. Или как писать уведомления, которые хотя бы не будут бесить](https://habr.com/ru/articles/740094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740094)
-- [Расшифровка доклада: О чём я говорю, когда говорю о тестировании корректности работы компиляторов](https://habr.com/ru/companies/oleg-bunin/articles/742122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
