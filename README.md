@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [60 антипаттернов для С++ программиста, часть 6 &lpar;совет 26 — 30&rpar;](https://habr.com/ru/companies/pvs-studio/articles/742112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742112)
+- [[Хабр, посоветуй] Мой опыт за 12 месяцев изучения C++](https://habr.com/ru/articles/742108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742108)
+- [Обзор Coroot — Open Source-утилиты для наблюдаемости: установка, настройка, возможности, плюсы и минусы](https://habr.com/ru/companies/flant/articles/742030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742030)
+- [Как в Android запрещали фоновую работу](https://habr.com/ru/companies/broadcast/articles/734236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734236)
 - [[Перевод] Новинки CSS и UI: I/O 2023](https://habr.com/ru/articles/741914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741914)
-- [Как отказаться от XPath/CSS локаторов в тестах](https://habr.com/ru/articles/742088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742088)
-- [Приходите на Flow 2023 Meetup #9 про системный и бизнес-анализ](https://habr.com/ru/companies/samokat_tech/articles/742056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742056)
-- [Менеджер маркетплейсов обучение &lpar;сравнение курсов и голосование&rpar;](https://habr.com/ru/articles/742006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742006)
-- [Построение BI-системы: вы могли об этом забыть…](https://habr.com/ru/articles/742026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
