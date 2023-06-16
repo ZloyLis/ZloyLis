@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расшифровка доклада: О чём я говорю, когда говорю о тестировании корректности работы компиляторов](https://habr.com/ru/companies/oleg-bunin/articles/742122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742122)
+- [Как искать уязвимости в проекте на Go: обзор популярных анализаторов кода и их возможностей](https://habr.com/ru/companies/avito/articles/739144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739144)
+- [[HTTP API &amp;amp; REST] Организация HTTP API согласно принципам REST](https://habr.com/ru/articles/742124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742124)
 - [60 антипаттернов для С++ программиста, часть 6 &lpar;совет 26 — 30&rpar;](https://habr.com/ru/companies/pvs-studio/articles/742112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742112)
 - [[Хабр, посоветуй] Мой опыт за 12 месяцев изучения C++](https://habr.com/ru/articles/742108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742108)
-- [Обзор Coroot — Open Source-утилиты для наблюдаемости: установка, настройка, возможности, плюсы и минусы](https://habr.com/ru/companies/flant/articles/742030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742030)
-- [Как в Android запрещали фоновую работу](https://habr.com/ru/companies/broadcast/articles/734236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=734236)
-- [[Перевод] Новинки CSS и UI: I/O 2023](https://habr.com/ru/articles/741914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
