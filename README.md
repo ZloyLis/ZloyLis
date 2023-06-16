@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайские сайты такие китайские](https://habr.com/ru/companies/ispmanager/articles/742268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742268)
 - [Укрощение строптивого: передача L2 трафика через SD-WAN](https://habr.com/ru/companies/kaspersky/articles/742136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742136)
 - [Как, сменив архитектуру, мы оптимизировали расходы на трафик в AdTech](https://habr.com/ru/companies/smartup_tech/articles/742232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742232)
 - [[Перевод] Я спросил у ста разработчиков и продакт-менеджеров, как они разрабатывают ПО](https://habr.com/ru/companies/sibur_official/articles/742224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742224)
 - [[Перевод] Хотите переплюнуть профессиональных Java-разработчиков? Roadmap для изучения Java в 2023 году](https://habr.com/ru/companies/otus/articles/742158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742158)
-- [[Перевод] Мой подход к реализации крупных технических проектов](https://habr.com/ru/companies/ruvds/articles/741748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
