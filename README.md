@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cмарт-контракт. Solidity + Ganache](https://habr.com/ru/articles/741798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741798)
 - [10 книг по Python: как для новичков, так и для профи](https://habr.com/ru/companies/ru_mts/articles/742146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742146)
 - [Читать push нельзя игнорировать. Или как писать уведомления, которые хотя бы не будут бесить](https://habr.com/ru/articles/740094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740094)
 - [Расшифровка доклада: О чём я говорю, когда говорю о тестировании корректности работы компиляторов](https://habr.com/ru/companies/oleg-bunin/articles/742122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742122)
 - [Как искать уязвимости в проекте на Go: обзор популярных анализаторов кода и их возможностей](https://habr.com/ru/companies/avito/articles/739144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739144)
-- [[HTTP API &amp;amp; REST] Организация HTTP API согласно принципам REST](https://habr.com/ru/articles/742124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
