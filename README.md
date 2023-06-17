@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Декларативный подход к архитектуре Angular приложений. Или доминируй делегируй](https://habr.com/ru/articles/742314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742314)
 - [Разделяй и властвуй. Повышение эффективности алгоритмов](https://habr.com/ru/articles/742308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742308)
 - [Отраслевая маркировка оборотной тары](https://habr.com/ru/articles/742304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742304)
 - [Почему классы лучше чем функции](https://habr.com/ru/articles/742294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742294)
 - [Подписываем Android-приложение внутренним ключом Google Play для публикации в сторонних магазинах &lpar;RuStore, Huawei..?&rpar;](https://habr.com/ru/articles/742284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742284)
-- [Китайские сайты такие китайские](https://habr.com/ru/companies/ispmanager/articles/742268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
