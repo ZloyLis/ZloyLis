@@ -35,11 +35,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отраслевая маркировка оборотной тары](https://habr.com/ru/articles/742304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742304)
 - [Почему классы лучше чем функции](https://habr.com/ru/articles/742294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742294)
 - [Подписываем Android-приложение внутренним ключом Google Play для публикации в сторонних магазинах &lpar;RuStore, Huawei..?&rpar;](https://habr.com/ru/articles/742284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742284)
 - [Китайские сайты такие китайские](https://habr.com/ru/companies/ispmanager/articles/742268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742268)
 - [Укрощение строптивого: передача L2 трафика через SD-WAN](https://habr.com/ru/companies/kaspersky/articles/742136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742136)
-- [Как, сменив архитектуру, мы оптимизировали расходы на трафик в AdTech](https://habr.com/ru/companies/smartup_tech/articles/742232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
