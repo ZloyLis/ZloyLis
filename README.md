@@ -11,7 +11,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=43853D)
 ![Nest](https://img.shields.io/badge/NestJS-informational?logo=NestJS&style=flat&logoColor=white&color=red)<br>
 ![Next](https://img.shields.io/badge/NextJS-informational?logo=Next.js&style=flat&logoColor=white&color=00f)
-![Angular](https://img.shields.io/badge/Angular-informational?logo=angular&style=flat&logoColor=white&color=C3002F)
+![Angular](https://img.shields.io/badge/React-informational?logo=react&style=flat&logoColor=white&color=C3002F)
 ![WebPAck](https://img.shields.io/badge/WebPack-informational?logo=webPack&style=flat&logoColor=white&color=FF6F00)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-informational?logo=html5&style=flat&logoColor=white&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-informational?logo=css3&style=flat&logoColor=white&color=157286)
