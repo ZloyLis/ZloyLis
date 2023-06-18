@@ -20,16 +20,6 @@
 ![Figma](https://img.shields.io/badge/Figma-informational?logo=figma&style=flat&logoColor=white&color=darkred)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=PostgreSQL&style=flat&logoColor=white&color=00f)
 
-
-<!--
-![Kotlin](https://img.shields.io/badge/Kotlin-informational?logo=Kotlin&style=flat&logoColor=white&color=0095D5)
-![PHP](https://img.shields.io/badge/PHP-informational?logo=php&style=flat&logoColor=white&color=777BB4) <br>
-![WebPAck](https://img.shields.io/badge/WebPack-informational?logo=webPack&style=flat&logoColor=white&color=FF6F00)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?logo=Bootstrap&style=flat&logoColor=white&color=7952B3)
-![MySQL](https://img.shields.io/badge/MySQL-informational?logo=MySQL&style=flat&logoColor=white&color=00f) <br>
-![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=43853D)
--->
-
 ___
 
 #### 💬 Latest posts from habr.com:
