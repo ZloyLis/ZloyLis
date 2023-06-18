@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ближайшие бесплатные мероприятия по разработке &lpar;20 июня — 27 июня 2023&rpar;](https://habr.com/ru/articles/742362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742362)
+- [Еще раз… вопрос выбора: LinkedList &amp;amp; ArrayList](https://habr.com/ru/articles/742392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742392)
 - [Как искать товар на всех маркетплейсах сразу?](https://habr.com/ru/articles/742350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742350)
 - [Декларативный подход к архитектуре Angular приложений. Или доминируй делегируй](https://habr.com/ru/articles/742314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742314)
 - [Разделяй и властвуй. Повышение эффективности алгоритмов](https://habr.com/ru/articles/742308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742308)
-- [Отраслевая маркировка оборотной тары](https://habr.com/ru/articles/742304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742304)
-- [Почему классы лучше чем функции при разработке масштабных продуктов на PHP](https://habr.com/ru/articles/742294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
