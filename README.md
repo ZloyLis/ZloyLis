@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поляризатор = датчик угла](https://habr.com/ru/articles/742358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742358)
 - [Apple Pro Weekly News &lpar;12.06 – 18.06.23&rpar;](https://habr.com/ru/articles/742446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742446)
 - [Теория: nx — инструмент по работе с микрофронтендами](https://habr.com/ru/articles/742440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742440)
 - [Игра на ECS и как мы там живем](https://habr.com/ru/articles/742376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742376)
 - [[Перевод] Мой первый супероптимизатор](https://habr.com/ru/companies/ruvds/articles/741840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741840)
-- [Мобильная разработка за неделю #493 &lpar;12 — 18 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/742398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
