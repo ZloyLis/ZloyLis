@@ -7,9 +7,9 @@
 ![Java](https://img.shields.io/badge/Java-informational?logo=Oracle&style=flat&logoColor=white&color=007396)
 ![JS](https://img.shields.io/badge/JavaScript-informational?logo=javaScript&style=flat&logoColor=black&color=F7Df1E)
 ![TS](https://img.shields.io/badge/TypeScript-informational?logo=typeScript&style=flat&logoColor=black&color=0667A8)<br>
-![Spring](https://img.shields.io/badge/SpringBoot-informational?logo=SpringBoot&style=flat&logoColor=white&color=0A9EDC)
 ![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=43853D)
-![Nest](https://img.shields.io/badge/NestJS-informational?logo=NestJS&style=flat&logoColor=white&color=red)<br>
+![Nest](https://img.shields.io/badge/NestJS-informational?logo=NestJS&style=flat&logoColor=white&color=red)
+![Spring](https://img.shields.io/badge/SpringBoot-informational?logo=SpringBoot&style=flat&logoColor=white&color=0A9EDC)<br>
 ![Next](https://img.shields.io/badge/NextJS-informational?logo=Next.js&style=flat&logoColor=white&color=00f)
 ![Angular](https://img.shields.io/badge/React-informational?logo=react&style=flat&logoColor=white&color=C3002F)
 ![WebPAck](https://img.shields.io/badge/WebPack-informational?logo=webPack&style=flat&logoColor=white&color=FF6F00)<br>
