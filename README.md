@@ -33,5 +33,5 @@ ___
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[![Top Langs](https://github-readme-stats-g65d7aqkw-advtsetting-gmailcom.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=true&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
-![GitHub stats](https://github-readme-stats-g65d7aqkw-advtsetting-gmailcom.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true)
+[![Top Langs](https://github-readme-stats-g65d7aqkw-advtsetting-gmailcom.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=false&title_color=e6edf3&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
+<!--![GitHub stats](https://github-readme-stats-g65d7aqkw-advtsetting-gmailcom.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true)-->
