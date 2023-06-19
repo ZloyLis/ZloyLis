@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С каким бэкграудом идти в SRE-инженеры: кейсы по внедрению и лайфхаки от специалистов](https://habr.com/ru/companies/southbridge/articles/742536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742536)
+- [Разделяй и властвуй. Повышение эффективности алгоритмов. Часть 2](https://habr.com/ru/articles/742404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742404)
 - [Сила метаданных в расширяемой архитектуре продукта](https://habr.com/ru/companies/wrike/articles/741958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741958)
 - [Полнотекстовый поиск в PostgreSQL с SQLAlchemy](https://habr.com/ru/companies/beeline_cloud/articles/742214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742214)
 - [Дерево Киви для поиска шаблонов по тексту](https://habr.com/ru/articles/742496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742496)
-- [Как устроен CTF: соревнование, где каждый может побыть хакером](https://habr.com/ru/companies/tinkoff/articles/742544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742544)
-- [Суперклей ABI, или Как применять C++ где угодно](https://habr.com/ru/companies/simbirsoft/articles/742486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
