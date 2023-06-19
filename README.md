@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Суперклей ABI, или Как применять C++ где угодно](https://habr.com/ru/companies/simbirsoft/articles/742486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742486)
+- [Создание плагина кнопки редактора в Joomla 4](https://habr.com/ru/articles/742422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742422)
+- [[Перевод] Запускаем API Поиска Brave: больше конкуренции и независимости на рынке поиска](https://habr.com/ru/companies/brave/articles/740042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740042)
 - [Настройка и мониторинг Java приложений](https://habr.com/ru/companies/lsfusion/articles/741978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741978)
 - [60 антипаттернов для С++ программиста, часть 7 &lpar;совет 31 — 35&rpar;](https://habr.com/ru/companies/pvs-studio/articles/742500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742500)
-- [Vision OS сессии WWDC2023: введение в пространственные вычисления Apple](https://habr.com/ru/articles/742462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742462)
-- [О сложности систем](https://habr.com/ru/articles/742490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742490)
-- [Поляризатор = датчик угла](https://habr.com/ru/articles/742358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
