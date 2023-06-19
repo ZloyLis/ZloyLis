@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сформировать команду разработчиков. Преимущества профессиональных сообществ](https://habr.com/ru/articles/742640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742640)
+- [Книга «React. Быстрый старт, 2-е изд.»](https://habr.com/ru/companies/piter/articles/742604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742604)
+- [Про российский GitHub](https://habr.com/ru/articles/742634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742634)
+- [Получение подписантов в ЭДО через API СБИС и Диадок](https://habr.com/ru/articles/742626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742626)
 - [[Перевод] Реализуем с нуля функцию косинуса на языке C](https://habr.com/ru/companies/ruvds/articles/742620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742620)
-- [Задача о нижней оценке на поиск в таблице Юнга](https://habr.com/ru/articles/742622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742622)
-- [Самовосстанавливающийся код](https://habr.com/ru/companies/mvideo/articles/742498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742498)
-- [С каким бэкграудом идти в SRE-инженеры: кейсы по внедрению и лайфхаки от специалистов](https://habr.com/ru/companies/southbridge/articles/742536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742536)
-- [Разделяй и властвуй. Повышение эффективности алгоритмов. Часть 2](https://habr.com/ru/articles/742404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
