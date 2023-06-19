@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сила метаданных в расширяемой архитектуре продукта](https://habr.com/ru/companies/wrike/articles/741958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741958)
+- [Полнотекстовый поиск в PostgreSQL с SQLAlchemy](https://habr.com/ru/companies/beeline_cloud/articles/742214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742214)
+- [Дерево Киви для поиска шаблонов по тексту](https://habr.com/ru/articles/742496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742496)
+- [Как устроен CTF: соревнование, где каждый может побыть хакером](https://habr.com/ru/companies/tinkoff/articles/742544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742544)
 - [Суперклей ABI, или Как применять C++ где угодно](https://habr.com/ru/companies/simbirsoft/articles/742486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742486)
-- [Создание плагина кнопки редактора в Joomla 4](https://habr.com/ru/articles/742422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742422)
-- [[Перевод] Запускаем API Поиска Brave: больше конкуренции и независимости на рынке поиска](https://habr.com/ru/companies/brave/articles/740042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740042)
-- [Настройка и мониторинг Java приложений](https://habr.com/ru/companies/lsfusion/articles/741978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741978)
-- [60 антипаттернов для С++ программиста, часть 7 &lpar;совет 31 — 35&rpar;](https://habr.com/ru/companies/pvs-studio/articles/742500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
