@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Реализуем с нуля функцию косинуса на языке C](https://habr.com/ru/companies/ruvds/articles/742620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742620)
+- [Задача о нижней оценке на поиск в таблице Юнга](https://habr.com/ru/articles/742622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742622)
+- [Самовосстанавливающийся код](https://habr.com/ru/companies/mvideo/articles/742498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742498)
 - [С каким бэкграудом идти в SRE-инженеры: кейсы по внедрению и лайфхаки от специалистов](https://habr.com/ru/companies/southbridge/articles/742536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742536)
 - [Разделяй и властвуй. Повышение эффективности алгоритмов. Часть 2](https://habr.com/ru/articles/742404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742404)
-- [Сила метаданных в расширяемой архитектуре продукта](https://habr.com/ru/companies/wrike/articles/741958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741958)
-- [Полнотекстовый поиск в PostgreSQL с SQLAlchemy](https://habr.com/ru/companies/beeline_cloud/articles/742214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742214)
-- [Дерево Киви для поиска шаблонов по тексту](https://habr.com/ru/articles/742496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
