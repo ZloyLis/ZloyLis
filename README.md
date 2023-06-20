@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka. Пишем простой producer и consumer и тестируем их](https://habr.com/ru/articles/742786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742786)
+- [Какого черта мы нанимаем, или осмысленность собеседований в IT](https://habr.com/ru/articles/742780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742780)
+- [Библиотека MockWebServer-DSL в open-source: делаем конфетку из сетевых запросов в UI-тестах](https://habr.com/ru/companies/yandex/articles/741882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741882)
+- [Эмоции: подавлять нельзя выражать. Выясняем, где поставить запятую](https://habr.com/ru/companies/oleg-bunin/articles/719762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719762)
 - [Матирование изображений, или как получить фотореалистичный передний план](https://habr.com/ru/companies/sberdevices/articles/742528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742528)
-- [Зачем Data-инженеру Spark](https://habr.com/ru/companies/vk/articles/742084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742084)
-- [На смену CoreData пришёл новый фреймворк SwiftData. Разбираемся, как он упрощает хранение данных](https://habr.com/ru/companies/surfstudio/articles/742696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742696)
-- [Худшие практики разработки и архитектуры](https://habr.com/ru/companies/gazprombank/articles/742618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742618)
-- [Java: перспективы, тренды и почему новичкам стоит его знать](https://habr.com/ru/companies/lanit/articles/742100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
