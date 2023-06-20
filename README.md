@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В поисках лучшей версии EcmaScript для сборки](https://habr.com/ru/articles/733044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733044)
 - [Разбор: Google Analytics и Яндекс.Метрика для эффективной разметки сайтов](https://habr.com/ru/companies/agima/articles/742802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742802)
 - [[Перевод] Эффективное сокращение времени выполнения автоматизированных UI тестов](https://habr.com/ru/articles/742222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742222)
 - [Логировали, логировали, да вылогировали. Почему мы сменили EBK на Loki](https://habr.com/ru/companies/dbraincloud/articles/742654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742654)
 - [[Перевод] Модули C++20 и GCC11](https://habr.com/ru/companies/otus/articles/742818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742818)
-- [Как опубликовать Hugo сайт на Яндекс Облако?](https://habr.com/ru/articles/742810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
