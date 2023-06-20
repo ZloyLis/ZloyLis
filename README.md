@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Актуальные подходы к ETL. Или EL-T? Технологический разбор](https://habr.com/ru/companies/jetinfosystems/articles/739956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739956)
+- [О генерации скобочных последовательностей](https://habr.com/ru/articles/742894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742894)
 - [Motorola Razr, живи! Хит 2000-х и его современные инкарнации](https://habr.com/ru/companies/ru_mts/articles/742878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742878)
 - [Дружим Flutter с С# и С++](https://habr.com/ru/articles/742860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742860)
 - [В поисках лучшей версии EcmaScript для сборки](https://habr.com/ru/articles/733044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733044)
-- [Разбор: Google Analytics и Яндекс.Метрика для эффективной разметки сайтов](https://habr.com/ru/companies/agima/articles/742802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742802)
-- [[Перевод] Эффективное сокращение времени выполнения автоматизированных UI тестов](https://habr.com/ru/articles/742222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
