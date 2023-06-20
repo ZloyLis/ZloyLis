@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Матирование изображений, или как получить фотореалистичный передний план](https://habr.com/ru/companies/sberdevices/articles/742528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742528)
+- [Зачем Data-инженеру Spark](https://habr.com/ru/companies/vk/articles/742084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742084)
+- [На смену CoreData пришёл новый фреймворк SwiftData. Разбираемся, как он упрощает хранение данных](https://habr.com/ru/companies/surfstudio/articles/742696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742696)
 - [Худшие практики разработки и архитектуры](https://habr.com/ru/companies/gazprombank/articles/742618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742618)
 - [Java: перспективы, тренды и почему новичкам стоит его знать](https://habr.com/ru/companies/lanit/articles/742100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742100)
-- [Какой язык программирования выбрать? Часть 3. JavaScript](https://habr.com/ru/companies/kryptonite/articles/741852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741852)
-- [ThreadPool.Chain](https://habr.com/ru/companies/skbkontur/articles/741596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741596)
-- [Тестируем поиск 2ГИС: единороги и счастье пользователя](https://habr.com/ru/companies/2gis/articles/742644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
