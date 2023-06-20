@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ThreadPool.Chain](https://habr.com/ru/companies/skbkontur/articles/741596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741596)
+- [Тестируем поиск 2ГИС: единороги и счастье пользователя](https://habr.com/ru/companies/2gis/articles/742644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742644)
 - [Задача про красные и синие точки](https://habr.com/ru/articles/742276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742276)
 - [Реализация Transactional outbox pattern и немного DDD](https://habr.com/ru/articles/741568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741568)
 - [Security Week 2325: безопасность реестров доменных имен](https://habr.com/ru/companies/kaspersky/articles/742532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742532)
-- [Домены .zip и .mov — новый вектор для фишинга](https://habr.com/ru/companies/globalsign/articles/738138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738138)
-- [Как сформировать команду разработчиков. Преимущества профессиональных сообществ](https://habr.com/ru/articles/742640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
