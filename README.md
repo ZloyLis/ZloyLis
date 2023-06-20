@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Худшие практики разработки и архитектуры](https://habr.com/ru/companies/gazprombank/articles/742618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742618)
+- [Java: перспективы, тренды и почему новичкам стоит его знать](https://habr.com/ru/companies/lanit/articles/742100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742100)
+- [Какой язык программирования выбрать? Часть 3. JavaScript](https://habr.com/ru/companies/kryptonite/articles/741852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741852)
 - [ThreadPool.Chain](https://habr.com/ru/companies/skbkontur/articles/741596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741596)
 - [Тестируем поиск 2ГИС: единороги и счастье пользователя](https://habr.com/ru/companies/2gis/articles/742644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742644)
-- [Задача про красные и синие точки](https://habr.com/ru/articles/742276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742276)
-- [Реализация Transactional outbox pattern и немного DDD](https://habr.com/ru/articles/741568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741568)
-- [Security Week 2325: безопасность реестров доменных имен](https://habr.com/ru/companies/kaspersky/articles/742532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
