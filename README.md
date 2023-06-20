@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логировали, логировали, да вылогировали. Почему мы сменили EBK на Loki](https://habr.com/ru/companies/dbraincloud/articles/742654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742654)
+- [[Перевод] Модули C++20 и GCC11](https://habr.com/ru/companies/otus/articles/742818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742818)
+- [Как опубликовать Hugo сайт на Яндекс Облако?](https://habr.com/ru/articles/742810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742810)
 - [Apache Kafka. Пишем простой producer и consumer и тестируем их](https://habr.com/ru/articles/742786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742786)
 - [Какого черта мы нанимаем, или осмысленность собеседований в IT](https://habr.com/ru/articles/742780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742780)
-- [Библиотека MockWebServer-DSL в open-source: делаем конфетку из сетевых запросов в UI-тестах](https://habr.com/ru/companies/yandex/articles/741882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741882)
-- [Эмоции: подавлять нельзя выражать. Выясняем, где поставить запятую](https://habr.com/ru/companies/oleg-bunin/articles/719762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719762)
-- [Матирование изображений, или как получить фотореалистичный передний план](https://habr.com/ru/companies/sberdevices/articles/742528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
