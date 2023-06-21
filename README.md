@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как протокол RDP &lpar;почти&rpar; вырвался из проприетарного рабства](https://habr.com/ru/companies/ruvds/articles/743012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743012)
+- [Немного о перечислениях в Swift](https://habr.com/ru/companies/tensor/articles/743014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743014)
 - [Решаем криптографическую задачу: Trifid cipher](https://habr.com/ru/companies/first/articles/742978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742978)
 - [Design API First как паттерн проектирования контрактов межсервисного взаимодействия](https://habr.com/ru/companies/simbirsoft/articles/742954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742954)
 - [Императивный UIKit‍ vs Декларативный SwiftUI](https://habr.com/ru/companies/ozontech/articles/742750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742750)
-- [Какого цвета Ripple?](https://habr.com/ru/companies/leroy_merlin/articles/735288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735288)
-- [Развитие контейнерной инфраструктуры Мир Plat.Form](https://habr.com/ru/companies/nspk/articles/742922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
