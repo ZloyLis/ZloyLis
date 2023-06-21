@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Скрытые ловушки десериализации Boolean: разбираем неочевидные особенности библиотеки Jackson](https://habr.com/ru/articles/743038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743038)
+- [Азы программирования для детей и подростков: актуальные инструменты обучения и немного личного опыта](https://habr.com/ru/companies/ru_mts/articles/743036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743036)
+- [Gatekeeper в production: полезные практики и шаги, которые не стоит допускать](https://habr.com/ru/companies/vk/articles/741648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741648)
 - [Как протокол RDP &lpar;почти&rpar; вырвался из проприетарного рабства](https://habr.com/ru/companies/ruvds/articles/743012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743012)
 - [Немного о перечислениях в Swift](https://habr.com/ru/companies/tensor/articles/743014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743014)
-- [Решаем криптографическую задачу: Trifid cipher](https://habr.com/ru/companies/first/articles/742978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742978)
-- [Design API First как паттерн проектирования контрактов межсервисного взаимодействия](https://habr.com/ru/companies/simbirsoft/articles/742954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742954)
-- [Императивный UIKit‍ vs Декларативный SwiftUI](https://habr.com/ru/companies/ozontech/articles/742750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
