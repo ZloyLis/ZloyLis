@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фантастический Compose и его побочные эффекты](https://habr.com/ru/companies/joydev/articles/743048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743048)
+- [Архитектурный компромисс в enterprise. Опыт Alfa People. Наш путь сквозь джунгли](https://habr.com/ru/companies/alfa/articles/742024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742024)
 - [Скрытые ловушки десериализации Boolean: разбираем неочевидные особенности библиотеки Jackson](https://habr.com/ru/articles/743038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743038)
 - [Азы программирования для детей и подростков: актуальные инструменты обучения и немного личного опыта](https://habr.com/ru/companies/ru_mts/articles/743036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743036)
 - [Gatekeeper в production: полезные практики и шаги, которые не стоит допускать](https://habr.com/ru/companies/vk/articles/741648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741648)
-- [Как протокол RDP &lpar;почти&rpar; вырвался из проприетарного рабства](https://habr.com/ru/companies/ruvds/articles/743012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743012)
-- [Немного о перечислениях в Swift](https://habr.com/ru/companies/tensor/articles/743014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
