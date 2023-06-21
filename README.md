@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многопоточность в iOS-разработке](https://habr.com/ru/articles/742502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742502)
+- [Maskito – новая коллекция библиотек для маскирования текстовых полей](https://habr.com/ru/companies/tinkoff/articles/743060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743060)
+- [Инструменты продуктовой аналитики и A/B тестирования. Часть 1: UX Rocket](https://habr.com/ru/articles/743054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743054)
 - [Фантастический Compose и его побочные эффекты](https://habr.com/ru/companies/joydev/articles/743048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743048)
 - [Архитектурный компромисс в enterprise. Опыт Alfa People. Наш путь сквозь джунгли](https://habr.com/ru/companies/alfa/articles/742024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742024)
-- [Скрытые ловушки десериализации Boolean: разбираем неочевидные особенности библиотеки Jackson](https://habr.com/ru/articles/743038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743038)
-- [Азы программирования для детей и подростков: актуальные инструменты обучения и немного личного опыта](https://habr.com/ru/companies/ru_mts/articles/743036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743036)
-- [Gatekeeper в production: полезные практики и шаги, которые не стоит допускать](https://habr.com/ru/companies/vk/articles/741648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
