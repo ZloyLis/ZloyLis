@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я перестал тревожиться из-за читабельности и… все](https://habr.com/ru/articles/743114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743114)
 - [Нейронные сети, целый зоопарк друзей &lpar; и/или врагов&rpar;, сияющие глаза, и растворившийся миллион идей](https://habr.com/ru/articles/743110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743110)
 - [Многопоточность в iOS-разработке](https://habr.com/ru/articles/742502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742502)
 - [Maskito – новая коллекция библиотек для маскирования текстовых полей](https://habr.com/ru/companies/tinkoff/articles/743060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743060)
-- [Фантастический Compose и его побочные эффекты](https://habr.com/ru/companies/joydev/articles/743048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743048)
-- [Архитектурный компромисс в enterprise. Опыт Alfa People. Наш путь сквозь джунгли](https://habr.com/ru/companies/alfa/articles/742024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742024)
+- [Инструменты продуктовой аналитики и A/B тестирования. Часть 1: UX Rocket](https://habr.com/ru/articles/743054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
