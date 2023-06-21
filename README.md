@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как проверить наличие обновлений зависимостей в Gradle?](https://habr.com/ru/articles/742968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742968)
-- [Актуальные подходы к ETL. Или EL-T? Технологический разбор](https://habr.com/ru/companies/jetinfosystems/articles/739956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739956)
-- [О генерации скобочных последовательностей](https://habr.com/ru/articles/742894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742894)
-- [Motorola Razr, живи! Хит 2000-х и его современные инкарнации](https://habr.com/ru/companies/ru_mts/articles/742878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742878)
-- [Дружим Flutter с С# и С++](https://habr.com/ru/articles/742860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742860)
+- [Какого цвета Ripple?](https://habr.com/ru/companies/leroy_merlin/articles/735288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735288)
+- [Развитие контейнерной инфраструктуры Мир Plat.Form](https://habr.com/ru/companies/nspk/articles/742922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742922)
+- [60 антипаттернов для С++ программиста, часть 8 &lpar;совет 36 — 40&rpar;](https://habr.com/ru/companies/pvs-studio/articles/742986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742986)
+- [Параметрический анализ данных](https://habr.com/ru/companies/otus/articles/742984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742984)
+- [Алгоритм создания бесшовного списка данных](https://habr.com/ru/companies/rshb/articles/742976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
