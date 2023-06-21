@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедряем MapKit Яндекс Карт в iOS приложение](https://habr.com/ru/articles/743208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743208)
 - [[Перевод] От стеков к деревьям — новая модель псевдонимов в Rust](https://habr.com/ru/articles/743186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743186)
 - [Про тестирование мобильных приложений. Часть 4. Интеграционное тестирование](https://habr.com/ru/articles/743168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743168)
 - [SRE: Архитектура и системный дизайн](https://habr.com/ru/companies/otus/articles/743138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743138)
 - [Как я перестал тревожиться из-за читабельности и… все](https://habr.com/ru/articles/743114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743114)
-- [Нейронные сети, целый зоопарк друзей &lpar; и/или врагов&rpar;, сияющие глаза, и растворившийся миллион идей](https://habr.com/ru/articles/743110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
