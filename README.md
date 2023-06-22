@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация производительности запросов в ClickHouse: как ускорить неускоряемое](https://habr.com/ru/companies/oleg-bunin/articles/726570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726570)
+- [[Перевод] Разбираемся с GraalVM, AOT и JIT](https://habr.com/ru/companies/otus/articles/743318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743318)
+- [[Перевод] Как превратить данные в продукт: выжать из данных максимум благодаря принципам продакт-менеджмента](https://habr.com/ru/companies/vk/articles/742728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742728)
 - [Как рефакторинг помогает не потратить кучу денег на продукт](https://habr.com/ru/articles/743302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743302)
 - [Путь инженера: как эффективно пройти его от джуна до сеньора](https://habr.com/ru/companies/avito/articles/743278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743278)
-- [Чат-бот на ChatGPT в энтерпрайз: чего нам это стоит?](https://habr.com/ru/companies/m2tech/articles/743052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743052)
-- [Эволюция уязвимостей в приложениях для Android](https://habr.com/ru/companies/pt/articles/743232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743232)
-- [Go scheduler. Простыми словами](https://habr.com/ru/articles/743266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
