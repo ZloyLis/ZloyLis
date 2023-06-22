@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как рефакторинг помогает не потратить кучу денег на продукт](https://habr.com/ru/articles/743302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743302)
+- [Путь инженера: как эффективно пройти его от джуна до сеньора](https://habr.com/ru/companies/avito/articles/743278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743278)
+- [Чат-бот на ChatGPT в энтерпрайз: чего нам это стоит?](https://habr.com/ru/companies/m2tech/articles/743052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743052)
 - [Эволюция уязвимостей в приложениях для Android](https://habr.com/ru/companies/pt/articles/743232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743232)
 - [Go scheduler. Простыми словами](https://habr.com/ru/articles/743266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743266)
-- [Пэйволлы: прокачиваем насмотренность](https://habr.com/ru/articles/743264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743264)
-- [Секреты должны оставаться секретами: как работает Secret Scanner в Yandex Cloud](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/742846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742846)
-- [Можно ли в деловом документе найти созвездие Большой Медведицы?](https://habr.com/ru/companies/smartengines/articles/743120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
