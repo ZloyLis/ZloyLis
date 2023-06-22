@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пэйволлы: прокачиваем насмотренность](https://habr.com/ru/articles/743264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743264)
+- [Секреты должны оставаться секретами: как работает Secret Scanner в Yandex Cloud](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/742846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742846)
 - [Можно ли в деловом документе найти созвездие Большой Медведицы?](https://habr.com/ru/companies/smartengines/articles/743120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743120)
 - [Внутреннее обучение Java для QA](https://habr.com/ru/companies/hh/articles/742554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742554)
 - [Arduino AY player с экраном и кнопками](https://habr.com/ru/articles/743234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743234)
-- [Код в картинках: визуализация кода](https://habr.com/ru/articles/742798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742798)
-- [Внедряем MapKit Яндекс Карт в iOS приложение](https://habr.com/ru/articles/743208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
