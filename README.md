@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как распознать хорошее образование](https://habr.com/ru/companies/lesallay_dialog/articles/743092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743092)
+- [[Перевод] Когда отладочных символов стало слишком много](https://habr.com/ru/companies/sportmaster_lab/articles/743330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743330)
+- [Готовим детей к школе с Кубокотом](https://habr.com/ru/companies/nmg/articles/743294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743294)
+- [Как оценивать задачи и подружиться с дедлайнами](https://habr.com/ru/articles/743322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743322)
 - [Оптимизация производительности запросов в ClickHouse: как ускорить неускоряемое](https://habr.com/ru/companies/oleg-bunin/articles/726570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726570)
-- [[Перевод] Разбираемся с GraalVM, AOT и JIT](https://habr.com/ru/companies/otus/articles/743318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743318)
-- [[Перевод] Как превратить данные в продукт: выжать из данных максимум благодаря принципам продакт-менеджмента](https://habr.com/ru/companies/vk/articles/742728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742728)
-- [Как рефакторинг помогает не потратить кучу денег на продукт](https://habr.com/ru/articles/743302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743302)
-- [Путь инженера: как эффективно пройти его от джуна до сеньора](https://habr.com/ru/companies/avito/articles/743278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
