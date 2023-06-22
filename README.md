@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли в деловом документе найти созвездие Большой Медведицы?](https://habr.com/ru/companies/smartengines/articles/743120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743120)
+- [Внутреннее обучение Java для QA](https://habr.com/ru/companies/hh/articles/742554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742554)
+- [Arduino AY player с экраном и кнопками](https://habr.com/ru/articles/743234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743234)
+- [Код в картинках: визуализация кода](https://habr.com/ru/articles/742798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742798)
 - [Внедряем MapKit Яндекс Карт в iOS приложение](https://habr.com/ru/articles/743208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743208)
-- [[Перевод] От стеков к деревьям — новая модель псевдонимов в Rust](https://habr.com/ru/articles/743186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743186)
-- [Про тестирование мобильных приложений. Часть 4. Интеграционное тестирование](https://habr.com/ru/articles/743168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743168)
-- [SRE: Архитектура и системный дизайн](https://habr.com/ru/companies/otus/articles/743138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743138)
-- [Как я перестал тревожиться из-за читабельности и… все](https://habr.com/ru/articles/743114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
