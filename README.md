@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] ASO кейс, как мы выросли с 10 до 300 установок в день &lpar;US iOS&rpar;](https://habr.com/ru/articles/743418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743418)
 - [Вскрываем средство для DDoS-атак на российскую ИТ-инфраструктуру](https://habr.com/ru/companies/usergate/articles/743080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743080)
 - [Приглашаем на Ozon Tech Community Platform Meetup](https://habr.com/ru/companies/ozontech/articles/743300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743300)
 - [Вопрос на сертификационном экзамене: применение Threads и Executors](https://habr.com/ru/companies/ibs/articles/743360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743360)
 - [Как распознать хорошее образование](https://habr.com/ru/companies/lesallay_dialog/articles/743092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743092)
-- [[Перевод] Когда отладочных символов стало слишком много](https://habr.com/ru/companies/sportmaster_lab/articles/743330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
