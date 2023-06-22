@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вскрываем средство для DDoS-атак на российскую ИТ-инфраструктуру](https://habr.com/ru/companies/usergate/articles/743080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743080)
+- [Приглашаем на Ozon Tech Community Platform Meetup](https://habr.com/ru/companies/ozontech/articles/743300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743300)
+- [Вопрос на сертификационном экзамене: применение Threads и Executors](https://habr.com/ru/companies/ibs/articles/743360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743360)
 - [Как распознать хорошее образование](https://habr.com/ru/companies/lesallay_dialog/articles/743092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743092)
 - [[Перевод] Когда отладочных символов стало слишком много](https://habr.com/ru/companies/sportmaster_lab/articles/743330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743330)
-- [Готовим детей к школе с Кубокотом](https://habr.com/ru/companies/nmg/articles/743294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743294)
-- [Как оценивать задачи и подружиться с дедлайнами](https://habr.com/ru/articles/743322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743322)
-- [Оптимизация производительности запросов в ClickHouse: как ускорить неускоряемое](https://habr.com/ru/companies/oleg-bunin/articles/726570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=726570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
