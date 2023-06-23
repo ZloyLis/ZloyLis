@@ -25,10 +25,10 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Осознанная оптимизация Compose](https://habr.com/ru/companies/ozontech/articles/742854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742854)
 - [Кодирование и декодирование данных](https://habr.com/ru/companies/otus/articles/743440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743440)
 - [Ваш Main&lpar;&rpar; — это бомба замедленного действия: Как MOPP позволит вам избежать катастрофы в вашем коде?](https://habr.com/ru/articles/743436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743436)
 - [[Перевод] Встречайте Dev Mode в Figma](https://habr.com/ru/articles/743428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743428)
-- [[recovery mode] ASO кейс, как мы выросли с 10 до 300 установок в день &lpar;US iOS&rpar;](https://habr.com/ru/articles/743418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743418)
 - [Вскрываем средство для DDoS-атак на российскую ИТ-инфраструктуру](https://habr.com/ru/companies/usergate/articles/743080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743080)
 <!-- BLOG-POST-LIST:END -->
 
