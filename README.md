@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я создала приложение для IPhone. Без опыта разработки на SWIFT, но с помощью ChatGPT](https://habr.com/ru/articles/743548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743548)
+- [3 доклада для тех, кто недавно с Go: материалы митапа в Петербурге](https://habr.com/ru/companies/yadro/articles/743378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743378)
+- [Hibernate — проблема декартова произведения при запросах с пагинацией](https://habr.com/ru/companies/rosbank/articles/743536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743536)
+- [Как сформировать правильное понимание задачи в продуктовом дизайне](https://habr.com/ru/companies/tinkoff/articles/743534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743534)
 - [Об одной тестовой задаче](https://habr.com/ru/articles/743514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743514)
-- [Как тестировать не-REST-бекэнд. Часть первая, GraphQL](https://habr.com/ru/companies/qiwi/articles/743518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743518)
-- [Перспективы для фронтендеров-джунов на рынке разработки: вакансии, зарплаты, актуальные навыки](https://habr.com/ru/companies/yandex_praktikum/articles/742518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742518)
-- [Telegram-бот для инвесторов c аналитикой, рассылкой изменения цен и анализом новостей от ChatGPT](https://habr.com/ru/articles/743400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743400)
-- [Запахи технической документации](https://habr.com/ru/companies/vk/articles/743324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
