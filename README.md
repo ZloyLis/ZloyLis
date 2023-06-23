@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Интероперабельность между С++ и Rust](https://habr.com/ru/companies/timeweb/articles/743540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743540)
+- [Взламывая ChatGPT: как мы участвовали в хакатоне по атакам на ИИ](https://habr.com/ru/companies/kaspersky/articles/743412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743412)
+- [60 антипаттернов для С++ программиста, часть 9 &lpar;совет 41 — 45&rpar;](https://habr.com/ru/companies/pvs-studio/articles/743582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743582)
+- [Топовые КПК из нулевых — что могли тогда и что могут сейчас?](https://habr.com/ru/companies/itglobalcom/articles/743570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743570)
 - [Фича Флаги и управление ими “по-взрослому”: кейс команды СберЗдоровье](https://habr.com/ru/companies/docdoc/articles/742962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742962)
-- [Как я создала приложение для IPhone. Без опыта разработки на SWIFT, но с помощью ChatGPT](https://habr.com/ru/articles/743548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743548)
-- [3 доклада для тех, кто недавно с Go: материалы митапа в Петербурге](https://habr.com/ru/companies/yadro/articles/743378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743378)
-- [Hibernate — проблема декартова произведения при запросах с пагинацией](https://habr.com/ru/companies/rosbank/articles/743536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743536)
-- [Как сформировать правильное понимание задачи в продуктовом дизайне](https://habr.com/ru/companies/tinkoff/articles/743534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
