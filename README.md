@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наводим порядок в бэклоге внутреннего продукта – с помощью кураторов от бизнеса и скоринга](https://habr.com/ru/companies/petrovich-tech/articles/740818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740818)
+- [Запахи технической документации](https://habr.com/ru/companies/vk/articles/743324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743324)
 - [[Перевод] Самая важная машина, которая никогда не была построена](https://habr.com/ru/companies/first/articles/743464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743464)
 - [ESLint. Анатомия правил линтинга: разбираем структуру, создаём собственное правило для React-приложения](https://habr.com/ru/companies/domclick/articles/743384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743384)
 - [[Перевод] В командах с хорошей продуктивностью выкладываются не более чем на 85%](https://habr.com/ru/companies/productivity_inside/articles/743472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743472)
-- [Осознанная оптимизация Compose](https://habr.com/ru/companies/ozontech/articles/742854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742854)
-- [Кодирование и декодирование данных](https://habr.com/ru/companies/otus/articles/743440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
