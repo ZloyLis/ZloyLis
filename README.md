@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Самая важная машина, которая никогда не была построена](https://habr.com/ru/companies/first/articles/743464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743464)
+- [ESLint. Анатомия правил линтинга: разбираем структуру, создаём собственное правило для React-приложения](https://habr.com/ru/companies/domclick/articles/743384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743384)
+- [[Перевод] В командах с хорошей продуктивностью выкладываются не более чем на 85%](https://habr.com/ru/companies/productivity_inside/articles/743472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743472)
 - [Осознанная оптимизация Compose](https://habr.com/ru/companies/ozontech/articles/742854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742854)
 - [Кодирование и декодирование данных](https://habr.com/ru/companies/otus/articles/743440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743440)
-- [Ваш Main&lpar;&rpar; — это бомба замедленного действия: Как MOPP позволит вам избежать катастрофы в вашем коде?](https://habr.com/ru/articles/743436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743436)
-- [[Перевод] Встречайте Dev Mode в Figma](https://habr.com/ru/articles/743428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743428)
-- [Вскрываем средство для DDoS-атак на российскую ИТ-инфраструктуру](https://habr.com/ru/companies/usergate/articles/743080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
