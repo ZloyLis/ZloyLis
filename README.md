@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Об одной тестовой задаче](https://habr.com/ru/articles/743514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743514)
+- [Как тестировать не-REST-бекэнд. Часть первая, GraphQL](https://habr.com/ru/companies/qiwi/articles/743518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743518)
+- [Перспективы для фронтендеров-джунов на рынке разработки: вакансии, зарплаты, актуальные навыки](https://habr.com/ru/companies/yandex_praktikum/articles/742518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742518)
 - [Telegram-бот для инвесторов c аналитикой, рассылкой изменения цен и анализом новостей от ChatGPT](https://habr.com/ru/articles/743400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743400)
 - [Запахи технической документации](https://habr.com/ru/companies/vk/articles/743324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743324)
-- [[Перевод] Самая важная машина, которая никогда не была построена](https://habr.com/ru/companies/first/articles/743464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743464)
-- [ESLint. Анатомия правил линтинга: разбираем структуру, создаём собственное правило для React-приложения](https://habr.com/ru/companies/domclick/articles/743384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743384)
-- [[Перевод] В командах с хорошей продуктивностью выкладываются не более чем на 85%](https://habr.com/ru/companies/productivity_inside/articles/743472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
