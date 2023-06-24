@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие практики скриптования в Jira Server/Data Center](https://habr.com/ru/companies/vk/articles/743376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743376)
 - [Решение задачи определения RUL трансформаторов с помощью машинного обучения на python](https://habr.com/ru/articles/743682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743682)
 - [Как делать full-stack с одного устройства без СМС и регистрации](https://habr.com/ru/articles/743676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743676)
 - [Debouncer: практический пример использования замыкания](https://habr.com/ru/articles/743666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743666)
 - [Практика по JOIN в SQL: упрощаем ежедневные задачи и решаем тестовое](https://habr.com/ru/companies/yandex_praktikum/articles/743422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743422)
-- [Ближайшие бесплатные мероприятия по разработке &lpar;27 июня — 29 июня 2023&rpar;](https://habr.com/ru/articles/743648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
