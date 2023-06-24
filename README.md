@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ближайшие бесплатные мероприятия по разработке &lpar;27 июня — 29 июня 2023&rpar;](https://habr.com/ru/articles/743648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743648)
 - [Путешествие в царство легаси. Как маленькая задача привела к большому рефакторингу](https://habr.com/ru/companies/sbermarket/articles/743134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743134)
 - [[Перевод] Интероперабельность между С++ и Rust](https://habr.com/ru/companies/timeweb/articles/743540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743540)
 - [Взламывая ChatGPT: как мы участвовали в хакатоне по атакам на ИИ](https://habr.com/ru/companies/kaspersky/articles/743412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743412)
 - [60 антипаттернов для С++ программиста, часть 9 &lpar;совет 41 — 45&rpar;](https://habr.com/ru/companies/pvs-studio/articles/743582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743582)
-- [Топовые КПК из нулевых — что могли тогда и что могут сейчас?](https://habr.com/ru/companies/itglobalcom/articles/743570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
