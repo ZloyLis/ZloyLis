@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удивительное изобретение русского инженера, которое не спасло его от нищеты. Прямило Липкина](https://habr.com/ru/companies/itglobalcom/articles/743780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743780)
 - [Использование Ionic и Vue 3 для создания мобильных приложений](https://habr.com/ru/articles/743778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743778)
 - [Инженерное нелюбопытство, часть II: диссоциация](https://habr.com/ru/articles/743774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743774)
 - [React: как сделать динамический суффикс в &amp;lt;input /&amp;gt;, который будет двигаться вместе с набранным текстом](https://habr.com/ru/articles/743768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743768)
 - [Собеседования по алгоритмам: максимальная конкатенация](https://habr.com/ru/articles/743762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743762)
-- [«Поляризация» машинному зрению вместо свёрточных нейросетей и чем отличается мой генератор карт от алгоритма Брезенхема](https://habr.com/ru/articles/743758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
