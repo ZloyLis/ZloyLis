@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по беспроводной связи в кружке робототехники](https://habr.com/ru/articles/743734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743734)
+- [«Правильные JIRA issues». Как правильно разбивать задачи на тикеты](https://habr.com/ru/articles/743744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743744)
 - [C# Linq для GraphQL-запросов](https://habr.com/ru/articles/743716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743716)
 - [Делаем многопользовательскую кроссплатформенную RPG с нуля](https://habr.com/ru/articles/743700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743700)
 - [Лучшие практики скриптования в Jira Server/Data Center](https://habr.com/ru/companies/vk/articles/743376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743376)
-- [Решение задачи определения RUL трансформаторов с помощью машинного обучения на python](https://habr.com/ru/articles/743682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743682)
-- [Как делать full-stack с одного устройства без СМС и регистрации](https://habr.com/ru/articles/743676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
