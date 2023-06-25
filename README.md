@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Заказать мобильное приложение или поручить разработку своим сотрудникам? Плюсы и минусы для бизнеса](https://habr.com/ru/articles/743710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743710)
+- [C# Linq для GraphQL-запросов](https://habr.com/ru/articles/743716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743716)
 - [Делаем многопользовательскую кроссплатформенную RPG с нуля](https://habr.com/ru/articles/743700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743700)
 - [Лучшие практики скриптования в Jira Server/Data Center](https://habr.com/ru/companies/vk/articles/743376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743376)
 - [Решение задачи определения RUL трансформаторов с помощью машинного обучения на python](https://habr.com/ru/articles/743682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743682)
