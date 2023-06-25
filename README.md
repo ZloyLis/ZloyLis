@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собеседования по алгоритмам: максимальная конкатенация](https://habr.com/ru/articles/743762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743762)
+- [«Поляризация» машинному зрению вместо свёрточных нейросетей и чем отличается мой генератор карт от алгоритма Брезенхема](https://habr.com/ru/articles/743758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743758)
 - [Гайд по беспроводной связи в кружке робототехники](https://habr.com/ru/articles/743734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743734)
 - [«Правильные JIRA issues». Как правильно разбивать задачи на тикеты](https://habr.com/ru/articles/743744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743744)
 - [C# Linq для GraphQL-запросов](https://habr.com/ru/articles/743716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743716)
-- [Делаем многопользовательскую кроссплатформенную RPG с нуля](https://habr.com/ru/articles/743700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743700)
-- [Лучшие практики скриптования в Jira Server/Data Center](https://habr.com/ru/companies/vk/articles/743376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
