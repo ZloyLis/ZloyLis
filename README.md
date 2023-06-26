@@ -5,10 +5,10 @@
 #### 🛠️ Technical stack:
 
 ![Java](https://img.shields.io/badge/Java-informational?logo=Oracle&style=flat&logoColor=white&color=FF4500)
+![JS](https://img.shields.io/badge/JavaScript-informational?logo=javaScript&style=flat&logoColor=black&color=F7Df1E)
+![TS](https://img.shields.io/badge/TypeScript-informational?logo=typeScript&style=flat&logoColor=black&color=0667A8) <br>
 ![Spring](https://img.shields.io/badge/SpringBoot-informational?logo=SpringBoot&style=flat&logoColor=white&color=6495ED)
-![Angular](https://img.shields.io/badge/Maven-informational?logo=ApacheMaven&style=flat&logoColor=white&color=red) <br>
-![JS](https://img.shields.io/badge/JS-informational?logo=javaScript&style=flat&logoColor=black&color=F7Df1E)
-![TS](https://img.shields.io/badge/TypeScript-informational?logo=typeScript&style=flat&logoColor=black&color=0667A8)
+![Angular](https://img.shields.io/badge/Maven-informational?logo=ApacheMaven&style=flat&logoColor=white&color=red)
 ![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=43853D) <br>
 ![Nest](https://img.shields.io/badge/NestJS-informational?logo=NestJS&style=flat&logoColor=white&color=red)
 ![Next](https://img.shields.io/badge/NextJS-informational?logo=Next.js&style=flat&logoColor=white&color=00f)
