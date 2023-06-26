@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Собеседование по Java. Разбор 1606 вопросов и ответов. Часть 1 &lpar;с 1 по 169 вопрос&rpar;](https://habr.com/ru/articles/743862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743862)
-- [Все ищут хороших аналитиков 1С. Но как ими стать?](https://habr.com/ru/companies/sigma/articles/743568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743568)
-- [Вероятностные структуры данных и где они обитают](https://habr.com/ru/articles/743800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743800)
-- [Библиотека libopencm3: Быстрый старт &lpar;Часть 1&rpar;](https://habr.com/ru/companies/auriga/articles/728270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728270)
-- [[HTTP API &amp;amp; REST] Разработка номенклатуры URL ресурсов. CRUD-операции](https://habr.com/ru/articles/743818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743818)
+- [Как катить фичи без релизов. Часть 2: про низкоуровневый Server Driven UI](https://habr.com/ru/companies/alfa/articles/742932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742932)
+- [Что такое NiFi](https://habr.com/ru/companies/tinkoff/articles/743886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743886)
+- [60 антипаттернов для С++ программиста, часть 10 &lpar;совет 46 — 50&rpar;](https://habr.com/ru/companies/pvs-studio/articles/743884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743884)
+- [Как я 10 лет строю интеграцию в банке: от ESB-монолита к целой линейке систем](https://habr.com/ru/companies/mkb/articles/743880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743880)
+- [Скрепинг данных с Chat GPT](https://habr.com/ru/articles/743876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
