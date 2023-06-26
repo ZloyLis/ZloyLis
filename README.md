@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #494 &lpar;19 — 25 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/743806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743806)
 - [Разделение контейнера зависимостей в ASP.NET Core](https://habr.com/ru/articles/743688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743688)
 - [Mini-ml-stand для бедных](https://habr.com/ru/articles/743782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743782)
 - [Удивительное изобретение русского инженера, которое не спасло его от нищеты. Прямило Липкина](https://habr.com/ru/companies/itglobalcom/articles/743780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743780)
 - [Использование Ionic и Vue 3 для создания мобильных приложений](https://habr.com/ru/articles/743778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743778)
-- [Инженерное нелюбопытство, часть II: диссоциация](https://habr.com/ru/articles/743774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
