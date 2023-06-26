@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все ищут хороших аналитиков 1С. Но как ими стать?](https://habr.com/ru/companies/sigma/articles/743568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743568)
 - [Вероятностные структуры данных и где они обитают](https://habr.com/ru/articles/743800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743800)
 - [Библиотека libopencm3: Быстрый старт &lpar;Часть 1&rpar;](https://habr.com/ru/companies/auriga/articles/728270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=728270)
 - [[HTTP API &amp;amp; REST] Разработка номенклатуры URL ресурсов. CRUD-операции](https://habr.com/ru/articles/743818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743818)
 - [Мобильная разработка за неделю #494 &lpar;19 — 25 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/743806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743806)
-- [Разделение контейнера зависимостей в ASP.NET Core](https://habr.com/ru/articles/743688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
