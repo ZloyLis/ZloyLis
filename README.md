@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Важные концепции в Python, которые помогают программисту в работе](https://habr.com/ru/companies/ru_mts/articles/743918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743918)
+- [Радиоактивность, или Что представляет собой радиолюбительство в 2023 году](https://habr.com/ru/companies/redmadrobot/articles/743916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743916)
+- [Шумные разработчики, или Какие виды шума бывают?](https://habr.com/ru/articles/743914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743914)
 - [Как катить фичи без релизов. Часть 2: про низкоуровневый Server Driven UI](https://habr.com/ru/companies/alfa/articles/742932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742932)
 - [Что такое NiFi](https://habr.com/ru/companies/tinkoff/articles/743886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743886)
-- [60 антипаттернов для С++ программиста, часть 10 &lpar;совет 46 — 50&rpar;](https://habr.com/ru/companies/pvs-studio/articles/743884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743884)
-- [Как я 10 лет строю интеграцию в банке: от ESB-монолита к целой линейке систем](https://habr.com/ru/companies/mkb/articles/743880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743880)
-- [Скрепинг данных с Chat GPT](https://habr.com/ru/articles/743876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
