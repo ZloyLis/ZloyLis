@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Managed K8S от MTS Cloud](https://habr.com/ru/articles/741178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741178)
 - [Проектирование алгоритма под рекомендательную систему](https://habr.com/ru/articles/743986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743986)
 - [Security Week 2326: небезопасные умные кормушки для домашних животных](https://habr.com/ru/companies/kaspersky/articles/743856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743856)
 - [[Перевод] Выбор структур данных для самописного текстового редактора](https://habr.com/ru/companies/ruvds/articles/743954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743954)
 - [Любовь, 3D-печать и роботы: сезон DIY на Хабре](https://habr.com/ru/specials/743788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743788)
-- [Как попасть в фичеринг](https://habr.com/ru/companies/cleverpumpkin/articles/743952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
