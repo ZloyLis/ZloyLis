@@ -26,10 +26,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Важные концепции в Python, которые помогают программисту в работе](https://habr.com/ru/companies/ru_mts/articles/743918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743918)
-- [Радиоактивность, или Что представляет собой радиолюбительство в 2023 году](https://habr.com/ru/companies/redmadrobot/articles/743916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743916)
+- [Радиоактивность, или что представляет собой радиолюбительство в 2023 году](https://habr.com/ru/companies/redmadrobot/articles/743916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743916)
 - [Шумные разработчики, или Какие виды шума бывают?](https://habr.com/ru/articles/743914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743914)
+- [[Перевод] Использование оконных функций с Hibernate 5 и 6](https://habr.com/ru/companies/otus/articles/743910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743910)
 - [Как катить фичи без релизов. Часть 2: про низкоуровневый Server Driven UI](https://habr.com/ru/companies/alfa/articles/742932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742932)
-- [Что такое NiFi](https://habr.com/ru/companies/tinkoff/articles/743886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
