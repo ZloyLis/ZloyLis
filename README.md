@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Важные концепции в Python, которые помогают программисту в работе](https://habr.com/ru/companies/ru_mts/articles/743918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743918)
-- [Радиоактивность, или что представляет собой радиолюбительство в 2023 году](https://habr.com/ru/companies/redmadrobot/articles/743916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743916)
-- [Шумные разработчики, или Какие виды шума бывают?](https://habr.com/ru/articles/743914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743914)
-- [[Перевод] Использование оконных функций с Hibernate 5 и 6](https://habr.com/ru/companies/otus/articles/743910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743910)
-- [Как катить фичи без релизов. Часть 2: про низкоуровневый Server Driven UI](https://habr.com/ru/companies/alfa/articles/742932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742932)
+- [Security Week 2326: небезопасные умные кормушки для домашних животных](https://habr.com/ru/companies/kaspersky/articles/743856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743856)
+- [[Перевод] Выбор структур данных для самописного текстового редактора](https://habr.com/ru/companies/ruvds/articles/743954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743954)
+- [Любовь, 3D-печать и роботы: сезон DIY на Хабре](https://habr.com/ru/specials/743788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743788)
+- [Как попасть в фичеринг](https://habr.com/ru/companies/cleverpumpkin/articles/743952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743952)
+- [Dart для бэкэндеров. Часть 1](https://habr.com/ru/companies/otus/articles/743804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
