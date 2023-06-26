@@ -4,21 +4,22 @@
 
 #### 🛠️ Technical stack:
 
-![Java](https://img.shields.io/badge/Java-informational?logo=Oracle&style=flat&logoColor=white&color=007396)
-![JS](https://img.shields.io/badge/JavaScript-informational?logo=javaScript&style=flat&logoColor=black&color=F7Df1E)
-![TS](https://img.shields.io/badge/TypeScript-informational?logo=typeScript&style=flat&logoColor=black&color=0667A8)<br>
-![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=43853D)
+![Java](https://img.shields.io/badge/Java-informational?logo=Oracle&style=flat&logoColor=white&color=FF4500)
+![Spring](https://img.shields.io/badge/SpringBoot-informational?logo=SpringBoot&style=flat&logoColor=white&color=6495ED)
+![Angular](https://img.shields.io/badge/Maven-informational?logo=ApacheMaven&style=flat&logoColor=white&color=red) <br>
+![JS](https://img.shields.io/badge/JS-informational?logo=javaScript&style=flat&logoColor=black&color=F7Df1E)
+![TS](https://img.shields.io/badge/TypeScript-informational?logo=typeScript&style=flat&logoColor=black&color=0667A8)
+![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=43853D) <br>
 ![Nest](https://img.shields.io/badge/NestJS-informational?logo=NestJS&style=flat&logoColor=white&color=red)
-![Spring](https://img.shields.io/badge/SpringBoot-informational?logo=SpringBoot&style=flat&logoColor=white&color=0A9EDC)<br>
 ![Next](https://img.shields.io/badge/NextJS-informational?logo=Next.js&style=flat&logoColor=white&color=00f)
 ![Angular](https://img.shields.io/badge/React-informational?logo=react&style=flat&logoColor=white&color=C3002F)
-![WebPAck](https://img.shields.io/badge/WebPack-informational?logo=webPack&style=flat&logoColor=white&color=FF6F00)<br>
-![HTML5](https://img.shields.io/badge/HTML5-informational?logo=html5&style=flat&logoColor=white&color=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-informational?logo=css3&style=flat&logoColor=white&color=157286)
-![Sass](https://img.shields.io/badge/Saas-informational?logo=sass&style=flat&logoColor=white&color=hotpink) <br>
-![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=F05133)
+ <br>
+![HTML5](https://img.shields.io/badge/HTML5-informational?logo=html5&style=flat&logoColor=white&color=808080)
+![Sass](https://img.shields.io/badge/Saas-informational?logo=sass&style=flat&logoColor=white&color=hotpink)
+![WebPAck](https://img.shields.io/badge/WebPack-informational?logo=webPack&style=flat&logoColor=white&color=228B22) <br>
 ![Figma](https://img.shields.io/badge/Figma-informational?logo=figma&style=flat&logoColor=white&color=darkred)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=PostgreSQL&style=flat&logoColor=white&color=00f)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=PostgreSQL&style=flat&logoColor=white&color=DAA520)
+![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=778899)
 
 ___
 
