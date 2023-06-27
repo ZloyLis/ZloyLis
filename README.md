@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tarantool: «серебряная пуля» для построения микросервисной архитектуры VK Teams](https://habr.com/ru/companies/vk/articles/743390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743390)
+- [Запуск тестов через Slack бота для множества микросервисов](https://habr.com/ru/articles/744094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744094)
+- [Как мы внедряли Design API First. Показываем на примере сервиса аутентификации](https://habr.com/ru/companies/simbirsoft/articles/744062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744062)
 - [Крестики-нолики для питонистов: сначала пишем, потом играем](https://habr.com/ru/companies/yandex_praktikum/articles/743810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743810)
 - [Managed K8S от MTS Cloud](https://habr.com/ru/articles/741178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741178)
-- [Проектирование алгоритма под рекомендательную систему](https://habr.com/ru/articles/743986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743986)
-- [Security Week 2326: небезопасные умные кормушки для домашних животных](https://habr.com/ru/companies/kaspersky/articles/743856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743856)
-- [[Перевод] Выбор структур данных для самописного текстового редактора](https://habr.com/ru/companies/ruvds/articles/743954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
