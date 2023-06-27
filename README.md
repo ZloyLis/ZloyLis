@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Несколько способов оптимизации производительности больших backend PHP](https://habr.com/ru/articles/744202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744202)
+- [Курсы HR менеджера в 2023 &lpar;обзор популярных&rpar;. Стать специалистом, а не HR-юшкой](https://habr.com/ru/articles/744056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744056)
 - [Изнутри: Swift макрос — #Preview](https://habr.com/ru/companies/ozontech/articles/744216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744216)
 - [Как дизайнеру спасти ситуацию с помощью исследования. За пару часов, $4 и без разработки](https://habr.com/ru/companies/sbermarket/articles/743386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743386)
 - [Всё хорошо, но нужно переписать или почему ваш код не попадает в прод](https://habr.com/ru/articles/744146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744146)
-- [Больше классов богу классов](https://habr.com/ru/articles/744136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744136)
-- [Не пропусти это при работе с Nx](https://habr.com/ru/companies/skyeng/articles/743458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
