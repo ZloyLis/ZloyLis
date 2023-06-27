@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга «Тайная жизнь программ. Как создать код, который понравится вашему компьютеру»](https://habr.com/ru/companies/piter/articles/744168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744168)
 - [[Перевод] Движок для игры от первого лица в 265 строках Javascript](https://habr.com/ru/companies/timeweb/articles/744178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744178)
 - [Типы, методы и интерфейсы](https://habr.com/ru/companies/otus/articles/744026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744026)
-- [Несколько способов оптимизации производительности больших backend PHP](https://habr.com/ru/articles/744202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744202)
-- [Курсы HR менеджера в 2023 &lpar;обзор популярных&rpar;. Стать специалистом, а не HR-юшкой](https://habr.com/ru/articles/744056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744056)
-- [Изнутри: Swift макрос — #Preview](https://habr.com/ru/companies/ozontech/articles/744216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744216)
+- [Мы выбираем гаджеты или зависим от них?](https://habr.com/ru/articles/744194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744194)
+- [Несколько очевидных и не очень способов оптимизации производительности веб-приложений на PHP](https://habr.com/ru/articles/744202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
