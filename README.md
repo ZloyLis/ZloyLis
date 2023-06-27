@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как дизайнеру спасти ситуацию с помощью исследования. За пару часов, $4 и без разработки](https://habr.com/ru/companies/sbermarket/articles/743386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743386)
 - [Всё хорошо, но нужно переписать или почему ваш код не попадает в прод](https://habr.com/ru/articles/744146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744146)
 - [Больше классов Богу классов](https://habr.com/ru/articles/744136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744136)
 - [Не пропусти это при работе с Nx](https://habr.com/ru/companies/skyeng/articles/743458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743458)
 - [Tarantool: «серебряная пуля» для построения микросервисной архитектуры VK Teams](https://habr.com/ru/companies/vk/articles/743390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743390)
-- [Запуск тестов через Slack бота для множества микросервисов](https://habr.com/ru/articles/744094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
