@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Движок для игры от первого лица в 265 строках Javascript](https://habr.com/ru/companies/timeweb/articles/744178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744178)
+- [Типы, методы и интерфейсы](https://habr.com/ru/companies/otus/articles/744026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744026)
 - [Несколько способов оптимизации производительности больших backend PHP](https://habr.com/ru/articles/744202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744202)
 - [Курсы HR менеджера в 2023 &lpar;обзор популярных&rpar;. Стать специалистом, а не HR-юшкой](https://habr.com/ru/articles/744056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744056)
 - [Изнутри: Swift макрос — #Preview](https://habr.com/ru/companies/ozontech/articles/744216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744216)
-- [Как дизайнеру спасти ситуацию с помощью исследования. За пару часов, $4 и без разработки](https://habr.com/ru/companies/sbermarket/articles/743386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743386)
-- [Всё хорошо, но нужно переписать или почему ваш код не попадает в прод](https://habr.com/ru/articles/744146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
