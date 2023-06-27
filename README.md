@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не пропусти это при работе с Nx](https://habr.com/ru/companies/skyeng/articles/743458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743458)
 - [Tarantool: «серебряная пуля» для построения микросервисной архитектуры VK Teams](https://habr.com/ru/companies/vk/articles/743390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743390)
 - [Запуск тестов через Slack бота для множества микросервисов](https://habr.com/ru/articles/744094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744094)
 - [Как мы внедряли Design API First. Показываем на примере сервиса аутентификации](https://habr.com/ru/companies/simbirsoft/articles/744062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744062)
 - [Крестики-нолики для питонистов: сначала пишем, потом играем](https://habr.com/ru/companies/yandex_praktikum/articles/743810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743810)
-- [Managed K8S от MTS Cloud](https://habr.com/ru/articles/741178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
