@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Типы, больше типов](https://habr.com/ru/articles/744346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744346)
+- [Каково расстояние между «Будапештом» и «Бухарестом» или об отождествлении слов с помощью расстояния Левенштейна](https://habr.com/ru/companies/smartengines/articles/744300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744300)
+- [60 антипаттернов для С++ программиста, часть 11 &lpar;совет 51 — 55&rpar;](https://habr.com/ru/companies/pvs-studio/articles/744378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744378)
 - [Raylib: опыт использования абсолютным новичком и что из этого вышло](https://habr.com/ru/articles/744372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744372)
 - [Опыт работы с ChatGPT на примере написания Java кода для решения типовой задачи и немного выводов и рассуждений](https://habr.com/ru/articles/744368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744368)
-- [Один Hugo сайт, Две Hugo темы](https://habr.com/ru/articles/744364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744364)
-- [[Перевод] Swift 5.9. Что нового?](https://habr.com/ru/articles/744344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744344)
-- [Apple Pro Weekly News &lpar;19.06 – 25.06.23&rpar;](https://habr.com/ru/articles/744338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
