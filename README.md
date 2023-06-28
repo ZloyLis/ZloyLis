@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Inversion of Control и Dependency Injection в MVC-приложениях](https://habr.com/ru/companies/otus/articles/744566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744566)
 - [Обновления технологий и сервисов в 2023 году: что уже вышло за полгода и чего еще ждать?](https://habr.com/ru/companies/skillbox/articles/744546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744546)
 - [[Перевод] Малоизвестные возможности языка C](https://habr.com/ru/companies/otus/articles/744542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744542)
 - [Googlим бесплатно &lpar;и Яндексим&rpar;: open-source решение с API](https://habr.com/ru/articles/744536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744536)
 - [VK Open: 6 часов погружения в открытые платформы](https://habr.com/ru/companies/vk/articles/744298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744298)
-- [Таргетолог обучение в 2023 году. Выбираем курсы](https://habr.com/ru/articles/744358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
