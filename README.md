@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Редчайший прозрачный смартфон на FireFox OS — прошиваем и смотрим на LG Fx0 2014 года выпуска](https://habr.com/ru/companies/timeweb/articles/743796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743796)
+- [Разработка — всё? Действительно ли нас всех заменят роботы](https://habr.com/ru/companies/avito/articles/741390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741390)
+- [[Перевод] Логирование в Kubernetes: гайд как сохранить рассудок в море данных](https://habr.com/ru/companies/southbridge/articles/744308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744308)
 - [Типы, больше типов](https://habr.com/ru/articles/744346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744346)
 - [Каково расстояние между «Будапештом» и «Бухарестом» или об отождествлении слов с помощью расстояния Левенштейна](https://habr.com/ru/companies/smartengines/articles/744300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744300)
-- [60 антипаттернов для С++ программиста, часть 11 &lpar;совет 51 — 55&rpar;](https://habr.com/ru/companies/pvs-studio/articles/744378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744378)
-- [Raylib: опыт использования абсолютным новичком и что из этого вышло](https://habr.com/ru/articles/744372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744372)
-- [Опыт работы с ChatGPT на примере написания Java кода для решения типовой задачи и немного выводов и рассуждений](https://habr.com/ru/articles/744368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
