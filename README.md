@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновления технологий и сервисов в 2023 году: что уже вышло за полгода и чего еще ждать?](https://habr.com/ru/companies/skillbox/articles/744546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744546)
+- [[Перевод] Малоизвестные возможности языка C](https://habr.com/ru/companies/otus/articles/744542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744542)
+- [Googlим бесплатно &lpar;и Яндексим&rpar;: open-source решение с API](https://habr.com/ru/articles/744536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744536)
+- [VK Open: 6 часов погружения в открытые платформы](https://habr.com/ru/companies/vk/articles/744298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744298)
 - [Таргетолог обучение в 2023 году. Выбираем курсы](https://habr.com/ru/articles/744358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744358)
-- [Макросы в Swift](https://habr.com/ru/companies/cleverpumpkin/articles/744414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744414)
-- [Беда “войти в айти” или курсы тестировщика отзывы: Чем хуже курс, тем лучше отзывы, или Эффект доктора Хауса](https://habr.com/ru/articles/744508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744508)
-- [Моддинг в Cyberpunk 2077 — начало разработки VR-жилета](https://habr.com/ru/companies/selectel/articles/740562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740562)
-- [Оформление и структурирование классов в Swift](https://habr.com/ru/articles/744470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
