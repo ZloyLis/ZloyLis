@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импортозамещение в телекоме: система обработки больших данных, которая превосходит зарубежные продукты](https://habr.com/ru/companies/stm_labs/articles/744492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744492)
+- [Моддинг в Cyberpunk 2077 — начало разработки VR-жилета](https://habr.com/ru/companies/selectel/articles/740562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740562)
+- [Оформление и структурирование классов в Swift](https://habr.com/ru/articles/744470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744470)
 - [Подводные камни С++. Решаем загадки неопределённого поведения, ч. 1](https://habr.com/ru/companies/ncloudtech/articles/743930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743930)
 - [Saga и Event Sourcing с Axon. Первое знакомство](https://habr.com/ru/articles/744460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744460)
-- [Проблемы накапливаются. Софт тормозит. Везде некомпетентность и хаос](https://habr.com/ru/companies/ruvds/articles/744264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744264)
-- [Развитие сотрудников как фактор мотивации](https://habr.com/ru/companies/oleg-bunin/articles/719760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719760)
-- [«Тушим пожары» по расписанию. Как мы защищаем Mail.ru от аварий в инфраструктуре](https://habr.com/ru/companies/vk/articles/744242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
