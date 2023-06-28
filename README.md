@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подводные камни С++. Решаем загадки неопределённого поведения, ч. 1](https://habr.com/ru/companies/ncloudtech/articles/743930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743930)
+- [Saga и Event Sourcing с Axon. Первое знакомство](https://habr.com/ru/articles/744460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744460)
 - [Проблемы накапливаются. Софт тормозит. Везде некомпетентность и хаос](https://habr.com/ru/companies/ruvds/articles/744264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744264)
 - [Развитие сотрудников как фактор мотивации](https://habr.com/ru/companies/oleg-bunin/articles/719760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719760)
 - [«Тушим пожары» по расписанию. Как мы защищаем Mail.ru от аварий в инфраструктуре](https://habr.com/ru/companies/vk/articles/744242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744242)
-- [КЛЕТКА I, как возникает живая материя](https://habr.com/ru/articles/744142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744142)
-- [Редчайший прозрачный смартфон на FireFox OS — прошиваем и смотрим на LG Fx0 2014 года выпуска](https://habr.com/ru/companies/timeweb/articles/743796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
