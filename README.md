@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Таргетолог обучение в 2023 году. Выбираем курсы](https://habr.com/ru/articles/744358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744358)
+- [Макросы в Swift](https://habr.com/ru/companies/cleverpumpkin/articles/744414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744414)
 - [Беда “войти в айти” или курсы тестировщика отзывы: Чем хуже курс, тем лучше отзывы, или Эффект доктора Хауса](https://habr.com/ru/articles/744508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744508)
-- [Импортозамещение в телекоме: система обработки больших данных, которая превосходит зарубежные продукты](https://habr.com/ru/companies/stm_labs/articles/744492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744492)
 - [Моддинг в Cyberpunk 2077 — начало разработки VR-жилета](https://habr.com/ru/companies/selectel/articles/740562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740562)
 - [Оформление и структурирование классов в Swift](https://habr.com/ru/articles/744470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744470)
-- [Подводные камни С++. Решаем загадки неопределённого поведения, ч. 1](https://habr.com/ru/companies/ncloudtech/articles/743930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
