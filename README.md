@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизированная работа с DevTools в Selenium 4](https://habr.com/ru/companies/simbirsoft/articles/744744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744744)
 - [Legacy на фронте и моя победа над ним](https://habr.com/ru/articles/744770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744770)
 - [[recovery mode] Что такое пир-ревью и зачем оно нужно вашей команде](https://habr.com/ru/companies/yandex_praktikum/articles/744578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744578)
 - [Собеседования для бэкендеров: как готовиться, тренироваться и не облажаться](https://habr.com/ru/companies/getmatch/articles/744760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744760)
 - [Неудачное внедрение Redis Cluster в монолит на PHP 7.2.X](https://habr.com/ru/articles/743784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743784)
-- [Вычислительная сложность некоторых игр и головоломок &lpar;часть 2&rpar;](https://habr.com/ru/companies/first/articles/744664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
