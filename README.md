@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разбираемся с FSD — самой надёжной архитектурой для фронтенда](https://habr.com/ru/companies/piter/articles/744824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744824)
 - [Как сделать Telegram-бота для проверки аптайма своего сервиса на Python &lpar;ч.1 мгновенные метрики&rpar;](https://habr.com/ru/articles/744836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744836)
 - [Введение в Java Process Memory Model](https://habr.com/ru/articles/744834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744834)
 - [Как рассказывать про кейсы агентства, чтобы читатель не умер со скуки](https://habr.com/ru/articles/744626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744626)
 - [Как мы делаем тестирование прозрачным. Всё об инфраструктуре QA](https://habr.com/ru/companies/agima/articles/744280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744280)
-- [Как сделать доступный UI, несмотря на хорошее ТЗ](https://habr.com/ru/companies/croc/articles/744266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
