@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать Telegram-бота для проверки аптайма своего сервиса на Python &lpar;ч.1 мгновенные метрики&rpar;](https://habr.com/ru/articles/744836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744836)
+- [Введение в Java Process Memory Model](https://habr.com/ru/articles/744834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744834)
+- [Как рассказывать про кейсы агентства, чтобы читатель не умер со скуки](https://habr.com/ru/articles/744626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744626)
+- [Как мы делаем тестирование прозрачным. Всё об инфраструктуре QA](https://habr.com/ru/companies/agima/articles/744280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744280)
 - [Как сделать доступный UI, несмотря на хорошее ТЗ](https://habr.com/ru/companies/croc/articles/744266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744266)
-- [Ethereum Contract ABI Specification. Взаимодействие с контрактом](https://habr.com/ru/articles/743878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743878)
-- [JTBD-метод на практике для решения тестового задания](https://habr.com/ru/companies/beeline_tech/articles/744798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744798)
-- [Обзор библиотек для скриншот-тестирования Android проектов. Часть 1](https://habr.com/ru/articles/744796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744796)
-- [Автоматизированная работа с DevTools в Selenium 4](https://habr.com/ru/companies/simbirsoft/articles/744744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
