@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Sandbox или Как IT-гигант «утонул» в песочнице](https://habr.com/ru/articles/742838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742838)
+- [Три месяца ошибок, или как я создала чек-лист для проверки ТЗ](https://habr.com/ru/companies/X5Tech/articles/744888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744888)
+- [Почему гибридная архитектура – это будущее?](https://habr.com/ru/companies/inferit/articles/744876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744876)
+- [Безопасная разработка и уязвимости кода. Часть1. Уязвимость](https://habr.com/ru/companies/otus/articles/744556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744556)
+- [[recovery mode] Sandbox или как IT-гигант «утонул» в песочнице](https://habr.com/ru/articles/742838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742838)
 - [Кажется, вы больше не должны давать тестовые задания кандидатам на дом](https://habr.com/ru/companies/kaspersky/articles/744544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744544)
-- [[Перевод] Разбираемся с FSD — самой надёжной архитектурой для фронтенда](https://habr.com/ru/companies/piter/articles/744824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744824)
-- [Введение в Java Process Memory Model](https://habr.com/ru/articles/744834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744834)
-- [Как рассказывать про кейсы агентства, чтобы читатель не умер со скуки](https://habr.com/ru/articles/744626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
