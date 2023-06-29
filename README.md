@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать доступный UI, несмотря на хорошее ТЗ](https://habr.com/ru/companies/croc/articles/744266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744266)
+- [Ethereum Contract ABI Specification. Взаимодействие с контрактом](https://habr.com/ru/articles/743878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743878)
+- [JTBD-метод на практике для решения тестового задания](https://habr.com/ru/companies/beeline_tech/articles/744798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744798)
+- [Обзор библиотек для скриншот-тестирования Android проектов. Часть 1](https://habr.com/ru/articles/744796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744796)
 - [Автоматизированная работа с DevTools в Selenium 4](https://habr.com/ru/companies/simbirsoft/articles/744744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744744)
-- [Legacy на фронте и моя победа над ним](https://habr.com/ru/articles/744770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744770)
-- [[recovery mode] Что такое пир-ревью и зачем оно нужно вашей команде](https://habr.com/ru/companies/yandex_praktikum/articles/744578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744578)
-- [Собеседования для бэкендеров: как готовиться, тренироваться и не облажаться](https://habr.com/ru/companies/getmatch/articles/744760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744760)
-- [Неудачное внедрение Redis Cluster в монолит на PHP 7.2.X](https://habr.com/ru/articles/743784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
