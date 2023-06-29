@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Legacy на фронте и моя победа над ним](https://habr.com/ru/articles/744770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744770)
+- [[recovery mode] Что такое пир-ревью и зачем оно нужно вашей команде](https://habr.com/ru/companies/yandex_praktikum/articles/744578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744578)
+- [Собеседования для бэкендеров: как готовиться, тренироваться и не облажаться](https://habr.com/ru/companies/getmatch/articles/744760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744760)
 - [Неудачное внедрение Redis Cluster в монолит на PHP 7.2.X](https://habr.com/ru/articles/743784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743784)
 - [Вычислительная сложность некоторых игр и головоломок &lpar;часть 2&rpar;](https://habr.com/ru/companies/first/articles/744664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744664)
-- [Дневник фронтенд-разработчика](https://habr.com/ru/companies/tinkoff/articles/744472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744472)
-- [Тотальный запрет: опыт внедрения Default Deny на живом кластере](https://habr.com/ru/companies/vk/articles/743512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743512)
-- [Эффективность на стероидах: как Low-Code и No-Code трансформируют бизнес-процессы и разработку ПО](https://habr.com/ru/companies/comindware/articles/744692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
