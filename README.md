@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Введение в потоковую передачу данных в Вебе](https://habr.com/ru/articles/744656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744656)
-- [iOS: Узнать и отслеживать состояние физического переключателя тихого режима](https://habr.com/ru/articles/744652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744652)
-- [[Перевод] Как процессоры x86 декодировали инструкции в RISC-форму: история легенды](https://habr.com/ru/articles/744624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744624)
-- [Книги для начинающих разработчиков: от «Чистой архитектуры» до «Паттернов проектирования»](https://habr.com/ru/companies/ru_mts/articles/744602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744602)
-- [[recovery mode] Собеседование на Java разработчика. Разбор 1606 вопросов и ответов. Часть 2 &lpar;с 170 по 269 вопрос&rpar;](https://habr.com/ru/articles/744594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744594)
+- [Неудачное внедрение Redis Cluster в монолит на PHP 7.2.X](https://habr.com/ru/articles/743784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743784)
+- [Вычислительная сложность некоторых игр и головоломок &lpar;часть 2&rpar;](https://habr.com/ru/companies/first/articles/744664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744664)
+- [Дневник фронтенд-разработчика](https://habr.com/ru/companies/tinkoff/articles/744472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744472)
+- [Тотальный запрет: опыт внедрения Default Deny на живом кластере](https://habr.com/ru/companies/vk/articles/743512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743512)
+- [Эффективность на стероидах: как Low-Code и No-Code трансформируют бизнес-процессы и разработку ПО](https://habr.com/ru/companies/comindware/articles/744692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
