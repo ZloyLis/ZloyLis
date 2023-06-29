@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS: Узнать и отслеживать состояние физического переключателя тихого режима](https://habr.com/ru/articles/744652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744652)
 - [[Перевод] Как процессоры x86 декодировали инструкции в RISC-форму: история легенды](https://habr.com/ru/articles/744624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744624)
 - [Книги для начинающих разработчиков: от «Чистой архитектуры» до «Паттернов проектирования»](https://habr.com/ru/companies/ru_mts/articles/744602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744602)
 - [[recovery mode] Собеседование на Java разработчика. Разбор 1606 вопросов и ответов. Часть 2 &lpar;с 170 по 269 вопрос&rpar;](https://habr.com/ru/articles/744594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744594)
 - [Использование Inversion of Control и Dependency Injection в MVC-приложениях](https://habr.com/ru/companies/otus/articles/744566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744566)
-- [Обновления технологий и сервисов в 2023 году: что уже вышло за полгода и чего еще ждать?](https://habr.com/ru/companies/skillbox/articles/744546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
