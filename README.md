@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SMM обучение — 10 школ и 22 курса. Голосуем за лучшие](https://habr.com/ru/articles/744950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744950)
-- [[Перевод] Ошибки, которые следует избегать основателям-одиночкам](https://habr.com/ru/companies/productivity_inside/articles/745036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745036)
-- [Как мы превратили Airflow 2.х в SaaS-решение](https://habr.com/ru/companies/tele2/articles/744992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744992)
-- [Микроменеджер — горе в команде](https://habr.com/ru/companies/oleg-bunin/articles/744104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744104)
-- [Zod: Типизация и валидация Вашего .env &lpar;Vite + React и не только&rpar;](https://habr.com/ru/articles/743798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743798)
+- [[Перевод] Отображение контента за пределами ScrollView](https://habr.com/ru/articles/745112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745112)
+- [Обзор Top-3 Open Source игр на C# и ошибок в их коде](https://habr.com/ru/companies/pvs-studio/articles/745108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745108)
+- [[Перевод] Привязка ScrollView к страницам и дочерним представлениям](https://habr.com/ru/articles/745102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745102)
+- [[Перевод] 20 навыков программиста, которые можно выучить за 72 часа](https://habr.com/ru/companies/sibur_official/articles/745096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745096)
+- [Записки упоротого джуна](https://habr.com/ru/articles/744936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
