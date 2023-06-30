@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правильные тестовые данные или почему Вася Пупкин лучший друг тестировщиков?](https://habr.com/ru/articles/745220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745220)
 - [React Context: создание глобального стора, используя useContext и useState](https://habr.com/ru/articles/745162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745162)
 - [Автотесты: кому они крайне необходимы, а кто может без них обойтись?](https://habr.com/ru/companies/ru_mts/articles/745080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745080)
 - [Погружаемся в тему защиты контейнеризации, или как обучить тому, чему нигде не учат](https://habr.com/ru/companies/solarsecurity/articles/744996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744996)
 - [Сравнение тяжеловесности популярных библиотек UI компонент для Vue 3](https://habr.com/ru/articles/745012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745012)
-- [[Перевод] Эффективная работа с битами при помощи Go](https://habr.com/ru/companies/ruvds/articles/744230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
