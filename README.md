@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проверяем силу магнетизма](https://habr.com/ru/articles/744942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744942)
 - [Акселерометр = полу навигатор](https://habr.com/ru/articles/744340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744340)
 - [UX Rocket — отечественная платформа для аналитики и экспериментов. Попробовала, делюсь мнением](https://habr.com/ru/articles/744898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744898)
 - [Три месяца ошибок, или как я создала чек-лист для проверки ТЗ](https://habr.com/ru/companies/X5Tech/articles/744888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744888)
 - [Почему гибридная архитектура – это будущее?](https://habr.com/ru/companies/inferit/articles/744876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744876)
-- [Безопасная разработка и уязвимости кода. Часть1. Уязвимость](https://habr.com/ru/companies/otus/articles/744556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
