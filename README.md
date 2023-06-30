@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Отображение контента за пределами ScrollView](https://habr.com/ru/articles/745112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745112)
-- [Обзор Top-3 Open Source игр на C# и ошибок в их коде](https://habr.com/ru/companies/pvs-studio/articles/745108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745108)
-- [[Перевод] Привязка ScrollView к страницам и дочерним представлениям](https://habr.com/ru/articles/745102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745102)
-- [[Перевод] 20 навыков программиста, которые можно выучить за 72 часа](https://habr.com/ru/companies/sibur_official/articles/745096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745096)
-- [Записки упоротого джуна](https://habr.com/ru/articles/744936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744936)
+- [Сравнение тяжеловесности популярных библиотек UI компонент для Vue 3](https://habr.com/ru/articles/745012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745012)
+- [[Перевод] Эффективная работа с битами при помощи Go](https://habr.com/ru/companies/ruvds/articles/744230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744230)
+- [Чек-лист фронтендера при разработке рекламного спецпроекта](https://habr.com/ru/companies/kts/articles/744976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744976)
+- [[Перевод] Установка отступов для содержимого или индикаторов прокрутки в ScrollView](https://habr.com/ru/articles/745130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745130)
+- [[Перевод] Отображение контента в ScrollView с конца](https://habr.com/ru/articles/745118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
