@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микроменеджер — горе в команде](https://habr.com/ru/companies/oleg-bunin/articles/744104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744104)
+- [Zod: Типизация и валидация Вашего .env &lpar;Vite + React и не только&rpar;](https://habr.com/ru/articles/743798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743798)
 - [Приручаем Liquibase. Как скормить базе данных список из 10К офисов, чтобы потом не писать костыли?](https://habr.com/ru/companies/simbirsoft/articles/744964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744964)
 - [[Перевод] Анонсируем Dart 3](https://habr.com/ru/articles/745000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745000)
 - [Гайд по UX для телеграм-бота](https://habr.com/ru/companies/dododev/articles/744670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744670)
-- [60 антипаттернов для С++ программиста, часть 12 &lpar;совет 56 — 60&rpar;](https://habr.com/ru/companies/pvs-studio/articles/744970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744970)
-- [Как делать резервные копии сайтов и серверов?](https://habr.com/ru/articles/744948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
