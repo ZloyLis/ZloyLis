@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SMM обучение — 10 школ и 22 курса. Голосуем за лучшие](https://habr.com/ru/articles/744950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744950)
 - [[Перевод] Ошибки, которые следует избегать основателям-одиночкам](https://habr.com/ru/companies/productivity_inside/articles/745036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745036)
+- [Как мы превратили Airflow 2.х в SaaS-решение](https://habr.com/ru/companies/tele2/articles/744992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744992)
 - [Микроменеджер — горе в команде](https://habr.com/ru/companies/oleg-bunin/articles/744104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744104)
 - [Zod: Типизация и валидация Вашего .env &lpar;Vite + React и не только&rpar;](https://habr.com/ru/articles/743798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743798)
-- [Приручаем Liquibase. Как скормить базе данных список из 10К офисов, чтобы потом не писать костыли?](https://habr.com/ru/companies/simbirsoft/articles/744964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744964)
-- [[Перевод] Анонсируем Dart 3](https://habr.com/ru/articles/745000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
