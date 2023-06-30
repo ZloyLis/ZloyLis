@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React Context: создание глобального стора, используя useContext и useState](https://habr.com/ru/articles/745162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745162)
+- [Автотесты: кому они крайне необходимы, а кто может без них обойтись?](https://habr.com/ru/companies/ru_mts/articles/745080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745080)
+- [Погружаемся в тему защиты контейнеризации, или как обучить тому, чему нигде не учат](https://habr.com/ru/companies/solarsecurity/articles/744996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744996)
 - [Сравнение тяжеловесности популярных библиотек UI компонент для Vue 3](https://habr.com/ru/articles/745012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745012)
 - [[Перевод] Эффективная работа с битами при помощи Go](https://habr.com/ru/companies/ruvds/articles/744230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744230)
-- [Чек-лист фронтендера при разработке рекламного спецпроекта](https://habr.com/ru/companies/kts/articles/744976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744976)
-- [[Перевод] Установка отступов для содержимого или индикаторов прокрутки в ScrollView](https://habr.com/ru/articles/745130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745130)
-- [[Перевод] Отображение контента в ScrollView с конца](https://habr.com/ru/articles/745118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
