@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приручаем Liquibase. Как скормить базе данных список из 10К офисов, чтобы потом не писать костыли?](https://habr.com/ru/companies/simbirsoft/articles/744964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744964)
+- [[Перевод] Анонсируем Dart 3](https://habr.com/ru/articles/745000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745000)
+- [Гайд по UX для телеграм-бота](https://habr.com/ru/companies/dododev/articles/744670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744670)
 - [60 антипаттернов для С++ программиста, часть 12 &lpar;совет 56 — 60&rpar;](https://habr.com/ru/companies/pvs-studio/articles/744970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744970)
 - [Как делать резервные копии сайтов и серверов?](https://habr.com/ru/articles/744948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744948)
-- [Проверяем силу магнетизма](https://habr.com/ru/articles/744942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744942)
-- [Акселерометр = полу навигатор](https://habr.com/ru/articles/744340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744340)
-- [Три месяца ошибок, или как я создала чек-лист для проверки ТЗ](https://habr.com/ru/companies/X5Tech/articles/744888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
