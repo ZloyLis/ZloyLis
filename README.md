@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ближайшие бесплатные мероприятия по разработке &lpar;5 июля — 6 июля 2023&rpar;](https://habr.com/ru/articles/745266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745266)
 - [Анонимная сеть в 200 строк кода на Go](https://habr.com/ru/articles/745256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745256)
 - [[Перевод] Как погубить децентрализованную сеть &lpar;на примере Федиверса&rpar;](https://habr.com/ru/articles/745240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745240)
 - [Правильные тестовые данные или почему Вася Пупкин лучший друг тестировщиков?](https://habr.com/ru/articles/745220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745220)
 - [React Context: создание глобального стора, используя useContext и useState](https://habr.com/ru/articles/745162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745162)
-- [Автотесты: кому они крайне необходимы, а кто может без них обойтись?](https://habr.com/ru/companies/ru_mts/articles/745080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
