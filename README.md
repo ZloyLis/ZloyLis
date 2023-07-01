@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Волновой алгоритм](https://habr.com/ru/articles/745294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745294)
 - [Если BlackBerry не идет к пользователям, то пользователи идут к BlackBerry: проекты с запчастями и/или идеями «ежевички»](https://habr.com/ru/companies/selectel/articles/745288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745288)
 - [Статистика за июнь по QA вакансиям на HeadHunter](https://habr.com/ru/articles/745276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745276)
 - [Как сделать Telegram-бота для проверки аптайма своего сервиса на Python &lpar;ч.2 алертинг&rpar;](https://habr.com/ru/articles/745280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745280)
 - [Общество полной справедливости и неравенства](https://habr.com/ru/articles/745274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745274)
-- [Ближайшие бесплатные мероприятия по разработке &lpar;5 июля — 6 июля 2023&rpar;](https://habr.com/ru/articles/745266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
