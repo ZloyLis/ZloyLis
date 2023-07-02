@@ -34,7 +34,7 @@ ___
 - [Одна задачка на литкоде](https://habr.com/ru/articles/745340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745340)
 - [Прогулка по мостам Кёнигсберга с ORtools](https://habr.com/ru/articles/745300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745300)
 - [Parallel Stream — не панацея или используй с умом &lpar;tutorial для начинающих&rpar;](https://habr.com/ru/articles/745332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745332)
-- [Простая проверка на компетентность программиста](https://habr.com/ru/articles/745326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745326)
+- [Неравный бой — Tinkoff эквайринг. Рекуррентные платежи](https://habr.com/ru/articles/745316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
