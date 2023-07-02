@@ -33,8 +33,8 @@ ___
 - [[Перевод] Будущее NGINX: возвращаемся к нашим корням в открытых исходниках](https://habr.com/ru/articles/745394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745394)
 - [Ключи Passkeys — начало постпарольной эпохи? Не так быстро…](https://habr.com/ru/companies/globalsign/articles/745376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745376)
 - [ИТ-ландшафт как сложная система систем](https://habr.com/ru/articles/745348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745348)
-- [Одна задачка на литкоде](https://habr.com/ru/articles/745340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745340)
 - [Прогулка по мостам Кёнигсберга с ORtools](https://habr.com/ru/articles/745300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745300)
+- [Parallel Stream — не панацея или используй с умом &lpar;tutorial для начинающих&rpar;](https://habr.com/ru/articles/745332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
