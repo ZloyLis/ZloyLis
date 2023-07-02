@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неравный бой — Tinkoff эквайринг. Рекуррентные платежи](https://habr.com/ru/articles/745316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745316)
 - [GitHub: переименование множества файлов в репозитории](https://habr.com/ru/articles/745312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745312)
 - [Генерация и валидация чисел по алгоритму Луна](https://habr.com/ru/articles/745302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745302)
 - [Волновой алгоритм](https://habr.com/ru/articles/745294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745294)
 - [Если BlackBerry не идет к пользователям, то пользователи идут к BlackBerry: проекты с запчастями и/или идеями «ежевички»](https://habr.com/ru/companies/selectel/articles/745288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745288)
-- [Статистика за июнь по QA вакансиям на HeadHunter](https://habr.com/ru/articles/745276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
