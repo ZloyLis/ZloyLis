@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я покорил ИТМО и поступил в магистратуру по ИИ без экзаменов](https://habr.com/ru/companies/aitalenthub/articles/745516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745516)
+- [[Перевод] Новое слово в TypeScript 5.2](https://habr.com/ru/articles/745514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745514)
 - [[Перевод] Развлечения с хеш-коллизиями](https://habr.com/ru/companies/wunderfund/articles/745476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745476)
 - [Кодеки новой эпохи: HEVC, AV1, VVC и нейросети](https://habr.com/ru/companies/ruvds/articles/744436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744436)
 - [[Перевод] Пишем логи Python при помощи библиотеки Structlog](https://habr.com/ru/companies/mvideo/articles/744738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744738)
-- [Будущее программирования с помощью ИИ — первые примеры](https://habr.com/ru/companies/timeweb/articles/745442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745442)
-- [Оптимизация памяти и управление сборщиком мусора в Go: GOGC и GOMEMLIMIT](https://habr.com/ru/articles/742402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
