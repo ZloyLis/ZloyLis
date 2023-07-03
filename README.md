@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритмы компрессии данных: принципы и эффективность](https://habr.com/ru/companies/otus/articles/745628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745628)
+- [Объединение микрофронтов на Nx в один проект](https://habr.com/ru/articles/745614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745614)
+- [Security Week 2327: RowPress, новая атака на оперативную память](https://habr.com/ru/companies/kaspersky/articles/745590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745590)
 - [[Перевод] Как отследить pod-to-pod-трафик Kubernetes](https://habr.com/ru/companies/southbridge/articles/745530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745530)
-- [Против автомобильных пробок](https://habr.com/ru/articles/745610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745610)
 - [Как сделать робота с нуля. С чего начать](https://habr.com/ru/articles/745608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745608)
-- [Как стать магистром по ML за 2 года](https://habr.com/ru/companies/spbifmo/articles/745598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745598)
-- [Scala Digest. Выпуск 6](https://habr.com/ru/companies/tinkoff/articles/745214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
