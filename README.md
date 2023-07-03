@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Cargo Cult Driven Development: нам стоило понять это раньше](https://habr.com/ru/companies/ispsystem/articles/745678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745678)
+- [Определить и найти. Разработка алгоритма поиска изменений с Мap-ами и хешами](https://habr.com/ru/articles/745676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745676)
 - [Frog Parser — Парсинг Web страниц без сложностей](https://habr.com/ru/articles/745674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745674)
 - [Apple Pro Weekly News &lpar;26.06 – 02.07.23&rpar;](https://habr.com/ru/articles/745654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745654)
 - [Числа с плавающей точкой для гуманитариев. Что это такое и как они работают](https://habr.com/ru/articles/745640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745640)
-- [Алгоритмы компрессии данных: принципы и эффективность](https://habr.com/ru/companies/otus/articles/745628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745628)
-- [Объединение микрофронтов на Nx в один проект](https://habr.com/ru/articles/745614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
