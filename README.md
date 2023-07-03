@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пишем логи Python при помощи библиотеки Structlog](https://habr.com/ru/companies/mvideo/articles/744738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744738)
+- [Будущее программирования с помощью ИИ — первые примеры](https://habr.com/ru/companies/timeweb/articles/745442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745442)
+- [Оптимизация памяти и управление сборщиком мусора в Go: GOGC и GOMEMLIMIT](https://habr.com/ru/articles/742402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742402)
+- [[HTTP API &amp;amp; REST] Работа с ошибками в HTTP API](https://habr.com/ru/articles/745446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745446)
 - [Настраиваем CI/CD для тестовой инфраструктуры Android](https://habr.com/ru/companies/gazprommedia/articles/739838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739838)
-- [Колесо сансары в поиске решения бага «белый экран» в SPA приложении на React](https://habr.com/ru/articles/745416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745416)
-- [Java-дайджест: начало июля](https://habr.com/ru/companies/bar/articles/745410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745410)
-- [Мобильная разработка за неделю #495 &lpar;26 июня — 2 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/745408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745408)
-- [Fastapi 0.100.0-beta1: ещё быстрее](https://habr.com/ru/articles/745402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
