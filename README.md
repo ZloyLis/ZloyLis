@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настраиваем CI/CD для тестовой инфраструктуры Android](https://habr.com/ru/companies/gazprommedia/articles/739838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739838)
+- [Колесо сансары в поиске решения бага «белый экран» в SPA приложении на React](https://habr.com/ru/articles/745416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745416)
 - [Java-дайджест: начало июля](https://habr.com/ru/companies/bar/articles/745410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745410)
 - [Мобильная разработка за неделю #495 &lpar;26 июня — 2 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/745408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745408)
 - [Fastapi 0.100.0-beta1: ещё быстрее](https://habr.com/ru/articles/745402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745402)
-- [[Перевод] Будущее NGINX: возвращаемся к нашим корням в открытых исходниках](https://habr.com/ru/articles/745394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745394)
-- [Ключи Passkeys — начало постпарольной эпохи? Не так быстро…](https://habr.com/ru/companies/globalsign/articles/745376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
