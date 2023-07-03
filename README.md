@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать магистром по ML за 2 года](https://habr.com/ru/companies/spbifmo/articles/745598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745598)
+- [Scala Digest. Выпуск 6](https://habr.com/ru/companies/tinkoff/articles/745214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745214)
 - [Типовые паттерны ошибок при вводе числовых данных](https://habr.com/ru/articles/745592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745592)
 - [Какие баги мы заложили в мобильный банк на PHDays 12: разбор конкурса $NATCH](https://habr.com/ru/companies/pt/articles/745140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745140)
 - [КЛЕТКА II, теории возникновения жизни](https://habr.com/ru/articles/744256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744256)
-- [«Магия вне Хогвартса», или как разделить аудиосигнал на источники, обогнав существующие решения](https://habr.com/ru/companies/vk/articles/745016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745016)
-- [Как я покорил ИТМО и поступил в магистратуру по ИИ без экзаменов](https://habr.com/ru/companies/aitalenthub/articles/745516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
