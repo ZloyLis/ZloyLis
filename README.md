@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие баги мы заложили в мобильный банк на PHDays 12: разбор конкурса $NATCH](https://habr.com/ru/companies/pt/articles/745140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745140)
+- [КЛЕТКА II, теории возникновения жизни](https://habr.com/ru/articles/744256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744256)
+- [«Магия вне Хогвартса», или как разделить аудиосигнал на источники, обогнав существующие решения](https://habr.com/ru/companies/vk/articles/745016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745016)
 - [Как я покорил ИТМО и поступил в магистратуру по ИИ без экзаменов](https://habr.com/ru/companies/aitalenthub/articles/745516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745516)
 - [[Перевод] Новое слово в TypeScript 5.2](https://habr.com/ru/articles/745514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745514)
-- [[Перевод] Развлечения с хеш-коллизиями](https://habr.com/ru/companies/wunderfund/articles/745476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745476)
-- [Кодеки новой эпохи: HEVC, AV1, VVC и нейросети](https://habr.com/ru/companies/ruvds/articles/744436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744436)
-- [[Перевод] Пишем логи Python при помощи библиотеки Structlog](https://habr.com/ru/companies/mvideo/articles/744738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
