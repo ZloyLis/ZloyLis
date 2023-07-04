@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Строим мосты: подключение зависимостей с Cocoapods в Kotlin Multiplatform Mobile](https://habr.com/ru/companies/joydev/articles/745754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745754)
-- [[Перевод] Метод setState&lpar;&rpar; во Flutter может работать не так, как вы это представляете](https://habr.com/ru/articles/745726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745726)
-- [Nothing phone &lpar;2&rpar;: «убийца Apple»?](https://habr.com/ru/companies/mvideo/articles/745604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745604)
-- [757‑П или Как ввести в ступор небольшие НФО](https://habr.com/ru/companies/icl_services/articles/745734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745734)
-- [KubeVirt: внутреннее устройство и сеть. Как достигнуть совершенства? &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/745034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745034)
+- [Роль архитектуры в ПО](https://habr.com/ru/companies/oleg-bunin/articles/735040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735040)
+- [Как я переписал свой проект на Svelte](https://habr.com/ru/articles/745780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745780)
+- [Самодельная отладочная плата на базе STM32G431CB — STM32G431 DevBoard V1.1](https://habr.com/ru/articles/742964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742964)
+- [[Перевод] Project Loom и Spring Boot: тесты производительности](https://habr.com/ru/articles/745748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745748)
+- [Нейронные сети не могут обобщать периодические зависимости. Как это исправить?](https://habr.com/ru/articles/745768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
