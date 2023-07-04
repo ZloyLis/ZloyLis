@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ThreadPool.Workers](https://habr.com/ru/companies/skbkontur/articles/745444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745444)
 - [Паттерн спецификация в .NET](https://habr.com/ru/articles/745684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745684)
 - [Есть 14 языков для хранения данных… Или как появился IEML](https://habr.com/ru/articles/745682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745682)
 - [[Перевод] Cargo Cult Driven Development: нам стоило понять это раньше](https://habr.com/ru/companies/ispsystem/articles/745678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745678)
 - [Определить и найти. Разработка алгоритма поиска изменений с Мap-ами и хешами](https://habr.com/ru/articles/745676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745676)
-- [Frog Parser — Парсинг Web страниц без сложностей](https://habr.com/ru/articles/745674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
