@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KubeVirt: внутреннее устройство и сеть. Как достигнуть совершенства? &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/745034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745034)
+- [[Перевод] Введение в View Transitions API](https://habr.com/ru/articles/745708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745708)
 - [Как сделать Telegram-бота для проверки аптайма своего сервиса на Python &lpar;ч.3 получение графиков через телеграм&rpar;](https://habr.com/ru/articles/745296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745296)
 - [ThreadPool.Workers](https://habr.com/ru/companies/skbkontur/articles/745444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745444)
 - [Паттерн спецификация в .NET](https://habr.com/ru/articles/745684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745684)
-- [Есть 14 языков для хранения данных… Или как появился IEML](https://habr.com/ru/articles/745682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745682)
-- [[Перевод] Cargo Cult Driven Development: нам стоило понять это раньше](https://habr.com/ru/companies/ispsystem/articles/745678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
