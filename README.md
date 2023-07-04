@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Строим мосты: подключение зависимостей с Cocoapods в Kotlin Multiplatform Mobile](https://habr.com/ru/companies/joydev/articles/745754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745754)
+- [[Перевод] Метод setState&lpar;&rpar; во Flutter может работать не так, как вы это представляете](https://habr.com/ru/articles/745726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745726)
+- [Nothing phone &lpar;2&rpar;: «убийца Apple»?](https://habr.com/ru/companies/mvideo/articles/745604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745604)
+- [757‑П или Как ввести в ступор небольшие НФО](https://habr.com/ru/companies/icl_services/articles/745734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745734)
 - [KubeVirt: внутреннее устройство и сеть. Как достигнуть совершенства? &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/flant/articles/745034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745034)
-- [[Перевод] Введение в View Transitions API](https://habr.com/ru/articles/745708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745708)
-- [Как сделать Telegram-бота для проверки аптайма своего сервиса на Python &lpar;ч.3 получение графиков через телеграм&rpar;](https://habr.com/ru/articles/745296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745296)
-- [ThreadPool.Workers](https://habr.com/ru/companies/skbkontur/articles/745444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745444)
-- [Паттерн спецификация в .NET](https://habr.com/ru/articles/745684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
