@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [El Ajedrecista — шахматный компьютер 1914 года](https://habr.com/ru/companies/cloud4y/articles/745850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745850)
 - [Как эффективно управлять парком серверов? Оптимизируем работу с помощью API](https://habr.com/ru/companies/selectel/articles/745828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745828)
 - [Оптимизация Apollo-client](https://habr.com/ru/articles/745848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745848)
 - [LLM API для Java](https://habr.com/ru/companies/bar/articles/745842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745842)
 - [8 полезных библиотек React, которые упрощают жизнь разработчику](https://habr.com/ru/companies/ru_mts/articles/745840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745840)
-- [Так ли очевидна основная теорема арифметики? И всегда ли она верна?.](https://habr.com/ru/articles/745810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
