@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как эффективно управлять парком серверов? Оптимизируем работу с помощью API](https://habr.com/ru/companies/selectel/articles/745828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745828)
+- [Оптимизация Apollo-client](https://habr.com/ru/articles/745848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745848)
+- [LLM API для Java](https://habr.com/ru/companies/bar/articles/745842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745842)
+- [8 полезных библиотек React, которые упрощают жизнь разработчику](https://habr.com/ru/companies/ru_mts/articles/745840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745840)
 - [Так ли очевидна основная теорема арифметики? И всегда ли она верна?.](https://habr.com/ru/articles/745810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745810)
-- [Роль архитектуры в ПО](https://habr.com/ru/companies/oleg-bunin/articles/735040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735040)
-- [Как я переписал свой проект на Svelte](https://habr.com/ru/articles/745780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745780)
-- [Самодельная отладочная плата на базе STM32G431CB — STM32G431 DevBoard V1.1](https://habr.com/ru/articles/742964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742964)
-- [Изучаем подозрительные места в коде AWS SDK для .NET](https://habr.com/ru/companies/pvs-studio/articles/745770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
