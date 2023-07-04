@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы с помощью Kubeflow Pipelines оптимизировали обучение ML-моделей](https://habr.com/ru/companies/vk/articles/745874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745874)
 - [Разработка фронтенда ИТ-продукта: какой подход выбрать исходя из задач бизнеса](https://habr.com/ru/articles/745892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745892)
 - [Как мы посчитали уровень Data Driven’ности в компании и вклад в него каждого аналитика?](https://habr.com/ru/companies/sbermarket/articles/745868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745868)
 - [Как эффективно управлять парком серверов? Оптимизируем работу с помощью API](https://habr.com/ru/companies/selectel/articles/745828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745828)
 - [Оптимизация Apollo-client](https://habr.com/ru/articles/745848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745848)
-- [LLM API для Java](https://habr.com/ru/companies/bar/articles/745842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
