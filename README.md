@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бинарное дерево поиска в Swift](https://habr.com/ru/articles/746068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746068)
+- [.xcstrings в Xcode 15](https://habr.com/ru/companies/cleverpumpkin/articles/746050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746050)
+- [Преобразование Хафа](https://habr.com/ru/companies/otus/articles/745946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745946)
 - [Design first. Как мы проектируем функциональность](https://habr.com/ru/companies/sberbank/articles/745744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745744)
 - [[Перевод] Различия между test-driven- и observability-driven-разработкой](https://habr.com/ru/companies/vk/articles/744058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744058)
-- [Делаем волшебство в России: история о создании APM для «ВкусВилл»](https://habr.com/ru/companies/automacon/articles/746036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746036)
-- [Интеграция паттерна Design API First в конвейер разработки ПО: наш опыт](https://habr.com/ru/companies/simbirsoft/articles/746020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746020)
-- [Встроенные фикстуры Pytest](https://habr.com/ru/companies/tinkoff/articles/745994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
