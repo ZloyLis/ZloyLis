@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наблюдаемость сетевой инфраструктуры Kubernetes. Часть первая](https://habr.com/ru/articles/746080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746080)
+- [Беда “войти в айти” или курсы тестировщика отзывы — Как я объявил борьбу IT-инфоцыганам](https://habr.com/ru/articles/746052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746052)
 - [Бинарное дерево поиска в Swift](https://habr.com/ru/articles/746068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746068)
 - [.xcstrings в Xcode 15](https://habr.com/ru/companies/cleverpumpkin/articles/746050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746050)
 - [Преобразование Хафа](https://habr.com/ru/companies/otus/articles/745946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745946)
-- [Design first. Как мы проектируем функциональность](https://habr.com/ru/companies/sberbank/articles/745744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745744)
-- [[Перевод] Различия между test-driven- и observability-driven-разработкой](https://habr.com/ru/companies/vk/articles/744058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
