@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нативный способ шифрования данных в Helm](https://habr.com/ru/companies/innotech/articles/746132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746132)
 - [Первый проект длиною в полтора года…](https://habr.com/ru/articles/746118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746118)
 - [Папин системный, мамин бизнес-аналитик](https://habr.com/ru/articles/746112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746112)
+- [Отчёт о KuberConf’ 2023](https://habr.com/ru/articles/746106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746106)
 - [Неправильно ты, дядя Фёдор, браузерными расширениями пользуешься](https://habr.com/ru/companies/jugru/articles/745746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745746)
-- [[Перевод] Мониторинг — это боль](https://habr.com/ru/companies/ruvds/articles/746086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746086)
-- [Наблюдаемость сетевой инфраструктуры Kubernetes. Часть первая](https://habr.com/ru/articles/746080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
