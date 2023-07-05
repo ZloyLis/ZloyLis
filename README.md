@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция паттерна Design API First в конвейер разработки ПО: наш опыт](https://habr.com/ru/companies/simbirsoft/articles/746020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746020)
 - [Встроенные фикстуры Pytest](https://habr.com/ru/companies/tinkoff/articles/745994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745994)
 - [[Перевод] Архитектура кеша DragonflyDB](https://habr.com/ru/articles/745406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745406)
 - [Как создавать Kubernetes секреты из Vault, используя external-secrets-operator](https://habr.com/ru/companies/magnit/articles/745814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745814)
 - [Тайны виртуальных конвертов: чтение и парсинг .pst файлов](https://habr.com/ru/articles/745824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745824)
-- [DGA-вредонос, лазейки в Kerberos и SMB-команды, о которых вы не слышали. Рассказ о том, как мы конкурс IDS Bypass решали](https://habr.com/ru/companies/pt/articles/745550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
