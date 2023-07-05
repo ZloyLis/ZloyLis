@@ -30,11 +30,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прожарка вакансии системного аналитика #1](https://habr.com/ru/articles/745970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745970)
 - [Введение в многопоточность в Java очень простым языком: Процессы, Потоки и Основы синхронизации](https://habr.com/ru/articles/745910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745910)
 - [Как мы с помощью Kubeflow Pipelines оптимизировали обучение ML-моделей](https://habr.com/ru/companies/vk/articles/745874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745874)
 - [Разработка фронтенда ИТ-продукта: какой подход выбрать исходя из задач бизнеса](https://habr.com/ru/articles/745892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745892)
 - [Как мы посчитали уровень Data Driven’ности в компании и вклад в него каждого аналитика?](https://habr.com/ru/companies/sbermarket/articles/745868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745868)
-- [Как эффективно управлять парком серверов? Оптимизируем работу с помощью API](https://habr.com/ru/companies/selectel/articles/745828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
