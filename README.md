@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [User Story Map &lpar;USM&rpar; как механизм управления объемом и рисками проекта](https://habr.com/ru/articles/746398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746398)
+- [Data science курсы. Топ 7, которые работают в 2023](https://habr.com/ru/articles/746196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746196)
 - [Поиск  программного решения — первое интервью с потенциальным клиентом по продукту](https://habr.com/ru/articles/746382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746382)
 - [Книга «Микросервисы. От архитектуры до релиза»](https://habr.com/ru/companies/piter/articles/746376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746376)
 - [Как расти, когда ты уже вырос: развитие и обучение до мидла и выше](https://habr.com/ru/companies/getmatch/articles/746374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746374)
-- [Простыми словами об InlineKeyboard в Телеграмм ботах на java](https://habr.com/ru/articles/746370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746370)
-- [Квантовые вычисления и их математические основы](https://habr.com/ru/companies/otus/articles/746300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
