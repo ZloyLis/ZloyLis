@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простыми словами об InlineKeyboard в Телеграмм ботах на java](https://habr.com/ru/articles/746370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746370)
+- [Квантовые вычисления и их математические основы](https://habr.com/ru/companies/otus/articles/746300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746300)
+- [Ural Digital Weekend 2023 — программа и спикеры конференции](https://habr.com/ru/companies/spectr/articles/746350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746350)
 - [Начало работы с Webpod: упрощенное решение для деплоя вашего веб-сайта](https://habr.com/ru/articles/746340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746340)
 - [SonarQube: делаем код лучше](https://habr.com/ru/companies/sportmaster_lab/articles/746320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746320)
-- [DevOps-трансформация: как раздать инженеров по командам и не погибнуть](https://habr.com/ru/companies/oleg-bunin/articles/745978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745978)
-- [[Перевод] Angular получил новый синтаксис шаблонов](https://habr.com/ru/articles/746322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746322)
-- [Скажи что-нибудь на разрабском, Figma](https://habr.com/ru/companies/ozontech/articles/746124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
