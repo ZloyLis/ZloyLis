@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Angular получил новый синтаксис шаблонов](https://habr.com/ru/articles/746322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746322)
+- [Скажи что-нибудь на разрабском, Figma](https://habr.com/ru/companies/ozontech/articles/746124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746124)
 - [Как в разы сократить время поиска респондентов для исследований и получать 35-40 заявок в месяц от кандидатов?](https://habr.com/ru/companies/selectel/articles/746130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746130)
 - [Новые фичи в IDEA 2023.2 EAP 7](https://habr.com/ru/companies/bar/articles/746264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746264)
 - [Пишем хорошие компоненты, которые захочется переиспользовать, а плохие — не пишем](https://habr.com/ru/companies/avito/articles/739330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739330)
-- [Собственные исключения в Java: как управлять ошибками в вашем приложении](https://habr.com/ru/articles/746218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746218)
-- [Разбор тестового задания на позицию Android Developer](https://habr.com/ru/articles/746146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
