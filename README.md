@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск  программного решения — первое интервью с потенциальным клиентом по продукту](https://habr.com/ru/articles/746382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746382)
+- [Книга «Микросервисы. От архитектуры до релиза»](https://habr.com/ru/companies/piter/articles/746376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746376)
+- [Как расти, когда ты уже вырос: развитие и обучение до мидла и выше](https://habr.com/ru/companies/getmatch/articles/746374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746374)
 - [Простыми словами об InlineKeyboard в Телеграмм ботах на java](https://habr.com/ru/articles/746370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746370)
 - [Квантовые вычисления и их математические основы](https://habr.com/ru/companies/otus/articles/746300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746300)
-- [Ural Digital Weekend 2023 — программа и спикеры конференции](https://habr.com/ru/companies/spectr/articles/746350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746350)
-- [Начало работы с Webpod: упрощенное решение для деплоя вашего веб-сайта](https://habr.com/ru/articles/746340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746340)
-- [SonarQube: делаем код лучше](https://habr.com/ru/companies/sportmaster_lab/articles/746320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
