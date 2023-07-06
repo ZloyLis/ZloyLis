@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собственные исключения в Java: Как управлять ошибками в вашем приложении](https://habr.com/ru/articles/746218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746218)
 - [Разбор тестового задания на позицию Android Developer](https://habr.com/ru/articles/746146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746146)
 - [Нативный способ шифрования данных в Helm](https://habr.com/ru/companies/innotech/articles/746132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746132)
 - [Первый проект длиною в полтора года…](https://habr.com/ru/articles/746118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746118)
 - [Папин системный, мамин бизнес-аналитик](https://habr.com/ru/articles/746112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746112)
-- [Отчёт о KuberConf’ 2023](https://habr.com/ru/articles/746106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
