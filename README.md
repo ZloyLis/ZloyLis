@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Осенние конференции JUG Ru Group: Москва, Питер, онлайн](https://habr.com/ru/companies/jugru/articles/746654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746654)
 - [Диджитал-директор LADA комментирует сайт агентства разработчиков софта KOTELOV &lpar;видео&rpar;](https://habr.com/ru/companies/ratingruneta/articles/746650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746650)
 - [[Перевод] Время «рок-звёзд»: когда разработка ПО основывалась на талантах и креативности](https://habr.com/ru/companies/ruvds/articles/746198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746198)
 - [Как проверить доступность сервиса](https://habr.com/ru/companies/rtlabs/articles/746394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746394)
 - [[Перевод] Балансировка нагрузки: простыми словами о всей мощи двух случайных вариантов](https://habr.com/ru/companies/piter/articles/746620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746620)
-- [Тестирование Spring Boot через MockMVC](https://habr.com/ru/companies/otus/articles/746414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
