@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Время «рок-звёзд»: когда разработка ПО основывалась на талантах и креативности](https://habr.com/ru/companies/ruvds/articles/746198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746198)
+- [Как проверить доступность сервиса](https://habr.com/ru/companies/rtlabs/articles/746394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746394)
+- [[Перевод] Балансировка нагрузки: простыми словами о всей мощи двух случайных вариантов](https://habr.com/ru/companies/piter/articles/746620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746620)
 - [Тестирование Spring Boot через MockMVC](https://habr.com/ru/companies/otus/articles/746414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746414)
 - [Дизайнер — поглотитель неопределенности. Как искать компромиссы в продукте и договариваться с коллегами из разных команд](https://habr.com/ru/companies/sbermarket/articles/746280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746280)
-- [Автоматически ищем техдолг с помощью RefactorFirst](https://habr.com/ru/companies/bar/articles/746574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746574)
-- [Новый стандарт для онлайн-платежей: SPC](https://habr.com/ru/companies/globalsign/articles/746560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746560)
-- [[Перевод] Фигуры Matplotlib и стиль Cyberpunk: несколько строк кода — и готова красивая фигура](https://habr.com/ru/companies/vk/articles/746062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
