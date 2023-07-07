@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [W-функция Ламберта, ее приближения, и как она помогает строить доверительные интервалы](https://habr.com/ru/articles/745880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745880)
+- [«Я всегда считала, что я старая», или история о том, что стать профессиональным разработчиком никогда не поздно](https://habr.com/ru/companies/surfstudio/articles/746474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746474)
+- [[recovery mode] Framer Motion: библиотека анимирования компонентов](https://habr.com/ru/articles/746142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746142)
+- [Тестируем нестандартный алгоритм обработки реальных данных в Excel на Visual Basic for Application](https://habr.com/ru/articles/739934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739934)
 - [UI. Интерфейс не должен отвлекать](https://habr.com/ru/articles/746462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746462)
-- [Java Digest #2](https://habr.com/ru/companies/tinkoff/articles/746310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746310)
-- [6 перспективных российских стартапов. Выпуск №4 за 2023 год](https://habr.com/ru/articles/736724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736724)
-- [Новый перспективный веб-фреймворк Cample.js. Реактивность без VDOM](https://habr.com/ru/articles/746420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746420)
-- [Как я не спал 2 дня и выиграл 1 миллион рублей?](https://habr.com/ru/articles/746416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
