@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удивительные клеточные автоматы: клетки-киллеры, BSFK[L]](https://habr.com/ru/companies/timeweb/articles/745088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745088)
+- [Профилирование boot sequence операционной системы «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/746366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746366)
+- [Как мы упростили жизнь высоконагруженным сервисам с Platform V SessionsData. Часть 3](https://habr.com/ru/companies/sberbank/articles/745932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745932)
 - [W-функция Ламберта, ее приближения, и как она помогает строить доверительные интервалы](https://habr.com/ru/articles/745880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745880)
 - [«Я всегда считала, что я старая», или история о том, что стать профессиональным разработчиком никогда не поздно](https://habr.com/ru/companies/surfstudio/articles/746474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746474)
-- [[recovery mode] Framer Motion: библиотека анимирования компонентов](https://habr.com/ru/articles/746142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746142)
-- [Тестируем нестандартный алгоритм обработки реальных данных в Excel на Visual Basic for Application](https://habr.com/ru/articles/739934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739934)
-- [UI. Интерфейс не должен отвлекать](https://habr.com/ru/articles/746462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
