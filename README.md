@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайнер — поглотитель неопределенности. Как искать компромиссы в продукте и договариваться с коллегами из разных команд](https://habr.com/ru/companies/sbermarket/articles/746280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746280)
+- [Автоматически ищем техдолг с помощью RefactorFirst](https://habr.com/ru/companies/bar/articles/746574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746574)
 - [Новый стандарт для онлайн-платежей: SPC](https://habr.com/ru/companies/globalsign/articles/746560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746560)
 - [[Перевод] Фигуры Matplotlib и стиль Cyberpunk: несколько строк кода — и готова красивая фигура](https://habr.com/ru/companies/vk/articles/746062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746062)
-- [Как Git LFS влияет на опыт ведения документации рядом с кодом](https://habr.com/ru/companies/alfa/articles/745776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745776)
-- [Разбор «гениальных» высказываний ChatGPT бота, или очередной ответ на вопрос «заменят ли нас роботы»](https://habr.com/ru/articles/746524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746524)
-- [Актуальные курсы графического дизайна в 2023 году](https://habr.com/ru/articles/746522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746522)
+- [[recovery mode] Поставил таймер и посчитал, за сколько часов можно стать Middle Python-разработчиком](https://habr.com/ru/companies/yandex_praktikum/articles/746530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
