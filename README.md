@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UI. Интерфейс не должен отвлекать](https://habr.com/ru/articles/746462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746462)
 - [Java Digest #2](https://habr.com/ru/companies/tinkoff/articles/746310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746310)
 - [6 перспективных российских стартапов. Выпуск №4 за 2023 год](https://habr.com/ru/articles/736724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=736724)
 - [Новый перспективный веб-фреймворк Cample.js. Реактивность без VDOM](https://habr.com/ru/articles/746420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746420)
 - [Как я не спал 2 дня и выиграл 1 миллион рублей?](https://habr.com/ru/articles/746416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746416)
-- [SOLID в Swift. Простое объяснение с примерами для начинающих](https://habr.com/ru/articles/746410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
