@@ -26,7 +26,7 @@ ___
 - [Как проверить доступность сервиса](https://habr.com/ru/companies/rtlabs/articles/746394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746394)
 - [[Перевод] Балансировка нагрузки: простыми словами о всей мощи двух случайных вариантов](https://habr.com/ru/companies/piter/articles/746620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746620)
 - [Тестирование Spring Boot через MockMVC](https://habr.com/ru/companies/otus/articles/746414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746414)
-- [Дизайнер — поглотитель неопределенности. Как искать компромиссы в продукте и договариваться с коллегами из разных команд](https://habr.com/ru/companies/sbermarket/articles/746280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746280)
+- [[Перевод] Поиск минимальной стоимости корректировки массива](https://habr.com/ru/companies/otus/articles/746512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
