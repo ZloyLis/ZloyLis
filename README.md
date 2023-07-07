@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование Spring Boot через MockMVC](https://habr.com/ru/companies/otus/articles/746414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746414)
 - [Дизайнер — поглотитель неопределенности. Как искать компромиссы в продукте и договариваться с коллегами из разных команд](https://habr.com/ru/companies/sbermarket/articles/746280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746280)
 - [Автоматически ищем техдолг с помощью RefactorFirst](https://habr.com/ru/companies/bar/articles/746574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746574)
 - [Новый стандарт для онлайн-платежей: SPC](https://habr.com/ru/companies/globalsign/articles/746560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746560)
 - [[Перевод] Фигуры Matplotlib и стиль Cyberpunk: несколько строк кода — и готова красивая фигура](https://habr.com/ru/companies/vk/articles/746062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746062)
-- [[recovery mode] Поставил таймер и посчитал, за сколько часов можно стать Middle Python-разработчиком](https://habr.com/ru/companies/yandex_praktikum/articles/746530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
