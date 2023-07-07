@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый стандарт для онлайн-платежей: SPC](https://habr.com/ru/companies/globalsign/articles/746560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746560)
+- [[Перевод] Фигуры Matplotlib и стиль Cyberpunk: несколько строк кода — и готова красивая фигура](https://habr.com/ru/companies/vk/articles/746062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746062)
 - [Как Git LFS влияет на опыт ведения документации рядом с кодом](https://habr.com/ru/companies/alfa/articles/745776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745776)
 - [Разбор «гениальных» высказываний ChatGPT бота, или очередной ответ на вопрос «заменят ли нас роботы»](https://habr.com/ru/articles/746524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746524)
 - [Актуальные курсы графического дизайна в 2023 году](https://habr.com/ru/articles/746522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746522)
-- [Квантомания и криптография&rpar;&rpar;](https://habr.com/ru/companies/first/articles/746516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746516)
-- [Удивительные клеточные автоматы: клетки-киллеры, BSFK[L]](https://habr.com/ru/companies/timeweb/articles/745088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
