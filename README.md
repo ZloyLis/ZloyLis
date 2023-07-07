@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Git LFS влияет на опыт ведения документации рядом с кодом](https://habr.com/ru/companies/alfa/articles/745776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745776)
+- [Разбор «гениальных» высказываний ChatGPT бота, или очередной ответ на вопрос «заменят ли нас роботы»](https://habr.com/ru/articles/746524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746524)
+- [Актуальные курсы графического дизайна в 2023 году](https://habr.com/ru/articles/746522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746522)
+- [Квантомания и криптография&rpar;&rpar;](https://habr.com/ru/companies/first/articles/746516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746516)
 - [Удивительные клеточные автоматы: клетки-киллеры, BSFK[L]](https://habr.com/ru/companies/timeweb/articles/745088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745088)
-- [Профилирование boot sequence операционной системы «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/746366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746366)
-- [Как мы упростили жизнь высоконагруженным сервисам с Platform V SessionsData. Часть 3](https://habr.com/ru/companies/sberbank/articles/745932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745932)
-- [W-функция Ламберта, ее приближения, и как она помогает строить доверительные интервалы](https://habr.com/ru/articles/745880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745880)
-- [«Я всегда считала, что я старая», или история о том, что стать профессиональным разработчиком никогда не поздно](https://habr.com/ru/companies/surfstudio/articles/746474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
