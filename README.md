@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Первые шаги в импульсных нейронных сетях](https://habr.com/ru/articles/746762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746762)
+- [Разделяй и властвуй. Повышение эффективности алгоритмов. Часть 3](https://habr.com/ru/articles/745360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745360)
 - [Лучшие курсы SEO в 2023 году &lpar;голосование&rpar;](https://habr.com/ru/articles/746710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746710)
 - [AbortController для отмены запросов при смене страницы &lpar;SPA&rpar;](https://habr.com/ru/articles/746740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746740)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;10 июля — 19 июля 2023&rpar;](https://habr.com/ru/articles/746728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746728)
-- [Разбор небольшого приложения с анекдотами](https://habr.com/ru/articles/746726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746726)
-- [Бардак в идеальном мире. Часть 1](https://habr.com/ru/articles/746706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
