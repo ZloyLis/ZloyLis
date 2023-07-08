@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Как я использую React Hook Form](https://habr.com/ru/articles/746806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746806)
 - [Параллельный метод сортировки массива std::thread](https://habr.com/ru/articles/746780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746780)
 - [Chat GPT, как подключить к среде разработки Pycharm](https://habr.com/ru/articles/746764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746764)
 - [[Перевод] Первые шаги в импульсных нейронных сетях](https://habr.com/ru/articles/746762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746762)
 - [Разделяй и властвуй. Повышение эффективности алгоритмов. Часть 3](https://habr.com/ru/articles/745360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745360)
-- [Лучшие курсы SEO в 2023 году &lpar;голосование&rpar;](https://habr.com/ru/articles/746710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
