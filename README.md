@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бардак в идеальном мире. Часть 1](https://habr.com/ru/articles/746706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746706)
 - [Строим свой SSO. Часть 2: PostgreSQL и ролевая модель](https://habr.com/ru/articles/746698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746698)
 - [Линейная алгебра самым простым языком с добавлением фишек из Python &lpar;часть 1&rpar;](https://habr.com/ru/articles/746686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746686)
 - [Осенние конференции JUG Ru Group: Москва, Питер, онлайн](https://habr.com/ru/companies/jugru/articles/746654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746654)
 - [Диджитал-директор LADA комментирует сайт агентства разработчиков софта KOTELOV &lpar;видео&rpar;](https://habr.com/ru/companies/ratingruneta/articles/746650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746650)
-- [[Перевод] Время «рок-звёзд»: когда разработка ПО основывалась на талантах и креативности](https://habr.com/ru/companies/ruvds/articles/746198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
