@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GLFW + GLAD = OpenGL графика с шейдерами](https://habr.com/ru/articles/746884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746884)
 - [Анализ уязвимостей стека протокола мобильных операторов связи SS7](https://habr.com/ru/articles/746850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746850)
 - [Binance API и Telegram бот с уведомлениями о сделках](https://habr.com/ru/articles/746832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746832)
 - [Потоковые команды: ключ к эффективности](https://habr.com/ru/articles/746870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746870)
 - [Автопостинг ВК &lpar;VK&rpar; на python](https://habr.com/ru/articles/746838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746838)
-- [[recovery mode] Введение в программирование для детей: как заинтересовать маленьких гениев в Москве](https://habr.com/ru/articles/746862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
