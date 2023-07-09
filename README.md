@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Искренность — как худшее качество в IT-карьере? Или как меня уволили в первый же день на первой работе](https://habr.com/ru/articles/746718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746718)
+- [Внезапно сложная задача на литкоде: Варианты покупки двух товаров](https://habr.com/ru/articles/746774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746774)
 - [Немного про «ПИ» и другие встроенные константы](https://habr.com/ru/articles/746776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746776)
 - [[recovery mode] Как я использую React Hook Form](https://habr.com/ru/articles/746806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746806)
 - [Параллельный метод сортировки массива std::thread](https://habr.com/ru/articles/746780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746780)
-- [Chat GPT, как подключить к среде разработки Pycharm](https://habr.com/ru/articles/746764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746764)
-- [[Перевод] Первые шаги в импульсных нейронных сетях](https://habr.com/ru/articles/746762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
