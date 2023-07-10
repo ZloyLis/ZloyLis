@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем компаниям джуны: куда и для каких задач их нанимают](https://habr.com/ru/companies/yandex_praktikum/articles/746378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746378)
 - [Диагностика работы приложения на платформе lsFusion](https://habr.com/ru/companies/lsfusion/articles/743894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743894)
 - [Опенсорс-библиотеки для Python: 40+ вариантов, как упростить жизнь начинающего дата-сайентиста](https://habr.com/ru/companies/first/articles/745680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745680)
 - [[React] Разбираем useId&lpar; &rpar; хук под микроскопом](https://habr.com/ru/articles/745232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745232)
 - [[SDK и UI-библиотеки] Введения. SDK: Проблемы и решения](https://habr.com/ru/articles/746956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746956)
-- [Системный подход в Канбан-методе. STATIK — сервисная археология](https://habr.com/ru/companies/tinkoff/articles/746136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
