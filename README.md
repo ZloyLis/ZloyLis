@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #496 &lpar;3 июня — 9 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/746930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746930)
 - [[Перевод] Не наступил ли у React момент переписывания Angular.js на Angular?](https://habr.com/ru/articles/746918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746918)
 - [Генерация Лабиринта | Алгоритм Эллера](https://habr.com/ru/articles/746916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746916)
 - [Как настроить Node.js Express сервер для React](https://habr.com/ru/articles/746906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746906)
 - [[Перевод] Async / Await in Swift](https://habr.com/ru/articles/746892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746892)
-- [GLFW + GLAD = OpenGL графика с шейдерами](https://habr.com/ru/articles/746884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
