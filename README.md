@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я перестал волноваться и полюбил ошибки в Kotlin корутинах: Мифы обработки ошибок в корутинах](https://habr.com/ru/articles/747146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747146)
 - [Пример настройки Linux для высоконагруженных кластеров Кубернетес](https://habr.com/ru/articles/747118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747118)
 - [Security Week 2328: вторая критическая уязвимость в сервисе MoveIT](https://habr.com/ru/companies/kaspersky/articles/747052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747052)
 - [System Design для самых маленьких. Reference к интервью](https://habr.com/ru/articles/747112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747112)
 - [[Перевод] Использование Provider, Riverpod, Bloc&lpar;Cubit&rpar;, Redux, MobX на одном простом примере](https://habr.com/ru/articles/747062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747062)
-- [[Перевод] Как работает хэширование](https://habr.com/ru/companies/ruvds/articles/747084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
