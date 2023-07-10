@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Диагностика работы приложения на платформе lsFusion](https://habr.com/ru/companies/lsfusion/articles/743894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743894)
+- [Опенсорс-библиотеки для Python: 40+ вариантов, как упростить жизнь начинающего дата-сайентиста](https://habr.com/ru/companies/first/articles/745680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745680)
 - [[React] Разбираем useId&lpar; &rpar; хук под микроскопом](https://habr.com/ru/articles/745232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745232)
 - [[SDK и UI-библиотеки] Введения. SDK: Проблемы и решения](https://habr.com/ru/articles/746956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746956)
 - [Системный подход в Канбан-методе. STATIK — сервисная археология](https://habr.com/ru/companies/tinkoff/articles/746136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746136)
-- [Мобильная разработка за неделю #496 &lpar;3 июня — 9 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/746930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746930)
-- [[Перевод] Не наступил ли у React момент переписывания Angular.js на Angular?](https://habr.com/ru/articles/746918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
