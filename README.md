@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Использование Provider, Riverpod, Bloc&lpar;Cubit&rpar;, Redux, MobX на одном простом примере](https://habr.com/ru/articles/747062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747062)
+- [[Перевод] Как работает хэширование](https://habr.com/ru/companies/ruvds/articles/747084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747084)
 - [Генерируй, дискриминируй. Как мы ускорили доменную адаптацию GAN для генерации лиц в пять тысяч раз](https://habr.com/ru/companies/airi/articles/747038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747038)
 - [Отладка приложений на Perl в Docker-контейнере](https://habr.com/ru/companies/vk/articles/746558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746558)
 - [Как из психолога вырасти в ML-специалиста](https://habr.com/ru/companies/aitalenthub/articles/747066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747066)
-- [5 книг по Golang для начинающих разработчиков: на что стоит обратить внимание](https://habr.com/ru/companies/ru_mts/articles/747040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747040)
-- [Зачем компаниям джуны: куда и для каких задач их нанимают](https://habr.com/ru/companies/yandex_praktikum/articles/746378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
