@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерируй, дискриминируй. Как мы ускорили доменную адаптацию GAN для генерации лиц в пять тысяч раз](https://habr.com/ru/companies/airi/articles/747038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747038)
+- [Отладка приложений на Perl в Docker-контейнере](https://habr.com/ru/companies/vk/articles/746558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746558)
+- [Как из психолога вырасти в ML-специалиста](https://habr.com/ru/companies/aitalenthub/articles/747066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747066)
 - [5 книг по Golang для начинающих разработчиков: на что стоит обратить внимание](https://habr.com/ru/companies/ru_mts/articles/747040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747040)
 - [Зачем компаниям джуны: куда и для каких задач их нанимают](https://habr.com/ru/companies/yandex_praktikum/articles/746378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746378)
-- [Диагностика работы приложения на платформе lsFusion](https://habr.com/ru/companies/lsfusion/articles/743894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743894)
-- [Опенсорс-библиотеки для Python: 40+ вариантов, как упростить жизнь начинающего дата-сайентиста](https://habr.com/ru/companies/first/articles/745680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745680)
-- [[React] Разбираем useId&lpar; &rpar; хук под микроскопом](https://habr.com/ru/articles/745232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
