@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему работает алгоритм преобразования инфиксной записи в постфиксную](https://habr.com/ru/articles/747178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747178)
 - [Apple Pro Weekly News &lpar;03.07 – 09.07.23&rpar;](https://habr.com/ru/articles/747170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747170)
 - [[recovery mode] Какие технологии использует Российская медицина? &lpar;ручка/клей/оборотка&rpar; Часть первая](https://habr.com/ru/articles/747158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747158)
 - [Как я перестал волноваться и полюбил ошибки в Kotlin корутинах: Мифы обработки ошибок в корутинах](https://habr.com/ru/articles/747146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747146)
 - [Пример настройки Linux для высоконагруженных кластеров Кубернетес](https://habr.com/ru/articles/747118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747118)
-- [Security Week 2328: вторая критическая уязвимость в сервисе MoveIT](https://habr.com/ru/companies/kaspersky/articles/747052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
