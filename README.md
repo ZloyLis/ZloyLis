@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ОСНОВЫ АНАЛИТИКИ](https://habr.com/ru/articles/747194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747194)
+- [Новый инструмент для исследования безопасности и тестирования веб-приложений](https://habr.com/ru/articles/747192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747192)
+- [Собеседование на Java разработчика. Разбор 1606 вопросов и ответов. Часть 3 &lpar;с 270 по 370 вопрос&rpar;](https://habr.com/ru/articles/747190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747190)
+- [Как с помощью Rust FFI превратить ori-файл в jpeg-панораму](https://habr.com/ru/articles/747188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747188)
 - [Почему работает алгоритм преобразования инфиксной записи в постфиксную](https://habr.com/ru/articles/747178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747178)
-- [Apple Pro Weekly News &lpar;03.07 – 09.07.23&rpar;](https://habr.com/ru/articles/747170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747170)
-- [[recovery mode] Какие технологии использует Российская медицина? &lpar;ручка/клей/оборотка&rpar; Часть первая](https://habr.com/ru/articles/747158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747158)
-- [Как я перестал волноваться и полюбил ошибки в Kotlin корутинах: Мифы обработки ошибок в корутинах](https://habr.com/ru/articles/747146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747146)
-- [Пример настройки Linux для высоконагруженных кластеров Кубернетес](https://habr.com/ru/articles/747118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
