@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы докатились до HTTP/3?](https://habr.com/ru/companies/timeweb/articles/746678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746678)
+- [Техрадар Lamoda Tech-2023: наша рефлексия о разработке и технологиях за три года](https://habr.com/ru/companies/lamoda/articles/746140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746140)
+- [Автоматическая сборка схемы в Simulink](https://habr.com/ru/articles/747232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747232)
 - [Делаем эмулятор Android через Terminal: пошаговое руководство](https://habr.com/ru/companies/wrike/articles/747154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747154)
 - [[Перевод] Кричащая архитектура](https://habr.com/ru/articles/747210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747210)
-- [Манипулируй DOM правильно](https://habr.com/ru/companies/nspk/articles/745502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745502)
-- [Как сделать мини-игру с Кузей с помощью голосового бота. Часть 1: Управление персонажем](https://habr.com/ru/companies/mtt/articles/743754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743754)
-- [Основы аналитики для гейм-дизайнера](https://habr.com/ru/articles/747194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
