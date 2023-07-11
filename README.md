@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы докатились до HTTP/3?](https://habr.com/ru/companies/timeweb/articles/746678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746678)
-- [Техрадар Lamoda Tech-2023: наша рефлексия о разработке и технологиях за три года](https://habr.com/ru/companies/lamoda/articles/746140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746140)
-- [Автоматическая сборка схемы в Simulink](https://habr.com/ru/articles/747232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747232)
-- [Делаем эмулятор Android через Terminal: пошаговое руководство](https://habr.com/ru/companies/wrike/articles/747154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747154)
-- [[Перевод] Кричащая архитектура](https://habr.com/ru/articles/747210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747210)
+- [Как помочь людям меняться](https://habr.com/ru/companies/oleg-bunin/articles/719758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719758)
+- [Как аналитику перейти на новый уровень: связь с насмотренностью](https://habr.com/ru/articles/747256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747256)
+- [КЛЕТКА III. Строение, состав, функции](https://habr.com/ru/articles/745170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745170)
+- [Руководство по менторингу для менеджеров продуктов: зачем он нужен и как запрашивать его у своих руководителей](https://habr.com/ru/companies/vk/articles/747096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747096)
+- [Изнанка архитектуры, или Менять нельзя оставить](https://habr.com/ru/companies/custis/articles/747138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
