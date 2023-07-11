@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GPSS. Вспомним старичка](https://habr.com/ru/articles/747298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747298)
 - [DevOps спит, консоль работает. Как сократить путь от разработки до внедрения приложения](https://habr.com/ru/companies/dbraincloud/articles/747262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747262)
 - [О технических особенностях алгоритмической торговли с использованием API](https://habr.com/ru/articles/747276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747276)
 - [Как помочь людям меняться](https://habr.com/ru/companies/oleg-bunin/articles/719758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719758)
 - [Как аналитику перейти на новый уровень: связь с насмотренностью](https://habr.com/ru/articles/747256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747256)
-- [КЛЕТКА III. Строение, состав, функции](https://habr.com/ru/articles/745170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
