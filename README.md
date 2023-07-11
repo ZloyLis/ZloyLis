@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мои любимые вопросы о CSS с ответами. Версия 2023 года](https://habr.com/ru/companies/ruvds/articles/745668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745668)
 - [Искусство абстракции: Важность использования буквенно-цифровых переменных в программировании](https://habr.com/ru/articles/747314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747314)
 - [Монолит или микросервисы — это не вопрос технологических предпочтений, это про time-to-market](https://habr.com/ru/companies/karuna/articles/746434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746434)
 - [[Перевод] Непрерывное тестирование: построение выигрышной стратегии тестирования](https://habr.com/ru/articles/747280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747280)
 - [GPSS. Вспомним старичка](https://habr.com/ru/articles/747298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747298)
-- [DevOps спит, консоль работает. Как сократить путь от разработки до внедрения приложения](https://habr.com/ru/companies/dbraincloud/articles/747262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
