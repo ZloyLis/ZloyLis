@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать мини-игру с Кузей с помощью голосового бота. Часть 1: Управление персонажем](https://habr.com/ru/companies/mtt/articles/743754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743754)
 - [Основы аналитики для гейм-дизайнера](https://habr.com/ru/articles/747194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747194)
 - [Kasm — инструмент для исследования безопасности и тестирования веб-приложений](https://habr.com/ru/articles/747192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747192)
 - [Собеседование на Java разработчика. Разбор 1606 вопросов и ответов. Часть 3 &lpar;с 270 по 370 вопрос&rpar;](https://habr.com/ru/articles/747190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747190)
 - [Как с помощью Rust FFI превратить ori-файл в jpeg-панораму](https://habr.com/ru/articles/747188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747188)
-- [Почему работает алгоритм преобразования инфиксной записи в постфиксную](https://habr.com/ru/articles/747178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
