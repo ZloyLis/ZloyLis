@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем эмулятор Android через Terminal: пошаговое руководство](https://habr.com/ru/companies/wrike/articles/747154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747154)
+- [[Перевод] Кричащая архитектура](https://habr.com/ru/articles/747210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747210)
 - [Манипулируй DOM правильно](https://habr.com/ru/companies/nspk/articles/745502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745502)
 - [Как сделать мини-игру с Кузей с помощью голосового бота. Часть 1: Управление персонажем](https://habr.com/ru/companies/mtt/articles/743754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743754)
 - [Основы аналитики для гейм-дизайнера](https://habr.com/ru/articles/747194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747194)
-- [Kasm — инструмент для исследования безопасности и тестирования веб-приложений](https://habr.com/ru/articles/747192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747192)
-- [Собеседование на Java разработчика. Разбор 1606 вопросов и ответов. Часть 3 &lpar;с 270 по 370 вопрос&rpar;](https://habr.com/ru/articles/747190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
