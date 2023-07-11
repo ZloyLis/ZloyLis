@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps спит, консоль работает. Как сократить путь от разработки до внедрения приложения](https://habr.com/ru/companies/dbraincloud/articles/747262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747262)
+- [О технических особенностях алгоритмической торговли с использованием API](https://habr.com/ru/articles/747276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747276)
 - [Как помочь людям меняться](https://habr.com/ru/companies/oleg-bunin/articles/719758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719758)
 - [Как аналитику перейти на новый уровень: связь с насмотренностью](https://habr.com/ru/articles/747256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747256)
 - [КЛЕТКА III. Строение, состав, функции](https://habr.com/ru/articles/745170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745170)
-- [Руководство по менторингу для менеджеров продуктов: зачем он нужен и как запрашивать его у своих руководителей](https://habr.com/ru/companies/vk/articles/747096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747096)
-- [Изнанка архитектуры, или Менять нельзя оставить](https://habr.com/ru/companies/custis/articles/747138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
