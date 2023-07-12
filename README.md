@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Управление заголовками HTTP в Joomla 4 &lpar;часть 2&rpar;](https://habr.com/ru/articles/704778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704778)
 - [Инструменты Дата-сайнтиста. Универсальная база](https://habr.com/ru/companies/jetinfosystems/articles/747338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747338)
+- [Чем отличается тестирование на эмуляторах, фермах и физических устройствах](https://habr.com/ru/companies/first/articles/747222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747222)
 - [Выбор города в интернет-магазине: 90+ моментов, которые стоит учесть при проектировании](https://habr.com/ru/articles/747434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747434)
 - [Появится ли в браузере менеджер пакетов?](https://habr.com/ru/articles/747410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747410)
-- [Динамический импорт remote компонента Module Federation на Vue 3](https://habr.com/ru/articles/747384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747384)
-- [Тестируем на реальных кейсах Chatgpt Code Interpreter](https://habr.com/ru/articles/747380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
