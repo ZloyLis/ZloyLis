@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Потоковая обработка данных с помощью Kafka Streams: архитектура и ключевые концепции](https://habr.com/ru/articles/747658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747658)
 - [Прибытие тензорного поезда. Как достижения мультилинейной алгебры помогают преодолеть проклятие размерности](https://habr.com/ru/companies/airi/articles/747626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747626)
 - [[Перевод] Создаем веб-сайт, будто на дворе 1999 год](https://habr.com/ru/companies/ispsystem/articles/747392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747392)
 - [Простыми словами о базовых принципах SRE](https://habr.com/ru/articles/747618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747618)
 - [C# Generic-подход к разработке web API](https://habr.com/ru/companies/itq_group/articles/747566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747566)
-- [Ручной DI на Котлине? Легко! Ну, почти…](https://habr.com/ru/articles/746978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
