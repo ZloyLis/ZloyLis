@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение конфликта IP-адресов при использовании Docker](https://habr.com/ru/articles/747478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747478)
+- [Гипатия: античная женщина-математик, которую убили религиозные фанатики](https://habr.com/ru/companies/itglobalcom/articles/747430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747430)
+- [[Перевод] Пугающее противостояние: утечка данных в машинном обучении](https://habr.com/ru/companies/vk/articles/746360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746360)
+- [Не так безопасен OpenPGP как его малюют](https://habr.com/ru/companies/first/articles/747272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747272)
 - [[Перевод] Управление заголовками HTTP в Joomla 4 &lpar;часть 2&rpar;](https://habr.com/ru/articles/704778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704778)
-- [Инструменты Дата-сайнтиста. Универсальная база](https://habr.com/ru/companies/jetinfosystems/articles/747338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747338)
-- [Чем отличается тестирование на эмуляторах, фермах и физических устройствах](https://habr.com/ru/companies/first/articles/747222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747222)
-- [Выбор города в интернет-магазине: 90+ моментов, которые стоит учесть при проектировании](https://habr.com/ru/articles/747434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747434)
-- [Появится ли в браузере менеджер пакетов?](https://habr.com/ru/articles/747410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
