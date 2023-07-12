@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ручной DI на Котлине? Легко! Ну, почти…](https://habr.com/ru/articles/746978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746978)
 - [Храним краску с умом: как организовать ресурсы в многомодульном проекте](https://habr.com/ru/companies/doubletapp/articles/745606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745606)
 - [Кто же такая это ваша LoRA](https://habr.com/ru/articles/747534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747534)
 - [[Перевод] Прожарка java.lang.String](https://habr.com/ru/companies/bar/articles/747528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747528)
 - [Как мы автоматизировали верстку статей на vc.ru, или почему в маркетинге нужны роботы](https://habr.com/ru/companies/selectel/articles/747494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747494)
-- [Гипатия: античная женщина-математик, которую убили религиозные фанатики](https://habr.com/ru/companies/itglobalcom/articles/747430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
