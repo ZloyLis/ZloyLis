@@ -9,11 +9,12 @@
 #### 🛠️ Technical stack:
 
 ![Java](https://img.shields.io/badge/Java-informational?logo=Oracle&style=flat&logoColor=white&color=FF4500)
-![Spring](https://img.shields.io/badge/SpringBoot-informational?logo=SpringBoot&style=flat&logoColor=white&color=6495ED)
+![Kotlin](https://img.shields.io/badge/Kotlin-informational?logo=Kotlin&style=flat&logoColor=white&color=774D97)
+![Spring](https://img.shields.io/badge/SpringBoot-informational?logo=SpringBoot&style=flat&logoColor=white&color=6DB33F) <br>
 ![JS](https://img.shields.io/badge/JS-informational?logo=javaScript&style=flat&logoColor=black&color=F7Df1E)
-![TS](https://img.shields.io/badge/TypeScript-informational?logo=typeScript&style=flat&logoColor=black&color=0667A8)  <br>
-![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=43853D)
-![Nest](https://img.shields.io/badge/NestJS-informational?logo=NestJS&style=flat&logoColor=white&color=red)
+![TS](https://img.shields.io/badge/TypeScript-informational?logo=typeScript&style=flat&logoColor=black&color=0667A8)
+![NodeJS](https://img.shields.io/badge/NodeJS-informational?logo=node.js&style=flat&logoColor=white&color=70A760) <br>
+![Nest](https://img.shields.io/badge/NestJS-informational?logo=NestJS&style=flat&logoColor=white&color=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=PostgreSQL&style=flat&logoColor=white&color=DAA520)
 ![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=778899)
 
