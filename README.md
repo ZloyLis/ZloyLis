@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прибытие тензорного поезда. Как достижения мультилинейной алгебры помогают преодолеть проклятие размерности](https://habr.com/ru/companies/airi/articles/747626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747626)
+- [[Перевод] Создаем веб-сайт, будто на дворе 1999 год](https://habr.com/ru/companies/ispsystem/articles/747392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747392)
+- [Простыми словами о базовых принципах SRE](https://habr.com/ru/articles/747618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747618)
 - [C# Generic-подход к разработке web API](https://habr.com/ru/companies/itq_group/articles/747566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747566)
 - [Ручной DI на Котлине? Легко! Ну, почти…](https://habr.com/ru/articles/746978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746978)
-- [Храним краску с умом: как организовать ресурсы в многомодульном проекте](https://habr.com/ru/companies/doubletapp/articles/745606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745606)
-- [Кто же такая это ваша LoRA](https://habr.com/ru/articles/747534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747534)
-- [[Перевод] Прожарка java.lang.String](https://habr.com/ru/companies/bar/articles/747528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
