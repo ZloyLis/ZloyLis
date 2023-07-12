@@ -22,11 +22,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы автоматизировали верстку статей на vc.ru, или почему в маркетинге нужны роботы](https://habr.com/ru/companies/selectel/articles/747494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747494)
 - [Решение конфликта IP-адресов при использовании Docker](https://habr.com/ru/articles/747478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747478)
 - [Гипатия: античная женщина-математик, которую убили религиозные фанатики](https://habr.com/ru/companies/itglobalcom/articles/747430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747430)
 - [[Перевод] Пугающее противостояние: утечка данных в машинном обучении](https://habr.com/ru/companies/vk/articles/746360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746360)
 - [Не так безопасен OpenPGP как его малюют](https://habr.com/ru/companies/first/articles/747272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747272)
-- [[Перевод] Управление заголовками HTTP в Joomla 4 &lpar;часть 2&rpar;](https://habr.com/ru/articles/704778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=704778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
