@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как тестировать не-REST-бэкенд. Часть вторая, WebSocket](https://habr.com/ru/companies/qiwi/articles/747604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747604)
+- [Полезные iOS-инструменты для дебаггинга](https://habr.com/ru/companies/simbirsoft/articles/747462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747462)
+- [[Перевод] В ответ на пост, который разозлил меня, как никакой другой](https://habr.com/ru/companies/productivity_inside/articles/747782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747782)
 - [Nx Generator: имба или не стоит разбираться?](https://habr.com/ru/companies/tinkoff/articles/747608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747608)
 - [Камера, нейронки и дымящийся микро-ПК: дешевая и практичная альтернатива радару](https://habr.com/ru/companies/magnus-tech/articles/741902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741902)
-- [Вредные советы для тестировщиков](https://habr.com/ru/articles/747764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747764)
-- [Highload-проект с нуля за 2 месяца](https://habr.com/ru/companies/oleg-bunin/articles/747724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747724)
-- [Как реализовать ролевую систему доступа через Open Policy Agent. Опыт PaaS Авито](https://habr.com/ru/companies/avito/articles/743932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
