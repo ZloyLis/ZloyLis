@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектура аналитической платформы Modus BI: ETL](https://habr.com/ru/companies/modusbi/articles/747866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747866)
+- [Whirl Platform — разработка длинной в 10 лет](https://habr.com/ru/articles/747876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747876)
+- [Развитие техники Помодоро](https://habr.com/ru/articles/747872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747872)
+- [Архитектура аналитической платформы Modus: ETL](https://habr.com/ru/companies/modusbi/articles/747866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747866)
 - [Функциональное тестирование в SpringBoot](https://habr.com/ru/companies/otus/articles/747852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747852)
 - [[Перевод] Модернизация приложений и обеспечение надёжности сайтов &lpar;SRE&rpar;](https://habr.com/ru/companies/piter/articles/747850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747850)
-- [Учимся разрабатывать REST API на Go на примере сокращателя ссылок](https://habr.com/ru/companies/selectel/articles/747738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747738)
-- [Доступность сервиса: встраивание в существующие процессы](https://habr.com/ru/companies/rtlabs/articles/747828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
