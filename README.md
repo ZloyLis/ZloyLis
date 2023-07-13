@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск похожих строк &lpar;LCS + Расстояние Левенштейна&rpar;](https://habr.com/ru/articles/747822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747822)
+- [Герои Кода и Магии: анализ игрового движка VCMI](https://habr.com/ru/companies/pvs-studio/articles/747806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747806)
+- [Книги для JavaScript-разработчика: то, что реально помогает развиваться. От простого к сложному](https://habr.com/ru/companies/ru_mts/articles/747802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747802)
+- [Как создать популярную игру в Google Play](https://habr.com/ru/articles/747796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747796)
 - [Как тестировать не-REST-бэкенд. Часть вторая, WebSocket](https://habr.com/ru/companies/qiwi/articles/747604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747604)
-- [Полезные iOS-инструменты для дебаггинга](https://habr.com/ru/companies/simbirsoft/articles/747462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747462)
-- [[Перевод] В ответ на пост, который разозлил меня, как никакой другой](https://habr.com/ru/companies/productivity_inside/articles/747782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747782)
-- [Nx Generator: имба или не стоит разбираться?](https://habr.com/ru/companies/tinkoff/articles/747608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747608)
-- [Камера, нейронки и дымящийся микро-ПК: дешевая и практичная альтернатива радару](https://habr.com/ru/companies/magnus-tech/articles/741902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
