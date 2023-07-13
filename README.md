@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Nx Generator: имба или не стоит разбираться?](https://habr.com/ru/companies/tinkoff/articles/747608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747608)
+- [Камера, нейронки и дымящийся микро-ПК: дешевая и практичная альтернатива радару](https://habr.com/ru/companies/magnus-tech/articles/741902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=741902)
+- [Вредные советы для тестировщиков](https://habr.com/ru/articles/747764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747764)
 - [Highload-проект с нуля за 2 месяца](https://habr.com/ru/companies/oleg-bunin/articles/747724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747724)
 - [Как реализовать ролевую систему доступа через Open Policy Agent. Опыт PaaS Авито](https://habr.com/ru/companies/avito/articles/743932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743932)
-- [Архитектура CQRS](https://habr.com/ru/companies/otus/articles/747668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747668)
-- [[SDK и UI-библиотеки] Проблемы встраивания UI-компонентов](https://habr.com/ru/articles/747740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747740)
-- [Простые правила, которые помогают мне писать на Go без побочных эффектов](https://habr.com/ru/companies/yadro/articles/747308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
