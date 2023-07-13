@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простые правила, которые помогают мне писать на Go без побочных эффектов](https://habr.com/ru/companies/yadro/articles/747308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747308)
+- [Рекурсивная генерация подземелий на Godot 4.1](https://habr.com/ru/articles/747660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747660)
+- [Как тайм-менеджмент помогает всё успевать и чувствовать себя счастливее](https://habr.com/ru/companies/yandex_praktikum/articles/747196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747196)
 - [Симбиоз «Chromium» и «InternetTools»](https://habr.com/ru/articles/739728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=739728)
 - [Потоковая обработка данных с помощью Kafka Streams: архитектура и ключевые концепции](https://habr.com/ru/articles/747658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747658)
-- [Прибытие тензорного поезда. Как достижения мультилинейной алгебры помогают преодолеть проклятие размерности](https://habr.com/ru/companies/airi/articles/747626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747626)
-- [[Перевод] Создаем веб-сайт, будто на дворе 1999 год](https://habr.com/ru/companies/ispsystem/articles/747392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747392)
-- [Простыми словами о базовых принципах SRE](https://habr.com/ru/articles/747618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
