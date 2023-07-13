@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Учимся разрабатывать REST API на Go на примере сокращателя ссылок](https://habr.com/ru/companies/selectel/articles/747738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747738)
+- [Доступность сервиса: встраивание в существующие процессы](https://habr.com/ru/companies/rtlabs/articles/747828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747828)
+- [Экстренное шифрование данных](https://habr.com/ru/articles/747838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747838)
 - [Поиск похожих строк &lpar;LCS + Расстояние Левенштейна&rpar;](https://habr.com/ru/articles/747822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747822)
 - [Герои Кода и Магии: анализ игрового движка VCMI](https://habr.com/ru/companies/pvs-studio/articles/747806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747806)
-- [Книги для JavaScript-разработчика: то, что реально помогает развиваться. От простого к сложному](https://habr.com/ru/companies/ru_mts/articles/747802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747802)
-- [Как создать популярную игру в Google Play](https://habr.com/ru/articles/747796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747796)
-- [Как тестировать не-REST-бэкенд. Часть вторая, WebSocket](https://habr.com/ru/companies/qiwi/articles/747604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
