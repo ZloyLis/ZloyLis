@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опасен ли AI? Человечество дебажит свои идеи прямо на «проде»](https://habr.com/ru/articles/723048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723048)
 - [Микросервисы в банке: на чем их лучше писать? Java/Kotlin, а может Go?](https://habr.com/ru/companies/rshb/articles/747898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747898)
 - [Mobx: библиотека глобальных сторов &lpar;state manager&rpar;](https://habr.com/ru/articles/747884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747884)
-- [Whirl Platform — разработка длинной в 10 лет](https://habr.com/ru/articles/747876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747876)
+- [Whirl Platform — разработка длиной в 10 лет](https://habr.com/ru/articles/747876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747876)
 - [Развитие техники Помодоро](https://habr.com/ru/articles/747872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747872)
-- [Архитектура аналитической платформы Modus: ETL](https://habr.com/ru/companies/modusbi/articles/747866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
