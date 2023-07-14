@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как задачи на LeetCode прокачали меня как разработчика, или по-честному про алгоритмы](https://habr.com/ru/articles/747970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747970)
 - [[Перевод] Вышел Chrome 115](https://habr.com/ru/articles/748000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748000)
 - [Моя история: разработчик в 16](https://habr.com/ru/articles/747974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747974)
 - [Мой опыт первого принятого коммита в open source](https://habr.com/ru/companies/timeweb/articles/747292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747292)
 - [Как оптимизировать процесс привлечения клиентов B2B с помощью методов Продвинутой Аналитики](https://habr.com/ru/companies/alfa/articles/747742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747742)
-- [[recovery mode] Архитектура микрофронтенд с feature sliced design](https://habr.com/ru/articles/747952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
