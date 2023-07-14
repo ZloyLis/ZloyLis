@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Влияние нефункциональных требований на разработку программного обеспечения](https://habr.com/ru/companies/smartup_tech/articles/748150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748150)
 - [Как создать рекомендательную систему без использования ML алгоритмов](https://habr.com/ru/articles/748142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748142)
 - [Зачем нужно внедрение зависимостей в JS](https://habr.com/ru/articles/748132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748132)
 - [Модульное тестирование в iOS: всё, что надо знать. Часть 2](https://habr.com/ru/companies/docdoc/articles/748130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748130)
 - [Синтез обучения с подкреплением и классического планирования: как выиграть соревнование CVPR Habitat Challenge 2023](https://habr.com/ru/companies/airi/articles/748062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748062)
-- [[Перевод] Rust 1.71.0: C-unwind ABI, атрибуты визуализации отладчика и константная инициализация thread local](https://habr.com/ru/articles/748122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
