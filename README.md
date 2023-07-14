@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гуманитарий с 0 знаний в IT и в программировании. Первая часть. И предпоследняя про 1С](https://habr.com/ru/articles/748070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748070)
+- [КЛЕТКА IV. Редактирование генома человека](https://habr.com/ru/articles/747268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747268)
+- [Чеклист для запуска или миграции приложений в Kubernetes](https://habr.com/ru/companies/sportmaster_lab/articles/747848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747848)
+- [От потоков к корутинам: как и почему видоизменились примитивы синхронизации в языке Kotlin &lpar;Часть 1&rpar;](https://habr.com/ru/companies/garage8/articles/747948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747948)
 - [Как задачи на LeetCode прокачали меня как разработчика, или по-честному про алгоритмы](https://habr.com/ru/articles/747970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747970)
-- [[Перевод] Вышел Chrome 115](https://habr.com/ru/articles/748000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748000)
-- [Моя история: разработчик в 16](https://habr.com/ru/articles/747974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747974)
-- [Мой опыт первого принятого коммита в open source](https://habr.com/ru/companies/timeweb/articles/747292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747292)
-- [Как оптимизировать процесс привлечения клиентов B2B с помощью методов Продвинутой Аналитики](https://habr.com/ru/companies/alfa/articles/747742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
