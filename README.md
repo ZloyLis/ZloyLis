@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как оптимизировать процесс привлечения клиентов B2B с помощью методов Продвинутой Аналитики](https://habr.com/ru/companies/alfa/articles/747742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747742)
 - [[recovery mode] Архитектура микрофронтенд с feature sliced design](https://habr.com/ru/articles/747952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747952)
 - [История #1 или как найти первую работу в IT?](https://habr.com/ru/articles/747944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747944)
 - [Разработка расширяемого алгоритма строкового калькулятора](https://habr.com/ru/articles/747920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747920)
 - [Опасен ли AI? Человечество дебажит свои идеи прямо на «проде»](https://habr.com/ru/articles/723048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723048)
-- [Микросервисы в банке: на чем их лучше писать? Java/Kotlin, а может Go?](https://habr.com/ru/companies/rshb/articles/747898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
