@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Архитектура микрофронтенд с feature sliced design](https://habr.com/ru/articles/747952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747952)
 - [История #1 или как найти первую работу в IT?](https://habr.com/ru/articles/747944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747944)
 - [Разработка расширяемого алгоритма строкового калькулятора](https://habr.com/ru/articles/747920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747920)
 - [Опасен ли AI? Человечество дебажит свои идеи прямо на «проде»](https://habr.com/ru/articles/723048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723048)
 - [Микросервисы в банке: на чем их лучше писать? Java/Kotlin, а может Go?](https://habr.com/ru/companies/rshb/articles/747898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747898)
-- [Mobx: библиотека глобальных сторов &lpar;state manager&rpar;](https://habr.com/ru/articles/747884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
