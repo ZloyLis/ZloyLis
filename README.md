@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.71.0: C-unwind ABI, атрибуты визуализации отладчика и константная инициализация thread local](https://habr.com/ru/articles/748122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748122)
+- [[recovery mode] Меры поддержки ИТ-отрасли](https://habr.com/ru/articles/748114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748114)
+- [Как с помощью ChatGPT писать SQL-запросы. Несколько кейсов](https://habr.com/ru/companies/ru_mts/articles/748112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748112)
 - [[Перевод] В {n} раз быстрее Си](https://habr.com/ru/companies/ruvds/articles/747826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747826)
 - [Гуманитарий с 0 знаний в IT и в программировании. Первая часть. И предпоследняя про 1С](https://habr.com/ru/articles/748070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748070)
-- [КЛЕТКА IV. Редактирование генома человека](https://habr.com/ru/articles/747268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747268)
-- [Чеклист для запуска или миграции приложений в Kubernetes](https://habr.com/ru/companies/sportmaster_lab/articles/747848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747848)
-- [От потоков к корутинам: как и почему видоизменились примитивы синхронизации в языке Kotlin &lpar;Часть 1&rpar;](https://habr.com/ru/companies/garage8/articles/747948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
