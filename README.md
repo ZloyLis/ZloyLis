@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать рекомендательную систему без использования ML алгоритмов](https://habr.com/ru/articles/748142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748142)
+- [Зачем нужно внедрение зависимостей в JS](https://habr.com/ru/articles/748132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748132)
+- [Модульное тестирование в iOS: всё, что надо знать. Часть 2](https://habr.com/ru/companies/docdoc/articles/748130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748130)
+- [Синтез обучения с подкреплением и классического планирования: как выиграть соревнование CVPR Habitat Challenge 2023](https://habr.com/ru/companies/airi/articles/748062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748062)
 - [[Перевод] Rust 1.71.0: C-unwind ABI, атрибуты визуализации отладчика и константная инициализация thread local](https://habr.com/ru/articles/748122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748122)
-- [[recovery mode] Меры поддержки ИТ-отрасли](https://habr.com/ru/articles/748114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748114)
-- [Как с помощью ChatGPT писать SQL-запросы. Несколько кейсов](https://habr.com/ru/companies/ru_mts/articles/748112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748112)
-- [[Перевод] В {n} раз быстрее Си](https://habr.com/ru/companies/ruvds/articles/747826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747826)
-- [Гуманитарий с 0 знаний в IT и в программировании. Первая часть. И предпоследняя про 1С](https://habr.com/ru/articles/748070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
