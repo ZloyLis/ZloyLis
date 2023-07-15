@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Начало работы с AWS. Создание IAM пользователя. Установка SDK Boto3 и пример кода на Python](https://habr.com/ru/articles/748276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748276)
+- [Оптимизация изображений для пользователей с медленным интернетом с помощью Network Information API](https://habr.com/ru/articles/748272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748272)
 - [Работа с системой СИ на Java](https://habr.com/ru/articles/748248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748248)
 - [Работа с системой СИ на JavaScript](https://habr.com/ru/articles/748022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748022)
 - [Мультибрендинг сайта на Angular](https://habr.com/ru/articles/748240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748240)
-- [Большие данные и огромные сомнения](https://habr.com/ru/articles/748238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748238)
-- [Прожарка вакансии системного аналитика #2](https://habr.com/ru/articles/748236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
