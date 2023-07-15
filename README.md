@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с системой СИ на Java](https://habr.com/ru/articles/748248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748248)
 - [Работа с системой СИ на JavaScript](https://habr.com/ru/articles/748022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748022)
 - [Мультибрендинг сайта на Angular](https://habr.com/ru/articles/748240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748240)
 - [Большие данные и огромные сомнения](https://habr.com/ru/articles/748238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748238)
 - [Прожарка вакансии системного аналитика #2](https://habr.com/ru/articles/748236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748236)
-- [ES2023 — что нового в JavaScript?](https://habr.com/ru/articles/748232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
