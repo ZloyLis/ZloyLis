@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гуманитарий с 0 знаний в IT и в программировании. Вторая часть. И последняя про 1С](https://habr.com/ru/articles/748212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748212)
 - [Оценка параметров системы дифференциальных уравнений по неточным наблюдениям](https://habr.com/ru/articles/748174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748174)
 - [Стартуем коллективное прохождение курса MIT 15.356 How To Develop «Breakthrough» Products And Services](https://habr.com/ru/articles/748188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748188)
 - [Адаптивная СЗИ и другие биологические аналогии в информационной безопасности](https://habr.com/ru/articles/748186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748186)
 - [Мультиплатформенное управление контентом с помощью Directus](https://habr.com/ru/articles/748182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748182)
-- [Насколько опасна JavaScript-криптография?](https://habr.com/ru/companies/globalsign/articles/748158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
