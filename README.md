@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ES2023 — что нового в JavaScript?](https://habr.com/ru/articles/748232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748232)
 - [QA-инженер: кто это и какие навыки требуются в 2023 году](https://habr.com/ru/articles/748228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748228)
 - [Модульный телефон Fairphone: концепция продолжает развиваться. Fairphone 5 и перспективы линейки](https://habr.com/ru/companies/ru_mts/articles/748126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748126)
 - [Ближайшие бесплатные мероприятия по разработке &lpar;18 июля — 20 июля 2023&rpar;](https://habr.com/ru/articles/748214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748214)
 - [Гуманитарий с 0 знаний в IT и в программировании. Вторая часть. И последняя про 1С](https://habr.com/ru/articles/748212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748212)
-- [Оценка параметров системы дифференциальных уравнений по неточным наблюдениям](https://habr.com/ru/articles/748174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
