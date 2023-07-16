@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Технический долг захватил глобальную экономику](https://habr.com/ru/companies/ruvds/articles/748002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748002)
 - [Nokia N9 — уникальный Linux-смартфон, опередивший своё время на много лет вперед](https://habr.com/ru/companies/timeweb/articles/747538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747538)
 - [Алгоритмы на FPGA: Алгоритм Луна](https://habr.com/ru/articles/748292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748292)
 - [Как приручить Polygon или обратная сторона олимпиад](https://habr.com/ru/articles/748298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748298)
 - [Немного об оптимизации кода путем «свертки»](https://habr.com/ru/articles/748262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748262)
-- [Python: Построение графиков по данным из файла](https://habr.com/ru/articles/748282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
