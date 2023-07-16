@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучший способ защитить java приложение от взлома](https://habr.com/ru/articles/748322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748322)
+- [Запуск блокнотов, запрещённых Google Colab TOS или SD webui в колабе без ограничений](https://habr.com/ru/articles/748316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748316)
 - [[Перевод] Технический долг захватил глобальную экономику](https://habr.com/ru/companies/ruvds/articles/748002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748002)
 - [Nokia N9 — уникальный Linux-смартфон, опередивший своё время на много лет вперед](https://habr.com/ru/companies/timeweb/articles/747538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747538)
 - [Алгоритмы на FPGA: Алгоритм Луна](https://habr.com/ru/articles/748292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748292)
-- [Как приручить Polygon или обратная сторона олимпиад](https://habr.com/ru/articles/748298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748298)
-- [Немного об оптимизации кода путем «свертки»](https://habr.com/ru/articles/748262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
