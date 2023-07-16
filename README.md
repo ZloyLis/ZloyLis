@@ -24,10 +24,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Nokia N9 — уникальный Linux-смартфон, опередивший своё время на много лет вперед](https://habr.com/ru/companies/timeweb/articles/747538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747538)
+- [Алгоритмы на FPGA: Алгоритм Луна](https://habr.com/ru/articles/748292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748292)
 - [Как приручить Polygon или обратная сторона олимпиад](https://habr.com/ru/articles/748298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748298)
 - [Немного об оптимизации кода путем «свертки»](https://habr.com/ru/articles/748262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748262)
 - [Python: Построение графиков по данным из файла](https://habr.com/ru/articles/748282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748282)
-- [Начало работы с AWS. Создание IAM пользователя. Установка SDK Boto3 и пример кода на Python](https://habr.com/ru/articles/748276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
