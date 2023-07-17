@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Самое сложное в ПО — не кодинг, а требования, или Почему разработчикам не стоит бояться ИИ](https://habr.com/ru/companies/ruvds/articles/748498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748498)
 - [Создание анимированных графиков с помощью Matlab](https://habr.com/ru/articles/748486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748486)
 - [[Перевод] Что нового в SwiftUI для iOS 17?](https://habr.com/ru/articles/748478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748478)
 - [Как вывести форматированный текст на экран в C++](https://habr.com/ru/articles/748336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748336)
 - [Алгоритмы поиска пути: Алгоритм дейкстры и А*](https://habr.com/ru/companies/otus/articles/748470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748470)
-- [Работа нестрогого равенства в JS на примере задачки](https://habr.com/ru/articles/748452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
