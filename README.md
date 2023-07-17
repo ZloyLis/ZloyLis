@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Savant 0.2.4: компьютерное зрение на базе глубокого обучения для Nvidia Jetson и dGPU](https://habr.com/ru/articles/748438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748438)
+- [Правда ли Astro так быстр, сравнение с Nuxt 3](https://habr.com/ru/articles/748366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748366)
+- [Как добавлять свои мини-приложения в корпоративный суперапп VK Teams](https://habr.com/ru/companies/vk/articles/744994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744994)
 - [Использование составных триггеров &lpar;compound triggers&rpar; Oracle](https://habr.com/ru/articles/748422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748422)
-- [Эксперимент Штерна-Герлаха, сфера Блоха и квантовые вращения](https://habr.com/ru/articles/748416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748416)
-- [Как мы запускали демоприложения](https://habr.com/ru/companies/tinkoff/articles/747336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747336)
-- [Решение проблемы N+1 запроса с помощью группировки вызовов](https://habr.com/ru/articles/748302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748302)
-- [Обзор библиотек для скриншот-тестирования Android проектов. Часть 2](https://habr.com/ru/articles/748312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748312)
+- [Ускоряем рендер сцены в three.js путем объединения мешей в один](https://habr.com/ru/articles/747200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
