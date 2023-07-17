@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мифы no-code разработки](https://habr.com/ru/articles/746162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746162)
 - [ИИ в сердце Африки. Как мы съездили в Руанду на крупнейшую конференцию по машинному обучению ICLR 2023](https://habr.com/ru/companies/airi/articles/748504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748504)
 - [Применение формулы бинома для определения простых чисел](https://habr.com/ru/articles/748592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748592)
 - [[Перевод] Трюк с LD_PRELOAD](https://habr.com/ru/companies/otus/articles/748494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748494)
 - [Строим свой SSO. Часть 3: Redis, Swagger, Vue.js](https://habr.com/ru/articles/748584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748584)
-- [«Новичок ищи знакомый значок» или куда идти работать после курсов?](https://habr.com/ru/articles/748590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
