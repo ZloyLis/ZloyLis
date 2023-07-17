@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование составных триггеров &lpar;compound triggers&rpar; Oracle](https://habr.com/ru/articles/748422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748422)
+- [Эксперимент Штерна-Герлаха, сфера Блоха и квантовые вращения](https://habr.com/ru/articles/748416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748416)
 - [Как мы запускали демоприложения](https://habr.com/ru/companies/tinkoff/articles/747336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747336)
 - [Решение проблемы N+1 запроса с помощью группировки вызовов](https://habr.com/ru/articles/748302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748302)
 - [Обзор библиотек для скриншот-тестирования Android проектов. Часть 2](https://habr.com/ru/articles/748312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748312)
-- [Мобильная разработка за неделю #497 &lpar;10 — 16 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/748378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748378)
-- [[Перевод] До последнего байта: минимальный вариант Hello World для .NET](https://habr.com/ru/articles/748372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
