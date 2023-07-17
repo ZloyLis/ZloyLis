@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритмы поиска пути: Алгоритм дейкстры и А*](https://habr.com/ru/companies/otus/articles/748470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748470)
 - [Работа нестрогого равенства в JS на примере задачки](https://habr.com/ru/articles/748452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748452)
 - [[Перевод] Визуализация реальных масштабов проклятия размерности](https://habr.com/ru/companies/wunderfund/articles/748044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748044)
 - [Вышел Savant 0.2.4: компьютерное зрение на базе глубокого обучения для Nvidia Jetson и dGPU](https://habr.com/ru/articles/748438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748438)
 - [Правда ли Astro так быстр, сравнение с Nuxt 3](https://habr.com/ru/articles/748366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748366)
-- [Как добавлять свои мини-приложения в корпоративный суперапп VK Teams](https://habr.com/ru/companies/vk/articles/744994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
