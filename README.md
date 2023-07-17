@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фантастические pandas](https://habr.com/ru/articles/748556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748556)
+- [Плюсы и минусы FastAPI в 2023](https://habr.com/ru/articles/748552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748552)
 - [PINN &lpar;Physics-informed neural networks&rpar; и с чем их едят](https://habr.com/ru/articles/748538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748538)
 - [Решение дифференциальных уравнений с Python](https://habr.com/ru/companies/otus/articles/748532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748532)
 - [[Перевод] Самое сложное в ПО — не кодинг, а требования, или Почему разработчикам не стоит бояться ИИ](https://habr.com/ru/companies/ruvds/articles/748498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748498)
-- [Создание анимированных графиков с помощью Matlab](https://habr.com/ru/articles/748486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748486)
-- [[Перевод] Что нового в SwiftUI для iOS 17?](https://habr.com/ru/articles/748478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
