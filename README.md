@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #497 &lpar;10 — 16 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/748378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748378)
 - [[Перевод] До последнего байта: минимальный вариант Hello World для .NET](https://habr.com/ru/articles/748372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748372)
 - [[Перевод] Regex engine internals as a library. Part 1](https://habr.com/ru/articles/748362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748362)
 - [Читинг на интервью, proof of concept](https://habr.com/ru/articles/748360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748360)
 - [Docker больше не нужен](https://habr.com/ru/articles/748328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748328)
-- [Запуск блокнотов, запрещённых Google Colab TOS или SD webui в колабе без ограничений](https://habr.com/ru/articles/748316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
