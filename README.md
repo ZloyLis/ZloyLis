@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Новичок ищи знакомый значок» или почему стоит начинать трудовой путь в крупных компаниях](https://habr.com/ru/articles/748590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748590)
+- [Simba: Симуляция десятков тысяч частиц в потенциале Леннарда-Джонса на чистом Python с GPU-ускорением](https://habr.com/ru/articles/748430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748430)
 - [Кто такой тестировщик и как им стать с нуля в 2023 году?](https://habr.com/ru/articles/748574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748574)
 - [Security Week 2329: июльский набор патчей Microsoft и 5 уязвимостей zero-day](https://habr.com/ru/companies/kaspersky/articles/748548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748548)
 - [Фантастические pandas](https://habr.com/ru/articles/748556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748556)
-- [Плюсы и минусы FastAPI в 2023](https://habr.com/ru/articles/748552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748552)
-- [PINN &lpar;Physics-informed neural networks&rpar; и с чем их едят](https://habr.com/ru/articles/748538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
