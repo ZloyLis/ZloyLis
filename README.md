@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как на самом деле работает Java ClassLoader system? &lpar;с картинками&rpar; — Часть 1/3, Загрузка](https://habr.com/ru/articles/748758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748758)
 - [[Перевод] Генерация полиморфного вредоносного кода при помощи ИИ](https://habr.com/ru/companies/bastion/articles/745572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745572)
 - [Почему разрабатывать ПО действительно сложно?](https://habr.com/ru/companies/wrike/articles/748702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748702)
 - [Дайджест мобильной разработки за июнь](https://habr.com/ru/companies/vk/articles/748630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748630)
 - [Zigbee-LAN координатор на EFR32MG21 Silicon Labs](https://habr.com/ru/articles/748700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748700)
-- [Волшебный шкаф тестировщика: как мы победили человеческий фактор в учёте девайсов](https://habr.com/ru/companies/kaspersky/articles/748572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
