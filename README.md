@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Из MS Azure в on-premise. Особенности одного «заземления» табулярной модели SSAS](https://habr.com/ru/companies/simbirsoft/articles/748434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748434)
-- [Многопоточность &lpar;Multithreading&rpar; для практического программирования](https://habr.com/ru/articles/748684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748684)
-- [Изучаем Kirigami от KDE: примеры разработки приложений](https://habr.com/ru/companies/first/articles/748662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748662)
-- [[Перевод] React Content Elements](https://habr.com/ru/articles/748678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748678)
-- [Асинхронность в JS: как выполнять долгие сетевые запросы без блокирования основного потока](https://habr.com/ru/articles/748660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748660)
+- [Zigbee-LAN координатор на EFR32MG21 Silicon Labs](https://habr.com/ru/articles/748700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748700)
+- [Волшебный шкаф тестировщика: как мы победили человеческий фактор в учёте девайсов](https://habr.com/ru/companies/kaspersky/articles/748572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748572)
+- [Как управлять инновациями через корпоративную культуру?](https://habr.com/ru/companies/oleg-bunin/articles/719756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719756)
+- [Носим автотесты на руках](https://habr.com/ru/companies/2gis/articles/748696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748696)
+- [[sobjectizer] Несколько слов о релизе версии 5.8.0](https://habr.com/ru/articles/745782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
