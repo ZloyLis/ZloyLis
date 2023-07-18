@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Если ваш фронтендер перестал бояться IE6, покажите ему SmartTV](https://habr.com/ru/companies/yandex/articles/743104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743104)
-- [Убираем дублирование конфигурации Gradle и при чём здесь косы и горы](https://habr.com/ru/articles/748658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748658)
-- [SpringBoot и вебсокеты: едем в кластер](https://habr.com/ru/articles/743252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743252)
-- [Как сделать мини-игру с Кузей с помощью голосового бота. Часть 2: Настройка Godot](https://habr.com/ru/companies/mtt/articles/748270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748270)
-- [Разработка веб-приложений с помощью Nim](https://habr.com/ru/articles/748624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748624)
+- [Из MS Azure в on-premise. Особенности одного «заземления» табулярной модели SSAS](https://habr.com/ru/companies/simbirsoft/articles/748434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748434)
+- [Многопоточность &lpar;Multithreading&rpar; для практического программирования](https://habr.com/ru/articles/748684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748684)
+- [Изучаем Kirigami от KDE: примеры разработки приложений](https://habr.com/ru/companies/first/articles/748662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748662)
+- [[Перевод] React Content Elements](https://habr.com/ru/articles/748678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748678)
+- [Асинхронность в JS: как выполнять долгие сетевые запросы без блокирования основного потока](https://habr.com/ru/articles/748660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
