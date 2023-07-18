@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Использование ИИ-инструментов в разработке ПО](https://habr.com/ru/articles/748846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748846)
+- [Авторизация по биометрии — Kotlin](https://habr.com/ru/articles/748872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748872)
+- [[Перевод] Лидерство в тестировании: моделирование и покрытие](https://habr.com/ru/articles/748850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748850)
 - [PROFIBUS DP-V0 &amp;amp; STM32](https://habr.com/ru/articles/748844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748844)
 - [Уровень власти руководителя проекта или PfMP сертифиция &lpar;портфолио&rpar;](https://habr.com/ru/articles/748800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748800)
 - [Набрать сеньоров — путь в никуда! Как в МКБ растят своих специалистов](https://habr.com/ru/companies/mkb/articles/748550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748550)
-- [Многоуровневое моделирование работы мозга](https://habr.com/ru/companies/siriusuniversity/articles/748792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
