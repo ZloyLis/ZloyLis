@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [И рыбку съесть и Fullstack-разработчиком стать?](https://habr.com/ru/articles/748782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748782)
+- [Добавляем поддержку пользовательского языка в IntelliJ с помощью ANTLR](https://habr.com/ru/articles/748622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748622)
+- [Работа с асинхронными операциями с помощью Kotlin Coroutines](https://habr.com/ru/articles/747858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747858)
 - [Как на самом деле работает Java ClassLoader system? &lpar;с картинками&rpar; — Часть 1/3, Загрузка](https://habr.com/ru/articles/748758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748758)
-- [[Перевод] Генерация полиморфного вредоносного кода при помощи ИИ](https://habr.com/ru/companies/bastion/articles/745572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745572)
-- [Почему разрабатывать ПО действительно сложно?](https://habr.com/ru/companies/wrike/articles/748702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748702)
-- [Дайджест мобильной разработки за июнь](https://habr.com/ru/companies/vk/articles/748630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748630)
-- [Zigbee-LAN координатор на EFR32MG21 Silicon Labs](https://habr.com/ru/articles/748700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748700)
+- [[Перевод] Генерация полиморфного вредоносного кода при помощи ChatGPT](https://habr.com/ru/companies/bastion/articles/745572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
