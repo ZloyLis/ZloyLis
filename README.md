@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Если ваш фронтендер перестал бояться IE6, покажите ему SmartTV](https://habr.com/ru/companies/yandex/articles/743104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743104)
+- [Убираем дублирование конфигурации Gradle и при чём здесь косы и горы](https://habr.com/ru/articles/748658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748658)
 - [SpringBoot и вебсокеты: едем в кластер](https://habr.com/ru/articles/743252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743252)
 - [Как сделать мини-игру с Кузей с помощью голосового бота. Часть 2: Настройка Godot](https://habr.com/ru/companies/mtt/articles/748270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748270)
 - [Разработка веб-приложений с помощью Nim](https://habr.com/ru/articles/748624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748624)
-- [Мифы no-code разработки](https://habr.com/ru/articles/746162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746162)
-- [ИИ в сердце Африки. Как мы съездили в Руанду на крупнейшую конференцию по машинному обучению ICLR 2023](https://habr.com/ru/companies/airi/articles/748504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
