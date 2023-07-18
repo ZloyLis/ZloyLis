@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многоуровневое моделирование работы мозга](https://habr.com/ru/companies/siriusuniversity/articles/748792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748792)
+- [Черт тебя возьми, CSS](https://habr.com/ru/companies/ruvds/articles/746478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746478)
+- [Автоматизация найма: как мы запустили HR-бота и избавились от рутинной работы при поиске кандидатов](https://habr.com/ru/companies/agima/articles/748742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748742)
 - [И рыбку съесть и Fullstack-разработчиком стать?](https://habr.com/ru/articles/748782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748782)
 - [Добавляем поддержку пользовательского языка в IntelliJ с помощью ANTLR](https://habr.com/ru/articles/748622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748622)
-- [Работа с асинхронными операциями с помощью Kotlin Coroutines](https://habr.com/ru/articles/747858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747858)
-- [Как на самом деле работает Java ClassLoader system? &lpar;с картинками&rpar; — Часть 1/3, Загрузка](https://habr.com/ru/articles/748758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748758)
-- [[Перевод] Генерация полиморфного вредоносного кода при помощи ChatGPT](https://habr.com/ru/companies/bastion/articles/745572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
