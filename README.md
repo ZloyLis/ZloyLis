@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SpringBoot и вебсокеты: едем в кластер](https://habr.com/ru/articles/743252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743252)
 - [Как сделать мини-игру с Кузей с помощью голосового бота. Часть 2: Настройка Godot](https://habr.com/ru/companies/mtt/articles/748270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748270)
 - [Разработка веб-приложений с помощью Nim](https://habr.com/ru/articles/748624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748624)
 - [Мифы no-code разработки](https://habr.com/ru/articles/746162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746162)
 - [ИИ в сердце Африки. Как мы съездили в Руанду на крупнейшую конференцию по машинному обучению ICLR 2023](https://habr.com/ru/companies/airi/articles/748504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748504)
-- [Применение формулы бинома для определения простых чисел](https://habr.com/ru/articles/748592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
