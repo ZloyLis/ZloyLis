@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Использование ИИ-инструментов в разработке ПО](https://habr.com/ru/articles/748846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748846)
+- [PROFIBUS DP-V0 &amp;amp; STM32](https://habr.com/ru/articles/748844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748844)
+- [Уровень власти руководителя проекта или PfMP сертифиция &lpar;портфолио&rpar;](https://habr.com/ru/articles/748800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748800)
+- [Набрать сеньоров — путь в никуда! Как в МКБ растят своих специалистов](https://habr.com/ru/companies/mkb/articles/748550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748550)
 - [Многоуровневое моделирование работы мозга](https://habr.com/ru/companies/siriusuniversity/articles/748792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748792)
-- [Черт тебя возьми, CSS](https://habr.com/ru/companies/ruvds/articles/746478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746478)
-- [Автоматизация найма: как мы запустили HR-бота и избавились от рутинной работы при поиске кандидатов](https://habr.com/ru/companies/agima/articles/748742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748742)
-- [И рыбку съесть и Fullstack-разработчиком стать?](https://habr.com/ru/articles/748782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748782)
-- [Добавляем поддержку пользовательского языка в IntelliJ с помощью ANTLR](https://habr.com/ru/articles/748622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
