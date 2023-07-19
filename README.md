@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Верификация распределённых систем с применением Isabelle/HOL](https://habr.com/ru/companies/timeweb/articles/748812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748812)
 - [Как разработка веб и мобильных приложений под ключ помогает бизнесу увеличить прибыль](https://habr.com/ru/articles/748940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748940)
 - [Эйлер, Чёрч и Мандельброт — этюд о красоте и математике](https://habr.com/ru/articles/724768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724768)
 - [Apple Pro Weekly News &lpar;10.07 – 16.07.23&rpar;](https://habr.com/ru/articles/748902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748902)
 - [Верстальная программа TeX: какие изменения сделаны в 2021 году](https://habr.com/ru/articles/748900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748900)
-- [Сервис для обнаружения типа устройства пользователя на typescript и vue](https://habr.com/ru/articles/748890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
