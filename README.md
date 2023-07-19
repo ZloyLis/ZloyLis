@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерн Space-Based для масштабируемых систем](https://habr.com/ru/companies/otus/articles/749036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749036)
 - [Идеальное собеседование. Мой опыт тимлида, как нанимать с помощью бизнес-кейсов](https://habr.com/ru/articles/749084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749084)
 - [Как провести внутреннюю стажировку](https://habr.com/ru/companies/rtlabs/articles/749024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749024)
 - [Компонентный подход в вёрстке: подробный разбор для джунов и сочувствующих](https://habr.com/ru/companies/yandex_praktikum/articles/748794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748794)
 - [Положите это в корзину: как настроить рекомендательную систему для предсказания покупок на основе предыдущего опыта](https://habr.com/ru/companies/automacon/articles/749050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749050)
-- [[Перевод] Безопасность типов и ресурсов в современном C++](https://habr.com/ru/articles/749046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
