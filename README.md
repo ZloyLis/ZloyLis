@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализуем Type inference на Rust — Часть #1: Unification](https://habr.com/ru/articles/748978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748978)
+- [Roadmap для начинающих DevOps-инженеров: личный опыт](https://habr.com/ru/companies/digitalleague/articles/748972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748972)
+- [Как бустануть джуну в карьере: истории студентов AI Talent Hub](https://habr.com/ru/companies/aitalenthub/articles/748970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748970)
 - [[Перевод] Верификация распределённых систем с применением Isabelle/HOL](https://habr.com/ru/companies/timeweb/articles/748812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748812)
 - [Как разработка веб и мобильных приложений под ключ помогает бизнесу увеличить прибыль](https://habr.com/ru/articles/748940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748940)
-- [Эйлер, Чёрч и Мандельброт — этюд о красоте и математике](https://habr.com/ru/articles/724768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724768)
-- [Apple Pro Weekly News &lpar;10.07 – 16.07.23&rpar;](https://habr.com/ru/articles/748902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748902)
-- [Верстальная программа TeX: какие изменения сделаны в 2021 году](https://habr.com/ru/articles/748900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
