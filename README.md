@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компонентный подход в вёрстке: подробный разбор для джунов и сочувствующих](https://habr.com/ru/companies/yandex_praktikum/articles/748794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748794)
+- [Положите это в корзину: как настроить рекомендательную систему для предсказания покупок на основе предыдущего опыта](https://habr.com/ru/companies/automacon/articles/749050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749050)
 - [[Перевод] Безопасность типов и ресурсов в современном C++](https://habr.com/ru/articles/749046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749046)
 - [Внедряем Gitleaks для анализа pull request на наличие секретов в Azure DevOps Server](https://habr.com/ru/companies/ingos_it/articles/738994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738994)
 - [Онбординг пользователей, революция у аналитиков, веб-доступность: как сотрудники МТС Банка идеи до прода довели](https://habr.com/ru/specials/748768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748768)
-- [Go: особенности написания конкурентных программ](https://habr.com/ru/articles/744038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744038)
-- [VoiceChat на несколько человек с блэкджеком и &lpar;Web?&rpar;UI над UDP socket python](https://habr.com/ru/articles/748626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
