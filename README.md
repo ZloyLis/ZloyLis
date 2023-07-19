@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Go: особенности написания конкурентных программ](https://habr.com/ru/articles/744038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744038)
+- [VoiceChat на несколько человек с блэкджеком и &lpar;Web?&rpar;UI над UDP socket python](https://habr.com/ru/articles/748626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748626)
+- [Как написать идеальный автотест: 25 джедайских принципов](https://habr.com/ru/companies/vk/articles/748776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748776)
 - [Реализуем Type inference на Rust — Часть #1: Unification](https://habr.com/ru/articles/748978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748978)
 - [Roadmap для начинающих DevOps-инженеров: личный опыт](https://habr.com/ru/companies/digitalleague/articles/748972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748972)
-- [Как бустануть джуну в карьере: истории студентов AI Talent Hub](https://habr.com/ru/companies/aitalenthub/articles/748970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748970)
-- [[Перевод] Верификация распределённых систем с применением Isabelle/HOL](https://habr.com/ru/companies/timeweb/articles/748812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748812)
-- [Как разработка веб и мобильных приложений под ключ помогает бизнесу увеличить прибыль](https://habr.com/ru/articles/748940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
