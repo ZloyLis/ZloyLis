@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Онбординг пользователей, революция у аналитиков, веб-доступность: как сотрудники МТС Банка идеи до прода довели](https://habr.com/ru/specials/748768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748768)
 - [Go: особенности написания конкурентных программ](https://habr.com/ru/articles/744038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744038)
 - [VoiceChat на несколько человек с блэкджеком и &lpar;Web?&rpar;UI над UDP socket python](https://habr.com/ru/articles/748626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748626)
 - [Как написать идеальный автотест: 25 джедайских принципов](https://habr.com/ru/companies/vk/articles/748776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748776)
 - [Реализуем Type inference на Rust — Часть #1: Unification](https://habr.com/ru/articles/748978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748978)
-- [Roadmap для начинающих DevOps-инженеров: личный опыт](https://habr.com/ru/companies/digitalleague/articles/748972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
