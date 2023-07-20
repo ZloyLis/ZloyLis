@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пишем виртуальную машину &lpar;интерпретатор&rpar; простого байткода + JIT компиляция](https://habr.com/ru/articles/749152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749152)
-- [10 курсов, которые помогут “ворваться” в тестирование и остаться там](https://habr.com/ru/companies/X5Tech/articles/749396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749396)
-- [Event Propagation: фазы погружения &lpar;capturing&rpar; и всплытия &lpar;bubbling&rpar;](https://habr.com/ru/articles/749376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749376)
-- [Как мемоизация влияет на производительность React-приложения](https://habr.com/ru/companies/oleg-bunin/articles/749294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749294)
-- [Android-разработка для самых маленьких](https://habr.com/ru/articles/749342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749342)
+- [API Яндекс.Диск &lpar;PHP&rpar; #6: Готовый класс для работы с API через Curl](https://habr.com/ru/articles/749176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749176)
+- [API Яндекс.Диск &lpar;PHP&rpar; #5: Работа с корзиной](https://habr.com/ru/articles/749174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749174)
+- [API Яндекс.Диск &lpar;PHP&rpar; #4: Публикация и удаление файлов](https://habr.com/ru/articles/749172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749172)
+- [API Яндекс.Диск &lpar;PHP&rpar; #3: Загрузка и скачивание файлов](https://habr.com/ru/articles/749168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749168)
+- [API Яндекс.Диск &lpar;PHP&rpar; #2: Получение информации о файлах и директориях](https://habr.com/ru/articles/749162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
