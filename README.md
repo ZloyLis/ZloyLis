@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модели прогнозирования продаж в «Магните»: Легенда об Ансамбле](https://habr.com/ru/companies/magnit/articles/748680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748680)
+- [Жизнь после GitHub: как развиваются отечественные репозитории открытого программного кода](https://habr.com/ru/companies/sberbank/articles/749236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749236)
 - [Как мы WASM в PWA на Flutter прикручивали](https://habr.com/ru/articles/749208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749208)
 - [Неразрешимые проблемы разработки](https://habr.com/ru/articles/749206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749206)
 - [Не ешь просрочку: Как Go и Tesseract помогают распознавать срок годности продуктов](https://habr.com/ru/articles/749218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749218)
-- [[Перевод] Regex engine internals as a library. Part 2](https://habr.com/ru/articles/749124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749124)
-- [Паттерн Space-Based для масштабируемых систем](https://habr.com/ru/companies/otus/articles/749036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
