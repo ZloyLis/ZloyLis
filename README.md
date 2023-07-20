@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не ешь просрочку: Как Go и Tesseract помогают распознавать срок годности продуктов](https://habr.com/ru/articles/749218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749218)
 - [[Перевод] Regex engine internals as a library. Part 2](https://habr.com/ru/articles/749124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749124)
 - [Паттерн Space-Based для масштабируемых систем](https://habr.com/ru/companies/otus/articles/749036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749036)
 - [Идеальное собеседование. Мой опыт тимлида, как нанимать с помощью бизнес-кейсов](https://habr.com/ru/articles/749084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749084)
 - [Как провести внутреннюю стажировку](https://habr.com/ru/companies/rtlabs/articles/749024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749024)
-- [Компонентный подход в вёрстке: подробный разбор для джунов и сочувствующих](https://habr.com/ru/companies/yandex_praktikum/articles/748794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
