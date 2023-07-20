@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Объектно-ориентированное программирование в размышлениях и опытах хоккеиста Степана Осечкина](https://habr.com/ru/companies/yandex_praktikum/articles/749180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749180)
+- [Человекочитаемый код](https://habr.com/ru/articles/749182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749182)
+- [Монотонная кубическая интерполяция](https://habr.com/ru/articles/749288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749288)
+- [Как управлять качеством продукта в условиях микросервисной архитектуры](https://habr.com/ru/companies/tinkoff/articles/749282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749282)
 - [Готовим экспертов: совместная с ВШЭ магистерская программа «Внедрение и оптимизация комплексных информационных систем»](https://habr.com/ru/companies/1c/articles/749264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749264)
-- [Модели прогнозирования продаж в «Магните»: Легенда об Ансамбле](https://habr.com/ru/companies/magnit/articles/748680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748680)
-- [Жизнь после GitHub: как развиваются отечественные репозитории открытого программного кода](https://habr.com/ru/companies/sberbank/articles/749236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749236)
-- [Как мы WASM в PWA на Flutter прикручивали](https://habr.com/ru/articles/749208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749208)
-- [Неразрешимые проблемы разработки](https://habr.com/ru/articles/749206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
