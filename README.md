@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Яндекс.Диск &lpar;PHP&rpar; #6: Готовый класс для работы с API через Curl](https://habr.com/ru/articles/749176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749176)
+- [[recovery mode] API Яндекс.Диск &lpar;PHP&rpar; #6: Готовый класс для работы с API через Curl](https://habr.com/ru/articles/749462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749462)
 - [API Яндекс.Диск &lpar;PHP&rpar; #5: Работа с корзиной](https://habr.com/ru/articles/749174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749174)
 - [API Яндекс.Диск &lpar;PHP&rpar; #4: Публикация и удаление файлов](https://habr.com/ru/articles/749172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749172)
 - [API Яндекс.Диск &lpar;PHP&rpar; #3: Загрузка и скачивание файлов](https://habr.com/ru/articles/749168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749168)
