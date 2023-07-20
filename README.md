@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Особенности разработки автотестов различными инструментами, а также статистика по использованию](https://habr.com/ru/articles/749322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749322)
+- [[Перевод] Моя 24-летняя HP Jornada может то, на что не способен современный iPhone](https://habr.com/ru/companies/beeline_tech/articles/749316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749316)
 - [Объектно-ориентированное программирование в размышлениях и опытах хоккеиста Степана Осечкина](https://habr.com/ru/companies/yandex_praktikum/articles/749180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749180)
 - [Человекочитаемый код](https://habr.com/ru/articles/749182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749182)
 - [Монотонная кубическая интерполяция](https://habr.com/ru/articles/749288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749288)
-- [Как управлять качеством продукта в условиях микросервисной архитектуры](https://habr.com/ru/companies/tinkoff/articles/749282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749282)
-- [Готовим экспертов: совместная с ВШЭ магистерская программа «Внедрение и оптимизация комплексных информационных систем»](https://habr.com/ru/companies/1c/articles/749264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
