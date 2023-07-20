@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Propagation: фазы погружения &lpar;capturing&rpar; и всплытия &lpar;bubbling&rpar;](https://habr.com/ru/articles/749376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749376)
 - [Как мемоизация влияет на производительность React-приложения](https://habr.com/ru/companies/oleg-bunin/articles/749294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749294)
 - [Android-разработка для самых маленьких](https://habr.com/ru/articles/749342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749342)
 - [[Перевод] Бóльшая часть технического контента — дерьмо](https://habr.com/ru/articles/749340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749340)
 - [Как сделать редизайн сервиса: рассказываем на примере средневекового замка](https://habr.com/ru/companies/agima/articles/749320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749320)
-- [[recovery mode] Особенности разработки автотестов различными инструментами, а также статистика по использованию](https://habr.com/ru/articles/749322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
