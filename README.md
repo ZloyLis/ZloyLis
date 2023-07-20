@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем виртуальную машину &lpar;интерпретатор&rpar; простого байткода + JIT компиляция](https://habr.com/ru/articles/749152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749152)
 - [10 курсов, которые помогут “ворваться” в тестирование и остаться там](https://habr.com/ru/companies/X5Tech/articles/749396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749396)
 - [Event Propagation: фазы погружения &lpar;capturing&rpar; и всплытия &lpar;bubbling&rpar;](https://habr.com/ru/articles/749376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749376)
 - [Как мемоизация влияет на производительность React-приложения](https://habr.com/ru/companies/oleg-bunin/articles/749294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749294)
 - [Android-разработка для самых маленьких](https://habr.com/ru/articles/749342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749342)
-- [[Перевод] Бóльшая часть технического контента — дерьмо](https://habr.com/ru/articles/749340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
