@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда руководитель у нас может сам прийти к вам с повышением зарплаты](https://habr.com/ru/companies/gazprombank/articles/749440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749440)
-- [Совершенство достигается к моменту краха. История о том, как мы создали лабораторный стимулятор](https://habr.com/ru/companies/samsung/articles/749472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749472)
-- [5 интеграций в React: Контент + Дизайн + Разработка](https://habr.com/ru/articles/749484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749484)
-- [Новый дом для Фараона &lpar;Pharaoh&rpar;](https://habr.com/ru/articles/749478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749478)
-- [[recovery mode] API Яндекс.Диск &lpar;PHP&rpar; #6: Готовый класс для работы с API через Curl](https://habr.com/ru/articles/749462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749462)
+- [Как измерить надёжность вашего приложения](https://habr.com/ru/companies/avito/articles/742960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742960)
+- [Виртуальные устройства ввода в тестировании](https://habr.com/ru/companies/swd_es/articles/732196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732196)
+- [Пятеро в танке: зачем фронтендерам в 2023 году делать игру из 90-х](https://habr.com/ru/companies/yandex_praktikum/articles/749092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749092)
+- [Поиск оси вращения объекта в компьютерной томографии. Обзор методов](https://habr.com/ru/articles/749336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749336)
+- [Создание, тестирование и обслуживание распределённых веб-сервисов: новая магистерская программа VK Education и ИТМО](https://habr.com/ru/companies/vk/articles/748082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
