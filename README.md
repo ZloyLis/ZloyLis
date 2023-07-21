@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы кибериммуннизировали IoT-контроллер](https://habr.com/ru/companies/kaspersky/articles/749618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749618)
+- [Улучшаем покупательский опыт: куда развивать работающую рекомендательную систему](https://habr.com/ru/companies/automacon/articles/749632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749632)
 - [[Перевод] Восемь самых востребованных языков программирования в 2023 году](https://habr.com/ru/companies/productivity_inside/articles/749616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749616)
 - [Ежегодное исследование IT-брендов работодателей от Хабра и Экопси](https://habr.com/ru/specials/747544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747544)
 - [Спортивное программирование: что это, зачем и какие задачи приходится решать](https://habr.com/ru/companies/ru_mts/articles/749608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749608)
-- [[Перевод] Заметки об основах программной архитектуры](https://habr.com/ru/companies/piter/articles/748094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748094)
-- [Алгоритм быстрого поиска при помощи хэширования](https://habr.com/ru/articles/749600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
