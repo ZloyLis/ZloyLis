@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация персонализированных стикеров на основе DreamBooth](https://habr.com/ru/companies/vk/articles/749136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749136)
+- [KeyDB и Redis: в поисках серебряной пули — in-memory replicated DB &lpar;Replicated IMDB&rpar;](https://habr.com/ru/companies/flant/articles/747760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747760)
 - [Как измерить надёжность вашего приложения](https://habr.com/ru/companies/avito/articles/742960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742960)
 - [Виртуальные устройства ввода в тестировании](https://habr.com/ru/companies/swd_es/articles/732196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732196)
 - [Пятеро в танке: зачем фронтендерам в 2023 году делать игру из 90-х](https://habr.com/ru/companies/yandex_praktikum/articles/749092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749092)
-- [Поиск оси вращения объекта в компьютерной томографии. Обзор методов](https://habr.com/ru/articles/749336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749336)
-- [Создание, тестирование и обслуживание распределённых веб-сервисов: новая магистерская программа VK Education и ИТМО](https://habr.com/ru/companies/vk/articles/748082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
