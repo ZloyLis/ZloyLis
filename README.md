@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Kubernetes в мечтах к Kubernetes в проде. Часть 2: о Kubernetes](https://habr.com/ru/companies/spbifmo/articles/749560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749560)
+- [Под капотом Python. Тонкости популярных конструкций with и contextmanager](https://habr.com/ru/companies/beeline_cloud/articles/749580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749580)
+- [Как правильно написать калькулятор на питоне с помощью eval&lpar;&rpar;](https://habr.com/ru/articles/749574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749574)
+- [Эффективное и комплексное устранение утечек памяти в Android](https://habr.com/ru/articles/749568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749568)
 - [Логи Xcode — читаем самостоятельно?](https://habr.com/ru/articles/749554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749554)
-- [Реализация WebRTC в Node JS. Передача видео с Raspberry PI до Web](https://habr.com/ru/articles/749550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749550)
-- [Релиз SDK UNIGINE 2.17: Direct X 12 &amp;amp; Vulkan, динамическое глобальное освещение, оптимизации, интеграция с Photon](https://habr.com/ru/companies/unigine/articles/749548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749548)
-- [Сити-фермер, дизайнер виртуальных миров и другие профессии будущего в сфере сельского хозяйства](https://habr.com/ru/companies/rshb/articles/749504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749504)
-- [Генерация персонализированных стикеров на основе DreamBooth](https://habr.com/ru/companies/vk/articles/749136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
