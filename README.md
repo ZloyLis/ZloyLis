@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совершенство достигается к моменту краха. История о том, как мы создали лабораторный стимулятор](https://habr.com/ru/companies/samsung/articles/749472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749472)
 - [5 интеграций в React: Контент + Дизайн + Разработка](https://habr.com/ru/articles/749484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749484)
 - [Новый дом для Фараона &lpar;Pharaoh&rpar;](https://habr.com/ru/articles/749478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749478)
 - [[recovery mode] API Яндекс.Диск &lpar;PHP&rpar; #6: Готовый класс для работы с API через Curl](https://habr.com/ru/articles/749462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749462)
 - [API Яндекс.Диск &lpar;PHP&rpar; #5: Работа с корзиной](https://habr.com/ru/articles/749174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749174)
-- [API Яндекс.Диск &lpar;PHP&rpar; #4: Публикация и удаление файлов](https://habr.com/ru/articles/749172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
