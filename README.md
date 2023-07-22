@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Развлечение на выходные: собираем Android для Raspberry Pi из исходного кода](https://habr.com/ru/articles/749724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749724)
 - [Управление памятью в PHP. Сборка мусора, слабые ссылки и прочая челядь](https://habr.com/ru/articles/748352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748352)
 - [MVP with Router](https://habr.com/ru/articles/749700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749700)
 - [Измерение покрытия python сервисов для end-to-end тестов](https://habr.com/ru/articles/749688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749688)
 - [Аналитика. Обзор, рекомендации, акценты применения](https://habr.com/ru/companies/alfastrah/articles/748570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748570)
-- [Joystick для ПК на базе Arduino](https://habr.com/ru/articles/749656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
