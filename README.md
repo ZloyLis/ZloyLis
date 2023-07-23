@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Элегантные «квантовые» микросервисы](https://habr.com/ru/articles/729138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729138)
 - [Ray Casting 3D игра на Python + PyGame](https://habr.com/ru/articles/749764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749764)
 - [Ряд Фурье как Фильтр Нижних Частот](https://habr.com/ru/articles/748334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748334)
 - [[Перевод] Regex engine internals as a library. Part 3](https://habr.com/ru/articles/749730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749730)
 - [Минималистичный загрузчик файлов](https://habr.com/ru/articles/749746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749746)
-- [Развлечение на выходные: собираем Android для Raspberry Pi из исходного кода](https://habr.com/ru/articles/749724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
