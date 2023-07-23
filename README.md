@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Viem &amp;amp; Wagmi — новая замена ethers](https://habr.com/ru/articles/749836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749836)
+- [Первое доказательство невскрываемой стеганографии](https://habr.com/ru/companies/globalsign/articles/749834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749834)
 - [Управление временем жизни объектов: почему это важно и почему для этого пришлось создать новый язык «Аргентум»](https://habr.com/ru/articles/749806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749806)
 - [[Перевод] Исследование производительности анимации на основе скрола страницы](https://habr.com/ru/articles/749794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749794)
 - [Как два байта переслать: контрибьютим в KPHP](https://habr.com/ru/articles/749792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749792)
-- [Мобильная разработка за неделю #498 &lpar;17 — 23 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/749780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749780)
-- [Элегантные «квантовые» микросервисы](https://habr.com/ru/articles/729138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
