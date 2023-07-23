@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исследование производительности анимации на основе скрола страницы](https://habr.com/ru/articles/749794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749794)
+- [Как два байта переслать: контрибьютим в KPHP](https://habr.com/ru/articles/749792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749792)
 - [Мобильная разработка за неделю #498 &lpar;17 — 23 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/749780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749780)
 - [Элегантные «квантовые» микросервисы](https://habr.com/ru/articles/729138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729138)
 - [Ray Casting 3D игра на Python + PyGame](https://habr.com/ru/articles/749764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749764)
-- [Ряд Фурье как Фильтр Нижних Частот](https://habr.com/ru/articles/748334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748334)
-- [[Перевод] Regex engine internals as a library. Part 3](https://habr.com/ru/articles/749730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
