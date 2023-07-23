@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ряд Фурье как Фильтр Нижних Частот](https://habr.com/ru/articles/748334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748334)
+- [[Перевод] Regex engine internals as a library. Part 3](https://habr.com/ru/articles/749730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749730)
 - [Минималистичный загрузчик файлов](https://habr.com/ru/articles/749746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749746)
 - [Развлечение на выходные: собираем Android для Raspberry Pi из исходного кода](https://habr.com/ru/articles/749724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749724)
 - [Управление памятью в PHP. Сборка мусора, слабые ссылки и прочая челядь](https://habr.com/ru/articles/748352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748352)
-- [MVP with Router](https://habr.com/ru/articles/749700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749700)
-- [Измерение покрытия python сервисов для end-to-end тестов](https://habr.com/ru/articles/749688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
