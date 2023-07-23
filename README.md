@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мнение выпускников о МГТУ им. Н.Э.Баумана](https://habr.com/ru/articles/749846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749846)
+- [Поиск по произвольным параметрам](https://habr.com/ru/articles/749844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749844)
 - [Viem &amp;amp; Wagmi — новая замена ethers](https://habr.com/ru/articles/749836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749836)
 - [Первое доказательство невскрываемой стеганографии](https://habr.com/ru/companies/globalsign/articles/749834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749834)
 - [Управление временем жизни объектов: почему это важно и почему для этого пришлось создать новый язык «Аргентум»](https://habr.com/ru/articles/749806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749806)
-- [[Перевод] Исследование производительности анимации на основе скрола страницы](https://habr.com/ru/articles/749794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749794)
-- [Как два байта переслать: контрибьютим в KPHP](https://habr.com/ru/articles/749792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
