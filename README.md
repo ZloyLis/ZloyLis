@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быть тупым тестировщиком](https://habr.com/ru/articles/750046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750046)
 - [Cocos Creator: Это самый мощный игровой движок, о котором вы не знали](https://habr.com/ru/articles/750034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750034)
 - [Тест: сумеете ли вы стать junior QA в большой компании](https://habr.com/ru/specials/743616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743616)
 - [Инструментация байт-кода Java](https://habr.com/ru/articles/750028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750028)
 - [TMS Qase — что изменилось? Каков путь?](https://habr.com/ru/articles/749652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749652)
-- [Симуляция реальности: разбираемся в мок-серверах и пишем свой](https://habr.com/ru/companies/alfa/articles/749890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
