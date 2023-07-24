@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Starting Electronics: руководство по веб-серверам на Arduino. Часть 15. HTML теги, CSS и JavaScript](https://habr.com/ru/companies/timeweb/articles/749768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749768)
+- [Web Services в Joomla 4](https://habr.com/ru/articles/747730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747730)
+- [Покажи мне свой гитхаб](https://habr.com/ru/articles/749876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749876)
 - [Роль тестировщика на каждом этапе гибкой модели разработки](https://habr.com/ru/companies/yandex_praktikum/articles/749300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749300)
 - [Процесс работы системного аналитика: практическое руководство, примеры и шаблоны](https://habr.com/ru/articles/749524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749524)
-- [[Перевод] Как React 18 улучшает производительность приложения](https://habr.com/ru/articles/749866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749866)
-- [Как на ранних стадиях проекта получить максимум информации от заказчика за минимум времени, USM как способ снизить риски](https://habr.com/ru/articles/749854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749854)
-- [Мнение выпускников о МГТУ им. Н.Э.Баумана](https://habr.com/ru/articles/749846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
