@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Построение компромиссных решений и определение эффективности Парето в многокритериальных системах](https://habr.com/ru/companies/otus/articles/750038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750038)
 - [Быть тупым тестировщиком](https://habr.com/ru/articles/750046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750046)
 - [Cocos Creator: Это самый мощный игровой движок, о котором вы не знали](https://habr.com/ru/articles/750034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750034)
 - [Тест: сумеете ли вы стать junior QA в большой компании](https://habr.com/ru/specials/743616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743616)
 - [Инструментация байт-кода Java](https://habr.com/ru/articles/750028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750028)
-- [TMS Qase — что изменилось? Каков путь?](https://habr.com/ru/articles/749652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
