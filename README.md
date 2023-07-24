@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интересные трюки JS, HTML и CSS, #2](https://habr.com/ru/companies/ruvds/articles/748950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748950)
+- [Преобразование интуиции в управляемые данные: динамика продуктовой аналитики](https://habr.com/ru/companies/comindware/articles/749900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749900)
 - [[Перевод] Starting Electronics: руководство по веб-серверам на Arduino. Часть 15. HTML теги, CSS и JavaScript](https://habr.com/ru/companies/timeweb/articles/749768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749768)
 - [Web Services в Joomla 4](https://habr.com/ru/articles/747730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747730)
 - [Покажи мне свой гитхаб](https://habr.com/ru/articles/749876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749876)
-- [Роль тестировщика на каждом этапе гибкой модели разработки](https://habr.com/ru/companies/yandex_praktikum/articles/749300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749300)
-- [Процесс работы системного аналитика: практическое руководство, примеры и шаблоны](https://habr.com/ru/articles/749524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
