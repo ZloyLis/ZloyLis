@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Процесс работы системного аналитика: практическое руководство, примеры и шаблоны](https://habr.com/ru/articles/749524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749524)
+- [[Перевод] Как React 18 улучшает производительность приложения](https://habr.com/ru/articles/749866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749866)
+- [Учим ламу говорить на руском](https://habr.com/ru/articles/749864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749864)
 - [Как на ранних стадиях проекта получить максимум информации от заказчика за минимум времени, USM как способ снизить риски](https://habr.com/ru/articles/749854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749854)
 - [Мнение выпускников о МГТУ им. Н.Э.Баумана](https://habr.com/ru/articles/749846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749846)
-- [Поиск по произвольным параметрам](https://habr.com/ru/articles/749844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749844)
-- [Viem &amp;amp; Wagmi — новая замена ethers](https://habr.com/ru/articles/749836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749836)
-- [Первое доказательство невскрываемой стеганографии](https://habr.com/ru/companies/globalsign/articles/749834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
