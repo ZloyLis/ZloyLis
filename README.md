@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрение зависимостей в ES6+ «на пальцах»](https://habr.com/ru/articles/750104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750104)
 - [Postman: Основы тестирования API и первые шаги с инструментом](https://habr.com/ru/articles/750096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750096)
 - [Вывод типов в TypeScript. Неизменяемый массив конкретных строковых значений](https://habr.com/ru/articles/750074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750074)
 - [Apple Pro Weekly News &lpar;17.07 – 23.07.23&rpar;](https://habr.com/ru/articles/750070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750070)
 - [Построение компромиссных решений и определение эффективности Парето в многокритериальных системах](https://habr.com/ru/companies/otus/articles/750038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750038)
-- [Быть тупым тестировщиком](https://habr.com/ru/articles/750046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
