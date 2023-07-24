@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как на ранних стадиях проекта получить максимум информации от заказчика за минимум времени, USM как способ снизить риски](https://habr.com/ru/articles/749854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749854)
 - [Мнение выпускников о МГТУ им. Н.Э.Баумана](https://habr.com/ru/articles/749846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749846)
 - [Поиск по произвольным параметрам](https://habr.com/ru/articles/749844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749844)
 - [Viem &amp;amp; Wagmi — новая замена ethers](https://habr.com/ru/articles/749836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749836)
 - [Первое доказательство невскрываемой стеганографии](https://habr.com/ru/companies/globalsign/articles/749834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749834)
-- [Управление временем жизни объектов: почему это важно и почему для этого пришлось создать новый язык «Аргентум»](https://habr.com/ru/articles/749806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
