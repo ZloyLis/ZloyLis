@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TMS Qase — что изменилось? Каков путь?](https://habr.com/ru/articles/749652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749652)
 - [Симуляция реальности: разбираемся в мок-серверах и пишем свой](https://habr.com/ru/companies/alfa/articles/749890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749890)
 - [Идентификация посетителей: кейс Москомспорта](https://habr.com/ru/companies/perco/articles/749952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749952)
 - [[Перевод] Data Engineering: концепции, процессы и инструменты](https://habr.com/ru/articles/743308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743308)
 - [Звериные алгоритмы: какими представителями животного мира вдохновлялись исследователи для создания алгоритмов](https://habr.com/ru/companies/rshb/articles/749930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749930)
-- [[Перевод] Качественный набор данных от Microsoft для обучения компактных, но мощных языковых моделей, генерирующих код](https://habr.com/ru/companies/wunderfund/articles/749314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
