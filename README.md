@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Data Engineering: концепции, процессы и инструменты](https://habr.com/ru/articles/743308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743308)
+- [Звериные алгоритмы: какими представителями животного мира вдохновлялись исследователи для создания алгоритмов](https://habr.com/ru/companies/rshb/articles/749930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749930)
+- [[Перевод] Качественный набор данных от Microsoft для обучения компактных, но мощных языковых моделей, генерирующих код](https://habr.com/ru/companies/wunderfund/articles/749314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749314)
+- [Добавляем Starlark в приложение на Go](https://habr.com/ru/articles/749842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749842)
 - [Интересные трюки JS, HTML и CSS, #2](https://habr.com/ru/companies/ruvds/articles/748950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748950)
-- [Преобразование интуиции в управляемые данные: динамика продуктовой аналитики](https://habr.com/ru/companies/comindware/articles/749900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749900)
-- [[Перевод] Starting Electronics: руководство по веб-серверам на Arduino. Часть 15. HTML теги, CSS и JavaScript](https://habr.com/ru/companies/timeweb/articles/749768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749768)
-- [Web Services в Joomla 4](https://habr.com/ru/articles/747730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747730)
-- [Покажи мне свой гитхаб](https://habr.com/ru/articles/749876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
