@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Элегантные «квантовые» микросервисы](https://habr.com/ru/articles/729138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=729138)
-- [Виртуальные устройства ввода в тестировании](https://habr.com/ru/companies/swd_es/articles/732196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=732196)
-- [Создание Telegram бота на PHP #5: работа с хуками](https://habr.com/ru/articles/697016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=697016)
-- [Внедряем Gitleaks для анализа pull request на наличие секретов в Azure DevOps Server](https://habr.com/ru/companies/ingos_it/articles/738994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738994)
-- [Эйлер, Чёрч и Мандельброт — этюд о красоте и математике](https://habr.com/ru/articles/724768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=724768)
+- [OptionSet в деталях](https://habr.com/ru/companies/broadcast/articles/750162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750162)
+- [Явное управление ресурсами: пробуем новую фичу JavaScript и TypeScript](https://habr.com/ru/companies/ruvds/articles/745904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745904)
+- [Как ML не стал «новым» программированием, но улучшил старое](https://habr.com/ru/companies/oleg-bunin/articles/749862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749862)
+- [[Перевод] Как создавать качественные ML-системы. Часть 1: каждый проект должен начинаться с плана](https://habr.com/ru/companies/vk/articles/749850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749850)
+- [Новая функция домофона BAS IP — предоставление доступа по фотографии](https://habr.com/ru/articles/750148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
