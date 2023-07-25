@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OptionSet в деталях](https://habr.com/ru/companies/broadcast/articles/750162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750162)
+- [Явное управление ресурсами: пробуем новую фичу JavaScript и TypeScript](https://habr.com/ru/companies/ruvds/articles/745904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745904)
+- [Как ML не стал «новым» программированием, но улучшил старое](https://habr.com/ru/companies/oleg-bunin/articles/749862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749862)
+- [[Перевод] Как создавать качественные ML-системы. Часть 1: каждый проект должен начинаться с плана](https://habr.com/ru/companies/vk/articles/749850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749850)
 - [Новая функция домофона BAS IP — предоставление доступа по фотографии](https://habr.com/ru/articles/750148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750148)
-- [Ассоциативный Эксель и Сквозная валидация](https://habr.com/ru/companies/deepfoundation/articles/750140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750140)
-- [Три движка для одной Лавки: как эволюционировала система поиска в сервисе](https://habr.com/ru/companies/yandex/articles/748134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748134)
-- [Большие языковые модели: вносим порядок в семейный балаган](https://habr.com/ru/companies/lanit/articles/749946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749946)
-- [Я бы пересмотрел вообще всё](https://habr.com/ru/articles/750114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
