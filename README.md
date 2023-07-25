@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ассоциативный Эксель и Сквозная валидация](https://habr.com/ru/companies/deepfoundation/articles/750140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750140)
+- [Три движка для одной Лавки: как эволюционировала система поиска в сервисе](https://habr.com/ru/companies/yandex/articles/748134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748134)
+- [Большие языковые модели: вносим порядок в семейный балаган](https://habr.com/ru/companies/lanit/articles/749946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749946)
 - [Я бы пересмотрел вообще всё](https://habr.com/ru/articles/750114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750114)
 - [Внедрение зависимостей в ES6+ «на пальцах»](https://habr.com/ru/articles/750104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750104)
-- [Postman: Основы тестирования API и первые шаги с инструментом](https://habr.com/ru/articles/750096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750096)
-- [Вывод типов в TypeScript. Неизменяемый массив конкретных строковых значений](https://habr.com/ru/articles/750074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750074)
-- [Apple Pro Weekly News &lpar;17.07 – 23.07.23&rpar;](https://habr.com/ru/articles/750070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
