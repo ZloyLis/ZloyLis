@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OptionSet в деталях](https://habr.com/ru/companies/broadcast/articles/750162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750162)
-- [Явное управление ресурсами: пробуем новую фичу JavaScript и TypeScript](https://habr.com/ru/companies/ruvds/articles/745904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745904)
-- [Как ML не стал «новым» программированием, но улучшил старое](https://habr.com/ru/companies/oleg-bunin/articles/749862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749862)
-- [[Перевод] Как создавать качественные ML-системы. Часть 1: каждый проект должен начинаться с плана](https://habr.com/ru/companies/vk/articles/749850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749850)
-- [Новая функция домофона BAS IP — предоставление доступа по фотографии](https://habr.com/ru/articles/750148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750148)
+- [Приглашаем на Ozon Tech Intro meetup: как работают системы поиска, рекомендаций и рекламы](https://habr.com/ru/companies/ozontech/articles/750196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750196)
+- [[recovery mode] Зачем нужны PWA-приложения: примеры успешного использования](https://habr.com/ru/companies/altcraft/articles/750194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750194)
+- [[Перевод] Теорема о четырех цветах: раскраска карт, теория графов и консерватизм математического сообщества](https://habr.com/ru/companies/itglobalcom/articles/750062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750062)
+- [Интеграция Jmix с bpmn-js для эффективного моделирования бизнес-процессов при разработке приложений](https://habr.com/ru/companies/haulmont/articles/749558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749558)
+- [Security Week 2330: критическая уязвимость в продуктах Citrix Netscaler](https://habr.com/ru/companies/kaspersky/articles/749922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
