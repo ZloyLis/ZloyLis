@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 11 полезных плагинов для kubectl](https://habr.com/ru/companies/southbridge/articles/750264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750264)
 - [Анализ пространственно-временных паттернов в распределенных системах обработки данных](https://habr.com/ru/companies/otus/articles/750082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750082)
 - [[Перевод] Создание облачных приложений с помощью Kubernetes и Istio — Келси Хайтауэр](https://habr.com/ru/companies/serverspace/articles/750236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750236)
 - [Четыре способа написать Hello world, или инструменты для создания GUI на Python](https://habr.com/ru/companies/selectel/articles/750146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750146)
 - [Пожалуйста, чаще спрашивайте кандидата на собеседовании: «Зачем? Для чего?»](https://habr.com/ru/articles/750250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750250)
-- [Приглашаем на Ozon Tech Intro meetup: как работают системы поиска, рекомендаций и рекламы](https://habr.com/ru/companies/ozontech/articles/750196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
