@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая функция домофона BAS IP — предоставление доступа по фотографии](https://habr.com/ru/articles/750148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750148)
 - [Ассоциативный Эксель и Сквозная валидация](https://habr.com/ru/companies/deepfoundation/articles/750140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750140)
 - [Три движка для одной Лавки: как эволюционировала система поиска в сервисе](https://habr.com/ru/companies/yandex/articles/748134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748134)
 - [Большие языковые модели: вносим порядок в семейный балаган](https://habr.com/ru/companies/lanit/articles/749946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749946)
 - [Я бы пересмотрел вообще всё](https://habr.com/ru/articles/750114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750114)
-- [Внедрение зависимостей в ES6+ «на пальцах»](https://habr.com/ru/articles/750104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
