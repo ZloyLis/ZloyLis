@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [У 1С-программиста нет цели, только путь: как и куда развиваться](https://habr.com/ru/companies/automacon/articles/750414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750414)
 - [Тот же граф, только в другой руке?](https://habr.com/ru/companies/first/articles/748636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748636)
+- [Сравнительный анализ Apache Kafka и RabbitMQ](https://habr.com/ru/companies/bft/articles/750298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750298)
+- [Выгода от обеспечения доступности сервисов](https://habr.com/ru/companies/rtlabs/articles/749030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749030)
 - [[Перевод] Выход Micronaut 4! Что нового?](https://habr.com/ru/companies/X5Tech/articles/750396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750396)
-- [Доказана омнипериодичность игры «Жизнь» Конвея](https://habr.com/ru/articles/750356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750356)
-- [Способы позиционирования макетов в Figma, их преимущества и недостатки](https://habr.com/ru/companies/innotech/articles/750300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750300)
-- [[Перевод] Игра «Жизнь» в одном твите](https://habr.com/ru/companies/ispsystem/articles/750314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
