@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сертификат Java: за и против](https://habr.com/ru/companies/ibs/articles/750544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750544)
 - [[Перевод] Как создавать качественные ML-системы. Часть 2: приручаем хаос](https://habr.com/ru/companies/vk/articles/749852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749852)
 - [[Перевод] Ускорить таблицу на React в 1 000 раз, изменив лишь одну строку](https://habr.com/ru/companies/netologyru/articles/750246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750246)
 - [У 1С-программиста нет цели, только путь: как и куда развиваться](https://habr.com/ru/companies/automacon/articles/750414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750414)
 - [Понять и спросить: почему аналитику не надо сразу брать задачу](https://habr.com/ru/companies/yandex_praktikum/articles/749990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749990)
-- [Тот же граф, только в другой руке?](https://habr.com/ru/companies/first/articles/748636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
