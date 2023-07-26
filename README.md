@@ -24,10 +24,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [У 1С-программиста нет цели, только путь: как и куда развиваться](https://habr.com/ru/companies/automacon/articles/750414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750414)
+- [Понять и спросить: почему аналитику не надо сразу брать задачу](https://habr.com/ru/companies/yandex_praktikum/articles/749990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749990)
 - [Тот же граф, только в другой руке?](https://habr.com/ru/companies/first/articles/748636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748636)
 - [Сравнительный анализ Apache Kafka и RabbitMQ](https://habr.com/ru/companies/bft/articles/750298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750298)
 - [Выгода от обеспечения доступности сервисов](https://habr.com/ru/companies/rtlabs/articles/749030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749030)
-- [[Перевод] Выход Micronaut 4! Что нового?](https://habr.com/ru/companies/X5Tech/articles/750396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
