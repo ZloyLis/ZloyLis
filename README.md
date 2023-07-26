@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Доказана омнипериодичность игры «Жизнь» Конвея](https://habr.com/ru/articles/750356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750356)
 - [Способы позиционирования макетов в Figma, их преимущества и недостатки](https://habr.com/ru/companies/innotech/articles/750300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750300)
 - [[Перевод] Игра «Жизнь» в одном твите](https://habr.com/ru/companies/ispsystem/articles/750314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750314)
 - [Всё, что нужно знать про 1С на рынке труда: необходимые навыки, перспективы и карьерный путь](https://habr.com/ru/companies/yandex_praktikum/articles/748012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748012)
 - [[Перевод] 11 полезных плагинов для kubectl](https://habr.com/ru/companies/southbridge/articles/750264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750264)
-- [Анализ пространственно-временных паттернов в распределенных системах обработки данных](https://habr.com/ru/companies/otus/articles/750082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
