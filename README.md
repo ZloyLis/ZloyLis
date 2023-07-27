@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] ЯНДЕКС?! — а чё тебе так интересно, сколько я зарабатываю? Патент RU_2676949_C2 или Алгоритмы под личиной UX](https://habr.com/ru/articles/750686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750686)
-- [Как документировать публичные API для продукта. Большой гайд, часть 1](https://habr.com/ru/articles/722650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722650)
-- [Считаем 2+2×2](https://habr.com/ru/articles/750604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750604)
-- [Прекратите превращать программирование в религию &lpar;восклицательный знак&rpar;](https://habr.com/ru/articles/750586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750586)
-- [«Входить в IT неспеша» или как стать Middle Java Backend разработчиком минуя ступень Junior](https://habr.com/ru/articles/750584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750584)
+- [Переиспользование модулей в многомодульных Android приложениях](https://habr.com/ru/articles/750720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750720)
+- [Откуда завод знает, что производить и когда](https://habr.com/ru/companies/nlmk/articles/749006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749006)
+- [Подключаем Zigbee-устройства к контроллеру Wiren Board и пишем сценарии на wb-rules](https://habr.com/ru/companies/wirenboard/articles/750640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750640)
+- [Введение в Swift Runtime: разбираем на детали](https://habr.com/ru/companies/alfa/articles/750348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750348)
+- [Как работает Zustand](https://habr.com/ru/articles/750716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
