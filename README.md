@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое аутстаффинг в России и по каким критериям выбирать аутстафф-подрядчика](https://habr.com/ru/companies/ratingruneta/articles/750828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750828)
+- [Книги по Kubernetes — что почитать в 2023 году](https://habr.com/ru/companies/cloud_mts/articles/750560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750560)
 - [Kaggle для футболистов. Разбираем подходы призеров соревнований по детекции столкновений &lpar;5 — 3 место&rpar;](https://habr.com/ru/companies/magnus-tech/articles/750746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750746)
 - [Как совместить логику и семантику в одной алгебраической системе](https://habr.com/ru/articles/750790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750790)
 - [Web API для Angular](https://habr.com/ru/companies/tinkoff/articles/750788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750788)
-- [Теория вероятностей в разработке: где применяется и что можно изучить для более глубокого понимания темы](https://habr.com/ru/companies/ru_mts/articles/750772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750772)
-- [Под капотом анимаций в React Native. Часть 1/2: Animated and Bridge](https://habr.com/ru/companies/sbermarket/articles/748724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
