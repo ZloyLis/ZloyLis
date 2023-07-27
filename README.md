@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Под капотом анимаций в React Native. Часть 1/2: Animated and Bridge](https://habr.com/ru/companies/sbermarket/articles/748724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748724)
 - [Сам себе игровая консоль: как я сделал свой «тетрис» с нуля. Что происходит, когда программист встречается с железом?](https://habr.com/ru/companies/timeweb/articles/750108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750108)
 - [Сравниваем скорость и оверхеды библиотек Deep Copy для Go](https://habr.com/ru/companies/avito/articles/743332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743332)
 - [[Перевод] Как написать эмулятор компьютера](https://habr.com/ru/companies/cloud4y/articles/750734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750734)
 - [КОГДА УМЕСТЕН CAPS LOCK, как расставить акценты и другие заметки о типографике](https://habr.com/ru/companies/agima/articles/750588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750588)
-- [[recovery mode] Библиотека криптования ChaCha20](https://habr.com/ru/articles/750732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
