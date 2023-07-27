@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaggle для футболистов. Разбираем подходы призеров соревнований по детекции столкновений &lpar;5 — 3 место&rpar;](https://habr.com/ru/companies/magnus-tech/articles/750746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750746)
+- [Как совместить логику и семантику в одной алгебраической системе](https://habr.com/ru/articles/750790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750790)
 - [Web API для Angular](https://habr.com/ru/companies/tinkoff/articles/750788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750788)
 - [Теория вероятностей в разработке: где применяется и что можно изучить для более глубокого понимания темы](https://habr.com/ru/companies/ru_mts/articles/750772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750772)
 - [Под капотом анимаций в React Native. Часть 1/2: Animated and Bridge](https://habr.com/ru/companies/sbermarket/articles/748724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748724)
-- [Сам себе игровая консоль: как я сделал свой «тетрис» с нуля. Что происходит, когда программист встречается с железом?](https://habr.com/ru/companies/timeweb/articles/750108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750108)
-- [Сравниваем скорость и оверхеды библиотек Deep Copy для Go](https://habr.com/ru/companies/avito/articles/743332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
