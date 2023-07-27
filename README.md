@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Переиспользование модулей в многомодульных Android приложениях](https://habr.com/ru/articles/750720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750720)
-- [Откуда завод знает, что производить и когда](https://habr.com/ru/companies/nlmk/articles/749006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749006)
-- [Подключаем Zigbee-устройства к контроллеру Wiren Board и пишем сценарии на wb-rules](https://habr.com/ru/companies/wirenboard/articles/750640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750640)
-- [Введение в Swift Runtime: разбираем на детали](https://habr.com/ru/companies/alfa/articles/750348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750348)
-- [Как работает Zustand](https://habr.com/ru/articles/750716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750716)
+- [Сам себе игровая консоль: как я сделал свой «тетрис» с нуля. Что происходит, когда программист встречается с железом?](https://habr.com/ru/companies/timeweb/articles/750108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750108)
+- [Сравниваем скорость и оверхеды библиотек Deep Copy для Go](https://habr.com/ru/companies/avito/articles/743332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743332)
+- [[Перевод] Как написать эмулятор компьютера](https://habr.com/ru/companies/cloud4y/articles/750734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750734)
+- [КОГДА УМЕСТЕН CAPS LOCK, как расставить акценты и другие заметки о типографике](https://habr.com/ru/companies/agima/articles/750588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750588)
+- [[recovery mode] Библиотека криптования ChaCha20](https://habr.com/ru/articles/750732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
