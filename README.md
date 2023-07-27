@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ЯНДЕКС?! — а чё тебе так интересно, сколько я зарабатываю? Патент RU_2676949_C2 или Алгоритмы под личиной UX](https://habr.com/ru/articles/750686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750686)
 - [Как документировать публичные API для продукта. Большой гайд, часть 1](https://habr.com/ru/articles/722650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=722650)
 - [Считаем 2+2×2](https://habr.com/ru/articles/750604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750604)
 - [Прекратите превращать программирование в религию &lpar;восклицательный знак&rpar;](https://habr.com/ru/articles/750586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750586)
 - [«Входить в IT неспеша» или как стать Middle Java Backend разработчиком минуя ступень Junior](https://habr.com/ru/articles/750584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750584)
-- [Сквозь время – ускоряем автотесты](https://habr.com/ru/companies/psb/articles/750286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
