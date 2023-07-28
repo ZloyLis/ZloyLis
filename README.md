@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Импортозамещение, которое мы потеряли: советские языки программирования и их создатели — часть. 1 &lpar;1950-е — 1960-е&rpar;](https://habr.com/ru/companies/eaeconsult/articles/751132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751132)
+- [Импортозамещение, которое мы потеряли: советские языки программирования и их создатели — часть 1 &lpar;1950-е — 1960-е&rpar;](https://habr.com/ru/companies/eaeconsult/articles/751132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751132)
 - [React + Styled Components — идеальная анимация. Параметризованная анимация](https://habr.com/ru/articles/751120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751120)
 - [[Перевод] Futhark в браузере](https://habr.com/ru/companies/timeweb/articles/751106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751106)
 - [Библиотека системного администратора: подборка книг на русском](https://habr.com/ru/companies/skillbox/articles/751112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751112)
