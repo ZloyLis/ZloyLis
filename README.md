@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как стать профессиональным IT-коллекционером? Часть 7. Неочевидные навыки](https://habr.com/ru/companies/glowbyte/articles/751068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751068)
+- [[Перевод] Futhark в браузере](https://habr.com/ru/companies/timeweb/articles/751106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751106)
+- [Библиотека системного администратора: подборка книг на русском](https://habr.com/ru/companies/skillbox/articles/751112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751112)
+- [Разбираем особенности алгоритмов CatBoost и LightGBM: какой от них профит](https://habr.com/ru/companies/tochka/articles/751012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751012)
 - [Мелкие ментальные приёмы в Obsidian &lpar;термины&rpar;](https://habr.com/ru/articles/751066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751066)
 - [Смартфон в роли датчика Умного дома — обзор приложения Upcycle от Samsung](https://habr.com/ru/companies/samsung/articles/751040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751040)
-- [[Перевод] Как с помощью практики на LeetCode я получил несколько офферов](https://habr.com/ru/companies/sportmaster_lab/articles/751032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751032)
-- [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 1](https://habr.com/ru/articles/746786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
