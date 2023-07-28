@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работает Evercookie в 2023 году](https://habr.com/ru/articles/750856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750856)
+- [Магия Spring Framework своими руками](https://habr.com/ru/articles/750894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750894)
 - [Об одной мета-оптимизации](https://habr.com/ru/articles/750886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750886)
 - [Критерий Келли](https://habr.com/ru/articles/750890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750890)
 - [[Перевод] TypeScript 5.2: Новое ключевое слово: &#39;using&#39;](https://habr.com/ru/articles/750854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750854)
-- [Книги по Kubernetes — что почитать в 2023 году](https://habr.com/ru/companies/cloud_mts/articles/750560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750560)
-- [Kaggle для футболистов. Разбираем подходы призеров соревнований по детекции столкновений &lpar;5 — 3 место&rpar;](https://habr.com/ru/companies/magnus-tech/articles/750746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
