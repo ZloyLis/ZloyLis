@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор новой версии сертификации ISTQB Foundation Level 4.0 &lpar;2024&rpar; для Тестировщиков](https://habr.com/ru/articles/750868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750868)
+- [Жизненный цикл задачи: как быстро и бесконфликтно провести задачу от замысла до реализации](https://habr.com/ru/companies/sberbank/articles/749140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749140)
+- [Python-разработка: подборка материалов для самостоятельного изучения](https://habr.com/ru/companies/yandex_praktikum/articles/750958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750958)
 - [Как работает Evercookie в 2023 году](https://habr.com/ru/articles/750856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750856)
 - [Магия Spring Framework своими руками](https://habr.com/ru/articles/750894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750894)
-- [Об одной мета-оптимизации](https://habr.com/ru/articles/750886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750886)
-- [Критерий Келли](https://habr.com/ru/articles/750890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750890)
-- [[Перевод] TypeScript 5.2: Новое ключевое слово: &#39;using&#39;](https://habr.com/ru/articles/750854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
