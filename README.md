@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Как стать профессиональным IT-коллекционером? Часть 7. Неочевидные навыки](https://habr.com/ru/companies/glowbyte/articles/751068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751068)
 - [Мелкие ментальные приёмы в Obsidian &lpar;термины&rpar;](https://habr.com/ru/articles/751066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751066)
+- [Смартфон в роли датчика Умного дома — обзор приложения Upcycle от Samsung](https://habr.com/ru/companies/samsung/articles/751040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751040)
 - [[Перевод] Как с помощью практики на LeetCode я получил несколько офферов](https://habr.com/ru/companies/sportmaster_lab/articles/751032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751032)
 - [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 1](https://habr.com/ru/articles/746786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746786)
-- [Практики ChatOps с VK Teams &lpar;часть I&rpar;: мини-аппы, таск-трекеры, Bot API](https://habr.com/ru/companies/vk/articles/750206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
