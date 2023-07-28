@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать профессиональным IT-коллекционером? Часть 7. Неочевидные навыки](https://habr.com/ru/companies/glowbyte/articles/751068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751068)
+- [Мелкие ментальные приёмы в Obsidian &lpar;термины&rpar;](https://habr.com/ru/articles/751066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751066)
+- [[Перевод] Как с помощью практики на LeetCode я получил несколько офферов](https://habr.com/ru/companies/sportmaster_lab/articles/751032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751032)
 - [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 1](https://habr.com/ru/articles/746786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746786)
 - [Практики ChatOps с VK Teams &lpar;часть I&rpar;: мини-аппы, таск-трекеры, Bot API](https://habr.com/ru/companies/vk/articles/750206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750206)
-- [Личный опыт: как мы научили YouTrack анализировать все и вся с помощью скриптов](https://habr.com/ru/articles/750976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750976)
-- [Обзор новой версии сертификации ISTQB Foundation Level 4.0 &lpar;2024&rpar; для Тестировщиков](https://habr.com/ru/articles/750868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750868)
-- [Жизненный цикл задачи: как быстро и бесконфликтно провести задачу от замысла до реализации](https://habr.com/ru/companies/sberbank/articles/749140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
