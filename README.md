@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему вам не нужно в IT](https://habr.com/ru/articles/751186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751186)
 - [Бардак в идеальном мире. Часть 2](https://habr.com/ru/articles/750380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750380)
 - [[Перевод] Regex engine internals as a library. Part 4](https://habr.com/ru/articles/750924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750924)
 - [Идти на курсы или учить самостоятельно?](https://habr.com/ru/articles/751156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751156)
 - [Импортозамещение, которое мы потеряли: советские языки программирования и их создатели — часть 1 &lpar;1950-е — 1960-е&rpar;](https://habr.com/ru/companies/eaeconsult/articles/751132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751132)
-- [React + Styled Components — идеальная анимация. Параметризованная анимация](https://habr.com/ru/articles/751120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
