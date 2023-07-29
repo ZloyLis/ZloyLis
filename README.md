@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стоимостной анализ процессов для оценки эффекта от новой функциональности](https://habr.com/ru/articles/751232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751232)
 - [Как я разрабатывал чат-бот для Telegram, отслеживающий питание и тренировки. Часть 2 — Вы хотите кушац?](https://habr.com/ru/articles/751222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751222)
 - [7 книг по Android-разработке, на которые стоит обратить внимание в 2023 году](https://habr.com/ru/companies/ru_mts/articles/751184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751184)
 - [Почему вам не нужно в IT](https://habr.com/ru/articles/751186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751186)
 - [Бардак в идеальном мире. Часть 2](https://habr.com/ru/articles/750380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750380)
-- [[Перевод] Regex engine internals as a library. Part 4](https://habr.com/ru/articles/750924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
