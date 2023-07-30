@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Всё-таки схождение к нормальному распределению происходит медленно](https://habr.com/ru/companies/ruvds/articles/750688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750688)
 - [Холодная и горячая последовательность RxJS](https://habr.com/ru/articles/751268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751268)
 - [Хочешь «вайти» — входи](https://habr.com/ru/articles/751290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751290)
 - [Begin /* Локализация](https://habr.com/ru/articles/751272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751272)
 - [Неизменная ценность ручных тестировщиков: важность и преимущества в эпоху автоматизации](https://habr.com/ru/articles/751252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751252)
-- [[Перевод] Все, что вам нужно знать о Kotlin Multiplatform](https://habr.com/ru/companies/otus/articles/751192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
