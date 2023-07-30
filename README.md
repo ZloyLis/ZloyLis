@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хочешь «вайти» — входи](https://habr.com/ru/articles/751290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751290)
 - [Begin /* Локализация](https://habr.com/ru/articles/751272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751272)
 - [Неизменная ценность ручных тестировщиков: важность и преимущества в эпоху автоматизации](https://habr.com/ru/articles/751252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751252)
 - [[Перевод] Все, что вам нужно знать о Kotlin Multiplatform](https://habr.com/ru/companies/otus/articles/751192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751192)
 - [IntelliJ IDEA 2023.2. Language Server Protocol, AI Assistant, IntelliJ Profiler в редакторе, GitLab merge requests, ftw](https://habr.com/ru/companies/bar/articles/751248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751248)
-- [Experience — не просто опыт. Interface — не просто экран](https://habr.com/ru/articles/751246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
