@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расчет численности специалистов поддержки бизнес-приложений](https://habr.com/ru/articles/751324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751324)
+- [[Перевод] Thread Safety in Swift](https://habr.com/ru/articles/751322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751322)
 - [Чем отличается реализация non-keyed от keyed в javascript фреймворках?](https://habr.com/ru/articles/751316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751316)
 - [[Перевод] Всё-таки схождение к нормальному распределению происходит медленно](https://habr.com/ru/companies/ruvds/articles/750688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750688)
 - [Холодная и горячая последовательность RxJS](https://habr.com/ru/articles/751268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751268)
-- [Хочешь «вайти» — входи](https://habr.com/ru/articles/751290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751290)
-- [Begin /* Локализация](https://habr.com/ru/articles/751272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
