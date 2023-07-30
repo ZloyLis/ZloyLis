@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прикладное adb &lpar;Android Debug Bridge&rpar; для зумеров](https://habr.com/ru/articles/751092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751092)
 - [Поиск кратчайшей траектории на поверхности реконструированного МРТ изображения](https://habr.com/ru/articles/688808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688808)
 - [Нейронные сети, графы и эмерджентность](https://habr.com/ru/articles/751340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751340)
 - [Что порой кроется за «успехом»](https://habr.com/ru/articles/751284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751284)
 - [Расчет численности специалистов поддержки бизнес-приложений](https://habr.com/ru/articles/751324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751324)
-- [[Перевод] Thread Safety in Swift](https://habr.com/ru/articles/751322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
