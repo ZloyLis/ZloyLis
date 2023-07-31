@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираем HTTP/2 по байтам](https://habr.com/ru/companies/timeweb/articles/751338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751338)
+- [Поймать перо jar-птицы: новый сезон Java на Хабре](https://habr.com/ru/specials/751308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751308)
 - [[Перевод] Революционные IDE, повлиявшие на разработку ПО](https://habr.com/ru/companies/ruvds/articles/751516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751516)
 - [[Перевод] Уроки, которые я вынес из десяти лет работы над проектом с открытым кодом](https://habr.com/ru/companies/productivity_inside/articles/751522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751522)
 - [Кейс: аналитическая система с ИИ для «ОЭЗ Технополис «Москва»](https://habr.com/ru/companies/modusbi/articles/751488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751488)
-- [Как «перебить» темную &lpar;системную&rpar; тему в веб-приложении на React](https://habr.com/ru/articles/751476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751476)
-- [Как генерировать модели интерфейсов на основе спецификации на стороне frontend-приложений](https://habr.com/ru/companies/simbirsoft/articles/751406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
