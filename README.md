@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как «перебить» темную &lpar;системную&rpar; тему в веб-приложении на React](https://habr.com/ru/articles/751476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751476)
 - [Как генерировать модели интерфейсов на основе спецификации на стороне frontend-приложений](https://habr.com/ru/companies/simbirsoft/articles/751406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751406)
 - [В Go 1.21 существенно расширяется стандартная библиотека](https://habr.com/ru/companies/karuna/articles/747726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747726)
 - [[Перевод - recovery mode ] Самый быстрый и безопасный PNG декодер в мире](https://habr.com/ru/articles/751462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751462)
 - [[Перевод] Протоколы в Python](https://habr.com/ru/companies/wunderfund/articles/751424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751424)
-- [Как автоматизировать переводы во Frontend приложении](https://habr.com/ru/articles/751366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
