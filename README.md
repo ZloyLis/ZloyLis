@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Робастная оптимизация: компромисс оптимальности и валидности решения](https://habr.com/ru/articles/751226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751226)
-- [Дизайнер не нужен. Правила создания красивых UI](https://habr.com/ru/companies/ruvds/articles/750736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750736)
-- [[recovery mode] Аналитик в огне! Как построить процесс постановки задач в условиях нехватки ресурса](https://habr.com/ru/articles/751440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751440)
-- [Книга по Open Source процессору спутниковой интерферометрии PyGMTSAR &lpar;Python InSAR&rpar;](https://habr.com/ru/articles/751438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751438)
-- [[Перевод] Будущее iOS-разработки на Flutter](https://habr.com/ru/articles/750818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750818)
+- [Как генерировать модели интерфейсов на основе спецификации на стороне frontend-приложений](https://habr.com/ru/companies/simbirsoft/articles/751406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751406)
+- [В Go 1.21 существенно расширяется стандартная библиотека](https://habr.com/ru/companies/karuna/articles/747726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747726)
+- [[Перевод - recovery mode ] Самый быстрый и безопасный PNG декодер в мире](https://habr.com/ru/articles/751462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751462)
+- [[Перевод] Протоколы в Python](https://habr.com/ru/companies/wunderfund/articles/751424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751424)
+- [Как автоматизировать переводы во Frontend приложении](https://habr.com/ru/articles/751366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
