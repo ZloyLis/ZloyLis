@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Робастная оптимизация: компромисс оптимальности и валидности решения](https://habr.com/ru/articles/751226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751226)
+- [Дизайнер не нужен. Правила создания красивых UI](https://habr.com/ru/companies/ruvds/articles/750736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750736)
+- [[recovery mode] Аналитик в огне! Как построить процесс постановки задач в условиях нехватки ресурса](https://habr.com/ru/articles/751440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751440)
+- [Книга по Open Source процессору спутниковой интерферометрии PyGMTSAR &lpar;Python InSAR&rpar;](https://habr.com/ru/articles/751438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751438)
 - [[Перевод] Будущее iOS-разработки на Flutter](https://habr.com/ru/articles/750818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750818)
-- [Миграция с Docker на CRI-O в Kubernetes](https://habr.com/ru/companies/first/articles/751396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751396)
-- [Мобильное приложение для nopCommerce: наш опыт кроссплатформенной разработки](https://habr.com/ru/articles/751430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751430)
-- [Внедрение зависимостей в Angular простыми словами](https://habr.com/ru/articles/751422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751422)
-- [Ивентная модель данных с использованием Kafka и Kafka Connect: Построение гибкой и распределенной архитектуры](https://habr.com/ru/articles/751256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
