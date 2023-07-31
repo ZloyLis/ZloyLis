@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #499 &lpar;24 — 30 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/751378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751378)
 - [Композиция математических объектов в рамках абстрактной модели мышления](https://habr.com/ru/articles/751058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751058)
 - [Прикладное adb &lpar;Android Debug Bridge&rpar; для зумеров](https://habr.com/ru/articles/751092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751092)
 - [Поиск кратчайшей траектории на поверхности реконструированного МРТ изображения](https://habr.com/ru/articles/688808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=688808)
 - [Нейронные сети, графы и эмерджентность](https://habr.com/ru/articles/751340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751340)
-- [Что порой кроется за «успехом»](https://habr.com/ru/articles/751284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
