@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;24.07 – 30.07.23&rpar;](https://habr.com/ru/articles/751600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751600)
 - [Автоматизация развертывания стенда Kubernetes](https://habr.com/ru/articles/751582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751582)
 - [Security Week 2331: аппаратная уязвимость в процессорах AMD](https://habr.com/ru/companies/kaspersky/articles/751564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751564)
 - [Разбираем HTTP/2 по байтам](https://habr.com/ru/companies/timeweb/articles/751338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751338)
 - [Поймать перо jar-птицы: новый сезон Java на Хабре](https://habr.com/ru/specials/751308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751308)
-- [[Перевод] Революционные IDE, повлиявшие на разработку ПО](https://habr.com/ru/companies/ruvds/articles/751516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
