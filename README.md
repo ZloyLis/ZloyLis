@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Будущее iOS-разработки на Flutter](https://habr.com/ru/articles/750818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750818)
+- [Миграция с Docker на CRI-O в Kubernetes](https://habr.com/ru/companies/first/articles/751396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751396)
+- [Мобильное приложение для nopCommerce: наш опыт кроссплатформенной разработки](https://habr.com/ru/articles/751430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751430)
+- [Внедрение зависимостей в Angular простыми словами](https://habr.com/ru/articles/751422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751422)
 - [Ивентная модель данных с использованием Kafka и Kafka Connect: Построение гибкой и распределенной архитектуры](https://habr.com/ru/articles/751256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751256)
-- [Делай так, и твой адаптив болеть не будет](https://habr.com/ru/companies/nspk/articles/750970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750970)
-- [ChatGPT уже не тот? Тестируем 10 плагинов для чтения URL и грустим](https://habr.com/ru/articles/751376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751376)
-- [Тестирование: Как выбрать правильный курс и построить карьеру](https://habr.com/ru/articles/751398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751398)
-- [Мобильная разработка за неделю #499 &lpar;24 — 30 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/751378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
