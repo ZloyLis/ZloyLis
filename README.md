@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT совсем отупел? Тестируем 10 плагинов для чтения URL и грустим](https://habr.com/ru/articles/751376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751376)
+- [Ивентная модель данных с использованием Kafka и Kafka Connect: Построение гибкой и распределенной архитектуры](https://habr.com/ru/articles/751256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751256)
+- [Делай так, и твой адаптив болеть не будет](https://habr.com/ru/companies/nspk/articles/750970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750970)
+- [ChatGPT уже не тот? Тестируем 10 плагинов для чтения URL и грустим](https://habr.com/ru/articles/751376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751376)
 - [Тестирование: Как выбрать правильный курс и построить карьеру](https://habr.com/ru/articles/751398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751398)
 - [Мобильная разработка за неделю #499 &lpar;24 — 30 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/751378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751378)
-- [Композиция математических объектов в рамках абстрактной модели мышления](https://habr.com/ru/articles/751058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751058)
-- [Прикладное adb &lpar;Android Debug Bridge&rpar; для зумеров](https://habr.com/ru/articles/751092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
