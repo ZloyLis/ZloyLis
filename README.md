@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не как у людей — история проекта 1tracker](https://habr.com/ru/companies/ruvds/articles/745710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745710)
+- [Первый московский DevDay по Ceph: старый добрый круглый стол по-новому](https://habr.com/ru/companies/2gis/articles/751568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751568)
+- [Как повысить уровень жизни в мире постоянных изменений](https://habr.com/ru/companies/oleg-bunin/articles/719754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719754)
 - [Минималистичный «алгоритм жука»](https://habr.com/ru/companies/first/articles/748644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748644)
 - [25000 лучших фильмов, или еще один сервис для кино поиска](https://habr.com/ru/articles/751602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751602)
-- [Лучший спутник в вашем творческом процессе: Android Studio Bot VS ChatGPT для разработчиков](https://habr.com/ru/companies/joydev/articles/743004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743004)
-- [Как вырасти из джуна в мидлы во фронтенде](https://habr.com/ru/companies/yandex_praktikum/articles/751162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751162)
-- [Цикл жизни дизайн-систем](https://habr.com/ru/articles/749048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
