@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеи отца современной математики Георга Кантора, которые пугали ученых в конце 19 века](https://habr.com/ru/companies/itglobalcom/articles/751676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751676)
+- [Об одном подходе к исследованию вероятностных характеристик на примере реального продукта](https://habr.com/ru/companies/ru_mts/articles/751584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751584)
 - [Краткий обзор стажировки в ИТ фирме или рефакторинг истории о Карабасе Барабасе](https://habr.com/ru/articles/751696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751696)
 - [Конфигурируемая типизация NPM пакетов](https://habr.com/ru/articles/751318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751318)
 - [Самое понятное объяснения CFG Scale в нейросетях. Как эта штука повлияла на появление Stable Diffusion](https://habr.com/ru/articles/751718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751718)
-- [Не как у людей — история проекта 1tracker](https://habr.com/ru/companies/ruvds/articles/745710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745710)
-- [Первый московский DevDay по Ceph: старый добрый круглый стол по-новому](https://habr.com/ru/companies/2gis/articles/751568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
