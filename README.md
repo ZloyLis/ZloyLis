@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Отранжированные и смешные: создаем систему выстраивания пользовательской ленты](https://habr.com/ru/companies/ozontech/articles/751544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751544)
-- [Переводчик ChatGPT против моего: кто кого?](https://habr.com/ru/articles/751664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751664)
-- [Как освоить Tarantool за 3 месяца и выжить: учимся на ошибках DevOps-инженера](https://habr.com/ru/companies/cloud_ru/articles/750940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750940)
-- [Шпаргалка по структурам данных в Java](https://habr.com/ru/articles/751648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751648)
-- [Как комфортно ввести нового тестировщика на проект](https://habr.com/ru/articles/751636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751636)
+- [Минималистичный «алгоритм жука»](https://habr.com/ru/companies/first/articles/748644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748644)
+- [25000 лучших фильмов, или еще один сервис для кино поиска](https://habr.com/ru/articles/751602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751602)
+- [Лучший спутник в вашем творческом процессе: Android Studio Bot VS ChatGPT для разработчиков](https://habr.com/ru/companies/joydev/articles/743004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=743004)
+- [Как вырасти из джуна в мидлы во фронтенде](https://habr.com/ru/companies/yandex_praktikum/articles/751162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751162)
+- [Цикл жизни дизайн-систем](https://habr.com/ru/articles/749048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
