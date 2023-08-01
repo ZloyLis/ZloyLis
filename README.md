@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шпаргалка по структурам данных в Java](https://habr.com/ru/articles/751648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751648)
 - [Как комфортно ввести нового тестировщика на проект](https://habr.com/ru/articles/751636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751636)
 - [Комната с опускающимся потолком](https://habr.com/ru/companies/skbkontur/articles/750406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750406)
 - [[recovery mode] Анонс Zepp OS 3.x для устройств Amazfit](https://habr.com/ru/articles/751628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751628)
 - [1. Введение в Unicode &lpar;опять?&rpar;](https://habr.com/ru/articles/751616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751616)
-- [Именованные аргументы. Перегрузка](https://habr.com/ru/articles/751612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
