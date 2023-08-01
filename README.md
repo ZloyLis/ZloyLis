@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экстрактор данных из 1С: идеальное взаимодействие с Yandex DataLens](https://habr.com/ru/articles/751820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751820)
+- [Реализация ссылочной модели в языке программирования Аргентум](https://habr.com/ru/articles/751630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751630)
 - [[Перевод] Человек, 14 раз выигравший в лотерею](https://habr.com/ru/articles/751780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751780)
 - [Когда SQL решает, и задачки для прокачки](https://habr.com/ru/articles/751778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751778)
 - [Маленькая команда больших дел: почему всем нужен внутренний R&amp;amp;D](https://habr.com/ru/companies/redmadrobot/articles/751774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751774)
-- [От C до Go. Как Golang объединил лучшие черты своих предшественников](https://habr.com/ru/companies/serverspace/articles/751766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751766)
-- [Книга «JavaScript. Рецепты для разработчиков. 3-е изд»](https://habr.com/ru/companies/piter/articles/751748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
