@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга «JavaScript. Рецепты для разработчиков. 3-е изд»](https://habr.com/ru/companies/piter/articles/751748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751748)
+- [K3s как альтернатива K8s](https://habr.com/ru/companies/otus/articles/751752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751752)
+- [Scala Digest. Выпуск 7](https://habr.com/ru/companies/tinkoff/articles/751728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751728)
+- [AI доступный каждому разработчику](https://habr.com/ru/articles/751626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751626)
 - [Идеи отца современной математики Георга Кантора, которые пугали ученых в конце 19 века](https://habr.com/ru/companies/itglobalcom/articles/751676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751676)
-- [Об одном подходе к исследованию вероятностных характеристик на примере реального продукта](https://habr.com/ru/companies/ru_mts/articles/751584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751584)
-- [Краткий обзор стажировки в ИТ фирме или рефакторинг истории о Карабасе Барабасе](https://habr.com/ru/articles/751696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751696)
-- [Конфигурируемая типизация NPM пакетов](https://habr.com/ru/articles/751318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751318)
-- [Самое понятное объяснения CFG Scale в нейросетях. Как эта штука повлияла на появление Stable Diffusion](https://habr.com/ru/articles/751718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
