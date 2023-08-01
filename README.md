@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Комната с опускающимся потолком](https://habr.com/ru/companies/skbkontur/articles/750406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750406)
 - [[recovery mode] Анонс Zepp OS 3.x для устройств Amazfit](https://habr.com/ru/articles/751628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751628)
 - [1. Введение в Unicode &lpar;опять?&rpar;](https://habr.com/ru/articles/751616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751616)
 - [Именованные аргументы. Перегрузка](https://habr.com/ru/articles/751612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751612)
 - [Apple Pro Weekly News &lpar;24.07 – 30.07.23&rpar;](https://habr.com/ru/articles/751600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751600)
-- [Автоматизация развертывания стенда Kubernetes](https://habr.com/ru/articles/751582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
