@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отранжированные и смешные: создаем систему выстраивания пользовательской ленты](https://habr.com/ru/companies/ozontech/articles/751544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751544)
+- [Переводчик ChatGPT против моего: кто кого?](https://habr.com/ru/articles/751664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751664)
+- [Как освоить Tarantool за 3 месяца и выжить: учимся на ошибках DevOps-инженера](https://habr.com/ru/companies/cloud_ru/articles/750940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750940)
 - [Шпаргалка по структурам данных в Java](https://habr.com/ru/articles/751648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751648)
 - [Как комфортно ввести нового тестировщика на проект](https://habr.com/ru/articles/751636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751636)
-- [Комната с опускающимся потолком](https://habr.com/ru/companies/skbkontur/articles/750406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750406)
-- [[recovery mode] Анонс Zepp OS 3.x для устройств Amazfit](https://habr.com/ru/articles/751628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751628)
-- [1. Введение в Unicode &lpar;опять?&rpar;](https://habr.com/ru/articles/751616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
