@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Человек, 14 раз выигравший в лотерею](https://habr.com/ru/articles/751780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751780)
+- [Когда SQL решает, и задачки для прокачки](https://habr.com/ru/articles/751778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751778)
+- [Маленькая команда больших дел: почему всем нужен внутренний R&amp;amp;D](https://habr.com/ru/companies/redmadrobot/articles/751774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751774)
 - [Книга «JavaScript. Рецепты для разработчиков. 3-е изд»](https://habr.com/ru/companies/piter/articles/751748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751748)
 - [K3s как альтернатива K8s](https://habr.com/ru/companies/otus/articles/751752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751752)
-- [Scala Digest. Выпуск 7](https://habr.com/ru/companies/tinkoff/articles/751728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751728)
-- [AI доступный каждому разработчику](https://habr.com/ru/articles/751626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751626)
-- [Идеи отца современной математики Георга Кантора, которые пугали ученых в конце 19 века](https://habr.com/ru/companies/itglobalcom/articles/751676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
