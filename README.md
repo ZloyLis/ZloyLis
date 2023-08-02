@@ -25,7 +25,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Skeleton Mammoth — или как я решал проблему переиспользуемых скелетон лоадеров](https://habr.com/ru/articles/751956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751956)
 - [Валидация формы с помощью AJV, Vue.js и TypeScript](https://habr.com/ru/articles/752074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752074)
-- [Не Samsung-ом единым: складные смартфоны 2023 года из Китая и не только](https://habr.com/ru/companies/ru_mts/articles/752066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752066)
+- [Cкладные смартфоны 2023 года: их много, и это не только Samsung. Выбираем лучшее](https://habr.com/ru/companies/ru_mts/articles/752066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752066)
 - [Генерация текстов, кластеризация и определение E-A-T и коммерческости запросов на нейросети OpenAI &lpar;GPT-3&rpar;](https://habr.com/ru/articles/751880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751880)
 - [Разница между загрузкой и инициализацией классов в Java на любопытном примере](https://habr.com/ru/articles/740156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740156)
 <!-- BLOG-POST-LIST:END -->
