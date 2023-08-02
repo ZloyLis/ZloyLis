@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Python кодогенерация — ускоряем strftime / strptime](https://habr.com/ru/articles/751884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751884)
 - [[Перевод] Закат Stack Overflow](https://habr.com/ru/articles/751852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751852)
-- [Система автоматической разгрузки и загрузки дрона &lpar;Часть 2 — автопилот&rpar;](https://habr.com/ru/articles/751342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751342)
 - [Экстрактор данных из 1С: идеальное взаимодействие с Yandex DataLens](https://habr.com/ru/articles/751820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751820)
 - [Реализация ссылочной модели в языке программирования Аргентум](https://habr.com/ru/articles/751630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751630)
+- [[Перевод] Человек, 14 раз выигравший в лотерею](https://habr.com/ru/articles/751780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
