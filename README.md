@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация текстов, кластеризация и определение E-A-T и коммерческости запросов на нейросети OpenAI &lpar;GPT-3&rpar;](https://habr.com/ru/articles/751880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751880)
 - [Разница между загрузкой и инициализацией классов в Java на любопытном примере](https://habr.com/ru/articles/740156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740156)
 - [Надёжные сервисы на нейросетях, или почему восклицательные знаки лучше цифр](https://habr.com/ru/articles/752002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752002)
 - [Как понять &lpar;и простить&rpar; теорию вероятностей?](https://habr.com/ru/articles/751862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751862)
 - [Оптимизация анимации на Compose: крутим лоадеры, ищем неочевидные функции](https://habr.com/ru/companies/redmadrobot/articles/751976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751976)
-- [Как маленькая нейроязыковая модель в Клавиатуре победила серверные подсказки](https://habr.com/ru/companies/yandex/articles/751598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
