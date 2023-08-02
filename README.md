@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как маленькая нейроязыковая модель в Клавиатуре победила серверные подсказки](https://habr.com/ru/companies/yandex/articles/751598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751598)
+- [OpenSSH против SSH](https://habr.com/ru/companies/ruvds/articles/751756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751756)
 - [Swipe sidebar — отдельный Typescript сервис и обработка touch событий на Vue](https://habr.com/ru/articles/751618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751618)
 - [Делегировать нельзя участвовать. Где запятая? 🤷‍♂ Должен ли продакт участвовать в UX-ах?](https://habr.com/ru/articles/751936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751936)
 - [Дотошность и толерантность к хаосу: как понять, что у вас есть склонность к программированию](https://habr.com/ru/companies/yandex_praktikum/articles/751708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751708)
-- [Python кодогенерация — ускоряем strftime / strptime](https://habr.com/ru/articles/751884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751884)
-- [[Перевод] Закат Stack Overflow](https://habr.com/ru/articles/751852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
