@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Swipe sidebar — отдельный Typescript сервис и обработка touch событий на Vue](https://habr.com/ru/articles/751618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751618)
+- [Делегировать нельзя участвовать. Где запятая? 🤷‍♂ Должен ли продакт участвовать в UX-ах?](https://habr.com/ru/articles/751936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751936)
+- [Дотошность и толерантность к хаосу: как понять, что у вас есть склонность к программированию](https://habr.com/ru/companies/yandex_praktikum/articles/751708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751708)
 - [Python кодогенерация — ускоряем strftime / strptime](https://habr.com/ru/articles/751884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751884)
 - [[Перевод] Закат Stack Overflow](https://habr.com/ru/articles/751852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751852)
-- [Экстрактор данных из 1С: идеальное взаимодействие с Yandex DataLens](https://habr.com/ru/articles/751820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751820)
-- [Реализация ссылочной модели в языке программирования Аргентум](https://habr.com/ru/articles/751630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751630)
-- [[Перевод] Человек, 14 раз выигравший в лотерею](https://habr.com/ru/articles/751780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
