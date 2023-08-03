@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой способ проверять typescript без skipLibCheck: true](https://habr.com/ru/articles/752346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752346)
+- [Опыт Сдачи: Oracle Certified Professional: Java SE 11 Developer 1Z0-819](https://habr.com/ru/articles/752350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752350)
+- [От многофункциональной платформы до кнопки на сайте: как и почему изменились функции продакт-менеджера](https://habr.com/ru/companies/kaspersky/articles/752246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752246)
+- [JavaDoc: добро или необходимое зло?](https://habr.com/ru/companies/X5Tech/articles/752338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752338)
 - [Как стать тимлидом?](https://habr.com/ru/companies/tinkoff/articles/752336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752336)
-- [Основные алгоритмы на графах](https://habr.com/ru/companies/timeweb/articles/751762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751762)
-- [6 вещей, которые мешают IT-специалисту расти и продвигаться в карьере](https://habr.com/ru/articles/752302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752302)
-- [Наступает закат эпохи смартфонов](https://habr.com/ru/companies/getmatch/articles/752288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752288)
-- [Загрузка файлов и каталогов перетаскиванием с помощью drag and drop JS](https://habr.com/ru/articles/752268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
