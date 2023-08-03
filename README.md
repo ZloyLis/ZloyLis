@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основные алгоритмы на графах](https://habr.com/ru/companies/timeweb/articles/751762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751762)
 - [6 вещей, которые мешают IT-специалисту расти и продвигаться в карьере](https://habr.com/ru/articles/752302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752302)
 - [Наступает закат эпохи смартфонов](https://habr.com/ru/companies/getmatch/articles/752288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752288)
 - [Загрузка файлов и каталогов перетаскиванием с помощью drag and drop JS](https://habr.com/ru/articles/752268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752268)
 - [Как VMware создала проблему, а мы ее решили](https://habr.com/ru/companies/jetinfosystems/articles/752234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752234)
-- [[Перевод] Повышаем производительность циклов в Swift на 87%](https://habr.com/ru/companies/otus/articles/752222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
