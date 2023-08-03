@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы внедряли пуш-уведомления в мессенджер — от базовой отправки до проработки условий](https://habr.com/ru/companies/webinargroup/articles/752198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752198)
+- [Как делать дизайн внутренних CRM](https://habr.com/ru/companies/domclick/articles/751782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751782)
+- [Призыв наставника, заклинание памяти и опыт предков — ритуалы начинающего проектного менеджера](https://habr.com/ru/articles/748954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=748954)
 - [Домашка на лето: что почитать разработчику](https://habr.com/ru/companies/avito/articles/747102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747102)
 - [Для тех, кто ещё думает о переходе на vue 3](https://habr.com/ru/companies/bsl/articles/752172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752172)
-- [Как предпроектная аналитика помогает не загубить проект](https://habr.com/ru/companies/pyrobyte/articles/752148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752148)
-- [Всегда ли в C# есть упаковка при конкатенации со строкой и интерполяции?](https://habr.com/ru/companies/pvs-studio/articles/752152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752152)
-- [Backend Driven…аналитика? Backend Driven аналитика](https://habr.com/ru/companies/alfa/articles/752068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
