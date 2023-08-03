@@ -23,8 +23,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Загрузка файлов и каталогов перетаскиванием с помощью drag and drop JS](https://habr.com/ru/articles/752268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752268)
 - [Как VMware создала проблему, а мы ее решили](https://habr.com/ru/companies/jetinfosystems/articles/752234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752234)
-- [Вторая и третья линия технической поддержки: в чем разница?](https://habr.com/ru/companies/glowbyte/articles/752236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752236)
 - [[Перевод] Повышаем производительность циклов в Swift на 87%](https://habr.com/ru/companies/otus/articles/752222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752222)
 - [Разработка мобильных приложений: ключевые принципы продуктового и проектного подходов](https://habr.com/ru/companies/cleverpumpkin/articles/752208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752208)
 - [Как мы внедряли пуш-уведомления в мессенджер — от базовой отправки до проработки условий](https://habr.com/ru/companies/webinargroup/articles/752198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752198)
