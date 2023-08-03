@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практики ChatOps с VK Teams &lpar;часть II&rpar;: OpsDroid — коннектор, скиллы, боты](https://habr.com/ru/companies/vk/articles/750208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750208)
+- [[Перевод] Использование NFS в качестве Persistent Volume &lpar;постоянного тома&rpar; для Kubernetes с помощью Ansible и Terraform](https://habr.com/ru/companies/southbridge/articles/751274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751274)
+- [Нейронные сети на Эльбрусе](https://habr.com/ru/articles/752138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752138)
+- [Статистика QA вакансий и резюме. Июль 2023](https://habr.com/ru/articles/752030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752030)
 - [Одна из возможных версий переезда с MySQL на PostgreSQL](https://habr.com/ru/articles/742552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=742552)
-- [Как я поступил в британский университет](https://habr.com/ru/articles/752088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752088)
-- [[Перевод] Skeleton Mammoth — или как я решал проблему переиспользуемых скелетон лоадеров](https://habr.com/ru/articles/751956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751956)
-- [Валидация формы с помощью AJV, Vue.js и TypeScript](https://habr.com/ru/articles/752074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752074)
-- [Cкладные смартфоны 2023 года: их много, и это не только Samsung. Выбираем лучшее](https://habr.com/ru/companies/ru_mts/articles/752066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
