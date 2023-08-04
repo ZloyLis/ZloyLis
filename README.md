@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 2](https://habr.com/ru/articles/747208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747208)
+- [Исходники закрыты, но мы не сдадимся: Пишем полностью нативное GUI-приложение под No-Name смартфон без Android](https://habr.com/ru/companies/timeweb/articles/751604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751604)
+- [[Перевод] Сжатие данных управляет Интернетом. Вот как это работает](https://habr.com/ru/companies/first/articles/752196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752196)
 - [Дизайн API в С++](https://habr.com/ru/articles/752420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752420)
 - [Helmwave v0.30](https://habr.com/ru/articles/752390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752390)
-- [От идеи к развертыванию: искусство современной разработки программного обеспечения](https://habr.com/ru/articles/752418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752418)
-- [Обновления Kubernetes-платформы Deckhouse версий 1.45 — 1.47: Istio в Community Edition и поддержка Alt Linux](https://habr.com/ru/companies/flant/articles/752254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752254)
-- [[recovery mode] Без бумажки ты…или истории наших факапов с заказчиками при разработке сайтов](https://habr.com/ru/articles/752162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
