@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Helmwave v0.30](https://habr.com/ru/articles/752390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752390)
+- [От идеи к развертыванию: искусство современной разработки программного обеспечения](https://habr.com/ru/articles/752418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752418)
+- [Обновления Kubernetes-платформы Deckhouse версий 1.45 — 1.47: Istio в Community Edition и поддержка Alt Linux](https://habr.com/ru/companies/flant/articles/752254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752254)
+- [[recovery mode] Без бумажки ты…или истории наших факапов с заказчиками при разработке сайтов](https://habr.com/ru/articles/752162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752162)
 - [Angular Resource или почему я никогда не использовал NgRX](https://habr.com/ru/articles/752398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752398)
-- [Дифференциальная сеть — формальная система для формальных систем](https://habr.com/ru/articles/752366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752366)
-- [Простой способ проверять typescript без skipLibCheck: true](https://habr.com/ru/articles/752346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752346)
-- [Опыт Сдачи: Oracle Certified Professional: Java SE 11 Developer 1Z0-819](https://habr.com/ru/articles/752350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752350)
-- [От многофункциональной платформы до кнопки на сайте: как и почему изменились функции продакт-менеджера](https://habr.com/ru/companies/kaspersky/articles/752246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
