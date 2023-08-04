@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что о системном анализе и бизнес-анализе расскажут на Flow 2023](https://habr.com/ru/companies/jugru/articles/690454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690454)
+- [Сколько стоит Chat GPT?](https://habr.com/ru/articles/752594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752594)
+- [Шпаргалка по setTimeout и setInterval](https://habr.com/ru/articles/752592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752592)
 - [Как работают select_related и prefetch_related в Django](https://habr.com/ru/articles/752574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752574)
 - [Наблюдаемость сетевой инфраструктуры Kubernetes. Часть вторая](https://habr.com/ru/articles/752570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752570)
-- [Создаем QR-код для электронной визитки vCard](https://habr.com/ru/articles/752562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752562)
-- [[recovery mode] Как использовать нейросети в финансах и аналитике](https://habr.com/ru/articles/752546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752546)
-- [Как я сделал приложение для себя, а оно понравилось многим](https://habr.com/ru/companies/surfstudio/articles/752534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
