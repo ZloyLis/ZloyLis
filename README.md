@@ -23,9 +23,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем и как переходить на российский BI?](https://habr.com/ru/companies/modusbi/articles/752602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752602)
 - [Что о системном анализе и бизнес-анализе расскажут на Flow 2023](https://habr.com/ru/companies/jugru/articles/690454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690454)
 - [Сколько стоит Chat GPT?](https://habr.com/ru/articles/752594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752594)
-- [Шпаргалка по setTimeout и setInterval](https://habr.com/ru/articles/752592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752592)
 - [Как работают select_related и prefetch_related в Django](https://habr.com/ru/articles/752574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752574)
 - [Наблюдаемость сетевой инфраструктуры Kubernetes. Часть вторая](https://habr.com/ru/articles/752570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752570)
 <!-- BLOG-POST-LIST:END -->
