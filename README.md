@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем QR-код для электронной визитки vCard](https://habr.com/ru/articles/752562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752562)
 - [[recovery mode] Как использовать нейросети в финансах и аналитике](https://habr.com/ru/articles/752546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752546)
+- [Как я сделал приложение для себя, а оно понравилось многим](https://habr.com/ru/companies/surfstudio/articles/752534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752534)
 - [[Перевод] C++: чем CRTP лучше Шаблонного Метода?](https://habr.com/ru/companies/otus/articles/752530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752530)
 - [[Перевод] Шина между Веб-воркерами и основным потоком. Ускоряем работу JavaScript](https://habr.com/ru/articles/752526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752526)
-- [[Перевод] Как быть успешным кодером в мире ChatGPT](https://habr.com/ru/companies/sibur_official/articles/752520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752520)
-- [Как мы запустили официальный российский магазин приложений RuStore](https://habr.com/ru/companies/vk/articles/752070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
