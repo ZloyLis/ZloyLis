@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [По ту сторону фидбека: как проходят Android-собеседования и чего мы ждём от кандидатов](https://habr.com/ru/companies/alfa/articles/752048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752048)
 - [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 2](https://habr.com/ru/articles/747208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747208)
 - [Исходники закрыты, но мы не сдадимся: Пишем полностью нативное GUI-приложение под No-Name смартфон без Android](https://habr.com/ru/companies/timeweb/articles/751604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751604)
 - [[Перевод] Сжатие данных управляет Интернетом. Вот как это работает](https://habr.com/ru/companies/first/articles/752196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752196)
 - [Дизайн API в С++](https://habr.com/ru/articles/752420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752420)
-- [Helmwave v0.30](https://habr.com/ru/articles/752390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
