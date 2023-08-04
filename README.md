@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Как использовать нейросети в финансах и аналитике](https://habr.com/ru/articles/752546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752546)
 - [[Перевод] C++: чем CRTP лучше Шаблонного Метода?](https://habr.com/ru/companies/otus/articles/752530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752530)
 - [[Перевод] Шина между Веб-воркерами и основным потоком. Ускоряем работу JavaScript](https://habr.com/ru/articles/752526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752526)
 - [[Перевод] Как быть успешным кодером в мире ChatGPT](https://habr.com/ru/companies/sibur_official/articles/752520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752520)
 - [Как мы запустили официальный российский магазин приложений RuStore](https://habr.com/ru/companies/vk/articles/752070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752070)
-- [Книги, которые можно рекомендовать любому программисту: от «Карьеры программиста» до «Математических алгоритмов»](https://habr.com/ru/companies/ru_mts/articles/752488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
