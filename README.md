@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [По ту сторону фидбека: как проходят Android-собеседования и чего мы ждём от кандидатов](https://habr.com/ru/companies/alfa/articles/752048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752048)
-- [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 2](https://habr.com/ru/articles/747208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=747208)
-- [Исходники закрыты, но мы не сдадимся: Пишем полностью нативное GUI-приложение под No-Name смартфон без Android](https://habr.com/ru/companies/timeweb/articles/751604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751604)
-- [[Перевод] Сжатие данных управляет Интернетом. Вот как это работает](https://habr.com/ru/companies/first/articles/752196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752196)
-- [Дизайн API в С++](https://habr.com/ru/articles/752420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752420)
+- [Книги, которые можно рекомендовать любому программисту: от «Карьеры программиста» до «Математических алгоритмов»](https://habr.com/ru/companies/ru_mts/articles/752488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752488)
+- [Joomla-дайджест. 1-е полугодие 2023 года](https://habr.com/ru/articles/752484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752484)
+- [Создаем сигнальную среду для резервирования транскодеров по схеме N+k](https://habr.com/ru/articles/752486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752486)
+- [[recovery mode] Делегирование для ООП &lpar;Design Patterns&rpar; и самый эффективный способ взаимодействия объектов](https://habr.com/ru/articles/752478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752478)
+- [Разведочный анализ &lpar;EDA&rpar;](https://habr.com/ru/companies/otus/articles/752434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
