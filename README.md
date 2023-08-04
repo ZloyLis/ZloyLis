@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы запустили официальный российский магазин приложений RuStore](https://habr.com/ru/companies/vk/articles/752070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752070)
 - [Книги, которые можно рекомендовать любому программисту: от «Карьеры программиста» до «Математических алгоритмов»](https://habr.com/ru/companies/ru_mts/articles/752488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752488)
 - [Joomla-дайджест. 1-е полугодие 2023 года](https://habr.com/ru/articles/752484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752484)
 - [Создаем сигнальную среду для резервирования транскодеров по схеме N+k](https://habr.com/ru/articles/752486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752486)
 - [[recovery mode] Делегирование для ООП &lpar;Design Patterns&rpar; и самый эффективный способ взаимодействия объектов](https://habr.com/ru/articles/752478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752478)
-- [Разведочный анализ &lpar;EDA&rpar;](https://habr.com/ru/companies/otus/articles/752434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
