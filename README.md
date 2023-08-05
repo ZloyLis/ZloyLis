@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужно больше Linux-смартфонов: Ubuntu Touch продолжает развиваться, поддерживая новые модели](https://habr.com/ru/companies/ru_mts/articles/752578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752578)
+- [Что такое формальная верификация](https://habr.com/ru/articles/752668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752668)
+- [Анализ временных рядов, или как предсказать погоду на завтра](https://habr.com/ru/articles/752662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752662)
 - [Зачем и как переходить на российский BI?](https://habr.com/ru/companies/modusbi/articles/752602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752602)
 - [Что о системном анализе и бизнес-анализе расскажут на Flow 2023](https://habr.com/ru/companies/jugru/articles/690454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=690454)
-- [Сколько стоит Chat GPT?](https://habr.com/ru/articles/752594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752594)
-- [Как работают select_related и prefetch_related в Django](https://habr.com/ru/articles/752574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752574)
-- [Наблюдаемость сетевой инфраструктуры Kubernetes. Часть вторая](https://habr.com/ru/articles/752570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
