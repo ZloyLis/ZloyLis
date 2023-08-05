@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Волшебство Drag And Drop: Как динамические дашборды делают жизнь проще. Часть 1. Описание и мотивы](https://habr.com/ru/articles/752684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752684)
 - [Sticky Header в SwiftUI](https://habr.com/ru/articles/752670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752670)
 - [Нужно больше Linux-смартфонов: Ubuntu Touch продолжает развиваться, поддерживая новые модели](https://habr.com/ru/companies/ru_mts/articles/752578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752578)
 - [Что такое формальная верификация](https://habr.com/ru/articles/752668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752668)
 - [Анализ временных рядов, или как предсказать погоду на завтра](https://habr.com/ru/articles/752662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752662)
-- [Зачем и как переходить на российский BI?](https://habr.com/ru/companies/modusbi/articles/752602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
