@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Свойство типа Controller Service в кастомном процессоре NiFi](https://habr.com/ru/articles/752690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752690)
+- [IronZen: как мы решили боль тысяч тревожных людей, разработав собственное мобильное приложение](https://habr.com/ru/articles/752688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752688)
 - [Волшебство Drag And Drop: Как динамические дашборды делают жизнь проще. Часть 1. Описание и мотивы](https://habr.com/ru/articles/752684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752684)
 - [Sticky Header в SwiftUI](https://habr.com/ru/articles/752670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752670)
 - [Нужно больше Linux-смартфонов: Ubuntu Touch продолжает развиваться, поддерживая новые модели](https://habr.com/ru/companies/ru_mts/articles/752578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752578)
-- [Что такое формальная верификация](https://habr.com/ru/articles/752668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752668)
-- [Анализ временных рядов, или как предсказать погоду на завтра](https://habr.com/ru/articles/752662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
