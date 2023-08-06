@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Адаптация типографии под пользовательские предпочтения с помощью CSS](https://habr.com/ru/articles/752812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752812)
+- [C++ Дайджест #0 &lpar;24 июля 2023 – 6 августа 2023&rpar;](https://habr.com/ru/articles/752802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752802)
 - [Импортозамещаем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/752762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752762)
 - [bindActionCreators — маленькая утилита, решающая проблемы](https://habr.com/ru/articles/752772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752772)
 - [Разработка собственного плагина для nx &lpar;executor и generator&rpar;](https://habr.com/ru/articles/752760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752760)
-- [Yet another UDP transport](https://habr.com/ru/articles/752730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752730)
-- [Использование Kotlin и WebFlux для выполнения задач ML в Apache Spark на GPU](https://habr.com/ru/articles/752702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
