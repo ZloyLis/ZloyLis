@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импортозамещаем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/752762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752762)
 - [bindActionCreators — маленькая утилита, решающая проблемы](https://habr.com/ru/articles/752772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752772)
 - [Разработка собственного плагина для nx &lpar;executor и generator&rpar;](https://habr.com/ru/articles/752760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752760)
 - [Yet another UDP transport](https://habr.com/ru/articles/752730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752730)
 - [Использование Kotlin и WebFlux для выполнения задач ML в Apache Spark на GPU](https://habr.com/ru/articles/752702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752702)
-- [Свойство типа Controller Service в кастомном процессоре NiFi](https://habr.com/ru/articles/752690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
