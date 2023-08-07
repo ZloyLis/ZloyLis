@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Zig для меня — это новый C](https://habr.com/ru/articles/753078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753078)
+- [Как написать удобный API — 15 рекомендаций](https://habr.com/ru/companies/ru_mts/articles/753074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753074)
+- [Приложения алгебры кортежей. Часть 1. Гибкая система счисления с простыми основаниями](https://habr.com/ru/articles/752836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752836)
 - [Java Digest #3](https://habr.com/ru/companies/tinkoff/articles/753032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753032)
 - [Честный отзыв про 3 курса для разработчиков от Яндекс Практикума](https://habr.com/ru/articles/752858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752858)
-- [Уберизация грузовых автоперевозок: обзор российских игроков](https://habr.com/ru/articles/753026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753026)
-- [Buran Motion Planning Framework](https://habr.com/ru/articles/752996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752996)
-- [[Перевод] Brain2Music: как нейроcеть распознает мелодии по МРТ мозга](https://habr.com/ru/companies/wunderfund/articles/752142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
