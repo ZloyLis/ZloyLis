@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Brain2Music: как нейроcеть распознает мелодии по МРТ мозга](https://habr.com/ru/companies/wunderfund/articles/752142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752142)
+- [Кольца Власти в компьютерной томографии: каковы они и как ими завладеть?](https://habr.com/ru/companies/smartengines/articles/752582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752582)
 - [Feature-Sliced Design – альтернативный подход к организации кода приложений](https://habr.com/ru/companies/avito/articles/752536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752536)
 - [От распределённого бэкенда — к сильному ИИ. Чем сейчас занимается легендарный Джефф Дин?](https://habr.com/ru/companies/ruvds/articles/752206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752206)
 - [Как всё успевать &lpar;а главное — зачем&rpar;: тайм-менеджмент по-роботовски](https://habr.com/ru/companies/redmadrobot/articles/752954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752954)
-- [DTO в Python. Способы реализации](https://habr.com/ru/articles/752936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752936)
-- [Реально ли совмещать обучение, работу и личную жизнь — рассказывают студенты](https://habr.com/ru/companies/yandex_praktikum/articles/752906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
