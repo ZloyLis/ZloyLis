@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Мобильная разработка за неделю #500 &lpar;31 июля — 6 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/752878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752878)
 - [Из кладовщика в разработчики](https://habr.com/ru/articles/752874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752874)
+- [Жизнь и смерть в данных](https://habr.com/ru/articles/752854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752854)
 - [JsonProperty.EFCore: Упрощаем работу с JSON-полями в Entity Framework Core](https://habr.com/ru/articles/752838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752838)
 - [[Перевод] Адаптация типографии под пользовательские предпочтения с помощью CSS](https://habr.com/ru/articles/752812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752812)
-- [C++ Дайджест #0 &lpar;24 июля 2023 – 6 августа 2023&rpar;](https://habr.com/ru/articles/752802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
