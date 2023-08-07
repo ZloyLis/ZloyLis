@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Buran Motion Planning Framework](https://habr.com/ru/articles/752996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752996)
 - [[Перевод] Brain2Music: как нейроcеть распознает мелодии по МРТ мозга](https://habr.com/ru/companies/wunderfund/articles/752142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752142)
 - [Кольца Власти в компьютерной томографии: каковы они и как ими завладеть?](https://habr.com/ru/companies/smartengines/articles/752582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752582)
+- [Правильный if для ускорения работы](https://habr.com/ru/companies/stc_spb/articles/752974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752974)
 - [Feature-Sliced Design – альтернативный подход к организации кода приложений](https://habr.com/ru/companies/avito/articles/752536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752536)
-- [От распределённого бэкенда — к сильному ИИ. Чем сейчас занимается легендарный Джефф Дин?](https://habr.com/ru/companies/ruvds/articles/752206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752206)
-- [Как всё успевать &lpar;а главное — зачем&rpar;: тайм-менеджмент по-роботовски](https://habr.com/ru/companies/redmadrobot/articles/752954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
