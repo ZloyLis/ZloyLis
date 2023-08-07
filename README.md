@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature-Sliced Design – альтернативный подход к организации кода приложений](https://habr.com/ru/companies/avito/articles/752536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752536)
+- [От распределённого бэкенда — к сильному ИИ. Чем сейчас занимается легендарный Джефф Дин?](https://habr.com/ru/companies/ruvds/articles/752206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752206)
+- [Как всё успевать &lpar;а главное — зачем&rpar;: тайм-менеджмент по-роботовски](https://habr.com/ru/companies/redmadrobot/articles/752954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752954)
 - [DTO в Python. Способы реализации](https://habr.com/ru/articles/752936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752936)
-- [[recovery mode] Ниже следующий мой пост будет из рубрики «Ретроспектива» или «А Вы знали?»](https://habr.com/ru/articles/752926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752926)
 - [Реально ли совмещать обучение, работу и личную жизнь — рассказывают студенты](https://habr.com/ru/companies/yandex_praktikum/articles/752906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752906)
-- [На сколько Swift удобен для DSL?](https://habr.com/ru/companies/broadcast/articles/752614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752614)
-- [Как конфигурировать функциональность мобильных приложений](https://habr.com/ru/articles/752892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
