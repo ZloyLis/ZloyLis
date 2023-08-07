@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На сколько Swift удобен для DSL?](https://habr.com/ru/companies/broadcast/articles/752614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752614)
+- [Как конфигурировать функциональность мобильных приложений](https://habr.com/ru/articles/752892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752892)
 - [Мобильная разработка за неделю #500 &lpar;31 июля — 6 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/752878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752878)
 - [Из кладовщика в разработчики](https://habr.com/ru/articles/752874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752874)
 - [Жизнь и смерть в данных](https://habr.com/ru/articles/752854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752854)
-- [JsonProperty.EFCore: Упрощаем работу с JSON-полями в Entity Framework Core](https://habr.com/ru/articles/752838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752838)
-- [[Перевод] Адаптация типографии под пользовательские предпочтения с помощью CSS](https://habr.com/ru/articles/752812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
