@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Декларативное управление конфигурацией узлов Kubernetes в масштабе](https://habr.com/ru/companies/jetinfosystems/articles/753256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753256)
+- [Гайд 2023 Xdebug в PHPSTORM + Virtual server + Docker для macOS с пробросом портов](https://habr.com/ru/articles/753264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753264)
+- [[recovery mode] Декларативное управление конфигурацией узлов Kubernetes в масштабе](https://habr.com/ru/companies/oleg-bunin/articles/753256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753256)
 - [[Перевод] Vite SSR BOOST — Наш собственный путь в мире React SSR](https://habr.com/ru/articles/753254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753254)
 - [Flutter DevTools: анализируем и улучшаем Flutter-приложения на примере «Росбанк Инвест»](https://habr.com/ru/companies/rosbank/articles/753252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753252)
 - [Как сделать ошибки в сложной системе полезными для пользователя](https://habr.com/ru/companies/edgecenter/articles/753236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753236)
-- [Внутреннее представление и оптимизации строк в JavaScript-движке V8: «отмываем» строки, «обгоняем» C++](https://habr.com/ru/companies/ruvds/articles/745008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
