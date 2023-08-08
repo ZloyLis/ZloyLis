@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микрофронтенд: достоинства и недостатки, подходы к организации](https://habr.com/ru/companies/ru_mts/articles/753284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753284)
+- [Пошушукаемся о Барбаре Лисков или раз и навсегда запоминаем принцип подстановки](https://habr.com/ru/articles/753282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753282)
+- [Seastar как платформа для опорной сети 5G и краткое сравнение с Boost.Asio, userver и другими](https://habr.com/ru/companies/yadro/articles/751830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751830)
 - [Гайд 2023 Xdebug в PHPSTORM + Virtual server + Docker для macOS с пробросом портов](https://habr.com/ru/articles/753264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753264)
 - [[recovery mode] Декларативное управление конфигурацией узлов Kubernetes в масштабе](https://habr.com/ru/companies/oleg-bunin/articles/753256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753256)
-- [[Перевод] Vite SSR BOOST — Наш собственный путь в мире React SSR](https://habr.com/ru/articles/753254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753254)
-- [Flutter DevTools: анализируем и улучшаем Flutter-приложения на примере «Росбанк Инвест»](https://habr.com/ru/companies/rosbank/articles/753252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753252)
-- [Как сделать ошибки в сложной системе полезными для пользователя](https://habr.com/ru/companies/edgecenter/articles/753236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
