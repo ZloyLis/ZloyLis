@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Глубокий Взгляд в Мир Параметризованных Кривых и Линий: От Регулярных Функций до Диффеоморфизмов](https://habr.com/ru/articles/753300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753300)
+- [Глубокий взгляд в мир параметризованных кривых и линий: от регулярных функций до диффеоморфизмов](https://habr.com/ru/articles/753300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753300)
 - [Микрофронтенд: достоинства и недостатки, подходы к организации](https://habr.com/ru/companies/ru_mts/articles/753284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753284)
 - [Пошушукаемся о Барбаре Лисков или раз и навсегда запоминаем принцип подстановки](https://habr.com/ru/articles/753282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753282)
 - [Seastar как платформа для опорной сети 5G и краткое сравнение с Boost.Asio, userver и другими](https://habr.com/ru/companies/yadro/articles/751830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751830)
