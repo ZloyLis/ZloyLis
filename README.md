@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Декларативное управление конфигурацией узлов Kubernetes в масштабе](https://habr.com/ru/companies/jetinfosystems/articles/753256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753256)
+- [[Перевод] Vite SSR BOOST — Наш собственный путь в мире React SSR](https://habr.com/ru/articles/753254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753254)
+- [Flutter DevTools: анализируем и улучшаем Flutter-приложения на примере «Росбанк Инвест»](https://habr.com/ru/companies/rosbank/articles/753252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753252)
+- [Как сделать ошибки в сложной системе полезными для пользователя](https://habr.com/ru/companies/edgecenter/articles/753236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753236)
 - [Внутреннее представление и оптимизации строк в JavaScript-движке V8: «отмываем» строки, «обгоняем» C++](https://habr.com/ru/companies/ruvds/articles/745008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745008)
-- [Как мы запустили свой трекер финансов: кейс Moneon](https://habr.com/ru/companies/cleverpumpkin/articles/753228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753228)
-- [[Перевод] Пишем и отлаживаем код для ARM64 на голом железе](https://habr.com/ru/companies/timeweb/articles/752256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752256)
-- [Универсальная система управления BuxarUMS. Начало](https://habr.com/ru/articles/753220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753220)
-- [Реализуем Type Inference на Rust — Часть #2: Простой Lambda Calculus](https://habr.com/ru/articles/753180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
