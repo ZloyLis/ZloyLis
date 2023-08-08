@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глубокий Взгляд в Мир Параметризованных Кривых и Линий: От Регулярных Функций до Диффеоморфизмов](https://habr.com/ru/articles/753300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753300)
 - [Микрофронтенд: достоинства и недостатки, подходы к организации](https://habr.com/ru/companies/ru_mts/articles/753284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753284)
 - [Пошушукаемся о Барбаре Лисков или раз и навсегда запоминаем принцип подстановки](https://habr.com/ru/articles/753282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753282)
 - [Seastar как платформа для опорной сети 5G и краткое сравнение с Boost.Asio, userver и другими](https://habr.com/ru/companies/yadro/articles/751830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751830)
 - [Гайд 2023 Xdebug в PHPSTORM + Virtual server + Docker для macOS с пробросом портов](https://habr.com/ru/articles/753264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753264)
-- [[recovery mode] Декларативное управление конфигурацией узлов Kubernetes в масштабе](https://habr.com/ru/companies/oleg-bunin/articles/753256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
