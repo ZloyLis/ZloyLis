@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Универсальная система управления BuxarUMS. Начало](https://habr.com/ru/articles/753220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753220)
 - [Реализуем Type Inference на Rust — Часть #2: Простой Lambda Calculus](https://habr.com/ru/articles/753180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753180)
 - [Выжимаем ATtiny10, практическое применение](https://habr.com/ru/articles/753194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753194)
 - [[Перевод] Встречайте Next.js Commerce 2.0](https://habr.com/ru/articles/753174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753174)
 - [Begin /* Техническое интервью](https://habr.com/ru/articles/753154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753154)
-- [Security Week 2332: новый метод подслушивания за клавиатурным набором](https://habr.com/ru/companies/kaspersky/articles/753112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
