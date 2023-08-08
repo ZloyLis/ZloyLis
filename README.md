@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутреннее представление и оптимизации строк в JavaScript-движке V8: «отмываем» строки, «обгоняем» C++](https://habr.com/ru/companies/ruvds/articles/745008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=745008)
+- [Как мы запустили свой трекер финансов: кейс Moneon](https://habr.com/ru/companies/cleverpumpkin/articles/753228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753228)
+- [[Перевод] Пишем и отлаживаем код для ARM64 на голом железе](https://habr.com/ru/companies/timeweb/articles/752256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752256)
 - [Универсальная система управления BuxarUMS. Начало](https://habr.com/ru/articles/753220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753220)
 - [Реализуем Type Inference на Rust — Часть #2: Простой Lambda Calculus](https://habr.com/ru/articles/753180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753180)
-- [Выжимаем ATtiny10, практическое применение](https://habr.com/ru/articles/753194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753194)
-- [[Перевод] Встречайте Next.js Commerce 2.0](https://habr.com/ru/articles/753174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753174)
-- [Begin /* Техническое интервью](https://habr.com/ru/articles/753154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
