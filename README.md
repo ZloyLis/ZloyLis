@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Встречайте Next.js Commerce 2.0](https://habr.com/ru/articles/753174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753174)
 - [Begin /* Техническое интервью](https://habr.com/ru/articles/753154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753154)
 - [Security Week 2332: новый метод подслушивания за клавиатурным набором](https://habr.com/ru/companies/kaspersky/articles/753112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753112)
 - [Apple Pro Weekly News &lpar;31.07 – 06.08.23&rpar;](https://habr.com/ru/articles/753108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753108)
 - [[Перевод] Кэширование обмена данными между сервисами в Kubernetes и Istio](https://habr.com/ru/companies/southbridge/articles/753098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753098)
-- [Zig для меня — это новый C](https://habr.com/ru/articles/753078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
