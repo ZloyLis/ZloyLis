@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пирамида метрик: пожалуй, лучший способ понять, что не так с вашим продуктом](https://habr.com/ru/companies/agima/articles/753314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753314)
+- [Как приготовить хорошие cookies: 57 гайдлайнов](https://habr.com/ru/articles/753522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753522)
+- [[Перевод] Принципы SOLID: как писать хорошо масштабируемый и поддерживаемый код](https://habr.com/ru/companies/netologyru/articles/753488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753488)
 - [Треугольник Серпинского: что это такое, как построить и где его применять](https://habr.com/ru/companies/itglobalcom/articles/753200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753200)
 - [Собеседуем ChatGPT в бэкенд: эксперимент](https://habr.com/ru/companies/yoomoney/articles/753136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753136)
-- [[Перевод] Сбор данных для машинного обучения: этапы, методики и рекомендации](https://habr.com/ru/articles/753212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753212)
-- [Как правильно дифференцировать дискретные функции &lpar;Часть 1. Тестируем и улучшаем Numpy&rpar;](https://habr.com/ru/articles/753490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753490)
-- [Обзор подозрительных мест в исходном коде MassTransit](https://habr.com/ru/companies/pvs-studio/articles/753474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
