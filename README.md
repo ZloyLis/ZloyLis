@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Асинхронность в Ansible](https://habr.com/ru/companies/otus/articles/753642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753642)
 - [Разработка мультиплеерной игры на Dart+Flutter](https://habr.com/ru/articles/753402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753402)
 - [О разработке веб-приложений на Nim. Часть 2](https://habr.com/ru/articles/753634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753634)
 - [Как мы поднимаем dev-стэнд&lpar;ы&rpar; и гоняем полноценные тесты api на каждый коммит](https://habr.com/ru/articles/753444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753444)
 - [KPI внедрили, а аналитика спросить забыли…](https://habr.com/ru/articles/753618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753618)
-- [Анализ временных данных с учетом сезонности и трендов](https://habr.com/ru/companies/otus/articles/753482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
