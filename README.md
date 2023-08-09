@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Multiplatform в ОС Аврора](https://habr.com/ru/articles/753570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753570)
+- [[Перевод] 10 самых влиятельных &lpar;и почти мёртвых&rpar; языков программирования](https://habr.com/ru/companies/ncloudtech/articles/753562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753562)
 - [[Перевод] Менеджеры контекста в Python](https://habr.com/ru/companies/piter/articles/753558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753558)
 - [Как мы улучшаем курс по iOS-разработке — и зачем вносить изменения сразу после запуска](https://habr.com/ru/companies/yandex_praktikum/articles/753550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753550)
 - [SwiftData: быстрый старт](https://habr.com/ru/articles/753552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753552)
-- [[recovery mode] Как мы проектировали инфраструктуру для проекта «Поддержка будет»](https://habr.com/ru/companies/tinkoff/articles/753538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753538)
-- [Пирамида метрик: пожалуй, лучший способ понять, что не так с вашим продуктом](https://habr.com/ru/companies/agima/articles/753314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
