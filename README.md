@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KPI внедрили, а аналитика спросить забыли…](https://habr.com/ru/articles/753618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753618)
 - [Анализ временных данных с учетом сезонности и трендов](https://habr.com/ru/companies/otus/articles/753482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753482)
 - [«У нас с этим контрагентом дружеские отношения» или как остаться без документации на проекте](https://habr.com/ru/articles/753586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753586)
 - [Kotlin Multiplatform в ОС Аврора](https://habr.com/ru/articles/753570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753570)
 - [[Перевод] 10 самых влиятельных &lpar;и почти мёртвых&rpar; языков программирования](https://habr.com/ru/companies/ncloudtech/articles/753562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753562)
-- [[Перевод] Менеджеры контекста в Python](https://habr.com/ru/companies/piter/articles/753558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
