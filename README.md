@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Парсинг сайта с помощью Chat GPT: упрощаем создание парсера](https://habr.com/ru/articles/753134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753134)
 - [Kafka UI краткий гайд](https://habr.com/ru/articles/753398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753398)
+- [Учиться, учиться и еще раз учиться преподавать. Почему надо изменить подход к обучению?](https://habr.com/ru/articles/753240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753240)
 - [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/articles/753350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753350)
 - [Kotlin: взгляд изнутри — преимущества, недостатки и особенности](https://habr.com/ru/articles/752450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752450)
-- [Глубокий взгляд в мир параметризованных кривых и линий: от регулярных функций до диффеоморфизмов](https://habr.com/ru/articles/753300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
