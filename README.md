@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Треугольник Серпинского: что это такое, как построить и где его применять](https://habr.com/ru/companies/itglobalcom/articles/753200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753200)
 - [Собеседуем ChatGPT в бэкенд: эксперимент](https://habr.com/ru/companies/yoomoney/articles/753136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753136)
 - [[Перевод] Сбор данных для машинного обучения: этапы, методики и рекомендации](https://habr.com/ru/articles/753212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753212)
 - [Как правильно дифференцировать дискретные функции &lpar;Часть 1. Тестируем и улучшаем Numpy&rpar;](https://habr.com/ru/articles/753490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753490)
 - [Обзор подозрительных мест в исходном коде MassTransit](https://habr.com/ru/companies/pvs-studio/articles/753474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753474)
-- [И имя нам легион…](https://habr.com/ru/companies/first/articles/753216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
