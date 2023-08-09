@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [И имя нам легион…](https://habr.com/ru/companies/first/articles/753216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753216)
+- [Как мы в 1С работаем с различными СУБД, не привлекая внимания санитаров &lpar;зачеркнуто&rpar; разработчиков](https://habr.com/ru/companies/1c/articles/753242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753242)
+- [Как за полтора месяца получить опыт в IT и найти работу: интервью со студентом школы Metaclass](https://habr.com/ru/companies/kts/articles/753442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753442)
 - [Парсинг сайта с помощью Chat GPT: упрощаем создание парсера](https://habr.com/ru/articles/753134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753134)
 - [Kafka UI краткий гайд](https://habr.com/ru/articles/753398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753398)
-- [Учиться, учиться и еще раз учиться преподавать. Почему надо изменить подход к обучению?](https://habr.com/ru/articles/753240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753240)
-- [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/articles/753350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753350)
-- [Kotlin: взгляд изнутри — преимущества, недостатки и особенности](https://habr.com/ru/articles/752450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
