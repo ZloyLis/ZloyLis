@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Карманный макромир: любительский комплект для макросъёмки на телефон](https://habr.com/ru/companies/timeweb/articles/753296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753296)
-- [Настраиваем управление секретами с Yandex Lockbox, AWS Secret Manager, Vault Secrets и shell-operator](https://habr.com/ru/companies/flant/articles/751656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751656)
-- [Kubernetes: продолжаем говорить о контейнерах и архитектуре](https://habr.com/ru/companies/gazprombank/articles/753622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753622)
-- [Продаём тимлиду идею Server/Backend-Driven UI](https://habr.com/ru/articles/753718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753718)
-- [React + Redux/Effector: инструменты frontend-разработчика для создания интерфейса](https://habr.com/ru/companies/simbirsoft/articles/753682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753682)
+- [Чем так хороши Lottie-анимации и почему вам стоит о них узнать](https://habr.com/ru/companies/pyrobyte/articles/753748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753748)
+- [DIY-программатор ST-Link V2.1](https://habr.com/ru/articles/749474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749474)
+- [«Бизнес-юнит — как семья». Незрячий сотрудник VK водит экскурсии по офису и развивает цифровую доступность](https://habr.com/ru/companies/vk/articles/753724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753724)
+- [Die But Do: теханализ и почему без него разработка обречена на провал](https://habr.com/ru/companies/docdoc/articles/752976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752976)
+- [Помощник металлурга: ML-решение для сталеваров](https://habr.com/ru/companies/jetinfosystems/articles/753600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
