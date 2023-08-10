@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как организовать мониторинг актуальности Helm-релизов в кластерах Kubernetes](https://habr.com/ru/companies/selectel/articles/753808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753808)
+- [Kiosk &lpar;Lock task mode&rpar; для Android: польза, кейсы применения и кастомизация](https://habr.com/ru/companies/kaspersky/articles/753288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753288)
+- [Существует ли в мультивселенной бесконечное количество наших копий?](https://habr.com/ru/companies/ruvds/articles/753412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753412)
+- [Книга «Искусство чистого кода»](https://habr.com/ru/companies/piter/articles/753820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753820)
 - [Написание Vite плагина](https://habr.com/ru/articles/753788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753788)
-- [5,5 миллионов рублей на product дизайне за год](https://habr.com/ru/articles/753798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753798)
-- [assembler 6502 &lpar;nes, famicom, dendy&rpar;, миграция с мапера MMC1 на MMC3 прерывание IRQ](https://habr.com/ru/articles/753794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753794)
-- [Определение области коллизии](https://habr.com/ru/articles/753776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753776)
-- [Архитектура рекомендаций: как дать пользователю соцсети то, что ему понравится](https://habr.com/ru/companies/magnus-tech/articles/753706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
