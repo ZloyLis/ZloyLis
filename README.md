@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Написание Vite плагина](https://habr.com/ru/articles/753788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753788)
+- [5,5 миллионов рублей на product дизайне за год](https://habr.com/ru/articles/753798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753798)
+- [assembler 6502 &lpar;nes, famicom, dendy&rpar;, миграция с мапера MMC1 на MMC3 прерывание IRQ](https://habr.com/ru/articles/753794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753794)
 - [Определение области коллизии](https://habr.com/ru/articles/753776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753776)
 - [Архитектура рекомендаций: как дать пользователю соцсети то, что ему понравится](https://habr.com/ru/companies/magnus-tech/articles/753706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753706)
-- [Разворачиваем веб-приложение в Kubernetes с нуля](https://habr.com/ru/articles/752586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752586)
-- [«Возьмите инициативу на себя»: готовимся к System Design Interview](https://habr.com/ru/companies/avito/articles/753248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753248)
-- [Чем так хороши Lottie-анимации и почему вам стоит о них узнать](https://habr.com/ru/companies/pyrobyte/articles/753748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
