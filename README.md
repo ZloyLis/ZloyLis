@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык 1С: плюсы и минусы для аналитических платформ](https://habr.com/ru/companies/modusbi/articles/753860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753860)
+- [Как приручить Kubernetes: от планирования задач до переноса аренд](https://habr.com/ru/articles/753850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753850)
 - [Новый взгляд на Maven-plugin для IDEA — GMaven](https://habr.com/ru/articles/753828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753828)
 - [Как организовать мониторинг актуальности Helm-релизов в кластерах Kubernetes](https://habr.com/ru/companies/selectel/articles/753808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753808)
 - [Kiosk &lpar;Lock task mode&rpar; для Android: польза, кейсы применения и кастомизация](https://habr.com/ru/companies/kaspersky/articles/753288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753288)
-- [Существует ли в мультивселенной бесконечное количество наших копий?](https://habr.com/ru/companies/ruvds/articles/753412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753412)
-- [Книга «Искусство чистого кода»](https://habr.com/ru/companies/piter/articles/753820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
