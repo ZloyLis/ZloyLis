@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Железный Асессор, ML-оценка скорости и безопасный диспатч: как технологии делают такси безопаснее](https://habr.com/ru/companies/yandex/articles/753620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753620)
-- [Как закалялась сталь: моделируем остывание рельса, чтобы сделать его прочнее](https://habr.com/ru/companies/evraz/articles/682046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682046)
-- [[Перевод] Мифы и реальность языка программирования C](https://habr.com/ru/articles/753272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753272)
-- [Я люблю питон, и вот почему он меня бесит](https://habr.com/ru/articles/753672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753672)
-- [Реально Бесконечное &lpar;лето&rpar; RuGPT3.5: Генерация новеллы на ходу нейросетью](https://habr.com/ru/articles/751972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751972)
+- [Карманный макромир: любительский комплект для макросъёмки на телефон](https://habr.com/ru/companies/timeweb/articles/753296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753296)
+- [Настраиваем управление секретами с Yandex Lockbox, AWS Secret Manager, Vault Secrets и shell-operator](https://habr.com/ru/companies/flant/articles/751656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751656)
+- [Kubernetes: продолжаем говорить о контейнерах и архитектуре](https://habr.com/ru/companies/gazprombank/articles/753622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753622)
+- [Продаём тимлиду идею Server/Backend-Driven UI](https://habr.com/ru/articles/753718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753718)
+- [React + Redux/Effector: инструменты frontend-разработчика для создания интерфейса](https://habr.com/ru/companies/simbirsoft/articles/753682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
