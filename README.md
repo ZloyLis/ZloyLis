@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Железный Асессор, ML-оценка скорости и безопасный диспатч: как технологии делают такси безопаснее](https://habr.com/ru/companies/yandex/articles/753620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753620)
 - [Как закалялась сталь: моделируем остывание рельса, чтобы сделать его прочнее](https://habr.com/ru/companies/evraz/articles/682046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=682046)
 - [[Перевод] Мифы и реальность языка программирования C](https://habr.com/ru/articles/753272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753272)
 - [Я люблю питон, и вот почему он меня бесит](https://habr.com/ru/articles/753672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753672)
 - [Реально Бесконечное &lpar;лето&rpar; RuGPT3.5: Генерация новеллы на ходу нейросетью](https://habr.com/ru/articles/751972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751972)
-- [Как язык Аргентум делает быстрый dynamic_cast и диспетчеризацию методов интерфейсов четырьмя инструкциями процессора](https://habr.com/ru/articles/753650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
