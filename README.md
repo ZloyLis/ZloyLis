@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как аугментация помогает нейронным сетям решать уравнения в частных производных](https://habr.com/ru/companies/airi/articles/753854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753854)
-- [Яндекс Практикум — курс «Алгоритмы»](https://habr.com/ru/articles/754006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754006)
-- [Новые рельсы Kubernetes для интеграционных сервисов](https://habr.com/ru/companies/rncb/articles/753976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753976)
-- [Создаем свой Managed K8S за 5 минут на старом железе](https://habr.com/ru/companies/timeweb/articles/751008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751008)
-- [[Перевод] Евклид: постулаты, сторонники и переход к новой геометрии](https://habr.com/ru/companies/itglobalcom/articles/753858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753858)
+- [Они заставят вас ненавидеть: знакомство с VAST и VPAID, или Как интегрировать рекламу в web-видеоплеер](https://habr.com/ru/companies/doubletapp/articles/753450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753450)
+- [MTC Live: от идеи до облачного приложения](https://habr.com/ru/companies/ru_mts/articles/754048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754048)
+- [[recovery mode] Web Scraping с использованием Flutter: Извлечение данных с веб-сайтов](https://habr.com/ru/articles/754042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754042)
+- [Почему вам не нужно в IT-2 или когда Автор сам запутался и пытается разобраться](https://habr.com/ru/articles/754040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754040)
+- [DI в JS: идентификаторы зависимостей](https://habr.com/ru/articles/754030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
