@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест мобильной разработки за июль](https://habr.com/ru/companies/vk/articles/754084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754084)
 - [Разработка событийно-ориентированных микросервисов с помощью Python](https://habr.com/ru/companies/skillbox/articles/754078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754078)
 - [[Перевод - recovery mode ] Безболезненное изменение кнопки оплаты](https://habr.com/ru/articles/754070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754070)
 - [[Перевод] Эти прекрасные древовидные карты &lpar;альтернатива pprint&rpar;](https://habr.com/ru/companies/ruvds/articles/753530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753530)
 - [Flutter-разработчикам: показываем, как шарить код через DartPad](https://habr.com/ru/companies/surfstudio/articles/754058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754058)
-- [Они заставят вас ненавидеть: знакомство с VAST и VPAID, или Как интегрировать рекламу в web-видеоплеер](https://habr.com/ru/companies/doubletapp/articles/753450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
