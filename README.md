@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эти прекрасные древовидные карты &lpar;альтернатива pprint&rpar;](https://habr.com/ru/companies/ruvds/articles/753530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753530)
+- [Flutter-разработчикам: показываем, как шарить код через DartPad](https://habr.com/ru/companies/surfstudio/articles/754058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754058)
 - [Они заставят вас ненавидеть: знакомство с VAST и VPAID, или Как интегрировать рекламу в web-видеоплеер](https://habr.com/ru/companies/doubletapp/articles/753450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753450)
 - [MTC Live: от идеи до облачного приложения](https://habr.com/ru/companies/ru_mts/articles/754048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754048)
 - [[recovery mode] Web Scraping с использованием Flutter: Извлечение данных с веб-сайтов](https://habr.com/ru/articles/754042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754042)
-- [Почему вам не нужно в IT-2 или когда Автор сам запутался и пытается разобраться](https://habr.com/ru/articles/754040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754040)
-- [DI в JS: идентификаторы зависимостей](https://habr.com/ru/articles/754030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
