@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес-ключ и суррогатный ключ нужны оба](https://habr.com/ru/articles/754160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754160)
+- [Expr: простой и мощный ЯП на Go](https://habr.com/ru/articles/754158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754158)
 - [Insomnia — Инструкция по применению](https://habr.com/ru/articles/754154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754154)
 - [createAsyncThunk.withTypes&lpar;&rpar;](https://habr.com/ru/articles/754152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754152)
 - [Symfony Json RPC API Bundle — простое API со всем необходимым](https://habr.com/ru/articles/754134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754134)
-- [Подпись коммитов в git при помощи gpg](https://habr.com/ru/articles/754128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754128)
-- [Как запомнить что-нибудь навсегда?](https://habr.com/ru/articles/754124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
