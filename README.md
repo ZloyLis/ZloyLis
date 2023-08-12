@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследуем защиту программ на практике](https://habr.com/ru/articles/754196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754196)
 - [1.0 Асинхронность. Event Loop, MicroTask и Event в Dart](https://habr.com/ru/articles/754194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754194)
 - [Поднимаем кластер PostgreSQL в Docker и Testcontainers](https://habr.com/ru/articles/754168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754168)
 - [Бизнес-ключ и суррогатный ключ нужны оба](https://habr.com/ru/articles/754160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754160)
 - [Expr: простой и мощный ЯП на Go](https://habr.com/ru/articles/754158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754158)
-- [Insomnia — Инструкция по применению](https://habr.com/ru/articles/754154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
