@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы делали курс Base Cloud DevOps и что он дает новичкам в DevOps и Kubernetes](https://habr.com/ru/companies/beeline_cloud/articles/754222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754222)
+- [[Перевод] Исчерпывающее руководство по настройке Jenkins под iOS в 2023 году](https://habr.com/ru/companies/otus/articles/754156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754156)
 - [Исследуем защиту программ на практике](https://habr.com/ru/articles/754196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754196)
 - [1.0 Асинхронность. Event Loop, MicroTask и Event в Dart](https://habr.com/ru/articles/754194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754194)
 - [Поднимаем кластер PostgreSQL в Docker и Testcontainers](https://habr.com/ru/articles/754168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754168)
-- [Бизнес-ключ и суррогатный ключ нужны оба](https://habr.com/ru/articles/754160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754160)
-- [Expr: простой и мощный ЯП на Go](https://habr.com/ru/articles/754158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
