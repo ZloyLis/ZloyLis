@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучение YOLOv8s на Google Colab: детектим дорожные знаки](https://habr.com/ru/articles/754206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754206)
 - [Сохранение древовидной структуры в Visual Studio с CMake или создание папок в проекте](https://habr.com/ru/articles/754272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754272)
 - [2.0 Асинхронность. Future](https://habr.com/ru/articles/754268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754268)
 - [Записки ездового кота, разное](https://habr.com/ru/articles/754258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754258)
 - [Крупнейшие IT-корпорации вводят «DRM для сайтов». Аттестация устройств и токены приватного доступа](https://habr.com/ru/companies/globalsign/articles/754250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754250)
-- [Как мы делали курс Base Cloud DevOps и что он дает новичкам в DevOps и Kubernetes](https://habr.com/ru/companies/beeline_cloud/articles/754222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
