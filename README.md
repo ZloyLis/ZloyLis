@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Записки ездового кота, разное](https://habr.com/ru/articles/754258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754258)
 - [Крупнейшие IT-корпорации вводят «DRM для сайтов». Аттестация устройств и токены приватного доступа](https://habr.com/ru/companies/globalsign/articles/754250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754250)
 - [Как мы делали курс Base Cloud DevOps и что он дает новичкам в DevOps и Kubernetes](https://habr.com/ru/companies/beeline_cloud/articles/754222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754222)
 - [[Перевод] Исчерпывающее руководство по настройке Jenkins под iOS в 2023 году](https://habr.com/ru/companies/otus/articles/754156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754156)
 - [Исследуем защиту программ на практике](https://habr.com/ru/articles/754196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754196)
-- [1.0 Асинхронность. Event Loop, MicroTask и Event в Dart](https://habr.com/ru/articles/754194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
