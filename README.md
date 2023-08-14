@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оценка времени проектирования интерфейсов при планировании работ](https://habr.com/ru/articles/754290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754290)
+- [Над какими проектами работали студенты образовательного центра VK в Бауманке](https://habr.com/ru/companies/vk/articles/753738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753738)
 - [Как DDD работает для меня](https://habr.com/ru/companies/tinkoff/articles/753864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753864)
 - [Android Generic Kernel Image — как Google может &lpar;теоретически&rpar; заменить ядро Linux](https://habr.com/ru/articles/754246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754246)
 - [Монолог про отказоустойчивость микросервисных приложений, или Что может пойти не так?](https://habr.com/ru/companies/alfa/articles/753792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753792)
-- [Публикуем Android приложения автоматически с помощью Gitlab CI](https://habr.com/ru/companies/gazprommedia/articles/753984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753984)
-- [Мобильная разработка за неделю #501 &lpar;7 — 13 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/754354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
