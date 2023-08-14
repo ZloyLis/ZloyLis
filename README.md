@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2333: аппаратные уязвимости в процессорах AMD и Intel](https://habr.com/ru/companies/kaspersky/articles/754454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754454)
+- [Работа с «Ягодой» для новичков: подключение пяти микроконтроллеров ESP32 к микрокомпьютеру Raspberry Pi 4 Model B по SPI](https://habr.com/ru/articles/754496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754496)
 - [[Перевод] Создание игры в стиле GameBoy в 13 КБ](https://habr.com/ru/companies/ruvds/articles/754450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754450)
 - [[Перевод] Гайд по разработке ПО от градостроителя](https://habr.com/ru/companies/kts/articles/754382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754382)
 - [Как в крупных компаниях ведут версионирование сценариев в Figma](https://habr.com/ru/articles/754466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754466)
-- [Design Patterns: прототип, прокси и обозреватель для фронтенд-разработчика](https://habr.com/ru/articles/754444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754444)
-- [Как тестировать не-REST-бэкенд. Часть третья, gRPC](https://habr.com/ru/companies/qiwi/articles/753778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
