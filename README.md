@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Гайд по разработке ПО от градостроителя](https://habr.com/ru/companies/kts/articles/754382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754382)
+- [Как в крупных компаниях ведут версионирование сценариев в Figma](https://habr.com/ru/articles/754466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754466)
 - [Design Patterns: прототип, прокси и обозреватель для фронтенд-разработчика](https://habr.com/ru/articles/754444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754444)
 - [Как тестировать не-REST-бэкенд. Часть третья, gRPC](https://habr.com/ru/companies/qiwi/articles/753778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753778)
 - [Из пет-проекта в источник дохода: как я создал чат-бот для поиска вакансий](https://habr.com/ru/companies/yandex_praktikum/articles/753980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753980)
-- [Бесчеловечная социальная модель, которую породило простое дифференциальное уравнение. Что такое мальтузианство?](https://habr.com/ru/companies/itglobalcom/articles/754328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754328)
-- [[recovery mode] Как тестировщику получить сертификат  ISTQB](https://habr.com/ru/articles/754418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
