@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесчеловечная социальная модель, которую породило простое дифференциальное уравнение. Что такое мальтузианство?](https://habr.com/ru/companies/itglobalcom/articles/754328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754328)
+- [[recovery mode] Как тестировщику получить сертификат  ISTQB](https://habr.com/ru/articles/754418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754418)
 - [Оценка времени проектирования интерфейсов при планировании работ](https://habr.com/ru/articles/754290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754290)
 - [Над какими проектами работали студенты образовательного центра VK в Бауманке](https://habr.com/ru/companies/vk/articles/753738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753738)
 - [Как DDD работает для меня](https://habr.com/ru/companies/tinkoff/articles/753864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753864)
-- [Android Generic Kernel Image — как Google может &lpar;теоретически&rpar; заменить ядро Linux](https://habr.com/ru/articles/754246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754246)
-- [Монолог про отказоустойчивость микросервисных приложений, или Что может пойти не так?](https://habr.com/ru/companies/alfa/articles/753792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
