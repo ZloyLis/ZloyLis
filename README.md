@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как DDD работает для меня](https://habr.com/ru/companies/tinkoff/articles/753864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753864)
+- [Android Generic Kernel Image — как Google может &lpar;теоретически&rpar; заменить ядро Linux](https://habr.com/ru/articles/754246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754246)
+- [Монолог про отказоустойчивость микросервисных приложений, или Что может пойти не так?](https://habr.com/ru/companies/alfa/articles/753792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753792)
 - [Публикуем Android приложения автоматически с помощью Gitlab CI](https://habr.com/ru/companies/gazprommedia/articles/753984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753984)
 - [Мобильная разработка за неделю #501 &lpar;7 — 13 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/754354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754354)
-- [[Перевод] S3 не сразу строилось](https://habr.com/ru/articles/754340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754340)
-- [Виртуальные учебные установки – новый подход в изучении электротехнических и электроэнергетических дисциплин](https://habr.com/ru/articles/754336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754336)
-- [Упрощаем себе работу: плагины VS Code, актуальные в 2023 году](https://habr.com/ru/companies/ru_mts/articles/754204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
