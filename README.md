@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns: прототип, прокси и обозреватель для фронтенд-разработчика](https://habr.com/ru/articles/754444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754444)
+- [Как тестировать не-REST-бэкенд. Часть третья, gRPC](https://habr.com/ru/companies/qiwi/articles/753778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753778)
+- [Из пет-проекта в источник дохода: как я создал чат-бот для поиска вакансий](https://habr.com/ru/companies/yandex_praktikum/articles/753980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753980)
 - [Бесчеловечная социальная модель, которую породило простое дифференциальное уравнение. Что такое мальтузианство?](https://habr.com/ru/companies/itglobalcom/articles/754328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754328)
 - [[recovery mode] Как тестировщику получить сертификат  ISTQB](https://habr.com/ru/articles/754418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754418)
-- [Оценка времени проектирования интерфейсов при планировании работ](https://habr.com/ru/articles/754290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754290)
-- [Над какими проектами работали студенты образовательного центра VK в Бауманке](https://habr.com/ru/companies/vk/articles/753738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753738)
-- [Как DDD работает для меня](https://habr.com/ru/companies/tinkoff/articles/753864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
