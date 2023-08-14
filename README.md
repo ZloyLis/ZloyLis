@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 новинок CSS в адаптивной верстке, которые можно использовать уже сейчас](https://habr.com/ru/articles/754566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754566)
 - [Суп с котом: забавная задачка с LeetCode](https://habr.com/ru/articles/754552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754552)
 - [Apple Pro Weekly News &lpar;07.08 – 13.08.23&rpar;](https://habr.com/ru/articles/754530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754530)
 - [Security Week 2333: аппаратные уязвимости в процессорах AMD и Intel](https://habr.com/ru/companies/kaspersky/articles/754454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754454)
 - [Работа с «Ягодой» для новичков: подключение пяти микроконтроллеров ESP32 к микрокомпьютеру Raspberry Pi 4 Model B по SPI](https://habr.com/ru/articles/754496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754496)
-- [[Перевод] Создание игры в стиле GameBoy в 13 КБ](https://habr.com/ru/companies/ruvds/articles/754450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
