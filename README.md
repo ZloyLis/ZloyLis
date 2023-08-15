@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Assembler 6502 переключение CHR мапером MMC3](https://habr.com/ru/articles/754610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754610)
-- [Анализ временных рядов с использованием библиотеки Prophet](https://habr.com/ru/companies/otus/articles/754226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754226)
-- [Обработка больших и очень больших графов: Pregel](https://habr.com/ru/articles/754598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754598)
-- [Ракету пустил и забыл. Или как заставить DI работать](https://habr.com/ru/articles/754580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754580)
-- [5 новинок CSS в адаптивной верстке, которые можно использовать уже сейчас](https://habr.com/ru/articles/754566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754566)
+- [Отвечаю на вопросы про экономический эффект машинного планирования на уральских цехах](https://habr.com/ru/companies/nlmk/articles/749076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749076)
+- [Какой язык программирования выбрать? Часть 4: Spark](https://habr.com/ru/companies/kryptonite/articles/754486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754486)
+- [И снова ChatGPT: боль или радость для начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/753914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753914)
+- [Кто, как и ради чего создаёт онлайн-образование в IT-сфере: истории пяти экспертов](https://habr.com/ru/specials/753982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753982)
+- [Kubernetes 1.28: прощание с Google, оптимизация работы с контейнерами и задачами, новый KEP от «Фланта»](https://habr.com/ru/companies/flant/articles/754398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
