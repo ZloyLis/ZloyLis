@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Assembler 6502 переключение CHR мапером MMC3](https://habr.com/ru/articles/754610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754610)
 - [Анализ временных рядов с использованием библиотеки Prophet](https://habr.com/ru/companies/otus/articles/754226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754226)
 - [Обработка больших и очень больших графов: Pregel](https://habr.com/ru/articles/754598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754598)
 - [Ракету пустил и забыл. Или как заставить DI работать](https://habr.com/ru/articles/754580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754580)
 - [5 новинок CSS в адаптивной верстке, которые можно использовать уже сейчас](https://habr.com/ru/articles/754566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754566)
-- [Суп с котом: забавная задачка с LeetCode](https://habr.com/ru/articles/754552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
