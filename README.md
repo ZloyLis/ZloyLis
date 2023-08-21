@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Архетипы программных архитекторов. Часть 1](https://habr.com/ru/companies/wunderfund/articles/755890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755890)
+- [Как организовать отдачу статических файлов в контейнеризованном Django](https://habr.com/ru/companies/yandex_praktikum/articles/755470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755470)
 - [Отчеты нового поколения](https://habr.com/ru/companies/securityvison/articles/755868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755868)
 - [Обзор Samsung Z Fold 5 и Z Flip 5 из первых рук: изучаем новые трансформеры из Южной Кореи](https://habr.com/ru/companies/ru_mts/articles/755858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755858)
 - [Как запретить разработчику делать не то что нужно?](https://habr.com/ru/companies/nordclan/articles/755852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755852)
-- [Apache Flink ML – прогнозирование в реальном времени](https://habr.com/ru/companies/neoflex/articles/755804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755804)
-- [Миграция приложения на Jetpack Compose](https://habr.com/ru/companies/avito/articles/753246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
