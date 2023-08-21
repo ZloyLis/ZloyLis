@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Одно PWA, чтоб править всеми](https://habr.com/ru/companies/jugru/articles/755844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755844)
+- [ИТ Стажировка в продуктовой компании? Казнить&lpar;,&rpar; нельзя&lpar;,&rpar; помиловать](https://habr.com/ru/companies/banki/articles/755948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755948)
+- [Жорданова нормальная форма](https://habr.com/ru/articles/755950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755950)
 - [[Перевод] Regex engine internals as a library [full]](https://habr.com/ru/articles/755940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755940)
-- [Обработка и анализ естественного языка с помощью Python-библиотеки spaCy](https://habr.com/ru/companies/otus/articles/755584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755584)
 - [Базовый набор для решения задач на LeetCode/Codeforces, ч.1](https://habr.com/ru/articles/755932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755932)
-- [Как простой Telegram-бот помогает с подбором и при этом экономит деньги](https://habr.com/ru/companies/alfa/articles/754896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754896)
-- [Книга «Прикладные структуры данных и алгоритмы. Прокачиваем навыки»](https://habr.com/ru/companies/piter/articles/755274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
