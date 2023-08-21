@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Организовываем свою активность, через пространства. Философия P.A.R.A. + Obsidian](https://habr.com/ru/articles/755982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755982)
 - [Фундаментальное руководство по пакетам в Java](https://habr.com/ru/articles/755654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755654)
 - [Apple Pro Weekly News &lpar;14.08 – 20.08.23&rpar;](https://habr.com/ru/articles/755976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755976)
 - [Security Week 2334: уязвимости в промышленном SDK Codesys](https://habr.com/ru/companies/kaspersky/articles/755918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755918)
 - [Одно PWA, чтоб править всеми](https://habr.com/ru/companies/jugru/articles/755844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755844)
-- [ИТ Стажировка в продуктовой компании? Казнить&lpar;,&rpar; нельзя&lpar;,&rpar; помиловать](https://habr.com/ru/companies/banki/articles/755948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
