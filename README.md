@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как простой Telegram-бот помогает с подбором и при этом экономит деньги](https://habr.com/ru/companies/alfa/articles/754896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754896)
 - [Книга «Прикладные структуры данных и алгоритмы. Прокачиваем навыки»](https://habr.com/ru/companies/piter/articles/755274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755274)
 - [Как автоматизировать рутину с помощью ChatGPT в SEO-проекте и сделать рост трафика на 149%?](https://habr.com/ru/articles/755902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755902)
 - [Как мы за один день наняли много C++ разработчиков: рекомендации МойОфис для нанимающих менеджеров](https://habr.com/ru/companies/ncloudtech/articles/755892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755892)
 - [Как задеплоить монолитный pet проект на Java с 0 и не сойти с ума… Часть 2](https://habr.com/ru/articles/755332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755332)
-- [[Перевод] Разговор об управлении компанией, искусственном интеллекте и ИТ-гигантах](https://habr.com/ru/companies/vk/articles/755040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
