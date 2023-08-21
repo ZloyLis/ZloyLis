@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Отвечаю на вопросы про экономический эффект машинного планирования на уральских цехах](https://habr.com/ru/companies/nlmk/articles/749076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749076)
-- [Какой язык программирования выбрать? Часть 4: Spark](https://habr.com/ru/companies/kryptonite/articles/754486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754486)
-- [И снова ChatGPT: боль или радость для начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/753914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753914)
-- [Кто, как и ради чего создаёт онлайн-образование в IT-сфере: истории пяти экспертов](https://habr.com/ru/specials/753982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753982)
-- [Kubernetes 1.28: прощание с Google, оптимизация работы с контейнерами и задачами, новый KEP от «Фланта»](https://habr.com/ru/companies/flant/articles/754398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754398)
+- [Отчеты нового поколения](https://habr.com/ru/companies/securityvison/articles/755868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755868)
+- [Обзор Samsung Z Fold 5 и Z Flip 5 из первых рук: изучаем новые трансформеры из Южной Кореи](https://habr.com/ru/companies/ru_mts/articles/755858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755858)
+- [Как запретить разработчику делать не то что нужно?](https://habr.com/ru/companies/nordclan/articles/755852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755852)
+- [Apache Flink ML – прогнозирование в реальном времени](https://habr.com/ru/companies/neoflex/articles/755804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755804)
+- [Миграция приложения на Jetpack Compose](https://habr.com/ru/companies/avito/articles/753246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
