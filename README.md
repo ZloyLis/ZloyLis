@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Архетипы программных архитекторов. Часть 1](https://habr.com/ru/companies/wunderfund/articles/755890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755890)
-- [Как организовать отдачу статических файлов в контейнеризованном Django](https://habr.com/ru/companies/yandex_praktikum/articles/755470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755470)
-- [Отчеты нового поколения](https://habr.com/ru/companies/securityvison/articles/755868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755868)
-- [Обзор Samsung Z Fold 5 и Z Flip 5 из первых рук: изучаем новые трансформеры из Южной Кореи](https://habr.com/ru/companies/ru_mts/articles/755858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755858)
-- [Как запретить разработчику делать не то что нужно?](https://habr.com/ru/companies/nordclan/articles/755852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755852)
+- [Книга «Прикладные структуры данных и алгоритмы. Прокачиваем навыки»](https://habr.com/ru/companies/piter/articles/755274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755274)
+- [Как автоматизировать рутину с помощью ChatGPT в SEO-проекте и сделать рост трафика на 149%?](https://habr.com/ru/articles/755902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755902)
+- [Как мы за один день наняли много C++ разработчиков: рекомендации МойОфис для нанимающих менеджеров](https://habr.com/ru/companies/ncloudtech/articles/755892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755892)
+- [Как задеплоить монолитный pet проект на Java с 0 и не сойти с ума… Часть 2](https://habr.com/ru/articles/755332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755332)
+- [[Перевод] Разговор об управлении компанией, искусственном интеллекте и ИТ-гигантах](https://habr.com/ru/companies/vk/articles/755040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
