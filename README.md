@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как уменьшали размер VS Code, используя name mangling — сокращение идентификаторов во время сборки](https://habr.com/ru/articles/756186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756186)
+- [Биржа и блокчейн как лучшее решение проблемы ваучеров в гражданской авиации](https://habr.com/ru/articles/756022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756022)
 - [Как встроить сканер баркодов от Smart Engines в браузер](https://habr.com/ru/companies/smartengines/articles/719454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719454)
 - [Космическая разработка: какие языки программирования используют NASA, SpaceX и Роскосмос](https://habr.com/ru/companies/ru_mts/articles/756140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756140)
 - [Multi-tenant Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/756038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756038)
-- [Приглашаем на Red Hot Chili Apples — бесплатный митап ЮMoney для iOS-разработчиков](https://habr.com/ru/companies/yoomoney/articles/755960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755960)
-- [Извлечение признаков из текстовых данных с использованием TF-IDF](https://habr.com/ru/companies/otus/articles/755772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
