@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-tenant Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/756038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756038)
 - [Приглашаем на Red Hot Chili Apples — бесплатный митап ЮMoney для iOS-разработчиков](https://habr.com/ru/companies/yoomoney/articles/755960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755960)
 - [Извлечение признаков из текстовых данных с использованием TF-IDF](https://habr.com/ru/companies/otus/articles/755772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755772)
 - [Проблема загрузки контроллеров Teensy](https://habr.com/ru/articles/756096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756096)
 - [Как в Тинькофф ускорили процесс регистрации ИП, поменяв шрифт](https://habr.com/ru/articles/756088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756088)
-- [Протокол обмена ключами Диффи-Хеллмана для «самых маленьких»](https://habr.com/ru/companies/first/articles/756014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
