@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Red Hot Chili Apples — бесплатный митап ЮMoney для iOS-разработчиков](https://habr.com/ru/companies/yoomoney/articles/755960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755960)
+- [Извлечение признаков из текстовых данных с использованием TF-IDF](https://habr.com/ru/companies/otus/articles/755772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755772)
+- [Проблема загрузки контроллеров Teensy](https://habr.com/ru/articles/756096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756096)
 - [Как в Тинькофф ускорили процесс регистрации ИП, поменяв шрифт](https://habr.com/ru/articles/756088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756088)
 - [Протокол обмена ключами Диффи-Хеллмана для «самых маленьких»](https://habr.com/ru/companies/first/articles/756014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756014)
-- [[Перевод] Как загружается процессор Intel x86](https://habr.com/ru/companies/timeweb/articles/755926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755926)
-- [Анатомия Интернета: DNS](https://habr.com/ru/articles/755252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755252)
-- [Нейромузыка: может ли робот создавать треки?](https://habr.com/ru/companies/yandex/articles/738282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
