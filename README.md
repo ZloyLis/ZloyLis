@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DOM, DI и View: деревья в Angular](https://habr.com/ru/companies/tinkoff/articles/756024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756024)
+- [[Перевод] Дебаты по Tailwind CSS: ещё один классный инструмент, отвергнутый веб-разработчиками](https://habr.com/ru/articles/756242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756242)
 - [Как достать SVG-файл из сайта](https://habr.com/ru/articles/756226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756226)
 - [Лучший regexp для Go. Benchmark c другими ЯП. Сравнение библиотек](https://habr.com/ru/articles/756222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756222)
 - [ТОП-5 ошибок автоматизации документооборота и как Low-code поможет их избежать: простые советы](https://habr.com/ru/companies/comindware/articles/756218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756218)
-- [Ох уж эти CSS-переменные](https://habr.com/ru/companies/ruvds/articles/749734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=749734)
-- [Что может позволить себе аналитик из Твери – купить или снять квартиру?](https://habr.com/ru/articles/756208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
