@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Считаем «a=1; b=2; x=pi/3; abcos&lpar;x&rpar;»](https://habr.com/ru/articles/756306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756306)
 - [JavaScript повсюду или почему веб-технологии захватили мир](https://habr.com/ru/articles/756064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756064)
 - [DOM, DI и View: деревья в Angular](https://habr.com/ru/companies/tinkoff/articles/756024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756024)
 - [[Перевод] Дебаты по Tailwind CSS: ещё один классный инструмент, отвергнутый веб-разработчиками](https://habr.com/ru/articles/756242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756242)
 - [Как достать SVG-файл из сайта](https://habr.com/ru/articles/756226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756226)
-- [Лучший regexp для Go. Benchmark c другими ЯП. Сравнение библиотек](https://habr.com/ru/articles/756222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
