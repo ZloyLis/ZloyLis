@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как в Тинькофф ускорили процесс регистрации ИП, поменяв шрифт](https://habr.com/ru/articles/756088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756088)
+- [Протокол обмена ключами Диффи-Хеллмана для «самых маленьких»](https://habr.com/ru/companies/first/articles/756014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756014)
+- [[Перевод] Как загружается процессор Intel x86](https://habr.com/ru/companies/timeweb/articles/755926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755926)
+- [Анатомия Интернета: DNS](https://habr.com/ru/articles/755252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755252)
 - [Нейромузыка: может ли робот создавать треки?](https://habr.com/ru/companies/yandex/articles/738282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=738282)
-- [Мобильное приложение для сотрудников: спорт, игрушечное казино и собственный Twitter](https://habr.com/ru/companies/lanit/articles/755262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755262)
-- [Как показать миллион зданий на карте — и не сломать браузер](https://habr.com/ru/companies/2gis/articles/755620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755620)
-- [Базовый набор для решения задач на LeetCode/Codeforces, ч.2 Ассоциативные Контейнеры C++](https://habr.com/ru/articles/756026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756026)
-- [Преобразование закрытого ключа КриптоПро CSP по ГОСТ 2012 в контейнер p12, который понимает java](https://habr.com/ru/articles/756020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
