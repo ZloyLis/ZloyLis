@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рефлексия в JavaScript и TypeScript: обзор основных техник. Как сгенерировать CLI-интерфейс для класса](https://habr.com/ru/companies/ruvds/articles/754764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754764)
+- [Нефункциональные требования? Нет, модели обеспечения качества](https://habr.com/ru/articles/756378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756378)
 - [[Перевод] Один YAML до катастрофы: «детские» ошибки администраторов Kubernetes](https://habr.com/ru/companies/flant/articles/756044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756044)
 - [Установка Ghost на сервер под управлением ispmanager](https://habr.com/ru/articles/756322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756322)
 - [Автомасштабирование приложения под нагрузкой, развернутого в Yandex Managed Service for Kubernetes](https://habr.com/ru/articles/756346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756346)
-- [Ускоряем сборку за счёт миграции с kapt на ksp](https://habr.com/ru/companies/hh/articles/755952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755952)
-- [[Перевод] Koin: Простой и легковесный фреймворк для внедрения зависимостей](https://habr.com/ru/companies/otus/articles/756124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
