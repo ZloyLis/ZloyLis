@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Java и современный процессор, Часть 1: Память и иерархия кэша](https://habr.com/ru/companies/otus/articles/756450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756450)
+- [Книги по C++, которые можно рекомендовать разработчикам в 2023 году](https://habr.com/ru/companies/ru_mts/articles/756446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756446)
+- [Неклассические лицензии на открытое ПО и управление продуктами: разбираем кейс стека ELK](https://habr.com/ru/articles/756402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756402)
 - [Подводные камни тестирования кода в Swift Concurrency](https://habr.com/ru/companies/ibs/articles/756418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756418)
 - [«Квантовые облака»: как VK Cloud и разработчики делают квантовые вычисления ближе к бизнесу](https://habr.com/ru/companies/vk/articles/754518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754518)
-- [Базовый набор для решения задач на LeetCode/Codeforces, ч.3 Адаптивные Контейнеры C++](https://habr.com/ru/articles/756394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756394)
-- [Рефлексия в JavaScript и TypeScript: обзор основных техник. Как сгенерировать CLI-интерфейс для класса](https://habr.com/ru/companies/ruvds/articles/754764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754764)
-- [Нефункциональные требования? Нет, модели обеспечения качества](https://habr.com/ru/articles/756378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
