@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка RESTful API на Python с помощью HappyX](https://habr.com/ru/articles/756548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756548)
+- [Сгенерировать web интерфейс из БД или объектной модели не стало проще даже 10 лет спустя](https://habr.com/ru/articles/756544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756544)
+- [Smart-contract developer Road Map](https://habr.com/ru/articles/756542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756542)
 - [[Перевод] Flutter 3.13. Что нового?](https://habr.com/ru/companies/surfstudio/articles/756472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756472)
 - [DevOps и Kubernetes: полезные ресурсы для джунов и «про»](https://habr.com/ru/companies/beeline_cloud/articles/756486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756486)
-- [[Перевод] Быстрый двоичный поиск без ветвления](https://habr.com/ru/companies/ruvds/articles/756422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756422)
-- [«Успейте за 5 месяцев создать систему онлайн обучения», — говорили они, «Успеем к 1 сентября», — сказали мы](https://habr.com/ru/articles/756468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756468)
-- [[Перевод] Java и современный процессор, Часть 1: Память и иерархия кэша](https://habr.com/ru/companies/otus/articles/756450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
