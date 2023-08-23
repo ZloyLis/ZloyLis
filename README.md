@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Установка Ghost на сервер под управлением ispmanager](https://habr.com/ru/articles/756322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756322)
+- [Автомасштабирование приложения под нагрузкой, развернутого в Yandex Managed Service for Kubernetes](https://habr.com/ru/articles/756346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756346)
 - [Ускоряем сборку за счёт миграции с kapt на ksp](https://habr.com/ru/companies/hh/articles/755952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755952)
 - [[Перевод] Koin: Простой и легковесный фреймворк для внедрения зависимостей](https://habr.com/ru/companies/otus/articles/756124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756124)
 - [Считаем «a=1; b=2; x=pi/3; abcos&lpar;x&rpar;»](https://habr.com/ru/articles/756306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756306)
-- [JavaScript повсюду или почему веб-технологии захватили мир](https://habr.com/ru/articles/756064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756064)
-- [DOM, DI и View: деревья в Angular](https://habr.com/ru/companies/tinkoff/articles/756024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
