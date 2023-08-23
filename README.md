@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подводные камни тестирования кода в Swift Concurrency](https://habr.com/ru/companies/ibs/articles/756418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756418)
 - [«Квантовые облака»: как VK Cloud и разработчики делают квантовые вычисления ближе к бизнесу](https://habr.com/ru/companies/vk/articles/754518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754518)
 - [Базовый набор для решения задач на LeetCode/Codeforces, ч.3 Адаптивные Контейнеры C++](https://habr.com/ru/articles/756394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756394)
 - [Рефлексия в JavaScript и TypeScript: обзор основных техник. Как сгенерировать CLI-интерфейс для класса](https://habr.com/ru/companies/ruvds/articles/754764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754764)
 - [Нефункциональные требования? Нет, модели обеспечения качества](https://habr.com/ru/articles/756378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756378)
-- [[Перевод] Один YAML до катастрофы: «детские» ошибки администраторов Kubernetes](https://habr.com/ru/companies/flant/articles/756044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
