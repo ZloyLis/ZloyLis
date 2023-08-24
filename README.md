@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Структура тестового фреймворка](https://habr.com/ru/articles/756274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756274)
 - [Разработка RESTful API на Python с помощью HappyX](https://habr.com/ru/articles/756548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756548)
 - [Сгенерировать web интерфейс из БД или объектной модели не стало проще даже 10 лет спустя](https://habr.com/ru/articles/756544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756544)
 - [Smart-contract developer Road Map](https://habr.com/ru/articles/756542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756542)
 - [[Перевод] Flutter 3.13. Что нового?](https://habr.com/ru/companies/surfstudio/articles/756472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756472)
-- [DevOps и Kubernetes: полезные ресурсы для джунов и «про»](https://habr.com/ru/companies/beeline_cloud/articles/756486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
