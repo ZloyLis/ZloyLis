@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как увеличить количество пинов на esp32?](https://habr.com/ru/companies/ruvds/articles/755700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755700)
+- [Семантики доставки событий в распределенных системах](https://habr.com/ru/companies/avito/articles/755014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755014)
+- [Swift и Objective-C в одном SDK. Стерпится, слюбится](https://habr.com/ru/companies/vk/articles/756470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756470)
 - [5 принципов защиты данных при работе с API](https://habr.com/ru/companies/ru_mts/articles/756610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756610)
 - [Как я придумал 20 пет-проектов и собрал портфолио](https://habr.com/ru/companies/yandex_praktikum/articles/755512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755512)
-- [Как забрать все награды за pet-проекты, созданные по фану](https://habr.com/ru/companies/pyrobyte/articles/756386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756386)
-- [Данные каждому нужны, данные каждому важны: почему сбор данных необходим всем в ИТ ― от директора до техподдержки](https://habr.com/ru/companies/inferit/articles/756384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756384)
-- [Структура тестового фреймворка](https://habr.com/ru/articles/756274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
