@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исследование моделирования и развития гибкости на стадии проектирования производственной системы](https://habr.com/ru/companies/otus/articles/756754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756754)
+- [«Человек-паук: Через Вселенные» как путь в ИТ](https://habr.com/ru/articles/756742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756742)
 - [Как выбрать компанию-мобильного разработчика](https://habr.com/ru/companies/cleverpumpkin/articles/756690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756690)
 - [Kaggle для футболистов. Разбираем подходы призеров соревнований по детекции столкновений &lpar;1 и 2 место&rpar;](https://habr.com/ru/companies/magnus-tech/articles/756628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756628)
 - [Angular в картинках](https://habr.com/ru/articles/756250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756250)
-- [Point-in-time Recovery. Как уменьшить RPO для базы данных](https://habr.com/ru/companies/vk/articles/755922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755922)
-- [[Перевод] PHP Fibers: практический пример](https://habr.com/ru/articles/756642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
