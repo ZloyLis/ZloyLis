@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я придумал 20 пет-проектов и собрал портфолио](https://habr.com/ru/companies/yandex_praktikum/articles/755512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755512)
+- [Как забрать все награды за pet-проекты, созданные по фану](https://habr.com/ru/companies/pyrobyte/articles/756386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756386)
+- [Данные каждому нужны, данные каждому важны: почему сбор данных необходим всем в ИТ ― от директора до техподдержки](https://habr.com/ru/companies/inferit/articles/756384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756384)
 - [Структура тестового фреймворка](https://habr.com/ru/articles/756274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756274)
 - [Разработка RESTful API на Python с помощью HappyX](https://habr.com/ru/articles/756548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756548)
-- [Сгенерировать web интерфейс из БД или объектной модели не стало проще даже 10 лет спустя](https://habr.com/ru/articles/756544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756544)
-- [Smart-contract developer Road Map](https://habr.com/ru/articles/756542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756542)
-- [[Перевод] Flutter 3.13. Что нового?](https://habr.com/ru/companies/surfstudio/articles/756472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
