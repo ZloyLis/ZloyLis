@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка VS Code-плагинов для Frontend-разработчиков и не только](https://habr.com/ru/articles/756782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756782)
 - [Как правильно дифференцировать дискретные функции &lpar;Часть 2. Все-таки, МКЭ?&rpar;](https://habr.com/ru/articles/756764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756764)
 - [Арифмометр Лейбница: история прадеда арифмометра Однера](https://habr.com/ru/companies/rshb/articles/756762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756762)
 - [Как создать свой VPN, если вы в России, и почему мы отказались от этой идеи](https://habr.com/ru/articles/756760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756760)
 - [[Перевод] Исследование моделирования и развития гибкости на стадии проектирования производственной системы](https://habr.com/ru/companies/otus/articles/756754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756754)
-- [«Человек-паук: Через Вселенные» как путь в ИТ](https://habr.com/ru/articles/756742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
