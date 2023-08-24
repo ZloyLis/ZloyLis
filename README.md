@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular в картинках](https://habr.com/ru/articles/756250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756250)
+- [Point-in-time Recovery. Как уменьшить RPO для базы данных](https://habr.com/ru/companies/vk/articles/755922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755922)
+- [[Перевод] PHP Fibers: практический пример](https://habr.com/ru/articles/756642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756642)
+- [Кого первого исследуют при помощи нового томографа?](https://habr.com/ru/companies/smartengines/articles/755534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755534)
 - [Как увеличить количество пинов на esp32?](https://habr.com/ru/companies/ruvds/articles/755700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755700)
-- [Семантики доставки событий в распределенных системах](https://habr.com/ru/companies/avito/articles/755014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755014)
-- [Swift и Objective-C в одном SDK. Стерпится, слюбится](https://habr.com/ru/companies/vk/articles/756470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756470)
-- [5 принципов защиты данных при работе с API](https://habr.com/ru/companies/ru_mts/articles/756610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756610)
-- [Как я придумал 20 пет-проектов и собрал портфолио](https://habr.com/ru/companies/yandex_praktikum/articles/755512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
