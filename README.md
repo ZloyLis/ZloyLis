@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaggle для футболистов. Разбираем подходы призеров соревнований по детекции столкновений &lpar;1 и 2 место&rpar;](https://habr.com/ru/companies/magnus-tech/articles/756628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756628)
 - [Angular в картинках](https://habr.com/ru/articles/756250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756250)
 - [Point-in-time Recovery. Как уменьшить RPO для базы данных](https://habr.com/ru/companies/vk/articles/755922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755922)
 - [[Перевод] PHP Fibers: практический пример](https://habr.com/ru/articles/756642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756642)
 - [Кого первого исследуют при помощи нового томографа?](https://habr.com/ru/companies/smartengines/articles/755534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755534)
-- [Как увеличить количество пинов на esp32?](https://habr.com/ru/companies/ruvds/articles/755700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
