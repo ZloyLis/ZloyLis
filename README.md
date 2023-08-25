@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Под капотом анимаций в React Native. Часть 2/2: Reanimated and JSI](https://habr.com/ru/companies/sbermarket/articles/750000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750000)
+- [[Перевод] Оптимизируем рабочий процесс для совокупного эффекта](https://habr.com/ru/companies/productivity_inside/articles/756940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756940)
 - [WWDC 2023. Новый фреймворк SwiftData для управления данными. Эксперименты](https://habr.com/ru/articles/740720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740720)
 - [Feature Toggles и их применение. История одного проекта](https://habr.com/ru/companies/simbirsoft/articles/756864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756864)
 - [Как тестировщики с помощью пользовательского десктопа и видеокарты инфраструктуру строили](https://habr.com/ru/companies/kaspersky/articles/756436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756436)
-- [bada — незаслуженно забытая платформа. Какой была «iOS» от Samsung?](https://habr.com/ru/companies/timeweb/articles/756596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756596)
-- [Распространённые паттерны опечаток при программировании](https://habr.com/ru/companies/pvs-studio/articles/756872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
