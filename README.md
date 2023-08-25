@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [bada — незаслуженно забытая платформа. Какой была «iOS» от Samsung?](https://habr.com/ru/companies/timeweb/articles/756596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756596)
 - [Распространённые паттерны опечаток при программировании](https://habr.com/ru/companies/pvs-studio/articles/756872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756872)
+- [Как мы создали игру в эстетике киберпанка](https://habr.com/ru/companies/yandex_praktikum/articles/756264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756264)
 - [[Перевод] Добавьте 𝚍𝚒𝚛=＂𝚊𝚞𝚝𝚘＂ к полю ввода](https://habr.com/ru/articles/756774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756774)
 - [Пятифакторный тест личности — бот в Телеграм](https://habr.com/ru/articles/756826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756826)
-- [Как написать Telegram бота на C#?](https://habr.com/ru/articles/756814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
