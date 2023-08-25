@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Добавьте dir=«auto» к полю ввода](https://habr.com/ru/articles/756774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756774)
+- [Как в нише деталей трубопровода привлечь заказы на 23 млн р. выручки с ROMI 1763% с помощью SEO продвижения](https://habr.com/ru/articles/756846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756846)
+- [[Перевод] Добавьте 𝚍𝚒𝚛=＂𝚊𝚞𝚝𝚘＂ к полю ввода](https://habr.com/ru/articles/756774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756774)
 - [Пятифакторный тест личности — бот в Телеграм](https://habr.com/ru/articles/756826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756826)
 - [Как написать Telegram бота на C#?](https://habr.com/ru/articles/756814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756814)
 - [Мандельброт для детей](https://habr.com/ru/articles/756808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756808)
-- [[Перевод] Все что вам нужно знать о таймаутах](https://habr.com/ru/articles/755750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
