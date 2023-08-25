@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Варим C с компилятором Zig и его build.zig](https://habr.com/ru/articles/753306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753306)
+- [Готовим микрофронтенды на чистом JS без фреймворков](https://habr.com/ru/companies/ru_mts/articles/754842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754842)
+- [Как легко перейти с Java на Rust: Особенности и советы](https://habr.com/ru/articles/756984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756984)
+- [Приглашаем на Ozon Tech Community Mobile Meetup](https://habr.com/ru/companies/ozontech/articles/756682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756682)
 - [Анализ эффективности кэширования на бэкенде ЛК МегаФон](https://habr.com/ru/companies/megafon/articles/756382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756382)
-- [[Перевод] Эволюционная архитектура – что же это такое](https://habr.com/ru/companies/piter/articles/756954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756954)
-- [Под капотом анимаций в React Native. Часть 2/2: Reanimated and JSI](https://habr.com/ru/companies/sbermarket/articles/750000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750000)
-- [[Перевод] Оптимизируем рабочий процесс для совокупного эффекта](https://habr.com/ru/companies/productivity_inside/articles/756940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756940)
-- [WWDC 2023. Новый фреймворк SwiftData для управления данными. Эксперименты](https://habr.com/ru/articles/740720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
