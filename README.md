@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Добавьте dir=«auto» к полю ввода](https://habr.com/ru/articles/756774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756774)
 - [Пятифакторный тест личности — бот в Телеграм](https://habr.com/ru/articles/756826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756826)
 - [Как написать Telegram бота на C#?](https://habr.com/ru/articles/756814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756814)
 - [Мандельброт для детей](https://habr.com/ru/articles/756808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756808)
 - [[Перевод] Все что вам нужно знать о таймаутах](https://habr.com/ru/articles/755750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755750)
-- [Искусственный интеллект, Большой Взрыв, чёрные дыры и филиокве — ищем ответ на вопрос, расколовший христианскую церковь](https://habr.com/ru/articles/750620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
