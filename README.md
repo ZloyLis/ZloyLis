@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [WWDC 2023. Новый фреймворк SwiftData для управления данными. Эксперименты](https://habr.com/ru/articles/740720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=740720)
+- [Feature Toggles и их применение. История одного проекта](https://habr.com/ru/companies/simbirsoft/articles/756864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756864)
+- [Как тестировщики с помощью пользовательского десктопа и видеокарты инфраструктуру строили](https://habr.com/ru/companies/kaspersky/articles/756436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756436)
 - [bada — незаслуженно забытая платформа. Какой была «iOS» от Samsung?](https://habr.com/ru/companies/timeweb/articles/756596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756596)
 - [Распространённые паттерны опечаток при программировании](https://habr.com/ru/companies/pvs-studio/articles/756872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756872)
-- [Как мы создали игру в эстетике киберпанка](https://habr.com/ru/companies/yandex_praktikum/articles/756264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756264)
-- [[Перевод] Добавьте 𝚍𝚒𝚛=＂𝚊𝚞𝚝𝚘＂ к полю ввода](https://habr.com/ru/articles/756774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756774)
-- [Пятифакторный тест личности — бот в Телеграм](https://habr.com/ru/articles/756826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
