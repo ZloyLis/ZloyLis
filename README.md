@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распознавание вещественного числа из строки](https://habr.com/ru/articles/757122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757122)
 - [На работу не берут без опыта, а опыт без работы не получить. Что делать? Собрали 25+ стажировок для тестировщиков](https://habr.com/ru/articles/752380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752380)
 - [[Перевод] Создайте свой клон с помощью Fine-tuned LLM](https://habr.com/ru/articles/757086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757086)
 - [Зачем платить за онлайн-курс, если всё гуглится?](https://habr.com/ru/articles/757082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757082)
 - [Открытой системе — открытый курс: автоматизированный Linux курс для корпоративного обучения](https://habr.com/ru/articles/757056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757056)
-- [Варим C с компилятором Zig и его build.zig](https://habr.com/ru/articles/753306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
