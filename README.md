@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запускаем матричный принтер от старого банковского терминала](https://habr.com/ru/companies/timeweb/articles/754848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754848)
+- [А давайте убъем все фреймворки?](https://habr.com/ru/articles/757150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757150)
+- [Добавление server side Open Graph и прочего SEO в существующую SPA](https://habr.com/ru/articles/757146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757146)
 - [Распознавание Вещественного Числа из Строчки](https://habr.com/ru/articles/757122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757122)
 - [На работу не берут без опыта, а опыт без работы не получить. Что делать? Собрали 25+ стажировок для тестировщиков](https://habr.com/ru/articles/752380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752380)
-- [[Перевод] Создайте свой клон с помощью Fine-tuned LLM](https://habr.com/ru/articles/757086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757086)
-- [Зачем платить за онлайн-курс, если всё гуглится?](https://habr.com/ru/articles/757082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757082)
-- [Открытой системе — открытый курс: автоматизированный Linux курс для корпоративного обучения](https://habr.com/ru/articles/757056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
