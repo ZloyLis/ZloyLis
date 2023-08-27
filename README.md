@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Распознавание вещественного числа из строки](https://habr.com/ru/articles/757122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757122)
+- [Распознавание Вещественного Числа из Строчки](https://habr.com/ru/articles/757122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757122)
 - [На работу не берут без опыта, а опыт без работы не получить. Что делать? Собрали 25+ стажировок для тестировщиков](https://habr.com/ru/articles/752380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752380)
 - [[Перевод] Создайте свой клон с помощью Fine-tuned LLM](https://habr.com/ru/articles/757086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757086)
 - [Зачем платить за онлайн-курс, если всё гуглится?](https://habr.com/ru/articles/757082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757082)
