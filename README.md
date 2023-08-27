@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Просто о Deep #1](https://habr.com/ru/articles/757166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757166)
 - [От Москвы до Бали: История создания уникальной платформы Batur](https://habr.com/ru/articles/757162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757162)
 - [[Перевод] Итоговая сводка по руководству по написанию требований INCOSE &lpar;Июнь 2023&rpar;](https://habr.com/ru/articles/757160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757160)
 - [[Перевод] Rust 1.72.0: потенциально полезные отключенные элементы, неограниченные константные вычисления](https://habr.com/ru/articles/757158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757158)
 - [Мультиплатформенность приложений в 2023](https://habr.com/ru/articles/757156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757156)
-- [Запускаем матричный принтер от старого банковского терминала](https://habr.com/ru/companies/timeweb/articles/754848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
