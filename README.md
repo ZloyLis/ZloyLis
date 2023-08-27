@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реально ли без опыта в 2023 году найти работу в IT? История одного джуна](https://habr.com/ru/articles/757184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757184)
 - [Почему WebAssembly плохо годится для Java](https://habr.com/ru/articles/757182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757182)
 - [Задачи про PEG-парсеры](https://habr.com/ru/articles/757174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757174)
 - [Просто о Deep #1](https://habr.com/ru/articles/757166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757166)
 - [От Москвы до Бали: История создания уникальной платформы Batur](https://habr.com/ru/articles/757162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757162)
-- [[Перевод] Итоговая сводка по руководству по написанию требований INCOSE &lpar;Июнь 2023&rpar;](https://habr.com/ru/articles/757160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
