@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ сентимента и эмоционального окраса текстов с помощью SQL](https://habr.com/ru/companies/otus/articles/757042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757042)
 - [Apple Pro Weekly News &lpar;21.08 – 27.08.23&rpar;](https://habr.com/ru/articles/757460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757460)
 - [Примеры Telegram ботов для личных автоматизаций](https://habr.com/ru/articles/757448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757448)
 - [Применение преобразований PCA и t-SNE для снижения размерности данных](https://habr.com/ru/companies/otus/articles/757030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757030)
 - [Как мы заKISSили и заDRYили огромный аудит 🫠](https://habr.com/ru/articles/757432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757432)
-- [Своя реализация быстрых ответов в чатах Битрикс 24](https://habr.com/ru/articles/757426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
