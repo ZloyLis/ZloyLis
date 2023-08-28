@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Герои напильника и паяльника: итоги сезона DIY](https://habr.com/ru/specials/757220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757220)
+- [Анализ текстовых данных с использованием тематического моделирования](https://habr.com/ru/companies/otus/articles/757010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757010)
+- [[Перевод] Архетипы программных архитекторов. Часть 2](https://habr.com/ru/companies/wunderfund/articles/755894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755894)
+- [Подробная настройка Content Security Policy &lpar;CSP&rpar;](https://habr.com/ru/articles/757332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757332)
 - [Почему тип поля enum на уровне базы — зло](https://habr.com/ru/articles/757212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757212)
-- [Разбираемся в «базовых» алгоритмах для высоконагруженного проекта](https://habr.com/ru/companies/sberbank/articles/756894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756894)
-- [Чем на самом деле занимается разработчик 1С](https://habr.com/ru/companies/yandex_praktikum/articles/756368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756368)
-- [Использование конечных автоматов с несколькими активными состояниями для автоматизации бизнес-процессов](https://habr.com/ru/articles/757278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757278)
-- [Запускаем IDEA и CLion на Android](https://habr.com/ru/articles/757222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
