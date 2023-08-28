@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему тип поля enum на уровне базы — зло](https://habr.com/ru/articles/757212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757212)
+- [Разбираемся в «базовых» алгоритмах для высоконагруженного проекта](https://habr.com/ru/companies/sberbank/articles/756894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756894)
 - [Чем на самом деле занимается разработчик 1С](https://habr.com/ru/companies/yandex_praktikum/articles/756368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756368)
 - [Использование конечных автоматов с несколькими активными состояниями для автоматизации бизнес-процессов](https://habr.com/ru/articles/757278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757278)
 - [Запускаем IDEA и CLion на Android](https://habr.com/ru/articles/757222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757222)
-- [Мобильная разработка за неделю #503 &lpar;21 — 27 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/757252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757252)
-- [Расширенное управление памятью с помощью Unsafe Swift](https://habr.com/ru/articles/757214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
