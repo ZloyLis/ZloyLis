@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Месячная заруба с Apple. Встраиваем On-Demand Resources. Часть 2](https://habr.com/ru/articles/757408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757408)
+- [Месячная заруба с Apple. Рефакторим бридж. Часть 2](https://habr.com/ru/articles/757408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757408)
 - [[Перевод] Профилирование Python — почему и где тормозит ваш код](https://habr.com/ru/companies/ruvds/articles/757336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757336)
 - [Герои напильника и паяльника: итоги сезона DIY](https://habr.com/ru/specials/757220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757220)
 - [Анализ текстовых данных с использованием тематического моделирования](https://habr.com/ru/companies/otus/articles/757010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757010)
