@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;21.08 – 27.08.23&rpar;](https://habr.com/ru/articles/757460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757460)
+- [Примеры Telegram ботов для личных автоматизаций](https://habr.com/ru/articles/757448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757448)
 - [Применение преобразований PCA и t-SNE для снижения размерности данных](https://habr.com/ru/companies/otus/articles/757030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757030)
 - [Как мы заKISSили и заDRYили огромный аудит 🫠](https://habr.com/ru/articles/757432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757432)
 - [Своя реализация быстрых ответов в чатах Битрикс 24](https://habr.com/ru/articles/757426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757426)
-- [Месячная заруба с Apple. Рефакторим бридж. Часть 2](https://habr.com/ru/articles/757408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757408)
-- [[Перевод] Профилирование Python — почему и где тормозит ваш код](https://habr.com/ru/companies/ruvds/articles/757336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
