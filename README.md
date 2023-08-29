@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатный курс VK Education: углублённый Python для студентов и недавних выпускников](https://habr.com/ru/companies/vk/articles/757686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757686)
 - [Архитектурные решения для обработки потоковых данных](https://habr.com/ru/companies/otus/articles/757098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757098)
 - [Книга «Python. Лучшие практики и инструменты. 4-е изд.»](https://habr.com/ru/companies/piter/articles/757636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757636)
 - [Быстрый старт карьеры в бизнес-анализе или путь к профессии бизнес-аналитика через работу консультантом по внедрению ПО](https://habr.com/ru/articles/757670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757670)
 - [Ad-hoc-полиморфизм и паттерн type class в C#](https://habr.com/ru/companies/ruvds/articles/757118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757118)
-- [Как ворваться в DevOps](https://habr.com/ru/companies/yandex_praktikum/articles/757640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
