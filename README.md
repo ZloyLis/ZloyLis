@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многомерный Кубинг &lpar;2 часть&rpar;](https://habr.com/ru/articles/757738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757738)
 - [[Перевод] Пять продвинутых техник инициализации в C++: От reserve&lpar;&rpar; до piecewise_construct](https://habr.com/ru/companies/otus/articles/757648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757648)
 - [Парное программирование: какие преимущества оно даёт компании и разработчикам](https://habr.com/ru/companies/ru_mts/articles/757714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757714)
 - [Бесплатный курс VK Education: углублённый Python для студентов и недавних выпускников](https://habr.com/ru/companies/vk/articles/757686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757686)
 - [Архитектурные решения для обработки потоковых данных](https://habr.com/ru/companies/otus/articles/757098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757098)
-- [Книга «Python. Лучшие практики и инструменты. 4-е изд.»](https://habr.com/ru/companies/piter/articles/757636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
