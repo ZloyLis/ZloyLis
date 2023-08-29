@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый взгляд на аналитику ошибок в production, или Работающая альтернатива Crashlytics](https://habr.com/ru/companies/vk/articles/757416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757416)
+- [Как повысить шансы на хороший найм и оффер](https://habr.com/ru/companies/oleg-bunin/articles/757318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757318)
 - [Инструменты тимлида: как управлять техническим бэклогом](https://habr.com/ru/companies/avito/articles/755980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755980)
 - [[Перевод] От IP к удостоверению: превращаем домашних питомцев в облачный рогатый скот](https://habr.com/ru/companies/vk/articles/757264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757264)
 - [Вычислительные модели на языке родных осин](https://habr.com/ru/companies/first/articles/757530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757530)
-- [Библиотека «Jetpack Compose» для начинающего Android-разработчика](https://habr.com/ru/articles/757572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757572)
-- [Реквием по «Расскажи, как работает HashMap?»](https://habr.com/ru/articles/757510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
