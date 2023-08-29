@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фильтрация избыточных вершин в геометриях 3D моделей](https://habr.com/ru/companies/bimeister/articles/757638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757638)
+- [Microservice for testing — are you kidding me?](https://habr.com/ru/companies/tinkoff/articles/757618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757618)
 - [Ликбез по распространенным Client-Side уязвимостям](https://habr.com/ru/companies/bastion/articles/757590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757590)
 - [Security Week 2335: подлинный масштаб атаки на сервис MOVEit](https://habr.com/ru/companies/kaspersky/articles/757428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757428)
-- [Новый взгляд на аналитику ошибок в production, или Работающая альтернатива Crashlytics](https://habr.com/ru/companies/vk/articles/757416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757416)
-- [Как повысить шансы на хороший найм и оффер](https://habr.com/ru/companies/oleg-bunin/articles/757318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757318)
-- [Инструменты тимлида: как управлять техническим бэклогом](https://habr.com/ru/companies/avito/articles/755980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755980)
+- [Новый взгляд на аналитику ошибок в production, или работающая альтернатива Crashlytics](https://habr.com/ru/companies/odnoklassniki/articles/757416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
