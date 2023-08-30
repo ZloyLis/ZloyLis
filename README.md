@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как цифровая модель позволяет запустить объёмно-календарное планирование производства](https://habr.com/ru/articles/757976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757976)
+- [ADI в пользовательском интерфейсе](https://habr.com/ru/articles/757968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757968)
 - [Книги по C# для начинающих и практикующих специалистов](https://habr.com/ru/companies/ru_mts/articles/757962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757962)
 - [Единственное в мире число-субфакторион — это 148349. Что это такое?](https://habr.com/ru/companies/itglobalcom/articles/757960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757960)
 - [Базовый набор для решения задач на LeetCode/Codeforces, ч.4 Функциональные объекты и предикаты C++](https://habr.com/ru/articles/757956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757956)
-- [История разработки приложения для складных смартфонов Samsung. Часть 1](https://habr.com/ru/companies/samsung/articles/757934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757934)
-- [Меняем индустрию своими руками вместе с Frontend Conf 2023](https://habr.com/ru/companies/oleg-bunin/articles/757940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
