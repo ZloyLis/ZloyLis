@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub &lpar;2023&rpar; и что с ним стало? Как меня обанкротили на 10-12млн$](https://habr.com/ru/articles/757996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757996)
 - [Генерируем простой web интерфейс для просмотра таблиц PostgreSQL](https://habr.com/ru/articles/757990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757990)
 - [Как цифровая модель позволяет запустить объёмно-календарное планирование производства](https://habr.com/ru/articles/757976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757976)
 - [ADI в пользовательском интерфейсе](https://habr.com/ru/articles/757968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757968)
 - [Книги по C# для начинающих и практикующих специалистов](https://habr.com/ru/companies/ru_mts/articles/757962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757962)
-- [Единственное в мире число-субфакторион — это 148349. Что это такое?](https://habr.com/ru/companies/itglobalcom/articles/757960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
