@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы переучивали алгоритм построения маршрутов 2ГИС ради грузовиков](https://habr.com/ru/companies/2gis/articles/757538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757538)
+- [Вложенная навигация во Flutter: что такое декларативный роутер и зачем он нужен](https://habr.com/ru/articles/757818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757818)
 - [Тестирование микросервисов: просто и эффективно даже для начинающих](https://habr.com/ru/articles/757804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757804)
 - [Не дадим Windows Phone умереть! Как я написал свои клиенты VK, YouTube для Nokia Lumia? Сам себе экосистема ч.2](https://habr.com/ru/companies/timeweb/articles/757050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757050)
 - [Пишем плагин для статического анализатора Psalm](https://habr.com/ru/articles/757188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757188)
-- [В поисках идеальной Headless CMS для масштабных проектов: как выбрать лучшее решение в 2023 году?](https://habr.com/ru/companies/cloud_mts/articles/750694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750694)
-- [Kubernetes в Тензоре](https://habr.com/ru/articles/757772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
