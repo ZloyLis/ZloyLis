@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Меняем индустрию своими руками вместе с Frontend Conf 2023](https://habr.com/ru/companies/oleg-bunin/articles/757940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757940)
+- [Keycloak. Админский фактор и запрет аутентификации](https://habr.com/ru/companies/kaspersky/articles/756812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756812)
+- [А вы точно диспетчер? Как моя команда год улучшала флоу сборки заказов в e-com](https://habr.com/ru/companies/sbermarket/articles/757622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757622)
 - [Делим неделимое в Kubernetes: шеринг GPU с помощью MIG и TimeSlicing](https://habr.com/ru/companies/selectel/articles/756934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756934)
 - [[Перевод] Биологическое происхождение арифметики как выраженной в символах «глубинной структуры» нашего восприятия](https://habr.com/ru/articles/757746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757746)
-- [PVS-Studio vs CodeLite: битва за идеальный код](https://habr.com/ru/companies/pvs-studio/articles/757900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757900)
-- [Материя. Стандартная модель](https://habr.com/ru/articles/757404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757404)
-- [Системный анализ: чем отличаются джуниоры, мидлы и синьоры — и как быстрее вырасти в профессии](https://habr.com/ru/companies/yandex_praktikum/articles/757676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
