@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Материя. Стандартная модель](https://habr.com/ru/articles/757404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757404)
+- [Анализ музыкальных предпочтений с использованием аудиоаналитики на Python](https://habr.com/ru/companies/otus/articles/757130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757130)
 - [Системный анализ: чем отличаются джуниоры, мидлы и синьоры — и как быстрее вырасти в профессии](https://habr.com/ru/companies/yandex_praktikum/articles/757676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757676)
 - [Обзор смартфона Blackview BV8900: бронированный гигант с аккумулятором 10 000 мАч и тепловизионной камерой](https://habr.com/ru/articles/757852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757852)
 - [Как мы переучивали алгоритм построения маршрутов 2ГИС ради грузовиков](https://habr.com/ru/companies/2gis/articles/757538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757538)
-- [Вложенная навигация во Flutter: что такое декларативный роутер и зачем он нужен](https://habr.com/ru/articles/757818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757818)
-- [Тестирование микросервисов: просто и эффективно даже для начинающих](https://habr.com/ru/articles/757804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
