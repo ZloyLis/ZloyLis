@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование микросервисов: просто и эффективно даже для начинающих](https://habr.com/ru/articles/757804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757804)
+- [Не дадим Windows Phone умереть! Как я написал свои клиенты VK, YouTube для Nokia Lumia? Сам себе экосистема ч.2](https://habr.com/ru/companies/timeweb/articles/757050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757050)
+- [Пишем плагин для статического анализатора Psalm](https://habr.com/ru/articles/757188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757188)
+- [В поисках идеальной Headless CMS для масштабных проектов: как выбрать лучшее решение в 2023 году?](https://habr.com/ru/companies/cloud_mts/articles/750694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=750694)
 - [Kubernetes в Тензоре](https://habr.com/ru/articles/757772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757772)
-- [[Перевод] Паттерны реактивности в современном JavaScript](https://habr.com/ru/articles/757770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757770)
-- [Vivaldi 6.2 для Android — Внимание к деталям](https://habr.com/ru/companies/vivaldi/articles/757764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757764)
-- [Ручная отладка мобильного фронтенда с нуля до PRO за 30 минут](https://habr.com/ru/companies/kts/articles/757348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757348)
-- [Многомерный Кубинг &lpar;2 часть&rpar;](https://habr.com/ru/articles/757738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
