@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делим неделимое в Kubernetes: шеринг GPU с помощью MIG и TimeSlicing](https://habr.com/ru/companies/selectel/articles/756934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756934)
+- [[Перевод] Биологическое происхождение арифметики как выраженной в символах «глубинной структуры» нашего восприятия](https://habr.com/ru/articles/757746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757746)
 - [PVS-Studio vs CodeLite: битва за идеальный код](https://habr.com/ru/companies/pvs-studio/articles/757900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757900)
 - [Материя. Стандартная модель](https://habr.com/ru/articles/757404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757404)
 - [Системный анализ: чем отличаются джуниоры, мидлы и синьоры — и как быстрее вырасти в профессии](https://habr.com/ru/companies/yandex_praktikum/articles/757676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757676)
-- [Обзор смартфона Blackview BV8900: бронированный гигант с аккумулятором 10 000 мАч и тепловизионной камерой](https://habr.com/ru/articles/757852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757852)
-- [Как мы переучивали алгоритм построения маршрутов 2ГИС ради грузовиков](https://habr.com/ru/companies/2gis/articles/757538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
