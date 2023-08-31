@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 петабайт логов в Elastic](https://habr.com/ru/companies/tinkoff/articles/757958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757958)
-- [Почему код становится legacy?](https://habr.com/ru/companies/beeline_tech/articles/746940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746940)
-- [Создание витрин данных &lpar;СМЭВ 4&rpar; в Республике Татарстан](https://habr.com/ru/companies/digital_tatarstan/articles/758130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758130)
-- [Использование Compose для ТВ-версии приложения Иви: мощный фреймворк для создания эффективных Android-приложений](https://habr.com/ru/companies/ivi/articles/757550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757550)
-- [[Перевод] Чтобы двигаться быстро, решатели квантовых лабиринтов должны забыть о прошлом](https://habr.com/ru/companies/first/articles/757846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757846)
+- [Нагрузочное тестирование API без использования UI](https://habr.com/ru/articles/758194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758194)
+- [Используем UI-тесты для поиска утечек](https://habr.com/ru/companies/cian/articles/758000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758000)
+- [DOCS AS CODE: как вести фронтовую документацию рядом с кодом, чтобы репозиторий не раздуло](https://habr.com/ru/companies/alfa/articles/757872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757872)
+- [Как приручить автотестового монстра, или Dependency Injection в автотестах](https://habr.com/ru/companies/kaspersky/articles/757980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757980)
+- [7 петабайт логов в Elastic](https://habr.com/ru/companies/oleg-bunin/articles/757958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
