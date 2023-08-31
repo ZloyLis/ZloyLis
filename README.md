@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Спасти за 60 дней: новая архитектура для ресурса с большой нагрузкой](https://habr.com/ru/articles/758218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758218)
+- [Полное руководство по использованию FVM &lpar;Flutter Version Management&rpar; – жонглируйте версиями Flutter sdk в своих проектах](https://habr.com/ru/articles/758212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758212)
 - [Нагрузочное тестирование API без использования UI](https://habr.com/ru/articles/758194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758194)
 - [Используем UI-тесты для поиска утечек](https://habr.com/ru/companies/cian/articles/758000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758000)
 - [Docs as Code: как вести фронтовую документацию рядом с кодом, чтобы репозиторий не раздуло](https://habr.com/ru/companies/alfa/articles/757872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757872)
-- [Как приручить автотестового монстра, или Dependency Injection в автотестах](https://habr.com/ru/companies/kaspersky/articles/757980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757980)
-- [7 петабайт логов в Elastic](https://habr.com/ru/companies/oleg-bunin/articles/757958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
