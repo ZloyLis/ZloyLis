@@ -25,7 +25,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Нагрузочное тестирование API без использования UI](https://habr.com/ru/articles/758194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758194)
 - [Используем UI-тесты для поиска утечек](https://habr.com/ru/companies/cian/articles/758000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758000)
-- [DOCS AS CODE: как вести фронтовую документацию рядом с кодом, чтобы репозиторий не раздуло](https://habr.com/ru/companies/alfa/articles/757872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757872)
+- [Docs as Code: как вести фронтовую документацию рядом с кодом, чтобы репозиторий не раздуло](https://habr.com/ru/companies/alfa/articles/757872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757872)
 - [Как приручить автотестового монстра, или Dependency Injection в автотестах](https://habr.com/ru/companies/kaspersky/articles/757980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757980)
 - [7 петабайт логов в Elastic](https://habr.com/ru/companies/oleg-bunin/articles/757958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757958)
 <!-- BLOG-POST-LIST:END -->
