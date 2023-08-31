@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Разбор I2S трафика в программе Logic 2](https://habr.com/ru/articles/758188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758188)
 - [От UI до AI: что о тестировании расскажут на Heisenbug 2023 Autumn](https://habr.com/ru/companies/jugru/articles/756748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756748)
-- [Быстрое пополнение словарного запаса методом «На кончиках пальцев»](https://habr.com/ru/articles/758260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758260)
 - [Два студента опровергли широко известную математическую гипотезу](https://habr.com/ru/articles/758248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758248)
 - [Инструкция как эксперту увеличить охваты в полтора раза при помощи Chat GPT и Telegram Web App](https://habr.com/ru/articles/758246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758246)
+- [Создание DSL на основе Python](https://habr.com/ru/companies/otus/articles/757944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
