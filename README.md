@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [7 петабайт логов в Elastic](https://habr.com/ru/companies/tinkoff/articles/757958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757958)
 - [Почему код становится legacy?](https://habr.com/ru/companies/beeline_tech/articles/746940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746940)
+- [Создание витрин данных &lpar;СМЭВ 4&rpar; в Республике Татарстан](https://habr.com/ru/companies/digital_tatarstan/articles/758130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758130)
 - [Использование Compose для ТВ-версии приложения Иви: мощный фреймворк для создания эффективных Android-приложений](https://habr.com/ru/companies/ivi/articles/757550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757550)
 - [[Перевод] Чтобы двигаться быстро, решатели квантовых лабиринтов должны забыть о прошлом](https://habr.com/ru/companies/first/articles/757846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757846)
-- [Как начать заниматься багхантингом веб-приложений. Часть 3](https://habr.com/ru/companies/pt/articles/758036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758036)
-- [«Он должен быть стать вторым Ньютоном» — говорил Харди о Рамануджане после первого письма. Что же такого написал индиец?](https://habr.com/ru/companies/timeweb/articles/756256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
