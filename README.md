@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Два студента опровергли широко известную математическую гипотезу](https://habr.com/ru/articles/758248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758248)
+- [Инструкция как эксперту увеличить охваты в полтора раза при помощи Chat GPT и Telegram Web App](https://habr.com/ru/articles/758246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758246)
 - [Создание DSL на основе Python](https://habr.com/ru/companies/otus/articles/757944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757944)
 - [Спасти за 60 дней: новая архитектура для ресурса с большой нагрузкой](https://habr.com/ru/articles/758218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758218)
 - [Полное руководство по использованию FVM &lpar;Flutter Version Management&rpar; – жонглируйте версиями Flutter sdk в своих проектах](https://habr.com/ru/articles/758212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758212)
-- [Нагрузочное тестирование API без использования UI](https://habr.com/ru/articles/758194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758194)
-- [Используем UI-тесты для поиска утечек](https://habr.com/ru/companies/cian/articles/758000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
