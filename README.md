@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Compose для ТВ-версии приложения Иви: мощный фреймворк для создания эффективных Android-приложений](https://habr.com/ru/companies/ivi/articles/757550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757550)
+- [[Перевод] Чтобы двигаться быстро, решатели квантовых лабиринтов должны забыть о прошлом](https://habr.com/ru/companies/first/articles/757846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757846)
+- [Как начать заниматься багхантингом веб-приложений. Часть 3](https://habr.com/ru/companies/pt/articles/758036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758036)
+- [«Он должен быть стать вторым Ньютоном» — говорил Харди о Рамануджане после первого письма. Что же такого написал индиец?](https://habr.com/ru/companies/timeweb/articles/756256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756256)
 - [Удобная подсветка покрытия кода тестами в Merge Request GitLab](https://habr.com/ru/articles/758066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758066)
-- [GitHub &lpar;2023&rpar; и что с ним стало? Как меня обанкротили на 10-12млн$](https://habr.com/ru/articles/757996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757996)
-- [Генерируем простой web интерфейс для просмотра таблиц PostgreSQL](https://habr.com/ru/articles/757990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757990)
-- [Как цифровая модель позволяет запустить объёмно-календарное планирование производства](https://habr.com/ru/articles/757976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757976)
-- [ADI в пользовательском интерфейсе](https://habr.com/ru/articles/757968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
