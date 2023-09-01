@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компилирование «железного» бинарника Java-программы Google Closure Stylesheets с GraalVM](https://habr.com/ru/articles/758300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758300)
+- [Упрощенный indoor-навигатор](https://habr.com/ru/articles/758296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758296)
+- [Scala Digest. Выпуск 8](https://habr.com/ru/companies/tinkoff/articles/758224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758224)
 - [Абстрактные типы данных. Изложение для начинающих](https://habr.com/ru/articles/758286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758286)
 - [LVM+QCOW2, или Попытка создать идеальный CSI-драйвер для shared SAN в Kubernetes](https://habr.com/ru/companies/flant/articles/757864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757864)
-- [Как сломать все! 5 вредных советов для Kubernetes](https://habr.com/ru/companies/gaz-is/articles/755392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755392)
-- [Как мы разрабатывали приложение с сибирским характером для суровых дальнобойщиков &lpar;и победили Яндекс Карты&rpar;](https://habr.com/ru/companies/pyrobyte/articles/758062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758062)
-- [Множественная кусочно-постоянная регрессия](https://habr.com/ru/articles/758262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
