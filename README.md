@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое арбитраж? Передовые технологии торговле на примере криптобиржи](https://habr.com/ru/articles/758476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758476)
 - [Один из старейших языков программирования COBOL, похоже, вскоре уйдёт с рынка. И поможет ему в этом IBM](https://habr.com/ru/companies/ru_mts/articles/758434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758434)
 - [Jackson ObjectMapper Streaming API без возни](https://habr.com/ru/articles/758432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758432)
 - [Подборка бесплатных ресурсов для обучения тестировщика](https://habr.com/ru/articles/758412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758412)
 - [Как разгрузить информационно-насыщенный дизайн](https://habr.com/ru/articles/758408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758408)
-- [Деньги из воздуха. Как приложение зарабатывает миллион долларов ежемесячно на прогнозе ветра?](https://habr.com/ru/articles/758386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
