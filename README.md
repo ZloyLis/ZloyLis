@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [react-query vs SWR и избавимся ли мы от Redux?](https://habr.com/ru/articles/758360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758360)
+- [Immutable-инфраструктура и ее преимущества](https://habr.com/ru/companies/vk/articles/756152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756152)
+- [Клетка VIII. Международные проекты исследования человека](https://habr.com/ru/articles/757910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757910)
 - [Побег из экосистем в 2023 году](https://habr.com/ru/articles/758334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758334)
-- [Какой парсер для автоматизации ревью кода лучше — DacFx или ANTLR](https://habr.com/ru/companies/yoomoney/articles/758182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758182)
-- [Релиз Jmix 2.0 — новой версии платформы для быстрой разработки бизнес-приложений на Java](https://habr.com/ru/companies/haulmont/articles/757932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757932)
-- [Компилирование «железного» бинарника Java-программы Google Closure Stylesheets с GraalVM](https://habr.com/ru/articles/758300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758300)
-- [Упрощенный indoor-навигатор](https://habr.com/ru/articles/758296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758296)
+- [[Перевод] Реверс бинарных файлов Golang с использование GHIDRA. Часть 1](https://habr.com/ru/articles/758310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
