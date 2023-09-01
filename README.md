@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какой парсер для автоматизации ревью кода лучше — DacFx или ANTLR](https://habr.com/ru/companies/yoomoney/articles/758182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758182)
+- [Релиз Jmix 2.0 — новой версии платформы для быстрой разработки бизнес-приложений на Java](https://habr.com/ru/companies/haulmont/articles/757932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757932)
 - [Компилирование «железного» бинарника Java-программы Google Closure Stylesheets с GraalVM](https://habr.com/ru/articles/758300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758300)
 - [Упрощенный indoor-навигатор](https://habr.com/ru/articles/758296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758296)
 - [Scala Digest. Выпуск 8](https://habr.com/ru/companies/tinkoff/articles/758224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758224)
-- [Абстрактные типы данных. Изложение для начинающих](https://habr.com/ru/articles/758286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758286)
-- [LVM+QCOW2, или Попытка создать идеальный CSI-драйвер для shared SAN в Kubernetes](https://habr.com/ru/companies/flant/articles/757864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
