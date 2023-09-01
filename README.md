@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка бесплатных ресурсов для обучения тестировщика](https://habr.com/ru/articles/758412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758412)
 - [Как разгрузить информационно-насыщенный дизайн](https://habr.com/ru/articles/758408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758408)
 - [Деньги из воздуха. Как приложение зарабатывает миллион долларов ежемесячно на прогнозе ветра?](https://habr.com/ru/articles/758386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758386)
 - [react-query vs SWR и избавимся ли мы от Redux?](https://habr.com/ru/articles/758360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758360)
 - [Immutable-инфраструктура и ее преимущества](https://habr.com/ru/companies/vk/articles/756152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756152)
-- [Клетка VIII. Международные проекты исследования человека](https://habr.com/ru/articles/757910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
