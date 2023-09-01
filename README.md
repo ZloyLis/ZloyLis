@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы разрабатывали приложение с сибирским характером для суровых дальнобойщиков &lpar;и победили Яндекс Карты&rpar;](https://habr.com/ru/companies/pyrobyte/articles/758062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758062)
 - [Множественная кусочно-постоянная регрессия](https://habr.com/ru/articles/758262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758262)
 - [Разбор I2S трафика в программе Logic 2](https://habr.com/ru/articles/758188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758188)
 - [От UI до AI: что о тестировании расскажут на Heisenbug 2023 Autumn](https://habr.com/ru/companies/jugru/articles/756748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756748)
 - [Два студента опровергли широко известную математическую гипотезу](https://habr.com/ru/articles/758248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758248)
-- [Инструкция как эксперту увеличить охваты в полтора раза при помощи Chat GPT и Telegram Web App](https://habr.com/ru/articles/758246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
