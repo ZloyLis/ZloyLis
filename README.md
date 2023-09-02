@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переворачиваем вечный SwiftUI календарь при помощи UIKit](https://habr.com/ru/companies/broadcast/articles/758470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758470)
 - [Альтернативные утилиты для PDF](https://habr.com/ru/companies/globalsign/articles/758568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758568)
 - [Статистика QA вакансий и резюме. Август 2023](https://habr.com/ru/articles/758518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758518)
 - [Теория типов](https://habr.com/ru/articles/758542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758542)
 - [[Перевод] Все о нестатических блоках инициализации в Java](https://habr.com/ru/companies/otus/articles/758478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758478)
-- [Что такое арбитраж? Передовые технологии торговли на примере криптобиржи](https://habr.com/ru/articles/758476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
