@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теория типов](https://habr.com/ru/articles/758542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758542)
 - [[Перевод] Все о нестатических блоках инициализации в Java](https://habr.com/ru/companies/otus/articles/758478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758478)
 - [Что такое арбитраж? Передовые технологии торговли на примере криптобиржи](https://habr.com/ru/articles/758476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758476)
 - [Один из старейших языков программирования COBOL, похоже, вскоре уйдёт с рынка. И поможет ему в этом IBM](https://habr.com/ru/companies/ru_mts/articles/758434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758434)
 - [Jackson ObjectMapper Streaming API без возни](https://habr.com/ru/articles/758432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758432)
-- [Подборка бесплатных ресурсов для обучения тестировщика](https://habr.com/ru/articles/758412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
