@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ Дайджест №2 &lpar;21 августа 2023 – 3 сентября 2023&rpar;](https://habr.com/ru/articles/758630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758630)
 - [[Перевод] Нарушая правила: как я выбросил 10-месячный проект после 2 месяцев в должности](https://habr.com/ru/companies/ruvds/articles/758280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758280)
 - [Недвоичные регистры сдвига с линейной обратной связью модулированные пилообразным кодом](https://habr.com/ru/articles/758608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758608)
 - [Системный подход к работе с данными — опыт ПГК](https://habr.com/ru/companies/pgk/articles/758152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758152)
 - [CodeLama в вашей клавиатуре | Локальный Copilot для любого поля ввода](https://habr.com/ru/articles/757224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757224)
-- [VulkanSceneGraph: Введение в графическую библиотеку](https://habr.com/ru/articles/758560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
