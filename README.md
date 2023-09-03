@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтернативная ОС вместо Apple в 2023](https://habr.com/ru/articles/758668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758668)
 - [[Перевод] Опыт адаптации Firecracker под FreeBSD](https://habr.com/ru/articles/758642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758642)
 - [Моки и мокизмы, программистский идеализм, правильная изоляция в тестировании](https://habr.com/ru/articles/758640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758640)
 - [C++ Дайджест №2 &lpar;21 августа 2023 – 3 сентября 2023&rpar;](https://habr.com/ru/articles/758630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758630)
 - [[Перевод] Нарушая правила: как я выбросил 10-месячный проект после 2 месяцев в должности](https://habr.com/ru/companies/ruvds/articles/758280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758280)
-- [Недвоичные регистры сдвига с линейной обратной связью модулированные пилообразным кодом](https://habr.com/ru/articles/758608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
