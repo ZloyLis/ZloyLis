@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Американская кровавая лотерея. Как работала мобилизация в США времён войны во Вьетнаме](https://habr.com/ru/articles/758674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758674)
 - [Тангажные колебания малого спутника](https://habr.com/ru/articles/758874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758874)
 - [Особенности разработки мобильного центра принятия решений — стандарты продукта](https://habr.com/ru/articles/758864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758864)
 - [Apple Pro Weekly News &lpar;28.08 – 03.09.23&rpar;](https://habr.com/ru/articles/758858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758858)
 - [Blockchain-разработка глазами Backend-разработчика](https://habr.com/ru/articles/757690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757690)
-- [Синюю или красную](https://habr.com/ru/articles/758836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
