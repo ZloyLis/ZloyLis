@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Load для гиков](https://habr.com/ru/articles/752462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752462)
 - [Мобильная разработка за неделю #504 &lpar;28 августа — 3 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/758678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758678)
 - [Осторожно: ICacheEntry](https://habr.com/ru/articles/755778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755778)
 - [Ускоряем java-рефлексию в 2023](https://habr.com/ru/articles/758664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758664)
 - [Альтернативная ОС вместо Apple в 2023](https://habr.com/ru/articles/758668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758668)
-- [[Перевод] Опыт адаптации Firecracker под FreeBSD](https://habr.com/ru/articles/758642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
