@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain-разработка глазами Backend-разработчика](https://habr.com/ru/articles/757690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757690)
+- [Синюю или красную](https://habr.com/ru/articles/758836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758836)
+- [[Перевод] Монолитная и микросервисная архитектура. Сравнение](https://habr.com/ru/companies/haulmont/articles/758780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758780)
 - [Security Week 2336: критическая уязвимость в утилите VMware Aria for Networks](https://habr.com/ru/companies/kaspersky/articles/758364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758364)
 - [Назад в будущее Хабра. Трекер 3.0](https://habr.com/ru/companies/habr/articles/758770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758770)
-- [Вывод оптимального алгоритма с помощью формализма Бёрда-Меертенса](https://habr.com/ru/articles/758810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758810)
-- [Как WhatsApp справлялся с 50 миллиардами сообщений в день, имея всего 32 инженера](https://habr.com/ru/companies/ruvds/articles/758800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758800)
-- [Делаем import/require ясными и красивыми](https://habr.com/ru/articles/758514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
