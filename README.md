@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность в деталях: исследование cистемы защиты от CSRF в Banki.ru](https://habr.com/ru/companies/banki/articles/759058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759058)
+- [Параллельность в Java на практике](https://habr.com/ru/articles/759054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759054)
+- [Почему C++ не устаревает](https://habr.com/ru/companies/yandex_praktikum/articles/758744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758744)
 - [Как не запутаться при реализации ТЗ](https://habr.com/ru/articles/759044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759044)
 - [Тестирование Flutter-приложений c помощью Appium](https://habr.com/ru/articles/758764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758764)
-- [Связь electron и FT2232 на примере MAX30102](https://habr.com/ru/articles/759038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759038)
-- [Как профилировать, когда perf видит не все](https://habr.com/ru/companies/vk/articles/758128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758128)
-- [Как разработать персональный план развития для UX-дизайнера: примеры PDP и шаблон для самостоятельной работы](https://habr.com/ru/companies/selectel/articles/758336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
