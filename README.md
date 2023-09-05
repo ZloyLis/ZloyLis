@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не запутаться при реализации ТЗ](https://habr.com/ru/articles/759044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759044)
+- [Тестирование Flutter-приложений c помощью Appium](https://habr.com/ru/articles/758764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758764)
+- [Связь electron и FT2232 на примере MAX30102](https://habr.com/ru/articles/759038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759038)
 - [Как профилировать, когда perf видит не все](https://habr.com/ru/companies/vk/articles/758128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758128)
 - [Как разработать персональный план развития для UX-дизайнера: примеры PDP и шаблон для самостоятельной работы](https://habr.com/ru/companies/selectel/articles/758336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758336)
-- [Как HTML и CSS влияют на доступность](https://habr.com/ru/companies/ruvds/articles/757490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757490)
-- [Динамическое создание слушателей в Kafka](https://habr.com/ru/articles/758958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758958)
-- [Введение в микроразметку в Nuxt.js: как это работает](https://habr.com/ru/companies/simbirsoft/articles/758926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
