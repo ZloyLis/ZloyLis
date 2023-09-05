@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Повышаем продуктивность разработки: магия общей ESLint конфигурации](https://habr.com/ru/articles/758954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758954)
+- [Байки джависта](https://habr.com/ru/articles/759102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759102)
+- [Проджект менеджер и аналитик: два сапога — пара?](https://habr.com/ru/articles/759100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759100)
 - [Создание приложения для распознавания текста с изображений и аудиофайлов](https://habr.com/ru/articles/758882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758882)
 - [Как и зачем проводить интегральный мониторинг SSR-приложений](https://habr.com/ru/companies/uchi_ru/articles/759084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759084)
-- [Алгоритм Левита: между Дейкстре и Беллманом](https://habr.com/ru/articles/759078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759078)
-- [Безопасность в деталях: исследование cистемы защиты от CSRF в Banki.ru](https://habr.com/ru/companies/banki/articles/759058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759058)
-- [Параллельность в Java на практике](https://habr.com/ru/articles/759054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
