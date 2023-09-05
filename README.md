@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Codeium и StarCoder: нейросети с автодополнением кода](https://habr.com/ru/articles/758910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758910)
+- [Строим удобные автомобильные маршруты](https://habr.com/ru/companies/2gis/articles/758688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758688)
 - [Лида, все пропало! Сезон стартует через 2 недели! Или как не запороть продажи в сезон при запуске рекламы?](https://habr.com/ru/articles/758886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758886)
 - [Американская кровавая лотерея. Как работала мобилизация в США времён войны во Вьетнаме](https://habr.com/ru/articles/758674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758674)
 - [Тангажные колебания малого спутника](https://habr.com/ru/articles/758874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758874)
-- [Особенности разработки мобильного центра принятия решений — стандарты продукта](https://habr.com/ru/articles/758864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758864)
-- [Apple Pro Weekly News &lpar;28.08 – 03.09.23&rpar;](https://habr.com/ru/articles/758858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
