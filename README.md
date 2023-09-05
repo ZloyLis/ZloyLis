@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Введение в микроразметку в Nuxt.js: как это работает](https://habr.com/ru/companies/simbirsoft/articles/758926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758926)
+- [[Перевод] TSDB Loki с высоты птичьего полета](https://habr.com/ru/companies/flant/articles/758184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758184)
 - [Аудит пользователей Spring Data JPA](https://habr.com/ru/companies/nlmk/articles/757866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757866)
 - [Компонентные тесты на .NET 7](https://habr.com/ru/companies/tinkoff/articles/758146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758146)
 - [Пет-проект как один из лучших вариантов практического обучения начинающего программиста](https://habr.com/ru/companies/ru_mts/articles/758924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758924)
-- [Codeium и StarCoder: нейросети с автодополнением кода](https://habr.com/ru/articles/758910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758910)
-- [Строим удобные автомобильные маршруты](https://habr.com/ru/companies/2gis/articles/758688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
