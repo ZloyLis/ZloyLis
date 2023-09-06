@@ -24,7 +24,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Было: “Умный и Богатый”. Стало: “Отличная оценка!”](https://habr.com/ru/articles/759130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759130)
-- [Продолжаем изучение арбитража криптовалюты: прогноз срока жизни оффера](https://habr.com/ru/articles/759128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759128)
+- [Продолжаем изучение арбитража криптовалют: прогноз срока жизни оффера](https://habr.com/ru/articles/759128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759128)
 - [[Перевод] Поиск по регулярным выражениям может быть простым и быстрым](https://habr.com/ru/articles/756806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756806)
 - [Повышаем продуктивность разработки: магия общей ESLint конфигурации](https://habr.com/ru/articles/758954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758954)
 - [Байки джависта](https://habr.com/ru/articles/759102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759102)
