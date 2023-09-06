@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чему учат на курсах Data Science? Примеры задач для аналитика на фармрынке](https://habr.com/ru/articles/759252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759252)
+- [Немножко о форматировании строк в питоне](https://habr.com/ru/articles/759250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759250)
+- [Наш маркетплейс COMETAL: изготовление металлических деталей в один клик](https://habr.com/ru/companies/severstal/articles/759242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759242)
 - [Как генерировать истории с помощью ChatGPT и Telegram](https://habr.com/ru/companies/selectel/articles/757924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757924)
 - [Создаём с нуля своё BIM-приложение для просмотра моделей IFC формата в браузере на основе open-source библиотеки IFC.js](https://habr.com/ru/articles/759230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759230)
-- [Обертка для indexedDB / localStorage /…](https://habr.com/ru/articles/759200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759200)
-- [Как мы внедряем машинное обучение в продукты Positive Technologies](https://habr.com/ru/companies/pt/articles/758290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758290)
-- [Как грамотный подход аналитиков может сэкономить бюджет компании за счет изменения подхода к реализации проекта](https://habr.com/ru/companies/rshb/articles/759028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
