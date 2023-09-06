@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы внедряем машинное обучение в продукты Positive Technologies](https://habr.com/ru/companies/pt/articles/758290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758290)
+- [Как грамотный подход аналитиков может сэкономить бюджет компании за счет изменения подхода к реализации проекта](https://habr.com/ru/companies/rshb/articles/759028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759028)
+- [Как публиковать и воспроизводить видео на Android с помощью опенсорс-библиотеки и стриминговой платформы EdgeЦентр](https://habr.com/ru/companies/edgecenter/articles/759180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759180)
 - [Ускорение в 30 раз — requestIdleCallback](https://habr.com/ru/articles/759150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759150)
 - [Было: “Умный и Богатый”. Стало: “Отличная оценка!”](https://habr.com/ru/articles/759130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759130)
-- [Продолжаем изучение арбитража криптовалют: прогноз срока жизни оффера](https://habr.com/ru/articles/759128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759128)
-- [[Перевод] Поиск по регулярным выражениям может быть простым и быстрым](https://habr.com/ru/articles/756806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756806)
-- [Повышаем продуктивность разработки: магия общей ESLint конфигурации](https://habr.com/ru/articles/758954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
