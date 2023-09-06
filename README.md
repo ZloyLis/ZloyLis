@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia DevOps Report 2022 — основные тренды отечественного рынка разработки](https://habr.com/ru/companies/oleg-bunin/articles/759168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759168)
+- [Перемещение частиц по 3D-геометрии](https://habr.com/ru/articles/759296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759296)
 - [[Перевод] S3-FIFO: новый эффективный алгоритм вытеснения из кэша на основе очередей FIFO](https://habr.com/ru/companies/ruvds/articles/759270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759270)
 - [Безопасность K8s: защита кластеров в Сloud Containers от VK Cloud и Luntry](https://habr.com/ru/companies/vk/articles/759026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759026)
 - [Проверка компилятора GCC 13 с помощью PVS-Studio](https://habr.com/ru/companies/pvs-studio/articles/759278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759278)
-- [Как выстроить цифровую корпоративную систему обеспечения ЧС и пожарной безопасности?](https://habr.com/ru/companies/nornickel/articles/759268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759268)
-- [Чему учат на курсах Data Science? Примеры задач для аналитика на фармрынке](https://habr.com/ru/articles/759252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
