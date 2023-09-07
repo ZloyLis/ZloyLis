@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fairphone 5: на что способен новый модульный смартфон? Железо, софт и обновления](https://habr.com/ru/companies/selectel/articles/713096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713096)
 - [Первые шаги в Q#. Алгорим Дойча](https://habr.com/ru/articles/759352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759352)
 - [Высокие технологии или дешевые фокусы с двойным дном](https://habr.com/ru/articles/759344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759344)
 - [Гипотеза Пойи — один из самых ярких примеров того, что в математике «верить на слово» нельзя](https://habr.com/ru/companies/vstack/articles/758884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758884)
 - [Чек-лист: что изучать джуну, кроме «матчасти»](https://habr.com/ru/companies/rostelecom/articles/759216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759216)
-- [Russia DevOps Report 2022 — основные тренды отечественного рынка разработки](https://habr.com/ru/companies/oleg-bunin/articles/759168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
