@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Учим ИИ чатбота слушать и говорить](https://habr.com/ru/articles/759458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759458)
+- [Чему вы научитесь на бесплатном курсе VK Education по Go?](https://habr.com/ru/companies/vk/articles/759314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759314)
+- [Как &lpar;быстро&rpar; сделать русский локальный ChatGPT](https://habr.com/ru/articles/759386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759386)
 - [Проблема код-ревью: ESLint — больше, чем просто «extend»](https://habr.com/ru/companies/oleg-bunin/articles/735038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735038)
 - [Java Digest #4](https://habr.com/ru/companies/tinkoff/articles/759432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759432)
-- [Какой подход применить в дизайне, чтобы попасть в ожидания заказчика с первой попытки?](https://habr.com/ru/companies/pyrobyte/articles/759438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759438)
-- [[Перевод] Можно ли доверить компилятору оптимизацию вашего кода?](https://habr.com/ru/companies/timeweb/articles/759326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759326)
-- [Переход с Calico на Cilium. Причины и итоги](https://habr.com/ru/companies/dbraincloud/articles/759244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
