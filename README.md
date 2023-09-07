@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые возможности в скриптах Роутер Ос 7 Микротик](https://habr.com/ru/articles/759564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759564)
 - [Ускоряем поиск по коду в Android Studio](https://habr.com/ru/companies/ozontech/articles/759480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759480)
 - [Книга «Математика в машинном обучении»](https://habr.com/ru/companies/piter/articles/757616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757616)
 - [Как CallPassword ID меняет парадигму авторизации и экономит сотни тысяч](https://habr.com/ru/articles/759492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759492)
 - [Совершенствуем развертывание приложений в Kubernetes с помощью Blue-Green Deployment](https://habr.com/ru/companies/otus/articles/759540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759540)
-- [Влад Грозин о PhD в США, философии в Data Science, пузыре рекомендаций и голодающих геймерах](https://habr.com/ru/companies/magnus-tech/articles/759426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
