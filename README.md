@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Новый способ прослушивания событий жизненного цикла приложения во Flutter](https://habr.com/ru/articles/759628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759628)
+- [Капибара, Новый Старый Пикабу](https://habr.com/ru/articles/759598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759598)
 - [Как добавить кастомный аутентификатор в KeyCloak и подружить его со сторонней системой](https://habr.com/ru/companies/k2tech/articles/759600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759600)
 - [Новые возможности в скриптах Роутер Ос 7 Микротик](https://habr.com/ru/articles/759564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759564)
 - [Ускоряем поиск по коду в Android Studio](https://habr.com/ru/companies/ozontech/articles/759480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759480)
-- [Книга «Математика в машинном обучении»](https://habr.com/ru/companies/piter/articles/757616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757616)
-- [Как CallPassword ID меняет парадигму авторизации и экономит сотни тысяч](https://habr.com/ru/articles/759492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
