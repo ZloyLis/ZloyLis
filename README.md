@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Можно ли доверить компилятору оптимизацию вашего кода?](https://habr.com/ru/companies/timeweb/articles/759326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759326)
+- [Переход с Calico на Cilium. Причины и итоги](https://habr.com/ru/companies/dbraincloud/articles/759244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759244)
+- [Нетворкинг: помогает ли он при поиске работы и как выстраивать связи](https://habr.com/ru/companies/redmadrobot/articles/759428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759428)
 - [Как я стал разработчиком](https://habr.com/ru/articles/759390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759390)
 - [Fairphone 5: на что способен новый модульный смартфон? Железо, софт и обновления](https://habr.com/ru/companies/selectel/articles/713096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=713096)
-- [Первые шаги в Q#. Алгорим Дойча](https://habr.com/ru/articles/759352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759352)
-- [Высокие технологии или дешевые фокусы с двойным дном](https://habr.com/ru/articles/759344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759344)
-- [Гипотеза Пойи — один из самых ярких примеров того, что в математике «верить на слово» нельзя](https://habr.com/ru/companies/vstack/articles/758884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
