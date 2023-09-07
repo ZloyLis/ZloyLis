@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как CallPassword ID меняет парадигму авторизации и экономит сотни тысяч](https://habr.com/ru/articles/759492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759492)
+- [Совершенствуем развертывание приложений в Kubernetes с помощью Blue-Green Deployment](https://habr.com/ru/companies/otus/articles/759540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759540)
+- [Влад Грозин о PhD в США, философии в Data Science, пузыре рекомендаций и голодающих геймерах](https://habr.com/ru/companies/magnus-tech/articles/759426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759426)
+- [[Перевод] Опасный гибрид: разгон Super Game Boy](https://habr.com/ru/companies/sportmaster_lab/articles/759518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759518)
 - [Сага распределенных транзакций](https://habr.com/ru/companies/qiwi/articles/759474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759474)
-- [Как мы сломали стену между разработкой и дизайном](https://habr.com/ru/companies/beeline_tech/articles/759508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759508)
-- [Учим ИИ чатбота слушать и говорить](https://habr.com/ru/articles/759458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759458)
-- [Чему вы научитесь на бесплатном курсе VK Education по Go?](https://habr.com/ru/companies/vk/articles/759314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759314)
-- [Как &lpar;быстро&rpar; сделать русский локальный ChatGPT](https://habr.com/ru/articles/759386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
