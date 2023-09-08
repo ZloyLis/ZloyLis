@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создатель Ruby on Rails: «Turbo 8 отказывается от TypeScript»](https://habr.com/ru/articles/759826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759826)
+- [Architecture as Code: реализуем подход Саймона Брауна](https://habr.com/ru/articles/759820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759820)
+- [[Перевод] Типизированные CSS переменные с @property](https://habr.com/ru/articles/759818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759818)
+- [Секреты в kubernetes используя Hashicorp Vault + External Secrets Operator](https://habr.com/ru/companies/rshb/articles/759816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759816)
 - [Навигация в мире возможностей: как программисту 1С выбрать идеальное место работы](https://habr.com/ru/companies/automacon/articles/759800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759800)
-- [[Перевод] Не усложняйте свои приложения](https://habr.com/ru/companies/ruvds/articles/759132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759132)
-- [[Перевод] Как отправлять пользовательский интерфейс по API](https://habr.com/ru/companies/piter/articles/759774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759774)
-- [Всё, что вы хотели знать о Java, но не доходили руки спросить: что будет на Joker 2023](https://habr.com/ru/companies/jugru/articles/759762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759762)
-- [Сверхбыстрые приложения на Oracle – легко](https://habr.com/ru/companies/bercut/articles/759754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
