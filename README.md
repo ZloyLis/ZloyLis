@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 5](https://habr.com/ru/articles/758540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758540)
+- [[Перевод] Стайлгайд PySpark: как сделать код элегантным](https://habr.com/ru/companies/vk/articles/759310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759310)
 - [Разбор Android 14 для разработчиков](https://habr.com/ru/companies/broadcast/articles/753704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=753704)
 - [[Перевод] Нововведения фреймворка Flutter 3.13. Часть 1](https://habr.com/ru/articles/759716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759716)
 - [[Перевод] История появления загадочного символа «Х»](https://habr.com/ru/companies/itglobalcom/articles/759678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759678)
-- [Standalone компоненты и tree-shaking](https://habr.com/ru/companies/skyeng/articles/757498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757498)
-- [Инструменты и навыки для новичков. Или как не потеряться в дремучем лесу тестирования](https://habr.com/ru/companies/yandex_praktikum/articles/758384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
