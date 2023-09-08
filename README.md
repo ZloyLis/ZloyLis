@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Django или Fast API: выбираем Python-фреймворк для веб-разработки](https://habr.com/ru/companies/ru_mts/articles/759848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759848)
+- [Искать пару, а найти работу. История разработчика Fitil](https://habr.com/ru/companies/fitil/articles/759846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759846)
+- [Enum в Swift: Перечисление Возможных Сценариев](https://habr.com/ru/articles/759842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759842)
 - [[Перевод] Создатель Ruby on Rails: «Turbo 8 отказывается от TypeScript»](https://habr.com/ru/articles/759826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759826)
 - [Architecture as Code: реализуем подход Саймона Брауна](https://habr.com/ru/articles/759820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759820)
-- [[Перевод] Типизированные CSS переменные с @property](https://habr.com/ru/articles/759818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759818)
-- [Секреты в kubernetes используя Hashicorp Vault + External Secrets Operator](https://habr.com/ru/companies/rshb/articles/759816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759816)
-- [Навигация в мире возможностей: как программисту 1С выбрать идеальное место работы](https://habr.com/ru/companies/automacon/articles/759800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
