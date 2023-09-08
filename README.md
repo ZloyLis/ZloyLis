@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сага о консистентности данных](https://habr.com/ru/companies/alfa/articles/759224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759224)
+- [Соцсети нынче отвратительны](https://habr.com/ru/articles/759656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759656)
 - [Apple открывает прием заявок на Apple Entrepreneur Camp 2023](https://habr.com/ru/articles/759660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759660)
 - [[Перевод] Новый способ прослушивания событий жизненного цикла приложения во Flutter](https://habr.com/ru/articles/759628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759628)
 - [Капибара, Новый Старый Пикабу](https://habr.com/ru/articles/759598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759598)
-- [Как добавить кастомный аутентификатор в KeyCloak и подружить его со сторонней системой](https://habr.com/ru/companies/k2tech/articles/759600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759600)
-- [Новые возможности в скриптах Роутер Ос 7 Микротик](https://habr.com/ru/articles/759564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
