@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не войти в «АйТи»](https://habr.com/ru/articles/759910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759910)
 - [Инструменты создания API клиента для .NET](https://habr.com/ru/articles/758670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758670)
 - [Большое расследование](https://habr.com/ru/articles/725494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725494)
 - [Django или Fast API: выбираем Python-фреймворк для веб-разработки](https://habr.com/ru/companies/ru_mts/articles/759848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759848)
 - [Искать пару, а найти работу. История разработчика Fitil](https://habr.com/ru/companies/fitil/articles/759846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759846)
-- [Enum в Swift: Перечисления Возможных Сценариев](https://habr.com/ru/articles/759842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
