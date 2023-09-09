@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Через тернии к позиции Middle React разработчика](https://habr.com/ru/articles/759950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759950)
 - [[Перевод] Puppeteer в Node.js: Антипаттерны, которые следует избегать](https://habr.com/ru/companies/otus/articles/759788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759788)
 - [Взаимодействие с MOEX ISS через Python](https://habr.com/ru/articles/759922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759922)
 - [Не войти в «АйТи»](https://habr.com/ru/articles/759910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759910)
 - [Инструменты создания API клиента для .NET](https://habr.com/ru/articles/758670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758670)
-- [Большое расследование](https://habr.com/ru/articles/725494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
