@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Перестаём бояться генерировать байт-код](https://habr.com/ru/articles/759990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759990)
 - [Одно из самых фундаментальных утверждений математики — теорема Гейне-Бореля-Лебега](https://habr.com/ru/articles/759982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759982)
 - [[Перевод] Интернет из PHP](https://habr.com/ru/articles/759946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759946)
 - [Дружим YOLACT и RockChip: запуск инстанс-сегментации на китайском одноплатнике](https://habr.com/ru/articles/759976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759976)
 - [Интерактивный UX: Как использовать Drag and Drop в UICollectionView на iOS](https://habr.com/ru/articles/759974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759974)
-- [Vite плагин для удобной работы с Web Workers](https://habr.com/ru/articles/759962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
