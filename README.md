@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что бы я хотел знать до переноса 50 000 строк кода на серверные компоненты React](https://habr.com/ru/articles/760098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760098)
 - [Apple Pro Weekly News &lpar;04.09 – 10.09.23&rpar;](https://habr.com/ru/articles/760084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760084)
 - [Простой комплект для изучения сантиметровых радиоволн &lpar;СВЧ&rpar;](https://habr.com/ru/articles/760082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760082)
 - [Университет Иннополис — через 2 года не все так хорошо как хотелось бы или…](https://habr.com/ru/articles/759932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759932)
 - [[Перевод] Принцип работы async/await в JavaScript](https://habr.com/ru/companies/ruvds/articles/759772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759772)
-- [Всероссийский конкурс «Начни игру» и публикация приложения в RuStore](https://habr.com/ru/articles/760032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
