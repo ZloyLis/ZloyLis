@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Begin /* Очевидность](https://habr.com/ru/articles/760004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760004)
 - [[Перевод] Релиз Bun 1.0 &lpar;новый runtime для JavaScript &rpar;](https://habr.com/ru/articles/760002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760002)
 - [Как я писал сервер на NodeJS для базы Firebird 3.0](https://habr.com/ru/articles/760000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760000)
 - [Перестаём бояться генерировать байт-код](https://habr.com/ru/articles/759990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759990)
 - [Одно из самых фундаментальных утверждений математики — теорема Гейне-Бореля-Лебега](https://habr.com/ru/articles/759982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759982)
-- [[Перевод] Интернет из PHP](https://habr.com/ru/articles/759946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
