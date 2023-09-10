@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Университет Иннополис — через 2 года не все так хорошо как хотелось бы или…](https://habr.com/ru/articles/759932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759932)
 - [[Перевод] Принцип работы async/await в JavaScript](https://habr.com/ru/companies/ruvds/articles/759772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759772)
 - [Всероссийский конкурс «Начни игру» и публикация приложения в RuStore](https://habr.com/ru/articles/760032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760032)
 - [Организация кода в Laravel. Личный опыт](https://habr.com/ru/articles/760022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760022)
 - [Begin /* Очевидность](https://habr.com/ru/articles/760004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760004)
-- [[Перевод] Релиз Bun 1.0 &lpar;новый runtime для JavaScript &rpar;](https://habr.com/ru/articles/760002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
