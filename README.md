@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Всероссийский конкурс «Начни игру» и публикация приложения в RuStore](https://habr.com/ru/articles/760032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760032)
 - [Организация кода в Laravel. Личный опыт](https://habr.com/ru/articles/760022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760022)
 - [Begin /* Очевидность](https://habr.com/ru/articles/760004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760004)
 - [[Перевод] Релиз Bun 1.0 &lpar;новый runtime для JavaScript &rpar;](https://habr.com/ru/articles/760002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760002)
 - [Как я писал сервер на NodeJS для базы Firebird 3.0](https://habr.com/ru/articles/760000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760000)
-- [Перестаём бояться генерировать байт-код](https://habr.com/ru/articles/759990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
