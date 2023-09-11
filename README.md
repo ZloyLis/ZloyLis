@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Используем Neovim в качестве IDE для Java](https://habr.com/ru/articles/760234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760234)
-- [FizzBuzz и искусство фильтрации](https://habr.com/ru/articles/760192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760192)
-- [Шейдеры в iOS для начинающих](https://habr.com/ru/companies/dododev/articles/759574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759574)
-- [[Перевод] Нововведения фреймворка Flutter 3.13.Часть 2](https://habr.com/ru/articles/760178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760178)
-- [Простые правила при работе с растровыми изображениями на каждый день](https://habr.com/ru/companies/domclick/articles/759422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759422)
+- [Чудовищное уравнение 45-ой степени, которое Франсуа Виет решил в 16 веке](https://habr.com/ru/companies/timeweb/articles/760164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760164)
+- [[Перевод] Как выработать интуитивное понимание логарифмов](https://habr.com/ru/companies/ruvds/articles/760262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760262)
+- [7 аргументов почему UUID лучше, чем автоинкрементные идентификаторы](https://habr.com/ru/articles/760272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760272)
+- [Защищай, но проверяй. Как самостоятельно защитить СУБД от взлома](https://habr.com/ru/companies/vk/articles/760268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760268)
+- [Flutter — CI/CD Azure + App Center](https://habr.com/ru/articles/760258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
