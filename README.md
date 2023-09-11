@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем plugin для IDEA, используя External System API, на примере простой build системы](https://habr.com/ru/articles/759984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759984)
 - [Стоит ли идти на курсы IT преподавателем?](https://habr.com/ru/articles/760102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760102)
 - [Мобильная разработка за неделю #505 &lpar;4 — 10 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/760106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760106)
 - [[Перевод] Что бы я хотел знать до переноса 50 000 строк кода на серверные компоненты React](https://habr.com/ru/articles/760098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760098)
 - [Apple Pro Weekly News &lpar;04.09 – 10.09.23&rpar;](https://habr.com/ru/articles/760084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760084)
-- [Простой комплект для изучения сантиметровых радиоволн &lpar;СВЧ&rpar;](https://habr.com/ru/articles/760082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
