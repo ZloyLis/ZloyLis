@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FizzBuzz и искусство фильтрации](https://habr.com/ru/articles/760192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760192)
 - [Шейдеры в iOS для начинающих](https://habr.com/ru/companies/dododev/articles/759574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759574)
 - [[Перевод] Нововведения фреймворка Flutter 3.13.Часть 2](https://habr.com/ru/articles/760178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760178)
 - [Простые правила при работе с растровыми изображениями на каждый день](https://habr.com/ru/companies/domclick/articles/759422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759422)
 - [Time-based атаки во вредоносном ПО и противодействие им](https://habr.com/ru/companies/pt/articles/759758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759758)
-- [Как банки становятся IT-компаниями с финансовыми сервисами: путь от SOAP к REST](https://habr.com/ru/companies/alfa/articles/754776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
