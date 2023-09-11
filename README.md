@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FizzBuzz и искусство фильтрации: Stream API и предикаты](https://habr.com/ru/articles/760090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760090)
+- [Бестолковые телеграм боты и статический адрес в Outline](https://habr.com/ru/articles/760344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760344)
+- [Изменение цвета всех блоков Nanocad](https://habr.com/ru/articles/760342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760342)
 - [Стреляем в будущее](https://habr.com/ru/articles/759994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759994)
 - [Стартап в Соло. Часть 5: сколько приносит проект сейчас?](https://habr.com/ru/articles/760310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760310)
-- [Примеры формулировок требований по правилам руководства по написанию требований от INCOSE](https://habr.com/ru/articles/760270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760270)
-- [Тестирование внутреннего мобильного приложения «На связи»](https://habr.com/ru/companies/tele2/articles/760302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760302)
-- [Как работает SberPay под капотом](https://habr.com/ru/companies/sberbank/articles/760218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
