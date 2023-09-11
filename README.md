@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап в Соло. Часть 5: сколько приносит проект сейчас?](https://habr.com/ru/articles/760310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760310)
+- [Примеры формулировок требований по правилам руководства по написанию требований от INCOSE](https://habr.com/ru/articles/760270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760270)
+- [Тестирование внутреннего мобильного приложения «На связи»](https://habr.com/ru/companies/tele2/articles/760302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760302)
+- [Как работает SberPay под капотом](https://habr.com/ru/companies/sberbank/articles/760218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760218)
 - [«Мультиверсионная» документация с GitHub Pages](https://habr.com/ru/articles/760292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760292)
-- [Приведение линейных нестационарных систем](https://habr.com/ru/articles/760290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760290)
-- [Security Week 2337: расследование кибератаки на инфраструктуру Microsoft](https://habr.com/ru/companies/kaspersky/articles/760260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760260)
-- [Чудовищное уравнение 45-ой степени, которое Франсуа Виет решил в 16 веке](https://habr.com/ru/companies/timeweb/articles/760164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760164)
-- [[Перевод] Как выработать интуитивное понимание логарифмов](https://habr.com/ru/companies/ruvds/articles/760262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
