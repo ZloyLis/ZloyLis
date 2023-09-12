@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Taiga UI: больше чем UI kit](https://habr.com/ru/companies/tinkoff/articles/760276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760276)
+- [PHP и Laravel дайджест новостей за август 2023 года](https://habr.com/ru/articles/760458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760458)
 - [Разница между Data Race и Race Condition](https://habr.com/ru/articles/760434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760434)
+- [[Перевод] Смерть от тысячи микросервисов](https://habr.com/ru/articles/760426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760426)
 - [Используем JS Self-Profiling API для профилирования фронтенда на клиентах](https://habr.com/ru/companies/avito/articles/759072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759072)
-- [Как я разбирал нестандартный формат 3D-моделей, чтобы показывать Лего у себя на сайте](https://habr.com/ru/companies/ruvds/articles/759300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759300)
-- [RnD versus. Продуктовая разработка](https://habr.com/ru/companies/oleg-bunin/articles/735036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735036)
-- [[Перевод] Стайлгайд PySpark: как сделать код элегантным](https://habr.com/ru/companies/vk/articles/760416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
