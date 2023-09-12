@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Информатика в России: от ЭВМ и «бейсика» до проекта «Код Будущего»](https://habr.com/ru/companies/uchi_ru/articles/760542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760542)
+- [Искусство ETL. Пишем собственный движок SQL на Spark [часть 1 из 5]](https://habr.com/ru/articles/760504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760504)
+- [Книга «Игровой баланс. Точная наука геймдизайна»](https://habr.com/ru/companies/piter/articles/758126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758126)
 - [Обработка всплывающих окон в Selenium](https://habr.com/ru/companies/yandex_praktikum/articles/760266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760266)
 - [SAFE и как мы с этим живем](https://habr.com/ru/companies/rdp/articles/760536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760536)
-- [[Перевод] Реверс-инжиниринг промптов for fun and &lpar;no&rpar; profit](https://habr.com/ru/companies/wunderfund/articles/760526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760526)
-- [Ошибка настолько проста, что программисты её не замечают](https://habr.com/ru/companies/pvs-studio/articles/760514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760514)
-- [Парадокс коллективной эмпатии: как спровоцировать толпу на самоистребление](https://habr.com/ru/articles/760510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
