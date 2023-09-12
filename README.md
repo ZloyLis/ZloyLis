@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт использования GitHub Copilot: разработчики из команды Сравни делятся впечатлениями](https://habr.com/ru/companies/sravni/articles/760558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760558)
+- [Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь](https://habr.com/ru/companies/nixys/articles/758068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758068)
+- [MBA: когда его стоит делать? толковая инвестиция или детский сад для взрослых?](https://habr.com/ru/articles/760360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760360)
+- [Моделирование биологических явлений с помощью Python](https://habr.com/ru/companies/otus/articles/760546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760546)
 - [Информатика в России: от ЭВМ и «бейсика» до проекта «Код Будущего»](https://habr.com/ru/companies/uchi_ru/articles/760542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760542)
-- [Искусство ETL. Пишем собственный движок SQL на Spark [часть 1 из 5]](https://habr.com/ru/articles/760504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760504)
-- [Книга «Игровой баланс. Точная наука геймдизайна»](https://habr.com/ru/companies/piter/articles/758126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758126)
-- [Обработка всплывающих окон в Selenium](https://habr.com/ru/companies/yandex_praktikum/articles/760266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760266)
-- [SAFE и как мы с этим живем](https://habr.com/ru/companies/rdp/articles/760536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
