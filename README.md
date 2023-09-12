@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обработка всплывающих окон в Selenium](https://habr.com/ru/companies/yandex_praktikum/articles/760266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760266)
+- [SAFE и как мы с этим живем](https://habr.com/ru/companies/rdp/articles/760536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760536)
+- [[Перевод] Реверс-инжиниринг промптов for fun and &lpar;no&rpar; profit](https://habr.com/ru/companies/wunderfund/articles/760526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760526)
+- [Ошибка настолько проста, что программисты её не замечают](https://habr.com/ru/companies/pvs-studio/articles/760514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760514)
 - [Парадокс коллективной эмпатии: как спровоцировать толпу на самоистребление](https://habr.com/ru/articles/760510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760510)
-- [Я устал: работа — рутина, и нет ощущения, что создаю что-то ценное. Как быть?](https://habr.com/ru/companies/netologyru/articles/760386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760386)
-- [HOMEd: A почему «d»? Чтобы никто не догадался](https://habr.com/ru/articles/760488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760488)
-- [Taiga UI: больше чем UI kit](https://habr.com/ru/companies/tinkoff/articles/760276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760276)
-- [PHP и Laravel дайджест новостей за август 2023 года](https://habr.com/ru/articles/760458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
