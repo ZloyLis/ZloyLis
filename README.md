@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Стайлгайд PySpark: как сделать код элегантным](https://habr.com/ru/companies/vk/articles/760416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760416)
+- [Сам написал, сам поиграл: как я написал 2D-игру для Android полностью с нуля, весом менее 1мб?](https://habr.com/ru/companies/timeweb/articles/754588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754588)
+- [[Перевод] Написание компилятора C в 500 строк Python](https://habr.com/ru/companies/cloud4y/articles/760400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760400)
 - [Разворачиваем приложение в кластере Kubernetes под управлением Deckhouse c помощью werf](https://habr.com/ru/companies/flant/articles/759040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759040)
 - [Ловля уток на желуди и Брюс Уиллис в российской рекламе: как определять фейки в сети](https://habr.com/ru/companies/lanit/articles/759750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759750)
-- [Создаем нативное Kotlin приложение на Spring Boot Native, Gradle и GraalVM без докера под MacOS и Windows](https://habr.com/ru/articles/760074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760074)
-- [7. Точность систем автоматического регулирования &lpar;ч.1&rpar;](https://habr.com/ru/articles/760364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760364)
-- [FizzBuzz и искусство фильтрации: Stream API и предикаты](https://habr.com/ru/articles/760090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
