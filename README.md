@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О чём нужно знать до того, как стать программистом](https://habr.com/ru/companies/regionsoft/articles/760624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760624)
+- [QA матрица компетенций и все такое](https://habr.com/ru/articles/760616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760616)
 - [Что показали на осенней презентации Apple. iPhone 15 и другие новинки](https://habr.com/ru/companies/first/articles/760600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760600)
 - [Опыт использования GitHub Copilot: разработчики из команды Сравни делятся впечатлениями](https://habr.com/ru/companies/sravni/articles/760558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760558)
 - [Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь](https://habr.com/ru/companies/nixys/articles/758068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758068)
-- [MBA: когда его стоит делать? толковая инвестиция или детский сад для взрослых?](https://habr.com/ru/articles/760360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760360)
-- [Моделирование биологических явлений с помощью Python](https://habr.com/ru/companies/otus/articles/760546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
