@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разница между Data Race и Race Condition](https://habr.com/ru/articles/760434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760434)
 - [Используем JS Self-Profiling API для профилирования фронтенда на клиентах](https://habr.com/ru/companies/avito/articles/759072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759072)
 - [Как я разбирал нестандартный формат 3D-моделей, чтобы показывать Лего у себя на сайте](https://habr.com/ru/companies/ruvds/articles/759300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759300)
 - [RnD versus. Продуктовая разработка](https://habr.com/ru/companies/oleg-bunin/articles/735036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735036)
 - [[Перевод] Стайлгайд PySpark: как сделать код элегантным](https://habr.com/ru/companies/vk/articles/760416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760416)
-- [Сам написал, сам поиграл: как я написал 2D-игру для Android полностью с нуля, весом менее 1мб?](https://habr.com/ru/companies/timeweb/articles/754588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
