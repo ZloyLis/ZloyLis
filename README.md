@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Используем JS Self-Profiling API для профилирования фронтенда на клиентах](https://habr.com/ru/companies/avito/articles/759072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759072)
+- [Как я разбирал нестандартный формат 3D-моделей, чтобы показывать Лего у себя на сайте](https://habr.com/ru/companies/ruvds/articles/759300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759300)
+- [RnD versus. Продуктовая разработка](https://habr.com/ru/companies/oleg-bunin/articles/735036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735036)
 - [[Перевод] Стайлгайд PySpark: как сделать код элегантным](https://habr.com/ru/companies/vk/articles/760416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760416)
 - [Сам написал, сам поиграл: как я написал 2D-игру для Android полностью с нуля, весом менее 1мб?](https://habr.com/ru/companies/timeweb/articles/754588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754588)
-- [[Перевод] Написание компилятора C в 500 строк Python](https://habr.com/ru/companies/cloud4y/articles/760400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760400)
-- [Разворачиваем приложение в кластере Kubernetes под управлением Deckhouse c помощью werf](https://habr.com/ru/companies/flant/articles/759040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759040)
-- [Ловля уток на желуди и Брюс Уиллис в российской рекламе: как определять фейки в сети](https://habr.com/ru/companies/lanit/articles/759750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
