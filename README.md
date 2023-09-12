@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парадокс коллективной эмпатии: как спровоцировать толпу на самоистребление](https://habr.com/ru/articles/760510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760510)
+- [Я устал: работа — рутина, и нет ощущения, что создаю что-то ценное. Как быть?](https://habr.com/ru/companies/netologyru/articles/760386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760386)
+- [HOMEd: A почему «d»? Чтобы никто не догадался](https://habr.com/ru/articles/760488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760488)
 - [Taiga UI: больше чем UI kit](https://habr.com/ru/companies/tinkoff/articles/760276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760276)
 - [PHP и Laravel дайджест новостей за август 2023 года](https://habr.com/ru/articles/760458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760458)
-- [Разница между Data Race и Race Condition](https://habr.com/ru/articles/760434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760434)
-- [[Перевод] Смерть от тысячи микросервисов](https://habr.com/ru/articles/760426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760426)
-- [Используем JS Self-Profiling API для профилирования фронтенда на клиентах](https://habr.com/ru/companies/avito/articles/759072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
