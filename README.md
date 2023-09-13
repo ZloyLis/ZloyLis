@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ванильный k8s от 1.26.0 до 1.28.1 с containerd на РедОС](https://habr.com/ru/articles/760806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760806)
+- [[Перевод] Пять подходов к созданию ad-hoc-датафреймов в PySpark](https://habr.com/ru/companies/vk/articles/760796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760796)
+- [Блокчейн или не блокчейн? Формализованные критерии выбора технологии хранения и обработки данных](https://habr.com/ru/companies/aktiv-company/articles/760730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760730)
 - [Есть один нюанс: как мы спасаем нейросети от классификации неоднозначных текстов](https://habr.com/ru/companies/airi/articles/760756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760756)
 - [Искусство ETL. Пишем собственный движок SQL на Spark [часть 2 из 5]](https://habr.com/ru/articles/760778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760778)
-- [In-app purchases — за что и почему? Взгляд аналитика](https://habr.com/ru/companies/surfstudio/articles/760748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760748)
-- [iPhone 15 Pro и Pro Max — революция или эволюция?](https://habr.com/ru/companies/mvideo/articles/760750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760750)
-- [PWA vs Native: чек-лист, который поможет выбрать](https://habr.com/ru/companies/agima/articles/760698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
