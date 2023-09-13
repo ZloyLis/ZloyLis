@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Proger sapiens](https://habr.com/ru/companies/ruvds/articles/760586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760586)
+- [Kysely.js типизированный sql builder](https://habr.com/ru/articles/759206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759206)
+- [Банки в облаках, или Архитектура новой российской реальности](https://habr.com/ru/companies/redmadrobot/articles/760718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760718)
 - [Стать программистом: подборка нужных ссылок](https://habr.com/ru/companies/habr/articles/760630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760630)
 - [SQL HowTo: ближайший общий предок в дереве &lpar;LCA&rpar;](https://habr.com/ru/companies/tensor/articles/760554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760554)
-- [Измерение размеров объектов на фотографии](https://habr.com/ru/articles/760614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760614)
-- [Спецвыпуск Apple Pro Weekly News – Презентация Apple &lpar;12.09.23&rpar;](https://habr.com/ru/articles/760646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760646)
-- [Магия степеней двойки](https://habr.com/ru/articles/760374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
