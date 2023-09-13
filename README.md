@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Спецвыпуск Apple Pro Weekly News – Презентация Apple &lpar;12.09.23&rpar;](https://habr.com/ru/articles/760646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760646)
+- [Магия степеней двойки](https://habr.com/ru/articles/760374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760374)
 - [О чём нужно знать до того, как стать программистом](https://habr.com/ru/companies/regionsoft/articles/760624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760624)
 - [QA матрица компетенций и все такое](https://habr.com/ru/articles/760616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760616)
 - [Что показали на осенней презентации Apple. iPhone 15 и другие новинки](https://habr.com/ru/companies/first/articles/760600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760600)
-- [Опыт использования GitHub Copilot: разработчики из команды Сравни делятся впечатлениями](https://habr.com/ru/companies/sravni/articles/760558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760558)
-- [Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь](https://habr.com/ru/companies/nixys/articles/758068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
