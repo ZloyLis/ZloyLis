@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [In-app purchases — за что и почему? Взгляд аналитика](https://habr.com/ru/companies/surfstudio/articles/760748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760748)
+- [iPhone 15 Pro и Pro Max — революция или эволюция?](https://habr.com/ru/companies/mvideo/articles/760750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760750)
 - [PWA vs Native: чек-лист, который поможет выбрать](https://habr.com/ru/companies/agima/articles/760698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760698)
 - [Что нового в Chrome 117?](https://habr.com/ru/articles/760740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760740)
 - [«Oh no! code» или как создать голосового помощника без единой строчки кода с помощью VoiceBox](https://habr.com/ru/companies/mtt/articles/756012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756012)
-- [Как сократить мартышкин труд в повседневной работе аналитика SOC](https://habr.com/ru/companies/pt/articles/759418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759418)
-- [SDK AppMetrica — теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/760448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
