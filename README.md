@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Proger sapiens](https://habr.com/ru/companies/ruvds/articles/760586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760586)
-- [Kysely.js типизированный sql builder](https://habr.com/ru/articles/759206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759206)
-- [Банки в облаках, или Архитектура новой российской реальности](https://habr.com/ru/companies/redmadrobot/articles/760718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760718)
-- [Стать программистом: подборка нужных ссылок](https://habr.com/ru/companies/habr/articles/760630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760630)
-- [SQL HowTo: ближайший общий предок в дереве &lpar;LCA&rpar;](https://habr.com/ru/companies/tensor/articles/760554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760554)
+- [PWA vs Native: чек-лист, который поможет выбрать](https://habr.com/ru/companies/agima/articles/760698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760698)
+- [Что нового в Chrome 117?](https://habr.com/ru/articles/760740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760740)
+- [«Oh no! code» или как создать голосового помощника без единой строчки кода с помощью VoiceBox](https://habr.com/ru/companies/mtt/articles/756012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756012)
+- [Как сократить мартышкин труд в повседневной работе аналитика SOC](https://habr.com/ru/companies/pt/articles/759418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759418)
+- [SDK AppMetrica — теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/760448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
