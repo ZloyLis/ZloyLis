@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Планирование продаж и управление ценой в онлайн-режиме](https://habr.com/ru/articles/760878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760878)
 - [Микросмартфон за 100 рублей: Покупаем смартфон 11-летней давности и… пишем под него приложения](https://habr.com/ru/companies/itglobalcom/articles/759112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759112)
 - [Столица — не монополия успеха: работа и высокие зарплаты в регионах](https://habr.com/ru/companies/jetinfosystems/articles/760354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760354)
 - [Ванильный k8s от 1.26.0 до 1.28.1 с containerd на РедОС](https://habr.com/ru/articles/760806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760806)
 - [[Перевод] Пять подходов к созданию ad-hoc-датафреймов в PySpark](https://habr.com/ru/companies/vk/articles/760796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760796)
-- [Блокчейн или не блокчейн? Формализованные критерии выбора технологии хранения и обработки данных](https://habr.com/ru/companies/aktiv-company/articles/760730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
