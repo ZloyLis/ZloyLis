@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем проект STM32 C++ FreeRTOS в vscode для очень маленьких](https://habr.com/ru/articles/761024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761024)
 - [Делаем свою простейшую систему сборки для Java](https://habr.com/ru/articles/752014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752014)
 - [Утечки памяти в SSR: причины, поиск, устранение](https://habr.com/ru/companies/oleg-bunin/articles/760208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760208)
 - [Когда бизнесу нужна разработка мобильного приложения? Раскладываем по полочкам. Помогаем определиться с подходами](https://habr.com/ru/companies/pyrobyte/articles/760968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760968)
 - [Головоломка ассасина](https://habr.com/ru/companies/first/articles/760960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760960)
-- [Как сэкономить силы и время аналитиков: наш алгоритм выявления аномалии данных](https://habr.com/ru/companies/sbermarket/articles/760818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
