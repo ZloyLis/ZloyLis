@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Влияем на развитие продукта с помощью техподдержки: что вы узнаете на новом бесплатном курсе VK Education](https://habr.com/ru/companies/vk/articles/761000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761000)
-- [Как в Тинькофф появились деливери-менеджеры и чем они занимаются](https://habr.com/ru/companies/tinkoff/articles/760484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760484)
-- [Базовые принципы UX для frontend-разработчика](https://habr.com/ru/articles/755532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755532)
-- [Как мы решили вопрос нехватки кадров, обучив соискателей работе с Apache Spark](https://habr.com/ru/companies/T1Holding/articles/761034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761034)
-- [[Перевод] Любой достаточно продвинутый деинсталлятор неотличим от зловреда](https://habr.com/ru/articles/761050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761050)
+- [Сказ о том, как я собеседования проводила](https://habr.com/ru/companies/alfa/articles/760610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760610)
+- [Как рассказать о сайте поисковой системе](https://habr.com/ru/articles/761068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761068)
+- [Кто отвечает за развитие Python](https://habr.com/ru/companies/sberbank/articles/760158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760158)
+- [Как мы создали нейросеть, которая составила рейтинг компаний, занимающихся ИИ в России](https://habr.com/ru/companies/beeline_tech/articles/761064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761064)
+- [ForBlitz Statistics: Как я в 10 классе сделал приложение на 10K+ установок](https://habr.com/ru/companies/samsung/articles/760874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
