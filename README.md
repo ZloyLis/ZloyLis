@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Ozon Tech Community Go Meetup](https://habr.com/ru/companies/ozontech/articles/761074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761074)
 - [Сказ о том, как я собеседования проводила](https://habr.com/ru/companies/alfa/articles/760610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760610)
 - [Как рассказать о сайте поисковой системе](https://habr.com/ru/articles/761068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761068)
 - [Кто отвечает за развитие Python](https://habr.com/ru/companies/sberbank/articles/760158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760158)
 - [Как мы создали нейросеть, которая составила рейтинг компаний, занимающихся ИИ в России](https://habr.com/ru/companies/beeline_tech/articles/761064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761064)
-- [ForBlitz Statistics: Как я в 10 классе сделал приложение на 10K+ установок](https://habr.com/ru/companies/samsung/articles/760874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
