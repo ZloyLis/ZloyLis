@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Новая iOS 17 и статистика по старым версиям](https://habr.com/ru/articles/761174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761174)
+- [Скоро iOS 17, смотрим статистику по старым версиям](https://habr.com/ru/articles/761174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761174)
 - [Rematch — Redux без шаблонного кода](https://habr.com/ru/companies/usetech/articles/761168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761168)
 - [Есть ли смысл начинать писать мобильное приложение не на Kotlin Multiplatform и Compose Multiplatform?](https://habr.com/ru/articles/761132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761132)
 - [Циркуль и линейка. Часть 1](https://habr.com/ru/articles/755364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755364)
