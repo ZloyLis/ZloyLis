@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда не стоит экономить на аналитике](https://habr.com/ru/companies/simbirsoft/articles/760224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760224)
+- [Приложение от проекта до релиза: этапы реализации](https://habr.com/ru/articles/752782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752782)
 - [Скрытие POI за зданиями](https://habr.com/ru/companies/2gis/articles/760690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760690)
 - [Использование kafka-rest для построения интеграционных API](https://habr.com/ru/articles/760934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760934)
 - [Планирование продаж и управление ценой в онлайн-режиме](https://habr.com/ru/articles/760878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760878)
-- [Микросмартфон за 100 рублей: Покупаем смартфон 11-летней давности и… пишем под него приложения](https://habr.com/ru/companies/itglobalcom/articles/759112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759112)
-- [Столица — не монополия успеха: работа и высокие зарплаты в регионах](https://habr.com/ru/companies/jetinfosystems/articles/760354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
