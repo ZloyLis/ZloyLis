@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dream Booth — очень умное дообучения stable diffusion](https://habr.com/ru/articles/760920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760920)
+- [Как сэкономить силы и время аналитиков: наш алгоритм выявления аномалии данных](https://habr.com/ru/companies/sbermarket/articles/760818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760818)
+- [[Перевод] Puro — эффективный способ управления Flutter-версиями](https://habr.com/ru/articles/760966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760966)
+- [Dream Booth — очень умное дообучение stable diffusion](https://habr.com/ru/articles/760920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760920)
 - [Когда не стоит экономить на аналитике](https://habr.com/ru/companies/simbirsoft/articles/760224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760224)
 - [Создали систему WFM для розницы и оптимизировали процессы по управлению персоналом](https://habr.com/ru/companies/tele2/articles/760782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760782)
-- [Приложение от проекта до релиза: этапы реализации](https://habr.com/ru/articles/752782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752782)
-- [Скрытие POI за зданиями](https://habr.com/ru/companies/2gis/articles/760690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
