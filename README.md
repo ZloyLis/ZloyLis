@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем свою простейшую систему сборки для Java](https://habr.com/ru/articles/752014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752014)
+- [Утечки памяти в SSR: причины, поиск, устранение](https://habr.com/ru/companies/oleg-bunin/articles/760208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760208)
+- [Когда бизнесу нужна разработка мобильного приложения? Раскладываем по полочкам. Помогаем определиться с подходами](https://habr.com/ru/companies/pyrobyte/articles/760968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760968)
+- [Головоломка ассасина](https://habr.com/ru/companies/first/articles/760960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760960)
 - [Как сэкономить силы и время аналитиков: наш алгоритм выявления аномалии данных](https://habr.com/ru/companies/sbermarket/articles/760818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760818)
-- [[Перевод] Puro — эффективный способ управления Flutter-версиями](https://habr.com/ru/articles/760966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760966)
-- [Dream Booth — очень умное дообучение stable diffusion](https://habr.com/ru/articles/760920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760920)
-- [Когда не стоит экономить на аналитике](https://habr.com/ru/companies/simbirsoft/articles/760224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760224)
-- [Создали систему WFM для розницы и оптимизировали процессы по управлению персоналом](https://habr.com/ru/companies/tele2/articles/760782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
