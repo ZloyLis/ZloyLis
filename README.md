@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли смысл начинать писать мобильное приложение не на Kotlin Multiplatform и Compose Multiplatform?](https://habr.com/ru/articles/761132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761132)
 - [Циркуль и линейка. Часть 1](https://habr.com/ru/articles/755364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755364)
 - [PKI, прикладная криптография и электронная подпись: о чем здесь речь и как это работает в нашей блокчейн-платформе](https://habr.com/ru/companies/web3_tech/articles/761112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761112)
 - [Книга «Golang для профи: Создаем профессиональные утилиты, параллельные серверы и сервисы, 3-е изд.»](https://habr.com/ru/companies/piter/articles/761096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761096)
 - [Искусство ETL. Пишем собственный движок SQL на Spark [часть 3 из 5]](https://habr.com/ru/articles/761094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761094)
-- [Приглашаем на Ozon Tech Community Go Meetup](https://habr.com/ru/companies/ozontech/articles/761074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
