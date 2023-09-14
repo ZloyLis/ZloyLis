@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создаем проект STM32 C++ FreeRTOS в vscode для очень маленьких](https://habr.com/ru/articles/761024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761024)
-- [Делаем свою простейшую систему сборки для Java](https://habr.com/ru/articles/752014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752014)
-- [Утечки памяти в SSR: причины, поиск, устранение](https://habr.com/ru/companies/oleg-bunin/articles/760208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760208)
-- [Когда бизнесу нужна разработка мобильного приложения? Раскладываем по полочкам. Помогаем определиться с подходами](https://habr.com/ru/companies/pyrobyte/articles/760968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760968)
-- [Головоломка ассасина](https://habr.com/ru/companies/first/articles/760960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760960)
+- [Влияем на развитие продукта с помощью техподдержки: что вы узнаете на новом бесплатном курсе VK Education](https://habr.com/ru/companies/vk/articles/761000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761000)
+- [Как в Тинькофф появились деливери-менеджеры и чем они занимаются](https://habr.com/ru/companies/tinkoff/articles/760484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760484)
+- [Базовые принципы UX для frontend-разработчика](https://habr.com/ru/articles/755532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755532)
+- [Как мы решили вопрос нехватки кадров, обучив соискателей работе с Apache Spark](https://habr.com/ru/companies/T1Holding/articles/761034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761034)
+- [[Перевод] Любой достаточно продвинутый деинсталлятор неотличим от зловреда](https://habr.com/ru/articles/761050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
