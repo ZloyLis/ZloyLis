@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dream Booth — очень умное дообучения stable diffusion](https://habr.com/ru/articles/760920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760920)
 - [Когда не стоит экономить на аналитике](https://habr.com/ru/companies/simbirsoft/articles/760224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760224)
+- [Создали систему WFM для розницы и оптимизировали процессы по управлению персоналом](https://habr.com/ru/companies/tele2/articles/760782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760782)
 - [Приложение от проекта до релиза: этапы реализации](https://habr.com/ru/articles/752782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752782)
 - [Скрытие POI за зданиями](https://habr.com/ru/companies/2gis/articles/760690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760690)
-- [Использование kafka-rest для построения интеграционных API](https://habr.com/ru/articles/760934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760934)
-- [Планирование продаж и управление ценой в онлайн-режиме](https://habr.com/ru/articles/760878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
