@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Натальная травматология фронтенда S1 E1-14](https://habr.com/ru/articles/761316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761316)
+- [Четыре важных навыка, которые не потеряют актуальность в течение ближайших 5-15 лет](https://habr.com/ru/companies/rshb/articles/761348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761348)
+- [Искусство ETL. Пишем собственный движок SQL на Spark [часть 4 из 5]](https://habr.com/ru/articles/761328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761328)
 - [Как внедрить Prototype в Singleton в Spring с помощью параметра ProxyMode](https://habr.com/ru/articles/761330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761330)
 - [[Перевод] Линейный код более читаем](https://habr.com/ru/articles/761326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761326)
-- [Что не так с дизайнерами интерфейсов. Есть ли разница между UX/UI и продуктовым дизайнером?](https://habr.com/ru/articles/761320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761320)
-- [Приглашаем на Ozon Tech Community QA Meetup](https://habr.com/ru/companies/ozontech/articles/761056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761056)
-- [О непознанной геометрической алгебре просто. Часть1. Взаимосвязь с тождеством Лагранжа](https://habr.com/ru/articles/761300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
