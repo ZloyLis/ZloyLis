@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хочите виртуальный macOS? Их есть у меня](https://habr.com/ru/articles/761408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761408)
 - [Ката-тренировки программиста — на пути к недостижимому идеалу. Или как я упал с велосипеда этим летом](https://habr.com/ru/articles/761396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761396)
 - [Натальная травматология фронтенда S1 E1-14](https://habr.com/ru/articles/761316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761316)
 - [Четыре важных навыка, которые не потеряют актуальность в течение ближайших 5-15 лет](https://habr.com/ru/companies/rshb/articles/761348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761348)
 - [Искусство ETL. Пишем собственный движок SQL на Spark [часть 4 из 5]](https://habr.com/ru/articles/761328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761328)
-- [Как внедрить Prototype в Singleton в Spring с помощью параметра ProxyMode](https://habr.com/ru/articles/761330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
