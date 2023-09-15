@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как внедрить Prototype в Singleton в Spring с помощью параметра ProxyMode](https://habr.com/ru/articles/761330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761330)
+- [[Перевод] Линейный код более читаем](https://habr.com/ru/articles/761326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761326)
 - [Что не так с дизайнерами интерфейсов. Есть ли разница между UX/UI и продуктовым дизайнером?](https://habr.com/ru/articles/761320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761320)
 - [Приглашаем на Ozon Tech Community QA Meetup](https://habr.com/ru/companies/ozontech/articles/761056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761056)
 - [О непознанной геометрической алгебре просто. Часть1. Взаимосвязь с тождеством Лагранжа](https://habr.com/ru/articles/761300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761300)
-- [[Перевод] Почему малые языки — это будущее программирования](https://habr.com/ru/companies/ncloudtech/articles/761098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761098)
-- [Авторизация пользователей за копейки: как бизнесу отказаться от дорогих SMS](https://habr.com/ru/companies/newtel/articles/761276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
