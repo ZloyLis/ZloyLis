@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка систем генеративного ИИ на базе ML Platform: создаем конкурента ChatGPT без миллионных инвестиций](https://habr.com/ru/companies/vk/articles/761092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761092)
 - [Митапы PiterJS вернулись](https://habr.com/ru/articles/761220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761220)
 - [Создаём субтитры для любого видео в интернете с помощью нейросети в браузере](https://habr.com/ru/companies/yandex/articles/758782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758782)
 - [[SDK и UI-библиотеки] Backend-Driven UI](https://habr.com/ru/articles/761202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761202)
 - [Flutter на ОС Аврора](https://habr.com/ru/articles/761176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761176)
-- [Проектирование БД и почему важен SQL для системного аналитика: гайд по улучшению качества требований](https://habr.com/ru/articles/760928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
