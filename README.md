@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём субтитры для любого видео в интернете с помощью нейросети в браузере](https://habr.com/ru/companies/yandex/articles/758782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758782)
 - [[SDK и UI-библиотеки] Backend-Driven UI](https://habr.com/ru/articles/761202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761202)
 - [Flutter на ОС Аврора](https://habr.com/ru/articles/761176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761176)
 - [Проектирование БД и почему важен SQL для системного аналитика: гайд по улучшению качества требований](https://habr.com/ru/articles/760928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760928)
 - [Скоро iOS 17, смотрим статистику по старым версиям](https://habr.com/ru/articles/761174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761174)
-- [Rematch — Redux без шаблонного кода](https://habr.com/ru/companies/usetech/articles/761168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
