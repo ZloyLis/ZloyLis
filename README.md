@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[SDK и UI-библиотеки] Backend-Driven UI](https://habr.com/ru/articles/761202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761202)
+- [Flutter на ОС Аврора](https://habr.com/ru/articles/761176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761176)
+- [Проектирование БД и почему важен SQL для системного аналитика: гайд по улучшению качества требований](https://habr.com/ru/articles/760928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760928)
 - [Скоро iOS 17, смотрим статистику по старым версиям](https://habr.com/ru/articles/761174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761174)
 - [Rematch — Redux без шаблонного кода](https://habr.com/ru/companies/usetech/articles/761168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761168)
-- [Есть ли смысл начинать писать мобильное приложение не на Kotlin Multiplatform и Compose Multiplatform?](https://habr.com/ru/articles/761132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761132)
-- [Циркуль и линейка. Часть 1](https://habr.com/ru/articles/755364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=755364)
-- [PKI, прикладная криптография и электронная подпись: о чем здесь речь и как это работает в нашей блокчейн-платформе](https://habr.com/ru/companies/web3_tech/articles/761112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
