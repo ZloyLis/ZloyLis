@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Ozon Tech Community QA Meetup](https://habr.com/ru/companies/ozontech/articles/761056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761056)
+- [О непознанной геометрической алгебре просто. Часть1. Взаимосвязь с тождеством Лагранжа](https://habr.com/ru/articles/761300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761300)
+- [[Перевод] Почему малые языки — это будущее программирования](https://habr.com/ru/companies/ncloudtech/articles/761098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761098)
 - [Авторизация пользователей за копейки: как бизнесу отказаться от дорогих SMS](https://habr.com/ru/companies/newtel/articles/761276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761276)
 - [Kubernetes Scheduler в Деталях: Важные Аспекты. Часть 1](https://habr.com/ru/companies/otus/articles/761186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761186)
-- [От ненависти до любви: есть ли развитие в 1С для разработчика и какие там вообще тренды?](https://habr.com/ru/companies/outlines_tech/articles/761272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761272)
-- [Пайтишники. Python  — первый праязык программирования](https://habr.com/ru/articles/761262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761262)
-- [Разработка систем генеративного ИИ на базе ML Platform: создаем конкурента ChatGPT без миллионных инвестиций](https://habr.com/ru/companies/vk/articles/761092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
