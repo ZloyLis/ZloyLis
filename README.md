@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Авторизация пользователей за копейки: как бизнесу отказаться от дорогих SMS](https://habr.com/ru/companies/newtel/articles/761276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761276)
+- [Kubernetes Scheduler в Деталях: Важные Аспекты. Часть 1](https://habr.com/ru/companies/otus/articles/761186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761186)
+- [От ненависти до любви: есть ли развитие в 1С для разработчика и какие там вообще тренды?](https://habr.com/ru/companies/outlines_tech/articles/761272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761272)
+- [Пайтишники. Python  — первый праязык программирования](https://habr.com/ru/articles/761262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761262)
 - [Разработка систем генеративного ИИ на базе ML Platform: создаем конкурента ChatGPT без миллионных инвестиций](https://habr.com/ru/companies/vk/articles/761092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761092)
-- [Митапы PiterJS вернулись](https://habr.com/ru/articles/761220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761220)
-- [Создаём субтитры для любого видео в интернете с помощью нейросети в браузере](https://habr.com/ru/companies/yandex/articles/758782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758782)
-- [[SDK и UI-библиотеки] Backend-Driven UI](https://habr.com/ru/articles/761202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761202)
-- [Flutter на ОС Аврора](https://habr.com/ru/articles/761176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
