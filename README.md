@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Observability в Spring Boot 3](https://habr.com/ru/companies/otus/articles/761334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761334)
+- [Как оцифровать и автоматизировать разработку, чтобы увеличить пропускную способность и ресурсоемкость производства](https://habr.com/ru/articles/761470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761470)
+- [[Перевод] Как Instagram увеличился до 14 миллионов пользователей всего с тремя инженерами](https://habr.com/ru/articles/761464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761464)
+- [[Перевод] Почему мой любимый API — это файл zip на сайте Европейского центрального банка](https://habr.com/ru/articles/761466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761466)
 - [Предельный анализ распределения простых чисел, и допуск к решению задачи равенство классов p и Np](https://habr.com/ru/articles/761460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761460)
-- [Ожидания в вакансии QA Engineer: Знакомство с JSON, REST и Типами запросов](https://habr.com/ru/articles/761452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761452)
-- [[Перевод] Простые инструменты для пайплайнов: sqlite, pandas, gnuplot и другие](https://habr.com/ru/articles/761442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761442)
-- [Установка Swift на Windows. Изолента, клей, cmd](https://habr.com/ru/articles/761432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761432)
-- [Модельно-Ориентированная Java, или Навстречу Дизайну ПО](https://habr.com/ru/articles/761414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
