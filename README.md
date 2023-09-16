@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение Rich Model в Angular разработке](https://habr.com/ru/articles/761418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761418)
 - [Модельно-Ориентированная Java, или Навстречу Дизайну ПО](https://habr.com/ru/articles/761414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761414)
 - [Хочите виртуальный macOS на своём PC? Их есть у меня](https://habr.com/ru/articles/761408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761408)
 - [Ката-тренировки программиста — на пути к недостижимому идеалу. Или как я упал с велосипеда этим летом](https://habr.com/ru/articles/761396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761396)
 - [Натальная травматология фронтенда S1 E1-14](https://habr.com/ru/articles/761316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761316)
-- [Четыре важных навыка, которые не потеряют актуальность в течение ближайших 5-15 лет](https://habr.com/ru/companies/rshb/articles/761348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
