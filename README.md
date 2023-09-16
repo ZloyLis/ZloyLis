@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Предельный анализ распределения простых чисел, и допуск к решению задачи равенство классов p и Np](https://habr.com/ru/articles/761460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761460)
 - [Ожидания в вакансии QA Engineer: Знакомство с JSON, REST и Типами запросов](https://habr.com/ru/articles/761452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761452)
 - [[Перевод] Простые инструменты для пайплайнов: sqlite, pandas, gnuplot и другие](https://habr.com/ru/articles/761442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761442)
 - [Установка Swift на Windows. Изолента, клей, cmd](https://habr.com/ru/articles/761432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761432)
 - [Модельно-Ориентированная Java, или Навстречу Дизайну ПО](https://habr.com/ru/articles/761414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761414)
-- [Хочите виртуальный macOS на своём PC? Их есть у меня](https://habr.com/ru/articles/761408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
