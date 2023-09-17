@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Римские числа или как не запоминать дифтонги](https://habr.com/ru/articles/761596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761596)
 - [Стандарт JDF простыми словами](https://habr.com/ru/articles/761582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761582)
 - [Как сделать свой UI Kit на Vue 3 + storybook и задеплоить его на npm](https://habr.com/ru/articles/761570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761570)
 - [[Перевод] JavaScript триггеры и функции появились в Redis 7.2](https://habr.com/ru/articles/761514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761514)
 - [Парадокс Гранди. Как современные школьники повторяют ошибку Лейбница и Эйлера](https://habr.com/ru/articles/761560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761560)
-- [Как использовать нейросети веб-студиям и вымрут ли дизайнеры. Бесплатная нейросеть онлайн и как пользоваться Midjourney](https://habr.com/ru/articles/761528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
