@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление техническим долгом](https://habr.com/ru/articles/761508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761508)
 - [Как создать сайт на фреймворке Cample.js?](https://habr.com/ru/articles/761400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761400)
 - [Protobuf vs Reflection](https://habr.com/ru/articles/761474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761474)
 - [Зачем нам Kyverno?](https://habr.com/ru/articles/761476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761476)
 - [[Перевод] Observability в Spring Boot 3](https://habr.com/ru/companies/otus/articles/761334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761334)
-- [Как оцифровать и автоматизировать разработку, чтобы увеличить пропускную способность и ресурсоемкость производства](https://habr.com/ru/articles/761470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
