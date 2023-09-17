@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] JavaScript триггеры и функции в Redis 7.2](https://habr.com/ru/articles/761514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761514)
+- [Парадокс Гранди. Как современные школьники повторяют ошибку Лейбница и Эйлера](https://habr.com/ru/articles/761560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761560)
 - [Как использовать нейросети веб-студиям и вымрут ли дизайнеры. Бесплатная нейросеть онлайн и как пользоваться Midjourney](https://habr.com/ru/articles/761528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761528)
 - [Управление техническим долгом](https://habr.com/ru/articles/761508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761508)
 - [Как создать сайт на фреймворке Cample.js?](https://habr.com/ru/articles/761400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761400)
-- [Protobuf vs Reflection](https://habr.com/ru/articles/761474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761474)
-- [Зачем нам Kyverno?](https://habr.com/ru/articles/761476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
