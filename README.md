@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Реализация Server-Side Rendering &lpar;SSR&rpar; при помощи Bun и React](https://habr.com/ru/articles/761756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761756)
+- [Книги для Golang-разработчиков: подборка для программистов с опытом](https://habr.com/ru/companies/ru_mts/articles/761752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761752)
+- [[Перевод] Собственный строковый тип на Rust](https://habr.com/ru/companies/ruvds/articles/761746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761746)
+- [Security Week 2338: приватность данных в автомобиле](https://habr.com/ru/companies/kaspersky/articles/761730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761730)
 - [[Перевод] А мы – настоящие инженеры?](https://habr.com/ru/companies/ispsystem/articles/761726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761726)
-- [Reinforcement learning для оптимизации цен в ритейле](https://habr.com/ru/articles/761724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761724)
-- [@ViewBuilder Что? Зачем? Когда?](https://habr.com/ru/articles/761722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761722)
-- [Доступность сервиса: виды ограничений](https://habr.com/ru/companies/rtlabs/articles/761716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761716)
-- [Расширенная настройка бэкэнд-проекта Python &lpar; пример FastAPI &rpar;](https://habr.com/ru/articles/761712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
