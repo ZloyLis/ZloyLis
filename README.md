@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Близится старт продаж iPhone 15. Почему блокировка банковских приложений не должна вас останавливать?](https://habr.com/ru/companies/smartengines/articles/760820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760820)
 - [«Подарил удочки и попрощался с друзьями на год»: как я стал Android-разработчиком, отказавшись даже от прогулок](https://habr.com/ru/companies/yandex_praktikum/articles/761376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761376)
 - [Вышел релиз Playwright 1.38](https://habr.com/ru/articles/761670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761670)
 - [[Перевод] Подключение Twig шаблонов в WordPress: Как избежать конфликтов](https://habr.com/ru/articles/761506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761506)
 - [Hello-World туториал на React/Django/RabbitMQ/Websockets](https://habr.com/ru/articles/761526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761526)
-- [Как правильно оформить пет-проект](https://habr.com/ru/articles/761650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
