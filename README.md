@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Построение распределенной системы очередей сообщений с RabbitMQ и Python](https://habr.com/ru/companies/otus/articles/761444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761444)
+- [C++ Дайджест №3 &lpar;4 сентября – 17 сентября 2023&rpar;](https://habr.com/ru/articles/761786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761786)
+- [[Перевод] Почему для проекта стоит прибегать к готовым UI-компонентам](https://habr.com/ru/companies/otus/articles/761776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761776)
 - [Vue-faq.org — FAQ о фронтенде в целом и Vue в частности](https://habr.com/ru/articles/760636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760636)
 - [Искусство ETL. Пишем собственный движок SQL на Spark [часть 5 из 5]](https://habr.com/ru/articles/761760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761760)
-- [SymPy и симуляция физических процессов](https://habr.com/ru/companies/otus/articles/761344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761344)
-- [[Перевод] Реализация Server-Side Rendering &lpar;SSR&rpar; при помощи Bun и React](https://habr.com/ru/articles/761756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761756)
-- [Книги для Golang-разработчиков: подборка для программистов с опытом](https://habr.com/ru/companies/ru_mts/articles/761752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
