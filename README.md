@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #506 &lpar;11 — 17 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/761632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761632)
 - [Создаем мини-игру с капельным эффектом и движущимися кружками. Часть 1](https://habr.com/ru/articles/761608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761608)
 - [Римские числа или как не запоминать дифтонги](https://habr.com/ru/articles/761596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761596)
 - [Стандарт JDF простыми словами](https://habr.com/ru/articles/761582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761582)
 - [Как сделать свой UI Kit на Vue 3 + storybook и задеплоить его на npm](https://habr.com/ru/articles/761570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761570)
-- [[Перевод] JavaScript триггеры и функции появились в Redis 7.2](https://habr.com/ru/articles/761514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
