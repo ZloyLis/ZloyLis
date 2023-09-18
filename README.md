@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] А мы – настоящие инженеры?](https://habr.com/ru/companies/ispsystem/articles/761726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761726)
+- [Reinforcement learning для оптимизации цен в ритейле](https://habr.com/ru/articles/761724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761724)
+- [@ViewBuilder Что? Зачем? Когда?](https://habr.com/ru/articles/761722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761722)
 - [Доступность сервиса: виды ограничений](https://habr.com/ru/companies/rtlabs/articles/761716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761716)
 - [Расширенная настройка бэкэнд-проекта Python &lpar; пример FastAPI &rpar;](https://habr.com/ru/articles/761712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761712)
-- [[Перевод] Advanced Custom Fields: Полное руководство](https://habr.com/ru/articles/761520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761520)
-- [Как мы выдержали x4 рост нагрузки на сервис Авито Автозагрузка](https://habr.com/ru/companies/avito/articles/761134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761134)
-- [Курс молодого стажёра: как прошла стажировка в VK в бизнес-юните СМБ](https://habr.com/ru/companies/vk/articles/756972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=756972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
