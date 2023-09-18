@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Подарил удочки и попрощался с друзьями на год»: как я стал Android-разработчиком, отказавшись даже от прогулок](https://habr.com/ru/companies/yandex_praktikum/articles/761376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761376)
+- [Вышел релиз Playwright 1.38](https://habr.com/ru/articles/761670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761670)
 - [[Перевод] Подключение Twig шаблонов в WordPress: Как избежать конфликтов](https://habr.com/ru/articles/761506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761506)
 - [Hello-World туториал на React/Django/RabbitMQ/Websockets](https://habr.com/ru/articles/761526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761526)
 - [Как правильно оформить пет-проект](https://habr.com/ru/articles/761650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761650)
-- [Мобильная разработка за неделю #506 &lpar;11 — 17 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/761632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761632)
-- [Создаем мини-игру с капельным эффектом и движущимися кружками. Часть 1](https://habr.com/ru/articles/761608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
