@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue-faq.org — FAQ о фронтенде в целом и Vue в частности](https://habr.com/ru/articles/760636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760636)
+- [Искусство ETL. Пишем собственный движок SQL на Spark [часть 5 из 5]](https://habr.com/ru/articles/761760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761760)
+- [SymPy и симуляция физических процессов](https://habr.com/ru/companies/otus/articles/761344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761344)
 - [[Перевод] Реализация Server-Side Rendering &lpar;SSR&rpar; при помощи Bun и React](https://habr.com/ru/articles/761756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761756)
 - [Книги для Golang-разработчиков: подборка для программистов с опытом](https://habr.com/ru/companies/ru_mts/articles/761752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761752)
-- [[Перевод] Собственный строковый тип на Rust](https://habr.com/ru/companies/ruvds/articles/761746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761746)
-- [Security Week 2338: приватность данных в автомобиле](https://habr.com/ru/companies/kaspersky/articles/761730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761730)
-- [[Перевод] А мы – настоящие инженеры?](https://habr.com/ru/companies/ispsystem/articles/761726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
