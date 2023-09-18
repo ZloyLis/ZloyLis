@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Премия Жуазеля по оригами в 2023 году](https://habr.com/ru/articles/761802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761802)
 - [Построение распределенной системы очередей сообщений с RabbitMQ и Python](https://habr.com/ru/companies/otus/articles/761444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761444)
 - [C++ Дайджест №3 &lpar;4 сентября – 17 сентября 2023&rpar;](https://habr.com/ru/articles/761786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761786)
 - [[Перевод] Почему для проекта стоит прибегать к готовым UI-компонентам](https://habr.com/ru/companies/otus/articles/761776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761776)
 - [Vue-faq.org — FAQ о фронтенде в целом и Vue в частности](https://habr.com/ru/articles/760636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760636)
-- [Искусство ETL. Пишем собственный движок SQL на Spark [часть 5 из 5]](https://habr.com/ru/articles/761760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
