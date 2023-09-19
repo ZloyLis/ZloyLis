@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript. WebRTC. Соединение браузеров напрямую без сервера, peer-to-peer](https://habr.com/ru/articles/762118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762118)
 - [Особенности SRE и Observability в мобильных приложениях](https://habr.com/ru/companies/tinkoff/articles/762058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762058)
 - [Существование треугольника Шарыгина — это настоящее математическое чудо](https://habr.com/ru/companies/itglobalcom/articles/760104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760104)
 - [Вышла Java 21](https://habr.com/ru/articles/762084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762084)
 - [Дайджест мобильной разработки за август](https://habr.com/ru/companies/vk/articles/761778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761778)
-- [Учебное проектирование для джунов: как учить и зачем](https://habr.com/ru/companies/kts/articles/761298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
