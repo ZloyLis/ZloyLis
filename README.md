@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности SRE и Observability в мобильных приложениях](https://habr.com/ru/companies/tinkoff/articles/762058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762058)
+- [Существование треугольника Шарыгина — это настоящее математическое чудо](https://habr.com/ru/companies/itglobalcom/articles/760104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760104)
 - [Вышла Java 21](https://habr.com/ru/articles/762084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762084)
 - [Дайджест мобильной разработки за август](https://habr.com/ru/companies/vk/articles/761778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761778)
 - [Учебное проектирование для джунов: как учить и зачем](https://habr.com/ru/companies/kts/articles/761298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761298)
-- [Начался прием заявок на IT-олимпиаду МТС, главный приз — 3 млн рублей](https://habr.com/ru/companies/ru_mts/articles/762054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762054)
-- [Путь из джуна в синьоры: как дойти до конца](https://habr.com/ru/companies/yandex_praktikum/articles/761926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
