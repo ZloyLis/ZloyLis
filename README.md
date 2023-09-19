@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Pro Weekly News &lpar;11.09 – 17.09.23&rpar;](https://habr.com/ru/articles/761822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761822)
-- [Софт скиллы. Навык первый – Коммуникабельность](https://habr.com/ru/articles/761810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761810)
-- [Премия Жуазеля по оригами в 2023 году](https://habr.com/ru/articles/761802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761802)
-- [Построение распределенной системы очередей сообщений с RabbitMQ и Python](https://habr.com/ru/companies/otus/articles/761444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761444)
-- [C++ Дайджест №3 &lpar;4 сентября – 17 сентября 2023&rpar;](https://habr.com/ru/articles/761786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761786)
+- [Графикователь производства: оптимизация загрузки агрегатов](https://habr.com/ru/companies/nlmk/articles/757384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757384)
+- [Перф-тесты VS аномалии. Вечная битва за производительность приложений на iOS](https://habr.com/ru/companies/yandex/articles/761388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761388)
+- [[Перевод] UI Testing in Swift with XCTest framework](https://habr.com/ru/articles/761888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761888)
+- [Двухракурсная томография. Теперь — у вас в голове](https://habr.com/ru/companies/smartengines/articles/761266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761266)
+- [Прогрессивый рендер изображений с использованием blurhash](https://habr.com/ru/articles/761882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
