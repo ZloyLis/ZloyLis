@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современный UI на Jetpack Compose](https://habr.com/ru/companies/ru_mts/articles/761580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761580)
+- [Кадровый электронный документооборот &lpar;КЭДО&rpar; в Росбанке: как мы сделали свой продукт в соответствии с законодательством](https://habr.com/ru/companies/rosbank/articles/761954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761954)
+- [Тестирование ПО — это больше, чем «просто нажать пару кнопок»](https://habr.com/ru/articles/761942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761942)
 - [Очередной ответ на вопрос: «Зачем нужна семантика?»](https://habr.com/ru/companies/ruvds/articles/758006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=758006)
 - [Меряем баги весами и рулеткой](https://habr.com/ru/companies/2gis/articles/761714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761714)
-- [Как мы версию Sanic’а повышали](https://habr.com/ru/companies/domclick/articles/761838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761838)
-- [Добавляем номер в чёрный список с помощью API](https://habr.com/ru/companies/ru_mts/articles/761906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761906)
-- [Графикователь производства: оптимизация загрузки агрегатов](https://habr.com/ru/companies/nlmk/articles/757384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
