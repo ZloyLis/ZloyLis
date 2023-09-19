@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Начался прием заявок на IT-олимпиаду МТС, главный приз — 3 млн рублей](https://habr.com/ru/companies/ru_mts/articles/762054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762054)
+- [Путь из джуна в синьоры: как дойти до конца](https://habr.com/ru/companies/yandex_praktikum/articles/761926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761926)
+- [Дополнительные контейнеры в Kubernetes и где они обитают: от паттернов к автоматизации управления](https://habr.com/ru/companies/oleg-bunin/articles/761662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761662)
+- [Платформа для анализа данных за вечер](https://habr.com/ru/companies/selectel/articles/761948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761948)
 - [Веб-компоненты в 2023: нужно поговорить](https://habr.com/ru/articles/761586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761586)
-- [«Я есть… продукт!» или как найти инвестора на 200 миллионов рублей](https://habr.com/ru/articles/761500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761500)
-- [ML в полях. Как упростить жизнь агрономов?](https://habr.com/ru/companies/jetinfosystems/articles/761984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761984)
-- [В поисках Числа Бога](https://habr.com/ru/articles/761988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761988)
-- [Естественный отбор в разработке: как вендоры и заказчики ПО выбирают между no-, low- и high-code](https://habr.com/ru/companies/naumen/articles/761878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
