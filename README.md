@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы версию Sanic’а повышали](https://habr.com/ru/companies/domclick/articles/761838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761838)
+- [Добавляем номер в чёрный список с помощью API](https://habr.com/ru/companies/ru_mts/articles/761906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761906)
 - [Графикователь производства: оптимизация загрузки агрегатов](https://habr.com/ru/companies/nlmk/articles/757384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757384)
 - [Перф-тесты VS аномалии. Вечная битва за производительность приложений на iOS](https://habr.com/ru/companies/yandex/articles/761388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761388)
 - [[Перевод] UI Testing in Swift with XCTest framework](https://habr.com/ru/articles/761888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761888)
-- [Двухракурсная томография. Теперь — у вас в голове](https://habr.com/ru/companies/smartengines/articles/761266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761266)
-- [Прогрессивый рендер изображений с использованием blurhash](https://habr.com/ru/articles/761882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
