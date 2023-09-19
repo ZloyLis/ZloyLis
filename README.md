@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Java 21](https://habr.com/ru/articles/762084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762084)
+- [Дайджест мобильной разработки за август](https://habr.com/ru/companies/vk/articles/761778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761778)
 - [Учебное проектирование для джунов: как учить и зачем](https://habr.com/ru/companies/kts/articles/761298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761298)
-- [Как площадь прямоугольного треугольника связана с одной из сложнейших задач тысячелетия? Конгруэнтные числа](https://habr.com/ru/companies/itglobalcom/articles/761392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761392)
 - [Начался прием заявок на IT-олимпиаду МТС, главный приз — 3 млн рублей](https://habr.com/ru/companies/ru_mts/articles/762054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762054)
 - [Путь из джуна в синьоры: как дойти до конца](https://habr.com/ru/companies/yandex_praktikum/articles/761926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761926)
-- [Дополнительные контейнеры в Kubernetes и где они обитают: от паттернов к автоматизации управления](https://habr.com/ru/companies/oleg-bunin/articles/761662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
