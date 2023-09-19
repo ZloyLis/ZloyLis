@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Руководство по Использованию Многопоточности в Swift](https://habr.com/ru/articles/761980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761980)
-- [ASO.dev — как я снова продукт для Apple делал](https://habr.com/ru/companies/asodev/articles/761938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761938)
-- [Подружим Sentry и Mattermost быстро и просто через адаптер](https://habr.com/ru/articles/761962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761962)
-- [Кадровый электронный документооборот &lpar;КЭДО&rpar; в Росбанке: как мы сделали свой продукт в соответствии с законодательством](https://habr.com/ru/companies/rosbank/articles/761954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761954)
-- [Тестирование ПО — это больше, чем «просто нажать пару кнопок»](https://habr.com/ru/articles/761942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761942)
+- [Веб-компоненты в 2023: нужно поговорить](https://habr.com/ru/articles/761586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761586)
+- [«Я есть… продукт!» или как найти инвестора на 200 миллионов рублей](https://habr.com/ru/articles/761500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761500)
+- [ML в полях. Как упростить жизнь агрономов?](https://habr.com/ru/companies/jetinfosystems/articles/761984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761984)
+- [В поисках Числа Бога](https://habr.com/ru/articles/761988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761988)
+- [Естественный отбор в разработке: как вендоры и заказчики ПО выбирают между no-, low- и high-code](https://habr.com/ru/companies/naumen/articles/761878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
