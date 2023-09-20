@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перейти с монолита на микросервисы и ничего не сломать: кейс компании ВТБ](https://habr.com/ru/companies/vk/articles/762060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762060)
+- [[Перевод] S.T.A.R.K. — первый фреймворк для создания голосового ассистента](https://habr.com/ru/articles/762252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762252)
 - [Форматы ORC и Parquet на базе HDFS](https://habr.com/ru/companies/oleg-bunin/articles/761780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761780)
 - [В Go меняется фундаментальная вещь — цикл](https://habr.com/ru/articles/762188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762188)
 - [[Перевод] Создание конвертера JSON в Typescript с помощью React, NodeJS и ChatGPT](https://habr.com/ru/companies/first/articles/761228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761228)
-- [Удивительные клеточные автоматы: дефицитные правила](https://habr.com/ru/companies/timeweb/articles/733854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733854)
-- [Оценка эффекта персонализации баннеров в Альфа-Банке с применением библиотеки Kolmogorov ABacus](https://habr.com/ru/companies/glowbyte/articles/762164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
