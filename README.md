@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Говорить по делу и не переходить на личности: как правильно давать обратную связь](https://habr.com/ru/companies/redmadrobot/articles/762302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762302)
-- [[Перевод] «Хороший коммит» и «ваш коммит»: как написать идеальный комментарий в Git](https://habr.com/ru/companies/beeline_cloud/articles/762280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762280)
-- [Сервис есть – владельца нет: как справиться с сервисами-сиротами в микросервисной архитектуре](https://habr.com/ru/companies/banki/articles/762256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762256)
-- [Форм-факторы смарт-карт. Сводная информация](https://habr.com/ru/articles/762268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762268)
-- [Как перейти с монолита на микросервисы и ничего не сломать: кейс компании ВТБ](https://habr.com/ru/companies/vk/articles/762060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762060)
+- [Как увеличить мощность A/B-теста, если мало данных и время поджимает](https://habr.com/ru/companies/dododev/articles/759580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759580)
+- [Знак перестановки: транспозиции vs инверсии](https://habr.com/ru/articles/762338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762338)
+- [Как учиться эффективнее и быстрее: база и полезные материалы](https://habr.com/ru/articles/762336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762336)
+- [Еще больше материалов по Data Science и машинному обучению: от логики и риторики до теории множеств и матанализа](https://habr.com/ru/companies/selectel/articles/762098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762098)
+- [[Перевод] Прежде чем что-то делать, убедитесь, что способны не сделать ничего](https://habr.com/ru/companies/productivity_inside/articles/762324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
