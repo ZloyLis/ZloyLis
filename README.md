@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще меньше алгоритмов: как мы убрали одно алгоритмическое интервью в Дзене и к чему это привело](https://habr.com/ru/companies/vk/articles/762290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762290)
 - [Как увеличить мощность A/B-теста, если мало данных и время поджимает](https://habr.com/ru/companies/dododev/articles/759580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759580)
 - [Знак перестановки: транспозиции vs инверсии](https://habr.com/ru/articles/762338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762338)
-- [Как учиться эффективнее и быстрее: база и полезные материалы](https://habr.com/ru/articles/762336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762336)
+- [Ноутбуки, планшеты и другие гаджеты на Linux: что предлагает рынок в 2023 году](https://habr.com/ru/companies/ru_mts/articles/762332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762332)
 - [Еще больше материалов по Data Science и машинному обучению: от логики и риторики до теории множеств и матанализа](https://habr.com/ru/companies/selectel/articles/762098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762098)
-- [[Перевод] Прежде чем что-то делать, убедитесь, что способны не сделать ничего](https://habr.com/ru/companies/productivity_inside/articles/762324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
