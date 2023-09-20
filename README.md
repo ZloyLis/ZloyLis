@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание конвертера JSON в Typescript с помощью React, NodeJS и ChatGPT](https://habr.com/ru/companies/first/articles/761228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761228)
+- [Удивительные клеточные автоматы: дефицитные правила](https://habr.com/ru/companies/timeweb/articles/733854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733854)
+- [Оценка эффекта персонализации баннеров в Альфа-Банке с применением библиотеки Kolmogorov ABacus](https://habr.com/ru/companies/glowbyte/articles/762164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762164)
 - [Web Accessibility в рассказе «A11Y от 0 до NaN»](https://habr.com/ru/articles/762186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762186)
 - [Создаем мини-игру с капельным эффектом и движущимися кружками. Часть 2. Финал](https://habr.com/ru/articles/762156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762156)
-- [Принципы хорошего дизайна интерфейсов. И причем здесь программисты?](https://habr.com/ru/articles/762146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762146)
-- [Принцип Универсалией: или локальный подход к Dependency Injection](https://habr.com/ru/articles/762144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762144)
-- [JavaScript. WebRTC. Соединение браузеров напрямую без сервера, peer-to-peer](https://habr.com/ru/articles/762118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
