@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Accessibility в рассказе «A11Y от 0 до NaN»](https://habr.com/ru/articles/762186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762186)
 - [Создаем мини-игру с капельным эффектом и движущимися кружками. Часть 2. Финал](https://habr.com/ru/articles/762156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762156)
 - [Принципы хорошего дизайна интерфейсов. И причем здесь программисты?](https://habr.com/ru/articles/762146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762146)
 - [Принцип Универсалией: или локальный подход к Dependency Injection](https://habr.com/ru/articles/762144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762144)
 - [JavaScript. WebRTC. Соединение браузеров напрямую без сервера, peer-to-peer](https://habr.com/ru/articles/762118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762118)
-- [Особенности SRE и Observability в мобильных приложениях](https://habr.com/ru/companies/tinkoff/articles/762058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
