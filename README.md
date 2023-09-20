@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Говорить по делу и не переходить на личности: как правильно давать обратную связь](https://habr.com/ru/companies/redmadrobot/articles/762302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762302)
 - [[Перевод] «Хороший коммит» и «ваш коммит»: как написать идеальный комментарий в Git](https://habr.com/ru/companies/beeline_cloud/articles/762280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762280)
 - [Сервис есть – владельца нет: как справиться с сервисами-сиротами в микросервисной архитектуре](https://habr.com/ru/companies/banki/articles/762256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762256)
 - [Форм-факторы смарт-карт. Сводная информация](https://habr.com/ru/articles/762268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762268)
 - [Как перейти с монолита на микросервисы и ничего не сломать: кейс компании ВТБ](https://habr.com/ru/companies/vk/articles/762060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762060)
-- [[Перевод] S.T.A.R.K. — первый фреймворк для создания голосового ассистента](https://habr.com/ru/articles/762252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
