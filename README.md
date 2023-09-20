@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизируем и ускоряем плейбуки в Asnible](https://habr.com/ru/companies/otus/articles/762374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762374)
+- [[Перевод] Как сделать эффект Parallax с помощью CSS](https://habr.com/ru/companies/otus/articles/762358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762358)
+- [Реализация языкового сервера для языка программирования Ü](https://habr.com/ru/articles/761694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761694)
 - [Еще меньше алгоритмов: как мы убрали одно алгоритмическое интервью в Дзене и к чему это привело](https://habr.com/ru/companies/vk/articles/762290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762290)
 - [Как увеличить мощность A/B-теста, если мало данных и время поджимает](https://habr.com/ru/companies/dododev/articles/759580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759580)
-- [Знак перестановки: транспозиции vs инверсии](https://habr.com/ru/articles/762338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762338)
-- [Ноутбуки, планшеты и другие гаджеты на Linux: что предлагает рынок в 2023 году](https://habr.com/ru/companies/ru_mts/articles/762332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762332)
-- [Еще больше материалов по Data Science и машинному обучению: от логики и риторики до теории множеств и матанализа](https://habr.com/ru/companies/selectel/articles/762098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
