@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как виртуализация делает мир зеленее? Энергоэффективность современных дата-центров](https://habr.com/ru/companies/selectel/articles/761020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761020)
+- [OOM: direct memory при работе с сетью TCP/IP через NIO в Java](https://habr.com/ru/companies/bercut/articles/762254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762254)
+- [Построение гибкой и распределенной архитектуры с использованием Kafka и Kafka Connect: Часть 2 — Получатель и Helm Chart](https://habr.com/ru/articles/751330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751330)
+- [Jailbreak checker — как обезопасить свое iOS-приложение](https://habr.com/ru/companies/qiwi/articles/762600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762600)
 - [Как выбрать лучшую ИИ-систему?](https://habr.com/ru/articles/762596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762596)
-- [Реструктуризация — бесконечная история](https://habr.com/ru/articles/762574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762574)
-- [Промышленные контроллеры, Linux и только C++. Часть 1](https://habr.com/ru/articles/762576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762576)
-- [Плагины для Visual Studio Code, актуальные в 2023 году](https://habr.com/ru/companies/ru_mts/articles/762558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762558)
-- [Визуализация алгоритмов стандартной библиотеки C++](https://habr.com/ru/articles/762554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
