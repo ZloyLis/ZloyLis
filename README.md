@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Полный релиз бесплатного интерактивного 700-страничного учебника по тестированию](https://habr.com/ru/articles/762532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762532)
-- [userver 1.0 — релиз фреймворка для IO-bound программ](https://habr.com/ru/companies/yandex/articles/760244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760244)
-- [Как привнести дух стартапов в крупный энтерпрайз и промышленность](https://habr.com/ru/companies/oleg-bunin/articles/762506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762506)
-- [Как синхронизировать множество команд между собой](https://habr.com/ru/companies/tinkoff/articles/762478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762478)
-- [«В ближайшие 6 лет требования к системным аналитикам вряд ли сильно изменятся»](https://habr.com/ru/companies/alfa/articles/762462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762462)
+- [Плагины для Visual Studio Code, актуальные в 2023 году](https://habr.com/ru/companies/ru_mts/articles/762558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762558)
+- [Визуализация алгоритмов стандартной библиотеки C++](https://habr.com/ru/articles/762554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762554)
+- [«Пофиксил две своих проблемы, а вылезло еще шесть». Честные кейсы наших IT-стажеров](https://habr.com/ru/companies/kaspersky/articles/762520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762520)
+- [Встречайте QmlBrowser – маленький, но перспективный принц на балу старых пердунов](https://habr.com/ru/articles/762526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762526)
+- [Как организовать поиск в стартапе, который планирует вырасти до масштабов ВКонтакте](https://habr.com/ru/companies/vk/articles/762426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
