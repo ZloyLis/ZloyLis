@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание мини игр и анимации в Online редакторе Collagen_2](https://habr.com/ru/articles/762652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762652)
+- [Bootstrap: швейцарский нож аналитика](https://habr.com/ru/articles/762648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762648)
 - [Event Loop в деталях](https://habr.com/ru/articles/762618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762618)
 - [Как виртуализация делает мир зеленее? Энергоэффективность современных дата-центров](https://habr.com/ru/companies/selectel/articles/761020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761020)
 - [Эффективное онлайн-обучение в ИТ: как не нарваться на курсы-пустышки](https://habr.com/ru/articles/762578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762578)
-- [OOM: direct memory при работе с сетью TCP/IP через NIO в Java](https://habr.com/ru/companies/bercut/articles/762254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762254)
-- [Построение гибкой и распределенной архитектуры с использованием Kafka и Kafka Connect: Часть 2 — Получатель и Helm Chart](https://habr.com/ru/articles/751330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=751330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
