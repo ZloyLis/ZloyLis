@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полный релиз бесплатного интерактивного 700-страничного учебника по тестированию](https://habr.com/ru/articles/762532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762532)
 - [userver 1.0 — релиз фреймворка для IO-bound программ](https://habr.com/ru/companies/yandex/articles/760244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760244)
 - [Как привнести дух стартапов в крупный энтерпрайз и промышленность](https://habr.com/ru/companies/oleg-bunin/articles/762506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762506)
 - [Как синхронизировать множество команд между собой](https://habr.com/ru/companies/tinkoff/articles/762478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762478)
 - [«В ближайшие 6 лет требования к системным аналитикам вряд ли сильно изменятся»](https://habr.com/ru/companies/alfa/articles/762462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762462)
-- [Использование технологий машинного обучения в аудите: примеры эффективного применения](https://habr.com/ru/companies/sberbank/articles/762472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
