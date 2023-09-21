@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выбрать лучшую ИИ-систему?](https://habr.com/ru/articles/762596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762596)
+- [Реструктуризация — бесконечная история](https://habr.com/ru/articles/762574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762574)
+- [Промышленные контроллеры, Linux и только C++. Часть 1](https://habr.com/ru/articles/762576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762576)
 - [Плагины для Visual Studio Code, актуальные в 2023 году](https://habr.com/ru/companies/ru_mts/articles/762558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762558)
 - [Визуализация алгоритмов стандартной библиотеки C++](https://habr.com/ru/articles/762554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762554)
-- [«Пофиксил две своих проблемы, а вылезло еще шесть». Честные кейсы наших IT-стажеров](https://habr.com/ru/companies/kaspersky/articles/762520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762520)
-- [Встречайте QmlBrowser – маленький, но перспективный принц на балу старых пердунов](https://habr.com/ru/articles/762526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762526)
-- [Как организовать поиск в стартапе, который планирует вырасти до масштабов ВКонтакте](https://habr.com/ru/companies/vk/articles/762426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
