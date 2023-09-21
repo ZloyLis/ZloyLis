@@ -23,9 +23,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Менторство в IT: 73% опытных специалистов становятся наставниками](https://habr.com/ru/specials/762348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762348)
 - [5 последствий, которые ждут бизнес, если в разработке не будет участвовать ЛПР](https://habr.com/ru/companies/pyrobyte/articles/762428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762428)
 - [Продвинутый телеграмм бот на Java &lpar;Spring, postgres и free deploy&rpar;](https://habr.com/ru/articles/762152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762152)
-- [Оптимизируем и ускоряем плейбуки в Asnible](https://habr.com/ru/companies/otus/articles/762374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762374)
 - [[Перевод] Как сделать эффект Parallax с помощью CSS](https://habr.com/ru/companies/otus/articles/762358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762358)
 - [Реализация языкового сервера для языка программирования Ü](https://habr.com/ru/articles/761694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761694)
 <!-- BLOG-POST-LIST:END -->
