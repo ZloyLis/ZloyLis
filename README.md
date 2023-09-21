@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда private, но очень хочется public](https://habr.com/ru/articles/762250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762250)
 - [Создание мини игр и анимации в Online редакторе Collagen_2](https://habr.com/ru/articles/762652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762652)
 - [Bootstrap: швейцарский нож аналитика](https://habr.com/ru/articles/762648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762648)
 - [Event Loop в деталях](https://habr.com/ru/articles/762618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762618)
 - [Как повысить энергоэффективность дата-центра и сохранить природу: опыт Selectel](https://habr.com/ru/companies/selectel/articles/761020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761020)
-- [Эффективное онлайн-обучение в ИТ: как не нарваться на курсы-пустышки](https://habr.com/ru/articles/762578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
