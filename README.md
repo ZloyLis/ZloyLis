@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дашборд тестировщика, или Как мы собираем метрики в отделе тестирования ЮMoney](https://habr.com/ru/companies/yoomoney/articles/762644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762644)
+- [Стать стажером, когда тебе за 30](https://habr.com/ru/companies/jetinfosystems/articles/762408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762408)
 - [Несовместимость Insert-only и поэтапного развертывания](https://habr.com/ru/articles/762744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762744)
 - [Legacy PHP-FPM в Kubernetes](https://habr.com/ru/companies/garage8/articles/762742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762742)
 - [Кто такой архитектор ПО и как им стать](https://habr.com/ru/companies/yandex_praktikum/articles/762610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762610)
-- [[SDK и UI-библиотеки] Разделяемые ресурсы и асинхронные блокировки](https://habr.com/ru/articles/762710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762710)
-- [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 4: пользовательский интерфейс](https://habr.com/ru/companies/domclick/articles/762514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
