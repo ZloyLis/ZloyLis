@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучающая основам программирования и робототехники настолка «Битва Големов» — качаем, печатаем и играем](https://habr.com/ru/articles/762932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762932)
 - [Минуты и часы не нужны](https://habr.com/ru/articles/762838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762838)
 - [Без ТЗ результат ХЗ? Не думаю](https://habr.com/ru/articles/762908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762908)
 - [[Перевод] Форматирование текста на C++ старым и новым способом](https://habr.com/ru/companies/ruvds/articles/761910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761910)
 - [Нам надо серьезно поговорить про UX](https://habr.com/ru/articles/762824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762824)
-- [Как сделать вашего телеграм-бота лучше? Конечно, добавить ему аналитику](https://habr.com/ru/companies/otus/articles/762768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
