@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Legacy PHP-FPM в Kubernetes](https://habr.com/ru/companies/garage8/articles/762742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762742)
+- [Кто такой архитектор ПО и как им стать](https://habr.com/ru/companies/yandex_praktikum/articles/762610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762610)
 - [[SDK и UI-библиотеки] Разделяемые ресурсы и асинхронные блокировки](https://habr.com/ru/articles/762710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762710)
 - [Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 4: пользовательский интерфейс](https://habr.com/ru/companies/domclick/articles/762514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762514)
 - [Когда private, но очень хочется public](https://habr.com/ru/articles/762250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762250)
-- [Создание мини игр и анимации в Online редакторе Collagen_2](https://habr.com/ru/articles/762652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762652)
-- [Bootstrap: швейцарский нож аналитика](https://habr.com/ru/articles/762648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
