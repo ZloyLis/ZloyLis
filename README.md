@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дашборд тестировщика, или Как мы собираем метрики в отделе тестирования ЮMoney](https://habr.com/ru/companies/yoomoney/articles/762644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762644)
-- [Стать стажером, когда тебе за 30](https://habr.com/ru/companies/jetinfosystems/articles/762408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762408)
-- [Несовместимость Insert-only и поэтапного развертывания](https://habr.com/ru/articles/762744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762744)
-- [Legacy PHP-FPM в Kubernetes](https://habr.com/ru/companies/garage8/articles/762742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762742)
-- [Кто такой архитектор ПО и как им стать](https://habr.com/ru/companies/yandex_praktikum/articles/762610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762610)
+- [Добавление отзывов с фотографиями в S3 с помощью AWS SDK Java](https://habr.com/ru/articles/762800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762800)
+- [Произносим термины IT правильно](https://habr.com/ru/companies/vk/articles/761856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761856)
+- [Сделали по красоте: победители «Конкурса красоты кода»](https://habr.com/ru/companies/sberbank/articles/762796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762796)
+- [О чём молчат тестировщики?](https://habr.com/ru/companies/vk/articles/762328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762328)
+- [[Перевод] Перелом в судьбе змеи: как Python менял версию с 2 на 3](https://habr.com/ru/companies/nmg/articles/762702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
