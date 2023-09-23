@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я люблю тебя, Cost of Revenue](https://habr.com/ru/articles/763014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763014)
 - [Svace: фича-реквесты для отечественного статического анализатора](https://habr.com/ru/articles/763008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763008)
 - [5 советов разработчику перед стартом своего стартапа. Опыт после 750 000 рублей](https://habr.com/ru/articles/763002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763002)
 - [Битва за производительность: SparseMap vs GenerationsMap](https://habr.com/ru/articles/762984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762984)
 - [Автоматизация тестирования голосового чат-бота в Google DialogFlow на Python](https://habr.com/ru/articles/762982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762982)
-- [API для создания рандомных аватаров пользователей](https://habr.com/ru/articles/762980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
