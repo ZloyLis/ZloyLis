@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Битва за производительность: SparseMap vs GenerationsMap](https://habr.com/ru/articles/762984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762984)
 - [Автоматизация тестирования голосового чат-бота в Google DialogFlow на Python](https://habr.com/ru/articles/762982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762982)
 - [API для создания рандомных аватаров пользователей](https://habr.com/ru/articles/762980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762980)
 - [Sinuous — JavaScript UI библиотека с небольшим размером](https://habr.com/ru/articles/762978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762978)
 - [Путь веб-мастера в системный анализ: инструменты, кейсы, мысли вслух](https://habr.com/ru/articles/762968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762968)
-- [Oracle/ClickHouse. DWH. Партицирование как средство быстрого обновления данных](https://habr.com/ru/articles/762960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
