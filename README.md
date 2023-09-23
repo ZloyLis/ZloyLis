@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь веб-мастера в системный анализ: инструменты, кейсы, мысли вслух](https://habr.com/ru/articles/762968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762968)
 - [Oracle/ClickHouse. DWH. Партицирование как средство быстрого обновления данных](https://habr.com/ru/articles/762960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762960)
 - [[Перевод] В Java 21 собираются реализовать сопоставление с образцом – так, глядишь, я снова на этот язык перейду](https://habr.com/ru/articles/762956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762956)
 - [Обучающая основам программирования и робототехники настолка «Битва Големов» — качаем, печатаем и играем](https://habr.com/ru/articles/762932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762932)
 - [Минуты и часы не нужны](https://habr.com/ru/articles/762838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762838)
-- [Без ТЗ результат ХЗ? Не думаю](https://habr.com/ru/articles/762908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
