@@ -27,7 +27,7 @@ ___
 - [[Перевод] Устраняем ошибки, связанные с SIGSEGV: ошибка сегментирования в контейнерах Linux &lpar;код возврата 139&rpar;](https://habr.com/ru/companies/timeweb/articles/763062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763062)
 - [Mobile MVP — minimum viable Features](https://habr.com/ru/articles/763082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763082)
 - [Приложения алгебры кортежей. Часть 2. Математическая модель вопроса](https://habr.com/ru/articles/763004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763004)
-- [TypeScript и все что тебе нужно в разработке](https://habr.com/ru/articles/762902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762902)
+- [Как я поступил в колледж МИРЭА](https://habr.com/ru/articles/763064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
