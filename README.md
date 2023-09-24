@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсинг, хранение и отображение логов 4-х разных агентов доставки электронной почты. Развитие MTA Log Parser](https://habr.com/ru/articles/763110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763110)
 - [[Перевод] Поиск с помощью регулярных выражений: подход с Виртуальной Машиной](https://habr.com/ru/articles/759372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759372)
 - [[Перевод] Устраняем ошибки, связанные с SIGSEGV: ошибка сегментирования в контейнерах Linux &lpar;код возврата 139&rpar;](https://habr.com/ru/companies/timeweb/articles/763062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763062)
 - [Mobile MVP — minimum viable Features](https://habr.com/ru/articles/763082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763082)
 - [Приложения алгебры кортежей. Часть 2. Математическая модель вопроса](https://habr.com/ru/articles/763004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763004)
-- [Как я поступил в колледж МИРЭА](https://habr.com/ru/articles/763064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
