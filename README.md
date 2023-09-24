@@ -24,10 +24,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Мое впечатление о колледже МИРЭА](https://habr.com/ru/articles/763064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763064)
-- [“Анализируй это” или как я в Практикуме учился](https://habr.com/ru/articles/763060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763060)
 - [TypeScript и все что тебе нужно в разработке](https://habr.com/ru/articles/762902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762902)
 - [Helena.4.0 – новый алгоритм для подбора гиперпараметров](https://habr.com/ru/companies/rosbank/articles/763026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763026)
 - [Я люблю тебя, Cost of Revenue](https://habr.com/ru/articles/763014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763014)
+- [Svace: фича-реквесты для отечественного статического анализатора](https://habr.com/ru/articles/763008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
