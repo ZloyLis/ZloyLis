@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы распознавали цвета медицинских тест-полосок с помощью ИИ для healthcare стартапа](https://habr.com/ru/articles/763224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763224)
+- [Автоматизация безопасности с разнообразием матриц MITRE](https://habr.com/ru/companies/securityvison/articles/763218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763218)
 - [[Перевод] Выберите технологию очередей Postgres](https://habr.com/ru/articles/763188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763188)
 - [Как мы развиваем Платформу Цифрового Опыта](https://habr.com/ru/companies/moex/articles/762658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762658)
 - [Битва пет-проектов](https://habr.com/ru/specials/762760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762760)
-- [Tailwind не только для MVP](https://habr.com/ru/articles/763126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763126)
-- [[Перевод] Пробиваем дыры в NAT](https://habr.com/ru/articles/763164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
