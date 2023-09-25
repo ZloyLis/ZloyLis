@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пробиваем дыры в NAT](https://habr.com/ru/articles/763164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763164)
+- [Техническое задание в картинках?](https://habr.com/ru/companies/stc_spb/articles/760704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760704)
 - [Книга завершена [SDK &amp;amp; UI-библиотеки] Вычисляемые свойства. Заключение](https://habr.com/ru/articles/763144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763144)
 - [Мобильная разработка за неделю #507 &lpar;18 — 24 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/763136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763136)
 - [[Перевод] Fibers в C++: основы](https://habr.com/ru/articles/763074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763074)
-- [Парсинг, хранение и отображение логов 4-х разных агентов доставки электронной почты. Развитие MTA Log Parser](https://habr.com/ru/articles/763110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763110)
-- [[Перевод] Поиск с помощью регулярных выражений: подход с Виртуальной Машиной](https://habr.com/ru/articles/759372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=759372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
