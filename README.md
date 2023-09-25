@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Выберите технологию очередей Postgres](https://habr.com/ru/articles/763188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763188)
+- [Как мы развиваем Платформу Цифрового Опыта](https://habr.com/ru/companies/moex/articles/762658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762658)
 - [Битва пет-проектов](https://habr.com/ru/specials/762760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762760)
 - [Tailwind не только для MVP](https://habr.com/ru/articles/763126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763126)
 - [[Перевод] Пробиваем дыры в NAT](https://habr.com/ru/articles/763164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763164)
-- [Техническое задание в картинках?](https://habr.com/ru/companies/stc_spb/articles/760704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760704)
-- [Книга завершена [SDK &amp;amp; UI-библиотеки] Вычисляемые свойства. Заключение](https://habr.com/ru/articles/763144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
