@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История языков программирования: Autocode Алика Гленни из 50-х годов XX века](https://habr.com/ru/companies/ru_mts/articles/763334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763334)
+- [Как генеративный ИИ будет использоваться в разработке игр в ближайшее десятилетие: исследование Bain&amp;amp;Company](https://habr.com/ru/articles/763322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763322)
 - [Design API First. Кодогенерация Roslyn](https://habr.com/ru/companies/simbirsoft/articles/763288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763288)
 - [[Перевод] Систематический подход к отладке](https://habr.com/ru/companies/ruvds/articles/763310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763310)
 - [Автоматизация бизнес-процессов в Heflo: от А до Я](https://habr.com/ru/companies/glowbyte/articles/763274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763274)
-- [JS: перебираем массив быстрее всех](https://habr.com/ru/articles/763276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763276)
-- [Как я перешёл из ручного тестирования в автоматизированное](https://habr.com/ru/companies/itfb/articles/763272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
