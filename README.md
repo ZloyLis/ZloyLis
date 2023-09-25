@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JS: перебираем массив быстрее всех](https://habr.com/ru/articles/763276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763276)
+- [Как я перешёл из ручного тестирования в автоматизированное](https://habr.com/ru/companies/itfb/articles/763272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763272)
+- [9 архитектурных антипаттернов при разработке телеграм-ботов на Python](https://habr.com/ru/companies/otus/articles/763158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763158)
 - [[Перевод] Svelte: Знакомство с рунами](https://habr.com/ru/articles/763256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763256)
 - [[Перевод] Сжать и не пожалеть: как работает сжатие без потерь](https://habr.com/ru/articles/763248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763248)
-- [Как мы распознавали цвета медицинских тест-полосок с помощью ИИ для healthcare стартапа](https://habr.com/ru/articles/763224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763224)
-- [Автоматизация безопасности с разнообразием матриц MITRE](https://habr.com/ru/companies/securityvison/articles/763218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763218)
-- [[Перевод] Выберите технологию очередей Postgres](https://habr.com/ru/articles/763188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
