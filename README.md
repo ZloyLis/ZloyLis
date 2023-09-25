@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Введение в трассировку лучей: простой метод создания 3D-изображений](https://habr.com/ru/articles/763416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763416)
 - [Security Week 2339: жизнь казино после атаки кибервымогателей](https://habr.com/ru/companies/kaspersky/articles/763300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763300)
 - [Tarantella — распределённое key-value хранилище в рекламных технологиях VK](https://habr.com/ru/companies/vk/articles/762112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762112)
 - [История языков программирования: Autocode Алика Гленни из 50-х годов XX века](https://habr.com/ru/companies/ru_mts/articles/763334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763334)
 - [Оптимизация работы с Camunda на основе External task](https://habr.com/ru/companies/rostelecom/articles/760300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760300)
-- [Design API First. Кодогенерация Roslyn](https://habr.com/ru/companies/simbirsoft/articles/763288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
