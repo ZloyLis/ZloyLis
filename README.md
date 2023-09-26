@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираем TLS по байтам. Часть 1: кто такой этот ваш HTTPS?](https://habr.com/ru/companies/timeweb/articles/752270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752270)
+- [BI-инструмент от Яндекса DataLens — теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/762486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762486)
+- [Как грамотно оформленная структура макетов в Figma помогает экономить время и деньги](https://habr.com/ru/articles/763464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763464)
 - [Нейросети в образовании](https://habr.com/ru/companies/lanit/articles/762066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762066)
 - [Неполадки в отладке: как уязвимость в WinDbg позволяет атаковать разработчиков](https://habr.com/ru/companies/ru_mts/articles/763320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763320)
-- [Задача про игральные кубики и треугольники](https://habr.com/ru/articles/763372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763372)
-- [[Перевод] Введение в трассировку лучей: простой метод создания 3D-изображений](https://habr.com/ru/articles/763416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763416)
-- [Security Week 2339: жизнь казино после атаки кибервымогателей](https://habr.com/ru/companies/kaspersky/articles/763300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
