@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;18.09 – 24.09.23&rpar;](https://habr.com/ru/articles/763420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763420)
 - [Кэширование контекста Spring между запусками тестов: как ускорить процесс локального тестирования](https://habr.com/ru/companies/jugru/articles/762632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762632)
 - [Совместная работа в реальном времени: алгоритмы, редакторы и облако](https://habr.com/ru/companies/cloud_mts/articles/763598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763598)
 - [Эффективная и идиоматическая обработка ошибок в Kotlin](https://habr.com/ru/articles/763518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763518)
 - [Универсальные датасорсы в iOS-разработке](https://habr.com/ru/companies/tensor/articles/763582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763582)
-- [Кто такие Senior, Middle и Junior? И на кой ляд нужны грейды?](https://habr.com/ru/companies/ratingruneta/articles/763566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
