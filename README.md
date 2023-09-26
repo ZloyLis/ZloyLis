@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто такие Senior, Middle и Junior? И на кой ляд нужны грейды?](https://habr.com/ru/companies/ratingruneta/articles/763566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763566)
+- [[Перевод] Давайте поощрять осознанное мышление](https://habr.com/ru/articles/763492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763492)
 - [React Fiber &amp;amp; Concurrency Part 1 &lpar;2&rpar;](https://habr.com/ru/articles/763534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763534)
 - [Учимся генерировать код из OpenAPI, делать автоверсионирование, разрабатывать мобильные SDK и растить команду без ошибок](https://habr.com/ru/companies/yoomoney/articles/763396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763396)
 - [Пишем key-value storage на пакетах ping&#39;а или храним данные между облаками](https://habr.com/ru/articles/762390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762390)
-- [[Перевод] Вышел Savant 0.2.5: фреймворк компьютерного зрения на базе Nvidia DeepStream SDK](https://habr.com/ru/articles/763510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763510)
-- [Построение AppSec в огромном Enterprise и опыт его применения в бирюзовой компании](https://habr.com/ru/companies/oleg-bunin/articles/763284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
