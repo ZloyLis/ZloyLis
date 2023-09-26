@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как Google победила фрагментацию и возвращает контроль над Android](https://habr.com/ru/companies/broadcast/articles/763094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763094)
-- [CD-диск на шейдерах и NameDrop в iOS 17](https://habr.com/ru/companies/dododev/articles/762656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762656)
-- [Создание внутреннего пакета компонентов React — проще, чем кажется](https://habr.com/ru/companies/simbirsoft/articles/763426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763426)
-- [Разбираем TLS по байтам. Часть 1: кто такой этот ваш HTTPS?](https://habr.com/ru/companies/timeweb/articles/752270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752270)
-- [Как грамотно оформленная структура макетов в Figma помогает экономить время и деньги](https://habr.com/ru/articles/763464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763464)
+- [React Fiber &amp;amp; Concurrency Part 1 &lpar;2&rpar;](https://habr.com/ru/articles/763534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763534)
+- [Учимся генерировать код из OpenAPI, делать автоверсионирование, разрабатывать мобильные SDK и растить команду без ошибок](https://habr.com/ru/companies/yoomoney/articles/763396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763396)
+- [Пишем key-value storage на пакетах ping&#39;а или храним данные между облаками](https://habr.com/ru/articles/762390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762390)
+- [[Перевод] Вышел Savant 0.2.5: фреймворк компьютерного зрения на базе Nvidia DeepStream SDK](https://habr.com/ru/articles/763510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763510)
+- [Построение AppSec в огромном Enterprise и опыт его применения в бирюзовой компании](https://habr.com/ru/companies/oleg-bunin/articles/763284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
