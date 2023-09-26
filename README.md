@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Универсальные датасорсы в iOS-разработке](https://habr.com/ru/articles/763582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763582)
+- [Эффективная и идиоматическая обработка ошибок в Kotlin](https://habr.com/ru/articles/763518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763518)
+- [Универсальные датасорсы в iOS-разработке](https://habr.com/ru/companies/tensor/articles/763582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763582)
 - [Кто такие Senior, Middle и Junior? И на кой ляд нужны грейды?](https://habr.com/ru/companies/ratingruneta/articles/763566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763566)
 - [[Перевод] Давайте поощрять осознанное мышление](https://habr.com/ru/articles/763492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763492)
 - [React Fiber &amp;amp; Concurrency Part 1 &lpar;2&rpar;](https://habr.com/ru/articles/763534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763534)
-- [Учимся генерировать код из OpenAPI, делать автоверсионирование, разрабатывать мобильные SDK и растить команду без ошибок](https://habr.com/ru/companies/yoomoney/articles/763396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
