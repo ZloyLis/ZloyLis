@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Google победила фрагментацию и возвращает контроль над Android](https://habr.com/ru/companies/broadcast/articles/763094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763094)
+- [CD-диск на шейдерах и NameDrop в iOS 17](https://habr.com/ru/companies/dododev/articles/762656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762656)
+- [Создание внутреннего пакета компонентов React — проще, чем кажется](https://habr.com/ru/companies/simbirsoft/articles/763426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763426)
 - [Разбираем TLS по байтам. Часть 1: кто такой этот ваш HTTPS?](https://habr.com/ru/companies/timeweb/articles/752270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=752270)
-- [BI-инструмент от Яндекса DataLens — теперь в опенсорсе](https://habr.com/ru/companies/yandex/articles/762486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762486)
 - [Как грамотно оформленная структура макетов в Figma помогает экономить время и деньги](https://habr.com/ru/articles/763464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763464)
-- [Нейросети в образовании](https://habr.com/ru/companies/lanit/articles/762066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762066)
-- [Неполадки в отладке: как уязвимость в WinDbg позволяет атаковать разработчиков](https://habr.com/ru/companies/ru_mts/articles/763320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
