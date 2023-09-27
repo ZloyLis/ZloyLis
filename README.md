@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Самая сложная часть создания программного обеспечения — это не написание кода, а сбор требований](https://habr.com/ru/articles/763888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763888)
 - [Keycloak. Standalone-HA в k8s и закрытие админки на ingress-e с переводом на localhost](https://habr.com/ru/companies/kaspersky/articles/763790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763790)
 - [[Перевод] Шпаргалка по модели памяти С++11](https://habr.com/ru/companies/otus/articles/763810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763810)
 - [В толковый словарь Business Process Management: Бизнес-функция vs Бизнес-процесс](https://habr.com/ru/articles/763910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763910)
 - [[Перевод] Алгоритм трассировки лучей в двух словах](https://habr.com/ru/articles/763894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763894)
-- [[Перевод] Некоторые советы, которые я почерпнул из книги «100 ошибок в Go»](https://habr.com/ru/companies/piter/articles/763874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
