@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В толковый словарь Business Process Management: Бизнес-функция vs Бизнес-процесс](https://habr.com/ru/articles/763910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763910)
+- [[Перевод] Алгоритм трассировки лучей в двух словах](https://habr.com/ru/articles/763894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763894)
 - [[Перевод] Некоторые советы, которые я почерпнул из книги «100 ошибок в Go»](https://habr.com/ru/companies/piter/articles/763874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763874)
 - [Определяем оптимальный размер групп при множественном тестировании](https://habr.com/ru/companies/X5Tech/articles/763656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763656)
 - [Быстро или мгновенно — с какой скоростью должен работать ваш продукт. Часть 1](https://habr.com/ru/companies/tinkoff/articles/763870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763870)
-- [Как мы сделали настоящий хакатон. Такой, каким он должен быть](https://habr.com/ru/companies/vtb/articles/763842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763842)
-- [Руководство по созданию кластеров и управлению инфраструктурой с помощью Terraform](https://habr.com/ru/companies/vk/articles/763282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
