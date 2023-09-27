@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обыкновенное чудо: итоги сезона Java](https://habr.com/ru/specials/763594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763594)
-- [Хороший ретрай, плохой ретрай, или История одного падения](https://habr.com/ru/companies/yandex/articles/762678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762678)
-- [Apple Pro Weekly News &lpar;18.09 – 24.09.23&rpar;](https://habr.com/ru/articles/763420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763420)
-- [Кэширование контекста Spring между запусками тестов: как ускорить процесс локального тестирования](https://habr.com/ru/companies/jugru/articles/762632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762632)
-- [Совместная работа в реальном времени: алгоритмы, редакторы и облако](https://habr.com/ru/companies/cloud_mts/articles/763598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763598)
+- [[Перевод] Пафнутий Чебышев: учеба, научные интересы и преподавательская деятельность русского гения математики](https://habr.com/ru/companies/itglobalcom/articles/763734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763734)
+- [Прогресс WebAssembly и будущее веба. Быстрые интерфейсы, пример Figma](https://habr.com/ru/companies/ruvds/articles/763586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763586)
+- [Многогранный мониторинг Angie](https://habr.com/ru/articles/763626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763626)
+- [Как я пришёл в дата-анализ после долгих блужданий по онлайн-курсам, маршрут со всеми тупиками и ухабами](https://habr.com/ru/articles/763346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763346)
+- [Зачем нужна оценка зрелости бизнес-процессов при разработке системы](https://habr.com/ru/companies/simbirsoft/articles/760228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
