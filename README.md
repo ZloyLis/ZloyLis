@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Keycloak. Standalone-HA в k8s и закрытие админки на ingress-e с переводом на localhost](https://habr.com/ru/companies/kaspersky/articles/763790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763790)
+- [[Перевод] Шпаргалка по модели памяти С++11](https://habr.com/ru/companies/otus/articles/763810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763810)
 - [В толковый словарь Business Process Management: Бизнес-функция vs Бизнес-процесс](https://habr.com/ru/articles/763910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763910)
 - [[Перевод] Алгоритм трассировки лучей в двух словах](https://habr.com/ru/articles/763894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763894)
 - [[Перевод] Некоторые советы, которые я почерпнул из книги «100 ошибок в Go»](https://habr.com/ru/companies/piter/articles/763874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763874)
-- [Определяем оптимальный размер групп при множественном тестировании](https://habr.com/ru/companies/X5Tech/articles/763656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763656)
-- [Быстро или мгновенно — с какой скоростью должен работать ваш продукт. Часть 1](https://habr.com/ru/companies/tinkoff/articles/763870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
