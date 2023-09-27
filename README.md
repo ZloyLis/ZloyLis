@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дебаггинг приложения без Xcode](https://habr.com/ru/companies/alfa/articles/763596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763596)
-- [[Перевод] Города в киберпространстве: образ города и разработка ПО](https://habr.com/ru/companies/kts/articles/763782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763782)
-- [Почему компании не нужен архитектор](https://habr.com/ru/companies/netologyru/articles/763456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763456)
-- [Как мы анализируем потребление памяти нативными приложениями](https://habr.com/ru/companies/1c/articles/761012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761012)
-- [Блеск и нищета std::format](https://habr.com/ru/articles/763784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763784)
+- [Определяем оптимальный размер групп при множественном тестировании](https://habr.com/ru/companies/X5Tech/articles/763656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763656)
+- [Быстро или мгновенно — с какой скоростью должен работать ваш продукт. Часть 1](https://habr.com/ru/companies/tinkoff/articles/763870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763870)
+- [Как мы сделали настоящий хакатон. Такой, каким он должен быть](https://habr.com/ru/companies/vtb/articles/763842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763842)
+- [Руководство по созданию кластеров и управлению инфраструктурой с помощью Terraform](https://habr.com/ru/companies/vk/articles/763282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763282)
+- [Golang глазами PHP-программиста](https://habr.com/ru/articles/763850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
