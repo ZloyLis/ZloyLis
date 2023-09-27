@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метрика Pure Score](https://habr.com/ru/articles/763984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763984)
 - [[Перевод] Как у меня украли авторство патча](https://habr.com/ru/articles/763960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763960)
 - [Простыми словами о Kubernetes и не только — материалы для менеджеров и парочка примечательных инструментов по теме](https://habr.com/ru/companies/beeline_cloud/articles/763934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763934)
 - [[Перевод] Самая сложная часть создания программного обеспечения — это не написание кода, а сбор требований](https://habr.com/ru/articles/763888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763888)
 - [Keycloak. Standalone-HA в k8s и закрытие админки на ingress-e с переводом на localhost](https://habr.com/ru/companies/kaspersky/articles/763790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763790)
-- [[Перевод] Шпаргалка по модели памяти С++11](https://habr.com/ru/companies/otus/articles/763810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
