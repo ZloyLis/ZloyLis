@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Блеск и нищета std::format](https://habr.com/ru/articles/763784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763784)
 - [[Перевод] Пафнутий Чебышев: учеба, научные интересы и преподавательская деятельность русского гения математики](https://habr.com/ru/companies/itglobalcom/articles/763734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763734)
 - [Прогресс WebAssembly и будущее веба. Быстрые интерфейсы, пример Figma](https://habr.com/ru/companies/ruvds/articles/763586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763586)
 - [Многогранный мониторинг Angie](https://habr.com/ru/articles/763626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763626)
 - [Как я пришёл в дата-анализ после долгих блужданий по онлайн-курсам, маршрут со всеми тупиками и ухабами](https://habr.com/ru/articles/763346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763346)
-- [Зачем нужна оценка зрелости бизнес-процессов при разработке системы](https://habr.com/ru/companies/simbirsoft/articles/760228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
