@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дебаггинг приложения без Xcode](https://habr.com/ru/companies/alfa/articles/763596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763596)
+- [[Перевод] Города в киберпространстве: образ города и разработка ПО](https://habr.com/ru/companies/kts/articles/763782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763782)
+- [Почему компании не нужен архитектор](https://habr.com/ru/companies/netologyru/articles/763456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763456)
 - [Как мы анализируем потребление памяти нативными приложениями](https://habr.com/ru/companies/1c/articles/761012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761012)
 - [Блеск и нищета std::format](https://habr.com/ru/articles/763784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763784)
-- [[Перевод] Пафнутий Чебышев: учеба, научные интересы и преподавательская деятельность русского гения математики](https://habr.com/ru/companies/itglobalcom/articles/763734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763734)
-- [Прогресс WebAssembly и будущее веба. Быстрые интерфейсы, пример Figma](https://habr.com/ru/companies/ruvds/articles/763586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763586)
-- [Многогранный мониторинг Angie, форка веб-сервера nginx](https://habr.com/ru/articles/763626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
