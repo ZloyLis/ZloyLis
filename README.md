@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как добавить несколько товаров в Shopify корзину одним кликом?](https://habr.com/ru/articles/764258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764258)
 - [Аннотации и рефлексия в Java](https://habr.com/ru/companies/otus/articles/764244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764244)
 - [Полезное для начинающего Системного аналитика](https://habr.com/ru/articles/764214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764214)
 - [Распознавание по цвету. Как мы выбирали между классическими алгоритмами и нейросетями](https://habr.com/ru/companies/jetinfosystems/articles/764178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764178)
 - [CyberCamp 2023: итоги, задания и победители](https://habr.com/ru/companies/jetinfosystems/articles/764174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764174)
-- [Advanced Process Control &lpar;APC&rpar;](https://habr.com/ru/articles/764196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
