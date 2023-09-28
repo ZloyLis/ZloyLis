@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полезное для начинающего Системного аналитика](https://habr.com/ru/articles/764214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764214)
+- [Распознавание по цвету. Как мы выбирали между классическими алгоритмами и нейросетями](https://habr.com/ru/companies/jetinfosystems/articles/764178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764178)
 - [CyberCamp 2023: итоги, задания и победители](https://habr.com/ru/companies/jetinfosystems/articles/764174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764174)
 - [Advanced Process Control &lpar;APC&rpar;](https://habr.com/ru/articles/764196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764196)
 - [Как выбирать онлайн-школу](https://habr.com/ru/articles/764194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764194)
-- [NoArchitecture Kotline Compose](https://habr.com/ru/articles/763980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763980)
-- [Построение пайплайна обработки данных в реальном времени с использованием Python](https://habr.com/ru/companies/otus/articles/764136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
