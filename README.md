@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Vivaldi вгрызается в яблоко: Представляем Vivaldi для iOS](https://habr.com/ru/companies/vivaldi/articles/764062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764062)
+- [В заданных условиях: импортозамещение ПО и как ИТ-специалистам с этим жить](https://habr.com/ru/companies/inferit/articles/764046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764046)
 - [React 18: что поменялось](https://habr.com/ru/companies/T1Holding/articles/763822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763822)
 - [Restyle как новый стандарт для создания UI в React Native](https://habr.com/ru/articles/763982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763982)
 - [[Перевод] Godot – это не новая Unity. Анатомия вызова API в Godot](https://habr.com/ru/articles/763988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763988)
-- [Метрика Pure Score](https://habr.com/ru/articles/763984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763984)
-- [[Перевод] Как у меня украли авторство патча](https://habr.com/ru/articles/763960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
