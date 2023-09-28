@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tarantool: как избавиться от «зоопарка технологий» с помощью потоков событий](https://habr.com/ru/companies/vk/articles/761950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761950)
 - [Как я делал солнечную зарядку для своего моноколеса и вот что получилось](https://habr.com/ru/articles/764092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764092)
 - [Визуализация алгоритмов стандартной библиотеки C++ &lpar;продолжение&rpar;](https://habr.com/ru/articles/763024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763024)
 - [Основной инструментарий для разработки приложений на Gtk](https://habr.com/ru/companies/first/articles/763780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763780)
 - [Чем занимается инженер по тестированию, или Это не только про баги](https://habr.com/ru/companies/yandex_praktikum/articles/760304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760304)
-- [[Перевод] Vivaldi вгрызается в яблоко: Представляем Vivaldi для iOS](https://habr.com/ru/companies/vivaldi/articles/764062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
