@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CyberCamp 2023: итоги, задания и победители](https://habr.com/ru/companies/jetinfosystems/articles/764174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764174)
+- [Advanced Process Control &lpar;APC&rpar;](https://habr.com/ru/articles/764196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764196)
+- [Как выбирать онлайн-школу](https://habr.com/ru/articles/764194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764194)
 - [NoArchitecture Kotline Compose](https://habr.com/ru/articles/763980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763980)
 - [Построение пайплайна обработки данных в реальном времени с использованием Python](https://habr.com/ru/companies/otus/articles/764136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764136)
-- [Как мы создаём Squadus. Реализуем «прыжок к сообщению» в мобильной версии](https://habr.com/ru/companies/ncloudtech/articles/763902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763902)
-- [[Перевод] Я потратил на свое расширение для Chrome два года и заработал двести долларов. Что дальше?](https://habr.com/ru/companies/productivity_inside/articles/764144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764144)
-- [Объектно-ориентированный подход к написани REST-клиентов, или возможна ли жизнь без Open API](https://habr.com/ru/companies/magnit/articles/763952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
