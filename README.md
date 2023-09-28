@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Объектно-ориентированный подход к написани REST-клиентов, или возможна ли жизнь без Open API](https://habr.com/ru/companies/magnit/articles/763952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763952)
+- [PyTriton inference server c Gradio: быстро и просто делаем демо для ML-проектов](https://habr.com/ru/articles/764118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764118)
+- [Промышленные контроллеры, Linux и только C++. Часть 2](https://habr.com/ru/articles/764116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764116)
+- [История смарт-контрактов, или как у блокчейна выросли ручки и ножки](https://habr.com/ru/companies/web3_tech/articles/764114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764114)
 - [Tarantool: как избавиться от «зоопарка технологий» с помощью потоков событий](https://habr.com/ru/companies/vk/articles/761950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761950)
-- [Как я делал солнечную зарядку для своего моноколеса и вот что получилось](https://habr.com/ru/articles/764092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764092)
-- [Визуализация алгоритмов стандартной библиотеки C++ &lpar;продолжение&rpar;](https://habr.com/ru/articles/763024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763024)
-- [Основной инструментарий для разработки приложений на Gtk](https://habr.com/ru/companies/first/articles/763780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763780)
-- [Чем занимается инженер по тестированию, или Это не только про баги](https://habr.com/ru/companies/yandex_praktikum/articles/760304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
