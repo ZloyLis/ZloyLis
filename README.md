@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я делал солнечную зарядку для своего моноколеса и вот что получилось](https://habr.com/ru/articles/764092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764092)
+- [Визуализация алгоритмов стандартной библиотеки C++ &lpar;продолжение&rpar;](https://habr.com/ru/articles/763024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763024)
+- [Основной инструментарий для разработки приложений на Gtk](https://habr.com/ru/companies/first/articles/763780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763780)
+- [Чем занимается инженер по тестированию, или Это не только про баги](https://habr.com/ru/companies/yandex_praktikum/articles/760304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760304)
 - [[Перевод] Vivaldi вгрызается в яблоко: Представляем Vivaldi для iOS](https://habr.com/ru/companies/vivaldi/articles/764062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764062)
-- [В заданных условиях: импортозамещение ПО и как ИТ-специалистам с этим жить](https://habr.com/ru/companies/inferit/articles/764046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764046)
-- [React 18: что поменялось](https://habr.com/ru/companies/T1Holding/articles/763822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763822)
-- [Restyle как новый стандарт для создания UI в React Native](https://habr.com/ru/articles/763982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763982)
-- [[Перевод] Godot – это не новая Unity. Анатомия вызова API в Godot](https://habr.com/ru/articles/763988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
