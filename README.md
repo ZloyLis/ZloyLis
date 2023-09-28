@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React 18: что поменялось](https://habr.com/ru/companies/T1Holding/articles/763822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763822)
 - [Restyle как новый стандарт для создания UI в React Native](https://habr.com/ru/articles/763982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763982)
 - [[Перевод] Godot – это не новая Unity. Анатомия вызова API в Godot](https://habr.com/ru/articles/763988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763988)
 - [Метрика Pure Score](https://habr.com/ru/articles/763984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763984)
 - [[Перевод] Как у меня украли авторство патча](https://habr.com/ru/articles/763960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763960)
-- [Простыми словами о Kubernetes и не только — материалы для менеджеров и парочка примечательных инструментов по теме](https://habr.com/ru/companies/beeline_cloud/articles/763934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
