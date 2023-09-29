@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Методы хэширования паролей. Долгий путь после bcrypt](https://habr.com/ru/companies/globalsign/articles/764492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764492)
 - [Попросил нейросеть нарисовать биологические объекты: посмотрите, какая дичь получилась](https://habr.com/ru/articles/764486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764486)
 - [&lpar;Санкт-Петербург&rpar; What The Hack 2023: Первый FUNовый хакатон](https://habr.com/ru/companies/bar/articles/764468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764468)
 - [ШвабрОпс – новое направление в IT-индустрии](https://habr.com/ru/articles/764460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764460)
 - [Собери сам: Набор для разработки на SwiftUI](https://habr.com/ru/articles/763032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763032)
-- [Подтверждение электронной почты с помощью Spring Boot &amp;amp; Angular](https://habr.com/ru/articles/764458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
