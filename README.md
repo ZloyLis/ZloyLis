@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многопоточность в Python: очевидное и невероятное](https://habr.com/ru/articles/764420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764420)
 - [[Перевод] Идиоматическая обработка ошибок в Rust](https://habr.com/ru/companies/piter/articles/764416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764416)
 - [Всё идет по плану: как задавать роботу список действий с помощью языковых моделей и голосовых команд](https://habr.com/ru/companies/airi/articles/764102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764102)
 - [Принципы ООП в примерах для начинающих](https://habr.com/ru/companies/otus/articles/764266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764266)
 - [[Перевод] Введение в трассировку лучей: простой метод создания 3D-изображений. Часть 4 —добавление отражения и преломления](https://habr.com/ru/articles/764380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764380)
-- [Spring Cloud Config и Git. Хранение и распространение конфигураций приложений](https://habr.com/ru/articles/764402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
