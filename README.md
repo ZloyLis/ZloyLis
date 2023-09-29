@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Система 1С:ERP: наводим «цифровой порядок» на складе](https://habr.com/ru/companies/simbirsoft/articles/764286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764286)
+- [[Перевод] Введение в трассировку лучей: простой метод создания 3D-изображений. Часть 3 — реализация алгоритма трассировки лучей](https://habr.com/ru/articles/764356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764356)
+- [[Перевод] Когда стоит заменить A/B-тестирование сэмплированием Томпсона](https://habr.com/ru/companies/sibur_official/articles/764248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764248)
+- [Как сделать UI тестируемым и легко изменяемым?](https://habr.com/ru/companies/beeline_tech/articles/746946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746946)
 - [Яндекс открывает крупнейший русскоязычный датасет отзывов на организации](https://habr.com/ru/companies/yandex/articles/763832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763832)
 - [Как добавить несколько товаров в Shopify корзину одним кликом?](https://habr.com/ru/articles/764258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764258)
-- [Аннотации и рефлексия в Java](https://habr.com/ru/companies/otus/articles/764244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764244)
-- [Небезопасная многопоточность или Race Condition](https://habr.com/ru/articles/764234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
