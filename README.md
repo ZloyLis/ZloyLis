@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс открывает крупнейший русскоязычный датасет отзывов на организации](https://habr.com/ru/companies/yandex/articles/763832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763832)
 - [Как добавить несколько товаров в Shopify корзину одним кликом?](https://habr.com/ru/articles/764258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764258)
 - [Аннотации и рефлексия в Java](https://habr.com/ru/companies/otus/articles/764244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764244)
+- [Небезопасная многопоточность или Race Condition](https://habr.com/ru/articles/764234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764234)
 - [Полезное для начинающего Системного аналитика](https://habr.com/ru/articles/764214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764214)
-- [Распознавание по цвету. Как мы выбирали между классическими алгоритмами и нейросетями](https://habr.com/ru/companies/jetinfosystems/articles/764178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764178)
-- [CyberCamp 2023: итоги, задания и победители](https://habr.com/ru/companies/jetinfosystems/articles/764174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
