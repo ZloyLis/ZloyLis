@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Возможна ли жизнь после плеймаркета?](https://habr.com/ru/companies/alfa/articles/763976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763976)
-- [Основные варианты применения ИИ в разработке видеоигр](https://habr.com/ru/articles/764366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764366)
-- [Построение платформенного продукта в Авито](https://habr.com/ru/companies/avito/articles/762160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762160)
-- [Геймификация в охране труда: кому, зачем и как?](https://habr.com/ru/articles/764360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764360)
-- [[Перевод] Введение в трассировку лучей: простой метод создания 3D-изображений. Часть 3 — реализация алгоритма трассировки лучей](https://habr.com/ru/articles/764356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764356)
+- [10 небанальных ресурсов для системного аналитика](https://habr.com/ru/companies/yandex_praktikum/articles/764250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764250)
+- [PaaS два года спустя. Обзор инструментов и какие задачи они решают](https://habr.com/ru/companies/sbermarket/articles/764268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764268)
+- [Один компонент, 20+ фич, A/B-тесты: Поможет ли машина состояний?](https://habr.com/ru/companies/oleg-bunin/articles/764354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764354)
+- [Проектирование веб-приложений с помощью Python и Flask](https://habr.com/ru/companies/skillbox/articles/764384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764384)
+- [Morte Alla Francia, Italia Anela…](https://habr.com/ru/companies/first/articles/764340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
