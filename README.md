@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Федя, дичь](https://habr.com/ru/articles/764514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764514)
 - [Увеличиваем свою производительность в WebStorm / PhpStorm c помощью шаблонов](https://habr.com/ru/articles/764510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764510)
 - [Методы хэширования паролей. Долгий путь после bcrypt](https://habr.com/ru/companies/globalsign/articles/764492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764492)
 - [Попросил нейросеть нарисовать биологические объекты: посмотрите, какая дичь получилась](https://habr.com/ru/articles/764486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764486)
 - [&lpar;Санкт-Петербург&rpar; What The Hack 2023: Первый FUNовый хакатон](https://habr.com/ru/companies/bar/articles/764468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764468)
-- [ШвабрОпс – новое направление в IT-индустрии](https://habr.com/ru/articles/764460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
