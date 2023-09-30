@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [QPR Enterprise Architect: Инструмент моделирования Бизнес-Архитектуры и Процессов Управления](https://habr.com/ru/articles/764614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764614)
 - [Исповедь о продуктовых провалах. 6 проектов, которые не стоило запускать, но мы все равно попробовали](https://habr.com/ru/articles/764588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764588)
 - [Как синтаксический сахар может сыграть с вами злую шутку](https://habr.com/ru/articles/764586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764586)
 - [Тестирование смарт-контрактов в Foundry &lpar;часть 1&rpar;](https://habr.com/ru/articles/764576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764576)
 - [Настройка CI/CD для Gitlab-репозитория: схемы и гайд по шагам](https://habr.com/ru/articles/764568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764568)
-- [[Перевод] Рассказ об опыте технического руководства от мобильного разработчика из Monzo](https://habr.com/ru/companies/productivity_inside/articles/764198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
