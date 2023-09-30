@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решаем числовые ребусы с помощью Python](https://habr.com/ru/articles/764562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764562)
+- [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764424)
+- [React + Three.js. Создаём собственный 3D шутер. Часть 1](https://habr.com/ru/articles/764554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764554)
 - [Создание CRM для жилого комплекса будущего. Личный опыт](https://habr.com/ru/articles/764556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764556)
 - [Два по цене одного: snapshot-тесты на основе SwiftUI Preview](https://habr.com/ru/companies/doubletapp/articles/757544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757544)
-- [Почему Россия &lpar;и многие СНГ&rpar; – одна из стран, где уровень владения английским повально низок?](https://habr.com/ru/articles/764550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764550)
-- [[Перевод] Разбиение файлов Terraform на компонуемые слои](https://habr.com/ru/companies/timeweb/articles/764390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764390)
-- [Федя, дичь](https://habr.com/ru/articles/764514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
