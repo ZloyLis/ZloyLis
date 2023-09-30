@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование смарт-контрактов в Foundry &lpar;часть 1&rpar;](https://habr.com/ru/articles/764576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764576)
 - [Настройка CI/CD для Gitlab-репозитория: схемы и гайд по шагам](https://habr.com/ru/articles/764568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764568)
 - [[Перевод] Рассказ об опыте технического руководства от мобильного разработчика из Monzo](https://habr.com/ru/companies/productivity_inside/articles/764198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764198)
 - [Решаем числовые ребусы с помощью Python](https://habr.com/ru/articles/764562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764562)
 - [Вы кто такие, я вас не знаю, или Как мы делаем JWT-аутентификацию](https://habr.com/ru/companies/doubletapp/articles/764424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764424)
-- [React + Three.js. Создаём собственный 3D шутер. Часть 1](https://habr.com/ru/articles/764554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
