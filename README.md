@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выжить в стартапах когда ты джун?](https://habr.com/ru/articles/764632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764632)
 - [Infinity scroll &lpar;бесконечный скролл&rpar; +Virtualization &lpar;виртуализация&rpar; на примере ReactJS+ RTK Query](https://habr.com/ru/articles/764626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764626)
 - [QPR Enterprise Architect: Инструмент моделирования Бизнес-Архитектуры и Процессов Управления](https://habr.com/ru/articles/764614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764614)
 - [Исповедь о продуктовых провалах. 6 проектов, которые не стоило запускать, но мы все равно попробовали](https://habr.com/ru/articles/764588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764588)
 - [Как синтаксический сахар может сыграть с вами злую шутку](https://habr.com/ru/articles/764586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764586)
-- [Тестирование смарт-контрактов в Foundry &lpar;часть 1&rpar;](https://habr.com/ru/articles/764576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
