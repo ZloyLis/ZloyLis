@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что не так с онлайн-курсами?](https://habr.com/ru/articles/764652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764652)
+- [Обзор NativePHP. Инструмент для создания собственных нативных desktop приложений на Laravel](https://habr.com/ru/articles/761740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761740)
+- [Фонетический словарь. Пет-проект в полезное приложение](https://habr.com/ru/articles/764650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764650)
 - [Как выжить в стартапах когда ты джун?](https://habr.com/ru/articles/764632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764632)
 - [Infinity scroll &lpar;бесконечный скролл&rpar; +Virtualization &lpar;виртуализация&rpar; на примере ReactJS+ RTK Query](https://habr.com/ru/articles/764626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764626)
-- [QPR Enterprise Architect: Инструмент моделирования Бизнес-Архитектуры и Процессов Управления](https://habr.com/ru/articles/764614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764614)
-- [Исповедь о продуктовых провалах. 6 проектов, которые не стоило запускать, но мы все равно попробовали](https://habr.com/ru/articles/764588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764588)
-- [Как синтаксический сахар может сыграть с вами злую шутку](https://habr.com/ru/articles/764586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
