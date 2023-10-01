@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Macromedia Flash: Взлет и закат технологии](https://habr.com/ru/articles/764710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764710)
 - [Добавили бота в свой Telegram канал? Будьте готовы с ним попрощаться](https://habr.com/ru/articles/764608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764608)
 - [Мобильная разработка за неделю #508 &lpar;25 сентября — 1 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/764666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764666)
 - [Что не так с онлайн-курсами?](https://habr.com/ru/articles/764652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764652)
 - [Обзор NativePHP. Инструмент для создания собственных нативных desktop приложений на Laravel](https://habr.com/ru/articles/761740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761740)
-- [Фонетический словарь. Пет-проект в полезное приложение](https://habr.com/ru/articles/764650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
