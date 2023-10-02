@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бесплатные редакторы кода для разработчика: подборка для начинающих специалистов](https://habr.com/ru/companies/ru_mts/articles/764536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764536)
-- [[Перевод] Автоскейлинг контроллеров Ingress в Kubernetes](https://habr.com/ru/companies/slurm/articles/764740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764740)
-- [Виртуальное облучение рентгеном](https://habr.com/ru/companies/smartengines/articles/764246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764246)
-- [Как проходят собеседования у начинающих бэкенд-разработчиков: 7 вещей, к которым стоит быть готовым](https://habr.com/ru/companies/yandex_praktikum/articles/764176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764176)
-- [Решение любопытной цепочки задач c leetcode или сеанс древней алгоритмической магии с последующим разоблачением](https://habr.com/ru/articles/764718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764718)
+- [В чем разница между мидлом и сеньором](https://habr.com/ru/articles/764762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764762)
+- [Чем занимается AppSec? Безопасность внутренних веб-ресурсов](https://habr.com/ru/companies/vk/articles/764264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764264)
+- [Создание простого HTTP-сервера для мониторинга контейнеров Docker на Golang](https://habr.com/ru/articles/764756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764756)
+- [P2P-форум с нуля | от NAT hole punching до автономной и полностью децентрализованной сети](https://habr.com/ru/companies/ruvds/articles/761188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761188)
+- [[Перевод] Minetester: полностью открытое окружение для обучения с подкреплением, построенное на основе Minetest](https://habr.com/ru/companies/wunderfund/articles/764754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
