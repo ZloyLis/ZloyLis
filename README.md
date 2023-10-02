@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка: 7 плагинов Figma для оптимизации дизайн-процессов](https://habr.com/ru/articles/764938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764938)
 - [C++ Дайджест №4 &lpar;18 сентября – 1 октября 2023&rpar;](https://habr.com/ru/articles/764922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764922)
 - [Apple Pro Weekly News &lpar;25.09 – 01.10.23&rpar;](https://habr.com/ru/articles/764910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764910)
 - [Проектирование отказоустойчивости IT-систем](https://habr.com/ru/articles/764904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764904)
 - [Сервисы: строим масштабируемые и гибкие приложения с помощью чистой архитектуры](https://habr.com/ru/articles/764900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764900)
-- [Security Week 2340: адаптер для смартфона с нулевой приватностью](https://habr.com/ru/companies/kaspersky/articles/764792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
