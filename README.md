@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Решение любопытной цепочки задач “Single Number” c leetcode или сеанс алгоритмической магии с последующим разоблачением](https://habr.com/ru/articles/764718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764718)
+- [Виртуальное облучение рентгеном](https://habr.com/ru/companies/smartengines/articles/764246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764246)
+- [Как проходят собеседования у начинающих бэкенд-разработчиков: 7 вещей, к которым стоит быть готовым](https://habr.com/ru/companies/yandex_praktikum/articles/764176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764176)
+- [Решение любопытной цепочки задач c leetcode или сеанс древней алгоритмической магии с последующим разоблачением](https://habr.com/ru/articles/764718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764718)
 - [Macromedia Flash: Взлет и закат технологии](https://habr.com/ru/articles/764710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764710)
 - [Добавили бота в свой Telegram канал? Будьте готовы с ним попрощаться](https://habr.com/ru/articles/764608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764608)
-- [Мобильная разработка за неделю #508 &lpar;25 сентября — 1 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/764666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764666)
-- [Что не так с онлайн-курсами?](https://habr.com/ru/articles/764652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
