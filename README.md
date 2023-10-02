@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Kubernetes в мечтах к Kubernetes в проде. Часть 3. Доставка кода, GitOps, ArgoCD](https://habr.com/ru/companies/spbifmo/articles/764772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764772)
 - [Трансформером по A*, или как уменьшить число итераций самого известного алгоритма поиска пути](https://habr.com/ru/companies/airi/articles/764370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764370)
+- [Nuxt.js в SEO: как создать оптимизированные веб-приложения. Чайник для чайников в SEO](https://habr.com/ru/articles/764856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764856)
 - [Scala Digest. Выпуск 9](https://habr.com/ru/companies/tinkoff/articles/764768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764768)
 - [Создание рекомендательных систем с использованием библиотеки Surprise](https://habr.com/ru/companies/otus/articles/764222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764222)
-- [[Перевод] Кроме настроек по умолчанию: оцениваем безопасность Kubernetes и облачных сред](https://habr.com/ru/companies/vk/articles/764376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764376)
-- [React Fiber &amp;amp; Concurrency Part 2 &lpar;2&rpar;](https://habr.com/ru/articles/764800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
