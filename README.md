@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Страх и ненависть в ГОСТ Р 51583-2014 &lpar;18+&rpar;](https://habr.com/ru/articles/764784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764784)
+- [ОБЗОР ОТЕЧЕСТВЕННЫХ КОМПЬЮТЕРНЫХ МОДУЛЕЙ ФОРМАТА SMARC](https://habr.com/ru/articles/764782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764782)
+- [Интегрируем Clickhouse в Zabbix](https://habr.com/ru/companies/jetinfosystems/articles/764776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764776)
 - [В чем разница между мидлом и сеньором](https://habr.com/ru/articles/764762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764762)
 - [Чем занимается AppSec? Безопасность внутренних веб-ресурсов](https://habr.com/ru/companies/vk/articles/764264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764264)
-- [Создание простого HTTP-сервера для мониторинга контейнеров Docker на Golang](https://habr.com/ru/articles/764756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764756)
-- [P2P-форум с нуля | от NAT hole punching до автономной и полностью децентрализованной сети](https://habr.com/ru/companies/ruvds/articles/761188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761188)
-- [[Перевод] Minetester: полностью открытое окружение для обучения с подкреплением, построенное на основе Minetest](https://habr.com/ru/companies/wunderfund/articles/764754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
