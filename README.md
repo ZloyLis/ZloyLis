@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;25.09 – 01.10.23&rpar;](https://habr.com/ru/articles/764910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764910)
+- [Проектирование отказоустойчивости IT-систем](https://habr.com/ru/articles/764904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764904)
+- [Сервисы: строим масштабируемые и гибкие приложения с помощью чистой архитектуры](https://habr.com/ru/articles/764900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764900)
 - [Security Week 2340: адаптер для смартфона с нулевой приватностью](https://habr.com/ru/companies/kaspersky/articles/764792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764792)
-- [FeathersJS: Быстрая навигация в мире Node.js и MongoDB](https://habr.com/ru/articles/764894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764894)
-- [Создание рекомендательных систем на основе анализа поведения пользователей на сайте](https://habr.com/ru/companies/otus/articles/764680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764680)
-- [От Kubernetes в мечтах к Kubernetes в проде. Часть 3. Доставка кода, GitOps, ArgoCD](https://habr.com/ru/companies/spbifmo/articles/764772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764772)
-- [Трансформером по A*, или как уменьшить число итераций самого известного алгоритма поиска пути](https://habr.com/ru/companies/airi/articles/764370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764370)
+- [Быстрая навигация по Feathers, фреймворк поверх Express](https://habr.com/ru/articles/764894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
