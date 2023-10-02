@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React Fiber &amp;amp; Concurrency Part 2 &lpar;2&rpar;](https://habr.com/ru/articles/764800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764800)
+- [Какого цвета интернет: история смены окраски веб-страницами](https://habr.com/ru/articles/764798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764798)
+- [Успешный успех успешных или снятся ли инфоцыганам инфобараны?](https://habr.com/ru/articles/764796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764796)
+- [Границы проекта в условиях «the roof is on fire»](https://habr.com/ru/companies/rshb/articles/764110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764110)
 - [Страх и ненависть в ГОСТ Р 51583-2014 &lpar;18+&rpar;](https://habr.com/ru/articles/764784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764784)
-- [ОБЗОР ОТЕЧЕСТВЕННЫХ КОМПЬЮТЕРНЫХ МОДУЛЕЙ ФОРМАТА SMARC](https://habr.com/ru/articles/764782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764782)
-- [Интегрируем Clickhouse в Zabbix](https://habr.com/ru/companies/jetinfosystems/articles/764776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764776)
-- [В чем разница между мидлом и сеньором](https://habr.com/ru/articles/764762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764762)
-- [Чем занимается AppSec? Безопасность внутренних веб-ресурсов](https://habr.com/ru/companies/vk/articles/764264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
