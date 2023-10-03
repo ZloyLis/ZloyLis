@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Может ли Java быть быстрой? Сравнение производительности Helidon Níma и Spring](https://habr.com/ru/articles/765050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765050)
+- [Пойди туда — не знаю куда: как оформить спецификацию, чтобы не запутаться самому и не выбесить коллег](https://habr.com/ru/companies/outlines_tech/articles/765034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765034)
 - [Пакет context в Go: взгляд профессионала](https://habr.com/ru/companies/pt/articles/764850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764850)
 - [В чем конечная цель программирования?](https://habr.com/ru/articles/765028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765028)
 - [Почему площадь некоторых треугольников не может быть равна 4? Конгруэнтные числа на переднем крае математики](https://habr.com/ru/companies/itglobalcom/articles/765018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765018)
-- [Как декораторы могут упростить разработку веб-форм](https://habr.com/ru/articles/764254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764254)
-- [Почему дизайн должен начинаться с исследования, даже когда всё очевидно](https://habr.com/ru/companies/sbermarket/articles/764804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
