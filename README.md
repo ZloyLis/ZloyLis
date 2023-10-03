@@ -26,8 +26,8 @@ ___
 - [Основы проектирования архитектуры простой социальной сети](https://habr.com/ru/companies/otus/articles/765014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765014)
 - [Расширенная гипотеза Коллатца, или проблема «nx+1» — часть I](https://habr.com/ru/articles/765128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765128)
 - [[Перевод] FIFO очередь asyncio в Python](https://habr.com/ru/articles/764932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764932)
-- [[Перевод] Эксплойт iPhone 4, часть 1: получение доступа](https://habr.com/ru/articles/765096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765096)
 - [Фэнтези и бизнес-показатели: как и во что менеджеры играют на работе](https://habr.com/ru/companies/alfa/articles/764974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764974)
+- [Тестирование смарт-контрактов в Foundry &lpar;часть 2&rpar;](https://habr.com/ru/articles/764668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
