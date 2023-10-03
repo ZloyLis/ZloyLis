@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 лет Docker: от революционной идеи до современной практики](https://habr.com/ru/companies/yandex_praktikum/articles/760076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760076)
+- [Compile Time Dependency Injection в С++: как обуздать зависимости не прибегая к позднему связыванию](https://habr.com/ru/articles/765080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765080)
 - [Обновление состояния системы через Server-Sent Events &lpar;SSE&rpar; без затей](https://habr.com/ru/articles/764656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764656)
 - [Что такое GraphQL](https://habr.com/ru/articles/765064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765064)
 - [[Перевод] Почему QA должен быть осведомлен об архитектуре проекта?](https://habr.com/ru/articles/765044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765044)
-- [Проектирование высокопроизводительных кэширующих решений с использованием Redis и Memcached](https://habr.com/ru/companies/otus/articles/764902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764902)
-- [Может ли Java быть быстрой? Сравнение производительности Helidon Níma и Spring](https://habr.com/ru/articles/765050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
