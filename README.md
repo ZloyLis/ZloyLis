@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [33 оттенка зелёного. Как мы проектировали темизированные палитры для внутренних интерфейсов Х5](https://habr.com/ru/companies/X5Tech/articles/764870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764870)
+- [Вы не так готовите Kingfisher, или как самураи работают с загрузкой изображений](https://habr.com/ru/articles/761772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761772)
+- [[Перевод] Собираем машину для стринг-арта](https://habr.com/ru/companies/cloud4y/articles/764868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764868)
 - [Год ожиданий — и мы получили Python 3.12. Изменения, новшества и дополнения](https://habr.com/ru/companies/selectel/articles/761914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761914)
 - [Подборка: 7 плагинов Figma для оптимизации дизайн-процессов](https://habr.com/ru/articles/764938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764938)
-- [C++ Дайджест №4 &lpar;18 сентября – 1 октября 2023&rpar;](https://habr.com/ru/articles/764922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764922)
-- [Apple Pro Weekly News &lpar;25.09 – 01.10.23&rpar;](https://habr.com/ru/articles/764910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764910)
-- [Проектирование отказоустойчивости IT-систем](https://habr.com/ru/articles/764904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
