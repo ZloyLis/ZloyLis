@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пакет context в Go: взгляд профессионала](https://habr.com/ru/companies/pt/articles/764850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764850)
+- [В чем конечная цель программирования?](https://habr.com/ru/articles/765028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765028)
 - [Почему площадь некоторых треугольников не может быть равна 4? Конгруэнтные числа на переднем крае математики](https://habr.com/ru/companies/itglobalcom/articles/765018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765018)
 - [Как декораторы могут упростить разработку веб-форм](https://habr.com/ru/articles/764254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764254)
 - [Почему дизайн должен начинаться с исследования, даже когда всё очевидно](https://habr.com/ru/companies/sbermarket/articles/764804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764804)
-- [33 оттенка зелёного. Как мы проектировали темизированные палитры для внутренних интерфейсов Х5](https://habr.com/ru/companies/X5Tech/articles/764870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764870)
-- [Вы не так готовите Kingfisher, или как самураи работают с загрузкой изображений](https://habr.com/ru/articles/761772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
