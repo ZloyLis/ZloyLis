@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Давайте наконец-то поймем кватернионы &lpar;объясняю суть, +видеоурок&rpar;](https://habr.com/ru/articles/757750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757750)
 - [Ключ к эффективности разработки: делать то, что нужно, но лишнего не делать](https://habr.com/ru/articles/765144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765144)
 - [Основы проектирования архитектуры простой социальной сети](https://habr.com/ru/companies/otus/articles/765014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765014)
 - [Расширенная гипотеза Коллатца, или проблема «nx+1» — часть I](https://habr.com/ru/articles/765128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765128)
 - [[Перевод] FIFO очередь asyncio в Python](https://habr.com/ru/articles/764932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764932)
-- [Фэнтези и бизнес-показатели: как и во что менеджеры играют на работе](https://habr.com/ru/companies/alfa/articles/764974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
