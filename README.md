@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему площадь некоторых треугольников не может быть равна 4? Конгруэнтные числа на переднем крае математики](https://habr.com/ru/companies/itglobalcom/articles/765018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765018)
+- [Как декораторы могут упростить разработку веб-форм](https://habr.com/ru/articles/764254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764254)
+- [Почему дизайн должен начинаться с исследования, даже когда всё очевидно](https://habr.com/ru/companies/sbermarket/articles/764804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764804)
 - [33 оттенка зелёного. Как мы проектировали темизированные палитры для внутренних интерфейсов Х5](https://habr.com/ru/companies/X5Tech/articles/764870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764870)
 - [Вы не так готовите Kingfisher, или как самураи работают с загрузкой изображений](https://habr.com/ru/articles/761772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761772)
-- [[Перевод] Собираем машину для стринг-арта](https://habr.com/ru/companies/cloud4y/articles/764868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764868)
-- [Год ожиданий — и мы получили Python 3.12. Изменения, новшества и дополнения](https://habr.com/ru/companies/selectel/articles/761914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761914)
-- [Подборка: 7 плагинов Figma для оптимизации дизайн-процессов](https://habr.com/ru/articles/764938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
