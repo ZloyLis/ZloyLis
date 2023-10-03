@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эксплойт iPhone 4, часть 1: получение доступа](https://habr.com/ru/articles/765096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765096)
 - [Фэнтези и бизнес-показатели: как и во что менеджеры играют на работе](https://habr.com/ru/companies/alfa/articles/764974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764974)
 - [Тестирование смарт-контрактов в Foundry &lpar;часть 2&rpar;](https://habr.com/ru/articles/764668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764668)
 - [Делаем простые отчеты в CI с помощью GitLab Pages для Playwright](https://habr.com/ru/companies/selectel/articles/765012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765012)
 - [Через тернии к… автоматической экспертизе цифровой информационной модели](https://habr.com/ru/companies/nanosoft/articles/765084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765084)
-- [10 лет Docker: от революционной идеи до современной практики](https://habr.com/ru/companies/yandex_praktikum/articles/760076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
