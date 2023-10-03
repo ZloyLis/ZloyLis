@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление состояния системы через Server-Sent Events &lpar;SSE&rpar; без затей](https://habr.com/ru/articles/764656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764656)
+- [Что такое GraphQL](https://habr.com/ru/articles/765064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765064)
+- [[Перевод] Почему QA должен быть осведомлен об архитектуре проекта?](https://habr.com/ru/articles/765044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765044)
+- [Проектирование высокопроизводительных кэширующих решений с использованием Redis и Memcached](https://habr.com/ru/companies/otus/articles/764902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764902)
 - [Может ли Java быть быстрой? Сравнение производительности Helidon Níma и Spring](https://habr.com/ru/articles/765050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765050)
-- [Пойди туда — не знаю куда: как оформить спецификацию, чтобы не запутаться самому и не выбесить коллег](https://habr.com/ru/companies/outlines_tech/articles/765034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765034)
-- [Пакет context в Go: взгляд профессионала](https://habr.com/ru/companies/pt/articles/764850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764850)
-- [В чем конечная цель программирования?](https://habr.com/ru/articles/765028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765028)
-- [Почему площадь некоторых треугольников не может быть равна 4? Конгруэнтные числа на переднем крае математики](https://habr.com/ru/companies/itglobalcom/articles/765018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
