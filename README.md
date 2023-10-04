@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запуск потенциально опасного кода в изолированном окружении. Как мы сохраняем безопасность на macOS](https://habr.com/ru/companies/avito/articles/765008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765008)
+- [Кулинарный гид по Vue.js: всё о props](https://habr.com/ru/companies/simbirsoft/articles/765024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765024)
 - [Конкурс: можно ли написать быструю программу на C/C++?](https://habr.com/ru/articles/765234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765234)
 - [В борьбе со сложностью, или Как обуздать лог-экспоненциальный алгоритм &lpar;со ссылкой на код&rpar;](https://habr.com/ru/companies/m2tech/articles/765040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765040)
 - [Детекция дефектов дорожного покрытия без размеченных данных: Хакатон, LiDAR, RANSAC, ICP и 44 бесcонных часов](https://habr.com/ru/articles/765230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765230)
-- [Renga STDL: краткий обзор языка для расширения функциональности программы Renga](https://habr.com/ru/companies/ascon/articles/765010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765010)
-- [Как я статистику git парсил](https://habr.com/ru/articles/763342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
