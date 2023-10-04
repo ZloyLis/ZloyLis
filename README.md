@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конкурс: можно ли написать быструю программу на C/C++?](https://habr.com/ru/articles/765234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765234)
+- [В борьбе со сложностью, или Как обуздать лог-экспоненциальный алгоритм &lpar;со ссылкой на код&rpar;](https://habr.com/ru/companies/m2tech/articles/765040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765040)
+- [Детекция дефектов дорожного покрытия без размеченных данных: Хакатон, LiDAR, RANSAC, ICP и 44 бесcонных часов](https://habr.com/ru/articles/765230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765230)
+- [Renga STDL: краткий обзор языка для расширения функциональности программы Renga](https://habr.com/ru/companies/ascon/articles/765010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765010)
 - [Как я статистику git парсил](https://habr.com/ru/articles/763342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763342)
-- [Библиотека Scout — быстрый и безопасный DI на Kotlin](https://habr.com/ru/companies/yandex/articles/764920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764920)
-- [ПЛК Mitsubishi: как разобрать сетевой протокол и найти уязвимости в устройстве без использования прошивки](https://habr.com/ru/companies/oleg-bunin/articles/764068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764068)
-- [Вышел Chipmunk.v3](https://habr.com/ru/articles/764936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764936)
-- [[Перевод] Реализация отражений и преломлений света в трассировщике &lpar;Введение в трассировку лучей — часть 5&rpar;](https://habr.com/ru/articles/765196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
