@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang: как найти мёртвый код в проекте, а заодно оценить покрытие тестами живого кода](https://habr.com/ru/companies/karuna/articles/764326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764326)
 - [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765264)
 - [Как коридорное исследование помогло обновить каунтеры тредов в мессенджере](https://habr.com/ru/companies/webinargroup/articles/765258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765258)
 - [Как типизировать Vuex Store](https://habr.com/ru/articles/765164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765164)
 - [Запуск потенциально опасного кода в изолированном окружении. Как мы сохраняем безопасность на macOS](https://habr.com/ru/companies/avito/articles/765008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765008)
-- [Эволюция структур данных в языках программирования](https://habr.com/ru/articles/765240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
