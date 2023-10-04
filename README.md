@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Давайте наконец-то поймем кватернионы &lpar;объясняю суть, +видеоурок&rpar;](https://habr.com/ru/articles/757750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757750)
+- [Сказка про собес наоборот](https://habr.com/ru/articles/765174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765174)
 - [Ключ к эффективности разработки: делать то, что нужно, но лишнего не делать](https://habr.com/ru/articles/765144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765144)
 - [Основы проектирования архитектуры простой социальной сети](https://habr.com/ru/companies/otus/articles/765014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765014)
 - [Расширенная гипотеза Коллатца, или проблема «nx+1» — часть I](https://habr.com/ru/articles/765128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765128)
