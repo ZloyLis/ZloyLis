@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Реализация отражений и преломлений света в трассировщике &lpar;Введение в трассировку лучей — часть 5&rpar;](https://habr.com/ru/articles/765196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765196)
 - [Сказка про собес наоборот](https://habr.com/ru/articles/765174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765174)
 - [Ключ к эффективности разработки: делать то, что нужно, но лишнего не делать](https://habr.com/ru/articles/765144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765144)
 - [Основы проектирования архитектуры простой социальной сети](https://habr.com/ru/companies/otus/articles/765014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765014)
 - [Расширенная гипотеза Коллатца, или проблема «nx+1» — часть I](https://habr.com/ru/articles/765128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765128)
-- [[Перевод] FIFO очередь asyncio в Python](https://habr.com/ru/articles/764932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
