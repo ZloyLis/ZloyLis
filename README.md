@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765264)
+- [Как коридорное исследование помогло обновить каунтеры тредов в мессенджере](https://habr.com/ru/companies/webinargroup/articles/765258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765258)
+- [Как типизировать Vuex Store](https://habr.com/ru/articles/765164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765164)
 - [Запуск потенциально опасного кода в изолированном окружении. Как мы сохраняем безопасность на macOS](https://habr.com/ru/companies/avito/articles/765008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765008)
-- [Кулинарный гид по Vue.js: всё о props](https://habr.com/ru/companies/simbirsoft/articles/765024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765024)
-- [Конкурс: можно ли написать быструю программу на C/C++?](https://habr.com/ru/articles/765234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765234)
-- [В борьбе со сложностью, или Как обуздать лог-экспоненциальный алгоритм &lpar;со ссылкой на код&rpar;](https://habr.com/ru/companies/m2tech/articles/765040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765040)
-- [Детекция дефектов дорожного покрытия без размеченных данных: Хакатон, LiDAR, RANSAC, ICP и 44 бесcонных часов](https://habr.com/ru/articles/765230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765230)
+- [Эволюция структур данных в языках программирования](https://habr.com/ru/articles/765240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
