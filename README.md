@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я статистику git парсил](https://habr.com/ru/articles/763342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763342)
 - [Библиотека Scout — быстрый и безопасный DI на Kotlin](https://habr.com/ru/companies/yandex/articles/764920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764920)
 - [ПЛК Mitsubishi: как разобрать сетевой протокол и найти уязвимости в устройстве без использования прошивки](https://habr.com/ru/companies/oleg-bunin/articles/764068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764068)
 - [Вышел Chipmunk.v3](https://habr.com/ru/articles/764936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764936)
 - [[Перевод] Реализация отражений и преломлений света в трассировщике &lpar;Введение в трассировку лучей — часть 5&rpar;](https://habr.com/ru/articles/765196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765196)
-- [Сказка про собес наоборот](https://habr.com/ru/articles/765174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
