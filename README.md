@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Библиотека Scout — быстрый и безопасный DI на Kotlin](https://habr.com/ru/companies/yandex/articles/764920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764920)
+- [ПЛК Mitsubishi: как разобрать сетевой протокол и найти уязвимости в устройстве без использования прошивки](https://habr.com/ru/companies/oleg-bunin/articles/764068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764068)
+- [Вышел Chipmunk.v3](https://habr.com/ru/articles/764936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764936)
 - [[Перевод] Реализация отражений и преломлений света в трассировщике &lpar;Введение в трассировку лучей — часть 5&rpar;](https://habr.com/ru/articles/765196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765196)
 - [Сказка про собес наоборот](https://habr.com/ru/articles/765174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765174)
-- [Ключ к эффективности разработки: делать то, что нужно, но лишнего не делать](https://habr.com/ru/articles/765144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765144)
-- [Основы проектирования архитектуры простой социальной сети](https://habr.com/ru/companies/otus/articles/765014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765014)
-- [Расширенная гипотеза Коллатца, или проблема «nx+1» — часть I](https://habr.com/ru/articles/765128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
