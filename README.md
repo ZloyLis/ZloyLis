@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Выделение регионов памяти в C++: советы и приёмы](https://habr.com/ru/articles/765420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765420)
 - [Логистика. Часть 5. Управление доходами, или первый шаг к нестингу](https://habr.com/ru/articles/765392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765392)
 - [Проблемы современного программного обеспечения — невозможность отключения «ненужного функционала»](https://habr.com/ru/articles/765384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765384)
 - [Как подружить бизнес и процессы](https://habr.com/ru/companies/tinkoff/articles/765382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765382)
 - [Приглашаем на Cinimex DEV meetup: ИТ-событие для разработчиков &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/765330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765330)
-- [[Перевод] Извлечение текста из файлов PDF при помощи Python](https://habr.com/ru/companies/ruvds/articles/765246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
