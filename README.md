@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python, Go или… готовим сырой видеопоток с полсотни камер](https://habr.com/ru/companies/magnus-tech/articles/765218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765218)
+- [Как мы тестировали совместимость dBrain с отечественными дистрибутивами](https://habr.com/ru/companies/dbraincloud/articles/765520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765520)
+- [Упрощаем работу с Excel с помошью Apache POI: готовый шаблонных код](https://habr.com/ru/articles/765332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765332)
+- [Пишем АПИ автотесты на Python по шагам](https://habr.com/ru/articles/765512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765512)
 - [Как я делал бюджетное устройство мониторинга качества среды и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/765306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765306)
-- [Поднимаем собственный узел в анонимной сети Hidden Lake](https://habr.com/ru/articles/765464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765464)
-- [Как мы используем NLP в банке](https://habr.com/ru/companies/gazprombank/articles/765352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765352)
-- [Современное состояние инструментов поиска утечек памяти](https://habr.com/ru/articles/765472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765472)
-- [Нейронные сети для планирования движения беспилотных автомобилей](https://habr.com/ru/companies/yandex/articles/763348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
