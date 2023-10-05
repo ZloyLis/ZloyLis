@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [7 золотых правил наставника в IT. Или первый раз в новый класс](https://habr.com/ru/articles/765376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765376)
 - [[Перевод] DataOps — Развеивание тайн — Часть 5](https://habr.com/ru/articles/765640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765640)
+- [Зачем грузовой компании идти в разработку — опыт ПГК](https://habr.com/ru/companies/pgk/articles/765638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765638)
 - [[Перевод] В нас нет ничего особенного](https://habr.com/ru/companies/ispsystem/articles/765612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765612)
 - [Код-ревью и советы по повышению его качества: на что обратить внимание в первую очередь?](https://habr.com/ru/companies/ru_mts/articles/765588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765588)
-- [[Перевод] Реализация случайности в CSS при помощи тригонометрии](https://habr.com/ru/companies/qiwi/articles/765596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
