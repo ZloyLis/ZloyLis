@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [7 золотых правил наставника в IT. Или первый раз в новый класс](https://habr.com/ru/articles/765376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765376)
+- [[Перевод] DataOps — Развеивание тайн — Часть 5](https://habr.com/ru/articles/765640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765640)
 - [[Перевод] В нас нет ничего особенного](https://habr.com/ru/companies/ispsystem/articles/765612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765612)
 - [Код-ревью и советы по повышению его качества: на что обратить внимание в первую очередь?](https://habr.com/ru/companies/ru_mts/articles/765588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765588)
 - [[Перевод] Реализация случайности в CSS при помощи тригонометрии](https://habr.com/ru/companies/qiwi/articles/765596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765596)
-- [Как работает ИТ- консалтинг при создании приложений для спорта](https://habr.com/ru/articles/765576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765576)
-- [Совершенствуем развертывание приложений в Kubernetes с помощью Canary Deployment](https://habr.com/ru/companies/otus/articles/765560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
