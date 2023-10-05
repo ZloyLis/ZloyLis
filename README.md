@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я делал бюджетное устройство мониторинга качества среды и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/765306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765306)
+- [Поднимаем собственный узел в анонимной сети Hidden Lake](https://habr.com/ru/articles/765464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765464)
+- [Как мы используем NLP в банке](https://habr.com/ru/companies/gazprombank/articles/765352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765352)
 - [Современное состояние инструментов поиска утечек памяти](https://habr.com/ru/articles/765472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765472)
 - [Нейронные сети для планирования движения беспилотных автомобилей](https://habr.com/ru/companies/yandex/articles/763348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763348)
-- [Статистика QA вакансий и резюме. Сентябрь 2023](https://habr.com/ru/articles/765254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765254)
-- [Автоматизация разработки с помощью подхода DB-first](https://habr.com/ru/articles/765446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765446)
-- [[Перевод] Я до последнего буду защищать сильную статическую типизацию](https://habr.com/ru/articles/765400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
