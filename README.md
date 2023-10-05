@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Реализация случайности в CSS при помощи тригонометрии](https://habr.com/ru/companies/qiwi/articles/765596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765596)
+- [Как работает ИТ- консалтинг при создании приложений для спорта](https://habr.com/ru/articles/765576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765576)
 - [Совершенствуем развертывание приложений в Kubernetes с помощью Canary Deployment](https://habr.com/ru/companies/otus/articles/765560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765560)
 - [Миграция конфигурации сборки с Groovy на Kotlin](https://habr.com/ru/companies/ppr/articles/765544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765544)
 - [Регулярные выражения в реальных задачах](https://habr.com/ru/companies/rosbank/articles/765538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765538)
-- [Настройка Nginx multiple reverse proxy для k3s+istio](https://habr.com/ru/articles/765536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765536)
-- [Heretic: full stack фреймворк на основе Marko.js](https://habr.com/ru/articles/764888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
