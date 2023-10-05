@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современное состояние инструментов поиска утечек памяти](https://habr.com/ru/articles/765472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765472)
+- [Нейронные сети для планирования движения беспилотных автомобилей](https://habr.com/ru/companies/yandex/articles/763348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763348)
 - [Статистика QA вакансий и резюме. Сентябрь 2023](https://habr.com/ru/articles/765254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765254)
 - [Автоматизация разработки с помощью подхода DB-first](https://habr.com/ru/articles/765446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765446)
 - [[Перевод] Я до последнего буду защищать сильную статическую типизацию](https://habr.com/ru/articles/765400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765400)
-- [«Чистый» код, нет проблем с производительностью. &lpar;плюс анекдот&rpar;](https://habr.com/ru/articles/764898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764898)
-- [[Перевод] Выделение регионов памяти в C++: советы и приёмы](https://habr.com/ru/articles/765420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
