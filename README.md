@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Регулярные выражения в реальных задачах](https://habr.com/ru/companies/rosbank/articles/765538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765538)
+- [Настройка Nginx multiple reverse proxy для k3s+istio](https://habr.com/ru/articles/765536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765536)
+- [Heretic: full stack фреймворк на основе Marko.js](https://habr.com/ru/articles/764888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764888)
 - [Python, Go или… готовим сырой видеопоток с полсотни камер](https://habr.com/ru/companies/magnus-tech/articles/765218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765218)
 - [Как мы тестировали совместимость dBrain с отечественными дистрибутивами](https://habr.com/ru/companies/dbraincloud/articles/765520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765520)
-- [Упрощаем работу с Excel с помошью Apache POI: готовый шаблонных код](https://habr.com/ru/articles/765332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765332)
-- [Пишем АПИ автотесты на Python по шагам](https://habr.com/ru/articles/765512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765512)
-- [Как я делал бюджетное устройство мониторинга качества среды и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/765306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
