@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совершенствуем развертывание приложений в Kubernetes с помощью Canary Deployment](https://habr.com/ru/companies/otus/articles/765560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765560)
+- [Миграция конфигурации сборки с Groovy на Kotlin](https://habr.com/ru/companies/ppr/articles/765544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765544)
 - [Регулярные выражения в реальных задачах](https://habr.com/ru/companies/rosbank/articles/765538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765538)
 - [Настройка Nginx multiple reverse proxy для k3s+istio](https://habr.com/ru/articles/765536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765536)
 - [Heretic: full stack фреймворк на основе Marko.js](https://habr.com/ru/articles/764888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764888)
-- [Python, Go или… готовим сырой видеопоток с полсотни камер](https://habr.com/ru/companies/magnus-tech/articles/765218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765218)
-- [Как мы тестировали совместимость dBrain с отечественными дистрибутивами](https://habr.com/ru/companies/dbraincloud/articles/765520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
