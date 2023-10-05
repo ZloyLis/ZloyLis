@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Статистика QA вакансий и резюме. Сентябрь 2023](https://habr.com/ru/articles/765254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765254)
+- [Автоматизация разработки с помощью подхода DB-first](https://habr.com/ru/articles/765446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765446)
+- [[Перевод] Я до последнего буду защищать сильную статическую типизацию](https://habr.com/ru/articles/765400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765400)
+- [«Чистый» код, нет проблем с производительностью. &lpar;плюс анекдот&rpar;](https://habr.com/ru/articles/764898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764898)
 - [[Перевод] Выделение регионов памяти в C++: советы и приёмы](https://habr.com/ru/articles/765420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765420)
-- [Логистика. Часть 5. Управление доходами, или первый шаг к нестингу](https://habr.com/ru/articles/765392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765392)
-- [Проблемы современного программного обеспечения — невозможность отключения «ненужного функционала»](https://habr.com/ru/articles/765384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765384)
-- [Как подружить бизнес и процессы](https://habr.com/ru/companies/tinkoff/articles/765382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765382)
-- [Приглашаем на Cinimex DEV meetup: ИТ-событие для разработчиков &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/765330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
