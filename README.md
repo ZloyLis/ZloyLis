@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Юриспруденция и программирование: что общего?](https://habr.com/ru/articles/765716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765716)
-- [Cloud Native или cloud-native: как мы разбирались с написанием термина и почему Open Source тоже пишут без дефиса](https://habr.com/ru/companies/flant/articles/765692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765692)
-- [Android Ktorfit+Compose](https://habr.com/ru/articles/765416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765416)
-- [Java Digest #5](https://habr.com/ru/companies/tinkoff/articles/765554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765554)
-- [Интересный способ выделиться при поиске работы](https://habr.com/ru/articles/765686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765686)
+- [Как НЕ НУЖНО делать, если хотите запустить свой курс и не зачастить к психотерапевту](https://habr.com/ru/articles/765738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765738)
+- [[Перевод] Модификаторы классов для сопровождающих API](https://habr.com/ru/articles/765736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765736)
+- [[Перевод] Дорогая, я уменьшил пакет npm](https://habr.com/ru/companies/cloud4y/articles/765602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765602)
+- [Миграция с Webpack и react-scripts на Vite: Путь к Быстрому и Легковесному React](https://habr.com/ru/articles/765734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765734)
+- [Elementary Geometric Reduction](https://habr.com/ru/articles/765732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
