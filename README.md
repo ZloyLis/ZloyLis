@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Digest #5](https://habr.com/ru/companies/tinkoff/articles/765554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765554)
 - [Интересный способ выделиться при поиске работы](https://habr.com/ru/articles/765686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765686)
 - [Как по комментариям в технической публикации можно узнать многое о комментаторе](https://habr.com/ru/articles/765654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765654)
 - [Первый раз в новый класс. 7 золотых правил наставника в IT](https://habr.com/ru/articles/765376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765376)
 - [[Перевод] DataOps — Развеивание тайн — Часть 5](https://habr.com/ru/articles/765640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765640)
-- [Зачем грузовой компании идти в разработку — опыт ПГК](https://habr.com/ru/companies/pgk/articles/765638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
