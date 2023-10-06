@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск ошибок в проектах на основе Unreal Engine](https://habr.com/ru/companies/pvs-studio/articles/765756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765756)
+- [Apache Spark и PySpark для аналитика. Учимся читать и понимать план запроса в SparkUI](https://habr.com/ru/companies/avito/articles/764996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764996)
+- [Калибровка магнитометра: через вращения к компасу](https://habr.com/ru/companies/whoosh/articles/765628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765628)
+- [Программирование «за гранью»: неочевидные приемы и фишки. Почему ими не пользуются?](https://habr.com/ru/articles/765746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765746)
 - [Как НЕ НУЖНО делать, если хотите запустить свой курс и не зачастить к психотерапевту](https://habr.com/ru/articles/765738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765738)
-- [[Перевод] Модификаторы классов для сопровождающих API](https://habr.com/ru/articles/765736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765736)
-- [[Перевод] Дорогая, я уменьшил пакет npm](https://habr.com/ru/companies/cloud4y/articles/765602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765602)
-- [Миграция с Webpack и react-scripts на Vite: Путь к Быстрому и Легковесному React](https://habr.com/ru/articles/765734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765734)
-- [Elementary Geometric Reduction](https://habr.com/ru/articles/765732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
