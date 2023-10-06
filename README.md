@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вглубь std::unordered_map: магические числа](https://habr.com/ru/articles/765760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765760)
 - [Поиск ошибок в проектах на основе Unreal Engine](https://habr.com/ru/companies/pvs-studio/articles/765756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765756)
 - [Apache Spark и PySpark для аналитика. Учимся читать и понимать план запроса в SparkUI](https://habr.com/ru/companies/avito/articles/764996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764996)
 - [Калибровка магнитометра: через вращения к компасу](https://habr.com/ru/companies/whoosh/articles/765628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765628)
-- [Программирование «за гранью»: неочевидные приемы и фишки. Почему ими не пользуются?](https://habr.com/ru/articles/765746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765746)
-- [Как НЕ НУЖНО делать, если хотите запустить свой курс и не зачастить к психотерапевту](https://habr.com/ru/articles/765738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765738)
+- [Программирование «за гранью»: неочевидные приемы и фишки. Почему ими не пользуются? Джунам на заметку](https://habr.com/ru/articles/765746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
