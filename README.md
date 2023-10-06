@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 10 рекомендаций по VS Code для повышения продуктивности](https://habr.com/ru/companies/ruvds/articles/765182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765182)
+- [[Перевод] Принципы работы интегрированных сред разработки](https://habr.com/ru/companies/piter/articles/765822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765822)
 - [Цифровые инструменты управления надежностью](https://habr.com/ru/companies/bimeister/articles/765816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765816)
 - [Чтение на выходные: «Идеальный программист» Роберта Мартина](https://habr.com/ru/companies/onlinepatent/articles/765814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765814)
 - [Вредные советы](https://habr.com/ru/articles/765812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765812)
-- [[Перевод] Баг памяти Windows, которому не менее восьми лет](https://habr.com/ru/articles/765788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765788)
-- [Accessibility картинок. Как сделать изображения доступными?](https://habr.com/ru/companies/vk/articles/765764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
