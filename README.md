@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цифровые инструменты управления надежностью](https://habr.com/ru/companies/bimeister/articles/765816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765816)
+- [Чтение на выходные: «Идеальный программист» Роберта Мартина](https://habr.com/ru/companies/onlinepatent/articles/765814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765814)
+- [Вредные советы](https://habr.com/ru/articles/765812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765812)
+- [[Перевод] Баг памяти Windows, которому не менее восьми лет](https://habr.com/ru/articles/765788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765788)
 - [Accessibility картинок. Как сделать изображения доступными?](https://habr.com/ru/companies/vk/articles/765764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765764)
-- [Как мы в VK Cloud SDN-ы писали](https://habr.com/ru/companies/vk/articles/763760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763760)
-- [Готовый набор golang линтеров &lpar;джунам и мидлам&rpar;](https://habr.com/ru/articles/765784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765784)
-- [Функциональное программирование в Python: ежедневные рецепты](https://habr.com/ru/companies/kaspersky/articles/762788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762788)
-- [Вглубь std::unordered_map: магические числа](https://habr.com/ru/articles/765760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
