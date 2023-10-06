@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я пытался писать красивый код](https://habr.com/ru/articles/765870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765870)
+- [Платформа инвестиционного бизнеса. Как устроена IPS в РСХБ](https://habr.com/ru/companies/rshb/articles/765838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765838)
 - [[Перевод] 10 рекомендаций по VS Code для повышения продуктивности](https://habr.com/ru/companies/ruvds/articles/765182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765182)
 - [[Перевод] Принципы работы интегрированных сред разработки](https://habr.com/ru/companies/piter/articles/765822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765822)
 - [Цифровые инструменты управления надежностью](https://habr.com/ru/companies/bimeister/articles/765816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765816)
-- [Чтение на выходные: «Идеальный программист» Роберта Мартина](https://habr.com/ru/companies/onlinepatent/articles/765814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765814)
-- [Вредные советы](https://habr.com/ru/articles/765812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
