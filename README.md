@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уберите это немедленно! Про некоторые интерфейсные элементы мобильных страниц](https://habr.com/ru/articles/765974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765974)
 - [Учимся бесплатно деплоить Java &lpar;и не только&rpar; приложения &lpar;Docker, CircleCI, Google Cloud&rpar;](https://habr.com/ru/articles/765952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765952)
 - [IMSProg — программатор для CH341a в Linux](https://habr.com/ru/articles/765970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765970)
 - [Тестирование смарт-контрактов в Foundry &lpar;часть 3&rpar;](https://habr.com/ru/articles/765266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765266)
 - [Сравнение своей игры с заработавшей миллиард долларов](https://habr.com/ru/articles/765966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765966)
-- [[Перевод] Событийное моделирование традиционных систем](https://habr.com/ru/articles/765960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
