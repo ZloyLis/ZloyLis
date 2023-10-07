@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Rust 1.73.0: очищение сообщений о панике, изменение в работе с локальными данными потока](https://habr.com/ru/articles/765890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765890)
+- [[Перевод] Rust 1.73.0: новый формат сообщений о панике, изменение в работе с локальными данными потока](https://habr.com/ru/articles/765890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765890)
 - [Зачем собирать номера телефонов клиентов и как сделать это экологично](https://habr.com/ru/companies/newtel/articles/765880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765880)
 - [Как я пытался писать красивый код](https://habr.com/ru/articles/765870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765870)
 - [Платформа инвестиционного бизнеса. Как устроена IPS в РСХБ](https://habr.com/ru/companies/rshb/articles/765838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765838)
