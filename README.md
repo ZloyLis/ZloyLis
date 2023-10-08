@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Поток на ядро](https://habr.com/ru/articles/766028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766028)
+- [3. Симулятор Симона. Поиграемся с графиками](https://habr.com/ru/articles/766050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766050)
 - [От нуля до фронтендера &lpar;о своем пути простыми словами&rpar;](https://habr.com/ru/articles/766026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766026)
 - [Как сделать свой сервер мобильному разработчику, если он никогда такого не делал?](https://habr.com/ru/articles/764790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764790)
 - [Уберите это немедленно! Интерфейсные элементы мобильных страниц, которые реально раздражают](https://habr.com/ru/articles/765974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765974)
