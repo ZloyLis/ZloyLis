@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyper: Chance. Этап 0. Знакомство](https://habr.com/ru/articles/766062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766062)
+- [Нужны ли камерам смартфонов 12-битные АЦП, или мой провальный эксперимент](https://habr.com/ru/articles/766056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766056)
 - [3. Симулятор Симона. Поиграемся с графиками](https://habr.com/ru/articles/766050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766050)
 - [От нуля до фронтендера &lpar;о своем пути простыми словами&rpar;](https://habr.com/ru/articles/766026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766026)
 - [Как сделать свой сервер мобильному разработчику, если он никогда такого не делал?](https://habr.com/ru/articles/764790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764790)
-- [Уберите это немедленно! Интерфейсные элементы мобильных страниц, которые реально раздражают](https://habr.com/ru/articles/765974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765974)
-- [Учимся бесплатно деплоить Java &lpar;и не только&rpar; приложения &lpar;Docker, CircleCI, Google Cloud&rpar;](https://habr.com/ru/articles/765952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
