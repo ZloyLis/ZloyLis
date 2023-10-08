@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Так в чём же конечная цель программирования?](https://habr.com/ru/articles/766088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766088)
 - [Hyper: Chance. Этап 0. Знакомство](https://habr.com/ru/articles/766062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766062)
 - [Нужны ли камерам смартфонов 12-битные АЦП, или мой провальный эксперимент](https://habr.com/ru/articles/766056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766056)
 - [3. Симулятор Симона. Поиграемся с графиками](https://habr.com/ru/articles/766050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766050)
 - [От нуля до фронтендера &lpar;о своем пути простыми словами&rpar;](https://habr.com/ru/articles/766026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766026)
-- [Как сделать свой сервер мобильному разработчику, если он никогда такого не делал?](https://habr.com/ru/articles/764790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
