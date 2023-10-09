@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Murena 2: ещё один смартфон с акцентом на безопасность пользовательских данных. Что это за девайс?](https://habr.com/ru/companies/ru_mts/articles/766260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766260)
 - [Code review: почему мы до сих пор его используем и какие альтернативы?](https://habr.com/ru/articles/766230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766230)
 - [Kodein DI для Android. KMP и Compose](https://habr.com/ru/companies/dododev/articles/766058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766058)
 - [Почему код, который мы пишем — убивает людей?](https://habr.com/ru/articles/766196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766196)
 - [[Перевод] Микросервисы победили. Или не совсем](https://habr.com/ru/companies/haulmont/articles/766188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766188)
-- [Моделирование нелинейных функций и ограничений в задачах линейного программирования](https://habr.com/ru/articles/765116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
