@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kodein DI для Android. KMP и Compose](https://habr.com/ru/companies/dododev/articles/766058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766058)
+- [Почему код, который мы пишем — убивает людей?](https://habr.com/ru/articles/766196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766196)
+- [[Перевод] Микросервисы победили. Или не совсем](https://habr.com/ru/companies/haulmont/articles/766188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766188)
+- [Моделирование нелинейных функций и ограничений в задачах линейного программирования](https://habr.com/ru/articles/765116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765116)
 - [Pixel Quest: путь от прототипа до первого игрового заведения](https://habr.com/ru/articles/766054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766054)
-- [Разбираем TLS по байтам. Часть 2: где собаки зарыты](https://habr.com/ru/companies/timeweb/articles/764260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764260)
-- [[Перевод] Как развернуть PostgreSQL в Kubernetes](https://habr.com/ru/companies/slurm/articles/766122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766122)
-- [Как внедрить гайд по стилю кода в проект](https://habr.com/ru/companies/yandex_praktikum/articles/765578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765578)
-- [Создание шаблонов сайта в Joomla 4+](https://habr.com/ru/articles/760850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
