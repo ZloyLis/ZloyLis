@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как внедрить гайд по стилю кода в проект](https://habr.com/ru/companies/yandex_praktikum/articles/765578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765578)
+- [Создание шаблонов сайта в Joomla 4+](https://habr.com/ru/articles/760850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760850)
+- [Как я упростил свою работу тестировщика](https://habr.com/ru/companies/mvideo/articles/766128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766128)
 - [PHP и Laravel дайджест новостей за сентябрь 2023 года](https://habr.com/ru/articles/765982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765982)
 - [Prometheus + Loki + Grafana: отслеживаем состояния k8s и запущенных в нём приложении](https://habr.com/ru/articles/766102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766102)
-- [[Перевод] 10 лучших практик логирования в Python](https://habr.com/ru/articles/766010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766010)
-- [Мобильная разработка за неделю #509 &lpar;02 — 08 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/766116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766116)
-- [Дообучение ruGPT-3.5 13B с LoRA](https://habr.com/ru/articles/766096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
