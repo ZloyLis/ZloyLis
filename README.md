@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #509 &lpar;02 — 08 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/766116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766116)
 - [Дообучение ruGPT-3.5 13B с LoRA](https://habr.com/ru/articles/766096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766096)
 - [Так в чём же конечная цель программирования?](https://habr.com/ru/articles/766088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766088)
 - [Hyper: Chance. Этап 0. Знакомство](https://habr.com/ru/articles/766062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766062)
 - [Нужны ли камерам смартфонов 12-битные АЦП, или мой провальный эксперимент](https://habr.com/ru/articles/766056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766056)
-- [3. Симулятор Симона. Поиграемся с графиками](https://habr.com/ru/articles/766050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
