@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [О точности вычислений: как не потерять данные в цифровом шуме](https://habr.com/ru/articles/766294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766294)
-- [Почему инфраструктура big tech обычно состоит из самописных решений](https://habr.com/ru/companies/yandex/articles/761946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761946)
-- [Как ответить на вопрос «Когда будет готово?» на основе статистики](https://habr.com/ru/companies/tinkoff/articles/766252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766252)
-- [Apple Pro Weekly News &lpar;02.10 – 08.10.23&rpar;](https://habr.com/ru/articles/766338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766338)
-- [Оценка эффективности бизнес-моделей через анализ данных: от ROI до стоимости привлечения клиентов](https://habr.com/ru/companies/otus/articles/766178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766178)
+- [Прокачиваем вёрстку ARIA атрибутами. Атрибут aria-label](https://habr.com/ru/companies/ruvds/articles/764670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764670)
+- [Топ некритичных ошибок в инфраструктуре, приводящих к критичным проблемам](https://habr.com/ru/companies/oleg-bunin/articles/766288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766288)
+- [[Перевод] Масштабируем стриминг c помощью Kubernetes и RabbitMQ](https://habr.com/ru/articles/766432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766432)
+- [Ключевые навыки для развития во frontend разработке](https://habr.com/ru/articles/766444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766444)
+- [Касты при наследовании в C++: читаем стандарт](https://habr.com/ru/articles/766436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
