@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучаем Q#. Делаем реализацию биноминального распределения](https://habr.com/ru/articles/766512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766512)
+- [Книга «Грокаем функциональное программирование»](https://habr.com/ru/companies/piter/articles/764210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764210)
 - [Как тестировщику уйти из корпорации в стартап и не сойти с ума](https://habr.com/ru/articles/766492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766492)
 - [Что быстрее: Animated + useNativeDriver или Reanimated?](https://habr.com/ru/companies/sbermarket/articles/765338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765338)
 - [Ускоряем разработку новых фич: как я написал плагин кодогенерации для Protobuf](https://habr.com/ru/companies/yandex_praktikum/articles/765568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765568)
-- [Прокачиваем вёрстку ARIA атрибутами. Атрибут aria-label](https://habr.com/ru/companies/ruvds/articles/764670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764670)
-- [Топ некритичных ошибок в инфраструктуре, приводящих к критичным проблемам](https://habr.com/ru/companies/oleg-bunin/articles/766288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
