@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему инфраструктура big tech обычно состоит из самописных решений](https://habr.com/ru/companies/yandex/articles/761946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761946)
+- [Как ответить на вопрос «Когда будет готово?» на основе статистики](https://habr.com/ru/companies/tinkoff/articles/766252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766252)
 - [Apple Pro Weekly News &lpar;02.10 – 08.10.23&rpar;](https://habr.com/ru/articles/766338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766338)
 - [Оценка эффективности бизнес-моделей через анализ данных: от ROI до стоимости привлечения клиентов](https://habr.com/ru/companies/otus/articles/766178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766178)
 - [Security Week 2341: стабилизация видео как средство подслушивания](https://habr.com/ru/companies/kaspersky/articles/766246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766246)
-- [Тестирование смарт-контрактов в Foundry &lpar;часть 4&rpar; &lpar;Fuzz-тестирование!&rpar;](https://habr.com/ru/articles/766078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766078)
-- [[Перевод] Получаем JTAG на iPhone 15](https://habr.com/ru/companies/ruvds/articles/766250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
