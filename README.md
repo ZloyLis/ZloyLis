@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что быстрее: Animated + useNativeDriver или Reanimated?](https://habr.com/ru/companies/sbermarket/articles/765338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765338)
+- [Ускоряем разработку новых фич: как я написал плагин кодогенерации для Protobuf](https://habr.com/ru/companies/yandex_praktikum/articles/765568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765568)
 - [Прокачиваем вёрстку ARIA атрибутами. Атрибут aria-label](https://habr.com/ru/companies/ruvds/articles/764670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764670)
 - [Топ некритичных ошибок в инфраструктуре, приводящих к критичным проблемам](https://habr.com/ru/companies/oleg-bunin/articles/766288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766288)
 - [[Перевод] Масштабируем стриминг c помощью Kubernetes и RabbitMQ](https://habr.com/ru/articles/766432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766432)
-- [Ключевые навыки для развития во frontend разработке](https://habr.com/ru/articles/766444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766444)
-- [Касты при наследовании в C++: читаем стандарт](https://habr.com/ru/articles/766436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
