@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое keys во Flutter?](https://habr.com/ru/articles/766534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766534)
+- [Почему существует только 5 правильных многогранников? Ответ даёт неравенство из 8-го класса](https://habr.com/ru/companies/vstack/articles/764712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764712)
+- [Пишем простую интеграцию с GitHub используя feign и jsonschema2pojo maven plugin](https://habr.com/ru/articles/766522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766522)
+- [EVM — определение масштаба](https://habr.com/ru/articles/766516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766516)
 - [Изучаем Q#. Делаем реализацию биноминального распределения](https://habr.com/ru/articles/766512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766512)
-- [Книга «Грокаем функциональное программирование»](https://habr.com/ru/companies/piter/articles/764210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764210)
-- [Как тестировщику уйти из корпорации в стартап и не сойти с ума](https://habr.com/ru/articles/766492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766492)
-- [Что быстрее: Animated + useNativeDriver или Reanimated?](https://habr.com/ru/companies/sbermarket/articles/765338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765338)
-- [Ускоряем разработку новых фич: как я написал плагин кодогенерации для Protobuf](https://habr.com/ru/companies/yandex_praktikum/articles/765568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
