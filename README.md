@@ -23,9 +23,9 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать приложение для мобильного стриминга на Android с помощью опенсорс-инструментов и EdgeStreaming](https://habr.com/ru/companies/edgecenter/articles/766558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766558)
+- [Code smell: когда код плохо пахнет](https://habr.com/ru/companies/otus/articles/766298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766298)
 - [REST API vs GraphQL: в чём между ними разница](https://habr.com/ru/companies/ru_mts/articles/766428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766428)
-- [Книга «Дизайн маркетплейса». Гамма и стили](https://habr.com/ru/articles/766540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766540)
-- [Книга «Дизайн маркетплейса». Вступление](https://habr.com/ru/articles/766536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766536)
 - [Что такое keys во Flutter?](https://habr.com/ru/articles/766534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766534)
 - [Почему существует только 5 правильных многогранников? Ответ даёт неравенство из 8-го класса](https://habr.com/ru/companies/vstack/articles/764712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764712)
 <!-- BLOG-POST-LIST:END -->
