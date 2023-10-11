@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 14: что появилось нового и что изменилось? Возможности новой версии мобильной ОС](https://habr.com/ru/companies/ru_mts/articles/766792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766792)
+- [Компиляция Record для Android](https://habr.com/ru/articles/766800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766800)
+- [Как правильно выбрать платформу мобильного центра принятия решений](https://habr.com/ru/articles/766794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766794)
+- [Вообще не Noobs: интервью с победителями CyberCamp 2023](https://habr.com/ru/companies/jetinfosystems/articles/766786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766786)
 - [[Перевод] Ликбез по корутинам Kotlin](https://habr.com/ru/companies/otus/articles/766774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766774)
-- [Архитектура Android. Понятно и подробно](https://habr.com/ru/articles/766762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766762)
-- [Нанимать и растить сотрудников, знакомить заводы с ИИ: опыт rdl by red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/766754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766754)
-- [Agile в управлении проектами, SPSS и R для поиска взаимосвязей: подборка коротких онлайн-курсов российских вузов](https://habr.com/ru/companies/skillbox/articles/766728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766728)
-- [Сделали библиотеку компонентов, но пришлось переделывать. Почему так вышло и чем дело кончилось](https://habr.com/ru/companies/uchi_ru/articles/766694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
