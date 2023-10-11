@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вышел Chrome 118](https://habr.com/ru/articles/766658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766658)
+- [People as Code: как мы применили подход Everything as Code к людям, чтобы устранить причину 82% инцидентов безопасности](https://habr.com/ru/companies/StartX/articles/766426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766426)
 - [Part 0. Инструментарий QA в Альфа Банке](https://habr.com/ru/articles/766390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766390)
 - [LLaMA 2, RWKV, Santacoder и другие LLM на iOS](https://habr.com/ru/articles/764598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764598)
 - [Научный подход к знакомствам](https://habr.com/ru/companies/fitil/articles/766562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766562)
-- [Как сделать приложение для мобильного стриминга на Android с помощью опенсорс-инструментов и EdgeStreaming](https://habr.com/ru/companies/edgecenter/articles/766558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766558)
-- [Code smell: когда код плохо пахнет](https://habr.com/ru/companies/otus/articles/766298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
