@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ликбез по корутинам Kotlin](https://habr.com/ru/companies/otus/articles/766774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766774)
 - [Архитектура Android. Понятно и подробно](https://habr.com/ru/articles/766762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766762)
 - [Нанимать и растить сотрудников, знакомить заводы с ИИ: опыт rdl by red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/766754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766754)
 - [Agile в управлении проектами, SPSS и R для поиска взаимосвязей: подборка коротких онлайн-курсов российских вузов](https://habr.com/ru/companies/skillbox/articles/766728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766728)
 - [Сделали библиотеку компонентов, но пришлось переделывать. Почему так вышло и чем дело кончилось](https://habr.com/ru/companies/uchi_ru/articles/766694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766694)
-- [Личный сайт — на каждом телефоне](https://habr.com/ru/companies/ruvds/articles/766518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
