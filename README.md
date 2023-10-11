@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Сделали библиотеку компонентов, но пришлось переделывать. Почему так вышло и чем дело кончилось](https://habr.com/ru/companies/uchi_ru/articles/766694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766694)
 - [Личный сайт — на каждом телефоне](https://habr.com/ru/companies/ruvds/articles/766518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766518)
-- [Краткий анализ топ 20 блогов компаний за сентябрь: накрутки рейтинга и малополезный контент](https://habr.com/ru/articles/766678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766678)
 - [Используем Elasticsearch вместе со Spring Boot](https://habr.com/ru/articles/766674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766674)
 - [Проблематика Open Source: профиль риска, лицензирование, как выбирать продукт и подход к разработке решений](https://habr.com/ru/companies/vk/articles/762846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762846)
+- [[Перевод] Вышел Chrome 118](https://habr.com/ru/articles/766658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
