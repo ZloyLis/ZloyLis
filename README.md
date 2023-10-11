@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я осваивал Jetpack Compose](https://habr.com/ru/articles/766814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766814)
 - [Android 14: что появилось нового и что изменилось? Возможности новой версии мобильной ОС](https://habr.com/ru/companies/ru_mts/articles/766792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766792)
 - [Компиляция Record для Android](https://habr.com/ru/articles/766800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766800)
 - [Как правильно выбрать платформу мобильного центра принятия решений](https://habr.com/ru/articles/766794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766794)
 - [Вообще не Noobs: интервью с победителями CyberCamp 2023](https://habr.com/ru/companies/jetinfosystems/articles/766786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766786)
-- [[Перевод] Ликбез по корутинам Kotlin](https://habr.com/ru/companies/otus/articles/766774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
