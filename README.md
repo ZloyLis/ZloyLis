@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Сборка мусора: как это делается в системном программировании](https://habr.com/ru/companies/timeweb/articles/766772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766772)
-- [Алгебраические Типы Данных](https://habr.com/ru/articles/766682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766682)
-- [Как прошла третья ИТ-Олимпиада ВСК, и почему сотрудники участвуют в ней снова и снова](https://habr.com/ru/companies/vsk_insurance/articles/766912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766912)
-- [70 % программистов пользуются ИИ-ассистентами. Скоро код будут писать алгоритмы?](https://habr.com/ru/companies/sberbank/articles/765864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765864)
-- [«Консервируем» данные: сравниваем модуль pickle и альтернативные способы сериализации](https://habr.com/ru/articles/766904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766904)
+- [Сайд эффект реактивности и апдейта компонента во Vue 3](https://habr.com/ru/articles/766958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766958)
+- [Как мониторить здоровье вашей Gradle-сборки](https://habr.com/ru/companies/avito/articles/766764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766764)
+- [Операторы в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/766898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766898)
+- [Глазами SOC: типичные ошибки red team. Часть 1](https://habr.com/ru/companies/pt/articles/765772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765772)
+- [Как мы перевезли на новый сайт 700 тысяч рецептов и 6 миллионов фото пирогов, сырников и овсяноблинов](https://habr.com/ru/companies/itsumma/articles/763536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
