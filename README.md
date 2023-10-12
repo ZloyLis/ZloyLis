@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как прошла третья ИТ-Олимпиада ВСК, и почему сотрудники участвуют в ней снова и снова](https://habr.com/ru/companies/vsk_insurance/articles/766912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766912)
+- [70 % программистов пользуются ИИ-ассистентами. Скоро код будут писать алгоритмы?](https://habr.com/ru/companies/sberbank/articles/765864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765864)
+- [«Консервируем» данные: сравниваем модуль pickle и альтернативные способы сериализации](https://habr.com/ru/articles/766904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766904)
+- [Сбер. Как некрасиво поступить на конкурсе красоты](https://habr.com/ru/articles/766850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766850)
 - [Самый быстрый поиск пути на Go без аллокаций и СМС](https://habr.com/ru/articles/766882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766882)
-- [Что я понял на первой работе программистом / Мои советы Junior-разработчикам](https://habr.com/ru/articles/766868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766868)
-- [Flutter: заказывать или не заказывать? Откровения разработчика](https://habr.com/ru/articles/766826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766826)
-- [Как я осваивал Jetpack Compose](https://habr.com/ru/articles/766814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766814)
-- [Android 14: что появилось нового и что изменилось? Возможности новой версии мобильной ОС](https://habr.com/ru/companies/ru_mts/articles/766792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
