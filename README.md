@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Diátaxis: структура технической документации](https://habr.com/ru/companies/documentat/articles/766926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766926)
+- [8 вещей, которые я усвоил за 6 лет карьеры разработчика](https://habr.com/ru/companies/alfa/articles/765366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765366)
+- [[Перевод] Хороший код — что-то вроде любовного письма разработчику, который будет его поддерживать](https://habr.com/ru/companies/productivity_inside/articles/766970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766970)
 - [Сайд эффект реактивности и апдейта компонента во Vue 3](https://habr.com/ru/articles/766958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766958)
 - [Как мониторить здоровье вашей Gradle-сборки](https://habr.com/ru/companies/avito/articles/766764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766764)
-- [Операторы в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/766898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766898)
-- [Глазами SOC: типичные ошибки red team. Часть 1](https://habr.com/ru/companies/pt/articles/765772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765772)
-- [Как мы перевезли на новый сайт 700 тысяч рецептов и 6 миллионов фото пирогов, сырников и овсяноблинов](https://habr.com/ru/companies/itsumma/articles/763536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
