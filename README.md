@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание и тестирование gRPC сервиса &lpar;Spring Boot приложение&rpar;](https://habr.com/ru/articles/767130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767130)
 - [Я хотел сломать Java и я это сделал](https://habr.com/ru/articles/767114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767114)
 - [Как не стоит работать с HashSet в Java?](https://habr.com/ru/articles/767088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767088)
 - [Классификация и идентификация элементов в HTML и CSS и немного о БЭМ для самых маленьких](https://habr.com/ru/articles/767086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767086)
 - [C++ и космические технологии](https://habr.com/ru/articles/766976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766976)
-- [Эконометрическое моделирование трафика: зачем мы изучали влияние дождя и времени года на посещаемость магазинов](https://habr.com/ru/companies/X5Tech/articles/767074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
