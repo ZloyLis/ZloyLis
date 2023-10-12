@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diátaxis: структура технической документации](https://habr.com/ru/companies/documentat/articles/766926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766926)
-- [8 вещей, которые я усвоил за 6 лет карьеры разработчика](https://habr.com/ru/companies/alfa/articles/765366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765366)
-- [[Перевод] Хороший код — что-то вроде любовного письма разработчику, который будет его поддерживать](https://habr.com/ru/companies/productivity_inside/articles/766970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766970)
-- [Сайд эффект реактивности и апдейта компонента во Vue 3](https://habr.com/ru/articles/766958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766958)
-- [Как мониторить здоровье вашей Gradle-сборки](https://habr.com/ru/companies/avito/articles/766764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766764)
+- [Пишем код, когда пишем код: сорс-генераторы](https://habr.com/ru/companies/tinkoff/articles/766916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766916)
+- [Что вы могли не знать о продуктовом дизайне в B2B](https://habr.com/ru/companies/kaspersky/articles/765840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765840)
+- [Реактивные формы во Flutter: как делать формы с меньшими трудозатратами](https://habr.com/ru/companies/rosbank/articles/767006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767006)
+- [Мои первые шаги в создании браузерных 2D игр на чистом JavaScript + Canvas. Часть 1. Прототип](https://habr.com/ru/articles/762132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762132)
+- [[Перевод] Главное из книги Fundamentals of Data engineering — фундаментального труда о дата-инжиниринге](https://habr.com/ru/companies/vk/articles/766530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
