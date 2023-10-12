@@ -24,10 +24,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Самый быстрый поиск пути на Go без аллокаций и СМС](https://habr.com/ru/articles/766882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766882)
+- [Что я понял на первой работе программистом / Мои советы Junior-разработчикам](https://habr.com/ru/articles/766868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766868)
 - [Flutter: заказывать или не заказывать? Откровения разработчика](https://habr.com/ru/articles/766826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766826)
 - [Как я осваивал Jetpack Compose](https://habr.com/ru/articles/766814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766814)
 - [Android 14: что появилось нового и что изменилось? Возможности новой версии мобильной ОС](https://habr.com/ru/companies/ru_mts/articles/766792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766792)
-- [Компиляция Record для Android](https://habr.com/ru/articles/766800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
