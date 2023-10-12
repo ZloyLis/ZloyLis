@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновить нельзя оставить. Куда поставить запятую и как понять, что бренду нужно обновить логотип](https://habr.com/ru/companies/pyrobyte/articles/767050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767050)
 - [Борьба с временем ответа сервиса](https://habr.com/ru/articles/767042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767042)
 - [[Перевод] Знакомьтесь с Hurl, ужасной &lpar;но милой&rpar; идеей для языка](https://habr.com/ru/companies/ncloudtech/articles/766724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766724)
 - [Как применяется и для чего нужен local first подход](https://habr.com/ru/companies/vasexperts/articles/766782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766782)
 - [[Перевод] Когда Zig круче Rust – массивы перечислений, позволяющие сэкономить память](https://habr.com/ru/articles/767036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767036)
-- [Backend-митап в red_mad_robot 26 октября](https://habr.com/ru/companies/redmadrobot/articles/767034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
