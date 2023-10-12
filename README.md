@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сборка мусора: как это делается в системном программировании](https://habr.com/ru/companies/timeweb/articles/766772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766772)
+- [Алгебраические Типы Данных](https://habr.com/ru/articles/766682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766682)
 - [Как прошла третья ИТ-Олимпиада ВСК, и почему сотрудники участвуют в ней снова и снова](https://habr.com/ru/companies/vsk_insurance/articles/766912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766912)
 - [70 % программистов пользуются ИИ-ассистентами. Скоро код будут писать алгоритмы?](https://habr.com/ru/companies/sberbank/articles/765864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765864)
 - [«Консервируем» данные: сравниваем модуль pickle и альтернативные способы сериализации](https://habr.com/ru/articles/766904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766904)
-- [Сбер. Как некрасиво поступить на конкурсе красоты](https://habr.com/ru/articles/766850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766850)
-- [Самый быстрый поиск пути на Go без аллокаций и СМС](https://habr.com/ru/articles/766882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
