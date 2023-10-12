@@ -27,7 +27,7 @@ ___
 - [Борьба с временем ответа сервиса](https://habr.com/ru/articles/767042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767042)
 - [[Перевод] Знакомьтесь с Hurl, ужасной &lpar;но милой&rpar; идеей для языка](https://habr.com/ru/companies/ncloudtech/articles/766724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766724)
 - [Как применяется и для чего нужен local first подход](https://habr.com/ru/companies/vasexperts/articles/766782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766782)
-- [[Перевод] Когда Zig круче Rust – массивы перечислений, позволяющие сэкономить память](https://habr.com/ru/articles/767036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767036)
+- [Основные концепции KKS кодирования при создании ЦИМ](https://habr.com/ru/companies/bimeister/articles/767038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
