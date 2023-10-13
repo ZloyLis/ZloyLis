@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как вырастить ИТшника или принстонский Computer Science для школьников](https://habr.com/ru/articles/767252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767252)
-- [Чему госзаказам стоит поучиться у Авито](https://habr.com/ru/articles/767238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767238)
-- [4 сценария, когда нужно сделать ставку на Kotlin Multiplatform, а не Flutter](https://habr.com/ru/companies/kts/articles/767224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767224)
-- [Роль Hadoop и Spark в архитектуре приложений](https://habr.com/ru/companies/otus/articles/767118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767118)
-- [Wolfram Language JavaScript Frontend](https://habr.com/ru/articles/766360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766360)
+- [Оценка стоимости дизайна сайтов для дизайнеров-фрилансеров](https://habr.com/ru/articles/767282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767282)
+- [Глубина кролечьей норы: бинарная граница и ABI C++](https://habr.com/ru/articles/710658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710658)
+- [[Перевод] Осваиваем модуляризацию: Руководство для начинающих по организации сложных программных систем](https://habr.com/ru/companies/piter/articles/767228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767228)
+- [Как интегрировать мобильный центр принятия решений с другими системами](https://habr.com/ru/articles/764662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764662)
+- [Классификация комментариев к Youtube видео с помощью GPT моделей. Точность и ее цена](https://habr.com/ru/articles/766758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
