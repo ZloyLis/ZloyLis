@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [4 сценария, когда нужно сделать ставку на Kotlin Multiplatform, а не Flutter](https://habr.com/ru/companies/kts/articles/767224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767224)
+- [Роль Hadoop и Spark в архитектуре приложений](https://habr.com/ru/companies/otus/articles/767118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767118)
+- [Wolfram Language JavaScript Frontend](https://habr.com/ru/articles/766360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766360)
+- [«Нейрогород»: игра на знание JavaScript про фронтендерские баги](https://habr.com/ru/companies/kaspersky/articles/767218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767218)
 - [Разработка и тестирование целочисленного сумматора с AXI-Stream интерфейсами. Часть 1](https://habr.com/ru/articles/767196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767196)
-- [Как сделать поиск в интернет-магазине](https://habr.com/ru/companies/oleg-bunin/articles/767066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767066)
-- [Пять причин почему нужно участвовать в диджитал конкурсах и отраслевых рейтингах + чек-лист для подготовки кейса](https://habr.com/ru/articles/767158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767158)
-- [Создание и тестирование gRPC сервиса &lpar;Spring Boot приложение&rpar;](https://habr.com/ru/articles/767130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767130)
-- [Я хотел сломать Java и я это сделал](https://habr.com/ru/articles/767114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
