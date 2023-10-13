@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как тест разных рекламных кампаний в Директе помог увеличить число обращений с 5 до 39?](https://habr.com/ru/articles/767170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767170)
 - [Пять причин почему нужно участвовать в диджитал конкурсах и отраслевых рейтингах + чек-лист для подготовки кейса](https://habr.com/ru/articles/767158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767158)
 - [Создание и тестирование gRPC сервиса &lpar;Spring Boot приложение&rpar;](https://habr.com/ru/articles/767130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767130)
 - [Я хотел сломать Java и я это сделал](https://habr.com/ru/articles/767114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767114)
 - [Как не стоит работать с HashSet в Java?](https://habr.com/ru/articles/767088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767088)
-- [Классификация и идентификация элементов в HTML и CSS и немного о БЭМ для самых маленьких](https://habr.com/ru/articles/767086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
