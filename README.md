@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я проектирую и разрабатываю расширения Python на Rust](https://habr.com/ru/articles/767254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767254)
 - [Оценка стоимости дизайна сайтов для дизайнеров-фрилансеров](https://habr.com/ru/articles/767282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767282)
-- [Глубина кролечьей норы: бинарная граница и ABI C++](https://habr.com/ru/articles/710658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710658)
+- [Глубина кроличьей норы: бинарная граница и ABI C++](https://habr.com/ru/articles/710658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=710658)
 - [[Перевод] Осваиваем модуляризацию: Руководство для начинающих по организации сложных программных систем](https://habr.com/ru/companies/piter/articles/767228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767228)
 - [Как интегрировать мобильный центр принятия решений с другими системами](https://habr.com/ru/articles/764662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764662)
-- [Классификация комментариев к Youtube видео с помощью GPT моделей. Точность и ее цена](https://habr.com/ru/articles/766758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
