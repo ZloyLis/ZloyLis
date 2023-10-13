@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что мобильным разработчикам расскажут на Mobius 2023 Autumn: от Compose и SwiftUI до компьютерного зрения](https://habr.com/ru/companies/jugru/articles/765850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765850)
 - [WidgetKit в iOS — не просто большие иконки](https://habr.com/ru/companies/surfstudio/articles/767332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767332)
 - [Как показать номер версии на экране загру…](https://habr.com/ru/articles/767276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767276)
 - [Как мы меняли чат-бот ВТБ для мессенджера ВКонтакте до прода и после](https://habr.com/ru/companies/vtb/articles/765362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765362)
 - [[Перевод] Как я проектирую и разрабатываю расширения Python на Rust](https://habr.com/ru/articles/767254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767254)
-- [Оценка стоимости дизайна сайтов для дизайнеров-фрилансеров](https://habr.com/ru/articles/767282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
