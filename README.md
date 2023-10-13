@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вырастить ИТшника или принстонский Computer Science для школьников](https://habr.com/ru/articles/767252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767252)
+- [Чему госзаказам стоит поучиться у Авито](https://habr.com/ru/articles/767238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767238)
 - [4 сценария, когда нужно сделать ставку на Kotlin Multiplatform, а не Flutter](https://habr.com/ru/companies/kts/articles/767224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767224)
 - [Роль Hadoop и Spark в архитектуре приложений](https://habr.com/ru/companies/otus/articles/767118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767118)
 - [Wolfram Language JavaScript Frontend](https://habr.com/ru/articles/766360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766360)
-- [«Нейрогород»: игра на знание JavaScript про фронтендерские баги](https://habr.com/ru/companies/kaspersky/articles/767218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767218)
-- [Разработка и тестирование целочисленного сумматора с AXI-Stream интерфейсами. Часть 1](https://habr.com/ru/articles/767196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
