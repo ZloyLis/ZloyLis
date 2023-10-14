@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как эффективно решать проблемы в IT: 10 шагов для начинающих аналитиков](https://habr.com/ru/articles/767504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767504)
 - [ESLint | Shareable config настройка и что это такое?](https://habr.com/ru/articles/767496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767496)
 - [Open-source блокнот Wolfram Language или на как воссоздать минимальное ядро Mathematica на Javascript и не только](https://habr.com/ru/articles/767490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767490)
 - [Феномен постоянной Капрекара. Или загадочное «число великой радости»](https://habr.com/ru/articles/767488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767488)
 - [Как я стал руководителем проекта в IT в 2023 году после обучения](https://habr.com/ru/articles/767468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767468)
-- [Чем отличается синтетическое событие клика от обычного в javascript фреймворках?](https://habr.com/ru/articles/767466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
