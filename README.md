@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ГЕОМЕТРИЯ ЗВУКА](https://habr.com/ru/articles/765170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765170)
 - [Определение произвольной точки на полигоне. Jetpack Compose. Canvas. Algorithm](https://habr.com/ru/articles/767390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767390)
 - [Оптовая торговля чёрным деревом](https://habr.com/ru/articles/767326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767326)
 - [Топ-10 самых мощных Android-смартфонов в 2023 году](https://habr.com/ru/companies/ru_mts/articles/767374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767374)
 - [Что мобильным разработчикам расскажут на Mobius 2023 Autumn: от Compose и SwiftUI до компьютерного зрения](https://habr.com/ru/companies/jugru/articles/765850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765850)
-- [WidgetKit в iOS — не просто большие иконки](https://habr.com/ru/companies/surfstudio/articles/767332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
