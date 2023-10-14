@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Феномен постоянной Капрекара. Или загадочное «число великой радости»](https://habr.com/ru/articles/767488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767488)
 - [Как я стал руководителем проекта в IT в 2023 году после обучения](https://habr.com/ru/articles/767468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767468)
 - [Чем отличается синтетическое событие клика от обычного в javascript фреймворках?](https://habr.com/ru/articles/767466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767466)
 - [Примета джуна #1 «С шашкой наголо»](https://habr.com/ru/articles/767462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767462)
 - [Как я использовал тематическое разделение доступа для создания веб-приложения](https://habr.com/ru/articles/767456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767456)
-- [Стандарты в области волоконно-оптических систем &lpar;DWDM-технологии&rpar;](https://habr.com/ru/articles/767446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
