@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Примета джуна #1 «С шашкой наголо»](https://habr.com/ru/articles/767462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767462)
 - [Как я использовал тематическое разделение доступа для создания веб-приложения](https://habr.com/ru/articles/767456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767456)
 - [Стандарты в области волоконно-оптических систем &lpar;DWDM-технологии&rpar;](https://habr.com/ru/articles/767446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767446)
 - [Отправка и обработка HTTP запросов в PostgreSQL](https://habr.com/ru/articles/767442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767442)
 - [Создание мультиязычного вебсайта: для Китая и других регионов](https://habr.com/ru/articles/767438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767438)
-- [GitFlow процесс](https://habr.com/ru/articles/767424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
