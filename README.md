@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отправка и обработка HTTP запросов в PostgreSQL](https://habr.com/ru/articles/767442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767442)
+- [Создание мультиязычного вебсайта: для Китая и других регионов](https://habr.com/ru/articles/767438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767438)
 - [RestApi от мала до велика. А ты правильно проектируешь методы?](https://habr.com/ru/articles/767428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767428)
 - [GitFlow процесс](https://habr.com/ru/articles/767424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767424)
 - [ГЕОМЕТРИЯ ЗВУКА](https://habr.com/ru/articles/765170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765170)
-- [Определение произвольной точки на полигоне. Jetpack Compose. Canvas. Algorithm](https://habr.com/ru/articles/767390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767390)
-- [Оптовая торговля чёрным деревом](https://habr.com/ru/articles/767326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
