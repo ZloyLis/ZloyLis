@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем играющего онлайн шахматного бота при помощи Lichess API](https://habr.com/ru/articles/765122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765122)
 - [Книги по Swift и iOS-разработке для начинающих специалистов и профессионалов](https://habr.com/ru/companies/ru_mts/articles/767340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767340)
 - [«Конкурентные преимущества»: избранные материалы для разностороннего подхода к проектированию технологических решений](https://habr.com/ru/articles/766024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766024)
 - [Мобильная разработка за неделю #510 &lpar;09 — 15 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/767526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767526)
 - [Web Workers в JavaScript: Параллельные вычисления и улучшение производительности](https://habr.com/ru/articles/767494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767494)
-- [Вальяжной походкой по HTTP-заголовкам](https://habr.com/ru/articles/767296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
