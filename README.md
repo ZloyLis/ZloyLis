@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Workers в JavaScript: Параллельные вычисления и улучшение производительности](https://habr.com/ru/articles/767494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767494)
 - [Вальяжной походкой по HTTP-заголовкам](https://habr.com/ru/articles/767296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767296)
 - [Как эффективно решать проблемы в IT: 10 шагов для начинающих аналитиков](https://habr.com/ru/articles/767504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767504)
 - [ESLint | Shareable config настройка и что это такое?](https://habr.com/ru/articles/767496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767496)
 - [Open-source блокнот Wolfram Language или как воссоздать минимальное ядро Mathematica на Javascript и не только](https://habr.com/ru/articles/767490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767490)
-- [Таинственная постоянная Капрекара. 6174 — «число великой радости» или непреодолимая стена?](https://habr.com/ru/articles/767488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
