@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ломаем Android. Русификация китайских авто](https://habr.com/ru/articles/767584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767584)
 - [Гипотеза континуума, современное состояние](https://habr.com/ru/articles/766446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766446)
 - [С чем едят self service и что есть в Российском меню BI платформ](https://habr.com/ru/articles/767572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767572)
 - [Делаем играющего онлайн шахматного бота при помощи Lichess API](https://habr.com/ru/articles/765122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765122)
 - [Книги по Swift и iOS-разработке для начинающих специалистов и профессионалов](https://habr.com/ru/companies/ru_mts/articles/767340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767340)
-- [«Конкурентные преимущества»: избранные материалы для разностороннего подхода к проектированию технологических решений](https://habr.com/ru/articles/766024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
