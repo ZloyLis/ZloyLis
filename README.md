@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книги по Swift и iOS-разработке для начинающих специалистов и профессионалов](https://habr.com/ru/companies/ru_mts/articles/767340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767340)
 - [«Конкурентные преимущества»: избранные материалы для разностороннего подхода к проектированию технологических решений](https://habr.com/ru/articles/766024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766024)
 - [Мобильная разработка за неделю #510 &lpar;09 — 15 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/767526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767526)
 - [Web Workers в JavaScript: Параллельные вычисления и улучшение производительности](https://habr.com/ru/articles/767494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767494)
 - [Вальяжной походкой по HTTP-заголовкам](https://habr.com/ru/articles/767296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767296)
-- [Как эффективно решать проблемы в IT: 10 шагов для начинающих аналитиков](https://habr.com/ru/articles/767504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
