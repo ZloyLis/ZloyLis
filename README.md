@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему 80% курсов не сделают из вас дизайнера](https://habr.com/ru/articles/767670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767670)
-- [Детектор Судного дня или как я разработал датчик радиации для Home Assistant](https://habr.com/ru/companies/timeweb/articles/767094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767094)
-- [[Перевод] Паттерн производитель-потребитель и очередь с приоритетом asyncio.PriorityQueue в Python](https://habr.com/ru/articles/767530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767530)
-- [LLM как оптимизатор для задачи линейной регрессии](https://habr.com/ru/articles/767650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767650)
-- [Из микро в макро: как адаптировать мобильное приложение под ТВ-платформу](https://habr.com/ru/companies/yandex/articles/765082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765082)
+- [[Перевод] От теории к практике: создаём веб-приложение для решения задачи коммивояжёра](https://habr.com/ru/companies/wunderfund/articles/767618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767618)
+- [Набор инструментов backend reliability инженера](https://habr.com/ru/companies/wrike/articles/767100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767100)
+- [Наручные атомные часы стали ближе. Определение координат без GPS](https://habr.com/ru/companies/ruvds/articles/766974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766974)
+- [Кастомизация инфраструктуры облачных вычислений с помощью Kubernetes](https://habr.com/ru/companies/first/articles/766944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766944)
+- [Оценка пространственного разрешения при помощи фантомов](https://habr.com/ru/companies/smartengines/articles/767508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
