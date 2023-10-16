@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM как оптимизатор для задачи линейной регрессии](https://habr.com/ru/articles/767650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767650)
+- [Из микро в макро: как адаптировать мобильное приложение под ТВ-платформу](https://habr.com/ru/companies/yandex/articles/765082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765082)
+- [Что такое платформа «ГосТех» и как она развивается в России?](https://habr.com/ru/articles/767648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767648)
+- [[Перевод] Используем Hugging Face для обучения GPT-2 генерации музыки](https://habr.com/ru/articles/766510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766510)
 - [Как настроить push-уведомления в Safari на iOS](https://habr.com/ru/articles/767632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767632)
-- [Ломаем Android. Русификация китайских авто](https://habr.com/ru/articles/767584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767584)
-- [Гипотеза континуума, современное состояние](https://habr.com/ru/articles/766446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766446)
-- [С чем едят self service и что есть в Российском меню BI платформ](https://habr.com/ru/articles/767572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767572)
-- [Делаем играющего онлайн шахматного бота при помощи Lichess API](https://habr.com/ru/articles/765122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
