@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык программирования Sound](https://habr.com/ru/articles/767734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767734)
+- [[Перевод] Полосы прокрутки становятся проблемой](https://habr.com/ru/articles/767732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767732)
+- [Как написать понятные требования к ПО](https://habr.com/ru/articles/767722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767722)
 - [Сквозное наблюдение &lpar;observability&rpar; в микросервисах](https://habr.com/ru/companies/otus/articles/766584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766584)
 - [[Перевод] От теории к практике: создаём веб-приложение для решения задачи коммивояжёра](https://habr.com/ru/companies/wunderfund/articles/767618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767618)
-- [Набор инструментов backend reliability инженера](https://habr.com/ru/companies/wrike/articles/767100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767100)
-- [Наручные атомные часы стали ближе. Определение координат без GPS](https://habr.com/ru/companies/ruvds/articles/766974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766974)
-- [Кастомизация инфраструктуры облачных вычислений с помощью Kubernetes](https://habr.com/ru/companies/first/articles/766944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
