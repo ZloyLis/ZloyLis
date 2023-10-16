@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ Дайджест №5 &lpar;2 октября – 15 октября 2023&rpar;](https://habr.com/ru/articles/767818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767818)
+- [Security Week 2342: беспарольный вход по умолчанию в сервисах Google](https://habr.com/ru/companies/kaspersky/articles/767766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767766)
+- [Как упростить себе жизнь: удобные юнит-тесты с JUnit и AssertJ](https://habr.com/ru/companies/skillbox/articles/767804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767804)
+- [Apple Pro Weekly News &lpar;09.10 – 15.10.23&rpar;](https://habr.com/ru/articles/767812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767812)
 - [[Перевод] Примитивы синхронизации в Python Asyncio: Исчерпывающее руководство](https://habr.com/ru/articles/767792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767792)
-- [Пилим монолит и рисуем архитектуру запрещённой сети: лучшие выпуски IT-шоу «Заходят два архитектора в бар»](https://habr.com/ru/companies/slurm/articles/767780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767780)
-- [ChatGPT для разработчиков: API, лимиты, как втягивать в него базу знаний, что нельзя сделать, что лучше делать осторожно](https://habr.com/ru/companies/raft/articles/767364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767364)
-- [Архитектурный паттерн для обработки больших данных: Lambda](https://habr.com/ru/companies/otus/articles/766672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766672)
-- [Язык программирования Sound](https://habr.com/ru/articles/767734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
