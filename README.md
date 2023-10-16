@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему 80% курсов не сделают из вас дизайнера](https://habr.com/ru/articles/767670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767670)
+- [Детектор Судного дня или как я разработал датчик радиации для Home Assistant](https://habr.com/ru/companies/timeweb/articles/767094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767094)
+- [[Перевод] Паттерн производитель-потребитель и очередь с приоритетом asyncio.PriorityQueue в Python](https://habr.com/ru/articles/767530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767530)
 - [LLM как оптимизатор для задачи линейной регрессии](https://habr.com/ru/articles/767650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767650)
 - [Из микро в макро: как адаптировать мобильное приложение под ТВ-платформу](https://habr.com/ru/companies/yandex/articles/765082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765082)
-- [Что такое платформа «ГосТех» и как она развивается в России?](https://habr.com/ru/articles/767648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767648)
-- [[Перевод] Используем Hugging Face для обучения GPT-2 генерации музыки](https://habr.com/ru/articles/766510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766510)
-- [Как настроить push-уведомления в Safari на iOS](https://habr.com/ru/articles/767632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
