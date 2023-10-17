@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как перестать подтирать жопу роботам и остановить их деградацию](https://habr.com/ru/articles/768112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768112)
+- [Как перестать подтирать за роботами и остановить их деградацию](https://habr.com/ru/articles/768112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768112)
 - [Числа Маркова: между хаосом и порядком](https://habr.com/ru/companies/itglobalcom/articles/767612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767612)
 - [Как программируются кассовые аппараты?](https://habr.com/ru/companies/otus/articles/767770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767770)
 - [[Перевод] Vue.js 3 — шаблоны проектирования и лучшие практики](https://habr.com/ru/articles/768080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768080)
