@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PiterJS: сентябрь/октябрь](https://habr.com/ru/articles/767870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767870)
+- [Что мне понравилось из докладов дизайн-конфы #FFDD2D](https://habr.com/ru/companies/tinkoff/articles/767912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767912)
+- [Алгоритм поиска ключевых словосочетаний «на пальцах». Анализируем новости](https://habr.com/ru/companies/ppr/articles/767940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767940)
+- [Установка Deckhouse в kind: пробуем K8s-платформу на ноутбуке — без серверов и облаков](https://habr.com/ru/companies/flant/articles/767872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767872)
 - [Как автоматизировать переобучение моделей?](https://habr.com/ru/companies/gazprombank/articles/766736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766736)
-- [Свой ChatGPT бот в Telegram в 2023](https://habr.com/ru/articles/767694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767694)
-- [Почему я почти никогда не начинаю проектирование &lpar;или дизайн&rpar; сайта с главной страницы](https://habr.com/ru/articles/767890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767890)
-- [Взаимодействие с Midjourney с использованием Discord API](https://habr.com/ru/articles/767878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767878)
-- [C++ Дайджест №5 &lpar;2 октября – 15 октября 2023&rpar;](https://habr.com/ru/articles/767818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
