@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Числа Маркова: между хаосом и порядком](https://habr.com/ru/companies/itglobalcom/articles/767612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767612)
+- [Как программируются кассовые аппараты?](https://habr.com/ru/companies/otus/articles/767770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767770)
+- [[Перевод] Vue.js 3 — шаблоны проектирования и лучшие практики](https://habr.com/ru/articles/768080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768080)
 - [Event Bus: пишем шину событий во Flutter-приложении](https://habr.com/ru/companies/friflex/articles/768060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768060)
-- [8 заповедей Junior-разработчика](https://habr.com/ru/articles/768070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768070)
-- [Как настроить резервное копирование в объектное хранилище с помощью Restic](https://habr.com/ru/companies/selectel/articles/768014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768014)
-- [Code smells — обзор на примере PHP](https://habr.com/ru/articles/768038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768038)
-- [Дайджест мобильной разработки за сентябрь](https://habr.com/ru/companies/vk/articles/767984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767984)
+- [Эффективные бэкапы в S3 с помощью Restic: краткое пособие по настройке](https://habr.com/ru/companies/selectel/articles/768014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
