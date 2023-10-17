@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как автоматизировать переобучение моделей?](https://habr.com/ru/companies/gazprombank/articles/766736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766736)
 - [Свой ChatGPT бот в Telegram в 2023](https://habr.com/ru/articles/767694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767694)
 - [Почему я почти никогда не начинаю проектирование &lpar;или дизайн&rpar; сайта с главной страницы](https://habr.com/ru/articles/767890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767890)
 - [Взаимодействие с Midjourney с использованием Discord API](https://habr.com/ru/articles/767878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767878)
 - [C++ Дайджест №5 &lpar;2 октября – 15 октября 2023&rpar;](https://habr.com/ru/articles/767818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767818)
-- [Security Week 2342: беспарольный вход по умолчанию в сервисах Google](https://habr.com/ru/companies/kaspersky/articles/767766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
