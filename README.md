@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С чего начать разработку мобильного центра принятия решений](https://habr.com/ru/articles/764704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764704)
+- [Асинхронный API First](https://habr.com/ru/companies/axenix/articles/768012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768012)
 - [Система Quality Score: как оценивать внешнее качество продукта](https://habr.com/ru/companies/avito/articles/767728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767728)
 - [Интеграция Prodamus-платежей в проектах на Ruby On Rails](https://habr.com/ru/companies/joydev/articles/767876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767876)
 - [Построение OLAP-запросов с использованием аналитических функций](https://habr.com/ru/companies/otus/articles/767752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767752)
-- [Роль и трансформация профессии бизнес-аналитика](https://habr.com/ru/articles/767966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767966)
-- [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 6](https://habr.com/ru/articles/760962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
