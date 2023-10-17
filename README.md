@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитика для бизнеса: Как устранять проблемы и оптимизировать работу мобильного центра принятия решений](https://habr.com/ru/articles/768146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768146)
 - [Как перестать подтирать за роботами и остановить их деградацию](https://habr.com/ru/articles/768112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768112)
 - [Числа Маркова: между хаосом и порядком](https://habr.com/ru/companies/itglobalcom/articles/767612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767612)
 - [Как программируются кассовые аппараты?](https://habr.com/ru/companies/otus/articles/767770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767770)
 - [[Перевод] Vue.js 3 — шаблоны проектирования и лучшие практики](https://habr.com/ru/articles/768080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768080)
-- [Event Bus: пишем шину событий во Flutter-приложении](https://habr.com/ru/companies/friflex/articles/768060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
