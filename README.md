@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Умные программисты пишут STUPID-код](https://habr.com/ru/companies/ruvds/articles/768298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768298)
+- [Упрощаем подключение линтеров в пайплайны Gitlab CI](https://habr.com/ru/companies/tochka/articles/768292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768292)
+- [[Перевод] Наклонные края с постоянным углом в CSS](https://habr.com/ru/articles/768304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768304)
 - [Разработка высокопроизводительного кеш-слоя на основе Redis в телеграм-боте](https://habr.com/ru/companies/otus/articles/768230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768230)
 - [Лицензирование софта: типы, нюансы, сложности](https://habr.com/ru/companies/contentai/articles/767788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767788)
-- [Существуют ли  джуниор-DevOps-инженеры и почему их ищут](https://habr.com/ru/companies/kts/articles/767658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767658)
-- [Скорее жив, чем мёртв: тенденция по развитию iOS технологий](https://habr.com/ru/articles/768262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768262)
-- [Измеряя sequences](https://habr.com/ru/articles/768250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
