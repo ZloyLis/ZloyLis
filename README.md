@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Упорядочиваем архитектуру Банка](https://habr.com/ru/companies/alfa/articles/768160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768160)
+- [Старые кодовые базы как классическая литература](https://habr.com/ru/companies/ruvds/articles/767910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767910)
+- [Осмысленная визуализация при анализе и проектировании информационных систем](https://habr.com/ru/articles/768232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768232)
 - [[Перевод] Философия Compose](https://habr.com/ru/articles/768218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768218)
 - [[Перевод] Одна игра, один разработчик, шесть платформ](https://habr.com/ru/articles/768058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768058)
-- [Part 1. Инструменты автоматизации тестирования](https://habr.com/ru/articles/768154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768154)
-- [Как рисуется карта в Фараоне](https://habr.com/ru/articles/767892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767892)
-- [Чем отличается работа продуктового дизайнера в стартапе и большой корпорации](https://habr.com/ru/articles/768176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
