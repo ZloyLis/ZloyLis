@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 1. Инструменты автоматизации тестирования](https://habr.com/ru/articles/768154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768154)
 - [Как рисуется карта в Фараоне](https://habr.com/ru/articles/767892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767892)
 - [Чем отличается работа продуктового дизайнера в стартапе и большой корпорации](https://habr.com/ru/articles/768176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768176)
+- [Демографический бум или как программисты плодятся](https://habr.com/ru/articles/768164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768164)
 - [Аналитика для бизнеса: Как устранять проблемы и оптимизировать работу мобильного центра принятия решений](https://habr.com/ru/articles/768146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768146)
-- [Как перестать подтирать за роботами и остановить их деградацию](https://habr.com/ru/articles/768112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768112)
-- [Числа Маркова: между хаосом и порядком](https://habr.com/ru/companies/itglobalcom/articles/767612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
