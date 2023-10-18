@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeCAD и C++ код с неопределённым поведением для медитации](https://habr.com/ru/companies/pvs-studio/articles/768388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768388)
+- [Базовые архитектурные решения для обеспечения масштабируемости и производительности в социальных сетях](https://habr.com/ru/companies/otus/articles/767432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767432)
+- [Что такое Quad Bayer фильтр в камерах и работает ли он на самом деле?](https://habr.com/ru/articles/768384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768384)
 - [Ошибки, маппинг, два SA: анализируем ошибки в ответах на запросы к внешним API](https://habr.com/ru/companies/sravni/articles/768092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768092)
 - [Как TDD помогает мне делать RTS](https://habr.com/ru/companies/otus/articles/768086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768086)
-- [Опыт создания UI библиотеки на C++](https://habr.com/ru/articles/768336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768336)
-- [[Перевод] Умные программисты пишут STUPID-код](https://habr.com/ru/companies/ruvds/articles/768298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768298)
-- [Упрощаем подключение линтеров в пайплайны Gitlab CI](https://habr.com/ru/companies/tochka/articles/768292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
