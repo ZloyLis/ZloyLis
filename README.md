@@ -24,10 +24,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Опыт создания UI библиотеки на C++](https://habr.com/ru/articles/768336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768336)
-- [far2l в Ubuntu 23.10](https://habr.com/ru/articles/768328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768328)
 - [[Перевод] Умные программисты пишут STUPID-код](https://habr.com/ru/companies/ruvds/articles/768298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768298)
 - [Упрощаем подключение линтеров в пайплайны Gitlab CI](https://habr.com/ru/companies/tochka/articles/768292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768292)
 - [Разработка децентрализованных приложений на Spring Boot: инструменты Web3 Tech](https://habr.com/ru/companies/web3_tech/articles/768310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768310)
+- [[Перевод] Наклонные края с постоянным углом в CSS](https://habr.com/ru/articles/768304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
