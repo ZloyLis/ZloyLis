@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка высокопроизводительного кеш-слоя на основе Redis в телеграм-боте](https://habr.com/ru/companies/otus/articles/768230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768230)
+- [Лицензирование софта: типы, нюансы, сложности](https://habr.com/ru/companies/contentai/articles/767788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767788)
 - [Существуют ли  джуниор-DevOps-инженеры и почему их ищут](https://habr.com/ru/companies/kts/articles/767658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767658)
 - [Скорее жив, чем мёртв: тенденция по развитию iOS технологий](https://habr.com/ru/articles/768262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768262)
 - [Измеряя sequences](https://habr.com/ru/articles/768250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768250)
-- [Упорядочиваем архитектуру Банка](https://habr.com/ru/companies/alfa/articles/768160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768160)
-- [[Перевод] Управление политиками кластера Kubernetes через Gatekeeper OPA](https://habr.com/ru/companies/slurm/articles/768196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
