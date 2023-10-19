@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[sobjectizer] Релиз версии 5.8.1: реализация пожеланий пользователей и исправление недочетов](https://habr.com/ru/articles/768438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768438)
+- [Я мыслю MOV EAX, 1](https://habr.com/ru/articles/721420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721420)
+- [Как Guidance выводит ИИ на новый уровень: инструмент для эффективного управления моделями](https://habr.com/ru/companies/bothub/articles/768402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768402)
+- [Как приоритизировать фичи с помощью Unit-экономики?](https://habr.com/ru/companies/sbermarket/articles/767830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767830)
 - [И вспыхнет пламя! Приглашаем UX/UI-дизайнеров на баттл с фондом в 100 000 рублей](https://habr.com/ru/companies/pyrobyte/articles/768464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768464)
-- [О чем расскажут на HolyJS 2023 Autumn: от архитектуры до карьеры](https://habr.com/ru/companies/jugru/articles/767302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767302)
-- [Показываем видео в терминале](https://habr.com/ru/articles/768456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768456)
-- [Посторонись, Copilot: подборка разнообразных AI-инструментов для разработчиков](https://habr.com/ru/companies/sberbank/articles/768450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768450)
-- [[Перевод] Развенчиваем распространённые мифы о телефонных аккумуляторах](https://habr.com/ru/articles/768416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
