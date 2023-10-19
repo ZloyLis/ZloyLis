@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я учусь на курсах frontend разработки с помощью доработанного метода ZettelKasten](https://habr.com/ru/companies/lumanbox/articles/768574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768574)
+- [Сложные клиенты ИТ: через тернии к профиту](https://habr.com/ru/articles/768646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768646)
 - [Проектирование архитектуры для микросервисов с использованием gRPC](https://habr.com/ru/companies/otus/articles/767724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767724)
 - [Оптимизируем Android приложение в пару подходов](https://habr.com/ru/articles/768636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768636)
 - [Уровни изоляции транзакций: Объясняю на мемах](https://habr.com/ru/articles/768628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768628)
-- [[Перевод] Анализ «Пяти неправд»](https://habr.com/ru/companies/ncloudtech/articles/768546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768546)
-- [Как работает PassMark. Стандарт бенчмаркинга с 1998 года](https://habr.com/ru/articles/768618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
