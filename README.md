@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучаем Q#. Алгоритм Гровера. Не будите спящего Цезаря](https://habr.com/ru/articles/768666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768666)
+- [Как мы с помощью чемпионата оценивали профессиональный уровень продактов](https://habr.com/ru/companies/tinkoff/articles/768552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768552)
 - [Как я учусь на курсах frontend разработки с помощью доработанного метода ZettelKasten](https://habr.com/ru/companies/lumanbox/articles/768574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768574)
-- [Сложные клиенты ИТ: через тернии к профиту](https://habr.com/ru/articles/768646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768646)
+- [Сложные клиенты в ИТ: через тернии к профиту](https://habr.com/ru/articles/768646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768646)
 - [Проектирование архитектуры для микросервисов с использованием gRPC](https://habr.com/ru/companies/otus/articles/767724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767724)
-- [Оптимизируем Android приложение в пару подходов](https://habr.com/ru/articles/768636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768636)
-- [Уровни изоляции транзакций: Объясняю на мемах](https://habr.com/ru/articles/768628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
