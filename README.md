@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [15 ресурсов по GIT. Что почитать/посмотреть?](https://habr.com/ru/companies/yandex_praktikum/articles/768492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768492)
-- [Подходы к автоматизации создания окружений для R&amp;amp;D-команд](https://habr.com/ru/companies/hilbertteam/articles/768596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768596)
-- [Немного паранойи: весёлые огромные уязвимости, которые порождают ChatGPT и LLM-модели](https://habr.com/ru/companies/raft/articles/768296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768296)
-- [Цикличность дизайна: как мы возвращаемся к старому в новом формате](https://habr.com/ru/articles/768580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768580)
-- [Kubernetes Networking: сервисы, Ingress и Network Policies](https://habr.com/ru/companies/T1Holding/articles/767056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767056)
+- [Уровни изоляции транзакций: Объясняю на мемах](https://habr.com/ru/articles/768628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768628)
+- [[Перевод] Анализ «Пяти неправд»](https://habr.com/ru/companies/ncloudtech/articles/768546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768546)
+- [Как работает PassMark. Стандарт бенчмаркинга с 1998 года](https://habr.com/ru/articles/768618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768618)
+- [Гауссов сплэтинг: как это выглядит](https://habr.com/ru/articles/768590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768590)
+- [Как быстро интегрировать Систему быстрых платежей &lpar;СБП&rpar; в приложение на Flutter](https://habr.com/ru/companies/friflex/articles/768610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
