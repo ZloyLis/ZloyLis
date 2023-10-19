@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектирование архитектуры для микросервисов с использованием gRPC](https://habr.com/ru/companies/otus/articles/767724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767724)
+- [Оптимизируем Android приложение в пару подходов](https://habr.com/ru/articles/768636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768636)
 - [Уровни изоляции транзакций: Объясняю на мемах](https://habr.com/ru/articles/768628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768628)
 - [[Перевод] Анализ «Пяти неправд»](https://habr.com/ru/companies/ncloudtech/articles/768546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768546)
 - [Как работает PassMark. Стандарт бенчмаркинга с 1998 года](https://habr.com/ru/articles/768618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768618)
-- [Гауссов сплэтинг: как это выглядит](https://habr.com/ru/articles/768590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768590)
-- [Как быстро интегрировать Систему быстрых платежей &lpar;СБП&rpar; в приложение на Flutter](https://habr.com/ru/companies/friflex/articles/768610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
