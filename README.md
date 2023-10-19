@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [15 ресурсов по GIT. Что почитать/посмотреть?](https://habr.com/ru/companies/yandex_praktikum/articles/768492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768492)
+- [Подходы к автоматизации создания окружений для R&amp;amp;D-команд](https://habr.com/ru/companies/hilbertteam/articles/768596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768596)
+- [Немного паранойи: весёлые огромные уязвимости, которые порождают ChatGPT и LLM-модели](https://habr.com/ru/companies/raft/articles/768296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768296)
 - [Цикличность дизайна: как мы возвращаемся к старому в новом формате](https://habr.com/ru/articles/768580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768580)
 - [Kubernetes Networking: сервисы, Ingress и Network Policies](https://habr.com/ru/companies/T1Holding/articles/767056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767056)
-- [Простые шаги к эффективному code review](https://habr.com/ru/companies/cdek_blog/articles/768506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768506)
-- [Поиск лишних Component Dependencies с помощью Dagger SPI](https://habr.com/ru/companies/cian/articles/768414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768414)
-- [YTsaurus SPYT: помогаем планировщику Apache Spark быть ещё эффективнее](https://habr.com/ru/companies/oleg-bunin/articles/768284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
