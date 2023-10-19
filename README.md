@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цикличность дизайна: как мы возвращаемся к старому в новом формате](https://habr.com/ru/articles/768580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768580)
+- [Kubernetes Networking: сервисы, Ingress и Network Policies](https://habr.com/ru/companies/T1Holding/articles/767056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767056)
+- [Простые шаги к эффективному code review](https://habr.com/ru/companies/cdek_blog/articles/768506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768506)
 - [Поиск лишних Component Dependencies с помощью Dagger SPI](https://habr.com/ru/companies/cian/articles/768414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768414)
 - [YTsaurus SPYT: помогаем планировщику Apache Spark быть ещё эффективнее](https://habr.com/ru/companies/oleg-bunin/articles/768284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768284)
-- [[Перевод] Поговорите с детьми об ИИ: шесть вопросов, которые стоит обсудить](https://habr.com/ru/companies/vk/articles/768486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768486)
-- [[sobjectizer] Релиз версии 5.8.1: реализация пожеланий пользователей и исправление недочетов](https://habr.com/ru/articles/768438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768438)
-- [Я мыслю MOV EAX, 1](https://habr.com/ru/articles/721420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
