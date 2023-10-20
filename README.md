@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [За кулисами IT: моё путешествие от кодера до капитана команды](https://habr.com/ru/articles/768942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768942)
+- [Fusor vs React](https://habr.com/ru/articles/768928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768928)
 - [JavaScript pattern CustomSwitch](https://habr.com/ru/articles/768936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768936)
 - [CRUD React c Redux и Saga + typescript в 2023](https://habr.com/ru/articles/757230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757230)
 - [Почему ты не станешь программистом](https://habr.com/ru/articles/768932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768932)
-- [Тернист ли путь в современное IT?](https://habr.com/ru/articles/768926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768926)
-- [Событийное логирование для аналитики и мониторинга работы телеграм-бота](https://habr.com/ru/companies/otus/articles/768220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
