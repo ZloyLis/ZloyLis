@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распознавание речи &lpar;транскрибация&rpar; по аудиозаписям диалогов. Whisper. Личный опыт](https://habr.com/ru/articles/768562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768562)
+- [Как я создавал мобильное приложение для хранения прочитанных книг BookDesk](https://habr.com/ru/articles/768730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768730)
+- [Next JS и Nginx](https://habr.com/ru/articles/768728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768728)
 - [Как управлять сотнями sidecar-контейнеров без боли и сожаления](https://habr.com/ru/companies/oleg-bunin/articles/768224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768224)
 - [Изучаем Q#. Алгоритм Гровера. Не будите спящего Цезаря](https://habr.com/ru/articles/768666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768666)
-- [Как мы с помощью чемпионата оценивали профессиональный уровень продактов](https://habr.com/ru/companies/tinkoff/articles/768552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768552)
-- [Как я учусь на курсах frontend разработки с помощью доработанного метода ZettelKasten](https://habr.com/ru/companies/lumanbox/articles/768574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768574)
-- [Сложные клиенты в ИТ: через тернии к профиту](https://habr.com/ru/articles/768646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
