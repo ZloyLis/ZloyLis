@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовали компьютеры в СССР. Общение с вычислительным центром](https://habr.com/ru/articles/768888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768888)
+- [[Перевод] Какой длины должны быть классы — когда «чистый» код на самом деле не так уж и хорош](https://habr.com/ru/companies/beeline_cloud/articles/768878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768878)
 - [Почему два переезда хранилища данных — это не «пожар», а уникальный опыт для прокачки стека](https://habr.com/ru/companies/uchi_ru/articles/768874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768874)
 - [Можно ли получить из нейронки рабочий дизайн интерфейса?](https://habr.com/ru/articles/768856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768856)
 - [Архитектура SwiftUI + VIPER: модульный подход к разработке iOS‑приложений](https://habr.com/ru/articles/768850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768850)
-- [Камера и Flutter](https://habr.com/ru/articles/768846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768846)
-- [ИТ-стажировки в Страховом Доме ВСК: как студенты погружаются в работу Блока ИТ](https://habr.com/ru/companies/vsk_insurance/articles/768786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
