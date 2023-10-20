@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CRUD React c Redux и Saga + typescript в 2023](https://habr.com/ru/articles/757230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757230)
+- [Почему ты не станешь программистом](https://habr.com/ru/articles/768932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768932)
+- [Тернист ли путь в современное IT?](https://habr.com/ru/articles/768926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768926)
 - [Событийное логирование для аналитики и мониторинга работы телеграм-бота](https://habr.com/ru/companies/otus/articles/768220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768220)
 - [Как использовали компьютеры в СССР. Общение с вычислительным центром](https://habr.com/ru/articles/768888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768888)
-- [[Перевод] Какой длины должны быть классы — когда «чистый» код на самом деле не так уж и хорош](https://habr.com/ru/companies/beeline_cloud/articles/768878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768878)
-- [Почему два переезда хранилища данных — это не «пожар», а уникальный опыт для прокачки стека](https://habr.com/ru/companies/uchi_ru/articles/768874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768874)
-- [Можно ли получить из нейронки рабочий дизайн интерфейса?](https://habr.com/ru/articles/768856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
