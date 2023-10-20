@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИТ-стажировки в Страховом Доме ВСК: как студенты погружаются в работу Блока ИТ](https://habr.com/ru/companies/vsk_insurance/articles/768786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768786)
+- [Как мы запустили автобиддер для управления рекламными кампаниями в Ozon?](https://habr.com/ru/companies/ozontech/articles/768102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768102)
+- [Приглашаем на онлайн-митап «Гетерогенность, или Деплой JavaScript туда и обратно»](https://habr.com/ru/companies/kaspersky/articles/768782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768782)
 - [Заработала система «Антифрод»: мошенники больше не позвонят](https://habr.com/ru/companies/newtel/articles/767998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767998)
 - [Как настроить GitHub Actions и не заплакать: пошаговая инструкция](https://habr.com/ru/articles/768770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768770)
-- [Руководить, когда не готов к этому: путь от «чайка-менеджера» до «servant leader»](https://habr.com/ru/companies/oleg-bunin/articles/768614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768614)
-- [API от А до Я &lpar;теория и практика&rpar;](https://habr.com/ru/articles/768752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768752)
-- [Как я создавал мобильное приложение для хранения прочитанных книг BookDesk](https://habr.com/ru/articles/768730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
