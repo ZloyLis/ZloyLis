@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Data Science помогает разрабатывать лекарства](https://habr.com/ru/articles/769022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769022)
+- [[Перевод] Шпаргалка по событийному моделированию](https://habr.com/ru/articles/769018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769018)
 - [Как мы удвоили разрешение фотографий с помощью камеры Flutter на iOS](https://habr.com/ru/articles/769016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769016)
 - [[Перевод] Как создать API в облаке менее чем в 200 строках кода](https://habr.com/ru/companies/timeweb/articles/769010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769010)
 - [Как и почему AI изменит работу дизайнера, но не заменит его](https://habr.com/ru/articles/769002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769002)
-- [Психический симулятор или Triumvirate of Hearts](https://habr.com/ru/articles/768992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768992)
-- [Первые шаги в тест-дизайне: Разбираемся в базовых техниках QA](https://habr.com/ru/articles/768984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
