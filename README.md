@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python: с чего начать изучение, какие курсы пройти](https://habr.com/ru/articles/768986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768986)
+- [Первые шаги в тест-дизайне: Разбираемся в базовых техниках QA](https://habr.com/ru/articles/768984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768984)
 - [Разработка RESTful API: как использовать ExpressJS и другие фреймворки для создания RESTful API](https://habr.com/ru/articles/768976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768976)
 - [Экскурсия в натуральные числа или Расширенная Гипотеза Коллатца, часть II](https://habr.com/ru/articles/768970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768970)
 - [Смартфоны будущего: какими они будут?](https://habr.com/ru/companies/first/articles/768814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768814)
-- [Fusor vs React](https://habr.com/ru/articles/768928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768928)
-- [JavaScript pattern CustomSwitch](https://habr.com/ru/articles/768936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
