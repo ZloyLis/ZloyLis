@@ -23,8 +23,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как и почему AI изменит работу дизайнера, но не заменит его](https://habr.com/ru/articles/769002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769002)
 - [Психический симулятор или Triumvirate of Hearts](https://habr.com/ru/articles/768992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768992)
-- [Python: с чего начать изучение, какие курсы пройти](https://habr.com/ru/articles/768986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768986)
 - [Первые шаги в тест-дизайне: Разбираемся в базовых техниках QA](https://habr.com/ru/articles/768984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768984)
 - [Разработка RESTful API: как использовать ExpressJS и другие фреймворки для создания RESTful API](https://habr.com/ru/articles/768976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768976)
 - [Экскурсия в натуральные числа или Расширенная Гипотеза Коллатца, часть II](https://habr.com/ru/articles/768970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768970)
