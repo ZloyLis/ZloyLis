@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экскурсия в натуральные числа или Расширенная Гипотеза Коллатца, часть II](https://habr.com/ru/articles/768970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768970)
 - [Смартфоны будущего: какими они будут?](https://habr.com/ru/companies/first/articles/768814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768814)
 - [Fusor vs React](https://habr.com/ru/articles/768928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768928)
 - [JavaScript pattern CustomSwitch](https://habr.com/ru/articles/768936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768936)
 - [CRUD React c Redux и Saga + typescript в 2023](https://habr.com/ru/articles/757230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757230)
-- [Почему ты не станешь программистом](https://habr.com/ru/articles/768932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
