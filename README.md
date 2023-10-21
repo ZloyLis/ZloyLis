@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проклятые Земли. Изменяем движок игры! Подробности + ПРИМЕР реверсинга движка](https://habr.com/ru/articles/769050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769050)
 - [MATLAB Simulink и SimInTech на MacBook Pro M2 Max](https://habr.com/ru/articles/769042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769042)
 - [Как Data Science помогает разрабатывать лекарства](https://habr.com/ru/articles/769022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769022)
 - [[Перевод] Шпаргалка по событийному моделированию](https://habr.com/ru/articles/769018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769018)
 - [Как мы удвоили разрешение фотографий с помощью камеры Flutter на iOS](https://habr.com/ru/articles/769016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769016)
-- [[Перевод] Как создать API в облаке менее чем в 200 строках кода](https://habr.com/ru/companies/timeweb/articles/769010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
