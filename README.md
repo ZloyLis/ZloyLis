@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Очень большие числа в физике](https://habr.com/ru/articles/769118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769118)
 - [Читаем/записываем файл в Андроиде без запроса пермишинсов](https://habr.com/ru/articles/769114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769114)
 - [YAR — Yet another relativity](https://habr.com/ru/articles/769062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769062)
 - [[Перевод] Распределённые транзакции](https://habr.com/ru/articles/769102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769102)
 - [Airflow в Kubernetes. Часть 1](https://habr.com/ru/articles/769098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769098)
-- [[Перевод] Пишем графический ASCII-калькулятор с помощью стандартной библиотеки Си](https://habr.com/ru/companies/ruvds/articles/768706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
