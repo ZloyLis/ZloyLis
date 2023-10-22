@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как получить оффер на 180к с помощью ChatGPT?](https://habr.com/ru/articles/769158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769158)
+- [Делаем 10-и минутную задачу за 2 часа с помощью ChatGPT](https://habr.com/ru/articles/769154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769154)
+- [Изучаем Q#. Статистическое сравнение двух последовательностей чисел](https://habr.com/ru/articles/769148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769148)
 - [Варианты развития QA специалиста если вы уже «у потолка»](https://habr.com/ru/articles/769144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769144)
 - [Очень большие числа в физике](https://habr.com/ru/articles/769118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769118)
-- [Читаем/записываем файл в Андроиде без запроса пермишинсов](https://habr.com/ru/articles/769114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769114)
-- [YAR — Yet another relativity](https://habr.com/ru/articles/769062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769062)
-- [[Перевод] Распределённые транзакции](https://habr.com/ru/articles/769102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
