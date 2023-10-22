@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пишем графический ASCII-калькулятор с помощью стандартной библиотеки Си](https://habr.com/ru/companies/ruvds/articles/768706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768706)
+- [Взлетаем на backend: наш путь к победе в номинации «Лучший backend-разработчик» на хакатоне от ООО «Лента» и ЯП](https://habr.com/ru/articles/769088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769088)
+- [Чтение на выходные: DIY-материалы о контейнерах, DevOps и архитектуре — личный опыт напрямую от специалистов](https://habr.com/ru/companies/beeline_cloud/articles/769034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769034)
 - [Практическое руководство по созданию Helm чарта или как избавиться от рутины при работе с YAML манифестами](https://habr.com/ru/articles/769046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769046)
 - [Проклятые Земли. Изменяем движок игры! Подробности + ПРИМЕР реверсинга движка](https://habr.com/ru/articles/769050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769050)
-- [MATLAB Simulink и SimInTech на MacBook Pro M2 Max](https://habr.com/ru/articles/769042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769042)
-- [Как Data Science помогает разрабатывать лекарства](https://habr.com/ru/articles/769022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769022)
-- [[Перевод] Шпаргалка по событийному моделированию](https://habr.com/ru/articles/769018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
