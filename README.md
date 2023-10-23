@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Особенности кодировки строк в Base64 в JavaScript](https://habr.com/ru/articles/769256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769256)
+- [[Перевод] Мы использовали слишком много абстракций, и будущее выглядит мрачным](https://habr.com/ru/articles/769248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769248)
+- [Помог себе, помоги другому: мой опыт менторства в IT](https://habr.com/ru/companies/outlines_tech/articles/768920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768920)
 - [Service Workers против медленного интернета: Кэширование и улучшение UX](https://habr.com/ru/articles/769170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769170)
 - [Моделирование систем электромобиля](https://habr.com/ru/companies/rosatom/articles/769226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769226)
-- [Опыт использования AI для QA: тестировщикам приготовиться на выход?](https://habr.com/ru/articles/769168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769168)
-- [Русский LLM-помощник &lpar;saiga&rpar; с кэшем, используя RAG &lpar;Retrieval-Augmented Generation&rpar;](https://habr.com/ru/articles/769124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769124)
-- [Реализация экранов авторизации и регистрации с помощью Custom View и Firebase](https://habr.com/ru/articles/768166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
