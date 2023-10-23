@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программисты с аллергией на предметную область](https://habr.com/ru/articles/769308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769308)
 - [[Перевод] Особенности кодировки строк в Base64 в JavaScript](https://habr.com/ru/articles/769256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769256)
 - [[Перевод] Мы использовали слишком много абстракций, и будущее выглядит мрачным](https://habr.com/ru/articles/769248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769248)
 - [Помог себе, помоги другому: мой опыт менторства в IT](https://habr.com/ru/companies/outlines_tech/articles/768920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768920)
 - [Service Workers против медленного интернета: Кэширование и улучшение UX](https://habr.com/ru/articles/769170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769170)
-- [Моделирование систем электромобиля](https://habr.com/ru/companies/rosatom/articles/769226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
