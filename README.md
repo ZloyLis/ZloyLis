@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Большая подборка открытых API](https://habr.com/ru/articles/769384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769384)
+- [Как применять метод PCA для уменьшения размерности данных](https://habr.com/ru/companies/otus/articles/769274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769274)
+- [Управление зависимостями в микросервисной архитектуре](https://habr.com/ru/articles/769372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769372)
 - [Security Week 2343: новый инцидент в компании Okta](https://habr.com/ru/companies/kaspersky/articles/769352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769352)
 - [Как реализовать систему рекомендаций на сайте просмотра кино](https://habr.com/ru/companies/otus/articles/769026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769026)
-- [[Перевод] Как зловредные приложения могут скрывать работу с буфером обмена в Android 14](https://habr.com/ru/companies/ruvds/articles/769320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769320)
-- [Программисты с аллергией на предметную область](https://habr.com/ru/articles/769308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769308)
-- [[Перевод] Особенности кодировки строк в Base64 в JavaScript](https://habr.com/ru/articles/769256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
