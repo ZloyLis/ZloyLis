@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт использования AI для QA: тестировщикам приготовиться на выход?](https://habr.com/ru/articles/769168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769168)
+- [Русский LLM-помощник &lpar;saiga&rpar; с кэшем, используя RAG &lpar;Retrieval-Augmented Generation&rpar;](https://habr.com/ru/articles/769124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769124)
 - [Реализация экранов авторизации и регистрации с помощью Custom View и Firebase](https://habr.com/ru/articles/768166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768166)
 - [Мобильная разработка за неделю #511 &lpar;16 — 22 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/769172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769172)
 - [Как получить оффер на 180к с помощью ChatGPT?](https://habr.com/ru/articles/769158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769158)
-- [Делаем 10-минутную задачу за 2 часа с помощью ChatGPT](https://habr.com/ru/articles/769154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769154)
-- [Изучаем Q#. Статистическое сравнение двух последовательностей чисел](https://habr.com/ru/articles/769148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
