@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Лидерство в тестировании: тестирование, основанное на рисках](https://habr.com/ru/articles/769524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769524)
+- [Потерял месяц согласований, психанул. Теперь только платные брифы](https://habr.com/ru/articles/769570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769570)
+- [[Перевод] Чёрный рынок звёздочек на GitHub, который помогает читерить с популярностью](https://habr.com/ru/articles/769568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769568)
 - [Как устроен GIL &lpar;Global Interpreter Lock&rpar; в Python: влияние на многозадачность и производительность](https://habr.com/ru/companies/otus/articles/769448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769448)
 - [Что будет с мобильными релизами, если улучшать и автоматизировать процессы](https://habr.com/ru/companies/avito/articles/768124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768124)
-- [Автоматизация бизнес-процессов в Heflo: настройка форм](https://habr.com/ru/companies/glowbyte/articles/769538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769538)
-- [Переезд монолита в k8s. Делаем каршеринг cloud native](https://habr.com/ru/companies/citydrive/articles/769528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769528)
-- [Делай продукт и бросай его в воду. История собственной лоу-код платформы в трех актах](https://habr.com/ru/articles/769296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
