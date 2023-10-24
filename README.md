@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [One week offer для системных аналитиков и аналитиков данных — с 7 по 10 ноября](https://habr.com/ru/companies/sportmaster_lab/articles/769618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769618)
 - [[Перевод] Лидерство в тестировании: тестирование, основанное на рисках](https://habr.com/ru/articles/769524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769524)
 - [Потерял месяц согласований, психанул. Теперь только платные брифы](https://habr.com/ru/articles/769570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769570)
 - [[Перевод] Чёрный рынок звёздочек на GitHub, который помогает читерить с популярностью](https://habr.com/ru/articles/769568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769568)
 - [Как устроен GIL &lpar;Global Interpreter Lock&rpar; в Python: влияние на многозадачность и производительность](https://habr.com/ru/companies/otus/articles/769448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769448)
-- [Что будет с мобильными релизами, если улучшать и автоматизировать процессы](https://habr.com/ru/companies/avito/articles/768124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
