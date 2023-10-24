@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Метадерево как инструмент для выбора средства визуализации](https://habr.com/ru/articles/769482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769482)
-- [Анализ 10 000 вопросов с технических интервью: частотность и вероятность встречи](https://habr.com/ru/articles/769480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769480)
-- [Устранение “шумов” LabVIEW при приеме USB/СОМ данных](https://habr.com/ru/articles/769476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769476)
-- [Порядок создания технического задания для разработки информационной системы](https://habr.com/ru/articles/769460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769460)
-- [Stone: знакомство с API](https://habr.com/ru/articles/769410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769410)
+- [Отказоустойчивая архитектура: почему Tarantool не падает?](https://habr.com/ru/companies/vk/articles/768360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768360)
+- [Когнитивные искажения в программировании](https://habr.com/ru/companies/reksoft/articles/769504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769504)
+- [Как и почему я писал для Флиппера на Си-с-классами](https://habr.com/ru/companies/ruvds/articles/768658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768658)
+- [[Перевод] Требовать от разработчиков урезать сроки – всё равно что торговаться с метеорологом о погоде](https://habr.com/ru/companies/productivity_inside/articles/769490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769490)
+- [9 алгоритмов сортировки и поиска для JS, о которых вас спросят на собеседовании](https://habr.com/ru/companies/simbirsoft/articles/769312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
