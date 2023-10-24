@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правильный мониторинг API: метрики и лучшие практики](https://habr.com/ru/companies/ru_mts/articles/769646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769646)
 - [Restic: эффективное резервное копирование из Stdin](https://habr.com/ru/articles/769622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769622)
 - [One week offer для системных аналитиков и аналитиков данных — с 7 по 10 ноября](https://habr.com/ru/companies/sportmaster_lab/articles/769618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769618)
 - [[Перевод] Лидерство в тестировании: тестирование, основанное на рисках](https://habr.com/ru/articles/769524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769524)
 - [Потерял месяц согласований, психанул. Теперь только платные брифы](https://habr.com/ru/articles/769570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769570)
-- [[Перевод] Чёрный рынок звёздочек на GitHub, который помогает читерить с популярностью](https://habr.com/ru/articles/769568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
