@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;16.10 – 22.10.23&rpar;](https://habr.com/ru/articles/769400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769400)
 - [Flutter Yandex Mapkit: как внедрить основные инструменты Яндекс Карт в проект на Flutter. Часть 1](https://habr.com/ru/companies/friflex/articles/769662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769662)
 - [Обзор невизуальной доступности смартфонов под управлением операционной системы Android](https://habr.com/ru/articles/769654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769654)
 - [Правильный мониторинг API: метрики и лучшие практики](https://habr.com/ru/companies/ru_mts/articles/769646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769646)
 - [Restic: эффективное резервное копирование из Stdin](https://habr.com/ru/articles/769622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769622)
-- [One week offer для системных аналитиков и аналитиков данных — с 7 по 10 ноября](https://habr.com/ru/companies/sportmaster_lab/articles/769618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
