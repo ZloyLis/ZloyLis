@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как устроен GIL &lpar;Global Interpreter Lock&rpar; в Python: влияние на многозадачность и производительность](https://habr.com/ru/companies/otus/articles/769448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769448)
+- [Что будет с мобильными релизами, если улучшать и автоматизировать процессы](https://habr.com/ru/companies/avito/articles/768124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768124)
+- [Автоматизация бизнес-процессов в Heflo: настройка форм](https://habr.com/ru/companies/glowbyte/articles/769538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769538)
 - [Переезд монолита в k8s. Делаем каршеринг cloud native](https://habr.com/ru/companies/citydrive/articles/769528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769528)
 - [Делай продукт и бросай его в воду. История собственной лоу-код платформы в трех актах](https://habr.com/ru/articles/769296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769296)
-- [Отказоустойчивая архитектура: почему Tarantool не падает?](https://habr.com/ru/companies/vk/articles/768360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768360)
-- [Когнитивные искажения в программировании](https://habr.com/ru/companies/reksoft/articles/769504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769504)
-- [Как и почему я писал для Флиппера на Си-с-классами](https://habr.com/ru/companies/ruvds/articles/768658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
