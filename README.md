@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переезд монолита в k8s. Делаем каршеринг cloud native](https://habr.com/ru/companies/citydrive/articles/769528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769528)
+- [Делай продукт и бросай его в воду. История собственной лоу-код платформы в трех актах](https://habr.com/ru/articles/769296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769296)
 - [Отказоустойчивая архитектура: почему Tarantool не падает?](https://habr.com/ru/companies/vk/articles/768360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768360)
 - [Когнитивные искажения в программировании](https://habr.com/ru/companies/reksoft/articles/769504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769504)
 - [Как и почему я писал для Флиппера на Си-с-классами](https://habr.com/ru/companies/ruvds/articles/768658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768658)
-- [[Перевод] Требовать от разработчиков урезать сроки – всё равно что торговаться с метеорологом о погоде](https://habr.com/ru/companies/productivity_inside/articles/769490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769490)
-- [9 алгоритмов сортировки и поиска для JS, о которых вас спросят на собеседовании](https://habr.com/ru/companies/simbirsoft/articles/769312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
