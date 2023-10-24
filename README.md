@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Порядок создания технического задания для разработки информационной системы](https://habr.com/ru/articles/769460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769460)
 - [Stone: знакомство с API](https://habr.com/ru/articles/769410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769410)
 - [Большая подборка открытых API](https://habr.com/ru/articles/769384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769384)
 - [Как применять метод PCA для уменьшения размерности данных](https://habr.com/ru/companies/otus/articles/769274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769274)
 - [Управление зависимостями в микросервисной архитектуре](https://habr.com/ru/articles/769372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769372)
-- [Security Week 2343: новый инцидент в компании Okta](https://habr.com/ru/companies/kaspersky/articles/769352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
