@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость XXE в .NET 6 SDK: с чем боролись…](https://habr.com/ru/articles/769714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769714)
 - [Фильтрация объектов по координатам &lpar;широте и долготе&rpar;](https://habr.com/ru/articles/769708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769708)
 - [Процедурная генерация укрытий в играх](https://habr.com/ru/articles/769696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769696)
 - [Как программисту использовать ИИ на практике &lpar;Bard, ChatGPT, Midjourney&rpar;](https://habr.com/ru/articles/769128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769128)
 - [Apple Pro Weekly News &lpar;16.10 – 22.10.23&rpar;](https://habr.com/ru/articles/769400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769400)
-- [Flutter Yandex Mapkit: как внедрить основные инструменты Яндекс Карт в проект на Flutter. Часть 1](https://habr.com/ru/companies/friflex/articles/769662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
