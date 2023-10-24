@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метадерево как инструмент для выбора средства визуализации](https://habr.com/ru/articles/769482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769482)
+- [Анализ 10 000 вопросов с технических интервью: частотность и вероятность встречи](https://habr.com/ru/articles/769480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769480)
+- [Устранение “шумов” LabVIEW при приеме USB/СОМ данных](https://habr.com/ru/articles/769476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769476)
 - [Порядок создания технического задания для разработки информационной системы](https://habr.com/ru/articles/769460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769460)
 - [Stone: знакомство с API](https://habr.com/ru/articles/769410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769410)
-- [Большая подборка открытых API](https://habr.com/ru/articles/769384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769384)
-- [Как применять метод PCA для уменьшения размерности данных](https://habr.com/ru/companies/otus/articles/769274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769274)
-- [Управление зависимостями в микросервисной архитектуре](https://habr.com/ru/articles/769372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
