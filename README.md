@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что выбрать новичку: Python или Java?](https://habr.com/ru/companies/productstar/articles/769680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769680)
+- [Как я запилил видеочат-рулетку за 2 месяца с нуля](https://habr.com/ru/articles/769830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769830)
+- [Мониторинг и трассировка в Go: от Prometheus до Jaeger](https://habr.com/ru/companies/otus/articles/769806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769806)
 - [React vs Vue vs Angular. Часть 3](https://habr.com/ru/companies/auriga/articles/768050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768050)
-- [Инженерный калькулятор на C++. Часть 1: Токенизатор математических выражений](https://habr.com/ru/articles/769812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769812)
-- [Как выстроить удобные процессы в работе с монорепой](https://habr.com/ru/companies/oleg-bunin/articles/735022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735022)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 2](https://habr.com/ru/companies/ruvds/articles/766344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766344)
-- [Оптимизация веб-приложений: на что стоит обратить внимание](https://habr.com/ru/companies/cloud_mts/articles/768266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768266)
+- [10 полезных англоязычных ресурсов для программистов](https://habr.com/ru/companies/fix_price/articles/769818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
