@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 8 углубленных вопросов на собеседованиях на роль сеньора в JavaScript](https://habr.com/ru/companies/timeweb/articles/769844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769844)
+- [6 полезных инструментов на основе ИИ для разработчиков](https://habr.com/ru/companies/ru_mts/articles/769900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769900)
 - [Реализация консенсусного алгоритма Raft](https://habr.com/ru/companies/otus/articles/769786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769786)
 - [Swift UI: от сомнений к успешному внедрению](https://habr.com/ru/companies/banki/articles/769886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769886)
 - [Что выбрать новичку: Python или Java?](https://habr.com/ru/companies/productstar/articles/769680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769680)
-- [Как я запилил видеочат-рулетку за 2 месяца с нуля](https://habr.com/ru/articles/769830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769830)
-- [Мониторинг и трассировка в Go: от Prometheus до Jaeger](https://habr.com/ru/companies/otus/articles/769806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
