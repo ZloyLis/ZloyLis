@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автосборка Fsbl, U-Boot, linux kernel и установка debian для amd64 для Zynq Ultrascale zcu106](https://habr.com/ru/articles/769988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769988)
 - [Пишем свой QTableView с нуля](https://habr.com/ru/articles/761530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761530)
 - [Простой пример ИИ для управления роботом. TensorFlow + Node Js](https://habr.com/ru/articles/769958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769958)
 - [Зачем Git тестировщику](https://habr.com/ru/companies/yandex_praktikum/articles/769644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769644)
 - [[Перевод] 8 углубленных вопросов на собеседованиях на роль сеньора в JavaScript](https://habr.com/ru/companies/timeweb/articles/769844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769844)
-- [6 полезных инструментов на основе ИИ для разработчиков](https://habr.com/ru/companies/ru_mts/articles/769900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
