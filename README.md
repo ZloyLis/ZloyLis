@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React vs Vue vs Angular. Часть 3](https://habr.com/ru/companies/auriga/articles/768050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768050)
+- [Инженерный калькулятор на C++. Часть 1: Токенизатор математических выражений](https://habr.com/ru/articles/769812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769812)
 - [Как выстроить удобные процессы в работе с монорепой](https://habr.com/ru/companies/oleg-bunin/articles/735022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735022)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 2](https://habr.com/ru/companies/ruvds/articles/766344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766344)
 - [Оптимизация веб-приложений: на что стоит обратить внимание](https://habr.com/ru/companies/cloud_mts/articles/768266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768266)
-- [Готов ли Swift OpenAPI Generator для продуктивного кода?](https://habr.com/ru/companies/ozontech/articles/769624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769624)
-- [Как выжать максимум из Confluence. Глава первая](https://habr.com/ru/companies/tinkoff/articles/769694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
