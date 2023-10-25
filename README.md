@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выжать максимум из Confluence. Глава первая](https://habr.com/ru/companies/tinkoff/articles/769694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769694)
+- [Подводные камни при работе с исполнителем во время аттестации объекта информатизации](https://habr.com/ru/companies/cloud4y/articles/768640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768640)
 - [Как дизайнеры воруют и почему это нормально](https://habr.com/ru/articles/769740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769740)
 - [Как интегрировать мультиаккаунт в уже работающий сервис и не поломать всё](https://habr.com/ru/companies/vk/articles/769636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769636)
 - [Рендеринг трёхмерных развязок, мостов и тоннелей для реалистичных карт](https://habr.com/ru/companies/2gis/articles/769552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769552)
-- [Оптимизируя sequences — или как мой код попал в kotlin](https://habr.com/ru/articles/768306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768306)
-- [Построение графа покрытия UI-тестами бизнес-логики на основе VisualFSM](https://habr.com/ru/companies/skbkontur/articles/768278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
