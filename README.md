@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выстроить удобные процессы в работе с монорепой](https://habr.com/ru/companies/oleg-bunin/articles/735022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735022)
+- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 2](https://habr.com/ru/companies/ruvds/articles/766344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766344)
+- [Оптимизация веб-приложений: на что стоит обратить внимание](https://habr.com/ru/companies/cloud_mts/articles/768266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768266)
+- [Готов ли Swift OpenAPI Generator для продуктивного кода?](https://habr.com/ru/companies/ozontech/articles/769624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769624)
 - [Как выжать максимум из Confluence. Глава первая](https://habr.com/ru/companies/tinkoff/articles/769694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769694)
-- [Подводные камни при работе с исполнителем во время аттестации объекта информатизации](https://habr.com/ru/companies/cloud4y/articles/768640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768640)
-- [Как дизайнеры воруют и почему это нормально](https://habr.com/ru/articles/769740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769740)
-- [Как интегрировать мультиаккаунт в уже работающий сервис и не поломать всё](https://habr.com/ru/companies/vk/articles/769636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769636)
-- [Рендеринг трёхмерных развязок, мостов и тоннелей для реалистичных карт](https://habr.com/ru/companies/2gis/articles/769552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
