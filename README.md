@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация консенсусного алгоритма Raft](https://habr.com/ru/companies/otus/articles/769786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769786)
+- [Swift UI: от сомнений к успешному внедрению](https://habr.com/ru/companies/banki/articles/769886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769886)
 - [Что выбрать новичку: Python или Java?](https://habr.com/ru/companies/productstar/articles/769680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769680)
 - [Как я запилил видеочат-рулетку за 2 месяца с нуля](https://habr.com/ru/articles/769830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769830)
 - [Мониторинг и трассировка в Go: от Prometheus до Jaeger](https://habr.com/ru/companies/otus/articles/769806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769806)
-- [React vs Vue vs Angular. Часть 3](https://habr.com/ru/companies/auriga/articles/768050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768050)
-- [10 полезных англоязычных ресурсов для программистов](https://habr.com/ru/companies/fix_price/articles/769818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
