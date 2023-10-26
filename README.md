@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработка и тестирование целочисленного сумматора с AXI-Stream интерфейсами, часть 2](https://habr.com/ru/articles/770034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770034)
-- [В потоке лендингов: путь к автоматизации](https://habr.com/ru/companies/nlmk/articles/760094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=760094)
-- [CRC — это просто &lpar;деление столбиком&rpar;](https://habr.com/ru/articles/770014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770014)
-- [Автосборка Fsbl, U-Boot, linux kernel и установка debian для arm64 для Zynq Ultrascale zcu106](https://habr.com/ru/articles/769988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769988)
-- [Пишем свой QTableView с нуля](https://habr.com/ru/articles/761530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761530)
+- [Как можно использовать .NET из Javascript &lpar;React&rpar; в 2023 году](https://habr.com/ru/articles/770058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770058)
+- [Yet Another Easyjson. Как я не устаю делать велосипеды, а главное зачем](https://habr.com/ru/companies/timeweb/articles/769718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769718)
+- [Опечатки, нулевые указатели и коварный таб: 33 фрагмента в библиотеке GTK](https://habr.com/ru/companies/pvs-studio/articles/770050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770050)
+- [[Перевод] Что такое API-шлюзы и Gateway API и почему за ними будущее нативных облачных приложений](https://habr.com/ru/companies/flant/articles/770036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770036)
+- [Путь от 0 до первых 100 заказов. Как мы помогли вырасти стартапу, создав удобный сервис по аренде яхт](https://habr.com/ru/companies/pyrobyte/articles/770010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
