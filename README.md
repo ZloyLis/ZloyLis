@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Электронные книги? Аудиокниги? Смешать, но не взбалтывать](https://habr.com/ru/companies/rostelecom/articles/763018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763018)
 - [Anytype вместо Notion](https://habr.com/ru/articles/770158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770158)
 - [Как и зачем мы парсим XML](https://habr.com/ru/companies/tensor/articles/769722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769722)
 - [Адаптивный дизайн приложений на Gtk](https://habr.com/ru/companies/first/articles/770068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770068)
 - [Как можно использовать .NET из Javascript &lpar;React&rpar; в 2023 году](https://habr.com/ru/articles/770058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770058)
-- [Yet Another Easyjson. Как я не устаю делать велосипеды, а главное зачем](https://habr.com/ru/companies/timeweb/articles/769718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
