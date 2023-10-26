@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Yandex Mapkit: как внедрить основные инструменты Яндекс Карт в проект на Flutter. Часть 2](https://habr.com/ru/companies/friflex/articles/770200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770200)
 - [Электронные книги? Аудиокниги? Смешать, но не взбалтывать](https://habr.com/ru/companies/rostelecom/articles/763018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763018)
 - [Anytype вместо Notion](https://habr.com/ru/articles/770158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770158)
 - [Как и зачем мы парсим XML](https://habr.com/ru/companies/tensor/articles/769722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769722)
 - [Адаптивный дизайн приложений на Gtk](https://habr.com/ru/companies/first/articles/770068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770068)
-- [Как можно использовать .NET из Javascript &lpar;React&rpar; в 2023 году](https://habr.com/ru/articles/770058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
