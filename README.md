@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как и зачем мы парсим XML](https://habr.com/ru/companies/tensor/articles/769722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769722)
 - [Адаптивный дизайн приложений на Gtk](https://habr.com/ru/companies/first/articles/770068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770068)
 - [Как можно использовать .NET из Javascript &lpar;React&rpar; в 2023 году](https://habr.com/ru/articles/770058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770058)
 - [Yet Another Easyjson. Как я не устаю делать велосипеды, а главное зачем](https://habr.com/ru/companies/timeweb/articles/769718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769718)
 - [Опечатки, нулевые указатели и коварный таб: 33 фрагмента в библиотеке GTK](https://habr.com/ru/companies/pvs-studio/articles/770050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770050)
-- [[Перевод] Что такое API-шлюзы и Gateway API и почему за ними будущее нативных облачных приложений](https://habr.com/ru/companies/flant/articles/770036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
