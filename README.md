@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Конкурентный отказ](https://habr.com/ru/companies/piter/articles/769802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769802)
+- [Разбор задач Школы программистов 2023](https://habr.com/ru/companies/hh/articles/769642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769642)
+- [Записки архитектора. Как давать имена приложениям и сервисам](https://habr.com/ru/articles/769386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769386)
 - [Проектирование REST API: спорные вопросы с проектов и собеседований на системного аналитика &lpar;и не только&rpar;](https://habr.com/ru/articles/770226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770226)
 - [[Перевод] Как я перестал бояться и полюбил Vim](https://habr.com/ru/companies/ispsystem/articles/770234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770234)
-- [Где 15 минут пешком от дома до метро в Москве и как различать панельные дома…](https://habr.com/ru/articles/770044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770044)
-- [Топ-3 авторских DevOps/сисадмин-канала](https://habr.com/ru/articles/770210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770210)
-- [API: гайд для самых маленьких](https://habr.com/ru/articles/770208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
