@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектирование REST API: спорные вопросы с проектов и собеседований на системного аналитика &lpar;и не только&rpar;](https://habr.com/ru/articles/770226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770226)
 - [[Перевод] Как я перестал бояться и полюбил Vim](https://habr.com/ru/companies/ispsystem/articles/770234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770234)
 - [Где 15 минут пешком от дома до метро в Москве и как различать панельные дома…](https://habr.com/ru/articles/770044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770044)
 - [Топ-3 авторских DevOps/сисадмин-канала](https://habr.com/ru/articles/770210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770210)
 - [API: гайд для самых маленьких](https://habr.com/ru/articles/770208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770208)
-- [Борьба с несбалансированными данными](https://habr.com/ru/companies/otus/articles/769242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
