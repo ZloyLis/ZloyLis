@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сравнение алгоритмов балансировки нагрузки: Round Robin vs. Least Connections vs. IP Hash](https://habr.com/ru/companies/otus/articles/770248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770248)
-- [Работа над доступностью: с чего начать, куда копать, как оценить прогресс](https://habr.com/ru/companies/rtlabs/articles/770272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770272)
-- [История одной Real-Time-рекомендательной системы: пример построения решения от нуля до реализации](https://habr.com/ru/companies/vk/articles/769508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769508)
-- [[Перевод] Grafana Beyla: автоинструментарий eBPF с открытым исходным кодом для наблюдения за приложением](https://habr.com/ru/companies/kts/articles/770048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770048)
-- [Какие проблемы возникают при разработке мобильных центров принятия решений](https://habr.com/ru/articles/764706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764706)
+- [Playground. Как сэкономить кучу времени на настройке окружения](https://habr.com/ru/companies/sbermarket/articles/769952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769952)
+- [Гайд по микрофронтендам на single-spa, или Как уже наконец-то уйти от монолита во фронтенде](https://habr.com/ru/companies/samokat_tech/articles/766978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766978)
+- [Использование Istio для управления трафиком и мониторинга в микросервисах](https://habr.com/ru/companies/otus/articles/770254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770254)
+- [От Style Transfer до диффузии: эволюция визуальных эффектов на смартфонах](https://habr.com/ru/articles/770320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770320)
+- [[Перевод] Куда уходят разработчики после сокращений?](https://habr.com/ru/companies/productivity_inside/articles/770350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
