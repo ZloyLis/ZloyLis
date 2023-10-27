@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [683 заявки, 23 приложения, десяток бэкенд-систем — как тяжелый монолит обернуть в удобный интерфейс](https://habr.com/ru/companies/alfa/articles/769932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769932)
+- [[Перевод] Что я хотел бы знать заранее, когда выкупал себе целую ASN](https://habr.com/ru/articles/770386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770386)
+- [[Перевод] Мнение три года спустя: стоил ли того переход с JavaScript на Rust?](https://habr.com/ru/articles/770314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770314)
 - [[Перевод] Как в 180,000 раз ускорить анализ данных с помощью Rust](https://habr.com/ru/companies/ruvds/articles/769808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769808)
 - [Как мы определили веса алгоритмов ранжирования крупнейших маркетплейсов на открытых данных](https://habr.com/ru/companies/okkamgroup/articles/770328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770328)
-- [Как мы заинжектили кнопку на Behance](https://habr.com/ru/articles/770360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770360)
-- [ИИ выходит на новый уровень: LLM обретают пространственно-временную картину мира](https://habr.com/ru/companies/bothub/articles/770358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770358)
-- [Детекция машин на мобилке в 2023. С какими проблемами мы столкнулись и как решали](https://habr.com/ru/companies/raft/articles/770302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
