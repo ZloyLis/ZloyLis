@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Playground. Как сэкономить кучу времени на настройке окружения](https://habr.com/ru/companies/sbermarket/articles/769952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769952)
-- [Гайд по микрофронтендам на single-spa, или Как уже наконец-то уйти от монолита во фронтенде](https://habr.com/ru/companies/samokat_tech/articles/766978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766978)
-- [Использование Istio для управления трафиком и мониторинга в микросервисах](https://habr.com/ru/companies/otus/articles/770254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770254)
-- [От Style Transfer до диффузии: эволюция визуальных эффектов на смартфонах](https://habr.com/ru/articles/770320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770320)
-- [[Перевод] Куда уходят разработчики после сокращений?](https://habr.com/ru/companies/productivity_inside/articles/770350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770350)
+- [[Перевод] Как в 180,000 раз ускорить анализ данных с помощью Rust](https://habr.com/ru/companies/ruvds/articles/769808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769808)
+- [Как мы определили веса алгоритмов ранжирования крупнейших маркетплейсов на открытых данных](https://habr.com/ru/companies/okkamgroup/articles/770328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770328)
+- [Как мы заинжектили кнопку на Behance](https://habr.com/ru/articles/770360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770360)
+- [ИИ выходит на новый уровень: LLM обретают пространственно-временную картину мира](https://habr.com/ru/companies/bothub/articles/770358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770358)
+- [Детекция машин на мобилке в 2023. С какими проблемами мы столкнулись и как решали](https://habr.com/ru/companies/raft/articles/770302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
