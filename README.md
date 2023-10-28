@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Освоение AWS CDK: настройка пользовательского домена для вашего HTTP-шлюза](https://habr.com/ru/articles/770480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770480)
 - [Keyboard Layout Guide](https://habr.com/ru/articles/770472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770472)
 - [Двухтрубные системы отопления тупикового и попутного типа. Мнимая магия «петли Тихельмана»](https://habr.com/ru/articles/770464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770464)
 - [[Перевод] Вам не нужен новый iPhone — вам просто нужен новый аккумулятор](https://habr.com/ru/articles/770436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770436)
 - [5 известных нерешённых задач, условие которых нетрудно понять](https://habr.com/ru/articles/770426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770426)
-- [[Перевод] C++23: четыре новых ассоциативных контейнера](https://habr.com/ru/companies/otus/articles/770404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
