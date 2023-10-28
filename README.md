@@ -27,7 +27,7 @@ ___
 - [Как тяжелый монолит обернуть в удобный интерфейс](https://habr.com/ru/companies/alfa/articles/769932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769932)
 - [[Перевод] Что я хотел бы знать заранее, когда выкупал себе целую ASN](https://habr.com/ru/articles/770386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770386)
 - [[Перевод] Мнение три года спустя: стоил ли того переход с JavaScript на Rust?](https://habr.com/ru/articles/770314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770314)
-- [[Перевод] Как в 180,000 раз ускорить анализ данных с помощью Rust](https://habr.com/ru/companies/ruvds/articles/769808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769808)
+- [[Перевод] Как в 180 000 раз ускорить анализ данных с помощью Rust](https://habr.com/ru/companies/ruvds/articles/769808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
