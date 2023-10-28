@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ситуация на российском рынке Android-разработки. Как оставаться востребованным специалистом и какие навыки развивать?](https://habr.com/ru/articles/770502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770502)
 - [[Перевод] Введение в Чистую архитектуру через 6 кругов рефакторинга](https://habr.com/ru/articles/770494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770494)
 - [Решаем трудности адаптации мобильных приложений с Responsive_framework](https://habr.com/ru/articles/770486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770486)
 - [Разработка real-time приложений с Python и WebSocket](https://habr.com/ru/companies/otus/articles/770256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770256)
 - [[Перевод] Освоение AWS CDK: настройка пользовательского домена для вашего HTTP-шлюза](https://habr.com/ru/articles/770480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770480)
-- [Keyboard Layout Guide](https://habr.com/ru/articles/770472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
