@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #512 &lpar;23 — 29 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/770550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770550)
+- [IP калькулятор глазами админа или инструмент для работы со списками сетей](https://habr.com/ru/articles/770546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770546)
 - [Искусство хакатонов: Как раскодировать путь к победе](https://habr.com/ru/articles/770538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770538)
+- [Обращение к издательствам: пожалуйста, не переводите термины](https://habr.com/ru/articles/770536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770536)
 - [Ситуация на российском рынке Android-разработки. Как разработчику оставаться востребованным специалистом?](https://habr.com/ru/articles/770502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770502)
-- [[Перевод] Введение в Чистую архитектуру через 6 кругов рефакторинга](https://habr.com/ru/articles/770494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770494)
-- [Решаем трудности адаптации мобильных приложений с Responsive_framework](https://habr.com/ru/articles/770486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770486)
-- [Разработка real-time приложений с Python и WebSocket](https://habr.com/ru/companies/otus/articles/770256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
