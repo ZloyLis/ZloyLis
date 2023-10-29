@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать самого простого телефонного Робота-Информатора &lpar;AimyLogic&rpar;](https://habr.com/ru/articles/770552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770552)
 - [Мобильная разработка за неделю #512 &lpar;23 — 29 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/770550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770550)
 - [IP калькулятор глазами админа или инструмент для работы со списками сетей](https://habr.com/ru/articles/770546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770546)
 - [Искусство хакатонов: Как раскодировать путь к победе](https://habr.com/ru/articles/770538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770538)
 - [Обращение к издательствам: пожалуйста, не переводите термины](https://habr.com/ru/articles/770536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770536)
-- [Ситуация на российском рынке Android-разработки. Как разработчику оставаться востребованным специалистом?](https://habr.com/ru/articles/770502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
