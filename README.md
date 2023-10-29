@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [7. Точность систем автоматического регулирования &lpar;ч. 2&rpar;](https://habr.com/ru/articles/744212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744212)
+- [Поиск пересечений между отрезком и прямой или прямой и прямой в трехмерном пространстве](https://habr.com/ru/articles/770610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770610)
+- [[Перевод] Улучшение дизайн-ревью в Google](https://habr.com/ru/articles/770544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770544)
 - [Как мне захотелось систематизировать виды тестирования](https://habr.com/ru/articles/770600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770600)
 - [Реквием по Одиночке](https://habr.com/ru/articles/770592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770592)
-- [Как правильно смотреть и использовать конкурентов на пользу продукту: 5 неочевидных практик](https://habr.com/ru/articles/770586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770586)
-- [ActivityResult API и Compose](https://habr.com/ru/articles/770562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770562)
-- [Мобильная разработка за неделю #512 &lpar;23 — 29 октября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/770550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
