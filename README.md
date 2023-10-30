@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Индексирование полнотекстовых данных в PostgreSQL с использованием модуля pg_trgm](https://habr.com/ru/companies/otus/articles/770674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770674)
 - [Управление общей кодовой базой в микросервисной архитектуре](https://habr.com/ru/articles/769338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769338)
 - [[Перевод] О сложности и монолитах](https://habr.com/ru/companies/ruvds/articles/770262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770262)
 - [Осмысленная визуализация при анализе и проектировании в действии](https://habr.com/ru/articles/770756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770756)
 - [Дорогой ИТ-дубль: почему дублирующие программные продукты мешают развитию цифровой экономики](https://habr.com/ru/articles/770742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770742)
-- [Переизобретаем файловую систему: &lpar;Open&rpar;ZFS](https://habr.com/ru/companies/vk/articles/770300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
