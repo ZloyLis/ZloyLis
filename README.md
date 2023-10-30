@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переизобретаем файловую систему: &lpar;Open&rpar;ZFS](https://habr.com/ru/companies/vk/articles/770300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770300)
 - [Проектирование интеграции. Чек-лист — как подготовить архитектурное решение](https://habr.com/ru/companies/alfa/articles/770184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770184)
 - [Giftadvisor: как мы придумали использовать ChatGPT не ради хайпа, а с реальной пользой](https://habr.com/ru/articles/770708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770708)
 - [Что будет если команда, не видавшая Compose, решила делать новую сложную фичу на нём?](https://habr.com/ru/companies/dododev/articles/764540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=764540)
 - [В Телеграме появилась подсветка синтаксиса, и она бесит](https://habr.com/ru/articles/770602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770602)
-- [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 1](https://habr.com/ru/companies/wunderfund/articles/769176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
