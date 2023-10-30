@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;23.10 – 29.10.23&rpar;](https://habr.com/ru/articles/770644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770644)
+- [[Перевод] Создание приложения для real-time обмена геоданными с React, Socket.io и Leaflet](https://habr.com/ru/articles/770066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770066)
 - [Решение задачи про определение типа в Typescript с Yandex Cup 2023](https://habr.com/ru/articles/770646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770646)
 - [Слово Божие — функциональное программирование как основа Вселенной](https://habr.com/ru/articles/767864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767864)
 - [C# делегаты изнутри. Можно ли расширить С++ стандарт для поддержки делегатов в стиле C#](https://habr.com/ru/articles/770116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770116)
-- [7. Точность систем автоматического регулирования &lpar;ч. 2&rpar;](https://habr.com/ru/articles/744212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744212)
-- [Поиск пересечений между отрезком и прямой или прямой и прямой в трехмерном пространстве](https://habr.com/ru/articles/770610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
