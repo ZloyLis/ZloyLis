@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2344: исследование кампании «Операция Триангуляция»](https://habr.com/ru/companies/kaspersky/articles/770766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770766)
 - [Индексирование полнотекстовых данных в PostgreSQL с использованием модуля pg_trgm](https://habr.com/ru/companies/otus/articles/770674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770674)
 - [Как подготовиться к собеседованию с помощью Telegram-бота на Node.js](https://habr.com/ru/companies/selectel/articles/765600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765600)
 - [Управление общей кодовой базой в микросервисной архитектуре](https://habr.com/ru/articles/769338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769338)
 - [[Перевод] О сложности и монолитах](https://habr.com/ru/companies/ruvds/articles/770262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770262)
-- [Осмысленная визуализация при анализе и проектировании в действии](https://habr.com/ru/articles/770756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770756)
 <!-- BLOG-POST-LIST:END -->
 
 ---
