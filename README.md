@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В Телеграме появилась подсветка синтаксиса, и она бесит](https://habr.com/ru/articles/770602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770602)
+- [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 1](https://habr.com/ru/companies/wunderfund/articles/769176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769176)
 - [[Перевод] System Design 101](https://habr.com/ru/articles/770564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770564)
 - [Apple Pro Weekly News &lpar;23.10 – 29.10.23&rpar;](https://habr.com/ru/articles/770644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770644)
 - [[Перевод] Создание приложения для real-time обмена геоданными с React, Socket.io и Leaflet](https://habr.com/ru/articles/770066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770066)
-- [Решение задачи про определение типа в Typescript с Yandex Cup 2023](https://habr.com/ru/articles/770646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770646)
-- [Слово Божие — функциональное программирование как основа Вселенной](https://habr.com/ru/articles/767864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
