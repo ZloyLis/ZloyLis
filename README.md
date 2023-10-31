@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Unsafe API для низкоуровневого манипулирования памятью](https://habr.com/ru/companies/otus/articles/770878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770878)
+- [Проверяем YTsaurus. Доступность, надёжность, open source](https://habr.com/ru/companies/pvs-studio/articles/771034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771034)
+- [[Перевод] Доводим разработчика до выгорания: три простых шага](https://habr.com/ru/companies/productivity_inside/articles/771018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771018)
+- [Кратчайший путь с одним источником во взвешенных графах, Алгоритм Дейкстры и Python](https://habr.com/ru/companies/otus/articles/771016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771016)
 - [Арифмометр Чебышёва: первая отечественная счетная машина с непрерывным движением](https://habr.com/ru/companies/rshb/articles/770968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770968)
-- [Олег Бартунов о премии Highload++: лидерство обязывает всё время доказывать, что ты чего-то стоишь](https://habr.com/ru/companies/oleg-bunin/articles/770938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770938)
-- [Как я ускорила разработку корпоративных онлайн-курсов с помощью современной модели 4С/ID и использования нейросетей](https://habr.com/ru/companies/1cupis/articles/770962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770962)
-- [Flutter. Локальная база данных](https://habr.com/ru/companies/digdes/articles/770950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770950)
-- [Обзор утилиты для поиска секретов TruffleHog](https://habr.com/ru/companies/first/articles/770898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
