@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Backend Driven UI с точки зрения бэкенда: к чему готовиться, если вы решили на него перейти](https://habr.com/ru/companies/yandex/articles/768282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768282)
+- [Просмотр монохромных артов ZXART на ATARI XL/XE](https://habr.com/ru/articles/768868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768868)
+- [Flutter и работа с нативным кодом на примере библиотеки для работы с NFC](https://habr.com/ru/articles/770842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770842)
 - [Спецвыпуск Apple Pro Weekly News – Презентация Apple &lpar;31.10.23&rpar;](https://habr.com/ru/articles/770902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770902)
 - [Сонары, роботы и чем флейта лучше гитары](https://habr.com/ru/articles/770896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770896)
-- [Security Week 2344: исследование кампании «Операция Триангуляция»](https://habr.com/ru/companies/kaspersky/articles/770766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770766)
-- [Индексирование полнотекстовых данных в PostgreSQL с использованием модуля pg_trgm](https://habr.com/ru/companies/otus/articles/770674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770674)
-- [Как подготовиться к собеседованию с помощью Telegram-бота на Node.js](https://habr.com/ru/companies/selectel/articles/765600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
