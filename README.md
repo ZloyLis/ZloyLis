@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я ускорила разработку корпоративных онлайн-курсов с помощью современной модели 4С/ID и использования нейросетей](https://habr.com/ru/companies/1cupis/articles/770962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770962)
+- [Flutter. Локальная база данных](https://habr.com/ru/companies/digdes/articles/770950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770950)
 - [Обзор утилиты для поиска секретов TruffleHog](https://habr.com/ru/companies/first/articles/770898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770898)
 - [Bug policy. Что делать когда работа с дефектами — это хаос и ужас](https://habr.com/ru/articles/770926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770926)
 - [Приходите к нам на завод, у нас тяжело](https://habr.com/ru/companies/omk-it/articles/770786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770786)
-- [Backend Driven UI с точки зрения бэкенда: к чему готовиться, если вы решили на него перейти](https://habr.com/ru/companies/yandex/articles/768282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768282)
-- [Просмотр монохромных артов ZXART на ATARI XL/XE](https://habr.com/ru/articles/768868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
