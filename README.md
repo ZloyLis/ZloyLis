@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В помощь тем, кто погружается в Smali](https://habr.com/ru/articles/771120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771120)
 - [@Scheduled + @Async &lpar;в Spring Boot&rpar;](https://habr.com/ru/articles/771112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771112)
 - [Пишем printf на языке ассемблера FASM](https://habr.com/ru/articles/766044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766044)
 - [Считаем медиану быстрее numpy](https://habr.com/ru/articles/771010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771010)
 - [Главный принцип разработки интерфейсов](https://habr.com/ru/articles/771092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771092)
-- [C++ Дайджест №6 &lpar;16 октября – 29 октября 2023&rpar;](https://habr.com/ru/articles/770958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
