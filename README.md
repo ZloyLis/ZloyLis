@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор утилиты для поиска секретов TruffleHog](https://habr.com/ru/companies/first/articles/770898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770898)
+- [Bug policy. Что делать когда работа с дефектами — это хаос и ужас](https://habr.com/ru/articles/770926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770926)
+- [Приходите к нам на завод, у нас тяжело](https://habr.com/ru/companies/omk-it/articles/770786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770786)
 - [Backend Driven UI с точки зрения бэкенда: к чему готовиться, если вы решили на него перейти](https://habr.com/ru/companies/yandex/articles/768282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768282)
 - [Просмотр монохромных артов ZXART на ATARI XL/XE](https://habr.com/ru/articles/768868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768868)
-- [Flutter и работа с нативным кодом на примере библиотеки для работы с NFC](https://habr.com/ru/articles/770842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770842)
-- [Спецвыпуск Apple Pro Weekly News – Презентация Apple &lpar;31.10.23&rpar;](https://habr.com/ru/articles/770902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770902)
-- [Сонары, роботы и чем флейта лучше гитары](https://habr.com/ru/articles/770896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
