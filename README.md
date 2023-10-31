@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я стала тимлидом и стоило ли оно того](https://habr.com/ru/companies/yandex_praktikum/articles/770960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770960)
+- [Релиз без ошибок. Невозможное возможно?](https://habr.com/ru/companies/bercut/articles/768118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768118)
 - [Java Unsafe API для низкоуровневого манипулирования памятью](https://habr.com/ru/companies/otus/articles/770878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770878)
 - [Проверяем YTsaurus. Доступность, надёжность, open source](https://habr.com/ru/companies/pvs-studio/articles/771034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771034)
 - [[Перевод] Доводим разработчика до выгорания: три простых шага](https://habr.com/ru/companies/productivity_inside/articles/771018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771018)
-- [Кратчайший путь с одним источником во взвешенных графах, Алгоритм Дейкстры и Python](https://habr.com/ru/companies/otus/articles/771016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771016)
-- [Арифмометр Чебышёва: первая отечественная счетная машина с непрерывным движением](https://habr.com/ru/companies/rshb/articles/770968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
