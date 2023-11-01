@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Использование многоуровневых зависимых списков в MS Excel для маппинга организационных структур](https://habr.com/ru/articles/771214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771214)
+- [Во что превратились текстовые редакторы](https://habr.com/ru/companies/r7-office/articles/771086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771086)
 - [Байт-код — это просто! Как сделать DI по-настоящему быстрым](https://habr.com/ru/companies/yandex/articles/770800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770800)
+- [Поможем Ходору найти новых друзей с помощью графов](https://habr.com/ru/articles/770914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770914)
 - [Part 2. Инструменты управления тестированием](https://habr.com/ru/articles/771138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771138)
-- [Взаимодействие с Midjourney с использованием Discord API • Часть II](https://habr.com/ru/articles/771178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771178)
-- [Ищем жилье в 500м от сетевого продуктового в Москве](https://habr.com/ru/articles/771184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771184)
-- [Архитектурный паттерн для обработки больших данных: Kappa](https://habr.com/ru/companies/otus/articles/769350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
