@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Что нового в Chrome 119?](https://habr.com/ru/articles/771220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771220)
-- [[Перевод] Использование многоуровневых зависимых списков в MS Excel для маппинга организационных структур](https://habr.com/ru/articles/771214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771214)
-- [Байт-код — это просто! Как сделать DI по-настоящему быстрым](https://habr.com/ru/companies/yandex/articles/770800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770800)
-- [Поможем Ходору найти новых друзей с помощью графов](https://habr.com/ru/articles/770914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770914)
-- [Part 2. Инструменты управления тестированием](https://habr.com/ru/articles/771138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771138)
+- [Scala Digest. Выпуск 10](https://habr.com/ru/companies/tinkoff/articles/770964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770964)
+- [Выбор платформы и подрядчика для замены иностранного BI. На что нужно обратить внимание](https://habr.com/ru/articles/771258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771258)
+- [Обзор книги «С++ 20 в деталях»: доступно, но не для джунов](https://habr.com/ru/companies/yadro/articles/770788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770788)
+- [Использование ML для прогнозирования CLTV](https://habr.com/ru/companies/beeline_tech/articles/771246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771246)
+- [Короче, кейс: как уволили разработчика. А он за 10 дней запустил свой простой продукт и вышел на $4K в месяц](https://habr.com/ru/articles/771196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
