@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Симулятор реального собеседования для программистов — практикуемся онлайн](https://habr.com/ru/articles/771166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771166)
+- [ПАРУС в Облаках](https://habr.com/ru/articles/771164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771164)
 - [Как я создал проходную](https://habr.com/ru/articles/771160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771160)
 - [Микросервис отправки писем через smtp Yandex .Net Web Api MailKit](https://habr.com/ru/articles/771156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771156)
 - [В помощь тем, кто погружается в Smali](https://habr.com/ru/articles/771120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771120)
-- [@Scheduled + @Async &lpar;в Spring Boot&rpar;](https://habr.com/ru/articles/771112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771112)
-- [Пишем printf на языке ассемблера FASM](https://habr.com/ru/articles/766044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=766044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
