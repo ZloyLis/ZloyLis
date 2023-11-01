@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Part 2. Инструменты управления тестированием](https://habr.com/ru/articles/771138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771138)
+- [Взаимодействие с Midjourney с использованием Discord API • Часть II](https://habr.com/ru/articles/771178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771178)
+- [Ищем жилье в 500м от сетевого продуктового в Москве](https://habr.com/ru/articles/771184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771184)
 - [Архитектурный паттерн для обработки больших данных: Kappa](https://habr.com/ru/companies/otus/articles/769350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769350)
 - [Симулятор реального собеседования для программистов — практикуемся онлайн](https://habr.com/ru/articles/771166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771166)
-- [ПАРУС в Облаках](https://habr.com/ru/articles/771164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771164)
-- [Как я создал проходную](https://habr.com/ru/articles/771160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771160)
-- [Микросервис отправки писем через smtp Yandex .Net Web Api MailKit](https://habr.com/ru/articles/771156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
