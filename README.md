@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какую библиотеку на Python выбрать для создания телеграм-бота?](https://habr.com/ru/companies/otus/articles/771110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771110)
+- [iPhone 15: обзор новейшего смартфона от Apple из первых рук. Что это за девайс?](https://habr.com/ru/companies/ru_mts/articles/771356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771356)
+- [Как использовать нативный платежный сервис SberPay в кроссплатформенном приложении на Flutter](https://habr.com/ru/companies/friflex/articles/771354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771354)
 - [На что способен КриптоПро JCP? Туториал по валидации отсоединенной электронной подписи](https://habr.com/ru/companies/simbirsoft/articles/771232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771232)
 - [Scala Digest. Выпуск 10](https://habr.com/ru/companies/tinkoff/articles/770964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770964)
-- [Выбор платформы и подрядчика для замены иностранного BI. На что нужно обратить внимание](https://habr.com/ru/articles/771258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771258)
-- [Обзор книги «С++ 20 в деталях»: доступно, но не для джунов](https://habr.com/ru/companies/yadro/articles/770788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770788)
-- [Использование ML для прогнозирования CLTV](https://habr.com/ru/companies/beeline_tech/articles/771246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
