@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На что способен КриптоПро JCP? Туториал по валидации отсоединенной электронной подписи](https://habr.com/ru/companies/simbirsoft/articles/771232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771232)
 - [Scala Digest. Выпуск 10](https://habr.com/ru/companies/tinkoff/articles/770964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770964)
 - [Выбор платформы и подрядчика для замены иностранного BI. На что нужно обратить внимание](https://habr.com/ru/articles/771258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771258)
 - [Обзор книги «С++ 20 в деталях»: доступно, но не для джунов](https://habr.com/ru/companies/yadro/articles/770788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770788)
 - [Использование ML для прогнозирования CLTV](https://habr.com/ru/companies/beeline_tech/articles/771246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771246)
-- [Короче, кейс: как уволили разработчика. А он за 10 дней запустил свой простой продукт и вышел на $4K в месяц](https://habr.com/ru/articles/771196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
