@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Проектирование архитектуры сервиса через User Stories, часть 1. Вовлекаем в процесс заказчика](https://habr.com/ru/articles/771424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771424)
-- [Solutions architect, который не пишет код](https://habr.com/ru/companies/sberbank/articles/771400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771400)
-- [Какую библиотеку на Python выбрать для создания телеграм-бота?](https://habr.com/ru/companies/otus/articles/771110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771110)
-- [iPhone 15: обзор новейшего смартфона от Apple из первых рук. Что это за девайс?](https://habr.com/ru/companies/ru_mts/articles/771356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771356)
-- [Как использовать нативный платежный сервис SberPay в кроссплатформенном приложении на Flutter](https://habr.com/ru/companies/friflex/articles/771354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771354)
+- [Как создать интерактивные виджеты на iOS 17](https://habr.com/ru/companies/ppr/articles/771448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771448)
+- [[Перевод] Vivaldi 6.4 для iOS — Опытная унификация](https://habr.com/ru/companies/vivaldi/articles/771446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771446)
+- [[Перевод] Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров](https://habr.com/ru/companies/timeweb/articles/771338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771338)
+- [Как и зачем я стал автором курса по веб-разработке?](https://habr.com/ru/companies/yandex_praktikum/articles/771046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771046)
+- [Как в США судились с программистами: три интересных кейса последних лет](https://habr.com/ru/companies/onlinepatent/articles/771434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
