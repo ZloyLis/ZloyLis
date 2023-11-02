@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сокращаем дистанцию: как сконструировать SQL-модели в MLflow и упростить управление жизненным циклом машинного обучения](https://habr.com/ru/companies/vk/articles/770944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770944)
 - [Можно ли обойтись без нативных языков, разрабатывая на Flutter и RN?](https://habr.com/ru/companies/pyrobyte/articles/771444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771444)
 - [Из фото в 3D, ч.1: геометрия формирования изображения](https://habr.com/ru/companies/magnus-tech/articles/770930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770930)
 - [Как сделать тесты на Espresso более читабельными и стабильными](https://habr.com/ru/companies/kaspersky/articles/770108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770108)
 - [Как построить VoIP кол-центр на 4000+ операторов](https://habr.com/ru/companies/dyninno/articles/771468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771468)
-- [Как построить Observability для инфраструктурной платформы](https://habr.com/ru/companies/oleg-bunin/articles/771450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
