@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектирование архитектуры сервиса через User Stories, часть 1. Вовлекаем в процесс заказчика](https://habr.com/ru/articles/771424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771424)
 - [Solutions architect, который не пишет код](https://habr.com/ru/companies/sberbank/articles/771400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771400)
 - [Какую библиотеку на Python выбрать для создания телеграм-бота?](https://habr.com/ru/companies/otus/articles/771110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771110)
 - [iPhone 15: обзор новейшего смартфона от Apple из первых рук. Что это за девайс?](https://habr.com/ru/companies/ru_mts/articles/771356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771356)
 - [Как использовать нативный платежный сервис SberPay в кроссплатформенном приложении на Flutter](https://habr.com/ru/companies/friflex/articles/771354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771354)
-- [На что способен КриптоПро JCP? Туториал по валидации отсоединенной электронной подписи](https://habr.com/ru/companies/simbirsoft/articles/771232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
