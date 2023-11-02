@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стоит ли разработчику идти на завод, как запустить стартап, но вовремя остановиться и другие истории реальных айтишников](https://habr.com/ru/companies/beeline_cloud/articles/771592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771592)
+- [Два frontend фреймворка. Два подхода](https://habr.com/ru/articles/771586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771586)
+- [concurrent.futures в Python](https://habr.com/ru/companies/otus/articles/771346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771346)
 - [Ещё раз про алгоритм сжатия Хаффмана](https://habr.com/ru/companies/samsung/articles/771572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771572)
 - [«Клиентов нужно не искать, а создавать»: погружение в Telegram API через TDLib](https://habr.com/ru/companies/selectel/articles/771496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771496)
-- [Как не программист, вероятно, написал самую быструю библиотеку в мире](https://habr.com/ru/articles/771554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771554)
-- [Как поддерживать себя в кибербезопасной форме: инструкция по самообразованию в IT на примере ИБ](https://habr.com/ru/companies/ru_mts/articles/771524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771524)
-- [О чем нам намекают естественные системы физических единиц](https://habr.com/ru/articles/771328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
