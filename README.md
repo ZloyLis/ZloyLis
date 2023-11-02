@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли обойтись без нативных языков, разрабатывая на Flutter и RN?](https://habr.com/ru/companies/pyrobyte/articles/771444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771444)
+- [Из фото в 3D, ч.1: геометрия формирования изображения](https://habr.com/ru/companies/magnus-tech/articles/770930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770930)
+- [Как сделать тесты на Espresso более читабельными и стабильными](https://habr.com/ru/companies/kaspersky/articles/770108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770108)
 - [Как построить VoIP кол-центр на 4000+ операторов](https://habr.com/ru/companies/dyninno/articles/771468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771468)
 - [Как построить Observability для инфраструктурной платформы](https://habr.com/ru/companies/oleg-bunin/articles/771450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771450)
-- [Создание сервиса авторизации через систему ЕСИА](https://habr.com/ru/companies/bft/articles/771320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771320)
-- [Жук, нумерология, хеш или ничо? Оптимизация работы с путями](https://habr.com/ru/companies/cdek_blog/articles/771372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771372)
-- [Microsoft PowerToys: Король GitHub среди C# проектов с C++ ошибками](https://habr.com/ru/companies/pvs-studio/articles/771454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
