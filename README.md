@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как создать интерактивные виджеты на iOS 17](https://habr.com/ru/companies/ppr/articles/771448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771448)
-- [[Перевод] Vivaldi 6.4 для iOS — Опытная унификация](https://habr.com/ru/companies/vivaldi/articles/771446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771446)
-- [[Перевод] Что такое гексагональная архитектура. Разделение бизнес-логики и инфраструктуры с помощью портов и адаптеров](https://habr.com/ru/companies/timeweb/articles/771338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771338)
-- [Как и зачем я стал автором курса по веб-разработке?](https://habr.com/ru/companies/yandex_praktikum/articles/771046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771046)
-- [Как в США судились с программистами: три интересных кейса последних лет](https://habr.com/ru/companies/onlinepatent/articles/771434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771434)
+- [Как построить VoIP кол-центр на 4000+ операторов](https://habr.com/ru/companies/dyninno/articles/771468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771468)
+- [Как построить Observability для инфраструктурной платформы](https://habr.com/ru/companies/oleg-bunin/articles/771450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771450)
+- [Создание сервиса авторизации через систему ЕСИА](https://habr.com/ru/companies/bft/articles/771320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771320)
+- [Жук, нумерология, хеш или ничо? Оптимизация работы с путями](https://habr.com/ru/companies/cdek_blog/articles/771372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771372)
+- [Microsoft PowerToys: Король GitHub среди C# проектов с C++ ошибками](https://habr.com/ru/companies/pvs-studio/articles/771454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
