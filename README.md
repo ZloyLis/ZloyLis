@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не программист, вероятно, написал самую быструю библиотеку в мире](https://habr.com/ru/articles/771554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771554)
 - [Как поддерживать себя в кибербезопасной форме: инструкция по самообразованию в IT на примере ИБ](https://habr.com/ru/companies/ru_mts/articles/771524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771524)
 - [О чем нам намекают естественные системы физических единиц](https://habr.com/ru/articles/771328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771328)
 - [Трейсы в Spring Boot 3 с использованием Zipkin и Kafka в качестве транспорта](https://habr.com/ru/companies/alfastrah/articles/770566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770566)
 - [KMP перешёл в stable. Что это значит?](https://habr.com/ru/companies/kts/articles/771498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771498)
-- [[Перевод] Сокращаем дистанцию: как сконструировать SQL-модели в MLflow и упростить управление жизненным циклом машинного обучения](https://habr.com/ru/companies/vk/articles/770944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
