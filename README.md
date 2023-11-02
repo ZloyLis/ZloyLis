@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка браузерных игр с использованием Phaser3, React, Typescript](https://habr.com/ru/articles/771630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771630)
+- [Обращение к издательствам: пожалуйста, ПЕРЕВОДИТЕ термины](https://habr.com/ru/articles/771628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771628)
 - [Архитектор 2.0](https://habr.com/ru/articles/771608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771608)
 - [Стоит ли разработчику идти на завод, как запустить стартап, но вовремя остановиться и другие истории реальных айтишников](https://habr.com/ru/companies/beeline_cloud/articles/771592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771592)
 - [Два frontend фреймворка. Два подхода](https://habr.com/ru/articles/771586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771586)
-- [concurrent.futures в Python](https://habr.com/ru/companies/otus/articles/771346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771346)
-- [Ещё раз про алгоритм сжатия Хаффмана](https://habr.com/ru/companies/samsung/articles/771572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
