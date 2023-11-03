@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Гитхаб вас сдаст: идентификация пользователей SSH-серверов](https://habr.com/ru/articles/771688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771688)
+- [Через тернии к SLA: как техподдержке быстрее закрывать заявки сотрудников](https://habr.com/ru/companies/inferit/articles/771654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771654)
+- [Статистика QA вакансий и резюме. Октябрь 2023](https://habr.com/ru/articles/771582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771582)
 - [5 книг для начинающего разработчика 1С](https://habr.com/ru/companies/yandex_praktikum/articles/771564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771564)
 - [Как стилизовать текст на Compose через Spannable](https://habr.com/ru/companies/domrf/articles/770796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770796)
-- [Redux-toolkit и переиспользование кода](https://habr.com/ru/articles/771660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771660)
-- [Эта неделя в мире Java &lpar;3 ноября&rpar;](https://habr.com/ru/articles/771656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771656)
-- [Разработка браузерных игр с использованием Phaser3, React, Typescript](https://habr.com/ru/articles/771630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
