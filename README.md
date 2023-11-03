@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Митап по С++ в Москве и онлайн: боли нового стандарта, висячие ссылки и дискуссия о собеседованиях](https://habr.com/ru/companies/yadro/articles/771692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771692)
 - [Мультиплатформенные образы: что это такое и зачем они нужны](https://habr.com/ru/companies/avito/articles/770146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770146)
 - [Руководство по развертыванию и управлению Linux-сервером без bash и sh с помощью ispmanager](https://habr.com/ru/companies/hostkey/articles/771566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771566)
 - [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 7 — Заключительная](https://habr.com/ru/articles/769954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769954)
 - [Организация стенда для локальной разработки с помощью werf: автоматизируем пересборку приложения с фронтендом и бэкендом](https://habr.com/ru/companies/flant/articles/771678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771678)
-- [Как я стал iOS разработчиком](https://habr.com/ru/articles/771694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
