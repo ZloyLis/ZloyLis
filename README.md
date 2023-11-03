@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 книг для начинающего разработчика 1С](https://habr.com/ru/companies/yandex_praktikum/articles/771564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771564)
+- [Как стилизовать текст на Compose через Spannable](https://habr.com/ru/companies/domrf/articles/770796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770796)
+- [Redux-toolkit и переиспользование кода](https://habr.com/ru/articles/771660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771660)
 - [Эта неделя в мире Java &lpar;3 ноября&rpar;](https://habr.com/ru/articles/771656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771656)
 - [Разработка браузерных игр с использованием Phaser3, React, Typescript](https://habr.com/ru/articles/771630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771630)
-- [Обращение к издательствам: пожалуйста, ПЕРЕВОДИТЕ термины](https://habr.com/ru/articles/771628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771628)
-- [Архитектор 2.0](https://habr.com/ru/articles/771608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771608)
-- [Стоит ли разработчику идти на завод, как запустить стартап, но вовремя остановиться и другие истории реальных айтишников](https://habr.com/ru/companies/beeline_cloud/articles/771592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
