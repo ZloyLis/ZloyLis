@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему я не буду использовать Next.js](https://habr.com/ru/companies/ruvds/articles/771472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771472)
+- [Padding vs SizedBox. Что выбрать для вёрстки отступов Column и Row](https://habr.com/ru/articles/771774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771774)
 - [Программист с детства: интервью с разработчиком](https://habr.com/ru/companies/ispmanager/articles/771764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771764)
 - [[Перевод] Регулярные выражения — это не трудно](https://habr.com/ru/companies/piter/articles/771698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771698)
 - [Разработка рекомендательных систем: три открытых библиотеки от Сбера](https://habr.com/ru/companies/sberbank/articles/771760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771760)
-- [Ты ведь станешь программистом?](https://habr.com/ru/articles/771750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771750)
-- [Митап по С++ в Москве и онлайн: боли нового стандарта, висячие ссылки и дискуссия о собеседованиях](https://habr.com/ru/companies/yadro/articles/771692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
