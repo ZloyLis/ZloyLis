@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программист с детства: интервью с разработчиком](https://habr.com/ru/companies/ispmanager/articles/771764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771764)
+- [[Перевод] Регулярные выражения — это не трудно](https://habr.com/ru/companies/piter/articles/771698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771698)
+- [Разработка рекомендательных систем: три открытых библиотеки от Сбера](https://habr.com/ru/companies/sberbank/articles/771760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771760)
+- [Ты ведь станешь программистом?](https://habr.com/ru/articles/771750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771750)
 - [Митап по С++ в Москве и онлайн: боли нового стандарта, висячие ссылки и дискуссия о собеседованиях](https://habr.com/ru/companies/yadro/articles/771692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771692)
-- [Мультиплатформенные образы: что это такое и зачем они нужны](https://habr.com/ru/companies/avito/articles/770146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770146)
-- [Руководство по развертыванию и управлению Linux-сервером без bash и sh с помощью ispmanager](https://habr.com/ru/companies/hostkey/articles/771566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771566)
-- [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 7 — Заключительная](https://habr.com/ru/articles/769954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769954)
-- [Организация стенда локальной разработки для самых маленьких: автоматизируем пересборку приложения с фронтом и бэкендом](https://habr.com/ru/companies/flant/articles/771678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
