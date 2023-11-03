@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Гитхаб вас сдаст: идентификация пользователей SSH-серверов](https://habr.com/ru/articles/771688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771688)
-- [Через тернии к SLA: как техподдержке быстрее закрывать заявки сотрудников](https://habr.com/ru/companies/inferit/articles/771654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771654)
-- [Статистика QA вакансий и резюме. Октябрь 2023](https://habr.com/ru/articles/771582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771582)
-- [5 книг для начинающего разработчика 1С](https://habr.com/ru/companies/yandex_praktikum/articles/771564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771564)
-- [Как стилизовать текст на Compose через Spannable](https://habr.com/ru/companies/domrf/articles/770796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770796)
+- [Мультиплатформенные образы: что это такое и зачем они нужны](https://habr.com/ru/companies/avito/articles/770146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770146)
+- [Руководство по развертыванию и управлению Linux-сервером без bash и sh с помощью ispmanager](https://habr.com/ru/companies/hostkey/articles/771566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771566)
+- [Квантовые компьютеры. С точки зрения традиционного программиста-математика. Часть 7 — Заключительная](https://habr.com/ru/articles/769954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769954)
+- [Организация стенда для локальной разработки с помощью werf: автоматизируем пересборку приложения с фронтендом и бэкендом](https://habr.com/ru/companies/flant/articles/771678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771678)
+- [Как я стал iOS разработчиком](https://habr.com/ru/articles/771694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
