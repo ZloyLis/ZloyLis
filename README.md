@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [QCustomPlot + FetchContent](https://habr.com/ru/articles/771924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771924)
 - [Чем смешнее, тем умнее! О пользе юмора в процессе обучения](https://habr.com/ru/articles/771920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771920)
 - [Архитектуры RL: DDPG иPPO](https://habr.com/ru/companies/otus/articles/771412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771412)
 - [[Перевод] Ускоряем запуск Spring Boot-приложений в контейнере](https://habr.com/ru/companies/otus/articles/771738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771738)
 - [Постоянная тонкой структуры и магия чисел](https://habr.com/ru/articles/771906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771906)
-- [Что такое класс типов?](https://habr.com/ru/articles/771896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
