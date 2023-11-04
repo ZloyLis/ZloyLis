@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квитанции как способ отражения сделанной работы на уровне типов](https://habr.com/ru/articles/771946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771946)
 - [Белоснежно чистый код](https://habr.com/ru/articles/771942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771942)
 - [[Перевод] Flutter VS React Native](https://habr.com/ru/articles/771930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771930)
 - [QCustomPlot + FetchContent](https://habr.com/ru/articles/771924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771924)
 - [Чем смешнее, тем умнее! О пользе юмора в процессе обучения](https://habr.com/ru/articles/771920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771920)
-- [Архитектуры RL: DDPG иPPO](https://habr.com/ru/companies/otus/articles/771412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
