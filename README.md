@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ускоряем запуск Spring Boot-приложений в контейнере](https://habr.com/ru/companies/otus/articles/771738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771738)
+- [Постоянная тонкой структуры и магия чисел](https://habr.com/ru/articles/771906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771906)
 - [Что такое класс типов?](https://habr.com/ru/articles/771896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771896)
 - [[Перевод] Что такое деление по модулю в JavaScript?](https://habr.com/ru/articles/770522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770522)
 - [Не Unity единым…](https://habr.com/ru/articles/770244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770244)
-- [Прогнозирование временных рядов с помощью библиотеки Skforecast](https://habr.com/ru/companies/mvideo/articles/771820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771820)
-- [Как прокачать профессиональную репутацию без публичных выступлений](https://habr.com/ru/companies/tinkoff/articles/771792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
