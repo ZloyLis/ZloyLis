@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое класс типов?](https://habr.com/ru/articles/771896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771896)
+- [[Перевод] Что такое деление по модулю в JavaScript?](https://habr.com/ru/articles/770522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770522)
 - [Не Unity единым…](https://habr.com/ru/articles/770244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770244)
 - [Прогнозирование временных рядов с помощью библиотеки Skforecast](https://habr.com/ru/companies/mvideo/articles/771820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771820)
 - [Как прокачать профессиональную репутацию без публичных выступлений](https://habr.com/ru/companies/tinkoff/articles/771792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771792)
-- [[Перевод] Почему я не буду использовать Next.js](https://habr.com/ru/companies/ruvds/articles/771472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771472)
-- [Padding vs SizedBox. Что выбрать для вёрстки отступов Column и Row](https://habr.com/ru/articles/771774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
