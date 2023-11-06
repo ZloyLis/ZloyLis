@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Использование Content-Security-Policy вместе с React &amp;amp; Emotion](https://habr.com/ru/articles/772100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772100)
 - [Моделирование размещения хабов в pyomo](https://habr.com/ru/articles/772012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772012)
 - [Бизнес-гибкость через микросервисы](https://habr.com/ru/articles/772078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772078)
 - [Пишем минимальный ActivityPub-сервер с нуля](https://habr.com/ru/articles/702724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702724)
 - [Какие неочевидные темы вспомнить перед собеседованием на Frontend разработчика](https://habr.com/ru/articles/772008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772008)
-- [Цикл постов про Keycloak. Часть вторая: Контроль доступа на уровне приложения](https://habr.com/ru/articles/772010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
