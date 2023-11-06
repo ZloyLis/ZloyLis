@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 шагов учиться быстрее и эффективнее](https://habr.com/ru/articles/772044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772044)
+- [Бизнес-гибкость через микросервисы](https://habr.com/ru/articles/772078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772078)
 - [Пишем минимальный ActivityPub-сервер с нуля](https://habr.com/ru/articles/702724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702724)
 - [Какие неочевидные темы вспомнить перед собеседованием на Frontend разработчика](https://habr.com/ru/articles/772008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772008)
 - [Цикл постов про Keycloak. Часть вторая: Контроль доступа на уровне приложения](https://habr.com/ru/articles/772010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772010)
