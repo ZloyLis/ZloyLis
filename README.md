@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #513 &lpar;30 октября — 6 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/772170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772170)
 - [Жизнь самоподобной системы как вечное познание субъектом своего бесконечно сложного объективного прошлого](https://habr.com/ru/articles/772138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772138)
 - [[Перевод] Использование Content-Security-Policy вместе с React &amp;amp; Emotion](https://habr.com/ru/articles/772100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772100)
 - [Моделирование размещения хабов в pyomo](https://habr.com/ru/articles/772012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772012)
 - [Бизнес-гибкость через микросервисы](https://habr.com/ru/articles/772078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772078)
-- [Пишем минимальный ActivityPub-сервер с нуля](https://habr.com/ru/articles/702724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
