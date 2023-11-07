@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управляем навигацией во Flutter с помощью библиотеки auto_route. Часть 1](https://habr.com/ru/companies/friflex/articles/772234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772234)
+- [Многомерный анализ данных: исследование многомерных кубов и SQL OLAP-запросов](https://habr.com/ru/companies/otus/articles/771390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771390)
+- [Как стать надёжной базой Secure-base leadership или как стать надежной базой для коллег в нестабильные времена](https://habr.com/ru/companies/oleg-bunin/articles/772258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772258)
+- [Java Digest #6](https://habr.com/ru/companies/tinkoff/articles/772260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772260)
 - [[Перевод] Какой монорепозиторий сейчас подходит для Node.js BACKEND?](https://habr.com/ru/companies/otus/articles/772304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772304)
-- [LCD 1602 расширенный функционал + RUS версия](https://habr.com/ru/articles/772302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772302)
-- [Когнитивные искажения в программировании. Часть 2](https://habr.com/ru/companies/reksoft/articles/772274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772274)
-- [Разработка мобильного клиента СДУ «Приоритет» под ОС «Аврора» на фреймворке Qt](https://habr.com/ru/companies/digdes/articles/772250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772250)
-- [MITRE: последователи и антагонисты](https://habr.com/ru/companies/securityvison/articles/772248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
