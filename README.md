@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонсы конференции OpenAI Dev Day: быстрее, дешевле, умнее](https://habr.com/ru/companies/raft/articles/772166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772166)
 - [Изучаем Q#. Обучаем перцептрон](https://habr.com/ru/articles/772172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772172)
 - [Мобильная разработка за неделю #513 &lpar;30 октября — 6 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/772170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772170)
 - [Жизнь самоподобной системы как вечное познание субъектом своего бесконечно сложного объективного прошлого](https://habr.com/ru/articles/772138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772138)
 - [[Перевод] Использование Content-Security-Policy вместе с React &amp;amp; Emotion](https://habr.com/ru/articles/772100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772100)
-- [Моделирование размещения хабов в pyomo](https://habr.com/ru/articles/772012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
