@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 2](https://habr.com/ru/companies/wunderfund/articles/769178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769178)
+- [[Перевод] Как улучшить тестируемость кода на примере внедрения зависимостей в Python](https://habr.com/ru/articles/772162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772162)
+- [Задача повышенной сложности: AV для ситуационных центров](https://habr.com/ru/companies/lanit/articles/770952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770952)
 - [Как перейти на микросервисы и выполнить миссию: решения на старте, работа с ТЗ и подводные камни](https://habr.com/ru/companies/simbirsoft/articles/771718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771718)
-- [Изучаем Q#. Обучаем перцептрон](https://habr.com/ru/articles/772172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772172)
-- [Мобильная разработка за неделю #513 &lpar;30 октября — 6 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/772170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772170)
-- [Жизнь самоподобной системы как вечное познание субъектом своего бесконечно сложного объективного прошлого](https://habr.com/ru/articles/772138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772138)
-- [[Перевод] Использование Content-Security-Policy вместе с React &amp;amp; Emotion](https://habr.com/ru/articles/772100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772100)
+- [25 вопросов и ответов по терминам REST API на собеседовании по вакансии системного аналитика](https://habr.com/ru/companies/ssp-soft/articles/772088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
