@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;23.10 – 29.10.23&rpar;](https://habr.com/ru/articles/772406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772406)
 - [Как увеличить скорость разработки и улучшить внутреннюю коммуникацию с помощью дизайн-системы?](https://habr.com/ru/companies/sravni/articles/771824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771824)
 - [Security Week 2345: киберугрозы для геймеров](https://habr.com/ru/companies/kaspersky/articles/772276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772276)
 - [«Иногда лучше написать велосипед»: как тестировать кластеры Kubernetes с помощью Python](https://habr.com/ru/companies/selectel/articles/772316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772316)
 - [[Перевод] Лидерство в тестировании — документация](https://habr.com/ru/articles/772242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772242)
-- [Гайд по авторизации в Micronaut](https://habr.com/ru/companies/X5Tech/articles/772362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
