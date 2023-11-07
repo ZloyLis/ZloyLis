@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как увеличить скорость разработки и улучшить внутреннюю коммуникацию с помощью дизайн-системы?](https://habr.com/ru/companies/sravni/articles/771824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771824)
+- [Security Week 2345: киберугрозы для геймеров](https://habr.com/ru/companies/kaspersky/articles/772276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772276)
 - [«Иногда лучше написать велосипед»: как тестировать кластеры Kubernetes с помощью Python](https://habr.com/ru/companies/selectel/articles/772316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772316)
 - [[Перевод] Лидерство в тестировании — документация](https://habr.com/ru/articles/772242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772242)
 - [Гайд по авторизации в Micronaut](https://habr.com/ru/companies/X5Tech/articles/772362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772362)
-- [О чем пишут программисты, когда хотят найти заказчиков](https://habr.com/ru/articles/772342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772342)
-- [Кубик в кубе или самоучитель по Kubernetes](https://habr.com/ru/articles/772350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
