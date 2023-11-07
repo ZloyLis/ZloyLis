@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как управлять трафиком с помощью BGP и OSPF](https://habr.com/ru/companies/otus/articles/770548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770548)
+- [Когнитивные искажения в программировании. Часть 2](https://habr.com/ru/companies/reksoft/articles/772274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772274)
+- [Разработка мобильного клиента СДУ «Приоритет» под ОС «Аврора» на фреймворке Qt](https://habr.com/ru/companies/digdes/articles/772250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772250)
+- [MITRE: последователи и антагонисты](https://habr.com/ru/companies/securityvison/articles/772248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772248)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 3](https://habr.com/ru/companies/ruvds/articles/771082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771082)
-- [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 2](https://habr.com/ru/companies/wunderfund/articles/769178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769178)
-- [[Перевод] Как улучшить тестируемость кода на примере внедрения зависимостей в Python](https://habr.com/ru/articles/772162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772162)
-- [Задача повышенной сложности: AV для ситуационных центров](https://habr.com/ru/companies/lanit/articles/770952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770952)
-- [Как перейти на микросервисы и выполнить миссию: решения на старте, работа с ТЗ и подводные камни](https://habr.com/ru/companies/simbirsoft/articles/771718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
