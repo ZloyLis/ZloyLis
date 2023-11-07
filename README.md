@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как управлять трафиком с помощью BGP и OSPF](https://habr.com/ru/companies/otus/articles/770548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770548)
+- [[Перевод] Какой монорепозиторий сейчас подходит для Node.js BACKEND?](https://habr.com/ru/companies/otus/articles/772304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772304)
+- [LCD 1602 расширенный функционал + RUS версия](https://habr.com/ru/articles/772302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772302)
 - [Когнитивные искажения в программировании. Часть 2](https://habr.com/ru/companies/reksoft/articles/772274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772274)
 - [Разработка мобильного клиента СДУ «Приоритет» под ОС «Аврора» на фреймворке Qt](https://habr.com/ru/companies/digdes/articles/772250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772250)
 - [MITRE: последователи и антагонисты](https://habr.com/ru/companies/securityvison/articles/772248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772248)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 3](https://habr.com/ru/companies/ruvds/articles/771082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
