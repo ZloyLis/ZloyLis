@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по авторизации в Micronaut](https://habr.com/ru/companies/X5Tech/articles/772362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772362)
+- [О чем пишут программисты, когда хотят найти заказчиков](https://habr.com/ru/articles/772342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772342)
+- [Кубик в кубе или самоучитель по Kubernetes](https://habr.com/ru/articles/772350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772350)
 - [Управляем навигацией во Flutter с помощью библиотеки auto_route. Часть 1](https://habr.com/ru/companies/friflex/articles/772234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772234)
 - [Многомерный анализ данных: исследование многомерных кубов и SQL OLAP-запросов](https://habr.com/ru/companies/otus/articles/771390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771390)
-- [Как стать надёжной базой Secure-base leadership или как стать надежной базой для коллег в нестабильные времена](https://habr.com/ru/companies/oleg-bunin/articles/772258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772258)
-- [Java Digest #6](https://habr.com/ru/companies/tinkoff/articles/772260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772260)
-- [[Перевод] Какой монорепозиторий сейчас подходит для Node.js BACKEND?](https://habr.com/ru/companies/otus/articles/772304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
