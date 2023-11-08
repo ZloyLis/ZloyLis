@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приходите на DevOps Conf, чтобы вырасти в должности: как конференция помогает профессионально развиваться](https://habr.com/ru/companies/oleg-bunin/articles/772548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772548)
+- [Исследования в работе и жизни: чем и кому полезны и как с ними не переборщить](https://habr.com/ru/companies/redmadrobot/articles/772542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772542)
+- [Анализ архитектурных стилей: часть №1/9: сравнительная таблица](https://habr.com/ru/articles/772540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772540)
 - [Как перейти из ручного тестирования в автоматизированное](https://habr.com/ru/companies/yandex_praktikum/articles/772240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772240)
 - [Некоторые особенности голосового ввода на реальном производстве](https://habr.com/ru/companies/omk-it/articles/771684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771684)
-- [Почему типичные дизайн-подходы оказались неприменимы к интерфейсу для производств](https://habr.com/ru/companies/nlmk/articles/769316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769316)
-- [[Перевод] Как итераторы в Rust могут ухудшить производительность: разбираемся в проблеме](https://habr.com/ru/companies/otus/articles/772360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772360)
-- [Apple Pro Weekly News &lpar;23.10 – 29.10.23&rpar;](https://habr.com/ru/articles/772406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
