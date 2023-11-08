@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путешествие JavaScript-кода через движок V8](https://habr.com/ru/articles/772648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772648)
+- [Короче, кейс: Как фаундеры запустили простое расширение для записи экрана Loom. И продали его за $975 млн](https://habr.com/ru/articles/772496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772496)
 - [Как разработать функциональное мобильное приложение за 2 месяца: кейс Kassir.ru](https://habr.com/ru/companies/cleverpumpkin/articles/772624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772624)
 - [Соблюдай, или must die: правила безопасного обновления Kubernetes до новой версии](https://habr.com/ru/companies/vk/articles/772346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772346)
 - [Оплата в Telegram | API Yoomoney С#](https://habr.com/ru/articles/772628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772628)
-- [Вы — новый руководитель. Как успешно пройти адаптацию в сложившемся коллективе?](https://habr.com/ru/companies/ncloudtech/articles/772408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772408)
-- [«Разгоняем» HashSet, HashMap и циклы на примере Dart](https://habr.com/ru/articles/772462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
