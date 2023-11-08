@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как разработать функциональное мобильное приложение за 2 месяца: кейс Kassir.ru](https://habr.com/ru/companies/cleverpumpkin/articles/772624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772624)
+- [Соблюдай, или must die: правила безопасного обновления Kubernetes до новой версии](https://habr.com/ru/companies/vk/articles/772346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772346)
+- [Оплата в Telegram | API Yoomoney С#](https://habr.com/ru/articles/772628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772628)
+- [Вы — новый руководитель. Как успешно пройти адаптацию в сложившемся коллективе?](https://habr.com/ru/companies/ncloudtech/articles/772408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772408)
 - [«Разгоняем» HashSet, HashMap и циклы на примере Dart](https://habr.com/ru/articles/772462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772462)
-- [Малый бот для малого бизнеса: 20 новых заказов и решение конфликта с… главным партнёром](https://habr.com/ru/companies/chatapp/articles/772616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772616)
-- [Слабый ML/AI = серьезная угроза для цифровизации](https://habr.com/ru/articles/772576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772576)
-- [Как стабильно расти в IT](https://habr.com/ru/companies/netologyru/articles/772320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772320)
-- [Кто победил в студенческом хакатоне InnoGlobalHack?](https://habr.com/ru/companies/vk/articles/772524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
