@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перейти из ручного тестирования в автоматизированное](https://habr.com/ru/companies/yandex_praktikum/articles/772240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772240)
+- [Некоторые особенности голосового ввода на реальном производстве](https://habr.com/ru/companies/omk-it/articles/771684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771684)
 - [Почему типичные дизайн-подходы оказались неприменимы к интерфейсу для производств](https://habr.com/ru/companies/nlmk/articles/769316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769316)
 - [[Перевод] Как итераторы в Rust могут ухудшить производительность: разбираемся в проблеме](https://habr.com/ru/companies/otus/articles/772360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772360)
 - [Apple Pro Weekly News &lpar;23.10 – 29.10.23&rpar;](https://habr.com/ru/articles/772406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772406)
-- [Как увеличить скорость разработки и улучшить внутреннюю коммуникацию с помощью дизайн-системы?](https://habr.com/ru/companies/sravni/articles/771824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771824)
-- [Security Week 2345: киберугрозы для геймеров](https://habr.com/ru/companies/kaspersky/articles/772276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
