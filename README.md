@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто победил в студенческом хакатоне InnoGlobalHack?](https://habr.com/ru/companies/vk/articles/772524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772524)
+- [От бизнес-идеи к техническому заданию. Список необходимой информации](https://habr.com/ru/articles/772568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772568)
+- [Futura. Проект концептуального облика СберБизнес—2035](https://habr.com/ru/companies/sberbank/articles/772556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772556)
 - [Приходите на DevOps Conf, чтобы вырасти в должности: как конференция помогает профессионально развиваться](https://habr.com/ru/companies/oleg-bunin/articles/772548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772548)
 - [Исследования в работе и жизни: чем и кому полезны и как с ними не переборщить](https://habr.com/ru/companies/redmadrobot/articles/772542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772542)
-- [Анализ архитектурных стилей: часть №1/9: сравнительная таблица](https://habr.com/ru/articles/772540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772540)
-- [Как перейти из ручного тестирования в автоматизированное](https://habr.com/ru/companies/yandex_praktikum/articles/772240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772240)
-- [Некоторые особенности голосового ввода на реальном производстве](https://habr.com/ru/companies/omk-it/articles/771684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
