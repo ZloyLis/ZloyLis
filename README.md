@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему типичные дизайн-подходы оказались неприменимы к интерфейсу для производств](https://habr.com/ru/companies/nlmk/articles/769316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769316)
 - [[Перевод] Как итераторы в Rust могут ухудшить производительность: разбираемся в проблеме](https://habr.com/ru/companies/otus/articles/772360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772360)
 - [Apple Pro Weekly News &lpar;23.10 – 29.10.23&rpar;](https://habr.com/ru/articles/772406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772406)
 - [Как увеличить скорость разработки и улучшить внутреннюю коммуникацию с помощью дизайн-системы?](https://habr.com/ru/companies/sravni/articles/771824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771824)
 - [Security Week 2345: киберугрозы для геймеров](https://habr.com/ru/companies/kaspersky/articles/772276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772276)
-- [Как управлять состоянием телеграм-бота](https://habr.com/ru/companies/otus/articles/770606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
