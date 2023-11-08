@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Разгоняем» HashSet, HashMap и циклы на примере Dart](https://habr.com/ru/articles/772462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772462)
+- [Малый бот для малого бизнеса: 20 новых заказов и решение конфликта с… главным партнёром](https://habr.com/ru/companies/chatapp/articles/772616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772616)
+- [Слабый ML/AI = серьезная угроза для цифровизации](https://habr.com/ru/articles/772576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772576)
+- [Как стабильно расти в IT](https://habr.com/ru/companies/netologyru/articles/772320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772320)
 - [Кто победил в студенческом хакатоне InnoGlobalHack?](https://habr.com/ru/companies/vk/articles/772524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772524)
-- [От бизнес-идеи к техническому заданию. Список необходимой информации](https://habr.com/ru/articles/772568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772568)
-- [Futura. Проект концептуального облика СберБизнес—2035](https://habr.com/ru/companies/sberbank/articles/772556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772556)
-- [Приходите на DevOps Conf, чтобы вырасти в должности: как конференция помогает профессионально развиваться](https://habr.com/ru/companies/oleg-bunin/articles/772548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772548)
-- [Исследования в работе и жизни: чем и кому полезны и как с ними не переборщить](https://habr.com/ru/companies/redmadrobot/articles/772542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
