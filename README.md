@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Введение в Apache Flink: осваиваем фреймворк на реальных примерах](https://habr.com/ru/companies/ru_mts/articles/772898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772898)
 - [Vim: шпаргалка для начинающих](https://habr.com/ru/articles/772914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772914)
 - [Основы программирования в любом сценарном языке](https://habr.com/ru/articles/772908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772908)
 - [[Перевод] Встречаем Angular 17](https://habr.com/ru/articles/772894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772894)
 - [Как жесткую программную систему превратить в гибкую без истпользования языка программирования или Двадцать лет спустя](https://habr.com/ru/articles/772892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772892)
-- [Использование расширения VS Code «PVS-Studio» для эффективной борьбы с ошибками в C# коде](https://habr.com/ru/companies/pvs-studio/articles/772870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
