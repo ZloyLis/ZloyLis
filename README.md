@@ -23,8 +23,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор безопасных микроконтроллеров Flagchip для автомобильной электроники](https://habr.com/ru/companies/3rdman/articles/771894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771894)
 - [Введение в Apache Flink: осваиваем фреймворк на реальных примерах](https://habr.com/ru/companies/ru_mts/articles/772898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772898)
-- [Vim: шпаргалка для начинающих](https://habr.com/ru/articles/772914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772914)
 - [Основы программирования в любом сценарном языке](https://habr.com/ru/articles/772908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772908)
 - [[Перевод] Встречаем Angular 17](https://habr.com/ru/articles/772894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772894)
 - [Как жесткую программную систему превратить в гибкую без истпользования языка программирования или Двадцать лет спустя](https://habr.com/ru/articles/772892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772892)
