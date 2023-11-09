@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучаем Q#. Орёл или решка?](https://habr.com/ru/articles/772722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772722)
 - [Про локацию в профиле](https://habr.com/ru/articles/772694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772694)
 - [Разработка и тестирование целочисленного сумматора с AXI-Stream интерфейсами](https://habr.com/ru/articles/772686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772686)
 - [Пишем Python-макрос для FreeCAD](https://habr.com/ru/articles/772666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772666)
 - [Путешествие JavaScript-кода через движок V8](https://habr.com/ru/articles/772648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772648)
-- [Как разработать функциональное мобильное приложение за 2 месяца: кейс Kassir.ru](https://habr.com/ru/companies/cleverpumpkin/articles/772624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
