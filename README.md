@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как жизнь сортирует нас пузырьком, или Почему в ИТ войдут не все](https://habr.com/ru/companies/alfa/articles/772700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772700)
 - [«Есть вопросы, на которые не ответит даже наниматель»: три истории о собеседованиях разработчиков на С++](https://habr.com/ru/companies/yadro/articles/772620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772620)
 - [Решение задач Yandex Cup 2023 на Java, часть 2](https://habr.com/ru/articles/772758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772758)
 - [[Перевод] Структура Flutter-приложения: feature-first или layer-first](https://habr.com/ru/articles/772802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772802)
 - [Как мы переложили на ChatGPT рутину в тестировании](https://habr.com/ru/companies/itfb/articles/769840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769840)
-- [Как мы упростили внедрение роботов в банке](https://habr.com/ru/companies/gazprombank/articles/771054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
