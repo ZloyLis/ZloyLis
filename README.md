@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение задач Yandex Cup 2023 на Java](https://habr.com/ru/articles/772748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772748)
 - [ФП виновно в снижении стоимости программ. Вот мои доказательства, господа присяжные заседатели](https://habr.com/ru/articles/772730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772730)
 - [Helidon 4 вышел, а никто и не заметил](https://habr.com/ru/companies/bar/articles/772726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772726)
 - [Изучаем Q#. Орёл или решка?](https://habr.com/ru/articles/772722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772722)
 - [Про локацию в профиле](https://habr.com/ru/articles/772694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772694)
-- [Разработка и тестирование целочисленного сумматора с AXI-Stream интерфейсами](https://habr.com/ru/articles/772686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
