@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запуск альфа-теста Капибара&lpar;Новый Старый Пикабу&rpar;](https://habr.com/ru/articles/773234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773234)
 - [«Вредные привычки» российских IT-заказчиков](https://habr.com/ru/companies/modusbi/articles/773206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773206)
 - [Разворачивание первого приложения с Kubernetes](https://habr.com/ru/companies/quillis/articles/773198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773198)
 - [Kubernetes Scheduler в Деталях: Ключевые Концепции. Часть 2](https://habr.com/ru/companies/otus/articles/771136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771136)
 - [[Перевод] Дежурный data-инженер: рабочие хроники](https://habr.com/ru/companies/vk/articles/772468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772468)
-- [Subject объекты в RxDart и чем они полезны Flutter-разработчику](https://habr.com/ru/companies/surfstudio/articles/773164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
