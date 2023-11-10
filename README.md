@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex Backend Tour: по городам России в поисках backend-разработчиков](https://habr.com/ru/specials/772956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772956)
+- [Как вносить вклад в Open Source — и не только кодом. Инструкции от Linux Foundation, CNCF и Free Software Foundation](https://habr.com/ru/companies/flant/articles/773072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773072)
+- [Как наложить макет на вёрстку через PerfectPixel](https://habr.com/ru/companies/yandex_praktikum/articles/772744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772744)
+- [От ручной сборки приложений к конвейеру: опыт бэк-офиса «Магнита»](https://habr.com/ru/companies/magnit/articles/772884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772884)
 - [Группировка вызовов функций через обещания](https://habr.com/ru/articles/772994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772994)
-- [Как трудно быть абитуриентом мех-мат МГУ](https://habr.com/ru/articles/773020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773020)
-- [Почему вам стоит отказаться от использования timestamp в PostgreSQL](https://habr.com/ru/articles/772954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772954)
-- [Приглашаем на онлайн-воркшоп «Kaspresso: учимся писать автотесты и прокачиваем резюме»](https://habr.com/ru/companies/kaspersky/articles/772948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772948)
-- [Обзор безопасных микроконтроллеров Flagchip для автомобильной электроники](https://habr.com/ru/companies/3rdman/articles/771894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
