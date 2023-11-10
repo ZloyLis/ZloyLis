@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Scheduler в Деталях: Ключевые Концепции. Часть 2](https://habr.com/ru/companies/otus/articles/771136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771136)
+- [[Перевод] Дежурный data-инженер: рабочие хроники](https://habr.com/ru/companies/vk/articles/772468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772468)
 - [Subject объекты в RxDart и чем они полезны Flutter-разработчику](https://habr.com/ru/companies/surfstudio/articles/773164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773164)
 - [Как департамент утилизации CPU превратился в департамент экономии железа, выдерживающий нагрузку в 1 млн RPS](https://habr.com/ru/companies/ozontech/articles/773038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773038)
 - [[Перевод] История одного инди-разработчика: от 0 к 45 000 $ за два года](https://habr.com/ru/companies/productivity_inside/articles/773118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773118)
-- [Разбор задачи B &lpar;Больше, чем музыка&rpar; фронтенд — Yandex Cup 2023 квалификация](https://habr.com/ru/articles/773092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773092)
-- [Как дизайнеру и редактору работать вместе: опыт Авито](https://habr.com/ru/companies/avito/articles/773056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
