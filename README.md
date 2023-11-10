@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Как департамент утилизации CPU превратился в департамент экономии железа, выдерживающий нагрузку в 1 млн RPS](https://habr.com/ru/companies/ozontech/articles/773038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773038)
 - [[Перевод] История одного инди-разработчика: от 0 к 45 000 $ за два года](https://habr.com/ru/companies/productivity_inside/articles/773118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773118)
-- [Экзотические уязвимости в питонячем стеке: как не дать хакерам навредить продукту](https://habr.com/ru/companies/oleg-bunin/articles/773106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773106)
 - [Разбор задачи B &lpar;Больше, чем музыка&rpar; фронтенд — Yandex Cup 2023 квалификация](https://habr.com/ru/articles/773092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773092)
 - [Как дизайнеру и редактору работать вместе: опыт Авито](https://habr.com/ru/companies/avito/articles/773056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773056)
+- [Один маленький tap для SMS OTP, но гигантский скачок для всего человечества](https://habr.com/ru/companies/mvideo/articles/773084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
