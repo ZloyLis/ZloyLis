@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Группировка вызовов функций через обещания](https://habr.com/ru/articles/772994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772994)
+- [Как трудно быть абитуриентом мех-мат МГУ](https://habr.com/ru/articles/773020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773020)
 - [Почему вам стоит отказаться от использования timestamp в PostgreSQL](https://habr.com/ru/articles/772954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772954)
 - [Приглашаем на онлайн-воркшоп «Kaspresso: учимся писать автотесты и прокачиваем резюме»](https://habr.com/ru/companies/kaspersky/articles/772948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772948)
 - [Обзор безопасных микроконтроллеров Flagchip для автомобильной электроники](https://habr.com/ru/companies/3rdman/articles/771894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771894)
-- [Введение в Apache Flink: осваиваем фреймворк на реальных примерах](https://habr.com/ru/companies/ru_mts/articles/772898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772898)
-- [Основы программирования в любом сценарном языке](https://habr.com/ru/articles/772908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
