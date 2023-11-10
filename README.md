@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбор задачи B фронтенд — Yandex Cup 2023 квалификация](https://habr.com/ru/articles/773092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773092)
+- [Экзотические уязвимости в питонячем стеке: как не дать хакерам навредить продукту](https://habr.com/ru/companies/oleg-bunin/articles/773106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773106)
+- [Разбор задачи B &lpar;Больше, чем музыка&rpar; фронтенд — Yandex Cup 2023 квалификация](https://habr.com/ru/articles/773092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773092)
 - [Как дизайнеру и редактору работать вместе: опыт Авито](https://habr.com/ru/companies/avito/articles/773056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773056)
-- [Один маленький tap для SMS OTP, но гигантский скачек для всего человечества](https://habr.com/ru/companies/mvideo/articles/773084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773084)
+- [Один маленький tap для SMS OTP, но гигантский скачок для всего человечества](https://habr.com/ru/companies/mvideo/articles/773084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773084)
 - [Рассчитываем оптимальный бэклог спринта с использованием методов линейного программирования](https://habr.com/ru/companies/alfa/articles/772754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772754)
-- [Разбор классического тестового задания на позицию Python Developer](https://habr.com/ru/articles/773034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
