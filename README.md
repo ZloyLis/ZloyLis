@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Yandex Backend Tour: по городам России в поисках backend-разработчиков](https://habr.com/ru/specials/772956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772956)
-- [Как вносить вклад в Open Source — и не только кодом. Инструкции от Linux Foundation, CNCF и Free Software Foundation](https://habr.com/ru/companies/flant/articles/773072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773072)
-- [Как наложить макет на вёрстку через PerfectPixel](https://habr.com/ru/companies/yandex_praktikum/articles/772744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772744)
-- [От ручной сборки приложений к конвейеру: опыт бэк-офиса «Магнита»](https://habr.com/ru/companies/magnit/articles/772884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772884)
-- [Группировка вызовов функций через обещания](https://habr.com/ru/articles/772994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772994)
+- [Разбор задачи B фронтенд — Yandex Cup 2023 квалификация](https://habr.com/ru/articles/773092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773092)
+- [Как дизайнеру и редактору работать вместе: опыт Авито](https://habr.com/ru/companies/avito/articles/773056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773056)
+- [Один маленький tap для SMS OTP, но гигантский скачек для всего человечества](https://habr.com/ru/companies/mvideo/articles/773084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773084)
+- [Рассчитываем оптимальный бэклог спринта с использованием методов линейного программирования](https://habr.com/ru/companies/alfa/articles/772754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772754)
+- [Разбор классического тестового задания на позицию Python Developer](https://habr.com/ru/articles/773034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
