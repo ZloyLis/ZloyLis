@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парадокс Монти Холла глазами JavaScript](https://habr.com/ru/articles/773270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773270)
 - [Обзор смартфона Blackview A200 Pro: повышение в классе или прыжок веры?](https://habr.com/ru/articles/773266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773266)
 - [Смерть third-party cookies. Что ждет нас в 2024?](https://habr.com/ru/articles/773260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773260)
 - [Какие методы используются для сбора данных о твоем браузере? Как собирают информацию о пользователях?](https://habr.com/ru/articles/773242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773242)
 - [Запуск альфа-теста Капибара&lpar;Новый Старый Пикабу&rpar;](https://habr.com/ru/articles/773234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773234)
-- [«Вредные привычки» российских IT-заказчиков](https://habr.com/ru/companies/modusbi/articles/773206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
