@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерактивный парсер web страниц](https://habr.com/ru/articles/773310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773310)
 - [Пишем свой QTableView &lpar;продолжение: кастомные стили&rpar;](https://habr.com/ru/articles/773300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773300)
 - [Webpack vs esbuild — уже можно использовать в production?](https://habr.com/ru/articles/773236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773236)
 - [Плохо девелопмент](https://habr.com/ru/articles/773292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773292)
 - [Что в голове у змейки? Обучение нейросети играть в «Snake» генетическим алгоритмом](https://habr.com/ru/articles/773288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773288)
-- [Новый релиз Ubuntu Touch: Linux-смартфоны везде и всюду. Что обновилось в OTA-3?](https://habr.com/ru/companies/ru_mts/articles/773284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
