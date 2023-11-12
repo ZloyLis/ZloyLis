@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Утверждение, что «199 из 200 соискателей не умеют писать код», некорректно](https://habr.com/ru/companies/ruvds/articles/772858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772858)
+- [Мобильная разработка за неделю #514 &lpar;7 — 12 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/773360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773360)
 - [Анализ архитектурных стилей: часть №2/9: стиль «монолит»](https://habr.com/ru/articles/773342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773342)
 - [Уроки рисования красных квадратов](https://habr.com/ru/articles/773330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773330)
 - [Налоги для программистов в Испании](https://habr.com/ru/articles/773322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773322)
-- [Интерактивный парсер web страниц](https://habr.com/ru/articles/773310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773310)
-- [Пишем свой QTableView &lpar;продолжение: кастомные стили&rpar;](https://habr.com/ru/articles/773300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
