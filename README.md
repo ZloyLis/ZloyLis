@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бруклинский мост. Зачем генерируем C++ на Kotlin](https://habr.com/ru/articles/773434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773434)
 - [Обработка результатов статистических наблюдений с помощью толерантных интервалов](https://habr.com/ru/articles/773402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773402)
 - [Практический гайд по процессам и потокам &lpar;и не только&rpar; в Python](https://habr.com/ru/articles/773376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773376)
 - [Абстрактная фабрика: искусство создания масштабируемого кода](https://habr.com/ru/articles/773388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773388)
 - [Присматриваемся к Kafka tiered storage](https://habr.com/ru/articles/773374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773374)
-- [PHP и Laravel дайджест новостей за октябрь 2023 года](https://habr.com/ru/articles/772104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
