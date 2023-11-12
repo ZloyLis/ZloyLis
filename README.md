@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Присматриваемся к Kafka tiered storage](https://habr.com/ru/articles/773374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773374)
+- [PHP и Laravel дайджест новостей за октябрь 2023 года](https://habr.com/ru/articles/772104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772104)
 - [[Перевод] Утверждение, что «199 из 200 соискателей не умеют писать код», некорректно](https://habr.com/ru/companies/ruvds/articles/772858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772858)
 - [Мобильная разработка за неделю #514 &lpar;7 — 12 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/773360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773360)
 - [Анализ архитектурных стилей: часть №2/9: стиль «монолит»](https://habr.com/ru/articles/773342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773342)
-- [Уроки рисования красных квадратов](https://habr.com/ru/articles/773330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773330)
-- [Налоги для программистов в Испании](https://habr.com/ru/articles/773322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
