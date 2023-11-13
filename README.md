@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка модели системы обогрева дома](https://habr.com/ru/companies/rosatom/articles/773572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773572)
+- [MoscowPython в Кибердоме: как прошла первая встреча питонистов в новом «месте силы» российского кибербеза](https://habr.com/ru/companies/pt/articles/773562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773562)
 - [Менеджер паролей SmallKey](https://habr.com/ru/articles/773078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773078)
 - [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 3](https://habr.com/ru/companies/wunderfund/articles/769180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769180)
 - [Обзор фреймворка для сбора данных OWASP Nettacker](https://habr.com/ru/companies/first/articles/773474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773474)
-- [Игровая экономика Premium игр на примере PC 4х стратегии](https://habr.com/ru/articles/773186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773186)
-- [Визуализация алгоритмов построения маршрутов показывает как A* для жилых домов Москвы может расчитываться день](https://habr.com/ru/articles/773424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
