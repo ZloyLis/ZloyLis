@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 3](https://habr.com/ru/companies/wunderfund/articles/769180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769180)
+- [Обзор фреймворка для сбора данных OWASP Nettacker](https://habr.com/ru/companies/first/articles/773474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773474)
 - [Визуализация алгоритмов построения маршрутов показывает как A* для жилых домов Москвы может расчитываться день](https://habr.com/ru/articles/773424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773424)
 - [Быстрый старт в сборке метрик по билдам в android-проекте](https://habr.com/ru/companies/gazprommedia/articles/773192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773192)
 - [Подборка видео с последнего SREcon](https://habr.com/ru/articles/773448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773448)
-- [[Перевод] В каких аспектах улучшилась производительность в ASP NET Core 8](https://habr.com/ru/articles/773444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773444)
-- [Бруклинский мост. Зачем генерируем C++ на Kotlin](https://habr.com/ru/articles/773434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
