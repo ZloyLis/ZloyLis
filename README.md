@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Игровая экономика Premium игр на примере PC 4х стратегии](https://habr.com/ru/articles/773186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773186)
 - [Визуализация алгоритмов построения маршрутов показывает как A* для жилых домов Москвы может расчитываться день](https://habr.com/ru/articles/773424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773424)
 - [Быстрый старт в сборке метрик по билдам в android-проекте](https://habr.com/ru/companies/gazprommedia/articles/773192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773192)
 - [Подборка видео с последнего SREcon](https://habr.com/ru/articles/773448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773448)
 - [[Перевод] В каких аспектах улучшилась производительность в ASP NET Core 8](https://habr.com/ru/articles/773444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773444)
+- [Бруклинский мост. Зачем генерируем C++ на Kotlin](https://habr.com/ru/articles/773434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
