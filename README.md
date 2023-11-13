@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка видео с последнего SREcon](https://habr.com/ru/articles/773448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773448)
 - [[Перевод] В каких аспектах улучшилась производительность в ASP NET Core 8](https://habr.com/ru/articles/773444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773444)
 - [Бруклинский мост. Зачем генерируем C++ на Kotlin](https://habr.com/ru/articles/773434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773434)
 - [Обработка результатов статистических наблюдений с помощью толерантных интервалов](https://habr.com/ru/articles/773402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773402)
 - [Практический гайд по процессам и потокам &lpar;и не только&rpar; в Python](https://habr.com/ru/articles/773376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773376)
-- [Абстрактная фабрика: искусство создания масштабируемого кода](https://habr.com/ru/articles/773388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
