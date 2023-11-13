@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование со взломом. Часть 1](https://habr.com/ru/articles/773652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773652)
+- [Эта неделя в мире Java &lpar;13 ноября&rpar;](https://habr.com/ru/companies/bar/articles/773646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773646)
+- [Security Week 2346: Ducktail, атака на специалистов по маркетингу](https://habr.com/ru/companies/kaspersky/articles/773544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773544)
 - [Безотказные очереди в RabbitMQ: Гарантированная доставка сообщений](https://habr.com/ru/articles/773636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773636)
 - [Мой 2-х месячный опыт настройки Selenoid под Android за 10 минут](https://habr.com/ru/companies/alfa/articles/773556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773556)
-- [Географические ограничения на Хабре](https://habr.com/ru/companies/habr/articles/772926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772926)
-- [Roadmap для тех, кто собирается в DevOps](https://habr.com/ru/companies/slurm/articles/773618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773618)
-- [Что не так с «Авророй» — российской мобильной OC](https://habr.com/ru/articles/773522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
