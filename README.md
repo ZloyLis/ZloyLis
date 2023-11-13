@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безотказные очереди в RabbitMQ: Гарантированная доставка сообщений](https://habr.com/ru/articles/773636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773636)
+- [Мой 2-х месячный опыт настройки Selenoid под Android за 10 минут](https://habr.com/ru/companies/alfa/articles/773556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773556)
+- [Географические ограничения на Хабре](https://habr.com/ru/companies/habr/articles/772926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772926)
+- [Roadmap для тех, кто собирается в DevOps](https://habr.com/ru/companies/slurm/articles/773618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773618)
 - [Что не так с «Авророй» — российской мобильной OC](https://habr.com/ru/articles/773522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773522)
-- [RESTinio-0.7.0: первый существенный релиз за три года](https://habr.com/ru/articles/773608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773608)
-- [[Перевод] Трюк из линейной алгебры для быстрого нахождения чисел Фибоначчи](https://habr.com/ru/companies/ruvds/articles/773566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773566)
-- [Из пет-проекта в самостоятельную компанию: Алексей Миловидов о разработке ClickHouse и премии Highload++](https://habr.com/ru/companies/oleg-bunin/articles/773584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773584)
-- [Приложение для мобильных бригад: «толстый клиент» и полмиллиона строк кода](https://habr.com/ru/companies/sigma/articles/773586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
