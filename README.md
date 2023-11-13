@@ -24,10 +24,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Менеджер паролей SmallKey](https://habr.com/ru/articles/773078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773078)
-- [Добавляем DALL-E 3 в свой ChatGPT бот в Telegram](https://habr.com/ru/articles/773528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773528)
 - [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 3](https://habr.com/ru/companies/wunderfund/articles/769180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769180)
 - [Обзор фреймворка для сбора данных OWASP Nettacker](https://habr.com/ru/companies/first/articles/773474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773474)
 - [Игровая экономика Premium игр на примере PC 4х стратегии](https://habr.com/ru/articles/773186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773186)
+- [Визуализация алгоритмов построения маршрутов показывает как A* для жилых домов Москвы может расчитываться день](https://habr.com/ru/articles/773424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
