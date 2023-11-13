@@ -27,7 +27,7 @@ ___
 - [Эта неделя в мире Java &lpar;13 ноября&rpar;](https://habr.com/ru/companies/bar/articles/773646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773646)
 - [Security Week 2346: Ducktail, атака на специалистов по маркетингу](https://habr.com/ru/companies/kaspersky/articles/773544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773544)
 - [Безотказные очереди в RabbitMQ: Гарантированная доставка сообщений](https://habr.com/ru/articles/773636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773636)
-- [Мой 2-х месячный опыт настройки Selenoid под Android за 10 минут](https://habr.com/ru/companies/alfa/articles/773556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773556)
+- [Просто туториал: мой 2-х месячный опыт настройки Selenoid под Android за 10 минут](https://habr.com/ru/companies/alfa/articles/773556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
