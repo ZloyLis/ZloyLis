@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработка модели системы обогрева дома](https://habr.com/ru/companies/rosatom/articles/773572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773572)
-- [MoscowPython в Кибердоме: как прошла первая встреча питонистов в новом «месте силы» российского кибербеза](https://habr.com/ru/companies/pt/articles/773562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773562)
-- [Менеджер паролей SmallKey](https://habr.com/ru/articles/773078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773078)
-- [[Перевод] Исследование режима Copy-on-Write в pandas. Часть 3](https://habr.com/ru/companies/wunderfund/articles/769180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769180)
-- [Обзор фреймворка для сбора данных OWASP Nettacker](https://habr.com/ru/companies/first/articles/773474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773474)
+- [Что не так с «Авророй» — российской мобильной OC](https://habr.com/ru/articles/773522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773522)
+- [RESTinio-0.7.0: первый существенный релиз за три года](https://habr.com/ru/articles/773608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773608)
+- [[Перевод] Трюк из линейной алгебры для быстрого нахождения чисел Фибоначчи](https://habr.com/ru/companies/ruvds/articles/773566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773566)
+- [Из пет-проекта в самостоятельную компанию: Алексей Миловидов о разработке ClickHouse и премии Highload++](https://habr.com/ru/companies/oleg-bunin/articles/773584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773584)
+- [Приложение для мобильных бригад: «толстый клиент» и полмиллиона строк кода](https://habr.com/ru/companies/sigma/articles/773586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
