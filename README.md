@@ -23,7 +23,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как обновлять информацию о фильмах и сериалах на медиацентре Kodi бесплатно и на русском языке](https://habr.com/ru/articles/773620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773620)
+- [[Перевод] Kubernetes 1.28: sidecar-контейнеры возвращаются?](https://habr.com/ru/companies/vk/articles/772574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772574)
 - [Начинаем работать с цифровыми картами &lpar;ГИС&rpar;](https://habr.com/ru/companies/bft/articles/773814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773814)
 - [[Перевод] Критерии приемки для пользовательских историй: цели, форматы, примеры и лучшие практики](https://habr.com/ru/articles/773644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773644)
 - [Как использовать ресурсы Kubernetes по максимуму для работы с Go-приложениями](https://habr.com/ru/companies/sbermarket/articles/773648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773648)
