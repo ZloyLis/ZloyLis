@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучение с блэкджеком и подкреплением. Ищем оптимальную стратегию игры](https://habr.com/ru/articles/771818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771818)
+- [Ускоряем программу для 50-летнего процессора на 180000%](https://habr.com/ru/articles/773780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773780)
 - [Как подружить JUnit 5 и Robolectric?](https://habr.com/ru/companies/alfa/articles/773080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773080)
 - [Как моя 9-месячная дочь заработала больше 1000 долларов в программе bug bounty](https://habr.com/ru/companies/maxilect/articles/773704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773704)
 - [Генерация контрактов OpenApi или прикладной API first](https://habr.com/ru/articles/770528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770528)
-- [Что вы знаете о символьном программировании?](https://habr.com/ru/articles/772984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772984)
-- [Apple Pro Weekly News &lpar;06.11 – 12.11.23&rpar;](https://habr.com/ru/articles/773682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
