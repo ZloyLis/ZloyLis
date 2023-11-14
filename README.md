@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Введение в архитектуру MLOps](https://habr.com/ru/companies/otus/articles/773320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773320)
 - [Генерация контрактов OpenApi или прикладной API first](https://habr.com/ru/articles/770528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770528)
 - [Что вы знаете о символьном программировании?](https://habr.com/ru/articles/772984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772984)
 - [Apple Pro Weekly News &lpar;06.11 – 12.11.23&rpar;](https://habr.com/ru/articles/773682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773682)
 - [Почему мы решили обновить протокол MODBUS RTU, которому исполнилось 40 лет и как появился его потомок – idiBus](https://habr.com/ru/articles/773676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773676)
+- [Исследование со взломом. Часть 1](https://habr.com/ru/articles/773652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
