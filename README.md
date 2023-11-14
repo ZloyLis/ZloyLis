@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обучение с блэкджеком и подкреплением. Ищем оптимальную стратегию игры](https://habr.com/ru/articles/771818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771818)
-- [Ускоряем программу для 50-летнего процессора на 180000%](https://habr.com/ru/articles/773780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773780)
-- [Как подружить JUnit 5 и Robolectric?](https://habr.com/ru/companies/alfa/articles/773080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773080)
-- [Как моя 9-месячная дочь заработала больше 1000 долларов в программе bug bounty](https://habr.com/ru/companies/maxilect/articles/773704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773704)
-- [Генерация контрактов OpenApi или прикладной API first](https://habr.com/ru/articles/770528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770528)
+- [Как обновлять информацию о фильмах и сериалах на медиацентре Kodi бесплатно и на русском языке](https://habr.com/ru/articles/773620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773620)
+- [Начинаем работать с цифровыми картами &lpar;ГИС&rpar;](https://habr.com/ru/companies/bft/articles/773814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773814)
+- [[Перевод] Критерии приемки для пользовательских историй: цели, форматы, примеры и лучшие практики](https://habr.com/ru/articles/773644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773644)
+- [Как использовать ресурсы Kubernetes по максимуму для работы с Go-приложениями](https://habr.com/ru/companies/sbermarket/articles/773648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773648)
+- [Тестируемая архитектура. Часть 1](https://habr.com/ru/companies/reksoft/articles/773810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
