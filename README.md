@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Добавление WebAuthn в веб-приложение](https://habr.com/ru/articles/773912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773912)
+- [C++ Дайджест №7 &lpar;30 октября – 12 ноября 2023&rpar;](https://habr.com/ru/articles/773894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773894)
 - [[Перевод] Kubernetes 1.28: sidecar-контейнеры возвращаются?](https://habr.com/ru/companies/vk/articles/772574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772574)
 - [Начинаем работать с цифровыми картами &lpar;ГИС&rpar;](https://habr.com/ru/companies/bft/articles/773814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773814)
 - [[Перевод] Критерии приемки для пользовательских историй: цели, форматы, примеры и лучшие практики](https://habr.com/ru/articles/773644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773644)
-- [Как использовать ресурсы Kubernetes по максимуму для работы с Go-приложениями](https://habr.com/ru/companies/sbermarket/articles/773648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773648)
-- [Тестируемая архитектура. Часть 1](https://habr.com/ru/companies/reksoft/articles/773810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
