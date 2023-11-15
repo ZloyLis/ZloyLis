@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильные суперприложения выгодны корпорациям, но это кошмар для простых людей](https://habr.com/ru/companies/ruvds/articles/773172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773172)
+- [[Перевод] 100 промптов для ChatGPT](https://habr.com/ru/companies/otus/articles/774046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774046)
+- [Черкаш-код: изобретение и внедрение](https://habr.com/ru/articles/774026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774026)
 - [Почему правило «если мне 20 раз выпал орёл, то в 21-ый точно выпадет решка», в действительности, не работает](https://habr.com/ru/articles/774018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774018)
 - [Особенности сбора метрик. Запуск приложения gunicorn-ом в режиме мультипроцессинга](https://habr.com/ru/companies/domclick/articles/773136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773136)
-- [JUnit 5 Extensions — практическое руководство &lpar;часть 1&rpar;](https://habr.com/ru/companies/chestnyznak/articles/773530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773530)
-- [Как язык моделирования ArchiMate помогает IT аналитикам в решении их задач](https://habr.com/ru/companies/otus/articles/773960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773960)
-- [Квантовое программирование для диспетчеризации производства](https://habr.com/ru/articles/774004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
