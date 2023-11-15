@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kaspresso для самых маленьких](https://habr.com/ru/companies/hh/articles/773910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773910)
+- [Подробно о Coq: зависимое сопоставление с образцом](https://habr.com/ru/articles/773992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773992)
 - [Duckdb в браузере и карта Москвы на github](https://habr.com/ru/articles/772736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772736)
 - [Простой, но масштабируемый State Management для Flutter](https://habr.com/ru/articles/773980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773980)
 - [Добавление WebAuthn в веб-приложение](https://habr.com/ru/articles/773912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773912)
-- [C++ Дайджест №7 &lpar;30 октября – 12 ноября 2023&rpar;](https://habr.com/ru/articles/773894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773894)
-- [[Перевод] Kubernetes 1.28: sidecar-контейнеры возвращаются?](https://habr.com/ru/companies/vk/articles/772574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
