@@ -23,8 +23,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [97 откликов, 2 тестовых, 3 технических собеседования — и оффер в IT-компанию у меня в кармане](https://habr.com/ru/articles/773836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773836)
 - [Трудности перевода: как научиться понимать то, что нарисовал дизайнер](https://habr.com/ru/companies/oleg-bunin/articles/735034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735034)
-- [Jenkinsfile – это не Groovy](https://habr.com/ru/companies/joom/articles/774006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774006)
 - [Мобильные суперприложения выгодны корпорациям, но это кошмар для простых людей](https://habr.com/ru/companies/ruvds/articles/773172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773172)
 - [[Перевод] 100 промптов для ChatGPT](https://habr.com/ru/companies/otus/articles/774046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774046)
 - [Черкаш-код: изобретение и внедрение](https://habr.com/ru/articles/774026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774026)
