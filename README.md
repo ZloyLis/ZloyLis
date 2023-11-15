@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сокровища HTML: 7 тегов, которые упростят вам жизнь](https://habr.com/ru/articles/774112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774112)
+- [Листаем цифровые страницы: UIPageViewController](https://habr.com/ru/articles/774108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774108)
 - [Масштабирование телеграм-ботов на примере aiogram](https://habr.com/ru/companies/otus/articles/773540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773540)
 - [React + Three.js. Создаём собственный 3D шутер. Часть 2](https://habr.com/ru/articles/774090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774090)
 - [97 откликов, 2 тестовых, 3 технических собеседования — и оффер в IT-компанию у меня в кармане](https://habr.com/ru/articles/773836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773836)
-- [Трудности перевода: как научиться понимать то, что нарисовал дизайнер](https://habr.com/ru/companies/oleg-bunin/articles/735034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735034)
-- [Мобильные суперприложения выгодны корпорациям, но это кошмар для простых людей](https://habr.com/ru/companies/ruvds/articles/773172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
