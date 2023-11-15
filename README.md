@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгебра совокупностей Брусенцова и не только](https://habr.com/ru/articles/774198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774198)
 - [Может ли быть уязвимость в дизайне, контенте и CSS и разбор такой уязвимости&lpar;?&rpar; на Госуслугах](https://habr.com/ru/articles/774162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774162)
 - [Как гуглить &lpar;или развлекаться с ChatGPT&rpar; правильно?](https://habr.com/ru/articles/774168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774168)
 - [О хранении изображений в памяти с выравниванием](https://habr.com/ru/articles/773948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773948)
 - [Сокровища HTML: 7 тегов, которые упростят вам жизнь](https://habr.com/ru/articles/774112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774112)
-- [Листаем цифровые страницы: UIPageViewController](https://habr.com/ru/articles/774108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
