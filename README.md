@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps as a Service. Часть 3. Решаем проблему дежурств и хаоса в чате с использованием RCA и единого flow](https://habr.com/ru/companies/bimeister/articles/774186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774186)
+- [Должен ли QA уметь писать код](https://habr.com/ru/companies/tinkoff/articles/774340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774340)
+- [Бауманка, ВШЭ или всё-таки МФТИ? Или как я выполнила пятилетку за 4 года. Часть 1](https://habr.com/ru/articles/774344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774344)
 - [Деревья ltree в PostgreSQL – простым языком](https://habr.com/ru/articles/774324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774324)
 - [Разработка высоконагруженного игрового WebSocket сервера на Java, Netty с поддержкой BattleRoyale/Matchmaking](https://habr.com/ru/articles/774322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774322)
-- [Из фото в 3D, ч.2: калибровка камеры](https://habr.com/ru/companies/magnus-tech/articles/772534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772534)
-- [Управление конфигурациями: Puppet vs. Chef vs. Ansible](https://habr.com/ru/companies/otus/articles/774150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774150)
-- [Сквозь дебри разработки, или как я пытался написать приложение](https://habr.com/ru/articles/774308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
