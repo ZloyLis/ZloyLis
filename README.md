@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование Backend с помощью Charles Proxy](https://habr.com/ru/articles/774460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774460)
+- [Добавление micrometer-метрик для взаимодействий по SOAP](https://habr.com/ru/articles/774456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774456)
+- [Из PM-ов в разрабы. Шаг назад для продвижения вперёд](https://habr.com/ru/articles/774446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774446)
+- [Управление сетевыми устройствами: Orange Pi, OpenWRT и Python](https://habr.com/ru/companies/quanttelecom/articles/774436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774436)
 - [Защита кода приложения Android. Когда хотели как лучше, а вышло не очень](https://habr.com/ru/articles/774426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774426)
-- [«Найти и утилизировать»: как мы автоматизировали очистку ресурсов после тестирования с помощью Tempest Cleanup](https://habr.com/ru/companies/selectel/articles/774316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774316)
-- [Нейронные сети для новичков и профи: топ бесплатных курсов по ИИ](https://habr.com/ru/companies/bothub/articles/774390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774390)
-- [[Перевод] 5 уровней зрелости MLOps](https://habr.com/ru/companies/vk/articles/772538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772538)
-- [Улучшаем возможности Nginx без затрат на коммерческую подписку &lpar;спойлер: с помощью Haproxy&rpar;](https://habr.com/ru/companies/netologyru/articles/769394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
