@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разрушители легенд: Как на самом деле магазины проверяют приложения на уязвимости](https://habr.com/ru/companies/swordfish_security/articles/774144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774144)
+- [Разделение презентационного слоя фичи на модули в Android приложении](https://habr.com/ru/companies/alfa/articles/773958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773958)
+- [Это мы пишем и обслуживаем банковский процессинг, нам надо серьёзно поговорить](https://habr.com/ru/companies/T1Holding/articles/774084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774084)
+- [Тот самый датасет, где архитектор чуть не сошёл с ума](https://habr.com/ru/companies/omk-it/articles/774126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774126)
 - [Пример применения генератора в Битрикс: как не ронять сервер на больших выгрузках](https://habr.com/ru/articles/771438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771438)
-- [Алгебра совокупностей Брусенцова и не только](https://habr.com/ru/articles/774198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774198)
-- [Может ли быть уязвимость в дизайне, контенте и CSS и разбор такой уязвимости&lpar;?&rpar; на Госуслугах](https://habr.com/ru/articles/774162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774162)
-- [Как гуглить &lpar;или развлекаться с ChatGPT&rpar; правильно?](https://habr.com/ru/articles/774168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774168)
-- [О хранении изображений в памяти с выравниванием](https://habr.com/ru/articles/773948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
