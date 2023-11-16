@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Защита кода приложения Android. Когда хотели как лучше, а вышло не очень](https://habr.com/ru/articles/774426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774426)
 - [«Найти и утилизировать»: как мы автоматизировали очистку ресурсов после тестирования с помощью Tempest Cleanup](https://habr.com/ru/companies/selectel/articles/774316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774316)
 - [Нейронные сети для новичков и профи: топ бесплатных курсов по ИИ](https://habr.com/ru/companies/bothub/articles/774390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774390)
 - [[Перевод] 5 уровней зрелости MLOps](https://habr.com/ru/companies/vk/articles/772538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772538)
 - [Улучшаем возможности Nginx без затрат на коммерческую подписку &lpar;спойлер: с помощью Haproxy&rpar;](https://habr.com/ru/companies/netologyru/articles/769394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769394)
-- [Должен ли QA уметь писать код](https://habr.com/ru/companies/tinkoff/articles/774340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
