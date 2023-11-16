@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие баги мы заложили в онлайн-банк на PHDays 12: разбор конкурса $NATCH](https://habr.com/ru/companies/pt/articles/773856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773856)
+- [ООП в Mathematica](https://habr.com/ru/articles/774172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774172)
 - [Разрушители легенд: Как на самом деле магазины проверяют приложения на уязвимости](https://habr.com/ru/companies/swordfish_security/articles/774144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774144)
 - [Разделение презентационного слоя фичи на модули в Android приложении](https://habr.com/ru/companies/alfa/articles/773958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773958)
 - [Это мы пишем и обслуживаем банковский процессинг, нам надо серьёзно поговорить](https://habr.com/ru/companies/T1Holding/articles/774084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774084)
-- [Тот самый датасет, где архитектор чуть не сошёл с ума](https://habr.com/ru/companies/omk-it/articles/774126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774126)
-- [Пример применения генератора в Битрикс: как не ронять сервер на больших выгрузках](https://habr.com/ru/articles/771438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
