@@ -27,7 +27,7 @@ ___
 - [PyTelegramBotAPI на примере проекта сбора обратной связи #1](https://habr.com/ru/articles/774484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774484)
 - [Тестирование Backend с помощью Charles Proxy](https://habr.com/ru/articles/774460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774460)
 - [Добавление micrometer-метрик для взаимодействий по SOAP](https://habr.com/ru/articles/774456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774456)
-- [Из PM-ов в разрабы. Шаг назад для продвижения вперёд](https://habr.com/ru/articles/774446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774446)
+- [Управление сетевыми устройствами: Orange Pi, OpenWRT и Python](https://habr.com/ru/companies/quanttelecom/articles/774436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
