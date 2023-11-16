@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Какие баги мы заложили в онлайн-банк на PHDays 12: разбор конкурса $NATCH](https://habr.com/ru/companies/pt/articles/773856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773856)
-- [ООП в Mathematica](https://habr.com/ru/articles/774172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774172)
-- [Разрушители легенд: Как на самом деле магазины проверяют приложения на уязвимости](https://habr.com/ru/companies/swordfish_security/articles/774144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774144)
-- [Разделение презентационного слоя фичи на модули в Android приложении](https://habr.com/ru/companies/alfa/articles/773958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773958)
-- [Это мы пишем и обслуживаем банковский процессинг, нам надо серьёзно поговорить](https://habr.com/ru/companies/T1Holding/articles/774084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774084)
+- [Деревья ltree в PostgreSQL – простым языком](https://habr.com/ru/articles/774324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774324)
+- [Разработка высоконагруженного игрового WebSocket сервера на Java, Netty с поддержкой BattleRoyale/Matchmaking](https://habr.com/ru/articles/774322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774322)
+- [Из фото в 3D, ч.2: калибровка камеры](https://habr.com/ru/companies/magnus-tech/articles/772534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772534)
+- [Управление конфигурациями: Puppet vs. Chef vs. Ansible](https://habr.com/ru/companies/otus/articles/774150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774150)
+- [Сквозь дебри разработки, или как я пытался написать приложение](https://habr.com/ru/articles/774308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
