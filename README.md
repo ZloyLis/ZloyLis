@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хочешь сделать интересного монстра, думай как монстр](https://habr.com/ru/articles/774506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774506)
+- [Java-инспекции в IDEA 2023.2](https://habr.com/ru/companies/bar/articles/774504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774504)
 - [IntelliJ IDEA 2023.2. Долгожданный LSP, встроенный AI-чат, апгрейд до Windows 10 и -Xmx2G](https://habr.com/ru/companies/bar/articles/774494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774494)
 - [PyTelegramBotAPI на примере проекта сбора обратной связи #1](https://habr.com/ru/articles/774484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774484)
 - [Тестирование Backend с помощью Charles Proxy](https://habr.com/ru/articles/774460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774460)
-- [Добавление micrometer-метрик для взаимодействий по SOAP](https://habr.com/ru/articles/774456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774456)
-- [Управление сетевыми устройствами: Orange Pi, OpenWRT и Python](https://habr.com/ru/companies/quanttelecom/articles/774436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
