@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Глубокий JS. В память о типах и данных](https://habr.com/ru/articles/774548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774548)
-- [Как проклятие невидимой стены ждало меня 20 лет](https://habr.com/ru/companies/timeweb/articles/774070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774070)
-- [Spring и Hibernate простыми словами: обзор для новичков](https://habr.com/ru/companies/productstar/articles/774508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774508)
-- [Tailwind vs BEM — 1 &lpar;сравнение производительности&rpar;](https://habr.com/ru/articles/774524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774524)
-- [Разработка алгоритмов обработки данных в реальном времени на Python](https://habr.com/ru/companies/mvideo/articles/773420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773420)
+- [Удобные формы для Vue](https://habr.com/ru/articles/774606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774606)
+- [Анализ текстовых данных с помощью NLTK и Python](https://habr.com/ru/companies/otus/articles/774498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774498)
+- [[Перевод] Kubernetes на AWS: пошаговое руководство](https://habr.com/ru/companies/otus/articles/774592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774592)
+- [Топ крутых метрик для аналитики SMM](https://habr.com/ru/articles/774586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774586)
+- [Как мы перешли на кроссплатформенность в середине проекта и успели в срок](https://habr.com/ru/companies/sbermarket/articles/774328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
