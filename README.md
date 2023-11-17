@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Message broker per service](https://habr.com/ru/articles/774636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774636)
+- [[Перевод] Чем хорош Rust для продакшена?](https://habr.com/ru/companies/ruvds/articles/774042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774042)
 - [Как сделать автотесты гибкими и лаконичными](https://habr.com/ru/companies/kaspersky/articles/773914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773914)
 - [Асинхронный python без головной боли &lpar;часть 3&rpar;](https://habr.com/ru/articles/774582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774582)
 - [Удобные формы для Vue 3](https://habr.com/ru/articles/774606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774606)
-- [Анализ текстовых данных с помощью NLTK и Python](https://habr.com/ru/companies/otus/articles/774498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774498)
-- [[Перевод] Kubernetes на AWS: пошаговое руководство](https://habr.com/ru/companies/otus/articles/774592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
