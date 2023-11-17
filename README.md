@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Новый линт в Dart 3.2](https://habr.com/ru/articles/774744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774744)
 - [[Перевод] Flutter 3.16: что нового](https://habr.com/ru/companies/friflex/articles/774594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774594)
 - [Рекомендации по разработке баз данных и клиентских приложений](https://habr.com/ru/articles/774154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774154)
 - [Стандарт беспроводной зарядки Qi2: что это, как работает и какие у него преимущества](https://habr.com/ru/companies/ru_mts/articles/774698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774698)
 - [Бауманка, ВШЭ или все-таки МФТИ? Или как я выполнила 5ти летку за 4 года. Часть 2](https://habr.com/ru/articles/774664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774664)
-- [Алгоритмы не важны](https://habr.com/ru/articles/774682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
