@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глубокий JS. В память о типах и данных](https://habr.com/ru/articles/774548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774548)
+- [Как проклятие невидимой стены ждало меня 20 лет](https://habr.com/ru/companies/timeweb/articles/774070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774070)
+- [Spring и Hibernate простыми словами: обзор для новичков](https://habr.com/ru/companies/productstar/articles/774508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774508)
 - [Tailwind vs BEM — 1 &lpar;сравнение производительности&rpar;](https://habr.com/ru/articles/774524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774524)
 - [Разработка алгоритмов обработки данных в реальном времени на Python](https://habr.com/ru/companies/mvideo/articles/773420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773420)
-- [Хочешь сделать интересного монстра, думай как монстр](https://habr.com/ru/articles/774506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774506)
-- [Java-инспекции в IDEA 2023.2](https://habr.com/ru/companies/bar/articles/774504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774504)
-- [IntelliJ IDEA 2023.2. Долгожданный LSP, встроенный AI-чат, апгрейд до Windows 10 и -Xmx2G](https://habr.com/ru/companies/bar/articles/774494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
