@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема понимания существующего кода, или Как делать иногда [не] надо](https://habr.com/ru/articles/774856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774856)
 - [Учимся на ошибках AI, прокачиваем «S»](https://habr.com/ru/articles/774848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774848)
 - [Метаморфозы сознания. Про ревью и комментарии в технической документации](https://habr.com/ru/companies/bercut/articles/774830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774830)
 - [Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить](https://habr.com/ru/articles/774844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774844)
 - [Как принимать платежи в Telegram | Оплата без всяких токенов и асинхронная обработка платежа](https://habr.com/ru/articles/774818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774818)
-- [Как я заработал 500 000 рублей, сделав доступ к ChatGPT. А потом Яндекс убил SEO и всё &lpar;почти&rpar; закончилось](https://habr.com/ru/articles/774822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
