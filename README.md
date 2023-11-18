@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Добавляем подсказки в приложение с помощью TipKit](https://habr.com/ru/companies/otus/articles/774714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774714)
 - [Погружение в Smali. Как выглядят Java и Kotlin со стороны](https://habr.com/ru/articles/774758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774758)
 - [Computer Science: книги, от новичка до профи](https://habr.com/ru/articles/774746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774746)
 - [[Перевод] Новый линт в Dart 3.2](https://habr.com/ru/articles/774744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774744)
 - [[Перевод] Flutter 3.16: что нового](https://habr.com/ru/companies/friflex/articles/774594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774594)
-- [Рекомендации по разработке баз данных и клиентских приложений](https://habr.com/ru/articles/774154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
