@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Змеиная наука: Химия в Python, часть 1](https://habr.com/ru/articles/774918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774918)
+- [Подходит ли data class для JPA entity?](https://habr.com/ru/articles/774916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774916)
 - [[Перевод] Анонс Dart 3.2](https://habr.com/ru/articles/774902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774902)
 - [PyTelegramBotAPI на примере проекта сбора обратной связи #2](https://habr.com/ru/articles/774898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774898)
 - [Swift Utilities — Equitable для сложных Enum](https://habr.com/ru/articles/774894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774894)
-- [Swift Utilities — Потокобезопасное свойство](https://habr.com/ru/articles/774890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774890)
-- [Swift Utilities — Упрощаем работу с UserDefaults](https://habr.com/ru/articles/774888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
