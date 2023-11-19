@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как построить безопасный, типизированный Node.js API с использованием Prisma, TypeGraphQL и graphql-query-purifier](https://habr.com/ru/articles/774874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774874)
+- [Swift Utilities — Работа с Динамическими Цветами](https://habr.com/ru/articles/774884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774884)
+- [Как сгенерировать безопасный, типизированный Node.js API с использованием Prisma, TypeGraphQL и graphql-query-purifier](https://habr.com/ru/articles/774874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774874)
 - [Рефакторинг Swift](https://habr.com/ru/articles/774868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774868)
 - [Как выбрать первую механическую клавиатуру. Пособие для новичка](https://habr.com/ru/articles/774860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774860)
 - [Как подружить Windows, Lens и Teleport](https://habr.com/ru/articles/774858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774858)
-- [Проблема понимания существующего кода, или Как делать иногда [не] надо](https://habr.com/ru/articles/774856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
