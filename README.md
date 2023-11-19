@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Анонс Dart 3.2](https://habr.com/ru/articles/774902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774902)
+- [PyTelegramBotAPI на примере проекта сбора обратной связи #2](https://habr.com/ru/articles/774898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774898)
 - [Swift Utilities — Equitable для сложных Enum](https://habr.com/ru/articles/774894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774894)
 - [Swift Utilities — Потокобезопасное свойство](https://habr.com/ru/articles/774890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774890)
 - [Swift Utilities — Упрощаем работу с UserDefaults](https://habr.com/ru/articles/774888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774888)
-- [Мой первый софт и астрономия](https://habr.com/ru/articles/774886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774886)
-- [Swift Utilities — Работа с Динамическими Цветами](https://habr.com/ru/articles/774884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
