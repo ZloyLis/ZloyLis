@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще один практический пример использования ИИ: скучные совещания в краткое саммари](https://habr.com/ru/articles/774944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774944)
 - [Ответ западу или как в СССР ЭВМ создавали](https://habr.com/ru/articles/774940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774940)
 - [Генерация контрактов OpenApi или прикладной API first: oneOf, anyOf, allOf](https://habr.com/ru/articles/774928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774928)
 - [Коммивояжёр за полином*](https://habr.com/ru/articles/774754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774754)
 - [Алгоритмические собеседования нужны](https://habr.com/ru/articles/774862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774862)
-- [Красота не только в коде — как оформлять репозиторий](https://habr.com/ru/articles/774922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
