@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритмические собеседования нужны](https://habr.com/ru/articles/774862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774862)
 - [Красота не только в коде — как оформлять репозиторий](https://habr.com/ru/articles/774922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774922)
 - [Змеиная наука: Химия в Python, часть 1](https://habr.com/ru/articles/774918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774918)
 - [Подходит ли data class для JPA entity?](https://habr.com/ru/articles/774916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774916)
 - [[Перевод] Анонс Dart 3.2](https://habr.com/ru/articles/774902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774902)
-- [PyTelegramBotAPI на примере проекта сбора обратной связи #2](https://habr.com/ru/articles/774898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
