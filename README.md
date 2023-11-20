@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильная разработка за неделю #515 &lpar;13 — 19 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/774984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774984)
-- [Вы точно хотите пойти программистом в gamedev?](https://habr.com/ru/articles/774972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774972)
-- [Еще один практический пример использования ИИ: скучные открытые публичные встречи в краткое саммари](https://habr.com/ru/articles/774944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774944)
-- [Генерация контрактов OpenApi или прикладной API first: oneOf, anyOf, allOf](https://habr.com/ru/articles/774928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774928)
-- [Коммивояжёр за полином*](https://habr.com/ru/articles/774754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774754)
+- [[Перевод] Время изменений: депрекация datetime.utcnow&lpar;&rpar; в Python](https://habr.com/ru/articles/775024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775024)
+- [Наняли 30 джунов за год: рассказываем, зачем и как](https://habr.com/ru/companies/lamoda/articles/774416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774416)
+- [Не радиус важен, а плотность! Часть 1: Глубокий взгляд на precision и recall](https://habr.com/ru/articles/775032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775032)
+- [Рассеяние вокруг нас: что это такое и какое место оно занимает в компьютерной томографии?](https://habr.com/ru/companies/smartengines/articles/774820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774820)
+- [ChatGPT плохо отвечает на «простые вопросы». Как это починить?](https://habr.com/ru/companies/airi/articles/774934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
