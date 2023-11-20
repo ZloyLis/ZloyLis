@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Верле: разрешаем коллизии &lpar;часть 1&rpar;](https://habr.com/ru/articles/775228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775228)
 - [Как мы решили проблему неизвестности источника модификации элемента, или «как понять, почему элемент изменился»?](https://habr.com/ru/companies/domrf/articles/775170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775170)
 - [Security Week 2347: уязвимость в процессорах Intel](https://habr.com/ru/companies/kaspersky/articles/775148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775148)
 - [[Перевод] Как был создан потоковый SQL-движок](https://habr.com/ru/articles/775156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775156)
 - [App Clip и тысяча проблем](https://habr.com/ru/companies/dododev/articles/775128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775128)
-- [Теория сложности](https://habr.com/ru/companies/otus/articles/774932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
