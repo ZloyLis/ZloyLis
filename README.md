@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Clickhouse, Grafana и 3000 графиков. Как построить систему быстрых дашбордов](https://habr.com/ru/companies/ozontech/articles/774712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774712)
 - [[Перевод] Rust 1.74.0: конфигурация проверки в Cargo, авторизация для приватных реестров, проекции возвращаемых типов](https://habr.com/ru/articles/775076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775076)
 - [Типичный Swagger без гмо](https://habr.com/ru/articles/775056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775056)
 - [[Перевод] Две мощных возможности Python, упрощающие код и улучшающие его читабельность](https://habr.com/ru/companies/wunderfund/articles/775052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775052)
 - [Интересные трюки HTML. Экстремальный минимализм](https://habr.com/ru/companies/ruvds/articles/771388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771388)
-- [Лауреат премии Highload++ и основатель Percona Пётр Зайцев: важно понимать, в чём ты особенно хорош](https://habr.com/ru/companies/oleg-bunin/articles/774998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
