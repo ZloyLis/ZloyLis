@@ -25,9 +25,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Мобильная разработка за неделю #515 &lpar;13 — 19 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/774984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774984)
 - [Вы точно хотите пойти программистом в gamedev?](https://habr.com/ru/articles/774972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774972)
-- [Еще один практический пример использования ИИ: скучные совещания в краткое саммари](https://habr.com/ru/articles/774944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774944)
-- [Ответ западу или как в СССР ЭВМ создавали](https://habr.com/ru/articles/774940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774940)
+- [Еще один практический пример использования ИИ: скучные открытые публичные встречи в краткое саммари](https://habr.com/ru/articles/774944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774944)
 - [Генерация контрактов OpenApi или прикладной API first: oneOf, anyOf, allOf](https://habr.com/ru/articles/774928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774928)
+- [Коммивояжёр за полином*](https://habr.com/ru/articles/774754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
