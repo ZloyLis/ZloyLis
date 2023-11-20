@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как был создан потоковый SQL-движок](https://habr.com/ru/articles/775156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775156)
 - [App Clip и тысяча проблем](https://habr.com/ru/companies/dododev/articles/775128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775128)
 - [Теория сложности](https://habr.com/ru/companies/otus/articles/774932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774932)
 - [Clickhouse, Grafana и 3000 графиков. Как построить систему быстрых дашбордов](https://habr.com/ru/companies/ozontech/articles/774712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774712)
 - [[Перевод] Rust 1.74.0: конфигурация проверки в Cargo, авторизация для приватных реестров, проекции возвращаемых типов](https://habr.com/ru/articles/775076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775076)
-- [Типичный Swagger без гмо](https://habr.com/ru/articles/775056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
