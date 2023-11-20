@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Время изменений: депрекация datetime.utcnow&lpar;&rpar; в Python](https://habr.com/ru/articles/775024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775024)
-- [Наняли 30 джунов за год: рассказываем, зачем и как](https://habr.com/ru/companies/lamoda/articles/774416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774416)
-- [Не радиус важен, а плотность! Часть 1: Глубокий взгляд на precision и recall](https://habr.com/ru/articles/775032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775032)
-- [Рассеяние вокруг нас: что это такое и какое место оно занимает в компьютерной томографии?](https://habr.com/ru/companies/smartengines/articles/774820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774820)
-- [ChatGPT плохо отвечает на «простые вопросы». Как это починить?](https://habr.com/ru/companies/airi/articles/774934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774934)
+- [[Перевод] Две мощных возможности Python, упрощающие код и улучшающие его читабельность](https://habr.com/ru/companies/wunderfund/articles/775052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775052)
+- [Интересные трюки HTML. Экстремальный минимализм](https://habr.com/ru/companies/ruvds/articles/771388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771388)
+- [Лауреат премии Highload++ и основатель Percona Пётр Зайцев: важно понимать, в чём ты особенно хорош](https://habr.com/ru/companies/oleg-bunin/articles/774998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774998)
+- [Принципы непрерывного рефакторинга](https://habr.com/ru/articles/774722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774722)
+- [Нейросетевое око на страже качества: ИИ заменяет операторов промышленного производства. Или нет?](https://habr.com/ru/companies/evraz/articles/774414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
