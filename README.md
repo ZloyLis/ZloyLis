@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.74.0: конфигурация проверки в Cargo, авторизация для приватных реестров, проекции возвращаемых типов](https://habr.com/ru/articles/775076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775076)
+- [Типичный Swagger без гмо](https://habr.com/ru/articles/775056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775056)
 - [[Перевод] Две мощных возможности Python, упрощающие код и улучшающие его читабельность](https://habr.com/ru/companies/wunderfund/articles/775052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775052)
 - [Интересные трюки HTML. Экстремальный минимализм](https://habr.com/ru/companies/ruvds/articles/771388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771388)
 - [Лауреат премии Highload++ и основатель Percona Пётр Зайцев: важно понимать, в чём ты особенно хорош](https://habr.com/ru/companies/oleg-bunin/articles/774998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774998)
-- [Принципы непрерывного рефакторинга](https://habr.com/ru/articles/774722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774722)
-- [Нейросетевое око на страже качества: ИИ заменяет операторов промышленного производства. Или нет?](https://habr.com/ru/companies/evraz/articles/774414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
