@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виртуальная клавиатура на Python+OpenCV](https://habr.com/ru/articles/680060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680060)
 - [Как достичь 100% заполняемости массажного салона — еженедельное посещение](https://habr.com/ru/articles/775516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775516)
 - [Архитектура серверного рендеринга для SPA](https://habr.com/ru/companies/otus/articles/775168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775168)
 - [Как решать задачи и заниматься спортивным программированием?](https://habr.com/ru/articles/775464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775464)
 - [Как придумать самый надежный пароль?](https://habr.com/ru/companies/alumnibmstu/articles/775452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775452)
-- [[Перевод] Как я пишу на C по состоянию на конец 2023 года](https://habr.com/ru/companies/piter/articles/774596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
