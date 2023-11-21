@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не змея, а гепард — ускорение python](https://habr.com/ru/articles/775372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775372)
+- [Короче, кейс: Как InDrive построил бизнес на $1.2 млрд. А начинал с группы ВК в Якутии](https://habr.com/ru/articles/772512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772512)
+- [Конкурс для C++ программистов и их любимых багов](https://habr.com/ru/companies/pvs-studio/articles/775388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775388)
+- [Дайджест мобильной разработки за октябрь](https://habr.com/ru/companies/vk/articles/775378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775378)
 - [[Перевод] COBOL: все еще в строю спустя столько лет](https://habr.com/ru/articles/774402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774402)
 - [Техсобесы — это просто, но есть нюанс…](https://habr.com/ru/companies/yandex_praktikum/articles/775296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775296)
-- [Тестируем Spring Boot приложения через Spock Framework](https://habr.com/ru/articles/775346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775346)
-- [«Управлять нельзя исследовать»: как компании развивают технические продукты](https://habr.com/ru/companies/selectel/articles/774378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
