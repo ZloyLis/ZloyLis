@@ -24,10 +24,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Как я пишу на C по состоянию на конец 2023 года](https://habr.com/ru/companies/piter/articles/774596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774596)
+- [Модельный риск: как увеличить эффективность работы ML моделей в большой компании](https://habr.com/ru/companies/X5Tech/articles/775424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775424)
 - [Предсказательное моделирование &lpar;Predictive Modeling&rpar;](https://habr.com/ru/companies/otus/articles/774970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774970)
 - [Пишем Kotlin DSL для графов навигации в домашних условиях](https://habr.com/ru/companies/tinkoff/articles/775288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775288)
 - [Как IT в финтехе готовится к сезону распродаж. Опыт ЮKassa](https://habr.com/ru/companies/yoomoney/articles/775404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775404)
-- [Магия транзакций в Bitrix: Как заставить ваши данные держаться как вкопанные](https://habr.com/ru/articles/775398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
