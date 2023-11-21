@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Руководство по кэшированию в Django](https://habr.com/ru/companies/otus/articles/775318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775318)
+- [Эта неделя в мире Java &lpar;21 ноября&rpar;](https://habr.com/ru/companies/bar/articles/775308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775308)
+- [Статический анализатор Ktlint для Kotlin в Android](https://habr.com/ru/companies/ppr/articles/775306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775306)
+- [[Перевод] Как добавить Flutter в нативное приложение iOS и протестировать его на Codemagic &lpar;Часть 1&rpar;](https://habr.com/ru/articles/775298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775298)
 - [Как мы судили на чемпионате России по спортивному программированию](https://habr.com/ru/companies/postgrespro/articles/774736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774736)
-- [Большая дыра в безопасности Android: Почему смартфоны с зеленым роботом подвержены кражам?](https://habr.com/ru/companies/timeweb/articles/773968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773968)
-- [[Перевод] Непрерывное тестирование: разработка выигрышной стратегии тестирования](https://habr.com/ru/articles/774610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774610)
-- [Многопоточный Python на примерах: токены отмены](https://habr.com/ru/companies/vk/articles/774672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774672)
-- [Будущее программирования: языки, зарплата и перспективы в 2024 году](https://habr.com/ru/companies/lanit/articles/774334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
