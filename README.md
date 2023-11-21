@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Предсказательное моделирование &lpar;Predictive Modeling&rpar;](https://habr.com/ru/companies/otus/articles/774970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774970)
+- [Пишем Kotlin DSL для графов навигации в домашних условиях](https://habr.com/ru/companies/tinkoff/articles/775288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775288)
+- [Магия транзакций в Bitrix: Как заставить ваши данные держаться как вкопанные](https://habr.com/ru/articles/775398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775398)
 - [Короче, кейс: Как InDrive построил бизнес на $1.2 млрд. А начинал с группы ВК в Якутии](https://habr.com/ru/articles/772512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772512)
 - [Конкурс для C++ программистов и их любимых багов](https://habr.com/ru/companies/pvs-studio/articles/775388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775388)
-- [Дайджест мобильной разработки за октябрь](https://habr.com/ru/companies/vk/articles/775378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775378)
-- [[Перевод] COBOL: все еще в строю спустя столько лет](https://habr.com/ru/articles/774402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774402)
-- [Техсобесы — это просто, но есть нюанс…](https://habr.com/ru/companies/yandex_praktikum/articles/775296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
