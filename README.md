@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Руководство по кэшированию в Django](https://habr.com/ru/companies/otus/articles/775318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775318)
-- [Эта неделя в мире Java &lpar;21 ноября&rpar;](https://habr.com/ru/companies/bar/articles/775308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775308)
-- [Статический анализатор Ktlint для Kotlin в Android](https://habr.com/ru/companies/ppr/articles/775306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775306)
-- [[Перевод] Как добавить Flutter в нативное приложение iOS и протестировать его на Codemagic &lpar;Часть 1&rpar;](https://habr.com/ru/articles/775298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775298)
-- [Как мы судили на чемпионате России по спортивному программированию](https://habr.com/ru/companies/postgrespro/articles/774736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774736)
+- [Техсобесы — это просто, но есть нюанс…](https://habr.com/ru/companies/yandex_praktikum/articles/775296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775296)
+- [Тестируем Spring Boot приложения через Spock Framework](https://habr.com/ru/articles/775346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775346)
+- [«Управлять нельзя исследовать»: как компании развивают технические продукты](https://habr.com/ru/companies/selectel/articles/774378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774378)
+- [Когнитивные искажения в программировании. Часть 3](https://habr.com/ru/companies/reksoft/articles/775338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775338)
+- [Какую статью хочется прочитать в нашем блоге на тему C++, C# или Java?](https://habr.com/ru/companies/pvs-studio/articles/775332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
