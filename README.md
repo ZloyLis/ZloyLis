@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не змея, а гепард — ускорение python](https://habr.com/ru/articles/775372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775372)
+- [[Перевод] COBOL: все еще в строю спустя столько лет](https://habr.com/ru/articles/774402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774402)
 - [Техсобесы — это просто, но есть нюанс…](https://habr.com/ru/companies/yandex_praktikum/articles/775296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775296)
 - [Тестируем Spring Boot приложения через Spock Framework](https://habr.com/ru/articles/775346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775346)
 - [«Управлять нельзя исследовать»: как компании развивают технические продукты](https://habr.com/ru/companies/selectel/articles/774378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774378)
-- [Когнитивные искажения в программировании. Часть 3](https://habr.com/ru/companies/reksoft/articles/775338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775338)
-- [Какую статью хочется прочитать в нашем блоге на тему C++, C# или Java?](https://habr.com/ru/companies/pvs-studio/articles/775332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
