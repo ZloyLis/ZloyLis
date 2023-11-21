@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Будущее программирования: языки, зарплата и перспективы в 2024 году](https://habr.com/ru/companies/lanit/articles/774334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774334)
+- [Как мы делаем общие библиотеки](https://habr.com/ru/companies/nlmk/articles/770100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770100)
 - [Apple Pro Weekly News &lpar;13.11 – 19.11.23&rpar;](https://habr.com/ru/articles/775238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775238)
 - [Верле: разрешаем коллизии &lpar;часть 1&rpar;](https://habr.com/ru/articles/775228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775228)
 - [Как мы решили проблему неизвестности источника модификации элемента, или «как понять, почему элемент изменился»?](https://habr.com/ru/companies/domrf/articles/775170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775170)
-- [Security Week 2347: уязвимость в процессорах Intel](https://habr.com/ru/companies/kaspersky/articles/775148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775148)
-- [[Перевод] Как был создан потоковый SQL-движок](https://habr.com/ru/articles/775156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
