@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Вопросы по DevOps. Часть 1](https://habr.com/ru/articles/775560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775560)
+- [Как мы отказались от styled-components в React Native приложениях](https://habr.com/ru/articles/775476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775476)
+- [Релиз Unity 2023.2 Tech Stream](https://habr.com/ru/companies/bar/articles/775588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775588)
+- [Неочевидные моменты TypeScript и способы их решения](https://habr.com/ru/articles/775330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775330)
+- [База: айсберг A/B-тестов](https://habr.com/ru/companies/sbermarket/articles/774608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774608)
 - [Как я написал программу для преданалитики клиентов](https://habr.com/ru/companies/yandex_praktikum/articles/763270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763270)
-- [Билдер Vue 3 веб приложений](https://habr.com/ru/articles/775550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775550)
-- [[Перевод] Open-source-инструменты для Kubernetes AIOps на базе OpenAI](https://habr.com/ru/companies/vk/articles/772530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772530)
-- [Typescript: лучшие практики](https://habr.com/ru/articles/775524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
