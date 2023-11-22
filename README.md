@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python и Excel. Прочитать и не потерять](https://habr.com/ru/articles/775548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775548)
-- [Kotlin под капотом: нюансы использования аннотаций](https://habr.com/ru/articles/774872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774872)
-- [Виртуальная клавиатура на Python+OpenCV](https://habr.com/ru/articles/680060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=680060)
-- [Как достичь 100% заполняемости массажного салона — еженедельное посещение](https://habr.com/ru/articles/775516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775516)
-- [Архитектура серверного рендеринга для SPA](https://habr.com/ru/companies/otus/articles/775168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775168)
+- [[Перевод] Вопросы по DevOps. Часть 1](https://habr.com/ru/articles/775560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775560)
+- [Как я написал программу для преданалитики клиентов](https://habr.com/ru/companies/yandex_praktikum/articles/763270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763270)
+- [Билдер Vue 3 веб приложений](https://habr.com/ru/articles/775550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775550)
+- [[Перевод] Open-source-инструменты для Kubernetes AIOps на базе OpenAI](https://habr.com/ru/companies/vk/articles/772530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772530)
+- [Typescript: лучшие практики](https://habr.com/ru/articles/775524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
