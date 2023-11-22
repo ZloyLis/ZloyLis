@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Откуда брать идеи для пет-проектов](https://habr.com/ru/articles/775624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775624)
 - [На Highload++ я в хорошей компании: создатель школы программирования «Хекслет» Кирилл Мокевнин](https://habr.com/ru/companies/oleg-bunin/articles/775604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775604)
 - [Инструмент статического анализа Slither](https://habr.com/ru/companies/pt/articles/775074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775074)
 - [Как мы отказались от styled-components в React Native приложениях](https://habr.com/ru/articles/775476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775476)
 - [Неочевидные моменты TypeScript и способы их решения](https://habr.com/ru/articles/775330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775330)
-- [Как я написал программу для преданалитики клиентов](https://habr.com/ru/companies/yandex_praktikum/articles/763270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=763270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
