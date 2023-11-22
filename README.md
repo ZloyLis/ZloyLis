@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Flutter 3.16: обзор обновления фреймворка с комментариями разработчиков Surf](https://habr.com/ru/companies/surfstudio/articles/775714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775714)
 - [ТОЛК: серия встреч про технологии будущего от red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/775690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775690)
+- [Сказ о том, как я эмулятор Intel 4004 на Python писал](https://habr.com/ru/articles/775686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775686)
 - [[Перевод] Увядает ли ремесло программиста?](https://habr.com/ru/companies/ruvds/articles/775668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775668)
 - [Эффективность на максимум: Микрооптимизации в Golang](https://habr.com/ru/companies/otus/articles/775192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775192)
-- [Frontend Talks: как упростить создание контекста с помощью Constate](https://habr.com/ru/companies/cloud_ru/articles/772500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772500)
-- [OmniFusion: выходим за границы текста](https://habr.com/ru/companies/airi/articles/775108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
