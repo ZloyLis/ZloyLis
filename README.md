@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать провокационный образ искусственного интеллекта без брифов и референсов](https://habr.com/ru/articles/775780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775780)
+- [Три среды на бэкенде](https://habr.com/ru/articles/775776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775776)
 - [Математика: полезные книги](https://habr.com/ru/articles/775744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775744)
 - [Факир математики: Золотое сечение](https://habr.com/ru/articles/775736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775736)
 - [Infinix Zero 30 4G: доступный и стильный смартфон с хорошей производительностью](https://habr.com/ru/companies/ru_mts/articles/775716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775716)
-- [[Перевод] Flutter 3.16: обзор обновления фреймворка с комментариями разработчиков Surf](https://habr.com/ru/companies/surfstudio/articles/775714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775714)
-- [ТОЛК: серия встреч про технологии будущего от red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/775690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
