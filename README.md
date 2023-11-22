@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эффективность на максимум: Микрооптимизации в Golang](https://habr.com/ru/companies/otus/articles/775192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775192)
+- [Frontend Talks: как упростить создание контекста с помощью Constate](https://habr.com/ru/companies/cloud_ru/articles/772500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772500)
+- [OmniFusion: выходим за границы текста](https://habr.com/ru/companies/airi/articles/775108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775108)
+- [[Перевод] Не нужно блокировать кнопки](https://habr.com/ru/companies/productivity_inside/articles/775648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775648)
 - [[Перевод] Лев Толстой о мобильной разработке: Искусство написания приложений](https://habr.com/ru/companies/otus/articles/775640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775640)
-- [PyTelegramBotAPI на примере проекта сбора обратной связи #3. Клавиатура](https://habr.com/ru/articles/775630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775630)
-- [Откуда брать идеи для пет-проектов](https://habr.com/ru/articles/775624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775624)
-- [На Highload++ я в хорошей компании: создатель школы программирования «Хекслет» Кирилл Мокевнин](https://habr.com/ru/companies/oleg-bunin/articles/775604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775604)
-- [Инструмент статического анализа Slither](https://habr.com/ru/companies/pt/articles/775074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
