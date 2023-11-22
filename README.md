@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОЛК: серия встреч про технологии будущего от red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/775690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775690)
 - [[Перевод] Увядает ли ремесло программиста?](https://habr.com/ru/companies/ruvds/articles/775668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775668)
 - [Эффективность на максимум: Микрооптимизации в Golang](https://habr.com/ru/companies/otus/articles/775192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775192)
 - [Frontend Talks: как упростить создание контекста с помощью Constate](https://habr.com/ru/companies/cloud_ru/articles/772500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772500)
 - [OmniFusion: выходим за границы текста](https://habr.com/ru/companies/airi/articles/775108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775108)
-- [[Перевод] Не нужно блокировать кнопки](https://habr.com/ru/companies/productivity_inside/articles/775648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
