@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое метрика ага-момента и как ее найти](https://habr.com/ru/companies/tinkoff/articles/775938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775938)
 - [[Перевод] Как добавить Flutter в нативное приложение iOS и протестировать его на Codemagic &lpar;Часть 2&rpar;](https://habr.com/ru/articles/775928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775928)
 - [База для работы в IT: почему её постоянно не хватает новичкам и нужна ли она вообще](https://habr.com/ru/companies/netologyru/articles/775924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775924)
 - [Программное обеспечение будущего, каким оно должно быть](https://habr.com/ru/articles/775914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775914)
 - [И снова о генеалогических деревьях](https://habr.com/ru/articles/775910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775910)
-- [Микросервисы на основе событий с Kafka Streams и Spring Boot](https://habr.com/ru/articles/775900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
