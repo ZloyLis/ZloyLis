@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель запроектной аварии с потерей теплоносителя](https://habr.com/ru/companies/rosatom/articles/776012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776012)
 - [Развитие продукта в общем цифровом пространстве](https://habr.com/ru/articles/776004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776004)
 - [Как использовать Spring в качестве фреймворка для Flink-приложений](https://habr.com/ru/companies/ru_mts/articles/775970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775970)
 - [Что такое метрика ага-момента и как ее найти](https://habr.com/ru/companies/tinkoff/articles/775938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775938)
 - [[Перевод] Как добавить Flutter в нативное приложение iOS и протестировать его на Codemagic &lpar;Часть 2&rpar;](https://habr.com/ru/articles/775928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775928)
-- [База для работы в IT: почему её постоянно не хватает новичкам и нужна ли она вообще](https://habr.com/ru/companies/netologyru/articles/775924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
