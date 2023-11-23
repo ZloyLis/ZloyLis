@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [API vs ABI: разницу видят не только лишь все](https://habr.com/ru/companies/alfa/articles/775180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775180)
 - [Как создать провокационный образ искусственного интеллекта без брифов и референсов](https://habr.com/ru/articles/775780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775780)
 - [Три среды на бэкенде](https://habr.com/ru/articles/775776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775776)
 - [Математика: полезные книги](https://habr.com/ru/articles/775744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775744)
 - [Факир математики: Золотое сечение](https://habr.com/ru/articles/775736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775736)
-- [Infinix Zero 30 4G: доступный и стильный смартфон с хорошей производительностью](https://habr.com/ru/companies/ru_mts/articles/775716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
