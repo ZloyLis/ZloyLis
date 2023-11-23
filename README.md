@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микросервисы на основе событий с Kafka Streams и Spring Boot](https://habr.com/ru/articles/775900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775900)
+- [Этапы поиска работы начинающего продакт-менеджера: снимаем розовые очки и действуем](https://habr.com/ru/articles/775892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775892)
 - [Система аутентификации: сделай сам vs возьми готовое](https://habr.com/ru/companies/sberbank/articles/775840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775840)
 - [[Перевод] Как утереть нос NumPy с помощью двумерного БПФ](https://habr.com/ru/companies/otus/articles/775888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775888)
 - [ChatGPT-4 в помощь: используем AI в доработке простого iOS-приложения](https://habr.com/ru/companies/lamoda/articles/775162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775162)
-- [WebAssembly: короткий обзор ассемблера для фронтенда](https://habr.com/ru/companies/vk/articles/775852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775852)
-- [Персонализация инфраструктуры облачных вычислений с помощью Kubernetes](https://habr.com/ru/companies/first/articles/775542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
