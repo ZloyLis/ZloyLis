@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Система аутентификации: сделай сам vs возьми готовое](https://habr.com/ru/companies/sberbank/articles/775840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775840)
+- [[Перевод] Как утереть нос NumPy с помощью двумерного БПФ](https://habr.com/ru/companies/otus/articles/775888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775888)
+- [ChatGPT-4 в помощь: используем AI в доработке простого iOS-приложения](https://habr.com/ru/companies/lamoda/articles/775162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775162)
+- [WebAssembly: короткий обзор ассемблера для фронтенда](https://habr.com/ru/companies/vk/articles/775852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775852)
 - [Персонализация инфраструктуры облачных вычислений с помощью Kubernetes](https://habr.com/ru/companies/first/articles/775542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775542)
-- [low-code/no-code &lpar;LCNC&rpar;, или как облегчить работу разработчикам](https://habr.com/ru/articles/775832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775832)
-- [Личный кабинет клиента Страхового Дома ВСК](https://habr.com/ru/companies/vsk_insurance/articles/775824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775824)
-- [API vs ABI: разницу видят не только лишь все](https://habr.com/ru/companies/alfa/articles/775180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775180)
-- [Как создать провокационный образ искусственного интеллекта без брифов и референсов](https://habr.com/ru/articles/775780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
