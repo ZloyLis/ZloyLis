@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Смартфон Xiaomi 13T Pro: новый флагман от Leica и Xiaomi](https://habr.com/ru/companies/ru_mts/articles/776222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776222)
-- [PyTelegramBotAPI на примере проекта сбора обратной связи #4. Последние штрихи](https://habr.com/ru/articles/776220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776220)
-- [[Перевод] Моя любимая задача для собеседований по программированию](https://habr.com/ru/companies/ruvds/articles/775570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775570)
-- [Что можно и что нельзя делать с Async/Await](https://habr.com/ru/articles/776196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776196)
-- [Как разбить видеокарту и поделиться с коллегами? Динамический шеринг GPU в Kubernetes с помощью MIG, MPS и TimeSlicing](https://habr.com/ru/companies/selectel/articles/776132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776132)
+- [Аналитика на лету](https://habr.com/ru/articles/776264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776264)
+- [Химия в Python: Часть 2](https://habr.com/ru/articles/776262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776262)
+- [F и Z паттерны в дизайне. Куда смотрит зритель?](https://habr.com/ru/articles/776260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776260)
+- [Факир математики: Золотое сечение, часть 2](https://habr.com/ru/articles/776254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776254)
+- [Кейс: как мы доработали SLA с помощью ETL](https://habr.com/ru/companies/modusbi/articles/776248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
