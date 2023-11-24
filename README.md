@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Очень сложные Крестики-Нолики или Монтеки-Карлоки](https://habr.com/ru/articles/776270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776270)
 - [Аналитика на лету](https://habr.com/ru/articles/776264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776264)
 - [Химия в Python: Часть 2](https://habr.com/ru/articles/776262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776262)
+- [Технология единого входа: как работает SSO](https://habr.com/ru/companies/otus/articles/776170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776170)
 - [F и Z паттерны в дизайне. Куда смотрит зритель?](https://habr.com/ru/articles/776260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776260)
-- [Факир математики: Золотое сечение, часть 2](https://habr.com/ru/articles/776254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776254)
-- [Кейс: как мы доработали SLA с помощью ETL](https://habr.com/ru/companies/modusbi/articles/776248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
