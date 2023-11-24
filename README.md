@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на двухдневную онлайн-конференцию для IT-специалистов в финтехе](https://habr.com/ru/companies/yoomoney/articles/775730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775730)
 - [OpenStreetMap в Flutter-проекте: что такое flutter_map, как его внедрить и чем дополнить](https://habr.com/ru/companies/friflex/articles/776002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776002)
 - [[Перевод] Как объяснить суть Kubernetes таксисту](https://habr.com/ru/companies/timeweb/articles/775984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775984)
 - [Где брать знания бизнес-аналитику? Подборка бесплатных ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/775314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775314)
 - [Модель запроектной аварии с потерей теплоносителя](https://habr.com/ru/companies/rosatom/articles/776012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776012)
-- [Как использовать Spring в качестве фреймворка для Flink-приложений](https://habr.com/ru/companies/ru_mts/articles/775970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
