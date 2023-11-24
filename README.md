@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Приглашаем на двухдневную онлайн-конференцию для IT-специалистов в финтехе](https://habr.com/ru/companies/yoomoney/articles/775730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775730)
-- [OpenStreetMap в Flutter-проекте: что такое flutter_map, как его внедрить и чем дополнить](https://habr.com/ru/companies/friflex/articles/776002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776002)
-- [[Перевод] Как объяснить суть Kubernetes таксисту](https://habr.com/ru/companies/timeweb/articles/775984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775984)
-- [Где брать знания бизнес-аналитику? Подборка бесплатных ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/775314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775314)
-- [Модель запроектной аварии с потерей теплоносителя](https://habr.com/ru/companies/rosatom/articles/776012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776012)
+- [Блокчейн в спортивных приложениях: возможности и проблемы](https://habr.com/ru/articles/776152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776152)
+- [Организуем High Availability PostgreSQL](https://habr.com/ru/companies/avito/articles/775922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775922)
+- [Безопасность на уровне кода: как эту задачу помогает решать облако](https://habr.com/ru/companies/vk/articles/772578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772578)
+- [Как мы автоматизировали тендерные процедуры за счет интеграции SAP с ЭТП](https://habr.com/ru/companies/fix_price/articles/776148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776148)
+- [[Перевод] Размер пул-реквеста имеет значение](https://habr.com/ru/articles/776144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
