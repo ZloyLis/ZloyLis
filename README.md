@@ -30,7 +30,7 @@ ___
 - [PyTelegramBotAPI на примере проекта сбора обратной связи #4. Последние штрихи](https://habr.com/ru/articles/776220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776220)
 - [[Перевод] Моя любимая задача для собеседований по программированию](https://habr.com/ru/companies/ruvds/articles/775570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775570)
 - [Что можно и что нельзя делать с Async/Await](https://habr.com/ru/articles/776196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776196)
-- [Динамический шеринг GPU в Kubernetes: разбор взлетов, падений и существующих решений](https://habr.com/ru/companies/selectel/articles/776132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776132)
+- [Как разбить видеокарту и поделиться с коллегами? Динамический шеринг GPU в Kubernetes с помощью MIG, MPS и TimeSlicing](https://habr.com/ru/companies/selectel/articles/776132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
