@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Блокчейн в спортивных приложениях: возможности и проблемы](https://habr.com/ru/articles/776152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776152)
+- [Выпуск среды разработки Qt Creator 12](https://habr.com/ru/articles/776190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776190)
+- [Ретро кодинг: Привет из прошлого века](https://habr.com/ru/articles/776184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776184)
 - [Организуем High Availability PostgreSQL](https://habr.com/ru/companies/avito/articles/775922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775922)
 - [Безопасность на уровне кода: как эту задачу помогает решать облако](https://habr.com/ru/companies/vk/articles/772578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772578)
 - [Как мы автоматизировали тендерные процедуры за счет интеграции SAP с ЭТП](https://habr.com/ru/companies/fix_price/articles/776148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776148)
-- [[Перевод] Размер пул-реквеста имеет значение](https://habr.com/ru/articles/776144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
