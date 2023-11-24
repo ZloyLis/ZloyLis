@@ -23,11 +23,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Моя любимая задача для собеседований по программированию](https://habr.com/ru/companies/ruvds/articles/775570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775570)
+- [Что можно и что нельзя делать с Async/Await](https://habr.com/ru/articles/776196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776196)
+- [Динамический шеринг GPU в Kubernetes: разбор взлетов, падений и существующих решений](https://habr.com/ru/companies/selectel/articles/776132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776132)
 - [Выпуск среды разработки Qt Creator 12](https://habr.com/ru/articles/776190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776190)
 - [Ретро кодинг: Привет из прошлого века](https://habr.com/ru/articles/776184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776184)
-- [Организуем High Availability PostgreSQL](https://habr.com/ru/companies/avito/articles/775922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775922)
-- [Безопасность на уровне кода: как эту задачу помогает решать облако](https://habr.com/ru/companies/vk/articles/772578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772578)
-- [Как мы автоматизировали тендерные процедуры за счет интеграции SAP с ЭТП](https://habr.com/ru/companies/fix_price/articles/776148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
