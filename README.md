@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Химия в Python: часть 3](https://habr.com/ru/articles/776386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776386)
 - [Почему мы стали любить глупую музыку](https://habr.com/ru/articles/776358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776358)
 - [Разработка и тестирование целочисленного сумматора с AXI-Stream интерфейсами. Часть 5](https://habr.com/ru/articles/776354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776354)
 - [Основы Identity and Access Management &lpar;IAM&rpar; в архитектуре приложений](https://habr.com/ru/companies/otus/articles/775994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775994)
 - [Простая архитектура с использованием MVVM и делегатов в Android. Оптимальное решение для малых проектов](https://habr.com/ru/articles/776344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776344)
+- [Проектируйте правильно](https://habr.com/ru/articles/776326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
