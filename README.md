@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простая архитектура с использованием MVVM и делегатов в Android. Оптимальное решение для малых проектов](https://habr.com/ru/articles/776344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776344)
 - [Проектируйте правильно](https://habr.com/ru/articles/776326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776326)
 - [Автоматическая генерация CI/CD пайплайна для развёртывания инфраструктуры](https://habr.com/ru/companies/magnit/articles/776214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776214)
 - [Бардак в идеальном мире. Часть 3](https://habr.com/ru/articles/761426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761426)
 - [Многооконное веб приложение — решение для перегруженных интерфейсов](https://habr.com/ru/articles/776300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776300)
-- [Очень сложные Крестики-Нолики](https://habr.com/ru/articles/776270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
