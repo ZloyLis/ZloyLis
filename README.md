@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бардак в идеальном мире. Часть 3](https://habr.com/ru/articles/761426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=761426)
 - [Многооконное веб приложение — решение для перегруженных интерфейсов](https://habr.com/ru/articles/776300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776300)
 - [Очень сложные Крестики-Нолики](https://habr.com/ru/articles/776270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776270)
 - [Аналитика на лету](https://habr.com/ru/articles/776264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776264)
 - [Химия в Python: Часть 2](https://habr.com/ru/articles/776262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776262)
-- [Технология единого входа: как работает SSO](https://habr.com/ru/companies/otus/articles/776170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
