@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем программисту микроконтроллеров тригонометрия? &lpar;или Обзор Усилителя Звука из Apple AirTag&rpar;](https://habr.com/ru/articles/767386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767386)
 - [Под покровом невидимого: искусство тестирования на проникновение](https://habr.com/ru/articles/776400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776400)
 - [Почему мы стали любить глупую музыку](https://habr.com/ru/articles/776358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776358)
 - [Разработка и тестирование целочисленного сумматора с AXI-Stream интерфейсами. Часть 5](https://habr.com/ru/articles/776354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776354)
 - [Основы Identity and Access Management &lpar;IAM&rpar; в архитектуре приложений](https://habr.com/ru/companies/otus/articles/775994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775994)
-- [Простая архитектура с использованием MVVM и делегатов в Android. Оптимальное решение для малых проектов](https://habr.com/ru/articles/776344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
