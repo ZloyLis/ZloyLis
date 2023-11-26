@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Эффект Даннинга-Крюгера — это автокорреляция](https://habr.com/ru/articles/776444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776444)
+- [[Перевод] Четыре способа оптимизации ПО](https://habr.com/ru/companies/ruvds/articles/775868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775868)
+- [Способы нивелирования ошибочных действий пользователей в ИС](https://habr.com/ru/articles/776446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776446)
+- [[Перевод] Разоблачаем Эффект Даннинга-Крюгера. Статистический артефакт, пример автокорреляции](https://habr.com/ru/articles/776444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776444)
 - [Как я за месяц написал интерпретируемый язык программирования на Python](https://habr.com/ru/articles/776438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776438)
 - [«Я его обучу, а он уйдёт». Формула, которая должна остаться шуткой](https://habr.com/ru/companies/wehive/articles/776432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776432)
-- [Анализ архитектурных стилей: часть №3/9: стиль «модульный монолит»](https://habr.com/ru/articles/776428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776428)
-- [Путь к мечте: как инвалидность не помешала стать разработчиком и продолжить борьбу за здоровье](https://habr.com/ru/articles/776424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
