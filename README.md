@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какова вероятность найти слово fuck в случайной последовательности из 20 букв?](https://habr.com/ru/articles/510554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=510554)
 - [Этап полировки. Самодельные циклы с параметром в многозвенном «манипуляторе» для работы с данными &lpar;генерация карты&rpar;](https://habr.com/ru/articles/769972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769972)
 - [Фильтруем логи санитайзеров и valgrind на примере приложения с Qt](https://habr.com/ru/companies/stc_spb/articles/776528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776528)
 - [Мастерство многопоточности: Превращаем Java в шедевр параллельного программирования](https://habr.com/ru/articles/776500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776500)
 - [[Перевод] Четыре способа оптимизации ПО](https://habr.com/ru/companies/ruvds/articles/775868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775868)
-- [Способы нивелирования ошибочных действий пользователей в ИС](https://habr.com/ru/articles/776446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
