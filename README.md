@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2348: безопасность логина по отпечатку пальца в ноутбуках](https://habr.com/ru/companies/kaspersky/articles/776698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776698)
+- [Garbage Collection и JVM](https://habr.com/ru/companies/otus/articles/776342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776342)
 - [Виза цифрового кочевника Испания 2023: как получить Digital Nomad Visa](https://habr.com/ru/articles/776724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776724)
 - [Создание своего терминала на C++ и Qt: Часть 1](https://habr.com/ru/articles/776716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776716)
 - [Лексикографический симлекс-метод](https://habr.com/ru/articles/776694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776694)
-- [Сможет ли високосная минута решить проблему синхронизации часов?](https://habr.com/ru/companies/selectel/articles/776692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776692)
-- [[Перевод] Искусство создания понятных графиков](https://habr.com/ru/companies/ruvds/articles/776672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
