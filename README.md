@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как в Ozon следят за чувствительной информацией в логах и при чем тут Толкиен?](https://habr.com/ru/companies/ozontech/articles/776198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776198)
 - [Talkvio — не капибара и не старый пикабу. Модуль серверной индексации для поисковиков для Nginx. Альтернатива Next.js](https://habr.com/ru/articles/776608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776608)
 - [Сетевой мультитул для ИТ и ИБ специалистов: zero-skill создание Telegram чат-бота с помощью ChatGPT](https://habr.com/ru/companies/step_logic/articles/775422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775422)
 - [Из пенсионного фонда в Data Science: как я ушла из одной аналитики в другую](https://habr.com/ru/companies/yandex_praktikum/articles/775710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775710)
 - [Динамическое создание компонентов Angular на лету](https://habr.com/ru/companies/nspk/articles/767178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767178)
-- [— Пакет брать будете? — Нет, я со скриптом. Сравнение софта на скриптах и готовых пакетных решений для сбора данных](https://habr.com/ru/companies/inferit/articles/776228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
