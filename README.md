@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Взлет и падение языка COBOL. Где и как язык программирования, которому 60 лет, применяется и в наше время?](https://habr.com/ru/companies/sberbank/articles/776650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776650)
 - [16-, 8- и 4-битные форматы чисел с плавающей запятой](https://habr.com/ru/companies/wunderfund/articles/776496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776496)
 - [Что можно украсть как художник у Яндекс.Еды и сделать в своем приложении](https://habr.com/ru/articles/776642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776642)
 - [[Перевод] Open Source для платформенного инжиниринга](https://habr.com/ru/companies/vk/articles/776622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776622)
 - [Как в Ozon следят за чувствительной информацией в логах и при чем тут Толкиен?](https://habr.com/ru/companies/ozontech/articles/776198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776198)
-- [Talkvio — не капибара и не старый пикабу. Модуль серверной индексации для поисковиков для Nginx. Альтернатива Next.js](https://habr.com/ru/articles/776608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
