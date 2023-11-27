@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виза цифрового кочевника Испания 2023: как получить Digital Nomad Visa](https://habr.com/ru/articles/776724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776724)
+- [Создание своего терминала на C++ и Qt: Часть 1](https://habr.com/ru/articles/776716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776716)
 - [Лексикографический симлекс-метод](https://habr.com/ru/articles/776694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776694)
 - [Сможет ли високосная минута решить проблему синхронизации часов?](https://habr.com/ru/companies/selectel/articles/776692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776692)
 - [[Перевод] Искусство создания понятных графиков](https://habr.com/ru/companies/ruvds/articles/776672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776672)
-- [Книга «C++ для начинающих. 2-е изд.&amp;quot;](https://habr.com/ru/companies/piter/articles/776680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776680)
-- [GigaShell. Сберовская нейросеть в твоей консоли](https://habr.com/ru/articles/776674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
