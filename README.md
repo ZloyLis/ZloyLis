@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Динамическое создание компонентов Angular на лету](https://habr.com/ru/companies/nspk/articles/767178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=767178)
+- [— Пакет брать будете? — Нет, я со скриптом. Сравнение софта на скриптах и готовых пакетных решений для сбора данных](https://habr.com/ru/companies/inferit/articles/776228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776228)
 - [Make It Right! Максимум пользы, минимум проблем: рекомендации по написанию API автотестов на Python](https://habr.com/ru/companies/gazprommedia/articles/772888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772888)
 - [Kotlin под капотом: inline функции](https://habr.com/ru/articles/775120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775120)
 - [Мобильная разработка за неделю #516 &lpar;20 — 26 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/776552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776552)
-- [OpenAPI/Swagger для начинающих](https://habr.com/ru/articles/776538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776538)
-- [Какова вероятность найти слово fuck в случайной последовательности из 20 букв?](https://habr.com/ru/articles/510554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=510554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
