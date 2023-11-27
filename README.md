@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Make It Right! Максимум пользы, минимум проблем: рекомендации по написанию API автотестов на Python](https://habr.com/ru/companies/gazprommedia/articles/772888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772888)
+- [Kotlin под капотом: inline функции](https://habr.com/ru/articles/775120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775120)
 - [Мобильная разработка за неделю #516 &lpar;20 — 26 ноября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/776552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776552)
 - [OpenAPI/Swagger для начинающих](https://habr.com/ru/articles/776538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776538)
 - [Какова вероятность найти слово fuck в случайной последовательности из 20 букв?](https://habr.com/ru/articles/510554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=510554)
-- [Этап полировки. Самодельные циклы с параметром в многозвенном «манипуляторе» для работы с данными &lpar;генерация карты&rpar;](https://habr.com/ru/articles/769972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769972)
-- [Фильтруем логи санитайзеров и valgrind на примере приложения с Qt](https://habr.com/ru/companies/stc_spb/articles/776528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
