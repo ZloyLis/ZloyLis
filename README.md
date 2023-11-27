@@ -29,7 +29,7 @@ ___
 - [Apple Pro Weekly News &lpar;20.11 – 26.11.23&rpar;](https://habr.com/ru/articles/776786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776786)
 - [Security Week 2348: безопасность логина по отпечатку пальца в ноутбуках](https://habr.com/ru/companies/kaspersky/articles/776698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776698)
 - [Garbage Collection и JVM](https://habr.com/ru/companies/otus/articles/776342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776342)
-- [Виза цифрового кочевника Испания 2023: как получить Digital Nomad Visa](https://habr.com/ru/articles/776724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776724)
+- [Виза цифрового кочевника Испания 2024: как получить Digital Nomad Visa](https://habr.com/ru/articles/776724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776724)
 - [Создание своего терминала на C++ и Qt: Часть 1](https://habr.com/ru/articles/776716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776716)
 <!-- BLOG-POST-LIST:END -->
 
