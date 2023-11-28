@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Доступная система видеонаблюдения с охраной на дачу за 60 минут](https://habr.com/ru/companies/lanit/articles/774410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774410)
 - [Как Visual Studio могла бы выглядеть с новым меню: делюсь GUI-шаблоном](https://habr.com/ru/articles/776636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776636)
 - [Agency: The Go Way to AI. Часть 1](https://habr.com/ru/articles/776830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776830)
 - [Самые удобные дома Москвы для жизни семьи с ребенком](https://habr.com/ru/articles/776582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776582)
 - [Apple Pro Weekly News &lpar;20.11 – 26.11.23&rpar;](https://habr.com/ru/articles/776786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776786)
-- [Security Week 2348: безопасность логина по отпечатку пальца в ноутбуках](https://habr.com/ru/companies/kaspersky/articles/776698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
