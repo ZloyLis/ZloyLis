@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы разработали приложение о воде и во что это позже “вылилось”](https://habr.com/ru/articles/776942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776942)
+- [Продолжаем изучать аппаратные возможности расширения Микротик RBM33G](https://habr.com/ru/articles/776908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776908)
+- [Создание пользовательского типа поля Form в Joomla 5 на примере Modal Select](https://habr.com/ru/articles/776852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776852)
+- [Как разработка приложения о воде «вылилась» в бизнес-концепцию](https://habr.com/ru/articles/776942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776942)
 - [«Hello world!» или путь к становлению специалистом. База JavaScript](https://habr.com/ru/articles/776924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776924)
 - [[Перевод] 10 хороших практик автоматизации на Selenium C#](https://habr.com/ru/articles/774552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774552)
-- [Как устроены сети: полезные материалы от сотрудников Selectel](https://habr.com/ru/companies/selectel/articles/776896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776896)
-- [Как найти проекты для портфолио аналитикам](https://habr.com/ru/companies/yandex_praktikum/articles/774098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
