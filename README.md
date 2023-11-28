@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Доступная система видеонаблюдения с охраной на дачу за 60 минут](https://habr.com/ru/companies/lanit/articles/774410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774410)
-- [Как Visual Studio могла бы выглядеть с новым меню: делюсь GUI-шаблоном](https://habr.com/ru/articles/776636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776636)
-- [Agency: The Go Way to AI. Часть 1](https://habr.com/ru/articles/776830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776830)
-- [Самые удобные дома Москвы для жизни семьи с ребенком](https://habr.com/ru/articles/776582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776582)
-- [Apple Pro Weekly News &lpar;20.11 – 26.11.23&rpar;](https://habr.com/ru/articles/776786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776786)
+- [Дообучение saiga2_7b_lora](https://habr.com/ru/articles/776872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776872)
+- [Крутейший КПК из конца 90х — каким был Casio Cassiopeia E-105?](https://habr.com/ru/companies/timeweb/articles/776304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776304)
+- [Как появились веб-пуши Apple в Тинькофф](https://habr.com/ru/companies/tinkoff/articles/776658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776658)
+- [Релиз Jmix 2.1: что нового?](https://habr.com/ru/companies/haulmont/articles/776864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776864)
+- [Kotlin Muptiplatform в мобильной разработке. Рецепты общего кода для Android и iOS](https://habr.com/ru/articles/776858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
