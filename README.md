@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор актуальных инструментов шифрования в Android](https://habr.com/ru/companies/vk/articles/776728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776728)
-- [Android Work Profile: как безопасно поделить свой смартфон между домом и работой](https://habr.com/ru/companies/kaspersky/articles/775572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775572)
-- [Тестируемая архитектура. Часть 2: абстрактность и наблюдаемое поведение](https://habr.com/ru/companies/reksoft/articles/776870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776870)
-- [Дообучение saiga2_7b_lora](https://habr.com/ru/articles/776872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776872)
-- [Крутейший КПК из конца 90-х — каким был Casio Cassiopeia E-105?](https://habr.com/ru/companies/timeweb/articles/776304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776304)
+- [«Hello world!» или путь к становлению специалистом. База JavaScript](https://habr.com/ru/articles/776924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776924)
+- [[Перевод] 10 хороших практик автоматизации на Selenium C#](https://habr.com/ru/articles/774552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774552)
+- [Как устроены сети: полезные материалы от сотрудников Selectel](https://habr.com/ru/companies/selectel/articles/776896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776896)
+- [Как найти проекты для портфолио аналитикам](https://habr.com/ru/companies/yandex_praktikum/articles/774098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774098)
+- [Потоки в Java: От рождения до смерти](https://habr.com/ru/articles/776914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
