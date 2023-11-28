@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Концепция имплицитов в Scala](https://habr.com/ru/companies/otus/articles/776932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776932)
 - [Два программиста — пара. Теория и практический опыт Сбера в парном программировании](https://habr.com/ru/companies/sberbank/articles/776996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776996)
 - [[Перевод] Как добавить Flutter в нативное приложение iOS и протестировать его на Codemagic &lpar;Часть 3&rpar;](https://habr.com/ru/articles/776990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776990)
 - [Продолжаем изучать аппаратные возможности расширения Микротик RBM33G](https://habr.com/ru/articles/776908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776908)
 - [Создание пользовательского типа поля Form в Joomla 5 на примере Modal Select](https://habr.com/ru/articles/776852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776852)
-- [Как разработка приложения о воде «вылилась» в бизнес-концепцию](https://habr.com/ru/articles/776942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
