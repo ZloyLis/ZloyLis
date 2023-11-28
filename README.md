@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор актуальных инструментов шифрования в Android](https://habr.com/ru/companies/vk/articles/776728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776728)
+- [Android Work Profile: как безопасно поделить свой смартфон между домом и работой](https://habr.com/ru/companies/kaspersky/articles/775572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775572)
+- [Тестируемая архитектура. Часть 2: абстрактность и наблюдаемое поведение](https://habr.com/ru/companies/reksoft/articles/776870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776870)
 - [Дообучение saiga2_7b_lora](https://habr.com/ru/articles/776872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776872)
-- [Крутейший КПК из конца 90х — каким был Casio Cassiopeia E-105?](https://habr.com/ru/companies/timeweb/articles/776304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776304)
-- [Как появились веб-пуши Apple в Тинькофф](https://habr.com/ru/companies/tinkoff/articles/776658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776658)
-- [Релиз Jmix 2.1: что нового?](https://habr.com/ru/companies/haulmont/articles/776864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776864)
-- [Kotlin Muptiplatform в мобильной разработке. Рецепты общего кода для Android и iOS](https://habr.com/ru/articles/776858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776858)
+- [Крутейший КПК из конца 90-х — каким был Casio Cassiopeia E-105?](https://habr.com/ru/companies/timeweb/articles/776304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
