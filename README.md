@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему я больше не буду работать наставником на IT-курсах](https://habr.com/ru/articles/777034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777034)
 - [План «Барбаросса» от Vue.js](https://habr.com/ru/articles/776480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776480)
 - [Построить топологию и проверить отказоустойчивость: подборка open source решений для эмуляции сетей](https://habr.com/ru/companies/vasexperts/articles/776912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776912)
 - [Концепция имплицитов в Scala](https://habr.com/ru/companies/otus/articles/776932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776932)
 - [Два программиста — пара. Теория и практический опыт Сбера в парном программировании](https://habr.com/ru/companies/sberbank/articles/776996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776996)
-- [[Перевод] Как добавить Flutter в нативное приложение iOS и протестировать его на Codemagic &lpar;Часть 3&rpar;](https://habr.com/ru/articles/776990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
