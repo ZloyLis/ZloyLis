@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Эффективное создание и деплой gRPC API с помощью GitHub Actions и Packages для проекта на Kotlin и React](https://habr.com/ru/companies/rosbank/articles/776962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776962)
-- [[Перевод] Как стать программистом графики: советы команды AMD Game Engineering](https://habr.com/ru/articles/776898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776898)
-- [По заветам кота Вжуха: превращаем веб-приложение в сервис на платформе VK Mini Apps](https://habr.com/ru/companies/vk/articles/771772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771772)
-- [Почему я больше не буду работать наставником на IT-курсах](https://habr.com/ru/articles/777034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777034)
-- [План «Барбаросса» от Vue.js](https://habr.com/ru/articles/776480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776480)
+- [История HTML. Часть 1. Гипертекст и гипермедиа](https://habr.com/ru/articles/777132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777132)
+- [Инновационная образовательная платформа: создание знаний для нового поколения студентов](https://habr.com/ru/articles/777128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777128)
+- [[Перевод] Вероятно, вы неправильно используете метод __init__ в Python](https://habr.com/ru/companies/first/articles/775656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775656)
+- [Где приятнее покупать автозапчасти: сравнение интернет-магазинов из афтермаркета с «Озоном» и друг с другом](https://habr.com/ru/articles/777098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777098)
+- [Чем занимается маркетинговый аналитик и как стать одним из них: рассказывают специалисты и работодатели](https://habr.com/ru/companies/yandex_praktikum/articles/776710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
