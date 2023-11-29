@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эффективное создание и деплой gRPC API с помощью GitHub Actions и Packages для проекта на Kotlin и React](https://habr.com/ru/companies/rosbank/articles/776962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776962)
+- [[Перевод] Как стать программистом графики: советы команды AMD Game Engineering](https://habr.com/ru/articles/776898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776898)
+- [По заветам кота Вжуха: превращаем веб-приложение в сервис на платформе VK Mini Apps](https://habr.com/ru/companies/vk/articles/771772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771772)
 - [Почему я больше не буду работать наставником на IT-курсах](https://habr.com/ru/articles/777034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777034)
 - [План «Барбаросса» от Vue.js](https://habr.com/ru/articles/776480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776480)
-- [Построить топологию и проверить отказоустойчивость: подборка open source решений для эмуляции сетей](https://habr.com/ru/companies/vasexperts/articles/776912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776912)
-- [Концепция имплицитов в Scala](https://habr.com/ru/companies/otus/articles/776932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776932)
-- [Два программиста — пара. Теория и практический опыт Сбера в парном программировании](https://habr.com/ru/companies/sberbank/articles/776996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
