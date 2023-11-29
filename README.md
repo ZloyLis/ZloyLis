@@ -30,7 +30,7 @@ ___
 - [Инновационная образовательная платформа: создание знаний для нового поколения студентов](https://habr.com/ru/articles/777128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777128)
 - [[Перевод] Вероятно, вы неправильно используете метод __init__ в Python](https://habr.com/ru/companies/first/articles/775656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775656)
 - [Где приятнее покупать автозапчасти: сравнение интернет-магазинов из афтермаркета с «Озоном» и друг с другом](https://habr.com/ru/articles/777098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777098)
-- [Чем занимается маркетинговый аналитик и как стать одним из них: рассказывают специалисты и работодатели](https://habr.com/ru/companies/yandex_praktikum/articles/776710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776710)
+- [Эффективное создание и деплой gRPC API с помощью GitHub Actions и Packages для проекта на Kotlin и React](https://habr.com/ru/companies/rosbank/articles/776962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
