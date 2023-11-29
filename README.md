@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужно ли разработчикам проектирование?](https://habr.com/ru/articles/777244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777244)
+- [[Перевод] Керниган и Пайк были правы: делай что-то одно и делай это хорошо](https://habr.com/ru/companies/ruvds/articles/777212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777212)
 - [Использование цвета при анализе и проектировании систем. Часть 1](https://habr.com/ru/articles/777216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777216)
 - [Ваша карта не будет бита: как добавить Impact Map, CJM и USM в документ и не пострадать](https://habr.com/ru/companies/X5Tech/articles/777196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777196)
 - [Дополнительная обвязка K8s и самописные компоненты в Kubernetes: для чего и кому нужны](https://habr.com/ru/companies/dbraincloud/articles/777170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777170)
-- [DebugMenu и визуальная иерархия элементов интерфейса](https://habr.com/ru/companies/alfa/articles/775186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775186)
-- [История HTML. Часть 1. Гипертекст и гипермедиа](https://habr.com/ru/articles/777132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
