@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дополнительная обвязка K8s и самописные компоненты в Kubernetes: для чего и кому нужны](https://habr.com/ru/companies/dbraincloud/articles/777170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777170)
+- [DebugMenu и визуальная иерархия элементов интерфейса](https://habr.com/ru/companies/alfa/articles/775186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775186)
 - [История HTML. Часть 1. Гипертекст и гипермедиа](https://habr.com/ru/articles/777132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777132)
 - [Инновационная образовательная платформа: создание знаний для нового поколения студентов](https://habr.com/ru/articles/777128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777128)
 - [[Перевод] Вероятно, вы неправильно используете метод __init__ в Python](https://habr.com/ru/companies/first/articles/775656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775656)
-- [Где приятнее покупать автозапчасти: сравнение интернет-магазинов из афтермаркета с «Озоном» и друг с другом](https://habr.com/ru/articles/777098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777098)
-- [Эффективное создание и деплой gRPC API с помощью GitHub Actions и Packages для проекта на Kotlin и React](https://habr.com/ru/companies/rosbank/articles/776962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
