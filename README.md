@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование цвета при анализе и проектировании систем. Часть 1](https://habr.com/ru/articles/777216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777216)
 - [Ваша карта не будет бита: как добавить Impact Map, CJM и USM в документ и не пострадать](https://habr.com/ru/companies/X5Tech/articles/777196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777196)
 - [Дополнительная обвязка K8s и самописные компоненты в Kubernetes: для чего и кому нужны](https://habr.com/ru/companies/dbraincloud/articles/777170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777170)
 - [DebugMenu и визуальная иерархия элементов интерфейса](https://habr.com/ru/companies/alfa/articles/775186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775186)
 - [История HTML. Часть 1. Гипертекст и гипермедиа](https://habr.com/ru/articles/777132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777132)
-- [Инновационная образовательная платформа: создание знаний для нового поколения студентов](https://habr.com/ru/articles/777128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
