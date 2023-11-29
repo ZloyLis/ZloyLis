@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект: AI Note Recorder или как я не выполнил цель на 2023 год](https://habr.com/ru/articles/777272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777272)
 - [Android. Принять себя или Cookie?](https://habr.com/ru/companies/ozontech/articles/777236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777236)
 - [Нужно ли разработчикам проектирование?](https://habr.com/ru/articles/777244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777244)
 - [[Перевод] Керниган и Пайк были правы: делай что-то одно и делай это хорошо](https://habr.com/ru/companies/ruvds/articles/777212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777212)
 - [Использование цвета при анализе и проектировании систем. Часть 1](https://habr.com/ru/articles/777216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777216)
-- [Ваша карта не будет бита: как добавить Impact Map, CJM и USM в документ и не пострадать](https://habr.com/ru/companies/X5Tech/articles/777196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
