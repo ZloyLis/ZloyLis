@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обеспечение обратной совместимости gRPC API с помощью protolock в GitHub Actions](https://habr.com/ru/companies/rosbank/articles/776974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776974)
+- [Стартер-пак успешного стартапа: как запустить в России IT-продукт мечты](https://habr.com/ru/articles/777444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777444)
+- [[Перевод] Как понять, есть ли в тебе искра программиста](https://habr.com/ru/companies/sportmaster_lab/articles/777430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777430)
 - [Призвание быть наставником](https://habr.com/ru/companies/web3_tech/articles/774434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774434)
-- [[Перевод] Что нового в документации YDB в ноябре 2023](https://habr.com/ru/companies/ydb/articles/777416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777416)
 - [Списки с душой и стилем: Ваш путь к Jetpack Compose](https://habr.com/ru/companies/joydev/articles/777412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777412)
-- [Unity 3D: о чем давно было пора рассказать нашим подросткам](https://habr.com/ru/articles/777404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777404)
-- [TabNine: проверка на практике функционала и новая реальность разработки с ИИ](https://habr.com/ru/articles/777396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
