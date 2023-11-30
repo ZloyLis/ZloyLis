@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обеспечение обратной совместимости gRPC API с помощью protolock в GitHub Actions](https://habr.com/ru/companies/rosbank/articles/776974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776974)
-- [Стартер-пак успешного стартапа: как запустить в России IT-продукт мечты](https://habr.com/ru/articles/777444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777444)
-- [[Перевод] Как понять, есть ли в тебе искра программиста](https://habr.com/ru/companies/sportmaster_lab/articles/777430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777430)
-- [Призвание быть наставником](https://habr.com/ru/companies/web3_tech/articles/774434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774434)
-- [Списки с душой и стилем: Ваш путь к Jetpack Compose](https://habr.com/ru/companies/joydev/articles/777412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777412)
+- [Хороший, плохой, никакой: почему важно проектировать дизайн и как это делать?](https://habr.com/ru/companies/cdek_blog/articles/777012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777012)
+- [Как получить сертификат CKA в 2023-2024 году](https://habr.com/ru/articles/777458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777458)
+- [Хитрый виджет: разбор тестового Flutter-задания. Детективная нуар-история](https://habr.com/ru/articles/776682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776682)
+- [Пишем консольное приложение для работы с базой данных на Python](https://habr.com/ru/companies/bft/articles/777348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777348)
+- [Server-side rendering и практики работы с запросами](https://habr.com/ru/companies/domclick/articles/776714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
