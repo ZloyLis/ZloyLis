@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математическая продлёнка. Это же элементарно, Ватсон?](https://habr.com/ru/articles/777102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777102)
 - [Инженерный калькулятор на C++. Часть 2: Алгоритм сортировочной станции](https://habr.com/ru/articles/777368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777368)
 - [Проект: AI Note Recorder или как я не выполнил цель на 2023 год](https://habr.com/ru/articles/777272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777272)
 - [Android. Принять себя или Cookie?](https://habr.com/ru/companies/ozontech/articles/777236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777236)
 - [Нужно ли разработчикам проектирование?](https://habr.com/ru/articles/777244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777244)
-- [[Перевод] Керниган и Пайк были правы: делай что-то одно и делай это хорошо](https://habr.com/ru/companies/ruvds/articles/777212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
