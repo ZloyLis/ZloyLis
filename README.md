@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О динамическом программировании на пальцах](https://habr.com/ru/articles/777618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777618)
+- [Как мы наладили процесс разработки внутренних приложений с помощью Appsmith](https://habr.com/ru/companies/banki/articles/777616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777616)
 - [Производительность базового поиска в Ozon как культурный феномен](https://habr.com/ru/companies/ozontech/articles/777570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777570)
 - [ChatGPT исполняется годик. Вспоминаем, что произошло с продуктом за это небольшое время](https://habr.com/ru/articles/777602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777602)
 - [Смогут ли разработчики конкурировать с нейросетями: оцениваем возможности AI и человека](https://habr.com/ru/companies/ru_mts/articles/777592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777592)
-- [Первый месяц жизни приложения BookDesk или как меня пытались взломать](https://habr.com/ru/articles/777576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777576)
-- [[Перевод] С алгоритмами в духе LeetCode на собеседованиях пора кончать](https://habr.com/ru/companies/productivity_inside/articles/777566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
