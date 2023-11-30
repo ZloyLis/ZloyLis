@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Криптография перед эпохой квантовых вычислений](https://habr.com/ru/companies/kryptonite/articles/777362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777362)
-- [Обзор Helm-Dashboard — графического интерфейса для управления релизами Kubernetes](https://habr.com/ru/companies/flant/articles/777126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777126)
-- [Немного о DIY аксессурах для девайсов](https://habr.com/ru/articles/777378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777378)
-- [Математическая продлёнка. Это же элементарно, Ватсон?](https://habr.com/ru/articles/777102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777102)
-- [Инженерный калькулятор на C++. Часть 2: Алгоритм сортировочной станции](https://habr.com/ru/articles/777368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777368)
+- [Призвание быть наставником](https://habr.com/ru/companies/web3_tech/articles/774434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774434)
+- [[Перевод] Что нового в документации YDB в ноябре 2023](https://habr.com/ru/companies/ydb/articles/777416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777416)
+- [Списки с душой и стилем: Ваш путь к Jetpack Compose](https://habr.com/ru/companies/joydev/articles/777412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777412)
+- [Unity 3D: о чем давно было пора рассказать нашим подросткам](https://habr.com/ru/articles/777404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777404)
+- [TabNine: проверка на практике функционала и новая реальность разработки с ИИ](https://habr.com/ru/articles/777396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
