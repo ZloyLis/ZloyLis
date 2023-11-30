@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваша емайл-рассылка нуждается в AMP-emails прямо сейчас](https://habr.com/ru/articles/777490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777490)
+- [Шаблонизируй это или Как ускорить разработку при помощи одного документа](https://habr.com/ru/companies/magnus-tech/articles/776732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776732)
 - [Хороший, плохой, никакой: почему важно проектировать дизайн и как это делать?](https://habr.com/ru/companies/cdek_blog/articles/777012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777012)
 - [Как получить сертификат CKA в 2023-2024 году](https://habr.com/ru/articles/777458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777458)
 - [Хитрый виджет: разбор тестового Flutter-задания. Детективная нуар-история](https://habr.com/ru/articles/776682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776682)
-- [Пишем консольное приложение для работы с базой данных на Python](https://habr.com/ru/companies/bft/articles/777348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777348)
-- [Server-side rendering и практики работы с запросами](https://habr.com/ru/companies/domclick/articles/776714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
