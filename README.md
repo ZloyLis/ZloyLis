@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Смогут ли разработчики конкурировать с нейросетями: оцениваем возможности AI и человека](https://habr.com/ru/companies/ru_mts/articles/777592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777592)
+- [Первый месяц жизни приложения BookDesk или как меня пытались взломать](https://habr.com/ru/articles/777576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777576)
 - [[Перевод] С алгоритмами в духе LeetCode на собеседованиях пора кончать](https://habr.com/ru/companies/productivity_inside/articles/777566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777566)
-- [Резервное копирование в Kubernetes с помощью K8up и Kasten K10 by Veeam](https://habr.com/ru/companies/selectel/articles/777414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777414)
+- [Правильные, но &lpar;не&rpar;простые бэкапы. Как настроить резервное копирование в Kubernetes?](https://habr.com/ru/companies/selectel/articles/777414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777414)
 - [Позиционирование бионического предплечья взглядом](https://habr.com/ru/articles/777560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777560)
-- [Эмулятор QUIK: как наладить тестирование вендорного продукта](https://habr.com/ru/companies/rshb/articles/777510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777510)
-- [Парсер бинарных данных с WPF визуализацией в виде дерева структур и их полей. Структура, управляемая данными](https://habr.com/ru/articles/777522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
