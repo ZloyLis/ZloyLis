@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаём собственную систему поиска фильмов на основе проекта Андрея Карпати](https://habr.com/ru/companies/ruvds/articles/777524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777524)
+- [“Так ты хочешь кролика или нет?”: как простая автоматизация общения в Авито может принести вдвое больше лидов](https://habr.com/ru/companies/chatapp/articles/777872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777872)
 - [Bluetooth-жучки — за чем можно легально следить, а за чем нельзя](https://habr.com/ru/companies/globalsign/articles/777858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777858)
 - [Архитектура fast api приложений. Внедрение зависимостей](https://habr.com/ru/articles/777856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777856)
 - [Следование style guide для .proto файлов с помощью protolint в GitHub Actions](https://habr.com/ru/companies/rosbank/articles/776982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776982)
-- [Pet-проекты — это зло. Вредные советы для фронтендеров](https://habr.com/ru/companies/sbermarket/articles/777642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777642)
-- [SberPay: как добавить поддержку бесконтактной оплаты в Android-приложение](https://habr.com/ru/companies/sberbank/articles/777802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
