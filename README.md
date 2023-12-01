@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация тестирования ОС](https://habr.com/ru/companies/swd_es/articles/775890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775890)
 - [У меня дергался глаз, когда я пытался найти квартиру родителям. Больше не будет](https://habr.com/ru/companies/homebro/articles/777704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777704)
 - [pgvector: как хранить и обрабатывать многомерные вектора в PostgreSQL](https://habr.com/ru/articles/777734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777734)
 - [ИИ убивает программирование?](https://habr.com/ru/articles/777668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777668)
 - [Как работает Kubernetes пока ты спишь](https://habr.com/ru/articles/777728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777728)
-- [[Перевод] Atomic CSS здорового человека](https://habr.com/ru/articles/777722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
