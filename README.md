@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Процессы в РСХБ: взаимодействие с СБП через ЕСПП, App.Farm и различные нюансы импортозамещения](https://habr.com/ru/companies/rshb/articles/777924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777924)
+- [Scala Digest. Выпуск 11](https://habr.com/ru/companies/tinkoff/articles/777884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777884)
+- [Пишем файловую систему для работы с изображениями на TypeScript](https://habr.com/ru/articles/777174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777174)
 - [Метод ключевых действий](https://habr.com/ru/articles/777914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777914)
 - [[Перевод] Создаём собственную систему поиска фильмов на основе проекта Андрея Карпати](https://habr.com/ru/companies/ruvds/articles/777524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777524)
-- [«Так ты хочешь кролика или нет?»: как простая автоматизация общения в Авито может принести вдвое больше лидов](https://habr.com/ru/companies/chatapp/articles/777872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777872)
-- [Как сделать приложение для Android с бесконечной лентой видео на базе EdgeStreaming](https://habr.com/ru/companies/edgecenter/articles/777868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777868)
-- [Bluetooth-жучки — за чем можно легально следить, а за чем нельзя](https://habr.com/ru/companies/globalsign/articles/777858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
