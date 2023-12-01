@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бар «Одинокая абстракция»](https://habr.com/ru/articles/777558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777558)
-- [Ю.И. Неймарк: человек, который создал первый факультет ВМК в СССР](https://habr.com/ru/companies/neimark/articles/777674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777674)
-- [[Перевод] Увлекательный лексический анализ языка Rust](https://habr.com/ru/companies/piter/articles/777680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777680)
-- [О динамическом программировании на пальцах](https://habr.com/ru/articles/777618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777618)
-- [Как мы наладили процесс разработки внутренних приложений с помощью Appsmith](https://habr.com/ru/companies/banki/articles/777616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777616)
+- [pgvector или как хранить и обрабатывать фичи в базе данных](https://habr.com/ru/articles/777734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777734)
+- [ИИ убивает программирование?](https://habr.com/ru/articles/777668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777668)
+- [Как работает Kubernetes пока ты спишь](https://habr.com/ru/articles/777728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777728)
+- [[Перевод] Atomic CSS здорового человека](https://habr.com/ru/articles/777722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777722)
+- [Ускоряем прохождение iOS UI-тестов. Часть 3. Старт приложения с определенного экрана](https://habr.com/ru/articles/774742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
