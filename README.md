@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мигрируем Spring Boot REST API приложение на Kotlin](https://habr.com/ru/articles/777824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777824)
 - [Как научиться выстраивать килчейн](https://habr.com/ru/companies/securityvison/articles/777790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777790)
 - [Мапы в Go: уровень Pro](https://habr.com/ru/companies/avito/articles/774618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774618)
 - [Сервис изучения русского жестового языка с применением модели распознавания жестов](https://habr.com/ru/articles/777700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777700)
 - [Автоматизация тестирования ОС](https://habr.com/ru/companies/swd_es/articles/775890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775890)
-- [У меня дергался глаз, когда я пытался найти квартиру родителям. Больше не будет](https://habr.com/ru/companies/homebro/articles/777704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
