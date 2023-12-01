@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Солнце горит во мне: обновление Яндекс Музыки, о котором стоит знать](https://habr.com/ru/articles/777906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777906)
+- [Turbo Pascal: 40 лет развития](https://habr.com/ru/articles/777936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777936)
+- [Topics API — как персонализированная реклама может работать без cookie](https://habr.com/ru/articles/777652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777652)
 - [Процессы в РСХБ: взаимодействие с СБП через ЕСПП, App.Farm и различные нюансы импортозамещения](https://habr.com/ru/companies/rshb/articles/777924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777924)
 - [Scala Digest. Выпуск 11](https://habr.com/ru/companies/tinkoff/articles/777884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777884)
-- [Пишем файловую систему для работы с изображениями на TypeScript](https://habr.com/ru/articles/777174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777174)
-- [Метод ключевых действий](https://habr.com/ru/articles/777914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777914)
-- [[Перевод] Создаём собственную систему поиска фильмов на основе проекта Андрея Карпати](https://habr.com/ru/companies/ruvds/articles/777524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
