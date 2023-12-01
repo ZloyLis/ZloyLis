@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мигрируем Spring Boot REST API приложение на Kotlin](https://habr.com/ru/articles/777824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777824)
+- [Следование style guide для .proto файлов с помощью protolint в GitHub Actions](https://habr.com/ru/companies/rosbank/articles/776982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776982)
+- [Pet-проекты — это зло. Вредные советы для фронтендеров](https://habr.com/ru/companies/sbermarket/articles/777642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777642)
+- [SberPay: как добавить поддержку бесконтактной оплаты в Android-приложение](https://habr.com/ru/companies/sberbank/articles/777802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777802)
+- [Мигрируем Java Spring Boot приложение на Kotlin](https://habr.com/ru/articles/777824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777824)
 - [Как научиться выстраивать килчейн](https://habr.com/ru/companies/securityvison/articles/777790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777790)
-- [Мапы в Go: уровень Pro](https://habr.com/ru/companies/avito/articles/774618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774618)
-- [Сервис изучения русского жестового языка с применением модели распознавания жестов](https://habr.com/ru/articles/777700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777700)
-- [Автоматизация тестирования ОС](https://habr.com/ru/companies/swd_es/articles/775890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
