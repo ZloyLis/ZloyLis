@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бар «Одинокая абстракция»](https://habr.com/ru/articles/777558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777558)
+- [Ю.И. Неймарк: человек, который создал первый факультет ВМК в СССР](https://habr.com/ru/companies/neimark/articles/777674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777674)
 - [[Перевод] Увлекательный лексический анализ языка Rust](https://habr.com/ru/companies/piter/articles/777680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777680)
 - [О динамическом программировании на пальцах](https://habr.com/ru/articles/777618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777618)
 - [Как мы наладили процесс разработки внутренних приложений с помощью Appsmith](https://habr.com/ru/companies/banki/articles/777616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777616)
-- [Производительность базового поиска в Ozon как культурный феномен](https://habr.com/ru/companies/ozontech/articles/777570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777570)
-- [ChatGPT исполняется годик. Вспоминаем, что произошло с продуктом за это небольшое время](https://habr.com/ru/articles/777602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
