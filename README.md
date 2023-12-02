@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Статистика QA вакансий и резюме. Ноябрь 2023](https://habr.com/ru/articles/778016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778016)
+- [“Самоидентификация” клавиатуры](https://habr.com/ru/articles/778028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778028)
+- [[Перевод] std fs в Rust медленнее, чем Python? Нет, это аппаратный баг](https://habr.com/ru/articles/778026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778026)
 - [Видео-сообщение как в Telegram. Часть третья — Контролы и раскрытое состояние](https://habr.com/ru/articles/776522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776522)
 - [Видео-сообщение как в Telegram. Часть вторая — Оптимизация](https://habr.com/ru/articles/776294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776294)
-- [Видео-сообщение как в Telegram. Часть первая — Список видео](https://habr.com/ru/articles/771878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771878)
-- [Эффективное использование Postman для тестирования RESTful API: от базовых запросов до автоматизации](https://habr.com/ru/articles/778002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778002)
-- [Настройка алертингов из Opensearch в Telegram](https://habr.com/ru/companies/magnit/articles/777862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
