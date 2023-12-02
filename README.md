@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Топ открытого ПО на GitHub](https://habr.com/ru/articles/778050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778050)
+- [HappyX vs Karax: что проще?](https://habr.com/ru/articles/778058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778058)
+- [Будущее AI в разработке ПО – интервью с CPO GitHub](https://habr.com/ru/articles/778054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778054)
 - [Искусственный интеллект GPT и скрипты Микротик](https://habr.com/ru/articles/778020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778020)
 - [Новые проклятия: руководство по ncurses](https://habr.com/ru/articles/778040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778040)
 - [Как я заработал 500 000 рублей, сделав доступ к ChatGPT. Мои 6 выводов по итогу проекта](https://habr.com/ru/articles/778036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778036)
-- [Статистика QA вакансий и резюме. Ноябрь 2023](https://habr.com/ru/articles/778016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
