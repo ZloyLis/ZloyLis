@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эффективное использование Postman для тестирования RESTful API: от базовых запросов до автоматизации](https://habr.com/ru/articles/778002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778002)
 - [Настройка алертингов из Opensearch в Telegram](https://habr.com/ru/companies/magnit/articles/777862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777862)
 - [[Перевод] Почему я перестал использовать Vim](https://habr.com/ru/companies/ispmanager/articles/777982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777982)
 - [JSX: как разделять логику и отрисовку в разметке, сгенерированной методом map](https://habr.com/ru/articles/777974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777974)
 - [[Перевод] За 25 лет я выучил 30 языков программирования. Хочу поделиться своим опытом](https://habr.com/ru/companies/beeline_cloud/articles/777934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777934)
-- [From Zero to Hero: как автоматизировать онбординг в ИТ](https://habr.com/ru/companies/docdoc/articles/777968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
