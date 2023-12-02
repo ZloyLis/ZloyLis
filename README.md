@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удивительная история поиска самых совершенных чисел на свете](https://habr.com/ru/articles/778056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778056)
 - [Компоновка аннотаций в Java](https://habr.com/ru/articles/778064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778064)
 - [HappyX vs Karax: что проще?](https://habr.com/ru/articles/778058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778058)
 - [Будущее AI в разработке ПО – интервью с CPO GitHub](https://habr.com/ru/articles/778054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778054)
 - [Искусственный интеллект GPT и скрипты Микротик](https://habr.com/ru/articles/778020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778020)
-- [Новые проклятия: руководство по ncurses](https://habr.com/ru/articles/778040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
