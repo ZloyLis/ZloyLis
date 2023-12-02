@@ -28,7 +28,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Недооцененный паттерн «Спецификация» в связке с паттерном «Репозиторий»](https://habr.com/ru/articles/778082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778082)
 - [Удивительная история поиска самых совершенных чисел в мире](https://habr.com/ru/articles/778056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778056)
-- [Компоновка аннотаций в Java](https://habr.com/ru/articles/778064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778064)
+- [Компоновка аннотаций в Spring](https://habr.com/ru/articles/778064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778064)
 - [HappyX vs Karax: что проще?](https://habr.com/ru/articles/778058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778058)
 - [Будущее AI в разработке ПО – интервью с CPO GitHub](https://habr.com/ru/articles/778054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778054)
 <!-- BLOG-POST-LIST:END -->
