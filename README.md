@@ -27,7 +27,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Статистика QA вакансий и резюме. Ноябрь 2023](https://habr.com/ru/articles/778016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778016)
-- [“Самоидентификация” клавиатуры](https://habr.com/ru/articles/778028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778028)
+- [«Самоидентификация» клавиатуры](https://habr.com/ru/articles/778028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778028)
 - [[Перевод] std fs в Rust медленнее, чем Python? Нет, это аппаратный баг](https://habr.com/ru/articles/778026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778026)
 - [Видео-сообщение как в Telegram. Часть третья — Контролы и раскрытое состояние](https://habr.com/ru/articles/776522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776522)
 - [Видео-сообщение как в Telegram. Часть вторая — Оптимизация](https://habr.com/ru/articles/776294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776294)
