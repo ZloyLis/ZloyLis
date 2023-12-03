@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выбрать схему сорсинга и найти идеальный баланс](https://habr.com/ru/articles/778184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778184)
+- [PyTelegramBotAPI на примере проекта сбора обратной связи #5. Деплой](https://habr.com/ru/articles/778182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778182)
 - [Инструкция по переезду и миграции данных с Google Firebase на Self-hosted Supabase](https://habr.com/ru/articles/778126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778126)
 - [Swift Utilities — Интеграция SwiftUI в UIKit](https://habr.com/ru/articles/778154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778154)
 - [[Перевод] Мягкое знакомство с дополнительным кодом](https://habr.com/ru/companies/ruvds/articles/777764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777764)
-- [Мобильная разработка за неделю #517 &lpar;27 ноября — 3 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/778146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778146)
-- [Сервис проверки пользовательских файлов «powered by pytest»: нужно повозиться, но оно того стоит](https://habr.com/ru/articles/776546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
