@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация контрактов OpenApi или прикладной API first: совсем немного про зачем](https://habr.com/ru/articles/776434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776434)
+- [Всегда нужен CHAT GPT в вашем проекте &lpar;РУСЫ + API chat GPT&rpar;](https://habr.com/ru/articles/778132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778132)
 - [TypeScript: infer и conditional types. Продвинутый TS на примерах](https://habr.com/ru/articles/778190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778190)
 - [Как выбрать схему сорсинга и найти идеальный баланс](https://habr.com/ru/articles/778184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778184)
 - [PyTelegramBotAPI на примере проекта сбора обратной связи #5. Деплой](https://habr.com/ru/articles/778182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778182)
-- [Инструкция по переезду и миграции данных с Google Firebase на Self-hosted Supabase](https://habr.com/ru/articles/778126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778126)
-- [Swift Utilities — Интеграция SwiftUI в UIKit](https://habr.com/ru/articles/778154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
