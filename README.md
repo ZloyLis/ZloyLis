@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [IT и высокая зарплата: Мифы, реальность, подводные камни](https://habr.com/ru/articles/778208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778208)
 - [Алгоритм MiniMax. Использование минимакса в Unity на примере игры Поймай Овечку](https://habr.com/ru/articles/778204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778204)
 - [Алгоритм поиска в глубину для процедурной генерации лабиринтов](https://habr.com/ru/articles/778202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778202)
 - [Генерация контрактов OpenApi или прикладной API first: совсем немного про зачем](https://habr.com/ru/articles/776434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776434)
 - [Всегда нужен CHAT GPT в вашем проекте &lpar;РУСЫ + API chat GPT&rpar;](https://habr.com/ru/articles/778132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778132)
-- [TypeScript: infer и conditional types. Продвинутый TS на примерах](https://habr.com/ru/articles/778190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
