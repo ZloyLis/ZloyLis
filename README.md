@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Код чаще запускают, чем читают](https://habr.com/ru/articles/778330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778330)
-- [[Перевод] Как я стал Google Developer Expert по Flutter](https://habr.com/ru/articles/778328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778328)
-- [Смирись и расслабься: как исследователю не выгорать на работе и не беситься от несовершенства мира](https://habr.com/ru/companies/redmadrobot/articles/778326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778326)
-- [Топ 3 необычных вопроса на собеседовании iOS разработчика](https://habr.com/ru/articles/778314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778314)
-- [Готовим конфигурацию Android-приложения с помощью Dynamic Proxy и рефлексии](https://habr.com/ru/companies/vk/articles/777874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777874)
+- [Сравнительные характеристики нейросетей и их применение в образовании. Образование 2.0](https://habr.com/ru/articles/778044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778044)
+- [Онбординг аналитиков. Опыт Bimeister](https://habr.com/ru/companies/bimeister/articles/778340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778340)
+- [Прямые дороги для слабаков: как я работала техписателем, аналитиком, продактом и пришла в UX](https://habr.com/ru/companies/alfa/articles/777984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777984)
+- [ORM для реальных приложений не окупается](https://habr.com/ru/companies/karuna/articles/774478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774478)
+- [Концепция донглов в Embedded устройствах](https://habr.com/ru/companies/otus/articles/777526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
