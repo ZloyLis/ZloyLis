@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мой опыт собеседования в Google [оффер на L5]](https://habr.com/ru/companies/ruvds/articles/778334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778334)
+- [Улучшаем возможности PM2 с помощью дополнительных модулей автоскейлинга и мониторинга](https://habr.com/ru/articles/778316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778316)
 - [Сравнительные характеристики нейросетей и их применение в образовании. Образование 2.0](https://habr.com/ru/articles/778044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778044)
 - [Онбординг аналитиков. Опыт Bimeister](https://habr.com/ru/companies/bimeister/articles/778340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778340)
 - [Прямые дороги для слабаков: как я работала техписателем, аналитиком, продактом и пришла в UX](https://habr.com/ru/companies/alfa/articles/777984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777984)
-- [ORM для реальных приложений не окупается](https://habr.com/ru/companies/karuna/articles/774478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774478)
-- [Концепция донглов в Embedded устройствах](https://habr.com/ru/companies/otus/articles/777526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
