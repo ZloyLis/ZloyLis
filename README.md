@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Код чаще запускают, чем читают](https://habr.com/ru/articles/778330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778330)
+- [[Перевод] Как я стал Google Developer Expert по Flutter](https://habr.com/ru/articles/778328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778328)
+- [Смирись и расслабься: как исследователю не выгорать на работе и не беситься от несовершенства мира](https://habr.com/ru/companies/redmadrobot/articles/778326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778326)
+- [Топ 3 необычных вопроса на собеседовании iOS разработчика](https://habr.com/ru/articles/778314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778314)
 - [Готовим конфигурацию Android-приложения с помощью Dynamic Proxy и рефлексии](https://habr.com/ru/companies/vk/articles/777874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777874)
-- [Тирания маргинального юзера. Почему всё вокруг становится примитивнее](https://habr.com/ru/companies/ruvds/articles/777420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777420)
-- [Библиотека Granite от elementary OS](https://habr.com/ru/companies/first/articles/778244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778244)
-- [Получи максимум от анализа документов](https://habr.com/ru/articles/778260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778260)
-- [7 ошибок джунов в DevOps, которые мешают им стать мидлами](https://habr.com/ru/companies/kts/articles/769342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
