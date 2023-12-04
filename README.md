@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка одностраничных приложений с помощью HappyX](https://habr.com/ru/articles/778222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778222)
 - [[Перевод] Atomic CSS здорового человека. UnoCSS](https://habr.com/ru/articles/777738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777738)
 - [Почему x^0 = 1 наглядно](https://habr.com/ru/articles/778198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778198)
 - [IT и высокая зарплата: Мифы, реальность, подводные камни](https://habr.com/ru/articles/778208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778208)
 - [Алгоритм MiniMax. Использование минимакса в Unity на примере игры Поймай Овечку](https://habr.com/ru/articles/778204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778204)
-- [Алгоритм поиска в глубину для процедурной генерации лабиринтов](https://habr.com/ru/articles/778202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
