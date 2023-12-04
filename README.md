@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как нейронки дают пользователю новый опыт, не выталкивая его из уютной зоны комфорта. Разбираем на примере Яндекс Музыки](https://habr.com/ru/articles/778230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778230)
 - [Разработка одностраничных приложений с помощью HappyX](https://habr.com/ru/articles/778222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778222)
 - [[Перевод] Atomic CSS здорового человека. UnoCSS](https://habr.com/ru/articles/777738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777738)
 - [Почему x^0 = 1 наглядно](https://habr.com/ru/articles/778198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778198)
-- [IT и высокая зарплата: Мифы, реальность, подводные камни](https://habr.com/ru/articles/778208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778208)
-- [Алгоритм MiniMax. Использование минимакса в Unity на примере игры Поймай Овечку](https://habr.com/ru/articles/778204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778204)
+- [Размышления о мире. Часть 1: Панкомпьютационализм](https://habr.com/ru/articles/774950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
