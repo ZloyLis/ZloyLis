@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google и Yandex SEO оптимизация для SPA приложений](https://habr.com/ru/articles/778236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778236)
+- [[Перевод] Абсолютный минимум об Unicode на 2023 год &lpar;всё ещё — никаких оправданий!&rpar;](https://habr.com/ru/companies/wunderfund/articles/777850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777850)
+- [Бот и нет забот: как с помощью telegram-бота мы сделали приятнее жизнь автотестировщиков](https://habr.com/ru/companies/zyfra/articles/777636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777636)
+- [О JavaScript и WebAssembly](https://habr.com/ru/articles/778240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778240)
 - [Как нейронки дают пользователю новый опыт, не выталкивая его из уютной зоны комфорта. Разбираем на примере Яндекс Музыки](https://habr.com/ru/articles/778230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778230)
-- [Разработка одностраничных приложений с помощью HappyX](https://habr.com/ru/articles/778222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778222)
-- [[Перевод] Atomic CSS здорового человека. UnoCSS](https://habr.com/ru/articles/777738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777738)
-- [Почему x^0 = 1 наглядно](https://habr.com/ru/articles/778198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778198)
-- [Размышления о мире. Часть 1: Панкомпьютационализм](https://habr.com/ru/articles/774950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
