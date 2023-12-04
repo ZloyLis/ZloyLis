@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google и Yandex SEO оптимизация для SPA приложений](https://habr.com/ru/articles/778236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778236)
-- [[Перевод] Абсолютный минимум об Unicode на 2023 год &lpar;всё ещё — никаких оправданий!&rpar;](https://habr.com/ru/companies/wunderfund/articles/777850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777850)
-- [Бот и нет забот: как с помощью telegram-бота мы сделали приятнее жизнь автотестировщиков](https://habr.com/ru/companies/zyfra/articles/777636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777636)
-- [О JavaScript и WebAssembly](https://habr.com/ru/articles/778240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778240)
-- [Как нейронки дают пользователю новый опыт, не выталкивая его из уютной зоны комфорта. Разбираем на примере Яндекс Музыки](https://habr.com/ru/articles/778230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778230)
+- [Тирания маргинального юзера. Почему всё вокруг становится примитивнее](https://habr.com/ru/companies/ruvds/articles/777420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777420)
+- [Библиотека Granite от elementary OS](https://habr.com/ru/companies/first/articles/778244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778244)
+- [Получи максимум от анализа документов](https://habr.com/ru/articles/778260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778260)
+- [7 ошибок джунов в DevOps, которые мешают им стать мидлами](https://habr.com/ru/companies/kts/articles/769342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769342)
+- [Многопоточность и параллелизм в Go: Goroutines и каналы](https://habr.com/ru/companies/mvideo/articles/778248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
