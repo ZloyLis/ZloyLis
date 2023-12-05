@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция методологий разработки](https://habr.com/ru/articles/778502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778502)
+- [Как я готовилась и сдавала ISTQB Certified Tester Foundation Level v4.0](https://habr.com/ru/companies/yandex_praktikum/articles/777122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777122)
 - [Верле: разрешаем коллизии &lpar;часть 2 — сетка, квадратики&rpar;](https://habr.com/ru/articles/778482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778482)
 - [Apple Pro Weekly News &lpar;27.11 – 03.12.23&rpar;](https://habr.com/ru/articles/778450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778450)
 - [Хроники пикирующего бота или как важно не пропускать стадию QA в проектах](https://habr.com/ru/articles/778398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778398)
-- [[Перевод] Мой опыт собеседования в Google [оффер на L5]](https://habr.com/ru/companies/ruvds/articles/778334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778334)
-- [Улучшаем возможности PM2 с помощью дополнительных модулей автоскейлинга и мониторинга](https://habr.com/ru/articles/778316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
