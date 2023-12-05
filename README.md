@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Торговые роботы на Golang](https://habr.com/ru/companies/tinkoff/articles/778634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778634)
+- [SOLID — это несложно. С примерами на Python](https://habr.com/ru/companies/beeline_cloud/articles/778638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778638)
+- [PHP и Laravel дайджест новостей за ноябрь 2023 года](https://habr.com/ru/articles/778628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778628)
+- [Ликбез по вхождению в Data Science: что для этого нужно и стоит ли пытаться?](https://habr.com/ru/companies/jetinfosystems/articles/777632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777632)
 - [Вы делаете аналитику неправильно — 5 конкретных примеров](https://habr.com/ru/articles/778618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778618)
-- [Паттерн Circuit Breaker](https://habr.com/ru/companies/otus/articles/778574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778574)
-- [[Перевод] Как создать приложение для чата в реальном времени с помощью React, Node, Socket.io и HarperDB](https://habr.com/ru/companies/otus/articles/778594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778594)
-- [QIWI Server Party 9.0 — 14 декабря, офлайн и онлайн](https://habr.com/ru/companies/qiwi/articles/778584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778584)
-- [Как распараллелить тесты с базой данных](https://habr.com/ru/articles/778580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
