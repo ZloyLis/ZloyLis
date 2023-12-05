@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вы делаете аналитику неправильно — 5 конкретных примеров](https://habr.com/ru/articles/778618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778618)
+- [Паттерн Circuit Breaker](https://habr.com/ru/companies/otus/articles/778574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778574)
 - [[Перевод] Как создать приложение для чата в реальном времени с помощью React, Node, Socket.io и HarperDB](https://habr.com/ru/companies/otus/articles/778594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778594)
 - [QIWI Server Party 9.0 — 14 декабря, офлайн и онлайн](https://habr.com/ru/companies/qiwi/articles/778584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778584)
 - [Как распараллелить тесты с базой данных](https://habr.com/ru/articles/778580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778580)
-- [Карьерные боли девопсов: какие они бывают и как специалисту их закрыть](https://habr.com/ru/specials/776092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776092)
-- [Анти-легаси архитектура для UI приложений](https://habr.com/ru/companies/beeline_tech/articles/778422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
