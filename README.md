@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что я делал, когда развивал свою карьеру бэкенд разработчика](https://habr.com/ru/companies/alfa/articles/777898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777898)
 - [Торговые роботы на Golang](https://habr.com/ru/companies/tinkoff/articles/778634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778634)
 - [SOLID — это несложно. С примерами на Python](https://habr.com/ru/companies/beeline_cloud/articles/778638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778638)
 - [PHP и Laravel дайджест новостей за ноябрь 2023 года](https://habr.com/ru/articles/778628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778628)
 - [Ликбез по вхождению в Data Science: что для этого нужно и стоит ли пытаться?](https://habr.com/ru/companies/jetinfosystems/articles/777632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777632)
-- [Вы делаете аналитику неправильно — 5 конкретных примеров](https://habr.com/ru/articles/778618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
