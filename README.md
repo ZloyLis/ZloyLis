@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Карьерные боли девопсов: какие они бывают и как специалисту их закрыть](https://habr.com/ru/specials/776092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776092)
+- [Анти-легаси архитектура для UI приложений](https://habr.com/ru/companies/beeline_tech/articles/778422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778422)
 - [Security Week 2349: кибермошенничество при бронировании отелей](https://habr.com/ru/companies/kaspersky/articles/778392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778392)
 - [Как использовать html-элемент &amp;lt;dialog&amp;gt;?](https://habr.com/ru/articles/778542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778542)
 - [Дизайн АБ тестов](https://habr.com/ru/articles/778538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778538)
-- [Плагины в Ruby on Rails — миф или реальность?](https://habr.com/ru/companies/joydev/articles/778348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778348)
-- [Переводим документацию API из Markdown в OpenAPI](https://habr.com/ru/companies/hh/articles/777750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
