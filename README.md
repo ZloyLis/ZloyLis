@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайн АБ тестов](https://habr.com/ru/articles/778538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778538)
+- [Плагины в Ruby on Rails — миф или реальность?](https://habr.com/ru/companies/joydev/articles/778348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778348)
 - [Переводим документацию из Markdown в OpenAPI](https://habr.com/ru/companies/hh/articles/777750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777750)
 - [Способы отображения: существует ли связь между DDD и ООП](https://habr.com/ru/companies/custis/articles/774644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774644)
 - [Как мы научили заводчан строить красивые инженерные отчеты из Jupyter Notebook на Python](https://habr.com/ru/companies/lanit/articles/777514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777514)
-- [Эволюция методологий разработки](https://habr.com/ru/articles/778502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778502)
-- [Как я готовилась и сдавала ISTQB Certified Tester Foundation Level v4.0](https://habr.com/ru/companies/yandex_praktikum/articles/777122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
