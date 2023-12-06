@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [О простом методе быстрого обновления абсолютных центральных моментов](https://habr.com/ru/companies/smartengines/articles/777234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777234)
-- [[Перевод] Как построить локальный self-managed Kubernetes-кластер](https://habr.com/ru/companies/flant/articles/778394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778394)
-- [Простейшая игра «Крестики-Нолики» на ChatGPT, зерокодинг](https://habr.com/ru/articles/778742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778742)
-- [1000 человек на место или как новичку стать синьором](https://habr.com/ru/companies/m2tech/articles/778736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778736)
-- [[Перевод] Механизм экспорта растровых изображений в Figma: как изменяется качество изображения](https://habr.com/ru/articles/778732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778732)
+- [Grafana Mimir: remote storage из скандинавской мифологии](https://habr.com/ru/companies/kts/articles/775050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775050)
+- [Микрофронтенды в SSR: опыт Авито](https://habr.com/ru/companies/avito/articles/778582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778582)
+- [Неизвестно полезный CSS](https://habr.com/ru/companies/ruvds/articles/775986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775986)
+- [Интеграция конструкторского и расчетного ПО: Model Studio CS + Старт-Проф. Трассировка трубопроводов](https://habr.com/ru/companies/nanosoft/articles/778788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778788)
+- [Планируем путешествие — задача коммивояжера &lpar;TSP&rpar; для построения оптимального маршрута](https://habr.com/ru/companies/pgk/articles/778782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
