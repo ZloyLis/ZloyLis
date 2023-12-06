@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бизнес-анализ и работа бизнес-аналитика. В стихах](https://habr.com/ru/articles/778828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778828)
 - [Деплой приложения на Java. Хостим проект через push в Git](https://habr.com/ru/companies/amvera/articles/778682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778682)
 - [Умная рыбалка: как мы учим ML работать с фишингом](https://habr.com/ru/companies/vk/articles/778428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778428)
-- [Эта статья опубликована после обеда](https://habr.com/ru/articles/778810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778810)
+- [Эта статья опубликована накануне](https://habr.com/ru/articles/778810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778810)
 - [Grafana Mimir: remote storage из скандинавской мифологии](https://habr.com/ru/companies/kts/articles/775050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775050)
+- [Микрофронтенды в SSR: опыт Авито](https://habr.com/ru/companies/avito/articles/778582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
