@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Прекратите клепать базы данных](https://habr.com/ru/articles/778720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778720)
-- [Мифы об Unreal Engine 5 — Nanite](https://habr.com/ru/articles/778708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778708)
 - [Рубрика «Сделай сам»: корпоративный портал своими руками](https://habr.com/ru/companies/reksoft/articles/778664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778664)
 - [CADLib API: От API к прямой работе с базой данных модели через SQL-запросы](https://habr.com/ru/articles/778654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778654)
 - [Что я делал, когда развивал свою карьеру бэкенд разработчика](https://habr.com/ru/companies/alfa/articles/777898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777898)
+- [Торговые роботы на Golang](https://habr.com/ru/companies/tinkoff/articles/778634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
