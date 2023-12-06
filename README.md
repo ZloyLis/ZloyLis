@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О простом методе быстрого обновления абсолютных центральных моментов](https://habr.com/ru/companies/smartengines/articles/777234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777234)
 - [[Перевод] Как построить локальный self-managed Kubernetes-кластер](https://habr.com/ru/companies/flant/articles/778394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778394)
 - [Простейшая игра «Крестики-Нолики» на ChatGPT, зерокодинг](https://habr.com/ru/articles/778742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778742)
 - [1000 человек на место или как новичку стать синьором](https://habr.com/ru/companies/m2tech/articles/778736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778736)
 - [[Перевод] Механизм экспорта растровых изображений в Figma: как изменяется качество изображения](https://habr.com/ru/articles/778732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778732)
-- [[Перевод] Прекратите клепать базы данных](https://habr.com/ru/articles/778720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
