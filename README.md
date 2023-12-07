@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Визуализация: лучшие практики](https://habr.com/ru/companies/securityvison/articles/779032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779032)
 - [Как войти в айти за час с нуля, на языке с++ Win32 &lpar;графические приложения&rpar; «для самых маленьких»](https://habr.com/ru/articles/779092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779092)
 - [Концепция RAII &lpar;Resource Acquisition Is Initialization&rpar;](https://habr.com/ru/companies/otus/articles/778942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778942)
 - [[Перевод] Как стать сеньором слишком рано](https://habr.com/ru/articles/779088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779088)
 - [Как менять подход к управлению с ростом команды и проекта](https://habr.com/ru/companies/vk/articles/776770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776770)
-- [[Перевод] Как устроен протокол iMessage](https://habr.com/ru/articles/779064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
