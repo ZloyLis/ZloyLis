@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как устроен протокол iMessage](https://habr.com/ru/articles/779064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779064)
+- [Аналитика на грани компетенций](https://habr.com/ru/companies/naumen/articles/779056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779056)
+- [Потрошим golang: как устроена память](https://habr.com/ru/companies/vk/articles/776766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776766)
 - [Зачем мне пылесос с ананасом или как оценить корректность рекомендательной системы](https://habr.com/ru/articles/779038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779038)
 - [Java Digest #7](https://habr.com/ru/companies/tinkoff/articles/779010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779010)
-- [Опыт использования бизнес-процессов Битрикс в рамках крупного корпоративного портала](https://habr.com/ru/companies/nlmk/articles/772144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772144)
-- [Как мы работаем с ресурсами в веб-приложениях](https://habr.com/ru/companies/1c/articles/778986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778986)
-- [Реализация нейронной сети для соревнования Digit Recognizer на Kaggle и её прикладное использование. Часть №2](https://habr.com/ru/articles/778968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
