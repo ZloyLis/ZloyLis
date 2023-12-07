@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [1000 и 1 способ инициализации типов в C# 12.0](https://habr.com/ru/articles/779166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779166)
+- [Дороги из дома ведут в магазин: вычисляем суммы квартир для районов Москвы](https://habr.com/ru/articles/778970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778970)
 - [Практическая магия Istio при построении архитектуры крупных микросервисных систем. Часть 1 — функциональная](https://habr.com/ru/companies/alfa/articles/778796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778796)
 - [Чего не знают айтишники? Как мы провели IT-кроссворд и нашли ответы на все вопросы](https://habr.com/ru/companies/selectel/articles/779110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779110)
 - [Quick &amp;amp; worldwide: как мы ускорили DocLoc-релизы и апдейты для 34 локализаций](https://habr.com/ru/companies/kaspersky/articles/777296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777296)
-- [Инструкция: как быстро настроить GitLab CI/CD на Flutter-проекте](https://habr.com/ru/companies/agima/articles/779028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779028)
-- [Визуализация: лучшие практики](https://habr.com/ru/companies/securityvison/articles/779032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
