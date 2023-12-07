@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как менять подход к управлению с ростом команды и проекта](https://habr.com/ru/companies/vk/articles/776770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776770)
 - [[Перевод] Как устроен протокол iMessage](https://habr.com/ru/articles/779064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779064)
 - [Аналитика на грани компетенций](https://habr.com/ru/companies/naumen/articles/779056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779056)
+- [Нотация моделирования архитектуры С4 — примеры диаграмм и инструменты](https://habr.com/ru/articles/778726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778726)
 - [Потрошим golang: как устроена память](https://habr.com/ru/companies/vk/articles/776766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776766)
-- [Зачем мне пылесос с ананасом или как оценить корректность рекомендательной системы](https://habr.com/ru/articles/779038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779038)
-- [Java Digest #7](https://habr.com/ru/companies/tinkoff/articles/779010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
