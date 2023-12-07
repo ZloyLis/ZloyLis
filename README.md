@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы работаем с ресурсами в веб-приложениях](https://habr.com/ru/companies/1c/articles/778986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778986)
 - [Реализация нейронной сети для соревнования Digit Recognizer на Kaggle и её прикладное использование. Часть №2](https://habr.com/ru/articles/778968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778968)
 - [CatBoost](https://habr.com/ru/companies/otus/articles/778714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778714)
 - [Создаем свой блог на Github и Hugo](https://habr.com/ru/articles/778900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778900)
 - [Деплой приложения на Java. Хостим проект через push в Git](https://habr.com/ru/companies/amvera/articles/778682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778682)
-- [Умная рыбалка: как мы учим ML работать с фишингом](https://habr.com/ru/companies/vk/articles/778428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
