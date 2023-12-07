@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чего не знают айтишники? Как мы провели IT-кроссворд и нашли ответы на все вопросы](https://habr.com/ru/companies/selectel/articles/779110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779110)
+- [Quick &amp;amp; worldwide: как мы ускорили DocLoc-релизы и апдейты для 34 локализаций](https://habr.com/ru/companies/kaspersky/articles/777296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777296)
+- [Инструкция: как быстро настроить GitLab CI/CD на Flutter-проекте](https://habr.com/ru/companies/agima/articles/779028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779028)
 - [Визуализация: лучшие практики](https://habr.com/ru/companies/securityvison/articles/779032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779032)
 - [Как войти в айти за час с нуля, на языке с++ Win32 &lpar;графические приложения&rpar; «для самых маленьких»](https://habr.com/ru/articles/779092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779092)
-- [Концепция RAII &lpar;Resource Acquisition Is Initialization&rpar;](https://habr.com/ru/companies/otus/articles/778942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778942)
-- [[Перевод] Как стать сеньором слишком рано](https://habr.com/ru/articles/779088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779088)
-- [Как менять подход к управлению с ростом команды и проекта](https://habr.com/ru/companies/vk/articles/776770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
