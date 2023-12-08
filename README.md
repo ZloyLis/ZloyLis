@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Моя любимая задачка по программированию для кодинг-интервью](https://habr.com/ru/companies/ispsystem/articles/779224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779224)
 - [[Перевод] Python лёгкий. Go простой. Простой != лёгкий](https://habr.com/ru/articles/779210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779210)
 - [Идеальный REST клиент iOS](https://habr.com/ru/articles/779206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779206)
 - [Обзор параллельных режимов работы хэш-функций](https://habr.com/ru/articles/779192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779192)
 - [Как работает аутентификация в Kubernetes: ServiceAccount и RBAC](https://habr.com/ru/articles/779190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779190)
-- [Польза создания однородных задач для параллельного вычисления](https://habr.com/ru/articles/779188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
