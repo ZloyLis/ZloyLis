@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тесты производительности фреймворка Cample.js. Отчёт № 0](https://habr.com/ru/articles/779240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779240)
+- [Что такое генераторы статических сайтов и почему Astro — лучший фреймворк для разработки лендингов](https://habr.com/ru/articles/779428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779428)
 - [Алгоритмы быстрого возведения в степень](https://habr.com/ru/companies/otus/articles/779396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779396)
 - [Обкатка альфа-теста и обновления на Капибаре](https://habr.com/ru/articles/779408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779408)
 - [Использование Nim В Python](https://habr.com/ru/articles/779370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779370)
-- [[Перевод] Смерть от тысячи микросервисов](https://habr.com/ru/articles/779362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779362)
-- [9 советов, которые облегчат путь до мидла](https://habr.com/ru/companies/tochka/articles/779326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
