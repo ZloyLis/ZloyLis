@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обкатка альфа-теста и обновления на Капибаре](https://habr.com/ru/articles/779408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779408)
 - [Использование Nim В Python](https://habr.com/ru/articles/779370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779370)
 - [[Перевод] Смерть от тысячи микросервисов](https://habr.com/ru/articles/779362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779362)
 - [9 советов, которые облегчат путь до мидла](https://habr.com/ru/companies/tochka/articles/779326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779326)
 - [Своё кастомное межсервисное взаимодействие с блекджеком и gRPC](https://habr.com/ru/companies/ozontech/articles/779266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779266)
-- [[Перевод] Тридцать лет спустя: увеличение скорости квантовой факторизации](https://habr.com/ru/companies/first/articles/778494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
