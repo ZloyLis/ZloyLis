@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Смерть от тысячи микросервисов](https://habr.com/ru/articles/779362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779362)
+- [9 советов, которые облегчат путь до мидла](https://habr.com/ru/companies/tochka/articles/779326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779326)
 - [Своё кастомное межсервисное взаимодействие с блекджеком и gRPC](https://habr.com/ru/companies/ozontech/articles/779266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779266)
 - [[Перевод] Тридцать лет спустя: увеличение скорости квантовой факторизации](https://habr.com/ru/companies/first/articles/778494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778494)
 - [Разработка расширения для PHP на C++. Хуки встроенных функций и методов](https://habr.com/ru/articles/779344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779344)
-- [Кто как обзывается, сам так называется: как получить фидбек по работе и не обидеться](https://habr.com/ru/companies/outlines_tech/articles/779338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779338)
-- [Frontend Talks: усиливаем TypeScript с помощью switch + notReachable](https://habr.com/ru/companies/cloud_ru/articles/778694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
