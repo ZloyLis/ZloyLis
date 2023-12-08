@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Технологии прошлого и настоящего: как я сделал Nixie Clock с самодельным драйвером на ESP8266](https://habr.com/ru/companies/timeweb/articles/777136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777136)
+- [Как я в 22 года получил «лычку» Senior](https://habr.com/ru/companies/alfa/articles/776790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776790)
+- [Пользовательские статусы для мессенджера: наш опыт UX-разработки](https://habr.com/ru/companies/mtslink/articles/779122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779122)
 - [Browsing Context, WindowProxy, Window](https://habr.com/ru/articles/779252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779252)
 - [CallMe VS традиционные методы связи: сравнительный анализ преимуществ и недостатков](https://habr.com/ru/companies/newtel/articles/779248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779248)
-- [Свежий Google Gemini, GPT-4 и математика](https://habr.com/ru/articles/779230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779230)
-- [Flutter Web умер. Да здравствует Flutter Web](https://habr.com/ru/companies/pyrobyte/articles/779226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779226)
-- [[Перевод] Моя любимая задачка по программированию для кодинг-интервью](https://habr.com/ru/companies/ispsystem/articles/779224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
