@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Скелет, анимация, текстура: всё о создании 3D-модели человека по фотографии](https://habr.com/ru/companies/vk/articles/778308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778308)
+- [Немного о гигиене Java кода](https://habr.com/ru/companies/pvs-studio/articles/779300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779300)
 - [Российской OCR – 30 лет. Вспоминаем, как появилась первая отечественная технология распознавания &lpar;Часть 1. OCR Tiger&rpar;](https://habr.com/ru/companies/smartengines/articles/779154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779154)
 - [Как настроить gRPC на примере микросервисов на Ruby и Go](https://habr.com/ru/companies/joydev/articles/779272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779272)
 - [Технологии прошлого и настоящего: как я сделал Nixie Clock с самодельным драйвером на ESP8266](https://habr.com/ru/companies/timeweb/articles/777136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777136)
-- [Как я в 22 года получил «лычку» Senior](https://habr.com/ru/companies/alfa/articles/776790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776790)
-- [Пользовательские статусы для мессенджера: наш опыт UX-разработки](https://habr.com/ru/companies/mtslink/articles/779122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
