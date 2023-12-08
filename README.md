@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Browsing Context, WindowProxy, Window](https://habr.com/ru/articles/779252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779252)
+- [CallMe VS традиционные методы связи: сравнительный анализ преимуществ и недостатков](https://habr.com/ru/companies/newtel/articles/779248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779248)
 - [Свежий Google Gemini, GPT-4 и математика](https://habr.com/ru/articles/779230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779230)
 - [Flutter Web умер. Да здравствует Flutter Web](https://habr.com/ru/companies/pyrobyte/articles/779226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779226)
 - [[Перевод] Моя любимая задачка по программированию для кодинг-интервью](https://habr.com/ru/companies/ispsystem/articles/779224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779224)
-- [[Перевод] Python лёгкий. Go простой. Простой != лёгкий](https://habr.com/ru/articles/779210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779210)
-- [Идеальный REST клиент iOS](https://habr.com/ru/articles/779206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
