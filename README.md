@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обходим обязательную привязку телефонного номера к своей учетной записи на GitHub](https://habr.com/ru/articles/779478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779478)
+- [Переход на Gradle 8 Android проекта](https://habr.com/ru/articles/779486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779486)
 - [Lesta Studio и её тестовое задание с подвохом](https://habr.com/ru/articles/779482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779482)
 - [Как помочь себе, если долго не можешь найти работу](https://habr.com/ru/articles/779468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779468)
 - [Создание простого калькулятора в android studio](https://habr.com/ru/articles/779464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779464)
-- [[Перевод] Архитектурные ката: отсекаем всё лишнее в Agile](https://habr.com/ru/companies/timeweb/articles/779378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779378)
-- [Swift Utilities — Работа со SwiftData в Background](https://habr.com/ru/articles/779450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
