@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Архитектурные ката: отсекаем всё лишнее в Agile](https://habr.com/ru/companies/timeweb/articles/779378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779378)
 - [Swift Utilities — Работа со SwiftData в Background](https://habr.com/ru/articles/779450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779450)
 - [Сборка pgModeler в Windows 10 без знания Qt](https://habr.com/ru/articles/779448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779448)
 - [Как мы описываем требования к REST API для бэкенда в Confluence](https://habr.com/ru/companies/magnit/articles/779368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779368)
 - [Возможный облик мобильного суперприложения-помощника на базе ИИ](https://habr.com/ru/articles/779442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779442)
-- [Тесты производительности фреймворка Cample.js. Отчёт № 0](https://habr.com/ru/articles/779240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
