@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутренний Я&lpar;ндекс&rpar;](https://habr.com/ru/articles/779538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779538)
 - [Как я сделал проект для себя и получил приз от Telegram](https://habr.com/ru/articles/779508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779508)
 - [Оптимизируем шрифты и ускоряем сайт на 5-12%](https://habr.com/ru/articles/779504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779504)
 - [Обходим обязательную привязку телефонного номера к своей учетной записи на GitHub](https://habr.com/ru/articles/779478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779478)
 - [Переход на Gradle 8 Android проекта](https://habr.com/ru/articles/779486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779486)
-- [Lesta Studio и её тестовое задание с подвохом](https://habr.com/ru/articles/779482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
