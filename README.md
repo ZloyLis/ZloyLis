@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Lesta Studio и её тестовое задание с подвохом](https://habr.com/ru/articles/779482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779482)
 - [Как помочь себе, если долго не можешь найти работу](https://habr.com/ru/articles/779468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779468)
 - [Создание простого калькулятора в android studio](https://habr.com/ru/articles/779464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779464)
 - [[Перевод] Архитектурные ката: отсекаем всё лишнее в Agile](https://habr.com/ru/companies/timeweb/articles/779378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779378)
 - [Swift Utilities — Работа со SwiftData в Background](https://habr.com/ru/articles/779450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779450)
-- [Сборка pgModeler в Windows 10 без знания Qt](https://habr.com/ru/articles/779448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
