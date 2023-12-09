@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы описываем требования к REST API для бэкенда в Confluence](https://habr.com/ru/companies/magnit/articles/779368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779368)
+- [Возможный облик мобильного суперприложения-помощника на базе ИИ](https://habr.com/ru/articles/779442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779442)
 - [Тесты производительности фреймворка Cample.js. Отчёт № 0](https://habr.com/ru/articles/779240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779240)
 - [Что такое генераторы статических сайтов и почему Astro — лучший фреймворк для разработки лендингов](https://habr.com/ru/articles/779428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779428)
 - [Алгоритмы быстрого возведения в степень](https://habr.com/ru/companies/otus/articles/779396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779396)
-- [Обкатка альфа-теста и обновления на Капибаре](https://habr.com/ru/articles/779408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779408)
-- [Использование Nim В Python](https://habr.com/ru/articles/779370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
