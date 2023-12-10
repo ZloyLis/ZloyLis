@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История создания Оптимизатора для ПК: Nuxt.js, Electron и C++ в Одном Проекте](https://habr.com/ru/articles/779614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779614)
+- [Пьеса о неудачном запуске предзаказа](https://habr.com/ru/articles/779608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779608)
 - [30 лет DOOM: новый код — новые баги](https://habr.com/ru/companies/pvs-studio/articles/779596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779596)
 - [[Перевод] 10 тёмных паттернов в UX-дизайне и как их избежать](https://habr.com/ru/companies/ruvds/articles/779274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779274)
 - [Генерация PDF-документации из OpenAPI-спецификации в SpringBoot-приложении](https://habr.com/ru/articles/779542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779542)
-- [Как опубликовать свое первое приложение на Django и не упасть духом. Гайд для выпускников курсов](https://habr.com/ru/articles/779544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779544)
-- [Внутренний Я&lpar;ндекс&rpar;](https://habr.com/ru/articles/779538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
