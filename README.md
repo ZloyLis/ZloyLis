@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Connect на примере Debezium PostgresConnector](https://habr.com/ru/articles/779620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779620)
 - [Как я пытался облегчить работу в поликлинике](https://habr.com/ru/articles/779618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779618)
 - [История создания Оптимизатора для ПК: Nuxt.js, Electron и C++ в Одном Проекте](https://habr.com/ru/articles/779614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779614)
 - [Пьеса о неудачном запуске предзаказа](https://habr.com/ru/articles/779608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779608)
 - [30 лет DOOM: новый код — новые баги](https://habr.com/ru/companies/pvs-studio/articles/779596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779596)
-- [[Перевод] 10 тёмных паттернов в UX-дизайне и как их избежать](https://habr.com/ru/companies/ruvds/articles/779274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
