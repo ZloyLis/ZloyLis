@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатный безлимитный Telegram-бот Спич для расшифровки голосовых и кружочков](https://habr.com/ru/articles/779644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779644)
 - [Расчет АБ T-тестом](https://habr.com/ru/articles/779628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779628)
 - [Пишем приложение на Python для подготовки к собеседованиям по Python](https://habr.com/ru/articles/779624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779624)
 - [Kafka Connect на примере Debezium PostgresConnector](https://habr.com/ru/articles/779620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779620)
 - [Как я пытался облегчить работу в поликлинике](https://habr.com/ru/articles/779618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779618)
-- [История создания Оптимизатора для ПК: Nuxt.js, Electron и C++ в Одном Проекте](https://habr.com/ru/articles/779614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
