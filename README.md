@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL и микросервисная архитектура: объединяем сервисы в федерацию](https://habr.com/ru/companies/sberbank/articles/779782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779782)
+- [[Перевод] Интернету исполнилось 50 лет. Винт Серф: «У нас всё ещё много работы»](https://habr.com/ru/companies/vk/articles/776906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776906)
+- [Как сделать Kubernetes еще круче: секреты безупречной работы](https://habr.com/ru/companies/leroy_merlin/articles/777588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777588)
+- [[Перевод] Добавление собственных данных в LLM с помощью RAG](https://habr.com/ru/companies/wunderfund/articles/779748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779748)
 - [Spring Cloud Gateway. Единая точка входа или отказа: путь к non-blocking API gateway](https://habr.com/ru/companies/rosbank/articles/779770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779770)
-- [Рекомендации по ведению SQL-кода](https://habr.com/ru/articles/779598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779598)
-- [Облако для образования и науки: суперсамолет, цифровой доппельгангер, эволюция вселенной](https://habr.com/ru/companies/cloud_mts/articles/779640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779640)
-- [Удивительные клеточные автоматы: обратные и расширенные поколения](https://habr.com/ru/companies/timeweb/articles/776524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776524)
-- [Как мы наводим порядок с данными в столичном транспортном институте](https://habr.com/ru/companies/mostransproekt/articles/779116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
