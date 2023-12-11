@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Кандидатура — старший инженер-программист. В должности отказать…](https://habr.com/ru/companies/beeline_cloud/articles/779894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779894)
 - [Apple Pro Weekly News &lpar;04.12 – 10.12.23&rpar;](https://habr.com/ru/articles/779908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779908)
 - [LIME и SHAP](https://habr.com/ru/companies/otus/articles/779430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779430)
 - [Коллажи умерли, да здравствует монохром! Кейс: редизайн сайта для Breaking Trends](https://habr.com/ru/articles/779874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779874)
 - [Подготовка инструментов под фаззинг UEFI на базе edk2 в Windows](https://habr.com/ru/articles/773548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773548)
-- [[Перевод] Как я ускорил QEMU в 10 раз с помощью небольшого фокуса](https://habr.com/ru/companies/otus/articles/779860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
