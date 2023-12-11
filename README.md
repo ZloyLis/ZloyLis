@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Облако для образования и науки: суперсамолет, цифровой доппельгангер, эволюция вселенной](https://habr.com/ru/companies/cloud_mts/articles/779640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779640)
 - [Удивительные клеточные автоматы: обратные и расширенные поколения](https://habr.com/ru/companies/timeweb/articles/776524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776524)
+- [Как мы наводим порядок с данными в столичном транспортном институте](https://habr.com/ru/companies/mostransproekt/articles/779116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779116)
 - [Как стать Delphi-программистом за час «для самых маленьких»](https://habr.com/ru/articles/779676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779676)
 - [[Перевод] Пример для иллюстрации принципов SOLID который я &lpar;кажется&rpar; понял](https://habr.com/ru/articles/779510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779510)
-- [Использование цвета при анализе и проектировании систем. Часть 2](https://habr.com/ru/articles/779672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779672)
-- [Мобильная разработка за неделю #518 &lpar;4 — 10 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/779668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
