@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я ускорил QEMU в 10 раз с помощью небольшого фокуса](https://habr.com/ru/companies/otus/articles/779860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779860)
+- [Когда официальные гайды не такие и полезные или WebSocket на ktor](https://habr.com/ru/articles/779866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779866)
+- [[Перевод] Переменные окружения в Node.js: полное руководство](https://habr.com/ru/companies/otus/articles/779852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779852)
 - [[Перевод] Вам не нужен для этого JavaScript](https://habr.com/ru/companies/ruvds/articles/779814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779814)
 - [Flutter: почему он стал таким популярным и нужно ли изучать его прямо сейчас](https://habr.com/ru/companies/friflex/articles/779810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779810)
-- [GraphQL и микросервисная архитектура: объединяем сервисы в федерацию](https://habr.com/ru/companies/sberbank/articles/779782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779782)
-- [[Перевод] Интернету исполнилось 50 лет. Винт Серф: «У нас всё ещё много работы»](https://habr.com/ru/companies/vk/articles/776906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776906)
-- [Как сделать Kubernetes еще круче: секреты безупречной работы](https://habr.com/ru/companies/leroy_merlin/articles/777588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
