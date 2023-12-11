@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать Delphi-программистом за час «для самых маленьких»](https://habr.com/ru/articles/779676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779676)
 - [[Перевод] Пример для иллюстрации принципов SOLID который я &lpar;кажется&rpar; понял](https://habr.com/ru/articles/779510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779510)
 - [Использование цвета при анализе и проектировании систем. Часть 2](https://habr.com/ru/articles/779672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779672)
 - [Мобильная разработка за неделю #518 &lpar;4 — 10 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/779668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779668)
 - [Искусственный интеллект для игры в Тетрис](https://habr.com/ru/articles/779654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779654)
-- [Магия swizzle из шейдеров в C++](https://habr.com/ru/articles/779616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
