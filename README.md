@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #518 &lpar;4 — 10 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/779668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779668)
 - [Искусственный интеллект для игры в Тетрис](https://habr.com/ru/articles/779654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779654)
 - [Магия swizzle из шейдеров в C++](https://habr.com/ru/articles/779616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779616)
 - [Бесплатный безлимитный Telegram-бот Спич для расшифровки голосовых и кружочков](https://habr.com/ru/articles/779644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779644)
 - [Расчет АБ T-тестом](https://habr.com/ru/articles/779628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779628)
-- [Пишем приложение на Python для подготовки к собеседованиям по Python](https://habr.com/ru/articles/779624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
