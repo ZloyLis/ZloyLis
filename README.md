@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Авторизация для приложения в облаке](https://habr.com/ru/articles/779924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779924)
 - [Коллекции тестов по API в Postman и в Insomnia](https://habr.com/ru/articles/779918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779918)
 - [[Перевод] Кандидатура — старший инженер-программист. В должности отказать…](https://habr.com/ru/companies/beeline_cloud/articles/779894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779894)
 - [Apple Pro Weekly News &lpar;04.12 – 10.12.23&rpar;](https://habr.com/ru/articles/779908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779908)
 - [LIME и SHAP](https://habr.com/ru/companies/otus/articles/779430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779430)
-- [Коллажи умерли, да здравствует монохром! Кейс: редизайн сайта для Breaking Trends](https://habr.com/ru/articles/779874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
