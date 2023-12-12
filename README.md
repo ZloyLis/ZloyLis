@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Память человеков. Отлаженный механизм или баг на баге?](https://habr.com/ru/companies/reksoft/articles/780022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780022)
+- [Протектор и LLVM-обфускатор. Сравнение двух подходов к решению задачи запутывания кода](https://habr.com/ru/companies/aktiv-company/articles/779990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779990)
 - [Наводим порядок в конфигах Webpack](https://habr.com/ru/companies/domclick/articles/779586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779586)
 - [[Перевод] Пишем оператор Kubernetes: руководство для начинающих](https://habr.com/ru/companies/slurm/articles/779986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779986)
 - [Как автоматизировать использование дизайн токенов с помощью Stylelint и PostCSS](https://habr.com/ru/articles/779492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779492)
-- [Phoenix: разбираемся со сбоями ML системы прямо в вашем ноутбуке](https://habr.com/ru/articles/779980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779980)
-- [Айтишники против шифровальщиков: как победить злосчастный вирус](https://habr.com/ru/companies/pt/articles/779958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
