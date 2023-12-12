@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RFM-сегментация в оптимизации CRM-стратегий](https://habr.com/ru/articles/779652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779652)
 - [Синхронизация в Ktor для самых маленьких](https://habr.com/ru/articles/780164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780164)
 - [Эмуляция бэкенда: как разрабатывать изолированный фронтенд с помощью Mock Service Worker](https://habr.com/ru/articles/780200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780200)
 - [[Перевод] Никто никогда не учит писать качественный софт](https://habr.com/ru/articles/780170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780170)
 - [Держись, Маша! Ты, ведь, наша! Продолжение разбора книги «Цифровая схемотехника и архитектура компьютера»](https://habr.com/ru/articles/780162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780162)
-- [Самый лучший тренажёр клавиатуры](https://habr.com/ru/articles/780160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
