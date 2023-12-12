@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наводим порядок в конфигах Webpack](https://habr.com/ru/companies/domclick/articles/779586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779586)
+- [[Перевод] Пишем оператор Kubernetes: руководство для начинающих](https://habr.com/ru/companies/slurm/articles/779986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779986)
+- [Как автоматизировать использование дизайн токенов с помощью Stylelint и PostCSS](https://habr.com/ru/articles/779492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779492)
+- [Phoenix: разбираемся со сбоями ML системы прямо в вашем ноутбуке](https://habr.com/ru/articles/779980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779980)
 - [Айтишники против шифровальщиков: как победить злосчастный вирус](https://habr.com/ru/companies/pt/articles/779958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779958)
-- [Простой софт, чтобы водители не дрались в очереди на выгрузку металлолома](https://habr.com/ru/companies/omk-it/articles/779798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779798)
-- [Кастомизируем VS Code для веб-разработки](https://habr.com/ru/companies/kts/articles/779670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779670)
-- [Аксиомы: что это такое и с чем их готовить](https://habr.com/ru/articles/779932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779932)
-- [Авторизация для приложения в облаке](https://habr.com/ru/articles/779924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
