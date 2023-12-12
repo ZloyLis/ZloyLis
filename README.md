@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нужно знать о gRPC системному аналитику](https://habr.com/ru/companies/tinkoff/articles/780024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780024)
+- [Как оптимизировать код на С для x86-процессоров: подсистема кэша и памяти, инструкции AVX-512](https://habr.com/ru/companies/yadro/articles/779284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779284)
+- [Security Week 2350: подробности атаки LogoFAIL](https://habr.com/ru/companies/kaspersky/articles/779802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779802)
 - [Память человеков. Отлаженный механизм или баг на баге?](https://habr.com/ru/companies/reksoft/articles/780022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780022)
 - [Протектор и LLVM-обфускатор. Сравнение двух подходов к решению задачи запутывания кода](https://habr.com/ru/companies/aktiv-company/articles/779990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779990)
-- [Наводим порядок в конфигах Webpack](https://habr.com/ru/companies/domclick/articles/779586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779586)
-- [[Перевод] Пишем оператор Kubernetes: руководство для начинающих](https://habr.com/ru/companies/slurm/articles/779986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779986)
-- [Как автоматизировать использование дизайн токенов с помощью Stylelint и PostCSS](https://habr.com/ru/articles/779492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
