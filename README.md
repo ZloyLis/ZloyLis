@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кастомизируем VS Code для веб-разработки](https://habr.com/ru/companies/kts/articles/779670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779670)
 - [Аксиомы: что это такое и с чем их готовить](https://habr.com/ru/articles/779932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779932)
 - [Авторизация для приложения в облаке](https://habr.com/ru/articles/779924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779924)
 - [Коллекции тестов по API в Postman и в Insomnia](https://habr.com/ru/articles/779918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779918)
 - [[Перевод] Кандидатура — старший инженер-программист. В должности отказать…](https://habr.com/ru/companies/beeline_cloud/articles/779894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779894)
-- [Apple Pro Weekly News &lpar;04.12 – 10.12.23&rpar;](https://habr.com/ru/articles/779908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
