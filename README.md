@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Айтишники против шифровальщиков: как победить злосчастный вирус](https://habr.com/ru/companies/pt/articles/779958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779958)
+- [Простой софт, чтобы водители не дрались в очереди на выгрузку металлолома](https://habr.com/ru/companies/omk-it/articles/779798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779798)
 - [Кастомизируем VS Code для веб-разработки](https://habr.com/ru/companies/kts/articles/779670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779670)
 - [Аксиомы: что это такое и с чем их готовить](https://habr.com/ru/articles/779932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779932)
 - [Авторизация для приложения в облаке](https://habr.com/ru/articles/779924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779924)
-- [Коллекции тестов по API в Postman и в Insomnia](https://habr.com/ru/articles/779918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779918)
-- [[Перевод] Кандидатура — старший инженер-программист. В должности отказать…](https://habr.com/ru/companies/beeline_cloud/articles/779894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
