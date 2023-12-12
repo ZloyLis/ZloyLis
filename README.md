@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Расчет АБ через bootstrap + калькулятор](https://habr.com/ru/articles/780146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780146)
-- [Качество ПО: определение и постановка целей](https://habr.com/ru/articles/780140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780140)
-- [Serverless на бюджете ч. 1](https://habr.com/ru/articles/780128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780128)
-- [Mockito и как им пользоваться](https://habr.com/ru/companies/otus/articles/780090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780090)
-- [После прочтения применить или Чистый код на практике](https://habr.com/ru/companies/it-guide/articles/746546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746546)
+- [[Перевод] Нас не учили писать качественное ПО](https://habr.com/ru/articles/780170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780170)
+- [Держись, Маша! Ты, ведь, наша! Продолжение разбора книги «Цифровая схемотехника и архитектура компьютера»](https://habr.com/ru/articles/780162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780162)
+- [Самый лучший тренажёр клавиатуры](https://habr.com/ru/articles/780160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780160)
+- [Онто: От идеи до реализации](https://habr.com/ru/articles/780158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780158)
+- [Как много языков может влезть в одного программиста?](https://habr.com/ru/companies/alfa/articles/770414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
