@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless на бюджете ч. 1](https://habr.com/ru/articles/780128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780128)
+- [Mockito и как им пользоваться](https://habr.com/ru/companies/otus/articles/780090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780090)
+- [Эффективные стратегии для новичка в сфере Frontend-разработки в конкурентной среде](https://habr.com/ru/companies/productstar/articles/780110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780110)
 - [После прочтения применить или Чистый код на практике](https://habr.com/ru/companies/it-guide/articles/746546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=746546)
 - [[Перевод] Безвозмездная работа над проектами с открытым кодом — нежизнеспособная модель](https://habr.com/ru/companies/productivity_inside/articles/780078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780078)
-- [Поездка в Иннополис и Всероссийская олимпиада по ИИ](https://habr.com/ru/companies/sportmaster_lab/articles/779036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779036)
-- [О выборе CMS для сайтовых дел, кратенький обзор Processwire](https://habr.com/ru/articles/780064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780064)
-- [Что нужно знать о gRPC системному аналитику](https://habr.com/ru/companies/tinkoff/articles/780024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
