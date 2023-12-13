@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сколько строк на C нужно, чтобы выполнить a + b в Python?](https://habr.com/ru/articles/780386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780386)
+- [От конструктора до облака: какие есть способы разработки мобильных приложений](https://habr.com/ru/companies/imshop/articles/780444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780444)
 - [RFM-сегментация в оптимизации CRM-стратегий](https://habr.com/ru/articles/780330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780330)
 - [Язык Crystal и математика](https://habr.com/ru/articles/733606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=733606)
 - [А/Б тестирование с CUPED: детальный разбор](https://habr.com/ru/companies/X5Tech/articles/780270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780270)
-- [Вычисление значений при угловом обходе квадратной матрицы](https://habr.com/ru/articles/780416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780416)
-- [Необходимые свойства качественных рекомендаций в e-commerce](https://habr.com/ru/articles/780366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
