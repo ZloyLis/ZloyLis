@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обычному фронтендеру стать по-настоящему классным фронтендером](https://habr.com/ru/companies/avito/articles/774696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774696)
+- [«Как пресейл инженер телеграм ботом дверь открывал» или «Ты куда полез?»](https://habr.com/ru/articles/780352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780352)
+- [[Перевод] Сообщаются ли ваши тесты?](https://habr.com/ru/companies/otus/articles/780346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780346)
 - [[Перевод] How to add drag and drop to your app](https://habr.com/ru/articles/780344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780344)
 - [Безопасность API веб-приложений](https://habr.com/ru/companies/swordfish_security/articles/780308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780308)
-- [Инструменты продуктового аналитика VK, или Как мы работаем с большими данными](https://habr.com/ru/companies/vk/articles/775060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775060)
-- [Автоматизированное формирование меню надстройки для nanoCAD](https://habr.com/ru/articles/780312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780312)
-- [Kubernetes 1.29: бэкенд на nftables, изменение атрибутов тома и другие фичи](https://habr.com/ru/companies/flant/articles/779700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
