@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [МОДЕЛЬ МИРА](https://habr.com/ru/companies/oleg-bunin/articles/780286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780286)
+- [Kubernetes 1.29: бэкенд на nftables, изменение атрибутов тома и другие фичи](https://habr.com/ru/companies/flant/articles/779700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779700)
+- [Студенты на Хабре: ныть нельзя писать статьи](https://habr.com/ru/companies/habr/articles/780212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780212)
+- [Модель мира](https://habr.com/ru/companies/oleg-bunin/articles/780286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780286)
 - [Vue state management: Pinia stores или composables с глобальные рефами?](https://habr.com/ru/articles/780274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780274)
 - [Настройки безопасности контейнеров и Kubernetes](https://habr.com/ru/articles/780138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780138)
-- [Kotlin под капотом: как избавится от рекурсии](https://habr.com/ru/articles/780232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780232)
-- [[Перевод] SwiftUI: Разбираемся с identity на примере переходов](https://habr.com/ru/companies/otus/articles/780142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
