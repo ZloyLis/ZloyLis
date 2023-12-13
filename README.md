@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue state management: Pania stores или composables с глобальные рефами?](https://habr.com/ru/articles/780274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780274)
+- [Настройки безопасности контейнеров и Kubernetes](https://habr.com/ru/articles/780138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780138)
+- [Kotlin под капотом: как избавится от рекурсии](https://habr.com/ru/articles/780232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780232)
 - [[Перевод] SwiftUI: Разбираемся с identity на примере переходов](https://habr.com/ru/companies/otus/articles/780142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780142)
 - [RFM-сегментация в оптимизации CRM-стратегий](https://habr.com/ru/articles/779652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779652)
-- [Синхронизация в Ktor для самых маленьких](https://habr.com/ru/articles/780164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780164)
-- [Эмуляция бэкенда: как разрабатывать изолированный фронтенд с помощью Mock Service Worker](https://habr.com/ru/articles/780200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780200)
-- [[Перевод] Никто никогда не учит писать качественный софт](https://habr.com/ru/articles/780170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
