@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация импорта значений в типовые отчеты «1С: Бухгалтерия предприятия 3.0​»](https://habr.com/ru/companies/simbirsoft/articles/780298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780298)
 - [Как обычному фронтендеру стать по-настоящему классным фронтендером](https://habr.com/ru/companies/avito/articles/774696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774696)
 - [«Как пресейл инженер телеграм ботом дверь открывал» или «Ты куда полез?»](https://habr.com/ru/articles/780352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780352)
 - [[Перевод] Сообщаются ли ваши тесты?](https://habr.com/ru/companies/otus/articles/780346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780346)
 - [[Перевод] How to add drag and drop to your app](https://habr.com/ru/articles/780344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780344)
-- [Безопасность API веб-приложений](https://habr.com/ru/companies/swordfish_security/articles/780308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
