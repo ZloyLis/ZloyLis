@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability. Часть 1, про логи](https://habr.com/ru/companies/otus/articles/780196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780196)
 - [Композиционное тестирование: новый подход к качеству IT-продуктов](https://habr.com/ru/companies/ppr/articles/780582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780582)
 - [Используем MLOps-конвейер: пример работы с Cloud ML Platform для построения сервиса распознавания лиц](https://habr.com/ru/companies/vk/articles/780050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780050)
 - [Как мы перевернули подход к созданию интерфейсов ОС](https://habr.com/ru/companies/kaspersky/articles/780370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780370)
 - [Разметить всё: как мы настроили систему логирования в приложении каршеринга](https://habr.com/ru/companies/citydrive/articles/780576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780576)
-- [Современный С++ в разработке девайсов](https://habr.com/ru/companies/sberdevices/articles/780476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
