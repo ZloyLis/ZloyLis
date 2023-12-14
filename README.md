@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [42 года BBC Micro и BBC BASIC: как появился этот образовательный инструмент и что с ним сейчас &lpar;спойлер — всё хорошо&rpar;](https://habr.com/ru/companies/sberbank/articles/780556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780556)
+- [Цифровизация: о чём важно не забыть в начале пути](https://habr.com/ru/companies/oleg-bunin/articles/780504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780504)
 - [Подборка: навыки и инструменты начинающего Go-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/779954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779954)
 - [Как мы переводили проект на CMake](https://habr.com/ru/companies/swd_es/articles/773116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773116)
 - [Detekt: как статический анализ помогает улучшить код автотестов](https://habr.com/ru/companies/yandex/articles/779152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779152)
-- [Паттерн Одиночка](https://habr.com/ru/companies/otus/articles/779914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779914)
-- [Массивы в Kotlin](https://habr.com/ru/articles/780492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
