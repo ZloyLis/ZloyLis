@@ -29,8 +29,8 @@ ___
 - [[Перевод] Переход с ETL на ELT](https://habr.com/ru/companies/itsumma/articles/780612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780612)
 - [The Hive. Разбор open source решения](https://habr.com/ru/companies/securityvison/articles/780648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780648)
 - [[Перевод] Внедрение зависимостей с использованием монады Cats-effect Resource](https://habr.com/ru/companies/otus/articles/780636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780636)
-- [Рекомендации яндекс «Куда пойти в Москве»: история моего фиаско](https://habr.com/ru/articles/780626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780626)
 - [Роадмэп по современному фронтенду от KTS](https://habr.com/ru/companies/kts/articles/775948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=775948)
+- [Танец на граблях или тонкости UX-исследований в узких B2B-направлениях](https://habr.com/ru/companies/magnus-tech/articles/779766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
