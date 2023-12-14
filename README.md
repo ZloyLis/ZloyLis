@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Массивы в Kotlin](https://habr.com/ru/articles/780492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780492)
 - [Подключение Google Gemini Pro к проекту на Python](https://habr.com/ru/articles/780488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780488)
 - [Разбор задачи D отборочного этапа Yandex Cup 2023 — iOS](https://habr.com/ru/articles/778194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778194)
 - [[Перевод] Сколько строк на C нужно, чтобы выполнить a + b в Python?](https://habr.com/ru/articles/780386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780386)
 - [От конструктора до облака: какие есть способы разработки мобильных приложений](https://habr.com/ru/companies/imshop/articles/780444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780444)
-- [RFM-сегментация в оптимизации CRM-стратегий](https://habr.com/ru/articles/780330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
