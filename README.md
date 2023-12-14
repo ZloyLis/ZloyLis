@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка: навыки и инструменты начинающего Go-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/779954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779954)
+- [Как мы переводили проект на CMake](https://habr.com/ru/companies/swd_es/articles/773116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773116)
 - [Detekt: как статический анализ помогает улучшить код автотестов](https://habr.com/ru/companies/yandex/articles/779152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779152)
 - [Паттерн Одиночка](https://habr.com/ru/companies/otus/articles/779914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779914)
 - [Массивы в Kotlin](https://habr.com/ru/articles/780492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780492)
-- [Подключение Google Gemini Pro к проекту на Python](https://habr.com/ru/articles/780488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780488)
-- [Разбор задачи D отборочного этапа Yandex Cup 2023 — iOS](https://habr.com/ru/articles/778194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
