@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виджетная система: как масштабировать образовательную платформу без боли и слёз?](https://habr.com/ru/articles/780926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780926)
+- [[Перевод] Что такое аналитический инжиниринг?](https://habr.com/ru/companies/otus/articles/780818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780818)
 - [[Перевод] Классическое программирование на грани вымирания](https://habr.com/ru/companies/ruvds/articles/780646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780646)
 - [Развеиваем мифы о собеседованиях в FAANG](https://habr.com/ru/articles/779512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779512)
 - [[Перевод] Мудреный код — пожалуй, худший выбор](https://habr.com/ru/companies/productivity_inside/articles/780844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780844)
-- [Парадокс Симпсона в АБ-тестах](https://habr.com/ru/articles/780894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780894)
-- [Знакомство с Kubernetes на практике](https://habr.com/ru/articles/780858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
