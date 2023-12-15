@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы искали понятный термин для учеток и доступов, но так и не нашли](https://habr.com/ru/companies/teamdo/articles/780596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780596)
 - [ThrowInDB — Разбираю домашний хлам или сам себе склад](https://habr.com/ru/articles/780704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780704)
 - [Погружение в Smali. До и После. Decompile-Change-Build](https://habr.com/ru/articles/780694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780694)
 - [«Что? Где? Когда?» в названии багов](https://habr.com/ru/articles/780676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780676)
 - [Пора делать нормальных телеграм-ботов #2](https://habr.com/ru/articles/780672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780672)
-- [[Перевод] Переход с ETL на ELT](https://habr.com/ru/companies/itsumma/articles/780612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
