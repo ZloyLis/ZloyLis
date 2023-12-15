@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка способов cybergogy для владения естественными иностранными языками](https://habr.com/ru/articles/780834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780834)
+- [Пуш-уведомления RuStore](https://habr.com/ru/companies/vk/articles/780666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780666)
 - [Сниппеты вне зависимости от редактора](https://habr.com/ru/articles/779890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779890)
 - [Huginn. Мозговой центр PaaS](https://habr.com/ru/companies/sbermarket/articles/780408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780408)
-- [Бизнес-махина из 2007 года: каким был топовый бизнес-коммуникатор 2007 года — HTC X7500?](https://habr.com/ru/companies/timeweb/articles/780230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780230)
-- [[Перевод] Kubernetes и Kernel Panic](https://habr.com/ru/companies/vk/articles/780628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780628)
-- [[Перевод] Продвинутые техники извлечения данных для достижения максимальной производительности](https://habr.com/ru/companies/otus/articles/780802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780802)
+- [Бизнес-махина из прошлого: каким был топовый бизнес-коммуникатор 2007 года — HTC X7500?](https://habr.com/ru/companies/timeweb/articles/780230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
