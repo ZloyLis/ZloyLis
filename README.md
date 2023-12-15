@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес-махина из 2007 года: каким был топовый бизнес-коммуникатор 2007 года — HTC X7500?](https://habr.com/ru/companies/timeweb/articles/780230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780230)
+- [[Перевод] Kubernetes и Kernel Panic](https://habr.com/ru/companies/vk/articles/780628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780628)
+- [[Перевод] Продвинутые техники извлечения данных для достижения максимальной производительности](https://habr.com/ru/companies/otus/articles/780802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780802)
 - [Как прошло обновление курса «Python-разработчик»: новые сюжеты, Pytest и переработка алгоритмов](https://habr.com/ru/companies/yandex_praktikum/articles/778886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778886)
 - [LSTM и GRU](https://habr.com/ru/companies/mvideo/articles/780774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780774)
-- [Камерофон — кирпич](https://habr.com/ru/articles/780766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780766)
-- [Математика для взрослых. Дорожная карта от выпускника Хармфульского клуба математики](https://habr.com/ru/companies/gaz-is/articles/779998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779998)
-- [Как мы искали понятный термин для учеток и доступов, но так и не нашли](https://habr.com/ru/companies/teamdo/articles/780596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
