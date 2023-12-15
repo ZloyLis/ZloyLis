@@ -26,8 +26,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность DevOps. Обучение сотрудников](https://habr.com/ru/companies/globalsign/articles/780964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780964)
 - [Обзор онтологического Low-code подхода к разработке решений класса ERP](https://habr.com/ru/articles/780954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780954)
-- [Организация корпоративной серверной ИТ-инфраструктуры &lpar;50, 100, 200 пользователей&rpar;](https://habr.com/ru/articles/780946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780946)
 - [Виджетная система: как масштабировать образовательную платформу без боли и слёз?](https://habr.com/ru/articles/780926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780926)
 - [[Перевод] Что такое аналитический инжиниринг?](https://habr.com/ru/companies/otus/articles/780818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780818)
 - [[Перевод] Классическое программирование на грани вымирания](https://habr.com/ru/companies/ruvds/articles/780646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780646)
