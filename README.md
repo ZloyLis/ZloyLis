@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как прошло обновление курса «Python-разработчик»: новые сюжеты, Pytest и переработка алгоритмов](https://habr.com/ru/companies/yandex_praktikum/articles/778886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778886)
 - [LSTM и GRU](https://habr.com/ru/companies/mvideo/articles/780774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780774)
 - [Камерофон — кирпич](https://habr.com/ru/articles/780766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780766)
 - [Математика для взрослых. Дорожная карта от выпускника Хармфульского клуба математики](https://habr.com/ru/companies/gaz-is/articles/779998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779998)
 - [Как мы искали понятный термин для учеток и доступов, но так и не нашли](https://habr.com/ru/companies/teamdo/articles/780596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780596)
-- [ThrowInDB — Разбираю домашний хлам или сам себе склад](https://habr.com/ru/articles/780704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
