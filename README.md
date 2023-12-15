@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Классическое программирование на грани вымирания](https://habr.com/ru/companies/ruvds/articles/780646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780646)
+- [Развеиваем мифы о собеседованиях в FAANG](https://habr.com/ru/articles/779512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779512)
+- [[Перевод] Мудреный код — пожалуй, худший выбор](https://habr.com/ru/companies/productivity_inside/articles/780844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780844)
+- [Парадокс Симпсона в АБ-тестах](https://habr.com/ru/articles/780894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780894)
 - [Знакомство с Kubernetes на практике](https://habr.com/ru/articles/780858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780858)
-- [Разработка способов cybergogy для владения естественными иностранными языками](https://habr.com/ru/articles/780834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780834)
-- [Пуш-уведомления RuStore](https://habr.com/ru/companies/vk/articles/780666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780666)
-- [Сниппеты вне зависимости от редактора](https://habr.com/ru/articles/779890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779890)
-- [Huginn. Мозговой центр PaaS](https://habr.com/ru/companies/sbermarket/articles/780408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
