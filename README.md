@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему перфекционизм — наш враг: 5 лайфхаков, как с ним бороться](https://habr.com/ru/articles/781018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781018)
 - [Изучаем и парсим биржевую информацию Мосбиржи. Наш первый парсер на Python, разбор кода](https://habr.com/ru/articles/781006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781006)
 - [Я нашёл сид Мэла &lpar;melharucos&rpar; в Майнкрафте](https://habr.com/ru/articles/781002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781002)
 - [Как мы выстроили эффективный онбординг для команды системных аналитиков, чтобы вырасти в 10 раз](https://habr.com/ru/companies/magnit/articles/780896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780896)
 - [Facebook выпустил новую CSS-in-JS библиотеку — StyleX](https://habr.com/ru/articles/781000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781000)
-- [Так всё-таки нужны программисту алгоритмы или нет?](https://habr.com/ru/articles/780982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
