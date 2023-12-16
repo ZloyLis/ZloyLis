@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мамкин программист про ИИ, «программисты скоро будут не нужны» и прочие страшилки](https://habr.com/ru/articles/781048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781048)
+- [Процесс разработки приложения Python по дедубликации файлов с использованием контрольных сумм](https://habr.com/ru/articles/781046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781046)
+- [Попытка запустить стартап на европейском рынке спортивных событий](https://habr.com/ru/articles/780824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780824)
 - [Kubernetes, ищем базу](https://habr.com/ru/articles/781040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781040)
 - [Ускорение игрового 2D движка Flame до стабильных максимальных FPS на телефонах и ПК](https://habr.com/ru/articles/781028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781028)
-- [Сборка мусора в JavaScript](https://habr.com/ru/articles/779186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779186)
-- [Почему перфекционизм — наш враг: 5 лайфхаков, как с ним бороться](https://habr.com/ru/articles/781018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781018)
-- [Изучаем и парсим биржевую информацию Мосбиржи. Наш первый парсер на Python, разбор кода](https://habr.com/ru/articles/781006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
