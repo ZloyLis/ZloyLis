@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я нашёл сид Мэла &lpar;melharucos&rpar; в Майнкрафте](https://habr.com/ru/articles/781002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781002)
+- [Как мы выстроили эффективный онбординг для команды системных аналитиков, чтобы вырасти в 10 раз](https://habr.com/ru/companies/magnit/articles/780896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780896)
+- [Facebook выпустил новую CSS-in-JS библиотеку — StyleX](https://habr.com/ru/articles/781000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781000)
 - [Так всё-таки нужны программисту алгоритмы или нет?](https://habr.com/ru/articles/780982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780982)
 - [Дизайн: ожидание vs реальность](https://habr.com/ru/articles/780974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780974)
-- [Безопасность DevOps. Обучение сотрудников](https://habr.com/ru/companies/globalsign/articles/780964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780964)
-- [Обзор онтологического Low-code подхода к разработке решений класса ERP](https://habr.com/ru/articles/780954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780954)
-- [Виджетная система: как масштабировать образовательную платформу без боли и слёз?](https://habr.com/ru/articles/780926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
