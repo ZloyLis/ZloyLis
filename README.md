@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой сервис аутентификации. SpringBootSecurity](https://habr.com/ru/articles/781066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781066)
+- [АБ тесты и подводные камни при их автоматизации](https://habr.com/ru/articles/781060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781060)
 - [Мамкин программист про ИИ, «программисты скоро будут не нужны» и прочие страшилки](https://habr.com/ru/articles/781048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781048)
 - [Процесс разработки приложения Python по дедубликации файлов с использованием контрольных сумм](https://habr.com/ru/articles/781046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781046)
 - [Попытка запустить стартап на европейском рынке спортивных событий](https://habr.com/ru/articles/780824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780824)
-- [Kubernetes, ищем базу](https://habr.com/ru/articles/781040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781040)
-- [Ускорение игрового 2D движка Flame до стабильных максимальных FPS на телефонах и ПК](https://habr.com/ru/articles/781028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
