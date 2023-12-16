@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускорение игрового 2D движка Flame до стабильных максимальных FPS на телефонах и ПК](https://habr.com/ru/articles/781028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781028)
 - [Сборка мусора в JavaScript](https://habr.com/ru/articles/779186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779186)
 - [Почему перфекционизм — наш враг: 5 лайфхаков, как с ним бороться](https://habr.com/ru/articles/781018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781018)
 - [Изучаем и парсим биржевую информацию Мосбиржи. Наш первый парсер на Python, разбор кода](https://habr.com/ru/articles/781006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781006)
 - [Я нашёл сид Мэла &lpar;melharucos&rpar; в Майнкрафте](https://habr.com/ru/articles/781002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781002)
-- [Как мы выстроили эффективный онбординг для команды системных аналитиков, чтобы вырасти в 10 раз](https://habr.com/ru/companies/magnit/articles/780896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
