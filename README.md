@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Проектирование аналога Google Docs](https://habr.com/ru/companies/ruvds/articles/780356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780356)
 - [Язык программирования R для статистической обработки данных](https://habr.com/ru/articles/781086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781086)
 - [Простой сервис аутентификации. SpringBootSecurity](https://habr.com/ru/articles/781066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781066)
 - [АБ тесты и подводные камни при их автоматизации](https://habr.com/ru/articles/781060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781060)
 - [Мамкин программист про ИИ, «программисты скоро будут не нужны» и прочие страшилки](https://habr.com/ru/articles/781048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781048)
-- [Процесс разработки приложения Python по дедубликации файлов с использованием контрольных сумм](https://habr.com/ru/articles/781046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
