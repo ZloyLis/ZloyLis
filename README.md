@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор на новую CSS-in-JS либу от Facebook* – StyleX](https://habr.com/ru/articles/781166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781166)
 - [Как польские математики взломали Энигму](https://habr.com/ru/articles/781154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781154)
 - [MIDI → Метр → MIDI](https://habr.com/ru/articles/781146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781146)
 - [PyZelda своими руками или как геймдевить без Unreal, Unity и кредитов](https://habr.com/ru/articles/781130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781130)
 - [WF2M сеть. Формализм и математика workflow](https://habr.com/ru/articles/781124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781124)
-- [[Перевод] Генезис-файлы. Часть II: Hashcash или как Адам Бэк разработал сердце Биткоина](https://habr.com/ru/articles/781108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
