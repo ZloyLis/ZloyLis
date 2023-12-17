@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пора делать нормальных телеграм-ботов #3](https://habr.com/ru/articles/781190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781190)
 - [Мобильная разработка за неделю #519 &lpar;11 — 17 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/781182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781182)
 - [Обзор на новую CSS-in-JS либу от Facebook* – StyleX](https://habr.com/ru/articles/781166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781166)
 - [Как польские математики взломали Энигму](https://habr.com/ru/articles/781154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781154)
 - [MIDI → Метр → MIDI](https://habr.com/ru/articles/781146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781146)
-- [PyZelda своими руками или как геймдевить без Unreal, Unity и кредитов](https://habr.com/ru/articles/781130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
