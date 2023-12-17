@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хостинг по паспорту все ближе: новые изменения в законодательстве](https://habr.com/ru/articles/781196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781196)
 - [Тестовое в Firefly Studios или игра за час](https://habr.com/ru/articles/781034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781034)
 - [Как рендерить R Markdown в PDF на кириллице](https://habr.com/ru/articles/781136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781136)
 - [Пора делать нормальных телеграм-ботов #3](https://habr.com/ru/articles/781190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781190)
 - [Мобильная разработка за неделю #519 &lpar;11 — 17 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/781182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781182)
-- [Обзор на новую CSS-in-JS либу от Facebook* – StyleX](https://habr.com/ru/articles/781166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
