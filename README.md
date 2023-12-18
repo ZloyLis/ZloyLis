@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я документацию для дизайн-токенов в Storybook генерировал](https://habr.com/ru/articles/779524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779524)
+- [Это база. Как прокачиваются сервисные инженеры КРОК](https://habr.com/ru/companies/croc/articles/780934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780934)
 - [Обзор LiveWire 3 и Volt](https://habr.com/ru/articles/781142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781142)
 - [gRPC](https://habr.com/ru/companies/otus/articles/780720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780720)
 - [Создаем federated plugin для Flutter-проекта](https://habr.com/ru/companies/friflex/articles/780956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780956)
-- [[Перевод] Как на самом деле Async/Await работают в C#. Часть 1. Проблемы модели асинхронного программирования &lpar;APM&rpar;](https://habr.com/ru/articles/781058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781058)
-- [Задача на 15 минут. Как она может вылиться в год разработки](https://habr.com/ru/articles/781216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
