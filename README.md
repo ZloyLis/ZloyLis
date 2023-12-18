@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как на самом деле Async/Await работают в C#. Часть 1. Проблемы модели асинхронного программирования &lpar;APM&rpar;](https://habr.com/ru/articles/781058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781058)
 - [Задача на 15 минут. Как она может вылиться в год разработки](https://habr.com/ru/articles/781216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781216)
 - [Хостинг по паспорту все ближе: новые изменения в законодательстве](https://habr.com/ru/articles/781196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781196)
 - [Тестовое в Firefly Studios или игра за час](https://habr.com/ru/articles/781034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781034)
 - [Как рендерить R Markdown в PDF на кириллице](https://habr.com/ru/articles/781136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781136)
-- [Пора делать нормальных телеграм-ботов #3](https://habr.com/ru/articles/781190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
