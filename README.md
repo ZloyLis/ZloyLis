@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CX Camp Росбанка: что мы узнали о клиентском опыте и его трансформации с помощью jobs to be done](https://habr.com/ru/companies/rosbank/articles/781354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781354)
 - [Нормальное распределение по-пацански: часть 1](https://habr.com/ru/articles/781322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781322)
 - [Открываем курс по Kubernetes и рассказываем, зачем разработчику знать DevOps](https://habr.com/ru/companies/kts/articles/781310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781310)
 - [Модульная запутанность. Как распарсить одну модель в разных модулях](https://habr.com/ru/articles/781292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781292)
 - [Object-Relational Mapping &lpar;ORM&rpar; в Golang](https://habr.com/ru/companies/otus/articles/780902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780902)
-- [Как выпустить ML-сервис в прод малыми силами: кейс работы в облаке](https://habr.com/ru/companies/vk/articles/780632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
