@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [CX Camp Росбанка: что мы узнали о клиентском опыте и его трансформации с помощью jobs to be done](https://habr.com/ru/companies/rosbank/articles/781354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781354)
-- [Нормальное распределение по-пацански: часть 1](https://habr.com/ru/articles/781322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781322)
-- [Открываем курс по Kubernetes и рассказываем, зачем разработчику знать DevOps](https://habr.com/ru/companies/kts/articles/781310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781310)
-- [Модульная запутанность. Как распарсить одну модель в разных модулях](https://habr.com/ru/articles/781292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781292)
-- [Object-Relational Mapping &lpar;ORM&rpar; в Golang](https://habr.com/ru/companies/otus/articles/780902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780902)
+- [Тестируем приложение как сын маминой подруги или взгляд на Trace Based Testing](https://habr.com/ru/companies/banki/articles/781388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781388)
+- [Готовы ли госкорпорации тратить из бюджетов не менее 70% на ПО-вендоров](https://habr.com/ru/articles/781384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781384)
+- [Security Week 2351: фантомные корпоративные учетки в экосистеме Google](https://habr.com/ru/companies/kaspersky/articles/781374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781374)
+- [Управляем школьниками, не привлекая внимание санитаров](https://habr.com/ru/articles/781372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781372)
+- [Сбалансированные данные – успех в ML: Oversampling и Undersampling](https://habr.com/ru/companies/otus/articles/781042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
