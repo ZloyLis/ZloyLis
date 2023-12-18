@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я чуть не стал миллионером, продавая воздух, или почему Россия – не Америка](https://habr.com/ru/articles/781440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781440)
 - [[Перевод] Воспринимайте жизнь как игру, и она станет более понятной](https://habr.com/ru/companies/ispmanager/articles/781482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781482)
 - [Краткое руководство по анализу данных и проведению продуктовых исследований](https://habr.com/ru/articles/781466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781466)
 - [Apple Pro Weekly News &lpar;11.12 – 17.12.23&rpar;](https://habr.com/ru/articles/781462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781462)
 - [Зачем Программисту Микроконтроллеров Математическая Статистика? &lpar;или так ли хороши UWB трансиверы?&rpar;](https://habr.com/ru/articles/712616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712616)
-- [Валидация формы с помощью AJV, Vue.js и TypeScript](https://habr.com/ru/articles/781450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
