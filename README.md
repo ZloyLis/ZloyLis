@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Открываем курс по Kubernetes и рассказываем, зачем разработчику знать DevOps](https://habr.com/ru/companies/kts/articles/781310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781310)
+- [Модульная запутанность. Как распарсить одну модель в разных модулях](https://habr.com/ru/articles/781292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781292)
+- [Object-Relational Mapping &lpar;ORM&rpar; в Golang](https://habr.com/ru/companies/otus/articles/780902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780902)
 - [Как выпустить ML-сервис в прод малыми силами: кейс работы в облаке](https://habr.com/ru/companies/vk/articles/780632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780632)
 - [Интеграция Keycloak в приложение Spring Boot 3 с использованием протокола OAuth2.0](https://habr.com/ru/companies/axenix/articles/780422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780422)
-- [Как я документацию для дизайн-токенов в Storybook генерировал](https://habr.com/ru/articles/779524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779524)
-- [Это база. Как прокачиваются сервисные инженеры КРОК](https://habr.com/ru/companies/croc/articles/780934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780934)
-- [Обзор LiveWire 3 и Volt](https://habr.com/ru/articles/781142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
