@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор LiveWire 3 и Volt](https://habr.com/ru/articles/781142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781142)
+- [gRPC](https://habr.com/ru/companies/otus/articles/780720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780720)
+- [Создаем federated plugin для Flutter-проекта](https://habr.com/ru/companies/friflex/articles/780956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780956)
 - [[Перевод] Как на самом деле Async/Await работают в C#. Часть 1. Проблемы модели асинхронного программирования &lpar;APM&rpar;](https://habr.com/ru/articles/781058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781058)
 - [Задача на 15 минут. Как она может вылиться в год разработки](https://habr.com/ru/articles/781216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781216)
-- [Хостинг по паспорту все ближе: новые изменения в законодательстве](https://habr.com/ru/articles/781196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781196)
-- [Тестовое в Firefly Studios или игра за час](https://habr.com/ru/articles/781034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781034)
-- [Как рендерить R Markdown в PDF на кириллице](https://habr.com/ru/articles/781136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
