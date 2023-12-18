@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы внедряли Sentry. Часть 2 — внедрение в разработку](https://habr.com/ru/articles/781446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781446)
 - [Инфобез в компаниях: обучать или не обучать?](https://habr.com/ru/specials/780698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780698)
 - [Развлекаемся с Джулией](https://habr.com/ru/articles/781422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781422)
 - [Переход от монолита к микросервисам в финтех: практический кейс](https://habr.com/ru/articles/781412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781412)
 - [GPT-like модель «впервые сделала научное открытие»: что, как и куда дальше?](https://habr.com/ru/companies/ods/articles/781138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781138)
-- [[Перевод] Векторные представления — что это такое, и почему в них важно разбираться](https://habr.com/ru/articles/781408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
