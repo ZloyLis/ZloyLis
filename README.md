@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Развлекаемся с Джулией](https://habr.com/ru/articles/781422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781422)
+- [Переход от монолита к микросервисам в финтех: практический кейс](https://habr.com/ru/articles/781412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781412)
+- [GPT-like модель «впервые сделала научное открытие»: что, как и куда дальше?](https://habr.com/ru/companies/ods/articles/781138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781138)
+- [[Перевод] Векторные представления — что это такое, и почему в них важно разбираться](https://habr.com/ru/articles/781408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781408)
 - [Как подготовиться к собеседованию по System Design мобильному разработчику](https://habr.com/ru/articles/781404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781404)
-- [Тестируем приложение как сын маминой подруги или взгляд на Trace Based Testing](https://habr.com/ru/companies/banki/articles/781388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781388)
-- [Готовы ли госкорпорации тратить из бюджетов не менее 70% на ПО-вендоров](https://habr.com/ru/articles/781384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781384)
-- [Security Week 2351: фантомные корпоративные учетки в экосистеме Google](https://habr.com/ru/companies/kaspersky/articles/781374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781374)
-- [Управляем школьниками, не привлекая внимание санитаров](https://habr.com/ru/articles/781372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
