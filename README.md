@@ -27,7 +27,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple Pro Weekly News &lpar;11.12 – 17.12.23&rpar;](https://habr.com/ru/articles/781462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781462)
-- [Зачем Программисту Микроконтроллеров Математическая Статистика? &lpar;или Так ли Хороши UWB Трансиверы?&rpar;](https://habr.com/ru/articles/712616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712616)
+- [Зачем программисту микроконтроллеров математическая статистика? &lpar;или так ли хороши UWB трансиверы?&rpar;](https://habr.com/ru/articles/712616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712616)
 - [Валидация формы с помощью AJV, Vue.js и TypeScript](https://habr.com/ru/articles/781450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781450)
 - [Как мы внедряли Sentry. Часть 2 — внедрение в разработку](https://habr.com/ru/articles/781446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781446)
 - [Инфобез в компаниях: обучать или не обучать?](https://habr.com/ru/specials/780698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780698)
