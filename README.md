@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На чем основана логика? Часть 1. Алгебра множеств без аксиом](https://habr.com/ru/articles/781386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781386)
+- [[Перевод] Фильтр Блума для эффективной синхронизации хеш-графов](https://habr.com/ru/companies/piter/articles/781432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781432)
 - [От робототехника до промпт-инженера: кем стать, чтобы быть востребованным в 2024 году](https://habr.com/ru/companies/netologyru/articles/781664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781664)
 - [Event Sourcing и CQRS в Go](https://habr.com/ru/companies/otus/articles/781302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781302)
 - [Кипучий СКУД](https://habr.com/ru/companies/omk-it/articles/781542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781542)
-- [Анализ безопасности приложений, использующих GraphQL API](https://habr.com/ru/companies/bastion/articles/776762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776762)
-- [Наблюдаемость качества разработки: от субъективных суждений к объективным данным](https://habr.com/ru/companies/oleg-bunin/articles/781580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
