@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ключ от всех дверей: единый провайдер аутентификации Blitz IDP](https://habr.com/ru/companies/nlmk/articles/780536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780536)
-- [Работа с хранилищами в Kubernetes: руководство для инженеров](https://habr.com/ru/companies/T1Holding/articles/781368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781368)
-- [FizzBuzz for Senior](https://habr.com/ru/articles/781256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781256)
-- [Математика и физика для простой и результативной учёбы &lpar;Серия: Cельскому учителю в помощь&rpar;. Часть I](https://habr.com/ru/articles/781498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781498)
-- [Stone. Квалификаторы и идентификаторы](https://habr.com/ru/articles/781472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781472)
+- [Заглядываем в консоль: пасхалки и приглашения на работу, которые вы могли пропустить](https://habr.com/ru/companies/timeweb/articles/781376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781376)
+- [Рефакторинг кода, и как его не бояться](https://habr.com/ru/articles/781538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781538)
+- [Идемпотентность: больше, чем кажется](https://habr.com/ru/companies/domclick/articles/779872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779872)
+- [Проектирование БД рекомендательной системы по подходу DB-first](https://habr.com/ru/articles/781550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781550)
+- [Фреймворк для дизайна A/B-теста](https://habr.com/ru/articles/780932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
