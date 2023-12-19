@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кодирование числа в Micro QR Code версии М1](https://habr.com/ru/articles/781772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781772)
 - [Auto-Scaling в телеграм-ботах](https://habr.com/ru/companies/otus/articles/781458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781458)
 - [К вопросу о числах](https://habr.com/ru/articles/781734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781734)
 - [Работаем с enum в kotlin/jvm правильно](https://habr.com/ru/articles/781730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781730)
 - [Предновогоднее шоу: Топ 10 ошибок в C и С++ проектах в 2023 году](https://habr.com/ru/companies/pvs-studio/articles/781722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781722)
-- [Метод подбора параметров функции за ограниченное время, который вас обманет. Торговый симулятор + улучшение стратегии](https://habr.com/ru/articles/762342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
