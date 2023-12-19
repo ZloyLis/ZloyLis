@@ -29,7 +29,7 @@ ___
 - [К вопросу о числах](https://habr.com/ru/articles/781734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781734)
 - [Работаем с enum в kotlin/jvm правильно](https://habr.com/ru/articles/781730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781730)
 - [Предновогоднее шоу: Топ 10 ошибок в C и С++ проектах в 2023 году](https://habr.com/ru/companies/pvs-studio/articles/781722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781722)
-- [Метод подбора параметров функции за константное время. Готовый торговый симулятор + улучшение Вашей стратегии](https://habr.com/ru/articles/762342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762342)
+- [Метод подбора параметров функции за ограниченное время, который вас обманет. Торговый симулятор + улучшение стратегии](https://habr.com/ru/articles/762342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762342)
 - [[Перевод] Эволюция enum](https://habr.com/ru/companies/otus/articles/781712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781712)
 <!-- BLOG-POST-LIST:END -->
 
