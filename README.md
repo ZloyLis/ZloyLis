@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [На чем основана логика? Часть 1. Алгебра множеств без аксиом](https://habr.com/ru/articles/781386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781386)
-- [[Перевод] Фильтр Блума для эффективной синхронизации хеш-графов](https://habr.com/ru/companies/piter/articles/781432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781432)
-- [От робототехника до промпт-инженера: кем стать, чтобы быть востребованным в 2024 году](https://habr.com/ru/companies/netologyru/articles/781664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781664)
-- [Event Sourcing и CQRS в Go](https://habr.com/ru/companies/otus/articles/781302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781302)
-- [Кипучий СКУД](https://habr.com/ru/companies/omk-it/articles/781542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781542)
+- [Transition Animation: настраиваем анимацию переходов во Flutter](https://habr.com/ru/companies/agima/articles/781634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781634)
+- [Продукт 2.0: разработать стратегию, чтобы в неё поверили, и не сойти с ума](https://habr.com/ru/companies/alfa/articles/780616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780616)
+- [Интеграция системы «Антифрод» в работу операторов: требования к программному обеспечению и эффективность API](https://habr.com/ru/companies/newtel/articles/781696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781696)
+- [Куда движется российский рынок ИБ и как современная защита реагирует на актуальные киберугрозы](https://habr.com/ru/companies/pt/articles/781690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781690)
+- [Типизация моделей составных чисел](https://habr.com/ru/articles/781264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
