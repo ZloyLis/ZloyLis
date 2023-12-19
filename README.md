@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Заглядываем в консоль: пасхалки и приглашения на работу, которые вы могли пропустить](https://habr.com/ru/companies/timeweb/articles/781376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781376)
-- [Рефакторинг кода, и как его не бояться](https://habr.com/ru/articles/781538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781538)
-- [Идемпотентность: больше, чем кажется](https://habr.com/ru/companies/domclick/articles/779872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779872)
-- [Проектирование БД рекомендательной системы по подходу DB-first](https://habr.com/ru/articles/781550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781550)
-- [Фреймворк для дизайна A/B-теста](https://habr.com/ru/articles/780932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780932)
+- [Анализ безопасности приложений, использующих GraphQL API](https://habr.com/ru/companies/bastion/articles/776762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776762)
+- [Наблюдаемость качества разработки: от субъективных суждений к объективным данным](https://habr.com/ru/companies/oleg-bunin/articles/781580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781580)
+- [[Перевод] Обеспечение безопасности Kubernetes с помощью Open Policy Agent &lpar;OPA&rpar;](https://habr.com/ru/companies/slurm/articles/781588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781588)
+- [Как тестировать без требований? Или как убедить разраба и себя, что это баг](https://habr.com/ru/articles/781566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781566)
+- [Расчетная архитектура платформы для A/B-тестов Mail.Ru](https://habr.com/ru/companies/vk/articles/781300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
