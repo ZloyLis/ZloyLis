@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Математика и физика для простой и результативной учёбы &lpar;Серия: Cельскому учителю в помощь&rpar;. Часть II: Предмет математики](https://habr.com/ru/articles/781786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781786)
-- [Никогда не забывай об этом, когда делаешь open-source проект](https://habr.com/ru/articles/781662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781662)
 - [Кодирование числа в Micro QR Code версии М1](https://habr.com/ru/articles/781772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781772)
 - [Auto-Scaling в телеграм-ботах](https://habr.com/ru/companies/otus/articles/781458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781458)
 - [К вопросу о числах](https://habr.com/ru/articles/781734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781734)
+- [Работаем с enum в kotlin/jvm правильно](https://habr.com/ru/articles/781730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
