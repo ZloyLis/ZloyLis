@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ключ от всех дверей: единый провайдер аутентификации Blitz IDP](https://habr.com/ru/companies/nlmk/articles/780536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780536)
+- [Работа с хранилищами в Kubernetes: руководство для инженеров](https://habr.com/ru/companies/T1Holding/articles/781368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781368)
 - [FizzBuzz for Senior](https://habr.com/ru/articles/781256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781256)
 - [Математика и физика для простой и результативной учёбы &lpar;Серия: Cельскому учителю в помощь&rpar;. Часть I](https://habr.com/ru/articles/781498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781498)
 - [Stone. Квалификаторы и идентификаторы](https://habr.com/ru/articles/781472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781472)
-- [CLI&#39;нический парсинг](https://habr.com/ru/articles/781496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781496)
-- [Как я чуть не стал миллионером, продавая воздух, или почему Россия – не Америка](https://habr.com/ru/articles/781440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
