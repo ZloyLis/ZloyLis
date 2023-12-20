@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание эмулятора игр MS-DOS в Kubernetes](https://habr.com/ru/companies/ruvds/articles/781902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781902)
+- [Just DUIT — первый взгляд на server-driven UI фреймворк для Flutter](https://habr.com/ru/articles/781954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781954)
+- [Особенности подготовки текстов для правильного воспроизведения в программах для незрячих](https://habr.com/ru/companies/beeline_tech/articles/781944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781944)
 - [Метрики для оценки эффективности команд на удаленке и не только](https://habr.com/ru/companies/alfa/articles/781654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781654)
 - [Fullstack разработка: создаём MVP – путь от технического задания до интеграции](https://habr.com/ru/articles/781940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781940)
-- [Оптимизатор ремонтов грузовых вагонов, что за зверь?](https://habr.com/ru/companies/pgk/articles/781928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781928)
-- [Хотел устроиться Python-разработчиком, стал мидлом в QA-отделе — как я искал первую работу](https://habr.com/ru/companies/yandex_praktikum/articles/780888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780888)
-- [Оптимизация и автоматизация в бэкенд-разработке мобильных приложений: как ускорить разработку в четыре раза](https://habr.com/ru/companies/uchi_ru/articles/781656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
