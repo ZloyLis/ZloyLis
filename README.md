@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как прогнозировать время выполнения задач](https://habr.com/ru/companies/tinkoff/articles/782012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782012)
+- [Помощник для QA Engineer – ChatGPT](https://habr.com/ru/articles/782030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782030)
+- [Telegram бот для доставки torrent контента с телефона до телевизора](https://habr.com/ru/articles/782028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782028)
 - [[Перевод] Анатомия shadcn/ui](https://habr.com/ru/companies/timeweb/articles/781346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781346)
 - [Победа над ORM путем кодогенерации](https://habr.com/ru/articles/781982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781982)
-- [Как в Великобритании судились с программистами](https://habr.com/ru/companies/onlinepatent/articles/781974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781974)
-- [[Перевод] Создание эмулятора игр MS-DOS в Kubernetes](https://habr.com/ru/companies/ruvds/articles/781902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781902)
-- [Just DUIT — первый взгляд на server-driven UI фреймворк для Flutter](https://habr.com/ru/articles/781954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
