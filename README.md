@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET CLI — Зачем загружать все родительские сборки при загрузке сборки](https://habr.com/ru/articles/781788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781788)
+- [Как выбрать шрифт для кодинга](https://habr.com/ru/companies/sberbank/articles/781834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781834)
+- [Разносим по полочкам этапы тестирования http запросов в Spring](https://habr.com/ru/articles/781812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781812)
+- [Автоматическое создание карточек слов для изучения иностранного языка или интеграция google translate в google sheets](https://habr.com/ru/articles/781820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781820)
 - [Математика и физика для простой и результативной учёбы &lpar;Серия: Cельскому учителю в помощь&rpar;. Часть II: Предмет математики](https://habr.com/ru/articles/781786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781786)
-- [Кодирование числа в Micro QR Code версии М1](https://habr.com/ru/articles/781772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781772)
-- [Auto-Scaling в телеграм-ботах](https://habr.com/ru/companies/otus/articles/781458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781458)
-- [К вопросу о числах](https://habr.com/ru/articles/781734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781734)
-- [Работаем с enum в kotlin/jvm правильно](https://habr.com/ru/articles/781730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
