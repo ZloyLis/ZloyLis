@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контейнеризация справочников НСИ](https://habr.com/ru/companies/nornickel/articles/781716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781716)
+- [Секреты USA в Micro QR Code M4 &lpar;часть 1&rpar;](https://habr.com/ru/articles/781858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781858)
+- [Server-Side Rendering &lpar;SSR&rpar; в фуллстак приложениях](https://habr.com/ru/companies/otus/articles/779896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779896)
+- [Разработка мобильных приложений для бизнеса: как создавать кроссплатформенные решения быстро и относительно дешево](https://habr.com/ru/articles/781840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781840)
 - [.NET CLI — Зачем загружать все родительские сборки при загрузке сборки](https://habr.com/ru/articles/781788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781788)
-- [Как выбрать шрифт для кодинга](https://habr.com/ru/companies/sberbank/articles/781834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781834)
-- [Разносим по полочкам этапы тестирования http запросов в Spring](https://habr.com/ru/articles/781812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781812)
-- [Автоматическое создание карточек слов для изучения иностранного языка или интеграция google translate в google sheets](https://habr.com/ru/articles/781820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781820)
-- [Математика и физика для простой и результативной учёбы &lpar;Серия: Cельскому учителю в помощь&rpar;. Часть II: Предмет математики](https://habr.com/ru/articles/781786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
