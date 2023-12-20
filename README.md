@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метрики для оценки эффективности команд на удаленке и не только](https://habr.com/ru/companies/alfa/articles/781654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781654)
+- [Fullstack разработка: создаём MVP – путь от технического задания до интеграции](https://habr.com/ru/articles/781940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781940)
+- [Оптимизатор ремонтов грузовых вагонов, что за зверь?](https://habr.com/ru/companies/pgk/articles/781928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781928)
 - [Хотел устроиться Python-разработчиком, стал мидлом в QA-отделе — как я искал первую работу](https://habr.com/ru/companies/yandex_praktikum/articles/780888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780888)
 - [Оптимизация и автоматизация в бэкенд-разработке мобильных приложений: как ускорить разработку в четыре раза](https://habr.com/ru/companies/uchi_ru/articles/781656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781656)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 4](https://habr.com/ru/companies/ruvds/articles/776392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776392)
-- [Квиз со звёздочкой для С++ программистов от Сергея Кушниренко](https://habr.com/ru/companies/pvs-studio/articles/781878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781878)
-- [Прыжок по облакам: кейс миграции MS SQL Server из Azure в VK Cloud](https://habr.com/ru/companies/vk/articles/781278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
