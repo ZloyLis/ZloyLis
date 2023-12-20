@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Анатомия shadcn/ui](https://habr.com/ru/companies/timeweb/articles/781346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781346)
+- [Победа над ORM путем кодогенерации](https://habr.com/ru/articles/781982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781982)
+- [Как в Великобритании судились с программистами](https://habr.com/ru/companies/onlinepatent/articles/781974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781974)
 - [[Перевод] Создание эмулятора игр MS-DOS в Kubernetes](https://habr.com/ru/companies/ruvds/articles/781902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781902)
 - [Just DUIT — первый взгляд на server-driven UI фреймворк для Flutter](https://habr.com/ru/articles/781954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781954)
-- [Особенности подготовки текстов для правильного воспроизведения в программах для незрячих](https://habr.com/ru/companies/beeline_tech/articles/781944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781944)
-- [Метрики для оценки эффективности команд на удаленке и не только](https://habr.com/ru/companies/alfa/articles/781654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781654)
-- [Fullstack разработка: создаём MVP – путь от технического задания до интеграции](https://habr.com/ru/articles/781940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
