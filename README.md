@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хотел устроиться Python-разработчиком, стал мидлом в QA-отделе — как я искал первую работу](https://habr.com/ru/companies/yandex_praktikum/articles/780888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780888)
+- [Оптимизация и автоматизация в бэкенд-разработке мобильных приложений: как ускорить разработку в четыре раза](https://habr.com/ru/companies/uchi_ru/articles/781656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781656)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 4](https://habr.com/ru/companies/ruvds/articles/776392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776392)
 - [Квиз со звёздочкой для С++ программистов от Сергея Кушниренко](https://habr.com/ru/companies/pvs-studio/articles/781878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781878)
 - [Прыжок по облакам: кейс миграции MS SQL Server из Azure в VK Cloud](https://habr.com/ru/companies/vk/articles/781278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781278)
-- [Контейнеризация справочников НСИ](https://habr.com/ru/companies/nornickel/articles/781716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781716)
-- [Секреты USA в Micro QR Code M4 &lpar;часть 1&rpar;](https://habr.com/ru/articles/781858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
