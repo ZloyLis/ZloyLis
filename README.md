@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 4](https://habr.com/ru/companies/ruvds/articles/776392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776392)
+- [Квиз со звёздочкой для С++ программистов от Сергея Кушниренко](https://habr.com/ru/companies/pvs-studio/articles/781878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781878)
+- [Прыжок по облакам: кейс миграции MS SQL Server из Azure в VK Cloud](https://habr.com/ru/companies/vk/articles/781278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781278)
 - [Контейнеризация справочников НСИ](https://habr.com/ru/companies/nornickel/articles/781716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781716)
 - [Секреты USA в Micro QR Code M4 &lpar;часть 1&rpar;](https://habr.com/ru/articles/781858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781858)
-- [Server-Side Rendering &lpar;SSR&rpar; в фуллстак приложениях](https://habr.com/ru/companies/otus/articles/779896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779896)
-- [Разработка мобильных приложений для бизнеса: как создавать кроссплатформенные решения быстро и относительно дешево](https://habr.com/ru/articles/781840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781840)
-- [.NET CLI — Зачем загружать все родительские сборки при загрузке сборки](https://habr.com/ru/articles/781788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
