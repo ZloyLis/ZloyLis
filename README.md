@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Алгоритмы» vs «Структуры данных»](https://habr.com/ru/articles/782088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782088)
 - [Одно нажатие, весь контроль: WireGuard VPN через Телеграм](https://habr.com/ru/articles/782050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782050)
 - [Выявление проблем в log-файлах с помощью аналитики](https://habr.com/ru/companies/otus/articles/781598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781598)
 - [Как прогнозировать время выполнения задач](https://habr.com/ru/companies/tinkoff/articles/782012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782012)
 - [Помощник для QA Engineer – ChatGPT](https://habr.com/ru/articles/782030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782030)
-- [Telegram бот для доставки torrent контента с телефона до телевизора](https://habr.com/ru/articles/782028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
