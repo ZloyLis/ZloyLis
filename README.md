@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто контролирует размерности? &lpar;опрос&rpar;](https://habr.com/ru/articles/782418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782418)
 - [Никаких инструкций. Советы от техписа о том, как обойтись без него](https://habr.com/ru/companies/X5Tech/articles/782366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782366)
 - [Почему разработчики любят Kotlin](https://habr.com/ru/companies/friflex/articles/782352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782352)
 - [Ускорение загрузки сайта: туториал для джунов](https://habr.com/ru/companies/rocketbusiness/articles/782346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782346)
 - [Dropout и Batch normalization](https://habr.com/ru/companies/mvideo/articles/782360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782360)
-- [Быстрый старт. SpringBoot + RabbitMQ](https://habr.com/ru/articles/782234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
