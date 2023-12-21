@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускорение загрузки сайта: туториал для джунов](https://habr.com/ru/companies/rocketbusiness/articles/782346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782346)
+- [Dropout и Batch normalization](https://habr.com/ru/companies/mvideo/articles/782360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782360)
+- [Быстрый старт. SpringBoot + RabbitMQ](https://habr.com/ru/articles/782234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782234)
 - [Модель зрелости SOAR](https://habr.com/ru/companies/securityvison/articles/782328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782328)
 - [Общая лента публикаций Хабра](https://habr.com/ru/companies/habr/articles/782308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782308)
-- [Корпоративная осведомлённость или как объяснить важность защиты информации всем: от уборщицы до директора](https://habr.com/ru/articles/782284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782284)
-- [История разработки приложения для складных смартфонов Samsung. Часть 2 — гайдлайны](https://habr.com/ru/companies/samsung/articles/782044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782044)
-- [Как не сойти с ума, помечая цели для сбора метрик при мониторинге кластера. Спойлер: Victoria Metrics + Grafana](https://habr.com/ru/companies/dbraincloud/articles/782268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
