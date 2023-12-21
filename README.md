@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KISS your website или как написать уважаемый сайт на аутсорсе, глава первая](https://habr.com/ru/articles/782242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782242)
+- [Ещё одна статья про карьеру: 15 убеждений, которые превратились в инсайты](https://habr.com/ru/companies/alfa/articles/782148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782148)
+- [Цепочка инструментов в Go](https://habr.com/ru/companies/otus/articles/782218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782218)
+- [Небольшая поставка: большое приключение для менеджера поставки](https://habr.com/ru/companies/rosbank/articles/782220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782220)
 - [О коммерческой тайне без коммерческой тайны](https://habr.com/ru/companies/otpbank/articles/781896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781896)
-- [Multilabel-классификация знаний школьников](https://habr.com/ru/companies/sberbank/articles/782198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782198)
-- [Что выбрать: Npm, Yarn или Pnpm?](https://habr.com/ru/companies/domclick/articles/781780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781780)
-- [[Перевод] Почему программистам нужны кабинеты с закрывающимися дверями?](https://habr.com/ru/companies/productivity_inside/articles/782178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782178)
-- [Автоматизированное тестирование событий аналитики в мобильном приложении: насколько это реально и оправдано](https://habr.com/ru/companies/surfstudio/articles/782162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
