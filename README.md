@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История разработки приложения для складных смартфонов Samsung. Часть 2 — гайдлайны](https://habr.com/ru/companies/samsung/articles/782044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782044)
+- [Как не сойти с ума, помечая цели для сбора метрик при мониторинге кластера. Спойлер: Victoria Metrics + Grafana](https://habr.com/ru/companies/dbraincloud/articles/782268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782268)
+- [ML в животноводстве. Как ГК «Русагро» училось считать поголовье свиней](https://habr.com/ru/companies/selectel/articles/779740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779740)
+- [Algopack Мосбиржи — получаем справочную информация о доступных акциях](https://habr.com/ru/articles/782260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782260)
 - [KISS your website или как написать уважаемый сайт на аутсорсе, глава первая](https://habr.com/ru/articles/782242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782242)
-- [Ещё одна статья про карьеру: 15 убеждений, которые превратились в инсайты](https://habr.com/ru/companies/alfa/articles/782148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782148)
-- [Цепочка инструментов в Go](https://habr.com/ru/companies/otus/articles/782218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782218)
-- [Небольшая поставка: большое приключение для менеджера поставки](https://habr.com/ru/companies/rosbank/articles/782220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782220)
-- [О коммерческой тайне без коммерческой тайны](https://habr.com/ru/companies/otpbank/articles/781896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
