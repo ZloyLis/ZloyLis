@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О коммерческой тайне без коммерческой тайны](https://habr.com/ru/companies/otpbank/articles/781896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781896)
+- [Multilabel-классификация знаний школьников](https://habr.com/ru/companies/sberbank/articles/782198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782198)
+- [Что выбрать: Npm, Yarn или Pnpm?](https://habr.com/ru/companies/domclick/articles/781780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781780)
+- [[Перевод] Почему программистам нужны кабинеты с закрывающимися дверями?](https://habr.com/ru/companies/productivity_inside/articles/782178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782178)
 - [Автоматизированное тестирование событий аналитики в мобильном приложении: насколько это реально и оправдано](https://habr.com/ru/companies/surfstudio/articles/782162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782162)
-- [Подключение сканера к Android или как почувствовать себя кассиром](https://habr.com/ru/companies/joydev/articles/782152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782152)
-- [Pixel Combats Api](https://habr.com/ru/articles/782144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782144)
-- [Градиенты наносят ответный удар: атакуем распознавание паспорта](https://habr.com/ru/companies/smartengines/articles/780440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780440)
-- [Знания программиста — все что нужно для создания ПО, но почему вы еще не бизнесмен](https://habr.com/ru/articles/782120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
