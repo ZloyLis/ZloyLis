@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Общая лента публикаций Хабра](https://habr.com/ru/companies/habr/articles/782308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782308)
+- [Корпоративная осведомлённость или как объяснить важность защиты информации всем: от уборщицы до директора](https://habr.com/ru/articles/782284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782284)
 - [История разработки приложения для складных смартфонов Samsung. Часть 2 — гайдлайны](https://habr.com/ru/companies/samsung/articles/782044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782044)
 - [Как не сойти с ума, помечая цели для сбора метрик при мониторинге кластера. Спойлер: Victoria Metrics + Grafana](https://habr.com/ru/companies/dbraincloud/articles/782268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782268)
 - [ML в животноводстве. Как ГК «Русагро» училось считать поголовье свиней](https://habr.com/ru/companies/selectel/articles/779740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779740)
-- [Algopack Мосбиржи — получаем справочную информация о доступных акциях](https://habr.com/ru/articles/782260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782260)
-- [KISS your website или как написать уважаемый сайт на аутсорсе, глава первая](https://habr.com/ru/articles/782242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
