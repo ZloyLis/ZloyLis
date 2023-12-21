@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Замедляем разработку. Вредные советы по тестированию в проектах](https://habr.com/ru/companies/2gis/articles/781626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781626)
 - [Из кондитера в программисты. Продолжение](https://habr.com/ru/articles/782096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782096)
 - [«Алгоритмы» vs «Структуры данных»](https://habr.com/ru/articles/782088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782088)
 - [Одно нажатие, весь контроль: WireGuard VPN через Телеграм](https://habr.com/ru/articles/782050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782050)
 - [Выявление проблем в log-файлах с помощью аналитики](https://habr.com/ru/companies/otus/articles/781598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781598)
-- [Как прогнозировать время выполнения задач](https://habr.com/ru/companies/tinkoff/articles/782012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
