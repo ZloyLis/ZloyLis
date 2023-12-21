@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизированное тестирование событий аналитики в мобильном приложении: насколько это реально и оправдано](https://habr.com/ru/companies/surfstudio/articles/782162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782162)
+- [Подключение сканера к Android или как почувствовать себя кассиром](https://habr.com/ru/companies/joydev/articles/782152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782152)
+- [Pixel Combats Api](https://habr.com/ru/articles/782144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782144)
+- [Градиенты наносят ответный удар: атакуем распознавание паспорта](https://habr.com/ru/companies/smartengines/articles/780440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780440)
 - [Знания программиста — все что нужно для создания ПО, но почему вы еще не бизнесмен](https://habr.com/ru/articles/782120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782120)
-- [Замедляем разработку. Вредные советы по тестированию в проектах](https://habr.com/ru/companies/2gis/articles/781626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781626)
-- [Из кондитера в программисты. Продолжение](https://habr.com/ru/articles/782096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782096)
-- [«Алгоритмы» vs «Структуры данных»](https://habr.com/ru/articles/782088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782088)
-- [Одно нажатие, весь контроль: WireGuard VPN через Телеграм](https://habr.com/ru/articles/782050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
