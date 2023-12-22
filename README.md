@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архивная репликация в PostgreSQL: пошаговая инструкция](https://habr.com/ru/companies/avito/articles/781892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781892)
+- [Как стать SRE-инженером в 2024 году](https://habr.com/ru/companies/cloud_mts/articles/782368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782368)
 - [Прокрастинация, youtube и горящий дедлайн — что мешает нам учиться?](https://habr.com/ru/companies/1cupis/articles/782494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782494)
 - [Секреты USA в Micro QR Code M2 &lpar;часть 2&rpar;](https://habr.com/ru/articles/782488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782488)
 - [Машинное обучение и встраиваемые системы. Демонстрация возможностей](https://habr.com/ru/companies/swd_es/articles/781366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781366)
-- [[Перевод] Кастомизация бессерверных функций без применения промежуточного ПО](https://habr.com/ru/companies/piter/articles/782408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782408)
-- [[Перевод] Подробное объяснение принципа KISS в программном обеспечении](https://habr.com/ru/articles/782094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
