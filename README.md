@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Необходимые свойства качественных рекомендаций в e-commerce](https://habr.com/ru/companies/retailrocket/articles/782510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782510)
+- [[Перевод] Я счастлив, что больше не веб-разработчик](https://habr.com/ru/companies/nmg/articles/780852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780852)
+- [OpenAPI станет проще: готовится версия 4.0](https://habr.com/ru/companies/ruvds/articles/779788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779788)
+- [Ошибки и подозрительные места в исходниках .NET 8](https://habr.com/ru/companies/pvs-studio/articles/782566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782566)
 - [Mobile Web, навигация и при чем тут Nginx](https://habr.com/ru/companies/alfa/articles/781992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781992)
-- [Теория множеств и математическая логика применительно к задаче с параметром &lpar;ЕГЭ, RUS&rpar;](https://habr.com/ru/articles/782552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782552)
-- [Как мы создали сервис подбора фильмов](https://habr.com/ru/companies/yandex_praktikum/articles/781694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781694)
-- [Микрофронтенд для самых маленьких](https://habr.com/ru/companies/ozontech/articles/782508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782508)
-- [Архивная репликация в PostgreSQL: пошаговая инструкция](https://habr.com/ru/companies/avito/articles/781892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
