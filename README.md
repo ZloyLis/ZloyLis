@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сложность алгоритмов. Разбор Big O](https://habr.com/ru/articles/782608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782608)
 - [Необходимые свойства качественных рекомендаций в e-commerce](https://habr.com/ru/companies/retailrocket/articles/782510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782510)
 - [[Перевод] Я счастлив, что больше не веб-разработчик](https://habr.com/ru/companies/nmg/articles/780852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780852)
 - [OpenAPI станет проще: готовится версия 4.0](https://habr.com/ru/companies/ruvds/articles/779788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779788)
 - [Ошибки и подозрительные места в исходниках .NET 8](https://habr.com/ru/companies/pvs-studio/articles/782566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782566)
-- [Mobile Web, навигация и при чем тут Nginx](https://habr.com/ru/companies/alfa/articles/781992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
