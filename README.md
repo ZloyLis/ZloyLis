@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Кастомизация бессерверных функций без применения промежуточного ПО](https://habr.com/ru/companies/piter/articles/782408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782408)
 - [[Перевод] Подробное объяснение принципа KISS в программном обеспечении](https://habr.com/ru/articles/782094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782094)
 - [«Они убивают Lottie — молодцы!»](https://habr.com/ru/companies/pyrobyte/articles/782428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782428)
 - [Кто контролирует размерности? &lpar;опрос&rpar;](https://habr.com/ru/articles/782418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782418)
 - [Никаких инструкций. Советы от техписа о том, как обойтись без него](https://habr.com/ru/companies/X5Tech/articles/782366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782366)
-- [Почему разработчики любят Kotlin](https://habr.com/ru/companies/friflex/articles/782352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
