@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микрофронтенд для самых маленьких](https://habr.com/ru/companies/ozontech/articles/782508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782508)
 - [Архивная репликация в PostgreSQL: пошаговая инструкция](https://habr.com/ru/companies/avito/articles/781892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781892)
 - [Как стать SRE-инженером в 2024 году](https://habr.com/ru/companies/cloud_mts/articles/782368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782368)
 - [Прокрастинация, youtube и горящий дедлайн — что мешает нам учиться?](https://habr.com/ru/companies/1cupis/articles/782494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782494)
 - [Секреты USA в Micro QR Code M2 &lpar;часть 2&rpar;](https://habr.com/ru/articles/782488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782488)
-- [Машинное обучение и встраиваемые системы. Демонстрация возможностей](https://habr.com/ru/companies/swd_es/articles/781366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
