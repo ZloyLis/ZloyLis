@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Блокировка рекламы в браузере &lpar;User CSS&rpar;](https://habr.com/ru/articles/782708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782708)
 - [Возможности JS, о которых вы возможно не знали](https://habr.com/ru/articles/782696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782696)
 - [JavaScript для QA. Фронтендер учит дебажить код через Devtools](https://habr.com/ru/articles/782682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782682)
 - [&amp;lt;dl&amp;gt; или &amp;lt;table&amp;gt;? Исследуем подходы к представлению пар ключ-значение в HTML](https://habr.com/ru/articles/782622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782622)
 - [Эволюция BP-сервиса компании Магнит](https://habr.com/ru/companies/magnit/articles/782482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782482)
-- [Сложность алгоритмов. Разбор Big O](https://habr.com/ru/articles/782608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
