@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем простой консольный мессенджер с end-to-end шифрованием поверх «Hidden Lake» сервисов](https://habr.com/ru/articles/782836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782836)
+- [Использование node-cron для запуска запланированных заданий в Node.js](https://habr.com/ru/articles/782838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782838)
 - [Абстрактность в Swift](https://habr.com/ru/articles/782834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782834)
 - [Вам [не] нужен свой игровой движок](https://habr.com/ru/articles/782810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782810)
 - [Проектирование fault-tolerant систем на Go](https://habr.com/ru/companies/otus/articles/781964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781964)
-- [WebSocket в Go и причем тут горилла](https://habr.com/ru/companies/otus/articles/781748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781748)
-- [Секреты USA в Micro QR Code M2 &lpar;часть 3&rpar;](https://habr.com/ru/articles/782772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
