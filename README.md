@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket в Go и причем тут горилла](https://habr.com/ru/companies/otus/articles/781748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781748)
 - [Секреты USA в Micro QR Code M2 &lpar;часть 3&rpar;](https://habr.com/ru/articles/782772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782772)
 - [[Перевод] Распаковываем архив gzip вручную](https://habr.com/ru/companies/ruvds/articles/781862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781862)
 - [Отслеживание изменений в директории с помощью Inotify](https://habr.com/ru/articles/782742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782742)
 - [Безопасность DevOps. Автоматизация и новые инструменты](https://habr.com/ru/companies/globalsign/articles/782732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782732)
-- [История создания агрегатора для фриланс бирж](https://habr.com/ru/articles/782712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
