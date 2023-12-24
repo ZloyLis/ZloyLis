@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кардинально сжимаем память в NodeJS](https://habr.com/ru/articles/782746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782746)
 - [Отслеживание изменений в директории с помощью Inotify](https://habr.com/ru/articles/782742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782742)
 - [Безопасность DevOps. Автоматизация и новые инструменты](https://habr.com/ru/companies/globalsign/articles/782732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782732)
 - [История создания агрегатора для фриланс бирж](https://habr.com/ru/articles/782712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782712)
 - [Блокировка рекламы в браузере &lpar;User CSS&rpar;](https://habr.com/ru/articles/782708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782708)
-- [Возможности JS, о которых вы возможно не знали](https://habr.com/ru/articles/782696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
