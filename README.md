@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глубокий JS. Области тьмы или где живут переменные](https://habr.com/ru/articles/782690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782690)
+- [Пишем свой GraphQL клиент на Python](https://habr.com/ru/articles/782252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782252)
 - [Как сделать первый деплой Java приложения на удаленный сервер. Инструкция от/для новичка](https://habr.com/ru/articles/782882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782882)
 - [Почему мы бросаем учёбу на полпути? Исследование](https://habr.com/ru/companies/yandex_praktikum/articles/782338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782338)
 - [Разработка и интерпретация иерархической кластеризации](https://habr.com/ru/companies/otus/articles/782862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782862)
-- [Мобильная разработка за неделю #520 &lpar;18 — 24 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/782868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782868)
-- [Spring prototype при помощи Lookup](https://habr.com/ru/articles/782656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
