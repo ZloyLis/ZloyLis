@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логи в телеграм-ботах](https://habr.com/ru/companies/otus/articles/782646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782646)
 - [REST API/Web сервер на PowerShell](https://habr.com/ru/articles/783022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783022)
 - [Агент по анонимности: Альтернативные фронтенды сайтам](https://habr.com/ru/articles/783036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783036)
 - [Принципы SOLID vs KISS. Как найти баланс?](https://habr.com/ru/articles/782982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782982)
 - [remember «Forever». Как сохранить скролл при уходе с экрана](https://habr.com/ru/articles/783004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783004)
-- [Загрязненный — значит опасный: про уязвимость Prototype Pollution](https://habr.com/ru/companies/pt/articles/782750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
