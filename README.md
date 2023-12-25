@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Process Control &lpar;APC&rpar; &lpar;Часть 2&rpar;](https://habr.com/ru/articles/783120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783120)
 - [BitTorrent для раздачи игр, но не в пиратских целях](https://habr.com/ru/articles/782652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782652)
 - [Логи в телеграм-ботах](https://habr.com/ru/companies/otus/articles/782646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782646)
 - [REST API/Web сервер на PowerShell](https://habr.com/ru/articles/783022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783022)
 - [Агент по анонимности: Альтернативные фронтенды сайтам](https://habr.com/ru/articles/783036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783036)
-- [Принципы SOLID vs KISS. Как найти баланс?](https://habr.com/ru/articles/782982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
