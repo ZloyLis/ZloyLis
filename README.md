@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring prototype при помощи Lookup](https://habr.com/ru/articles/782656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782656)
 - [MVC — это не Spring Web](https://habr.com/ru/articles/782850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782850)
 - [Пишем простой консольный мессенджер с end-to-end шифрованием поверх «Hidden Lake» сервисов](https://habr.com/ru/articles/782836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782836)
 - [Использование node-cron для запуска запланированных заданий в Node.js](https://habr.com/ru/articles/782838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782838)
 - [Абстрактность в Swift](https://habr.com/ru/articles/782834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782834)
-- [Вам [не] нужен свой игровой движок](https://habr.com/ru/articles/782810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
