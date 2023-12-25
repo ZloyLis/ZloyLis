@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [REST API/Web сервер на PowerShell](https://habr.com/ru/articles/783022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783022)
+- [Агент по анонимности: Альтернативные фронтенды сайтам](https://habr.com/ru/articles/783036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783036)
 - [Принципы SOLID vs KISS. Как найти баланс?](https://habr.com/ru/articles/782982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782982)
 - [remember «Forever». Как сохранить скролл при уходе с экрана](https://habr.com/ru/articles/783004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783004)
 - [Загрязненный — значит опасный: про уязвимость Prototype Pollution](https://habr.com/ru/companies/pt/articles/782750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782750)
-- [Личный опыт заработков в интернете: рубим бабло на студентах](https://habr.com/ru/articles/782996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782996)
-- [Секрет внутренней связи: откровения Маруси о том, как она научилась слушать себя](https://habr.com/ru/companies/vk/articles/782944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
