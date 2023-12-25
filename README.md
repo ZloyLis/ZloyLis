@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [БД — это скальпель или мультитул? Куда привела эволюция СУБД в 2023 году](https://habr.com/ru/companies/oleg-bunin/articles/781996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781996)
+- [Taiga UI: итоги 2023 года](https://habr.com/ru/companies/tinkoff/articles/782924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782924)
+- [Чтение Micro QR Code версии М2 &lpar;числовой режим&rpar;](https://habr.com/ru/articles/782932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782932)
 - [Глубокий JS. Области тьмы или где живут переменные](https://habr.com/ru/articles/782690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782690)
 - [Пишем свой GraphQL клиент на Python](https://habr.com/ru/articles/782252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782252)
-- [Как сделать первый деплой Java приложения на удаленный сервер. Инструкция от/для новичка](https://habr.com/ru/articles/782882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782882)
-- [Почему мы бросаем учёбу на полпути? Исследование](https://habr.com/ru/companies/yandex_praktikum/articles/782338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782338)
-- [Разработка и интерпретация иерархической кластеризации](https://habr.com/ru/companies/otus/articles/782862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
