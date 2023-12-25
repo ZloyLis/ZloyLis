@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Загрязненный — значит опасный: про уязвимость Prototype Pollution](https://habr.com/ru/companies/pt/articles/782750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782750)
+- [Личный опыт заработков в интернете: рубим бабло на студентах](https://habr.com/ru/articles/782996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782996)
+- [Секрет внутренней связи: откровения Маруси о том, как она научилась слушать себя](https://habr.com/ru/companies/vk/articles/782944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782944)
+- [Не Мистер Робот: фильмы и сериалы про IT, про которые вы могли не знать](https://habr.com/ru/articles/782988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782988)
 - [БД — это скальпель или мультитул? Куда привела эволюция СУБД в 2023 году](https://habr.com/ru/companies/oleg-bunin/articles/781996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781996)
-- [Taiga UI: итоги 2023 года](https://habr.com/ru/companies/tinkoff/articles/782924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782924)
-- [Чтение Micro QR Code версии М2 &lpar;числовой режим&rpar;](https://habr.com/ru/articles/782932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782932)
-- [Глубокий JS. Области тьмы или где живут переменные](https://habr.com/ru/articles/782690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782690)
-- [Пишем свой GraphQL клиент на Python](https://habr.com/ru/articles/782252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
