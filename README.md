@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать первый деплой Java приложения на удаленный сервер. Инструкция от/для новичка](https://habr.com/ru/articles/782882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782882)
+- [Почему мы бросаем учёбу на полпути? Исследование](https://habr.com/ru/companies/yandex_praktikum/articles/782338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782338)
+- [Разработка и интерпретация иерархической кластеризации](https://habr.com/ru/companies/otus/articles/782862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782862)
 - [Мобильная разработка за неделю #520 &lpar;18 — 24 декабря&rpar;](https://habr.com/ru/companies/productivity_inside/articles/782868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782868)
 - [Spring prototype при помощи Lookup](https://habr.com/ru/articles/782656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782656)
-- [MVC — это не Spring Web](https://habr.com/ru/articles/782850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782850)
-- [Пишем простой консольный мессенджер с end-to-end шифрованием поверх «Hidden Lake» сервисов](https://habr.com/ru/articles/782836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782836)
-- [Использование node-cron для запуска запланированных заданий в Node.js](https://habr.com/ru/articles/782838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
