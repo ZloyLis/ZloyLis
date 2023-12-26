@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Техники обучения, которые вошли в мою рутину](https://habr.com/ru/articles/783314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783314)
+- [[Перевод] Пирамида автоматизации тестирования](https://habr.com/ru/articles/783306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783306)
+- [Генеративные рекомендательные системы: как мы научились предсказывать заказы пользователей](https://habr.com/ru/articles/783302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783302)
 - [Security Week 2352: обход биометрии во вредоносном ПО для Android](https://habr.com/ru/companies/kaspersky/articles/783276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783276)
 - [Сколько стоит разработка сайта с нуля в 2024 году?](https://habr.com/ru/articles/783262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783262)
-- [GridStack + Vue 3 composition api](https://habr.com/ru/articles/783286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783286)
-- [Как мы решили развивать продукт, который уже 15 лет на рынке](https://habr.com/ru/articles/783278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783278)
-- [Товары-аналоги и с чем их едят или Свежий подход к формированию групп товаров для управления ассортиментом Ozon fresh](https://habr.com/ru/companies/ozontech/articles/782950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
