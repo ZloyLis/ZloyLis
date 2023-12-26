@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как малые и средние компании по заказной разработке ПО живут без системных аналитиков?](https://habr.com/ru/articles/783368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783368)
 - [NativeScript в мире кроссплатформенной разработки](https://habr.com/ru/articles/783364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783364)
 - [День в Квартале Образования. Поиски Деда Мороза продолжаются](https://habr.com/ru/specials/783350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783350)
 - [Как я стал ментором за пределами компании](https://habr.com/ru/articles/783336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783336)
 - [Техники обучения, которые вошли в мою рутину](https://habr.com/ru/articles/783314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783314)
-- [[Перевод] Пирамида автоматизации тестирования](https://habr.com/ru/articles/783306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
