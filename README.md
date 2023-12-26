@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дженерики в go](https://habr.com/ru/companies/otus/articles/782414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782414)
 - [Использование цвета при анализе и проектировании систем. Часть 3](https://habr.com/ru/articles/783140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783140)
 - [Как на самом деле Async/Await работают в C#. Уроки по асинхронному программированию из первой половины работы](https://habr.com/ru/articles/782762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782762)
 - [Первый взгляд на производительность реализации floating-point GEMM для CPU на языке Mojo](https://habr.com/ru/articles/783138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783138)
 - [Advanced Process Control &lpar;APC&rpar; &lpar;Часть 2&rpar;](https://habr.com/ru/articles/783120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783120)
-- [BitTorrent для раздачи игр, но не в пиратских целях](https://habr.com/ru/articles/782652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
