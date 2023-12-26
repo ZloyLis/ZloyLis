@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Торговый бот на Python с нуля &lpar;с использованием Binance API&rpar;, часть 2](https://habr.com/ru/articles/783384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783384)
 - [Формирование PKCS#7 detached signature для авторизации через систему ЕСИА](https://habr.com/ru/articles/783378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783378)
 - [Как малые и средние компании по заказной разработке ПО живут без системных аналитиков?](https://habr.com/ru/articles/783368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783368)
 - [NativeScript в мире кроссплатформенной разработки](https://habr.com/ru/articles/783364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783364)
 - [День в Квартале Образования. Поиски Деда Мороза продолжаются](https://habr.com/ru/specials/783350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783350)
-- [Как я стал ментором за пределами компании](https://habr.com/ru/articles/783336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
