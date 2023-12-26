@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дженерики в go](https://habr.com/ru/companies/otus/articles/782414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782414)
-- [Использование цвета при анализе и проектировании систем. Часть 3](https://habr.com/ru/articles/783140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783140)
-- [Как на самом деле Async/Await работают в C#. Уроки по асинхронному программированию из первой половины работы](https://habr.com/ru/articles/782762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782762)
-- [Первый взгляд на производительность реализации floating-point GEMM для CPU на языке Mojo](https://habr.com/ru/articles/783138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783138)
-- [Advanced Process Control &lpar;APC&rpar; &lpar;Часть 2&rpar;](https://habr.com/ru/articles/783120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783120)
+- [[Перевод] Простая проблема приводит к слишком большим числам для нашей Вселенной](https://habr.com/ru/companies/first/articles/782118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782118)
+- [Тестируемая архитектура. Часть 3: граница тестирования](https://habr.com/ru/companies/reksoft/articles/783184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783184)
+- [Самый конец 2023 года: оцениваем рейтинги языков программирования по версии TIOBE и PYPL](https://habr.com/ru/companies/ru_mts/articles/783180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783180)
+- [Знакомство с WebTransport API](https://habr.com/ru/companies/timeweb/articles/782448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782448)
+- [[Перевод] Почему B-деревья быстрые?](https://habr.com/ru/articles/783012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
