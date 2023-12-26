@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы создавали сервис для хостинга ML-моделей на базе Kubernetes и AIOHTTP](https://habr.com/ru/companies/selectel/articles/783050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783050)
+- [Введение в SQL &amp;amp; СУБД на примере доступа к данным через Python](https://habr.com/ru/articles/783260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783260)
 - [Open Source Cloud Computing](https://habr.com/ru/articles/783220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783220)
 - [В поисках алгоритмического дзена](https://habr.com/ru/articles/782250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782250)
 - [[Перевод] Простая проблема приводит к слишком большим числам для нашей Вселенной](https://habr.com/ru/companies/first/articles/782118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782118)
-- [Тестируемая архитектура. Часть 3: граница тестирования](https://habr.com/ru/companies/reksoft/articles/783184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783184)
-- [Самый конец 2023 года: оцениваем рейтинги языков программирования по версии TIOBE и PYPL](https://habr.com/ru/companies/ru_mts/articles/783180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
