@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [День в Квартале Образования. Поиски Деда Мороза продолжаются](https://habr.com/ru/specials/783350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783350)
 - [Как я стал ментором за пределами компании](https://habr.com/ru/articles/783336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783336)
 - [Техники обучения, которые вошли в мою рутину](https://habr.com/ru/articles/783314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783314)
 - [[Перевод] Пирамида автоматизации тестирования](https://habr.com/ru/articles/783306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783306)
 - [Генеративные рекомендательные системы: как мы научились предсказывать заказы пользователей](https://habr.com/ru/articles/783302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783302)
-- [Security Week 2352: обход биометрии во вредоносном ПО для Android](https://habr.com/ru/companies/kaspersky/articles/783276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
