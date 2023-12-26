@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Cloud Computing](https://habr.com/ru/articles/783220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783220)
+- [В поисках алгоритмического дзена](https://habr.com/ru/articles/782250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782250)
 - [[Перевод] Простая проблема приводит к слишком большим числам для нашей Вселенной](https://habr.com/ru/companies/first/articles/782118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782118)
 - [Тестируемая архитектура. Часть 3: граница тестирования](https://habr.com/ru/companies/reksoft/articles/783184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783184)
 - [Самый конец 2023 года: оцениваем рейтинги языков программирования по версии TIOBE и PYPL](https://habr.com/ru/companies/ru_mts/articles/783180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783180)
-- [Знакомство с WebTransport API](https://habr.com/ru/companies/timeweb/articles/782448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782448)
-- [[Перевод] Почему B-деревья быстрые?](https://habr.com/ru/articles/783012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
