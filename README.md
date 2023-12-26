@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы создавали сервис для хостинга ML-моделей на базе Kubernetes и AIOHTTP](https://habr.com/ru/companies/selectel/articles/783050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783050)
-- [Введение в SQL &amp;amp; СУБД на примере доступа к данным через Python](https://habr.com/ru/articles/783260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783260)
-- [Open Source Cloud Computing](https://habr.com/ru/articles/783220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783220)
-- [В поисках алгоритмического дзена](https://habr.com/ru/articles/782250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782250)
-- [[Перевод] Простая проблема приводит к слишком большим числам для нашей Вселенной](https://habr.com/ru/companies/first/articles/782118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782118)
+- [Security Week 2352: обход биометрии во вредоносном ПО для Android](https://habr.com/ru/companies/kaspersky/articles/783276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783276)
+- [Сколько стоит разработка сайта с нуля в 2024 году?](https://habr.com/ru/articles/783262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783262)
+- [GridStack + Vue 3 composition api](https://habr.com/ru/articles/783286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783286)
+- [Как мы решили развивать продукт, который уже 15 лет на рынке](https://habr.com/ru/articles/783278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783278)
+- [Товары-аналоги и с чем их едят или Свежий подход к формированию групп товаров для управления ассортиментом Ozon fresh](https://habr.com/ru/companies/ozontech/articles/782950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
