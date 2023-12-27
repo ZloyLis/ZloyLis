@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полезные материалы для С++ разработчика: о новом стандарте, висячих ссылках и технических собеседованиях](https://habr.com/ru/companies/yadro/articles/783472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783472)
 - [Твори, исследуй, побеждай: как устроиться в банк после школы и совмещать работу с учёбой в универе](https://habr.com/ru/companies/vtb/articles/783484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783484)
 - [Как отбиться от «ходоков» ИТ-Каталогом](https://habr.com/ru/companies/mvideo/articles/783488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783488)
 - [Chat GPT как замена системного аналитика: сравнение эффективности](https://habr.com/ru/companies/eaeconsult/articles/783478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783478)
 - [Kotlin — язык программирования: для чего используется, плюсы и минусы](https://habr.com/ru/articles/783456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783456)
-- [Чтение Micro QR Code версии М2 &lpar;алфавитно-цифровой режим&rpar;](https://habr.com/ru/articles/783450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
