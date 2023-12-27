@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Твори, исследуй, побеждай: как устроиться в банк после школы и совмещать работу с учёбой в универе](https://habr.com/ru/companies/vtb/articles/783484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783484)
+- [Как отбиться от «ходоков» ИТ-Каталогом](https://habr.com/ru/companies/mvideo/articles/783488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783488)
+- [Chat GPT как замена системного аналитика: сравнение эффективности](https://habr.com/ru/companies/eaeconsult/articles/783478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783478)
 - [Kotlin — язык программирования: для чего используется, плюсы и минусы](https://habr.com/ru/articles/783456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783456)
 - [Чтение Micro QR Code версии М2 &lpar;алфавитно-цифровой режим&rpar;](https://habr.com/ru/articles/783450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783450)
-- [Как рисовать мозаики типа «эйнштейн»](https://habr.com/ru/articles/757132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757132)
-- [Hippotable — анализ данных прямо в браузере](https://habr.com/ru/articles/783444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783444)
-- [Как проектировать системы уведомлений в приложениях: дизайн, этапы и нюансы архитектуры](https://habr.com/ru/companies/redmadrobot/articles/783442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
