@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxlint — более быстрая альтернатива ESLint](https://habr.com/ru/companies/domclick/articles/783150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783150)
+- [Прививка от созависимости. Зачем нужен DI и как он работает в iOS-приложениях hh.ru](https://habr.com/ru/companies/hh/articles/783002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783002)
 - [KPI разработчика: какие метрики можно использовать и эффективно ли их внедрение](https://habr.com/ru/articles/783406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783406)
 - [[Перевод] Astro vs Next.js](https://habr.com/ru/articles/783402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783402)
 - [Логирование в Golang](https://habr.com/ru/companies/otus/articles/782812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782812)
-- [Репортаж о 54-й конференции факультета ПМ-ПУ СПбГУ](https://habr.com/ru/articles/744054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744054)
-- [Торговый бот на Python с нуля &lpar;с использованием Binance API&rpar;, часть 2](https://habr.com/ru/articles/783384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
