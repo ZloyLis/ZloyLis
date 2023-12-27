@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KPI разработчика: какие метрики можно использовать и эффективно ли их внедрение](https://habr.com/ru/articles/783406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783406)
+- [[Перевод] Astro vs Next.js](https://habr.com/ru/articles/783402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783402)
+- [Логирование в Golang](https://habr.com/ru/companies/otus/articles/782812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782812)
 - [Репортаж о 54-й конференции факультета ПМ-ПУ СПбГУ](https://habr.com/ru/articles/744054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744054)
 - [Торговый бот на Python с нуля &lpar;с использованием Binance API&rpar;, часть 2](https://habr.com/ru/articles/783384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783384)
-- [Формирование PKCS#7 detached signature для авторизации через систему ЕСИА](https://habr.com/ru/articles/783378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783378)
-- [Как малые и средние компании по заказной разработке ПО живут без системных аналитиков?](https://habr.com/ru/articles/783368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783368)
-- [NativeScript в мире кроссплатформенной разработки](https://habr.com/ru/articles/783364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
