@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxlint — более быстрая альтернатива ESLint](https://habr.com/ru/companies/domclick/articles/783150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783150)
-- [Прививка от созависимости. Зачем нужен DI и как он работает в iOS-приложениях hh.ru](https://habr.com/ru/companies/hh/articles/783002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783002)
-- [KPI разработчика: какие метрики можно использовать и эффективно ли их внедрение](https://habr.com/ru/articles/783406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783406)
-- [[Перевод] Astro vs Next.js](https://habr.com/ru/articles/783402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783402)
-- [Логирование в Golang](https://habr.com/ru/companies/otus/articles/782812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782812)
+- [Kotlin — язык программирования: для чего используется, плюсы и минусы](https://habr.com/ru/articles/783456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783456)
+- [Чтение Micro QR Code версии М2 &lpar;алфавитно-цифровой режим&rpar;](https://habr.com/ru/articles/783450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783450)
+- [Как рисовать мозаики типа «эйнштейн»](https://habr.com/ru/articles/757132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=757132)
+- [Hippotable — анализ данных прямо в браузере](https://habr.com/ru/articles/783444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783444)
+- [Как проектировать системы уведомлений в приложениях: дизайн, этапы и нюансы архитектуры](https://habr.com/ru/companies/redmadrobot/articles/783442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
