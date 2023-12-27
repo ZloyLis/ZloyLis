@@ -28,9 +28,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Framework для автоматизации тестирования на Java](https://habr.com/ru/companies/rshb/articles/783620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783620)
 - [Искуственная поджелудочная на запястье или Android APS в часах](https://habr.com/ru/articles/783610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783610)
-- [Как проводить технические собеседования программистов разных грейдов?](https://habr.com/ru/articles/783608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783608)
 - [Как организовать процессы для эффективной защиты прав в GameDev-проектах? Делимся решениями](https://habr.com/ru/articles/783594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783594)
 - [Flask для начинающих](https://habr.com/ru/articles/783574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783574)
+- [Про парадокс убитого дедушки](https://habr.com/ru/articles/783550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
