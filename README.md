@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Искусство следопыта в корпоративной инфраструктуре](https://habr.com/ru/companies/securityvison/articles/783698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783698)
-- [Зачем и как в Альфе была написана библиотека для скриншот тестов под Android](https://habr.com/ru/companies/alfa/articles/783602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783602)
-- [Топ-18 наших самых крутых ИИ-разработок за 2023 год: рукописная прописка, UniversalPay и обрезанные QR. А что еще?](https://habr.com/ru/companies/smartengines/articles/783224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783224)
-- [Typescript ENUM — баланс использования](https://habr.com/ru/companies/nlmk/articles/770974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770974)
-- [Как и зачем мы внедрили Snapshot Testing](https://habr.com/ru/companies/mkb/articles/783568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783568)
+- [Сильный ИИ. Элира1. Увеличение памяти ChatGPT](https://habr.com/ru/articles/783724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783724)
+- [DagazBot — Хранитель ключей и мётел](https://habr.com/ru/articles/783440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783440)
+- [Я сделал Cardoteka и вот как её использовать [кто любит черпать]](https://habr.com/ru/articles/783712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783712)
+- [[Перевод] 4 миллиардов операторов if](https://habr.com/ru/articles/783714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783714)
+- [Как создать веб-приложение на базе Telegram Mini Apps](https://habr.com/ru/companies/selectel/articles/783462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
