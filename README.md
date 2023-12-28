@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Перевод третьей части учебника Patterns.dev](https://habr.com/ru/articles/783876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783876)
+- [[Перевод] Типы событий в React и TypeScript](https://habr.com/ru/articles/783858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783858)
+- [Это база: как создать эффективный рекламный баннер в приложении](https://habr.com/ru/companies/koshelek/articles/783840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783840)
 - [Бинарный поиск](https://habr.com/ru/articles/783848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783848)
 - [Дополнительный код/запись отрицательных чисел в памяти компьютера](https://habr.com/ru/articles/783842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783842)
-- [Биномиальный тест](https://habr.com/ru/articles/783816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783816)
-- [Оптимизация на лету: Как правильная методология разработки в 1С сокращает отчетность с минут до секунд](https://habr.com/ru/articles/783798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783798)
-- [Разделяй и властвуй: как мы адаптировали API монолитного приложения для нужд публичных запросов и внешних интеграций](https://habr.com/ru/articles/783562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
