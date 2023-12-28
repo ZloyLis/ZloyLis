@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Typescript ENUM — баланс использования](https://habr.com/ru/companies/nlmk/articles/770974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770974)
+- [Как и зачем мы внедрили Snapshot Testing](https://habr.com/ru/companies/mkb/articles/783568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783568)
 - [Отключаем ненужный функционал плагина для Jira с помощью кастомной аннотации Spring](https://habr.com/ru/companies/samokat_tech/articles/781756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781756)
 - [И послала жена мужика из башни Вулыха со списком к празднованию Нового года](https://habr.com/ru/articles/783644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783644)
 - [Разработка сайта для фудтеха. С какими сложностями мы столкнулись, интегрируя «Гриль №1» с iiko](https://habr.com/ru/companies/pyrobyte/articles/783650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783650)
-- [Это всего лишь опрос. Кто-то хочет черно-белый e-ink сенсорный мобильный телефон, который работает 14 дней?](https://habr.com/ru/articles/783646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783646)
-- [Когда закончится эра безграмотных мобильных интерфейсов? Воспоминания о курсе эргономики 1985 года](https://habr.com/ru/articles/783640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
