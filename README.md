@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Искусство следопыта в корпоративной инфраструктуре](https://habr.com/ru/companies/securityvison/articles/783698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783698)
+- [Зачем и как в Альфе была написана библиотека для скриншот тестов под Android](https://habr.com/ru/companies/alfa/articles/783602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783602)
 - [Топ-18 наших самых крутых ИИ-разработок за 2023 год: рукописная прописка, UniversalPay и обрезанные QR. А что еще?](https://habr.com/ru/companies/smartengines/articles/783224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783224)
 - [Typescript ENUM — баланс использования](https://habr.com/ru/companies/nlmk/articles/770974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770974)
 - [Как и зачем мы внедрили Snapshot Testing](https://habr.com/ru/companies/mkb/articles/783568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783568)
-- [Отключаем ненужный функционал плагина для Jira с помощью кастомной аннотации Spring](https://habr.com/ru/companies/samokat_tech/articles/781756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781756)
-- [И послала жена мужика из башни Вулыха со списком к празднованию Нового года](https://habr.com/ru/articles/783644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
