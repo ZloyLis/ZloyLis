@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Статический сайт на AWS с редиректом http→https, www.site→site](https://habr.com/ru/articles/783910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783910)
 - [Размышления о выборе языка программирования для школы &lpar;и ситуации с информатикой в целом&rpar;…](https://habr.com/ru/articles/783900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783900)
 - [[Перевод] Перевод третьей части учебника Patterns.dev](https://habr.com/ru/articles/783876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783876)
 - [[Перевод] Типы событий в React и TypeScript](https://habr.com/ru/articles/783858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783858)
 - [Это база: как создать эффективный рекламный баннер в приложении](https://habr.com/ru/companies/koshelek/articles/783840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783840)
-- [Бинарный поиск](https://habr.com/ru/articles/783848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
