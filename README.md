@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда закончится эра безграмотных мобильный интерфейсов? Воспоминания о курсе эргономики 1985 года](https://habr.com/ru/articles/783640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783640)
 - [Framework для автоматизации тестирования на Java](https://habr.com/ru/companies/rshb/articles/783620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783620)
 - [Как организовать процессы для эффективной защиты прав в GameDev-проектах? Делимся решениями](https://habr.com/ru/articles/783594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783594)
 - [Flask для начинающих](https://habr.com/ru/articles/783574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783574)
 - [Кодогенерация и парсинг TypeScript с помощью typescript](https://habr.com/ru/companies/sportmaster_lab/articles/782822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782822)
-- [Tarantool 3.0](https://habr.com/ru/companies/vk/articles/782318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
