@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой вопрос по Android Core, на который даже сеньоры отвечают неправильно](https://habr.com/ru/articles/783780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783780)
+- [ESPspectrum](https://habr.com/ru/articles/783778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783778)
+- [100 вопросов для подготовки к собесу Data Science](https://habr.com/ru/articles/783766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783766)
 - [Ortools — библиотека для решения задачи VRP](https://habr.com/ru/articles/783754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783754)
 - [ML SAST. Часть 1: как работают инструменты SAST и какие проблемы может решить применение машинного обучения?](https://habr.com/ru/articles/783744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783744)
-- [Css «карточки» в динамически генерируемом web документе — моя реализация](https://habr.com/ru/articles/783742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783742)
-- [Основные отличия PascalABC.NET](https://habr.com/ru/articles/783740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783740)
-- [[Перевод] Многоуровневое логирование: Руководство по структурированному и последовательному ведению логов](https://habr.com/ru/companies/otus/articles/783738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
