@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бинарный поиск](https://habr.com/ru/articles/783848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783848)
+- [Дополнительный код/запись отрицательных чисел в памяти компьютера](https://habr.com/ru/articles/783842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783842)
 - [Биномиальный тест](https://habr.com/ru/articles/783816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783816)
 - [Оптимизация на лету: Как правильная методология разработки в 1С сокращает отчетность с минут до секунд](https://habr.com/ru/articles/783798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783798)
 - [Разделяй и властвуй: как мы адаптировали API монолитного приложения для нужд публичных запросов и внешних интеграций](https://habr.com/ru/articles/783562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783562)
-- [Увлекательный мир фронтенда](https://habr.com/ru/companies/it-guide/articles/782710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782710)
-- [Простой вопрос по Android Core, на который даже сеньоры отвечают неправильно](https://habr.com/ru/articles/783780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
