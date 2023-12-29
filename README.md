@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Распаковываем архив gzip вручную. Часть 2](https://habr.com/ru/companies/ruvds/articles/783210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783210)
+- [Scala Digest. Выпуск 12](https://habr.com/ru/companies/tinkoff/articles/784044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784044)
+- [Когда цифры имеют значение: имитационное моделирование для улучшения эффективности](https://habr.com/ru/companies/rosatom/articles/784038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784038)
 - [Как Додо Пицца доставляет свежий код: история мобильного CI для iOS](https://habr.com/ru/companies/dododev/articles/782922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782922)
 - [Serverless в первый раз](https://habr.com/ru/companies/m2tech/articles/783734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783734)
-- [[Перевод] Носители английского языка — худшие коммуникаторы в мире](https://habr.com/ru/articles/783986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783986)
-- [[Перевод] Проблема объёма логов](https://habr.com/ru/articles/783976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783976)
-- [[Перевод] Красота замыканий](https://habr.com/ru/companies/otus/articles/783824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
