@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заметки для начинающего тимлида](https://habr.com/ru/articles/783096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783096)
 - [[Перевод] Распаковываем архив gzip вручную. Часть 2](https://habr.com/ru/companies/ruvds/articles/783210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783210)
 - [Scala Digest. Выпуск 12](https://habr.com/ru/companies/tinkoff/articles/784044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784044)
 - [Когда цифры имеют значение: имитационное моделирование для улучшения эффективности](https://habr.com/ru/companies/rosatom/articles/784038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784038)
 - [Как Додо Пицца доставляет свежий код: история мобильного CI для iOS](https://habr.com/ru/companies/dododev/articles/782922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782922)
-- [Serverless в первый раз](https://habr.com/ru/companies/m2tech/articles/783734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
