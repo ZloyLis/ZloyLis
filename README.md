@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Проблема объёма логов](https://habr.com/ru/articles/783976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783976)
 - [[Перевод] Красота замыканий](https://habr.com/ru/companies/otus/articles/783824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783824)
 - [2d движок для игр Javascript Game Engine &lpar;JsGE&rpar;](https://habr.com/ru/articles/783922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783922)
 - [Статический сайт на AWS с редиректом http→https, www.site→site](https://habr.com/ru/articles/783910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783910)
 - [Размышления о выборе языка программирования для школы &lpar;и ситуации с информатикой в целом&rpar;…](https://habr.com/ru/articles/783900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783900)
-- [[Перевод] Перевод третьей части учебника Patterns.dev](https://habr.com/ru/articles/783876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
