@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Додо Пицца доставляет свежий код: история мобильного CI для iOS](https://habr.com/ru/companies/dododev/articles/782922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782922)
 - [Serverless в первый раз](https://habr.com/ru/companies/m2tech/articles/783734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783734)
 - [[Перевод] Носители английского языка — худшие коммуникаторы в мире](https://habr.com/ru/articles/783986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783986)
 - [[Перевод] Проблема объёма логов](https://habr.com/ru/articles/783976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783976)
 - [[Перевод] Красота замыканий](https://habr.com/ru/companies/otus/articles/783824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783824)
-- [2d движок для игр Javascript Game Engine &lpar;JsGE&rpar;](https://habr.com/ru/articles/783922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
