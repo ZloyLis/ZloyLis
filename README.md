@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Process Memory Map](https://habr.com/ru/articles/784152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784152)
 - [Синхронизация операций в .NET на примерах](https://habr.com/ru/articles/784134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784134)
 - [Электроника для самых маленьких: или еще один UV излучатель для активации фотополимера](https://habr.com/ru/companies/timeweb/articles/782354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782354)
 - [Сложи раз, сложи два: почему смартфоны с гибкими экранами популярны, а ноутбуки — нет?](https://habr.com/ru/companies/ru_mts/articles/784064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784064)
 - [[Перевод] Быстрый парсинг 8-битных целых чисел](https://habr.com/ru/articles/784102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784102)
-- [Тестирование новых версий сервисов с помощью Canary Deployment &lpar;Kubernetes&rpar;](https://habr.com/ru/articles/784130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
