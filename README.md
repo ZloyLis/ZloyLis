@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [8. Качество переходного процесса ч.1](https://habr.com/ru/articles/772018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=772018)
 - [Чтение Micro QR Code версии М3 &lpar;числовой режим&rpar;](https://habr.com/ru/articles/784200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784200)
 - [Техники для повышения гибкости в управлении проектами в период кризиса](https://habr.com/ru/articles/784196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784196)
 - [Создание простого и работоспособного генетического алгоритма с Python и NumPy](https://habr.com/ru/articles/784192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784192)
 - [Управление памятью и разделяемыми ресурсами без ошибок](https://habr.com/ru/articles/784184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784184)
-- [Паттерн Unit of Work в разрезе чистой архитектуры DDD на языке Golang](https://habr.com/ru/articles/784186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
