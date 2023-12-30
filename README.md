@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерн Unit of Work в разрезе чистой архитектуры DDD на языке Golang](https://habr.com/ru/articles/784186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784186)
 - [ChatGPT на Java. Пишем “Hello World” на Spring AI](https://habr.com/ru/articles/784128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784128)
 - [Frontend. Чистые и грязные компоненты](https://habr.com/ru/articles/784172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784172)
 - [Еще один год из жизни ReactOS](https://habr.com/ru/companies/reactos/articles/782556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782556)
 - [Плагин на LibreOffice с Gigachat API](https://habr.com/ru/articles/784168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784168)
-- [Задача машинного обучения в медицинской диагностике](https://habr.com/ru/articles/784162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
