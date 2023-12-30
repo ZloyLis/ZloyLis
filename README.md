@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.75.0: API адресной арифметики, async fn и impl Trait в трейтах, уcкорение rustc](https://habr.com/ru/articles/784126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784126)
+- [KrakenD — новый друг для вашего backend](https://habr.com/ru/articles/784124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784124)
 - [[Перевод] Параллельные вычисления — Все дело в контексте-синхронизации &lpar;SynchronizationContext&rpar;](https://habr.com/ru/articles/784072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784072)
 - [Какие вопросы я задаю на собеседовании QA Junior+](https://habr.com/ru/articles/784116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784116)
 - [JavaScript классы в Es6](https://habr.com/ru/articles/784092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784092)
-- [Идентификация пользователей в Web 3.0](https://habr.com/ru/articles/781584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781584)
-- [Apple Pro Weekly News &lpar;18.12 – 31.12.23&rpar;](https://habr.com/ru/articles/783642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
