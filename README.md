@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Электроника для самых маленьких: или еще один UV излучатель для активации фотополимера](https://habr.com/ru/companies/timeweb/articles/782354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782354)
+- [Сложи раз, сложи два: почему смартфоны с гибкими экранами популярны, а ноутбуки — нет?](https://habr.com/ru/companies/ru_mts/articles/784064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784064)
+- [[Перевод] Быстрый парсинг 8-битных целых чисел](https://habr.com/ru/articles/784102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784102)
+- [Тестирование новых версий сервисов с помощью Canary Deployment &lpar;Kubernetes&rpar;](https://habr.com/ru/articles/784130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784130)
 - [[Перевод] Rust 1.75.0: API адресной арифметики, async fn и impl Trait в трейтах, уcкорение rustc](https://habr.com/ru/articles/784126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784126)
-- [KrakenD — новый друг для вашего backend](https://habr.com/ru/articles/784124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784124)
-- [[Перевод] Параллельные вычисления — Все дело в контексте-синхронизации &lpar;SynchronizationContext&rpar;](https://habr.com/ru/articles/784072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784072)
-- [Какие вопросы я задаю на собеседовании QA Junior+](https://habr.com/ru/articles/784116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784116)
-- [JavaScript классы в Es6](https://habr.com/ru/articles/784092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
