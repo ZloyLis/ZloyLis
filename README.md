@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontend. Чистые и грязные компоненты](https://habr.com/ru/articles/784172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784172)
 - [Еще один год из жизни ReactOS](https://habr.com/ru/companies/reactos/articles/782556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782556)
 - [Плагин на LibreOffice с Gigachat API](https://habr.com/ru/articles/784168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784168)
 - [Задача машинного обучения в медицинской диагностике](https://habr.com/ru/articles/784162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784162)
 - [Process Memory Map](https://habr.com/ru/articles/784152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784152)
-- [Синхронизация операций в .NET на примерах](https://habr.com/ru/articles/784134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
