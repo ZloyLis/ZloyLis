@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чтение Micro QR Code версии М3 &lpar;байтовый режим&rpar;](https://habr.com/ru/articles/784254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784254)
 - [Чтение Micro QR Code версии М3 &lpar;алфавитно-цифровой режим&rpar;](https://habr.com/ru/articles/784240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784240)
 - [Размышления о структурном программировании](https://habr.com/ru/articles/784238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784238)
 - [Чего ожидать от 2024?](https://habr.com/ru/articles/784236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784236)
 - [Генератор тестовых данных для JVM совместимых языков](https://habr.com/ru/articles/784228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784228)
-- [Белгород. Telegram-bot для поиска укрытий](https://habr.com/ru/articles/712042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
