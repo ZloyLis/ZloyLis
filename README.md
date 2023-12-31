@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка, модуля формирования виртуальной трёхмерной среды системы проектирования для робототехнических комплексов](https://habr.com/ru/articles/784280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784280)
 - [Пора перевести стрелки часов: послание ученым на 2024 год](https://habr.com/ru/companies/selectel/articles/784264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784264)
 - [Чтение Micro QR Code версии М3 &lpar;байтовый режим&rpar;](https://habr.com/ru/articles/784254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784254)
 - [Чтение Micro QR Code версии М3 &lpar;алфавитно-цифровой режим&rpar;](https://habr.com/ru/articles/784240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784240)
 - [Размышления о структурном программировании](https://habr.com/ru/articles/784238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784238)
-- [Чего ожидать от 2024?](https://habr.com/ru/articles/784236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
