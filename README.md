@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой вам подарок к новому году или как наконец запустил то, что надо было давно запустить…](https://habr.com/ru/articles/784282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784282)
+- [Разработка под Symbian: SDK](https://habr.com/ru/articles/784296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784296)
 - [11lc — инновационный компилятор для нового языка программирования](https://habr.com/ru/articles/784294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784294)
 - [Разработка, модуля формирования виртуальной трёхмерной среды системы проектирования для робототехнических комплексов](https://habr.com/ru/articles/784280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784280)
 - [Пора перевести стрелки часов: послание ученым на 2024 год](https://habr.com/ru/companies/selectel/articles/784264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784264)
-- [Чтение Micro QR Code версии М3 &lpar;байтовый режим&rpar;](https://habr.com/ru/articles/784254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784254)
-- [Чтение Micro QR Code версии М3 &lpar;алфавитно-цифровой режим&rpar;](https://habr.com/ru/articles/784240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
