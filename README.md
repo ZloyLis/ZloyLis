@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Injection контейнеры .NET, допускающие полиморфное поведение](https://habr.com/ru/companies/ruvds/articles/776768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776768)
+- [Сайт на GitHub-Pages платформе](https://habr.com/ru/articles/784388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784388)
+- [По KPI](https://habr.com/ru/articles/784386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784386)
 - [Как обычная лень привела меня к потере 19 миллиардов долларов. Или почему нельзя почивать на лаврах](https://habr.com/ru/articles/784362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784362)
 - [Модульная Процедурная Автоматизация: на пути к цифровому заводу](https://habr.com/ru/articles/784364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784364)
-- [Переезд на Астра Линукс](https://habr.com/ru/articles/783904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783904)
-- [Что такое react-afc](https://habr.com/ru/articles/784326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784326)
-- [Retrieval-Augmented Generation в техподдержке на основе YandexGPT](https://habr.com/ru/articles/784298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
