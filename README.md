@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модульная Процедурная Автоматизация: на пути к цифровому заводу](https://habr.com/ru/articles/784364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784364)
 - [Переезд на Астра Линукс](https://habr.com/ru/articles/783904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783904)
 - [Что такое react-afc](https://habr.com/ru/articles/784326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784326)
 - [Retrieval-Augmented Generation в техподдержке на основе YandexGPT](https://habr.com/ru/articles/784298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784298)
 - [Мой вам подарок к Новому году или как наконец запустил то, что надо было давно запустить…](https://habr.com/ru/articles/784282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784282)
-- [Разработка под Symbian: SDK](https://habr.com/ru/articles/784296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
