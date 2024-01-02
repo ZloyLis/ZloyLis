@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прокрастинация](https://habr.com/ru/articles/784450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784450)
 - [Вжух – и ты потух! Как стать разработчиком, несмотря на выгорание](https://habr.com/ru/articles/784442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784442)
 - [Может ли нейро-сотрудник на базе ChatGPT звонить по обычной телефонной линии?](https://habr.com/ru/articles/784448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784448)
 - [Стартап — Сервис по тестированию. Часть 1. «О проекте»](https://habr.com/ru/articles/784430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784430)
 - [Как я создавал автокликер для приложения «ДругВокруг»](https://habr.com/ru/articles/784414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784414)
-- [Агрегатор личных финансов со всех счетов](https://habr.com/ru/articles/784412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
