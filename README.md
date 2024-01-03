@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать читать научные исследования по дизайну и зачем они нужны](https://habr.com/ru/articles/784526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784526)
+- [[Перевод] Становится ли ПО хуже?](https://habr.com/ru/companies/ruvds/articles/784034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784034)
 - [Прикладное терраформирование или как затратив 1 кВт получить 1.5 МВт](https://habr.com/ru/articles/784516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784516)
 - [Чем заняться на каникулах? 5 идей для пет-проектов, которые можно сделать за новогодние праздники](https://habr.com/ru/companies/selectel/articles/784470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784470)
 - [Техсобесы — это просто, но есть нюанс… Часть 2: Зазеркалье](https://habr.com/ru/companies/yandex_praktikum/articles/783212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783212)
-- [Маг молний](https://habr.com/ru/articles/784454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784454)
-- [Как Чинить Программные Ошибки?](https://habr.com/ru/articles/696146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
