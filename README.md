@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ESPspectrum прошивка](https://habr.com/ru/articles/784538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784538)
+- [Flutter и фриланс в школе](https://habr.com/ru/articles/784536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784536)
 - [Парадокс вращения монеты — иллюзионист от мира математики](https://habr.com/ru/articles/782648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782648)
 - [Open Source Cloud Computing 2](https://habr.com/ru/articles/784532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784532)
 - [Правильное понимание Single Responsibility Principle &lpar;SRP&rpar; в Dart/Flutter](https://habr.com/ru/articles/784528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784528)
-- [Как начать читать научные исследования по дизайну и зачем они нужны](https://habr.com/ru/articles/784526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784526)
-- [[Перевод] Становится ли ПО хуже?](https://habr.com/ru/companies/ruvds/articles/784034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
