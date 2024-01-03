@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Техсобесы — это просто, но есть нюанс… Часть 2: Зазеркалье](https://habr.com/ru/companies/yandex_praktikum/articles/783212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783212)
+- [Маг молний](https://habr.com/ru/articles/784454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784454)
 - [Как Чинить Программные Ошибки?](https://habr.com/ru/articles/696146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696146)
 - [Квантовая теория гравитации прямо от автора](https://habr.com/ru/articles/784456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784456)
 - [Как вернуть себе потерянные &lpar;или украденные из-за санкций?&rpar; умные функции стиральной машины Bosch](https://habr.com/ru/articles/783066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783066)
-- [Прокрастинация](https://habr.com/ru/articles/784450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784450)
-- [Вжух – и ты потух! Как стать разработчиком, несмотря на выгорание](https://habr.com/ru/articles/784442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
