@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Чинить Программные Ошибки?](https://habr.com/ru/articles/696146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=696146)
+- [Квантовая теория гравитации прямо от автора](https://habr.com/ru/articles/784456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784456)
+- [Как вернуть себе потерянные &lpar;или украденные из-за санкций?&rpar; умные функции стиральной машины Bosch](https://habr.com/ru/articles/783066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783066)
 - [Прокрастинация](https://habr.com/ru/articles/784450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784450)
 - [Вжух – и ты потух! Как стать разработчиком, несмотря на выгорание](https://habr.com/ru/articles/784442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784442)
-- [Может ли нейро-сотрудник на базе ChatGPT звонить по обычной телефонной линии?](https://habr.com/ru/articles/784448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784448)
-- [Стартап — Сервис по тестированию. Часть 1. «О проекте»](https://habr.com/ru/articles/784430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784430)
-- [Как я создавал автокликер для приложения «ДругВокруг»](https://habr.com/ru/articles/784414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
