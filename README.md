@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust хорош](https://habr.com/ru/articles/784634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784634)
 - [Почему typeof null === «object» в современном прочтении](https://habr.com/ru/articles/784622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784622)
 - [Пример исследовательского реверс инжиниринга приложения Zone Launcher](https://habr.com/ru/articles/784628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784628)
 - [Рассчитываем рейтинг товара на основе оценок пользователей с KafkaStreams и OpenSearch](https://habr.com/ru/articles/783360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783360)
 - [Как сделать консистентный UX для 40+ продуктов. Уроки, которые я извлекла из перезапуска дизайн-системы](https://habr.com/ru/companies/selectel/articles/782422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782422)
-- [Вопросы и ответы для собеседования на позицию frontend-разработчик. Часть 1](https://habr.com/ru/articles/784548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
