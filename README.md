@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вопросы и ответы для собеседования на позицию frontend-разработчик. Часть 1](https://habr.com/ru/articles/784548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784548)
 - [Что такое UI на самом деле?](https://habr.com/ru/articles/784558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784558)
 - [Закон больших чисел и закон больших грабель](https://habr.com/ru/articles/784556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784556)
 - [Строим свой SSO. Часть 4: Vue.js, Регистрация, Сброс пароля](https://habr.com/ru/articles/784552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784552)
 - [ESPspectrum прошивка](https://habr.com/ru/articles/784538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784538)
-- [Flutter и фриланс в школе](https://habr.com/ru/articles/784536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
