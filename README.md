@@ -27,7 +27,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Лучшие поисковые пакеты для JavaScript](https://habr.com/ru/articles/784650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784650)
-- [ПОЛИНОМИАЛЬНЫЕ КОРНЕВЫЕ МЕТОДЫ СИНТЕЗА САУ ч.1](https://habr.com/ru/articles/784358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784358)
+- [Полиномиальные корневые методы синтеза САУ ч.1](https://habr.com/ru/articles/784358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784358)
 - [Упрощение отладки с помощью unit-тестов](https://habr.com/ru/articles/784644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784644)
 - [Rust хорош](https://habr.com/ru/articles/784634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784634)
 - [Почему typeof null === «object» в современном прочтении](https://habr.com/ru/articles/784622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784622)
