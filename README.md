@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins: оптимизируя динамический пайплайн → распределённая сборка компонентов ОС](https://habr.com/ru/companies/swd_es/articles/784396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784396)
+- [Async/Await из C#. Головоломка для разработчиков компилятора и для нас](https://habr.com/ru/articles/784630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784630)
 - [[Перевод] Лучшие поисковые пакеты для JavaScript](https://habr.com/ru/articles/784650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784650)
 - [Полиномиальные корневые методы синтеза САУ ч.1](https://habr.com/ru/articles/784358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784358)
 - [Упрощение отладки с помощью unit-тестов](https://habr.com/ru/articles/784644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784644)
-- [Rust хорош](https://habr.com/ru/articles/784634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784634)
-- [Почему typeof null === «object» в современном прочтении](https://habr.com/ru/articles/784622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
