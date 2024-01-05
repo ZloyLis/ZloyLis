@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем веб-приложение вместе с ChatGPT 4 и Stable Diffusion](https://habr.com/ru/articles/784724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784724)
 - [[Перевод] Мой первый прототип поискового движка](https://habr.com/ru/companies/ruvds/articles/784504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784504)
 - [Технические задания на собеседовании QA Junior+](https://habr.com/ru/articles/784710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784710)
 - [Частые и не очень грабли ООП проектирования на Java](https://habr.com/ru/articles/784708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784708)
 - [Решаем задачу: как сохранить нервные клетки пользователей с помощью валидации поля ввода](https://habr.com/ru/companies/yandex_praktikum/articles/783358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783358)
-- [Рабочее место мечты](https://habr.com/ru/companies/reksoft/articles/784640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
