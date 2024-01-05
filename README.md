@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ScrollView с прилипающим выделенным элементом на SwiftUI](https://habr.com/ru/articles/784768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784768)
 - [[Перевод] Распределенное управление конкурентностью](https://habr.com/ru/articles/784750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784750)
 - [Как работает протокол X11 на самом нижнем уровне](https://habr.com/ru/articles/712376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=712376)
 - [Пишем веб-приложение вместе с ChatGPT и Stable Diffusion](https://habr.com/ru/articles/784724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784724)
 - [[Перевод] Мой первый прототип поискового движка](https://habr.com/ru/companies/ruvds/articles/784504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784504)
-- [Технические задания на собеседовании QA Junior+](https://habr.com/ru/articles/784710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
