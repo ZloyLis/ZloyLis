@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мой первый прототип поискового движка](https://habr.com/ru/companies/ruvds/articles/784504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784504)
+- [Технические задания на собеседовании QA Junior+](https://habr.com/ru/articles/784710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784710)
+- [Частые и не очень грабли ООП проектирования на Java](https://habr.com/ru/articles/784708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784708)
 - [Решаем задачу: как сохранить нервные клетки пользователей с помощью валидации поля ввода](https://habr.com/ru/companies/yandex_praktikum/articles/783358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783358)
 - [Рабочее место мечты](https://habr.com/ru/companies/reksoft/articles/784640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784640)
-- [Jenkins: оптимизируя динамический пайплайн → распределённая сборка компонентов ОС](https://habr.com/ru/companies/swd_es/articles/784396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784396)
-- [Async/Await из C#. Головоломка для разработчиков компилятора и для нас](https://habr.com/ru/articles/784630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784630)
-- [[Перевод] Лучшие поисковые пакеты для JavaScript](https://habr.com/ru/articles/784650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
