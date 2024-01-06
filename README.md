@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я поднял свой сервер без возможности выставить для него статический IP адрес](https://habr.com/ru/articles/784854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784854)
 - [Dictionary и SortedDictionary](https://habr.com/ru/articles/784852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784852)
 - [Кодирование числа в Micro QR Code версии М2 &lpar;по ГОСТ&rpar;](https://habr.com/ru/articles/784828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784828)
 - [Ключевой навык успешной карьеры в ИТ или 8 заблуждений на проектах](https://habr.com/ru/articles/784762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784762)
 - [Java Digest #8](https://habr.com/ru/companies/tinkoff/articles/784790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784790)
-- [Создание и использование BOM в Gradle](https://habr.com/ru/articles/784784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
