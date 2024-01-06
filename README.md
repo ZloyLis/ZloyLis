@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ключевой навык успешной карьеры в ИТ или 8 заблуждений на проектах](https://habr.com/ru/articles/784762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784762)
+- [Java Digest #8](https://habr.com/ru/companies/tinkoff/articles/784790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784790)
 - [Создание и использование BOM в Gradle](https://habr.com/ru/articles/784784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784784)
 - [Flask для начинающих — Часть 2 пишем landing page+admin panel с редактированием контента](https://habr.com/ru/articles/784770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784770)
 - [JWT-аутентификация при помощи Spring Boot 3 и Spring Security 6](https://habr.com/ru/articles/784508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784508)
-- [ScrollView с прилипающим выделенным элементом на SwiftUI](https://habr.com/ru/articles/784768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784768)
-- [[Перевод] Распределенное управление конкурентностью](https://habr.com/ru/articles/784750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
