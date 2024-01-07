@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я попробовал написать авиасимулятор](https://habr.com/ru/articles/784906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784906)
 - [[Перевод] Неожиданное взаимодействие предсказания ветвлений и подсистем памяти](https://habr.com/ru/companies/ruvds/articles/784596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784596)
 - [Coroutine Stacks — плагин для отладки корутин Kotlin](https://habr.com/ru/articles/784898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784898)
 - [Применяем Java Sealed Classes на практике](https://habr.com/ru/articles/784864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784864)
 - [As const в Typescript](https://habr.com/ru/articles/784862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784862)
-- [Как я поднял свой сервер без возможности выставить для него статический IP адрес](https://habr.com/ru/articles/784854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
