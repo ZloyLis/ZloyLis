@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы запускали серьезный проект в Telegram](https://habr.com/ru/articles/785068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785068)
+- [Вливаемся в Data Science: подробный roadmap что и где изучать](https://habr.com/ru/articles/785064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785064)
 - [[Перевод] Собираем автономную игру на C# в 2 килобайтах](https://habr.com/ru/companies/ruvds/articles/784776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784776)
 - [М.Видео: Нам всё равно](https://habr.com/ru/articles/784530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784530)
 - [Как получить повышение. Взгляд глазами руководителя](https://habr.com/ru/companies/kaspersky/articles/781544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781544)
-- [Начать год по-новому: курсы, которые помогут выстроить ИТ-базу — быстро и без «воды»](https://habr.com/ru/companies/beeline_cloud/articles/784904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784904)
-- [Как я попробовал написать авиасимулятор](https://habr.com/ru/articles/784906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
