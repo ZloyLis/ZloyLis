@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кодирование слова по алгоритму А.С. Пушкина в Micro QR Code версии М2](https://habr.com/ru/articles/785182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785182)
 - [[Перевод] Что нового во Flutter 3.16, ч.1](https://habr.com/ru/articles/785168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785168)
-- [Кто знает, что значит GPT в названии ChatGPT, могут дальше не читать!.](https://habr.com/ru/articles/785080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785080)
+- [Кто знает, что значит GPT в названии ChatGPT, могут дальше не читать](https://habr.com/ru/articles/785080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785080)
 - [Кодирование числа в Micro QR Code версии М2 &lpar;не по ГОСТ&rpar;](https://habr.com/ru/articles/785156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785156)
 - [Какие бывают Cortex-M7 ARM-ы, периферия, шины, память, … DMA](https://habr.com/ru/articles/785132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785132)
-- [[Перевод] Изучение мидлварей в Laravel 11](https://habr.com/ru/articles/785026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
