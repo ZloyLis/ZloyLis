@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безумный шляпник: будни IT-специалиста](https://habr.com/ru/articles/785222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785222)
+- [Внедрение процесса тестирования Google Tag Manager: увлекательная история Даши-путешественницы](https://habr.com/ru/companies/ivi/articles/785204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785204)
+- [[Перевод] Лидерство в тестировании — Сколько тестирования достаточно?](https://habr.com/ru/articles/785082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785082)
 - [Кодирование слова по алгоритму А.С. Пушкина в Micro QR Code версии М2](https://habr.com/ru/articles/785182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785182)
 - [[Перевод] Что нового во Flutter 3.16, ч.1](https://habr.com/ru/articles/785168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785168)
-- [Кто знает, что значит GPT в названии ChatGPT, могут дальше не читать](https://habr.com/ru/articles/785080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785080)
-- [Кодирование числа в Micro QR Code версии М2 &lpar;не по ГОСТ&rpar;](https://habr.com/ru/articles/785156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785156)
-- [Какие бывают Cortex-M7 ARM-ы, периферия, шины, память, … DMA](https://habr.com/ru/articles/785132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
