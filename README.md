@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Loom. Не только виртуальные потоки](https://habr.com/ru/articles/785334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785334)
 - [Как провести исследование рынка и продукта с помощью ChatGPT в 2024 году? Список ключевых промтов для продакт-менеджеров](https://habr.com/ru/articles/785316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785316)
 - [Security Week 2402: атака «Триангуляция» и аппаратная уязвимость в iPhone](https://habr.com/ru/companies/kaspersky/articles/785312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785312)
 - [Распределённые системы на службе ФССП России. Часть 2. Суперсервис «Цифровое исполнительное производство»](https://habr.com/ru/companies/redsoft/articles/785278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785278)
 - [Подбор цветов для палитры визуализации данных](https://habr.com/ru/companies/bimeister/articles/785272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785272)
-- [Дао программиста](https://habr.com/ru/articles/784340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
