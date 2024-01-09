@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Изучение мидлварей в Laravel 11](https://habr.com/ru/articles/785026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785026)
+- [[Перевод] Крупномасштабный стриминг видео с использованием Kubernetes и RabbitMQ](https://habr.com/ru/companies/timeweb/articles/785050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785050)
+- [Обратная нормализация &lpar;денормализация&rpar;](https://habr.com/ru/companies/mvideo/articles/783386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783386)
 - [Range Loop в Go: подводные камни, как с ними бороться и что нас ждёт в версии 1.22](https://habr.com/ru/companies/yandex_praktikum/articles/783504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783504)
 - [Зачем? И весь ужас удара бритвой по Оккаму](https://habr.com/ru/articles/785094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785094)
-- [Как мы запускали серьезный проект в Telegram](https://habr.com/ru/articles/785068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785068)
-- [Вливаемся в Data Science: подробный roadmap что и где изучать](https://habr.com/ru/articles/785064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785064)
-- [[Перевод] Собираем автономную игру на C# в 2 килобайтах](https://habr.com/ru/companies/ruvds/articles/784776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
