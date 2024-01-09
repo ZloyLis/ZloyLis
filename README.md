@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распределённые системы на службе ФССП России. Часть 2. Суперсервис «Цифровое исполнительное производство»](https://habr.com/ru/companies/redsoft/articles/785278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785278)
 - [Подбор цветов для палитры визуализации данных](https://habr.com/ru/companies/bimeister/articles/785272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785272)
 - [Дао программиста](https://habr.com/ru/articles/784340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784340)
 - [Безумный шляпник: будни IT-специалиста](https://habr.com/ru/articles/785222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785222)
 - [Внедрение процесса тестирования Google Tag Manager: увлекательная история Даши-путешественницы](https://habr.com/ru/companies/ivi/articles/785204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785204)
-- [[Перевод] Лидерство в тестировании — Сколько тестирования достаточно?](https://habr.com/ru/articles/785082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
