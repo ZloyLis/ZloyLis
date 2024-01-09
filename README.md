@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нового во Flutter 3.16, ч.1](https://habr.com/ru/articles/785168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785168)
+- [Кто знает, что значит GPT в названии ChatGPT, могут дальше не читать!.](https://habr.com/ru/articles/785080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785080)
+- [Кодирование числа в Micro QR Code версии М2 &lpar;не по ГОСТ&rpar;](https://habr.com/ru/articles/785156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785156)
+- [Какие бывают Cortex-M7 ARM-ы, периферия, шины, память, … DMA](https://habr.com/ru/articles/785132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785132)
 - [[Перевод] Изучение мидлварей в Laravel 11](https://habr.com/ru/articles/785026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785026)
-- [[Перевод] Крупномасштабный стриминг видео с использованием Kubernetes и RabbitMQ](https://habr.com/ru/companies/timeweb/articles/785050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785050)
-- [Обратная нормализация &lpar;денормализация&rpar;](https://habr.com/ru/companies/mvideo/articles/783386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783386)
-- [Range Loop в Go: подводные камни, как с ними бороться и что нас ждёт в версии 1.22](https://habr.com/ru/companies/yandex_praktikum/articles/783504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783504)
-- [Зачем? И весь ужас удара бритвой по Оккаму](https://habr.com/ru/articles/785094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
