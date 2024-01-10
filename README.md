@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайны квантовой физики от автора 1](https://habr.com/ru/articles/785576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785576)
 - [Как стать программистом в свои 14 лет и выполнить свой первый заказ на фриланс?](https://habr.com/ru/articles/785546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785546)
 - [Алгоритм minimax в шахматах](https://habr.com/ru/companies/otus/articles/785512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785512)
 - [Релиз Ruby 3.3.0: что появилось нового в языке программирования и что изменилось](https://habr.com/ru/companies/ru_mts/articles/785404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785404)
 - [Типизация: Как TypeScript помог мне найти Тайного Санту](https://habr.com/ru/articles/785518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785518)
-- [Переход в IT из другой профессии: пример опыта + полезное для тех, кто в процессе](https://habr.com/ru/articles/785490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
