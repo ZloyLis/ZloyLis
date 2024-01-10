@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Статистика QA вакансий и резюме. Декабрь 2023](https://habr.com/ru/articles/785452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785452)
 - [Есть ли будущее у архитекторов и на кого их можно заменить?](https://habr.com/ru/companies/oleg-bunin/articles/735032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735032)
 - [Всё ещё в поисках алгоритмического дзена](https://habr.com/ru/articles/785408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785408)
 - [10 специфических вопросов по REST API на техническом собеседовании по вакансии системного аналитика](https://habr.com/ru/articles/785352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785352)
 - [Матричные факторизации](https://habr.com/ru/articles/785356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785356)
-- [Разметка событий](https://habr.com/ru/articles/785320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
