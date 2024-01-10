@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Ruby 3.3.0: что появилось нового в языке программирования и что изменилось](https://habr.com/ru/companies/ru_mts/articles/785404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785404)
+- [Типизация: Как TypeScript помог мне найти Тайного Санту](https://habr.com/ru/articles/785518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785518)
 - [Переход в IT из другой профессии: пример опыта + полезное для тех, кто в процессе](https://habr.com/ru/articles/785490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785490)
 - [Изучаем C# в 2024 году](https://habr.com/ru/articles/785488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785488)
 - [Ускоряем работу python с numba](https://habr.com/ru/companies/otus/articles/784068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784068)
-- [Статистика QA вакансий и резюме. Декабрь 2023](https://habr.com/ru/articles/785452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785452)
-- [Есть ли будущее у архитекторов и на кого их можно заменить?](https://habr.com/ru/companies/oleg-bunin/articles/735032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
