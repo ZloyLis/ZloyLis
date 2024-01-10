@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переход в IT из другой профессии: пример опыта + полезное для тех, кто в процессе](https://habr.com/ru/articles/785490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785490)
+- [Изучаем C# в 2024 году](https://habr.com/ru/articles/785488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785488)
+- [Ускоряем работу python с numba](https://habr.com/ru/companies/otus/articles/784068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784068)
 - [Статистика QA вакансий и резюме. Декабрь 2023](https://habr.com/ru/articles/785452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785452)
 - [Есть ли будущее у архитекторов и на кого их можно заменить?](https://habr.com/ru/companies/oleg-bunin/articles/735032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735032)
-- [Всё ещё в поисках алгоритмического дзена](https://habr.com/ru/articles/785408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785408)
-- [10 специфических вопросов по REST API на техническом собеседовании по вакансии системного аналитика](https://habr.com/ru/articles/785352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785352)
-- [Матричные факторизации](https://habr.com/ru/articles/785356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
