@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Управляем навигацией во Flutter с помощью библиотеки auto_route: часть 2](https://habr.com/ru/companies/friflex/articles/784924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784924)
+- [Go: передача значений VS передача указателей](https://habr.com/ru/companies/it-guide/articles/744046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744046)
+- [Управляем навигацией во Flutter с помощью библиотеки auto_route: часть 2. Guards, Wrappers и миграция](https://habr.com/ru/companies/friflex/articles/784924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784924)
 - [Есть проблема? Нет проблем. Инструменты принятия решений](https://habr.com/ru/companies/sportmaster_lab/articles/785764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785764)
 - [«Хватит программировать в YAML и JSON!»: неочевидные проблемы шаблонизирования](https://habr.com/ru/companies/selectel/articles/785758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785758)
 - [Простыми словами про обработку текстовых запросов пользователя в Телеграмм ботах на java](https://habr.com/ru/articles/785752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785752)
-- [Об одном способе реализации архитектуры крупного Flutter-приложения](https://habr.com/ru/companies/beeline_tech/articles/785730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
