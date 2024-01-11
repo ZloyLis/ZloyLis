@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как появился графический интерфейс пользователя: история в лицах, деталях и фактах](https://habr.com/ru/companies/first/articles/784820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784820)
+- [[Перевод] Пишем 2D игру на JavaScript и Canvas. Часть 2. Графика](https://habr.com/ru/articles/769150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769150)
+- [[Перевод] Что нового во Flutter 3.16, ч.2](https://habr.com/ru/articles/785652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785652)
+- [Как появился графический интерфейс пользователя: история в лицах, деталях, фактах и курсорах](https://habr.com/ru/companies/first/articles/784820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784820)
 - [Взаимодействие ИТ и ИБ: средства защиты](https://habr.com/ru/companies/securityvison/articles/785644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785644)
 - [Connection pool для pqxx](https://habr.com/ru/articles/785636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785636)
-- [[Перевод] CNCF White Paper по observability: инструменты, виды, стратегии и проблемы](https://habr.com/ru/companies/flant/articles/781846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781846)
-- [Вопросы и ответы для собеседования на позицию frontend-разработчик. Часть 2](https://habr.com/ru/articles/785596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
