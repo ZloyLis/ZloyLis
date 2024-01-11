@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell и Selenium. Проще, чем кажется](https://habr.com/ru/articles/785538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785538)
+- [Вопросы и ответы для собеседования на позицию frontend-разработчик. Часть 2](https://habr.com/ru/articles/785596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785596)
+- [[Перевод] Как на самом деле Async/Await работают в C#. Часть 2 Артефакты от EAP шаблона, SynchronizationContext](https://habr.com/ru/articles/785466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785466)
+- [Как за 2 недели мы освоили Unreal Engine и запустили собственную игру-портфолио](https://habr.com/ru/companies/pyrobyte/articles/785368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785368)
 - [Любая программа словно фотон](https://habr.com/ru/articles/785586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785586)
-- [Тайны квантовой физики от автора 1](https://habr.com/ru/articles/785576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785576)
-- [Как стать программистом в свои 14 лет и выполнить свой первый заказ на фриланс?](https://habr.com/ru/articles/785546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785546)
-- [Алгоритм minimax в шахматах](https://habr.com/ru/companies/otus/articles/785512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785512)
-- [Релиз Ruby 3.3.0: что появилось нового в языке программирования и что изменилось](https://habr.com/ru/companies/ru_mts/articles/785404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
