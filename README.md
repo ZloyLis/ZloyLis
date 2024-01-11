@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простыми словами про обработку текстовых запросов пользователя в Телеграмм ботах на java](https://habr.com/ru/articles/785752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785752)
+- [Об одном способе реализации архитектуры крупного Flutter-приложения](https://habr.com/ru/companies/beeline_tech/articles/785730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785730)
 - [Направо пойдёшь — тестировщиком станешь, налево пойдёшь — ˂...˃: куда податься питонисту?](https://habr.com/ru/articles/785718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785718)
 - [Решаем головоломки и настраиваем среды Kubernetes: подборка новых языков программирования](https://habr.com/ru/companies/beeline_cloud/articles/785686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785686)
 - [Разборы важных новинок для iOS-разработки с WWDC 2023](https://habr.com/ru/companies/kts/articles/785528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785528)
-- [[Перевод] Пишем 2D игру на JavaScript и Canvas. Часть 2. Графика](https://habr.com/ru/articles/769150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769150)
-- [[Перевод] Что нового во Flutter 3.16, ч.2](https://habr.com/ru/articles/785652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
