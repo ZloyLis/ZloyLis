@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Повышение качества данных с использованием Zero Bug Policy](https://habr.com/ru/companies/avito/articles/783534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783534)
 - [Разборы важных новинок для iOS-разработки с WWDC 2023](https://habr.com/ru/companies/kts/articles/785528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785528)
 - [[Перевод] Пишем 2D игру на JavaScript и Canvas. Часть 2. Графика](https://habr.com/ru/articles/769150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=769150)
 - [[Перевод] Что нового во Flutter 3.16, ч.2](https://habr.com/ru/articles/785652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785652)
 - [Как появился графический интерфейс пользователя: история в лицах, деталях, фактах и курсорах](https://habr.com/ru/companies/first/articles/784820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784820)
-- [Взаимодействие ИТ и ИБ: средства защиты](https://habr.com/ru/companies/securityvison/articles/785644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
