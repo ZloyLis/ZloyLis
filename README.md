@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как появился графический интерфейс пользователя: история в лицах, деталях и фактах](https://habr.com/ru/companies/first/articles/784820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784820)
+- [Взаимодействие ИТ и ИБ: средства защиты](https://habr.com/ru/companies/securityvison/articles/785644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785644)
+- [Connection pool для pqxx](https://habr.com/ru/articles/785636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785636)
+- [[Перевод] CNCF White Paper по observability: инструменты, виды, стратегии и проблемы](https://habr.com/ru/companies/flant/articles/781846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781846)
 - [Вопросы и ответы для собеседования на позицию frontend-разработчик. Часть 2](https://habr.com/ru/articles/785596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785596)
-- [[Перевод] Как на самом деле Async/Await работают в C#. Часть 2 Артефакты от EAP шаблона, SynchronizationContext](https://habr.com/ru/articles/785466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785466)
-- [Любая программа словно фотон](https://habr.com/ru/articles/785586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785586)
-- [Тайны квантовой физики от автора 1](https://habr.com/ru/articles/785576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785576)
-- [Как стать программистом в свои 14 лет и выполнить свой первый заказ на фриланс?](https://habr.com/ru/articles/785546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
