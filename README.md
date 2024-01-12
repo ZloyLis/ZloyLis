@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Оптимизируя неоптимизируемое: ускорение компиляции C++](https://habr.com/ru/companies/ruvds/articles/785420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785420)
+- [PVS-Studio в 2023](https://habr.com/ru/companies/pvs-studio/articles/786046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786046)
 - [Container Security: инструменты](https://habr.com/ru/articles/786032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786032)
 - [Как работает дедупликация данных в потоке Kafka-to-Kafka?](https://habr.com/ru/companies/ru_mts/articles/786012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786012)
 - [Кодим 24/7: Прокачиваем продуктивность в условиях жесткого цейтнота](https://habr.com/ru/companies/productstar/articles/786004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786004)
-- [2ГИС — опасное приложение?](https://habr.com/ru/companies/2gis/articles/786006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786006)
-- [Метод быстрого марша &lpar;Fast Marching Method&rpar;](https://habr.com/ru/articles/785990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
