@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с ETH, BSC, TRX кошельками на сервере NodeJS — отправка транзакций, получение баланса, генерация мнемоники](https://habr.com/ru/articles/786108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786108)
 - [Кто будет после нас](https://habr.com/ru/articles/786084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786084)
 - [Погружение в мир адаптивной верстки с Flutter](https://habr.com/ru/articles/786104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786104)
 - [Детальный React. Реконсиляция, рендеры, Fiber, виртуальное дерево](https://habr.com/ru/articles/786102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786102)
 - [Малоизвестные и интересные особенности C и C++](https://habr.com/ru/articles/786096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786096)
-- [Сериализация данных в Golang с Protobuf](https://habr.com/ru/companies/otus/articles/784732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
