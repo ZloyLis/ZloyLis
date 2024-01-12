@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Container Security: инструменты](https://habr.com/ru/articles/786032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786032)
+- [Как работает дедупликация данных в потоке Kafka-to-Kafka?](https://habr.com/ru/companies/ru_mts/articles/786012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786012)
+- [Кодим 24/7: Прокачиваем продуктивность в условиях жесткого цейтнота](https://habr.com/ru/companies/productstar/articles/786004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786004)
+- [2ГИС — опасное приложение?](https://habr.com/ru/companies/2gis/articles/786006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786006)
 - [Метод быстрого марша &lpar;Fast Marching Method&rpar;](https://habr.com/ru/articles/785990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785990)
-- [Стилистические правила умерли, да здравствуют стилистические правила](https://habr.com/ru/companies/domclick/articles/785800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785800)
-- [Уровни изолированности транзакций для самых маленьких](https://habr.com/ru/companies/maxilect/articles/785960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785960)
-- [Тренды в продакт-менеджменте в 2024 году: к чему стоит подготовиться уже сейчас](https://habr.com/ru/articles/785952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785952)
-- [Четыре метрики, изменившие мой проект](https://habr.com/ru/companies/oleg-bunin/articles/785044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
