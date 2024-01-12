@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Последние тренды в мобильной связи и их влияние на бизнес](https://habr.com/ru/companies/newtel/articles/785922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785922)
+- [Разработка HID-драйвера: шаг за шагом](https://habr.com/ru/companies/swd_es/articles/783582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783582)
+- [Первый в мире реально работающий отдел нейро-сотрудников](https://habr.com/ru/articles/785888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785888)
 - [Технологическое бум Тинькофф, рождение System Design интервью](https://habr.com/ru/articles/784860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784860)
 - [Строительные кирпичики в языках программирования](https://habr.com/ru/articles/785856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785856)
-- [Тайны квантовой физики от автора 2](https://habr.com/ru/articles/785878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785878)
-- [История о том, как Google подсматривал за нашим сайтом и галлюцинировал](https://habr.com/ru/articles/785874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785874)
-- [Записываем экран и звук через расширение в браузере и сохраняем в NextCloud](https://habr.com/ru/articles/785850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
