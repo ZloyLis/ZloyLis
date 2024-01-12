@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История о том, как Google подсматривал за нашим сайтом и галлюцинировал](https://habr.com/ru/articles/785874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785874)
 - [Записываем экран и звук через расширение в браузере и сохраняем в NextCloud](https://habr.com/ru/articles/785850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785850)
 - [Гайд по Scratch для детей: как запустить игру на Android](https://habr.com/ru/articles/785810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785810)
 - [Создание веб-приложения с использованием микрофронтендов и Module Federation](https://habr.com/ru/articles/785798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785798)
 - [Go: передача значений VS передача указателей](https://habr.com/ru/companies/it-guide/articles/744046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=744046)
-- [Управляем навигацией во Flutter с помощью библиотеки auto_route: часть 2. Guards, Wrappers и миграция](https://habr.com/ru/companies/friflex/articles/784924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
