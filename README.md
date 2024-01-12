@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Четыре метрики, изменившие мой проект](https://habr.com/ru/companies/oleg-bunin/articles/785044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785044)
+- [Как мы делали редизайн сайта МКБ](https://habr.com/ru/companies/mkb/articles/778554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778554)
+- [Как не попасть в айти и жить дальше](https://habr.com/ru/articles/785940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785940)
 - [Последние тренды в мобильной связи и их влияние на бизнес](https://habr.com/ru/companies/newtel/articles/785922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785922)
 - [Разработка HID-драйвера: шаг за шагом](https://habr.com/ru/companies/swd_es/articles/783582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783582)
-- [Первый в мире реально работающий отдел нейро-сотрудников](https://habr.com/ru/articles/785888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785888)
-- [Технологическое бум Тинькофф, рождение System Design интервью](https://habr.com/ru/articles/784860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784860)
-- [Строительные кирпичики в языках программирования](https://habr.com/ru/articles/785856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
