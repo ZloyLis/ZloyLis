@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стилистические правила умерли, да здравствуют стилистические правила](https://habr.com/ru/companies/domclick/articles/785800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785800)
+- [Уровни изолированности транзакций для самых маленьких](https://habr.com/ru/companies/maxilect/articles/785960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785960)
+- [Тренды в продакт-менеджменте в 2024 году: к чему стоит подготовиться уже сейчас](https://habr.com/ru/articles/785952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785952)
 - [Четыре метрики, изменившие мой проект](https://habr.com/ru/companies/oleg-bunin/articles/785044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785044)
 - [Как мы делали редизайн сайта МКБ](https://habr.com/ru/companies/mkb/articles/778554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=778554)
-- [Как не попасть в айти и жить дальше](https://habr.com/ru/articles/785940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785940)
-- [Последние тренды в мобильной связи и их влияние на бизнес](https://habr.com/ru/companies/newtel/articles/785922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785922)
-- [Разработка HID-драйвера: шаг за шагом](https://habr.com/ru/companies/swd_es/articles/783582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
