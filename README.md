@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Малоизвестные и интересные особенности C и C++](https://habr.com/ru/articles/786096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786096)
 - [Сериализация данных в Golang с Protobuf](https://habr.com/ru/companies/otus/articles/784732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784732)
 - [Все про this в JavaScript](https://habr.com/ru/articles/785872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785872)
 - [Ловкость рук, четкость алгоритма и никакого мошенничества: чек-лист для дизайнеров интерфейсов и фронтенд-разработчиков](https://habr.com/ru/companies/selectel/articles/786008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786008)
 - [[Перевод] Оптимизируя неоптимизируемое: ускорение компиляции C++](https://habr.com/ru/companies/ruvds/articles/785420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785420)
-- [PVS-Studio в 2023](https://habr.com/ru/companies/pvs-studio/articles/786046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
