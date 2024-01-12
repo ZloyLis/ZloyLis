@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Погружение в мир адаптивной верстки с Flutter](https://habr.com/ru/articles/786104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786104)
+- [Детальный React. Реконсиляция, рендеры, Fiber, виртуальное дерево](https://habr.com/ru/articles/786102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786102)
 - [Малоизвестные и интересные особенности C и C++](https://habr.com/ru/articles/786096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786096)
 - [Сериализация данных в Golang с Protobuf](https://habr.com/ru/companies/otus/articles/784732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784732)
 - [Все про this в JavaScript](https://habr.com/ru/articles/785872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785872)
-- [Ловкость рук, четкость алгоритма и никакого мошенничества: чек-лист для дизайнеров интерфейсов и фронтенд-разработчиков](https://habr.com/ru/companies/selectel/articles/786008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786008)
-- [[Перевод] Оптимизируя неоптимизируемое: ускорение компиляции C++](https://habr.com/ru/companies/ruvds/articles/785420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
