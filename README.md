@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где бесплатно изучать Rust в 2024](https://habr.com/ru/articles/786176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786176)
+- [#Net](https://habr.com/ru/articles/786036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786036)
+- [Сжатие целых чисел](https://habr.com/ru/articles/786170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786170)
 - [Проблема непонимания существующего кода, или Как руководству делать не надо](https://habr.com/ru/articles/786164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786164)
 - [Влияние ITAM на экономику замкнутого цикла в сфере ИТ](https://habr.com/ru/articles/786150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786150)
-- [Искусственный интеллект для игры Точки](https://habr.com/ru/articles/786140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786140)
-- [Книги, о которых редко говорят](https://habr.com/ru/articles/786120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786120)
-- [Быстрая установка PostgreSQL &lpar;PgAdmin 4, Adminer&rpar; на VPS](https://habr.com/ru/articles/786118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
