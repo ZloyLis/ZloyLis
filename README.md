@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема непонимания существующего кода, или Как руководству делать не надо](https://habr.com/ru/articles/786164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786164)
 - [Влияние ITAM на экономику замкнутого цикла в сфере ИТ](https://habr.com/ru/articles/786150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786150)
 - [Искусственный интеллект для игры Точки](https://habr.com/ru/articles/786140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786140)
 - [Книги, о которых редко говорят](https://habr.com/ru/articles/786120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786120)
 - [Быстрая установка PostgreSQL &lpar;PgAdmin 4, Adminer&rpar; на VPS](https://habr.com/ru/articles/786118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786118)
-- [Работа с ETH, BSC, TRX кошельками на сервере NodeJS — отправка транзакций, получение баланса, генерация мнемоники](https://habr.com/ru/articles/786108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
