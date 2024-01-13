@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Встать и Сделать. Личный опыт](https://habr.com/ru/articles/786186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786186)
+- [Сказ о том, как я за год решил более 600 leetcode задач](https://habr.com/ru/articles/786184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786184)
 - [Где бесплатно изучать Rust в 2024](https://habr.com/ru/articles/786176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786176)
 - [#Net](https://habr.com/ru/articles/786036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786036)
 - [Сжатие целых чисел](https://habr.com/ru/articles/786170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786170)
-- [Проблема непонимания существующего кода, или Как руководству делать не надо](https://habr.com/ru/articles/786164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786164)
-- [Влияние ITAM на экономику замкнутого цикла в сфере ИТ](https://habr.com/ru/articles/786150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
