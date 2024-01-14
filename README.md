@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript однопоточный или многопоточный? Ставим точку](https://habr.com/ru/articles/786330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786330)
+- [Импортозамещение которое мы потеряли: советские ЯП и их создатели &lpar;часть 2&rpar;](https://habr.com/ru/companies/eaeconsult/articles/786324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786324)
 - [Подписываемся на датчики](https://habr.com/ru/articles/786322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786322)
 - [Авторизация в CLI приложении с помощью OAuth](https://habr.com/ru/articles/786320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786320)
 - [Компилятор за выходные, часть первая](https://habr.com/ru/articles/786158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786158)
-- [Undocumented endpoint или попытки борьбы с имитацией активности «пользователя»?](https://habr.com/ru/articles/786306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786306)
-- [Неизвестные ранее временные фундаментальные взаимодействия](https://habr.com/ru/articles/786300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
