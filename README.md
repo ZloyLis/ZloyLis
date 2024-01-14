@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неизвестные ранее временные фундаментальные взаимодействия](https://habr.com/ru/articles/786300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786300)
+- [Синхронизация локальных изменений с docker/kubernetes контейнером](https://habr.com/ru/articles/786282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786282)
+- [Высокопроизводительное кэширование с помощью Redis и Go](https://habr.com/ru/articles/786296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786296)
 - [Алгебры процессов для бизнес-процессов на примере CCS: кофе-машина-теорема](https://habr.com/ru/articles/786286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786286)
 - [GRASP. Часть 1 — Информационный эксперт](https://habr.com/ru/articles/786280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786280)
-- [О кастомных HTML-тегах по-человечески и как их использовать](https://habr.com/ru/articles/786284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786284)
-- [[Перевод] С новым годом: GPT в 500 строках на SQL](https://habr.com/ru/articles/786276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786276)
-- [Написание open source проекта на примере рендера для ttf шрифтов. Начало](https://habr.com/ru/articles/786272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
