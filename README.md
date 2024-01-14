@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Undocumented endpoint или попытки борьбы с имитацией активности «пользователя»?](https://habr.com/ru/articles/786306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786306)
 - [Неизвестные ранее временные фундаментальные взаимодействия](https://habr.com/ru/articles/786300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786300)
 - [Синхронизация локальных изменений с docker/kubernetes контейнером](https://habr.com/ru/articles/786282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786282)
 - [Высокопроизводительное кэширование с помощью Redis и Go](https://habr.com/ru/articles/786296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786296)
 - [Алгебры процессов для бизнес-процессов на примере CCS: кофе-машина-теорема](https://habr.com/ru/articles/786286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786286)
-- [GRASP. Часть 1 — Информационный эксперт](https://habr.com/ru/articles/786280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
