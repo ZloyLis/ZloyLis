@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Скрытые возможности элемента &amp;lt;input&amp;gt;](https://habr.com/ru/companies/ruvds/articles/785690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785690)
+- [Гайд: проектируем систему цветов. Всё про styles, tokens, variables](https://habr.com/ru/articles/781082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781082)
 - [Как я придумал очевидное](https://habr.com/ru/articles/786258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786258)
 - [Уродливая математика в машинном обучении или чему нам стоит поучиться у деривативов?](https://habr.com/ru/articles/786220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786220)
 - [Встать и Сделать. Личный опыт](https://habr.com/ru/articles/786186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786186)
-- [Сказ о том, как я за год решил более 600 leetcode задач](https://habr.com/ru/articles/786184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786184)
-- [Где бесплатно изучать Rust в 2024](https://habr.com/ru/articles/786176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
