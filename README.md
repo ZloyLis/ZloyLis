@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подписываемся на датчики](https://habr.com/ru/articles/786322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786322)
 - [Авторизация в CLI приложении с помощью OAuth](https://habr.com/ru/articles/786320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786320)
 - [Компилятор за выходные, часть первая](https://habr.com/ru/articles/786158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786158)
 - [Undocumented endpoint или попытки борьбы с имитацией активности «пользователя»?](https://habr.com/ru/articles/786306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786306)
 - [Неизвестные ранее временные фундаментальные взаимодействия](https://habr.com/ru/articles/786300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786300)
-- [Синхронизация локальных изменений с docker/kubernetes контейнером](https://habr.com/ru/articles/786282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
