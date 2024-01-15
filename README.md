@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UI / UX — когда миллионы людей ошибаются](https://habr.com/ru/articles/786346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786346)
 - [Как понять концепцию UX через ROI](https://habr.com/ru/articles/786336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786336)
 - [Качество переходного процесса ч.2](https://habr.com/ru/articles/784758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784758)
 - [JavaScript однопоточный или многопоточный? Ставим точку](https://habr.com/ru/articles/786330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786330)
 - [Импортозамещение которое мы потеряли: советские ЯП и их создатели &lpar;часть 2&rpar;](https://habr.com/ru/companies/eaeconsult/articles/786324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786324)
-- [Подписываемся на датчики](https://habr.com/ru/articles/786322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
