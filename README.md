@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Async/Await в C#. Часть 3. Чем Tasks&lpar;Задачи&rpar; лучше чем IAsyncResult. О чем не написал Stephen Toub](https://habr.com/ru/articles/785828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785828)
 - [Мобильная разработка за неделю #521 &lpar;8 — 14 января&rpar;](https://habr.com/ru/companies/productivity_inside/articles/786350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786350)
 - [UI / UX — когда миллионы людей ошибаются](https://habr.com/ru/articles/786346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786346)
 - [Как понять концепцию UX через ROI](https://habr.com/ru/articles/786336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786336)
 - [Качество переходного процесса ч.2](https://habr.com/ru/articles/784758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784758)
-- [JavaScript однопоточный или многопоточный? Ставим точку](https://habr.com/ru/articles/786330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
