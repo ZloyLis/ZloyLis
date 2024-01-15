@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Плагин для анализа планов PostgreSQL в IDE JetBrains и его разработка](https://habr.com/ru/companies/tensor/articles/782150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782150)
+- [Как IT сделало меня жадным](https://habr.com/ru/articles/786526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786526)
+- [Как мы обеспечиваем безопасность прикладных API с помощью Platform V Synapse](https://habr.com/ru/companies/sberbank/articles/786458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786458)
 - [Топ-10 упражнений для развития мышления сильного ИТ-профессионала](https://habr.com/ru/articles/786474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786474)
 - [[Перевод] Аннотирование args и kwargs в Python](https://habr.com/ru/companies/wunderfund/articles/786326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786326)
-- [Как вырастить айтишника и почему каждый ребенок должен знать, как управлять роботами: обзор инструментов обучения](https://habr.com/ru/companies/digital_tatarstan/articles/786438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786438)
-- [Как защитить своего GPT ассистента от вредных атак](https://habr.com/ru/companies/raft/articles/786190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786190)
-- [Кибербезопасность — ахиллесова пята африканского континента](https://habr.com/ru/companies/pt/articles/785982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
