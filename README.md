@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2403: Bluetooth-уязвимости в Windows, Linux, Android, iOS и Mac OS](https://habr.com/ru/companies/kaspersky/articles/786498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786498)
+- [Пишем первое приложение в магазин OpenAI](https://habr.com/ru/articles/786312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786312)
 - [Apple Pro Weekly News &lpar;01.01 – 14.01.24&rpar;](https://habr.com/ru/articles/786600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786600)
 - [Компьютерная безопасность страдает от устаревших технологий](https://habr.com/ru/companies/globalsign/articles/786596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786596)
 - [Что нам недодали в C++](https://habr.com/ru/articles/786582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786582)
-- [[Перевод] Как мы начали использовать виртуальные потоки Java 21 и на раз-два получили дедлок в TPC-C для PostgreSQL](https://habr.com/ru/companies/ydb/articles/786550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786550)
-- [Визуализация статистики о том, что и так все знают](https://habr.com/ru/companies/alfa/articles/786524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
