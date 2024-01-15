@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Аннотирование args и kwargs в Python](https://habr.com/ru/companies/wunderfund/articles/786326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786326)
+- [Как защитить своего GPT ассистента от вредных атак](https://habr.com/ru/companies/raft/articles/786190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786190)
 - [Кибербезопасность — ахиллесова пята африканского континента](https://habr.com/ru/companies/pt/articles/785982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785982)
 - [Делаем PageObject правильно. Удешевляем тестирование и снижаем порог вхождения](https://habr.com/ru/companies/ozontech/articles/786000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786000)
 - [[Перевод] Я разработчик, а не компилятор](https://habr.com/ru/articles/786388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786388)
-- [Кратко про то, как устроен компилятор Go](https://habr.com/ru/companies/mvideo/articles/784248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784248)
-- [Про сортировку чисел и SIMD или как я обогнал STL в 16 раз](https://habr.com/ru/articles/785938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
