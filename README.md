@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Некоторые мысли в связи с выходом новой версии «МойОфис» версии 2.7 и документации по API надстроек](https://habr.com/ru/articles/786536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786536)
+- [Пост post-mortem: разбираемся, почему Google Play Protect посчитал 2ГИС вредоносным ПО](https://habr.com/ru/companies/2gis/articles/786404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786404)
 - [Плагин для анализа планов PostgreSQL в IDE JetBrains и его разработка](https://habr.com/ru/companies/tensor/articles/782150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782150)
-- [Как IT сделало меня жадным](https://habr.com/ru/articles/786526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786526)
 - [Как мы обеспечиваем безопасность прикладных API с помощью Platform V Synapse](https://habr.com/ru/companies/sberbank/articles/786458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786458)
-- [Топ-10 упражнений для развития мышления сильного ИТ-профессионала](https://habr.com/ru/articles/786474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786474)
-- [[Перевод] Аннотирование args и kwargs в Python](https://habr.com/ru/companies/wunderfund/articles/786326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786326)
+- [CES 2024: геймкар, ИИ-рация и фитнес-наушники](https://habr.com/ru/companies/mvideo/articles/786494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
