@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про сортировку чисел и SIMD или как я обогнал STL в 16 раз](https://habr.com/ru/articles/785938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785938)
 - [Социальный проект: визуализация данных медицинской статистики](https://habr.com/ru/companies/yandex_praktikum/articles/785288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785288)
 - [[Перевод] Structurizr, описание, перевод &lpar;часть 3/3&rpar;](https://habr.com/ru/articles/786262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786262)
 - [[Перевод] Structurizr, описание, перевод &lpar;часть 2/3&rpar;](https://habr.com/ru/articles/786256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786256)
 - [[Перевод] Structurizr, описание, перевод &lpar;часть 1/3&rpar;](https://habr.com/ru/articles/786250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786250)
-- [Оптимизируйте длинные задачи](https://habr.com/ru/articles/786370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
