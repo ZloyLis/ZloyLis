@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await в C#. Часть 3. Чем Tasks&lpar;Задачи&rpar; лучше чем IAsyncResult. О чем не написал Stephen Toub](https://habr.com/ru/articles/785828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785828)
-- [Мобильная разработка за неделю #521 &lpar;8 — 14 января&rpar;](https://habr.com/ru/companies/productivity_inside/articles/786350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786350)
-- [UI / UX — когда миллионы людей ошибаются](https://habr.com/ru/articles/786346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786346)
-- [Как понять концепцию UX через ROI](https://habr.com/ru/articles/786336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786336)
-- [Качество переходного процесса ч.2](https://habr.com/ru/articles/784758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784758)
+- [Социальный проект: визуализация данных медицинской статистики](https://habr.com/ru/companies/yandex_praktikum/articles/785288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785288)
+- [[Перевод] Structurizr, описание, перевод &lpar;часть 3/3&rpar;](https://habr.com/ru/articles/786262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786262)
+- [[Перевод] Structurizr, описание, перевод &lpar;часть 2/3&rpar;](https://habr.com/ru/articles/786256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786256)
+- [[Перевод] Structurizr, описание, перевод &lpar;часть 1/3&rpar;](https://habr.com/ru/articles/786250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786250)
+- [Оптимизируйте длинные задачи](https://habr.com/ru/articles/786370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
