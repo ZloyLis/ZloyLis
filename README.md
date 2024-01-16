@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Объектно-ориентированный подход при проектировании цифрового офиса сотрудника](https://habr.com/ru/companies/rshb/articles/786680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786680)
 - [[Перевод] Что нового в документации YDB в декабре 2023](https://habr.com/ru/companies/ydb/articles/786672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786672)
 - [Книги, специализированные](https://habr.com/ru/articles/786644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786644)
 - [Логистика. Часть 6. Что такое нестинг?](https://habr.com/ru/articles/786628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786628)
 - [Security Week 2403: Bluetooth-уязвимости в Windows, Linux, Android, iOS и Mac OS](https://habr.com/ru/companies/kaspersky/articles/786498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786498)
-- [Пишем первое приложение в магазин OpenAI](https://habr.com/ru/articles/786312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
