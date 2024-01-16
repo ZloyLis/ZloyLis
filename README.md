@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Причины говнокода во фронтенде. Мнение мимокрокодила](https://habr.com/ru/articles/786896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786896)
 - [Окей, я джуниор, как начать управлять?](https://habr.com/ru/articles/786886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786886)
 - [Чтение Micro QR Code версии М3 &lpar;кириллица, первый тип библиотек&rpar;](https://habr.com/ru/articles/786868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786868)
 - [[Перевод] Тестирование API — проблемы и решения](https://habr.com/ru/articles/786852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786852)
 - [[Перевод] Адаптируем иконку вашего приложения для visionOS](https://habr.com/ru/articles/786836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786836)
-- [Особенности корпоративного обучения в сфере IT: как и зачем](https://habr.com/ru/companies/reksoft/articles/786840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
