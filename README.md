@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Адаптируем иконку вашего приложения для visionOS](https://habr.com/ru/articles/786836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786836)
+- [Особенности корпоративного обучения в сфере IT: как и зачем](https://habr.com/ru/companies/reksoft/articles/786840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786840)
 - [Go — 100 вопросов/заданий с собеседований](https://habr.com/ru/articles/786826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786826)
 - [Power over Ethernet](https://habr.com/ru/articles/786786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786786)
 - [Принят новый стандарт Fortran 2023](https://habr.com/ru/articles/786716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786716)
-- [Как добыть свечи по всем акциям Мосбиржи](https://habr.com/ru/articles/786770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786770)
-- [Сжатие css классов. Как сделать веб Ещё быстрее. next.js](https://habr.com/ru/articles/786594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
