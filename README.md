@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Принят новый стандарт Fortran 2023](https://habr.com/ru/articles/786716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786716)
+- [Как добыть свечи по всем акциям Мосбиржи](https://habr.com/ru/articles/786770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786770)
+- [Сжатие css классов. Как сделать веб Ещё быстрее. next.js](https://habr.com/ru/articles/786594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786594)
+- [Статистика на примерах с Python #1](https://habr.com/ru/articles/786760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786760)
 - [Функции высшего порядка. Кастомная реализация. &lpar;Custom implementation of higher-order functions.&rpar;](https://habr.com/ru/articles/786746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786746)
-- [Symbiote.js 2.0](https://habr.com/ru/articles/786590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786590)
-- [Принцип минимизации злобы](https://habr.com/ru/articles/786640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786640)
-- [Spark не для чайников: где?](https://habr.com/ru/articles/784848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784848)
-- [Концепция Learning in Public: как начать учиться публично](https://habr.com/ru/articles/786648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
