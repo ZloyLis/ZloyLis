@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Функции высшего порядка. Кастомная реализация. &lpar;Custom implementation of higher-order functions.&rpar;](https://habr.com/ru/articles/786746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786746)
+- [Symbiote.js 2.0](https://habr.com/ru/articles/786590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786590)
+- [Принцип минимизации злобы](https://habr.com/ru/articles/786640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786640)
 - [Spark не для чайников: где?](https://habr.com/ru/articles/784848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784848)
 - [Концепция Learning in Public: как начать учиться публично](https://habr.com/ru/articles/786648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786648)
-- [Объектно-ориентированный подход при проектировании цифрового офиса сотрудника](https://habr.com/ru/companies/rshb/articles/786680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786680)
-- [[Перевод] Что нового в документации YDB в декабре 2023](https://habr.com/ru/companies/ydb/articles/786672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786672)
-- [Книги, специализированные](https://habr.com/ru/articles/786644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
