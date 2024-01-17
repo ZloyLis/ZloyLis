@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отчаяние, отказы и академический отпуск: как я за год вернул уверенность и стал Android-разработчиком](https://habr.com/ru/articles/787010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787010)
+- [Как художники за рабочие места с ИИ борются](https://habr.com/ru/articles/785088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785088)
 - [Современная безопасность контейнерных приложений](https://habr.com/ru/companies/oleg-bunin/articles/786930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786930)
 - [Прокачиваем вёрстку ARIA-атрибутами. Атрибут aria-hidden](https://habr.com/ru/companies/ruvds/articles/784542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784542)
 - [ROBODORO: трекер времени для iOS от red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/786964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786964)
-- [Формальные методы проверки смарт-контрактов](https://habr.com/ru/companies/pt/articles/786078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786078)
-- [Публикация UPM-пакета в Unity Asset Store](https://habr.com/ru/articles/786792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
