@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React + Three.js. Создаём собственный 3D шутер. Часть 3](https://habr.com/ru/articles/787076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787076)
+- [Наноматериалы и нанотехнологии. Часть I](https://habr.com/ru/articles/786762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786762)
 - [Headless eCommerce на Laravel: Погружение в модульную архитектуру](https://habr.com/ru/articles/787062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787062)
 - [Почему в ботах телеги желательно использовать Webhook вместо Polling](https://habr.com/ru/companies/otus/articles/786754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786754)
 - [Коротко про алгоритмы и структуры данных](https://habr.com/ru/companies/vk/articles/787014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787014)
-- [Плохой-хороший ИИ: как алгоритмы помогают хакерам и специалистам по ИБ](https://habr.com/ru/companies/beeline_cloud/articles/786858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786858)
-- [Как спроектировать базу данных регулярного UX-исследования. Полный гайд на примере одного продукта](https://habr.com/ru/companies/ncloudtech/articles/786448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
