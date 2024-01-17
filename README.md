@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хабргорода на глобусе](https://habr.com/ru/articles/786722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786722)
+- [Как и где практиковаться начинающему тестировщику](https://habr.com/ru/companies/yandex_praktikum/articles/785016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785016)
 - [[Перевод] Исследование безопасности tRPC: Охота за уязвимостями в современных API](https://habr.com/ru/articles/786914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786914)
 - [Причины говнокода во фронтенде. Мнение мимокрокодила](https://habr.com/ru/articles/786896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786896)
 - [Окей, я джуниор, как начать управлять?](https://habr.com/ru/articles/786886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786886)
-- [Чтение Micro QR Code версии М3 &lpar;кириллица, первый тип библиотек&rpar;](https://habr.com/ru/articles/786868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786868)
-- [[Перевод] Тестирование API — проблемы и решения](https://habr.com/ru/articles/786852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
