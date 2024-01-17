@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Headless eCommerce на Laravel: Погружение в модульную архитектуру](https://habr.com/ru/articles/787062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787062)
 - [Почему в ботах телеги желательно использовать Webhook вместо Polling](https://habr.com/ru/companies/otus/articles/786754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786754)
 - [Коротко про алгоритмы и структуры данных](https://habr.com/ru/companies/vk/articles/787014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787014)
+- [Плохой-хороший ИИ: как алгоритмы помогают хакерам и специалистам по ИБ](https://habr.com/ru/companies/beeline_cloud/articles/786858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786858)
 - [Как спроектировать базу данных регулярного UX-исследования. Полный гайд на примере одного продукта](https://habr.com/ru/companies/ncloudtech/articles/786448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786448)
-- [Отчаяние, отказы и академический отпуск: как я за год вернул уверенность и стал Android-разработчиком](https://habr.com/ru/articles/787010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787010)
-- [Как художники за рабочие места с ИИ борются](https://habr.com/ru/articles/785088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
