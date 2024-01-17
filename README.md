@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Типичные задачи аналитика данных. Часть 1. Упала метрика](https://habr.com/ru/articles/787098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787098)
 - [UX – как лучше улучшать](https://habr.com/ru/articles/787092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787092)
 - [Книга «System Design. Машинное обучение. Подготовка к сложному интервью»](https://habr.com/ru/companies/piter/articles/787016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787016)
 - [Создание сетевой игры с помощью Collagen_2, Node.js и библиотеки socket.js](https://habr.com/ru/articles/787088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787088)
 - [React + Three.js. Создаём собственный 3D шутер. Часть 3](https://habr.com/ru/articles/787076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787076)
-- [Наноматериалы и нанотехнологии. Часть I](https://habr.com/ru/articles/786762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
