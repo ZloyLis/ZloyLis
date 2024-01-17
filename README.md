@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему в ботах телеги желательно использовать Webhook вместо Polling](https://habr.com/ru/companies/otus/articles/786754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786754)
+- [Коротко про алгоритмы и структуры данных](https://habr.com/ru/companies/vk/articles/787014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787014)
+- [Как спроектировать базу данных регулярного UX-исследования. Полный гайд на примере одного продукта](https://habr.com/ru/companies/ncloudtech/articles/786448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786448)
 - [Отчаяние, отказы и академический отпуск: как я за год вернул уверенность и стал Android-разработчиком](https://habr.com/ru/articles/787010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787010)
 - [Как художники за рабочие места с ИИ борются](https://habr.com/ru/articles/785088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785088)
-- [Современная безопасность контейнерных приложений](https://habr.com/ru/companies/oleg-bunin/articles/786930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786930)
-- [Прокачиваем вёрстку ARIA-атрибутами. Атрибут aria-hidden](https://habr.com/ru/companies/ruvds/articles/784542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784542)
-- [ROBODORO: трекер времени для iOS от red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/786964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
