@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современная безопасность контейнерных приложений](https://habr.com/ru/companies/oleg-bunin/articles/786930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786930)
+- [Прокачиваем вёрстку ARIA-атрибутами. Атрибут aria-hidden](https://habr.com/ru/companies/ruvds/articles/784542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784542)
+- [ROBODORO: трекер времени для iOS от red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/786964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786964)
 - [Формальные методы проверки смарт-контрактов](https://habr.com/ru/companies/pt/articles/786078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786078)
 - [Публикация UPM-пакета в Unity Asset Store](https://habr.com/ru/articles/786792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786792)
-- [Фамильный вики-движок Bonsai: 6 лет спустя](https://habr.com/ru/articles/786518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786518)
-- [Хабргорода](https://habr.com/ru/articles/786722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786722)
-- [Как и где практиковаться начинающему тестировщику](https://habr.com/ru/companies/yandex_praktikum/articles/785016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
