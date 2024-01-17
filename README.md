@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хабргорода на глобусе](https://habr.com/ru/articles/786722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786722)
+- [Формальные методы проверки смарт-контрактов](https://habr.com/ru/companies/pt/articles/786078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786078)
+- [Публикация UPM-пакета в Unity Asset Store](https://habr.com/ru/articles/786792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786792)
+- [Фамильный вики-движок Bonsai: 6 лет спустя](https://habr.com/ru/articles/786518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786518)
+- [Хабргорода](https://habr.com/ru/articles/786722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786722)
 - [Как и где практиковаться начинающему тестировщику](https://habr.com/ru/companies/yandex_praktikum/articles/785016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785016)
-- [[Перевод] Исследование безопасности tRPC: Охота за уязвимостями в современных API](https://habr.com/ru/articles/786914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786914)
-- [Причины говнокода во фронтенде. Мнение мимокрокодила](https://habr.com/ru/articles/786896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786896)
-- [Окей, я джуниор, как начать управлять?](https://habr.com/ru/articles/786886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
