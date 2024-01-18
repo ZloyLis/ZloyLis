@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Project Valhalla: эпичный квест Java за перфомансом](https://habr.com/ru/articles/787166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787166)
+- [RPC на примере gRPC. Когда применять и как работает](https://habr.com/ru/articles/787164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787164)
 - [Сдается дом! Как разрабатывался сайт для проекта, которому нет аналогов в России &lpar;кейс&rpar;](https://habr.com/ru/companies/pyrobyte/articles/786652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786652)
 - [Процесс Self Service BI или алхимия работы с данными](https://habr.com/ru/companies/pgk/articles/786984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786984)
 - [«Пора ли гнать на мороз Computer Vision — scientist&#39;ов ?» &lpar;Fondation Models и вокруг&rpar;](https://habr.com/ru/companies/recognitor/articles/786646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786646)
-- [Типичные задачи аналитика данных. Часть 1. Упала метрика](https://habr.com/ru/articles/787098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787098)
-- [UX – как лучше улучшать](https://habr.com/ru/articles/787092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
