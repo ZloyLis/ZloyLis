@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм для аппроксимации плоскости](https://habr.com/ru/articles/787186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787186)
+- [Улучшаем динамические таблицы YTsaurus с помощью алгоритмов](https://habr.com/ru/companies/yandex/articles/785994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785994)
+- [Why Flutter? Почему Flutter?](https://habr.com/ru/articles/787174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787174)
+- [SOLID и DRY в Go](https://habr.com/ru/companies/otus/articles/786314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786314)
 - [[Перевод] Project Valhalla: эпичный квест Java за перфомансом](https://habr.com/ru/articles/787166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787166)
-- [RPC на примере gRPC. Когда применять и как работает](https://habr.com/ru/articles/787164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787164)
-- [Сдается дом! Как разрабатывался сайт для проекта, которому нет аналогов в России &lpar;кейс&rpar;](https://habr.com/ru/companies/pyrobyte/articles/786652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786652)
-- [Процесс Self Service BI или алхимия работы с данными](https://habr.com/ru/companies/pgk/articles/786984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786984)
-- [«Пора ли гнать на мороз Computer Vision — scientist&#39;ов ?» &lpar;Fondation Models и вокруг&rpar;](https://habr.com/ru/companies/recognitor/articles/786646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
