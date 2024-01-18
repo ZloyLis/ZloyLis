@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сдается дом! Как разрабатывался сайт для проекта, которому нет аналогов в России &lpar;кейс&rpar;](https://habr.com/ru/companies/pyrobyte/articles/786652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786652)
+- [Процесс Self Service BI или алхимия работы с данными](https://habr.com/ru/companies/pgk/articles/786984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786984)
 - [«Пора ли гнать на мороз Computer Vision — scientist&#39;ов ?» &lpar;Fondation Models и вокруг&rpar;](https://habr.com/ru/companies/recognitor/articles/786646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786646)
 - [Типичные задачи аналитика данных. Часть 1. Упала метрика](https://habr.com/ru/articles/787098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787098)
 - [UX – как лучше улучшать](https://habr.com/ru/articles/787092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787092)
-- [Книга «System Design. Машинное обучение. Подготовка к сложному интервью»](https://habr.com/ru/companies/piter/articles/787016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787016)
-- [Создание сетевой игры с помощью Collagen_2, Node.js и библиотеки socket.js](https://habr.com/ru/articles/787088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
