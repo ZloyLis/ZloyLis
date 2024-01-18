@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Репутация эксперта ускоряет карьерный рост](https://habr.com/ru/companies/productivity_inside/articles/787324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787324)
+- [CI/CD в каждый дом: сборочный цех базовых docker-образов](https://habr.com/ru/companies/yandex_praktikum/articles/782620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782620)
 - [Как сделать Spark в Kubernetes простым в использовании: опыт команды VK Cloud](https://habr.com/ru/companies/vk/articles/776722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776722)
 - [Что можно улучшить в приложении? часть 2. Крадем как художники у Lamoda](https://habr.com/ru/articles/787300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787300)
-- [Сравниваем форматы сериализации на Go: скорость и удобство](https://habr.com/ru/companies/avito/articles/786756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786756)
-- [Зимняя школа по RISC-V — актуальные знания по перспективной открытой архитектуре от экспертов](https://habr.com/ru/companies/yadro/articles/787152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787152)
-- [Чтение Micro QR Code версии М3 &lpar;кириллица, второй тип библиотек&rpar;](https://habr.com/ru/articles/787276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787276)
+- [Cloud Spark от VK Cloud — простой доступ к инструментам анализа больших данных](https://habr.com/ru/companies/vk/articles/787290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
