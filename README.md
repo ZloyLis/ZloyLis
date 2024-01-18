@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Чиним ЭЛТ ТВ в 2к24м… Микросхема-убийца и сборка программатора своими руками](https://habr.com/ru/articles/787266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787266)
-- [Векторизация изображений. Как создать алгоритм поиска похожих изображений на Python](https://habr.com/ru/companies/ppr/articles/787254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787254)
-- [Оптимален ли блокчейн для хранения идентификационных данных?](https://habr.com/ru/companies/aktiv-company/articles/787234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787234)
-- [Неочевидные угрозы: как защититься от атак на десериализацию, XSS и чтение произвольных файлов](https://habr.com/ru/companies/StartX/articles/787176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787176)
-- [[Перевод] Кто на самом деле пользуется is-odd и is-even?](https://habr.com/ru/articles/787222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787222)
+- [Как сделать Spark в Kubernetes простым в использовании: опыт команды VK Cloud](https://habr.com/ru/companies/vk/articles/776722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776722)
+- [Что можно улучшить в приложении? часть 2. Крадем как художники у Lamoda](https://habr.com/ru/articles/787300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787300)
+- [Сравниваем форматы сериализации на Go: скорость и удобство](https://habr.com/ru/companies/avito/articles/786756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786756)
+- [Зимняя школа по RISC-V — актуальные знания по перспективной открытой архитектуре от экспертов](https://habr.com/ru/companies/yadro/articles/787152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787152)
+- [Чтение Micro QR Code версии М3 &lpar;кириллица, второй тип библиотек&rpar;](https://habr.com/ru/articles/787276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
