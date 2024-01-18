@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Игровая легенда из нулевых: каким был Nokia N-Gage QD? Обзор, аппаратный ремонт и программирование под Symbian](https://habr.com/ru/companies/timeweb/articles/786212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786212)
+- [[Перевод] Последствия небезопасной цепочки поставок ПО](https://habr.com/ru/articles/787190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787190)
+- [[Перевод] Как работают трансформеры: разбираем математику](https://habr.com/ru/articles/785474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785474)
 - [Алгоритм для аппроксимации плоскости](https://habr.com/ru/articles/787186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787186)
 - [Улучшаем динамические таблицы YTsaurus с помощью алгоритмов](https://habr.com/ru/companies/yandex/articles/785994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785994)
-- [Why Flutter? Почему Flutter?](https://habr.com/ru/articles/787174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787174)
-- [SOLID и DRY в Go](https://habr.com/ru/companies/otus/articles/786314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786314)
-- [[Перевод] Project Valhalla: эпичный квест Java за перфомансом](https://habr.com/ru/articles/787166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
