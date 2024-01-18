@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция видеоплеера YouTube во Flutter](https://habr.com/ru/articles/787390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787390)
 - [Как пройти собеседование в отдел бэкенд-разработки ЮMoney. Часть 2](https://habr.com/ru/companies/yoomoney/articles/787372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787372)
 - [Как пройти собеседование в отдел бэкенд-разработки ЮMoney. Часть 1](https://habr.com/ru/companies/yoomoney/articles/787368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787368)
 - [Инженерные данные в 21 веке](https://habr.com/ru/companies/bimeister/articles/787322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787322)
 - [Объединяем два крупнейших Ecom на разных стеках в одну общую CRM](https://habr.com/ru/companies/agima/articles/787278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787278)
-- [[Перевод] Репутация эксперта ускоряет карьерный рост](https://habr.com/ru/companies/productivity_inside/articles/787324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
