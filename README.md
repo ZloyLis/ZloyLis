@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Трудная проблема общества](https://habr.com/ru/articles/787230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787230)
+- [Чиним ЭЛТ ТВ в 2к24м… Микросхема-убийца и сборка программатора своими руками](https://habr.com/ru/articles/787266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787266)
+- [Векторизация изображений. Как создать алгоритм поиска похожих изображений на Python](https://habr.com/ru/companies/ppr/articles/787254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787254)
+- [Оптимален ли блокчейн для хранения идентификационных данных?](https://habr.com/ru/companies/aktiv-company/articles/787234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787234)
 - [Неочевидные угрозы: как защититься от атак на десериализацию, XSS и чтение произвольных файлов](https://habr.com/ru/companies/StartX/articles/787176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787176)
 - [[Перевод] Кто на самом деле пользуется is-odd и is-even?](https://habr.com/ru/articles/787222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787222)
-- [Исследуем Скрытые Сокровища: Малоизвестные Библиотеки Python для Аналитики Данных](https://habr.com/ru/articles/787218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787218)
-- [Игровая легенда из нулевых: каким был Nokia N-Gage QD? Обзор, аппаратный ремонт и программирование под Symbian](https://habr.com/ru/companies/timeweb/articles/786212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
