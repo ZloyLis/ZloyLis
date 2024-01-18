@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Объединяем два крупнейших Ecom на разных стеках в одну общую CRM](https://habr.com/ru/companies/agima/articles/787278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787278)
 - [[Перевод] Репутация эксперта ускоряет карьерный рост](https://habr.com/ru/companies/productivity_inside/articles/787324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787324)
 - [CI/CD в каждый дом: сборочный цех базовых docker-образов](https://habr.com/ru/companies/yandex_praktikum/articles/782620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782620)
 - [Как сделать Spark в Kubernetes простым в использовании: опыт команды VK Cloud](https://habr.com/ru/companies/vk/articles/776722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=776722)
 - [Что можно улучшить в приложении? часть 2. Крадем как художники у Lamoda](https://habr.com/ru/articles/787300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787300)
-- [Сравниваем форматы сериализации на Go: скорость и удобство](https://habr.com/ru/companies/avito/articles/786756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786756)
 <!-- BLOG-POST-LIST:END -->
 
 ---
