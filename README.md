@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Трудная проблема общества](https://habr.com/ru/articles/787230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787230)
+- [Неочевидные угрозы: как защититься от атак на десериализацию, XSS и чтение произвольных файлов](https://habr.com/ru/companies/StartX/articles/787176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787176)
+- [[Перевод] Кто на самом деле пользуется is-odd и is-even?](https://habr.com/ru/articles/787222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787222)
+- [Исследуем Скрытые Сокровища: Малоизвестные Библиотеки Python для Аналитики Данных](https://habr.com/ru/articles/787218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787218)
 - [Игровая легенда из нулевых: каким был Nokia N-Gage QD? Обзор, аппаратный ремонт и программирование под Symbian](https://habr.com/ru/companies/timeweb/articles/786212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786212)
-- [[Перевод] Последствия небезопасной цепочки поставок ПО](https://habr.com/ru/articles/787190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787190)
-- [[Перевод] Как работают трансформеры: разбираем математику](https://habr.com/ru/articles/785474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785474)
-- [Алгоритм для аппроксимации плоскости](https://habr.com/ru/articles/787186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787186)
-- [Улучшаем динамические таблицы YTsaurus с помощью алгоритмов](https://habr.com/ru/companies/yandex/articles/785994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
