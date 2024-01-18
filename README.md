@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub templates через bash скрипт](https://habr.com/ru/articles/787438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787438)
+- [Lifehacking: использование принципов программирования в жизни](https://habr.com/ru/articles/787434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787434)
 - [ESPspectrum V1.1 + версия для проектов](https://habr.com/ru/articles/787408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787408)
 - [Интеграция видеоплеера YouTube во Flutter](https://habr.com/ru/articles/787390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787390)
 - [Как пройти собеседование в отдел бэкенд-разработки ЮMoney. Часть 2](https://habr.com/ru/companies/yoomoney/articles/787372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787372)
-- [Как пройти собеседование в отдел бэкенд-разработки ЮMoney. Часть 1](https://habr.com/ru/companies/yoomoney/articles/787368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787368)
-- [Инженерные данные в 21 веке](https://habr.com/ru/companies/bimeister/articles/787322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
