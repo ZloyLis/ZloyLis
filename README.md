@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Скачать фильмы за креды без СМС и регистрации: история одного supply chain под Linux](https://habr.com/ru/companies/kaspersky/articles/785256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785256)
+- [Управляя стихией: Аэротруба](https://habr.com/ru/articles/787524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787524)
+- [Насколько безопасна сегодня авторизация через мессенджеры?](https://habr.com/ru/companies/newtel/articles/787520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787520)
 - [Как «подправить» неправильные судоку. Алгоритм решения судоку, использующий систему ограничений](https://habr.com/ru/articles/787496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787496)
 - [Предчувствие Ричарда Фейнмана](https://habr.com/ru/articles/787478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787478)
-- [Как снять логи при краше мобильного приложения?](https://habr.com/ru/companies/alfa/articles/787238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787238)
-- [[Перевод] Когда Random совсем не случаен](https://habr.com/ru/articles/787284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787284)
-- [Экстремальные практики программирования: что, как и зачем](https://habr.com/ru/companies/yandex_praktikum/articles/787084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
