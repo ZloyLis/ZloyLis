@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning инженер: что/где/как изучать, чтобы въехать](https://habr.com/ru/articles/787568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787568)
+- [[Перевод] Отсечение и поиск / Prune and search](https://habr.com/ru/articles/787580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787580)
+- [Кто такой — джуниор в FAANG?](https://habr.com/ru/articles/787440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787440)
+- [Задача на собеседовании, её решение и его разбор](https://habr.com/ru/articles/784754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784754)
 - [Анализ отличий в работе системного и бизнес-аналитика через призму процессного подхода](https://habr.com/ru/companies/beeline_tech/articles/787378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787378)
-- [Недостатки и предложения по улучшению метода анализа иерархий](https://habr.com/ru/articles/787550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787550)
-- [Скачать фильмы за креды без СМС и регистрации: история одного supply chain под Linux](https://habr.com/ru/companies/kaspersky/articles/785256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785256)
-- [Управляя стихией: Аэротруба](https://habr.com/ru/articles/787524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787524)
-- [Насколько безопасна сегодня авторизация через мессенджеры?](https://habr.com/ru/companies/newtel/articles/787520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
