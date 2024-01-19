@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ отличий в работе системного и бизнес-аналитика через призму процессного подхода](https://habr.com/ru/companies/beeline_tech/articles/787378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787378)
+- [Недостатки и предложения по улучшению метода анализа иерархий](https://habr.com/ru/articles/787550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787550)
 - [Скачать фильмы за креды без СМС и регистрации: история одного supply chain под Linux](https://habr.com/ru/companies/kaspersky/articles/785256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785256)
 - [Управляя стихией: Аэротруба](https://habr.com/ru/articles/787524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787524)
 - [Насколько безопасна сегодня авторизация через мессенджеры?](https://habr.com/ru/companies/newtel/articles/787520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787520)
-- [Как «подправить» неправильные судоку. Алгоритм решения судоку, использующий систему ограничений](https://habr.com/ru/articles/787496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787496)
-- [Предчувствие Ричарда Фейнмана](https://habr.com/ru/articles/787478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
