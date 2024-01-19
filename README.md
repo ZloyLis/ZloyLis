@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как автоматизировать построение архитектурных схем в большой микросервисной системе](https://habr.com/ru/companies/sbermarket/articles/787224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787224)
+- [[Перевод] Психология и UX // Вортекс — ловушка для пользователей](https://habr.com/ru/articles/787632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787632)
+- [[Перевод] Использование фреймворков модульного тестирования для выявления уязвимостей](https://habr.com/ru/companies/piter/articles/787630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787630)
 - [[Перевод] Арифметика первого класса в системе типов Rust](https://habr.com/ru/companies/ruvds/articles/787008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787008)
 - [Почему не любят JavaScript?](https://habr.com/ru/articles/787606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787606)
-- [Решение Амазон капчи Waf Captcha на полном автомате, имея за плечами практически нулевой опыт в разработке](https://habr.com/ru/articles/787566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787566)
-- [Machine Learning инженер: что/где/как изучать, чтобы въехать](https://habr.com/ru/articles/787568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787568)
-- [[Перевод] Отсечение и поиск / Prune and search](https://habr.com/ru/articles/787580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
