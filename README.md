@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Офис Apple в Москве: как я с нуля стал экспертом и попал на приватную вечеринку для разработчиков](https://habr.com/ru/articles/787432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787432)
+- [Стратегические паттерны DDD](https://habr.com/ru/articles/787460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787460)
 - [Поиск ошибок в программах. Психологический аспект. Вопрос без ответа](https://habr.com/ru/articles/787458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787458)
 - [Как найти все корни системы 2x2?](https://habr.com/ru/articles/787454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787454)
 - [GitHub templates через bash скрипт](https://habr.com/ru/articles/787438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787438)
-- [Lifehacking: использование принципов программирования в жизни](https://habr.com/ru/articles/787434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787434)
-- [ESPspectrum V1.1 + версия для проектов](https://habr.com/ru/articles/787408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
