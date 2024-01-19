@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Арифметика первого класса в системе типов Rust](https://habr.com/ru/companies/ruvds/articles/787008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787008)
+- [Почему не любят JavaScript?](https://habr.com/ru/articles/787606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787606)
+- [Решение Амазон капчи Waf Captcha на полном автомате, имея за плечами практически нулевой опыт в разработке](https://habr.com/ru/articles/787566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787566)
 - [Machine Learning инженер: что/где/как изучать, чтобы въехать](https://habr.com/ru/articles/787568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787568)
 - [[Перевод] Отсечение и поиск / Prune and search](https://habr.com/ru/articles/787580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787580)
-- [Кто такой — джуниор в FAANG?](https://habr.com/ru/articles/787440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787440)
-- [Задача на собеседовании, её решение и его разбор](https://habr.com/ru/articles/784754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784754)
-- [Анализ отличий в работе системного и бизнес-аналитика через призму процессного подхода](https://habr.com/ru/companies/beeline_tech/articles/787378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
