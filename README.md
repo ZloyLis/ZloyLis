@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram показывает удаленные сообщения](https://habr.com/ru/articles/787642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787642)
+- [Экзотические баги и их устранение](https://habr.com/ru/companies/rshb/articles/787556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787556)
+- [Как мотивировать разработчика заниматься контрибушеном, а главное, для чего](https://habr.com/ru/companies/tinkoff/articles/787638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787638)
 - [Как автоматизировать построение архитектурных схем в большой микросервисной системе](https://habr.com/ru/companies/sbermarket/articles/787224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787224)
-- [[Перевод] Психология и UX // Вортекс — ловушка для пользователей](https://habr.com/ru/articles/787632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787632)
-- [[Перевод] Использование фреймворков модульного тестирования для выявления уязвимостей](https://habr.com/ru/companies/piter/articles/787630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787630)
-- [[Перевод] Арифметика первого класса в системе типов Rust](https://habr.com/ru/companies/ruvds/articles/787008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787008)
-- [Почему не любят JavaScript?](https://habr.com/ru/articles/787606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787606)
+- [[Перевод] Психология и UX. Вортекс — ловушка для пользователей](https://habr.com/ru/articles/787632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
