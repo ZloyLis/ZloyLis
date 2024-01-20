@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Финансовые данные: об измерении автокорреляции, тяжелых хвостах и других статистиках &lpar;Vol 1&rpar;](https://habr.com/ru/articles/787736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787736)
 - [Неклассическое чтение для руководителей: книги по стратегическому управлению от ведущих ученых и отчеты аналитиков](https://habr.com/ru/articles/787640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787640)
 - [[Перевод] Почему текст в нижнем регистре сжимается лучше](https://habr.com/ru/articles/787722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787722)
 - [Рекомендация к прочтению и выбору книги](https://habr.com/ru/articles/787610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787610)
 - [Анализ системы защиты от ботов на примере letu.ru](https://habr.com/ru/articles/787706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787706)
-- [Обработка ошибок с помощью IExceptionHandler в ASP.NET Core 8.0](https://habr.com/ru/articles/787674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
