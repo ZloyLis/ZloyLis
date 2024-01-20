@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ системы защиты от ботов на примере letu.ru](https://habr.com/ru/articles/787706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787706)
 - [Обработка ошибок с помощью IExceptionHandler в ASP.NET Core 8.0](https://habr.com/ru/articles/787674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787674)
 - [Об импортозамещении MATLAB/Simulink на примере модели динамики авиационного средства поражения](https://habr.com/ru/articles/787668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787668)
 - [Подручный для бизнеса](https://habr.com/ru/companies/spbifmo/articles/787660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787660)
 - [Запускаем аналог LAMDATEST/BrowserStack для мобильных устройств и не только](https://habr.com/ru/articles/787546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787546)
-- [Telegram показывает удаленные сообщения](https://habr.com/ru/articles/787642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
