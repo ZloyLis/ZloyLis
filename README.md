@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нельзя писать безопасный код на C++ без санитайзеров](https://habr.com/ru/articles/787776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787776)
 - [PHP и Laravel дайджест новостей за декабрь 2023 года](https://habr.com/ru/articles/787758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787758)
 - [Финансовые данные: об измерении автокорреляции, тяжелых хвостах и других статистиках &lpar;Vol 1&rpar;](https://habr.com/ru/articles/787736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787736)
 - [[Перевод] Почему текст в нижнем регистре сжимается лучше](https://habr.com/ru/articles/787722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787722)
 - [Рекомендация к прочтению и выбору книги](https://habr.com/ru/articles/787610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787610)
-- [Анализ системы защиты от ботов на примере letu.ru](https://habr.com/ru/articles/787706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
