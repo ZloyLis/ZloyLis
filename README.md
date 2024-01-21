@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компилятор за выходные: лексер и парсер](https://habr.com/ru/articles/787800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787800)
+- [Про́клятый огонь, или магия препроцессора C](https://habr.com/ru/articles/787442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787442)
 - [Мобильная разработка за неделю #522 &lpar;15 — 21 января&rpar;](https://habr.com/ru/companies/productivity_inside/articles/787842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787842)
 - [Методы работы со смещением и дисперсией в модельках машинного обучения](https://habr.com/ru/companies/otus/articles/787626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787626)
 - [[Перевод] Разбираем самый маленький PNG в мире](https://habr.com/ru/companies/ruvds/articles/787302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787302)
-- [[Перевод] Опыт масштабирования Kubernetes на 2k узлов и на 400k подов](https://habr.com/ru/companies/timeweb/articles/787774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787774)
-- [Python и чистая архитектура…](https://habr.com/ru/articles/787814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
