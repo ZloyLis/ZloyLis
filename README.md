@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Опыт масштабирования Kubernetes на 2k узлов и на 400k подов](https://habr.com/ru/companies/timeweb/articles/787774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787774)
+- [Python и чистая архитектура…](https://habr.com/ru/articles/787814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787814)
 - [CompletableFuture. Глубокое погружение](https://habr.com/ru/articles/784144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784144)
 - [Как я повысил производительность flutter приложения с помощью FragmentShader. Часть 2](https://habr.com/ru/articles/787786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787786)
 - [Как я повысил производительность flutter приложения с помощью FragmentShader. Часть 1](https://habr.com/ru/articles/787782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787782)
-- [Нельзя писать безопасный код на C++ без санитайзеров](https://habr.com/ru/articles/787776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787776)
-- [PHP и Laravel дайджест новостей за декабрь 2023 года](https://habr.com/ru/articles/787758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
