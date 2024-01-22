@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Где рождаются баги](https://habr.com/ru/articles/787794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787794)
 - [Apple Pro Weekly News &lpar;15.01 – 21.01.24&rpar;](https://habr.com/ru/articles/788160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788160)
 - [Security Week 2404: подглядывание через датчик освещенности](https://habr.com/ru/companies/kaspersky/articles/788080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788080)
 - [ИТ конференции для аналитиков в 2024 году](https://habr.com/ru/articles/788126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788126)
 - [[Перевод] Java ScopedValue: Ускоренный ThreadLocal](https://habr.com/ru/companies/otus/articles/787978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787978)
-- [Как в Индии судились с программистами: 5 примечательных кейсов последних лет](https://habr.com/ru/companies/onlinepatent/articles/788084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
