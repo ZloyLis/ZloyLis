@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИТ конференции для аналитиков в 2024 году](https://habr.com/ru/articles/788126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788126)
 - [[Перевод] Java ScopedValue: Ускоренный ThreadLocal](https://habr.com/ru/companies/otus/articles/787978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787978)
 - [Как в Индии судились с программистами: 5 примечательных кейсов последних лет](https://habr.com/ru/companies/onlinepatent/articles/788084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788084)
 - [Новостной Telegram бот на Java](https://habr.com/ru/articles/788042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788042)
 - [Сферический коммивояжёр в вакууме и в реальной жизни](https://habr.com/ru/articles/787990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787990)
-- [Делайте что угодно со своими файлами, ну почти](https://habr.com/ru/articles/784550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
