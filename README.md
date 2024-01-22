@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Треугольник Паскаля и скрытые в нём «паск&lpar;х&rpar;алки»](https://habr.com/ru/companies/first/articles/786804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786804)
-- [Flutter. На пути к совершенству](https://habr.com/ru/articles/787620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787620)
-- [Впихнуть невпихуемое, или Как мы боролись с сервисами, которые слишком много «ели»](https://habr.com/ru/companies/ozontech/articles/787490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787490)
-- [Это один из лучших подходов к изучению английского, что я видел за последние годы — коллокации](https://habr.com/ru/articles/787910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787910)
-- [Теория игр за 15 минут](https://habr.com/ru/companies/raft/articles/787906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787906)
+- [Делайте что угодно со своими файлами, ну почти](https://habr.com/ru/articles/784550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784550)
+- [Личный опыт: переход с Redux на Effector. И при чем тут DX](https://habr.com/ru/companies/simbirsoft/articles/787244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787244)
+- [Exception Handling: сквозь мультивселенные интероперабельности](https://habr.com/ru/companies/vk/articles/785270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785270)
+- [Учимся создавать простых ботов или туториал по библиотеке TeleBot](https://habr.com/ru/articles/787976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787976)
+- [Как реализовать поведенческий анализ в Linux на уровне гипервизора](https://habr.com/ru/companies/pt/articles/783024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=783024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
