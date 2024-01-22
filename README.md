@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что качать дизайнеру в 2024: 7 востребованных навыков на рынке](https://habr.com/ru/articles/787840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787840)
 - [[Перевод] Софт становится хуже?](https://habr.com/ru/articles/787852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787852)
 - [Часть 1. Вывод выражения к-кратной совместной значимости в технологии логико-вероятностного моделирования](https://habr.com/ru/articles/787902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787902)
 - [Пишем интерактивный виджет](https://habr.com/ru/articles/787880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787880)
 - [Компилятор за выходные: лексер и парсер](https://habr.com/ru/articles/787800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787800)
-- [Про́клятый огонь, или магия препроцессора C](https://habr.com/ru/articles/787442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
