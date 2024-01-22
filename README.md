@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Java ScopedValue: Ускоренный ThreadLocal](https://habr.com/ru/companies/otus/articles/787978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787978)
+- [Как в Индии судились с программистами: 5 примечательных кейсов последних лет](https://habr.com/ru/companies/onlinepatent/articles/788084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788084)
+- [Новостной Telegram бот на Java](https://habr.com/ru/articles/788042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788042)
 - [Сферический коммивояжёр в вакууме и в реальной жизни](https://habr.com/ru/articles/787990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787990)
 - [Делайте что угодно со своими файлами, ну почти](https://habr.com/ru/articles/784550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784550)
-- [Личный опыт: переход с Redux на Effector. И при чем тут DX](https://habr.com/ru/companies/simbirsoft/articles/787244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787244)
-- [Exception Handling: сквозь мультивселенные интероперабельности](https://habr.com/ru/companies/vk/articles/785270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785270)
-- [Учимся создавать простых ботов или туториал по библиотеке TeleBot](https://habr.com/ru/articles/787976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
