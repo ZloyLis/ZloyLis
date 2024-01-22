@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Высокоскоростной SPI to Ethernet конвертер, при чем здесь DMA?](https://habr.com/ru/articles/787762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787762)
+- [Теория игр за 15 минут](https://habr.com/ru/companies/raft/articles/787906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787906)
 - [Как я использую GigaChat для Frontend разработки](https://habr.com/ru/articles/787866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787866)
 - [Что качать дизайнеру в 2024: 7 востребованных навыков на рынке](https://habr.com/ru/articles/787840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787840)
 - [[Перевод] Софт становится хуже?](https://habr.com/ru/articles/787852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787852)
-- [Часть 1. Вывод выражения к-кратной совместной значимости в технологии логико-вероятностного моделирования](https://habr.com/ru/articles/787902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787902)
-- [Пишем интерактивный виджет](https://habr.com/ru/articles/787880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
