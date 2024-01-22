@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Высокоскоростной SPI to Ethernet конвертер, при чем здесь DMA?](https://habr.com/ru/articles/787762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787762)
+- [Треугольник Паскаля и скрытые в нём «паск&lpar;х&rpar;алки»](https://habr.com/ru/companies/first/articles/786804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786804)
+- [Flutter. На пути к совершенству](https://habr.com/ru/articles/787620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787620)
+- [Впихнуть невпихуемое, или Как мы боролись с сервисами, которые слишком много «ели»](https://habr.com/ru/companies/ozontech/articles/787490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787490)
+- [Это один из лучших подходов к изучению английского, что я видел за последние годы — коллокации](https://habr.com/ru/articles/787910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787910)
 - [Теория игр за 15 минут](https://habr.com/ru/companies/raft/articles/787906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787906)
-- [Как я использую GigaChat для Frontend разработки](https://habr.com/ru/articles/787866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787866)
-- [Что качать дизайнеру в 2024: 7 востребованных навыков на рынке](https://habr.com/ru/articles/787840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787840)
-- [[Перевод] Софт становится хуже?](https://habr.com/ru/articles/787852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
