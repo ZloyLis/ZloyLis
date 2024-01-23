@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Стажировки по робототехнике, или Как прокачать практические компетенции](https://habr.com/ru/companies/sberbank/articles/788258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788258)
+- [Где учить Frontend бесплатно в 2024 году](https://habr.com/ru/articles/788308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788308)
+- [История Vercel. Аннотация](https://habr.com/ru/articles/788154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788154)
 - [Аудит производительности 1С-систем: на что обращаем внимание](https://habr.com/ru/companies/softpoint/articles/788264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788264)
 - [[Перевод] Важные аспекты Unicode, о которых должен знать каждый разработчик JavaScript](https://habr.com/ru/companies/timeweb/articles/785668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785668)
 - [Как работает управление памятью в Rust без сборщика мусора](https://habr.com/ru/companies/otus/articles/787362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787362)
-- [Суперсемейка против Unicode: Эластика и ее противник гибкий UTF-8](https://habr.com/ru/articles/788230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
