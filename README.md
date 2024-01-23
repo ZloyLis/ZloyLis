@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Важные аспекты Unicode, о которых должен знать каждый разработчик JavaScript](https://habr.com/ru/companies/timeweb/articles/785668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785668)
+- [Как работает управление памятью в Rust без сборщика мусора](https://habr.com/ru/companies/otus/articles/787362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787362)
+- [Суперсемейка против Unicode: Эластика и ее противник гибкий UTF-8](https://habr.com/ru/articles/788230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788230)
 - [Как мы используем Puppeteer для создания Open Graph изображений с Node.js](https://habr.com/ru/articles/787678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787678)
 - [В плену JavaScript: как веб-разработка стала заложницей одного языка](https://habr.com/ru/companies/lanit/articles/787616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787616)
-- [Вас просто стало слишком много](https://habr.com/ru/articles/787694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787694)
-- [Кросс-компетентность в профессии системного аналитика: всё, везде и сразу?](https://habr.com/ru/companies/yandex_praktikum/articles/787822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787822)
-- [Обратный маятник простым PID-регулятором](https://habr.com/ru/articles/788218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
