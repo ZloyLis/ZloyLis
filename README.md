@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Darcs и Pijul. Системы контроля версий для тех, кто не любит деревья](https://habr.com/ru/articles/785904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785904)
 - [Важные советы backend-разработчику: защити себя от нежелательных проблем](https://habr.com/ru/articles/787796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787796)
 - [[Перевод] Где рождаются баги](https://habr.com/ru/articles/787794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787794)
 - [Apple Pro Weekly News &lpar;15.01 – 21.01.24&rpar;](https://habr.com/ru/articles/788160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788160)
 - [Security Week 2404: подглядывание через датчик освещенности](https://habr.com/ru/companies/kaspersky/articles/788080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788080)
-- [ИТ конференции для аналитиков в 2024 году](https://habr.com/ru/articles/788126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
