@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [По какому пути пойти начинающему программисту: Python vs Java](https://habr.com/ru/articles/788348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788348)
+- [О делителях чисел Мерсенна](https://habr.com/ru/articles/788344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788344)
+- [Митап JUG.MSK: Алексей Рагозин про SJK &lpar;Swiss Java Knife&rpar;](https://habr.com/ru/companies/jugru/articles/787844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787844)
+- [Как мы защищаем абонентов от телефонных мошенников и спама](https://habr.com/ru/companies/tinkoff/articles/788320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788320)
 - [Где учить Frontend бесплатно в 2024 году](https://habr.com/ru/articles/788308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788308)
-- [История Vercel. Аннотация](https://habr.com/ru/articles/788154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788154)
-- [Аудит производительности 1С-систем: на что обращаем внимание](https://habr.com/ru/companies/softpoint/articles/788264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788264)
-- [[Перевод] Важные аспекты Unicode, о которых должен знать каждый разработчик JavaScript](https://habr.com/ru/companies/timeweb/articles/785668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785668)
-- [Как работает управление памятью в Rust без сборщика мусора](https://habr.com/ru/companies/otus/articles/787362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
