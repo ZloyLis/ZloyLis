@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Флаттер 3.18 | бета-релиз | Топ-8 фичей](https://habr.com/ru/companies/agima/articles/788380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788380)
 - [Право на ремонт против запланированного устаревания. Битва двух концепций](https://habr.com/ru/companies/ruvds/articles/774702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774702)
 - [По какому пути пойти начинающему программисту: Python vs Java](https://habr.com/ru/articles/788348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788348)
 - [О делителях чисел Мерсенна](https://habr.com/ru/articles/788344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788344)
 - [Митап JUG.MSK: Алексей Рагозин про SJK &lpar;Swiss Java Knife&rpar;](https://habr.com/ru/companies/jugru/articles/787844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787844)
-- [Как мы защищаем абонентов от телефонных мошенников и спама](https://habr.com/ru/companies/tinkoff/articles/788320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
