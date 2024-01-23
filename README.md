@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Darcs и Pijul. Системы контроля версий для тех, кто не любит деревья](https://habr.com/ru/articles/785904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785904)
-- [Важные советы backend-разработчику: защити себя от нежелательных проблем](https://habr.com/ru/articles/787796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787796)
-- [[Перевод] Где рождаются баги](https://habr.com/ru/articles/787794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787794)
-- [Apple Pro Weekly News &lpar;15.01 – 21.01.24&rpar;](https://habr.com/ru/articles/788160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788160)
-- [Security Week 2404: подглядывание через датчик освещенности](https://habr.com/ru/companies/kaspersky/articles/788080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788080)
+- [Как мы используем Puppeteer для создания Open Graph изображений с Node.js](https://habr.com/ru/articles/787678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787678)
+- [В плену JavaScript: как веб-разработка стала заложницей одного языка](https://habr.com/ru/companies/lanit/articles/787616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787616)
+- [Вас просто стало слишком много](https://habr.com/ru/articles/787694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787694)
+- [Кросс-компетентность в профессии системного аналитика: всё, везде и сразу?](https://habr.com/ru/companies/yandex_praktikum/articles/787822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787822)
+- [Обратный маятник простым PID-регулятором](https://habr.com/ru/articles/788218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
