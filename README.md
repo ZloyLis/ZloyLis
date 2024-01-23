@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стажировки по робототехнике, или Как прокачать практические компетенции](https://habr.com/ru/companies/sberbank/articles/788258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788258)
+- [Аудит производительности 1С-систем: на что обращаем внимание](https://habr.com/ru/companies/softpoint/articles/788264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788264)
 - [[Перевод] Важные аспекты Unicode, о которых должен знать каждый разработчик JavaScript](https://habr.com/ru/companies/timeweb/articles/785668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785668)
 - [Как работает управление памятью в Rust без сборщика мусора](https://habr.com/ru/companies/otus/articles/787362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787362)
 - [Суперсемейка против Unicode: Эластика и ее противник гибкий UTF-8](https://habr.com/ru/articles/788230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788230)
-- [Как мы используем Puppeteer для создания Open Graph изображений с Node.js](https://habr.com/ru/articles/787678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787678)
-- [В плену JavaScript: как веб-разработка стала заложницей одного языка](https://habr.com/ru/companies/lanit/articles/787616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
