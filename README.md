@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многообразие функциональных обёрток](https://habr.com/ru/articles/788524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788524)
+- [Книга «Продвинутые алгоритмы и структуры данных»](https://habr.com/ru/companies/piter/articles/788408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788408)
 - [Как уменьшить размер бандла раз и навсегда: приемы, метрики, мониторинг](https://habr.com/ru/articles/788656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788656)
 - [Рынок труда и перспективы карьеры в Data Science в 2024 году](https://habr.com/ru/companies/otus/articles/788646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788646)
 - [Разворачиваем систему уравнений в граф](https://habr.com/ru/articles/788630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788630)
-- [Как загружать классы в Java 8 и Java 9+?](https://habr.com/ru/companies/isp_ras/articles/788618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788618)
-- [Упрощаем локализацию iOS-приложения со String Catalogs](https://habr.com/ru/articles/788614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
