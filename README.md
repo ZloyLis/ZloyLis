@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда SIEM бесполезна: что важно учесть до внедрения системы](https://habr.com/ru/articles/788512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788512)
+- [Как писать более чистый CSS: дюжина советов от банальных до неочевидных](https://habr.com/ru/companies/maxilect/articles/788508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788508)
+- [ECMAScript 6+ vs TypeScript](https://habr.com/ru/articles/788254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788254)
+- [Что &lpar;и как!&rpar; послушать, посмотреть и почитать IT-специалисту, чтобы подтянуть английский](https://habr.com/ru/companies/yandex_praktikum/articles/787246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787246)
 - [И певец, и на дуде игрец. Или почему ChatGPT необходим стажеру](https://habr.com/ru/companies/pyrobyte/articles/788486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788486)
-- [По локоть в легаси: пошагово перезапускаем устаревший портал на PHP](https://habr.com/ru/articles/787958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787958)
-- [АЛГЕБРА МУЗЫКАЛЬНОГО ТЕКСТА](https://habr.com/ru/articles/788482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788482)
-- [АЛГЕБРА СМЫСЛА](https://habr.com/ru/articles/788478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788478)
-- [Тинькофф дает противоречащие ответы Роскомнадзору и ЦБ РФ в части дачи клиентом согласия на обработку его биометрии](https://habr.com/ru/articles/788434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
