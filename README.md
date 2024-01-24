@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда любого продукта должна уметь работать с пользователями?](https://habr.com/ru/companies/oleg-bunin/articles/788226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788226)
+- [Заводим Яндекс Карты в Compose Multipltform](https://habr.com/ru/articles/788554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788554)
+- [[Перевод] Сравнение производительности dict&lpar;&rpar; и {} в Python](https://habr.com/ru/articles/788440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788440)
 - [Использование панели управления ISPmanager 6, как хостинг-систему в образовательном учреждении](https://habr.com/ru/articles/788528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788528)
 - [Когда SIEM бесполезна: что важно учесть до внедрения системы](https://habr.com/ru/articles/788512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788512)
-- [Как писать более чистый CSS: дюжина советов от банальных до неочевидных](https://habr.com/ru/companies/maxilect/articles/788508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788508)
-- [ECMAScript 6+ vs TypeScript](https://habr.com/ru/articles/788254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788254)
-- [Что &lpar;и как!&rpar; послушать, посмотреть и почитать IT-специалисту, чтобы подтянуть английский](https://habr.com/ru/companies/yandex_praktikum/articles/787246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
