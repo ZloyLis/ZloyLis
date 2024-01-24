@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Преобразование часовых поясов в JavaScript: Native Date против Moment.js](https://habr.com/ru/articles/788760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788760)
 - [Сколько еще протянут мануфактуры?](https://habr.com/ru/articles/788708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788708)
 - [Управление загрузкой с помощью PostgreSQL и pg_headerkit](https://habr.com/ru/companies/otus/articles/785290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785290)
 - [Пролегомены ко всякой будущей априорной теории всего](https://habr.com/ru/articles/788688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788688)
 - [Многообразие функциональных обёрток](https://habr.com/ru/articles/788524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788524)
-- [Книга «Продвинутые алгоритмы и структуры данных»](https://habr.com/ru/companies/piter/articles/788408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
