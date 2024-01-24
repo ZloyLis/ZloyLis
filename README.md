@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [АЛГЕБРА СМЫСЛА](https://habr.com/ru/articles/788478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788478)
 - [Тинькофф дает противоречащие ответы Роскомнадзору и ЦБ РФ в части дачи клиентом согласия на обработку его биометрии](https://habr.com/ru/articles/788434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788434)
 - [История Drag and Drop: от первого в мире графического интерфейса до современного веба](https://habr.com/ru/articles/788426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788426)
 - [[Перевод] Ключевые концепции тестирования требований](https://habr.com/ru/articles/788416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788416)
 - [[Перевод] Флаттер 3.18 | бета-релиз | Топ-8 фичей](https://habr.com/ru/companies/agima/articles/788380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788380)
-- [Право на ремонт против запланированного устаревания. Битва двух концепций](https://habr.com/ru/companies/ruvds/articles/774702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=774702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
