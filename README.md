@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как уменьшить размер бандла раз и навсегда: приемы, метрики, мониторинг](https://habr.com/ru/articles/788656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788656)
+- [Рынок труда и перспективы карьеры в Data Science в 2024 году](https://habr.com/ru/companies/otus/articles/788646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788646)
 - [Разворачиваем систему уравнений в граф](https://habr.com/ru/articles/788630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788630)
 - [Как загружать классы в Java 8 и Java 9+?](https://habr.com/ru/companies/isp_ras/articles/788618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788618)
 - [Упрощаем локализацию iOS-приложения со String Catalogs](https://habr.com/ru/articles/788614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788614)
-- [История Vercel 1990-2009гг. Часть 1/7. Гильермо Раух. Детство и первые шаги в программировании](https://habr.com/ru/articles/788394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788394)
-- [Как избавиться от нестабильных тестов](https://habr.com/ru/companies/wrike/articles/788396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
