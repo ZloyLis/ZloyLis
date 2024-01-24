@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разворачиваем систему уравнений в граф](https://habr.com/ru/articles/788630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788630)
 - [Как загружать классы в Java 8 и Java 9+?](https://habr.com/ru/companies/isp_ras/articles/788618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788618)
 - [Упрощаем локализацию iOS-приложения со String Catalogs](https://habr.com/ru/articles/788614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788614)
 - [История Vercel 1990-2009гг. Часть 1/7. Гильермо Раух. Детство и первые шаги в программировании](https://habr.com/ru/articles/788394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788394)
 - [Как избавиться от нестабильных тестов](https://habr.com/ru/companies/wrike/articles/788396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788396)
-- [Команда любого продукта должна уметь работать с пользователями?](https://habr.com/ru/companies/oleg-bunin/articles/788226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
