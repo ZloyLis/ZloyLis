@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько еще протянут мануфактуры?](https://habr.com/ru/articles/788708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788708)
+- [Управление загрузкой с помощью PostgreSQL и pg_headerkit](https://habr.com/ru/companies/otus/articles/785290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785290)
 - [Пролегомены ко всякой будущей априорной теории всего](https://habr.com/ru/articles/788688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788688)
 - [Многообразие функциональных обёрток](https://habr.com/ru/articles/788524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788524)
 - [Книга «Продвинутые алгоритмы и структуры данных»](https://habr.com/ru/companies/piter/articles/788408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788408)
-- [Как уменьшить размер бандла раз и навсегда: приемы, метрики, мониторинг](https://habr.com/ru/articles/788656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788656)
-- [Рынок труда и перспективы карьеры в Data Science в 2024 году](https://habr.com/ru/companies/otus/articles/788646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
