@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление проектами в работе и жизни](https://habr.com/ru/articles/788884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788884)
+- [Масштабируем и ускоряем сборки с помощью buildkit и Kubernetes](https://habr.com/ru/articles/788882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788882)
 - [Нотификации через RSocket в Альфа-Онлайн: от концепции до запуска в продакшн](https://habr.com/ru/companies/alfa/articles/788398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788398)
+- [Как мы разрабатывали бота в мессенджере eXpress для 1-й линии поддержки](https://habr.com/ru/companies/moex/articles/788608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788608)
 - [Оптимизация кода на Java на примере Крестики-Нолики, абсолютно сильной игры. Часть 1](https://habr.com/ru/articles/788854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788854)
-- [Сам написал, сам поиграл: как работали трёхмерные игры на кнопочных телефонах нулевых? Пишем 3D-шутер с нуля](https://habr.com/ru/companies/timeweb/articles/787548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787548)
-- [Symbiote.js VS LitElement](https://habr.com/ru/articles/788766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788766)
-- [Cache API — кэшируем данные на стороне клиента](https://habr.com/ru/articles/788786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
