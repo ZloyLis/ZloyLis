@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Просто об архитектуре в Android](https://habr.com/ru/companies/bsl/articles/788940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788940)
-- [Профайлинг Laravel приложений с XDebug и PHPStorm](https://habr.com/ru/articles/788946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788946)
-- [Топ-10 качеств идеального ментора в IT. Мы опросили сто аналитиков](https://habr.com/ru/companies/sportmaster_lab/articles/788558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788558)
-- [Волчистость в IT или как наставники манипулируют фактами и подменяют понятия](https://habr.com/ru/articles/788110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788110)
-- [Коллекция утилит NestJS-mod для унификации приложений и модулей на NestJS](https://habr.com/ru/articles/788916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788916)
+- [Дубинка &lpar;гиря&rpar; подброшенная в воздух. Решение дифференциальных уравнений в MATLAB](https://habr.com/ru/articles/788982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788982)
+- [Атака на SSH и взлом туннелей VPN](https://habr.com/ru/companies/globalsign/articles/788980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788980)
+- [Основы многопоточности в Rust](https://habr.com/ru/companies/otus/articles/788466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788466)
+- [Топ Необходимых Bash-Команд для Разработчика [Шпаргалка]](https://habr.com/ru/articles/788970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788970)
+- [Часть 2. Алгоритм расчета к-кратной совместной значимости в технологии логико-вероятностного моделирования](https://habr.com/ru/articles/788968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
