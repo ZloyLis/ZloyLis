@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Управление проектами в работе и жизни](https://habr.com/ru/articles/788884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788884)
-- [Масштабируем и ускоряем сборки с помощью buildkit и Kubernetes](https://habr.com/ru/articles/788882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788882)
-- [Нотификации через RSocket в Альфа-Онлайн: от концепции до запуска в продакшн](https://habr.com/ru/companies/alfa/articles/788398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788398)
-- [Как мы разрабатывали бота в мессенджере eXpress для 1-й линии поддержки](https://habr.com/ru/companies/moex/articles/788608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788608)
-- [Оптимизация кода на Java на примере Крестики-Нолики, абсолютно сильной игры. Часть 1](https://habr.com/ru/articles/788854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788854)
+- [Топ-10 качеств идеального ментора в IT. Мы опросили сто аналитиков](https://habr.com/ru/companies/sportmaster_lab/articles/788558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788558)
+- [Коллекция утилит NestJS-mod для унификации приложений и модулей на NestJS](https://habr.com/ru/articles/788916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788916)
+- [DataMaps. Рассказ о нашей ORM на Kotlin](https://habr.com/ru/companies/bft/articles/787280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787280)
+- [Эмоциональный интеллект в UX-исследованиях](https://habr.com/ru/companies/vk/articles/788878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788878)
+- [Игры для ESPspectrum](https://habr.com/ru/articles/788902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
