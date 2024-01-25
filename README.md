@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Приложения для Vision Pro выглядят скучно](https://habr.com/ru/articles/789024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789024)
 - [Действительно ли C++ — лучший язык, чтобы выстрелить себе в ногу?](https://habr.com/ru/companies/kaspersky/articles/787586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787586)
-- [Excel vs Grafana: Автоматизация дежурств](https://habr.com/ru/companies/sravni/articles/789006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789006)
 - [Как мы внедряли каталог данных DataHub и искали компромисс между BI, DWH и ИБ](https://habr.com/ru/companies/sbermarket/articles/788402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788402)
 - [Как создать 100 серверов в облаке за минуту? Базовая работа с OpenStack клиентом](https://habr.com/ru/companies/selectel/articles/788958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788958)
-- [Рыцарь-демон, Intel Xeon Phi в 2024-м, часть 0](https://habr.com/ru/articles/788790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788790)
+- [Как мы с помощью ML вылечили проблему, не дававшую перейти на автомаршрутизацию курьеров](https://habr.com/ru/companies/cdek_blog/articles/788816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
