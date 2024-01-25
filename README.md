@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сократить потребление памяти в интеграционных тестах с Kafka с помощью GraalVM](https://habr.com/ru/articles/788812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788812)
+- [Kustomize в Kubernetes](https://habr.com/ru/companies/otus/articles/788046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788046)
 - [[Перевод] 10 самых распространенных проблем при линтинге Dockerfile&#39;ов](https://habr.com/ru/companies/flant/articles/787494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787494)
 - [Смарт-контракты и возможность их применения](https://habr.com/ru/articles/788518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788518)
 - [Не все расписания занятий одинаково полезны](https://habr.com/ru/companies/lanit/articles/788322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788322)
-- [Избирательная система США глазами математика. Что нужно сделать, чтобы победить на президентских выборах 2024 года?](https://habr.com/ru/articles/788784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788784)
-- [[Перевод] Фильтр Блума – вероятностная структура данных для проверки принадлежности элемента множеству](https://habr.com/ru/articles/788772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
