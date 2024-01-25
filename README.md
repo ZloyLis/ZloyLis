@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сам написал, сам поиграл: как работали трёхмерные игры на кнопочных телефонах нулевых? Пишем 3D-шутер с нуля](https://habr.com/ru/companies/timeweb/articles/787548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787548)
+- [Symbiote.js VS LitElement](https://habr.com/ru/articles/788766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788766)
+- [Cache API — кэшируем данные на стороне клиента](https://habr.com/ru/articles/788786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788786)
 - [Как сократить потребление памяти в интеграционных тестах с Kafka с помощью GraalVM](https://habr.com/ru/articles/788812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788812)
 - [Kustomize в Kubernetes](https://habr.com/ru/companies/otus/articles/788046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788046)
-- [[Перевод] 10 самых распространенных проблем при линтинге Dockerfile&#39;ов](https://habr.com/ru/companies/flant/articles/787494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787494)
-- [Смарт-контракты и возможность их применения](https://habr.com/ru/articles/788518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788518)
-- [Не все расписания занятий одинаково полезны](https://habr.com/ru/companies/lanit/articles/788322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
