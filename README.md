@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не все расписания занятий одинаково полезны](https://habr.com/ru/companies/lanit/articles/788322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788322)
 - [Избирательная система США глазами математика. Что нужно сделать, чтобы победить на президентских выборах 2024 года?](https://habr.com/ru/articles/788784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788784)
 - [[Перевод] Фильтр Блума – вероятностная структура данных для проверки принадлежности элемента множеству](https://habr.com/ru/articles/788772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788772)
 - [Преобразование часовых поясов в JavaScript: Native Date против Moment.js](https://habr.com/ru/articles/788760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788760)
 - [Сколько еще протянут мануфактуры?](https://habr.com/ru/articles/788708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788708)
-- [Управление загрузкой с помощью PostgreSQL и pg_headerkit](https://habr.com/ru/companies/otus/articles/785290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
