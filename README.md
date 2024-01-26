@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление процессами компании: бизнес и ИТ](https://habr.com/ru/companies/mvideo/articles/789350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789350)
+- [Apache Maven — введение в автоматизированную сборку проектов &lpar;часть 1&rpar;](https://habr.com/ru/articles/789344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789344)
 - [Сервис для блокировки ботов, домашняя бухгалтерия и онлайн-комиксы: 5 идей для pet-проектов](https://habr.com/ru/companies/selectel/articles/789232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789232)
 - [Тестирование для всех: топ книг для начинающих специалистов и не только](https://habr.com/ru/companies/ru_mts/articles/789300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789300)
 - [Система естественных единиц Рыбникова](https://habr.com/ru/articles/789318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789318)
-- [Без углов и стресса: Формула успешного дизайна, или как правильно скруглить внутренние углы фигур](https://habr.com/ru/articles/789314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789314)
-- [Вебинар «WorksPad – российская платформа для корпоративной мобильности»](https://habr.com/ru/companies/astralinux/articles/789304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
