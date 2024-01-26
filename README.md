@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От винта! Смотрим движок War Thunder и говорим с его создателями](https://habr.com/ru/companies/pvs-studio/articles/789284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789284)
 - [Система статусов для проектов в Obsidian](https://habr.com/ru/articles/789248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789248)
 - [React-lens — эффективное управление состоянием в приложениях в ReactJs](https://habr.com/ru/articles/789246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789246)
 - [Предубеждения об IT-аутсорсе, с которыми пора покончить](https://habr.com/ru/companies/cleverpumpkin/articles/789026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789026)
 - [Как мы постигали Word. Сложности машинописи в средней школе](https://habr.com/ru/articles/789226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789226)
-- [Часть 3. Представление вероятности безотказной работы системы в виде ряда Тейлора](https://habr.com/ru/articles/789224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
