@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MVP vs MLP](https://habr.com/ru/articles/789192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789192)
+- [Hadoop в Облаке: история миграции сотен петабайт](https://habr.com/ru/companies/vk/articles/789002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789002)
 - [Предсказать ошибку. Как методы оценки неопределенности помогают повышать качество seq2seq-моделей](https://habr.com/ru/companies/airi/articles/787340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787340)
 - [Математика во благо: новый простой метод ранней диагностики диабета](https://habr.com/ru/companies/ua-hosting/articles/788494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788494)
 - [Kubernetes: шпаргалка для собеседования](https://habr.com/ru/companies/gazprombank/articles/788978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788978)
-- [Искусственный интеллект и цифровые советники. Часть 1: Введение](https://habr.com/ru/articles/789146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789146)
-- [Зачем и как практиковаться начинающему аналитику](https://habr.com/ru/companies/yandex_praktikum/articles/787826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
