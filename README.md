@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Передавать пустые срезы между Rust и C/C++ на удивление сложно](https://habr.com/ru/companies/ruvds/articles/788654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788654)
+- [[Перевод] Делаем двоичные файлы Rust меньше по умолчанию](https://habr.com/ru/articles/789296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789296)
+- [Spring Data JPA и Hibernate: решаем проблему динамически изменяемого запроса к базам данных](https://habr.com/ru/companies/beeline_cloud/articles/789290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789290)
 - [От винта! Смотрим движок War Thunder и говорим с его создателями](https://habr.com/ru/companies/pvs-studio/articles/789284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789284)
 - [Система статусов для проектов в Obsidian](https://habr.com/ru/articles/789248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789248)
-- [React-lens — эффективное управление состоянием в приложениях в ReactJs](https://habr.com/ru/articles/789246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789246)
-- [Предубеждения об IT-аутсорсе, с которыми пора покончить](https://habr.com/ru/companies/cleverpumpkin/articles/789026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789026)
-- [Как мы постигали Word. Сложности машинописи в средней школе](https://habr.com/ru/articles/789226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
