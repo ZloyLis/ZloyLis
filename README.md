@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes: шпаргалка для собеседования](https://habr.com/ru/companies/gazprombank/articles/788978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788978)
+- [Искусственный интеллект и цифровые советники. Часть 1: Введение](https://habr.com/ru/articles/789146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789146)
+- [Зачем и как практиковаться начинающему аналитику](https://habr.com/ru/companies/yandex_praktikum/articles/787826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787826)
+- [Tilda и чат-бот: пример интеграции](https://habr.com/ru/companies/chatapp/articles/788190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788190)
 - [На каком стеке разработать проект, чтобы не похоронить его после релиза?](https://habr.com/ru/articles/789130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789130)
-- [Оценка потенциальной производительности информационных систем на задачах OLTP](https://habr.com/ru/articles/789074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789074)
-- [Дифференциальная приватность в машинном обучение](https://habr.com/ru/companies/otus/articles/788332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788332)
-- [Тестирование ПО как увлекательная игра](https://habr.com/ru/companies/pgk/articles/789012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789012)
-- [Алгоритмы. Определение последовательности на сырых данных, или восстановление после аварии](https://habr.com/ru/articles/789034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
