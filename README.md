@@ -30,7 +30,7 @@ ___
 - [Тестирование для всех: топ книг для начинающих специалистов и не только](https://habr.com/ru/companies/ru_mts/articles/789300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789300)
 - [Система естественных единиц Рыбникова](https://habr.com/ru/articles/789318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789318)
 - [Без углов и стресса: Формула успешного дизайна, или как правильно скруглить внутренние углы фигур](https://habr.com/ru/articles/789314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789314)
-- [[Перевод] Передавать пустые срезы между Rust и C/C++ на удивление сложно](https://habr.com/ru/companies/ruvds/articles/788654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788654)
+- [Вебинар «WorksPad – российская платформа для корпоративной мобильности»](https://habr.com/ru/companies/astralinux/articles/789304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
