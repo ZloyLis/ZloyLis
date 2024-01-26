@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сервис для блокировки ботов, домашняя бухгалтерия и онлайн-комиксы: 5 идей для pet-проектов](https://habr.com/ru/companies/selectel/articles/789232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789232)
+- [Тестирование для всех: топ книг для начинающих специалистов и не только](https://habr.com/ru/companies/ru_mts/articles/789300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789300)
+- [Система естественных единиц Рыбникова](https://habr.com/ru/articles/789318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789318)
+- [Без углов и стресса: Формула успешного дизайна, или как правильно скруглить внутренние углы фигур](https://habr.com/ru/articles/789314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789314)
 - [[Перевод] Передавать пустые срезы между Rust и C/C++ на удивление сложно](https://habr.com/ru/companies/ruvds/articles/788654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788654)
-- [[Перевод] Делаем двоичные файлы Rust меньше по умолчанию](https://habr.com/ru/articles/789296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789296)
-- [Spring Data JPA и Hibernate: решаем проблему динамически изменяемого запроса к базам данных](https://habr.com/ru/companies/beeline_cloud/articles/789290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789290)
-- [От винта! Смотрим движок War Thunder и говорим с его создателями](https://habr.com/ru/companies/pvs-studio/articles/789284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789284)
-- [Система статусов для проектов в Obsidian](https://habr.com/ru/articles/789248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
