@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Несколько советов как новичкам не забросить изучение IT](https://habr.com/ru/articles/789380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789380)
+- [Nginx: шпаргалка](https://habr.com/ru/articles/789360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789360)
 - [Визуализация алгоритмов поиска пути на Svelte: Практические заметки](https://habr.com/ru/articles/789402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789402)
 - [[Перевод] Zod умер. Да здравствует ajv-ts](https://habr.com/ru/articles/789384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789384)
 - [Искусственный Интеллект. Мифы, заблуждение и факты](https://habr.com/ru/articles/789370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789370)
-- [Управление процессами компании: бизнес и ИТ](https://habr.com/ru/companies/mvideo/articles/789350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789350)
-- [Apache Maven — введение в автоматизированную сборку проектов &lpar;часть 1&rpar;](https://habr.com/ru/articles/789344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
