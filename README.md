@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я приложение на Compose писал](https://habr.com/ru/articles/789428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789428)
+- [Как реализовывается WebAssembly в Rust: кратко](https://habr.com/ru/companies/otus/articles/788602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788602)
 - [Несколько советов как новичкам не забросить изучение IT](https://habr.com/ru/articles/789380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789380)
 - [Nginx: шпаргалка](https://habr.com/ru/articles/789360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789360)
 - [Визуализация алгоритмов поиска пути на Svelte: Практические заметки](https://habr.com/ru/articles/789402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789402)
-- [[Перевод] Zod умер. Да здравствует ajv-ts](https://habr.com/ru/articles/789384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789384)
-- [Искусственный Интеллект. Мифы, заблуждение и факты](https://habr.com/ru/articles/789370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
