@@ -29,8 +29,8 @@ ___
 - [[Перевод] Xv6 Глава 1: Интерфейсы операционной системы](https://habr.com/ru/articles/789478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789478)
 - [Сочетание методов верификации и аутентификации через почту и SMS: добавит ли безопасности и нельзя ли проще?](https://habr.com/ru/companies/newtel/articles/789460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789460)
 - [Худший путь в IT](https://habr.com/ru/articles/789438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789438)
-- [[Перевод] Популярность Agile в крупных организациях снижается](https://habr.com/ru/companies/productivity_inside/articles/789434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789434)
 - [Как я приложение на Compose писал](https://habr.com/ru/articles/789428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789428)
+- [Как реализовывается WebAssembly в Rust: кратко](https://habr.com/ru/companies/otus/articles/788602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
