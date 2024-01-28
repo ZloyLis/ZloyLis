@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компилятор за выходные: таблицы символов](https://habr.com/ru/articles/789310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789310)
 - [Способы монетизации телеграм-бота: как зарабатывать с помощью своего бота](https://habr.com/ru/articles/789486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789486)
 - [Переход с Vue-CLI на Vite: ускоряем разработку Vue 3](https://habr.com/ru/articles/789584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789584)
 - [Формализация WF2M сети на примере алгоритма Кофе-машина и два ученых](https://habr.com/ru/articles/789570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789570)
 - [Управление зависимостями в Rust с Cargo](https://habr.com/ru/companies/otus/articles/788642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788642)
-- [[Перевод] Обманчиво простой и интересный RSA](https://habr.com/ru/companies/ruvds/articles/789166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
