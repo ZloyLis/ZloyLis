@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мой рост доходов с 50к в 500к благодаря IT и как это на меня повлияло](https://habr.com/ru/articles/789616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789616)
+- [k8s: подготовка к CKS](https://habr.com/ru/articles/789636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789636)
 - [75 вопросов на собеседовании QA](https://habr.com/ru/articles/789608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789608)
 - [Компилятор за выходные: таблицы символов](https://habr.com/ru/articles/789310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789310)
 - [Способы монетизации телеграм-бота: как зарабатывать с помощью своего бота](https://habr.com/ru/articles/789486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789486)
