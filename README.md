@@ -29,8 +29,8 @@ ___
 - [k8s: подготовка к CKS](https://habr.com/ru/articles/789636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789636)
 - [75 вопросов на собеседовании QA](https://habr.com/ru/articles/789608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789608)
 - [Компилятор за выходные: таблицы символов](https://habr.com/ru/articles/789310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789310)
-- [Способы монетизации телеграм-бота: как зарабатывать с помощью своего бота](https://habr.com/ru/articles/789486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789486)
 - [Переход с Vue-CLI на Vite: ускоряем разработку Vue 3](https://habr.com/ru/articles/789584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789584)
+- [Формализация WF2M сети на примере алгоритма Кофе-машина и два ученых](https://habr.com/ru/articles/789570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
