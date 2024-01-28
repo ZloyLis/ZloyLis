@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Обманчиво простой и интересный RSA](https://habr.com/ru/companies/ruvds/articles/789166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789166)
 - [Без ручного нет автоматизированного. Почему одна Java не сделает вас автоматизатором?](https://habr.com/ru/articles/789524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789524)
 - [Ликбез для управленца: когда бежать за SD-WAN и что учесть при внедрении](https://habr.com/ru/companies/beeline_cloud/articles/789468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789468)
 - [[Перевод] Механизм перезапускаемых последовательностей &lpar;Rseq&rpar; при работе с TCMalloc](https://habr.com/ru/companies/timeweb/articles/789470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789470)
 - [[Перевод] Xv6 Глава 1: Интерфейсы операционной системы](https://habr.com/ru/articles/789478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789478)
-- [Сочетание методов верификации и аутентификации через почту и SMS: добавит ли безопасности и нельзя ли проще?](https://habr.com/ru/companies/newtel/articles/789460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
