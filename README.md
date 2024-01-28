@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Механизм перезапускаемых последовательностей &lpar;Rseq&rpar; при работе с TCMalloc](https://habr.com/ru/companies/timeweb/articles/789470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789470)
 - [[Перевод] Xv6 Глава 1: Интерфейсы операционной системы](https://habr.com/ru/articles/789478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789478)
 - [Сочетание методов верификации и аутентификации через почту и SMS: добавит ли безопасности и нельзя ли проще?](https://habr.com/ru/companies/newtel/articles/789460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789460)
 - [Худший путь в IT](https://habr.com/ru/articles/789438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789438)
 - [Как я приложение на Compose писал](https://habr.com/ru/articles/789428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789428)
-- [Как реализовывается WebAssembly в Rust: кратко](https://habr.com/ru/companies/otus/articles/788602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
