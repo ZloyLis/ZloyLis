@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Обслуживание HTML из MS-DOS](https://habr.com/ru/companies/ispmanager/articles/789960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789960)
+- [Капибара: открытый бета-тест](https://habr.com/ru/articles/789958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789958)
 - [Fitter —  сшиватель API/Website&#39;s.  Большое обновление](https://habr.com/ru/articles/789952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789952)
 - [Детекция объектов. R-CNN, Fast R-CNN, Faster R-CNN. Часть 1](https://habr.com/ru/articles/789942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789942)
 - [Жизнь после запуска: сколько нужно денег, чтобы содержать приложение](https://habr.com/ru/articles/789936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789936)
-- [Добавление оффлайн карт с open street map &lpar;osm&rpar; на web страницу](https://habr.com/ru/articles/789930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789930)
-- [Security Week 2405: криптостилер для Mac OS](https://habr.com/ru/companies/kaspersky/articles/789802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
