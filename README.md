@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Детекция объектов. R-CNN, Fast R-CNN, Faster R-CNN. Часть 1](https://habr.com/ru/articles/789942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789942)
+- [Жизнь после запуска: сколько нужно денег, чтобы содержать приложение](https://habr.com/ru/articles/789936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789936)
+- [Добавление оффлайн карт с open street map &lpar;osm&rpar; на web страницу](https://habr.com/ru/articles/789930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789930)
 - [Security Week 2405: криптостилер для Mac OS](https://habr.com/ru/companies/kaspersky/articles/789802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789802)
 - [[Перевод] Хэл Финни не был Сатоши Накамото](https://habr.com/ru/articles/789884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789884)
-- [Отчёт о конференции CrossConf 2023](https://habr.com/ru/articles/789876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789876)
-- [Миландр + GCC + VSCode. Пробуем мигать светодиодом на отечественном ARM32 микроконтроллере](https://habr.com/ru/articles/788776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788776)
-- [Зачем Программисту Микроконтроллеров Численные Методы?](https://habr.com/ru/articles/700394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
