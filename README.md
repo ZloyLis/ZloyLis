@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Путь джуниора через обучающие курсы: как выйти за пределы «пошаговых инструкций»](https://habr.com/ru/companies/sberbank/articles/789690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789690)
-- [Синхронизация локальных изменений с kubernetes контейнером. Часть 2](https://habr.com/ru/articles/789622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789622)
-- [Event Loop. Мифы и реальность](https://habr.com/ru/articles/789572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789572)
-- [Мобильная разработка за неделю #523 &lpar;22 — 28 января&rpar;](https://habr.com/ru/companies/productivity_inside/articles/789658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789658)
-- [Делаем домашний VPS для тестовых и пет проектов](https://habr.com/ru/articles/789656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789656)
+- [Бесплатные векторные карты на своём хостинге](https://habr.com/ru/companies/ruvds/articles/786698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786698)
+- [Жизненный цикл приложения на Flutter](https://habr.com/ru/articles/789750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789750)
+- [Как манекены калибруют томографы](https://habr.com/ru/companies/smartengines/articles/781260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781260)
+- [Библиотека Helium от проекта tauOS](https://habr.com/ru/companies/first/articles/789726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789726)
+- [Вёрстка — это не тупо](https://habr.com/ru/articles/789698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
