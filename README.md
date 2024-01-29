@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Minimal Phone: смартфон с e-Ink, QWERTY-клавиатурой и минимальным энергопотреблением. Что это за девайс?](https://habr.com/ru/companies/ru_mts/articles/789770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789770)
+- [Весенние конференции JRG: онлайн и офлайн, новые и любимые](https://habr.com/ru/companies/jugru/articles/789464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789464)
 - [Бесплатные векторные карты на своём хостинге](https://habr.com/ru/companies/ruvds/articles/786698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786698)
 - [Жизненный цикл приложения на Flutter](https://habr.com/ru/articles/789750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789750)
 - [Как манекены калибруют томографы](https://habr.com/ru/companies/smartengines/articles/781260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781260)
-- [Библиотека Helium от проекта tauOS](https://habr.com/ru/companies/first/articles/789726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789726)
-- [Вёрстка — это не тупо](https://habr.com/ru/articles/789698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
