@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем программисту микроконтроллеров численные методы?](https://habr.com/ru/articles/700394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=700394)
+- [Магия вне Хогвартса: как повышать ИБ-грамотность сотрудников](https://habr.com/ru/companies/ozontech/articles/789708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789708)
 - [[Перевод] Генератор случайных чисел, который можно запустить в голове](https://habr.com/ru/companies/ruvds/articles/789816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789816)
 - [Первый учебник не о том, ЧТО нужно знать QA &lpar;про это сказано достаточно&rpar;, а КАК правильно учиться и быстрее найти работу](https://habr.com/ru/articles/789796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789796)
 - [Minimal Phone: смартфон с e-Ink, QWERTY-клавиатурой и минимальным энергопотреблением. Что это за девайс?](https://habr.com/ru/companies/ru_mts/articles/789770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789770)
-- [Весенние конференции JRG: онлайн и офлайн, новые и любимые](https://habr.com/ru/companies/jugru/articles/789464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789464)
-- [Бесплатные векторные карты на своём хостинге](https://habr.com/ru/companies/ruvds/articles/786698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
