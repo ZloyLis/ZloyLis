@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синхронизация локальных изменений с kubernetes контейнером. Часть 2](https://habr.com/ru/articles/789622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789622)
+- [Event Loop. Мифы и реальность](https://habr.com/ru/articles/789572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789572)
 - [Мобильная разработка за неделю #523 &lpar;22 — 28 января&rpar;](https://habr.com/ru/companies/productivity_inside/articles/789658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789658)
 - [k8s: подготовка к CKS](https://habr.com/ru/articles/789636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789636)
 - [75 вопросов на собеседовании QA](https://habr.com/ru/articles/789608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789608)
-- [Компилятор за выходные: таблицы символов](https://habr.com/ru/articles/789310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789310)
-- [Переход с Vue-CLI на Vite: ускоряем разработку Vue 3](https://habr.com/ru/articles/789584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
