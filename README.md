@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лояльные регуляторы и «всесильное» импортозамещение: ИБ-тенденции и проблемы глазами системного интегратора](https://habr.com/ru/companies/bastion/articles/789866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789866)
+- [Как качать софты — гайд от разработчиков Mindbox. Часть 1. Думать о пользе, а не о коде](https://habr.com/ru/companies/mindbox/articles/790056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790056)
+- [Эффективное обновление состояний в БД из сервисов потоковой обработки событий](https://habr.com/ru/companies/oleg-bunin/articles/788038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788038)
 - [Лучшие практики RuStore: правила хорошего Code Review для Android](https://habr.com/ru/companies/vk/articles/790044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790044)
 - [Отладка в PL/SQL Developer](https://habr.com/ru/companies/custis/articles/789856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789856)
-- [Шпаргалка для QA: как тестировать Flutter-приложения](https://habr.com/ru/companies/agima/articles/790048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790048)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 5](https://habr.com/ru/companies/ruvds/articles/785862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785862)
-- [Не могу ничему научиться в айтишке](https://habr.com/ru/articles/790016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
