@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совместимость &lpar;или нет?&rpar; MLOps-инструментов](https://habr.com/ru/companies/jetinfosystems/articles/789898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789898)
+- [Операции, функции и специальные формы в императивных языках программирования](https://habr.com/ru/articles/790054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790054)
 - [Лояльные регуляторы и «всесильное» импортозамещение: ИБ-тенденции и проблемы глазами системного интегратора](https://habr.com/ru/companies/bastion/articles/789866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789866)
 - [Как качать софты — гайд от разработчиков Mindbox. Часть 1. Думать о пользе, а не о коде](https://habr.com/ru/companies/mindbox/articles/790056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790056)
 - [Эффективное обновление состояний в БД из сервисов потоковой обработки событий](https://habr.com/ru/companies/oleg-bunin/articles/788038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788038)
-- [Лучшие практики RuStore: правила хорошего Code Review для Android](https://habr.com/ru/companies/vk/articles/790044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790044)
-- [Отладка в PL/SQL Developer](https://habr.com/ru/companies/custis/articles/789856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
