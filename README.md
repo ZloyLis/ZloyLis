@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не могу ничему научиться в айтишке](https://habr.com/ru/articles/790016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790016)
+- [Объявление и инициализация переменных в C++](https://habr.com/ru/articles/790010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790010)
+- [Потребитель VS поставщик информации: принципы построения интеграционного взаимодействия](https://habr.com/ru/companies/nlmk/articles/779864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779864)
 - [«Относитесь к собеседованию, как к свиданию» — 5 причин, почему разработчики не могут найти работу](https://habr.com/ru/companies/kryptonite/articles/789786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789786)
 - [Уже не программист, но еще не менеджер](https://habr.com/ru/articles/789976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789976)
-- [Как СБЕР превращает гигабайты данных в полезные знания, которые нужны сотрудникам и клиентам](https://habr.com/ru/companies/teamly/articles/789768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789768)
-- [Анонимный обмен файлами в реалиях глобального наблюдателя](https://habr.com/ru/articles/789968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789968)
-- [Капибара: открытый бета-тест](https://habr.com/ru/articles/789958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
