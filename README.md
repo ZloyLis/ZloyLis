@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [За чистое небо над головой](https://habr.com/ru/companies/ruvds/articles/789984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789984)
+- [[Перевод] Три вопроса, которые сделают из вас отличного утёнка](https://habr.com/ru/companies/productivity_inside/articles/790142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790142)
 - [Framework для автоматизации тестирования на Java](https://habr.com/ru/companies/rshb/articles/790116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790116)
 - [Как мы делали «российский Зум»](https://habr.com/ru/companies/r7-office/articles/790090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790090)
 - [[Перевод] Написание минимальной подсистемы хранения данных в памяти для MySQL/MariaDB](https://habr.com/ru/companies/wunderfund/articles/789640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789640)
