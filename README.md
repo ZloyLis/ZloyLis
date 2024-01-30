@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие практики RuStore: правила хорошего Code Review для Android](https://habr.com/ru/companies/vk/articles/790044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790044)
+- [Отладка в PL/SQL Developer](https://habr.com/ru/companies/custis/articles/789856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789856)
+- [Шпаргалка для QA: как тестировать Flutter-приложения](https://habr.com/ru/companies/agima/articles/790048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790048)
+- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 5](https://habr.com/ru/companies/ruvds/articles/785862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785862)
 - [Не могу ничему научиться в айтишке](https://habr.com/ru/articles/790016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790016)
-- [Объявление и инициализация переменных в C++](https://habr.com/ru/articles/790010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790010)
-- [Потребитель VS поставщик информации: принципы построения интеграционного взаимодействия](https://habr.com/ru/companies/nlmk/articles/779864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779864)
-- [«Относитесь к собеседованию, как к свиданию» — 5 причин, почему разработчики не могут найти работу](https://habr.com/ru/companies/kryptonite/articles/789786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789786)
-- [Уже не программист, но еще не менеджер](https://habr.com/ru/articles/789976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
