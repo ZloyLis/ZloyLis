@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где бесплатно учить Java в 2024 году](https://habr.com/ru/articles/790518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790518)
 - [ExamClouds: Бесплатные Уроки Java для Начинающих с Видео, Тестами и Практикой](https://habr.com/ru/articles/790480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790480)
 - [О мат-нотациях и Машинах Тьюринга](https://habr.com/ru/articles/790246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790246)
 - [Универсальные факты: конструктор извлечения для аналитика](https://habr.com/ru/companies/sberbank/articles/790388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790388)
 - [Зачем делать новый язык программирования?](https://habr.com/ru/articles/790422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790422)
-- [Основы Rust: синтаксис и структуры данных](https://habr.com/ru/companies/otus/articles/789870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
