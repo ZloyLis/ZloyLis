@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Утечки памяти, которые не утечки](https://habr.com/ru/companies/alfa/articles/789782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789782)
+- [Запуск проекта в Kubernetes за 60 минут: инструменты, GitLab, Terraform](https://habr.com/ru/companies/vk/articles/782310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782310)
 - [Как мы помогли запустить приложение для маркета кроссовок Xstreet](https://habr.com/ru/articles/790252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790252)
 - [Мойофис: автоматизация отчётности в банке](https://habr.com/ru/articles/790248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790248)
 - [Apple Pro Weekly News &lpar;22.01 – 28.01.24&rpar;](https://habr.com/ru/articles/790170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790170)
-- [Как подключить Google Analytics к Telegram боту?](https://habr.com/ru/articles/790156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790156)
-- [Топ 5 моментов при разработке бота ТГ на R, на Serverles functions Яндекса](https://habr.com/ru/articles/790154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
