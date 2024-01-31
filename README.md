@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Своевременная диагностика на производстве: шесть фич с компьютерным зрением. Кейс rdl и угольного терминала](https://habr.com/ru/companies/redmadrobot/articles/790336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790336)
+- [О качестве ПО и почему оно такое. Взгляд на проблемы бизнеса с точки зрения технического специалиста](https://habr.com/ru/articles/790332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790332)
+- [[Перевод] HTML: плохие стороны](https://habr.com/ru/articles/790230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790230)
 - [Утечки памяти, которые не утечки](https://habr.com/ru/companies/alfa/articles/789782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789782)
 - [Запуск проекта в Kubernetes за 60 минут: инструменты, GitLab, Terraform](https://habr.com/ru/companies/vk/articles/782310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782310)
-- [Мойофис: автоматизация отчётности в банке](https://habr.com/ru/articles/790248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790248)
-- [Apple Pro Weekly News &lpar;22.01 – 28.01.24&rpar;](https://habr.com/ru/articles/790170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790170)
-- [Как подключить Google Analytics к Telegram боту?](https://habr.com/ru/articles/790156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
