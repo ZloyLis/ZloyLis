@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История Vercel 2009-2013гг. Часть 2/7. Первый стартап Гильермо. Learnboost](https://habr.com/ru/articles/790184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790184)
+- [Погружение в Web RTC или пишем SFU своими силами](https://habr.com/ru/articles/790348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790348)
+- [Как мы управляем инфраструктурой на более 1000 серверов при помощи Ansible](https://habr.com/ru/companies/oleg-bunin/articles/788552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788552)
 - [Своевременная диагностика на производстве: шесть фич с компьютерным зрением. Кейс rdl и угольного терминала](https://habr.com/ru/companies/redmadrobot/articles/790336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790336)
 - [О качестве ПО и почему оно такое. Взгляд на проблемы бизнеса с точки зрения технического специалиста](https://habr.com/ru/articles/790332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790332)
-- [[Перевод] HTML: плохие стороны](https://habr.com/ru/articles/790230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790230)
-- [Утечки памяти, которые не утечки](https://habr.com/ru/companies/alfa/articles/789782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789782)
-- [Запуск проекта в Kubernetes за 60 минут: инструменты, GitLab, Terraform](https://habr.com/ru/companies/vk/articles/782310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
