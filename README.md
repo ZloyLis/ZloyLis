@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы Rust: синтаксис и структуры данных](https://habr.com/ru/companies/otus/articles/789870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789870)
+- [ДИЗАЙН-СИСТЕМА: опыт внедрения в реальные проекты](https://habr.com/ru/articles/790404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790404)
 - [Самообучение ИТ-специалиста: мой эксперимент с ChatGPT](https://habr.com/ru/companies/digitalleague/articles/790382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790382)
 - [Переходим на российскую Java. Что это такое и зачем нужно?](https://habr.com/ru/companies/1cupis/articles/790380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790380)
 - [Страх, ненависть и токенизация банковских карт в Google Pay](https://habr.com/ru/articles/790148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790148)
-- [Step by step: интегрируем интерактивные 2D/3D-объекты в iOS-приложение](https://habr.com/ru/companies/simbirsoft/articles/790294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790294)
-- [Погружение в Web RTC или пишем SFU своими силами](https://habr.com/ru/articles/790348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
