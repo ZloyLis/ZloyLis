@@ -27,8 +27,8 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Универсальные факты: конструктор извлечения для аналитика](https://habr.com/ru/companies/sberbank/articles/790388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790388)
+- [Зачем делать новый язык программирования?](https://habr.com/ru/articles/790422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790422)
 - [Основы Rust: синтаксис и структуры данных](https://habr.com/ru/companies/otus/articles/789870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789870)
-- [ДИЗАЙН-СИСТЕМА: опыт внедрения в реальные проекты](https://habr.com/ru/articles/790404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790404)
 - [Самообучение ИТ-специалиста: мой эксперимент с ChatGPT](https://habr.com/ru/companies/digitalleague/articles/790382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790382)
 - [Переходим на российскую Java. Что это такое и зачем нужно?](https://habr.com/ru/companies/1cupis/articles/790380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790380)
 <!-- BLOG-POST-LIST:END -->
