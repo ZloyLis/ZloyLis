@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [История Vercel 2009-2013гг. Часть 2/7. Первый стартап Гильермо. Learnboost](https://habr.com/ru/articles/790184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790184)
+- [Самообучение ИТ-специалиста: мой эксперимент с ChatGPT](https://habr.com/ru/companies/digitalleague/articles/790382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790382)
+- [Переходим на российскую Java. Что это такое и зачем нужно?](https://habr.com/ru/companies/1cupis/articles/790380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790380)
+- [Страх, ненависть и токенизация банковских карт в Google Pay](https://habr.com/ru/articles/790148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790148)
+- [Step by step: интегрируем интерактивные 2D/3D-объекты в iOS-приложение](https://habr.com/ru/companies/simbirsoft/articles/790294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790294)
 - [Погружение в Web RTC или пишем SFU своими силами](https://habr.com/ru/articles/790348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790348)
-- [Как мы управляем инфраструктурой на более 1000 серверов при помощи Ansible](https://habr.com/ru/companies/oleg-bunin/articles/788552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788552)
-- [Своевременная диагностика на производстве: шесть фич с компьютерным зрением. Кейс rdl и угольного терминала](https://habr.com/ru/companies/redmadrobot/articles/790336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790336)
-- [О качестве ПО и почему оно такое. Взгляд на проблемы бизнеса с точки зрения технического специалиста](https://habr.com/ru/articles/790332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
