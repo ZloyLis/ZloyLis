@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему PASETO лучше для аутентификации, чем JWT](https://habr.com/ru/companies/first/articles/790576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790576)
 - [Задачник для проработки бизнес-мышления начинающим аналитиком данных](https://habr.com/ru/companies/yandex_praktikum/articles/788238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788238)
 - [Разбираемся с MavenGate, новой атакой на цепочку поставок для Java и Android-приложений](https://habr.com/ru/companies/swordfish_security/articles/790544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790544)
+- [Суровый моддинг из нулевых: как энтузиасты увеличивали объём ОЗУ в коммуникаторах?](https://habr.com/ru/companies/timeweb/articles/787896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787896)
 - [Технические предпочтения пользователей с нарушениями зрения в 2023 году. Исследование Яндекса](https://habr.com/ru/companies/yandex/articles/788740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788740)
-- [Автоматизация бизнес-процессов «Северстали»: факторинг](https://habr.com/ru/companies/severstal/articles/790578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790578)
-- [Большая подборка тестовых заданий для тестировщиков. Гайд и рекомендации](https://habr.com/ru/articles/790438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
