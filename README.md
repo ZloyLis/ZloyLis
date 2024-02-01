@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как сэкономить четверть бюджета проекта внедрения с помощью чек-листа качества бизнес-требований](https://habr.com/ru/companies/pgk/articles/790636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790636)
-- [Scala Digest. Выпуск 13](https://habr.com/ru/companies/tinkoff/articles/790650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790650)
-- [Организация корпоративной ИТ-инфраструктуры для 1С &lpar;50, 100, 200 пользователей&rpar;](https://habr.com/ru/articles/790654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790654)
-- [Почему PASETO лучше для аутентификации, чем JWT](https://habr.com/ru/companies/first/articles/790576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790576)
-- [Задачник для проработки бизнес-мышления начинающим аналитиком данных](https://habr.com/ru/companies/yandex_praktikum/articles/788238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788238)
+- [Исследование: самые горячие технобренды России](https://habr.com/ru/companies/hh/articles/790716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790716)
+- [Системный аналитик: каждой бочке затычка](https://habr.com/ru/articles/790680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790680)
+- [Qt Creator* ищет ошибки в Qt Creator](https://habr.com/ru/companies/pvs-studio/articles/790714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790714)
+- [Figma to Frontend: как мы автоматически синхронизируем дизайн и код](https://habr.com/ru/companies/vk/articles/790686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790686)
+- [Fortran, язык, которому почти 70 лет, поднялся с 27 до 12 места в рейтинге ЯП. В чём причина его новой популярности?](https://habr.com/ru/companies/sberbank/articles/790708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
