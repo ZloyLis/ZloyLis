@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Большая подборка тестовых заданий для тестировщиков. Гайд и рекомендации](https://habr.com/ru/articles/790438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790438)
 - [ИИ в 3D: Где мы сейчас и какое будущее нас ждёт? &lpar;Часть 1&rpar;](https://habr.com/ru/articles/790560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790560)
 - [Яндекс — когда дело расходится с.Практикой. 10000 записей и ни одной вакансии UX/UI дизайнера. Меметика](https://habr.com/ru/articles/790540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790540)
 - [Настройка C++ проекта c OpenMP. Обертывание С++ для Python с помощью pybind11 и CMake](https://habr.com/ru/articles/790538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790538)
 - [Шаг за шагом: Реализация автоматического резервного копирования PostgreSQL в Kubernetes и его синхронная отправка на S3](https://habr.com/ru/articles/790532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790532)
-- [Где бесплатно учить Java в 2024 году](https://habr.com/ru/articles/790518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
