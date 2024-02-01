@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Разреженные структуры данных](https://habr.com/ru/articles/790844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790844)
-- [Фракталы априорной теории всего](https://habr.com/ru/articles/790832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790832)
 - [Рыночные данные в кармане: как получать их быстро и просто с помощью Java/Kotlin и Spring Boot + TinkoffApi](https://habr.com/ru/articles/790830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790830)
 - [Как реализовать обрезку изображений во flutter без сторонних библиотек](https://habr.com/ru/articles/790608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790608)
 - [От безумного ассемблера до Swift: История развития языков программирования](https://habr.com/ru/articles/790804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790804)
+- [Как мы не выбрали Airbyte, или почему собирать данные лучше по старинке](https://habr.com/ru/companies/selectel/articles/788302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
