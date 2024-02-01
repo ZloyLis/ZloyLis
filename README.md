@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задачник для проработки бизнес-мышления начинающим аналитиком данных](https://habr.com/ru/companies/yandex_praktikum/articles/788238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788238)
+- [Разбираемся с MavenGate, новой атакой на цепочку поставок для Java и Android-приложений](https://habr.com/ru/companies/swordfish_security/articles/790544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790544)
+- [Технические предпочтения пользователей с нарушениями зрения в 2023 году. Исследование Яндекса](https://habr.com/ru/companies/yandex/articles/788740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788740)
+- [Автоматизация бизнес-процессов «Северстали»: факторинг](https://habr.com/ru/companies/severstal/articles/790578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790578)
 - [Большая подборка тестовых заданий для тестировщиков. Гайд и рекомендации](https://habr.com/ru/articles/790438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790438)
-- [ИИ в 3D: Где мы сейчас и какое будущее нас ждёт? &lpar;Часть 1&rpar;](https://habr.com/ru/articles/790560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790560)
-- [Яндекс — когда дело расходится с.Практикой. 10000 записей и ни одной вакансии UX/UI дизайнера. Меметика](https://habr.com/ru/articles/790540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790540)
-- [Настройка C++ проекта c OpenMP. Обертывание С++ для Python с помощью pybind11 и CMake](https://habr.com/ru/articles/790538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790538)
-- [Шаг за шагом: Реализация автоматического резервного копирования PostgreSQL в Kubernetes и его синхронная отправка на S3](https://habr.com/ru/articles/790532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
