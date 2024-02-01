@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что возвращает return?](https://habr.com/ru/articles/790530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790530)
+- [Применение DDD. От моделей до EDM — поиск новых форм и архитектурные излишества](https://habr.com/ru/articles/781062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781062)
 - [Банки.ру: от монолита до микрофронтендов](https://habr.com/ru/companies/banki/articles/790366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790366)
-- [Исследование: самые горячие технобренды России](https://habr.com/ru/companies/hh/articles/790716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790716)
 - [Системный аналитик: каждой бочке затычка](https://habr.com/ru/articles/790680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790680)
 - [Qt Creator* ищет ошибки в Qt Creator](https://habr.com/ru/companies/pvs-studio/articles/790714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790714)
-- [Figma to Frontend: как мы автоматически синхронизируем дизайн и код](https://habr.com/ru/companies/vk/articles/790686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
