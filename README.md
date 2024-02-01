@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сэкономить четверть бюджета проекта внедрения с помощью чек-листа качества бизнес-требований](https://habr.com/ru/companies/pgk/articles/790636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790636)
 - [Scala Digest. Выпуск 13](https://habr.com/ru/companies/tinkoff/articles/790650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790650)
 - [Организация корпоративной ИТ-инфраструктуры для 1С &lpar;50, 100, 200 пользователей&rpar;](https://habr.com/ru/articles/790654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790654)
 - [Почему PASETO лучше для аутентификации, чем JWT](https://habr.com/ru/companies/first/articles/790576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790576)
 - [Задачник для проработки бизнес-мышления начинающим аналитиком данных](https://habr.com/ru/companies/yandex_praktikum/articles/788238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788238)
-- [Разбираемся с MavenGate, новой атакой на цепочку поставок для Java и Android-приложений](https://habr.com/ru/companies/swordfish_security/articles/790544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
