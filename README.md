@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От безумного ассемблера до Swift: История развития языков программирования](https://habr.com/ru/articles/790804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790804)
 - [Как мы не выбрали Airbyte, или почему собирать данные лучше по старинке](https://habr.com/ru/companies/selectel/articles/788302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788302)
 - [iOS 17.4: что нового? Apple впервые разрешила использовать сторонние каталоги приложений и аналоги Apple Pay](https://habr.com/ru/companies/ru_mts/articles/790756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790756)
 - [Суровая правда о разработчиках и разработке. Part 2. Три года спустя](https://habr.com/ru/articles/790754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790754)
 - [Что возвращает return?](https://habr.com/ru/articles/790530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790530)
-- [Применение DDD. От моделей до EDM — поиск новых форм и архитектурные излишества](https://habr.com/ru/articles/781062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
