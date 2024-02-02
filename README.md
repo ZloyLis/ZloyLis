@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Всего 37% российских онлайн-ресурсов доступны для незрячих людей](https://habr.com/ru/articles/791030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791030)
 - [Стриминговый сервис, чат-бот и стартап — за какие проекты можно получить стипендию Selectel](https://habr.com/ru/companies/selectel/articles/790784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790784)
 - [Как мы делали уведомление о коммитах](https://habr.com/ru/articles/791006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791006)
 - [Программирование в Roblox для детей: как создать игру при помощи нейросети](https://habr.com/ru/articles/791002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791002)
 - [[Перевод] Ладья на XSS: как я хакнул chess.com детским эксплойтом](https://habr.com/ru/companies/ruvds/articles/790330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790330)
-- [Несколько советов начинающим инженерам и не только](https://habr.com/ru/companies/itfb/articles/790932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
