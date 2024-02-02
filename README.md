@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На GitHub больше 1 000 уязвимых репозиториев: в чём суть угрозы и что с этим делать](https://habr.com/ru/companies/ru_mts/articles/790966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790966)
+- [[Перевод] Примеры тест-кейсов для проверки текстовых полей](https://habr.com/ru/articles/790962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790962)
 - [Джуниоры-тестировщики в 2024 году: какие нужны скилы и как проходит процесс найма](https://habr.com/ru/companies/yandex_praktikum/articles/790656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790656)
 - [[Перевод] Как устроена страничная организация памяти x86_64](https://habr.com/ru/articles/787502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787502)
 - [Квоты в Kubernetes: очевидные, менее очевидные и совсем не очевидные](https://habr.com/ru/companies/oleg-bunin/articles/790112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790112)
-- [«Апатия, тревога, синдром самозванца» — Как попасть на интервью](https://habr.com/ru/articles/790910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790910)
-- [Проверка продуктовых гипотез и немодерируемые UX-исследования c применением внутренних инструментов: кейс команды OK](https://habr.com/ru/companies/vk/articles/790894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
