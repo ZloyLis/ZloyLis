@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 2. Устройство операционной системы](https://habr.com/ru/articles/791058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791058)
 - [[Перевод] Почему некоторые проекты угасают после ухода программиста из компании](https://habr.com/ru/companies/beeline_cloud/articles/791046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791046)
 - [Helm Charts](https://habr.com/ru/companies/otus/articles/790710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790710)
 - [Всего 37% российских онлайн-ресурсов доступны для незрячих людей](https://habr.com/ru/articles/791030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791030)
 - [Стриминговый сервис, чат-бот и стартап — за какие проекты можно получить стипендию Selectel](https://habr.com/ru/companies/selectel/articles/790784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790784)
-- [Как мы делали уведомление о коммитах](https://habr.com/ru/articles/791006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
