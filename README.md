@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как из браузера открыть папку в проводнике Windows используя ExpressJS](https://habr.com/ru/articles/790900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790900)
+- [Распознавание мордочек собак для борьбы со сказом](https://habr.com/ru/companies/ua-hosting/articles/790566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790566)
 - [СтихТок. Как я перестал «залипать» и начал духовно расти](https://habr.com/ru/articles/790866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790866)
 - [«Отучаем» WinFXNet от жадности &lpar;часть 1&rpar;](https://habr.com/ru/articles/790564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790564)
 - [Разреженные структуры данных](https://habr.com/ru/articles/790844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790844)
-- [Рыночные данные в кармане: как получать их быстро и просто с помощью Java/Kotlin и Spring Boot + TinkoffApi](https://habr.com/ru/articles/790830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790830)
-- [Как реализовать обрезку изображений во flutter без сторонних библиотек](https://habr.com/ru/articles/790608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
