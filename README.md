@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы делали уведомление о коммитах](https://habr.com/ru/articles/791006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791006)
+- [Программирование в Roblox для детей: как создать игру при помощи нейросети](https://habr.com/ru/articles/791002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791002)
 - [[Перевод] Ладья на XSS: как я хакнул chess.com детским эксплойтом](https://habr.com/ru/companies/ruvds/articles/790330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790330)
 - [Несколько советов начинающим инженерам и не только](https://habr.com/ru/companies/itfb/articles/790932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790932)
 - [Outlook как сервер микросервисов](https://habr.com/ru/articles/790986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790986)
-- [На GitHub больше 1 000 уязвимых репозиториев: в чём суть угрозы и что с этим делать](https://habr.com/ru/companies/ru_mts/articles/790966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790966)
-- [[Перевод] Примеры тест-кейсов для проверки текстовых полей](https://habr.com/ru/articles/790962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
