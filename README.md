@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по Aurora OS: как начать разработку для отечественной мобильной операционки](https://habr.com/ru/articles/791142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791142)
 - [Zoom в Qt виджете](https://habr.com/ru/articles/791136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791136)
 - [Информация об информации. Энтропия Шеннона, демон Максвелла и предел Ландауэра](https://habr.com/ru/articles/791130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791130)
 - [Какой тип ordering должен возвращать мой operator&amp;lt;=&amp;gt; в C++?](https://habr.com/ru/articles/791042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791042)
 - [Два вида мошенничества с помощью сайтов: розыгрыши айфонов, корм для собак и отъем денег через СБП](https://habr.com/ru/articles/791062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791062)
-- [Trait-объекты и полиморфизм в Rust](https://habr.com/ru/companies/otus/articles/790060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
