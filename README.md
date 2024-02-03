@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Информация об информации. Энтропия Шеннона, демон Максвелла и предел Ландауэра](https://habr.com/ru/articles/791130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791130)
 - [Какой тип ordering должен возвращать мой operator&amp;lt;=&amp;gt; в C++?](https://habr.com/ru/articles/791042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791042)
 - [Два вида мошенничества с помощью сайтов: розыгрыши айфонов, корм для собак и отъем денег через СБП](https://habr.com/ru/articles/791062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791062)
 - [Trait-объекты и полиморфизм в Rust](https://habr.com/ru/companies/otus/articles/790060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790060)
 - [Async/Await в C#. Часть 5. Функция-перечисление и цикл через рекурсию, асинхронный вызов без Async/Await](https://habr.com/ru/articles/790944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790944)
-- [Еще раз про асинхронную машину состояний и где именно там аллокации](https://habr.com/ru/companies/otus/articles/791086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
