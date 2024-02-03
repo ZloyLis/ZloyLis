@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Более правильный подход к подключению Yandex AppMetrica в React Native приложении](https://habr.com/ru/articles/791202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791202)
 - [Делаем RPG на Go: часть 0](https://habr.com/ru/articles/791192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791192)
 - [Про интеграции. Часть 1. Интеграционные подходы](https://habr.com/ru/articles/791186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791186)
 - [Дневник альтруиста. Причины](https://habr.com/ru/articles/791180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791180)
 - [Использование Cocoapods для приложения Qt на примере Google MLKit](https://habr.com/ru/articles/791178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791178)
-- [Как мы заработали 1700000 руб на Telegram-боте для создания фотокниг с помощью нейросети. Фейлы и выводы](https://habr.com/ru/articles/791152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
