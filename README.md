@@ -29,8 +29,8 @@ ___
 - [Еще раз про асинхронную машину состояний и где именно там аллокации](https://habr.com/ru/articles/791086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791086)
 - [Насколько велики шансы найти жизнь во вселенной на экзопланетах? Соображения о том, что шансов меньше, чем считается](https://habr.com/ru/articles/791082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791082)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 2. Устройство операционной системы](https://habr.com/ru/articles/791058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791058)
+- [Об объективщиках и субъективщиках](https://habr.com/ru/articles/791028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791028)
 - [[Перевод] Почему некоторые проекты угасают после ухода программиста из компании](https://habr.com/ru/companies/beeline_cloud/articles/791046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791046)
-- [Helm Charts](https://habr.com/ru/companies/otus/articles/790710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
