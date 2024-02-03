@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы заработали 1 700 000 руб на Telegram-боте для создания фотокниг с помощью нейросети. Фейлы и выводы](https://habr.com/ru/articles/791152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791152)
+- [Дневник альтруиста. Причины](https://habr.com/ru/articles/791180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791180)
+- [Использование Cocoapods для приложения Qt на примере Google MLKit](https://habr.com/ru/articles/791178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791178)
+- [Как мы заработали 1700000 руб на Telegram-боте для создания фотокниг с помощью нейросети. Фейлы и выводы](https://habr.com/ru/articles/791152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791152)
 - [О применении Liquibase в проектах разработки](https://habr.com/ru/articles/791170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791170)
 - [Гайд по Aurora OS: как начать разработку для отечественной мобильной операционки](https://habr.com/ru/articles/791142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791142)
-- [Zoom в Qt виджете](https://habr.com/ru/articles/791136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791136)
-- [Информация об информации. Энтропия Шеннона, демон Максвелла и предел Ландауэра](https://habr.com/ru/articles/791130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
