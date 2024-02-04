@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Руководство по проектированию дизайна и юзабилити интерфейсов с Drag and Drop](https://habr.com/ru/articles/791294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791294)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Инструменты для сборки и запуска xv6 под QEMU](https://habr.com/ru/articles/791286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791286)
 - [[Перевод] Design-Oriented Programming &lpar;DOP&rpar; от автора инновационно-революционного языка AsmX](https://habr.com/ru/articles/791278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791278)
 - [Простой GPT-ассистент в Telegram на базе Яндекса и Node.js](https://habr.com/ru/articles/791256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791256)
 - [[Перевод] Каково это, создавать язык программирования сегодня?](https://habr.com/ru/companies/ruvds/articles/790868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790868)
-- [Julia в машинном обучение: база](https://habr.com/ru/companies/otus/articles/789174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
