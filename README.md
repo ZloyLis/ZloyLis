@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Design-Oriented Programming &lpar;DOP&rpar; от автора инновационно-революционного языка AsmX](https://habr.com/ru/articles/791278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791278)
 - [Простой GPT-ассистент в Telegram на базе Яндекса и Node.js](https://habr.com/ru/articles/791256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791256)
 - [[Перевод] Каково это, создавать язык программирования сегодня?](https://habr.com/ru/companies/ruvds/articles/790868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790868)
 - [Julia в машинном обучение: база](https://habr.com/ru/companies/otus/articles/789174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789174)
 - [Более правильный подход к подключению Yandex AppMetrica в React Native приложении](https://habr.com/ru/articles/791202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791202)
-- [Делаем RPG на Go: часть 0](https://habr.com/ru/articles/791192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
