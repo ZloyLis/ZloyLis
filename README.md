@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [План самообразования по профессии продуктового аналитика](https://habr.com/ru/articles/791300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791300)
 - [Народный бондинг для облачного хранилища данных](https://habr.com/ru/articles/791332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791332)
 - [Каскадное шифрование редуцированным алгоритмом RSA](https://habr.com/ru/articles/791326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791326)
 - [Руководство по проектированию интерфейсов с Drag and Drop](https://habr.com/ru/articles/791294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791294)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Инструменты для сборки и запуска xv6 под QEMU](https://habr.com/ru/articles/791286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791286)
-- [Простой GPT-ассистент в Telegram на базе Яндекса и Node.js](https://habr.com/ru/articles/791256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
