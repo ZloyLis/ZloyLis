@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Joomla-дайджест. 2-е полугодие 2023 года](https://habr.com/ru/articles/790006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790006)
 - [[Перевод] 25 вопросов и ответов на собеседовании QA](https://habr.com/ru/articles/791352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791352)
 - [Adversarial suffixes или можно ли получить ответ на любой вопрос от LLM?](https://habr.com/ru/companies/raft/articles/790848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790848)
 - [Собственные CRD в Kubernetes](https://habr.com/ru/companies/otus/articles/787790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787790)
 - [План самообразования по профессии продуктового аналитика](https://habr.com/ru/articles/791300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791300)
-- [Народный бондинг для облачного хранилища данных](https://habr.com/ru/articles/791332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
