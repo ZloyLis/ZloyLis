@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Дорожная карта тестировщика 2024](https://habr.com/ru/articles/791338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791338)
+- [Тестирование менеджера транзакций](https://habr.com/ru/companies/vk/articles/790346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790346)
+- [[Перевод] Оффлайновое использование Git](https://habr.com/ru/companies/wunderfund/articles/791190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791190)
 - [Делим монорепозиторий библиотеки Go на отдельные модули и адаптируем их для локальной разработки](https://habr.com/ru/companies/avito/articles/790406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790406)
 - [Joomla-дайджест. 2-е полугодие 2023 года](https://habr.com/ru/articles/790006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790006)
-- [[Перевод] 25 вопросов и ответов на собеседовании QA](https://habr.com/ru/articles/791352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791352)
-- [Adversarial suffixes или можно ли получить ответ на любой вопрос от LLM?](https://habr.com/ru/companies/raft/articles/790848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790848)
-- [Собственные CRD в Kubernetes](https://habr.com/ru/companies/otus/articles/787790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
