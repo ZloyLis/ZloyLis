@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чек-лист: технический аудит IT проекта](https://habr.com/ru/articles/791596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791596)
 - [Security Week 2406: множество уязвимостей в VPN-сервере Ivanti](https://habr.com/ru/companies/kaspersky/articles/791486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791486)
 - [Apple Pro Weekly News &lpar;29.01 – 04.02.24&rpar;](https://habr.com/ru/articles/791588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791588)
 - [Компьютерное зрение сквозь года](https://habr.com/ru/articles/791532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791532)
 - [[Перевод] Как мы уложили компьютерный мультик в 8 кБ](https://habr.com/ru/articles/791530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791530)
-- [[Перевод] Создаем свою STL-совместимую реализацию std::allocator с лучшей производительностью](https://habr.com/ru/companies/otus/articles/791442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
