@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компьютерное зрение сквозь года](https://habr.com/ru/articles/791532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791532)
+- [[Перевод] Как мы уложили компьютерный мультик в 8 кБ](https://habr.com/ru/articles/791530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791530)
 - [[Перевод] Создаем свою STL-совместимую реализацию std::allocator с лучшей производительностью](https://habr.com/ru/companies/otus/articles/791442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791442)
 - [Валидация входных данных в фильтрах Minimal API .NET, просто и без затей](https://habr.com/ru/articles/791466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791466)
 - [[Перевод] Дорожная карта тестировщика 2024](https://habr.com/ru/articles/791338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791338)
-- [Тестирование менеджера транзакций](https://habr.com/ru/companies/vk/articles/790346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790346)
-- [[Перевод] Оффлайновое использование Git](https://habr.com/ru/companies/wunderfund/articles/791190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
