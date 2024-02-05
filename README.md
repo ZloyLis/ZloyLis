@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2406: множество уязвимостей в VPN-сервере Ivanti](https://habr.com/ru/companies/kaspersky/articles/791486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791486)
+- [Apple Pro Weekly News &lpar;29.01 – 04.02.24&rpar;](https://habr.com/ru/articles/791588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791588)
 - [Компьютерное зрение сквозь года](https://habr.com/ru/articles/791532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791532)
 - [[Перевод] Как мы уложили компьютерный мультик в 8 кБ](https://habr.com/ru/articles/791530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791530)
 - [[Перевод] Создаем свою STL-совместимую реализацию std::allocator с лучшей производительностью](https://habr.com/ru/companies/otus/articles/791442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791442)
-- [Валидация входных данных в фильтрах Minimal API .NET, просто и без затей](https://habr.com/ru/articles/791466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791466)
-- [Тестирование менеджера транзакций](https://habr.com/ru/companies/vk/articles/790346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
