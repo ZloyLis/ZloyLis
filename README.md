@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга «Основы компиляции: инкрементный подход»](https://habr.com/ru/companies/piter/articles/791764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791764)
+- [[Перевод] Когда «as never» — единственное, что работает](https://habr.com/ru/articles/791822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791822)
 - [Как знать все чего не знаешь или что такое R&amp;amp;D Department](https://habr.com/ru/articles/791540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791540)
 - [Python для gambling&#39;a. Часть 1 — Сбор данных](https://habr.com/ru/articles/791810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791810)
 - [Кто ты, SwiftData](https://habr.com/ru/companies/tinkoff/articles/791692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791692)
-- [Прокачиваем вёрстку ARIA-атрибутами. Атрибут role](https://habr.com/ru/companies/ruvds/articles/790882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790882)
-- [Копаемся в встроенном приложении камеры старого Xiaomi. Часть 1](https://habr.com/ru/articles/791794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
