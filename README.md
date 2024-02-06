@@ -26,8 +26,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шардирование: с нуля до Яндекс Диска](https://habr.com/ru/companies/oleg-bunin/articles/791018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791018)
 - [Разбираемся с Bluetooth Low Energy на примере превращения USB-клавиатуры в беспроводную](https://habr.com/ru/companies/ruvds/articles/782794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782794)
-- [Передача данных по радиоканалу](https://habr.com/ru/articles/791674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791674)
 - [Полигональное моделирование: от фундамента к продвинутым алгоритмам](https://habr.com/ru/companies/ascon/articles/788106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788106)
 - [11 полезных фичей Chrome DevTools](https://habr.com/ru/articles/791554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791554)
 - [Требования к данным для систем ИИ по верификации людей](https://habr.com/ru/articles/791644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791644)
