@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интеграция Поиска в Strapi: Meilisearch vs. Elasticsearch](https://habr.com/ru/articles/791414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791414)
 - [Аналитика в игре на Godot: подключаем MyTracker](https://habr.com/ru/companies/vk/articles/788356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788356)
 - [Шардирование: с нуля до Яндекс Диска](https://habr.com/ru/companies/oleg-bunin/articles/791018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791018)
 - [Полигональное моделирование: от фундамента к продвинутым алгоритмам](https://habr.com/ru/companies/ascon/articles/788106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788106)
 - [11 полезных фичей Chrome DevTools](https://habr.com/ru/articles/791554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791554)
+- [Требования к данным для систем ИИ по верификации людей](https://habr.com/ru/articles/791644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
