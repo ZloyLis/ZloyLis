@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полигональное моделирование: от фундамента к продвинутым алгоритмам](https://habr.com/ru/companies/ascon/articles/788106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788106)
+- [11 полезных фичей Chrome DevTools](https://habr.com/ru/articles/791554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791554)
+- [Требования к данным для систем ИИ по верификации людей](https://habr.com/ru/articles/791644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791644)
 - [Корпоративный куколдизм](https://habr.com/ru/articles/789456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789456)
 - [Плагин для анализа планов PostgreSQL в Eclipse и DBeaver, и его разработка](https://habr.com/ru/companies/tensor/articles/789734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789734)
-- [End-to-end тестирование React приложения с помощью Playwright](https://habr.com/ru/articles/791618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791618)
-- [Шаг за шагом: Как интегрировать ChatGPT для ревью пулл-реквестов на GitHub с помощью GitHub Actions](https://habr.com/ru/articles/791610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791610)
-- [Обновление #Net chromium](https://habr.com/ru/articles/791604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
