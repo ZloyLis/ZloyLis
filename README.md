@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как с помощью ChatGPT реализовать раскраску во flutter](https://habr.com/ru/articles/791886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791886)
 - [Вся наша жизнь – игра: или как прижилась геймификация внутри мобильного приложения в ритейле](https://habr.com/ru/companies/X5Tech/articles/792084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792084)
 - [[Перевод] Люди не понимают ООП](https://habr.com/ru/companies/ruvds/articles/792052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792052)
 - [Уменьшаем boilerplate с помощью Swift Macros](https://habr.com/ru/companies/surfstudio/articles/792062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792062)
 - [[Перевод] Где-то в дороге мы забыли о мастерстве программирования](https://habr.com/ru/articles/792046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792046)
-- [Равномощные отрезки… или исповедь сумасшедшего](https://habr.com/ru/articles/792006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
