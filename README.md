@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Где-то в дороге мы забыли о мастерстве программирования](https://habr.com/ru/articles/792046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792046)
 - [Равномощные отрезки… или исповедь сумасшедшего](https://habr.com/ru/articles/792006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792006)
 - [Концепция включений в markvan-разметке текстов](https://habr.com/ru/articles/791128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791128)
 - [Как подружить нейросети и разработку: программируем с ChatGPT](https://habr.com/ru/companies/ibs/articles/792032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792032)
 - [[Перевод] Иерархия ИИ-потребностей](https://habr.com/ru/companies/vk/articles/790362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790362)
-- [Диплом специалиста ИБ. Часть №1 — Методика обеспечения безопасности устройств Интернета вещей](https://habr.com/ru/articles/791994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
