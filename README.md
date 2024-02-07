@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Равномощные отрезки… или исповедь сумасшедшего](https://habr.com/ru/articles/792006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792006)
+- [Концепция включений в markvan-разметке текстов](https://habr.com/ru/articles/791128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791128)
+- [Как подружить нейросети и разработку: программируем с ChatGPT](https://habr.com/ru/companies/ibs/articles/792032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792032)
+- [[Перевод] Иерархия ИИ-потребностей](https://habr.com/ru/companies/vk/articles/790362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790362)
 - [Диплом специалиста ИБ. Часть №1 — Методика обеспечения безопасности устройств Интернета вещей](https://habr.com/ru/articles/791994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791994)
-- [Я стал зарабатывать вдвое больше, когда начал писать техническую документацию](https://habr.com/ru/articles/791962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791962)
-- [Направо пойдешь — в бэкенд придешь, налево — в мобилки…](https://habr.com/ru/companies/maxilect/articles/791846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791846)
-- [Миграция микросервисной архитектуры на API Gateway](https://habr.com/ru/articles/765944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765944)
-- [Почему Ceph не собирается в кластер: как не связанные коммиты привели к неожиданным проблемам](https://habr.com/ru/companies/flant/articles/790490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
