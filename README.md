@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Два сапога — пара, а три — уже community: как алгоритмы на графах помогают собирать группы товаров](https://habr.com/ru/companies/ozontech/articles/791684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791684)
+- [Расширение браузера для управления маршрутами на Микротике](https://habr.com/ru/articles/791932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791932)
 - [Разбор переменных и скриптов в Insomnia](https://habr.com/ru/articles/791826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791826)
 - [Наш опыт мультиаутентификации в приложениях ASP.NET Core](https://habr.com/ru/companies/alfastrah/articles/791906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791906)
 - [UX-мракобесие](https://habr.com/ru/articles/791910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791910)
-- [Будущее инфраструктуры и безопасности](https://habr.com/ru/articles/791898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791898)
-- [Задача «Получить значение у N url из списка» с собеседования на Go](https://habr.com/ru/articles/791874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
