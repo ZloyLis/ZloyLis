@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural ODE: Встреча с Дифференциальными Уравнениями](https://habr.com/ru/articles/792162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792162)
+- [Как сопоставить номера деталей с изображениями: Использование поиска Google и сравнения изображений в Node.js](https://habr.com/ru/articles/792208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792208)
+- [Pandas в pandas&#39;е: упаковываем документацию в датафрейм](https://habr.com/ru/articles/784344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784344)
+- [Neural ODE: встреча с дифференциальными Уравнениями](https://habr.com/ru/articles/792162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792162)
 - [Создаем чат-бота на Python: Полное руководство](https://habr.com/ru/articles/792148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792148)
 - [[Перевод] Ранний взгляд на будущее тестирования с swift-testing](https://habr.com/ru/companies/otus/articles/790792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790792)
-- [Как с помощью ChatGPT реализовать раскраску во flutter](https://habr.com/ru/articles/791886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791886)
-- [Вся наша жизнь – игра: или как прижилась геймификация внутри мобильного приложения в ритейле](https://habr.com/ru/companies/X5Tech/articles/792084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
