@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наш опыт мультиаутентификации в приложениях ASP.NET Core](https://habr.com/ru/companies/alfastrah/articles/791906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791906)
+- [UX-мракобесие](https://habr.com/ru/articles/791910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791910)
 - [Будущее инфраструктуры и безопасности](https://habr.com/ru/articles/791898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791898)
 - [Задача «Получить значение у N url из списка» с собеседования на Go](https://habr.com/ru/articles/791874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791874)
 - [Книга «Основы компиляции: инкрементный подход»](https://habr.com/ru/companies/piter/articles/791764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791764)
-- [[Перевод] Когда «as never» — единственное, что работает](https://habr.com/ru/articles/791822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791822)
-- [Как знать все чего не знаешь или что такое R&amp;amp;D Department](https://habr.com/ru/articles/791540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
