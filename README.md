@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Люди не понимают ООП](https://habr.com/ru/companies/ruvds/articles/792052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792052)
+- [Уменьшаем boilerplate с помощью Swift Macros](https://habr.com/ru/companies/surfstudio/articles/792062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792062)
 - [[Перевод] Где-то в дороге мы забыли о мастерстве программирования](https://habr.com/ru/articles/792046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792046)
 - [Равномощные отрезки… или исповедь сумасшедшего](https://habr.com/ru/articles/792006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792006)
 - [Концепция включений в markvan-разметке текстов](https://habr.com/ru/articles/791128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791128)
-- [Как подружить нейросети и разработку: программируем с ChatGPT](https://habr.com/ru/companies/ibs/articles/792032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792032)
-- [[Перевод] Иерархия ИИ-потребностей](https://habr.com/ru/companies/vk/articles/790362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
