@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [MyBatis «на минималках»](https://habr.com/ru/companies/cdek_blog/articles/771714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771714)
-- [Как получили 137 лидов за год, а поработали только с десятью](https://habr.com/ru/articles/792392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792392)
 - [Зачем Data Science специалисту разбираться в коде, контейнеризации и коммуникациях](https://habr.com/ru/companies/pgk/articles/792378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792378)
 - [Проект Альфа-Бизнес Mobile Web &lpar;веб-приложение&rpar;, или Что делать если AppStore — всё?](https://habr.com/ru/companies/alfa/articles/792366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792366)
 - [Краткий обзор TinyML](https://habr.com/ru/companies/otus/articles/791040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791040)
+- [Книга «Software Dynamics: оптимизация производительности программного обеспечения»](https://habr.com/ru/companies/piter/articles/792304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
