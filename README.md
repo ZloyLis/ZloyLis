@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга «Software Dynamics: оптимизация производительности программного обеспечения»](https://habr.com/ru/companies/piter/articles/792304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792304)
+- [Реализация чата на Flutter при помощи вебсокетов](https://habr.com/ru/articles/792374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792374)
+- [Разбираем самый маленький JPEG в мире](https://habr.com/ru/articles/791302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791302)
+- [Next.js. Технология современной веб-разработки](https://habr.com/ru/companies/auriga/articles/786912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786912)
 - [Merlion Framework или как упростить работу с временными рядами](https://habr.com/ru/companies/sportmaster_lab/articles/792318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792318)
-- [Интеграционное тестирование, если у вас R2DBC и liquibase](https://habr.com/ru/articles/792358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792358)
-- [Java Digest #9](https://habr.com/ru/companies/tinkoff/articles/792310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792310)
-- [Проактивность сотрудника: что это за качество и как его развить](https://habr.com/ru/companies/ncloudtech/articles/792024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792024)
-- [Практическая реализация паттерна Server-Driven UI на Flutter c использованием фреймворка Duit](https://habr.com/ru/articles/792142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
