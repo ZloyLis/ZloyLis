@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стеки и Очереди в Swift](https://habr.com/ru/articles/792220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792220)
 - [Спутник как IT-проект. Что нужно разработчику для создания и запуска своего кубсата](https://habr.com/ru/companies/simbirsoft/articles/792056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792056)
 - [Как сопоставить номера деталей с изображениями: Использование поиска Google и сравнения изображений в Node.js](https://habr.com/ru/articles/792208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792208)
 - [Pandas в pandas&#39;е: упаковываем документацию в датафрейм](https://habr.com/ru/articles/784344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=784344)
 - [Neural ODE: встреча с дифференциальными Уравнениями](https://habr.com/ru/articles/792162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792162)
-- [Создаем чат-бота на Python: Полное руководство](https://habr.com/ru/articles/792148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
