@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Merlion Framework или как упростить работу с временными рядами](https://habr.com/ru/companies/sportmaster_lab/articles/792318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792318)
+- [Интеграционное тестирование, если у вас R2DBC и liquibase](https://habr.com/ru/articles/792358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792358)
 - [Java Digest #9](https://habr.com/ru/companies/tinkoff/articles/792310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792310)
 - [Проактивность сотрудника: что это за качество и как его развить](https://habr.com/ru/companies/ncloudtech/articles/792024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792024)
 - [Практическая реализация паттерна Server-Driven UI на Flutter c использованием фреймворка Duit](https://habr.com/ru/articles/792142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792142)
-- [«Потерянный» арифмометр: Считающие часы Вильгельма Шиккарда](https://habr.com/ru/companies/rshb/articles/792290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792290)
-- [Domain Driven Design в Go – это почти не больно](https://habr.com/ru/companies/oleg-bunin/articles/791420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
