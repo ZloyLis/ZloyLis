@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книга «Software Dynamics: оптимизация производительности программного обеспечения»](https://habr.com/ru/companies/piter/articles/792304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792304)
-- [Реализация чата на Flutter при помощи вебсокетов](https://habr.com/ru/articles/792374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792374)
-- [Разбираем самый маленький JPEG в мире](https://habr.com/ru/articles/791302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791302)
-- [Next.js. Технология современной веб-разработки](https://habr.com/ru/companies/auriga/articles/786912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=786912)
-- [Merlion Framework или как упростить работу с временными рядами](https://habr.com/ru/companies/sportmaster_lab/articles/792318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792318)
+- [MyBatis «на минималках»](https://habr.com/ru/companies/cdek_blog/articles/771714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771714)
+- [Как получили 137 лидов за год, а поработали только с десятью](https://habr.com/ru/articles/792392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792392)
+- [Зачем Data Science специалисту разбираться в коде, контейнеризации и коммуникациях](https://habr.com/ru/companies/pgk/articles/792378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792378)
+- [Проект Альфа-Бизнес Mobile Web &lpar;веб-приложение&rpar;, или Что делать если AppStore — всё?](https://habr.com/ru/companies/alfa/articles/792366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792366)
+- [Краткий обзор TinyML](https://habr.com/ru/companies/otus/articles/791040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
