@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Математики наконец-то решили проблему «обратного разбрызгивателя» Фейнмана](https://habr.com/ru/articles/792198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792198)
+- [На помойку? Никак нет! Пишем нативные приложения для дешевых китайских телефонов](https://habr.com/ru/companies/timeweb/articles/791072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791072)
+- [VR-тур на A-Frame + React](https://habr.com/ru/companies/domclick/articles/791790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791790)
 - [Strict Mode в ECMAScript. Полный справочник](https://habr.com/ru/articles/791978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791978)
 - [Обзор языка Erlang и его синтаксиса](https://habr.com/ru/companies/otus/articles/791312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791312)
-- [Как создать shader в Flutter для эффектной анимации в приложении?](https://habr.com/ru/articles/792236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792236)
-- [Стеки и Очереди в Swift](https://habr.com/ru/articles/792220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792220)
-- [Спутник как IT-проект. Что нужно разработчику для создания и запуска своего кубсата](https://habr.com/ru/companies/simbirsoft/articles/792056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
