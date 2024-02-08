@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разобраться раз и навсегда: Task.WhenAll или Parallel.ForEachAsync в C#](https://habr.com/ru/companies/ruvds/articles/790836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790836)
+- [App Router и Pages Router: что изменилось в Next.js](https://habr.com/ru/companies/ppr/articles/792270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792270)
+- [Чек-лист или тест-кейсы?](https://habr.com/ru/articles/791334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791334)
 - [[Перевод] Математики наконец-то решили проблему «обратного разбрызгивателя» Фейнмана](https://habr.com/ru/articles/792198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792198)
 - [На помойку? Никак нет! Пишем нативные приложения для дешевых китайских телефонов](https://habr.com/ru/companies/timeweb/articles/791072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791072)
-- [VR-тур на A-Frame + React](https://habr.com/ru/companies/domclick/articles/791790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791790)
-- [Strict Mode в ECMAScript. Полный справочник](https://habr.com/ru/articles/791978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791978)
-- [Обзор языка Erlang и его синтаксиса](https://habr.com/ru/companies/otus/articles/791312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
