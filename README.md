@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Digest #9](https://habr.com/ru/companies/tinkoff/articles/792310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792310)
 - [Проактивность сотрудника: что это за качество и как его развить](https://habr.com/ru/companies/ncloudtech/articles/792024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792024)
 - [Практическая реализация паттерна Server-Driven UI на Flutter c использованием фреймворка Duit](https://habr.com/ru/articles/792142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792142)
-- [Считающие часы Вильгельма Шиккарда](https://habr.com/ru/companies/rshb/articles/792290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792290)
+- [«Потерянный» арифмометр: Считающие часы Вильгельма Шиккарда](https://habr.com/ru/companies/rshb/articles/792290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792290)
 - [Domain Driven Design в Go – это почти не больно](https://habr.com/ru/companies/oleg-bunin/articles/791420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791420)
-- [Разобраться раз и навсегда: Task.WhenAll или Parallel.ForEachAsync в C#](https://habr.com/ru/companies/ruvds/articles/790836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
