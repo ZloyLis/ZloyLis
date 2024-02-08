@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Application and API Protection &lpar;WAAP&rpar;: эволюция WAF &lpar;Web Application Firewall&rpar;](https://habr.com/ru/companies/owasp/articles/770384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=770384)
 - [Страдания по VueUse](https://habr.com/ru/articles/792406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792406)
 - [MyBatis «на минималках»](https://habr.com/ru/companies/cdek_blog/articles/771714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=771714)
 - [Зачем Data Science специалисту разбираться в коде, контейнеризации и коммуникациях](https://habr.com/ru/companies/pgk/articles/792378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792378)
 - [Краткий обзор TinyML](https://habr.com/ru/companies/otus/articles/791040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791040)
-- [Книга «Software Dynamics: оптимизация производительности программного обеспечения»](https://habr.com/ru/companies/piter/articles/792304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
