@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширение PVS-Studio для Visual Studio Code: поиск ошибок в Java-коде](https://habr.com/ru/companies/pvs-studio/articles/792580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792580)
+- [[Перевод] Защищено ли ваше программное обеспечение?](https://habr.com/ru/companies/otus/articles/792572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792572)
+- [EV code sign за 4+ тысячи долларов](https://habr.com/ru/companies/asodev/articles/792568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792568)
 - [Создание сайтов через нейросети](https://habr.com/ru/articles/792516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792516)
 - [Разработка и применение систем разграничения доступа на базе атрибутов](https://habr.com/ru/companies/pt/articles/791992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791992)
-- [ИБ и ИТ, давайте жить дружно. Вот как это возможно](https://habr.com/ru/companies/kaspersky/articles/789718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789718)
-- [Айтишник женился на девушке, с которой общался ChatGPT. А как научить бота общаться с клиентами?](https://habr.com/ru/articles/792476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792476)
-- [Что должно быть в портфолио джуна-разработчика: мнение руководителей](https://habr.com/ru/companies/yandex_praktikum/articles/791670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
