@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удобство и/или безопасность? Tinkoff edition](https://habr.com/ru/articles/792556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792556)
 - [[Перевод] Простой скрипт на Python для управления личными финансами](https://habr.com/ru/companies/netologyru/articles/792670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792670)
 - [Оптимизация js/WebGL/Web Assembly](https://habr.com/ru/articles/792642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792642)
 - [Метод конечных элементов своими руками](https://habr.com/ru/articles/792464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792464)
 - [Как мы считали экономику продукта «Семья» через uplift CLTV](https://habr.com/ru/companies/beeline_tech/articles/792618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792618)
-- [5 идей, как улучшить Discovery-процессы в команде, если ты продуктовый дизайнер](https://habr.com/ru/companies/sbermarket/articles/792522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
