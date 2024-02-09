@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание сайтов через нейросети](https://habr.com/ru/articles/792516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792516)
+- [Разработка и применение систем разграничения доступа на базе атрибутов](https://habr.com/ru/companies/pt/articles/791992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791992)
 - [ИБ и ИТ, давайте жить дружно. Вот как это возможно](https://habr.com/ru/companies/kaspersky/articles/789718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789718)
 - [Айтишник женился на девушке, с которой общался ChatGPT. А как научить бота общаться с клиентами?](https://habr.com/ru/articles/792476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792476)
 - [Что должно быть в портфолио джуна-разработчика: мнение руководителей](https://habr.com/ru/companies/yandex_praktikum/articles/791670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791670)
-- [[Перевод] Поисковый движок в 80 строках Python](https://habr.com/ru/articles/792452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792452)
-- [Где новичкам самостоятельно изучать программирование или как обойтись малой кровью](https://habr.com/ru/articles/792130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
