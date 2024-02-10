@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 3. Таблицы страниц](https://habr.com/ru/articles/792808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792808)
+- [Как я проектирую интерфейсы](https://habr.com/ru/articles/792806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792806)
+- [Шаблонизатор GO text template](https://habr.com/ru/articles/792802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792802)
 - [Построение планов параллельного выполнения программ для процессоров со сверхдлинным машинным словом &lpar;проект&rpar;](https://habr.com/ru/articles/792744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792744)
 - [Как выдавать бесплатные SSL сертификаты с помощью certbot, Nginx и Docker](https://habr.com/ru/articles/792430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792430)
-- [Удобство и/или безопасность? Tinkoff edition](https://habr.com/ru/articles/792556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792556)
-- [[Перевод] Простой скрипт на Python для управления личными финансами](https://habr.com/ru/companies/netologyru/articles/792670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792670)
-- [Оптимизация js/WebGL/Web Assembly](https://habr.com/ru/articles/792642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
