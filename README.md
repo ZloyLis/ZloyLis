@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестируем многоядерный процессор методом Кнута и Python’а](https://habr.com/ru/articles/792832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792832)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 3. Таблицы страниц](https://habr.com/ru/articles/792808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792808)
 - [Как я проектирую интерфейсы](https://habr.com/ru/articles/792806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792806)
 - [Шаблонизатор GO text template](https://habr.com/ru/articles/792802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792802)
 - [Построение планов параллельного выполнения программ для процессоров со сверхдлинным машинным словом &lpar;проект&rpar;](https://habr.com/ru/articles/792744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792744)
-- [Как выдавать бесплатные SSL сертификаты с помощью certbot, Nginx и Docker](https://habr.com/ru/articles/792430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
