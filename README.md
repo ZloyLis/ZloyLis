@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зри в корень — это не зря](https://habr.com/ru/articles/792848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792848)
 - [Новая архитектура в интепретации древних &lpar;приземление&rpar;](https://habr.com/ru/articles/792846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792846)
 - [Бесплатные курсы для изучения C++ в 2024 году](https://habr.com/ru/articles/792834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792834)
 - [Тестируем многоядерный процессор методом Кнута и Python’а](https://habr.com/ru/articles/792832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792832)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 3. Таблицы страниц](https://habr.com/ru/articles/792808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792808)
-- [Как я проектирую интерфейсы](https://habr.com/ru/articles/792806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
