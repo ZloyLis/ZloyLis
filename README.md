@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Большой API для экспериментов и front проектов или памятка о том, как я создавал проект](https://habr.com/ru/articles/792954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792954)
 - [Мобильная разработка за неделю #525 &lpar;5 — 11 февраля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/792950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792950)
 - [Создание кастомного React Native компонента Switch с помощью библиотек Reanimated и Gesture Handler &lpar;Часть 1&rpar;](https://habr.com/ru/articles/792946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792946)
 - [Интеграция SonarQube в Kubernetes](https://habr.com/ru/companies/otus/articles/792944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792944)
 - [PHP и Laravel дайджест новостей за январь 2024 года](https://habr.com/ru/articles/792940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792940)
-- [Value: библиотека реактивного программирования для Dart](https://habr.com/ru/articles/792418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
