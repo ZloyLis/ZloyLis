@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Об одном способе веб-скрапинга сайтов, защищенных Cloudflare](https://habr.com/ru/articles/792868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792868)
 - [Раскраска SVG картинки во flutter, и почему я решил отключить Impeller](https://habr.com/ru/articles/792858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792858)
 - [Звёзды-родственники: зачем и как мы их ищем, данные + код &lpar;Python&rpar;](https://habr.com/ru/articles/792854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792854)
 - [[Перевод] Ретрокодинг на Macintosh System 7.5, Think C и ResEdit](https://habr.com/ru/companies/ispmanager/articles/792852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792852)
-- [Новая архитектура в интерпретации древних &lpar;приземление&rpar;](https://habr.com/ru/articles/792846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792846)
-- [Бесплатные курсы для изучения C++ в 2024 году](https://habr.com/ru/articles/792834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792834)
+- [Новая архитектура в интерпретации древних](https://habr.com/ru/articles/792846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
