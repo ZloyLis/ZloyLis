@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция SonarQube в Kubernetes](https://habr.com/ru/companies/otus/articles/792944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792944)
+- [PHP и Laravel дайджест новостей за январь 2024 года](https://habr.com/ru/articles/792940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792940)
+- [Value: библиотека реактивного программирования для Dart](https://habr.com/ru/articles/792418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792418)
 - [Детекция объектов. YOLO. Часть 2](https://habr.com/ru/articles/792926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792926)
 - [[Перевод] Реверс-инжиниринг программ DOS как в старом-добром 1990-м](https://habr.com/ru/companies/ruvds/articles/792226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792226)
-- [Мой опыт в Airflow: как повысить стабильность загрузки данных в 5 раз](https://habr.com/ru/articles/792872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792872)
-- [Об одном способе веб-скрапинга сайтов, защищенных Cloudflare](https://habr.com/ru/articles/792868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792868)
-- [Раскраска SVG картинки во flutter, и почему я решил отключить Impeller](https://habr.com/ru/articles/792858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
