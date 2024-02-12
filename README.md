@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как уменьшить вес продуктовой анимации в 400 раз &lpar;без AI&rpar;](https://habr.com/ru/articles/793260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793260)
 - [Security Week 2407: о &lpar;без&rpar;опасности умных зубных щеток](https://habr.com/ru/companies/kaspersky/articles/793104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793104)
 - [Почему умирает твой пет-проект?](https://habr.com/ru/articles/792812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792812)
 - [[Перевод] Как изучить Haskell всего за 15 лет](https://habr.com/ru/companies/ruvds/articles/793120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793120)
 - [Как мы выстроили процесс работы с макетами](https://habr.com/ru/companies/tele2/articles/793160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793160)
-- [Зачем инженеру выступать на конференции, если за это больше не платят](https://habr.com/ru/companies/oleg-bunin/articles/793128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
