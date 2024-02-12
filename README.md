@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем инженеру выступать на конференции, если за это больше не платят](https://habr.com/ru/companies/oleg-bunin/articles/793128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793128)
+- [Как работать с Kafka-consumer в Spring-проектах](https://habr.com/ru/articles/793134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793134)
 - [[Перевод] Использование Jupyter Notebook для разведочного анализа данных ⬝ Методические рекомендации](https://habr.com/ru/companies/wunderfund/articles/792970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792970)
 - [Решил я тут текстовую MMORPG на C++ написать](https://habr.com/ru/articles/793084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793084)
 - [[Перевод] Rust 1.76.0: обновление совместимости ABI, получение имени типа из ссылки](https://habr.com/ru/articles/793076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793076)
-- [Как расти миддлу и сеньору? Выжимка доклада IT-конференции](https://habr.com/ru/articles/793066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793066)
-- [Мониторинг NATS JetStream в Grafana](https://habr.com/ru/articles/793050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
