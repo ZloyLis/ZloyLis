@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как расти миддлу и сеньору? Выжимка доклада IT-конференции](https://habr.com/ru/articles/793066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793066)
 - [Мониторинг NATS JetStream в Grafana](https://habr.com/ru/articles/793050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793050)
 - [Анализируем виды тестов для Frontend](https://habr.com/ru/companies/vk/articles/792398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792398)
 - [[Перевод] Как языковая модель предсказывает следующий токен &lpar;часть 1&rpar;](https://habr.com/ru/articles/792020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792020)
 - [Изи freestyle android приложения на Kivy &lpar;Python&rpar;, Google collab и ваш не любимый ChatGPT](https://habr.com/ru/articles/793038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793038)
-- [Как на самом деле Async/Await работают в C#. Часть 6. Анализ результатов компиляции асинхронных вызовов](https://habr.com/ru/articles/792782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
