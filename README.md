@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гиперконвергентная инфраструктура — знакомим с основными моментами и нюансами использования](https://habr.com/ru/companies/beeline_cloud/articles/793184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793184)
 - [[Перевод] Как изучить Haskell всего за 15 лет](https://habr.com/ru/companies/ruvds/articles/793120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793120)
 - [Как мы выстроили процесс работы с макетами](https://habr.com/ru/companies/tele2/articles/793160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793160)
 - [Зачем инженеру выступать на конференции, если за это больше не платят](https://habr.com/ru/companies/oleg-bunin/articles/793128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793128)
 - [Как работать с Kafka-consumer в Spring-проектах](https://habr.com/ru/articles/793134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793134)
-- [[Перевод] Использование Jupyter Notebook для разведочного анализа данных ⬝ Методические рекомендации](https://habr.com/ru/companies/wunderfund/articles/792970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
