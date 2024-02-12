@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как на самом деле Async/Await работают в C#. Часть 6. Анализ результатов компиляции асинхронных вызовов](https://habr.com/ru/articles/792782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792782)
 - [Пресейлы, UI/UX-исследования и «Три амиго»: доклады с митапа BA в red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/793012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793012)
 - [Что почитать игровому программисту?](https://habr.com/ru/articles/792996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792996)
 - [Простой, полезный проект интеграционных тестов](https://habr.com/ru/companies/alfastrah/articles/792598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792598)
 - [Не пора ли валить с gnu libc на что‑то другое?](https://habr.com/ru/articles/792980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792980)
-- [Kotlin Object Multiplatform Mapper](https://habr.com/ru/articles/792958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
