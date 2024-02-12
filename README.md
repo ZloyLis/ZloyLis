@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мониторинг NATS JetStream в Grafana](https://habr.com/ru/articles/793050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793050)
+- [Анализируем виды тестов для Frontend](https://habr.com/ru/companies/vk/articles/792398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792398)
+- [[Перевод] Как языковая модель предсказывает следующий токен &lpar;часть 1&rpar;](https://habr.com/ru/articles/792020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792020)
+- [Изи freestyle android приложения на Kivy &lpar;Python&rpar;, Google collab и ваш не любимый ChatGPT](https://habr.com/ru/articles/793038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793038)
 - [Как на самом деле Async/Await работают в C#. Часть 6. Анализ результатов компиляции асинхронных вызовов](https://habr.com/ru/articles/792782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792782)
-- [Пресейлы, UI/UX-исследования и «Три амиго»: доклады с митапа BA в red_mad_robot](https://habr.com/ru/companies/redmadrobot/articles/793012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793012)
-- [Что почитать игровому программисту?](https://habr.com/ru/articles/792996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792996)
-- [Простой, полезный проект интеграционных тестов](https://habr.com/ru/companies/alfastrah/articles/792598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792598)
-- [Не пора ли валить с gnu libc на что‑то другое?](https://habr.com/ru/articles/792980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
