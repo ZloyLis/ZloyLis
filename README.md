@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сейчас стринги в репу закинем, и перейду к танцам с нумой»: какие слова айтишников понимают двояко](https://habr.com/ru/companies/selectel/articles/793426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793426)
+- [Hashicorp Vault — собираем непрямую репликацию через ведро](https://habr.com/ru/companies/wiseops/articles/793476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793476)
+- [[Перевод] Сохраняем простоту кода и ускоряем разработку за счет отказа от оверинжиринга](https://habr.com/ru/companies/productivity_inside/articles/793466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793466)
 - [Опровергаю пять архитектурных заблуждений](https://habr.com/ru/companies/tinkoff/articles/793398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793398)
 - [BPMN — белый световой меч аналитика](https://habr.com/ru/companies/itfb/articles/793408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793408)
-- [Использование Postgres и JSONB для хранения товаров, характеристик и цен](https://habr.com/ru/articles/793438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793438)
-- [Повышаем быстродействие расчётов на примере медианного фильтра](https://habr.com/ru/articles/793388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793388)
-- [Еще один кейс на PHP. Скачиваем базу данных из открытого API](https://habr.com/ru/articles/793416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
