@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Домашний кластер разработчика](https://habr.com/ru/companies/lanit/articles/791832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791832)
-- [Что делать, когда кластер превращается в тыкву?](https://habr.com/ru/companies/dbraincloud/articles/793180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793180)
-- [Закон парадокса в логике и математике](https://habr.com/ru/articles/793094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793094)
-- [Кошелек Дурова, или Telegram, который становится первым мировым супераппом](https://habr.com/ru/articles/793314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793314)
-- [Release Timeline — визуализация GitHub релизов в вашей документации](https://habr.com/ru/articles/792822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792822)
+- [Автоматическая проверка названий тестовых методов для Java](https://habr.com/ru/companies/otus/articles/792982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792982)
+- [Запускаем игры под Wine c поддержкой Native Wayland](https://habr.com/ru/companies/timeweb/articles/791562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791562)
+- [Как я перешёл на тёмную сторону: путь из Андроида в бэкенд](https://habr.com/ru/companies/alfa/articles/791772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791772)
+- [Математика наклона в картах, или как мы сделали небо](https://habr.com/ru/companies/2gis/articles/792478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792478)
+- [От дощечки к компьютеру. Путь от ткачества к ЭВМ](https://habr.com/ru/companies/oleg-bunin/articles/791606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
