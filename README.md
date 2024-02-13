@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собирательный образ Junior Android Developer. Какой он в 2024?](https://habr.com/ru/articles/793366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793366)
+- [Техническое собеседование инженеров мобильной разработки в RuStore](https://habr.com/ru/companies/vk/articles/793200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793200)
+- [Очистка текста с помощью Python. Часть 1](https://habr.com/ru/articles/793348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793348)
 - [Автоматическая проверка названий тестовых методов для Java](https://habr.com/ru/companies/otus/articles/792982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792982)
-- [Запускаем игры под Wine c поддержкой Native Wayland](https://habr.com/ru/companies/timeweb/articles/791562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791562)
 - [Как я перешёл на тёмную сторону: путь из Андроида в бэкенд](https://habr.com/ru/companies/alfa/articles/791772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791772)
-- [Математика наклона в картах, или как мы сделали небо](https://habr.com/ru/companies/2gis/articles/792478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792478)
-- [От дощечки к компьютеру. Путь от ткачества к ЭВМ](https://habr.com/ru/companies/oleg-bunin/articles/791606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
