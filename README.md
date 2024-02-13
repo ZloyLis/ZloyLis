@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Release Timeline — визуализация GitHub релизов в вашей документации](https://habr.com/ru/articles/792822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792822)
 - [Apple Pro Weekly News &lpar;05.02 – 11.02.24&rpar;](https://habr.com/ru/articles/793298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793298)
 - [Доступ к эндпоинтам Java Spring Reactive WebFlux со списка разрешенных IP адресов/подсетей](https://habr.com/ru/articles/793300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793300)
 - [[Перевод] Минималистическая модель живой клетки в браузере](https://habr.com/ru/articles/793274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793274)
 - [Как уменьшить вес продуктовой анимации в 400 раз &lpar;без AI&rpar;](https://habr.com/ru/articles/793260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793260)
-- [Security Week 2407: о &lpar;без&rpar;опасности умных зубных щеток](https://habr.com/ru/companies/kaspersky/articles/793104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
