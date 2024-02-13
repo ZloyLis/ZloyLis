@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Postgres и JSONB для хранения товаров, характеристик и цен](https://habr.com/ru/articles/793438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793438)
 - [Повышаем быстродействие расчётов на примере медианного фильтра](https://habr.com/ru/articles/793388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793388)
 - [Еще один кейс на PHP. Скачиваем базу данных из открытого API](https://habr.com/ru/articles/793416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793416)
 - [PECS и WildCards на пальцах](https://habr.com/ru/articles/793410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793410)
 - [Что ждёт мобильную разработку в 2024 году](https://habr.com/ru/companies/yandex_praktikum/articles/792708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792708)
-- [Больше библиотек богу библиотек или как я переосмыслил i18n [next.js v14]](https://habr.com/ru/articles/793266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
