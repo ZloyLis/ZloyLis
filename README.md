@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что ждёт мобильную разработку в 2024 году](https://habr.com/ru/companies/yandex_praktikum/articles/792708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792708)
+- [Больше библиотек богу библиотек или как я пересмотрел i18n](https://habr.com/ru/articles/793266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793266)
+- [Как цифровизация и клиентский опыт меняют аэропорты: тренды, оценки, кейсы](https://habr.com/ru/companies/reksoft/articles/793370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793370)
 - [Собирательный образ Junior Android Developer. Какой он в 2024?](https://habr.com/ru/articles/793366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793366)
 - [Техническое собеседование инженеров мобильной разработки в RuStore](https://habr.com/ru/companies/vk/articles/793200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793200)
-- [Очистка текста с помощью Python. Часть 1](https://habr.com/ru/articles/793348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793348)
-- [Автоматическая проверка названий тестовых методов для Java](https://habr.com/ru/companies/otus/articles/792982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792982)
-- [Как я перешёл на тёмную сторону: путь из Андроида в бэкенд](https://habr.com/ru/companies/alfa/articles/791772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
