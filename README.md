@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Ozon Tech Community Design Meetup](https://habr.com/ru/companies/ozontech/articles/792364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792364)
 - [«Сейчас стринги в репу закинем, и перейду к танцам с нумой»: какие слова айтишников понимают двояко](https://habr.com/ru/companies/selectel/articles/793426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793426)
 - [Hashicorp Vault — собираем непрямую репликацию через ведро](https://habr.com/ru/companies/wiseops/articles/793476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793476)
 - [[Перевод] Сохраняем простоту кода и ускоряем разработку за счет отказа от оверинжиринга](https://habr.com/ru/companies/productivity_inside/articles/793466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793466)
 - [Опровергаю пять архитектурных заблуждений](https://habr.com/ru/companies/tinkoff/articles/793398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793398)
-- [BPMN — белый световой меч аналитика](https://habr.com/ru/companies/itfb/articles/793408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
