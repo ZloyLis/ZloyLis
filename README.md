@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Total.js и интеграция с ИИ](https://habr.com/ru/companies/bothub/articles/793768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793768)
 - [Управление контейнерами из Kotlin-тестов](https://habr.com/ru/companies/otus/articles/793052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793052)
 - [Технофобия: как помочь коллегам перестать бояться технологий и полюбить их](https://habr.com/ru/companies/X5Tech/articles/793722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793722)
 - [[Перевод] 10 продвинутых сниппетов Python, которые повысят ваши навыки кодирования](https://habr.com/ru/articles/793718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793718)
 - [[Перевод] Плюсы и минусы каждого инфраструктурного решения за четыре года работы в стартапе](https://habr.com/ru/companies/ruvds/articles/793698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793698)
-- [[Перевод] Курсы Сomputer Science с видеолекциями актуальные в 2024 году](https://habr.com/ru/articles/793708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
