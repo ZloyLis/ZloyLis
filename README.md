@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как оценивать Дизайн &lpar;Метод 3К&rpar;](https://habr.com/ru/articles/793672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793672)
-- [App shortcuts в Android](https://habr.com/ru/articles/793636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793636)
-- [Камера как сканер штрих-кодов: проблемы, инструменты и эксперименты](https://habr.com/ru/companies/ozontech/articles/793590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793590)
-- [[Перевод] Как создать YouTube GIF Maker с использованием Next.js, Node и RabbitMQ](https://habr.com/ru/companies/otus/articles/793624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793624)
-- [Who are you, Platform Engineering: разбираемся с одним из главных технологических трендов. Часть 1](https://habr.com/ru/companies/vk/articles/792368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792368)
+- [[Перевод] AI не только подбирает партнеров в Тиндере — он еще и планирует свидания на 14 февраля](https://habr.com/ru/companies/productstar/articles/793688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793688)
+- [Наноматериалы и нанотехнологии. Часть IV](https://habr.com/ru/articles/793622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793622)
+- [[Перевод] Где джуну оттачивать навыки программирования: 6 бесплатных ресурсов](https://habr.com/ru/companies/netologyru/articles/793496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793496)
+- [Как оценивать Дизайн &lpar;метод 3К&rpar;](https://habr.com/ru/articles/793672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793672)
+- [Особенности разработки информационной системы для сети автомобильных электрозаправочных станций](https://habr.com/ru/articles/793664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
