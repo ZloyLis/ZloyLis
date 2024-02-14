@@ -27,10 +27,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Очистка текста с помощью Python. Часть 02](https://habr.com/ru/articles/793486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793486)
+- [Нескромная цифра Нижегородской области](https://habr.com/ru/companies/neimark/articles/793518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793518)
 - [Приглашаем на Ozon Tech Community Design Meetup](https://habr.com/ru/companies/ozontech/articles/792364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792364)
 - [«Сейчас стринги в репу закинем, и перейду к танцам с нумой»: какие слова айтишников понимают двояко](https://habr.com/ru/companies/selectel/articles/793426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793426)
 - [Hashicorp Vault — собираем непрямую репликацию через ведро](https://habr.com/ru/companies/wiseops/articles/793476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793476)
-- [[Перевод] Сохраняем простоту кода и ускоряем разработку за счет отказа от оверинжиринга](https://habr.com/ru/companies/productivity_inside/articles/793466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
