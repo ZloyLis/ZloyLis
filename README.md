@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разговариваем с BI на естественном языке](https://habr.com/ru/companies/sberbank/articles/793378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793378)
+- [[Перевод] Начало работы с Axum — самым популярным веб-фреймворком Rust](https://habr.com/ru/companies/timeweb/articles/789662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789662)
+- [Реализация слоев в NN &lpar;часть 1&rpar;](https://habr.com/ru/articles/793584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793584)
 - [Очистка текста с помощью Python. Часть 02](https://habr.com/ru/articles/793486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793486)
 - [Нескромная цифра Нижегородской области](https://habr.com/ru/companies/neimark/articles/793518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793518)
 - [Приглашаем на Ozon Tech Community Design Meetup](https://habr.com/ru/companies/ozontech/articles/792364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792364)
-- [«Сейчас стринги в репу закинем, и перейду к танцам с нумой»: какие слова айтишников понимают двояко](https://habr.com/ru/companies/selectel/articles/793426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
