@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интеллект в СКС. imVision](https://habr.com/ru/articles/793710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793710)
+- [Технофобия: как помочь коллегам перестать бояться технологий и полюбить их](https://habr.com/ru/companies/X5Tech/articles/793722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793722)
+- [[Перевод] 10 продвинутых сниппетов Python, которые повысят ваши навыки кодирования](https://habr.com/ru/articles/793718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793718)
 - [[Перевод] Плюсы и минусы каждого инфраструктурного решения за четыре года работы в стартапе](https://habr.com/ru/companies/ruvds/articles/793698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793698)
 - [[Перевод] Курсы Сomputer Science с видеолекциями актуальные в 2024 году](https://habr.com/ru/articles/793708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793708)
 - [[Перевод] AI не только подбирает партнеров в Тиндере — он еще и планирует свидания на 14 февраля](https://habr.com/ru/companies/productstar/articles/793688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793688)
-- [Наноматериалы и нанотехнологии. Часть IV](https://habr.com/ru/articles/793622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
