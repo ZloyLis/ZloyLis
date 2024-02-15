@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бэкенд или мобилка. Что выбрать?](https://habr.com/ru/articles/793842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793842)
-- [Как правильно генерировать обучающие данные для OCR?](https://habr.com/ru/companies/smartengines/articles/793520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793520)
-- [Как математика улучшает геосервисы и помогает быстрее сориентироваться](https://habr.com/ru/companies/kryptonite/articles/793810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793810)
-- [Как подобрать уровень значимости α и мощность для A/B теста](https://habr.com/ru/companies/otus/articles/793474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793474)
-- [Мониторинг температуры Windows. Создание метрик, настройка InfluxDB и Grafana](https://habr.com/ru/articles/793296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793296)
+- [[Перевод] Итак, вы думаете, что знаете Git? Часть первая: старый добрый Git](https://habr.com/ru/articles/793488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793488)
+- [Облако для тех, кому нельзя в облака: как мы в ОТП Банке развернули закрытое облако на платформе Яндекса](https://habr.com/ru/companies/otpbank/articles/793746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793746)
+- [Сила логов: зачем команда Яндекс 360 собирает терабайты логов в день](https://habr.com/ru/companies/yandex360/articles/793534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793534)
+- [Тёмные боги корпоративной архитектуры](https://habr.com/ru/companies/oleg-bunin/articles/790040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790040)
+- [Как улучшить юзабилити сайта для увеличения конверсии](https://habr.com/ru/articles/793852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
