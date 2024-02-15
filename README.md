@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как выжать максимум из Confluence. Глава вторая](https://habr.com/ru/companies/tinkoff/articles/793926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793926)
-- [[Перевод] Что такое платформенная инженерия: как она связана с DevOps и SRE?](https://habr.com/ru/companies/agima/articles/793922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793922)
-- [Как цвет влияет на эмоции и восприятие бренда?](https://habr.com/ru/articles/793930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793930)
-- [Как разработать уникальный узнаваемый дизайн бренда: детальное руководство](https://habr.com/ru/articles/793916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793916)
-- [Зачем учить алгоритмы?](https://habr.com/ru/articles/793908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793908)
+- [[Перевод] Топ-5 распространенных практик написания хорошего Swift-кода](https://habr.com/ru/companies/otus/articles/793982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793982)
+- [Как устроен @State в SwiftUI](https://habr.com/ru/companies/banki/articles/793766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793766)
+- [Применение контейнеров и алгоритмов STL в C++](https://habr.com/ru/companies/otus/articles/793278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793278)
+- [Что нужно уметь специалисту по безопасной разработке и где этому учиться](https://habr.com/ru/companies/pt/articles/793236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793236)
+- [Как прокачивать насмотренность в UX для дизайнера интерфейсов &lpar;личный опыт&rpar;](https://habr.com/ru/articles/793964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
