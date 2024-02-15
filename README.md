@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выжать максимум из Confluence. Глава вторая](https://habr.com/ru/companies/tinkoff/articles/793926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793926)
+- [[Перевод] Что такое платформенная инженерия: как она связана с DevOps и SRE?](https://habr.com/ru/companies/agima/articles/793922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793922)
+- [Как цвет влияет на эмоции и восприятие бренда?](https://habr.com/ru/articles/793930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793930)
 - [Как разработать уникальный узнаваемый дизайн бренда: детальное руководство](https://habr.com/ru/articles/793916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793916)
 - [Зачем учить алгоритмы?](https://habr.com/ru/articles/793908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793908)
-- [Применение ООП на практике](https://habr.com/ru/companies/pvs-studio/articles/793900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793900)
-- [Система мета-сборки GN: краткий обзор и подходы](https://habr.com/ru/companies/vk/articles/793854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793854)
-- [[Перевод] Итак, вы думаете, что знаете Git? Часть первая: старый добрый Git](https://habr.com/ru/articles/793488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
