@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение ООП на практике](https://habr.com/ru/companies/pvs-studio/articles/793900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793900)
+- [Система мета-сборки GN: краткий обзор и подходы](https://habr.com/ru/companies/vk/articles/793854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793854)
 - [[Перевод] Итак, вы думаете, что знаете Git? Часть первая: старый добрый Git](https://habr.com/ru/articles/793488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793488)
 - [Облако для тех, кому нельзя в облака: как мы в ОТП Банке развернули закрытое облако на платформе Яндекса](https://habr.com/ru/companies/otpbank/articles/793746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793746)
 - [Сила логов: зачем команда Яндекс 360 собирает терабайты логов в день](https://habr.com/ru/companies/yandex360/articles/793534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793534)
-- [Тёмные боги корпоративной архитектуры](https://habr.com/ru/companies/oleg-bunin/articles/790040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790040)
-- [Как улучшить юзабилити сайта для увеличения конверсии](https://habr.com/ru/articles/793852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
