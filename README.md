@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Обфускация сетевого трафика и автоматическая интернет-цензура](https://habr.com/ru/companies/cloud4y/articles/793670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793670)
-- [Почему вам не нужна Kali Linux](https://habr.com/ru/articles/793820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793820)
-- [Работаем с HTTP API: разбор частых проблем и методы их решения](https://habr.com/ru/articles/793000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793000)
-- [Аэродинамический коридор или зачем стрелять перед ракетой](https://habr.com/ru/articles/793732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793732)
-- [Total.js и интеграция с ИИ](https://habr.com/ru/companies/bothub/articles/793768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793768)
+- [Бэкенд или мобилка. Что выбрать?](https://habr.com/ru/articles/793842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793842)
+- [Как правильно генерировать обучающие данные для OCR?](https://habr.com/ru/companies/smartengines/articles/793520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793520)
+- [Как математика улучшает геосервисы и помогает быстрее сориентироваться](https://habr.com/ru/companies/kryptonite/articles/793810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793810)
+- [Как подобрать уровень значимости α и мощность для A/B теста](https://habr.com/ru/companies/otus/articles/793474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793474)
+- [Мониторинг температуры Windows. Создание метрик, настройка InfluxDB и Grafana](https://habr.com/ru/articles/793296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
