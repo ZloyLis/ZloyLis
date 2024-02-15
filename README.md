@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что ещё почитать игровому программисту?](https://habr.com/ru/articles/794102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794102)
 - [Храним файлы Strapi в облаке Selectel](https://habr.com/ru/articles/794092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794092)
 - [Что учесть при портировании приложения на Аврору](https://habr.com/ru/companies/friflex/articles/794024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794024)
 - [Получаем ip-адрес из requests &lpar;python&rpar;](https://habr.com/ru/articles/794010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794010)
 - [Создаем параллакс-эффект во Flutter с CustomPaint](https://habr.com/ru/articles/794004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794004)
-- [Чем бизнес-аналитик отличается от системного и почему для проектов цифровой трансформации вам нужно два специалиста](https://habr.com/ru/companies/pgk/articles/794002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
