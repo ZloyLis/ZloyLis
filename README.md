@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что учесть при портировании приложения на Аврору](https://habr.com/ru/companies/friflex/articles/794024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794024)
+- [Получаем ip-адрес из requests &lpar;python&rpar;](https://habr.com/ru/articles/794010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794010)
 - [Создаем параллакс-эффект во Flutter с CustomPaint](https://habr.com/ru/articles/794004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794004)
 - [Чем бизнес-аналитик отличается от системного и почему для проектов цифровой трансформации вам нужно два специалиста](https://habr.com/ru/companies/pgk/articles/794002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794002)
 - [Подробный гайд как сделать темную тему с помощью variables фигмы](https://habr.com/ru/articles/793996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793996)
-- [Создание кастомного React Native компонента Switch с помощью библиотек Reanimated и Gesture Handler &lpar;Часть 2&rpar;](https://habr.com/ru/articles/793994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793994)
-- [[Перевод] Топ-5 распространенных практик написания хорошего Swift-кода](https://habr.com/ru/companies/otus/articles/793982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
