@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему вам не нужна Kali Linux](https://habr.com/ru/articles/793820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793820)
 - [Интеллект в СКС. imVision](https://habr.com/ru/articles/793814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793814)
 - [Работаем с HTTP API: разбор частых проблем и методы их решения](https://habr.com/ru/articles/793000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793000)
 - [Аэродинамический коридор или зачем стрелять перед ракетой](https://habr.com/ru/articles/793732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793732)
 - [Total.js и интеграция с ИИ](https://habr.com/ru/companies/bothub/articles/793768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793768)
-- [Управление контейнерами из Kotlin-тестов](https://habr.com/ru/companies/otus/articles/793052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
