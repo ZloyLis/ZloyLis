@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ты наконец-то поймешь асинхронность в JS](https://habr.com/ru/articles/794250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794250)
+- [Тестирование производительности 1С на СУБД MSSQL 2022 и PostgreSQL 15 &lpar;на 20, 40, 60,80, 100 пользователей&rpar;](https://habr.com/ru/articles/794248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794248)
 - [Как нефункциональные требования влияют на архитектуру](https://habr.com/ru/companies/ru_mts/articles/794232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794232)
 - [Азы поисковой оптимизации для веб-разработчика: прокачиваем SEO с помощью кода и здравого смысла](https://habr.com/ru/companies/selectel/articles/794146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794146)
 - [Flutter и ГОСТ TLS](https://habr.com/ru/companies/rshb/articles/794144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794144)
-- [Анимация в браузерах и как с ней работать](https://habr.com/ru/companies/vk/articles/794160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794160)
-- [Введение в коллекции Java](https://habr.com/ru/articles/794178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
