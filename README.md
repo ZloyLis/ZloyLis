@@ -27,7 +27,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [От каждого по способностям. Как мне удалось прокачать инженерную культуру своей команды, не будучи тимлидом](https://habr.com/ru/companies/sbermarket/articles/793934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793934)
-- [Анимация в браузерах и как с ней работать](https://habr.com/ru/companies/odnoklassniki/articles/794160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794160)
+- [Анимация в браузерах и как с ней работать](https://habr.com/ru/companies/vk/articles/794160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794160)
 - [Введение в коллекции Java](https://habr.com/ru/articles/794178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794178)
 - [Обучающие игры для разработчиков: кодим, играя](https://habr.com/ru/companies/ru_mts/articles/794168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794168)
 - [Трагические микрозаймы, украденные креды: какие Android-зловреды мы обнаружили в официальных маркетах](https://habr.com/ru/companies/kaspersky/articles/793114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793114)
