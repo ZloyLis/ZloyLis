@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От каждого по способностям. Как мне удалось прокачать инженерную культуру своей команды, не будучи тимлидом](https://habr.com/ru/companies/sbermarket/articles/793934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793934)
+- [Как нефункциональные требования влияют на архитектуру](https://habr.com/ru/companies/ru_mts/articles/794232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794232)
+- [Азы поисковой оптимизации для веб-разработчика: прокачиваем SEO с помощью кода и здравого смысла](https://habr.com/ru/companies/selectel/articles/794146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794146)
+- [Flutter и ГОСТ TLS](https://habr.com/ru/companies/rshb/articles/794144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794144)
 - [Анимация в браузерах и как с ней работать](https://habr.com/ru/companies/vk/articles/794160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794160)
 - [Введение в коллекции Java](https://habr.com/ru/articles/794178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794178)
-- [Обучающие игры для разработчиков: кодим, играя](https://habr.com/ru/companies/ru_mts/articles/794168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794168)
-- [Трагические микрозаймы, украденные креды: какие Android-зловреды мы обнаружили в официальных маркетах](https://habr.com/ru/companies/kaspersky/articles/793114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
