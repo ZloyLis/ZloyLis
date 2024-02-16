@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собираем метрики Node.js приложений в PM2 с экспортом в Prometheus](https://habr.com/ru/articles/794046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794046)
 - [freenginx: комментарии от Макса Дунина](https://habr.com/ru/articles/794096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794096)
 - [Двигай рукой справа налево: адаптация интерфейса в Android приложении под RTL в XML и Jetpack Compose](https://habr.com/ru/articles/791926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791926)
 - [Что ещё почитать игровому программисту?](https://habr.com/ru/articles/794102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794102)
 - [Храним файлы Strapi в облаке Selectel](https://habr.com/ru/articles/794092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794092)
-- [Что учесть при портировании приложения на Аврору](https://habr.com/ru/companies/friflex/articles/794024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
