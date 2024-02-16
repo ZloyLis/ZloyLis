@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Трагические микрозаймы, украденные креды: какие Android-зловреды мы обнаружили в официальных маркетах](https://habr.com/ru/companies/kaspersky/articles/793114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793114)
 - [Кол-центры в 2024: роль в обслуживании потребителей и влияние на эффективность бизнеса](https://habr.com/ru/companies/newtel/articles/793834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793834)
 - [[Перевод] Тёмные паттерны UX себя не оправдывают](https://habr.com/ru/articles/794124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794124)
 - [Чем занимаются бизнес-аналитики и как их нанимают: рассказывают работодатели и специалисты](https://habr.com/ru/companies/yandex_praktikum/articles/791738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791738)
 - [С нуля до плагина JMeter: пишем свой продукт без опыта](https://habr.com/ru/articles/794114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794114)
-- [Собираем метрики Node.js приложений в PM2 с экспортом в Prometheus](https://habr.com/ru/articles/794046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
