@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция React и AngularJS через Webpack Module Federation](https://habr.com/ru/articles/794082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794082)
+- [Меняем формат розыгрышей призов в Telegram-чатах](https://habr.com/ru/articles/794294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794294)
 - [[Перевод] Что нового в Flutter 3.19](https://habr.com/ru/companies/friflex/articles/794272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794272)
 - [Защитить бизнес от DDoS-атак, превратить речь в понятные заметки – эти и другие российские стартапы](https://habr.com/ru/articles/794274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794274)
 - [Ты наконец-то поймешь асинхронность в JS](https://habr.com/ru/articles/794250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794250)
-- [Тестирование производительности 1С на СУБД MSSQL 2022 и PostgreSQL 15 &lpar;на 20, 40, 60,80, 100 пользователей&rpar;](https://habr.com/ru/articles/794248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794248)
-- [Как нефункциональные требования влияют на архитектуру](https://habr.com/ru/companies/ru_mts/articles/794232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
