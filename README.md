@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компилятор за выходные: избавляемся от переменных](https://habr.com/ru/articles/793524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793524)
 - [Microk8s, еще один легковесный K8s](https://habr.com/ru/companies/otus/articles/794398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794398)
 - [Как на ваш выбор влияет дизайн. Подробно про тёмные паттерны в UX](https://habr.com/ru/articles/794384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794384)
 - [Меры сложности: колмогоровская, вычислительная и эффективная сложность, логическая и термодинамическая глубина](https://habr.com/ru/articles/794376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794376)
 - [Некоторым языкам программирования десятки лет — и они ещё в ходу. 5 старых, но актуальных ЯП](https://habr.com/ru/companies/ru_mts/articles/794300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794300)
-- [Dart 3.3 — что нового в Dart?](https://habr.com/ru/articles/794342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
