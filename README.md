@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Меры сложности: колмогоровская, вычислительная и эффективная сложность, логическая и термодинамическая глубина](https://habr.com/ru/articles/794376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794376)
 - [Некоторым языкам программирования десятки лет — и они ещё в ходу. 5 старых, но актуальных ЯП](https://habr.com/ru/companies/ru_mts/articles/794300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794300)
 - [Dart 3.3 — что нового в Dart?](https://habr.com/ru/articles/794342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794342)
 - [[Перевод] Flutter 3.19 — Что нового во Flutter](https://habr.com/ru/articles/794338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794338)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 4: Прерывания и системные вызовы](https://habr.com/ru/articles/794326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794326)
-- [Интеграция React и AngularJS через Webpack Module Federation](https://habr.com/ru/articles/794082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
