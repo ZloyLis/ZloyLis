@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сборка в Gitlab как маркер здоровья архитектуры](https://habr.com/ru/articles/794420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794420)
 - [[Перевод] Итак, вы думаете, что знаете Git? Часть вторая: новое в Git](https://habr.com/ru/articles/794252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794252)
 - [Компилятор за выходные: избавляемся от переменных](https://habr.com/ru/articles/793524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793524)
 - [Microk8s, еще один легковесный K8s](https://habr.com/ru/companies/otus/articles/794398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794398)
 - [Как на ваш выбор влияет дизайн. Подробно про тёмные паттерны в UX](https://habr.com/ru/articles/794384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794384)
-- [Меры сложности: колмогоровская, вычислительная и эффективная сложность, логическая и термодинамическая глубина](https://habr.com/ru/articles/794376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
