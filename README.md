@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Джуниор, мидл, сеньор или кто круче на районе?](https://habr.com/ru/articles/794534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794534)
 - [Анализ пулл-реквестов через веб-приложение для улучшения код ревью](https://habr.com/ru/articles/794522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794522)
 - [Температура на матрице WS2812B](https://habr.com/ru/articles/794520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794520)
 - [Создаем гироскопический параллакс-эффект во Flutter](https://habr.com/ru/articles/794512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794512)
 - [Мобильная разработка за неделю #526 &lpar;12 — 18 февраля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/794502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794502)
-- [[Перевод] Не стоит недооценивать HTML](https://habr.com/ru/companies/ruvds/articles/793906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
