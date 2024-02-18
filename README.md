@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Датчик Объёма на Основе Резонанса Гельмгольца &lpar;микрофон=датчик объёма&rpar;](https://habr.com/ru/articles/792096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792096)
 - [Developer Competency Matrix](https://habr.com/ru/articles/794414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794414)
 - [Джуниор, мидл, сеньор или кто круче на районе?](https://habr.com/ru/articles/794438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794438)
 - [Что-то они недоговаривают](https://habr.com/ru/articles/794436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794436)
 - [Сборка в Gitlab как маркер здоровья архитектуры](https://habr.com/ru/articles/794420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794420)
-- [[Перевод] Итак, вы думаете, что знаете Git? Часть вторая: новое в Git](https://habr.com/ru/articles/794252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
