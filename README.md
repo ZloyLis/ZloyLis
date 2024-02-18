@@ -26,8 +26,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #526 &lpar;12 — 18 февраля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/794502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794502)
 - [[Перевод] Не стоит недооценивать HTML](https://habr.com/ru/companies/ruvds/articles/793906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793906)
-- [Почему 19 сентября — самый страшный день для жителей Мехико? Многие не выдерживают и до сих пор уезжают из города](https://habr.com/ru/companies/timeweb/articles/791298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791298)
 - [Spring Boot. Реактивный асинхронный неблокирующий REST vs традиционный синхронный блокирующий](https://habr.com/ru/articles/793494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793494)
 - [ООП в F#](https://habr.com/ru/companies/otus/articles/792962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792962)
 - [Датчик Объёма на Основе Резонанса Гельмгольца &lpar;микрофон=датчик объёма&rpar;](https://habr.com/ru/articles/792096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792096)
