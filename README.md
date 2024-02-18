@@ -30,7 +30,7 @@ ___
 - [Kotlin Object Multiplatform Mapper: сопоставляем коллекции правильно](https://habr.com/ru/articles/794538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794538)
 - [Работа процессора &lpar;физический препроцессор&rpar; без счётчика команд](https://habr.com/ru/articles/794544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794544)
 - [Bad Apple на значках рабочего стола — работаем с WinAPI](https://habr.com/ru/articles/794536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794536)
-- [Джуниор, мидл, сеньор или кто круче на районе?](https://habr.com/ru/articles/794534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794534)
+- [Анализ пулл-реквестов через веб-приложение для улучшения код ревью](https://habr.com/ru/articles/794522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
