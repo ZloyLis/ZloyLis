@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему 19 сентября — самый страшный день для жителей Мехико? Многие не выдерживают и до сих пор уезжают из города](https://habr.com/ru/companies/timeweb/articles/791298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791298)
+- [Spring Boot. Реактивный асинхронный неблокирующий REST vs традиционный синхронный блокирующий](https://habr.com/ru/articles/793494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793494)
 - [ООП в F#](https://habr.com/ru/companies/otus/articles/792962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792962)
 - [Датчик Объёма на Основе Резонанса Гельмгольца &lpar;микрофон=датчик объёма&rpar;](https://habr.com/ru/articles/792096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792096)
 - [Developer Competency Matrix](https://habr.com/ru/articles/794414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794414)
-- [Джуниор, мидл, сеньор или кто круче на районе?](https://habr.com/ru/articles/794438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794438)
-- [Что-то они недоговаривают](https://habr.com/ru/articles/794436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
