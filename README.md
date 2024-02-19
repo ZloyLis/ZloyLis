@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Если вы собираетесь сидеть и ничего не делать, то хотя бы делайте это правильно](https://habr.com/ru/articles/794646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794646)
+- [[Перевод] Лосось и машина](https://habr.com/ru/companies/wunderfund/articles/794546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794546)
+- [Без онлайн-курсов! Гайд для ux-дизайнера: какие навыки развивать и как учиться бесплатно &lpar;без пиратства&rpar;](https://habr.com/ru/articles/794554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794554)
+- [Установка GCC в сборке MinGW](https://habr.com/ru/articles/794630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794630)
 - [Я создал подробнейший гайд для карьеры дизайнера](https://habr.com/ru/articles/794608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794608)
-- [Обзор библиотеки Go Kit](https://habr.com/ru/companies/otus/articles/793888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793888)
-- [Под капотом графовых сетей](https://habr.com/ru/articles/794558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794558)
-- [Задачи от Tinkoff для Junior Java developers](https://habr.com/ru/articles/794588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794588)
-- [Вороной, Манхэттен, рандом](https://habr.com/ru/articles/794572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
