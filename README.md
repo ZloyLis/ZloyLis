@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация рутинной деятельности с помощью Security Vision SOAR: практика](https://habr.com/ru/companies/securityvison/articles/794718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794718)
+- [RCA — расследования отказов на производстве](https://habr.com/ru/companies/bimeister/articles/794704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794704)
 - [Почему важно выстроить контроль качества IT-продукта до первой строчки кода? 4 кейса](https://habr.com/ru/articles/794694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794694)
 - [Обзор библиотеки Stan в R](https://habr.com/ru/companies/otus/articles/794196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794196)
 - [AndroidFoodRecipesGuideTutorial](https://habr.com/ru/articles/794654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794654)
-- [Во что обойдется линеаризуемость в распределенной системе](https://habr.com/ru/companies/vk/articles/793210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793210)
-- [[Перевод] Если вы собираетесь сидеть и ничего не делать, то хотя бы делайте это правильно](https://habr.com/ru/articles/794646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
