@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я создал подробнейший гайд для карьеры дизайнера](https://habr.com/ru/articles/794608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794608)
 - [Обзор библиотеки Go Kit](https://habr.com/ru/companies/otus/articles/793888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793888)
 - [Под капотом графовых сетей](https://habr.com/ru/articles/794558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794558)
 - [Задачи от Tinkoff для Junior Java developers](https://habr.com/ru/articles/794588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794588)
-- [Вороной, Манхеттен, рандом](https://habr.com/ru/articles/794572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794572)
-- [Как стать Flutter-разработчиком бесплатно?](https://habr.com/ru/articles/794582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794582)
+- [Вороной, Манхэттен, рандом](https://habr.com/ru/articles/794572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
