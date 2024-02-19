@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор библиотеки Go Kit](https://habr.com/ru/companies/otus/articles/793888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793888)
+- [Под капотом графовых сетей](https://habr.com/ru/articles/794558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794558)
+- [Задачи от Tinkoff для Junior Java developers](https://habr.com/ru/articles/794588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794588)
 - [Вороной, Манхеттен, рандом](https://habr.com/ru/articles/794572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794572)
 - [Как стать Flutter-разработчиком бесплатно?](https://habr.com/ru/articles/794582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794582)
-- [Как найти поверхность атаки незнакомых приложений с помощью Natch](https://habr.com/ru/companies/isp_ras/articles/788490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788490)
-- [Шпаргалка для алгособеса — алгоритмическая сложность, структуры данных, методы сортировки и Дейкстра](https://habr.com/ru/articles/794556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794556)
-- [Kotlin Object Multiplatform Mapper: сопоставляем коллекции правильно](https://habr.com/ru/articles/794538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
