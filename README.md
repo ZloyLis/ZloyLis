@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;12.02 – 18.02.24&rpar;](https://habr.com/ru/articles/794801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794801)
+- [Security Week 2408: уязвимости в Microsoft Exchange и Outlook](https://habr.com/ru/companies/kaspersky/articles/794680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794680)
 - [Телеграм-бот для беспокойных родителей](https://habr.com/ru/articles/794779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794779)
 - [Полиномиальные корневые методы синтеза САУ ч.2](https://habr.com/ru/articles/793010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793010)
 - [Автоматизация рутинной деятельности с помощью Security Vision SOAR: практика](https://habr.com/ru/companies/securityvison/articles/794718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794718)
-- [RCA — расследования отказов на производстве](https://habr.com/ru/companies/bimeister/articles/794704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794704)
-- [Почему важно выстроить контроль качества IT-продукта до первой строчки кода? 4 кейса](https://habr.com/ru/articles/794694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
