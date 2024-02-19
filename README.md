@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AndroidFoodRecipesGuideTutorial](https://habr.com/ru/articles/794654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794654)
+- [Во что обойдется линеаризуемость в распределенной системе](https://habr.com/ru/companies/vk/articles/793210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793210)
 - [[Перевод] Если вы собираетесь сидеть и ничего не делать, то хотя бы делайте это правильно](https://habr.com/ru/articles/794646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794646)
 - [[Перевод] Лосось и машина](https://habr.com/ru/companies/wunderfund/articles/794546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794546)
 - [Без онлайн-курсов! Гайд для ux-дизайнера: какие навыки развивать и как учиться бесплатно &lpar;без пиратства&rpar;](https://habr.com/ru/articles/794554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794554)
-- [Установка GCC в сборке MinGW](https://habr.com/ru/articles/794630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794630)
-- [Я создал подробнейший гайд для карьеры дизайнера](https://habr.com/ru/articles/794608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
