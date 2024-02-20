@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 6](https://habr.com/ru/companies/ruvds/articles/792058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792058)
+- [Полезные модули PowerShell. Переводчик в консоли, SpeedTest, Syslog и другие](https://habr.com/ru/articles/794999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794999)
+- [Почему проверять результат вызова malloc c помощью assert плохая идея](https://habr.com/ru/companies/pvs-studio/articles/794997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794997)
+- [Pet-проекты. Советы себе начинающему](https://habr.com/ru/companies/auriga/articles/794054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794054)
 - [1/n: Задачи leetcode JS — «Max Consecutive Ones» &lpar;Найти максимальное количество последовательных единиц&rpar;](https://habr.com/ru/articles/794981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794981)
-- [Хочешь хорошую зарплату — не ленись развиваться и получать фундаментальные знания](https://habr.com/ru/companies/rshb/articles/794674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794674)
-- [Кому и зачем нужны разработчики мобильных приложений в 1С](https://habr.com/ru/companies/slurm/articles/794965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794965)
-- [Может рухнуть при первой атаке. Почему компаниям важно прокачивать киберграмотность](https://habr.com/ru/specials/792652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792652)
-- [Знакомство с DevSecOps Guideline: правила организации безопасной разработки на уровне процессов](https://habr.com/ru/companies/vk/articles/794164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
