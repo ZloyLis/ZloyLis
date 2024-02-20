@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизируем проверку содержимого PDF-файлов с помощью pdf-test](https://habr.com/ru/companies/simbirsoft/articles/794728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794728)
-- [Первое приложение на SolidJS](https://habr.com/ru/articles/794903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794903)
-- [Как ошибки проектирования при разработке на Symfony могут привести к перерасходу ресурсов и замедлению работы системы](https://habr.com/ru/articles/794805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794805)
-- [Платформа для ведения базы фрилансеров, чат-бот для общения на английском голосом – эти и другие российские стартапы](https://habr.com/ru/articles/794869/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794869)
-- [Математика и физика для простой и результативной учёбы&lpar;Серия: Cельскому учителю в помощь&rpar;. Часть 3. Диалекты математики](https://habr.com/ru/articles/794789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794789)
+- [Мифы и реалии «Мультимастера» в архитектуре СУБД PostgreSQL. Часть. 1](https://habr.com/ru/companies/postgrespro/articles/793068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793068)
+- [Делать продукт качественно или быстро? Как тимлиду найти баланс и принимать верные решения](https://habr.com/ru/companies/avito/articles/794909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794909)
+- [Вопросы по Appium на собеседовании](https://habr.com/ru/articles/794829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794829)
+- [Негативное свойство отрицательных чисел](https://habr.com/ru/articles/794921/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794921)
+- [Java Spring Reactive WebSession на примере](https://habr.com/ru/articles/794849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794849)
 <!-- BLOG-POST-LIST:END -->
 
 ---
