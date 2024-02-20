@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как ошибки проектирования при разработке на Symfony могут привести к перерасходу ресурсов](https://habr.com/ru/articles/794805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794805)
+- [Автоматизируем проверку содержимого PDF-файлов с помощью pdf-test](https://habr.com/ru/companies/simbirsoft/articles/794728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794728)
+- [Первое приложение на SolidJS](https://habr.com/ru/articles/794903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794903)
+- [Как ошибки проектирования при разработке на Symfony могут привести к перерасходу ресурсов и замедлению работы системы](https://habr.com/ru/articles/794805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794805)
 - [Платформа для ведения базы фрилансеров, чат-бот для общения на английском голосом – эти и другие российские стартапы](https://habr.com/ru/articles/794869/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794869)
 - [Математика и физика для простой и результативной учёбы&lpar;Серия: Cельскому учителю в помощь&rpar;. Часть 3. Диалекты математики](https://habr.com/ru/articles/794789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794789)
-- [Apple Pro Weekly News &lpar;12.02 – 18.02.24&rpar;](https://habr.com/ru/articles/794801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794801)
-- [Security Week 2408: уязвимости в Microsoft Exchange и Outlook](https://habr.com/ru/companies/kaspersky/articles/794680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
