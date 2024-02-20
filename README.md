@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Искусственный интеллект — мнение экспертов, собственный анализ](https://habr.com/ru/articles/795029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795029)
+- [Троттлинг в Kubernetes. Или как настроить лимиты, чтобы приложения не “тормозили”](https://habr.com/ru/companies/amvera/articles/795025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795025)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 6](https://habr.com/ru/companies/ruvds/articles/792058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792058)
 - [Полезные модули PowerShell. Переводчик в консоли, SpeedTest, Syslog и другие](https://habr.com/ru/articles/794999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794999)
 - [Почему проверять результат вызова malloc c помощью assert плохая идея](https://habr.com/ru/companies/pvs-studio/articles/794997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794997)
-- [Pet-проекты. Советы себе начинающему](https://habr.com/ru/companies/auriga/articles/794054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794054)
-- [1/n: Задачи leetcode JS — «Max Consecutive Ones» &lpar;Найти максимальное количество последовательных единиц&rpar;](https://habr.com/ru/articles/794981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794981)
 <!-- BLOG-POST-LIST:END -->
 
 ---
