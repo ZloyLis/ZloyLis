@@ -28,9 +28,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Когда парное программирование не работает](https://habr.com/ru/companies/beeline_cloud/articles/795067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795067)
 - [Автоматизируем создание отчетов в Word с данными из Excel на Python](https://habr.com/ru/articles/795057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795057)
-- [Почему Заказчики не знают своих процессов?](https://habr.com/ru/articles/795045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795045)
 - [Собеседование на английском: самопрезентация для разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/788140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788140)
 - [Искусственный интеллект — мнение экспертов, собственный анализ](https://habr.com/ru/articles/795029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795029)
+- [Троттлинг в Kubernetes. Или как настроить лимиты, чтобы приложения не “тормозили”](https://habr.com/ru/companies/amvera/articles/795025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
