@@ -26,8 +26,8 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [1/n: Задачи leetcode JS — «Max Consecutive Ones» &lpar;Найти максимальное количество последовательных единиц&rpar;](https://habr.com/ru/articles/794981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794981)
 - [Хочешь хорошую зарплату — не ленись развиваться и получать фундаментальные знания](https://habr.com/ru/companies/rshb/articles/794674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794674)
-- [Персонализация e-commerce через AI: способ как увеличить конверсию в e-commerce](https://habr.com/ru/articles/794971/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794971)
 - [Кому и зачем нужны разработчики мобильных приложений в 1С](https://habr.com/ru/companies/slurm/articles/794965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794965)
 - [Может рухнуть при первой атаке. Почему компаниям важно прокачивать киберграмотность](https://habr.com/ru/specials/792652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792652)
 - [Знакомство с DevSecOps Guideline: правила организации безопасной разработки на уровне процессов](https://habr.com/ru/companies/vk/articles/794164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794164)
