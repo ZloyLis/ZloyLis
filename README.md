@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Техники usability — как проектировать сложные системы, чтобы они стали простыми для использования](https://habr.com/ru/companies/oleg-bunin/articles/795175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795175)
+- [Поиск элементов в Appium](https://habr.com/ru/articles/795103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795103)
+- [Время есть отношение бытия к небытию. Немного слов про Time-to-event analysis](https://habr.com/ru/articles/795191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795191)
 - [Что не увидит SCA](https://habr.com/ru/companies/tinkoff/articles/795061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795061)
 - [[Перевод] Laravel 11. Что нового?](https://habr.com/ru/articles/795165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795165)
-- [Приглашаем на онлайновый митап про карьеру техписа: наём, развитие, треки](https://habr.com/ru/companies/kaspersky/articles/795071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795071)
-- [[Перевод] Новый рекорд производительности FizzBuzz](https://habr.com/ru/articles/794925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794925)
-- [Карьерный путь: Android мобилка, фронт или бэкенд?](https://habr.com/ru/articles/795169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795169)
 <!-- BLOG-POST-LIST:END -->
 
 ---
