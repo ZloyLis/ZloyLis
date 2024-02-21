@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миссия выполнима: как мы создали приложение для Apple Vision Pro за 8 дней](https://habr.com/ru/companies/2gis/articles/794777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794777)
+- [Deep dive into delegated properties: разбираемся с делегатами в котлин](https://habr.com/ru/articles/795231/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795231)
+- [Свертка](https://habr.com/ru/articles/795223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795223)
+- [7 причин моей гибкости. Как работают принципы ITIL](https://habr.com/ru/companies/sigma/articles/795043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795043)
 - [Техники usability — как проектировать сложные системы, чтобы они стали простыми для использования](https://habr.com/ru/companies/oleg-bunin/articles/795175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795175)
-- [Поиск элементов в Appium](https://habr.com/ru/articles/795103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795103)
-- [Время есть отношение бытия к небытию. Немного слов про Time-to-event analysis](https://habr.com/ru/articles/795191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795191)
-- [Что не увидит SCA](https://habr.com/ru/companies/tinkoff/articles/795061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795061)
-- [[Перевод] Laravel 11. Что нового?](https://habr.com/ru/articles/795165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795165)
 <!-- BLOG-POST-LIST:END -->
 
 ---
