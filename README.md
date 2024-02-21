@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Монетизация бессоницы или как я майнил энтропию](https://habr.com/ru/articles/795327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795327)
+- [Советы начинающему ИТ-наставнику: стоит ли начинать?](https://habr.com/ru/companies/alfa/articles/794991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794991)
 - [От Skia к Impeller: эволюция графического движка в кроссплатформенной разработке на Flutter](https://habr.com/ru/articles/795265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795265)
 - [Миссия выполнима: как мы создали приложение для Apple Vision Pro за 8 дней](https://habr.com/ru/companies/2gis/articles/794777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794777)
 - [Deep dive into delegated properties: разбираемся с делегатами в котлин](https://habr.com/ru/articles/795231/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795231)
-- [Свертка](https://habr.com/ru/articles/795223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795223)
-- [7 причин моей гибкости. Как работают принципы ITIL](https://habr.com/ru/companies/sigma/articles/795043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795043)
 <!-- BLOG-POST-LIST:END -->
 
 ---
