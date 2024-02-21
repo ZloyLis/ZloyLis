@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 15 тенденций в области разработки программного обеспечения в 2024 году](https://habr.com/ru/companies/otus/articles/795391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795391)
+- [Код-ревью и Рингельман](https://habr.com/ru/companies/karuna/articles/795139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795139)
+- [Предсказание от We Wizards: сегодня вас ждут успех в делах и новые скиллы](https://habr.com/ru/articles/795383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795383)
+- [Как я проектирую формы](https://habr.com/ru/articles/795379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795379)
 - [Как компьютерное зрение показывает себя в шахте: кейс rdl by red_mad_robot и «Норникеля»](https://habr.com/ru/companies/redmadrobot/articles/795375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795375)
-- [Подключаем микроконтроллер ESP32 к Flutter-приложению](https://habr.com/ru/companies/friflex/articles/795347/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795347)
-- [Подготовка к собеседованию на позицию Data Scientist. Часть 1: Live Coding](https://habr.com/ru/companies/megafon/articles/795261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795261)
-- [Запрет на авторизацию через импортные сервисы, меня это не касается?](https://habr.com/ru/articles/795361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795361)
-- [[Перевод] Как устроен языковой сервер](https://habr.com/ru/companies/piter/articles/795335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
