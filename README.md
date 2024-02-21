@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виртуальные туры в недвижимости: 6 шагов внедрения](https://habr.com/ru/articles/795281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795281)
 - [[Перевод] 15 тенденций в области разработки программного обеспечения в 2024 году](https://habr.com/ru/companies/otus/articles/795391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795391)
 - [Код-ревью и Рингельман](https://habr.com/ru/companies/karuna/articles/795139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795139)
 - [Предсказание от We Wizards: сегодня вас ждут успех в делах и новые скиллы](https://habr.com/ru/articles/795383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795383)
 - [Как я проектирую формы](https://habr.com/ru/articles/795379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795379)
-- [Как компьютерное зрение показывает себя в шахте: кейс rdl by red_mad_robot и «Норникеля»](https://habr.com/ru/companies/redmadrobot/articles/795375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
