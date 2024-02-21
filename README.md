@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как компьютерное зрение показывает себя в шахте: кейс rdl by red_mad_robot и «Норникеля»](https://habr.com/ru/companies/redmadrobot/articles/795375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795375)
+- [Подключаем микроконтроллер ESP32 к Flutter-приложению](https://habr.com/ru/companies/friflex/articles/795347/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795347)
+- [Подготовка к собеседованию на позицию Data Scientist. Часть 1: Live Coding](https://habr.com/ru/companies/megafon/articles/795261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795261)
+- [Запрет на авторизацию через импортные сервисы, меня это не касается?](https://habr.com/ru/articles/795361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795361)
 - [[Перевод] Как устроен языковой сервер](https://habr.com/ru/companies/piter/articles/795335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795335)
-- [Менторинг в ИТ: зачем нужен ментор, если есть книги](https://habr.com/ru/companies/naumen/articles/795319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795319)
-- [Монетизация бессоницы или как я майнил энтропию](https://habr.com/ru/articles/795327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795327)
-- [Советы начинающему ИТ-наставнику: стоит ли начинать?](https://habr.com/ru/companies/alfa/articles/794991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794991)
-- [От Skia к Impeller: эволюция графического движка в кроссплатформенной разработке на Flutter](https://habr.com/ru/articles/795265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795265)
 <!-- BLOG-POST-LIST:END -->
 
 ---
