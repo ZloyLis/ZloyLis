@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаю навигацию в приложении на Compose](https://habr.com/ru/articles/795069/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795069)
 - [Гексагональная Архитектура и Spring Boot](https://habr.com/ru/articles/795127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795127)
 - [О чем говорят руки. 2 место на соревновании Kaggle](https://habr.com/ru/articles/795109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795109)
 - [Вариантность обобщенных типов в картинках и простых примерах](https://habr.com/ru/articles/795083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795083)
 - [[Перевод] Когда парное программирование не работает](https://habr.com/ru/companies/beeline_cloud/articles/795067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795067)
-- [Автоматизируем создание отчетов в Word с данными из Excel на Python](https://habr.com/ru/articles/795057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795057)
 <!-- BLOG-POST-LIST:END -->
 
 ---
