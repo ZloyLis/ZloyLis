@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Критерии качества аналитиков](https://habr.com/ru/articles/795027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795027)
-- [Тестирование Spring Security](https://habr.com/ru/articles/795149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795149)
-- [Делаю навигацию в приложении на Compose](https://habr.com/ru/articles/795069/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795069)
-- [Гексагональная Архитектура и Spring Boot](https://habr.com/ru/articles/795127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795127)
-- [О чем говорят руки. 2 место на соревновании Kaggle](https://habr.com/ru/articles/795109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795109)
+- [Что не увидит SCA](https://habr.com/ru/companies/tinkoff/articles/795061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795061)
+- [[Перевод] Laravel 11. Что нового?](https://habr.com/ru/articles/795165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795165)
+- [Приглашаем на онлайновый митап про карьеру техписа: наём, развитие, треки](https://habr.com/ru/companies/kaspersky/articles/795071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795071)
+- [[Перевод] Новый рекорд производительности FizzBuzz](https://habr.com/ru/articles/794925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794925)
+- [Карьерный путь: Android мобилка, фронт или бэкенд?](https://habr.com/ru/articles/795169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795169)
 <!-- BLOG-POST-LIST:END -->
 
 ---
