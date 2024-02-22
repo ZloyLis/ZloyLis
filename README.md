@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Легендарные процессоры 8-битной эпохи](https://habr.com/ru/companies/beeline_tech/articles/795619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795619)
+- [Вижу цель, не иду к ней: как приводить проекты к результату](https://habr.com/ru/companies/ru_mts/articles/795643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795643)
 - [API-автотесты: как достичь наиболее полного покрытия?](https://habr.com/ru/companies/ncloudtech/articles/793342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793342)
 - [SmartFlow: «В начале был пароль...» или новая аутентификация VK ID](https://habr.com/ru/companies/vk/articles/780194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780194)
 - [[Перевод] Логический долг гораздо разрушительнее технического](https://habr.com/ru/companies/sportmaster_lab/articles/795557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795557)
