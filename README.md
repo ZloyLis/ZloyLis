@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я в благородство играть не буду: как производители дешевых смартфонов закладывают срок службы в свои устройства](https://habr.com/ru/companies/timeweb/articles/792728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792728)
+- [«Кошелек или жизнь?» Выбор бизнес-аналитика](https://habr.com/ru/companies/pgk/articles/795501/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795501)
+- [Автоматизируем сборку и деплой приложения в GitLab CI/CD: подробное руководство с примерами](https://habr.com/ru/companies/flant/articles/795475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795475)
 - [Содание Web components на Vue 3](https://habr.com/ru/articles/795489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795489)
 - [Обзор языка Crystal](https://habr.com/ru/companies/otus/articles/794983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794983)
-- [Node Pools в AKS](https://habr.com/ru/companies/otus/articles/794570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794570)
-- [Обзор курса Certified Bug Bounty Hunter &lpar;CBBH&rpar; от HTB Academy](https://habr.com/ru/articles/795423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795423)
-- [Виртуальные туры в недвижимости: 6 шагов внедрения](https://habr.com/ru/articles/795281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
