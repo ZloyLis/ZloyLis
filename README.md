@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практическое применение Sliver’ов для создания современного UI](https://habr.com/ru/articles/794510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794510)
+- [[Перевод] Хакаем спортивные часы](https://habr.com/ru/articles/795573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795573)
+- [WS, но лучше](https://habr.com/ru/articles/795563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795563)
 - [Добавление ресурсов в приложении | Flutter](https://habr.com/ru/articles/795535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795535)
 - [KD+SM Uplift Modeling. Вошли и вышли, приключение на 20 минут](https://habr.com/ru/articles/795533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795533)
-- [Code Mining. Могут ли аналитики читать код?](https://habr.com/ru/articles/795531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795531)
-- [[Перевод] 10 полезных команд Git](https://habr.com/ru/companies/otus/articles/795525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795525)
-- [Я в благородство играть не буду: как производители дешевых смартфонов закладывают срок службы в свои устройства](https://habr.com/ru/companies/timeweb/articles/792728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
