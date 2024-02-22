@@ -27,7 +27,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [AI и системный анализ / бизнес-анализ](https://habr.com/ru/companies/jugru/articles/795699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795699)
-- [Танцы с парсингом, kubernetes и миграция в Yandex Cloud: как мы делали Kontragent.io](https://habr.com/ru/companies/eaeconsult/articles/792362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792362)
+- [Танцы с парсингом, kubernetes и миграция в Yandex Cloud: как мы делали «Контрагентио»](https://habr.com/ru/companies/eaeconsult/articles/792362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792362)
 - [Как связать натуральные ключи с суррогатным в Anchor Modeling](https://habr.com/ru/articles/795689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795689)
 - [«Да кто такой этот ваш FinOps?»: считаем и оптимизируем потребление кластера Kubernetes с помощью OpenCost](https://habr.com/ru/companies/selectel/articles/795659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795659)
 - [Обрезать нельзя сжать. Как ускорить метрики проекта без больших вложений](https://habr.com/ru/companies/samolet/articles/788288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788288)
