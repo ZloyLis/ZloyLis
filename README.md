@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Да кто такой этот ваш FinOps?»: считаем и оптимизируем потребление кластера Kubernetes с помощью OpenCost](https://habr.com/ru/companies/selectel/articles/795659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795659)
+- [Обрезать нельзя сжать. Как ускорить метрики проекта без больших вложений](https://habr.com/ru/companies/samolet/articles/788288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788288)
 - [Вижу цель, не иду к ней: как приводить проекты к результату](https://habr.com/ru/companies/ru_mts/articles/795643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795643)
 - [API-автотесты: как достичь наиболее полного покрытия?](https://habr.com/ru/companies/ncloudtech/articles/793342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793342)
 - [SmartFlow: «В начале был пароль...» или новая аутентификация VK ID](https://habr.com/ru/companies/vk/articles/780194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780194)
-- [[Перевод] Логический долг гораздо разрушительнее технического](https://habr.com/ru/companies/sportmaster_lab/articles/795557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795557)
-- [Краткий обзор развития лямбда-выражений в C++11, C++14, C++17 и C++20](https://habr.com/ru/companies/otus/articles/794821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794821)
 <!-- BLOG-POST-LIST:END -->
 
 ---
