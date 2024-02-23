@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma закрыла Dev Mode: пути обхода и их краткий обзор](https://habr.com/ru/companies/selectel/articles/795621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795621)
+- [Стартуем без транзакции. Альтернативный вариант вопросов на собеседовании «по SQL»](https://habr.com/ru/articles/795821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795821)
+- [Spring MVC REST API: автономная конфигурация при написании модульных тестов](https://habr.com/ru/articles/795819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795819)
 - [Мета-Переводчики: реальность или фантастика?](https://habr.com/ru/articles/794286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794286)
 - [Разработка Tizen-приложения для Samsung Smart Signage Platform&lpar;SSSP&rpar;: гайд для js-разработчиков](https://habr.com/ru/articles/795787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795787)
-- [Эмуляция сотового телефона… на сотовом телефоне](https://habr.com/ru/companies/timeweb/articles/792432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792432)
-- [[Перевод] Как использовать Fetch API в Node.js, Deno и Bun](https://habr.com/ru/companies/otus/articles/795559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795559)
-- [Интеллектуальные СКС в ЦОД](https://habr.com/ru/articles/795769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
