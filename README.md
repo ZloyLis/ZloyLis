@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеллектуальные СКС в ЦОД](https://habr.com/ru/articles/795769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795769)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 5. Прерывания и драйверы устройств](https://habr.com/ru/articles/795735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795735)
 - [Пагинация. Нестандартное использование Spring’овых Page и Pageable](https://habr.com/ru/companies/beeline_cloud/articles/795723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795723)
 - [Интерпретатор Brainfuck на Brainfuck](https://habr.com/ru/articles/793788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793788)
 - [AI и системный анализ / бизнес-анализ](https://habr.com/ru/companies/jugru/articles/795699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795699)
-- [Танцы с парсингом, kubernetes и миграция в Yandex Cloud: как мы делали «Контрагентио»](https://habr.com/ru/companies/eaeconsult/articles/792362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
