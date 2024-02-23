@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY: Ваше собственное облако на базе Kubernetes &lpar;часть 1&rpar;](https://habr.com/ru/companies/aenix/articles/795791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795791)
+- [[Перевод] Собираем самодельный перьевой плоттер](https://habr.com/ru/articles/795833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795833)
+- [Отладка Spring-микросервиса в контейнере](https://habr.com/ru/articles/795831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795831)
 - [Figma закрыла Dev Mode: пути обхода и их краткий обзор](https://habr.com/ru/companies/selectel/articles/795621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795621)
 - [Стартуем без транзакции. Альтернативный вариант вопросов на собеседовании «по SQL»](https://habr.com/ru/articles/795821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795821)
-- [Spring MVC REST API: автономная конфигурация при написании модульных тестов](https://habr.com/ru/articles/795819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795819)
-- [Мета-Переводчики: реальность или фантастика?](https://habr.com/ru/articles/794286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794286)
-- [Разработка Tizen-приложения для Samsung Smart Signage Platform&lpar;SSSP&rpar;: гайд для js-разработчиков](https://habr.com/ru/articles/795787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795787)
 <!-- BLOG-POST-LIST:END -->
 
 ---
