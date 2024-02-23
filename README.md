@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка Tizen-приложения для Samsung Smart Signage Platform&lpar;SSSP&rpar;: гайд для js-разработчиков](https://habr.com/ru/articles/795787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795787)
 - [Эмуляция сотового телефона… на сотовом телефоне](https://habr.com/ru/companies/timeweb/articles/792432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792432)
 - [[Перевод] Как использовать Fetch API в Node.js, Deno и Bun](https://habr.com/ru/companies/otus/articles/795559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795559)
 - [Интеллектуальные СКС в ЦОД](https://habr.com/ru/articles/795769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795769)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 5. Прерывания и драйверы устройств](https://habr.com/ru/articles/795735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795735)
-- [Пагинация. Нестандартное использование Spring’овых Page и Pageable](https://habr.com/ru/companies/beeline_cloud/articles/795723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795723)
 <!-- BLOG-POST-LIST:END -->
 
 ---
