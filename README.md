@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой опыт. Если вы собираетесь проходить собеседование в компанию из Европы/США](https://habr.com/ru/articles/795937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795937)
+- [Переворачивающиеся при умножении числа](https://habr.com/ru/articles/795935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795935)
 - [Настройка CI/CD глазами разработчика](https://habr.com/ru/articles/795931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795931)
 - [Интерактивная диаграмма Ганта для тысяч работ](https://habr.com/ru/articles/795923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795923)
 - [[Перевод] Итак, вы думаете, что знаете Git? Часть третья: реально большие репозитории](https://habr.com/ru/articles/795635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795635)
-- [Наконец-то не лопата! Обзор смартфона 8849 Tank Mini: компактный, защищенный, с мощным фонарем и лазерным дальномером](https://habr.com/ru/articles/795911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795911)
-- [[Перевод] Как я пишу HTTP-сервисы спустя 13 лет работы с Go](https://habr.com/ru/articles/793166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
