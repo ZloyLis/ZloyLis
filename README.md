@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UUIDv7](https://habr.com/ru/articles/795909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795909)
+- [Открытый код. Сокрытие данных](https://habr.com/ru/articles/795905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795905)
 - [ID: способы аутентификации сегодня, их преимущества, недостатки и перспективы развития](https://habr.com/ru/companies/newtel/articles/795903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795903)
 - [Redux vs Mobx кого же выбрать для React-приложения в 2024 году?](https://habr.com/ru/articles/795901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795901)
 - [Как мы дорабатывали легаси-ценообразование: от стадии отрицания до MVP за 4 месяца](https://habr.com/ru/articles/795877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795877)
-- [Semantic BPM. Семантика и синтаксис бизнес-процессов](https://habr.com/ru/articles/795883/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795883)
-- [Как хранить токены и пароли в программах на Python](https://habr.com/ru/articles/795881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795881)
 <!-- BLOG-POST-LIST:END -->
 
 ---
