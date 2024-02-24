@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерактивная диаграмма Ганта для тысяч работ](https://habr.com/ru/articles/795923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795923)
 - [[Перевод] Итак, вы думаете, что знаете Git? Часть третья: реально большие репозитории](https://habr.com/ru/articles/795635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795635)
 - [Наконец-то не лопата! Обзор смартфона 8849 Tank Mini: компактный, защищенный, с мощным фонарем и лазерным дальномером](https://habr.com/ru/articles/795911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795911)
 - [[Перевод] Как я пишу HTTP-сервисы спустя 13 лет работы с Go](https://habr.com/ru/articles/793166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793166)
 - [UUIDv7](https://habr.com/ru/articles/795909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795909)
-- [Открытый код. Сокрытие данных](https://habr.com/ru/articles/795905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795905)
 <!-- BLOG-POST-LIST:END -->
 
 ---
