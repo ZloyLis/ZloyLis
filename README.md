@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Итак, вы думаете, что знаете Git? Часть третья: реально большие репозитории](https://habr.com/ru/articles/795635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795635)
+- [Наконец-то не лопата! Обзор смартфона 8849 Tank Mini: компактный, защищенный, с мощным фонарем и лазерным дальномером](https://habr.com/ru/articles/795911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795911)
+- [[Перевод] Как я пишу HTTP-сервисы спустя 13 лет работы с Go](https://habr.com/ru/articles/793166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793166)
 - [UUIDv7](https://habr.com/ru/articles/795909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795909)
 - [Открытый код. Сокрытие данных](https://habr.com/ru/articles/795905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795905)
-- [ID: способы аутентификации сегодня, их преимущества, недостатки и перспективы развития](https://habr.com/ru/companies/newtel/articles/795903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795903)
-- [Redux vs Mobx кого же выбрать для React-приложения в 2024 году?](https://habr.com/ru/articles/795901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795901)
-- [Как мы дорабатывали легаси-ценообразование: от стадии отрицания до MVP за 4 месяца](https://habr.com/ru/articles/795877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795877)
 <!-- BLOG-POST-LIST:END -->
 
 ---
