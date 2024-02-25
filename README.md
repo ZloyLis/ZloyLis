@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование resilience4j со Spring Boot](https://habr.com/ru/articles/793550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793550)
+- [Когда в первый рабочий день джуном смотришь на свои задачи…](https://habr.com/ru/articles/796047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796047)
+- [Тонкости работы short-circuit routing в ASP.NET Core 8.0](https://habr.com/ru/articles/791336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791336)
+- [Интеллект в СКС на примере imVision CommScope](https://habr.com/ru/articles/796043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796043)
 - [[Перевод] Разработчик-универсал под видом специалиста](https://habr.com/ru/companies/ruvds/articles/795625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795625)
-- [Мобильная разработка за неделю #527 &lpar;19 — 25 февраля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/796033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796033)
-- [SwiftUI уроки &lpar;часть 1&rpar;](https://habr.com/ru/articles/796029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796029)
-- [Решение проблемы N+1 при работе с Kotlin Exposed](https://habr.com/ru/articles/796017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796017)
-- [[Перевод] Релиз Bun Shell &lpar;новый shell для JavaScript&rpar;](https://habr.com/ru/articles/795949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795949)
 <!-- BLOG-POST-LIST:END -->
 
 ---
