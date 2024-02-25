@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самый простой CI/CD пайплайн для flutter приложения с Codemagic. Часть 2](https://habr.com/ru/articles/796051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796051)
 - [[Перевод] Популярные конфигурационные опции для работы с git](https://habr.com/ru/articles/796119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796119)
 - [Самый бюджетный телефон с гибким экраном: Libero Flip от ZTE стоит всего $420](https://habr.com/ru/companies/ru_mts/articles/795977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795977)
 - [Task и structured concurrency в swift](https://habr.com/ru/articles/762148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=762148)
 - [Самый простой CI/CD пайплайн для flutter приложения с Codemagic. Часть 1](https://habr.com/ru/articles/795991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795991)
-- [Помощь на старте: 10 полезных ссылок для начинающих iOS-разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/795413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
