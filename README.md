@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработчик-универсал под видом специалиста](https://habr.com/ru/companies/ruvds/articles/795625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795625)
 - [Мобильная разработка за неделю #527 &lpar;19 — 25 февраля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/796033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796033)
 - [SwiftUI уроки &lpar;часть 1&rpar;](https://habr.com/ru/articles/796029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796029)
 - [Решение проблемы N+1 при работе с Kotlin Exposed](https://habr.com/ru/articles/796017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796017)
-- [[Перевод] Bun Shell &lpar;новый shell для JavaScript&rpar;](https://habr.com/ru/articles/795949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795949)
-- [Работа с виджетами Flutter | 1 часть](https://habr.com/ru/articles/795979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795979)
+- [[Перевод] Релиз Bun Shell &lpar;новый shell для JavaScript&rpar;](https://habr.com/ru/articles/795949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795949)
 <!-- BLOG-POST-LIST:END -->
 
 ---
