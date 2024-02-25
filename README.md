@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самый простой CI/CD пайплайн для flutter приложения с Codemagic. Часть 1](https://habr.com/ru/articles/795991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795991)
+- [Помощь на старте: 10 полезных ссылок для начинающих iOS-разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/795413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795413)
 - [Тесты производительности фреймворка Cample.js. Отчёт № 1](https://habr.com/ru/articles/796071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796071)
 - [PQ3, Apple’s New iMessage Security Protocol: что нового?](https://habr.com/ru/articles/796065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796065)
 - [Использование resilience4j со Spring Boot](https://habr.com/ru/articles/793550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793550)
-- [Когда в первый рабочий день джуном смотришь на свои задачи…](https://habr.com/ru/articles/796047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796047)
-- [Тонкости работы short-circuit routing в ASP.NET Core 8.0](https://habr.com/ru/articles/791336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
