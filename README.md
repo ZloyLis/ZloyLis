@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение проблемы N+1 при работе с Kotlin Exposed](https://habr.com/ru/articles/796017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796017)
 - [[Перевод] Релиз Bun Shell](https://habr.com/ru/articles/795949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795949)
 - [Работа с виджетами Flutter | 1 часть](https://habr.com/ru/articles/795979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795979)
 - [Электронные подписи. Но что мы знаем о мультиподписях?](https://habr.com/ru/articles/795961/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795961)
 - [Использование теории игр для повышения прозрачности моделей машинного обучения](https://habr.com/ru/articles/795957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795957)
-- [Переворачивающиеся при умножении числа](https://habr.com/ru/articles/795935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795935)
 <!-- BLOG-POST-LIST:END -->
 
 ---
