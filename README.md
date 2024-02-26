@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Раскладываем Git по полочкам: терминология](https://habr.com/ru/articles/796219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796219)
+- [[Перевод] Безымянный язык программирования без присваивания имён](https://habr.com/ru/articles/795861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795861)
 - [Памятка: 15 фраз для стендапов на английском языке](https://habr.com/ru/companies/yandex_praktikum/articles/790410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790410)
 - [Пути внедрения поддержки скриптов в Dart/Flutter](https://habr.com/ru/articles/795721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795721)
-- [Конец программирования, как мы его знаем, или Что нас ждёт с LLM](https://habr.com/ru/companies/sberbank/articles/796181/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796181)
-- [Идеальный офис 2.0](https://habr.com/ru/articles/795707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795707)
-- [Коммуникация по RESTful API: синхронизируем данные с маркетплейсами](https://habr.com/ru/articles/796169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796169)
+- [Домашняя виртуальная лаборатория. Готовим собственный сервер виртуализации для обучения. 1. Введение](https://habr.com/ru/companies/tssolution/articles/796019/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796019)
 <!-- BLOG-POST-LIST:END -->
 
 ---
