@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Repeatable migrations в Flyway](https://habr.com/ru/articles/796285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796285)
-- [СoverLetterEnchancer: упрощаем поиск работы с FastAPI и YandexGPT](https://habr.com/ru/articles/796107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796107)
-- [Максимально простая игра на C++ &lpar;в консоли&rpar;](https://habr.com/ru/articles/796261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796261)
-- [Как Сбербанк Онлайн готовится к пиковым нагрузкам](https://habr.com/ru/companies/sberbank/articles/796243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796243)
-- [В мире незавершённых задач: почему важно доводить дела до конца?](https://habr.com/ru/articles/795867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795867)
+- [Переделали всё, не разломав ничего, или Проект по информационной безопасности &lpar;взглядом PM&rpar;](https://habr.com/ru/companies/ozontech/articles/795611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795611)
+- [Погружаемся в Kubernetes: полезные материалы от сотрудников Selectel](https://habr.com/ru/companies/selectel/articles/796301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796301)
+- [Схема цепи преобразования данных в системах с интерфейсами](https://habr.com/ru/articles/796309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796309)
+- [PostgreSQL: обеспечение уникальности записи с проверкой даты валидности](https://habr.com/ru/companies/karuna/articles/794468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794468)
+- [Кто через 5–10 лет будет проектировать российское телеком-оборудование](https://habr.com/ru/companies/spbifmo/articles/796291/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796291)
 <!-- BLOG-POST-LIST:END -->
 
 ---
