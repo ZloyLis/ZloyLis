@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Плагины IDE — простой способ войти в безопасную разработку. Без регистрации и СМС](https://habr.com/ru/companies/pt/articles/796295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796295)
+- [Концепт бюджетной видеостены неограниченного размера для web-приложения](https://habr.com/ru/articles/796335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796335)
 - [Переделали всё, не разломав ничего, или Проект по информационной безопасности &lpar;взглядом PM&rpar;](https://habr.com/ru/companies/ozontech/articles/795611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795611)
 - [Погружаемся в Kubernetes: полезные материалы от сотрудников Selectel](https://habr.com/ru/companies/selectel/articles/796301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796301)
 - [Схема цепи преобразования данных в системах с интерфейсами](https://habr.com/ru/articles/796309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796309)
-- [PostgreSQL: обеспечение уникальности записи с проверкой даты валидности](https://habr.com/ru/companies/karuna/articles/794468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794468)
-- [Кто через 5–10 лет будет проектировать российское телеком-оборудование](https://habr.com/ru/companies/spbifmo/articles/796291/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796291)
 <!-- BLOG-POST-LIST:END -->
 
 ---
