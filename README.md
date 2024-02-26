@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Repeatable migrations в Flyway](https://habr.com/ru/articles/796285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796285)
+- [СoverLetterEnchancer: упрощаем поиск работы с FastAPI и YandexGPT](https://habr.com/ru/articles/796107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796107)
 - [Максимально простая игра на C++ &lpar;в консоли&rpar;](https://habr.com/ru/articles/796261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796261)
 - [Как Сбербанк Онлайн готовится к пиковым нагрузкам](https://habr.com/ru/companies/sberbank/articles/796243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796243)
 - [В мире незавершённых задач: почему важно доводить дела до конца?](https://habr.com/ru/articles/795867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795867)
-- [[Перевод] Организация ML-монорепозитория с помощью Pants](https://habr.com/ru/companies/wunderfund/articles/796127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796127)
-- [Костыли из 90-х и принцип HTML First](https://habr.com/ru/companies/ruvds/articles/793680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
