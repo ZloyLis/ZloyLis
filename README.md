@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Максимально простая игра на C++ &lpar;в консоли&rpar;](https://habr.com/ru/articles/796261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796261)
+- [Как Сбербанк Онлайн готовится к пиковым нагрузкам](https://habr.com/ru/companies/sberbank/articles/796243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796243)
+- [В мире незавершённых задач: почему важно доводить дела до конца?](https://habr.com/ru/articles/795867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795867)
+- [[Перевод] Организация ML-монорепозитория с помощью Pants](https://habr.com/ru/companies/wunderfund/articles/796127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796127)
 - [Костыли из 90-х и принцип HTML First](https://habr.com/ru/companies/ruvds/articles/793680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793680)
-- [ИИ в 3D: Где мы сейчас и какое будущее нас ждёт? &lpar;Часть 2&rpar;](https://habr.com/ru/articles/796235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796235)
-- [Константность в C++](https://habr.com/ru/articles/796233/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796233)
-- [Раскладываем Git по полочкам: терминология](https://habr.com/ru/articles/796219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796219)
-- [[Перевод] Безымянный язык программирования без присваивания имён](https://habr.com/ru/articles/795861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795861)
 <!-- BLOG-POST-LIST:END -->
 
 ---
