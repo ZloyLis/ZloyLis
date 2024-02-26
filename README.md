@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайские инструменты для взлома раскрыты в гигантской утечке &lpar;I-S00N&rpar;](https://habr.com/ru/articles/796161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796161)
 - [Каков C++ в gamedev&#39;e?](https://habr.com/ru/articles/795869/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795869)
 - [Запросы, хуки и спагетти](https://habr.com/ru/articles/796143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796143)
 - [Прокси-сервер для Android на Go](https://habr.com/ru/articles/796105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796105)
 - [Самый простой CI/CD пайплайн для flutter приложения с Codemagic. Часть 2](https://habr.com/ru/articles/796051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796051)
-- [[Перевод] Популярные конфигурационные опции для работы с git](https://habr.com/ru/articles/796119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
