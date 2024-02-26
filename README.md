@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Коммуникация по RESTful API: синхронизируем данные с маркетплейсами](https://habr.com/ru/articles/796169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796169)
 - [[Перевод] Face-swap и анимация изображений сгенерированных Midjourney с использованием InsightFaceSwap и Pika](https://habr.com/ru/articles/796165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796165)
 - [Можно ли запустить ембедед С-проект на базе РТОС в режиме симуляции под Windows?](https://habr.com/ru/articles/796129/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796129)
 - [Китайские инструменты для взлома раскрыты в гигантской утечке &lpar;I-S00N&rpar;](https://habr.com/ru/articles/796161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796161)
 - [Каков C++ в gamedev&#39;e?](https://habr.com/ru/articles/795869/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795869)
-- [Запросы, хуки и спагетти](https://habr.com/ru/articles/796143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796143)
 <!-- BLOG-POST-LIST:END -->
 
 ---
