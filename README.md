@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экспериментальная сортировка тернарным деревом](https://habr.com/ru/articles/796405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796405)
 - [[Перевод] Как украсить и оживить сайт на Astro с помощью KwesForms и Rive](https://habr.com/ru/companies/otus/articles/796385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796385)
 - [NLUX: Библиотека интерфейса Conversational AI](https://habr.com/ru/companies/bothub/articles/796377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796377)
 - [[Перевод] Новые клиентские хуки React 19](https://habr.com/ru/companies/timeweb/articles/793660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793660)
 - [Плагины IDE — простой способ войти в безопасную разработку. Без регистрации и СМС](https://habr.com/ru/companies/pt/articles/796295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796295)
-- [Концепт бюджетной видеостены неограниченного размера для web-приложения](https://habr.com/ru/articles/796335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
