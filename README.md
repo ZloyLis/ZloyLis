@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инфраструктурные пайплайны в Jenkins](https://habr.com/ru/companies/otus/articles/795455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795455)
+- [Записки хирурга. Распиливание слонов PostgreSQL наживую и без анестезии](https://habr.com/ru/companies/aliexpress_russia/articles/796409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796409)
+- [Работа с виджетами Flutter | 2 часть](https://habr.com/ru/articles/796609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796609)
+- [Митап по С++ в Питере и онлайн: цена абстракции, статистический анализ и дискуссия о код-ревью](https://habr.com/ru/companies/yadro/articles/796545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796545)
 - [Как 6 экранов в приложении увеличили конверсию в два раза](https://habr.com/ru/companies/tele2/articles/796583/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796583)
-- [Динамические Breadcrumbs на React, React Router и Apollo GraphQL](https://habr.com/ru/articles/796579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796579)
-- [Краткий обзор поведенческих паттернов в Rust](https://habr.com/ru/companies/otus/articles/795451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795451)
-- [Как мы оцифровали футбольные матчи с помощью CV](https://habr.com/ru/companies/yandex/articles/793744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793744)
-- [Как разработчику организовать личную базу знаний: систематизация информации из книг, статей, видео и курсов](https://habr.com/ru/companies/lanit/articles/793444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
