@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Идеальная длина pull request-а – пятьдесят строк](https://habr.com/ru/companies/productivity_inside/articles/796641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796641)
 - [Инфраструктурные пайплайны в Jenkins](https://habr.com/ru/companies/otus/articles/795455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795455)
 - [Записки хирурга. Распиливание слонов PostgreSQL наживую и без анестезии](https://habr.com/ru/companies/aliexpress_russia/articles/796409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796409)
 - [Работа с виджетами Flutter | 2 часть](https://habr.com/ru/articles/796609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796609)
 - [Митап по С++ в Питере и онлайн: цена абстракции, статистический анализ и дискуссия о код-ревью](https://habr.com/ru/companies/yadro/articles/796545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796545)
-- [Как 6 экранов в приложении увеличили конверсию в два раза](https://habr.com/ru/companies/tele2/articles/796583/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796583)
 <!-- BLOG-POST-LIST:END -->
 
 ---
