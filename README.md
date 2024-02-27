@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Генерация тест-кейсов на основе искусственного интеллекта: революционный подход для тестировщиков](https://habr.com/ru/articles/796623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796623)
 - [[Перевод] Как работает async/await в Swift](https://habr.com/ru/companies/cleverpumpkin/articles/790782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790782)
 - [Создали инструмент по оценке здоровья сервисов и теперь видим, есть ли у команд проблемы](https://habr.com/ru/companies/yoomoney/articles/796647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796647)
 - [[Перевод] Идеальная длина pull request-а – пятьдесят строк](https://habr.com/ru/companies/productivity_inside/articles/796641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796641)
 - [Инфраструктурные пайплайны в Jenkins](https://habr.com/ru/companies/otus/articles/795455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795455)
-- [Записки хирурга. Распиливание слонов PostgreSQL наживую и без анестезии](https://habr.com/ru/companies/aliexpress_russia/articles/796409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796409)
 <!-- BLOG-POST-LIST:END -->
 
 ---
