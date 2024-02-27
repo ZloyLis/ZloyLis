@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Диаграммы Ганта онлайн, читалка для книг на английском, красивые данные для отчетов – эти и другие российские стартапы](https://habr.com/ru/articles/796453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796453)
 - [Полиномиальные корневые методы синтеза САУ ч.3 &lpar;заключение&rpar;](https://habr.com/ru/articles/795719/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795719)
 - [Сравнение utility types библиотек или тайпскрипт на стероидах](https://habr.com/ru/articles/794410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794410)
 - [Security Week 2409: PrintListener, кража отпечатков пальцев по стороннему каналу](https://habr.com/ru/companies/kaspersky/articles/796315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796315)
 - [Логика автопилота для летательных аппаратов самолетного типа при переходе от вертикального полета к горизонтальному](https://habr.com/ru/articles/796423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796423)
-- [Apple Pro Weekly News &lpar;19.02 – 25.02.24&rpar;](https://habr.com/ru/articles/796419/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796419)
 <!-- BLOG-POST-LIST:END -->
 
 ---
