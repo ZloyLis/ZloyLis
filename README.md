@@ -26,7 +26,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как аналитику сохранить нервы и мозги](https://habr.com/ru/companies/alfa/articles/796649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796649)
+- [Как аналитику сохранить нервы: 5 упражнений для успокоения](https://habr.com/ru/companies/alfa/articles/796649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796649)
 - [Как быстро написать API на FastAPI с валидацией и базой данных](https://habr.com/ru/companies/selectel/articles/796669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796669)
 - [Google Apps Script и с чем его едят](https://habr.com/ru/companies/agima/articles/796677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796677)
 - [[Перевод] Генерация тест-кейсов на основе искусственного интеллекта: революционный подход для тестировщиков](https://habr.com/ru/articles/796623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796623)
