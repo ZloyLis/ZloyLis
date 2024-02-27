@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Краткий обзор поведенческих паттернов в Rust](https://habr.com/ru/companies/otus/articles/795451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795451)
 - [Как мы оцифровали футбольные матчи с помощью CV](https://habr.com/ru/companies/yandex/articles/793744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793744)
 - [Как разработчику организовать личную базу знаний: систематизация информации из книг, статей, видео и курсов](https://habr.com/ru/companies/lanit/articles/793444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793444)
 - [Зачем в Scala трамплины и как их использовать](https://habr.com/ru/companies/kryptonite/articles/796433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796433)
 - [[Перевод] Я уже 14 лет в отрасли, но программировать по-прежнему сложно](https://habr.com/ru/articles/795933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795933)
-- [Диаграммы Ганта онлайн, читалка для книг на английском, красивые данные для отчетов – эти и другие российские стартапы](https://habr.com/ru/articles/796453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796453)
 <!-- BLOG-POST-LIST:END -->
 
 ---
