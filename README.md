@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как аналитику сохранить нервы и мозги](https://habr.com/ru/companies/alfa/articles/796649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796649)
+- [Как быстро написать API на FastAPI с валидацией и базой данных](https://habr.com/ru/companies/selectel/articles/796669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796669)
+- [Google Apps Script и с чем его едят](https://habr.com/ru/companies/agima/articles/796677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796677)
 - [[Перевод] Генерация тест-кейсов на основе искусственного интеллекта: революционный подход для тестировщиков](https://habr.com/ru/articles/796623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796623)
 - [[Перевод] Как работает async/await в Swift](https://habr.com/ru/companies/cleverpumpkin/articles/790782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790782)
-- [Создали инструмент по оценке здоровья сервисов и теперь видим, есть ли у команд проблемы](https://habr.com/ru/companies/yoomoney/articles/796647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796647)
-- [[Перевод] Идеальная длина pull request-а – пятьдесят строк](https://habr.com/ru/companies/productivity_inside/articles/796641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796641)
-- [Инфраструктурные пайплайны в Jenkins](https://habr.com/ru/companies/otus/articles/795455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795455)
 <!-- BLOG-POST-LIST:END -->
 
 ---
