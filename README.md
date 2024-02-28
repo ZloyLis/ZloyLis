@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как неПросто сделать холодный бэкап Postgres](https://habr.com/ru/articles/796961/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796961)
 - [Анализ зависимостей бинарных файлов на основе ML](https://habr.com/ru/companies/tinkoff/articles/796919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796919)
 - [[Перевод] Часы на синусах и косинусах в CSS](https://habr.com/ru/articles/796639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796639)
 - [Особенности и проблемы mock-сервера Swordfish API Emulator](https://habr.com/ru/companies/yadro/articles/795211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795211)
 - [[Перевод] Руководство по веб-скрейпингу на Python](https://habr.com/ru/companies/ruvds/articles/796885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796885)
-- [Создание WordPress-плагина для отправки SMS-сообщений](https://habr.com/ru/companies/ru_mts/articles/796921/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
