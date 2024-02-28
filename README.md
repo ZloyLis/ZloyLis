@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы приготовили массу блюд c помощью одного ингредиента: GraphQL](https://habr.com/ru/companies/nlmk/articles/780328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780328)
+- [Осознанная оптимизация Compose 2: В борьбе с композицией](https://habr.com/ru/articles/796437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796437)
+- [Потоковая архитектура бота Telegram](https://habr.com/ru/articles/796151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796151)
 - [Julia. Метапрограммирование и макросы](https://habr.com/ru/articles/796765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796765)
 - [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/796755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796755)
-- [Реализуем touch жесты на vanilla js. Часть 1 &lpar;rotate&rpar;](https://habr.com/ru/articles/796749/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796749)
-- [[Перевод] Кодируем крестики-нолики в 15 битах](https://habr.com/ru/articles/796721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796721)
-- [Как аналитику сохранить нервы: 5 упражнений для успокоения](https://habr.com/ru/companies/alfa/articles/796649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796649)
 <!-- BLOG-POST-LIST:END -->
 
 ---
