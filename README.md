@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Юнит-тесты: чек-лист методик проектирования](https://habr.com/ru/companies/cdek_blog/articles/796451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796451)
-- [Наноматериалы и нанотехнологии. Часть V](https://habr.com/ru/articles/795205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795205)
-- [Obsidian. Путь от простой структуры к сложной и обратно. Часть 1](https://habr.com/ru/articles/796899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796899)
-- [Был программистом, а стал системным аналитиком: что хорошего в смене специализации и каких ошибок лучше не совершать](https://habr.com/ru/companies/netologyru/articles/796729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796729)
-- [Как разработать браузерное расширение в Chrome на React: разбираем на примере Cloudhood](https://habr.com/ru/companies/cloud_ru/articles/793124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793124)
+- [Анализ зависимостей бинарных файлов на основе ML](https://habr.com/ru/companies/tinkoff/articles/796919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796919)
+- [[Перевод] Часы на синусах и косинусах в CSS](https://habr.com/ru/articles/796639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796639)
+- [Особенности и проблемы mock-сервера Swordfish API Emulator](https://habr.com/ru/companies/yadro/articles/795211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795211)
+- [[Перевод] Руководство по веб-скрейпингу на Python](https://habr.com/ru/companies/ruvds/articles/796885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796885)
+- [Создание WordPress-плагина для отправки SMS-сообщений](https://habr.com/ru/companies/ru_mts/articles/796921/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
