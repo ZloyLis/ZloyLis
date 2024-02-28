@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ищем вдохновение, мотивацию и новый заряд энергии](https://habr.com/ru/companies/oleg-bunin/articles/796853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796853)
+- [Хватит использовать AI-плагины! Как получить доступ к LLM-преимуществам через API Jay Copilot](https://habr.com/ru/companies/just_ai/articles/796741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796741)
 - [Skunk Works курильщика, или собственный лоу-код на страже продаж](https://habr.com/ru/articles/796633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796633)
 - [Moscow QA #2 митап для тестировщиков](https://habr.com/ru/articles/796737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796737)
 - [Telegram Mini Apps с мгновенной оплатой](https://habr.com/ru/articles/796793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796793)
-- [Как мы приготовили массу блюд c помощью одного ингредиента: GraphQL](https://habr.com/ru/companies/nlmk/articles/780328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=780328)
-- [Осознанная оптимизация Compose 2: В борьбе с композицией](https://habr.com/ru/articles/796437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
