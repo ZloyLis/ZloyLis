@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Юнит-тесты: чек-лист методик проектирования](https://habr.com/ru/companies/cdek_blog/articles/796451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796451)
+- [Наноматериалы и нанотехнологии. Часть V](https://habr.com/ru/articles/795205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795205)
+- [Obsidian. Путь от простой структуры к сложной и обратно. Часть 1](https://habr.com/ru/articles/796899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796899)
+- [Был программистом, а стал системным аналитиком: что хорошего в смене специализации и каких ошибок лучше не совершать](https://habr.com/ru/companies/netologyru/articles/796729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796729)
 - [Как разработать браузерное расширение в Chrome на React: разбираем на примере Cloudhood](https://habr.com/ru/companies/cloud_ru/articles/793124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793124)
-- [Архитектура MVC и поддержка реактивности для jQuery](https://habr.com/ru/articles/796877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796877)
-- [Как дизайнеры помогают заменить GitLab: что из этого получилось](https://habr.com/ru/companies/ozontech/articles/796231/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796231)
-- [Что общего у архитектуры программного обеспечения и градостроительства](https://habr.com/ru/companies/raft/articles/796859/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796859)
-- [Интегрируем Kotlin сервис с AI чат-ботом с помощью Spring AI за 5 минут](https://habr.com/ru/articles/796855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796855)
 <!-- BLOG-POST-LIST:END -->
 
 ---
