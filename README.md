@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор библиотеки Actix в Rust](https://habr.com/ru/companies/otus/articles/795565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795565)
 - [Некоторые антипаттерны проектирования в Django](https://habr.com/ru/companies/otus/articles/796735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796735)
 - [Как неПросто сделать холодный бэкап Postgres](https://habr.com/ru/articles/796961/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796961)
 - [Анализ зависимостей бинарных файлов на основе ML](https://habr.com/ru/companies/tinkoff/articles/796919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796919)
 - [[Перевод] Часы на синусах и косинусах в CSS](https://habr.com/ru/articles/796639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796639)
-- [Особенности и проблемы mock-сервера Swordfish API Emulator](https://habr.com/ru/companies/yadro/articles/795211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
