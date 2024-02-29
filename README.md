@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы построили систему анализа утечек паролей с хранением в ScyllaDB](https://habr.com/ru/companies/passleak/articles/796949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796949)
 - [Три легенды из нулевых: оживляем, прошиваем, патчим и смотрим на культовые телефоны Siemens из начала двухтысячных](https://habr.com/ru/companies/timeweb/articles/796159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796159)
 - [Хватит маппить все руками, используй Mapster](https://habr.com/ru/companies/simbirsoft/articles/797073/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797073)
 - [Диплом специалиста ИБ. Часть №4 — Мобильное приложение Smart Connect](https://habr.com/ru/articles/792684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792684)
 - [Разработка интерфейса | Flutter](https://habr.com/ru/articles/797081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797081)
-- [Chromium. Отрисовка страницы с помощью Blink, CC и планировщика](https://habr.com/ru/articles/796847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
