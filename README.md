@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три легенды из нулевых: оживляем, прошиваем, патчим и смотрим на культовые телефоны Siemens из начала двухтысячных](https://habr.com/ru/companies/timeweb/articles/796159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796159)
+- [Хватит маппить все руками, используй Mapster](https://habr.com/ru/companies/simbirsoft/articles/797073/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797073)
+- [Диплом специалиста ИБ. Часть №4 — Мобильное приложение Smart Connect](https://habr.com/ru/articles/792684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792684)
+- [Разработка интерфейса | Flutter](https://habr.com/ru/articles/797081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797081)
 - [Chromium. Отрисовка страницы с помощью Blink, CC и планировщика](https://habr.com/ru/articles/796847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796847)
-- [[Перевод] При полной луне этот код работал иначе](https://habr.com/ru/companies/productivity_inside/articles/797071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797071)
-- [Краткий обзор фреймворка Svelte](https://habr.com/ru/companies/otus/articles/795913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795913)
-- [Изоляция в тестах с Kafka](https://habr.com/ru/articles/797049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797049)
-- [Опросил больше 1000 айтишников: вранье в резюме и котируемость курсов по «вкатыванию в IT»](https://habr.com/ru/articles/797045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797045)
 <!-- BLOG-POST-LIST:END -->
 
 ---
