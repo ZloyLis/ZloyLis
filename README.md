@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Leaderboard за февраль 2024](https://habr.com/ru/articles/796825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796825)
 - [Как взламывают биометрию и заставляют нейросети придумывать способы атак: топ-6 докладов с PHDays о ML и AI](https://habr.com/ru/companies/pt/articles/797241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797241)
 - [Деплой Flutter-приложений и особенности платформ](https://habr.com/ru/companies/agima/articles/797223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797223)
 - [Что я понял, изучив 50 книг про IT?](https://habr.com/ru/companies/outlines_tech/articles/797205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797205)
 - [Матрицы помогают в олимпиадных задачах](https://habr.com/ru/articles/797213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797213)
-- [Как создать экосистему и сколько это стоит](https://habr.com/ru/articles/797211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
