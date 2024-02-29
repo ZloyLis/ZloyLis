@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опросил больше 1000 айтишников: вранье в резюме и котируемость курсов по «вкатыванию в IT»](https://habr.com/ru/articles/797045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797045)
 - [Выборы президента США глазами математика. Что произошло за последний месяц?](https://habr.com/ru/articles/797039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797039)
 - [Оранжевый k8s кластер на ладони](https://habr.com/ru/articles/797025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797025)
 - [Когнитивные искажения у аналитика данных: найти и починить](https://habr.com/ru/companies/yandex_praktikum/articles/795213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795213)
 - [Обзор библиотеки Actix в Rust](https://habr.com/ru/companies/otus/articles/795565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795565)
-- [Некоторые антипаттерны проектирования в Django](https://habr.com/ru/companies/otus/articles/796735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796735)
 <!-- BLOG-POST-LIST:END -->
 
 ---
