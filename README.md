@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 10 фактов, которые разработчики ПО должны знать про обучение](https://habr.com/ru/companies/magnus-tech/articles/796985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796985)
-- [Android Lint: оптимизируем проверку мердж-реквестов](https://habr.com/ru/companies/ru_mts/articles/797053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797053)
-- [[Перевод] Что такое переадресация портов Kubectl и как она работает?](https://habr.com/ru/companies/slurm/articles/797117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797117)
-- [Как мы построили систему анализа утечек паролей с хранением в ScyllaDB](https://habr.com/ru/companies/passleak/articles/796949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796949)
-- [Три легенды из нулевых: оживляем, прошиваем, патчим и смотрим на культовые телефоны Siemens из начала двухтысячных](https://habr.com/ru/companies/timeweb/articles/796159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796159)
+- [Как создать экосистему и сколько это стоит](https://habr.com/ru/articles/797211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797211)
+- [Настраиваем кросс-обновления Android-приложений между сторами](https://habr.com/ru/companies/sravni/articles/797147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797147)
+- [[Перевод] Cloudflare открыла код Rust-фреймворка для программируемых сетевых сервисов — Pingora](https://habr.com/ru/articles/797015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797015)
+- [Кейс: разметка приложение с нуля на конкретном примере](https://habr.com/ru/companies/X5Tech/articles/797185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797185)
+- [«Не заставляйте меня вводить цифры»: реализуем сложный повтор в мобильном календаре](https://habr.com/ru/companies/ncloudtech/articles/796651/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796651)
 <!-- BLOG-POST-LIST:END -->
 
 ---
