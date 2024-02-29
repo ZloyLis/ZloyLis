@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 10 фактов, которые разработчики ПО должны знать про обучение](https://habr.com/ru/companies/magnus-tech/articles/796985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796985)
+- [Android Lint: оптимизируем проверку мердж-реквестов](https://habr.com/ru/companies/ru_mts/articles/797053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797053)
 - [[Перевод] Что такое переадресация портов Kubectl и как она работает?](https://habr.com/ru/companies/slurm/articles/797117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797117)
 - [Как мы построили систему анализа утечек паролей с хранением в ScyllaDB](https://habr.com/ru/companies/passleak/articles/796949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796949)
 - [Три легенды из нулевых: оживляем, прошиваем, патчим и смотрим на культовые телефоны Siemens из начала двухтысячных](https://habr.com/ru/companies/timeweb/articles/796159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796159)
-- [Хватит маппить все руками, используй Mapster](https://habr.com/ru/companies/simbirsoft/articles/797073/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797073)
-- [Диплом специалиста ИБ. Часть №4 — Мобильное приложение Smart Connect](https://habr.com/ru/articles/792684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
