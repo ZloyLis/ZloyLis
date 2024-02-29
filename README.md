@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деплой Flutter-приложений и особенности платформ](https://habr.com/ru/companies/agima/articles/797223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797223)
+- [Что я понял, изучив 50 книг про IT?](https://habr.com/ru/companies/outlines_tech/articles/797205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797205)
+- [Матрицы помогают в олимпиадных задачах](https://habr.com/ru/articles/797213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797213)
 - [Как создать экосистему и сколько это стоит](https://habr.com/ru/articles/797211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797211)
 - [Настраиваем кросс-обновления Android-приложений между сторами](https://habr.com/ru/companies/sravni/articles/797147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797147)
-- [[Перевод] Cloudflare открыла код Rust-фреймворка для программируемых сетевых сервисов — Pingora](https://habr.com/ru/articles/797015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797015)
-- [Кейс: разметка приложение с нуля на конкретном примере](https://habr.com/ru/companies/X5Tech/articles/797185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797185)
-- [«Не заставляйте меня вводить цифры»: реализуем сложный повтор в мобильном календаре](https://habr.com/ru/companies/ncloudtech/articles/796651/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796651)
 <!-- BLOG-POST-LIST:END -->
 
 ---
