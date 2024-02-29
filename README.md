@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromium. Отрисовка страницы с помощью Blink, CC и планировщика](https://habr.com/ru/articles/796847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796847)
+- [[Перевод] При полной луне этот код работал иначе](https://habr.com/ru/companies/productivity_inside/articles/797071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797071)
+- [Краткий обзор фреймворка Svelte](https://habr.com/ru/companies/otus/articles/795913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795913)
 - [Изоляция в тестах с Kafka](https://habr.com/ru/articles/797049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797049)
 - [Опросил больше 1000 айтишников: вранье в резюме и котируемость курсов по «вкатыванию в IT»](https://habr.com/ru/articles/797045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797045)
-- [Выборы президента США глазами математика. Что произошло за последний месяц?](https://habr.com/ru/articles/797039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797039)
-- [Оранжевый k8s кластер на ладони](https://habr.com/ru/articles/797025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797025)
-- [Когнитивные искажения у аналитика данных: найти и починить](https://habr.com/ru/companies/yandex_praktikum/articles/795213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795213)
 <!-- BLOG-POST-LIST:END -->
 
 ---
