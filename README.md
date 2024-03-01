@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На словах ты Лев Толстой, а на деле не можешь развернуть Nginx в Kubernetes](https://habr.com/ru/companies/kts/articles/795277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795277)
+- [[Перевод] Инструмент подбора красок для покраски миниатюр. Часть 1: теория](https://habr.com/ru/articles/797177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797177)
+- [Путь от преподавателя английского к AI Product Manager](https://habr.com/ru/articles/797357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797357)
 - [[Перевод] Wasm vs Docker containers vs Kubernetes vs serverless: битва за первенство](https://habr.com/ru/companies/flant/articles/796857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796857)
 - [REST API сервер на Bash с использованием сокетов и Apache](https://habr.com/ru/articles/796731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796731)
-- [[Перевод] 13 конфигураций Kubernetes, которые ты должен знать в 2k24](https://habr.com/ru/articles/796753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796753)
-- [Файловый ввод, сделанный по-человечески](https://habr.com/ru/articles/797321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797321)
-- [Переменные и условия: как быстро сделать в Фигме нелинейный прототип](https://habr.com/ru/companies/alfa/articles/795357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795357)
 <!-- BLOG-POST-LIST:END -->
 
 ---
