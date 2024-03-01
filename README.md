@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [На словах ты Лев Толстой, а на деле не можешь развернуть Nginx в Kubernetes](https://habr.com/ru/companies/kts/articles/795277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795277)
-- [[Перевод] Инструмент подбора красок для покраски миниатюр. Часть 1: теория](https://habr.com/ru/articles/797177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797177)
-- [Путь от преподавателя английского к AI Product Manager](https://habr.com/ru/articles/797357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797357)
-- [[Перевод] Wasm vs Docker containers vs Kubernetes vs serverless: битва за первенство](https://habr.com/ru/companies/flant/articles/796857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796857)
-- [REST API сервер на Bash с использованием сокетов и Apache](https://habr.com/ru/articles/796731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796731)
+- [Межсервисная авторизация в Авито PaaS](https://habr.com/ru/companies/avito/articles/796851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796851)
+- [Самый шерстяной волчара: тимлид с технической ролью и без](https://habr.com/ru/companies/oleg-bunin/articles/797367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797367)
+- [Улучшаем свой код на Python](https://habr.com/ru/articles/797393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797393)
+- [Странный и очень прибыльный мир конкурсов писателей-киберпреступников](https://habr.com/ru/companies/ruvds/articles/795469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795469)
+- [Простой учет оборудования в TeamDo: как проводить инвентаризацию не затратно](https://habr.com/ru/companies/teamdo/articles/797383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797383)
 <!-- BLOG-POST-LIST:END -->
 
 ---
