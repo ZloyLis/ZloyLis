@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scala Digest. Выпуск 14](https://habr.com/ru/companies/tinkoff/articles/797411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797411)
+- [Путь к мастерству в программировании](https://habr.com/ru/articles/797465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797465)
+- [Микрофронтенд с использованием Module Federation. Соединяем компоненты между системами на разных фреймворках](https://habr.com/ru/companies/itfb/articles/797429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797429)
 - [Почему так важна открытость и как её прокачать](https://habr.com/ru/companies/ncloudtech/articles/797123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797123)
 - [Когда ни туда, ни сюда, или в поисках оптимальной границы Domain слоя](https://habr.com/ru/articles/797425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797425)
-- [KD+SM Uplift Modeling. Часть 2. T-Learner. Субпопуляции и Дивергенции](https://habr.com/ru/articles/797409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797409)
-- [Межсервисная авторизация в Авито PaaS](https://habr.com/ru/companies/avito/articles/796851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796851)
-- [Самый шерстяной волчара: тимлид с технической ролью и без](https://habr.com/ru/companies/oleg-bunin/articles/797367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797367)
 <!-- BLOG-POST-LIST:END -->
 
 ---
