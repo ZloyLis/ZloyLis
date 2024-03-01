@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 6. Блокировки](https://habr.com/ru/articles/797557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797557)
 - [Аутентификация для WebSocket и SSE: до сих пор нет стандарта?](https://habr.com/ru/articles/790272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790272)
 - [Ну, наймете вы накрутчика опыта и ничего страшного — вам даже полезно](https://habr.com/ru/articles/797509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797509)
 - [[Перевод] Организация данных на экране | Flutter](https://habr.com/ru/articles/797491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797491)
 - [Одномерный лес и все прочее](https://habr.com/ru/articles/797489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797489)
-- [[Перевод] Насколько потолстел JavaScript к 2024 году?](https://habr.com/ru/companies/ruvds/articles/796595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796595)
 <!-- BLOG-POST-LIST:END -->
 
 ---
