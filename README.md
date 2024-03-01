@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему так важна открытость и как её прокачать](https://habr.com/ru/companies/ncloudtech/articles/797123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797123)
+- [Когда ни туда, ни сюда, или в поисках оптимальной границы Domain слоя](https://habr.com/ru/articles/797425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797425)
+- [KD+SM Uplift Modeling. Часть 2. T-Learner. Субпопуляции и Дивергенции](https://habr.com/ru/articles/797409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797409)
 - [Межсервисная авторизация в Авито PaaS](https://habr.com/ru/companies/avito/articles/796851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796851)
 - [Самый шерстяной волчара: тимлид с технической ролью и без](https://habr.com/ru/companies/oleg-bunin/articles/797367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797367)
-- [Улучшаем свой код на Python](https://habr.com/ru/articles/797393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797393)
-- [Странный и очень прибыльный мир конкурсов писателей-киберпреступников](https://habr.com/ru/companies/ruvds/articles/795469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795469)
-- [Простой учет оборудования в TeamDo: как проводить инвентаризацию не затратно](https://habr.com/ru/companies/teamdo/articles/797383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797383)
 <!-- BLOG-POST-LIST:END -->
 
 ---
