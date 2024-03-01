@@ -5,7 +5,7 @@
 Но это не значит, что гвозди можно забивать только молотком.
 
 ---
-
+<!--
 #### 🛠️ Technical stack:
 
 ![Java](https://img.shields.io/badge/Java-informational?logo=Oracle&style=flat&logoColor=white&color=FF4500)
@@ -20,8 +20,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=PostgreSQL&style=flat&logoColor=white&color=DAA520)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?logo=MongoDB&style=flat&logoColor=white&color=870000)
 ![Git](https://img.shields.io/badge/Git-informational?logo=git&style=flat&logoColor=white&color=f74e28)
+![Apache](https://img.shields.io/badge/Apache-informational?logo=apache&style=flat&logoColor=white&color=f74e28)
 
-___
+___  -->
 
 #### 💬 Latest posts from habr.com:
 
