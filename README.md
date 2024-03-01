@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scala Digest. Выпуск 14](https://habr.com/ru/companies/tinkoff/articles/797411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797411)
-- [Путь к мастерству в программировании](https://habr.com/ru/articles/797465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797465)
-- [Микрофронтенд с использованием Module Federation. Соединяем компоненты между системами на разных фреймворках](https://habr.com/ru/companies/itfb/articles/797429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797429)
-- [Почему так важна открытость и как её прокачать](https://habr.com/ru/companies/ncloudtech/articles/797123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797123)
-- [Когда ни туда, ни сюда, или в поисках оптимальной границы Domain слоя](https://habr.com/ru/articles/797425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797425)
+- [[Перевод] Организация данных на экране | Flutter](https://habr.com/ru/articles/797491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797491)
+- [Одномерный лес и все прочее](https://habr.com/ru/articles/797489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797489)
+- [[Перевод] Насколько потолстел JavaScript к 2024 году?](https://habr.com/ru/companies/ruvds/articles/796595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796595)
+- [Алгоритмы ИИ и машинное обучение: “Смотри, тут рыбка. Большая и маленькая”](https://habr.com/ru/articles/797487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797487)
+- [DIY: Ваше собственное облако на базе Kubernetes &lpar;часть 2&rpar;](https://habr.com/ru/companies/aenix/articles/797323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797323)
 <!-- BLOG-POST-LIST:END -->
 
 ---
