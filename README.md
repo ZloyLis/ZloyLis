@@ -26,11 +26,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Wasm vs Docker containers vs Kubernetes vs serverless: битва за первенство](https://habr.com/ru/companies/flant/articles/796857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796857)
+- [REST API сервер на Bash с использованием сокетов и Apache](https://habr.com/ru/articles/796731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796731)
+- [[Перевод] 13 конфигураций Kubernetes, которые ты должен знать в 2k24](https://habr.com/ru/articles/796753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796753)
 - [Файловый ввод, сделанный по-человечески](https://habr.com/ru/articles/797321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797321)
 - [Переменные и условия: как быстро сделать в Фигме нелинейный прототип](https://habr.com/ru/companies/alfa/articles/795357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795357)
-- [5 самых странных языков программирования: для чего они нужны и что на них можно написать](https://habr.com/ru/companies/ru_mts/articles/797301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797301)
-- [LLM Leaderboard за февраль 2024](https://habr.com/ru/articles/796825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796825)
-- [Как взламывают биометрию и заставляют нейросети придумывать способы атак: топ-6 докладов с PHDays о ML и AI](https://habr.com/ru/companies/pt/articles/797241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797241)
 <!-- BLOG-POST-LIST:END -->
 
 ---
