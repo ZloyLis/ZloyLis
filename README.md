@@ -30,7 +30,7 @@ ___
 - [[Перевод] Организация данных на экране | Flutter](https://habr.com/ru/articles/797491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797491)
 - [Одномерный лес и все прочее](https://habr.com/ru/articles/797489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797489)
 - [[Перевод] Насколько потолстел JavaScript к 2024 году?](https://habr.com/ru/companies/ruvds/articles/796595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796595)
-- [Алгоритмы ИИ и машинное обучение: “Смотри, тут рыбка. Большая и маленькая”](https://habr.com/ru/articles/797487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797487)
+- [Алгоритмы ИИ и машинное обучение: «Смотри, тут рыбка. Большая и маленькая»](https://habr.com/ru/articles/797487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797487)
 <!-- BLOG-POST-LIST:END -->
 
 ---
