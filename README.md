@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 36 багов 29 февраля 2024](https://habr.com/ru/articles/797569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797569)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 6. Блокировки](https://habr.com/ru/articles/797557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797557)
 - [Аутентификация для WebSocket и SSE: до сих пор нет стандарта?](https://habr.com/ru/articles/790272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790272)
 - [Ну, наймете вы накрутчика опыта и ничего страшного — вам даже полезно](https://habr.com/ru/articles/797509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797509)
 - [[Перевод] Организация данных на экране | Flutter](https://habr.com/ru/articles/797491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797491)
-- [Одномерный лес и все прочее](https://habr.com/ru/articles/797489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
