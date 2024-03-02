@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитика ради аналитики или как выжить в стартапе](https://habr.com/ru/articles/797601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797601)
 - [Получаем деньги за подбрасывание монет стоимостью в миллионы долларов](https://habr.com/ru/articles/797537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797537)
 - [Сканируем сеть. Собираем информацию об организациях](https://habr.com/ru/articles/797581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797581)
 - [[Перевод] 36 багов 29 февраля 2024](https://habr.com/ru/articles/797569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797569)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 6. Блокировки](https://habr.com/ru/articles/797557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797557)
-- [Аутентификация для WebSocket и SSE: до сих пор нет стандарта?](https://habr.com/ru/articles/790272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
