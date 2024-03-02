@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я несколькими промптами создал торговый индикатор на Pinescript &lpar;TradingView&rpar;](https://habr.com/ru/articles/797617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797617)
+- [Как писать приложения под Android](https://habr.com/ru/articles/797609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797609)
+- [Квантовая информация и законы сохранения. Энтропия фон Неймана как мера квантовой запутанности](https://habr.com/ru/articles/797607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797607)
 - [Аналитика ради аналитики или как выжить в стартапе](https://habr.com/ru/articles/797601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797601)
 - [Получаем деньги за подбрасывание монет стоимостью в миллионы долларов](https://habr.com/ru/articles/797537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797537)
-- [Сканируем сеть. Собираем информацию об организациях](https://habr.com/ru/articles/797581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797581)
-- [[Перевод] 36 багов 29 февраля 2024](https://habr.com/ru/articles/797569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797569)
-- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 6. Блокировки](https://habr.com/ru/articles/797557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797557)
 <!-- BLOG-POST-LIST:END -->
 
 ---
