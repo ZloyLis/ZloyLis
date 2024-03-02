@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KolibriOS: пробуем ассемблер](https://habr.com/ru/articles/797623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797623)
 - [Как я несколькими промптами создал торговый индикатор на Pinescript &lpar;TradingView&rpar;](https://habr.com/ru/articles/797617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797617)
 - [Как писать приложения под Android](https://habr.com/ru/articles/797609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797609)
 - [Квантовая информация и законы сохранения. Энтропия фон Неймана как мера квантовой запутанности](https://habr.com/ru/articles/797607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797607)
 - [Аналитика ради аналитики или как выжить в стартапе](https://habr.com/ru/articles/797601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797601)
-- [[Перевод] Получаем деньги за подбрасывание монет стоимостью в миллионы долларов](https://habr.com/ru/articles/797537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797537)
 <!-- BLOG-POST-LIST:END -->
 
 ---
