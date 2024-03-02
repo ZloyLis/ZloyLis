@@ -31,7 +31,7 @@ ___  -->
 - [Как писать приложения под Android](https://habr.com/ru/articles/797609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797609)
 - [Квантовая информация и законы сохранения. Энтропия фон Неймана как мера квантовой запутанности](https://habr.com/ru/articles/797607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797607)
 - [Аналитика ради аналитики или как выжить в стартапе](https://habr.com/ru/articles/797601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797601)
-- [Получаем деньги за подбрасывание монет стоимостью в миллионы долларов](https://habr.com/ru/articles/797537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797537)
+- [[Перевод] Получаем деньги за подбрасывание монет стоимостью в миллионы долларов](https://habr.com/ru/articles/797537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797537)
 <!-- BLOG-POST-LIST:END -->
 
 ---
