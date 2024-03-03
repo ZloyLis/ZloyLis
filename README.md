@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Continuations для взаимодействия асинхронных задач с синхронным кодом](https://habr.com/ru/articles/797735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797735)
+- [Мобильная разработка за неделю #528 &lpar;26 февраля — 3 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/797733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797733)
+- [Наш опыт Android и iOS разработки в проекте](https://habr.com/ru/companies/nfckey/articles/797683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797683)
+- [[Перевод] Иммутабельность в механизме Durable Execution: проблемы и решение](https://habr.com/ru/companies/ruvds/articles/797137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797137)
 - [Как я рабочую задачу автоматизировал, не написав ни строчки кода, с помощью AI-ассистента](https://habr.com/ru/articles/797677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797677)
-- [Разница между тестированием и отладкой в разработке программного обеспечения: ключевые аспекты](https://habr.com/ru/articles/797641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797641)
-- [KolibriOS: пробуем ассемблер](https://habr.com/ru/articles/797623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797623)
-- [Как я несколькими промптами создал торговый индикатор на Pinescript &lpar;TradingView&rpar;](https://habr.com/ru/articles/797617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797617)
-- [Как писать приложения под Android](https://habr.com/ru/articles/797609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797609)
 <!-- BLOG-POST-LIST:END -->
 
 ---
