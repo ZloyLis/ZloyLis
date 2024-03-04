@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание Меню Бара с PyQt5 и Tkinter в Python](https://habr.com/ru/articles/798037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798037)
+- [DotaDiviner — инструмент-аналитик и проводник по Dota 2](https://habr.com/ru/articles/798033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798033)
+- [Security Week 2410: проблемы високосного года](https://habr.com/ru/companies/kaspersky/articles/797893/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797893)
 - [[Перевод] Типы-расширения в Dart](https://habr.com/ru/articles/798009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798009)
 - [Почему я бросил свою сеть по ремонту телефонов и причем здесь Онлифанс](https://habr.com/ru/articles/798001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798001)
-- [Сравнение различных схем квантования для LLM](https://habr.com/ru/articles/797443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797443)
-- [Создание игры «Змейка» с использованием Pygame: Пошаговое руководство](https://habr.com/ru/articles/797983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797983)
-- [[Перевод] Что это за устройство у меня в комнате?](https://habr.com/ru/companies/ruvds/articles/797945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
