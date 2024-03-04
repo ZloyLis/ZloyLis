@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Сложные проекты для программистов, чтобы учиться новому](https://habr.com/ru/articles/797591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797591)
-- [Small talk для большого успеха: общение с рекрутером, коллегами и новыми знакомыми](https://habr.com/ru/companies/yandex_praktikum/articles/792588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792588)
-- [Асинхронная работа с файловой системой в Vert.x](https://habr.com/ru/companies/otus/articles/794484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794484)
-- [Рекомендации при работе с PostgreSQL](https://habr.com/ru/articles/794839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794839)
-- [[Перевод] Continuations для взаимодействия асинхронных задач с синхронным кодом](https://habr.com/ru/articles/797735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797735)
+- [От Cache до Middleware: эволюция Tarantool](https://habr.com/ru/companies/vk/articles/796603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796603)
+- [Кэширование кода в веб-приложениях](https://habr.com/ru/articles/797885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797885)
+- [Это не баг, а фича – 6 ситуаций, с которыми должен справляться каждый QA инженер](https://habr.com/ru/articles/797795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797795)
+- [Полезные ресурсы для тестировщиков](https://habr.com/ru/articles/797643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797643)
+- [Проверяем Blender](https://habr.com/ru/companies/pvs-studio/articles/797851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797851)
 <!-- BLOG-POST-LIST:END -->
 
 ---
