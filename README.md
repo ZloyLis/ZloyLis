@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сложные проекты для программистов, чтобы учиться новому](https://habr.com/ru/articles/797591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797591)
+- [Small talk для большого успеха: общение с рекрутером, коллегами и новыми знакомыми](https://habr.com/ru/companies/yandex_praktikum/articles/792588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792588)
 - [Асинхронная работа с файловой системой в Vert.x](https://habr.com/ru/companies/otus/articles/794484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794484)
 - [Рекомендации при работе с PostgreSQL](https://habr.com/ru/articles/794839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794839)
 - [[Перевод] Continuations для взаимодействия асинхронных задач с синхронным кодом](https://habr.com/ru/articles/797735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797735)
-- [Мобильная разработка за неделю #528 &lpar;26 февраля — 3 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/797733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797733)
-- [Наш опыт Android и iOS разработки в проекте](https://habr.com/ru/companies/nfckey/articles/797683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797683)
 <!-- BLOG-POST-LIST:END -->
 
 ---
