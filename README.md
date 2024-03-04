@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как преодолеть Intermediate Plateau: 5 советов преподавателя](https://habr.com/ru/articles/798063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798063)
 - [[Перевод] Я полностью слеп и я сам себе техподдержка](https://habr.com/ru/articles/797571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797571)
 - [Lorem](https://habr.com/ru/articles/798037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798037)
 - [DotaDiviner — инструмент-аналитик и проводник по Dota 2](https://habr.com/ru/articles/798033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798033)
 - [Security Week 2410: проблемы високосного года](https://habr.com/ru/companies/kaspersky/articles/797893/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797893)
-- [[Перевод] Типы-расширения в Dart](https://habr.com/ru/articles/798009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
