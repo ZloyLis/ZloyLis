@@ -28,7 +28,7 @@ ___  -->
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Я полностью слеп и я сам себе техподдержка](https://habr.com/ru/articles/797571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797571)
-- [Создание Меню Бара с PyQt5 и Tkinter в Python](https://habr.com/ru/articles/798037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798037)
+- [Lorem](https://habr.com/ru/articles/798037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798037)
 - [DotaDiviner — инструмент-аналитик и проводник по Dota 2](https://habr.com/ru/articles/798033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798033)
 - [Security Week 2410: проблемы високосного года](https://habr.com/ru/companies/kaspersky/articles/797893/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797893)
 - [[Перевод] Типы-расширения в Dart](https://habr.com/ru/articles/798009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798009)
