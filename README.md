@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто первым записал сплайн-функцию? Как техническая механика  «предвосхитила» достижения теории сплайнов](https://habr.com/ru/articles/797545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797545)
 - [Книга «Объектно-ориентированный Python, 4-е изд.»](https://habr.com/ru/companies/piter/articles/797157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797157)
 - [Изучение Java в 2024 году: что стоит почитать. 6 книг, которые можно рекомендовать](https://habr.com/ru/companies/ru_mts/articles/797905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797905)
 - [Основные возможности кластеризации Patroni в PostgresSQL](https://habr.com/ru/companies/otus/articles/797135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797135)
 - [От Cache до Middleware: эволюция Tarantool](https://habr.com/ru/companies/vk/articles/796603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796603)
-- [Кэширование кода в веб-приложениях](https://habr.com/ru/articles/797885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797885)
 <!-- BLOG-POST-LIST:END -->
 
 ---
