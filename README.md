@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему я бросил свою сеть по ремонту телефонов и причем здесь Онлифанс](https://habr.com/ru/articles/798001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798001)
+- [Как выбрать удобный редактор кода для Python: руководство для разработчиков](https://habr.com/ru/articles/797993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797993)
+- [Сравнение различных схем квантования для LLM](https://habr.com/ru/articles/797443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797443)
 - [Создание игры «Змейка» с использованием Pygame: Пошаговое руководство](https://habr.com/ru/articles/797983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797983)
 - [[Перевод] Что это за устройство у меня в комнате?](https://habr.com/ru/companies/ruvds/articles/797945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797945)
-- [Pkl — новый язык конфигураций от Apple. Обзор и сравнение с YAML и JSON](https://habr.com/ru/companies/selectel/articles/797917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797917)
-- [Кто первым записал сплайн-функцию? Как техническая механика  «предвосхитила» достижения теории сплайнов](https://habr.com/ru/articles/797545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797545)
-- [Книга «Объектно-ориентированный Python, 4-е изд.»](https://habr.com/ru/companies/piter/articles/797157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797157)
 <!-- BLOG-POST-LIST:END -->
 
 ---
