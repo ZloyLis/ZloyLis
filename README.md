@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что научные исследователи знают про темные паттерны в дизайне](https://habr.com/ru/articles/797829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797829)
+- [Как расширить возможности стандартного Enum](https://habr.com/ru/articles/798097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798097)
+- [Что такое архитектура приложений MACH и есть ли там технологический прорыв — кроме пиара и маркетинга](https://habr.com/ru/companies/ssp-soft/articles/797895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797895)
 - [[Перевод] Что нового в планировщике / оптимизаторе запросов Postgres 16](https://habr.com/ru/articles/798043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798043)
 - [Как я перестал бояться и полюбил автоматизацию мобильных приложений — Robot Framework](https://habr.com/ru/companies/yandex_praktikum/articles/794064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794064)
-- [Apple Pro Weekly News &lpar;26.02 – 03.03.24&rpar;](https://habr.com/ru/articles/798075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798075)
-- [Цена качества модели](https://habr.com/ru/articles/798077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798077)
-- [Как преодолеть Intermediate Plateau: 5 советов преподавателя](https://habr.com/ru/articles/798063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798063)
 <!-- BLOG-POST-LIST:END -->
 
 ---
