@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимальный архитектурный шаблон iOS](https://habr.com/ru/articles/798275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798275)
 - [Как я ad-hoc задачи аналитиков автоматизировал](https://habr.com/ru/companies/tinkoff/articles/798235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798235)
 - [[Перевод] Программированию конец?](https://habr.com/ru/articles/798223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798223)
 - [[Перевод] Навигация по страницам | Flutter](https://habr.com/ru/articles/798239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798239)
 - [Бобры-п[р]огромисты](https://habr.com/ru/articles/798237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798237)
-- [Деплоим сайт в облако за рубль в месяц](https://habr.com/ru/companies/selectel/articles/798183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798183)
 <!-- BLOG-POST-LIST:END -->
 
 ---
