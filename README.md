@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как защитить бизнес при внедрении LLM &lpar;часть 1&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/796247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796247)
+- [Подкаст «Скрамное IT»: о чем говорят айтишники &lpar;и что они недоговаривают&rpar;](https://habr.com/ru/companies/reksoft/articles/798003/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798003)
+- [Как перестать переусложнять и начать жить](https://habr.com/ru/articles/798149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798149)
 - [Прямое моделирование: изменение топологии и адаптация скруглений](https://habr.com/ru/companies/ascon/articles/788260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788260)
 - [Дави жуков](https://habr.com/ru/companies/domclick/articles/797779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797779)
-- [Gemini ➜ OpenAI API прокси. Serverless](https://habr.com/ru/articles/798123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798123)
-- [Что научные исследователи знают про темные паттерны в дизайне](https://habr.com/ru/articles/797829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797829)
-- [Как расширить возможности стандартного Enum](https://habr.com/ru/articles/798097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
