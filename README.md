@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деплоим сайт в облако за рубль в месяц](https://habr.com/ru/companies/selectel/articles/798183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798183)
+- [Как правильно написать скрипт для виртуального ассистента](https://habr.com/ru/companies/ru_mts/articles/798157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798157)
 - [ИИ и безопасность](https://habr.com/ru/articles/798191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798191)
 - [Как мы решали задачу оптимизации доставки грузов с использованием численных методов на примере метода имитации отжига](https://habr.com/ru/companies/lanit/articles/796513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796513)
 - [Как защитить бизнес при внедрении LLM &lpar;часть 1&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/796247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796247)
-- [Подкаст «Скрамное IT»: о чем говорят айтишники &lpar;и что они недоговаривают&rpar;](https://habr.com/ru/companies/reksoft/articles/798003/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798003)
-- [Как перестать переусложнять и начать жить](https://habr.com/ru/articles/798149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
