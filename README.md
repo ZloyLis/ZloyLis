@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Программированию конец?](https://habr.com/ru/articles/798223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798223)
+- [[Перевод] Навигация по страницам | Flutter](https://habr.com/ru/articles/798239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798239)
+- [Бобры-п[р]огромисты](https://habr.com/ru/articles/798237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798237)
 - [Деплоим сайт в облако за рубль в месяц](https://habr.com/ru/companies/selectel/articles/798183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798183)
 - [Как правильно написать скрипт для виртуального ассистента](https://habr.com/ru/companies/ru_mts/articles/798157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798157)
-- [ИИ и безопасность](https://habr.com/ru/articles/798191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798191)
-- [Как мы решали задачу оптимизации доставки грузов с использованием численных методов на примере метода имитации отжига](https://habr.com/ru/companies/lanit/articles/796513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796513)
-- [Как защитить бизнес при внедрении LLM &lpar;часть 1&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/796247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
