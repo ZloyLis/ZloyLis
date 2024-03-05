@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В общих словах про ЯП Dart](https://habr.com/ru/companies/otus/articles/796585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796585)
+- [Как провести мероприятие для бизнеса и не превратить его в говорильню с перерывом на кофебрейк](https://habr.com/ru/articles/798287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798287)
+- [СКС для дата-центров: тренды 2024](https://habr.com/ru/articles/798291/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798291)
 - [Оптимальный архитектурный шаблон iOS](https://habr.com/ru/companies/wildberries/articles/798275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798275)
 - [Как я ad-hoc задачи аналитиков автоматизировал](https://habr.com/ru/companies/tinkoff/articles/798235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798235)
-- [[Перевод] Программированию конец?](https://habr.com/ru/articles/798223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798223)
-- [[Перевод] Навигация по страницам | Flutter](https://habr.com/ru/articles/798239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798239)
-- [Бобры-п[р]огромисты](https://habr.com/ru/articles/798237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798237)
 <!-- BLOG-POST-LIST:END -->
 
 ---
