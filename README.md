@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обсидиан. От простой структуры к сложной и обратно. Часть 2](https://habr.com/ru/articles/798309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798309)
+- [Превращение событий PostgreSQL в события Laravel](https://habr.com/ru/articles/798203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798203)
+- [Obsidian. Путь от простой структуры к сложной и обратно. Часть 2](https://habr.com/ru/articles/798309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798309)
 - [В общих словах про ЯП Dart](https://habr.com/ru/companies/otus/articles/796585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796585)
 - [Как провести мероприятие для бизнеса и не превратить его в говорильню с перерывом на кофебрейк](https://habr.com/ru/articles/798287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798287)
 - [СКС для дата-центров: тренды 2024](https://habr.com/ru/articles/798291/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798291)
-- [Оптимальный архитектурный шаблон iOS](https://habr.com/ru/companies/wildberries/articles/798275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798275)
 <!-- BLOG-POST-LIST:END -->
 
 ---
