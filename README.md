@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ и безопасность](https://habr.com/ru/articles/798191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798191)
+- [Как мы решали задачу оптимизации доставки грузов с использованием численных методов на примере метода имитации отжига](https://habr.com/ru/companies/lanit/articles/796513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796513)
 - [Как защитить бизнес при внедрении LLM &lpar;часть 1&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/796247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796247)
 - [Подкаст «Скрамное IT»: о чем говорят айтишники &lpar;и что они недоговаривают&rpar;](https://habr.com/ru/companies/reksoft/articles/798003/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798003)
 - [Как перестать переусложнять и начать жить](https://habr.com/ru/articles/798149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798149)
-- [Прямое моделирование: изменение топологии и адаптация скруглений](https://habr.com/ru/companies/ascon/articles/788260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788260)
-- [Дави жуков](https://habr.com/ru/companies/domclick/articles/797779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
