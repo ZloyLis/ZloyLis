@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тест на секретную вечеринку Финтеха Яндекса, — ночь в финтехе](https://habr.com/ru/articles/798505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798505)
+- [[Перевод] Основы управления состояниями во Flutter](https://habr.com/ru/articles/798503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798503)
 - [[Перевод] Итак, вы унаследовали старую кодовую базу на C++. Что дальше?](https://habr.com/ru/companies/ruvds/articles/798453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798453)
 - [Оценка внедрения архитектуры Jamstack в веб-разработке: тематические исследования реальных приложений](https://habr.com/ru/articles/798477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798477)
 - [Проводим и проходим собеседование по системному дизайну](https://habr.com/ru/companies/vk/articles/798391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798391)
-- [Почему я возмущен хабрапостом на 75 минут, или Вы неправильно нанимаете DevOps](https://habr.com/ru/companies/kaspersky/articles/795547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795547)
-- [Как увеличить шрифт так, чтобы контейнер не поехал? Адаптация UI/UX для людей с проблемами зрения в XML и Compose](https://habr.com/ru/articles/798473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798473)
 <!-- BLOG-POST-LIST:END -->
 
 ---
