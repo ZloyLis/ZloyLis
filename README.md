@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Итак, вы унаследовали старую кодовую базу на C++. Что дальше?](https://habr.com/ru/companies/ruvds/articles/798453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798453)
+- [Оценка внедрения архитектуры Jamstack в веб-разработке: тематические исследования реальных приложений](https://habr.com/ru/articles/798477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798477)
+- [Проводим и проходим собеседование по системному дизайну](https://habr.com/ru/companies/vk/articles/798391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798391)
 - [Почему я возмущен хабрапостом на 75 минут, или Вы неправильно нанимаете DevOps](https://habr.com/ru/companies/kaspersky/articles/795547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795547)
 - [Как увеличить шрифт так, чтобы контейнер не поехал? Адаптация UI/UX для людей с проблемами зрения в XML и Compose](https://habr.com/ru/articles/798473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798473)
-- [Гонка за скоростью: сравнение производительности ведущих фреймворков JavaScript в веб-разработке. Fastify, Express, Koa](https://habr.com/ru/articles/798469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798469)
-- [На стороне своих правил в ESlint](https://habr.com/ru/companies/beeline_tech/articles/797937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797937)
-- [Валидация данных на уровне бизнес-логики приложения](https://habr.com/ru/articles/798465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
