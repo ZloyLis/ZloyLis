@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книга «Дизайн для разработчиков»](https://habr.com/ru/companies/piter/articles/798385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798385)
-- [WaveSync: Новый путь к нелинейному анализу эмбеддингов](https://habr.com/ru/articles/798447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798447)
-- [Karpenter — умное масштабирование Kubernetes кластера](https://habr.com/ru/articles/798319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798319)
-- [Как защитить бизнес при внедрении LLM &lpar;часть 2&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/796827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796827)
-- [Подробный гайд: Как собрать дашборд в FineBI за 30 минут](https://habr.com/ru/companies/glowbyte/articles/798411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798411)
+- [Почему я возмущен хабрапостом на 75 минут, или Вы неправильно нанимаете DevOps](https://habr.com/ru/companies/kaspersky/articles/795547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795547)
+- [Как увеличить шрифт так, чтобы контейнер не поехал? Адаптация UI/UX для людей с проблемами зрения в XML и Compose](https://habr.com/ru/articles/798473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798473)
+- [Гонка за скоростью: сравнение производительности ведущих фреймворков JavaScript в веб-разработке. Fastify, Express, Koa](https://habr.com/ru/articles/798469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798469)
+- [На стороне своих правил в ESlint](https://habr.com/ru/companies/beeline_tech/articles/797937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797937)
+- [Валидация данных на уровне бизнес-логики приложения](https://habr.com/ru/articles/798465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
