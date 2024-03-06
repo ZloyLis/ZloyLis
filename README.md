@@ -28,10 +28,10 @@ ___  -->
 
 <!-- BLOG-POST-LIST:START -->
 - [Как вообще этот ваш CI CD настроить](https://habr.com/ru/articles/798551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798551)
+- [Отрицание, гнев, торг, депрессия, новый сервис — как переключить коллег с Excel на другой инструмент, если ты техлид](https://habr.com/ru/companies/pgk/articles/797903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797903)
 - [Flowise: доступ к AI без кода](https://habr.com/ru/articles/798533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798533)
 - [[Перевод] Полезные расширения VScode для работы с документацией](https://habr.com/ru/companies/agima/articles/798523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798523)
 - [Зимние новинки от Honor: стильные и надёжные смартфоны для работы и не только](https://habr.com/ru/companies/ru_mts/articles/798529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798529)
-- [Тест на секретную вечеринку Яндекса, — ночь в финтехе](https://habr.com/ru/articles/798505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798505)
 <!-- BLOG-POST-LIST:END -->
 
 ---
