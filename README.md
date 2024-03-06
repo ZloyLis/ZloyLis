@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flowise: доступ к AI без кода](https://habr.com/ru/articles/798533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798533)
 - [[Перевод] Полезные расширения VScode для работы с документацией](https://habr.com/ru/companies/agima/articles/798523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798523)
 - [Зимние новинки от Honor: стильные и надёжные смартфоны для работы и не только](https://habr.com/ru/companies/ru_mts/articles/798529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798529)
-- [Тест на секретную вечеринку Финтеха Яндекса, — ночь в финтехе](https://habr.com/ru/articles/798505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798505)
+- [Тест на секретную вечеринку Яндекса, — ночь в финтехе](https://habr.com/ru/articles/798505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798505)
 - [[Перевод] Основы управления состояниями во Flutter](https://habr.com/ru/articles/798503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798503)
-- [[Перевод] Итак, вы унаследовали старую кодовую базу на C++. Что дальше?](https://habr.com/ru/companies/ruvds/articles/798453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798453)
 <!-- BLOG-POST-LIST:END -->
 
 ---
