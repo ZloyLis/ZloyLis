@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как защитить бизнес при внедрении LLM &lpar;часть 2&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/796827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796827)
+- [Подробный гайд: Как собрать дашборд в FineBI за 30 минут](https://habr.com/ru/companies/glowbyte/articles/798411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798411)
+- [Авторизация и управление доступом на основе ролей для фронтенда](https://habr.com/ru/articles/798403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798403)
 - [Компоненты алгоритма рекомендаций «Сопутствующие товары» в e-commerce](https://habr.com/ru/companies/retailrocket/articles/798217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798217)
 - [Анатомия StyleX](https://habr.com/ru/companies/timeweb/articles/795473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795473)
-- [[Перевод] SQL в качестве API](https://habr.com/ru/companies/timeweb/articles/797985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797985)
-- [Путь от монолита к разделению Compute и Storage: пример поиска «хранилища мечты» для большой аналитической платформы](https://habr.com/ru/companies/vk/articles/797481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797481)
-- [Система иконок на React](https://habr.com/ru/articles/798367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798367)
 <!-- BLOG-POST-LIST:END -->
 
 ---
