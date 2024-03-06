@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга «Дизайн для разработчиков»](https://habr.com/ru/companies/piter/articles/798385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798385)
+- [WaveSync: Новый путь к нелинейному анализу эмбеддингов](https://habr.com/ru/articles/798447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798447)
 - [Karpenter — умное масштабирование Kubernetes кластера](https://habr.com/ru/articles/798319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798319)
 - [Как защитить бизнес при внедрении LLM &lpar;часть 2&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/796827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796827)
 - [Подробный гайд: Как собрать дашборд в FineBI за 30 минут](https://habr.com/ru/companies/glowbyte/articles/798411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798411)
-- [Авторизация и управление доступом на основе ролей для фронтенда](https://habr.com/ru/articles/798403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798403)
-- [Компоненты алгоритма рекомендаций «Сопутствующие товары» в e-commerce](https://habr.com/ru/companies/retailrocket/articles/798217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798217)
 <!-- BLOG-POST-LIST:END -->
 
 ---
