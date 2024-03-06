@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Секреты тестирования Wiren Board:  test-suite и крафтовые стенды](https://habr.com/ru/companies/wirenboard/articles/798325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798325)
-- [Тест-дизайн на практике: комбинируем разные техники тестирования, на примере проверки систем оплаты](https://habr.com/ru/companies/petrovich-tech/articles/798347/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798347)
-- [Превращение событий PostgreSQL в события Laravel](https://habr.com/ru/articles/798203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798203)
-- [Obsidian. Путь от простой структуры к сложной и обратно. Часть 2](https://habr.com/ru/articles/798309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798309)
-- [В общих словах про ЯП Dart](https://habr.com/ru/companies/otus/articles/796585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796585)
+- [Компоненты алгоритма рекомендаций «Сопутствующие товары» в e-commerce](https://habr.com/ru/companies/retailrocket/articles/798217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798217)
+- [Анатомия StyleX](https://habr.com/ru/companies/timeweb/articles/795473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795473)
+- [[Перевод] SQL в качестве API](https://habr.com/ru/companies/timeweb/articles/797985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797985)
+- [Путь от монолита к разделению Compute и Storage: пример поиска «хранилища мечты» для большой аналитической платформы](https://habr.com/ru/companies/vk/articles/797481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797481)
+- [Система иконок на React](https://habr.com/ru/articles/798367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798367)
 <!-- BLOG-POST-LIST:END -->
 
 ---
