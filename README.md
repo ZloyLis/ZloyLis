@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Гайд по публичным выступлениям для программистов](https://habr.com/ru/companies/ncloudtech/articles/798693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798693)
+- [Как научить поиск мобильного приложения распознавать точные и ошибочные запросы](https://habr.com/ru/companies/friflex/articles/798743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798743)
 - [[Перевод] Погубит ли Java 22 сборочные инструменты?](https://habr.com/ru/companies/piter/articles/798761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798761)
 - [CSS для печати на бумаге](https://habr.com/ru/articles/798765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798765)
 - [Как джуну отрастить софты: советы и реальные истории. Часть 2. Отвечать за результат](https://habr.com/ru/companies/mindbox/articles/798741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798741)
-- [Java Digest # 10](https://habr.com/ru/companies/tinkoff/articles/798673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798673)
-- [Руководство для тимлидов: планирование, Agile и вот это всё](https://habr.com/ru/companies/vk/articles/797485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797485)
 <!-- BLOG-POST-LIST:END -->
 
 ---
