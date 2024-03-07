@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Погубит ли Java 22 сборочные инструменты?](https://habr.com/ru/companies/piter/articles/798761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798761)
+- [CSS для печати на бумаге](https://habr.com/ru/articles/798765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798765)
+- [Как джуну отрастить софты: советы и реальные истории. Часть 2. Отвечать за результат](https://habr.com/ru/companies/mindbox/articles/798741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798741)
 - [Java Digest # 10](https://habr.com/ru/companies/tinkoff/articles/798673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798673)
 - [Руководство для тимлидов: планирование, Agile и вот это всё](https://habr.com/ru/companies/vk/articles/797485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797485)
-- [Странные осцилляции в казалось бы простой числовой последовательности](https://habr.com/ru/articles/798733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798733)
-- [Что можно и стоит писать в поле Pre-conditions в тест-кейсах](https://habr.com/ru/articles/798711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798711)
-- [GET запросы на практике: правила, принципы и примеры](https://habr.com/ru/companies/X5Tech/articles/798681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
