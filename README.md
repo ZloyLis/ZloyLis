@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что можно и стоит писать в поле Pre-conditions в тест-кейсах](https://habr.com/ru/articles/798711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798711)
 - [GET запросы на практике: правила, принципы и примеры](https://habr.com/ru/companies/X5Tech/articles/798681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798681)
 - [Чек-лист для бизнеса: что нужно сделать перед началом разработки сайта](https://habr.com/ru/articles/798679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798679)
 - [Смотрим как работает RVO C++ в gcc](https://habr.com/ru/articles/798677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798677)
 - [Emcee — тест-раннер для запуска автотестов на Android и iOS: как работает, и какие проблемы помогает решить](https://habr.com/ru/companies/avito/articles/798433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798433)
-- [Apache Flink: динамическое определение выходного топика в Kafka](https://habr.com/ru/companies/ru_mts/articles/798667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798667)
 <!-- BLOG-POST-LIST:END -->
 
 ---
