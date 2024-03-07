@@ -27,11 +27,11 @@ ___  -->
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильные экранчики в ваших проектах: большой и понятный о гайд о различных дисплеях](https://habr.com/ru/companies/timeweb/articles/797329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797329)
+- [15+ полезных ссылок для начинающего специалиста по Data Science](https://habr.com/ru/companies/yandex_praktikum/articles/798193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798193)
 - [Обзор Simulator — платформы для обучения инженеров безопасности Kubernetes с помощью CTF-сценариев](https://habr.com/ru/companies/flant/articles/798599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798599)
 - [Фаззинг библиотек](https://habr.com/ru/articles/798591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798591)
 - [Доклады о системном и бизнес-анализе: что было на Flow и что будет](https://habr.com/ru/companies/jugru/articles/798565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798565)
-- [Как вообще этот ваш CI CD настроить](https://habr.com/ru/articles/798551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798551)
-- [Отрицание, гнев, торг, депрессия, новый сервис — как переключить коллег с Excel на другой инструмент, если ты техлид](https://habr.com/ru/companies/pgk/articles/797903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797903)
 <!-- BLOG-POST-LIST:END -->
 
 ---
