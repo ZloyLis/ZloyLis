@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильные экранчики в ваших проектах: большой и понятный о гайд о различных дисплеях](https://habr.com/ru/companies/timeweb/articles/797329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797329)
-- [15+ полезных ссылок для начинающего специалиста по Data Science](https://habr.com/ru/companies/yandex_praktikum/articles/798193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798193)
-- [Обзор Simulator — платформы для обучения инженеров безопасности Kubernetes с помощью CTF-сценариев](https://habr.com/ru/companies/flant/articles/798599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798599)
-- [Фаззинг библиотек](https://habr.com/ru/articles/798591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798591)
-- [Доклады о системном и бизнес-анализе: что было на Flow и что будет](https://habr.com/ru/companies/jugru/articles/798565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798565)
+- [Emcee — тест-раннер для запуска автотестов на Android и iOS: как работает, и какие проблемы помогает решить](https://habr.com/ru/companies/avito/articles/798433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798433)
+- [Apache Flink: динамическое определение выходного топика в Kafka](https://habr.com/ru/companies/ru_mts/articles/798667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798667)
+- [Цифровое образование: возможности, угрозы и вызовы](https://habr.com/ru/articles/798061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798061)
+- [Нарушаем ограничения файловых систем *NIX](https://habr.com/ru/companies/selectel/articles/798329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798329)
+- [[Перевод] Это слишком опасно для C++](https://habr.com/ru/articles/793868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
