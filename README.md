@@ -29,7 +29,7 @@ ___
 - [[Перевод] Гайд по публичным выступлениям для программистов](https://habr.com/ru/companies/ncloudtech/articles/798693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798693)
 - [Как научить поиск мобильного приложения распознавать точные и ошибочные запросы](https://habr.com/ru/companies/friflex/articles/798743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798743)
 - [[Перевод] Погубит ли Java 22 сборочные инструменты?](https://habr.com/ru/companies/piter/articles/798761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798761)
-- [CSS для печати на бумаге](https://habr.com/ru/articles/798765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798765)
+- [[Перевод] CSS для печати на бумаге](https://habr.com/ru/articles/798765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798765)
 <!-- BLOG-POST-LIST:END -->
 
 ---
