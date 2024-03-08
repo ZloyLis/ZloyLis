@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обрести самостоятельность, перестать быть Мидлом QA и мыслить как Сеньор](https://habr.com/ru/articles/798947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798947)
 - [Смена профессии и мой первый опыт в IT: путешествие в мир фронтенда с Tauri, REST и Fetch API](https://habr.com/ru/articles/798941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798941)
 - [Итерируемся по enum&#39;ам в C++](https://habr.com/ru/articles/798929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798929)
 - [Zustand.js: современный, невесомый, производительный и очень гибкий state manager](https://habr.com/ru/articles/798923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798923)
 - [Spring Security 6. Авторизация и аутентификация на основе Базы данных](https://habr.com/ru/articles/798921/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798921)
-- [[Перевод] Как работает код, который спит месяц](https://habr.com/ru/companies/ruvds/articles/798437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
