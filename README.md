@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Написание слоя API в приложении — это прошлый век! Встречайте универсальный прокси](https://habr.com/ru/articles/798887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798887)
 - [SwiftUI уроки &lpar;часть 3&rpar;](https://habr.com/ru/articles/798857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798857)
 - [[Перевод] Joomla на FOSDEM 2024: запуск Альянса открытых веб-сайтов](https://habr.com/ru/articles/798295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798295)
 - [Android-приложение на Compose с нуля: Часть 1 &lpar;Прототипирование&rpar;](https://habr.com/ru/articles/798755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798755)
 - [[Перевод] Работа со временем и датой в C# с применением библиотеки Humanizer](https://habr.com/ru/companies/otus/articles/798715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798715)
-- [[Перевод] Гайд по публичным выступлениям для программистов](https://habr.com/ru/companies/ncloudtech/articles/798693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798693)
 <!-- BLOG-POST-LIST:END -->
 
 ---
