@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Корутины C++ для чайников: пишем асинхронный веб-клиент](https://habr.com/ru/articles/798935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798935)
+- [По граблям, по граблям. Пишем отзывчивый интерактивный виджет IOS 17](https://habr.com/ru/articles/798925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798925)
 - [Как пройти собеседование на позицию системного аналитика в 2024 году](https://habr.com/ru/articles/798953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798953)
 - [Как обрести самостоятельность, перестать быть Мидлом QA и мыслить как Сеньор](https://habr.com/ru/articles/798947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798947)
 - [Смена профессии и мой первый опыт в IT: путешествие в мир фронтенда с Tauri, REST и Fetch API](https://habr.com/ru/articles/798941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798941)
-- [Zustand.js: современный, невесомый, производительный и очень гибкий state manager](https://habr.com/ru/articles/798923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798923)
-- [Spring Security 6. Авторизация и аутентификация на основе Базы данных](https://habr.com/ru/articles/798921/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798921)
 <!-- BLOG-POST-LIST:END -->
 
 ---
