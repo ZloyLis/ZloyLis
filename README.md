@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как работает код, который спит месяц](https://habr.com/ru/companies/ruvds/articles/798437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798437)
 - [Переезд с Ubuntu 18.04 на 20.04 в подсистеме WSL](https://habr.com/ru/articles/798911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798911)
 - [[Перевод] Почему Facebook* не использует Git](https://habr.com/ru/articles/798881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798881)
 - [[Перевод] Разделение задач резервного копирования и удаления устаревших копий в PostgreSQL при помощи pgBackRest](https://habr.com/ru/companies/otus/articles/798717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798717)
 - [Написание слоя API в приложении — это прошлый век! Встречайте универсальный прокси](https://habr.com/ru/articles/798887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798887)
-- [SwiftUI уроки &lpar;часть 3&rpar;](https://habr.com/ru/articles/798857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798857)
 <!-- BLOG-POST-LIST:END -->
 
 ---
