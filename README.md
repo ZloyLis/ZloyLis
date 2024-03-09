@@ -25,7 +25,7 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ложь по спасение в попытке доказать что клиент мамонт или как Тинькофф врет и ЦБ РФ и суду](https://habr.com/ru/articles/799083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799083)
+- [Ложь по спасение в попытке доказать, что клиент мамонт или как Тинькофф врет и ЦБ РФ и суду](https://habr.com/ru/articles/799083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799083)
 - [Автодокументация Doxygen и её развертывание на GitHub Pages](https://habr.com/ru/articles/799051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799051)
 - [[Перевод] Как работать с помощью разных ИИ прямо в VSCode: AIConfig Editor](https://habr.com/ru/articles/799023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799023)
 - [Внедрение библиотеки навигации Modo в многомодульный Compose проект](https://habr.com/ru/articles/799033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799033)
