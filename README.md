@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Из Windows 11 неожиданно убирают Windows Subsystem for Android. Что происходит и почему?](https://habr.com/ru/companies/ru_mts/articles/798789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798789)
 - [В чем же различие дорогого сайта от бюджетного](https://habr.com/ru/articles/798973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798973)
 - [Корутины C++ для чайников: пишем асинхронный веб-клиент](https://habr.com/ru/articles/798935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798935)
 - [По граблям, по граблям. Пишем отзывчивый интерактивный виджет IOS 17](https://habr.com/ru/articles/798925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798925)
 - [Как пройти собеседование на позицию системного аналитика в 2024 году](https://habr.com/ru/articles/798953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798953)
-- [Как обрести самостоятельность, перестать быть Мидлом QA и мыслить как Сеньор](https://habr.com/ru/articles/798947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798947)
 <!-- BLOG-POST-LIST:END -->
 
 ---
