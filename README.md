@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стать QA инженером в 2024 году и начать зарабатывать первые деньги?](https://habr.com/ru/articles/799005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799005)
 - [Монорепозиторий с pnpm и typescript для фронтенда на React и бэкенда на Node.js](https://habr.com/ru/articles/798995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798995)
 - [[Перевод] Как калькуляторы вычисляют синус?](https://habr.com/ru/articles/798991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798991)
 - [Из Windows 11 неожиданно убирают Windows Subsystem for Android. Что происходит и почему?](https://habr.com/ru/companies/ru_mts/articles/798789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798789)
 - [В чем же различие дорогого сайта от бюджетного](https://habr.com/ru/articles/798973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798973)
-- [Корутины C++ для чайников: пишем асинхронный веб-клиент](https://habr.com/ru/articles/798935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798935)
 <!-- BLOG-POST-LIST:END -->
 
 ---
