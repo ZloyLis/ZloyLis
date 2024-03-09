@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрение библиотеки навигации Modo в многомодульный Compose проект](https://habr.com/ru/articles/799033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799033)
 - [Паттерн Aggregate Outside](https://habr.com/ru/articles/799019/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799019)
 - [Стать QA инженером в 2024 году и начать зарабатывать первые деньги?](https://habr.com/ru/articles/799005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799005)
 - [Монорепозиторий с pnpm и typescript для фронтенда на React и бэкенда на Node.js](https://habr.com/ru/articles/798995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798995)
 - [[Перевод] Как калькуляторы вычисляют синус?](https://habr.com/ru/articles/798991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798991)
-- [Из Windows 11 неожиданно убирают Windows Subsystem for Android. Что происходит и почему?](https://habr.com/ru/companies/ru_mts/articles/798789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798789)
 <!-- BLOG-POST-LIST:END -->
 
 ---
