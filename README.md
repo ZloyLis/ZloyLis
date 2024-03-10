@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я случайно превратила свой сокращатель ссылок в приманку для мошенников](https://habr.com/ru/companies/ruvds/articles/798649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798649)
+- [Рисуем эффект «Таноса» на Android &lpar;и не только&rpar;](https://habr.com/ru/articles/799163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799163)
 - [Дизайн-разбор ссылок в вёрстке](https://habr.com/ru/articles/799159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799159)
 - [Семантические ловушки асинхронности: Ключи к разгадке и эффективному освоению тем Task, Синхронность, Асинхронность](https://habr.com/ru/articles/799145/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799145)
 - [Создание генетического алгоритма для нейросети и нейроcети для графических игр с помощью Python и NumPy](https://habr.com/ru/articles/799123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799123)
-- [[Перевод] SQL в качестве API](https://habr.com/ru/companies/timeweb/articles/798937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798937)
-- [Подготовка к конкурсу портфолио для магистратуры университета ИТМО](https://habr.com/ru/articles/799119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
