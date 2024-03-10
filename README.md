@@ -29,7 +29,7 @@ ___
 - [Создание генетического алгоритма для нейросети и нейроcети для графических игр с помощью Python и NumPy](https://habr.com/ru/articles/799123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799123)
 - [[Перевод] SQL в качестве API](https://habr.com/ru/companies/timeweb/articles/798937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798937)
 - [Подготовка к конкурсу портфолио для магистратуры университета ИТМО](https://habr.com/ru/articles/799119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799119)
-- [«Физика для программистов» — как физтехи применяют её в приложениях. Бросок объекта под уголом к горизонту](https://habr.com/ru/articles/799117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799117)
+- [«Физика для программистов» — как физтехи применяют её в приложениях. Бросок объекта под углом к горизонту](https://habr.com/ru/articles/799117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799117)
 <!-- BLOG-POST-LIST:END -->
 
 ---
