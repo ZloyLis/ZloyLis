@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я обработал один миллиард строк в PHP](https://habr.com/ru/companies/bothub/articles/799469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799469)
 - [Xiaomi Redmi Note 13 и Redmi Note 13 Pro: универсальные телефоны на все случаи жизни. На что они способны?](https://habr.com/ru/companies/ru_mts/articles/799411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799411)
 - [Приложение викторины: внедрение Cardoteka и основные паттерны проектирования с Riverpod](https://habr.com/ru/articles/799437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799437)
 - [Android-приложение на Compose с нуля: Часть 2 &lpar;UI&rpar;](https://habr.com/ru/articles/798981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798981)
 - [Web3 приложение Twitter на React.js + Solidity | часть 1](https://habr.com/ru/articles/799407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799407)
-- [Бьемся с индексацией парных неравенств в PostgreSQL](https://habr.com/ru/companies/tensor/articles/799225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799225)
 <!-- BLOG-POST-LIST:END -->
 
 ---
