@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модульность в JavaScript: CommonJS, AMD, ES Modules](https://habr.com/ru/companies/otus/articles/798455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798455)
+- [Scram для создания аппаратуры. Проект по созданию системы тестирования ADAS или краткая история 8 месяцев нашей жизни](https://habr.com/ru/articles/799289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799289)
+- [KatWalk C2: начинаем погружение](https://habr.com/ru/articles/799197/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799197)
 - [Как сверстать письмо, чтобы оно дошло до получателя таким, как задумано](https://habr.com/ru/companies/kts/articles/798615/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798615)
 - [Как мы разрабатываем игры для Pixel Quest, публикуем исходники и делимся частью выручки](https://habr.com/ru/articles/799205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799205)
-- [Какой язык программирования выбрать? Обзор на Go](https://habr.com/ru/companies/kryptonite/articles/798703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798703)
-- [Minimal Phone, смартфон с e-Ink-экраном и QWERTY-клавиатурой, всё ближе к реальности. Перспективы девайса](https://habr.com/ru/companies/ru_mts/articles/799253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799253)
-- [Класс коннектор для Диадок API на Python](https://habr.com/ru/articles/799247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799247)
 <!-- BLOG-POST-LIST:END -->
 
 ---
