@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы разрабатываем игры для Pixel Quest, публикуем исходники и делимся частью выручки](https://habr.com/ru/articles/799205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799205)
+- [Какой язык программирования выбрать? Обзор на Go](https://habr.com/ru/companies/kryptonite/articles/798703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798703)
+- [Minimal Phone, смартфон с e-Ink-экраном и QWERTY-клавиатурой, всё ближе к реальности. Перспективы девайса](https://habr.com/ru/companies/ru_mts/articles/799253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799253)
+- [Класс коннектор для Диадок API на Python](https://habr.com/ru/articles/799247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799247)
 - [[Перевод] Методы-расширения в Dart](https://habr.com/ru/articles/799237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799237)
-- [Сборка мусора в V8](https://habr.com/ru/articles/799067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799067)
-- [Правильный подход к модульной архитектуре](https://habr.com/ru/articles/799169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799169)
-- [Схемы шардинга в PostgreSQL](https://habr.com/ru/companies/otus/articles/797981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797981)
-- [CI/CD Kubernetes платформа Gitorion. Создаем замену GitLab CI на базе OpenSource-инструментов](https://habr.com/ru/articles/797533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797533)
 <!-- BLOG-POST-LIST:END -->
 
 ---
