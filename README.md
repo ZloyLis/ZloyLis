@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бьемся с индексацией парных неравенств в планах PostgreSQL](https://habr.com/ru/companies/tensor/articles/799225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799225)
 - [Bazel, stamping, remote cache &lpar;часть 2&rpar;](https://habr.com/ru/companies/joom/articles/799201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799201)
 - [[Перевод] Трансформеры, группы преобразований и self-attention](https://habr.com/ru/companies/wunderfund/articles/799189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799189)
 - [Динозаврик из Google перешёл в консоль](https://habr.com/ru/articles/799309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799309)
 - [Как я чтение всего контента на RSS переводил](https://habr.com/ru/articles/799301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799301)
-- [Модульность в JavaScript: CommonJS, AMD, ES Modules](https://habr.com/ru/companies/otus/articles/798455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798455)
 <!-- BLOG-POST-LIST:END -->
 
 ---
