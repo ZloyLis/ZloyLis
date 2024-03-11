@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Методы-расширения в Dart](https://habr.com/ru/articles/799237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799237)
+- [Сборка мусора в V8](https://habr.com/ru/articles/799067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799067)
 - [Правильный подход к модульной архитектуре](https://habr.com/ru/articles/799169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799169)
 - [Схемы шардинга в PostgreSQL](https://habr.com/ru/companies/otus/articles/797981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797981)
 - [CI/CD Kubernetes платформа Gitorion. Создаем замену GitLab CI на базе OpenSource-инструментов](https://habr.com/ru/articles/797533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797533)
-- [DIY: Ваше собственное облако на базе Kubernetes &lpar;часть 3&rpar;](https://habr.com/ru/companies/aenix/articles/798567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798567)
-- [GitHub Copilot ➜ OpenAI API proxy. Serverless](https://habr.com/ru/articles/799215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799215)
 <!-- BLOG-POST-LIST:END -->
 
 ---
