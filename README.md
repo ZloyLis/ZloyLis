@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторы PostgreSQL для Kubernetes. Как мы выбирали идеальный вариант для организации системы DBaaS](https://habr.com/ru/companies/amvera/articles/799187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799187)
 - [Запуск идеи стоит 5 млн, и это дорого. Как сэкономить на проекте? Спойлер: откажитесь от React](https://habr.com/ru/articles/799481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799481)
 - [Security Week 2411: критическая уязвимость в продуктах VMware](https://habr.com/ru/companies/kaspersky/articles/799357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799357)
 - [[Перевод] Как я обработал один миллиард строк в PHP](https://habr.com/ru/companies/bothub/articles/799469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799469)
 - [Xiaomi Redmi Note 13 и Redmi Note 13 Pro: универсальные телефоны на все случаи жизни. На что они способны?](https://habr.com/ru/companies/ru_mts/articles/799411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799411)
-- [Приложение викторины: внедрение Cardoteka и основные паттерны проектирования с Riverpod](https://habr.com/ru/articles/799437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
