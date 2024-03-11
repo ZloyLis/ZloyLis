@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot ➜ OpenAI API proxy. Serverless](https://habr.com/ru/articles/799215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799215)
+- [Мобильная разработка за неделю #529 &lpar;4 — 10 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/799217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799217)
 - [Необычный RxJS](https://habr.com/ru/articles/799171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799171)
 - [[Перевод] Как я случайно превратила свой сокращатель ссылок в приманку для мошенников](https://habr.com/ru/companies/ruvds/articles/798649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798649)
 - [Рисуем эффект «Таноса» на Android &lpar;и не только&rpar;](https://habr.com/ru/articles/799163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799163)
-- [Дизайн-разбор ссылок в вёрстке](https://habr.com/ru/articles/799159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799159)
-- [Семантические ловушки асинхронности: Ключи к разгадке и эффективному освоению тем Task, Синхронность, Асинхронность](https://habr.com/ru/articles/799145/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799145)
 <!-- BLOG-POST-LIST:END -->
 
 ---
