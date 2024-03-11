@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi Redmi Note 13 и Redmi Note 13 Pro: универсальные телефоны на все случаи жизни. На что они способны?](https://habr.com/ru/companies/ru_mts/articles/799411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799411)
+- [Приложение викторины: внедрение Cardoteka и основные паттерны проектирования с Riverpod](https://habr.com/ru/articles/799437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799437)
+- [Android-приложение на Compose с нуля: Часть 2 &lpar;UI&rpar;](https://habr.com/ru/articles/798981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798981)
 - [Web3 приложение Twitter на React.js + Solidity | часть 1](https://habr.com/ru/articles/799407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799407)
-- [Бьемся с индексацией парных неравенств в планах PostgreSQL](https://habr.com/ru/companies/tensor/articles/799225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799225)
-- [Bazel, stamping, remote cache &lpar;часть 2&rpar;](https://habr.com/ru/companies/joom/articles/799201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799201)
-- [[Перевод] Трансформеры, группы преобразований и self-attention](https://habr.com/ru/companies/wunderfund/articles/799189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799189)
-- [Динозаврик из Google перешёл в консоль](https://habr.com/ru/articles/799309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799309)
+- [Бьемся с индексацией парных неравенств в PostgreSQL](https://habr.com/ru/companies/tensor/articles/799225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799225)
 <!-- BLOG-POST-LIST:END -->
 
 ---
