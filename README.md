@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Радикальная асинхронщина](https://habr.com/ru/articles/799587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799587)
 - [Выбор технологического стека для digital-продукта в 2024 году](https://habr.com/ru/companies/productstar/articles/799769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799769)
 - [[Перевод] Долой баги! Рандомизация веб-тестирования](https://habr.com/ru/articles/799717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799717)
 - [Как в Node.js контролировать потребление памяти при обработке сетевых запросов](https://habr.com/ru/companies/tinkoff/articles/799709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799709)
 - [[Перевод] Что нового во Flutter 3.19](https://habr.com/ru/articles/799703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799703)
-- [Защищаем сервис от перегрузки с помощью HAProxy](https://habr.com/ru/companies/netologyru/articles/798333/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798333)
 <!-- BLOG-POST-LIST:END -->
 
 ---
