@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многоликий controller-manager и бесчисленные api-server’ы](https://habr.com/ru/companies/dbraincloud/articles/799573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799573)
+- [История импортозамещения: от BluePrism к SaluteRPA](https://habr.com/ru/companies/sberbank/articles/799421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799421)
 - [Делаем RPG на Go: часть 0.5](https://habr.com/ru/articles/799497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799497)
 - [Apple Pro Weekly News &lpar;04.03 – 10.03.24&rpar;](https://habr.com/ru/articles/799525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799525)
 - [Juniorы врут об опыте работы. Проблема ли это для HR?](https://habr.com/ru/articles/799513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799513)
-- [Операторы PostgreSQL для Kubernetes. Как мы выбирали идеальный вариант для организации системы DBaaS](https://habr.com/ru/companies/amvera/articles/799187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799187)
-- [Запуск идеи стоит 5 млн, и это дорого. Как сэкономить на проекте? Спойлер: откажитесь от React](https://habr.com/ru/articles/799481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
