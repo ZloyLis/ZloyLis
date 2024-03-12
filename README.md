@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Долой баги! Рандомизация веб-тестирования](https://habr.com/ru/articles/799717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799717)
+- [Как в Node.js контролировать потребление памяти при обработке сетевых запросов](https://habr.com/ru/companies/tinkoff/articles/799709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799709)
 - [[Перевод] Что нового во Flutter 3.19](https://habr.com/ru/articles/799703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799703)
 - [Защищаем сервис от перегрузки с помощью HAProxy](https://habr.com/ru/companies/netologyru/articles/798333/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798333)
 - [Пишем REST-приложение на Delphi](https://habr.com/ru/companies/glowbyte/articles/799659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799659)
-- [Go на митап: обсудим sync.Pool, свой mini-k8s, паттерны и сообщения об ошибках](https://habr.com/ru/companies/yadro/articles/799615/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799615)
-- [Работа с Data Assets | Flutter](https://habr.com/ru/articles/799637/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799637)
 <!-- BLOG-POST-LIST:END -->
 
 ---
