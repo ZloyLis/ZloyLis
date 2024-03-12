@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Криптографические пруфы zkSNARKs для масштабирования и безопасности](https://habr.com/ru/companies/oleg-bunin/articles/799613/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799613)
+- [Самый простой и подробный гайд по конкурентным коллекциям в C#](https://habr.com/ru/companies/ruvds/articles/791308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791308)
 - [Квест по синхронизации аналитического и оперативного хранилищ в реальном времени без потерь на сотнях терабайт данных](https://habr.com/ru/companies/stm_labs/articles/799591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799591)
 - [API для своей программы &lpar;Delphi&rpar;](https://habr.com/ru/articles/799583/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799583)
 - [Мы пилили монолит — много нас, а он один. Полезные советы от команды Яндекс Еды](https://habr.com/ru/companies/yandex/articles/799297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799297)
-- [Многоликий controller-manager и бесчисленные api-server’ы](https://habr.com/ru/companies/dbraincloud/articles/799573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799573)
-- [История импортозамещения: от BluePrism к SaluteRPA](https://habr.com/ru/companies/sberbank/articles/799421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799421)
 <!-- BLOG-POST-LIST:END -->
 
 ---
