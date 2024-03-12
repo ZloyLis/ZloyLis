@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 приложение Twitter на React.js + Solidity | часть 2](https://habr.com/ru/articles/799819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799819)
 - [Pgpool-II](https://habr.com/ru/companies/otus/articles/798267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798267)
 - [Радикальная асинхронщина](https://habr.com/ru/articles/799587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799587)
 - [Выбор технологического стека для digital-продукта в 2024 году](https://habr.com/ru/companies/productstar/articles/799769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799769)
 - [[Перевод] Долой баги! Рандомизация веб-тестирования](https://habr.com/ru/articles/799717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799717)
-- [Как в Node.js контролировать потребление памяти при обработке сетевых запросов](https://habr.com/ru/companies/tinkoff/articles/799709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799709)
 <!-- BLOG-POST-LIST:END -->
 
 ---
