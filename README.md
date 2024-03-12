@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем REST-приложение на Delphi](https://habr.com/ru/companies/glowbyte/articles/799659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799659)
 - [Работа с Data Assets | Flutter](https://habr.com/ru/articles/799637/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799637)
 - [[Перевод] Истерика Apple по поводу нового антимонопольного закона ЕС](https://habr.com/ru/articles/799635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799635)
 - [Кот в мешке: мастерство обработки ошибок внешних ключей SQLite](https://habr.com/ru/companies/kts/articles/798607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798607)
 - [Криптографические пруфы zkSNARKs для масштабирования и безопасности](https://habr.com/ru/companies/oleg-bunin/articles/799613/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799613)
-- [Самый простой и подробный гайд по конкурентным коллекциям в C#](https://habr.com/ru/companies/ruvds/articles/791308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
