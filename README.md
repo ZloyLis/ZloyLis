@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерфейс под один палец. Концепция ONE TOUCH](https://habr.com/ru/articles/799965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799965)
+- [Material for MkDocs 9.5.x — что нового в этой версии и полезные хаки при работе с документацией на нем](https://habr.com/ru/companies/hostkey/articles/800075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800075)
 - [[Перевод] Всё ещё используете If/else валидацию в Spring 6.0+ / SpringBoot 3.0+?](https://habr.com/ru/companies/otus/articles/799987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799987)
 - [Безопасность веб-приложений: анализ методов защиты от атак на уровне Backend](https://habr.com/ru/articles/800017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800017)
 - [Fastlane для Android разработчиков](https://habr.com/ru/companies/garage8/articles/799691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799691)
-- [Как AI помогает повседневной работе команды разработки](https://habr.com/ru/companies/bimeister/articles/799967/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799967)
-- [Разбираем использование open-source Wunjo AI в ваших проектах с искусственным интеллектом и просто нейронные сети](https://habr.com/ru/articles/799977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799977)
 <!-- BLOG-POST-LIST:END -->
 
 ---
