@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логирование времени выполнения методов с помощью аннотаций &lpar;AspectJ&rpar;](https://habr.com/ru/articles/799841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799841)
 - [Одно из самых востребованных IT-решений: простыми словами об API](https://habr.com/ru/companies/nfckey/articles/799823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799823)
 - [Web3 приложение Twitter на React.js + Solidity | часть 2](https://habr.com/ru/articles/799819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799819)
 - [Pgpool-II](https://habr.com/ru/companies/otus/articles/798267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798267)
 - [Радикальная асинхронщина](https://habr.com/ru/articles/799587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799587)
-- [Как ИИ помогает программисту — и почему это случается не всегда](https://habr.com/ru/articles/799783/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
