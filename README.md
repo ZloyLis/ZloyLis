@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как быстро получать данные из ОС Аврора через интерфейс D-Bus во Flutter-приложении](https://habr.com/ru/companies/friflex/articles/799855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799855)
+- [Стажёры рулят или Почему не надо бояться доверять молодым сотрудникам](https://habr.com/ru/companies/ozontech/articles/799477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799477)
+- [Квест в честь миллиона студентов на курсе для начинающих программистов](https://habr.com/ru/articles/799511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799511)
 - [[Перевод] Дилемма ИИ: когда обучение больших языковых моделей заходит в тупик](https://habr.com/ru/articles/799517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799517)
 - [Автоматизируем рутину в Android разработке: плагин для создания шаблонного кода на примере создания -api -impl модулей](https://habr.com/ru/companies/alfa/articles/799873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799873)
-- [В помощь IT-команде — «Регламент создания багов» или «Как сделать задачу ясной для тебя из отпуска»](https://habr.com/ru/articles/799879/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799879)
-- [Новичковые скитания по поиску идеального языка программирования](https://habr.com/ru/articles/799867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799867)
-- [WebRTC. Как установить p2p соединение между браузерами](https://habr.com/ru/articles/799863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799863)
 <!-- BLOG-POST-LIST:END -->
 
 ---
