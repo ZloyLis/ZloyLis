@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новичковые скитания по поиску идеального языка программирования](https://habr.com/ru/articles/799867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799867)
+- [WebRTC. Как установить p2p соединение между браузерами](https://habr.com/ru/articles/799863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799863)
+- [Работа с REST API при помощи swagger-typescript-api](https://habr.com/ru/articles/799853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799853)
 - [Логирование времени выполнения методов с помощью аннотаций &lpar;AspectJ&rpar;](https://habr.com/ru/articles/799841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799841)
 - [Одно из самых востребованных IT-решений: простыми словами об API](https://habr.com/ru/companies/nfckey/articles/799823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799823)
-- [Web3 приложение Twitter на React.js + Solidity | часть 2](https://habr.com/ru/articles/799819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799819)
-- [Pgpool-II](https://habr.com/ru/companies/otus/articles/798267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798267)
-- [Радикальная асинхронщина](https://habr.com/ru/articles/799587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799587)
 <!-- BLOG-POST-LIST:END -->
 
 ---
