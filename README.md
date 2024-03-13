@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираем использование open-source Wunjo AI в ваших проектах с искусственным интеллектом и просто нейронные сети](https://habr.com/ru/articles/799977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799977)
 - [Как быстро получать данные из ОС Аврора через интерфейс D-Bus во Flutter-приложении](https://habr.com/ru/companies/friflex/articles/799855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799855)
 - [Стажёры рулят или Почему не надо бояться доверять молодым сотрудникам](https://habr.com/ru/companies/ozontech/articles/799477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799477)
 - [Квест в честь миллиона студентов на курсе для начинающих программистов](https://habr.com/ru/articles/799511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799511)
 - [[Перевод] Дилемма ИИ: когда обучение больших языковых моделей заходит в тупик](https://habr.com/ru/articles/799517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799517)
-- [Автоматизируем рутину в Android разработке: плагин для создания шаблонного кода на примере создания -api -impl модулей](https://habr.com/ru/companies/alfa/articles/799873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799873)
 <!-- BLOG-POST-LIST:END -->
 
 ---
