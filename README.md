@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В помощь IT-команде — «Регламент создания багов» или «Как сделать задачу ясной для тебя из отпуска»](https://habr.com/ru/articles/799879/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799879)
 - [Новичковые скитания по поиску идеального языка программирования](https://habr.com/ru/articles/799867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799867)
 - [WebRTC. Как установить p2p соединение между браузерами](https://habr.com/ru/articles/799863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799863)
 - [Работа с REST API при помощи swagger-typescript-api](https://habr.com/ru/articles/799853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799853)
 - [Логирование времени выполнения методов с помощью аннотаций &lpar;AspectJ&rpar;](https://habr.com/ru/articles/799841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799841)
-- [Одно из самых востребованных IT-решений: простыми словами об API](https://habr.com/ru/companies/nfckey/articles/799823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799823)
 <!-- BLOG-POST-LIST:END -->
 
 ---
