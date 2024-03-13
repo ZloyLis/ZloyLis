@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность веб-приложений: анализ методов защиты от атак на уровне Backend](https://habr.com/ru/articles/800017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800017)
 - [Fastlane для Android разработчиков](https://habr.com/ru/companies/garage8/articles/799691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799691)
 - [Как AI помогает повседневной работе команды разработки](https://habr.com/ru/companies/bimeister/articles/799967/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799967)
 - [Разбираем использование open-source Wunjo AI в ваших проектах с искусственным интеллектом и просто нейронные сети](https://habr.com/ru/articles/799977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799977)
 - [Как быстро получать данные из ОС Аврора через интерфейс D-Bus во Flutter-приложении](https://habr.com/ru/companies/friflex/articles/799855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799855)
-- [Стажёры рулят или Почему не надо бояться доверять молодым сотрудникам](https://habr.com/ru/companies/ozontech/articles/799477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799477)
 <!-- BLOG-POST-LIST:END -->
 
 ---
