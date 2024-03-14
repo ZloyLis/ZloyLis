@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ленивые бесконечные списки на основе Deferrable Views](https://habr.com/ru/companies/tinkoff/articles/800201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800201)
 - [«Иногда твоя работа выглядит магией»: что делают дата-сайентисты в промышленности и почему так востребованы](https://habr.com/ru/companies/netologyru/articles/800153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800153)
-- [Образование и карьера для системных и бизнес-аналитиков](https://habr.com/ru/companies/sportmaster_lab/articles/797271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797271)
+- [Про образование и карьеру для системных и бизнес-аналитиков: взгляд изнутри](https://habr.com/ru/companies/sportmaster_lab/articles/797271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797271)
 - [Внутри нельзя снаружи: как мы решаем, где запускать новые сервисы](https://habr.com/ru/companies/2gis/articles/799983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799983)
 - [Укрощение примитивов синхронизации: сравниваем решения задачи с построением пула потоков на С и Go](https://habr.com/ru/companies/yadro/articles/799281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799281)
-- [Полное краткое руководство по grammY — JS-библиотеке для создания Telegram-ботов](https://habr.com/ru/companies/selectel/articles/799761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799761)
 <!-- BLOG-POST-LIST:END -->
 
 ---
