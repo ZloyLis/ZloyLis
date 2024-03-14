@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Птицу узнают по оперению… или профзащита от спама](https://habr.com/ru/articles/800345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800345)
 - [Как с помощью системного подхода повысить эффективной блока закупок в компании](https://habr.com/ru/companies/pgk/articles/800275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800275)
 - [6 важных принципов GDPR](https://habr.com/ru/companies/otus/articles/799079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799079)
 - [[Перевод] Интеграция нативных SDK во Flutter-приложение](https://habr.com/ru/companies/agima/articles/800283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800283)
 - [Новые краски Vivaldi для iOS](https://habr.com/ru/companies/vivaldi/articles/800265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800265)
-- [Ленивые бесконечные списки на основе Deferrable Views](https://habr.com/ru/companies/tinkoff/articles/800201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800201)
 <!-- BLOG-POST-LIST:END -->
 
 ---
