@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы оцифровывали каждый шаг производства, чтобы завод точно знал, что, как и когда делать](https://habr.com/ru/companies/nlmk/articles/785734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785734)
 - [Как и где практиковаться начинающему мобильному разработчику](https://habr.com/ru/companies/yandex_praktikum/articles/799923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799923)
 - [Имплиситы и тайпклассы в Scala](https://habr.com/ru/articles/799235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799235)
 - [Интерфейс под один палец. Концепция ONE TOUCH](https://habr.com/ru/articles/799965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799965)
 - [Material for MkDocs 9.5.x — что нового в этой версии и полезные хаки при работе с документацией на нем](https://habr.com/ru/companies/hostkey/articles/800075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800075)
-- [[Перевод] Всё ещё используете If/else валидацию в Spring 6.0+ / SpringBoot 3.0+?](https://habr.com/ru/companies/otus/articles/799987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799987)
 <!-- BLOG-POST-LIST:END -->
 
 ---
