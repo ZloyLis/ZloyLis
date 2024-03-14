@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [6 важных принципов GDPR](https://habr.com/ru/companies/otus/articles/799079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799079)
+- [[Перевод] Интеграция нативных SDK во Flutter-приложение](https://habr.com/ru/companies/agima/articles/800283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800283)
 - [Новые краски Vivaldi для iOS](https://habr.com/ru/companies/vivaldi/articles/800265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800265)
 - [Ленивые бесконечные списки на основе Deferrable Views](https://habr.com/ru/companies/tinkoff/articles/800201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800201)
 - [«Иногда твоя работа выглядит магией»: что делают дата-сайентисты в промышленности и почему так востребованы](https://habr.com/ru/companies/netologyru/articles/800153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800153)
-- [Про образование и карьеру для системных и бизнес-аналитиков: взгляд изнутри](https://habr.com/ru/companies/sportmaster_lab/articles/797271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797271)
-- [Внутри нельзя снаружи: как мы решаем, где запускать новые сервисы](https://habr.com/ru/companies/2gis/articles/799983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799983)
 <!-- BLOG-POST-LIST:END -->
 
 ---
