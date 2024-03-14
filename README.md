@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Иногда твоя работа выглядит магией»: что делают дата-сайентисты в промышленности и почему так востребованы](https://habr.com/ru/companies/netologyru/articles/800153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800153)
+- [Образование и карьера для системных и бизнес-аналитиков](https://habr.com/ru/companies/sportmaster_lab/articles/797271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797271)
 - [Внутри нельзя снаружи: как мы решаем, где запускать новые сервисы](https://habr.com/ru/companies/2gis/articles/799983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799983)
 - [Укрощение примитивов синхронизации: сравниваем решения задачи с построением пула потоков на С и Go](https://habr.com/ru/companies/yadro/articles/799281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799281)
 - [Полное краткое руководство по grammY — JS-библиотеке для создания Telegram-ботов](https://habr.com/ru/companies/selectel/articles/799761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799761)
-- [Прозрачность процессов как инструмент эффективного взаимодействия](https://habr.com/ru/companies/oleg-bunin/articles/799927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799927)
-- [Добавление своих команд для CLI в Joomla 4 и Joomla 5 с помощью плагина](https://habr.com/ru/articles/797155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
