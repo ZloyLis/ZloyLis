@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутри нельзя снаружи: как мы решаем, где запускать новые сервисы](https://habr.com/ru/companies/2gis/articles/799983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799983)
+- [Укрощение примитивов синхронизации: сравниваем решения задачи с построением пула потоков на С и Go](https://habr.com/ru/companies/yadro/articles/799281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799281)
+- [Полное краткое руководство по grammY — JS-библиотеке для создания Telegram-ботов](https://habr.com/ru/companies/selectel/articles/799761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799761)
 - [Прозрачность процессов как инструмент эффективного взаимодействия](https://habr.com/ru/companies/oleg-bunin/articles/799927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799927)
 - [Добавление своих команд для CLI в Joomla 4 и Joomla 5 с помощью плагина](https://habr.com/ru/articles/797155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797155)
-- [Каждый айтишник желает знать: корпоративное обучение в МТС Тета](https://habr.com/ru/specials/797121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797121)
-- [Какой язык программирования выбрать в 2024 году](https://habr.com/ru/articles/800147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800147)
-- [Беда “войти в айти” или курсы тестировщика отзывы: Сколько студентов на самом деле находит работу после Skillbox](https://habr.com/ru/articles/800079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800079)
 <!-- BLOG-POST-LIST:END -->
 
 ---
