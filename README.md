@@ -25,11 +25,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Каждый айтишник желает знать: корпоративное обучение в МТС Тета](https://habr.com/ru/specials/797121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797121)
+- [Какой язык программирования выбрать в 2024 году](https://habr.com/ru/articles/800147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800147)
+- [Беда “войти в айти” или курсы тестировщика отзывы: Сколько студентов на самом деле находит работу после Skillbox](https://habr.com/ru/articles/800079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800079)
 - [Как мы оцифровывали каждый шаг производства, чтобы завод точно знал, что, как и когда делать](https://habr.com/ru/companies/nlmk/articles/785734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785734)
 - [Как и где практиковаться начинающему мобильному разработчику](https://habr.com/ru/companies/yandex_praktikum/articles/799923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799923)
-- [Имплиситы и тайпклассы в Scala](https://habr.com/ru/articles/799235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799235)
-- [Интерфейс под один палец. Концепция ONE TOUCH](https://habr.com/ru/articles/799965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799965)
-- [Material for MkDocs 9.5.x — что нового в этой версии и полезные хаки при работе с документацией на нем](https://habr.com/ru/companies/hostkey/articles/800075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800075)
 <!-- BLOG-POST-LIST:END -->
 
 ---
