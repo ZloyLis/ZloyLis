@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбор логов в Kubernetes с помощью Vector: преимущества, архитектура, реальные кейсы](https://habr.com/ru/companies/vk/articles/799579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799579)
+- [Работа с Kubernetes: поднимаем локальный кластер и деплоим в него приложения](https://habr.com/ru/companies/avito/articles/799689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799689)
+- [Формализуем процесс создания нового API в микросервисах на .NET](https://habr.com/ru/companies/fuse8/articles/800285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800285)
+- [Пиррова победа Domain-Driven Design](https://habr.com/ru/articles/800385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800385)
 - [Vivaldi для Android с настраиваемыми обоями](https://habr.com/ru/companies/vivaldi/articles/800447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800447)
-- [Как заменить фотостоки на нейронки в коммерческих проектах: личный опыт и промпты](https://habr.com/ru/articles/800441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800441)
-- [Cocoapods pod install без интернета на CI при использовании Tuist](https://habr.com/ru/articles/800423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800423)
-- [Аннотировать или да?](https://habr.com/ru/articles/800413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800413)
-- [Как LLM могут повлиять на труд разработчиков &lpar;и не только их&rpar;](https://habr.com/ru/articles/800361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800361)
 <!-- BLOG-POST-LIST:END -->
 
 ---
