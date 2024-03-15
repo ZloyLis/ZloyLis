@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cocoapods pod install без интернета на CI при использовании Tuist](https://habr.com/ru/articles/800423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800423)
 - [Аннотировать или да?](https://habr.com/ru/articles/800413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800413)
 - [Как LLM могут повлиять на труд разработчиков &lpar;и не только их&rpar;](https://habr.com/ru/articles/800361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800361)
 - [SQL HowTo: один индекс на два диапазона](https://habr.com/ru/companies/tensor/articles/800397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800397)
 - [Наш путь в создании информационной системы проверок контрагентов || Laravel having no problems](https://habr.com/ru/companies/magnit/articles/800159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800159)
-- [[Перевод] Drag and Drop в Jetpack Compose](https://habr.com/ru/articles/800389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800389)
 <!-- BLOG-POST-LIST:END -->
 
 ---
