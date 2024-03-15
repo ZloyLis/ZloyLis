@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [СТОИКИ, visibility, ИПР и другие «витамины роста». 9+ ключевых советов про карьеру от техписов](https://habr.com/ru/companies/kaspersky/articles/800319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800319)
-- [Хотели велосипед, а получили мопед по цене автомобиля: как управлять изменениями и ожиданиями заказчика](https://habr.com/ru/companies/outlines_tech/articles/800541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800541)
-- [[Перевод] Охота на недостающий тип данных](https://habr.com/ru/companies/ruvds/articles/799849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799849)
-- [[Перевод] Ликбез по вложенной прокрутке в Jetpack Compose](https://habr.com/ru/companies/otus/articles/800521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800521)
-- [Async/await, There is no thread – легко обмануть тех, кто сам обманываться рад](https://habr.com/ru/articles/800495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800495)
+- [И вновь KolibriOS! И вновь ассемблер!.](https://habr.com/ru/articles/800571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800571)
+- [Систему модулей в Java для новичков](https://habr.com/ru/companies/otus/articles/798901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798901)
+- [[Перевод] Переключение между контекстами губительно для продуктивности](https://habr.com/ru/companies/productivity_inside/articles/800563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800563)
+- [[Перевод] Элегантный стек данных для встроенной аналитики](https://habr.com/ru/companies/piter/articles/800515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800515)
+- [Качественные рекомендации в e-commerce — компоненты основных алгоритмов](https://habr.com/ru/companies/retailrocket/articles/800543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800543)
 <!-- BLOG-POST-LIST:END -->
 
 ---
