@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь развития &lpar;Roadmap&rpar; Frontend разработчика](https://habr.com/ru/articles/800579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800579)
 - [И вновь KolibriOS! И вновь ассемблер!.](https://habr.com/ru/articles/800571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800571)
 - [Систему модулей в Java для новичков](https://habr.com/ru/companies/otus/articles/798901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798901)
 - [[Перевод] Переключение между контекстами губительно для продуктивности](https://habr.com/ru/companies/productivity_inside/articles/800563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800563)
 - [[Перевод] Элегантный стек данных для встроенной аналитики](https://habr.com/ru/companies/piter/articles/800515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800515)
-- [Качественные рекомендации в e-commerce — компоненты основных алгоритмов](https://habr.com/ru/companies/retailrocket/articles/800543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800543)
 <!-- BLOG-POST-LIST:END -->
 
 ---
