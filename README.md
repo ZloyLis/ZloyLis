@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Drag and Drop в Jetpack Compose](https://habr.com/ru/articles/800389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800389)
 - [Высказывания 3-х известных людей о проблемах современной разработки ПО](https://habr.com/ru/articles/800349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800349)
 - [Птицу узнают по перьям… или профзащита от спама](https://habr.com/ru/articles/800345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800345)
 - [Как с помощью системного подхода повысить эффективной блока закупок в компании](https://habr.com/ru/companies/pgk/articles/800275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800275)
 - [6 важных принципов GDPR](https://habr.com/ru/companies/otus/articles/799079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799079)
-- [[Перевод] Интеграция нативных SDK во Flutter-приложение](https://habr.com/ru/companies/agima/articles/800283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800283)
 <!-- BLOG-POST-LIST:END -->
 
 ---
