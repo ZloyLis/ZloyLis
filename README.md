@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Async/await, There is no thread – легко обмануть тех кто сам обманываться рад](https://habr.com/ru/articles/800495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800495)
+- [[Перевод] Ликбез по вложенной прокрутке в Jetpack Compose](https://habr.com/ru/companies/otus/articles/800521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800521)
+- [Async/await, There is no thread – легко обмануть тех, кто сам обманываться рад](https://habr.com/ru/articles/800495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800495)
 - [Безопасная параллельная разработка. Istio](https://habr.com/ru/companies/alfa/articles/800157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800157)
 - [«Код-ревью — это когда твои комментарии в интернете действительно читают»: дискуссия с разработчиками на C++](https://habr.com/ru/companies/yadro/articles/800491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800491)
 - [Сбор логов в Kubernetes с помощью Vector: преимущества, архитектура, реальные кейсы](https://habr.com/ru/companies/vk/articles/799579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799579)
-- [Работа с Kubernetes: поднимаем локальный кластер и деплоим в него приложения](https://habr.com/ru/companies/avito/articles/799689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
