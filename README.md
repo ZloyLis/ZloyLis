@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi для Android с настраиваемыми обоями](https://habr.com/ru/companies/vivaldi/articles/800447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800447)
+- [Как заменить фотостоки на нейронки в коммерческих проектах: личный опыт и промпты](https://habr.com/ru/articles/800441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800441)
 - [Cocoapods pod install без интернета на CI при использовании Tuist](https://habr.com/ru/articles/800423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800423)
 - [Аннотировать или да?](https://habr.com/ru/articles/800413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800413)
 - [Как LLM могут повлиять на труд разработчиков &lpar;и не только их&rpar;](https://habr.com/ru/articles/800361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800361)
-- [SQL HowTo: один индекс на два диапазона](https://habr.com/ru/companies/tensor/articles/800397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800397)
-- [Наш путь в создании информационной системы проверок контрагентов || Laravel having no problems](https://habr.com/ru/companies/magnit/articles/800159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800159)
 <!-- BLOG-POST-LIST:END -->
 
 ---
