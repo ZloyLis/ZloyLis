@@ -28,11 +28,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [СТОИКИ, visibility, ИПР и другие «витамины роста». 9+ ключевых советов про карьеру от техписов](https://habr.com/ru/companies/kaspersky/articles/800319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800319)
+- [Хотели велосипед, а получили мопед по цене автомобиля: как управлять изменениями и ожиданиями заказчика](https://habr.com/ru/companies/outlines_tech/articles/800541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800541)
+- [[Перевод] Охота на недостающий тип данных](https://habr.com/ru/companies/ruvds/articles/799849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799849)
 - [[Перевод] Ликбез по вложенной прокрутке в Jetpack Compose](https://habr.com/ru/companies/otus/articles/800521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800521)
 - [Async/await, There is no thread – легко обмануть тех, кто сам обманываться рад](https://habr.com/ru/articles/800495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800495)
-- [Безопасная параллельная разработка. Istio](https://habr.com/ru/companies/alfa/articles/800157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800157)
-- [«Код-ревью — это когда твои комментарии в интернете действительно читают»: дискуссия с разработчиками на C++](https://habr.com/ru/companies/yadro/articles/800491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800491)
-- [Сбор логов в Kubernetes с помощью Vector: преимущества, архитектура, реальные кейсы](https://habr.com/ru/companies/vk/articles/799579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
