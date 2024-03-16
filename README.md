@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Телеграм бот + LLM &lpar;GigaChat&rpar;](https://habr.com/ru/articles/800657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800657)
-- [$2500 в месяц на сервисе с 1 функцией, которая уже была у крупных компаний](https://habr.com/ru/articles/800355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800355)
-- [Postgresso 2 &lpar;63&rpar;](https://habr.com/ru/companies/postgrespro/articles/791908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791908)
-- [Хакатон Demhack: успехи проектов и новый анонс](https://habr.com/ru/companies/roskomsvoboda/articles/800609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800609)
-- [Путь развития &lpar;Roadmap&rpar; Frontend разработчика](https://habr.com/ru/articles/800579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800579)
+- [Разработка игры на C++/SFML: Начало](https://habr.com/ru/articles/800691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800691)
+- [[Перевод] Как потерять управление оболочкой… Расследование](https://habr.com/ru/articles/800037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800037)
+- [Разработка высоконагруженного игрового WebSocket сервера на Kotlin, Webflux с поддержкой BattleRoyale/Matchmaking](https://habr.com/ru/articles/800689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800689)
+- [SwiftUI уроки &lpar;часть 4&rpar;](https://habr.com/ru/articles/800687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800687)
+- [Часть 1. Геймификация: «Система образования как продукт: аудит системы](https://habr.com/ru/articles/800685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
