@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [$2500 в месяц на сервисе с 1 функцией, которая уже была у крупных компаний](https://habr.com/ru/articles/800355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800355)
 - [[Перевод] Вам досталась база унаследованного кода на C++. Что теперь делать](https://habr.com/ru/articles/800641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800641)
 - [Postgresso 2 &lpar;63&rpar;](https://habr.com/ru/companies/postgrespro/articles/791908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=791908)
 - [Хакатон Demhack: успехи проектов и новый анонс](https://habr.com/ru/companies/roskomsvoboda/articles/800609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800609)
 - [Путь развития &lpar;Roadmap&rpar; Frontend разработчика](https://habr.com/ru/articles/800579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800579)
-- [И вновь KolibriOS! И вновь ассемблер!.](https://habr.com/ru/articles/800571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800571)
 <!-- BLOG-POST-LIST:END -->
 
 ---
