@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Устройство умного приёмника звука в составе сетецентрической системы установления координат источника звука](https://habr.com/ru/articles/800693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800693)
 - [Разработка игры на C++/SFML: Начало](https://habr.com/ru/articles/800691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800691)
 - [[Перевод] Как потерять управление оболочкой… Расследование](https://habr.com/ru/articles/800037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800037)
 - [Разработка высоконагруженного игрового WebSocket сервера на Kotlin, Webflux с поддержкой BattleRoyale/Matchmaking](https://habr.com/ru/articles/800689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800689)
 - [SwiftUI уроки &lpar;часть 4&rpar;](https://habr.com/ru/articles/800687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800687)
-- [Часть 1. Геймификация: «Система образования как продукт: аудит системы](https://habr.com/ru/articles/800685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
