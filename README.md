@@ -30,10 +30,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Простой CRUD на chi. Часть 1](https://habr.com/ru/articles/800787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800787)
-- [[Перевод] Как можно потерять контроль над оболочкой](https://habr.com/ru/companies/ruvds/articles/800131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800131)
 - [Отзыв на IJunior. Почему не стоит покупать курс IJunior. Spoiler: черепаший спринт в Gamedev. В конце mini-roadmap](https://habr.com/ru/articles/800731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800731)
 - [className убивает ваш UI kit](https://habr.com/ru/articles/800365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800365)
 - [Дроби в ранних цивилизациях](https://habr.com/ru/articles/800753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800753)
+- [JS. Валидация данных. Пишем свой YUP](https://habr.com/ru/articles/800713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800713)
 <!-- BLOG-POST-LIST:END -->
 
 ---
