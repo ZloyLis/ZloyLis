@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Блеск и нищета паттерна «Спецификация» в С#. Оцениваем планы запросов](https://habr.com/ru/articles/800813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800813)
 - [Правило трех и пяти в C++: что это такое и зачем они нужны?](https://habr.com/ru/companies/otus/articles/800089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800089)
 - [Простой CRUD на chi. Часть 1](https://habr.com/ru/articles/800787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800787)
 - [Отзыв на IJunior. Почему не стоит покупать курс IJunior. Spoiler: черепаший спринт в Gamedev. В конце mini-roadmap](https://habr.com/ru/articles/800731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800731)
 - [className убивает ваш UI kit](https://habr.com/ru/articles/800365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800365)
-- [Дроби в ранних цивилизациях](https://habr.com/ru/articles/800753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
