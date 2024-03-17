@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как облегчить жизнь программисту при написании тестов](https://habr.com/ru/companies/beeline_cloud/articles/800621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800621)
+- [Как делить пользователей на группы в АБ-тестах: ошибки и рекомендации](https://habr.com/ru/articles/800809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800809)
 - [Блеск и нищета паттерна «Спецификация» в С#. Оцениваем планы запросов](https://habr.com/ru/articles/800813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800813)
 - [Правило трех и пяти в C++: что это такое и зачем они нужны?](https://habr.com/ru/companies/otus/articles/800089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800089)
 - [Простой CRUD на chi. Часть 1](https://habr.com/ru/articles/800787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800787)
-- [Отзыв на IJunior. Почему не стоит покупать курс IJunior. Spoiler: черепаший спринт в Gamedev. В конце mini-roadmap](https://habr.com/ru/articles/800731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800731)
-- [className убивает ваш UI kit](https://habr.com/ru/articles/800365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800365)
 <!-- BLOG-POST-LIST:END -->
 
 ---
