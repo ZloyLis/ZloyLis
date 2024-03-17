@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [className убивает ваш UI kit](https://habr.com/ru/articles/800365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800365)
+- [Дроби в ранних цивилизациях](https://habr.com/ru/articles/800753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800753)
 - [JS. Валидация данных. Пишем свой YUP](https://habr.com/ru/articles/800713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800713)
 - [Изучаем WebRTC на практике: Лучшие инструменты и демо](https://habr.com/ru/articles/800699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800699)
 - [Устройство умного приёмника звука в составе сетецентрической системы установления координат источника звука](https://habr.com/ru/articles/800693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800693)
-- [Разработка игры на C++/SFML: Начало](https://habr.com/ru/articles/800691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800691)
-- [[Перевод] Как потерять управление оболочкой… Расследование](https://habr.com/ru/articles/800037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800037)
 <!-- BLOG-POST-LIST:END -->
 
 ---
