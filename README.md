@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cardoteka — техническая начинка и аналитика решений типобезопасной SP [кто любит вдаваться]](https://habr.com/ru/articles/801089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801089)
 - [Основные типы распределений вероятностей в примерах](https://habr.com/ru/articles/801101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801101)
 - [Дешево и сердито: геймдев на Godot 4.2 для тех, кто знает Python](https://habr.com/ru/companies/selectel/articles/801009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801009)
 - [[Перевод] Тестирование пользовательского интерфейса | Flutter](https://habr.com/ru/articles/801069/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801069)
 - [Паттерны Singleton и Multiton в Java: когда и какой лучше?](https://habr.com/ru/companies/otus/articles/800477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800477)
-- [Аналитик за 4 месяца в Автомаконе: почему и зачем? как? где? когда? сколько?](https://habr.com/ru/companies/automacon/articles/801053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801053)
 <!-- BLOG-POST-LIST:END -->
 
 ---
