@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основные типы распределений вероятностей в примерах](https://habr.com/ru/articles/801101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801101)
+- [Дешево и сердито: геймдев на Godot 4.2 для тех, кто знает Python](https://habr.com/ru/companies/selectel/articles/801009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801009)
 - [[Перевод] Тестирование пользовательского интерфейса | Flutter](https://habr.com/ru/articles/801069/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801069)
 - [Паттерны Singleton и Multiton в Java: когда и какой лучше?](https://habr.com/ru/companies/otus/articles/800477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800477)
 - [Аналитик за 4 месяца в Автомаконе: почему и зачем? как? где? когда? сколько?](https://habr.com/ru/companies/automacon/articles/801053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801053)
-- [Выпущена версия Jmix 2.2](https://habr.com/ru/companies/haulmont/articles/800335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800335)
-- [[Перевод] Разработка под Android в 2024 году](https://habr.com/ru/companies/otus/articles/800979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800979)
 <!-- BLOG-POST-LIST:END -->
 
 ---
