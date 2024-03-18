@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Валидируйте это немедленно](https://habr.com/ru/articles/800837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800837)
-- [CI/CD Kubernetes платформа Gitorion. Непрерывная интеграция CI на базе Gitea/Forgejo](https://habr.com/ru/companies/gitorion/articles/799933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799933)
-- [Декодируем protobuf загружая чанки loadable-components в NodeJS](https://habr.com/ru/articles/800861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800861)
-- [Мобильная разработка за неделю #530 &lpar;11 — 17 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/800857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800857)
-- [Без про-v-ода. Поднимаем точку доступа ловушку, тестируем сети на проникновение](https://habr.com/ru/articles/800853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800853)
+- [Сообщества вокруг технологии: почему быть бесплатным недостаточно](https://habr.com/ru/companies/oleg-bunin/articles/799365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799365)
+- [Анемичная модель предметной области и логика в сервисах](https://habr.com/ru/articles/800789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800789)
+- [Когда пишешь приложения для себя](https://habr.com/ru/companies/ruvds/articles/797915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797915)
+- [Почему навигация в Google, Booking и Spotify именно такая, и какую лучше выбрать вам](https://habr.com/ru/companies/alfa/articles/797957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797957)
+- [Карьера в кибербезопасности, или Как расти в ИБ](https://habr.com/ru/companies/pt/articles/800865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800865)
 <!-- BLOG-POST-LIST:END -->
 
 ---
