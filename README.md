@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение стационарных умных приёмников звука в составе сетецентрической системы](https://habr.com/ru/articles/800997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800997)
 - [Материалы для подготовки к собеседованию на позицию Data Scientist. Часть 2: Классическое машинное обучение](https://habr.com/ru/companies/megafon/articles/800919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800919)
 - [Сообщества вокруг технологии: почему быть бесплатным недостаточно](https://habr.com/ru/companies/oleg-bunin/articles/799365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799365)
 - [Анемичная модель предметной области и логика в сервисах](https://habr.com/ru/articles/800789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800789)
 - [Когда пишешь приложения для себя](https://habr.com/ru/companies/ruvds/articles/797915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797915)
-- [Почему навигация в Google, Booking и Spotify именно такая, и какую лучше выбрать вам](https://habr.com/ru/companies/alfa/articles/797957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797957)
 <!-- BLOG-POST-LIST:END -->
 
 ---
