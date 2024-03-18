@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парочка open source решений по доставке уведомлений](https://habr.com/ru/companies/vasexperts/articles/798889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798889)
 - [Apple Pro Weekly News &lpar;11.03 – 17.03.24&rpar;](https://habr.com/ru/articles/801141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801141)
 - [Security Week 2412: атака на ChatGPT по сторонним каналам](https://habr.com/ru/companies/kaspersky/articles/800913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800913)
 - [Cardoteka — техническая начинка и аналитика решений типобезопасной SP [кто любит вдаваться]](https://habr.com/ru/articles/801089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801089)
 - [Основные типы распределений вероятностей в примерах](https://habr.com/ru/articles/801101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801101)
-- [Дешево и сердито: геймдев на Godot 4.2 для тех, кто знает Python](https://habr.com/ru/companies/selectel/articles/801009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
