@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Kubernetes платформа Gitorion. Непрерывная интеграция CI на базе Gitea/Forgejo](https://habr.com/ru/companies/gitorion/articles/799933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799933)
 - [Декодируем protobuf загружая чанки loadable-components в NodeJS](https://habr.com/ru/articles/800861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800861)
 - [Мобильная разработка за неделю #530 &lpar;11 — 17 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/800857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800857)
 - [Без про-v-ода. Поднимаем точку доступа ловушку, тестируем сети на проникновение](https://habr.com/ru/articles/800853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800853)
 - [9 Синтез и коррекция систем автоматического регулирования &lpar;САР&rpar;](https://habr.com/ru/articles/797669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797669)
-- [UML: обзор основных типов диаграмм, диаграмма объектов. Часть 3](https://habr.com/ru/articles/800849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800849)
 <!-- BLOG-POST-LIST:END -->
 
 ---
