@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тестирование пользовательского интерфейса | Flutter](https://habr.com/ru/articles/801069/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801069)
+- [Паттерны Singleton и Multiton в Java: когда и какой лучше?](https://habr.com/ru/companies/otus/articles/800477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800477)
 - [Аналитик за 4 месяца в Автомаконе: почему и зачем? как? где? когда? сколько?](https://habr.com/ru/companies/automacon/articles/801053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801053)
 - [Выпущена версия Jmix 2.2](https://habr.com/ru/companies/haulmont/articles/800335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800335)
 - [[Перевод] Разработка под Android в 2024 году](https://habr.com/ru/companies/otus/articles/800979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800979)
-- [Расчёт вкусов пользователя для ленты рекомендаций с применением item2vec-подхода](https://habr.com/ru/companies/odnoklassniki/articles/800141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800141)
-- [Создаём DolbyDigital Surround аудио-плеер](https://habr.com/ru/articles/801019/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801019)
 <!-- BLOG-POST-LIST:END -->
 
 ---
