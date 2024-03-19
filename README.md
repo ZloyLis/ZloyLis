@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: свойство display](https://habr.com/ru/companies/ruvds/articles/798975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798975)
+- [Как собрать контейнер и не вооружить хакера](https://habr.com/ru/companies/oleg-bunin/articles/799773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799773)
+- [Зачем нужна цифровизация культуры и можно ли оцифровать эчпочмак?](https://habr.com/ru/articles/801263/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801263)
 - [Стажерская программа глазами бывшего стажера](https://habr.com/ru/companies/ascon/articles/795739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795739)
 - [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/801227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801227)
-- [Высшее образование от Яндекс Практикума: как устроено сотрудничество эдтеха и вузов](https://habr.com/ru/companies/yandex_praktikum/articles/799937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799937)
-- [Quantization Deep Dive, или Введение в современную квантизацию](https://habr.com/ru/companies/yandex/articles/800945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800945)
-- [Основы тестирования в Go: mock-объекты, fuzzing и property-based testing](https://habr.com/ru/companies/otus/articles/800717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800717)
 <!-- BLOG-POST-LIST:END -->
 
 ---
