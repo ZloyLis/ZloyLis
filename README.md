@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В толковый словарь Business Process Management: Процесс vs Проект](https://habr.com/ru/articles/801533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801533)
 - [Перехват трафика мобильных приложений](https://habr.com/ru/articles/801505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801505)
 - [Сначала войдите через Телеграм](https://habr.com/ru/articles/801121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801121)
 - [Блокчейн для чайников: создаем свой первый распределенный реестр](https://habr.com/ru/companies/web3_tech/articles/801457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801457)
 - [Что такое Risk Storming?](https://habr.com/ru/articles/801431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801431)
-- [Кеширование next.js. Дар или проклятие](https://habr.com/ru/articles/801143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801143)
 <!-- BLOG-POST-LIST:END -->
 
 ---
