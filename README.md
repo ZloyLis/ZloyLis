@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стажерская программа глазами бывшего стажера](https://habr.com/ru/companies/ascon/articles/795739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795739)
+- [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/801227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801227)
 - [Высшее образование от Яндекс Практикума: как устроено сотрудничество эдтеха и вузов](https://habr.com/ru/companies/yandex_praktikum/articles/799937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799937)
 - [Quantization Deep Dive, или Введение в современную квантизацию](https://habr.com/ru/companies/yandex/articles/800945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800945)
 - [Основы тестирования в Go: mock-объекты, fuzzing и property-based testing](https://habr.com/ru/companies/otus/articles/800717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800717)
-- [[Перевод] Выявление ошибок в работе с памятью в C и C++: Сравниваем Sanitizers и Valgrind](https://habr.com/ru/companies/otus/articles/801123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801123)
-- [Monkey patching в Go, или грабли от Apple](https://habr.com/ru/articles/801177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
