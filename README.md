@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ищем Арнольда Шварценеггера среди мужчин, женщин и детей с помощью нейросети на С++](https://habr.com/ru/companies/yadro/articles/800533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800533)
+- [Хочу работать аналитиком. Как пройти собеседование?](https://habr.com/ru/companies/sigma/articles/801103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801103)
+- [Как провести фаззинг REST API с помощью RESTler. Часть 2](https://habr.com/ru/companies/swordfish_security/articles/801313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801313)
 - [Быстрый старт, или Как ускорить запуск iOS-приложений](https://habr.com/ru/companies/simbirsoft/articles/801251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801251)
 - [Android TOML. Просто о каталогах зависимостей в Android Studio](https://habr.com/ru/articles/801287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801287)
-- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: свойство display](https://habr.com/ru/companies/ruvds/articles/798975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798975)
-- [Как собрать контейнер и не вооружить хакера](https://habr.com/ru/companies/oleg-bunin/articles/799773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799773)
-- [Зачем нужна цифровизация культуры и можно ли оцифровать эчпочмак?](https://habr.com/ru/articles/801263/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801263)
 <!-- BLOG-POST-LIST:END -->
 
 ---
