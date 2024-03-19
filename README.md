@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Высшее образование от Яндекс Практикума: как устроено сотрудничество эдтеха и вузов](https://habr.com/ru/companies/yandex_praktikum/articles/799937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799937)
+- [Quantization Deep Dive, или Введение в современную квантизацию](https://habr.com/ru/companies/yandex/articles/800945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800945)
+- [Основы тестирования в Go: mock-объекты, fuzzing и property-based testing](https://habr.com/ru/companies/otus/articles/800717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800717)
+- [[Перевод] Выявление ошибок в работе с памятью в C и C++: Сравниваем Sanitizers и Valgrind](https://habr.com/ru/companies/otus/articles/801123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801123)
 - [Monkey patching в Go, или грабли от Apple](https://habr.com/ru/articles/801177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801177)
-- [Исследуем лицензирование Cockroach DB до Enterprise или не случившийся хард-реверс-инжиниринг](https://habr.com/ru/articles/801185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801185)
-- [Парочка open source решений по доставке уведомлений](https://habr.com/ru/companies/vasexperts/articles/798889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798889)
-- [Apple Pro Weekly News &lpar;11.03 – 17.03.24&rpar;](https://habr.com/ru/articles/801141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801141)
-- [Security Week 2412: атака на ChatGPT по сторонним каналам](https://habr.com/ru/companies/kaspersky/articles/800913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800913)
 <!-- BLOG-POST-LIST:END -->
 
 ---
