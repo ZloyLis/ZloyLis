@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python, JavaScript или C++? Рассказываем, какие языки программирования изучать в 2024 году](https://habr.com/ru/companies/selectel/articles/801765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801765)
+- [End-of-Life: как понять, пора ли закрывать продукт, основываясь на данных](https://habr.com/ru/companies/sbermarket/articles/801735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801735)
 - [Анонимная P2P-сеть внутри централизованного HTTPS-сервера: вшиваем паразитный трафик всеми правдами и неправдами](https://habr.com/ru/articles/800965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800965)
-- [Python, JavaScript или C++? Рассказываем, какие языки программирования изучать в 2024 году](https://habr.com/ru/companies/selectel/articles/801723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801723)
 - [Подробный гайд «Как испортить обучение сотрудников»](https://habr.com/ru/articles/801739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801739)
 - [Как провести unit-тестирование Flink-операторов: TestHarness](https://habr.com/ru/companies/ru_mts/articles/801693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801693)
-- [GIL в Python: как его будут отключать](https://habr.com/ru/articles/801675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
