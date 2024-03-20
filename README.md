@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерактивные виджет-подборки в Иви &lpar;iOS&rpar;](https://habr.com/ru/companies/ivi/articles/796331/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796331)
+- [Восприятие английского на слух: упражнения, полезные советы и подборка ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/796551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796551)
+- [Насмотренность в разработке: путь к красивому и чистому коду](https://habr.com/ru/companies/ozontech/articles/801099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801099)
+- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 7. Планирование процессов](https://habr.com/ru/articles/801567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801567)
 - [Плагин для анализа планов PostgreSQL в VS Code, и его разработка](https://habr.com/ru/companies/tensor/articles/801439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801439)
-- [Глубокий взгляд на асинхронность в Java Script: роль Event Loop, Event Bus, промисов и async/await](https://habr.com/ru/articles/801543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801543)
-- [В толковый словарь Business Process Management: Процесс vs Проект](https://habr.com/ru/articles/801533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801533)
-- [Перехват трафика мобильных приложений](https://habr.com/ru/articles/801505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801505)
-- [Сначала войдите через Телеграм](https://habr.com/ru/articles/801121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801121)
 <!-- BLOG-POST-LIST:END -->
 
 ---
