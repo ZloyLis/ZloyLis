@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GIL в Python: как его будут отключать](https://habr.com/ru/articles/801675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801675)
+- [Вы за это заплатите! Цена Чистой Архитектуры](https://habr.com/ru/companies/vk/articles/801393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801393)
 - [Medallion Джима Саймонса – самый черный ящик индустрии по управлению деньгами](https://habr.com/ru/articles/801637/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801637)
 - [А/Б тестирование на маленьких выборках. Построение собственного критерия](https://habr.com/ru/companies/X5Tech/articles/801527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801527)
 - [Продуктовые апдейты февраля: облако 1С, серверы с Keycloak и многое другое](https://habr.com/ru/companies/selectel/articles/801565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801565)
-- [Превратите свой пет-проект из хобби в карьеру](https://habr.com/ru/articles/801549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801549)
-- [[Перевод] Создание интерактивных анимаций с помощью React Spring](https://habr.com/ru/companies/otus/articles/801591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801591)
 <!-- BLOG-POST-LIST:END -->
 
 ---
