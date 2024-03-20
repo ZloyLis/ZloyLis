@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонимная P2P-сеть внутри централизованного HTTPS-сервера: вшиваем паразитный трафик всеми правдами и неправдами](https://habr.com/ru/articles/800965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800965)
+- [Python, JavaScript или C++? Рассказываем, какие языки программирования изучать в 2024 году](https://habr.com/ru/companies/selectel/articles/801723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801723)
+- [Подробный гайд «Как испортить обучение сотрудников»](https://habr.com/ru/articles/801739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801739)
 - [Как провести unit-тестирование Flink-операторов: TestHarness](https://habr.com/ru/companies/ru_mts/articles/801693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801693)
 - [GIL в Python: как его будут отключать](https://habr.com/ru/articles/801675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801675)
-- [Вы за это заплатите! Цена Чистой Архитектуры](https://habr.com/ru/companies/vk/articles/801393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801393)
-- [Medallion Джима Саймонса – самый черный ящик индустрии по управлению деньгами](https://habr.com/ru/articles/801637/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801637)
-- [А/Б тестирование на маленьких выборках. Построение собственного критерия](https://habr.com/ru/companies/X5Tech/articles/801527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801527)
 <!-- BLOG-POST-LIST:END -->
 
 ---
