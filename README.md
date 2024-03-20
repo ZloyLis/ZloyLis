@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продуктовые апдейты февраля: облако 1С, серверы с Keycloak и многое другое](https://habr.com/ru/companies/selectel/articles/801565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801565)
+- [Превратите свой пет-проект из хобби в карьеру](https://habr.com/ru/articles/801549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801549)
+- [[Перевод] Создание интерактивных анимаций с помощью React Spring](https://habr.com/ru/companies/otus/articles/801591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801591)
+- [Нейросети для программистов: уже что-то умеют или еще пока совсем джуны?](https://habr.com/ru/articles/801319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801319)
 - [[Перевод] Когда одного Postgres&#39;a мало: сравнение производительности PostgreSQL и распределенных СУБД](https://habr.com/ru/companies/ydb/articles/801587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801587)
-- [Интерактивные виджет-подборки в Иви &lpar;iOS&rpar;](https://habr.com/ru/companies/ivi/articles/796331/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796331)
-- [Восприятие английского на слух: упражнения, полезные советы и подборка ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/796551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796551)
-- [Насмотренность в разработке: путь к красивому и чистому коду](https://habr.com/ru/companies/ozontech/articles/801099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801099)
-- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 7. Планирование процессов](https://habr.com/ru/articles/801567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801567)
 <!-- BLOG-POST-LIST:END -->
 
 ---
