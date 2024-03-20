@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение cryptopals. Часть 1](https://habr.com/ru/articles/801805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801805)
 - [Реализации Microkernel архитектуры с помощью Java OSGI](https://habr.com/ru/articles/801785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801785)
 - [[Перевод] Hono vs. H3 vs. HatTip vs. Elysia — современные замены Express для сервера &lpar;или без сервера&rpar;](https://habr.com/ru/companies/bothub/articles/801661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801661)
 - [Анализ зависимостей бинарных файлов на основе ML. Заключительная часть](https://habr.com/ru/companies/tinkoff/articles/801777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801777)
 - [Python, JavaScript или C++? Рассказываем, какие языки программирования изучать в 2024 году](https://habr.com/ru/companies/selectel/articles/801765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801765)
-- [End-of-Life: как понять, пора ли закрывать продукт, основываясь на данных](https://habr.com/ru/companies/sbermarket/articles/801735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801735)
 <!-- BLOG-POST-LIST:END -->
 
 ---
