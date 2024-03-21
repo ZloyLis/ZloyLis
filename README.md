@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем асинхронный парсер и скрапер картинок на Python с графическим интерфейсом](https://habr.com/ru/articles/801981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801981)
+- [lip_SKUD – родительский контроль для турникетов](https://habr.com/ru/articles/801979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801979)
 - [Обновление кешей сервисов в реальном времени с помощью YDB CDC на примере Yandex Monitoring](https://habr.com/ru/companies/oleg-bunin/articles/801603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801603)
 - [От хаоса к порядку. Как мы внедряем стандарты в CDEK](https://habr.com/ru/companies/cdek_blog/articles/801421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801421)
 - [Хоппер или цистерна? Теплушка или малыш? Как мы сделали экспресс-курс о железной дороге для айтишников и не только](https://habr.com/ru/companies/pgk/articles/801617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801617)
-- [Рекомендации по моделированию данных](https://habr.com/ru/companies/usetech/articles/801935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801935)
-- [Специалисты по COBOL теперь не нужны? Появился свободный компилятор, который снижает потребность в разработчиках](https://habr.com/ru/companies/ru_mts/articles/801927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801927)
 <!-- BLOG-POST-LIST:END -->
 
 ---
