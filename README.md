@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление кешей сервисов в реальном времени с помощью YDB CDC на примере Yandex Monitoring](https://habr.com/ru/companies/oleg-bunin/articles/801603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801603)
+- [От хаоса к порядку. Как мы внедряем стандарты в CDEK](https://habr.com/ru/companies/cdek_blog/articles/801421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801421)
+- [Хоппер или цистерна? Теплушка или малыш? Как мы сделали экспресс-курс о железной дороге для айтишников и не только](https://habr.com/ru/companies/pgk/articles/801617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801617)
+- [Рекомендации по моделированию данных](https://habr.com/ru/companies/usetech/articles/801935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801935)
 - [Специалисты по COBOL теперь не нужны? Появился свободный компилятор, который снижает потребность в разработчиках](https://habr.com/ru/companies/ru_mts/articles/801927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801927)
-- [Как создать свой DAO с блэкджеком и OpenZeppelin?](https://habr.com/ru/companies/metalamp/articles/801919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801919)
-- [Как хакеры ломают банки за 48 часов и что нужно для защиты](https://habr.com/ru/companies/pt/articles/801213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801213)
-- [В моих жилах течет моддерская кровь: как и зачем я променял оригинальный айфон на нерабочую подделку за 1500 рублей?](https://habr.com/ru/companies/timeweb/articles/800633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800633)
-- [Непобедимый null: копаемся в исходном коде nopCommerce](https://habr.com/ru/companies/pvs-studio/articles/801909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801909)
 <!-- BLOG-POST-LIST:END -->
 
 ---
