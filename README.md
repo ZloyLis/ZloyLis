@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматическая Генерация Конфигураций для Make Сборок](https://habr.com/ru/articles/798213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798213)
 - [Альтернативный вариант к подходу хранения SQL-кода в репозитории и его разработке](https://habr.com/ru/articles/800375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800375)
 - [ViewModel + Kotlin Multiplatform. Пробуем нативное решение](https://habr.com/ru/articles/802111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802111)
 - [Путь развития Frontend разработчика &lpar;Вторая часть&rpar;](https://habr.com/ru/articles/802047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802047)
 - [Использование кастомных шаблонов и конфигов для swagger-typescript-api](https://habr.com/ru/articles/802097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802097)
-- [Как работает физика в играх](https://habr.com/ru/articles/801479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801479)
 <!-- BLOG-POST-LIST:END -->
 
 ---
