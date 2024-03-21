@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь развития Frontend разработчика &lpar;Вторая часть&rpar;](https://habr.com/ru/articles/802047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802047)
+- [Использование кастомных шаблонов и конфигов для swagger-typescript-api](https://habr.com/ru/articles/802097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802097)
 - [Как работает физика в играх](https://habr.com/ru/articles/801479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801479)
 - [Тьюринг и Гёдель — два взгляда на искусственный интеллект и не только](https://habr.com/ru/companies/agima/articles/802027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802027)
 - [Коэффициенты для экстраполяции прогнозов компонент CLTV на 5 лет](https://habr.com/ru/companies/beeline_tech/articles/802005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802005)
-- [API для хостинга: кому он потребовался и как мы его сделали](https://habr.com/ru/companies/spaceweb/articles/801917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801917)
-- [Пишем асинхронный парсер и скрапер картинок на Python с графическим интерфейсом](https://habr.com/ru/articles/801981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801981)
 <!-- BLOG-POST-LIST:END -->
 
 ---
