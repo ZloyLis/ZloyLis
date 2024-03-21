@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты по COBOL теперь не нужны? Появился свободный компилятор, который снижает потребность в разработчиках](https://habr.com/ru/companies/ru_mts/articles/801927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801927)
+- [Как создать свой DAO с блэкджеком и OpenZeppelin?](https://habr.com/ru/companies/metalamp/articles/801919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801919)
+- [Как хакеры ломают банки за 48 часов и что нужно для защиты](https://habr.com/ru/companies/pt/articles/801213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801213)
 - [В моих жилах течет моддерская кровь: как и зачем я променял оригинальный айфон на нерабочую подделку за 1500 рублей?](https://habr.com/ru/companies/timeweb/articles/800633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800633)
 - [Непобедимый null: копаемся в исходном коде nopCommerce](https://habr.com/ru/companies/pvs-studio/articles/801909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801909)
-- [[Перевод] Зачем в мобильной разработке использовать Flow, если есть мощный ChannelFlow?](https://habr.com/ru/companies/otus/articles/801907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801907)
-- [Малоизвестные детали реализации Math.Round&lpar;&rpar; в .Net](https://habr.com/ru/articles/801899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801899)
-- [[Перевод] О вреде Test Driven Development](https://habr.com/ru/articles/801891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801891)
 <!-- BLOG-POST-LIST:END -->
 
 ---
