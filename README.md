@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтернативный вариант к подходу хранения SQL-кода в репозитории и его разработке](https://habr.com/ru/articles/800375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800375)
+- [ViewModel + Kotlin Multiplatform. Пробуем нативное решение](https://habr.com/ru/articles/802111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802111)
 - [Путь развития Frontend разработчика &lpar;Вторая часть&rpar;](https://habr.com/ru/articles/802047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802047)
 - [Использование кастомных шаблонов и конфигов для swagger-typescript-api](https://habr.com/ru/articles/802097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802097)
 - [Как работает физика в играх](https://habr.com/ru/articles/801479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801479)
-- [Тьюринг и Гёдель — два взгляда на искусственный интеллект и не только](https://habr.com/ru/companies/agima/articles/802027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802027)
-- [Коэффициенты для экстраполяции прогнозов компонент CLTV на 5 лет](https://habr.com/ru/companies/beeline_tech/articles/802005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802005)
 <!-- BLOG-POST-LIST:END -->
 
 ---
