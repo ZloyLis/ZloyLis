@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Must или не must? Какие софтскилы действительно нужны бизнес-аналитику](https://habr.com/ru/companies/yandex_praktikum/articles/798219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798219)
-- [Будущее Kubernetes и DevOps: строим прогнозы на 10 лет](https://habr.com/ru/companies/flant/articles/800959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800959)
-- [Пора переходить на микрофронтенд? Опыт “Инферит Клаудмастер”](https://habr.com/ru/companies/inferit/articles/801737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801737)
-- [Внутренний мир: Java NIO](https://habr.com/ru/articles/801811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801811)
-- [Удаленная фискализация чеков](https://habr.com/ru/articles/801841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801841)
+- [В моих жилах течет моддерская кровь: как и зачем я променял оригинальный айфон на нерабочую подделку за 1500 рублей?](https://habr.com/ru/companies/timeweb/articles/800633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800633)
+- [Непобедимый null: копаемся в исходном коде nopCommerce](https://habr.com/ru/companies/pvs-studio/articles/801909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801909)
+- [[Перевод] Зачем в мобильной разработке использовать Flow, если есть мощный ChannelFlow?](https://habr.com/ru/companies/otus/articles/801907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801907)
+- [Малоизвестные детали реализации Math.Round&lpar;&rpar; в .Net](https://habr.com/ru/articles/801899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801899)
+- [[Перевод] О вреде Test Driven Development](https://habr.com/ru/articles/801891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801891)
 <!-- BLOG-POST-LIST:END -->
 
 ---
