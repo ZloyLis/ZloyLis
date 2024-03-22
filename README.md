@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [INP: что это и зачем с этим работать](https://habr.com/ru/companies/docdoc/articles/802329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802329)
 - [Что будет, если в мире исчезнут все специалисты по кибербезопасности](https://habr.com/ru/companies/productstar/articles/802313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802313)
 - [[Перевод] Механика Async Await](https://habr.com/ru/companies/piter/articles/802275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802275)
 - [От Angular до биотеха: что будет на HolyJS 2024 Spring](https://habr.com/ru/companies/jugru/articles/802063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802063)
 - [Вы за это заплатите! Цена Чистой Архитектуры. Часть 2](https://habr.com/ru/companies/vk/articles/801849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801849)
-- [Как рождаются идеи pet-проектов?.](https://habr.com/ru/articles/802277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802277)
 <!-- BLOG-POST-LIST:END -->
 
 ---
