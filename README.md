@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [YandexMapKit и SwiftUI: обратный геокодинг](https://habr.com/ru/articles/802227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802227)
+- [Как мы лечили раздвоение встреч в конференциях на базе Jitsi](https://habr.com/ru/companies/yandex/articles/801647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801647)
 - [Как оценка актуальности резюме помогла работодателям эффективнее находить кандидатов](https://habr.com/ru/companies/avito/articles/802161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802161)
 - [Воплощённые типы](https://habr.com/ru/articles/802213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802213)
 - [[Перевод] Dart 3.1 и ретроспектива программирования в функциональном стиле в Dart 3](https://habr.com/ru/articles/802165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802165)
-- [Tinkoff CTF 2024: разбор демозадания](https://habr.com/ru/companies/tinkoff/articles/801771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801771)
-- [Путь iOS-разработчика: как я много собеседовался и попал на стажировку](https://habr.com/ru/companies/banki/articles/797991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797991)
 <!-- BLOG-POST-LIST:END -->
 
 ---
