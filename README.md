@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эффективные трассировки в Go](https://habr.com/ru/articles/802107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802107)
+- [Что такое бизнес-требования и как с ними &lpar;не&rpar; бороться](https://habr.com/ru/companies/magnit/articles/801959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801959)
+- [С 500 мс до нуля, или история о том, как я написал Node.js C++ addon и ускорил скидочный сервис в 500 раз](https://habr.com/ru/companies/lad_/articles/802153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802153)
 - [Быстрые методы оценки и мудрость толпы: проверяем в реальной жизни](https://habr.com/ru/articles/801847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801847)
 - [[Перевод] Онбординг-рулетка: о том, как мы ежедневно удаляем аккаунты своих сотрудников](https://habr.com/ru/companies/productivity_inside/articles/802139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802139)
-- [Автоматическая Генерация Конфигураций для Make Сборок](https://habr.com/ru/articles/798213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798213)
-- [Альтернативный вариант к подходу хранения SQL-кода в репозитории и его разработке](https://habr.com/ru/articles/800375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800375)
-- [ViewModel + Kotlin Multiplatform. Пробуем нативное решение](https://habr.com/ru/companies/usetech/articles/802111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802111)
 <!-- BLOG-POST-LIST:END -->
 
 ---
