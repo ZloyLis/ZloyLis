@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генератор документов на OpenSource стэке](https://habr.com/ru/articles/765438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765438)
 - [Прожарка. Luxms BI](https://habr.com/ru/articles/802349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802349)
 - [PHP и Laravel дайджест новостей за февраль 2024 года](https://habr.com/ru/articles/802343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802343)
 - [Web3: Фантастические SDAPPS и где они обитают](https://habr.com/ru/articles/802335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802335)
 - [INP: что это и зачем с этим работать](https://habr.com/ru/companies/docdoc/articles/802329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802329)
-- [Что будет, если в мире исчезнут все специалисты по кибербезопасности](https://habr.com/ru/companies/productstar/articles/802313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
