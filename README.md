@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вы за это заплатите! Цена Чистой Архитектуры. Часть 2](https://habr.com/ru/companies/vk/articles/801849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801849)
+- [Как рождаются идеи pet-проектов?.](https://habr.com/ru/articles/802277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802277)
+- [Алгоритм генерации столбцов &lpar;Column Generation&rpar;](https://habr.com/ru/articles/800527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800527)
+- [Разница между Ctrl+Z и Ctrl+C или рассказ о том как правильно остановить локальный сервер](https://habr.com/ru/articles/802255/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802255)
 - [[Перевод] Битва фреймворков: сравнение высокопроизводительных HTTP-библиотек](https://habr.com/ru/companies/ncloudtech/articles/802007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802007)
-- [Респонс по DaVinci: как мы перевернули систему работы Security-аналитика и что из этого вышло](https://habr.com/ru/companies/kaspersky/articles/801451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801451)
-- [YandexMapKit и SwiftUI: обратный геокодинг](https://habr.com/ru/articles/802227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802227)
-- [Как мы лечили раздвоение встреч в конференциях на базе Jitsi](https://habr.com/ru/companies/yandex/articles/801647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801647)
-- [Как оценка актуальности резюме помогла работодателям эффективнее находить кандидатов](https://habr.com/ru/companies/avito/articles/802161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802161)
 <!-- BLOG-POST-LIST:END -->
 
 ---
