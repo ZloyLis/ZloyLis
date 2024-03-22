@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Angular до биотеха: что будет на HolyJS 2024 Spring](https://habr.com/ru/companies/jugru/articles/802063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802063)
 - [Вы за это заплатите! Цена Чистой Архитектуры. Часть 2](https://habr.com/ru/companies/vk/articles/801849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801849)
 - [Как рождаются идеи pet-проектов?.](https://habr.com/ru/articles/802277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802277)
 - [Алгоритм генерации столбцов &lpar;Column Generation&rpar;](https://habr.com/ru/articles/800527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800527)
 - [Разница между Ctrl+Z и Ctrl+C или рассказ о том как правильно остановить локальный сервер](https://habr.com/ru/articles/802255/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802255)
-- [[Перевод] Битва фреймворков: сравнение высокопроизводительных HTTP-библиотек](https://habr.com/ru/companies/ncloudtech/articles/802007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802007)
 <!-- BLOG-POST-LIST:END -->
 
 ---
