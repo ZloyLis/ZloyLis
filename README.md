@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Dart 3.1 и ретроспектива программирования в функциональном стиле в Dart 3](https://habr.com/ru/articles/802165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802165)
+- [Tinkoff CTF 2024: разбор демозадания](https://habr.com/ru/companies/tinkoff/articles/801771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801771)
 - [Путь iOS-разработчика: как я много собеседовался и попал на стажировку](https://habr.com/ru/companies/banki/articles/797991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797991)
 - [Почем бакалавриат для народа?](https://habr.com/ru/articles/789054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=789054)
 - [[Перевод] Эффективные трассировки в Go](https://habr.com/ru/articles/802107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802107)
-- [Что такое бизнес-требования и как с ними &lpar;не&rpar; бороться](https://habr.com/ru/companies/magnit/articles/801959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801959)
-- [С 500 мс до нуля, или история о том, как я написал Node.js C++ addon и ускорил скидочный сервис в 500 раз](https://habr.com/ru/companies/lad_/articles/802153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802153)
 <!-- BLOG-POST-LIST:END -->
 
 ---
