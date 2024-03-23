@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Психологика» в кубе](https://habr.com/ru/articles/802383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802383)
 - [Дополнение сетецентрической системы приёмников звука активной подсветкой объектов наблюдения](https://habr.com/ru/articles/802381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802381)
 - [Генератор документов на OpenSource стэке](https://habr.com/ru/articles/765438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765438)
 - [Прожарка. Luxms BI](https://habr.com/ru/articles/802349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802349)
 - [PHP и Laravel дайджест новостей за февраль 2024 года](https://habr.com/ru/articles/802343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802343)
-- [Web3: Фантастические SDAPPS и где они обитают](https://habr.com/ru/articles/802335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
