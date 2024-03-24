@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Адаптация алгоритма Дейкстры для расчёта кратчайших путей в IP-сетях](https://habr.com/ru/articles/802519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802519)
 - [[Перевод] Как я выиграл Хакатон, едва не потеряв рассудок](https://habr.com/ru/companies/ruvds/articles/801873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801873)
 - [SwiftUI уроки &lpar;часть 5&rpar;](https://habr.com/ru/articles/802489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802489)
 - [Современный способ организации зависимостей в Android. Version catalog и Gradle convention plugin](https://habr.com/ru/articles/802473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802473)
 - [Как устроена наша PIM-система, и почему мы не используем ни реакт, ни микросервисы](https://habr.com/ru/articles/802465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802465)
-- [Реактивность в Vue и React](https://habr.com/ru/articles/802451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802451)
 <!-- BLOG-POST-LIST:END -->
 
 ---
