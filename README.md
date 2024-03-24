@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современный способ организации зависимостей в Android. Version catalog и Gradle convention plugin](https://habr.com/ru/articles/802473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802473)
 - [Как устроена наша PIM-система, и почему мы не используем ни реакт, ни микросервисы](https://habr.com/ru/articles/802465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802465)
 - [Сравнение работы Virtual DOM в React и Vue](https://habr.com/ru/articles/802451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802451)
 - [«Психологика» в кубе](https://habr.com/ru/articles/802383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802383)
 - [Дополнение сетецентрической системы приёмников звука активной подсветкой объектов наблюдения](https://habr.com/ru/articles/802381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802381)
-- [Генератор документов на OpenSource стэке](https://habr.com/ru/articles/765438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=765438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
