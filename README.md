@@ -32,7 +32,7 @@ ___
 - [SwiftUI уроки &lpar;часть 5&rpar;](https://habr.com/ru/articles/802489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802489)
 - [Современный способ организации зависимостей в Android. Version catalog и Gradle convention plugin](https://habr.com/ru/articles/802473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802473)
 - [Как устроена наша PIM-система, и почему мы не используем ни реакт, ни микросервисы](https://habr.com/ru/articles/802465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802465)
-- [Сравнение работы Virtual DOM в React и Vue](https://habr.com/ru/articles/802451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802451)
+- [Сравнение работы ре-рендеринга страниц в React и Vue](https://habr.com/ru/articles/802451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802451)
 - [«Психологика» в кубе](https://habr.com/ru/articles/802383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802383)
 <!-- BLOG-POST-LIST:END -->
 
