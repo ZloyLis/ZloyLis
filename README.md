@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самый простой гайд по созданию бота для анализа сообщений в Telegram](https://habr.com/ru/companies/selectel/articles/802629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802629)
 - [Как может расти бизнес-аналитик](https://habr.com/ru/companies/yandex_praktikum/articles/801741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801741)
 - [[Перевод] Rust 1.77.0: C-подобные строки, offset_of!, рекурсивные async fn, strip в release-профилях](https://habr.com/ru/articles/802725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802725)
 - [[Перевод] Эффективный Dart](https://habr.com/ru/articles/802723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802723)
 - [[Перевод] Синглтоны в Java](https://habr.com/ru/companies/otus/articles/802717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802717)
-- [Экспортируем иконки из Figma в проект одним кликом: история одной автоматизации](https://habr.com/ru/companies/tochka/articles/802397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802397)
 <!-- BLOG-POST-LIST:END -->
 
 ---
