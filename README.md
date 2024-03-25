@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2413: аппаратная уязвимость в процессорах Apple](https://habr.com/ru/companies/kaspersky/articles/802795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802795)
+- [Как я сдала IELTS в 2023 году и подтвердила свой уровень Advanced](https://habr.com/ru/articles/779528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779528)
+- [История одной очереди](https://habr.com/ru/articles/802791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802791)
 - [Как проверить локаторы с помощью Playwright](https://habr.com/ru/articles/802767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802767)
 - [[Перевод] Кто убил сетевой коммутатор?](https://habr.com/ru/companies/bothub/articles/802695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802695)
-- [Математические фантазии о справедливости](https://habr.com/ru/articles/802577/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802577)
-- [[Перевод] Чему разработчики ПО могут научиться у стоматологов](https://habr.com/ru/companies/ruvds/articles/802707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802707)
-- [Самый простой гайд по созданию бота для анализа сообщений в Telegram](https://habr.com/ru/companies/selectel/articles/802629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802629)
 <!-- BLOG-POST-LIST:END -->
 
 ---
