@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Kubernetes платформа Gitorion. Непрерывная доставка CD на базе Jenkins](https://habr.com/ru/companies/gitorion/articles/801609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801609)
 - [Мобильная разработка за неделю #531 &lpar;18 — 24 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/802593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802593)
 - [Async/await. Куда делся thread.  Инверсия асинхронности. Разоблачение мистификации](https://habr.com/ru/articles/802479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802479)
 - [apiman.io — api-шлюз для интеграционного обмена с открытым кодом](https://habr.com/ru/articles/802427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802427)
 - [Ассемблер: x86/x86_64/Arm32/Arm64](https://habr.com/ru/articles/802523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802523)
-- [Адаптация алгоритма Дейкстры для расчёта кратчайших путей в IP-сетях](https://habr.com/ru/articles/802519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
