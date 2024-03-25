@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Монады как строительные блоки функционального Java](https://habr.com/ru/companies/otus/articles/800957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800957)
-- [Плагин для анализа планов PostgreSQL в Sublime Text, и его разработка](https://habr.com/ru/companies/tensor/articles/802033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802033)
-- [CI/CD Kubernetes платформа Gitorion. Непрерывная доставка CD на базе Jenkins](https://habr.com/ru/companies/gitorion/articles/801609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801609)
-- [Мобильная разработка за неделю #531 &lpar;18 — 24 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/802593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802593)
-- [Async/await. Куда делся thread.  Инверсия асинхронности. Разоблачение мистификации](https://habr.com/ru/articles/802479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802479)
+- [Настраиваем ExecutorService&#39;ы под свои нужды](https://habr.com/ru/articles/802113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802113)
+- [Как дизайнеру найти работу?](https://habr.com/ru/articles/802639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802639)
+- [Статический анализ структуры базы данных &lpar;часть 1&rpar;](https://habr.com/ru/articles/800121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800121)
+- [Обозреваем и практикуем популярные OSINT инструменты](https://habr.com/ru/articles/802621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802621)
+- [LibreOffice под микроскопом: создаём одноклеточное расширение](https://habr.com/ru/articles/802413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
