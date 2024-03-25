@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экспортируем иконки из Figma в проект одним кликом: история одной автоматизации](https://habr.com/ru/companies/tochka/articles/802397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802397)
+- [Ловушки интеграционного тестирования в Spring Boot](https://habr.com/ru/companies/cian/articles/802673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802673)
 - [Автоматическое тестирование ускорило разработку в 50 раз. Сказка от создателей FoundationDB](https://habr.com/ru/companies/ruvds/articles/800009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800009)
 - [Как работает NDA в разработке приложений? + шаблон НДА](https://habr.com/ru/articles/802651/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802651)
 - [Как пишут SQL-запросы гуманитарии](https://habr.com/ru/articles/802645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802645)
-- [Настраиваем ExecutorService&#39;ы под свои нужды](https://habr.com/ru/articles/802113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802113)
-- [Как дизайнеру найти работу?](https://habr.com/ru/articles/802639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802639)
 <!-- BLOG-POST-LIST:END -->
 
 ---
