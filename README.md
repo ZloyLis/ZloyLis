@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;18.03 – 24.03.24&rpar;](https://habr.com/ru/articles/802823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802823)
 - [Как получить Midjourney’s API](https://habr.com/ru/articles/802813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802813)
 - [ChatGPT для изучения программирования. Не очевидные примеры](https://habr.com/ru/articles/802811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802811)
 - [Security Week 2413: аппаратная уязвимость в процессорах Apple](https://habr.com/ru/companies/kaspersky/articles/802795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802795)
 - [Как я сдала IELTS в 2023 году и подтвердила свой уровень Advanced](https://habr.com/ru/articles/779528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=779528)
-- [История одной очереди](https://habr.com/ru/articles/802791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802791)
 <!-- BLOG-POST-LIST:END -->
 
 ---
