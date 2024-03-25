@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Async/await. Куда делся thread.  Инверсия асинхронности. Разоблачение мистификации](https://habr.com/ru/articles/802479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802479)
 - [apiman.io — api-шлюз для интеграционного обмена с открытым кодом](https://habr.com/ru/articles/802427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802427)
 - [Ассемблер: x86/x86_64/Arm32/Arm64](https://habr.com/ru/articles/802523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802523)
 - [Адаптация алгоритма Дейкстры для расчёта кратчайших путей в IP-сетях](https://habr.com/ru/articles/802519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802519)
 - [[Перевод] Как я выиграл Хакатон, едва не потеряв рассудок](https://habr.com/ru/companies/ruvds/articles/801873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801873)
-- [SwiftUI уроки &lpar;часть 5&rpar;](https://habr.com/ru/articles/802489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
