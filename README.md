@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматическое тестирование ускорило разработку в 50 раз. Сказка от создателей FoundationDB](https://habr.com/ru/companies/ruvds/articles/800009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800009)
+- [Как работает NDA в разработке приложений? + шаблон НДА](https://habr.com/ru/articles/802651/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802651)
+- [Как пишут SQL-запросы гуманитарии](https://habr.com/ru/articles/802645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802645)
 - [Настраиваем ExecutorService&#39;ы под свои нужды](https://habr.com/ru/articles/802113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802113)
 - [Как дизайнеру найти работу?](https://habr.com/ru/articles/802639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802639)
-- [Статический анализ структуры базы данных &lpar;часть 1&rpar;](https://habr.com/ru/articles/800121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800121)
-- [Обозреваем и практикуем популярные OSINT инструменты](https://habr.com/ru/articles/802621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802621)
-- [LibreOffice под микроскопом: создаём одноклеточное расширение](https://habr.com/ru/articles/802413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
