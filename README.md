@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Context receivers — новые extension functions](https://habr.com/ru/companies/ozontech/articles/802641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802641)
 - [Kotlin Coroutines. Часть 1: Первое погружение](https://habr.com/ru/companies/reksoft/articles/802353/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802353)
 - [Диплом специалиста ИБ. Часть №5 — Несанкционированный доступ к IoT-устройствам с BLE](https://habr.com/ru/articles/792730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792730)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 7](https://habr.com/ru/companies/ruvds/articles/800593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800593)
 - [Нормализация событий информационной безопасности и как ее можно выполнять с помощью языка eXtraction and Processing](https://habr.com/ru/companies/pt/articles/802205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802205)
-- [C3D Collision Detection: представление детектора столкновений в составе C3D Toolkit](https://habr.com/ru/companies/ascon/articles/793924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
