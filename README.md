@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Знакомьтесь, SafeTest — новый подход к тестированию фронтенда](https://habr.com/ru/companies/otus/articles/803049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803049)
 - [К чему с годами приводит работа с Dependency Injection и Service Locator](https://habr.com/ru/companies/alfa/articles/802587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802587)
 - [История об одном экзамене](https://habr.com/ru/companies/itfb/articles/802975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802975)
 - [Книга «Тестирование веб-API»](https://habr.com/ru/companies/piter/articles/802731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802731)
 - [Учите матчасть: почему стоит изучать туториалы перед работой с облаками и кому это особенно важно](https://habr.com/ru/companies/vk/articles/802957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802957)
-- [Context receivers — новые extension functions](https://habr.com/ru/companies/ozontech/articles/802641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
