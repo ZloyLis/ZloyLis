@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C3D Collision Detection: представление детектора столкновений в составе C3D Toolkit](https://habr.com/ru/companies/ascon/articles/793924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793924)
+- [[Перевод] Эффективный Dart: Руководство по стилю](https://habr.com/ru/articles/802881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802881)
 - [Стандартное отклонение и стандартная ошибка: две статистики с похожими названиями, но разными смыслами](https://habr.com/ru/companies/lanit/articles/799317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799317)
 - [Рецензия на книгу Владимира Дронова «Node.js, Express, MongoDB и React. 23 урока для начинающих», есть промокод](https://habr.com/ru/companies/ssp-soft/articles/802805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802805)
 - [Компиляция на этапе выполнения в C++: constexpr, consteval и constinit](https://habr.com/ru/companies/otus/articles/801045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801045)
-- [[Перевод] Темная сторона Open Source](https://habr.com/ru/articles/802845/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802845)
-- [[Перевод] Мигрируем с SQL Server на PostgreSQL двумя способами](https://habr.com/ru/companies/otus/articles/802827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802827)
 <!-- BLOG-POST-LIST:END -->
 
 ---
