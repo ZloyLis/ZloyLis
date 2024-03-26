@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компиляция на этапе выполнения в C++: constexpr, consteval и constinit](https://habr.com/ru/companies/otus/articles/801045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801045)
 - [[Перевод] Темная сторона Open Source](https://habr.com/ru/articles/802845/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802845)
 - [[Перевод] Мигрируем с SQL Server на PostgreSQL двумя способами](https://habr.com/ru/companies/otus/articles/802827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802827)
 - [Apple Pro Weekly News &lpar;18.03 – 24.03.24&rpar;](https://habr.com/ru/articles/802823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802823)
 - [Как получить Midjourney’s API](https://habr.com/ru/articles/802813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802813)
-- [ChatGPT для изучения программирования. Не очевидные примеры](https://habr.com/ru/articles/802811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802811)
 <!-- BLOG-POST-LIST:END -->
 
 ---
