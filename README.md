@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваши требования … не SMART](https://habr.com/ru/companies/nspk/articles/801787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801787)
+- [[Перевод] Дизайн высоконагруженных приложений будущего. Путешествие без сценария с Мартином Клеппманом](https://habr.com/ru/articles/802891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802891)
 - [Основы Event Loop в JavaScript](https://habr.com/ru/companies/otus/articles/801249/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801249)
 - [Решение cryptopals. Часть 2](https://habr.com/ru/articles/803077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803077)
 - [[Перевод] Знакомьтесь, SafeTest — новый подход к тестированию фронтенда](https://habr.com/ru/companies/otus/articles/803049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803049)
-- [К чему с годами приводит работа с Dependency Injection и Service Locator](https://habr.com/ru/companies/alfa/articles/802587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802587)
-- [История об одном экзамене](https://habr.com/ru/companies/itfb/articles/802975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802975)
 <!-- BLOG-POST-LIST:END -->
 
 ---
