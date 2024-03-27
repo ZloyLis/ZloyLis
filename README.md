@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сложная архитектура простых приложений](https://habr.com/ru/articles/803295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803295)
+- [Как сделать интерактивные пиксельные изображения с D3.js?](https://habr.com/ru/articles/803281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803281)
+- [Работа с UI-автотестами под Android: от запрета мерджа к особенностям запуска](https://habr.com/ru/companies/vk/articles/802991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802991)
+- [Тайное знание: синхронизация, многопоточность, очереди](https://habr.com/ru/articles/803273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803273)
 - [6 лет из жизни Инди-Разработчика](https://habr.com/ru/articles/803269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803269)
-- [Оценка аналитика: взгляд со стороны IT-рекрутера](https://habr.com/ru/companies/inpglobal/articles/803261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803261)
-- [[Перевод] Представляем Firebolt: Продуктивный React фреймворк](https://habr.com/ru/articles/803255/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803255)
-- [Тесты: 100% покрытия и юниты не нужны](https://habr.com/ru/companies/oleg-bunin/articles/802785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802785)
-- [Как сделать связанный сервер для распределенной базы данных. &lpar;MSSQL + Postgre&rpar;](https://habr.com/ru/articles/803197/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803197)
 <!-- BLOG-POST-LIST:END -->
 
 ---
