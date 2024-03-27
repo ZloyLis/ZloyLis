@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы собрали более 1К регистраций креативных IT-умов на наш первый хакатон](https://habr.com/ru/companies/kokocgroup/articles/803319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803319)
+- [[Хабр, help] Android-разработчица. Как сделать первые шаги?](https://habr.com/ru/articles/803309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803309)
 - [[Перевод] Актуально ли сегодня ООП?](https://habr.com/ru/companies/ruvds/articles/803289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803289)
 - [Сложная архитектура простых приложений](https://habr.com/ru/articles/803295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803295)
 - [Как сделать интерактивные пиксельные изображения с D3.js?](https://habr.com/ru/articles/803281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803281)
-- [Работа с UI-автотестами под Android: от запрета мерджа к особенностям запуска](https://habr.com/ru/companies/vk/articles/802991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802991)
-- [Тайное знание: синхронизация, многопоточность, очереди](https://habr.com/ru/articles/803273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803273)
 <!-- BLOG-POST-LIST:END -->
 
 ---
