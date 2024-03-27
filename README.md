@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы собрали более 1К регистраций креативных IT-умов на наш первый хакатон](https://habr.com/ru/companies/kokocgroup/articles/803319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803319)
-- [[Хабр, help] Android-разработчица. Как сделать первые шаги?](https://habr.com/ru/articles/803309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803309)
-- [[Перевод] Актуально ли сегодня ООП?](https://habr.com/ru/companies/ruvds/articles/803289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803289)
-- [Сложная архитектура простых приложений](https://habr.com/ru/articles/803295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803295)
-- [Как сделать интерактивные пиксельные изображения с D3.js?](https://habr.com/ru/articles/803281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803281)
+- [[Перевод] Простые языки программирования](https://habr.com/ru/companies/piter/articles/803325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803325)
+- [Инклюзивность и цифровая доступность в дизайне: почему это важно для всех](https://habr.com/ru/companies/agima/articles/803317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803317)
+- [Реализация Lazy Dependency Holder &lpar;Продвинутая ленивая инициализация зависимостей&rpar; для больших команд](https://habr.com/ru/articles/803335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803335)
+- [Упорядочивание, поиск узких мест и хардкор. Как я делаю разборы бизнеса со стороны ИТ](https://habr.com/ru/articles/803329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803329)
+- [Лонгрид о JavaScript](https://habr.com/ru/articles/803137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803137)
 <!-- BLOG-POST-LIST:END -->
 
 ---
