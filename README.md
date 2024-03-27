@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Это мы юзаем: библиотека Optuna в Python для оптимизации гиперпараметров](https://habr.com/ru/companies/otus/articles/801463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801463)
 - [[Перевод] Простые языки программирования](https://habr.com/ru/companies/piter/articles/803325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803325)
 - [Инклюзивность и цифровая доступность в дизайне: почему это важно для всех](https://habr.com/ru/companies/agima/articles/803317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803317)
 - [Реализация Lazy Dependency Holder &lpar;Продвинутая ленивая инициализация зависимостей&rpar; для больших команд](https://habr.com/ru/articles/803335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803335)
 - [Упорядочивание, поиск узких мест и хардкор. Как я делаю разборы бизнеса со стороны ИТ](https://habr.com/ru/articles/803329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803329)
-- [Лонгрид о JavaScript](https://habr.com/ru/articles/803137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803137)
 <!-- BLOG-POST-LIST:END -->
 
 ---
