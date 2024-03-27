@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тесты: 100% покрытия и юниты не нужны](https://habr.com/ru/companies/oleg-bunin/articles/802785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802785)
+- [Как сделать связанный сервер для распределенной базы данных. &lpar;MSSQL + Postgre&rpar;](https://habr.com/ru/articles/803197/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803197)
 - [За кем сейчас охотятся крупные работодатели в IT?](https://habr.com/ru/companies/hitch_outstaff/articles/803177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803177)
 - [Третий год борюсь с инфоцыганами. Теперь за мной следит наблюдательный совет](https://habr.com/ru/articles/802937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802937)
 - [Исходников нет, но мы не сдадимся: как и зачем я портировал более старый Android, чем стоял «с завода»?](https://habr.com/ru/companies/timeweb/articles/802591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802591)
-- [Ваши требования … не SMART](https://habr.com/ru/companies/nspk/articles/801787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801787)
-- [[Перевод] Дизайн высоконагруженных приложений будущего. Путешествие без сценария с Мартином Клеппманом](https://habr.com/ru/articles/802891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802891)
 <!-- BLOG-POST-LIST:END -->
 
 ---
