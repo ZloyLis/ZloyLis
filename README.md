@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Актуально ли сегодня ООП?](https://habr.com/ru/companies/ruvds/articles/803289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803289)
 - [Сложная архитектура простых приложений](https://habr.com/ru/articles/803295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803295)
 - [Как сделать интерактивные пиксельные изображения с D3.js?](https://habr.com/ru/articles/803281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803281)
 - [Работа с UI-автотестами под Android: от запрета мерджа к особенностям запуска](https://habr.com/ru/companies/vk/articles/802991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802991)
 - [Тайное знание: синхронизация, многопоточность, очереди](https://habr.com/ru/articles/803273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803273)
-- [6 лет из жизни Инди-Разработчика](https://habr.com/ru/articles/803269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803269)
 <!-- BLOG-POST-LIST:END -->
 
 ---
