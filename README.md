@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы прогнозируем объемы грузоперевозок на основе машинного обучения, используя MLflow](https://habr.com/ru/companies/pgk/articles/803567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803567)
+- [[Перевод] Как я отрендерил миллион строк в React](https://habr.com/ru/companies/bothub/articles/803555/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803555)
+- [Как я разрабатывал веб-сервис по бронированию электронных зарядных станций для электромобилей &lpar;часть 1&rpar;](https://habr.com/ru/articles/803697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803697)
 - [Продуктовый подход к pet-проекту или как я разработал музыкальное веб-приложение](https://habr.com/ru/articles/803673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803673)
 - [5 способов писать эффективный код на Go: от названий переменных до архитектуры](https://habr.com/ru/companies/yadro/articles/803323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803323)
-- [Как задеплоить сайт в облако. Инструкция для новичков](https://habr.com/ru/companies/selectel/articles/803599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803599)
-- [Эволюция главного экрана: хаос, исследования и редизайн](https://habr.com/ru/companies/sbermarket/articles/803171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803171)
-- [Работа архитектора решений. Взгляд изнутри](https://habr.com/ru/companies/ru_mts/articles/803629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803629)
 <!-- BLOG-POST-LIST:END -->
 
 ---
