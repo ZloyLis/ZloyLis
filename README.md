@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продуктовый подход к pet-проекту или как я разработал музыкальное веб-приложение](https://habr.com/ru/articles/803673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803673)
 - [5 способов писать эффективный код на Go: от названий переменных до архитектуры](https://habr.com/ru/companies/yadro/articles/803323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803323)
-- [Как задеплоить сайт. Инструкция для новичков](https://habr.com/ru/companies/selectel/articles/803599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803599)
+- [Как задеплоить сайт в облако. Инструкция для новичков](https://habr.com/ru/companies/selectel/articles/803599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803599)
 - [Эволюция главного экрана: хаос, исследования и редизайн](https://habr.com/ru/companies/sbermarket/articles/803171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803171)
 - [Работа архитектора решений. Взгляд изнутри](https://habr.com/ru/companies/ru_mts/articles/803629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803629)
-- [[Перевод] Как собрать компьютер из оригами](https://habr.com/ru/companies/first/articles/803561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803561)
 <!-- BLOG-POST-LIST:END -->
 
 ---
