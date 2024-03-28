@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++26 — прогресс и новинки от ISO C++](https://habr.com/ru/companies/yandex/articles/801115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801115)
+- [Настраиваем CI/CD с GitHub Actions и werf: инструкция для новичков](https://habr.com/ru/companies/flant/articles/803251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803251)
+- [Privacy Manifest: что нужно о нём знать для внедрения в проект](https://habr.com/ru/articles/803445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803445)
 - [Стейкинг NFT: как это работает?](https://habr.com/ru/companies/metalamp/articles/803425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803425)
 - [Это мы юзаем: библиотека Optuna в Python для оптимизации гиперпараметров](https://habr.com/ru/companies/otus/articles/801463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801463)
-- [[Перевод] Простые языки программирования](https://habr.com/ru/companies/piter/articles/803325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803325)
-- [Инклюзивность и цифровая доступность в дизайне: почему это важно для всех](https://habr.com/ru/companies/agima/articles/803317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803317)
-- [Реализация Lazy Dependency Holder &lpar;Продвинутая ленивая инициализация зависимостей&rpar; для больших команд](https://habr.com/ru/articles/803335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
