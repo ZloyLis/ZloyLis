@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чтобы запустить обмен знаниями в командах, надо всего лишь…](https://habr.com/ru/companies/oleg-bunin/articles/802901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802901)
+- [[Перевод] Как, блуждая по Stack Overflow, можно набрести на Branch predictor](https://habr.com/ru/companies/beeline_cloud/articles/803545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803545)
 - [А в чем проблема работать с файлами?](https://habr.com/ru/articles/803347/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803347)
 - [C++26 — прогресс и новинки от ISO C++](https://habr.com/ru/companies/yandex/articles/801115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801115)
 - [Настраиваем CI/CD с GitHub Actions и werf: инструкция для новичков](https://habr.com/ru/companies/flant/articles/803251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803251)
-- [Privacy Manifest: что нужно о нём знать для внедрения в проект](https://habr.com/ru/articles/803445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803445)
-- [Стейкинг NFT: как это работает?](https://habr.com/ru/companies/metalamp/articles/803425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
