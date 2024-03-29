@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL 17: Часть 4 или Коммитфест 2024-01](https://habr.com/ru/companies/postgrespro/articles/804027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804027)
 - [Система инвентаря на Godot. Костыль первый](https://habr.com/ru/articles/803991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803991)
 - [Telegram Desktop и Compose Multiplatform](https://habr.com/ru/articles/803987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803987)
 - [Что делать, если твой заказчик — весы, или Как заговорить на одном языке с бытовой техникой](https://habr.com/ru/articles/803983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803983)
 - [[Перевод] Как вручную протестировать веб-API](https://habr.com/ru/companies/piter/articles/803919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803919)
-- [[Перевод] Как прорешать тысячу задач на Leetcode за триста дней](https://habr.com/ru/companies/productivity_inside/articles/803973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803973)
 <!-- BLOG-POST-LIST:END -->
 
 ---
