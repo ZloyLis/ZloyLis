@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Система инвентаря на Godot. Костыль первый](https://habr.com/ru/articles/803991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803991)
+- [Telegram Desktop и Compose Multiplatform](https://habr.com/ru/articles/803987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803987)
 - [Что делать, если твой заказчик — весы, или Как заговорить на одном языке с бытовой техникой](https://habr.com/ru/articles/803983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803983)
 - [[Перевод] Как вручную протестировать веб-API](https://habr.com/ru/companies/piter/articles/803919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803919)
 - [[Перевод] Как прорешать тысячу задач на Leetcode за триста дней](https://habr.com/ru/companies/productivity_inside/articles/803973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803973)
-- [Развертывание защищенного dev кластера bitnami/kafka в k8s с помощью helm](https://habr.com/ru/articles/803969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803969)
-- [Анализ производительности React Native приложений: как выявить проблемы и улучшить перформанс](https://habr.com/ru/companies/sbermarket/articles/803755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
