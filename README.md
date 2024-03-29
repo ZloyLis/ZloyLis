@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правда ли, что программы вузов для разработчиков отстают от индустрии — и почему это не так важно](https://habr.com/ru/companies/yandex_praktikum/articles/803059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803059)
+- [Кодогенерация токенов дизайн-системы для Android по Figma API](https://habr.com/ru/companies/magnit/articles/803565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803565)
 - [Зачем Программисту Микроконтроллеров Диофантовы Уравнения](https://habr.com/ru/articles/803415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803415)
 - [[Перевод] Почему реактивность без VDOM &lpar;с реальным DOM&rpar; лучше, чем реактивность с VDOM?](https://habr.com/ru/articles/803779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803779)
 - [Как я разрабатывал веб-сервис по бронированию зарядных станций для электромобилей &lpar;часть 2&rpar;](https://habr.com/ru/articles/803743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803743)
-- [[Перевод] Как работает etcd с Kubernetes и без него](https://habr.com/ru/companies/slurm/articles/803739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803739)
-- [JVM, Spring, Kotlin и не только: о чём расскажут на JPoint 2024](https://habr.com/ru/companies/jugru/articles/803549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803549)
 <!-- BLOG-POST-LIST:END -->
 
 ---
