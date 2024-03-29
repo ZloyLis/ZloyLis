@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 15 выйдет только летом, но «потрогать» ОС можно уже сейчас. Что интересного в тестовой версии?](https://habr.com/ru/companies/ru_mts/articles/803791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803791)
+- [Без денег, репликации и кеша: ограничиваем нагрузку на сервисы, используя подходы из TCP](https://habr.com/ru/companies/mindbox/articles/803577/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803577)
+- [Стоит ли становится Fullstack разработчиком](https://habr.com/ru/articles/803745/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803745)
 - [Форматы изображений в вебе &lpar;2024&rpar;](https://habr.com/ru/articles/803823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803823)
 - [Внутри S3. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/803703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803703)
-- [Гибкость ― это важно: как мы «расхаркодили» поля в карточке устройства и какие возможности это дает нашим пользователям](https://habr.com/ru/companies/inferit/articles/803695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803695)
-- [Правда ли, что программы вузов для разработчиков отстают от индустрии — и почему это не так важно](https://habr.com/ru/companies/yandex_praktikum/articles/803059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803059)
-- [Кодогенерация токенов дизайн-системы для Android по Figma API](https://habr.com/ru/companies/magnit/articles/803565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803565)
 <!-- BLOG-POST-LIST:END -->
 
 ---
