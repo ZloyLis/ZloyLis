@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самое худшее собеседование](https://habr.com/ru/articles/803899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803899)
 - [Arduino AY player: продолжение](https://habr.com/ru/articles/803891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803891)
 - [Динамический JIT компилятор C++](https://habr.com/ru/articles/803787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803787)
 - [Line height в Android TextView: где не сходится с Figma, как мешает pixel-perfect, и как это решить](https://habr.com/ru/companies/avito/articles/803865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803865)
 - [[Перевод] Как программировали в 1969 году](https://habr.com/ru/companies/sportmaster_lab/articles/803877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803877)
-- [Библиотека на Go для работы с RuStore API](https://habr.com/ru/companies/vk/articles/803311/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803311)
 <!-- BLOG-POST-LIST:END -->
 
 ---
