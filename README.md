@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ производительности React Native приложений: как выявить проблемы и улучшить перформанс](https://habr.com/ru/companies/sbermarket/articles/803755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803755)
+- [На что способны виртуальные потоки Java в обработке файлов](https://habr.com/ru/articles/803955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803955)
 - [[Перевод] Делаем код-ревью правильно](https://habr.com/ru/companies/ruvds/articles/803127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803127)
 - [Проектируем микросервисы с Reactive Manifesto: 4 принципа распределенных систем](https://habr.com/ru/companies/lamoda/articles/803793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803793)
 - [Самое худшее собеседование](https://habr.com/ru/articles/803899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803899)
-- [Arduino AY player: продолжение](https://habr.com/ru/articles/803891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803891)
-- [Динамический JIT компилятор C++](https://habr.com/ru/articles/803787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803787)
 <!-- BLOG-POST-LIST:END -->
 
 ---
