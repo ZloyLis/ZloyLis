@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что делать, если твой заказчик — весы, или Как заговорить на одном языке с бытовой техникой](https://habr.com/ru/articles/803983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803983)
+- [[Перевод] Как вручную протестировать веб-API](https://habr.com/ru/companies/piter/articles/803919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803919)
+- [[Перевод] Как прорешать тысячу задач на Leetcode за триста дней](https://habr.com/ru/companies/productivity_inside/articles/803973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803973)
+- [Развертывание защищенного dev кластера bitnami/kafka в k8s с помощью helm](https://habr.com/ru/articles/803969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803969)
 - [Анализ производительности React Native приложений: как выявить проблемы и улучшить перформанс](https://habr.com/ru/companies/sbermarket/articles/803755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803755)
-- [На что способны виртуальные потоки Java в обработке файлов](https://habr.com/ru/articles/803955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803955)
-- [[Перевод] Делаем код-ревью правильно](https://habr.com/ru/companies/ruvds/articles/803127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803127)
-- [Проектируем микросервисы с Reactive Manifesto: 4 принципа распределенных систем](https://habr.com/ru/companies/lamoda/articles/803793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803793)
-- [Самое худшее собеседование](https://habr.com/ru/articles/803899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803899)
 <!-- BLOG-POST-LIST:END -->
 
 ---
