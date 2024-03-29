@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Динамический JIT компилятор C++](https://habr.com/ru/articles/803787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803787)
+- [Line height в Android TextView: где не сходится с Figma, как мешает pixel-perfect, и как это решить](https://habr.com/ru/companies/avito/articles/803865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803865)
+- [[Перевод] Как программировали в 1969 году](https://habr.com/ru/companies/sportmaster_lab/articles/803877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803877)
+- [Библиотека на Go для работы с RuStore API](https://habr.com/ru/companies/vk/articles/803311/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803311)
 - [Android 15 выйдет только летом, но «потрогать» ОС можно уже сейчас. Что интересного в тестовой версии?](https://habr.com/ru/companies/ru_mts/articles/803791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803791)
-- [Без денег, репликации и кеша: ограничиваем нагрузку на сервисы, используя подходы из TCP](https://habr.com/ru/companies/mindbox/articles/803577/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803577)
-- [Стоит ли становится Fullstack разработчиком](https://habr.com/ru/articles/803745/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803745)
-- [Форматы изображений в вебе &lpar;2024&rpar;](https://habr.com/ru/articles/803823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803823)
-- [Внутри S3. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/803703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803703)
 <!-- BLOG-POST-LIST:END -->
 
 ---
