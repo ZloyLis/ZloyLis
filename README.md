@@ -17,16 +17,22 @@
 ![Apache](https://img.shields.io/badge/Apache-informational?logo=apache&style=flat&logoColor=white&color=f74e28)
 
 ___ 
-
-
-#### 🛠️ Most used languages:
-
-[![Top Langs](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=true&title_color=e6edf3&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
-
----
 -->
 
-#### 💬 Latest posts from habr.com:
+#### 🛠️ Языки:
+
+[![Top Langs](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=true&title_color=e6edf3&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=false&hide_border=true&theme=dracula)](https://github.com/zloylis)
+
+---
+
+
+####  :octocat:&nbsp;&nbsp; Статистика:
+
+![GitHub stats](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&title_color=e6edf3&include_all_commits=true&count_private=true&hide_rank=false&hide_title=true&rank_icon=github)
+
+---
+
+#### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
 - [Мифы о сеньорах, в которые &lpar;не&rpar; верят джуны](https://habr.com/ru/companies/netologyru/articles/796807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796807)
@@ -37,5 +43,8 @@ ___
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<!--[![Top Langs](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=false&title_color=e6edf3&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=dracula)](https://github.com/zloylis)
-![GitHub stats](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&hide_title=true&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true)-->
+
+<!--
+[![Top Langs](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=false&title_color=e6edf3&custom_title=🛠️&nbsp;Most&nbsp;used&nbsp;languages&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true&hide_border=true&theme=dracula)](https://github.com/zloylis)
+![GitHub stats](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&custom_title=GitHub&nbsp;Stats&title_color=e6edf3&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true)
+-->
