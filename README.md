@@ -29,11 +29,11 @@ ___
 #### 💬 Latest posts from habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Desert Racer: Первая игра, разработанная исключительно на CSS с возможностью управления свайпом](https://habr.com/ru/companies/bothub/articles/804077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804077)
 - [[Перевод] Этот опасный рефакторинг](https://habr.com/ru/companies/ruvds/articles/803435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803435)
 - [Векторные базы данных — набирающий устойчивость тренд в разработке систем ИИ или мимолетное увлечение?](https://habr.com/ru/companies/beeline_cloud/articles/804105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804105)
 - [Делаем макросы в Rust](https://habr.com/ru/companies/otus/articles/803303/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803303)
 - [Стейт-машины: The Good, The Bad and The Ugly](https://habr.com/ru/companies/yandex360/articles/803185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803185)
-- [Как донести секреты до dev-тачки и не пролить?](https://habr.com/ru/companies/yandex_praktikum/articles/801047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801047)
 <!-- BLOG-POST-LIST:END -->
 
 ---
