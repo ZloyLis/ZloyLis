@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang: Мои Открытия](https://habr.com/ru/articles/804161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804161)
 - [Мифы о сеньорах, в которые &lpar;не&rpar; верят джуны](https://habr.com/ru/companies/netologyru/articles/796807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796807)
 - [[Перевод] Desert Racer: Первая игра, разработанная исключительно на CSS с возможностью управления свайпом](https://habr.com/ru/companies/bothub/articles/804077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804077)
 - [[Перевод] Этот опасный рефакторинг](https://habr.com/ru/companies/ruvds/articles/803435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803435)
 - [Векторные базы данных — набирающий устойчивость тренд в разработке систем ИИ или мимолетное увлечение?](https://habr.com/ru/companies/beeline_cloud/articles/804105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804105)
-- [Делаем макросы в Rust](https://habr.com/ru/companies/otus/articles/803303/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
