@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить мастабу](https://habr.com/ru/articles/804153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804153)
 - [Опять транзакции…](https://habr.com/ru/articles/803395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803395)
 - [[Перевод] Масштабирование подписок GraphQL в Go с использованием Epoll и архитектуры, основанной на событиях](https://habr.com/ru/articles/804287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804287)
 - [Деструктивный пакет everything напомнил об уязвимостях реестра npm](https://habr.com/ru/companies/globalsign/articles/804277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804277)
 - [Преобразование Уолша-Адамара](https://habr.com/ru/articles/787890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787890)
-- [[Перевод] Руководство по Kubernetes для хейтеров Kubernetes](https://habr.com/ru/companies/timeweb/articles/804259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804259)
 <!-- BLOG-POST-LIST:END -->
 
 ---
