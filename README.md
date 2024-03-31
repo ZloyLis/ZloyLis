@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Преобразование Уолша-Адамара](https://habr.com/ru/articles/787890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787890)
 - [[Перевод] Руководство по Kubernetes для хейтеров Kubernetes](https://habr.com/ru/companies/timeweb/articles/804259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804259)
 - [[Перевод] Мега-Учебник Flask Глава 1: Привет, мир! &lpar;издание 2024&rpar;](https://habr.com/ru/articles/804245/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804245)
 - [Простой вопрос по Kotlin Coroutines или как не потеряться в измерениях](https://habr.com/ru/articles/804241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804241)
 - [Java Тренажер](https://habr.com/ru/articles/804237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804237)
-- [PostgreSQL + pgAdmin + mTLS + certificate-based authentication + docker-compose в одном флаконе](https://habr.com/ru/articles/804217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804217)
 <!-- BLOG-POST-LIST:END -->
 
 ---
