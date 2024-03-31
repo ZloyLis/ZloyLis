@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI уроки &lpar;часть 6&rpar;](https://habr.com/ru/articles/804195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804195)
+- [Деструктуризация в React. Очевидно, но важно](https://habr.com/ru/articles/804187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804187)
+- [Бэкапы для самых маленьких и матерых](https://habr.com/ru/companies/selectel/articles/804183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804183)
 - [Как защитить PROD от багов и себя от стресса](https://habr.com/ru/articles/804171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804171)
 - [Golang: Мои Открытия](https://habr.com/ru/articles/804161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804161)
-- [Мифы о сеньорах, в которые &lpar;не&rpar; верят джуны](https://habr.com/ru/companies/netologyru/articles/796807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796807)
-- [[Перевод] Desert Racer: Первая игра, разработанная исключительно на CSS с возможностью управления свайпом](https://habr.com/ru/companies/bothub/articles/804077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804077)
-- [[Перевод] Этот опасный рефакторинг](https://habr.com/ru/companies/ruvds/articles/803435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803435)
 <!-- BLOG-POST-LIST:END -->
 
 ---
