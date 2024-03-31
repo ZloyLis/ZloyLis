@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой вопрос по Kotlin Coroutines или как не потеряться в измерениях](https://habr.com/ru/articles/804241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804241)
+- [Java Тренажер](https://habr.com/ru/articles/804237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804237)
 - [PostgreSQL + pgAdmin + mTLS + certificate-based authentication + docker-compose в одном флаконе](https://habr.com/ru/articles/804217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804217)
 - [Синкерим, хешайдим, терминируем: 6 утилит, чтобы ускорить ваши локализации](https://habr.com/ru/articles/804207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804207)
 - [SwiftUI уроки &lpar;часть 6&rpar;](https://habr.com/ru/articles/804195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804195)
-- [Деструктуризация в React. Очевидно, но важно](https://habr.com/ru/articles/804187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804187)
-- [Бэкапы для самых маленьких и матерых](https://habr.com/ru/companies/selectel/articles/804183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804183)
 <!-- BLOG-POST-LIST:END -->
 
 ---
