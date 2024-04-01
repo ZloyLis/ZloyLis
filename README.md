@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [$mol — лучший мемогенератор](https://habr.com/ru/articles/804565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804565)
+- [$mol — лучший мемогенератор во фронтенде](https://habr.com/ru/articles/804565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804565)
 - [Выбираем среду для разработки: сравнение Bun.js и Node.js](https://habr.com/ru/companies/beeline_cloud/articles/804529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804529)
 - [Нужны ли Unity разработчику проекты на гитхабе](https://habr.com/ru/articles/804497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804497)
 - [Scala Digest. Выпуск 15](https://habr.com/ru/companies/tinkoff/articles/804491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804491)
