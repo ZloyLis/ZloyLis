@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как быть худшим инженером в своей команде](https://habr.com/ru/articles/804391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804391)
 - [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 1: Инициация](https://habr.com/ru/companies/yandex_praktikum/articles/802299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802299)
 - [CI/CD Kubernetes платформа Gitorion. Единый вход Single Sign-On &lpar;SSO&rpar; во все сервисы платформы при помощи Keycloak](https://habr.com/ru/companies/gitorion/articles/803683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803683)
 - [Требования к системам в мировой литературе](https://habr.com/ru/articles/804349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804349)
 - [Мобильная разработка за неделю #532 &lpar;25 — 31 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/804343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804343)
-- [Управление рисками. Практический подход](https://habr.com/ru/articles/804337/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804337)
 <!-- BLOG-POST-LIST:END -->
 
 ---
