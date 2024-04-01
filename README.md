@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Максимизируем продуктивность: Создание ИИ-секретаря с Whisper и ChatGPT](https://habr.com/ru/articles/804329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804329)
+- [Создание библиотек и публикация в npm](https://habr.com/ru/articles/804403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804403)
+- [Хранение загружаемых пользователями файлов](https://habr.com/ru/companies/otus/articles/801253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801253)
 - [[Перевод] Как быть худшим инженером в своей команде](https://habr.com/ru/articles/804391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804391)
 - [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 1: Инициация](https://habr.com/ru/companies/yandex_praktikum/articles/802299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802299)
-- [CI/CD Kubernetes платформа Gitorion. Единый вход Single Sign-On &lpar;SSO&rpar; во все сервисы платформы при помощи Keycloak](https://habr.com/ru/companies/gitorion/articles/803683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803683)
-- [Требования к системам в мировой литературе](https://habr.com/ru/articles/804349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804349)
-- [Мобильная разработка за неделю #532 &lpar;25 — 31 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/804343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804343)
 <!-- BLOG-POST-LIST:END -->
 
 ---
