@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Требования к системам в мировой литературе](https://habr.com/ru/articles/804349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804349)
 - [Мобильная разработка за неделю #532 &lpar;25 — 31 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/804343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804343)
 - [Управление рисками. Практический подход](https://habr.com/ru/articles/804337/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804337)
 - [Как построить мастабу](https://habr.com/ru/articles/804153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804153)
 - [Опять транзакции…](https://habr.com/ru/articles/803395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803395)
-- [[Перевод] Масштабирование подписок GraphQL в Go с использованием Epoll и архитектуры, основанной на событиях](https://habr.com/ru/articles/804287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804287)
 <!-- BLOG-POST-LIST:END -->
 
 ---
