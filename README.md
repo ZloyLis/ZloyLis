@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Kubernetes платформа Gitorion. Единый вход Single Sign-On &lpar;SSO&rpar; во все сервисы платформы при помощи Keycloak](https://habr.com/ru/companies/gitorion/articles/803683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803683)
 - [Требования к системам в мировой литературе](https://habr.com/ru/articles/804349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804349)
 - [Мобильная разработка за неделю #532 &lpar;25 — 31 марта&rpar;](https://habr.com/ru/companies/productivity_inside/articles/804343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804343)
 - [Управление рисками. Практический подход](https://habr.com/ru/articles/804337/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804337)
 - [Как построить мастабу](https://habr.com/ru/articles/804153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804153)
-- [Опять транзакции…](https://habr.com/ru/articles/803395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803395)
 <!-- BLOG-POST-LIST:END -->
 
 ---
