@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Причуды подписок на GraphQL: SSE, WebSockets, Hasura, Apollo Federation / Supergraph](https://habr.com/ru/articles/804641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804641)
+- [[Перевод] Теория Связей 0.0.1](https://habr.com/ru/companies/deepfoundation/articles/804617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804617)
+- [Сборка приложения для AppStore. Используем Jenkins, Fastlane, TestFlight](https://habr.com/ru/articles/803777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803777)
 - [Теоретические основы всех популярных алгоритмов машинного обучения и их реализация с нуля на Python](https://habr.com/ru/articles/804605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804605)
 - [Apple Pro Weekly News &lpar;25.03 – 31.03.24&rpar;](https://habr.com/ru/articles/804599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804599)
-- [Security Week 2414: последствия взлома xz-utils](https://habr.com/ru/companies/kaspersky/articles/804537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804537)
-- [Astana IT University: новый формат обучения](https://habr.com/ru/articles/804595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804595)
-- [$mol — лучший мемогенератор во фронтенде](https://habr.com/ru/articles/804565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804565)
 <!-- BLOG-POST-LIST:END -->
 
 ---
