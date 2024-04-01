@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хеш-функция Стрибог. Особенности аппаратной реализации на System Verilog](https://habr.com/ru/articles/804647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804647)
 - [[Перевод] Причуды подписок на GraphQL: SSE, WebSockets, Hasura, Apollo Federation / Supergraph](https://habr.com/ru/articles/804641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804641)
 - [[Перевод] Теория Связей 0.0.1](https://habr.com/ru/companies/deepfoundation/articles/804617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804617)
 - [Сборка приложения для AppStore. Используем Jenkins, Fastlane, TestFlight](https://habr.com/ru/articles/803777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803777)
 - [Теоретические основы всех популярных алгоритмов машинного обучения и их реализация с нуля на Python](https://habr.com/ru/articles/804605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804605)
-- [Apple Pro Weekly News &lpar;25.03 – 31.03.24&rpar;](https://habr.com/ru/articles/804599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804599)
 <!-- BLOG-POST-LIST:END -->
 
 ---
