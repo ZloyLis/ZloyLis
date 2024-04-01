@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;25.03 – 31.03.24&rpar;](https://habr.com/ru/articles/804599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804599)
+- [Security Week 2414: последствия взлома xz-utils](https://habr.com/ru/companies/kaspersky/articles/804537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804537)
+- [Astana IT University: новый формат обучения](https://habr.com/ru/articles/804595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804595)
 - [$mol — лучший мемогенератор во фронтенде](https://habr.com/ru/articles/804565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804565)
 - [Выбираем среду для разработки: сравнение Bun.js и Node.js](https://habr.com/ru/companies/beeline_cloud/articles/804529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804529)
-- [Нужны ли Unity разработчику проекты на гитхабе](https://habr.com/ru/articles/804497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804497)
-- [Scala Digest. Выпуск 15](https://habr.com/ru/companies/tinkoff/articles/804491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804491)
-- [Электронная подпись, шифрование данных с помощью RSA, AES. Реализация на Kotlin, Micronaut, bouncycastle](https://habr.com/ru/articles/804485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804485)
 <!-- BLOG-POST-LIST:END -->
 
 ---
