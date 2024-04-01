@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужны ли Unity разработчику проекты на гитхабе](https://habr.com/ru/articles/804497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804497)
+- [Scala Digest. Выпуск 15](https://habr.com/ru/companies/tinkoff/articles/804491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804491)
 - [Электронная подпись, шифрование данных с помощью RSA, AES. Реализация на Kotlin, Micronaut, bouncycastle](https://habr.com/ru/articles/804485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804485)
-- [Заменить или убрать брендинг чата Flowise](https://habr.com/ru/articles/804473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804473)
 - [[Перевод] Почему стоит взглянуть на Relay и GraphQL снова](https://habr.com/ru/articles/804455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804455)
 - [Kotlin &lpar;не&rpar; против Java: особенности компиляции в байткод](https://habr.com/ru/companies/leroy_merlin/articles/804451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804451)
-- [Паттерны или химеры программирования](https://habr.com/ru/articles/804339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804339)
 <!-- BLOG-POST-LIST:END -->
 
 ---
