@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерны или химеры программирования](https://habr.com/ru/articles/804339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804339)
 - [Максимизируем продуктивность: Создание ИИ-секретаря с Whisper и ChatGPT](https://habr.com/ru/articles/804329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804329)
 - [Создание библиотек и публикация в npm](https://habr.com/ru/articles/804403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804403)
 - [Хранение загружаемых пользователями файлов](https://habr.com/ru/companies/otus/articles/801253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801253)
 - [[Перевод] Как быть худшим инженером в своей команде](https://habr.com/ru/articles/804391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804391)
-- [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 1: Инициация](https://habr.com/ru/companies/yandex_praktikum/articles/802299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802299)
 <!-- BLOG-POST-LIST:END -->
 
 ---
