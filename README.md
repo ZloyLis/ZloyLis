@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему стоит взглянуть на Relay и GraphQL снова](https://habr.com/ru/articles/804455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804455)
+- [Kotlin &lpar;не&rpar; против Java: особенности компиляции в байткод](https://habr.com/ru/companies/leroy_merlin/articles/804451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804451)
 - [Паттерны или химеры программирования](https://habr.com/ru/articles/804339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804339)
 - [Максимизируем продуктивность: Создание ИИ-секретаря с Whisper и ChatGPT](https://habr.com/ru/articles/804329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804329)
 - [Создание библиотек и публикация в npm](https://habr.com/ru/articles/804403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804403)
-- [Хранение загружаемых пользователями файлов](https://habr.com/ru/companies/otus/articles/801253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801253)
-- [[Перевод] Как быть худшим инженером в своей команде](https://habr.com/ru/articles/804391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804391)
 <!-- BLOG-POST-LIST:END -->
 
 ---
