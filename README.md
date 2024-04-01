@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теоретические основы всех популярных алгоритмов машинного обучения и их реализация с нуля на Python](https://habr.com/ru/articles/804605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804605)
 - [Apple Pro Weekly News &lpar;25.03 – 31.03.24&rpar;](https://habr.com/ru/articles/804599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804599)
 - [Security Week 2414: последствия взлома xz-utils](https://habr.com/ru/companies/kaspersky/articles/804537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804537)
 - [Astana IT University: новый формат обучения](https://habr.com/ru/articles/804595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804595)
 - [$mol — лучший мемогенератор во фронтенде](https://habr.com/ru/articles/804565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804565)
-- [Выбираем среду для разработки: сравнение Bun.js и Node.js](https://habr.com/ru/companies/beeline_cloud/articles/804529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
