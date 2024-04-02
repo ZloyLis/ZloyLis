@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices по подключению к сторонним API в проекте](https://habr.com/ru/companies/domclick/articles/802833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802833)
+- [Анатомия Htmx](https://habr.com/ru/companies/timeweb/articles/799555/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799555)
+- [Распознавание виджетов на экране приложения Flutter](https://habr.com/ru/articles/804729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804729)
 - [Идеальное резюме, разговор с IT-рекрутером](https://habr.com/ru/articles/804687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804687)
 - [Ускорение инференса LLM](https://habr.com/ru/companies/yandex/articles/801119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801119)
-- [Нет у меня никакого первого имени](https://habr.com/ru/articles/804607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804607)
-- [Об одной изящной задаче](https://habr.com/ru/articles/803809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803809)
-- [Повышение наглядности интеграционных тестов](https://habr.com/ru/articles/804673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804673)
 <!-- BLOG-POST-LIST:END -->
 
 ---
