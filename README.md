@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеальное резюме, разговор с IT-рекрутером](https://habr.com/ru/articles/804687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804687)
+- [Ускорение инференса LLM](https://habr.com/ru/companies/yandex/articles/801119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801119)
+- [Нет у меня никакого первого имени](https://habr.com/ru/articles/804607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804607)
+- [Об одной изящной задаче](https://habr.com/ru/articles/803809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803809)
 - [Повышение наглядности интеграционных тестов](https://habr.com/ru/articles/804673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804673)
-- [Структура объекта в JavaScript движках](https://habr.com/ru/articles/804421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804421)
-- [В общих чертах про функциональное программирование в Rust](https://habr.com/ru/companies/otus/articles/802995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802995)
-- [Хеш-функция Стрибог. Особенности аппаратной реализации на System Verilog](https://habr.com/ru/articles/804647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804647)
-- [[Перевод] Причуды подписок на GraphQL: SSE, WebSockets, Hasura, Apollo Federation / Supergraph](https://habr.com/ru/articles/804641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
