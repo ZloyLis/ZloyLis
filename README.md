@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Лидерство в тестировании — выполнение тестового проекта](https://habr.com/ru/articles/803711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803711)
 - [Курс «PostgreSQL для начинающих»: #4 — Анализ запросов &lpar;ч.1 — как и зачем читать планы&rpar;](https://habr.com/ru/companies/tensor/articles/790282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790282)
 - [Best Practices по подключению к сторонним API в проекте](https://habr.com/ru/companies/domclick/articles/802833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802833)
 - [Анатомия Htmx](https://habr.com/ru/companies/timeweb/articles/799555/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799555)
 - [Распознавание виджетов на экране приложения Flutter](https://habr.com/ru/articles/804729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804729)
-- [Идеальное резюме, разговор с IT-рекрутером](https://habr.com/ru/articles/804687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
