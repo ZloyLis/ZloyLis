@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор продукта «Структура API» и новой функциональности сравнения Open API спецификаций](https://habr.com/ru/companies/webmonitorx/articles/804489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804489)
+- [[Перевод] Девять типов программистов в 2024 году](https://habr.com/ru/companies/netologyru/articles/804819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804819)
 - [Красавица и HTML Injection. Почему HTMLi не только про дефейс](https://habr.com/ru/articles/804863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804863)
 - [Пишем свой вариантный тип](https://habr.com/ru/articles/804837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804837)
 - [Как правильно выбрать тестовое покрытие, чтобы уложиться в рамки бюджета на тестирование](https://habr.com/ru/articles/804803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804803)
-- [[Перевод] Лидерство в тестировании — выполнение тестового проекта](https://habr.com/ru/articles/803711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803711)
-- [Курс «PostgreSQL для начинающих»: #4 — Анализ запросов &lpar;ч.1 — как и зачем читать планы&rpar;](https://habr.com/ru/companies/tensor/articles/790282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=790282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
