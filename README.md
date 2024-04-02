@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust — это не «memory safe C»](https://habr.com/ru/articles/804915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804915)
 - [Эффект бабочки и рынки&lpar;ч.2&rpar;](https://habr.com/ru/articles/804907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804907)
 - [Решение cryptopals. Часть 3](https://habr.com/ru/articles/804905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804905)
 - [Для начинающих программистов](https://habr.com/ru/articles/804895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804895)
 - [Глобальные события в мобильном приложении](https://habr.com/ru/companies/cian/articles/804873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804873)
-- [[Перевод] Мега-Учебник Flask Глава 2: Шаблоны &lpar;издание 2024&rpar;](https://habr.com/ru/articles/804887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804887)
 <!-- BLOG-POST-LIST:END -->
 
 ---
