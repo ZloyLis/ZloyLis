@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применяем стандартные алгоритмы в C++. Семь примеров](https://habr.com/ru/companies/simbirsoft/articles/804675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804675)
+- [Как мы исследовали запросы аудитории, чтобы собрать актуальную программу для FrontendConf 2024](https://habr.com/ru/companies/oleg-bunin/articles/735030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735030)
+- [Синтетическое генерирование данных &lpar;SMOTE&rpar;](https://habr.com/ru/companies/otus/articles/782668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782668)
+- [Вызволяем увлажнитель из сетей Xiaomi](https://habr.com/ru/companies/selectel/articles/804867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804867)
 - [Сам себе экосистема. Часть 4: как я реализовал клиент Telegram на Android-смартфоне 14-летней давности?](https://habr.com/ru/companies/timeweb/articles/804033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804033)
-- [AutoML на практике — как делать автоматизацию, а не её иллюзию](https://habr.com/ru/companies/alfa/articles/801435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801435)
-- [Как мы переехали с Oracle на PostgreSQL в нагруженном сервисе без даунтайма](https://habr.com/ru/companies/yandex/articles/801415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801415)
-- [Rust — это не «memory safe C»](https://habr.com/ru/articles/804915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804915)
-- [Эффект бабочки и рынки &lpar;ч.2&rpar;](https://habr.com/ru/articles/804907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804907)
 <!-- BLOG-POST-LIST:END -->
 
 ---
