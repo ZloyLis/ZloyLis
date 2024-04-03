@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AutoML на практике — как делать автоматизацию, а не её иллюзию](https://habr.com/ru/companies/alfa/articles/801435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801435)
+- [Как мы переехали с Oracle на PostgreSQL в нагруженном сервисе без даунтайма](https://habr.com/ru/companies/yandex/articles/801415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801415)
 - [Rust — это не «memory safe C»](https://habr.com/ru/articles/804915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804915)
 - [Эффект бабочки и рынки &lpar;ч.2&rpar;](https://habr.com/ru/articles/804907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804907)
 - [Решение cryptopals. Часть 3](https://habr.com/ru/articles/804905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804905)
-- [Для начинающих программистов](https://habr.com/ru/articles/804895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804895)
-- [Глобальные события в мобильном приложении](https://habr.com/ru/companies/cian/articles/804873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804873)
 <!-- BLOG-POST-LIST:END -->
 
 ---
