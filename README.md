@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-3 причины, почему вы должны использовать Copilot](https://habr.com/ru/companies/cian/articles/803959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803959)
 - [Как расти разработчику внутри компании?](https://habr.com/ru/articles/805061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805061)
 - [Как айтишникам быстро выучить английский с помощью ChatGPT?](https://habr.com/ru/articles/805055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805055)
 - [Игра в безопасность Android-приложений](https://habr.com/ru/companies/cian/articles/804835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804835)
 - [Propensity score matching: как оценивать маркетинговые кампании, если невозможно провести A/B тесты](https://habr.com/ru/companies/sbermarket/articles/804875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804875)
-- [Персональные рекомендации: мы подумали за вас, или jtbd в действии](https://habr.com/ru/companies/rtlabs/articles/804779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804779)
 <!-- BLOG-POST-LIST:END -->
 
 ---
