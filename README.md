@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Propensity score matching: как оценивать маркетинговые кампании, если невозможно провести A/B тесты](https://habr.com/ru/companies/sbermarket/articles/804875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804875)
+- [Персональные рекомендации: мы подумали за вас, или jtbd в действии](https://habr.com/ru/companies/rtlabs/articles/804779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804779)
+- [[Перевод] Эффективный Dart: Руководство по документации](https://habr.com/ru/articles/805033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805033)
+- [Поиск уязвимостей в исходном коде с помощью ручного статического анализа](https://habr.com/ru/companies/ussc/articles/805031/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805031)
 - [Применяем стандартные алгоритмы в C++. Семь примеров](https://habr.com/ru/companies/simbirsoft/articles/804675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804675)
-- [Как мы исследовали запросы аудитории, чтобы собрать актуальную программу для FrontendConf 2024](https://habr.com/ru/companies/oleg-bunin/articles/735030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735030)
-- [Синтетическое генерирование данных &lpar;SMOTE&rpar;](https://habr.com/ru/companies/otus/articles/782668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782668)
-- [Выстраиваем процессы команд разработки: кейс и практические рекомендации](https://habr.com/ru/companies/odnoklassniki/articles/804881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804881)
-- [Вызволяем увлажнитель из сетей Xiaomi](https://habr.com/ru/companies/selectel/articles/804867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804867)
 <!-- BLOG-POST-LIST:END -->
 
 ---
