@@ -38,8 +38,8 @@ ___
 - [Применяем стандартные алгоритмы в C++. Семь примеров](https://habr.com/ru/companies/simbirsoft/articles/804675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804675)
 - [Как мы исследовали запросы аудитории, чтобы собрать актуальную программу для FrontendConf 2024](https://habr.com/ru/companies/oleg-bunin/articles/735030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735030)
 - [Синтетическое генерирование данных &lpar;SMOTE&rpar;](https://habr.com/ru/companies/otus/articles/782668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782668)
+- [Выстраиваем процессы команд разработки: кейс и практические рекомендации](https://habr.com/ru/companies/odnoklassniki/articles/804881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804881)
 - [Вызволяем увлажнитель из сетей Xiaomi](https://habr.com/ru/companies/selectel/articles/804867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804867)
-- [Сам себе экосистема. Часть 4: как я реализовал клиент Telegram на Android-смартфоне 14-летней давности?](https://habr.com/ru/companies/timeweb/articles/804033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804033)
 <!-- BLOG-POST-LIST:END -->
 
 ---
