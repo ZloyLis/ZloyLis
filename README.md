@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как расти разработчику внутри компании?](https://habr.com/ru/articles/805061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805061)
+- [Как айтишникам быстро выучить английский с помощью ChatGPT?](https://habr.com/ru/articles/805055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805055)
+- [Игра в безопасность Android-приложений](https://habr.com/ru/companies/cian/articles/804835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804835)
 - [Propensity score matching: как оценивать маркетинговые кампании, если невозможно провести A/B тесты](https://habr.com/ru/companies/sbermarket/articles/804875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804875)
 - [Персональные рекомендации: мы подумали за вас, или jtbd в действии](https://habr.com/ru/companies/rtlabs/articles/804779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804779)
-- [[Перевод] Эффективный Dart: Руководство по документации](https://habr.com/ru/articles/805033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805033)
-- [Поиск уязвимостей в исходном коде с помощью ручного статического анализа](https://habr.com/ru/companies/ussc/articles/805031/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805031)
-- [Применяем стандартные алгоритмы в C++. Семь примеров](https://habr.com/ru/companies/simbirsoft/articles/804675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804675)
 <!-- BLOG-POST-LIST:END -->
 
 ---
