@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [СКВОЗНАЯ МЕХАНИКА &lpar;часть 1&rpar;](https://habr.com/ru/articles/805153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805153)
 - [Введение в нейросети: что, зачем и как?](https://habr.com/ru/articles/805209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805209)
 - [Разработка сайта на Тильде на примере реального проекта — подход и разбор решений по UX и UI](https://habr.com/ru/articles/805179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805179)
 - [Парадоксы в данных, и почему визуализация бывает необходима](https://habr.com/ru/articles/804441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804441)
 - [3 способа запуска Spark в Kubernetes из Airflow](https://habr.com/ru/articles/805143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805143)
-- [Typescript Generics](https://habr.com/ru/articles/805127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805127)
 <!-- BLOG-POST-LIST:END -->
 
 ---
