@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility Scanner в Android](https://habr.com/ru/articles/805281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805281)
+- [[Перевод] Как исправить ITMS-91053: Missing API declaration](https://habr.com/ru/articles/805267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805267)
 - [[Перевод] Как определить, что мобильное приложение написано на Flutter](https://habr.com/ru/articles/805265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805265)
 - [На светлом-светлом Хабре появилась тёмная-тёмная тема](https://habr.com/ru/companies/habr/articles/805131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805131)
 - [RFM-анализ вашего поведения в банке](https://habr.com/ru/companies/gazprombank/articles/805101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805101)
-- [Когда ваши требования готовы?](https://habr.com/ru/articles/805251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805251)
-- [CRTP в C++](https://habr.com/ru/companies/otus/articles/803601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803601)
 <!-- BLOG-POST-LIST:END -->
 
 ---
