@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [То, что вы пишете, это точно composables?](https://habr.com/ru/articles/805491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805491)
+- [realme 12 Pro — продвинутые камеры и приятная оболочка](https://habr.com/ru/articles/805489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805489)
+- [Как настроить библиотеку SFML C++ в Visual Studio 2022 статическая компоновка](https://habr.com/ru/articles/805487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805487)
+- [Использование библиотеки DCMTK для создания DICOM-файлов на C++](https://habr.com/ru/articles/805475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805475)
 - [Open Source в российском ИИ: исследование ландшафта](https://habr.com/ru/companies/spbifmo/articles/805455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805455)
-- [Зачем нужно ИТ в современном бизнесе?](https://habr.com/ru/articles/805469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805469)
-- [Как оптимизировать процесс подписи документов с помощью автоматизации процессов?](https://habr.com/ru/articles/805465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805465)
-- [Как автоматизация делает бизнес прибыльнее?](https://habr.com/ru/articles/805461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805461)
-- [Как тимлиду оценить «КПД разработки». 4 работающих способа — без хрустального шара и гадания на кофейной гуще](https://habr.com/ru/companies/pgk/articles/805377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805377)
 <!-- BLOG-POST-LIST:END -->
 
 ---
