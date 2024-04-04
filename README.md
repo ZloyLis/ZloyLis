@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Верните всё как было», или Как большие корпорации делают редизайн](https://habr.com/ru/companies/alfa/articles/803301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803301)
-- [Unpacking аналитиков: виды, особенности и отличия](https://habr.com/ru/companies/automacon/articles/805305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805305)
-- [Prosci на практике — системное управление изменениями](https://habr.com/ru/companies/tinkoff/articles/803989/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803989)
-- [Используй Силу, Люк: Single Pane of Glass в Мире SRE](https://habr.com/ru/companies/vk/articles/805029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805029)
-- [8 неочевидных уязвимостей при разработке e-commerce проекта на NextJS](https://habr.com/ru/companies/fuse8/articles/805303/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805303)
+- [Алгоритм ESG &lpar;Evolution of Social Groups&rpar;. C#](https://habr.com/ru/articles/805381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805381)
+- [SwiftUI: архитектура State-Model-View](https://habr.com/ru/articles/805371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805371)
+- [Backend-разработчик: из стажера в джуны](https://habr.com/ru/companies/rosbank/articles/805367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805367)
+- [Книга «React быстро. 2-е межд. изд.»](https://habr.com/ru/companies/piter/articles/805105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805105)
+- [Из разработчиков в архитекторы: как и зачем мы обучаем архитекторов в МТС](https://habr.com/ru/companies/ru_mts/articles/805345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
