@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полное руководство по безопасности GraphQL: Устранение 13 наиболее распространенных уязвимостей](https://habr.com/ru/articles/805537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805537)
 - [NTW3 Объяснение Примера](https://habr.com/ru/articles/805529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805529)
 - [Решаем дифференциальные уравнения с помощью Python часть 1](https://habr.com/ru/articles/805525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805525)
 - [[Перевод] Используем поля Joomla для фильтрации материалов](https://habr.com/ru/articles/805513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805513)
 - [Как системному аналитику не делать чужую работу](https://habr.com/ru/articles/805505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805505)
-- [Чему могут научить пул реквесты в чужие проекты](https://habr.com/ru/articles/805503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805503)
 <!-- BLOG-POST-LIST:END -->
 
 ---
