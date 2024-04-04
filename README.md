@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как определить, что мобильное приложение написано на Flutter](https://habr.com/ru/articles/805265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805265)
+- [На светлом-светлом Хабре появилась тёмная-тёмная тема](https://habr.com/ru/companies/habr/articles/805131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805131)
+- [RFM-анализ вашего поведения в банке](https://habr.com/ru/companies/gazprombank/articles/805101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805101)
 - [Когда ваши требования готовы?](https://habr.com/ru/articles/805251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805251)
 - [CRTP в C++](https://habr.com/ru/companies/otus/articles/803601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803601)
-- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 8. Файловая система](https://habr.com/ru/articles/805243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805243)
-- [4.04 — день, когда можно найти потерянное](https://habr.com/ru/companies/ddosguard/articles/804507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804507)
-- [[Перевод] API без версий — делаем API обратно совместимыми НАВСЕГДА, чтобы позволить бизнесу сотрудничать](https://habr.com/ru/articles/805221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805221)
 <!-- BLOG-POST-LIST:END -->
 
 ---
