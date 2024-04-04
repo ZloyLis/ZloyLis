@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда ваши требования готовы?](https://habr.com/ru/articles/805251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805251)
+- [CRTP в C++](https://habr.com/ru/companies/otus/articles/803601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803601)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 8. Файловая система](https://habr.com/ru/articles/805243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805243)
 - [4.04 — день, когда можно найти потерянное](https://habr.com/ru/companies/ddosguard/articles/804507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804507)
 - [[Перевод] API без версий — делаем API обратно совместимыми НАВСЕГДА, чтобы позволить бизнесу сотрудничать](https://habr.com/ru/articles/805221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805221)
-- [Сквозная механика &lpar;часть 1&rpar;](https://habr.com/ru/articles/805153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805153)
-- [Введение в нейросети: что, зачем и как?](https://habr.com/ru/articles/805209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805209)
 <!-- BLOG-POST-LIST:END -->
 
 ---
