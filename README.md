@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чему могут научить пул реквесты в чужие проекты](https://habr.com/ru/articles/805503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805503)
+- [Как протестировать Android-приложение, которому требуются разрешения](https://habr.com/ru/companies/kaspersky/articles/804563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804563)
 - [То, что вы пишете, это точно composables?](https://habr.com/ru/articles/805491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805491)
 - [realme 12 Pro — продвинутые камеры и приятная оболочка](https://habr.com/ru/articles/805489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805489)
 - [Как настроить библиотеку SFML C++ в Visual Studio 2022 статическая компоновка](https://habr.com/ru/articles/805487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805487)
-- [Использование библиотеки DCMTK для создания DICOM-файлов на C++](https://habr.com/ru/articles/805475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805475)
-- [Open Source в российском ИИ: исследование ландшафта](https://habr.com/ru/companies/spbifmo/articles/805455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805455)
 <!-- BLOG-POST-LIST:END -->
 
 ---
