@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Используем поля Joomla для фильтрации материалов](https://habr.com/ru/articles/805513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805513)
+- [Как системному аналитику не делать чужую работу](https://habr.com/ru/articles/805505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805505)
 - [Чему могут научить пул реквесты в чужие проекты](https://habr.com/ru/articles/805503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805503)
 - [Как протестировать Android-приложение, которому требуются разрешения](https://habr.com/ru/companies/kaspersky/articles/804563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804563)
 - [То, что вы пишете, это точно composables?](https://habr.com/ru/articles/805491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805491)
-- [realme 12 Pro — продвинутые камеры и приятная оболочка](https://habr.com/ru/articles/805489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805489)
-- [Как настроить библиотеку SFML C++ в Visual Studio 2022 статическая компоновка](https://habr.com/ru/articles/805487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805487)
 <!-- BLOG-POST-LIST:END -->
 
 ---
