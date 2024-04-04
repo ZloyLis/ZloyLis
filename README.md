@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Алгоритм ESG &lpar;Evolution of Social Groups&rpar;. C#](https://habr.com/ru/articles/805381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805381)
-- [SwiftUI: архитектура State-Model-View](https://habr.com/ru/articles/805371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805371)
-- [Backend-разработчик: из стажера в джуны](https://habr.com/ru/companies/rosbank/articles/805367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805367)
-- [Книга «React быстро. 2-е межд. изд.»](https://habr.com/ru/companies/piter/articles/805105/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805105)
-- [Из разработчиков в архитекторы: как и зачем мы обучаем архитекторов в МТС](https://habr.com/ru/companies/ru_mts/articles/805345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805345)
+- [Open Source в российском ИИ: исследование ландшафта](https://habr.com/ru/companies/spbifmo/articles/805455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805455)
+- [Зачем нужно ИТ в современном бизнесе?](https://habr.com/ru/articles/805469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805469)
+- [Как оптимизировать процесс подписи документов с помощью автоматизации процессов?](https://habr.com/ru/articles/805465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805465)
+- [Как автоматизация делает бизнес прибыльнее?](https://habr.com/ru/articles/805461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805461)
+- [Как тимлиду оценить «КПД разработки». 4 работающих способа — без хрустального шара и гадания на кофейной гуще](https://habr.com/ru/companies/pgk/articles/805377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805377)
 <!-- BLOG-POST-LIST:END -->
 
 ---
