@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Scanner в Android](https://habr.com/ru/articles/805281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805281)
-- [[Перевод] Как исправить ITMS-91053: Missing API declaration](https://habr.com/ru/articles/805267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805267)
-- [[Перевод] Как определить, что мобильное приложение написано на Flutter](https://habr.com/ru/articles/805265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805265)
-- [На светлом-светлом Хабре появилась тёмная-тёмная тема](https://habr.com/ru/companies/habr/articles/805131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805131)
-- [RFM-анализ вашего поведения в банке](https://habr.com/ru/companies/gazprombank/articles/805101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805101)
+- [«Верните всё как было», или Как большие корпорации делают редизайн](https://habr.com/ru/companies/alfa/articles/803301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803301)
+- [Unpacking аналитиков: виды, особенности и отличия](https://habr.com/ru/companies/automacon/articles/805305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805305)
+- [Prosci на практике — системное управление изменениями](https://habr.com/ru/companies/tinkoff/articles/803989/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803989)
+- [Используй Силу, Люк: Single Pane of Glass в Мире SRE](https://habr.com/ru/companies/vk/articles/805029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805029)
+- [8 неочевидных уязвимостей при разработке e-commerce проекта на NextJS](https://habr.com/ru/companies/fuse8/articles/805303/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
