@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не надо проверять размер массива в С++](https://habr.com/ru/companies/pvs-studio/articles/805673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805673)
 - [Менторство в IT. С чего начать и как стать успешным ментором](https://habr.com/ru/companies/sportmaster_lab/articles/805481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805481)
 - [От задачи к результату: как сформулировать требования правильно](https://habr.com/ru/articles/805663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805663)
 - [Что такое semantic-release и как с ним работать](https://habr.com/ru/companies/banki/articles/805653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805653)
 - [Разбираемся в новом роутинге в Go 1.22](https://habr.com/ru/companies/avito/articles/805097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805097)
-- [Хватит ли места на рынке D2D после прихода SpaceX?](https://habr.com/ru/companies/ruvds/articles/804127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804127)
 <!-- BLOG-POST-LIST:END -->
 
 ---
