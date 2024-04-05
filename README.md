@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Go-like каналы на C++](https://habr.com/ru/articles/805561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805561)
+- [Как получить лицензию ФСТЭК России. Опыт «Фланта»: процесс, сложности, советы](https://habr.com/ru/companies/flant/articles/805559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805559)
+- [Как дисциплина управления мастер-данными влияет на продажи](https://habr.com/ru/companies/magnit/articles/805321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805321)
 - [Программирование и ИТ во мгле, но это не точно](https://habr.com/ru/articles/702300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702300)
 - [[Перевод] Полное руководство по безопасности GraphQL: Устранение 13 наиболее распространенных уязвимостей](https://habr.com/ru/articles/805537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805537)
-- [NTW3 Объяснение Примера](https://habr.com/ru/articles/805529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805529)
-- [Решаем дифференциальные уравнения с помощью Python часть 1](https://habr.com/ru/articles/805525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805525)
-- [[Перевод] Используем поля Joomla для фильтрации материалов](https://habr.com/ru/articles/805513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805513)
 <!-- BLOG-POST-LIST:END -->
 
 ---
