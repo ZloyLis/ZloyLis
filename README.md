@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgresso #3 &lpar;64&rpar;](https://habr.com/ru/companies/postgrespro/articles/799825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799825)
+- [[Перевод] Dataloader 3.0: Новый алгоритм для решения проблемы N+1](https://habr.com/ru/articles/805769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805769)
+- [Калибровка магнитометра с помощью обобщённого фильтра Калмана](https://habr.com/ru/articles/805765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805765)
 - [Beego в Golang для начинающих](https://habr.com/ru/companies/otus/articles/802333/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802333)
 - [Как перейти на фриланс начинающему разработчику? пример опыта &lpar;AR&rpar; и полезные советы](https://habr.com/ru/articles/805751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805751)
-- [Подготовка к сертификациям CompTIA A+, Network+ и Security+](https://habr.com/ru/articles/805741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805741)
-- [Что стоит почитать по Python в 2024 году? Пять хороших книг](https://habr.com/ru/companies/ru_mts/articles/805733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805733)
-- [[Перевод] Десять основных упражнений для предотвращения болей в спине у программистов](https://habr.com/ru/companies/productivity_inside/articles/805729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805729)
 <!-- BLOG-POST-LIST:END -->
 
 ---
