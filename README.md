@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro: обзор платформы и создание первого мобильного приложения](https://habr.com/ru/articles/805727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805727)
+- [Про решаемость пятнашек](https://habr.com/ru/articles/805541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805541)
+- [Чтение на выходные: «Чистая архитектура. Искусство разработки программного обеспечения» Роберта Мартина](https://habr.com/ru/companies/onlinepatent/articles/805715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805715)
 - [[Перевод] Эффект Монреаля: почему языкам программирования нужен Царь стилей](https://habr.com/ru/companies/ruvds/articles/805235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805235)
 - [[Перевод] Детки, не учитесь кодить. Вместо этого освойте моделирование](https://habr.com/ru/companies/ispsystem/articles/805709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805709)
-- [[Перевод] Создание серверного Live Chat приложения с использованием Next.js, Fauna и WunderGraph для GraphQL Live Queries](https://habr.com/ru/articles/805695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805695)
-- [Как не надо проверять размер массива в С++](https://habr.com/ru/companies/pvs-studio/articles/805673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805673)
-- [Менторство в IT. С чего начать и как стать успешным ментором](https://habr.com/ru/companies/sportmaster_lab/articles/805481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
