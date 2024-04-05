@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перейти на фриланс начинающему разработчику? пример опыта &lpar;AR&rpar; и полезные советы](https://habr.com/ru/articles/805751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805751)
 - [Подготовка к сертификациям CompTIA A+, Network+ и Security+](https://habr.com/ru/articles/805741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805741)
 - [Что стоит почитать по Python в 2024 году? Пять хороших книг](https://habr.com/ru/companies/ru_mts/articles/805733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805733)
 - [[Перевод] Десять основных упражнений для предотвращения болей в спине у программистов](https://habr.com/ru/companies/productivity_inside/articles/805729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805729)
 - [Apple Vision Pro: обзор платформы и создание первого мобильного приложения](https://habr.com/ru/articles/805727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805727)
-- [Про решаемость пятнашек](https://habr.com/ru/articles/805541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805541)
 <!-- BLOG-POST-LIST:END -->
 
 ---
