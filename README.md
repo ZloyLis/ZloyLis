@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От задачи к результату: как сформулировать требования правильно](https://habr.com/ru/articles/805663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805663)
+- [Что такое semantic-release и как с ним работать](https://habr.com/ru/companies/banki/articles/805653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805653)
+- [Разбираемся в новом роутинге в Go 1.22](https://habr.com/ru/companies/avito/articles/805097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805097)
 - [Хватит ли места на рынке D2D после прихода SpaceX?](https://habr.com/ru/companies/ruvds/articles/804127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804127)
-- [Как найти своего IT-ментора — о сервисах Хабр Карьеры](https://habr.com/ru/companies/habr/articles/805623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805623)
-- [«Американцам заходят борщик и сырники» — интервью с CTO Foodtech-стартапа из Чикаго](https://habr.com/ru/companies/kts/articles/805495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805495)
-- [Мы шутили над «опытными пользователями ПК», а ведь они вымирают](https://habr.com/ru/companies/itsumma/articles/802913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802913)
-- [Выбор БД в новом проекте](https://habr.com/ru/articles/804975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804975)
+- [Как найти своего IT-ментора — о сервисах Хабр Карьеры](https://habr.com/ru/companies/habr_career/articles/805623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805623)
 <!-- BLOG-POST-LIST:END -->
 
 ---
