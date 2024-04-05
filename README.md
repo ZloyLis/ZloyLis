@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эффект Монреаля: почему языкам программирования нужен Царь стилей](https://habr.com/ru/companies/ruvds/articles/805235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805235)
+- [[Перевод] Детки, не учитесь кодить. Вместо этого освойте моделирование](https://habr.com/ru/companies/ispsystem/articles/805709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805709)
+- [[Перевод] Создание серверного Live Chat приложения с использованием Next.js, Fauna и WunderGraph для GraphQL Live Queries](https://habr.com/ru/articles/805695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805695)
 - [Как не надо проверять размер массива в С++](https://habr.com/ru/companies/pvs-studio/articles/805673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805673)
 - [Менторство в IT. С чего начать и как стать успешным ментором](https://habr.com/ru/companies/sportmaster_lab/articles/805481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805481)
-- [От задачи к результату: как сформулировать требования правильно](https://habr.com/ru/articles/805663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805663)
-- [Что такое semantic-release и как с ним работать](https://habr.com/ru/companies/banki/articles/805653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805653)
-- [Разбираемся в новом роутинге в Go 1.22](https://habr.com/ru/companies/avito/articles/805097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
