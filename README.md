@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конструкторы-самозванцы в Kotlin](https://habr.com/ru/articles/805767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805767)
 - [Postgresso #3 &lpar;64&rpar;](https://habr.com/ru/companies/postgrespro/articles/799825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799825)
 - [[Перевод] Dataloader 3.0: Новый алгоритм для решения проблемы N+1](https://habr.com/ru/articles/805769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805769)
 - [Калибровка магнитометра с помощью обобщённого фильтра Калмана](https://habr.com/ru/articles/805765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805765)
 - [Beego в Golang для начинающих](https://habr.com/ru/companies/otus/articles/802333/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802333)
-- [Как перейти на фриланс начинающему разработчику? пример опыта &lpar;AR&rpar; и полезные советы](https://habr.com/ru/articles/805751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805751)
 <!-- BLOG-POST-LIST:END -->
 
 ---
