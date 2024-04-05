@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подготовка к сертификациям CompTIA A+, Network+ и Security+](https://habr.com/ru/articles/805741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805741)
+- [Что стоит почитать по Python в 2024 году? Пять хороших книг](https://habr.com/ru/companies/ru_mts/articles/805733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805733)
+- [[Перевод] Десять основных упражнений для предотвращения болей в спине у программистов](https://habr.com/ru/companies/productivity_inside/articles/805729/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805729)
 - [Apple Vision Pro: обзор платформы и создание первого мобильного приложения](https://habr.com/ru/articles/805727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805727)
 - [Про решаемость пятнашек](https://habr.com/ru/articles/805541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805541)
-- [Чтение на выходные: «Чистая архитектура. Искусство разработки программного обеспечения» Роберта Мартина](https://habr.com/ru/companies/onlinepatent/articles/805715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805715)
-- [[Перевод] Эффект Монреаля: почему языкам программирования нужен Царь стилей](https://habr.com/ru/companies/ruvds/articles/805235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805235)
-- [[Перевод] Детки, не учитесь кодить. Вместо этого освойте моделирование](https://habr.com/ru/companies/ispsystem/articles/805709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805709)
 <!-- BLOG-POST-LIST:END -->
 
 ---
