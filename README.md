@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go-like каналы на C++](https://habr.com/ru/articles/805561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805561)
-- [Как получить лицензию ФСТЭК России. Опыт «Фланта»: процесс, сложности, советы](https://habr.com/ru/companies/flant/articles/805559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805559)
-- [Как дисциплина управления мастер-данными влияет на продажи](https://habr.com/ru/companies/magnit/articles/805321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805321)
-- [Программирование и ИТ во мгле, но это не точно](https://habr.com/ru/articles/702300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=702300)
-- [[Перевод] Полное руководство по безопасности GraphQL: Устранение 13 наиболее распространенных уязвимостей](https://habr.com/ru/articles/805537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805537)
+- [Хватит ли места на рынке D2D после прихода SpaceX?](https://habr.com/ru/companies/ruvds/articles/804127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804127)
+- [Как найти своего IT-ментора — о сервисах Хабр Карьеры](https://habr.com/ru/companies/habr/articles/805623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805623)
+- [«Американцам заходят борщик и сырники» — интервью с CTO Foodtech-стартапа из Чикаго](https://habr.com/ru/companies/kts/articles/805495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805495)
+- [Мы шутили над «опытными пользователями ПК», а ведь они вымирают](https://habr.com/ru/companies/itsumma/articles/802913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802913)
+- [Выбор БД в новом проекте](https://habr.com/ru/articles/804975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804975)
 <!-- BLOG-POST-LIST:END -->
 
 ---
