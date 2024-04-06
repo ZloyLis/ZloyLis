@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Построение гистограммы максимального и среднего времени выполнения запросов для PostgreSQL](https://habr.com/ru/articles/805813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805813)
+- [SwiftUI уроки &lpar;часть 7&rpar;](https://habr.com/ru/articles/805809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805809)
 - [Жизненный цикл Activity приложения: базовые принципы и понятия](https://habr.com/ru/companies/itq_group/articles/805777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805777)
 - [Конструкторы-самозванцы в Kotlin](https://habr.com/ru/articles/805767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805767)
 - [Postgresso #3 &lpar;64&rpar;](https://habr.com/ru/companies/postgrespro/articles/799825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=799825)
-- [[Перевод] Dataloader 3.0: Новый алгоритм для решения проблемы N+1](https://habr.com/ru/articles/805769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805769)
-- [Калибровка магнитометра с помощью обобщённого фильтра Калмана](https://habr.com/ru/articles/805765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805765)
 <!-- BLOG-POST-LIST:END -->
 
 ---
