@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как бизнес-аналитику не делать “чужую” работу](https://habr.com/ru/articles/805843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805843)
+- [[Перевод] Pandas: от хаоса к красоте кода](https://habr.com/ru/articles/805271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805271)
+- [Концепция построения кустов сетецентрической системы управления войсками](https://habr.com/ru/articles/805847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805847)
 - [Скрытые сокровища интерфейсного дизайна: 10 малоизвестных UI элементов, улучшающих взаимодействие](https://habr.com/ru/articles/805829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805829)
 - [Построение гистограммы максимального и среднего времени выполнения запросов для PostgreSQL](https://habr.com/ru/articles/805813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805813)
 - [SwiftUI уроки &lpar;часть 7&rpar;](https://habr.com/ru/articles/805809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805809)
-- [Жизненный цикл Activity приложения: базовые принципы и понятия](https://habr.com/ru/companies/itq_group/articles/805777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805777)
 <!-- BLOG-POST-LIST:END -->
 
 ---
