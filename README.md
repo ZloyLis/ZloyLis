@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Пространство имен для GraphQL: Бесконфликтное объединение любого количества API](https://habr.com/ru/articles/805875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805875)
+- [Shiva — Open Source проект на Rust для парсинга и генерации документов любого типа](https://habr.com/ru/articles/805871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805871)
 - [Самые полезные библиотеки JS для красивых анимаций](https://habr.com/ru/companies/bothub/articles/805737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805737)
 - [[Перевод] Pandas: от хаоса к красоте кода](https://habr.com/ru/articles/805271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805271)
 - [Концепция построения кустов сетецентрической системы управления войсками](https://habr.com/ru/articles/805847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805847)
-- [Скрытые сокровища интерфейсного дизайна: 10 не популяризованных UI элементов, способных улучшить взаимодействие](https://habr.com/ru/articles/805829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805829)
 <!-- BLOG-POST-LIST:END -->
 
 ---
