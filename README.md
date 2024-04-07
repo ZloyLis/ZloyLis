@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Декомпозиция программных компонент](https://habr.com/ru/articles/804193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804193)
 - [Развертываем peer-to-peer чат с голосом, видео, шарингом экрана, файлов и паролем](https://habr.com/ru/articles/805889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805889)
 - [[Перевод] Пространство имен для GraphQL: Бесконфликтное объединение любого количества API](https://habr.com/ru/articles/805875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805875)
 - [Shiva — Open Source проект на Rust для парсинга и генерации документов любого типа](https://habr.com/ru/articles/805871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805871)
 - [Самые полезные библиотеки JS для красивых анимаций](https://habr.com/ru/companies/bothub/articles/805737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805737)
-- [[Перевод] Pandas: от хаоса к красоте кода](https://habr.com/ru/articles/805271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805271)
 <!-- BLOG-POST-LIST:END -->
 
 ---
