@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Статический анализ структуры базы данных &lpar;часть 2&rpar;](https://habr.com/ru/articles/803841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803841)
 - [Простая и проверенная система ввода в должность для ваших сотрудников](https://habr.com/ru/articles/805939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805939)
-- [Kubeshark — мониторинг и анализ Kuberneres](https://habr.com/ru/articles/805937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805937)
+- [Kubeshark — мониторинг и анализ Kubernetes](https://habr.com/ru/articles/805937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805937)
 - [[Перевод] Подписки на GraphQL: Почему мы используем SSE/Fetch вместо Websockets](https://habr.com/ru/articles/805931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805931)
 - [Декомпозиция программных компонент](https://habr.com/ru/articles/804193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804193)
 <!-- BLOG-POST-LIST:END -->
