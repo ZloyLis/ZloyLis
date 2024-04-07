@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Open Source GraphQL CDN / Edge Cache с Cloudflare, Fastly и Fly.io](https://habr.com/ru/articles/806017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806017)
 - [[Перевод] Мега-Учебник Flask Глава 3: Веб-формы &lpar;издание 2024&rpar;](https://habr.com/ru/articles/805997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805997)
 - [Как сделать из императивного компонента — декларативный React-компонент](https://habr.com/ru/articles/792766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792766)
 - [Python для анализа годовых температур в Москве](https://habr.com/ru/articles/805973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805973)
 - [Логи в файлах: написал своё приложение для просмотра структурированных логов](https://habr.com/ru/articles/805949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805949)
-- [Статический анализ структуры базы данных &lpar;часть 2&rpar;](https://habr.com/ru/articles/803841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803841)
 <!-- BLOG-POST-LIST:END -->
 
 ---
