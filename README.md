@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как сделать из нативного компонента — React-компонент](https://habr.com/ru/articles/792766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792766)
+- [Как сделать из императивного компонента — декларативный React-компонент](https://habr.com/ru/articles/792766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792766)
 - [Python для анализа годовых температур в Москве](https://habr.com/ru/articles/805973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805973)
 - [Статический анализ структуры базы данных &lpar;часть 2&rpar;](https://habr.com/ru/articles/803841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803841)
 - [Простая и проверенная система ввода в должность для ваших сотрудников](https://habr.com/ru/articles/805939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805939)
