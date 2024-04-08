@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильный UX/UI дизайн: 10 лайфхаков для создания безупречных мобильных приложений](https://habr.com/ru/articles/806179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806179)
+- [UI. Нюансы реализации маркера в редакторе блок-схем DGRM.net](https://habr.com/ru/articles/806177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806177)
 - [Как развернуть сайт c помощью Terraform](https://habr.com/ru/companies/selectel/articles/806091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806091)
 - [Миграция с MSSQL Server на PostgreSQL. Предпосылки](https://habr.com/ru/companies/softpoint/articles/806127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806127)
 - [RSS отлично себя чувствует](https://habr.com/ru/companies/ruvds/articles/803875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803875)
-- [Kid-tech. Особенности детских банковских продуктов: зачем банкам дети и нужно ли это родителям](https://habr.com/ru/companies/rshb/articles/805773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805773)
-- [Разбор задач «Квеста на миллион»](https://habr.com/ru/articles/805831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805831)
 <!-- BLOG-POST-LIST:END -->
 
 ---
