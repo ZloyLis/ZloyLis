@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;01.04 – 07.04.24&rpar;](https://habr.com/ru/articles/806271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806271)
 - [Покупка подписки Apple Developer from Russia в апреле 2024 без иностранной карты](https://habr.com/ru/articles/806261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806261)
 - [Security Week 2415: новые уязвимости в продуктах Ivanti](https://habr.com/ru/companies/kaspersky/articles/806211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806211)
 - [[Перевод] Введение в Router Cosmo — потрясающе быстрый шлюз с открытым исходным кодом Federation V1/V2](https://habr.com/ru/articles/806249/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806249)
 - [Как создать свой Spring Boot 3 — стартер?](https://habr.com/ru/articles/806217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806217)
-- [Основные настройки для управления ресурсами в PostgreSQL: настройка памяти, CPU и I/O](https://habr.com/ru/companies/otus/articles/804281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
