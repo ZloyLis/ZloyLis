@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2415: новые уязвимости в продуктах Ivanti](https://habr.com/ru/companies/kaspersky/articles/806211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806211)
+- [[Перевод] Введение в Router Cosmo — потрясающе быстрый шлюз с открытым исходным кодом Federation V1/V2](https://habr.com/ru/articles/806249/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806249)
 - [Как создать свой Spring Boot 3 — стартер?](https://habr.com/ru/articles/806217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806217)
 - [Основные настройки для управления ресурсами в PostgreSQL: настройка памяти, CPU и I/O](https://habr.com/ru/companies/otus/articles/804281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804281)
 - [Java Digest #11](https://habr.com/ru/companies/tinkoff/articles/806139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806139)
-- [Мобильный UX/UI дизайн: 10 лайфхаков для создания безупречных мобильных приложений](https://habr.com/ru/articles/806179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806179)
-- [UI. Нюансы реализации маркера в редакторе блок-схем DGRM.net](https://habr.com/ru/articles/806177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806177)
 <!-- BLOG-POST-LIST:END -->
 
 ---
