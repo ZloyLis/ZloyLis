@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основные настройки для управления ресурсами в PostgreSQL: настройка памяти, CPU и I/O](https://habr.com/ru/companies/otus/articles/804281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804281)
 - [Java Digest #11](https://habr.com/ru/companies/tinkoff/articles/806139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806139)
 - [Мобильный UX/UI дизайн: 10 лайфхаков для создания безупречных мобильных приложений](https://habr.com/ru/articles/806179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806179)
 - [UI. Нюансы реализации маркера в редакторе блок-схем DGRM.net](https://habr.com/ru/articles/806177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806177)
 - [Как развернуть сайт c помощью Terraform](https://habr.com/ru/companies/selectel/articles/806091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806091)
-- [Миграция с MSSQL Server на PostgreSQL. Предпосылки](https://habr.com/ru/companies/softpoint/articles/806127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806127)
 <!-- BLOG-POST-LIST:END -->
 
 ---
