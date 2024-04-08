@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kid-tech. Особенности детских банковских продуктов: зачем банкам дети и нужно ли это родителям](https://habr.com/ru/companies/rshb/articles/805773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805773)
+- [Разбор задач «Квеста на миллион»](https://habr.com/ru/articles/805831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805831)
 - [От «здравствуйте» до こんにちは: языки программирования не на английском языке](https://habr.com/ru/companies/sberbank/articles/806051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806051)
 - [Концепция «все есть файл» — давно устарела](https://habr.com/ru/articles/806055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806055)
 - [Распознаем голосовые сообщения Telegram без СМС и пересылок ботам](https://habr.com/ru/articles/803833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803833)
-- [Лучшее и новое: что расскажут о тестировании на Heisenbug 2024 Spring](https://habr.com/ru/companies/jugru/articles/803541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803541)
-- [Мобильная разработка за неделю #533 &lpar;1 — 7 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/806029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
