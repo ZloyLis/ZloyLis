@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распознаем голосовые сообщения Telegram без СМС и пересылок ботам](https://habr.com/ru/articles/803833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803833)
 - [Лучшее и новое: что расскажут о тестировании на Heisenbug 2024 Spring](https://habr.com/ru/companies/jugru/articles/803541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803541)
 - [Мобильная разработка за неделю #533 &lpar;1 — 7 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/806029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806029)
 - [Что нужно знать джависту, чтобы пройти собеседование](https://habr.com/ru/articles/806027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806027)
 - [Заставляем дружить OpenGL c JVM на macOS](https://habr.com/ru/articles/806025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806025)
-- [[Перевод] Open Source GraphQL CDN / Edge Cache с Cloudflare, Fastly и Fly.io](https://habr.com/ru/articles/806017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
