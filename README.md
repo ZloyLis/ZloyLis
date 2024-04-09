@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Convex — альтернатива Firebase и Supabase](https://habr.com/ru/articles/806547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806547)
+- [[Перевод] Нативные подписки с роутером Cosmo](https://habr.com/ru/articles/806541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806541)
 - [Меньше работы с людьми, больше работы с данными: кому подойдет мир аналитики](https://habr.com/ru/companies/productstar/articles/806529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806529)
 - [Как подготовиться к своему первому собеседованию в России в IT сфере &lpar;краткое руководство к действию&rpar;](https://habr.com/ru/articles/806517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806517)
 - [[Перевод] Словарь прошивщика](https://habr.com/ru/articles/806497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806497)
-- [Разработка автоматизированной очереди для сдачи лабораторных работ](https://habr.com/ru/articles/806471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806471)
-- [Legacy: поддерживать нельзя переписать](https://habr.com/ru/companies/kokocgroup/articles/805045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805045)
 <!-- BLOG-POST-LIST:END -->
 
 ---
