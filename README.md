@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C3D Solver: принципы параметрического черчения 2D-паттернов и улучшения для 3D-моделирования сборок](https://habr.com/ru/companies/ascon/articles/788338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788338)
+- [Кастомные иерархии в Breadcrumbs](https://habr.com/ru/articles/806339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806339)
+- [Разрабатываем бизнес-приложения на основе процессов жизненного цикла бизнес-систем](https://habr.com/ru/articles/806335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806335)
+- [Разворачиваем ML модель с использованием ONNX на Android в километре над землей](https://habr.com/ru/articles/805515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805515)
 - [Какие будут зарплаты у программистов в 2024 году: у кого меньше, а у кого больше](https://habr.com/ru/companies/lanit/articles/803853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803853)
-- [Как студенты Практикума перепроектировали сайт Alfa Digital](https://habr.com/ru/companies/alfa/articles/805389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805389)
-- [Я айтишник, я строю новые цеха](https://habr.com/ru/companies/omk-it/articles/806131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806131)
-- [Flutter: история успеха](https://habr.com/ru/companies/friflex/articles/806315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806315)
-- [Пет-проект: путь от «простого получения опыта» до «продукта, способного приносить пользу IT сообществу»](https://habr.com/ru/articles/806307/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806307)
 <!-- BLOG-POST-LIST:END -->
 
 ---
