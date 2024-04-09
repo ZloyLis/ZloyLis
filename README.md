@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему вам необходим React Query](https://habr.com/ru/articles/806431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806431)
+- [Чего боятся стажеры? {Спойлер: всех отвлекать, все поломать, чего-то не знать, на код-ревью завалиться…}](https://habr.com/ru/companies/kaspersky/articles/805631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805631)
+- [PostgreSQL. Устройство карты свободного пространства](https://habr.com/ru/articles/806415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806415)
 - [Подводные камни при разработке мобильного приложения на Bitrix REST API](https://habr.com/ru/articles/806381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806381)
 - [Huawei продвигает собственную ОС и планирует дистанцироваться от Android, Windows и других операционных систем](https://habr.com/ru/companies/ru_mts/articles/806367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806367)
-- [Мир, дружба, дедлайн: как избежать конфликтов в разработке и сохранить команду](https://habr.com/ru/companies/reksoft/articles/806365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806365)
-- [Неизвестно полезный CSS. Часть 2](https://habr.com/ru/companies/ruvds/articles/803757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803757)
-- [Весенний митап для бизнес-аналитиков в red_mad_robot 17 апреля](https://habr.com/ru/companies/redmadrobot/articles/806353/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806353)
 <!-- BLOG-POST-LIST:END -->
 
 ---
