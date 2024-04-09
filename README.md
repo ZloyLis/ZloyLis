@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подготовиться к своему первому собеседованию в России в IT сфере &lpar;краткое руководство к действию&rpar;](https://habr.com/ru/articles/806517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806517)
+- [[Перевод] Словарь прошивщика](https://habr.com/ru/articles/806497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806497)
 - [Разработка автоматизированной очереди для сдачи лабораторных работ](https://habr.com/ru/articles/806471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806471)
 - [Legacy: поддерживать нельзя переписать](https://habr.com/ru/companies/kokocgroup/articles/805045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805045)
 - [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 9. Еще раз о параллельных потоках](https://habr.com/ru/articles/806449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806449)
-- [Как мы интегрировались в казахстанский маркетплейс или история о нюансах](https://habr.com/ru/articles/806447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806447)
-- [Как провести фаззинг REST API с помощью RESTler. Часть 3](https://habr.com/ru/companies/swordfish_security/articles/806443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806443)
 <!-- BLOG-POST-LIST:END -->
 
 ---
