@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как автоматизировать общение с hr в 40 строк](https://habr.com/ru/articles/806571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806571)
 - [[Перевод] Сравнение MicroK8s c Managed Kubernetes Clusters, K3s и Minikube](https://habr.com/ru/articles/806565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806565)
 - [Convex — альтернатива Firebase и Supabase](https://habr.com/ru/articles/806547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806547)
 - [[Перевод] Нативные подписки с роутером Cosmo](https://habr.com/ru/articles/806541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806541)
 - [Меньше работы с людьми, больше работы с данными: кому подойдет мир аналитики](https://habr.com/ru/companies/productstar/articles/806529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806529)
-- [Как подготовиться к своему первому собеседованию в России в IT сфере &lpar;краткое руководство к действию&rpar;](https://habr.com/ru/articles/806517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806517)
 <!-- BLOG-POST-LIST:END -->
 
 ---
