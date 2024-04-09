@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Меньше работы с людьми, больше работы с данными: кому подойдет мир аналитики](https://habr.com/ru/companies/productstar/articles/806529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806529)
 - [Как подготовиться к своему первому собеседованию в России в IT сфере &lpar;краткое руководство к действию&rpar;](https://habr.com/ru/articles/806517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806517)
 - [[Перевод] Словарь прошивщика](https://habr.com/ru/articles/806497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806497)
 - [Разработка автоматизированной очереди для сдачи лабораторных работ](https://habr.com/ru/articles/806471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806471)
 - [Legacy: поддерживать нельзя переписать](https://habr.com/ru/companies/kokocgroup/articles/805045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805045)
-- [[Перевод] Xv6: учебная Unix-подобная ОС. Глава 9. Еще раз о параллельных потоках](https://habr.com/ru/articles/806449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806449)
 <!-- BLOG-POST-LIST:END -->
 
 ---
