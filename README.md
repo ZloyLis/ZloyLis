@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настройка HTTPS для контейнеризированных Java-сервисов](https://habr.com/ru/companies/haulmont/articles/805635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805635)
+- [Реализация взаимодействия с БД через Middleware в Telegram-ботах](https://habr.com/ru/articles/806717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806717)
+- [Xpath — залог стабильных UI-автотестов на Web и Mobile Web](https://habr.com/ru/companies/vk/articles/806661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806661)
 - [C# Тренажер](https://habr.com/ru/articles/806707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806707)
 - [Путешествие в yarn](https://habr.com/ru/companies/dododev/articles/798519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798519)
-- [Что скрывается в коде игрового движка, написанного на Java?](https://habr.com/ru/companies/pvs-studio/articles/806665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806665)
-- [[Перевод] Как передавать данные между вью контроллерами в Swift](https://habr.com/ru/articles/806653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806653)
-- [[Перевод] Фильтр Блума](https://habr.com/ru/companies/timeweb/articles/806383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806383)
 <!-- BLOG-POST-LIST:END -->
 
 ---
