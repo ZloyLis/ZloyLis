@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я написал клиент электронного дневника своей области](https://habr.com/ru/articles/806737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806737)
+- [[Перевод] Кластер MicroK8s](https://habr.com/ru/articles/806731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806731)
 - [Настройка HTTPS для контейнеризированных Java-сервисов](https://habr.com/ru/companies/haulmont/articles/805635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805635)
 - [Реализация взаимодействия с БД через Middleware в Telegram-ботах](https://habr.com/ru/articles/806717/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806717)
 - [Xpath — залог стабильных UI-автотестов на Web и Mobile Web](https://habr.com/ru/companies/vk/articles/806661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806661)
-- [C# Тренажер](https://habr.com/ru/articles/806707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806707)
-- [Путешествие в yarn](https://habr.com/ru/companies/dododev/articles/798519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
