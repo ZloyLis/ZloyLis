@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Фильтр Блума](https://habr.com/ru/companies/timeweb/articles/806383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806383)
+- [Идеология второго интернета](https://habr.com/ru/articles/806633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806633)
 - [Вызов пользовательских функций в API Gigachat](https://habr.com/ru/articles/806627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806627)
 - [Что делать, если кандидат оказался сеньором или психом: советы на случай форс-мажоров](https://habr.com/ru/companies/alfa/articles/806165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806165)
 - [Банановые шкурки на интервью Python-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/805665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805665)
-- [Пишем калькулятор на Rust с GUI](https://habr.com/ru/articles/804655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804655)
-- [Как автоматизировать общение с hr в 40 строк](https://habr.com/ru/articles/806571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806571)
 <!-- BLOG-POST-LIST:END -->
 
 ---
