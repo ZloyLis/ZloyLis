@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Тренажер](https://habr.com/ru/articles/806707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806707)
+- [Путешествие в yarn](https://habr.com/ru/companies/dododev/articles/798519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798519)
 - [Что скрывается в коде игрового движка, написанного на Java?](https://habr.com/ru/companies/pvs-studio/articles/806665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806665)
 - [[Перевод] Как передавать данные между вью контроллерами в Swift](https://habr.com/ru/articles/806653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806653)
 - [[Перевод] Фильтр Блума](https://habr.com/ru/companies/timeweb/articles/806383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806383)
-- [Идеология второго интернета](https://habr.com/ru/articles/806633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806633)
-- [Вызов пользовательских функций в API Gigachat](https://habr.com/ru/articles/806627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806627)
 <!-- BLOG-POST-LIST:END -->
 
 ---
