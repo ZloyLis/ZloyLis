@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вызов пользовательских функций в API Gigachat](https://habr.com/ru/articles/806627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806627)
+- [Что делать, если кандидат оказался сеньором или психом: советы на случай форс-мажоров](https://habr.com/ru/companies/alfa/articles/806165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806165)
+- [Банановые шкурки на интервью Python-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/805665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805665)
 - [Пишем калькулятор на Rust с GUI](https://habr.com/ru/articles/804655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804655)
 - [Как автоматизировать общение с hr в 40 строк](https://habr.com/ru/articles/806571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806571)
-- [[Перевод] Сравнение MicroK8s c Managed Kubernetes Clusters, K3s и Minikube](https://habr.com/ru/articles/806565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806565)
-- [Convex — альтернатива Firebase и Supabase](https://habr.com/ru/articles/806547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806547)
-- [[Перевод] Нативные подписки с роутером Cosmo](https://habr.com/ru/articles/806541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806541)
 <!-- BLOG-POST-LIST:END -->
 
 ---
