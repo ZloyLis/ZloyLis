@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Понимаем полностью useMemo и useCallback](https://habr.com/ru/articles/807139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807139)
+- [Теорвер не нужен в играх, но это не точно](https://habr.com/ru/articles/806851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806851)
+- [Теорема о перестановке коэффициентов многочлена, принадлежащих идеалу кольца](https://habr.com/ru/articles/807131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807131)
 - [[Перевод] Istio Ambient Mesh для начинающих](https://habr.com/ru/articles/807117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807117)
 - [Как спланировать разработку без хаоса?](https://habr.com/ru/companies/beeline_cloud/articles/807099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807099)
-- [Не видел, значит не было. Объясняем заказчику, почему в UX-исследованиях важны не только цифры](https://habr.com/ru/companies/agima/articles/807063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807063)
-- [RSLike@3. Well-known Symbol, улучшенное использование Typescript, и весим больше](https://habr.com/ru/articles/807089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807089)
-- [Евгений DockerAuthPlugin’ович Онегин](https://habr.com/ru/companies/ozontech/articles/806647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
