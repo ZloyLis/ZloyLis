@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Индуктивная статистика: доверительные интервалы, предельные ошибки, размер выборки и проверка гипотез](https://habr.com/ru/articles/807051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807051)
+- [Контроллеры на дженериках: пишем кода в 3 раза меньше](https://habr.com/ru/articles/807047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807047)
 - [Теоретическая и реальная производительность Intel AMX](https://habr.com/ru/articles/807033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807033)
 - [MaaS, или мониторинг как сервис](https://habr.com/ru/companies/oleg-bunin/articles/806779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806779)
 - [Реализация pin code во Flutter приложении](https://habr.com/ru/articles/807007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807007)
-- [Почему Accelerate — это не страшно](https://habr.com/ru/companies/tinkoff/articles/806903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806903)
-- [REST под сливочным соусом](https://habr.com/ru/articles/806997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806997)
 <!-- BLOG-POST-LIST:END -->
 
 ---
