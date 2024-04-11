@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теоретическая и реальная производительность Intel AMX](https://habr.com/ru/articles/807033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807033)
+- [MaaS, или мониторинг как сервис](https://habr.com/ru/companies/oleg-bunin/articles/806779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806779)
 - [Реализация pin code во Flutter приложении](https://habr.com/ru/articles/807007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807007)
 - [Почему Accelerate — это не страшно](https://habr.com/ru/companies/tinkoff/articles/806903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806903)
 - [REST под сливочным соусом](https://habr.com/ru/articles/806997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806997)
-- [Зачем нам так много языков программирования?](https://habr.com/ru/companies/cloud_mts/articles/806521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806521)
-- [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/806961/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
