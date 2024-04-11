@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Халвинг биткоина — возможность заработать 100-150% годовых](https://habr.com/ru/articles/806849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806849)
 - [9 полезных крейтов в Rust](https://habr.com/ru/companies/otus/articles/804273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804273)
 - [И полгода не прошло: релиз Qt 6.7 и Qt Creator 13. Что нового и что изменилось?](https://habr.com/ru/companies/ru_mts/articles/806809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806809)
 - [Модули ES6: Rollup](https://habr.com/ru/companies/otus/articles/804133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804133)
 - [Теперь я адепт Глубины, но денежный вопрос все ещё актуален](https://habr.com/ru/companies/deepfoundation/articles/801137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801137)
-- [Фреймворк DBGridChart и OLAP-приложение Экспресс_обработка.exe для ведения баз данных и анализа данных](https://habr.com/ru/articles/806777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806777)
 <!-- BLOG-POST-LIST:END -->
 
 ---
