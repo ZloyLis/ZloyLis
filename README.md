@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Жизнь после отвала eMMC. Часть 2: даём новую жизнь устройствам с полностью мёртвой памятью. Загружаем Android с MicroSD](https://habr.com/ru/companies/timeweb/articles/805545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805545)
+- [Как уйти с работы и сохранить человеческие отношения?](https://habr.com/ru/articles/806631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806631)
 - [Готовимся к первому собеседованию: что повторить и как настроиться тестировщику без опыта](https://habr.com/ru/companies/yandex_praktikum/articles/805459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805459)
 - [Метрика в машинном обучении сложных систем, алгоритм и программный код](https://habr.com/ru/articles/806889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806889)
 - [[Перевод] Как большие языковые модели в Street Fighter играли](https://habr.com/ru/companies/cloud4y/articles/806801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806801)
-- [Основы работы с хранилищами в Kubernetes](https://habr.com/ru/companies/otus/articles/806513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806513)
-- [9 полезных крейтов в Rust](https://habr.com/ru/companies/otus/articles/804273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804273)
 <!-- BLOG-POST-LIST:END -->
 
 ---
