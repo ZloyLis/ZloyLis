@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем нам так много языков программирования?](https://habr.com/ru/companies/cloud_mts/articles/806521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806521)
 - [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/806961/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806961)
 - [Новые угрозы в OWASP API Security Top 10](https://habr.com/ru/companies/webmonitorx/articles/806937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806937)
 - [[Перевод] Настройка аутентификации в приложении через Active Directory с использованием OpenAM](https://habr.com/ru/articles/806943/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806943)
 - [Аутентификация go с использованием токенов PASETO](https://habr.com/ru/companies/first/articles/806871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806871)
-- [Может ли мобильный-разработчик стать CTO?](https://habr.com/ru/companies/yandex/articles/806693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806693)
 <!-- BLOG-POST-LIST:END -->
 
 ---
