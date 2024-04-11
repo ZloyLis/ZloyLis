@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Евгений DockerAuthPlugin’ович Онегин](https://habr.com/ru/companies/ozontech/articles/806647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806647)
 - [Короткий или длинный путь: зачем проекту корпоративный архитектор?](https://habr.com/ru/companies/X5Tech/articles/807067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807067)
 - [Книга «Разработка приложений на базе GPT-4 и ChatGPT»](https://habr.com/ru/companies/piter/articles/807039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807039)
 - [[Перевод] Что такое Charmed Kubeflow?](https://habr.com/ru/articles/807059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807059)
 - [[Перевод] Двадцать лет — ничто](https://habr.com/ru/companies/productivity_inside/articles/807049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807049)
-- [Индуктивная статистика: доверительные интервалы, предельные ошибки, размер выборки и проверка гипотез](https://habr.com/ru/articles/807051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807051)
 <!-- BLOG-POST-LIST:END -->
 
 ---
