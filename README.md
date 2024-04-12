@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python — list/set/dict/generator comprehensions](https://habr.com/ru/articles/807389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807389)
 - [Аналитик vs. презентация задачи. Изучаем профессионально-деформационные диалекты коллег](https://habr.com/ru/companies/stm_labs/articles/807361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807361)
 - [Выжимаем максимум из PostgreSQL](https://habr.com/ru/companies/selectel/articles/807259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807259)
 - [Создание собственного ключа Android приложения](https://habr.com/ru/articles/807309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807309)
 - [Vision Pro и история космонавтики](https://habr.com/ru/articles/806861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806861)
-- [«Коллеги, пришлите сроки!» — повторял джун-аналитик в течение месяца…](https://habr.com/ru/articles/807299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807299)
 <!-- BLOG-POST-LIST:END -->
 
 ---
