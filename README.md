@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вам хватит школьной программы. Напишите приложение для организации встреч юр. лиц с представителями банка](https://habr.com/ru/articles/807147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807147)
 - [[Перевод] Понимаем полностью useMemo и useCallback](https://habr.com/ru/articles/807139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807139)
 - [Теорвер не нужен в играх, но это не точно](https://habr.com/ru/articles/806851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806851)
 - [Теорема о перестановке коэффициентов многочлена, принадлежащих идеалу кольца](https://habr.com/ru/articles/807131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807131)
 - [[Перевод] Istio Ambient Mesh для начинающих](https://habr.com/ru/articles/807117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807117)
-- [Как спланировать разработку без хаоса?](https://habr.com/ru/companies/beeline_cloud/articles/807099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807099)
 <!-- BLOG-POST-LIST:END -->
 
 ---
