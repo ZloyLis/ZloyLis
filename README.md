@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зонтичный мониторинг на коленке](https://habr.com/ru/articles/806785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806785)
+- [Баги, которые наделали немало шума](https://habr.com/ru/companies/pvs-studio/articles/807189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807189)
 - [Обзор Practical Network Penetration Tester &lpar;PNPT&rpar;](https://habr.com/ru/articles/807171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807171)
 - [Заменят ли LLM людей в разметке данных для AI?](https://habr.com/ru/articles/807137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807137)
 - [Как я курсовую писал на gRPC+REST в связке с клиентом на Android+Jetpack Compose](https://habr.com/ru/articles/807151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807151)
-- [Вам хватит школьной программы. Напишите приложение для организации встреч юр. лиц с представителями банка](https://habr.com/ru/articles/807147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807147)
-- [[Перевод] Понимаем полностью useMemo и useCallback](https://habr.com/ru/articles/807139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807139)
 <!-- BLOG-POST-LIST:END -->
 
 ---
