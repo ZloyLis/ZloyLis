@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Включаем Telegram Instantview для блога глобально](https://habr.com/ru/articles/807129/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807129)
 - [Выравнивание многоуровневого массива в Swift &lpar;Flattening of multi level Array in Swift&rpar;](https://habr.com/ru/articles/807265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807265)
 - [Безопасная разработка: обзор основных инструментов](https://habr.com/ru/companies/yandex_praktikum/articles/807053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807053)
 - [Топовые подходы к решению алгоритмических задач](https://habr.com/ru/companies/avito/articles/806711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806711)
 - [Жизнь без линтеров и расчет цены абстракции: материалы для разработчиков на С++](https://habr.com/ru/companies/yadro/articles/807145/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807145)
-- [«Михалыч, где заказ?» или как мы автоматизировали процесс заказа лома и отслеживали его по RFID](https://habr.com/ru/companies/oleg-bunin/articles/807029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
