@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор Practical Network Penetration Tester &lpar;PNPT&rpar;](https://habr.com/ru/articles/807171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807171)
+- [Заменят ли LLM людей в разметке данных для AI?](https://habr.com/ru/articles/807137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807137)
 - [Как я курсовую писал на gRPC+REST в связке с клиентом на Android+Jetpack Compose](https://habr.com/ru/articles/807151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807151)
 - [Вам хватит школьной программы. Напишите приложение для организации встреч юр. лиц с представителями банка](https://habr.com/ru/articles/807147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807147)
 - [[Перевод] Понимаем полностью useMemo и useCallback](https://habr.com/ru/articles/807139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807139)
-- [Теорвер не нужен в играх, но это не точно](https://habr.com/ru/articles/806851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806851)
-- [Теорема о перестановке коэффициентов многочлена, принадлежащих идеалу кольца](https://habr.com/ru/articles/807131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807131)
 <!-- BLOG-POST-LIST:END -->
 
 ---
