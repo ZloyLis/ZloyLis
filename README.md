@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Жизнь без линтеров и расчет цены абстракции: материалы для разработчиков на С++](https://habr.com/ru/companies/yadro/articles/807145/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807145)
+- [«Михалыч, где заказ?» или как мы автоматизировали процесс заказа лома и отслеживали его по RFID](https://habr.com/ru/companies/oleg-bunin/articles/807029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807029)
 - [Зонтичный мониторинг на коленке](https://habr.com/ru/articles/806785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806785)
 - [Баги, которые наделали немало шума](https://habr.com/ru/companies/pvs-studio/articles/807189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807189)
 - [Обзор Practical Network Penetration Tester &lpar;PNPT&rpar;](https://habr.com/ru/articles/807171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807171)
-- [Заменят ли LLM людей в разметке данных для AI?](https://habr.com/ru/articles/807137/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807137)
-- [Как я курсовую писал на gRPC+REST в связке с клиентом на Android+Jetpack Compose](https://habr.com/ru/articles/807151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807151)
 <!-- BLOG-POST-LIST:END -->
 
 ---
