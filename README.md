@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Включаем Telegram Instantview для блога глобально](https://habr.com/ru/articles/807129/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807129)
-- [Выравнивание многоуровневого массива в Swift &lpar;Flattening of multi level Array in Swift&rpar;](https://habr.com/ru/articles/807265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807265)
-- [Безопасная разработка: обзор основных инструментов](https://habr.com/ru/companies/yandex_praktikum/articles/807053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807053)
-- [Топовые подходы к решению алгоритмических задач](https://habr.com/ru/companies/avito/articles/806711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806711)
-- [Жизнь без линтеров и расчет цены абстракции: материалы для разработчиков на С++](https://habr.com/ru/companies/yadro/articles/807145/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807145)
+- [Vision Pro и история космонавтики](https://habr.com/ru/articles/806861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806861)
+- [«Коллеги, пришлите сроки!» — повторял джун-аналитик в течение месяца…](https://habr.com/ru/articles/807299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807299)
+- [Палочки Непера и «Шпаргалка» — карманные «калькуляторы» XVII века для умножения и деления сложных чисел](https://habr.com/ru/companies/rshb/articles/807291/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807291)
+- [Это всё, что останется после меня: проблемы наследования кода и передачи прав на него](https://habr.com/ru/companies/sberbank/articles/807275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807275)
+- [[Перевод] Введение в цифровую обработку сигналов](https://habr.com/ru/articles/807281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
