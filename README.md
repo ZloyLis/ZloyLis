@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Геймификация в EPM системах: фан или крутая фича? Разбираем на примере Форсайт](https://habr.com/ru/articles/807449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807449)
+- [[Перевод] Мега-Учебник Flask Глава 4: База данных &lpar;издание 2024&rpar;](https://habr.com/ru/articles/807371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807371)
 - [ChatGPT Глубокая интеграция](https://habr.com/ru/articles/807441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807441)
 - [[Перевод] Производительность Istio Ambient Mesh в одном Vs. нескольких неймспейсах Kubernetes](https://habr.com/ru/articles/807419/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807419)
 - [Психология в UX/UI дизайне: 10 принципов, повышающих вовлеченность и удержание](https://habr.com/ru/articles/807415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807415)
-- [Python — list/set/dict/generator comprehensions](https://habr.com/ru/articles/807389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807389)
-- [Аналитик vs. презентация задачи. Изучаем профессионально-деформационные диалекты коллег](https://habr.com/ru/companies/stm_labs/articles/807361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807361)
 <!-- BLOG-POST-LIST:END -->
 
 ---
