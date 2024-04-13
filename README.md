@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько зарабатывает ручной тестировщик?](https://habr.com/ru/articles/807471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807471)
 - [Геймификация в EPM системах: фан или крутая фича? Разбираем на примере Форсайт](https://habr.com/ru/articles/807449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807449)
 - [[Перевод] Мега-Учебник Flask Глава 4: База данных &lpar;издание 2024&rpar;](https://habr.com/ru/articles/807371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807371)
 - [ChatGPT Глубокая интеграция](https://habr.com/ru/articles/807441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807441)
 - [[Перевод] Производительность Istio Ambient Mesh в одном Vs. нескольких неймспейсах Kubernetes](https://habr.com/ru/articles/807419/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807419)
-- [Психология в UX/UI дизайне: 10 принципов, повышающих вовлеченность и удержание](https://habr.com/ru/articles/807415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807415)
 <!-- BLOG-POST-LIST:END -->
 
 ---
