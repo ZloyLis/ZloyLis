@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Не бойтесь бросать свои пет-проекты](https://habr.com/ru/companies/ruvds/articles/806741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806741)
+- [Квантовая случайность против детерминизма и супердетерминизма. Изгоняем демона Лапласа](https://habr.com/ru/articles/807489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807489)
+- [МРЭМ – 200. Электронный микроскоп родом из СССР. Цифровизация захвата изображения](https://habr.com/ru/articles/807487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807487)
+- [BDUI: sapere aude или продолжай писать на коленке](https://habr.com/ru/companies/1forma/articles/807477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807477)
 - [Сколько зарабатывает ручной тестировщик?](https://habr.com/ru/articles/807471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807471)
-- [Геймификация в EPM системах: фан или крутая фича? Разбираем на примере Форсайт](https://habr.com/ru/articles/807449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807449)
-- [[Перевод] Мега-Учебник Flask Глава 4: База данных &lpar;издание 2024&rpar;](https://habr.com/ru/articles/807371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807371)
-- [ChatGPT Глубокая интеграция](https://habr.com/ru/articles/807441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807441)
-- [[Перевод] Производительность Istio Ambient Mesh в одном Vs. нескольких неймспейсах Kubernetes](https://habr.com/ru/articles/807419/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807419)
 <!-- BLOG-POST-LIST:END -->
 
 ---
