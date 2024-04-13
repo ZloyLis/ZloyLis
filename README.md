@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обобщённые типы. Часть 3/3. Применение контейнерных типов](https://habr.com/ru/articles/807495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807495)
+- [Обобщённые типы. Часть 1/3. Полиморфные типы высокого рода](https://habr.com/ru/articles/807467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807467)
+- [Обобщённые типы. Часть 2/3. Классы типов и контейнеры](https://habr.com/ru/articles/807485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807485)
 - [Театр образования](https://habr.com/ru/articles/773162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773162)
 - [[Перевод] Не бойтесь бросать свои пет-проекты](https://habr.com/ru/companies/ruvds/articles/806741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806741)
-- [Квантовая случайность против детерминизма и супердетерминизма. Изгоняем демона Лапласа](https://habr.com/ru/articles/807489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807489)
-- [МРЭМ – 200. Электронный микроскоп родом из СССР. Цифровизация захвата изображения](https://habr.com/ru/articles/807487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807487)
-- [BDUI: sapere aude или продолжай писать на коленке](https://habr.com/ru/companies/1forma/articles/807477/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807477)
 <!-- BLOG-POST-LIST:END -->
 
 ---
