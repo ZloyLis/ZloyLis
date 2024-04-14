@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание реактивных сервисов Micronaut и Kotlin](https://habr.com/ru/articles/807597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807597)
+- [Shenandoah GC в JDK](https://habr.com/ru/companies/otus/articles/806929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806929)
+- [SwiftUI уроки &lpar;часть 8&rpar;](https://habr.com/ru/articles/807589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807589)
+- [Больше ИИ-инструментов, хороших и разных: Google представила помощника для написания кода](https://habr.com/ru/companies/ru_mts/articles/807423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807423)
 - [Blockchain-интеграция: возможности API и веб-сервисов для безопасных биткоин транзакций](https://habr.com/ru/articles/807565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807565)
-- [Решение систем линейных уравнений с помощью Python](https://habr.com/ru/companies/bothub/articles/807413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807413)
-- [Обобщённые типы. Часть 3/3. Применение контейнерных типов](https://habr.com/ru/articles/807495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807495)
-- [Обобщённые типы. Часть 1/3. Полиморфные типы высокого рода](https://habr.com/ru/articles/807467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807467)
-- [Обобщённые типы. Часть 2/3. Классы типов и контейнеры](https://habr.com/ru/articles/807485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807485)
 <!-- BLOG-POST-LIST:END -->
 
 ---
