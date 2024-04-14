@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Настоящая причина, по которой вы не станете сеньором](https://habr.com/ru/companies/ispsystem/articles/807661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807661)
+- [Массовые проблемы с аутентификацией на github.com](https://habr.com/ru/articles/807653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807653)
+- [А нужна ли перезагрузка?.](https://habr.com/ru/articles/807643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807643)
+- [Госзакупки, «Точка Роста» и 3D-принтер за тройную цену. Четыре года спустя](https://habr.com/ru/articles/807633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807633)
 - [Зачем в школах изучать Pascal, если самый популярный язык программирования в мире — JavaScript?](https://habr.com/ru/articles/807613/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807613)
-- [Создание реактивных сервисов Micronaut и Kotlin](https://habr.com/ru/articles/807597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807597)
-- [Shenandoah GC в JDK](https://habr.com/ru/companies/otus/articles/806929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806929)
-- [SwiftUI уроки &lpar;часть 8&rpar;](https://habr.com/ru/articles/807589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807589)
-- [Больше ИИ-инструментов, хороших и разных: Google представила помощника для написания кода](https://habr.com/ru/companies/ru_mts/articles/807423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807423)
 <!-- BLOG-POST-LIST:END -->
 
 ---
