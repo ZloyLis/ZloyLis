@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как быстро собрать кубик для простых задач: играемся с TinyOLAP](https://habr.com/ru/companies/slsoft/articles/803605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803605)
+- [Старт разработки с применением GraphQL / DGS Framework](https://habr.com/ru/companies/bft/articles/807013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807013)
 - [Десять английских идиом, которые поставили меня в тупик](https://habr.com/ru/articles/806289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806289)
 - [Какой язык программирования выбрать? Обзор Python](https://habr.com/ru/companies/kryptonite/articles/807345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807345)
 - [Что такое Архитектура](https://habr.com/ru/articles/807511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807511)
-- [Рецензия на новую книгу «Баг-трекинг: локализация и оформление дефектов» Ольги Назиной](https://habr.com/ru/companies/ssp-soft/articles/807543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807543)
-- [Мобильная разработка за неделю #534 &lpar;8 — 14 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/807671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807671)
 <!-- BLOG-POST-LIST:END -->
 
 ---
