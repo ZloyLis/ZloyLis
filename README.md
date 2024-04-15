@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] На пути к 1-разрядным моделям машинного обучения](https://habr.com/ru/articles/807861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807861)
+- [[Перевод] Неужели это очередной «конец» сферы разработки ПО?](https://habr.com/ru/companies/beeline_cloud/articles/807843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807843)
 - [Обзор смартфона Nothing Phone &lpar;2a&rpar;: манифест технологичности и стиля](https://habr.com/ru/articles/807839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807839)
 - [Тестируем AI на создании прикладного приложения](https://habr.com/ru/articles/807703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807703)
 - [Реализация Multiple sources Argo CD + ChartMuseum для 10 однотипных микросервисов](https://habr.com/ru/articles/807829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807829)
-- [[Перевод] Безопасность памяти меня не волнует](https://habr.com/ru/companies/ruvds/articles/806987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806987)
-- [Как написать требования к IT-продукту и их протестировать, чтобы результат соответствовал ожиданиям](https://habr.com/ru/articles/807815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807815)
 <!-- BLOG-POST-LIST:END -->
 
 ---
