@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Потенциальные проблемы с автоинкрементным ключом. MySQL &amp;lt;8.0, PostgreSQL](https://habr.com/ru/articles/807751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807751)
+- [[Перевод] История терминала как инструмент продуктивности](https://habr.com/ru/companies/wunderfund/articles/807603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807603)
 - [Fairphone: не только модульный телефон, но и беспроводные наушники со сменным аккумулятором](https://habr.com/ru/companies/selectel/articles/807669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807669)
 - [Под капотом VK Teams: с чего начиналось приложение и к чему пришло сейчас](https://habr.com/ru/companies/vk/articles/807685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807685)
 - [[Перевод] ViewModels в Android: «за» и «против»](https://habr.com/ru/companies/otus/articles/807723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807723)
-- [Как быстро собрать кубик для простых задач: играемся с TinyOLAP](https://habr.com/ru/companies/slsoft/articles/803605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803605)
-- [Старт разработки с применением GraphQL / DGS Framework](https://habr.com/ru/companies/bft/articles/807013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
