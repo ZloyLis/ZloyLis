@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #534 &lpar;8 — 14 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/807671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807671)
 - [Базовый анализ продуктовых фичей](https://habr.com/ru/articles/807585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807585)
 - [UX и Секс](https://habr.com/ru/articles/807665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807665)
 - [[Перевод] Настоящая причина, по которой вы не станете сеньором](https://habr.com/ru/companies/ispsystem/articles/807661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807661)
 - [А нужна ли перезагрузка?](https://habr.com/ru/articles/807643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807643)
-- [Госзакупки, «Точка Роста» и 3D-принтер за тройную цену. Четыре года спустя](https://habr.com/ru/articles/807633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807633)
 <!-- BLOG-POST-LIST:END -->
 
 ---
