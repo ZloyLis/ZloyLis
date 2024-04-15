@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Безопасность памяти меня не волнует](https://habr.com/ru/companies/ruvds/articles/806987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806987)
+- [Как написать требования к IT-продукту и их протестировать, чтобы результат соответствовал ожиданиям](https://habr.com/ru/articles/807815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807815)
+- [«ReadStreakBot» — как я начал «кодить» с чатгпт, не умея программировать](https://habr.com/ru/articles/807785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807785)
 - [Неразрешимые проблемы программирования](https://habr.com/ru/articles/807799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807799)
 - [[Перевод] Потенциальные проблемы с автоинкрементным ключом. MySQL &amp;lt;8.0, PostgreSQL](https://habr.com/ru/articles/807751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807751)
-- [[Перевод] История терминала как инструмент продуктивности](https://habr.com/ru/companies/wunderfund/articles/807603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807603)
-- [Fairphone: не только модульный телефон, но и беспроводные наушники со сменным аккумулятором](https://habr.com/ru/companies/selectel/articles/807669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807669)
-- [Под капотом VK Teams: с чего начиналось приложение и к чему пришло сейчас](https://habr.com/ru/companies/vk/articles/807685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
