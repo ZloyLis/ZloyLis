@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расслоение Хопфа и квантовая механика](https://habr.com/ru/articles/807915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807915)
+- [Выкиньте свой husky](https://habr.com/ru/articles/807763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807763)
+- [Apple Pro Weekly News &lpar;08.04 – 14.04.24&rpar;](https://habr.com/ru/articles/807907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807907)
 - [Security Week 2416: уязвимость в серверных материнских платах Intel, Lenovo и Supermicro](https://habr.com/ru/companies/kaspersky/articles/807711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807711)
 - [[Перевод] На пути к 1-разрядным моделям машинного обучения](https://habr.com/ru/articles/807861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807861)
-- [[Перевод] Неужели это очередной «конец» сферы разработки ПО?](https://habr.com/ru/companies/beeline_cloud/articles/807843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807843)
-- [Обзор смартфона Nothing Phone &lpar;2a&rpar;: манифест технологичности и стиля](https://habr.com/ru/articles/807839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807839)
-- [Тестируем AI на создании прикладного приложения](https://habr.com/ru/articles/807703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807703)
 <!-- BLOG-POST-LIST:END -->
 
 ---
