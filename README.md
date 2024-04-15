@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неразрешимые проблемы программирования](https://habr.com/ru/articles/807799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807799)
 - [[Перевод] Потенциальные проблемы с автоинкрементным ключом. MySQL &amp;lt;8.0, PostgreSQL](https://habr.com/ru/articles/807751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807751)
 - [[Перевод] История терминала как инструмент продуктивности](https://habr.com/ru/companies/wunderfund/articles/807603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807603)
 - [Fairphone: не только модульный телефон, но и беспроводные наушники со сменным аккумулятором](https://habr.com/ru/companies/selectel/articles/807669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807669)
 - [Под капотом VK Teams: с чего начиналось приложение и к чему пришло сейчас](https://habr.com/ru/companies/vk/articles/807685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807685)
-- [[Перевод] ViewModels в Android: «за» и «против»](https://habr.com/ru/companies/otus/articles/807723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807723)
 <!-- BLOG-POST-LIST:END -->
 
 ---
