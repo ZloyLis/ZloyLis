@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Статический анализатор подталкивает писать чистый код](https://habr.com/ru/companies/pvs-studio/articles/808167/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808167)
+- [Reflection в iOS: как посмотреть содержимое любой сущности](https://habr.com/ru/companies/tinkoff/articles/808139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808139)
 - [Java в облаках](https://habr.com/ru/articles/808155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808155)
 - [Медленная сборка кода с .NET Roslyn: как найти и устранить причину](https://habr.com/ru/companies/mindbox/articles/806883/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806883)
 - [Быть QA-лидом: опыт роботов в распределении нагрузки тестировщиков](https://habr.com/ru/companies/redmadrobot/articles/808115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808115)
-- [Поверхностный анализ работы DOM на библиотеках JavaScript](https://habr.com/ru/articles/808071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808071)
-- [Frontend Talks: СТМ нужны! Логика в хуках — плохо?](https://habr.com/ru/companies/cloud_ru/articles/807879/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807879)
 <!-- BLOG-POST-LIST:END -->
 
 ---
