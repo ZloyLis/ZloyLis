@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт внедрения компонентной разработки](https://habr.com/ru/companies/agima/articles/808185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808185)
+- [Как я написал свой первый эзотерический язык программирования](https://habr.com/ru/articles/808183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808183)
+- [Юмористический рассказ «Как неофит познавал яваскрипт»](https://habr.com/ru/articles/808179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808179)
 - [Статический анализатор подталкивает писать чистый код](https://habr.com/ru/companies/pvs-studio/articles/808167/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808167)
 - [Reflection в iOS: как посмотреть содержимое любой сущности](https://habr.com/ru/companies/tinkoff/articles/808139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808139)
-- [Java в облаках](https://habr.com/ru/articles/808155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808155)
-- [Медленная сборка кода с .NET Roslyn: как найти и устранить причину](https://habr.com/ru/companies/mindbox/articles/806883/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806883)
-- [Быть QA-лидом: опыт роботов в распределении нагрузки тестировщиков](https://habr.com/ru/companies/redmadrobot/articles/808115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808115)
 <!-- BLOG-POST-LIST:END -->
 
 ---
