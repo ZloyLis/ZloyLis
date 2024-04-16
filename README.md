@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Еще раз о перформансе стримов в Java](https://habr.com/ru/articles/807647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807647)
 - [«Коллеги, пришлите сроки!» — сага о том, как я открыла портал в ад на Хабре](https://habr.com/ru/articles/807939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807939)
 - [Расслоение Хопфа и квантовая механика](https://habr.com/ru/articles/807915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807915)
 - [Выкиньте свой husky](https://habr.com/ru/articles/807763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807763)
 - [Apple Pro Weekly News &lpar;08.04 – 14.04.24&rpar;](https://habr.com/ru/articles/807907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807907)
-- [Security Week 2416: уязвимость в серверных материнских платах Intel, Lenovo и Supermicro](https://habr.com/ru/companies/kaspersky/articles/807711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807711)
 <!-- BLOG-POST-LIST:END -->
 
 ---
