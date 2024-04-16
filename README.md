@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [35+ бесплатных ресурсов для начинающих разработчиков С++](https://habr.com/ru/companies/yandex_praktikum/articles/807387/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807387)
-- [Разбираем на винтики учебный процессор TOY](https://habr.com/ru/articles/802733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802733)
-- [Как я делал загрузчик файлов на react и выложил на npm](https://habr.com/ru/articles/807985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807985)
-- [[Перевод] Еще раз о перформансе стримов в Java](https://habr.com/ru/articles/807647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807647)
-- [«Коллеги, пришлите сроки!» — сага о том, как я открыла портал в ад на Хабре](https://habr.com/ru/articles/807939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807939)
+- [Телеграм-каналы для айтишников](https://habr.com/ru/articles/807927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807927)
+- [RxJava — всё?](https://habr.com/ru/articles/807925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807925)
+- [Руководство по Next.js. 1/3](https://habr.com/ru/companies/timeweb/articles/804663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804663)
+- [Мониторинг Celery](https://habr.com/ru/companies/domclick/articles/804535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804535)
+- [Веб-страничка строит график спектра отражения и пропускания света стопкой пластин](https://habr.com/ru/articles/807997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807997)
 <!-- BLOG-POST-LIST:END -->
 
 ---
