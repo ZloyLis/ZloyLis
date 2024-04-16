@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быть QA-лидом: опыт роботов в распределении нагрузки тестировщиков](https://habr.com/ru/companies/redmadrobot/articles/808115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808115)
 - [Поверхностный анализ работы DOM на библиотеках JavaScript](https://habr.com/ru/articles/808071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808071)
 - [Frontend Talks: СТМ нужны! Логика в хуках — плохо?](https://habr.com/ru/companies/cloud_ru/articles/807879/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807879)
 - [Профессия «кибердетектив»: кто такой исследователь угроз и как им стать](https://habr.com/ru/companies/pt/articles/807935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807935)
 - [Безопасность в Docker: от правильной настройки хоста до демона](https://habr.com/ru/companies/selectel/articles/807983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807983)
-- [5 полезных JS-библиотек для анимации, которые могут пригодиться в работе](https://habr.com/ru/companies/ru_mts/articles/808029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
