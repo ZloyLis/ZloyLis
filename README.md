@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [35+ бесплатных ресурсов для начинающих разработчиков С++](https://habr.com/ru/companies/yandex_praktikum/articles/807387/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807387)
+- [Разбираем на винтики учебный процессор TOY](https://habr.com/ru/articles/802733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802733)
+- [Как я делал загрузчик файлов на react и выложил на npm](https://habr.com/ru/articles/807985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807985)
 - [[Перевод] Еще раз о перформансе стримов в Java](https://habr.com/ru/articles/807647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807647)
 - [«Коллеги, пришлите сроки!» — сага о том, как я открыла портал в ад на Хабре](https://habr.com/ru/articles/807939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807939)
-- [Расслоение Хопфа и квантовая механика](https://habr.com/ru/articles/807915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807915)
-- [Выкиньте свой husky](https://habr.com/ru/articles/807763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807763)
-- [Apple Pro Weekly News &lpar;08.04 – 14.04.24&rpar;](https://habr.com/ru/articles/807907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807907)
 <!-- BLOG-POST-LIST:END -->
 
 ---
