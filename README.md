@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] ShadowID: Публичное раскрытие идентификатора автоинкремента без ущерба для безопасности](https://habr.com/ru/articles/808289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808289)
+- [[Перевод] ShadowID: Публичное раскрытие автоинкрементного ID без ущерба для безопасности](https://habr.com/ru/articles/808289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808289)
 - [Безопасный Continuous Deployment БД по принципам DB-First](https://habr.com/ru/articles/808279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808279)
 - [HTML и CSS — языки программирования](https://habr.com/ru/articles/808261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808261)
 - [Где заканчивается Flutter и начинается платформа?](https://habr.com/ru/companies/otus/articles/808235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808235)
