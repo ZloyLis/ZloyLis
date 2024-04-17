@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Организация кода это важно и легко на основе Layer Architecture](https://habr.com/ru/articles/808391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808391)
 - [Неадекватная стоимость исходящего трафика у некоторых облачных хостеров](https://habr.com/ru/companies/ruvds/articles/806689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806689)
 - [Если бы Торетто был ML-инженером: мониторинг дрифта моделей и данных](https://habr.com/ru/companies/selectel/articles/808335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808335)
 - [Обеспечение безопасности на выделенных серверах: очистка следов с xDedic и специализированным батником](https://habr.com/ru/articles/808329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808329)
 - [Смартфон для джаваскриптера-олдфага: стоит ли гику брать дешманские девайсы на KaiOS? Смотрим на Nobby 240 LTE](https://habr.com/ru/companies/timeweb/articles/807157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807157)
-- [[Перевод] ShadowID: Публичное раскрытие автоинкрементного ID без ущерба для безопасности](https://habr.com/ru/articles/808289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808289)
 <!-- BLOG-POST-LIST:END -->
 
 ---
