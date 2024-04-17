@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ShadowID: Публичное раскрытие идентификатора автоинкремента без ущерба для безопасности](https://habr.com/ru/articles/808289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808289)
+- [Безопасный Continuous Deployment БД по принципам DB-First](https://habr.com/ru/articles/808279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808279)
 - [HTML и CSS — языки программирования](https://habr.com/ru/articles/808261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808261)
 - [Где заканчивается Flutter и начинается платформа?](https://habr.com/ru/companies/otus/articles/808235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808235)
 - [Яндекс — ограничение конкуренции?](https://habr.com/ru/articles/808253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808253)
-- [Зачем Программисту Микроконтроллеров Линейная Алгебра &lpar;или Как найти угол между векторами?&rpar;](https://habr.com/ru/articles/807641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807641)
-- [Сказание о static и неименованном пространстве имен для функции в C++](https://habr.com/ru/articles/808197/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808197)
 <!-- BLOG-POST-LIST:END -->
 
 ---
