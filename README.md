@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужны ли курсы по тестированию? Честное мнение от преподавателя](https://habr.com/ru/articles/808447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808447)
+- [Как мы применили нейросеть Stable Diffusion в создании контента для интернет-магазина](https://habr.com/ru/articles/808223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808223)
 - [Организация кода это важно и легко на основе Layer Architecture](https://habr.com/ru/articles/808391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808391)
+- [[Перевод] Пересаживаем проект с Vagrant + VirtualBox на Docker-контейнеры с помощью Ansible](https://habr.com/ru/companies/otus/articles/808387/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808387)
 - [Неадекватная стоимость исходящего трафика у некоторых облачных хостеров](https://habr.com/ru/companies/ruvds/articles/806689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806689)
-- [Если бы Торетто был ML-инженером: мониторинг дрифта моделей и данных](https://habr.com/ru/companies/selectel/articles/808335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808335)
-- [Обеспечение безопасности на выделенных серверах: очистка следов с xDedic и специализированным батником](https://habr.com/ru/articles/808329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808329)
-- [Смартфон для джаваскриптера-олдфага: стоит ли гику брать дешманские девайсы на KaiOS? Смотрим на Nobby 240 LTE](https://habr.com/ru/companies/timeweb/articles/807157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807157)
 <!-- BLOG-POST-LIST:END -->
 
 ---
