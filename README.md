@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 идей, как еще аналитик может развивать себя](https://habr.com/ru/articles/808539/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808539)
 - [Дерево отрезков](https://habr.com/ru/articles/808511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808511)
 - [Знай, куда идёшь: 1С как кузница карьеры](https://habr.com/ru/companies/automacon/articles/808489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808489)
 - [Разбираем генеративный SDK от Google — google_generative_ai. Часть 1](https://habr.com/ru/companies/friflex/articles/808449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808449)
 - [Kodein DI для Android. Целостность графа и тесты на DI](https://habr.com/ru/companies/dododev/articles/807969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807969)
-- [[Перевод] Анатомия Hello World на языке C](https://habr.com/ru/companies/ruvds/articles/808399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808399)
 <!-- BLOG-POST-LIST:END -->
 
 ---
