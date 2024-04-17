@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Анатомия Hello World на языке C](https://habr.com/ru/companies/ruvds/articles/808399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808399)
 - [Нужны ли курсы по тестированию? Честное мнение от преподавателя](https://habr.com/ru/articles/808447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808447)
 - [Как мы применили нейросеть Stable Diffusion в создании контента для интернет-магазина](https://habr.com/ru/articles/808223/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808223)
 - [Организация кода это важно и легко на основе Layer Architecture](https://habr.com/ru/articles/808391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808391)
 - [[Перевод] Пересаживаем проект с Vagrant + VirtualBox на Docker-контейнеры с помощью Ansible](https://habr.com/ru/companies/otus/articles/808387/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808387)
-- [Неадекватная стоимость исходящего трафика у некоторых облачных хостеров](https://habr.com/ru/companies/ruvds/articles/806689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
