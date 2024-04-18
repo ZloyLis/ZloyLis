@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mojo: убийца Python и будущее AI](https://habr.com/ru/companies/raft/articles/808517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808517)
+- [Классифицирую клиент-серверное взаимодействие от А до Kafka](https://habr.com/ru/companies/alfa/articles/808609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808609)
+- [Программируем в браузерном моде для Scratch 3 на JavaScript](https://habr.com/ru/articles/808785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808785)
+- [Обобщенные фабрики тайпгардов в TypeScript](https://habr.com/ru/companies/tinkoff/articles/808655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808655)
 - [Почта без хлопот: автоматизация отправки писем с помощью Python](https://habr.com/ru/companies/tensor/articles/807203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807203)
-- [T-test. Зависимость от независимости](https://habr.com/ru/companies/X5Tech/articles/807001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807001)
-- [Математическое моделирование может увеличивать производительность в 3 раза](https://habr.com/ru/articles/808757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808757)
-- [Выявляем боли команд с помощью ретро. Шаблоны в подарок](https://habr.com/ru/companies/pgk/articles/808747/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808747)
-- [Автоматически выделяем кусочно-линейные тренды временного ряда](https://habr.com/ru/articles/808733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
