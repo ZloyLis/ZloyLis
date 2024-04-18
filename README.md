@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как я создал JS фреймворк](https://habr.com/ru/companies/bothub/articles/808589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808589)
+- [[Перевод] Как я создал еще один JS фреймворк](https://habr.com/ru/companies/bothub/articles/808589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808589)
 - [Книга: «Рецепты Python. Коллекция лучших техник программирования»](https://habr.com/ru/companies/piter/articles/808769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808769)
 - [Mojo: убийца Python и будущее AI](https://habr.com/ru/companies/raft/articles/808517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808517)
 - [Классифицируем клиент-серверное взаимодействие от А до Kafka](https://habr.com/ru/companies/alfa/articles/808609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808609)
