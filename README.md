@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почта без хлопот: автоматизация отправки писем с помощью Python](https://habr.com/ru/companies/tensor/articles/807203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807203)
+- [T-test. Зависимость от независимости](https://habr.com/ru/companies/X5Tech/articles/807001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807001)
 - [Математическое моделирование может увеличивать производительность в 3 раза](https://habr.com/ru/articles/808757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808757)
 - [Выявляем боли команд с помощью ретро. Шаблоны в подарок](https://habr.com/ru/companies/pgk/articles/808747/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808747)
 - [Автоматически выделяем кусочно-линейные тренды временного ряда](https://habr.com/ru/articles/808733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808733)
-- [Metatron — Open Source библиотека для генерации отчетов на языке Rust](https://habr.com/ru/articles/808721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808721)
-- [Как стать Frontend-разработчиком бесплатно?](https://habr.com/ru/articles/808689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
