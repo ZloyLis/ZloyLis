@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Привычка быть SOLIDным разработчиком](https://habr.com/ru/companies/simbirsoft/articles/808389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808389)
 - [Testplane в опенсорсе: автоматизируем пользовательские сценарии в веб-интерфейсах](https://habr.com/ru/companies/yandex/articles/808467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808467)
 - [[Перевод] Настройка сервиса аутентификации OpenAM и шлюза авторизации OpenIG для защиты приложений](https://habr.com/ru/articles/808431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808431)
 - [О, вы из Англии? Локализация Ozon Seller на iOS](https://habr.com/ru/companies/ozontech/articles/807775/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807775)
 - [Flipper на минималках. Как мы делаем устройство для чтения и эмуляции ключей от домофонов…](https://habr.com/ru/articles/808553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808553)
-- [Kubernetes 1.30:  структурированные параметры для DRA, рекурсивное монтирование read-only-томов и другие фичи](https://habr.com/ru/companies/flant/articles/808055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808055)
 <!-- BLOG-POST-LIST:END -->
 
 ---
