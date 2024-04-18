@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Testplane в опенсорсе: автоматизируем пользовательские сценарии в веб-интерфейсах](https://habr.com/ru/companies/yandex/articles/808467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808467)
+- [[Перевод] Настройка сервиса аутентификации OpenAM и шлюза авторизации OpenIG для защиты приложений](https://habr.com/ru/articles/808431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808431)
+- [О, вы из Англии? Локализация Ozon Seller на iOS](https://habr.com/ru/companies/ozontech/articles/807775/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807775)
 - [Flipper на минималках. Как мы делаем устройство для чтения и эмуляции ключей от домофонов…](https://habr.com/ru/articles/808553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808553)
 - [Kubernetes 1.30:  структурированные параметры для DRA, рекурсивное монтирование read-only-томов и другие фичи](https://habr.com/ru/companies/flant/articles/808055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808055)
-- [[Перевод] Восхитительная теория [якорных] баз данных от Ларса Рённбека](https://habr.com/ru/articles/808191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808191)
-- [5 идей, как еще аналитик может развивать себя](https://habr.com/ru/articles/808539/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808539)
-- [Дерево отрезков](https://habr.com/ru/articles/808511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808511)
 <!-- BLOG-POST-LIST:END -->
 
 ---
