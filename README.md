@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я создал JS фреймворк](https://habr.com/ru/companies/bothub/articles/808589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808589)
+- [Книга: «Рецепты Python. Коллекция лучших техник программирования»](https://habr.com/ru/companies/piter/articles/808769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808769)
 - [Mojo: убийца Python и будущее AI](https://habr.com/ru/companies/raft/articles/808517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808517)
-- [Классифицирую клиент-серверное взаимодействие от А до Kafka](https://habr.com/ru/companies/alfa/articles/808609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808609)
+- [Классифицируем клиент-серверное взаимодействие от А до Kafka](https://habr.com/ru/companies/alfa/articles/808609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808609)
 - [Программируем в браузерном моде для Scratch 3 на JavaScript](https://habr.com/ru/articles/808785/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808785)
-- [Обобщенные фабрики тайпгардов в TypeScript](https://habr.com/ru/companies/tinkoff/articles/808655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808655)
-- [Почта без хлопот: автоматизация отправки писем с помощью Python](https://habr.com/ru/companies/tensor/articles/807203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807203)
 <!-- BLOG-POST-LIST:END -->
 
 ---
