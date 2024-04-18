@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математическое моделирование может увеличивать производительность в 3 раза](https://habr.com/ru/articles/808757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808757)
+- [Выявляем боли команд с помощью ретро. Шаблоны в подарок](https://habr.com/ru/companies/pgk/articles/808747/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808747)
+- [Автоматически выделяем кусочно-линейные тренды временного ряда](https://habr.com/ru/articles/808733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808733)
 - [Metatron — Open Source библиотека для генерации отчетов на языке Rust](https://habr.com/ru/articles/808721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808721)
-- [Бесплатная программа «Frontend-разработчик с нуля»](https://habr.com/ru/articles/808689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808689)
-- [Шифрование в Kubernetes: основы](https://habr.com/ru/companies/otus/articles/806561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806561)
-- [«Импульс» в профессию инженера: какие задачи решают стажеры в YADRO](https://habr.com/ru/companies/yadro/articles/808445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808445)
-- [Рассуждение о природе «замороженной случайности» в распределении простых чисел](https://habr.com/ru/articles/808631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808631)
+- [Как стать Frontend-разработчиком бесплатно?](https://habr.com/ru/articles/808689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808689)
 <!-- BLOG-POST-LIST:END -->
 
 ---
