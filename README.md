@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рассуждение о природе «замороженной случайности» в распределении простых чисел](https://habr.com/ru/articles/808631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808631)
+- [Java для домохозяек: логика разбора сообщений внутри Telegram бота](https://habr.com/ru/articles/808535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808535)
+- [Автоматизируем контроль качества микрофронтов](https://habr.com/ru/companies/oleg-bunin/articles/807043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807043)
+- [«Серёга, диктуй код из смс»: как мы ускорили проверку гипотезы с помощью эксперимента](https://habr.com/ru/companies/2gis/articles/807797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807797)
 - [Привычка быть SOLIDным разработчиком](https://habr.com/ru/companies/simbirsoft/articles/808389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808389)
-- [Testplane в опенсорсе: автоматизируем пользовательские сценарии в веб-интерфейсах](https://habr.com/ru/companies/yandex/articles/808467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808467)
-- [[Перевод] Настройка сервиса аутентификации OpenAM и шлюза авторизации OpenIG для защиты приложений](https://habr.com/ru/articles/808431/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808431)
-- [О, вы из Англии? Локализация Ozon Seller на iOS](https://habr.com/ru/companies/ozontech/articles/807775/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807775)
-- [Flipper на минималках. Как мы делаем устройство для чтения и эмуляции ключей от домофонов…](https://habr.com/ru/articles/808553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808553)
 <!-- BLOG-POST-LIST:END -->
 
 ---
