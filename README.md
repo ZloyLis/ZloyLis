@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шифрование в Kubernetes: основы](https://habr.com/ru/companies/otus/articles/806561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806561)
+- [«Импульс» в профессию инженера: какие задачи решают стажеры в YADRO](https://habr.com/ru/companies/yadro/articles/808445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808445)
 - [Рассуждение о природе «замороженной случайности» в распределении простых чисел](https://habr.com/ru/articles/808631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808631)
 - [Java для домохозяек: логика разбора сообщений внутри Telegram бота](https://habr.com/ru/articles/808535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808535)
 - [Автоматизируем контроль качества микрофронтов](https://habr.com/ru/companies/oleg-bunin/articles/807043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807043)
-- [«Серёга, диктуй код из смс»: как мы ускорили проверку гипотезы с помощью эксперимента](https://habr.com/ru/companies/2gis/articles/807797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807797)
-- [Привычка быть SOLIDным разработчиком](https://habr.com/ru/companies/simbirsoft/articles/808389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808389)
 <!-- BLOG-POST-LIST:END -->
 
 ---
