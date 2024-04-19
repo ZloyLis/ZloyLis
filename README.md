@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бороздим облака будущего: впечатления айтишника о конференции GoCloud](https://habr.com/ru/specials/808603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808603)
+- [Рекуррентные платежи, или как мы доработали функционал платных подписок во Flutter приложении](https://habr.com/ru/articles/808997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808997)
 - [Искусство ETL. Пишем собственный движок SQL на Spark [часть 6]](https://habr.com/ru/articles/808483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808483)
 - [Ручное подтверждение сообщения в Kafka](https://habr.com/ru/articles/808975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808975)
 - [Импортирование картинок и звуков в Swift Package](https://habr.com/ru/articles/808945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808945)
-- [Проекции в Vertica: что это, как использовать, и почему не стоит создавать их под каждый запрос](https://habr.com/ru/companies/avito/articles/808713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808713)
-- [21 ошибка в 21-й версии Apache NetBeans](https://habr.com/ru/companies/pvs-studio/articles/808939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808939)
 <!-- BLOG-POST-LIST:END -->
 
 ---
