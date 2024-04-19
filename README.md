@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дрон художник нарисовал самую большую картину и другие необычные применения Robot Operating System на ROS Meetup 2024](https://habr.com/ru/articles/808853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808853)
+- [Что такое цифровой вуз для ректора, студента и государства](https://habr.com/ru/companies/rshb/articles/808707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808707)
 - [Найти отличия, или внедряем Snapshot-тесты для web. Опыт Звука](https://habr.com/ru/companies/zvuk/articles/808799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808799)
 - [Вы все еще пишете многопоточку на C++ с ошибками синхронизации?](https://habr.com/ru/companies/kaspersky/articles/805365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805365)
 - [[Перевод] Люди со склонностью к микроменеджменту обычно не замечают этого за собой](https://habr.com/ru/companies/productivity_inside/articles/808877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808877)
-- [HyperLogLog в PostgreSQL](https://habr.com/ru/companies/otus/articles/807945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807945)
-- [Как аппроксимировать любую функцию с помощью PyTorch](https://habr.com/ru/articles/808867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808867)
 <!-- BLOG-POST-LIST:END -->
 
 ---
