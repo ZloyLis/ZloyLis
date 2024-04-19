@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пять лучших NLP инструментов для работы с русским языком на Python](https://habr.com/ru/companies/otus/articles/808435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808435)
+- [Redux это бойлерплейт, а Mobx нет! Но есть нюанс](https://habr.com/ru/articles/809075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809075)
 - [Материалы для подготовки к собеседованию на позицию Data Scientist. Часть 3: Специализированное машинное обучение](https://habr.com/ru/companies/megafon/articles/808585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808585)
 - [Каким может быть алгоритмическое собеседование и как к нему подготовиться](https://habr.com/ru/companies/yandex_praktikum/articles/809025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809025)
 - [Создание карты подключений Elasticsearch + Fluent Bit + Nginx Ingress Controller](https://habr.com/ru/articles/809027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809027)
-- [Идеальный кейс внедрения DevSecOps. Так бывает?](https://habr.com/ru/companies/sigma/articles/808999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808999)
-- [[Перевод] Стресс и выгорание в мире разработки ПО](https://habr.com/ru/companies/ruvds/articles/808563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808563)
 <!-- BLOG-POST-LIST:END -->
 
 ---
