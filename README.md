@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проекции в Vertica: что это, как использовать, и почему не стоит создавать их под каждый запрос](https://habr.com/ru/companies/avito/articles/808713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808713)
+- [21 ошибка в 21-й версии Apache NetBeans](https://habr.com/ru/companies/pvs-studio/articles/808939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808939)
+- [Как я проходила стажировку в отделе аналитических решений почти без опыта работы с данными](https://habr.com/ru/companies/yoomoney/articles/807087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807087)
+- [[Перевод] Clean architecture и MVVM в iOS разработке](https://habr.com/ru/articles/808923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808923)
 - [Как мы тестируем беспилотные автомобили с помощью симуляций](https://habr.com/ru/companies/yandex/articles/808213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808213)
-- [[Перевод] Добавление полей Joomla в результаты Умного Поиска при помощи JFilters](https://habr.com/ru/articles/808915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808915)
-- [[Перевод] Как я снизил время инкрементных сборок Rust на 40%](https://habr.com/ru/articles/807791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807791)
-- [Дрон художник нарисовал самую большую картину и другие необычные применения Robot Operating System на ROS Meetup 2024](https://habr.com/ru/articles/808853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808853)
-- [Что такое цифровой вуз для ректора, студента и государства](https://habr.com/ru/companies/rshb/articles/808707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808707)
 <!-- BLOG-POST-LIST:END -->
 
 ---
