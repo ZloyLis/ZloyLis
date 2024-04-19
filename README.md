@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импортирование картинок и звуков в Swift Package](https://habr.com/ru/articles/808945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808945)
 - [Проекции в Vertica: что это, как использовать, и почему не стоит создавать их под каждый запрос](https://habr.com/ru/companies/avito/articles/808713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808713)
 - [21 ошибка в 21-й версии Apache NetBeans](https://habr.com/ru/companies/pvs-studio/articles/808939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808939)
 - [Как я проходила стажировку в отделе аналитических решений почти без опыта работы с данными](https://habr.com/ru/companies/yoomoney/articles/807087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807087)
 - [[Перевод] Clean architecture и MVVM в iOS разработке](https://habr.com/ru/articles/808923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808923)
-- [Как мы тестируем беспилотные автомобили с помощью симуляций](https://habr.com/ru/companies/yandex/articles/808213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808213)
 <!-- BLOG-POST-LIST:END -->
 
 ---
