@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Найти отличия, или внедряем Snapshot-тесты для web. Опыт Звука](https://habr.com/ru/companies/zvuk/articles/808799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808799)
+- [Вы все еще пишете многопоточку на C++ с ошибками синхронизации?](https://habr.com/ru/companies/kaspersky/articles/805365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805365)
+- [[Перевод] Люди со склонностью к микроменеджменту обычно не замечают этого за собой](https://habr.com/ru/companies/productivity_inside/articles/808877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808877)
+- [HyperLogLog в PostgreSQL](https://habr.com/ru/companies/otus/articles/807945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807945)
 - [Как аппроксимировать любую функцию с помощью PyTorch](https://habr.com/ru/articles/808867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808867)
-- [Мультидоменный проект &lpar;мультисайт&rpar; на NextJS](https://habr.com/ru/articles/808861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808861)
-- [Python — Unit of work](https://habr.com/ru/articles/808817/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808817)
-- [[Перевод] Как я создал еще один JS фреймворк](https://habr.com/ru/companies/bothub/articles/808589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808589)
-- [Книга: «Рецепты Python. Коллекция лучших техник программирования»](https://habr.com/ru/companies/piter/articles/808769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
