@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеальный кейс внедрения DevSecOps. Так бывает?](https://habr.com/ru/companies/sigma/articles/808999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808999)
+- [[Перевод] Стресс и выгорание в мире разработки ПО](https://habr.com/ru/companies/ruvds/articles/808563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808563)
 - [Бороздим облака будущего: впечатления айтишника о конференции GoCloud](https://habr.com/ru/specials/808603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808603)
 - [Рекуррентные платежи, или как мы доработали функционал платных подписок во Flutter приложении](https://habr.com/ru/articles/808997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808997)
 - [Искусство ETL. Пишем собственный движок SQL на Spark [часть 6]](https://habr.com/ru/articles/808483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808483)
-- [Ручное подтверждение сообщения в Kafka](https://habr.com/ru/articles/808975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808975)
-- [Импортирование картинок и звуков в Swift Package](https://habr.com/ru/articles/808945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
