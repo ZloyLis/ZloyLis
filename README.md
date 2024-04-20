@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP и Laravel дайджест новостей за март 2024 года](https://habr.com/ru/articles/809161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809161)
 - [Генерируем отчеты PDF на Android с использованием HTML и WebView в фоне](https://habr.com/ru/articles/809141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809141)
 - [[Перевод] В чем разница между движками и средами выполнения JavaScript?](https://habr.com/ru/articles/809131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809131)
 - [[Перевод] Как заново реализовать тетрис](https://habr.com/ru/companies/timeweb/articles/809077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809077)
 - [Тестирование UI в Compose Multiplatform](https://habr.com/ru/articles/809127/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809127)
-- [Создаем свой диалект змеиного, или DSL на Python](https://habr.com/ru/companies/magnit/articles/807621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807621)
 <!-- BLOG-POST-LIST:END -->
 
 ---
