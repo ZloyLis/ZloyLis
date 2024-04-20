@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем свой диалект змеиного, или DSL на Python](https://habr.com/ru/companies/magnit/articles/807621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807621)
 - [Разработка программного средства по обработке данных фонокардиограммы](https://habr.com/ru/articles/809095/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809095)
 - [Пять лучших NLP инструментов для работы с русским языком на Python](https://habr.com/ru/companies/otus/articles/808435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808435)
 - [Redux это бойлерплейт, а Mobx нет! Но есть нюанс](https://habr.com/ru/articles/809075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809075)
 - [Материалы для подготовки к собеседованию на позицию Data Scientist. Часть 3: Специализированное машинное обучение](https://habr.com/ru/companies/megafon/articles/808585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808585)
-- [Каким может быть алгоритмическое собеседование и как к нему подготовиться](https://habr.com/ru/companies/yandex_praktikum/articles/809025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
