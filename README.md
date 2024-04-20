@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как настроить Source коннекторы Kafka Connect для оптимизации пропускной способности](https://habr.com/ru/articles/809191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809191)
+- [Майнинг бизнес-процессов и визуализация данных с помощью Neo4j, Plotly и GPT](https://habr.com/ru/articles/809189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809189)
 - [ГАЙД по python стеку для Data Science инженеров](https://habr.com/ru/articles/809181/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809181)
 - [Совершенный кубоид](https://habr.com/ru/articles/809179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809179)
 - [Кратко про Serde в Rust](https://habr.com/ru/companies/otus/articles/806247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806247)
-- [Один репозиторий чтобы править всеми](https://habr.com/ru/companies/deepfoundation/articles/808731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808731)
-- [PHP и Laravel дайджест новостей за март 2024 года](https://habr.com/ru/articles/809161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809161)
 <!-- BLOG-POST-LIST:END -->
 
 ---
