@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ГАЙД по python стеку для Data Science инженеров](https://habr.com/ru/articles/809181/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809181)
+- [Совершенный кубоид](https://habr.com/ru/articles/809179/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809179)
 - [Кратко про Serde в Rust](https://habr.com/ru/companies/otus/articles/806247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806247)
-- [Один репозиторий что бы править всеми](https://habr.com/ru/companies/deepfoundation/articles/808731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808731)
+- [Один репозиторий чтобы править всеми](https://habr.com/ru/companies/deepfoundation/articles/808731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808731)
 - [PHP и Laravel дайджест новостей за март 2024 года](https://habr.com/ru/articles/809161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809161)
-- [Генерируем отчеты PDF на Android с использованием HTML и WebView в фоне](https://habr.com/ru/articles/809141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809141)
-- [[Перевод] В чем разница между движками и средами выполнения JavaScript?](https://habr.com/ru/articles/809131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809131)
 <!-- BLOG-POST-LIST:END -->
 
 ---
