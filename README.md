@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного о Skin интерфейсе](https://habr.com/ru/articles/809267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809267)
 - [Анонимная сеть Hidden Lake → анализ QB-сетей, функций шифрования и микросервисов на базе математических моделей](https://habr.com/ru/articles/808505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808505)
 - [[Перевод] Поиск по коду — это сложно](https://habr.com/ru/companies/ruvds/articles/808881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808881)
 - [[Перевод] Мега-Учебник Flask Глава 5: Логины пользователей &lpar;издание 2024&rpar;](https://habr.com/ru/articles/808091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808091)
 - [SwiftUI уроки &lpar;часть 9&rpar;](https://habr.com/ru/articles/809237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809237)
-- [Нововведения Zig версии 0.12.0, которые стоит упомянуть](https://habr.com/ru/articles/809101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809101)
 <!-- BLOG-POST-LIST:END -->
 
 ---
