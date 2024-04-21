@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миллер, Рабин, вектор](https://habr.com/ru/articles/809091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809091)
 - [GitHub Copilot в JetBrains IDEs в РФ](https://habr.com/ru/articles/809277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809277)
 - [Немного о Skin интерфейсе](https://habr.com/ru/articles/809267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809267)
 - [Анонимная сеть Hidden Lake → анализ QB-сетей, функций шифрования и микросервисов на базе математических моделей](https://habr.com/ru/articles/808505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808505)
 - [[Перевод] Поиск по коду — это сложно](https://habr.com/ru/companies/ruvds/articles/808881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808881)
-- [[Перевод] Мега-Учебник Flask Глава 5: Логины пользователей &lpar;издание 2024&rpar;](https://habr.com/ru/articles/808091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808091)
 <!-- BLOG-POST-LIST:END -->
 
 ---
