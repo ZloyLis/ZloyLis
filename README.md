@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ты неправильно используешь интерфейсы typescript](https://habr.com/ru/articles/809509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809509)
 - [Docker — не то, чем кажется](https://habr.com/ru/companies/cdnnow/articles/809481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809481)
 - [Эффективное использование журнала регистрации и технологического журнала 1С в решении вопросов производительности](https://habr.com/ru/companies/softpoint/articles/809471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809471)
 - [Не тимбилдингом единым: как наладили коммуникации в команде с помощью базы знаний](https://habr.com/ru/articles/809463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809463)
 - [Почему решения принимаются не на основе дашбордов?](https://habr.com/ru/articles/809449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809449)
-- [Who are you, Platform Engineering. Часть 2: типовая архитектура, варианты и примеры реализации IDP](https://habr.com/ru/companies/vk/articles/809447/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809447)
 <!-- BLOG-POST-LIST:END -->
 
 ---
