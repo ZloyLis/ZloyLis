@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Устройство памяти процессов в ОС Linux. Сбор дампов при помощи гипервизора](https://habr.com/ru/companies/pt/articles/808943/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808943)
+- [Supabase — вышел из режима «бета»](https://habr.com/ru/articles/809363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809363)
 - [QA-тестировщикам — рецензия на книгу «Тест-дизайн. Практическое руководство» Ольги Назиной](https://habr.com/ru/companies/ssp-soft/articles/809151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809151)
 - [Мобильная разработка за неделю #535 &lpar;15 — 21 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/809327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809327)
 - [Музыкальное время и MIDI](https://habr.com/ru/articles/809307/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809307)
-- [Миллер, Рабин, вектор](https://habr.com/ru/articles/809091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809091)
-- [GitHub Copilot в JetBrains IDEs в РФ](https://habr.com/ru/articles/809277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809277)
 <!-- BLOG-POST-LIST:END -->
 
 ---
