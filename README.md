@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дай знать, где ты находишься: как мы разработали навигатор по Эрмитажу](https://habr.com/ru/articles/809591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809591)
+- [Android и iOS, Flutter и Kotlin: что обо всём этом расскажут на Mobius](https://habr.com/ru/companies/jugru/articles/809395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809395)
+- [Apple Pro Weekly News &lpar;15.04 – 21.04.24&rpar;](https://habr.com/ru/articles/809579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809579)
+- [Что нам стоит код написать: 5 нейросетей, которые помогают разработчикам программировать](https://habr.com/ru/companies/ru_mts/articles/809575/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809575)
 - [Как подойти к внедрению DWH, чтобы не было «больно»? Какие методологии использовать и какой стек выбрать?](https://habr.com/ru/articles/809551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809551)
-- [На какие AI Coding Assistants стоит обратить внимание в 2024?](https://habr.com/ru/companies/bothub/articles/809421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809421)
-- [Никому нельзя верить на слово в безопасной разработке, или Еще один взгляд на SCA](https://habr.com/ru/companies/pt/articles/808023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808023)
-- [[Перевод] Сравнение технологий WebSockets, Server-Sent-Events, Long-Polling, WebRTC и WebTransport](https://habr.com/ru/articles/809535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809535)
-- [Security Week 2417: эксплуатация уязвимостей с помощью LLM](https://habr.com/ru/companies/kaspersky/articles/809461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809461)
 <!-- BLOG-POST-LIST:END -->
 
 ---
