@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #535 &lpar;15 — 21 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/809327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809327)
 - [Музыкальное время и MIDI](https://habr.com/ru/articles/809307/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809307)
 - [Миллер, Рабин, вектор](https://habr.com/ru/articles/809091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809091)
 - [GitHub Copilot в JetBrains IDEs в РФ](https://habr.com/ru/articles/809277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809277)
 - [Немного о Skin интерфейсе](https://habr.com/ru/articles/809267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809267)
-- [Анонимная сеть Hidden Lake → анализ QB-сетей, функций шифрования и микросервисов на базе математических моделей](https://habr.com/ru/articles/808505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808505)
 <!-- BLOG-POST-LIST:END -->
 
 ---
