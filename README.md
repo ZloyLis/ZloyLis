@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Линеаризация: зачем и как укрощать ratio-метрики в A/B-тестах](https://habr.com/ru/companies/sbermarket/articles/768826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=768826)
 - [Плэнер — язык логического программирования для ИИ: что из него получилось](https://habr.com/ru/companies/ruvds/articles/808273/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808273)
 - [Устройство памяти процессов в ОС Linux. Сбор дампов при помощи гипервизора](https://habr.com/ru/companies/pt/articles/808943/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808943)
 - [Supabase — вышел из режима «бета»](https://habr.com/ru/articles/809363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809363)
 - [QA-тестировщикам — рецензия на книгу «Тест-дизайн. Практическое руководство» Ольги Назиной](https://habr.com/ru/companies/ssp-soft/articles/809151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809151)
-- [Мобильная разработка за неделю #535 &lpar;15 — 21 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/809327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
