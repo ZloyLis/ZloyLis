@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На какие AI Coding Assistants стоит обратить внимание в 2024?](https://habr.com/ru/companies/bothub/articles/809421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809421)
+- [Никому нельзя верить на слово в безопасной разработке, или Еще один взгляд на SCA](https://habr.com/ru/companies/pt/articles/808023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808023)
+- [[Перевод] Сравнение технологий WebSockets, Server-Sent-Events, Long-Polling, WebRTC и WebTransport](https://habr.com/ru/articles/809535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809535)
+- [Security Week 2417: эксплуатация уязвимостей с помощью LLM](https://habr.com/ru/companies/kaspersky/articles/809461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809461)
 - [Ты неправильно используешь интерфейсы typescript](https://habr.com/ru/articles/809509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809509)
-- [Docker — не то, чем кажется](https://habr.com/ru/companies/cdnnow/articles/809481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809481)
-- [Эффективное использование журнала регистрации и технологического журнала 1С в решении вопросов производительности](https://habr.com/ru/companies/softpoint/articles/809471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809471)
-- [Не тимбилдингом единым: как наладили коммуникации в команде с помощью базы знаний](https://habr.com/ru/articles/809463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809463)
-- [Почему решения принимаются не на основе дашбордов?](https://habr.com/ru/articles/809449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809449)
 <!-- BLOG-POST-LIST:END -->
 
 ---
