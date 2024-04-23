@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неожиданные последствия запуска PostgreSQL в Docker: замедление запросов в 100 раз](https://habr.com/ru/companies/tensor/articles/808931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808931)
+- [Что нового в joomla 5.1?](https://habr.com/ru/articles/809491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809491)
 - [Подглядывание в A/B тестах: как не потерять достоверность данных](https://habr.com/ru/companies/otus/articles/809139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809139)
 - [Нагрузи меня, Gatling](https://habr.com/ru/companies/alfastrah/articles/808281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808281)
 - [Дай знать, где ты находишься: как мы разработали навигатор по Эрмитажу](https://habr.com/ru/articles/809591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809591)
-- [Android и iOS, Flutter и Kotlin: что обо всём этом расскажут на Mobius](https://habr.com/ru/companies/jugru/articles/809395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809395)
-- [Apple Pro Weekly News &lpar;15.04 – 21.04.24&rpar;](https://habr.com/ru/articles/809579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809579)
 <!-- BLOG-POST-LIST:END -->
 
 ---
