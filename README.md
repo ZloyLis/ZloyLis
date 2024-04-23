@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать свою первую спецификацию на REST API. С какими ошибками может столкнуться аналитик и как их избежать?](https://habr.com/ru/companies/sportmaster_lab/articles/808429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808429)
+- [Программирование в среде Scratch для детей: знакомство с платформой](https://habr.com/ru/articles/809739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809739)
 - [Разбираемся в ROC и AUC](https://habr.com/ru/companies/otus/articles/809147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809147)
-- [Как не свихнуться с кучей Gradle модулей](https://habr.com/ru/articles/809287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809287)
+- [Как не свихнуться с кучей модулей в проекте](https://habr.com/ru/articles/809287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809287)
 - [Где мне это пригодится в жизни или применение Nothing в Kotlin на примере](https://habr.com/ru/articles/809711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809711)
-- [[Перевод] Xv6: учебная Unix-подобная ОС. Заключение](https://habr.com/ru/articles/809707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809707)
-- [Книги по C# для новичков в разработке: что стоит почитать в 2024 году](https://habr.com/ru/companies/ru_mts/articles/809695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809695)
 <!-- BLOG-POST-LIST:END -->
 
 ---
