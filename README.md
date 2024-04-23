@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI API – получить ответ ChatGPT на C#](https://habr.com/ru/articles/809873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809873)
+- [Тренды веб-дизайна 2024: погружение, персонализация и инновации](https://habr.com/ru/companies/kokocgroup/articles/809871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809871)
+- [Async iterator timeout в Python](https://habr.com/ru/companies/otus/articles/809483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809483)
 - [Деплоим приложение в k8s через Jenkins+Helm3+ArgoCD](https://habr.com/ru/companies/otus/articles/809855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809855)
 - [DDD простыми словами](https://habr.com/ru/articles/809831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809831)
-- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: значения свойства display](https://habr.com/ru/companies/ruvds/articles/806493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806493)
-- [Возможное решение проблемы ссылок в языках программирования](https://habr.com/ru/articles/809773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809773)
-- [Пишем поиск семантически похожих текстов &lpar;или товаров&rpar; за полчаса на Go и Postgres &lpar;pgVector&rpar;](https://habr.com/ru/companies/karuna/articles/809305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809305)
 <!-- BLOG-POST-LIST:END -->
 
 ---
