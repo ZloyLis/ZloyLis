@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Parasolid inside: новые форматы и другие доработки C3D Converter](https://habr.com/ru/companies/ascon/articles/793938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793938)
+- [Cample.js — один из самых быстрых фреймворков без виртуального DOM в Интернете! Отчёт № 2](https://habr.com/ru/articles/809667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809667)
+- [Визуализируй это: как я обучаю джунов и ставлю задачи через диаграммы и графики](https://habr.com/ru/companies/ddosguard/articles/808475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808475)
+- [Сравнение Huawei Nova 12s и 12se: какую новинку лучше купить](https://habr.com/ru/companies/x-com/articles/809659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809659)
 - [Анимация в веб-интерфейсе](https://habr.com/ru/articles/809631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809631)
-- [Неожиданные последствия запуска PostgreSQL в Docker: замедление запросов в 100 раз](https://habr.com/ru/companies/tensor/articles/808931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808931)
-- [Что нового в joomla 5.1?](https://habr.com/ru/articles/809491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809491)
-- [Подглядывание в A/B тестах: как не потерять достоверность данных](https://habr.com/ru/companies/otus/articles/809139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809139)
-- [Нагрузи меня, Gatling](https://habr.com/ru/companies/alfastrah/articles/808281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808281)
 <!-- BLOG-POST-LIST:END -->
 
 ---
