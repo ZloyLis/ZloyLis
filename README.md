@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книги по C# для новичков в разработке: что стоит почитать в 2024 году](https://habr.com/ru/companies/ru_mts/articles/809695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809695)
+- [Настройка транзакций в Solana через Phantom Wallet](https://habr.com/ru/articles/809691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809691)
+- [Обзор архитектуры Compose с использованием паттерна «координатор»](https://habr.com/ru/companies/sberbank/articles/809683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809683)
+- [Улучшаем региональное продвижение сайта](https://habr.com/ru/articles/809681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809681)
 - [Parasolid inside: новые форматы и другие доработки C3D Converter](https://habr.com/ru/companies/ascon/articles/793938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793938)
-- [Cample.js — один из самых быстрых фреймворков без виртуального DOM в Интернете! Отчёт № 2](https://habr.com/ru/articles/809667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809667)
-- [Визуализируй это: как я обучаю джунов и ставлю задачи через диаграммы и графики](https://habr.com/ru/companies/ddosguard/articles/808475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808475)
-- [Сравнение Huawei Nova 12s и 12se: какую новинку лучше купить](https://habr.com/ru/companies/x-com/articles/809659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809659)
-- [Анимация в веб-интерфейсе](https://habr.com/ru/articles/809631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809631)
 <!-- BLOG-POST-LIST:END -->
 
 ---
