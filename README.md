@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: значения свойства display](https://habr.com/ru/companies/ruvds/articles/806493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806493)
+- [Возможное решение проблемы ссылок в языках программирования](https://habr.com/ru/articles/809773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809773)
+- [Пишем поиск семантически похожих текстов &lpar;или товаров&rpar; за полчаса на Go и Postgres &lpar;pgVector&rpar;](https://habr.com/ru/companies/karuna/articles/809305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809305)
 - [Безопасноть android-приложений. Реверсим OWASP MASTG Crackme 1](https://habr.com/ru/articles/809791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809791)
 - [Python-праздник на Positive Hack Days Fest 2](https://habr.com/ru/companies/pt/articles/809783/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809783)
-- [[Перевод] Создавайте виджеты главного экрана iOS с помощью Flutter](https://habr.com/ru/articles/809763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809763)
-- [Как написать свою первую спецификацию на REST API. С какими ошибками может столкнуться аналитик и как их избежать?](https://habr.com/ru/companies/sportmaster_lab/articles/808429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808429)
-- [Пошаговая шпаргалка по защите сервера от хакеров и другой нечисти](https://habr.com/ru/companies/selectel/articles/809669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
