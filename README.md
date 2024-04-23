@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск опечаток в проекте](https://habr.com/ru/articles/809889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809889)
+- [Гайд для самопроверки бизнес-историй перед отдачей их на ревью лиду аналитики и команде](https://habr.com/ru/articles/809887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809887)
 - [OpenAI API – получить ответ ChatGPT на C#](https://habr.com/ru/articles/809873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809873)
 - [Тренды веб-дизайна 2024: погружение, персонализация и инновации](https://habr.com/ru/companies/kokocgroup/articles/809871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809871)
 - [Async iterator timeout в Python](https://habr.com/ru/companies/otus/articles/809483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809483)
-- [Деплоим приложение в k8s через Jenkins+Helm3+ArgoCD](https://habr.com/ru/companies/otus/articles/809855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809855)
-- [DDD простыми словами](https://habr.com/ru/articles/809831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809831)
 <!-- BLOG-POST-LIST:END -->
 
 ---
