@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасноть android-приложений. Реверсим OWASP MASTG Crackme 1](https://habr.com/ru/articles/809791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809791)
+- [Python-праздник на Positive Hack Days Fest 2](https://habr.com/ru/companies/pt/articles/809783/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809783)
+- [[Перевод] Создавайте виджеты главного экрана iOS с помощью Flutter](https://habr.com/ru/articles/809763/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809763)
 - [Как написать свою первую спецификацию на REST API. С какими ошибками может столкнуться аналитик и как их избежать?](https://habr.com/ru/companies/sportmaster_lab/articles/808429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808429)
-- [Программирование в среде Scratch для детей: знакомство с платформой](https://habr.com/ru/articles/809739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809739)
-- [Разбираемся в ROC и AUC](https://habr.com/ru/companies/otus/articles/809147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809147)
-- [Как не свихнуться с кучей модулей в проекте](https://habr.com/ru/articles/809287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809287)
-- [Где мне это пригодится в жизни или применение Nothing в Kotlin на примере](https://habr.com/ru/articles/809711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809711)
+- [Пошаговая шпаргалка по защите сервера от хакеров и другой нечисти](https://habr.com/ru/companies/selectel/articles/809669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
