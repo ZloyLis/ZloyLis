@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микроанимация и ховер-эффекты в интерфейсе: как улучшить пользовательский опыт](https://habr.com/ru/articles/809925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809925)
 - [Пишем программу на Python для доступа к YandexGPT с помощью ChatGPT](https://habr.com/ru/articles/809901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809901)
 - [Поиск опечаток в проекте](https://habr.com/ru/articles/809889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809889)
 - [Гайд для самопроверки бизнес-историй перед отдачей их на ревью лиду аналитики и команде](https://habr.com/ru/articles/809887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809887)
 - [OpenAI API – получить ответ ChatGPT на C#](https://habr.com/ru/articles/809873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809873)
-- [Тренды веб-дизайна 2024: погружение, персонализация и инновации](https://habr.com/ru/companies/kokocgroup/articles/809871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809871)
 <!-- BLOG-POST-LIST:END -->
 
 ---
