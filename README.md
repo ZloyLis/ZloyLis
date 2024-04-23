@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся в ROC и AUC](https://habr.com/ru/companies/otus/articles/809147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809147)
+- [Как не свихнуться с кучей Gradle модулей](https://habr.com/ru/articles/809287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809287)
+- [Где мне это пригодится в жизни или применение Nothing в Kotlin на примере](https://habr.com/ru/articles/809711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809711)
+- [[Перевод] Xv6: учебная Unix-подобная ОС. Заключение](https://habr.com/ru/articles/809707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809707)
 - [Книги по C# для новичков в разработке: что стоит почитать в 2024 году](https://habr.com/ru/companies/ru_mts/articles/809695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809695)
-- [Настройка транзакций в Solana через Phantom Wallet](https://habr.com/ru/articles/809691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809691)
-- [Обзор архитектуры Compose с использованием паттерна «координатор»](https://habr.com/ru/companies/sberbank/articles/809683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809683)
-- [Улучшаем региональное продвижение сайта](https://habr.com/ru/articles/809681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809681)
-- [Parasolid inside: новые форматы и другие доработки C3D Converter](https://habr.com/ru/companies/ascon/articles/793938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
