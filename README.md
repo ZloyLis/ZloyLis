@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самые интересные задачи для безопасников — Джабба одобряет](https://habr.com/ru/companies/selectel/articles/810023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810023)
+- [[Перевод] Я программист, и я тупой](https://habr.com/ru/companies/productivity_inside/articles/810047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810047)
+- [Креативность для аналитика данных: нужна ли, как проявляется и как развивать](https://habr.com/ru/companies/yandex_praktikum/articles/809497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809497)
+- [Моделирование курса валют методом Монте-Карло](https://habr.com/ru/articles/810037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810037)
 - [Руководство по Next.js. 2/3](https://habr.com/ru/companies/timeweb/articles/808259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808259)
-- [[Перевод] Пишем «Змейку» в 12 строк кода на PyTorch](https://habr.com/ru/articles/809997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809997)
-- [Platform Engineering: что, зачем и как](https://habr.com/ru/companies/05-ru/articles/809661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809661)
-- [Чек лист переноса сайта с одного домена на другой](https://habr.com/ru/articles/809989/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809989)
-- [Как жить в университете и получать от этого удовольствие](https://habr.com/ru/articles/809975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809975)
 <!-- BLOG-POST-LIST:END -->
 
 ---
