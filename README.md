@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз менеджер — почему он вам нужен](https://habr.com/ru/companies/vk/articles/809399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809399)
-- [Полезные стикеры — как это?](https://habr.com/ru/articles/810077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810077)
-- [Проект «Мультиключ». Как мы побеждали контактные ключи Metacom и Cyfral](https://habr.com/ru/articles/810073/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810073)
-- [Самые интересные задачи для безопасников — Джабба одобряет](https://habr.com/ru/companies/selectel/articles/810023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810023)
-- [[Перевод] Я программист, и я тупой](https://habr.com/ru/companies/productivity_inside/articles/810047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810047)
+- [Настройка конвейерной сборки Java-проектов в GitLab](https://habr.com/ru/companies/haulmont/articles/810151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810151)
+- [Jetpack Compose для ленивых](https://habr.com/ru/articles/810123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810123)
+- [История программирования в СССР: от математических задач до космической программы](https://habr.com/ru/companies/first/articles/810143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810143)
+- [Адаптация персонала и наставничество: их роль в развитии бизнеса, или как не терять таланты на испытательном сроке](https://habr.com/ru/articles/809957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809957)
+- [Использование Markdown в Django](https://habr.com/ru/articles/810119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
