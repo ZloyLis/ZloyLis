@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Где применяется цифровая обработка сигналов?](https://habr.com/ru/articles/810215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810215)
+- [[Перевод] Преобразования данных с React Query](https://habr.com/ru/articles/810211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810211)
+- [Особенности обработки native events в React.js](https://habr.com/ru/articles/810205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810205)
 - [[Перевод] Как я портировал Sonic 2 на графический калькулятор](https://habr.com/ru/companies/ruvds/articles/810139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810139)
 - [Как я из маркетинга перешла в бизнес-анализ](https://habr.com/ru/companies/naumen/articles/810157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810157)
-- [Настройка конвейерной сборки Java-проектов в GitLab](https://habr.com/ru/companies/haulmont/articles/810151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810151)
-- [Jetpack Compose для ленивых](https://habr.com/ru/articles/810123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810123)
-- [История программирования в СССР: от математических задач до космической программы](https://habr.com/ru/companies/first/articles/810143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810143)
 <!-- BLOG-POST-LIST:END -->
 
 ---
