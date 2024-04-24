@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как писать требования к проекту. Шаблон документации](https://habr.com/ru/articles/809965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809965)
 - [Удобное управление тестовыми окружениями в docker-compose](https://habr.com/ru/articles/809917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809917)
 - [Микроанимация и ховер-эффекты в интерфейсе: как улучшить пользовательский опыт](https://habr.com/ru/articles/809925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809925)
 - [Пишем программу на Python для доступа к YandexGPT с помощью ChatGPT](https://habr.com/ru/articles/809901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809901)
 - [Поиск опечаток в проекте](https://habr.com/ru/articles/809889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809889)
-- [Гайд для самопроверки бизнес-историй перед отдачей их на ревью лиду аналитики и команде](https://habr.com/ru/articles/809887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809887)
 <!-- BLOG-POST-LIST:END -->
 
 ---
