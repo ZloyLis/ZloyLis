@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать и настроить свой CDN](https://habr.com/ru/articles/810241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810241)
 - [[Перевод] Преобразования данных с React Query](https://habr.com/ru/articles/810211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810211)
 - [Особенности обработки native events в React.js](https://habr.com/ru/articles/810205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810205)
 - [[Перевод] Как я портировал Sonic 2 на графический калькулятор](https://habr.com/ru/companies/ruvds/articles/810139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810139)
 - [Как я из маркетинга перешла в бизнес-анализ](https://habr.com/ru/companies/naumen/articles/810157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810157)
-- [Настройка конвейерной сборки Java-проектов в GitLab](https://habr.com/ru/companies/haulmont/articles/810151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810151)
 <!-- BLOG-POST-LIST:END -->
 
 ---
