@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Руководство по Next.js. 2/3](https://habr.com/ru/companies/timeweb/articles/808259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808259)
+- [[Перевод] Пишем «Змейку» в 12 строк кода на PyTorch](https://habr.com/ru/articles/809997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809997)
+- [Platform Engineering: что, зачем и как](https://habr.com/ru/companies/05-ru/articles/809661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809661)
 - [Чек лист переноса сайта с одного домена на другой](https://habr.com/ru/articles/809989/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809989)
 - [Как жить в университете и получать от этого удовольствие](https://habr.com/ru/articles/809975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809975)
-- [Как писать требования к проекту. Шаблон документации](https://habr.com/ru/articles/809965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809965)
-- [Удобное управление тестовыми окружениями в docker-compose](https://habr.com/ru/articles/809917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809917)
-- [Микроанимация и ховер-эффекты в интерфейсе: как улучшить пользовательский опыт](https://habr.com/ru/articles/809925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809925)
 <!-- BLOG-POST-LIST:END -->
 
 ---
