@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз менеджер — почему он вам нужен](https://habr.com/ru/companies/vk/articles/809399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809399)
 - [Полезные стикеры — как это?](https://habr.com/ru/articles/810077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810077)
 - [Проект «Мультиключ». Как мы побеждали контактные ключи Metacom и Cyfral](https://habr.com/ru/articles/810073/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810073)
 - [Самые интересные задачи для безопасников — Джабба одобряет](https://habr.com/ru/companies/selectel/articles/810023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810023)
 - [[Перевод] Я программист, и я тупой](https://habr.com/ru/companies/productivity_inside/articles/810047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810047)
-- [Креативность для аналитика данных: нужна ли, как проявляется и как развивать](https://habr.com/ru/companies/yandex_praktikum/articles/809497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809497)
 <!-- BLOG-POST-LIST:END -->
 
 ---
