@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От простого ИТ-ландшафта к единой платформе разработки: эволюция ИТ в Тинькофф](https://habr.com/ru/companies/tinkoff/articles/809039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809039)
+- [Бойлерплейт как инструмент стандартизации Go-проектов](https://habr.com/ru/companies/oleg-bunin/articles/810155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810155)
+- [Как один опытный разработчик за три дня потерял аккаунт в Телеграме, а второй чуть не перевел «другу» 100 тысяч рублей](https://habr.com/ru/companies/StartX/articles/810015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810015)
+- [Как передать информацию в ICMP-пакетах и не привлечь внимания санитаров](https://habr.com/ru/companies/selectel/articles/809599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809599)
+- [От простого ИТ-ландшафта к единой платформе разработки: эволюция ИТ в Тинькофф](https://habr.com/ru/companies/vk/articles/809039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809039)
 - [Как я написал свой первый классификатор эмоций](https://habr.com/ru/companies/simbirsoft/articles/810171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810171)
-- [Кратко про микросервисы на Scala и Erlang](https://habr.com/ru/companies/otus/articles/810253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810253)
-- [Обзор K8s LAN Party —  сборника задач по поиску уязвимостей в кластере Kubernetes прямо в браузере](https://habr.com/ru/companies/flant/articles/807015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807015)
-- [«А» и «Б» сидели на трубе. «А» упало, «Б» пропало. Что осталось на трубе? &lpar;алгоритм получения ответа в частном случае&rpar;](https://habr.com/ru/articles/810327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
