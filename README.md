@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [USM &lpar;Unified Service Management&rpar;_Шаблон](https://habr.com/ru/articles/810521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810521)
 - [Распознавание, хранение и поиск лиц в базе данных](https://habr.com/ru/articles/810509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810509)
 - [Fuzzing-тестирование. Практическое применение](https://habr.com/ru/companies/wildberries/articles/808911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808911)
 - [Самое понятное объяснение парадокса близнецов](https://habr.com/ru/articles/809803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809803)
 - [UX установки диффузионного силицирования](https://habr.com/ru/articles/810479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810479)
-- [Как решить типичные проблемы Django нестандартным подходом: Fake Injection](https://habr.com/ru/companies/samolet/articles/794740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
