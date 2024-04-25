@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Изменить цвета и кнопки сервиса — и не сломать дизайн-систему](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/804941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804941)
-- [Реализация многооконного приложения на Vue 3](https://habr.com/ru/companies/kryptonite/articles/810147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810147)
-- [Автоматический выпуск SSL-сертификатов. Используем Kubernetes и FreeIPA](https://habr.com/ru/companies/nubes/articles/808035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808035)
-- [Как сделать и настроить свой CDN](https://habr.com/ru/articles/810241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810241)
-- [[Перевод] Преобразования данных с React Query](https://habr.com/ru/articles/810211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810211)
+- [От простого ИТ-ландшафта к единой платформе разработки: эволюция ИТ в Тинькофф](https://habr.com/ru/companies/tinkoff/articles/809039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809039)
+- [Как я написал свой первый классификатор эмоций](https://habr.com/ru/companies/simbirsoft/articles/810171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810171)
+- [Кратко про микросервисы на Scala и Erlang](https://habr.com/ru/companies/otus/articles/810253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810253)
+- [Обзор K8s LAN Party —  сборника задач по поиску уязвимостей в кластере Kubernetes прямо в браузере](https://habr.com/ru/companies/flant/articles/807015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807015)
+- [«А» и «Б» сидели на трубе. «А» упало, «Б» пропало. Что осталось на трубе? &lpar;алгоритм получения ответа в частном случае&rpar;](https://habr.com/ru/articles/810327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810327)
 <!-- BLOG-POST-LIST:END -->
 
 ---
