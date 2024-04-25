@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Lane margining: как оценить качество PCIe-соединения без дополнительной аппаратуры](https://habr.com/ru/companies/yadro/articles/810075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810075)
+- [[Перевод] Как инженеры GitHub используют GitHub Copilot: 4 способа](https://habr.com/ru/companies/otus/articles/810403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810403)
+- [Honor Magic 6 Pro: новый флагман известного бренда. На что он способен?](https://habr.com/ru/companies/ru_mts/articles/810389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810389)
 - [Как не утонуть в море событий аналитики](https://habr.com/ru/companies/docdoc/articles/808275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808275)
 - [Бойлерплейт как инструмент стандартизации Go-проектов](https://habr.com/ru/companies/oleg-bunin/articles/810155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810155)
-- [Как один опытный разработчик за три дня потерял аккаунт в Телеграме, а второй чуть не перевел «другу» 100 тысяч рублей](https://habr.com/ru/companies/StartX/articles/810015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810015)
-- [Как передать информацию в ICMP-пакетах и не привлечь внимания санитаров](https://habr.com/ru/companies/selectel/articles/809599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809599)
-- [От простого ИТ-ландшафта к единой платформе разработки: эволюция ИТ в Тинькофф](https://habr.com/ru/companies/vk/articles/809039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809039)
 <!-- BLOG-POST-LIST:END -->
 
 ---
