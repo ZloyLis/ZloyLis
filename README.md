@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изменить цвета и кнопки сервиса — и не сломать дизайн-систему](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/804941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804941)
+- [Реализация многооконного приложения на Vue 3](https://habr.com/ru/companies/kryptonite/articles/810147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810147)
 - [Автоматический выпуск SSL-сертификатов. Используем Kubernetes и FreeIPA](https://habr.com/ru/companies/nubes/articles/808035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808035)
 - [Как сделать и настроить свой CDN](https://habr.com/ru/articles/810241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810241)
 - [[Перевод] Преобразования данных с React Query](https://habr.com/ru/articles/810211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810211)
-- [Особенности обработки native events в React.js](https://habr.com/ru/articles/810205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810205)
-- [[Перевод] Как я портировал Sonic 2 на графический калькулятор](https://habr.com/ru/companies/ruvds/articles/810139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810139)
 <!-- BLOG-POST-LIST:END -->
 
 ---
