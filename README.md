@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Куда пойти на майские в Калининградской области: IT-фестиваль KODE Waves в Светлогорске](https://habr.com/ru/articles/810443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810443)
+- [Кошмар нефалема. Исследуем ошибки в коде эмулятора сервера Diablo 3](https://habr.com/ru/companies/pvs-studio/articles/810419/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810419)
 - [Lane margining: как оценить качество PCIe-соединения без дополнительной аппаратуры](https://habr.com/ru/companies/yadro/articles/810075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810075)
 - [[Перевод] Как инженеры GitHub используют GitHub Copilot: 4 способа](https://habr.com/ru/companies/otus/articles/810403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810403)
 - [Honor Magic 6 Pro: новый флагман известного бренда. На что он способен?](https://habr.com/ru/companies/ru_mts/articles/810389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810389)
-- [Как не утонуть в море событий аналитики](https://habr.com/ru/companies/docdoc/articles/808275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808275)
-- [Бойлерплейт как инструмент стандартизации Go-проектов](https://habr.com/ru/companies/oleg-bunin/articles/810155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810155)
 <!-- BLOG-POST-LIST:END -->
 
 ---
