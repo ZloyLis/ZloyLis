@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как решить типичные проблемы Django нестандартным подходом: Fake Injection](https://habr.com/ru/companies/samolet/articles/794740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=794740)
 - [Книга: «Podman в действии»](https://habr.com/ru/companies/piter/articles/810079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810079)
 - [REST API на котиках](https://habr.com/ru/companies/cdek_blog/articles/809601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809601)
 - [Как мы используем владение кодом в нашем проекте](https://habr.com/ru/companies/sberbank/articles/810451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810451)
 - [Без холивара «переписать все на Go»: проблема переносимости в Python и ее решение](https://habr.com/ru/companies/kaspersky/articles/808057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808057)
-- [Куда пойти на майские в Калининградской области: IT-фестиваль KODE Waves в Светлогорске](https://habr.com/ru/articles/810443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810443)
 <!-- BLOG-POST-LIST:END -->
 
 ---
