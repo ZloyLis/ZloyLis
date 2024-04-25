@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Podman в действии»](https://habr.com/ru/companies/piter/articles/810079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810079)
+- [REST API на котиках](https://habr.com/ru/companies/cdek_blog/articles/809601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809601)
+- [Как мы используем владение кодом в нашем проекте](https://habr.com/ru/companies/sberbank/articles/810451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810451)
+- [Без холивара «переписать все на Go»: проблема переносимости в Python и ее решение](https://habr.com/ru/companies/kaspersky/articles/808057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808057)
 - [Куда пойти на майские в Калининградской области: IT-фестиваль KODE Waves в Светлогорске](https://habr.com/ru/articles/810443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810443)
-- [Кошмар нефалема. Исследуем ошибки в коде эмулятора сервера Diablo 3](https://habr.com/ru/companies/pvs-studio/articles/810419/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810419)
-- [Lane margining: как оценить качество PCIe-соединения без дополнительной аппаратуры](https://habr.com/ru/companies/yadro/articles/810075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810075)
-- [[Перевод] Как инженеры GitHub используют GitHub Copilot: 4 способа](https://habr.com/ru/companies/otus/articles/810403/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810403)
-- [Honor Magic 6 Pro: новый флагман известного бренда. На что он способен?](https://habr.com/ru/companies/ru_mts/articles/810389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810389)
 <!-- BLOG-POST-LIST:END -->
 
 ---
