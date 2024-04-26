@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Этап ОПЭ, ОЭ — документация для заказчика](https://habr.com/ru/articles/810735/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810735)
+- [Сервисная и инхаус-аналитика, скиллы для промышленных проектов Data Science и почему мы отказались от дата-аналитиков](https://habr.com/ru/companies/redmadrobot/articles/810725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810725)
 - [[Перевод] Искусство README](https://habr.com/ru/articles/810537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810537)
 - [Как мы создавали дизайн-систему: опыт компании Звук](https://habr.com/ru/companies/zvuk/articles/810529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810529)
 - [Глобальное использование axios в Vue 3 с помощью provide/inject &lpar;composition API&rpar;](https://habr.com/ru/articles/810685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810685)
-- [Приглашаем на Cinimex Spring IT Talk в Самаре &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/810677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810677)
-- [Разбираем 5 способов ускорить сайт: от простого к сложному](https://habr.com/ru/companies/spaceweb/articles/810679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810679)
 <!-- BLOG-POST-LIST:END -->
 
 ---
