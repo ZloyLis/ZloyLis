@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ВРМ. Смарт-инструменты «Таблица -&amp;gt; Схема» для формализации бизнес-процессов. Рестайлинг ARIS SmartDesign](https://habr.com/ru/articles/810851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810851)
 - [Мастерим собственные awaitables и циклы событий](https://habr.com/ru/companies/otus/articles/810553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810553)
 - [Телеграм бот для подготовки к собеседованиям для QA инженеров](https://habr.com/ru/articles/810775/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810775)
 - [[Перевод] 5 главных трендов среди мобильных приложений в 2024 году](https://habr.com/ru/companies/agima/articles/810761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810761)
 - [Frontend внутри Bitrix. Использование и написание экстеншенов + SPA приложение на Vue или React](https://habr.com/ru/articles/810581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810581)
-- [Кратко про юнит-тесты в Rust](https://habr.com/ru/companies/otus/articles/810691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810691)
 <!-- BLOG-POST-LIST:END -->
 
 ---
