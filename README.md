@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Искусство README](https://habr.com/ru/articles/810537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810537)
+- [Как мы создавали дизайн-систему: опыт компании Звук](https://habr.com/ru/companies/zvuk/articles/810529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810529)
+- [Глобальное использование axios в Vue 3 с помощью provide/inject &lpar;composition API&rpar;](https://habr.com/ru/articles/810685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810685)
 - [Приглашаем на Cinimex Spring IT Talk в Самаре &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/810677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810677)
 - [Разбираем 5 способов ускорить сайт: от простого к сложному](https://habr.com/ru/companies/spaceweb/articles/810679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810679)
-- [Оплата аккаунта Apple Developer в 2024 году](https://habr.com/ru/articles/810657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810657)
-- [Локальная REST-служба, или как за 5 минут интегрировать Smart ID Engine](https://habr.com/ru/companies/smartengines/articles/810627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810627)
-- [[Перевод] Как Figma удалось открыть себе путь к почти бесконечному масштабированию баз данных](https://habr.com/ru/articles/810185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810185)
 <!-- BLOG-POST-LIST:END -->
 
 ---
