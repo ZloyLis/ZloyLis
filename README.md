@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы реализовали реферальную программу в Telegram](https://habr.com/ru/articles/810635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810635)
+- [Локальная REST-служба, или как за 5 минут интегрировать Smart ID Engine](https://habr.com/ru/companies/smartengines/articles/810627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810627)
+- [[Перевод] Как Figma удалось открыть себе путь к почти бесконечному масштабированию баз данных](https://habr.com/ru/articles/810185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810185)
+- [Как мы реализовали реферальную программу в Telegram. 40% от платежа юзера на руки](https://habr.com/ru/articles/810635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810635)
 - [Уязвимости на GitHub: в библиотеке Ruby, которую скачали 250 000 раз, модулях для электронных замков и популярных играх](https://habr.com/ru/companies/ru_mts/articles/810401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810401)
 - [Избавляемся от паролей](https://habr.com/ru/companies/pt/articles/810261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810261)
-- [В чём разница между дизайнерами в агентстве и продукте. Мышление, процессы и перевоплощение](https://habr.com/ru/companies/sbermarket/articles/810421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810421)
-- [Оптимизация JavaScript. Inline Caches](https://habr.com/ru/articles/810543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810543)
 <!-- BLOG-POST-LIST:END -->
 
 ---
