@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Cinimex Spring IT Talk в Самаре &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/810677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810677)
+- [Разбираем 5 способов ускорить сайт: от простого к сложному](https://habr.com/ru/companies/spaceweb/articles/810679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810679)
+- [Оплата аккаунта Apple Developer в 2024 году](https://habr.com/ru/articles/810657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810657)
 - [Локальная REST-служба, или как за 5 минут интегрировать Smart ID Engine](https://habr.com/ru/companies/smartengines/articles/810627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810627)
 - [[Перевод] Как Figma удалось открыть себе путь к почти бесконечному масштабированию баз данных](https://habr.com/ru/articles/810185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810185)
-- [Как мы реализовали реферальную программу в Telegram. 40% от платежа юзера на руки](https://habr.com/ru/articles/810635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810635)
-- [Уязвимости на GitHub: в библиотеке Ruby, которую скачали 250 000 раз, модулях для электронных замков и популярных играх](https://habr.com/ru/companies/ru_mts/articles/810401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810401)
-- [Избавляемся от паролей](https://habr.com/ru/companies/pt/articles/810261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810261)
 <!-- BLOG-POST-LIST:END -->
 
 ---
