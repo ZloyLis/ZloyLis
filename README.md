@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы реализовали реферальную программу в Telegram](https://habr.com/ru/articles/810635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810635)
+- [Уязвимости на GitHub: в библиотеке Ruby, которую скачали 250 000 раз, модулях для электронных замков и популярных играх](https://habr.com/ru/companies/ru_mts/articles/810401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810401)
+- [Избавляемся от паролей](https://habr.com/ru/companies/pt/articles/810261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810261)
+- [В чём разница между дизайнерами в агентстве и продукте. Мышление, процессы и перевоплощение](https://habr.com/ru/companies/sbermarket/articles/810421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810421)
 - [Оптимизация JavaScript. Inline Caches](https://habr.com/ru/articles/810543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810543)
-- [Готовимся к собеседованию по Rust: 4 самых частых вопросов. Часть 1](https://habr.com/ru/companies/otus/articles/809865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809865)
-- [Pet-проект на Rust нуждается в конструктивной критике](https://habr.com/ru/articles/810541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810541)
-- [USM &lpar;Unified Service Management&rpar;_Шаблон](https://habr.com/ru/articles/810521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810521)
-- [Распознавание, хранение и поиск лиц в базе данных](https://habr.com/ru/articles/810509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810509)
 <!-- BLOG-POST-LIST:END -->
 
 ---
