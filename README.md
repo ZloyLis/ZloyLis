@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как быстро и безболезненно выбрать лучшую из десяти выборок](https://habr.com/ru/companies/tinkoff/articles/809807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809807)
+- [Рекомпозиция в Compose: что не видно разработчику невооруженным глазом](https://habr.com/ru/companies/astralinux/articles/810549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810549)
+- [Эволюция разработки под Android](https://habr.com/ru/articles/810881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810881)
 - [Как аналитики данных и специалисты по Data Science находят работу после курсов: опыт Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/809645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809645)
 - [Решение проблемы дымки на изображениях с использованием .NET: Простой и эффективный подход](https://habr.com/ru/articles/810577/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810577)
-- [ВРМ. Смарт-инструменты «Таблица -&amp;gt; Схема» для формализации бизнес-процессов. Рестайлинг ARIS SmartDesign](https://habr.com/ru/articles/810851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810851)
-- [Мастерим собственные awaitables и циклы событий](https://habr.com/ru/companies/otus/articles/810553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810553)
-- [Телеграм бот для подготовки к собеседованиям для QA инженеров](https://habr.com/ru/articles/810775/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810775)
 <!-- BLOG-POST-LIST:END -->
 
 ---
