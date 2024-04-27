@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как управлять Kubernetes с помощью Ansible](https://habr.com/ru/companies/slurm/articles/810933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810933)
+- [Процесс перехода с монолитиной архитектуры на микросервсную](https://habr.com/ru/articles/810527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810527)
+- [[Перевод] Путь к потрясающему CSS Easing с помощью новой функции linear&lpar;&rpar;](https://habr.com/ru/articles/810929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810929)
+- [Важность высшего образования для старта карьеры в IT-индустрии](https://habr.com/ru/articles/810913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810913)
 - [[Перевод] Применение чистой архитектуры в Go](https://habr.com/ru/companies/timeweb/articles/810857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810857)
-- [Остаться в живых &lpar;keepalive&rpar; feat. HTTP/2, Go &amp;amp; gRPC-Go](https://habr.com/ru/companies/ozontech/articles/810427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810427)
-- [Вербальные вычисления &lpar;VC&rpar; в доказательных DSS и NLP](https://habr.com/ru/articles/810897/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810897)
-- [Как быстро и безболезненно выбрать лучшую из десяти выборок](https://habr.com/ru/companies/tinkoff/articles/809807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809807)
-- [Рекомпозиция в Compose: что не видно разработчику невооруженным глазом](https://habr.com/ru/companies/astralinux/articles/810549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810549)
 <!-- BLOG-POST-LIST:END -->
 
 ---
