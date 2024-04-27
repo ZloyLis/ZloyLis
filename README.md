@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как аналитики данных и специалисты по Data Science находят работу после курсов: опыт Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/809645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809645)
 - [Решение проблемы дымки на изображениях с использованием .NET: Простой и эффективный подход](https://habr.com/ru/articles/810577/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810577)
 - [ВРМ. Смарт-инструменты «Таблица -&amp;gt; Схема» для формализации бизнес-процессов. Рестайлинг ARIS SmartDesign](https://habr.com/ru/articles/810851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810851)
 - [Мастерим собственные awaitables и циклы событий](https://habr.com/ru/companies/otus/articles/810553/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810553)
 - [Телеграм бот для подготовки к собеседованиям для QA инженеров](https://habr.com/ru/articles/810775/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810775)
-- [[Перевод] 5 главных трендов среди мобильных приложений в 2024 году](https://habr.com/ru/companies/agima/articles/810761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810761)
 <!-- BLOG-POST-LIST:END -->
 
 ---
