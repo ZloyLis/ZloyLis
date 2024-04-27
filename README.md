@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Применение ключевого слова revert-layer в CSS](https://habr.com/ru/companies/netologyru/articles/810787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810787)
+- [Что не делать, чтобы найти работу](https://habr.com/ru/articles/810963/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810963)
 - [[Перевод] «42» как ответ на пять фундаментальных вопросов науки](https://habr.com/ru/articles/810867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810867)
 - [[Перевод] Доводы против самозакрывающихся тегов в HTML](https://habr.com/ru/articles/810945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810945)
 - [Основные принципы разработки &lpar;SOLID, KISS и т. д.&rpar;](https://habr.com/ru/articles/810941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810941)
-- [[Перевод] Как управлять Kubernetes с помощью Ansible](https://habr.com/ru/companies/slurm/articles/810933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810933)
-- [Процесс перехода с монолитиной архитектуры на микросервсную](https://habr.com/ru/articles/810527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810527)
 <!-- BLOG-POST-LIST:END -->
 
 ---
