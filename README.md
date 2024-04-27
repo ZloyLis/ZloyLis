@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отправка сообщения в несколько слушателей Kafka одновременно](https://habr.com/ru/articles/811087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811087)
 - [Validating Admission Policy: Магия кастомных политик безопасности Kubernetes](https://habr.com/ru/articles/811075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811075)
 - [Как ChatGPT поможет заменить репетитора по английскому для айтишников](https://habr.com/ru/articles/811063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811063)
 - [[Перевод] Каково это — работать с Netscape Composer в 2024 году](https://habr.com/ru/companies/ruvds/articles/809959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809959)
 - [Как мы применяем гибкую вёрстку для адаптива страниц под большие экраны](https://habr.com/ru/companies/ispring/articles/811029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811029)
-- [PGConf.Russia #10 &lpar;2024&rpar;](https://habr.com/ru/companies/postgrespro/articles/809315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809315)
 <!-- BLOG-POST-LIST:END -->
 
 ---
