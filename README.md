@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Каково это — работать с Netscape Composer в 2024 году](https://habr.com/ru/companies/ruvds/articles/809959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809959)
+- [Как мы применяем гибкую вёрстку для адаптива страниц под большие экраны](https://habr.com/ru/companies/ispring/articles/811029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811029)
 - [PGConf.Russia #10 &lpar;2024&rpar;](https://habr.com/ru/companies/postgrespro/articles/809315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809315)
 - [3-е издание «Основы Dart», анонс печатной версии и новой книги — «Основы Flutter»](https://habr.com/ru/articles/796797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796797)
 - [Проверка игрового движка qdEngine, часть первая: топ 10 предупреждений PVS-Studio](https://habr.com/ru/companies/pvs-studio/articles/810987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810987)
-- [[Перевод] Применение ключевого слова revert-layer в CSS](https://habr.com/ru/companies/netologyru/articles/810787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810787)
-- [Что не делать, чтобы найти работу](https://habr.com/ru/articles/810963/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810963)
 <!-- BLOG-POST-LIST:END -->
 
 ---
