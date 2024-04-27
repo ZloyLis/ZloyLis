@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] «42» как ответ на пять фундаментальных вопросов науки](https://habr.com/ru/articles/810867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810867)
+- [[Перевод] Доводы против самозакрывающихся тегов в HTML](https://habr.com/ru/articles/810945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810945)
+- [Основные принципы разработки &lpar;SOLID, KISS и т. д.&rpar;](https://habr.com/ru/articles/810941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810941)
 - [[Перевод] Как управлять Kubernetes с помощью Ansible](https://habr.com/ru/companies/slurm/articles/810933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810933)
 - [Процесс перехода с монолитиной архитектуры на микросервсную](https://habr.com/ru/articles/810527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810527)
-- [[Перевод] Путь к потрясающему CSS Easing с помощью новой функции linear&lpar;&rpar;](https://habr.com/ru/articles/810929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810929)
-- [Важность высшего образования для старта карьеры в IT-индустрии](https://habr.com/ru/articles/810913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810913)
-- [[Перевод] Применение чистой архитектуры в Go](https://habr.com/ru/companies/timeweb/articles/810857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810857)
 <!-- BLOG-POST-LIST:END -->
 
 ---
