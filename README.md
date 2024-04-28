@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать pruning, чтобы потом не плакать](https://habr.com/ru/articles/811221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811221)
 - [Сила шифрования или как я выявил недостаток работы Defender’а](https://habr.com/ru/articles/811191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811191)
 - [Обратная польская нотация, что ты такое? Или как вывести производную сложной функции](https://habr.com/ru/articles/811189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811189)
 - [Kubelet в Kubernetes](https://habr.com/ru/companies/otus/articles/809941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809941)
 - [Получение данных для сайта из 1С: Предприятие &lpar;на примере статусов заказов Управление Торговлей 11.5&rpar;](https://habr.com/ru/articles/811181/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811181)
-- [Асимметричные и симметричные ключи в PostgreSQL](https://habr.com/ru/companies/otus/articles/810111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810111)
 <!-- BLOG-POST-LIST:END -->
 
 ---
