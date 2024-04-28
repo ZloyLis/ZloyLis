@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мега-Учебник Flask Глава 6: Страница профиля и аватары &lpar;издание 2024&rpar;](https://habr.com/ru/articles/809411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809411)
+- [Вступление в мир разработки игр](https://habr.com/ru/articles/811155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811155)
 - [[Перевод] Кто реально угрожает C++ &lpar;нет, Rust, не ты&rpar;](https://habr.com/ru/articles/811151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811151)
 - [Паттерн Identity Map в Golang](https://habr.com/ru/companies/otus/articles/809009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809009)
 - [Теория хаоса, синергетика, неравновесная термодинамика – науки о сложных адаптивных системах](https://habr.com/ru/articles/811125/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811125)
-- [Отправка сообщения в несколько слушателей Kafka одновременно](https://habr.com/ru/articles/811087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811087)
-- [Validating Admission Policy: Магия кастомных политик безопасности Kubernetes](https://habr.com/ru/articles/811075/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811075)
 <!-- BLOG-POST-LIST:END -->
 
 ---
