@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы Цифровую кафедру в КАИ запускали](https://habr.com/ru/articles/811325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811325)
 - [Алгоритм деления 2W-разрядных чисел с использованием операций с числами разрядностью W](https://habr.com/ru/articles/811323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811323)
 - [И снова о useCallback](https://habr.com/ru/articles/811319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811319)
 - [Как превратить игрушечного робота-доставщика в ровер с беспроводным управлением через мобильное приложение](https://habr.com/ru/articles/809953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809953)
 - [Принципы SOLID, только понятно](https://habr.com/ru/articles/811305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811305)
-- [[Перевод] Cовместное использование GitHub Actions, Docker и GitHub NPMvPackage](https://habr.com/ru/articles/810873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810873)
 <!-- BLOG-POST-LIST:END -->
 
 ---
