@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как превратить игрушечного робота-доставщика в ровер с беспроводным управлением через мобильное приложение](https://habr.com/ru/articles/809953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809953)
+- [Принципы SOLID, только понятно](https://habr.com/ru/articles/811305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811305)
 - [[Перевод] Cовместное использование GitHub Actions, Docker и GitHub NPMvPackage](https://habr.com/ru/articles/810873/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810873)
 - [Управление схемами в Kafka с использованием Schema Registry](https://habr.com/ru/articles/811283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811283)
 - [[Перевод] Как так вышло, что при лишнем шаге сборки моё приложение на Zig ускоряется в 10 раз](https://habr.com/ru/articles/811277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811277)
-- [Карьера в сфере онлайн-образования: в какой роли лучше всего работать](https://habr.com/ru/articles/811237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811237)
-- [Как обнаружить и устранить мультиколлинеарность с помощью Statsmodels в Питоне](https://habr.com/ru/companies/otus/articles/810453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810453)
 <!-- BLOG-POST-LIST:END -->
 
 ---
