@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Обработка ошибок в web apps не должна быть такой сложной](https://habr.com/ru/articles/811361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811361)
+- [Как запустить WebRTC на сервере, или как я пилю вебкам](https://habr.com/ru/articles/811357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811357)
 - [Вы думаете рисовать линии это просто?](https://habr.com/ru/articles/811345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811345)
 - [Smart LED: Адресная LED подсветка с управлением через Алису](https://habr.com/ru/articles/811337/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811337)
 - [Картографический фотопроект «По местам съёмок фильма «Брат 2»](https://habr.com/ru/articles/811333/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811333)
-- [Как использовать Singleton и не потерять тестируемость](https://habr.com/ru/articles/811331/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811331)
-- [Как мы Цифровую кафедру в КАИ запускали](https://habr.com/ru/articles/811325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811325)
 <!-- BLOG-POST-LIST:END -->
 
 ---
