@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как так вышло, что при лишнем шаге сборки моё приложение на Zig ускоряется в 10 раз](https://habr.com/ru/articles/811277/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811277)
+- [Карьера в сфере онлайн-образования: в какой роли лучше всего работать](https://habr.com/ru/articles/811237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811237)
+- [Как обнаружить и устранить мультиколлинеарность с помощью Statsmodels в Питоне](https://habr.com/ru/companies/otus/articles/810453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810453)
+- [Как выбрать быстрый виртуальный сервер](https://habr.com/ru/articles/811267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811267)
 - [Мобильная разработка за неделю #536 &lpar;22 — 28 апреля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/811259/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811259)
-- [SwiftUI уроки &lpar;часть 10&rpar;](https://habr.com/ru/articles/809561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809561)
-- [[Перевод] Основы индексации и срезов в Python](https://habr.com/ru/articles/811247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811247)
-- [Как сделать pruning, чтобы потом не плакать](https://habr.com/ru/articles/811221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811221)
-- [Сила шифрования или как я выявил недостаток работы Defender’а](https://habr.com/ru/articles/811191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811191)
 <!-- BLOG-POST-LIST:END -->
 
 ---
