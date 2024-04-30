@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кратко про библиотеку Axum в Rust](https://habr.com/ru/companies/otus/articles/810511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810511)
+- [Новые коллекции в Android](https://habr.com/ru/articles/811415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811415)
 - [Кажется, дождь собирается. Пишем приложение для отслеживания прогноза погоды](https://habr.com/ru/companies/selectel/articles/811027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811027)
 - [Интеграция с ЕСИА на Node.js без CryptoPro [2024]](https://habr.com/ru/articles/811389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811389)
 - [Apple Pro Weekly News &lpar;22.04 – 28.04.24&rpar;](https://habr.com/ru/articles/811367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811367)
-- [Как перенести все записи из выбранного гугл календаря в таблицу менее чем за минуту при помощи скрипта](https://habr.com/ru/articles/811171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811171)
-- [[Перевод] Обработка ошибок в web apps не должна быть такой сложной](https://habr.com/ru/articles/811361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811361)
 <!-- BLOG-POST-LIST:END -->
 
 ---
