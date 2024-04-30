@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] GPU-вычисления в браузере на скорости нативного приложения: марширующие кубы на WebGPU](https://habr.com/ru/articles/811519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811519)
 - [VGranite — Софт для преобразователя интерфейсов serial&amp;lt;-&amp;gt;ethernet](https://habr.com/ru/articles/811507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811507)
 - [Рендерим таблицы с помощью Symbiote.js](https://habr.com/ru/articles/811489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811489)
 - [Как составить хорошее резюме и продать себя дорого](https://habr.com/ru/articles/811471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811471)
 - [Пора внедрять ORM в вашу систему](https://habr.com/ru/articles/811445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811445)
-- [Почему ни в коем случае НЕ надо становиться DevOps инженером! Предостережения начинающим и совет что же делать если «НЕ»](https://habr.com/ru/articles/811429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811429)
 <!-- BLOG-POST-LIST:END -->
 
 ---
