@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как составить хорошее резюме и продать себя дорого – в мире IT](https://habr.com/ru/articles/811471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811471)
 - [Пора внедрять ORM в вашу систему](https://habr.com/ru/articles/811445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811445)
 - [Почему ни в коем случае НЕ надо становиться DevOps инженером! Предостережения начинающим и совет что же делать если «НЕ»](https://habr.com/ru/articles/811429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811429)
 - [[Перевод] Почему я отказался от разработки игр на Rust, часть 1](https://habr.com/ru/articles/811163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811163)
 - [Кратко про библиотеку Axum в Rust](https://habr.com/ru/companies/otus/articles/810511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810511)
-- [Новые коллекции в Android](https://habr.com/ru/articles/811415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811415)
 <!-- BLOG-POST-LIST:END -->
 
 ---
