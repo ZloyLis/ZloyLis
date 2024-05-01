@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как Uber обслуживает более 40 миллионов чтений в секунду из онлайн-хранилища с помощью встроенного кэша](https://habr.com/ru/articles/811627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811627)
+- [Перемещение указателя на смещение в Kafka](https://habr.com/ru/articles/811621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811621)
 - [Кастиниг, или было у отца четыре сына…](https://habr.com/ru/articles/811611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811611)
 - [Telegram Bot на Kotlin: Шпаргалка](https://habr.com/ru/articles/811229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811229)
 - [Делаем из битого планшета одноплатник: подключаем Android-устройства к дешевым микроконтроллерам через UART](https://habr.com/ru/companies/timeweb/articles/810457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810457)
-- [Scala Digest. Выпуск 16](https://habr.com/ru/companies/tinkoff/articles/811047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811047)
-- [Большая иерархия в SQL запросе + PostgreSQL](https://habr.com/ru/articles/811523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811523)
 <!-- BLOG-POST-LIST:END -->
 
 ---
