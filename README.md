@@ -38,8 +38,8 @@ ___
 - [Telegram Bot на Kotlin: Шпаргалка](https://habr.com/ru/articles/811229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811229)
 - [Делаем из битого планшета одноплатник: подключаем Android-устройства к дешевым микроконтроллерам через UART](https://habr.com/ru/companies/timeweb/articles/810457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810457)
 - [Scala Digest. Выпуск 16](https://habr.com/ru/companies/tinkoff/articles/811047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811047)
-- [Как сделать себе крутой Readme профиля на GitHub?](https://habr.com/ru/articles/811529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811529)
 - [Большая иерархия в SQL запросе + PostgreSQL](https://habr.com/ru/articles/811523/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811523)
+- [[Перевод] GPU-вычисления в браузере на скорости нативного приложения: марширующие кубы на WebGPU](https://habr.com/ru/articles/811519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
