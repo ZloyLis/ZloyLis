@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как потреблять API с ограничением по RPS в .NET приложениях](https://habr.com/ru/companies/ruvds/articles/804025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804025)
-- [Конференция «Инженеры будущего»: опыт участника-2024](https://habr.com/ru/articles/810939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810939)
-- [Сказ о том, как мы искали новые векторные расширения на ARM](https://habr.com/ru/companies/smartengines/articles/811527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811527)
-- [Система условных обозначений BPMN](https://habr.com/ru/companies/otus/articles/811455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811455)
-- [Spring Boot Starter: практически, принципиально и подробнее. Part 1](https://habr.com/ru/companies/ru_mts/articles/811693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811693)
+- [Как начать писать на Java в VSCode](https://habr.com/ru/companies/cdek_blog/articles/811631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811631)
+- [Security Week 2418: приватность автотелеметрии](https://habr.com/ru/companies/kaspersky/articles/811449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811449)
+- [Шаг за шагом: разработка 3D-игры в Godot 4.2 для начинающих](https://habr.com/ru/companies/selectel/articles/811771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811771)
+- [Как организовать информационную безопасность в компании с нуля: два подхода, которые помогут ничего не упустить](https://habr.com/ru/companies/avito/articles/810395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810395)
+- [Что такое Java Spring и как с ним работать](https://habr.com/ru/companies/skillfactory/articles/811769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
