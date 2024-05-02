@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как джуну отрастить софты: советы и реальные истории. Часть 3. Развиваться](https://habr.com/ru/companies/mindbox/articles/806939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806939)
 - [Kotlin + Maven toolchain](https://habr.com/ru/articles/811787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811787)
 - [Мифы о работе тестировщиков, на которые всегда один ответ: «Ага, конечно. Ты полностью прав»](https://habr.com/ru/companies/rshb/articles/811021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811021)
 - [Как начать писать на Java в VSCode](https://habr.com/ru/companies/cdek_blog/articles/811631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811631)
 - [Security Week 2418: приватность автотелеметрии](https://habr.com/ru/companies/kaspersky/articles/811449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811449)
-- [Шаг за шагом: разработка 3D-игры в Godot 4.2 для начинающих](https://habr.com/ru/companies/selectel/articles/811771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811771)
 <!-- BLOG-POST-LIST:END -->
 
 ---
