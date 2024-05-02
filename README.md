@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP/FI 1. Personal Home Page Tools/Forms Interpreter](https://habr.com/ru/articles/787250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787250)
 - [Встречают по README — что нужно знать о документации](https://habr.com/ru/companies/cloud_mts/articles/811857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811857)
 - [Кто такие ИТ-архитекторы и какие задачи они решают](https://habr.com/ru/articles/811739/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811739)
 - [[Перевод] Нельзя предполагать, что все используют UTF-8](https://habr.com/ru/companies/ruvds/articles/811811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811811)
 - [Используем паттерн Decorator в Bitrix](https://habr.com/ru/articles/788412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788412)
-- [Подборка крутых докладов по С++ за 2023 год](https://habr.com/ru/companies/pvs-studio/articles/811825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811825)
 <!-- BLOG-POST-LIST:END -->
 
 ---
