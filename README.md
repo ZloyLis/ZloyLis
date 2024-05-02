@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Нельзя предполагать, что все используют UTF-8](https://habr.com/ru/companies/ruvds/articles/811811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811811)
+- [Используем паттерн Decorator в Bitrix](https://habr.com/ru/articles/788412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=788412)
+- [Подборка крутых докладов по С++ за 2023 год](https://habr.com/ru/companies/pvs-studio/articles/811825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811825)
 - [Как джуну отрастить софты: советы и реальные истории. Часть 3. Развиваться](https://habr.com/ru/companies/mindbox/articles/806939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806939)
 - [Kotlin + Maven toolchain](https://habr.com/ru/articles/811787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811787)
-- [Мифы о работе тестировщиков, на которые всегда один ответ: «Ага, конечно. Ты полностью прав»](https://habr.com/ru/companies/rshb/articles/811021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811021)
-- [Как начать писать на Java в VSCode](https://habr.com/ru/companies/cdek_blog/articles/811631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811631)
-- [Security Week 2418: приватность автотелеметрии](https://habr.com/ru/companies/kaspersky/articles/811449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811449)
 <!-- BLOG-POST-LIST:END -->
 
 ---
