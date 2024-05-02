@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность веб-приложений для самых маленьких фронтов](https://habr.com/ru/companies/maxilect/articles/811909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811909)
 - [Как веб-технологии помогают искать золото](https://habr.com/ru/articles/811903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811903)
 - [Анализ распределение простых чисел. Часть 1](https://habr.com/ru/articles/811887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811887)
 - [SOLIDно знать…](https://habr.com/ru/articles/811875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811875)
 - [PHP/FI 1. Personal Home Page Tools/Forms Interpreter](https://habr.com/ru/articles/787250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787250)
-- [Встречают по README — что нужно знать о документации](https://habr.com/ru/companies/cloud_mts/articles/811857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811857)
 <!-- BLOG-POST-LIST:END -->
 
 ---
