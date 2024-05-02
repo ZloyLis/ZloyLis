@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как потреблять API с ограничением по RPS в .NET приложениях](https://habr.com/ru/companies/ruvds/articles/804025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804025)
 - [Конференция «Инженеры будущего»: опыт участника-2024](https://habr.com/ru/articles/810939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810939)
 - [Сказ о том, как мы искали новые векторные расширения на ARM](https://habr.com/ru/companies/smartengines/articles/811527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811527)
 - [Система условных обозначений BPMN](https://habr.com/ru/companies/otus/articles/811455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811455)
 - [Spring Boot Starter: практически, принципиально и подробнее. Part 1](https://habr.com/ru/companies/ru_mts/articles/811693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811693)
-- [Реализация SHA256 и SHA512 на языке RUST](https://habr.com/ru/articles/811639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811639)
 <!-- BLOG-POST-LIST:END -->
 
 ---
