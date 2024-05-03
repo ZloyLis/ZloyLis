@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ехал handler через handler, или почему всё тормозит](https://habr.com/ru/articles/812201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812201)
 - [[Перевод] Rust 1.78.0: Диагностические атрибуты, проверка предусловий unsafe и детерминированное повторное выравнивание](https://habr.com/ru/articles/812199/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812199)
 - [Bodyfuck – как писать программы без клавиатуры и c пользой для здоровья](https://habr.com/ru/articles/812183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812183)
 - [Контекст в Vue/Nuxt: осознать, не терять и беречь](https://habr.com/ru/articles/812145/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812145)
 - [Адаптация приложений к специальной версии Платформы nanoCAD 23.1 для отечественных ОС Astra Linux, Alt Linux и РЕД ОС](https://habr.com/ru/companies/nanosoft/articles/812133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812133)
-- [Lombok — как с ним жить, а не страдать или вариант best practics для lombok](https://habr.com/ru/articles/812101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812101)
 <!-- BLOG-POST-LIST:END -->
 
 ---
