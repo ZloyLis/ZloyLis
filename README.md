@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Lombok — как с ним жить, а не страдать или вариант best practics для lombok](https://habr.com/ru/articles/812101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812101)
+- [4 частых вопроса на собеседовании по части Kubernetes, с которыми может столкнуться каждый. Часть 1](https://habr.com/ru/companies/otus/articles/810567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810567)
+- [Как мы в 4 раза ускорили мобильную версию ВКонтакте](https://habr.com/ru/companies/vk/articles/811925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811925)
+- [Как аналитик учился java log читать. Часть первая: логи бывают разные](https://habr.com/ru/articles/812103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812103)
 - [[Перевод] Как дальнобойщик в 38 лет стал разработчиком на Ruby on Rails](https://habr.com/ru/companies/ruvds/articles/811671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811671)
-- [Как мы организовали работу высоконагруженного сервиса для ресторанного бизнеса и что пришлось пережить](https://habr.com/ru/companies/iiko/articles/811845/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811845)
-- [Планирование смен сотрудников в офлайн ритейле: как упорядочить хаос](https://habr.com/ru/companies/X5Tech/articles/812093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812093)
-- [Решение на миллион: разбираем алгоритмические задачи с победителями True Tech Champ](https://habr.com/ru/companies/ru_mts/articles/809839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809839)
-- [Как мы подходим к автоматизации процессов в компании заказчиков](https://habr.com/ru/articles/811907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811907)
 <!-- BLOG-POST-LIST:END -->
 
 ---
