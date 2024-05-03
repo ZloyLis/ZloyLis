@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение на миллион: разбираем алгоритмические задачи с победителями True Tech Champ](https://habr.com/ru/companies/ru_mts/articles/809839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809839)
 - [Как мы подходим к автоматизации процессов в компании заказчиков](https://habr.com/ru/articles/811907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811907)
 - [Какие бывают аналитики: 10 ролей и еще 3](https://habr.com/ru/companies/simbirsoft/articles/811881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811881)
 - [Сколько денег приносит IT-подкаст? Андрей Смирнов, автор Frontend Weekend и руководитель клиентской разработки Х5 Tech](https://habr.com/ru/articles/811849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811849)
 - [Интерфейсы для конструкторов в Dart](https://habr.com/ru/articles/812021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812021)
-- [Разбираемся с this в JavaScript раз и навсегда &lpar;но это не точно&rpar;](https://habr.com/ru/articles/811049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
