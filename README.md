@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как дальнобойщик в 38 лет стал разработчиком на Ruby on Rails](https://habr.com/ru/companies/ruvds/articles/811671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811671)
+- [Как мы организовали работу высоконагруженного сервиса для ресторанного бизнеса и что пришлось пережить](https://habr.com/ru/companies/iiko/articles/811845/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811845)
+- [Планирование смен сотрудников в офлайн ритейле: как упорядочить хаос](https://habr.com/ru/companies/X5Tech/articles/812093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812093)
 - [Решение на миллион: разбираем алгоритмические задачи с победителями True Tech Champ](https://habr.com/ru/companies/ru_mts/articles/809839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809839)
 - [Как мы подходим к автоматизации процессов в компании заказчиков](https://habr.com/ru/articles/811907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811907)
-- [Какие бывают аналитики: 10 ролей и еще 3](https://habr.com/ru/companies/simbirsoft/articles/811881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811881)
-- [Сколько денег приносит IT-подкаст? Андрей Смирнов, автор Frontend Weekend и руководитель клиентской разработки Х5 Tech](https://habr.com/ru/articles/811849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811849)
-- [Интерфейсы для конструкторов в Dart](https://habr.com/ru/articles/812021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
