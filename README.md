@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание онлайн видео плеера](https://habr.com/ru/articles/810793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810793)
+- [Изгиб питона: 6 взглядов на игру из 1970-х](https://habr.com/ru/companies/yandex_praktikum/articles/811707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811707)
 - [Безопасность веб-приложений для самых маленьких фронтов](https://habr.com/ru/companies/maxilect/articles/811909/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811909)
 - [Как веб-технологии помогают искать золото](https://habr.com/ru/articles/811903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811903)
 - [Анализ распределения простых чисел. Часть 1](https://habr.com/ru/articles/811887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811887)
-- [SOLIDно знать…](https://habr.com/ru/articles/811875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811875)
-- [PHP/FI 1. Personal Home Page Tools/Forms Interpreter](https://habr.com/ru/articles/787250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=787250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
