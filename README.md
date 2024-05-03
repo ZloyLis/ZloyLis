@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как мы управляем контейнерной платформой: история adidas о прошлом, настоящем и будущем](https://habr.com/ru/companies/flant/articles/808801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808801)
-- [От советских компиляторов до грязных трюков: что поведают на C++ Russia 2024](https://habr.com/ru/companies/jugru/articles/810645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810645)
-- [Как стать BI-аналитиком? Онлайн и офлайн, теория и практика](https://habr.com/ru/companies/visiology/articles/811955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811955)
-- [Создание онлайн видео плеера](https://habr.com/ru/articles/810793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810793)
-- [Изгиб питона: 6 взглядов на игру из 1970-х](https://habr.com/ru/companies/yandex_praktikum/articles/811707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811707)
+- [Кратко про Uplift-моделирование](https://habr.com/ru/companies/otus/articles/811185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811185)
+- [Руководство по Next.js. 3/3](https://habr.com/ru/companies/timeweb/articles/810055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810055)
+- [Цикл статей о Greenplum. Часть 1. GP под капотом](https://habr.com/ru/companies/axenix/articles/811977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811977)
+- [Автоматизация и цифровизация риэлторских услуг с помощью сервиса с использованием роботизированной платформы](https://habr.com/ru/articles/811965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811965)
+- [Управление API или API Security? Что это такое?](https://habr.com/ru/companies/webmonitorx/articles/811753/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811753)
 <!-- BLOG-POST-LIST:END -->
 
 ---
