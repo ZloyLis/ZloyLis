@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы подходим к автоматизации процессов в компании заказчиков](https://habr.com/ru/articles/811907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811907)
+- [Какие бывают аналитики: 10 ролей и еще 3](https://habr.com/ru/companies/simbirsoft/articles/811881/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811881)
 - [Сколько денег приносит IT-подкаст? Андрей Смирнов, автор Frontend Weekend и руководитель клиентской разработки Х5 Tech](https://habr.com/ru/articles/811849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811849)
 - [Интерфейсы для конструкторов в Dart](https://habr.com/ru/articles/812021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812021)
 - [Разбираемся с this в JavaScript раз и навсегда &lpar;но это не точно&rpar;](https://habr.com/ru/articles/811049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811049)
-- [Эволюция в мире UX: как мы создали паттерн проектирования и упростили прогулки пользователей по панели управления](https://habr.com/ru/companies/selectel/articles/810979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810979)
-- [Кратко про Uplift-моделирование](https://habr.com/ru/companies/otus/articles/811185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811185)
 <!-- BLOG-POST-LIST:END -->
 
 ---
