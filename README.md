@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Библиотека dplyr в R](https://habr.com/ru/companies/otus/articles/811581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811581)
+- [Перевод Spring Boot приложения с HTTP на HTTPS без ругани браузера](https://habr.com/ru/articles/812257/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812257)
 - [Что учесть если используешь SignalR и захочешь масштабировать .Net-приложение?](https://habr.com/ru/articles/812243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812243)
 - [Ехал handler через handler, или почему всё тормозит](https://habr.com/ru/articles/812201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812201)
 - [[Перевод] Rust 1.78.0: Диагностические атрибуты, проверка предусловий unsafe и детерминированное повторное выравнивание](https://habr.com/ru/articles/812199/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812199)
-- [Bodyfuck – как писать программы без клавиатуры и c пользой для здоровья](https://habr.com/ru/articles/812183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812183)
-- [Контекст в Vue/Nuxt: осознать, не терять и беречь](https://habr.com/ru/articles/812145/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812145)
 <!-- BLOG-POST-LIST:END -->
 
 ---
