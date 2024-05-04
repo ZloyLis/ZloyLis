@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Библиотека GopherJS в Golang](https://habr.com/ru/companies/otus/articles/811573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811573)
 - [Standard Time как его видит IBM](https://habr.com/ru/articles/812275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812275)
 - [Создание простой Roblox игры без особого знания Lua](https://habr.com/ru/articles/812271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812271)
 - [Библиотека dplyr в R](https://habr.com/ru/companies/otus/articles/811581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811581)
 - [Перевод Spring Boot приложения с HTTP на HTTPS без ругани браузера](https://habr.com/ru/articles/812257/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812257)
-- [Что учесть если используешь SignalR и захочешь масштабировать .Net-приложение?](https://habr.com/ru/articles/812243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812243)
 <!-- BLOG-POST-LIST:END -->
 
 ---
