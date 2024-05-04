@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Главные отличия PCA от UMAP и t-SNE](https://habr.com/ru/articles/811437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811437)
 - [Лазеры, сервопривод, WiFi MESH-сети и сноуборд](https://habr.com/ru/articles/811885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811885)
 - [[Перевод] Что нужно знать, чтобы успешно пройти System Design Interview](https://habr.com/ru/companies/bothub/articles/812265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812265)
 - [Библиотека GopherJS в Golang](https://habr.com/ru/companies/otus/articles/811573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811573)
 - [Standard Time как его видит IBM](https://habr.com/ru/articles/812275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812275)
-- [Создание простой Roblox игры без особого знания Lua](https://habr.com/ru/articles/812271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812271)
 <!-- BLOG-POST-LIST:END -->
 
 ---
