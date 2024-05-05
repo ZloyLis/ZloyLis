@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ветровая нагрузка на здания и сооружения](https://habr.com/ru/articles/812351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812351)
 - [[Перевод] Алгоритм пересечения полигонов](https://habr.com/ru/articles/811591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811591)
 - [[Перевод] Мега-Учебник Flask Глава 7: Обработка ошибок &lpar;издание 2024&rpar;](https://habr.com/ru/articles/809743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809743)
 - [Как обойти лимит Telegram API для групп свыше 10,000 участников](https://habr.com/ru/articles/812329/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812329)
 - [Главные отличия PCA от UMAP и t-SNE](https://habr.com/ru/articles/811437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811437)
-- [Лазеры, сервопривод, WiFi MESH-сети и сноуборд](https://habr.com/ru/articles/811885/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811885)
 <!-- BLOG-POST-LIST:END -->
 
 ---
