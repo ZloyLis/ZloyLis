@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Век поиска кратчайшего решения задачи о кратчайшем пути](https://habr.com/ru/articles/812421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812421)
 - [Странное поведение нетривиальных нулей Зета функции Римана](https://habr.com/ru/articles/812405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812405)
 - [[Перевод] Забытая война с пейджерами](https://habr.com/ru/companies/ruvds/articles/811919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811919)
 - [Ветровая нагрузка на здания и сооружения](https://habr.com/ru/articles/812351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812351)
 - [[Перевод] Алгоритм пересечения полигонов](https://habr.com/ru/articles/811591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811591)
-- [[Перевод] Мега-Учебник Flask Глава 7: Обработка ошибок &lpar;издание 2024&rpar;](https://habr.com/ru/articles/809743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809743)
 <!-- BLOG-POST-LIST:END -->
 
 ---
