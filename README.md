@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Записываем музыку при помощи CSS Grid](https://habr.com/ru/companies/ruvds/articles/812621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812621)
+- [Security Week 2419: уязвимость в Android-приложениях при обмене файлами](https://habr.com/ru/companies/kaspersky/articles/812465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812465)
+- [Кейс: как с помощью парсинга Авито и ЦИАН увеличить эффективность отдела развития крупной ритейл компании на ~27%](https://habr.com/ru/articles/812631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812631)
+- [Сила продуктового мышления: как быть полезным для всех клиентов сразу](https://habr.com/ru/companies/naumen/articles/812519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812519)
 - [Точное увеличение растровых изображений](https://habr.com/ru/articles/812619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812619)
-- [Быстрое нахождение чисел Фибоначчи](https://habr.com/ru/articles/812611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812611)
-- [Древовидные структуры в SQL в одну таблицу](https://habr.com/ru/articles/812601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812601)
-- [«Раздутость» Telegram: миф или реальность?](https://habr.com/ru/companies/productstar/articles/812597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812597)
-- [[Перевод] Основы программирования на примере исходного кода React](https://habr.com/ru/articles/812569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812569)
 <!-- BLOG-POST-LIST:END -->
 
 ---
