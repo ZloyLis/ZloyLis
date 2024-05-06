@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда переключаются потоки в Spring WebFlux](https://habr.com/ru/articles/811289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811289)
+- [[Перевод] Что будет в Angular 18?](https://habr.com/ru/articles/812485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812485)
+- [Конференция «Инженеры будущего». Описание проекта](https://habr.com/ru/articles/812401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812401)
 - [Расширение Функциональных Интерфейсов Java](https://habr.com/ru/articles/812451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812451)
 - [Apple Pro Weekly News &lpar;29.04 – 05.05.24&rpar;](https://habr.com/ru/articles/812457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812457)
-- [4 стихии программной документации: The Grand Unified Theory of Documentation](https://habr.com/ru/companies/bercut/articles/806805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806805)
-- [Век поиска кратчайшего решения задачи о кратчайшем пути](https://habr.com/ru/articles/812421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812421)
-- [Странное поведение нетривиальных нулей Зета функции Римана](https://habr.com/ru/articles/812405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812405)
 <!-- BLOG-POST-LIST:END -->
 
 ---
