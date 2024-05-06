@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Meilisearch — организация поиска в связке с Laravel](https://habr.com/ru/articles/812689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812689)
 - [[Перевод] Записываем музыку при помощи CSS Grid](https://habr.com/ru/companies/ruvds/articles/812621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812621)
 - [Security Week 2419: уязвимость в Android-приложениях при обмене файлами](https://habr.com/ru/companies/kaspersky/articles/812465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812465)
 - [Кейс: как с помощью парсинга Авито и ЦИАН увеличить эффективность отдела развития крупной ритейл компании на ~27%](https://habr.com/ru/articles/812631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812631)
 - [Сила продуктового мышления: как быть полезным для всех клиентов сразу](https://habr.com/ru/companies/naumen/articles/812519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812519)
-- [Точное увеличение растровых изображений](https://habr.com/ru/articles/812619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812619)
 <!-- BLOG-POST-LIST:END -->
 
 ---
