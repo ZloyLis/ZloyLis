@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Основы программирования на примере исходного кода React](https://habr.com/ru/articles/812569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812569)
+- [Взлом вашей первой программы](https://habr.com/ru/articles/812567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812567)
 - [Шутки про программистов. Классификация](https://habr.com/ru/companies/ruvds/articles/811385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811385)
 - [История успеха. Внедрение платформы «Вебмониторэкс» для защиты приложений «СберАвто»](https://habr.com/ru/companies/webmonitorx/articles/806409/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806409)
 - [Anvil Utils: Assisted injection в многомодульных Android проектах без боли](https://habr.com/ru/articles/812539/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812539)
-- [Посторонним В.: российские онлайн-аптеки не всегда доступны для незрячих пользователей](https://habr.com/ru/articles/812009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812009)
-- [Транзакция, ACID, CAP теорема и уровни изоляций транзакций простыми словами](https://habr.com/ru/companies/alfa/articles/812417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812417)
 <!-- BLOG-POST-LIST:END -->
 
 ---
