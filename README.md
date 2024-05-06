@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Посторонним В.: российские онлайн-аптеки не всегда доступны для незрячих пользователей](https://habr.com/ru/articles/812009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812009)
+- [Транзакция, ACID, CAP теорема и уровни изоляций транзакций простыми словами](https://habr.com/ru/companies/alfa/articles/812417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812417)
 - [Нужно ли высшее образование в IT?](https://habr.com/ru/articles/812427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812427)
 - [В закладки: 50+ полезных ссылок для начинающего QA-инженера](https://habr.com/ru/companies/yandex_praktikum/articles/806799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=806799)
 - [Тестирование веб-приложений Flutter с помощью Selenium](https://habr.com/ru/articles/812497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812497)
-- [Когда переключаются потоки в Spring WebFlux](https://habr.com/ru/articles/811289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811289)
-- [[Перевод] Что будет в Angular 18?](https://habr.com/ru/articles/812485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812485)
 <!-- BLOG-POST-LIST:END -->
 
 ---
