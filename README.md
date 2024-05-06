@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Точное увеличение растровых изображений](https://habr.com/ru/articles/812619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812619)
+- [Быстрое нахождение чисел Фибоначчи](https://habr.com/ru/articles/812611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812611)
 - [Древовидные структуры в SQL в одну таблицу](https://habr.com/ru/articles/812601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812601)
 - [«Раздутость» Telegram: миф или реальность?](https://habr.com/ru/companies/productstar/articles/812597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812597)
 - [[Перевод] Основы программирования на примере исходного кода React](https://habr.com/ru/articles/812569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812569)
-- [Взлом вашей первой программы](https://habr.com/ru/articles/812567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812567)
-- [Шутки про программистов. Классификация](https://habr.com/ru/companies/ruvds/articles/811385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
