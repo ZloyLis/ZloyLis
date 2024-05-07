@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как автоматизировать заполнение changelog через GitHub Action](https://habr.com/ru/companies/friflex/articles/812653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812653)
 - [Просветлённый выживший: кто такой фичекрайний и зачем это всё разработчику?](https://habr.com/ru/companies/2gis/articles/809841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809841)
 - [Работа с очередями в RabbitMQ на основе EAV-модели: превращаем плоское в реалистичное](https://habr.com/ru/companies/2gis/articles/810367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810367)
 - [Linux, Git и базы данных: что почитать новичкам в Академии Selectel](https://habr.com/ru/companies/selectel/articles/812805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812805)
 - [Как начать мыслить о ИИ](https://habr.com/ru/articles/812801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812801)
-- [Книга: «Roblox в действии. Искусство разработки игр»](https://habr.com/ru/companies/piter/articles/810481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810481)
 <!-- BLOG-POST-LIST:END -->
 
 ---
