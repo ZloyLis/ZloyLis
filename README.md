@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безработные айосники, мертвый PHP и бесполезные “саперы”: топ-5 мифов о будущем российского IT](https://habr.com/ru/companies/hitch_outstaff/articles/812955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812955)
+- [Путь в IT: с дипломом или без?](https://habr.com/ru/companies/bothub/articles/812951/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812951)
 - [Когда достаточно простого класса Python — взять и начать управлять ML-экспериментами](https://habr.com/ru/companies/pgk/articles/812821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812821)
 - [Разработчикам: рецензия на книгу «Node.js: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/ssp-soft/articles/812933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812933)
 - [Unit-тестирование Flink-операторов, Job: Flink MiniCluster](https://habr.com/ru/companies/ru_mts/articles/812905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812905)
-- [Джун, сеньор и мидл: меняются ли с годами представления о грейдах разработчиков](https://habr.com/ru/companies/netologyru/articles/812871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812871)
-- [Как автоматизировать заполнение changelog через GitHub Action](https://habr.com/ru/companies/friflex/articles/812653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812653)
 <!-- BLOG-POST-LIST:END -->
 
 ---
