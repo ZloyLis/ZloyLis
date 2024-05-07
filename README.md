@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мегагайд: культура работы с Git](https://habr.com/ru/companies/yandex_praktikum/articles/812139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812139)
-- [PHP и Laravel дайджест новостей за апрель 2024 года](https://habr.com/ru/articles/812709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812709)
-- [Java Digest #12](https://habr.com/ru/companies/tinkoff/articles/812663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812663)
-- [Meilisearch — организация поиска в связке с Laravel](https://habr.com/ru/articles/812689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812689)
-- [[Перевод] Записываем музыку при помощи CSS Grid](https://habr.com/ru/companies/ruvds/articles/812621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812621)
+- [ClickHouse в несколько кликов](https://habr.com/ru/companies/dbraincloud/articles/812671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812671)
+- [Программисты больше не нужны, их «уволит» ИИ?](https://habr.com/ru/companies/lanit/articles/811697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811697)
+- [Мастерим многопоточность: техники и инструменты для Java-разработчиков. Часть 1](https://habr.com/ru/companies/simbirsoft/articles/812097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812097)
+- [Особенности const в Dart и Flutter](https://habr.com/ru/articles/812443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812443)
+- [database/sql: плохой, хороший, злой](https://habr.com/ru/companies/oleg-bunin/articles/808097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
