@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мегагайд: культура работы с Git](https://habr.com/ru/companies/yandex_praktikum/articles/812139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812139)
 - [PHP и Laravel дайджест новостей за апрель 2024 года](https://habr.com/ru/articles/812709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812709)
 - [Java Digest #12](https://habr.com/ru/companies/tinkoff/articles/812663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812663)
 - [Meilisearch — организация поиска в связке с Laravel](https://habr.com/ru/articles/812689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812689)
 - [[Перевод] Записываем музыку при помощи CSS Grid](https://habr.com/ru/companies/ruvds/articles/812621/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812621)
-- [Security Week 2419: уязвимость в Android-приложениях при обмене файлами](https://habr.com/ru/companies/kaspersky/articles/812465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812465)
 <!-- BLOG-POST-LIST:END -->
 
 ---
