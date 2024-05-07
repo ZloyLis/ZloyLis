@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Roblox в действии. Искусство разработки игр»](https://habr.com/ru/companies/piter/articles/810481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810481)
+- [Проверка игрового движка qdEngine, часть вторая: упрощение C++ кода](https://habr.com/ru/companies/pvs-studio/articles/812795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812795)
+- [Язык программирования Mojo: что нового в версии 24.3?](https://habr.com/ru/companies/ru_mts/articles/812791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812791)
 - [ClickHouse в несколько кликов](https://habr.com/ru/companies/dbraincloud/articles/812671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812671)
 - [Программисты больше не нужны, их «уволит» ИИ?](https://habr.com/ru/companies/lanit/articles/811697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811697)
-- [Мастерим многопоточность: техники и инструменты для Java-разработчиков. Часть 1](https://habr.com/ru/companies/simbirsoft/articles/812097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812097)
-- [Особенности const в Dart и Flutter](https://habr.com/ru/articles/812443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812443)
-- [database/sql: плохой, хороший, злой](https://habr.com/ru/companies/oleg-bunin/articles/808097/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808097)
 <!-- BLOG-POST-LIST:END -->
 
 ---
