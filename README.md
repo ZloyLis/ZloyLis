@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда достаточно простого класса Python — взять и начать управлять ML-экспериментами](https://habr.com/ru/companies/pgk/articles/812821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812821)
+- [Разработчикам: рецензия на книгу «Node.js: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/ssp-soft/articles/812933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812933)
 - [Unit-тестирование Flink-операторов, Job: Flink MiniCluster](https://habr.com/ru/companies/ru_mts/articles/812905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812905)
 - [Джун, сеньор и мидл: меняются ли с годами представления о грейдах разработчиков](https://habr.com/ru/companies/netologyru/articles/812871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812871)
 - [Как автоматизировать заполнение changelog через GitHub Action](https://habr.com/ru/companies/friflex/articles/812653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812653)
-- [Просветлённый выживший: кто такой фичекрайний и зачем это всё разработчику?](https://habr.com/ru/companies/2gis/articles/809841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809841)
-- [Работа с очередями в RabbitMQ на основе EAV-модели: превращаем плоское в реалистичное](https://habr.com/ru/companies/2gis/articles/810367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810367)
 <!-- BLOG-POST-LIST:END -->
 
 ---
