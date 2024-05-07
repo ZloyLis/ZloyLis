@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Просветлённый выживший: кто такой фичекрайний и зачем это всё разработчику?](https://habr.com/ru/companies/2gis/articles/809841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809841)
+- [Работа с очередями в RabbitMQ на основе EAV-модели: превращаем плоское в реалистичное](https://habr.com/ru/companies/2gis/articles/810367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810367)
+- [Linux, Git и базы данных: что почитать новичкам в Академии Selectel](https://habr.com/ru/companies/selectel/articles/812805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812805)
+- [Как начать мыслить о ИИ](https://habr.com/ru/articles/812801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812801)
 - [Книга: «Roblox в действии. Искусство разработки игр»](https://habr.com/ru/companies/piter/articles/810481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810481)
-- [Проверка игрового движка qdEngine, часть вторая: упрощение C++ кода](https://habr.com/ru/companies/pvs-studio/articles/812795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812795)
-- [Язык программирования Mojo: что нового в версии 24.3?](https://habr.com/ru/companies/ru_mts/articles/812791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812791)
-- [ClickHouse в несколько кликов](https://habr.com/ru/companies/dbraincloud/articles/812671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812671)
-- [Программисты больше не нужны, их «уволит» ИИ?](https://habr.com/ru/companies/lanit/articles/811697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811697)
 <!-- BLOG-POST-LIST:END -->
 
 ---
