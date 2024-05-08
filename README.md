@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [VRackDB — Просто и со вкусом](https://habr.com/ru/articles/813049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813049)
+- [Выбираем инструмент проектирования интерфейсов для аналитика](https://habr.com/ru/articles/813037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813037)
 - [Специальный выпуск Apple Pro Weekly News Презентация &lpar;07.05.24&rpar;](https://habr.com/ru/articles/813019/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813019)
 - [О том, как красная селёдка попала в девелоперскую команду](https://habr.com/ru/articles/812977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812977)
 - [regexp — большие гонки](https://habr.com/ru/articles/812953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812953)
-- [IBM i: системные очереди данных](https://habr.com/ru/articles/812605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812605)
-- [Безработные айосники, мертвый PHP и бесполезные “саперы”: топ-5 мифов о будущем российского IT](https://habr.com/ru/companies/hitch_outstaff/articles/812955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812955)
 <!-- BLOG-POST-LIST:END -->
 
 ---
