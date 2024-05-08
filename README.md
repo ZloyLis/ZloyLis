@@ -38,7 +38,7 @@ ___
 - [Старые языки программирования, новые успехи: растёт популярность COBOL и Fortran](https://habr.com/ru/companies/ru_mts/articles/813207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813207)
 - [Как мы «подружили» цифровые продукты холдинга «Финам» с помощью дизайн-системы](https://habr.com/ru/companies/agima/articles/813173/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813173)
 - [Чудесное совпадение или ожидаемая связь: почему π²≈g](https://habr.com/ru/articles/812903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812903)
-- [[Перевод] Погружение в компиляторы Kotlin](https://habr.com/ru/companies/kts/articles/813085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813085)
+- [[Перевод] Как новый компилятор K2 ускоряет компиляцию Kotlin на 94%](https://habr.com/ru/companies/kts/articles/813085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813085)
 - [[Перевод] Байт-кодовые VM в неожиданных местах](https://habr.com/ru/companies/ruvds/articles/813151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813151)
 <!-- BLOG-POST-LIST:END -->
 
