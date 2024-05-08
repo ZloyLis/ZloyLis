@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как зарегистрировать аккаунт разработчика в Google Play в 2024 году: пошаговая инструкция](https://habr.com/ru/articles/813065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813065)
+- [YandexGPT API быстро и без труда с Python SDK. Делимся опытом интеграции](https://habr.com/ru/articles/812979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812979)
+- [[Перевод] Почему я отказался от разработки игр на Rust, часть 2](https://habr.com/ru/articles/812661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812661)
 - [VRackDB — Просто и со вкусом](https://habr.com/ru/articles/813049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813049)
 - [Выбираем инструмент проектирования интерфейсов для аналитика](https://habr.com/ru/articles/813037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813037)
-- [Специальный выпуск Apple Pro Weekly News Презентация &lpar;07.05.24&rpar;](https://habr.com/ru/articles/813019/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813019)
-- [О том, как красная селёдка попала в девелоперскую команду](https://habr.com/ru/articles/812977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812977)
-- [regexp — большие гонки](https://habr.com/ru/articles/812953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812953)
 <!-- BLOG-POST-LIST:END -->
 
 ---
