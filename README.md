@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Байт-кодовые VM в неожиданных местах](https://habr.com/ru/companies/ruvds/articles/813151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813151)
+- [Стажировка — взлетная полоса для молодых IT-специалистов. Как ее найти и добиться максимального эффекта](https://habr.com/ru/companies/automacon/articles/813159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813159)
+- [Vintik &amp;amp; Shpuntik Challenge](https://habr.com/ru/companies/neimark/articles/813155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813155)
 - [[Перевод] Шардирование баз данных и проектирование систем](https://habr.com/ru/companies/piter/articles/813133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813133)
 - [Шпаргалка по безопасной сборке Docker-образов](https://habr.com/ru/companies/selectel/articles/813047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813047)
-- [Как зарегистрировать аккаунт разработчика в Google Play в 2024 году: пошаговая инструкция](https://habr.com/ru/articles/813065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813065)
-- [YandexGPT API быстро и без труда с Python SDK. Делимся опытом интеграции](https://habr.com/ru/articles/812979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812979)
-- [[Перевод] Почему я отказался от разработки игр на Rust, часть 2](https://habr.com/ru/articles/812661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812661)
 <!-- BLOG-POST-LIST:END -->
 
 ---
