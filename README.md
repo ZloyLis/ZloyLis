@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли смысл покупать курсы для вкатывания в IT](https://habr.com/ru/articles/813203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813203)
+- [Как аналитик учился java log читать. Часть вторая: простые ошибки](https://habr.com/ru/articles/813363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813363)
 - [[Перевод] Storybook — генератор сказок с ИИ на Raspberry Pi 5 и 7-цветном дисплее E-Ink](https://habr.com/ru/articles/813355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813355)
 - [Obtainium — агрегатор закачек apk из разных источников](https://habr.com/ru/articles/813351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813351)
 - [Динамическая функция для генерации excel файла на Golang](https://habr.com/ru/articles/813335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813335)
-- [SwiftUI уроки &lpar;часть 11&rpar;](https://habr.com/ru/articles/811433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811433)
-- [Таких больше не делают: смотрим на шедевральный BlackBerry Priv. Как ежевичная компания сделала крутейший смартфон?](https://habr.com/ru/companies/timeweb/articles/812335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
