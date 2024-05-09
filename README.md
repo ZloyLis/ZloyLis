@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Таких больше не делают: смотрим на шедевральный BlackBerry Priv. Как ежевичная компания сделала крутейший смартфон?](https://habr.com/ru/companies/timeweb/articles/812335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812335)
 - [Room для Kotlin Multiplatform. Пробуем нативное решение](https://habr.com/ru/companies/usetech/articles/812453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812453)
 - [Путь в ИБ глазами управленца](https://habr.com/ru/articles/813239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813239)
 - [Спецификация уникальных идентификаторов UUIDv7 для ключей баз данных и распределенных систем по новому стандарту RFC9562](https://habr.com/ru/articles/813229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813229)
 - [Старые языки программирования, новые успехи: растёт популярность COBOL и Fortran](https://habr.com/ru/companies/ru_mts/articles/813207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813207)
-- [Как мы «подружили» цифровые продукты холдинга «Финам» с помощью дизайн-системы](https://habr.com/ru/companies/agima/articles/813173/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813173)
 <!-- BLOG-POST-LIST:END -->
 
 ---
