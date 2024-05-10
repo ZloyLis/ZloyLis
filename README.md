@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отрицание, торг и принятие работы над проектом без документации](https://habr.com/ru/articles/813411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813411)
 - [Матрицы Паули. Просто. Для обычной физики и графики](https://habr.com/ru/articles/813135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813135)
 - [Apple Power Nap](https://habr.com/ru/articles/813407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813407)
 - [Все про композитинг в X11 | Linux](https://habr.com/ru/articles/813341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813341)
 - [Как информативно оформить профиль на GitHub?](https://habr.com/ru/articles/813399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813399)
-- [[Перевод] Result builders in Swift](https://habr.com/ru/articles/813393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813393)
 <!-- BLOG-POST-LIST:END -->
 
 ---
