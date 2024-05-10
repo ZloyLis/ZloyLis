@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все про композитинг в X11 | Linux](https://habr.com/ru/articles/813341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813341)
+- [Как информативно оформить профиль на GitHub?](https://habr.com/ru/articles/813399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813399)
 - [[Перевод] Result builders in Swift](https://habr.com/ru/articles/813393/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813393)
 - [Решение головоломки из университетского квеста с помощью Python](https://habr.com/ru/articles/813389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813389)
 - [Есть ли смысл покупать курсы для вкатывания в IT](https://habr.com/ru/articles/813203/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813203)
-- [Как аналитик учился java log читать. Часть вторая: простые ошибки](https://habr.com/ru/articles/813363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813363)
-- [[Перевод] Storybook — генератор сказок с ИИ на Raspberry Pi 5 и 7-цветном дисплее E-Ink](https://habr.com/ru/articles/813355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813355)
 <!-- BLOG-POST-LIST:END -->
 
 ---
