@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы юнит-экономику считали и управленческий учет для маркетплейсов делали. Было сложно](https://habr.com/ru/articles/812713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812713)
 - [Как создать свой сборщик проектов](https://habr.com/ru/articles/813445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813445)
 - [Рыцари ордена True Tech: как Гильдия Архитекторов в МТС объединяет специалистов](https://habr.com/ru/specials/809797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809797)
 - [Прожарка. Форсайт аналитическая платформа + Fly Bi](https://habr.com/ru/articles/813441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813441)
 - [Отрицание, торг и принятие работы над проектом без документации](https://habr.com/ru/articles/813411/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813411)
-- [Матрицы Паули. Просто. Для обычной физики и графики](https://habr.com/ru/articles/813135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813135)
 <!-- BLOG-POST-LIST:END -->
 
 ---
