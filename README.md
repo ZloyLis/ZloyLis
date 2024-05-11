@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Коротко о том, почему Rust лучше C/C++](https://habr.com/ru/articles/813529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813529)
 - [Методы оптимизации в машинном и глубоком обучении. От простого к сложному](https://habr.com/ru/articles/813221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813221)
 - [[Перевод] Как можно случайно баллотироваться на пост президента Исландии?](https://habr.com/ru/companies/ruvds/articles/812767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812767)
 - [Как мы юнит-экономику считали и управленческий учет для маркетплейсов делали. Было сложно](https://habr.com/ru/articles/812713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812713)
 - [Как создать свой сборщик проектов](https://habr.com/ru/articles/813445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813445)
-- [Рыцари ордена True Tech: как Гильдия Архитекторов в МТС объединяет специалистов](https://habr.com/ru/specials/809797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809797)
 <!-- BLOG-POST-LIST:END -->
 
 ---
