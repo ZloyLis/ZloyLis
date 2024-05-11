@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему это красиво? Странный эксперимент со спиралью Фибоначчи](https://habr.com/ru/articles/813641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813641)
 - [Тосты – всплывающие уведомления. Как создать идеальный тост](https://habr.com/ru/articles/813577/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813577)
 - [Грейды в аналитике. Как быстро повысить свой грейд?](https://habr.com/ru/articles/813567/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813567)
 - [История создания API для курса валют](https://habr.com/ru/articles/813563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813563)
 - [Коротко о том, почему Rust лучше C/C++](https://habr.com/ru/articles/813529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813529)
-- [Методы оптимизации в машинном и глубоком обучении. От простого к сложному](https://habr.com/ru/articles/813221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813221)
 <!-- BLOG-POST-LIST:END -->
 
 ---
