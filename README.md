@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сложности перевода: баг, который говорил по-русски и ломал моё приложение](https://habr.com/ru/companies/ruvds/articles/813083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813083)
+- [Что нужно знать и уметь начинающему специалисту по ремонту ноутбуков? Часть 1](https://habr.com/ru/companies/selectel/articles/813655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813655)
 - [Связь решения СЛАУ и минимума квадратичного функционла. Часть 1](https://habr.com/ru/articles/813683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813683)
 - [Настройка связки VScode, OpenOCD, WCH-LinkE, Cortex-M](https://habr.com/ru/articles/813669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813669)
 - [Разными способами пишем игру «Камень-ножницы-бумага» на Python](https://habr.com/ru/articles/813665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813665)
-- [Ответ на «Коротко о том, почему Rust лучше C/C++» или меня не бомбит](https://habr.com/ru/articles/813645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813645)
-- [Почему это красиво? Странный эксперимент со спиралью Фибоначчи](https://habr.com/ru/articles/813641/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813641)
 <!-- BLOG-POST-LIST:END -->
 
 ---
