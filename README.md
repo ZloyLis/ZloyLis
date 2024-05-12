@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Типизированные массивы должны умереть](https://habr.com/ru/articles/813709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813709)
 - [Двигатели переменного тока – точные модели](https://habr.com/ru/articles/813727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813727)
 - [Математические бланки // Часть 1: введение в проблему](https://habr.com/ru/articles/793812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793812)
 - [Kotlin JS: непокоренная вершина VK](https://habr.com/ru/articles/813725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813725)
 - [[Перевод] Мега-Учебник Flask Глава 8: Подписчики &lpar;издание 2024&rpar;](https://habr.com/ru/articles/811791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811791)
-- [Парсинг математических выражений AngouriMath, DynamicExpresso и MathExpressionEval](https://habr.com/ru/articles/813703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813703)
 <!-- BLOG-POST-LIST:END -->
 
 ---
