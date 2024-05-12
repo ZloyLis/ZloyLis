@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсинг математических выражений AngouriMath, DynamicExpresso и MathExpressionEval](https://habr.com/ru/articles/813703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813703)
 - [Основы программирования на примере исходного кода MobX](https://habr.com/ru/articles/813647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813647)
 - [[Перевод] Сложности перевода: баг, который говорил по-русски и ломал моё приложение](https://habr.com/ru/companies/ruvds/articles/813083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813083)
 - [Что нужно знать и уметь начинающему специалисту по ремонту ноутбуков? Часть 1](https://habr.com/ru/companies/selectel/articles/813655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813655)
 - [Связь решения СЛАУ и минимума квадратичного функционла. Часть 1](https://habr.com/ru/articles/813683/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813683)
-- [Настройка связки VScode, OpenOCD, WCH-LinkE, Cortex-M](https://habr.com/ru/articles/813669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813669)
 <!-- BLOG-POST-LIST:END -->
 
 ---
