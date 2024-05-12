@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin JS: непокоренная вершина VK](https://habr.com/ru/articles/813725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813725)
 - [[Перевод] Мега-Учебник Flask Глава 8: Подписчики &lpar;издание 2024&rpar;](https://habr.com/ru/articles/811791/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811791)
 - [Парсинг математических выражений AngouriMath, DynamicExpresso и MathExpressionEval](https://habr.com/ru/articles/813703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813703)
 - [Основы программирования на примере исходного кода MobX](https://habr.com/ru/articles/813647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813647)
 - [[Перевод] Сложности перевода: баг, который говорил по-русски и ломал моё приложение](https://habr.com/ru/companies/ruvds/articles/813083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813083)
-- [Что нужно знать и уметь начинающему специалисту по ремонту ноутбуков? Часть 1](https://habr.com/ru/companies/selectel/articles/813655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813655)
 <!-- BLOG-POST-LIST:END -->
 
 ---
