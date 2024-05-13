@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неправильные ML-библиотеки, обфускация и кража аккаунтов Телеграм. Очищаем PyPI от вредоносных библиотек](https://habr.com/ru/companies/pt/articles/813837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813837)
+- [Ключи во Flutter](https://habr.com/ru/companies/surfstudio/articles/813939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813939)
 - [Как упавший сервер влияет на SEO и что делать, если страница исчезла из выдачи](https://habr.com/ru/companies/selectel/articles/813855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813855)
 - [Веб-скрапинг с Scrapy на Python](https://habr.com/ru/companies/otus/articles/812035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812035)
 - [CDC на примитивах](https://habr.com/ru/articles/812797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812797)
-- [Поле HTML-документа: для чего можно использовать](https://habr.com/ru/companies/lad_/articles/813177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813177)
-- [Виртуальный аватар без мокап-костюма или сказ о том, как Unreal Engine не хотел с API работать](https://habr.com/ru/articles/813865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813865)
 <!-- BLOG-POST-LIST:END -->
 
 ---
