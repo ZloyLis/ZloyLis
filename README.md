@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #537 &lpar;29 апреля — 12 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/813761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813761)
 - [Тестирование алгоритма деления больших чисел на С++ с использованием Python C API](https://habr.com/ru/articles/813751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813751)
 - [[Перевод] Типизированные массивы должны умереть](https://habr.com/ru/articles/813709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813709)
 - [Двигатели переменного тока – точные модели](https://habr.com/ru/articles/813727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813727)
 - [Математические бланки // Часть 1: введение в проблему](https://habr.com/ru/articles/793812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793812)
-- [Kotlin JS: непокоренная вершина VK](https://habr.com/ru/articles/813725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813725)
 <!-- BLOG-POST-LIST:END -->
 
 ---
