@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-скрапинг с Scrapy на Python](https://habr.com/ru/companies/otus/articles/812035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812035)
+- [CDC на примитивах](https://habr.com/ru/articles/812797/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812797)
+- [Поле HTML-документа: для чего можно использовать](https://habr.com/ru/companies/lad_/articles/813177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813177)
 - [Виртуальный аватар без мокап-костюма или сказ о том, как Unreal Engine не хотел с API работать](https://habr.com/ru/articles/813865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813865)
 - [Автостопом по дизайн-системе. Путеводитель с оглавлением](https://habr.com/ru/companies/ozontech/articles/797311/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797311)
-- [Паттерн Poison Pill в Java](https://habr.com/ru/companies/otus/articles/813385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813385)
-- [В Раменках школьники решают глобальные проблемы, пока вы скроллите ленту Хабра](https://habr.com/ru/articles/813831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813831)
-- [Как мы реализовали кнопку со свайпом на Jetpack Compose](https://habr.com/ru/companies/skbkontur/articles/811877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811877)
 <!-- BLOG-POST-LIST:END -->
 
 ---
