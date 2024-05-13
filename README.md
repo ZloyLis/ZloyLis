@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильная разработка за неделю #537 &lpar;29 апреля — 12 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/813761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813761)
-- [Тестирование алгоритма деления больших чисел на С++ с использованием Python C API](https://habr.com/ru/articles/813751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813751)
-- [[Перевод] Типизированные массивы должны умереть](https://habr.com/ru/articles/813709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813709)
-- [Двигатели переменного тока – точные модели](https://habr.com/ru/articles/813727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813727)
-- [Математические бланки // Часть 1: введение в проблему](https://habr.com/ru/articles/793812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=793812)
+- [PostgreSQL 16. Организация данных. Часть 1](https://habr.com/ru/articles/813781/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813781)
+- [[Перевод] Создаём плагин авторизации в Joomla 5 по e-mail](https://habr.com/ru/articles/809081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809081)
+- [Этот очаровательный Magic Flower. Самый весенний кейс на Dprofile](https://habr.com/ru/articles/813779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813779)
+- [Как стать тестировщиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/813749/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813749)
+- [Как быстро находить идеальные дизайн-решения в сложных задачах?](https://habr.com/ru/articles/813705/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813705)
 <!-- BLOG-POST-LIST:END -->
 
 ---
