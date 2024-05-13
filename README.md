@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автостопом по дизайн-системе. Путеводитель с оглавлением](https://habr.com/ru/companies/ozontech/articles/797311/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797311)
+- [Паттерн Poison Pill в Java](https://habr.com/ru/companies/otus/articles/813385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813385)
 - [В Раменках школьники решают глобальные проблемы, пока вы скроллите ленту Хабра](https://habr.com/ru/articles/813831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813831)
 - [Как мы реализовали кнопку со свайпом на Jetpack Compose](https://habr.com/ru/companies/skbkontur/articles/811877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811877)
 - [Карантин UI-тестов в iOS](https://habr.com/ru/companies/hh/articles/807351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807351)
-- [[Перевод] Ищем баги в коде браузера при помощи фаззинга](https://habr.com/ru/articles/813435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813435)
-- [«IT-Планета 2024»: задачи второго этапа по PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/808211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
