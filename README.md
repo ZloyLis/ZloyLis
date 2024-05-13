@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 16. Организация данных. Часть 1](https://habr.com/ru/articles/813781/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813781)
-- [[Перевод] Создаём плагин авторизации в Joomla 5 по e-mail](https://habr.com/ru/articles/809081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809081)
-- [Этот очаровательный Magic Flower. Самый весенний кейс на Dprofile](https://habr.com/ru/articles/813779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813779)
-- [Как стать тестировщиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/813749/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813749)
-- [Как быстро находить идеальные дизайн-решения в сложных задачах?](https://habr.com/ru/articles/813705/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813705)
+- [В Раменках школьники решают глобальные проблемы, пока вы скроллите ленту Хабра](https://habr.com/ru/articles/813831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813831)
+- [Как мы реализовали кнопку со свайпом на Jetpack Compose](https://habr.com/ru/companies/skbkontur/articles/811877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811877)
+- [Карантин UI-тестов в iOS](https://habr.com/ru/companies/hh/articles/807351/?utm_source=habrahabr&utm_medium=rss&utm_campaign=807351)
+- [[Перевод] Ищем баги в коде браузера при помощи фаззинга](https://habr.com/ru/articles/813435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813435)
+- [«IT-Планета 2024»: задачи второго этапа по PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/808211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
