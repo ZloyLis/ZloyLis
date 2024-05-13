@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаём плагин авторизации в Joomla 5 по e-mail](https://habr.com/ru/articles/809079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809079)
 - [Написал книгу по C#](https://habr.com/ru/articles/813973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813973)
 - [Трек Evasion на PHDays Fest 2. Цели, смыслы и как это будет](https://habr.com/ru/companies/pt/articles/813805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813805)
 - [Ключи во Flutter](https://habr.com/ru/companies/surfstudio/articles/813939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813939)
 - [Как упавший сервер влияет на SEO и что делать, если страница исчезла из выдачи](https://habr.com/ru/companies/selectel/articles/813855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813855)
-- [Веб-скрапинг с Scrapy на Python](https://habr.com/ru/companies/otus/articles/812035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
