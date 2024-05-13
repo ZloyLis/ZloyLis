@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Копаемся в встроенном приложении камеры старого Xiaomi. Часть 2](https://habr.com/ru/articles/814049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814049)
+- [Apple Pro Weekly News &lpar;06.05 – 12.05.24&rpar;](https://habr.com/ru/articles/814043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814043)
 - [[Перевод] Создаём плагин авторизации в Joomla 5 по e-mail](https://habr.com/ru/articles/809079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809079)
 - [Написал книгу по C#](https://habr.com/ru/articles/813973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813973)
 - [Трек Evasion на PHDays Fest 2. Цели, смыслы и как это будет](https://habr.com/ru/companies/pt/articles/813805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813805)
-- [Ключи во Flutter](https://habr.com/ru/companies/surfstudio/articles/813939/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813939)
-- [Как упавший сервер влияет на SEO и что делать, если страница исчезла из выдачи](https://habr.com/ru/companies/selectel/articles/813855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813855)
 <!-- BLOG-POST-LIST:END -->
 
 ---
