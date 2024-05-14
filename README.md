@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Скоро в России может появиться спутниковый интернет для смартфонов](https://habr.com/ru/companies/x-com/articles/814131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814131)
+- [Нагрузочное тестирование для интернет-магазина](https://habr.com/ru/articles/814119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814119)
 - [Тенденции адаптивного и инклюзивного дизайна: доступность для всех пользователей](https://habr.com/ru/companies/nlmk/articles/800463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800463)
 - [Криптография на службе у stateless](https://habr.com/ru/companies/nspk/articles/808199/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808199)
 - [SwiftUI: наконец-то пора? Опыт разработки на SwiftUI в контексте UIKit приложения](https://habr.com/ru/companies/leroy_merlin/articles/813979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813979)
-- [5 библиотек и фреймворков Java, крайне полезных для разработчика](https://habr.com/ru/companies/sberbank/articles/813931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813931)
-- [Как зарегистрировать Apple Developer в App Store для физических лиц. Гайд 2024 года](https://habr.com/ru/articles/814085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814085)
 <!-- BLOG-POST-LIST:END -->
 
 ---
