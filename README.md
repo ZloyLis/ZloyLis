@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мокирование как хорошая практика тестирования фронтенда](https://habr.com/ru/companies/2gis/articles/812163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812163)
+- [Генерация OpenAPI из Spring Boot MVC](https://habr.com/ru/articles/814061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814061)
+- [А зачем это бизнесу? Экономическое обоснование использования ML для прогнозирования спроса на ж/д](https://habr.com/ru/companies/pgk/articles/814121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814121)
 - [Неправильные ML-библиотеки, обфускация и кража аккаунтов Телеграм. Очищаем PyPI от вредоносных библиотек](https://habr.com/ru/companies/pt/articles/813977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813977)
 - [11 мгновений ReactOS: user mode становится лучше?](https://habr.com/ru/companies/pvs-studio/articles/814173/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814173)
-- [Новый релиз большого интерактивного «столетнего» учебника по тестированию](https://habr.com/ru/articles/814133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814133)
-- [Навигация в приложениях Flutter: разбираем Navigator, Router и лучшие библиотеки](https://habr.com/ru/articles/814013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814013)
-- [Prompt engineering — путь к эффективной работе с ChatGPT](https://habr.com/ru/companies/oleg-bunin/articles/813853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813853)
 <!-- BLOG-POST-LIST:END -->
 
 ---
