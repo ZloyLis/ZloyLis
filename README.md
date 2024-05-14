@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неизвестно полезный CSS. Часть 3](https://habr.com/ru/companies/ruvds/articles/812991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812991)
+- [Книга: «C++20 для программистов»](https://habr.com/ru/companies/piter/articles/814169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814169)
 - [Транскодирование — видеоконтент на диете. Часть 1](https://habr.com/ru/companies/cdnnow/articles/814253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814253)
 - [Мокирование как хорошая практика тестирования фронтенда](https://habr.com/ru/companies/2gis/articles/812163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812163)
 - [Генерация OpenAPI из Spring Boot MVC](https://habr.com/ru/articles/814061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814061)
-- [А зачем это бизнесу? Экономическое обоснование использования ML для прогнозирования спроса на ж/д](https://habr.com/ru/companies/pgk/articles/814121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814121)
-- [Неправильные ML-библиотеки, обфускация и кража аккаунтов Телеграм. Очищаем PyPI от вредоносных библиотек](https://habr.com/ru/companies/pt/articles/813977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813977)
 <!-- BLOG-POST-LIST:END -->
 
 ---
