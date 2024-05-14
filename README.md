@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт публикации Андроид приложения в Google Play независимым разработчиком в 2024 году](https://habr.com/ru/articles/814025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814025)
 - [Security Week 2420: эксплуатация уязвимостей в ПО](https://habr.com/ru/companies/kaspersky/articles/814065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814065)
 - [[Перевод] Прокси для Discord CDN](https://habr.com/ru/articles/814063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814063)
 - [Копаемся в встроенном приложении камеры старого Xiaomi. Часть 2](https://habr.com/ru/articles/814049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814049)
 - [Apple Pro Weekly News &lpar;06.05 – 12.05.24&rpar;](https://habr.com/ru/articles/814043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814043)
-- [[Перевод] Создаём плагин авторизации в Joomla 5 по e-mail](https://habr.com/ru/articles/809079/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809079)
 <!-- BLOG-POST-LIST:END -->
 
 ---
