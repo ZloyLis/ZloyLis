@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тенденции адаптивного и инклюзивного дизайна: доступность для всех пользователей](https://habr.com/ru/companies/nlmk/articles/800463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800463)
+- [Криптография на службе у stateless](https://habr.com/ru/companies/nspk/articles/808199/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808199)
+- [SwiftUI: наконец-то пора? Опыт разработки на SwiftUI в контексте UIKit приложения](https://habr.com/ru/companies/leroy_merlin/articles/813979/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813979)
+- [5 библиотек и фреймворков Java, крайне полезных для разработчика](https://habr.com/ru/companies/sberbank/articles/813931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813931)
 - [Как зарегистрировать Apple Developer в App Store для физических лиц. Гайд 2024 года](https://habr.com/ru/articles/814085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814085)
-- [Опыт публикации Андроид приложения в Google Play независимым разработчиком в 2024 году](https://habr.com/ru/articles/814025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814025)
-- [Security Week 2420: эксплуатация уязвимостей в ПО](https://habr.com/ru/companies/kaspersky/articles/814065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814065)
-- [[Перевод] Прокси для Discord CDN](https://habr.com/ru/articles/814063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814063)
-- [Копаемся в встроенном приложении камеры старого Xiaomi. Часть 2](https://habr.com/ru/articles/814049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
