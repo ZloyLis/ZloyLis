@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неправильные ML-библиотеки, обфускация и кража аккаунтов Телеграм. Очищаем PyPI от вредоносных библиотек](https://habr.com/ru/companies/pt/articles/813977/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813977)
+- [11 мгновений ReactOS: user mode становится лучше?](https://habr.com/ru/companies/pvs-studio/articles/814173/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814173)
+- [Новый релиз большого интерактивного «столетнего» учебника по тестированию](https://habr.com/ru/articles/814133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814133)
 - [Навигация в приложениях Flutter: разбираем Navigator, Router и лучшие библиотеки](https://habr.com/ru/articles/814013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814013)
 - [Prompt engineering — путь к эффективной работе с ChatGPT](https://habr.com/ru/companies/oleg-bunin/articles/813853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813853)
-- [Скоро в России может появиться спутниковый интернет для смартфонов](https://habr.com/ru/companies/x-com/articles/814131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814131)
-- [Нагрузочное тестирование для интернет-магазина](https://habr.com/ru/articles/814119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814119)
-- [Тенденции адаптивного и инклюзивного дизайна: доступность для всех пользователей](https://habr.com/ru/companies/nlmk/articles/800463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800463)
 <!-- BLOG-POST-LIST:END -->
 
 ---
