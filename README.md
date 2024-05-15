@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Nim в мире дикого фронтенда](https://habr.com/ru/articles/814627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814627)
 - [[Перевод] Реализуем балансировку нагрузки на сервер с помощью Envoy и gRPC API на Kotlin](https://habr.com/ru/companies/otus/articles/814615/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814615)
 - [Обзор Huawei Pura 70 Ultra. Чем интересен новый флагман Huawei и какие технологии в нём применяются](https://habr.com/ru/specials/814593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814593)
 - [Асинхронный веб: WebSocket, Server-Sent Events, Long Polling и Short Polling](https://habr.com/ru/articles/812693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812693)
 - [Генерация надёжных псевдослучайных чисел с ChaCha8Rand в Go](https://habr.com/ru/companies/otus/articles/812593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812593)
-- [Платформа А/В-экспериментов: история про то, как делать сервисы лучше](https://habr.com/ru/companies/docdoc/articles/814415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814415)
 <!-- BLOG-POST-LIST:END -->
 
 ---
