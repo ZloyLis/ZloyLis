@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я синхронизировал координаты персонажа на сервере в Lineage 2 на Node.js](https://habr.com/ru/articles/814529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814529)
 - [Как построить и продать API](https://habr.com/ru/companies/ru_mts/articles/814493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814493)
 - [Фокус на безопасность мобильных приложений](https://habr.com/ru/companies/swordfish_security/articles/814355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814355)
 - [Книга: «Сам себе тестировщик. Пошаговое руководство по тестированию ПО»](https://habr.com/ru/companies/piter/articles/814281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814281)
 - [ChatGPT + YandexGPT API = ЛЮБОФ. Часть 1](https://habr.com/ru/companies/ods/articles/813315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813315)
-- [[Перевод] Вышел Dart 3.4](https://habr.com/ru/companies/friflex/articles/814371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814371)
 <!-- BLOG-POST-LIST:END -->
 
 ---
