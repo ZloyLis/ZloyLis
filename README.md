@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как замерять и повышать производительность Java-кода: личный пример с JMH](https://habr.com/ru/companies/sberbank/articles/814299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814299)
-- [Интеллект-карта с вопросами для подготовки к собеседованию Junior QA](https://habr.com/ru/articles/814379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814379)
-- [Проекты, хакатоны, общение — что поможет начинающему разработчику набраться опыта](https://habr.com/ru/companies/yandex_praktikum/articles/814135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814135)
-- [Демо: Поиск на GitHub с помощью Manticore Search](https://habr.com/ru/articles/796813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796813)
-- [Тестовое задание с Emfy — PHP разработчик](https://habr.com/ru/articles/814377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814377)
+- [ChatGPT + YandexGPT API = ЛЮБОФ. Часть 1](https://habr.com/ru/companies/ods/articles/813315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813315)
+- [[Перевод] Вышел Dart 3.4](https://habr.com/ru/companies/friflex/articles/814371/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814371)
+- [Гейминг за 300: как я купил и оживил дешевую игровую консоль на Android. Можно ли поиграть, сэкономив на шаурме?](https://habr.com/ru/companies/timeweb/articles/814059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814059)
+- [Что такое WAF и как с ним работать. Показываем на примере уязвимого веб-приложения](https://habr.com/ru/companies/selectel/articles/814183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814183)
+- [[Перевод] Flutter 3.22 — Что нового во Flutter?](https://habr.com/ru/articles/814417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814417)
 <!-- BLOG-POST-LIST:END -->
 
 ---
