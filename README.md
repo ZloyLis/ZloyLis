@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Самое важное про Android-разработку с developer keynote конференции Google I/O](https://habr.com/ru/companies/kts/articles/814363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814363)
+- [Проекты, хакатоны, общение — что поможет начинающему разработчику набраться опыта](https://habr.com/ru/companies/yandex_praktikum/articles/814135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814135)
+- [Демо: Поиск на GitHub с помощью Manticore Search](https://habr.com/ru/articles/796813/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796813)
+- [Тестовое задание с Emfy — PHP разработчик](https://habr.com/ru/articles/814377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814377)
+- [Самое важное про Android-разработку с developer keynote конференции Google I/O 2024](https://habr.com/ru/companies/kts/articles/814363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814363)
 - [Ecodomen.ru — агрегатор регистраторов доменных имен](https://habr.com/ru/articles/814305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814305)
-- [Как мы делаем канареечный деплой в PaaS](https://habr.com/ru/companies/sbermarket/articles/813029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813029)
-- [Неизвестно полезный CSS. Часть 3](https://habr.com/ru/companies/ruvds/articles/812991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812991)
-- [Книга: «C++20 для программистов»](https://habr.com/ru/companies/piter/articles/814169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814169)
 <!-- BLOG-POST-LIST:END -->
 
 ---
