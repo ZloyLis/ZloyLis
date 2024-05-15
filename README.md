@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа А/В-экспериментов: история про то, как делать сервисы лучше](https://habr.com/ru/companies/docdoc/articles/814415/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814415)
+- [Создаём свою стример-тян из зефира и палок](https://habr.com/ru/articles/812387/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812387)
+- [Почему я верю в востребованность кроссплатформы и Flutter в частности?](https://habr.com/ru/companies/betboom/articles/812773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812773)
+- [DivKit теперь и для Flutter. Рассказываем об особенностях BDUI-фреймворка Яндекса](https://habr.com/ru/companies/yandex/articles/814187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814187)
 - [Как я синхронизировал координаты персонажа на сервере в Lineage 2 на Node.js](https://habr.com/ru/articles/814529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814529)
-- [Как построить и продать API](https://habr.com/ru/companies/ru_mts/articles/814493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814493)
-- [Фокус на безопасность мобильных приложений](https://habr.com/ru/companies/swordfish_security/articles/814355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814355)
-- [Книга: «Сам себе тестировщик. Пошаговое руководство по тестированию ПО»](https://habr.com/ru/companies/piter/articles/814281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814281)
-- [ChatGPT + YandexGPT API = ЛЮБОФ. Часть 1](https://habr.com/ru/companies/ods/articles/813315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813315)
 <!-- BLOG-POST-LIST:END -->
 
 ---
