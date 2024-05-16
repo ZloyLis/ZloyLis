@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бутстрап временных рядов](https://habr.com/ru/companies/X5Tech/articles/814579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814579)
-- [Проверка игрового движка qdEngine, часть третья: дополнительная десятка багов](https://habr.com/ru/companies/pvs-studio/articles/814821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814821)
-- [Что значит быть хорошим разработчиком: 11 полезных советов от сеньора](https://habr.com/ru/companies/netologyru/articles/814819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814819)
-- [С какого курса начать обучение программированию для детей? Голосование](https://habr.com/ru/articles/814811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814811)
-- [[Перевод] React.js: Знакомимся с useReducer, Axios и JSON Server на примере создания инвентарного списка](https://habr.com/ru/companies/otus/articles/814771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814771)
+- [Атрибут aria-disabled](https://habr.com/ru/articles/814867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814867)
+- [Книга: «Laravel. Полное руководство. 3-е издание»](https://habr.com/ru/companies/piter/articles/814805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814805)
+- [Префиксы is, has, can, should… в нейминге переменных и функций](https://habr.com/ru/articles/814859/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814859)
+- [Рассвет и закат мобильного программирования](https://habr.com/ru/articles/814855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814855)
+- [[Перевод] Джун Ха: ход конём из поэта в великие математики](https://habr.com/ru/companies/cloud4y/articles/814847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
