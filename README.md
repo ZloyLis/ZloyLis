@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитик SOC: про скилы, карьерный рост и… медведей](https://habr.com/ru/companies/pt/articles/814715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814715)
+- [Магия перестала быть магией и превратилась в технологию](https://habr.com/ru/companies/oleg-bunin/articles/814539/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814539)
+- [Разбираемся в серверных и клиентских компонентах в Next.js: когда, как и почему?](https://habr.com/ru/companies/fuse8/articles/814757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814757)
+- [Мощный инструмент для работы с GCOV покрытием кода C/C++](https://habr.com/ru/articles/814743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814743)
 - [userver 2.0 — большой релиз фреймворка для IO-bound программ](https://habr.com/ru/companies/yandex/articles/813115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813115)
-- [Кто ещё здесь не разрабатывал русский BI?](https://habr.com/ru/articles/814731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814731)
-- [Как мы работаем со Stateful в Kubernetes: особенности и подводные камни](https://habr.com/ru/companies/flant/articles/809377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809377)
-- [[Перевод] Spring AI: оптимизация разработки AI-приложений с помощью Java и AI API](https://habr.com/ru/companies/otus/articles/814713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814713)
-- [Про важность дизайн-ревью в продуктовом процессе](https://habr.com/ru/articles/814709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814709)
 <!-- BLOG-POST-LIST:END -->
 
 ---
