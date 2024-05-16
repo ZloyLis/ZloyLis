@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Wasm на весь стек — движемся от клиента к серверу с использованием Leptos, Rust и Spin](https://habr.com/ru/companies/timeweb/articles/814767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814767)
 - [Атрибут aria-disabled](https://habr.com/ru/articles/814867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814867)
 - [Книга: «Laravel. Полное руководство. 3-е издание»](https://habr.com/ru/companies/piter/articles/814805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814805)
 - [Префиксы is, has, can, should… в нейминге переменных и функций](https://habr.com/ru/articles/814859/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814859)
 - [Рассвет и закат мобильного программирования](https://habr.com/ru/articles/814855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814855)
-- [[Перевод] Джун Ха: ход конём из поэта в великие математики](https://habr.com/ru/companies/cloud4y/articles/814847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814847)
 <!-- BLOG-POST-LIST:END -->
 
 ---
