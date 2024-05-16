@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многообразие связных списков](https://habr.com/ru/articles/814955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814955)
 - [[Перевод] Освоение Enum в Java: Руководство для разработчиков](https://habr.com/ru/companies/otus/articles/814787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814787)
 - [[Перевод] Wasm на весь стек — движемся от клиента к серверу с использованием Leptos, Rust и Spin](https://habr.com/ru/companies/timeweb/articles/814767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814767)
 - [Атрибут aria-disabled](https://habr.com/ru/articles/814867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814867)
 - [Книга: «Laravel. Полное руководство. 3-е издание»](https://habr.com/ru/companies/piter/articles/814805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814805)
-- [Префиксы is, has, can, should… в нейминге переменных и функций](https://habr.com/ru/articles/814859/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814859)
 <!-- BLOG-POST-LIST:END -->
 
 ---
