@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы работаем со Stateful в Kubernetes: особенности и подводные камни](https://habr.com/ru/companies/flant/articles/809377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809377)
+- [[Перевод] Spring AI: оптимизация разработки AI-приложений с помощью Java и AI API](https://habr.com/ru/companies/otus/articles/814713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814713)
+- [Про важность дизайн-ревью в продуктовом процессе](https://habr.com/ru/articles/814709/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814709)
 - [Как зарегистрировать Apple Developer в App Store для юридических лиц. Самый подробный гайд 2024 года](https://habr.com/ru/articles/814699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814699)
 - [Поступление в магистратуру: как не сдавать вступительные экзамены](https://habr.com/ru/articles/814695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814695)
-- [React Conf 2024. React v19](https://habr.com/ru/articles/814671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814671)
-- [[Перевод] Добавляем объём в visionOS-приложение](https://habr.com/ru/companies/otus/articles/814605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814605)
-- [[Перевод] Flutter 3.22: что нового](https://habr.com/ru/companies/friflex/articles/814637/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814637)
 <!-- BLOG-POST-LIST:END -->
 
 ---
