@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React Conf 2024. React v19](https://habr.com/ru/articles/814671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814671)
 - [[Перевод] Добавляем объём в visionOS-приложение](https://habr.com/ru/companies/otus/articles/814605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814605)
 - [[Перевод] Flutter 3.22: что нового](https://habr.com/ru/companies/friflex/articles/814637/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814637)
 - [Nim в мире дикого фронтенда](https://habr.com/ru/articles/814627/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814627)
 - [[Перевод] Реализуем балансировку нагрузки на сервер с помощью Envoy и gRPC API на Kotlin](https://habr.com/ru/companies/otus/articles/814615/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814615)
-- [Обзор Huawei Pura 70 Ultra. Чем интересен новый флагман Huawei и какие технологии в нём применяются](https://habr.com/ru/specials/814593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814593)
 <!-- BLOG-POST-LIST:END -->
 
 ---
