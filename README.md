@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я доказывал Google, что мне нужны данные юзеров, но я не скамер](https://habr.com/ru/companies/alfa/articles/811835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811835)
-- [Диаграмма последовательности](https://habr.com/ru/articles/814769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814769)
-- [Postgres Pro Shardman: горизонтальное масштабирование реляционных СУБД](https://habr.com/ru/companies/postgrespro/articles/811041/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811041)
-- [Почему Python на самом деле не универсален](https://habr.com/ru/companies/skillfactory/articles/814755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814755)
-- [Аналитик SOC: про скилы, карьерный рост и… медведей](https://habr.com/ru/companies/pt/articles/814715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814715)
+- [Бутстрап временных рядов](https://habr.com/ru/companies/X5Tech/articles/814579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814579)
+- [Проверка игрового движка qdEngine, часть третья: дополнительная десятка багов](https://habr.com/ru/companies/pvs-studio/articles/814821/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814821)
+- [Что значит быть хорошим разработчиком: 11 полезных советов от сеньора](https://habr.com/ru/companies/netologyru/articles/814819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814819)
+- [С какого курса начать обучение программированию для детей? Голосование](https://habr.com/ru/articles/814811/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814811)
+- [[Перевод] React.js: Знакомимся с useReducer, Axios и JSON Server на примере создания инвентарного списка](https://habr.com/ru/companies/otus/articles/814771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814771)
 <!-- BLOG-POST-LIST:END -->
 
 ---
