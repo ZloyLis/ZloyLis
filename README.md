@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я доказывал Google, что мне нужны данные юзеров, но я не скамер](https://habr.com/ru/companies/alfa/articles/811835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811835)
+- [Диаграмма последовательности](https://habr.com/ru/articles/814769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814769)
+- [Postgres Pro Shardman: горизонтальное масштабирование реляционных СУБД](https://habr.com/ru/companies/postgrespro/articles/811041/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811041)
+- [Почему Python на самом деле не универсален](https://habr.com/ru/companies/skillfactory/articles/814755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814755)
 - [Аналитик SOC: про скилы, карьерный рост и… медведей](https://habr.com/ru/companies/pt/articles/814715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814715)
-- [Магия перестала быть магией и превратилась в технологию](https://habr.com/ru/companies/oleg-bunin/articles/814539/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814539)
-- [Разбираемся в серверных и клиентских компонентах в Next.js: когда, как и почему?](https://habr.com/ru/companies/fuse8/articles/814757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814757)
-- [Мощный инструмент для работы с GCOV покрытием кода C/C++](https://habr.com/ru/articles/814743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814743)
-- [userver 2.0 — большой релиз фреймворка для IO-bound программ](https://habr.com/ru/companies/yandex/articles/813115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813115)
 <!-- BLOG-POST-LIST:END -->
 
 ---
