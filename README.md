@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Популярные ошибки в Golang и как их избежать](https://habr.com/ru/companies/avito/articles/813697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813697)
-- [Полезные практики написания поддерживаемого кода на PHP](https://habr.com/ru/articles/814995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814995)
-- [Ансамблевое обучение для самых маленьких](https://habr.com/ru/articles/814981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814981)
-- [Как написать свой клиент для YouTube, не привлекая внимания санитаров](https://habr.com/ru/articles/814971/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814971)
-- [Многообразие связных списков](https://habr.com/ru/articles/814955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814955)
+- [[Перевод] Когда целый день программировал на Zig: впечатления Rust-энтузиаста](https://habr.com/ru/companies/piter/articles/814831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814831)
+- [Теперь я препод. Небольшой отзыв о первом опыте преподавания в Сириусе](https://habr.com/ru/articles/815025/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815025)
+- [Вышла werf 2.0: новый движок развёртывания Nelm и 300+ релизов за четыре года](https://habr.com/ru/companies/flant/articles/815023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815023)
+- [«Ящик Пандоры» или из чего состоит планировщик запросов СУБД Greenplum](https://habr.com/ru/companies/bft/articles/814023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814023)
+- [Рецепты «приготовления» Hibernate, или решаем 5 проблем работы с фреймворком](https://habr.com/ru/companies/magnit/articles/814573/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814573)
 <!-- BLOG-POST-LIST:END -->
 
 ---
