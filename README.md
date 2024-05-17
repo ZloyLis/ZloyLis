@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разбираемся с паттерном REPR в ASP.NET Core](https://habr.com/ru/companies/otus/articles/815159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815159)
 - [Тесты на дженериках: пишем кода в 3 раза меньше. Параметризация AssertJ и сравнение Json](https://habr.com/ru/articles/815151/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815151)
 - [Дневник альтруиста. dfu-util](https://habr.com/ru/articles/792726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792726)
 - [[Перевод] Освоение журналов аудита Kubernetes](https://habr.com/ru/articles/815119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815119)
 - [Интуитивное понимание пространств и ядер в машинном обучении: Часть 1](https://habr.com/ru/articles/814343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814343)
-- [Большой обзор обновлений iOS и Android](https://habr.com/ru/articles/815111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815111)
 <!-- BLOG-POST-LIST:END -->
 
 ---
