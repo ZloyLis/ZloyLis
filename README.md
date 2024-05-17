@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815083)
+- [Обзор API для нейросети Midjourney](https://habr.com/ru/articles/815081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815081)
 - [Распределенная трассировка с Jaeger и Clickhouse](https://habr.com/ru/companies/oleg-bunin/articles/814877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814877)
 - [Пакетируем легко и просто с помощью Lerna](https://habr.com/ru/companies/uzum/articles/814773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814773)
 - [Путь Frontend разработчика. Как им стать? &lpar;Часть 1. Основы&rpar;](https://habr.com/ru/articles/815057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815057)
-- [Миграция пеликанов в облака: как реализовать сложный орнитологический проект на базе облачной платформы. Часть 1](https://habr.com/ru/companies/vk/articles/815015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815015)
-- [[Перевод] Когда целый день программировал на Zig: впечатления Rust-энтузиаста](https://habr.com/ru/companies/piter/articles/814831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814831)
 <!-- BLOG-POST-LIST:END -->
 
 ---
