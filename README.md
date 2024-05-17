@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дневник альтруиста. dfu-util](https://habr.com/ru/articles/792726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792726)
+- [[Перевод] Освоение журналов аудита Kubernetes](https://habr.com/ru/articles/815119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815119)
+- [Интуитивное понимание пространств и ядер в машинном обучении: Часть 1](https://habr.com/ru/articles/814343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814343)
+- [Большой обзор обновлений iOS и Android](https://habr.com/ru/articles/815111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815111)
 - [[Перевод] Как использовать GitHub Copilot в IDE: советы, приёмы и лучшие практики](https://habr.com/ru/companies/otus/articles/815083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815083)
-- [Обзор API для нейросети Midjourney](https://habr.com/ru/articles/815081/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815081)
-- [Распределенная трассировка с Jaeger и Clickhouse](https://habr.com/ru/companies/oleg-bunin/articles/814877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814877)
-- [Пакетируем легко и просто с помощью Lerna](https://habr.com/ru/companies/uzum/articles/814773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814773)
-- [Путь Frontend разработчика. Как им стать? &lpar;Часть 1. Основы&rpar;](https://habr.com/ru/articles/815057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815057)
 <!-- BLOG-POST-LIST:END -->
 
 ---
