@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ансамблевое обучение для самых маленьких](https://habr.com/ru/articles/814981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814981)
 - [Как написать свой клиент для YouTube, не привлекая внимания санитаров](https://habr.com/ru/articles/814971/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814971)
 - [Многообразие связных списков](https://habr.com/ru/articles/814955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814955)
 - [[Перевод] Освоение Enum в Java: Руководство для разработчиков](https://habr.com/ru/companies/otus/articles/814787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814787)
 - [[Перевод] Wasm на весь стек — движемся от клиента к серверу с использованием Leptos, Rust и Spin](https://habr.com/ru/companies/timeweb/articles/814767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814767)
-- [HTML: атрибут aria-disabled](https://habr.com/ru/articles/814867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814867)
 <!-- BLOG-POST-LIST:END -->
 
 ---
