@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли устроиться на работу тестировщиком после курсов? Что они дают?](https://habr.com/ru/articles/815327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815327)
 - [PostgreSQL 16. Изоляция транзакций. Часть 2](https://habr.com/ru/articles/815323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815323)
 - [Хабр, GPT, корпоративные блоги и БМЛы: оцениваем глубины ужаса](https://habr.com/ru/articles/815309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815309)
 - [Flutter и натив. Пример с Яндекс OAuth](https://habr.com/ru/articles/815313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815313)
 - [[Перевод] Анимации CSS, основанные на времени](https://habr.com/ru/articles/815293/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815293)
-- [Комбинированная авторизация в Spring Security: Социальные сети и логин через username/password](https://habr.com/ru/articles/815285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815285)
 <!-- BLOG-POST-LIST:END -->
 
 ---
