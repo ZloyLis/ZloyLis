@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Второй пошел: Google опубликовала новую бета-версию Android 15](https://habr.com/ru/companies/selectel/articles/815221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815221)
+- [[Перевод] Реверс-инжиниринг нативно скомпилированных .NET-приложений](https://habr.com/ru/companies/timeweb/articles/815209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815209)
+- [SwiftUI уроки &lpar;часть 12&rpar;](https://habr.com/ru/articles/813437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813437)
+- [[Перевод] Почему я отказался от разработки игр на Rust, часть 3](https://habr.com/ru/articles/813139/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813139)
 - [Supercat Store — новый менеджер состояний на JavaScript](https://habr.com/ru/articles/815229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815229)
-- [КодоГенератор Линейных Отображений &lpar;как ускорить создание ASIC драйвера&rpar;](https://habr.com/ru/articles/814969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814969)
-- [HTML: атрибут accept](https://habr.com/ru/articles/815219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815219)
-- [Что нам показывают карты](https://habr.com/ru/companies/citydrive/articles/815217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815217)
-- [Поэтапный гайд Android-разработчика с нуля](https://habr.com/ru/articles/814933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814933)
 <!-- BLOG-POST-LIST:END -->
 
 ---
