@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Комбинированная авторизация в Spring Security: Социальные сети и логин через username/password](https://habr.com/ru/articles/815285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815285)
 - [Современный RPG — что может и зачем нужен](https://habr.com/ru/articles/813015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813015)
 - [Анализ рынка акций мировых компаний на брокерской платформе Tinkoff Инвестиции](https://habr.com/ru/articles/815265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815265)
 - [Как стать нормальным системным администратором?](https://habr.com/ru/articles/815263/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815263)
 - [Многогранная аналитика в ИТ: от понимания потребностей до оптимизации процессов](https://habr.com/ru/articles/813391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813391)
-- [[Перевод] Переворачиваем список целых чисел](https://habr.com/ru/companies/ncloudtech/articles/815059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815059)
 <!-- BLOG-POST-LIST:END -->
 
 ---
