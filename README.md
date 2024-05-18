@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercat Store — новый менеджер состояний на JavaScript](https://habr.com/ru/articles/815229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815229)
 - [КодоГенератор Линейных Отображений &lpar;как ускорить создание ASIC драйвера&rpar;](https://habr.com/ru/articles/814969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814969)
 - [HTML: атрибут accept](https://habr.com/ru/articles/815219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815219)
 - [Что нам показывают карты](https://habr.com/ru/companies/citydrive/articles/815217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815217)
 - [Поэтапный гайд Android-разработчика с нуля](https://habr.com/ru/articles/814933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814933)
-- [Реализация приложения для отслеживания самочувствия &lpar;Telegram bot&rpar;](https://habr.com/ru/articles/815181/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815181)
 <!-- BLOG-POST-LIST:END -->
 
 ---
