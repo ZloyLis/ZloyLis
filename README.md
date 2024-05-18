@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современный RPG — что может и зачем нужен](https://habr.com/ru/articles/813015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813015)
+- [Анализ рынка акций мировых компаний на брокерской платформе Tinkoff Инвестиции](https://habr.com/ru/articles/815265/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815265)
+- [Как стать нормальным системным администратором?](https://habr.com/ru/articles/815263/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815263)
 - [Многогранная аналитика в ИТ: от понимания потребностей до оптимизации процессов](https://habr.com/ru/articles/813391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813391)
 - [[Перевод] Переворачиваем список целых чисел](https://habr.com/ru/companies/ncloudtech/articles/815059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815059)
-- [Второй пошел: Google опубликовала новую бета-версию Android 15](https://habr.com/ru/companies/selectel/articles/815221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815221)
-- [[Перевод] Реверс-инжиниринг нативно скомпилированных .NET-приложений](https://habr.com/ru/companies/timeweb/articles/815209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815209)
-- [SwiftUI уроки &lpar;часть 12&rpar;](https://habr.com/ru/articles/813437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
