@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мега-Учебник Flask Глава 9: Разбивка на страницы &lpar;издание 2024&rpar;](https://habr.com/ru/articles/815427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815427)
+- [Слежка через пуш-уведомления на смартфонах](https://habr.com/ru/companies/globalsign/articles/815425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815425)
 - [Как использовать Python в нативном Android приложении. Мой опыт](https://habr.com/ru/articles/815413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815413)
 - [[Перевод] Разбираемся с coroutine в Kotlin — 1](https://habr.com/ru/articles/815407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815407)
 - [Как перейти с Oracle на PostgreSQL, используя Ora2Pg](https://habr.com/ru/companies/otus/articles/814041/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814041)
-- [[Перевод] Почему для меня так важен алгоритм CORDIC](https://habr.com/ru/companies/ruvds/articles/814733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814733)
-- [Улучшение простого чат-бота: концепция системы команд](https://habr.com/ru/articles/815335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815335)
 <!-- BLOG-POST-LIST:END -->
 
 ---
