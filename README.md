@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему для меня так важен алгоритм CORDIC](https://habr.com/ru/companies/ruvds/articles/814733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814733)
+- [Улучшение простого чат-бота: концепция системы команд](https://habr.com/ru/articles/815335/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815335)
+- [Создаем собственные линтеры в Rust с DyLint](https://habr.com/ru/companies/otus/articles/814857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814857)
 - [Бублики и Коржики Программирования](https://habr.com/ru/articles/814685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814685)
 - [Можно ли устроиться на работу тестировщиком после курсов? Что они дают?](https://habr.com/ru/articles/815327/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815327)
-- [PostgreSQL 16. Изоляция транзакций. Часть 2](https://habr.com/ru/articles/815323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815323)
-- [Хабр, GPT, корпоративные блоги и БМЛы: оцениваем глубины ужаса](https://habr.com/ru/articles/815309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815309)
-- [Flutter и натив. Пример с Яндекс OAuth](https://habr.com/ru/articles/815313/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815313)
 <!-- BLOG-POST-LIST:END -->
 
 ---
