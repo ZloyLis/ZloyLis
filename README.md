@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #538 &lpar;13 — 19 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/815455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815455)
 - [[Перевод] 37 Советов от Senior Frontend Разработчика](https://habr.com/ru/articles/815453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815453)
 - [[Перевод] Мега-Учебник Flask Глава 9: Разбивка на страницы &lpar;издание 2024&rpar;](https://habr.com/ru/articles/815427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815427)
 - [Слежка через пуш-уведомления на смартфонах](https://habr.com/ru/companies/globalsign/articles/815425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815425)
 - [Как использовать Python в нативном Android приложении. Мой опыт](https://habr.com/ru/articles/815413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815413)
-- [[Перевод] Разбираемся с coroutine в Kotlin — 1](https://habr.com/ru/articles/815407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
