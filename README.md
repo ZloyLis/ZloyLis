@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать аудиоплеер. Часть 1. Что под капотом](https://habr.com/ru/companies/zvuk/articles/814017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814017)
+- [Как мне взбрело в голову свой Notion-like редактор написать](https://habr.com/ru/articles/815579/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815579)
 - [[Перевод] Заставляем машинное обучение делать «брррр» через понимание базовых принципов компьютерных систем](https://habr.com/ru/companies/wunderfund/articles/815435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815435)
 - [Карсон Гросс, создатель HTMX](https://habr.com/ru/companies/ruvds/articles/814193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814193)
 - [Ода хейта C++](https://habr.com/ru/articles/811369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811369)
-- [Как я бэкенд для интернет-магазина пилил…](https://habr.com/ru/articles/815541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815541)
-- [Фантастически быстрый деплой веб-приложения](https://habr.com/ru/companies/timeweb/articles/812413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812413)
 <!-- BLOG-POST-LIST:END -->
 
 ---
