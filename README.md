@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мониторинг Supervisord: Упрощение контроля над процессами](https://habr.com/ru/articles/815479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815479)
+- [Работа с XML в C#](https://habr.com/ru/companies/otus/articles/814949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814949)
+- [[Перевод] Wireframe vs. mockup vs. prototype: в чем разница?](https://habr.com/ru/articles/815337/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815337)
 - [Обзор гипервизора Harvester 1.3.0](https://habr.com/ru/articles/815467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815467)
 - [Мобильная разработка за неделю #538 &lpar;13 — 19 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/815455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815455)
-- [[Перевод] 37 Советов от Senior Frontend Разработчика](https://habr.com/ru/articles/815453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815453)
-- [[Перевод] Мега-Учебник Flask Глава 9: Разбивка на страницы &lpar;издание 2024&rpar;](https://habr.com/ru/articles/815427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815427)
-- [Слежка через пуш-уведомления на смартфонах](https://habr.com/ru/companies/globalsign/articles/815425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815425)
 <!-- BLOG-POST-LIST:END -->
 
 ---
