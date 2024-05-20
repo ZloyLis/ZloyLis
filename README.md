@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Заставляем машинное обучение делать «брррр» через понимание базовых принципов компьютерных систем](https://habr.com/ru/companies/wunderfund/articles/815435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815435)
+- [Карсон Гросс, создатель HTMX](https://habr.com/ru/companies/ruvds/articles/814193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814193)
+- [Ода хейта C++](https://habr.com/ru/articles/811369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811369)
+- [Как я бэкенд для интернет-магазина пилил…](https://habr.com/ru/articles/815541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815541)
 - [Фантастически быстрый деплой веб-приложения](https://habr.com/ru/companies/timeweb/articles/812413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812413)
-- [[Перевод] Двоичный поиск против вероятностного](https://habr.com/ru/articles/815353/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815353)
-- [Новая жизнь или начало экзистенциального кризиса?](https://habr.com/ru/articles/815527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815527)
-- [Что делать если отключат Figma? Есть ли альтернативы?](https://habr.com/ru/companies/bimeister/articles/815519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815519)
-- [Топ-100 вопросов на собеседовании по системному анализу](https://habr.com/ru/articles/815395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815395)
 <!-- BLOG-POST-LIST:END -->
 
 ---
