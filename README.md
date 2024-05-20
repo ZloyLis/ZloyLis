@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Предметно-ориентированное проектирование &lpar;DDD&rpar; и математическое моделирование](https://habr.com/ru/articles/815497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815497)
-- [Как стать бизнес-аналитиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/815483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815483)
-- [Мониторинг Supervisord: Упрощение контроля над процессами](https://habr.com/ru/articles/815479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815479)
-- [Работа с XML в C#](https://habr.com/ru/companies/otus/articles/814949/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814949)
-- [[Перевод] Wireframe vs. mockup vs. prototype: в чем разница?](https://habr.com/ru/articles/815337/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815337)
+- [Фантастически быстрый деплой веб-приложения](https://habr.com/ru/companies/timeweb/articles/812413/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812413)
+- [[Перевод] Двоичный поиск против вероятностного](https://habr.com/ru/articles/815353/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815353)
+- [Новая жизнь или начало экзистенциального кризиса?](https://habr.com/ru/articles/815527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815527)
+- [Что делать если отключат Figma? Есть ли альтернативы?](https://habr.com/ru/companies/bimeister/articles/815519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815519)
+- [Топ-100 вопросов на собеседовании по системному анализу](https://habr.com/ru/articles/815395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815395)
 <!-- BLOG-POST-LIST:END -->
 
 ---
