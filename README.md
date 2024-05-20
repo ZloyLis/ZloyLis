@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Apple Pro Weekly News &lpar;13.05 – 19.05.24&rpar;](https://habr.com/ru/articles/815773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815773)
 - [[Перевод] Создание собственного графического клиента ChatGPT с помощью NextJS и Wing](https://habr.com/ru/articles/815767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815767)
-- [Полгода спрашивает изощренные вопросы как начать программировать, но не написал даже Hello, world](https://habr.com/ru/articles/815759/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815759)
+- [Полгода задает изощренные вопросы как начать программировать, но не написал даже Hello, world](https://habr.com/ru/articles/815759/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815759)
 - [[Перевод] Генеративный ИИ в Android и эффективность фоновой работы приложения — важное с Google I/O 2024](https://habr.com/ru/companies/kts/articles/815585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815585)
 - [[Перевод] Compiler Explorer — уникальный проект для исследования компилируемого кода](https://habr.com/ru/companies/ruvds/articles/815675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815675)
 <!-- BLOG-POST-LIST:END -->
