@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Генеративный ИИ в Android и эффективность фоновой работы приложения — важное с Google I/O 2024](https://habr.com/ru/companies/kts/articles/815585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815585)
 - [[Перевод] Compiler Explorer — уникальный проект для исследования компилируемого кода](https://habr.com/ru/companies/ruvds/articles/815675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815675)
 - [Фабрика для std::variant: как объединить compile-time и run-time, чтобы получить выигрыш от обоих](https://habr.com/ru/companies/vk/articles/810085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=810085)
 - [Главная тайна Солнца: почему корона звезды жарче ее поверхности](https://habr.com/ru/companies/montirey/articles/815649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815649)
 - [Автоматизация тестирования: мой опыт](https://habr.com/ru/articles/815647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815647)
-- [Vo&lpar;IP&rpar; Really Simple: пишем простое VoIP решение](https://habr.com/ru/articles/815635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815635)
 <!-- BLOG-POST-LIST:END -->
 
 ---
