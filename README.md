@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Протокол HTTP](https://habr.com/ru/articles/813395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813395)
+- [Как я делал шрифтовые иконки. Совмещаем желание UX-дизайнеров и возможности фронтендеров](https://habr.com/ru/companies/kryptonite/articles/815737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815737)
+- [Основные инструменты для локальной разработки на Kubernetes](https://habr.com/ru/companies/otus/articles/812459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812459)
+- [Безумные вещи, которые я делал как аналитик, или Как я катался на погрузчике и перебирал капусту в магазине](https://habr.com/ru/companies/alfa/articles/815605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815605)
 - [Security Week 2421: множество исправлений и один новый баг в обновлении Apple iOS](https://habr.com/ru/companies/kaspersky/articles/815593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815593)
 - [Apple Pro Weekly News &lpar;13.05 – 19.05.24&rpar;](https://habr.com/ru/articles/815773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815773)
-- [[Перевод] Создание собственного графического клиента ChatGPT с помощью NextJS и Wing](https://habr.com/ru/articles/815767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815767)
-- [Полгода задает изощренные вопросы как начать программировать, но не написал даже Hello, world](https://habr.com/ru/articles/815759/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815759)
 <!-- BLOG-POST-LIST:END -->
 
 ---
