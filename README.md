@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я делал шрифтовые иконки. Совмещаем желание UX-дизайнеров и возможности фронтендеров](https://habr.com/ru/companies/kryptonite/articles/815737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815737)
-- [Основные инструменты для локальной разработки на Kubernetes](https://habr.com/ru/companies/otus/articles/812459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812459)
-- [Безумные вещи, которые я делал как аналитик, или Как я катался на погрузчике и перебирал капусту в магазине](https://habr.com/ru/companies/alfa/articles/815605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815605)
-- [Security Week 2421: множество исправлений и один новый баг в обновлении Apple iOS](https://habr.com/ru/companies/kaspersky/articles/815593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815593)
-- [Apple Pro Weekly News &lpar;13.05 – 19.05.24&rpar;](https://habr.com/ru/articles/815773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815773)
+- [Безопасность первична: сетевое взаимодействие и привилегии контейнеров в Docker](https://habr.com/ru/companies/selectel/articles/815803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815803)
+- [Утечки памяти в мобильных приложениях: руководство для QA-инженеров](https://habr.com/ru/companies/ozontech/articles/815041/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815041)
+- [Custom Kafka Deserializer и Spring’овый контекст. Как инжектить в статические поля](https://habr.com/ru/companies/beeline_cloud/articles/815829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815829)
+- [Моделирование оргструктур и бизнес-процессов при имплементации ERP-систем](https://habr.com/ru/articles/815815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815815)
+- [200 таблиц в одном дашборде: как мы создаём проект визуализации данных медицинской статистики](https://habr.com/ru/companies/yandex_praktikum/articles/814551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814551)
 <!-- BLOG-POST-LIST:END -->
 
 ---
