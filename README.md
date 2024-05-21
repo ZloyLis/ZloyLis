@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Протокол HTTP](https://habr.com/ru/articles/813395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813395)
 - [Security Week 2421: множество исправлений и один новый баг в обновлении Apple iOS](https://habr.com/ru/companies/kaspersky/articles/815593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815593)
 - [Apple Pro Weekly News &lpar;13.05 – 19.05.24&rpar;](https://habr.com/ru/articles/815773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815773)
 - [[Перевод] Создание собственного графического клиента ChatGPT с помощью NextJS и Wing](https://habr.com/ru/articles/815767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815767)
 - [Полгода задает изощренные вопросы как начать программировать, но не написал даже Hello, world](https://habr.com/ru/articles/815759/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815759)
-- [[Перевод] Генеративный ИИ в Android и эффективность фоновой работы приложения — важное с Google I/O 2024](https://habr.com/ru/companies/kts/articles/815585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815585)
 <!-- BLOG-POST-LIST:END -->
 
 ---
