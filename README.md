@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация Streebog256 и Streebog512 на языке RUST](https://habr.com/ru/articles/816011/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816011)
+- [AVPlayer seek&lpar;to:… vs seek&lpar;…tolerance](https://habr.com/ru/articles/815999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815999)
 - [Сравнение архитектурных паттернов GetX и BLoC](https://habr.com/ru/companies/agima/articles/815993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815993)
 - [Гайд по использованию JUnit 5, Mockito и AssertJ для проверки поведения кода](https://habr.com/ru/companies/banki/articles/814485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814485)
 - [Применение айтрекинга в тестировании юзабилити интерфейсов веб-сайтов](https://habr.com/ru/articles/815995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815995)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 8](https://habr.com/ru/companies/ruvds/articles/814633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814633)
-- [7 ножей в спину web-отладки](https://habr.com/ru/articles/815933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815933)
 <!-- BLOG-POST-LIST:END -->
 
 ---
