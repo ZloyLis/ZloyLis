@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основные алгоритмы многоруких бандитов в рекомендательных системах](https://habr.com/ru/companies/otus/articles/815769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815769)
 - [Реализация Streebog256 и Streebog512 на языке RUST](https://habr.com/ru/articles/816011/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816011)
 - [AVPlayer seek&lpar;to:… vs seek&lpar;…tolerance](https://habr.com/ru/articles/815999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815999)
 - [Сравнение архитектурных паттернов GetX и BLoC](https://habr.com/ru/companies/agima/articles/815993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815993)
 - [Гайд по использованию JUnit 5, Mockito и AssertJ для проверки поведения кода](https://habr.com/ru/companies/banki/articles/814485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814485)
-- [Применение айтрекинга в тестировании юзабилити интерфейсов веб-сайтов](https://habr.com/ru/articles/815995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815995)
 <!-- BLOG-POST-LIST:END -->
 
 ---
