@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираем KAN по полочкам](https://habr.com/ru/articles/815851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815851)
+- [Что общего между сведением музыкального трека и планированием?](https://habr.com/ru/articles/815839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815839)
+- [Алгоритмы, вдохновлённые природой](https://habr.com/ru/companies/sberbank/articles/815837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815837)
 - [Безопасность первична: сетевое взаимодействие и привилегии контейнеров в Docker](https://habr.com/ru/companies/selectel/articles/815803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815803)
 - [Утечки памяти в мобильных приложениях: руководство для QA-инженеров](https://habr.com/ru/companies/ozontech/articles/815041/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815041)
-- [Custom Kafka Deserializer и Spring’овый контекст. Как инжектить в статические поля](https://habr.com/ru/companies/beeline_cloud/articles/815829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815829)
-- [Моделирование оргструктур и бизнес-процессов при имплементации ERP-систем](https://habr.com/ru/articles/815815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815815)
-- [200 таблиц в одном дашборде: как мы создаём проект визуализации данных медицинской статистики](https://habr.com/ru/companies/yandex_praktikum/articles/814551/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814551)
 <!-- BLOG-POST-LIST:END -->
 
 ---
