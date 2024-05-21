@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 8](https://habr.com/ru/companies/ruvds/articles/814633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814633)
+- [7 ножей в спину web-отладки](https://habr.com/ru/articles/815933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815933)
 - [[Перевод] Создаём безукоризненную автодокументацию кода на Python с помощью Sphinx](https://habr.com/ru/companies/netologyru/articles/815563/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815563)
 - [Чем разработчику заняться на PHDays Fest 2: наш гайд по программе технического трека](https://habr.com/ru/companies/pt/articles/815787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815787)
 - [Фаззинг REST API](https://habr.com/ru/companies/otus/articles/814901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814901)
-- [Охота на призраков. Что такое Compromise Assessment?](https://habr.com/ru/companies/bastion/articles/815597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815597)
-- [[Перевод] Новый прорыв приближает умножение матриц к идеалу](https://habr.com/ru/companies/first/articles/814453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814453)
 <!-- BLOG-POST-LIST:END -->
 
 ---
