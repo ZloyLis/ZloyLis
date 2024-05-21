@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фаззинг REST API](https://habr.com/ru/companies/otus/articles/814901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814901)
 - [Охота на призраков. Что такое Compromise Assessment?](https://habr.com/ru/companies/bastion/articles/815597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815597)
 - [[Перевод] Новый прорыв приближает умножение матриц к идеалу](https://habr.com/ru/companies/first/articles/814453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814453)
 - [Разбираем KAN по полочкам](https://habr.com/ru/articles/815851/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815851)
 - [Что общего между сведением музыкального трека и планированием?](https://habr.com/ru/articles/815839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815839)
-- [Алгоритмы, вдохновлённые природой](https://habr.com/ru/companies/sberbank/articles/815837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815837)
 <!-- BLOG-POST-LIST:END -->
 
 ---
