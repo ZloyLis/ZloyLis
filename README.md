@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я делаю build больших Android/iOS проектов со 128 GB памяти на старом Mac](https://habr.com/ru/articles/816417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816417)
+- [@ts-expect-error иногда не лучше @ts-ignore](https://habr.com/ru/articles/816285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816285)
 - [Функциональное программирование на Groovy](https://habr.com/ru/companies/otus/articles/815701/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815701)
 - [[Перевод] Что разработчик никогда не должен делать](https://habr.com/ru/articles/816365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816365)
 - [Как подготовить данные для запроса в Postman через pre-request](https://habr.com/ru/articles/816343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816343)
-- [[Перевод] Город в бутылке — движок Raycasting всего на 256 байт](https://habr.com/ru/companies/cloud4y/articles/816321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816321)
-- [Corepack в Node.js: возможности и перспективы](https://habr.com/ru/companies/yoomoney/articles/816297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
