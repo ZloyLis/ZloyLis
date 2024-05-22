@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Город в бутылке — движок Raycasting всего на 256 байт](https://habr.com/ru/companies/cloud4y/articles/816321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816321)
+- [Corepack в Node.js: возможности и перспективы](https://habr.com/ru/companies/yoomoney/articles/816297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816297)
+- [Рефакторинг — это как весенняя уборка: никто не хочет её начинать, но все ценят чистоту и порядок после её завершения](https://habr.com/ru/articles/816301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816301)
 - [Postgresso #4 &lpar;65&rpar;](https://habr.com/ru/companies/postgrespro/articles/805675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805675)
 - [Как включить в пакет Python файлы не на Python](https://habr.com/ru/articles/816251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816251)
-- [Нельзя пропустить: молодежный день на Positive Hack Days 2 для тех, кто хочет развивать карьеру в ИБ](https://habr.com/ru/companies/pt/articles/816067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816067)
-- [Flutter 3.22 — наше мнение](https://habr.com/ru/companies/surfstudio/articles/816231/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816231)
-- [[Перевод] Что Flutter 3.22 нам готовит?](https://habr.com/ru/companies/surfstudio/articles/816001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
