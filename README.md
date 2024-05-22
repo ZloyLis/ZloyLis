@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI на iOS 14: преодолевая баги и улучшая перформанс в 3 раза](https://habr.com/ru/companies/yandex360/articles/814047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814047)
-- [Kubernetes без интернета: как мы устанавливаем Deckhouse в закрытом контуре &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/798317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798317)
-- [Распределённый BPMS. Опыт Московской Биржи](https://habr.com/ru/companies/moex/articles/816175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816175)
-- [О чем еще говорят питонисты? Python-праздник на Positive Hack Days Fest 2. Часть 2](https://habr.com/ru/companies/pt/articles/816063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816063)
-- [Пишем plugin для Jetbrains IDE: отображение файлов вне проекта в Project Tool](https://habr.com/ru/companies/cian/articles/816149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816149)
+- [Postgresso #4 &lpar;65&rpar;](https://habr.com/ru/companies/postgrespro/articles/805675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805675)
+- [Как включить в пакет Python файлы не на Python](https://habr.com/ru/articles/816251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816251)
+- [Нельзя пропустить: молодежный день на Positive Hack Days 2 для тех, кто хочет развивать карьеру в ИБ](https://habr.com/ru/companies/pt/articles/816067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816067)
+- [Flutter 3.22 — наше мнение](https://habr.com/ru/companies/surfstudio/articles/816231/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816231)
+- [[Перевод] Что Flutter 3.22 нам готовит?](https://habr.com/ru/companies/surfstudio/articles/816001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
