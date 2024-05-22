@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Геймдев, про который мы забыли: как работали 2D-игры на кнопочных телефонах нулевых](https://habr.com/ru/companies/timeweb/articles/814975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814975)
+- [GigaCode и все-все-все. Сравниваем различные ИИ-ассистенты между собой](https://habr.com/ru/companies/sberbank/articles/816107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816107)
+- [[Перевод] То одно, то другое: советы по борьбе с отвлекающими факторами для разработчиков](https://habr.com/ru/companies/productivity_inside/articles/816113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816113)
 - [Как дизайнеру и разработчику понимать друг друга](https://habr.com/ru/articles/816087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816087)
 - [Разработчикам: рецензия на книгу «Создание микрофронтендов» &lpar;Building Micro-Frontends&rpar; Луки Меццалиры](https://habr.com/ru/companies/ssp-soft/articles/815951/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815951)
-- [Основные алгоритмы многоруких бандитов в рекомендательных системах](https://habr.com/ru/companies/otus/articles/815769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815769)
-- [Реализация Streebog256 и Streebog512 на языке RUST](https://habr.com/ru/articles/816011/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816011)
-- [AVPlayer seek&lpar;to:… vs seek&lpar;…tolerance](https://habr.com/ru/articles/815999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815999)
 <!-- BLOG-POST-LIST:END -->
 
 ---
