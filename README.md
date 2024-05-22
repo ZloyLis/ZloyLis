@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Функциональное программирование на Groovy](https://habr.com/ru/companies/otus/articles/815701/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815701)
 - [[Перевод] Что разработчик никогда не должен делать](https://habr.com/ru/articles/816365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816365)
 - [Как подготовить данные для запроса в Postman через pre-request](https://habr.com/ru/articles/816343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816343)
 - [[Перевод] Город в бутылке — движок Raycasting всего на 256 байт](https://habr.com/ru/companies/cloud4y/articles/816321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816321)
 - [Corepack в Node.js: возможности и перспективы](https://habr.com/ru/companies/yoomoney/articles/816297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816297)
-- [Рефакторинг — это как весенняя уборка: никто не хочет её начинать, но все ценят чистоту и порядок после её завершения](https://habr.com/ru/articles/816301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816301)
 <!-- BLOG-POST-LIST:END -->
 
 ---
