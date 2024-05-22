@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Моделируем флюиды, огонь и дым в режиме реального времени](https://habr.com/ru/articles/816451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816451)
 - [Всё, Телеграм теперь уподобился «плохим» корпорациям?](https://habr.com/ru/articles/816423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816423)
 - [Как я делаю build больших Android/iOS проектов со 128 GB памяти на старом Mac](https://habr.com/ru/articles/816417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816417)
 - [@ts-expect-error иногда не лучше @ts-ignore](https://habr.com/ru/articles/816285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816285)
 - [Функциональное программирование на Groovy](https://habr.com/ru/companies/otus/articles/815701/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815701)
-- [Технологии будущего: IT чемпионат проектов среди школьников в Astana IT University](https://habr.com/ru/articles/816369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816369)
 <!-- BLOG-POST-LIST:END -->
 
 ---
