@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распределённый BPMS. Опыт Московской Биржи](https://habr.com/ru/companies/moex/articles/816175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816175)
+- [О чем еще говорят питонисты? Python-праздник на Positive Hack Days Fest 2. Часть 2](https://habr.com/ru/companies/pt/articles/816063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816063)
 - [Пишем plugin для Jetbrains IDE: отображение файлов вне проекта в Project Tool](https://habr.com/ru/companies/cian/articles/816149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816149)
 - [Какие возможности клавиатур подглядеть у Tinder, YouTube и Revolut](https://habr.com/ru/companies/alfa/articles/815817/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815817)
 - [Геймдев, про который мы забыли: как работали 2D-игры на кнопочных телефонах нулевых](https://habr.com/ru/companies/timeweb/articles/814975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814975)
-- [GigaCode и все-все-все. Сравниваем различные ИИ-ассистенты между собой](https://habr.com/ru/companies/sberbank/articles/816107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816107)
-- [[Перевод] То одно, то другое: советы по борьбе с отвлекающими факторами для разработчиков](https://habr.com/ru/companies/productivity_inside/articles/816113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816113)
 <!-- BLOG-POST-LIST:END -->
 
 ---
