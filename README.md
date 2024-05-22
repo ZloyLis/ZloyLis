@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что разработчик никогда не должен делать](https://habr.com/ru/articles/816365/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816365)
+- [Как подготовить данные для запроса в Postman через pre-request](https://habr.com/ru/articles/816343/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816343)
 - [[Перевод] Город в бутылке — движок Raycasting всего на 256 байт](https://habr.com/ru/companies/cloud4y/articles/816321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816321)
 - [Corepack в Node.js: возможности и перспективы](https://habr.com/ru/companies/yoomoney/articles/816297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816297)
 - [Рефакторинг — это как весенняя уборка: никто не хочет её начинать, но все ценят чистоту и порядок после её завершения](https://habr.com/ru/articles/816301/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816301)
-- [Postgresso #4 &lpar;65&rpar;](https://habr.com/ru/companies/postgrespro/articles/805675/?utm_source=habrahabr&utm_medium=rss&utm_campaign=805675)
-- [Как включить в пакет Python файлы не на Python](https://habr.com/ru/articles/816251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816251)
 <!-- BLOG-POST-LIST:END -->
 
 ---
