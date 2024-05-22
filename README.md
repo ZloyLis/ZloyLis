@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI на iOS 14: преодолевая баги и улучшая перформанс в 3 раза](https://habr.com/ru/companies/yandex360/articles/814047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814047)
+- [Kubernetes без интернета: как мы устанавливаем Deckhouse в закрытом контуре &lpar;обзор и видео доклада&rpar;](https://habr.com/ru/companies/oleg-bunin/articles/798317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798317)
 - [Распределённый BPMS. Опыт Московской Биржи](https://habr.com/ru/companies/moex/articles/816175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816175)
 - [О чем еще говорят питонисты? Python-праздник на Positive Hack Days Fest 2. Часть 2](https://habr.com/ru/companies/pt/articles/816063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816063)
 - [Пишем plugin для Jetbrains IDE: отображение файлов вне проекта в Project Tool](https://habr.com/ru/companies/cian/articles/816149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816149)
-- [Какие возможности клавиатур подглядеть у Tinder, YouTube и Revolut](https://habr.com/ru/companies/alfa/articles/815817/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815817)
-- [Геймдев, про который мы забыли: как работали 2D-игры на кнопочных телефонах нулевых](https://habr.com/ru/companies/timeweb/articles/814975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814975)
 <!-- BLOG-POST-LIST:END -->
 
 ---
