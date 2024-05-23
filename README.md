@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые функции CSS &lpar;mod, round&rpar; или как сделать анимированные Sprite Sheet без JS](https://habr.com/ru/articles/816587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816587)
 - [Как создать сайт с помощью нейросети: ТОП-20 ИИ No-code платформ](https://habr.com/ru/articles/816549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816549)
 - [Как мы спасаем жизни с помощью геймификации](https://habr.com/ru/companies/evraz/articles/816547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816547)
 - [Быстрее, выше, сильнее: оптимизируем Spring-контекст для тестов](https://habr.com/ru/companies/tinkoff/articles/816051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816051)
 - [[Перевод] Написание тестов для асинхронного кода с помощью XCTest](https://habr.com/ru/companies/otus/articles/816531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816531)
-- [Математическая оптимизация для бизнеса. Часть 1. Пассажирские авиалинии](https://habr.com/ru/companies/axenix/articles/816525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816525)
 <!-- BLOG-POST-LIST:END -->
 
 ---
