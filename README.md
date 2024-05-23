@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заметаем рутину под ковёр. Шаблон Step Builder в Java](https://habr.com/ru/articles/816471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816471)
+- [Approval Testing и почему оно важно | Dart](https://habr.com/ru/articles/816469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816469)
+- [Как написание своего плагина может поменять то как вы пишете код](https://habr.com/ru/articles/816461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816461)
 - [[Перевод] Моделируем флюиды, огонь и дым в режиме реального времени](https://habr.com/ru/articles/816451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816451)
 - [Всё, Телеграм теперь уподобился «плохим» корпорациям?](https://habr.com/ru/articles/816423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816423)
-- [Как я делаю build больших Android/iOS проектов со 128 GB памяти на старом Mac](https://habr.com/ru/articles/816417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816417)
-- [@ts-expect-error иногда не лучше @ts-ignore](https://habr.com/ru/articles/816285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816285)
-- [Функциональное программирование на Groovy](https://habr.com/ru/companies/otus/articles/815701/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
