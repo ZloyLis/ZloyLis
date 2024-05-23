@@ -39,7 +39,7 @@ ___
 - [[Перевод] Единственное руководство, необходимое для успешной сдачи экзамена CKAD&lpar;Certified Kubernetes Application Developer&rpar;](https://habr.com/ru/articles/815241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815241)
 - [От и Go: доклады для гоферов про инструменты для фаззинга, kuber-кластер на Go и не только](https://habr.com/ru/companies/yadro/articles/816581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816581)
 - [С++: освобождение ресурсов в деструкторах с использованием вспомогательных функции](https://habr.com/ru/companies/pvs-studio/articles/816619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816619)
-- [Как мы боролись за доступность сайта по всему миру, настраивали GeoDNS и причём здесь Суринам](https://habr.com/ru/articles/816559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816559)
+- [Как мы боролись за доступность сайта по всему миру, настраивали GeoDNS и при чём здесь Суринам](https://habr.com/ru/articles/816559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816559)
 <!-- BLOG-POST-LIST:END -->
 
 ---
