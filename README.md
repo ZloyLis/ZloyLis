@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрее, выше, сильнее: оптимизируем Spring-контекст для тестов](https://habr.com/ru/companies/tinkoff/articles/816051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816051)
+- [[Перевод] Написание тестов для асинхронного кода с помощью XCTest](https://habr.com/ru/companies/otus/articles/816531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816531)
+- [Математическая оптимизация для бизнеса. Часть 1. Пассажирские авиалинии](https://habr.com/ru/companies/axenix/articles/816525/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816525)
+- [DBaaS в Kubernetes: падения и взлеты](https://habr.com/ru/companies/regru/articles/816397/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816397)
 - [Мое решение 3-х проблем MVx](https://habr.com/ru/companies/timeweb/articles/816379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816379)
-- [Как сделать форму согласия на обработку персональных данных на сайте. Справится даже школьник](https://habr.com/ru/companies/hflabs/articles/816295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816295)
-- [[Перевод] Демо City In A Bottle – система рейкастинга в 256 байтах](https://habr.com/ru/articles/815653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815653)
-- [Заметаем рутину под ковёр. Шаблон Step Builder в Java](https://habr.com/ru/articles/816471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816471)
-- [Approval Testing и почему оно важно | Dart](https://habr.com/ru/articles/816469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816469)
 <!-- BLOG-POST-LIST:END -->
 
 ---
