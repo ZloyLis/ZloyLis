@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мое решение 3-х проблем MVx](https://habr.com/ru/companies/timeweb/articles/816379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816379)
+- [Как сделать форму согласия на обработку персональных данных на сайте. Справится даже школьник](https://habr.com/ru/companies/hflabs/articles/816295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816295)
+- [[Перевод] Демо City In A Bottle – система рейкастинга в 256 байтах](https://habr.com/ru/articles/815653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815653)
 - [Заметаем рутину под ковёр. Шаблон Step Builder в Java](https://habr.com/ru/articles/816471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816471)
 - [Approval Testing и почему оно важно | Dart](https://habr.com/ru/articles/816469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816469)
-- [Как написание своего плагина может поменять то как вы пишете код](https://habr.com/ru/articles/816461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816461)
-- [[Перевод] Моделируем флюиды, огонь и дым в режиме реального времени](https://habr.com/ru/articles/816451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816451)
-- [Всё, Телеграм теперь уподобился «плохим» корпорациям?](https://habr.com/ru/articles/816423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816423)
 <!-- BLOG-POST-LIST:END -->
 
 ---
