@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Новые функции CSS &lpar;mod, round&rpar; или как сделать анимированные Sprite Sheet без JS](https://habr.com/ru/articles/816587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816587)
-- [Как создать сайт с помощью нейросети: ТОП-20 ИИ No-code платформ](https://habr.com/ru/articles/816549/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816549)
-- [Как мы спасаем жизни с помощью геймификации](https://habr.com/ru/companies/evraz/articles/816547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816547)
-- [Быстрее, выше, сильнее: оптимизируем Spring-контекст для тестов](https://habr.com/ru/companies/tinkoff/articles/816051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816051)
-- [[Перевод] Написание тестов для асинхронного кода с помощью XCTest](https://habr.com/ru/companies/otus/articles/816531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816531)
+- [[Перевод] Единственное руководство, необходимое для успешной сдачи экзамена CKAD&lpar;Certified Kubernetes Application Developer&rpar;](https://habr.com/ru/articles/815241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815241)
+- [От и Go: доклады для гоферов про инструменты для фаззинга, kuber-кластер на Go и не только](https://habr.com/ru/companies/yadro/articles/816581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816581)
+- [С++: освобождение ресурсов в деструкторах с использованием вспомогательных функции](https://habr.com/ru/companies/pvs-studio/articles/816619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816619)
+- [Как мы боролись за доступность сайта по всему миру, настраивали GeoDNS и причём здесь Суринам](https://habr.com/ru/articles/816559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816559)
+- [VFX Система в одном шейдере](https://habr.com/ru/articles/815451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815451)
 <!-- BLOG-POST-LIST:END -->
 
 ---
