@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Apache Arrow поможет управиться JS с большими данными](https://habr.com/ru/companies/beeline_tech/articles/816835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816835)
 - [Реализуем touch жесты на vanilla js. Часть 2 &lpar;drag, resize&rpar;](https://habr.com/ru/articles/816857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816857)
 - [Два способа извлечь звуки из данных: как и зачем](https://habr.com/ru/companies/spbu/articles/816839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816839)
 - [Bricks: новый подход к управлению интерфейсами](https://habr.com/ru/companies/avito/articles/813443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813443)
 - [Основы безопасности в Kubernetes](https://habr.com/ru/companies/T1Holding/articles/816611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816611)
-- [Фоновые асинхронные задачи в FastAPI и их мониторинг](https://habr.com/ru/companies/kts/articles/816757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816757)
 <!-- BLOG-POST-LIST:END -->
 
 ---
