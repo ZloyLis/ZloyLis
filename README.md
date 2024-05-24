@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я запрограммировала собственный рукописный шрифт](https://habr.com/ru/companies/ruvds/articles/816077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816077)
+- [[Перевод] 10 вредных привычек, которые программисты втайне обожают](https://habr.com/ru/companies/netologyru/articles/816817/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816817)
+- [Язык программирования Кедр](https://habr.com/ru/articles/816917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816917)
 - [Ультимативный Гайд По Эффективному Обучению &lpar;для влёта в IT с двух ног&rpar;](https://habr.com/ru/articles/816895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816895)
 - [Современный клиент к NoSQL-базе данных](https://habr.com/ru/companies/vk/articles/816367/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816367)
-- [Как Apache Arrow поможет управиться JS с большими данными](https://habr.com/ru/companies/beeline_tech/articles/816835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816835)
-- [Реализуем touch жесты на vanilla js. Часть 2 &lpar;drag, resize&rpar;](https://habr.com/ru/articles/816857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816857)
-- [Два способа извлечь звуки из данных: как и зачем](https://habr.com/ru/companies/spbu/articles/816839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816839)
 <!-- BLOG-POST-LIST:END -->
 
 ---
