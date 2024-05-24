@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как протестировать логику консьюмеров и продюсеров и не сгореть? Spring Boot 3, Spring Kafka](https://habr.com/ru/companies/alfastrah/articles/816057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816057)
+- [Яндекс выпустил DivKit. Я – Nui](https://habr.com/ru/articles/815489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815489)
+- [RxJs для самых маленьких](https://habr.com/ru/articles/816755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816755)
 - [C Linux в кармане](https://habr.com/ru/articles/816725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816725)
 - [Как распознать текст, написанный искусственным интеллектом: основные признаки &lpar;1 часть&rpar;](https://habr.com/ru/articles/816733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816733)
-- [Suppgram: open-source служба поддержки на Telegram-ботах](https://habr.com/ru/articles/815443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815443)
-- [[Перевод] Единственное руководство, необходимое для успешной сдачи экзамена CKAD&lpar;Certified Kubernetes Application Developer&rpar;](https://habr.com/ru/articles/815241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815241)
-- [От и Go: доклады для гоферов про инструменты для фаззинга, kuber-кластер на Go и не только](https://habr.com/ru/companies/yadro/articles/816581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816581)
 <!-- BLOG-POST-LIST:END -->
 
 ---
