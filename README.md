@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Protobuf и buf: блеск, нищета и импортозамещение](https://habr.com/ru/companies/oleg-bunin/articles/816631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816631)
+- [Что нам стоит карьеру в Machine Learning построить: профессии, возможности и советы для начинающих специалистов](https://habr.com/ru/companies/ru_mts/articles/816953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816953)
 - [Пермишены &lpar;permissions&rpar; для тестировщика: зачем нужно, что такое и как с этим работать](https://habr.com/ru/articles/816951/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816951)
 - [Зачем и как проектировать пользовательский опыт в B2B BI-проектах](https://habr.com/ru/articles/816945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816945)
 - [[Перевод] Как я запрограммировала собственный рукописный шрифт](https://habr.com/ru/companies/ruvds/articles/816077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816077)
-- [[Перевод] 10 вредных привычек, которые программисты втайне обожают](https://habr.com/ru/companies/netologyru/articles/816817/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816817)
-- [Язык программирования Кедр](https://habr.com/ru/articles/816917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816917)
 <!-- BLOG-POST-LIST:END -->
 
 ---
