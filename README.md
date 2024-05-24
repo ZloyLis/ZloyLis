@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализуем touch жесты на vanilla js. Часть 2 &lpar;drag, resize&rpar;](https://habr.com/ru/articles/816857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816857)
+- [Два способа извлечь звуки из данных: как и зачем](https://habr.com/ru/companies/spbu/articles/816839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816839)
+- [Bricks: новый подход к управлению интерфейсами](https://habr.com/ru/companies/avito/articles/813443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813443)
+- [Основы безопасности в Kubernetes](https://habr.com/ru/companies/T1Holding/articles/816611/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816611)
 - [Фоновые асинхронные задачи в FastAPI и их мониторинг](https://habr.com/ru/companies/kts/articles/816757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816757)
-- [Как устроен рекомендательный сервис, который выдерживает 700 тысяч запросов в секунду. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/816205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816205)
-- [Как протестировать логику консьюмеров и продюсеров и не сгореть? Spring Boot 3, Spring Kafka](https://habr.com/ru/companies/alfastrah/articles/816057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816057)
-- [Яндекс выпустил DivKit. Я – Nui](https://habr.com/ru/articles/815489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815489)
-- [RxJs для самых маленьких](https://habr.com/ru/articles/816755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816755)
 <!-- BLOG-POST-LIST:END -->
 
 ---
