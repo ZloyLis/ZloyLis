@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C Linux в кармане](https://habr.com/ru/articles/816725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816725)
 - [Как распознать текст, написанный искусственным интеллектом: основные признаки &lpar;1 часть&rpar;](https://habr.com/ru/articles/816733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816733)
 - [Suppgram: open-source служба поддержки на Telegram-ботах](https://habr.com/ru/articles/815443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815443)
 - [[Перевод] Единственное руководство, необходимое для успешной сдачи экзамена CKAD&lpar;Certified Kubernetes Application Developer&rpar;](https://habr.com/ru/articles/815241/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815241)
 - [От и Go: доклады для гоферов про инструменты для фаззинга, kuber-кластер на Go и не только](https://habr.com/ru/companies/yadro/articles/816581/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816581)
-- [С++: освобождение ресурсов в деструкторах с использованием вспомогательных функций](https://habr.com/ru/companies/pvs-studio/articles/816619/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816619)
 <!-- BLOG-POST-LIST:END -->
 
 ---
