@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дореволюционный Энциклопедический словарь Брокгауза и Ефрона](https://habr.com/ru/companies/alfa/articles/816965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816965)
 - [Цифровизация аудитов и наблюдений систем менеджмента качества. Собираем требования](https://habr.com/ru/articles/816969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816969)
 - [Protobuf и buf: блеск, нищета и импортозамещение](https://habr.com/ru/companies/oleg-bunin/articles/816631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816631)
 - [Что нам стоит карьеру в Machine Learning построить: профессии, возможности и советы для начинающих специалистов](https://habr.com/ru/companies/ru_mts/articles/816953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816953)
 - [Пермишены &lpar;permissions&rpar; для тестировщика: зачем нужно, что такое и как с этим работать](https://habr.com/ru/articles/816951/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816951)
-- [Зачем и как проектировать пользовательский опыт в B2B BI-проектах](https://habr.com/ru/articles/816945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
