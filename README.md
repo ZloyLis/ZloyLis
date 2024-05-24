@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фоновые асинхронные задачи в FastAPI и их мониторинг](https://habr.com/ru/companies/kts/articles/816757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816757)
+- [Как устроен рекомендательный сервис, который выдерживает 700 тысяч запросов в секунду. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/816205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816205)
 - [Как протестировать логику консьюмеров и продюсеров и не сгореть? Spring Boot 3, Spring Kafka](https://habr.com/ru/companies/alfastrah/articles/816057/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816057)
 - [Яндекс выпустил DivKit. Я – Nui](https://habr.com/ru/articles/815489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815489)
 - [RxJs для самых маленьких](https://habr.com/ru/articles/816755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816755)
-- [C Linux в кармане](https://habr.com/ru/articles/816725/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816725)
-- [Как распознать текст, написанный искусственным интеллектом: основные признаки &lpar;1 часть&rpar;](https://habr.com/ru/articles/816733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816733)
 <!-- BLOG-POST-LIST:END -->
 
 ---
