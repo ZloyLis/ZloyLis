@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем простые OSINT и пентест инструменты на Python](https://habr.com/ru/articles/816889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816889)
 - [Резервный мониторинг послушного дома](https://habr.com/ru/articles/817001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817001)
 - [А это точно твой сайт? Как проверить, что пользователь владелец сайта](https://habr.com/ru/companies/productradar/articles/815931/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815931)
 - [Разбираемся с coroutine в Kotlin — 2](https://habr.com/ru/articles/817047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817047)
 - [Локализация и RTL: как мы устроили переворот](https://habr.com/ru/articles/817035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817035)
-- [Generic Concurrency в Go](https://habr.com/ru/articles/817003/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817003)
 <!-- BLOG-POST-LIST:END -->
 
 ---
