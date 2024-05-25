@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локализация и RTL: как мы устроили переворот](https://habr.com/ru/articles/817035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817035)
 - [Generic Concurrency в Go](https://habr.com/ru/articles/817003/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817003)
 - [Как увеличить конверсию сайта](https://habr.com/ru/articles/816999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816999)
 - [Дореволюционный Энциклопедический словарь Брокгауза и Ефрона](https://habr.com/ru/companies/alfa/articles/816965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816965)
 - [Цифровизация аудитов и наблюдений систем менеджмента качества. Собираем требования](https://habr.com/ru/articles/816969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816969)
-- [Protobuf и buf: блеск, нищета и импортозамещение](https://habr.com/ru/companies/oleg-bunin/articles/816631/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816631)
 <!-- BLOG-POST-LIST:END -->
 
 ---
