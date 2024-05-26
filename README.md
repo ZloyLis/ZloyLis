@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локальный HTTPS в dev-окружении — простая настройка](https://habr.com/ru/companies/globalsign/articles/817221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817221)
 - [Математические бланки // Часть 2: философия](https://habr.com/ru/articles/800835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800835)
 - [Проблемы эмуляции IPP принтера в Android](https://habr.com/ru/articles/817201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817201)
 - [Я научу вас неправильно играть в Hearts of iron. Оптимизация довоенной экономики: часть 1](https://habr.com/ru/articles/817161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817161)
 - [21 вопрос электромеханику по ремонту и обслуживанию вычислительной техники](https://habr.com/ru/articles/817195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817195)
-- [Как стать Frontend разработчиком: подробное руководство по началу карьеры](https://habr.com/ru/articles/817193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817193)
 <!-- BLOG-POST-LIST:END -->
 
 ---
