@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблемы эмуляции IPP принтера в Android](https://habr.com/ru/articles/817201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817201)
+- [Я научу вас неправильно играть в Hearts of iron. Оптимизация довоенной экономики: часть 1](https://habr.com/ru/articles/817161/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817161)
 - [21 вопрос электромеханику по ремонту и обслуживанию вычислительной техники](https://habr.com/ru/articles/817195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817195)
 - [Как стать Frontend разработчиком: подробное руководство по началу карьеры](https://habr.com/ru/articles/817193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817193)
 - [[Перевод] Мега-Учебник Flask Глава 10: Поддержка электронной почты &lpar;издание 2024&rpar;](https://habr.com/ru/articles/815623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815623)
-- [По обе стороны Android печати](https://habr.com/ru/articles/817169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817169)
-- [[Перевод] Как Боб текстовый файл считывал](https://habr.com/ru/articles/817125/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817125)
 <!-- BLOG-POST-LIST:END -->
 
 ---
