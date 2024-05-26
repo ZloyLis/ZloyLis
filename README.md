@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [По обе стороны Android печати](https://habr.com/ru/articles/817169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817169)
+- [Генерируем формы по 200 полей через ИИ](https://habr.com/ru/articles/817159/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817159)
 - [[Перевод] Как Боб текстовый файл считывал](https://habr.com/ru/articles/817125/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817125)
 - [Типы совместимости в Schema Registry для Apache Kafka](https://habr.com/ru/articles/817121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817121)
 - [Как работать с багами для новичков](https://habr.com/ru/articles/817103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817103)
-- [Три оттенка Kubernetes Operator, или чем слушает Prometheus](https://habr.com/ru/articles/817091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817091)
-- [Создаем простые OSINT и пентест инструменты на Python](https://habr.com/ru/articles/816889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816889)
 <!-- BLOG-POST-LIST:END -->
 
 ---
