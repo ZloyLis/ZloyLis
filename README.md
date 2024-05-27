@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome в Windows 7. Google наносит ответный удар](https://habr.com/ru/articles/817561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817561)
+- [Apple Pro Weekly News &lpar;20.05 – 26.05.24&rpar;](https://habr.com/ru/articles/817559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817559)
 - [Стэнфордский курс CS193P “Разработка iOS приложений в SwiftUI” Весна 2023: русскоязычный конспект с адаптацией к iOS 17](https://habr.com/ru/articles/816995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816995)
 - [Security Week 2422: уязвимости в устройствах QNAP](https://habr.com/ru/companies/kaspersky/articles/817507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817507)
 - [Куда катится MobAIle-разработка](https://habr.com/ru/articles/816169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816169)
-- [Быстрая Data Quality проверка на базе алгоритма adversarial validation](https://habr.com/ru/companies/ru_mts/articles/817483/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817483)
-- [Запускаем .NET на RISC-V и разрабатываем IoT приложение для Sipeed Lichee RV](https://habr.com/ru/companies/timeweb/articles/817163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817163)
 <!-- BLOG-POST-LIST:END -->
 
 ---
