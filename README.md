@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы реализовали Low-code на микросервисах](https://habr.com/ru/companies/elma/articles/817317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817317)
 - [[Перевод] Разделяемость данных между микросервисами](https://habr.com/ru/companies/piter/articles/817339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817339)
 - [[Перевод] Пакетная обработка данных на современных GPU](https://habr.com/ru/companies/wunderfund/articles/816657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816657)
 - [Почему JOOQ — идеальный инструмент для работы с БД при интеграционном тестировании API](https://habr.com/ru/companies/simbirsoft/articles/817253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817253)
 - [Сбросить балласт. Аккуратное отключение лишних фич](https://habr.com/ru/companies/ruvds/articles/816515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816515)
-- [Hazelcast: эксперименты с настройкой и долговременным хранением больших объектов in-memory](https://habr.com/ru/companies/croc/articles/816973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816973)
 <!-- BLOG-POST-LIST:END -->
 
 ---
