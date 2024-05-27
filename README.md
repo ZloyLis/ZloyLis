@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разделяемость данных между микросервисами](https://habr.com/ru/companies/piter/articles/817339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817339)
+- [[Перевод] Пакетная обработка данных на современных GPU](https://habr.com/ru/companies/wunderfund/articles/816657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816657)
+- [Почему JOOQ — идеальный инструмент для работы с БД при интеграционном тестировании API](https://habr.com/ru/companies/simbirsoft/articles/817253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817253)
 - [Сбросить балласт. Аккуратное отключение лишних фич](https://habr.com/ru/companies/ruvds/articles/816515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816515)
 - [Hazelcast: эксперименты с настройкой и долговременным хранением больших объектов in-memory](https://habr.com/ru/companies/croc/articles/816973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816973)
-- [Три основных способа оптимизировать ваши запросы в PostgreSQL](https://habr.com/ru/companies/otus/articles/815893/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815893)
-- [JOOQ. Введение. Между Сциллой и Харибдой](https://habr.com/ru/articles/815771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815771)
-- [Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks](https://habr.com/ru/companies/spectr/articles/817267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817267)
 <!-- BLOG-POST-LIST:END -->
 
 ---
