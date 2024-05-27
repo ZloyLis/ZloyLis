@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой пример использования Symfony Messenger](https://habr.com/ru/articles/817425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817425)
+- [[Перевод] Загадочное дело о пропавшей точке](https://habr.com/ru/companies/ruvds/articles/817395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817395)
+- [Structured concurrency в языке Go](https://habr.com/ru/companies/karuna/articles/816677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816677)
 - [Почему Fedora CoreOS — это container optimized дистрибутив](https://habr.com/ru/companies/selectel/articles/817299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817299)
 - [Магия ссылок системы быстрых платежей](https://habr.com/ru/companies/nspk/articles/817385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817385)
-- [Как мы реализовали Low-code на микросервисах](https://habr.com/ru/companies/elma/articles/817317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817317)
-- [[Перевод] Разделяемость данных между микросервисами](https://habr.com/ru/companies/piter/articles/817339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817339)
-- [[Перевод] Пакетная обработка данных на современных GPU](https://habr.com/ru/companies/wunderfund/articles/816657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816657)
 <!-- BLOG-POST-LIST:END -->
 
 ---
