@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запускаем .NET на RISC-V и разрабатываем IoT приложение для Sipeed Lichee RV](https://habr.com/ru/companies/timeweb/articles/817163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817163)
+- [Декораторы в python по книгам](https://habr.com/ru/articles/817445/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817445)
 - [Простой пример использования Symfony Messenger](https://habr.com/ru/articles/817425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817425)
 - [[Перевод] Загадочное дело о пропавшей точке](https://habr.com/ru/companies/ruvds/articles/817395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817395)
 - [Structured concurrency в языке Go](https://habr.com/ru/companies/karuna/articles/816677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816677)
-- [Почему Fedora CoreOS — это container optimized дистрибутив](https://habr.com/ru/companies/selectel/articles/817299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817299)
-- [Магия ссылок системы быстрых платежей](https://habr.com/ru/companies/nspk/articles/817385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
