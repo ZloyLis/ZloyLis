@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбросить балласт. Аккуратное отключение лишних фич](https://habr.com/ru/companies/ruvds/articles/816515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816515)
+- [Hazelcast: эксперименты с настройкой и долговременным хранением больших объектов in-memory](https://habr.com/ru/companies/croc/articles/816973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816973)
+- [Три основных способа оптимизировать ваши запросы в PostgreSQL](https://habr.com/ru/companies/otus/articles/815893/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815893)
 - [JOOQ. Введение. Между Сциллой и Харибдой](https://habr.com/ru/articles/815771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815771)
 - [Внедряем DevSecOps в процесс разработки. Часть 2. Обзор инструментов, Commit-time Checks](https://habr.com/ru/companies/spectr/articles/817267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817267)
-- [Как оценить валидность A/B тестов. SRM и другие критерии](https://habr.com/ru/companies/sbermarket/articles/816841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816841)
-- [[Перевод] Глубокое погружение в дочерние шаблоны Joomla](https://habr.com/ru/articles/809089/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809089)
-- [Безопасное проектирование программного обеспечения. Конфиденциальность и Шифрование](https://habr.com/ru/companies/otus/articles/817233/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817233)
 <!-- BLOG-POST-LIST:END -->
 
 ---
