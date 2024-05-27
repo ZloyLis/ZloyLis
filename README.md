@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #539 &lpar;20 — 26 мая&rpar;](https://habr.com/ru/companies/productivity_inside/articles/817239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817239)
 - [Меняем американца на китайца в цифровых двойниках. Двигатели переменного тока – точные модели](https://habr.com/ru/articles/817077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817077)
 - [Финансовая арифметика в PostgreSQL](https://habr.com/ru/articles/817225/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817225)
 - [Локальный HTTPS в dev-окружении — простая настройка](https://habr.com/ru/companies/globalsign/articles/817221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817221)
 - [Математические бланки // Часть 2: философия](https://habr.com/ru/articles/800835/?utm_source=habrahabr&utm_medium=rss&utm_campaign=800835)
-- [Умные настройки Chrome для стабильной автоматизации тестов](https://habr.com/ru/articles/817205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817205)
 <!-- BLOG-POST-LIST:END -->
 
 ---
