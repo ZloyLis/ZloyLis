@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему Fedora CoreOS — это container optimized дистрибутив](https://habr.com/ru/companies/selectel/articles/817299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817299)
+- [Магия ссылок системы быстрых платежей](https://habr.com/ru/companies/nspk/articles/817385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817385)
 - [Как мы реализовали Low-code на микросервисах](https://habr.com/ru/companies/elma/articles/817317/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817317)
 - [[Перевод] Разделяемость данных между микросервисами](https://habr.com/ru/companies/piter/articles/817339/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817339)
 - [[Перевод] Пакетная обработка данных на современных GPU](https://habr.com/ru/companies/wunderfund/articles/816657/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816657)
-- [Почему JOOQ — идеальный инструмент для работы с БД при интеграционном тестировании API](https://habr.com/ru/companies/simbirsoft/articles/817253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817253)
-- [Сбросить балласт. Аккуратное отключение лишних фич](https://habr.com/ru/companies/ruvds/articles/816515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
