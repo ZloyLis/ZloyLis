@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что важно знать перед собеседованием аналитика данных](https://habr.com/ru/companies/yandex_praktikum/articles/817521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817521)
+- [Как мы выбирали протокол для клиентского API. Сравнение JSON-RPC 2.0 и RESTful API](https://habr.com/ru/companies/spaceweb/articles/817363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817363)
+- [Bare-metal Kubernetes — спускайся с облаков](https://habr.com/ru/companies/nixys/articles/816769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816769)
+- [Как понять, что пора выпускать новое приложение вместо старого? Разбираем со стороны бизнеса](https://habr.com/ru/companies/clevertec/articles/817407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817407)
 - [Профиль защиты ЦБ РФ и мобильные приложения: разбираемся, как соответствовать](https://habr.com/ru/companies/swordfish_security/articles/817569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817569)
-- [Как стать Python-разработчиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/817219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817219)
-- [[Перевод] Измерение продуктивности разработчиков. Ответ McKinsey &lpar;ч.2&rpar;](https://habr.com/ru/articles/817557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817557)
-- [Chrome в Windows 7. Google наносит ответный удар](https://habr.com/ru/articles/817561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817561)
-- [Apple Pro Weekly News &lpar;20.05 – 26.05.24&rpar;](https://habr.com/ru/articles/817559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817559)
 <!-- BLOG-POST-LIST:END -->
 
 ---
