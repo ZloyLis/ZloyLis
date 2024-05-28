@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кейс: SEO продвижение интернет-магазина женской одежды или как увеличить посещаемость сайта на 737% менее чем за год](https://habr.com/ru/articles/817823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817823)
 - [Интеграция PostgreSQL и Hadoop](https://habr.com/ru/companies/otus/articles/817063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817063)
 - [Time Limit Exceeded это не только про сложность алгоритма](https://habr.com/ru/articles/817501/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817501)
 - [SQL vs NoSQL: как выбрать архитектуру БД для мобильного приложения, чтобы потом не пришлось ничего переписывать](https://habr.com/ru/companies/agima/articles/817697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817697)
 - [Декомпозиция — ваша суперсила](https://habr.com/ru/companies/tinkoff/articles/817755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817755)
-- [В помощь джунам: как легко разместить сайт на VPS](https://habr.com/ru/companies/ruvds/articles/816299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816299)
 <!-- BLOG-POST-LIST:END -->
 
 ---
