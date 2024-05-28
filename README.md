@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Time Limit Exceeded это не только про сложность алгоритма](https://habr.com/ru/articles/817501/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817501)
+- [SQL vs NoSQL: как выбрать архитектуру БД для мобильного приложения, чтобы потом не пришлось ничего переписывать](https://habr.com/ru/companies/agima/articles/817697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817697)
 - [Декомпозиция — ваша суперсила](https://habr.com/ru/companies/tinkoff/articles/817755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817755)
 - [В помощь джунам: как легко разместить сайт на VPS](https://habr.com/ru/companies/ruvds/articles/816299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816299)
 - [Зачем инженеру идти в преподавание &lpar;это не деньги или слава&rpar;. Разбираемся, как всё успеть и не умереть](https://habr.com/ru/companies/jetinfosystems/articles/817655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817655)
-- [Автоматизация подготовки релиз-кандидата](https://habr.com/ru/companies/vk/articles/817721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817721)
-- [Как двум командам сработаться и не сойти с ума](https://habr.com/ru/companies/surfstudio/articles/817723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817723)
 <!-- BLOG-POST-LIST:END -->
 
 ---
