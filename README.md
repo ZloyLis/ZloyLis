@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Декомпозиция — ваша суперсила](https://habr.com/ru/companies/tinkoff/articles/817755/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817755)
+- [В помощь джунам: как легко разместить сайт на VPS](https://habr.com/ru/companies/ruvds/articles/816299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816299)
+- [Зачем инженеру идти в преподавание &lpar;это не деньги или слава&rpar;. Разбираемся, как всё успеть и не умереть](https://habr.com/ru/companies/jetinfosystems/articles/817655/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817655)
+- [Автоматизация подготовки релиз-кандидата](https://habr.com/ru/companies/vk/articles/817721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817721)
 - [Как двум командам сработаться и не сойти с ума](https://habr.com/ru/companies/surfstudio/articles/817723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817723)
-- [Книга: «Алгоритмы с нуля»](https://habr.com/ru/companies/piter/articles/816601/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816601)
-- [Python — Эволюция создания объектов &lpar;вторая часть&rpar;](https://habr.com/ru/articles/817699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817699)
-- [Разминаем олдскулы: запускаем сервер «линейки» и становимся героем](https://habr.com/ru/companies/selectel/articles/816165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816165)
-- [Что важно знать перед собеседованием начинающего аналитика данных](https://habr.com/ru/companies/yandex_praktikum/articles/817521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817521)
 <!-- BLOG-POST-LIST:END -->
 
 ---
