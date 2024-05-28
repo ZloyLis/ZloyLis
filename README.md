@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python — Эволюция создания объектов &lpar;вторая часть&rpar;](https://habr.com/ru/articles/817699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817699)
 - [Разминаем олдскулы: запускаем сервер «линейки» и становимся героем](https://habr.com/ru/companies/selectel/articles/816165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816165)
 - [Что важно знать перед собеседованием аналитика данных](https://habr.com/ru/companies/yandex_praktikum/articles/817521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817521)
 - [Как мы выбирали протокол для клиентского API. Сравнение JSON-RPC 2.0 и RESTful API](https://habr.com/ru/companies/spaceweb/articles/817363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817363)
 - [Bare-metal Kubernetes — спускайся с облаков](https://habr.com/ru/companies/nixys/articles/816769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816769)
-- [Как понять, что пора выпускать новое приложение вместо старого? Разбираем со стороны бизнеса](https://habr.com/ru/companies/clevertec/articles/817407/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817407)
 <!-- BLOG-POST-LIST:END -->
 
 ---
