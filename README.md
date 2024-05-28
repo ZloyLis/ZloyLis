@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Профиль защиты ЦБ РФ и мобильные приложения: разбираемся, как соответствовать](https://habr.com/ru/companies/swordfish_security/articles/817569/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817569)
+- [Как стать Python-разработчиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/817219/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817219)
 - [[Перевод] Измерение продуктивности разработчиков. Ответ McKinsey &lpar;ч.2&rpar;](https://habr.com/ru/articles/817557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817557)
 - [Chrome в Windows 7. Google наносит ответный удар](https://habr.com/ru/articles/817561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817561)
 - [Apple Pro Weekly News &lpar;20.05 – 26.05.24&rpar;](https://habr.com/ru/articles/817559/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817559)
-- [Стэнфордский курс CS193P “Разработка iOS приложений в SwiftUI” Весна 2023: русскоязычный конспект с адаптацией к iOS 17](https://habr.com/ru/articles/816995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816995)
-- [Security Week 2422: уязвимости в устройствах QNAP](https://habr.com/ru/companies/kaspersky/articles/817507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817507)
 <!-- BLOG-POST-LIST:END -->
 
 ---
