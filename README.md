@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как точно предсказать будущую карьеру IT-абитуриента &lpar;или ее отсутствие&rpar;](https://habr.com/ru/articles/817599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817599)
-- [Нагружать может каждый](https://habr.com/ru/companies/oleg-bunin/articles/817591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817591)
-- [Интеграция PostgreSQL с другими СУБД через dblink](https://habr.com/ru/companies/otus/articles/817187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817187)
-- [[Перевод] Туториал по Tokio. 2/2](https://habr.com/ru/companies/timeweb/articles/816743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816743)
-- [Сложная красота в простой формуле](https://habr.com/ru/articles/817869/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817869)
+- [Go напишем шахматный сервер? Часть вторая — структуры, интерфейсы и методы](https://habr.com/ru/articles/817995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817995)
+- [Развитие сотрудников в IT-компании](https://habr.com/ru/companies/itfb/articles/817727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817727)
+- [Amplicode: учим IDE говорить на языке фреймворка](https://habr.com/ru/companies/haulmont/articles/814207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814207)
+- [Внедряем DevSecOps в процесс разработки. Часть 3. Этап Post-build Checks в DevSecOps, обзор инструментов](https://habr.com/ru/companies/spectr/articles/817287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817287)
+- [Какие ошибки есть в коде LLVM?](https://habr.com/ru/companies/pvs-studio/articles/817963/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817963)
 <!-- BLOG-POST-LIST:END -->
 
 ---
