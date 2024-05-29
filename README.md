@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Геометры разрабатывают новые инструменты для управления орбитами космических аппаратов](https://habr.com/ru/articles/818155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818155)
+- [Архитектура Xорошего Кода Прошивки &lpar;Массив-Наше Всё&rpar;](https://habr.com/ru/articles/816589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816589)
 - [Автоматическое создание интерактивных карт](https://habr.com/ru/articles/818143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818143)
 - [Kubernetes. Логика работы клиентов с kube-api: что под капотом?](https://habr.com/ru/companies/factory5/articles/818141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818141)
 - [Pедактор цен для iOS подписок](https://habr.com/ru/companies/asodev/articles/804519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804519)
-- [Масштабирование глубокого обучения с помощью Horovod и Kubernetes](https://habr.com/ru/companies/otus/articles/817711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817711)
-- [[Перевод] Делаем кондиционер умным с помощью Elixir и Nerves](https://habr.com/ru/companies/ruvds/articles/818021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
