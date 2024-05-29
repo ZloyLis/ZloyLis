@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Pедактор цен для iOS подписок](https://habr.com/ru/companies/asodev/articles/804519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804519)
 - [Масштабирование глубокого обучения с помощью Horovod и Kubernetes](https://habr.com/ru/companies/otus/articles/817711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817711)
 - [[Перевод] Делаем кондиционер умным с помощью Elixir и Nerves](https://habr.com/ru/companies/ruvds/articles/818021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818021)
 - [«Hello, World!» от мира сжатия данных. Канонический алгоритм сжатия данных Хаффмана](https://habr.com/ru/articles/818065/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818065)
 - [В далекой-далекой Galaxy: как организовать общее пространство для Ansible-контента](https://habr.com/ru/companies/yadro/articles/817639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817639)
-- [Собственные проекты, углубленная практика алгоритмов и другое: поднимаем навыки программирования на новый уровень](https://habr.com/ru/companies/productstar/articles/818013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818013)
 <!-- BLOG-POST-LIST:END -->
 
 ---
