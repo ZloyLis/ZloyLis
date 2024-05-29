@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В далекой-далекой Galaxy: как организовать общее пространство для Ansible-контента](https://habr.com/ru/companies/yadro/articles/817639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817639)
 - [Собственные проекты, углубленная практика алгоритмов и другое: поднимаем навыки программирования на новый уровень](https://habr.com/ru/companies/productstar/articles/818013/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818013)
 - [[Перевод] Оптимизация настроек Kafka кластера. Часть 1. Механизмы управления пропускной способностью](https://habr.com/ru/articles/818007/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818007)
 - [Go напишем шахматный сервер? Часть вторая — структуры, интерфейсы и методы](https://habr.com/ru/articles/817995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817995)
 - [Развитие сотрудников в IT-компании](https://habr.com/ru/companies/itfb/articles/817727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817727)
-- [Amplicode: учим IDE говорить на языке фреймворка](https://habr.com/ru/companies/haulmont/articles/814207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814207)
 <!-- BLOG-POST-LIST:END -->
 
 ---
