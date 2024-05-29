@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как точно предсказать будущую карьеру IT-абитуриента &lpar;или ее отсутствие&rpar;](https://habr.com/ru/articles/817599/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817599)
+- [Нагружать может каждый](https://habr.com/ru/companies/oleg-bunin/articles/817591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817591)
+- [Интеграция PostgreSQL с другими СУБД через dblink](https://habr.com/ru/companies/otus/articles/817187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817187)
 - [[Перевод] Туториал по Tokio. 2/2](https://habr.com/ru/companies/timeweb/articles/816743/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816743)
 - [Сложная красота в простой формуле](https://habr.com/ru/articles/817869/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817869)
-- [10 полезных функций смартфонов Huawei и прошивки EMUI, которых нет у других](https://habr.com/ru/companies/x-com/articles/817887/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817887)
-- [Эволюция подсчета в Python](https://habr.com/ru/articles/817529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817529)
-- [Кейс: SEO продвижение интернет-магазина женской одежды или как увеличить посещаемость сайта на 737% менее чем за год](https://habr.com/ru/articles/817823/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817823)
 <!-- BLOG-POST-LIST:END -->
 
 ---
