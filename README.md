@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь покупателя интернет-магазина &lpar; Customer Journey &rpar; с использованием УФМТП](https://habr.com/ru/articles/818237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818237)
+- [Как делать бинарно-совместимые API на компилируемых языках](https://habr.com/ru/companies/vk/articles/816493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816493)
+- [Ужасно подробные ошибки в API: пишем на Go инструмент для работы с ними](https://habr.com/ru/companies/yadro/articles/817719/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817719)
 - [Сквозная аналитика: комплексный подход к эффективности бизнеса](https://habr.com/ru/articles/818283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818283)
 - [Redis UI для администрирования сотен Redis инстансов](https://habr.com/ru/articles/818015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818015)
-- [С Python на Go и обратно: мой опыт](https://habr.com/ru/companies/yandex_praktikum/articles/818131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818131)
-- [Подделка из бумаги: разбираемся, почему участились мошенничества с документами и как устроены антифрод-системы с ИИ](https://habr.com/ru/companies/smartengines/articles/818085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818085)
-- [Один большой обман: как недобросовестные продавцы обманывают покупателей при покупке оригинальных смартфонов](https://habr.com/ru/companies/timeweb/articles/817865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817865)
 <!-- BLOG-POST-LIST:END -->
 
 ---
