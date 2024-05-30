@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему я отказался от разработки игр на Rust, часть 4](https://habr.com/ru/articles/813597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813597)
+- [Разработка REST API с использованием Kotlin и Spring Boot: сочетание простоты и мощи](https://habr.com/ru/articles/818195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818195)
 - [Знакомство с Percona Everest [Beta] — инструментом для управления кластерами баз данных](https://habr.com/ru/companies/flant/articles/817685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817685)
 - [Обзор новых Open Source LLM. Или как локально запустить аналог ChatGPT](https://habr.com/ru/articles/818183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818183)
 - [Попалась тут задачка на поиск совпадений в строках &lpar;адреса&rpar;…](https://habr.com/ru/articles/817917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817917)
-- [[Перевод] Геометры разрабатывают новые инструменты для управления орбитами космических аппаратов](https://habr.com/ru/articles/818155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818155)
-- [Архитектура Xорошего Кода Прошивки &lpar;Массив-Наше Всё&rpar;](https://habr.com/ru/articles/816589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816589)
 <!-- BLOG-POST-LIST:END -->
 
 ---
