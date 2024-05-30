@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один большой обман: как недобросовестные продавцы обманывают покупателей при покупке оригинальных смартфонов](https://habr.com/ru/companies/timeweb/articles/817865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817865)
+- [Редизайн сервиса «Обмен валюты» в мобильном приложении ОТП Банка](https://habr.com/ru/companies/otpbank/articles/817771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817771)
+- [Объявляю ошибку вида if &lpar;x = 42&rpar; вымирающей и заношу её в Красную книгу C и C++ багов](https://habr.com/ru/companies/pvs-studio/articles/818215/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818215)
+- [Как я НЕ стал разработчиком, или О проблемах на пути начинающего специалиста](https://habr.com/ru/companies/ozontech/articles/817737/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817737)
 - [[Перевод] Почему я отказался от разработки игр на Rust, часть 4](https://habr.com/ru/articles/813597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813597)
-- [Разработка REST API с использованием Kotlin и Spring Boot: сочетание простоты и мощи](https://habr.com/ru/articles/818195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818195)
-- [Знакомство с Percona Everest [Beta] — инструментом для управления кластерами баз данных](https://habr.com/ru/companies/flant/articles/817685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817685)
-- [Обзор новых Open Source LLM. Или как локально запустить аналог ChatGPT](https://habr.com/ru/articles/818183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818183)
-- [Попалась тут задачка на поиск совпадений в строках &lpar;адреса&rpar;…](https://habr.com/ru/articles/817917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817917)
 <!-- BLOG-POST-LIST:END -->
 
 ---
