@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Neuralink Илона Маска не единственный. Как появились нейроимпланты, есть ли у них будущее и при чем тут программирование](https://habr.com/ru/companies/agima/articles/818391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818391)
+- [Между холиваром и оверинжинирингом: что, если разработчик не доверяет тестам тестировщика](https://habr.com/ru/companies/kaspersky/articles/817999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817999)
 - [Что делать, если вы — деврел, который хочет организовать региональную IT-конференцию](https://habr.com/ru/articles/818383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818383)
 - [Генерация документации из моделей с помощью Pydantic](https://habr.com/ru/companies/2gis/articles/816457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816457)
 - [Законы UX-дизайна: что делает пользователей счастливее, а продукт лучше](https://habr.com/ru/articles/818369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818369)
-- [Доступ к Docker Hub из России. Как подключиться к Docker Hub после блокировки](https://habr.com/ru/companies/amvera/articles/818299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818299)
-- [Книга «Микросервисы и API»](https://habr.com/ru/companies/piter/articles/816605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816605)
 <!-- BLOG-POST-LIST:END -->
 
 ---
