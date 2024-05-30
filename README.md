@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Знакомство с Percona Everest [Beta] — инструментом для управления кластерами баз данных](https://habr.com/ru/companies/flant/articles/817685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817685)
+- [Обзор новых Open Source LLM. Или как локально запустить аналог ChatGPT](https://habr.com/ru/articles/818183/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818183)
+- [Попалась тут задачка на поиск совпадений в строках &lpar;адреса&rpar;…](https://habr.com/ru/articles/817917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817917)
 - [[Перевод] Геометры разрабатывают новые инструменты для управления орбитами космических аппаратов](https://habr.com/ru/articles/818155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818155)
 - [Архитектура Xорошего Кода Прошивки &lpar;Массив-Наше Всё&rpar;](https://habr.com/ru/articles/816589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816589)
-- [Автоматическое создание интерактивных карт](https://habr.com/ru/articles/818143/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818143)
-- [Kubernetes. Логика работы клиентов с kube-api: что под капотом?](https://habr.com/ru/companies/factory5/articles/818141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818141)
-- [Pедактор цен для iOS подписок](https://habr.com/ru/companies/asodev/articles/804519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
