@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сквозная аналитика: комплексный подход к эффективности бизнеса](https://habr.com/ru/articles/818283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818283)
 - [Redis UI для администрирования сотен Redis инстансов](https://habr.com/ru/articles/818015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818015)
 - [С Python на Go и обратно: мой опыт](https://habr.com/ru/companies/yandex_praktikum/articles/818131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818131)
 - [Подделка из бумаги: разбираемся, почему участились мошенничества с документами и как устроены антифрод-системы с ИИ](https://habr.com/ru/companies/smartengines/articles/818085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818085)
 - [Один большой обман: как недобросовестные продавцы обманывают покупателей при покупке оригинальных смартфонов](https://habr.com/ru/companies/timeweb/articles/817865/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817865)
-- [Редизайн сервиса «Обмен валюты» в мобильном приложении ОТП Банка](https://habr.com/ru/companies/otpbank/articles/817771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817771)
 <!-- BLOG-POST-LIST:END -->
 
 ---
