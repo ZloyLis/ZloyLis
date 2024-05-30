@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что делать, если вы — деврел, который хочет организовать региональную IT-конференцию](https://habr.com/ru/articles/818383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818383)
+- [Генерация документации из моделей с помощью Pydantic](https://habr.com/ru/companies/2gis/articles/816457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816457)
+- [Законы UX-дизайна: что делает пользователей счастливее, а продукт лучше](https://habr.com/ru/articles/818369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818369)
 - [Доступ к Docker Hub из России. Как подключиться к Docker Hub после блокировки](https://habr.com/ru/companies/amvera/articles/818299/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818299)
 - [Книга «Микросервисы и API»](https://habr.com/ru/companies/piter/articles/816605/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816605)
-- [Путь покупателя интернет-магазина &lpar; Customer Journey &rpar; с использованием УФМТП](https://habr.com/ru/articles/818237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818237)
-- [Как делать бинарно-совместимые API на компилируемых языках](https://habr.com/ru/companies/vk/articles/816493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816493)
-- [Ужасно подробные ошибки в API: пишем на Go инструмент для работы с ними](https://habr.com/ru/companies/yadro/articles/817719/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817719)
 <!-- BLOG-POST-LIST:END -->
 
 ---
