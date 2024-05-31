@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как заставить Docker работать в России и Беларуси](https://habr.com/ru/articles/818527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818527)
 - [Vault HA + Consul HA + k8s](https://habr.com/ru/articles/818509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818509)
 - [MapStruct — смаппь меня, если сможешь](https://habr.com/ru/articles/818489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818489)
 - [Neuralink Илона Маска не единственный. Как появились нейроимпланты, есть ли у них будущее и при чем тут программирование](https://habr.com/ru/companies/agima/articles/818391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818391)
 - [Между холиваром и оверинжинирингом: что, если разработчик не доверяет тестам тестировщика](https://habr.com/ru/companies/kaspersky/articles/817999/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817999)
-- [Что делать, если вы — деврел, который хочет организовать региональную IT-конференцию](https://habr.com/ru/articles/818383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818383)
 <!-- BLOG-POST-LIST:END -->
 
 ---
