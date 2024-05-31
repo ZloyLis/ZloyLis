@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нужно знать о современном CSS &lpar;весна 2024 года&rpar;](https://habr.com/ru/articles/816541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816541)
+- [Тутор: как нажать на кнопку. Продвинутые техники работы с веб-элементами для Selenium](https://habr.com/ru/articles/818741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818741)
 - [Еще раз про расслоение Хопфа — новый сайт](https://habr.com/ru/articles/818727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818727)
 - [[Перевод] Как избежать когнитивной перегрузки: способы оптимизации кода для разработчиков](https://habr.com/ru/companies/ncloudtech/articles/818643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818643)
 - [[Перевод] Интеграционное тестирование с применением Testcontainers в .NET 8](https://habr.com/ru/companies/piter/articles/818071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818071)
-- [Прогнозируем движение льда в Арктике с помощью фреймворка автоматически собираемых сверток](https://habr.com/ru/companies/selectel/articles/818649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818649)
-- [Как создать волшебника в Django: многошаговые формы](https://habr.com/ru/companies/otus/articles/818117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818117)
 <!-- BLOG-POST-LIST:END -->
 
 ---
