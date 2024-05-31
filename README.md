@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Интеграционное тестирование с применением Testcontainers в .NET 8](https://habr.com/ru/companies/piter/articles/818071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818071)
+- [Прогнозируем движение льда в Арктике с помощью фреймворка автоматически собираемых сверток](https://habr.com/ru/companies/selectel/articles/818649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818649)
 - [Как создать волшебника в Django: многошаговые формы](https://habr.com/ru/companies/otus/articles/818117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818117)
 - [[Перевод] Rust: за пределами синтаксиса. Обретение просветления в неожиданных местах](https://habr.com/ru/articles/818653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818653)
 - [Простой путь к публикации Vue3 модуля на NPM с помощью Vite](https://habr.com/ru/companies/croc/articles/816803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816803)
-- [[Перевод] Сложно ли генерировать 1024-битные простые числа?](https://habr.com/ru/articles/813915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813915)
-- [Подготовка к техническому собеседованию Senior/Team Lead backend](https://habr.com/ru/articles/818473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818473)
 <!-- BLOG-POST-LIST:END -->
 
 ---
