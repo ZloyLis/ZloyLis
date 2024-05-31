@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать волшебника в Django: многошаговые формы](https://habr.com/ru/companies/otus/articles/818117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818117)
+- [[Перевод] Rust: за пределами синтаксиса. Обретение просветления в неожиданных местах](https://habr.com/ru/articles/818653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818653)
 - [Простой путь к публикации Vue3 модуля на NPM с помощью Vite](https://habr.com/ru/companies/croc/articles/816803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816803)
 - [[Перевод] Сложно ли генерировать 1024-битные простые числа?](https://habr.com/ru/articles/813915/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813915)
 - [Подготовка к техническому собеседованию Senior/Team Lead backend](https://habr.com/ru/articles/818473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818473)
-- [Разработка системы отчётности и BI: вопросы производительности](https://habr.com/ru/companies/magnit/articles/815667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815667)
-- [[Перевод] Cloudfare положил наш сайт после того, как мы отказались выплатить 120 000 $ в течение 24 часов](https://habr.com/ru/companies/productivity_inside/articles/818533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818533)
 <!-- BLOG-POST-LIST:END -->
 
 ---
