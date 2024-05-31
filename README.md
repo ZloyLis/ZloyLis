@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще раз про расслоение Хопфа — новый сайт](https://habr.com/ru/articles/818727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818727)
 - [[Перевод] Как избежать когнитивной перегрузки: способы оптимизации кода для разработчиков](https://habr.com/ru/companies/ncloudtech/articles/818643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818643)
 - [[Перевод] Интеграционное тестирование с применением Testcontainers в .NET 8](https://habr.com/ru/companies/piter/articles/818071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818071)
 - [Прогнозируем движение льда в Арктике с помощью фреймворка автоматически собираемых сверток](https://habr.com/ru/companies/selectel/articles/818649/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818649)
 - [Как создать волшебника в Django: многошаговые формы](https://habr.com/ru/companies/otus/articles/818117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818117)
-- [[Перевод] Rust: за пределами синтаксиса. Обретение просветления в неожиданных местах](https://habr.com/ru/articles/818653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818653)
 <!-- BLOG-POST-LIST:END -->
 
 ---
