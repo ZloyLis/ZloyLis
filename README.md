@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Все числа равны, но некоторые равнее. Как в Python сравниваются Int и Float](https://habr.com/ru/articles/818773/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818773)
 - [Функциональная архитектура в проектах внедрения на платформе 1С](https://habr.com/ru/articles/818547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818547)
 - [[Перевод] Что нужно знать о современном CSS &lpar;весна 2024 года&rpar;](https://habr.com/ru/articles/816541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816541)
 - [Тутор: как нажать на кнопку. Продвинутые техники работы с веб-элементами для Selenium](https://habr.com/ru/articles/818741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818741)
 - [Еще раз про расслоение Хопфа — новый сайт](https://habr.com/ru/articles/818727/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818727)
-- [[Перевод] Как избежать когнитивной перегрузки: способы оптимизации кода для разработчиков](https://habr.com/ru/companies/ncloudtech/articles/818643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818643)
 <!-- BLOG-POST-LIST:END -->
 
 ---
