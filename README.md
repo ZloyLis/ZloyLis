@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры и мошенники — в списке стейкхолдеров?](https://habr.com/ru/articles/818841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818841)
 - [Методы тестирования веб-API, которые должен знать каждый: чек-листы для начинающих](https://habr.com/ru/companies/ru_mts/articles/818805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818805)
 - [Дитер Рамс: дизайнер, определивший современность](https://habr.com/ru/articles/818837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818837)
 - [Как построить AI-сервис и не прогореть на этом](https://habr.com/ru/articles/818825/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818825)
 - [Обзор курса Certified Penetration Testing Specialist &lpar;CPTS&rpar; от HTB Academy](https://habr.com/ru/articles/818819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818819)
-- [SwiftUI уроки &lpar;часть 13&rpar;](https://habr.com/ru/articles/816783/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816783)
 <!-- BLOG-POST-LIST:END -->
 
 ---
