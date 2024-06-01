@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание масштабируемых RL систем с Ape-X](https://habr.com/ru/companies/otus/articles/818031/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818031)
 - [[Перевод] Учимся летать: симуляция эволюции на Rust. 1/5](https://habr.com/ru/companies/timeweb/articles/817585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817585)
 - [Desktop приложение для хранения текстовой информации](https://habr.com/ru/articles/818795/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818795)
 - [Нейросеть для генерации текста](https://habr.com/ru/articles/818793/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818793)
 - [Mobius 2024 offline. День первый](https://habr.com/ru/articles/818777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818777)
-- [Макроопределения для PostgreSQL](https://habr.com/ru/articles/818775/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818775)
 <!-- BLOG-POST-LIST:END -->
 
 ---
