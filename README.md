@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 1](https://habr.com/ru/articles/818201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818201)
 - [Не только ORM &lpar;NoORM&rpar;](https://habr.com/ru/articles/818761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818761)
 - [[Перевод] Непроизвольная тирания пользовательских интерфейсов](https://habr.com/ru/companies/ruvds/articles/818535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818535)
 - [.NET Aspire — империя дотнета наносит ответный удар](https://habr.com/ru/articles/818907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818907)
 - [Все секреты многопоточности](https://habr.com/ru/articles/818903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818903)
-- [«OSS, который не смог», или почему использование open source решений вдолгую требует корпоративных компетенций](https://habr.com/ru/articles/818009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
