@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Девять измерений от Дирака?](https://habr.com/ru/articles/818839/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818839)
+- [Firebase Analytics в KMP: Android, iOS, Desktop &lpar;MacOS, Windows&rpar;](https://habr.com/ru/articles/818891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818891)
 - [Создание дистрибутивов для разных операционных систем в Java 21 и 22](https://habr.com/ru/companies/jugru/articles/816981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816981)
 - [[Перевод] Хорошие программисты совершенствуют навыки, великие — своё мышление](https://habr.com/ru/companies/netologyru/articles/818519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818519)
 - [Go + Minio: как написать простой сервер для взаимодействия с файлами](https://habr.com/ru/articles/818853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818853)
-- [Разбираемся с coroutine в Kotlin — 3](https://habr.com/ru/articles/818847/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818847)
-- [Хакеры и мошенники — в списке стейкхолдеров?](https://habr.com/ru/articles/818841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818841)
 <!-- BLOG-POST-LIST:END -->
 
 ---
