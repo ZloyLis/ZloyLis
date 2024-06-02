@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я научу вас неправильно играть в Hearts of iron. Оптимизация довоенной экономики: часть 2](https://habr.com/ru/articles/818771/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818771)
+- [Превращаем Android-смартфон в USB-клавиатуру, мышь и флешку](https://habr.com/ru/companies/ruvds/articles/816595/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816595)
+- [Разгоняем код с Object Mother и Object Pool в Java](https://habr.com/ru/companies/otus/articles/818307/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818307)
 - [Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 1](https://habr.com/ru/articles/818201/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818201)
 - [Не только ORM &lpar;NoORM&rpar;](https://habr.com/ru/articles/818761/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818761)
-- [[Перевод] Непроизвольная тирания пользовательских интерфейсов](https://habr.com/ru/companies/ruvds/articles/818535/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818535)
-- [.NET Aspire — империя дотнета наносит ответный удар](https://habr.com/ru/articles/818907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818907)
-- [Все секреты многопоточности](https://habr.com/ru/articles/818903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818903)
 <!-- BLOG-POST-LIST:END -->
 
 ---
