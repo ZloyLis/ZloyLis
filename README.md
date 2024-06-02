@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Краткое сравнение популярных функций измерения времени](https://habr.com/ru/articles/818965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818965)
 - [Кратко про класс CompletableFuture в Java](https://habr.com/ru/companies/otus/articles/818955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818955)
 - [Shared Element Transition в Jetpack Compose](https://habr.com/ru/articles/818957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818957)
 - [Plane-based геометрическая алгебра для описания движения тел](https://habr.com/ru/articles/818933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818933)
 - [[Перевод] Мега-Учебник Flask Глава 12: Дата и время &lpar;издание 2024&rpar;](https://habr.com/ru/articles/817289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817289)
-- [[Перевод] Мега-Учебник Flask Глава 11: Дизайн приложения &lpar;издание 2024&rpar;](https://habr.com/ru/articles/816603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816603)
 <!-- BLOG-POST-LIST:END -->
 
 ---
