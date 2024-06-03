@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scala Digest. Выпуск 17](https://habr.com/ru/companies/tinkoff/articles/819131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819131)
+- [Откажитесь уже наконец от gin, echo и &amp;lt;иной ваш фреймворк&amp;gt;](https://habr.com/ru/companies/ozonbank/articles/817381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817381)
+- [За что я не люблю PostgreSQL](https://habr.com/ru/articles/819177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819177)
 - [Доступность, она же accessibility: делимся нашим опытом разработки](https://habr.com/ru/articles/818087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818087)
 - [Как я преподавал алгоритмы в 4 местах и проходил iOS-курсы. Что помогло получить работу?](https://habr.com/ru/companies/alfa/articles/818603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818603)
-- [Решение проблем общего кода в микросервисах Spring Boot и не только](https://habr.com/ru/companies/T1Holding/articles/819053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819053)
-- [Машинное обучение в браузере](https://habr.com/ru/articles/819061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819061)
-- [Создаем простой AI чат-бот Telegram с помощью Ollama и нескольких строк кода на Python](https://habr.com/ru/companies/hostkey/articles/819035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
