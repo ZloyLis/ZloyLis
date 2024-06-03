@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение проблем общего кода в микросервисах Spring Boot и не только](https://habr.com/ru/companies/T1Holding/articles/819053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819053)
+- [Машинное обучение в браузере](https://habr.com/ru/articles/819061/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819061)
 - [Создаем простой AI чат-бот Telegram с помощью Ollama и нескольких строк кода на Python](https://habr.com/ru/companies/hostkey/articles/819035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819035)
 - [Успех тимлида — это успех команды: три ошибки тимлидов в начале пути](https://habr.com/ru/companies/avito/articles/818207/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818207)
 - [Свой S3-server: что делать, если ваши десятки петабайт уже не лезут в коробочные объектные хранилища](https://habr.com/ru/companies/ozontech/articles/818433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818433)
-- [Блюда и блоки: как «Программатор» помог улучшить бизнес-процессы в сети ресторанов](https://habr.com/ru/companies/chatapp/articles/819023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819023)
-- [Два типа рефлексий в C++](https://habr.com/ru/companies/otus/articles/818507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818507)
 <!-- BLOG-POST-LIST:END -->
 
 ---
