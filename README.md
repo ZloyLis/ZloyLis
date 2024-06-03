@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Оптимизация настроек Kafka кластера. Часть 2. Механизмы управления задержкой, надежностью и доступностью](https://habr.com/ru/articles/819243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819243)
+- [Про обязательность поправки на множественные сравнения, которая часто игнорируется адептами Data Driven методов](https://habr.com/ru/articles/818287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818287)
 - [Apple Pro Weekly News &lpar;27.05 – 02.06.24&rpar;](https://habr.com/ru/articles/819221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819221)
 - [Scala Digest. Выпуск 17](https://habr.com/ru/companies/tinkoff/articles/819131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819131)
 - [Откажитесь уже наконец от gin, echo и &amp;lt;иной ваш фреймворк&amp;gt;](https://habr.com/ru/companies/ozonbank/articles/817381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817381)
-- [За что я не люблю PostgreSQL](https://habr.com/ru/articles/819177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819177)
-- [Доступность, она же accessibility: делимся нашим опытом разработки](https://habr.com/ru/articles/818087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818087)
 <!-- BLOG-POST-LIST:END -->
 
 ---
