@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Блюда и блоки: как «Программатор» помог улучшить бизнес-процессы в сети ресторанов](https://habr.com/ru/companies/chatapp/articles/819023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819023)
+- [Два типа рефлексий в C++](https://habr.com/ru/companies/otus/articles/818507/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818507)
+- [await vs yield на примере Effection 3.0 и React](https://habr.com/ru/articles/819005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819005)
 - [Как создать аудиоплеер. Часть 2. Использование ExoPlayer](https://habr.com/ru/companies/zvuk/articles/816671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816671)
 - [Реализация принципа единственной ответственности на Python](https://habr.com/ru/companies/otus/articles/818667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818667)
-- [Мобильная разработка за неделю #540 &lpar;27 мая — 2 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/818973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818973)
-- [Краткое сравнение популярных функций измерения времени](https://habr.com/ru/articles/818965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818965)
-- [Кратко про класс CompletableFuture в Java](https://habr.com/ru/companies/otus/articles/818955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818955)
 <!-- BLOG-POST-LIST:END -->
 
 ---
