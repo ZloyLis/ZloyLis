@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация принципа единственной ответственности на Python](https://habr.com/ru/companies/otus/articles/818667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818667)
 - [Мобильная разработка за неделю #540 &lpar;27 мая — 2 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/818973/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818973)
 - [Краткое сравнение популярных функций измерения времени](https://habr.com/ru/articles/818965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818965)
 - [Кратко про класс CompletableFuture в Java](https://habr.com/ru/companies/otus/articles/818955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818955)
 - [Shared Element Transition в Jetpack Compose](https://habr.com/ru/articles/818957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818957)
-- [Plane-based геометрическая алгебра для описания движения тел](https://habr.com/ru/articles/818933/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818933)
 <!-- BLOG-POST-LIST:END -->
 
 ---
