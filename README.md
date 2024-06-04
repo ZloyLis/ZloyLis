@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эйджизм в IT: в каком возрасте можно стать программистом](https://habr.com/ru/companies/skillfactory/articles/819455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819455)
+- [Комбинаторы синтаксического анализа на Kotlin](https://habr.com/ru/articles/819459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819459)
 - [Как мониторинг связан с тестированием. Преимущества мониторинга для бизнеса: как экономить время и деньги](https://habr.com/ru/articles/819437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819437)
 - [NTP для мобильных разработчиков: Как точное время повысит качество ваших приложений](https://habr.com/ru/articles/819435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819435)
 - [Система команд на основе переменных](https://habr.com/ru/articles/819287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819287)
-- [Блеск и нищета нового Scrolling API в Spring Data](https://habr.com/ru/companies/spring_aio/articles/819193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819193)
-- [Самые распространённые ошибки на собеседовании у джунов-разработчиков](https://habr.com/ru/companies/netologyru/articles/819211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819211)
 <!-- BLOG-POST-LIST:END -->
 
 ---
