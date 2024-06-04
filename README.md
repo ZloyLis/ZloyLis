@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Криптографы открыли новую основу для квантовой секретности](https://habr.com/ru/articles/819519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819519)
 - [Встроенные коллекции Dart: как реализовать в коде основные структуры данных. Глава из книги](https://habr.com/ru/companies/friflex/articles/819503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819503)
-- [Кастомные HTML-теги](https://habr.com/ru/articles/819465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819465)
+- [Нейминг HTML-тегов](https://habr.com/ru/articles/819465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819465)
 - [Мой опыт создания frontend и backend приложений для моего стартапа](https://habr.com/ru/articles/819489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819489)
 - [Делаем нативное мобильное приложение с ИИ и бэкендом &lpar;Туториал&rpar;](https://habr.com/ru/articles/816345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816345)
-- [Эйджизм в IT: в каком возрасте можно стать программистом](https://habr.com/ru/companies/skillfactory/articles/819455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819455)
 <!-- BLOG-POST-LIST:END -->
 
 ---
