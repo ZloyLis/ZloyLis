@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Встроенные коллекции Dart: как реализовать в коде основные структуры данных. Глава из книги](https://habr.com/ru/companies/friflex/articles/819503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819503)
+- [Кастомные HTML-теги](https://habr.com/ru/articles/819465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819465)
 - [Мой опыт создания frontend и backend приложений для моего стартапа](https://habr.com/ru/articles/819489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819489)
 - [Делаем нативное мобильное приложение с ИИ и бэкендом &lpar;Туториал&rpar;](https://habr.com/ru/articles/816345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816345)
 - [Эйджизм в IT: в каком возрасте можно стать программистом](https://habr.com/ru/companies/skillfactory/articles/819455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819455)
-- [Комбинаторы синтаксического анализа на Kotlin](https://habr.com/ru/articles/819459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819459)
-- [Как мониторинг связан с тестированием. Преимущества мониторинга для бизнеса: как экономить время и деньги](https://habr.com/ru/articles/819437/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819437)
 <!-- BLOG-POST-LIST:END -->
 
 ---
