@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Week 2423: о плохих генераторах случайных чисел и пароле к криптокошельку](https://habr.com/ru/companies/kaspersky/articles/819063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819063)
-- [Классы автоматизации: от MPS до ERP2](https://habr.com/ru/articles/819255/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819255)
-- [Пример использования Workerman и Symfony Messenger](https://habr.com/ru/articles/819187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819187)
-- [Кратко про Seq2Seq-модели](https://habr.com/ru/companies/otus/articles/816341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816341)
-- [Мысли по поводу доклада на FPGA-Systems про маршрут ИРИС из МГУ](https://habr.com/ru/articles/819269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819269)
+- [Мечтают ли безопасники о профильном образовании?](https://habr.com/ru/companies/bastion/articles/819121/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819121)
+- [Устройство для энтузиастов — телефон на ОС «Аврора»](https://habr.com/ru/companies/selectel/articles/819315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819315)
+- [Почему какие-то сайты стоят 10 тысяч, а какие-то миллион?](https://habr.com/ru/articles/818767/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818767)
+- [[Перевод] WordPress Interactivity API: Подробное объяснение](https://habr.com/ru/articles/819149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819149)
+- [Оптический поток: укрощение движения с помощью математики](https://habr.com/ru/articles/819345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
