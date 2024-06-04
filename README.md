@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пример использования Workerman и Symfony Messenger](https://habr.com/ru/articles/819187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819187)
 - [Кратко про Seq2Seq-модели](https://habr.com/ru/companies/otus/articles/816341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816341)
 - [Мысли по поводу доклада на FPGA-Systems про маршрут ИРИС из МГУ](https://habr.com/ru/articles/819269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819269)
-- [Code Review — простой способ измерения и анализа](https://habr.com/ru/articles/819279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819279)
+- [Code Review — простой инструмент измерения и анализа](https://habr.com/ru/articles/819279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819279)
 - [Как Составить Функцию Инициализации Микроконтроллера &lpar;Топологическая Сортировка Графов&rpar;](https://habr.com/ru/articles/818917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818917)
-- [[Перевод] Оптимизация настроек Kafka кластера. Часть 2. Механизмы управления задержкой, надежностью и доступностью](https://habr.com/ru/articles/819243/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819243)
 <!-- BLOG-POST-LIST:END -->
 
 ---
