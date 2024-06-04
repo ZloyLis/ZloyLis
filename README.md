@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2423: о плохих генераторах случайных чисел и пароле к криптокошельку](https://habr.com/ru/companies/kaspersky/articles/819063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819063)
+- [Классы автоматизации: от MPS до ERP2](https://habr.com/ru/articles/819255/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819255)
 - [Пример использования Workerman и Symfony Messenger](https://habr.com/ru/articles/819187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819187)
 - [Кратко про Seq2Seq-модели](https://habr.com/ru/companies/otus/articles/816341/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816341)
 - [Мысли по поводу доклада на FPGA-Systems про маршрут ИРИС из МГУ](https://habr.com/ru/articles/819269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819269)
-- [Code Review — простой инструмент измерения и анализа](https://habr.com/ru/articles/819279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819279)
-- [Как Составить Функцию Инициализации Микроконтроллера &lpar;Топологическая Сортировка Графов&rpar;](https://habr.com/ru/articles/818917/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818917)
 <!-- BLOG-POST-LIST:END -->
 
 ---
