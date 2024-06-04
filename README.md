@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Система команд на основе переменных](https://habr.com/ru/articles/819287/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819287)
+- [Блеск и нищета нового Scrolling API в Spring Data](https://habr.com/ru/companies/spring_aio/articles/819193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819193)
+- [Самые распространённые ошибки на собеседовании у джунов-разработчиков](https://habr.com/ru/companies/netologyru/articles/819211/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819211)
 - [[Перевод] Укрощаем суммы с плавающей запятой](https://habr.com/ru/articles/819135/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819135)
 - [7 раз отрежь, один релизни. А/Б тесты статических сайтов](https://habr.com/ru/articles/819399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819399)
-- [Что нового будет на FrontendConf 2024: взросление аудитории + хардкорные темы](https://habr.com/ru/companies/oleg-bunin/articles/735028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735028)
-- [С самого начала выбираем какую-то тактику и придерживаемся ее: говорим об индивидуальных планах развития](https://habr.com/ru/companies/vk/articles/819011/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819011)
-- [Приглашаем на Cinimex TECH VRN meetup в Воронеже &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/articles/819387/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819387)
 <!-- BLOG-POST-LIST:END -->
 
 ---
