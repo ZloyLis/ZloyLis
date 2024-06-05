@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Kubernetes платформа Gitorion. Приватный реестр Docker-образов с аутентификацией в Keycloak и Web-интерфейсом](https://habr.com/ru/companies/gitorion/articles/808017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808017)
+- [Рынок вакансий для аналитиков данных в 2024 году](https://habr.com/ru/companies/yandex_praktikum/articles/818111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818111)
+- [Адаптив без боли: как сделать резиновую вёрстку с заботой обо всех разрешениях](https://habr.com/ru/articles/819565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819565)
 - [[Перевод] Криптографы открыли новую основу для квантовой секретности](https://habr.com/ru/articles/819519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819519)
 - [Встроенные коллекции Dart: как реализовать в коде основные структуры данных. Глава из книги](https://habr.com/ru/companies/friflex/articles/819503/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819503)
-- [Нейминг HTML-тегов](https://habr.com/ru/articles/819465/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819465)
-- [Мой опыт создания frontend и backend приложений для моего стартапа](https://habr.com/ru/articles/819489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819489)
-- [Делаем нативное мобильное приложение с ИИ и бэкендом &lpar;Туториал&rpar;](https://habr.com/ru/articles/816345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816345)
 <!-- BLOG-POST-LIST:END -->
 
 ---
