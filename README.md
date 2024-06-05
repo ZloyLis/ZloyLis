@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AOP в Golang: как рефлексировать, и почему вам не стоит этого делать](https://habr.com/ru/articles/819789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819789)
+- [Lazy Loading в Java](https://habr.com/ru/companies/otus/articles/819357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819357)
 - [[Перевод] Что такое программирование игр и как стать игровым программистом?](https://habr.com/ru/articles/819723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819723)
 - [ИТ-кампус НЕЙМАРК как «точка сборки» олимпиадного движения. Как и зачем?](https://habr.com/ru/companies/neimark/articles/819721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819721)
 - [Магия динамического маппинга. Реализация универсальной обработки файлов нефиксированной структуры на Python](https://habr.com/ru/companies/spectr/articles/815831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815831)
-- [[Перевод] Сверхскоростные связные списки](https://habr.com/ru/articles/819693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819693)
-- [От идеи до продукта: Как я создал и запустил свой собственный IT стартап один [Part 1]](https://habr.com/ru/articles/819701/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819701)
 <!-- BLOG-POST-LIST:END -->
 
 ---
