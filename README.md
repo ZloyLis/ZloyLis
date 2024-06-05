@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое программирование игр и как стать игровым программистом?](https://habr.com/ru/articles/819723/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819723)
+- [ИТ-кампус НЕЙМАРК как «точка сборки» олимпиадного движения. Как и зачем?](https://habr.com/ru/companies/neimark/articles/819721/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819721)
+- [Магия динамического маппинга. Реализация универсальной обработки файлов нефиксированной структуры на Python](https://habr.com/ru/companies/spectr/articles/815831/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815831)
+- [[Перевод] Сверхскоростные связные списки](https://habr.com/ru/articles/819693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819693)
 - [От идеи до продукта: Как я создал и запустил свой собственный IT стартап один [Part 1]](https://habr.com/ru/articles/819701/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819701)
-- [Как защитить себя и бизнес от DDoS-атак — и что делать, если вы столкнулись с такой атакой](https://habr.com/ru/companies/productstar/articles/819691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819691)
-- [E2E-тестирование Flink Job с Kafka](https://habr.com/ru/companies/ru_mts/articles/819681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819681)
-- [[Перевод] Оптимизация настроек Kafka кластера. Часть 3. Сравнительное тестирование, мониторинг и тонкая настройка Kafka кластера](https://habr.com/ru/articles/819677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819677)
-- [Обновление статистик таблиц PostgreSQL обычным пользователем](https://habr.com/ru/articles/819673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819673)
 <!-- BLOG-POST-LIST:END -->
 
 ---
