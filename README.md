@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый комплексный подход к разработки в Bitrix на D7](https://habr.com/ru/articles/815439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815439)
+- [Треугольник Паскаля и скрытые в нём «паск&lpar;х&rpar;алки» &lpar;часть 2&rpar;](https://habr.com/ru/companies/first/articles/819541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819541)
 - [Пайплайны в GitLab для микросервисов](https://habr.com/ru/companies/selectel/articles/819509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819509)
 - [Ловушки volatile, DCL и синхронизации в Java](https://habr.com/ru/companies/pvs-studio/articles/819625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819625)
 - [Работа над ошибками: как мы сделали приложение World Class удобнее](https://habr.com/ru/articles/819405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819405)
-- [Быстрый интерфейс, быстрый деплой](https://habr.com/ru/companies/timeweb/articles/816427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816427)
-- [Как мы строили BDUI: опыт Яндекс Маркета](https://habr.com/ru/companies/yandex/articles/819531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819531)
 <!-- BLOG-POST-LIST:END -->
 
 ---
