@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа над ошибками: как мы сделали приложение World Class удобнее](https://habr.com/ru/articles/819405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819405)
+- [Как мы сократили время старта приложения с помощью BDUI: опыт Яндекс Маркета](https://habr.com/ru/companies/yandex/articles/819531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819531)
+- [Как я написал для своей команды бот-напоминалку на Golang и втрое сократил время на ревью задач](https://habr.com/ru/companies/sbermarket/articles/819067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819067)
+- [Стенд для нагрузочного тестирования на Testcontainers](https://habr.com/ru/articles/819589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819589)
 - [Оптимизация Go: как повысить скорость и эффективность кода](https://habr.com/ru/companies/simbirsoft/articles/819015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819015)
-- [CI/CD Kubernetes платформа Gitorion. Приватный реестр Docker-образов с аутентификацией в Keycloak и Web-интерфейсом](https://habr.com/ru/companies/gitorion/articles/808017/?utm_source=habrahabr&utm_medium=rss&utm_campaign=808017)
-- [Рынок вакансий для аналитиков данных в 2024 году](https://habr.com/ru/companies/yandex_praktikum/articles/818111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818111)
-- [Адаптив без боли: как сделать резиновую вёрстку с заботой обо всех разрешениях](https://habr.com/ru/articles/819565/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819565)
-- [[Перевод] Криптографы открыли новую основу для квантовой секретности](https://habr.com/ru/articles/819519/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819519)
 <!-- BLOG-POST-LIST:END -->
 
 ---
