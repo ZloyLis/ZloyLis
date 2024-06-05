@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пайплайны в GitLab для микросервисов](https://habr.com/ru/companies/selectel/articles/819509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819509)
+- [Ловушки volatile, DCL и синхронизации в Java](https://habr.com/ru/companies/pvs-studio/articles/819625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819625)
 - [Работа над ошибками: как мы сделали приложение World Class удобнее](https://habr.com/ru/articles/819405/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819405)
-- [Как мы сократили время старта приложения с помощью BDUI: опыт Яндекс Маркета](https://habr.com/ru/companies/yandex/articles/819531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819531)
-- [Как я написал для своей команды бот-напоминалку на Golang и втрое сократил время на ревью задач](https://habr.com/ru/companies/sbermarket/articles/819067/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819067)
-- [Стенд для нагрузочного тестирования на Testcontainers](https://habr.com/ru/articles/819589/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819589)
-- [Оптимизация Go: как повысить скорость и эффективность кода](https://habr.com/ru/companies/simbirsoft/articles/819015/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819015)
+- [Быстрый интерфейс, быстрый деплой](https://habr.com/ru/companies/timeweb/articles/816427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816427)
+- [Как мы строили BDUI: опыт Яндекс Маркета](https://habr.com/ru/companies/yandex/articles/819531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819531)
 <!-- BLOG-POST-LIST:END -->
 
 ---
