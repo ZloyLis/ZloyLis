@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Основы TypeScript](https://habr.com/ru/companies/piter/articles/820027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820027)
 - [Локи в C++: библиотека для проектирования и метапрограммирования](https://habr.com/ru/companies/otus/articles/819661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819661)
+- [Standalone в Angular](https://habr.com/ru/articles/820051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820051)
 - [Что такое Proxima DB? Знакомство с российской СУБД на базе PostgreSQL](https://habr.com/ru/companies/orion_soft/articles/820047/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820047)
 - [Клиентская миграция: как бизнес переводит клиентов из старого приложения в новое](https://habr.com/ru/companies/clevertec/articles/818713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818713)
-- [Простая настройка VPS, NGINX и FastAPI: Пошаговое руководство. Часть 1](https://habr.com/ru/articles/819957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819957)
 <!-- BLOG-POST-LIST:END -->
 
 ---
