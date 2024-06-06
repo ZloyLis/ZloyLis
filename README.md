@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сам себе экосистема: итоги. Как работают мои самопальные клиенты ВК, YouTube, Telegram на смартфонах 13-летней давности](https://habr.com/ru/companies/timeweb/articles/819247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819247)
+- [Летающий Санта, танцующие снегири и ёлочные игрушки: опыт реализации и оптимизации анимаций в игре](https://habr.com/ru/companies/kts/articles/819757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819757)
 - [Тик-так: Timer vs Ticker для анимаций](https://habr.com/ru/articles/819863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819863)
 - [Как помочь дизайнеру не обмануть ожидания пользователей](https://habr.com/ru/companies/yandex_praktikum/articles/819643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819643)
 - [Mobius 2024 offline. День второй](https://habr.com/ru/articles/819807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819807)
-- [AOP в Golang: как рефлексировать, и почему вам не стоит этого делать](https://habr.com/ru/articles/819789/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819789)
-- [Lazy Loading в Java](https://habr.com/ru/companies/otus/articles/819357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819357)
 <!-- BLOG-POST-LIST:END -->
 
 ---
