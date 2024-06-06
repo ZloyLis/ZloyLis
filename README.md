@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Треугольник орг-структур компании. Часть 1](https://habr.com/ru/articles/820109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820109)
 - [WWDC 2024. Что ждут разработчики](https://habr.com/ru/companies/usetech/articles/820091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820091)
 - [Простая настройка VPS, NGINX и FastAPI: Пошаговое руководство. Часть 2](https://habr.com/ru/articles/820093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820093)
 - [Основы TypeScript](https://habr.com/ru/companies/piter/articles/820027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820027)
 - [Локи в C++: библиотека для проектирования и метапрограммирования](https://habr.com/ru/companies/otus/articles/819661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819661)
-- [Standalone в Angular](https://habr.com/ru/articles/820051/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820051)
 <!-- BLOG-POST-LIST:END -->
 
 ---
