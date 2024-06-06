@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Клиентская миграция: как бизнес переводит клиентов из старого приложения в новое](https://habr.com/ru/companies/clevertec/articles/818713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818713)
+- [Простая настройка VPS, NGINX и FastAPI: Пошаговое руководство. Часть 1](https://habr.com/ru/articles/819957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819957)
+- [Как просто создать aiogram 3.x бота на вебхуках &lpar;webhook&rpar;?](https://habr.com/ru/articles/819955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819955)
 - [GPT vs Copilot: кто лучший помощник в написании UI-тестов для iOS?](https://habr.com/ru/companies/lamoda/articles/819751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819751)
 - [Большая компания или малый бизнес: где первый шаг карьерного пути?](https://habr.com/ru/companies/regionsoft/articles/819907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819907)
-- [Как подключить сканер распознавания и проверки подлинности быстро и без программирования](https://habr.com/ru/companies/smartengines/articles/819937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819937)
-- [[Перевод] Java-рантаймы с точки зрения Spring Boot](https://habr.com/ru/companies/spring_aio/articles/819899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819899)
-- [Пишем веб-компонент для svg иконок](https://habr.com/ru/articles/819905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819905)
 <!-- BLOG-POST-LIST:END -->
 
 ---
