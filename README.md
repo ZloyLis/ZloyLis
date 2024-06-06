@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT vs Copilot: кто лучший помощник в написании UI-тестов для iOS?](https://habr.com/ru/companies/lamoda/articles/819751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819751)
+- [Большая компания или малый бизнес: где первый шаг карьерного пути?](https://habr.com/ru/companies/regionsoft/articles/819907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819907)
+- [Как подключить сканер распознавания и проверки подлинности быстро и без программирования](https://habr.com/ru/companies/smartengines/articles/819937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819937)
+- [[Перевод] Java-рантаймы с точки зрения Spring Boot](https://habr.com/ru/companies/spring_aio/articles/819899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819899)
 - [Пишем веб-компонент для svg иконок](https://habr.com/ru/articles/819905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819905)
-- [Сам себе экосистема: итоги. Как работают мои самопальные клиенты ВК, YouTube, Telegram на смартфонах 13-летней давности](https://habr.com/ru/companies/timeweb/articles/819247/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819247)
-- [Летающий Санта, танцующие снегири и ёлочные игрушки: опыт реализации и оптимизации анимаций в игре](https://habr.com/ru/companies/kts/articles/819757/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819757)
-- [Тик-так: Timer vs Ticker для анимаций](https://habr.com/ru/articles/819863/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819863)
-- [Как помочь дизайнеру не обмануть ожидания пользователей](https://habr.com/ru/companies/yandex_praktikum/articles/819643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819643)
 <!-- BLOG-POST-LIST:END -->
 
 ---
