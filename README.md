@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Арифметика с плавающей точкой без ошибок](https://habr.com/ru/articles/819843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819843)
+- [10 лет Kubernetes: как родился один из самых крупных Open Source-проектов современности](https://habr.com/ru/companies/flant/articles/820153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820153)
+- [Как я компьютер в Minecraft построил](https://habr.com/ru/articles/820077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820077)
 - [Чем на самом деле занимается продакт-менеджер](https://habr.com/ru/companies/yandex_praktikum/articles/819471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819471)
 - [Разворачиваем PostgreSQL на VPS сервере за 5 минут](https://habr.com/ru/articles/820129/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820129)
-- [4 проблемы ИИшенки](https://habr.com/ru/articles/820117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820117)
-- [Треугольник орг-структур компании. Часть 1](https://habr.com/ru/articles/820109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820109)
-- [WWDC 2024. Прогнозируем, что ждет разработчиков](https://habr.com/ru/companies/usetech/articles/820091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820091)
 <!-- BLOG-POST-LIST:END -->
 
 ---
