@@ -39,7 +39,7 @@ ___
 - [Как мы делали Proxy до API OpenAI, а пригодилось оно для доступа к Docker Hub](https://habr.com/ru/companies/amvera/articles/820325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820325)
 - [[Перевод] Лорд Кельвин и его аналоговый компьютер](https://habr.com/ru/companies/ruvds/articles/819585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819585)
 - [Язык программирования Кедр. Продолжение](https://habr.com/ru/articles/818119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818119)
-- [Имбовый вайб: Как не стать кринжовым скуфом](https://habr.com/ru/articles/820271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820271)
+- [Java Digest #13](https://habr.com/ru/companies/tbank/articles/820235/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820235)
 <!-- BLOG-POST-LIST:END -->
 
 ---
