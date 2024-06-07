@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Growth Loops кардинально изменяют подход к продуктовой разработке](https://habr.com/ru/companies/garage8/articles/820189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820189)
+- [[Перевод] Катастрофа с Hibernate 6.5 при обновлении на Spring Boot 3.0.0](https://habr.com/ru/companies/spring_aio/articles/820175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820175)
+- [Публикация web-карт с GeoServer: от установки до интеграции с Mapbox GL JS](https://habr.com/ru/articles/820169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820169)
 - [[Перевод] Арифметика с плавающей точкой без ошибок](https://habr.com/ru/articles/819843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819843)
 - [10 лет Kubernetes: как родился один из самых крупных Open Source-проектов современности](https://habr.com/ru/companies/flant/articles/820153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820153)
-- [Как я компьютер в Minecraft построил](https://habr.com/ru/articles/820077/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820077)
-- [Чем на самом деле занимается продакт-менеджер](https://habr.com/ru/companies/yandex_praktikum/articles/819471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819471)
-- [Разворачиваем PostgreSQL на VPS сервере за 5 минут](https://habr.com/ru/articles/820129/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820129)
 <!-- BLOG-POST-LIST:END -->
 
 ---
