@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где лучше всего пробовать идеи для обучающихся систем?](https://habr.com/ru/articles/820209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820209)
+- [Коротко о «внезапном» релизе Zig версии 0.13.0](https://habr.com/ru/articles/820205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820205)
+- [Повышаем интерпретируемость SHAP-графиков](https://habr.com/ru/companies/vk/articles/820005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820005)
 - [Как Growth Loops кардинально изменяют подход к продуктовой разработке](https://habr.com/ru/companies/garage8/articles/820189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820189)
-- [[Перевод] Катастрофа с Hibernate 6.5 при обновлении на Spring Boot 3.0.0](https://habr.com/ru/companies/spring_aio/articles/820175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820175)
-- [Публикация web-карт с GeoServer: от установки до интеграции с Mapbox GL JS](https://habr.com/ru/articles/820169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820169)
-- [[Перевод] Арифметика с плавающей точкой без ошибок](https://habr.com/ru/articles/819843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819843)
-- [10 лет Kubernetes: как родился один из самых крупных Open Source-проектов современности](https://habr.com/ru/companies/flant/articles/820153/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820153)
+- [[Перевод] Катастрофа с Hibernate 6.5 при обновлении на Spring Boot 3.3.0](https://habr.com/ru/companies/spring_aio/articles/820175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820175)
 <!-- BLOG-POST-LIST:END -->
 
 ---
