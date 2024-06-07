@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем на самом деле занимается продакт-менеджер](https://habr.com/ru/companies/yandex_praktikum/articles/819471/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819471)
+- [Разворачиваем PostgreSQL на VPS сервере за 5 минут](https://habr.com/ru/articles/820129/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820129)
 - [4 проблемы ИИшенки](https://habr.com/ru/articles/820117/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820117)
 - [Треугольник орг-структур компании. Часть 1](https://habr.com/ru/articles/820109/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820109)
-- [WWDC 2024. Что ждут разработчики](https://habr.com/ru/companies/usetech/articles/820091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820091)
-- [Простая настройка VPS, NGINX и FastAPI: Пошаговое руководство. Часть 2](https://habr.com/ru/articles/820093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820093)
-- [Основы TypeScript](https://habr.com/ru/companies/piter/articles/820027/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820027)
+- [WWDC 2024. Прогнозируем, что ждет разработчиков](https://habr.com/ru/companies/usetech/articles/820091/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820091)
 <!-- BLOG-POST-LIST:END -->
 
 ---
