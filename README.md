@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подборка видео с последнего SREcon24](https://habr.com/ru/articles/818967/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818967)
+- [Как лиду тестирования войти в проект](https://habr.com/ru/companies/itfb/articles/819779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819779)
 - [Где лучше всего пробовать идеи для обучающихся систем?](https://habr.com/ru/articles/820209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820209)
 - [Коротко о «внезапном» релизе Zig версии 0.13.0](https://habr.com/ru/articles/820205/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820205)
 - [Повышаем интерпретируемость SHAP-графиков](https://habr.com/ru/companies/vk/articles/820005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820005)
-- [Как Growth Loops кардинально изменяют подход к продуктовой разработке](https://habr.com/ru/companies/garage8/articles/820189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820189)
-- [[Перевод] Катастрофа с Hibernate 6.5 при обновлении на Spring Boot 3.3.0](https://habr.com/ru/companies/spring_aio/articles/820175/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820175)
 <!-- BLOG-POST-LIST:END -->
 
 ---
