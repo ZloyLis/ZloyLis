@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Используем базу в Notion как знания для нейро-сотрудника на базе LLM &lpar;ChatGPT&rpar;](https://habr.com/ru/articles/820377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820377)
+- [Студент XXI века: как использовать ИИ в процессе обучения?](https://habr.com/ru/articles/820375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820375)
 - [Изучаем freeware вирус на ПК](https://habr.com/ru/articles/820363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820363)
 - [Как мы создали HR-приложение и выиграли 250 тыс. рублей в хакатоне](https://habr.com/ru/companies/misis/articles/820261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820261)
 - [Как мы делали Proxy до API OpenAI, а пригодилось оно для доступа к Docker Hub](https://habr.com/ru/companies/amvera/articles/820325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820325)
-- [[Перевод] Лорд Кельвин и его аналоговый компьютер](https://habr.com/ru/companies/ruvds/articles/819585/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819585)
-- [Язык программирования Кедр. Продолжение](https://habr.com/ru/articles/818119/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818119)
 <!-- BLOG-POST-LIST:END -->
 
 ---
