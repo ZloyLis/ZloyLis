@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI уроки &lpar;часть 14&rpar;](https://habr.com/ru/articles/817819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817819)
+- [Gcov/Lcov — покрытие кода и отчет по нему](https://habr.com/ru/articles/820383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820383)
 - [Используем базу в Notion как знания для нейро-сотрудника на базе LLM &lpar;ChatGPT&rpar;](https://habr.com/ru/articles/820377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820377)
 - [Студент XXI века: как использовать ИИ в процессе обучения?](https://habr.com/ru/articles/820375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820375)
 - [Изучаем freeware вирус на ПК](https://habr.com/ru/articles/820363/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820363)
-- [Как мы создали HR-приложение и выиграли 250 тыс. рублей в хакатоне](https://habr.com/ru/companies/misis/articles/820261/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820261)
-- [Как мы делали Proxy до API OpenAI, а пригодилось оно для доступа к Docker Hub](https://habr.com/ru/companies/amvera/articles/820325/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820325)
 <!-- BLOG-POST-LIST:END -->
 
 ---
