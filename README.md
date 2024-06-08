@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Триггербот для Rainbow Six Siege на Python](https://habr.com/ru/articles/820421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820421)
 - [От нуля до Тетриса: наше приключение с Python](https://habr.com/ru/articles/820395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820395)
 - [SwiftUI уроки &lpar;часть 14&rpar;](https://habr.com/ru/articles/817819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817819)
 - [Gcov/Lcov — покрытие кода и отчет по нему](https://habr.com/ru/articles/820383/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820383)
 - [Используем базу в Notion как знания для нейро-сотрудника на базе LLM &lpar;ChatGPT&rpar;](https://habr.com/ru/articles/820377/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820377)
-- [Студент XXI века: как использовать ИИ в процессе обучения?](https://habr.com/ru/articles/820375/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820375)
 <!-- BLOG-POST-LIST:END -->
 
 ---
