@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Насколько хороши диапазонные типы и btree_gist индекс в PostgreSQL](https://habr.com/ru/articles/820455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820455)
 - [Удобный CI/CD доступен каждому](https://habr.com/ru/articles/820451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820451)
 - [Вечный покой .env: как эффективнее удалять закомиченный файл .env из Git-репозитория](https://habr.com/ru/articles/820429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820429)
 - [Триггербот для Rainbow Six Siege на Python](https://habr.com/ru/articles/820421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820421)
 - [От нуля до Тетриса: наше приключение с Python](https://habr.com/ru/articles/820395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820395)
-- [SwiftUI уроки &lpar;часть 14&rpar;](https://habr.com/ru/articles/817819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817819)
 <!-- BLOG-POST-LIST:END -->
 
 ---
