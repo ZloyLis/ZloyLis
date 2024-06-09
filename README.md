@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор открытых свободных инструментов для создания резервных копий СУБД PostgreSQL](https://habr.com/ru/articles/820349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820349)
+- [WiFi-маршрутизаторы — это трекеры для массовой слежки](https://habr.com/ru/companies/globalsign/articles/820543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820543)
 - [Мобильная разработка за неделю #541 &lpar;3 — 9 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/820533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820533)
-- [5 причин, почему пользователи ненавидят вашу документацию [и как это исправить]](https://habr.com/ru/articles/811461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811461)
+- [«Всё равно там всякая ерунда написана!» 5 причин, почему пользователи ненавидят вашу документацию [и как это исправить]](https://habr.com/ru/companies/bercut/articles/811461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811461)
 - [Apple Pro Weekly News &lpar;03.06 – 09.06.24&rpar;](https://habr.com/ru/articles/820521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820521)
-- [Простыми словами про метрики в ИИ. Регрессия. MSE, RMSE, MAE, R-квадрат, MAPE](https://habr.com/ru/articles/820499/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820499)
-- [Рисуем фракталы на Rust и CUDA](https://habr.com/ru/articles/820489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820489)
 <!-- BLOG-POST-LIST:END -->
 
 ---
