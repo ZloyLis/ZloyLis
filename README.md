@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 причин, почему пользователи терпеть ненавидят вашу документацию [и как это исправить]](https://habr.com/ru/articles/811461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811461)
+- [Apple Pro Weekly News &lpar;03.06 – 09.06.24&rpar;](https://habr.com/ru/articles/820521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820521)
 - [Простыми словами про метрики в ИИ. Регрессия. MSE, RMSE, MAE, R-квадрат, MAPE](https://habr.com/ru/articles/820499/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820499)
 - [Рисуем фракталы на Rust и CUDA](https://habr.com/ru/articles/820489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820489)
 - [[Перевод] Возможно, микросервисы вам не нужны](https://habr.com/ru/companies/ruvds/articles/819941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819941)
-- [Хитрый Алгоритм: Решение задачи Continuous Subarray Sum](https://habr.com/ru/articles/820485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820485)
-- [[Перевод] Учимся летать: симуляция эволюции на Rust. 2/5](https://habr.com/ru/companies/timeweb/articles/818985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818985)
 <!-- BLOG-POST-LIST:END -->
 
 ---
