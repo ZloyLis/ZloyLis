@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как юзеры отказываются от мобильных приложений и причем тут Т-банк](https://habr.com/ru/articles/820459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820459)
 - [Как мы обучали нейросеть распознавать юридические документы](https://habr.com/ru/articles/820457/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820457)
 - [Насколько хороши диапазонные типы и btree_gist индекс в PostgreSQL](https://habr.com/ru/articles/820455/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820455)
 - [Удобный CI/CD доступен каждому](https://habr.com/ru/articles/820451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820451)
 - [Вечный покой .env: как эффективнее удалять закомиченный файл .env из Git-репозитория](https://habr.com/ru/articles/820429/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820429)
-- [Триггербот для Rainbow Six Siege на Python](https://habr.com/ru/articles/820421/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820421)
 <!-- BLOG-POST-LIST:END -->
 
 ---
