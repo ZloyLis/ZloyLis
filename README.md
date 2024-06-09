@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рисуем фракталы на Rust и CUDA](https://habr.com/ru/articles/820489/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820489)
 - [[Перевод] Возможно, микросервисы вам не нужны](https://habr.com/ru/companies/ruvds/articles/819941/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819941)
 - [Хитрый Алгоритм: Решение задачи Continuous Subarray Sum](https://habr.com/ru/articles/820485/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820485)
 - [[Перевод] Учимся летать: симуляция эволюции на Rust. 2/5](https://habr.com/ru/companies/timeweb/articles/818985/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818985)
 - [Получение информации с LeetCode о пользователе на Golang](https://habr.com/ru/articles/820469/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820469)
-- [Как юзеры отказываются от мобильных приложений и причем тут Т-банк](https://habr.com/ru/articles/820459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820459)
 <!-- BLOG-POST-LIST:END -->
 
 ---
