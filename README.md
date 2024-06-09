@@ -39,7 +39,7 @@ ___
 - [Обзор открытых свободных инструментов для создания резервных копий СУБД PostgreSQL](https://habr.com/ru/articles/820349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820349)
 - [WiFi-маршрутизаторы — это трекеры для массовой слежки](https://habr.com/ru/companies/globalsign/articles/820543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820543)
 - [Мобильная разработка за неделю #541 &lpar;3 — 9 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/820533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820533)
-- [«Всё равно там всякая ерунда написана!» Почему пользователи ненавидят вашу документацию и как это исправить](https://habr.com/ru/companies/bercut/articles/811461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811461)
+- [5 причин, почему пользователи ненавидят вашу документацию [и как это исправить]](https://habr.com/ru/companies/bercut/articles/811461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811461)
 <!-- BLOG-POST-LIST:END -->
 
 ---
