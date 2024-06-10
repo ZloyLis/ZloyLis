@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эвристики морских просторов: математическая оптимизация океанских контейнеровозов](https://habr.com/ru/companies/ruvds/articles/820703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820703)
 - [Быстрое вычисление степени](https://habr.com/ru/articles/820713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820713)
 - [[Перевод] Как пройти собеседование в FAANG. Мой опыт и рекомендации в 2024 году](https://habr.com/ru/articles/820441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820441)
 - [От установки до использования: пример развертывания сервиса шифрования данных в покое](https://habr.com/ru/companies/vk/articles/820617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820617)
 - [Пакет для инвалидации КЭШа на PHP](https://habr.com/ru/articles/820685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820685)
-- [«Сидеть до конца» на экзамене и другие полезные советы](https://habr.com/ru/articles/820679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820679)
 <!-- BLOG-POST-LIST:END -->
 
 ---
