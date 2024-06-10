@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрое вычисление степени](https://habr.com/ru/articles/820713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820713)
+- [[Перевод] Как пройти собеседование в FAANG. Мой опыт и рекомендации в 2024 году](https://habr.com/ru/articles/820441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820441)
+- [От установки до использования: пример развертывания сервиса шифрования данных в покое](https://habr.com/ru/companies/vk/articles/820617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820617)
 - [Пакет для инвалидации КЭШа на PHP](https://habr.com/ru/articles/820685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820685)
 - [«Сидеть до конца» на экзамене и другие полезные советы](https://habr.com/ru/articles/820679/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820679)
-- [Как мы разобрали монолитное приложение для бизнеса на модули](https://habr.com/ru/companies/psb/articles/820671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820671)
-- [Ошибки ведения личной базы знаний: почему я удалил 1500 из 4500 заметок в Obsidian](https://habr.com/ru/articles/820669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820669)
-- [FastAPI: веб-разработка на Python](https://habr.com/ru/companies/piter/articles/820199/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820199)
 <!-- BLOG-POST-LIST:END -->
 
 ---
