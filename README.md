@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по деплою web-приложений для новичков. Часть 1](https://habr.com/ru/articles/820473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820473)
+- [Security Week 2424: что не так с функцией Microsoft Recall](https://habr.com/ru/companies/kaspersky/articles/820769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820769)
+- [[Перевод] Уязвимость в плагине JetBrains GitHub](https://habr.com/ru/companies/spring_aio/articles/820819/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820819)
 - [Java и C#. История одного вдохновения](https://habr.com/ru/articles/816907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816907)
 - [Как создать аудиоплеер. Часть 3](https://habr.com/ru/companies/zvuk/articles/820665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820665)
-- [Пишем универсальный прототип бэкенд-приложения: Litestar, FastStream, dishka](https://habr.com/ru/companies/pt/articles/820171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820171)
-- [[Перевод] Эвристики морских просторов: математическая оптимизация океанских контейнеровозов](https://habr.com/ru/companies/ruvds/articles/820703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820703)
-- [Быстрое вычисление степени](https://habr.com/ru/articles/820713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820713)
 <!-- BLOG-POST-LIST:END -->
 
 ---
