@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как ошибка ChatGPT стоила нам $10 000](https://habr.com/ru/articles/820633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820633)
+- [Пример своего транспорта для Symfony Messenger](https://habr.com/ru/articles/820423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820423)
+- [Мой опыт миграции приложения на standalone-компоненты](https://habr.com/ru/companies/selectel/articles/820593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820593)
+- [Дзэн в искусстве программирования](https://habr.com/ru/articles/809155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809155)
 - [[Перевод] Комплексные адаптивные системы](https://habr.com/ru/articles/820401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820401)
-- [AI: типовые задачи  iOS разработчика](https://habr.com/ru/articles/820487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820487)
-- [Как мы мигрировали из Oracle в PostgreSQL](https://habr.com/ru/companies/vtb/articles/819133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819133)
-- [Prompt-engineering: чем полезен SDET-специалистам или как оставаться востребованным на рынке в эпоху ИИ](https://habr.com/ru/companies/simbirsoft/articles/820289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820289)
-- [Тестирование производительности виртуальных потоков Java в Jetty](https://habr.com/ru/articles/820515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
