@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование производительности виртуальных потоков Java в Jetty](https://habr.com/ru/articles/820515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820515)
+- [Опыт разработки сервиса отправки сообщений в Apache Kafka с использованием SASL/Kerberos и Avro Schema Registry](https://habr.com/ru/articles/819289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819289)
+- [iOS-разработчики в 2024 году: какие нужны скилы и как проходит процесс найма](https://habr.com/ru/companies/yandex_praktikum/articles/819715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819715)
 - [Git. Руководство по оформлению веток и коммитов](https://habr.com/ru/articles/820547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820547)
 - [Telegram Боты на Aiogram 3.x: Первые Шаги](https://habr.com/ru/articles/820527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820527)
-- [[Перевод] Мега-Учебник Flask Глава 13: I18n и L10n &lpar;издание 2024&rpar;](https://habr.com/ru/articles/817369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817369)
-- [Слушаем события в Selenium с помощью Listeners. Как реагировать на события без тонны кода](https://habr.com/ru/articles/820557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820557)
-- [Обзор открытых свободных инструментов для создания резервных копий СУБД PostgreSQL](https://habr.com/ru/articles/820349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
