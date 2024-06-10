@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Комплексные адаптивные системы](https://habr.com/ru/articles/820401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820401)
+- [AI: типовые задачи  iOS разработчика](https://habr.com/ru/articles/820487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820487)
+- [Как мы мигрировали из Oracle в PostgreSQL](https://habr.com/ru/companies/vtb/articles/819133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819133)
+- [Prompt-engineering: чем полезен SDET-специалистам или как оставаться востребованным на рынке в эпоху ИИ](https://habr.com/ru/companies/simbirsoft/articles/820289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820289)
 - [Тестирование производительности виртуальных потоков Java в Jetty](https://habr.com/ru/articles/820515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820515)
-- [Опыт разработки сервиса отправки сообщений в Apache Kafka с использованием SASL/Kerberos и Avro Schema Registry](https://habr.com/ru/articles/819289/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819289)
-- [iOS-разработчики в 2024 году: какие нужны скилы и как проходит процесс найма](https://habr.com/ru/companies/yandex_praktikum/articles/819715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819715)
-- [Git. Руководство по оформлению веток и коммитов](https://habr.com/ru/articles/820547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820547)
-- [Telegram Боты на Aiogram 3.x: Первые Шаги](https://habr.com/ru/articles/820527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820527)
 <!-- BLOG-POST-LIST:END -->
 
 ---
