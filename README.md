@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git. Руководство по оформлению веток и коммитов](https://habr.com/ru/articles/820547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820547)
 - [Telegram Боты на Aiogram 3.x: Первые Шаги](https://habr.com/ru/articles/820527/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820527)
 - [[Перевод] Мега-Учебник Flask Глава 13: I18n и L10n &lpar;издание 2024&rpar;](https://habr.com/ru/articles/817369/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817369)
 - [Слушаем события в Selenium с помощью Listeners. Как реагировать на события без тонны кода](https://habr.com/ru/articles/820557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820557)
 - [Обзор открытых свободных инструментов для создания резервных копий СУБД PostgreSQL](https://habr.com/ru/articles/820349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820349)
-- [WiFi-маршрутизаторы — это трекеры для массовой слежки](https://habr.com/ru/companies/globalsign/articles/820543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820543)
 <!-- BLOG-POST-LIST:END -->
 
 ---
