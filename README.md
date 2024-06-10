@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Профилирование: что использовать для сбора информации о работе программы под Linux](https://habr.com/ru/companies/pt/articles/820453/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820453)
 - [[Перевод] Как ошибка ChatGPT стоила нам $10 000](https://habr.com/ru/articles/820633/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820633)
 - [Пример своего транспорта для Symfony Messenger](https://habr.com/ru/articles/820423/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820423)
 - [Мой опыт миграции приложения на standalone-компоненты](https://habr.com/ru/companies/selectel/articles/820593/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820593)
 - [Дзэн в искусстве программирования](https://habr.com/ru/articles/809155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=809155)
-- [[Перевод] Комплексные адаптивные системы](https://habr.com/ru/articles/820401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820401)
 <!-- BLOG-POST-LIST:END -->
 
 ---
