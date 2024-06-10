@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java и C#. История одного вдохновения](https://habr.com/ru/articles/816907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816907)
+- [Как создать аудиоплеер. Часть 3](https://habr.com/ru/companies/zvuk/articles/820665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820665)
+- [Пишем универсальный прототип бэкенд-приложения: Litestar, FastStream, dishka](https://habr.com/ru/companies/pt/articles/820171/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820171)
 - [[Перевод] Эвристики морских просторов: математическая оптимизация океанских контейнеровозов](https://habr.com/ru/companies/ruvds/articles/820703/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820703)
 - [Быстрое вычисление степени](https://habr.com/ru/articles/820713/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820713)
-- [[Перевод] Как пройти собеседование в FAANG. Мой опыт и рекомендации в 2024 году](https://habr.com/ru/articles/820441/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820441)
-- [От установки до использования: пример развертывания сервиса шифрования данных в покое](https://habr.com/ru/companies/vk/articles/820617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820617)
-- [Пакет для инвалидации КЭШа на PHP](https://habr.com/ru/articles/820685/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820685)
 <!-- BLOG-POST-LIST:END -->
 
 ---
