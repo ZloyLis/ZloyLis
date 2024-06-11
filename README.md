@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Логические задачи родом из детства: тестируем еще один способ привлечь внимание участников конференции](https://habr.com/ru/companies/rshb/articles/821011/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821011)
-- [Популярнее некуда: у JavaScript самое большое сообщество. Как это выяснили](https://habr.com/ru/companies/ru_mts/articles/820997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820997)
-- [Когда проснулся и узнал, что существуют PWA](https://habr.com/ru/companies/sberbank/articles/820995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820995)
-- [Предотвращение утечек API](https://habr.com/ru/companies/webmonitorx/articles/820695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820695)
-- [Разработка сервиса для публикации препринтов. Архитектурный подход](https://habr.com/ru/articles/820993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820993)
+- [Как и зачем мы затащили GeckoView в почту](https://habr.com/ru/companies/vk/articles/820803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820803)
+- [HTTP SMS API vs SMPP API](https://habr.com/ru/companies/ru_mts/articles/821043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821043)
+- [Как сделать так, чтобы сын маминой подруги не загубил карьеру](https://habr.com/ru/companies/alfa/articles/820053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820053)
+- [IT в промышленности: сходство и отличия](https://habr.com/ru/companies/oleg-bunin/articles/821033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821033)
+- [Как определить текущее местоположение пользователя на сайте](https://habr.com/ru/articles/821049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
