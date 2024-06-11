@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как из безголовой CMS сделать полноценную систему управления сайтом](https://habr.com/ru/companies/agima/articles/821115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821115)
+- [Что ждет участников на Ural Digital Weekend 2024: рассказываем про спикеров, программу и неформальные активности](https://habr.com/ru/companies/spectr/articles/821099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821099)
 - [Кот меняющий строки](https://habr.com/ru/articles/820295/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820295)
 - [Искусственному интеллекту – быть! Какие обновления представила Apple на WWDC 2024](https://habr.com/ru/companies/cleverpumpkin/articles/821101/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821101)
 - [[Перевод] Об извлечении кода в Python](https://habr.com/ru/companies/piter/articles/821071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821071)
-- [Как и зачем мы затащили GeckoView в Почту](https://habr.com/ru/companies/vk/articles/820803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820803)
-- [HTTP SMS API vs SMPP API](https://habr.com/ru/companies/ru_mts/articles/821043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821043)
 <!-- BLOG-POST-LIST:END -->
 
 ---
