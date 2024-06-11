@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полная ×○□△ — поиск наилучшего прохождения уровня в ритм-игре алгоритмическим путём](https://habr.com/ru/companies/timeweb/articles/819475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819475)
+- [Ещё о красоте в простой формуле](https://habr.com/ru/articles/820911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820911)
+- [Необходимое зло](https://habr.com/ru/articles/820903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820903)
+- [Автогенерация api для RTK Query, graphql, postgraphile и postgresql](https://habr.com/ru/articles/820899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820899)
 - [Революционный подход к нейросетям: рассказываем про KAN &lpar;Kolmogorov-Arnold Networks&rpar;](https://habr.com/ru/articles/820891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820891)
-- [ИИ уже скоро заменит тебя: готовься к реальности](https://habr.com/ru/articles/820843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820843)
-- [Что нового в Greenplum 7](https://habr.com/ru/companies/arenadata/articles/820807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820807)
-- [Дата-сайентистам: «Обработка данных на Python. Data Wrangling и Data Quality»](https://habr.com/ru/companies/ssp-soft/articles/820829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820829)
-- [Гайд по деплою web-приложений для новичков. Часть 1](https://habr.com/ru/articles/820473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820473)
 <!-- BLOG-POST-LIST:END -->
 
 ---
