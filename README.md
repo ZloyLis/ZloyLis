@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source Modbus TCP — RTU конвертор](https://habr.com/ru/articles/820281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820281)
+- [Как сломать скомпилированный код, не нарушая бинарную совместимость](https://habr.com/ru/companies/tbank/articles/819537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819537)
+- [Приложение для заметок Obsidian Note, или как держать всё и сразу, и при этом — ничего не потерять](https://habr.com/ru/articles/820927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820927)
 - [Полная ×○□△ — поиск наилучшего прохождения уровня в ритм-игре алгоритмическим путём](https://habr.com/ru/companies/timeweb/articles/819475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819475)
 - [Ещё о красоте в простой формуле](https://habr.com/ru/articles/820911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820911)
-- [Необходимое зло](https://habr.com/ru/articles/820903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820903)
-- [Автогенерация api для RTK Query, graphql, postgraphile и postgresql](https://habr.com/ru/articles/820899/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820899)
-- [Революционный подход к нейросетям: рассказываем про KAN &lpar;Kolmogorov-Arnold Networks&rpar;](https://habr.com/ru/articles/820891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820891)
 <!-- BLOG-POST-LIST:END -->
 
 ---
