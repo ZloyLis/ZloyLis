@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логические задачи родом из детства: тестируем еще один способ привлечь внимание участников конференции](https://habr.com/ru/companies/rshb/articles/821011/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821011)
 - [Популярнее некуда: у JavaScript самое большое сообщество. Как это выяснили](https://habr.com/ru/companies/ru_mts/articles/820997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820997)
 - [Когда проснулся и узнал, что существуют PWA](https://habr.com/ru/companies/sberbank/articles/820995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820995)
 - [Предотвращение утечек API](https://habr.com/ru/companies/webmonitorx/articles/820695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820695)
 - [Разработка сервиса для публикации препринтов. Архитектурный подход](https://habr.com/ru/articles/820993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820993)
-- [Качество данных и роботы: как мы высвободили 5 рабочих часов в день сотрудника DQ](https://habr.com/ru/companies/tele2/articles/820991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820991)
 <!-- BLOG-POST-LIST:END -->
 
 ---
