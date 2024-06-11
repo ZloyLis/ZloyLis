@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Об извлечении кода в Python](https://habr.com/ru/companies/piter/articles/821071/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821071)
 - [Как и зачем мы затащили GeckoView в почту](https://habr.com/ru/companies/vk/articles/820803/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820803)
 - [HTTP SMS API vs SMPP API](https://habr.com/ru/companies/ru_mts/articles/821043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821043)
 - [Как сделать так, чтобы сын маминой подруги не загубил карьеру](https://habr.com/ru/companies/alfa/articles/820053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820053)
 - [IT в промышленности: сходство и отличия](https://habr.com/ru/companies/oleg-bunin/articles/821033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821033)
-- [Как определить текущее местоположение пользователя на сайте](https://habr.com/ru/articles/821049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
