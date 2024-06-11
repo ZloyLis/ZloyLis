@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хоп, Хлоп, и MVP готов](https://habr.com/ru/articles/820871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820871)
-- [Конструирование лучшей команды &lpar;мечты&rpar;. Социальная инженерия. Часть 1](https://habr.com/ru/articles/820063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820063)
-- [WWDC 2024. Чем удивляют разработчиков](https://habr.com/ru/companies/kts/articles/820895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820895)
-- [Специальный выпуск Apple Pro Weekly News WWDC24](https://habr.com/ru/articles/820937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820937)
-- [Open source Modbus TCP — RTU конвертор](https://habr.com/ru/articles/820281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820281)
+- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Как скрыть элемент доступно?»](https://habr.com/ru/companies/ruvds/articles/819233/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819233)
+- [Сколько UB в моём компиляторе?](https://habr.com/ru/companies/pvs-studio/articles/820983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820983)
+- [WWDC 2024. Обсуждаем, что по факту](https://habr.com/ru/companies/usetech/articles/820935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820935)
+- [Как составить бюджет ИТ-проекта?](https://habr.com/ru/articles/820965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820965)
+- [Что нового в Swift 6?](https://habr.com/ru/articles/820961/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820961)
 <!-- BLOG-POST-LIST:END -->
 
 ---
