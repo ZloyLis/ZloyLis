@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хоп, Хлоп, и MVP готов](https://habr.com/ru/articles/820871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820871)
+- [Конструирование лучшей команды &lpar;мечты&rpar;. Социальная инженерия. Часть 1](https://habr.com/ru/articles/820063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820063)
+- [WWDC 2024. Чем удивляют разработчиков](https://habr.com/ru/companies/kts/articles/820895/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820895)
+- [Специальный выпуск Apple Pro Weekly News WWDC24](https://habr.com/ru/articles/820937/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820937)
 - [Open source Modbus TCP — RTU конвертор](https://habr.com/ru/articles/820281/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820281)
-- [Как сломать скомпилированный код, не нарушая бинарную совместимость](https://habr.com/ru/companies/tbank/articles/819537/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819537)
-- [Приложение для заметок Obsidian Note, или как держать всё и сразу, и при этом — ничего не потерять](https://habr.com/ru/articles/820927/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820927)
-- [Полная ×○□△ — поиск наилучшего прохождения уровня в ритм-игре алгоритмическим путём](https://habr.com/ru/companies/timeweb/articles/819475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819475)
-- [Ещё о красоте в простой формуле](https://habr.com/ru/articles/820911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820911)
 <!-- BLOG-POST-LIST:END -->
 
 ---
