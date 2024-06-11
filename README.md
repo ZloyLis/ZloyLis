@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Революционный подход к нейросетям: рассказываем про KAN &lpar;Kolmogorov-Arnold Networks&rpar;](https://habr.com/ru/articles/820891/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820891)
 - [ИИ уже скоро заменит тебя: готовься к реальности](https://habr.com/ru/articles/820843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820843)
 - [Что нового в Greenplum 7](https://habr.com/ru/companies/arenadata/articles/820807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820807)
 - [Дата-сайентистам: «Обработка данных на Python. Data Wrangling и Data Quality»](https://habr.com/ru/companies/ssp-soft/articles/820829/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820829)
 - [Гайд по деплою web-приложений для новичков. Часть 1](https://habr.com/ru/articles/820473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820473)
-- [Security Week 2424: что не так с функцией Microsoft Recall](https://habr.com/ru/companies/kaspersky/articles/820769/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820769)
 <!-- BLOG-POST-LIST:END -->
 
 ---
