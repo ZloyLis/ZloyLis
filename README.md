@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Как скрыть элемент доступно?»](https://habr.com/ru/companies/ruvds/articles/819233/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819233)
-- [Сколько UB в моём компиляторе?](https://habr.com/ru/companies/pvs-studio/articles/820983/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820983)
-- [WWDC 2024. Обсуждаем, что по факту](https://habr.com/ru/companies/usetech/articles/820935/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820935)
-- [Как составить бюджет ИТ-проекта?](https://habr.com/ru/articles/820965/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820965)
-- [Что нового в Swift 6?](https://habr.com/ru/articles/820961/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820961)
+- [Популярнее некуда: у JavaScript самое большое сообщество. Как это выяснили](https://habr.com/ru/companies/ru_mts/articles/820997/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820997)
+- [Когда проснулся и узнал, что существуют PWA](https://habr.com/ru/companies/sberbank/articles/820995/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820995)
+- [Предотвращение утечек API](https://habr.com/ru/companies/webmonitorx/articles/820695/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820695)
+- [Разработка сервиса для публикации препринтов. Архитектурный подход](https://habr.com/ru/articles/820993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820993)
+- [Качество данных и роботы: как мы высвободили 5 рабочих часов в день сотрудника DQ](https://habr.com/ru/companies/tele2/articles/820991/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820991)
 <!-- BLOG-POST-LIST:END -->
 
 ---
