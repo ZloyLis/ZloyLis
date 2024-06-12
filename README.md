@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгебра для QA: Основы и Применение](https://habr.com/ru/articles/821191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821191)
 - [Честно о стажировках в IT-компании. Системные аналитики и программисты 1С о программах обучения в «Автомаконе»](https://habr.com/ru/companies/automacon/articles/821177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821177)
 - [Веб-аналитика. Server-Side GTM и его возможности](https://habr.com/ru/articles/821141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821141)
 - [Деплоим Next.js приложение через PM2](https://habr.com/ru/articles/820841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820841)
 - [Как из безголовой CMS сделать полноценную систему управления сайтом](https://habr.com/ru/companies/agima/articles/821115/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821115)
-- [Что ждет участников на Ural Digital Weekend 2024: рассказываем про спикеров, программу и неформальные активности](https://habr.com/ru/companies/spectr/articles/821099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821099)
 <!-- BLOG-POST-LIST:END -->
 
 ---
