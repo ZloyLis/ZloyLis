@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про IT-шников и высшее образование](https://habr.com/ru/articles/821297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821297)
 - [О войти в айти. И эффективность обучения](https://habr.com/ru/articles/821285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821285)
 - [Засады многопоточности](https://habr.com/ru/articles/821283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821283)
 - [Полный гайд по CSS Flexbox с примерами из практики](https://habr.com/ru/articles/816349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816349)
 - [Как быстро запустить мобильное приложение для веб-сервиса: опыт Авиасейлс для бизнеса](https://habr.com/ru/articles/821271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821271)
-- [Gabriel2 — Open Source асинхронная библиотека для модели Акторов на Rust с использованием Tokio](https://habr.com/ru/articles/821267/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821267)
 <!-- BLOG-POST-LIST:END -->
 
 ---
