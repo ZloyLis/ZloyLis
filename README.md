@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Избавьтесь от хаоса модальных окон с useModalControl &lpar;React&rpar;](https://habr.com/ru/articles/821239/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821239)
 - [Тестирование мобильных и веб-приложений: как избежать фейлов при планировании](https://habr.com/ru/articles/821209/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821209)
 - [Алгебра для QA: Основы и Применение](https://habr.com/ru/articles/821191/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821191)
 - [Честно о стажировках в IT-компании. Системные аналитики и программисты 1С о программах обучения в «Автомаконе»](https://habr.com/ru/companies/automacon/articles/821177/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821177)
 - [Веб-аналитика. Server-Side GTM и его возможности](https://habr.com/ru/articles/821141/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821141)
-- [Деплоим Next.js приложение через PM2](https://habr.com/ru/articles/820841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820841)
 <!-- BLOG-POST-LIST:END -->
 
 ---
