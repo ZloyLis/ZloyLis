@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgresso #5 &lpar;66&rpar;](https://habr.com/ru/companies/postgrespro/articles/815587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815587)
 - [О контра- и ковариантных тензорах](https://habr.com/ru/articles/821319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821319)
 - [Про IT-шников и высшее образование](https://habr.com/ru/articles/821297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821297)
 - [О войти в айти. И эффективность обучения](https://habr.com/ru/articles/821285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821285)
 - [Засады многопоточности](https://habr.com/ru/articles/821283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821283)
-- [Полный гайд по CSS Flexbox с примерами из практики](https://habr.com/ru/articles/816349/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816349)
 <!-- BLOG-POST-LIST:END -->
 
 ---
