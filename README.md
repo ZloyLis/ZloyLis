@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как решить проблему уязвимостей бизнес-логики? Поломать приложение еще до написания кода](https://habr.com/ru/companies/sbermarket/articles/821037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821037)
+- [Перенос данных из Oracle в PostgreSQL быстро и без потерь: как мы используем для этого Airflow и NiFi](https://habr.com/ru/companies/stm_labs/articles/821113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821113)
+- [Android: Проблема отрисовки в jetpack compose](https://habr.com/ru/articles/821433/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821433)
 - [Миграция витрины данных с СУБД Teradata в СУБД Greenplum](https://habr.com/ru/companies/oleg-bunin/articles/821045/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821045)
 - [Web-приложение с использованием fingerprint: как это работает и в чем сложность](https://habr.com/ru/companies/ru_mts/articles/820305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820305)
-- [Автостарт Android-устройств — это просто! Реверсим, патчим загрузчик и заставляем смартфон включаться самому](https://habr.com/ru/companies/timeweb/articles/821399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821399)
-- [[Перевод] Hibernate и спецификация JPA: приключение на 20 минут](https://habr.com/ru/companies/spring_aio/articles/821307/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821307)
-- [Web APIs, которые функционально приближают веб-приложения к нативным](https://habr.com/ru/companies/clevertec/articles/820227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820227)
 <!-- BLOG-POST-LIST:END -->
 
 ---
