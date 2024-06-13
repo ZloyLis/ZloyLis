@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React. Обновление узлов и мемоизация](https://habr.com/ru/articles/821293/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821293)
+- [Отвага и отвага: замена ERP на действующем вагоноремонтном производстве с тестами прямо в бою](https://habr.com/ru/companies/omk-it/articles/821023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821023)
+- [[Перевод] Стилизуем модуль материалов для Joomla в стиле новостных порталов](https://habr.com/ru/articles/821253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821253)
+- [Как мы повысили продуктивность написания админ-панелей, используя Filament](https://habr.com/ru/articles/821059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821059)
 - [[Перевод] Потрясающе быстрые теневые стеки для Go](https://habr.com/ru/articles/821147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821147)
-- [Настраиваем Lock Task Mode aka Kiosk Mode](https://habr.com/ru/articles/821361/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821361)
-- [Настраиваем взаимодействие с внутренним API приложения через свой API-proxy](https://habr.com/ru/articles/821345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821345)
-- [LR-парсеры](https://habr.com/ru/companies/otus/articles/819841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819841)
-- [Postgresso #5 &lpar;66&rpar;](https://habr.com/ru/companies/postgrespro/articles/815587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815587)
 <!-- BLOG-POST-LIST:END -->
 
 ---
