@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Специалисты по информатике изобрели новый эффективный способ подсчёта уникальных элементов](https://habr.com/ru/articles/821597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821597)
 - [SwiftUI и MVI](https://habr.com/ru/articles/821591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821591)
 - [Разбираем магических зверей безопасности: AuthZ: abac/rbac, AuthN и 2FA](https://habr.com/ru/articles/821587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821587)
 - [Виды логирования в Swift](https://habr.com/ru/companies/agima/articles/821515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821515)
 - [Сказ о том, как мы куриц MESтомизировали](https://habr.com/ru/companies/k2tech/articles/821487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821487)
-- [Как подготовиться к live-coding сессии на собеседовании](https://habr.com/ru/articles/821473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821473)
 <!-- BLOG-POST-LIST:END -->
 
 ---
