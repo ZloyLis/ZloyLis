@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настраиваем взаимодействие с внутренним API приложения через свой API-proxy](https://habr.com/ru/articles/821345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821345)
+- [LR-парсеры](https://habr.com/ru/companies/otus/articles/819841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819841)
 - [Postgresso #5 &lpar;66&rpar;](https://habr.com/ru/companies/postgrespro/articles/815587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815587)
 - [О контра- и ковариантных тензорах](https://habr.com/ru/articles/821319/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821319)
 - [Про IT-шников и высшее образование](https://habr.com/ru/articles/821297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821297)
-- [О войти в айти. И эффективность обучения](https://habr.com/ru/articles/821285/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821285)
-- [Засады многопоточности](https://habr.com/ru/articles/821283/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821283)
 <!-- BLOG-POST-LIST:END -->
 
 ---
