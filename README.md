@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виды логирования в Swift](https://habr.com/ru/companies/agima/articles/821515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821515)
 - [Сказ о том, как мы куриц MESтомизировали](https://habr.com/ru/companies/k2tech/articles/821487/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821487)
 - [Как подготовиться к live-coding сессии на собеседовании](https://habr.com/ru/articles/821473/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821473)
 - [Лошадью ходи, век воли не видать](https://habr.com/ru/articles/821355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821355)
 - [Как решить проблему уязвимостей бизнес-логики? Поломать приложение еще до написания кода](https://habr.com/ru/companies/sbermarket/articles/821037/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821037)
-- [Перенос данных из Oracle в PostgreSQL быстро и без потерь: как мы используем для этого Airflow и NiFi](https://habr.com/ru/companies/stm_labs/articles/821113/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821113)
 <!-- BLOG-POST-LIST:END -->
 
 ---
