@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [React. Обновление узлов и мемоизация](https://habr.com/ru/articles/821293/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821293)
-- [Отвага и отвага: замена ERP на действующем вагоноремонтном производстве с тестами прямо в бою](https://habr.com/ru/companies/omk-it/articles/821023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821023)
-- [[Перевод] Стилизуем модуль материалов для Joomla в стиле новостных порталов](https://habr.com/ru/articles/821253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821253)
-- [Как мы повысили продуктивность написания админ-панелей, используя Filament](https://habr.com/ru/articles/821059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821059)
-- [[Перевод] Потрясающе быстрые теневые стеки для Go](https://habr.com/ru/articles/821147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821147)
+- [Web-приложение с использованием fingerprint: как это работает и в чем сложность](https://habr.com/ru/companies/ru_mts/articles/820305/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820305)
+- [Автостарт Android-устройств — это просто! Реверсим, патчим загрузчик и заставляем смартфон включаться самому](https://habr.com/ru/companies/timeweb/articles/821399/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821399)
+- [[Перевод] Hibernate и спецификация JPA: приключение на 20 минут](https://habr.com/ru/companies/spring_aio/articles/821307/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821307)
+- [Web APIs, которые функционально приближают веб-приложения к нативным](https://habr.com/ru/companies/clevertec/articles/820227/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820227)
+- [Разработка многопоточной Базы Данных: Ключевые аспекты и примеры реализации &lpar; C++ &rpar;](https://habr.com/ru/articles/821381/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821381)
 <!-- BLOG-POST-LIST:END -->
 
 ---
