@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Замена 3-way merge на Server-Side Apply: как werf 2.0 решает проблемы Helm 3](https://habr.com/ru/companies/flant/articles/821665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821665)
+- [Как рисовать Sequence без боли и страданий в PlantUML](https://habr.com/ru/companies/X5Tech/articles/821687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821687)
 - [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/821561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821561)
 - [Решение задач Front End с интервью. Throttle](https://habr.com/ru/articles/821673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821673)
 - [Про рейтинги популярности языков программирования — на лето 2024 года](https://habr.com/ru/companies/ssp-soft/articles/821663/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821663)
-- [asynpg-lite: Простой асинхронный менеджер для PostgreSQL на Python](https://habr.com/ru/articles/821323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821323)
-- [Как программировать без мыши, без монитора, без зрения…](https://habr.com/ru/companies/beeline_cloud/articles/821617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821617)
 <!-- BLOG-POST-LIST:END -->
 
 ---
