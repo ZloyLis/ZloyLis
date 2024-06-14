@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как интегрировать виртуального помощника на Rasa?](https://habr.com/ru/articles/821833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821833)
+- [Экскурс в «святая святых» ОК: как мы пишем и ревьюим код автотестов](https://habr.com/ru/companies/odnoklassniki/articles/821801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821801)
+- [Дроиды и питоны: как работать с ADB быстрее и проще](https://habr.com/ru/articles/821781/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821781)
+- [Бизнес-сериал: формируем BI-систему в строительстве почти в прямом эфире. Часть I](https://habr.com/ru/companies/sminex_developer/articles/821807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821807)
 - [«Я стал тимлидом и боюсь». Что почитать и зачем](https://habr.com/ru/companies/kaspersky/articles/821491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821491)
-- [Факапы аналитиков: где они обитают? Кейсы Mad Brains](https://habr.com/ru/articles/821731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821731)
-- [[Перевод] Как я сохраняю мотивацию при разработке в одиночку](https://habr.com/ru/companies/productivity_inside/articles/821711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821711)
-- [Замена 3-way merge на Server-Side Apply: как werf 2.0 решает проблемы Helm 3](https://habr.com/ru/companies/flant/articles/821665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821665)
-- [Как рисовать Sequence без боли и страданий в PlantUML](https://habr.com/ru/companies/X5Tech/articles/821687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
