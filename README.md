@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [asynpg-lite: Простой асинхронный менеджер для PostgreSQL на Python](https://habr.com/ru/articles/821323/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821323)
 - [Как программировать без мыши, без монитора, без зрения…](https://habr.com/ru/companies/beeline_cloud/articles/821617/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821617)
 - [[Перевод] Специалисты по информатике изобрели новый эффективный способ подсчёта уникальных элементов](https://habr.com/ru/articles/821597/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821597)
 - [SwiftUI и MVI](https://habr.com/ru/articles/821591/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821591)
 - [Разбираем магических зверей безопасности: AuthZ: abac/rbac, AuthN и 2FA](https://habr.com/ru/articles/821587/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821587)
-- [Виды логирования в Swift](https://habr.com/ru/companies/agima/articles/821515/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821515)
 <!-- BLOG-POST-LIST:END -->
 
 ---
