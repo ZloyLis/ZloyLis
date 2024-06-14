@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Macroni: рецепт поступательного улучшения языка программирования](https://habr.com/ru/companies/timeweb/articles/821787/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821787)
+- [Аналитика на госпроектах – это не страшно](https://habr.com/ru/companies/gnivc/articles/821903/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821903)
 - [[Перевод] WhatsApp, Discord и как организовать одновременную коммуникацию для миллионов пользователей](https://habr.com/ru/articles/821875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821875)
 - [Даже в школе есть безопасники: решаем простые, но интересные CTF-турниры](https://habr.com/ru/companies/selectel/articles/821779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821779)
 - [Мастер карт или как объединить Google и Яндекс карты в Android](https://habr.com/ru/articles/821857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821857)
-- [Краткий навигатор по собеседованию Senior PHP/GO Backend](https://habr.com/ru/articles/821645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821645)
-- [Как интегрировать виртуального помощника на Rasa?](https://habr.com/ru/articles/821833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821833)
 <!-- BLOG-POST-LIST:END -->
 
 ---
