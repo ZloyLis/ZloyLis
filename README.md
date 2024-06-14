@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Я стал тимлидом и боюсь». Что почитать и зачем](https://habr.com/ru/companies/kaspersky/articles/821491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821491)
 - [Факапы аналитиков: где они обитают? Кейсы Mad Brains](https://habr.com/ru/articles/821731/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821731)
 - [[Перевод] Как я сохраняю мотивацию при разработке в одиночку](https://habr.com/ru/companies/productivity_inside/articles/821711/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821711)
 - [Замена 3-way merge на Server-Side Apply: как werf 2.0 решает проблемы Helm 3](https://habr.com/ru/companies/flant/articles/821665/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821665)
 - [Как рисовать Sequence без боли и страданий в PlantUML](https://habr.com/ru/companies/X5Tech/articles/821687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821687)
-- [Математическое моделирование технологических объектов и систем глазами и руками студента](https://habr.com/ru/companies/rosatom/articles/821561/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821561)
 <!-- BLOG-POST-LIST:END -->
 
 ---
