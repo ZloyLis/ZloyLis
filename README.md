@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] WhatsApp, Discord и как организовать одновременную коммуникацию для миллионов пользователей](https://habr.com/ru/articles/821875/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821875)
+- [Даже в школе есть безопасники: решаем простые, но интересные CTF-турниры](https://habr.com/ru/companies/selectel/articles/821779/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821779)
+- [Мастер карт или как объединить Google и Яндекс карты в Android](https://habr.com/ru/articles/821857/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821857)
+- [Краткий навигатор по собеседованию Senior PHP/GO Backend](https://habr.com/ru/articles/821645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821645)
 - [Как интегрировать виртуального помощника на Rasa?](https://habr.com/ru/articles/821833/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821833)
-- [Экскурс в «святая святых» ОК: как мы пишем и ревьюим код автотестов](https://habr.com/ru/companies/odnoklassniki/articles/821801/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821801)
-- [Дроиды и питоны: как работать с ADB быстрее и проще](https://habr.com/ru/articles/821781/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821781)
-- [Бизнес-сериал: формируем BI-систему в строительстве почти в прямом эфире. Часть I](https://habr.com/ru/companies/sminex_developer/articles/821807/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821807)
-- [«Я стал тимлидом и боюсь». Что почитать и зачем](https://habr.com/ru/companies/kaspersky/articles/821491/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821491)
 <!-- BLOG-POST-LIST:END -->
 
 ---
