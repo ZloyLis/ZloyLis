@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD заказывали? Или простое, но подробное руководство по настройке CI/CD под несколько iOS проектов](https://habr.com/ru/articles/821981/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821981)
 - [Сервер на визитке](https://habr.com/ru/articles/821959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821959)
 - [Управление напряжением PWM сигналом &lpar;PWM+RC=DAC&rpar;](https://habr.com/ru/articles/821951/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821951)
-- [Метрики оценки качества моделей и анализ ошибок в машинном обучении](https://habr.com/ru/articles/821547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821547)
+- [Метрики оценки качества моделей и анализ ошибок в машинном обучении. Подробное руководство](https://habr.com/ru/articles/821547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821547)
 - [PHP и Laravel дайджест новостей за май 2024 года](https://habr.com/ru/articles/821929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821929)
-- [Perl 5.40.0: что нового спустя 11 месяцев? Изменения и дополнения в релизе](https://habr.com/ru/companies/ru_mts/articles/821919/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821919)
 <!-- BLOG-POST-LIST:END -->
 
 ---
