@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Древняя и новая история цистерцианских цифр](https://habr.com/ru/articles/822085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822085)
 - [Как стать системным аналитиком в 2024 году](https://habr.com/ru/articles/822039/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822039)
 - [Как мы делали калькулятор &lpar;3D-конструктор&rpar; лестниц в нише, и с какими трудностями столкнулись](https://habr.com/ru/articles/822033/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822033)
 - [Статический анализ структуры базы данных &lpar;часть 3&rpar;](https://habr.com/ru/articles/821993/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821993)
 - [Поясняю за React Сompiler](https://habr.com/ru/articles/822021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822021)
-- [Конструирование лучшей команды &lpar;мечты&rpar;. Социальная инженерия. Часть 2](https://habr.com/ru/articles/821815/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821815)
 <!-- BLOG-POST-LIST:END -->
 
 ---
