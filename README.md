@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как обстоят дела с HTTP/3 в сURL на середину 2024 года](https://habr.com/ru/companies/ruvds/articles/821391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821391)
 - [Дроиды и питоны: работаем с ADB на Python](https://habr.com/ru/articles/822099/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822099)
 - [Написать X-docker-isolation-provider сложно — но не невозможно](https://habr.com/ru/articles/822093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822093)
 - [Telegram Боты на Aiogram 3.x: Message handler и трюки с текстом](https://habr.com/ru/articles/821661/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821661)
 - [Расширенное пространство &lpar;часть первая&rpar;](https://habr.com/ru/articles/822087/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822087)
-- [Древняя и новая история цистерцианских цифр](https://habr.com/ru/articles/822085/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822085)
 <!-- BLOG-POST-LIST:END -->
 
 ---
