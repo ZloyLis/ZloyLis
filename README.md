@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Построение надёжных систем из ненадёжных агентов](https://habr.com/ru/companies/globalsign/articles/822169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822169)
 - [«Hello Habr!» на Xerox Alto](https://habr.com/ru/articles/822163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822163)
 - [[Перевод] Мега-Учебник Flask Глава 14: Ajax &lpar;издание 2024&rpar;](https://habr.com/ru/articles/818001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818001)
 - [Гуманитарий с 0 знаний в программировании. 4 часть. Привет и пока, геймдев](https://habr.com/ru/articles/822131/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822131)
 - [Пробуем Typst, альтернативу LaTeX](https://habr.com/ru/articles/819837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819837)
-- [[Перевод] Как обстоят дела с HTTP/3 в сURL на середину 2024 года](https://habr.com/ru/companies/ruvds/articles/821391/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821391)
 <!-- BLOG-POST-LIST:END -->
 
 ---
