@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильная разработка за неделю #542 &lpar;10 — 16 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/822195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822195)
-- [[Перевод] Что такое PID 0](https://habr.com/ru/articles/822193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822193)
-- [По чем синтаксический сахар в графических языках программирования?](https://habr.com/ru/articles/822133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822133)
-- [Об одном использовании gRPC: HTTP-прокси pog-server](https://habr.com/ru/articles/822189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822189)
-- [Построение надёжных систем из ненадёжных агентов](https://habr.com/ru/companies/globalsign/articles/822169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822169)
+- [Как мы создали игру «Галактические войны» и выиграли приз зрительских симпатий](https://habr.com/ru/companies/yandex_praktikum/articles/820691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820691)
+- [«Натыкал» в хомяка и теперь хочу зарабатывать делая игры](https://habr.com/ru/articles/822165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822165)
+- [Как шаблонный метод может сломать ваш Java код](https://habr.com/ru/companies/pvs-studio/articles/822275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822275)
+- [«Axioma» «Норникеля» заинтересовала крупнейшие нефтегазохимические компании](https://habr.com/ru/companies/nornickel/articles/822271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822271)
+- [От платформы к коробочным продуктам: анализ архитектуры Tarantool](https://habr.com/ru/companies/vk/articles/819059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819059)
 <!-- BLOG-POST-LIST:END -->
 
 ---
