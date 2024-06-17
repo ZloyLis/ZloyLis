@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в Greenplum 7. Часть 2](https://habr.com/ru/companies/arenadata/articles/822309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822309)
 - [Security Week 2425: поиск уязвимостей в биометрическом терминале](https://habr.com/ru/companies/kaspersky/articles/822439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822439)
 - [UB or not UB: дублируем элемент std::vector](https://habr.com/ru/articles/816681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816681)
 - [Подключаем библиотеку к проекту с помощью npm/yarn link](https://habr.com/ru/companies/kts/articles/821111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821111)
 - [Системное мышление на практике: переход от монолита к микрофронтендам и обратно](https://habr.com/ru/companies/alfa/articles/821653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821653)
-- [Книга: «Java для опытных разработчиков. 2-е издание»](https://habr.com/ru/companies/piter/articles/821395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821395)
 <!-- BLOG-POST-LIST:END -->
 
 ---
