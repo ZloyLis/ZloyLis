@@ -38,8 +38,8 @@ ___
 - [Мобильная разработка за неделю #542 &lpar;10 — 16 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/822195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822195)
 - [[Перевод] Что такое PID 0](https://habr.com/ru/articles/822193/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822193)
 - [По чем синтаксический сахар в графических языках программирования?](https://habr.com/ru/articles/822133/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822133)
+- [Об одном использовании gRPC: HTTP-прокси pog-server](https://habr.com/ru/articles/822189/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822189)
 - [Построение надёжных систем из ненадёжных агентов](https://habr.com/ru/companies/globalsign/articles/822169/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822169)
-- [«Hello Habr!» на Xerox Alto](https://habr.com/ru/articles/822163/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822163)
 <!-- BLOG-POST-LIST:END -->
 
 ---
