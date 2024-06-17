@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Древние свитки CI/CD: смыслы, которые мы потеряли](https://habr.com/ru/companies/oleg-bunin/articles/821867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821867)
+- [Какую систему управления требованиями выбрать: обзор инструментов](https://habr.com/ru/companies/pt/articles/821643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821643)
+- [NLP, Catboost и тематическое моделирование: создаем модель для прогнозирования цен с использованием новостей](https://habr.com/ru/companies/simbirsoft/articles/821689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821689)
 - [Как мы создали игру «Галактические войны» и выиграли приз зрительских симпатий](https://habr.com/ru/companies/yandex_praktikum/articles/820691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820691)
 - [«Натыкал» в хомяка и теперь хочу зарабатывать делая игры](https://habr.com/ru/articles/822165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822165)
-- [Как шаблонный метод может сломать ваш Java код](https://habr.com/ru/companies/pvs-studio/articles/822275/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822275)
-- [«Axioma» «Норникеля» заинтересовала крупнейшие нефтегазохимические компании](https://habr.com/ru/companies/nornickel/articles/822271/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822271)
-- [От платформы к коробочным продуктам: анализ архитектуры Tarantool](https://habr.com/ru/companies/vk/articles/819059/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819059)
 <!-- BLOG-POST-LIST:END -->
 
 ---
