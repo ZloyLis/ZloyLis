@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Java для опытных разработчиков. 2-е издание»](https://habr.com/ru/companies/piter/articles/821395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821395)
+- [Учимся работать с Kubernetes через запуск приложения](https://habr.com/ru/companies/avito/articles/820953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820953)
 - [Исследуйте IT-бренды работодателей вместе с Хабром и ЭКОПСИ](https://habr.com/ru/specials/817357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817357)
 - [12 сервисов для прокачки насмотренности и поиска идей от руководителя команды дизайна Selectel](https://habr.com/ru/companies/selectel/articles/822315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822315)
 - [Легким движением руки приложение становится понятным. Как мы сделали уведомления в личном кабинете более заметными](https://habr.com/ru/companies/sbermarket/articles/821705/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821705)
-- [Древние свитки CI/CD: смыслы, которые мы потеряли](https://habr.com/ru/companies/oleg-bunin/articles/821867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821867)
-- [Какую систему управления требованиями выбрать: обзор инструментов](https://habr.com/ru/companies/pt/articles/821643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821643)
 <!-- BLOG-POST-LIST:END -->
 
 ---
