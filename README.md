@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2425: поиск уязвимостей в биометрическом терминале](https://habr.com/ru/companies/kaspersky/articles/822439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822439)
+- [UB or not UB: дублируем элемент std::vector](https://habr.com/ru/articles/816681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816681)
 - [Подключаем библиотеку к проекту с помощью npm/yarn link](https://habr.com/ru/companies/kts/articles/821111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821111)
 - [Системное мышление на практике: переход от монолита к микрофронтендам и обратно](https://habr.com/ru/companies/alfa/articles/821653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821653)
 - [Книга: «Java для опытных разработчиков. 2-е издание»](https://habr.com/ru/companies/piter/articles/821395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821395)
-- [Учимся работать с Kubernetes через запуск приложения](https://habr.com/ru/companies/avito/articles/820953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820953)
-- [Исследуйте IT-бренды работодателей вместе с Хабром и ЭКОПСИ](https://habr.com/ru/specials/817357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817357)
 <!-- BLOG-POST-LIST:END -->
 
 ---
