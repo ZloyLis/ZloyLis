@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключаем библиотеку к проекту с помощью npm/yarn link](https://habr.com/ru/companies/kts/articles/821111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821111)
+- [Системное мышление на практике: переход от монолита к микрофронтендам и обратно](https://habr.com/ru/companies/alfa/articles/821653/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821653)
 - [Книга: «Java для опытных разработчиков. 2-е издание»](https://habr.com/ru/companies/piter/articles/821395/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821395)
 - [Учимся работать с Kubernetes через запуск приложения](https://habr.com/ru/companies/avito/articles/820953/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820953)
 - [Исследуйте IT-бренды работодателей вместе с Хабром и ЭКОПСИ](https://habr.com/ru/specials/817357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817357)
-- [12 сервисов для прокачки насмотренности и поиска идей от руководителя команды дизайна Selectel](https://habr.com/ru/companies/selectel/articles/822315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822315)
-- [Легким движением руки приложение становится понятным. Как мы сделали уведомления в личном кабинете более заметными](https://habr.com/ru/companies/sbermarket/articles/821705/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821705)
 <!-- BLOG-POST-LIST:END -->
 
 ---
