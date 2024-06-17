@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследуйте IT-бренды работодателей вместе с Хабром и ЭКОПСИ](https://habr.com/ru/specials/817357/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817357)
+- [12 сервисов для прокачки насмотренности и поиска идей от руководителя команды дизайна Selectel](https://habr.com/ru/companies/selectel/articles/822315/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822315)
+- [Легким движением руки приложение становится понятным. Как мы сделали уведомления в личном кабинете более заметными](https://habr.com/ru/companies/sbermarket/articles/821705/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821705)
 - [Древние свитки CI/CD: смыслы, которые мы потеряли](https://habr.com/ru/companies/oleg-bunin/articles/821867/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821867)
 - [Какую систему управления требованиями выбрать: обзор инструментов](https://habr.com/ru/companies/pt/articles/821643/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821643)
-- [NLP, Catboost и тематическое моделирование: создаем модель для прогнозирования цен с использованием новостей](https://habr.com/ru/companies/simbirsoft/articles/821689/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821689)
-- [Как мы создали игру «Галактические войны» и выиграли приз зрительских симпатий](https://habr.com/ru/companies/yandex_praktikum/articles/820691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820691)
-- [«Натыкал» в хомяка и теперь хочу зарабатывать делая игры](https://habr.com/ru/articles/822165/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822165)
 <!-- BLOG-POST-LIST:END -->
 
 ---
