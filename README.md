@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отсутствие в .NET важных тригонометрических функций: заполняем пробелы](https://habr.com/ru/articles/822741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822741)
+- [C++20 в bare-metal программировании, работа с регистрами микроконтроллеров Cortex-M](https://habr.com/ru/articles/819499/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819499)
+- [Хакатоны — это не страшно: в НИТУ МИСИС придумали как помочь новичкам](https://habr.com/ru/companies/misis/articles/822751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822751)
+- [Треугольник орг-структур компании. Часть 2 Примеры орг-структуры процессного офиса](https://habr.com/ru/articles/822747/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822747)
 - [Обновление Java с 17 на 21: через тернии к звездам](https://habr.com/ru/companies/naumen/articles/822639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822639)
-- [«Мы от Лобачевского». Нижегородская математика для тех, кто не силён в математике](https://habr.com/ru/companies/neimark/articles/822733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822733)
-- [Как VWE помогает снизить дисперсию и повысить точность данных](https://habr.com/ru/companies/otus/articles/821425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821425)
-- [Почти все, что вы хотели бы знать про Docker](https://habr.com/ru/articles/822707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822707)
-- [Некорректная валидация UI при работе с файловой системой: что может пойти не так и как это починить](https://habr.com/ru/companies/ru_mts/articles/822615/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822615)
 <!-- BLOG-POST-LIST:END -->
 
 ---
