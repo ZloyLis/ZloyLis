@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор программного решения Business Integrity Screening](https://habr.com/ru/articles/822497/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822497)
+- [Сделали собственную платформу под документацию API: стоила ли игра свеч](https://habr.com/ru/companies/alfa/articles/815645/?utm_source=habrahabr&utm_medium=rss&utm_campaign=815645)
+- [От ручной работы к автоматизации: наш путь к идеальной доставке сборок Flutter](https://habr.com/ru/articles/822547/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822547)
+- [Про выбор IT ВУЗа и специальности](https://habr.com/ru/articles/822541/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822541)
 - [Как найти работу мечты в США: советы от рекрутера Uber и Amazon и основателя Careerflow.AI Никиты Гупты](https://habr.com/ru/articles/822531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822531)
-- [Кратко про библиотеку Rumale для машинного обучения на Ruby](https://habr.com/ru/companies/otus/articles/822279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822279)
-- [Apple Pro Weekly News &lpar;10.06 – 16.06.24&rpar;](https://habr.com/ru/articles/822517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822517)
-- [Статический и динамический полиморфизм в C++](https://habr.com/ru/articles/822509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822509)
-- [Что нового в Greenplum 7. Часть 2](https://habr.com/ru/companies/arenadata/articles/822309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822309)
 <!-- BLOG-POST-LIST:END -->
 
 ---
