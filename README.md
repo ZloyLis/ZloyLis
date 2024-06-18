@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Некорректная валидация UI при работе с файловой системой: что может пойти не так и как это починить](https://habr.com/ru/companies/ru_mts/articles/822615/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822615)
+- [Гибкая обработка арифметических выражений с AST на Scala](https://habr.com/ru/articles/822533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822533)
+- [[Перевод] Почему люди злятся из-за итераторов в Go 1.23](https://habr.com/ru/articles/822697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822697)
 - [Flutter Add-to-App: как добавить Flutter в приложение](https://habr.com/ru/companies/surfstudio/articles/822693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822693)
 - [Про что могут спросить аналитика данных о статистике на интервью: 3 темы](https://habr.com/ru/companies/otus/articles/822023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822023)
-- [Просто добавь прозрачности: техника SEMAT в тестировании и не только](https://habr.com/ru/companies/redmadrobot/articles/822673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822673)
-- [200 лет шрифту Брайля: как себя сегодня чувствуют ассистивные технологии в сети?](https://habr.com/ru/companies/ddosguard/articles/822625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822625)
-- [No fail, no gain: как мы исправили более миллиона тестов, проверяя оптимизацию библиотеки OpenBLAS под RISC-V](https://habr.com/ru/companies/yadro/articles/821715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821715)
 <!-- BLOG-POST-LIST:END -->
 
 ---
