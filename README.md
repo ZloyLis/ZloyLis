@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Add-to-App: как добавить Flutter в приложение](https://habr.com/ru/companies/surfstudio/articles/822693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822693)
+- [Про что могут спросить аналитика данных о статистике на интервью: 3 темы](https://habr.com/ru/companies/otus/articles/822023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822023)
+- [Просто добавь прозрачности: техника SEMAT в тестировании и не только](https://habr.com/ru/companies/redmadrobot/articles/822673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822673)
+- [200 лет шрифту Брайля: как себя сегодня чувствуют ассистивные технологии в сети?](https://habr.com/ru/companies/ddosguard/articles/822625/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822625)
 - [No fail, no gain: как мы исправили более миллиона тестов, проверяя оптимизацию библиотеки OpenBLAS под RISC-V](https://habr.com/ru/companies/yadro/articles/821715/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821715)
-- [Семь раз получи, один раз закэшируй](https://habr.com/ru/articles/822623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822623)
-- [Как в 2024 выложить приложение в Apple Store и Google Play](https://habr.com/ru/articles/822609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822609)
-- [Трудности перевода. Мигрируем учетные системы после переезда на отечественную СУБД](https://habr.com/ru/companies/k2tech/articles/822603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822603)
-- [Built-in replanning как способ корректировать огрехи оптимизатора PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/819911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819911)
 <!-- BLOG-POST-LIST:END -->
 
 ---
