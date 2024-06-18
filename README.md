@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Java с 17 на 21: через тернии к звездам](https://habr.com/ru/companies/naumen/articles/822639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822639)
+- [«Мы от Лобачевского». Нижегородская математика для тех, кто не силён в математике](https://habr.com/ru/companies/neimark/articles/822733/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822733)
+- [Как VWE помогает снизить дисперсию и повысить точность данных](https://habr.com/ru/companies/otus/articles/821425/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821425)
+- [Почти все, что вы хотели бы знать про Docker](https://habr.com/ru/articles/822707/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822707)
 - [Некорректная валидация UI при работе с файловой системой: что может пойти не так и как это починить](https://habr.com/ru/companies/ru_mts/articles/822615/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822615)
-- [Гибкая обработка арифметических выражений с AST на Scala](https://habr.com/ru/articles/822533/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822533)
-- [[Перевод] Почему люди злятся из-за итераторов в Go 1.23](https://habr.com/ru/articles/822697/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822697)
-- [Flutter Add-to-App: как добавить Flutter в приложение](https://habr.com/ru/companies/surfstudio/articles/822693/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822693)
-- [Про что могут спросить аналитика данных о статистике на интервью: 3 темы](https://habr.com/ru/companies/otus/articles/822023/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
