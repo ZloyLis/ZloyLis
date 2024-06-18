@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Семь раз получи, один раз закэшируй](https://habr.com/ru/articles/822623/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822623)
+- [Как в 2024 выложить приложение в Apple Store и Google Play](https://habr.com/ru/articles/822609/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822609)
+- [Трудности перевода. Мигрируем учетные системы после переезда на отечественную СУБД](https://habr.com/ru/companies/k2tech/articles/822603/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822603)
 - [Built-in replanning, как способ корректировать огрехи оптимизатора PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/819911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819911)
 - [Как мы сделали свой mini-k8s на go с helm шаблонизатором](https://habr.com/ru/companies/vk/articles/822467/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822467)
-- [Моя б̶е̶з̶умная колонка: часть вторая // программная](https://habr.com/ru/companies/timeweb/articles/817929/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817929)
-- [Работа с новой архитектурой в Laravel 11](https://habr.com/ru/articles/822185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822185)
-- [[Перевод] Spring Boot 3.2: замените свой RestTemplate на RestClient](https://habr.com/ru/companies/spring_aio/articles/822529/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822529)
 <!-- BLOG-POST-LIST:END -->
 
 ---
