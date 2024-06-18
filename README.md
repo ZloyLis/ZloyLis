@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ng-container](https://habr.com/ru/articles/822805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822805)
 - [Основы архитектуры для джунов: построение масштабируемых и чистых приложений на python &lpar;Туториал&rpar;](https://habr.com/ru/articles/816355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816355)
 - [Отсутствие в .NET важных тригонометрических функций: заполняем пробелы](https://habr.com/ru/articles/822741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822741)
 - [C++20 в bare-metal программировании, работа с регистрами микроконтроллеров Cortex-M](https://habr.com/ru/articles/819499/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819499)
 - [Хакатоны — это не страшно: в НИТУ МИСИС придумали как помочь новичкам](https://habr.com/ru/companies/misis/articles/822751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822751)
-- [Треугольник орг-структур компании. Часть 2 Примеры орг-структуры проектного офиса](https://habr.com/ru/articles/822747/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822747)
 <!-- BLOG-POST-LIST:END -->
 
 ---
