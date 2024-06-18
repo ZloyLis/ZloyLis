@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кратко про библиотеку Rumale для машинного обучения на Ruby](https://habr.com/ru/companies/otus/articles/822279/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822279)
 - [Apple Pro Weekly News &lpar;10.06 – 16.06.24&rpar;](https://habr.com/ru/articles/822517/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822517)
 - [Статический и динамический полиморфизм в C++](https://habr.com/ru/articles/822509/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822509)
 - [Что нового в Greenplum 7. Часть 2](https://habr.com/ru/companies/arenadata/articles/822309/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822309)
 - [Security Week 2425: поиск уязвимостей в биометрическом терминале](https://habr.com/ru/companies/kaspersky/articles/822439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822439)
-- [UB or not UB: дублируем элемент std::vector](https://habr.com/ru/articles/816681/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816681)
 <!-- BLOG-POST-LIST:END -->
 
 ---
