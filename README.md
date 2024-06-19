@@ -21,14 +21,14 @@ ___
 
 #### 🛠️ Языки:
 
-[![Top Langs](https://github-readme-stats-git-master-advtsettinggmailcoms-projects.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=true&title_color=e6edf3&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=false&hide_border=true&theme=dracula)](https://github.com/zloylis)
+[![Top Langs](https://github-readme-stats-u2qms2cxw-advtsettinggmailcoms-projects.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=true&title_color=e6edf3&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true&hide_border=true&theme=dracula)](https://github.com/zloylis)
 
 ---
 
 
 ####  :octocat:&nbsp;&nbsp; Статистика:
 
-![GitHub stats](https://github-readme-stats-git-master-advtsettinggmailcoms-projects.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&title_color=e6edf3&include_all_commits=true&count_private=true&hide_rank=false&hide_title=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats-u2qms2cxw-advtsettinggmailcoms-projects.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&title_color=e6edf3&include_all_commits=true&count_private=true&hide_rank=false&hide_title=true&rank_icon=github)
 
 ---
 
