@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [FastStream — новый убийца Celery?](https://habr.com/ru/articles/822505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822505)
+- [SARIMAX vs Экспоненциальное сглаживание: Когда простота побеждает](https://habr.com/ru/articles/822987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822987)
 - [Мощь AST в действии, или как переписать код 10 летней давности на ES6-модули и ничего не сломать](https://habr.com/ru/companies/ispring/articles/822975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822975)
 - [[Перевод] Как я нашёл 55-летний баг в первой игре о приземлении на Луну](https://habr.com/ru/companies/ruvds/articles/822963/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822963)
 - [Как я решила задачу нахождения t-критерия Стьюдента как функции от доверительного интервала и числа степеней свободы](https://habr.com/ru/articles/822889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822889)
-- [Почему лучше нанимать Project Manager из технических специалистов, чем управленца «с улицы»](https://habr.com/ru/articles/822957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822957)
 <!-- BLOG-POST-LIST:END -->
 
 ---
