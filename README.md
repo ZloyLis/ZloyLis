@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От логов к аудиту](https://habr.com/ru/articles/822923/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822923)
-- [Работа с YOLOV8. Детекция, сегментация, трекинг объектов, а также подготовка собственного датасета и обучение](https://habr.com/ru/articles/821971/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821971)
-- [Ненавижу, _____, C++ массивы](https://habr.com/ru/companies/pvs-studio/articles/822911/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822911)
-- [Как организовать безопасность контейнеров на базе Open Source](https://habr.com/ru/companies/vk/articles/821853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821853)
-- [Как работать с объектным хранилищем на Python](https://habr.com/ru/companies/selectel/articles/822855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822855)
+- [Как я решила задачу нахождения t-критерия Стьюдента как функции от доверительного интервала и числа степеней свободы](https://habr.com/ru/articles/822889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822889)
+- [Почему лучше нанимать Project Manager из технических специалистов, чем управленца «с улицы»](https://habr.com/ru/articles/822957/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822957)
+- [Космопути отдела нагрузочного тестирования — Cosmos](https://habr.com/ru/companies/tbank/articles/822913/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822913)
+- [Пишем анти-легаси приложение](https://habr.com/ru/companies/beeline_tech/articles/822925/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822925)
+- [Пишем простые расширения VS Code для автоматизации задач командной строки](https://habr.com/ru/companies/ncloudtech/articles/822475/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822475)
 <!-- BLOG-POST-LIST:END -->
 
 ---
