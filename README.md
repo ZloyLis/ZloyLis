@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Боты на Aiogram 3.x:  Интеграция с PostgreSQL в пару строк кода](https://habr.com/ru/articles/822083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822083)
-- [Бекпорт на примере Node.js v22 и Windows 7](https://habr.com/ru/articles/822817/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822817)
-- [ng-container](https://habr.com/ru/articles/822805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822805)
-- [Основы архитектуры для джунов: построение масштабируемых и чистых приложений на python &lpar;Туториал&rpar;](https://habr.com/ru/articles/816355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816355)
-- [Отсутствие в .NET важных тригонометрических функций: заполняем пробелы](https://habr.com/ru/articles/822741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822741)
+- [[Перевод] Учимся летать: симуляция эволюции на Rust. 3/5](https://habr.com/ru/companies/timeweb/articles/820699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820699)
+- [Миграция с Oracle на PostgreSQL: подводные камни и инструменты для перехода](https://habr.com/ru/companies/ibs/articles/822545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822545)
+- [Чем на самом деле занимается дата-сайентист](https://habr.com/ru/companies/yandex_praktikum/articles/820673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820673)
+- [Новые методы появятся в Set JavaScript](https://habr.com/ru/articles/822849/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822849)
+- [Симметричная индексация в Python](https://habr.com/ru/articles/818479/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818479)
 <!-- BLOG-POST-LIST:END -->
 
 ---
