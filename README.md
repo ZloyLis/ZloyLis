@@ -19,17 +19,17 @@
 ___ 
 -->
 
-#### 🛠️ Языки:
+#### 🛠️ Используемые языки:
 
 [![Top Langs](https://github-readme-stats-u2qms2cxw-advtsettinggmailcoms-projects.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=true&title_color=e6edf3&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true&hide_border=true&theme=dracula)](https://github.com/zloylis)
 
----
+<!---
 
 
 ####  :octocat:&nbsp;&nbsp; Статистика:
 
 ![GitHub stats](https://github-readme-stats-u2qms2cxw-advtsettinggmailcoms-projects.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&title_color=e6edf3&include_all_commits=true&count_private=true&hide_rank=false&hide_title=true&rank_icon=github)
-
+-->
 ---
 
 #### 💬 Свежее с habr.com:
@@ -43,8 +43,3 @@ ___
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<!--
-[![Top Langs](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api/top-langs/?username=zloylis&langs_count=10&hide_title=false&title_color=e6edf3&custom_title=🛠️&nbsp;Most&nbsp;used&nbsp;languages&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true&hide_border=true&theme=dracula)](https://github.com/zloylis)
-![GitHub stats](https://github-readme-stats-git-master-advtsetting-gmailcom.vercel.app/api?username=zloylis&show_icons=true&hide_border=true&theme=dracula&custom_title=GitHub&nbsp;Stats&title_color=e6edf3&include_all_commits=true&count_private=true&hide=contribs&hide_rank=true)
--->
