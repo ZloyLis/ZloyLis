@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как организовать безопасность контейнеров на базе Open Source](https://habr.com/ru/companies/vk/articles/821853/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821853)
 - [Как работать с объектным хранилищем на Python](https://habr.com/ru/companies/selectel/articles/822855/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822855)
 - [Интересные задачи, возможность найти себя и погружение в технологические процессы](https://habr.com/ru/companies/oleg-bunin/articles/822841/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822841)
 - [[Перевод] Учимся летать: симуляция эволюции на Rust. 3/5](https://habr.com/ru/companies/timeweb/articles/820699/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820699)
 - [Миграция с Oracle на PostgreSQL: подводные камни и инструменты для перехода](https://habr.com/ru/companies/ibs/articles/822545/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822545)
-- [Чем на самом деле занимается дата-сайентист](https://habr.com/ru/companies/yandex_praktikum/articles/820673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820673)
 <!-- BLOG-POST-LIST:END -->
 
 ---
