@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Боты на Aiogram 3.x:  Интеграция с PostgreSQL в пару строк кода](https://habr.com/ru/articles/822083/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822083)
 - [Бекпорт на примере Node.js v22 и Windows 7](https://habr.com/ru/articles/822817/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822817)
 - [ng-container](https://habr.com/ru/articles/822805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822805)
 - [Основы архитектуры для джунов: построение масштабируемых и чистых приложений на python &lpar;Туториал&rpar;](https://habr.com/ru/articles/816355/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816355)
 - [Отсутствие в .NET важных тригонометрических функций: заполняем пробелы](https://habr.com/ru/articles/822741/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822741)
-- [C++20 в bare-metal программировании, работа с регистрами микроконтроллеров Cortex-M](https://habr.com/ru/articles/819499/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819499)
 <!-- BLOG-POST-LIST:END -->
 
 ---
