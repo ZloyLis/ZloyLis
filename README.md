@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [WebView: быстрый релиз, никаких ревью в сторах, а минусы есть?](https://habr.com/ru/companies/alfa/articles/821055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821055)
+- [Хочу всё знать: самое лучшее образование не за горами](https://habr.com/ru/companies/sberbank/articles/823005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823005)
+- [25 новых проектов в песочнице CNCF: мегаобзор](https://habr.com/ru/companies/flant/articles/819765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819765)
 - [Введение в стандарты DDEX: Как обмениваться музыкальными данными](https://habr.com/ru/articles/823110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823110)
 - [Освоение программирования за 2 года с нуля или как я пытался автоматизировать реальное производство](https://habr.com/ru/articles/823102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823102)
-- [Черепаха в лабиринте: Медлительное путешествие к свободе](https://habr.com/ru/articles/823066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823066)
-- [Telegram Боты на Aiogram 3.x: Профиль, админ-панель и реферальная система](https://habr.com/ru/articles/822809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822809)
-- [Понимание RPC для новичков:](https://habr.com/ru/articles/823049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823049)
 <!-- BLOG-POST-LIST:END -->
 
 ---
