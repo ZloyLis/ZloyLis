@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Черепаха в лабиринте: Медлительное путешествие к свободе](https://habr.com/ru/articles/823066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823066)
+- [Telegram Боты на Aiogram 3.x: Профиль, админ-панель и реферальная система](https://habr.com/ru/articles/822809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822809)
 - [Понимание RPC для новичков:](https://habr.com/ru/articles/823049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823049)
 - [FastStream — новый убийца Celery?](https://habr.com/ru/articles/822505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822505)
 - [SARIMAX vs Экспоненциальное сглаживание: Когда простота побеждает](https://habr.com/ru/articles/822987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822987)
-- [Мощь AST в действии, или как переписать код 10 летней давности на ES6-модули и ничего не сломать](https://habr.com/ru/companies/ispring/articles/822975/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822975)
-- [[Перевод] Как я нашёл 55-летний баг в первой игре о приземлении на Луну](https://habr.com/ru/companies/ruvds/articles/822963/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822963)
 <!-- BLOG-POST-LIST:END -->
 
 ---
