@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Введение в стандарты DDEX: Как обмениваться музыкальными данными](https://habr.com/ru/articles/823110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823110)
+- [Освоение программирования за 2 года с нуля или как я пытался автоматизировать реальное производство](https://habr.com/ru/articles/823102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823102)
 - [Черепаха в лабиринте: Медлительное путешествие к свободе](https://habr.com/ru/articles/823066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823066)
 - [Telegram Боты на Aiogram 3.x: Профиль, админ-панель и реферальная система](https://habr.com/ru/articles/822809/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822809)
 - [Понимание RPC для новичков:](https://habr.com/ru/articles/823049/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823049)
-- [FastStream — новый убийца Celery?](https://habr.com/ru/articles/822505/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822505)
-- [SARIMAX vs Экспоненциальное сглаживание: Когда простота побеждает](https://habr.com/ru/articles/822987/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822987)
 <!-- BLOG-POST-LIST:END -->
 
 ---
