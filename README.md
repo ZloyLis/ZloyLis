@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Исправляем следующие 10 000 багов, связанные с наложением ссылок](https://habr.com/ru/companies/sravni/articles/823246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823246)
 - [Реинжиниринг управления лицензиями &lpar;SAM&rpar; в Группе MOEX](https://habr.com/ru/companies/moex/articles/823256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823256)
 - [[Перевод] Отвлекать программистов от работы — гораздо страшнее, чем кажется на первый взгляд](https://habr.com/ru/companies/netologyru/articles/823194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823194)
 - [Varioqub: за Mann-Whitney замолвите слово](https://habr.com/ru/companies/X5Tech/articles/823078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823078)
 - [Отвага и отвага: как мы выбирались из полного абзаца с неработающей ERP на 39 производствах](https://habr.com/ru/companies/omk-it/articles/823188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823188)
-- [[Перевод] Как защитить веб сервисы при помощи шлюза OpenIG](https://habr.com/ru/articles/823212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
