@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Математики пытаются заглянуть в прошлое Большого взрыва](https://habr.com/ru/articles/823064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823064)
+- [Эти айфоны ещё будут жить: Пишем и деплоим свои приложения из XCode на старые iPhone](https://habr.com/ru/companies/timeweb/articles/822659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822659)
+- [KAN и веб-программирование](https://habr.com/ru/articles/823146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823146)
+- [«Скрипач не нужен» или что делать с тестовыми паролями](https://habr.com/ru/articles/823100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823100)
 - [WebView: быстрый релиз, никаких ревью в сторах, а минусы есть?](https://habr.com/ru/companies/alfa/articles/821055/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821055)
-- [Хочу всё знать: самое лучшее образование не за горами](https://habr.com/ru/companies/sberbank/articles/823005/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823005)
-- [25 новых проектов в песочнице CNCF: мегаобзор](https://habr.com/ru/companies/flant/articles/819765/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819765)
-- [Введение в стандарты DDEX: Как обмениваться музыкальными данными](https://habr.com/ru/articles/823110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823110)
-- [Освоение программирования за 2 года с нуля или как я пытался автоматизировать реальное производство](https://habr.com/ru/articles/823102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
