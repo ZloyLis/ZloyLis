@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Введение в тестирование на Swift Testing](https://habr.com/ru/articles/823396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823396)
 - [From zero to cloudfort hero: как «прокачать» своего начальника, если он не разбирается в кибербезопасности](https://habr.com/ru/companies/beeline_cloud/articles/823356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823356)
 - [На чем разработать свой стартап или с чего начать хакатон в 2024? &lpar;часть 1&rpar;](https://habr.com/ru/articles/822001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822001)
 - [FUSE: как написать свою файловую систему](https://habr.com/ru/companies/vk/articles/821905/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821905)
 - [Чем занимается IT-архитектор: фантазии коллег и суровая реальность](https://habr.com/ru/companies/ru_mts/articles/823308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823308)
-- [[Перевод] Исправляем следующие 10 000 багов, связанных с наложением ссылок](https://habr.com/ru/companies/sravni/articles/823246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
