@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обратная сторона умного поиска заказов](https://habr.com/ru/companies/ostrovok/articles/823186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823186)
 - [Кадровый голод в IT не то, чем кажется](https://habr.com/ru/articles/823168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823168)
 - [[Перевод] Математики пытаются заглянуть в прошлое Большого взрыва](https://habr.com/ru/articles/823064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823064)
 - [Эти айфоны ещё будут жить: Пишем и деплоим свои приложения из XCode на старые iPhone](https://habr.com/ru/companies/timeweb/articles/822659/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822659)
 - [KAN и веб-программирование](https://habr.com/ru/articles/823146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823146)
-- [«Скрипач не нужен» или что делать с тестовыми паролями](https://habr.com/ru/articles/823100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
