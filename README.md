@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Swift 5.10](https://habr.com/ru/articles/823534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823534)
+- [Tramvai — фреймворк для создания веб-приложений](https://habr.com/ru/companies/tbank/articles/823512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823512)
+- [Зачем делать прожорливый софт: принципы reconciliation loop &lpar;Привет, K8s!&rpar;](https://habr.com/ru/companies/vk/articles/821021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821021)
 - [Анализ данных в hippotable: графики и shareable URLs](https://habr.com/ru/articles/823502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823502)
 - [Реверс-инжиниринг eBPF-программы на примере сокет-фильтра и уязвимости CVE-2018-18445](https://habr.com/ru/companies/pt/articles/823053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823053)
-- [Побитовые проверки в Java и почему они так неоднозначны](https://habr.com/ru/companies/pvs-studio/articles/823488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823488)
-- [IDE для разработки средств защиты в формате no-code](https://habr.com/ru/companies/securityvison/articles/823486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823486)
-- [Архивация сегментов WAL с помощью Pgbackrest](https://habr.com/ru/companies/T1Holding/articles/823360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
