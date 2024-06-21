@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Пользовательские интерфейсы в упадке](https://habr.com/ru/companies/productivity_inside/articles/823460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823460)
-- [Путеводитель по DevOps: видео, книги и курсы от сотрудников Selectel](https://habr.com/ru/companies/selectel/articles/823450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823450)
-- [10 лучших плагинов в Figma для дизайнеров интерфейсов. Мой личный топ](https://habr.com/ru/companies/yandex_praktikum/articles/822955/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822955)
-- [Зачем backend-разработчику Camunda и как ей пользоваться? Разбираем на примере одного пятничного вечера](https://habr.com/ru/companies/clevertec/articles/822333/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822333)
-- [Как эволюционировала платформа управления данными в Яндекс Go. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/822321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822321)
+- [Архивация сегментов WAL с помощью Pgbackrest](https://habr.com/ru/companies/T1Holding/articles/823360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823360)
+- [Вам не нужен Lodash. Хватит! Пожалуйста](https://habr.com/ru/articles/823484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823484)
+- [Как именовать и документировать аналитические события для чистых данных](https://habr.com/ru/companies/agima/articles/823318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823318)
+- [Альтернативы кимбалловской архитектуре DW/BI](https://habr.com/ru/articles/823474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823474)
+- [[Перевод] Новый компилятор K2 в Kotlin. Часть 1](https://habr.com/ru/companies/spring_aio/articles/823164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
