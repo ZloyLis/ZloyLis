@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как эволюционировала платформа управления данными в Яндекс Go. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/822321/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822321)
 - [Сильный ИИ. Элира2. Сохранение диалогов ChatGPT](https://habr.com/ru/articles/823428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823428)
 - [Asynpg-lite: лёгкость асинхронных операций на PostgreSQL с SQLAlchemy](https://habr.com/ru/articles/823400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823400)
 - [Введение в тестирование на Swift Testing](https://habr.com/ru/articles/823396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823396)
 - [From zero to cloudfort hero: как «прокачать» своего начальника, если он не разбирается в кибербезопасности](https://habr.com/ru/companies/beeline_cloud/articles/823356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823356)
-- [На чем разработать свой стартап или с чего начать хакатон в 2024? &lpar;часть 1&rpar;](https://habr.com/ru/articles/822001/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822001)
 <!-- BLOG-POST-LIST:END -->
 
 ---
