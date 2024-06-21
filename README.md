@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Загружаем товары из магазина Ozon в Google-таблицу](https://habr.com/ru/articles/823566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823566)
+- [[Перевод] Выстраиваем стабильное соединение для обучения с подкреплением на Python на моделях AnyLogic](https://habr.com/ru/companies/otus/articles/823508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823508)
 - [[Перевод] Swift 5.10](https://habr.com/ru/articles/823534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823534)
 - [Tramvai — фреймворк для создания веб-приложений](https://habr.com/ru/companies/tbank/articles/823512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823512)
 - [Зачем делать прожорливый софт: принципы reconciliation loop &lpar;Привет, K8s!&rpar;](https://habr.com/ru/companies/vk/articles/821021/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821021)
-- [Анализ данных в hippotable: графики и shareable URLs](https://habr.com/ru/articles/823502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823502)
-- [Реверс-инжиниринг eBPF-программы на примере сокет-фильтра и уязвимости CVE-2018-18445](https://habr.com/ru/companies/pt/articles/823053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823053)
 <!-- BLOG-POST-LIST:END -->
 
 ---
