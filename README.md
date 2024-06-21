@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нам должна Система?](https://habr.com/ru/articles/823622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823622)
+- [[Перевод] «Мы пытаемся понять форму космоса»: учёных интересует, похожа ли Вселенная на пончик](https://habr.com/ru/articles/823620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823620)
 - [Что нового в безопасности пользователей на Android: доклад с Google I/O 2024](https://habr.com/ru/companies/kts/articles/823574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823574)
 - [Пишем кастомный Plugin SonarQube](https://habr.com/ru/articles/823590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823590)
 - [Go и pgx. Пагинация в запросах к БД Postgres](https://habr.com/ru/articles/823576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823576)
-- [Загружаем товары из магазина Ozon в Google-таблицу](https://habr.com/ru/articles/823566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823566)
-- [[Перевод] Выстраиваем стабильное соединение для обучения с подкреплением на Python на моделях AnyLogic](https://habr.com/ru/companies/otus/articles/823508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
