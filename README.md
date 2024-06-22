@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кликер на Unity с использованием нейросети для генерации графики](https://habr.com/ru/articles/823684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823684)
 - [Как мы отказались от встреч по оценке багов с помощью телеграм бота и что из этого получилось](https://habr.com/ru/articles/823658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823658)
 - [Кажется, LLM программирует лучше меня](https://habr.com/ru/articles/823660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823660)
 - [Введение в продуктовую аналитику. Зачем нужна и с чего начать внедрять](https://habr.com/ru/articles/823652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823652)
 - [[Перевод] Аннотации vs Документационные комментарии vs Маркерные интерфейсы](https://habr.com/ru/articles/823648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823648)
-- [Что на неделе: отечественный ответ PS, ИИ-обманщик и сервис знакомств на блокчейн](https://habr.com/ru/companies/agima/articles/823608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
