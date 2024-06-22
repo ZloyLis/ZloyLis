@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Аннотации vs Документационные комментарии vs Маркерные интерфейсы](https://habr.com/ru/articles/823648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823648)
+- [Что на неделе: отечественный ответ PS, ИИ-обманщик и сервис знакомств на блокчейн](https://habr.com/ru/companies/agima/articles/823608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823608)
 - [Средние ошибки и их квадраты](https://habr.com/ru/articles/823644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823644)
 - [Шпаргалка с командами для Windows, Linux и macOS &lpar;Терминал, VirtualEnv и Git&rpar;](https://habr.com/ru/articles/823570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823570)
 - [Что нам должна Система?](https://habr.com/ru/articles/823622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823622)
-- [[Перевод] «Мы пытаемся понять форму космоса»: учёных интересует, похожа ли Вселенная на пончик](https://habr.com/ru/articles/823620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823620)
-- [Что нового в безопасности пользователей на Android: доклад с Google I/O 2024](https://habr.com/ru/companies/kts/articles/823574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
