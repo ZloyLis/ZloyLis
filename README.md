@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шпаргалка с командами для Windows, Linux и macOS &lpar;Терминал, VirtualEnv и Git&rpar;](https://habr.com/ru/articles/823570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823570)
 - [Что нам должна Система?](https://habr.com/ru/articles/823622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823622)
 - [[Перевод] «Мы пытаемся понять форму космоса»: учёных интересует, похожа ли Вселенная на пончик](https://habr.com/ru/articles/823620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823620)
 - [Что нового в безопасности пользователей на Android: доклад с Google I/O 2024](https://habr.com/ru/companies/kts/articles/823574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823574)
 - [Пишем кастомный Plugin SonarQube](https://habr.com/ru/articles/823590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823590)
-- [Go и pgx. Пагинация в запросах к БД Postgres](https://habr.com/ru/articles/823576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
