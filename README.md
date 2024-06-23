@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] История переформатирования 100 000+ файлов Google в 2012 году](https://habr.com/ru/companies/ruvds/articles/823452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823452)
+- [[Перевод] Введение в Advanced Views Framework](https://habr.com/ru/articles/823742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823742)
+- [Кратко про осцилляторы RSI и Stochastic](https://habr.com/ru/companies/otus/articles/823500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823500)
 - [Feature-Based Flutter Architecture](https://habr.com/ru/articles/821671/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821671)
 - [Telegram Боты на Aiogram 3.x: Деплой бота через Docker](https://habr.com/ru/articles/823714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823714)
-- [Как я сдавала ISTQB Foundation Level V4.0](https://habr.com/ru/articles/823706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823706)
-- [Кликер на Unity с использованием нейросети для генерации графики](https://habr.com/ru/articles/823684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823684)
-- [Как мы отказались от встреч по оценке багов с помощью телеграм бота и что из этого получилось](https://habr.com/ru/articles/823658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
