@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование библиотеки для профилирования в Spring Boot](https://habr.com/ru/articles/823776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823776)
 - [System Analyst Roadmap или что нужно знать системному аналитику](https://habr.com/ru/articles/823764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823764)
 - [Базы данных не существует](https://habr.com/ru/articles/823768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823768)
 - [[Перевод] Анти-паттерны в Go Web Applications](https://habr.com/ru/articles/823766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823766)
 - [[Перевод] История переформатирования 100 000+ файлов Google в 2012 году](https://habr.com/ru/companies/ruvds/articles/823452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823452)
-- [[Перевод] Введение в Advanced Views Framework](https://habr.com/ru/articles/823742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
