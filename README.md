@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я автоматизировал свое утро с помощью Python](https://habr.com/ru/companies/ispsystem/articles/823842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823842)
 - [Сериализация данных в C++ с библиотекой Cereal](https://habr.com/ru/companies/otus/articles/821195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821195)
 - [Строим свой SSO. Часть 5: Итоговый SSO, Защита от XSS/CSRF, Custom Grant Type](https://habr.com/ru/articles/823808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823808)
 - [[Перевод] Разработка ядра – API для прошивки](https://habr.com/ru/companies/timeweb/articles/823718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823718)
 - [Как с помощью систем ЖКХ анализировать потенциально экстренные ситуации](https://habr.com/ru/articles/823784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823784)
-- [Netmiko: упрощение сетевой автоматизации на Python](https://habr.com/ru/companies/otus/articles/822647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822647)
 <!-- BLOG-POST-LIST:END -->
 
 ---
