@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработка ядра – API для прошивки](https://habr.com/ru/companies/timeweb/articles/823718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823718)
+- [Как с помощью систем ЖКХ анализировать потенциально экстренные ситуации](https://habr.com/ru/articles/823784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823784)
 - [Netmiko: упрощение сетевой автоматизации на Python](https://habr.com/ru/companies/otus/articles/822647/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822647)
 - [Использование библиотеки для профилирования в Spring Boot](https://habr.com/ru/articles/823776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823776)
 - [System Analyst Roadmap или что нужно знать системному аналитику](https://habr.com/ru/articles/823764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823764)
-- [Базы данных не существует](https://habr.com/ru/articles/823768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823768)
-- [[Перевод] Анти-паттерны в Go Web Applications](https://habr.com/ru/articles/823766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
