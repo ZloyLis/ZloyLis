@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;17.06 – 23.06.24&rpar;](https://habr.com/ru/articles/824174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824174)
+- [XSS в Sappy &lpar;частичный writeup&rpar;](https://habr.com/ru/articles/824166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824166)
+- [Security Week 2426: стойкость паролей к перебору](https://habr.com/ru/companies/kaspersky/articles/824110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824110)
 - [Чистый код: Данные](https://habr.com/ru/articles/824160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824160)
 - [Избранные задачи по алгебре с экзаменов в ШАД](https://habr.com/ru/articles/824150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824150)
-- [Что нового в Greenplum 7. Заключение](https://habr.com/ru/companies/arenadata/articles/824116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824116)
-- [DNS-хостинг для начинающих: разбираемся в многообразии ресурсных записей](https://habr.com/ru/companies/selectel/articles/824094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824094)
-- [От студента-новичка до инженера ИБ за 8 месяцев. Мой опыт старта в направлении, которое нравится всем](https://habr.com/ru/companies/jetinfosystems/articles/824062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
