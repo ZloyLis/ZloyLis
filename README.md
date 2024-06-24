@@ -38,8 +38,8 @@ ___
 - [[Перевод] Почему модель не работает?](https://habr.com/ru/companies/wunderfund/articles/823932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823932)
 - [Квест на Node.js — борьба с утечкой памяти. От диагностики до решения](https://habr.com/ru/companies/simbirsoft/articles/823884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823884)
 - [Кофе по SSH, сайты в zip-архивах. Чистый HTML лучше всего](https://habr.com/ru/companies/ruvds/articles/821443/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821443)
-- [Можем, умеем, практикуем. Новый бесплатный курс об информационной безопасности на практике](https://habr.com/ru/companies/selectel/articles/823910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823910)
 - [Великий спор Дж. Кейнса и Я. Тинбергена. А также курс доллара в Казахстане в 2024 году](https://habr.com/ru/articles/823852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823852)
+- [Автоскейлинг в Kubernetes: HPA, VPA и Cluster Autoscaler](https://habr.com/ru/companies/otus/articles/818945/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818945)
 <!-- BLOG-POST-LIST:END -->
 
 ---
