@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Динамическое создание UDF в Apache Spark из строк кода: проблемы и решение &lpar;«костыль»&rpar;](https://habr.com/ru/articles/823978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823978)
 - [Apple Pro Weekly News &lpar;17.06 – 23.06.24&rpar;](https://habr.com/ru/articles/824174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824174)
 - [XSS в Sappy &lpar;частичный writeup&rpar;](https://habr.com/ru/articles/824166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824166)
 - [Security Week 2426: стойкость паролей к перебору](https://habr.com/ru/companies/kaspersky/articles/824110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824110)
 - [Чистый код: Данные](https://habr.com/ru/articles/824160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824160)
-- [Избранные задачи по алгебре с экзаменов в ШАД](https://habr.com/ru/articles/824150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
