@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книжная полка разработчика в эпоху интернета и искусственного интеллекта](https://habr.com/ru/companies/yandex_praktikum/articles/822379/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822379)
-- [Кратко про библиотеку gevent в Python: высокопроизводительная асинхронная библиотека](https://habr.com/ru/companies/otus/articles/821199/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821199)
-- [[Перевод] Семь уроков для достижения стабильности при создании игр](https://habr.com/ru/articles/823870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823870)
-- [Быстрый запуск PostgreSQL через Docker Compose](https://habr.com/ru/articles/823816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823816)
-- [Мобильная разработка за неделю #543 &lpar;17 — 23 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/823850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823850)
+- [Нереальная локализация](https://habr.com/ru/articles/823836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823836)
+- [Деплой .NET приложений для самых маленьких. Часть 1. Jenkins](https://habr.com/ru/companies/timeweb/articles/821555/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821555)
+- [[Перевод] Как устроены аннотации в Kotlin. Часть 1](https://habr.com/ru/companies/surfstudio/articles/823906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823906)
+- [Подробное руководство по Logcat в Android Studio с примерами](https://habr.com/ru/articles/818751/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818751)
+- [Биллинг в МФО: что должен уметь, нюансы расчетов и влияние на финансовый результат](https://habr.com/ru/articles/823898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
