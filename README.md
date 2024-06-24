@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в Greenplum 7. Заключение](https://habr.com/ru/companies/arenadata/articles/824116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824116)
 - [DNS-хостинг для начинающих: разбираемся в многообразии ресурсных записей](https://habr.com/ru/companies/selectel/articles/824094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824094)
 - [От студента-новичка до инженера ИБ за 8 месяцев. Мой опыт старта в направлении, которое нравится всем](https://habr.com/ru/companies/jetinfosystems/articles/824062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824062)
 - [Как я развиваю свое приложение для хранения прочитанных книг?](https://habr.com/ru/articles/824098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824098)
 - [Отказоустойчивый деплой приложений в Kubernetes. Принципы, паттерны и приемы](https://habr.com/ru/companies/gazprombank/articles/824034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824034)
-- [Защита iOS-приложений от реверс-инженеринга](https://habr.com/ru/articles/824054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
