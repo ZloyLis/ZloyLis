@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрый запуск PostgreSQL через Docker Compose](https://habr.com/ru/articles/823816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823816)
 - [Мобильная разработка за неделю #543 &lpar;17 — 23 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/823850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823850)
 - [Мобильная разработка за неделю #543 &lpar;17 — 23 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/823848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823848)
 - [[Перевод] Мега-Учебник Flask Глава 15: Улучшенная структура приложения &lpar;издание 2024&rpar;](https://habr.com/ru/articles/818639/?utm_source=habrahabr&utm_medium=rss&utm_campaign=818639)
 - [[Перевод] Как я автоматизировал свое утро с помощью Python](https://habr.com/ru/companies/ispsystem/articles/823842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823842)
-- [Сериализация данных в C++ с библиотекой Cereal](https://habr.com/ru/companies/otus/articles/821195/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821195)
 <!-- BLOG-POST-LIST:END -->
 
 ---
