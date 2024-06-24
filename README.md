@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отказоустойчивый деплой приложений в Kubernetes. Принципы, паттерны и приемы](https://habr.com/ru/companies/gazprombank/articles/824034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824034)
+- [Защита iOS-приложений от реверс-инженеринга](https://habr.com/ru/articles/824054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824054)
 - [Архитектура кроссплатформенного многомодульного приложения](https://habr.com/ru/articles/824048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824048)
 - [Микросервисы с Go-Micro на примере](https://habr.com/ru/companies/otus/articles/823782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823782)
 - [[Перевод] Почему итераторы в Go 1.23 многим так не нравятся](https://habr.com/ru/articles/824018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824018)
-- [[Перевод] Почему модель не работает?](https://habr.com/ru/companies/wunderfund/articles/823932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823932)
-- [Квест на Node.js — борьба с утечкой памяти. От диагностики до решения](https://habr.com/ru/companies/simbirsoft/articles/823884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
