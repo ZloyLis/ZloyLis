@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как безболезненно внедрить исследования в продуктовую разработку](https://habr.com/ru/companies/samokat_tech/articles/824130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824130)
 - [Пакетная обработка в PostgreSQL](https://habr.com/ru/companies/otus/articles/819043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819043)
 - [Как мы создали свой инструмент для доставки сборок Android-приложений](https://habr.com/ru/companies/agima/articles/824446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824446)
 - [[Перевод] Почему Starburst Icehouse подходит не всем](https://habr.com/ru/companies/vk/articles/824258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824258)
 - [Дизайн экосистем](https://habr.com/ru/companies/rostelecom/articles/819635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819635)
-- [Создание парсеров на Rust](https://habr.com/ru/companies/otus/articles/816687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816687)
 <!-- BLOG-POST-LIST:END -->
 
 ---
