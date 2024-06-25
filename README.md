@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы в Яндекс Путешествиях на Compose стёкла морозили](https://habr.com/ru/companies/yandex/articles/823992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823992)
-- [Давайте писать качественный код: важность статического анализа кода](https://habr.com/ru/companies/lanit/articles/823878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823878)
-- [Точки отказа в HighLoad-системах](https://habr.com/ru/companies/oleg-bunin/articles/823498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823498)
-- [Неоднозначный термин «искусственный интеллект»](https://habr.com/ru/articles/824236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824236)
-- [Способы возведения в степень в Python](https://habr.com/ru/articles/823438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823438)
+- [Как моделируют мозг в томографии?](https://habr.com/ru/companies/smartengines/articles/821827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821827)
+- [ТОП-10 ошибок при создании сайта](https://habr.com/ru/articles/824342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824342)
+- [Личный кодинг, мягкость и воля: как развиваться руководителю разработки](https://habr.com/ru/companies/yandex_praktikum/articles/822459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822459)
+- [Инструменты Android-разработчика](https://habr.com/ru/companies/domclick/articles/821837/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821837)
+- [Об ускорении некоторых тестов на нормальность из библиотеки SciPy](https://habr.com/ru/companies/aktiv-company/articles/823510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
