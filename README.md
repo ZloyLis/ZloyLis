@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выстроить обучающую среду, нацеленную на развитие инженеров](https://habr.com/ru/companies/sberbank/articles/823928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823928)
+- [Как мы строим команду аналитики в «Магнит Маркете»](https://habr.com/ru/companies/magnit/articles/823268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823268)
 - [[Перевод] Решение задач Front End с интервью. Promise Pool](https://habr.com/ru/articles/824196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824196)
 - [Динамическое создание UDF в Apache Spark из строк кода: проблемы и решение &lpar;«костыль»&rpar;](https://habr.com/ru/articles/823978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823978)
 - [Apple Pro Weekly News &lpar;17.06 – 23.06.24&rpar;](https://habr.com/ru/articles/824174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824174)
-- [XSS в Sappy &lpar;частичный writeup&rpar;](https://habr.com/ru/articles/824166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824166)
-- [Security Week 2426: стойкость паролей к перебору](https://habr.com/ru/companies/kaspersky/articles/824110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
