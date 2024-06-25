@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайн экосистем](https://habr.com/ru/companies/rostelecom/articles/819635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819635)
+- [Создание парсеров на Rust](https://habr.com/ru/companies/otus/articles/816687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816687)
+- [Взгляд изнутри: как работает ОЦРВ Сириус](https://habr.com/ru/articles/824448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824448)
 - [Сколько стоит игра? Развенчиваю мифы о стоимости геймификации](https://habr.com/ru/articles/824432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824432)
 - [ИИ познает женскую красоту](https://habr.com/ru/articles/824390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824390)
-- [Разработчикам на Rust: рецензия на книгу «Rust: атомарности и блокировки»](https://habr.com/ru/companies/ssp-soft/articles/824384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824384)
-- [[Перевод] Эффективность Spring-приложений в рантайме. Текущее состояние дел и планы на будущее](https://habr.com/ru/companies/spring_aio/articles/824328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824328)
-- [Эмуляция сбоев ФС. Ломаем PostgreSQL](https://habr.com/ru/articles/824376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
