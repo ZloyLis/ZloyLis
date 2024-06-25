@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как американская коррупция превратила физика-ядерщика в быдло-кодера](https://habr.com/ru/articles/824250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824250)
 - [Title case против Sentence case](https://habr.com/ru/articles/824548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824548)
 - [Lock-free структуры данных в Rust](https://habr.com/ru/companies/otus/articles/821629/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821629)
 - [Как безболезненно внедрить исследования в продуктовую разработку](https://habr.com/ru/companies/samokat_tech/articles/824130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824130)
 - [Пакетная обработка в PostgreSQL](https://habr.com/ru/companies/otus/articles/819043/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819043)
-- [Как мы создали свой инструмент для доставки сборок Android-приложений](https://habr.com/ru/companies/agima/articles/824446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
