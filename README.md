@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы создали свой инструмент для доставки сборок Android-приложений](https://habr.com/ru/companies/agima/articles/824446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824446)
+- [[Перевод] Почему Starburst Icehouse подходит не всем](https://habr.com/ru/companies/vk/articles/824258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824258)
 - [Дизайн экосистем](https://habr.com/ru/companies/rostelecom/articles/819635/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819635)
 - [Создание парсеров на Rust](https://habr.com/ru/companies/otus/articles/816687/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816687)
 - [Взгляд изнутри: как работает ОЦРВ Сириус](https://habr.com/ru/articles/824448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824448)
-- [Сколько стоит игра? Развенчиваю мифы о стоимости геймификации](https://habr.com/ru/articles/824432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824432)
-- [ИИ познает женскую красоту](https://habr.com/ru/articles/824390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
