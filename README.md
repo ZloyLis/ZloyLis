@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эффективность Spring-приложений в рантайме. Текущее состояние дел и планы на будущее](https://habr.com/ru/companies/spring_aio/articles/824328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824328)
+- [Эмуляция сбоев ФС. Ломаем PostgreSQL](https://habr.com/ru/articles/824376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824376)
+- [[Перевод] Как уберечься от кражи репозитория &lpar;реподжекинга&rpar;](https://habr.com/ru/companies/otus/articles/824374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824374)
+- [Как отказаться от скриншотов в тестировании](https://habr.com/ru/companies/tbank/articles/824132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824132)
 - [Магия CSS на практике: советы по вёрстке от гика](https://habr.com/ru/companies/ruvds/articles/822461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822461)
-- [Динамические свайпы с помощью ItemTouchHelper](https://habr.com/ru/articles/824348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824348)
-- [Как моделируют мозг в томографии?](https://habr.com/ru/companies/smartengines/articles/821827/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821827)
-- [ТОП-10 ошибок при создании сайта](https://habr.com/ru/articles/824342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824342)
-- [Личный кодинг, мягкость и воля: как развиваться руководителю разработки](https://habr.com/ru/companies/yandex_praktikum/articles/822459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822459)
 <!-- BLOG-POST-LIST:END -->
 
 ---
