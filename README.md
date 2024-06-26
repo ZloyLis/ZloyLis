@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многопоточность JavaScript с SharedArrayBuffer и Atomics: основы](https://habr.com/ru/companies/otus/articles/821805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821805)
+- [Как я участвовал в IOS Widget Challenge и что из этого вышло](https://habr.com/ru/articles/824872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824872)
 - [Загрузка es-модулей в браузерные приложения](https://habr.com/ru/articles/824860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824860)
 - [Как мы пытались в Docs as code и проиграли](https://habr.com/ru/articles/824866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824866)
 - [Frontend. Поток данных](https://habr.com/ru/articles/824842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824842)
-- [Нативная рефлексия в C++ уже близко](https://habr.com/ru/articles/824840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824840)
-- [Дизайн-система: друг или враг?](https://habr.com/ru/companies/gnivc/articles/824822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
