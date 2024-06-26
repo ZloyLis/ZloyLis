@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нативная рефлексия в C++ уже близко](https://habr.com/ru/articles/824840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824840)
+- [Дизайн-система: друг или враг?](https://habr.com/ru/companies/gnivc/articles/824822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824822)
 - [[Перевод] Учимся летать: симуляция эволюции на Rust. 4/5](https://habr.com/ru/companies/timeweb/articles/823676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823676)
 - [Контейнер ConditionalBitset — небольшое хранилище для условий выполнения](https://habr.com/ru/articles/824812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824812)
 - [[Перевод] Коварные утечки памяти в React: как можно обжечься на useCallback и замыканиях](https://habr.com/ru/companies/piter/articles/824454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824454)
-- [Можно ли освоить иностранный язык за 3 месяца?](https://habr.com/ru/articles/824804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824804)
-- [Выжимаем из Go максимум производительности](https://habr.com/ru/companies/vk/articles/824484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
