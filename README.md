@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Учимся летать: симуляция эволюции на Rust. 4/5](https://habr.com/ru/companies/timeweb/articles/823676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823676)
+- [Контейнер ConditionalBitset — небольшое хранилище для условий выполнения](https://habr.com/ru/articles/824812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824812)
+- [[Перевод] Коварные утечки памяти в React: как можно обжечься на useCallback и замыканиях](https://habr.com/ru/companies/piter/articles/824454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824454)
+- [Можно ли освоить иностранный язык за 3 месяца?](https://habr.com/ru/articles/824804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824804)
 - [Выжимаем из Go максимум производительности](https://habr.com/ru/companies/vk/articles/824484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824484)
-- [[Перевод] Всё ещё нерешённая загадка замерзания воды](https://habr.com/ru/companies/ruvds/articles/824652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824652)
-- [Задача распознавания эмоций. Часть 1. Введение](https://habr.com/ru/articles/824744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824744)
-- [Встречайте новые функции продукта «ПроAPI Структура» от команды «Вебмониторэкс»](https://habr.com/ru/companies/webmonitorx/articles/824740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824740)
-- [Хочу в IT! Как найти работу мечты и не провалить собеседование, даже если опыта нет совсем](https://habr.com/ru/companies/ru_mts/articles/824722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
