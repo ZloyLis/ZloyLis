@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Загрузка es-модулей в браузерные приложения](https://habr.com/ru/articles/824860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824860)
+- [Как мы пытались в Docs as code и проиграли](https://habr.com/ru/articles/824866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824866)
 - [Frontend. Поток данных](https://habr.com/ru/articles/824842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824842)
 - [Нативная рефлексия в C++ уже близко](https://habr.com/ru/articles/824840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824840)
 - [Дизайн-система: друг или враг?](https://habr.com/ru/companies/gnivc/articles/824822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824822)
-- [[Перевод] Учимся летать: симуляция эволюции на Rust. 4/5](https://habr.com/ru/companies/timeweb/articles/823676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823676)
-- [Контейнер ConditionalBitset — небольшое хранилище для условий выполнения](https://habr.com/ru/articles/824812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
