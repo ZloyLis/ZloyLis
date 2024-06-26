@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Встречайте новые функции продукта «ПроAPI Структура» от команды «Вебмониторэкс»](https://habr.com/ru/companies/webmonitorx/articles/824740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824740)
+- [Хочу в IT! Как найти работу мечты и не провалить собеседование, даже если опыта нет совсем](https://habr.com/ru/companies/ru_mts/articles/824722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824722)
+- [Авторизация и регистрация в интернет-магазине и закон: как реализовать и не получить штраф](https://habr.com/ru/articles/824718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824718)
+- [Тренируем клиентских менеджеров с помощью ИИ](https://habr.com/ru/companies/sberbank/articles/824696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824696)
 - [SVG-виджеты для tcl/tk. Градиентная заливка и прозрачность. Часть II](https://habr.com/ru/articles/824702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824702)
-- [12 мгновений опечаток и копипаста, или почему сбоит AI: проверяем код OpenVINO](https://habr.com/ru/companies/pvs-studio/articles/824698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824698)
-- [Руководство по ng-template и ngTemplateOutlet в Angular](https://habr.com/ru/articles/824694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824694)
-- [Логирование во фронтенд-приложениях. Опыт Звука](https://habr.com/ru/companies/zvuk/articles/824430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824430)
-- [[Перевод] Преобразования данных React Query](https://habr.com/ru/articles/824690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
