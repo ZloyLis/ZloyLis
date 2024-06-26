@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Перспективы профессии Data Science: ликбез для джунов](https://habr.com/ru/companies/yandex_praktikum/articles/820677/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820677)
-- [Новый микрофронтенд за 20 минут вместо часа: как работает система автоматической сборки](https://habr.com/ru/companies/mindbox/articles/824428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824428)
-- [Тестирование асинхронного контракта Spring Boot приложения &lpar;Kafka Consumer+Producer&rpar;](https://habr.com/ru/articles/824594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824594)
-- [Type Loopholes: решая нерешаемое. Рефлексия времени компиляции](https://habr.com/ru/articles/824574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824574)
-- [Как американская коррупция превратила физика-ядерщика в быдло-кодера](https://habr.com/ru/articles/824250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824250)
+- [Материалы для подготовки к собеседованию на позицию Data Scientist. Часть 4: Дизайн систем машинного обучения](https://habr.com/ru/companies/megafon/articles/821557/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821557)
+- [Универсальный запуск](https://habr.com/ru/articles/824584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824584)
+- [Почему умение дебажить один из самых важных навыков для разработчика](https://habr.com/ru/companies/alfa/articles/819481/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819481)
+- [Как мы победили техдолг в RuStore](https://habr.com/ru/companies/vk/articles/824346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824346)
+- [Настраиваем TLS контекст. КриптоПро в помощь](https://habr.com/ru/companies/alfastrah/articles/823974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
