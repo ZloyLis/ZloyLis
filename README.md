@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задача распознавания эмоций. Часть 1. Введение](https://habr.com/ru/articles/824744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824744)
 - [Встречайте новые функции продукта «ПроAPI Структура» от команды «Вебмониторэкс»](https://habr.com/ru/companies/webmonitorx/articles/824740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824740)
 - [Хочу в IT! Как найти работу мечты и не провалить собеседование, даже если опыта нет совсем](https://habr.com/ru/companies/ru_mts/articles/824722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824722)
 - [Авторизация и регистрация в интернет-магазине и закон: как реализовать и не получить штраф](https://habr.com/ru/articles/824718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824718)
 - [Тренируем клиентских менеджеров с помощью ИИ](https://habr.com/ru/companies/sberbank/articles/824696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824696)
-- [SVG-виджеты для tcl/tk. Градиентная заливка и прозрачность. Часть II](https://habr.com/ru/articles/824702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
