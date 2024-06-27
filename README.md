@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как организовать и оптимизировать дизайн-ревью](https://habr.com/ru/companies/tochka/articles/824892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824892)
+- [История мобильных видеоигр](https://habr.com/ru/articles/824728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824728)
+- [Разделяй и запускай: делим тестовый стенд между департаментами](https://habr.com/ru/articles/823832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823832)
 - [[Перевод] Что находится внутри образов distroless-контейнеров](https://habr.com/ru/companies/flant/articles/822427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822427)
 - [Как создать Python-приложение, которое предупредит о приближении астероида](https://habr.com/ru/companies/exolve/articles/824772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824772)
-- [Middle-starter-pack по spring data](https://habr.com/ru/articles/824936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824936)
-- [Классификация комбинаторных объектов на примере латинских квадратов](https://habr.com/ru/articles/824886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824886)
-- [Многопоточность JavaScript с SharedArrayBuffer и Atomics: основы](https://habr.com/ru/companies/otus/articles/821805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821805)
 <!-- BLOG-POST-LIST:END -->
 
 ---
