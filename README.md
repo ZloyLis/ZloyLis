@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Авторизация через Yandex, ВК, Telegram с помощью Laravel Socialite](https://habr.com/ru/articles/825134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825134)
+- [Как устроены видеоконференции](https://habr.com/ru/companies/tbank/articles/825132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825132)
+- [Полный гайд по UI-китам: как их создавать, подключать и ничего не бояться](https://habr.com/ru/companies/agima/articles/825080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825080)
+- [Опасность устарела: несколько важных нюансов в новых стандартах C++](https://habr.com/ru/companies/kaspersky/articles/822373/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822373)
 - [Как выстроить работу с кросс-продуктовыми фичами, чтобы не было мучительно больно: опыт команды VK WorkSpace](https://habr.com/ru/companies/vk/articles/822907/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822907)
-- [База по базам данных. Для всех интересующихся](https://habr.com/ru/articles/825104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825104)
-- [Spring Boot Starter: практически, принципиально и подробно. Part 2](https://habr.com/ru/companies/ru_mts/articles/825014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825014)
-- [Бот авторизаций в Telegram для корпоративных чатов](https://habr.com/ru/companies/tele2/articles/825096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825096)
-- [Фабричный метод в React: эффективное создание компонентов. Часть 1](https://habr.com/ru/articles/825074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
