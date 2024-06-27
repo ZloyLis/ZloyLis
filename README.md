@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как организовать и оптимизировать дизайн-ревью](https://habr.com/ru/companies/tochka/articles/824892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824892)
+- [Уникальный планшет со съёмным процессором в DDR2-слоте: что за устройство ценой в 100$ сделали китайцы в 2010?](https://habr.com/ru/companies/timeweb/articles/824240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824240)
+- [Как математики приближают создание квантовых компьютеров](https://habr.com/ru/companies/kryptonite/articles/824844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824844)
 - [История мобильных видеоигр](https://habr.com/ru/articles/824728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824728)
+- [Как организовать и оптимизировать дизайн-ревью](https://habr.com/ru/companies/tochka/articles/824892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824892)
 - [Разделяй и запускай: делим тестовый стенд между департаментами](https://habr.com/ru/articles/823832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823832)
-- [[Перевод] Что находится внутри образов distroless-контейнеров](https://habr.com/ru/companies/flant/articles/822427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822427)
-- [Как создать Python-приложение, которое предупредит о приближении астероида](https://habr.com/ru/companies/exolve/articles/824772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
