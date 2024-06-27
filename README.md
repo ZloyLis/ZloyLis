@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что находится внутри образов distroless-контейнеров](https://habr.com/ru/companies/flant/articles/822427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822427)
+- [Как создать Python-приложение, которое предупредит о приближении астероида](https://habr.com/ru/companies/exolve/articles/824772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824772)
+- [Middle-starter-pack по spring data](https://habr.com/ru/articles/824936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824936)
 - [Классификация комбинаторных объектов на примере латинских квадратов](https://habr.com/ru/articles/824886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824886)
 - [Многопоточность JavaScript с SharedArrayBuffer и Atomics: основы](https://habr.com/ru/companies/otus/articles/821805/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821805)
-- [Как я участвовал в IOS Widget Challenge и что из этого вышло](https://habr.com/ru/articles/824872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824872)
-- [Загрузка es-модулей в браузерные приложения](https://habr.com/ru/articles/824860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824860)
-- [Как мы пытались в Docs as code и проиграли](https://habr.com/ru/articles/824866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
