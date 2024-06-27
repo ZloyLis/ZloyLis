@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как пирамида тестирования уплывает на сторону разработки](https://habr.com/ru/companies/maxilect/articles/824918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824918)
+- [ИТ Магистратура и разработка. Все очень плохо?](https://habr.com/ru/articles/823398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823398)
+- [Создаем Flutter-приложение для оплаты через СБП без натива](https://habr.com/ru/companies/friflex/articles/824964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824964)
 - [Уникальный планшет со съёмным процессором в DDR2-слоте: что за устройство ценой в 100$ сделали китайцы в 2010?](https://habr.com/ru/companies/timeweb/articles/824240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824240)
 - [Как математики приближают создание квантовых компьютеров](https://habr.com/ru/companies/kryptonite/articles/824844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824844)
-- [История мобильных видеоигр](https://habr.com/ru/articles/824728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824728)
-- [Как организовать и оптимизировать дизайн-ревью](https://habr.com/ru/companies/tochka/articles/824892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824892)
-- [Разделяй и запускай: делим тестовый стенд между департаментами](https://habr.com/ru/articles/823832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
