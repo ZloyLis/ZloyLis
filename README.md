@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [База по базам данных. Для всех интересующихся](https://habr.com/ru/articles/825104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825104)
+- [Spring Boot Starter: практически, принципиально и подробно. Part 2](https://habr.com/ru/companies/ru_mts/articles/825014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825014)
+- [Бот авторизаций в Telegram для корпоративных чатов](https://habr.com/ru/companies/tele2/articles/825096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825096)
 - [Фабричный метод в React: эффективное создание компонентов. Часть 1](https://habr.com/ru/articles/825074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825074)
 - [«Вкалывают роботы, счастлив человек»: сборкой iPhone на фабриках Foxconn теперь займется ИИ](https://habr.com/ru/companies/selectel/articles/824912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824912)
-- [[Перевод] Разработка ПО действительно так сложна? Или это мы делаем ее такой?](https://habr.com/ru/companies/spring_aio/articles/824838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824838)
-- [Как мы предложили сделать сайт МТС Live удобным для людей с особыми потребностями](https://habr.com/ru/companies/spbifmo/articles/825038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825038)
-- [[Перевод] Сила кэширования: повышаем производительность API и масштабируемость](https://habr.com/ru/companies/spaceweb/articles/825030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
