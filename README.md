@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фабричный метод в React: эффективное создание компонентов. Часть 1](https://habr.com/ru/articles/825074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825074)
 - [«Вкалывают роботы, счастлив человек»: сборкой iPhone на фабриках Foxconn теперь займется ИИ](https://habr.com/ru/companies/selectel/articles/824912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824912)
 - [[Перевод] Разработка ПО действительно так сложна? Или это мы делаем ее такой?](https://habr.com/ru/companies/spring_aio/articles/824838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824838)
 - [Как мы предложили сделать сайт МТС Live удобным для людей с особыми потребностями](https://habr.com/ru/companies/spbifmo/articles/825038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825038)
 - [[Перевод] Сила кэширования: повышаем производительность API и масштабируемость](https://habr.com/ru/companies/spaceweb/articles/825030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825030)
-- [Как мы повышали производительность очереди сообщений](https://habr.com/ru/companies/oleg-bunin/articles/824826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
