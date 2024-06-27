@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработка ПО действительно так сложна? Или это мы делаем ее такой?](https://habr.com/ru/companies/spring_aio/articles/824838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824838)
+- [Как мы предложили сделать сайт МТС Live удобным для людей с особыми потребностями](https://habr.com/ru/companies/spbifmo/articles/825038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825038)
+- [[Перевод] Сила кэширования: повышаем производительность API и масштабируемость](https://habr.com/ru/companies/spaceweb/articles/825030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825030)
+- [Как мы повышали производительность очереди сообщений](https://habr.com/ru/companies/oleg-bunin/articles/824826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824826)
 - [Как пирамида тестирования уплывает на сторону разработки](https://habr.com/ru/companies/maxilect/articles/824918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824918)
-- [ИТ Магистратура и разработка. Все очень плохо?](https://habr.com/ru/articles/823398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823398)
-- [Создаем Flutter-приложение для оплаты через СБП без натива](https://habr.com/ru/companies/friflex/articles/824964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824964)
-- [Уникальный планшет со съёмным процессором в DDR2-слоте: что за устройство ценой в 100$ сделали китайцы в 2010?](https://habr.com/ru/companies/timeweb/articles/824240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824240)
-- [Как математики приближают создание квантовых компьютеров](https://habr.com/ru/companies/kryptonite/articles/824844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
