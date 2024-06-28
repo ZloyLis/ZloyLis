@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конструирование лучшей команды &lpar;мечты&rpar;. Социальная инженерия. Часть 3](https://habr.com/ru/articles/825064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825064)
+- [Работа с базами данных в Rust с помощью Diesel](https://habr.com/ru/companies/otus/articles/817777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817777)
 - [Ачивки за коммиты в git. Пятничный пост](https://habr.com/ru/articles/814035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814035)
 - [От RFC до RCE, или как неожиданная особенность библиотечного метода стала причиной уязвимости](https://habr.com/ru/articles/825210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825210)
 - [Авторизация через Yandex, ВК, Telegram с помощью Laravel Socialite](https://habr.com/ru/articles/825134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825134)
-- [Как устроены видеоконференции](https://habr.com/ru/companies/tbank/articles/825132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825132)
-- [Полный гайд по UI-китам: как их создавать, подключать и ничего не бояться](https://habr.com/ru/companies/agima/articles/825080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
