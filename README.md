@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современные способы запуска фоновой работы в Android](https://habr.com/ru/articles/773228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773228)
+- [Как я выстрелил себе в ногу, не соблюдая паттерны](https://habr.com/ru/articles/825322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825322)
+- [Как вспомнить чудное мгновение, или возможности стандартных журналов SAP NetWeaver &lpar;Анне К* в стиле ERP&rpar;](https://habr.com/ru/articles/825214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825214)
+- [В чем силиум, брат? Обзор ключевых фишек Cilium и его преимущества на фоне других CNI-проектов](https://habr.com/ru/companies/kts/articles/825136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825136)
 - [Как СберМаркет тестирует простые и сложные продуктовые гипотезы на реальных кейсах](https://habr.com/ru/companies/sbermarket/articles/825034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825034)
-- [[Перевод] Rust и асинхронные функции: не надо менять future](https://habr.com/ru/companies/ncloudtech/articles/825292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825292)
-- [Каски, плюшки и настолки: чем живут промышленные айтишники](https://habr.com/ru/companies/oleg-bunin/articles/825230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825230)
-- [Миграция в облако быстро и без ошибок. Часть 1: миграция виртуальных машин](https://habr.com/ru/companies/vk/articles/822543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822543)
-- [Как упаковать бэкенд-код на Go для аналитики на базе Spark](https://habr.com/ru/companies/avito/articles/824746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
