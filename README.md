@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-программирование: как я решил задачу, не написав ни строчки кода](https://habr.com/ru/articles/825478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825478)
 - [Go gamedev: низкоуровневое API рисования в Ebitengine](https://habr.com/ru/articles/825450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825450)
 - [Как написать хорошее ТЗ?](https://habr.com/ru/articles/825458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825458)
 - [Как расширить JPA для работы с PostgreSQL](https://habr.com/ru/companies/itfb/articles/825406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825406)
 - [Управление зависимостями в Javascript заходит на новый виток? Работа с ES модулями без сборщиков](https://habr.com/ru/articles/825424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825424)
-- [Проектирование спецификации OpenAPI](https://habr.com/ru/companies/ozontech/articles/825008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
