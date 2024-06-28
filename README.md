@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python для начинающих на примере работы с переменными](https://habr.com/ru/articles/825274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825274)
+- [Знакомьтесь, WOPI! Как настроить работу с документами в браузере](https://habr.com/ru/companies/elma/articles/825212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825212)
 - [10 вопросов, которые задают дизайнерам интерфейсов на собеседованиях](https://habr.com/ru/companies/yandex_praktikum/articles/822959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822959)
 - [Плагины для VS Code, которые стоит использовать в 2024 году](https://habr.com/ru/companies/ru_mts/articles/825234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825234)
 - [Конструирование лучшей команды &lpar;мечты&rpar;. Социальная инженерия. Часть 3](https://habr.com/ru/articles/825064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825064)
-- [Работа с базами данных в Rust с помощью Diesel](https://habr.com/ru/companies/otus/articles/817777/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817777)
-- [Ачивки за коммиты в git. Пятничный пост](https://habr.com/ru/articles/814035/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814035)
 <!-- BLOG-POST-LIST:END -->
 
 ---
