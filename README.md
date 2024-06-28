@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как расширить JPA для работы с PostgreSQL](https://habr.com/ru/companies/itfb/articles/825406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825406)
 - [Управление зависимостями в Javascript заходит на новый виток? Работа с ES модулями без сборщиков](https://habr.com/ru/articles/825424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825424)
 - [Проектирование спецификации OpenAPI](https://habr.com/ru/companies/ozontech/articles/825008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825008)
 - [[Перевод] Что нового в документации YDB во втором квартале 2024 года](https://habr.com/ru/companies/ydb/articles/825416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825416)
 - [Переезд на Spring Boot 3.0 c версии 2.0: какие сложности могут возникнуть](https://habr.com/ru/companies/sberbank/articles/825368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825368)
-- [[Перевод] Что я думаю о Lua после релиза проекта на 60,000 строчек кода?](https://habr.com/ru/articles/823370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
