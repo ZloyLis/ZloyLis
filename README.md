@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python для начинающих на примере работы с переменными](https://habr.com/ru/articles/825274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825274)
-- [Знакомьтесь, WOPI! Как настроить работу с документами в браузере](https://habr.com/ru/companies/elma/articles/825212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825212)
-- [10 вопросов, которые задают дизайнерам интерфейсов на собеседованиях](https://habr.com/ru/companies/yandex_praktikum/articles/822959/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822959)
-- [Плагины для VS Code, которые стоит использовать в 2024 году](https://habr.com/ru/companies/ru_mts/articles/825234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825234)
-- [Конструирование лучшей команды &lpar;мечты&rpar;. Социальная инженерия. Часть 3](https://habr.com/ru/articles/825064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825064)
+- [Как СберМаркет тестирует простые и сложные продуктовые гипотезы на реальных кейсах](https://habr.com/ru/companies/sbermarket/articles/825034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825034)
+- [[Перевод] Rust и асинхронные функции: не надо менять future](https://habr.com/ru/companies/ncloudtech/articles/825292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825292)
+- [Каски, плюшки и настолки: чем живут промышленные айтишники](https://habr.com/ru/companies/oleg-bunin/articles/825230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825230)
+- [Миграция в облако быстро и без ошибок. Часть 1: миграция виртуальных машин](https://habr.com/ru/companies/vk/articles/822543/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822543)
+- [Как упаковать бэкенд-код на Go для аналитики на базе Spark](https://habr.com/ru/companies/avito/articles/824746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
