@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Next.js и революционные изменения в React](https://habr.com/ru/companies/piter/articles/825376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825376)
+- [Volatile, Lock-free, Immutable, Atomic в Java. Как понять и начать использовать](https://habr.com/ru/companies/bercut/articles/822253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822253)
 - [Современные способы запуска фоновой работы в Android](https://habr.com/ru/articles/773228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773228)
 - [Как я выстрелил себе в ногу, не соблюдая паттерны](https://habr.com/ru/articles/825322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825322)
 - [Как вспомнить чудное мгновение, или возможности стандартных журналов SAP NetWeaver &lpar;Анне К* в стиле ERP&rpar;](https://habr.com/ru/articles/825214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825214)
-- [В чем силиум, брат? Обзор ключевых фишек Cilium и его преимущества на фоне других CNI-проектов](https://habr.com/ru/companies/kts/articles/825136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825136)
-- [Как СберМаркет тестирует простые и сложные продуктовые гипотезы на реальных кейсах](https://habr.com/ru/companies/sbermarket/articles/825034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
