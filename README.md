@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Next.js и революционные изменения в React](https://habr.com/ru/companies/piter/articles/825376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825376)
-- [Volatile, Lock-free, Immutable, Atomic в Java. Как понять и начать использовать](https://habr.com/ru/companies/bercut/articles/822253/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822253)
-- [Современные способы запуска фоновой работы в Android](https://habr.com/ru/articles/773228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=773228)
-- [Как я выстрелил себе в ногу, не соблюдая паттерны](https://habr.com/ru/articles/825322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825322)
-- [Как вспомнить чудное мгновение, или возможности стандартных журналов SAP NetWeaver &lpar;Анне К* в стиле ERP&rpar;](https://habr.com/ru/articles/825214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825214)
+- [Переезд на Spring Boot 3.0 c версии 2.0: какие сложности могут возникнуть](https://habr.com/ru/companies/sberbank/articles/825368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825368)
+- [[Перевод] Что я думаю о Lua после релиза проекта на 60,000 строчек кода?](https://habr.com/ru/articles/823370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823370)
+- [Как подменять данные в SSR-сайтах](https://habr.com/ru/companies/surfstudio/articles/825408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825408)
+- [[Перевод] Как нормализовывать телефонные номера](https://habr.com/ru/companies/ruvds/articles/824708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824708)
+- [Мониторим и нагружаем приложения Jmix](https://habr.com/ru/companies/haulmont/articles/825402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
