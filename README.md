@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простые истории про ускорение сборки большой кодобазы](https://habr.com/ru/articles/825548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825548)
 - [Решаем задачу уровня «Невозможно». Сжатие хаотического бинарного кода. Суперпозиционные системы счисления](https://habr.com/ru/articles/825536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825536)
 - [Можно ли научить нейросеть определять иронию?](https://habr.com/ru/companies/spbu/articles/825530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825530)
 - [Что на неделе: жуткий Android-вирус, эротика в «Одноклассниках» и российский аналог YouTube](https://habr.com/ru/companies/agima/articles/825432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825432)
 - [Разработка простого приложения для заметок на HappyX](https://habr.com/ru/articles/825486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825486)
-- [[Перевод] Жизнь – боль: как одновременно поддерживать в Rust синхронный и асинхронный код](https://habr.com/ru/articles/825480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
