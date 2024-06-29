@@ -38,7 +38,7 @@ ___
 - [Что на неделе: жуткий Android-вирус, эротика в «Одноклассниках» и российский аналог YouTube](https://habr.com/ru/companies/agima/articles/825432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825432)
 - [Разработка простого приложения для заметок на HappyX](https://habr.com/ru/articles/825486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825486)
 - [[Перевод] Жизнь – боль: как одновременно поддерживать в Rust синхронный и асинхронный код](https://habr.com/ru/articles/825480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825480)
-- [Подключаем GigaCode к мобильной разработке](https://habr.com/ru/articles/825470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825470)
+- [Подключаем GigaCode к мобильной разработке](https://habr.com/ru/companies/usetech/articles/825470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825470)
 - [AI-программирование: как я решил задачу, не написав ни строчки кода](https://habr.com/ru/articles/825478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825478)
 <!-- BLOG-POST-LIST:END -->
 
