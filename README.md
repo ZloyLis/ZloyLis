@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка простого приложения для заметок на HappyX](https://habr.com/ru/articles/825486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825486)
 - [[Перевод] Жизнь – боль: как одновременно поддерживать в Rust синхронный и асинхронный код](https://habr.com/ru/articles/825480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825480)
 - [Подключаем GigaCode к мобильной разработке](https://habr.com/ru/articles/825470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825470)
 - [AI-программирование: как я решил задачу, не написав ни строчки кода](https://habr.com/ru/articles/825478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825478)
 - [Go gamedev: низкоуровневое API рисования в Ebitengine](https://habr.com/ru/articles/825450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825450)
-- [Как написать хорошее ТЗ?](https://habr.com/ru/articles/825458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
