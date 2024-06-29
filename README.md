@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Saint HighLoad++ 2024. Заметки путешественника](https://habr.com/ru/articles/825566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825566)
 - [Android: form builder на старых добрых View](https://habr.com/ru/articles/825554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825554)
 - [Решаем задачу уровня «Невозможно». Сжатие хаотического бинарного кода. Суперпозиционные системы счисления](https://habr.com/ru/articles/825536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825536)
 - [Можно ли научить нейросеть определять иронию?](https://habr.com/ru/companies/spbu/articles/825530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825530)
 - [Что на неделе: жуткий Android-вирус, эротика в «Одноклассниках» и российский аналог YouTube](https://habr.com/ru/companies/agima/articles/825432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825432)
-- [Разработка простого приложения для заметок на HappyX](https://habr.com/ru/articles/825486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
