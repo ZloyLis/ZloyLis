@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я участвовал в хакатоне TON Telegram и что из этого вышло](https://habr.com/ru/articles/825648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825648)
+- [Как я участвовал в хакатоне TON](https://habr.com/ru/articles/825648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825648)
 - [Как я написал загрузчик YouTube видео на Ktor + HTMX. Убийца React?](https://habr.com/ru/articles/825646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825646)
 - [Игра в танграм и её алгоритмический потенциал](https://habr.com/ru/articles/825626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825626)
 - [[Перевод] Как в Google выполняют ревью кода](https://habr.com/ru/articles/820861/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820861)
