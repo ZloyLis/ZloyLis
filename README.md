@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стоит ли бояться serializable-транзакций больше, чем труднонаходимых багов?](https://habr.com/ru/companies/ydb/articles/825768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825768)
+- [Zoneless Angular 18](https://habr.com/ru/articles/825764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825764)
+- [[Перевод] Pinterest: разработка всеобъемлющей JSON-системы логирования для клиентских приложений](https://habr.com/ru/companies/wunderfund/articles/824850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824850)
 - [Кратко про основные техники кеширования в браузере](https://habr.com/ru/companies/otus/articles/825060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825060)
 - [Предварительные секции: что спрашивают у разработчиков С++ на собеседовании в Яндексе](https://habr.com/ru/companies/yandex_praktikum/articles/823340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823340)
-- [Как мы использовали нейросети для генерации тестовых данных](https://habr.com/ru/companies/icl_group/articles/825726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825726)
-- [Глубокое погружение в CancellationToken: эффективное управление отменой в .NET](https://habr.com/ru/companies/simbirsoft/articles/825386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825386)
-- [[Перевод] Запуск встроенного LDAP на базе OpenDJ в Spring Boot приложении](https://habr.com/ru/articles/824630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
