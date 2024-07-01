@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2427: атака на цепочку поставок через библиотеку Polyfill](https://habr.com/ru/companies/kaspersky/articles/825774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825774)
 - [Как я положил продакшен базу на выходных](https://habr.com/ru/articles/825944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825944)
 - [Scala Digest. Выпуск 18](https://habr.com/ru/companies/tbank/articles/825906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825906)
 - [[Перевод] Разработка интерфейса для Windows — это боль](https://habr.com/ru/articles/825916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825916)
 - [Aqueduct: Как мы экономим железо для МЛ-вычислений](https://habr.com/ru/articles/825908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825908)
-- [[Перевод] Программист никому не должен доверять, и даже самому себе](https://habr.com/ru/companies/ruvds/articles/825854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
