@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разработка интерфейса для Windows — это боль](https://habr.com/ru/articles/825916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825916)
 - [[Перевод] Программист никому не должен доверять, и даже самому себе](https://habr.com/ru/companies/ruvds/articles/825854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825854)
 - [Три недели кодирования экономят два дня проектирования](https://habr.com/ru/articles/825880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825880)
 - [Вы должны перейти на Podman сейчас же. Но это не точно…](https://habr.com/ru/companies/cdnnow/articles/825828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825828)
 - [Хранилища данных. Обзор технологий и подходов к проектированию](https://habr.com/ru/articles/822669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822669)
-- [[Перевод] Визуализация данных: четыре простых способа быстро улучшить диаграмму](https://habr.com/ru/companies/vk/articles/824260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
