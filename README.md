@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать приложение на NestJS, которое можно будет поддерживать спустя годы](https://habr.com/ru/articles/825848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825848)
+- [Работа над ошибками: как мы сделали приложение World Class удобнее](https://habr.com/ru/companies/redmadrobot/articles/825838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825838)
 - [Unit-тесты в Android для начинающего разработчика](https://habr.com/ru/companies/sberbank/articles/825820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825820)
 - [Стоит ли бояться serializable-транзакций больше, чем труднонаходимых багов?](https://habr.com/ru/companies/ydb/articles/825768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825768)
 - [Zoneless Angular 18](https://habr.com/ru/articles/825764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825764)
-- [[Перевод] Pinterest: разработка всеобъемлющей JSON-системы логирования для клиентских приложений](https://habr.com/ru/companies/wunderfund/articles/824850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824850)
-- [Кратко про основные техники кеширования в браузере](https://habr.com/ru/companies/otus/articles/825060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
