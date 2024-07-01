@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Предварительные секции: что спрашивают у разработчиков С++ на собеседовании в Яндексе](https://habr.com/ru/companies/yandex_praktikum/articles/823340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823340)
+- [Как мы использовали нейросети для генерации тестовых данных](https://habr.com/ru/companies/icl_group/articles/825726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825726)
+- [Глубокое погружение в CancellationToken: эффективное управление отменой в .NET](https://habr.com/ru/companies/simbirsoft/articles/825386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825386)
 - [[Перевод] Запуск встроенного LDAP на базе OpenDJ в Spring Boot приложении](https://habr.com/ru/articles/824630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824630)
 - [Мобильная разработка за неделю #544 &lpar;24 — 30 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/825708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825708)
-- [[Перевод] Мега-Учебник Flask Глава 16: Полнотекстовый поиск &lpar;издание 2024&rpar;](https://habr.com/ru/articles/819969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819969)
-- [.NET: итерируемую в foreach коллекцию изменять нельзя. Или…](https://habr.com/ru/articles/825556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825556)
-- [Поиск ближайших любительских соревнований по бегу, плаванию, велосипедам и другим видам спорта](https://habr.com/ru/articles/825508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
