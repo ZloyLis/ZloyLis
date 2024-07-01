@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET: итерируемую в foreach коллекцию изменять нельзя. Или…](https://habr.com/ru/articles/825556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825556)
 - [Поиск ближайших любительских соревнований по бегу, плаванию, велосипедам и другим видам спорта](https://habr.com/ru/articles/825508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825508)
 - [И снова клон десктопного клиента Telegram](https://habr.com/ru/articles/825704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825704)
 - [Пробы на роль Архитектора: вступление](https://habr.com/ru/articles/825686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825686)
 - [Алиса ПРО — для мобильного разработчика](https://habr.com/ru/articles/825674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825674)
-- [Как я участвовал в хакатоне TON](https://habr.com/ru/articles/825648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
