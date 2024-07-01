@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вы должны перейти на Podman сейчас же. Но это не точно…](https://habr.com/ru/companies/cdnnow/articles/825828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825828)
+- [Хранилища данных. Обзор технологий и подходов к проектированию](https://habr.com/ru/articles/822669/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822669)
+- [[Перевод] Визуализация данных: четыре простых способа быстро улучшить диаграмму](https://habr.com/ru/companies/vk/articles/824260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824260)
+- [Почему технология Macromedia Flash не выжила?](https://habr.com/ru/articles/825802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825802)
 - [Как сделать приложение на NestJS, которое можно будет поддерживать спустя годы](https://habr.com/ru/articles/825848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825848)
-- [Работа над ошибками: как мы сделали приложение World Class удобнее](https://habr.com/ru/companies/redmadrobot/articles/825838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825838)
-- [Unit-тесты в Android для начинающего разработчика](https://habr.com/ru/companies/sberbank/articles/825820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825820)
-- [Стоит ли бояться serializable-транзакций больше, чем труднонаходимых багов?](https://habr.com/ru/companies/ydb/articles/825768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825768)
-- [Zoneless Angular 18](https://habr.com/ru/articles/825764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
