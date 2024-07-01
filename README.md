@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;24.06 – 30.06.24&rpar;](https://habr.com/ru/articles/825982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825982)
 - [Микросервисы в представлении среднего разработчика, и как всё на самом деле](https://habr.com/ru/articles/825532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825532)
 - [Security Week 2427: атака на цепочку поставок через библиотеку Polyfill](https://habr.com/ru/companies/kaspersky/articles/825774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825774)
 - [Как я положил продакшен базу на выходных](https://habr.com/ru/articles/825944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825944)
 - [Scala Digest. Выпуск 18](https://habr.com/ru/companies/tbank/articles/825906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825906)
-- [[Перевод] Разработка интерфейса для Windows — это боль](https://habr.com/ru/articles/825916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
