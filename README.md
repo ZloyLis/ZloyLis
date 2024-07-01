@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Запуск встроенного LDAP на базе OpenDJ в Spring Boot приложении](https://habr.com/ru/articles/824630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824630)
 - [Мобильная разработка за неделю #544 &lpar;24 — 30 июня&rpar;](https://habr.com/ru/companies/productivity_inside/articles/825708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825708)
 - [[Перевод] Мега-Учебник Flask Глава 16: Полнотекстовый поиск &lpar;издание 2024&rpar;](https://habr.com/ru/articles/819969/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819969)
 - [.NET: итерируемую в foreach коллекцию изменять нельзя. Или…](https://habr.com/ru/articles/825556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825556)
 - [Поиск ближайших любительских соревнований по бегу, плаванию, велосипедам и другим видам спорта](https://habr.com/ru/articles/825508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825508)
-- [И снова клон десктопного клиента Telegram](https://habr.com/ru/articles/825704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
