@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему String Templates не будет в Java 23?](https://habr.com/ru/companies/spring_aio/articles/825876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825876)
 - [HTTP &amp;lt;AntexGate&amp;gt; Modbus конвертор Linux](https://habr.com/ru/articles/825946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825946)
 - [Открытое письмо в редакцию Хабр: хайп, SEO и пара метрик](https://habr.com/ru/companies/lanit/articles/824070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824070)
 - [Design thinking в IT-проектах](https://habr.com/ru/articles/825992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825992)
 - [Присматриваемся к Kafka tiered storage — 2](https://habr.com/ru/companies/vtb/articles/823238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823238)
-- [Паттерны проектирования в Unity: от Singleton до Object Pool](https://habr.com/ru/articles/826014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
