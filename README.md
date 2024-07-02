@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Присматриваемся к Kafka tiered storage — 2](https://habr.com/ru/companies/vtb/articles/823238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823238)
 - [Паттерны проектирования в Unity: от Singleton до Object Pool](https://habr.com/ru/articles/826014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826014)
 - [Как я создал сайт на базе GitHub Pages: история новичка и ChatGPT](https://habr.com/ru/articles/826012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826012)
 - [Кратко про классную библиотеку для создания веб-приложений в Python — Tornado](https://habr.com/ru/companies/otus/articles/825696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825696)
 - [Apple Pro Weekly News &lpar;24.06 – 30.06.24&rpar;](https://habr.com/ru/articles/825982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825982)
-- [Микросервисы в представлении среднего разработчика, и как всё на самом деле](https://habr.com/ru/articles/825532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
