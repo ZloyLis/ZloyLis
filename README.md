@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерны проектирования в Unity: от Singleton до Object Pool](https://habr.com/ru/articles/826014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826014)
+- [Как я создал сайт на базе GitHub Pages: история новичка и ChatGPT](https://habr.com/ru/articles/826012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826012)
 - [Кратко про классную библиотеку для создания веб-приложений в Python — Tornado](https://habr.com/ru/companies/otus/articles/825696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825696)
 - [Apple Pro Weekly News &lpar;24.06 – 30.06.24&rpar;](https://habr.com/ru/articles/825982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825982)
 - [Микросервисы в представлении среднего разработчика, и как всё на самом деле](https://habr.com/ru/articles/825532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825532)
-- [Security Week 2427: атака на цепочку поставок через библиотеку Polyfill](https://habr.com/ru/companies/kaspersky/articles/825774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825774)
-- [Как я положил продакшен базу на выходных](https://habr.com/ru/articles/825944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
