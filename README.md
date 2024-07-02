@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Притворяюсь Джуном, чтобы показать новичкам как устраиваться на первую работу](https://habr.com/ru/articles/826166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826166)
+- [ЛЮСТРА: Методика разработки бизнес-требований в проекте по автоматизации бизнес-процессов](https://habr.com/ru/articles/826150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826150)
+- [Защита персональных данных в мобильных приложениях: как не нарушить закон](https://habr.com/ru/companies/swordfish_security/articles/826132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826132)
 - [Безопасность в Django: защита от распространенных угроз веб-приложений](https://habr.com/ru/companies/vk/articles/823740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823740)
 - [[Перевод] «Создание эффективных отчетов об ошибках»: краткое руководство](https://habr.com/ru/articles/825852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825852)
-- [Смена профессии в 33: стать разработчиком за 2 года](https://habr.com/ru/articles/825998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825998)
-- [Zig — что это за язык программирования и для чего он создан?](https://habr.com/ru/companies/ru_mts/articles/826094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826094)
-- [[Перевод] ИИ нуждается в огромной вычислительной мощности. Могут ли помочь световые чипы?](https://habr.com/ru/companies/first/articles/826022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
