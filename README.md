@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность в Django: защита от распространенных угроз веб-приложений](https://habr.com/ru/companies/vk/articles/823740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823740)
+- [[Перевод] «Создание эффективных отчетов об ошибках»: краткое руководство](https://habr.com/ru/articles/825852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825852)
+- [Смена профессии в 33: стать разработчиком за 2 года](https://habr.com/ru/articles/825998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825998)
 - [Zig — что это за язык программирования и для чего он создан?](https://habr.com/ru/companies/ru_mts/articles/826094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826094)
 - [[Перевод] ИИ нуждается в огромной вычислительной мощности. Могут ли помочь световые чипы?](https://habr.com/ru/companies/first/articles/826022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826022)
-- [[Перевод] Почему String Templates не будет в Java 23?](https://habr.com/ru/companies/spring_aio/articles/825876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825876)
-- [HTTP &amp;lt;AntexGate&amp;gt; Modbus конвертор Linux](https://habr.com/ru/articles/825946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825946)
-- [Открытое письмо в редакцию Хабр: хайп, SEO и пара метрик](https://habr.com/ru/companies/lanit/articles/824070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
