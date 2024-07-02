@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LLMops: что есть, кроме ChatGPT и как это развернуть](https://habr.com/ru/companies/oleg-bunin/articles/821389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821389)
 - [Как UX-исследование уберегло одну маленькую фичу от факапа](https://habr.com/ru/companies/yandex_praktikum/articles/826172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826172)
 - [Создание собственного API на Python &lpar;FastAPI&rpar;: Знакомство и первые функции](https://habr.com/ru/articles/826196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826196)
 - [Притворяюсь Джуном, чтобы показать новичкам как устраиваться на первую работу](https://habr.com/ru/articles/826166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826166)
 - [ЛЮСТРА: Методика разработки бизнес-требований в проекте по автоматизации бизнес-процессов](https://habr.com/ru/articles/826150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826150)
-- [Защита персональных данных в мобильных приложениях: как не нарушить закон](https://habr.com/ru/companies/swordfish_security/articles/826132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
