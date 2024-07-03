@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А что если исходные коды программ хранить в бинарном формате?](https://habr.com/ru/companies/karuna/articles/823710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823710)
 - [Миграция в облако быстро и без ошибок. Часть 2: миграция баз данных и объектных хранилищ S3](https://habr.com/ru/companies/vk/articles/825782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825782)
 - [Как справиться с нехваткой открытых данных для обучения и тестирования ML-моделей](https://habr.com/ru/companies/selectel/articles/826266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826266)
 - [Как нейросеть помогла познакомиться с пернатыми соседями по даче](https://habr.com/ru/articles/826350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826350)
 - [Widget тесты с помощью ApprovalTests | Flutter / Dart](https://habr.com/ru/articles/826344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826344)
-- [Декодирование Витерби с TensorFlow](https://habr.com/ru/companies/otus/articles/824162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
