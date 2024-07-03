@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аутсорсинг программирования в страну под названием ИИ](https://habr.com/ru/articles/826494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826494)
 - [[Перевод] SCARA-Laser. Часть 2. Переизобретаем велосипед](https://habr.com/ru/articles/826470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826470)
 - [Разработка Telegram Web App с помощью HappyX и telebot](https://habr.com/ru/articles/826466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826466)
 - [Макросы — напишут код за вас, но есть нюанс…](https://habr.com/ru/companies/kts/articles/826418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826418)
 - [А что если исходные коды программ хранить в бинарном формате?](https://habr.com/ru/companies/karuna/articles/823710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823710)
-- [Миграция в облако быстро и без ошибок. Часть 2: миграция баз данных и объектных хранилищ S3](https://habr.com/ru/companies/vk/articles/825782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
