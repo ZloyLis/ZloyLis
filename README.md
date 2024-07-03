@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] SCARA-Laser. Часть 2. Переизобретаем велосипед](https://habr.com/ru/articles/826470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826470)
+- [Разработка Telegram Web App с помощью HappyX и telebot](https://habr.com/ru/articles/826466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826466)
+- [Макросы — напишут код за вас, но есть нюанс…](https://habr.com/ru/companies/kts/articles/826418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826418)
 - [А что если исходные коды программ хранить в бинарном формате?](https://habr.com/ru/companies/karuna/articles/823710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823710)
 - [Миграция в облако быстро и без ошибок. Часть 2: миграция баз данных и объектных хранилищ S3](https://habr.com/ru/companies/vk/articles/825782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825782)
-- [Как справиться с нехваткой открытых данных для обучения и тестирования ML-моделей](https://habr.com/ru/companies/selectel/articles/826266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826266)
-- [Как нейросеть помогла познакомиться с пернатыми соседями по даче](https://habr.com/ru/articles/826350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826350)
-- [Widget тесты с помощью ApprovalTests | Flutter / Dart](https://habr.com/ru/articles/826344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
