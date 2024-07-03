@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Учимся летать: симуляция эволюции на Rust. 5/5](https://habr.com/ru/companies/timeweb/articles/825262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825262)
+- [Как настроить уведомления в Django с помощью сигналов: пошаговое руководство](https://habr.com/ru/companies/kokocgroup/articles/826238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826238)
+- [О плюсах и минусах профессии нагрузочного тестировщика](https://habr.com/ru/companies/ssp-soft/articles/826302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826302)
 - [Небольшая доработка QMap в Qt](https://habr.com/ru/articles/826248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826248)
 - [20 минутная рутина для Fluent за 6 месяцев](https://habr.com/ru/articles/826236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826236)
-- [Пошаговый план как я за год закрыл все цели, что откладывал с 2018 года без внешних пинков и знаков от вселенной](https://habr.com/ru/articles/826234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826234)
-- [LLMops: что есть, кроме ChatGPT и как это развернуть](https://habr.com/ru/companies/oleg-bunin/articles/821389/?utm_source=habrahabr&utm_medium=rss&utm_campaign=821389)
-- [Как UX-исследование уберегло одну маленькую фичу от факапа](https://habr.com/ru/companies/yandex_praktikum/articles/826172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
