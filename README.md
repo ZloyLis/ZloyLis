@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Firebase VS self-hosted](https://habr.com/ru/articles/826508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826508)
 - [Всё что нужно знать про области видимости в Python](https://habr.com/ru/companies/otus/articles/824554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824554)
 - [Аутсорсинг программирования в страну под названием ИИ](https://habr.com/ru/articles/826494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826494)
 - [[Перевод] SCARA-Laser. Часть 2. Переизобретаем велосипед](https://habr.com/ru/articles/826470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826470)
 - [Разработка Telegram Web App с помощью HappyX и telebot](https://habr.com/ru/articles/826466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826466)
-- [Макросы — напишут код за вас, но есть нюанс…](https://habr.com/ru/companies/kts/articles/826418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
