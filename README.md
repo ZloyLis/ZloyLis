@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Учимся летать: симуляция эволюции на Rust. 5/5](https://habr.com/ru/companies/timeweb/articles/825262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825262)
-- [Как настроить уведомления в Django с помощью сигналов: пошаговое руководство](https://habr.com/ru/companies/kokocgroup/articles/826238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826238)
-- [О плюсах и минусах профессии нагрузочного тестировщика](https://habr.com/ru/companies/ssp-soft/articles/826302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826302)
-- [Небольшая доработка QMap в Qt](https://habr.com/ru/articles/826248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826248)
-- [20 минутная рутина для Fluent за 6 месяцев](https://habr.com/ru/articles/826236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826236)
+- [Huawei Pura 70: нативные сервисы Google и все недостающие приложения на борту](https://habr.com/ru/specials/826250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826250)
+- [Сумма степеней натурального ряда. Часть 1](https://habr.com/ru/articles/823662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823662)
+- [Android-разработчики в 2024 году: какие нужны скилы и как проходит процесс найма](https://habr.com/ru/companies/yandex_praktikum/articles/824672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824672)
+- [Kotlin Coroutines. Часть 2](https://habr.com/ru/companies/reksoft/articles/826326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826326)
+- [Виртуальный анализатор](https://habr.com/ru/articles/826324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
