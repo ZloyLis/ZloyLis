@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как нейросеть помогла познакомитсья с пернатыми соседями по даче](https://habr.com/ru/articles/826350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826350)
+- [Widget тесты с помощью ApprovalTests | Flutter / Dart](https://habr.com/ru/articles/826344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826344)
+- [Декодирование Витерби с TensorFlow](https://habr.com/ru/companies/otus/articles/824162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824162)
+- [5 обучающих игр для разработчиков](https://habr.com/ru/companies/ru_mts/articles/826330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826330)
 - [Huawei Pura 70: нативные сервисы Google и все недостающие приложения на борту](https://habr.com/ru/specials/826250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826250)
-- [Сумма степеней натурального ряда. Часть 1](https://habr.com/ru/articles/823662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823662)
-- [Android-разработчики в 2024 году: какие нужны скилы и как проходит процесс найма](https://habr.com/ru/companies/yandex_praktikum/articles/824672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824672)
-- [Kotlin Coroutines. Часть 2](https://habr.com/ru/companies/reksoft/articles/826326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826326)
-- [Виртуальный анализатор](https://habr.com/ru/articles/826324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
