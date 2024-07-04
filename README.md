@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблемы дизайн-ревью](https://habr.com/ru/articles/826806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826806)
 - [Расширенное пространство &lpar;часть II&rpar;](https://habr.com/ru/articles/826790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826790)
 - [Синусоида и начальные условия факторизации едины](https://habr.com/ru/companies/ruvds/articles/823029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823029)
 - [Работа с событиями на стероидах](https://habr.com/ru/companies/tbank/articles/826724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826724)
 - [Как стать C#-разработчиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/826692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826692)
-- [Новый компилятор K2 в Kotlin. Часть 2. Гайд по миграции](https://habr.com/ru/companies/spring_aio/articles/826660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
