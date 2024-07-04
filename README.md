@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы запустили ДБО за 6 месяцев и продвинули банковское обслуживание на новый уровень](https://habr.com/ru/companies/otpbank/articles/826558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826558)
+- [Как настроить SEO-оптимизацию сайтов самостоятельно? Создаем структуру страницы и работаем с мегатегами](https://habr.com/ru/companies/selectel/articles/826618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826618)
+- [А/Б тестирование: CUPED vs Stratification](https://habr.com/ru/companies/X5Tech/articles/826488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826488)
 - [Получение D-U-N-S номера для мобильных разработчиков](https://habr.com/ru/articles/826602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826602)
 - [Стоит ли игра свеч? Кратко о Single SPA &lpar;часть 1&rpar;](https://habr.com/ru/articles/826590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826590)
-- [Фрагмент множества Мандельброта с анимация](https://habr.com/ru/articles/826072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826072)
-- [Оптимизируем A/B-тесты: единый шаблон и DIY-инструментарий для аналитиков](https://habr.com/ru/companies/sravni/articles/826244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826244)
-- [Vivaldi 6.8 для Android —  Новые опции персонализации и улучшенный блокировщик](https://habr.com/ru/companies/vivaldi/articles/826582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
