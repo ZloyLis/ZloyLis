@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [NER для начинающих: Простое объяснение с примерами на SpaCy](https://habr.com/ru/articles/826820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826820)
 - [Почему похудеть возможно только с помощью программирования?](https://habr.com/ru/articles/826814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826814)
 - [justCTF 2024 [teaser] — blockchain](https://habr.com/ru/articles/826812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826812)
 - [Проблемы дизайн-ревью](https://habr.com/ru/articles/826806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826806)
 - [Расширенное пространство &lpar;часть II&rpar;](https://habr.com/ru/articles/826790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826790)
-- [Синусоида и начальные условия факторизации едины](https://habr.com/ru/companies/ruvds/articles/823029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
