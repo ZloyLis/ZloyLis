@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему похудеть возможно только с помощью программирования?](https://habr.com/ru/articles/826814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826814)
+- [justCTF 2024 [teaser] — blockchain](https://habr.com/ru/articles/826812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826812)
 - [Проблемы дизайн-ревью](https://habr.com/ru/articles/826806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826806)
 - [Расширенное пространство &lpar;часть II&rpar;](https://habr.com/ru/articles/826790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826790)
 - [Синусоида и начальные условия факторизации едины](https://habr.com/ru/companies/ruvds/articles/823029/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823029)
-- [Работа с событиями на стероидах](https://habr.com/ru/companies/tbank/articles/826724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826724)
-- [Как стать C#-разработчиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/826692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
