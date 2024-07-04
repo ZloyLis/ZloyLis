@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый компилятор K2 в Kotlin. Часть 2. Гайд по миграции](https://habr.com/ru/companies/spring_aio/articles/826660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826660)
+- [Немного кода и вы опционный трейдер: API Опционного Калькулятора](https://habr.com/ru/companies/moex/articles/826696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826696)
 - [Принципы SOLID на примере iOS-разработки](https://habr.com/ru/companies/surfstudio/articles/826686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826686)
 - [Адаптируем VoiceOver для людей](https://habr.com/ru/companies/2gis/articles/826360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826360)
 - [Где учиться IT: 70% опрошенных проходили онлайн-курсы](https://habr.com/ru/companies/habr_career/articles/826670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826670)
-- [Как развивать направление исследований и по каким критериям оценивать их успешность: кейс МойОфис](https://habr.com/ru/companies/ncloudtech/articles/826408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826408)
-- [Как оценить эффективность IT-команд и с умом задебажить процессы](https://habr.com/ru/companies/kuper/articles/826450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
