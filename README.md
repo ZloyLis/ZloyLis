@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как развивать направление исследований и по каким критериям оценивать их успешность: кейс МойОфис](https://habr.com/ru/companies/ncloudtech/articles/826408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826408)
+- [Как оценить эффективность IT-команд и с умом задебажить процессы](https://habr.com/ru/companies/kuper/articles/826450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826450)
+- [7 простых вопросов о процессе Discovery: основные фреймворки, методики и правила исследований](https://habr.com/ru/companies/agima/articles/826646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826646)
+- [Создание статических сайтов из Markdown без HTML &lpar;pandoc, mkdocs, hugo и jekyll&rpar;](https://habr.com/ru/articles/826474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826474)
 - [Как мы запустили ДБО за 6 месяцев и продвинули банковское обслуживание на новый уровень](https://habr.com/ru/companies/otpbank/articles/826558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826558)
-- [Как настроить SEO-оптимизацию сайтов самостоятельно? Создаем структуру страницы и работаем с мегатегами](https://habr.com/ru/companies/selectel/articles/826618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826618)
-- [А/Б тестирование: CUPED vs Stratification](https://habr.com/ru/companies/X5Tech/articles/826488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826488)
-- [Получение D-U-N-S номера для мобильных разработчиков](https://habr.com/ru/articles/826602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826602)
-- [Стоит ли игра свеч? Кратко о Single SPA &lpar;часть 1&rpar;](https://habr.com/ru/articles/826590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
