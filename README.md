@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Colab вместо Jupyter Notebook: плюсы и особенности работы для новичков](https://habr.com/ru/companies/yandex_praktikum/articles/825754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825754)
+- [Редизайн Figma: жутко неудобно и жутко интересно…](https://habr.com/ru/articles/826550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826550)
 - [История о том, как Graphviz и бор взломали шифр от Sony](https://habr.com/ru/articles/826452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826452)
 - [Пробы на роль Архитектора: наступление](https://habr.com/ru/articles/826286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826286)
 - [[Перевод] Изучение случайности в JavaScript](https://habr.com/ru/articles/825986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825986)
-- [Firebase VS self-hosted](https://habr.com/ru/articles/826508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826508)
-- [Всё что нужно знать про области видимости в Python](https://habr.com/ru/companies/otus/articles/824554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
