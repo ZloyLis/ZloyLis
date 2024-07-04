@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Краткий дайджест обновлений Deckhouse Kubernetes Platform 1.48-1.60](https://habr.com/ru/companies/flant/articles/826228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826228)
+- [Playwright и Allure как хорошая практика для разработки веб-приложения](https://habr.com/ru/companies/clevertec/articles/822583/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822583)
 - [Google Colab вместо Jupyter Notebook: плюсы и особенности работы для новичков](https://habr.com/ru/companies/yandex_praktikum/articles/825754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825754)
 - [Редизайн Figma: жутко неудобно и жутко интересно…](https://habr.com/ru/articles/826550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826550)
 - [История о том, как Graphviz и бор взломали шифр от Sony](https://habr.com/ru/articles/826452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826452)
-- [Пробы на роль Архитектора: наступление](https://habr.com/ru/articles/826286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826286)
-- [[Перевод] Изучение случайности в JavaScript](https://habr.com/ru/articles/825986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
