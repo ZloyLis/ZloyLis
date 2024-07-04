@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Принципы SOLID на примере iOS-разработки](https://habr.com/ru/companies/surfstudio/articles/826686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826686)
+- [Адаптируем VoiceOver для людей](https://habr.com/ru/companies/2gis/articles/826360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826360)
+- [Где учиться IT: 70% опрошенных проходили онлайн-курсы](https://habr.com/ru/companies/habr_career/articles/826670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826670)
 - [Как развивать направление исследований и по каким критериям оценивать их успешность: кейс МойОфис](https://habr.com/ru/companies/ncloudtech/articles/826408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826408)
 - [Как оценить эффективность IT-команд и с умом задебажить процессы](https://habr.com/ru/companies/kuper/articles/826450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826450)
-- [7 простых вопросов о процессе Discovery: основные фреймворки, методики и правила исследований](https://habr.com/ru/companies/agima/articles/826646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826646)
-- [Создание статических сайтов из Markdown без HTML &lpar;pandoc, mkdocs, hugo и jekyll&rpar;](https://habr.com/ru/articles/826474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826474)
-- [Как мы запустили ДБО за 6 месяцев и продвинули банковское обслуживание на новый уровень](https://habr.com/ru/companies/otpbank/articles/826558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
