@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Краткий дайджест обновлений Deckhouse Kubernetes Platform 1.48-1.60](https://habr.com/ru/companies/flant/articles/826228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826228)
-- [Playwright и Allure как хорошая практика для разработки веб-приложения](https://habr.com/ru/companies/clevertec/articles/822583/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822583)
-- [Google Colab вместо Jupyter Notebook: плюсы и особенности работы для новичков](https://habr.com/ru/companies/yandex_praktikum/articles/825754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825754)
-- [Редизайн Figma: жутко неудобно и жутко интересно…](https://habr.com/ru/articles/826550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826550)
-- [История о том, как Graphviz и бор взломали шифр от Sony](https://habr.com/ru/articles/826452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826452)
+- [Получение D-U-N-S номера для мобильных разработчиков](https://habr.com/ru/articles/826602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826602)
+- [Стоит ли игра свеч? Кратко о Single SPA &lpar;часть 1&rpar;](https://habr.com/ru/articles/826590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826590)
+- [Фрагмент множества Мандельброта с анимация](https://habr.com/ru/articles/826072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826072)
+- [Оптимизируем A/B-тесты: единый шаблон и DIY-инструментарий для аналитиков](https://habr.com/ru/companies/sravni/articles/826244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826244)
+- [Vivaldi 6.8 для Android —  Новые опции персонализации и улучшенный блокировщик](https://habr.com/ru/companies/vivaldi/articles/826582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
