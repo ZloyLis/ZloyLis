@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы в RuStore на docs as code переходили](https://habr.com/ru/companies/vk/articles/826904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826904)
+- [.NET Digest #1](https://habr.com/ru/companies/pvs-studio/articles/826908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826908)
 - [Мой опыт: ITMO MSE или как я вкатился в айтишечку](https://habr.com/ru/articles/826894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826894)
 - [Чем живёт айтишник в атомной отрасли](https://habr.com/ru/companies/oleg-bunin/articles/826672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826672)
 - [Road to Flutter – анализ опыта миграции с React Native](https://habr.com/ru/companies/betboom/articles/826428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826428)
-- [Докер контейнеры и прикладная некромантия](https://habr.com/ru/articles/826834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826834)
-- [Как в Яндекс Еде помогли курьерам, или Рассказ о маленьком стартапе в большой корпорации. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/826648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
