@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как в Яндекс Еде помогли курьерам, или Рассказ о маленьком стартапе в большой корпорации. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/826648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826648)
+- [Портфолио дизайнера, когда нет клиентов: с чего начать и обосновать свои решения](https://habr.com/ru/companies/yandex_praktikum/articles/822417/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822417)
 - [Интеграция с маркетплейсами на примере Ozon и Wildberries. Как мы это сделали](https://habr.com/ru/companies/moysklad/articles/826524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826524)
 - [Больше языков программирования, хороших и разных. Теперь и от Huawei](https://habr.com/ru/companies/ru_mts/articles/826782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826782)
 - [Telegram бот для управления торрент клиентом и интеграция с трекером](https://habr.com/ru/articles/826774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826774)
-- [Расширенные возможности SOAP и когда он нужен?](https://habr.com/ru/articles/826838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826838)
-- [NER для начинающих: Простое объяснение с примерами на SpaCy](https://habr.com/ru/articles/826820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
