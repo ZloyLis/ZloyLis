@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание 3D модели местности по видео с дрона](https://habr.com/ru/articles/827028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827028)
 - [Деньги из космоса. Как приложения зарабатывают $1 МЛН в месяц на гороскопах](https://habr.com/ru/articles/826808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826808)
 - [Уже пора программировать с помощью LLM или пока рановато?](https://habr.com/ru/articles/826948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826948)
 - [Запросы двойной надежности](https://habr.com/ru/companies/exante/articles/826974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826974)
 - [Введение в Docker и Kubernetes: основы контейнерных технологий](https://habr.com/ru/companies/sibur_official/articles/826964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826964)
-- [Markdown в IntelliJ IDEA как отдельный вид искусства. Рисуем диаграммы и вызываем bash команды](https://habr.com/ru/companies/spring_aio/articles/826930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
