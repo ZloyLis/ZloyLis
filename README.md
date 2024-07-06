@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лазеры, сервопривод, WiFi MESH-сети и сноуборд. Часть 2](https://habr.com/ru/articles/812667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812667)
 - [Делаем вентилятор умным или как улучшить микроклимат в ванной комнате с помощью домашней автоматизации](https://habr.com/ru/companies/timeweb/articles/823752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823752)
 - [[Перевод] Четыре принципа разработки ПО, которым я научился на горьком опыте](https://habr.com/ru/companies/productivity_inside/articles/827062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827062)
 - [Создание 3D модели местности по видео с дрона](https://habr.com/ru/articles/827028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827028)
 - [Деньги из космоса. Как приложения зарабатывают $1 МЛН в месяц на гороскопах](https://habr.com/ru/articles/826808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826808)
-- [Уже пора программировать с помощью LLM или пока рановато?](https://habr.com/ru/articles/826948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
