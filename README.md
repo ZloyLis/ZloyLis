@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логистика. Часть 7. Максимизация прибыли: как подход через теорему Байеса поможет авиакомпаниям разбогатеть](https://habr.com/ru/articles/827102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827102)
+- [Как правильно применять ScriptableObject в Unity](https://habr.com/ru/articles/826478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826478)
 - [Метод наименьших квадратов](https://habr.com/ru/articles/827018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827018)
 - [Что на неделе: крупное обновление HyperOS, вторая жизнь «Сапера» и 100%-ный кэшбек от Яндекса](https://habr.com/ru/companies/agima/articles/827112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827112)
 - [Как преодолеть сложности прохождения ревью Google Play в условиях санкций](https://habr.com/ru/articles/827088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827088)
-- [Лазеры, сервопривод, WiFi MESH-сети и сноуборд. Часть 2](https://habr.com/ru/articles/812667/?utm_source=habrahabr&utm_medium=rss&utm_campaign=812667)
-- [Делаем вентилятор умным или как улучшить микроклимат в ванной комнате с помощью домашней автоматизации](https://habr.com/ru/companies/timeweb/articles/823752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
