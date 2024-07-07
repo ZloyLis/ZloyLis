@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я перестал волноваться и полюбил ошибки в корутинах: поймай меня если сможешь](https://habr.com/ru/articles/827188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827188)
+- [«Железо» для Android Studio &lpar;gradle-сборка&rpar; в 2024 году](https://habr.com/ru/articles/823840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823840)
 - [Размышления о мониторинге производительности отдельного SQL запроса](https://habr.com/ru/articles/827156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827156)
 - [[Перевод] Компиляторные оптимизации сложны, так как компиляторы забывчивы](https://habr.com/ru/companies/timeweb/articles/826998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826998)
 - [Создание собственного API на Python &lpar;FastAPI&rpar;: Гайд по POST, PUT, DELETE запросам и моделям Pydantic](https://habr.com/ru/articles/827134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827134)
-- [Логистика. Часть 7. Максимизация прибыли: как подход через теорему Байеса поможет авиакомпаниям разбогатеть](https://habr.com/ru/articles/827102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827102)
-- [Как правильно применять ScriptableObject в Unity](https://habr.com/ru/articles/826478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
