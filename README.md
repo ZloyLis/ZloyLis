@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как совмещать работу и учебу](https://habr.com/ru/articles/827200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827200)
-- [Как я перестал волноваться и полюбил ошибки в корутинах: поймай меня если сможешь](https://habr.com/ru/articles/827188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827188)
-- [«Железо» для Android Studio &lpar;gradle-сборка&rpar; в 2024 году](https://habr.com/ru/articles/823840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823840)
-- [Размышления о мониторинге производительности отдельного SQL запроса](https://habr.com/ru/articles/827156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827156)
-- [[Перевод] Компиляторные оптимизации сложны, так как компиляторы забывчивы](https://habr.com/ru/companies/timeweb/articles/826998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826998)
+- [Как GitHub-copilot плагин использует VSCode Proposed API](https://habr.com/ru/articles/827152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827152)
+- [[Перевод] Мега-Учебник Flask Глава 23: Интерфейсы прикладного программирования &lpar;API&rpar; &lpar;издание 2024&rpar;](https://habr.com/ru/articles/826182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826182)
+- [[Перевод] Мега-Учебник Flask Глава 22: Фоновые задания &lpar;издание 2024&rpar;](https://habr.com/ru/articles/824396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824396)
+- [[Перевод] Мега-Учебник Flask Глава 21: Уведомления пользователей &lpar;издание 2024&rpar;](https://habr.com/ru/articles/823422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823422)
+- [[Перевод] Мега-Учебник Flask Глава 20: Немного магии JavaScript &lpar;издание 2024&rpar;](https://habr.com/ru/articles/823232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
