@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Компиляторные оптимизации сложны, так как компиляторы забывчивы](https://habr.com/ru/companies/timeweb/articles/826998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826998)
 - [Создание собственного API на Python &lpar;FastAPI&rpar;: Гайд по POST, PUT, DELETE запросам и моделям Pydantic](https://habr.com/ru/articles/827134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827134)
 - [Логистика. Часть 7. Максимизация прибыли: как подход через теорему Байеса поможет авиакомпаниям разбогатеть](https://habr.com/ru/articles/827102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827102)
 - [Как правильно применять ScriptableObject в Unity](https://habr.com/ru/articles/826478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826478)
 - [Метод наименьших квадратов](https://habr.com/ru/articles/827018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827018)
-- [Что на неделе: крупное обновление HyperOS, вторая жизнь «Сапера» и 100%-ный кэшбек от Яндекса](https://habr.com/ru/companies/agima/articles/827112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
