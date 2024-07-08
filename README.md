@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наше расследование: Блогеры и все все все… Часть 2](https://habr.com/ru/articles/819237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819237)
+- [Гайд по деплою web-приложений для новичков. Часть 2. VPS и настройка окружения](https://habr.com/ru/articles/824438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824438)
 - [Кто такой CTO: Роль и Обязанности](https://habr.com/ru/articles/827280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827280)
 - [Структуры и классы в C++ и D](https://habr.com/ru/articles/827240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827240)
 - [Как создать расширение OpenCart для отправки SMS](https://habr.com/ru/companies/exolve/articles/827168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827168)
-- [За что аналитику данных платят зарплату](https://habr.com/ru/companies/yandex_praktikum/articles/824612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824612)
-- [Перепроектирование приложений неизбежно?](https://habr.com/ru/articles/827254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
