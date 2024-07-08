@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миграция в облако быстро и без ошибок. Часть 3: миграция кластера Kubernetes](https://habr.com/ru/companies/vk/articles/825786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825786)
+- [Насекомое 13 лет сидит в вашем компиляторе и не собирается оттуда вылезать](https://habr.com/ru/companies/pvs-studio/articles/827396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827396)
 - [Reinforcement Learning в задаче групповой оптимизации цен](https://habr.com/ru/companies/X5Tech/articles/826400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826400)
 - [Liquibase + Spring Boot: настройка и написание миграций баз данных](https://habr.com/ru/companies/haulmont/articles/826188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826188)
 - [Вопросы к собеседованию React &lpar;Junior level&rpar;](https://habr.com/ru/articles/803799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803799)
-- [Docker для Angular-приложений: от простого к несложному](https://habr.com/ru/companies/yadro/articles/826628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826628)
-- [Как управлять миром шестиугольных призм на GPU](https://habr.com/ru/articles/826720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
