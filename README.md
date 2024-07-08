@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запускаем 64-битную библиотеку в пространстве WOW64, часть 1](https://habr.com/ru/articles/826836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826836)
+- [Security Week 2428: уязвимость в OpenSSH и поддельный эксплойт](https://habr.com/ru/companies/kaspersky/articles/827340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827340)
 - [Корреляционный анализ для решения инцидентов производительности СУБД](https://habr.com/ru/articles/827504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827504)
 - [Neural ODE](https://habr.com/ru/articles/823074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823074)
 - [Изучаем новые структуры данных для iOS разработчика](https://habr.com/ru/articles/827162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827162)
-- [Фильмы — классика или попса, развлечение или учебный материал? Читалка субтитров с навигацией по сценам](https://habr.com/ru/articles/827478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827478)
-- [Java Digest #14](https://habr.com/ru/companies/tbank/articles/827368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
