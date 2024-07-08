@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker для Angular-приложений: от простого к несложному](https://habr.com/ru/companies/yadro/articles/826628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826628)
+- [Как управлять миром шестиугольных призм на GPU](https://habr.com/ru/articles/826720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826720)
+- [Всё, что вам нужно — это линейное внимание](https://habr.com/ru/companies/wunderfund/articles/827328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827328)
 - [Наше расследование: Блогеры и все все все… Часть 2](https://habr.com/ru/articles/819237/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819237)
 - [Гайд по деплою web-приложений для новичков. Часть 2. VPS и настройка окружения](https://habr.com/ru/articles/824438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824438)
-- [Кто такой CTO: Роль и Обязанности](https://habr.com/ru/articles/827280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827280)
-- [Структуры и классы в C++ и D](https://habr.com/ru/articles/827240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827240)
-- [Как создать расширение OpenCart для отправки SMS](https://habr.com/ru/companies/exolve/articles/827168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
