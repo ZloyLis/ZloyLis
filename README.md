@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech: системные потоки против параллелизма Async/Await в Rust](https://habr.com/ru/articles/827520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827520)
+- [Apple Pro Weekly News &lpar;01.07 – 07.07.24&rpar;](https://habr.com/ru/articles/827516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827516)
 - [Запускаем 64-битную библиотеку в пространстве WOW64, часть 1](https://habr.com/ru/articles/826836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826836)
 - [Security Week 2428: уязвимость в OpenSSH и поддельный эксплойт](https://habr.com/ru/companies/kaspersky/articles/827340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827340)
 - [Корреляционный анализ для решения инцидентов производительности СУБД](https://habr.com/ru/articles/827504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827504)
-- [Neural ODE](https://habr.com/ru/articles/823074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823074)
-- [Изучаем новые структуры данных для iOS разработчика](https://habr.com/ru/articles/827162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
