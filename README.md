@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #545 &lpar;1 — 7 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/827244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827244)
 - [Как я провел лето…](https://habr.com/ru/articles/827194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827194)
 - [Как GitHub-copilot плагин использует VSCode Proposed API](https://habr.com/ru/articles/827152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827152)
 - [[Перевод] Мега-Учебник Flask Глава 23: Интерфейсы прикладного программирования &lpar;API&rpar; &lpar;издание 2024&rpar;](https://habr.com/ru/articles/826182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826182)
 - [[Перевод] Мега-Учебник Flask Глава 22: Фоновые задания &lpar;издание 2024&rpar;](https://habr.com/ru/articles/824396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824396)
-- [[Перевод] Мега-Учебник Flask Глава 21: Уведомления пользователей &lpar;издание 2024&rpar;](https://habr.com/ru/articles/823422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
