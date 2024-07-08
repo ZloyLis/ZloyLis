@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Reinforcement Learning в задаче групповой оптимизации цен](https://habr.com/ru/companies/X5Tech/articles/826400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826400)
 - [Liquibase + Spring Boot: настройка и написание миграций баз данных](https://habr.com/ru/companies/haulmont/articles/826188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826188)
 - [Вопросы к собеседованию React &lpar;Junior level&rpar;](https://habr.com/ru/articles/803799/?utm_source=habrahabr&utm_medium=rss&utm_campaign=803799)
 - [Docker для Angular-приложений: от простого к несложному](https://habr.com/ru/companies/yadro/articles/826628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826628)
 - [Как управлять миром шестиугольных призм на GPU](https://habr.com/ru/articles/826720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826720)
-- [Всё, что вам нужно — это линейное внимание](https://habr.com/ru/companies/wunderfund/articles/827328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
