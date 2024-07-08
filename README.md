@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Neural ODE](https://habr.com/ru/articles/823074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823074)
+- [Изучаем новые структуры данных для iOS разработчика](https://habr.com/ru/articles/827162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827162)
 - [Фильмы — классика или попса, развлечение или учебный материал? Читалка субтитров с навигацией по сценам](https://habr.com/ru/articles/827478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827478)
 - [Java Digest #14](https://habr.com/ru/companies/tbank/articles/827368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827368)
 - [Как стать Java-разработчиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/827444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827444)
-- [Миграция в облако быстро и без ошибок. Часть 3: миграция кластера Kubernetes](https://habr.com/ru/companies/vk/articles/825786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825786)
-- [Насекомое 13 лет сидит в вашем компиляторе и не собирается оттуда вылезать](https://habr.com/ru/companies/pvs-studio/articles/827396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
