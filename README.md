@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фильмы — классика или попса, развлечение или учебный материал? Читалка субтитров с навигацией по сценам](https://habr.com/ru/articles/827478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827478)
+- [Java Digest #14](https://habr.com/ru/companies/tbank/articles/827368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827368)
 - [Как стать Java-разработчиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/827444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827444)
-- [В go нет ООП! И это прекрасно на доработке](https://habr.com/ru/articles/827442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827442)
 - [Миграция в облако быстро и без ошибок. Часть 3: миграция кластера Kubernetes](https://habr.com/ru/companies/vk/articles/825786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825786)
 - [Насекомое 13 лет сидит в вашем компиляторе и не собирается оттуда вылезать](https://habr.com/ru/companies/pvs-studio/articles/827396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827396)
-- [Reinforcement Learning в задаче групповой оптимизации цен](https://habr.com/ru/companies/X5Tech/articles/826400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
