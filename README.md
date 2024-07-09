@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Talent Hub — онлайн-магистратура по ИИ, которая поможет прокачать карьеру](https://habr.com/ru/articles/827476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827476)
+- [Мобильное приложение-помощник арендодателя, сервис для поиска и аренды камер хранения – эти и другие российские стартапы](https://habr.com/ru/companies/productradar/articles/827486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827486)
 - [Создание собственного API на Python &lpar;FastAPI&rpar;: Структура проекта, SQLAlchemy PostgreSQL, миграции и первые модели таблиц](https://habr.com/ru/articles/827222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827222)
 - [От первокурсника до программиста: история 4 лет обучения в ВУЗе на программиста](https://habr.com/ru/articles/827496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827496)
 - [Эффективный запуск и инференс LLM на своем сервере с нуля &lpar;часть 1&rpar;](https://habr.com/ru/articles/827538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827538)
-- [Русификация Lixiang](https://habr.com/ru/articles/827524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827524)
-- [Возможно ли победить без нейросети? Узнаем на хакатоне](https://habr.com/ru/articles/827526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
