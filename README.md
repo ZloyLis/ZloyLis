@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AppSec-платформа для сотен миллионов строк кода](https://habr.com/ru/companies/vk/articles/824496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824496)
+- [Панорама матричных расширений: от x86 до RISC-V](https://habr.com/ru/companies/yadro/articles/827430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827430)
 - [[Перевод] UB или не UB – вот в чём вопрос: как gcc и clang обрабатывают статически известное неопределённое поведение](https://habr.com/ru/articles/827752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827752)
 - [Ясное мышление — чёткие требования](https://habr.com/ru/companies/alfa/articles/827296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827296)
 - [Как делать бэкапы в S3? Знакомство с Кибер Инфраструктурой](https://habr.com/ru/companies/selectel/articles/827720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827720)
-- [[Перевод] Устойчивость микросервисных Spring приложений: роль аннотации @Transactional в предотвращении утечки соединений](https://habr.com/ru/companies/spring_aio/articles/827642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827642)
-- [Lamoda Tech Analytics Party: материалы встречи](https://habr.com/ru/companies/lamoda/articles/827650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
