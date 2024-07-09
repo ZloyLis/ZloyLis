@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Секреты логических операторов в Python](https://habr.com/ru/articles/824170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824170)
+- [Битый или небитый? Как обеспечить целостность данных в Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/825796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825796)
+- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 9](https://habr.com/ru/companies/ruvds/articles/824862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824862)
 - [JavaScript: структуры данных и алгоритмы. Часть 1](https://habr.com/ru/companies/timeweb/articles/826424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826424)
 - [Советы бывалых: как и зачем проходить сертификацию Yandex Cloud Certified Engineer Associate](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/827412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827412)
-- [Мониторинг бизнес-процессов в Camunda 8. Настраиваем дашборды и визуализируем данные](https://habr.com/ru/companies/clevertec/articles/825722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825722)
-- [Как обеспечить цифровую доступность по всем правилам: опыт Яндекс Капчи](https://habr.com/ru/companies/yandex/articles/826936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826936)
-- [Миграция данных в SAP-проектах](https://habr.com/ru/articles/827564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
