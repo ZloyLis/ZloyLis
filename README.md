@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Lamoda Tech Analytics Party: материалы встречи](https://habr.com/ru/companies/lamoda/articles/827650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827650)
 - [Первый взгляд на переход с Xamarin Native на Flutter](https://habr.com/ru/articles/796147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796147)
-- [7 ошибок при составлении карьерной стратегии](https://habr.com/ru/companies/yandex_praktikum/articles/827630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827630)
 - [Секреты логических операторов в Python](https://habr.com/ru/articles/824170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824170)
 - [Битый или небитый? Как обеспечить целостность данных в Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/825796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825796)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 9](https://habr.com/ru/companies/ruvds/articles/824862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824862)
