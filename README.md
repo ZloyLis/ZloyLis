@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как устроен Braid?](https://habr.com/ru/articles/827804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827804)
+- [Хостинг майнкрафт серверов — и зачем такая сложная архитектура?](https://habr.com/ru/articles/827002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827002)
 - [Пробы на роль Архитектора: выступление](https://habr.com/ru/articles/827548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827548)
 - [zero2prod &lpar;Rust&rpar;](https://habr.com/ru/articles/827782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827782)
 - [Обзор и тестирование GaN зарядного устройства Ugreen Nexode X 160W &lpar;модель X762&rpar;](https://habr.com/ru/articles/827776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827776)
-- [AppSec-платформа для сотен миллионов строк кода](https://habr.com/ru/companies/vk/articles/824496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824496)
-- [Панорама матричных расширений: от x86 до RISC-V](https://habr.com/ru/companies/yadro/articles/827430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
