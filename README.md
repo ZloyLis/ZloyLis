@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: структуры данных и алгоритмы. Часть 1](https://habr.com/ru/companies/timeweb/articles/826424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826424)
+- [Советы бывалых: как и зачем проходить сертификацию Yandex Cloud Certified Engineer Associate](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/827412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827412)
+- [Мониторинг бизнес-процессов в Camunda 8. Настраиваем дашборды и визуализируем данные](https://habr.com/ru/companies/clevertec/articles/825722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825722)
 - [Как обеспечить цифровую доступность по всем правилам: опыт Яндекс Капчи](https://habr.com/ru/companies/yandex/articles/826936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826936)
 - [Миграция данных в SAP-проектах](https://habr.com/ru/articles/827564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827564)
-- [Зачем искать поверхность атаки для своего проекта](https://habr.com/ru/companies/isp_ras/articles/801459/?utm_source=habrahabr&utm_medium=rss&utm_campaign=801459)
-- [AI Talent Hub — онлайн-магистратура по ИИ, которая поможет прокачать карьеру](https://habr.com/ru/articles/827476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827476)
-- [Мобильное приложение помогает сдавать квартиру, сервис ищет и сдает камеру хранения – эти и другие российские стартапы](https://habr.com/ru/companies/productradar/articles/827486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
