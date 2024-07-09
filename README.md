@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Устойчивость микросервисных Spring приложений: роль аннотации @Transactional в предотвращении утечки соединений](https://habr.com/ru/companies/spring_aio/articles/827642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827642)
 - [Lamoda Tech Analytics Party: материалы встречи](https://habr.com/ru/companies/lamoda/articles/827650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827650)
 - [Первый взгляд на переход с Xamarin Native на Flutter](https://habr.com/ru/articles/796147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796147)
 - [Секреты логических операторов в Python](https://habr.com/ru/articles/824170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824170)
 - [Битый или небитый? Как обеспечить целостность данных в Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/825796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825796)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 9](https://habr.com/ru/companies/ruvds/articles/824862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
