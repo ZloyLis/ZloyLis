@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ясное мышление — чёткие требования](https://habr.com/ru/companies/alfa/articles/827296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827296)
+- [Как делать бэкапы в S3? Знакомство с Кибер Инфраструктурой](https://habr.com/ru/companies/selectel/articles/827720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827720)
 - [[Перевод] Устойчивость микросервисных Spring приложений: роль аннотации @Transactional в предотвращении утечки соединений](https://habr.com/ru/companies/spring_aio/articles/827642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827642)
 - [Lamoda Tech Analytics Party: материалы встречи](https://habr.com/ru/companies/lamoda/articles/827650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827650)
 - [Первый взгляд на переход с Xamarin Native на Flutter](https://habr.com/ru/articles/796147/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796147)
-- [Секреты логических операторов в Python](https://habr.com/ru/articles/824170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824170)
-- [Битый или небитый? Как обеспечить целостность данных в Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/825796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
