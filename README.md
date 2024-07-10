@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы работы с файлами и потоками в C#](https://habr.com/ru/companies/otus/articles/826776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826776)
 - [Локальные LLM в разработке: а почему бы и да?](https://habr.com/ru/companies/alfa/articles/827864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827864)
 - [GPU-ускорение FFmpeg. Видите прибавку в скорости? И я нет. А она должна быть…](https://habr.com/ru/companies/cdnnow/articles/827948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827948)
 - [Книга: «Hypermedia-разработка. htmx и Hyperview»](https://habr.com/ru/companies/piter/articles/827734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827734)
 - [[Перевод] Как правильно тестировать конкурентные структуры данных](https://habr.com/ru/companies/ruvds/articles/827940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827940)
-- [Pokemon Go: история революции в дополненной реальности](https://habr.com/ru/companies/first/articles/827962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
