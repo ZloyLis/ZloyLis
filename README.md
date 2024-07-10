@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локальные LLM в разработке: а почему бы и да?](https://habr.com/ru/companies/alfa/articles/827864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827864)
+- [GPU-ускорение FFmpeg. Видите прибавку в скорости? И я нет. А она должна быть…](https://habr.com/ru/companies/cdnnow/articles/827948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827948)
 - [Книга: «Hypermedia-разработка. htmx и Hyperview»](https://habr.com/ru/companies/piter/articles/827734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827734)
 - [[Перевод] Как правильно тестировать конкурентные структуры данных](https://habr.com/ru/companies/ruvds/articles/827940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827940)
 - [Pokemon Go: история революции в дополненной реальности](https://habr.com/ru/companies/first/articles/827962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827962)
-- [Акценты в продвижении стартапа. С чего начать продвижение](https://habr.com/ru/articles/827954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827954)
-- [Как сохранять медиафайлы с Tilda в облако? Пошаговая инструкция](https://habr.com/ru/companies/selectel/articles/827928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
