@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследуем фактор случайности в JavaScript](https://habr.com/ru/articles/828032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828032)
 - [Создание микросервисов на Groovy с Micronaut](https://habr.com/ru/companies/otus/articles/827166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827166)
 - [Основы работы с файлами и потоками в C#](https://habr.com/ru/companies/otus/articles/826776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826776)
 - [Локальные LLM в разработке: а почему бы и да?](https://habr.com/ru/companies/alfa/articles/827864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827864)
 - [GPU-ускорение FFmpeg. Видите прибавку в скорости? И я нет. А она должна быть…](https://habr.com/ru/companies/cdnnow/articles/827948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827948)
-- [Книга: «Hypermedia-разработка. htmx и Hyperview»](https://habr.com/ru/companies/piter/articles/827734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
