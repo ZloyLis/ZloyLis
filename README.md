@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Hypermedia-разработка. htmx и Hyperview»](https://habr.com/ru/companies/piter/articles/827734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827734)
+- [[Перевод] Как правильно тестировать конкурентные структуры данных](https://habr.com/ru/companies/ruvds/articles/827940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827940)
+- [Pokemon Go: история революции в дополненной реальности](https://habr.com/ru/companies/first/articles/827962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827962)
 - [Акценты в продвижении стартапа. С чего начать продвижение](https://habr.com/ru/articles/827954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827954)
 - [Как сохранять медиафайлы с Tilda в облако? Пошаговая инструкция](https://habr.com/ru/companies/selectel/articles/827928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827928)
-- [Rive-анимация для Flutter-приложений: почему мы любим ее больше Lottie, когда ее применять и какие фишки использовать](https://habr.com/ru/companies/agima/articles/827732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827732)
-- [Как мы OpenAPI в приложениях используем &lpar;Spring Boot, Typescript&rpar;](https://habr.com/ru/companies/alfastrah/articles/820513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820513)
-- [Джуны — бесплатны. И ещё 7 заблуждений тимлидов о начинающих специалистах](https://habr.com/ru/companies/zvuk/articles/798251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798251)
 <!-- BLOG-POST-LIST:END -->
 
 ---
