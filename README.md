@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Акценты в продвижении стартапа. С чего начать продвижение](https://habr.com/ru/articles/827954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827954)
+- [Как сохранять медиафайлы с Tilda в облако? Пошаговая инструкция](https://habr.com/ru/companies/selectel/articles/827928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827928)
 - [Rive-анимация для Flutter-приложений: почему мы любим ее больше Lottie, когда ее применять и какие фишки использовать](https://habr.com/ru/companies/agima/articles/827732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827732)
 - [Как мы OpenAPI в приложениях используем &lpar;Spring Boot, Typescript&rpar;](https://habr.com/ru/companies/alfastrah/articles/820513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820513)
 - [Джуны — бесплатны. И ещё 7 заблуждений тимлидов о начинающих специалистах](https://habr.com/ru/companies/zvuk/articles/798251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798251)
-- [Масштабы, ответственность, близость к пользователям и продукту: что привлекает айтишников в промышленности](https://habr.com/ru/companies/oleg-bunin/articles/827852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827852)
-- [Создавай и упрощай: оптимизируем Android-приложение с видеоконтентом](https://habr.com/ru/companies/simbirsoft/articles/827824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
