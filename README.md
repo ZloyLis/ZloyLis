@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем виджет в Control Center &lpar;iOS 18&rpar;](https://habr.com/ru/articles/827868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827868)
+- [Вышли релизы безопасности Joomla 5.1.2 и Joomla 4.4.6](https://habr.com/ru/articles/827860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827860)
+- [Алгоритмы, вдохновлённые природой. Часть 2](https://habr.com/ru/companies/sberbank/articles/827850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827850)
+- [Ускоряем JS до предела C](https://habr.com/ru/articles/827846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827846)
 - [Работа с информерами Java kubernetes client](https://habr.com/ru/companies/glowbyte/articles/827794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827794)
-- [Что ждёт начинающего дизайнера в продуктовой команде](https://habr.com/ru/companies/yandex_praktikum/articles/826016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826016)
-- [Как устроен Braid?](https://habr.com/ru/articles/827804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827804)
-- [Хостинг майнкрафт серверов — и зачем такая сложная архитектура?](https://habr.com/ru/articles/827002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827002)
-- [Пробы на роль Архитектора: выступление](https://habr.com/ru/articles/827548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
