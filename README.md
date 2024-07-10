@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rive-анимация для Flutter-приложений: почему мы любим ее больше Lottie, когда ее применять и какие фишки использовать](https://habr.com/ru/companies/agima/articles/827732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827732)
+- [Как мы OpenAPI в приложениях используем &lpar;Spring Boot, Typescript&rpar;](https://habr.com/ru/companies/alfastrah/articles/820513/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820513)
 - [Джуны — бесплатны. И ещё 7 заблуждений тимлидов о начинающих специалистах](https://habr.com/ru/companies/zvuk/articles/798251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=798251)
 - [Масштабы, ответственность, близость к пользователям и продукту: что привлекает айтишников в промышленности](https://habr.com/ru/companies/oleg-bunin/articles/827852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827852)
 - [Создавай и упрощай: оптимизируем Android-приложение с видеоконтентом](https://habr.com/ru/companies/simbirsoft/articles/827824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827824)
-- [Пишем виджет в Control Center &lpar;iOS 18&rpar;](https://habr.com/ru/articles/827868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827868)
-- [Вышли релизы безопасности Joomla 5.1.2 и Joomla 4.4.6](https://habr.com/ru/articles/827860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
