@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL — один за всех? Как работать с нетипичными данными в реляционной системе](https://habr.com/ru/companies/ibs/articles/828138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828138)
+- [Video-streaming в Raspberry PI + WebRTC — победа?](https://habr.com/ru/articles/828142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828142)
 - [gRPC-сервер на C++](https://habr.com/ru/articles/828126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828126)
 - [Свежие июньские апдейты: новый способ бэкапирования, интеграция с Tilda и безопасность 1С](https://habr.com/ru/companies/selectel/articles/824340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824340)
 - [Моё тестовое в Билайн на позицию стажёра](https://habr.com/ru/articles/828110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828110)
-- [Внедрение поисковой системы в крупное CRM-решение: наш опыт](https://habr.com/ru/articles/828104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828104)
-- [Подходы к наблюдаемости от Т-Банка](https://habr.com/ru/companies/tbank/articles/827470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
