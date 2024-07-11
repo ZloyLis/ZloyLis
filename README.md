@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [gRPC-сервер на C++](https://habr.com/ru/articles/828126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828126)
+- [Свежие июньские апдейты: новый способ бэкапирования, интеграция с Tilda и безопасность 1С](https://habr.com/ru/companies/selectel/articles/824340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824340)
+- [Моё тестовое в Билайн на позицию стажёра](https://habr.com/ru/articles/828110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828110)
 - [Внедрение поисковой системы в крупное CRM-решение: наш опыт](https://habr.com/ru/articles/828104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828104)
 - [Подходы к наблюдаемости от Т-Банка](https://habr.com/ru/companies/tbank/articles/827470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827470)
-- [[Перевод] Что говорит CrashLoopBackOff о состоянии пода и какие у него причины](https://habr.com/ru/companies/flant/articles/825804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825804)
-- [PHP и Laravel дайджест новостей за июнь 2024 года](https://habr.com/ru/articles/828074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828074)
-- [Задача распознавания эмоций. Часть 2. Три кита качества](https://habr.com/ru/articles/827884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
