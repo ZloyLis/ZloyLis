@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как составить техническое задание на разработку сайта](https://habr.com/ru/articles/828192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828192)
 - [Умножение Монтгомери](https://habr.com/ru/articles/827880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827880)
 - [Kotlin Coroutines под капотом](https://habr.com/ru/articles/827866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827866)
 - [Куда уходят звёзды? Сверхновые события, химия нейтронных звёзд и массовые вымирания. Интервью с астрономом](https://habr.com/ru/companies/first/articles/827174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827174)
 - [PostgreSQL — один за всех? Как работать с нетипичными данными в реляционной системе](https://habr.com/ru/companies/ibs/articles/828138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828138)
-- [Video-streaming в Raspberry PI + WebRTC — победа?](https://habr.com/ru/articles/828142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
