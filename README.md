@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [React Query: стейт-менеджер для любителей кэша](https://habr.com/ru/companies/ru_mts/articles/828240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828240)
 - [Переписывая историю: от инструментов версионирования БД к практике](https://habr.com/ru/companies/spring_aio/articles/827976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827976)
 - [XJProfessor — помощник аналитика: преобразуем форматы данных легко и с улыбкой](https://habr.com/ru/companies/T1Holding/articles/824434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824434)
 - [Фармим очки в Microsoft Rewards с помощью Python](https://habr.com/ru/articles/828204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828204)
 - [Как составить техническое задание на разработку сайта](https://habr.com/ru/articles/828192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828192)
-- [Умножение Монтгомери](https://habr.com/ru/articles/827880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
