@@ -35,9 +35,9 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что говорит CrashLoopBackOff о состоянии пода и какие у него причины](https://habr.com/ru/companies/flant/articles/825804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825804)
 - [PHP и Laravel дайджест новостей за июнь 2024 года](https://habr.com/ru/articles/828074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828074)
 - [Задача распознавания эмоций. Часть 2. Три кита качества](https://habr.com/ru/articles/827884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827884)
-- [Исследуем фактор случайности в JavaScript](https://habr.com/ru/articles/828032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828032)
 - [Создание микросервисов на Groovy с Micronaut](https://habr.com/ru/companies/otus/articles/827166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827166)
 - [Основы работы с файлами и потоками в C#](https://habr.com/ru/companies/otus/articles/826776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826776)
 <!-- BLOG-POST-LIST:END -->
