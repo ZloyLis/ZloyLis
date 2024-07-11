@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Умножение Монтгомери](https://habr.com/ru/articles/827880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827880)
+- [Kotlin Coroutines под капотом](https://habr.com/ru/articles/827866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827866)
+- [Куда уходят звёзды? Сверхновые события, химия нейтронных звёзд и массовые вымирания. Интервью с астрономом](https://habr.com/ru/companies/first/articles/827174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827174)
 - [PostgreSQL — один за всех? Как работать с нетипичными данными в реляционной системе](https://habr.com/ru/companies/ibs/articles/828138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828138)
 - [Video-streaming в Raspberry PI + WebRTC — победа?](https://habr.com/ru/articles/828142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828142)
-- [gRPC-сервер на C++](https://habr.com/ru/articles/828126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828126)
-- [Свежие июньские апдейты: новый способ бэкапирования, интеграция с Tilda и безопасность 1С](https://habr.com/ru/companies/selectel/articles/824340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824340)
-- [Моё тестовое в Билайн на позицию стажёра](https://habr.com/ru/articles/828110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
