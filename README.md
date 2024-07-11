@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать Верстальщиком](https://habr.com/ru/articles/828320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828320)
 - [Semantic BPM. Онтологическое моделирование верхнеуровневых процессов. VAD](https://habr.com/ru/articles/828266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828266)
 - [[Перевод] Как я взломал штрих-коды продавца билетов TicketMaster](https://habr.com/ru/articles/828124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828124)
 - [React Query: стейт-менеджер для любителей кэша](https://habr.com/ru/companies/ru_mts/articles/828240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828240)
 - [Переписывая историю: от инструментов версионирования БД к практике](https://habr.com/ru/companies/spring_aio/articles/827976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827976)
-- [XJProfessor — помощник аналитика: преобразуем форматы данных легко и с улыбкой](https://habr.com/ru/companies/T1Holding/articles/824434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
