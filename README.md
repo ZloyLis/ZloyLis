@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчикам, аналитикам и архитекторам: рецензия на книгу «Проектирование архитектуры API»](https://habr.com/ru/companies/ssp-soft/articles/828412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828412)
+- [Переводчик с языка, на котором нельзя говорить и писать](https://habr.com/ru/companies/oleg-bunin/articles/828296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828296)
+- [Неожиданности в авторизации. Что скрывает Keycloak?](https://habr.com/ru/companies/pvs-studio/articles/828406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828406)
 - [Ещё одна статья: собеседование Senior PHP](https://habr.com/ru/articles/828324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828324)
 - [Расширяем возможности мобильного приложения на WebView. Опыт Ozon Банк](https://habr.com/ru/companies/ozontech/articles/828186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828186)
-- [Стоит ли решать задачи на Codewars? Или как я полюбил алгоритмы](https://habr.com/ru/articles/828048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828048)
-- [От data-driven к insight-driven. Разбираемся, как работать с продуктовыми инсайтами](https://habr.com/ru/articles/828348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828348)
-- [Видео с прозрачностью на Jetpack Compose – запросто](https://habr.com/ru/companies/finam_broker/articles/828322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
