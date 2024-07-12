@@ -39,7 +39,7 @@ ___
 - [[Перевод] Dark pattern: исследование и рефлексия](https://habr.com/ru/articles/828554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828554)
 - [[Перевод] Для найма достаточно двух собеседований](https://habr.com/ru/companies/productivity_inside/articles/828542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828542)
 - [Устал от погони за лайками и наградами, поэтому создал конкурс кринжового дизайна](https://habr.com/ru/articles/828538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828538)
-- [Как я хотел выиграть пиццы у Dodo &lpar;бот на python&rpar;](https://habr.com/ru/articles/828522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828522)
+- [Как я хотел выиграть пиццы у Додо &lpar;бот на python](https://habr.com/ru/articles/828522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
