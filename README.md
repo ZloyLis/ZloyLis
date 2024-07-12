@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Для найма достаточно двух собеседований](https://habr.com/ru/companies/productivity_inside/articles/828542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828542)
+- [Устал от погони за лайками и наградами, поэтому создал конкурс кринжового дизайна](https://habr.com/ru/articles/828538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828538)
 - [Как я хотел выиграть пиццы у Dodo &lpar;бот на python&rpar;](https://habr.com/ru/articles/828522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828522)
 - [Разработали аналог Confluence. Что из этого получилось и почему мы не стали вкладывать в продукт 10 миллионов рублей](https://habr.com/ru/companies/ispmanager/articles/828342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828342)
 - [Гайд. Работаем со стажерами в промышленных масштабах: набираем, учим, выпускаем на реальные проекты за 4 месяца](https://habr.com/ru/companies/agima/articles/828454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828454)
-- [[Перевод] Программисты не должны доверять никому, даже себе](https://habr.com/ru/companies/piter/articles/828274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828274)
-- [Вызовы для DevOps в сфере поддержки ML-проектов](https://habr.com/ru/companies/cinimex/articles/824786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
