@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Программисты не должны доверять никому, даже себе](https://habr.com/ru/companies/piter/articles/828274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828274)
 - [Вызовы для DevOps в сфере поддержки ML-проектов](https://habr.com/ru/companies/cinimex/articles/824786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824786)
 - [Анимация фрактала Lozi map](https://habr.com/ru/articles/828464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828464)
 - [API в ОК: анализ покрытия и автотесты](https://habr.com/ru/companies/vk/articles/828222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828222)
 - [РКН по ошибке снес безобидное приложение в AppStore, на волне последних чисток](https://habr.com/ru/articles/828438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828438)
-- [Создание собственного API на Python &lpar;FastAPI&rpar;: Router и асинхронные запросы в PostgreSQL &lpar;SQLAlchemy&rpar;](https://habr.com/ru/articles/828328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
