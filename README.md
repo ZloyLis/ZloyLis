@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ещё одна статья: собеседование Senior PHP](https://habr.com/ru/articles/828324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828324)
+- [Расширяем возможности мобильного приложения на WebView. Опыт Ozon Банк](https://habr.com/ru/companies/ozontech/articles/828186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828186)
 - [Стоит ли решать задачи на Codewars? Или как я полюбил алгоритмы](https://habr.com/ru/articles/828048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828048)
 - [От data-driven к insight-driven. Разбираемся, как работать с продуктовыми инсайтами](https://habr.com/ru/articles/828348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828348)
 - [Видео с прозрачностью на Jetpack Compose – запросто](https://habr.com/ru/companies/finam_broker/articles/828322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828322)
-- [Semantic BPM. Онтологическое моделирование верхнеуровневых процессов. VAD](https://habr.com/ru/articles/828266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828266)
-- [[Перевод] Как я взломал штрих-коды продавца билетов TicketMaster](https://habr.com/ru/articles/828124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
