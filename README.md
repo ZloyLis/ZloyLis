@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [API в ОК: анализ покрытия и автотесты](https://habr.com/ru/companies/odnoklassniki/articles/828222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828222)
 - [РКН по ошибке снес безобидное приложение в AppStore, на волне последних чисток](https://habr.com/ru/articles/828438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828438)
 - [Создание собственного API на Python &lpar;FastAPI&rpar;: Router и асинхронные запросы в PostgreSQL &lpar;SQLAlchemy&rpar;](https://habr.com/ru/articles/828328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828328)
 - [Культурно-независимый тест интеллекта повышенной сложности](https://habr.com/ru/articles/828262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828262)
 - [Разработчикам, аналитикам и архитекторам: рецензия на книгу «Проектирование архитектуры API»](https://habr.com/ru/companies/ssp-soft/articles/828412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828412)
-- [Переводчик с языка, на котором нельзя говорить и писать](https://habr.com/ru/companies/oleg-bunin/articles/828296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
