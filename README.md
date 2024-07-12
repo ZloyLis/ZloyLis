@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От data-driven к insight-driven. Разбираемся, как работать с продуктовыми инсайтами](https://habr.com/ru/articles/828348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828348)
 - [Видео с прозрачностью на Jetpack Compose – запросто](https://habr.com/ru/companies/finam_broker/articles/828322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828322)
 - [Semantic BPM. Онтологическое моделирование верхнеуровневых процессов. VAD](https://habr.com/ru/articles/828266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828266)
 - [[Перевод] Как я взломал штрих-коды продавца билетов TicketMaster](https://habr.com/ru/articles/828124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828124)
 - [React Query: стейт-менеджер для любителей кэша](https://habr.com/ru/companies/ru_mts/articles/828240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828240)
-- [Переписывая историю: от инструментов версионирования БД к практике](https://habr.com/ru/companies/spring_aio/articles/827976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
