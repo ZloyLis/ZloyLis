@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы переходили с Xamarin на Flutter](https://habr.com/ru/articles/828656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828656)
+- [Поиск по префиксу или тайные операторы PostgreSQL](https://habr.com/ru/articles/828118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828118)
+- [Встречаем по одежке, а провожаем по уму или что такое Soft Skills?](https://habr.com/ru/articles/828650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828650)
 - [Область видимости и замыкания в JavaScript](https://habr.com/ru/articles/828618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828618)
 - [Об одном интересном свойстве триангуляции Делоне](https://habr.com/ru/articles/828610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828610)
-- [Циклические массивы](https://habr.com/ru/articles/828602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828602)
-- [Наставник для айтишника: кто он и чем может помочь. Мой личный опыт](https://habr.com/ru/articles/828600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828600)
-- [Что на неделе: завод без людей, очередная «жертва» Neuralink и квантовый интернет будущего](https://habr.com/ru/companies/agima/articles/828536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
