@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что на неделе: завод без людей, очередная «жертва» Neuralink и квантовый интернет будущего](https://habr.com/ru/companies/agima/articles/828536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828536)
 - [Готовим k8s кластер на OrangePi 3 LTS](https://habr.com/ru/articles/828556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828556)
 - [[Перевод] Dark pattern: исследование и рефлексия](https://habr.com/ru/articles/828554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828554)
 - [[Перевод] Для найма достаточно двух собеседований](https://habr.com/ru/companies/productivity_inside/articles/828542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828542)
 - [Устал от погони за лайками и наградами, поэтому создал конкурс кринжового дизайна](https://habr.com/ru/articles/828538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828538)
-- [Как я хотел выиграть пиццы у Додо &lpar;бот на python&rpar;](https://habr.com/ru/articles/828522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
