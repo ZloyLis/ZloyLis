@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Об одном интересном свойстве триангуляции Делоне](https://habr.com/ru/articles/828610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828610)
 - [Циклические массивы](https://habr.com/ru/articles/828602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828602)
 - [Наставник для айтишника: кто он и чем может помочь. Мой личный опыт](https://habr.com/ru/articles/828600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828600)
 - [Что на неделе: завод без людей, очередная «жертва» Neuralink и квантовый интернет будущего](https://habr.com/ru/companies/agima/articles/828536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828536)
 - [Готовим k8s кластер на OrangePi 3 LTS](https://habr.com/ru/articles/828556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828556)
-- [[Перевод] Dark pattern: исследование и рефлексия](https://habr.com/ru/articles/828554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
