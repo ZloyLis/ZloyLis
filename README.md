@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект «Solar Future» или передача данных с Arduino на веб-интерфейс через GSM-сеть](https://habr.com/ru/articles/828686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828686)
 - [Куб для ваших сторис*](https://habr.com/ru/articles/828680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828680)
 - [[Перевод] Как настроить воркфлоу: 7 дельных советов от опытного разработчика](https://habr.com/ru/companies/netologyru/articles/828616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828616)
 - [Как подготовиться к удалению приложения из AppStore](https://habr.com/ru/articles/828668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828668)
 - [Как мы переходили с Xamarin на Flutter](https://habr.com/ru/articles/828656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828656)
-- [Поиск по префиксу или тайные операторы PostgreSQL](https://habr.com/ru/articles/828118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
