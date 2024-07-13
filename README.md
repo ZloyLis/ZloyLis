@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как настроить воркфлоу: 7 дельных советов от опытного разработчика](https://habr.com/ru/companies/netologyru/articles/828616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828616)
+- [Как подготовиться к удалению приложения из AppStore](https://habr.com/ru/articles/828668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828668)
 - [Как мы переходили с Xamarin на Flutter](https://habr.com/ru/articles/828656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828656)
 - [Поиск по префиксу или тайные операторы PostgreSQL](https://habr.com/ru/articles/828118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828118)
-- [Встречаем по одежке, а провожаем по уму или что такое Soft Skills?](https://habr.com/ru/articles/828650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828650)
-- [Область видимости и замыкания в JavaScript](https://habr.com/ru/articles/828618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828618)
-- [Об одном интересном свойстве триангуляции Делоне](https://habr.com/ru/articles/828610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828610)
+- [Встречаем по одежке, а провожаем по уму или что такое мягкие навыки?](https://habr.com/ru/articles/828650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
