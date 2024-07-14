@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [pytest-unordered: сравнение коллекций без учёта порядка](https://habr.com/ru/articles/828732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828732)
 - [Популярная задача на собеседовании: сотрудники с максимальной зарплатой в отделе](https://habr.com/ru/articles/828728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828728)
-- [[Перевод] React Custom Hook: useRenderCount](https://habr.com/ru/articles/828726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828726)
+- [[Перевод] Как узнать количество перерисовок? React Custom Hook: useRenderCount](https://habr.com/ru/articles/828726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828726)
 - [[Перевод] Как измерить астрономически далёкие объекты](https://habr.com/ru/articles/828558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828558)
 - [[Перевод] Как malloc сломала JPGLoader в Serenity, или как выиграть в лотерее](https://habr.com/ru/companies/ruvds/articles/828224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828224)
-- [Russkaya latinica](https://habr.com/ru/articles/828722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
