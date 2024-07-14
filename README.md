@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Популярная задача на собеседовании: сотрудники с максимальной зарплатой в отделе](https://habr.com/ru/articles/828728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828728)
+- [[Перевод] React Custom Hook: useRenderCount](https://habr.com/ru/articles/828726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828726)
+- [[Перевод] Как измерить астрономически далёкие объекты](https://habr.com/ru/articles/828558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828558)
 - [[Перевод] Как malloc сломала JPGLoader в Serenity, или как выиграть в лотерее](https://habr.com/ru/companies/ruvds/articles/828224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828224)
 - [Russkaya latinica](https://habr.com/ru/articles/828722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828722)
-- [Проект «Solar Future» или передача данных с Arduino на веб-интерфейс через GSM-сеть](https://habr.com/ru/articles/828686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828686)
-- [Куб для ваших сторис*](https://habr.com/ru/articles/828680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828680)
-- [[Перевод] Как настроить воркфлоу: 7 дельных советов от опытного разработчика](https://habr.com/ru/companies/netologyru/articles/828616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
