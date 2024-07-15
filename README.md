@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стреляем себе в ногу из localStorage](https://habr.com/ru/articles/828912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828912)
+- [[Перевод] Как Notion проектировал свой data lake, чтобы успевать за быстрым ростом](https://habr.com/ru/companies/wunderfund/articles/828906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828906)
 - [Мобильная разработка за неделю #546 &lpar;8 — 14 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/828862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828862)
 - [[Перевод] Контроль пропускной способности &lpar;троттлинг&rpar; API c помощью шлюза авторизации OpenIG](https://habr.com/ru/articles/828826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828826)
 - [Подборка ресурсов для начинающих дизайнеров интерфейсов](https://habr.com/ru/companies/yandex_praktikum/articles/826374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826374)
-- [Парсим данные из Google Sheets с помощью Kotlin и Retrofit в Android](https://habr.com/ru/articles/828812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828812)
-- [Как я исправил краш Realm в KMP Desktop на старых версиях macOS](https://habr.com/ru/articles/828808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
