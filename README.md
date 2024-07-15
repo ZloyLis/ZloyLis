@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;08.07 – 14.07.24&rpar;](https://habr.com/ru/articles/828804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828804)
 - [Как правильно разработать интерактивный прототип?](https://habr.com/ru/articles/828790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828790)
 - [Разбираемся с coroutine в Kotlin — 4](https://habr.com/ru/articles/828776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828776)
 - [pytest-unordered: сравнение коллекций без учёта порядка](https://habr.com/ru/articles/828732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828732)
 - [Популярная задача на собеседовании: сотрудники с максимальной зарплатой в отделе](https://habr.com/ru/articles/828728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828728)
-- [[Перевод] Как узнать количество перерисовок? React Custom Hook: useRenderCount](https://habr.com/ru/articles/828726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
