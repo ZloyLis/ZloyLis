@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgresso #6 &lpar;67&rpar;](https://habr.com/ru/companies/postgrespro/articles/820889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820889)
 - [Security Week 2429: утечка у оператора AT&amp;amp;T и уязвимость учеток Snowflake](https://habr.com/ru/companies/kaspersky/articles/828962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828962)
 - [Создание интернет-магазина на компонентах: новый подход для быстрого выхода на рынок екома](https://habr.com/ru/articles/828434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828434)
 - [Пишем свой Swift макрос без лида, ИТ-курсов и кредитов](https://habr.com/ru/companies/alfa/articles/828888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828888)
 - [Как компилировать json или история оптимизации python сервиса](https://habr.com/ru/companies/oleg-bunin/articles/828986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828986)
-- [Возможности С++: от стандартных алгоритмов до диапазонов &lpar;Ranges&rpar;](https://habr.com/ru/companies/simbirsoft/articles/828878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
