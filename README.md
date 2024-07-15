@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Возможности С++: от стандартных алгоритмов до диапазонов &lpar;Ranges&rpar;](https://habr.com/ru/companies/simbirsoft/articles/828878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828878)
-- [[Перевод] Конструктора у меня нет, а инициализироваться надо](https://habr.com/ru/articles/828936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828936)
+- [[Перевод] У меня нет конструктора, но я должен инициализироваться](https://habr.com/ru/articles/828936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828936)
 - [Who are you, Platform Engineering. Часть 3: знакомство с Dev Platform](https://habr.com/ru/companies/vk/articles/827022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827022)
 - [Стреляем себе в ногу из localStorage](https://habr.com/ru/articles/828912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828912)
 - [[Перевод] Как Notion проектировал свой data lake, чтобы успевать за быстрым ростом](https://habr.com/ru/companies/wunderfund/articles/828906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828906)
