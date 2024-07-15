@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Возможности С++: от стандартных алгоритмов до диапазонов &lpar;Ranges&rpar;](https://habr.com/ru/companies/simbirsoft/articles/828878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828878)
+- [[Перевод] Конструктора у меня нет, а инициализироваться надо](https://habr.com/ru/articles/828936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828936)
+- [Who are you, Platform Engineering. Часть 3: знакомство с Dev Platform](https://habr.com/ru/companies/vk/articles/827022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827022)
 - [Стреляем себе в ногу из localStorage](https://habr.com/ru/articles/828912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828912)
 - [[Перевод] Как Notion проектировал свой data lake, чтобы успевать за быстрым ростом](https://habr.com/ru/companies/wunderfund/articles/828906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828906)
-- [Мобильная разработка за неделю #546 &lpar;8 — 14 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/828862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828862)
-- [[Перевод] Контроль пропускной способности &lpar;троттлинг&rpar; API c помощью шлюза авторизации OpenIG](https://habr.com/ru/articles/828826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828826)
-- [Подборка ресурсов для начинающих дизайнеров интерфейсов](https://habr.com/ru/companies/yandex_praktikum/articles/826374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
