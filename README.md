@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Контроль пропускной способности &lpar;троттлинг&rpar; API c помощью шлюза авторизации OpenIG](https://habr.com/ru/articles/828826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828826)
+- [Подборка ресурсов для начинающих дизайнеров интерфейсов](https://habr.com/ru/companies/yandex_praktikum/articles/826374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826374)
 - [Парсим данные из Google Sheets с помощью Kotlin и Retrofit в Android](https://habr.com/ru/articles/828812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828812)
 - [Как я исправил краш Realm в KMP Desktop на старых версиях macOS](https://habr.com/ru/articles/828808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828808)
 - [Apple Pro Weekly News &lpar;08.07 – 14.07.24&rpar;](https://habr.com/ru/articles/828804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828804)
-- [Как правильно разработать интерактивный прототип?](https://habr.com/ru/articles/828790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828790)
-- [Разбираемся с coroutine в Kotlin — 4](https://habr.com/ru/articles/828776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
