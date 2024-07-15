@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Пишем свой Swift макрос без лида, ИТ-курсов и кредитов](https://habr.com/ru/companies/alfa/articles/828888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828888)
-- [Как компилировать json или история оптимизации python сервиса](https://habr.com/ru/companies/okko/articles/828986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828986)
+- [Как компилировать json или история оптимизации python сервиса](https://habr.com/ru/companies/oleg-bunin/articles/828986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828986)
 - [Возможности С++: от стандартных алгоритмов до диапазонов &lpar;Ranges&rpar;](https://habr.com/ru/companies/simbirsoft/articles/828878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828878)
 - [[Перевод] У меня нет конструктора, но я должен инициализироваться](https://habr.com/ru/articles/828936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828936)
 - [Who are you, Platform Engineering. Часть 3: знакомство с Dev Platform](https://habr.com/ru/companies/vk/articles/827022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827022)
