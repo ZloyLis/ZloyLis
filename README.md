@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Работа с аренами: почти избавляемся от GC](https://habr.com/ru/companies/oleg-bunin/articles/828972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828972)
-- [Памятка по работе с JSON в консоли Linux на примере api](https://habr.com/ru/articles/827762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827762)
-- [Летнее чтение на английском: список книг по уровням и советы методистов](https://habr.com/ru/companies/yandex_praktikum/articles/829108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829108)
-- [Как работает генерация видео в open source проекте Wunjo CE](https://habr.com/ru/articles/828752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828752)
-- [Стартер пак в C: 3 полезные библиотеки для начинающих. Часть 1](https://habr.com/ru/companies/otus/articles/827918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827918)
+- [Как найти и удалить 2 Тб ненужных файлов, которые не видит СУБД? Дорабатываем pg_orphaned](https://habr.com/ru/companies/sberbank/articles/825962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825962)
+- [JavaScript: структуры данных и алгоритмы. Часть 2](https://habr.com/ru/companies/timeweb/articles/828068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828068)
+- [Как работать с Git и Gitflow: разбираемся на примерах](https://habr.com/ru/companies/beeline_cloud/articles/829142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829142)
+- [Алгоритм Тарьяна для поиска минимального набора уравнений](https://habr.com/ru/articles/829136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829136)
+- [Как я использую плагины VSCode для обработки Json-файлов в работе системным аналитиком](https://habr.com/ru/companies/ru_mts/articles/829134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
