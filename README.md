@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с аренами: почти избавляемся от GC](https://habr.com/ru/companies/oleg-bunin/articles/828972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828972)
+- [Памятка по работе с JSON в консоли Linux на примере api](https://habr.com/ru/articles/827762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827762)
 - [Летнее чтение на английском: список книг по уровням и советы методистов](https://habr.com/ru/companies/yandex_praktikum/articles/829108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829108)
 - [Как работает генерация видео в open source проекте Wunjo CE](https://habr.com/ru/articles/828752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828752)
 - [Стартер пак в C: 3 полезные библиотеки для начинающих. Часть 1](https://habr.com/ru/companies/otus/articles/827918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827918)
-- [Postgresso #6 &lpar;67&rpar;](https://habr.com/ru/companies/postgrespro/articles/820889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820889)
-- [Security Week 2429: утечка у оператора AT&amp;amp;T и уязвимость учеток Snowflake](https://habr.com/ru/companies/kaspersky/articles/828962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
