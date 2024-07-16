@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 7 основных способов оптимизировать кеширование в Spring Boot](https://habr.com/ru/companies/spring_aio/articles/829054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829054)
+- [Программирование DeFi: Uniswap. Часть 1](https://habr.com/ru/articles/829198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829198)
 - [[Перевод] Лидерство В Тестировании: Тестирование в Команде](https://habr.com/ru/articles/828800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828800)
 - [Vercel VS Edge VS Next. Что такое Edge, зачем, как и куда](https://habr.com/ru/articles/829074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829074)
 - [Оно вам надо: про цели и ценность задач по разработке](https://habr.com/ru/companies/pt/articles/829052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829052)
-- [Эволюция форматирования строк в Python](https://habr.com/ru/articles/828396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828396)
-- [Как найти и удалить 2 Тб ненужных файлов, которые не видит СУБД? Дорабатываем pg_orphaned](https://habr.com/ru/companies/sberbank/articles/825962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
