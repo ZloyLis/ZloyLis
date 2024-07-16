@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация сервиса сканирования на основе OWASP ZAP](https://habr.com/ru/companies/vk/articles/829030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829030)
+- [Museum, настольное приложение на javascript для смены обоев](https://habr.com/ru/articles/829242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829242)
+- [Обзор и гайд по Tortoise ORM: собрал в одну статью все, что надо знать об инструменте и своем опыте работы с ним](https://habr.com/ru/articles/829222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829222)
 - [Заглянем в хрустальный шар: как продвигается разработка стандартных матричных расширений RISC-V](https://habr.com/ru/companies/yadro/articles/827432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827432)
 - [Cтатистические критерии для начинающих](https://habr.com/ru/companies/kuper/articles/827448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827448)
-- [[Перевод] Почему Microsoft отказывается от React в браузере Edge](https://habr.com/ru/companies/productstar/articles/829216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829216)
-- [[Перевод] StorageReview Lab побила мировой рекорд по вычислению числа Пи: 202 триллиона знаков](https://habr.com/ru/companies/cloud4y/articles/829206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829206)
-- [[Перевод] 7 основных способов оптимизировать кеширование в Spring Boot](https://habr.com/ru/companies/spring_aio/articles/829054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
