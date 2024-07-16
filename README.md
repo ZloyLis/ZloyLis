@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать успешный мобильный банк: взгляд изнутри от техлида Альфа-Банка Константина Глумова](https://habr.com/ru/articles/829016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829016)
+- [Простой бот-модератор на Aiogram 3.x](https://habr.com/ru/companies/amvera/articles/829294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829294)
 - [Прототипы: ключ успешного проекта](https://habr.com/ru/companies/sminex_developer/articles/829270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829270)
 - [Реализация сервиса сканирования на основе OWASP ZAP](https://habr.com/ru/companies/vk/articles/829030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829030)
 - [Museum, настольное приложение на javascript для смены обоев](https://habr.com/ru/articles/829242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829242)
-- [Обзор и гайд по Tortoise ORM: собрал в одну статью все, что надо знать об инструменте и своем опыте работы с ним](https://habr.com/ru/articles/829222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829222)
-- [Заглянем в хрустальный шар: как продвигается разработка стандартных матричных расширений RISC-V](https://habr.com/ru/companies/yadro/articles/827432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
