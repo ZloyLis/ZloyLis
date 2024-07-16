@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оно вам надо: про цели и ценность задач по разработке](https://habr.com/ru/companies/pt/articles/829052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829052)
+- [Эволюция форматирования строк в Python](https://habr.com/ru/articles/828396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828396)
 - [Как найти и удалить 2 Тб ненужных файлов, которые не видит СУБД? Дорабатываем pg_orphaned](https://habr.com/ru/companies/sberbank/articles/825962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825962)
 - [JavaScript: структуры данных и алгоритмы. Часть 2](https://habr.com/ru/companies/timeweb/articles/828068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828068)
 - [Как работать с Git и Gitflow: разбираемся на примерах](https://habr.com/ru/companies/beeline_cloud/articles/829142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829142)
-- [Алгоритм Тарьяна для поиска минимального набора уравнений](https://habr.com/ru/articles/829136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829136)
-- [Как я использую плагины VSCode для обработки Json-файлов в работе системным аналитиком](https://habr.com/ru/companies/ru_mts/articles/829134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
