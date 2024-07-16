@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работает генерация видео в open source проекте Wunjo CE](https://habr.com/ru/articles/828752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828752)
+- [Стартер пак в C: 3 полезные библиотеки для начинающих. Часть 1](https://habr.com/ru/companies/otus/articles/827918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827918)
 - [Postgresso #6 &lpar;67&rpar;](https://habr.com/ru/companies/postgrespro/articles/820889/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820889)
 - [Security Week 2429: утечка у оператора AT&amp;amp;T и уязвимость учеток Snowflake](https://habr.com/ru/companies/kaspersky/articles/828962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828962)
 - [Создание интернет-магазина на компонентах: новый подход для быстрого выхода на рынок екома](https://habr.com/ru/articles/828434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828434)
-- [Пишем свой Swift макрос без лида, ИТ-курсов и кредитов](https://habr.com/ru/companies/alfa/articles/828888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828888)
-- [Как компилировать json или история оптимизации python сервиса](https://habr.com/ru/companies/oleg-bunin/articles/828986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
