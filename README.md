@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Геймификация продукта. Три механики с которых нельзя начинать: баллы, ачивки, лидерборд](https://habr.com/ru/articles/829474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829474)
 - [Искусство сетапа: автоматизируем подготовку стека под новые проекты](https://habr.com/ru/companies/kts/articles/829460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829460)
 - [Скрытая &lpar;на виду&rpar; сила KeyPath&#39;ов](https://habr.com/ru/companies/raiffeisenbank/articles/828896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828896)
 - [Будущее разработки программного обеспечения: переход от кодирования к естественному взаимодействию](https://habr.com/ru/articles/829450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829450)
 - [[Перевод] Реализация доступности с помощью Flutter](https://habr.com/ru/companies/otus/articles/829432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829432)
-- [Корпоративная магистратура ИТМО и Яндекса: как всё устроено](https://habr.com/ru/companies/spbifmo/articles/829412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
