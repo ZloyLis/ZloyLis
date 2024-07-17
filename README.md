@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследуя мир изображений: PicTrace и искусственный интеллект в действии](https://habr.com/ru/articles/829348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829348)
 - [Бутстрап и доверительные интервалы: от теории к практике на Python](https://habr.com/ru/articles/829336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829336)
 - [Как создать успешный мобильный банк: взгляд изнутри от техлида Альфа-Банка Константина Глумова](https://habr.com/ru/articles/829016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829016)
 - [Простой бот-модератор на Aiogram 3.x](https://habr.com/ru/companies/amvera/articles/829294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829294)
 - [Прототипы: ключ успешного проекта](https://habr.com/ru/companies/sminex_developer/articles/829270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829270)
-- [Реализация сервиса сканирования на основе OWASP ZAP](https://habr.com/ru/companies/vk/articles/829030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
