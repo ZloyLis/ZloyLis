@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Будущее разработки программного обеспечения: переход от кодирования к естественному взаимодействию](https://habr.com/ru/articles/829450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829450)
+- [[Перевод] Реализация доступности с помощью Flutter](https://habr.com/ru/companies/otus/articles/829432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829432)
 - [Корпоративная магистратура ИТМО и Яндекса: как всё устроено](https://habr.com/ru/companies/spbifmo/articles/829412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829412)
 - [Компонентная архитектура приложений на Flutter: почему выбрать BLoC недостаточно](https://habr.com/ru/companies/ibs/articles/828428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828428)
 - [Обзор GigaIDE от СБЕРа | Российская IntelliJ IDEA | Поддержка Spring вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/828828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828828)
-- [Исследуя мир изображений: PicTrace и искусственный интеллект в действии](https://habr.com/ru/articles/829348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829348)
-- [Бутстрап и доверительные интервалы: от теории к практике на Python](https://habr.com/ru/articles/829336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
