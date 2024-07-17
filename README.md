@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компилятор за выходные: наконец-то ассемблер](https://habr.com/ru/articles/829314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829314)
 - [Создание простейшего back-end на Node.js с использованием PostgreSQL](https://habr.com/ru/companies/otus/articles/828684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828684)
 - [Кодинг, матаппарат и бизнес-понимание. Как мы готовим будущих исследователей и предпринимателей в сфере ИИ](https://habr.com/ru/companies/ru_mts/articles/829588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829588)
 - [[Перевод] Насколько нам нужно визуальное программирование?](https://habr.com/ru/companies/ruvds/articles/829252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829252)
 - [Геймификация продукта. Три механики с которых нельзя начинать: баллы, ачивки, лидерборд](https://habr.com/ru/articles/829474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829474)
-- [Искусство сетапа: автоматизируем подготовку стека под новые проекты](https://habr.com/ru/companies/kts/articles/829460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
