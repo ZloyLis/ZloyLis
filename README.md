@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание собственного API на Python &lpar;FastAPI&rpar;: Авторизация, Аутентификация и роли пользователей](https://habr.com/ru/articles/829742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829742)
+- [Declarative Gradle: рывок или прорыв?](https://habr.com/ru/companies/spring_aio/articles/829702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829702)
+- [Как создать бесшовную текстуру на angular без инструкций и примеров](https://habr.com/ru/companies/pgk/articles/829678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829678)
 - [«Коллеги, добрый день»: как проводить онлайн-встречи эффективно и укладываться в полчаса](https://habr.com/ru/companies/kuper/articles/829488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829488)
 - [ИТ с пеленок. 6 игр, которые познакомят детей с программированием](https://habr.com/ru/companies/ru_mts/articles/829684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829684)
-- [Самый первый Android-смартфон в мире: каким был HTC Dream? Пишем приложения для Android 1.0 в 2024](https://habr.com/ru/companies/timeweb/articles/829416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829416)
-- [d42 в действии: лучшие практики подготовки данных](https://habr.com/ru/companies/2gis/articles/827584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827584)
-- [Макросы на Dart: первые ощущения от использования и лайфхаки на будущее](https://habr.com/ru/articles/829560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
