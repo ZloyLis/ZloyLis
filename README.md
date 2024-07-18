@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Комбинаторы в ClickHouse](https://habr.com/ru/companies/magnit/articles/825264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825264)
 - [И целых 20 ядер мало](https://habr.com/ru/articles/828788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828788)
 - [[Перевод] Насколько быстр Javascript? Симулируем 20 миллионов частиц](https://habr.com/ru/articles/829220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829220)
 - [Стресс-тест оплаты по QR на кассе в супермаркете. Сравниваем мобильные интерфейсы банков](https://habr.com/ru/articles/829618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829618)
 - [Компилятор за выходные: наконец-то ассемблер](https://habr.com/ru/articles/829314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829314)
-- [Создание простейшего back-end на Node.js с использованием PostgreSQL](https://habr.com/ru/companies/otus/articles/828684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
