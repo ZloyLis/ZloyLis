@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИТ с пеленок. 6 игр, которые познакомят детей с программированием](https://habr.com/ru/companies/ru_mts/articles/829684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829684)
+- [Самый первый Android-смартфон в мире: каким был HTC Dream? Пишем приложения для Android 1.0 в 2024](https://habr.com/ru/companies/timeweb/articles/829416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829416)
+- [d42 в действии: лучшие практики подготовки данных](https://habr.com/ru/companies/2gis/articles/827584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827584)
+- [Макросы на Dart: первые ощущения от использования и лайфхаки на будущее](https://habr.com/ru/articles/829560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829560)
 - [Что интересного в отчете «Белая книга цифровой экономики 2023»](https://habr.com/ru/companies/rshb/articles/829034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829034)
-- [Web components как альтернатива iframe на примере Angular-компонентов](https://habr.com/ru/companies/tbank/articles/828940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828940)
-- [Работает — не трожь: зачем обновлять Python в долгоживущих проектах](https://habr.com/ru/companies/yandex/articles/828956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828956)
-- [Каких фич не хватает K8s по мнению юзеров Reddit: толковый менеджер пакетов и устранение болей с sidecar-контейнерами](https://habr.com/ru/companies/flant/articles/822435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822435)
-- [Задачи и роль бизнес-аналитика в разных методологиях разработки — Agile, Waterfall, Scrum](https://habr.com/ru/companies/yandex_praktikum/articles/827358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
