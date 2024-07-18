@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как настроить аутентификацию через SMS и Flask для самых-самых ленивых пользователей](https://habr.com/ru/companies/ru_mts/articles/829764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829764)
+- [Разложение модели числа на подмодели](https://habr.com/ru/articles/829244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829244)
+- [Как я решил сделать серию видео про устройство интерпретатора CPython](https://habr.com/ru/articles/829760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829760)
 - [Как мы создавали собственную дизайн-систему для ускорения процессов разработки](https://habr.com/ru/companies/sravni/articles/829708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829708)
-- [Создание собственного API на Python &lpar;FastAPI&rpar;: Авторизация, Аутентификация и роли пользователей](https://habr.com/ru/articles/829742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829742)
-- [Declarative Gradle: рывок или прорыв?](https://habr.com/ru/companies/spring_aio/articles/829702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829702)
-- [Как не надо готовиться к CISSP. Опыт и ошибки выжившего](https://habr.com/ru/companies/jetinfosystems/articles/829284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829284)
-- [Как создать бесшовную текстуру на angular без инструкций и примеров](https://habr.com/ru/companies/pgk/articles/829678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829678)
+- [MapReduce на Go: превратите ваши большие данные в понятную карту и удобный редьюс](https://habr.com/ru/companies/otus/articles/828672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
