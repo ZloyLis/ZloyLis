@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что интересного в отчете «Белая книга цифровой экономики 2023»](https://habr.com/ru/companies/rshb/articles/829034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829034)
+- [Web components как альтернатива iframe на примере Angular-компонентов](https://habr.com/ru/companies/tbank/articles/828940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828940)
+- [Работает — не трожь: зачем обновлять Python в долгоживущих проектах](https://habr.com/ru/companies/yandex/articles/828956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828956)
 - [Каких фич не хватает K8s по мнению юзеров Reddit: толковый менеджер пакетов и устранение болей с sidecar-контейнерами](https://habr.com/ru/companies/flant/articles/822435/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822435)
 - [Задачи и роль бизнес-аналитика в разных методологиях разработки — Agile, Waterfall, Scrum](https://habr.com/ru/companies/yandex_praktikum/articles/827358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827358)
-- [Как и зачем создавать кастомные сборщики мусора в Go](https://habr.com/ru/companies/otus/articles/828664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828664)
-- [Комбинаторы в ClickHouse](https://habr.com/ru/companies/magnit/articles/825264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825264)
-- [И целых 20 ядер мало](https://habr.com/ru/articles/828788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
