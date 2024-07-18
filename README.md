@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда встретился с проблемой nullptr! = NULL лицом к лицу](https://habr.com/ru/articles/829810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829810)
 - [Использование Manim + Python для визуализации. Перестановка &lpar;комбинаторика&rpar;](https://habr.com/ru/articles/829834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829834)
 - [Как я проходил практику на одном химическом заводе](https://habr.com/ru/articles/829828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829828)
 - [Использование Etcd для построения распределенных кластеризуемых приложений](https://habr.com/ru/companies/agima/articles/829750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829750)
 - [Как много кликов сделает пользователь перед тем как заснет?](https://habr.com/ru/articles/829786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829786)
-- [Интересные неинтересные числа](https://habr.com/ru/articles/829716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
