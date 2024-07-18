@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы создавали собственную дизайн-систему для ускорения процессов разработки](https://habr.com/ru/companies/sravni/articles/829708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829708)
 - [Создание собственного API на Python &lpar;FastAPI&rpar;: Авторизация, Аутентификация и роли пользователей](https://habr.com/ru/articles/829742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829742)
 - [Declarative Gradle: рывок или прорыв?](https://habr.com/ru/companies/spring_aio/articles/829702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829702)
+- [Как не надо готовиться к CISSP. Опыт и ошибки выжившего](https://habr.com/ru/companies/jetinfosystems/articles/829284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829284)
 - [Как создать бесшовную текстуру на angular без инструкций и примеров](https://habr.com/ru/companies/pgk/articles/829678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829678)
-- [«Коллеги, добрый день»: как проводить онлайн-встречи эффективно и укладываться в полчаса](https://habr.com/ru/companies/kuper/articles/829488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829488)
-- [ИТ с пеленок. 6 игр, которые познакомят детей с программированием](https://habr.com/ru/companies/ru_mts/articles/829684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
