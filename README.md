@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Etcd для построения распределенных кластеризуемых приложений](https://habr.com/ru/companies/agima/articles/829750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829750)
+- [Как много кликов сделает пользователь перед тем как заснет?](https://habr.com/ru/articles/829786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829786)
+- [Интересные неинтересные числа](https://habr.com/ru/articles/829716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829716)
 - [Как настроить аутентификацию через SMS и Flask для самых-самых ленивых пользователей](https://habr.com/ru/companies/ru_mts/articles/829764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829764)
 - [Разложение модели числа на подмодели](https://habr.com/ru/articles/829244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829244)
-- [Как я решил сделать серию видео про устройство интерпретатора CPython](https://habr.com/ru/articles/829760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829760)
-- [Как мы создавали собственную дизайн-систему для ускорения процессов разработки](https://habr.com/ru/companies/sravni/articles/829708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829708)
-- [MapReduce на Go: превратите ваши большие данные в понятную карту и удобный редьюс](https://habr.com/ru/companies/otus/articles/828672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
