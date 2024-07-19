@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полный гайд по тестированию на Flutter. Часть 1: Знакомство с методами тестирования](https://habr.com/ru/articles/829904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829904)
+- [Антипаттерны тестирования: как не стоит писать тесты в Python. Часть 1](https://habr.com/ru/companies/otus/articles/827936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827936)
 - [Telegram bot, взаимодействующий с API OpenAI без проксирования. Разработка на Python](https://habr.com/ru/companies/amvera/articles/829592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829592)
 - [Использование Manim + Python для визуализации. Перестановка &lpar;комбинаторика&rpar;](https://habr.com/ru/articles/829834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829834)
 - [Как я проходил практику на одном химическом заводе](https://habr.com/ru/articles/829828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829828)
-- [Использование Etcd для построения распределенных кластеризуемых приложений](https://habr.com/ru/companies/agima/articles/829750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829750)
-- [Как много кликов сделает пользователь перед тем как заснет?](https://habr.com/ru/articles/829786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
