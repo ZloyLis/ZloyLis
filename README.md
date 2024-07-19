@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вырастить динозавра: масштабирование платформы YTsaurus от 200 до 20 000 хостов. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/829654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829654)
+- [Реактивный велосипед](https://habr.com/ru/articles/829910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829910)
+- [Базовые аспекты условных операторов в Python](https://habr.com/ru/companies/yandex_praktikum/articles/829208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829208)
 - [[Перевод] Полный гайд по тестированию на Flutter. Часть 1: Знакомство с методами тестирования](https://habr.com/ru/articles/829904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829904)
 - [Антипаттерны тестирования: как не стоит писать тесты в Python. Часть 1](https://habr.com/ru/companies/otus/articles/827936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827936)
-- [Telegram bot, взаимодействующий с API OpenAI без проксирования. Разработка на Python](https://habr.com/ru/companies/amvera/articles/829592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829592)
-- [Использование Manim + Python для визуализации. Перестановка &lpar;комбинаторика&rpar;](https://habr.com/ru/articles/829834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829834)
-- [Как я проходил практику на одном химическом заводе](https://habr.com/ru/articles/829828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
