@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Балансировка планов в 1С:ERP: кратко про основные подходы и решения](https://habr.com/ru/companies/otus/articles/829070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829070)
 - [Как алгоритмы KMP и Boyer-Moore улучшают поисковые системы](https://habr.com/ru/companies/otus/articles/828572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828572)
 - [[Перевод] CSS-классы вредны](https://habr.com/ru/companies/ruvds/articles/829926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829926)
 - [[Перевод] Использование Verified Permissions для реализации точной авторизации в высоконагруженных приложениях](https://habr.com/ru/companies/bercut/articles/829576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829576)
 - [Разбираемся с Vespa. Часть 1](https://habr.com/ru/companies/sportmaster_lab/articles/827460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827460)
-- [Управляем нашей лодкой прямо с веб-страницы на телефоне](https://habr.com/ru/articles/828938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
