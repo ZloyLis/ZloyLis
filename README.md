@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Очень непонятно и жутко интересно: IT-задачи на заводах](https://habr.com/ru/companies/oleg-bunin/articles/829168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829168)
 - [Каждая капля на счету или как я счетчик умным делал](https://habr.com/ru/companies/timeweb/articles/827248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827248)
 - [[Перевод] React Custom Hooks vs. Helper Functions — когда какой вариант использовать](https://habr.com/ru/articles/829918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829918)
 - [Как вырастить динозавра: масштабирование платформы YTsaurus от 200 до 20 000 хостов. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/829654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829654)
 - [Реактивный велосипед](https://habr.com/ru/articles/829910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829910)
-- [Базовые аспекты условных операторов в Python](https://habr.com/ru/companies/yandex_praktikum/articles/829208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
