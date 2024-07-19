@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Использование Verified Permissions для реализации точной авторизации в высоконагруженных приложениях](https://habr.com/ru/companies/bercut/articles/829576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829576)
 - [Разбираемся с Vespa. Часть 1](https://habr.com/ru/companies/sportmaster_lab/articles/827460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827460)
 - [Управляем нашей лодкой прямо с веб-страницы на телефоне](https://habr.com/ru/articles/828938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828938)
 - [Go Tarantool: как построить Key-value-хранилище на сотни тысяч запросов в секунду](https://habr.com/ru/companies/vk/articles/829994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829994)
 - [Защищаем K8s с помощью RBAC](https://habr.com/ru/companies/cdnnow/articles/829290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829290)
-- [Очень непонятно и жутко интересно: IT-задачи на заводах](https://habr.com/ru/companies/oleg-bunin/articles/829168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
