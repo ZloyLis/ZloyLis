@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой путь в тестирование. Сравнение двух курсов](https://habr.com/ru/articles/830228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830228)
 - [Виды инфраструктуры для развертывания автоматизированных систем](https://habr.com/ru/articles/830224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830224)
 - [Мой ТОП-5 лучших CSS-in-JS решений](https://habr.com/ru/companies/otus/articles/829322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829322)
 - [Мы сопоставили языки программирования с специализацией World Of Warcraft](https://habr.com/ru/articles/830214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830214)
 - [Expression Problem и Объектные алгебры](https://habr.com/ru/articles/828922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828922)
-- [Опыт обучения в магистратуре МФТИ «Управление IT-продуктом». Обзор первого семестра и появление стартапа ZNATNO](https://habr.com/ru/articles/830174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
