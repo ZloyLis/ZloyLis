@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт обучения в магистратуре МФТИ «Управление IT-продуктом». Обзор первого семестра и появление стартапа ZNATNO](https://habr.com/ru/articles/830174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830174)
 - [Лучшие открытые курсы для изучения PHP с нуля](https://habr.com/ru/articles/830154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830154)
 - [Библиотека nalgebra в Rust](https://habr.com/ru/companies/otus/articles/828316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828316)
 - [Часть 1. TMA на KMP. Пишем кликер на Kotlin/JS](https://habr.com/ru/articles/830120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830120)
 - [Переизобрел ECS. Паттерн Entity-State-Behaviour](https://habr.com/ru/articles/829698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829698)
-- [msgspec. Библиотека для сериализации и десериализации чего угодно](https://habr.com/ru/articles/830098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
