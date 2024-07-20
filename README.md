@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой ТОП-5 лучших CSS-in-JS решений](https://habr.com/ru/companies/otus/articles/829322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829322)
+- [Мы сопоставили языки программирования с специализацией World Of Warcraft](https://habr.com/ru/articles/830214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830214)
 - [Expression Problem и Объектные алгебры](https://habr.com/ru/articles/828922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828922)
 - [Опыт обучения в магистратуре МФТИ «Управление IT-продуктом». Обзор первого семестра и появление стартапа ZNATNO](https://habr.com/ru/articles/830174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830174)
 - [Лучшие открытые курсы для изучения PHP с нуля](https://habr.com/ru/articles/830154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830154)
-- [Библиотека nalgebra в Rust](https://habr.com/ru/companies/otus/articles/828316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828316)
-- [Часть 1. TMA на KMP. Пишем кликер на Kotlin/JS](https://habr.com/ru/articles/830120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
