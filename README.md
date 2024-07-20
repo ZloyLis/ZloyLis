@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие открытые курсы для изучения PHP с нуля](https://habr.com/ru/articles/830154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830154)
 - [Библиотека nalgebra в Rust](https://habr.com/ru/companies/otus/articles/828316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828316)
 - [Часть 1. TMA на KMP. Пишем кликер на Kotlin/JS](https://habr.com/ru/articles/830120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830120)
 - [Переизобрел ECS. Паттерн Entity-State-Behaviour](https://habr.com/ru/articles/829698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829698)
 - [msgspec. Библиотека для сериализации и десериализации чего угодно](https://habr.com/ru/articles/830098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830098)
-- [Балансировка планов в 1С:ERP: кратко про основные подходы и решения](https://habr.com/ru/companies/otus/articles/829070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
