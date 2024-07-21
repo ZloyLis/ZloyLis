@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое Data-Oriented ECS](https://habr.com/ru/articles/830294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830294)
 - [Автообновление редактора кода Zed](https://habr.com/ru/articles/830288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830288)
 - [Как мы попали в Матрицу и начали в ней жить](https://habr.com/ru/articles/830284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830284)
 - [Форматирование строк в Python](https://habr.com/ru/articles/830282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830282)
 - [Мой путь в тестирование. Сравнение двух курсов](https://habr.com/ru/articles/830228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830228)
-- [Виды инфраструктуры для развертывания автоматизированных систем](https://habr.com/ru/articles/830224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
