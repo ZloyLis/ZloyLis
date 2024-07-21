@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Большие простые числа: теория и практика их поиска](https://habr.com/ru/articles/830304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830304)
 - [Что такое Data-Oriented ECS](https://habr.com/ru/articles/830294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830294)
-- [Автообновление редактора кода Zed](https://habr.com/ru/articles/830288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830288)
 - [Как мы попали в Матрицу и начали в ней жить](https://habr.com/ru/articles/830284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830284)
 - [Форматирование строк в Python](https://habr.com/ru/articles/830282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830282)
 - [Мой путь в тестирование. Сравнение двух курсов](https://habr.com/ru/articles/830228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830228)
