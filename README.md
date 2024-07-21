@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонимный RAT при глобальном наблюдателе](https://habr.com/ru/articles/830130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830130)
 - [Как студенты двигатель Стирлинга строили](https://habr.com/ru/articles/830352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830352)
-- [Опыт разработки на языке Rust](https://habr.com/ru/articles/830336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830336)
 - [Простые, но редко используемые методы аналитики, которые улучшат показатели ваших рекламных кампаний](https://habr.com/ru/articles/830322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830322)
 - [Большие простые числа: теория и практика их поиска](https://habr.com/ru/articles/830304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830304)
 - [Что такое Data-Oriented ECS](https://habr.com/ru/articles/830294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830294)
