@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я «try|tried» написать на Rust](https://habr.com/ru/articles/830336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830336)
 - [Простые, но редко используемые методы аналитики, которые улучшат показатели ваших рекламных кампаний](https://habr.com/ru/articles/830322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830322)
 - [Большие простые числа: теория и практика их поиска](https://habr.com/ru/articles/830304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830304)
 - [Что такое Data-Oriented ECS](https://habr.com/ru/articles/830294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830294)
 - [Как мы попали в Матрицу и начали в ней жить](https://habr.com/ru/articles/830284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830284)
-- [Форматирование строк в Python](https://habr.com/ru/articles/830282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
