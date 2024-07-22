@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Война YouTube против блокировщиков рекламы](https://habr.com/ru/companies/ruvds/articles/829192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829192)
+- [О компьютере для агностиков](https://habr.com/ru/articles/830358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830358)
 - [Парсим API HeadHunter с помощью R](https://habr.com/ru/articles/830424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830424)
 - [[Перевод] Использование данных о процессе программирования для выявления различий в моделях программирования студентов](https://habr.com/ru/articles/830398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830398)
 - [[Перевод] Как устроены аннотации в Kotlin. Часть 2](https://habr.com/ru/companies/surfstudio/articles/828500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828500)
-- [[Перевод] Может ли распределение Пуассона описать статистику футбольных матчей](https://habr.com/ru/articles/830402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830402)
-- [React Hook Form: создание сложных форм для начинающих](https://habr.com/ru/companies/otus/articles/829326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
