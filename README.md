@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как перенести 1,4 ТБ с MS SQL на PostgresSQL за 13 часов](https://habr.com/ru/companies/rshb/articles/829738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829738)
-- [Удобная навигация в SwiftUI для iOS 16 и выше](https://habr.com/ru/articles/830392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830392)
-- [Talos Linux &amp;amp; VirtualBox: готовим свой Kubernetes](https://habr.com/ru/articles/825682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825682)
-- [[Перевод] Работа с массивами по новому. React Custom Hook: useArray](https://habr.com/ru/articles/830368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830368)
-- [Мобильная разработка за неделю #547 &lpar;15 — 21 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/830374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830374)
+- [Парсим API HeadHunter с помощью R](https://habr.com/ru/articles/830424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830424)
+- [[Перевод] Использование данных о процессе программирования для выявления различий в моделях программирования студентов](https://habr.com/ru/articles/830398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830398)
+- [[Перевод] Как устроены аннотации в Kotlin. Часть 2](https://habr.com/ru/companies/surfstudio/articles/828500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828500)
+- [[Перевод] Может ли распределение Пуассона описать статистику футбольных матчей](https://habr.com/ru/articles/830402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830402)
+- [React Hook Form: создание сложных форм для начинающих](https://habr.com/ru/companies/otus/articles/829326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
