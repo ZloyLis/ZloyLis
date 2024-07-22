@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удобная навигация в SwiftUI для iOS 16 и выше](https://habr.com/ru/articles/830392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830392)
 - [Talos Linux &amp;amp; VirtualBox: готовим свой Kubernetes](https://habr.com/ru/articles/825682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825682)
 - [[Перевод] Работа с массивами по новому. React Custom Hook: useArray](https://habr.com/ru/articles/830368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830368)
 - [Мобильная разработка за неделю #547 &lpar;15 — 21 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/830374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830374)
 - [Анонимный RAT при глобальном наблюдателе](https://habr.com/ru/articles/830130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830130)
-- [Как студенты двигатель Стирлинга строили](https://habr.com/ru/articles/830352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
