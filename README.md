@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестируем качественные характеристики. Как сделать сложное простым](https://habr.com/ru/companies/beeline_cloud/articles/830560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830560)
+- [Бот в блокноте: Создаем и запускаем бота для тайных покупателей](https://habr.com/ru/articles/830548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830548)
 - [Как веб-специалисту начать пентест API мобильного приложения и не сломать макбук](https://habr.com/ru/articles/830492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830492)
 - [Эволюция потребностей в работе с логами и обогащениями [Оголяемся технологически. MaxPatrol SIEM]](https://habr.com/ru/companies/pt/articles/829956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829956)
 - [[Перевод] Разработка бессерверного защищённого тайника для передачи сообщений](https://habr.com/ru/companies/wunderfund/articles/830452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830452)
-- [Случайные блуждания: связь с резистивным расстоянием &lpar;часть 1&rpar;](https://habr.com/ru/articles/830458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830458)
-- [Война YouTube против блокировщиков рекламы](https://habr.com/ru/companies/ruvds/articles/829192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
