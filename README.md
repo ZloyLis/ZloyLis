@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучение во взрослом возрасте: бросать нельзя учиться](https://habr.com/ru/companies/habr/articles/830588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830588)
 - [КОГДА СТОИТ ВЫБРАТЬ ТИЛЬДУ?](https://habr.com/ru/articles/830580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830580)
 - [[Перевод] Профессиональные игроки в покер знают оптимальную стратегию, но не всегда её используют](https://habr.com/ru/companies/ruvds/articles/830542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830542)
 - [Тестируем качественные характеристики. Как сделать сложное простым](https://habr.com/ru/companies/beeline_cloud/articles/830560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830560)
 - [Бот в блокноте: Создаем и запускаем бота для тайных покупателей](https://habr.com/ru/articles/830548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830548)
-- [Как веб-специалисту начать пентест API мобильного приложения и не сломать макбук](https://habr.com/ru/articles/830492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
