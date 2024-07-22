@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Куча таймеров в node.js](https://habr.com/ru/articles/830644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830644)
 - [Security Week 2430: сбой из-за апдейта CrowdStrike или день синих экранов](https://habr.com/ru/companies/kaspersky/articles/830562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830562)
 - [Рекурсия в Java с примером решения задачи с LeetCode](https://habr.com/ru/articles/830620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830620)
 - [Разбираемся с MavenGate. Настолько ли он страшен на самом деле](https://habr.com/ru/companies/infotecs_official/articles/830600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830600)
 - [Обучение во взрослом возрасте: бросать нельзя учиться](https://habr.com/ru/companies/habr/articles/830588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830588)
-- [КОГДА СТОИТ ВЫБРАТЬ ТИЛЬДУ?](https://habr.com/ru/articles/830580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
