@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импортирование csv или json файлов в Heroku Postgres Databases](https://habr.com/ru/articles/830818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830818)
+- [Обзор невизуальной доступности досок объявлений: сайтов и мобильных приложений](https://habr.com/ru/articles/830780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830780)
 - [Как публиковать библиотеку в Maven Central Portal в 2024 году](https://habr.com/ru/articles/830630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830630)
 - [Магия CSS на практике: советы по вёрстке от гика. Часть 2](https://habr.com/ru/companies/ruvds/articles/829174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829174)
 - [Быстрая обработка данных в data lake с помощью SQL](https://habr.com/ru/companies/oleg-bunin/articles/828836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828836)
-- [Кворум кроликов или RabbitMQ Quorum](https://habr.com/ru/articles/830442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830442)
-- [[Перевод] Полный гайд по тестированию на Flutter. Часть 2: Простые модульные тесты](https://habr.com/ru/articles/830762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
