@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript в гугл-таблицах: скрипты для расчета мультивалютной корзины](https://habr.com/ru/companies/m2tech/articles/830556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830556)
-- [От веб-настолки до 3D-метавселенной: как мы разрабатываем игру для сотрудников](https://habr.com/ru/companies/merkteam/articles/830742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830742)
-- [Как выиграть в лотерею?](https://habr.com/ru/articles/830738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830738)
-- [Законодательство РФ в области корпоративных информационных систем и ИТ](https://habr.com/ru/articles/830728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830728)
-- [Zen of Python: история, реализация и пасхалки](https://habr.com/ru/articles/825884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825884)
+- [Как публиковать библиотеку в Maven Central Portal в 2024 году](https://habr.com/ru/articles/830630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830630)
+- [Магия CSS на практике: советы по вёрстке от гика. Часть 2](https://habr.com/ru/companies/ruvds/articles/829174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829174)
+- [Быстрая обработка данных в data lake с помощью SQL](https://habr.com/ru/companies/oleg-bunin/articles/828836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828836)
+- [Кворум кроликов или RabbitMQ Quorum](https://habr.com/ru/articles/830442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830442)
+- [[Перевод] Полный гайд по тестированию на Flutter. Часть 2: Простые модульные тесты](https://habr.com/ru/articles/830762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
