@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С какими проблемами сталкиваются дизайнеры, делая сервис для арабских пользователей](https://habr.com/ru/articles/830956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830956)
+- [Как работает блокчейн: объяснение от эксперта по ML и AI Петра Емельянова](https://habr.com/ru/articles/830954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830954)
 - [Деплоим Grafana Dashboard через ArgoCD](https://habr.com/ru/companies/otus/articles/830892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830892)
 - [Самая способная девочка-программист в моей практике, которая изначально сомневалась](https://habr.com/ru/articles/830938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830938)
 - [Разворачиваем стенд для UI-тестирования iOS на базе Selenoid](https://habr.com/ru/companies/alfa/articles/830616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830616)
-- [Технологии, с которыми работает VK: Kubernetes и не только](https://habr.com/ru/companies/vk/articles/830914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830914)
-- [B2B UX: цели, задачи, роли, компетенции](https://habr.com/ru/articles/830916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
