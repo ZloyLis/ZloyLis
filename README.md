@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [B2B UX: цели, задачи, роли, компетенции](https://habr.com/ru/articles/830916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830916)
 - [[Перевод] Дизайн без процесса, или Ловушка форм-фактора](https://habr.com/ru/companies/agima/articles/830888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830888)
 - [Универсальный шаблон приветственной страницы: упрощаем онбординг в команду](https://habr.com/ru/companies/ozontech/articles/830842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830842)
 - [Ошибки в языке Go — это большая ошибка](https://habr.com/ru/companies/karuna/articles/830346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830346)
 - [5 удобных Телеграм-ботов с Chat GPT для написания кода](https://habr.com/ru/articles/830850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830850)
-- [Как мы построили сервис, который поможет сократить поиск видео контента в огромной базе данных](https://habr.com/ru/articles/830838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
