@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой список лучших и худших книг](https://habr.com/ru/articles/804877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804877)
 - [Превращаем игроманию в полезное времяпрепровождение! &lpar;1-я часть&rpar;](https://habr.com/ru/articles/830686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830686)
 - [Xv6: увеличим размер страниц виртуальной памяти с 4Кб до 2Мб](https://habr.com/ru/articles/830662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830662)
 - [Куча таймеров в node.js](https://habr.com/ru/articles/830644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830644)
 - [Security Week 2430: сбой из-за апдейта CrowdStrike или день синих экранов](https://habr.com/ru/companies/kaspersky/articles/830562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830562)
-- [Рекурсия в Java с примером решения задачи с LeetCode](https://habr.com/ru/articles/830620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
