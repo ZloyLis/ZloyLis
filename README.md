@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Импортирование csv или json файлов в Heroku Postgres Databases](https://habr.com/ru/articles/830818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830818)
-- [Обзор невизуальной доступности досок объявлений: сайтов и мобильных приложений](https://habr.com/ru/articles/830780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830780)
-- [Как публиковать библиотеку в Maven Central Portal в 2024 году](https://habr.com/ru/articles/830630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830630)
-- [Магия CSS на практике: советы по вёрстке от гика. Часть 2](https://habr.com/ru/companies/ruvds/articles/829174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829174)
-- [Быстрая обработка данных в data lake с помощью SQL](https://habr.com/ru/companies/oleg-bunin/articles/828836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828836)
+- [Как мы построили сервис по поиску видеоконтента с помощью текста](https://habr.com/ru/articles/830838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830838)
+- [14 конференций осени и 14 видеозаписей докладов](https://habr.com/ru/companies/jugru/articles/830768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830768)
+- [Приватный Kubernetes за 50 минут](https://habr.com/ru/companies/selectel/articles/830810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830810)
+- [[Перевод] Топ 5 паттернов проектирования для Spring Boot приложений](https://habr.com/ru/companies/spring_aio/articles/830496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830496)
+- [Разбираемся с новой уязвимостью Android-библиотеки Jetpack Navigation: как открыть любой фрагмент из вашего приложения?](https://habr.com/ru/companies/swordfish_security/articles/830338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
