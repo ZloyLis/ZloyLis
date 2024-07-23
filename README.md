@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Законодательство РФ в области корпоративных информационных систем и ИТ](https://habr.com/ru/articles/830728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830728)
+- [Zen of Python: история, реализация и пасхалки](https://habr.com/ru/articles/825884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825884)
 - [Managed Kubernetes. Полный список российских провайдеров](https://habr.com/ru/companies/amvera/articles/830596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830596)
 - [[Перевод] Как работает Python Asyncio: воссоздаем с нуля](https://habr.com/ru/articles/830720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830720)
 - [Мой список лучших и худших книг](https://habr.com/ru/articles/804877/?utm_source=habrahabr&utm_medium=rss&utm_campaign=804877)
-- [Превращаем игроманию в полезное времяпрепровождение! &lpar;1-я часть&rpar;](https://habr.com/ru/articles/830686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830686)
-- [Xv6: увеличим размер страниц виртуальной памяти с 4Кб до 2Мб](https://habr.com/ru/articles/830662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
