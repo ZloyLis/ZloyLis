@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ошибки в языке Go — это большая ошибка](https://habr.com/ru/companies/karuna/articles/830346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830346)
+- [5 удобных Телеграм-ботов с Chat GPT для написания кода](https://habr.com/ru/articles/830850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830850)
 - [Как мы построили сервис по поиску видеоконтента с помощью текста](https://habr.com/ru/articles/830838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830838)
 - [14 конференций осени и 14 видеозаписей докладов](https://habr.com/ru/companies/jugru/articles/830768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830768)
 - [Приватный Kubernetes за 50 минут](https://habr.com/ru/companies/selectel/articles/830810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830810)
-- [[Перевод] Топ 5 паттернов проектирования для Spring Boot приложений](https://habr.com/ru/companies/spring_aio/articles/830496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830496)
-- [Разбираемся с новой уязвимостью Android-библиотеки Jetpack Navigation: как открыть любой фрагмент из вашего приложения?](https://habr.com/ru/companies/swordfish_security/articles/830338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
