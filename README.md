@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпускные проекты участников senior-буткемпа «кодИИм» &lpar;июль 2024 г.&rpar;](https://habr.com/ru/articles/831002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831002)
+- [Дата-сайентистам: рецензия на книгу “Машинное обучение с PyTorch и Scikit-Learn”](https://habr.com/ru/companies/ssp-soft/articles/830004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830004)
+- [Случайные блуждания: связь с резистивным расстоянием &lpar;часть 2&rpar;](https://habr.com/ru/articles/830594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830594)
 - [Квантовый искусственный интеллект: пересечение квантовых вычислений и машинного обучения](https://habr.com/ru/articles/830976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830976)
 - [Работа со слоями в Nuxt 3](https://habr.com/ru/articles/830968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830968)
-- [Большие простые числа: доказательство простоты](https://habr.com/ru/articles/830958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830958)
-- [С какими проблемами сталкиваются дизайнеры, делая сервис для арабских пользователей](https://habr.com/ru/articles/830956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830956)
-- [Как работает блокчейн: объяснение от эксперта по ML и AI Петра Емельянова](https://habr.com/ru/articles/830954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
