@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От перегрузки к фокусировке: изучаем роль современных HMI в промышленной автоматизации](https://habr.com/ru/companies/reksoft/articles/831058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831058)
+- [На что обратить внимание при выборе ИТ-партнера? 7 критериев, которые не стоит упускать](https://habr.com/ru/articles/830912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830912)
+- [Что поможет настроить процесс работы с обращениями пользователей](https://habr.com/ru/companies/avito/articles/829140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829140)
 - [[Перевод] Самопаркующийся авто за 500 строк кода](https://habr.com/ru/companies/timeweb/articles/829352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829352)
 - [Как эффективно решить дизайн-задачу: задаём продакт-менеджеру правильные вопросы](https://habr.com/ru/companies/yandex_praktikum/articles/830320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830320)
-- [Как реализовать и оптимизировать UPSERT в Greenplum 6](https://habr.com/ru/companies/arenadata/articles/830864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830864)
-- [Выпускные проекты участников senior-буткемпа «кодИИм» &lpar;июль 2024 г.&rpar;](https://habr.com/ru/articles/831002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831002)
-- [Дата-сайентистам: рецензия на книгу “Машинное обучение с PyTorch и Scikit-Learn”](https://habr.com/ru/companies/ssp-soft/articles/830004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
