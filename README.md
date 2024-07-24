@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрый старт: Docker + SMTP + Java/Go](https://habr.com/ru/articles/831230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831230)
+- [Почему мне не понравилась нейросеть Codeium](https://habr.com/ru/articles/831222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831222)
 - [Обучение языковых моделей на примере сервиса протоколирования встреч AiGenda](https://habr.com/ru/articles/831202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831202)
 - [[Перевод] Реализация паттерна Fluent API с помощью Playwright и Javascript/Typescript](https://habr.com/ru/articles/831190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831190)
 - [[Перевод] Красота и изящество таблицы ASCII](https://habr.com/ru/companies/ruvds/articles/831138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831138)
-- [Flyway + Spring Boot: настройка и написание миграций баз данных](https://habr.com/ru/companies/haulmont/articles/829782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829782)
-- [Как cделать тестирование кода более эффективным: принципы F.I.R.S.T](https://habr.com/ru/articles/830962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
