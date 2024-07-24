@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прошиваем программу не только в начало FLASH памяти STM32](https://habr.com/ru/articles/831016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831016)
+- [Фиксим баги в вашем AI или разбор ошибок в OpenVINO](https://habr.com/ru/companies/pvs-studio/articles/831080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831080)
 - [От перегрузки к фокусировке: изучаем роль современных HMI в промышленной автоматизации](https://habr.com/ru/companies/reksoft/articles/831058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831058)
 - [На что обратить внимание при выборе ИТ-партнера? 7 критериев, которые не стоит упускать](https://habr.com/ru/articles/830912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830912)
 - [Что поможет настроить процесс работы с обращениями пользователей](https://habr.com/ru/companies/avito/articles/829140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829140)
-- [[Перевод] Самопаркующийся авто за 500 строк кода](https://habr.com/ru/companies/timeweb/articles/829352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829352)
-- [Как эффективно решить дизайн-задачу: задаём продакт-менеджеру правильные вопросы](https://habr.com/ru/companies/yandex_praktikum/articles/830320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
