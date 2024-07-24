@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Красота и изящество таблицы ASCII](https://habr.com/ru/companies/ruvds/articles/831138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831138)
+- [Flyway + Spring Boot: настройка и написание миграций баз данных](https://habr.com/ru/companies/haulmont/articles/829782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829782)
 - [Как cделать тестирование кода более эффективным: принципы F.I.R.S.T](https://habr.com/ru/articles/830962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830962)
 - [Строим свой WYSIWYG с помощью LexicalJs](https://habr.com/ru/companies/beeline_tech/articles/825316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825316)
-- [Я перестал использовать Copilot после 2 месяц. И вот почему](https://habr.com/ru/articles/831140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831140)
-- [Как работают изоляты в Dart?](https://habr.com/ru/companies/otus/articles/831120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831120)
-- [Bug Bounty в России: как дела с белыми русскими хакерами?](https://habr.com/ru/companies/vk/articles/830922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830922)
+- [Я перестал использовать Copilot после 2 месяцев. И вот почему](https://habr.com/ru/articles/831140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
