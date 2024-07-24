@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Прошиваем программу не только в начало FLASH памяти STM32](https://habr.com/ru/articles/831016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831016)
-- [Фиксим баги в вашем AI или разбор ошибок в OpenVINO](https://habr.com/ru/companies/pvs-studio/articles/831080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831080)
-- [От перегрузки к фокусировке: изучаем роль современных HMI в промышленной автоматизации](https://habr.com/ru/companies/reksoft/articles/831058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831058)
-- [На что обратить внимание при выборе ИТ-партнера? 7 критериев, которые не стоит упускать](https://habr.com/ru/articles/830912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830912)
-- [Что поможет настроить процесс работы с обращениями пользователей](https://habr.com/ru/companies/avito/articles/829140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829140)
+- [Как cделать тестирование кода более эффективным: принципы F.I.R.S.T](https://habr.com/ru/articles/830962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830962)
+- [Строим свой WYSIWYG с помощью LexicalJs](https://habr.com/ru/companies/beeline_tech/articles/825316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825316)
+- [Я перестал использовать Copilot после 2 месяц. И вот почему](https://habr.com/ru/articles/831140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831140)
+- [Как работают изоляты в Dart?](https://habr.com/ru/companies/otus/articles/831120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831120)
+- [Bug Bounty в России: как дела с белыми русскими хакерами?](https://habr.com/ru/companies/vk/articles/830922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
