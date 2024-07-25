@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Студенты будущего: как получить образование от ИТ-кампуса НЕЙМАРК уже в 2024 году?](https://habr.com/ru/companies/neimark/articles/831508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831508)
+- [Стажер, который смог: советы по выживанию на стажировке от Junior-разрабов и их менторов](https://habr.com/ru/companies/agima/articles/831466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831466)
+- [Частный взгляд на структурирование файлов при разработке SPA](https://habr.com/ru/articles/831484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831484)
 - [Книга: «Фулстек-тестирование»](https://habr.com/ru/companies/piter/articles/831200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831200)
 - [Жизнь во время ревью: как помирить Лешу и Славу и при этом не обидеть Колю…](https://habr.com/ru/companies/barsgroup/articles/831456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831456)
-- [Задача трёх тел &lpar;не китайская нефантастика&rpar;](https://habr.com/ru/articles/830618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830618)
-- [Внутренние коммуникации инженеров: как поддержать командный дух на удалёнке](https://habr.com/ru/companies/2gis/articles/831436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831436)
-- [Как разработчик систему продуктовой аналитики Posthog подключал](https://habr.com/ru/articles/831428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
