@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ElasticSearch — поиск последовательности в тексте](https://habr.com/ru/companies/tbank/articles/831498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831498)
+- [Как управлять вниманием пользователя](https://habr.com/ru/companies/friflex/articles/831524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831524)
 - [Студенты будущего: как получить образование от ИТ-кампуса НЕЙМАРК уже в 2024 году?](https://habr.com/ru/companies/neimark/articles/831508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831508)
 - [Стажер, который смог: советы по выживанию на стажировке от Junior-разрабов и их менторов](https://habr.com/ru/companies/agima/articles/831466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831466)
 - [Частный взгляд на структурирование файлов при разработке SPA](https://habr.com/ru/articles/831484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831484)
-- [Книга: «Фулстек-тестирование»](https://habr.com/ru/companies/piter/articles/831200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831200)
-- [Жизнь во время ревью: как помирить Лешу и Славу и при этом не обидеть Колю…](https://habr.com/ru/companies/barsgroup/articles/831456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
