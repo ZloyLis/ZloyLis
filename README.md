@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полный гайд по тестированию на Flutter. Часть 3: Mocking и Stubbing](https://habr.com/ru/articles/831094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831094)
+- [Получаем белый IP с помощью VDS за копейки](https://habr.com/ru/articles/831306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831306)
 - [Как мы уменьшили количество кода для генерации графиков в 10 раз, сделав Vue-компонент](https://habr.com/ru/articles/830608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830608)
 - [Как мы переводили автоматизированную банковскую систему RS-Bank V.6 на импортозамещенный стек](https://habr.com/ru/companies/rshb/articles/830752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830752)
 - [[Перевод] Интеграция REST и MQ брокеров сообщений через шлюз OpenIG](https://habr.com/ru/articles/828832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828832)
-- [Как запускать WebAssembly-приложения в Kubernetes с помощью Deckhouse](https://habr.com/ru/companies/flant/articles/829946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829946)
-- [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 2: планирование и исполнение](https://habr.com/ru/companies/yandex_praktikum/articles/830044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
