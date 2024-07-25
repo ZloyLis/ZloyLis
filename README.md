@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайн-тренды  2025](https://habr.com/ru/articles/831382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831382)
 - [Telegram вместо студии звукозаписи: как я создал бота для мобильных музыкантов](https://habr.com/ru/companies/selectel/articles/831348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831348)
 - [Ставим диагноз по базе знаний: ваш чек-лист по проблемам в процессах](https://habr.com/ru/companies/lamoda/articles/828422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828422)
 - [Нужно ли техническое образование программисту?](https://habr.com/ru/articles/831338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831338)
 - [[Перевод] Полный гайд по тестированию на Flutter. Часть 3: Mocking и Stubbing](https://habr.com/ru/articles/831094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831094)
-- [Получаем белый IP с помощью VDS за копейки](https://habr.com/ru/articles/831306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
