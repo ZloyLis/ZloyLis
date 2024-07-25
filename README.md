@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как наш ученик попал на стажировку в VK. История Артёма Мазура](https://habr.com/ru/articles/831252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831252)
-- [Быстрый старт: Docker + SMTP + Java/Go](https://habr.com/ru/articles/831230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831230)
-- [Почему мне не понравилась нейросеть Codeium](https://habr.com/ru/articles/831222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831222)
-- [Обучение языковых моделей на примере сервиса протоколирования встреч AiGenda](https://habr.com/ru/articles/831202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831202)
-- [[Перевод] Реализация паттерна Fluent API с помощью Playwright и Javascript/Typescript](https://habr.com/ru/articles/831190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831190)
+- [Как мы уменьшили количество кода для генерации графиков в 10 раз, сделав Vue-компонент](https://habr.com/ru/articles/830608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830608)
+- [Как мы переводили автоматизированную банковскую систему RS-Bank V.6 на импортозамещенный стек](https://habr.com/ru/companies/rshb/articles/830752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830752)
+- [[Перевод] Интеграция REST и MQ брокеров сообщений через шлюз OpenIG](https://habr.com/ru/articles/828832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828832)
+- [Как запускать WebAssembly-приложения в Kubernetes с помощью Deckhouse](https://habr.com/ru/companies/flant/articles/829946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829946)
+- [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 2: планирование и исполнение](https://habr.com/ru/companies/yandex_praktikum/articles/830044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
