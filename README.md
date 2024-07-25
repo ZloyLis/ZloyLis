@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с геометрией в JPA и Spring Boot 3](https://habr.com/ru/articles/831566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831566)
+- [Использование алгоритма Бойера-Мура-Хорспула в Java с примером решения задачи с LeetCode](https://habr.com/ru/articles/831562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831562)
+- [justCTF 2024 [teaser] — blockchain](https://habr.com/ru/companies/radcop/articles/831560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831560)
 - [[Перевод] Пишем собственный макрос на Dart 3.5: глубокий разбор](https://habr.com/ru/articles/831546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831546)
 - [ElasticSearch — поиск последовательности в тексте](https://habr.com/ru/companies/tbank/articles/831498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831498)
-- [Как управлять вниманием пользователя](https://habr.com/ru/companies/friflex/articles/831524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831524)
-- [Студенты будущего: как получить образование от ИТ-кампуса НЕЙМАРК уже в 2024 году?](https://habr.com/ru/companies/neimark/articles/831508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831508)
-- [Стажер, который смог: советы по выживанию на стажировке от Junior-разрабов и их менторов](https://habr.com/ru/companies/agima/articles/831466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
