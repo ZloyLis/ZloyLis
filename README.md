@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Жизнь во время ревью: как помирить Лешу и Славу и при этом не обидеть Колю…](https://habr.com/ru/companies/barsgroup/articles/831456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831456)
+- [Задача трёх тел &lpar;не китайская нефантастика&rpar;](https://habr.com/ru/articles/830618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830618)
 - [Внутренние коммуникации инженеров: как поддержать командный дух на удалёнке](https://habr.com/ru/companies/2gis/articles/831436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831436)
 - [Как разработчик систему продуктовой аналитики Posthog подключал](https://habr.com/ru/articles/831428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831428)
 - [Разработка игр под Apple Vision Pro: ARKit, realityKit, Reality Composer Pro](https://habr.com/ru/articles/831422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831422)
-- [Создание собственного API на Python &lpar;FastAPI&rpar;: Подключаем фронтенд и статические файлы](https://habr.com/ru/articles/831386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831386)
-- [Дизайн-тренды  2025](https://habr.com/ru/articles/831382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
