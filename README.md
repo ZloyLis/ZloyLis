@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реверсинг приложений под Android. Ищем уязвимости](https://habr.com/ru/companies/otus/articles/830124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830124)
+- [Случайные блуждания: связь с резистивным расстоянием &lpar;часть 3&rpar;](https://habr.com/ru/articles/831490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831490)
 - [Ускорение генерации токена LLM в два раза для больших контекстов](https://habr.com/ru/articles/817009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817009)
 - [Приглашаем на летне-осенние лекции по игровой индустрии и IT в ВШБ](https://habr.com/ru/companies/miip/articles/831556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831556)
 - [Простые приёмы, которые сделают ваш код нагляднее](https://habr.com/ru/articles/831570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831570)
-- [Работа с геометрией в JPA и Spring Boot 3](https://habr.com/ru/articles/831566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831566)
-- [Использование алгоритма Бойера-Мура-Хорспула в Java с примером решения задачи с LeetCode](https://habr.com/ru/articles/831562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
