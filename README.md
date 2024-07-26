@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мои взгляды на программирование на июль 2024 года](https://habr.com/ru/companies/productivity_inside/articles/831734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831734)
+- [Обеспечение качества на всём пайплайне разработки, или как создавать продукты, отвечающие ожиданиям](https://habr.com/ru/companies/vk/articles/831432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831432)
 - [Дебажим баги в дебаггере x64dbg. Без дебаггера](https://habr.com/ru/companies/pvs-studio/articles/831698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831698)
 - [Как понять, что вашему бизнесу необходимо приложение: простейшие подходы для определения потребности и перспектив](https://habr.com/ru/articles/831690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831690)
 - [Собеседование в энтерпрайз](https://habr.com/ru/articles/829870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829870)
-- [Подсветка элементов онбординга. Spotlight onboarding / Highlight element. SwiftUI iOS15+](https://habr.com/ru/companies/ozontech/articles/830802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830802)
-- [Интерполяция: рисуем плавные графики с помощью кривых Безье. Версия 2](https://habr.com/ru/articles/831662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
