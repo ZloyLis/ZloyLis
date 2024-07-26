@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собеседование в энтерпрайз](https://habr.com/ru/articles/829870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829870)
+- [Подсветка элементов онбординга. Spotlight onboarding / Highlight element. SwiftUI iOS15+](https://habr.com/ru/companies/ozontech/articles/830802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830802)
+- [Интерполяция: рисуем плавные графики с помощью кривых Безье. Версия 2](https://habr.com/ru/articles/831662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831662)
 - [Flutter. Стиль кода — это все](https://habr.com/ru/articles/831470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831470)
 - [Волшебный чемоданчик c инструментами создания графики для продуктового дизайнера](https://habr.com/ru/companies/alfa/articles/831376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831376)
-- [TypeScript + React: путь к идеально типизированному коду](https://habr.com/ru/companies/otus/articles/829626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829626)
-- [Пройти собеседование на аналитика 1С. Миссия выполнима?](https://habr.com/ru/companies/sigma/articles/831476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831476)
-- [Создание игр на Unity: с чего начать?](https://habr.com/ru/articles/828302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
