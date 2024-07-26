@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть 2. TMA на KMP. Пишем кликер для Telegram](https://habr.com/ru/articles/831696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831696)
 - [Как написать мод для TrackMania 2020 и не запутаться](https://habr.com/ru/companies/selectel/articles/831320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831320)
 - [[Перевод] Реализация сапёра в 100 строках чистого Ruby](https://habr.com/ru/companies/ruvds/articles/830778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830778)
 - [Пожалуй, самый простой способ спасти ваше .NET-приложение, или Prometheus &lpar;и не только&rpar; спешит на помощь](https://habr.com/ru/companies/kaspersky/articles/826038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826038)
 - [Заставляем работать MinIO и Postgresql вместе](https://habr.com/ru/articles/831668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831668)
-- [[Перевод] Как разработать онлайновый компилятор кода при помощи Java и Docker](https://habr.com/ru/companies/piter/articles/831704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
