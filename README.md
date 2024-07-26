@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заставляем работать MinIO и Postgresql вместе](https://habr.com/ru/articles/831668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831668)
+- [[Перевод] Как разработать онлайновый компилятор кода при помощи Java и Docker](https://habr.com/ru/companies/piter/articles/831704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831704)
+- [Как модульное тестирование сокращает затраты программиста](https://habr.com/ru/companies/psb/articles/831748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831748)
+- [Выбор JavaScript фреймворка: Сравнение React, Angular и Vue Глазами Разработчика](https://habr.com/ru/articles/831726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831726)
 - [[Перевод] Мои взгляды на программирование на июль 2024 года](https://habr.com/ru/companies/productivity_inside/articles/831734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831734)
-- [Обеспечение качества на всём пайплайне разработки, или как создавать продукты, отвечающие ожиданиям](https://habr.com/ru/companies/vk/articles/831432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831432)
-- [Дебажим баги в дебаггере x64dbg. Без дебаггера](https://habr.com/ru/companies/pvs-studio/articles/831698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831698)
-- [Как понять, что вашему бизнесу необходимо приложение: простейшие подходы для определения потребности и перспектив](https://habr.com/ru/articles/831690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831690)
-- [Собеседование в энтерпрайз](https://habr.com/ru/articles/829870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
