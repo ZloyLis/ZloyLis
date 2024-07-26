@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание игр на Unity: с чего начать?](https://habr.com/ru/articles/828302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828302)
 - [Игрушечная имлементация чисел с фиксированной точкой в C++](https://habr.com/ru/articles/831624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831624)
 - [Чем заменить Docker Hub в России](https://habr.com/ru/articles/831608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831608)
 - [Реверсинг приложений под Android. Ищем уязвимости](https://habr.com/ru/companies/otus/articles/830124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830124)
 - [Случайные блуждания: связь с резистивным расстоянием &lpar;часть 3&rpar;](https://habr.com/ru/articles/831490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831490)
-- [Ускорение генерации токена LLM в два раза для больших контекстов](https://habr.com/ru/articles/817009/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817009)
 <!-- BLOG-POST-LIST:END -->
 
 ---
