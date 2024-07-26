@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать мод для TrackMania 2020 и не запутаться](https://habr.com/ru/companies/selectel/articles/831320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831320)
+- [[Перевод] Реализация сапёра в 100 строках чистого Ruby](https://habr.com/ru/companies/ruvds/articles/830778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830778)
+- [Пожалуй, самый простой способ спасти ваше .NET-приложение, или Prometheus &lpar;и не только&rpar; спешит на помощь](https://habr.com/ru/companies/kaspersky/articles/826038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826038)
 - [Заставляем работать MinIO и Postgresql вместе](https://habr.com/ru/articles/831668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831668)
 - [[Перевод] Как разработать онлайновый компилятор кода при помощи Java и Docker](https://habr.com/ru/companies/piter/articles/831704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831704)
-- [Как модульное тестирование сокращает затраты программиста](https://habr.com/ru/companies/psb/articles/831748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831748)
-- [Выбор JavaScript фреймворка: Сравнение React, Angular и Vue Глазами Разработчика](https://habr.com/ru/articles/831726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831726)
-- [[Перевод] Мои взгляды на программирование на июль 2024 года](https://habr.com/ru/companies/productivity_inside/articles/831734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
