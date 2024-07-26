@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter. Стиль кода — это все](https://habr.com/ru/articles/831470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831470)
+- [Волшебный чемоданчик c инструментами создания графики для продуктового дизайнера](https://habr.com/ru/companies/alfa/articles/831376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831376)
+- [TypeScript + React: путь к идеально типизированному коду](https://habr.com/ru/companies/otus/articles/829626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829626)
+- [Пройти собеседование на аналитика 1С. Миссия выполнима?](https://habr.com/ru/companies/sigma/articles/831476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831476)
 - [Создание игр на Unity: с чего начать?](https://habr.com/ru/articles/828302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828302)
-- [Игрушечная имлементация чисел с фиксированной точкой в C++](https://habr.com/ru/articles/831624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831624)
-- [Чем заменить Docker Hub в России](https://habr.com/ru/articles/831608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831608)
-- [Реверсинг приложений под Android. Ищем уязвимости](https://habr.com/ru/companies/otus/articles/830124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830124)
-- [Случайные блуждания: связь с резистивным расстоянием &lpar;часть 3&rpar;](https://habr.com/ru/articles/831490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
