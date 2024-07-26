@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать психологию цвета в маркетинге для повышения продаж](https://habr.com/ru/articles/831836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831836)
 - [Как продукту попасть в очередь исследовательского бэклога &lpar;и желательно долго в ней не стоять&rpar;](https://habr.com/ru/companies/vk/articles/831796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831796)
 - [User-Centered Design &lpar;UCD&rpar; Process: Полное руководство](https://habr.com/ru/articles/831782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831782)
 - [Часть 2. TMA на KMP. Пишем кликер для Telegram](https://habr.com/ru/articles/831696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831696)
 - [Как написать мод для TrackMania 2020 и не запутаться](https://habr.com/ru/companies/selectel/articles/831320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831320)
-- [[Перевод] Реализация сапёра в 100 строках чистого Ruby](https://habr.com/ru/companies/ruvds/articles/830778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
