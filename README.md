@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я победил замедление YouTube](https://habr.com/ru/articles/831846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831846)
 - [Переадресация портов в Kubernetes: команда kubectl port-forward](https://habr.com/ru/companies/otus/articles/829866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829866)
 - [Как использовать психологию цвета в маркетинге для повышения продаж](https://habr.com/ru/articles/831836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831836)
 - [Как продукту попасть в очередь исследовательского бэклога &lpar;и желательно долго в ней не стоять&rpar;](https://habr.com/ru/companies/vk/articles/831796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831796)
 - [User-Centered Design &lpar;UCD&rpar; Process: Полное руководство](https://habr.com/ru/articles/831782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831782)
-- [Часть 2. TMA на KMP. Пишем кликер для Telegram](https://habr.com/ru/articles/831696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
