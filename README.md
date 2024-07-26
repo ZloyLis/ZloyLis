@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дебажим баги в дебаггере x64dbg. Без дебаггера](https://habr.com/ru/companies/pvs-studio/articles/831698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831698)
+- [Как понять, что вашему бизнесу необходимо приложение: простейшие подходы для определения потребности и перспектив](https://habr.com/ru/articles/831690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831690)
 - [Собеседование в энтерпрайз](https://habr.com/ru/articles/829870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829870)
 - [Подсветка элементов онбординга. Spotlight onboarding / Highlight element. SwiftUI iOS15+](https://habr.com/ru/companies/ozontech/articles/830802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830802)
 - [Интерполяция: рисуем плавные графики с помощью кривых Безье. Версия 2](https://habr.com/ru/articles/831662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831662)
-- [Flutter. Стиль кода — это все](https://habr.com/ru/articles/831470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831470)
-- [Волшебный чемоданчик c инструментами создания графики для продуктового дизайнера](https://habr.com/ru/companies/alfa/articles/831376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
