@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что на неделе: складной iPhone, сервис знакомств для деревьев и самый быстрый автомобиль от Xiaomi](https://habr.com/ru/companies/agima/articles/831826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831826)
+- [Стать программистом: не с нуля не до профи &lpar;Flutter и не только&rpar;](https://habr.com/ru/articles/831876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831876)
 - [Разнообразные орбиобразия](https://habr.com/ru/articles/831872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831872)
 - [Кратко про сетевые протоколы в Golang: TCP, QUIC и UDP](https://habr.com/ru/companies/otus/articles/830096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830096)
 - [Я победил замедление YouTube](https://habr.com/ru/articles/831846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831846)
-- [Переадресация портов в Kubernetes: команда kubectl port-forward](https://habr.com/ru/companies/otus/articles/829866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829866)
-- [Как использовать психологию цвета в маркетинге для повышения продаж](https://habr.com/ru/articles/831836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
