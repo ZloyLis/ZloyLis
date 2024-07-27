@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое трассировка требований в проекте и почему она важна?](https://habr.com/ru/articles/831922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831922)
+- [LLM и ее невозможный ASCII art](https://habr.com/ru/articles/831786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831786)
+- [PinLockSreen на основе KeyStore. Kotlin. Jetpack Compose](https://habr.com/ru/articles/831914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831914)
 - [iOS 18 PHAsset URL из requestAVAsset](https://habr.com/ru/articles/831902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831902)
 - [Парадокс береговой линии &lpar;или как завалить ученика на уроке географии&rpar;](https://habr.com/ru/articles/831604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831604)
-- [[Перевод] Rust 1.80.0: типы LazyCell, LazyLock, проверяемые имена и значения cfg, эксклюзивные диапазоны в шаблонах](https://habr.com/ru/articles/831894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831894)
-- [Гарантированный успех: решай любые тесты на 100% с мощью GPT в твоем браузере](https://habr.com/ru/articles/831892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831892)
-- [Что на неделе: складной iPhone, сервис знакомств для деревьев и самый быстрый автомобиль от Xiaomi](https://habr.com/ru/companies/agima/articles/831826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
