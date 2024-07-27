@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust 1.80.0: типы LazyCell, LazyLock, проверяемые имена и значения cfg, эксклюзивные диапазоны в шаблонах](https://habr.com/ru/articles/831894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831894)
+- [Гарантированный успех: решай любые тесты на 100% с мощью GPT в твоем браузере](https://habr.com/ru/articles/831892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831892)
 - [Что на неделе: складной iPhone, сервис знакомств для деревьев и самый быстрый автомобиль от Xiaomi](https://habr.com/ru/companies/agima/articles/831826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831826)
 - [Стать программистом: не с нуля не до профи &lpar;Flutter и не только&rpar;](https://habr.com/ru/articles/831876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831876)
 - [Разнообразные орбиобразия](https://habr.com/ru/articles/831872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831872)
-- [Кратко про сетевые протоколы в Golang: TCP, QUIC и UDP](https://habr.com/ru/companies/otus/articles/830096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830096)
-- [Я победил замедление YouTube](https://habr.com/ru/articles/831846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
