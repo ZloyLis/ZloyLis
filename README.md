@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [К технологической сингулярности на примере Android продукта для смартчасов](https://habr.com/ru/articles/832050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832050)
+- [Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 2](https://habr.com/ru/articles/820385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820385)
 - [WebSim AI: Бесплатный ИИ-помощник для быстрой веб-разработки – время фронтендерам напрячься](https://habr.com/ru/articles/832046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832046)
 - [Большие простые числа: вес последовательностей](https://habr.com/ru/articles/832032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832032)
 - [Дизайн встраиваемой базы данных для ANN запросов: MusyaDB](https://habr.com/ru/articles/832016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832016)
