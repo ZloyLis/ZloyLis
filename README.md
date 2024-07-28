@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайн встраиваемой базы данных для ANN запросов: MusyaDB](https://habr.com/ru/articles/832016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832016)
 - [[Перевод] Kubernetes становится вендоронезависимым после изменения 1,5 млн. строк кода](https://habr.com/ru/companies/amvera/articles/832004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832004)
 - [[Перевод] Как программные ошибки приводят к катастрофическим последствиям](https://habr.com/ru/companies/ruvds/articles/831590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831590)
 - [Как синхронизировать потоки в Java](https://habr.com/ru/companies/otus/articles/830356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830356)
-- [Часть 2. Алгоритм Тарьяна для приведения нелинейных системы уравнений к вычисляемой последовательности подстановок](https://habr.com/ru/articles/831950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831950)
-- [Заметки по архитектуре .NET библиотеки: кастомные структуры как средство валидации значений](https://habr.com/ru/articles/831960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831960)
+- [Часть 2. Алгоритм Тарьяна для приведения нелинейной системы уравнений к вычисляемой последовательности подстановок](https://habr.com/ru/articles/831950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
