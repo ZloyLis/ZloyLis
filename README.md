@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как синхронизировать потоки в Java](https://habr.com/ru/companies/otus/articles/830356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830356)
+- [Часть 2. Алгоритм Тарьяна для приведения нелинейных системы уравнений к вычисляемой последовательности подстановок](https://habr.com/ru/articles/831950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831950)
 - [Заметки по архитектуре .NET библиотеки: кастомные структуры как средство валидации значений](https://habr.com/ru/articles/831960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831960)
 - [Я хожу в офис и мне комфортно: истории айтишников, которым не подходит работа на удалёнке](https://habr.com/ru/companies/netologyru/articles/831732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831732)
 - [Как делают смартфоны: смотрим на редкий девкит процессора Qualcomm Snapdragon 410](https://habr.com/ru/companies/timeweb/articles/831580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831580)
-- [Что такое трассировка требований в проекте и почему она важна?](https://habr.com/ru/articles/831922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831922)
-- [LLM и ее невозможный ASCII art](https://habr.com/ru/articles/831786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
