@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [К технологической сингулярности на примере Android продукта для смартчасов](https://habr.com/ru/articles/832050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832050)
+- [WebSim AI: Бесплатный ИИ-помощник для быстрой веб-разработки – время фронтендерам напрячься](https://habr.com/ru/articles/832046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832046)
 - [Большие простые числа: вес последовательностей](https://habr.com/ru/articles/832032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832032)
 - [Дизайн встраиваемой базы данных для ANN запросов: MusyaDB](https://habr.com/ru/articles/832016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832016)
 - [[Перевод] Kubernetes становится вендоронезависимым после изменения 1,5 млн. строк кода](https://habr.com/ru/companies/amvera/articles/832004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832004)
-- [[Перевод] Как программные ошибки приводят к катастрофическим последствиям](https://habr.com/ru/companies/ruvds/articles/831590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831590)
-- [Как синхронизировать потоки в Java](https://habr.com/ru/companies/otus/articles/830356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
