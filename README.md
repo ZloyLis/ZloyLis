@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Имплементация чисел с фиксированной точкой &lpar;часть 2&rpar;](https://habr.com/ru/articles/832258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832258)
+- [React: одна любопытная особенность порталов](https://habr.com/ru/companies/timeweb/articles/828816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828816)
+- [[Перевод] Пишем за неделю 3D-редактор на C](https://habr.com/ru/companies/ruvds/articles/832168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832168)
+- [Переход в крупную IT-компанию: опыт и адаптация разработчика](https://habr.com/ru/articles/832246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832246)
 - [[Перевод] ИИ-модели ломаются при обучении на рекурсивно сгенерированных данных](https://habr.com/ru/companies/bothub/articles/832216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832216)
-- [Использование алгоритма бинарного поиска для нахождения квадратного корня числа на Java](https://habr.com/ru/articles/832212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832212)
-- [Как я в 35 пытался стать Python-разработчиком, и почему у меня [пока] ничего не вышло](https://habr.com/ru/articles/832186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832186)
-- [Базы данных. Основы разработки и работа с индексами в PostgreSQL](https://habr.com/ru/companies/factory5/articles/832174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832174)
-- [Эволюция API: от монолита к открытой платформе](https://habr.com/ru/companies/ascon/articles/832152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
