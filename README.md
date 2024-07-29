@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Базы данных. Основы разработки и работа с индексами в PostgreSQL](https://habr.com/ru/companies/factory5/articles/832174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832174)
+- [Эволюция API: от монолита к открытой платформе](https://habr.com/ru/companies/ascon/articles/832152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832152)
+- [Цикл статей о Greenplum. Часть 2. Оптимальный DDL](https://habr.com/ru/companies/axenix/articles/832126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832126)
 - [[Перевод] Тренажерный зал без смартфонов](https://habr.com/ru/articles/832148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832148)
 - [Активоцентричность и хранение данных [Оголяемся технологически. MaxPatrol SIEM]](https://habr.com/ru/companies/pt/articles/831106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831106)
-- [1400 строк кода без программирования: как я собрал ИИ-бота с помощью Claude](https://habr.com/ru/articles/832146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832146)
-- [Текстовые квесты… на Telegram](https://habr.com/ru/articles/829670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829670)
-- [[Перевод] О создании системы, преобразующей текст в SQL для аналитиков Pinterest](https://habr.com/ru/companies/wunderfund/articles/832092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
