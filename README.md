@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Аутентификация в SPA приложении через OpenAM используя OAuth2/OIDC](https://habr.com/ru/articles/796511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796511)
 - [Создание CLI утилит на Go с библиотекой Cobra](https://habr.com/ru/companies/otus/articles/830082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830082)
 - [[Опрос IT-шников] граница между программой и скриптом](https://habr.com/ru/articles/832086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832086)
 - [Мобильная разработка за неделю #548 &lpar;22 — 28 июля&rpar;](https://habr.com/ru/companies/productivity_inside/articles/832076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832076)
 - [На кой review это надо?](https://habr.com/ru/articles/831856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831856)
-- [Шаблон Go-микросервиса для начинающих от .NET разработчика. Часть 2](https://habr.com/ru/articles/820385/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820385)
 <!-- BLOG-POST-LIST:END -->
 
 ---
