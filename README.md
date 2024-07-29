@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevTools наносят ответный удар](https://habr.com/ru/articles/831978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831978)
-- [Как мы управляем секретами в Банки.ру: Vault HashiCorp и мечта об одной безопасной кнопке](https://habr.com/ru/companies/banki/articles/831510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831510)
-- [PostgreSQL 16. Страницы и версии строк. Часть 3](https://habr.com/ru/articles/830924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830924)
-- [Тысяча и одна библиотека С++](https://habr.com/ru/articles/831754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831754)
-- [[Перевод] Аутентификация в SPA приложении через OpenAM используя OAuth2/OIDC](https://habr.com/ru/articles/796511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796511)
+- [[Перевод] Тренажерный зал без смартфонов](https://habr.com/ru/articles/832148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832148)
+- [Активоцентричность и хранение данных [Оголяемся технологически. MaxPatrol SIEM]](https://habr.com/ru/companies/pt/articles/831106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831106)
+- [1400 строк кода без программирования: как я собрал ИИ-бота с помощью Claude](https://habr.com/ru/articles/832146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832146)
+- [Текстовые квесты… на Telegram](https://habr.com/ru/articles/829670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829670)
+- [[Перевод] О создании системы, преобразующей текст в SQL для аналитиков Pinterest](https://habr.com/ru/companies/wunderfund/articles/832092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
