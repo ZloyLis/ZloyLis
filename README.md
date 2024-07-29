@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DevTools наносят ответный удар](https://habr.com/ru/articles/831978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831978)
+- [Как мы управляем секретами в Банки.ру: Vault HashiCorp и мечта об одной безопасной кнопке](https://habr.com/ru/companies/banki/articles/831510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831510)
 - [PostgreSQL 16. Страницы и версии строк. Часть 3](https://habr.com/ru/articles/830924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830924)
 - [Тысяча и одна библиотека С++](https://habr.com/ru/articles/831754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831754)
 - [[Перевод] Аутентификация в SPA приложении через OpenAM используя OAuth2/OIDC](https://habr.com/ru/articles/796511/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796511)
-- [Создание CLI утилит на Go с библиотекой Cobra](https://habr.com/ru/companies/otus/articles/830082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830082)
-- [[Опрос IT-шников] граница между программой и скриптом](https://habr.com/ru/articles/832086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
