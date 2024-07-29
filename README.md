@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мастер-аккаунт Zeekr. Как Arduino поможет Вашему китайскому авто?](https://habr.com/ru/articles/828748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828748)
+- [[Перевод] Создание масштабируемых приложений при помощи Kafka и реактивного программирования Mahi Mullapudi](https://habr.com/ru/companies/piter/articles/831772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831772)
 - [Имплементация чисел с фиксированной точкой &lpar;часть 2&rpar;](https://habr.com/ru/articles/832258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832258)
 - [React: одна любопытная особенность порталов](https://habr.com/ru/companies/timeweb/articles/828816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828816)
 - [[Перевод] Пишем за неделю 3D-редактор на C](https://habr.com/ru/companies/ruvds/articles/832168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832168)
-- [Переход в крупную IT-компанию: опыт и адаптация разработчика](https://habr.com/ru/articles/832246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832246)
-- [[Перевод] ИИ-модели ломаются при обучении на рекурсивно сгенерированных данных](https://habr.com/ru/companies/bothub/articles/832216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
