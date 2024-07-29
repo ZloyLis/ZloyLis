@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ИИ-модели ломаются при обучении на рекурсивно сгенерированных данных](https://habr.com/ru/companies/bothub/articles/832216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832216)
+- [Использование алгоритма бинарного поиска для нахождения квадратного корня числа на Java](https://habr.com/ru/articles/832212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832212)
 - [Как я в 35 пытался стать Python-разработчиком, и почему у меня [пока] ничего не вышло](https://habr.com/ru/articles/832186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832186)
 - [Базы данных. Основы разработки и работа с индексами в PostgreSQL](https://habr.com/ru/companies/factory5/articles/832174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832174)
 - [Эволюция API: от монолита к открытой платформе](https://habr.com/ru/companies/ascon/articles/832152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832152)
-- [Цикл статей о Greenplum. Часть 2. Оптимальный DDL](https://habr.com/ru/companies/axenix/articles/832126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832126)
-- [[Перевод] Тренажерный зал без смартфонов](https://habr.com/ru/articles/832148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
