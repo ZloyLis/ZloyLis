@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Опыт автоматизации рутины: подсчет спецификации при помощи python](https://habr.com/ru/articles/822495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822495)
+- [Математическая продлёнка. Вокруг ленты Мёбиуса](https://habr.com/ru/articles/832098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832098)
 - [Apple Pro Weekly News &lpar;15.07 – 28.07.24&rpar;](https://habr.com/ru/articles/832340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832340)
 - [[Перевод] Kubernetes 1.31. Обзор обновления](https://habr.com/ru/companies/amvera/articles/832182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832182)
 - [Security Week 2431: PKfail или утечка приватных ключей Secure Boot](https://habr.com/ru/companies/kaspersky/articles/832234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832234)
-- [Мастер-аккаунт Zeekr. Как Arduino поможет Вашему китайскому авто?](https://habr.com/ru/articles/828748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828748)
-- [[Перевод] Создание масштабируемых приложений при помощи Kafka и реактивного программирования](https://habr.com/ru/companies/piter/articles/831772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
