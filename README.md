@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Алгоритмическое мышление для дата-сайентистов: как писать код, который экономит время и место](https://habr.com/ru/companies/netologyru/articles/831160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831160)
+- [Все, что вы хотели знать про иерархию инжекторов в Angular](https://habr.com/ru/companies/zyfra/articles/817843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817843)
+- [4 типовые ловушки в работе со строками в С и С++ и как их избежать](https://habr.com/ru/companies/ncloudtech/articles/830918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830918)
 - [Отрицание, гнев, торг: как дизайну и разработке найти общий язык](https://habr.com/ru/companies/ozontech/articles/831818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831818)
 - [Spring Boot Starter: практически, принципиально и подробнее. Часть 3](https://habr.com/ru/companies/ru_mts/articles/832468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832468)
-- [Быстрая оценка эффекта рекламы/события на ключевые показатели: Python + Causal Impact](https://habr.com/ru/articles/832466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832466)
-- [Почему UI3 в Figma не равно UX3](https://habr.com/ru/companies/bimeister/articles/832460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832460)
-- [[Перевод] Soft Assertions в AssertJ](https://habr.com/ru/companies/spring_aio/articles/832432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
