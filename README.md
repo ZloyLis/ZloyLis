@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метрики продуктового дизайна в Домклик](https://habr.com/ru/companies/domclick/articles/828034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828034)
+- [Как стать разработчиком ML и нейронок](https://habr.com/ru/companies/slsoft/articles/832176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832176)
 - [«Java – это язык синих воротничков»](https://habr.com/ru/companies/kryptonite/articles/832274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832274)
 - [Рефакторинг игрового движка: от сырых указателей к умным](https://habr.com/ru/articles/826002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826002)
 - [Как мы перешли с оффсетной пагинации на курсорную, или о проблемах динамической фильтрации](https://habr.com/ru/companies/zvuk/articles/831458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831458)
-- [Как ускорить интеграцию API с помощью библиотеки и продвигать свои услуги](https://habr.com/ru/companies/exolve/articles/832136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832136)
-- [[Перевод] Инверсия управления Контейнеров и паттерн Инъекции Зависимостей — перевод](https://habr.com/ru/articles/832390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
