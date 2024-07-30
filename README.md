@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отрицание, гнев, торг: как дизайну и разработке найти общий язык](https://habr.com/ru/companies/ozontech/articles/831818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831818)
+- [Spring Boot Starter: практически, принципиально и подробнее. Часть 3](https://habr.com/ru/companies/ru_mts/articles/832468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832468)
+- [Быстрая оценка эффекта рекламы/события на ключевые показатели: Python + Causal Impact](https://habr.com/ru/articles/832466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832466)
 - [Почему UI3 в Figma не равно UX3](https://habr.com/ru/companies/bimeister/articles/832460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832460)
 - [[Перевод] Soft Assertions в AssertJ](https://habr.com/ru/companies/spring_aio/articles/832432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832432)
-- [Как безопасность искусственного интеллекта стала заботой DevSecOps](https://habr.com/ru/companies/pt/articles/832190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832190)
-- [BitImageTool — пиктограммы для кнопок и панелек приложений, закодированные в ASCII](https://habr.com/ru/articles/832360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832360)
-- [Метрики продуктового дизайна в Домклик](https://habr.com/ru/companies/domclick/articles/828034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
