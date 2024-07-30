@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;15.07 – 28.07.24&rpar;](https://habr.com/ru/articles/832340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832340)
 - [[Перевод] Kubernetes 1.31. Обзор обновления](https://habr.com/ru/companies/amvera/articles/832182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832182)
 - [Security Week 2431: PKfail или утечка приватных ключей Secure Boot](https://habr.com/ru/companies/kaspersky/articles/832234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832234)
 - [Мастер-аккаунт Zeekr. Как Arduino поможет Вашему китайскому авто?](https://habr.com/ru/articles/828748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828748)
 - [[Перевод] Создание масштабируемых приложений при помощи Kafka и реактивного программирования](https://habr.com/ru/companies/piter/articles/831772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831772)
-- [Имплементация чисел с фиксированной точкой &lpar;часть 2&rpar;](https://habr.com/ru/articles/832258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
