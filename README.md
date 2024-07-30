@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Опыт автоматизации рутины: подсчет спецификации при помощи python](https://habr.com/ru/articles/822495/?utm_source=habrahabr&utm_medium=rss&utm_campaign=822495)
-- [Математическая продлёнка. Вокруг ленты Мёбиуса](https://habr.com/ru/articles/832098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832098)
-- [Apple Pro Weekly News &lpar;15.07 – 28.07.24&rpar;](https://habr.com/ru/articles/832340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832340)
-- [[Перевод] Kubernetes 1.31. Обзор обновления](https://habr.com/ru/companies/amvera/articles/832182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832182)
-- [Security Week 2431: PKfail или утечка приватных ключей Secure Boot](https://habr.com/ru/companies/kaspersky/articles/832234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832234)
+- [Рефакторинг игрового движка: от сырых указателей к умным](https://habr.com/ru/articles/826002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826002)
+- [Как мы перешли с оффсетной пагинации на курсорную, или о проблемах динамической фильтрации](https://habr.com/ru/companies/zvuk/articles/831458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831458)
+- [Как ускорить интеграцию API с помощью библиотеки и продвигать свои услуги](https://habr.com/ru/companies/exolve/articles/832136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832136)
+- [[Перевод] Инверсия управления Контейнеров и паттерн Инъекции Зависимостей — перевод](https://habr.com/ru/articles/832390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832390)
+- [Самый быстрый спросить ChatGPT &lpar;MacOS&rpar;](https://habr.com/ru/articles/832070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
