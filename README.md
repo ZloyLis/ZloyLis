@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Кто такой Python-разработчик, что делает и какие навыки необходимы?](https://habr.com/ru/articles/831832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831832)
 - [Руководство по использованию Signal в Angular 17](https://habr.com/ru/articles/832632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832632)
-- [Руководство по использованию Signal в Angular 17](https://habr.com/ru/articles/832630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832630)
 - [Хостинг серверов для сайта. Сравнение недостатков VPS провайдеров. Антирейтинг 2024](https://habr.com/ru/articles/832524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832524)
 - [Т-Банк &lpar;Тинькофф&rpar; Финтех: мой опыт обучения и попытка трудоустройства на позицию QA-инженера](https://habr.com/ru/articles/832620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832620)
+- [MacBook Air M3 8/256 через 4 месяца: опыт использования в дизайне интерфейсов, офисных и личных задачах](https://habr.com/ru/articles/832618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
