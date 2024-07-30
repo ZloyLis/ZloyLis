@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильный AI на рабочем месте. Ищем реальную ценность](https://habr.com/ru/companies/samsung/articles/832596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832596)
-- [Погружение в матрицу: расширение RISC-V от T-Head](https://habr.com/ru/companies/yadro/articles/827434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827434)
-- [[Перевод] Алгоритмическое мышление для дата-сайентистов: как писать код, который экономит время и место](https://habr.com/ru/companies/netologyru/articles/831160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831160)
-- [Все, что вы хотели знать про иерархию инжекторов в Angular](https://habr.com/ru/companies/zyfra/articles/817843/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817843)
-- [4 типовые ловушки в работе со строками в С и С++ и как их избежать](https://habr.com/ru/companies/ncloudtech/articles/830918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830918)
+- [Руководство по использованию Signal в Angular 17](https://habr.com/ru/articles/832632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832632)
+- [Руководство по использованию Signal в Angular 17](https://habr.com/ru/articles/832630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832630)
+- [Хостинг серверов для сайта. Сравнение недостатков VPS провайдеров. Антирейтинг 2024](https://habr.com/ru/articles/832524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832524)
+- [Т-Банк &lpar;Тинькофф&rpar; Финтех: мой опыт обучения и попытка трудоустройства на позицию QA-инженера](https://habr.com/ru/articles/832620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832620)
+- [MacBook Air M3 8/256 через 4 месяца: опыт использования в дизайне интерфейсов, офисных и личных задачах](https://habr.com/ru/articles/832618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832618)
 <!-- BLOG-POST-LIST:END -->
 
 ---
