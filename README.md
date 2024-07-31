@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Combat Abilities System — Расширение Gameplay Ability System в Unreal Engine, Часть 1](https://habr.com/ru/articles/832914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832914)
 - [Разгоняем C++ с кастомными аллокаторами](https://habr.com/ru/companies/otus/articles/830104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830104)
 - [Формат описания идентификатора зависимости в JS DI](https://habr.com/ru/articles/832490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832490)
 - [Сколько денег вы теряете на инцидентах](https://habr.com/ru/companies/skyeng/articles/832600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832600)
 - [[Перевод] Находим случайный seed, решающий задачу с LeetCode](https://habr.com/ru/companies/ruvds/articles/832748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832748)
-- [[Перевод] Думаете, вы всё знаете о box shadows?](https://habr.com/ru/articles/830902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
