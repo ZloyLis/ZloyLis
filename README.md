@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбираем email по косточкам](https://habr.com/ru/companies/T1Holding/articles/832780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832780)
-- [Командуем Алисой и ее Умным Домом с Apple Watch и других устройств Apple](https://habr.com/ru/articles/832738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832738)
-- [ML в маркетинге: как модели делают банк более чутким к негативу](https://habr.com/ru/companies/tbank/articles/832580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832580)
-- [[Перевод] 2-опережающий предсказатель ветвлений в процессоре Zen 5: тридцатилетняя идея, которая до сих пор развивается](https://habr.com/ru/articles/832718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832718)
-- [Принципы проектирования программ и их отражение в спецификации на доработку ERP-системы](https://habr.com/ru/articles/832594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832594)
+- [Computed сигналы и ChangeDetection — подробный разбор](https://habr.com/ru/articles/832520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832520)
+- [Симметрии модели числа. Часть II](https://habr.com/ru/articles/832534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832534)
+- [Как мы написали конкурентные структуры данных на C++ и научились их верифицировать](https://habr.com/ru/companies/vk/articles/829706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829706)
+- [Как использовать S3-хранилище в Kubernetes: руководство с примерами](https://habr.com/ru/companies/selectel/articles/832768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832768)
+- [Самый простой способ проверить работу веб-приложения под нагрузкой на примере JMeter и Grafana](https://habr.com/ru/companies/yoomoney/articles/832574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
