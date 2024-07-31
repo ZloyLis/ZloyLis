@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираем email по косточкам](https://habr.com/ru/companies/T1Holding/articles/832780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832780)
 - [Командуем Алисой и ее Умным Домом с Apple Watch и других устройств Apple](https://habr.com/ru/articles/832738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832738)
 - [ML в маркетинге: как модели делают банк более чутким к негативу](https://habr.com/ru/companies/tbank/articles/832580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832580)
 - [[Перевод] 2-опережающий предсказатель ветвлений в процессоре Zen 5: тридцатилетняя идея, которая до сих пор развивается](https://habr.com/ru/articles/832718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832718)
 - [Принципы проектирования программ и их отражение в спецификации на доработку ERP-системы](https://habr.com/ru/articles/832594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832594)
-- [Акции, игры и роботы: будущее ритейла, которое уже наступило](https://habr.com/ru/specials/832604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
