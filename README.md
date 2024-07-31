@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как и зачем мы написали 5000 интеграционных тестов за пару часов](https://habr.com/ru/companies/avito/articles/832606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832606)
 - [Опять Mikrotik и снова Telegram…](https://habr.com/ru/articles/832652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832652)
 - [Обучение в Яндекс Практикуме](https://habr.com/ru/articles/832656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832656)
 - [Кто такой Python-разработчик, что делает и какие навыки необходимы?](https://habr.com/ru/articles/831832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831832)
 - [Руководство по использованию Signal в Angular 17](https://habr.com/ru/articles/832632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832632)
-- [Хостинг серверов для сайта. Сравнение недостатков VPS провайдеров. Антирейтинг 2024](https://habr.com/ru/articles/832524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
