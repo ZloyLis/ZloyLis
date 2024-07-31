@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как фронтендер сертификацию PostgresPro сдавал](https://habr.com/ru/articles/832956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832956)
+- [Gradle + GitLab: эффективный и бесплатный билд-кэш](https://habr.com/ru/articles/832976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832976)
 - [Управление эмоциями или как справиться с выгоранием на работе](https://habr.com/ru/articles/832958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832958)
 - [Сглаживание битовых изображений](https://habr.com/ru/articles/832924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832924)
 - [Combat Abilities System — Расширение Gameplay Ability System в Unreal Engine, Часть 1](https://habr.com/ru/articles/832914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832914)
-- [Разгоняем C++ с кастомными аллокаторами](https://habr.com/ru/companies/otus/articles/830104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830104)
-- [Формат описания идентификатора зависимости в JS DI](https://habr.com/ru/articles/832490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
