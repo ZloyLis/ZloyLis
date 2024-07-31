@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Находим случайный seed, решающий задачу с LeetCode](https://habr.com/ru/companies/ruvds/articles/832748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832748)
+- [[Перевод] Думаете, вы всё знаете о box shadows?](https://habr.com/ru/articles/830902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830902)
 - [Программное создание материалов с пользовательскими полями в Joomla 5+](https://habr.com/ru/articles/832854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832854)
 - [Поисковый запрос на баги в Apache Solr](https://habr.com/ru/companies/pvs-studio/articles/832842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832842)
 - [Chrome 127 — опять «пиратим» для Windows 7](https://habr.com/ru/articles/832834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832834)
-- [ThreadPool – инъекция потоков](https://habr.com/ru/companies/skbkontur/articles/832742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832742)
-- [Как мы провели производственную практику для 150 студентов и зачем нам это нужно](https://habr.com/ru/companies/reksoft/articles/832826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
