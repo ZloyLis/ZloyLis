@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Computed сигналы и ChangeDetection — подробный разбор](https://habr.com/ru/articles/832520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832520)
-- [Симметрии модели числа. Часть II](https://habr.com/ru/articles/832534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832534)
-- [Как мы написали конкурентные структуры данных на C++ и научились их верифицировать](https://habr.com/ru/companies/vk/articles/829706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829706)
-- [Как использовать S3-хранилище в Kubernetes: руководство с примерами](https://habr.com/ru/companies/selectel/articles/832768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832768)
-- [Самый простой способ проверить работу веб-приложения под нагрузкой на примере JMeter и Grafana](https://habr.com/ru/companies/yoomoney/articles/832574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832574)
+- [Программное создание материалов с пользовательскими полями в Joomla 5+](https://habr.com/ru/articles/832854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832854)
+- [Поисковый запрос на баги в Apache Solr](https://habr.com/ru/companies/pvs-studio/articles/832842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832842)
+- [Chrome 127 — опять «пиратим» для Windows 7](https://habr.com/ru/articles/832834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832834)
+- [ThreadPool – инъекция потоков](https://habr.com/ru/companies/skbkontur/articles/832742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832742)
+- [Как мы провели производственную практику для 150 студентов и зачем нам это нужно](https://habr.com/ru/companies/reksoft/articles/832826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
