@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как и зачем мы написали 5000 интеграционных тестов за пару часов](https://habr.com/ru/companies/avito/articles/832606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832606)
-- [Опять Mikrotik и снова Telegram…](https://habr.com/ru/articles/832652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832652)
-- [Обучение в Яндекс Практикуме](https://habr.com/ru/articles/832656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832656)
-- [Кто такой Python-разработчик, что делает и какие навыки необходимы?](https://habr.com/ru/articles/831832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831832)
-- [Руководство по использованию Signal в Angular 17](https://habr.com/ru/articles/832632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832632)
+- [Принципы проектирования программ и их отражение в спецификации на доработку ERP-системы](https://habr.com/ru/articles/832594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832594)
+- [Акции, игры и роботы: будущее ритейла, которое уже наступило](https://habr.com/ru/specials/832604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832604)
+- [С заботой о CPU: как найти узкое горлышко и сконфигурировать  Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/830790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830790)
+- [Упражнения, которые помогут прокачать UI продуктовому дизайнеру](https://habr.com/ru/articles/832702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832702)
+- [ИТ с пеленок: игры, которые знакомят детей с программированием. Часть 2](https://habr.com/ru/companies/ru_mts/articles/832698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
