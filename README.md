@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация Фракталов методом хаоса, UI на ScalaFX](https://habr.com/ru/articles/832872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832872)
+- [HowTo: базовая геоаналитика](https://habr.com/ru/articles/833090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833090)
 - [10 certain indicators of a well-done UX design](https://habr.com/ru/articles/833076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833076)
 - [Вычисление любого математического выражения на C# &lpar;.NET&rpar;](https://habr.com/ru/articles/833074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833074)
 - [Часть 2.5. TMA на KMP. Аутентификации пользователя с DRF](https://habr.com/ru/articles/833066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833066)
-- [DRY-фреймворк: как сократить HTML-код и писать только на CSS](https://habr.com/ru/companies/selectel/articles/832868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832868)
-- [Cтейт-менеджмент на Flutter. Введение в Bloc](https://habr.com/ru/articles/833054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
