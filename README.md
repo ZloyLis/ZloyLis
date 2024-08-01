@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Selenoid без симуляции: настройка, отладка и автоматизация на физическом Android-устройстве](https://habr.com/ru/companies/alfa/articles/833136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833136)
+- [Почему комментарии в коде — базовый инструмент, упрощающий поддержку и развитие проекта](https://habr.com/ru/companies/simbirsoft/articles/833040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833040)
+- [Как организовать анализ большого объема данных в реальном времени](https://habr.com/ru/companies/vk/articles/832584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832584)
 - [Повышаем читаемость Symfony DI](https://habr.com/ru/articles/833134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833134)
 - [[Перевод] История Same Origin Policy](https://habr.com/ru/articles/833132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833132)
-- [[Перевод] Генерация HTTP клиентов для Spring Boot приложения по OpenAPI спецификации](https://habr.com/ru/companies/spring_aio/articles/833096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833096)
-- [Адаптивная верстка на React Native](https://habr.com/ru/articles/833124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833124)
-- [Генерация Фракталов методом хаоса, UI на ScalaFX](https://habr.com/ru/articles/832872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
