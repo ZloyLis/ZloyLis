@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 бесплатных курсов и мастер-классов, которые стоит пройти в августе](https://habr.com/ru/companies/netologyru/articles/833050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833050)
 - [Git, Gitflow и ветка develop. Продолжаем разбираться в основах программирования](https://habr.com/ru/companies/beeline_cloud/articles/833228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833228)
 - [Уязвимости Laravel, технология Cookieless и Kerberos-лапша, или Рассказ о том, как мы IDS Bypass 5 решали](https://habr.com/ru/companies/pt/articles/832612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832612)
 - [1 августа и COBOL: как они связаны?](https://habr.com/ru/companies/ru_mts/articles/833188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833188)
 - [[Перевод] Оценка инсайда в ставках на спорт](https://habr.com/ru/articles/833174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833174)
-- [Selenoid без симуляции: настройка, отладка и автоматизация на физическом Android-устройстве](https://habr.com/ru/companies/alfa/articles/833136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
