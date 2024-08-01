@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как положить приложение 21 запросом* к /actuator/health](https://habr.com/ru/articles/832568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832568)
+- [[Перевод] Настройка аутентификации с одноразовым паролем в OpenAM](https://habr.com/ru/articles/825306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825306)
+- [Как фрилансерам и компаниям работать на Upwork в обход блокировок в 2024 году](https://habr.com/ru/articles/832332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832332)
 - [Некоторые ошибки при создании дашбордов в BI-системах и как их избежать с помощью UX](https://habr.com/ru/articles/831010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831010)
 - [Как фронтендер сертификацию PostgresPro сдавал](https://habr.com/ru/articles/832956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832956)
-- [Gradle + GitLab: эффективный и бесплатный билд-кэш](https://habr.com/ru/articles/832976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832976)
-- [Управление эмоциями или как справиться с выгоранием на работе](https://habr.com/ru/articles/832958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832958)
-- [Сглаживание битовых изображений](https://habr.com/ru/articles/832924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
