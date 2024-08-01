@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как положить приложение 21 запросом* к /actuator/health](https://habr.com/ru/articles/832568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832568)
-- [[Перевод] Настройка аутентификации с одноразовым паролем в OpenAM](https://habr.com/ru/articles/825306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825306)
-- [Как фрилансерам и компаниям работать на Upwork в обход блокировок в 2024 году](https://habr.com/ru/articles/832332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832332)
-- [Некоторые ошибки при создании дашбордов в BI-системах и как их избежать с помощью UX](https://habr.com/ru/articles/831010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831010)
-- [Как фронтендер сертификацию PostgresPro сдавал](https://habr.com/ru/articles/832956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832956)
+- [Cтейт-менеджмент на Flutter. Введение в Bloc](https://habr.com/ru/articles/833054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833054)
+- [Как метрики приживаемости помогают внедрению IT-проекта](https://habr.com/ru/companies/pgk/articles/831350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831350)
+- [Kin’а не будет. Как Microsoft потеряла миллиард на смартфоне для соцсетей](https://habr.com/ru/companies/serverspace/articles/832816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832816)
+- [Разработка Java-проекта с ChatGPT-4: от идеи до реализации](https://habr.com/ru/companies/ibs/articles/833034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833034)
+- [[Перевод] Полный гайд по тестированию на Flutter. Часть 4: продвинутое модульное тестирование](https://habr.com/ru/articles/832918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
