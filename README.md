@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [1 августа и COBOL: как они связаны?](https://habr.com/ru/companies/ru_mts/articles/833188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833188)
+- [[Перевод] Оценка инсайда в ставках на спорт](https://habr.com/ru/articles/833174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833174)
 - [Selenoid без симуляции: настройка, отладка и автоматизация на физическом Android-устройстве](https://habr.com/ru/companies/alfa/articles/833136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833136)
 - [Почему комментарии в коде — базовый инструмент, упрощающий поддержку и развитие проекта](https://habr.com/ru/companies/simbirsoft/articles/833040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833040)
 - [Как организовать анализ большого объема данных в реальном времени](https://habr.com/ru/companies/vk/articles/832584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832584)
-- [Повышаем читаемость Symfony DI](https://habr.com/ru/articles/833134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833134)
-- [[Перевод] История Same Origin Policy](https://habr.com/ru/articles/833132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
