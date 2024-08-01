@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Повышаем читаемость Symfony DI](https://habr.com/ru/articles/833134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833134)
+- [[Перевод] История Same Origin Policy](https://habr.com/ru/articles/833132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833132)
+- [[Перевод] Генерация HTTP клиентов для Spring Boot приложения по OpenAPI спецификации](https://habr.com/ru/companies/spring_aio/articles/833096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833096)
+- [Адаптивная верстка на React Native](https://habr.com/ru/articles/833124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833124)
 - [Генерация Фракталов методом хаоса, UI на ScalaFX](https://habr.com/ru/articles/832872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832872)
-- [HowTo: базовая геоаналитика](https://habr.com/ru/articles/833090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833090)
-- [10 certain indicators of a well-done UX design](https://habr.com/ru/articles/833076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833076)
-- [Вычисление любого математического выражения на C# &lpar;.NET&rpar;](https://habr.com/ru/articles/833074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833074)
-- [Часть 2.5. TMA на KMP. Аутентификации пользователя с DRF](https://habr.com/ru/articles/833066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
