@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 certain indicators of a well-done UX design](https://habr.com/ru/articles/833076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833076)
+- [Вычисление любого математического выражения на C# &lpar;.NET&rpar;](https://habr.com/ru/articles/833074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833074)
+- [Часть 2.5. TMA на KMP. Аутентификации пользователя с DRF](https://habr.com/ru/articles/833066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833066)
+- [DRY-фреймворк: как сократить HTML-код и писать только на CSS](https://habr.com/ru/companies/selectel/articles/832868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832868)
 - [Cтейт-менеджмент на Flutter. Введение в Bloc](https://habr.com/ru/articles/833054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833054)
-- [Как метрики приживаемости помогают внедрению IT-проекта](https://habr.com/ru/companies/pgk/articles/831350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831350)
-- [Kin’а не будет. Как Microsoft потеряла миллиард на смартфоне для соцсетей](https://habr.com/ru/companies/serverspace/articles/832816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832816)
-- [Разработка Java-проекта с ChatGPT-4: от идеи до реализации](https://habr.com/ru/companies/ibs/articles/833034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833034)
-- [[Перевод] Полный гайд по тестированию на Flutter. Часть 4: продвинутое модульное тестирование](https://habr.com/ru/articles/832918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
