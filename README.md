@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История оптимизации Python сервиса: пара простых системных улучшений](https://habr.com/ru/companies/okko/articles/833424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833424)
+- [[Перевод] Процесс, который продолжал умирать](https://habr.com/ru/companies/ruvds/articles/832752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832752)
 - [Высокая доступность в Kubernetes](https://habr.com/ru/companies/slurm/articles/833408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833408)
 - [[Перевод] Полный гайд по тестированию на Flutter. Часть 5: Mocktail](https://habr.com/ru/articles/833390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833390)
 - [Как мы помогли клиентам автоматически настраивать программы для работы с КЭП](https://habr.com/ru/companies/ca_kontur/articles/833332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833332)
-- [Эксперимент — зашифрованные ИТ-процессы в фильме «TRON: Legacy» как ключ к обучению](https://habr.com/ru/articles/833378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833378)
-- [Как мы приготовили Feature-Sliced Design в VK](https://habr.com/ru/companies/vk/articles/831148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
