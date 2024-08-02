@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы приготовили Feature-Sliced Design в VK](https://habr.com/ru/companies/vk/articles/831148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831148)
 - [Симметрии модели числа. Часть III](https://habr.com/ru/articles/833072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833072)
 - [5 уроков локализации из разработки игры в Telegram](https://habr.com/ru/companies/miip/articles/832950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832950)
 - [Как использовать сервисы Google на смартфонах Huawei с помощью Gbox и MicroG](https://habr.com/ru/companies/x-com/articles/833338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833338)
 - [Как успешно бороться с инцидентами в ИТ-сфере](https://habr.com/ru/articles/833320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833320)
-- [Распределённые вычисления, многопоточность, асинхронность и мультипроцессорность в Python](https://habr.com/ru/companies/sberbank/articles/829098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
