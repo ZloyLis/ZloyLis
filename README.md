@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как успешно бороться с инцидентами в ИТ-сфере](https://habr.com/ru/articles/833320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833320)
 - [Распределённые вычисления, многопоточность, асинхронность и мультипроцессорность в Python](https://habr.com/ru/companies/sberbank/articles/829098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829098)
 - [12 вместо 100+, или Как быстро и удобно создать базовый интерфейс для ОС [статья-воркшоп]](https://habr.com/ru/companies/kaspersky/articles/826746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826746)
 - [12 важных веб-сайтов, о которых должен знать каждый программист](https://habr.com/ru/articles/833300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833300)
 - [.NET Digest #2](https://habr.com/ru/companies/pvs-studio/articles/833292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833292)
-- [Оптимизация производительности в Unity: советы и лучшие практики](https://habr.com/ru/articles/833086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
