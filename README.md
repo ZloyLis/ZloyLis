@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как поделить не деля или оптимизация деления компиляторам&lpar;и&rpar;](https://habr.com/ru/articles/833470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833470)
 - [Давайте сделаем крупное приложение на Flask &lpar;язык Python&rpar;](https://habr.com/ru/articles/833446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833446)
 - [Что расскажут аналитикам на Flow 2024 Autumn](https://habr.com/ru/companies/jugru/articles/833440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833440)
 - [Object Pascal в 2024-м](https://habr.com/ru/articles/832686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832686)
 - [Шаблон unit-тестов на Go](https://habr.com/ru/articles/833448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833448)
-- [Использование очередей &lpar;Queue/Deque&rpar; для решения алгоритмических задач на Java](https://habr.com/ru/articles/833444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
