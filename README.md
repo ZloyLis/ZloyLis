@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Давайте сделаем крупное приложение на Flask &lpar;язык Python&rpar;](https://habr.com/ru/articles/833446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833446)
+- [Что расскажут аналитикам на Flow 2024 Autumn](https://habr.com/ru/companies/jugru/articles/833440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833440)
+- [Object Pascal в 2024-м](https://habr.com/ru/articles/832686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832686)
+- [Шаблон unit-тестов на Go](https://habr.com/ru/articles/833448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833448)
 - [Использование очередей &lpar;Queue/Deque&rpar; для решения алгоритмических задач на Java](https://habr.com/ru/articles/833444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833444)
-- [Как мы прогнозируем спрос на заказы в Яндекс Лавке, чтобы эффективнее распределить нагрузку на курьеров. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/831534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831534)
-- [Scala Digest. Выпуск 19](https://habr.com/ru/companies/tbank/articles/833394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833394)
-- [Нужна ли разработчикам магистратура? Отвечают студенты программы «Распределенные веб-сервисы»](https://habr.com/ru/companies/vk/articles/833436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833436)
-- [Основы тестирования React-приложений через Cypress](https://habr.com/ru/companies/otus/articles/831904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
