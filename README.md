@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Высокая доступность в Kubernetes](https://habr.com/ru/companies/slurm/articles/833408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833408)
+- [[Перевод] Полный гайд по тестированию на Flutter. Часть 5: Mocktail](https://habr.com/ru/articles/833390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833390)
+- [Как мы помогли клиентам автоматически настраивать программы для работы с КЭП](https://habr.com/ru/companies/ca_kontur/articles/833332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833332)
+- [Эксперимент — зашифрованные ИТ-процессы в фильме «TRON: Legacy» как ключ к обучению](https://habr.com/ru/articles/833378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833378)
 - [Как мы приготовили Feature-Sliced Design в VK](https://habr.com/ru/companies/vk/articles/831148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831148)
-- [Симметрии модели числа. Часть III](https://habr.com/ru/articles/833072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833072)
-- [5 уроков локализации из разработки игры в Telegram](https://habr.com/ru/companies/miip/articles/832950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832950)
-- [Как использовать сервисы Google на смартфонах Huawei с помощью Gbox и MicroG](https://habr.com/ru/companies/x-com/articles/833338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833338)
-- [Как успешно бороться с инцидентами в ИТ-сфере](https://habr.com/ru/articles/833320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
