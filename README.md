@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кэш второго уровня Hibernate для чайников](https://habr.com/ru/articles/833478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833478)
 - [Punk riff generator](https://habr.com/ru/articles/831852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831852)
 - [Как поделить не деля или оптимизация деления компиляторам&lpar;и&rpar;](https://habr.com/ru/articles/833470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833470)
 - [Давайте сделаем крупное приложение на Flask &lpar;язык Python&rpar;](https://habr.com/ru/articles/833446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833446)
 - [Что расскажут аналитикам на Flow 2024 Autumn](https://habr.com/ru/companies/jugru/articles/833440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833440)
-- [Object Pascal в 2024-м](https://habr.com/ru/articles/832686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
