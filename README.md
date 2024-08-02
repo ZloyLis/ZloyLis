@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [История оптимизации Python сервиса: пара простых системных улучшений](https://habr.com/ru/companies/okko/articles/833424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833424)
-- [[Перевод] Процесс, который продолжал умирать](https://habr.com/ru/companies/ruvds/articles/832752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832752)
-- [Высокая доступность в Kubernetes](https://habr.com/ru/companies/slurm/articles/833408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833408)
-- [[Перевод] Полный гайд по тестированию на Flutter. Часть 5: Mocktail](https://habr.com/ru/articles/833390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833390)
-- [Как мы помогли клиентам автоматически настраивать программы для работы с КЭП](https://habr.com/ru/companies/ca_kontur/articles/833332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833332)
+- [Использование очередей &lpar;Queue/Deque&rpar; для решения алгоритмических задач на Java](https://habr.com/ru/articles/833444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833444)
+- [Как мы прогнозируем спрос на заказы в Яндекс Лавке, чтобы эффективнее распределить нагрузку на курьеров. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/831534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831534)
+- [Scala Digest. Выпуск 19](https://habr.com/ru/companies/tbank/articles/833394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833394)
+- [Нужна ли разработчикам магистратура? Отвечают студенты программы «Распределенные веб-сервисы»](https://habr.com/ru/companies/vk/articles/833436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833436)
+- [Основы тестирования React-приложений через Cypress](https://habr.com/ru/companies/otus/articles/831904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
