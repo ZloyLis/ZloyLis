@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ещё раз о том, какого размера должны быть тесты](https://habr.com/ru/companies/timeweb/articles/833548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833548)
+- [Продвинутые сетевые функции Kubernetes](https://habr.com/ru/companies/amvera/articles/833464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833464)
 - [Что на неделе: москвичи-айтишники без квартир, блогеры-ютуберы без площадки, треш-стримеры без работы](https://habr.com/ru/companies/agima/articles/833466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833466)
 - [5 книг, которые стоит почитать начинающему ИТ-архитектору](https://habr.com/ru/companies/ru_mts/articles/833432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833432)
 - [Создание кастомного интерактивного минисайта с ИИ без платных сервисов](https://habr.com/ru/articles/833520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833520)
-- [OpenSource на поле против OpenAI:  Function Calls здесь и сейчас для самых маленьких… ресурсов](https://habr.com/ru/articles/833518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833518)
-- [Логистика. Часть 8. Почему GDS лидируют в оптимизации авиаперевозок: пример увеличения прибыльности код-шера](https://habr.com/ru/articles/833492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
