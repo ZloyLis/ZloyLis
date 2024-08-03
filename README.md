@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание кастомного интерактивного мини сайта с ИИ без платных сервисов](https://habr.com/ru/articles/833520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833520)
+- [OpenSource на поле против OpenAI:  Function Calls здесь и сейчас для самых маленьких… ресурсов](https://habr.com/ru/articles/833518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833518)
 - [Почему GDS лидируют в оптимизации авиаперевозок: пример увеличения прибыльности код-шера](https://habr.com/ru/articles/833492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833492)
 - [Кэш второго уровня Hibernate для чайников](https://habr.com/ru/articles/833478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833478)
 - [Punk riff generator](https://habr.com/ru/articles/831852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831852)
-- [Как поделить не деля или оптимизация деления компиляторам&lpar;и&rpar;](https://habr.com/ru/articles/833470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833470)
-- [Давайте сделаем крупное приложение на Flask &lpar;язык Python&rpar;](https://habr.com/ru/articles/833446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
