@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardware in the Loop &lpar;HIL&rpar; или как залупить модель с контроллером. Зачем и кому это надо?](https://habr.com/ru/articles/833392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833392)
+- [Atomic CSS Deep Dive](https://habr.com/ru/articles/833712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833712)
+- [Сдача Spring Certified Professional &lpar;2V0-72.22&rpar; в 2024 году: Удаленно из России](https://habr.com/ru/articles/833710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833710)
 - [Мобильная разработка за неделю #549 &lpar;29 июля — 4 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/833688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833688)
 - [AstroJS проекты в monorepo с помощью npm workspaces](https://habr.com/ru/articles/833684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833684)
-- [Управление личными делами в Obsidian &lpar;прототип&rpar;](https://habr.com/ru/articles/833654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833654)
-- [[Перевод] Почему новый процесс в Node порождается так медленно?](https://habr.com/ru/articles/833628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833628)
-- [Упрощение Работы с Расширениями темам в Flutter: Инструменты и Пакеты для Генерации Стилей](https://habr.com/ru/articles/833626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
