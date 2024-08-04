@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему новый процесс в Node порождается так медленно?](https://habr.com/ru/articles/833628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833628)
+- [Упрощение Работы с Расширениями темам в Flutter: Инструменты и Пакеты для Генерации Стилей](https://habr.com/ru/articles/833626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833626)
 - [Создание полного Fast-API сервиса с фронтендом и деплоем за полчаса](https://habr.com/ru/companies/amvera/articles/833588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833588)
 - [Как нас обманывают геймдизайнеры: невыдуманные истории про скрытые игровые механики](https://habr.com/ru/articles/833552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833552)
 - [[Перевод] Ещё раз о том, какого размера должны быть тесты](https://habr.com/ru/companies/timeweb/articles/833548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833548)
-- [Продвинутые сетевые функции Kubernetes](https://habr.com/ru/companies/amvera/articles/833464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833464)
-- [Что на неделе: москвичи-айтишники без квартир, блогеры-ютуберы без площадки, треш-стримеры без работы](https://habr.com/ru/companies/agima/articles/833466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
