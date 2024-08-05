@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Новая автоматизация: как мы в Lenta Tech прокладывали рельсы импортозамещения и запускали МЧД по маршруту ФЗ-63](https://habr.com/ru/companies/lentatech/articles/833484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833484)
-- [Кроссплатформенный фреймворк FireMonkey, Delphi](https://habr.com/ru/articles/833804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833804)
-- [Гипотеза о влиянии относительного количества ожиданий СУБД на производительность СУБД](https://habr.com/ru/articles/833808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833808)
-- [C3D Vision: новый функционал и интеграция с математическим ядром](https://habr.com/ru/companies/ascon/articles/826728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826728)
-- [«Арендовал телефон — стал фермером»: знакомство с Mobile Farm](https://habr.com/ru/companies/selectel/articles/833750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833750)
+- [Мотор «от Xiaomi»](https://habr.com/ru/articles/833912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833912)
+- [Настраиваем аутентификацию по SMS и через мессенджеры для самых мобильных пользователей](https://habr.com/ru/companies/ru_mts/articles/833834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833834)
+- [[Перевод] Полный гайд по тестированию на Flutter. Часть 6: Тестовые двойники: Faking vs Mocking](https://habr.com/ru/articles/833894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833894)
+- [[Перевод] Толстые хвосты распределений — это загадочно и странно](https://habr.com/ru/companies/wunderfund/articles/832276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832276)
+- [Ищем альтернативу Ngrok в России](https://habr.com/ru/articles/833884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
