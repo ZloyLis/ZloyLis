@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ХрюХрюКар: как перестать беспокоиться, начать создавать сервисы и обзавестись друзьями](https://habr.com/ru/companies/timeweb/articles/832966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832966)
+- [Кручу, верчу, выровнять ось вращения хочу! Или о том, как ось вращения объекта автоматически выравнивается в STE](https://habr.com/ru/companies/smartengines/articles/827332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827332)
+- [Архитектура Flutter проекта простым языком. Clean Arch &lpar;MVVM, DI, Bloc, Inversion of Control&rpar;](https://habr.com/ru/articles/833760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833760)
 - [Протокол SMTP. Пишем SMTP-сервер на C](https://habr.com/ru/articles/833672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833672)
 - [Выборы президента США глазами математика. Насколько можно верить опросам?](https://habr.com/ru/articles/833724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833724)
-- [Вычисление отсрочки старта приготовления каши на завтра](https://habr.com/ru/articles/833648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833648)
-- [Как сменить технологию и не закопаться в рефакторинге: опыт внедрения DDD в проект на FastAPI — Часть 1](https://habr.com/ru/articles/833720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833720)
-- [Hardware in the Loop &lpar;HIL&rpar; или как залупить модель с контроллером. Зачем и кому это надо?](https://habr.com/ru/articles/833392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
