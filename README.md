@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нахождение преобладающего элемента последовательности &lpar;алгоритм большинства голосов Бойера-Мура&rpar;](https://habr.com/ru/articles/833932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833932)
+- [[Перевод] Factorio: оптимизации 2.0](https://habr.com/ru/companies/ruvds/articles/833892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833892)
+- [[Перевод] «У нас закончились столбцы» — лучшая худшая кодовая база](https://habr.com/ru/articles/833916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833916)
 - [Мотор «от Xiaomi»](https://habr.com/ru/articles/833912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833912)
 - [Настраиваем аутентификацию по SMS и через мессенджеры для самых мобильных пользователей](https://habr.com/ru/companies/ru_mts/articles/833834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833834)
-- [[Перевод] Полный гайд по тестированию на Flutter. Часть 6: Тестовые двойники: Faking vs Mocking](https://habr.com/ru/articles/833894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833894)
-- [[Перевод] Толстые хвосты распределений — это загадочно и странно](https://habr.com/ru/companies/wunderfund/articles/832276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832276)
-- [Ищем альтернативу Ngrok в России](https://habr.com/ru/articles/833884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
