@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я bash писал на Chat GPT, или IMAP to API при помощи Fetchmail](https://habr.com/ru/articles/833958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833958)
 - [Eppie — P2P почта, теперь с графическим интерфейсом](https://habr.com/ru/articles/833936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833936)
 - [Нахождение преобладающего элемента последовательности &lpar;алгоритм большинства голосов Бойера-Мура&rpar;](https://habr.com/ru/articles/833932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833932)
 - [[Перевод] Factorio: оптимизации 2.0](https://habr.com/ru/companies/ruvds/articles/833892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833892)
 - [[Перевод] «У нас закончились столбцы» — лучшая худшая кодовая база](https://habr.com/ru/articles/833916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833916)
-- [Мотор «от Xiaomi»](https://habr.com/ru/articles/833912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
