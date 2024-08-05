@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Система оценивания для проведения экзаменов, срезов в СПО](https://habr.com/ru/articles/834008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834008)
 - [Искусственный интеллект в маркетинге: Революция, которая меняет правила игры](https://habr.com/ru/articles/833996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833996)
 - [Портируем ML модели на Java с помощью ONNX](https://habr.com/ru/articles/833992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833992)
 - [Apple Pro Weekly News &lpar;29.07 – 04.08.24&rpar;](https://habr.com/ru/articles/833990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833990)
 - [Security Week 2432: шифрование cookie в браузере Google Chrome](https://habr.com/ru/companies/kaspersky/articles/833914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833914)
-- [ООП не определяет архитектуру проекта](https://habr.com/ru/articles/833968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
