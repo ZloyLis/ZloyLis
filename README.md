@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ХрюХрюКар: как перестать беспокоиться, начать создавать сервисы и обзавестись друзьями](https://habr.com/ru/companies/timeweb/articles/832966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832966)
-- [Кручу, верчу, выровнять ось вращения хочу! Или о том, как ось вращения объекта автоматически выравнивается в STE](https://habr.com/ru/companies/smartengines/articles/827332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827332)
-- [Архитектура Flutter проекта простым языком. Clean Arch &lpar;MVVM, DI, Bloc, Inversion of Control&rpar;](https://habr.com/ru/articles/833760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833760)
-- [Протокол SMTP. Пишем SMTP-сервер на C](https://habr.com/ru/articles/833672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833672)
-- [Выборы президента США глазами математика. Насколько можно верить опросам?](https://habr.com/ru/articles/833724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833724)
+- [Кроссплатформенный фреймворк FireMonkey, Delphi](https://habr.com/ru/articles/833804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833804)
+- [Гипотеза о влиянии относительного количества ожиданий СУБД на производительность СУБД](https://habr.com/ru/articles/833808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833808)
+- [C3D Vision: новый функционал и интеграция с математическим ядром](https://habr.com/ru/companies/ascon/articles/826728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826728)
+- [«Арендовал телефон — стал фермером»: знакомство с Mobile Farm](https://habr.com/ru/companies/selectel/articles/833750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833750)
+- [Capacity Planning: от прогнозов к действиям — с помощью автоматизации](https://habr.com/ru/companies/jetinfosystems/articles/833790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
