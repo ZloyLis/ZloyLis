@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поднимаем динамические окружения для stateless- и stateful-сервисов](https://habr.com/ru/companies/kts/articles/833354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833354)
+- [Как объединить кластеры Kubernetes без даунтайма: пошаговая инструкция](https://habr.com/ru/companies/cloud_ru/articles/833342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833342)
+- [[Перевод] Compose Desktop ShadowJar](https://habr.com/ru/articles/834132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834132)
 - [Как мы выбираем задания на отбор Route 256: подход и разбор задач](https://habr.com/ru/companies/ozontech/articles/833762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833762)
-- [Инженерия устойчивости — основной инструмент выживания вашей организации](https://habr.com/ru/companies/kuper/articles/831402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831402)
-- [Хранимые процедуры рудимент или еще актуальны?](https://habr.com/ru/articles/833554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833554)
-- [Оптимизация метрик веба через аудит в Google Tag Manager: реальность или вымысел?](https://habr.com/ru/companies/ivi/articles/833900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833900)
-- [ОС «Аврора» — веб-сервер в кармане](https://habr.com/ru/companies/selectel/articles/834086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834086)
+- [Инженерия устойчивости — основной инструмент выживания вашей организации](https://habr.com/ru/companies/oleg-bunin/articles/831402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
