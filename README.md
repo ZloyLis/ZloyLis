@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: структуры данных и алгоритмы. Часть 3](https://habr.com/ru/companies/timeweb/articles/832402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832402)
+- [[Перевод] Состояние Spring в 2024 году](https://habr.com/ru/companies/spring_aio/articles/834050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834050)
 - [Как быстро удалить дублирующиеся строки в CSV, Excel и таблицах Markdown?](https://habr.com/ru/articles/834044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834044)
 - [Использование WFM в производстве](https://habr.com/ru/articles/833376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833376)
 - [Подбираем нужные автозапчасти: миллиарды комбинаций за 12 минут](https://habr.com/ru/companies/avito/articles/833272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833272)
-- [Система оценивания для проведения экзаменов, срезов в СПО](https://habr.com/ru/articles/834008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834008)
-- [Портируем ML модели на Java с помощью ONNX](https://habr.com/ru/articles/833992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
