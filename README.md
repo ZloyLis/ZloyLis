@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы выбираем задания на отбор Route 256: подход и разбор задач](https://habr.com/ru/companies/ozontech/articles/833762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833762)
+- [Инженерия устойчивости — основной инструмент выживания вашей организации](https://habr.com/ru/companies/kuper/articles/831402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831402)
+- [Хранимые процедуры рудимент или еще актуальны?](https://habr.com/ru/articles/833554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833554)
+- [Оптимизация метрик веба через аудит в Google Tag Manager: реальность или вымысел?](https://habr.com/ru/companies/ivi/articles/833900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833900)
 - [ОС «Аврора» — веб-сервер в кармане](https://habr.com/ru/companies/selectel/articles/834086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834086)
-- [Go: жарим общие данные. Атомно, быстро и без мьютексов](https://habr.com/ru/companies/ruvds/articles/833264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833264)
-- [Шахматные задачи от Поколения](https://habr.com/ru/articles/829610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829610)
-- [JavaScript: структуры данных и алгоритмы. Часть 3](https://habr.com/ru/companies/timeweb/articles/832402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832402)
-- [[Перевод] Состояние Spring в 2024 году](https://habr.com/ru/companies/spring_aio/articles/834050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
