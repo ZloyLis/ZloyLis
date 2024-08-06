@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как NETFLIX обеспечивает безупречный стриминг? Закулисье архитектуры](https://habr.com/ru/articles/834338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834338)
 - [Делаем навык для Алисы. Alice-ktx](https://habr.com/ru/articles/834264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834264)
 - [Интерфейсы в JS с помощью @teqfw/di](https://habr.com/ru/articles/834002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834002)
 - [Используем gocv, чтобы определить возраст, эмоции и пол человека по фото](https://habr.com/ru/companies/first/articles/833934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833934)
 - [Документация RuStore: как мы настроили автоматическую навигацию в Docusaurus](https://habr.com/ru/companies/vk/articles/833208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833208)
-- [Книга: «Безопасные и надежные системы: Лучшие практики проектирования, внедрения и обслуживания как в Google»](https://habr.com/ru/companies/piter/articles/833942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
