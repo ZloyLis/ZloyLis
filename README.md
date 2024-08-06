@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как NETFLIX обеспечивает безупречный стриминг? Закулисье архитектуры](https://habr.com/ru/articles/834338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834338)
+- [[Перевод] Как NETFLIX обеспечивает безупречный стриминг? Взгляд архитектуры изнутри](https://habr.com/ru/articles/834338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834338)
 - [Делаем навык для Алисы. Alice-ktx](https://habr.com/ru/articles/834264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834264)
 - [Интерфейсы в JS с помощью @teqfw/di](https://habr.com/ru/articles/834002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834002)
 - [Используем gocv, чтобы определить возраст, эмоции и пол человека по фото](https://habr.com/ru/companies/first/articles/833934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833934)
