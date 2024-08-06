@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Документация RuStore: как мы настроили автоматическую навигацию в Docusaurus](https://habr.com/ru/companies/vk/articles/833208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833208)
 - [Книга: «Безопасные и надежные системы: Лучшие практики проектирования, внедрения и обслуживания как в Google»](https://habr.com/ru/companies/piter/articles/833942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833942)
 - [Немного о Запутанности](https://habr.com/ru/articles/834194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834194)
 - [Что нового в Amplicode 2024.2](https://habr.com/ru/companies/haulmont/articles/834164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834164)
 - [Поднимаем динамические окружения для stateless- и stateful-сервисов](https://habr.com/ru/companies/kts/articles/833354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833354)
-- [Как объединить кластеры Kubernetes без даунтайма: пошаговая инструкция](https://habr.com/ru/companies/cloud_ru/articles/833342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
