@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математика матричных расширений: как происходит умножение матриц на примере T-Head Matrix Extension](https://habr.com/ru/companies/yadro/articles/833948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833948)
 - [Замеряем неизмеримое: карточки реакций VKontakte Desirability Toolkit для оценки визуального восприятия](https://habr.com/ru/companies/vk/articles/834382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834382)
 - [Используем Proxi в Selenium](https://habr.com/ru/articles/834462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834462)
 - [Софтмакс Гумбеля: как устроен и для каких нейронных сетей полезен](https://habr.com/ru/companies/yandex/articles/834262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834262)
 - [Как работать с кэшами на мобилках](https://habr.com/ru/articles/834446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834446)
-- [«Учить язык в подавленном состоянии — непродуктивное занятие»: 10 лайфхаков для изучения английского](https://habr.com/ru/companies/yandex_praktikum/articles/834424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
