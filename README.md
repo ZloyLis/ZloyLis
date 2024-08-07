@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деплой сайта в облако за 4 команды в IDE](https://habr.com/ru/companies/amvera/articles/833482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833482)
 - [[Перевод] Flutter 3.24: что нового](https://habr.com/ru/companies/friflex/articles/834602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834602)
 - [PWA вместо приложения: плюсы, минусы, подводные камни](https://habr.com/ru/articles/834588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834588)
 - [Понятно про браузер: критические этапы рендеринга, аппаратное ускорение и оптимизации](https://habr.com/ru/articles/834184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834184)
 - [Java Digest #15](https://habr.com/ru/companies/tbank/articles/834448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834448)
-- [[Перевод] Что нового в Flutter 3.24?](https://habr.com/ru/articles/834568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
