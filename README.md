@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Замеряем неизмеримое: карточки реакций VKontakte Desirability Toolkit для оценки визуального восприятия](https://habr.com/ru/companies/vk/articles/834382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834382)
+- [Используем Proxi в Selenium](https://habr.com/ru/articles/834462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834462)
+- [Софтмакс Гумбеля: как устроен и для каких нейронных сетей полезен](https://habr.com/ru/companies/yandex/articles/834262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834262)
+- [Как работать с кэшами на мобилках](https://habr.com/ru/articles/834446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834446)
 - [«Учить язык в подавленном состоянии — непродуктивное занятие»: 10 лайфхаков для изучения английского](https://habr.com/ru/companies/yandex_praktikum/articles/834424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834424)
-- [Как найти работу для фиксиков: анализируем Godot Engine](https://habr.com/ru/companies/pvs-studio/articles/834420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834420)
-- [Как построить асинхронное Python-приложение для рассылки уведомлений о событии](https://habr.com/ru/companies/exolve/articles/834412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834412)
-- [Зачем изучать программирование в школе и при чем здесь технологическое предпринимательство](https://habr.com/ru/articles/834370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834370)
-- [PostgreSQL 16. Снимки данных. Часть 4](https://habr.com/ru/articles/833898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
