@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нового в Flutter 3.24?](https://habr.com/ru/articles/834568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834568)
+- [[Перевод] Как я портировал свой игровой движок с JavaScript на C](https://habr.com/ru/companies/ruvds/articles/834488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834488)
 - [Освобождение труда в ИБ: между кадровым голодом и «черным лебедем» ИИ](https://habr.com/ru/companies/pt/articles/834486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834486)
 - [Повышаем продуктивность. Метод Zettelkasten](https://habr.com/ru/articles/834514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834514)
 - [Математика матричных расширений: как происходит умножение матриц на примере T-Head Matrix Extension](https://habr.com/ru/companies/yadro/articles/833948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833948)
-- [Замеряем неизмеримое: карточки реакций VKontakte Desirability Toolkit для оценки визуального восприятия](https://habr.com/ru/companies/vk/articles/834382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834382)
-- [Используем Proxy в Selenium](https://habr.com/ru/articles/834462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
