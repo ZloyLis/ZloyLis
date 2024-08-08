@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать продакт-менеджером бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/834670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834670)
+- [Что стоит знать о Jetpack Compose: руководство для начинающих](https://habr.com/ru/companies/clevertec/articles/834052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834052)
 - [CTO в стартапе. Проблемы и выводы](https://habr.com/ru/articles/834668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834668)
 - [Как использовать blue-green-деплой: руководство по выкату одного и нескольких приложений](https://habr.com/ru/companies/flant/articles/834442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834442)
 - [Мой топ нейросетей для дизайнера](https://habr.com/ru/companies/yandex_praktikum/articles/833560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833560)
-- [Автоматическая установка приложений из GitHub-релизов](https://habr.com/ru/articles/834656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834656)
-- [Как OpenAPI повлиял на наш системный дизайн](https://habr.com/ru/articles/834560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
