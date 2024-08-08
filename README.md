@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как создать веб-приложение на базе VK Mini Apps](https://habr.com/ru/companies/selectel/articles/834720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834720)
+- [Да здравствует кастомный автозвук, или Мой DIY Bluetooth-пульт на основе ESP32](https://habr.com/ru/companies/kaspersky/articles/833232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833232)
+- [[Перевод] Простая красота XOR-сжатия чисел с плавающей запятой](https://habr.com/ru/companies/sportmaster_lab/articles/834840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834840)
+- [Дизайнера обидеть может каждый: 4 правила из художки, которыми я пользуюсь в работе](https://habr.com/ru/companies/agima/articles/834820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834820)
+- [Книга: «Программирование на Python с помощью GitHub Copilot и ChatGPT.»](https://habr.com/ru/companies/piter/articles/834562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834562)
 - [С какого языка школьнику стоит начать изучать программирование?](https://habr.com/ru/companies/pixel_study/articles/834810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834810)
-- [Часть 1. TMA на KMP. Пишем кликер на Kotlin/JS](https://habr.com/ru/articles/834808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834808)
-- [[Перевод] Продираемся сквозь сети в Kubernetes: Load-Balance, BGP, IPVS и все такое прочее](https://habr.com/ru/companies/orion_soft/articles/834806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834806)
-- [Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex](https://habr.com/ru/companies/karuna/articles/834400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
