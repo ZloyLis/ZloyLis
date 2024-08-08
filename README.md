@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы KaaS запускали в Облаке Рег.ру](https://habr.com/ru/companies/runity/articles/834722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834722)
 - [Погружение в облака: K8S по следам Ænix с gohost. Часть 1. Установка Kubernetes-кластера под управлением Cozystack](https://habr.com/ru/companies/aenix/articles/834682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834682)
 - [Симметрии модели числа. ЧКСС. Часть IV](https://habr.com/ru/articles/833386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833386)
 - [Как стать продакт-менеджером бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/834670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834670)
 - [Что стоит знать о Jetpack Compose: руководство для начинающих](https://habr.com/ru/companies/clevertec/articles/834052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834052)
-- [CTO в стартапе. Проблемы и выводы](https://habr.com/ru/articles/834668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
