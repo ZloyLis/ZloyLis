@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор образовательных площадок для изучения фронтенд-разработки](https://habr.com/ru/articles/834776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834776)
+- [Анализ проблем и «узких горлышек» в тестировании ПО](https://habr.com/ru/articles/834754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834754)
+- [Владелец кода, отзовись! Как построить и применить систему владения кодом](https://habr.com/ru/companies/sberbank/articles/834672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834672)
+- [Пишем своё приложение для установки PIN на другие приложения](https://habr.com/ru/articles/834768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834768)
 - [Не JavaScript’ом единым: как фронтенд-разработчику затащить на собесе](https://habr.com/ru/companies/kts/articles/834732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834732)
-- [Как мы KaaS запускали в Облаке Рег.ру](https://habr.com/ru/companies/runity/articles/834722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834722)
-- [Погружение в облака: K8S по следам Ænix с gohost. Часть 1. Установка Kubernetes-кластера под управлением Cozystack](https://habr.com/ru/companies/aenix/articles/834682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834682)
-- [Симметрии модели числа. ЧКСС. Часть IV](https://habr.com/ru/articles/833386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833386)
-- [Как стать продакт-менеджером бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/834670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
