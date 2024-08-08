@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Не вредные советы для РП». Как подготовиться к встрече с Волан-де-Мортом и защититься от Дементоров в проекте. Часть 1](https://habr.com/ru/articles/834860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834860)
+- [От текста к краткому изложению: библиотека Sumy](https://habr.com/ru/companies/otus/articles/832940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832940)
 - [Rust и иммутабельность](https://habr.com/ru/companies/otus/articles/832930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832930)
 - [Сетевые плагины &lpar;CNI&rpar; в Kubernetes](https://habr.com/ru/companies/amvera/articles/834482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834482)
 - [[Перевод] Освоение любой темы с помощью искусственного интеллекта и метода Фейнмана](https://habr.com/ru/companies/bothub/articles/834770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834770)
-- [Да здравствует кастомный автозвук, или Мой DIY Bluetooth-пульт на основе ESP32](https://habr.com/ru/companies/kaspersky/articles/833232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833232)
-- [[Перевод] Простая красота XOR-сжатия чисел с плавающей запятой](https://habr.com/ru/companies/sportmaster_lab/articles/834840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
