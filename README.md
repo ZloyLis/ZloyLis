@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор образовательных площадок для изучения фронтенд-разработки](https://habr.com/ru/articles/834776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834776)
-- [Анализ проблем и «узких горлышек» в тестировании ПО](https://habr.com/ru/articles/834754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834754)
-- [Владелец кода, отзовись! Как построить и применить систему владения кодом](https://habr.com/ru/companies/sberbank/articles/834672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834672)
-- [Пишем своё приложение для установки PIN на другие приложения](https://habr.com/ru/articles/834768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834768)
-- [Не JavaScript’ом единым: как фронтенд-разработчику затащить на собесе](https://habr.com/ru/companies/kts/articles/834732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834732)
+- [Часть 1. TMA на KMP. Пишем кликер на Kotlin/JS](https://habr.com/ru/articles/834808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834808)
+- [[Перевод] Продираемся сквозь сети в Kubernetes: Load-Balance, BGP, IPVS и все такое прочее](https://habr.com/ru/companies/orion_soft/articles/834806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834806)
+- [Внутреннее устройство sync.Map, сравнение производительности с map + RWMutex](https://habr.com/ru/companies/karuna/articles/834400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834400)
+- [Как мы перешли на конфигурацию Microsoft.Extensions.Configuration &lpar;IOptions&rpar; и стало хорошо](https://habr.com/ru/companies/2gis/articles/834680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834680)
+- [Как я ушел с работы и написал мессенджер, который стал мемом в социальной сети X](https://habr.com/ru/articles/834788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
