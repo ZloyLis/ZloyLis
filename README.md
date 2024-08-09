@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Шестая платформа данных: новое слово в хранении и обработке данных](https://habr.com/ru/companies/vk/articles/834964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834964)
+- [Общее представление о контейнерах и бинах в Spring](https://habr.com/ru/articles/834966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834966)
 - [Поглотит ли ИИ программистов?](https://habr.com/ru/companies/maxilect/articles/834962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834962)
 - [Вскрываем средства для DDoS-атак на российскую ИТ-инфраструктуру. Часть вторая](https://habr.com/ru/companies/usergate/articles/824080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824080)
 - [И опыт, сын ошибок трудных: обрабатываем ошибки в Spring Boot](https://habr.com/ru/companies/T1Holding/articles/834288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834288)
-- [Даже математики ошибаются](https://habr.com/ru/companies/pvs-studio/articles/834952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834952)
-- [Отладка PHP сценариев в Docker-контейнере с помощью PhpStorm и Xdebug. Глубокое погружение](https://habr.com/ru/articles/834922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
