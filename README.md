@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создание пустого проекта с помощью NestJS-mod](https://habr.com/ru/articles/834888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834888)
-- [Разговор с быдло-кодером](https://habr.com/ru/articles/834880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834880)
-- [«Не вредные советы для РП». Как подготовиться к встрече с Волан-де-Мортом и защититься от Дементоров в проекте. Часть 1](https://habr.com/ru/articles/834860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834860)
-- [От текста к краткому изложению: библиотека Sumy](https://habr.com/ru/companies/otus/articles/832940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832940)
-- [Rust и иммутабельность](https://habr.com/ru/companies/otus/articles/832930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832930)
+- [Поглотит ли ИИ программистов?](https://habr.com/ru/companies/maxilect/articles/834962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834962)
+- [Вскрываем средства для DDoS-атак на российскую ИТ-инфраструктуру. Часть вторая](https://habr.com/ru/companies/usergate/articles/824080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824080)
+- [И опыт, сын ошибок трудных: обрабатываем ошибки в Spring Boot](https://habr.com/ru/companies/T1Holding/articles/834288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834288)
+- [Даже математики ошибаются](https://habr.com/ru/companies/pvs-studio/articles/834952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834952)
+- [Отладка PHP сценариев в Docker-контейнере с помощью PhpStorm и Xdebug. Глубокое погружение](https://habr.com/ru/articles/834922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
