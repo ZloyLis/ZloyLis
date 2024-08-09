@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Yaml — король мета-описаний](https://habr.com/ru/articles/834270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834270)
+- [[Перевод] Angular: переменная в шаблоне, хорошо или плохо?](https://habr.com/ru/articles/835000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835000)
+- [Используем LocalDocs плагин для генерации кода по документации](https://habr.com/ru/articles/834992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834992)
 - [[Перевод] Шестая платформа данных: новое слово в хранении и обработке данных](https://habr.com/ru/companies/vk/articles/834964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834964)
 - [Общее представление о контейнерах и бинах в Spring](https://habr.com/ru/articles/834966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834966)
-- [Поглотит ли ИИ программистов?](https://habr.com/ru/companies/maxilect/articles/834962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834962)
-- [Вскрываем средства для DDoS-атак на российскую ИТ-инфраструктуру. Часть вторая](https://habr.com/ru/companies/usergate/articles/824080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824080)
-- [И опыт, сын ошибок трудных: обрабатываем ошибки в Spring Boot](https://habr.com/ru/companies/T1Holding/articles/834288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
