@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Экспорт сайта БЕСПЛАТНО с Webflow](https://habr.com/ru/articles/835106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835106)
 - [Дополненная реальность в Scratch для детей: гайд](https://habr.com/ru/companies/pixel_study/articles/835094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835094)
 - [Как придумать, приготовить и решиться на публичное выступление](https://habr.com/ru/companies/oleg-bunin/articles/835048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835048)
 - [Свой плеер для DASH: вошли и вышли, приключение на 20 минут. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/833946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833946)
 - [[Перевод] Получение TOTP-токенов на умнейших из тупых часов](https://habr.com/ru/companies/ruvds/articles/834440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834440)
+- [Пишем «Hello, World!» на Си для OpenWRT](https://habr.com/ru/articles/835024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
