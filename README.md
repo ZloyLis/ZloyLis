@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как придумать, приготовить и решиться на публичное выступление](https://habr.com/ru/companies/oleg-bunin/articles/835048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835048)
 - [Свой плеер для DASH: вошли и вышли, приключение на 20 минут. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/833946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833946)
 - [[Перевод] Получение TOTP-токенов на умнейших из тупых часов](https://habr.com/ru/companies/ruvds/articles/834440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834440)
 - [Пишем «Hello, World!» на Си для OpenWRT](https://habr.com/ru/articles/835024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835024)
 - [Представляем Taiga UI v4: еще больше компонентов и улучшений](https://habr.com/ru/companies/tbank/articles/834508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834508)
-- [Полезные фичи в Java: мой список](https://habr.com/ru/companies/otus/articles/833462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
