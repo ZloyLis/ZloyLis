@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mojo: убийца Python и будущее AI. Часть 2](https://habr.com/ru/articles/834772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834772)
-- [Как подружить веб-компоненты и JS-фреймворки](https://habr.com/ru/companies/sberbank/articles/834998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834998)
-- [Yaml — король мета-описаний](https://habr.com/ru/articles/834270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834270)
-- [[Перевод] Angular: переменная в шаблоне, хорошо или плохо?](https://habr.com/ru/articles/835000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835000)
-- [[Перевод] Шестая платформа данных: новое слово в хранении и обработке данных](https://habr.com/ru/companies/vk/articles/834964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834964)
+- [Свой плеер для DASH: вошли и вышли, приключение на 20 минут. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/833946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833946)
+- [[Перевод] Получение TOTP-токенов на умнейших из тупых часов](https://habr.com/ru/companies/ruvds/articles/834440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834440)
+- [Пишем «Hello, World!» на Си для OpenWRT](https://habr.com/ru/articles/835024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835024)
+- [Представляем Taiga UI v4: еще больше компонентов и улучшений](https://habr.com/ru/companies/tbank/articles/834508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834508)
+- [Полезные фичи в Java: мой список](https://habr.com/ru/companies/otus/articles/833462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
