@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Атрибут charset и важность его использования](https://habr.com/ru/articles/835206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835206)
+- [Тестирование кластеров Kubernetes инструментом Sonobuoy](https://habr.com/ru/articles/835204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835204)
 - [Я на дереве сижу, препроцессинг провожу](https://habr.com/ru/articles/835166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835166)
 - [python тестирование с помощью pytest&lpar;ч.1&rpar;](https://habr.com/ru/articles/835196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835196)
 - [[Перевод] Режимы наложения/смешивания в SwiftUI](https://habr.com/ru/companies/otus/articles/832766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832766)
-- [Combat Abilities System — Расширение Gameplay Ability System в Unreal Engine, Часть 2](https://habr.com/ru/articles/835190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835190)
-- [[Перевод] 80% разработчиков недовольны своей работой. Причина не в ИИ и не в коде](https://habr.com/ru/companies/productivity_inside/articles/835188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
