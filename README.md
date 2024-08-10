@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с MongoDB Oplog: Как отслеживать изменения документов](https://habr.com/ru/articles/835236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835236)
 - [Настройка почтового сервера Yandex spring boot](https://habr.com/ru/articles/835222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835222)
 - [Как читать текстовые файлы в Python?](https://habr.com/ru/articles/835216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835216)
-- [Изменяем значения ресурсов в играх с помощью Python](https://habr.com/ru/articles/835212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835212)
+- [Взламываем игры с помощью Python](https://habr.com/ru/articles/835212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835212)
 - [[Перевод] Атрибут charset и важность его использования](https://habr.com/ru/articles/835206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835206)
-- [Тестирование кластеров Kubernetes инструментом Sonobuoy](https://habr.com/ru/articles/835204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
