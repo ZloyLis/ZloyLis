@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Запросы и лимиты в Kubernetes: разбираемся в деталях](https://habr.com/ru/companies/timeweb/articles/835068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835068)
+- [Что почитать начинающим разработчикам: подборка книг по JavaScript](https://habr.com/ru/companies/ru_mts/articles/835072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835072)
+- [Как бороться с микроменеджментом в ИТ &lpar;и нужно ли&rpar;](https://habr.com/ru/companies/netologyru/articles/831164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831164)
 - [Отправляем Qt-логи с метками в Sentry](https://habr.com/ru/articles/834624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834624)
 - [Репликация: создание кластера, подключение, изменения настроек таблицы в кластере](https://habr.com/ru/articles/834980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834980)
-- [Кастомная тема Jetpack Compose](https://habr.com/ru/articles/835138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835138)
-- [Дополненная реальность в Scratch для детей: гайд](https://habr.com/ru/companies/pixel_study/articles/835094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835094)
-- [Как придумать, приготовить и решиться на публичное выступление](https://habr.com/ru/companies/oleg-bunin/articles/835048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
