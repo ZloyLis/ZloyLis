@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать defer в Go](https://habr.com/ru/companies/otus/articles/833702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833702)
+- [Веб-дизайн для подростков в Figma: 9 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/835184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835184)
 - [Nestjs, Firebase, GCloud. Как быстро поднять API backend на TypeScript](https://habr.com/ru/articles/835124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835124)
 - [О книгах и собеседованиях](https://habr.com/ru/articles/835180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835180)
-- [[Перевод] Запросы и лимиты в Kubernetes: разбираемся в деталях](https://habr.com/ru/companies/timeweb/articles/835068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835068)
-- [Что почитать начинающим разработчикам: подборка книг по JavaScript](https://habr.com/ru/companies/ru_mts/articles/835072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835072)
-- [Как бороться с микроменеджментом в ИТ &lpar;и нужно ли&rpar;](https://habr.com/ru/companies/netologyru/articles/831164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831164)
+- [По поводу очередного диспута на тему — «где хранить бизнес-логику — в СУБД или backend?»](https://habr.com/ru/articles/835160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
