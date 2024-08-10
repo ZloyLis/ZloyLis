@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Nestjs, Firebase, GCloud. Как быстро поднять API backend на TypeScript](https://habr.com/ru/articles/835124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835124)
+- [О книгах и собеседованиях](https://habr.com/ru/articles/835180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835180)
 - [[Перевод] Запросы и лимиты в Kubernetes: разбираемся в деталях](https://habr.com/ru/companies/timeweb/articles/835068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835068)
 - [Что почитать начинающим разработчикам: подборка книг по JavaScript](https://habr.com/ru/companies/ru_mts/articles/835072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835072)
 - [Как бороться с микроменеджментом в ИТ &lpar;и нужно ли&rpar;](https://habr.com/ru/companies/netologyru/articles/831164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831164)
-- [Отправляем Qt-логи с метками в Sentry](https://habr.com/ru/articles/834624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834624)
-- [Репликация: создание кластера, подключение, изменения настроек таблицы в кластере](https://habr.com/ru/articles/834980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
