@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Репликация: создание кластера, подключение, изменения настроек таблицы в кластере](https://habr.com/ru/articles/834980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834980)
 - [Кастомная тема Jetpack Compose](https://habr.com/ru/articles/835138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835138)
 - [Дополненная реальность в Scratch для детей: гайд](https://habr.com/ru/companies/pixel_study/articles/835094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835094)
 - [Как придумать, приготовить и решиться на публичное выступление](https://habr.com/ru/companies/oleg-bunin/articles/835048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835048)
 - [Свой плеер для DASH: вошли и вышли, приключение на 20 минут. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/833946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833946)
-- [[Перевод] Получение TOTP-токенов на умнейших из тупых часов](https://habr.com/ru/companies/ruvds/articles/834440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
