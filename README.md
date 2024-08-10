@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Режимы наложения/смешивания в SwiftUI](https://habr.com/ru/companies/otus/articles/832766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832766)
+- [Combat Abilities System — Расширение Gameplay Ability System в Unreal Engine, Часть 2](https://habr.com/ru/articles/835190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835190)
+- [[Перевод] 80% разработчиков недовольны своей работой. Причина не в ИИ и не в коде](https://habr.com/ru/companies/productivity_inside/articles/835188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835188)
 - [Как использовать defer в Go](https://habr.com/ru/companies/otus/articles/833702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833702)
 - [Веб-дизайн для подростков в Figma: 9 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/835184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835184)
-- [Nestjs, Firebase, GCloud. Как быстро поднять API backend на TypeScript](https://habr.com/ru/articles/835124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835124)
-- [О книгах и собеседованиях](https://habr.com/ru/articles/835180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835180)
-- [По поводу очередного диспута на тему — «где хранить бизнес-логику — в СУБД или backend?»](https://habr.com/ru/articles/835160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
