@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как читать текстовые файлы в Python?](https://habr.com/ru/articles/835216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835216)
+- [Изменяем значения ресурсов в играх с помощью Python](https://habr.com/ru/articles/835212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835212)
 - [[Перевод] Атрибут charset и важность его использования](https://habr.com/ru/articles/835206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835206)
 - [Тестирование кластеров Kubernetes инструментом Sonobuoy](https://habr.com/ru/articles/835204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835204)
 - [Я на дереве сижу, препроцессинг провожу](https://habr.com/ru/articles/835166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835166)
-- [python тестирование с помощью pytest&lpar;ч.1&rpar;](https://habr.com/ru/articles/835196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835196)
-- [[Перевод] Режимы наложения/смешивания в SwiftUI](https://habr.com/ru/companies/otus/articles/832766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
