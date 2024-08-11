@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бот-парсер маркетплейса на Python](https://habr.com/ru/companies/amvera/articles/834582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834582)
 - [[Перевод] Как работает протокол HLS](https://habr.com/ru/articles/835282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835282)
 - [Реализуем эффективный тупль с помощью C++26](https://habr.com/ru/articles/835176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835176)
 - [«Не вредные советы для Лидера Проекта». Часть 2 — Запуск проекта. Как правильно выстроить иерархию власти в Гриффиндоре](https://habr.com/ru/articles/835224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835224)
 - [Как я создавал онлайн игру «нарды» &lpar;часть первая&rpar;](https://habr.com/ru/articles/832796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832796)
-- [Есть ли конкуренция в IT?](https://habr.com/ru/articles/835278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
