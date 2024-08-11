@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как работает протокол HLS](https://habr.com/ru/articles/835282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835282)
+- [Реализуем эффективный тупль с помощью C++26](https://habr.com/ru/articles/835176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835176)
+- [«Не вредные советы для Лидера Проекта». Часть 2 — Запуск проекта. Как правильно выстроить иерархию власти в Гриффиндоре](https://habr.com/ru/articles/835224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835224)
+- [Как я создавал онлайн игру «нарды» &lpar;часть первая&rpar;](https://habr.com/ru/articles/832796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832796)
 - [Есть ли конкуренция в IT?](https://habr.com/ru/articles/835278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835278)
-- [Пишем красивый код на Python для детей: как облегчить совместную работу](https://habr.com/ru/companies/pixel_study/articles/835178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835178)
-- [FPC/Lazarus и Android](https://habr.com/ru/articles/835244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835244)
-- [Работа с MongoDB Oplog: Как отслеживать изменения документов](https://habr.com/ru/articles/835236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835236)
-- [Настройка почтового сервера Yandex spring boot](https://habr.com/ru/articles/835222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
