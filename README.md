@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Добавление базы данных Postgres в проект и запуск миграций через Flyway для NestJS-mod приложения](https://habr.com/ru/articles/835334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835334)
 - [DownUnderCTF 2024 — эксплуатация PKI.js](https://habr.com/ru/companies/radcop/articles/835318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835318)
 - [Мобильная разработка за неделю #550 &lpar;5 — 11 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/835320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835320)
 - [Знакомство с BeanPostProcessor](https://habr.com/ru/articles/835294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835294)
 - [Бот-парсер маркетплейса на Python](https://habr.com/ru/companies/amvera/articles/834582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834582)
-- [[Перевод] Как работает протокол HLS](https://habr.com/ru/articles/835282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
