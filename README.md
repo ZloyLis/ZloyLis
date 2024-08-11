@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли конкуренция в IT?](https://habr.com/ru/articles/835278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835278)
 - [Пишем красивый код на Python для детей: как облегчить совместную работу](https://habr.com/ru/companies/pixel_study/articles/835178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835178)
 - [FPC/Lazarus и Android](https://habr.com/ru/articles/835244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835244)
 - [Работа с MongoDB Oplog: Как отслеживать изменения документов](https://habr.com/ru/articles/835236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835236)
 - [Настройка почтового сервера Yandex spring boot](https://habr.com/ru/articles/835222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835222)
-- [Как читать текстовые файлы в Python?](https://habr.com/ru/articles/835216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
