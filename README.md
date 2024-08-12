@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эффективные и актуальные методы для быстрого увеличения конверсии вашего лендинга](https://habr.com/ru/articles/835430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835430)
+- [Жизненный цикл activity в Android для QA](https://habr.com/ru/articles/830198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830198)
+- [Pipelining &amp;amp; Composing: улучшаем читаемость кода. Реализация на TypeScript](https://habr.com/ru/articles/835428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835428)
+- [Как хакеры ломают облачную инфраструктуру хостинг-провайдера: кейс Standoff](https://habr.com/ru/companies/pt/articles/835098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835098)
 - [Архитектура мобильного приложения в разрезе высоких нагрузок и построения экосистем](https://habr.com/ru/companies/rshb/articles/834428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834428)
-- [Данные из базы Notion по Api за 5 минут](https://habr.com/ru/articles/835370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835370)
-- [Дорожная карта веб-дизайнера: качества и навыки, необходимые в работе](https://habr.com/ru/companies/yandex_praktikum/articles/827362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827362)
-- [Рецензия на книгу “Прикладное машинное обучение и искусственный интеллект для инженеров” Джеффа Просиза](https://habr.com/ru/companies/ssp-soft/articles/835364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835364)
-- [А что если вместо банковского вклада использовать облигации после резкого повышения ставки Банком России?](https://habr.com/ru/articles/835202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
