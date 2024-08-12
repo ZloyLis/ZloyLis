@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Симметрии СМ-модели, идемпотенты. Часть V](https://habr.com/ru/articles/834744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834744)
 - [Эффективные и актуальные методы для быстрого увеличения конверсии вашего лендинга](https://habr.com/ru/articles/835430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835430)
 - [Жизненный цикл activity в Android для QA](https://habr.com/ru/articles/830198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830198)
 - [Pipelining &amp;amp; Composing: улучшаем читаемость кода. Реализация на TypeScript](https://habr.com/ru/articles/835428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835428)
 - [Как хакеры ломают облачную инфраструктуру хостинг-провайдера: кейс Standoff](https://habr.com/ru/companies/pt/articles/835098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835098)
-- [Архитектура мобильного приложения в разрезе высоких нагрузок и построения экосистем](https://habr.com/ru/companies/rshb/articles/834428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
