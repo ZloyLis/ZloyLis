@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я стал сертифицированным разработчиком Vue.js: вся правда об экзамене](https://habr.com/ru/articles/832992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832992)
+- [Топ-20 курсов онлайн-образования для детей: Roblox, Scratch и другие](https://habr.com/ru/companies/pixel_study/articles/835548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835548)
 - [Полезные фичи в Rust](https://habr.com/ru/companies/otus/articles/833498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833498)
 - [Мой умный свет: или как я разработал свой модуль управления освещением](https://habr.com/ru/companies/timeweb/articles/833606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833606)
 - [[Перевод] Любой может получить доступ к удалённым и приватным данным репозиториев GitHub](https://habr.com/ru/companies/ruvds/articles/835448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835448)
-- [[Перевод] Полный гайд по тестированию на Flutter. Часть 7: Ошибки, которые усложняют написание тестов](https://habr.com/ru/articles/835506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835506)
-- [Ural Digital Weekend 2024. Подводим итоги](https://habr.com/ru/companies/spectr/articles/835378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
