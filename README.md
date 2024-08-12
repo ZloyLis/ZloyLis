@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Данные из базы Notion по Api за 5 минут](https://habr.com/ru/articles/835370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835370)
+- [Дорожная карта веб-дизайнера: качества и навыки, необходимые в работе](https://habr.com/ru/companies/yandex_praktikum/articles/827362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827362)
+- [Рецензия на книгу “Прикладное машинное обучение и искусственный интеллект для инженеров” Джеффа Просиза](https://habr.com/ru/companies/ssp-soft/articles/835364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835364)
 - [А что если вместо банковского вклада использовать облигации после резкого повышения ставки Банком России?](https://habr.com/ru/articles/835202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835202)
 - [Добавление базы данных Postgres в проект и запуск миграций через Flyway для NestJS-mod приложения](https://habr.com/ru/articles/835334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835334)
-- [DownUnderCTF 2024 — эксплуатация PKI.js](https://habr.com/ru/companies/radcop/articles/835318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835318)
-- [Мобильная разработка за неделю #550 &lpar;5 — 11 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/835320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835320)
-- [Знакомство с BeanPostProcessor](https://habr.com/ru/articles/835294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
