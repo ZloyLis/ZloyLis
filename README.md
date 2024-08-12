@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2433: презентации на конференциях DEF CON/Black Hat](https://habr.com/ru/companies/kaspersky/articles/835504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835504)
 - [Apple Pro Weekly News &lpar;05.08 – 11.08.24&rpar;](https://habr.com/ru/articles/835564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835564)
 - [Как я стал сертифицированным разработчиком Vue.js: вся правда об экзамене](https://habr.com/ru/articles/832992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832992)
 - [Топ-20 курсов онлайн-образования для детей: Roblox, Scratch и другие](https://habr.com/ru/companies/pixel_study/articles/835548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835548)
 - [Полезные фичи в Rust](https://habr.com/ru/companies/otus/articles/833498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833498)
-- [Макросы в tentacli. Часть один](https://habr.com/ru/articles/835240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
