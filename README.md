@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить и развернуть ML-пайплайн в Яндекс Облаке. Практическое руководство](https://habr.com/ru/companies/lanit/articles/830446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830446)
+- [[Перевод] Сложности масштабирования Kotlin Multiplatform](https://habr.com/ru/articles/835620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835620)
 - [Собеседование Python-разработчика: чего ждать и как подготовиться](https://habr.com/ru/companies/yandex_praktikum/articles/828928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828928)
 - [Тестируем в микросервисах: TaaS и пять шлюзов качества](https://habr.com/ru/companies/avito/articles/835060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835060)
 - [Как защитить свое Go-приложение](https://habr.com/ru/companies/otus/articles/834336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834336)
-- [Security Week 2433: презентации на конференциях DEF CON/Black Hat](https://habr.com/ru/companies/kaspersky/articles/835504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835504)
-- [Apple Pro Weekly News &lpar;05.08 – 11.08.24&rpar;](https://habr.com/ru/articles/835564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
