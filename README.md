@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автофейловер баз данных: когда резервный парашют раскрывается сам](https://habr.com/ru/articles/835840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835840)
+- [Презентация Made By Google: представили линейку Pixel 9, Pixel Watch 3 и наушники Pixel Buds Pro 2](https://habr.com/ru/articles/835836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835836)
 - [вАйТи-шные курсы в России, как классический рынок «Лимонов»](https://habr.com/ru/articles/835790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835790)
 - [Что думают про Flutter техлиды: инсайты из опроса](https://habr.com/ru/companies/friflex/articles/835802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835802)
 - [Топ-30 платных и бесплатных уроков программирования в Minecraft для детей](https://habr.com/ru/companies/pixel_study/articles/835800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835800)
-- [5 способов избежать сбоев в работе интернет-магазина и перестать считать упущенную прибыль](https://habr.com/ru/articles/834824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834824)
-- [Использование Signal и Model Inputs в Angular](https://habr.com/ru/companies/tbank/articles/835662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
