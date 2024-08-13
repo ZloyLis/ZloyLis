@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Signal и Model Inputs в Angular](https://habr.com/ru/companies/tbank/articles/835662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835662)
 - [Flax Engine. Знакомство с игровым движком и анализ его исходного кода](https://habr.com/ru/companies/pvs-studio/articles/835720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835720)
 - [Зверь по имени Диско. Как упорядочить процессы дизайн-Discovery и облегчить жизнь команде](https://habr.com/ru/companies/kuper/articles/835562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835562)
 - [Бинарные деревья — решение алгоритмических задач, часть 1](https://habr.com/ru/articles/835706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835706)
 - [Трансформация приложения «Райффайзен Банка»: проверяем гипотезы, растим лояльность](https://habr.com/ru/companies/redmadrobot/articles/835678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835678)
-- [«От идеи и до продакшена»: как разработать веб-приложение и загрузить в VK Mini Apps](https://habr.com/ru/companies/vk/articles/834838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
