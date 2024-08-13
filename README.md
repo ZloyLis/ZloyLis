@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что думают про Flutter техлиды: инсайты из опроса](https://habr.com/ru/companies/friflex/articles/835802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835802)
+- [Топ-30 платных и бесплатных уроков программирования в Minecraft для детей](https://habr.com/ru/companies/pixel_study/articles/835800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835800)
 - [5 способов избежать сбоев в работе интернет-магазина и перестать считать упущенную прибыль](https://habr.com/ru/articles/834824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834824)
 - [Использование Signal и Model Inputs в Angular](https://habr.com/ru/companies/tbank/articles/835662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835662)
 - [Flax Engine. Знакомство с игровым движком и анализ его исходного кода](https://habr.com/ru/companies/pvs-studio/articles/835720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835720)
-- [Зверь по имени Диско. Как упорядочить процессы дизайн-Discovery и облегчить жизнь команде](https://habr.com/ru/companies/kuper/articles/835562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835562)
-- [Бинарные деревья — решение алгоритмических задач, часть 1](https://habr.com/ru/articles/835706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
