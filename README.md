@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускорение и облегчение моделей для поддержания диалога виртуальных ассистентов Салют](https://habr.com/ru/companies/oleg-bunin/articles/834728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834728)
 - [SOAR и PTaS пришел конец? Обзор SecOps прогноза Gartner 2024](https://habr.com/ru/companies/serverspace/articles/835338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835338)
 - [Магия CSS на практике: советы по вёрстке от гика. Часть 3](https://habr.com/ru/companies/ruvds/articles/834478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834478)
 - [Часть 2. TMA на KMP. Пишем кликер для Telegram](https://habr.com/ru/articles/835658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835658)
 - [Как создать генератор кодов верификации на Go с помощью SMS API](https://habr.com/ru/companies/exolve/articles/835650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835650)
-- [Как построить и развернуть ML-пайплайн в Яндекс Облаке. Практическое руководство](https://habr.com/ru/companies/lanit/articles/830446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
