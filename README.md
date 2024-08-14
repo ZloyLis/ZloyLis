@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Непонятный rpc, или же первый пэт-проект или DynamicRPC](https://habr.com/ru/articles/836058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836058)
+- [[Перевод] От Web к Native с React](https://habr.com/ru/companies/timeweb/articles/833904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833904)
 - [Автоматизация бизнес-процессов и причем тут латиночка из Бразилии](https://habr.com/ru/articles/836026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836026)
 - [[Перевод] Вам следует написать новый &lpar;ужасный&rpar; язык программирования](https://habr.com/ru/companies/ruvds/articles/835974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835974)
 - [[Перевод] Знакомимся с Flutter GPU](https://habr.com/ru/articles/836010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836010)
-- [Как и зачем считать сбалансированный precision score](https://habr.com/ru/articles/836020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836020)
-- [Переход на iPhone 15 Pro Max после Android: Всё, о чём никто не предупреждал](https://habr.com/ru/articles/836006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
