@@ -36,9 +36,9 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Использование численного метода Монте-Карло для вычисления многомерных интегралов](https://habr.com/ru/articles/835870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835870)
+- [Боты против Бюджета: Помечаем визиты ботов в Метрике](https://habr.com/ru/articles/835262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835262)
 - [Kubernetes 1.31: новый VolumeSource, эмуляция старых версий и настройка анонимного доступа к эндпоинтам](https://habr.com/ru/companies/flant/articles/835626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835626)
 - [Практическая работа с BPMN](https://habr.com/ru/companies/otus/articles/831970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831970)
-- [Автофейловер баз данных: когда резервный парашют раскрывается сам](https://habr.com/ru/articles/835840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835840)
 - [Презентация Made By Google: представили линейку Pixel 9, Pixel Watch 3 и наушники Pixel Buds Pro 2](https://habr.com/ru/articles/835836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835836)
 <!-- BLOG-POST-LIST:END -->
 
