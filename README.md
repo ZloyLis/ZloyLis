@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PikTools Генплан: как мы сделали расчеты точнее, а проектировщиков — счастливее](https://habr.com/ru/companies/pik_digital/articles/835712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835712)
+- [Вычисляем миллиардное число Фибоначчи менее чем за 7 секунд](https://habr.com/ru/articles/835950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835950)
 - [Надзорщик за инфраструктурой: что делает VM-специалист и как им стать](https://habr.com/ru/companies/pt/articles/835710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835710)
 - [[Перевод] Иллюзия сеньора: ожидания vs. реальность](https://habr.com/ru/companies/productivity_inside/articles/835940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835940)
 - [Как сделать анализатор кода за два дня](https://habr.com/ru/companies/pvs-studio/articles/835936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835936)
-- [[Перевод] Обратный поиск по федеративному графу Netflix](https://habr.com/ru/companies/wunderfund/articles/832284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832284)
-- [PWA vs Native: где приложения для iOS и Android больше никогда не пригодятся](https://habr.com/ru/companies/clevertec/articles/835038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
