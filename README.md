@@ -39,7 +39,7 @@ ___
 - [Памятка по BPMN / BPMN-диаграммы](https://habr.com/ru/companies/sberbank/articles/836092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836092)
 - [Никаких стероидов, только продуктовый подход: как мы увеличили конверсию сайта World Class на 116%](https://habr.com/ru/companies/agima/articles/836072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836072)
 - [Зомби, гонки и лабиринты: какие игры создают дети в Roblox самостоятельно](https://habr.com/ru/companies/pixel_study/articles/836088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836088)
-- [[Перевод] Забытая история Java: версия Патрика Нотона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831426)
+- [[Перевод] Забытая история Java: версия Патрика Ноутона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
