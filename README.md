@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация бизнес-процессов и причем тут латиночка из Бразилии](https://habr.com/ru/articles/836026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836026)
+- [[Перевод] Вам следует написать новый &lpar;ужасный&rpar; язык программирования](https://habr.com/ru/companies/ruvds/articles/835974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835974)
+- [[Перевод] Знакомимся с Flutter GPU](https://habr.com/ru/articles/836010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836010)
+- [Как и зачем считать сбалансированный precision score](https://habr.com/ru/articles/836020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836020)
 - [Переход на iPhone 15 Pro Max после Android: Всё, о чём никто не предупреждал](https://habr.com/ru/articles/836006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836006)
-- [Три фичи PostgreSQL, которые будут полезны каждому новичку](https://habr.com/ru/companies/otus/articles/834314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834314)
-- [JPA Entity. Загрузи меня не полностью](https://habr.com/ru/companies/spring_aio/articles/833918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833918)
-- [PIKTools Генплан: как мы сделали расчеты точнее, а проектировщиков — счастливее](https://habr.com/ru/companies/pik_digital/articles/835712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835712)
-- [Вычисляем миллиардное число Фибоначчи менее чем за 7 секунд](https://habr.com/ru/articles/835950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
