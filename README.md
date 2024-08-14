@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Непонятный rpc, или же первый пэт-проект или DynamicRPC](https://habr.com/ru/articles/836058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836058)
-- [[Перевод] От Web к Native с React](https://habr.com/ru/companies/timeweb/articles/833904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833904)
-- [Автоматизация бизнес-процессов и причем тут латиночка из Бразилии](https://habr.com/ru/articles/836026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836026)
-- [[Перевод] Вам следует написать новый &lpar;ужасный&rpar; язык программирования](https://habr.com/ru/companies/ruvds/articles/835974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835974)
-- [[Перевод] Знакомимся с Flutter GPU](https://habr.com/ru/articles/836010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836010)
+- [Памятка по BPMN / BPMN-диаграммы](https://habr.com/ru/companies/sberbank/articles/836092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836092)
+- [Никаких стероидов, только продуктовый подход: как мы увеличили конверсию сайта World Class на 116%](https://habr.com/ru/companies/agima/articles/836072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836072)
+- [Зомби, гонки и лабиринты: какие игры создают дети в Roblox самостоятельно](https://habr.com/ru/companies/pixel_study/articles/836088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836088)
+- [[Перевод] Забытая история Java: версия Патрика Нотона](https://habr.com/ru/articles/831426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831426)
+- [Пилим движок Arcanum. Урок 01. Начало](https://habr.com/ru/articles/835980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
