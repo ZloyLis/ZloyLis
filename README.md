@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PikTools Генплан: как мы сделали расчеты точнее, а проектировщиков — счастливее](https://habr.com/ru/companies/pik_digital/articles/835712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835712)
+- [Три фичи PostgreSQL, которые будут полезны каждому новичку](https://habr.com/ru/companies/otus/articles/834314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834314)
+- [JPA Entity. Загрузи меня не полностью](https://habr.com/ru/companies/spring_aio/articles/833918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833918)
+- [PIKTools Генплан: как мы сделали расчеты точнее, а проектировщиков — счастливее](https://habr.com/ru/companies/pik_digital/articles/835712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835712)
 - [Вычисляем миллиардное число Фибоначчи менее чем за 7 секунд](https://habr.com/ru/articles/835950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835950)
 - [Надзорщик за инфраструктурой: что делает VM-специалист и как им стать](https://habr.com/ru/companies/pt/articles/835710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835710)
-- [[Перевод] Иллюзия сеньора: ожидания vs. реальность](https://habr.com/ru/companies/productivity_inside/articles/835940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835940)
-- [Как сделать анализатор кода за два дня](https://habr.com/ru/companies/pvs-studio/articles/835936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
