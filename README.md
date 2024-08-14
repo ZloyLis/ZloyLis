@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Надзорщик за инфраструктурой: что делает VM-специалист и как им стать](https://habr.com/ru/companies/pt/articles/835710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835710)
+- [[Перевод] Иллюзия сеньора: ожидания vs. реальность](https://habr.com/ru/companies/productivity_inside/articles/835940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835940)
+- [Как сделать анализатор кода за два дня](https://habr.com/ru/companies/pvs-studio/articles/835936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835936)
 - [[Перевод] Обратный поиск по федеративному графу Netflix](https://habr.com/ru/companies/wunderfund/articles/832284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832284)
 - [PWA vs Native: где приложения для iOS и Android больше никогда не пригодятся](https://habr.com/ru/companies/clevertec/articles/835038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835038)
-- [Оптимизация производительности Flutter приложений](https://habr.com/ru/articles/835890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835890)
-- [Использование численного метода Монте-Карло для вычисления многомерных интегралов](https://habr.com/ru/articles/835870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835870)
-- [Владелец Easy Breezy сливает 180к на рекламу, а Яндекс советует повысить цену клика](https://habr.com/ru/articles/835262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
