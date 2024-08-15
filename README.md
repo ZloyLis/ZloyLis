@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Динамический рендеринг Angular-компонентов](https://habr.com/ru/companies/tbank/articles/836036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836036)
+- [Вредные советы, как приходить с вопросами к техлиду](https://habr.com/ru/companies/alfa/articles/830350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830350)
+- [Чего боятся стажеры в IT](https://habr.com/ru/articles/836258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836258)
+- [Как улучшить работу сайта с помощью оптимизации изображений Image Stack](https://habr.com/ru/companies/selectel/articles/835992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835992)
 - [[Перевод] Полный гайд по тестированию на Flutter. Часть 9: Best practices написания Unit-тестов](https://habr.com/ru/articles/836226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836226)
-- [[Перевод] Как автоматизировать работу с версиями API через Postman API и GitHub Actions](https://habr.com/ru/companies/exolve/articles/836216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836216)
-- [Пишем шахматы на двоих на Pygame](https://habr.com/ru/articles/836214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836214)
-- [Правда ли, что Dubbo — это как gRPC, но из Китая?](https://habr.com/ru/companies/sberbank/articles/836202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836202)
-- [Делители](https://habr.com/ru/articles/836190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
