@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Динамический рендеринг Angular-компонентов](https://habr.com/ru/companies/tbank/articles/836036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836036)
-- [Вредные советы, как приходить с вопросами к техлиду](https://habr.com/ru/companies/alfa/articles/830350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830350)
-- [Чего боятся стажеры в IT](https://habr.com/ru/articles/836258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836258)
-- [Как улучшить работу сайта с помощью оптимизации изображений Image Stack](https://habr.com/ru/companies/selectel/articles/835992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835992)
-- [[Перевод] Полный гайд по тестированию на Flutter. Часть 9: Best practices написания Unit-тестов](https://habr.com/ru/articles/836226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836226)
+- [Внедряем DevSecOps в процесс разработки. Часть 4. Этап Test-time Checks, обзор инструментов](https://habr.com/ru/companies/spectr/articles/836004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836004)
+- [[Перевод] Точность спортивных прогнозов на основе коэффициентов ставок](https://habr.com/ru/articles/836286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836286)
+- [Как организовать процесс А/В тестирования на коленке](https://habr.com/ru/companies/okko/articles/836056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836056)
+- [Нагрузочное тестирование в разработке веб-приложений](https://habr.com/ru/articles/836278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836278)
+- [Вирт, Кормен и диалекты Basic: что изучить про алгоритмы и структуры данных разработчикам на С++](https://habr.com/ru/companies/yadro/articles/836106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
