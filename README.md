@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы фреймворка Combine для ML в Swift](https://habr.com/ru/companies/otus/articles/835832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835832)
 - [Как заставить code coverage работать на вас](https://habr.com/ru/articles/836366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836366)
 - [Настройка eslint-plugin-import для нового eslint 9 версии](https://habr.com/ru/articles/836368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836368)
 - [Чистая архитектура для начинающих](https://habr.com/ru/companies/otus/articles/835810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835810)
 - [Почему школьники ненавидят математику и что делать, если это коснулось вашего ребёнка](https://habr.com/ru/companies/lesallay_dialog/articles/836362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836362)
-- [Книга: «Алгоритмы и структуры данных на Python»](https://habr.com/ru/companies/piter/articles/836280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
