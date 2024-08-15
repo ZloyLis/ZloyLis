@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Феномен Рунге](https://habr.com/ru/articles/836392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836392)
+- [Топ-20 платных и бесплатных уроков программирования в Roblox для детей](https://habr.com/ru/companies/pixel_study/articles/836390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836390)
 - [Основы фреймворка Combine для ML в Swift](https://habr.com/ru/companies/otus/articles/835832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835832)
 - [Как заставить code coverage работать на вас](https://habr.com/ru/articles/836366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836366)
 - [Настройка eslint-plugin-import для нового eslint 9 версии](https://habr.com/ru/articles/836368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836368)
-- [Чистая архитектура для начинающих](https://habr.com/ru/companies/otus/articles/835810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835810)
-- [Почему школьники ненавидят математику и что делать, если это коснулось вашего ребёнка](https://habr.com/ru/companies/lesallay_dialog/articles/836362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
