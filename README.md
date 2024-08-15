@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Алгоритмы и структуры данных на Python»](https://habr.com/ru/companies/piter/articles/836280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836280)
+- [JupyterHub на стероидах: реализация KubeFlow фич без масштабных интеграций](https://habr.com/ru/companies/kts/articles/832084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832084)
+- [[Перевод] Деградация кода — это результат неправильной организации процессов](https://habr.com/ru/companies/sportmaster_lab/articles/836332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836332)
 - [PHP и Laravel дайджест новостей за июль 2024 года](https://habr.com/ru/articles/835574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835574)
 - [Как мы создали приложение для ТСД на Flutter с интеграцией 1С и внедрили его на 200 фабриках в Китае](https://habr.com/ru/companies/zenden_it/articles/836282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836282)
-- [[Перевод] Понимание спецификации ECMAScript, часть 3](https://habr.com/ru/articles/836314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836314)
-- [Зачем нужна R&amp;amp;D-команда: взгляд разработчика](https://habr.com/ru/companies/cloud_ru/articles/836272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836272)
-- [Анимации Hover и эффекты Blur: Полный гид по созданию динамических карточек](https://habr.com/ru/articles/836308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
