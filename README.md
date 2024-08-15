@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Stars до того, как стал известен](https://habr.com/ru/articles/836142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836142)
+- [Бот-репетитор для школьников, которые не любят математику](https://habr.com/ru/articles/836196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836196)
 - [Дока сервиса, с которым интегрируешься, неполная и неактуальная. Тестовых площадок нет. Как выжить системному аналитику?](https://habr.com/ru/companies/skbkontur/articles/835384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835384)
 - [Библиотека RustCrypto: симметричное и асимметричное шифрование](https://habr.com/ru/companies/otus/articles/833714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833714)
 - [Аккаунт разработчика Google Play Console и Apple Developer. Как создать из России. Пошаговая инструкция регистрации](https://habr.com/ru/articles/836176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836176)
-- [«Range-based for»: что интересного лежит на поверхности](https://habr.com/ru/articles/835130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835130)
-- [Памятка по BPMN и BPMN-диаграммам](https://habr.com/ru/companies/sberbank/articles/836092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
