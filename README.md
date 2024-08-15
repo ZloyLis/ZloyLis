@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP и Laravel дайджест новостей за июль 2024 года](https://habr.com/ru/articles/835574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835574)
+- [Как мы создали приложение для ТСД на Flutter с интеграцией 1С и внедрили его на 200 фабриках в Китае](https://habr.com/ru/companies/zenden_it/articles/836282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836282)
+- [[Перевод] Понимание спецификации ECMAScript, часть 3](https://habr.com/ru/articles/836314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836314)
 - [Зачем нужна R&amp;amp;D-команда: взгляд разработчика](https://habr.com/ru/companies/cloud_ru/articles/836272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836272)
 - [Анимации Hover и эффекты Blur: Полный гид по созданию динамических карточек](https://habr.com/ru/articles/836308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836308)
-- [Человек-швейцарский нож: чем занимаются аналитики ИБ и где мы таких берем](https://habr.com/ru/companies/pt/articles/836104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836104)
-- [Прокачаться как аналитик данных: подборка полезных материалов для самостоятельного изучения](https://habr.com/ru/companies/pgk/articles/835044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835044)
-- [Как провести IT-обучение и не остаться в пустой аудитории. Опыт подготовки команды к SwiftUI и лайфхаки для менторов](https://habr.com/ru/companies/ncloudtech/articles/835742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
