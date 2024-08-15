@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полный гайд по тестированию на Flutter. Часть 9: Best practices написания Unit-тестов](https://habr.com/ru/articles/836226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836226)
+- [[Перевод] Как автоматизировать работу с версиями API через Postman API и GitHub Actions](https://habr.com/ru/companies/exolve/articles/836216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836216)
 - [Пишем шахматы на двоих на Pygame](https://habr.com/ru/articles/836214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836214)
 - [Правда ли, что Dubbo — это как gRPC, но из Китая?](https://habr.com/ru/companies/sberbank/articles/836202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836202)
 - [Делители](https://habr.com/ru/articles/836190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836190)
-- [Telegram Stars до того, как стал известен](https://habr.com/ru/articles/836142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836142)
-- [Бот-репетитор для школьников, которые не любят математику](https://habr.com/ru/articles/836196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
