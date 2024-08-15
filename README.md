@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Внедряем DevSecOps в процесс разработки. Часть 4. Этап Test-time Checks, обзор инструментов](https://habr.com/ru/companies/spectr/articles/836004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836004)
-- [[Перевод] Точность спортивных прогнозов на основе коэффициентов ставок](https://habr.com/ru/articles/836286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836286)
-- [Как организовать процесс А/В тестирования на коленке](https://habr.com/ru/companies/okko/articles/836056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836056)
-- [Нагрузочное тестирование в разработке веб-приложений](https://habr.com/ru/articles/836278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836278)
-- [Вирт, Кормен и диалекты Basic: что изучить про алгоритмы и структуры данных разработчикам на С++](https://habr.com/ru/companies/yadro/articles/836106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836106)
+- [Зачем нужна R&amp;amp;D-команда: взгляд разработчика](https://habr.com/ru/companies/cloud_ru/articles/836272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836272)
+- [Анимации Hover и эффекты Blur: Полный гид по созданию динамических карточек](https://habr.com/ru/articles/836308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836308)
+- [Человек-швейцарский нож: чем занимаются аналитики ИБ и где мы таких берем](https://habr.com/ru/companies/pt/articles/836104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836104)
+- [Прокачаться как аналитик данных: подборка полезных материалов для самостоятельного изучения](https://habr.com/ru/companies/pgk/articles/835044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835044)
+- [Как провести IT-обучение и не остаться в пустой аудитории. Опыт подготовки команды к SwiftUI и лайфхаки для менторов](https://habr.com/ru/companies/ncloudtech/articles/835742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
