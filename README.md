@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Предсказания по-математишному:](https://habr.com/ru/articles/836164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836164)
+- [Предсказания по-математишному](https://habr.com/ru/articles/836164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836164)
 - [Можно ли стать Blue Team тимлидом за пять лет, или Работа в SOC: мифы и реальность](https://habr.com/ru/companies/kaspersky/articles/833260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833260)
 - [Математика надёжности. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/835112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835112)
 - [Создание XCFramework из SPM пакета](https://habr.com/ru/companies/psb/articles/836566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836566)
