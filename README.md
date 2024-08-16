@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Передача данных между фрагментом и BottomSheetDialogFragment с использованием Dagger и Navigation Component](https://habr.com/ru/articles/836632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836632)
 - [Три столпа функционального программирования в Rust: map, filter и fold](https://habr.com/ru/companies/otus/articles/836130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836130)
 - [Обучение детей HTML, CSS, JavaScript: обзор курса по созданию сайтов](https://habr.com/ru/companies/pixel_study/articles/836624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836624)
 - [Поиск секретов в программном коде &lpar;по энтропии&rpar;](https://habr.com/ru/companies/globalsign/articles/836622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836622)
 - [Предсказания по-математишному](https://habr.com/ru/articles/836164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836164)
-- [Можно ли стать Blue Team тимлидом за пять лет, или Работа в SOC: мифы и реальность](https://habr.com/ru/companies/kaspersky/articles/833260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
