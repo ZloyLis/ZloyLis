@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot 3.3: повышение производительности, безопасности и  observability](https://habr.com/ru/companies/spring_aio/articles/836506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836506)
 - [[Перевод] Как поделить торт и не поссориться: математические протоколы справедливого деления](https://habr.com/ru/articles/836530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836530)
 - [Не используйте Lombok с JPA, пока не прочтете эту статью](https://habr.com/ru/companies/haulmont/articles/836018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836018)
 - [Машинное обучение в человеческом обучении. Развитие проекта RuLearn](https://habr.com/ru/articles/836458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836458)
 - [Принципы SOLID. Dart/Flutter](https://habr.com/ru/articles/836480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836480)
-- [Как я бросила двустороннюю архитектуру и ушла к Redux со SwiftUI и SwiftData](https://habr.com/ru/articles/836476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
