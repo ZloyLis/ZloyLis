@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Продолжаем выжимать максимум из PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/836344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836344)
-- [Как мы настроили ЭДО при помощи No-Code и Low-Code. Кейс МТС](https://habr.com/ru/companies/ru_mts/articles/836466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836466)
-- [Клиент-серверная архитектура. SA для самых маленьких](https://habr.com/ru/articles/836464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836464)
-- [Головоломка «Сапёр» на Python в 66 строк и ее решение вероятностным алгоритмом](https://habr.com/ru/articles/833494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833494)
-- [Феномен Рунге](https://habr.com/ru/articles/836392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836392)
+- [Не используйте Lombok с JPA, пока не прочтете эту статью](https://habr.com/ru/companies/haulmont/articles/836018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836018)
+- [Машинное обучение в человеческом обучении. Развитие проекта RuLearn](https://habr.com/ru/articles/836458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836458)
+- [Принципы SOLID. Dart/Flutter](https://habr.com/ru/articles/836480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836480)
+- [Как я бросила двустороннюю архитектуру и ушла к Redux со SwiftUI и SwiftData](https://habr.com/ru/articles/836476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836476)
+- [«Старая добрая GTX 2080 теперь в облаке!»: дайджест продуктовых обновлений за июль](https://habr.com/ru/companies/selectel/articles/836430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
