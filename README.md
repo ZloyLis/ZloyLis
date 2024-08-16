@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Головоломка «Сапёр» на Python в 66 строк и ее решение вероятностным алгоритмом](https://habr.com/ru/articles/833494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833494)
 - [Феномен Рунге](https://habr.com/ru/articles/836392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836392)
 - [Топ-20 платных и бесплатных уроков программирования в Roblox для детей](https://habr.com/ru/companies/pixel_study/articles/836390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836390)
 - [Основы фреймворка Combine для ML в Swift](https://habr.com/ru/companies/otus/articles/835832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835832)
 - [Как заставить code coverage работать на вас](https://habr.com/ru/articles/836366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836366)
-- [Настройка eslint-plugin-import для нового eslint 9 версии](https://habr.com/ru/articles/836368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
