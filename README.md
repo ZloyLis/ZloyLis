@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы чистого кода на Python &lpar;PEP8, SOLID, ООП&rpar; ::: часть 1](https://habr.com/ru/articles/836678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836678)
 - [Один день из жизни JavaScript разработчика и его техлида](https://habr.com/ru/articles/836670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836670)
 - [Что на неделе: в России разрабатывают аналог Android и iOS, Miro уходит из страны, а IT-специалистам не хватает эмпатии](https://habr.com/ru/companies/agima/articles/836608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836608)
 - [Reflection в Go](https://habr.com/ru/companies/otus/articles/833770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833770)
 - [Создание микросервисов на Java с Dropwizard](https://habr.com/ru/companies/otus/articles/836042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836042)
-- [Требования безопасности: пособие для аналитика](https://habr.com/ru/articles/836656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
