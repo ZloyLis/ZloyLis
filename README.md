@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сериализация сущностей с помощью декораторов на TypeScript](https://habr.com/ru/articles/836746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836746)
+- [Запуск I2S Трансивера на Artery [часть 2] &lpar;DMA FSM, Pipeline&rpar;](https://habr.com/ru/articles/834304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834304)
 - [Расширенный экран «Profi», что это такое и как с ним работать. Взгляд из 2003 года](https://habr.com/ru/articles/836740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836740)
 - [Матрица Вандермонда](https://habr.com/ru/articles/836738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836738)
 - [Как я создавал онлайн игру «нарды» &lpar;часть вторая&rpar;. Сервер](https://habr.com/ru/articles/836698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836698)
-- [«Не вредные советы для Лидера Проекта». Часть 3 — Планирование и Управление командами. Как правильно играть в «Квиддич»](https://habr.com/ru/articles/836728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836728)
-- [Нужно ли программисту уметь считать?](https://habr.com/ru/articles/836726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
