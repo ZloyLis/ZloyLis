@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я создавал онлайн игру «нарды» &lpar;часть вторая&rpar;. Сервер](https://habr.com/ru/articles/836698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836698)
+- [«Не вредные советы для Лидера Проекта». Часть 3 — Планирование и Управление командами. Как правильно играть в «Квиддич»](https://habr.com/ru/articles/836728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836728)
+- [Нужно ли программисту уметь считать?](https://habr.com/ru/articles/836726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836726)
 - [Телеграм-бот магазин на Python. Создание с нуля](https://habr.com/ru/companies/amvera/articles/836604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836604)
 - [Интегрируем pandas с электронными таблицами: три способа](https://habr.com/ru/articles/836696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836696)
-- [[Перевод] Key-Value Хранилище на Стероидах](https://habr.com/ru/articles/836690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836690)
-- [Основы чистого кода на Python &lpar;PEP8, SOLID, ООП&rpar; ::: часть 1](https://habr.com/ru/articles/836678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836678)
-- [Один день из жизни JavaScript разработчика и его техлида](https://habr.com/ru/articles/836670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
