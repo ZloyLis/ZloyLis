@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как учатся программисты в Испании, да и не только, отличия с учебой в РФ](https://habr.com/ru/articles/836816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836816)
 - [Интеграция модели GPT-4 Omni в телеграм бота на Python](https://habr.com/ru/companies/amvera/articles/836556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836556)
 - [Бумажные книги по программированию — удобный инструмент или пережиток прошлого?](https://habr.com/ru/articles/831906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831906)
 - [Заметки по архитектуре .NET библиотеки: пространства имён](https://habr.com/ru/articles/836790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836790)
 - [26 к 1: легендарная серия в Монте-Карло и рождение «ошибки игрока»](https://habr.com/ru/articles/836788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836788)
-- [Карта реализации историй](https://habr.com/ru/articles/836766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
