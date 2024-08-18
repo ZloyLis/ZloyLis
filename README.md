@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бумажные книги по программированию — удобный инструмент или пережиток прошлого?](https://habr.com/ru/articles/831906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831906)
 - [Заметки по архитектуре .NET библиотеки: пространства имён](https://habr.com/ru/articles/836790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836790)
 - [26 к 1: легендарная серия в Монте-Карло и рождение «ошибки игрока»](https://habr.com/ru/articles/836788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836788)
 - [Карта реализации историй](https://habr.com/ru/articles/836766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836766)
 - [Сериализация сущностей с помощью декораторов на TypeScript](https://habr.com/ru/articles/836746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836746)
-- [Запуск I2S Трансивера на Artery [часть 2] &lpar;DMA, FSM, PipeLine&rpar;](https://habr.com/ru/articles/834304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
