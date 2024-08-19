@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отслеживание утечек памяти в iOS-приложении со SwiftUI в Runtime](https://habr.com/ru/companies/banki/articles/836924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836924)
+- [Я проанализировал 250 комментариев под статьёй о том, как не смог «войти в IT в 35 лет». Вот ваши самые полезные советы](https://habr.com/ru/articles/836802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836802)
 - [JPEG XL лучше всех, но Google против](https://habr.com/ru/companies/ruvds/articles/835150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835150)
 - [Git, Gitflow и ветка release: как разместить общий код команды в прод](https://habr.com/ru/companies/beeline_cloud/articles/836922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836922)
 - [Футбольные алгоритмы глобальной оптимизации &lpar;часть 1&rpar;](https://habr.com/ru/companies/first/articles/836860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836860)
-- [[Перевод] Автоматизация управления ML-экспериментами с помощью СI/CD](https://habr.com/ru/companies/wunderfund/articles/836908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836908)
-- [Почему школьники выбирают курсы программирования: общее развитие или карьера?](https://habr.com/ru/companies/pixel_study/articles/836902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
