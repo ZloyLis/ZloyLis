@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Комьюнити в IT: как появляются, зачем нужны и что в них делать джунам и интровертам](https://habr.com/ru/companies/yandex_praktikum/articles/836114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836114)
+- [Какую доску выбрать вместо miro. Обзор российских решений](https://habr.com/ru/articles/836832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836832)
 - [Мобильная разработка за неделю #506 &lpar;12 — 18 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/836844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836844)
 - [Как я создал систему поиска недооцененных американских акций, используя данные Яху Финанс: мой путь к разумному выбору](https://habr.com/ru/articles/836450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836450)
 - [Расширенный экран «Profi», что это такое и как с ним работать. Часть вторая](https://habr.com/ru/articles/836836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836836)
-- [Как учатся программисты в Испании, да и не только, отличия с учебой в РФ](https://habr.com/ru/articles/836816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836816)
-- [Интеграция модели GPT-4 Omni в телеграм бота на Python](https://habr.com/ru/companies/amvera/articles/836556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
