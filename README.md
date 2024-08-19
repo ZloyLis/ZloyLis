@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JPEG XL лучше всех, но Google против](https://habr.com/ru/companies/ruvds/articles/835150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835150)
+- [Git, Gitflow и ветка release: как разместить общий код команды в прод](https://habr.com/ru/companies/beeline_cloud/articles/836922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836922)
+- [Футбольные алгоритмы глобальной оптимизации &lpar;часть 1&rpar;](https://habr.com/ru/companies/first/articles/836860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836860)
+- [[Перевод] Автоматизация управления ML-экспериментами с помощью СI/CD](https://habr.com/ru/companies/wunderfund/articles/836908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836908)
 - [Почему школьники выбирают курсы программирования: общее развитие или карьера?](https://habr.com/ru/companies/pixel_study/articles/836902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836902)
-- [Стань мастером эффективности: открой для себя волшебный инструмент для массовой генерации кода и файлов](https://habr.com/ru/articles/836898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836898)
-- [РПА как АрхПродукт, 1 серия](https://habr.com/ru/companies/vtb/articles/834586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834586)
-- [Комьюнити в IT: как появляются, зачем нужны и что в них делать джунам и интровертам](https://habr.com/ru/companies/yandex_praktikum/articles/836114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836114)
-- [Какую доску выбрать вместо miro. Обзор российских решений](https://habr.com/ru/articles/836832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
