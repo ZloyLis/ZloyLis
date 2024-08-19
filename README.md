@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему школьники выбирают курсы программирования: общее развитие или карьера?](https://habr.com/ru/companies/pixel_study/articles/836902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836902)
+- [Стань мастером эффективности: открой для себя волшебный инструмент для массовой генерации кода и файлов](https://habr.com/ru/articles/836898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836898)
+- [РПА как АрхПродукт, 1 серия](https://habr.com/ru/companies/vtb/articles/834586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834586)
 - [Комьюнити в IT: как появляются, зачем нужны и что в них делать джунам и интровертам](https://habr.com/ru/companies/yandex_praktikum/articles/836114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836114)
 - [Какую доску выбрать вместо miro. Обзор российских решений](https://habr.com/ru/articles/836832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836832)
-- [Мобильная разработка за неделю #506 &lpar;12 — 18 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/836844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836844)
-- [Как я создал систему поиска недооцененных американских акций, используя данные Яху Финанс: мой путь к разумному выбору](https://habr.com/ru/articles/836450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836450)
-- [Расширенный экран «Profi», что это такое и как с ним работать. Часть вторая](https://habr.com/ru/articles/836836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
