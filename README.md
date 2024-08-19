@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключение PrismaORM в NestJS-mod приложение и проверка его работы через REST](https://habr.com/ru/articles/837008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837008)
+- [Запускаем таски по расписанию: когда важна высокая частота, а креши дорого стоят](https://habr.com/ru/companies/yandex360/articles/835952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835952)
+- [Как пройти интенсив Школы 21 от Сбер](https://habr.com/ru/articles/836984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836984)
 - [Баланс стоимости предметов в RPG с помощью линейной алгебры](https://habr.com/ru/articles/836776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836776)
-- [Отслеживание утечек памяти в iOS-приложении со SwiftUI в Runtime](https://habr.com/ru/companies/banki/articles/836924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836924)
-- [Я проанализировал 250 комментариев под статьёй о том, как не смог «войти в IT в 35 лет». Вот ваши самые полезные советы](https://habr.com/ru/articles/836802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836802)
-- [JPEG XL лучше всех, но Google против](https://habr.com/ru/companies/ruvds/articles/835150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835150)
-- [Git, Gitflow и ветка release: как разместить общий код команды в прод](https://habr.com/ru/companies/beeline_cloud/articles/836922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836922)
+- [Продвинутые структуры Redis](https://habr.com/ru/companies/skbkontur/articles/836944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
