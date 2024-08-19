@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Подключение PrismaORM в NestJS-mod приложение и проверка его работы через REST](https://habr.com/ru/articles/837008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837008)
-- [Запускаем таски по расписанию: когда важна высокая частота, а креши дорого стоят](https://habr.com/ru/companies/yandex360/articles/835952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835952)
-- [Как пройти интенсив Школы 21 от Сбер](https://habr.com/ru/articles/836984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836984)
-- [Баланс стоимости предметов в RPG с помощью линейной алгебры](https://habr.com/ru/articles/836776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836776)
-- [Продвинутые структуры Redis](https://habr.com/ru/companies/skbkontur/articles/836944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836944)
+- [Составляем портрет типичного программиста: версия 2024 года](https://habr.com/ru/specials/836974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836974)
+- [Как понять, что сайт был загружен из кэша](https://habr.com/ru/articles/837038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837038)
+- [[Перевод] Два потока, одно ядро: как устроена одновременная многопоточность](https://habr.com/ru/companies/ruvds/articles/836978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836978)
+- [Распределённые блокировки с помощью Tarantool 3](https://habr.com/ru/companies/vk/articles/835958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835958)
+- [Внедряем DevSecOps в процесс разработки. Часть 5. Этап Deploy-time Checks, обзор инструментов](https://habr.com/ru/companies/spectr/articles/837018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
