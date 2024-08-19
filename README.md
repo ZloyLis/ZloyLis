@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мечтают ли Андроиды о нейропроцессорных модулях? Перенос модели TensorFlow Lite в мобильное приложение](https://habr.com/ru/articles/837102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837102)
+- [Security Week 2434: уязвимое стороннее приложение в прошивке Google Pixel](https://habr.com/ru/companies/kaspersky/articles/837066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837066)
+- [Платные и бесплатные онлайн-курсы дополнительного образования для детей: веб-дизайн, иностранные языки и другие](https://habr.com/ru/companies/pixel_study/articles/837092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837092)
 - [Новое событие в JFR для диагностики использования устаревшего &lpar;deprecated&rpar; кода](https://habr.com/ru/articles/837052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837052)
 - [Составляем портрет типичного программиста: версия 2024 года](https://habr.com/ru/specials/836974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836974)
-- [Как понять, что сайт был загружен из кэша](https://habr.com/ru/articles/837038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837038)
-- [[Перевод] Два потока, одно ядро: как устроена одновременная многопоточность](https://habr.com/ru/companies/ruvds/articles/836978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836978)
-- [Распределённые блокировки с помощью Tarantool 3](https://habr.com/ru/companies/vk/articles/835958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
