@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширенный экран «Profi», что это такое и как с ним работать. Практикум 001. Загрузка картинки. GRF](https://habr.com/ru/articles/837144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837144)
+- [Apple Pro Weekly News &lpar;12.08 – 18.08.24&rpar;](https://habr.com/ru/articles/837136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837136)
 - [5 рандомных вопросов на собеседовании iOS разработчика](https://habr.com/ru/articles/837126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837126)
 - [Вот скажи мне, микросервис, в чем сила](https://habr.com/ru/articles/837006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837006)
 - [[Перевод] Просто выберите Postgres](https://habr.com/ru/articles/837098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837098)
-- [Мечтают ли Андроиды о нейропроцессорных модулях? Перенос модели TensorFlow Lite в мобильное приложение](https://habr.com/ru/articles/837102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837102)
-- [Security Week 2434: уязвимое стороннее приложение в прошивке Google Pixel](https://habr.com/ru/companies/kaspersky/articles/837066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
