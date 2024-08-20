@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Подходы к организации автотестов: Чему мы можем научиться у разработчиков?](https://habr.com/ru/articles/837140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837140)
+- [Как с помощью ML делать профессиональные подборки лучше редакторов](https://habr.com/ru/companies/tbank/articles/836940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836940)
 - [Книга: «Алгоритмы? Аха!»](https://habr.com/ru/companies/piter/articles/837312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837312)
 - [[Перевод] Руководство по deep links в Flutter-приложениях](https://habr.com/ru/articles/837330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837330)
 - [Практический пентест Kubernetes. Ищем открытые ресурсы](https://habr.com/ru/companies/cdnnow/articles/837012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837012)
-- [Про личную эффективность и борьбу с прокрастинацией](https://habr.com/ru/articles/836964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836964)
-- [[Перевод] find + mkdir полны по Тьюрингу](https://habr.com/ru/articles/837280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
