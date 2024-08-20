@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый подход для классификации текста в чат-ботах](https://habr.com/ru/companies/oleg-bunin/articles/835910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835910)
+- [Почему мы решили перейти с JUnit4 на JUnit5](https://habr.com/ru/companies/sberbank/articles/836920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836920)
+- [Шахматы на pygame: дубль два](https://habr.com/ru/articles/837222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837222)
 - [Какие курсы выбрать для ребенка: веб-программирование или веб-дизайн?](https://habr.com/ru/companies/pixel_study/articles/837218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837218)
 - [К вопросу о стохастическом характере СУБД и проблемах с нагрузочным тестированием в облачной среде](https://habr.com/ru/articles/837216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837216)
-- [[Перевод] Как Google обрабатывает JavaScript в процессе индексации веб-страниц](https://habr.com/ru/companies/timeweb/articles/836866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836866)
-- [IT Audit для автоматизации аудита](https://habr.com/ru/articles/837212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837212)
-- [Как настроить транскрибацию звонков и голосовых сообщений через API](https://habr.com/ru/companies/exolve/articles/837208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
