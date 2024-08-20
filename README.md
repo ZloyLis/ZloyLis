@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Новый подход для классификации текста в чат-ботах](https://habr.com/ru/companies/oleg-bunin/articles/835910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835910)
 - [Почему мы решили перейти с JUnit4 на JUnit5](https://habr.com/ru/companies/sberbank/articles/836920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836920)
+- [Как искусственный интеллект изменил программирование](https://habr.com/ru/companies/kokocgroup/articles/836560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836560)
 - [Шахматы на pygame: дубль два](https://habr.com/ru/articles/837222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837222)
 - [Какие курсы выбрать для ребенка: веб-программирование или веб-дизайн?](https://habr.com/ru/companies/pixel_study/articles/837218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837218)
-- [К вопросу о стохастическом характере СУБД и проблемах с нагрузочным тестированием в облачной среде](https://habr.com/ru/articles/837216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
