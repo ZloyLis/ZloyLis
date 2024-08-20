@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Алгоритмы? Аха!»](https://habr.com/ru/companies/piter/articles/837312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837312)
+- [[Перевод] Руководство по deep links в Flutter-приложениях](https://habr.com/ru/articles/837330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837330)
 - [Практический пентест Kubernetes. Ищем открытые ресурсы](https://habr.com/ru/companies/cdnnow/articles/837012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837012)
 - [Про личную эффективность и борьбу с прокрастинацией](https://habr.com/ru/articles/836964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836964)
 - [[Перевод] find + mkdir полны по Тьюрингу](https://habr.com/ru/articles/837280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837280)
-- [[Перевод] Функция setdefault&lpar;&rpar; в Python: для чего нужна и как её использовать](https://habr.com/ru/companies/netologyru/articles/836800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836800)
-- [Делаем своего AI стилиста на python](https://habr.com/ru/articles/832850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
