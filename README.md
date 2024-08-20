@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отделяем стек от рекурсии](https://habr.com/ru/articles/837260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837260)
+- [Вычисление логического выражения из строки в C# &lpar;.NET&rpar;](https://habr.com/ru/articles/837380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837380)
+- [Топ 10 языков программирования в 2024 году по деньгам и популярности](https://habr.com/ru/articles/834474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834474)
 - [Гайд по 3D-моделированию: Анимация в Blender для детей](https://habr.com/ru/companies/pixel_study/articles/837372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837372)
 - [[Перевод] Глубокое погружение в Sealed классы и интерфейсы](https://habr.com/ru/companies/spring_aio/articles/837262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837262)
-- [[Перевод] Подходы к организации автотестов: Чему мы можем научиться у разработчиков?](https://habr.com/ru/articles/837140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837140)
-- [Как с помощью ML делать профессиональные подборки лучше редакторов](https://habr.com/ru/companies/tbank/articles/836940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836940)
-- [Книга: «Алгоритмы? Аха!»](https://habr.com/ru/companies/piter/articles/837312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
