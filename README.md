@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизировать LinkedIn за месяц без команды разработчиков? Легко! Делюсь своей историей](https://habr.com/ru/articles/837184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837184)
-- [Как фронтендеру стать тимлидом кросс-функциональной команды](https://habr.com/ru/companies/avito/articles/836486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836486)
-- [Расширенный экран «Profi», что это такое и как с ним работать. Практикум 001. Загрузка картинки. GRF](https://habr.com/ru/articles/837144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837144)
-- [Apple Pro Weekly News &lpar;12.08 – 18.08.24&rpar;](https://habr.com/ru/articles/837136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837136)
-- [5 рандомных вопросов на собеседовании iOS разработчика](https://habr.com/ru/articles/837126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837126)
+- [Какие курсы выбрать для ребенка: веб-программирование или веб-дизайн?](https://habr.com/ru/companies/pixel_study/articles/837218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837218)
+- [К вопросу о стохастическом характере СУБД и проблемах с нагрузочным тестированием в облачной среде](https://habr.com/ru/articles/837216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837216)
+- [[Перевод] Как Google обрабатывает JavaScript в процессе индексации веб-страниц](https://habr.com/ru/companies/timeweb/articles/836866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836866)
+- [IT Audit для автоматизации аудита](https://habr.com/ru/articles/837212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837212)
+- [Как настроить транскрибацию звонков и голосовых сообщений через API](https://habr.com/ru/companies/exolve/articles/837208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
