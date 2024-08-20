@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практический пентест Kubernetes. Ищем открытые ресурсы](https://habr.com/ru/companies/cdnnow/articles/837012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837012)
+- [Про личную эффективность и борьбу с прокрастинацией](https://habr.com/ru/articles/836964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836964)
 - [[Перевод] find + mkdir полны по Тьюрингу](https://habr.com/ru/articles/837280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837280)
 - [[Перевод] Функция setdefault&lpar;&rpar; в Python: для чего нужна и как её использовать](https://habr.com/ru/companies/netologyru/articles/836800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836800)
 - [Делаем своего AI стилиста на python](https://habr.com/ru/articles/832850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832850)
-- [Новый подход для классификации текста в чат-ботах](https://habr.com/ru/companies/oleg-bunin/articles/835910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835910)
-- [Почему мы решили перейти с JUnit4 на JUnit5](https://habr.com/ru/companies/sberbank/articles/836920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
