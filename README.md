@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование isolatedModules в Angular 18.2](https://habr.com/ru/articles/837518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837518)
+- [Разделение и Объединение Pdf по страницам без стороннего компонента на C# и .NET](https://habr.com/ru/articles/837516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837516)
+- [Под капотом облаков. Строим облачную консоль. Часть 1. Знакомство](https://habr.com/ru/articles/837514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837514)
 - [С какого возраста начинать обучение детей программированию: опрос](https://habr.com/ru/companies/pixel_study/articles/837512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837512)
 - [Контейнеры, разминаем мозги под Kubernetes – разговоры у костра](https://habr.com/ru/companies/bitrix/articles/837500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837500)
-- [Nokia 6555 — 17 лет стильной раскладушке](https://habr.com/ru/companies/ru_mts/articles/837482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837482)
-- [Вы таки внедрили сканеры безопасности в пайплайны — на этом все?](https://habr.com/ru/companies/kuper/articles/835518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835518)
-- [Ваш плеер работает неправильно, или Как мы учили свой движок выбирать наилучшее качество видео](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/837334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
