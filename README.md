@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нагрузочное тестирование СУБД в облачной среде — часть 2. Итог](https://habr.com/ru/articles/837462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837462)
 - [От Cocoapods к Tuist+SPM быстрыми шагами](https://habr.com/ru/articles/837456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837456)
 - [Часть 2.5. TMA на KMP. Аутентификации пользователя с DRF](https://habr.com/ru/articles/837450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837450)
 - [V8. Работа со строкам. Пополняем словарный запас](https://habr.com/ru/articles/837390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837390)
 - [Простые коммуникации в Java-приложении](https://habr.com/ru/companies/haulmont/articles/837448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837448)
-- [Валидация форм во Flutter как PRO. Мастер-класс по использованию form_model и BLoC](https://habr.com/ru/articles/837444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
