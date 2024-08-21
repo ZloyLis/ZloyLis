@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как организовать работу с API в Nuxt 3 без шума и пыли](https://habr.com/ru/articles/837584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837584)
+- [Как DWH и BI-аналитика может помочь устранить до 80% ошибок при планировании отгрузок на маркетплейсы](https://habr.com/ru/articles/837578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837578)
 - [[Перевод] Стала ли AlphaGeometry прорывом в ИИ?](https://habr.com/ru/articles/837336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837336)
 - [Использование isolatedModules в Angular 18.2](https://habr.com/ru/articles/837518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837518)
 - [Под капотом облаков. Строим облачную консоль. Часть 1. Знакомство](https://habr.com/ru/articles/837514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837514)
-- [С какого возраста начинать обучение детей программированию: опрос](https://habr.com/ru/companies/pixel_study/articles/837512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837512)
-- [Контейнеры, разминаем мозги под Kubernetes – разговоры у костра](https://habr.com/ru/companies/bitrix/articles/837500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
