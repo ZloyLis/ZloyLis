@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Nokia 6555 — 17 лет стильной раскладушке](https://habr.com/ru/companies/ru_mts/articles/837482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837482)
+- [Вы таки внедрили сканеры безопасности в пайплайны — на этом все?](https://habr.com/ru/companies/kuper/articles/835518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835518)
+- [Ваш плеер работает неправильно, или Как мы учили свой движок выбирать наилучшее качество видео](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/837334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837334)
 - [Нагрузочное тестирование СУБД в облачной среде — часть 2. Итог](https://habr.com/ru/articles/837462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837462)
 - [От Cocoapods к Tuist+SPM быстрыми шагами](https://habr.com/ru/articles/837456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837456)
-- [Часть 2.5. TMA на KMP. Аутентификации пользователя с DRF](https://habr.com/ru/articles/837450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837450)
-- [V8. Работа со строкам. Пополняем словарный запас](https://habr.com/ru/articles/837390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837390)
-- [Простые коммуникации в Java-приложении](https://habr.com/ru/companies/haulmont/articles/837448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
