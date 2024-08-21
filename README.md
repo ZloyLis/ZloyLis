@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшая система шаблонов в Go](https://habr.com/ru/articles/837430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837430)
 - [От любви до ненависти с process.send](https://habr.com/ru/articles/837406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837406)
 - [Performance Testing для iOS](https://habr.com/ru/articles/837154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837154)
 - [Решение головоломки из университетского квеста с помощью Python](https://habr.com/ru/articles/837394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837394)
 - [Отделяем стек от рекурсии](https://habr.com/ru/articles/837260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837260)
-- [Вычисление логического выражения из строки в C# &lpar;.NET&rpar;](https://habr.com/ru/articles/837380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
