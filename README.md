@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с файлами в ОС CP/M на компьютере «Profi»](https://habr.com/ru/articles/837664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837664)
 - [Плохие тест-классы — перезапуск через боль](https://habr.com/ru/articles/837630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837630)
 - [Как организовать работу с API в Nuxt 3 без шума и пыли](https://habr.com/ru/articles/837584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837584)
 - [Как DWH и BI-аналитика может помочь устранить до 80% ошибок при планировании отгрузок на маркетплейсы](https://habr.com/ru/articles/837578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837578)
 - [[Перевод] Стала ли AlphaGeometry прорывом в ИИ?](https://habr.com/ru/articles/837336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837336)
-- [Использование isolatedModules в Angular 18.2](https://habr.com/ru/articles/837518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
