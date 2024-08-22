@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ключевые слова для iOS приложения](https://habr.com/ru/articles/837828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837828)
+- [Новый фронтенд-фреймворк?](https://habr.com/ru/articles/837938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837938)
 - [Антимат в чате на iOS: как я мешаю пользователям сквернословить](https://habr.com/ru/companies/ru_mts/articles/837906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837906)
 - [Поднимаем поиск по коду](https://habr.com/ru/articles/837844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837844)
 - [Оценка задач в сторипоинтах: мой путь от абстрактного к конкретному](https://habr.com/ru/companies/kuper/articles/836626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836626)
