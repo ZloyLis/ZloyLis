@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Профилирование приложений на SwiftUI с помощью Instruments](https://habr.com/ru/companies/otus/articles/837796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837796)
-- [Выносите ViewModel из Compose функций](https://habr.com/ru/articles/837790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837790)
-- [Готовые решения по внедрению геймификации – бонусные движки. Мой опыт: плюсы и минусы](https://habr.com/ru/articles/837322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837322)
-- [Поверхностный обзор источников по Obsidian](https://habr.com/ru/articles/837788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837788)
-- [«По вертикали и по горизонтали»: как перенести бумажные сканворды в онлайн, чтобы решать с друзьями на удаленке](https://habr.com/ru/companies/selectel/articles/837594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837594)
+- [Гайд: создаем Telegram-бота на Dart](https://habr.com/ru/companies/agima/articles/837618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837618)
+- [Как удерживать пользователей в мобильных играх](https://habr.com/ru/companies/magnus-tech/articles/837602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837602)
+- [[Перевод] Разработка под Neo Geo: Числа с фиксированной запятой](https://habr.com/ru/companies/beget/articles/837812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837812)
+- [«Перевод доставлен»: технотренды ТОП-5 банков России в разработке мобильных приложений. Разбираем на примере iOS](https://habr.com/ru/articles/837540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837540)
+- [11 исследований, кризис и вызовы: всё о технической трансформации «Райффайзен Онлайн»](https://habr.com/ru/companies/redmadrobot/articles/837806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
