@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько, реально, lossless треков в Яндекс Музыке](https://habr.com/ru/articles/837700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837700)
 - [Как построить мост между JavaScript и C++ через WASM, или гайд для самых маленьких](https://habr.com/ru/articles/837692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837692)
 - [Postgresso 7 &lpar;68&rpar;](https://habr.com/ru/companies/postgrespro/articles/828950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828950)
 - [Темная магия DIVIDE[DAX]](https://habr.com/ru/articles/837684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837684)
 - [Google CTF 2024 Quals — auxin2](https://habr.com/ru/companies/radcop/articles/837672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837672)
-- [Работа с файлами в ОС CP/M на компьютере «Profi»](https://habr.com/ru/articles/837664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
