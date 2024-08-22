@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Camunda 8. Почему не стоит использовать Connectors Bundle](https://habr.com/ru/companies/domclick/articles/836070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836070)
+- [Плюсы и минусы профессии DevOps: мысли для слушателей ИТ-курсов и не только](https://habr.com/ru/companies/ssp-soft/articles/837746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837746)
+- [Тестирование BLoC](https://habr.com/ru/articles/837646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837646)
 - [Автоматическая оптимизация реальных систем](https://habr.com/ru/articles/837728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837728)
 - [Event Sourcing и Saga с помощью Marten и Wolverine на C# и немного модульного монолита](https://habr.com/ru/companies/alfa/articles/837376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837376)
-- [Большие простые числа: преобразование Фурье](https://habr.com/ru/articles/837706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837706)
-- [Swift на FreeBSD](https://habr.com/ru/articles/837678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837678)
-- [Не базовые навыки. Как расширить свои возможности и найти новые подходы в работе](https://habr.com/ru/articles/837410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
