@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поднимаем поиск по коду](https://habr.com/ru/articles/837844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837844)
+- [Оценка задач в сторипоинтах: мой путь от абстрактного к конкретному](https://habr.com/ru/companies/kuper/articles/836626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836626)
 - [«Окно» в LLM: как компании из России найти безопасную альтернативу ChatGPT](https://habr.com/ru/companies/just_ai/articles/831156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831156)
 - [Полезный чек-лист: способы сокращения расходов при работе с Kubernetes](https://habr.com/ru/companies/vk/articles/836482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836482)
 - [Профилирование Java-приложений: от HeapDump до Grafana](https://habr.com/ru/articles/837834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837834)
-- [Графический дизайн для детей: обзор обучающей программы](https://habr.com/ru/companies/pixel_study/articles/837832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837832)
-- [Проблемы поколений: история уязвимостей мобильных сетей от 1G до 5G](https://habr.com/ru/companies/yadro/articles/833326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
