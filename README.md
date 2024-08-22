@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Гайд: создаем Telegram-бота на Dart](https://habr.com/ru/companies/agima/articles/837618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837618)
-- [Как удерживать пользователей в мобильных играх](https://habr.com/ru/companies/magnus-tech/articles/837602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837602)
-- [[Перевод] Разработка под Neo Geo: Числа с фиксированной запятой](https://habr.com/ru/companies/beget/articles/837812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837812)
-- [«Перевод доставлен»: технотренды ТОП-5 банков России в разработке мобильных приложений. Разбираем на примере iOS](https://habr.com/ru/articles/837540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837540)
-- [11 исследований, кризис и вызовы: всё о технической трансформации «Райффайзен Онлайн»](https://habr.com/ru/companies/redmadrobot/articles/837806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837806)
+- [«Окно» в LLM: как компании из России найти безопасную альтернативу ChatGPT](https://habr.com/ru/companies/just_ai/articles/831156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=831156)
+- [Полезный чек-лист: способы сокращения расходов при работе с Kubernetes](https://habr.com/ru/companies/vk/articles/836482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836482)
+- [Профилирование Java-приложений: от HeapDump до Grafana](https://habr.com/ru/articles/837834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837834)
+- [Графический дизайн для детей: обзор обучающей программы](https://habr.com/ru/companies/pixel_study/articles/837832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837832)
+- [Проблемы поколений: история уязвимостей мобильных сетей от 1G до 5G](https://habr.com/ru/companies/yadro/articles/833326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
