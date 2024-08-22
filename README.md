@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как я создал 175 шрифтов при помощи Rust](https://habr.com/ru/articles/836794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836794)
-- [Кто пытался сделать политики конфиденциальности и обработки ПД чуточку понятнее, и к чему привели такие попытки](https://habr.com/ru/companies/mws/articles/837654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837654)
-- [Adwaita-swift: теперь можно писать приложения для GNOME на языке Swift](https://habr.com/ru/companies/first/articles/837724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837724)
-- [Camunda 8. Почему не стоит использовать Connectors Bundle](https://habr.com/ru/companies/domclick/articles/836070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836070)
-- [Плюсы и минусы профессии DevOps: мысли для слушателей ИТ-курсов и не только](https://habr.com/ru/companies/ssp-soft/articles/837746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837746)
+- [[Перевод] Профилирование приложений на SwiftUI с помощью Instruments](https://habr.com/ru/companies/otus/articles/837796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837796)
+- [Выносите ViewModel из Compose функций](https://habr.com/ru/articles/837790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837790)
+- [Готовые решения по внедрению геймификации – бонусные движки. Мой опыт: плюсы и минусы](https://habr.com/ru/articles/837322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837322)
+- [Поверхностный обзор источников по Obsidian](https://habr.com/ru/articles/837788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837788)
+- [«По вертикали и по горизонтали»: как перенести бумажные сканворды в онлайн, чтобы решать с друзьями на удаленке](https://habr.com/ru/companies/selectel/articles/837594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
