@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От дизайна к фронтенду: как передать макет в разработку](https://habr.com/ru/companies/friflex/articles/838070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838070)
+- [RuTube во всем проигрывает YouTube — а сможет ли его одолеть VK ВИДЕО?](https://habr.com/ru/articles/837862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837862)
+- [Искусство ETL. Пишем собственный движок SQL на Spark [часть 7]](https://habr.com/ru/articles/838034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838034)
 - [XML-RPC:  вызываем все, везде и сразу](https://habr.com/ru/articles/837942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837942)
 - [[Перевод] Что значит инициализировать int в C++?](https://habr.com/ru/articles/835170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835170)
-- [Статистический анализ результатов нагрузочного тестирования СУБД в условиях облачной инфраструктуры](https://habr.com/ru/articles/838020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838020)
-- [Подсистема управления общими блоками SoC для ЗОСРВ «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/837776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837776)
-- [Как я делал upgrade PosgreSQL 12 -&amp;gt; 16](https://habr.com/ru/articles/837994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
