@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Статистический анализ результатов нагрузочного тестирования СУБД в условиях облачной инфраструктуры](https://habr.com/ru/articles/838020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838020)
+- [Подсистема управления общими блоками SoC для ЗОСРВ «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/837776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837776)
+- [Как я делал upgrade PosgreSQL 12 -&amp;gt; 16](https://habr.com/ru/articles/837994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837994)
 - [Нужно ли вам красивое резюме? Оцениваем результаты эксперимента с помощью статистики](https://habr.com/ru/companies/yandex_praktikum/articles/837572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837572)
 - [Methodcentipede](https://habr.com/ru/articles/837968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837968)
-- [Собственные проекты, какими они должны быть?](https://habr.com/ru/articles/837962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837962)
-- [Вот скажи мне, микросервис, в чем сила &lpar;часть 2&rpar;](https://habr.com/ru/articles/837870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837870)
-- [Новый фронтенд-фреймворк?](https://habr.com/ru/articles/837938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
