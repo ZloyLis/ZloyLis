@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [XML-RPC:  вызываем все, везде и сразу](https://habr.com/ru/articles/837942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837942)
+- [[Перевод] Что значит инициализировать int в C++?](https://habr.com/ru/articles/835170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835170)
 - [Статистический анализ результатов нагрузочного тестирования СУБД в условиях облачной инфраструктуры](https://habr.com/ru/articles/838020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838020)
 - [Подсистема управления общими блоками SoC для ЗОСРВ «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/837776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837776)
 - [Как я делал upgrade PosgreSQL 12 -&amp;gt; 16](https://habr.com/ru/articles/837994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837994)
-- [Нужно ли вам красивое резюме? Оцениваем результаты эксперимента с помощью статистики](https://habr.com/ru/companies/yandex_praktikum/articles/837572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837572)
-- [Methodcentipede](https://habr.com/ru/articles/837968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
