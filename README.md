@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цифровое моделирование](https://habr.com/ru/articles/837922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837922)
 - [ML в маркетинге: тест и мониторинг модели пользовательского негатива](https://habr.com/ru/companies/tbank/articles/838148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838148)
 - [Знакомство со Scratch для детей: как установить программу и создать первую игру](https://habr.com/ru/companies/pixel_study/articles/838136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838136)
 - [Как я прошел путь от администратора до руководителя проектов](https://habr.com/ru/companies/sigma/articles/837622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837622)
 - [Сокрытие конфиденциальных данных при логировании](https://habr.com/ru/companies/ru_mts/articles/838086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838086)
-- [[Перевод] JSpecify 1.0.0 и nullability в Java](https://habr.com/ru/companies/spring_aio/articles/838044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
