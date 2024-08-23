@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сокрытие конфиденциальных данных при логировании](https://habr.com/ru/companies/ru_mts/articles/838086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838086)
+- [[Перевод] JSpecify 1.0.0 и nullability в Java](https://habr.com/ru/companies/spring_aio/articles/838044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838044)
+- [pg_pathman vs декларативное секционирование — что лучше?](https://habr.com/ru/companies/gnivc/articles/838090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838090)
 - [От дизайна к фронтенду: как передать макет в разработку](https://habr.com/ru/companies/friflex/articles/838070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838070)
 - [RuTube во всем проигрывает YouTube — а сможет ли его одолеть VK ВИДЕО?](https://habr.com/ru/articles/837862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837862)
-- [Искусство ETL. Пишем собственный движок SQL на Spark [часть 7]](https://habr.com/ru/articles/838034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838034)
-- [XML-RPC:  вызываем все, везде и сразу](https://habr.com/ru/articles/837942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837942)
-- [[Перевод] Что значит инициализировать int в C++?](https://habr.com/ru/articles/835170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=835170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
