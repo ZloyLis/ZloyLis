@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python — тестирование с помощью pytest&lpar;ч.2&rpar;](https://habr.com/ru/articles/836680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836680)
+- [Надежный алгоритм поиска корней полиномиальных уравнений](https://habr.com/ru/articles/838252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838252)
 - [User-боты в Telegram: Простая автоматизация с Python &lpar;Pyrogram&rpar;. Первые шаги](https://habr.com/ru/companies/amvera/articles/838204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838204)
 - [Реальные примеры внедрения GPT в SEOWORK: результаты, успехи и провалы](https://habr.com/ru/articles/838236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838236)
 - [Миграция ZABBIX с Oracle в PostgreSQL с помощью Ora2pg](https://habr.com/ru/articles/838228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838228)
-- [[Перевод] strlcpy, или как CPU противоречат здравому смыслу](https://habr.com/ru/articles/838116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838116)
-- [Телеграм бот на C# с использованием Yandex Cloud Functions](https://habr.com/ru/articles/838220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
