@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Он был не таким: смотрим на HP Veer. Какой смартфон выпустила HP во времена iPhone 4?](https://habr.com/ru/companies/timeweb/articles/837704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837704)
+- [Как понять, что твой мидл готов стать сеньором? Гайд для тимлида &lpar;и не только&rpar;](https://habr.com/ru/companies/kaspersky/articles/837624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837624)
 - [Python — тестирование с помощью pytest&lpar;ч.2&rpar;](https://habr.com/ru/articles/836680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836680)
 - [Надежный алгоритм поиска корней полиномиальных уравнений](https://habr.com/ru/articles/838252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838252)
 - [User-боты в Telegram: Простая автоматизация с Python &lpar;Pyrogram&rpar;. Первые шаги](https://habr.com/ru/companies/amvera/articles/838204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838204)
-- [Реальные примеры внедрения GPT в SEOWORK: результаты, успехи и провалы](https://habr.com/ru/articles/838236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838236)
-- [Миграция ZABBIX с Oracle в PostgreSQL с помощью Ora2pg](https://habr.com/ru/articles/838228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
