@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] strlcpy, или как CPU противоречат здравому смыслу](https://habr.com/ru/articles/838116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838116)
+- [Телеграм бот на C# с использованием Yandex Cloud Functions](https://habr.com/ru/articles/838220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838220)
 - [Работа с массивами в формах&lpar;динамическое добавление полей&rpar; с использованием библиотеки react-hook-form](https://habr.com/ru/articles/838214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838214)
 - [[Перевод] Проблема альтернативной реализации](https://habr.com/ru/companies/sportmaster_lab/articles/838194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838194)
 - [[Перевод] Метод оценки вероятности футбольных результатов для стратегии ставок с потенциалом достижения положительной доходности](https://habr.com/ru/articles/838186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838186)
-- [Цифровое моделирование](https://habr.com/ru/articles/837922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837922)
-- [ML в маркетинге: тест и мониторинг модели пользовательского негатива](https://habr.com/ru/companies/tbank/articles/838148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
