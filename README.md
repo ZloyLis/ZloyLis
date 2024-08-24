@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с массивами в формах&lpar;динамическое добавление полей&rpar; с использованием библиотеки react-hook-form](https://habr.com/ru/articles/838214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838214)
 - [[Перевод] Проблема альтернативной реализации](https://habr.com/ru/companies/sportmaster_lab/articles/838194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838194)
 - [[Перевод] Метод оценки вероятности футбольных результатов для стратегии ставок с потенциалом достижения положительной доходности](https://habr.com/ru/articles/838186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838186)
 - [Цифровое моделирование](https://habr.com/ru/articles/837922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837922)
 - [ML в маркетинге: тест и мониторинг модели пользовательского негатива](https://habr.com/ru/companies/tbank/articles/838148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838148)
-- [Знакомство со Scratch для детей: как установить программу и создать первую игру](https://habr.com/ru/companies/pixel_study/articles/838136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
