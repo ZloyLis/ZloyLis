@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #552 &lpar;19 — 25 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/838370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838370)
+- [Пилим движок Arcanum. Урок 02. Работа с файлами игры, рисуем первый спрайт](https://habr.com/ru/articles/838118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838118)
 - [[Перевод] Интригующее расследование QUEENCREEK](https://habr.com/ru/companies/ruvds/articles/837998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837998)
 - [[Перевод] Математика за колючей проволокой: рождение теории пучков](https://habr.com/ru/articles/838352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838352)
 - [Как я создавал онлайн игру «нарды» &lpar;часть третья&rpar;. Сервер](https://habr.com/ru/articles/838342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838342)
-- [Из истории ОС к дню Linux](https://habr.com/ru/companies/inferit/articles/838310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838310)
-- [Он был не таким: смотрим на HP Veer. Какой смартфон выпустила HP во времена iPhone 4?](https://habr.com/ru/companies/timeweb/articles/837704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
