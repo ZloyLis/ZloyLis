@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Математика за колючей проволокой: рождение теории пучков](https://habr.com/ru/articles/838352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838352)
+- [Как я создавал онлайн игру «нарды» &lpar;часть третья&rpar;. Сервер](https://habr.com/ru/articles/838342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838342)
 - [Из истории ОС к дню Linux](https://habr.com/ru/companies/inferit/articles/838310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838310)
 - [Он был не таким: смотрим на HP Veer. Какой смартфон выпустила HP во времена iPhone 4?](https://habr.com/ru/companies/timeweb/articles/837704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837704)
 - [Как понять, что твой мидл готов стать сеньором? Гайд для тимлида &lpar;и не только&rpar;](https://habr.com/ru/companies/kaspersky/articles/837624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837624)
-- [Python — тестирование с помощью pytest&lpar;ч.2&rpar;](https://habr.com/ru/articles/836680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836680)
-- [Надежный алгоритм поиска корней полиномиальных уравнений](https://habr.com/ru/articles/838252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
