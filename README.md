@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем телеграм-бот для сохранения сообщений в блокчейн](https://habr.com/ru/articles/838430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838430)
 - [Поиск секретов в программном коде &lpar;по энтропии&rpar;](https://habr.com/ru/companies/globalsign/articles/838438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838438)
 - [Понимание прогноза глюкозы AndroidAPS](https://habr.com/ru/articles/838434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838434)
 - [Все еще хотите стать тимлидом?](https://habr.com/ru/articles/838424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838424)
 - [Logger C++](https://habr.com/ru/articles/838412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838412)
-- [Telegram Mini App. Как создать Web App с нуля](https://habr.com/ru/companies/amvera/articles/838180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
