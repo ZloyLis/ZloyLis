@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Mini App. Как создать Web App с нуля](https://habr.com/ru/companies/amvera/articles/838180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838180)
+- [Конструкторы, деструкторы, операторы — частые практики при программировании на C++](https://habr.com/ru/articles/838392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838392)
 - [Бинарный поиск на пальцах](https://habr.com/ru/articles/832024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832024)
 - [[Перевод] Даты в Javascript наконец-то пофиксят](https://habr.com/ru/articles/838378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838378)
 - [Мобильная разработка за неделю #552 &lpar;19 — 25 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/838370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838370)
-- [Пилим движок Arcanum. Урок 02. Работа с файлами игры, рисуем первый спрайт](https://habr.com/ru/articles/838118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838118)
-- [[Перевод] Интригующее расследование QUEENCREEK](https://habr.com/ru/companies/ruvds/articles/837998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
