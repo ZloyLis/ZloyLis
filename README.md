@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бинарный поиск на пальцах](https://habr.com/ru/articles/832024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832024)
+- [[Перевод] Даты в Javascript наконец-то пофиксят](https://habr.com/ru/articles/838378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838378)
 - [Мобильная разработка за неделю #552 &lpar;19 — 25 августа&rpar;](https://habr.com/ru/companies/productivity_inside/articles/838370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838370)
 - [Пилим движок Arcanum. Урок 02. Работа с файлами игры, рисуем первый спрайт](https://habr.com/ru/articles/838118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838118)
 - [[Перевод] Интригующее расследование QUEENCREEK](https://habr.com/ru/companies/ruvds/articles/837998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837998)
-- [[Перевод] Математика за колючей проволокой: рождение теории пучков](https://habr.com/ru/articles/838352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838352)
-- [Как я создавал онлайн игру «нарды» &lpar;часть третья&rpar;. Сервер](https://habr.com/ru/articles/838342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
