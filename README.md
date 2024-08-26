@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C3D Web Vision: функциональность и планы по развитию компонента](https://habr.com/ru/articles/826756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826756)
+- [Кластеризация PostgreSQL за день или за 15 минут: разбираем варианты и подводные камни реализации](https://habr.com/ru/companies/orion_soft/articles/838566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838566)
 - [Мой первый баг: инструменты и ресурсы для начинающих тестировщиков](https://habr.com/ru/companies/selectel/articles/838508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838508)
 - [Вычисляем Вес в приросте в Superset](https://habr.com/ru/articles/838550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838550)
 - [Улучшаем UX для тюменского термального курорта или история о том, как мы уменьшали количество очередей в офлайне](https://habr.com/ru/articles/838046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838046)
-- [Кайфовый дизайн: Как сделать приложение, которое не захочется удалить](https://habr.com/ru/articles/838524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838524)
-- [Управление безопасностью приложений: всем выйти из сумрака](https://habr.com/ru/companies/pt/articles/837774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
