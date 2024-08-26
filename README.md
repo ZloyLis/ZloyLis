@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Актуальность аналитиков и разработчиков 1C на рынке труда](https://habr.com/ru/companies/yandex_praktikum/articles/837466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837466)
+- [[Перевод] Профилирование приложений на SwiftUI с помощью Instruments](https://habr.com/ru/companies/otus/articles/838490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838490)
 - [Как небольшой команде переехать на ClickHouse: на какие грабли мы наступили и о каких фишках не знали](https://habr.com/ru/companies/oleg-bunin/articles/836078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836078)
 - [[Перевод] Как сбежать из Симуляции](https://habr.com/ru/articles/838008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838008)
 - [Чистый код: Принцип единственной ответственности &lpar;SRP&rpar;](https://habr.com/ru/articles/838454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838454)
-- [На рынке систем документооборота новый игрок — Postgres Pro](https://habr.com/ru/articles/838468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838468)
-- [Hono.js: Легкий Путь к Эффективным API](https://habr.com/ru/articles/838448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
