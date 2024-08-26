@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как сбежать из Симуляции](https://habr.com/ru/articles/838008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838008)
+- [Чистый код: Принцип единственной ответственности &lpar;SRP&rpar;](https://habr.com/ru/articles/838454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838454)
+- [Похоже на рынке систем документооборота ситуация меняется в пользу Postgres Pro](https://habr.com/ru/articles/838468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838468)
 - [Hono.js: Легкий Путь к Эффективным API](https://habr.com/ru/articles/838448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838448)
 - [Делаем телеграм-бот для сохранения сообщений в блокчейн](https://habr.com/ru/articles/838430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838430)
-- [Поиск секретов в программном коде &lpar;по энтропии&rpar;](https://habr.com/ru/companies/globalsign/articles/838438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838438)
-- [Понимание прогноза глюкозы AndroidAPS](https://habr.com/ru/articles/838434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838434)
-- [Все еще хотите стать тимлидом?](https://habr.com/ru/articles/838424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
