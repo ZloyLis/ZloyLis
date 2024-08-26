@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кайфовый дизайн: Как сделать приложение, которое не захочется удалить](https://habr.com/ru/articles/838524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838524)
+- [Управление безопасностью приложений: всем выйти из сумрака](https://habr.com/ru/companies/pt/articles/837774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837774)
+- [[Перевод] Как в Netflix сделали поиск по федеративному графу](https://habr.com/ru/companies/wunderfund/articles/838440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838440)
+- [Как я решил проблему с постоянными обрывами RDP-соединения после внедрения MFA-аутентификации](https://habr.com/ru/articles/838518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838518)
 - [Анатомия умного поиска в Joomla 5. Создание плагина](https://habr.com/ru/articles/816571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816571)
-- [Индексирование баз данных в PostgreSQL: погружение в тему](https://habr.com/ru/companies/ibs/articles/838492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838492)
-- [Актуальность аналитиков и разработчиков 1C на рынке труда](https://habr.com/ru/companies/yandex_praktikum/articles/837466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837466)
-- [[Перевод] Профилирование приложений на SwiftUI с помощью Instruments](https://habr.com/ru/companies/otus/articles/838490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838490)
-- [Как небольшой команде переехать на ClickHouse: на какие грабли мы наступили и о каких фишках не знали](https://habr.com/ru/companies/oleg-bunin/articles/836078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
