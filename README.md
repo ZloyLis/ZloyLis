@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем кроссворд про ML с помощью Монте-Карло и ChatGPT](https://habr.com/ru/articles/838674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838674)
+- [[Перевод] Как простой Python-скрипт с использованием ИИ может оптимизировать ваш рабочий процесс](https://habr.com/ru/companies/bothub/articles/838260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838260)
 - [SOLID in React](https://habr.com/ru/articles/838652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838652)
 - [Книга: «Грокаем алгоритмы. 2-е изд.»](https://habr.com/ru/companies/piter/articles/837792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837792)
 - [Demethodizing &amp;amp; Methodizing: от методов к функциям и обратно](https://habr.com/ru/articles/838634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838634)
-- [MBA в Сколково. Обзор программы через призму личного опыта](https://habr.com/ru/companies/jetinfosystems/articles/838618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838618)
-- [Как я исправил сбой Microsoft Store в Windows &lpar;и при чём здесь Python&rpar;](https://habr.com/ru/articles/838614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
