@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [&amp;lt;Не&amp;gt;Страшное слово эстимация, или Как я впервые оценивала время на тестирование и перебрала](https://habr.com/ru/articles/838716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838716)
 - [Программирование — искусство?](https://habr.com/ru/articles/838704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838704)
 - [Видео экстензометр](https://habr.com/ru/articles/838698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838698)
 - [[Перевод] Linux Pipes – медленные](https://habr.com/ru/companies/beget/articles/838688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838688)
 - [Монокультура в программировании](https://habr.com/ru/articles/838682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838682)
-- [Security Week 2435: долгоживущие уязвимости в продуктах Microsoft](https://habr.com/ru/companies/kaspersky/articles/838558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
