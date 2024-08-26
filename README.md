@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой первый баг: инструменты и ресурсы для начинающих тестировщиков](https://habr.com/ru/companies/selectel/articles/838508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838508)
+- [Вычисляем Вес в приросте в Superset](https://habr.com/ru/articles/838550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838550)
+- [Улучшаем UX для тюменского термального курорта или история о том, как мы уменьшали количество очередей в офлайне](https://habr.com/ru/articles/838046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838046)
 - [Кайфовый дизайн: Как сделать приложение, которое не захочется удалить](https://habr.com/ru/articles/838524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838524)
 - [Управление безопасностью приложений: всем выйти из сумрака](https://habr.com/ru/companies/pt/articles/837774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837774)
-- [[Перевод] Как в Netflix сделали поиск по федеративному графу](https://habr.com/ru/companies/wunderfund/articles/838440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838440)
-- [Как я решил проблему с постоянными обрывами RDP-соединения после внедрения MFA-аутентификации](https://habr.com/ru/articles/838518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838518)
-- [Анатомия умного поиска в Joomla 5. Создание плагина](https://habr.com/ru/articles/816571/?utm_source=habrahabr&utm_medium=rss&utm_campaign=816571)
 <!-- BLOG-POST-LIST:END -->
 
 ---
