@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;19.08 – 25.08.24&rpar;](https://habr.com/ru/articles/838732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838732)
 - [Большое UX/UI исследование мобильных приложений аптек](https://habr.com/ru/articles/838726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838726)
 - [&amp;lt;Не&amp;gt;Страшное слово эстимация, или Как я впервые оценивала время на тестирование и перебрала](https://habr.com/ru/articles/838716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838716)
 - [Программирование — искусство?](https://habr.com/ru/articles/838704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838704)
 - [Видео экстензометр](https://habr.com/ru/articles/838698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838698)
-- [[Перевод] Linux Pipes – медленные](https://habr.com/ru/companies/beget/articles/838688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
