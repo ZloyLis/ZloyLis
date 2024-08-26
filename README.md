@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [C3D Web Vision: функциональность и планы по развитию компонента](https://habr.com/ru/articles/826756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826756)
-- [Кластеризация PostgreSQL за день или за 15 минут: разбираем варианты и подводные камни реализации](https://habr.com/ru/companies/orion_soft/articles/838566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838566)
-- [Мой первый баг: инструменты и ресурсы для начинающих тестировщиков](https://habr.com/ru/companies/selectel/articles/838508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838508)
-- [Вычисляем Вес в приросте в Superset](https://habr.com/ru/articles/838550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838550)
-- [Улучшаем UX для тюменского термального курорта или история о том, как мы уменьшали количество очередей в офлайне](https://habr.com/ru/articles/838046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838046)
+- [Как я исправил сбой Microsoft Store в Windows &lpar;и при чём здесь Python&rpar;](https://habr.com/ru/articles/838614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838614)
+- [Ребенок хочет научиться кодить: на что обратить внимание при выборе курсов программирования для детей?](https://habr.com/ru/companies/pixel_study/articles/838606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838606)
+- [Автоматизация распознавания и подсчёта транзакций с изображений](https://habr.com/ru/articles/838328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838328)
+- [Как мы развиваем библиотеку для анализа данных с помощью байесовских сетей](https://habr.com/ru/companies/spbifmo/articles/838598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838598)
+- [Вместо Telegram: ТОП-14 email-рассылок для программиста](https://habr.com/ru/articles/838590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
