@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SOLID in React](https://habr.com/ru/articles/838652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838652)
+- [Книга: «Грокаем алгоритмы. 2-е изд.»](https://habr.com/ru/companies/piter/articles/837792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837792)
 - [Demethodizing &amp;amp; Methodizing: от методов к функциям и обратно](https://habr.com/ru/articles/838634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838634)
 - [MBA в Сколково. Обзор программы через призму личного опыта](https://habr.com/ru/companies/jetinfosystems/articles/838618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838618)
 - [Как я исправил сбой Microsoft Store в Windows &lpar;и при чём здесь Python&rpar;](https://habr.com/ru/articles/838614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838614)
-- [Ребенок хочет научиться кодить: на что обратить внимание при выборе курсов программирования для детей?](https://habr.com/ru/companies/pixel_study/articles/838606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838606)
-- [Автоматизация распознавания и подсчёта транзакций с изображений](https://habr.com/ru/articles/838328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
