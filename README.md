@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Linux Pipes – медленные](https://habr.com/ru/companies/beget/articles/838688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838688)
+- [Монокультура в программировании](https://habr.com/ru/articles/838682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838682)
+- [Security Week 2435: долгоживущие уязвимости в продуктах Microsoft](https://habr.com/ru/companies/kaspersky/articles/838558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838558)
 - [Делаем кроссворд про ML с помощью Монте-Карло и ChatGPT](https://habr.com/ru/articles/838674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838674)
 - [[Перевод] Как простой Python-скрипт с использованием ИИ может оптимизировать ваш рабочий процесс](https://habr.com/ru/companies/bothub/articles/838260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838260)
-- [SOLID in React](https://habr.com/ru/articles/838652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838652)
-- [Книга: «Грокаем алгоритмы. 2-е изд.»](https://habr.com/ru/companies/piter/articles/837792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837792)
-- [Demethodizing &amp;amp; Methodizing: от методов к функциям и обратно](https://habr.com/ru/articles/838634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
