@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От сирен до SIEM: разбираем архитектуру и защиту локальных систем оповещения](https://habr.com/ru/companies/bastion/articles/838562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838562)
 - [Неизвестно полезный CSS. Часть 4](https://habr.com/ru/companies/ruvds/articles/836780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836780)
 - [Программирование на Python для детей: топ-6 обучающих программ](https://habr.com/ru/companies/pixel_study/articles/838834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838834)
 - [[Перевод] Обновление CocoaPods: пошаговое руководство](https://habr.com/ru/companies/otus/articles/838832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838832)
 - [Языки программирования, которые могут заменить C++ — Rust, Go, Swift, Carbon](https://habr.com/ru/companies/first/articles/838752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838752)
-- [Лучший метод расчета долгосрочных результатов после внедрения изменений в продукт](https://habr.com/ru/companies/garage8/articles/838828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
