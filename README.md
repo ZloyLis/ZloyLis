@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Виртуальные потоки Java 21 — чувак, где мой lock?](https://habr.com/ru/companies/spring_aio/articles/838912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838912)
+- [Frontend. MVA архитектура](https://habr.com/ru/articles/838986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838986)
+- [Сказочная нотация BPMN и как её применять](https://habr.com/ru/articles/838976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838976)
+- [Kotlin Coroutines. От А до Я](https://habr.com/ru/articles/838974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838974)
 - [Работа с кодом на C++ в Swift](https://habr.com/ru/companies/ru_mts/articles/838926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838926)
-- [От технической базы до AI-продукта: как устроен курс от AI Talent Hub и karpov.courses](https://habr.com/ru/articles/838950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838950)
-- [Как прийти на позицию QA-лида в команду и сделать ее только лучше](https://habr.com/ru/companies/tbank/articles/838624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838624)
-- [Курсы 3D-моделирования для школьников: учимся создавать цифровые миры](https://habr.com/ru/companies/pixel_study/articles/838906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838906)
-- [Эволюция оператора switch в Java](https://habr.com/ru/articles/838890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
