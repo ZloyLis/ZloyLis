@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Правка скриптов автоконфигурации cubeMX/cubeIDE](https://habr.com/ru/articles/839068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839068)
+- [Правка скриптов автогенерации cubeMX/cubeIDE](https://habr.com/ru/articles/839068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839068)
 - [3D рендер с редактором карт в Консоли](https://habr.com/ru/articles/839058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839058)
 - [Как на изи «влететь» на Хак и затащить его на flow-режиме](https://habr.com/ru/articles/839016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839016)
 - [Автообновление через GitHub releases с помощью Hilt и Retrofit в Android](https://habr.com/ru/articles/839008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839008)
