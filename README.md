@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [3D рендер с редактором карт в Консоли](https://habr.com/ru/articles/839058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839058)
 - [Как на изи «влететь» на Хак и затащить его на flow-режиме](https://habr.com/ru/articles/839016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839016)
 - [Автообновление приложений через GutHub releases с помощью Hilt и Retrofit в Android](https://habr.com/ru/articles/839008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839008)
 - [Java + Spring + Jakarta Validation. Самописный «аддон» для валидации Entity через БД и EntityManager](https://habr.com/ru/articles/839006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839006)
 - [[Перевод] Я запустил свой первый успешный побочный проект, и мне не понравилось](https://habr.com/ru/companies/productivity_inside/articles/838998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838998)
-- [[Перевод] Виртуальные потоки Java 21 — чувак, где мой lock?](https://habr.com/ru/companies/spring_aio/articles/838912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
