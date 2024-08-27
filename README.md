@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с кодом на C++ в Swift](https://habr.com/ru/companies/ru_mts/articles/838926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838926)
+- [От технической базы до AI-продукта: как устроен курс от AI Talent Hub и karpov.courses](https://habr.com/ru/articles/838950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838950)
+- [Как прийти на позицию QA-лида в команду и сделать ее только лучше](https://habr.com/ru/companies/tbank/articles/838624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838624)
 - [Курсы 3D-моделирования для школьников: учимся создавать цифровые миры](https://habr.com/ru/companies/pixel_study/articles/838906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838906)
 - [Эволюция оператора switch в Java](https://habr.com/ru/articles/838890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838890)
-- [Чем опасен чистый RSA? Разбираем подводные камни](https://habr.com/ru/articles/838882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838882)
-- [От сирен до SIEM: разбираем архитектуру и защиту локальных систем оповещения](https://habr.com/ru/companies/bastion/articles/838562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838562)
-- [Неизвестно полезный CSS. Часть 4](https://habr.com/ru/companies/ruvds/articles/836780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
