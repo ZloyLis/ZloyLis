@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как управлять своим устройством с помощью Tuya API и Tuya-cli](https://habr.com/ru/articles/838814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838814)
+- [Как я превратил MIDI-клавиатуру в печатную машинку и не только](https://habr.com/ru/companies/ru_mts/articles/838024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838024)
+- [Cистемный аналитик с ЗП 400+. Найти за 30 дней](https://habr.com/ru/articles/838718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838718)
+- [Обзор LSP: что это такое, зачем нужно, как работает](https://habr.com/ru/companies/sberbank/articles/838786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838786)
 - [Рецензия на книгу “Docker. Вводный курс. 3 издание&amp;quot;](https://habr.com/ru/companies/ssp-soft/articles/838366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838366)
-- [Tower — библиотека для асинхронных middleware](https://habr.com/ru/companies/kryptonite/articles/838720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838720)
-- [EFSOL для автоматизации электронного документооборота](https://habr.com/ru/articles/838708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838708)
-- [Как UX-дизайнеру пройти Whiteboard Challenge и попасть на работу мечты](https://habr.com/ru/companies/yandex_praktikum/articles/837226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837226)
-- [Как с помощью доработки RFM сделать CRM-рассылки эффективнее](https://habr.com/ru/companies/avito/articles/838722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
