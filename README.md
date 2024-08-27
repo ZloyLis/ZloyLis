@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рецензия на книгу “Docker. Вводный курс. 3 издание&amp;quot;](https://habr.com/ru/companies/ssp-soft/articles/838366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838366)
+- [Tower — библиотека для асинхронных middleware](https://habr.com/ru/companies/kryptonite/articles/838720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838720)
+- [EFSOL для автоматизации электронного документооборота](https://habr.com/ru/articles/838708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838708)
+- [Как UX-дизайнеру пройти Whiteboard Challenge и попасть на работу мечты](https://habr.com/ru/companies/yandex_praktikum/articles/837226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837226)
 - [Как с помощью доработки RFM сделать CRM-рассылки эффективнее](https://habr.com/ru/companies/avito/articles/838722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838722)
-- [Как Мистер Бот для анализирования изменений в Нормативке осчастливил команду аналитиков](https://habr.com/ru/companies/skbkontur/articles/838036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838036)
-- [Apple Pro Weekly News &lpar;19.08 – 25.08.24&rpar;](https://habr.com/ru/articles/838732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838732)
-- [Большое UX/UI исследование мобильных приложений аптек](https://habr.com/ru/articles/838726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838726)
-- [&amp;lt;Не&amp;gt;Страшное слово эстимация, или Как я впервые оценивала время на тестирование и перебрала](https://habr.com/ru/articles/838716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
