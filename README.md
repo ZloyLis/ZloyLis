@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое TDD. Создаем валидатор паролей на регулярках](https://habr.com/ru/articles/839404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839404)
 - [Система управления памятью в The Simpsons: Hit &amp;amp; Run 2003](https://habr.com/ru/articles/839380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839380)
 - [Продолжаем работать с Actix Web &lpar;часть 1&rpar;](https://habr.com/ru/articles/839376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839376)
 - [Истории и боли frontend-разработчика](https://habr.com/ru/articles/839372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839372)
 - [Как студенты МИФИ призывали Шиву на Eurobot 2024, часть 2](https://habr.com/ru/articles/839368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839368)
-- [[Перевод] Mapping объектов с помощью MapStruct](https://habr.com/ru/articles/839362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
