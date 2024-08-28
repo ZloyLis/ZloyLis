@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как переход на AGP&amp;amp;Gradle 8.* изменил взгляд на работу с производительностью сборки](https://habr.com/ru/companies/odnoklassniki/articles/838772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838772)
+- [Интеграция Apache NiFi и Atlas: Настройка в Docker и Создание Пользовательского Репортера](https://habr.com/ru/articles/839060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839060)
+- [О важном: инклюзивность интерфейсов, в которой нуждаются](https://habr.com/ru/articles/839254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839254)
+- [Курица не птица, техпис не инженер](https://habr.com/ru/companies/sberbank/articles/837838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837838)
 - [[Перевод] Workspaces в IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/839228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839228)
-- [От десятков до сотен тысяч RPS: как мы создали API, который развивается 10 лет без дропа обратной совместимости](https://habr.com/ru/companies/yandex/articles/839198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839198)
-- [Как развернуть сайт на VDS](https://habr.com/ru/articles/836980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836980)
-- [[Перевод] Гладкое бритье: Razor Pages для разработчиков веб-форм](https://habr.com/ru/companies/otus/articles/839220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839220)
-- [Как получать SMS при колебаниях курса биткоина с ByBit API и SMS API](https://habr.com/ru/companies/exolve/articles/839208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
