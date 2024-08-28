@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Workspaces в IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/839228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839228)
+- [От десятков до сотен тысяч RPS: как мы создали API, который развивается 10 лет без дропа обратной совместимости](https://habr.com/ru/companies/yandex/articles/839198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839198)
+- [Как развернуть сайт на VDS](https://habr.com/ru/articles/836980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836980)
 - [[Перевод] Гладкое бритье: Razor Pages для разработчиков веб-форм](https://habr.com/ru/companies/otus/articles/839220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839220)
 - [Как получать SMS при колебаниях курса биткоина с ByBit API и SMS API](https://habr.com/ru/companies/exolve/articles/839208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839208)
-- [Как научить компьютер различать цвета?](https://habr.com/ru/companies/ppr/articles/839178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839178)
-- [Актуальные данные: зачем нужен цифровой дашборд для перевозок по железной дороге](https://habr.com/ru/companies/pgk/articles/839120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839120)
-- [Начало работы с Actix Web](https://habr.com/ru/articles/839158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
