@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как студенты МИФИ призывали Шиву на Eurobot 2024, часть 2](https://habr.com/ru/articles/839368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839368)
+- [[Перевод] Mapping объектов с помощью MapStruct](https://habr.com/ru/articles/839362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839362)
 - [Пожалуйста, хватит о чистой архитектуре микросервисов](https://habr.com/ru/articles/839360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839360)
 - [Генерируем в maven Java-модуль для OpenAPI из Swagger YAML](https://habr.com/ru/articles/839358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839358)
 - [Дилемма 3n+1 на Java. Кэшируем рекурсию](https://habr.com/ru/articles/839352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839352)
-- [[Перевод] Вызовы функций в Python по прежнему медленные? Анализ последних оптимизаций в CPython](https://habr.com/ru/companies/beget/articles/839348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839348)
-- [Ваши git и там и тут передают: как синхронизировать репозитории на мастере и репликах](https://habr.com/ru/companies/sberbank/articles/839350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
