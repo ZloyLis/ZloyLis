@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я ускорил свое мобильное приложение BookDesk на React Native в 3 раза?](https://habr.com/ru/articles/839248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839248)
 - [[Перевод] Как написать собственный графический клиент для ChatGPT при помощи NextJS и Wing](https://habr.com/ru/companies/piter/articles/839282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839282)
 - [UX-патруль с разработчиками: Циан и его бесконечные проблемы с сайтом](https://habr.com/ru/articles/839306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839306)
 - [[Перевод] Советы по программированию, которые бы я дал себе 15 лет назад](https://habr.com/ru/companies/ruvds/articles/839256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839256)
 - [Он вам не «MacOS»](https://habr.com/ru/articles/839284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839284)
-- [Как создавать высокопроизводительные очереди сообщений с различной архитектурой](https://habr.com/ru/companies/vk/articles/837060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
