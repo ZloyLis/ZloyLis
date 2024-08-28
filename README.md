@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как научить компьютер различать цвета?](https://habr.com/ru/companies/ppr/articles/839178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839178)
+- [Актуальные данные: зачем нужен цифровой дашборд для перевозок по железной дороге](https://habr.com/ru/companies/pgk/articles/839120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839120)
 - [Начало работы с Actix Web](https://habr.com/ru/articles/839158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839158)
 - [Scratch программирование для детей: ТОП-30 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/839146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839146)
 - [Подбор оптимальной геометрии в компас 3d с помощью fluid x3d](https://habr.com/ru/articles/839136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839136)
-- [Топ модулей для распознавания рекапчи на Python, Node js и PHP](https://habr.com/ru/articles/839130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839130)
-- [Дообучаем Llama 3.1 у себя дома](https://habr.com/ru/articles/832984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
