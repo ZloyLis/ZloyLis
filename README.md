@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как переход на AGP&amp;amp;Gradle 8.* изменил взгляд на работу с производительностью сборки](https://habr.com/ru/companies/odnoklassniki/articles/838772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838772)
-- [Интеграция Apache NiFi и Atlas: Настройка в Docker и Создание Пользовательского Репортера](https://habr.com/ru/articles/839060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839060)
-- [О важном: инклюзивность интерфейсов, в которой нуждаются](https://habr.com/ru/articles/839254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839254)
-- [Курица не птица, техпис не инженер](https://habr.com/ru/companies/sberbank/articles/837838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837838)
-- [[Перевод] Workspaces в IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/839228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839228)
+- [UX-патруль с разработчиками: Циан и его бесконечные проблемы с сайтом](https://habr.com/ru/articles/839306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839306)
+- [[Перевод] Советы по программированию, которые бы я дал себе 15 лет назад](https://habr.com/ru/companies/ruvds/articles/839256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839256)
+- [Он вам не «MacOS»](https://habr.com/ru/articles/839284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839284)
+- [Как создавать высокопроизводительные очереди сообщений с различной архитектурой](https://habr.com/ru/companies/vk/articles/837060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837060)
+- [Как переход на AGP&amp;amp;Gradle 8.* изменил взгляд на работу с производительностью сборки](https://habr.com/ru/companies/vk/articles/838772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
