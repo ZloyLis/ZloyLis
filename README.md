@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дилемма 3n+1 на Java. Кэшируем рекурсию](https://habr.com/ru/articles/839352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839352)
+- [[Перевод] Вызовы функций в Python по прежнему медленные? Анализ последних оптимизаций в CPython](https://habr.com/ru/companies/beget/articles/839348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839348)
+- [Ваши git и там и тут передают: как синхронизировать репозитории на мастере и репликах](https://habr.com/ru/companies/sberbank/articles/839350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839350)
+- [История и новые кейсы цифровых двойников: от космоса до интеграции с ML](https://habr.com/ru/companies/mws/articles/837900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837900)
 - [Как я ускорил свое мобильное приложение BookDesk на React Native в 3 раза?](https://habr.com/ru/articles/839248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839248)
-- [[Перевод] Как написать собственный графический клиент для ChatGPT при помощи NextJS и Wing](https://habr.com/ru/companies/piter/articles/839282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839282)
-- [UX-патруль с разработчиками: Циан и его бесконечные проблемы с сайтом](https://habr.com/ru/articles/839306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839306)
-- [[Перевод] Советы по программированию, которые бы я дал себе 15 лет назад](https://habr.com/ru/companies/ruvds/articles/839256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839256)
-- [Он вам не «MacOS»](https://habr.com/ru/articles/839284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
