@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Собеседование по System Design: как запроектировать и не потеряться](https://habr.com/ru/companies/yandex_praktikum/articles/834230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834230)
-- [Автоскейлинг микросервисов с HPA в Kubernetes](https://habr.com/ru/companies/otus/articles/838364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838364)
-- [Где найти стажеров и молодых сотрудников: создали приложение с 900+ тысячами скачиваний](https://habr.com/ru/articles/839094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839094)
-- [Правка скриптов автогенерации cubeMX/cubeIDE](https://habr.com/ru/articles/839068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839068)
-- [3D рендер с редактором карт в Консоли](https://habr.com/ru/articles/839058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839058)
+- [Начало работы с Actix Web](https://habr.com/ru/articles/839158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839158)
+- [Scratch программирование для детей: ТОП-30 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/839146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839146)
+- [Подбор оптимальной геометрии в компас 3d с помощью fluid x3d](https://habr.com/ru/articles/839136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839136)
+- [Топ модулей для распознавания рекапчи на Python, Node js и PHP](https://habr.com/ru/articles/839130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839130)
+- [Дообучаем Llama 3.1 у себя дома](https://habr.com/ru/articles/832984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=832984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
