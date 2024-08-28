@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Гладкое бритье: Razor Pages для разработчиков веб-форм](https://habr.com/ru/companies/otus/articles/839220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839220)
+- [Как получать SMS при колебаниях курса биткоина с ByBit API и SMS API](https://habr.com/ru/companies/exolve/articles/839208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839208)
 - [Как научить компьютер различать цвета?](https://habr.com/ru/companies/ppr/articles/839178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839178)
 - [Актуальные данные: зачем нужен цифровой дашборд для перевозок по железной дороге](https://habr.com/ru/companies/pgk/articles/839120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839120)
 - [Начало работы с Actix Web](https://habr.com/ru/articles/839158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839158)
-- [Scratch программирование для детей: ТОП-30 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/839146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839146)
-- [Подбор оптимальной геометрии в компас 3d с помощью fluid x3d](https://habr.com/ru/articles/839136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
