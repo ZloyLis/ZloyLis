@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоскейлинг микросервисов с HPA в Kubernetes](https://habr.com/ru/companies/otus/articles/838364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838364)
+- [Где найти стажеров и молодых сотрудников: создали приложение с 900+ тысячами скачиваний](https://habr.com/ru/articles/839094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839094)
 - [Правка скриптов автогенерации cubeMX/cubeIDE](https://habr.com/ru/articles/839068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839068)
 - [3D рендер с редактором карт в Консоли](https://habr.com/ru/articles/839058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839058)
 - [Как на изи «влететь» на Хак и затащить его на flow-режиме](https://habr.com/ru/articles/839016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839016)
-- [Автообновление через GitHub releases с помощью Hilt и Retrofit в Android](https://habr.com/ru/articles/839008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839008)
-- [Java + Spring + Jakarta Validation. Самописный «аддон» для валидации Entity через БД и EntityManager](https://habr.com/ru/articles/839006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
