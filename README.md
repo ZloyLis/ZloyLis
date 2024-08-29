@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать свой собственный Taplink с помощью Python и GitHub Pages](https://habr.com/ru/articles/839574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839574)
+- [Отправка уведомлений по таймеру в Apache Flink](https://habr.com/ru/companies/ru_mts/articles/839520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839520)
 - [Собираем данные из сотни микросервисов, или Как мы разобрали Ozon на кубики, а потом собрали заново](https://habr.com/ru/companies/ozontech/articles/839214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839214)
 - [Практическая реализация современной аутентификации на платформе .NET: OpenID Connect, шаблон BFF и SPA](https://habr.com/ru/articles/839530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839530)
 - [[Перевод] Автоматизация Code Review с помощью LLM](https://habr.com/ru/articles/839344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839344)
-- [Soft-skills идеального тестировщика](https://habr.com/ru/articles/839310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839310)
-- [Что такое Decimal64 из Decimal floating point из IEEE 754 или точные десятичные числа с плавающей запятой в компьютере](https://habr.com/ru/articles/839524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
