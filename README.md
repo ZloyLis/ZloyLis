@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженерные решения объектов в BIM](https://habr.com/ru/companies/pik_digital/articles/839478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839478)
+- [Часть 3. TMA на KMP. Как платить через Telegram Mini Apps](https://habr.com/ru/articles/839480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839480)
+- [Работа с бэклогом UX-исследователя](https://habr.com/ru/companies/skbkontur/articles/834828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834828)
 - [Успешные школьники в IT: могут ли дети зарабатывать программированием?](https://habr.com/ru/companies/pixel_study/articles/839460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839460)
-- [[Перевод] $1697 за выключатель кондиционера: DYI ремонт управляющего планшета](https://habr.com/ru/articles/839452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839452)
-- [ТОПовая самозащита](https://habr.com/ru/companies/timeweb/articles/837800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837800)
-- [Как извлечь данные из Linux с помощью C++ и Qt. На примере приложения с прогнозом погоды](https://habr.com/ru/companies/simbirsoft/articles/839126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839126)
-- [Как Google победил Skynet или подготовка обучения модели на мобильном устройстве](https://habr.com/ru/articles/839346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839346)
+- [[Перевод] $1697 за выключатель кондиционера: DIY ремонт управляющего планшета](https://habr.com/ru/articles/839452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
