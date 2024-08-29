@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рецепт идеальной разметки в Computer Vision](https://habr.com/ru/companies/oleg-bunin/articles/833994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833994)
-- [React и жизнь после сборки](https://habr.com/ru/articles/839464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839464)
-- [Оптимизация производительности Vue.js приложений: Практическое руководство](https://habr.com/ru/articles/839482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839482)
-- [Инженерные решения объектов в BIM](https://habr.com/ru/companies/pik_digital/articles/839478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839478)
-- [Часть 3. TMA на KMP. Как платить через Telegram Mini Apps](https://habr.com/ru/articles/839480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839480)
+- [[Перевод] Автоматизация Code Review с помощью LLM](https://habr.com/ru/articles/839344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839344)
+- [Soft-skills идеального тестировщика](https://habr.com/ru/articles/839310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839310)
+- [Что такое Decimal64 из Decimal floating point из IEEE 754 или точные десятичные числа с плавающей запятой в компьютере](https://habr.com/ru/articles/839524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839524)
+- [В поисках хорошего стиля. Часть 1. Зачем нам свои линтеры на Go в Островке](https://habr.com/ru/companies/ostrovok/articles/839514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839514)
+- [Повышение параллелизма UnitTest&#39;ов utPLSQL в Oracle](https://habr.com/ru/companies/sportmaster_lab/articles/839316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
