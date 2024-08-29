@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рецепт идеальной разметки в Computer Vision](https://habr.com/ru/companies/oleg-bunin/articles/833994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=833994)
+- [React и жизнь после сборки](https://habr.com/ru/articles/839464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839464)
+- [Оптимизация производительности Vue.js приложений: Практическое руководство](https://habr.com/ru/articles/839482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839482)
 - [Инженерные решения объектов в BIM](https://habr.com/ru/companies/pik_digital/articles/839478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839478)
 - [Часть 3. TMA на KMP. Как платить через Telegram Mini Apps](https://habr.com/ru/articles/839480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839480)
-- [Работа с бэклогом UX-исследователя](https://habr.com/ru/companies/skbkontur/articles/834828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834828)
-- [Успешные школьники в IT: могут ли дети зарабатывать программированием?](https://habr.com/ru/companies/pixel_study/articles/839460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839460)
-- [[Перевод] $1697 за выключатель кондиционера: DIY ремонт управляющего планшета](https://habr.com/ru/articles/839452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
