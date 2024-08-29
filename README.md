@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ниссан jooq](https://habr.com/ru/articles/839680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839680)
 - [TDD: да или нет?](https://habr.com/ru/articles/839658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839658)
 - [2,5 тысяч экрано-состояний и тесты на сотнях устройств: как мы с нуля делали темную тему в приложении](https://habr.com/ru/articles/839636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839636)
 - [[Перевод] Ничья в футболе, водное поло и двумерный Пуассон](https://habr.com/ru/articles/839628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839628)
 - [Hashicorp Vault — gcs + gcpckms](https://habr.com/ru/companies/exante/articles/839604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839604)
-- [Интеграция платежей Telegram Stars в Telegram-боте с помощью Python](https://habr.com/ru/articles/839590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
