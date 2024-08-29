@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Успешные школьники в IT: могут ли дети зарабатывать программированием?](https://habr.com/ru/companies/pixel_study/articles/839460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839460)
+- [[Перевод] $1697 за выключатель кондиционера: DYI ремонт управляющего планшета](https://habr.com/ru/articles/839452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839452)
+- [ТОПовая самозащита](https://habr.com/ru/companies/timeweb/articles/837800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837800)
+- [Как извлечь данные из Linux с помощью C++ и Qt. На примере приложения с прогнозом погоды](https://habr.com/ru/companies/simbirsoft/articles/839126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839126)
 - [Как Google победил Skynet или подготовка обучения модели на мобильном устройстве](https://habr.com/ru/articles/839346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839346)
-- [Способы запуска Telegram mini apps](https://habr.com/ru/articles/839432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839432)
-- [Софты &amp;gt; харды: на что смотрит работодатель при найме стажёров](https://habr.com/ru/companies/leroy_merlin/articles/834530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834530)
-- [Тварь я дрожащая или право имею?](https://habr.com/ru/articles/839410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839410)
-- [Что такое TDD. Создаем валидатор паролей на регулярках](https://habr.com/ru/articles/839404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
