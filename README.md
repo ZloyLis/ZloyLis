@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Способы запуска Telegram mini apps](https://habr.com/ru/articles/839432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839432)
+- [Софты &amp;gt; харды: на что смотрит работодатель при найме стажёров](https://habr.com/ru/companies/leroy_merlin/articles/834530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=834530)
 - [Тварь я дрожащая или право имею?](https://habr.com/ru/articles/839410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839410)
 - [Что такое TDD. Создаем валидатор паролей на регулярках](https://habr.com/ru/articles/839404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839404)
 - [Система управления памятью в The Simpsons: Hit &amp;amp; Run 2003](https://habr.com/ru/articles/839380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839380)
-- [Продолжаем работать с Actix Web &lpar;часть 1&rpar;](https://habr.com/ru/articles/839376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839376)
-- [Истории и боли frontend-разработчика](https://habr.com/ru/articles/839372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
