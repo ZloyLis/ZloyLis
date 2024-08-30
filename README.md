@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В закладки: 23 полезные ссылки для 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/837708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837708)
+- [Шина данных и Swift: применение в слабосвязанных архитектурах](https://habr.com/ru/articles/839710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839710)
+- [Обзор изменений в WLJS Notebook](https://habr.com/ru/articles/839140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839140)
 - [Гарри Поттер и имя типа в компайлтайм](https://habr.com/ru/articles/839692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839692)
 - [Ниссан jooq](https://habr.com/ru/articles/839680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839680)
-- [TDD: да или нет?](https://habr.com/ru/articles/839658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839658)
-- [2,5 тысяч экрано-состояний и тесты на сотнях устройств: как мы с нуля делали темную тему в приложении](https://habr.com/ru/articles/839636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839636)
-- [[Перевод] Ничья в футболе, водное поло и двумерный Пуассон](https://habr.com/ru/articles/839628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
