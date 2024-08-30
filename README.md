@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Апгрейд с Xamarin.Native на .NET 8](https://habr.com/ru/articles/839798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839798)
-- [Тонкости настройки HikariCP](https://habr.com/ru/articles/839812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839812)
-- [Настройка self-hosted K8s кластера с помощью RKE2 &lpar;Rancher&rpar;](https://habr.com/ru/articles/839792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839792)
-- [[Перевод] Реализуем машинное обучение на сервере с помощью Swift](https://habr.com/ru/companies/otus/articles/839780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839780)
-- [CMS за 0 рублей: как мы начали использовать Strapi](https://habr.com/ru/companies/kts/articles/837888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837888)
+- [Устройство системы чит-кодов в The Simpsons: Hit &amp;amp; Run](https://habr.com/ru/articles/839850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839850)
+- [[Перевод] Flutter vs Kotlin: что выбрать](https://habr.com/ru/companies/friflex/articles/839646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839646)
+- [ИИ как платформа](https://habr.com/ru/articles/839650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839650)
+- [Git Hooks не так страшны, как их малюют](https://habr.com/ru/companies/2gis/articles/838966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838966)
+- [Работа с регистрами сведений в КД 3.1](https://habr.com/ru/companies/lad_/articles/839606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
