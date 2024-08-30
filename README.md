@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [В закладки: 23 полезные ссылки для 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/837708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837708)
-- [Шина данных и Swift: применение в слабосвязанных архитектурах](https://habr.com/ru/articles/839710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839710)
-- [Обзор изменений в WLJS Notebook](https://habr.com/ru/articles/839140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839140)
-- [Гарри Поттер и имя типа в компайлтайм](https://habr.com/ru/articles/839692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839692)
-- [Ниссан jooq](https://habr.com/ru/articles/839680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839680)
+- [JavaScript: структуры данных и алгоритмы. Часть 4](https://habr.com/ru/companies/timeweb/articles/836782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836782)
+- [SwiftUI AlignmentGuide](https://habr.com/ru/articles/838234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838234)
+- [Школьники и нейросети: как разработать искусственный интеллект на Python для детей](https://habr.com/ru/companies/pixel_study/articles/839732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839732)
+- [Telegram Боты на Aiogram 3.x: Доступ после подписки на каналы, получение Telegram ID и админка с рассылкой сообщений](https://habr.com/ru/companies/amvera/articles/839654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839654)
+- [Как навести порядок в хаосе из требований и документации?](https://habr.com/ru/articles/839728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
