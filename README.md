@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой опыт создания телеграм-бота на NodeJS/grammY](https://habr.com/ru/articles/837610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837610)
+- [Близкий родственник эльфа – программер](https://habr.com/ru/articles/839936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839936)
 - [Одна маленькая особенность русского языка](https://habr.com/ru/articles/839918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839918)
 - [Сложно ли пронести гаджет в школу](https://habr.com/ru/companies/samsung/articles/839822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839822)
 - [Общие принципы интеграций систем. SA для самых маленьких](https://habr.com/ru/articles/839900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839900)
-- [Задача Тарского по школьной алгебре](https://habr.com/ru/articles/839896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839896)
-- [[Перевод] Фиаско Фигмы или тёмная сторона последних апдейтов](https://habr.com/ru/articles/839888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
