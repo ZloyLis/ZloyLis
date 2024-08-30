@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Секрет внутри одного миллиона чекбоксов](https://habr.com/ru/articles/839866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839866)
+- [[Перевод] А птицы-то не настоящие! Инструкция по созданию собственного «пернатого»](https://habr.com/ru/companies/ruvds/articles/839164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839164)
+- [Как базовой инфраструктуре удобно жить на железе в 2к24. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/839508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839508)
+- [Camunda и Kafka: не откусывай больше, чем можешь проглотить](https://habr.com/ru/companies/tbank/articles/839598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839598)
 - [Устройство системы чит-кодов в The Simpsons: Hit &amp;amp; Run](https://habr.com/ru/articles/839850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839850)
-- [[Перевод] Flutter vs Kotlin: что выбрать](https://habr.com/ru/companies/friflex/articles/839646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839646)
-- [ИИ как платформа](https://habr.com/ru/articles/839650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839650)
-- [Git Hooks не так страшны, как их малюют](https://habr.com/ru/companies/2gis/articles/838966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838966)
-- [Работа с регистрами сведений в КД 3.1](https://habr.com/ru/companies/lad_/articles/839606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
