@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Общие принципы интеграций систем. SA для самых маленьких](https://habr.com/ru/articles/839900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839900)
+- [Задача Тарского по школьной алгебре](https://habr.com/ru/articles/839896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839896)
 - [[Перевод] Фиаско Фигмы или тёмная сторона последних апдейтов](https://habr.com/ru/articles/839888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839888)
 - [Хайп вокруг аппаратного ускорения ИИ и реальная ситуация. Обучение модели на телефоне и результаты в миллисекундах](https://habr.com/ru/articles/839622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839622)
 - [[Перевод] Секрет внутри одного миллиона чекбоксов](https://habr.com/ru/articles/839866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839866)
-- [[Перевод] А птицы-то не настоящие! Инструкция по созданию собственного «пернатого»](https://habr.com/ru/companies/ruvds/articles/839164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839164)
-- [Как базовой инфраструктуре удобно жить на железе в 2к24. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/839508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
