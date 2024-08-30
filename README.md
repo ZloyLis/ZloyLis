@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Strapi: CMS за 0 рублей](https://habr.com/ru/companies/kts/articles/837888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837888)
+- [Что нового в IntelliJ IDEA 2024.2](https://habr.com/ru/companies/haulmont/articles/839454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839454)
 - [Цифровой сад](https://habr.com/ru/articles/839762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839762)
-- [Цифровой сад](https://habr.com/ru/articles/839760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839760)
 - [Решение головоломки из университетского квеста с помощью Python](https://habr.com/ru/articles/839752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839752)
 - [JavaScript: структуры данных и алгоритмы. Часть 4](https://habr.com/ru/companies/timeweb/articles/836782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836782)
-- [SwiftUI AlignmentGuide](https://habr.com/ru/articles/838234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
