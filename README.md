@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цифровой сад](https://habr.com/ru/articles/839762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839762)
+- [Цифровой сад](https://habr.com/ru/articles/839760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839760)
+- [Решение головоломки из университетского квеста с помощью Python](https://habr.com/ru/articles/839752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839752)
 - [JavaScript: структуры данных и алгоритмы. Часть 4](https://habr.com/ru/companies/timeweb/articles/836782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836782)
 - [SwiftUI AlignmentGuide](https://habr.com/ru/articles/838234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838234)
-- [Школьники и нейросети: как разработать искусственный интеллект на Python для детей](https://habr.com/ru/companies/pixel_study/articles/839732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839732)
-- [Telegram Боты на Aiogram 3.x: Доступ после подписки на каналы, получение Telegram ID и админка с рассылкой сообщений](https://habr.com/ru/companies/amvera/articles/839654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839654)
-- [Как навести порядок в хаосе из требований и документации?](https://habr.com/ru/articles/839728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
