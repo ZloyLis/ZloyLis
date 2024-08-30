@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Апгрейд с Xamarin.Native на .NET 8](https://habr.com/ru/articles/839798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839798)
+- [Тонкости настройки HikariCP](https://habr.com/ru/articles/839812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839812)
+- [Настройка self-hosted K8s кластера с помощью RKE2 &lpar;Rancher&rpar;](https://habr.com/ru/articles/839792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839792)
 - [[Перевод] Реализуем машинное обучение на сервере с помощью Swift](https://habr.com/ru/companies/otus/articles/839780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839780)
 - [CMS за 0 рублей: как мы начали использовать Strapi](https://habr.com/ru/companies/kts/articles/837888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837888)
-- [Что нового в IntelliJ IDEA 2024.2](https://habr.com/ru/companies/haulmont/articles/839454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839454)
-- [Цифровой сад](https://habr.com/ru/articles/839762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839762)
-- [Решение головоломки из университетского квеста с помощью Python](https://habr.com/ru/articles/839752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
