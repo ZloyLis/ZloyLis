@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мурмулятор — ультрабюджетный микрокомпьютер](https://habr.com/ru/articles/839960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839960)
 - [Игрострой. Начало](https://habr.com/ru/articles/839956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839956)
 - [Мой опыт создания телеграм-бота на NodeJS/grammY](https://habr.com/ru/articles/837610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837610)
 - [Близкий родственник эльфа – программер](https://habr.com/ru/articles/839936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839936)
 - [Одна маленькая особенность русского языка](https://habr.com/ru/articles/839918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839918)
-- [Сложно ли пронести гаджет в школу](https://habr.com/ru/companies/samsung/articles/839822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
