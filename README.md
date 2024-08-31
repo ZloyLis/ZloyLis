@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Симкод — современный язык ассемблера](https://habr.com/ru/articles/840070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840070)
+- [В поисках оптимальной модели итераторов](https://habr.com/ru/articles/840068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840068)
+- [Как я получил хороший заказ на настройку Google Форм и с чем пришлось столкнуться](https://habr.com/ru/articles/840064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840064)
 - [[Перевод] История POSIX: путь к портируемому ПО](https://habr.com/ru/companies/beeline_tech/articles/840040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840040)
 - [3D рендер с редактором карт в Консоли &lpar;Часть 2&rpar;](https://habr.com/ru/articles/840034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840034)
-- [Конкурс js13kGames или как написать игру объёмом 13 Кбайт](https://habr.com/ru/articles/840006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840006)
-- [Построчный разбор determine-basal.js в Android APS](https://habr.com/ru/articles/840028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840028)
-- [Параметр определяющий в Android APS необходимое количество введения инсулина](https://habr.com/ru/articles/840026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
