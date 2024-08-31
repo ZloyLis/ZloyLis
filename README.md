@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Воспроизводим гитарные табулатуры на Rust](https://habr.com/ru/articles/837662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837662)
+- [[Перевод] Из истории технологий: откуда взялся Unix](https://habr.com/ru/companies/timeweb/articles/839924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839924)
 - [ZX Murmulator OS](https://habr.com/ru/articles/839976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839976)
 - [Мурмулятор — ультрабюджетный микрокомпьютер](https://habr.com/ru/articles/839960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839960)
 - [Игрострой. Начало](https://habr.com/ru/articles/839956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839956)
-- [Мой опыт создания телеграм-бота на NodeJS/grammY](https://habr.com/ru/articles/837610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837610)
-- [Близкий родственник эльфа – программер](https://habr.com/ru/articles/839936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
