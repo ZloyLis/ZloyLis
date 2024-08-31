@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как убить единорога или попытка навести порядок с инициализацией переменных в языке C++](https://habr.com/ru/articles/840002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840002)
 - [Мотивацию надо поднять](https://habr.com/ru/articles/839990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839990)
 - [[Перевод] Воспроизводим гитарные табулатуры на Rust](https://habr.com/ru/articles/837662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837662)
 - [[Перевод] Из истории технологий: откуда взялся Unix](https://habr.com/ru/companies/timeweb/articles/839924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839924)
 - [ZX Murmulator OS](https://habr.com/ru/articles/839976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839976)
-- [Мурмулятор — ультрабюджетный микрокомпьютер](https://habr.com/ru/articles/839960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
