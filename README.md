@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сделали курс по РЕД АДМ Промышленная редакция и для чего нужны контролируемые «диверсии» в рамках обучения](https://habr.com/ru/companies/redsoft/articles/840120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840120)
 - [Красно-черные сигналы в node.js](https://habr.com/ru/articles/840108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840108)
 - [Как я сделал платформу коротких видео в Telegram Mini Apps](https://habr.com/ru/articles/840104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840104)
 - [Накрутил опыт и не вывез](https://habr.com/ru/articles/840042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840042)
 - [Автоматизация работы с JSON в Swift с помощью Codable](https://habr.com/ru/articles/840088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840088)
-- [Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности](https://habr.com/ru/articles/840084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
