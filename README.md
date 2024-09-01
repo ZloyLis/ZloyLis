@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как удалить JavaScript из файлов PDF](https://habr.com/ru/companies/globalsign/articles/840174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840174)
 - [Бесконечная, вечная платёжная система всея МИРЭА](https://habr.com/ru/articles/840170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840170)
 - [Сколько весит карма в Терабайтах?](https://habr.com/ru/articles/840142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840142)
 - [Создание Discord бота для мониторинга цен на товары](https://habr.com/ru/companies/amvera/articles/839364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839364)
 - [Как я писал враппер для Яндекс Карт на KMP. Часть 1](https://habr.com/ru/articles/840128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840128)
-- [Как мы сделали курс по РЕД АДМ Промышленная редакция и для чего нужны контролируемые «диверсии» в рамках обучения](https://habr.com/ru/companies/redsoft/articles/840120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
