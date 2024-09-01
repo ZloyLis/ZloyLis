@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Красно-черные сигналы в node.js](https://habr.com/ru/articles/840108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840108)
+- [Как я сделал платформу коротких видео в Telegram Mini Apps](https://habr.com/ru/articles/840104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840104)
 - [Накрутил опыт и не вывез](https://habr.com/ru/articles/840042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840042)
 - [Автоматизация работы с JSON в Swift с помощью Codable](https://habr.com/ru/articles/840088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840088)
 - [Снифферы трафика в мобильном тестировании: Обзор инструментов и их особенности](https://habr.com/ru/articles/840084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840084)
-- [Симкод — современный язык ассемблера](https://habr.com/ru/articles/840070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840070)
-- [В поисках оптимальной модели итераторов](https://habr.com/ru/articles/840068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
