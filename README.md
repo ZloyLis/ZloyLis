@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как новичку поучаствовать в устранении багов Google Chrome](https://habr.com/ru/companies/ruvds/articles/840306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840306)
+- [Такому в школе не научат! Компьютерная литература для будущих программистов](https://habr.com/ru/companies/piter/articles/839904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839904)
 - [Как встроить распознавание звуков в ваше iOS приложение на Swift с использованием SoundAnalysis](https://habr.com/ru/articles/840316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840316)
 - [Особенности Effector, которые почему-то никто не обсуждает: опыт ВКонтакте спустя год использования](https://habr.com/ru/companies/vk/articles/839632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839632)
 - [Стресс-тест заказа такси через приложение Yandex Go. Сравниваем интерфейсы пяти приложений](https://habr.com/ru/articles/840302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840302)
-- [О трёхмерной графике в GMS2. Часть 1 из 2](https://habr.com/ru/articles/840298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840298)
-- [Фокус в Android TV](https://habr.com/ru/articles/840296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
