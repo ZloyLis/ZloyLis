@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;26.08 – 01.09.24&rpar;](https://habr.com/ru/articles/840374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840374)
+- [Важность мобильной оптимизации сайта](https://habr.com/ru/articles/840366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840366)
+- [Security Week 2436: SQL-инъекция для прохода в аэропорт без очереди](https://habr.com/ru/companies/kaspersky/articles/840308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840308)
 - [[Перевод] Spark Essentials: Руководство по настройке и запуску проектов Spark с помощью Scala и sbt](https://habr.com/ru/companies/otus/articles/840362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840362)
 - [Проектная аналитика: агрегирование требований заказчика и создание тех. задания](https://habr.com/ru/articles/840346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840346)
-- [[Перевод] Документальный фильм о фреймворке, который изменил мир AI](https://habr.com/ru/companies/sherpa_rpa/articles/840344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840344)
-- [[Перевод] Краткая история Java](https://habr.com/ru/companies/spring_aio/articles/840336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840336)
-- [[Перевод] Как новичку поучаствовать в устранении багов Google Chrome](https://habr.com/ru/companies/ruvds/articles/840306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
