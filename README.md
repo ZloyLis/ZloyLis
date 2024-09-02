@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я решал задачу получения доступа к данным банковских приложений на iOS](https://habr.com/ru/articles/840138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840138)
 - [[Перевод] Он был в мистическом бреду: был ли этот математик-отшельник гением, чьи идеи могли преобразовать ИИ, или сумасшедшим?](https://habr.com/ru/articles/840378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840378)
 - [Apple Pro Weekly News &lpar;26.08 – 01.09.24&rpar;](https://habr.com/ru/articles/840374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840374)
 - [Важность мобильной оптимизации сайта](https://habr.com/ru/articles/840366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840366)
 - [Security Week 2436: SQL-инъекция для прохода в аэропорт без очереди](https://habr.com/ru/companies/kaspersky/articles/840308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840308)
-- [[Перевод] Spark Essentials: Руководство по настройке и запуску проектов Spark с помощью Scala и sbt](https://habr.com/ru/companies/otus/articles/840362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
