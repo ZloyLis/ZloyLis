@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Единое хранилище рейсов](https://habr.com/ru/articles/840294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840294)
-- [Винтик и Шпунтик осваивают квантовые вычисления](https://habr.com/ru/articles/840150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840150)
-- [Модель протоколов TCP/IP: от основ интернета до загрузки сайтов с примерами и советами для новичков](https://habr.com/ru/articles/840284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840284)
-- [Как я сделал Notion &#39;у себя дома&#39;, есть фулл](https://habr.com/ru/articles/840280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840280)
-- [Scala Digest. Выпуск 20](https://habr.com/ru/companies/tbank/articles/839846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839846)
+- [Как встроить распознавание звуков в ваше iOS приложение на Swift с использованием SoundAnalysis](https://habr.com/ru/articles/840316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840316)
+- [Особенности Effector, которые почему-то никто не обсуждает: опыт ВКонтакте спустя год использования](https://habr.com/ru/companies/vk/articles/839632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839632)
+- [Стресс-тест заказа такси через приложение Yandex Go. Сравниваем интерфейсы пяти приложений](https://habr.com/ru/articles/840302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840302)
+- [О трёхмерной графике в GMS2. Часть 1 из 2](https://habr.com/ru/articles/840298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840298)
+- [Фокус в Android TV](https://habr.com/ru/articles/840296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
