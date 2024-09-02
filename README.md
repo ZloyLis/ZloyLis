@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деплой .NET приложений для самых маленьких. Часть 2. Github Actions](https://habr.com/ru/companies/timeweb/articles/838422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838422)
 - [YRGB 2024 — конкурс по созданию игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/839612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839612)
 - [Бложим как фрики](https://habr.com/ru/articles/840218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840218)
 - [Платёжный сервис в банке, часть первая](https://habr.com/ru/articles/840216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840216)
 - [Как нейросети помогают джуниор-разработчикам и аналитикам данных](https://habr.com/ru/companies/yandex_praktikum/articles/837452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837452)
-- [Как схема 500-30-5 делает учебные центры IT-компаний бесполезными](https://habr.com/ru/articles/840100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
