@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как нейросети помогают джуниор-разработчикам и аналитикам данных](https://habr.com/ru/companies/yandex_praktikum/articles/837452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837452)
+- [Как схема 500-30-5 делает учебные центры IT-компаний бесполезными](https://habr.com/ru/articles/840100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840100)
 - [Чистый код: Принцип открытости закрытости &lpar;OCP&rpar;](https://habr.com/ru/articles/838456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838456)
 - [Мобильная разработка за неделю #553 &lpar;26 августа — 1 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/840196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840196)
 - [Как я улучшил свой пользовательский опыт взаимодействия с фитнес клубом World Class через API](https://habr.com/ru/articles/838322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838322)
-- [Создание приложения под Мурмулятор ОС &lpar;1&rpar;](https://habr.com/ru/articles/840186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840186)
-- [Как удалить JavaScript из файлов PDF](https://habr.com/ru/companies/globalsign/articles/840174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
