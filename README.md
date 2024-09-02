@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript клиент для Wildberries API](https://habr.com/ru/articles/840408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840408)
+- [Что такое RayCast в Unity и как это работает: гайд по созданию игр для детей](https://habr.com/ru/companies/pixel_study/articles/840404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840404)
 - [Java. Мое решение для поиска изменений между двумя объектами. ChangeChecker](https://habr.com/ru/articles/840396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840396)
 - [Как я решал задачу получения доступа к данным банковских приложений на iOS](https://habr.com/ru/articles/840138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840138)
 - [[Перевод] Он был в мистическом бреду: был ли этот математик-отшельник гением, чьи идеи могли преобразовать ИИ, или сумасшедшим?](https://habr.com/ru/articles/840378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840378)
-- [Apple Pro Weekly News &lpar;26.08 – 01.09.24&rpar;](https://habr.com/ru/articles/840374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840374)
-- [Важность мобильной оптимизации сайта](https://habr.com/ru/articles/840366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
