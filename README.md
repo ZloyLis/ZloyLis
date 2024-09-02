@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чистый код: Принцип открытости закрытости &lpar;OCP&rpar;](https://habr.com/ru/articles/838456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838456)
 - [Мобильная разработка за неделю #553 &lpar;26 августа — 1 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/840196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840196)
-- [Как я улучшил свой пользовательский опыт взаимодействия с фитнес клубом World Class](https://habr.com/ru/articles/838322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838322)
+- [Как я улучшил свой пользовательский опыт взаимодействия с фитнес клубом World Class через API](https://habr.com/ru/articles/838322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838322)
 - [Создание приложения под Мурмулятор ОС &lpar;1&rpar;](https://habr.com/ru/articles/840186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840186)
 - [Как удалить JavaScript из файлов PDF](https://habr.com/ru/companies/globalsign/articles/840174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840174)
-- [Бесконечная, вечная платёжная система всея МИРЭА](https://habr.com/ru/articles/840170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
