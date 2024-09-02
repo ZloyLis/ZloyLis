@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Единое хранилище рейсов](https://habr.com/ru/articles/840294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840294)
+- [Винтик и Шпунтик осваивают квантовые вычисления](https://habr.com/ru/articles/840150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840150)
+- [Модель протоколов TCP/IP: от основ интернета до загрузки сайтов с примерами и советами для новичков](https://habr.com/ru/articles/840284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840284)
 - [Как я сделал Notion &#39;у себя дома&#39;, есть фулл](https://habr.com/ru/articles/840280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840280)
 - [Scala Digest. Выпуск 20](https://habr.com/ru/companies/tbank/articles/839846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839846)
-- [[Перевод] Настройка алиасов путей с помощью Node.js Subpath Imports в TypeScript проекте](https://habr.com/ru/articles/840240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840240)
-- [Деплой .NET приложений для самых маленьких. Часть 2. Github Actions](https://habr.com/ru/companies/timeweb/articles/838422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838422)
-- [YRGB 2024 — конкурс по созданию игр для ZX Spectrum](https://habr.com/ru/companies/yandex/articles/839612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
