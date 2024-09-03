@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Назад в прошлое: запускаем k8s v.0.1 из 2014 и анонсируем челлендж](https://habr.com/ru/companies/kts/articles/839584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839584)
+- [Геймификация продукта: простое решение для старта геймификации. Мотивация без призового бюджета и сложных механик](https://habr.com/ru/articles/840392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840392)
 - [Кратко про low-code библиотеку для ML Pycaret](https://habr.com/ru/companies/otus/articles/839582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839582)
 - [Как ускорить A/B тесты: несколько способов](https://habr.com/ru/companies/otus/articles/839922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839922)
 - [[Перевод] CORS — это тупо](https://habr.com/ru/articles/840498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840498)
-- [Тестирование ML систем](https://habr.com/ru/articles/840416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840416)
-- [COFFEE MEET-UP: Знакомства и кофе в одной чашке](https://habr.com/ru/companies/samsung/articles/839952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
