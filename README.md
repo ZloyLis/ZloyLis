@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кратко про low-code библиотеку для ML Pycaret](https://habr.com/ru/companies/otus/articles/839582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839582)
+- [Как ускорить A/B тесты: несколько способов](https://habr.com/ru/companies/otus/articles/839922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839922)
+- [[Перевод] CORS — это тупо](https://habr.com/ru/articles/840498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840498)
 - [Тестирование ML систем](https://habr.com/ru/articles/840416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840416)
 - [COFFEE MEET-UP: Знакомства и кофе в одной чашке](https://habr.com/ru/companies/samsung/articles/839952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839952)
-- [Без кода и программистов: как ИИ убивает low-code](https://habr.com/ru/companies/lanit/articles/837224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837224)
-- [Как я свалил рутинные задачи на low-code-платформу и не пожалел](https://habr.com/ru/articles/840384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840384)
-- [Изнанка электронных календарей: как работает спецификация iCalendar и как создавать .ics-файлы](https://habr.com/ru/companies/ru_mts/articles/837964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
