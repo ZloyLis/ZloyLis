@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Наш опыт интеграции с Диадок — архитектура исходящего процесса](https://habr.com/ru/companies/alfastrah/articles/840522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840522)
+- [Автотесты: от первого автотеста до масштабного проекта. Мой набор инструментов для масштабирования](https://habr.com/ru/articles/840594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840594)
+- [[Перевод] Линукс, ассемблер и X11](https://habr.com/ru/articles/840590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840590)
 - [Перенос БД postgresQL из Docker&#39;а на локальном хосте на Docker VPS: покомандная шпаргалка](https://habr.com/ru/articles/840458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840458)
 - [Рецензия на книгу “Базовая математика для искусственного интеллекта”](https://habr.com/ru/companies/ssp-soft/articles/840570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840570)
-- [Уберизация здорового человека: мы решили транспортный вопрос на предприятии](https://habr.com/ru/companies/evraz/articles/840562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840562)
-- [aldaas — БД с заготовлеными данными для разработки, CI/CD и всех-всех-всех](https://habr.com/ru/companies/rostelecom/articles/785562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785562)
-- [Назад в прошлое: запускаем k8s v.0.1 из 2014 и анонсируем челлендж](https://habr.com/ru/companies/kts/articles/839584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
