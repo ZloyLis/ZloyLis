@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Греппабельность — важная метрика кода](https://habr.com/ru/articles/840654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840654)
 - [Пуш-уведомления. Интересны, временами непонятны](https://habr.com/ru/articles/840650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840650)
 - [Книга: «Рецепты PHP. Для профессиональных разработчиков»](https://habr.com/ru/companies/piter/articles/838560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838560)
 - [Страсти опенсорса: мафия, стилеры и багхантинг проектов «Яндекса»](https://habr.com/ru/companies/pt/articles/840482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840482)
 - [[Перевод] Как использовать концепции тестирования для эффективного исследовательского тестирования?](https://habr.com/ru/articles/840410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840410)
-- [Django 5: асинхронный бекенд и эффектный фронтенд с минимальными затратами времени](https://habr.com/ru/companies/amvera/articles/840612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
