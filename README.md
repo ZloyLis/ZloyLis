@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Без кода и программистов: как ИИ убивает low-code](https://habr.com/ru/companies/lanit/articles/837224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837224)
+- [Как я свалил рутинные задачи на low-code-платформу и не пожалел](https://habr.com/ru/articles/840384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840384)
+- [Изнанка электронных календарей: как работает спецификация iCalendar и как создавать .ics-файлы](https://habr.com/ru/companies/ru_mts/articles/837964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837964)
 - [TypeScript клиент для Wildberries API](https://habr.com/ru/articles/840408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840408)
 - [Что такое RayCast в Unity и как это работает: гайд по созданию игр для детей](https://habr.com/ru/companies/pixel_study/articles/840404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840404)
-- [Java. Мое решение для поиска изменений между двумя объектами. ChangeChecker](https://habr.com/ru/articles/840396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840396)
-- [Как я решал задачу получения доступа к данным банковских приложений на iOS](https://habr.com/ru/articles/840138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840138)
-- [[Перевод] Он был в мистическом бреду: был ли этот математик-отшельник гением, чьи идеи могли преобразовать ИИ, или сумасшедшим?](https://habr.com/ru/articles/840378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
