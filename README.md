@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Перенос БД postgresQL из Docker&#39;а на локальном хосте на Docker VPS: покомандная шпаргалка](https://habr.com/ru/articles/840458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840458)
+- [Рецензия на книгу “Базовая математика для искусственного интеллекта”](https://habr.com/ru/companies/ssp-soft/articles/840570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840570)
+- [Уберизация здорового человека: мы решили транспортный вопрос на предприятии](https://habr.com/ru/companies/evraz/articles/840562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840562)
+- [aldaas — БД с заготовлеными данными для разработки, CI/CD и всех-всех-всех](https://habr.com/ru/companies/rostelecom/articles/785562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=785562)
 - [Назад в прошлое: запускаем k8s v.0.1 из 2014 и анонсируем челлендж](https://habr.com/ru/companies/kts/articles/839584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839584)
-- [Геймификация продукта: простое решение для старта геймификации. Мотивация без призового бюджета и сложных механик](https://habr.com/ru/articles/840392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840392)
-- [Кратко про low-code библиотеку для ML Pycaret](https://habr.com/ru/companies/otus/articles/839582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839582)
-- [Как ускорить A/B тесты: несколько способов](https://habr.com/ru/companies/otus/articles/839922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839922)
-- [[Перевод] CORS — это тупо](https://habr.com/ru/articles/840498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
