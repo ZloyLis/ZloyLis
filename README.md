@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Страсти опенсорса: мафия, стилеры и багхантинг проектов «Яндекса»](https://habr.com/ru/companies/pt/articles/840482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840482)
+- [[Перевод] Как использовать концепции тестирования для эффективного исследовательского тестирования?](https://habr.com/ru/articles/840410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840410)
+- [Django 5: асинхронный бекенд и эффектный фронтенд с минимальными затратами времени](https://habr.com/ru/companies/amvera/articles/840612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840612)
+- [Flutter Web. Часть 1](https://habr.com/ru/companies/surfstudio/articles/840606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840606)
 - [Наш опыт интеграции с Диадок — архитектура исходящего процесса](https://habr.com/ru/companies/alfastrah/articles/840522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840522)
-- [Автотесты: от первого автотеста до масштабного проекта. Мой набор инструментов для масштабирования](https://habr.com/ru/articles/840594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840594)
-- [[Перевод] Линукс, ассемблер и X11](https://habr.com/ru/articles/840590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840590)
-- [Перенос БД postgresQL из Docker&#39;а на локальном хосте на Docker VPS: покомандная шпаргалка](https://habr.com/ru/articles/840458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840458)
-- [Рецензия на книгу “Базовая математика для искусственного интеллекта”](https://habr.com/ru/companies/ssp-soft/articles/840570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
