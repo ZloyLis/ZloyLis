@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Рецепты PHP. Для профессиональных разработчиков»](https://habr.com/ru/companies/piter/articles/838560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838560)
 - [Страсти опенсорса: мафия, стилеры и багхантинг проектов «Яндекса»](https://habr.com/ru/companies/pt/articles/840482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840482)
 - [[Перевод] Как использовать концепции тестирования для эффективного исследовательского тестирования?](https://habr.com/ru/articles/840410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840410)
 - [Django 5: асинхронный бекенд и эффектный фронтенд с минимальными затратами времени](https://habr.com/ru/companies/amvera/articles/840612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840612)
 - [Flutter Web. Часть 1](https://habr.com/ru/companies/surfstudio/articles/840606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840606)
-- [Наш опыт интеграции с Диадок — архитектура исходящего процесса](https://habr.com/ru/companies/alfastrah/articles/840522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
