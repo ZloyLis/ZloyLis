@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поделить нельзя — умножить или алгоритм быстрого деления по методу Ньютона-Рафсона](https://habr.com/ru/companies/ruvds/articles/836054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836054)
+- [Композим иконки. Улучшаем семантику и скорость отрисовки](https://habr.com/ru/companies/vk/articles/840862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840862)
 - [Favicon и где они обитают](https://habr.com/ru/companies/simbirsoft/articles/840780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840780)
 - [В столичном техникуме Красина внедряют собственные разработки на основе нейросети](https://habr.com/ru/articles/840848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840848)
 - [.NET Digest #3](https://habr.com/ru/companies/pvs-studio/articles/840830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840830)
-- [[Перевод] Вышел Vue 3.5](https://habr.com/ru/articles/840806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840806)
-- [Как я правил контраст и базовую палитру в дизайн-системе](https://habr.com/ru/articles/840804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
