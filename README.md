@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать часы на Python: уроки программирования для школьников](https://habr.com/ru/companies/pixel_study/articles/840970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840970)
+- [Multicast DNS и DNS-SD](https://habr.com/ru/articles/839602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839602)
 - [Какой кредит выгоднее гасить первым — дорогой или объемный?](https://habr.com/ru/articles/840958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840958)
 - [Внутреннее устройство Blueprint функций в Unreal Engine 5](https://habr.com/ru/articles/840936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840936)
 - [Давайте работать с proto ошибками правильно :&rpar;](https://habr.com/ru/companies/ozonbank/articles/840892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840892)
-- [[Перевод] Диаграммы последовательности — единственная хорошая вещь, которую UML привнес в разработку ПО](https://habr.com/ru/articles/840890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840890)
-- [Летняя практика в «Финаме»: чему обучали студентов и что усвоили сами](https://habr.com/ru/companies/finam_broker/articles/840884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
