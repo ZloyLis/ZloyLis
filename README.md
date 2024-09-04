@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какой кредит выгоднее гасить первым — дорогой или объемный?](https://habr.com/ru/articles/840958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840958)
 - [Внутреннее устройство Blueprint функций в Unreal Engine 5](https://habr.com/ru/articles/840936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840936)
 - [Давайте работать с proto ошибками правильно :&rpar;](https://habr.com/ru/companies/ozonbank/articles/840892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840892)
 - [[Перевод] Диаграммы последовательности — единственная хорошая вещь, которую UML привнес в разработку ПО](https://habr.com/ru/articles/840890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840890)
 - [Летняя практика в «Финаме»: чему обучали студентов и что усвоили сами](https://habr.com/ru/companies/finam_broker/articles/840884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840884)
-- [[Перевод] Когда вариантов использования недостаточно — анализ событий](https://habr.com/ru/companies/otus/articles/840878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
