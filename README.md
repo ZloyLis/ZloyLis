@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Миграция основных и переменных данных в ERP-системах](https://habr.com/ru/articles/840752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840752)
-- [Не панацея, но помощник. О статическом анализаторе кода](https://habr.com/ru/companies/reksoft/articles/840744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840744)
-- [Как мы переиспользовали платформенную аналитику для упрощения работы](https://habr.com/ru/companies/avito/articles/840694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840694)
-- [Как давать нейросети задания, чтобы она вас понимала](https://habr.com/ru/companies/yandex_praktikum/articles/839908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839908)
-- [Создание DSL на Rust](https://habr.com/ru/companies/otus/articles/840190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840190)
+- [Первый питерский митап по Go в этом сезоне: построим PaaS без хардкода и научимся отлаживать приложение в проде](https://habr.com/ru/companies/yadro/articles/840688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840688)
+- [Интересные приёмы, взятые из исходников Android](https://habr.com/ru/companies/ruvds/articles/838330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838330)
+- [Введение в Istio для Kubernetes: основы и начальная настройка](https://habr.com/ru/companies/T1Holding/articles/837896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837896)
+- [Как делать бизнес в Open Source](https://habr.com/ru/companies/oleg-bunin/articles/840716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840716)
+- [Как я создавал онлайн игру «нарды» &lpar;часть четвертая&rpar;. Сервер](https://habr.com/ru/articles/840146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
