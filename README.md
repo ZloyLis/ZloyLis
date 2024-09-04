@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Favicon и где они обитают](https://habr.com/ru/companies/simbirsoft/articles/840780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840780)
+- [В столичном техникуме Красина внедряют собственные разработки на основе нейросети](https://habr.com/ru/articles/840848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840848)
 - [.NET Digest #3](https://habr.com/ru/companies/pvs-studio/articles/840830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840830)
 - [[Перевод] Вышел Vue 3.5](https://habr.com/ru/articles/840806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840806)
 - [Как я правил контраст и базовую палитру в дизайн-системе](https://habr.com/ru/articles/840804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840804)
-- [Дружим iPhone и ESP32. Часть 1. ESP Arduino Core](https://habr.com/ru/articles/840784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840784)
-- [Первый питерский митап по Go в этом сезоне: построим PaaS без хардкода и научимся отлаживать приложение в проде](https://habr.com/ru/companies/yadro/articles/840688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
