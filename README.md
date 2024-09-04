@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вышел Vue 3.5](https://habr.com/ru/articles/840806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840806)
+- [Как я правил контраст и базовую палитру в дизайн-системе](https://habr.com/ru/articles/840804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840804)
+- [Дружим iPhone и ESP32. Часть 1. ESP Arduino Core](https://habr.com/ru/articles/840784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840784)
 - [Первый питерский митап по Go в этом сезоне: построим PaaS без хардкода и научимся отлаживать приложение в проде](https://habr.com/ru/companies/yadro/articles/840688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840688)
 - [Интересные приёмы, взятые из исходников Android](https://habr.com/ru/companies/ruvds/articles/838330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838330)
-- [Введение в Istio для Kubernetes: основы и начальная настройка](https://habr.com/ru/companies/T1Holding/articles/837896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837896)
-- [Как делать бизнес в Open Source](https://habr.com/ru/companies/oleg-bunin/articles/840716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840716)
-- [Как я создавал онлайн игру «нарды» &lpar;часть четвертая&rpar;. Сервер](https://habr.com/ru/articles/840146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
