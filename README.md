@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Поделить нельзя — умножить или алгоритм быстрого деления по методу Ньютона-Рафсона](https://habr.com/ru/companies/ruvds/articles/836054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836054)
-- [Композим иконки. Улучшаем семантику и скорость отрисовки](https://habr.com/ru/companies/vk/articles/840862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840862)
-- [Favicon и где они обитают](https://habr.com/ru/companies/simbirsoft/articles/840780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840780)
-- [В столичном техникуме Красина внедряют собственные разработки на основе нейросети](https://habr.com/ru/articles/840848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840848)
-- [.NET Digest #3](https://habr.com/ru/companies/pvs-studio/articles/840830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840830)
+- [Давайте работать с proto ошибками правильно :&rpar;](https://habr.com/ru/companies/ozonbank/articles/840892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840892)
+- [[Перевод] Диаграммы последовательности — единственная хорошая вещь, которую UML привнес в разработку ПО](https://habr.com/ru/articles/840890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840890)
+- [Летняя практика в «Финаме»: чему обучали студентов и что усвоили сами](https://habr.com/ru/companies/finam_broker/articles/840884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840884)
+- [[Перевод] Когда вариантов использования недостаточно — анализ событий](https://habr.com/ru/companies/otus/articles/840878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840878)
+- [Карьера, технологии, саморазвитие: как прошел Selectel Day Off](https://habr.com/ru/companies/selectel/articles/840846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
