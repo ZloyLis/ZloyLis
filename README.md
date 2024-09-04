@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миграция основных и переменных данных в ERP-системах](https://habr.com/ru/articles/840752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840752)
+- [Не панацея, но помощник. О статическом анализаторе кода](https://habr.com/ru/companies/reksoft/articles/840744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840744)
 - [Как мы переиспользовали платформенную аналитику для упрощения работы](https://habr.com/ru/companies/avito/articles/840694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840694)
 - [Как давать нейросети задания, чтобы она вас понимала](https://habr.com/ru/companies/yandex_praktikum/articles/839908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839908)
 - [Создание DSL на Rust](https://habr.com/ru/companies/otus/articles/840190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840190)
-- [ТОП-20 бесплатных уроков программирования в Minecraft для подростков](https://habr.com/ru/companies/pixel_study/articles/840690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840690)
-- [[Перевод] Греппабельность — важная метрика кода](https://habr.com/ru/articles/840654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
