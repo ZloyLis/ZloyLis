@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизации REST API посредством Postman](https://habr.com/ru/articles/840948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840948)
+- [Как я разрушил свои стереотипы об автотестах, или Мой путь от Appium до Kaspresso](https://habr.com/ru/articles/841136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841136)
+- [Разработка плагина RuStore Billing для Defold. Часть 1: Создание Defold-проекта](https://habr.com/ru/companies/vk/articles/840934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840934)
+- [Автоматизация REST API посредством Postman](https://habr.com/ru/articles/840948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840948)
 - [Как я устроилась в крупную компанию: советы и хитрости для дизайнеров](https://habr.com/ru/companies/alfa/articles/838968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838968)
 - [[Перевод] Апи версионирование по-взрослому](https://habr.com/ru/articles/839884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839884)
-- [«А можно быстрее?»: разбираем методы ускорения обучения нейронных сетей](https://habr.com/ru/companies/magnus-tech/articles/840902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840902)
-- [Анализируй-сокращай. Как мы перешли от вендоров на инхаус и как это сказалось на UX и архитектуре](https://habr.com/ru/companies/gazprombank/articles/841030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
