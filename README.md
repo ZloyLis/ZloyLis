@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизации REST API посредством Postman](https://habr.com/ru/articles/840948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840948)
+- [Как я устроилась в крупную компанию: советы и хитрости для дизайнеров](https://habr.com/ru/companies/alfa/articles/838968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838968)
+- [[Перевод] Апи версионирование по-взрослому](https://habr.com/ru/articles/839884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839884)
+- [«А можно быстрее?»: разбираем методы ускорения обучения нейронных сетей](https://habr.com/ru/companies/magnus-tech/articles/840902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840902)
 - [Анализируй-сокращай. Как мы перешли от вендоров на инхаус и как это сказалось на UX и архитектуре](https://habr.com/ru/companies/gazprombank/articles/841030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841030)
-- [Метём метлой. Рефакторим дизайн-систему, чтобы верстать макеты без боли](https://habr.com/ru/companies/X5Tech/articles/841068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841068)
-- [Разбираемся, что такое S3 и делаем простое объектное хранилище на Go](https://habr.com/ru/companies/cdnnow/articles/840874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840874)
-- [Новый подход к редизайну: как мы создаем удобный интерфейс для главного экрана платежей и переводов](https://habr.com/ru/companies/otpbank/articles/841066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841066)
-- [Близость и еще 5 способов управлять вниманием пользователя](https://habr.com/ru/companies/friflex/articles/841054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
