@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книжная полка DevOps-инженера](https://habr.com/ru/companies/yandex_praktikum/articles/839566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839566)
-- [[Перевод] Как GitHub заменил SourceForge в роли доминирующей платформы для хостинга кода](https://habr.com/ru/companies/flant/articles/840448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840448)
-- [Kafka для самых маленьких разработчиков, аналитиков и тестировщиков](https://habr.com/ru/companies/maxilect/articles/840972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840972)
-- [Обнаружение DNS туннелей](https://habr.com/ru/articles/840996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840996)
-- [Тестирование сообщений в Kafka](https://habr.com/ru/articles/840990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840990)
+- [Как мы провели соревнование вместо тестового на стажировку в DS-команду](https://habr.com/ru/companies/skbkontur/articles/840818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840818)
+- [Программирование на C в Linux на примере создания своей командной оболочки](https://habr.com/ru/companies/timeweb/articles/839890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839890)
+- [Сверточные нейронные сети &lpar;CNN&rpar;](https://habr.com/ru/articles/841004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841004)
+- [Vivaldi 6.9 для Android — Настройся по-новому](https://habr.com/ru/companies/vivaldi/articles/841020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841020)
+- [Как отправлять SMS-сообщения из браузера с помощью API: три способа](https://habr.com/ru/companies/exolve/articles/841016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
