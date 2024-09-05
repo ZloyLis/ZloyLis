@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализируй-сокращай. Как мы перешли от вендоров на инхаус и как это сказалось на UX и архитектуре](https://habr.com/ru/companies/gazprombank/articles/841030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841030)
+- [Метём метлой. Рефакторим дизайн-систему, чтобы верстать макеты без боли](https://habr.com/ru/companies/X5Tech/articles/841068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841068)
+- [Разбираемся, что такое S3 и делаем простое объектное хранилище на Go](https://habr.com/ru/companies/cdnnow/articles/840874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840874)
 - [Новый подход к редизайну: как мы создаем удобный интерфейс для главного экрана платежей и переводов](https://habr.com/ru/companies/otpbank/articles/841066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841066)
 - [Близость и еще 5 способов управлять вниманием пользователя](https://habr.com/ru/companies/friflex/articles/841054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841054)
-- [Как мы выстроили экосистему разработки на 1С в Росатоме и победили техдолг](https://habr.com/ru/companies/greenatom/articles/840454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840454)
-- [Как мы провели соревнование вместо тестового на стажировку в DS-команду](https://habr.com/ru/companies/skbkontur/articles/840818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840818)
-- [Программирование на C в Linux на примере создания своей командной оболочки](https://habr.com/ru/companies/timeweb/articles/839890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
