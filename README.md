@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый подход к редизайну: как мы создаем удобный интерфейс для главного экрана платежей и переводов](https://habr.com/ru/companies/otpbank/articles/841066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841066)
+- [Близость и еще 5 способов управлять вниманием пользователя](https://habr.com/ru/companies/friflex/articles/841054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841054)
+- [Как мы выстроили экосистему разработки на 1С в Росатоме и победили техдолг](https://habr.com/ru/companies/greenatom/articles/840454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840454)
 - [Как мы провели соревнование вместо тестового на стажировку в DS-команду](https://habr.com/ru/companies/skbkontur/articles/840818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840818)
 - [Программирование на C в Linux на примере создания своей командной оболочки](https://habr.com/ru/companies/timeweb/articles/839890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839890)
-- [Сверточные нейронные сети &lpar;CNN&rpar;](https://habr.com/ru/articles/841004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841004)
-- [Vivaldi 6.9 для Android — Настройся по-новому](https://habr.com/ru/companies/vivaldi/articles/841020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841020)
-- [Как отправлять SMS-сообщения из браузера с помощью API: три способа](https://habr.com/ru/companies/exolve/articles/841016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
