@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka для самых маленьких разработчиков, аналитиков и тестировщиков](https://habr.com/ru/companies/maxilect/articles/840972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840972)
+- [Обнаружение DNS туннелей](https://habr.com/ru/articles/840996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840996)
 - [Тестирование сообщений в Kafka](https://habr.com/ru/articles/840990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840990)
 - [Игрострой. Программирование. Оптимизация как камень преткновения](https://habr.com/ru/articles/840968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840968)
 - [Как создать часы на Python: уроки программирования для школьников](https://habr.com/ru/companies/pixel_study/articles/840970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840970)
-- [Multicast DNS и DNS-SD](https://habr.com/ru/articles/839602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839602)
-- [Какой кредит выгоднее гасить первым — дорогой или объемный?](https://habr.com/ru/articles/840958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
