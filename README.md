@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаём личный шрифт](https://habr.com/ru/companies/cloud4y/articles/841060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841060)
 - [Как я разрушил свои стереотипы об автотестах, или Мой путь от Appium до Kaspresso](https://habr.com/ru/articles/841136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841136)
 - [Разработка плагина RuStore Billing для Defold. Часть 1: Создание Defold-проекта](https://habr.com/ru/companies/vk/articles/840934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840934)
 - [Автоматизация REST API посредством Postman](https://habr.com/ru/articles/840948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840948)
 - [Как я устроилась в крупную компанию: советы и хитрости для дизайнеров](https://habr.com/ru/companies/alfa/articles/838968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838968)
-- [[Перевод] Апи версионирование по-взрослому](https://habr.com/ru/articles/839884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
