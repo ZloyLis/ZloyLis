@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование для детей 12 лет: какое направление выбрать](https://habr.com/ru/companies/pixel_study/articles/841222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841222)
 - [Строки в игровых движках](https://habr.com/ru/articles/841214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841214)
 - [[Перевод] Проектирование микросервисной архитектуры в среде NodeJS/NestJS](https://habr.com/ru/articles/841204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841204)
 - [Уточнение процентилей с помощью полиномиальной аппроксимации](https://habr.com/ru/articles/841170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841170)
 - [Еще был случай на охоте… Или почему Appdome иногда такой себе Dome](https://habr.com/ru/articles/840920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840920)
-- [[Перевод] Создаём личный шрифт](https://habr.com/ru/companies/cloud4y/articles/841060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
