@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MikroVoice — музыкально-голосовой Микротик или как я озвучил сетевые события на роутерах](https://habr.com/ru/articles/841258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841258)
+- [[Перевод] Камень, ножницы, бумага: путешествие во времени, стратегия и код](https://habr.com/ru/companies/piter/articles/841080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841080)
 - [Entity Framework c предустановленной БД в вашем приложении на .NET MAUI](https://habr.com/ru/articles/841272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841272)
 - [Чем занимается системный аналитик: разбираем на примере](https://habr.com/ru/companies/yandex_praktikum/articles/839488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839488)
 - [Статический анализ структуры базы данных в проекте GitLab](https://habr.com/ru/articles/839402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839402)
-- [Бесплатный аналог Notion на своем сервере за 10 минут. Локальный запуск, настройка и деплой Wiki.JS](https://habr.com/ru/companies/amvera/articles/841152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841152)
-- [Программирование для детей 12 лет: какое направление выбрать](https://habr.com/ru/companies/pixel_study/articles/841222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
