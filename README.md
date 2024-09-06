@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я наконец-то нашел лучшие аналоги YouTube — Платформа и Дзен… ох если бы это было правдой](https://habr.com/ru/articles/841238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841238)
+- [[Перевод] Rust 1.81.0: Error, новая реализация сортировки, #[expect&lpar;lint&rpar;]](https://habr.com/ru/articles/841366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841366)
+- [Инженер. Путь в IT](https://habr.com/ru/articles/841362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841362)
+- [Удивительная история развития сортировки в JDK](https://habr.com/ru/companies/sberbank/articles/841342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841342)
 - [Как защищать тексты UX-писателю. 5 советов из практики](https://habr.com/ru/companies/ncloudtech/articles/840472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840472)
-- [Почему котику лучше в коробке, или Как мы сокращаем этап ревью и согласования документации](https://habr.com/ru/companies/pt/articles/841072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841072)
-- [Moscow QA #5 x X5 Tech](https://habr.com/ru/articles/841306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841306)
-- [MikroVoice — музыкально-голосовой Микротик или как я озвучил сетевые события на роутерах](https://habr.com/ru/articles/841258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841258)
-- [[Перевод] Камень, ножницы, бумага: путешествие во времени, стратегия и код](https://habr.com/ru/companies/piter/articles/841080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
