@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Буфер обмена веб-приложений и как он хранит различные данные](https://habr.com/ru/companies/beget/articles/841446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841446)
 - [PostgreSQL 17: Часть 5 или Коммитфест 2024-03](https://habr.com/ru/companies/postgrespro/articles/841408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841408)
 - [Проверяем зачисление в ВУЗ через телеграм бота](https://habr.com/ru/companies/amvera/articles/840978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840978)
 - [Вложенные тексты как возможность для композиции &lpar;разделения на части&rpar; в длинных текстах &lpar;so10; sapscript text&rpar;](https://habr.com/ru/articles/841422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841422)
 - [Как сделать «успешный» стартап?](https://habr.com/ru/articles/836754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836754)
-- [Следим за производительностью SDK. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/841086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
