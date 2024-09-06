@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Следим за производительностью SDK. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/841086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841086)
+- [[Перевод] Кастомизация окна прогресса в оболочке Windows](https://habr.com/ru/companies/ruvds/articles/840706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840706)
 - [Java Digest #16](https://habr.com/ru/companies/tbank/articles/841364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841364)
 - [[Перевод] Код как данные: пишем Python на Python](https://habr.com/ru/companies/sportmaster_lab/articles/841390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841390)
 - [Дайджест канала opensource_findings за август 2024](https://habr.com/ru/articles/841388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841388)
-- [Я наконец-то нашел лучшие аналоги YouTube — Платформа и Дзен… ох если бы это было правдой](https://habr.com/ru/articles/841238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841238)
-- [[Перевод] Rust 1.81.0: Error, новая реализация сортировки, #[expect&lpar;lint&rpar;]](https://habr.com/ru/articles/841366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
