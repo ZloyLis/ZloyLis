@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование для детей 7 лет: ТОП-30 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/841482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841482)
+- [Kotlin глазами Java-разработчика](https://habr.com/ru/articles/841478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841478)
 - [Корутины? Простейшая имплементация на C, protothread и Arduino](https://habr.com/ru/articles/841472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841472)
 - [Обходим блокировку VPN](https://habr.com/ru/articles/841460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841460)
 - [[Перевод] Буфер обмена веб-приложений и как он хранит различные данные](https://habr.com/ru/companies/beget/articles/841446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841446)
-- [PostgreSQL 17: Часть 5 или Коммитфест 2024-03](https://habr.com/ru/companies/postgrespro/articles/841408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841408)
-- [Проверяем зачисление в ВУЗ через телеграм бота](https://habr.com/ru/companies/amvera/articles/840978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
