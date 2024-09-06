@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как защищать тексты UX-писателю. 5 советов из практики](https://habr.com/ru/companies/ncloudtech/articles/840472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840472)
+- [Почему котику лучше в коробке, или Как мы сокращаем этап ревью и согласования документации](https://habr.com/ru/companies/pt/articles/841072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841072)
 - [Moscow QA #5 x X5 Tech](https://habr.com/ru/articles/841306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841306)
 - [MikroVoice — музыкально-голосовой Микротик или как я озвучил сетевые события на роутерах](https://habr.com/ru/articles/841258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841258)
 - [[Перевод] Камень, ножницы, бумага: путешествие во времени, стратегия и код](https://habr.com/ru/companies/piter/articles/841080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841080)
-- [Entity Framework c предустановленной БД в вашем приложении на .NET MAUI](https://habr.com/ru/articles/841272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841272)
-- [Чем занимается системный аналитик: разбираем на примере](https://habr.com/ru/companies/yandex_praktikum/articles/839488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
