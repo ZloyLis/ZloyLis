@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение систем позиционирования персонала на современных дискретных производствах](https://habr.com/ru/articles/841508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841508)
+- [SolriXML: Лучи света в темном лесу XML-данных](https://habr.com/ru/articles/841486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841486)
 - [Декомпозиция задач: съесть слона по кусочкам](https://habr.com/ru/articles/841500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841500)
 - [Программирование для детей 7 лет: ТОП-30 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/841482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841482)
 - [Kotlin глазами Java-разработчика](https://habr.com/ru/articles/841478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841478)
-- [Корутины? Простейшая имплементация на C, protothread и Arduino](https://habr.com/ru/articles/841472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841472)
-- [Обходим блокировку VPN](https://habr.com/ru/articles/841460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
