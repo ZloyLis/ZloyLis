@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как нейминг влияет на качество кода?](https://habr.com/ru/articles/841534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841534)
 - [Влияние UX Writing на конверсию через A/B тестирование](https://habr.com/ru/companies/otus/articles/839946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839946)
 - [[Перевод] Как Linux создаёт и подсчитывает сокеты](https://habr.com/ru/companies/timeweb/articles/841462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841462)
 - [Применение систем позиционирования персонала на современных дискретных производствах](https://habr.com/ru/articles/841508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841508)
 - [SolriXML: Лучи света в темном лесу XML-данных](https://habr.com/ru/articles/841486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841486)
-- [Декомпозиция задач: съесть слона по кусочкам](https://habr.com/ru/articles/841500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
