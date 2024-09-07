@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Булевы операции двумерных тел](https://habr.com/ru/articles/841572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841572)
+- [Ему не место на помойке: хакаем 15-летний электронный переводчик и пишем под него приложения](https://habr.com/ru/companies/timeweb/articles/840418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840418)
+- [Введение в OpenLayers](https://habr.com/ru/articles/795673/?utm_source=habrahabr&utm_medium=rss&utm_campaign=795673)
 - [Один в поле воин или не воин? Когда ты один тестировщик на 9 разработчиков. Часть 1](https://habr.com/ru/articles/841566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841566)
 - [Компьютерное зрение в автотестах. Поиск элемента по фото](https://habr.com/ru/articles/841564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841564)
-- [Про Винни-Пуха, кролика Билли и «жирные» компьютерные программы](https://habr.com/ru/articles/841450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841450)
-- [SEO-продвижение: Как мы увеличили трафик на 88% в месяц и обошли Amazon](https://habr.com/ru/articles/841540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841540)
-- [Классы эквивалентности для QA со стороны математического анализа](https://habr.com/ru/articles/841538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
