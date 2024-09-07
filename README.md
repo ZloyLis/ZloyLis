@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Руководство Google по стилю в C++: 2019 — 2024](https://habr.com/ru/articles/841552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841552)
+- [Выбор ноутбука &lpar;компьютера&rpar; для фрондент разработки](https://habr.com/ru/articles/841590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841590)
+- [Непостоянные потери в Uniswap V2 + V3](https://habr.com/ru/articles/841586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841586)
 - [О том, как я пытался сделать свой агрегатор фриланс-проектов, но он не взлетел](https://habr.com/ru/articles/841584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841584)
 - [Что я понял за 7+ лет в дизайне IT](https://habr.com/ru/articles/841580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841580)
-- [Знакомимся с линейной алгеброй в NumPy](https://habr.com/ru/articles/841578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841578)
-- [Булевы операции двумерных тел](https://habr.com/ru/articles/841572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841572)
-- [Ему не место на помойке: хакаем 15-летний электронный переводчик и пишем под него приложения](https://habr.com/ru/companies/timeweb/articles/840418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
