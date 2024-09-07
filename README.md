@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор Рамочной конвенции Совета Европы об искусственном интеллекте и правах человека, демократии и верховенстве права](https://habr.com/ru/articles/841556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841556)
 - [Руководство Google по стилю в C++: 2019 — 2024](https://habr.com/ru/articles/841552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841552)
 - [Выбор ноутбука &lpar;компьютера&rpar; для фронтенд разработки](https://habr.com/ru/articles/841590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841590)
 - [Непостоянные потери в Uniswap V2 + V3](https://habr.com/ru/articles/841586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841586)
 - [О том, как я пытался сделать свой агрегатор фриланс-проектов, но он не взлетел](https://habr.com/ru/articles/841584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841584)
-- [Что я понял за 7+ лет в дизайне IT](https://habr.com/ru/articles/841580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
