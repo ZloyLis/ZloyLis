@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про Винни-Пуха, кролика Билли и компьютерные программы](https://habr.com/ru/articles/841450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841450)
 - [SEO-продвижение: Как мы увеличили трафик на 88% в месяц и обошли Amazon](https://habr.com/ru/articles/841540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841540)
 - [Классы эквивалентности для QA со стороны математического анализа](https://habr.com/ru/articles/841538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841538)
 - [Как нейминг влияет на качество кода?](https://habr.com/ru/articles/841534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841534)
 - [Влияние UX Writing на конверсию через A/B тестирование](https://habr.com/ru/companies/otus/articles/839946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839946)
-- [[Перевод] Как Linux создаёт и подсчитывает сокеты](https://habr.com/ru/companies/timeweb/articles/841462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
