@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка и деплой Slack бота](https://habr.com/ru/companies/amvera/articles/841652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841652)
+- [В помощь разработчику: 6 полезных библиотек визуализации данных](https://habr.com/ru/companies/ru_mts/articles/841498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841498)
+- [Системный аналитик. Краткий гайд по профессии. Часть 1](https://habr.com/ru/articles/841646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841646)
 - [База на дискете: про работу с ИТ-инфраструктурой, которую строили четверть века](https://habr.com/ru/articles/841638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841638)
 - [Обзор Рамочной конвенции Совета Европы об искусственном интеллекте и правах человека, демократии и верховенстве права](https://habr.com/ru/articles/841556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841556)
-- [Руководство Google по стилю в C++: 2019 — 2024](https://habr.com/ru/articles/841552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841552)
-- [Выбор ноутбука &lpar;компьютера&rpar; для фронтенд разработки](https://habr.com/ru/articles/841590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841590)
-- [Непостоянные потери в Uniswap V2 + V3](https://habr.com/ru/articles/841586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
