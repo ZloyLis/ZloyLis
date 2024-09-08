@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дело семейное: влияют ли родители-программисты на выбор профессии детей?](https://habr.com/ru/companies/pixel_study/articles/841758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841758)
+- [3D-моделирование в TinkerCAD для детей: все о программе и полезные ресурсы](https://habr.com/ru/companies/pixel_study/articles/841756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841756)
 - [[Перевод] WebP — формат сжатия веб-страниц](https://habr.com/ru/articles/841754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841754)
 - [Доплеровское Cмещение Несущей Спутников GPS](https://habr.com/ru/articles/813461/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813461)
 - [Инициатива по интеграции DNS в Windows 11 вызывает опасения экспертов](https://habr.com/ru/companies/globalsign/articles/841750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841750)
-- [Программируем полётный контроллер на основе DIY проекта Flix](https://habr.com/ru/articles/840132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840132)
-- [Практика: фронтенд для начинающих](https://habr.com/ru/articles/841748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
