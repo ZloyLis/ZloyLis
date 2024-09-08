@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultimatum — очередной форк chromium-а](https://habr.com/ru/articles/841658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841658)
+- [[Перевод] Как я выиграл $2 750 с помощью JavaScript, ИИ и банки WD-40](https://habr.com/ru/companies/ruvds/articles/841254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841254)
+- [Как я создавал онлайн игру «нарды» &lpar;часть пятая&rpar;. Сервер](https://habr.com/ru/articles/841546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841546)
 - [Разработка и деплой Slack бота](https://habr.com/ru/companies/amvera/articles/841652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841652)
 - [В помощь разработчику: 6 полезных библиотек визуализации данных](https://habr.com/ru/companies/ru_mts/articles/841498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841498)
-- [Системный аналитик. Краткий гайд по профессии. Часть 1](https://habr.com/ru/articles/841646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841646)
-- [База на дискете: про работу с ИТ-инфраструктурой, которую строили четверть века](https://habr.com/ru/articles/841638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841638)
-- [Обзор Рамочной конвенции Совета Европы об искусственном интеллекте и правах человека, демократии и верховенстве права](https://habr.com/ru/articles/841556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
