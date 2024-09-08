@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем нужны ключи в JavaScript фреймворках и библиотеках?](https://habr.com/ru/articles/841734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841734)
 - [Зачем в iPhone чип, который убивает FaceID](https://habr.com/ru/articles/841708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841708)
 - [Apple Pro Weekly News &lpar;02.09 – 08.09.24&rpar;](https://habr.com/ru/articles/841704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841704)
 - [Прокачайте свой Swift с @dynamicMemberLookup](https://habr.com/ru/articles/841690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841690)
 - [Хранение данных в Postgresql](https://habr.com/ru/articles/841674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841674)
-- [Ultimatum — очередной форк chromium-а или сказ о том как я кеши приручал](https://habr.com/ru/articles/841658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
