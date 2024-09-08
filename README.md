@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инициатива по интеграции DNS в Windows 11 вызывает опасения экспертов](https://habr.com/ru/companies/globalsign/articles/841750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841750)
+- [Программируем полётный контроллер на основе DIY проекта Flix](https://habr.com/ru/articles/840132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840132)
+- [Практика: фронтенд для начинающих](https://habr.com/ru/articles/841748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841748)
 - [Зачем нужны ключи в JavaScript фреймворках и библиотеках?](https://habr.com/ru/articles/841734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841734)
 - [Зачем в iPhone чип, который убивает FaceID](https://habr.com/ru/articles/841708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841708)
-- [Apple Pro Weekly News &lpar;02.09 – 08.09.24&rpar;](https://habr.com/ru/articles/841704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841704)
-- [Прокачайте свой Swift с @dynamicMemberLookup](https://habr.com/ru/articles/841690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841690)
-- [Хранение данных в Postgresql](https://habr.com/ru/articles/841674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
