@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прокачайте свой Swift с @dynamicMemberLookup](https://habr.com/ru/articles/841690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841690)
 - [Хранение данных в Postgresql](https://habr.com/ru/articles/841674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841674)
 - [Ultimatum — очередной форк chromium-а или сказ о том как я кеши приручал](https://habr.com/ru/articles/841658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841658)
 - [[Перевод] Как я выиграл $2 750 с помощью JavaScript, ИИ и банки WD-40](https://habr.com/ru/companies/ruvds/articles/841254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841254)
 - [Как я создавал онлайн игру «нарды» &lpar;часть пятая&rpar;. Сервер](https://habr.com/ru/articles/841546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841546)
-- [Разработка и деплой Slack бота](https://habr.com/ru/companies/amvera/articles/841652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
