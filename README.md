@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать скин кота в Roblox для детей: бесплатный урок](https://habr.com/ru/companies/pixel_study/articles/842060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842060)
+- [Как Выигрывать в Игре Быки и Коровы](https://habr.com/ru/articles/754792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754792)
+- [Подробно про JWT](https://habr.com/ru/articles/842056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842056)
 - [Пространство двумерного времени](https://habr.com/ru/articles/842054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842054)
 - [Компиляция математического выражение из строки динамически во время выполнения в C# &lpar;.NET&rpar;](https://habr.com/ru/articles/842046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842046)
-- [Retargeting в мобильных играх: Руководство по методам и расчетам](https://habr.com/ru/articles/842022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842022)
-- [Проект «Статистика дрифта». Часть 2. Базовые сущности](https://habr.com/ru/articles/842020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842020)
-- [HTTP-серверы на Fiber в Golang](https://habr.com/ru/companies/otus/articles/841194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
