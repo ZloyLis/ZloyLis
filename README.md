@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект «Статистика дрифта». Часть 2. Базовые сущности](https://habr.com/ru/articles/842020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842020)
+- [HTTP-серверы на Fiber в Golang](https://habr.com/ru/companies/otus/articles/841194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841194)
 - [Справочник-шпаргалка по методологиям и паттернам на Python](https://habr.com/ru/articles/841664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841664)
 - [Security Week 2437: уязвимость в ключах YubiKey 5](https://habr.com/ru/companies/kaspersky/articles/841942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841942)
 - [Что такое электронная путевка? Ответить сложнее, чем может показаться](https://habr.com/ru/companies/selectel/articles/841916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841916)
-- [Священная война языков программирования или опыт неудачного переезда с Python на Golang](https://habr.com/ru/articles/842000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842000)
-- [[Перевод] Самые главные ошибки в карьере UX дизайнера и уроки, которые я усвоил](https://habr.com/ru/articles/841992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
