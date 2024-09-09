@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #554 &lpar;2 — 8 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/841772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841772)
 - [Успешная попытка установки PostgresPro-Std-16 на Raspberry PI 5 для 1С](https://habr.com/ru/articles/841676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841676)
 - [Как быстро получить примерную стоимость оборудования на основе спецификации проекта](https://habr.com/ru/articles/837616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837616)
 - [Как мы французскому ПО ценности добавляли, но нас не оценили](https://habr.com/ru/articles/841764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841764)
 - [Как мы французскому ПО ценности добавляли, но нас не оценили](https://habr.com/ru/articles/841762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841762)
-- [Дело семейное: влияют ли родители-программисты на выбор профессии детей?](https://habr.com/ru/companies/pixel_study/articles/841758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
