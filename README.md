@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компиляция математического выражение из строки динамически во время выполнения в C# &lpar;.NET&rpar;](https://habr.com/ru/articles/842046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842046)
 - [Retargeting в мобильных играх: Руководство по методам и расчетам](https://habr.com/ru/articles/842022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842022)
 - [Проект «Статистика дрифта». Часть 2. Базовые сущности](https://habr.com/ru/articles/842020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842020)
 - [HTTP-серверы на Fiber в Golang](https://habr.com/ru/companies/otus/articles/841194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841194)
 - [Справочник-шпаргалка по методологиям и паттернам на Python](https://habr.com/ru/articles/841664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841664)
-- [Security Week 2437: уязвимость в ключах YubiKey 5](https://habr.com/ru/companies/kaspersky/articles/841942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
