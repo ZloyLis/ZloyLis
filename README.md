@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбор тестового варианта 2024 года на магистерскую программу «Программное обеспечение высоконагруженных систем» в ИТМО](https://habr.com/ru/articles/841846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841846)
-- [Организация файлов в Figma](https://habr.com/ru/articles/841812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841812)
-- [КОТ РСХБ-Интех или «Как Обучить Тестировщика»](https://habr.com/ru/companies/rshb/articles/841800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841800)
-- [4 ошибки в моём резюме на аналитика данных, из-за которых конверсия в отклик была меньше 1%](https://habr.com/ru/companies/yandex_praktikum/articles/840652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840652)
-- [REDIS: такой простой и такой сложный](https://habr.com/ru/companies/stm_labs/articles/841792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841792)
+- [Рейтинг YouTube каналов — легко!… ан нет](https://habr.com/ru/articles/841874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841874)
+- [[Перевод] JavaScript Clean Code: руководство для начинающих разработчиков](https://habr.com/ru/companies/otus/articles/841866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841866)
+- [Полный разбор экзамена в ШАД 2024 года](https://habr.com/ru/articles/841858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841858)
+- [«Мотивация?» или «Вывод из демотивации?»](https://habr.com/ru/articles/841856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841856)
+- [Replit Agent создает программы за вас или кодинг без IDE](https://habr.com/ru/companies/oleg-bunin/articles/841808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
