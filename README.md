@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Используем Yandex MapKit с Compose Multiplatform. Часть 2](https://habr.com/ru/articles/841728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841728)
+- [[Перевод] Как я разработал систему датчиков сгибания](https://habr.com/ru/companies/ruvds/articles/841890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841890)
 - [Материалы для подготовки к собеседованию на позицию Data Scientist. Часть 5: Поведенческое интервью + Бонусы](https://habr.com/ru/companies/megafon/articles/839570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839570)
 - [Нейронные оптимизаторы запросов в реляционных БД &lpar;Часть 1&rpar;](https://habr.com/ru/companies/postgrespro/articles/841918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841918)
 - [Распаковывая Valkey или миллион RPS на BSD-клоне Redis](https://habr.com/ru/articles/841912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841912)
-- [Рейтинг YouTube каналов — легко!… ан нет](https://habr.com/ru/articles/841874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841874)
-- [[Перевод] JavaScript Clean Code: руководство для начинающих разработчиков](https://habr.com/ru/companies/otus/articles/841866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
