@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [КОТ РСХБ-Интех или «Как Обучить Тестировщика»](https://habr.com/ru/companies/rshb/articles/841800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841800)
+- [4 ошибки в моём резюме на аналитика данных, из-за которых конверсия в отклик была меньше 1%](https://habr.com/ru/companies/yandex_praktikum/articles/840652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840652)
+- [REDIS: такой простой и такой сложный](https://habr.com/ru/companies/stm_labs/articles/841792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841792)
 - [Бесплатный домен с HTTPS для локальных приложений: универсальное руководство с примером на Flask](https://habr.com/ru/companies/amvera/articles/841616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841616)
 - [Винтик и Шпунтик возвращаются из сказочной страны и решают задачу в мире самой обычной математики](https://habr.com/ru/articles/841668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841668)
-- [Чистый код: Принцип подстановки Барбары Лисков &lpar;LSP&rpar;](https://habr.com/ru/articles/838458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838458)
-- [Мобильная разработка за неделю #554 &lpar;2 — 8 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/841772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841772)
-- [Успешная попытка установки PostgresPro-Std-16 на Raspberry PI 5 для 1С](https://habr.com/ru/articles/841676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
