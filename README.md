@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сменить технологию и не закопаться в рефакторинге: опыт внедрения DDD в проект на FastAPI — Часть 2](https://habr.com/ru/articles/838188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838188)
 - [Как создать скин кота в Roblox для детей: бесплатный урок](https://habr.com/ru/companies/pixel_study/articles/842060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842060)
 - [Как Выигрывать в Игре Быки и Коровы](https://habr.com/ru/articles/754792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754792)
 - [Подробно про JWT](https://habr.com/ru/articles/842056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842056)
 - [Пространство двумерного времени](https://habr.com/ru/articles/842054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842054)
-- [Компиляция математического выражение из строки динамически во время выполнения в C# &lpar;.NET&rpar;](https://habr.com/ru/articles/842046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
