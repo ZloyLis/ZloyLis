@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Критерии качества требований с примерами &lpar;Часть 1.&rpar;](https://habr.com/ru/articles/842296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842296)
 - [Браузер для Web 3.0](https://habr.com/ru/articles/842284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842284)
 - [Бизнес-моделирование в ИТ-разработке](https://habr.com/ru/articles/842254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842254)
 - [Поиск всех последовательностей чисел от 1 до n, где сумма соседних чисел является квадратом](https://habr.com/ru/articles/842246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842246)
 - [[Перевод] Лидерство в тестировании: тестирование сервисов](https://habr.com/ru/articles/842082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842082)
-- [Книга: «Безопасность веб-приложений. Разведка, защита, нападение. 2-е изд.»](https://habr.com/ru/companies/piter/articles/841098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
