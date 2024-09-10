@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Магия CSS на практике: советы по вёрстке от гика. Часть 4](https://habr.com/ru/companies/ruvds/articles/840500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840500)
+- [Как не надо писать пользовательскую инструкцию](https://habr.com/ru/companies/usetech/articles/842148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842148)
+- [Как системный аналитик может data-культуру развивать](https://habr.com/ru/companies/skbkontur/articles/842110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842110)
 - [JavaScript: структуры данных и алгоритмы. Часть 5](https://habr.com/ru/companies/timeweb/articles/838794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838794)
 - [BDUI: удовольствие или боль](https://habr.com/ru/companies/cian/articles/840664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840664)
-- [C++ Дайджест №8 &lpar;2 сентября – 8 сентября 2024&rpar;](https://habr.com/ru/articles/841742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841742)
-- [Реализация событий через HTTP](https://habr.com/ru/articles/842116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842116)
-- [Семантическое версионирование в дизайне](https://habr.com/ru/articles/842112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
