@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три способа оптимизировать работу с памятью на Go с помощью memory pools](https://habr.com/ru/companies/yadro/articles/842312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842312)
+- [Как &lpar;не&rpar;удачно превращали LLM в 2d виртуальных сотрудников](https://habr.com/ru/articles/842310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842310)
+- [Python для школьников: 25 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/842308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842308)
 - [Размерность Минковского и Two Nearest Neighbours &lpar;TwoNN&rpar;](https://habr.com/ru/articles/820531/?utm_source=habrahabr&utm_medium=rss&utm_campaign=820531)
 - [Критерии качества требований с примерами &lpar;Часть 1&rpar;](https://habr.com/ru/articles/842296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842296)
-- [Браузер для Web 3.0](https://habr.com/ru/articles/842284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842284)
-- [Бизнес-моделирование в ИТ-разработке](https://habr.com/ru/articles/842254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842254)
-- [Поиск всех последовательностей чисел от 1 до n, где сумма соседних чисел является квадратом](https://habr.com/ru/articles/842246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
