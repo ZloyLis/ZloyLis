@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес-моделирование в ИТ-разработке](https://habr.com/ru/articles/842254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842254)
+- [Поиск всех последовательностей чисел от 1 до n, где сумма соседних чисел является квадратом](https://habr.com/ru/articles/842246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842246)
 - [[Перевод] Лидерство в тестировании: тестирование сервисов](https://habr.com/ru/articles/842082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842082)
 - [Книга: «Безопасность веб-приложений. Разведка, защита, нападение. 2-е изд.»](https://habr.com/ru/companies/piter/articles/841098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841098)
 - [[Перевод] Структурированное логирование в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/842226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842226)
-- [Изобретаю свой сложный способ поиска координат точки пересечения двух линий](https://habr.com/ru/articles/825066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=825066)
-- [Как с нуля построить систему обработки событий](https://habr.com/ru/companies/ctsg/articles/842186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
