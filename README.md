@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мини-гайд по отправке сообщений из Google Таблицы или базы данных с Python](https://habr.com/ru/companies/exolve/articles/842106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842106)
-- [Как оптимизировать всего один бизнес-процесс и получить полноценную автоматизированную систему управления доступами](https://habr.com/ru/companies/lanit/articles/838980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838980)
-- [Кратко про библиотеку Range в C++](https://habr.com/ru/companies/otus/articles/841456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841456)
-- [Auth service без библиотек](https://habr.com/ru/articles/842068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842068)
-- [Как сменить технологию и не закопаться в рефакторинге: опыт внедрения DDD в проект на FastAPI — Часть 2](https://habr.com/ru/articles/838188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838188)
+- [JavaScript: структуры данных и алгоритмы. Часть 5](https://habr.com/ru/companies/timeweb/articles/838794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838794)
+- [BDUI: удовольствие или боль](https://habr.com/ru/companies/cian/articles/840664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840664)
+- [C++ Дайджест №8 &lpar;2 сентября – 8 сентября 2024&rpar;](https://habr.com/ru/articles/841742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841742)
+- [Реализация событий через HTTP](https://habr.com/ru/articles/842116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842116)
+- [Семантическое версионирование в дизайне](https://habr.com/ru/articles/842112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
