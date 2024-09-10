@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мини-гайд по отправке сообщений из Google Таблицы или базы данных с Python](https://habr.com/ru/companies/exolve/articles/842106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842106)
+- [Как оптимизировать всего один бизнес-процесс и получить полноценную автоматизированную систему управления доступами](https://habr.com/ru/companies/lanit/articles/838980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838980)
 - [Кратко про библиотеку Range в C++](https://habr.com/ru/companies/otus/articles/841456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841456)
 - [Auth service без библиотек](https://habr.com/ru/articles/842068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842068)
 - [Как сменить технологию и не закопаться в рефакторинге: опыт внедрения DDD в проект на FastAPI — Часть 2](https://habr.com/ru/articles/838188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838188)
-- [Как создать скин кота в Roblox для детей: бесплатный урок](https://habr.com/ru/companies/pixel_study/articles/842060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842060)
-- [Как Выигрывать в Игре Быки и Коровы](https://habr.com/ru/articles/754792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=754792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
