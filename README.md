@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как настроить сериализацию с System.Text.Json в C#: кратко для новичков](https://habr.com/ru/companies/otus/articles/841596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841596)
 - [Семантическое версионирование макетов](https://habr.com/ru/articles/842120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842120)
 - [Объект, ты null? Или как заключить контракт с компилятором в Kotlin](https://habr.com/ru/articles/842302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842302)
 - [Диаграммы классов UML из PostgreSQL. Часть первая](https://habr.com/ru/articles/841776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841776)
 - [Вышла в свет бета-версия Axure RP 11](https://habr.com/ru/articles/842334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842334)
-- [Как &lpar;не&rpar;удачно превращали LLM в 2d виртуальных сотрудников](https://habr.com/ru/articles/842310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
