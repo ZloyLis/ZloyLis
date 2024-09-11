@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ускоряем Android-приложения с помощью Baseline Profiles](https://habr.com/ru/companies/avito/articles/842218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842218)
-- [Автоматизация тестирования: 3 ошибки в начале обучения и как их избежать](https://habr.com/ru/companies/yandex_praktikum/articles/840340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840340)
-- [Jackett и альтернативные решения &lpar;интерфейсы и api&rpar; для поиска торрентов](https://habr.com/ru/articles/841924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841924)
-- [Как настроить сериализацию с System.Text.Json в C#: кратко для новичков](https://habr.com/ru/companies/otus/articles/841596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841596)
-- [Семантическое версионирование макетов](https://habr.com/ru/articles/842120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842120)
+- [Prometheus: как Бог огня стал Богом мониторинга](https://habr.com/ru/companies/axenix/articles/842390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842390)
+- [std::execution принят в C++26 — пора знакомиться](https://habr.com/ru/articles/842316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842316)
+- [Актуальность компонента](https://habr.com/ru/articles/842346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842346)
+- [Устаревшие мифы про Java](https://habr.com/ru/articles/842384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842384)
+- [Главная тайна IT-курсов для новичков](https://habr.com/ru/articles/842256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
