@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я Капсулу Нео от VK взломал](https://habr.com/ru/companies/bizone/articles/840376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840376)
+- [Как оценить эффективность информационной системы](https://habr.com/ru/articles/842468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842468)
 - [Три способа оптимизировать работу с памятью на Go с помощью memory pools](https://habr.com/ru/companies/yadro/articles/842314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842314)
 - [А/Б тестирование: множественная проверка гипотез](https://habr.com/ru/companies/X5Tech/articles/842426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842426)
 - [[Перевод] ML-подход к заблаговременному предотвращению оттока рекламодателей](https://habr.com/ru/companies/wunderfund/articles/842274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842274)
-- [Mockingbird, или Как убить всех зайцев одним выстрелом](https://habr.com/ru/companies/tbank/articles/842436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842436)
-- [Курс «PostgreSQL для начинающих»: #4 — Анализ запросов &lpar;ч.2 — узлы получения данных&rpar;](https://habr.com/ru/companies/tensor/articles/842158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
