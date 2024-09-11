@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Дорогая, я уменьшил {fmt}: уменьшил размер до 14kB и избавился от рантайма C++](https://habr.com/ru/companies/beget/articles/842566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842566)
+- [Вес файлов Figma](https://habr.com/ru/articles/842132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842132)
+- [Функциональные опции в Go](https://habr.com/ru/articles/842594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842594)
 - [Подводные камни устройства карты видимости в СУБД PostgreSQL](https://habr.com/ru/articles/842520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842520)
 - [Можно просто так взять и опубликовать Приложение в ОК](https://habr.com/ru/companies/vk/articles/841294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841294)
-- [Что нам даёт понимание спецификации языка ECMA Script? Разбираем стандарт ECMA262](https://habr.com/ru/companies/simbirsoft/articles/840626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840626)
-- [Как я Капсулу Нео от VK взломал](https://habr.com/ru/companies/bizone/articles/840376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840376)
-- [Как оценить эффективность информационной системы](https://habr.com/ru/articles/842468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
