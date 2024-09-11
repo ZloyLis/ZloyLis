@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prometheus: как Бог огня стал Богом мониторинга](https://habr.com/ru/companies/axenix/articles/842390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842390)
-- [std::execution принят в C++26 — пора знакомиться](https://habr.com/ru/articles/842316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842316)
-- [Актуальность компонента](https://habr.com/ru/articles/842346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842346)
-- [Устаревшие мифы про Java](https://habr.com/ru/articles/842384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842384)
-- [Главная тайна IT-курсов для новичков](https://habr.com/ru/articles/842256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842256)
+- [Безопасность для небезопасников](https://habr.com/ru/companies/oleg-bunin/articles/841876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841876)
+- [[Перевод] ViewModels в Android: «за» и «против». Часть 2](https://habr.com/ru/companies/otus/articles/842394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842394)
+- [Психология цвета в веб-дизайне. Влияние цветовых решений на восприятие пользователей](https://habr.com/ru/articles/842430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842430)
+- [Диаграммы классов UML из PostgreSQL. Окончание](https://habr.com/ru/articles/841926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841926)
+- [Автотесты на Java для websocket на SockJS](https://habr.com/ru/companies/rostelecom/articles/842406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
