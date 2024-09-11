@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О трёхмерной графике в GMS2. Часть 2 из 2](https://habr.com/ru/articles/842626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842626)
+- [Алгоритм сравнения отпечатков пальцев: комбинация классических алгоритмов](https://habr.com/ru/companies/samsung/articles/842578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842578)
 - [[Перевод] Дорогая, я уменьшил {fmt}: уменьшил размер до 14kB и избавился от рантайма C++](https://habr.com/ru/companies/beget/articles/842566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842566)
 - [Вес файлов Figma](https://habr.com/ru/articles/842132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842132)
 - [Функциональные опции в Go](https://habr.com/ru/articles/842594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842594)
-- [Подводные камни устройства карты видимости в СУБД PostgreSQL](https://habr.com/ru/articles/842520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842520)
-- [Можно просто так взять и опубликовать Приложение в ОК](https://habr.com/ru/companies/vk/articles/841294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
