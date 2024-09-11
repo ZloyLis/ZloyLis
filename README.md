@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Безопасность для небезопасников](https://habr.com/ru/companies/oleg-bunin/articles/841876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841876)
-- [[Перевод] ViewModels в Android: «за» и «против». Часть 2](https://habr.com/ru/companies/otus/articles/842394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842394)
-- [Психология цвета в веб-дизайне. Влияние цветовых решений на восприятие пользователей](https://habr.com/ru/articles/842430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842430)
-- [Диаграммы классов UML из PostgreSQL. Окончание](https://habr.com/ru/articles/841926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841926)
-- [Автотесты на Java для websocket на SockJS](https://habr.com/ru/companies/rostelecom/articles/842406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842406)
+- [Три способа оптимизировать работу с памятью на Go с помощью memory pools](https://habr.com/ru/companies/yadro/articles/842314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842314)
+- [А/Б тестирование: множественная проверка гипотез](https://habr.com/ru/companies/X5Tech/articles/842426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842426)
+- [[Перевод] ML-подход к заблаговременному предотвращению оттока рекламодателей](https://habr.com/ru/companies/wunderfund/articles/842274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842274)
+- [Mockingbird, или Как убить всех зайцев одним выстрелом](https://habr.com/ru/companies/tbank/articles/842436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842436)
+- [Курс «PostgreSQL для начинающих»: #4 — Анализ запросов &lpar;ч.2 — узлы получения данных&rpar;](https://habr.com/ru/companies/tensor/articles/842158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
