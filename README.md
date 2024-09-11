@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подводные камни устройства карты видимости в СУБД PostgreSQL](https://habr.com/ru/articles/842520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842520)
+- [Можно просто так взять и опубликовать Приложение в ОК](https://habr.com/ru/companies/odnoklassniki/articles/841294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841294)
+- [Что нам даёт понимание спецификации языка ECMA Script? Разбираем стандарт ECMA262](https://habr.com/ru/companies/simbirsoft/articles/840626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840626)
 - [Как я Капсулу Нео от VK взломал](https://habr.com/ru/companies/bizone/articles/840376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840376)
 - [Как оценить эффективность информационной системы](https://habr.com/ru/articles/842468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842468)
-- [Три способа оптимизировать работу с памятью на Go с помощью memory pools](https://habr.com/ru/companies/yadro/articles/842314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842314)
-- [А/Б тестирование: множественная проверка гипотез](https://habr.com/ru/companies/X5Tech/articles/842426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842426)
-- [[Перевод] ML-подход к заблаговременному предотвращению оттока рекламодателей](https://habr.com/ru/companies/wunderfund/articles/842274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
