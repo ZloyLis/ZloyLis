@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем Android-приложения с помощью Baseline Profiles](https://habr.com/ru/companies/avito/articles/842218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842218)
+- [Автоматизация тестирования: 3 ошибки в начале обучения и как их избежать](https://habr.com/ru/companies/yandex_praktikum/articles/840340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840340)
+- [Jackett и альтернативные решения &lpar;интерфейсы и api&rpar; для поиска торрентов](https://habr.com/ru/articles/841924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841924)
 - [Как настроить сериализацию с System.Text.Json в C#: кратко для новичков](https://habr.com/ru/companies/otus/articles/841596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841596)
 - [Семантическое версионирование макетов](https://habr.com/ru/articles/842120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842120)
-- [Объект, ты null? Или как заключить контракт с компилятором в Kotlin](https://habr.com/ru/articles/842302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842302)
-- [Диаграммы классов UML из PostgreSQL. Часть первая](https://habr.com/ru/articles/841776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841776)
-- [Вышла в свет бета-версия Axure RP 11](https://habr.com/ru/articles/842334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
