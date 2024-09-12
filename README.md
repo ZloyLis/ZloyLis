@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мультипродуктовая дизайн-система: как сделать так, чтобы она реально работала](https://habr.com/ru/companies/vk/articles/842412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842412)
+- [[Перевод] ИИ-агенты на основе больших языковых моделей для разработки: обзор](https://habr.com/ru/companies/bothub/articles/842816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842816)
+- [Девайс-холдер: кто такой, зачем нужен и насколько хорошо держит устройства](https://habr.com/ru/companies/surfstudio/articles/842812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842812)
 - [Работа с большими файлами в Python](https://habr.com/ru/articles/842792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842792)
-- [Как это было: Хакатон Экспохах 1-10 августа 2024](https://habr.com/ru/articles/842786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842786)
-- [С новым кодом! Ко Дню программиста посчитали нижегородское ИТ в деньгах, людях и «фишках»](https://habr.com/ru/companies/neimark/articles/842760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842760)
-- [[Перевод] Поддержка CDS в Spring Boot и ожидания от Project Leyden](https://habr.com/ru/companies/spring_aio/articles/842462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842462)
-- [Как мы делали чаты на Kotlin Multiplatform](https://habr.com/ru/articles/842748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842748)
+- [Как это было: Хакатон Экспохак 1-10 августа 2024](https://habr.com/ru/articles/842786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
