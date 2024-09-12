@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое Set?](https://habr.com/ru/articles/842648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842648)
 - [Как создать Friday Night Funkin&#39; в Scratch — урок для школьников](https://habr.com/ru/companies/pixel_study/articles/842640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842640)
 - [О трёхмерной графике в GMS2. Часть 2 из 2](https://habr.com/ru/articles/842626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842626)
 - [Алгоритм сравнения отпечатков пальцев: комбинация классических алгоритмов](https://habr.com/ru/companies/samsung/articles/842578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842578)
 - [[Перевод] Дорогая, я уменьшил {fmt}: уменьшил размер до 14kB и избавился от рантайма C++](https://habr.com/ru/companies/beget/articles/842566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842566)
-- [Вес файлов Figma](https://habr.com/ru/articles/842132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
