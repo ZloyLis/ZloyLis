@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [15 цитат всемирно известных людей об искусственном интеллекте](https://habr.com/ru/articles/842952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842952)
 - [Как создать дракона в Roblox: гайд по анимации и программированию на Lua для школьников](https://habr.com/ru/companies/pixel_study/articles/842946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842946)
 - [Четыре шага для запуска системы бронирования: кейс коворкинга Fifty Four](https://habr.com/ru/articles/842888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842888)
 - [[Перевод] IntelliJ IDEA 2024.3 EAP: Новые Возможности и Улучшения](https://habr.com/ru/companies/spring_aio/articles/842854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842854)
 - [Создание data lineage в Apache Atlas из логических планов Spark &lpar;не без «костылей»&rpar;](https://habr.com/ru/articles/842718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842718)
-- [Использование API в FineBI](https://habr.com/ru/companies/glowbyte/articles/842842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
