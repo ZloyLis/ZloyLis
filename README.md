@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование API в FineBI](https://habr.com/ru/companies/glowbyte/articles/842842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842842)
+- [SQL HowTo: загадка Эйнштейна, или снова Джиндош](https://habr.com/ru/companies/tensor/articles/842820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842820)
+- [[Перевод] Не слишком ли много мы разрешаем нашим приложениям?](https://habr.com/ru/companies/cloud4y/articles/842826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842826)
 - [Мультипродуктовая дизайн-система: как сделать так, чтобы она реально работала](https://habr.com/ru/companies/vk/articles/842412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842412)
 - [[Перевод] ИИ-агенты на основе больших языковых моделей для разработки: обзор](https://habr.com/ru/companies/bothub/articles/842816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842816)
-- [Девайс-холдер: кто такой, зачем нужен и насколько хорошо держит устройства](https://habr.com/ru/companies/surfstudio/articles/842812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842812)
-- [Работа с большими файлами в Python](https://habr.com/ru/articles/842792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842792)
-- [Как это было: Хакатон Экспохак 1-10 августа 2024](https://habr.com/ru/articles/842786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
