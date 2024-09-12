@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Поддержка CDS в Spring Boot и ожидания от Project Leyden](https://habr.com/ru/companies/spring_aio/articles/842462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842462)
+- [Как мы делали чаты на Kotlin Multiplatform](https://habr.com/ru/articles/842748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842748)
 - [Дизайн интерфейсов в России и других странах. Бигтехи и супераппы](https://habr.com/ru/articles/842746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842746)
 - [Программирование 10 лет спустя: мы протёрли пыль с хрустального шара](https://habr.com/ru/companies/ruvds/articles/842252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842252)
 - [Гейм-дизайн для детей: обучение Roblox](https://habr.com/ru/companies/slsoft/articles/842400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842400)
-- [Сайзинг многоуровневого КХД &lpar;ч.2 Как сайзим&rpar;](https://habr.com/ru/articles/842730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842730)
-- [[Перевод] Как устроено хранение разных типов данных в веб-буфере обмена](https://habr.com/ru/articles/840828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
