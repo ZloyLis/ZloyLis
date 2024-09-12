@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [IT с человеческим лицом: портрет типичного программиста — 2024](https://habr.com/ru/specials/842562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842562)
-- [Как мы учили Yandex Code Assistant помогать разработчикам с написанием кода и делать их счастливыми](https://habr.com/ru/companies/yandex/articles/841436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841436)
-- [Бетон-разработчик, роботы-котики, слава и много денег: как новое поколение видит работу программистом](https://habr.com/ru/companies/ru_mts/articles/842688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842688)
-- [Сайзинг многоуровневого КХД &lpar;ч.1 Что сайзим&rpar;](https://habr.com/ru/articles/827668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827668)
-- [Некоторые моменты switchover в Patroni. Практические истории из SRE-будней. Часть 8](https://habr.com/ru/companies/flant/articles/840568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840568)
+- [Добавил возможность замены переменных окружения при запуске команды «Copy-Paste» в утилите «Rucken»](https://habr.com/ru/articles/842722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842722)
+- [[Перевод] Как устроено хранение разных типов данных в веб-буфере обмена](https://habr.com/ru/articles/840828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840828)
+- [IT с человеческим лицом: портрет типичного программиста-2024](https://habr.com/ru/companies/sberbank/articles/842712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842712)
+- [Как понятия Patterns и Records в языке Dart упрощают жизнь разработчикам](https://habr.com/ru/companies/atom/articles/842706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842706)
+- [Победа над хаосом: как мы улучшили работу системных аналитиков и настроили взаимодействие в большой команде](https://habr.com/ru/companies/clevertec/articles/842240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
