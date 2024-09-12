@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с большими файлами в Python](https://habr.com/ru/articles/842792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842792)
+- [Как это было: Хакатон Экспохах 1-10 августа 2024](https://habr.com/ru/articles/842786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842786)
+- [С новым кодом! Ко Дню программиста посчитали нижегородское ИТ в деньгах, людях и «фишках»](https://habr.com/ru/companies/neimark/articles/842760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842760)
 - [[Перевод] Поддержка CDS в Spring Boot и ожидания от Project Leyden](https://habr.com/ru/companies/spring_aio/articles/842462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842462)
 - [Как мы делали чаты на Kotlin Multiplatform](https://habr.com/ru/articles/842748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842748)
-- [Дизайн интерфейсов в России и других странах. Бигтехи и супераппы](https://habr.com/ru/articles/842746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842746)
-- [Программирование 10 лет спустя: мы протёрли пыль с хрустального шара](https://habr.com/ru/companies/ruvds/articles/842252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842252)
-- [Гейм-дизайн для детей: обучение Roblox](https://habr.com/ru/companies/slsoft/articles/842400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
