@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Добавил возможность замены переменных окружения при запуске команды «Copy-Paste» в утилите «Rucken»](https://habr.com/ru/articles/842722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842722)
+- [Дизайн интерфейсов в России и других странах. Бигтехи и супераппы](https://habr.com/ru/articles/842746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842746)
+- [Программирование 10 лет спустя: мы протёрли пыль с хрустального шара](https://habr.com/ru/companies/ruvds/articles/842252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842252)
+- [Гейм-дизайн для детей: обучение Roblox](https://habr.com/ru/companies/slsoft/articles/842400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842400)
+- [Сайзинг многоуровневого КХД &lpar;ч.2 Как сайзим&rpar;](https://habr.com/ru/articles/842730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842730)
 - [[Перевод] Как устроено хранение разных типов данных в веб-буфере обмена](https://habr.com/ru/articles/840828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840828)
-- [IT с человеческим лицом: портрет типичного программиста-2024](https://habr.com/ru/companies/sberbank/articles/842712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842712)
-- [Как понятия Patterns и Records в языке Dart упрощают жизнь разработчикам](https://habr.com/ru/companies/atom/articles/842706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842706)
-- [Победа над хаосом: как мы улучшили работу системных аналитиков и настроили взаимодействие в большой команде](https://habr.com/ru/companies/clevertec/articles/842240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
