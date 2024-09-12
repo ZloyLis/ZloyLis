@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [IT с человеческим лицом: портрет типичного программиста — 2024](https://habr.com/ru/specials/842562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842562)
+- [Как мы учили Yandex Code Assistant помогать разработчикам с написанием кода и делать их счастливыми](https://habr.com/ru/companies/yandex/articles/841436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841436)
+- [Бетон-разработчик, роботы-котики, слава и много денег: как новое поколение видит работу программистом](https://habr.com/ru/companies/ru_mts/articles/842688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842688)
+- [Сайзинг многоуровневого КХД &lpar;ч.1 Что сайзим&rpar;](https://habr.com/ru/articles/827668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=827668)
 - [Некоторые моменты switchover в Patroni. Практические истории из SRE-будней. Часть 8](https://habr.com/ru/companies/flant/articles/840568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840568)
-- [Что такое Set?](https://habr.com/ru/articles/842648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842648)
-- [Как создать Friday Night Funkin&#39; в Scratch — урок для школьников](https://habr.com/ru/companies/pixel_study/articles/842640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842640)
-- [О трёхмерной графике в GMS2. Часть 2 из 2](https://habr.com/ru/articles/842626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842626)
-- [Алгоритм сравнения отпечатков пальцев: комбинация классических алгоритмов](https://habr.com/ru/companies/samsung/articles/842578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
