@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Взаимодействие Unreal Insights c Unreal Engine 5 с точки зрения исходного кода](https://habr.com/ru/articles/843024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843024)
+- [Генеративные модели в разработке видеоигр: будущее за играми от роботов?](https://habr.com/ru/specials/843050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843050)
+- [Полгода программировал To-Do List и получил 0 пользователей](https://habr.com/ru/articles/843066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843066)
+- [[Перевод] Пошаговое руководство по созданию синтетических данных в Python](https://habr.com/ru/companies/netologyru/articles/841952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841952)
 - [[Перевод] Оптимизация, которая невозможна в Rust](https://habr.com/ru/companies/beget/articles/842868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842868)
-- [[Перевод] Типы проб в Kubernetes: проверяем работоспособность систем](https://habr.com/ru/companies/piter/articles/842836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842836)
-- [Mojo: убийца Python и будущее Ai?](https://habr.com/ru/companies/oleg-bunin/articles/843044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843044)
-- [Апериодический монотиль](https://habr.com/ru/articles/842646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842646)
-- [Системный аналитик. Краткий гайд по профессии. Часть 2](https://habr.com/ru/articles/842280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
