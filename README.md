@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BI-GLPI. Или мой взгляд на CRM в контексте JS](https://habr.com/ru/articles/843162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843162)
+- [Критерии качества требований с примерами &lpar;Часть 2&rpar;](https://habr.com/ru/articles/843220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843220)
 - [Next.js + Playwright. Как мы начали писать автотесты и что из этого вышло](https://habr.com/ru/companies/kts/articles/843054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843054)
 - [Как lean-менеджеры помогают в цифровой трансформации](https://habr.com/ru/articles/843188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843188)
 - [Игровая аналитика для чайников: что важно знать, когда собираешься начать работать с данными?](https://habr.com/ru/articles/843184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843184)
-- [QoE-метрика в видеоплатформе Яндекса](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/843174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843174)
-- [Спидран карьеры software-архитектора](https://habr.com/ru/companies/kaspersky/articles/842244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
