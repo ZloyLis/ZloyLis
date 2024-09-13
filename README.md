@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Диалектика vs Хаос: Или почему Гегель перевернулся бы в гробу](https://habr.com/ru/articles/843238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843238)
+- [[Перевод] OpenAI о новых моделях ИИ, которые умеют рассуждать](https://habr.com/ru/companies/bothub/articles/843236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843236)
+- [[Перевод] Сети Колмогорова-Арнольда: новый «старый» шаг к интерпретируемому ИИ](https://habr.com/ru/articles/843234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843234)
 - [BI-GLPI. Или мой взгляд на CRM в контексте JS](https://habr.com/ru/articles/843162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843162)
 - [Критерии качества требований с примерами &lpar;Часть 2&rpar;](https://habr.com/ru/articles/843220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843220)
-- [Next.js + Playwright. Как мы начали писать автотесты и что из этого вышло](https://habr.com/ru/companies/kts/articles/843054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843054)
-- [Как lean-менеджеры помогают в цифровой трансформации](https://habr.com/ru/articles/843188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843188)
-- [Игровая аналитика для чайников: что важно знать, когда собираешься начать работать с данными?](https://habr.com/ru/articles/843184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
