@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Апериодический монотиль](https://habr.com/ru/articles/842646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842646)
+- [Системный аналитик. Краткий гайд по профессии. Часть 2](https://habr.com/ru/articles/842280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842280)
+- [[Перевод] Шаблоны для эффективной работы с DOM с помощью современного чистого JavaScript](https://habr.com/ru/companies/timeweb/articles/839142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839142)
+- [Проектируем технологические решения в Autodesk Revit](https://habr.com/ru/companies/pik_digital/articles/843026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843026)
 - [Идеальная алгоритмическая секция на Golang &lpar;ИМХО&rpar;](https://habr.com/ru/articles/842932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842932)
-- [Компонент](https://habr.com/ru/articles/842650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842650)
-- [С правильным Днем программиста](https://habr.com/ru/articles/842962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842962)
-- [15 цитат всемирно известных людей об искусственном интеллекте](https://habr.com/ru/articles/842952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842952)
-- [Как создать дракона в Roblox: гайд по анимации и программированию на Lua для школьников](https://habr.com/ru/companies/pixel_study/articles/842946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
