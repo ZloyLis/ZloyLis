@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Оптимизация, которая невозможна в Rust](https://habr.com/ru/companies/beget/articles/842868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842868)
+- [[Перевод] Типы проб в Kubernetes: проверяем работоспособность систем](https://habr.com/ru/companies/piter/articles/842836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842836)
+- [Mojo: убийца Python и будущее Ai?](https://habr.com/ru/companies/oleg-bunin/articles/843044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843044)
 - [Апериодический монотиль](https://habr.com/ru/articles/842646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842646)
 - [Системный аналитик. Краткий гайд по профессии. Часть 2](https://habr.com/ru/articles/842280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842280)
-- [[Перевод] Шаблоны для эффективной работы с DOM с помощью современного чистого JavaScript](https://habr.com/ru/companies/timeweb/articles/839142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839142)
-- [Проектируем технологические решения в Autodesk Revit](https://habr.com/ru/companies/pik_digital/articles/843026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843026)
-- [Идеальная алгоритмическая секция на Golang &lpar;ИМХО&rpar;](https://habr.com/ru/articles/842932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
