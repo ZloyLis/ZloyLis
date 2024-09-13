@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Карьера software-архитектора: спидран-прохождение](https://habr.com/ru/companies/kaspersky/articles/842244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842244)
+- [Лидерство в команде разработки](https://habr.com/ru/companies/tbank/articles/843128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843128)
 - [[Перевод] Необычные приёмы отладки, которые браузер от вас скрывает](https://habr.com/ru/companies/ruvds/articles/842428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842428)
 - [Flutter 3.24 и Dart 3.5: что нового для разработчиков и как это повлияет на разработку в России](https://habr.com/ru/articles/843132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843132)
 - [Amplicode Launch Event – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/articles/842770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842770)
-- [Патенты на IT-решения: что изменилось в 2024 году?](https://habr.com/ru/articles/843130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843130)
-- [10 возможностей современного Tarantool, о которых вы могли не знать](https://habr.com/ru/companies/vk/articles/843068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
