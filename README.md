@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Карьера software-архитектора: спидран-прохождение](https://habr.com/ru/companies/kaspersky/articles/842244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842244)
+- [Как lean-менеджеры помогают в цифровой трансформации](https://habr.com/ru/articles/843188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843188)
+- [Игровая аналитика для чайников: что важно знать, когда собираешься начать работать с данными?](https://habr.com/ru/articles/843184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843184)
+- [QoE-метрика в видеоплатформе Яндекса](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/843174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843174)
+- [Спидран карьеры software-архитектора](https://habr.com/ru/companies/kaspersky/articles/842244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842244)
 - [Лидерство в команде разработки](https://habr.com/ru/companies/tbank/articles/843128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843128)
-- [[Перевод] Необычные приёмы отладки, которые браузер от вас скрывает](https://habr.com/ru/companies/ruvds/articles/842428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842428)
-- [Flutter 3.24 и Dart 3.5: что нового для разработчиков и как это повлияет на разработку в России](https://habr.com/ru/articles/843132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843132)
-- [Amplicode Launch Event – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/articles/842770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
