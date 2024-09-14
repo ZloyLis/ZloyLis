@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [28 поговорок и пословиц про джунов, сеньоров etc](https://habr.com/ru/articles/843388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843388)
 - [Как делать чистые градиенты](https://habr.com/ru/articles/843380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843380)
 - [[Перевод] Реверс-инжиниринг  GDB для работы с Pwndbg](https://habr.com/ru/articles/843374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843374)
 - [Как работать с Camunda 7](https://habr.com/ru/articles/843364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843364)
 - [Как работает фронтенд: от загрузки сайта до современных инструментов](https://habr.com/ru/articles/843350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843350)
-- [Администрирование PostgreSQL для начинающих &lpar;часть 5&rpar;](https://habr.com/ru/articles/843324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
