@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Библиотека RRC для управления запросами и кэшем на базе Redux: [лучшая] альтернатива RTK-Query и другим решениям](https://habr.com/ru/articles/842940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842940)
+- [LLM-CodeSlim: Автоматическое сжатие и очистка кода для эффективного использования с LLM](https://habr.com/ru/articles/843274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843274)
 - [Программирование для детей 10 лет: с чего начать](https://habr.com/ru/companies/pixel_study/articles/843242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843242)
 - [Диалектика vs Хаос: Или почему Гегель перевернулся бы в гробу](https://habr.com/ru/articles/843238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843238)
 - [[Перевод] OpenAI о новых моделях ИИ, которые умеют рассуждать](https://habr.com/ru/companies/bothub/articles/843236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843236)
-- [[Перевод] Сети Колмогорова-Арнольда: новый «старый» шаг к интерпретируемому ИИ](https://habr.com/ru/articles/843234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843234)
-- [Как подружить GLPI с Node JS](https://habr.com/ru/articles/843162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
