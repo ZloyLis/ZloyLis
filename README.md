@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [База джуна на Flutter](https://habr.com/ru/articles/843314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843314)
 - [Полноценное API на Django REST Framework: легкая разработка, автодокументация и быстрый деплой](https://habr.com/ru/companies/amvera/articles/843232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843232)
 - [Пишем простенький DI для Android приложения](https://habr.com/ru/articles/843258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843258)
 - [Библиотека RRC для управления запросами и кэшем на базе Redux: [лучшая] альтернатива RTK-Query и другим решениям](https://habr.com/ru/articles/842940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842940)
 - [LLM-CodeSlim: Автоматическое сжатие и очистка кода для эффективного использования с LLM](https://habr.com/ru/articles/843274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843274)
-- [Программирование для детей 10 лет: с чего начать](https://habr.com/ru/companies/pixel_study/articles/843242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
