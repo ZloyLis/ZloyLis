@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [28 поговорок и пословиц про джунов, сеньоров etc](https://habr.com/ru/articles/843388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843388)
+- [Наши стандарты DX](https://habr.com/ru/articles/843396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843396)
 - [Как делать чистые градиенты](https://habr.com/ru/articles/843380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843380)
 - [[Перевод] Реверс-инжиниринг  GDB для работы с Pwndbg](https://habr.com/ru/articles/843374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843374)
 - [Как работать с Camunda 7](https://habr.com/ru/articles/843364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843364)
