@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работает фронтенд: от загрузки сайта до современных инструментов](https://habr.com/ru/articles/843350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843350)
 - [Администрирование PostgreSQL для начинающих &lpar;часть 5&rpar;](https://habr.com/ru/articles/843324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843324)
 - [Администрирование PostgreSQL для начинающих &lpar;часть 4&rpar;](https://habr.com/ru/articles/843264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843264)
 - [Администрирование PostgreSQL для начинающих &lpar;часть 3&rpar;](https://habr.com/ru/articles/843076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843076)
 - [Администрирование PostgreSQL для начинающих &lpar;часть 2&rpar;](https://habr.com/ru/articles/843012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843012)
-- [Администрирование PostgreSQL для начинающих &lpar;часть 1&rpar;](https://habr.com/ru/articles/841146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
