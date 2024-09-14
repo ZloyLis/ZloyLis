@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [@tanstack/react-query + react typescript](https://habr.com/ru/articles/843340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843340)
-- [Если набрать 100 баллов за ЕГЭ не получается, но цель — поступить в вуз и учиться на разработчика: проектные олимпиады](https://habr.com/ru/companies/samsung/articles/843338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843338)
-- [Установка Kubernetes через MicroK8s и настройка деплоя NestJS и Angular приложений](https://habr.com/ru/articles/843332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843332)
-- [База джуна на Flutter](https://habr.com/ru/articles/843314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843314)
-- [Полноценное API на Django REST Framework: легкая разработка, автодокументация и быстрый деплой](https://habr.com/ru/companies/amvera/articles/843232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843232)
+- [Администрирование PostgreSQL для начинающих &lpar;часть 5&rpar;](https://habr.com/ru/articles/843324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843324)
+- [Администрирование PostgreSQL для начинающих &lpar;часть 4&rpar;](https://habr.com/ru/articles/843264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843264)
+- [Администрирование PostgreSQL для начинающих &lpar;часть 3&rpar;](https://habr.com/ru/articles/843076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843076)
+- [Администрирование PostgreSQL для начинающих &lpar;часть 2&rpar;](https://habr.com/ru/articles/843012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843012)
+- [Администрирование PostgreSQL для начинающих &lpar;часть 1&rpar;](https://habr.com/ru/articles/841146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
