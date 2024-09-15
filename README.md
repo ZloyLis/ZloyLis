@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микросервисы. Исследование кухни](https://habr.com/ru/articles/841620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841620)
 - [[Перевод] Использование стандарта ES5 в Интернете](https://habr.com/ru/articles/843440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843440)
 - [[Перевод] Шаблоны для эффективной работы с DOM с помощью современного чистого JavaScript](https://habr.com/ru/companies/timeweb/articles/843080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843080)
 - [Обучение в Stanford Online: Advanced Cybersecurity](https://habr.com/ru/articles/843426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843426)
 - [В Android блокируют установку приложений из сторонних источников. Почему это важно?](https://habr.com/ru/companies/selectel/articles/843400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843400)
-- [Unity для детей: топ-25 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/843398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
