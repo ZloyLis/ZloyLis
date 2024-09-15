@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем заменить Wix и Shopify в России](https://habr.com/ru/articles/843428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843428)
+- [[Перевод] Шаблоны для эффективной работы с DOM с помощью современного чистого JavaScript](https://habr.com/ru/companies/timeweb/articles/843080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843080)
+- [Обучение в Stanford Online: Advanced Cybersecurity](https://habr.com/ru/articles/843426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843426)
 - [В Android блокируют установку приложений из сторонних источников. Почему это важно?](https://habr.com/ru/companies/selectel/articles/843400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843400)
 - [Unity для детей: топ-25 бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/843398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843398)
-- [Наши стандарты DX](https://habr.com/ru/articles/843396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843396)
-- [Как делать чистые градиенты](https://habr.com/ru/articles/843380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843380)
-- [[Перевод] Реверс-инжиниринг  GDB для работы с Pwndbg](https://habr.com/ru/articles/843374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
