@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Шифрование личных заметок](https://habr.com/ru/companies/globalsign/articles/843518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843518)
+- [Доктора Кнут, Моррис и Пратт, или Как я перестал бояться и полюбил префикс-функцию](https://habr.com/ru/articles/843376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843376)
 - [Как нам надоело искать приложение по зарядке и мы создали своё](https://habr.com/ru/articles/843500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843500)
 - [Автоматическая сборка examples для Swagger NestJs](https://habr.com/ru/articles/843492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843492)
 - [Микросервисы. Исследование кухни](https://habr.com/ru/articles/841620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841620)
-- [[Перевод] Использование стандарта ES5 в Интернете](https://habr.com/ru/articles/843440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
