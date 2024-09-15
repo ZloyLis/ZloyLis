@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как нам надоело искать приложение по зарядке и мы создали своё](https://habr.com/ru/articles/843500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843500)
 - [Автоматическая сборка examples для Swagger NestJs](https://habr.com/ru/articles/843492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843492)
 - [Микросервисы. Исследование кухни](https://habr.com/ru/articles/841620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841620)
 - [[Перевод] Использование стандарта ES5 в Интернете](https://habr.com/ru/articles/843440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843440)
 - [[Перевод] Шаблоны для эффективной работы с DOM с помощью современного чистого JavaScript](https://habr.com/ru/companies/timeweb/articles/843080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843080)
-- [Обучение в Stanford Online: Advanced Cybersecurity](https://habr.com/ru/articles/843426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
