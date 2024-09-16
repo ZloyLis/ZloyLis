@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теорема о разбиении регрессоров: делаем CUPED аб-тесты в один шаг](https://habr.com/ru/articles/843826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843826)
+- [Swama: CLI-инструмент для работы с Swagger/OpenAPI](https://habr.com/ru/articles/843824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843824)
 - [Как создать Telegram-бота для сбора отчетов и анкет за 5 минут — легко и бесплатно](https://habr.com/ru/articles/843816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843816)
 - [Цепи Маркова в Telegram-боте](https://habr.com/ru/articles/843810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843810)
 - [Транзакции PostgreSQL, Требования ACID, примеры. Подготовка к собеседованию, изучение](https://habr.com/ru/articles/843794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843794)
-- [Темная магия IF,AND,OR [DAX]](https://habr.com/ru/articles/843792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843792)
-- [Упрощение управления формами во Flutter с помощью пакета FForm](https://habr.com/ru/articles/843778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
