@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация тестирования для системного аналитика. Применение Selenium и написание скрипта на Python](https://habr.com/ru/articles/843520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843520)
+- [Чистый код: Принцип разделения интерфейса &lpar;ISP&rpar;](https://habr.com/ru/articles/838460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838460)
 - [Мобильная разработка за неделю #555 &lpar;9 — 15 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/843564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843564)
 - [10. Особые линейные системы](https://habr.com/ru/articles/802401/?utm_source=habrahabr&utm_medium=rss&utm_campaign=802401)
 - [Программирование для детей 5–6 лет: как заинтересовать ребенка](https://habr.com/ru/companies/pixel_study/articles/843532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843532)
-- [Шифрование личных заметок](https://habr.com/ru/companies/globalsign/articles/843518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843518)
-- [Доктора Кнут, Моррис и Пратт, или Как я перестал бояться и полюбил префикс-функцию](https://habr.com/ru/articles/843376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
