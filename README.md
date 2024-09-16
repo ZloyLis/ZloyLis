@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг](https://habr.com/ru/companies/otus/articles/843424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843424)
+- [[Перевод] Почему разработчикам Android стоит забыть слово Singleton](https://habr.com/ru/articles/843660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843660)
+- [О профессии AIOps: модно-молодежно, денежно, но пока на нее не учат](https://habr.com/ru/companies/ssp-soft/articles/843652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843652)
 - [Garak: инструмент Red-Team для поиска уязвимостей в LLM](https://habr.com/ru/companies/oleg-bunin/articles/843644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843644)
 - [Как нам удалось в 100 раз ускорить решение оптимизационной задачи NBO в Альфа-Банке](https://habr.com/ru/companies/glowbyte/articles/838410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838410)
-- [Устаревают ли технологии?](https://habr.com/ru/articles/843630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843630)
-- [Интеграционное тестирование: виды, примеры и инструменты](https://habr.com/ru/articles/843534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843534)
-- [[Перевод] Топ-15 примеров того, как UX-дизайн изменил нашу жизнь](https://habr.com/ru/articles/843610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
