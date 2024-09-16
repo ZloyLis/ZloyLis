@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Стачка» в Питере. Что ожидает участников крупнейшей в России ИТ-конференции](https://habr.com/ru/articles/843762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843762)
+- [[Перевод] Почему я предпочитаю исключения, а не значения ошибок](https://habr.com/ru/companies/ruvds/articles/843728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843728)
+- [Рейтинг Managed Kubernetes провайдеров](https://habr.com/ru/articles/843748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843748)
+- [Как не заблудиться в четырех соснах: выбираем способ найти причинно-следственную связь без экспериментов](https://habr.com/ru/companies/vkusvill/articles/843744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843744)
 - [Memory Fences и volatile в Java: низкоуровневые гарантии порядка памяти](https://habr.com/ru/companies/otus/articles/843394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843394)
-- [Что такое HMPL.js? DevBlog №0](https://habr.com/ru/articles/843684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843684)
-- [Опыт отладки хитрой утечки прямой памяти](https://habr.com/ru/companies/wunderfund/articles/843618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843618)
-- [Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг](https://habr.com/ru/companies/otus/articles/843424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843424)
-- [[Перевод] Почему разработчикам Android стоит забыть слово Singleton](https://habr.com/ru/articles/843660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
