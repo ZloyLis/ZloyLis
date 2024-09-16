@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Garak: инструмент Red-Team для поиска уязвимостей в LLM](https://habr.com/ru/companies/oleg-bunin/articles/843644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843644)
+- [Как нам удалось в 100 раз ускорить решение оптимизационной задачи NBO в Альфа-Банке](https://habr.com/ru/companies/glowbyte/articles/838410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838410)
+- [Устаревают ли технологии?](https://habr.com/ru/articles/843630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843630)
 - [Интеграционное тестирование: виды, примеры и инструменты](https://habr.com/ru/articles/843534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843534)
 - [[Перевод] Топ-15 примеров того, как UX-дизайн изменил нашу жизнь](https://habr.com/ru/articles/843610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843610)
-- [Как сделать MVP приложения для нового рынка за 4 дня вместо полугода? Очень просто — проведите хакатон](https://habr.com/ru/articles/843320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843320)
-- [[Перевод] Flutter Hot Reload: Что под капотом?](https://habr.com/ru/articles/843486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843486)
-- [Доступ к сайту на NestJS и Angular по доменному имени c SSL — сертификатом в Kubernetes через Ingress](https://habr.com/ru/articles/843572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
