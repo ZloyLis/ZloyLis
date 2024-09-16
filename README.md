@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграционное тестирование: виды, примеры и инструменты](https://habr.com/ru/articles/843534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843534)
+- [[Перевод] Топ-15 примеров того, как UX-дизайн изменил нашу жизнь](https://habr.com/ru/articles/843610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843610)
+- [Как сделать MVP приложения для нового рынка за 4 дня вместо полугода? Очень просто — проведите хакатон](https://habr.com/ru/articles/843320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843320)
 - [[Перевод] Flutter Hot Reload: Что под капотом?](https://habr.com/ru/articles/843486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843486)
 - [Доступ к сайту на NestJS и Angular по доменному имени c SSL — сертификатом в Kubernetes через Ingress](https://habr.com/ru/articles/843572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843572)
-- [Автоматизация тестирования для системного аналитика. Применение Selenium и написание скрипта на Python](https://habr.com/ru/articles/843520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843520)
-- [Чистый код: Принцип разделения интерфейса &lpar;ISP&rpar;](https://habr.com/ru/articles/838460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838460)
-- [Мобильная разработка за неделю #555 &lpar;9 — 15 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/843564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
