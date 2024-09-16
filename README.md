@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Fences и volatile в Java: низкоуровневые гарантии порядка памяти](https://habr.com/ru/companies/otus/articles/843394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843394)
 - [Что такое HMPL.js? DevBlog №0](https://habr.com/ru/articles/843684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843684)
 - [Опыт отладки хитрой утечки прямой памяти](https://habr.com/ru/companies/wunderfund/articles/843618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843618)
 - [Ограничение скорости в Nginx для сложных конфигураций: HTTP/2, API и видеостриминг](https://habr.com/ru/companies/otus/articles/843424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843424)
 - [[Перевод] Почему разработчикам Android стоит забыть слово Singleton](https://habr.com/ru/articles/843660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843660)
-- [О профессии AIOps: модно-молодежно, денежно, но пока на нее не учат](https://habr.com/ru/companies/ssp-soft/articles/843652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
