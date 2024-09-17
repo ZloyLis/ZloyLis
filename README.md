@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«База данных» в гугл таблицах для телеграм-бота](https://habr.com/ru/companies/amvera/articles/844092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844092)
 - [ROP: код, которого нет](https://habr.com/ru/companies/otus/articles/843538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843538)
 - [Взаимодействие микросервисов между собой](https://habr.com/ru/articles/844100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844100)
 - [Основы интеграции информационных систем. Файловый обмен, общая БД, удалённый вызов процедур](https://habr.com/ru/articles/841862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841862)
 - [ГОСТ Р 71207–2024 глазами разработчика статических анализаторов кода](https://habr.com/ru/companies/pvs-studio/articles/844070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844070)
-- [Как мы построили BI-систему, изменили процессы разработки и создали 25 000 подов клиентов в Kubernetes](https://habr.com/ru/companies/vk/articles/842896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
