@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение статистического анализа для определения причин деградации производительности СУБД](https://habr.com/ru/articles/843990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843990)
+- [Где и как искать этот ваш SSRF: первые шаги в багхантинге](https://habr.com/ru/companies/pt/articles/842598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842598)
+- [Ограничения в использовании иконок в Figma](https://habr.com/ru/articles/843976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843976)
 - [Странное поведение планировщика запросов PostgreSQL](https://habr.com/ru/articles/814155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814155)
 - [Программирование на C в Linux на примере создания командной оболочки: часть 2](https://habr.com/ru/companies/timeweb/articles/842878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842878)
-- [Как настроить кол-трекинг с Битрикс24 через API Exolve](https://habr.com/ru/companies/exolve/articles/843960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843960)
-- [От документации к готовому API: Генерация кода из Swagger для FastAPI](https://habr.com/ru/articles/843950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843950)
-- [BPMN 2.0 универсальный подход при построении диаграмм](https://habr.com/ru/articles/843942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
