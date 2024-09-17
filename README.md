@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Из лингвиста в дата-сайентисты: личный опыт и детальный трек](https://habr.com/ru/companies/lanit/articles/842136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842136)
-- [Gradle Convention Plugins: как облегчить себе жизнь и уменьшить boilerplate в gradle-файлах](https://habr.com/ru/companies/tbank/articles/843648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843648)
-- [Про соотношения между ℝ^2, ℂ и матрицами Паули](https://habr.com/ru/articles/843358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843358)
-- [Безопасность «на берегу»: опыт внедрения подхода Secure by Design в ИТ-компании](https://habr.com/ru/companies/bastion/articles/842874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842874)
-- [Будущее смартфонов: ИИ-помощник и картриджи](https://habr.com/ru/articles/843886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843886)
+- [Странное поведение планировщика запросов PostgreSQL](https://habr.com/ru/articles/814155/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814155)
+- [Программирование на C в Linux на примере создания командной оболочки: часть 2](https://habr.com/ru/companies/timeweb/articles/842878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842878)
+- [Как настроить кол-трекинг с Битрикс24 через API Exolve](https://habr.com/ru/companies/exolve/articles/843960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843960)
+- [От документации к готовому API: Генерация кода из Swagger для FastAPI](https://habr.com/ru/articles/843950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843950)
+- [BPMN 2.0 универсальный подход при построении диаграмм](https://habr.com/ru/articles/843942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
