@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность «на берегу»: опыт внедрения подхода Secure by Design в ИТ-компании](https://habr.com/ru/companies/bastion/articles/842874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842874)
 - [Будущее смартфонов: ИИ-помощник и картриджи](https://habr.com/ru/articles/843886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843886)
 - [Бесплатный курс по Roblox для детей 9 лет и старше: 20 уроков с нуля](https://habr.com/ru/companies/pixel_study/articles/843884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843884)
 - [Тестирование полей ввода. Реквизиты](https://habr.com/ru/articles/843876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843876)
 - [Apple Pro Weekly News &lpar;09.09 – 15.09.24&rpar;](https://habr.com/ru/articles/843856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843856)
-- [Семантическое версионирование NestJS и Angular приложений в NX-монорепозитории](https://habr.com/ru/articles/843854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
