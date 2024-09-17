@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатный курс по созданию сайтов для детей: 7 уроков по HTML и CSS с нуля](https://habr.com/ru/companies/pixel_study/articles/844166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844166)
 - [Как удаление isNumber из зависимостей сэкономил 440 Гб еженедельного трафика](https://habr.com/ru/articles/844156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844156)
 - [«База данных» в гугл таблицах для телеграм-бота](https://habr.com/ru/companies/amvera/articles/844092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844092)
 - [ROP: код, которого нет](https://habr.com/ru/companies/otus/articles/843538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843538)
 - [Взаимодействие микросервисов между собой](https://habr.com/ru/articles/844100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844100)
-- [Основы интеграции информационных систем. Файловый обмен, общая БД, удалённый вызов процедур](https://habr.com/ru/articles/841862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
