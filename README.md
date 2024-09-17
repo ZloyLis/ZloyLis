@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Подчини паузы своей воле с Generational ZGC](https://habr.com/ru/companies/spring_aio/articles/844048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844048)
+- [Проверяем табуретку: руководство для нетерпеливых менеджеров, или Как работает тестирование](https://habr.com/ru/companies/samolet/articles/841906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841906)
+- [Вместо тысячи слов: как картинки помогают в текстовом Поиске?](https://habr.com/ru/companies/okko/articles/844040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844040)
 - [[Перевод] Предсказываем солнечные затмения с помощью Python](https://habr.com/ru/companies/ncloudtech/articles/843788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843788)
 - [Как установить и использовать кластер Kubernetes при помощи утилиты kind](https://habr.com/ru/companies/first/articles/844002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844002)
-- [Security Week 2438: эксфильтрация данных через свист конденсаторов](https://habr.com/ru/companies/kaspersky/articles/843790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843790)
-- [Что умеет Microsoft Copilot и как он может пригодиться в повседневной жизни](https://habr.com/ru/companies/x-com/articles/844000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844000)
-- [How to: Как быстро и эффективно разместить статичный React app c помощью сервисов AWS + custom domain name + SSL](https://habr.com/ru/companies/reksoft/articles/843998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
