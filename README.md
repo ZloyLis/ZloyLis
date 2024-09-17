@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ГОСТ Р 71207–2024 глазами разработчика статических анализаторов кода](https://habr.com/ru/companies/pvs-studio/articles/844070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844070)
+- [Как мы построили BI-систему, изменили процессы разработки и создали 25 000 подов клиентов в Kubernetes](https://habr.com/ru/companies/vk/articles/842896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842896)
+- [Нежные дизайнеры в суровом мире](https://habr.com/ru/articles/844064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844064)
+- [HTML-теги с искусственным интеллектом](https://habr.com/ru/articles/842044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842044)
 - [[Перевод] Подчини паузы своей воле с Generational ZGC](https://habr.com/ru/companies/spring_aio/articles/844048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844048)
-- [Проверяем табуретку: руководство для нетерпеливых менеджеров, или Как работает тестирование](https://habr.com/ru/companies/samolet/articles/841906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841906)
-- [Вместо тысячи слов: как картинки помогают в текстовом Поиске?](https://habr.com/ru/companies/okko/articles/844040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844040)
-- [[Перевод] Предсказываем солнечные затмения с помощью Python](https://habr.com/ru/companies/ncloudtech/articles/843788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843788)
-- [Как установить и использовать кластер Kubernetes при помощи утилиты kind](https://habr.com/ru/companies/first/articles/844002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
