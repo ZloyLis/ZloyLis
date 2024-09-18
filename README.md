@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Случай из практики анализа кода](https://habr.com/ru/companies/pm/articles/837688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837688)
+- [Как написать чат-бота в Telegram без навыков программирования](https://habr.com/ru/articles/844236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844236)
 - [System Console. Доступ к регистрам ПЛИС из Quartus](https://habr.com/ru/companies/aquarius/articles/839618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839618)
 - [Они помогут стартануть в ИТ. Пять супергероев на примере системы наставничества в МТС](https://habr.com/ru/companies/ru_mts/articles/844142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844142)
 - [Стек с поиском максимума](https://habr.com/ru/articles/843596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843596)
-- [Бесплатный курс по созданию сайтов для детей: 7 уроков по HTML и CSS с нуля](https://habr.com/ru/companies/pixel_study/articles/844166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844166)
-- [Как удаление isNumber из зависимостей сэкономил 440 Гб еженедельного трафика](https://habr.com/ru/articles/844156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
