@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [NDA talks. Финансовый кризис. Эра HFT. Построение биржи](https://habr.com/ru/articles/844098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844098)
+- [Реализация подписчиков в c++ — пляшем от печки](https://habr.com/ru/articles/843442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843442)
+- [Как сгенерировать порождающие полиномы для конечных полей](https://habr.com/ru/articles/844300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844300)
 - [Как починить пагинацию в своих расширениях для Joomla 5.1.3+. Backwards breaking changes](https://habr.com/ru/articles/844296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844296)
 - [CodeChecker: анализируем большой проект на С++ быстро, эффективно и бесплатно](https://habr.com/ru/companies/yadro/articles/838878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838878)
-- [Изучаем карты с исходным кодом GeoServer](https://habr.com/ru/companies/pvs-studio/articles/844284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844284)
-- [Gitlab и Specification-as-Code: Спасение от хаоса и кофеиновой зависимости](https://habr.com/ru/companies/simpleone/articles/844080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844080)
-- [Психология цвета в веб-дизайне. Влияние цветовых решений на восприятие пользователей](https://habr.com/ru/articles/844274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
