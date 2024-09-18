@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Случай из практики анализа кода](https://habr.com/ru/companies/pm/articles/837688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837688)
-- [Как написать чат-бота в Telegram без навыков программирования](https://habr.com/ru/articles/844236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844236)
-- [System Console. Доступ к регистрам ПЛИС из Quartus](https://habr.com/ru/companies/aquarius/articles/839618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839618)
-- [Они помогут стартануть в ИТ. Пять супергероев на примере системы наставничества в МТС](https://habr.com/ru/companies/ru_mts/articles/844142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844142)
-- [Стек с поиском максимума](https://habr.com/ru/articles/843596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843596)
+- [Психология цвета в веб-дизайне. Влияние цветовых решений на восприятие пользователей](https://habr.com/ru/articles/844274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844274)
+- [Применение статистического анализа для определения причин деградации производительности СУБД — часть 2](https://habr.com/ru/articles/844268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844268)
+- [Об изменениях в процессе доставки геометрического ядра C3D](https://habr.com/ru/articles/826760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826760)
+- [[Перевод] Что должен знать каждый разработчик о вычислениях на GPU](https://habr.com/ru/companies/otus/articles/844260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844260)
+- [Java Remote Debug на стендах в локальных облаках &lpar;docker/Kubernetes&rpar;, очевидные вещи &lpar;как мне казалось&rpar;](https://habr.com/ru/articles/844250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
