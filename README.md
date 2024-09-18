@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [System Console. Доступ к регистрам ПЛИС из Quartus](https://habr.com/ru/companies/aquarius/articles/839618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839618)
+- [Они помогут стартануть в ИТ. Пять супергероев на примере системы наставничества в МТС](https://habr.com/ru/companies/ru_mts/articles/844142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844142)
+- [Стек с поиском максимума](https://habr.com/ru/articles/843596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843596)
 - [Бесплатный курс по созданию сайтов для детей: 7 уроков по HTML и CSS с нуля](https://habr.com/ru/companies/pixel_study/articles/844166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844166)
 - [Как удаление isNumber из зависимостей сэкономил 440 Гб еженедельного трафика](https://habr.com/ru/articles/844156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844156)
-- [«База данных» в гугл таблицах для телеграм-бота](https://habr.com/ru/companies/amvera/articles/844092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844092)
-- [ROP: код, которого нет](https://habr.com/ru/companies/otus/articles/843538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843538)
-- [Взаимодействие микросервисов между собой](https://habr.com/ru/articles/844100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
