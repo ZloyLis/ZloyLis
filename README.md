@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение Few-Shot Learning в задачах сегментации изображений: Погружаемся в CoreML](https://habr.com/ru/articles/844356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844356)
+- [[Перевод] Ассемблер для программистов на языках высокого уровня: Hello World](https://habr.com/ru/companies/ruvds/articles/844324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844324)
 - [Реализация Bloom-фильтров в Golang](https://habr.com/ru/companies/otus/articles/843714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843714)
 - [SAP Scripts на C#](https://habr.com/ru/articles/844346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844346)
-- [Подходы к Использованию Git и Контролю Версий](https://habr.com/ru/articles/844342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844342)
-- [Что можно улучшить в приложении? часть 3. Крадем как художники у Впрок](https://habr.com/ru/articles/844326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844326)
-- [NDA talks. Финансовый кризис. Эра HFT. Построение биржи](https://habr.com/ru/articles/844098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844098)
+- [Подходы к использованию Git и контролю версий](https://habr.com/ru/articles/844342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
