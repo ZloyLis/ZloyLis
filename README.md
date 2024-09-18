@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация Bloom-фильтров в Golang](https://habr.com/ru/companies/otus/articles/843714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843714)
+- [SAP Scripts на C#](https://habr.com/ru/articles/844346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844346)
+- [Подходы к Использованию Git и Контролю Версий](https://habr.com/ru/articles/844342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844342)
+- [Что можно улучшить в приложении? часть 3. Крадем как художники у Впрок](https://habr.com/ru/articles/844326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844326)
 - [NDA talks. Финансовый кризис. Эра HFT. Построение биржи](https://habr.com/ru/articles/844098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844098)
-- [Реализация подписчиков в c++ — пляшем от печки](https://habr.com/ru/articles/843442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843442)
-- [Как сгенерировать порождающие полиномы для конечных полей](https://habr.com/ru/articles/844300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844300)
-- [Как починить пагинацию в своих расширениях для Joomla 5.1.3+. Backwards breaking changes](https://habr.com/ru/articles/844296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844296)
-- [CodeChecker: анализируем большой проект на С++ быстро, эффективно и бесплатно](https://habr.com/ru/companies/yadro/articles/838878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
