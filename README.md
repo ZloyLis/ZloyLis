@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Применение Few-Shot Learning в задачах сегментации изображений: Погружаемся в CoreML](https://habr.com/ru/articles/844356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844356)
+- [Компьютерное зрение и котики. Или алгоритмы против человека](https://habr.com/ru/articles/844360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844360)
 - [[Перевод] Ассемблер для программистов на языках высокого уровня: Hello World](https://habr.com/ru/companies/ruvds/articles/844324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844324)
 - [Реализация Bloom-фильтров в Golang](https://habr.com/ru/companies/otus/articles/843714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843714)
 - [SAP Scripts на C#](https://habr.com/ru/articles/844346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844346)
