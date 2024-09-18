@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как починить пагинацию в своих расширениях для Joomla 5.1.3+. Backwards breaking changes](https://habr.com/ru/articles/844296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844296)
+- [CodeChecker: анализируем большой проект на С++ быстро, эффективно и бесплатно](https://habr.com/ru/companies/yadro/articles/838878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838878)
+- [Изучаем карты с исходным кодом GeoServer](https://habr.com/ru/companies/pvs-studio/articles/844284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844284)
+- [Gitlab и Specification-as-Code: Спасение от хаоса и кофеиновой зависимости](https://habr.com/ru/companies/simpleone/articles/844080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844080)
 - [Психология цвета в веб-дизайне. Влияние цветовых решений на восприятие пользователей](https://habr.com/ru/articles/844274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844274)
-- [Применение статистического анализа для определения причин деградации производительности СУБД — часть 2](https://habr.com/ru/articles/844268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844268)
-- [Об изменениях в процессе доставки геометрического ядра C3D](https://habr.com/ru/articles/826760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826760)
-- [[Перевод] Что должен знать каждый разработчик о вычислениях на GPU](https://habr.com/ru/companies/otus/articles/844260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844260)
-- [Java Remote Debug на стендах в локальных облаках &lpar;docker/Kubernetes&rpar;, очевидные вещи &lpar;как мне казалось&rpar;](https://habr.com/ru/articles/844250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
