@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rolling Updates: как обновлять без простоев и стресса](https://habr.com/ru/companies/otus/articles/842190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842190)
 - [[Перевод] Основы Whitespace: невидимого языка программирования](https://habr.com/ru/articles/844450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844450)
 - [Методы предпроцессинга в IDP-системе ITFB EasyDoc](https://habr.com/ru/companies/itfb/articles/844380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844380)
 - [Кафедра и департамент системного анализа: как мы работаем со студентами](https://habr.com/ru/companies/sportmaster_lab/articles/844488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844488)
 - [JPA Entity Graph и нюансы его использования](https://habr.com/ru/companies/spring_aio/articles/844336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844336)
-- [Ещё одна статья про макросы. Часть 1](https://habr.com/ru/companies/surfstudio/articles/844614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
