@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовый компонент UI свайп-панели c добавлением scrollView, и других элементов ui. &lpar;iOS Swift&rpar;](https://habr.com/ru/articles/844732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844732)
 - [Программирование для детей онлайн: ТОП-7 направлений](https://habr.com/ru/companies/pixel_study/articles/844726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844726)
 - [Разработка архитектуры хранения данных для сайта на «Битрикс»](https://habr.com/ru/articles/844724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844724)
 - [Как мы разработали приложение для знакомств в Telegram](https://habr.com/ru/articles/844722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844722)
 - [Rolling Updates: как обновлять без простоев и стресса](https://habr.com/ru/companies/otus/articles/842190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842190)
-- [[Перевод] Основы Whitespace: невидимого языка программирования](https://habr.com/ru/articles/844450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
