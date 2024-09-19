@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что общего у дизайна и фастфудной](https://habr.com/ru/companies/alfa/articles/841332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841332)
-- [[Перевод] Руководство от ненавистника Kubernetes: как использовать эту технологию](https://habr.com/ru/companies/flant/articles/840998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840998)
-- [CPU Utilization = 100%. Это проблема?](https://habr.com/ru/articles/844496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844496)
-- [Как не гундеть, а доработать веб-сервис самому без помощи разработчиков](https://habr.com/ru/companies/avito/articles/843818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843818)
-- [Больше не нужны: ChatGPT заменяет программиста](https://habr.com/ru/articles/844462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844462)
+- [[Перевод] Майкл Стоунбрейкер: «Всё новое — это хорошо забытое старое. Продолжение»](https://habr.com/ru/companies/postgrespro/articles/844540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844540)
+- [Дело было вечером или Создаем веб-приложение за 5 часов](https://habr.com/ru/companies/timeweb/articles/841092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841092)
+- [Рецензия на книгу «100 ошибок в Go и как их избежать» Тейва Харшани](https://habr.com/ru/companies/simbirsoft/articles/844530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844530)
+- [Создание плагинов и переиспользуемых частей в .gradle.kts-файлах и Kotlin extension-функциях](https://habr.com/ru/companies/tbank/articles/843662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843662)
+- [Как собрать базу контактов в amoCRM с помощью QR-кода и SMS API](https://habr.com/ru/companies/exolve/articles/844520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
