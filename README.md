@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сергей Марков: Мы в разгаре лета искусственного интеллекта](https://habr.com/ru/companies/oleg-bunin/articles/844504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844504)
 - [[Перевод] Майкл Стоунбрейкер: «Всё новое — это хорошо забытое старое. Продолжение»](https://habr.com/ru/companies/postgrespro/articles/844540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844540)
 - [Дело было вечером или Создаем веб-приложение за 5 часов](https://habr.com/ru/companies/timeweb/articles/841092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841092)
 - [Рецензия на книгу «100 ошибок в Go и как их избежать» Тейва Харшани](https://habr.com/ru/companies/simbirsoft/articles/844530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844530)
 - [Создание плагинов и переиспользуемых частей в .gradle.kts-файлах и Kotlin extension-функциях](https://habr.com/ru/companies/tbank/articles/843662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843662)
-- [Как собрать базу контактов в amoCRM с помощью QR-кода и SMS API](https://habr.com/ru/companies/exolve/articles/844520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
