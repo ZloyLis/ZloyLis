@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что общего у дизайна и фастфудной](https://habr.com/ru/companies/alfa/articles/841332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841332)
+- [[Перевод] Руководство от ненавистника Kubernetes: как использовать эту технологию](https://habr.com/ru/companies/flant/articles/840998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840998)
 - [CPU Utilization = 100%. Это проблема?](https://habr.com/ru/articles/844496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844496)
 - [Как не гундеть, а доработать веб-сервис самому без помощи разработчиков](https://habr.com/ru/companies/avito/articles/843818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843818)
 - [Больше не нужны: ChatGPT заменяет программиста](https://habr.com/ru/articles/844462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844462)
-- [Создание инструмента генерации кода с помощью Rust и локальных LLM от Ollama](https://habr.com/ru/articles/844426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844426)
-- [Как создать игру «Армия големов» в Minecraft – программирование на Python для детей](https://habr.com/ru/companies/pixel_study/articles/844414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
