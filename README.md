@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CPU Utilization = 100%. Это проблема?](https://habr.com/ru/articles/844496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844496)
+- [Как не гундеть, а доработать веб-сервис самому без помощи разработчиков](https://habr.com/ru/companies/avito/articles/843818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843818)
 - [Больше не нужны: ChatGPT заменяет программиста](https://habr.com/ru/articles/844462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844462)
 - [Создание инструмента генерации кода с помощью Rust и локальных LLM от Ollama](https://habr.com/ru/articles/844426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844426)
 - [Как создать игру «Армия големов» в Minecraft – программирование на Python для детей](https://habr.com/ru/companies/pixel_study/articles/844414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844414)
-- [Как GPT-4o помог мне создать плагин для After Effects: экономим часы на нейминге слоев](https://habr.com/ru/articles/844404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844404)
-- [Системный аналитик. Краткий гайд по профессии. Часть 3](https://habr.com/ru/articles/843284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
