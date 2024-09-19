@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кафедра и департамент системного анализа: как мы работаем со студентами](https://habr.com/ru/companies/sportmaster_lab/articles/844488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844488)
 - [JPA Entity Graph и нюансы его использования](https://habr.com/ru/companies/spring_aio/articles/844336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844336)
 - [Ещё одна статья про макросы. Часть 1](https://habr.com/ru/companies/surfstudio/articles/844614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844614)
 - [Что такое AndroidManifest.xml, его структура и важность](https://habr.com/ru/articles/844612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844612)
 - [Управление памятью в JavaScript с помощью WeakRef и FinalizationRegistry](https://habr.com/ru/companies/otus/articles/843812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843812)
-- [Сергей Марков: Мы в разгаре лета искусственного интеллекта](https://habr.com/ru/companies/oleg-bunin/articles/844504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
