@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прощай, ChromeOS: долгий путь к Linux с самодельным Suzy-Q-кабелем и прошивкой BIOS](https://habr.com/ru/companies/ru_mts/articles/844122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844122)
+- [МИТАП: собираем комбо вредных советов про карьеру мобильного разработчика](https://habr.com/ru/companies/kaspersky/articles/844702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844702)
+- [Compute — волшебная пилюля?](https://habr.com/ru/companies/finam_broker/articles/844904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844904)
 - [[Перевод] Обзор AI-ассистента Cursor для разработчиков](https://habr.com/ru/companies/otus/articles/844866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844866)
 - [Мы захотели надежности, и сделали интегратор курсов валют ADAMANT Currencyinfo](https://habr.com/ru/articles/844858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844858)
-- [Исследование: генеративный ИИ повышает производительность труда разработчиков на 26,08 %](https://habr.com/ru/articles/844850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844850)
-- [Основные проблемы автоматизации процессов лаборатории](https://habr.com/ru/articles/844842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844842)
-- [Реализация push-уведомлений из web в мобильное приложение для новичков](https://habr.com/ru/companies/usetech/articles/844838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
