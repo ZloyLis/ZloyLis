@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация push-уведомлений из web в мобильное приложение для новичков](https://habr.com/ru/companies/usetech/articles/844838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844838)
+- [React Native Splash Screen — поддержка разных тем](https://habr.com/ru/articles/844828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844828)
 - [Реализация подписчиков в c++ — пляшем от печки чуть дальше](https://habr.com/ru/articles/843490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843490)
 - [Полезные Youtube-каналы](https://habr.com/ru/articles/844818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844818)
 - [Vue 3 в деле: Как мы обновили большой внутренний сервис и что из этого вышло](https://habr.com/ru/companies/ozontech/articles/844074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844074)
-- [Шпаргалка с основами BDUI для продуктовых дизайнеров](https://habr.com/ru/companies/alfa/articles/844606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844606)
-- [Кодекс архитектора или как нанести пользу](https://habr.com/ru/companies/vtb/articles/843808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
