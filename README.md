@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Концепция временного View state в JavaScript](https://habr.com/ru/articles/844494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844494)
 - [Практичное и любопытное: все темы Heisenbug 2024 Autumn](https://habr.com/ru/companies/jugru/articles/844792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844792)
 - [[Перевод] 7 продвинутых приёмов JavaScript, которые должен знать каждый разработчик](https://habr.com/ru/articles/844934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844934)
 - [Гипермедийные системы на ASP.NET MVC 5. Часть первая](https://habr.com/ru/articles/844932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844932)
 - [Проблемы InheritedWidget&#39;а в Flutter](https://habr.com/ru/articles/844916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844916)
-- [Прощай, ChromeOS: долгий путь к Linux с самодельным Suzy-Q-кабелем и прошивкой BIOS](https://habr.com/ru/companies/ru_mts/articles/844122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
