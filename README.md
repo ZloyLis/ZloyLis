@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Присоединяйтесь к проекту Rustsn: призыв к разработчикам Rust, интересующимся областью ИИ &lpar;LLM&rpar;](https://habr.com/ru/articles/844976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844976)
+- [Генерация AST на Rust](https://habr.com/ru/companies/otus/articles/844120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844120)
 - [Гипермедийные системы на ASP.NET MVC 5. Часть вторая](https://habr.com/ru/articles/844964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844964)
 - [[Перевод] Трассировка OpenTelemetry в 200 строк кода](https://habr.com/ru/companies/beget/articles/844956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844956)
 - [Концепция временного View state в JavaScript](https://habr.com/ru/articles/844494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844494)
-- [Практичное и любопытное: все темы Heisenbug 2024 Autumn](https://habr.com/ru/companies/jugru/articles/844792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844792)
-- [[Перевод] 7 продвинутых приёмов JavaScript, которые должен знать каждый разработчик](https://habr.com/ru/articles/844934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
