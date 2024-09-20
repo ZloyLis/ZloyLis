@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кодекс архитектора или как нанести пользу](https://habr.com/ru/companies/vtb/articles/843808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843808)
+- [Ещё одна статья про макросы. Часть 2](https://habr.com/ru/companies/surfstudio/articles/844640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844640)
 - [[Перевод] Эффективность футбольного рынка ставок](https://habr.com/ru/articles/844736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844736)
 - [Магия ссылок Системы быстрых платежей](https://habr.com/ru/companies/jugru/articles/844248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844248)
 - [Pet-проекты и данные для Data-Engineer](https://habr.com/ru/articles/841940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841940)
-- [Путь в GitOps или как мы перевели кластер Kubernetes под управление Argo CD](https://habr.com/ru/articles/842934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842934)
-- [Функциональные коллекции в Java с Vavr: обзор и применение](https://habr.com/ru/companies/otus/articles/843352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
