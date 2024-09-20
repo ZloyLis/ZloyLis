@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь в GitOps или как мы перевели кластер Kubernetes под управление Argo CD](https://habr.com/ru/articles/842934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842934)
+- [Функциональные коллекции в Java с Vavr: обзор и применение](https://habr.com/ru/companies/otus/articles/843352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843352)
 - [Микросервисы. Стирание границ между бизнесом и разработкой](https://habr.com/ru/articles/844748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844748)
 - [Готовый компонент UI свайп-панели c добавлением scrollView, и других элементов ui. &lpar;iOS Swift&rpar;](https://habr.com/ru/articles/844732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844732)
 - [Программирование для детей онлайн: ТОП-7 направлений](https://habr.com/ru/companies/pixel_study/articles/844726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844726)
-- [Разработка архитектуры хранения данных для сайта на «Битрикс»](https://habr.com/ru/articles/844724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844724)
-- [Как мы разработали приложение для знакомств в Telegram](https://habr.com/ru/articles/844722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
