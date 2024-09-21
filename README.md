@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Взаимодействие с клавиатурой в Compose: особенности и подводные камни](https://habr.com/ru/articles/845124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845124)
+- [Apache Kafka – Producer и Consumer. Простой пример Nodejs приложения](https://habr.com/ru/articles/845118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845118)
 - [Как создать игру Undertale на Scratch – урок для детей](https://habr.com/ru/companies/pixel_study/articles/845106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845106)
 - [Прологику и ИИ](https://habr.com/ru/articles/845102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845102)
 - [[Перевод] Улучшаем автокомплит в смешанных Java-Kotlin проектах](https://habr.com/ru/articles/845080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845080)
-- [Flappy Bird на Си для Android весом APK всего 92 Килобайта](https://habr.com/ru/articles/845068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845068)
-- [Bluetooth-маяки, есть ли от них польза?](https://habr.com/ru/articles/845060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
