@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Голая Java» или разработка без всего](https://habr.com/ru/articles/841574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841574)
 - [Приложение, идентичное натуральному: 7 способов прокачать свой pet-проект](https://habr.com/ru/companies/alfa/articles/844662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844662)
 - [Программирование — это вообще не просто!⠀](https://habr.com/ru/companies/timeweb/articles/840200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840200)
 - [[Перевод] Преподавание в период «подъема ИИ» и «конца чтения»](https://habr.com/ru/articles/845022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845022)
 - [Надежность в процессах. Часть 1](https://habr.com/ru/articles/844992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844992)
-- [[Перевод] C++ с точки зрения Rust-разработчика: достоинства и недостатки](https://habr.com/ru/articles/844988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
