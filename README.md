@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Надежность в процессах. Часть 1](https://habr.com/ru/articles/844992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844992)
 - [[Перевод] C++ с точки зрения Rust-разработчика: достоинства и недостатки](https://habr.com/ru/articles/844988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844988)
-- [Гипермедийные системы на ASP.NET MVC 5. Часть третья](https://habr.com/ru/articles/844984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844984)
+- [Гипермедийные системы на ASP.NET MVC 5. Часть третья — окончание](https://habr.com/ru/articles/844984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844984)
 - [Присоединяйтесь к проекту Rustsn: призыв к разработчикам Rust, интересующимся областью ИИ &lpar;LLM&rpar;](https://habr.com/ru/articles/844976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844976)
 - [Генерация AST на Rust](https://habr.com/ru/companies/otus/articles/844120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844120)
 <!-- BLOG-POST-LIST:END -->
