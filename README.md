@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Улучшаем автокомплит в смешанных Java-Kotlin проектах](https://habr.com/ru/articles/845080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845080)
+- [Flappy Bird на Си для Android весом APK всего 92 Килобайта](https://habr.com/ru/articles/845068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845068)
 - [Bluetooth-маяки, есть ли от них польза?](https://habr.com/ru/articles/845060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845060)
 - [MiniApp Apusher и токены: как они работают и зачем нужны](https://habr.com/ru/articles/845056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845056)
 - [Что на неделе: «часы» на основе ИИ, предсказывающие дату смерти, и сбои в работе Discord](https://habr.com/ru/companies/agima/articles/844944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844944)
-- [«Голая Java» или разработка без всего](https://habr.com/ru/articles/841574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841574)
-- [Приложение, идентичное натуральному: 7 способов прокачать свой pet-проект](https://habr.com/ru/companies/alfa/articles/844662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
