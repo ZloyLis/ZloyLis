@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нативные библиотеки для Android](https://habr.com/ru/companies/otus/articles/844110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844110)
+- [Системный аналитик. Краткий гайд по профессии. Часть 5. Методологии разработки. Waterfall и Agile](https://habr.com/ru/articles/845032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845032)
+- [Разработка Telegram-бота для управления файлами и заметками с помощью Aiogram 3 и асинхронной SQLAlchemy](https://habr.com/ru/companies/amvera/articles/845104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845104)
+- [Как мы заработали 100 000 рублей за 3 месяца, запустив простой конвертер картинок в США](https://habr.com/ru/articles/845150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845150)
 - [Системный аналитик. Краткий гайд по профессии. Часть 4. Синхронные и асинхронные интеграции. REST, gRPC, Kafka, RabbitMQ](https://habr.com/ru/articles/844950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844950)
-- [Подключение оплаты Тинькофф к Telegram-боту на чистом php](https://habr.com/ru/articles/845128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845128)
-- [Взаимодействие с клавиатурой в Compose: особенности и подводные камни](https://habr.com/ru/articles/845124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845124)
-- [Apache Kafka – Producer и Consumer. Простой пример Nodejs приложения](https://habr.com/ru/articles/845118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845118)
-- [Как создать игру Undertale на Scratch – урок для детей](https://habr.com/ru/companies/pixel_study/articles/845106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
