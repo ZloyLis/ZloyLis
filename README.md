@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Графы в Swift: Поиск в Глубину и Поиск в Ширину](https://habr.com/ru/articles/845194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845194)
 - [Виджеты iOS 18: добавляем поддержку tint color](https://habr.com/ru/articles/845174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845174)
 - [Нативные библиотеки для Android](https://habr.com/ru/companies/otus/articles/844110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844110)
 - [Системный аналитик. Краткий гайд по профессии. Часть 5. Методологии разработки. Waterfall и Agile](https://habr.com/ru/articles/845032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845032)
 - [Разработка Telegram-бота для управления файлами и заметками с помощью Aiogram 3 и асинхронной SQLAlchemy](https://habr.com/ru/companies/amvera/articles/845104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845104)
-- [Как мы заработали 100 000 рублей за 3 месяца, запустив простой конвертер картинок в США](https://habr.com/ru/articles/845150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
