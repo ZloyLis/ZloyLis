@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создал свой IT-стартап и выиграл грант на миллион рублей](https://habr.com/ru/articles/845206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845206)
 - [Немного курочим стандартный валидатор Laravel или первый опыт с фасадами и сервис провайдерами](https://habr.com/ru/articles/845204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845204)
 - [Решение головоломки из университетского квеста с помощью Python](https://habr.com/ru/articles/845196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845196)
 - [Графы в Swift: Поиск в Глубину и Поиск в Ширину](https://habr.com/ru/articles/845194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845194)
 - [Виджеты iOS 18: добавляем поддержку tint color](https://habr.com/ru/articles/845174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845174)
-- [Нативные библиотеки для Android](https://habr.com/ru/companies/otus/articles/844110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
