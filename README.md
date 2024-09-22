@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [15 бесплатных видеоуроков по созданию игр для школьников](https://habr.com/ru/companies/pixel_study/articles/845230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845230)
+- [Создание игр в Roblox: зачем детям изучать программированию на Lua](https://habr.com/ru/companies/pixel_study/articles/845228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845228)
 - [Postgresso 8 &lpar;69&rpar;](https://habr.com/ru/companies/postgrespro/articles/837156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837156)
 - [Создал свой IT-стартап и выиграл грант на миллион рублей](https://habr.com/ru/articles/845206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845206)
 - [Немного курочим стандартный валидатор Laravel или первый опыт с фасадами и сервис провайдерами](https://habr.com/ru/articles/845204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845204)
-- [Решение головоломки из университетского квеста с помощью Python](https://habr.com/ru/articles/845196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845196)
-- [Графы в Swift: Поиск в Глубину и Поиск в Ширину](https://habr.com/ru/articles/845194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
