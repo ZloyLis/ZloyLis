@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключение оплаты Тинькофф к Telegram-боту на чистом php](https://habr.com/ru/articles/845128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845128)
 - [Взаимодействие с клавиатурой в Compose: особенности и подводные камни](https://habr.com/ru/articles/845124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845124)
 - [Apache Kafka – Producer и Consumer. Простой пример Nodejs приложения](https://habr.com/ru/articles/845118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845118)
 - [Как создать игру Undertale на Scratch – урок для детей](https://habr.com/ru/companies/pixel_study/articles/845106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845106)
 - [Прологику и ИИ](https://habr.com/ru/articles/845102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845102)
-- [[Перевод] Улучшаем автокомплит в смешанных Java-Kotlin проектах](https://habr.com/ru/articles/845080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
