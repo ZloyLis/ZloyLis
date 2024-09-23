@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ассемблер для программистов на языках высокого уровня: условные конструкции](https://habr.com/ru/companies/ruvds/articles/845308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845308)
 - [Цифровые двойники: от истока к будущему](https://habr.com/ru/companies/sberbank/articles/845350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845350)
 - [Cards — бесплатная песочница с GraphQL API](https://habr.com/ru/articles/845356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845356)
 - [Когда существующих решений недостаточно: сложности построения собственных СУБД](https://habr.com/ru/companies/vk/articles/844884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844884)
 - [Методы моделирования атак на основе сценариев использования](https://habr.com/ru/companies/pt/articles/845262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845262)
-- [Вам не нужен UUID](https://habr.com/ru/companies/wildberries/articles/844104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
