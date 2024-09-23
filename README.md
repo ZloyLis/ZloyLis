@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Переходи на нашу сторону, у нас есть техтолки](https://habr.com/ru/companies/alfa/articles/844344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844344)
-- [Тредпульное заклятие Dotnet-демонов на Linux](https://habr.com/ru/companies/skbkontur/articles/844502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844502)
-- [Измерение покрытия автотестами для gRPC сервисов](https://habr.com/ru/articles/845020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845020)
-- [Рецензия на книгу “Изучаем Git: пошаговое руководство с наглядными примерами”](https://habr.com/ru/companies/ssp-soft/articles/844980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844980)
-- [Как создать трассу по кривой в GameMaker](https://habr.com/ru/articles/845218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845218)
+- [Вам не нужен UUID](https://habr.com/ru/companies/wildberries/articles/844104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844104)
+- [Реализация подписчиков в c++ — пляшем от печки, но уже совсем далеко](https://habr.com/ru/articles/843530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843530)
+- [Разбираетесь в IT и технологиях? Попробуйте решить кроссворд и выиграть мерч Selectel](https://habr.com/ru/companies/selectel/articles/841018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841018)
+- [Как мы перенесли web-сервис в Телеграм Mini Apps](https://habr.com/ru/companies/tochka/articles/843144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843144)
+- [[Перевод] Никакого праздника без GPU: дообучение BERT на Vertex AI](https://habr.com/ru/companies/wunderfund/articles/845272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
