@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Методы моделирования атак на основе сценариев использования](https://habr.com/ru/companies/pt/articles/845262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845262)
 - [Вам не нужен UUID](https://habr.com/ru/companies/wildberries/articles/844104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844104)
 - [Реализация подписчиков в c++ — пляшем от печки, но уже совсем далеко](https://habr.com/ru/articles/843530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843530)
 - [Разбираетесь в IT и технологиях? Попробуйте решить кроссворд и выиграть мерч Selectel](https://habr.com/ru/companies/selectel/articles/841018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841018)
 - [Как мы перенесли web-сервис в Телеграм Mini Apps](https://habr.com/ru/companies/tochka/articles/843144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843144)
-- [[Перевод] Никакого праздника без GPU: дообучение BERT на Vertex AI](https://habr.com/ru/companies/wunderfund/articles/845272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
