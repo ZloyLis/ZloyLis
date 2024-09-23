@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как внедрить CI/CD для всех разработчиков в банке. CI/CD by App.Farm](https://habr.com/ru/companies/rshb/articles/845430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845430)
+- [Влияние vacuum/analyze/bloat на производительность СУБД](https://habr.com/ru/articles/845454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845454)
+- [Security Week 2439: масштабная фишинговая атака на пользователей GitHub](https://habr.com/ru/companies/kaspersky/articles/845426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845426)
+- [[Перевод] Как Notion обрабатывает 200 миллиардов объектов данных](https://habr.com/ru/articles/845446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845446)
 - [[Перевод] Глубокие проверки работоспособности Kubernetes](https://habr.com/ru/companies/timeweb/articles/845410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845410)
-- [[Перевод] Рефакторинг вглубь](https://habr.com/ru/companies/piter/articles/845392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845392)
-- [SQL HowTo: Black and White &lpar;Puzzle Hunt 2010&rpar;](https://habr.com/ru/companies/tensor/articles/845386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845386)
-- [[Перевод] Ассемблер для программистов на языках высокого уровня: условные конструкции](https://habr.com/ru/companies/ruvds/articles/845308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845308)
-- [Цифровые двойники: от истока к будущему](https://habr.com/ru/companies/sberbank/articles/845350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
