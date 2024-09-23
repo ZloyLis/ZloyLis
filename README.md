@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #556 &lpar;16 — 22 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/845238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845238)
 - [15 бесплатных видеоуроков по созданию игр для школьников](https://habr.com/ru/companies/pixel_study/articles/845230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845230)
 - [Создание игр в Roblox: зачем детям изучать программированию на Lua](https://habr.com/ru/companies/pixel_study/articles/845228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845228)
 - [Postgresso 8 &lpar;69&rpar;](https://habr.com/ru/companies/postgrespro/articles/837156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837156)
 - [Создал свой IT-стартап и выиграл грант на миллион рублей](https://habr.com/ru/articles/845206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845206)
-- [Немного курочим стандартный валидатор Laravel или первый опыт с фасадами и сервис провайдерами](https://habr.com/ru/articles/845204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
