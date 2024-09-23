@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Глубокие проверки работоспособности Kubernetes](https://habr.com/ru/companies/timeweb/articles/845410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845410)
 - [[Перевод] Рефакторинг вглубь](https://habr.com/ru/companies/piter/articles/845392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845392)
 - [SQL HowTo: Black and White &lpar;Puzzle Hunt 2010&rpar;](https://habr.com/ru/companies/tensor/articles/845386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845386)
 - [[Перевод] Ассемблер для программистов на языках высокого уровня: условные конструкции](https://habr.com/ru/companies/ruvds/articles/845308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845308)
 - [Цифровые двойники: от истока к будущему](https://habr.com/ru/companies/sberbank/articles/845350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845350)
-- [Cards — бесплатная песочница с GraphQL API](https://habr.com/ru/articles/845356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
