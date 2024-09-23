@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сложная агрегация в Pandas с MultiIndex](https://habr.com/ru/companies/otus/articles/844420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844420)
+- [Чистый код: Инверсия зависимостей &lpar;DIP&rpar;](https://habr.com/ru/articles/838462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838462)
 - [Мобильная разработка за неделю #556 &lpar;16 — 22 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/845238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845238)
 - [15 бесплатных видеоуроков по созданию игр для школьников](https://habr.com/ru/companies/pixel_study/articles/845230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845230)
 - [Создание игр в Roblox: зачем детям изучать программированию на Lua](https://habr.com/ru/companies/pixel_study/articles/845228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845228)
-- [Postgresso 8 &lpar;69&rpar;](https://habr.com/ru/companies/postgrespro/articles/837156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837156)
-- [Создал свой IT-стартап и выиграл грант на миллион рублей](https://habr.com/ru/articles/845206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
