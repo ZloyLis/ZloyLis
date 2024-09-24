@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чек-лист: выбираем разговорный клуб, в котором захочется остаться](https://habr.com/ru/companies/yandex_praktikum/articles/844438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844438)
+- [Оркестраторы в российском DevOps в 2024: рост использования Managed Kubernetes и отечественных дистрибутивов](https://habr.com/ru/companies/flant/articles/842724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842724)
+- [[Перевод] Специалисты по теории струн случайно нашли новую формулу для числа пи](https://habr.com/ru/articles/845494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845494)
+- [[Перевод] Пишем калькулятор на Python с помощью Flet](https://habr.com/ru/articles/845578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845578)
 - [20 ресурсов для 1С-аналитика: матчасть, инструменты и каналы с новостями](https://habr.com/ru/companies/yandex_praktikum/articles/845316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845316)
-- [Как за 4 шага улучшить процесс оценки рисков безопасности](https://habr.com/ru/companies/avito/articles/844856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844856)
-- [Генерация квизов на основе Telegram-канала, ИИ для анализа целевой аудитории – и еще 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/845412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845412)
-- [Паттерн «Интерпретатор»: что такое и как использовать](https://habr.com/ru/articles/845524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845524)
-- [Apple Pro Weekly News &lpar;16.09 – 22.09.24&rpar;](https://habr.com/ru/articles/845518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
