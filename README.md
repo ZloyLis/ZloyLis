@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Битовые поля в Rust](https://habr.com/ru/companies/otus/articles/845190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845190)
 - [Сказочный вопрос: кто такой бизнес-аналитик?](https://habr.com/ru/companies/rostelecom/articles/845800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845800)
 - [[Перевод] С 80-х по 2024-й: как создавались и оптимизировались CI-тесты](https://habr.com/ru/companies/netologyru/articles/845756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845756)
 - [Как правильно писать тесты?&lpar;Часть 1&rpar;](https://habr.com/ru/articles/845774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845774)
 - [ООП в Dart](https://habr.com/ru/articles/845748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845748)
-- [Продолжение статьи про CFG Scale | математика, плюсы и минусы метода](https://habr.com/ru/articles/845746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
