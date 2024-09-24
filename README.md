@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как правильно писать тесты?&lpar;Часть 1&rpar;](https://habr.com/ru/articles/845774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845774)
 - [ООП в Dart](https://habr.com/ru/articles/845748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845748)
 - [Продолжение статьи про CFG Scale | математика, плюсы и минусы метода](https://habr.com/ru/articles/845746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845746)
 - [Системный аналитик с ЗП 400+. Найти за 30 дней. Часть 2 «Проверка на прочность»](https://habr.com/ru/articles/844986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844986)
 - [Почему «Идеальный программист» Роберта Мартина далёк от реальности: критический взгляд](https://habr.com/ru/articles/845742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845742)
-- [uBlock Orign в качестве ограничителя потока бесполезной информации](https://habr.com/ru/articles/845232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
