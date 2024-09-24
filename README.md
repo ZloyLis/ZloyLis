@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [20 ресурсов для 1С-аналитика: матчасть, инструменты и каналы с новостями](https://habr.com/ru/companies/yandex_praktikum/articles/845316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845316)
 - [Как за 4 шага улучшить процесс оценки рисков безопасности](https://habr.com/ru/companies/avito/articles/844856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844856)
 - [Генерация квизов на основе Telegram-канала, ИИ для анализа целевой аудитории – и еще 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/845412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845412)
 - [Паттерн «Интерпретатор»: что такое и как использовать](https://habr.com/ru/articles/845524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845524)
 - [Apple Pro Weekly News &lpar;16.09 – 22.09.24&rpar;](https://habr.com/ru/articles/845518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845518)
-- [Как создать простую игру в Roblox — туториал по Garten of BanBan 2 для детей](https://habr.com/ru/companies/pixel_study/articles/845516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
