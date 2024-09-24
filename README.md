@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Чек-лист: выбираем разговорный клуб, в котором захочется остаться](https://habr.com/ru/companies/yandex_praktikum/articles/844438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844438)
-- [Оркестраторы в российском DevOps в 2024: рост использования Managed Kubernetes и отечественных дистрибутивов](https://habr.com/ru/companies/flant/articles/842724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842724)
-- [[Перевод] Специалисты по теории струн случайно нашли новую формулу для числа пи](https://habr.com/ru/articles/845494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845494)
-- [[Перевод] Пишем калькулятор на Python с помощью Flet](https://habr.com/ru/articles/845578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845578)
-- [20 ресурсов для 1С-аналитика: матчасть, инструменты и каналы с новостями](https://habr.com/ru/companies/yandex_praktikum/articles/845316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845316)
+- [Я знаю, что вы читали прошлым летом: топ-5 статей про JavaScript](https://habr.com/ru/articles/844270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844270)
+- [Черт тебя возьми, CSS. Часть 3](https://habr.com/ru/companies/ruvds/articles/843754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843754)
+- [Доступ к нескольким подам Kubernetes по протоколу TCP и единственному внешнему IP](https://habr.com/ru/companies/amvera/articles/845408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845408)
+- [«Уволить нельзя оставить»: как найти баланс между эффективностью и эмпатией](https://habr.com/ru/companies/oleg-bunin/articles/845320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845320)
+- [Проблема UseCase-ов: что нужно знать разработчикам Android](https://habr.com/ru/articles/845604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
