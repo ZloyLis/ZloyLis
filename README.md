@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание Convention Plugin-ов на базе Kotlin-классов](https://habr.com/ru/companies/tbank/articles/843786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843786)
 - [Я знаю, что вы читали прошлым летом: топ-5 статей про JavaScript](https://habr.com/ru/articles/844270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844270)
 - [Черт тебя возьми, CSS. Часть 3](https://habr.com/ru/companies/ruvds/articles/843754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843754)
 - [Доступ к нескольким подам Kubernetes по протоколу TCP и единственному внешнему IP](https://habr.com/ru/companies/amvera/articles/845408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845408)
 - [«Уволить нельзя оставить»: как найти баланс между эффективностью и эмпатией](https://habr.com/ru/companies/oleg-bunin/articles/845320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845320)
-- [Проблема UseCase-ов: что нужно знать разработчикам Android](https://habr.com/ru/articles/845604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
