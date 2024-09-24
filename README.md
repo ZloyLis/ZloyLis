@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [uBlock Orign в качестве ограничителя потока бесполезной информации](https://habr.com/ru/articles/845232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845232)
+- [Как мы полностью обновили VK Мессенджер: переписать нельзя рефакторить](https://habr.com/ru/companies/vk/articles/844554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844554)
 - [big Big FLOAT! Произвольная точность: сравниваем opensource-программы для научных и математических вычислений](https://habr.com/ru/companies/ruvds/articles/845084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845084)
 - [Что почитать по машинному обучению: подборка из 6 книг](https://habr.com/ru/companies/ru_mts/articles/845478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845478)
-- [Объектно ориентированный подход в организации gradle зависимостей в Android проектах](https://habr.com/ru/articles/845694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845694)
-- [От REST к GraphQL: эволюция управления данными в Wagtail](https://habr.com/ru/companies/kokocgroup/articles/845690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845690)
-- [PostHog для UX-дизайнера: от анализа данных до повышения зарплаты](https://habr.com/ru/companies/selectel/articles/845668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845668)
+- [Декларативный подход в организации gradle зависимостей в Android проектах](https://habr.com/ru/articles/845694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
