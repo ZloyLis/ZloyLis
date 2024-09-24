@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ООП в Dart](https://habr.com/ru/articles/845748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845748)
+- [Продолжение статьи про CFG Scale | математика, плюсы и минусы метода](https://habr.com/ru/articles/845746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845746)
+- [Системный аналитик с ЗП 400+. Найти за 30 дней. Часть 2 «Проверка на прочность»](https://habr.com/ru/articles/844986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844986)
+- [Почему «Идеальный программист» Роберта Мартина далёк от реальности: критический взгляд](https://habr.com/ru/articles/845742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845742)
 - [uBlock Orign в качестве ограничителя потока бесполезной информации](https://habr.com/ru/articles/845232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845232)
-- [Как мы полностью обновили VK Мессенджер: переписать нельзя рефакторить](https://habr.com/ru/companies/vk/articles/844554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844554)
-- [big Big FLOAT! Произвольная точность: сравниваем opensource-программы для научных и математических вычислений](https://habr.com/ru/companies/ruvds/articles/845084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845084)
-- [Что почитать по машинному обучению: подборка из 6 книг](https://habr.com/ru/companies/ru_mts/articles/845478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845478)
-- [Декларативный подход в организации gradle зависимостей в Android проектах](https://habr.com/ru/articles/845694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
