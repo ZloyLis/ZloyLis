@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать Google Sheets в качестве базы данных](https://habr.com/ru/companies/m2tech/articles/845562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845562)
+- [[Перевод] Взлом JVM-приложения с помощью отладчика IntelliJ IDEA](https://habr.com/ru/companies/spring_aio/articles/845554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845554)
 - [Создание Convention Plugin-ов на базе Kotlin-классов](https://habr.com/ru/companies/tbank/articles/843786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843786)
 - [Я знаю, что вы читали прошлым летом: топ-5 статей про JavaScript](https://habr.com/ru/articles/844270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844270)
 - [Черт тебя возьми, CSS. Часть 3](https://habr.com/ru/companies/ruvds/articles/843754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843754)
-- [Доступ к нескольким подам Kubernetes по протоколу TCP и единственному внешнему IP](https://habr.com/ru/companies/amvera/articles/845408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845408)
-- [«Уволить нельзя оставить»: как найти баланс между эффективностью и эмпатией](https://habr.com/ru/companies/oleg-bunin/articles/845320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
