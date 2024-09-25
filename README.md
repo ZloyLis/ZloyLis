@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы доработали postgres_exporter для мониторинга событий в БД](https://habr.com/ru/companies/sberbank/articles/845616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845616)
-- [Как построить свою систему SMS-голосования](https://habr.com/ru/companies/exolve/articles/845882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845882)
-- [Стриминговые фреймворки: Apache Flink](https://habr.com/ru/articles/840300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840300)
-- [Kubernetes на сковородке: готовим самые вкусные кластеры](https://habr.com/ru/companies/garage8/articles/845944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845944)
-- [Основные принципы хорошего нейминга](https://habr.com/ru/articles/845934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845934)
+- [Разработка личного кабинета клиента для логистической компании](https://habr.com/ru/articles/846006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846006)
+- [Как стать IOS разработчиком в 2024 году?](https://habr.com/ru/articles/846004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846004)
+- [Как мы успешно внедрили Единую Биометрическую Систему во Flutter-приложение](https://habr.com/ru/companies/stm_labs/articles/845906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845906)
+- [Как делать простые анимированные онбординги в Lottie без After Effects](https://habr.com/ru/companies/ozontech/articles/845696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845696)
+- [Как построить управление корпоративными знаниями по ИТ-продукту](https://habr.com/ru/articles/845982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
