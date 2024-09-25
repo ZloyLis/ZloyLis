@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes на сковородке: готовим самые вкусные кластеры](https://habr.com/ru/companies/garage8/articles/845944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845944)
+- [Основные принципы хорошего нейминга](https://habr.com/ru/articles/845934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845934)
+- [[Перевод] Что нового в React 19](https://habr.com/ru/companies/timeweb/articles/843016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843016)
+- [Как мы внедрили Tracetest для улучшения наблюдаемости в EDA](https://habr.com/ru/articles/845924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845924)
 - [Как T-shape бэкграунд влияет на оптику исследователей и причем тут антропология](https://habr.com/ru/companies/skbkontur/articles/845884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845884)
-- [Создаём быстрые gRPC-сервисы с Tonic и Rust](https://habr.com/ru/companies/otus/articles/845212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845212)
-- [Сжатие данных в PostgreSQL: как различные методы влияют на хранение TOAST](https://habr.com/ru/companies/astralinux/articles/845596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845596)
-- [Лента Мёбиуса мобильной разработки: что расскажут на Mobius 2024 Autumn](https://habr.com/ru/companies/jugru/articles/845370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845370)
-- [Как сочетать Next.js и Go: основы](https://habr.com/ru/companies/otus/articles/845198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
