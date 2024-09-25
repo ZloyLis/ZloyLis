@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ распределённых данных в PostgreSQL с помощью FDW](https://habr.com/ru/companies/otus/articles/845474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845474)
+- [Простая нейронная сеть на C++](https://habr.com/ru/articles/846088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846088)
 - [[Перевод] Небольшая хитрость для простого взаимодействия Rust и C++](https://habr.com/ru/companies/beget/articles/846086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846086)
 - [О том как я генератор Brainfuck кода писал](https://habr.com/ru/articles/846076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846076)
 - [Пример создания Full Stack проекта, используя функциональное тестирование как инструмент дизайна](https://habr.com/ru/articles/846046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846046)
-- [[Перевод] Бедность мешает математике? Исследование показало, что задачи о деньгах и еде сбивают с толку детей из бедных семей](https://habr.com/ru/companies/sherpa_rpa/articles/846030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846030)
-- [Пишем свой плагин для Webpack](https://habr.com/ru/articles/846022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
