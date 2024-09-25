@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как T-shape бэкграунд влияет на оптику исследователей и причем тут антропология](https://habr.com/ru/companies/skbkontur/articles/845884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845884)
+- [Создаём быстрые gRPC-сервисы с Tonic и Rust](https://habr.com/ru/companies/otus/articles/845212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845212)
+- [Сжатие данных в PostgreSQL: как различные методы влияют на хранение TOAST](https://habr.com/ru/companies/astralinux/articles/845596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845596)
 - [Лента Мёбиуса мобильной разработки: что расскажут на Mobius 2024 Autumn](https://habr.com/ru/companies/jugru/articles/845370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845370)
 - [Как сочетать Next.js и Go: основы](https://habr.com/ru/companies/otus/articles/845198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845198)
-- [10 самых необычных вопросов на собеседовании по C#](https://habr.com/ru/articles/845854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845854)
-- [10 сложных вопросов по C# для собеседования и подробные ответы на них](https://habr.com/ru/articles/845850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845850)
-- [Как построить поезд в Minecraft с помощью Python – урок для детей](https://habr.com/ru/companies/pixel_study/articles/845832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
