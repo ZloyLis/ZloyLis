@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем свой плагин для Webpack](https://habr.com/ru/articles/846022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846022)
 - [Разработка личного кабинета клиента для логистической компании](https://habr.com/ru/articles/846006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846006)
 - [Как стать IOS разработчиком в 2024 году?](https://habr.com/ru/articles/846004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846004)
 - [Как мы успешно внедрили Единую Биометрическую Систему во Flutter-приложение](https://habr.com/ru/companies/stm_labs/articles/845906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845906)
 - [Как делать простые анимированные онбординги в Lottie без After Effects](https://habr.com/ru/companies/ozontech/articles/845696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845696)
-- [Как построить управление корпоративными знаниями по ИТ-продукту](https://habr.com/ru/articles/845982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
