@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пример создания Full Stack проекта, используя функциональное тестирование как инструмент дизайна](https://habr.com/ru/articles/846046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846046)
 - [[Перевод] Бедность мешает математике? Исследование показало, что задачи о деньгах и еде сбивают с толку детей из бедных семей](https://habr.com/ru/companies/sherpa_rpa/articles/846030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846030)
 - [Пишем свой плагин для Webpack](https://habr.com/ru/articles/846022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846022)
 - [Разработка личного кабинета клиента для логистической компании](https://habr.com/ru/articles/846006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846006)
 - [Как стать IOS разработчиком в 2024 году?](https://habr.com/ru/articles/846004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846004)
-- [Как мы успешно внедрили Единую Биометрическую Систему во Flutter-приложение](https://habr.com/ru/companies/stm_labs/articles/845906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
