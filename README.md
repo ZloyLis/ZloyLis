@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы доработали postgres_exporter для мониторинга событий в БД](https://habr.com/ru/companies/sberbank/articles/845616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845616)
+- [Как построить свою систему SMS-голосования](https://habr.com/ru/companies/exolve/articles/845882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845882)
+- [Стриминговые фреймворки: Apache Flink](https://habr.com/ru/articles/840300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840300)
 - [Kubernetes на сковородке: готовим самые вкусные кластеры](https://habr.com/ru/companies/garage8/articles/845944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845944)
 - [Основные принципы хорошего нейминга](https://habr.com/ru/articles/845934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845934)
-- [[Перевод] Что нового в React 19](https://habr.com/ru/companies/timeweb/articles/843016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843016)
-- [Как мы внедрили Tracetest для улучшения наблюдаемости в EDA](https://habr.com/ru/articles/845924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845924)
-- [Как T-shape бэкграунд влияет на оптику исследователей и причем тут антропология](https://habr.com/ru/companies/skbkontur/articles/845884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
