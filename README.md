@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Черепаха в лабиринте или осенний марафон](https://habr.com/ru/articles/824644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824644)
+- [Образы БД для юнит-тестирования, опять](https://habr.com/ru/articles/846172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846172)
 - [Идеальный продукт и его UX/UI дизайн](https://habr.com/ru/articles/846054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846054)
 - [Как создать модель миньона с нуля: бесплатные уроки Blender для детей](https://habr.com/ru/companies/pixel_study/articles/846110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846110)
 - [Анализ распределённых данных в PostgreSQL с помощью FDW](https://habr.com/ru/companies/otus/articles/845474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845474)
-- [Простая нейронная сеть на C++](https://habr.com/ru/articles/846088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846088)
-- [[Перевод] Небольшая хитрость для простого взаимодействия Rust и C++](https://habr.com/ru/companies/beget/articles/846086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
