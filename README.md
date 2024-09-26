@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Блеск и нищета WebAssembly](https://habr.com/ru/companies/pt/articles/845624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845624)
+- [Collection. Темная сторона Data Science](https://habr.com/ru/companies/oleg-bunin/articles/845686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845686)
+- [Как матрица компетенций помогает развитию команды](https://habr.com/ru/companies/pgk/articles/844278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844278)
 - [Создаем свою простую &lpar;C++&rpar; библиотеку с документацией, CMake и блекджеком](https://habr.com/ru/companies/timeweb/articles/845074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845074)
 - [Как я разочаровался в юнит тестах и решил, что единственный вариант получить от них пользу — 100% покрытие](https://habr.com/ru/articles/846212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846212)
-- [Как мы работаем с QA-метриками: опыт Рунити](https://habr.com/ru/companies/runity/articles/846208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846208)
-- [[Перевод] Почему эта фигура так плохо упаковывается?](https://habr.com/ru/articles/846134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846134)
-- [Научно-исследовательский кружок по ИИ в робототехнике для студентов и взрослых](https://habr.com/ru/companies/sberbank/articles/845824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
