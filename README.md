@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Научно-исследовательский кружок по ИИ в робототехнике для студентов и взрослых](https://habr.com/ru/companies/sberbank/articles/845824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845824)
+- [Книги, которые стоит почитать ИТ-архитекторам. Часть 2](https://habr.com/ru/companies/ru_mts/articles/846070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846070)
+- [Обзор Kwasm — оператора для запуска WebAssembly-приложений в кластере Kubernetes](https://habr.com/ru/companies/flant/articles/845804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845804)
 - [Черепаха в лабиринте или осенний марафон](https://habr.com/ru/articles/824644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824644)
 - [Образы БД для юнит-тестирования, опять](https://habr.com/ru/articles/846172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846172)
-- [Идеальный продукт и его UX/UI дизайн](https://habr.com/ru/articles/846054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846054)
-- [Как создать модель миньона с нуля: бесплатные уроки Blender для детей](https://habr.com/ru/companies/pixel_study/articles/846110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846110)
-- [Анализ распределённых данных в PostgreSQL с помощью FDW](https://habr.com/ru/companies/otus/articles/845474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
