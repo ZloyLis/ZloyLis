@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем свою простую &lpar;C++&rpar; библиотеку с документацией, CMake и блекджеком](https://habr.com/ru/companies/timeweb/articles/845074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845074)
+- [Как я разочаровался в юнит тестах и решил, что единственный вариант получить от них пользу — 100% покрытие](https://habr.com/ru/articles/846212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846212)
+- [Как мы работаем с QA-метриками: опыт Рунити](https://habr.com/ru/companies/runity/articles/846208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846208)
+- [[Перевод] Почему эта фигура так плохо упаковывается?](https://habr.com/ru/articles/846134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846134)
 - [Научно-исследовательский кружок по ИИ в робототехнике для студентов и взрослых](https://habr.com/ru/companies/sberbank/articles/845824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845824)
-- [Книги, которые стоит почитать ИТ-архитекторам. Часть 2](https://habr.com/ru/companies/ru_mts/articles/846070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846070)
-- [Обзор Kwasm — оператора для запуска WebAssembly-приложений в кластере Kubernetes](https://habr.com/ru/companies/flant/articles/845804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845804)
-- [Черепаха в лабиринте или осенний марафон](https://habr.com/ru/articles/824644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=824644)
-- [Образы БД для юнит-тестирования, опять](https://habr.com/ru/articles/846172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
