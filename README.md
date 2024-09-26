@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запускаем Embedded Linux на Hard- и Soft-CPU Xilinx Zynq: проект программируемой логики](https://habr.com/ru/companies/yadro/articles/845714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845714)
 - [В вашем SIEM Detection as a Code есть? Нет? Сейчас будет](https://habr.com/ru/companies/ozontech/articles/846198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846198)
 - [Блеск и нищета WebAssembly](https://habr.com/ru/companies/pt/articles/845624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845624)
 - [Collection. Темная сторона Data Science](https://habr.com/ru/companies/oleg-bunin/articles/845686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845686)
 - [Как матрица компетенций помогает развитию команды](https://habr.com/ru/companies/pgk/articles/844278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844278)
-- [Создаем свою простую &lpar;C++&rpar; библиотеку с документацией, CMake и блекджеком](https://habr.com/ru/companies/timeweb/articles/845074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
