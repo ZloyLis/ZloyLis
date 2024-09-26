@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Урок по веб-дизайну для детей: как работать с сеткой в Figma](https://habr.com/ru/companies/pixel_study/articles/846384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846384)
 - [Как мы делали просмотрщик BIM-моделей: взлеты, падения и уроки](https://habr.com/ru/articles/846382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846382)
 - [Object.freeze и Object.seal в JS](https://habr.com/ru/companies/otus/articles/845226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845226)
 - [Погружение в Sampling method: механизмы работы в моделях диффузии](https://habr.com/ru/articles/846358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846358)
 - [Основы Docker: контейнеризация, Dockerfile и Docker Compose. Часть 2](https://habr.com/ru/companies/sibur_official/articles/846350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846350)
-- [ByteWeaver в Open Source: инструментирование байт-кода во имя великого блага](https://habr.com/ru/companies/vk/articles/845872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
