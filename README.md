@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А что, так можно было?](https://habr.com/ru/articles/846396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846396)
+- [Как мы подружили Jira и Telegram](https://habr.com/ru/companies/vsk_insurance/articles/846506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846506)
 - [Спускаясь с облаков в ад: развёртывание Kubernetes на Astra Linux. Часть 1](https://habr.com/ru/companies/nixys/articles/845938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845938)
 - [[Перевод] Критическая уязвимость с оценкой CVSS 9,9 обнаружена в GNU/Linux](https://habr.com/ru/companies/spring_aio/articles/846498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846498)
 - [Прочие оптимизации кода Gradle Convention Plugins, выводы по результатам использования подхода](https://habr.com/ru/companies/tbank/articles/846340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846340)
-- [Создание своих тестов для Garak](https://habr.com/ru/companies/oleg-bunin/articles/846450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846450)
-- [Умный дом и фронтенд-разработка для финтеха – где связь? История одной одержимости техникой](https://habr.com/ru/companies/clevertec/articles/845948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
