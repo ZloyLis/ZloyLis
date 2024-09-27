@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что расскажут на Joker 2024: безумие в хорошем смысле слова](https://habr.com/ru/companies/jugru/articles/845372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845372)
+- [За кулисами разработки: 5 практических советов по созданию плагина для СДО Moodle](https://habr.com/ru/companies/ispring/articles/846596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846596)
+- [Надежность в процессах. Часть 2](https://habr.com/ru/articles/846592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846592)
 - [Так ли плох Битрикс на самом деле? Разбираем возможные причины технических проблем и низкой скорости интернет-магазина](https://habr.com/ru/articles/846576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846576)
 - [[Перевод] Компилируем и выполняем C на JavaScript](https://habr.com/ru/companies/piter/articles/846522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846522)
-- [Разработчик из первоклассника за 6 часов](https://habr.com/ru/companies/reksoft/articles/846548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846548)
-- [[Перевод] 12 причин, почему технологии Wolfram — это не Open Source](https://habr.com/ru/articles/846468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846468)
-- [Анимация и интерактивные элементы, используемые в веб-дизайне](https://habr.com/ru/articles/846542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
