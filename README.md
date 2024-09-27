@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Горизонты школьного образования](https://habr.com/ru/articles/846250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846250)
 - [UI- система или хроники Хаоса](https://habr.com/ru/articles/846424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846424)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 10](https://habr.com/ru/companies/ruvds/articles/845112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845112)
 - [Вот здесь точно нужен рефакторинг, есть идеи?](https://habr.com/ru/articles/846204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846204)
 - [Ещё раз о методах расширения классов в C++](https://habr.com/ru/articles/846394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846394)
-- [Урок по веб-дизайну для детей: как работать с сеткой в Figma](https://habr.com/ru/companies/pixel_study/articles/846384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
