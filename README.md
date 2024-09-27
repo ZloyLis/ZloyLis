@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы снижаем порог входа студентов в микроэлектронику](https://habr.com/ru/articles/846628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846628)
+- [Впечатления от доработки Telegram Android](https://habr.com/ru/articles/842618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842618)
+- [Как мы снижаем порог входа студентов в микроэлектронику](https://habr.com/ru/companies/aquarius/articles/846628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846628)
 - [Что расскажут на Joker 2024: безумие в хорошем смысле слова](https://habr.com/ru/companies/jugru/articles/845372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845372)
 - [За кулисами разработки: 5 практических советов по созданию плагина для СДО Moodle](https://habr.com/ru/companies/ispring/articles/846596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846596)
 - [Надежность в процессах. Часть 2](https://habr.com/ru/articles/846592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846592)
-- [Так ли плох Битрикс на самом деле? Разбираем возможные причины технических проблем и низкой скорости интернет-магазина](https://habr.com/ru/articles/846576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
