@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Компилируем и выполняем C на JavaScript](https://habr.com/ru/companies/piter/articles/846522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846522)
 - [Разработчик из первоклассника за 6 часов](https://habr.com/ru/companies/reksoft/articles/846548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846548)
 - [[Перевод] 12 причин, почему технологии Wolfram — это не Open Source](https://habr.com/ru/articles/846468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846468)
 - [Анимация и интерактивные элементы, используемые в веб-дизайне](https://habr.com/ru/articles/846542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846542)
 - [std::array в С++ не медленнее массива в С](https://habr.com/ru/companies/pvs-studio/articles/846532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846532)
-- [А что, так можно было?](https://habr.com/ru/articles/846396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
