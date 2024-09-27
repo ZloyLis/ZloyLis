@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А что если можно научиться программировать по голливудским фильмам?](https://habr.com/ru/articles/846664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846664)
 - [История создания ASoar: от идеи до реализации системы кибербезопасности](https://habr.com/ru/articles/846600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846600)
 - [Создание аппаратно-независимых библиотек для микроконтроллеров](https://habr.com/ru/articles/846656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846656)
 - [Мой опыт в переводе между типами С++ и С#](https://habr.com/ru/articles/846652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846652)
 - [Впечатления от доработки Telegram Android](https://habr.com/ru/articles/842618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842618)
-- [Как мы снижаем порог входа студентов в микроэлектронику](https://habr.com/ru/companies/aquarius/articles/846628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
