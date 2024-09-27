@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Горизонты школьного образования](https://habr.com/ru/articles/846250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846250)
-- [UI- система или хроники Хаоса](https://habr.com/ru/articles/846424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846424)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 10](https://habr.com/ru/companies/ruvds/articles/845112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845112)
-- [Вот здесь точно нужен рефакторинг, есть идеи?](https://habr.com/ru/articles/846204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846204)
-- [Ещё раз о методах расширения классов в C++](https://habr.com/ru/articles/846394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846394)
+- [Умный дом и фронтенд-разработка для финтеха – где связь? История одной одержимости техникой](https://habr.com/ru/companies/clevertec/articles/845948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845948)
+- [Как я прогнозирую полярные сияния с помощью открытых данных, Python и облачного сервера](https://habr.com/ru/companies/selectel/articles/846436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846436)
+- [USB GPIO EXTENDER – ещё одна возможность управления нагрузками с роутера Микротик](https://habr.com/ru/articles/846430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846430)
+- [50 оттенков линейной регрессии, или почему всё, что вы знаете об A/B тестах, помещается в одно уравнение](https://habr.com/ru/companies/X5Tech/articles/846298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846298)
+- [[Перевод] Визуализатор музыки на основе игры Pong](https://habr.com/ru/articles/845476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
