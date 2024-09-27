@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прочие оптимизации кода Gradle Convention Plugins, выводы по результатам использования подхода](https://habr.com/ru/companies/tbank/articles/846340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846340)
+- [Создание своих тестов для Garak](https://habr.com/ru/companies/oleg-bunin/articles/846450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846450)
 - [Умный дом и фронтенд-разработка для финтеха – где связь? История одной одержимости техникой](https://habr.com/ru/companies/clevertec/articles/845948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845948)
 - [Как я прогнозирую полярные сияния с помощью открытых данных, Python и облачного сервера](https://habr.com/ru/companies/selectel/articles/846436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846436)
 - [USB GPIO EXTENDER – ещё одна возможность управления нагрузками с роутера Микротик](https://habr.com/ru/articles/846430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846430)
-- [50 оттенков линейной регрессии, или почему всё, что вы знаете об A/B тестах, помещается в одно уравнение](https://habr.com/ru/companies/X5Tech/articles/846298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846298)
-- [[Перевод] Визуализатор музыки на основе игры Pong](https://habr.com/ru/articles/845476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
