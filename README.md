@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать делать «осознанные» pet-проекты](https://habr.com/ru/articles/846690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846690)
+- [Слово this: управление контекстом выполнения в JavaScript](https://habr.com/ru/companies/otus/articles/845300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845300)
 - [Реализация REST API-метода с пагинацией на примере JSON-Schema и OpenAPI](https://habr.com/ru/articles/846130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846130)
 - [А что если можно научиться программировать по голливудским фильмам?](https://habr.com/ru/articles/846664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846664)
 - [История создания ASoar: от идеи до реализации системы кибербезопасности](https://habr.com/ru/articles/846600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846600)
-- [Создание аппаратно-независимых библиотек для микроконтроллеров](https://habr.com/ru/articles/846656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846656)
-- [Мой опыт в переводе между типами С++ и С#](https://habr.com/ru/articles/846652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
