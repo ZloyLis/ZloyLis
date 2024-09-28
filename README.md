@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scratch Junior для детей – все о старте программирования для дошкольников](https://habr.com/ru/companies/pixel_study/articles/846784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846784)
 - [Создание интерактивного гиперкуба: эксперименты с трёхмерной графикой и выход в четвёртое измерение](https://habr.com/ru/articles/846772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846772)
 - [[Перевод] Искусственный интеллект не создаст за вас крутую команду разработчиков, или Как мы недооцениваем наём джунов](https://habr.com/ru/companies/netologyru/articles/845776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845776)
 - [Как вести ИТ-проект если ты не айтишник? &lpar;часть 1&rpar;](https://habr.com/ru/articles/846726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846726)
 - [Создание агрегаторов научных статей](https://habr.com/ru/articles/846704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846704)
-- [Превращаем планшет в терминал самообслуживания: осваиваем режим Kiosk в KNOX сервисах](https://habr.com/ru/companies/samsung/articles/846654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
