@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вести ИТ-проект если ты не айтишник? &lpar;часть 1&rpar;](https://habr.com/ru/articles/846726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846726)
 - [Создание агрегаторов научных статей](https://habr.com/ru/articles/846704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846704)
 - [Превращаем планшет в терминал самообслуживания: осваиваем режим Kiosk в KNOX сервисах](https://habr.com/ru/companies/samsung/articles/846654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846654)
 - [Как начать делать «осознанные» pet-проекты](https://habr.com/ru/articles/846690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846690)
 - [Слово this: управление контекстом выполнения в JavaScript](https://habr.com/ru/companies/otus/articles/845300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845300)
-- [Реализация REST API-метода с пагинацией на примере JSON-Schema и OpenAPI](https://habr.com/ru/articles/846130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
