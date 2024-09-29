@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Статья-обзор третьего митапа BelQA комьюнити](https://habr.com/ru/articles/846930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846930)
 - [Импортозамещение ПО в авиации. Почему не взлетаем?](https://habr.com/ru/articles/846918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846918)
 - [Блоки в Scratch с нуля — обучение для детей 8-9 лет и старше](https://habr.com/ru/companies/pixel_study/articles/846924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846924)
 - [Программирование для детей 13 лет: особенности, видеоуроки и полезные ресурсы](https://habr.com/ru/companies/pixel_study/articles/846904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846904)
 - [Неинтерактивная SSH-аутентификация](https://habr.com/ru/companies/globalsign/articles/846888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846888)
-- [Spring patterns. Fluent interface](https://habr.com/ru/articles/846864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
