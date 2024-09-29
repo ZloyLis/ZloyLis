@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring patterns. Fluent interface](https://habr.com/ru/articles/846864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846864)
+- [Ruby и встраиваемые системы](https://habr.com/ru/articles/846852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846852)
 - [Как я создал тренажер для таблицы умножения: опыт разработки, сложности и MidJourney для UI](https://habr.com/ru/articles/846856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846856)
 - [Знакомство с гипермедийными системами на ASP.NET Core 8.0](https://habr.com/ru/articles/846850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846850)
 - [[Перевод] Улучшение производительности рендеринга с помощью CSS content-visibility](https://habr.com/ru/articles/846842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846842)
-- [Автоматизируем подключение Сisco AnyConnect на Mac OS](https://habr.com/ru/articles/846764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846764)
-- [Как написать ТЗ на простую программу &lpar;калькулятор&rpar;](https://habr.com/ru/articles/846786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
