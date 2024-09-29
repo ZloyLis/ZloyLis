@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я создал тренажер для таблицы умножения: опыт разработки, сложности и MidJourney для UI](https://habr.com/ru/articles/846856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846856)
+- [Знакомство с гипермедийными системами на ASP.NET Core 8.0](https://habr.com/ru/articles/846850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846850)
+- [[Перевод] Улучшение производительности рендеринга с помощью CSS content-visibility](https://habr.com/ru/articles/846842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846842)
 - [Автоматизируем подключение Сisco AnyConnect на Mac OS](https://habr.com/ru/articles/846764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846764)
-- [[Перевод] Dialrhea — играем в Doom на дисковом телефоне](https://habr.com/ru/companies/ruvds/articles/846406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846406)
 - [Как написать ТЗ на простую программу &lpar;калькулятор&rpar;](https://habr.com/ru/articles/846786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846786)
-- [[Перевод] Автоматизация набирает обороты: становятся ли инженеры-программисты ненужными?](https://habr.com/ru/articles/846804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846804)
-- [Scratch Junior для детей – все о старте программирования для дошкольников](https://habr.com/ru/companies/pixel_study/articles/846784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
