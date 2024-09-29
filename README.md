@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Dialrhea — играем в Doom на дисковом телефоне](https://habr.com/ru/companies/ruvds/articles/846406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846406)
 - [Как написать ТЗ на простую программу &lpar;калькулятор&rpar;](https://habr.com/ru/articles/846786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846786)
 - [[Перевод] Автоматизация набирает обороты: становятся ли инженеры-программисты ненужными?](https://habr.com/ru/articles/846804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846804)
 - [Scratch Junior для детей – все о старте программирования для дошкольников](https://habr.com/ru/companies/pixel_study/articles/846784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846784)
 - [Создание интерактивного гиперкуба: эксперименты с трёхмерной графикой и выход в четвёртое измерение](https://habr.com/ru/articles/846772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846772)
-- [[Перевод] Искусственный интеллект не создаст за вас крутую команду разработчиков, или Как мы недооцениваем наём джунов](https://habr.com/ru/companies/netologyru/articles/845776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
