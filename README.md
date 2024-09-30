@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Матстат в одной схеме](https://habr.com/ru/articles/847120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847120)
+- [Поднимаем одно-нодовый kubernetes-кластер на RedOS](https://habr.com/ru/articles/847116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847116)
+- [Система типов и настройки](https://habr.com/ru/articles/847110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847110)
 - [Обзор iPhone 12 mini в 2024 году: что умеет и в чем его достоинства](https://habr.com/ru/articles/847076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847076)
 - [[Перевод] Почему нет достойных форматтеров кода для Java?](https://habr.com/ru/companies/spring_aio/articles/846278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846278)
-- [Как подружить Gorm и PostGIS, решение промышленного уровня](https://habr.com/ru/articles/847048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847048)
-- [Создание уведомлений на языке Kotlin](https://habr.com/ru/articles/847020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847020)
-- [Паттерны применения многопоточности на коммерческом проекте &lpar;на примере Java&rpar;](https://habr.com/ru/articles/838402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
