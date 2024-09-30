@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подружить Gorm и PostGIS, решение промышленного уровня](https://habr.com/ru/articles/847048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847048)
 - [Создание уведомлений на языке Kotlin](https://habr.com/ru/articles/847020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847020)
 - [Паттерны применения многопоточности на коммерческом проекте &lpar;на примере Java&rpar;](https://habr.com/ru/articles/838402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838402)
 - [Koin: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/846482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846482)
 - [[Перевод] Эксперименты с фиксированной статистической мощностью: вопрос не в подглядывании, а в том, на что именно смотрят](https://habr.com/ru/companies/wunderfund/articles/846914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846914)
-- [Просто о сложном: используем концепцию каталога услуг для интеграции с сложными веб-сервисами и не только](https://habr.com/ru/articles/846994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
