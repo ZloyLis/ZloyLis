@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Antipatterns: устраняем вложенные интервалы](https://habr.com/ru/companies/tensor/articles/847128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847128)
 - [Проектируем А/Б-эксперименты грамотно](https://habr.com/ru/companies/vk/articles/847088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847088)
 - [[Перевод] Как устранить первопричину уязвимостей безопасности памяти](https://habr.com/ru/companies/ruvds/articles/847056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847056)
 - [Как мы в клиринге переходили от REST к Kafka](https://habr.com/ru/companies/nspk/articles/844656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844656)
 - [Pinniped как способ логина в Kubernetes через Active Directory](https://habr.com/ru/companies/lamoda/articles/846000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846000)
-- [Матстат в одной схеме](https://habr.com/ru/articles/847120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
