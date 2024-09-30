@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я использовал КОТа, чтобы войти в ИТ](https://habr.com/ru/companies/rshb/articles/844882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844882)
+- [Security Week 2440: уязвимость CUPS переменной опасности](https://habr.com/ru/companies/kaspersky/articles/847154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847154)
 - [Технологическое превосходство: команда колледжа Москвы вышла в финал «Битвы роботов — 2024»](https://habr.com/ru/articles/847176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847176)
 - [Scala Digest. Выпуск 21](https://habr.com/ru/companies/tbank/articles/847174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847174)
 - [PostgreSQL Antipatterns: устраняем вложенные интервалы](https://habr.com/ru/companies/tensor/articles/847128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847128)
-- [Проектируем А/Б-эксперименты грамотно](https://habr.com/ru/companies/vk/articles/847088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847088)
-- [[Перевод] Как устранить первопричину уязвимостей безопасности памяти](https://habr.com/ru/companies/ruvds/articles/847056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
