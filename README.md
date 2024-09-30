@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP и Laravel дайджест новостей за август 2024 года](https://habr.com/ru/articles/847202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847202)
+- [Apple Pro Weekly News &lpar;23.09 – 29.09.24&rpar;](https://habr.com/ru/articles/847194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847194)
 - [Как я использовал КОТа, чтобы войти в ИТ](https://habr.com/ru/companies/rshb/articles/844882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844882)
 - [Security Week 2440: уязвимость CUPS переменной опасности](https://habr.com/ru/companies/kaspersky/articles/847154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847154)
 - [Технологическое превосходство: команда колледжа Москвы вышла в финал «Битвы роботов — 2024»](https://habr.com/ru/articles/847176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847176)
-- [Scala Digest. Выпуск 21](https://habr.com/ru/companies/tbank/articles/847174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847174)
-- [PostgreSQL Antipatterns: устраняем вложенные интервалы](https://habr.com/ru/companies/tensor/articles/847128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
