@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание уведомлений на языке Kotlin](https://habr.com/ru/articles/847020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847020)
+- [Паттерны применения многопоточности на коммерческом проекте &lpar;на примере Java&rpar;](https://habr.com/ru/articles/838402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838402)
+- [Koin: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/846482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846482)
+- [[Перевод] Эксперименты с фиксированной статистической мощностью: вопрос не в подглядывании, а в том, на что именно смотрят](https://habr.com/ru/companies/wunderfund/articles/846914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846914)
 - [Просто о сложном: используем концепцию каталога услуг для интеграции с сложными веб-сервисами и не только](https://habr.com/ru/articles/846994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846994)
-- [Мой опыт наставничества. Путь от «Где кнопка?» до «Все будет логично!»](https://habr.com/ru/companies/inpglobal/articles/845626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845626)
-- [[Перевод] 50 терминов системного дизайна, которые должен знать каждый разработчик](https://habr.com/ru/companies/timeweb/articles/846420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846420)
-- [Как вести ИТ-проект если ты не айтишник? &lpar;часть 2&rpar;](https://habr.com/ru/articles/846738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846738)
-- [Опять эти правки! Учимся общаться с разработчиками и добиваться внедрения правок](https://habr.com/ru/articles/846986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
