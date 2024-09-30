@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чистый код: Аргументы командной строки](https://habr.com/ru/articles/838464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838464)
 - [Мобильная разработка за неделю #557 &lpar;23 — 29 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/846940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846940)
 - [Как я научил бухгалтерию составлять договора дарения со скоростью 1 договор в 4 секунды](https://habr.com/ru/articles/843488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843488)
 - [Статья-обзор третьего митапа BelQA комьюнити](https://habr.com/ru/articles/846930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846930)
 - [Импортозамещение ПО в авиации. Почему не взлетаем?](https://habr.com/ru/articles/846918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846918)
-- [Блоки в Scratch с нуля — обучение для детей 8-9 лет и старше](https://habr.com/ru/companies/pixel_study/articles/846924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
