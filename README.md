@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Шлём биткоины с Android &lpar;и смотрим транзакции&rpar;](https://habr.com/ru/articles/846616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846616)
-- [Как работает поисковое ранжирование для миллионов объявлений Авито](https://habr.com/ru/companies/avito/articles/846832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846832)
-- [Простой мини-чат на FastApi: Современный интерфейс, вебсокеты и SQLAlchemy с деплоем](https://habr.com/ru/companies/amvera/articles/846926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846926)
-- [Чем отличается изобретатель вечного двигателя от просто изобретателя?](https://habr.com/ru/articles/828652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828652)
-- [Чистый код: Аргументы командной строки](https://habr.com/ru/articles/838464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838464)
+- [Просто о сложном: используем концепцию каталога услуг для интеграции с сложными веб-сервисами и не только](https://habr.com/ru/articles/846994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846994)
+- [Мой опыт наставничества. Путь от «Где кнопка?» до «Все будет логично!»](https://habr.com/ru/companies/inpglobal/articles/845626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845626)
+- [[Перевод] 50 терминов системного дизайна, которые должен знать каждый разработчик](https://habr.com/ru/companies/timeweb/articles/846420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846420)
+- [Как вести ИТ-проект если ты не айтишник? &lpar;часть 2&rpar;](https://habr.com/ru/articles/846738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846738)
+- [Опять эти правки! Учимся общаться с разработчиками и добиваться внедрения правок](https://habr.com/ru/articles/846986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
