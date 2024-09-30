@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шлём биткоины с Android &lpar;и смотрим транзакции&rpar;](https://habr.com/ru/articles/846616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846616)
 - [Как работает поисковое ранжирование для миллионов объявлений Авито](https://habr.com/ru/companies/avito/articles/846832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846832)
 - [Простой мини-чат на FastApi: Современный интерфейс, вебсокеты и SQLAlchemy с деплоем](https://habr.com/ru/companies/amvera/articles/846926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846926)
 - [Чем отличается изобретатель вечного двигателя от просто изобретателя?](https://habr.com/ru/articles/828652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=828652)
 - [Чистый код: Аргументы командной строки](https://habr.com/ru/articles/838464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838464)
-- [Мобильная разработка за неделю #557 &lpar;23 — 29 сентября&rpar;](https://habr.com/ru/companies/productivity_inside/articles/846940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
