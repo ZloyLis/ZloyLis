@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Kubernetes платформа Gitorion. Реплицируемый NAS для Highly Available кластера Kubernetes](https://habr.com/ru/companies/gitorion/articles/845120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845120)
 - [От A/B до OKR: Ключевые термины в Продакт-Менеджменте](https://habr.com/ru/articles/847256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847256)
 - [От Gantt до WBS: Ключевые термины в Проджект-Менеджменте](https://habr.com/ru/articles/847254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847254)
 - [От API до CI/CD: Базовые термины в IT, которые желательно знать новичку](https://habr.com/ru/articles/847250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847250)
 - [Просто не копируй это](https://habr.com/ru/articles/847178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847178)
-- [Как построить башню в Minecraft на Python – туториал для детей](https://habr.com/ru/companies/pixel_study/articles/847220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
