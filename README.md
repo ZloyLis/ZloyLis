@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Машинное обучение без кодинга для фронтенд-задач. Разбираем работу фреймворка MediaPipe](https://habr.com/ru/companies/oleg-bunin/articles/735024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735024)
-- [Как мы ускорили Modbus в нашем контроллере за неделю](https://habr.com/ru/companies/wirenboard/articles/847214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847214)
-- [CI/CD Kubernetes платформа Gitorion. Реплицируемый NAS для Highly Available кластера Kubernetes](https://habr.com/ru/companies/gitorion/articles/845120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845120)
-- [От A/B до OKR: Ключевые термины в Продакт-Менеджменте](https://habr.com/ru/articles/847256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847256)
-- [От Gantt до WBS: Ключевые термины в Проджект-Менеджменте](https://habr.com/ru/articles/847254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847254)
+- [Как запустить email- и SMS уведомления на Joomla с использованием API](https://habr.com/ru/companies/exolve/articles/847342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847342)
+- [Кто одолеет проект: сказ о трех богатырях на новый лад](https://habr.com/ru/companies/pt/articles/847164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847164)
+- [Краткий обзор библиотеки dApp](https://habr.com/ru/companies/otus/articles/846770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846770)
+- [«А можно быстрее?»: практические советы по ускорению обучения нейросетей](https://habr.com/ru/companies/magnus-tech/articles/846012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846012)
+- [Как ускорить запуск iOS-приложения в 2 раза с помощью Network Instrument](https://habr.com/ru/companies/dododev/articles/846662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
