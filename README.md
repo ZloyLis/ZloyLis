@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать инструмент для запуска нагрузки одной кнопкой: показываем наш Pangoloader](https://habr.com/ru/companies/sberbank/articles/847334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847334)
+- [WAF для Вебсокетов: рабочее решение или иллюзия?](https://habr.com/ru/companies/webmonitorx/articles/847364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847364)
 - [Как запустить email- и SMS уведомления на Joomla с использованием API](https://habr.com/ru/companies/exolve/articles/847342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847342)
 - [Кто одолеет проект: сказ о трех богатырях на новый лад](https://habr.com/ru/companies/pt/articles/847164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847164)
 - [Краткий обзор библиотеки dApp](https://habr.com/ru/companies/otus/articles/846770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846770)
-- [«А можно быстрее?»: практические советы по ускорению обучения нейросетей](https://habr.com/ru/companies/magnus-tech/articles/846012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846012)
-- [Как ускорить запуск iOS-приложения в 2 раза с помощью Network Instrument](https://habr.com/ru/companies/dododev/articles/846662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
