@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТЗ, которое наконец-то вышло из-под контроля](https://habr.com/ru/articles/847496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847496)
 - [Связываем форму сайта с Telegram-ботом на чистом JavaScript за 15 минут: Полная разработка и деплой](https://habr.com/ru/companies/amvera/articles/847346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847346)
 - [Как сделать разрушение в Roblox — урок Lua для детей](https://habr.com/ru/companies/pixel_study/articles/847472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847472)
 - [Два разных способа взять ипотеку](https://habr.com/ru/articles/847422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847422)
 - [Точки соприкосновения: Java &amp;amp; GC](https://habr.com/ru/companies/jugru/articles/846308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846308)
-- [Что было, что стало: Путешествие в мир 3D-редактора на Three.js](https://habr.com/ru/articles/847410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
