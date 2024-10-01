@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Машинное обучение без кодинга для фронтенд-задач. Разбираем работу фреймворка MediaPipe](https://habr.com/ru/companies/oleg-bunin/articles/735024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=735024)
 - [Как мы ускорили Modbus в нашем контроллере за неделю](https://habr.com/ru/companies/wirenboard/articles/847214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847214)
 - [CI/CD Kubernetes платформа Gitorion. Реплицируемый NAS для Highly Available кластера Kubernetes](https://habr.com/ru/companies/gitorion/articles/845120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845120)
 - [От A/B до OKR: Ключевые термины в Продакт-Менеджменте](https://habr.com/ru/articles/847256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847256)
 - [От Gantt до WBS: Ключевые термины в Проджект-Менеджменте](https://habr.com/ru/articles/847254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847254)
-- [От API до CI/CD: Базовые термины в IT, которые желательно знать новичку](https://habr.com/ru/articles/847250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
