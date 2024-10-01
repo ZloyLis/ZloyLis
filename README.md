@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы разработали приложение для бортпроводников S7 Airlines, чтобы избавить их от бумажной работы](https://habr.com/ru/articles/847392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847392)
+- [Запастись кофе и таблетками от головной боли — как подготовиться к киберучениям и победить](https://habr.com/ru/companies/jetinfosystems/articles/847386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847386)
 - [Как сделать инструмент для запуска нагрузки одной кнопкой: показываем наш Pangoloader](https://habr.com/ru/companies/sberbank/articles/847334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847334)
-- [WAF для Вебсокетов: рабочее решение или иллюзия?](https://habr.com/ru/companies/webmonitorx/articles/847364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847364)
 - [Как запустить email- и SMS уведомления на Joomla с использованием API](https://habr.com/ru/companies/exolve/articles/847342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847342)
 - [Кто одолеет проект: сказ о трех богатырях на новый лад](https://habr.com/ru/companies/pt/articles/847164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847164)
-- [Краткий обзор библиотеки dApp](https://habr.com/ru/companies/otus/articles/846770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
