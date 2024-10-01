@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать разрушение в Roblox — урок Lua для детей](https://habr.com/ru/companies/pixel_study/articles/847472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847472)
 - [Два разных способа взять ипотеку](https://habr.com/ru/articles/847422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847422)
 - [Точки соприкосновения: Java &amp;amp; GC](https://habr.com/ru/companies/jugru/articles/846308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846308)
 - [Что было, что стало: Путешествие в мир 3D-редактора на Three.js](https://habr.com/ru/articles/847410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847410)
 - [Как мы разработали приложение для бортпроводников S7 Airlines, чтобы избавить их от бумажной работы](https://habr.com/ru/articles/847392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847392)
-- [Запастись кофе и таблетками от головной боли — как подготовиться к киберучениям и победить](https://habr.com/ru/companies/jetinfosystems/articles/847386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
