@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [BMP Show или о том, как я делал тестовое](https://habr.com/ru/articles/847738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847738)
+- [BMP Convert&amp;amp;Show или о том, как я делал тестовое](https://habr.com/ru/articles/847738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847738)
 - [Навигация по вызовам финтех разработки: от соблюдения норм до безопасности](https://habr.com/ru/companies/it_monsters/articles/847720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847720)
 - [Очередной обзор очередного курса. Или как техпис на системного аналитика в «Нетологии» учился](https://habr.com/ru/articles/847702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847702)
 - [Как устроен сборщик метрик Android-проекта](https://habr.com/ru/companies/vk/articles/847416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847416)
