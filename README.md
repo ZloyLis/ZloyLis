@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BMP Show или о том, как я делал тестовое](https://habr.com/ru/articles/847738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847738)
 - [Навигация по вызовам финтех разработки: от соблюдения норм до безопасности](https://habr.com/ru/companies/it_monsters/articles/847720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847720)
 - [Очередной обзор очередного курса. Или как техпис на системного аналитика в «Нетологии» учился](https://habr.com/ru/articles/847702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847702)
 - [Как устроен сборщик метрик Android-проекта](https://habr.com/ru/companies/vk/articles/847416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847416)
 - [Книга: «Грокаем алгоритмы. 2-е изд.»](https://habr.com/ru/companies/piter/articles/847682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847682)
-- [[Перевод] Писать код для компьютеров сложно, ещё сложнее — писать код для людей](https://habr.com/ru/companies/ruvds/articles/847664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
