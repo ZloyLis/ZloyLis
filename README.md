@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что выбрать для типов моделей: Enums VS Tables?](https://habr.com/ru/articles/847614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847614)
+- [Как я познакомилась с Unidraw](https://habr.com/ru/companies/tbank/articles/847604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847604)
+- [Путешествие по Next.js: от ошибок с not-found до форка next-runtime-env](https://habr.com/ru/articles/847586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847586)
 - [Persistent Storage для Kubernetes на базе Linstor](https://habr.com/ru/articles/847568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847568)
 - [Быстрый доступ к VPN в iOS с помощью App Intents](https://habr.com/ru/companies/skbkontur/articles/846366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846366)
-- [Мама, я работаю в BIM](https://habr.com/ru/companies/pik_digital/articles/847550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847550)
-- [DRY-фреймворк: продолжение](https://habr.com/ru/articles/847542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847542)
-- [Causal Inference: прозрение и практика. Лекция 1. Основные понятия Causal Inference](https://habr.com/ru/companies/sberbank/articles/847382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
