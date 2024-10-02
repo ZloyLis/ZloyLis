@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Звуковой Фазовый Дальномер &lpar;Микрофон = Датчик Расстояния&rpar;](https://habr.com/ru/articles/847122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847122)
 - [Бесплатный курс компьютерной графики для детей: 11 уроков с нуля](https://habr.com/ru/companies/pixel_study/articles/847764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847764)
 - [Zero-cost Property в С++](https://habr.com/ru/articles/847754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847754)
 - [BMP Convert&amp;amp;Show или о том, как я делал тестовое](https://habr.com/ru/articles/847738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847738)
 - [Навигация по вызовам финтех разработки: от соблюдения норм до безопасности](https://habr.com/ru/companies/it_monsters/articles/847720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847720)
-- [Очередной обзор очередного курса. Или как техпис на системного аналитика в «Нетологии» учился](https://habr.com/ru/articles/847702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
