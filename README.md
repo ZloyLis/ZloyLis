@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрый доступ к VPN в iOS с помощью App Intents](https://habr.com/ru/companies/skbkontur/articles/846366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846366)
+- [Мама, я работаю в BIM](https://habr.com/ru/companies/pik_digital/articles/847550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847550)
+- [DRY-фреймворк: продолжение](https://habr.com/ru/articles/847542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847542)
 - [Causal Inference: прозрение и практика. Лекция 1. Основные понятия Causal Inference](https://habr.com/ru/companies/sberbank/articles/847382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847382)
-- [Операторы перегрузки в C++](https://habr.com/ru/companies/otus/articles/846886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846886)
 - [[Перевод] Анонс VoidZero — следующее поколение инструментария для JavaScript](https://habr.com/ru/companies/first/articles/847514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847514)
-- [[Перевод] Новый нечёткий поиск и автодополнение в Manticore Search](https://habr.com/ru/articles/847078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847078)
-- [Создатель Vue Evan You поднимает $4.6 миллиона на новом проекте](https://habr.com/ru/articles/847512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
