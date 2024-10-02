@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатель Vue Evan You поднимает $4.6 миллиона на новом проекте](https://habr.com/ru/articles/847512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847512)
 - [ТЗ, которое наконец-то вышло из-под контроля](https://habr.com/ru/articles/847496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847496)
 - [Связываем форму сайта с Telegram-ботом на чистом JavaScript за 15 минут: Полная разработка и деплой](https://habr.com/ru/companies/amvera/articles/847346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847346)
 - [Как сделать разрушение в Roblox — урок Lua для детей](https://habr.com/ru/companies/pixel_study/articles/847472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847472)
 - [Два разных способа взять ипотеку](https://habr.com/ru/articles/847422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847422)
-- [Точки соприкосновения: Java &amp;amp; GC](https://habr.com/ru/companies/jugru/articles/846308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
