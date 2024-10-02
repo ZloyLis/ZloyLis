@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Persistent Storage для Kubernetes на базе Linstor](https://habr.com/ru/articles/847568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847568)
 - [Быстрый доступ к VPN в iOS с помощью App Intents](https://habr.com/ru/companies/skbkontur/articles/846366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846366)
 - [Мама, я работаю в BIM](https://habr.com/ru/companies/pik_digital/articles/847550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847550)
 - [DRY-фреймворк: продолжение](https://habr.com/ru/articles/847542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847542)
 - [Causal Inference: прозрение и практика. Лекция 1. Основные понятия Causal Inference](https://habr.com/ru/companies/sberbank/articles/847382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847382)
-- [[Перевод] Анонс VoidZero — следующее поколение инструментария для JavaScript](https://habr.com/ru/companies/first/articles/847514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
