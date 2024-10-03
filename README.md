@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метрическая триангуляция &lpar;теория&rpar;](https://habr.com/ru/articles/847890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847890)
 - [Состояние на игре: способы монетизации под микроскопом](https://habr.com/ru/articles/847488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847488)
 - [Футбольные алгоритмы глобальной оптимизации &lpar;часть 2&rpar;](https://habr.com/ru/companies/first/articles/847866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847866)
 - [Replit Agent программиста не заменит! Или как мы пробовали писать код с помощью нейросети](https://habr.com/ru/companies/oleg-bunin/articles/847680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847680)
 - [Настройка кластера высокой доступности: PostgreSQL + &lpar;Patroni и etcd&rpar;](https://habr.com/ru/companies/jetinfosystems/articles/847872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847872)
-- [Как мы обучаем коллег исследованиям: подход ecom.tech](https://habr.com/ru/companies/ecom_tech/articles/847524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
