@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как встроить систему приглашений в свое приложение с помощью Laravel и GraphQL](https://habr.com/ru/companies/ru_mts/articles/847938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847938)
+- [Новые языки для облачных вычислений — от управления конфигурациями до диалекта Python](https://habr.com/ru/companies/mws/articles/847734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847734)
+- [Postman: почтальон на страже API](https://habr.com/ru/companies/banki/articles/847946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847946)
 - [[Перевод] Некоторые малоизвестные фичи, фокусы и причуды языка C](https://habr.com/ru/articles/847996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847996)
 - [Как работать со стейкхолдерами ИТ-проекта](https://habr.com/ru/articles/847984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847984)
-- [Что интересного в React 18](https://habr.com/ru/companies/surfstudio/articles/847978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847978)
-- [Изменения и как их преподнести команде](https://habr.com/ru/companies/rostelecom/articles/847968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847968)
-- [Типы в программировании как математические множества](https://habr.com/ru/articles/847958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
