@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Типы в программировании как математические множества](https://habr.com/ru/articles/847958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847958)
+- [Игры, которые помогают понять абстракции](https://habr.com/ru/articles/814871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814871)
+- [Как у нейросетей работает внимание? Статья про self-attention и cross-attention](https://habr.com/ru/articles/847698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847698)
+- [PostgreSQL &#39;VALUES -&amp;gt; ANY&#39; transformation: должна ли СУБД делать работу за пользователя?](https://habr.com/ru/articles/847940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847940)
 - [Книга: «Паттерны проектирования JavaScript»](https://habr.com/ru/companies/piter/articles/845702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845702)
-- [[Перевод] Новый подход к безопасному управлению состояниями в Kotlin-приложениях](https://habr.com/ru/companies/otus/articles/847888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847888)
-- [Standoff-онбординг: знакомство, фишинг и взлом внешнего периметра](https://habr.com/ru/companies/pt/articles/847464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847464)
-- [Метрическая триангуляция &lpar;теория&rpar;](https://habr.com/ru/articles/847890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847890)
-- [Состояние на игре: способы монетизации под микроскопом](https://habr.com/ru/articles/847488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
