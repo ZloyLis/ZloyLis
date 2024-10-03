@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Causal Inference: прозрение и практика. Лекция 2. Рандомизированные контролируемые испытания](https://habr.com/ru/companies/sberbank/articles/847406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847406)
+- [Обзор k8sgpt: как искусственный интеллект помогает обучать DevOps-инженеров](https://habr.com/ru/companies/flant/articles/845874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845874)
 - [Как мы ищем деградации на нодах в кластерах Kubernetes](https://habr.com/ru/companies/avito/articles/847466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847466)
 - [Как реализовать спойлер-эффект как в Telegram на Swift?](https://habr.com/ru/articles/847236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847236)
 - [Как мы делали поддержку PostgreSQL](https://habr.com/ru/companies/cyberprotect/articles/847810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847810)
-- [Telegram bot который принимает фотографии и публикует их](https://habr.com/ru/articles/847808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847808)
-- [Почему микросервисы лучше компонент или как деградируют идеи в IT](https://habr.com/ru/articles/847636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
