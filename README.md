@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему слишком быстрые мыши могут ломать FPS в играх](https://habr.com/ru/articles/846368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846368)
 - [Causal Inference: прозрение и практика. Лекция 2. Рандомизированные контролируемые испытания](https://habr.com/ru/companies/sberbank/articles/847406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847406)
 - [Обзор k8sgpt: как искусственный интеллект помогает обучать DevOps-инженеров](https://habr.com/ru/companies/flant/articles/845874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845874)
 - [Как мы ищем деградации на нодах в кластерах Kubernetes](https://habr.com/ru/companies/avito/articles/847466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847466)
 - [Как реализовать спойлер-эффект как в Telegram на Swift?](https://habr.com/ru/articles/847236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847236)
-- [Как мы делали поддержку PostgreSQL](https://habr.com/ru/companies/cyberprotect/articles/847810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
