@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Некоторые малоизвестные фичи, фокусы и причуды языка C](https://habr.com/ru/articles/847996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847996)
 - [Как работать со стейкхолдерами ИТ-проекта](https://habr.com/ru/articles/847984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847984)
 - [Что интересного в React 18](https://habr.com/ru/companies/surfstudio/articles/847978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847978)
 - [Изменения и как их преподнести команде](https://habr.com/ru/companies/rostelecom/articles/847968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847968)
 - [Типы в программировании как математические множества](https://habr.com/ru/articles/847958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847958)
-- [Игры, которые помогают понять абстракции](https://habr.com/ru/articles/814871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814871)
 <!-- BLOG-POST-LIST:END -->
 
 ---
