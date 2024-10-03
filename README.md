@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работать со стейкхолдерами ИТ-проекта](https://habr.com/ru/articles/847984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847984)
+- [Что интересного в React 18](https://habr.com/ru/companies/surfstudio/articles/847978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847978)
+- [Изменения и как их преподнести команде](https://habr.com/ru/companies/rostelecom/articles/847968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847968)
 - [Типы в программировании как математические множества](https://habr.com/ru/articles/847958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847958)
 - [Игры, которые помогают понять абстракции](https://habr.com/ru/articles/814871/?utm_source=habrahabr&utm_medium=rss&utm_campaign=814871)
-- [Как у нейросетей работает внимание? Статья про self-attention и cross-attention](https://habr.com/ru/articles/847698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847698)
-- [PostgreSQL &#39;VALUES -&amp;gt; ANY&#39; transformation: должна ли СУБД делать работу за пользователя?](https://habr.com/ru/articles/847940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847940)
-- [Книга: «Паттерны проектирования JavaScript»](https://habr.com/ru/companies/piter/articles/845702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
