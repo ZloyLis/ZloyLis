@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы ищем деградации на нодах в кластерах Kubernetes](https://habr.com/ru/companies/avito/articles/847466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847466)
+- [Как реализовать спойлер-эффект как в Telegram на Swift?](https://habr.com/ru/articles/847236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847236)
+- [Как мы делали поддержку PostgreSQL](https://habr.com/ru/companies/cyberprotect/articles/847810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847810)
+- [Telegram bot который принимает фотографии и публикует их](https://habr.com/ru/articles/847808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847808)
 - [Почему микросервисы лучше компонент или как деградируют идеи в IT](https://habr.com/ru/articles/847636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847636)
-- [Звуковой Фазовый Дальномер &lpar;Микрофон = Датчик Расстояния&rpar;](https://habr.com/ru/articles/847122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847122)
-- [Бесплатный курс компьютерной графики для детей: 11 уроков с нуля](https://habr.com/ru/companies/pixel_study/articles/847764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847764)
-- [Zero-cost Property в С++](https://habr.com/ru/articles/847754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847754)
-- [BMP Convert&amp;amp;Show или о том, как я делал тестовое](https://habr.com/ru/articles/847738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
