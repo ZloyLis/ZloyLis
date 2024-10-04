@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обход блокировки YouTube без VPN и GoodbyeDPI](https://habr.com/ru/articles/848096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848096)
 - [Кто? Что? Когда? При решении IT-задач](https://habr.com/ru/articles/848070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848070)
 - [Как создать игру PUBG: Battlegrounds в Roblox &lpar;ПАБГ&rpar; – 12 уроков](https://habr.com/ru/companies/pixel_study/articles/848062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848062)
 - [Кратко про Ensemble методы с примерами](https://habr.com/ru/companies/otus/articles/846892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846892)
 - [9 фич будущего в IDE, благодаря которым можно будет освоить любой язык программирования без курсов за 1 день](https://habr.com/ru/articles/845160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845160)
-- [Как встроить систему приглашений в свое приложение с помощью Laravel и GraphQL](https://habr.com/ru/companies/ru_mts/articles/847938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
