@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как Dart VM выполняет твой код?](https://habr.com/ru/articles/848166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848166)
-- [Скучный Интернет и как «бесполезные сайты» могут спасти от этого](https://habr.com/ru/companies/timeweb/articles/839176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839176)
-- [Предиктивная аналитика в промышленности: путь к повышению эффективности и снижению затрат](https://habr.com/ru/articles/848150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848150)
-- [Легаси 14-летней выдержки: как мы отказались от фреймворка, пронизывающего всю разработку, — и выжили](https://habr.com/ru/companies/mindbox/articles/848040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848040)
-- [Какие технологии быстрой зарядки бывают и чем они отличаются друг от друга](https://habr.com/ru/companies/x-com/articles/847916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847916)
+- [Ледибаг в деле. Как найти уязвимости в Android и попасть в топ белых хакеров Google](https://habr.com/ru/companies/pt/articles/847740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847740)
+- [Автогенерация функций выборки данных и всей сопутствующей типизации с помощью Orval](https://habr.com/ru/articles/848182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848182)
+- [Температура успеха: как X5 Tech измеряет эффективность развития IT-продуктов](https://habr.com/ru/companies/X5Tech/articles/848174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848174)
+- [Статистический анализ результатов benchmark PostgreSQL — оценка влияния bgwriter_lru_maxpages](https://habr.com/ru/articles/848134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848134)
+- [Хабр Эксперты — обращаться за консультацией стало проще и понятнее](https://habr.com/ru/companies/habr_career/articles/848170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
