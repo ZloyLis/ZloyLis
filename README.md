@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Анализ и моделирование футбольных результатов английской Премьер-лиги с использованием методов машинного обучения](https://habr.com/ru/articles/848224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848224)
+- [[Перевод] Обработка зомби-процессов в PostgreSQL: что делать?](https://habr.com/ru/articles/848220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848220)
 - [[Перевод] AI-ассистент со Spring AI &lpar;Часть I&rpar;](https://habr.com/ru/companies/spring_aio/articles/848016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848016)
 - [Ледибаг в деле. Как найти уязвимости в Android и попасть в топ белых хакеров Google](https://habr.com/ru/companies/pt/articles/847740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847740)
 - [Автогенерация функций выборки данных и всей сопутствующей типизации с помощью Orval](https://habr.com/ru/articles/848182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848182)
-- [Температура успеха: как X5 Tech измеряет эффективность развития IT-продуктов](https://habr.com/ru/companies/X5Tech/articles/848174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848174)
-- [Статистический анализ результатов benchmark PostgreSQL — оценка влияния bgwriter_lru_maxpages](https://habr.com/ru/articles/848134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
