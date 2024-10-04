@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 SDK, чтобы улучшить ваше мобильное приложение](https://habr.com/ru/companies/exolve/articles/848128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848128)
-- [Обход блокировки YouTube без VPN и GoodbyeDPI](https://habr.com/ru/articles/848096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848096)
-- [Кто? Что? Когда? При решении IT-задач](https://habr.com/ru/articles/848070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848070)
-- [Как создать игру PUBG: Battlegrounds в Roblox &lpar;ПАБГ&rpar; – 12 уроков](https://habr.com/ru/companies/pixel_study/articles/848062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848062)
-- [Кратко про Ensemble методы с примерами](https://habr.com/ru/companies/otus/articles/846892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846892)
+- [[Перевод] Как Dart VM выполняет твой код?](https://habr.com/ru/articles/848166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848166)
+- [Скучный Интернет и как «бесполезные сайты» могут спасти от этого](https://habr.com/ru/companies/timeweb/articles/839176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839176)
+- [Предиктивная аналитика в промышленности: путь к повышению эффективности и снижению затрат](https://habr.com/ru/articles/848150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848150)
+- [Легаси 14-летней выдержки: как мы отказались от фреймворка, пронизывающего всю разработку, — и выжили](https://habr.com/ru/companies/mindbox/articles/848040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848040)
+- [Какие технологии быстрой зарядки бывают и чем они отличаются друг от друга](https://habr.com/ru/companies/x-com/articles/847916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
