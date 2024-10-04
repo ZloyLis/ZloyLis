@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гиперперсонализация vs. персонализация: внедрили в маркетплейс БАДов опередили iHerb](https://habr.com/ru/articles/848288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848288)
+- [1C:Enterprise 8.3 Remote Administrative Client Utility для веб приложения](https://habr.com/ru/articles/848282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848282)
 - [Как нарисовать квадрат 3 × 3 см на веб-странице*](https://habr.com/ru/companies/yandex/articles/847000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847000)
 - [[Перевод] Что можно рассказать о функциях Python на примере кофемашины?](https://habr.com/ru/companies/piter/articles/848270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848270)
 - [Онтология и семантика](https://habr.com/ru/articles/848274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848274)
-- [CryptoHack. Решение Modular Binomials](https://habr.com/ru/articles/848252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848252)
-- [Нейронные оптимизаторы запросов в реляционных БД &lpar;Часть 2&rpar;: На пути к продуктивизации](https://habr.com/ru/companies/postgrespro/articles/848218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
