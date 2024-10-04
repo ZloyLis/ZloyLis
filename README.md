@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Онтология и семантика](https://habr.com/ru/articles/848274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848274)
 - [CryptoHack. Решение Modular Binomials](https://habr.com/ru/articles/848252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848252)
 - [Нейронные оптимизаторы запросов в реляционных БД &lpar;Часть 2&rpar;: На пути к продуктивизации](https://habr.com/ru/companies/postgrespro/articles/848218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848218)
 - [[Перевод] Анализ и моделирование футбольных результатов английской Премьер-лиги с использованием методов машинного обучения](https://habr.com/ru/articles/848224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848224)
 - [[Перевод] Обработка зомби-процессов в PostgreSQL: что делать?](https://habr.com/ru/articles/848220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848220)
-- [[Перевод] AI-ассистент со Spring AI &lpar;Часть I&rpar;](https://habr.com/ru/companies/spring_aio/articles/848016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
