@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Kodu Game Lab для детей: учимся создавать игры в 5-6 лет](https://habr.com/ru/companies/pixel_study/articles/848350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848350)
-- [Последняя миля](https://habr.com/ru/articles/848338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848338)
 - [[Перевод] Самые быстрые мьютексы](https://habr.com/ru/companies/beget/articles/848318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848318)
 - [Гиперперсонализация vs. персонализация: внедрили в маркетплейс БАДов опередили iHerb](https://habr.com/ru/articles/848288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848288)
 - [1C:Enterprise 8.3 Remote Administrative Client Utility для веб приложения](https://habr.com/ru/articles/848282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848282)
+- [Как нарисовать квадрат 3 × 3 см на веб-странице*](https://habr.com/ru/companies/yandex/articles/847000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
