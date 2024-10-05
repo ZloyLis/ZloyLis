@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Настольная библиотека HDL-дизайнера и верификатора](https://habr.com/ru/articles/848334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848334)
+- [[Перевод] Лучшее резюме из тех, что я видел](https://habr.com/ru/companies/sportmaster_lab/articles/848408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848408)
+- [Древний язык программирования обновился спустя 27 лет. Что нового в Tcl/Tk 9.0?](https://habr.com/ru/companies/selectel/articles/848078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848078)
+- [Многопоточность в NextJS: как запустить и нужно ли?](https://habr.com/ru/companies/productradar/articles/848052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848052)
+- [Настольная библиотека HDL-дизайнера и верификатора](https://habr.com/ru/companies/aquarius/articles/848334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848334)
 - [Kodu Game Lab для детей: учимся создавать игры в 5-6 лет](https://habr.com/ru/companies/pixel_study/articles/848350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848350)
-- [[Перевод] Самые быстрые мьютексы](https://habr.com/ru/companies/beget/articles/848318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848318)
-- [Гиперперсонализация vs. персонализация: внедрили в маркетплейс БАДов опередили iHerb](https://habr.com/ru/articles/848288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848288)
-- [1C:Enterprise 8.3 Remote Administrative Client Utility для веб приложения](https://habr.com/ru/articles/848282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
