@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деревья выражений на практике: динамическая фильтрация в C# с использованием Asp.NET Core](https://habr.com/ru/articles/848446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848446)
 - [[Перевод] Эффективное использование фикстур в Playwright: полное руководство](https://habr.com/ru/articles/848434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848434)
 - [Что и зачем почитать DevSecOps-у: личный опыт](https://habr.com/ru/companies/kaspersky/articles/845458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845458)
 - [Аргументы по умолчанию&lpar;мысли вслух&rpar;](https://habr.com/ru/articles/848424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848424)
 - [[Перевод] Лучшее резюме из тех, что я видел](https://habr.com/ru/companies/sportmaster_lab/articles/848408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848408)
-- [Древний язык программирования обновился спустя 27 лет. Что нового в Tcl/Tk 9.0?](https://habr.com/ru/companies/selectel/articles/848078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
