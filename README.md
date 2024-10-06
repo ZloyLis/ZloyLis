@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать игру «Счастливый сундук» в Minecraft на Python — урок для детей](https://habr.com/ru/companies/pixel_study/articles/848648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848648)
 - [Делегаты и делегированные свойства в Kotlin](https://habr.com/ru/articles/848636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848636)
 - [Создание конфигурируемого Webhook-модуля для NestJS-приложении](https://habr.com/ru/articles/848634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848634)
 - [Как перехватывают зашифрованный HTTS-трафик на мобильном устройстве](https://habr.com/ru/companies/globalsign/articles/848632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848632)
 - [Мобильная разработка за неделю #558 &lpar;30 сентября — 6 октября&rpar;](https://habr.com/ru/articles/848622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848622)
-- [Как создать комнату испытаний в Minecraft на Python – туториал для детей](https://habr.com/ru/companies/pixel_study/articles/848614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
