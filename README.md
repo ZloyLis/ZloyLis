@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Заповеди современного околоайтишника. Больше нытья, меньше работы](https://habr.com/ru/articles/848482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848482)
+- [Аутентификация через телеграм в Spring Boot приложении](https://habr.com/ru/articles/848502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848502)
 - [Ещё один набор параметров для разблокировки Ютуба: теперь мобильный](https://habr.com/ru/articles/848456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848456)
 - [Пилим движок Arcanum. Урок 03. Работа с памятью, используем полиморфные аллокаторы](https://habr.com/ru/articles/848046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848046)
 - [Деревья выражений на практике: динамическая фильтрация в C# с использованием Asp.NET Core](https://habr.com/ru/articles/848446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848446)
