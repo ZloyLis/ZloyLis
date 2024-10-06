@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы вышли на $1200 в месяц, запустив приложение для решения задач по математике за 30 дней](https://habr.com/ru/articles/848476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848476)
+- [Inertia 2.0: Новые возможности для разработчиков](https://habr.com/ru/articles/848514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848514)
 - [Аутентификация через телеграм в Spring Boot приложении](https://habr.com/ru/articles/848502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848502)
 - [Ещё один набор параметров для разблокировки Ютуба: теперь мобильный](https://habr.com/ru/articles/848456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848456)
 - [Пилим движок Arcanum. Урок 03. Работа с памятью, используем полиморфные аллокаторы](https://habr.com/ru/articles/848046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848046)
-- [Деревья выражений на практике: динамическая фильтрация в C# с использованием Asp.NET Core](https://habr.com/ru/articles/848446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848446)
-- [[Перевод] Эффективное использование фикстур в Playwright: полное руководство](https://habr.com/ru/articles/848434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
