@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #558 &lpar;30 сентября — 6 октября&rpar;](https://habr.com/ru/articles/848622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848622)
+- [Как создать комнату испытаний в Minecraft на Python – туториал для детей](https://habr.com/ru/companies/pixel_study/articles/848614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848614)
 - [Минцифры дало ответ, что действия ТБанк по получению согласия на обработку биометрии противоречат положениям закона](https://habr.com/ru/articles/848606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848606)
 - [Математика и ШАД](https://habr.com/ru/articles/848566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848566)
 - [Практика реализации Веб-ГИС приложений и сервисов на основе открытых ресурсов. Начало](https://habr.com/ru/articles/848558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848558)
-- [Vike — современный SSR-фреймворк](https://habr.com/ru/articles/848552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848552)
-- [Как мы заработали 250 000 руб, запустив простого ИИ тьютора по математике в США за 30 дней](https://habr.com/ru/articles/848534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
