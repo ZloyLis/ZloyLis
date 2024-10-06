@@ -38,7 +38,7 @@ ___
 - [Математика и ШАД](https://habr.com/ru/articles/848566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848566)
 - [Практика реализации Веб-ГИС приложений и сервисов на основе открытых ресурсов. Начало](https://habr.com/ru/articles/848558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848558)
 - [Vike — современный SSR-фреймворк](https://habr.com/ru/articles/848552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848552)
-- [Как мы заработали 250 000 руб, запустив ИИ тьютора по математике в США за 30 дней](https://habr.com/ru/articles/848534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848534)
+- [Как мы заработали 250 000 руб, запустив простого ИИ тьютора по математике в США за 30 дней](https://habr.com/ru/articles/848534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848534)
 - [Не Flipper Zero единым: хакерский мультитул из старого смартфона](https://habr.com/ru/companies/ru_mts/articles/848524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848524)
 <!-- BLOG-POST-LIST:END -->
 
