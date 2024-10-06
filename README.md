@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы вышли на $1200 в месяц, запустив приложение для решения задач по математике за 30 дней](https://habr.com/ru/articles/848476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848476)
+- [Не Flipper Zero единым: хакерский мультитул из старого смартфона](https://habr.com/ru/companies/ru_mts/articles/848524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848524)
 - [Inertia 2.0: Новые возможности для разработчиков](https://habr.com/ru/articles/848514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848514)
 - [Аутентификация через телеграм в Spring Boot приложении](https://habr.com/ru/articles/848502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848502)
 - [Ещё один набор параметров для разблокировки Ютуба: теперь мобильный](https://habr.com/ru/articles/848456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848456)
