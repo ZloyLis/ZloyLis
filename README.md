@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практика реализации Веб-ГИС приложений и сервисов на основе открытых ресурсов. Начало](https://habr.com/ru/articles/848558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848558)
+- [Vike — современный SSR-фреймворк](https://habr.com/ru/articles/848552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848552)
 - [Как мы заработали 250 000 руб, запустив ИИ тьютора по математике в США за 30 дней](https://habr.com/ru/articles/848534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848534)
 - [Не Flipper Zero единым: хакерский мультитул из старого смартфона](https://habr.com/ru/companies/ru_mts/articles/848524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848524)
 - [Inertia 2.0: Новые возможности для разработчиков](https://habr.com/ru/articles/848514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848514)
-- [Аутентификация через телеграм в Spring Boot приложении](https://habr.com/ru/articles/848502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848502)
-- [Ещё один набор параметров для разблокировки Ютуба: теперь мобильный](https://habr.com/ru/articles/848456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
