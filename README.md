@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python для детей: особенности обучения, видеоуроки, книги и другие ресурсы](https://habr.com/ru/companies/pixel_study/articles/848880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848880)
 - [Kotlin для Самых маленьких](https://habr.com/ru/articles/848860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848860)
 - [Технология и методология работы с 3D-моделями в среде общих данных строительного проекта](https://habr.com/ru/articles/848852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848852)
 - [Apple Pro Weekly News &lpar;30.09 – 06.10.24&rpar;](https://habr.com/ru/articles/848848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848848)
 - [Security Week 2441: уязвимости в роутерах DrayTek](https://habr.com/ru/companies/kaspersky/articles/848744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848744)
-- [Декодирование BPSK Модуляции из Звука](https://habr.com/ru/articles/848068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
