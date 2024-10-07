@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как грузить данные во ViewModel?](https://habr.com/ru/articles/848824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848824)
+- [О скользящих средних и медианном сглаживании](https://habr.com/ru/articles/848818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848818)
+- [PostgreSQL Antipatterns: валим «слона» — highload на ровном месте](https://habr.com/ru/companies/tensor/articles/848766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848766)
+- [Bootstrap или свое решение](https://habr.com/ru/articles/848812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848812)
 - [Горизонты высшего образования](https://habr.com/ru/articles/848764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848764)
-- [Java Digest #17](https://habr.com/ru/companies/tbank/articles/848784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848784)
-- [Регулярные выражения простыми словами. Часть 1](https://habr.com/ru/companies/selectel/articles/848114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848114)
-- [Создаем свою библиотеку на C++ с тестированием, CMake и блекджеком: часть 2](https://habr.com/ru/companies/timeweb/articles/846736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846736)
-- [Как мы в Delivery Club outbox оптимизировали](https://habr.com/ru/articles/848768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
