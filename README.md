@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Автоматическая система Netflix для восстановления заданий после сбоев, основанная на машинном обучении](https://habr.com/ru/companies/wunderfund/articles/848694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848694)
+- [[Перевод] Работа с неполными данными: как используется множественное вменение](https://habr.com/ru/articles/848618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848618)
+- [[Перевод] Интеграция библиотек C/C++ в .NET приложения с использованием P/Invoke](https://habr.com/ru/articles/848714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848714)
 - [Dagger Hilt &lpar;Для начинающих&rpar;](https://habr.com/ru/articles/848690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848690)
 - [Что такое covariant в Dart](https://habr.com/ru/articles/848426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848426)
-- [Чистый код: Начало](https://habr.com/ru/articles/838466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838466)
-- [Как я решил вернуться в алготрейдинг после 10 летнего перерыва](https://habr.com/ru/articles/846938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846938)
-- [Шеф, всё пропало](https://habr.com/ru/articles/848662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
