@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое covariant в Dart](https://habr.com/ru/articles/848426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848426)
+- [Чистый код: Начало](https://habr.com/ru/articles/838466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838466)
 - [Как я решил вернуться в алготрейдинг после 10 летнего перерыва](https://habr.com/ru/articles/846938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846938)
 - [Шеф, всё пропало](https://habr.com/ru/articles/848662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848662)
 - [Как создать игру «Счастливый сундук» в Minecraft на Python — урок для детей](https://habr.com/ru/companies/pixel_study/articles/848648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848648)
-- [Делегаты и делегированные свойства в Kotlin](https://habr.com/ru/articles/848636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848636)
-- [Создание конфигурируемого Webhook-модуля для NestJS-приложении](https://habr.com/ru/articles/848634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
