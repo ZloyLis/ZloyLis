@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Горизонты высшего образования](https://habr.com/ru/articles/848764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848764)
+- [Java Digest #17](https://habr.com/ru/companies/tbank/articles/848784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848784)
 - [Регулярные выражения простыми словами. Часть 1](https://habr.com/ru/companies/selectel/articles/848114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848114)
 - [Создаем свою библиотеку на C++ с тестированием, CMake и блекджеком: часть 2](https://habr.com/ru/companies/timeweb/articles/846736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846736)
 - [Как мы в Delivery Club outbox оптимизировали](https://habr.com/ru/articles/848768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848768)
-- [Создание компонента Apache Camel](https://habr.com/ru/companies/bft/articles/796607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796607)
-- [[Перевод] Автоматическая система Netflix для восстановления заданий после сбоев, основанная на машинном обучении](https://habr.com/ru/companies/wunderfund/articles/848694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
