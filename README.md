@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;30.09 – 06.10.24&rpar;](https://habr.com/ru/articles/848848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848848)
+- [Security Week 2441: уязвимости в роутерах DrayTek](https://habr.com/ru/companies/kaspersky/articles/848744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848744)
+- [Декодирование BPSK Модуляции из Звука](https://habr.com/ru/articles/848068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848068)
 - [Новая компьютерная программа для запоминания иностранных слов и фраз](https://habr.com/ru/articles/848836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848836)
 - [Как грузить данные во ViewModel?](https://habr.com/ru/articles/848824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848824)
-- [О скользящих средних и медианном сглаживании](https://habr.com/ru/articles/848818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848818)
-- [PostgreSQL Antipatterns: валим «слона» — highload на ровном месте](https://habr.com/ru/companies/tensor/articles/848766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848766)
-- [Bootstrap или свое решение](https://habr.com/ru/articles/848812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
