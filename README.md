@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем свою библиотеку на C++ с тестированием, CMake и блекджеком: часть 2](https://habr.com/ru/companies/timeweb/articles/846736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846736)
+- [Как мы в Delivery Club outbox оптимизировали](https://habr.com/ru/articles/848768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848768)
+- [Создание компонента Apache Camel](https://habr.com/ru/companies/bft/articles/796607/?utm_source=habrahabr&utm_medium=rss&utm_campaign=796607)
 - [[Перевод] Автоматическая система Netflix для восстановления заданий после сбоев, основанная на машинном обучении](https://habr.com/ru/companies/wunderfund/articles/848694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848694)
 - [[Перевод] Работа с неполными данными: как используется множественное вменение](https://habr.com/ru/articles/848618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848618)
-- [[Перевод] Интеграция библиотек C/C++ в .NET приложения с использованием P/Invoke](https://habr.com/ru/articles/848714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848714)
-- [Dagger Hilt &lpar;Для начинающих&rpar;](https://habr.com/ru/articles/848690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848690)
-- [Что такое covariant в Dart](https://habr.com/ru/articles/848426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
