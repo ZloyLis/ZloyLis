@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как интегрировать синхронный код в асинхронный. Инструкция](https://habr.com/ru/companies/first/articles/848976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848976)
 - [PARI/GP: как посчитать что-то просто, точно и параллельно](https://habr.com/ru/companies/ruvds/articles/848650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848650)
 - [Функциональное тестирование Kubernetes Operators с Kubebuilder](https://habr.com/ru/companies/otus/articles/848582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848582)
 - [ИПР — то, чем вы сможете похвастаться на собеседовании или в баре](https://habr.com/ru/companies/habr_career/articles/848752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848752)
 - [Тестируем интеграцию с очередями сообщений правильно](https://habr.com/ru/articles/848936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848936)
-- [Что нас ждет в Next.js 15: обзор заявленных новинок](https://habr.com/ru/companies/spectr/articles/848922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
