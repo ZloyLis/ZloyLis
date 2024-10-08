@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеальный Продакт Овнер. Как такого найти?](https://habr.com/ru/articles/848904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848904)
 - [Веб-доступность. Бесконечная лента](https://habr.com/ru/articles/848900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848900)
 - [Пара примеров возможного практического применения интернет страничек «без хостинга»](https://habr.com/ru/articles/848894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848894)
 - [Этическая идентичность программистов: как навигация в мире эко-программирования в условиях технологического прогресса](https://habr.com/ru/articles/848884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848884)
 - [Python для детей: особенности обучения, видеоуроки, книги и другие ресурсы](https://habr.com/ru/companies/pixel_study/articles/848880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848880)
-- [Kotlin для Самых маленьких](https://habr.com/ru/articles/848860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
