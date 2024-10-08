@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ошибаться и учиться на реальных задачах: как еще студентом получить опыт работы с FPGA и ядрами микроконтроллера](https://habr.com/ru/companies/yadro/articles/848830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848830)
+- [Разработка онлайн-сервиса музея ЗИЛ от идеи до реализации](https://habr.com/ru/articles/849052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849052)
+- [Что такое Home-виджеты и как их подружить с вашим приложением на Flutter](https://habr.com/ru/companies/agima/articles/848988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848988)
 - [Тестирование процессов BPMN-схемы Camunda в изоляции](https://habr.com/ru/companies/simbirsoft/articles/849000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849000)
 - [[Перевод] «Мы вступаем на неизведанную территорию математики» — Теренс Тао, математик, обладатель Филдсовской премии](https://habr.com/ru/articles/849026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849026)
 - [Как интегрировать синхронный код в асинхронный. Инструкция](https://habr.com/ru/companies/first/articles/848976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848976)
-- [PARI/GP: как посчитать что-то просто, точно и параллельно](https://habr.com/ru/companies/ruvds/articles/848650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
