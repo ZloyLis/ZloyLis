@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Функциональное тестирование Kubernetes Operators с Kubebuilder](https://habr.com/ru/companies/otus/articles/848582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848582)
+- [ИПР — то, чем вы сможете похвастаться на собеседовании или в баре](https://habr.com/ru/companies/habr_career/articles/848752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848752)
+- [Тестируем интеграцию с очередями сообщений правильно](https://habr.com/ru/articles/848936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848936)
 - [Что нас ждет в Next.js 15: обзор заявленных новинок](https://habr.com/ru/companies/spectr/articles/848922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848922)
 - [Язык BCPL из которого получился C](https://habr.com/ru/articles/848870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848870)
-- [Такие разные «плюсы»: моя карьера разработчика C++ в «Коде безопасности», Яндексе и Huawei](https://habr.com/ru/companies/yandex_praktikum/articles/846186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846186)
-- [Матрицы Паули. Финал](https://habr.com/ru/articles/848470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848470)
-- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок](https://habr.com/ru/companies/amvera/articles/848644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
