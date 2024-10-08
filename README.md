@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать игру Tycoon &lpar;Тайкон&rpar; в Roblox – туториал для детей](https://habr.com/ru/companies/pixel_study/articles/849174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849174)
 - [@Volatile: Лёгкий способ синхронизировать потоки… пока не понадобится атомарность](https://habr.com/ru/companies/otus/articles/848342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848342)
 - [[Перевод] Туториал по Spring Data Envers для начинающих](https://habr.com/ru/companies/spring_aio/articles/849086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849086)
 - [Разработка онлайн-сервиса музея ЗИЛ от идеи до реализации](https://habr.com/ru/articles/849052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849052)
 - [Что такое Home-виджеты и как их подружить с вашим приложением на Flutter](https://habr.com/ru/companies/agima/articles/848988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848988)
-- [Тестирование процессов BPMN-схемы Camunda в изоляции](https://habr.com/ru/companies/simbirsoft/articles/849000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
