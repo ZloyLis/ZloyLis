@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык BCPL из которого получился C](https://habr.com/ru/articles/848870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848870)
+- [Такие разные «плюсы»: моя карьера разработчика C++ в «Коде безопасности», Яндексе и Huawei](https://habr.com/ru/companies/yandex_praktikum/articles/846186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846186)
+- [Матрицы Паули. Финал](https://habr.com/ru/articles/848470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848470)
+- [Telegram Web App, FastAPI и вебхуки в одном приложении: Создаем Telegram-бот с веб-интерфейсом для приема заявок](https://habr.com/ru/companies/amvera/articles/848644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848644)
 - [Идеальный Продакт Овнер. Как такого найти?](https://habr.com/ru/articles/848904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848904)
-- [Веб-доступность. Бесконечная лента](https://habr.com/ru/articles/848900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848900)
-- [Пара примеров возможного практического применения интернет страничек «без хостинга»](https://habr.com/ru/articles/848894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848894)
-- [Этическая идентичность программистов: как навигация в мире эко-программирования в условиях технологического прогресса](https://habr.com/ru/articles/848884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848884)
-- [Python для детей: особенности обучения, видеоуроки, книги и другие ресурсы](https://habr.com/ru/companies/pixel_study/articles/848880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
