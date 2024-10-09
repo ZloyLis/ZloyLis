@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Откройте для себя весь потенциал AbortController](https://habr.com/ru/companies/timeweb/articles/848126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848126)
-- [Valkey: миллион RPS c напёрстком дёгтя](https://habr.com/ru/articles/849264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849264)
-- [Адаптация прошивки USB GPIO EXTENDER T под нужды Микротик](https://habr.com/ru/articles/849246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849246)
-- [Как отправлять SMS из Битрикс24 и Tilda](https://habr.com/ru/companies/exolve/articles/849238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849238)
-- [Figma AI. Наконец завезли нейронку](https://habr.com/ru/articles/849236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849236)
+- [Гидравлическое сопротивление трубопроводов. Интересный альтернативный метод расчета Черникина А.В](https://habr.com/ru/articles/849302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849302)
+- [Уже сложно определить фундаментальную разницу между IT в промышленности и Интернет](https://habr.com/ru/companies/oleg-bunin/articles/849290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849290)
+- [В поиске собственных значений &lpar;матриц&rpar;](https://habr.com/ru/companies/ruvds/articles/845652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845652)
+- [PPSSPP или всё же PSP?](https://habr.com/ru/companies/pvs-studio/articles/849288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849288)
+- [Лучший способ создания нескольких окружений для Spring Boot приложения с помощью Docker Compose](https://habr.com/ru/companies/haulmont/articles/848696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
