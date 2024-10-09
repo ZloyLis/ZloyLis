@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Откройте для себя весь потенциал AbortController](https://habr.com/ru/companies/timeweb/articles/848126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848126)
+- [Valkey: миллион RPS c напёрстком дёгтя](https://habr.com/ru/articles/849264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849264)
+- [Адаптация прошивки USB GPIO EXTENDER T под нужды Микротик](https://habr.com/ru/articles/849246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849246)
 - [Как отправлять SMS из Битрикс24 и Tilda](https://habr.com/ru/companies/exolve/articles/849238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849238)
 - [Figma AI. Наконец завезли нейронку](https://habr.com/ru/articles/849236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849236)
-- [Rust-Bert: высокопроизводительные NLP-пайплайны на Rust](https://habr.com/ru/companies/otus/articles/848292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848292)
-- [ecs, dynvtbl, логические потоки и Фараон](https://habr.com/ru/articles/849152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849152)
-- [Как создать игру Tycoon &lpar;Тайкон&rpar; в Roblox – туториал для детей](https://habr.com/ru/companies/pixel_study/articles/849174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
