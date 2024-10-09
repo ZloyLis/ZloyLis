@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как отправлять SMS из Битрикс24 и Tilda](https://habr.com/ru/companies/exolve/articles/849238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849238)
 - [Figma AI. Наконец завезли нейронку](https://habr.com/ru/articles/849236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849236)
 - [Rust-Bert: высокопроизводительные NLP-пайплайны на Rust](https://habr.com/ru/companies/otus/articles/848292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848292)
 - [ecs, dynvtbl, логические потоки и Фараон](https://habr.com/ru/articles/849152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849152)
 - [Как создать игру Tycoon &lpar;Тайкон&rpar; в Roblox – туториал для детей](https://habr.com/ru/companies/pixel_study/articles/849174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849174)
-- [@Volatile: Лёгкий способ синхронизировать потоки… пока не понадобится атомарность](https://habr.com/ru/companies/otus/articles/848342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
