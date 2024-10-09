@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [35 образовательных игр и приложений по программированию для детей](https://habr.com/ru/companies/pixel_study/articles/849538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849538)
+- [Как математически просчитать градиент цветовой палитры](https://habr.com/ru/articles/849534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849534)
 - [Разработчики dzen.ru, что с вами не так?](https://habr.com/ru/articles/840952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840952)
 - [Чем роль продуктового дизайнера отличается от роли UX/UI-дизайнера. Показываю на практике](https://habr.com/ru/articles/849526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849526)
 - [Усиление PostgreSQL с помощью PL/Python](https://habr.com/ru/companies/otus/articles/848802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848802)
-- [[Перевод] 10 концепций JavaScript, которыми должен овладеть каждый разработчик Node.js](https://habr.com/ru/companies/bothub/articles/849464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849464)
-- [Keycloak. Мапинг учеток через mTLS c двойной проверкой сертификатов в kubernetes](https://habr.com/ru/companies/kaspersky/articles/846326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
