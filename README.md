@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 10 концепций JavaScript, которыми должен овладеть каждый разработчик Node.js](https://habr.com/ru/companies/bothub/articles/849464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849464)
+- [Keycloak. Мапинг учеток через mTLS c двойной проверкой в kubernetes](https://habr.com/ru/companies/kaspersky/articles/846326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846326)
 - [Посмотрим на never с разных сторон?](https://habr.com/ru/articles/849074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849074)
 - [Рабочая C++ IDE в docker container](https://habr.com/ru/articles/849432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849432)
 - [Как улучшить качество WebRTC-звонков на примере сервиса VK Звонки](https://habr.com/ru/companies/vk/articles/846634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846634)
-- [Клуб охотников за ошибками: а что вы знаете о современном багхантинге?](https://habr.com/ru/specials/849390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849390)
-- [Курсы врут? Уникальные торговые предложения](https://habr.com/ru/articles/849410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
