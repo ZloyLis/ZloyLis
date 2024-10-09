@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Посмотрим на never с разных сторон?](https://habr.com/ru/articles/849074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849074)
+- [Рабочая C++ IDE в docker container](https://habr.com/ru/articles/849432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849432)
+- [Как улучшить качество WebRTC-звонков на примере сервиса VK Звонки](https://habr.com/ru/companies/vk/articles/846634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=846634)
 - [Клуб охотников за ошибками: а что вы знаете о современном багхантинге?](https://habr.com/ru/specials/849390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849390)
 - [Курсы врут? Уникальные торговые предложения](https://habr.com/ru/articles/849410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849410)
-- [Content Security Policy &lpar;CSP&rpar; защитит от js-снифферов и утечек?](https://habr.com/ru/articles/849402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849402)
-- [tokeon.ru: почему SRE?](https://habr.com/ru/articles/849366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849366)
-- [История одного ядра от Андрея Туманина: «Без нашего ядра всё было бы по-другому»](https://habr.com/ru/companies/ascon/articles/843768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
