@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [tokeon.ru: почему SRE?](https://habr.com/ru/articles/849366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849366)
+- [История одного ядра от Андрея Туманина: «Без нашего ядра всё было бы по-другому»](https://habr.com/ru/companies/ascon/articles/843768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843768)
+- [Принципы SOLID на примерах из жизни и разработки](https://habr.com/ru/articles/849350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849350)
 - [Гидравлическое сопротивление трубопроводов. Интересный альтернативный метод расчета Черникина А.В](https://habr.com/ru/articles/849302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849302)
 - [Уже сложно определить фундаментальную разницу между IT в промышленности и Интернет](https://habr.com/ru/companies/oleg-bunin/articles/849290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849290)
-- [В поиске собственных значений &lpar;матриц&rpar;](https://habr.com/ru/companies/ruvds/articles/845652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845652)
-- [PPSSPP или всё же psp? Смотрим баги в коде из будущего](https://habr.com/ru/companies/pvs-studio/articles/849288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849288)
-- [Лучший способ создания нескольких окружений для Spring Boot приложения с помощью Docker Compose](https://habr.com/ru/companies/haulmont/articles/848696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
