@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Клуб охотников за ошибками: а что вы знаете о современном багхантинге?](https://habr.com/ru/specials/849390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849390)
+- [Курсы врут? Уникальные торговые предложения](https://habr.com/ru/articles/849410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849410)
 - [Content Security Policy &lpar;CSP&rpar; защитит от js-снифферов и утечек?](https://habr.com/ru/articles/849402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849402)
 - [tokeon.ru: почему SRE?](https://habr.com/ru/articles/849366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849366)
 - [История одного ядра от Андрея Туманина: «Без нашего ядра всё было бы по-другому»](https://habr.com/ru/companies/ascon/articles/843768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843768)
-- [Принципы SOLID на примерах из жизни и разработки](https://habr.com/ru/articles/849350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849350)
-- [Гидравлическое сопротивление трубопроводов. Интересный альтернативный метод расчета Черникина А.В](https://habr.com/ru/articles/849302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
