@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интегральная статистика: любой маркетолог и продакт отдаст за это душу](https://habr.com/ru/articles/849672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849672)
 - [Как адаптировать нового сотрудника? Три правила онбординга](https://habr.com/ru/companies/pgk/articles/848736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848736)
 - [Как ИИ поможет создавать учебные курсы](https://habr.com/ru/companies/spbifmo/articles/849656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849656)
-- [DevOps Challenge: восстановить работу экземпляра MySQL](https://habr.com/ru/companies/kts/articles/849604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849604)
+- [DevOps Challenge: восстановите работу MySQL и выиграйте крутой мерч](https://habr.com/ru/companies/kts/articles/849604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849604)
 - [Как зеленый Леруа Мерлен стал желтым Лемана ПРО](https://habr.com/ru/companies/leroy_merlin/articles/836820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836820)
-- [Новый оператор безопасного присваивания в JavaScript: ?=](https://habr.com/ru/companies/domclick/articles/848118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
