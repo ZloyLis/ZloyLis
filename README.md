@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Корреляционный анализа для определения причин деградации производительности СУБД](https://habr.com/ru/articles/849778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849778)
+- [Пример создания Full Stack проекта, используя функциональное тестирование как инструмент дизайна&lpar;продолжение&rpar;](https://habr.com/ru/articles/849770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849770)
+- [Корреляционный анализ для определения причин деградации производительности СУБД](https://habr.com/ru/articles/849778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849778)
 - [Как TikTok бустит монетизацию, шеринг контента и количество сессий с помощью геймификации](https://habr.com/ru/articles/849476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849476)
 - [Как завалить проект и карьеру: 10+ вредных советов разработчику от менеджеров и сеньоров](https://habr.com/ru/companies/kaspersky/articles/826178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826178)
 - [Erlang — классный функциональный язык &lpar;или как мы сели в лужу&rpar;](https://habr.com/ru/articles/849758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849758)
-- [[Перевод] Вышел Spring AI 1.0.0 M3](https://habr.com/ru/companies/spring_aio/articles/849752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
