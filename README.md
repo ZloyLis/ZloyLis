@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три распространенных ошибки с метриками Kubernetes в PromQL](https://habr.com/ru/companies/vk/articles/849606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849606)
+- [Как я написал бота для саммари telegram каналов](https://habr.com/ru/articles/849532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849532)
 - [Unidraw — замена Miro — проникает в наши дела](https://habr.com/ru/companies/tbank/articles/849720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849720)
 - [Selenoid на Android – от А до Я](https://habr.com/ru/companies/okko/articles/848366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848366)
 - [Контроль привычек на запястье: как Mi Smart Band 7 поможет не забывать важное](https://habr.com/ru/companies/selectel/articles/849040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849040)
-- [Разбираемся в статусах кеша CDN](https://habr.com/ru/companies/cdnnow/articles/849674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849674)
-- [Интегральная статистика: любой маркетолог и продакт отдаст за это душу](https://habr.com/ru/articles/849672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
