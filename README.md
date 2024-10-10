@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Unidraw — замена Miro — проникает в наши дела](https://habr.com/ru/companies/tbank/articles/849720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849720)
+- [Selenoid на Android – от А до Я](https://habr.com/ru/companies/okko/articles/848366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848366)
+- [Контроль привычек на запястье: как Mi Smart Band 7 поможет не забывать важное](https://habr.com/ru/companies/selectel/articles/849040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849040)
+- [Разбираемся в статусах кеша CDN](https://habr.com/ru/companies/cdnnow/articles/849674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849674)
 - [Интегральная статистика: любой маркетолог и продакт отдаст за это душу](https://habr.com/ru/articles/849672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849672)
-- [Как адаптировать нового сотрудника? Три правила онбординга](https://habr.com/ru/companies/pgk/articles/848736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848736)
-- [Как ИИ поможет создавать учебные курсы](https://habr.com/ru/companies/spbifmo/articles/849656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849656)
-- [DevOps Challenge: восстановите работу MySQL и выиграйте крутой мерч](https://habr.com/ru/companies/kts/articles/849604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849604)
-- [Как зеленый Леруа Мерлен стал желтым Лемана ПРО](https://habr.com/ru/companies/leroy_merlin/articles/836820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
