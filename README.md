@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Challenge: восстановить работу экземпляра MySQL](https://habr.com/ru/companies/kts/articles/849604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849604)
+- [Как зеленый Леруа Мерлен стал желтым Лемана ПРО](https://habr.com/ru/companies/leroy_merlin/articles/836820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836820)
 - [Новый оператор безопасного присваивания в JavaScript: ?=](https://habr.com/ru/companies/domclick/articles/848118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848118)
 - [Еще один язык разметки для аналитиков](https://habr.com/ru/articles/849622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849622)
 - [Рецензия на книгу “Flutter и Dart. Сборник рецептов: Разработка полнофункциональных облачных приложений”](https://habr.com/ru/companies/ssp-soft/articles/849618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849618)
-- [Managed Kubernetes на выделенных серверах, процессоры Intel и другие апдейты: что нового в сентябре](https://habr.com/ru/companies/selectel/articles/849292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849292)
-- [[Перевод] Риски перехода на 64-битный time_t](https://habr.com/ru/articles/847744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
