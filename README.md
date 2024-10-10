@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как TikTok бустит монетизацию, шеринг контента и количество сессий с помощью геймификации](https://habr.com/ru/articles/849476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849476)
+- [Как завалить проект и карьеру: 10+ вредных советов разработчику от менеджеров и сеньоров](https://habr.com/ru/companies/kaspersky/articles/826178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=826178)
 - [Erlang — классный функциональный язык &lpar;или как мы сели в лужу&rpar;](https://habr.com/ru/articles/849758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849758)
 - [[Перевод] Вышел Spring AI 1.0.0 M3](https://habr.com/ru/companies/spring_aio/articles/849752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849752)
 - [Три распространенных ошибки с метриками Kubernetes в PromQL](https://habr.com/ru/companies/vk/articles/849606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849606)
-- [Как я написал бота для саммари telegram каналов](https://habr.com/ru/articles/849532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849532)
-- [Unidraw — замена Miro — проникает в наши дела](https://habr.com/ru/companies/tbank/articles/849720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
