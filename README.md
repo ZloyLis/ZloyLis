@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как построить качественный процесс тестирования на проекте и собрать правильную команду QA](https://habr.com/ru/companies/clevertec/articles/849102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849102)
-- [Авто-трекинг производительности Room Database](https://habr.com/ru/companies/wildberries/articles/849068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849068)
-- [Анонимная сеть в 100 строк кода на Go](https://habr.com/ru/articles/849552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849552)
-- [35 образовательных игр и приложений по программированию для детей](https://habr.com/ru/companies/pixel_study/articles/849538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849538)
-- [Как математически просчитать градиент цветовой палитры](https://habr.com/ru/articles/849534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849534)
+- [Новый оператор безопасного присваивания в JavaScript: ?=](https://habr.com/ru/companies/domclick/articles/848118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848118)
+- [Еще один язык разметки для аналитиков](https://habr.com/ru/articles/849622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849622)
+- [Рецензия на книгу “Flutter и Dart. Сборник рецептов: Разработка полнофункциональных облачных приложений”](https://habr.com/ru/companies/ssp-soft/articles/849618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849618)
+- [Managed Kubernetes на выделенных серверах, процессоры Intel и другие апдейты: что нового в сентябре](https://habr.com/ru/companies/selectel/articles/849292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849292)
+- [[Перевод] Риски перехода на 64-битный time_t](https://habr.com/ru/articles/847744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
