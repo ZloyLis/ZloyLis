@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить качественный процесс тестирования на проекте и собрать правильную команду QA](https://habr.com/ru/companies/clevertec/articles/849102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849102)
+- [Авто-трекинг производительности Room Database](https://habr.com/ru/companies/wildberries/articles/849068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849068)
 - [Анонимная сеть в 100 строк кода на Go](https://habr.com/ru/articles/849552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849552)
 - [35 образовательных игр и приложений по программированию для детей](https://habr.com/ru/companies/pixel_study/articles/849538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849538)
 - [Как математически просчитать градиент цветовой палитры](https://habr.com/ru/articles/849534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849534)
-- [Разработчики dzen.ru, что с вами не так?](https://habr.com/ru/articles/840952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840952)
-- [Чем роль продуктового дизайнера отличается от роли UX/UI-дизайнера. Показываю на практике](https://habr.com/ru/articles/849526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
