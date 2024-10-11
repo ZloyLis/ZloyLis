@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор готовых решений для построения портала IDP и когда они не подходят: анализ на примере кейса компании Evrone](https://habr.com/ru/companies/vk/articles/849630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849630)
-- [25 000 зрителей, 6 000 соло-участников и 138 команд в киберучениях — как прошел CyberCamp 2024](https://habr.com/ru/companies/jetinfosystems/articles/850032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850032)
-- [SMS-автоответчик с обновлением статуса: еще один канал связи для клиентов, которым мало интернета и звонков](https://habr.com/ru/companies/ru_mts/articles/850006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850006)
-- [Используем Buildpacks вместо Dockerfile](https://habr.com/ru/companies/beeline_cloud/articles/850026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850026)
-- [Кто такие чаптер-лиды и зачем они хэду](https://habr.com/ru/articles/849972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849972)
+- [Приключение на 20 минут. Часть 1: автоматизируем запуск проектов в SoapUI](https://habr.com/ru/companies/bercut/articles/848286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848286)
+- [Топология в анализе данных?](https://habr.com/ru/articles/850090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850090)
+- [Бизнес-сериал: формируем BI-систему в строительстве почти в прямом эфире. Часть II](https://habr.com/ru/companies/sminex_developer/articles/849938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849938)
+- [Когда нужен TypeScript: введение в мир надежного программирования](https://habr.com/ru/companies/alfa/articles/849850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849850)
+- [Сага об агенте или как LLM может помочь в разработке на Jmix](https://habr.com/ru/companies/haulmont/articles/850078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
