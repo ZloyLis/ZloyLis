@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание списка выбора конфигураций 1С, опубликованных как веб-приложения](https://habr.com/ru/articles/849858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849858)
 - [Spring Patterns. Часть 2. Spring + ThreadLocal. AOP. Transaction cache](https://habr.com/ru/articles/849832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849832)
 - [Программирование для подростков: выбор направления и советы преподавателей](https://habr.com/ru/companies/pixel_study/articles/849838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849838)
 - [Пример создания Full Stack проекта c использованием функционального тестирования как инструмента дизайна &lpar;продолжение&rpar;](https://habr.com/ru/articles/849770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849770)
 - [Корреляционный анализ для определения причин деградации производительности СУБД](https://habr.com/ru/articles/849778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849778)
-- [Как TikTok бустит монетизацию, шеринг контента и количество сессий с помощью геймификации](https://habr.com/ru/articles/849476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
