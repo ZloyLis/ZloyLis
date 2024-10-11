@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SoundCloud Api или как пример «плохой» документации](https://habr.com/ru/articles/850116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850116)
+- [Физика + нейросети: суть алгоритма, который принёс Хинтону и Хопфилду Нобелевскую премию](https://habr.com/ru/companies/redmadrobot/articles/850112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850112)
 - [ConcurrentBag в C#](https://habr.com/ru/companies/otus/articles/849142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849142)
 - [Производительность СУБД — расчет метрики, временной анализ, параметрическая оптимизация](https://habr.com/ru/articles/850106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850106)
 - [PHP и Laravel дайджест новостей за сентябрь 2024 года](https://habr.com/ru/articles/850098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850098)
-- [Приключение на 20 минут. Часть 1: автоматизируем запуск проектов в SoapUI](https://habr.com/ru/companies/bercut/articles/848286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848286)
-- [Топология в нейросетях?](https://habr.com/ru/articles/850090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
