@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в PVS-Studio для Unreal Engine?](https://habr.com/ru/companies/pvs-studio/articles/849896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849896)
+- [REST API и архитектура сервиса](https://habr.com/ru/articles/849890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849890)
 - [Отбор на соревнование МТС &lpar;TrueTechArena&rpar; — противоречивые впечатления](https://habr.com/ru/articles/849886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849886)
 - [Основы интеграции информационных систем. Часть 2. GraphQL, gRPC, WebSocket, webhook, брокеры сообщений](https://habr.com/ru/articles/849852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849852)
 - [Как мы запустили автоматическую модерацию видео в объявлениях Авито](https://habr.com/ru/companies/avito/articles/849748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849748)
-- [Создание списка выбора конфигураций 1С, опубликованных как веб-приложения](https://habr.com/ru/articles/849858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849858)
-- [Spring Patterns. Часть 2. Spring + ThreadLocal. AOP. Transaction cache](https://habr.com/ru/articles/849832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
