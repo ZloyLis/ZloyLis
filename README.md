@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP и Laravel дайджест новостей за сентябрь 2024 года](https://habr.com/ru/articles/850098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850098)
 - [Приключение на 20 минут. Часть 1: автоматизируем запуск проектов в SoapUI](https://habr.com/ru/companies/bercut/articles/848286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848286)
-- [Топология в анализе данных?](https://habr.com/ru/articles/850090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850090)
+- [Топология в нейросетях?](https://habr.com/ru/articles/850090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850090)
 - [Бизнес-сериал: формируем BI-систему в строительстве почти в прямом эфире. Часть II](https://habr.com/ru/companies/sminex_developer/articles/849938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849938)
 - [Когда нужен TypeScript: введение в мир надежного программирования](https://habr.com/ru/companies/alfa/articles/849850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849850)
-- [Сага об агенте или как LLM может помочь в разработке на Jmix](https://habr.com/ru/companies/haulmont/articles/850078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
