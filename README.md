@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript для детей: ТОП-20 полезных ресурсов по программированию](https://habr.com/ru/companies/pixel_study/articles/850128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850128)
 - [SoundCloud Api или как пример «плохой» документации](https://habr.com/ru/articles/850116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850116)
 - [Физика + нейросети: суть алгоритма, который принёс Хинтону и Хопфилду Нобелевскую премию](https://habr.com/ru/companies/redmadrobot/articles/850112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850112)
 - [ConcurrentBag в C#](https://habr.com/ru/companies/otus/articles/849142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849142)
 - [Производительность СУБД — расчет метрики, временной анализ, параметрическая оптимизация](https://habr.com/ru/articles/850106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850106)
-- [PHP и Laravel дайджест новостей за сентябрь 2024 года](https://habr.com/ru/articles/850098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
