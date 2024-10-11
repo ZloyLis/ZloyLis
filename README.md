@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор готовых решений для построения портала IDP и когда они не подходят: анализ на примере кейса компании Evrone](https://habr.com/ru/companies/vk/articles/849630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849630)
 - [25 000 зрителей, 6 000 соло-участников и 138 команд в киберучениях — как прошел CyberCamp 2024](https://habr.com/ru/companies/jetinfosystems/articles/850032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850032)
 - [SMS-автоответчик с обновлением статуса: еще один канал связи для клиентов, которым мало интернета и звонков](https://habr.com/ru/companies/ru_mts/articles/850006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850006)
 - [Используем Buildpacks вместо Dockerfile](https://habr.com/ru/companies/beeline_cloud/articles/850026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850026)
 - [Кто такие чаптер-лиды и зачем они хэду](https://habr.com/ru/articles/849972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849972)
-- [Рейтинг инструментов BPMN](https://habr.com/ru/articles/849948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
