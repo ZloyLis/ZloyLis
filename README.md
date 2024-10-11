@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рейтинг инструментов BPMN](https://habr.com/ru/articles/849948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849948)
+- [[Перевод] История Git: на этот раз не так весело](https://habr.com/ru/companies/sravni/articles/849150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849150)
 - [Standoff-онбординг: взлом внутреннего периметра, АСУ ТП и матрица MITRE ATT&amp;amp;CK](https://habr.com/ru/companies/pt/articles/849918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849918)
 - [Балуемся кластеризацией и синхронизацией: как устроена мгновенная загрузка фото в Яндекс Диске](https://habr.com/ru/companies/yandex/articles/849584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849584)
 - [14 инструментов для генерации изображений с кодом](https://habr.com/ru/articles/849936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849936)
-- [Будущее наступило, восстание машин уже идёт. Просто ползучим методом](https://habr.com/ru/articles/848878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848878)
-- [Ошибаться и учиться на реальных задачах: как студенты получают опыт работы с FPGA и процессорными ядрами](https://habr.com/ru/companies/yadro/articles/849404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
