@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Оптимизация парсера/компилятора при помощи дата-ориентированного проектирования: разбор кейса](https://habr.com/ru/companies/timeweb/articles/850066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850066)
+- [[Перевод] Почему GitHub на самом деле победил: история глазами сооснователя](https://habr.com/ru/companies/flant/articles/847650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847650)
 - [Асинхронный SQLAlchemy 2: простой пошаговый гайд по настройке, моделям, связям и миграциям с использованием Alembic](https://habr.com/ru/companies/amvera/articles/849836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849836)
 - [Server Side Rendering на Go](https://habr.com/ru/articles/848640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848640)
 - [JavaScript для детей: ТОП-20 полезных ресурсов по программированию](https://habr.com/ru/companies/pixel_study/articles/850128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850128)
-- [SoundCloud Api или как пример «плохой» документации](https://habr.com/ru/articles/850116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850116)
-- [Физика + нейросети: суть алгоритма, который принёс Хинтону и Хопфилду Нобелевскую премию](https://habr.com/ru/companies/redmadrobot/articles/850112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
