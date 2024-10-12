@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres, как настроить запросы между разными БД](https://habr.com/ru/articles/850236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850236)
+- [Как найти своего идеального QA и отсеять жертв инфоцыганских курсов](https://habr.com/ru/articles/850230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850230)
 - [История одного модального окна или переходим с UIKit на SwiftUI. Часть 1](https://habr.com/ru/articles/848972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848972)
 - [Что ждёт IT-отрасль в будущем? Расскажет ректор РосНОУ Владимир Зернов](https://habr.com/ru/articles/850202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850202)
 - [Как Generative AI может помочь в подготовке к собеседованию для ИТ специалистов](https://habr.com/ru/articles/850194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850194)
-- [Попробуйте Tauri](https://habr.com/ru/articles/850192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850192)
-- [КЕЙС: Как мы бесплатно получили ссылки от Google и Oracle и заодно увеличили трафик на 38%](https://habr.com/ru/articles/850178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
