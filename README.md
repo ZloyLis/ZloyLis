@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История одного модального окна или переходим с UIKit на SwiftUI. Часть 1](https://habr.com/ru/articles/848972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848972)
 - [Что ждёт IT-отрасль в будущем? Расскажет ректор РосНОУ Владимир Зернов](https://habr.com/ru/articles/850202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850202)
 - [Как Generative AI может помочь в подготовке к собеседованию для ИТ специалистов](https://habr.com/ru/articles/850194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850194)
 - [Попробуйте Tauri](https://habr.com/ru/articles/850192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850192)
 - [КЕЙС: Как мы бесплатно получили ссылки от Google и Oracle и заодно увеличили трафик на 38%](https://habr.com/ru/articles/850178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850178)
-- [[Перевод] Линейная регрессия и её регуляризация в Scikit-learn](https://habr.com/ru/articles/850168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
