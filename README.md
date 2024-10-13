@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #559 &lpar;7 — 13 октября&rpar;](https://habr.com/ru/articles/850266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850266)
+- [[Перевод] Пишем одностраничное приложение с помощью htmx](https://habr.com/ru/companies/ruvds/articles/849854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849854)
 - [Использование systemd со Swift приложением](https://habr.com/ru/articles/850240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850240)
 - [Postgres, как настроить запросы между разными БД](https://habr.com/ru/articles/850236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850236)
 - [Как найти своего идеального QA и отсеять жертв инфоцыганских курсов](https://habr.com/ru/articles/850230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850230)
-- [История одного модального окна или переходим с UIKit на SwiftUI. Часть 1](https://habr.com/ru/articles/848972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848972)
-- [Что ждёт IT-отрасль в будущем? Расскажет ректор РосНОУ Владимир Зернов](https://habr.com/ru/articles/850202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
