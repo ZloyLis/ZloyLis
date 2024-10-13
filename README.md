@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Julia 1.11: новый релиз и много возможностей. Что добавили разработчики и что изменилось?](https://habr.com/ru/companies/selectel/articles/850276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850276)
 - [Как я играл в Шерлок Хомса или как сделать, чтобы системное приложение не падало с ошибкой](https://habr.com/ru/articles/850270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850270)
 - [Мобильная разработка за неделю #559 &lpar;7 — 13 октября&rpar;](https://habr.com/ru/articles/850266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850266)
 - [[Перевод] Пишем одностраничное приложение с помощью htmx](https://habr.com/ru/companies/ruvds/articles/849854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849854)
 - [Использование systemd со Swift приложением](https://habr.com/ru/articles/850240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850240)
-- [Postgres, как настроить запросы между разными БД](https://habr.com/ru/articles/850236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
