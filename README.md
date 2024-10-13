@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Systemd и Swift приложения](https://habr.com/ru/articles/850240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850240)
+- [Использование systemd со Swift приложением](https://habr.com/ru/articles/850240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850240)
 - [Postgres, как настроить запросы между разными БД](https://habr.com/ru/articles/850236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850236)
 - [Как найти своего идеального QA и отсеять жертв инфоцыганских курсов](https://habr.com/ru/articles/850230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850230)
 - [История одного модального окна или переходим с UIKit на SwiftUI. Часть 1](https://habr.com/ru/articles/848972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848972)
