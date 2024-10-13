@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать 3D-игру в Scratch с нуля — туториал для детей](https://habr.com/ru/companies/pixel_study/articles/850324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850324)
+- [Блочное программирование для детей: среды, языки и уроки](https://habr.com/ru/companies/pixel_study/articles/850322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850322)
 - [Удивительная недоказанная математическая гипотеза об одиноком бегуне](https://habr.com/ru/articles/849802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849802)
 - [Сервис за выходные, или обзор AI-инструментов для создания продукта](https://habr.com/ru/articles/850300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850300)
 - [Node.js-бот для Телеграм: CRUD-L через аргументы команд](https://habr.com/ru/articles/850294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850294)
-- [Обзор библиотеки RxPY](https://habr.com/ru/companies/otus/articles/849810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849810)
-- [Язык программирования Julia 1.11: новый релиз и много возможностей. Что добавили разработчики и что изменилось?](https://habr.com/ru/companies/selectel/articles/850276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
