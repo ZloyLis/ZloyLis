@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я искал рекомендации аналитиков по покупке российских ценных бумаг в JSON формате](https://habr.com/ru/articles/849556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849556)
 - [Как приготовить MVI в 2024 часть 1](https://habr.com/ru/articles/850332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850332)
 - [Моделируем работу ПЛИС красиво](https://habr.com/ru/articles/850326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850326)
 - [Как создать 3D-игру в Scratch с нуля — туториал для детей](https://habr.com/ru/companies/pixel_study/articles/850324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850324)
 - [Блочное программирование для детей: среды, языки и уроки](https://habr.com/ru/companies/pixel_study/articles/850322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850322)
-- [Удивительная недоказанная математическая гипотеза об одиноком бегуне](https://habr.com/ru/articles/849802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
