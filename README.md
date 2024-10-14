@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настройка VSCode для разработки в Tauri](https://habr.com/ru/articles/850558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850558)
 - [Security Week 2442: криптомайнеры в результатах поиска](https://habr.com/ru/companies/kaspersky/articles/850442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850442)
 - [Создание навигации с «плавающим» фоном ссылок на чистом CSS](https://habr.com/ru/articles/850528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850528)
 - [PostgreSQL Antipatterns: «вращаем» JSON](https://habr.com/ru/companies/tensor/articles/850522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850522)
 - [Синтез Цифрового БИХ Фильтра Низких Частот](https://habr.com/ru/articles/836830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836830)
-- [Улучшаем процесс ревью в команде](https://habr.com/ru/articles/850488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
