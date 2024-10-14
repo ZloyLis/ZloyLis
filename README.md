@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Понимание спецификации ECMAScript, часть 4](https://habr.com/ru/articles/850392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850392)
+- [Почему AI не заменит программистов](https://habr.com/ru/articles/850398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850398)
 - [Системный подход к полунатурному моделированию и быстрому прототипированию с использованием КПМ РИТМ](https://habr.com/ru/companies/etmc_exponenta/articles/848778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848778)
 - [Во имя богов Рандома. Настраиваем вероятность исходов в играх](https://habr.com/ru/companies/miip/articles/850232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850232)
 - [Зачем и где нужен API Gateway](https://habr.com/ru/companies/usetech/articles/850378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850378)
-- [Использование AI для интернационализации &lpar;i18n&rpar; вебсайта](https://habr.com/ru/articles/850346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850346)
-- [Её величество Сортировка](https://habr.com/ru/articles/850296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
