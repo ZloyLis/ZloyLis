@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [22 омерзительные опечатки в русском переводе книги М.П. Дайзенрот «Математика в машинном обучении»](https://habr.com/ru/articles/850598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850598)
 - [Тесты для функций compose в андроид](https://habr.com/ru/articles/850588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850588)
 - [[Перевод] Дизайн и реализация виртуальной машины CPython](https://habr.com/ru/companies/beget/articles/850578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850578)
 - [Настройка VSCode для разработки в Tauri](https://habr.com/ru/articles/850558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850558)
 - [Security Week 2442: криптомайнеры в результатах поиска](https://habr.com/ru/companies/kaspersky/articles/850442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850442)
-- [Создание навигации с «плавающим» фоном ссылок на чистом CSS](https://habr.com/ru/articles/850528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
