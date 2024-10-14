@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать страшный лифт в Роблокс — обучение для школьников](https://habr.com/ru/companies/pixel_study/articles/850624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850624)
+- [Сервис для обхода блокировки OpenAI API в России или ваш первый API](https://habr.com/ru/articles/850620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850620)
 - [22 омерзительные опечатки в русском переводе книги М.П. Дайзенрот «Математика в машинном обучении»](https://habr.com/ru/articles/850598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850598)
 - [Тесты для функций compose в андроид](https://habr.com/ru/articles/850588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850588)
 - [[Перевод] Дизайн и реализация виртуальной машины CPython](https://habr.com/ru/companies/beget/articles/850578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850578)
-- [Настройка VSCode для разработки в Tauri](https://habr.com/ru/articles/850558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850558)
-- [Security Week 2442: криптомайнеры в результатах поиска](https://habr.com/ru/companies/kaspersky/articles/850442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
