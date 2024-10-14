@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание навигации с «плавающим» фоном ссылок на чистом CSS](https://habr.com/ru/articles/850528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850528)
+- [PostgreSQL Antipatterns: «вращаем» JSON](https://habr.com/ru/companies/tensor/articles/850522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850522)
 - [Синтез Цифрового БИХ Фильтра Низких Частот](https://habr.com/ru/articles/836830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=836830)
 - [Улучшаем процесс ревью в команде](https://habr.com/ru/articles/850488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850488)
 - [Первый металлургический ML-хакатон от ОМК ИТ. Погодите, что???](https://habr.com/ru/companies/omk-it/articles/850434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850434)
-- [Давайте писать красиво: второй сезон «Конкурса красоты кода»](https://habr.com/ru/companies/sberbank/articles/850402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850402)
-- [Случайные обои от AI каждый день](https://habr.com/ru/articles/850440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
