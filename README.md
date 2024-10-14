@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Системный подход к полунатурному моделированию и быстрому прототипированию с использованием КПМ РИТМ](https://habr.com/ru/companies/etmc_exponenta/articles/848778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848778)
+- [Во имя богов Рандома. Настраиваем вероятность исходов в играх](https://habr.com/ru/companies/miip/articles/850232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850232)
+- [Зачем и где нужен API Gateway](https://habr.com/ru/companies/usetech/articles/850378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850378)
 - [Использование AI для интернационализации &lpar;i18n&rpar; вебсайта](https://habr.com/ru/articles/850346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850346)
 - [Её величество Сортировка](https://habr.com/ru/articles/850296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850296)
-- [Линейный и бинарный поиск в Clojure](https://habr.com/ru/companies/otus/articles/849628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849628)
-- [Как я искал рекомендации аналитиков по покупке российских ценных бумаг в JSON формате](https://habr.com/ru/articles/849556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849556)
-- [Как приготовить MVI в 2024 часть 1](https://habr.com/ru/articles/850332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
