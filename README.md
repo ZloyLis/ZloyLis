@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ThreadLocal и проблемы с памятью: что вы должны знать](https://habr.com/ru/companies/otus/articles/849796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849796)
 - [HMAC-SHA256 и Telegram Mini App](https://habr.com/ru/articles/850298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850298)
 - [Числа с фиксированной запятой для NES/DENDY](https://habr.com/ru/companies/sberbank/articles/850348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850348)
 - [Детство с синей изолентой, профессиональные трудности и путь к успеху девушки в IT: опыт Ани Жарковой](https://habr.com/ru/articles/850410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850410)
 - [[Перевод] Понимание спецификации ECMAScript, часть 4](https://habr.com/ru/articles/850392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850392)
-- [Почему AI не заменит программистов](https://habr.com/ru/articles/850398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
