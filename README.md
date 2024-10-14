@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Улучшаем процесс ревью в команде](https://habr.com/ru/articles/850488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850488)
 - [Первый металлургический ML-хакатон от ОМК ИТ. Погодите, что???](https://habr.com/ru/companies/omk-it/articles/850434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850434)
 - [Давайте писать красиво: второй сезон «Конкурса красоты кода»](https://habr.com/ru/companies/sberbank/articles/850402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850402)
 - [Случайные обои от AI каждый день](https://habr.com/ru/articles/850440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850440)
 - [ThreadLocal и проблемы с памятью: что вы должны знать](https://habr.com/ru/companies/otus/articles/849796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849796)
-- [HMAC-SHA256 и Telegram Mini App](https://habr.com/ru/articles/850298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
