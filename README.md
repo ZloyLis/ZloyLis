@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как развернуть Supabase в облаке Timeweb Cloud](https://habr.com/ru/companies/timeweb/articles/850860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850860)
+- [По следам Жака Арсака — о программировании игр](https://habr.com/ru/articles/850764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850764)
+- [Введение в AI Background Remover с использованием TensorFlow.js для React-приложений](https://habr.com/ru/articles/850890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850890)
 - [Гайд по деплою web-приложений для новичков. Часть 3. Простая автоматизация](https://habr.com/ru/articles/850874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850874)
 - [DIY на заводе или как сделать измерительный комплекс для оценки износа опорных роликов](https://habr.com/ru/articles/849558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849558)
-- [Облегчаем боль от перехода с Openshift на ванильный kubernetes. Настройка openshift-console с поддержкой SSO](https://habr.com/ru/articles/850864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850864)
-- [Использование ChatGPT для автоматизации генерации кода в JS-проекте](https://habr.com/ru/articles/850846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850846)
-- [Как заставить тесты «видеть» дефекты: о внедрении функционала скриншот-тестирования в проект E2E автотестов](https://habr.com/ru/companies/alfa/articles/850748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
