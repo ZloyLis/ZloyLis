@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путешествие в мир эмуляторов микропроцессоров](https://habr.com/ru/articles/850930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850930)
+- [Home Lab мечты в Kubernetes](https://habr.com/ru/articles/848868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848868)
+- [Apple Pro Weekly News &lpar;07.10 – 13.10.24&rpar;](https://habr.com/ru/articles/850922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850922)
+- [Знакомьтесь с Jmix AI Assistant: Инновация, которую стоит попробовать](https://habr.com/ru/companies/haulmont/articles/850916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850916)
 - [Как развернуть Supabase в облаке Timeweb Cloud](https://habr.com/ru/companies/timeweb/articles/850860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850860)
-- [По следам Жака Арсака — о программировании игр](https://habr.com/ru/articles/850764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850764)
-- [Введение в AI Background Remover с использованием TensorFlow.js для React-приложений](https://habr.com/ru/articles/850890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850890)
-- [Гайд по деплою web-приложений для новичков. Часть 3. Простая автоматизация](https://habr.com/ru/articles/850874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850874)
-- [DIY на заводе или как сделать измерительный комплекс для оценки износа опорных роликов](https://habr.com/ru/articles/849558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
