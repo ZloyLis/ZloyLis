@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Streams ч1: Привет мир](https://habr.com/ru/articles/850832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850832)
 - [Maskito: то, что вы давно искали](https://habr.com/ru/companies/tbank/articles/850790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850790)
 - [Самые важные пакеты в экосистеме Dart и Flutter на Pub 2024](https://habr.com/ru/companies/friflex/articles/850780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850780)
 - [LotItBit или как я создал криптолотерею и все потерял](https://habr.com/ru/articles/850776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850776)
 - [Переход на Go глазами PHP-разработчика: 5 подводных камней](https://habr.com/ru/companies/lamoda/articles/850456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850456)
-- [Рекомендатель кино или как я писал свое DIY-решение для поиска новых фильмов](https://habr.com/ru/companies/first/articles/850686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
