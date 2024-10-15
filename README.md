@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Путь фронтенд-разработчика. От рождения до тимлида](https://habr.com/ru/companies/yandex_praktikum/articles/849706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849706)
-- [Уйти из айти – бросаем разработку ради психологии и смотрим, что получится](https://habr.com/ru/companies/kryptonite/articles/850506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850506)
-- [Как запрашивать и принимать обратную связь от клиентов с помощью SMS API](https://habr.com/ru/companies/exolve/articles/850700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850700)
-- [Гик-блогер возродил почти забытый язык программирования для Commodore](https://habr.com/ru/companies/cloud4y/articles/850696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850696)
-- [Особенности практического применения архитектуры Spine&amp;amp;Leaf в реалях современного высоконагруженного CDN](https://habr.com/ru/articles/850680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850680)
+- [Переход со Spring Boot 2 на Spring Boot 3 в контексте Hibernate, или как не сойти с ума при миграции entity в монолите](https://habr.com/ru/articles/850736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850736)
+- [Опыт разработки приложений java и оформления кода](https://habr.com/ru/companies/nauka/articles/850724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850724)
+- [[Перевод] Не пытайтесь динамически загружать код в ваше Flutter-приложение](https://habr.com/ru/articles/850628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850628)
+- [Я знаю, что ты делал этим летом на Postgres Pre-Commitfest Party от Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/850584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850584)
+- [На пути к миллиарду: строим настоящую IT-компанию вокруг подвижных детских игр “Пол – это лава” и “Море волнуется”](https://habr.com/ru/articles/850182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
