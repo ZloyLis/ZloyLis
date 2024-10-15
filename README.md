@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подружить Flutter и Huawei — настраиваем App Gallery. Часть 1](https://habr.com/ru/companies/surfstudio/articles/850546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850546)
+- [Моя работа позволяет использовать способности и приносить пользу обществу](https://habr.com/ru/companies/oleg-bunin/articles/850744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850744)
+- [Освещение в веб-картах 2ГИС](https://habr.com/ru/companies/2gis/articles/849578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849578)
 - [Переход со Spring Boot 2 на Spring Boot 3 в контексте Hibernate, или как не сойти с ума при миграции entity в монолите](https://habr.com/ru/articles/850736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850736)
 - [Опыт разработки приложений java и оформления кода](https://habr.com/ru/companies/nauka/articles/850724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850724)
-- [[Перевод] Не пытайтесь динамически загружать код в ваше Flutter-приложение](https://habr.com/ru/articles/850628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850628)
-- [Я знаю, что ты делал этим летом на Postgres Pre-Commitfest Party от Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/850584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850584)
-- [На пути к миллиарду: строим настоящую IT-компанию вокруг подвижных детских игр “Пол – это лава” и “Море волнуется”](https://habr.com/ru/articles/850182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
