@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LotItBit или как я создал криптолотерею и все потерял](https://habr.com/ru/articles/850776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850776)
+- [Переход на Go глазами PHP-разработчика: 5 подводных камней](https://habr.com/ru/companies/lamoda/articles/850456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850456)
+- [Рекомендатель кино или как написать за выходные свое DIY-решение для поиска новых фильмов](https://habr.com/ru/companies/first/articles/850686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850686)
 - [Как подружить Flutter и Huawei — настраиваем App Gallery. Часть 1](https://habr.com/ru/companies/surfstudio/articles/850546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850546)
 - [Моя работа позволяет использовать способности и приносить пользу обществу](https://habr.com/ru/companies/oleg-bunin/articles/850744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850744)
-- [Освещение в веб-картах 2ГИС](https://habr.com/ru/companies/2gis/articles/849578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849578)
-- [Переход со Spring Boot 2 на Spring Boot 3 в контексте Hibernate, или как не сойти с ума при миграции entity в монолите](https://habr.com/ru/articles/850736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850736)
-- [Опыт разработки приложений java и оформления кода](https://habr.com/ru/companies/nauka/articles/850724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
