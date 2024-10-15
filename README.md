@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Streams ч1: Привет мир](https://habr.com/ru/articles/850832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850832)
-- [Maskito: то, что вы давно искали](https://habr.com/ru/companies/tbank/articles/850790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850790)
-- [Самые важные пакеты в экосистеме Dart и Flutter на Pub 2024](https://habr.com/ru/companies/friflex/articles/850780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850780)
-- [LotItBit или как я создал криптолотерею и все потерял](https://habr.com/ru/articles/850776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850776)
-- [Переход на Go глазами PHP-разработчика: 5 подводных камней](https://habr.com/ru/companies/lamoda/articles/850456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850456)
+- [Облегчаем боль от перехода с Openshift на ванильный kubernetes. Настройка openshift-console с поддержкой SSO](https://habr.com/ru/articles/850864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850864)
+- [Использование ChatGPT для автоматизации генерации кода в JS-проекте](https://habr.com/ru/articles/850846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850846)
+- [Как заставить тесты «видеть» дефекты: о внедрении функционала скриншот-тестирования в проект E2E автотестов](https://habr.com/ru/companies/alfa/articles/850748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850748)
+- [Настройка CI/CD для GitLab-репозитория: работа с микросервисами](https://habr.com/ru/articles/850842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850842)
+- [Ролевая модель: чит-лист проверок](https://habr.com/ru/articles/850838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
