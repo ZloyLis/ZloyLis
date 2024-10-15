@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по деплою web-приложений для новичков. Часть 3. Простая автоматизация](https://habr.com/ru/articles/850874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850874)
+- [DIY на заводе или как сделать измерительный комплекс для оценки износа опорных роликов](https://habr.com/ru/articles/849558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849558)
 - [Облегчаем боль от перехода с Openshift на ванильный kubernetes. Настройка openshift-console с поддержкой SSO](https://habr.com/ru/articles/850864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850864)
 - [Использование ChatGPT для автоматизации генерации кода в JS-проекте](https://habr.com/ru/articles/850846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850846)
 - [Как заставить тесты «видеть» дефекты: о внедрении функционала скриншот-тестирования в проект E2E автотестов](https://habr.com/ru/companies/alfa/articles/850748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850748)
-- [Настройка CI/CD для GitLab-репозитория: работа с микросервисами](https://habr.com/ru/articles/850842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850842)
-- [Ролевая модель: чит-лист проверок](https://habr.com/ru/articles/850838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
