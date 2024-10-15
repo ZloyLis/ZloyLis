@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Корутины: stackful vs stackless](https://habr.com/ru/articles/850970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850970)
 - [События и сенсоры в Scratch: как создать первую программу](https://habr.com/ru/companies/pixel_study/articles/850956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850956)
 - [Как защитить своё право на информацию: готовое обращение в Роскомнадзор](https://habr.com/ru/articles/850954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850954)
 - [Кастомное пассивное охлаждение ПК &lpar;часть 2&rpar;](https://habr.com/ru/articles/850936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850936)
 - [Путешествие в мир эмуляторов микропроцессоров](https://habr.com/ru/articles/850930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850930)
-- [Home Lab мечты в Kubernetes](https://habr.com/ru/articles/848868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
