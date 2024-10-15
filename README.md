@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic](https://habr.com/ru/companies/amvera/articles/850470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850470)
 - [Как создать страшный лифт в Роблокс — обучение для школьников](https://habr.com/ru/companies/pixel_study/articles/850624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850624)
 - [Сервис для обхода блокировки OpenAI API в России или ваш первый API](https://habr.com/ru/articles/850620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850620)
 - [22 омерзительные опечатки в русском переводе книги М.П. Дайзенрот «Математика в машинном обучении»](https://habr.com/ru/articles/850598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850598)
 - [Тесты для функций compose в андроид](https://habr.com/ru/articles/850588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850588)
-- [[Перевод] Дизайн и реализация виртуальной машины CPython](https://habr.com/ru/companies/beget/articles/850578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
