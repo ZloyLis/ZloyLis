@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь фронтенд-разработчика. От рождения до тимлида](https://habr.com/ru/companies/yandex_praktikum/articles/849706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849706)
+- [Уйти из айти – бросаем разработку ради психологии и смотрим, что получится](https://habr.com/ru/companies/kryptonite/articles/850506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850506)
+- [Как запрашивать и принимать обратную связь от клиентов с помощью SMS API](https://habr.com/ru/companies/exolve/articles/850700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850700)
+- [Гик-блогер возродил почти забытый язык программирования для Commodore](https://habr.com/ru/companies/cloud4y/articles/850696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850696)
 - [Особенности практического применения архитектуры Spine&amp;amp;Leaf в реалях современного высоконагруженного CDN](https://habr.com/ru/articles/850680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850680)
-- [Асинхронный SQLAlchemy 2: пошаговый гайд по управлению сессиями, добавлению и извлечению данных с Pydantic](https://habr.com/ru/companies/amvera/articles/850470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850470)
-- [Как создать страшный лифт в Роблокс — обучение для школьников](https://habr.com/ru/companies/pixel_study/articles/850624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850624)
-- [Сервис для обхода блокировки OpenAI API в России или ваш первый API](https://habr.com/ru/articles/850620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850620)
-- [22 омерзительные опечатки в русском переводе книги М.П. Дайзенрот «Математика в машинном обучении»](https://habr.com/ru/articles/850598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
