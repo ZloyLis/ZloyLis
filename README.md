@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Руководство по Convex. Часть 1](https://habr.com/ru/companies/timeweb/articles/844878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844878)
-- [AI CoPilot в ИТ-мониторинге: перспективный тул или “Книга вредных советов”?](https://habr.com/ru/companies/monq/articles/850610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850610)
-- [Tuist: добавляем генерацию проекта в текущее приложение](https://habr.com/ru/companies/cian/articles/847688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847688)
-- [10 логических задач, которые помогут вам пройти собеседование на инженера по тестированию](https://habr.com/ru/companies/yandex_praktikum/articles/845362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845362)
-- [Подробное руководство по оценке компетенций продуктовых дизайнеров. Часть 1](https://habr.com/ru/articles/850908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850908)
+- [Скажем нет «Превращению», или анализ Kafka](https://habr.com/ru/companies/pvs-studio/articles/851066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851066)
+- [Искусство аугментации: как улучшить модели компьютерного зрения без сбора новых данных](https://habr.com/ru/companies/magnus-tech/articles/850070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850070)
+- [Неизвестно полезный CSS. Часть 5](https://habr.com/ru/companies/ruvds/articles/849114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849114)
+- [[Перевод] Как спроектировать библиотеку для Spring Boot](https://habr.com/ru/companies/piter/articles/850820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850820)
+- [Конфигурация закупок в SAP ERP](https://habr.com/ru/articles/851050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
