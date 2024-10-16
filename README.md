@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компьютерное зрение на C++: пишем приложение для поиска объектов под Android](https://habr.com/ru/companies/yadro/articles/850786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850786)
 - [Скажем нет «Превращению», или анализ Kafka](https://habr.com/ru/companies/pvs-studio/articles/851066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851066)
 - [Искусство аугментации: как улучшить модели компьютерного зрения без сбора новых данных](https://habr.com/ru/companies/magnus-tech/articles/850070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850070)
 - [Неизвестно полезный CSS. Часть 5](https://habr.com/ru/companies/ruvds/articles/849114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849114)
 - [[Перевод] Как спроектировать библиотеку для Spring Boot](https://habr.com/ru/companies/piter/articles/850820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850820)
-- [Конфигурация закупок в SAP ERP](https://habr.com/ru/articles/851050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
