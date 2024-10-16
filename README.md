@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подробное руководство по оценке компетенций продуктовых дизайнеров. Часть 1](https://habr.com/ru/articles/850908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850908)
+- [Angular 19 — что нас ждет](https://habr.com/ru/articles/850766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850766)
+- [Траст-менеджер здорового человека](https://habr.com/ru/articles/850648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850648)
 - [Реализуем паттерн Unit of Work в ASP.NET Core](https://habr.com/ru/companies/otus/articles/850124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850124)
 - [Корутины: stackful vs stackless](https://habr.com/ru/articles/850970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850970)
-- [События и сенсоры в Scratch: как создать первую программу](https://habr.com/ru/companies/pixel_study/articles/850956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850956)
-- [Как защитить своё право на информацию: готовое обращение в Роскомнадзор](https://habr.com/ru/articles/850954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850954)
-- [Кастомное пассивное охлаждение ПК &lpar;часть 2&rpar;](https://habr.com/ru/articles/850936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
