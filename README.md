@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я получил 50000 + 0 долларов за уязвимость в Zendesk](https://habr.com/ru/companies/ruvds/articles/851106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851106)
 - [Технология проектирования хранилищ данных Data Vault 2.0](https://habr.com/ru/articles/850280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850280)
 - [Этюд: использование метода покоординатного спуска для оптимизации параметров СУБД](https://habr.com/ru/articles/851092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851092)
 - [Как идеи Аристотеля применяются в GenAI? Разбираем вопросы этики ИИ в образовании и создаем философский чат-бот](https://habr.com/ru/companies/spbu/articles/851090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851090)
 - [Зачем я использую контейнеры как виртуалки: опыт python-разработчика](https://habr.com/ru/companies/cloud_ru/articles/849986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849986)
-- [Компьютерное зрение на C++: пишем приложение для поиска объектов под Android](https://habr.com/ru/companies/yadro/articles/850786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
