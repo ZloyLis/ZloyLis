@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сорок мегабайт простоты](https://habr.com/ru/articles/850458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850458)
 - [Как провести безопасный эксперимент: guardrail metrics](https://habr.com/ru/companies/otus/articles/850568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850568)
 - [[Перевод] 10 миллиардов целых чисел входят в массив](https://habr.com/ru/companies/beget/articles/851200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851200)
 - [rustsn — Open Source проект генерации кода и взаимодействия с уже существующем через LLM](https://habr.com/ru/articles/851170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851170)
 - [[Перевод] Как я получил 50000 + 0 долларов за уязвимость в Zendesk](https://habr.com/ru/companies/ruvds/articles/851106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851106)
-- [Технология проектирования хранилищ данных Data Vault 2.0](https://habr.com/ru/articles/850280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
