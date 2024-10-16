@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ядерные погремушки в каждой избушке. Технологии атомной индустирии в автоматизации бытового теплоснабжения](https://habr.com/ru/articles/850638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850638)
+- [Как сделать управление персонажем в Unity – урок для детей и подростков](https://habr.com/ru/companies/pixel_study/articles/851222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851222)
 - [Сорок мегабайт простоты](https://habr.com/ru/articles/850458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850458)
 - [Как провести безопасный эксперимент: guardrail metrics](https://habr.com/ru/companies/otus/articles/850568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850568)
 - [[Перевод] 10 миллиардов целых чисел входят в массив](https://habr.com/ru/companies/beget/articles/851200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851200)
-- [rustsn — Open Source проект генерации кода и взаимодействия с уже существующем через LLM](https://habr.com/ru/articles/851170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851170)
-- [[Перевод] Как я получил 50000 + 0 долларов за уязвимость в Zendesk](https://habr.com/ru/companies/ruvds/articles/851106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
