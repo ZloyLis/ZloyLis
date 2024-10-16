@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 логических задач, которые помогут вам пройти собеседование на инженера по тестированию](https://habr.com/ru/companies/yandex_praktikum/articles/845362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845362)
 - [Подробное руководство по оценке компетенций продуктовых дизайнеров. Часть 1](https://habr.com/ru/articles/850908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850908)
 - [Angular 19 — что нас ждет](https://habr.com/ru/articles/850766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850766)
 - [Траст-менеджер здорового человека](https://habr.com/ru/articles/850648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850648)
 - [Реализуем паттерн Unit of Work в ASP.NET Core](https://habr.com/ru/companies/otus/articles/850124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850124)
-- [Корутины: stackful vs stackless](https://habr.com/ru/articles/850970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
