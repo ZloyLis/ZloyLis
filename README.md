@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что делать, если выгорела половина команды, бизнес встал, а вам не хочется ничего делать?](https://habr.com/ru/companies/oleg-bunin/articles/851258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851258)
+- [Как мы сделали базу знаний Smarty на основе RAG](https://habr.com/ru/companies/redmadrobot/articles/848996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848996)
+- [Проблемы открытых знаний и литература в формате Open Knowledge](https://habr.com/ru/companies/mws/articles/851338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851338)
 - [HMPL — лучшая альтернатива HTMX](https://habr.com/ru/articles/851042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851042)
 - [Как пакет с пакетами помог аналитику решить задачу для бизнеса, или keep calm and import statsmodels](https://habr.com/ru/companies/vkusvill/articles/851264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851264)
-- [Это база. Алгоритмы сортировки для начинающих](https://habr.com/ru/companies/selectel/articles/851206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851206)
-- [Кейс NSX, или Ожидаемые неприятности](https://habr.com/ru/companies/jetinfosystems/articles/851310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851310)
-- [20 ресурсов для 1С-аналитика: матчасть, инструменты и каналы с новостями](https://habr.com/ru/companies/yandex_praktikum/articles/850448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
