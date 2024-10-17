@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mount — ещё один способ уменьшения размера Docker-образа](https://habr.com/ru/articles/851384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851384)
 - [Что делать, если выгорела половина команды, бизнес встал, а вам не хочется ничего делать?](https://habr.com/ru/companies/oleg-bunin/articles/851258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851258)
 - [Как мы сделали базу знаний Smarty на основе RAG](https://habr.com/ru/companies/redmadrobot/articles/848996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848996)
 - [Проблемы открытых знаний и литература в формате Open Knowledge](https://habr.com/ru/companies/mws/articles/851338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851338)
 - [HMPL — лучшая альтернатива HTMX](https://habr.com/ru/articles/851042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851042)
-- [Как пакет с пакетами помог аналитику решить задачу для бизнеса, или keep calm and import statsmodels](https://habr.com/ru/companies/vkusvill/articles/851264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
