@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в Unity 6? Обзор нововведений и ошибок в исходном коде](https://habr.com/ru/companies/pvs-studio/articles/851434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851434)
+- [[Перевод] Под капотом GCN](https://habr.com/ru/articles/851432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851432)
 - [Настройка BurpSuite professional на Ubuntu 24](https://habr.com/ru/articles/851412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851412)
 - [Как использовать менеджер состояний NgRx для Angular-проектов](https://habr.com/ru/companies/simbirsoft/articles/851362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851362)
 - [Понимание принципа построения функциональности карт с Яндекс.Картами API v3](https://habr.com/ru/articles/851348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851348)
-- [Обеспечение безопасности при разработке ПО — проблемы конвейеров CI/CD и способы предотвращения угроз](https://habr.com/ru/articles/851392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851392)
-- [Mount — ещё один способ уменьшения размера Docker-образа](https://habr.com/ru/articles/851384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
