@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Динамические модули в приложениях на Android: опыт использования Dynamic Feature Delivery](https://habr.com/ru/companies/yandex/articles/845344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845344)
-- [Плюс в резюме: оркестрация масштабных приложений для Python-разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/851148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851148)
-- [[Перевод] Техническая история Kubernetes: секреты создателя](https://habr.com/ru/companies/flant/articles/851176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851176)
-- [Клеточная архитектура](https://habr.com/ru/articles/851260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851260)
-- [Обновление Кибер Бэкапа — обзор новинок версии 17.1](https://habr.com/ru/companies/cyberprotect/articles/851254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851254)
+- [Это база. Алгоритмы сортировки для начинающих](https://habr.com/ru/companies/selectel/articles/851206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851206)
+- [Кейс NSX, или Ожидаемые неприятности](https://habr.com/ru/companies/jetinfosystems/articles/851310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851310)
+- [20 ресурсов для 1С-аналитика: матчасть, инструменты и каналы с новостями](https://habr.com/ru/companies/yandex_praktikum/articles/850448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850448)
+- [Забыл, где лежат ключи? Телефон уже начинает волноваться](https://habr.com/ru/articles/851302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851302)
+- [Во что компилятор C++ превращает код, или ускоряем код безопасно](https://habr.com/ru/companies/ascon/articles/850406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
