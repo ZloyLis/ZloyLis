@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft для детей 7–10 лет: как обучиться блочному программированию с Code Builder](https://habr.com/ru/companies/pixel_study/articles/851522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851522)
 - [Подключение сторонних PHP библиотек в Joomla](https://habr.com/ru/articles/851520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851520)
 - [RxJS Interop в Angular 18: основные изменения и преимущества](https://habr.com/ru/articles/851516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851516)
 - [[Перевод] Что нового в Chrome 130?](https://habr.com/ru/articles/851514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851514)
 - [Понимание прогноза глюкозы в AndroidAPS часть 2](https://habr.com/ru/articles/851438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851438)
-- [Тысячи иконок и адаптация под RTL: проектирование интерфейса шаблона мобильного приложения для партнёров Travelpayouts](https://habr.com/ru/companies/cleverpumpkin/articles/851292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
