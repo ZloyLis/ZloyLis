@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Unidraw — путь длиной в два года](https://habr.com/ru/companies/tbank/articles/851440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851440)
 - [Что нового в Unity 6? Обзор нововведений и ошибок в исходном коде](https://habr.com/ru/companies/pvs-studio/articles/851434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851434)
 - [[Перевод] Под капотом GCN](https://habr.com/ru/articles/851432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851432)
 - [Настройка BurpSuite professional на Ubuntu 24](https://habr.com/ru/articles/851412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851412)
 - [Как использовать менеджер состояний NgRx для Angular-проектов](https://habr.com/ru/companies/simbirsoft/articles/851362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851362)
-- [Понимание принципа построения функциональности карт с Яндекс.Картами API v3](https://habr.com/ru/articles/851348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
