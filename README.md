@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Понимание прогноза глюкозы в AndroidAPS часть 2](https://habr.com/ru/articles/851438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851438)
 - [Тысячи иконок и адаптация под RTL: проектирование интерфейса шаблона мобильного приложения для партнёров Travelpayouts](https://habr.com/ru/companies/cleverpumpkin/articles/851292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851292)
 - [[Перевод] Архитектура и реализация виртуальной машины CPython](https://habr.com/ru/companies/otus/articles/851388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851388)
 - [[Перевод] Быстрый поиск опечаток на Rust](https://habr.com/ru/articles/851462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851462)
 - [Unidraw — путь длиной в два года](https://habr.com/ru/companies/tbank/articles/851440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851440)
-- [Что нового в Unity 6? Обзор нововведений и ошибок в исходном коде](https://habr.com/ru/companies/pvs-studio/articles/851434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
