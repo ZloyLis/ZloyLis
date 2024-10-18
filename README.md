@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему мне нужно, чтобы ты вкатился в айти](https://habr.com/ru/articles/851602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851602)
+- [Обзор смартфона Cubot KingKong ES: защита от ударов и воды в тонком корпусе](https://habr.com/ru/articles/851588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851588)
 - [Мобильная версия сайта: статистика, важность и чек-лист для гуманитариев](https://habr.com/ru/articles/851560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851560)
 - [Жаль, что мы не умеем обмениваться файлами](https://habr.com/ru/articles/851558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851558)
 - [Статистический анализ стресс-теста СУБД](https://habr.com/ru/articles/851556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851556)
-- [Краткий генезис и эволюция языков программирования](https://habr.com/ru/companies/sberbank/articles/851382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851382)
-- [[Перевод] Почему Racket? Почему Lisp?](https://habr.com/ru/articles/851552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
