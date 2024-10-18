@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как настроить правильное расположение элементов в Android-приложении для арабского языка](https://habr.com/ru/articles/851676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851676)
+- [Собственная бизнес-вселенная через призму low-code](https://habr.com/ru/articles/851670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851670)
 - [[Перевод] Безопасный Docker в продакшене](https://habr.com/ru/companies/spring_aio/articles/851604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851604)
 - [История одного блокчейна](https://habr.com/ru/articles/851628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851628)
 - [АудиоАрхив жизни, ИИ и речевая аналитика](https://habr.com/ru/articles/851622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851622)
-- [Профилирование: сравниваем инструменты pt-pmp и perf на реальных примерах](https://habr.com/ru/companies/pt/articles/851394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851394)
-- [Как обеспечить безопасность в облаках: обзор рынка](https://habr.com/ru/companies/selectel/articles/851590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
