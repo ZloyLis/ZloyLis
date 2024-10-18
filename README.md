@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как настроить правильное расположение элементов в Android-приложении для арабского языка](https://habr.com/ru/articles/851676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851676)
-- [Собственная бизнес-вселенная через призму low-code](https://habr.com/ru/articles/851670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851670)
-- [[Перевод] Безопасный Docker в продакшене](https://habr.com/ru/companies/spring_aio/articles/851604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851604)
-- [История одного блокчейна](https://habr.com/ru/articles/851628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851628)
-- [АудиоАрхив жизни, ИИ и речевая аналитика](https://habr.com/ru/articles/851622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851622)
+- [Архитектурная пропаганда — продвижение решений без риска для здоровья и в реальные сроки](https://habr.com/ru/companies/vtb/articles/849776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849776)
+- [Как собаки воспринимают нас и что нам с этим делать](https://habr.com/ru/companies/sberbank/articles/851704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851704)
+- [Почтовая система VK WorkSpace в собственном дата-центре: архитектура, миграция с Exchange, внедрение и эксплуатация](https://habr.com/ru/companies/vk/articles/851128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851128)
+- [Корзина в Додо Пицце на iOS 14: баг длиной в полгода](https://habr.com/ru/companies/dododev/articles/843216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843216)
+- [Интерпретатор языка PL/SQL](https://habr.com/ru/articles/851682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
