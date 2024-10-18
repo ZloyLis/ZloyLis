@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектурная пропаганда — продвижение решений без риска для здоровья и в реальные сроки](https://habr.com/ru/companies/vtb/articles/849776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849776)
-- [Как собаки воспринимают нас и что нам с этим делать](https://habr.com/ru/companies/sberbank/articles/851704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851704)
-- [Почтовая система VK WorkSpace в собственном дата-центре: архитектура, миграция с Exchange, внедрение и эксплуатация](https://habr.com/ru/companies/vk/articles/851128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851128)
-- [Корзина в Додо Пицце на iOS 14: баг длиной в полгода](https://habr.com/ru/companies/dododev/articles/843216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843216)
-- [Интерпретатор языка PL/SQL](https://habr.com/ru/articles/851682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851682)
+- [Восстанавливаем работу MySQL. Решение задачи](https://habr.com/ru/companies/kts/articles/851730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851730)
+- [Как мы внедрили генеративную модель в объявления на Авто.ру. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/850902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850902)
+- [Как ускорить создание компонентов с помощью Plop-генератора или автоматизация рутинных задач в React](https://habr.com/ru/articles/847050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847050)
+- [Антология матричных расширений: от популярного обзора до запуска на эмуляторе](https://habr.com/ru/companies/yadro/articles/851726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851726)
+- [[Перевод] Построение надежных систем: решение сложностей распределенных микросервисов](https://habr.com/ru/companies/orion_soft/articles/851722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
