@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование для детей 1–4 классов: знакомство младших школьников с IT](https://habr.com/ru/companies/pixel_study/articles/851830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851830)
 - [История одного модального окна или переходим с UIKit на SwiftUI. Часть 2.1. Неожиданный баг Combine](https://habr.com/ru/articles/851786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851786)
 - [Дизайн на основе данных: Как метрики делают ваш продукт успешным](https://habr.com/ru/articles/851804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851804)
 - [[Перевод] Rust 1.82.0: cargo info, AArch64 для macOS в tier1, use&amp;lt;..&amp;gt;, небезопасные указатели и другое](https://habr.com/ru/articles/851800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851800)
 - [Робот в Лабиринте от МТС — можно практиковаться на любом языке](https://habr.com/ru/articles/851790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851790)
-- [Как легально зарабатывать $1МЛН ежемесячно на контенте 18+ и не вылететь из AppStore?](https://habr.com/ru/articles/851774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
