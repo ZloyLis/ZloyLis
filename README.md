@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Безопасный Docker в продакшене](https://habr.com/ru/companies/spring_aio/articles/851604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851604)
+- [История одного блокчейна](https://habr.com/ru/articles/851628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851628)
+- [АудиоАрхив жизни, ИИ и речевая аналитика](https://habr.com/ru/articles/851622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851622)
 - [Профилирование: сравниваем инструменты pt-pmp и perf на реальных примерах](https://habr.com/ru/companies/pt/articles/851394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851394)
 - [Как обеспечить безопасность в облаках: обзор рынка](https://habr.com/ru/companies/selectel/articles/851590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851590)
-- [ООП для типовых ML задач](https://habr.com/ru/companies/alfa/articles/851154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851154)
-- [Почему мне нужно, чтобы ты вкатился в айти](https://habr.com/ru/articles/851602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851602)
-- [Обзор смартфона Cubot KingKong ES: защита от ударов и воды в тонком корпусе](https://habr.com/ru/articles/851588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
