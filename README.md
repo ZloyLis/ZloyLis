@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная версия сайта: статистика, важность и чек-лист для гуманитариев](https://habr.com/ru/articles/851560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851560)
+- [Жаль, что мы не умеем обмениваться файлами](https://habr.com/ru/articles/851558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851558)
+- [Статистический анализ стресс-теста СУБД](https://habr.com/ru/articles/851556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851556)
+- [Краткий генезис и эволюция языков программирования](https://habr.com/ru/companies/sberbank/articles/851382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851382)
 - [[Перевод] Почему Racket? Почему Lisp?](https://habr.com/ru/articles/851552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851552)
-- [[Перевод] Делители часов](https://habr.com/ru/articles/851236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851236)
-- [Minecraft для детей 7–10 лет: как обучиться блочному программированию с Code Builder](https://habr.com/ru/companies/pixel_study/articles/851522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851522)
-- [Подключение сторонних PHP библиотек в Joomla](https://habr.com/ru/articles/851520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851520)
-- [RxJS Interop в Angular 18: основные изменения и преимущества](https://habr.com/ru/articles/851516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
