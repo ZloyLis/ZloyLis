@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем алгоритмы на самом ненужном языке в мире и страдаем](https://habr.com/ru/articles/851934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851934)
 - [Пишем свой Http Kafka Sink Connector](https://habr.com/ru/articles/851916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851916)
 - [Пара шаблонов кастомизированных элементов Handlebars для Apache Superset](https://habr.com/ru/articles/851756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851756)
 - [Про auto.offset.reset в Spring Kafka](https://habr.com/ru/articles/851902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851902)
 - [Как я написал книгу для детей: «Мама, не отвлекай. Я Python учу!»](https://habr.com/ru/articles/851880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851880)
-- [Гибкая фильтрация EFCore с помощью Expression](https://habr.com/ru/articles/851874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
