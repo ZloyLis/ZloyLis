@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Осторожно, Combine! Откуда берутся утечки памяти, потеря эвентов, нестабильность операторов и что с этим всем делать](https://habr.com/ru/companies/yandex/articles/850010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850010)
+- [Qt-шные прокси-модели и их друзья](https://habr.com/ru/articles/851850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851850)
+- [Портативный «спутник» для смартфона](https://habr.com/ru/articles/851860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851860)
 - [Создаём свой реестр данных на основе ФГИС «Аршин». Часть 1 — добавляем данные в PostgreSQL и сокращаем размер БД](https://habr.com/ru/articles/851858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851858)
 - [Наш опыт создания контекстного переводчика](https://habr.com/ru/articles/851856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851856)
-- [При чем здесь крипта  –  концептуальное SEO WEB 3.0:  в 2025 году все изменится](https://habr.com/ru/articles/851844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851844)
-- [Программирование для детей 1–4 классов: знакомство младших школьников с IT](https://habr.com/ru/companies/pixel_study/articles/851830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851830)
-- [История одного модального окна или переходим с UIKit на SwiftUI. Часть 2.1. Неожиданный баг Combine](https://habr.com/ru/articles/851786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
