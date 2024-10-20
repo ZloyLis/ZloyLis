@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать игру Geometry Dash на Scratch — урок для детей](https://habr.com/ru/companies/pixel_study/articles/852056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852056)
 - [Мобильная разработка за неделю #560 &lpar;14 — 20 октября&rpar;](https://habr.com/ru/articles/852048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852048)
 - [XML против JSON: как «слишком много тегов» убивает скорость](https://habr.com/ru/articles/852036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852036)
 - [Как поднять свой WebSocket сервер на Node.js: основы](https://habr.com/ru/companies/otus/articles/851504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851504)
 - [[Перевод] Так ли важен возраст в IT?](https://habr.com/ru/companies/ruvds/articles/851544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851544)
-- [База, которую нужно знать про JSON Schema](https://habr.com/ru/companies/otus/articles/851512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
