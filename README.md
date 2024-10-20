@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [База, которую нужно знать про JSON Schema](https://habr.com/ru/companies/otus/articles/851512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851512)
 - [Apache Spark: настройка и отладка](https://habr.com/ru/companies/otus/articles/851674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851674)
 - [Пишем алгоритмы на самом ненужном языке в мире и страдаем](https://habr.com/ru/articles/851934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851934)
 - [Пишем свой Http Kafka Sink Connector](https://habr.com/ru/articles/851916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851916)
 - [Пара шаблонов кастомизированных элементов Handlebars для Apache Superset](https://habr.com/ru/articles/851756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851756)
-- [Про auto.offset.reset в Spring Kafka](https://habr.com/ru/articles/851902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
