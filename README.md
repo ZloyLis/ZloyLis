@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как поднять свой WebSocket сервер на Node.js: основы](https://habr.com/ru/companies/otus/articles/851504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851504)
 - [[Перевод] Так ли важен возраст в IT?](https://habr.com/ru/companies/ruvds/articles/851544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851544)
 - [База, которую нужно знать про JSON Schema](https://habr.com/ru/companies/otus/articles/851512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851512)
 - [Apache Spark: настройка и отладка](https://habr.com/ru/companies/otus/articles/851674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851674)
 - [Пишем алгоритмы на самом ненужном языке в мире и страдаем](https://habr.com/ru/articles/851934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851934)
-- [Пишем свой Http Kafka Sink Connector](https://habr.com/ru/articles/851916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
