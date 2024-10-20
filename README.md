@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka как хранилище справочников](https://habr.com/ru/articles/852092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852092)
 - [EnJoyTheVR: доступная виртуальная реальность на базе смартфонов](https://habr.com/ru/articles/852084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852084)
 - [Действительно ли смартфон может работать в режиме скрытой прослушки?](https://habr.com/ru/companies/globalsign/articles/852082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852082)
 - [No-code решения для разработчиков, о которых мало кто говорит](https://habr.com/ru/companies/mws/articles/852064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852064)
 - [Компьютерные курсы для подростков: 50+ бесплатных видеоуроков](https://habr.com/ru/companies/pixel_study/articles/852060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852060)
-- [Как сделать игру Geometry Dash на Scratch — урок для детей](https://habr.com/ru/companies/pixel_study/articles/852056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
