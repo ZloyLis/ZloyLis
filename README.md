@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Последовательное A/B-тестирование в Netflix. Часть 2: процессы подсчёта](https://habr.com/ru/companies/wunderfund/articles/852194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852194)
+- [PinkHash: Незабываемые розовые хеши](https://habr.com/ru/articles/851638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851638)
+- [А о техническом долге я скажу…](https://habr.com/ru/companies/rostelecom/articles/852188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852188)
+- [Может ли простейшая нейросеть найти математическую закономерность в данных?](https://habr.com/ru/articles/851214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851214)
 - [Почему СУБД такие медленные](https://habr.com/ru/companies/ruvds/articles/851330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851330)
-- [Забудьте про терминал! Как я избавлялся от рутинных ADB команды с помощью Shortcuts](https://habr.com/ru/articles/852114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852114)
-- [Мой путь в тестирование. Сравнение двух курсов. Часть 2](https://habr.com/ru/articles/852166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852166)
-- [Искусственный интеллект для детей или Знакомим детей с ИИ, не перегружая их взрослыми понятиями](https://habr.com/ru/articles/848284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848284)
-- [Макросы в Swift: Практическое руководство по использованию](https://habr.com/ru/articles/852118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
