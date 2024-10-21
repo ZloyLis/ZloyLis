@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;14.10 – 20.10.24&rpar;](https://habr.com/ru/articles/852300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852300)
 - [Загадки второго сезона: как мы провели IT-кроссворд на Хабре для 1 000 человек](https://habr.com/ru/companies/selectel/articles/852232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852232)
 - [[Перевод] Названия должностей разработчиков почти потеряли свой смысл](https://habr.com/ru/articles/852272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852272)
 - [[Перевод] Почему многие пользуются древними версиями Postgres?](https://habr.com/ru/companies/ruvds/articles/852266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852266)
 - [Управление проектами и задачами в Obsidian](https://habr.com/ru/articles/852246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852246)
-- [Внедряем снепшот-тестирование, или пять стадий принятия неизбежного](https://habr.com/ru/companies/psb/articles/842632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
