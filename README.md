@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Последовательное A/B-тестирование в Netflix. Часть 2: процессы подсчёта](https://habr.com/ru/companies/wunderfund/articles/852194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852194)
-- [PinkHash: Незабываемые розовые хеши](https://habr.com/ru/articles/851638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851638)
-- [А о техническом долге я скажу…](https://habr.com/ru/companies/rostelecom/articles/852188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852188)
-- [Создание GitHub бота для сообщества](https://habr.com/ru/companies/pt/articles/851940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851940)
-- [Может ли простейшая нейросеть найти математическую закономерность в данных?](https://habr.com/ru/articles/851214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851214)
+- [Управление проектами и задачами в Obsidian](https://habr.com/ru/articles/852246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852246)
+- [Внедряем снепшот-тестирование, или пять стадий принятия неизбежного](https://habr.com/ru/companies/psb/articles/842632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842632)
+- [1500 часов разработки, 300 часов аналитики и согласование макетов с врачами, чтобы разработать дневник здоровья](https://habr.com/ru/articles/852236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852236)
+- [Закон распределения делителей числа &lpar;расширенная версия&rpar;](https://habr.com/ru/articles/851270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851270)
+- [Красивый код — живой код. Делаем клеточный автомат на Godot и экспортируем в HTML](https://habr.com/ru/companies/sberbank/articles/852220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
