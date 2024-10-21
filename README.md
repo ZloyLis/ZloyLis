@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Макросы в Swift: Практическое руководство по использованию](https://habr.com/ru/articles/852118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852118)
+- [Сторителлинг](https://habr.com/ru/articles/852086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852086)
 - [Сложность алгоритмов и типичные ошибки в Python](https://habr.com/ru/companies/sberbank/articles/851982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851982)
 - [Парсинг котировок ценных бумаг в Microsoft Excel и Google Таблицы с любого сайта](https://habr.com/ru/articles/850992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850992)
 - [Валидация модели данных в ASP.NET Core 8.0 на основе HTMX](https://habr.com/ru/articles/852110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852110)
-- [Kafka как хранилище справочников](https://habr.com/ru/articles/852092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852092)
-- [EnJoyTheVR: доступная виртуальная реальность на базе смартфонов](https://habr.com/ru/articles/852084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
