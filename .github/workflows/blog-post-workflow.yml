@@ -1,17 +1,34 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: '0 0 * * *' # Run once a day at midnight
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Latest from habr.com
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Checkout code
+        uses: actions/checkout@v2.5.0
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-build-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-
+
+      - name: Pull in habr.com posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://habr.com/ru/rss/feed/posts/all/af804a4462a4ffb9d13a95be2d95c7ab/?fl=ru"
+
+      - name: Log completion
+        run: echo "Workflow completed successfully"
+
+      - name: Send notification if failure
+        if: failure()
+        run: echo "Workflow failed" # or setup notifications (Slack, email, etc.)
