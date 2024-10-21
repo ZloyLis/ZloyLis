@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему СУБД такие медленные](https://habr.com/ru/companies/ruvds/articles/851330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851330)
+- [Забудьте про терминал! Как я избавлялся от рутинных ADB команды с помощью Shortcuts](https://habr.com/ru/articles/852114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852114)
+- [Мой путь в тестирование. Сравнение двух курсов. Часть 2](https://habr.com/ru/articles/852166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852166)
+- [Искусственный интеллект для детей или Знакомим детей с ИИ, не перегружая их взрослыми понятиями](https://habr.com/ru/articles/848284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848284)
 - [Макросы в Swift: Практическое руководство по использованию](https://habr.com/ru/articles/852118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852118)
-- [Сторителлинг](https://habr.com/ru/articles/852086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852086)
-- [Сложность алгоритмов и типичные ошибки в Python](https://habr.com/ru/companies/sberbank/articles/851982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851982)
-- [Парсинг котировок ценных бумаг в Microsoft Excel и Google Таблицы с любого сайта](https://habr.com/ru/articles/850992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850992)
-- [Валидация модели данных в ASP.NET Core 8.0 на основе HTMX](https://habr.com/ru/articles/852110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
