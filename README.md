@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как потратить шесть лет и быть невидимкой в Play Market](https://habr.com/ru/articles/852368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852368)
 - [Кластеры и мир: хроника высокодоступного Pub/Sub в Redis](https://habr.com/ru/companies/rostelecom/articles/852362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852362)
 - [Телеграм-бот на Node.js/grammY: Диалоги](https://habr.com/ru/articles/852330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852330)
 - [Security Week 2443: уязвимости нулевого дня в реальных атаках](https://habr.com/ru/companies/kaspersky/articles/852310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852310)
 - [Void me](https://habr.com/ru/articles/852316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852316)
-- [Как сделать Game Pass в Roblox Studio &lpar;геймпасс в Роблокс&rpar; – урок для детей](https://habr.com/ru/companies/pixel_study/articles/852314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
