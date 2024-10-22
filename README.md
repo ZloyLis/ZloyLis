@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Английский для продакта: как я быстро выучил язык для срочного поиска работы](https://habr.com/ru/articles/852338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852338)
+- [ИИ и сумерки всеобуча](https://habr.com/ru/companies/rostelecom/articles/852502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852502)
 - [Тернистый путь к единому хранилищу метрик](https://habr.com/ru/companies/oleg-bunin/articles/851024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851024)
 - [[Перевод] Крадем учетные данные Windows](https://habr.com/ru/articles/852488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852488)
 - [Победители Московского городского конкурса &lpar;МГК&rpar; 2024 года](https://habr.com/ru/articles/852474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852474)
-- [SOLID на котиках](https://habr.com/ru/companies/selectel/articles/852468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852468)
-- [Магия CSS на практике: советы по вёрстке от гика. Часть 5](https://habr.com/ru/companies/ruvds/articles/851140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
