@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Objective-C не кусается: как перестать бояться Legacy и стать настоящим iOS-ниндзя](https://habr.com/ru/articles/848788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848788)
 - [Как мы плавно подготовились к переходу с Oracle на PostgreSQL и не потеряли в эффективности](https://habr.com/ru/companies/rshb/articles/852544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852544)
 - [[Перевод] 14 лучших практик автоматизации тестирования](https://habr.com/ru/articles/852192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852192)
 - [Автоматизация управления ресурсами окружений в Dev Platform](https://habr.com/ru/companies/vk/articles/852546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852546)
 - [Интеграция TFLite во Flutter: внедряем модели машинного обучения в мобильное приложение](https://habr.com/ru/companies/agima/articles/852500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852500)
-- [Как жить без IntelliJ IDEA? Часть №1. Собери сам](https://habr.com/ru/companies/spring_aio/articles/852526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
