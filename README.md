@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Английский для продакта: как я быстро выучил язык для срочного поиска работы](https://habr.com/ru/articles/852338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852338)
-- [ИИ и сумерки всеобуча](https://habr.com/ru/companies/rostelecom/articles/852502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852502)
-- [Тернистый путь к единому хранилищу метрик](https://habr.com/ru/companies/oleg-bunin/articles/851024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851024)
-- [[Перевод] Крадем учетные данные Windows](https://habr.com/ru/articles/852488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852488)
-- [Победители Московского городского конкурса &lpar;МГК&rpar; 2024 года](https://habr.com/ru/articles/852474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852474)
+- [Как жить без IntelliJ IDEA? Часть №1. Собери сам](https://habr.com/ru/companies/spring_aio/articles/852526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852526)
+- [Как небольшой «тюнинг» Talos Linux увеличил производительность NVMe SSD в 2.5 раза](https://habr.com/ru/articles/852536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852536)
+- [Подходы к сокращению регрессионного тестирования](https://habr.com/ru/companies/sportmaster_lab/articles/852200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852200)
+- [[Перевод] Почему троичные вычисления лучше двоичных](https://habr.com/ru/companies/first/articles/852150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852150)
+- [Проект Shiva: Альтернатива Apache Tika и Pandoc](https://habr.com/ru/articles/852518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
