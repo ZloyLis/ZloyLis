@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Запускаем Yolo на пятирублёвой монете или Luckfox Pico Mini](https://habr.com/ru/articles/852376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852376)
-- [Автоматизация тестирования с использованием SoapUI — Практическое руководство](https://habr.com/ru/companies/mkb/articles/852280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852280)
-- [[Перевод] К чистому коду через рефакторинг](https://habr.com/ru/companies/piter/articles/851716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851716)
-- [Чему и почему учат тимлидов](https://habr.com/ru/companies/icl_group/articles/852422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852422)
-- [Цифровые двойники и современная архитектура обучения](https://habr.com/ru/articles/852404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852404)
+- [Победители Московского городского конкурса &lpar;МГК&rpar; 2024 года](https://habr.com/ru/articles/852474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852474)
+- [SOLID на котиках](https://habr.com/ru/companies/selectel/articles/852468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852468)
+- [Магия CSS на практике: советы по вёрстке от гика. Часть 5](https://habr.com/ru/companies/ruvds/articles/851140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851140)
+- [Как в eXpress достигали мгновенного рендера отправки сообщения: оптимизация локальной базы данных](https://habr.com/ru/companies/express/articles/852268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852268)
+- [Next.js v15 — Работа над Ошибками](https://habr.com/ru/articles/852352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
