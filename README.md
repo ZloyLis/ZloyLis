@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Года опыта vs. реальные навыки: пора ли поменять подход к найму?](https://habr.com/ru/articles/852672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852672)
+- [Программирование для детей 8–9 лет: примеры направлений и проектов](https://habr.com/ru/companies/pixel_study/articles/852670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852670)
 - [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852626)
 - [Кратко о сетях](https://habr.com/ru/companies/nauka/articles/852620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852620)
 - [Objective-C не кусается: как перестать бояться Legacy и стать настоящим iOS-ниндзя](https://habr.com/ru/articles/848788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848788)
-- [Как мы плавно подготовились к переходу с Oracle на PostgreSQL и не потеряли в эффективности](https://habr.com/ru/companies/rshb/articles/852544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852544)
-- [[Перевод] 14 лучших практик автоматизации тестирования](https://habr.com/ru/articles/852192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
