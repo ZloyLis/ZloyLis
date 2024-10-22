@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852626)
 - [Кратко о сетях](https://habr.com/ru/companies/nauka/articles/852620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852620)
 - [Objective-C не кусается: как перестать бояться Legacy и стать настоящим iOS-ниндзя](https://habr.com/ru/articles/848788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848788)
 - [Как мы плавно подготовились к переходу с Oracle на PostgreSQL и не потеряли в эффективности](https://habr.com/ru/companies/rshb/articles/852544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852544)
 - [[Перевод] 14 лучших практик автоматизации тестирования](https://habr.com/ru/articles/852192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852192)
-- [Автоматизация управления ресурсами окружений в Dev Platform](https://habr.com/ru/companies/vk/articles/852546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
