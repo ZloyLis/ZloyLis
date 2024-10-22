@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тернистый путь к единому хранилищу метрик](https://habr.com/ru/companies/oleg-bunin/articles/851024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851024)
+- [[Перевод] Крадем учетные данные Windows](https://habr.com/ru/articles/852488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852488)
 - [Победители Московского городского конкурса &lpar;МГК&rpar; 2024 года](https://habr.com/ru/articles/852474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852474)
 - [SOLID на котиках](https://habr.com/ru/companies/selectel/articles/852468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852468)
 - [Магия CSS на практике: советы по вёрстке от гика. Часть 5](https://habr.com/ru/companies/ruvds/articles/851140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851140)
-- [Как в eXpress достигали мгновенного рендера отправки сообщения: оптимизация локальной базы данных](https://habr.com/ru/companies/express/articles/852268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852268)
-- [Next.js v15 — Работа над Ошибками](https://habr.com/ru/articles/852352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
