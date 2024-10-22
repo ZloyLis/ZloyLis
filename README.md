@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Насколько быстры B-деревья по сравнению с хэш-таблицами?](https://habr.com/ru/articles/849654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849654)
-- [Создание кастомного Kubernetes Scheduler для StatefulSet](https://habr.com/ru/articles/851896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851896)
-- [У нас T-shape, а у вас?](https://habr.com/ru/companies/tbank/articles/852210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852210)
-- [История о том, как учительница английского с тремя детьми решила стать тестировщиком](https://habr.com/ru/companies/yandex_praktikum/articles/850570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850570)
-- [Эзотерические языки программирования: панорамный обзор](https://habr.com/ru/companies/ddosguard/articles/852288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852288)
+- [Запускаем Yolo на пятирублёвой монете или Luckfox Pico Mini](https://habr.com/ru/articles/852376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852376)
+- [Автоматизация тестирования с использованием SoapUI — Практическое руководство](https://habr.com/ru/companies/mkb/articles/852280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852280)
+- [[Перевод] К чистому коду через рефакторинг](https://habr.com/ru/companies/piter/articles/851716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851716)
+- [Чему и почему учат тимлидов](https://habr.com/ru/companies/icl_group/articles/852422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852422)
+- [Цифровые двойники и современная архитектура обучения](https://habr.com/ru/articles/852404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
