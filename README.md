@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История о том, как учительница английского с тремя детьми решила стать тестировщиком](https://habr.com/ru/companies/yandex_praktikum/articles/850570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850570)
+- [Эзотерические языки программирования: панорамный обзор](https://habr.com/ru/companies/ddosguard/articles/852288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852288)
+- [Как сделать React Server Components в Electron с помощью Next.js и без открытых портов](https://habr.com/ru/articles/852384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852384)
+- [Задачки «полуфинала» соревнования МТС &lpar;True Tech Arena 2024&rpar; — обзор, разбор](https://habr.com/ru/articles/852140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852140)
 - [Как потратить шесть лет и быть невидимкой в Play Market](https://habr.com/ru/articles/852368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852368)
-- [Кластеры и мир: хроника высокодоступного Pub/Sub в Redis](https://habr.com/ru/companies/rostelecom/articles/852362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852362)
-- [Телеграм-бот на Node.js/grammY: Диалоги](https://habr.com/ru/articles/852330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852330)
-- [Security Week 2443: уязвимости нулевого дня в реальных атаках](https://habr.com/ru/companies/kaspersky/articles/852310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852310)
-- [Void me](https://habr.com/ru/articles/852316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
