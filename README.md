@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Standoff-онбординг: собираем команду, создаем баг-репорт и готовимся к соревнованиям](https://habr.com/ru/companies/pt/articles/852654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852654)
+- [Еше раз о C в виде «заметок на полях»](https://habr.com/ru/articles/852758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852758)
 - [Правильный путь создания python-библиотеки: от создания до публикации](https://habr.com/ru/companies/timeweb/articles/847370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847370)
 - [Как пройти все этапы собеседования в IT в 2024 году: качества идеального кандидата](https://habr.com/ru/articles/851482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851482)
 - [Куда движется Laravel? Обзор интервью с Taylor Otwell](https://habr.com/ru/articles/852734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852734)
-- [Страх написать плохой пост и призрак поиска работы: челленджи для самых смелых](https://habr.com/ru/specials/852710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852710)
-- [Исследование опенсорс-инструментов в области ML/Data от ИТМО: выводы и инсайты](https://habr.com/ru/companies/spbifmo/articles/851088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
