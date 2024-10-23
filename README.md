@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем задание для стажеров: список конкурентов ИТ продукта](https://habr.com/ru/articles/852336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852336)
+- [PostgreSQL 17: уже можно просто делать бекапы и перестать страдать?](https://habr.com/ru/companies/postgrespro/articles/852768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852768)
 - [Standoff-онбординг: собираем команду, создаем баг-репорт и готовимся к соревнованиям](https://habr.com/ru/companies/pt/articles/852654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852654)
-- [Еше раз о C в виде «заметок на полях»](https://habr.com/ru/articles/852758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852758)
+- [Еще раз о C в виде «заметок на полях»](https://habr.com/ru/articles/852758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852758)
 - [Правильный путь создания python-библиотеки: от создания до публикации](https://habr.com/ru/companies/timeweb/articles/847370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847370)
-- [Как пройти все этапы собеседования в IT в 2024 году: качества идеального кандидата](https://habr.com/ru/articles/851482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851482)
-- [Куда движется Laravel? Обзор интервью с Taylor Otwell](https://habr.com/ru/articles/852734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
