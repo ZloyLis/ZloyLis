@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Производные дробного порядка и экспоненциальная производная](https://habr.com/ru/articles/852918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852918)
 - [Восстанавливаем удалённые сообщения в Telegram](https://habr.com/ru/articles/852902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852902)
 - [Использование кошелька Монеро через Телеграм бот](https://habr.com/ru/articles/852890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852890)
 - [[Перевод] На самом деле, ООП — это не так уж плохо](https://habr.com/ru/companies/ruvds/articles/852822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852822)
 - [Как использовать Evolution free tier: опыт тех, кто уже запустил проект с помощью бесплатных ресурсов в облаке](https://habr.com/ru/companies/cloud_ru/articles/851034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851034)
-- [[Перевод] Как Vercel микрофронтенды внедрила](https://habr.com/ru/articles/852816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
