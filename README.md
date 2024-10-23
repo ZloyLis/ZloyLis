@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация CQC на CI](https://habr.com/ru/articles/852978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852978)
+- [[Перевод] Пошаговое повышение производительности алгоритма](https://habr.com/ru/articles/852974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852974)
 - [Онлайн-курсы для детей 5–6 лет: программирование, создание игр и другое](https://habr.com/ru/companies/pixel_study/articles/852970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852970)
 - [Как сделать простые метрики для оценки полосы пропускания сети?](https://habr.com/ru/articles/852622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852622)
 - [Производные дробного порядка и экспоненциальная производная](https://habr.com/ru/articles/852918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852918)
-- [Восстанавливаем удалённые сообщения в Telegram](https://habr.com/ru/articles/852902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852902)
-- [Использование кошелька Монеро через Телеграм бот](https://habr.com/ru/articles/852890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
