@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подробное руководство по оценке компетенций продуктовых дизайнеров. Часть 2](https://habr.com/ru/articles/852706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852706)
+- [Встречаем yx_scope: DI-фреймворк для работы со скоупами в открытом доступе](https://habr.com/ru/companies/yandex/articles/852278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852278)
+- [Краткое пособие по переводу между системами счисления с основаниями 2, 8, 10, 16](https://habr.com/ru/articles/852722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852722)
 - [PostgreSQL brainteaser: медленный Index Scan](https://habr.com/ru/articles/852702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852702)
-- [Гайд по принципам и адаптации практик разработки UX/UI для промышленного ПО](https://habr.com/ru/companies/eaeconsult/articles/852652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852652)
-- [Всё, что вы хотели знать о Django Channels](https://habr.com/ru/companies/otus/articles/852510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852510)
-- [Создание Telegram Web App с FastAPI: Генерация, сканирование QR-кодов камерой устройства и деплой за 5 минут](https://habr.com/ru/companies/amvera/articles/852490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852490)
-- [Циклические импорты на фронтенде](https://habr.com/ru/articles/852680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852680)
+- [Принципы и адаптация практик разработки UX/UI для промышленного ПО](https://habr.com/ru/companies/eaeconsult/articles/852652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
