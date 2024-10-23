@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание Telegram Web App с FastAPI: Генерация, сканирование QR-кодов камерой устройства и деплой за 5 минут](https://habr.com/ru/companies/amvera/articles/852490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852490)
 - [Рекурсивные зависимости на фронтенде](https://habr.com/ru/articles/852680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852680)
 - [Почему годы опыта не всегда показатель профессионализма и наличия скиллов](https://habr.com/ru/articles/852672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852672)
 - [Программирование для детей 8–9 лет: примеры направлений и проектов](https://habr.com/ru/companies/pixel_study/articles/852670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852670)
 - [[Перевод] Как я использую git](https://habr.com/ru/companies/beget/articles/852626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852626)
-- [Кратко о сетях](https://habr.com/ru/companies/nauka/articles/852620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
