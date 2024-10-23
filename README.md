@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] На самом деле, ООП — это не так уж плохо](https://habr.com/ru/companies/ruvds/articles/852822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852822)
 - [Как использовать Evolution free tier: опыт тех, кто уже запустил проект с помощью бесплатных ресурсов в облаке](https://habr.com/ru/companies/cloud_ru/articles/851034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851034)
 - [[Перевод] Как Vercel микрофронтенды внедрила](https://habr.com/ru/articles/852816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852816)
 - [Пишем задание для стажеров: список конкурентов ИТ продукта](https://habr.com/ru/articles/852336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852336)
 - [PostgreSQL 17: уже можно просто делать бекапы и перестать страдать?](https://habr.com/ru/companies/postgrespro/articles/852768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852768)
-- [Standoff-онбординг: собираем команду, создаем баг-репорт и готовимся к соревнованиям](https://habr.com/ru/companies/pt/articles/852654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
