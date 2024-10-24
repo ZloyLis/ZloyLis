@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие аналитические задачи стоят перед бизнесом и как их решать?](https://habr.com/ru/companies/modusbi/articles/853044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853044)
+- [[Перевод] Полезные рецепты ручного создания SVG](https://habr.com/ru/companies/timeweb/articles/852522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852522)
+- [Да будет справедливость или как найти друзей на удалёнке](https://habr.com/ru/articles/851816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851816)
 - [Области тьмы: разбираем неочевидные моменты при использовании памяти в Swift](https://habr.com/ru/companies/clevertec/articles/852718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852718)
 - [Масштабируем приложение в Kubernetes от метрики в Yandex Monitoring &lpar;или от любого http-эндпоинта&rpar;](https://habr.com/ru/companies/yandex_praktikum/articles/852860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852860)
-- [Как сделать движущийся фон в Scratch](https://habr.com/ru/companies/pixel_study/articles/853020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853020)
-- [Философия чистого кода: эмпатия гораздо важнее мастерства](https://habr.com/ru/companies/sberbank/articles/852868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852868)
-- [Как мы обучили Mistral 7B русскому языку и адаптировали для объявлений Авито](https://habr.com/ru/companies/avito/articles/852958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
