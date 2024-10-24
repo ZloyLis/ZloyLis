@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование для детей 14 лет: направления, видеоуроки, книги](https://habr.com/ru/companies/pixel_study/articles/853284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853284)
 - [[Перевод] Решение проблемы race condition в Kotlin корутина](https://habr.com/ru/articles/853266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853266)
 - [Изменение модели данных CoreData для iOs приложения с iCloud синхронизацией](https://habr.com/ru/articles/853260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853260)
 - [[Перевод] Настройка ПИД-регулятора для беспилотных автомобилей](https://habr.com/ru/articles/853242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853242)
 - [Apache Flink: Unit и E2E-тестирование оператора с таймерами в Apache Flink](https://habr.com/ru/companies/ru_mts/articles/853200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853200)
-- [Что будет с программистами с приходом ИИ?](https://habr.com/ru/articles/853204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
