@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Беспроводной искусственный интеллект для детей. Или как сделать вашего робота и ребёнка ещё умнее](https://habr.com/ru/articles/853054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853054)
+- [Запускаем Embedded Linux на Hard- и Soft-CPU Xilinx Zynq: сборка операционной системы](https://habr.com/ru/companies/yadro/articles/852780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852780)
+- [Типичные ошибки при создании Frontend приложений](https://habr.com/ru/companies/itfb/articles/853086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853086)
+- [Продукт или студия: куда пойти работать дизайнеру, и почему в банках так много платят](https://habr.com/ru/articles/853100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853100)
 - [Мощь CSS-масок](https://habr.com/ru/companies/tbank/articles/853042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853042)
-- [Как подготовить CV, которое даст больше приглашений на интервью и задаст правильный тон коммуникации на собесе](https://habr.com/ru/articles/851966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851966)
-- [Linux, LogSpace, ML: как SIEM обретал новую технологичность](https://habr.com/ru/companies/pt/articles/852784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852784)
-- [Использование корреляционного анализа для мониторинга производительности СУБД](https://habr.com/ru/articles/853068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853068)
-- [Как настроить DLNA на разных устройствах: пошаговый план](https://habr.com/ru/companies/beeline_cloud/articles/852878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
