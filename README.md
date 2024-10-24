@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изменение модели данных CoreData для iOs приложения с iCloud синхронизацией](https://habr.com/ru/articles/853260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853260)
 - [[Перевод] Настройка ПИД-регулятора для беспилотных автомобилей](https://habr.com/ru/articles/853242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853242)
 - [Apache Flink: Unit и E2E-тестирование оператора с таймерами в Apache Flink](https://habr.com/ru/companies/ru_mts/articles/853200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853200)
 - [Что будет с программистами с приходом ИИ?](https://habr.com/ru/articles/853204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853204)
 - [Самые весёлые TODO из Android-фреймворка](https://habr.com/ru/companies/alfa/articles/837880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837880)
-- [Как добавить свой таб или поле в интерфейс Joomla с помощью плагина. «Joomla way»](https://habr.com/ru/articles/853196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
