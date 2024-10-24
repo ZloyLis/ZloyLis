@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Невидимый Технический Долг: Управление TODO Комментариями](https://habr.com/ru/articles/853132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853132)
+- [Быстрее пули: как найти счастье с PostgreSQL](https://habr.com/ru/articles/853124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853124)
+- [Ручное восстановление БД PostgreSQL после аппаратного сбоя](https://habr.com/ru/articles/853048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853048)
 - [Беспроводной искусственный интеллект для детей. Или как сделать вашего робота и ребёнка ещё умнее](https://habr.com/ru/articles/853054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853054)
 - [Запускаем Embedded Linux на Hard- и Soft-CPU Xilinx Zynq: сборка операционной системы](https://habr.com/ru/companies/yadro/articles/852780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852780)
-- [Типичные ошибки при создании Frontend приложений](https://habr.com/ru/companies/itfb/articles/853086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853086)
-- [Продукт или студия: куда пойти работать дизайнеру, и почему в банках так много платят](https://habr.com/ru/articles/853100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853100)
-- [Мощь CSS-масок](https://habr.com/ru/companies/tbank/articles/853042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
