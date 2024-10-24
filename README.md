@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самые весёлые TODO из Android-фреймворка](https://habr.com/ru/companies/alfa/articles/837880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=837880)
+- [Как добавить свой таб или поле в интерфейс Joomla с помощью плагина. «Joomla way»](https://habr.com/ru/articles/853196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853196)
 - [Разбираемся с Vespa. Часть 2](https://habr.com/ru/companies/sportmaster_lab/articles/848992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848992)
 - [HTTP-запросы: параметры, методы и коды состояния](https://habr.com/ru/companies/timeweb/articles/853174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853174)
 - [Создадим команду Wild Politics вместе](https://habr.com/ru/articles/853170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853170)
-- [Управление цепочкой вызовов асинхронных функций](https://habr.com/ru/articles/852964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852964)
-- [SEO от начинающего для незнающих](https://habr.com/ru/articles/853160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
