@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Области тьмы: разбираем неочевидные моменты при использовании памяти в Swift](https://habr.com/ru/companies/clevertec/articles/852718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852718)
+- [Масштабируем приложение в Kubernetes от метрики в Yandex Monitoring &lpar;или от любого http-эндпоинта&rpar;](https://habr.com/ru/companies/yandex_praktikum/articles/852860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852860)
 - [Как сделать движущийся фон в Scratch](https://habr.com/ru/companies/pixel_study/articles/853020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853020)
 - [Философия чистого кода: эмпатия гораздо важнее мастерства](https://habr.com/ru/companies/sberbank/articles/852868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852868)
 - [Как мы обучили Mistral 7B русскому языку и адаптировали для объявлений Авито](https://habr.com/ru/companies/avito/articles/852958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852958)
-- [Эволюция платежных систем: полный технический мануал по цифровому рублю](https://habr.com/ru/articles/852994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852994)
-- [Автоматизация CQC на CI](https://habr.com/ru/articles/852978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
