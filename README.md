@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Невидимый Технический Долг: Управление TODO Комментариями](https://habr.com/ru/articles/853132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853132)
-- [Быстрее пули: как найти счастье с PostgreSQL](https://habr.com/ru/articles/853124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853124)
-- [Ручное восстановление БД PostgreSQL после аппаратного сбоя](https://habr.com/ru/articles/853048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853048)
-- [Беспроводной искусственный интеллект для детей. Или как сделать вашего робота и ребёнка ещё умнее](https://habr.com/ru/articles/853054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853054)
-- [Запускаем Embedded Linux на Hard- и Soft-CPU Xilinx Zynq: сборка операционной системы](https://habr.com/ru/companies/yadro/articles/852780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852780)
+- [Создадим команду Wild Politics вместе](https://habr.com/ru/articles/853170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853170)
+- [Управление цепочкой вызовов асинхронных функций](https://habr.com/ru/articles/852964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852964)
+- [SEO от начинающего для незнающих](https://habr.com/ru/articles/853160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853160)
+- [[Перевод] Функциональные HTTP-эндпоинты с Spring MVC/WebFlux и Kotlin](https://habr.com/ru/companies/spring_aio/articles/853126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853126)
+- [Как я отказался от оффера в Сбер](https://habr.com/ru/articles/853150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
