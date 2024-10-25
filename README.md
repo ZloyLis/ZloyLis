@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Асинхронный Rust в трех частях. Введение](https://habr.com/ru/companies/beget/articles/853358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853358)
-- [Рецензия на книгу “Основы проектирования баз данных &lpar;Database Design Solutions, 2nd Edition&rpar;”](https://habr.com/ru/companies/ssp-soft/articles/853350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853350)
-- [Основы View и ViewGroup. Создаём интерфейсы в Android-приложениях](https://habr.com/ru/articles/853348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853348)
-- [Геометрия Лобачевского 1: скалярное произведение и метрика](https://habr.com/ru/articles/853102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853102)
-- [Как человеческий фактор может стать секретным оружием в руках QA](https://habr.com/ru/companies/surfstudio/articles/853328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853328)
+- [Крутить или не крутить?](https://habr.com/ru/articles/853408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853408)
+- [[Перевод] Корректное завершение работы подов в Kubernetes](https://habr.com/ru/companies/flant/articles/853210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853210)
+- [[Перевод] Полное руководство по обработке ошибок в Python](https://habr.com/ru/articles/853056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853056)
+- [Практика создания и внедрения единого стайлгайда для команды разработчиков](https://habr.com/ru/companies/tochka/articles/853110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853110)
+- [А у вас есть проблемы с репозиториями?](https://habr.com/ru/companies/pt/articles/853212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
