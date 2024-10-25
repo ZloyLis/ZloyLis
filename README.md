@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как человеческий фактор может стать секретным оружием в руках QA](https://habr.com/ru/companies/surfstudio/articles/853328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853328)
+- [5 признаков, что профессия аналитика вам не подходит](https://habr.com/ru/companies/yandex_praktikum/articles/852066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852066)
+- [Глассморфизм и SVG](https://habr.com/ru/companies/skbkontur/articles/853128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853128)
 - [Генеративная графика — не только ИИ](https://habr.com/ru/companies/sberbank/articles/852880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852880)
 - [Sidecar на Go: позволь другому заниматься твоими проблемами](https://habr.com/ru/companies/otus/articles/852642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852642)
-- [Когда я вырасту, я стану Системным аналитиком](https://habr.com/ru/articles/853276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853276)
-- [Программирование для детей 14 лет: направления, видеоуроки, книги](https://habr.com/ru/companies/pixel_study/articles/853284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853284)
-- [[Перевод] Решение проблемы race condition в Kotlin корутина](https://habr.com/ru/articles/853266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
