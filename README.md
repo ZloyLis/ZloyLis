@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Junior до Team Lead меньше чем за 2 года](https://habr.com/ru/companies/friflex/articles/853512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853512)
+- [Деплой без стресса: автоматизируем процесс для Telegram-ботов](https://habr.com/ru/companies/selectel/articles/844814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844814)
+- [iOS 18 для разработчиков: Ключевые изменения в UIKit](https://habr.com/ru/companies/kts/articles/852764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852764)
+- [[Перевод] Какую архитектуру конвейера данных следует использовать?](https://habr.com/ru/companies/piter/articles/853400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853400)
 - [Динамическая презентация или как закодить слайд с помощью Markdown и WL](https://habr.com/ru/articles/853496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853496)
-- [[Перевод] Почему я скептично отношусь к переписыванию JS-инструментов на «быстрых» языках](https://habr.com/ru/companies/ruvds/articles/852694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852694)
-- [Как сделать кликер на Scratch с нуля – урок для детей](https://habr.com/ru/companies/pixel_study/articles/853488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853488)
-- [[Перевод] Анализ и оптимизация проблемы задержек и пропуска кадров в анимации загрузки](https://habr.com/ru/articles/853472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853472)
-- [Как работать с Permissions для чтения и записи файлов в Android 13+ на примере React Native](https://habr.com/ru/companies/ncloudtech/articles/853116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
