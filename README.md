@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектура обучения будущего? Или краткий обзор Total Learning Architecture &lpar;TLA&rpar;](https://habr.com/ru/articles/853440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853440)
-- [Крутить или не крутить?](https://habr.com/ru/articles/853408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853408)
-- [[Перевод] Корректное завершение работы подов в Kubernetes](https://habr.com/ru/companies/flant/articles/853210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853210)
-- [[Перевод] Полное руководство по обработке ошибок в Python](https://habr.com/ru/articles/853056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853056)
-- [Практика создания и внедрения единого стайлгайда для команды разработчиков](https://habr.com/ru/companies/tochka/articles/853110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853110)
+- [[Перевод] Анализ и оптимизация проблемы задержек и пропуска кадров в анимации загрузки](https://habr.com/ru/articles/853472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853472)
+- [Как работать с Permissions для чтения и записи файлов в Android 13+ на примере React Native](https://habr.com/ru/companies/ncloudtech/articles/853116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853116)
+- [Last call по заявкам на IT-стажировку Kaspersky Safeboard](https://habr.com/ru/companies/kaspersky/articles/853402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853402)
+- [Проектирование эффективной системы кэширования](https://habr.com/ru/articles/853340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853340)
+- [Инструменты Figma: как работать с типографикой, цветами и компонентами правильно](https://habr.com/ru/articles/853246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
