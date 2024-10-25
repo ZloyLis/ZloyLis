@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cтатистика Байеса в ML для самых маленьких](https://habr.com/ru/articles/853560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853560)
 - [[Перевод] Асинхронный Rust. Часть первая: Futures](https://habr.com/ru/companies/beget/articles/853540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853540)
 - [Sentinel C++20. Пишем свой Sentinel](https://habr.com/ru/companies/slurm/articles/853526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853526)
 - [Как наши дизайн-митапы сделали команду сильнее, а процессы эффективнее](https://habr.com/ru/companies/simpleone/articles/853096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853096)
 - [От Junior до Team Lead меньше чем за 2 года](https://habr.com/ru/companies/friflex/articles/853512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853512)
-- [Деплой без стресса: автоматизируем процесс для Telegram-ботов](https://habr.com/ru/companies/selectel/articles/844814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=844814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
