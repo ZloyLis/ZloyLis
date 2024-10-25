@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рецензия на книгу “Основы проектирования баз данных &lpar;Database Design Solutions, 2nd Edition&rpar;”](https://habr.com/ru/companies/ssp-soft/articles/853350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853350)
+- [View. Строительный блок Android приложений](https://habr.com/ru/articles/853348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853348)
+- [Геометрия Лобачевского 1: скалярное произведение и метрика](https://habr.com/ru/articles/853102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853102)
 - [Как человеческий фактор может стать секретным оружием в руках QA](https://habr.com/ru/companies/surfstudio/articles/853328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853328)
 - [5 признаков, что профессия аналитика вам не подходит](https://habr.com/ru/companies/yandex_praktikum/articles/852066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852066)
-- [Глассморфизм и SVG](https://habr.com/ru/companies/skbkontur/articles/853128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853128)
-- [Генеративная графика — не только ИИ](https://habr.com/ru/companies/sberbank/articles/852880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852880)
-- [Sidecar на Go: позволь другому заниматься твоими проблемами](https://habr.com/ru/companies/otus/articles/852642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
