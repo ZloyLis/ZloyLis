@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Nexus-IoC — хорошо знакомый незнакомец в мире TypeScript и DI](https://habr.com/ru/articles/853722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853722)
+- [OrbStack: Почему я забыл про Docker Desktop](https://habr.com/ru/articles/853720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853720)
 - [DE-1. DIY ассистент на LLM](https://habr.com/ru/articles/853708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853708)
 - [Использование дисперсии при анализе производительности СУБД. Точка излома графика дисперсии](https://habr.com/ru/articles/853702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853702)
 - [Как я преодолел отказ в модерации App Store: история приложения YoloPrice](https://habr.com/ru/articles/853698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853698)
-- [Честно и по делу: смотрим на F+ R570E с российской системой на борту](https://habr.com/ru/companies/timeweb/articles/852988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852988)
-- [Азартная разработка iOS приложения игры 2048 с ChatGPT](https://habr.com/ru/articles/851904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
