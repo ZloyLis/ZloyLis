@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Азартная разработка iOS приложения игры 2048 с ChatGPT](https://habr.com/ru/articles/851904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851904)
-- [Требуется математическая консультация — интерпретация графика дисперсии](https://habr.com/ru/articles/853662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853662)
 - [Тестирование на проникновение в веб-приложение VAmPI](https://habr.com/ru/articles/853660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853660)
 - [Kafka. Лучшие практики применения. Настройки Prudcer &amp;amp; Consumer](https://habr.com/ru/articles/853652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853652)
 - [[Перевод] Вычисления с GPU-ускорением на Python](https://habr.com/ru/companies/timeweb/articles/853578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853578)
+- [[Перевод] Two-Tier Data Model архитектура: концепт и мысли](https://habr.com/ru/articles/853622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
