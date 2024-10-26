@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование дисперсии при анализе производительности СУБД](https://habr.com/ru/articles/853702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853702)
 - [Как я преодолел отказ в модерации App Store: история приложения YoloPrice](https://habr.com/ru/articles/853698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853698)
 - [Честно и по делу: смотрим на F+ R570E с российской системой на борту](https://habr.com/ru/companies/timeweb/articles/852988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852988)
 - [Азартная разработка iOS приложения игры 2048 с ChatGPT](https://habr.com/ru/articles/851904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851904)
 - [Тестирование на проникновение в веб-приложение VAmPI](https://habr.com/ru/companies/radcop/articles/853660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853660)
-- [Kafka. Лучшие практики применения. Настройки Prudcer &amp;amp; Consumer](https://habr.com/ru/articles/853652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
