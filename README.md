@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуалистичная типовая система JavaScript VS Единая объектная система Python. Краткий обзор](https://habr.com/ru/articles/853760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853760)
+- [Обновляем цены на товары в магазине Озон из Гугл Таблицы по API](https://habr.com/ru/articles/853726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853726)
 - [Nexus-IoC — хорошо знакомый незнакомец в мире TypeScript и DI](https://habr.com/ru/articles/853722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853722)
 - [OrbStack: Почему я забыл про Docker Desktop](https://habr.com/ru/articles/853720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853720)
 - [DE-1. DIY ассистент на LLM](https://habr.com/ru/articles/853708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853708)
-- [Использование дисперсии при анализе производительности СУБД. Точка излома графика дисперсии](https://habr.com/ru/articles/853702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853702)
-- [Как я преодолел отказ в модерации App Store: история приложения YoloPrice](https://habr.com/ru/articles/853698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
