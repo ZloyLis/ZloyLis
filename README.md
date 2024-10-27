@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аптайм вахтер: мониторинг веб-сервисов с помощью Globalping и уведомлениями в Telegram](https://habr.com/ru/articles/853774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853774)
+- [Пара шаблонов кастомизированных элементов Handlebars для Apache Superset — 2](https://habr.com/ru/articles/853476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853476)
 - [Дуалистичная типовая система JavaScript VS Единая объектная система Python. Краткий обзор](https://habr.com/ru/articles/853760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853760)
 - [Обновляем цены на товары в магазине Озон из Гугл Таблицы по API](https://habr.com/ru/articles/853726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853726)
 - [Nexus-IoC — хорошо знакомый незнакомец в мире TypeScript и DI](https://habr.com/ru/articles/853722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853722)
-- [OrbStack: Почему я забыл про Docker Desktop](https://habr.com/ru/articles/853720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853720)
-- [DE-1. DIY ассистент на LLM](https://habr.com/ru/articles/853708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
