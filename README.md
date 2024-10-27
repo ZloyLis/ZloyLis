@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tcl — как скриптовый язык для университетских проектов стали использовать по всему миру](https://habr.com/ru/companies/mws/articles/853166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853166)
 - [Дисперсия и корреляция при анализе производительности СУБД, обладающих разными ресурсами. Точки излома графиков](https://habr.com/ru/articles/853836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853836)
 - [Мобильная разработка за неделю #561 &lpar;21 — 27 октября&rpar;](https://habr.com/ru/articles/853822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853822)
 - [История одного идемпотентного метода](https://habr.com/ru/articles/853818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853818)
 - [Новые протоколы шифрования трафика](https://habr.com/ru/companies/globalsign/articles/853808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853808)
-- [Аптайм вахтер: мониторинг веб-сервисов с помощью Globalping и уведомлениями в Telegram](https://habr.com/ru/articles/853774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
