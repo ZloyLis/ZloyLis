@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Войти в IT – в 37 и с дипломом филфака](https://habr.com/ru/articles/853856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853856)
 - [Шеринг файлов локализации между несколькими пакетами в Flutter](https://habr.com/ru/articles/853848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853848)
 - [Apple Pro Weekly News &lpar;21.10 – 27.10.24&rpar;](https://habr.com/ru/articles/853842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853842)
 - [Tcl — как скриптовый язык для университетских проектов стали использовать по всему миру](https://habr.com/ru/companies/mws/articles/853166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853166)
 - [Дисперсия и корреляция при анализе производительности СУБД, обладающих разными ресурсами. Точки излома графиков](https://habr.com/ru/articles/853836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853836)
-- [Мобильная разработка за неделю #561 &lpar;21 — 27 октября&rpar;](https://habr.com/ru/articles/853822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
