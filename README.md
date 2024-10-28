@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать систему страшных звонков на Хэллоуин на Go и Exolve Voice API](https://habr.com/ru/companies/exolve/articles/853952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853952)
+- [Кратко о сетях. Продолжение](https://habr.com/ru/companies/nauka/articles/853950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853950)
 - [Сборка Python проекта с uv и Docker](https://habr.com/ru/companies/kryptonite/articles/853548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853548)
 - [Путь к геометрии Лобачевского 2: сфера](https://habr.com/ru/articles/853450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853450)
 - [Системный аналитик 100 lvl — дорожная карта развития](https://habr.com/ru/companies/ibs/articles/853480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853480)
-- [Самая красивая ошибка, которую я нашёл с помощью PVS-Studio в 2024 году](https://habr.com/ru/companies/pvs-studio/articles/853920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853920)
-- [[Перевод] Почему физика так неоправданно хорошо справляется с созданием новой математики](https://habr.com/ru/articles/853884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
