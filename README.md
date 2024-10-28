@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2444: браузерный zero-day на сайте криптовалютной игры](https://habr.com/ru/companies/kaspersky/articles/854108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854108)
+- [[Перевод] Асинхронный Rust в трех частях. Часть вторая: Tasks](https://habr.com/ru/companies/beget/articles/854104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854104)
 - [5 результатов обучения в IT и не только](https://habr.com/ru/articles/854096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854096)
 - [Backend-митап от red_mad_robot: прокачиваем GenAI](https://habr.com/ru/companies/redmadrobot/articles/854094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854094)
 - [[Перевод] Расширенная шпаргалка по корутинам Kotlin](https://habr.com/ru/companies/otus/articles/854090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854090)
-- [Кастомный Date and Time picker как в Telegram на Kotlin Jetpack Compose](https://habr.com/ru/articles/853568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853568)
-- [Как осмысленно подходить к работе и делать крутой результат, а не рисовать прототипы «по-чуйке»](https://habr.com/ru/articles/854076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
