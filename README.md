@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сборка Python проекта с uv и Docker](https://habr.com/ru/companies/kryptonite/articles/853548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853548)
+- [Путь к геометрии Лобачевского 2: сфера](https://habr.com/ru/articles/853450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853450)
+- [Системный аналитик 100 lvl — дорожная карта развития](https://habr.com/ru/companies/ibs/articles/853480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853480)
+- [Самая красивая ошибка, которую я нашёл с помощью PVS-Studio в 2024 году](https://habr.com/ru/companies/pvs-studio/articles/853920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853920)
 - [[Перевод] Почему физика так неоправданно хорошо справляется с созданием новой математики](https://habr.com/ru/articles/853884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853884)
-- [Гринатом — паровозик, который смог: внедрили RPA в госкорпорации](https://habr.com/ru/companies/greenatom/articles/853452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853452)
-- [Оптимизация хранимых процедур на PostgreSQL, мигрированных с MsSQL. Подходы к реализации, личный опыт](https://habr.com/ru/companies/usetech/articles/853900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853900)
-- [Строим обучение так, чтобы дойти до конца: научный подход](https://habr.com/ru/companies/yandex_praktikum/articles/852418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852418)
-- [Операционная система реального времени Xenomai 4](https://habr.com/ru/articles/853896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
