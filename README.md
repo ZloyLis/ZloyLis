@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему физика так неоправданно хорошо справляется с созданием новой математики](https://habr.com/ru/articles/853884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853884)
+- [Гринатом — паровозик, который смог: внедрили RPA в госкорпорации](https://habr.com/ru/companies/greenatom/articles/853452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853452)
+- [Оптимизация хранимых процедур на PostgreSQL, мигрированных с MsSQL. Подходы к реализации, личный опыт](https://habr.com/ru/companies/usetech/articles/853900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853900)
 - [Строим обучение так, чтобы дойти до конца: научный подход](https://habr.com/ru/companies/yandex_praktikum/articles/852418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852418)
 - [Операционная система реального времени Xenomai 4](https://habr.com/ru/articles/853896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853896)
-- [ADR: Как сохранить архитектурные решения и избежать повторения ошибок](https://habr.com/ru/articles/853862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853862)
-- [RIP CodeProject](https://habr.com/ru/articles/853770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853770)
-- [Photoshop для детей: 16 ресурсов для обучения – бесплатные и платные](https://habr.com/ru/companies/pixel_study/articles/853876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
