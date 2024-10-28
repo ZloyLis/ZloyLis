@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как жить без IntelliJ IDEA. Часть №2. Поддержка Spring](https://habr.com/ru/companies/spring_aio/articles/854062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854062)
+- [[Перевод] Звездный рейтинг на HTML-CSS](https://habr.com/ru/articles/853458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853458)
 - [Что делать, когда попал на проект без документации](https://habr.com/ru/companies/alfa/articles/853396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853396)
 - [[Перевод] Сгенерированный ИИ код сделает вас плохим программистом](https://habr.com/ru/companies/ruvds/articles/853996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853996)
 - [Как не сломать мониторинг своими руками](https://habr.com/ru/companies/sberbank/articles/854046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854046)
-- [Интерфейсы Человек-ИИ: ключ к будущему взаимодействия](https://habr.com/ru/articles/854038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854038)
-- [Mentorpiece — менторский шедевр?](https://habr.com/ru/articles/854000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
