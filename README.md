@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [3D-model &lpar;векторизация&rpar;](https://habr.com/ru/articles/853980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853980)
+- [GIMPS: нам нужны твои процессор и видеокарта](https://habr.com/ru/articles/853816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853816)
 - [Как создать систему страшных звонков на Хэллоуин на Go и Exolve Voice API](https://habr.com/ru/companies/exolve/articles/853952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853952)
 - [Кратко о сетях. Продолжение](https://habr.com/ru/companies/nauka/articles/853950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853950)
 - [Сборка Python проекта с uv и Docker](https://habr.com/ru/companies/kryptonite/articles/853548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853548)
-- [Путь к геометрии Лобачевского 2: сфера](https://habr.com/ru/articles/853450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853450)
-- [Системный аналитик 100 lvl — дорожная карта развития](https://habr.com/ru/companies/ibs/articles/853480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
