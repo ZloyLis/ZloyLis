@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Онлайн-курсы для детей 10 лет: создание игр, анимации и другое](https://habr.com/ru/companies/pixel_study/articles/854162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854162)
+- [Swift TaskGroup на примерах](https://habr.com/ru/articles/792444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=792444)
+- [Навыки IT Архитектора](https://habr.com/ru/articles/854144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854144)
 - [Front-end глазами back-end разработчика](https://habr.com/ru/articles/854150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854150)
 - [Security Week 2444: браузерный zero-day на сайте криптовалютной игры](https://habr.com/ru/companies/kaspersky/articles/854108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854108)
-- [[Перевод] Асинхронный Rust в трех частях. Часть вторая: Tasks](https://habr.com/ru/companies/beget/articles/854104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854104)
-- [5 результатов обучения в IT и не только](https://habr.com/ru/articles/854096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854096)
-- [Backend-митап от red_mad_robot: прокачиваем GenAI](https://habr.com/ru/companies/redmadrobot/articles/854094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
