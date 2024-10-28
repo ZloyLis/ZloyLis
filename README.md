@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Строим обучение так, чтобы дойти до конца: научный подход](https://habr.com/ru/companies/yandex_praktikum/articles/852418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852418)
+- [Операционная система реального времени Xenomai 4](https://habr.com/ru/articles/853896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853896)
 - [ADR: Как сохранить архитектурные решения и избежать повторения ошибок](https://habr.com/ru/articles/853862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853862)
 - [RIP CodeProject](https://habr.com/ru/articles/853770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853770)
 - [Photoshop для детей: 16 ресурсов для обучения – бесплатные и платные](https://habr.com/ru/companies/pixel_study/articles/853876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853876)
-- [IT для детей: как выбрать программу для школьника](https://habr.com/ru/companies/pixel_study/articles/853874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853874)
-- [Войти в IT – в 37 и с дипломом филфака](https://habr.com/ru/articles/853856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
