@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что делать, когда попал на проект без документации](https://habr.com/ru/companies/alfa/articles/853396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853396)
+- [[Перевод] Сгенерированный ИИ код сделает вас плохим программистом](https://habr.com/ru/companies/ruvds/articles/853996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853996)
 - [Как не сломать мониторинг своими руками](https://habr.com/ru/companies/sberbank/articles/854046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854046)
 - [Интерфейсы Человек-ИИ: ключ к будущему взаимодействия](https://habr.com/ru/articles/854038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854038)
 - [Mentorpiece — менторский шедевр?](https://habr.com/ru/articles/854000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854000)
-- [Как BIM помогает оптимизировать процессы?](https://habr.com/ru/companies/pik_digital/articles/853998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853998)
-- [3D-model &lpar;векторизация&rpar;](https://habr.com/ru/articles/853980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
