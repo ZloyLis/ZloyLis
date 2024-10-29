@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дизайн в условиях кризиса: как ошибались, но все же сделали редизайн интернет-банка](https://habr.com/ru/companies/tbank/articles/853498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853498)
-- [Использование скользящей дисперсии для анализа результатов бенчмарка СУБД](https://habr.com/ru/articles/854220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854220)
-- [Смолатон — вот это действительно был марафон на 22 часа кодинга, а еще презентация, MVP и защита проекта](https://habr.com/ru/articles/854216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854216)
-- [Как работают и на что влияют UX-исследователи в большой компании](https://habr.com/ru/companies/avito/articles/854110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854110)
-- [Игра 2048 в вашем Telegram-боте: как создать MiniApp с помощью FastAPI и Aiogram за несколько шагов](https://habr.com/ru/companies/amvera/articles/853870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853870)
+- [Автоматизация деплоя React-приложения на VPS с помощью Jenkins и Nginx: Пошаговое руководство](https://habr.com/ru/articles/854270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854270)
+- [Наш следующий гость на YouTube-канале в ноябре — легендарный Джон Скит](https://habr.com/ru/articles/854266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854266)
+- [Об отношении к русским айтишникам в Эстонии и дорогой жизни в Израиле, или почему я переехал жить в Таллин](https://habr.com/ru/articles/854258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854258)
+- [Решение СЛАУ с симметричной разреженной матрицей](https://habr.com/ru/articles/854256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854256)
+- [Путь к геометрии Лобачевского 3: стереографическая проекция](https://habr.com/ru/articles/853812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
