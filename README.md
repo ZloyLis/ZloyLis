@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работают и на что влияют UX-исследователи в большой компании](https://habr.com/ru/companies/avito/articles/854110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854110)
 - [Игра 2048 в вашем Telegram-боте: как создать MiniApp с помощью FastAPI и Aiogram за несколько шагов](https://habr.com/ru/companies/amvera/articles/853870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853870)
 - [Техники работы с User stories. Example Mapping и Scenario Mapping](https://habr.com/ru/articles/854134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854134)
 - [Управление зависимостями с Autofac в C#](https://habr.com/ru/companies/otus/articles/852948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852948)
 - [Почему программисты никогда не вымрут](https://habr.com/ru/articles/854164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854164)
-- [Онлайн-курсы для детей 10 лет: создание игр, анимации и другое](https://habr.com/ru/companies/pixel_study/articles/854162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
