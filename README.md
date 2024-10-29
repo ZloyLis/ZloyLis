@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Литкод изи — это просто](https://habr.com/ru/articles/854138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854138)
-- [Глобальная настройка любого компонента в Vue](https://habr.com/ru/articles/854308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854308)
-- [JavaScript-консоль для QA-инженера: от поиска багов до автоматизации](https://habr.com/ru/companies/samolet/articles/853380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853380)
-- [Я аналитик. Надо ли мне разбираться в железе?](https://habr.com/ru/companies/pt/articles/854290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854290)
-- [Envoy Proxy — один за всех Load Balancer](https://habr.com/ru/companies/oleg-bunin/articles/853910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853910)
+- [[Перевод] Разница между очисткой, сбросом и восстановлением моков](https://habr.com/ru/articles/854336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854336)
+- [Эволюция в режиме цейтнота: как мы изобрели SDK и CLI для Cloud.ru Evolution в ходе нагрузочного тестирования](https://habr.com/ru/companies/cloud_ru/articles/847126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847126)
+- [PostgreSQL – особенности работы с памятью для 1С-систем. Часть 1](https://habr.com/ru/companies/softpoint/articles/854316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854316)
+- [Как работать с npm, чтобы у вас не угнали креды](https://habr.com/ru/articles/854314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854314)
+- [Nvidia тюнингует LLaMA, нобелевские лауреаты ликуют, исследователи Apple ищут логику: главные события октября в сфере ИИ](https://habr.com/ru/companies/magnus-tech/articles/853190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
