@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизация деплоя React-приложения на VPS с помощью Jenkins и Nginx: Пошаговое руководство](https://habr.com/ru/articles/854270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854270)
-- [Наш следующий гость на YouTube-канале в ноябре — легендарный Джон Скит](https://habr.com/ru/articles/854266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854266)
-- [Об отношении к русским айтишникам в Эстонии и дорогой жизни в Израиле, или почему я переехал жить в Таллин](https://habr.com/ru/articles/854258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854258)
-- [Решение СЛАУ с симметричной разреженной матрицей](https://habr.com/ru/articles/854256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854256)
-- [Путь к геометрии Лобачевского 3: стереографическая проекция](https://habr.com/ru/articles/853812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853812)
+- [Литкод изи — это просто](https://habr.com/ru/articles/854138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854138)
+- [Глобальная настройка любого компонента в Vue](https://habr.com/ru/articles/854308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854308)
+- [JavaScript-консоль для QA-инженера: от поиска багов до автоматизации](https://habr.com/ru/companies/samolet/articles/853380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853380)
+- [Я аналитик. Надо ли мне разбираться в железе?](https://habr.com/ru/companies/pt/articles/854290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854290)
+- [Envoy Proxy — один за всех Load Balancer](https://habr.com/ru/companies/oleg-bunin/articles/853910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
