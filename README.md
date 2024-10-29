@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать Android приложение, которое не будет стыдно положить в портфолио. Гайд для новичков в Android разработке](https://habr.com/ru/articles/854450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854450)
+- [Как ошибка в ТЗ сделала из тигра бобра, или Почему дизайн — пиковый туз в колоде цифрового продукта](https://habr.com/ru/companies/agima/articles/854428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854428)
+- [Обзор смартфона Tecno Camon 30SPro](https://habr.com/ru/articles/854438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854438)
 - [Как универсально управлять проектами](https://habr.com/ru/articles/854434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854434)
 - [5th элемент корпоративной мобильности: разбираемся с Separated apps в KNOX Service Plugin &lpar;KSP&rpar;](https://habr.com/ru/companies/samsung/articles/854252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854252)
-- [Пробуем Flutter в Telegram Mini Apps: Насколько хорошее решение для разработки?](https://habr.com/ru/articles/854406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854406)
-- [[Перевод] Чего на самом деле стоит ждать от ИИ и почему он начнет приносить прибыль раньше, чем кажется](https://habr.com/ru/companies/vk/articles/854260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854260)
-- [Postgresso 9 &lpar;70&rpar;](https://habr.com/ru/companies/postgrespro/articles/840552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
