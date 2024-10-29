@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайн в условиях кризиса: как ошибались, но все же сделали редизайн интернет-банка](https://habr.com/ru/companies/tbank/articles/853498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853498)
+- [Использование скользящей дисперсии для анализа результатов бенчмарка СУБД](https://habr.com/ru/articles/854220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854220)
+- [Смолатон — вот это действительно был марафон на 22 часа кодинга, а еще презентация, MVP и защита проекта](https://habr.com/ru/articles/854216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854216)
 - [Как работают и на что влияют UX-исследователи в большой компании](https://habr.com/ru/companies/avito/articles/854110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854110)
 - [Игра 2048 в вашем Telegram-боте: как создать MiniApp с помощью FastAPI и Aiogram за несколько шагов](https://habr.com/ru/companies/amvera/articles/853870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853870)
-- [Техники работы с User stories. Example Mapping и Scenario Mapping](https://habr.com/ru/articles/854134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854134)
-- [Управление зависимостями с Autofac в C#](https://habr.com/ru/companies/otus/articles/852948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852948)
-- [Почему программисты никогда не вымрут](https://habr.com/ru/articles/854164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
