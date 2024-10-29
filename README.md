@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgresso 9 &lpar;70&rpar;](https://habr.com/ru/companies/postgrespro/articles/840552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840552)
 - [[Перевод] Специалисты по информатике объединили два «красивых» метода доказательства](https://habr.com/ru/articles/854350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854350)
 - [React Native полностью переделан](https://habr.com/ru/articles/854348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854348)
 - [[Перевод] Разница между очисткой, сбросом и восстановлением моков](https://habr.com/ru/articles/854336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854336)
 - [Эволюция в режиме цейтнота: как мы изобрели SDK и CLI для Cloud.ru Evolution в ходе нагрузочного тестирования](https://habr.com/ru/companies/cloud_ru/articles/847126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847126)
-- [PostgreSQL — особенности работы с памятью для 1С-систем. Часть 1](https://habr.com/ru/companies/softpoint/articles/854316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
