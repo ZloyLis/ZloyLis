@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как универсально управлять проектами](https://habr.com/ru/articles/854434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854434)
+- [5th элемент корпоративной мобильности: разбираемся с Separated apps в KNOX Service Plugin &lpar;KSP&rpar;](https://habr.com/ru/companies/samsung/articles/854252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854252)
 - [Пробуем Flutter в Telegram Mini Apps: Насколько хорошее решение для разработки?](https://habr.com/ru/articles/854406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854406)
 - [[Перевод] Чего на самом деле стоит ждать от ИИ и почему он начнет приносить прибыль раньше, чем кажется](https://habr.com/ru/companies/vk/articles/854260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854260)
 - [Postgresso 9 &lpar;70&rpar;](https://habr.com/ru/companies/postgrespro/articles/840552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=840552)
-- [[Перевод] Специалисты по информатике объединили два «красивых» метода доказательства](https://habr.com/ru/articles/854350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854350)
-- [React Native полностью переделан](https://habr.com/ru/articles/854348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
