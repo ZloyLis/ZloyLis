@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация и оптимизация сигнальных процессов сервис-провайдера с помощью API шлюза](https://habr.com/ru/articles/854490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854490)
 - [[Перевод] Svelte 5 здесь](https://habr.com/ru/articles/854480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854480)
 - [Не играй в догонялки со Spring — Explyt Spring plugin для IDEA Community](https://habr.com/ru/companies/explyt/articles/854304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854304)
 - [[Перевод] Использование Rust в серверах, написанных на других языках, для повышения производительности](https://habr.com/ru/companies/beget/articles/854458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854458)
 - [Голосовое управление биржевой торговлей в программе Биржевой Спекулянт Инвестор &lpar;Платформа 1С Предприятие 8&rpar;](https://habr.com/ru/articles/854462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854462)
-- [Как написать Android приложение, которое не будет стыдно положить в портфолио. Гайд для новичков в Android разработке](https://habr.com/ru/articles/854450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
