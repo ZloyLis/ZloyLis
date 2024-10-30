@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Параллелизм и феномен ван дер Поля](https://habr.com/ru/articles/854814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854814)
 - [Что не так с iOS или как приручить BrowserStack](https://habr.com/ru/articles/854756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854756)
 - [Git для самых маленьких](https://habr.com/ru/articles/854752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854752)
 - [PHP и Laravel дайджест новостей за октябрь 2024 года](https://habr.com/ru/articles/854716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854716)
 - [Стажировка в Яндексе. Быстрый старт](https://habr.com/ru/articles/854740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854740)
-- [Устранение противоречий авторитаризма в менеджменте. На примере процесса «Управление проблемами»](https://habr.com/ru/articles/854730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
