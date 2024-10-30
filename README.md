@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Главный метод Android-приложения](https://habr.com/ru/articles/854726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854726)
+- [Один деплой, чтоб править всеми: катим разные микросервисы по одинаковым рельсам](https://habr.com/ru/companies/yoomoney/articles/854060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854060)
+- [Как превратить онбординг в инструмент развития команды](https://habr.com/ru/companies/oleg-bunin/articles/852750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852750)
+- [[Перевод] Анализ задачи с собеседования в Google: конь и телефонные кнопки](https://habr.com/ru/companies/ruvds/articles/854596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854596)
 - [EA Tool для ИТ-Архитектора](https://habr.com/ru/articles/854240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854240)
-- [IT-справочник: Термины для разработчиков и менеджеров](https://habr.com/ru/articles/854704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854704)
-- [Лучший подручный инструмент для GitHub: учимся работать с Actions](https://habr.com/ru/companies/selectel/articles/854674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854674)
-- [[Перевод] Уделите внимание токенизаторам — и вот почему](https://habr.com/ru/articles/854664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854664)
-- [Kafka Streams ч2: DSL, Processor API](https://habr.com/ru/articles/854680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
