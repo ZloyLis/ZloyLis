@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключение к GigaChat API на Java: пошаговое руководство](https://habr.com/ru/articles/854820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854820)
 - [Параллелизм и феномен ван дер Поля](https://habr.com/ru/articles/854814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854814)
 - [Что не так с iOS или как приручить BrowserStack](https://habr.com/ru/articles/854756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854756)
 - [Git для самых маленьких](https://habr.com/ru/articles/854752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854752)
 - [PHP и Laravel дайджест новостей за октябрь 2024 года](https://habr.com/ru/articles/854716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854716)
-- [Стажировка в Яндексе. Быстрый старт](https://habr.com/ru/articles/854740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
