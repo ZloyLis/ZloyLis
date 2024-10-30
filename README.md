@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стажировка в Яндексе. Быстрый старт](https://habr.com/ru/articles/854740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854740)
+- [Устранение противоречий авторитаризма в менеджменте. На примере процесса «Управление проблемами»](https://habr.com/ru/articles/854730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854730)
 - [Главный метод Android-приложения](https://habr.com/ru/articles/854726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854726)
 - [Один деплой, чтоб править всеми: катим разные микросервисы по одинаковым рельсам](https://habr.com/ru/companies/yoomoney/articles/854060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854060)
 - [Как превратить онбординг в инструмент развития команды](https://habr.com/ru/companies/oleg-bunin/articles/852750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852750)
-- [[Перевод] Анализ задачи с собеседования в Google: конь и телефонные кнопки](https://habr.com/ru/companies/ruvds/articles/854596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854596)
-- [EA Tool для ИТ-Архитектора](https://habr.com/ru/articles/854240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
