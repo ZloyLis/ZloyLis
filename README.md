@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Streams ч2: DSL, Processor API](https://habr.com/ru/articles/854680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854680)
 - [Синхронизация речи и действий: голосовой AI ассистент](https://habr.com/ru/articles/854656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854656)
 - [[Перевод] Действительно ли ИИ-помощники экономят время разработчиков?](https://habr.com/ru/companies/spring_aio/articles/854624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854624)
 - [Погружение в мир Python: Решение проблем с библиотекой ConfigParser](https://habr.com/ru/articles/854628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854628)
 - [Темпоральные методы моделирования атак](https://habr.com/ru/companies/pt/articles/854342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854342)
-- [Как сократить время ответа в 2 раза, добавив одну строку кода](https://habr.com/ru/companies/oleg-bunin/articles/853406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
