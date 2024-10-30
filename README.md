@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование производительности Docker клиентов для Mac](https://habr.com/ru/articles/854832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854832)
 - [17 игр и приложений по созданию анимации и мультипликации – для детей и подростков](https://habr.com/ru/companies/pixel_study/articles/854830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854830)
 - [Как Elasticsearch поломал сборки и «обнулил» звёзды в Github](https://habr.com/ru/articles/854828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854828)
 - [Подключение к GigaChat API на Java: пошаговое руководство](https://habr.com/ru/articles/854820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854820)
 - [Параллелизм и феномен ван дер Поля](https://habr.com/ru/articles/854814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854814)
-- [Что не так с iOS или как приручить BrowserStack](https://habr.com/ru/articles/854756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854756)
 <!-- BLOG-POST-LIST:END -->
 
 ---
