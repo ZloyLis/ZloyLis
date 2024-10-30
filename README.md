@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Доставка изменений при разработке backend приложений](https://habr.com/ru/articles/854574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854574)
-- [Бескультурная сказка про Dottrace](https://habr.com/ru/companies/skbkontur/articles/854340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854340)
-- [Полезные фичи С++ на примере организации пайплайна](https://habr.com/ru/companies/yandex/articles/854352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854352)
-- [Ускоряем браузерные вычисления на коленке с помощью WebAssembly на примере генерации шума](https://habr.com/ru/articles/854528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854528)
-- [Как Unity отказались от своих строк](https://habr.com/ru/articles/854494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854494)
+- [Как системный анализ помогает экономить ресурсы: кейс из реальной разработки](https://habr.com/ru/articles/854600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854600)
+- [Словари в Python: обзор и как пользоваться](https://habr.com/ru/companies/timeweb/articles/854382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854382)
+- [Приложение на Go шаг за шагом. Часть первая: скелет, НТТР-сервер и конфигурация](https://habr.com/ru/companies/yandex_praktikum/articles/854482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854482)
+- [Хотите, покажу вам магию живого кода на p5py?](https://habr.com/ru/companies/sberbank/articles/854474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854474)
+- [Чему и на каких роботах учить на уроках робототехники](https://habr.com/ru/companies/sberbank/articles/853970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
