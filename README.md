@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что не так с iOS или как приручить BrowserStack](https://habr.com/ru/articles/854756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854756)
+- [Git для самых маленьких](https://habr.com/ru/articles/854752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854752)
+- [PHP и Laravel дайджест новостей за октябрь 2024 года](https://habr.com/ru/articles/854716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854716)
 - [Стажировка в Яндексе. Быстрый старт](https://habr.com/ru/articles/854740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854740)
 - [Устранение противоречий авторитаризма в менеджменте. На примере процесса «Управление проблемами»](https://habr.com/ru/articles/854730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854730)
-- [Главный метод Android-приложения](https://habr.com/ru/articles/854726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854726)
-- [Один деплой, чтоб править всеми: катим разные микросервисы по одинаковым рельсам](https://habr.com/ru/companies/yoomoney/articles/854060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854060)
-- [Как превратить онбординг в инструмент развития команды](https://habr.com/ru/companies/oleg-bunin/articles/852750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
