@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Погружение в мир Python: Решение проблем с библиотекой ConfigParser](https://habr.com/ru/articles/854628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854628)
+- [Темпоральные методы моделирования атак](https://habr.com/ru/companies/pt/articles/854342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854342)
+- [Как сократить время ответа в 2 раза, добавив одну строку кода](https://habr.com/ru/companies/okko/articles/853406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853406)
+- [[Перевод] Неформатированный текст не так уж прост](https://habr.com/ru/articles/854416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854416)
 - [Как системный анализ помогает экономить ресурсы: кейс из реальной разработки](https://habr.com/ru/articles/854600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854600)
-- [Словари в Python: обзор и как пользоваться](https://habr.com/ru/companies/timeweb/articles/854382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854382)
-- [Приложение на Go шаг за шагом. Часть первая: скелет, НТТР-сервер и конфигурация](https://habr.com/ru/companies/yandex_praktikum/articles/854482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854482)
-- [Хотите, покажу вам магию живого кода на p5py?](https://habr.com/ru/companies/sberbank/articles/854474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854474)
-- [Чему и на каких роботах учить на уроках робототехники](https://habr.com/ru/companies/sberbank/articles/853970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
