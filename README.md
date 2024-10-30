@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синхронизация речи и действий: голосовой AI ассистент](https://habr.com/ru/articles/854656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854656)
+- [[Перевод] Действительно ли ИИ-помощники экономят время разработчиков?](https://habr.com/ru/companies/spring_aio/articles/854624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854624)
 - [Погружение в мир Python: Решение проблем с библиотекой ConfigParser](https://habr.com/ru/articles/854628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854628)
 - [Темпоральные методы моделирования атак](https://habr.com/ru/companies/pt/articles/854342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854342)
-- [Как сократить время ответа в 2 раза, добавив одну строку кода](https://habr.com/ru/companies/okko/articles/853406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853406)
-- [[Перевод] Неформатированный текст не так уж прост](https://habr.com/ru/articles/854416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854416)
-- [Как системный анализ помогает экономить ресурсы: кейс из реальной разработки](https://habr.com/ru/articles/854600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854600)
+- [Как сократить время ответа в 2 раза, добавив одну строку кода](https://habr.com/ru/companies/oleg-bunin/articles/853406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
