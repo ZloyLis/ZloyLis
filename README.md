@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi 7.0 для iOS](https://habr.com/ru/companies/vivaldi/articles/855006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855006)
+- [Программирование для детей 5–6-х классов: ТОП направлений](https://habr.com/ru/companies/pixel_study/articles/854996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854996)
+- [Препарируем менеджмент гигантов Кремниевой долины. Четыре причины прочитать «Transformed»](https://habr.com/ru/companies/kaspersky/articles/850742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850742)
 - [Собеседование в Яндекс v.2023г](https://habr.com/ru/articles/854956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854956)
 - [Из опыта обучения взрослых людей](https://habr.com/ru/articles/854942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854942)
-- [Python в ispmanager: добавляем сайты с фреймворком Django, работаем с API и утилитами прямо в панели](https://habr.com/ru/companies/ispmanager/articles/854932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854932)
-- [Vivaldi 7.0 для Android](https://habr.com/ru/companies/vivaldi/articles/854930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854930)
-- [Путь к геометрии Лобачевского 4: псевдосфера](https://habr.com/ru/articles/854496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
