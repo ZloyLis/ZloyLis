@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Асинхронный Rust в трех частях. Часть третья: IO](https://habr.com/ru/companies/beget/articles/855136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855136)
+- [Реализация режимов шифрования на языке RUST](https://habr.com/ru/articles/855132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855132)
 - [Игровое поле экспериментов: какие ошибки могут подстерегать программиста при создании эмулятора](https://habr.com/ru/companies/pvs-studio/articles/855108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855108)
 - [Обходим ограничение доступа Github к базе уязвимостей Trivy. Быстрый фикс вам в помощь](https://habr.com/ru/companies/chislitellab/articles/854964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854964)
 - [Problem Management или как превратить проблемы в возможности](https://habr.com/ru/companies/X5Tech/articles/855060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855060)
-- [Как начать создавать Flutter-приложения на Авроре: полная инструкция](https://habr.com/ru/companies/friflex/articles/854928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854928)
-- [CI/CD для начинающих: деплой React-приложения без боли](https://habr.com/ru/companies/selectel/articles/855040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
