@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От казармы до Big Tech: как я стал системным аналитиком в армии с телефоном в кармане](https://habr.com/ru/articles/855184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855184)
+- [От казармы до Big Tech: как я стал системным аналитиком с телефоном в кармане](https://habr.com/ru/articles/855182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855182)
+- [Геометрия мягких ячеек](https://habr.com/ru/articles/855174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855174)
 - [Все о перемещаемых профилях и перенаправлении папок простыми словами](https://habr.com/ru/articles/855166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855166)
 - [[Перевод] Асинхронный Rust в трех частях. Часть третья: IO](https://habr.com/ru/companies/beget/articles/855136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855136)
-- [Реализация режимов шифрования на языке RUST](https://habr.com/ru/articles/855132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855132)
-- [Игровое поле экспериментов: какие ошибки могут подстерегать программиста при создании эмулятора](https://habr.com/ru/companies/pvs-studio/articles/855108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855108)
-- [Обходим ограничение доступа Github к базе уязвимостей Trivy. Быстрый фикс вам в помощь](https://habr.com/ru/companies/chislitellab/articles/854964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
