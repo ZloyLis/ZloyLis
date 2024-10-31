@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выбираю Open Source БД для себя](https://habr.com/ru/companies/alfa/articles/854400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854400)
 - [Как мы внедрили CockroachDB на DBaaS в компанию классических СУБД](https://habr.com/ru/companies/avito/articles/854732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854732)
 - [linkedSignal: управлять связанным состоянием теперь ещё проще](https://habr.com/ru/articles/854842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854842)
 - [Внедрение методики решения проблем 8D на производственном предприятии в виде SRM/ERP-систем/Часть 1](https://habr.com/ru/articles/854854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854854)
 - [«Я спросил у Ясеня». Преимущества и недостатки использования искусственного интеллекта в работе системного аналитика](https://habr.com/ru/articles/854816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854816)
-- [Тестирование производительности Docker клиентов для Mac](https://habr.com/ru/articles/854832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
