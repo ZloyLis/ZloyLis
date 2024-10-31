@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрение методики решения проблем 8D на производственном предприятии в виде SRM/ERP-систем/Часть 1](https://habr.com/ru/articles/854854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854854)
+- [«Я спросил у Ясеня». Преимущества и недостатки использования искусственного интеллекта в работе системного аналитика](https://habr.com/ru/articles/854816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854816)
 - [Тестирование производительности Docker клиентов для Mac](https://habr.com/ru/articles/854832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854832)
 - [17 игр и приложений по созданию анимации и мультипликации – для детей и подростков](https://habr.com/ru/companies/pixel_study/articles/854830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854830)
 - [Как Elasticsearch поломал сборки и «обнулил» звёзды в Github](https://habr.com/ru/articles/854828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854828)
-- [Подключение к GigaChat API на Java: пошаговое руководство](https://habr.com/ru/articles/854820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854820)
-- [Параллелизм и феномен ван дер Поля](https://habr.com/ru/articles/854814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
