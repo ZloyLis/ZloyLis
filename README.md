@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi 7.0 для Android](https://habr.com/ru/companies/vivaldi/articles/854930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854930)
+- [Путь к геометрии Лобачевского 4: псевдосфера](https://habr.com/ru/articles/854496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854496)
+- [GIMP Script-Fu Первый Дан. Шаг первый](https://habr.com/ru/articles/854918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854918)
 - [Не можешь победить — автоматизируй. Упрощаем рутину в аналитических задачах](https://habr.com/ru/companies/sravni/articles/854654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854654)
 - [Эпопея шахматных движков: мой опыт в разработке шахматной программы](https://habr.com/ru/articles/854898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854898)
-- [Как запрогать сайт другу и не поссориться](https://habr.com/ru/articles/854738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854738)
-- [Тактильный отклик в мобильных приложениях: что это такое, когда использовать и зачем?](https://habr.com/ru/companies/domclick/articles/850492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850492)
-- [Захват подписи в 1С с помощью графического планшета](https://habr.com/ru/companies/lad_/articles/854714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
