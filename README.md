@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обходим ограничение доступа Github к базе уязвимостей Trivy. Быстрый фикс вам в помощь](https://habr.com/ru/companies/chislitellab/articles/854964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854964)
+- [Problem Management или как превратить проблемы в возможности](https://habr.com/ru/companies/X5Tech/articles/855060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855060)
+- [Что не так с .NET в Yandex Cloud Functions](https://habr.com/ru/articles/819213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=819213)
 - [Как начать создавать Flutter-приложения на Авроре: полная инструкция](https://habr.com/ru/companies/friflex/articles/854928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854928)
 - [CI/CD для начинающих: деплой React-приложения без боли](https://habr.com/ru/companies/selectel/articles/855040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855040)
-- [Аналитика сайта FRANK by Баста. Как провести редизайн не просто рисуя картинки, а улучшая удобство, метрики и визуал?](https://habr.com/ru/articles/855012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855012)
-- [Vivaldi 7.0 для iOS](https://habr.com/ru/companies/vivaldi/articles/855006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855006)
-- [Программирование для детей 5–6-х классов: ТОП направлений](https://habr.com/ru/companies/pixel_study/articles/854996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
