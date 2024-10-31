@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собеседование в Яндекс v.2023г](https://habr.com/ru/articles/854956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854956)
+- [Из опыта обучения взрослых людей](https://habr.com/ru/articles/854942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854942)
+- [Python в ispmanager: добавляем сайты с фреймворком Django, работаем с API и утилитами прямо в панели](https://habr.com/ru/companies/ispmanager/articles/854932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854932)
 - [Vivaldi 7.0 для Android](https://habr.com/ru/companies/vivaldi/articles/854930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854930)
 - [Путь к геометрии Лобачевского 4: псевдосфера](https://habr.com/ru/articles/854496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854496)
-- [GIMP Script-Fu Первый Дан. Шаг первый](https://habr.com/ru/articles/854918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854918)
-- [Не можешь победить — автоматизируй. Упрощаем рутину в аналитических задачах](https://habr.com/ru/companies/sravni/articles/854654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854654)
-- [Эпопея шахматных движков: мой опыт в разработке шахматной программы](https://habr.com/ru/articles/854898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
