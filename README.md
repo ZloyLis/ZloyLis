@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Выбираю Open Source БД для себя](https://habr.com/ru/companies/alfa/articles/854400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854400)
-- [Как мы внедрили CockroachDB на DBaaS в компанию классических СУБД](https://habr.com/ru/companies/avito/articles/854732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854732)
-- [linkedSignal: управлять связанным состоянием теперь ещё проще](https://habr.com/ru/articles/854842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854842)
-- [Внедрение методики решения проблем 8D на производственном предприятии в виде SRM/ERP-систем/Часть 1](https://habr.com/ru/articles/854854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854854)
-- [«Я спросил у Ясеня». Преимущества и недостатки использования искусственного интеллекта в работе системного аналитика](https://habr.com/ru/articles/854816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854816)
+- [Не можешь победить — автоматизируй. Упрощаем рутину в аналитических задачах](https://habr.com/ru/companies/sravni/articles/854654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854654)
+- [Эпопея шахматных движков: мой опыт в разработке шахматной программы](https://habr.com/ru/articles/854898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854898)
+- [Как запрогать сайт другу и не поссориться](https://habr.com/ru/articles/854738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854738)
+- [Тактильный отклик в мобильных приложениях: что это такое, когда использовать и зачем?](https://habr.com/ru/companies/domclick/articles/850492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850492)
+- [Захват подписи в 1С с помощью графического планшета](https://habr.com/ru/companies/lad_/articles/854714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
