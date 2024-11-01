@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три пути к Flutter: истории разработчиков, которые справились](https://habr.com/ru/companies/finam_broker/articles/855386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855386)
+- [Программирование для детей 7–8-х классов: веб-разработка, моделирование, создание игр и другое](https://habr.com/ru/companies/pixel_study/articles/855384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855384)
+- [[Перевод] Охота за &lpar;не&rpar;аутентифицированным удалённым доступом в роутерах Asus](https://habr.com/ru/companies/ruvds/articles/854576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854576)
+- [Как мы нарушили все гайдлайны Kubernetes, чтобы описывать инфраструктуру в разы быстрее. Доклад Яндекса](https://habr.com/ru/companies/yandex/articles/854506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854506)
 - [17 курсов программирования для детей в Москве](https://habr.com/ru/companies/pixel_study/articles/855364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855364)
-- [Интернет тонет в спаме](https://habr.com/ru/articles/854224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854224)
-- [Отладка и мониторинг в MobX: trace, introspection и spy](https://habr.com/ru/companies/gnivc/articles/855346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855346)
-- [Тестовое с Chat GPT и собеседование с наушником: работают ли чит-коды при трудоустройстве в IT-компанию](https://habr.com/ru/articles/855342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855342)
-- [Миграция данных в Kubernetes: Всё, что нужно знать новичку](https://habr.com/ru/companies/otus/articles/853306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
