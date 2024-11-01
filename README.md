@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Удалённо» управляем компьютером с доступом в BIOS](https://habr.com/ru/companies/ruvds/articles/847842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847842)
 - [Битва титанов: натив, кроссплатформа и PWA – ищем плюсы и минусы на каждом этапе разработки](https://habr.com/ru/companies/clevertec/articles/855066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855066)
 - [Оптимизация архитектуры: делим крупные классы с помощью миксинов](https://habr.com/ru/articles/854610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854610)
 - [Scala Digest. Выпуск 22](https://habr.com/ru/companies/tbank/articles/855240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855240)
 - [GraphQL — знакомство на практике через Postman [пошаговая инструкция]](https://habr.com/ru/articles/852998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852998)
-- [Лёгкости перехода: четыре разработчика о том, почему они перешли на Go](https://habr.com/ru/companies/kuper/articles/854586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
