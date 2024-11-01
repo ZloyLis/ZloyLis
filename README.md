@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ассемблеры, 5 штук — быстрое знакомство для тех кто не знаком](https://habr.com/ru/articles/855158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855158)
 - [От казармы до Big Tech: как я стал системным аналитиком в армии с телефоном в кармане](https://habr.com/ru/articles/855184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855184)
 - [От казармы до Big Tech: как я стал системным аналитиком с телефоном в кармане](https://habr.com/ru/articles/855182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855182)
 - [Геометрия мягких ячеек](https://habr.com/ru/articles/855174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855174)
 - [Все о перемещаемых профилях и перенаправлении папок простыми словами](https://habr.com/ru/articles/855166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855166)
-- [[Перевод] Асинхронный Rust в трех частях. Часть третья: IO](https://habr.com/ru/companies/beget/articles/855136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
