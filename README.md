@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка бота для Telegram на платформе .NET](https://habr.com/ru/articles/855236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855236)
 - [Тактические паттерны DDD](https://habr.com/ru/articles/854140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854140)
 - [Tribuo и регрессия: как строить предсказательные модели на Java](https://habr.com/ru/companies/otus/articles/853300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853300)
 - [[Перевод] AI и Spring Petclinic: Внедрение ИИ-ассистента с Spring AI &lpar;Часть II&rpar;](https://habr.com/ru/companies/spring_aio/articles/855398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855398)
 - [Три пути к Flutter: истории разработчиков, которые справились](https://habr.com/ru/companies/finam_broker/articles/855386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855386)
-- [Программирование для детей 7–8-х классов: веб-разработка, моделирование, создание игр и другое](https://habr.com/ru/companies/pixel_study/articles/855384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
