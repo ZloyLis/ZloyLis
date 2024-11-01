@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tribuo и регрессия: как строить предсказательные модели на Java](https://habr.com/ru/companies/otus/articles/853300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853300)
 - [[Перевод] AI и Spring Petclinic: Внедрение ИИ-ассистента с Spring AI &lpar;Часть II&rpar;](https://habr.com/ru/companies/spring_aio/articles/855398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855398)
 - [Три пути к Flutter: истории разработчиков, которые справились](https://habr.com/ru/companies/finam_broker/articles/855386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855386)
 - [Программирование для детей 7–8-х классов: веб-разработка, моделирование, создание игр и другое](https://habr.com/ru/companies/pixel_study/articles/855384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855384)
 - [[Перевод] Охота за &lpar;не&rpar;аутентифицированным удалённым доступом в роутерах Asus](https://habr.com/ru/companies/ruvds/articles/854576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854576)
-- [Как мы нарушили все гайдлайны Kubernetes, чтобы описывать инфраструктуру в разы быстрее](https://habr.com/ru/companies/yandex/articles/854506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
