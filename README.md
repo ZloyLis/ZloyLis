@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дорожная карта теории вероятностей для собеседований, ШАД и олимпиад](https://habr.com/ru/articles/855332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855332)
+- [Внедрение электронной цифровой подписи в мобильное приложение на Android](https://habr.com/ru/companies/ppr/articles/855314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855314)
 - [GIMP Script-Fu Первый Дан. Первое приветствие](https://habr.com/ru/articles/855292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855292)
 - [«Удалённо» управляем компьютером с доступом в BIOS](https://habr.com/ru/companies/ruvds/articles/847842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847842)
 - [Битва титанов: натив, кроссплатформа и PWA – ищем плюсы и минусы на каждом этапе разработки](https://habr.com/ru/companies/clevertec/articles/855066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855066)
-- [Оптимизация архитектуры: делим крупные классы с помощью миксинов](https://habr.com/ru/articles/854610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854610)
-- [Scala Digest. Выпуск 22](https://habr.com/ru/companies/tbank/articles/855240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
