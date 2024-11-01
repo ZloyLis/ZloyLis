@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мошенничество на основе доверенных данных](https://habr.com/ru/articles/855196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855196)
-- [Абсурдная незащищенность проекта @gamee](https://habr.com/ru/articles/855206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855206)
-- [Ассемблеры, 5 штук — быстрое знакомство для тех кто не знаком](https://habr.com/ru/articles/855158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855158)
-- [От казармы до Big Tech: как я стал системным аналитиком в армии с телефоном в кармане](https://habr.com/ru/articles/855184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855184)
-- [От казармы до Big Tech: как я стал системным аналитиком с телефоном в кармане](https://habr.com/ru/articles/855182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855182)
+- [Мои заметки про процессоры для cовсем маленьких](https://habr.com/ru/articles/855226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855226)
+- [Новая аутентификация в Kubernetes: зачем переходить на Structured Authentication Config](https://habr.com/ru/companies/flant/articles/854914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854914)
+- [Как создать простую операционную систему с нуля](https://habr.com/ru/articles/855222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855222)
+- [Необычные вкусы покупателей: что такое товарные пары и как их исследовать](https://habr.com/ru/companies/ecom_tech/articles/854036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854036)
+- [Как я учил войс чат дискорда работать через прокси с помощью перехвата системных вызовов и DLL Hijacking](https://habr.com/ru/articles/855164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
