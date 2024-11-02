@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему программисты несчастны: минусы работы в IT](https://habr.com/ru/companies/skillfactory/articles/855670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855670)
+- [Что предлагают разработчики мобильных приложений для автоматизации процессов ТОиР? Анализируем рынок](https://habr.com/ru/companies/sigma/articles/855574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855574)
+- [Психология II. Мышление](https://habr.com/ru/articles/855652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855652)
 - [Structurizr инструкция для начинающих](https://habr.com/ru/articles/855434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855434)
-- [Технические кружки для детей: 20 онлайн-курсов – платные и бесплатные](https://habr.com/ru/companies/pixel_study/articles/855648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855648)
-- [Давайте-ка наваяем PumpKeen Game. Как Commander Keen, только про Pumpkin &lpar;тыкву&rpar;. Хэллоуин же](https://habr.com/ru/companies/sberbank/articles/855374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855374)
-- [Что должен знать Junior Frontend разработчик в 2024 году](https://habr.com/ru/articles/855640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855640)
-- [Spring АйО подкаст №1. Spring – эволюция или революция?](https://habr.com/ru/companies/spring_aio/articles/855612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855612)
+- [Технические кружки для детей: 20 онлайн-курсов — платные и бесплатные](https://habr.com/ru/companies/pixel_study/articles/855648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
