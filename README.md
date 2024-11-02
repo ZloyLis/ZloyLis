@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [СTE, подзапрос или представление?](https://habr.com/ru/articles/855694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855694)
-- [Учимся делать игры без pygame: Создание графического интерфейса на Python](https://habr.com/ru/articles/855504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855504)
+- [Учимся делать игры без pygame: Введение в графический интерфейс на Python](https://habr.com/ru/articles/855504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855504)
 - [Несколько «добрых» слов о текущей версии редактора Habr](https://habr.com/ru/articles/855674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855674)
 - [Почему программисты несчастны: минусы работы в IT](https://habr.com/ru/companies/skillfactory/articles/855670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855670)
 - [Что предлагают разработчики мобильных приложений для автоматизации процессов ТОиР? Анализируем рынок](https://habr.com/ru/companies/sigma/articles/855574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855574)
