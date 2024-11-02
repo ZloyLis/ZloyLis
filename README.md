@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 8 инструментов для разработчиков, которые стоит попробовать](https://habr.com/ru/articles/855634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855634)
+- [Малоизвестные фичи SwiftUI](https://habr.com/ru/articles/855484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855484)
+- [[Перевод] Чек-лист: проверяем соответствие стандартам WCAG](https://habr.com/ru/companies/otus/articles/855630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855630)
 - [Способ сохранения и загрузки настроек .NET приложения](https://habr.com/ru/articles/855350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855350)
 - [[Перевод] Уже не джун, но знаний нужно всё больше. Как самостоятельно учиться сложным вещам](https://habr.com/ru/companies/ncloudtech/articles/855340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855340)
-- [Я создал Telegram-бота &lpar;FYTT&rpar;, который ищет Telegram-каналы всех ваших подписок на YouTube](https://habr.com/ru/articles/855558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855558)
-- [Когда 1+1 равно 1 &lpar;часть 1&rpar;](https://habr.com/ru/companies/first/articles/855242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855242)
-- [Вам не нужно готовое API чтобы начать писать фронтенд или краткий обзор готовых решений для мокинга данных](https://habr.com/ru/articles/855524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
