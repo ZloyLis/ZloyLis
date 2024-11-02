@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда 1+1 равно 1 &lpar;часть 1&rpar;](https://habr.com/ru/companies/first/articles/855242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855242)
 - [Вам не нужно готовое API чтобы начать писать фронтенд или краткий обзор готовых решений для мокинга данных](https://habr.com/ru/articles/855524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855524)
 - [Просканировать ископаемые: в МФТИ разработали импортонезависимый софт для нефтяников и золотодобытчиков](https://habr.com/ru/companies/mipt/articles/855092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855092)
 - [[sobjectizer] Что нового в SO-5.8.3 и so5extra-1.6.2?](https://habr.com/ru/articles/855520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855520)
 - [Немного о Durability в Postgres. Часть 1](https://habr.com/ru/articles/855516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855516)
-- [Разработка бота для Telegram на платформе .NET](https://habr.com/ru/articles/855236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
