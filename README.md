@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 8 инструментов для разработчиков, которые стоит попробовать](https://habr.com/ru/articles/855634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855634)
-- [Малоизвестные фичи SwiftUI](https://habr.com/ru/articles/855484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855484)
-- [[Перевод] Чек-лист: проверяем соответствие стандартам WCAG](https://habr.com/ru/companies/otus/articles/855630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855630)
-- [Способ сохранения и загрузки настроек .NET приложения](https://habr.com/ru/articles/855350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855350)
-- [[Перевод] Уже не джун, но знаний нужно всё больше. Как самостоятельно учиться сложным вещам](https://habr.com/ru/companies/ncloudtech/articles/855340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855340)
+- [Structurizr инструкция для начинающих](https://habr.com/ru/articles/855434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855434)
+- [Технические кружки для детей: 20 онлайн-курсов – платные и бесплатные](https://habr.com/ru/companies/pixel_study/articles/855648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855648)
+- [Давайте-ка наваяем PumpKeen Game. Как Commander Keen, только про Pumpkin &lpar;тыкву&rpar;. Хэллоуин же](https://habr.com/ru/companies/sberbank/articles/855374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855374)
+- [Что должен знать Junior Frontend разработчик в 2024 году](https://habr.com/ru/articles/855640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855640)
+- [Spring АйО подкаст №1. Spring – эволюция или революция?](https://habr.com/ru/companies/spring_aio/articles/855612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
