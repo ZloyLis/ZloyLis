@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Смещение значения таймстемпа UUIDv7](https://habr.com/ru/articles/855832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855832)
 - [GIMP Script-Fu Первый Дан. Работа, Печать, Отладка](https://habr.com/ru/articles/855810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855810)
 - [[Перевод] Марии &lpar;db&rpar; 15 лет! 15 причин чтобы её полюбить &lpar;или хотя бы с ней познакомиться&rpar;](https://habr.com/ru/articles/855802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855802)
 - [Сравнение способов отрисовки спрайтов в canvas](https://habr.com/ru/articles/855798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855798)
 - [Без теории к практике: как уловить радиоволну инклюзивного дизайна, опираясь на опыт реальных людей](https://habr.com/ru/articles/855794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855794)
-- [Полиномиальный алгоритм проверки чисел на простоту: тест Агравала-Каяла-Саксены](https://habr.com/ru/articles/855792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
