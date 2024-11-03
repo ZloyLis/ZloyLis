@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравнение способов отрисовки спрайтов в canvas](https://habr.com/ru/articles/855798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855798)
+- [Без теории к практике: как уловить радиоволну инклюзивного дизайна, опираясь на опыт реальных людей](https://habr.com/ru/articles/855794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855794)
+- [Полиномиальный алгоритм проверки чисел на простоту: тест Агравала-Каяла-Саксены](https://habr.com/ru/articles/855792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855792)
+- [Telegram-бот для анализа текста | выделение тематических групп](https://habr.com/ru/articles/855786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855786)
 - [[Перевод] Терпение и труд, или про настоящее безумие](https://habr.com/ru/articles/855782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855782)
-- [Закон больших чисел как лекарство от прокрастинации](https://habr.com/ru/articles/855438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855438)
-- [Kafka и картошка](https://habr.com/ru/articles/855768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855768)
-- [3750 дней разработки AI или почему боты всё ещё не захватили покер](https://habr.com/ru/articles/855766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855766)
-- [Как я создал устройство, которое может удаленно эмулировать мышку и клавиатуру на stm32](https://habr.com/ru/articles/855750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
