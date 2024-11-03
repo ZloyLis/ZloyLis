@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Закон больших чисел как лекарство от прокрастинации](https://habr.com/ru/articles/855438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855438)
 - [Kafka и картошка](https://habr.com/ru/articles/855768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855768)
 - [3750 дней разработки AI или почему боты всё ещё не захватили покер](https://habr.com/ru/articles/855766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855766)
 - [Как я создал устройство, которое может удаленно эмулировать мышку и клавиатуру на stm32](https://habr.com/ru/articles/855750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855750)
 - [Асинхронный SQLAlchemy 2: улучшение кода, методы обновления и удаления данных](https://habr.com/ru/companies/amvera/articles/855740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855740)
-- [Zod. Основные преимущества и неочевидные кейсы использования](https://habr.com/ru/articles/855734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
