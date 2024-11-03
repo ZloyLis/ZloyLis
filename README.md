@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka и картошка](https://habr.com/ru/articles/855768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855768)
+- [3750 дней разработки AI или почему боты всё ещё не захватили покер](https://habr.com/ru/articles/855766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855766)
 - [Как я создал устройство, которое может удаленно эмулировать мышку и клавиатуру на stm32](https://habr.com/ru/articles/855750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855750)
 - [Асинхронный SQLAlchemy 2: улучшение кода, методы обновления и удаления данных](https://habr.com/ru/companies/amvera/articles/855740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855740)
 - [Zod. Основные преимущества и неочевидные кейсы использования](https://habr.com/ru/articles/855734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855734)
-- [Как реализовать быструю реентерабельную блокировку на Python и почему она работает](https://habr.com/ru/articles/855728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855728)
-- [Ты программист? Тогда иди программируй… Или почему я им не стал](https://habr.com/ru/articles/855708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
