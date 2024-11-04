@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Транзакционный анализ поведения на примере ветки комментариев под статьей на Хабре](https://habr.com/ru/articles/855880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855880)
+- [Виды аналитиков данных](https://habr.com/ru/companies/yandex_praktikum/articles/852068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852068)
 - [Комбинационная логика на SystemVerilog](https://habr.com/ru/articles/855866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855866)
 - [Как рефлексия в Kotlin помогает автоматизировать работу с Koin](https://habr.com/ru/articles/855842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855842)
 - [Смещение значения таймстемпа UUIDv7](https://habr.com/ru/articles/855832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855832)
-- [GIMP Script-Fu Первый Дан. Работа, Печать, Отладка](https://habr.com/ru/articles/855810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855810)
-- [[Перевод] Марии &lpar;db&rpar; 15 лет! 15 причин чтобы её полюбить &lpar;или хотя бы с ней познакомиться&rpar;](https://habr.com/ru/articles/855802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
