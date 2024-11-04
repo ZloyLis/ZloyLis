@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #562 &lpar;28 октября — 4 ноября&rpar;](https://habr.com/ru/articles/855930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855930)
+- [[Перевод] Давайте использовать OpenTelemetry со Spring](https://habr.com/ru/companies/spring_aio/articles/855868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855868)
 - [Что почитать и посмотреть разработчикам и менеджерам — рекомендации beeline cloud и авторов медиа «вАЙТИ»](https://habr.com/ru/companies/beeline_cloud/articles/855814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855814)
 - [Подборка российских QA-конференций и митапов](https://habr.com/ru/articles/855914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855914)
 - [PSQLBuddy — резервное копирование и восстановление PostgreSQL](https://habr.com/ru/articles/855912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855912)
-- [Немного о Durability в Postgres. Часть 2](https://habr.com/ru/articles/855910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855910)
-- [[Перевод] Как мы нашли уязвимость в SQLite при помощи LLM](https://habr.com/ru/articles/855882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
