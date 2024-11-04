@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что почитать и посмотреть разработчикам и менеджерам — рекомендации beeline cloud и авторов медиа «вАЙТИ»](https://habr.com/ru/companies/beeline_cloud/articles/855814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855814)
+- [Подборка российских QA-конференций и митапов](https://habr.com/ru/articles/855914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855914)
 - [PSQLBuddy — резервное копирование и восстановление PostgreSQL](https://habr.com/ru/articles/855912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855912)
 - [Немного о Durability в Postgres. Часть 2](https://habr.com/ru/articles/855910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855910)
 - [[Перевод] Как мы нашли уязвимость в SQLite при помощи LLM](https://habr.com/ru/articles/855882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855882)
-- [Ctrl+S для Kubernetes: Volume Snapshots](https://habr.com/ru/companies/otus/articles/853706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853706)
-- [JavaScript: структуры данных и алгоритмы. Часть 6](https://habr.com/ru/companies/timeweb/articles/845544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
