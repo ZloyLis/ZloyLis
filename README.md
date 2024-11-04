@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Диалог — часть навигации или нет?](https://habr.com/ru/articles/854988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854988)
 - [Apple Pro Weekly News &lpar;28.10 – 03.11.24&rpar;](https://habr.com/ru/articles/855986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855986)
 - [[Перевод] Алгоритм генетической колонии пчел для задачи коммивояжера](https://habr.com/ru/articles/855970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855970)
 - [Дизайн Просмотр 2024 МСК 26—27 октября](https://habr.com/ru/articles/855954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855954)
 - [[Перевод] Python REST API: Flask, Connexion и SQLAlchemy &lpar;часть 1&rpar;](https://habr.com/ru/articles/855936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855936)
-- [Пишем примитивное управление громкостью PC по локалке на NodeJS](https://habr.com/ru/articles/782384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=782384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
