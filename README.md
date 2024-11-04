@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PSQLBuddy — резервное копирование и восстановление PostgreSQL](https://habr.com/ru/articles/855912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855912)
+- [Немного о Durability в Postgres. Часть 2](https://habr.com/ru/articles/855910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855910)
+- [[Перевод] Как мы нашли уязвимость в SQLite при помощи LLM](https://habr.com/ru/articles/855882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855882)
 - [Ctrl+S для Kubernetes: Volume Snapshots](https://habr.com/ru/companies/otus/articles/853706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853706)
 - [JavaScript: структуры данных и алгоритмы. Часть 6](https://habr.com/ru/companies/timeweb/articles/845544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845544)
-- [Путь к геометрии Лобачевского 5: модель Пуанкаре в круге](https://habr.com/ru/articles/854834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854834)
-- [Виды аналитиков данных](https://habr.com/ru/companies/yandex_praktikum/articles/852068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852068)
-- [Комбинационная логика на SystemVerilog](https://habr.com/ru/articles/855866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
