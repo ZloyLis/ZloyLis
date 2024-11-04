@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: структуры данных и алгоритмы. Часть 6](https://habr.com/ru/companies/timeweb/articles/845544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845544)
+- [Путь к геометрии Лобачевского 5: модель Пуанкаре в круге](https://habr.com/ru/articles/854834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854834)
 - [Транзакционный анализ поведения на примере ветки комментариев под статьей на Хабре](https://habr.com/ru/articles/855880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855880)
 - [Виды аналитиков данных](https://habr.com/ru/companies/yandex_praktikum/articles/852068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852068)
 - [Комбинационная логика на SystemVerilog](https://habr.com/ru/articles/855866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855866)
-- [Как рефлексия в Kotlin помогает автоматизировать работу с Koin](https://habr.com/ru/articles/855842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855842)
-- [Смещение значения таймстемпа UUIDv7](https://habr.com/ru/articles/855832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
