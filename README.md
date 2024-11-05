@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Детское программирование: 10 проектов, которые могут создать дети](https://habr.com/ru/companies/pixel_study/articles/856076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856076)
-- [Грязные трюки C++ из userver и Boost](https://habr.com/ru/companies/yandex/articles/852244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852244)
-- [Работа в «песочнице» с торговым роботом на Московской бирже](https://habr.com/ru/articles/855302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855302)
-- [Хеджирование Uniswap V3 позиций с помощью опционов](https://habr.com/ru/articles/855990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855990)
-- [Разные GPO для пользователей или зачем такое количество OU](https://habr.com/ru/articles/856014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856014)
+- [[Перевод] HHH90003004: firstResult/maxResults specified with collection fetch; applying in memory](https://habr.com/ru/articles/856092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856092)
+- [«Я тебя слепила из того, что было» и другие принципы IT-обучения в пьесе в трёх актах](https://habr.com/ru/companies/alfa/articles/855540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855540)
+- [Знакомьтесь: input, output и model. Новые функции в Angular](https://habr.com/ru/companies/domclick/articles/854530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854530)
+- [Как сделать один плагин сразу для всех сборщиков фронтенда?](https://habr.com/ru/articles/856028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856028)
+- [[Перевод] Я прождал 10 миллиардов тактов и дождался лишь экрана загрузки](https://habr.com/ru/articles/855972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
