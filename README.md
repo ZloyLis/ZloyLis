@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Избегаем ада перекомпиляции в Elixir с помощью mix xref](https://habr.com/ru/articles/856254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856254)
+- [GIMP Script-Fu Первый Дан. Макросы. Первое знакомство](https://habr.com/ru/articles/856246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856246)
 - [Делаем форму обратного звонка: лендинг, Go и SMS-уведомления](https://habr.com/ru/companies/ru_mts/articles/856232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856232)
 - [Поиск ошибок в юнит-тестах](https://habr.com/ru/companies/pvs-studio/articles/856220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856220)
 - [История создания MS-DOS: Как 75 тысяч долларов изменили судьбу Microsoft](https://habr.com/ru/companies/first/articles/856212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856212)
-- [Какие нужны аналитики в 2025?](https://habr.com/ru/articles/856214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856214)
-- [[Перевод] Книга: «Git: контроль версий. 3-е изд.»](https://habr.com/ru/companies/piter/articles/854422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
