@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Антитренды в мобильной разработке на Flutter](https://habr.com/ru/companies/friflex/articles/854292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854292)
+- [Компьютерное зрение на С++: подключаем ML-библиотеки и обрабатываем результаты поиска объектов](https://habr.com/ru/companies/yadro/articles/856110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856110)
 - [Как выбрать репетитора по программированию для ребенка](https://habr.com/ru/companies/pixel_study/articles/856158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856158)
 - [Стартап как диплом в магистратуре МФТИ. Обзор второго семестра и участие команды ZNATNO в акселераторе «Физтех.Идея»](https://habr.com/ru/articles/856124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856124)
 - [Путь к геометрии Лобачевского 6: финал](https://habr.com/ru/articles/855470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855470)
-- [Онлайн-курсы дизайна для детей: ТОП-10 бесплатных и платных вариантов](https://habr.com/ru/companies/pixel_study/articles/856146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856146)
-- [Чем ещё тимлиду заняться в ноябре](https://habr.com/ru/companies/oleg-bunin/articles/855372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
