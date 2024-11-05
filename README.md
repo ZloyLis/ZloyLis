@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пишем небольшое приложение на Python для повышения продуктивности с помощью ИИ и BotHub API](https://habr.com/ru/companies/bothub/articles/854322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854322)
+- [Погружение в интерфейсы Go](https://habr.com/ru/articles/856272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856272)
 - [Избегаем ада перекомпиляции в Elixir с помощью mix xref](https://habr.com/ru/articles/856254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856254)
 - [GIMP Script-Fu Первый Дан. Макросы. Первое знакомство](https://habr.com/ru/articles/856246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856246)
 - [Делаем форму обратного звонка: лендинг, Go и SMS-уведомления](https://habr.com/ru/companies/ru_mts/articles/856232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856232)
