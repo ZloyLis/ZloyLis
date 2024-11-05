@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обойти ребут РС при применении групповых политик. Часть 1](https://habr.com/ru/articles/856320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856320)
 - [За что дали Нобелевскую премию по химии: да, снова за AI-модель](https://habr.com/ru/companies/redmadrobot/articles/856310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856310)
 - [[Перевод] Python 3.13, что не попало в заголовки](https://habr.com/ru/companies/beget/articles/856288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856288)
 - [Погружение в интерфейсы Go](https://habr.com/ru/articles/856272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856272)
 - [Избегаем ада перекомпиляции в Elixir с помощью mix xref](https://habr.com/ru/articles/856254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856254)
-- [GIMP Script-Fu Первый Дан. Макросы. Первое знакомство](https://habr.com/ru/articles/856246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
