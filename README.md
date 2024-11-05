@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Детское программирование: 10 проектов, которые могут создать дети](https://habr.com/ru/companies/pixel_study/articles/856076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856076)
+- [Грязные трюки C++ из userver и Boost](https://habr.com/ru/companies/yandex/articles/852244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852244)
 - [Работа в «песочнице» с торговым роботом на Московской бирже](https://habr.com/ru/articles/855302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855302)
 - [Хеджирование Uniswap V3 позиций с помощью опционов](https://habr.com/ru/articles/855990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855990)
 - [Разные GPO для пользователей или зачем такое количество OU](https://habr.com/ru/articles/856014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856014)
-- [Диалог — часть навигации или нет?](https://habr.com/ru/articles/854988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854988)
-- [Apple Pro Weekly News &lpar;28.10 – 03.11.24&rpar;](https://habr.com/ru/articles/855986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
