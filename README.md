@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] HHH90003004: firstResult/maxResults specified with collection fetch; applying in memory](https://habr.com/ru/articles/856092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856092)
-- [«Я тебя слепила из того, что было» и другие принципы IT-обучения в пьесе в трёх актах](https://habr.com/ru/companies/alfa/articles/855540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855540)
-- [Знакомьтесь: input, output и model. Новые функции в Angular](https://habr.com/ru/companies/domclick/articles/854530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854530)
-- [Как сделать один плагин сразу для всех сборщиков фронтенда?](https://habr.com/ru/articles/856028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856028)
-- [[Перевод] Я прождал 10 миллиардов тактов и дождался лишь экрана загрузки](https://habr.com/ru/articles/855972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855972)
+- [[Перевод] Стиверу, с благодарностью от Java](https://habr.com/ru/articles/856128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856128)
+- [Личный опыт: добавление микроразметки на сайт](https://habr.com/ru/articles/856120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856120)
+- [Очередная реализация fluid sim методом Эйлера, но в блокноте WL. Часть 1](https://habr.com/ru/articles/856020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856020)
+- [Сравнение операторов RxJava 3 и Kotlin Coroutines Flow](https://habr.com/ru/articles/856106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856106)
+- [Value stream mapping как инструмент запуска изменений](https://habr.com/ru/companies/tbank/articles/856100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
