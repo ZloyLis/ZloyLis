@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Стиверу, с благодарностью от Java](https://habr.com/ru/articles/856128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856128)
-- [Личный опыт: добавление микроразметки на сайт](https://habr.com/ru/articles/856120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856120)
-- [Очередная реализация fluid sim методом Эйлера, но в блокноте WL. Часть 1](https://habr.com/ru/articles/856020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856020)
-- [Сравнение операторов RxJava 3 и Kotlin Coroutines Flow](https://habr.com/ru/articles/856106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856106)
-- [Value stream mapping как инструмент запуска изменений](https://habr.com/ru/companies/tbank/articles/856100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856100)
+- [Как выбрать репетитора по программированию для ребенка](https://habr.com/ru/companies/pixel_study/articles/856158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856158)
+- [Стартап как диплом в магистратуре МФТИ. Обзор второго семестра и участие команды ZNATNO в акселераторе «Физтех.Идея»](https://habr.com/ru/articles/856124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856124)
+- [Путь к геометрии Лобачевского 6: финал](https://habr.com/ru/articles/855470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855470)
+- [Онлайн-курсы дизайна для детей: ТОП-10 бесплатных и платных вариантов](https://habr.com/ru/companies/pixel_study/articles/856146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856146)
+- [Чем ещё тимлиду заняться в ноябре](https://habr.com/ru/companies/oleg-bunin/articles/855372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
