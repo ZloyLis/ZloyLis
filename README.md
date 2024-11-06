@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование фронтенд компонентов с jest-dom на видимость пользователю](https://habr.com/ru/articles/856522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856522)
+- [Сборка мусора в Java. Часть №1. Обзор сборщиков мусора и их различий](https://habr.com/ru/companies/spring_aio/articles/856468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856468)
+- [PostgreSQL 18: Часть 1 или Коммитфест 2024-07](https://habr.com/ru/companies/postgrespro/articles/856498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856498)
 - [Очередная реализация fluid sim методом Эйлера, но в блокноте WL. Адвекция. Часть 2](https://habr.com/ru/articles/856442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856442)
 - [Глобально оптимальный, восьмой и наиболее быстрый вид интерпретаторов байткода](https://habr.com/ru/articles/856480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856480)
-- [Этот код не то, чем кажется: что творится на мониторе в фильмах и сериалах](https://habr.com/ru/companies/ddosguard/articles/856186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856186)
-- [[Перевод] Виртуальные потоки Java: разбор тестовых сценариев](https://habr.com/ru/companies/otus/articles/856464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856464)
-- [[Перевод] Наиболее используемые шаблоны проектирования распределенных систем](https://habr.com/ru/articles/856452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
