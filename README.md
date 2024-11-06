@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Прочитай перед тем, как делать анимацию по скроллу](https://habr.com/ru/articles/856382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856382)
-- [Обновления Deckhouse Kubernetes Platform 1.61-1.64: переход на Grafana 10, отказоустойчивость с Fencing, CLI для Windows](https://habr.com/ru/companies/flant/articles/842742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842742)
-- [Пишем простую нейронку для адаптивного управления JVM: обучение и применение многослойной нейронной сети на Java](https://habr.com/ru/articles/856376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856376)
-- [GPT в эдтехе: какие задачи преподавателей теперь выполняет ИИ](https://habr.com/ru/companies/yandex_praktikum/articles/852286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852286)
-- [Курс веб-дизайна для детей: обучение с нуля бесплатно](https://habr.com/ru/companies/pixel_study/articles/856372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856372)
+- [Управляем проектом и его документацией при помощи Python](https://habr.com/ru/companies/timeweb/articles/848584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848584)
+- [Теорема о бесконечных обезьянах: математическое опровержение](https://habr.com/ru/companies/ua-hosting/articles/855894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855894)
+- [Engee – лучшая альтернатива MATLAB, Simulink, Amesim](https://habr.com/ru/companies/etmc_exponenta/articles/854554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854554)
+- [Как обойти ребут РС при применении групповых политик. Часть 2. Последняя](https://habr.com/ru/articles/856394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856394)
+- [30 лучших игр в Roblox в 2024 году](https://habr.com/ru/companies/pixel_study/articles/856386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
