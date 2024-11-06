@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [486-го хватит всем](https://habr.com/ru/articles/856572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856572)
 - [Реализация горизонтального кеширования в PHP с Redis Cluster](https://habr.com/ru/companies/otus/articles/848000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848000)
 - [Поющий молится дважды или пишем приложение в помощь хористу](https://habr.com/ru/articles/856330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856330)
 - [Как отключить ECH для вашего домена на Cloudflare](https://habr.com/ru/articles/856602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856602)
 - [Базы данных: общие понятия. SA для самых маленьких](https://habr.com/ru/articles/856576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856576)
-- [Проблема неактивной кнопки отправки формы](https://habr.com/ru/articles/856570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
