@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как отключить ECH для вашего домена на Cloudflare](https://habr.com/ru/articles/856602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856602)
+- [Базы данных: общие понятия. SA для самых маленьких](https://habr.com/ru/articles/856576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856576)
 - [Проблема неактивной кнопки отправки формы](https://habr.com/ru/articles/856570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856570)
 - [Ошибки в обучении детей программированию: ТОП-5](https://habr.com/ru/companies/pixel_study/articles/856556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856556)
 - [Применение «Волнового алгоритма» для игры «Сапер»](https://habr.com/ru/articles/856546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856546)
-- [Почему Scheme?](https://habr.com/ru/articles/856508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856508)
-- [[Перевод] Языки программирования, взорвавшие мой мозг](https://habr.com/ru/companies/ruvds/articles/856496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
