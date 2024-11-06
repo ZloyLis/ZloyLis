@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Начинаем в багбаунти: доступно об уязвимостях типа Broken Access Control](https://habr.com/ru/companies/pt/articles/855148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855148)
 - [Управляем проектом и его документацией при помощи Python](https://habr.com/ru/companies/timeweb/articles/848584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848584)
 - [Теорема о бесконечных обезьянах: математическое опровержение](https://habr.com/ru/companies/ua-hosting/articles/855894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855894)
 - [Engee – лучшая альтернатива MATLAB, Simulink, Amesim](https://habr.com/ru/companies/etmc_exponenta/articles/854554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854554)
 - [Как обойти ребут РС при применении групповых политик. Часть 2. Последняя](https://habr.com/ru/articles/856394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856394)
-- [30 лучших игр в Roblox в 2024 году](https://habr.com/ru/companies/pixel_study/articles/856386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
