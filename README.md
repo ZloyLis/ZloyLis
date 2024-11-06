@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Применение «Волнового алгоритма» для игры «Сапер»](https://habr.com/ru/articles/856546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856546)
+- [Почему Scheme?](https://habr.com/ru/articles/856508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856508)
+- [[Перевод] Языки программирования, взорвавшие мой мозг](https://habr.com/ru/companies/ruvds/articles/856496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856496)
+- [GPT в эдтехе: какие задачи теперь выполняет ИИ](https://habr.com/ru/companies/yandex_praktikum/articles/856542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856542)
 - [Тестирование фронтенд компонентов с jest-dom на видимость пользователю](https://habr.com/ru/articles/856522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856522)
-- [Сборка мусора в Java. Часть №1. Обзор сборщиков мусора и их различий](https://habr.com/ru/companies/spring_aio/articles/856468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856468)
-- [PostgreSQL 18: Часть 1 или Коммитфест 2024-07](https://habr.com/ru/companies/postgrespro/articles/856498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856498)
-- [Очередная реализация fluid sim методом Эйлера, но в блокноте WL. Адвекция. Часть 2](https://habr.com/ru/articles/856442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856442)
-- [Глобально оптимальный, восьмой и наиболее быстрый вид интерпретаторов байткода](https://habr.com/ru/articles/856480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
