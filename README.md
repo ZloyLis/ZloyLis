@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Очередная реализация fluid sim методом Эйлера, но в блокноте WL. Адвекция. Часть 2](https://habr.com/ru/articles/856442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856442)
+- [Глобально оптимальный, восьмой и наиболее быстрый вид интерпретаторов байткода](https://habr.com/ru/articles/856480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856480)
+- [Этот код не то, чем кажется: что творится на мониторе в фильмах и сериалах](https://habr.com/ru/companies/ddosguard/articles/856186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856186)
+- [[Перевод] Виртуальные потоки Java: разбор тестовых сценариев](https://habr.com/ru/companies/otus/articles/856464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856464)
 - [[Перевод] Наиболее используемые шаблоны проектирования распределенных систем](https://habr.com/ru/articles/856452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856452)
-- [Как упростить управление базами данных и снизить расходы](https://habr.com/ru/articles/856448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856448)
-- [О стандартах не спорят? Обсудим — на митапе для С++ разработчиков](https://habr.com/ru/companies/yadro/articles/856440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856440)
-- [Начинаем в багбаунти: доступно об уязвимостях типа Broken Access Control](https://habr.com/ru/companies/pt/articles/855148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855148)
-- [Управляем проектом и его документацией при помощи Python](https://habr.com/ru/companies/timeweb/articles/848584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
