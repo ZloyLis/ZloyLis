@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прочитай перед тем, как делать анимацию по скроллу](https://habr.com/ru/articles/856382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856382)
+- [Обновления Deckhouse Kubernetes Platform 1.61-1.64: переход на Grafana 10, отказоустойчивость с Fencing, CLI для Windows](https://habr.com/ru/companies/flant/articles/842742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842742)
+- [Пишем простую нейронку для адаптивного управления JVM: обучение и применение многослойной нейронной сети на Java](https://habr.com/ru/articles/856376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856376)
+- [GPT в эдтехе: какие задачи преподавателей теперь выполняет ИИ](https://habr.com/ru/companies/yandex_praktikum/articles/852286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852286)
 - [Курс веб-дизайна для детей: обучение с нуля бесплатно](https://habr.com/ru/companies/pixel_study/articles/856372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856372)
-- [[Перевод] Невероятно быстрый подсчёт байтов](https://habr.com/ru/articles/856334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856334)
-- [Как обойти ребут РС при применении групповых политик. Часть 1](https://habr.com/ru/articles/856320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856320)
-- [За что дали Нобелевскую премию по химии: да, снова за AI-модель](https://habr.com/ru/companies/redmadrobot/articles/856310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856310)
-- [[Перевод] Python 3.13, что не попало в заголовки](https://habr.com/ru/companies/beget/articles/856288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
