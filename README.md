@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Жизненный цикл контейнеров в Docker Compose: использование хуков post_start, pre_stop](https://habr.com/ru/articles/856698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856698)
-- [UML для всех: почему бы не описать проект на языке диаграмм?](https://habr.com/ru/companies/korus_consulting/articles/856696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856696)
-- [Лучшие backend-фреймворки для веб-разработки в 2024 году](https://habr.com/ru/companies/timeweb/articles/856584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856584)
-- [Как развернуть сервис в Kubernetes: гайд для начинающих](https://habr.com/ru/companies/runity/articles/856686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856686)
-- [Зачем искать палиндромы и вращать матрицы в поисках лучшей работы](https://habr.com/ru/companies/kryptonite/articles/856136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856136)
+- [Разница между ранним и поздним связыванием](https://habr.com/ru/articles/856578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856578)
+- [[Перевод] Разбираем выравнивание данных и структуру памяти в Rust](https://habr.com/ru/companies/beget/articles/856720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856720)
+- [Как в базе поставщиков найти лучшие по цене предложения, чтобы показать их пользователю](https://habr.com/ru/companies/oleg-bunin/articles/856540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856540)
+- [GIMP Script-Fu Первый Дан. Расширения к Script-fu](https://habr.com/ru/articles/856718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856718)
+- [[Перевод] Новый этап эволюции Vue — Vapor](https://habr.com/ru/companies/first/articles/856346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
