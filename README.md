@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор решений описания и обновления state экрана в Сompose](https://habr.com/ru/companies/sberbank/articles/856544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856544)
+- [Как растут data science-инженеры и что советуют синьоры, чтобы развиваться быстрее](https://habr.com/ru/companies/avito/articles/856472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856472)
 - [Опционы и формула Блэка-Шоулза &lpar;часть 1&rpar;](https://habr.com/ru/articles/855994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855994)
 - [486-го хватит всем](https://habr.com/ru/articles/856572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856572)
 - [Реализация горизонтального кеширования в PHP с Redis Cluster](https://habr.com/ru/companies/otus/articles/848000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848000)
-- [Поющий молится дважды или пишем приложение в помощь хористу](https://habr.com/ru/articles/856330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856330)
-- [Как отключить ECH для вашего домена на Cloudflare](https://habr.com/ru/articles/856602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
