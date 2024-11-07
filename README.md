@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайн за 5 минут. Дайджест октября 2024](https://habr.com/ru/companies/garage8/articles/856738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856738)
+- [Как я перешел из веб разработки в мобильную?](https://habr.com/ru/articles/855146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855146)
 - [Разница между ранним и поздним связыванием](https://habr.com/ru/articles/856578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856578)
 - [[Перевод] Разбираем выравнивание данных и структуру памяти в Rust](https://habr.com/ru/companies/beget/articles/856720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856720)
 - [Как в базе поставщиков найти лучшие по цене предложения, чтобы показать их пользователю](https://habr.com/ru/companies/oleg-bunin/articles/856540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856540)
-- [GIMP Script-Fu Первый Дан. Расширения к Script-fu](https://habr.com/ru/articles/856718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856718)
-- [[Перевод] Новый этап эволюции Vue — Vapor](https://habr.com/ru/companies/first/articles/856346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
