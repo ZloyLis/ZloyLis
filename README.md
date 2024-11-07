@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обновить зависимости, чтобы не было больно](https://habr.com/ru/companies/usetech/articles/856806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856806)
+- [Зачем нам Node.js или Angular на бэкенде](https://habr.com/ru/companies/eftech/articles/856840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856840)
+- [10 детских онлайн-лагерей: информационные технологии, языки, творчество и другие направления](https://habr.com/ru/companies/pixel_study/articles/856834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856834)
 - [Курс Roblox в 8–9 лет и старше: моделирование и программирование](https://habr.com/ru/companies/pixel_study/articles/856830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856830)
 - [[Перевод] Правительство США: критически важное программное обеспечение должно отказаться от C/C++ к 2026 году](https://habr.com/ru/articles/856804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856804)
-- [100+ бесплатных уроков по программированию для детей и подростков онлайн](https://habr.com/ru/companies/pixel_study/articles/856808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856808)
-- [Как создать плохой REST-сервис: краткое руководство](https://habr.com/ru/companies/naumen/articles/856734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856734)
-- [Из опыта обучения взрослых. Практические приёмы](https://habr.com/ru/articles/856800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
