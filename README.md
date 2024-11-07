@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] KAN: Kolmogorov–Arnold Networks](https://habr.com/ru/articles/856776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856776)
-- [.NET Digest #4](https://habr.com/ru/companies/pvs-studio/articles/856772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856772)
-- [Очередная реализация fluid sim методом Эйлера, но в блокноте WL. Чернила. Часть 3](https://habr.com/ru/articles/856758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856758)
-- [Мини UX-патруль: редизайн Яндекс Музыки, который не смог](https://habr.com/ru/articles/856716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856716)
-- [Как мы докатились до Kubernetes и чем он заслужил любовь бизнеса](https://habr.com/ru/articles/856752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856752)
+- [Как создать плохой REST-сервис: краткое руководство](https://habr.com/ru/companies/naumen/articles/856734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856734)
+- [Из опыта обучения взрослых. Практические приёмы](https://habr.com/ru/articles/856800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856800)
+- [Apache Flink: Сериализация и JacksonStateSerializer](https://habr.com/ru/companies/ru_mts/articles/856774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856774)
+- [Книга: «Математика для Data Science. Управляем данными с помощью линейной алгебры, теории вероятностей и статистики»](https://habr.com/ru/companies/piter/articles/856764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856764)
+- [Как мы сделали собственный Software-Defined Storage для публичного облака Cloud.ru Evolution](https://habr.com/ru/companies/cloud_ru/articles/842744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
