@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дизайн за 5 минут. Дайджест октября 2024](https://habr.com/ru/companies/garage8/articles/856738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856738)
-- [Как я перешел из веб разработки в мобильную?](https://habr.com/ru/articles/855146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855146)
-- [Разница между ранним и поздним связыванием](https://habr.com/ru/articles/856578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856578)
-- [[Перевод] Разбираем выравнивание данных и структуру памяти в Rust](https://habr.com/ru/companies/beget/articles/856720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856720)
-- [Как в базе поставщиков найти лучшие по цене предложения, чтобы показать их пользователю](https://habr.com/ru/companies/oleg-bunin/articles/856540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856540)
+- [[Перевод] KAN: Kolmogorov–Arnold Networks](https://habr.com/ru/articles/856776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856776)
+- [.NET Digest #4](https://habr.com/ru/companies/pvs-studio/articles/856772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856772)
+- [Очередная реализация fluid sim методом Эйлера, но в блокноте WL. Чернила. Часть 3](https://habr.com/ru/articles/856758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856758)
+- [Мини UX-патруль: редизайн Яндекс Музыки, который не смог](https://habr.com/ru/articles/856716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856716)
+- [Как мы докатились до Kubernetes и чем он заслужил любовь бизнеса](https://habr.com/ru/articles/856752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
