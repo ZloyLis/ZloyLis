@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как масштабировать права в проекте и продуктах без боли](https://habr.com/ru/companies/skbkontur/articles/855628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855628)
-- [Как мы строили платформу на базе Kubernetes и старались не скатиться в «Кубер с аутентификацией»](https://habr.com/ru/companies/gazprombank/articles/854334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854334)
-- [Мой путь в мире веб-рендеринга: от статических страниц к гибридным архитектурам](https://habr.com/ru/companies/domclick/articles/855982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855982)
-- [Rust: безопасность памяти без потерь в скорости](https://habr.com/ru/companies/otus/articles/856298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856298)
-- [Обзор решений описания и обновления state экрана в Сompose](https://habr.com/ru/companies/sberbank/articles/856544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856544)
+- [Жизненный цикл контейнеров в Docker Compose: использование хуков post_start, pre_stop](https://habr.com/ru/articles/856698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856698)
+- [UML для всех: почему бы не описать проект на языке диаграмм?](https://habr.com/ru/companies/korus_consulting/articles/856696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856696)
+- [Лучшие backend-фреймворки для веб-разработки в 2024 году](https://habr.com/ru/companies/timeweb/articles/856584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856584)
+- [Как развернуть сервис в Kubernetes: гайд для начинающих](https://habr.com/ru/companies/runity/articles/856686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856686)
+- [Зачем искать палиндромы и вращать матрицы в поисках лучшей работы](https://habr.com/ru/companies/kryptonite/articles/856136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
