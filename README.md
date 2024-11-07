@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как масштабировать права в проекте и продуктах без боли](https://habr.com/ru/companies/skbkontur/articles/855628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855628)
+- [Как мы строили платформу на базе Kubernetes и старались не скатиться в «Кубер с аутентификацией»](https://habr.com/ru/companies/gazprombank/articles/854334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854334)
+- [Мой путь в мире веб-рендеринга: от статических страниц к гибридным архитектурам](https://habr.com/ru/companies/domclick/articles/855982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855982)
+- [Rust: безопасность памяти без потерь в скорости](https://habr.com/ru/companies/otus/articles/856298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856298)
 - [Обзор решений описания и обновления state экрана в Сompose](https://habr.com/ru/companies/sberbank/articles/856544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856544)
-- [Как растут data science-инженеры и что советуют синьоры, чтобы развиваться быстрее](https://habr.com/ru/companies/avito/articles/856472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856472)
-- [Опционы и формула Блэка-Шоулза &lpar;часть 1&rpar;](https://habr.com/ru/articles/855994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855994)
-- [486-го хватит всем](https://habr.com/ru/articles/856572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856572)
-- [Реализация горизонтального кеширования в PHP с Redis Cluster](https://habr.com/ru/companies/otus/articles/848000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=848000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
