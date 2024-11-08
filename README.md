@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как внести свой вклад в Open Source и стать полезным](https://habr.com/ru/articles/856490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856490)
+- [Код из цитат Шварценеггера и песен Битлов: как мир искусства проникал в эзотерические языки программирования](https://habr.com/ru/companies/gazprombank/articles/857002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857002)
 - [Flutter Web. Часть 2](https://habr.com/ru/companies/surfstudio/articles/856986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856986)
 - [Почему важно растить джунов и как делать это с умом](https://habr.com/ru/companies/yandex_praktikum/articles/856768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856768)
 - [Склеить несколько видеофайлов, что может быть проще…](https://habr.com/ru/articles/856648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856648)
-- [Keycloak Starter. Удобный способ аутентификации и авторизации](https://habr.com/ru/companies/alfastrah/articles/856856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856856)
-- [Один день из жизни системного аналитика: синки, факапы в тестировании, сценарии и шутейки](https://habr.com/ru/companies/ru_mts/articles/856864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
