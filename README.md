@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один день из жизни системного аналитика: синки, факапы в тестировании, сценарии и шутейки](https://habr.com/ru/companies/ru_mts/articles/856864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856864)
 - [Старое, доброе, немного ламповое ИК управление](https://habr.com/ru/articles/856938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856938)
-- [Старое, доброе, немного ламповое ИК управление](https://habr.com/ru/articles/856936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856936)
 - [Что такое Data Driven подход](https://habr.com/ru/articles/856920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856920)
 - [Делегирование как инструмент лидерства, эффективности, мотивации и профессионального развития](https://habr.com/ru/articles/856888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856888)
 - [Java Digest #18](https://habr.com/ru/companies/tbank/articles/856788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856788)
