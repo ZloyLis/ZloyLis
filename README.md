@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [App Intents: новые возможности для разработчиков в iOS 18](https://habr.com/ru/companies/kts/articles/857078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857078)
+- [Как инженеру техподдержки трансформироваться в мобильного разработчика](https://habr.com/ru/companies/rosbank/articles/857154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857154)
 - [Бухгалтерия &lpar;А&rpar;УСН, ПСН в Excel с выводом декларации в xls, ТОП-10 и прибыльностью](https://habr.com/ru/articles/857138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857138)
 - [[Перевод] 7 популярных библиотек Vue 3 UI-компонентов, которые заслуживают внимания](https://habr.com/ru/articles/857116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857116)
 - [Алгоритмы. Рекурсивные функции. Часть I](https://habr.com/ru/articles/857086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857086)
-- [Telegram web apps как альтернатива мобильным приложениям](https://habr.com/ru/articles/857104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857104)
-- [[Перевод] Австралия, Лорд-Хау — самый странный часовой пояс](https://habr.com/ru/companies/ruvds/articles/856780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
