@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram web apps как альтернатива мобильным приложениям](https://habr.com/ru/articles/857104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857104)
+- [[Перевод] Австралия, Лорд-Хау — самый странный часовой пояс](https://habr.com/ru/companies/ruvds/articles/856780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856780)
 - [Разработка гибкой платформы для кредитования: от крупных банков к массовому рынку](https://habr.com/ru/companies/smartup_tech/articles/857066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857066)
 - [ChatGPT как второй пилот: сильные и слабые стороны с практическими советами](https://habr.com/ru/articles/857056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857056)
 - [Переосмысление концепции подсчета ссылок и полный отказ от сборщика мусора](https://habr.com/ru/articles/853646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853646)
-- [[Перевод] Сила лидерского слушания](https://habr.com/ru/companies/ncloudtech/articles/857004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857004)
-- [Как внести свой вклад в Open Source и стать полезным](https://habr.com/ru/articles/856490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
