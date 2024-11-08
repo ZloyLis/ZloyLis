@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Старое, доброе, немного ламповое ИК управление](https://habr.com/ru/articles/856938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856938)
+- [Старое, доброе, немного ламповое ИК управление](https://habr.com/ru/articles/856936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856936)
+- [Что такое Data Driven подход](https://habr.com/ru/articles/856920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856920)
+- [Делегирование как инструмент лидерства, эффективности, мотивации и профессионального развития](https://habr.com/ru/articles/856888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856888)
 - [Java Digest #18](https://habr.com/ru/companies/tbank/articles/856788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856788)
-- [Управление памятью в ассемблере для Apple Silicon](https://habr.com/ru/articles/852874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852874)
-- [Как обновить зависимости, чтобы не было больно](https://habr.com/ru/companies/usetech/articles/856806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856806)
-- [Зачем нам Node.js или Angular на бэкенде](https://habr.com/ru/companies/eftech/articles/856840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856840)
-- [10 детских онлайн-лагерей: информационные технологии, языки, творчество и другие направления](https://habr.com/ru/companies/pixel_study/articles/856834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
