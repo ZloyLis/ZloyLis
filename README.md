@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [kjs-box: добавляем ленивые модули, ресурсы с типизацией и модели представления в React-проекты на Kotlin](https://habr.com/ru/articles/857202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857202)
 - [Feature-Sliced Design &lpar;FSD&rpar;: Основы и практические примеры архитектуры](https://habr.com/ru/articles/857192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857192)
 - [App Intents: новые возможности для разработчиков в iOS 18](https://habr.com/ru/companies/kts/articles/857078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857078)
 - [Как инженеру техподдержки трансформироваться в мобильного разработчика](https://habr.com/ru/companies/rosbank/articles/857154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857154)
 - [Бухгалтерия &lpar;А&rpar;УСН, ПСН в Excel с выводом декларации в xls, ТОП-10 и прибыльностью](https://habr.com/ru/articles/857138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857138)
-- [[Перевод] 7 популярных библиотек Vue 3 UI-компонентов, которые заслуживают внимания](https://habr.com/ru/articles/857116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
