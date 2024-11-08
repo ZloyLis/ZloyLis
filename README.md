@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Web. Часть 2](https://habr.com/ru/companies/surfstudio/articles/856986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856986)
+- [Почему важно растить джунов и как делать это с умом](https://habr.com/ru/companies/yandex_praktikum/articles/856768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856768)
+- [Склеить несколько видеофайлов, что может быть проще…](https://habr.com/ru/articles/856648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856648)
+- [Keycloak Starter. Удобный способ аутентификации и авторизации](https://habr.com/ru/companies/alfastrah/articles/856856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856856)
 - [Один день из жизни системного аналитика: синки, факапы в тестировании, сценарии и шутейки](https://habr.com/ru/companies/ru_mts/articles/856864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856864)
-- [Старое, доброе, немного ламповое ИК управление](https://habr.com/ru/articles/856938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856938)
-- [Что такое Data Driven подход](https://habr.com/ru/articles/856920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856920)
-- [Делегирование как инструмент лидерства, эффективности, мотивации и профессионального развития](https://habr.com/ru/articles/856888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856888)
-- [Java Digest #18](https://habr.com/ru/companies/tbank/articles/856788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
