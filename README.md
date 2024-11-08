@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бухгалтерия &lpar;А&rpar;УСН, ПСН в Excel с выводом декларации в xls, ТОП-10 и прибыльностью](https://habr.com/ru/articles/857138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857138)
+- [[Перевод] 7 популярных библиотек Vue 3 UI-компонентов, которые заслуживают внимания](https://habr.com/ru/articles/857116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857116)
+- [Алгоритмы. Рекурсивные функции. Часть I](https://habr.com/ru/articles/857086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857086)
 - [Telegram web apps как альтернатива мобильным приложениям](https://habr.com/ru/articles/857104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857104)
 - [[Перевод] Австралия, Лорд-Хау — самый странный часовой пояс](https://habr.com/ru/companies/ruvds/articles/856780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856780)
-- [Разработка гибкой платформы для кредитования: от крупных банков к массовому рынку](https://habr.com/ru/companies/smartup_tech/articles/857066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857066)
-- [ChatGPT как второй пилот: сильные и слабые стороны с практическими советами](https://habr.com/ru/articles/857056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857056)
-- [Переосмысление концепции подсчета ссылок и полный отказ от сборщика мусора](https://habr.com/ru/articles/853646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
