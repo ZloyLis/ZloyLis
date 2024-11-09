@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сдохни или умри: мой опыт создания проекта от идеи до релиза](https://habr.com/ru/articles/855162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855162)
 - [Студенты для студентов: от курсов по вышмату в МИСиС до приложения для вузов по всей России](https://habr.com/ru/articles/857256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857256)
 - [Создание IDE для Amdroid на Java. #1](https://habr.com/ru/articles/857248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857248)
 - [Адаптеры в Android: «сервируем» данные красиво](https://habr.com/ru/articles/857242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857242)
 - [Boson — разработка СУБД «с нуля» &lpar;итог&rpar;](https://habr.com/ru/articles/856876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856876)
-- [kjs-box: добавляем ленивые модули, ресурсы с типизацией и модели представления в React-проекты на Kotlin](https://habr.com/ru/articles/857202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
