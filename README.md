@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моя парадигма программирования](https://habr.com/ru/articles/857284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857284)
+- [[Перевод] 10 популярных трендов в тестировании ПО в 2024 году](https://habr.com/ru/articles/857282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857282)
 - [Outstatic CMS для персонального блога на Next.js: Легко и Быстро](https://habr.com/ru/articles/857278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857278)
 - [Выйти из IT или почему я не на месте TradingView](https://habr.com/ru/articles/857276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857276)
 - [Сдохни или умри: мой опыт создания проекта от идеи до релиза](https://habr.com/ru/articles/855162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855162)
-- [Студенты для студентов: от курсов по вышмату в МИСиС до приложения для вузов по всей России](https://habr.com/ru/articles/857256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857256)
-- [Создание IDE для Android на Java. #1](https://habr.com/ru/articles/857248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
