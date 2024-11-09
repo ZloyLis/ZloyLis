@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CBLT — безопасный, быстрый и минималистичный веб-сервер на языке программирования Rust](https://habr.com/ru/articles/857306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857306)
+- [Пишем небольшое приложение на Python для повышения продуктивности с помощью ИИ и BotHub API](https://habr.com/ru/companies/bothub/articles/853490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853490)
 - [Skyrim — и только блеск кожанки в отражении заднего зеркала](https://habr.com/ru/articles/857292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857292)
 - [Моя парадигма программирования](https://habr.com/ru/articles/857284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857284)
 - [[Перевод] 10 популярных трендов в тестировании ПО в 2024 году](https://habr.com/ru/articles/857282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857282)
-- [Outstatic CMS для персонального блога на Next.js: Легко и Быстро](https://habr.com/ru/articles/857278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857278)
-- [Выйти из IT или почему я не на месте TradingView](https://habr.com/ru/articles/857276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
