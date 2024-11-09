@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apex Architecture: Модульность и стабильность в Android-разработке](https://habr.com/ru/articles/857332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857332)
 - [Разработка служб для Windows на C++](https://habr.com/ru/articles/857312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857312)
 - [CBLT — безопасный, быстрый и минималистичный веб-сервер на языке программирования Rust](https://habr.com/ru/articles/857306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857306)
 - [Пишем небольшое приложение на Python для повышения продуктивности с помощью ИИ и BotHub API](https://habr.com/ru/companies/bothub/articles/853490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853490)
 - [Skyrim — и только блеск кожанки в отражении заднего зеркала](https://habr.com/ru/articles/857292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857292)
-- [Моя парадигма программирования](https://habr.com/ru/articles/857284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
