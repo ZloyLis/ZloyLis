@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширения VSCode для комфортной работы с проектами](https://habr.com/ru/articles/857458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857458)
 - [Тяжелый H[header]](https://habr.com/ru/articles/856916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856916)
 - [Действительно ли смартфон может работать в режиме скрытой прослушки?](https://habr.com/ru/companies/globalsign/articles/857438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857438)
 - [5 проблем микросервисов на gRPC + TypeScript](https://habr.com/ru/articles/857432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857432)
 - [Как организовать сериализацию в Redux и избежать ошибки: non-serializable value](https://habr.com/ru/articles/857430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857430)
-- [Мобильная разработка за неделю #563 &lpar;5 — 10 ноября&rpar;](https://habr.com/ru/articles/857412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
