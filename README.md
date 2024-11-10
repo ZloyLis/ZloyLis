@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ход в игре «крестики-нолики» с помощью SAT-солвера](https://habr.com/ru/articles/857352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857352)
 - [Ответ на статью о «Наиболее быстром интерпретаторе»](https://habr.com/ru/articles/857342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857342)
 - [«Так и знала, что вы — бывший двоечник!» Самые глупые ошибки моей компьютерной молодости](https://habr.com/ru/articles/853834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853834)
 - [Apex Architecture: Модульность и стабильность в Android-разработке](https://habr.com/ru/articles/857332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857332)
 - [Разработка служб для Windows на C++](https://habr.com/ru/articles/857312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857312)
-- [CBLT — безопасный, быстрый и минималистичный веб-сервер на языке программирования Rust](https://habr.com/ru/articles/857306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
