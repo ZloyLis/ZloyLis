@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Действительно ли смартфон может работать в режиме скрытой прослушки?](https://habr.com/ru/companies/globalsign/articles/857438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857438)
 - [5 проблем микросервисов на gRPC + TypeScript](https://habr.com/ru/articles/857432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857432)
-- [Ошибка сериализации в Redux: как организовать хранение файлов в React-приложении](https://habr.com/ru/articles/857430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857430)
+- [Как организовать сериализацию в Redux и избежать ошибки: non-serializable value](https://habr.com/ru/articles/857430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857430)
 - [Мобильная разработка за неделю #563 &lpar;5 — 10 ноября&rpar;](https://habr.com/ru/articles/857412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857412)
 - [DPC &lpar;Device Policy Controller&rpar;: админим блокировку экрана в Android](https://habr.com/ru/companies/kaspersky/articles/854584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854584)
-- [Библиотека CUtils](https://habr.com/ru/articles/857398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
