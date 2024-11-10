@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #563 &lpar;5 — 10 ноября&rpar;](https://habr.com/ru/articles/857412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857412)
+- [DPC &lpar;Device Policy Controller&rpar;: админим блокировку экрана в Android](https://habr.com/ru/companies/kaspersky/articles/854584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854584)
 - [Библиотека CUtils](https://habr.com/ru/articles/857398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857398)
 - [[Перевод] Почему программное обеспечение движется только вперёд](https://habr.com/ru/companies/ruvds/articles/856990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856990)
 - [История одного модального окна или переходим с UIKit на SwiftUI. Часть 3. ProgressView vs SkeletonView](https://habr.com/ru/articles/853600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853600)
-- [Ход в игре «крестики-нолики» с помощью SAT-солвера](https://habr.com/ru/articles/857352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857352)
-- [Ответ на статью о «Наиболее быстром интерпретаторе»](https://habr.com/ru/articles/857342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
