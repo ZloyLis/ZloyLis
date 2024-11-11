@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Семантический веб: краткий обзор технологий и инструментов](https://habr.com/ru/articles/857652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857652)
+- [[Перевод] Как мы обнаружили потенциальные атаки при помощи штрих-кодов](https://habr.com/ru/companies/ruvds/articles/857540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857540)
 - [Применение статических анализаторов архитектуры на примере гексагональной архитектуры](https://habr.com/ru/companies/docdoc/articles/856978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856978)
 - [Как мы работу блочного pNFS исправляли: продолжение остросюжетного детектива с Linux в главной роли](https://habr.com/ru/companies/cloud_ru/articles/856268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856268)
 - [Паттерн Наблюдатель в Golang на котиках](https://habr.com/ru/companies/otus/articles/857330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857330)
-- [Ускорение LUP-разложения матрицы с помощью OpenCL](https://habr.com/ru/articles/857568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857568)
-- [[Перевод] Обманчивая статистическая значимость](https://habr.com/ru/companies/wunderfund/articles/857562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
