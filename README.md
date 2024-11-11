@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Запросто собираем базу данных при помощи команд Linux](https://habr.com/ru/articles/857756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857756)
+- [5 фич в JDK, о которых вы могли не слышать](https://habr.com/ru/companies/otus/articles/856852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856852)
 - [Концептуальный wish-you-happy-debug](https://habr.com/ru/articles/857744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857744)
 - [[Перевод] Состояние производительности Python 3.13: Free-Threading](https://habr.com/ru/companies/beget/articles/857724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857724)
 - [Путь одного IOS-приложения](https://habr.com/ru/articles/857720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857720)
-- [Как управлять техническим долгом и минимизировать его влияние на проект](https://habr.com/ru/articles/857718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857718)
-- [🪄 Мой топ-5 полезных Figma-плагинов для работы с компонентами и токенами — UX/UI дизайн](https://habr.com/ru/articles/857346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
