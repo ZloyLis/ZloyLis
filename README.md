@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Описываем UseCase&#39;ы правильно](https://habr.com/ru/articles/857698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857698)
+- [Security Week 2446: исследование троянской программы SteelFox](https://habr.com/ru/companies/kaspersky/articles/857686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857686)
 - [Flutter Push-уведомления, том числе в Web](https://habr.com/ru/articles/857678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857678)
 - [Как разобрать и собрать обратно apk под windows](https://habr.com/ru/articles/857506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857506)
 - [[Перевод] Поддержка RestClient для OAuth2 в Spring Security 6.4](https://habr.com/ru/companies/spring_aio/articles/857664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857664)
-- [Семантический веб: краткий обзор технологий и инструментов](https://habr.com/ru/articles/857652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857652)
-- [[Перевод] Как мы обнаружили потенциальные атаки при помощи штрих-кодов](https://habr.com/ru/companies/ruvds/articles/857540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
