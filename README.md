@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Pygame для начинающих программистов. Статья первая](https://habr.com/ru/articles/857500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857500)
+- [Почему я не готовлюсь к алгоритмическому интервью](https://habr.com/ru/articles/856904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856904)
 - [Уровни изоляции транзакций в PostgreSQL, MySQL, MSQL, Oracle с примерами на Go](https://habr.com/ru/articles/857486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857486)
 - [Написание ETL пайплайна при помощи airflow, rabbitmq и postgres](https://habr.com/ru/articles/857476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857476)
 - [Буферный пул для максимальной скорости: квест по победе над Nginx](https://habr.com/ru/articles/857462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857462)
-- [Расширения VSCode для комфортной работы с проектами](https://habr.com/ru/articles/857458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857458)
-- [Тяжелый H[header]](https://habr.com/ru/articles/856916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
