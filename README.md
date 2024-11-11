@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Sample Ratio Mismatch спасает A/B тесты от ложных выводов](https://habr.com/ru/companies/otus/articles/856612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856612)
 - [Как мы развиваем архитектурные навыки ИТ-специалистов в Сбере](https://habr.com/ru/companies/sberbank/articles/857524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857524)
 - [[Перевод] Пример использования Spring Data и Redis для временного хранения персональных данных](https://habr.com/ru/articles/857518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857518)
 - [Перебор Соседних Клеток — забавные формулы](https://habr.com/ru/articles/857516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857516)
 - [Чем занимается фронтенд-разработчик — джуниор, мидл, синьор и тимлид](https://habr.com/ru/companies/yandex_praktikum/articles/856182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856182)
-- [Pygame для начинающих программистов. Статья первая](https://habr.com/ru/articles/857500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
