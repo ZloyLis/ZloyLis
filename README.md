@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускорение LUP-разложения матрицы с помощью OpenCL](https://habr.com/ru/articles/857568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857568)
+- [[Перевод] Обманчивая статистическая значимость](https://habr.com/ru/companies/wunderfund/articles/857562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857562)
+- [Опционы и формула Блэка-Шоулза &lpar;часть 2&rpar;](https://habr.com/ru/articles/855996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855996)
+- [Как силами мобильных разработчиков автоматизировать процесс разработки](https://habr.com/ru/companies/skbkontur/articles/856374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856374)
 - [Как Sample Ratio Mismatch спасает A/B тесты от ложных выводов](https://habr.com/ru/companies/otus/articles/856612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856612)
-- [Как мы развиваем архитектурные навыки ИТ-специалистов в Сбере](https://habr.com/ru/companies/sberbank/articles/857524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857524)
-- [[Перевод] Пример использования Spring Data и Redis для временного хранения персональных данных](https://habr.com/ru/articles/857518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857518)
-- [Перебор Соседних Клеток — забавные формулы](https://habr.com/ru/articles/857516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857516)
-- [Чем занимается фронтенд-разработчик — джуниор, мидл, синьор и тимлид](https://habr.com/ru/companies/yandex_praktikum/articles/856182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
