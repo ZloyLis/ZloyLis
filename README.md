@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь одного IOS-приложения](https://habr.com/ru/articles/857720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857720)
+- [Как управлять техническим долгом и минимизировать его влияние на проект](https://habr.com/ru/articles/857718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857718)
+- [🪄 По-настоящему полезные Figma-плагины для UX дизайнера &lpar;не вру&rpar;](https://habr.com/ru/articles/857346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857346)
+- [Классы без лишнего веса: инлайн-классы в Kotlin](https://habr.com/ru/companies/otus/articles/855160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855160)
 - [Описываем UseCase&#39;ы правильно](https://habr.com/ru/articles/857698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857698)
-- [Security Week 2446: исследование троянской программы SteelFox](https://habr.com/ru/companies/kaspersky/articles/857686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857686)
-- [Flutter Push-уведомления, том числе в Web](https://habr.com/ru/articles/857678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857678)
-- [Как разобрать и собрать обратно apk под windows](https://habr.com/ru/articles/857506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857506)
-- [[Перевод] Поддержка RestClient для OAuth2 в Spring Security 6.4](https://habr.com/ru/companies/spring_aio/articles/857664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
