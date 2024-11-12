@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DDD и аналитика данных](https://habr.com/ru/articles/857948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857948)
+- [[Перевод] Глубокое погружение в базовую архитектуру LPU Groq](https://habr.com/ru/articles/857800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857800)
+- [GIMP Script-Fu Первый Дан. Погружение в программирование графики](https://habr.com/ru/articles/857918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857918)
 - [OpenShift и Kubernetes: сравнительный обзор, основные различия](https://habr.com/ru/companies/sberbank/articles/857908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857908)
 - [Синхронизация звука и видео. Взгляд дилетанта](https://habr.com/ru/articles/857882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857882)
-- [Как тестировщики запустили ВездеКОТ](https://habr.com/ru/companies/rshb/articles/857878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857878)
-- [Как я пытался приручить кофемашину](https://habr.com/ru/articles/857874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857874)
-- [Экспертиза под микроскопом [Оголяемся технологически. MaxPatrol SIEM]](https://habr.com/ru/companies/pt/articles/857760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
