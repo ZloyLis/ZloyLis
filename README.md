@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech каналы Telegram](https://habr.com/ru/articles/857826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857826)
+- [Как сделать интерактивную панель для отправки SMS](https://habr.com/ru/companies/exolve/articles/857992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857992)
 - [По мотивам одного сбоя в БД Oracle](https://habr.com/ru/companies/tbank/articles/856446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856446)
 - [Погружение в Kubernetes Network Policies](https://habr.com/ru/companies/beeline_cloud/articles/857972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857972)
 - [Никогда не используйте MySQL, всегда используйте PostgreSQL](https://habr.com/ru/articles/857966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857966)
-- [DDD и аналитика данных](https://habr.com/ru/articles/857948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857948)
-- [[Перевод] Глубокое погружение в базовую архитектуру LPU Groq](https://habr.com/ru/articles/857800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
