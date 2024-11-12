@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust без прикрас: где мы ошибаемся](https://habr.com/ru/companies/beget/articles/857168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857168)
+- [Apple Pro Weekly News &lpar;04.11 – 10.11.24&rpar;](https://habr.com/ru/articles/858026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858026)
 - [Tech каналы Telegram](https://habr.com/ru/articles/857826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857826)
 - [Как сделать интерактивную панель для отправки SMS](https://habr.com/ru/companies/exolve/articles/857992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857992)
 - [По мотивам одного сбоя в БД Oracle](https://habr.com/ru/companies/tbank/articles/856446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856446)
-- [Погружение в Kubernetes Network Policies](https://habr.com/ru/companies/beeline_cloud/articles/857972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857972)
-- [Никогда не используйте MySQL, всегда используйте PostgreSQL](https://habr.com/ru/articles/857966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
