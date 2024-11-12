@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Умножение троичных матриц для нейросетей](https://habr.com/ru/articles/857788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857788)
 - [Стильные обои на телефон: что актуально, а что кринж?](https://habr.com/ru/articles/857778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857778)
 - [[Перевод] Запросто собираем базу данных при помощи команд Linux](https://habr.com/ru/articles/857756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857756)
 - [5 фич в JDK, о которых вы могли не слышать](https://habr.com/ru/companies/otus/articles/856852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856852)
 - [Концептуальный wish-you-happy-debug](https://habr.com/ru/articles/857744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857744)
-- [[Перевод] Состояние производительности Python 3.13: Free-Threading](https://habr.com/ru/companies/beget/articles/857724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
