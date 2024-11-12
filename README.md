@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дизайн аналитических инструментов для управления СИМ в мегаполисе: вызовы и решения](https://habr.com/ru/articles/857830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857830)
+- [От провала до успеха один шаг: как спасти заваленный проект](https://habr.com/ru/companies/lanit/articles/854366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854366)
 - [Как пройти стажировку бизнес- и системного аналитика и не «сгореть» в персональной преисподней](https://habr.com/ru/articles/857814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857814)
 - [Мотивационные стили в обучении: почему вам &lpar;возможно&rpar; не нужны цели или общение с одногруппниками](https://habr.com/ru/companies/yandex_praktikum/articles/855124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855124)
 - [Turbo-Pascal 5.5 &lpar;и другие&rpar; в браузере — с загрузкой программ по ссылке](https://habr.com/ru/articles/857422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857422)
-- [Создание плагина для IntelliJ IDE с подключением GigaChat для проверки качества кода](https://habr.com/ru/articles/857796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857796)
-- [Умножение троичных матриц для нейросетей](https://habr.com/ru/articles/857788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
