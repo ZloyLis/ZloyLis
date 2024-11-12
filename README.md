@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синхронизация звука и видео. Взгляд дилетанта](https://habr.com/ru/articles/857882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857882)
+- [Как тестировщики запустили ВездеКОТ](https://habr.com/ru/companies/rshb/articles/857878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857878)
 - [Как я пытался приручить кофемашину](https://habr.com/ru/articles/857874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857874)
 - [Экспертиза под микроскопом [Оголяемся технологически. MaxPatrol SIEM]](https://habr.com/ru/companies/pt/articles/857760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857760)
 - [Анонс докладов по управлению знаниями](https://habr.com/ru/companies/oleg-bunin/articles/857612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857612)
-- [Не бойтесь потоков в Python, они не кусаются](https://habr.com/ru/companies/otus/articles/857094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857094)
-- [Когда 1+1 равно 1 &lpar;часть 2&rpar;](https://habr.com/ru/companies/first/articles/857748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
