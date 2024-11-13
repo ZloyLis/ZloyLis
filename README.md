@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение SMD CODES  для смартфонов для распознания электронных компонентов по маркировке на корпусе](https://habr.com/ru/articles/858392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858392)
+- [Нафига козе баян? &lpar;Мне не сдались такие программисты&rpar;](https://habr.com/ru/articles/858386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858386)
 - [Почему не стоит использовать C в C++](https://habr.com/ru/articles/858366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858366)
 - [Безопасность во Frontend или как пройти все круги Данте](https://habr.com/ru/articles/858332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858332)
 - [Слои UX, Business Model Canvas и CJM – что такое и зачем надобно](https://habr.com/ru/articles/858328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858328)
-- [Коммитить нельзя сканировать: как мы боремся с секретами в коде](https://habr.com/ru/companies/vk/articles/858022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858022)
-- [[Перевод] Датчик линейного положения, работающий по принципу электронного штангенциркуля](https://habr.com/ru/companies/ruvds/articles/858240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
