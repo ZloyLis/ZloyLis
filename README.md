@@ -38,7 +38,7 @@ ___
 - [[Перевод] Датчик линейного положения, работающий по принципу электронного штангенциркуля](https://habr.com/ru/companies/ruvds/articles/858240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858240)
 - [Сборка мусора в Java. Часть 2. Прогресс со времени выхода JDK 8](https://habr.com/ru/companies/spring_aio/articles/858166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858166)
 - [Прощай, программист? AI уже пишет код лучше тебя](https://habr.com/ru/articles/858268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858268)
-- [Словарь омонимов программисткого жаргона](https://habr.com/ru/articles/858218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858218)
+- [Словарь программисткого жаргона без англицизмов](https://habr.com/ru/articles/858218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858218)
 - [Почему мы выбрали gRPC вместо tRPC?](https://habr.com/ru/articles/858186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858186)
 <!-- BLOG-POST-LIST:END -->
 
