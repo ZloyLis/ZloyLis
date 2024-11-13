@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование с помощью Excel](https://habr.com/ru/articles/858322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858322)
 - [Коммитить нельзя сканировать: как мы боремся с секретами в коде](https://habr.com/ru/companies/vk/articles/858022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858022)
 - [[Перевод] Датчик линейного положения, работающий по принципу электронного штангенциркуля](https://habr.com/ru/companies/ruvds/articles/858240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858240)
 - [Сборка мусора в Java. Часть 2. Прогресс со времени выхода JDK 8](https://habr.com/ru/companies/spring_aio/articles/858166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858166)
 - [Прощай, программист? AI уже пишет код лучше тебя](https://habr.com/ru/articles/858268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858268)
-- [Словарь программисткого жаргона без англицизмов](https://habr.com/ru/articles/858218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
