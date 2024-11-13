@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поревьюим и порефакторим — Ассемблер для любопытных #2](https://habr.com/ru/articles/857208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857208)
 - [Вывод уравнений Фридмана и анализ одного из его предельных решений](https://habr.com/ru/articles/857472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857472)
 - [Конференции PGConf.СПб 2024 и PGConf.Academy](https://habr.com/ru/companies/postgrespro/articles/856594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856594)
 - [Pygame для начинающих программистов. Статья вторая. События](https://habr.com/ru/articles/858050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858050)
 - [Rust без прикрас: где мы ошибаемся](https://habr.com/ru/companies/beget/articles/857168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857168)
-- [Apple Pro Weekly News &lpar;04.11 – 10.11.24&rpar;](https://habr.com/ru/articles/858026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
