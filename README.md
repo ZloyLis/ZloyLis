@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Транзакции в Spring: сила управления данными](https://habr.com/ru/companies/otus/articles/856842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856842)
 - [Поревьюим и порефакторим — Ассемблер для любопытных #2](https://habr.com/ru/articles/857208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857208)
 - [Вывод уравнений Фридмана и анализ одного из его предельных решений](https://habr.com/ru/articles/857472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857472)
 - [Конференции PGConf.СПб 2024 и PGConf.Academy](https://habr.com/ru/companies/postgrespro/articles/856594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856594)
 - [Pygame для начинающих программистов. Статья вторая. События](https://habr.com/ru/articles/858050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858050)
-- [Rust без прикрас: где мы ошибаемся](https://habr.com/ru/companies/beget/articles/857168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
