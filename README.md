@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему мы выбрали gRPC вместо tRPC?](https://habr.com/ru/articles/858186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858186)
 - [Что нового в .NET 9?](https://habr.com/ru/companies/pvs-studio/articles/858174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858174)
 - [Как системному аналитику выделиться на собеседовании в 2024?](https://habr.com/ru/articles/858074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858074)
 - [Запуск узла Hidden Lake на языке Go](https://habr.com/ru/articles/858110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858110)
 - [Триггеры в PostgreSQL: основы](https://habr.com/ru/companies/otus/articles/857396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857396)
-- [[Перевод] Разбор регулярного выражения, проверяющего простоту чисел](https://habr.com/ru/articles/856478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
