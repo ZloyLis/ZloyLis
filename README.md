@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рецензия на книгу “Изучаем паттерны проектирования JavaScript, 2-е издание”](https://habr.com/ru/companies/ssp-soft/articles/858326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858326)
-- [Разбираем iOS-приложение: код, сборка, статические и динамические библиотеки, компиляция, запуск](https://habr.com/ru/companies/alfa/articles/858252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858252)
-- [30k аудиозаписей: наводим порядок](https://habr.com/ru/articles/857478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857478)
-- [«Приключение на 20 минут: взял и поменял язык». Личный опыт перехода на Kotlin](https://habr.com/ru/articles/858436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858436)
-- [[Перевод] Как работают Kubernetes Services: управление трафиком с помощью iptables](https://habr.com/ru/companies/flant/articles/856944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856944)
+- [Как верстать Dashboard](https://habr.com/ru/articles/858502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858502)
+- [Внутренности планировщика Go](https://habr.com/ru/articles/858490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858490)
+- [Разворачиваем приложение Next.js с базой данных PostgreSQL и задачей Cron на облачном сервере Ubuntu Linux](https://habr.com/ru/companies/timeweb/articles/858094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858094)
+- [ML-тренды рекомендательных технологий: шесть приёмов, которые помогают угадывать желания пользователя](https://habr.com/ru/companies/yandex/articles/857068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857068)
+- [Как реализовать методы скроллов через Appium для Android-приложений](https://habr.com/ru/companies/simbirsoft/articles/858152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
