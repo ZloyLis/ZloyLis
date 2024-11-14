@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GIMP Script-Fu Первый Дан. Точки, Контуры, Кисти и Градиенты](https://habr.com/ru/articles/858646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858646)
+- [Разработка Telegram Mini App с помощью React](https://habr.com/ru/companies/timeweb/articles/858382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858382)
 - [Как учить разработке на Битрикс: наши 20 лет опыта](https://habr.com/ru/companies/intervolga/articles/858622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858622)
 - [Книга: «Простое объектно-ориентированное проектирование: чистый и гибкий код»](https://habr.com/ru/companies/piter/articles/858298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858298)
 - [Протоколы внутренней маршрутизации](https://habr.com/ru/companies/nauka/articles/858606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858606)
-- [Пайплайны записи своими руками: думали — велосипед, оказалось — паттерны](https://habr.com/ru/companies/oleg-bunin/articles/858602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858602)
-- [Как подготовиться к сессии: сделали приложение с курсами по вашим дисциплинам](https://habr.com/ru/articles/858600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
