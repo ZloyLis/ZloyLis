@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пути увеличения выручки в 2025 году. Как мы увеличили продажи интернет-магазина на 34%](https://habr.com/ru/articles/858408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858408)
-- [Приложение SMD CODES  для смартфонов для распознания электронных компонентов по маркировке на корпусе](https://habr.com/ru/articles/858392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858392)
-- [Нафига козе баян? &lpar;Мне не сдались такие программисты&rpar;](https://habr.com/ru/articles/858386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858386)
-- [Почему не стоит использовать C в C++](https://habr.com/ru/articles/858366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858366)
-- [Безопасность во Frontend или как пройти все круги Данте](https://habr.com/ru/articles/858332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858332)
+- [«Приключение на 20 минут: взял и поменял язык». Личный опыт перехода на Kotlin](https://habr.com/ru/articles/858436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858436)
+- [[Перевод] Как работают Kubernetes Services: управление трафиком с помощью iptables](https://habr.com/ru/companies/flant/articles/856944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856944)
+- [Как поднять инфраструктуру для запуска автотестов Android в облаках](https://habr.com/ru/companies/avito/articles/858222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858222)
+- [Кроссплатформенные приложения на Python с Flet и FastAPI: Полное руководство по разработке](https://habr.com/ru/companies/amvera/articles/858292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858292)
+- [Ошибки при работе с tailwindcss](https://habr.com/ru/articles/858426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
