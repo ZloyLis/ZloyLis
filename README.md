@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Data мертвы, да здравствуют Smart Data](https://habr.com/ru/companies/magnus-tech/articles/853192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853192)
+- [YYYY? yyyy!](https://habr.com/ru/companies/pvs-studio/articles/858512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858512)
+- [Зачем нужны TMS и как мы пришли к TestRail: опыт Рунити](https://habr.com/ru/companies/runity/articles/858504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858504)
 - [Как верстать Dashboard](https://habr.com/ru/articles/858502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858502)
 - [Внутренности планировщика Go](https://habr.com/ru/articles/858490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858490)
-- [Разворачиваем приложение Next.js с базой данных PostgreSQL и задачей Cron на облачном сервере Ubuntu Linux](https://habr.com/ru/companies/timeweb/articles/858094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858094)
-- [ML-тренды рекомендательных технологий: шесть приёмов, которые помогают угадывать желания пользователя](https://habr.com/ru/companies/yandex/articles/857068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857068)
-- [Как реализовать методы скроллов через Appium для Android-приложений](https://habr.com/ru/companies/simbirsoft/articles/858152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
