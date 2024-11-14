@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбей и властвуй: как создать кастомный токенизатор в SpaCy](https://habr.com/ru/companies/otus/articles/855442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855442)
+- [Mattermost + Jitsi + k8s](https://habr.com/ru/articles/858710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858710)
 - [Оптимистические и пессимистические блокировки на примере Hibernate &lpar;JPA&rpar;](https://habr.com/ru/articles/858714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858714)
 - [Смартфон S24 Ultra – классический фейк, где все «железо» тоже не настоящее](https://habr.com/ru/articles/858678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858678)
 - [От живых гайдлайнов к Documentation as Code. Как изменилась документация во фронтенд-разработке](https://habr.com/ru/articles/858672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858672)
-- [Kafka Streams ч3: Stateless processing](https://habr.com/ru/articles/858668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858668)
-- [Геометрия Стенда для Калибровки MEMS Акселерометра](https://habr.com/ru/articles/858354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
