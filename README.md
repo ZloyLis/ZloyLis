@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Геометрия Стенда для Калибровки MEMS Акселерометра](https://habr.com/ru/articles/858354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858354)
+- [Data catalog: от истории до сравнения решений](https://habr.com/ru/companies/vk/articles/857894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857894)
+- [Продуктовые обновления октября: релиз сертифицированного WAF, прерываемые ВМ в Managed Kubernetes и другое](https://habr.com/ru/companies/selectel/articles/858506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858506)
 - [GIMP Script-Fu Первый Дан. Точки, Контуры, Кисти и Градиенты](https://habr.com/ru/articles/858646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858646)
 - [Разработка Telegram Mini App с помощью React](https://habr.com/ru/companies/timeweb/articles/858382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858382)
-- [Как учить разработке на Битрикс: наши 20 лет опыта](https://habr.com/ru/companies/intervolga/articles/858622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858622)
-- [Книга: «Простое объектно-ориентированное проектирование: чистый и гибкий код»](https://habr.com/ru/companies/piter/articles/858298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858298)
-- [Протоколы внутренней маршрутизации](https://habr.com/ru/companies/nauka/articles/858606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
