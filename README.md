@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подготовиться к сессии: сделали приложение с курсами по вашим дисциплинам](https://habr.com/ru/articles/858600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858600)
 - [Как создать архитектуру фронтенд-приложения, если ее нет от слова «совсем»](https://habr.com/ru/companies/zvuk/articles/858272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858272)
 - [Big Data мертвы, да здравствуют Smart Data](https://habr.com/ru/companies/magnus-tech/articles/853192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853192)
 - [YYYY? yyyy!](https://habr.com/ru/companies/pvs-studio/articles/858512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858512)
 - [Зачем нужны TMS и как мы пришли к TestRail: опыт Рунити](https://habr.com/ru/companies/runity/articles/858504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858504)
-- [Внутренности планировщика Go](https://habr.com/ru/articles/858490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
