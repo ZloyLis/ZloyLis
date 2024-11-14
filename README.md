@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как учить разработке на Битрикс: наши 20 лет опыта](https://habr.com/ru/companies/intervolga/articles/858622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858622)
+- [Книга: «Простое объектно-ориентированное проектирование: чистый и гибкий код»](https://habr.com/ru/companies/piter/articles/858298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858298)
+- [Протоколы внутренней маршрутизации](https://habr.com/ru/companies/nauka/articles/858606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858606)
+- [Пайплайны записи своими руками: думали — велосипед, оказалось — паттерны](https://habr.com/ru/companies/oleg-bunin/articles/858602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858602)
 - [Как подготовиться к сессии: сделали приложение с курсами по вашим дисциплинам](https://habr.com/ru/articles/858600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858600)
-- [Как создать архитектуру фронтенд-приложения, если ее нет от слова «совсем»](https://habr.com/ru/companies/zvuk/articles/858272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858272)
-- [Big Data мертвы, да здравствуют Smart Data](https://habr.com/ru/companies/magnus-tech/articles/853192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=853192)
-- [YYYY? yyyy!](https://habr.com/ru/companies/pvs-studio/articles/858512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858512)
-- [Зачем нужны TMS и как мы пришли к TestRail: опыт Рунити](https://habr.com/ru/companies/runity/articles/858504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
