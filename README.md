@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дюжина ошибок мессенджера Telegram](https://habr.com/ru/companies/pvs-studio/articles/858810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858810)
 - [Являются ли старение и смерть эволюционным преимуществом? Отвечает компьютерное моделирование](https://habr.com/ru/articles/858802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858802)
 - [Сенсорный пин-пад и как он работает](https://habr.com/ru/companies/timeweb/articles/855826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855826)
 - [Дополнение к Litchi](https://habr.com/ru/articles/858774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858774)
 - [Загрузка и обработка видеофайлов посредством Minio, REST и FFmpeg](https://habr.com/ru/articles/858768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858768)
-- [Подборка контента по алгоритмам с 4 лет до бесконечности](https://habr.com/ru/companies/alfa/articles/855366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
