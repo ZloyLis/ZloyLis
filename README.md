@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Безопасность мобильных устройств: интервью с экспертом Positive Technologies](https://habr.com/ru/companies/pt/articles/858732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858732)
-- [Fixed Price, Time &amp;amp; Material или Retainer? Как не ошибиться с выбором для долгосрочного партнерства](https://habr.com/ru/articles/858862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858862)
-- [Создание кастомного балансировщика нагрузки на Go для gRPC с приоритизацией адресов](https://habr.com/ru/companies/vk/articles/858290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858290)
-- [Release notes. Маркетинг или искусство?](https://habr.com/ru/articles/858846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858846)
-- [Почему в разработке чат-ботов мы в качестве основы используем Jmix](https://habr.com/ru/articles/854056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854056)
+- [О чем плачет Frontend-developer](https://habr.com/ru/articles/858924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858924)
+- [GIMP Script-Fu Первый Дан. Сортировка](https://habr.com/ru/articles/858922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858922)
+- [[Перевод] DataBinding: сначала сложно, но потом не сможешь работать без него](https://habr.com/ru/articles/858916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858916)
+- [B2B UX: Информационная архитектура и проектирование обзорного экрана в BI-системе](https://habr.com/ru/companies/korus_consulting/articles/858900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858900)
+- [[Перевод] 7 продвинутых приемов pandas для науки о данных](https://habr.com/ru/articles/858894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
