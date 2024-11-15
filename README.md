@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Методичность в проектировании: Как BPMN помогает улучшить UX-стратегии](https://habr.com/ru/companies/otus/articles/858994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858994)
+- [Что нового в Strapi 5. Спойлер: стало лучше](https://habr.com/ru/companies/kts/articles/858988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858988)
 - [Совершенный код: 10 книг по веб-разработке для начинающих](https://habr.com/ru/companies/skillfactory/articles/858972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858972)
 - [Как сделать ИИ &lpar;нейро&rpar; продажника/консультанта в чате на сайте с обучением на информации по компании. [ИИ для бизнеса]](https://habr.com/ru/articles/858948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858948)
 - [Как проводить опросы удовлетворенности среди клиентов: опыт Selectel](https://habr.com/ru/companies/selectel/articles/858906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858906)
-- [[Перевод] Небезопасный Rust сложнее C](https://habr.com/ru/companies/ruvds/articles/858246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858246)
-- [[Перевод] Математический подход позволяет предсказывать кристаллическую структуру за часы, а не за месяцы](https://habr.com/ru/articles/858930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
