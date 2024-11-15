@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Являются ли старение и смерть эволюционным преимуществом? Отвечает компьютерное моделирование](https://habr.com/ru/articles/858802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858802)
+- [Сенсорный пин-пад и как он работает](https://habr.com/ru/companies/timeweb/articles/855826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855826)
+- [Дополнение к Litchi](https://habr.com/ru/articles/858774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858774)
 - [Загрузка и обработка видеофайлов посредством Minio, REST и FFmpeg](https://habr.com/ru/articles/858768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858768)
 - [Подборка контента по алгоритмам с 4 лет до бесконечности](https://habr.com/ru/companies/alfa/articles/855366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855366)
-- [Test-Driven Development: как полюбить модульное тестирование](https://habr.com/ru/companies/sberbank/articles/851052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851052)
-- [[Перевод] Проверяем фактор автобуса для опенсорсных проектов](https://habr.com/ru/articles/858374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858374)
-- [Телеграм не бот, REST API wrapper для управления аккаунтом но не ботом](https://habr.com/ru/articles/858746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
