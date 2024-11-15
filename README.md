@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание кастомного балансировщика нагрузки на Go для gRPC с приоритизацией адресов](https://habr.com/ru/companies/vk/articles/858290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858290)
+- [Release notes. Маркетинг или искусство?](https://habr.com/ru/articles/858846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858846)
+- [Почему в разработке чат-ботов мы в качестве основы используем Jmix](https://habr.com/ru/articles/854056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854056)
 - [Дюжина ошибок мессенджера Telegram](https://habr.com/ru/companies/pvs-studio/articles/858810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858810)
 - [Являются ли старение и смерть эволюционным преимуществом? Отвечает компьютерное моделирование](https://habr.com/ru/articles/858802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858802)
-- [Сенсорный пин-пад и как он работает](https://habr.com/ru/companies/timeweb/articles/855826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855826)
-- [Дополнение к Litchi](https://habr.com/ru/articles/858774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858774)
-- [Загрузка и обработка видеофайлов посредством Minio, REST и FFmpeg](https://habr.com/ru/articles/858768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
