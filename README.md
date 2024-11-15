@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Загрузка и обработка видеофайлов посредством Minio, REST и FFmpeg](https://habr.com/ru/articles/858768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858768)
+- [Подборка контента по алгоритмам с 4 лет до бесконечности](https://habr.com/ru/companies/alfa/articles/855366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855366)
+- [Test-Driven Development: как полюбить модульное тестирование](https://habr.com/ru/companies/sberbank/articles/851052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851052)
+- [[Перевод] Проверяем фактор автобуса для опенсорсных проектов](https://habr.com/ru/articles/858374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858374)
 - [Телеграм не бот, REST API wrapper для управления аккаунтом но не ботом](https://habr.com/ru/articles/858746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858746)
-- [Патчим freezed](https://habr.com/ru/articles/851666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851666)
-- [Как не попасть в Яндекс будучи разработчиком и потерять время. Руководство как быть не принятым на работу](https://habr.com/ru/articles/858726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858726)
-- [Первый Pattern, первый квест](https://habr.com/ru/articles/858722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858722)
-- [Разбей и властвуй: как создать кастомный токенизатор в SpaCy](https://habr.com/ru/companies/otus/articles/855442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
