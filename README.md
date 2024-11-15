@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Любят — не любят: что мы сделали хорошо и плохо в первом опросе удовлетворенности клиентов](https://habr.com/ru/companies/selectel/articles/858906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858906)
+- [Как сделать ИИ &lpar;нейро&rpar; продажника/консультанта в чате на сайте с обучением на информации по компании. [ИИ для бизнеса]](https://habr.com/ru/articles/858948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858948)
+- [Как проводить опросы удовлетворенности среди клиентов: опыт Selectel](https://habr.com/ru/companies/selectel/articles/858906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858906)
 - [[Перевод] Небезопасный Rust сложнее C](https://habr.com/ru/companies/ruvds/articles/858246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858246)
 - [[Перевод] Математический подход позволяет предсказывать кристаллическую структуру за часы, а не за месяцы](https://habr.com/ru/articles/858930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858930)
 - [О чем плачет Frontend-developer](https://habr.com/ru/articles/858924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858924)
-- [GIMP Script-Fu Первый Дан. Сортировка](https://habr.com/ru/articles/858922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
