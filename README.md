@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие практики TypeScript: Строгая типизация, гибкость и производительность](https://habr.com/ru/articles/859016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859016)
 - [Калибровка MEMS Акселерометра [Часть 2]](https://habr.com/ru/articles/858874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858874)
 - [[Перевод] Методичность в проектировании: Как BPMN помогает улучшить UX-стратегии](https://habr.com/ru/companies/otus/articles/858994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858994)
 - [Что нового в Strapi 5. Спойлер: стало лучше](https://habr.com/ru/companies/kts/articles/858988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858988)
 - [Совершенный код: 10 книг по веб-разработке для начинающих](https://habr.com/ru/companies/skillfactory/articles/858972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858972)
-- [Как проводить опросы удовлетворенности среди клиентов: опыт Selectel](https://habr.com/ru/companies/selectel/articles/858906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
