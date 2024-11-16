@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Увеличиваем размер выборки и прокрашиваем серые метрики: неочевидная ошибка при проведении А/B — тестов](https://habr.com/ru/articles/859088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859088)
 - [[Перевод] О зацикливании рекомпозиции в Jetpack Compose](https://habr.com/ru/articles/859084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859084)
 - [Биржи поиска работы 2024 как новая итерация сайтов-знакомств](https://habr.com/ru/articles/859068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859068)
 - [Один год с Duit — ретроспектива развития](https://habr.com/ru/articles/858636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858636)
 - [Лучшие практики TypeScript: Строгая типизация, гибкость и производительность](https://habr.com/ru/articles/859016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859016)
-- [Калибровка MEMS Акселерометра [Часть 2]](https://habr.com/ru/articles/858874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
