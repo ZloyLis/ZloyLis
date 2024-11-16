@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать дашборд в Superset: гайд для новичков и полезные лайфхаки](https://habr.com/ru/companies/okko/articles/859140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859140)
 - [Модульные CSS-архитектуры в Next.js: BEM, SMACSS, OOCSS и их применение](https://habr.com/ru/companies/otus/articles/855642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855642)
 - [Увеличиваем размер выборки и прокрашиваем серые метрики: неочевидная ошибка при проведении А/B — тестов](https://habr.com/ru/articles/859088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859088)
 - [[Перевод] О зацикливании рекомпозиции в Jetpack Compose](https://habr.com/ru/articles/859084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859084)
 - [Биржи поиска работы 2024 как новая итерация сайтов-знакомств](https://habr.com/ru/articles/859068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859068)
-- [Один год с Duit — ретроспектива развития](https://habr.com/ru/articles/858636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
