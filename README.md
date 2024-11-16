@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] О зацикливании рекомпозиции в Jetpack Compose](https://habr.com/ru/articles/859084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859084)
 - [Биржи поиска работы 2024 как новая итерация сайтов-знакомств](https://habr.com/ru/articles/859068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859068)
 - [Один год с Duit — ретроспектива развития](https://habr.com/ru/articles/858636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858636)
 - [Лучшие практики TypeScript: Строгая типизация, гибкость и производительность](https://habr.com/ru/articles/859016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859016)
 - [Калибровка MEMS Акселерометра [Часть 2]](https://habr.com/ru/articles/858874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858874)
-- [[Перевод] Методичность в проектировании: Как BPMN помогает улучшить UX-стратегии](https://habr.com/ru/companies/otus/articles/858994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
