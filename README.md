@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Портируем олдскульную головоломку на web с использованием LLM и Midjourney для бати](https://habr.com/ru/articles/859200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859200)
+- [Понимание Common Expression Language &lpar;CEL&rpar;: Руководство для начинающих](https://habr.com/ru/articles/859198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859198)
 - [Увеличение лидирующих нулей в симметричной разреженной матрице](https://habr.com/ru/articles/859170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859170)
 - [Helm CEL: Валидация Helm чартов с помощью CEL](https://habr.com/ru/articles/859166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859166)
 - [Генерация SHA-256 посредством SIMD &lpar;SSE-2&rpar; инструкций, в MMX и XMM регистрах, без использования памяти &lpar;почти&rpar;](https://habr.com/ru/articles/859092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859092)
-- [Как решать задачи на собеседованиях](https://habr.com/ru/articles/859144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859144)
-- [Как создать дашборд в Superset: гайд для новичков и полезные лайфхаки](https://habr.com/ru/companies/oleg-bunin/articles/859140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
