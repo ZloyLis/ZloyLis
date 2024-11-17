@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как я оптимизировал свой конвейер CI/CD до выполнения за 60 секунд](https://habr.com/ru/companies/beget/articles/859252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859252)
+- [Дообучаем языковую модель GPT2 с помощью Torch](https://habr.com/ru/articles/859250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859250)
 - [Двусвязный список в Python: простой инструмент для сложных задач](https://habr.com/ru/companies/otus/articles/849482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849482)
 - [Как джуниор разработчику стать архитектором](https://habr.com/ru/articles/850888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850888)
 - [0001 — это число? Или нет?](https://habr.com/ru/articles/859228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859228)
-- [Правильные ли у вас микрофронты?](https://habr.com/ru/articles/859230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859230)
-- [Дайджест новостей по Symfony за октябрь&#39;2024 с Кириллом Несмеяновым](https://habr.com/ru/articles/859224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
