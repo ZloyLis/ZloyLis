@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вредные советы для разработчика: Кодекс продуктивной неэффективности](https://habr.com/ru/articles/859244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859244)
+- [Двусвязный список в Python: простой инструмент для сложных задач](https://habr.com/ru/companies/otus/articles/849482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849482)
 - [Как джуниор разработчику стать архитектором](https://habr.com/ru/articles/850888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850888)
 - [0001 — это число? Или нет?](https://habr.com/ru/articles/859228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859228)
 - [Правильные ли у вас микрофронты?](https://habr.com/ru/articles/859230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859230)
