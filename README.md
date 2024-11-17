@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [0001 — это число? Или нет?](https://habr.com/ru/articles/859228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859228)
 - [Правильные ли у вас микрофронты?](https://habr.com/ru/articles/859230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859230)
 - [Дайджест новостей по Symfony за октябрь&#39;2024 с Кириллом Несмеяновым](https://habr.com/ru/articles/859224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859224)
 - [Мобильная разработка за неделю #564 &lpar;11 — 17 ноября&rpar;](https://habr.com/ru/articles/859216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859216)
 - [Middleware на уровне сетевого стэка в Go](https://habr.com/ru/companies/otus/articles/857070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857070)
-- [Портируем олдскульную головоломку на web с использованием LLM и Midjourney для бати](https://habr.com/ru/articles/859200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
