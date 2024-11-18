@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой первый и неудачный опыт поиска торговой стратегии для Московской биржи](https://habr.com/ru/articles/857402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857402)
 - [Где PostgreSQL выигрывает у Oracle DB](https://habr.com/ru/companies/otus/articles/858980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858980)
 - [Математика и философия](https://habr.com/ru/articles/859276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859276)
 - [[Перевод] Как я оптимизировал свой конвейер CI/CD до выполнения за 60 секунд](https://habr.com/ru/companies/beget/articles/859252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859252)
 - [Дообучаем языковую модель GPT2 с помощью Torch](https://habr.com/ru/articles/859250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859250)
-- [Двусвязный список в Python: простой инструмент для сложных задач](https://habr.com/ru/companies/otus/articles/849482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=849482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
