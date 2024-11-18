@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Неочевидные для начинающих тонкости Postgres](https://habr.com/ru/companies/ruvds/articles/859422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859422)
+- [Современный on-call менеджмент: 5 основных шагов от мониторинга до постмортема](https://habr.com/ru/companies/monq/articles/859446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859446)
+- [Оптимизация PostgreSQL: параметры для ускорения запросов](https://habr.com/ru/companies/Linx/articles/859460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859460)
 - [Нужна ли документация на проекте?](https://habr.com/ru/companies/alfa/articles/858942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858942)
 - [Стратегии по поиску работы и учебе](https://habr.com/ru/articles/859432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859432)
-- [[Перевод] Spring Framework 6.2.0: переопределение бинов в тестах](https://habr.com/ru/companies/spring_aio/articles/859430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859430)
-- [Эволюция Assert&#39;a на примере тестирования вездехода из Звездных Войн](https://habr.com/ru/companies/rshb/articles/859364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859364)
-- [Как мы В Т-Банке автоматизируем обслуживание клиентов с помощью конструктора форм](https://habr.com/ru/companies/tbank/articles/858910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
