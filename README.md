@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Красота требует жертв! Как увеличить ценность продукта с помощью дизайна](https://habr.com/ru/articles/859024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859024)
+- [Аварии и инциденты на производстве в контексте обучения персонала](https://habr.com/ru/articles/859326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859326)
 - [Поступление в ШАД: как затащить математику](https://habr.com/ru/articles/859324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859324)
 - [Типовые задачи аналитика](https://habr.com/ru/companies/yandex_praktikum/articles/852070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852070)
 - [Практики проблемно-ориентированного управления. Обходные решения](https://habr.com/ru/articles/859318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859318)
-- [CI/CD Kubernetes платформа Gitorion. Highly Available исполнение](https://habr.com/ru/companies/gitorion/articles/857596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857596)
-- [Всё под контролем: сила useRef и forwardRef в React](https://habr.com/ru/companies/otus/articles/856624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
