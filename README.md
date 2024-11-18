@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы В Т-Банке автоматизируем обслуживание клиентов с помощью конструктора форм](https://habr.com/ru/companies/tbank/articles/858910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858910)
+- [Самодельная платформа для робототехники из бюджетного смартфона](https://habr.com/ru/companies/selectel/articles/859358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859358)
+- [[Перевод] Идеально ли текстовые эмбеддинги кодируют текст?](https://habr.com/ru/companies/wunderfund/articles/859232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859232)
 - [Красота требует жертв! Как увеличить ценность продукта с помощью дизайна](https://habr.com/ru/articles/859024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859024)
 - [Аварии и инциденты на производстве в контексте обучения персонала](https://habr.com/ru/articles/859326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859326)
-- [Поступление в ШАД: как затащить математику](https://habr.com/ru/articles/859324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859324)
-- [Типовые задачи аналитика](https://habr.com/ru/companies/yandex_praktikum/articles/852070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852070)
-- [Практики проблемно-ориентированного управления. Обходные решения](https://habr.com/ru/articles/859318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
