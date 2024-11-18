@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём современные npm-пакеты и преодолеваем трудности совместимости ESM и CJS](https://habr.com/ru/companies/ozontech/articles/857954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857954)
 - [[Перевод] Неочевидные для начинающих тонкости Postgres](https://habr.com/ru/companies/ruvds/articles/859422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859422)
 - [Современный on-call менеджмент: 5 основных шагов от мониторинга до постмортема](https://habr.com/ru/companies/monq/articles/859446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859446)
 - [Оптимизация PostgreSQL: параметры для ускорения запросов](https://habr.com/ru/companies/Linx/articles/859460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859460)
 - [Нужна ли документация на проекте?](https://habr.com/ru/companies/alfa/articles/858942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858942)
-- [Стратегии по поиску работы и учебе](https://habr.com/ru/articles/859432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
