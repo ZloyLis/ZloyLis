@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему ИИ рано поручать код-ревью](https://habr.com/ru/articles/859582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859582)
 - [Как в Клинике имени Пирогова СПбГУ разработали уникальную платформу для пациентов](https://habr.com/ru/companies/spbu/articles/859544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859544)
 - [Создание RESTful API с помощью Django и Django REST Framework](https://habr.com/ru/companies/amvera/articles/856798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856798)
 - [Apple Pro Weekly News &lpar;11.11 – 17.11.24&rpar;](https://habr.com/ru/articles/859534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859534)
 - [Об анатомии крэшей на iOS «по-взрослому»](https://habr.com/ru/companies/vk/articles/858302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858302)
-- [[Перевод] Python REST API: Flask, Connexion и SQLAlchemy &lpar;часть 2&rpar;](https://habr.com/ru/articles/859528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
