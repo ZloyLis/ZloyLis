@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Всё под контролем: сила useRef и forwardRef в React](https://habr.com/ru/companies/otus/articles/856624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856624)
+- [Интеграция внешнего файлового сервера https://min.io в фулстек приложение на NestJS и Angular](https://habr.com/ru/articles/859306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859306)
+- [INVEST, MoSCoW, 3Cs, DEEP и другие методики работы с пользовательскими историями](https://habr.com/ru/articles/859254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859254)
 - [Паттерн Builder в Java на котиках](https://habr.com/ru/companies/otus/articles/858032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858032)
 - [Сложный интерфейс: Рисуем состояния экрана без помощи системного аналитика](https://habr.com/ru/articles/858524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858524)
-- [Цифровые тройники: есть ли половой смысл? Искусственный интеллект против естественного. MATLAB помогает импортозамещению](https://habr.com/ru/articles/857906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857906)
-- [Мой первый и неудачный опыт поиска торговой стратегии для Московской биржи](https://habr.com/ru/articles/857402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857402)
-- [Где PostgreSQL выигрывает у Oracle DB](https://habr.com/ru/companies/otus/articles/858980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
