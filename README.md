@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Красивые картинки на скатерти Улама](https://habr.com/ru/articles/859130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859130)
+- [[Перевод] Apple убивает Swift](https://habr.com/ru/companies/otus/articles/859684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859684)
+- [Предельная польза продукта на примере Power BI](https://habr.com/ru/articles/859674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859674)
+- [Авторизация в Docker Private Registry](https://habr.com/ru/companies/pt/articles/859406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859406)
 - [Дебажим баги в дебаггере x64dbg. «Шаг с выходом» в GUI](https://habr.com/ru/companies/pvs-studio/articles/859654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859654)
-- [Неизвестно полезный CSS. Часть 6](https://habr.com/ru/companies/ruvds/articles/858048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858048)
-- [DevOps — смерть это новая жизнь…](https://habr.com/ru/companies/oleg-bunin/articles/859330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859330)
-- [Как добавить свой повторяемый элемент интерфейса в класс HTMLHelper Joomla 4+](https://habr.com/ru/articles/859612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859612)
-- [Биорадиолокация в Engee](https://habr.com/ru/companies/etmc_exponenta/articles/859448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
