@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое System design?](https://habr.com/ru/articles/859566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859566)
 - [Лента Мёбиуса, биомеханические прыжки, мягкие посадки и PD-контроллер](https://habr.com/ru/articles/859586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859586)
 - [[Перевод] Почему ИИ рано поручать код-ревью](https://habr.com/ru/articles/859582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859582)
 - [Как в Клинике имени Пирогова СПбГУ разработали уникальную платформу для пациентов](https://habr.com/ru/companies/spbu/articles/859544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859544)
 - [Создание RESTful API с помощью Django и Django REST Framework](https://habr.com/ru/companies/amvera/articles/856798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856798)
-- [Apple Pro Weekly News &lpar;11.11 – 17.11.24&rpar;](https://habr.com/ru/articles/859534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
