@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектурные особенности on-premises продуктового решения](https://habr.com/ru/articles/859740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859740)
+- [Подборка книг для мобильных разработчиков: от начинающего до продвинутого уровня](https://habr.com/ru/articles/859724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859724)
 - [Красивые картинки на скатерти Улама](https://habr.com/ru/articles/859130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859130)
 - [[Перевод] Apple убивает Swift](https://habr.com/ru/companies/otus/articles/859684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859684)
 - [Предельная польза продукта на примере Power BI](https://habr.com/ru/articles/859674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859674)
-- [Авторизация в Docker Private Registry](https://habr.com/ru/companies/pt/articles/859406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859406)
-- [Дебажим баги в дебаггере x64dbg. «Шаг с выходом» в GUI](https://habr.com/ru/companies/pvs-studio/articles/859654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
