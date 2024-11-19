@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как добавить свой повторяемый элемент интерфейса в класс HTMLHelper Joomla 4+](https://habr.com/ru/articles/859612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859612)
 - [Биорадиолокация в Engee](https://habr.com/ru/companies/etmc_exponenta/articles/859448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859448)
 - [style.setProperty vs setStyle](https://habr.com/ru/articles/859510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859510)
 - [Детектив NoSQL: как мы отслеживаем изменения данных в Банке Идей](https://habr.com/ru/companies/nlmk/articles/843092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843092)
 - [Как сделать регистрацию и аутентификацию на сайтах под CMS ModX с помощью Exolve](https://habr.com/ru/companies/exolve/articles/859600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859600)
-- [[Перевод] Функция property&lpar;&rpar; в Python: добавляем управляемые атрибуты в классы](https://habr.com/ru/companies/otus/articles/859502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
