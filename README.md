@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дебажим баги в дебаггере x64dbg. «Шаг с выходом» в GUI](https://habr.com/ru/companies/pvs-studio/articles/859654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859654)
+- [Неизвестно полезный CSS. Часть 6](https://habr.com/ru/companies/ruvds/articles/858048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858048)
+- [DevOps — смерть это новая жизнь…](https://habr.com/ru/companies/oleg-bunin/articles/859330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859330)
 - [Как добавить свой повторяемый элемент интерфейса в класс HTMLHelper Joomla 4+](https://habr.com/ru/articles/859612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859612)
 - [Биорадиолокация в Engee](https://habr.com/ru/companies/etmc_exponenta/articles/859448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859448)
-- [style.setProperty vs setStyle](https://habr.com/ru/articles/859510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859510)
-- [Детектив NoSQL: как мы отслеживаем изменения данных в Банке Идей](https://habr.com/ru/companies/nlmk/articles/843092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843092)
-- [Как сделать регистрацию и аутентификацию на сайтах под CMS ModX с помощью Exolve](https://habr.com/ru/companies/exolve/articles/859600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
