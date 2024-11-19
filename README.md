@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовим лоб к пробитию стен: как Android-разработчику найти первую работу в 2025-м](https://habr.com/ru/articles/859258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859258)
 - [Кроссплатформенная архитектура ядра приложения. Простая. Линейная. Масштабируемая](https://habr.com/ru/articles/851808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851808)
 - [[Перевод] Рендеринг текста без текстур](https://habr.com/ru/companies/beget/articles/859796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859796)
 - [Быстрее некуда: собираем удобный поиск по коду из нескольких CLI-утилит](https://habr.com/ru/companies/vk/articles/858284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858284)
 - [Рассказываем о новом инструменте SimpleOne ESM-платформы – «Светофорные карты показателей»](https://habr.com/ru/companies/simpleone/articles/859778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859778)
-- [Ускоряем запросы в PostgreSQL, оптимизируя оператор GROUP BY](https://habr.com/ru/companies/postgrespro/articles/852414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
