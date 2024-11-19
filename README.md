@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем запросы в PostgreSQL, оптимизируя оператор GROUP BY](https://habr.com/ru/companies/postgrespro/articles/852414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852414)
+- [[Перевод] Firestore и NoSQL — Основы структурирования данных](https://habr.com/ru/companies/otus/articles/859748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859748)
 - [Архитектурные особенности on-premises продуктового решения](https://habr.com/ru/articles/859740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859740)
 - [Подборка книг для мобильных разработчиков: от начинающего до продвинутого уровня](https://habr.com/ru/articles/859724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859724)
 - [Красивые картинки на скатерти Улама](https://habr.com/ru/articles/859130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859130)
-- [[Перевод] Apple убивает Swift](https://habr.com/ru/companies/otus/articles/859684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859684)
-- [Предельная польза продукта на примере Power BI](https://habr.com/ru/articles/859674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
