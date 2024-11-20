@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы пришли к использованию фейков в API-тестах и почему фейки лучше моков](https://habr.com/ru/companies/tbank/articles/859966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859966)
 - [Простая настройка CI/CD для Фронтенда и Бэкенда в Github без сторонних инструментов бесплатно в 2024 году](https://habr.com/ru/articles/859948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859948)
 - [Почему рейтинги лгут: разбираемся, как и почему рейтинги BI не говорят всей правды](https://habr.com/ru/companies/luxms_bi/articles/859944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859944)
 - [Apple Intelligence на Андроид? Обзор ИИ, портированных на мобильные устройства с локальным запуском](https://habr.com/ru/companies/ruvds/articles/858304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858304)
 - [19 ошибок в LLVM 19](https://habr.com/ru/companies/pvs-studio/articles/859914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859914)
-- [Такие разные Android AppLinks, WebLinks, DeepLinks. Разбираемся и пытаемся сломать](https://habr.com/ru/companies/swordfish_security/articles/859904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
