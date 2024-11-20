@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с CoordinatorLayout: шапочный разбор](https://habr.com/ru/companies/avito/articles/859692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859692)
 - [Что нужно, чтобы тебя увидели в Play Market?](https://habr.com/ru/articles/859844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859844)
 - [Рекордсмены в Fusc последовательности](https://habr.com/ru/articles/859162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859162)
 - [Готовим лоб к пробитию стен: как Android-разработчику найти первую работу в 2025-м](https://habr.com/ru/articles/859258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859258)
 - [Кроссплатформенная архитектура ядра приложения. Простая. Линейная. Масштабируемая](https://habr.com/ru/articles/851808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851808)
-- [[Перевод] Рендеринг текста без текстур](https://habr.com/ru/companies/beget/articles/859796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
