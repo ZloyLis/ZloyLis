@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кэширование с FeignClient: как ускорить микросервисы и стать героем проекта](https://habr.com/ru/articles/860120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860120)
 - [Четыре вида аналитики данных: дескриптивная, диагностическая, предиктивная, прескриптивная](https://habr.com/ru/articles/860078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860078)
 - [Сено, чанки, два промпта: кто такой MarkUp-инженер и как его обучать](https://habr.com/ru/companies/redmadrobot/articles/860070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860070)
 - [Использование Redis в Go](https://habr.com/ru/articles/860060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860060)
 - [Размер имеет значение: как исторические данные помогают на этапе дизайна A/B-теста](https://habr.com/ru/articles/860050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860050)
-- [Версионирование эндпоинтов — это просто](https://habr.com/ru/companies/spring_aio/articles/859910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
