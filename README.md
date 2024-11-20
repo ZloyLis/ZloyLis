@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Задача о банкомате](https://habr.com/ru/articles/859758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859758)
-- [Мой вариант приложения для запоминания популярных английских слов](https://habr.com/ru/articles/860002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860002)
-- [Нагреть в микроволновке или засыпать рисом: 5 безотказных способов ушатать свой девайс](https://habr.com/ru/companies/ru_mts/articles/859960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859960)
-- [Прогреваем k8s cache: оптимизация загрузки образов размером 3 ГБ и запуск 1000 POD&#39;ов за секунды](https://habr.com/ru/companies/otus/articles/859286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859286)
-- [GIMP Script-Fu Первый Дан. Ускоряем Script-fu](https://habr.com/ru/articles/859984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859984)
+- [Версионирование эндпоинтов — это просто](https://habr.com/ru/companies/spring_aio/articles/859910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859910)
+- [Честный взгляд на Spring Data JPA](https://habr.com/ru/articles/860038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860038)
+- [[Перевод] Реверс-инжиниринг новой функции iOS Inactivity Reboot](https://habr.com/ru/companies/ruvds/articles/859884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859884)
+- [Huawei уходит от Android. Придётся ли бизнесу делать приложения для HarmonyOS Next](https://habr.com/ru/companies/surfstudio/articles/859976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859976)
+- [Паттерны проектирования на языке Kotlin](https://habr.com/ru/articles/860030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
