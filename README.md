@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы пришли к использованию фейков в API-тестах и почему фейки лучше моков](https://habr.com/ru/companies/tbank/articles/859966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859966)
-- [Простая настройка CI/CD для Фронтенда и Бэкенда в Github без сторонних инструментов бесплатно в 2024 году](https://habr.com/ru/articles/859948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859948)
-- [Почему рейтинги лгут: разбираемся, как и почему рейтинги BI не говорят всей правды](https://habr.com/ru/companies/luxms_bi/articles/859944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859944)
-- [Apple Intelligence на Андроид? Обзор ИИ, портированных на мобильные устройства с локальным запуском](https://habr.com/ru/companies/ruvds/articles/858304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858304)
-- [19 ошибок в LLVM 19](https://habr.com/ru/companies/pvs-studio/articles/859914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859914)
+- [Задача о банкомате](https://habr.com/ru/articles/859758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859758)
+- [Мой вариант приложения для запоминания популярных английских слов](https://habr.com/ru/articles/860002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860002)
+- [Нагреть в микроволновке или засыпать рисом: 5 безотказных способов ушатать свой девайс](https://habr.com/ru/companies/ru_mts/articles/859960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859960)
+- [Прогреваем k8s cache: оптимизация загрузки образов размером 3 ГБ и запуск 1000 POD&#39;ов за секунды](https://habr.com/ru/companies/otus/articles/859286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859286)
+- [GIMP Script-Fu Первый Дан. Ускоряем Script-fu](https://habr.com/ru/articles/859984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
