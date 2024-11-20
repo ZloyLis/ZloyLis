@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Preview сложных элементов в Compose](https://habr.com/ru/articles/860062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860062)
+- [Использование Redis в Go](https://habr.com/ru/articles/860060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860060)
+- [Размер имеет значение: как исторические данные помогают на этапе дизайна A/B-теста](https://habr.com/ru/articles/860050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860050)
 - [Версионирование эндпоинтов — это просто](https://habr.com/ru/companies/spring_aio/articles/859910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859910)
 - [Честный взгляд на Spring Data JPA](https://habr.com/ru/articles/860038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860038)
-- [[Перевод] Реверс-инжиниринг новой функции iOS Inactivity Reboot](https://habr.com/ru/companies/ruvds/articles/859884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859884)
-- [Huawei уходит от Android. Придётся ли бизнесу делать приложения для HarmonyOS Next](https://habr.com/ru/companies/surfstudio/articles/859976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859976)
-- [Паттерны проектирования на языке Kotlin](https://habr.com/ru/articles/860030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
