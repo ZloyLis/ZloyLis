@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [constexpr Game of Life](https://habr.com/ru/articles/860150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860150)
+- [Философия науки: про антинаучность стереотипов о настоящей научности](https://habr.com/ru/articles/860410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860410)
+- [[Перевод] Сборщик мусора CPython и его влияние на производительность приложения](https://habr.com/ru/companies/beget/articles/860406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860406)
 - [Как находить подходящие вакансии](https://habr.com/ru/articles/860404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860404)
 - [Пишем свою Diffusion модель с нуля](https://habr.com/ru/articles/860400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860400)
-- [Как разрабатываются электронные девайсы](https://habr.com/ru/articles/858320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858320)
-- [Где-то между архитектором и техническим писателем или Что делает инженер-проектировщик в проектах цифровизации](https://habr.com/ru/companies/zyfra/articles/860314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860314)
-- [Ваш первый A/B-тест: гайд для тех, кто ещё ничего не пробовал](https://habr.com/ru/companies/otus/articles/859334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
