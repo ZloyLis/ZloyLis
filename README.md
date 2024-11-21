@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мои безумные часы: или как создать точку фокуса в рабочем интерьере](https://habr.com/ru/articles/856660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856660)
 - [Кэширование с FeignClient: как ускорить микросервисы и стать героем проекта](https://habr.com/ru/articles/860120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860120)
 - [Статистические критерии и доверительные интервалы](https://habr.com/ru/companies/otus/articles/859234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859234)
 - [Четыре вида аналитики данных: дескриптивная, диагностическая, предиктивная, прескриптивная](https://habr.com/ru/articles/860078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860078)
 - [Сено, чанки, два промпта: кто такой MarkUp-инженер и как его обучать](https://habr.com/ru/companies/redmadrobot/articles/860070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860070)
-- [Использование Redis в Go](https://habr.com/ru/articles/860060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
