@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда проблема — не проблема. НЖЯ — инструмент Теории Ограничений](https://habr.com/ru/companies/oleg-bunin/articles/859734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859734)
+- [[Перевод] Создание XDP eBPF программы с использованием C и Golang: пошаговое руководство](https://habr.com/ru/companies/otus/articles/860104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860104)
 - [Введение в Brisa: новый подход к веб-разработке](https://habr.com/ru/companies/domclick/articles/859952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859952)
 - [Создаем свою ORM на python — гайд](https://habr.com/ru/companies/timeweb/articles/851706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851706)
 - [Возможности поля HTML-документа, часть 2. Внедряем CSS и JS](https://habr.com/ru/companies/lad_/articles/860106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860106)
-- [Расширенная модель записи данных REM: почему это стандарт для разработки Low-code решений?](https://habr.com/ru/companies/simpleone/articles/860138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860138)
-- [Инженеры больших идей: кто был бы спикером на ИТ-конференции вашей мечты?](https://habr.com/ru/specials/858876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
