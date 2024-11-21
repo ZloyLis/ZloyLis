@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где-то между архитектором и техническим писателем или Что делает инженер-проектировщик в проектах цифровизации](https://habr.com/ru/companies/zyfra/articles/860314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860314)
+- [Ваш первый A/B-тест: гайд для тех, кто ещё ничего не пробовал](https://habr.com/ru/companies/otus/articles/859334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859334)
 - [Я – наставник. Фантастические люди и где они обитают](https://habr.com/ru/companies/sportmaster_lab/articles/859912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859912)
 - [REST vs gRPC. Межсервисная интеграция для начинающих](https://habr.com/ru/companies/ozontech/articles/859936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859936)
 - [Модели данных в BI-платформах: физика против логики](https://habr.com/ru/companies/axenix/articles/860094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860094)
-- [Защищаем контейнеры от киберрисков: наш опыт и рекомендации](https://habr.com/ru/companies/cloud_ru/articles/859926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859926)
-- [Когда проблема — не проблема. НЖЯ — инструмент Теории Ограничений](https://habr.com/ru/companies/oleg-bunin/articles/859734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
