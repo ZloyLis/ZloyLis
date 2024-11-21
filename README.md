@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Портал, манулы и мячи: опыт разработки для Apple Vision Pro. Часть 1](https://habr.com/ru/articles/860194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860194)
+- [Как пересылать сообщения из Telegram в SMS с помощью бота](https://habr.com/ru/companies/exolve/articles/860192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860192)
+- [Стили, темы и адаптивная верстка в React Native](https://habr.com/ru/articles/860156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860156)
 - [[Перевод] Реализация алгоритма двумерной упаковки Skyline](https://habr.com/ru/articles/859824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859824)
 - [Переводчик текста для терминала](https://habr.com/ru/articles/842288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842288)
-- [Собеседование — битва к которой нужно подговиться](https://habr.com/ru/articles/860172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860172)
-- [Язык как проект: как продакт-менеджеру учить английский](https://habr.com/ru/articles/860152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860152)
-- [FastAPI + APScheduler: Простой пошаговый гайд по созданию асинхронного API для мониторинга валют по расписанию на Python](https://habr.com/ru/companies/amvera/articles/859990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
