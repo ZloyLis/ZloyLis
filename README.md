@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Реализация алгоритма двумерной упаковки Skyline](https://habr.com/ru/articles/859824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859824)
+- [Переводчик текста для терминала](https://habr.com/ru/articles/842288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842288)
 - [Собеседование — битва к которой нужно подговиться](https://habr.com/ru/articles/860172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860172)
 - [Язык как проект: как продакт-менеджеру учить английский](https://habr.com/ru/articles/860152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860152)
 - [FastAPI + APScheduler: Простой пошаговый гайд по созданию асинхронного API для мониторинга валют по расписанию на Python](https://habr.com/ru/companies/amvera/articles/859990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859990)
-- [Гайд по реализации паттерна Composite в Kotlin с sealed-классами и корутинами](https://habr.com/ru/companies/otus/articles/859176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859176)
-- [Мои безумные часы: или как создать точку фокуса в рабочем интерьере](https://habr.com/ru/articles/856660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
