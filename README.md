@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Портал, манулы и мячи: опыт разработки для Apple Vision Pro. Часть 1](https://habr.com/ru/articles/860194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860194)
-- [Как пересылать сообщения из Telegram в SMS с помощью бота](https://habr.com/ru/companies/exolve/articles/860192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860192)
-- [Стили, темы и адаптивная верстка в React Native](https://habr.com/ru/articles/860156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860156)
-- [[Перевод] Реализация алгоритма двумерной упаковки Skyline](https://habr.com/ru/articles/859824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859824)
-- [Переводчик текста для терминала](https://habr.com/ru/articles/842288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=842288)
+- [Введение в Brisa: новый подход к веб-разработке](https://habr.com/ru/companies/domclick/articles/859952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859952)
+- [Создаем свою ORM на python — гайд](https://habr.com/ru/companies/timeweb/articles/851706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851706)
+- [Возможности поля HTML-документа, часть 2. Внедряем CSS и JS](https://habr.com/ru/companies/lad_/articles/860106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860106)
+- [Расширенная модель записи данных REM: почему это стандарт для разработки Low-code решений?](https://habr.com/ru/companies/simpleone/articles/860138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860138)
+- [Инженеры больших идей: кто был бы спикером на ИТ-конференции вашей мечты?](https://habr.com/ru/specials/858876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
