@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собеседование — битва к которой нужно подговиться](https://habr.com/ru/articles/860172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860172)
+- [Язык как проект: как продакт-менеджеру учить английский](https://habr.com/ru/articles/860152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860152)
+- [FastAPI + APScheduler: Простой пошаговый гайд по созданию асинхронного API для мониторинга валют по расписанию на Python](https://habr.com/ru/companies/amvera/articles/859990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859990)
+- [Гайд по реализации паттерна Composite в Kotlin с sealed-классами и корутинами](https://habr.com/ru/companies/otus/articles/859176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859176)
 - [Мои безумные часы: или как создать точку фокуса в рабочем интерьере](https://habr.com/ru/articles/856660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856660)
-- [Кэширование с FeignClient: как ускорить микросервисы и стать героем проекта](https://habr.com/ru/articles/860120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860120)
-- [Статистические критерии и доверительные интервалы](https://habr.com/ru/companies/otus/articles/859234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859234)
-- [Четыре вида аналитики данных: дескриптивная, диагностическая, предиктивная, прескриптивная](https://habr.com/ru/articles/860078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860078)
-- [Сено, чанки, два промпта: кто такой MarkUp-инженер и как его обучать](https://habr.com/ru/companies/redmadrobot/articles/860070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
