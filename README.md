@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пятничная занимательная логическая задача про программистов, придуманная LLM](https://habr.com/ru/articles/860432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860432)
 - [[Перевод] Typescript для React](https://habr.com/ru/articles/860418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860418)
 - [constexpr Game of Life](https://habr.com/ru/articles/860150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860150)
 - [Философия науки: про антинаучность стереотипов о настоящей научности](https://habr.com/ru/articles/860410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860410)
 - [[Перевод] Сборщик мусора CPython и его влияние на производительность приложения](https://habr.com/ru/companies/beget/articles/860406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860406)
-- [Как находить подходящие вакансии](https://habr.com/ru/articles/860404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
