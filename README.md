@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я – наставник. Фантастические люди и где они обитают](https://habr.com/ru/companies/sportmaster_lab/articles/859912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859912)
+- [REST vs gRPC. Межсервисная интеграция для начинающих](https://habr.com/ru/companies/ozontech/articles/859936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859936)
+- [Модели данных в BI-платформах: физика против логики](https://habr.com/ru/companies/axenix/articles/860094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860094)
+- [Защищаем контейнеры от киберрисков: наш опыт и рекомендации](https://habr.com/ru/companies/cloud_ru/articles/859926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859926)
 - [Когда проблема — не проблема. НЖЯ — инструмент Теории Ограничений](https://habr.com/ru/companies/oleg-bunin/articles/859734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859734)
-- [[Перевод] Создание XDP eBPF программы с использованием C и Golang: пошаговое руководство](https://habr.com/ru/companies/otus/articles/860104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860104)
-- [Введение в Brisa: новый подход к веб-разработке](https://habr.com/ru/companies/domclick/articles/859952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859952)
-- [Создаем свою ORM на python — гайд](https://habr.com/ru/companies/timeweb/articles/851706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851706)
-- [Возможности поля HTML-документа, часть 2. Внедряем CSS и JS](https://habr.com/ru/companies/lad_/articles/860106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
