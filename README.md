@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем PostgreSQL с помощью Tuned](https://habr.com/ru/companies/otus/articles/859270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859270)
+- [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860510)
+- [Сериализация в Java. Давайте разбираться](https://habr.com/ru/companies/pvs-studio/articles/860502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860502)
+- [Как мы организовывали поддержку Unidraw](https://habr.com/ru/companies/tbank/articles/859994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859994)
 - [State of DevOps 2024. Туда и обратно: 1. DORA-метрики и элитность](https://habr.com/ru/companies/yandex_praktikum/articles/859686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859686)
-- [[Перевод] Ломаем хэши CityHash64, MurmurHash2/3, wyhash и не только…](https://habr.com/ru/articles/858960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858960)
-- [Будь T-shape](https://habr.com/ru/articles/859850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859850)
-- [[Перевод] Создание приложения для обратного поиска изображений с помощью Manticore Search](https://habr.com/ru/articles/859418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859418)
-- [Пятничная занимательная логическая задача про программистов, придуманная LLM](https://habr.com/ru/articles/860432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
