@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [State of DevOps 2024. Туда и обратно: 1. DORA-метрики и элитность](https://habr.com/ru/companies/yandex_praktikum/articles/859686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859686)
+- [[Перевод] Ломаем хэши CityHash64, MurmurHash2/3, wyhash и не только…](https://habr.com/ru/articles/858960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858960)
 - [Будь T-shape](https://habr.com/ru/articles/859850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859850)
 - [[Перевод] Создание приложения для обратного поиска изображений с помощью Manticore Search](https://habr.com/ru/articles/859418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859418)
 - [Пятничная занимательная логическая задача про программистов, придуманная LLM](https://habr.com/ru/articles/860432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860432)
-- [[Перевод] Typescript для React](https://habr.com/ru/articles/860418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860418)
-- [constexpr Game of Life](https://habr.com/ru/articles/860150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
