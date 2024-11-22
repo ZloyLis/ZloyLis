@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ошибки, которые я совершил, пытаясь быть «слишком правильным» в разработке](https://habr.com/ru/articles/860656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860656)
 - [Многослойная архитектура FrontEnd-приложений на основании SOLID, часть 1](https://habr.com/ru/companies/beeline_tech/articles/860612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860612)
 - [Джуны, именно поэтому вас не берут на работу](https://habr.com/ru/articles/860598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860598)
 - [Как правильно выбрать хостинг-провайдера в 2025 году: критерии, которые имеют значение](https://habr.com/ru/articles/860606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860606)
 - [AsyncAPI — Swagger для брокеров сообщений и не только, или Если хочется иметь структурированную доку по асинхрону](https://habr.com/ru/articles/860604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860604)
-- [Очередной эмулятор Nes. Процессор](https://habr.com/ru/articles/859300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
