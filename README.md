@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как повысить свою частоту вибрации?](https://habr.com/ru/articles/860544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860544)
+- [Прощай, Маша, не поминай лихом! Как мы переходили с MariaDB на PostgreSQL](https://habr.com/ru/companies/T1Holding/articles/858530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858530)
 - [Ускоряем PostgreSQL с помощью Tuned](https://habr.com/ru/companies/otus/articles/859270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859270)
 - [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860510)
 - [Сериализация в Java. Давайте разбираться](https://habr.com/ru/companies/pvs-studio/articles/860502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860502)
-- [Как мы организовывали поддержку Unidraw](https://habr.com/ru/companies/tbank/articles/859994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859994)
-- [State of DevOps 2024. Туда и обратно: 1. DORA-метрики и элитность](https://habr.com/ru/companies/yandex_praktikum/articles/859686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
