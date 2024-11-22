@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как повысить свою частоту вибрации?](https://habr.com/ru/articles/860544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860544)
-- [Прощай, Маша, не поминай лихом! Как мы переходили с MariaDB на PostgreSQL](https://habr.com/ru/companies/T1Holding/articles/858530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858530)
-- [Ускоряем PostgreSQL с помощью Tuned](https://habr.com/ru/companies/otus/articles/859270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859270)
-- [[Перевод] От кода к смыслу: улучшенная панель Structure в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/spring_aio/articles/860510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860510)
-- [Сериализация в Java. Давайте разбираться](https://habr.com/ru/companies/pvs-studio/articles/860502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860502)
+- [Очередной эмулятор Nes. Процессор](https://habr.com/ru/articles/859300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859300)
+- [[Перевод] Упрощаем CSS-анимации с помощью свойств display и размеров элемента](https://habr.com/ru/companies/netologyru/articles/860548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860548)
+- [Генерация кода валидации из спецификации OpenAPI: как мы синхронизировали валидаторы данных между бэкендом и фронтендом](https://habr.com/ru/companies/outlines_tech/articles/860566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860566)
+- [[Перевод] Разумный подход к «Considered Harmful»](https://habr.com/ru/companies/piter/articles/860558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860558)
+- [5 полезных фреймворков и библиотек для начинающего фронтенд-разработчика на конец 2024 года](https://habr.com/ru/companies/ru_mts/articles/860534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
