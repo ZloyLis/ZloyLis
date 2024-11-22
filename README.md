@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многослойная архитектура FrontEnd-приложений на основании SOLID, часть 1](https://habr.com/ru/companies/beeline_tech/articles/860612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860612)
+- [Джуны, именно поэтому вас не берут на работу](https://habr.com/ru/articles/860598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860598)
+- [Как правильно выбрать хостинг-провайдера в 2025 году: критерии, которые имеют значение](https://habr.com/ru/articles/860606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860606)
+- [AsyncAPI — Swagger для брокеров сообщений и не только, или Если хочется иметь структурированную доку по асинхрону](https://habr.com/ru/articles/860604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860604)
 - [Очередной эмулятор Nes. Процессор](https://habr.com/ru/articles/859300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859300)
-- [[Перевод] Упрощаем CSS-анимации с помощью свойств display и размеров элемента](https://habr.com/ru/companies/netologyru/articles/860548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860548)
-- [Генерация кода валидации из спецификации OpenAPI: как мы синхронизировали валидаторы данных между бэкендом и фронтендом](https://habr.com/ru/companies/outlines_tech/articles/860566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860566)
-- [[Перевод] Разумный подход к «Considered Harmful»](https://habr.com/ru/companies/piter/articles/860558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860558)
-- [5 полезных фреймворков и библиотек для начинающего фронтенд-разработчика на конец 2024 года](https://habr.com/ru/companies/ru_mts/articles/860534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
