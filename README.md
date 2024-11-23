@@ -38,7 +38,7 @@ ___
 - [GIMP Script-Fu Первый Дан. Наивные графические преобразования](https://habr.com/ru/articles/860458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860458)
 - [Элегантная реализация Long Press обработчика с помощью CSS анимации](https://habr.com/ru/articles/860704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860704)
 - [Пишем Android приложение для фильтрации спам-звонков](https://habr.com/ru/articles/860118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860118)
-- [[Перевод] Selenium с Robotframework — тест пользовательского интерфейса](https://habr.com/ru/articles/860678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860678)
+- [[Перевод] Selenium с Robot Framework — тест пользовательского интерфейса](https://habr.com/ru/articles/860678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860678)
 - [Мне точно нужно ходить на конференции – это вопрос или утверждение?](https://habr.com/ru/articles/860666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860666)
 <!-- BLOG-POST-LIST:END -->
 
