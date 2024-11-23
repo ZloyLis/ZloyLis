@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык TypeSpec для создания API-документации](https://habr.com/ru/articles/860742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860742)
+- [Разработка Task Manager с нуля до полнофункционального продукта](https://habr.com/ru/companies/amvera/articles/857704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857704)
 - [Дебаг на максимум: секретные настройки Xcode, которые должен знать каждый разработчик](https://habr.com/ru/companies/alfa/articles/858706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858706)
 - [GIMP Script-Fu Первый Дан. Наивные графические преобразования](https://habr.com/ru/articles/860458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860458)
 - [Элегантная реализация Long Press обработчика с помощью CSS анимации](https://habr.com/ru/articles/860704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860704)
-- [Пишем Android приложение для фильтрации спам-звонков](https://habr.com/ru/articles/860118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860118)
-- [[Перевод] Selenium с Robot Framework — тест пользовательского интерфейса](https://habr.com/ru/articles/860678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
