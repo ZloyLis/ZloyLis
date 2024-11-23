@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Работа с @SpyBean: использование в Spring Boot](https://habr.com/ru/articles/860786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860786)
-- [Побеждаем Data Race в Swift: Осваиваем инструменты и секреты безопасного кода](https://habr.com/ru/articles/860774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860774)
 - [Как использовать User  Story mapping при создании цифрового продукта](https://habr.com/ru/articles/860762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860762)
 - [GIMP Script-Fu Первый Дан. Реализация Хеш-Таблицы](https://habr.com/ru/articles/860576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860576)
 - [Язык TypeSpec для создания API-документации](https://habr.com/ru/articles/860742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860742)
+- [Разработка Task Manager с нуля до полнофункционального продукта](https://habr.com/ru/companies/amvera/articles/857704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
