@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Изучаем поддельный Galaxy S23 Ultra с озона](https://habr.com/ru/companies/ruvds/articles/859870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859870)
+- [Построй свой собственный голосовой помощник с помощью Raspberry Pi и Chat API](https://habr.com/ru/articles/860902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860902)
+- [Вскрываем поддельный Galaxy S23 Ultra с озона](https://habr.com/ru/companies/ruvds/articles/859870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859870)
 - [OSDEV: Разработка аллокатора на С++ часть 1. Неявный список свободных блоков с граничными тегами](https://habr.com/ru/articles/860872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860872)
 - [[Перевод] Размышления о декларативной конфигурации](https://habr.com/ru/companies/timeweb/articles/860844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860844)
 - [[Перевод] Реализация подобия Apple Vision Pro](https://habr.com/ru/companies/ruvds/articles/860374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860374)
-- [Параметрические сплайны на плоскости](https://habr.com/ru/articles/860838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
