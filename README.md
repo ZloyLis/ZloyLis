@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Размышления о декларативной конфигурации](https://habr.com/ru/companies/timeweb/articles/860844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860844)
 - [[Перевод] Реализация подобия Apple Vision Pro](https://habr.com/ru/companies/ruvds/articles/860374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860374)
 - [Параметрические сплайны на плоскости](https://habr.com/ru/articles/860838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860838)
 - [Observable – удобный state-manager](https://habr.com/ru/articles/860820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860820)
 - [Работа с @SpyBean: использование в Spring Boot](https://habr.com/ru/articles/860786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860786)
-- [Как использовать User  Story mapping при создании цифрового продукта](https://habr.com/ru/articles/860762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
