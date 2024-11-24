@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ипротозамещение в авиации. Вести с полей](https://habr.com/ru/articles/860956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860956)
+- [Импортозамещение в авиации. Вести с полей](https://habr.com/ru/articles/860956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860956)
 - [[Перевод] Python REST API: Flask, Connexion и SQLAlchemy &lpar;часть 3&rpar;](https://habr.com/ru/articles/860964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860964)
 - [Мобильная разработка за неделю #565 &lpar;18 — 24 ноября&rpar;](https://habr.com/ru/articles/860906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860906)
 - [Построй свой собственный голосовой помощник с помощью Raspberry Pi и Chat API](https://habr.com/ru/articles/860902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860902)
