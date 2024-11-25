@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рецепты TypeScript: подстановка параметров в путь](https://habr.com/ru/companies/cloud_ru/articles/860764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860764)
+- [[Перевод] Почему я провалю ваше техническое собеседование](https://habr.com/ru/companies/ruvds/articles/861018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861018)
+- [[Перевод] Что нового в Spring Boot 3.4](https://habr.com/ru/companies/spring_aio/articles/861182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861182)
 - [Как работать с диаграммой причинно-следственных связей](https://habr.com/ru/companies/sberbank/articles/861162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861162)
 - [[Перевод] Вышел TypeScript 5.7](https://habr.com/ru/articles/861126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861126)
-- [Как мы завалили фичу и чему научились за это время, или Почему идеи без исследований — это домыслы](https://habr.com/ru/companies/tbank/articles/861114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861114)
-- [Редизайн сайта: когда это необходимо и как правильно его провести](https://habr.com/ru/articles/861096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861096)
-- [Что нужно техлиду для погружения в техлидерство?](https://habr.com/ru/companies/oleg-bunin/articles/861088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
