@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы завалили фичу и чему научились за это время, или Почему идеи без исследований — это домыслы](https://habr.com/ru/companies/tbank/articles/861114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861114)
 - [Редизайн сайта: когда это необходимо и как правильно его провести](https://habr.com/ru/articles/861096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861096)
 - [Что нужно техлиду для погружения в техлидерство?](https://habr.com/ru/companies/oleg-bunin/articles/861088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861088)
 - [Кэширование информации в Redis на NestJS](https://habr.com/ru/articles/861064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861064)
 - [Compose Web здорового человека](https://habr.com/ru/articles/851194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851194)
-- [[Перевод] Обнаружение «шумных соседей» с помощью eBPF](https://habr.com/ru/companies/wunderfund/articles/859978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
