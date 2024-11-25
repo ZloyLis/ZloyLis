@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Редизайн сайта: когда это необходимо и как правильно его провести](https://habr.com/ru/articles/861096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861096)
+- [Что нужно техлиду для погружения в техлидерство?](https://habr.com/ru/companies/oleg-bunin/articles/861088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861088)
+- [Кэширование информации в Redis на NestJS](https://habr.com/ru/articles/861064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861064)
+- [Compose Web здорового человека](https://habr.com/ru/articles/851194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851194)
 - [[Перевод] Обнаружение «шумных соседей» с помощью eBPF](https://habr.com/ru/companies/wunderfund/articles/859978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859978)
-- [Гадание на пяти строчках: о чем молчит программа](https://habr.com/ru/companies/pvs-studio/articles/861034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861034)
-- [Воплотил мечту детства и создал мобильную игру](https://habr.com/ru/articles/861004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861004)
-- [iPhone: Красота в деталях или неудобство в простом? Мой опыт перехода с Android](https://habr.com/ru/articles/860994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860994)
-- [Использование PlantUML для описания API. Визуализация для начинающих](https://habr.com/ru/articles/860952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
