@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone: Красота в деталях или неудобство в простом? Мой опыт перехода с Android](https://habr.com/ru/articles/860994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860994)
+- [Использование PlantUML для описания API. Визуализация для начинающих](https://habr.com/ru/articles/860952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860952)
 - [Транзакции в базах данных на примере PostgreSQL](https://habr.com/ru/articles/860982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860982)
 - [Как один сервис сэкономил компании деньги, а сотрудникам — время](https://habr.com/ru/articles/852386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=852386)
 - [Разработка и управление едиными контрактами API](https://habr.com/ru/articles/860960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860960)
-- [Адаптивный дизайн. Как собирать макеты девайсов в несколько кликов](https://habr.com/ru/articles/860972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860972)
-- [Импортозамещение в авиации. Вести с полей](https://habr.com/ru/articles/860956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
