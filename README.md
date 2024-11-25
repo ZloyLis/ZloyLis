@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Воспоминания о GeoCities, предтече социальных сетей из 1990-х годов](https://habr.com/ru/companies/ispsystem/articles/861280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861280)
+- [Введение в Spring AOP на примере кастомизации логирования](https://habr.com/ru/articles/861262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861262)
 - [Apple Pro Weekly News &lpar;18.11 – 24.11.24&rpar;](https://habr.com/ru/articles/861244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861244)
 - [Tracer спустя год: новые фичи и возможности инструмента для аналитики ошибок в мобильных приложениях](https://habr.com/ru/companies/vk/articles/861044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861044)
 - [Роль аналитика в разработке сложных информационных систем](https://habr.com/ru/articles/857606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=857606)
-- [Security Week 2448: десятилетняя уязвимость в утилите needrestart](https://habr.com/ru/companies/kaspersky/articles/861020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861020)
-- [Рецепты TypeScript: подстановка параметров в путь](https://habr.com/ru/companies/cloud_ru/articles/860764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
