@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Я — робот Вертер» или Нулевой закон робототехники](https://habr.com/ru/companies/ruvds/articles/861302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861302)
+- [Язык программирования для игр](https://habr.com/ru/articles/860946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860946)
+- [[Перевод] Работа с куки-файлами хуже сапёрного дела](https://habr.com/ru/articles/861300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861300)
 - [KAN модель. Пробуем на задаче восстановления табличных данных](https://habr.com/ru/companies/spbifmo/articles/861192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861192)
 - [Рецепты TypeScript: типизированное преобразование объекта](https://habr.com/ru/companies/cloud_ru/articles/860770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860770)
-- [Книга: «Рецепты TypeScript»](https://habr.com/ru/companies/piter/articles/861206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861206)
-- [[Перевод] Хороший рефакторинг vs плохой рефакторинг](https://habr.com/ru/companies/otus/articles/861450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861450)
-- [Что происходит, когда вы вводите адрес сайта и нажимаете Enter?](https://habr.com/ru/companies/gnivc/articles/861432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
