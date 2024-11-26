@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математическая продлёнка. Изобретаем числа I](https://habr.com/ru/articles/861174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861174)
 - [Асинхронная обработка Stripe событий с помощью Scala](https://habr.com/ru/articles/860108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860108)
 - [Ошибки, которые разрушают QA-процессы](https://habr.com/ru/articles/861556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861556)
 - [Тренды Java: как российские разработчики делают то, что другие только планируют](https://habr.com/ru/companies/axiomjdk/articles/861462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861462)
 - [«Я — робот Вертер» или Нулевой закон робототехники](https://habr.com/ru/companies/ruvds/articles/861302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861302)
-- [Язык программирования для игр](https://habr.com/ru/articles/860946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
