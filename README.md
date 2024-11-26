@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как ручному тестировщику стать автоматизатором?](https://habr.com/ru/companies/avito/articles/861156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861156)
+- [«Безумный» CSS квиз от гика](https://habr.com/ru/companies/ruvds/articles/859826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859826)
+- [Нужно ли онлайн-образование сейчас? В IT, по крайней мере](https://habr.com/ru/articles/861424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861424)
+- [«Модная болезнь»: как распознать и предотвратить профессиональное выгорание](https://habr.com/ru/companies/oleg-bunin/articles/719752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719752)
 - [Как экономить нервы и время при отладке кода](https://habr.com/ru/articles/861390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861390)
-- [Кросс-платформенное тестирование мобильных приложений: особенности, инструменты и решения](https://habr.com/ru/companies/domclick/articles/859546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859546)
-- [[Перевод] KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://habr.com/ru/articles/860738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860738)
-- [Чего ждёт рынок от java-разработчика уровня middle](https://habr.com/ru/companies/yandex_praktikum/articles/860272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860272)
-- [Почему колористика в маркетинге так важна?](https://habr.com/ru/articles/861362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
