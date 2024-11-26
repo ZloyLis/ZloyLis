@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Хороший рефакторинг vs плохой рефакторинг](https://habr.com/ru/companies/otus/articles/861450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861450)
+- [Что происходит, когда вы вводите адрес сайта и нажимаете Enter?](https://habr.com/ru/companies/gnivc/articles/861432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861432)
 - [Как ручному тестировщику стать автоматизатором?](https://habr.com/ru/companies/avito/articles/861156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861156)
 - [«Безумный» CSS квиз от гика](https://habr.com/ru/companies/ruvds/articles/859826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859826)
 - [Нужно ли онлайн-образование сейчас? В IT, по крайней мере](https://habr.com/ru/articles/861424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861424)
-- [«Модная болезнь»: как распознать и предотвратить профессиональное выгорание](https://habr.com/ru/companies/oleg-bunin/articles/719752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=719752)
-- [Как экономить нервы и время при отладке кода](https://habr.com/ru/articles/861390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
