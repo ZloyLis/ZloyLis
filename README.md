@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Оптимизировали 5 рабочих процессов с помощью AI. Не rocket science, но уже экономит ресурсы](https://habr.com/ru/companies/1forma/articles/860578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860578)
-- [План Cutover при имплементации ERP-систем](https://habr.com/ru/articles/861294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861294)
-- [ISO C++ — встреча международного комитета в Польше](https://habr.com/ru/companies/yandex/articles/860308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860308)
-- [«Напомните через месяц?»: как автоматизировать напоминания клиентам с Golang, SQLite и вебхуками](https://habr.com/ru/companies/exolve/articles/861346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861346)
-- [Асинхронность в iOS: как ускорить корпоративные приложения и не сломать мозг разработчика](https://habr.com/ru/articles/861342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861342)
+- [Как экономить нервы и время при отладке кода](https://habr.com/ru/articles/861390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861390)
+- [Кросс-платформенное тестирование мобильных приложений: особенности, инструменты и решения](https://habr.com/ru/companies/domclick/articles/859546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859546)
+- [[Перевод] KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://habr.com/ru/articles/860738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860738)
+- [Чего ждёт рынок от java-разработчика уровня middle](https://habr.com/ru/companies/yandex_praktikum/articles/860272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860272)
+- [Почему колористика в маркетинге так важна?](https://habr.com/ru/articles/861362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
