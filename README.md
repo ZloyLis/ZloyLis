@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизировали 5 рабочих процессов с помощью AI. Не rocket science, но уже экономит ресурсы](https://habr.com/ru/companies/1forma/articles/860578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860578)
+- [План Cutover при имплементации ERP-систем](https://habr.com/ru/articles/861294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861294)
+- [ISO C++ — встреча международного комитета в Польше](https://habr.com/ru/companies/yandex/articles/860308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860308)
 - [«Напомните через месяц?»: как автоматизировать напоминания клиентам с Golang, SQLite и вебхуками](https://habr.com/ru/companies/exolve/articles/861346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861346)
 - [Асинхронность в iOS: как ускорить корпоративные приложения и не сломать мозг разработчика](https://habr.com/ru/articles/861342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861342)
-- [Больше чем книга](https://habr.com/ru/companies/aquarius/articles/861338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861338)
-- [Генетический алгоритм: природа в действии для оптимизации сложных задач &lpar;c примером на java&rpar;](https://habr.com/ru/articles/861334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861334)
-- [А вдруг я не системный аналитик? Советы начинающим специалистам](https://habr.com/ru/articles/861292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
