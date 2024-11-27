@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простые числа: ключ к математическим тайнам](https://habr.com/ru/articles/861768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861768)
+- [«Теперь будем ходить в интернет через Госуслуги»: знакомство с российскими TLS-сертификатами](https://habr.com/ru/companies/selectel/articles/861708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861708)
 - [BDUI — это спасение от релизов: «Какие ваши доказательства?»](https://habr.com/ru/companies/alfa/articles/861384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861384)
 - [Введение в сборку RPM-пакетов в ОС «Альт» Linux: основы и первый пример](https://habr.com/ru/articles/861746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861746)
-- [Введение в сборку RPM-пакетов в ОС «Альт» Linux: основы и первый пример](https://habr.com/ru/articles/861744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861744)
 - [Методы моделирования атак на графах](https://habr.com/ru/companies/pt/articles/861072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861072)
-- [PostgreSQL — особенности работы с памятью для 1С-систем. Часть 2](https://habr.com/ru/companies/softpoint/articles/861738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
