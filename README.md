@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Будущее КОМПАС API на Linux](https://habr.com/ru/companies/ascon/articles/860636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860636)
+- [Пишем плагины для Obsidian. Часть 1](https://habr.com/ru/articles/861230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861230)
+- [30 трендов в дизайне и сайтах на 2025-й год](https://habr.com/ru/articles/861696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861696)
 - [Мнемотехника в помощь айтишникам](https://habr.com/ru/companies/first/articles/861506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861506)
 - [Как мы помогаем развиваться web3 front-end разработчикам благодаря нашей Карте развития в 2024 году](https://habr.com/ru/companies/metalamp/articles/861470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861470)
-- [[Перевод] Эффект матового стекла для веба](https://habr.com/ru/articles/861290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861290)
-- [Как поставить цель на обучение, чтобы дойти до конца](https://habr.com/ru/companies/yandex_praktikum/articles/860338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860338)
-- [Типизация свойства объекта в виде строки](https://habr.com/ru/articles/861644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
