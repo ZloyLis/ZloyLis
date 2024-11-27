@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Простые числа: ключ к математическим тайнам](https://habr.com/ru/articles/861768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861768)
-- [«Теперь будем ходить в интернет через Госуслуги»: знакомство с российскими TLS-сертификатами](https://habr.com/ru/companies/selectel/articles/861708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861708)
-- [BDUI — это спасение от релизов: «Какие ваши доказательства?»](https://habr.com/ru/companies/alfa/articles/861384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861384)
-- [Введение в сборку RPM-пакетов в ОС «Альт» Linux: основы и первый пример](https://habr.com/ru/articles/861746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861746)
-- [Методы моделирования атак на графах](https://habr.com/ru/companies/pt/articles/861072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861072)
+- [Популярные фреймворки для автоматизации тестирования](https://habr.com/ru/companies/sberbank/articles/861706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861706)
+- [[Перевод] Что нового в Spring Framework 6.2, Spring Boot 3.4 и каковы планы на будущее?](https://habr.com/ru/companies/spring_aio/articles/861782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861782)
+- [Go отлаживать на проде, избавляться от хардкода и переходить на Ginkgo/Gomega: доклады для гоферов](https://habr.com/ru/companies/yadro/articles/861742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861742)
+- [Как awk заменяет 10 команд Bash](https://habr.com/ru/companies/otus/articles/861572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861572)
+- [Как заставить ИИ на базе LLM писать полноценные приложения на HTML + CSS + JavaScript](https://habr.com/ru/articles/861770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
