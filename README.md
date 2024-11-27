@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как поставить цель на обучение, чтобы дойти до конца](https://habr.com/ru/companies/yandex_praktikum/articles/860338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860338)
+- [Типизация свойства объекта в виде строки](https://habr.com/ru/articles/861644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861644)
+- [Магия Injection Context](https://habr.com/ru/companies/tbank/articles/861172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861172)
+- [State of DevOps 2024. Туда и обратно. Часть 2: Искусственный интеллект](https://habr.com/ru/companies/yandex_praktikum/articles/861286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861286)
 - [Точная оценка задач QA: возможно ли это?](https://habr.com/ru/articles/861640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861640)
-- [Netpoll: пишем сервера, которые не умирают от нагрузки](https://habr.com/ru/companies/otus/articles/859964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859964)
-- [Отслеживание позиций торгового робота Московской биржи через CSV файл](https://habr.com/ru/articles/860162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860162)
-- [Математическая продлёнка. Изобретаем числа I](https://habr.com/ru/articles/861174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861174)
-- [Асинхронная обработка Stripe событий с помощью Scala](https://habr.com/ru/articles/860108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
