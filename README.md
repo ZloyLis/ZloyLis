@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мнемотехника в помощь айтишникам](https://habr.com/ru/companies/first/articles/861506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861506)
+- [Как мы помогаем развиваться web3 front-end разработчикам благодаря нашей Карте развития в 2024 году](https://habr.com/ru/companies/metalamp/articles/861470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861470)
+- [[Перевод] Эффект матового стекла для веба](https://habr.com/ru/articles/861290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861290)
 - [Как поставить цель на обучение, чтобы дойти до конца](https://habr.com/ru/companies/yandex_praktikum/articles/860338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860338)
 - [Типизация свойства объекта в виде строки](https://habr.com/ru/articles/861644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861644)
-- [Магия Injection Context](https://habr.com/ru/companies/tbank/articles/861172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861172)
-- [State of DevOps 2024. Туда и обратно. Часть 2: Искусственный интеллект](https://habr.com/ru/companies/yandex_praktikum/articles/861286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861286)
-- [Точная оценка задач QA: возможно ли это?](https://habr.com/ru/articles/861640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
