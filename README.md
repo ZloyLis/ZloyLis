@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Netpoll: пишем сервера, которые не умирают от нагрузки](https://habr.com/ru/companies/otus/articles/859964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859964)
 - [Отслеживание позиций торгового робота Московской биржи через CSV файл](https://habr.com/ru/articles/860162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860162)
 - [Математическая продлёнка. Изобретаем числа I](https://habr.com/ru/articles/861174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861174)
 - [Асинхронная обработка Stripe событий с помощью Scala](https://habr.com/ru/articles/860108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860108)
 - [Ошибки, которые разрушают QA-процессы](https://habr.com/ru/articles/861556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861556)
-- [Тренды Java: как российские разработчики делают то, что другие только планируют](https://habr.com/ru/companies/axiomjdk/articles/861462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
