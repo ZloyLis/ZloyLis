@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаём простой копирующий сборщик мусора](https://habr.com/ru/companies/ruvds/articles/861776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861776)
 - [Популярные фреймворки для автоматизации тестирования](https://habr.com/ru/companies/sberbank/articles/861706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861706)
 - [[Перевод] Что нового в Spring Framework 6.2, Spring Boot 3.4 и каковы планы на будущее?](https://habr.com/ru/companies/spring_aio/articles/861782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861782)
 - [Go отлаживать на проде, избавляться от хардкода и переходить на Ginkgo/Gomega: доклады для гоферов](https://habr.com/ru/companies/yadro/articles/861742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861742)
 - [Как awk заменяет 10 команд Bash](https://habr.com/ru/companies/otus/articles/861572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861572)
-- [Как заставить ИИ на базе LLM писать полноценные приложения на HTML + CSS + JavaScript](https://habr.com/ru/articles/861770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
