@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Упс, что-то пошло не так. Как UX-редактору написать сообщение об ошибке?](https://habr.com/ru/articles/861836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861836)
 - [Как работает bytearray в Python? Смотрим реализацию на C](https://habr.com/ru/articles/861820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861820)
-- [Математическая продлёнка. Изобретаем числа II](https://habr.com/ru/articles/861614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861614)
+- [Математическая продлёнка. Изобретаем дроби](https://habr.com/ru/articles/861614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861614)
 - [[Перевод] Создаём простой копирующий сборщик мусора](https://habr.com/ru/companies/ruvds/articles/861776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861776)
 - [Популярные фреймворки для автоматизации тестирования](https://habr.com/ru/companies/sberbank/articles/861706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861706)
 <!-- BLOG-POST-LIST:END -->
