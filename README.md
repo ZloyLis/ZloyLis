@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Значение ООП в IT](https://habr.com/ru/articles/862184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862184)
+- [DVC, FDS, Kart и Dolt для версионирования данных](https://habr.com/ru/companies/pgk/articles/861484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861484)
 - [Пишем плагины для Obsidian. Часть 2](https://habr.com/ru/articles/862166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862166)
 - [Продакту на заметку: почему привычные метрики могут стать тормозом для роста и что с этим делать](https://habr.com/ru/companies/avito/articles/862016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862016)
 - [[Перевод] Мастерство работы с Java Stream](https://habr.com/ru/companies/otus/articles/862134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862134)
-- [Коммуникативные задачи ИТ](https://habr.com/ru/articles/862128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862128)
-- [Task-based мышление в игровых движках](https://habr.com/ru/articles/861540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
