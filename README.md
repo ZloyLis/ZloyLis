@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мастерство работы с Java Stream](https://habr.com/ru/companies/otus/articles/862134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862134)
 - [Task-based мышление в игровых движках](https://habr.com/ru/articles/861540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861540)
 - [Часы Garmin Fenix 5 plus — прокачка](https://habr.com/ru/articles/861180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861180)
 - [Запускаем Embedded Linux на Hard- и Soft-CPU Xilinx Zynq: загружаем платформу и верифицируем проект](https://habr.com/ru/companies/yadro/articles/860428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860428)
 - [Всё о новых штрафах за утечки данных. Сколько светит и как защитить своё приложение](https://habr.com/ru/companies/surfstudio/articles/862048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862048)
-- [[Перевод] Palm Pilot: Гаджет, изменивший историю технологий](https://habr.com/ru/companies/ua-hosting/articles/861802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
