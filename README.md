@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продакту на заметку: почему привычные метрики могут стать тормозом для роста и что с этим делать](https://habr.com/ru/companies/avito/articles/862016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862016)
 - [[Перевод] Мастерство работы с Java Stream](https://habr.com/ru/companies/otus/articles/862134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862134)
+- [Коммуникативные задачи ИТ](https://habr.com/ru/articles/862128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862128)
 - [Task-based мышление в игровых движках](https://habr.com/ru/articles/861540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861540)
 - [Часы Garmin Fenix 5 plus — прокачка](https://habr.com/ru/articles/861180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861180)
-- [Запускаем Embedded Linux на Hard- и Soft-CPU Xilinx Zynq: загружаем платформу и верифицируем проект](https://habr.com/ru/companies/yadro/articles/860428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860428)
-- [Всё о новых штрафах за утечки данных. Сколько светит и как защитить своё приложение](https://habr.com/ru/companies/surfstudio/articles/862048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
