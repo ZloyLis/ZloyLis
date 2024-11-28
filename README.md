@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем опенсорс курс C++ 17+. Присоединяйтесь](https://habr.com/ru/articles/859040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859040)
+- [Не UML-диаграммы на PlantUML. Обзор с примерами](https://habr.com/ru/articles/861900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861900)
 - [Итерация по UENUM в Unreal Engine](https://habr.com/ru/articles/861944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861944)
 - [Как использовать JDBC коннектора Kafka для повышения производительности обработки и записи данных](https://habr.com/ru/companies/usetech/articles/861894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861894)
 - [Как спрятать любые данные в PNG](https://habr.com/ru/articles/861932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861932)
-- [OSDEV: Разработка аллокатора на С++ часть 2: Слияние блоков за константное время. Юнит тест для аллокатора](https://habr.com/ru/articles/861930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861930)
-- [Упс, что-то пошло не так. Как UX-редактору написать сообщение об ошибке?](https://habr.com/ru/articles/861836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
