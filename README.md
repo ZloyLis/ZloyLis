@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математическая продлёнка. Изобретаем числа по-взрослому](https://habr.com/ru/articles/861904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861904)
+- [Большой гайд по миграциям в Django: готовимся к миграциям и избегаем конфликтов](https://habr.com/ru/companies/idaproject/articles/861386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861386)
+- [Как выявлять и устранять узкие места в процессах разработки и при чем здесь Process Mining](https://habr.com/ru/companies/vk/articles/861106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861106)
+- [Мне 34, я был в 65 странах, и у меня есть для вас лайфхак](https://habr.com/ru/companies/alfa/articles/860416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860416)
 - [Что тестировщикам &lpar;и не только им&rpar; важно знать о базах данных. Шпаргалка по популярным ошибкам](https://habr.com/ru/companies/sravni/articles/861806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861806)
-- [Как сделать виджет звонков из браузера на примере XWiki](https://habr.com/ru/companies/exolve/articles/847766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847766)
-- [Пример Definition of Ready: как мы проверяем готовность постановки на разработку](https://habr.com/ru/companies/korus_consulting/articles/861980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861980)
-- [Инженер машинного обучения: чем он занимается и какие ему нужны навыки](https://habr.com/ru/companies/yandex_praktikum/articles/861472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861472)
-- [Apache Airflow: нестандартное применение](https://habr.com/ru/companies/dbraincloud/articles/861842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
