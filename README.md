@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Извлечение метаданных из Power BI](https://habr.com/ru/articles/862052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862052)
-- [[Перевод] Spring Boot Avengers: объединяем Spring Data JDBC и JSONB в PostgreSQL](https://habr.com/ru/companies/T1Holding/articles/858762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858762)
-- [Математическая продлёнка. Изобретаем числа по-взрослому](https://habr.com/ru/articles/861904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861904)
-- [Большой гайд по миграциям в Django: готовимся к миграциям и избегаем конфликтов](https://habr.com/ru/companies/idaproject/articles/861386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861386)
-- [Как выявлять и устранять узкие места в процессах разработки и при чем здесь Process Mining](https://habr.com/ru/companies/vk/articles/861106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861106)
+- [ИИ в разработке: выводы DORA о доверии и продуктивности](https://habr.com/ru/articles/862020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862020)
+- [6 open-source-инструментов для разработчика: от интеграции данных до языка программирования](https://habr.com/ru/companies/ru_mts/articles/861972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861972)
+- [Синхронизация асинхронности: Dead Letter и Inbox для обработки зависимых сообщений](https://habr.com/ru/articles/862066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862066)
+- [UX/UI + AI. Полный перечень возможностей нейросетей для продуктового дизайнера, и мой практический опыт](https://habr.com/ru/articles/862058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862058)
+- [Динамические SQL-запросы в PostgreSQL: когда, зачем и как](https://habr.com/ru/companies/otus/articles/861240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
