@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Итерация по UENUM в Unreal Engine](https://habr.com/ru/articles/861944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861944)
+- [Как использовать JDBC коннектора Kafka для повышения производительности обработки и записи данных](https://habr.com/ru/companies/usetech/articles/861894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861894)
 - [Как спрятать любые данные в PNG](https://habr.com/ru/articles/861932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861932)
 - [OSDEV: Разработка аллокатора на С++ часть 2: Слияние блоков за константное время. Юнит тест для аллокатора](https://habr.com/ru/articles/861930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861930)
 - [Упс, что-то пошло не так. Как UX-редактору написать сообщение об ошибке?](https://habr.com/ru/articles/861836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861836)
-- [Как работает bytearray в Python? Смотрим реализацию на C](https://habr.com/ru/articles/861820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861820)
-- [Математическая продлёнка. Изобретаем дроби](https://habr.com/ru/articles/861614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
