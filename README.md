@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ в разработке: выводы DORA о доверии и продуктивности](https://habr.com/ru/articles/862020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862020)
-- [6 open-source-инструментов для разработчика: от интеграции данных до языка программирования](https://habr.com/ru/companies/ru_mts/articles/861972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861972)
-- [Синхронизация асинхронности: Dead Letter и Inbox для обработки зависимых сообщений](https://habr.com/ru/articles/862066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862066)
-- [UX/UI + AI. Полный перечень возможностей нейросетей для продуктового дизайнера, и мой практический опыт](https://habr.com/ru/articles/862058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862058)
-- [Динамические SQL-запросы в PostgreSQL: когда, зачем и как](https://habr.com/ru/companies/otus/articles/861240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861240)
+- [Task-based мышление в игровых движках](https://habr.com/ru/articles/861540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861540)
+- [Часы Garmin Fenix 5 plus — прокачка](https://habr.com/ru/articles/861180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861180)
+- [Запускаем Embedded Linux на Hard- и Soft-CPU Xilinx Zynq: загружаем платформу и верифицируем проект](https://habr.com/ru/companies/yadro/articles/860428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860428)
+- [Всё о новых штрафах за утечки данных. Сколько светит и как защитить своё приложение](https://habr.com/ru/companies/surfstudio/articles/862048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862048)
+- [[Перевод] Palm Pilot: Гаджет, изменивший историю технологий](https://habr.com/ru/companies/ua-hosting/articles/861802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
