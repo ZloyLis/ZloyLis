@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Обзор на Model Context Protocol &lpar;MCP&rpar; от Anthropic](https://habr.com/ru/articles/862312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862312)
+- [Дизайн за 5 минут. Дайджест ноября 2024](https://habr.com/ru/companies/garage8/articles/862308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862308)
 - [Китайская криптография. Анализ проприетарного протокола MMTLS из WeChat](https://habr.com/ru/companies/globalsign/articles/862300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862300)
 - [Domain-Driven Design: чистая архитектура снизу доверху](https://habr.com/ru/companies/sberbank/articles/781612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781612)
 - [Как ускорить проверку приложения с помощью Impact-анализа: Часть 1 — Статические анализаторы](https://habr.com/ru/companies/cian/articles/861922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861922)
-- [JavaScript. Как сделать невероятно быстрый многопоточный Data Grid на 1 000 000 строк. Часть 1/2: нюансы работы с DOM](https://habr.com/ru/articles/862272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862272)
-- [[Перевод] Разбираем алгоритм полнотекстового поиска BM25](https://habr.com/ru/articles/860830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
