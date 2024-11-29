@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Азбука: FluxCD — перенастраиваем kubernetes с одного репозитория на другой](https://habr.com/ru/articles/862462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862462)
+- [Мониторинг основных продуктовых метрик в Superset](https://habr.com/ru/companies/odnoklassniki/articles/862436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862436)
+- [[Перевод] MomBoard: E-Ink дисплей для родственника с амнезией](https://habr.com/ru/companies/ruvds/articles/861936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861936)
+- [Математическая продлёнка. Изобретаем эллиптические числа](https://habr.com/ru/articles/862012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862012)
 - [VPN Протоколы: Обзор Самых Популярных](https://habr.com/ru/articles/862446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862446)
-- [Релиз lsFusion 5.0 — новой версии самой декларативной платформы разработки в мире](https://habr.com/ru/companies/lsfusion/articles/862418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862418)
-- [[Перевод] Что нового в Spring Boot 3.4: Spring Security](https://habr.com/ru/companies/spring_aio/articles/862400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862400)
-- [Оптимизация хранения данных в PostgreSQL](https://habr.com/ru/companies/bercut/articles/859700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859700)
-- [Матрица soft skills: как вырасти от стажера до синьора](https://habr.com/ru/companies/kts/articles/862348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
