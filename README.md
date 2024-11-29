@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем из смартфона рацию Push-To-Talk, вызываем диспетчера или подаём SOS одним нажатием. Обзор XCover7 и MIL-STD-810H](https://habr.com/ru/companies/samsung/articles/862540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862540)
+- [Делаем из смартфона рацию Push-To-Talk, вызываем диспетчера или подаём SOS одной кнопкой. Обзор XCover7 и MIL-STD-810H](https://habr.com/ru/companies/samsung/articles/862538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862538)
+- [Развитие нейроимплантов, или кто приближает трансгуманизм](https://habr.com/ru/companies/redmadrobot/articles/862530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862530)
 - [OpenShift: улучшенный Kubernetes или переплата за техподдержку?](https://habr.com/ru/companies/cdnnow/articles/862380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862380)
 - [AWS выпустила мультиагентную платформу искусственного интеллекта со 100% открытым исходным кодом](https://habr.com/ru/articles/862484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862484)
-- [Больше чем математик. Кумир, учитель, вдохновитель](https://habr.com/ru/companies/aquarius/articles/862474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862474)
-- [Азбука: FluxCD — перенастраиваем kubernetes с одного репозитория на другой](https://habr.com/ru/companies/aenix/articles/862462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862462)
-- [Мониторинг основных продуктовых метрик в Superset](https://habr.com/ru/companies/vk/articles/862436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
