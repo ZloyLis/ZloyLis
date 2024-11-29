@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд для системного аналитика: как управлять требованиями на разных этапах проекта. Часть 3: Контроль](https://habr.com/ru/companies/yandex_praktikum/articles/858670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858670)
+- [Как мы увеличили выручку и рост посетителей в ~1,5 раза, разработав для Гриль №1 новый сайт и приложение](https://habr.com/ru/articles/862250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862250)
 - [Дизайн-ревью Яндекс Музыки. Тестировщик сравнивает дизайн макета с тестовой сборкой](https://habr.com/ru/articles/862232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862232)
 - [Отзыв о программе «Яндекс Практикум мидл Python-разработчик»](https://habr.com/ru/articles/862228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862228)
 - [Как я создал Vanilla Calendar Pro — легкий и гибкий календарь на JavaScript с использованием TypeScript](https://habr.com/ru/articles/862216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862216)
-- [Безопасная разработка в Flask](https://habr.com/ru/companies/otus/articles/860628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860628)
-- [DVC, FDS, Kart и Dolt для версионирования данных](https://habr.com/ru/companies/pgk/articles/861484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
