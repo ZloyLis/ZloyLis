@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Проактивность на практике: как джуну найти интересные задачи](https://habr.com/ru/companies/tbank/articles/862356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862356)
-- [Дневник стажёра: Я &lpar;не&rpar; боялся работы, поэтому мне пришлось написать эту статью](https://habr.com/ru/companies/ozontech/articles/862002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862002)
-- [[Перевод] Мне просто нужен программист](https://habr.com/ru/companies/sportmaster_lab/articles/862392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862392)
-- [Нейросети и люди: проверять, доверять или запрещать](https://habr.com/ru/companies/bitrix/articles/862382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862382)
-- [Зачем нужны метрики работы с инцидентами в Security Operations Center: объясняем на примере из «Властелина колец»](https://habr.com/ru/companies/pt/articles/862336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862336)
+- [Как подружить ARQA QUIK и внешнюю программу на примере 1С](https://habr.com/ru/articles/862412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862412)
+- [День, когда Земля остановилась](https://habr.com/ru/companies/tochka/articles/858604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858604)
+- [[Перевод] Проклятие новичка-эксперта: как развалить команду разработчиков](https://habr.com/ru/companies/ncloudtech/articles/862156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862156)
+- [Зачем нужен сертифицированный WAF и когда его стоит использовать? Обзор и настройка файрвола веб-приложений](https://habr.com/ru/companies/selectel/articles/862372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862372)
+- [Гайд по мета-анализу результатов тестов](https://habr.com/ru/companies/X5Tech/articles/862202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
