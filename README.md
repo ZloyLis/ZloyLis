@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Обзор на Model Context Protocol &lpar;MCP&rpar; от Anthropic](https://habr.com/ru/articles/862312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862312)
-- [Дизайн за 5 минут. Дайджест ноября 2024](https://habr.com/ru/companies/garage8/articles/862308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862308)
-- [Китайская криптография. Анализ проприетарного протокола MMTLS из WeChat](https://habr.com/ru/companies/globalsign/articles/862300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862300)
-- [Domain-Driven Design: чистая архитектура снизу доверху](https://habr.com/ru/companies/sberbank/articles/781612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=781612)
-- [Как ускорить проверку приложения с помощью Impact-анализа: Часть 1 — Статические анализаторы](https://habr.com/ru/companies/cian/articles/861922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861922)
+- [Проактивность на практике: как джуну найти интересные задачи](https://habr.com/ru/companies/tbank/articles/862356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862356)
+- [Дневник стажёра: Я &lpar;не&rpar; боялся работы, поэтому мне пришлось написать эту статью](https://habr.com/ru/companies/ozontech/articles/862002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862002)
+- [[Перевод] Мне просто нужен программист](https://habr.com/ru/companies/sportmaster_lab/articles/862392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862392)
+- [Нейросети и люди: проверять, доверять или запрещать](https://habr.com/ru/companies/bitrix/articles/862382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862382)
+- [Зачем нужны метрики работы с инцидентами в Security Operations Center: объясняем на примере из «Властелина колец»](https://habr.com/ru/companies/pt/articles/862336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
