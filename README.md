@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Garbage Collection в Kubernetes: основы](https://habr.com/ru/companies/otus/articles/860928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860928)
 - [Многослойная архитектура FrontEnd-приложений на основании SOLID, часть 2](https://habr.com/ru/companies/beeline_tech/articles/862558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862558)
 - [Делаем из смартфона рацию Push-To-Talk, вызываем диспетчера или подаём SOS одним нажатием. Обзор XCover7 и MIL-STD-810H](https://habr.com/ru/companies/samsung/articles/862540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862540)
 - [Развитие нейроимплантов, или кто приближает трансгуманизм](https://habr.com/ru/companies/redmadrobot/articles/862530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862530)
 - [OpenShift: улучшенный Kubernetes или переплата за техподдержку?](https://habr.com/ru/companies/cdnnow/articles/862380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862380)
-- [AWS выпустила мультиагентную платформу искусственного интеллекта со 100% открытым исходным кодом](https://habr.com/ru/articles/862484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
