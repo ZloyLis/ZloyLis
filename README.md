@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Асинхронность в blueprints и Unreal Engine](https://habr.com/ru/articles/862660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862660)
 - [Интересное равенство с двойными суммами](https://habr.com/ru/articles/862652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862652)
 - [Garbage Collection в Kubernetes: основы](https://habr.com/ru/companies/otus/articles/860928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860928)
 - [Многослойная архитектура FrontEnd-приложений на основании SOLID, часть 2](https://habr.com/ru/companies/beeline_tech/articles/862558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862558)
 - [Делаем из смартфона рацию Push-To-Talk, вызываем диспетчера или подаём SOS одним нажатием. Обзор XCover7 и MIL-STD-810H](https://habr.com/ru/companies/samsung/articles/862540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862540)
-- [Развитие нейроимплантов, или кто приближает трансгуманизм](https://habr.com/ru/companies/redmadrobot/articles/862530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
