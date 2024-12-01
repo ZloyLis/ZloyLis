@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgresso #10-11 &lpar;71-72&rpar;](https://habr.com/ru/companies/postgrespro/articles/854152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854152)
 - [[Перевод] Rust 1.83.0: новые возможности констант](https://habr.com/ru/articles/862868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862868)
 - [Математическая продлёнка. Изобретаем гиперболические числа](https://habr.com/ru/articles/862852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862852)
 - [Рецепты TypeScript: перевод ключей объекта в camelCase](https://habr.com/ru/companies/cloud_ru/articles/860778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860778)
 - [Мобильная разработка за неделю #566 &lpar;25 ноября — 1 декабря&rpar;](https://habr.com/ru/articles/862848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862848)
-- [Как освоить Swift Concurrency и остаться в здравом уме: подробный гид](https://habr.com/ru/articles/862844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
