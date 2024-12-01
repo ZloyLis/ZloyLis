@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разворачиваем PG Back Web в облаке: как автоматизировать резервное копирование PostgreSQL](https://habr.com/ru/companies/dockhost/articles/862340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862340)
+- [Концепция пространственного ИИ](https://habr.com/ru/articles/862770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862770)
+- [[Перевод] Ломаем капчу 4Chan](https://habr.com/ru/articles/862698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862698)
 - [Профессия DevOps](https://habr.com/ru/articles/862766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862766)
 - [Дети и девайсы: запретить нельзя использовать](https://habr.com/ru/companies/ru_mts/articles/862572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862572)
-- [Призываю переименовать Layers в Feature-Sliced Design методологии](https://habr.com/ru/articles/862746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862746)
-- [[Перевод] Замыкания в Python: примеры использования](https://habr.com/ru/articles/862692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862692)
-- [Как я купил нерабочую подделку iPhone 14 Pro Max за «косарь» и портировал на неё чистый Android](https://habr.com/ru/companies/timeweb/articles/861324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
