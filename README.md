@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рецепты TypeScript: перевод ключей объекта в camelCase](https://habr.com/ru/companies/cloud_ru/articles/860778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860778)
+- [Мобильная разработка за неделю #566 &lpar;25 ноября — 1 декабря&rpar;](https://habr.com/ru/articles/862848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862848)
+- [Как освоить Swift Concurrency и остаться в здравом уме: подробный гид](https://habr.com/ru/articles/862844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862844)
 - [Куда пойти работать студенту](https://habr.com/ru/articles/862834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862834)
 - [Проблема С++ Junior программистов в РФ](https://habr.com/ru/articles/862832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862832)
-- [AJAX-запросы в Django на примере простейшего приложения сбора и показа сообщений](https://habr.com/ru/articles/862780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862780)
-- [Сгенерировать сайт в 1 клик — легко с AI](https://habr.com/ru/articles/862774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862774)
-- [Разворачиваем PG Back Web в облаке: как автоматизировать резервное копирование PostgreSQL](https://habr.com/ru/companies/dockhost/articles/862340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
