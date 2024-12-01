@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дети и девайсы: запретить нельзя использовать](https://habr.com/ru/companies/ru_mts/articles/862572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862572)
 - [Призываю переименовать Layers в Feature-Sliced Design методологии](https://habr.com/ru/articles/862746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862746)
 - [[Перевод] Замыкания в Python: примеры использования](https://habr.com/ru/articles/862692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862692)
 - [Как я купил нерабочую подделку iPhone 14 Pro Max за «косарь» и портировал на неё чистый Android](https://habr.com/ru/companies/timeweb/articles/861324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861324)
 - [Асинхронность в blueprints и Unreal Engine](https://habr.com/ru/articles/862660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862660)
-- [Интересное равенство с двойными суммами](https://habr.com/ru/articles/862652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
