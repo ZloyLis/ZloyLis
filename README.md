@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема С++ Junior программистов в РФ](https://habr.com/ru/articles/862832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862832)
 - [AJAX-запросы в Django на примере простейшего приложения сбора и показа сообщений](https://habr.com/ru/articles/862780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862780)
 - [Сгенерировать сайт в 1 клик — легко с AI](https://habr.com/ru/articles/862774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862774)
 - [Разворачиваем PG Back Web в облаке: как автоматизировать резервное копирование PostgreSQL](https://habr.com/ru/companies/dockhost/articles/862340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862340)
 - [Концепция пространственного ИИ](https://habr.com/ru/articles/862770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862770)
-- [[Перевод] Ломаем капчу 4Chan](https://habr.com/ru/articles/862698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
