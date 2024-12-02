@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Головоломки с балансом. Поиск фальшивой монеты &lpar;часть 1&rpar;](https://habr.com/ru/companies/first/articles/858872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858872)
+- [Создаём генератор аудиокниг с персональным переводом](https://habr.com/ru/companies/timeweb/articles/777778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777778)
+- [Дискавери нового направления за две недели: это было не просто смело](https://habr.com/ru/companies/kuper/articles/862068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862068)
+- [Что за распределение у выборочных квантилей?](https://habr.com/ru/articles/862874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862874)
 - [[Перевод] Дженерики в Go](https://habr.com/ru/companies/beget/articles/862910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862910)
-- [Jmeter + ГОСТ TLS. Подключаем отечественную криптографию к тестам веб сервисов](https://habr.com/ru/articles/862188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862188)
-- [[Перевод] Micro Frontend Architecture](https://habr.com/ru/companies/spectr/articles/856266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856266)
-- [Путь 1С-аналитика в инхаус-разработке: навыки и перспективы](https://habr.com/ru/companies/yandex_praktikum/articles/861520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861520)
-- [[Перевод] Как работают файловые системы Linux-контейнеров](https://habr.com/ru/companies/flant/articles/862252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
