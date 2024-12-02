@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы сделали собственное S3-совместимое объектное хранилище](https://habr.com/ru/companies/cloud_ru/articles/850526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850526)
-- [Бесплатный путь в UX: как стать исследователем пользователей с нуля](https://habr.com/ru/articles/863010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863010)
-- [[Перевод] Обновление Laravel 11.34: Fluent-запросы и новые возможности](https://habr.com/ru/articles/862998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862998)
-- [Получение серверного времени через WebSockets и отображение его в Angular-приложении](https://habr.com/ru/articles/862986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862986)
-- [Scala Digest. Выпуск 23](https://habr.com/ru/companies/tbank/articles/862936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862936)
+- [Nuxt I18n Micro: Как я решил написать свой i18n для NuxtJS](https://habr.com/ru/articles/863052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863052)
+- [Как и зачем мы обучаем нейросеть распознавать рекламу мобильных операторов](https://habr.com/ru/companies/spbifmo/articles/863044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863044)
+- [Строим систему управления заказами с помощью Temporal: c нуля до десятков тысяч заказов в день](https://habr.com/ru/companies/uzum/articles/862972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862972)
+- [НМ и НТ. ФОТОНИКА. Часть VI](https://habr.com/ru/articles/862946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862946)
+- [Как подружить FinOps и облако? Прерываемые виртуальные машины](https://habr.com/ru/companies/selectel/articles/862954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
