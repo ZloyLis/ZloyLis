@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сделали собственное S3-совместимое объектное хранилище](https://habr.com/ru/companies/cloud_ru/articles/850526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=850526)
+- [Бесплатный путь в UX: как стать исследователем пользователей с нуля](https://habr.com/ru/articles/863010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863010)
+- [[Перевод] Обновление Laravel 11.34: Fluent-запросы и новые возможности](https://habr.com/ru/articles/862998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862998)
+- [Получение серверного времени через WebSockets и отображение его в Angular-приложении](https://habr.com/ru/articles/862986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862986)
 - [Scala Digest. Выпуск 23](https://habr.com/ru/companies/tbank/articles/862936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862936)
-- [Проверьте свои навыки Python, JavaScript, тестирования и аналитики данных](https://habr.com/ru/companies/habr_career/articles/862984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862984)
-- [Kafka Streams ч4: Stateful processing](https://habr.com/ru/articles/862976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862976)
-- [Управление распределенной командой на GitHub – а что, так можно было?](https://habr.com/ru/articles/862962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862962)
-- [Pushy на пределе: рост и развитие WebSocket-прокси Netflix](https://habr.com/ru/companies/wunderfund/articles/861996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
