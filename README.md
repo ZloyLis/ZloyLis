@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP и C: как мы заставили кассу АТОЛ 30Ф работать в веб-системе](https://habr.com/ru/articles/863082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863082)
-- [Иллюзия прогресса: почему мне не удалось дать студентам-айтишникам реальный опыт](https://habr.com/ru/companies/ru_mts/articles/862098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862098)
-- [Nuxt I18n Micro: Как я решил написать свой i18n для NuxtJS](https://habr.com/ru/articles/863052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863052)
-- [Как и зачем мы обучаем нейросеть распознавать рекламу мобильных операторов](https://habr.com/ru/companies/spbifmo/articles/863044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863044)
-- [Строим систему управления заказами с помощью Temporal: c нуля до десятков тысяч заказов в день](https://habr.com/ru/companies/oleg-bunin/articles/862972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862972)
+- [[Перевод] Пишем golden-тесты для генераторов кода на Dart](https://habr.com/ru/articles/863118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863118)
+- [В темной-темной сети… Разбираем самые страшные задания киберучений CyberCamp 2024. Часть I](https://habr.com/ru/companies/jetinfosystems/articles/863108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863108)
+- [Как сделать мультитул на VS Code](https://habr.com/ru/companies/alfa/articles/861728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861728)
+- [О внутренних аспектах внешних ключей](https://habr.com/ru/companies/gnivc/articles/863102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863102)
+- [Onlyoffice и Р7 офис: макросы на Javascript &lpar;туториал&rpar;](https://habr.com/ru/articles/863100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
