@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как работают файловые системы Linux-контейнеров](https://habr.com/ru/companies/flant/articles/862252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862252)
+- [Войти и не выйти из IT: советы для начинающих разработчиков](https://habr.com/ru/articles/862896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862896)
 - [Postgresso #10-11 &lpar;71-72&rpar;](https://habr.com/ru/companies/postgrespro/articles/854152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854152)
 - [[Перевод] Rust 1.83.0: новые возможности констант](https://habr.com/ru/articles/862868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862868)
 - [Математическая продлёнка. Изобретаем гиперболические числа](https://habr.com/ru/articles/862852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862852)
-- [Рецепты TypeScript: перевод ключей объекта в camelCase](https://habr.com/ru/companies/cloud_ru/articles/860778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860778)
-- [Мобильная разработка за неделю #566 &lpar;25 ноября — 1 декабря&rpar;](https://habr.com/ru/articles/862848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
