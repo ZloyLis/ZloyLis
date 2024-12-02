@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Пишем golden-тесты для генераторов кода на Dart](https://habr.com/ru/articles/863118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863118)
-- [В темной-темной сети… Разбираем самые страшные задания киберучений CyberCamp 2024. Часть I](https://habr.com/ru/companies/jetinfosystems/articles/863108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863108)
-- [Как сделать мультитул на VS Code](https://habr.com/ru/companies/alfa/articles/861728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861728)
-- [О внутренних аспектах внешних ключей](https://habr.com/ru/companies/gnivc/articles/863102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863102)
-- [Onlyoffice и Р7 офис: макросы на Javascript &lpar;туториал&rpar;](https://habr.com/ru/articles/863100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863100)
+- [Apple Pro Weekly News &lpar;25.11 – 01.12.24&rpar;](https://habr.com/ru/articles/863162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863162)
+- [Как искать и эксплуатировать уязвимости в контейнеризированных средах. Часть 1](https://habr.com/ru/companies/slurm/articles/863156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863156)
+- [Как жить без IntelliJ IDEA? Часть 3 — HTTP Client](https://habr.com/ru/companies/spring_aio/articles/863106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863106)
+- [От Kotlin до машинного кода](https://habr.com/ru/articles/863146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863146)
+- [[Перевод] 10 инструментов для облегчения backend-разработки](https://habr.com/ru/articles/863138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
