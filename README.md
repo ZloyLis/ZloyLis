@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полезные чипсы с Vue 3 Composition API: Создание адаптивного компонента с фильтрацией и множественным выбором](https://habr.com/ru/articles/863210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863210)
 - [Конвейеризация: универсальный способ повышения пропускной способности](https://habr.com/ru/articles/863198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863198)
 - [[Перевод] Два новых линта в Dart 3.4](https://habr.com/ru/articles/863186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863186)
 - [Security Week 2449: «тренировочный» буткит для Linux](https://habr.com/ru/companies/kaspersky/articles/863078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863078)
 - [Apple Pro Weekly News &lpar;25.11 – 01.12.24&rpar;](https://habr.com/ru/articles/863162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863162)
-- [Как искать и эксплуатировать уязвимости в контейнеризированных средах. Часть 1](https://habr.com/ru/companies/slurm/articles/863156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
