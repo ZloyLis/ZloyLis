@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Дженерики в Go](https://habr.com/ru/companies/beget/articles/862910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862910)
+- [Jmeter + ГОСТ TLS. Подключаем отечественную криптографию к тестам веб сервисов](https://habr.com/ru/articles/862188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862188)
+- [[Перевод] Micro Frontend Architecture](https://habr.com/ru/companies/spectr/articles/856266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856266)
+- [Путь 1С-аналитика в инхаус-разработке: навыки и перспективы](https://habr.com/ru/companies/yandex_praktikum/articles/861520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861520)
 - [[Перевод] Как работают файловые системы Linux-контейнеров](https://habr.com/ru/companies/flant/articles/862252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862252)
-- [Войти и не выйти из IT: советы для начинающих разработчиков](https://habr.com/ru/articles/862896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862896)
-- [Postgresso #10-11 &lpar;71-72&rpar;](https://habr.com/ru/companies/postgrespro/articles/854152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=854152)
-- [[Перевод] Rust 1.83.0: новые возможности констант](https://habr.com/ru/articles/862868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862868)
-- [Математическая продлёнка. Изобретаем гиперболические числа](https://habr.com/ru/articles/862852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
