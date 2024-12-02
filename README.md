@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Участвуем в онлайн розыгрышах. Уровень: программист](https://habr.com/ru/articles/862882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862882)
-- [Пишем транзишинометр для Андроид. Как понять, что мои экраны открываются быстро?](https://habr.com/ru/companies/dododev/articles/862646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862646)
-- [Насколько ПК удобнее смартфона](https://habr.com/ru/companies/ruvds/articles/859962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859962)
-- [Головоломки с балансом. Поиск фальшивой монеты &lpar;часть 1&rpar;](https://habr.com/ru/companies/first/articles/858872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858872)
-- [Создаём генератор аудиокниг с персональным переводом](https://habr.com/ru/companies/timeweb/articles/777778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=777778)
+- [Scala Digest. Выпуск 23](https://habr.com/ru/companies/tbank/articles/862936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862936)
+- [Проверьте свои навыки Python, JavaScript, тестирования и аналитики данных](https://habr.com/ru/companies/habr_career/articles/862984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862984)
+- [Kafka Streams ч4: Stateful processing](https://habr.com/ru/articles/862976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862976)
+- [Управление распределенной командой на GitHub – а что, так можно было?](https://habr.com/ru/articles/862962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862962)
+- [Pushy на пределе: рост и развитие WebSocket-прокси Netflix](https://habr.com/ru/companies/wunderfund/articles/861996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
