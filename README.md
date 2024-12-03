@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сторис – новая боль? Что делает ВкусВилл, Т-Банк, Авито и другие?](https://habr.com/ru/articles/863572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863572)
 - [Что нового в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/haulmont/articles/863540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863540)
 - [Самостоятельная доработка Android APS](https://habr.com/ru/articles/863546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863546)
 - [8 вопросов начинающего аналитика](https://habr.com/ru/articles/863502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863502)
 - [Машинное обучение: Линейная регрессия. Теория и реализация. С нуля. На чистом Python](https://habr.com/ru/articles/863194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863194)
-- [Как мы разработали систему грейдинга для системных аналитиков](https://habr.com/ru/articles/863470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
