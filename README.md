@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание блога на FastAPI с нуля: JWT, Markdown и современный веб-дизайн](https://habr.com/ru/companies/amvera/articles/863130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863130)
 - [Кастомные методы в JPA репозиториях](https://habr.com/ru/articles/863234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863234)
 - [Как получить доступ к Claude &lpar;web/api&rpar; из России в 2024?](https://habr.com/ru/articles/863216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863216)
 - [Полезные чипсы с Vue 3 Composition API: Создание адаптивного компонента с фильтрацией и множественным выбором](https://habr.com/ru/articles/863210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863210)
 - [Конвейеризация: универсальный способ повышения пропускной способности](https://habr.com/ru/articles/863198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863198)
-- [[Перевод] Два новых линта в Dart 3.4](https://habr.com/ru/articles/863186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
