@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Добавление поддержки нескольких языков в NestJS и Angular приложениях](https://habr.com/ru/articles/863590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863590)
+- [Apache Flink: Flink Table API &amp;amp; SQL](https://habr.com/ru/companies/beeline_tech/articles/863588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863588)
 - [Сторис – новая боль? Что делает ВкусВилл, Т-Банк, Авито и другие?](https://habr.com/ru/articles/863572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863572)
 - [Redux для новичков: база, с которой можно стартовать](https://habr.com/ru/companies/otus/articles/863002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863002)
 - [Что нового в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/haulmont/articles/863540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863540)
-- [Самостоятельная доработка Android APS](https://habr.com/ru/articles/863546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
