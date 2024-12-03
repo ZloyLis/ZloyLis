@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Staged Builder aka все идет по плану](https://habr.com/ru/articles/863446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863446)
+- [Что нового в Amplicode 2024.3](https://habr.com/ru/companies/haulmont/articles/863416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863416)
+- [GIMP Script-Fu Первый Дан. Удобная передача параметров в функцию](https://habr.com/ru/articles/863430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863430)
 - [Влияние макроэкономических факторов на цены жилья в Липецке: эконометрический анализ](https://habr.com/ru/articles/863400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863400)
 - [Валидация REST-запросов в NestJS-приложении и отображение ошибок в формах Angular-приложения](https://habr.com/ru/articles/863396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863396)
-- [Искусство баланса: как совместить работу и хобби](https://habr.com/ru/companies/sportmaster_lab/articles/863394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863394)
-- [Гайд по кроссплатформенной разработке с использованием React Native](https://habr.com/ru/articles/863388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863388)
-- [[Перевод] Раскрытие возможностей асинхронного программирования в Core Java](https://habr.com/ru/companies/piter/articles/863320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
