@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 7 полезных промптов для ChatGPT для программистов](https://habr.com/ru/articles/863284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863284)
+- [ТЭЦ, банки и деревья в масштабе 160 к 1: история создания макета для кибербитвы Standoff](https://habr.com/ru/companies/pt/articles/863190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863190)
+- [Postman: Basic авторизация через скрипт](https://habr.com/ru/articles/863318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863318)
+- [Мультифизическое моделирование технологических схем. Наш опыт⁠⁠](https://habr.com/ru/articles/863316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863316)
 - [Протокол SMPP: устранение неполадок и тестирование отправки SMS](https://habr.com/ru/companies/exolve/articles/863278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863278)
 - [Настройка Sora Editor](https://habr.com/ru/articles/863272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863272)
-- [Портал, манулы и мячи: опыт разработки для Apple Vision Pro. Часть 2](https://habr.com/ru/articles/863046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863046)
-- [Апгрейд Хабра: реанимация принцесс](https://habr.com/ru/companies/lanit/articles/861102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
