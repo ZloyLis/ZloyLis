@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Настройка Sora Editor](https://habr.com/ru/articles/863272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863272)
+- [Портал, манулы и мячи: опыт разработки для Apple Vision Pro. Часть 2](https://habr.com/ru/articles/863046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863046)
+- [Апгрейд Хабра: реанимация принцесс](https://habr.com/ru/companies/lanit/articles/861102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861102)
+- [Куда делось металлическое строительство в России](https://habr.com/ru/companies/nlmk/articles/861720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861720)
 - [Язык как проект. Как продакт-менеджеру учить английский: план, сроки, советы](https://habr.com/ru/articles/863220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863220)
-- [Как может расти 1С-разработчик](https://habr.com/ru/companies/yandex_praktikum/articles/861086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861086)
-- [Создание блога на FastAPI с нуля: JWT, Markdown и современный веб-дизайн](https://habr.com/ru/companies/amvera/articles/863130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863130)
-- [Кастомные методы в JPA репозиториях](https://habr.com/ru/articles/863234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863234)
-- [Как получить доступ к Claude &lpar;web/api&rpar; из России в 2024?](https://habr.com/ru/articles/863216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
