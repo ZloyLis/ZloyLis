@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы разработали систему грейдинга для системных аналитиков](https://habr.com/ru/articles/863470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863470)
+- [Небольшая задача сервисного сегмента ИТ](https://habr.com/ru/articles/863466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863466)
+- [В темной-темной комнате… Разбираем самые страшные задания киберучений CyberCamp 2024. Часть II](https://habr.com/ru/companies/jetinfosystems/articles/863380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863380)
+- [Как работают std::launder и std::as_const в C++](https://habr.com/ru/companies/otus/articles/862192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862192)
 - [Java Staged Builder aka все идет по плану](https://habr.com/ru/articles/863446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863446)
-- [Что нового в Amplicode 2024.3](https://habr.com/ru/companies/haulmont/articles/863416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863416)
-- [GIMP Script-Fu Первый Дан. Удобная передача параметров в функцию](https://habr.com/ru/articles/863430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863430)
-- [Влияние макроэкономических факторов на цены жилья в Липецке: эконометрический анализ](https://habr.com/ru/articles/863400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863400)
-- [Валидация REST-запросов в NestJS-приложении и отображение ошибок в формах Angular-приложения](https://habr.com/ru/articles/863396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
