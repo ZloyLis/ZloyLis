@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [8 вопросов начинающего аналитика](https://habr.com/ru/articles/863502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863502)
+- [Машинное обучение: Линейная регрессия. Теория и реализация. С нуля. На чистом Python](https://habr.com/ru/articles/863194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863194)
 - [Как мы разработали систему грейдинга для системных аналитиков](https://habr.com/ru/articles/863470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863470)
 - [Небольшая задача сервисного сегмента ИТ](https://habr.com/ru/articles/863466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863466)
 - [В темной-темной комнате… Разбираем самые страшные задания киберучений CyberCamp 2024. Часть II](https://habr.com/ru/companies/jetinfosystems/articles/863380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863380)
-- [Как работают std::launder и std::as_const в C++](https://habr.com/ru/companies/otus/articles/862192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862192)
-- [Java Staged Builder aka все идет по плану](https://habr.com/ru/articles/863446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
