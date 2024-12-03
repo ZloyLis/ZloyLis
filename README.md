@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в IntelliJ IDEA 2024.3](https://habr.com/ru/companies/haulmont/articles/863540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863540)
+- [Самостоятельная доработка Android APS](https://habr.com/ru/articles/863546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863546)
 - [8 вопросов начинающего аналитика](https://habr.com/ru/articles/863502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863502)
 - [Машинное обучение: Линейная регрессия. Теория и реализация. С нуля. На чистом Python](https://habr.com/ru/articles/863194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863194)
 - [Как мы разработали систему грейдинга для системных аналитиков](https://habr.com/ru/articles/863470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863470)
-- [Небольшая задача сервисного сегмента ИТ](https://habr.com/ru/articles/863466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863466)
-- [В темной-темной комнате… Разбираем самые страшные задания киберучений CyberCamp 2024. Часть II](https://habr.com/ru/companies/jetinfosystems/articles/863380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
