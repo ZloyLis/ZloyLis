@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [RFM анализ: что это и с чем его едят](https://habr.com/ru/articles/863374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863374)
-- [Разбор вступительных заданий в Школу Программистов 2024](https://habr.com/ru/companies/hh/articles/863350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863350)
-- [Как сделать так, чтобы код Backend стажера не вонял](https://habr.com/ru/articles/863342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863342)
-- [Проблемы при использовании разделенных запросов в Entity Framework Core 8](https://habr.com/ru/companies/skbkontur/articles/861812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861812)
-- [Postman: Basic авторизация через скрипт](https://habr.com/ru/articles/863318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863318)
+- [Влияние макроэкономических факторов на цены жилья в Липецке: эконометрический анализ](https://habr.com/ru/articles/863400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863400)
+- [Валидация REST-запросов в NestJS-приложении и отображение ошибок в формах Angular-приложения](https://habr.com/ru/articles/863396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863396)
+- [Искусство баланса: как совместить работу и хобби](https://habr.com/ru/companies/sportmaster_lab/articles/863394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863394)
+- [Гайд по кроссплатформенной разработке с использованием React Native](https://habr.com/ru/articles/863388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863388)
+- [[Перевод] Раскрытие возможностей асинхронного программирования в Core Java](https://habr.com/ru/companies/piter/articles/863320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
