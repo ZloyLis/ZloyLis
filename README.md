@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 7 полезных промптов для ChatGPT для программистов](https://habr.com/ru/articles/863284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863284)
+- [Протокол SMPP: устранение неполадок и тестирование отправки SMS](https://habr.com/ru/companies/exolve/articles/863278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863278)
 - [Настройка Sora Editor](https://habr.com/ru/articles/863272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863272)
 - [Портал, манулы и мячи: опыт разработки для Apple Vision Pro. Часть 2](https://habr.com/ru/articles/863046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863046)
 - [Апгрейд Хабра: реанимация принцесс](https://habr.com/ru/companies/lanit/articles/861102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861102)
-- [Куда делось металлическое строительство в России](https://habr.com/ru/companies/nlmk/articles/861720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861720)
-- [Язык как проект. Как продакт-менеджеру учить английский: план, сроки, советы](https://habr.com/ru/articles/863220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
