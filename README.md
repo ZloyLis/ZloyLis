@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ТЭЦ, банки и деревья в масштабе 160 к 1: история создания макета для кибербитвы Standoff](https://habr.com/ru/companies/pt/articles/863190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863190)
+- [Как сделать так, чтобы код Backend стажера не вонял](https://habr.com/ru/articles/863342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863342)
+- [Проблемы при использовании разделенных запросов в Entity Framework Core 8](https://habr.com/ru/companies/skbkontur/articles/861812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861812)
 - [Postman: Basic авторизация через скрипт](https://habr.com/ru/articles/863318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863318)
-- [Мультифизическое моделирование технологических схем. Наш опыт⁠⁠](https://habr.com/ru/articles/863316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863316)
+- [Мультифизическое моделирование технологических схем. Наш опыт](https://habr.com/ru/articles/863316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863316)
 - [Протокол SMPP: устранение неполадок и тестирование отправки SMS](https://habr.com/ru/companies/exolve/articles/863278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863278)
-- [Настройка Sora Editor](https://habr.com/ru/articles/863272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
