@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импортозамещение ПО в России: тенденции и перспективы после ухода Microsoft](https://habr.com/ru/articles/863868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863868)
+- [Самая сложная директива Taiga UI](https://habr.com/ru/companies/tbank/articles/863842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863842)
 - [[Перевод] Mark–Scavenge: ждем, пока мусор выбросит себя сам](https://habr.com/ru/companies/spring_aio/articles/863830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863830)
 - [WordPress × Wavesurfer JS](https://habr.com/ru/articles/863836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863836)
 - [Для Go-разработчиков, которые хорошо себя вели в этом году: генерируем стабы для тестирования и пилим монолит](https://habr.com/ru/companies/yadro/articles/863826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863826)
-- [Кэшируем поток данных из Kafka в Tarantool: подробный пример реализации с кодом и результатами](https://habr.com/ru/companies/vk/articles/863518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863518)
-- [Программисты ничего не знают &lpar;и это нормально&rpar;](https://habr.com/ru/articles/863814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
