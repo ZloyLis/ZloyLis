@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Служба Windows на C# в .Net 9 &lpar;Telegram.Bot&rpar;](https://habr.com/ru/articles/863770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863770)
-- [Моки, L1 и никакого деплоя. Собираем идеальный .NET-тест для веб-сервиса](https://habr.com/ru/companies/kaspersky/articles/859718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859718)
-- [Вопперы и табы: как мы сделали меню для Burger King](https://habr.com/ru/companies/surfstudio/articles/861264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861264)
-- [Работаем с JSONB в JPA EclipseLink](https://habr.com/ru/companies/haulmont/articles/863702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863702)
-- [Регулярные выражения простыми словами. Часть 2](https://habr.com/ru/companies/selectel/articles/863670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863670)
+- [Кэшируем поток данных из Kafka в Tarantool: подробный пример реализации с кодом и результатами](https://habr.com/ru/companies/vk/articles/863518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863518)
+- [Программисты ничего не знают &lpar;и это нормально&rpar;](https://habr.com/ru/articles/863814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863814)
+- [SMS-уведомления о снижении цен: внедряем на Wordpress с API Exolve](https://habr.com/ru/companies/ru_mts/articles/863508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863508)
+- [Внутри Java Enterprise кода: проверка Flowable](https://habr.com/ru/companies/pvs-studio/articles/863792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863792)
+- [Как ArgoCD секреты из Vault не расшифровывал или при чём тут App of Apps](https://habr.com/ru/articles/863788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
