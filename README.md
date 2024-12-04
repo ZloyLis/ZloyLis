@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работаем с JSONB в JPA EclipseLink](https://habr.com/ru/companies/haulmont/articles/863702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863702)
+- [Регулярные выражения простыми словами. Часть 2](https://habr.com/ru/companies/selectel/articles/863670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863670)
 - [Руководство по Convex. Часть 2](https://habr.com/ru/companies/timeweb/articles/851244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851244)
 - [Cursor AI в iOS разработке. Приложение «Фото с Flickr.com»](https://habr.com/ru/articles/863314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863314)
 - [TrapC: безопасный «наследник» C и C++. Что за язык?](https://habr.com/ru/companies/ru_mts/articles/863554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863554)
-- [Unit-тестирование — мастхэв?](https://habr.com/ru/articles/863642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863642)
-- [Как избежать God Object в Java: несколько способов](https://habr.com/ru/companies/otus/articles/863050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
