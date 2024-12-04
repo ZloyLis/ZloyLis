@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Служба Windows на C# в .Net 9 &lpar;Telegram.Bot&rpar;](https://habr.com/ru/articles/863770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863770)
 - [Моки, L1 и никакого деплоя. Собираем идеальный .NET-тест для веб-сервиса](https://habr.com/ru/companies/kaspersky/articles/859718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859718)
 - [Вопперы и табы: как мы сделали меню для Burger King](https://habr.com/ru/companies/surfstudio/articles/861264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861264)
 - [Работаем с JSONB в JPA EclipseLink](https://habr.com/ru/companies/haulmont/articles/863702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863702)
 - [Регулярные выражения простыми словами. Часть 2](https://habr.com/ru/companies/selectel/articles/863670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863670)
-- [Руководство по Convex. Часть 2](https://habr.com/ru/companies/timeweb/articles/851244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=851244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
