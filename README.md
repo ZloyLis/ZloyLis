@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нужно знать при написании алгоритмов на .NET](https://habr.com/ru/articles/863950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863950)
+- [Как написать Raft на чистом Python: основы](https://habr.com/ru/companies/otus/articles/862550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862550)
+- [Быстрый однопоточный std::shared_ptr в GCC](https://habr.com/ru/articles/863944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863944)
 - [Реализация паттерна Bridge в чистом C](https://habr.com/ru/companies/otus/articles/863076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863076)
 - [Построение базы знаний компании и поиска документов на LLM и RAG](https://habr.com/ru/companies/raft/articles/863888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863888)
-- [Как искать и эксплуатировать уязвимости в контейнеризированных средах. Часть 2](https://habr.com/ru/companies/slurm/articles/863884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863884)
-- [[Перевод] Антиспам защита для WordPress форм без ущерба личным данным посетителей](https://habr.com/ru/articles/863876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863876)
-- [Как в Sidec благодаря exactly-once сократили потребление ресурсов без потери производительности](https://habr.com/ru/companies/sberbank/articles/863688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
