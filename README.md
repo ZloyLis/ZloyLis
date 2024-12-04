@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor AI в iOS разработке. Приложение «Фото с Flickr.com»](https://habr.com/ru/articles/863314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863314)
+- [TrapC: безопасный «наследник» C и C++. Что за язык?](https://habr.com/ru/companies/ru_mts/articles/863554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863554)
 - [Unit-тестирование — мастхэв?](https://habr.com/ru/articles/863642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863642)
 - [Как избежать God Object в Java: несколько способов](https://habr.com/ru/companies/otus/articles/863050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863050)
 - [Добавление поддержки нескольких языков в NestJS и Angular приложениях](https://habr.com/ru/articles/863590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863590)
-- [Apache Flink: Flink Table API &amp;amp; SQL](https://habr.com/ru/companies/beeline_tech/articles/863588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863588)
-- [Сторис – новая боль? Что делает ВкусВилл, Т-Банк, Авито и другие?](https://habr.com/ru/articles/863572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
