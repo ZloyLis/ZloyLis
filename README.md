@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В чём секрет сдачи экзаменов на 100/100? Оцениваем результаты эксперимента с помощью статистики на неполных данных](https://habr.com/ru/companies/yandex_praktikum/articles/862796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862796)
+- [[Перевод] Два лагеря C++](https://habr.com/ru/articles/862688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862688)
 - [Базы данных для системного аналитика. Краткий обзор на практике](https://habr.com/ru/articles/863958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863958)
 - [Закладки, к которым ты никогда не вернёшься](https://habr.com/ru/articles/863970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863970)
 - [Боже, храни документацию](https://habr.com/ru/articles/863974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863974)
-- [Слабоумие и отвага: как найти ликвидные облигации с доходностью до 40% и ежемесячными фиксированными выплатами](https://habr.com/ru/articles/863762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863762)
-- [Ускорение страниц с VK Видео](https://habr.com/ru/articles/863954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
