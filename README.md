@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Действуем на опережение: предотвращаем скрытые угрозы с помощью статистики](https://habr.com/ru/companies/webmonitorx/articles/864180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864180)
 - [Какие сложности мы преодолели при внедрении RFM-сегментации клиентов в Авито Недвижимости](https://habr.com/ru/companies/avito/articles/863960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863960)
 - [Синтаксис, синглтон и смертельный ромб в С++: взгляд опытного разработчика на C](https://habr.com/ru/companies/yadro/articles/863490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863490)
 - [На этой планете время идёт быстрее. Здесь мы и будем тестировать](https://habr.com/ru/companies/sberbank/articles/864152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864152)
 - [Как я поехала учиться в Китай на месяц](https://habr.com/ru/companies/yoomoney/articles/864132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864132)
-- [Через тернии к ReactiveBim](https://habr.com/ru/companies/pik_digital/articles/864106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
