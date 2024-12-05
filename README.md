@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контрибьютор C++ забанен за использование слова «question» в названии своей статьи](https://habr.com/ru/articles/864336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864336)
 - [[Перевод] Оптимизация ядра WebGPU для перемножения матриц и достижения производительности свыше 1ТФЛОПС](https://habr.com/ru/articles/864330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864330)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#1&rpar;](https://habr.com/ru/articles/864320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864320)
 - [Получаем персональные данные пользователей с Госуслуг: Интеграция с ЕСИА на Java](https://habr.com/ru/articles/864318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864318)
 - [Обзор пакета unsafe: как обходить ограничения Go &lpar;но лучше этого не делать&rpar;](https://habr.com/ru/companies/otus/articles/862854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862854)
-- [Как на Excel заработать сотни миллионов? Опыт проекта RTO](https://habr.com/ru/articles/864312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
