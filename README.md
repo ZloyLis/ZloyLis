@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Через тернии к ReactiveBim](https://habr.com/ru/companies/pik_digital/articles/864106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864106)
+- [Разбор полетов: Взлом Metasploitble3](https://habr.com/ru/articles/864098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864098)
+- [Hardening Jenkins: как подать блюдо, чтобы оставили чаевые](https://habr.com/ru/companies/oleg-bunin/articles/864084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864084)
 - [Просто о сложном: зачем нужны Kube-Audit логи и как с ними подружиться](https://habr.com/ru/companies/chislitellab/articles/863224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863224)
 - [Отладка вашего «процессора» вместе с Андерсом Шау Кнаттеном, автором книги «C++ Brain Teasers: Exercise Your Mind»](https://habr.com/ru/companies/pvs-studio/articles/864058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864058)
-- [Запуск тест-ранов из Postman в командной строке с экспортом результатов в TMS TestIT](https://habr.com/ru/articles/864048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864048)
-- [Рекурсивные типы. Часть 5/5. Занимательный матан](https://habr.com/ru/articles/863376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863376)
-- [Рекурсивные типы. Часть 4/5. Схемы рекурсии](https://habr.com/ru/articles/863362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
