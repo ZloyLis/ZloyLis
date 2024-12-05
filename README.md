@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Закладки, к которым ты никогда не вернёшься](https://habr.com/ru/articles/863970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863970)
 - [Боже, храни документацию](https://habr.com/ru/articles/863974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863974)
 - [Слабоумие и отвага: как найти ликвидные облигации с доходностью до 40% и ежемесячными фиксированными выплатами](https://habr.com/ru/articles/863762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863762)
 - [Ускорение страниц с VK Видео](https://habr.com/ru/articles/863954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863954)
 - [Что нужно знать при написании алгоритмов на .NET](https://habr.com/ru/articles/863950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863950)
-- [Как написать Raft на чистом Python: основы](https://habr.com/ru/companies/otus/articles/862550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
