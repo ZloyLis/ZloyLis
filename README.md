@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#1&rpar;](https://habr.com/ru/articles/864320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864320)
+- [Получаем персональные данные пользователей с Госуслуг: Интеграция с ЕСИА на Java](https://habr.com/ru/articles/864318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864318)
+- [Обзор пакета unsafe: как обходить ограничения Go &lpar;но лучше этого не делать&rpar;](https://habr.com/ru/companies/otus/articles/862854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862854)
 - [Как на Excel заработать сотни миллионов? Опыт проекта RTO](https://habr.com/ru/articles/864312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864312)
 - [Kubernetes ConfigMaps и Secrets: как правильно управлять конфигурацией и секретами в кластере](https://habr.com/ru/companies/beeline_cloud/articles/864222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864222)
-- [Как мы сделали клиентскую поддержку интернет-магазина действительно умной: опыт внедрения RAG-бота](https://habr.com/ru/articles/864240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864240)
-- [Математическая продлёнка. Изобретаем параболические числа](https://habr.com/ru/articles/863068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863068)
-- [Самое интересное из интервью WIRED с Тимом Куком](https://habr.com/ru/articles/864210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
