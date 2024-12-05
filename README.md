@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes ConfigMaps и Secrets: как правильно управлять конфигурацией и секретами в кластере](https://habr.com/ru/companies/beeline_cloud/articles/864222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864222)
 - [Как мы сделали клиентскую поддержку интернет-магазина действительно умной: опыт внедрения RAG-бота](https://habr.com/ru/articles/864240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864240)
 - [Математическая продлёнка. Изобретаем параболические числа](https://habr.com/ru/articles/863068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863068)
 - [Самое интересное из интервью WIRED с Тимом Куком](https://habr.com/ru/articles/864210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864210)
 - [Разбираемся в проектировании микросервисов. Основные паттерны &lpar;Часть 1&rpar;](https://habr.com/ru/companies/reksoft/articles/864206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864206)
-- [Действуем на опережение: предотвращаем скрытые угрозы с помощью статистики](https://habr.com/ru/companies/webmonitorx/articles/864180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
