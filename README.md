@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие сложности мы преодолели при внедрении RFM-сегментации клиентов в Авито Недвижимости](https://habr.com/ru/companies/avito/articles/863960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863960)
+- [Синтаксис, синглтон и смертельный ромб в С++: взгляд опытного разработчика на C](https://habr.com/ru/companies/yadro/articles/863490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863490)
+- [На этой планете время идёт быстрее. Здесь мы и будем тестировать](https://habr.com/ru/companies/sberbank/articles/864152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864152)
+- [Как я поехала учиться в Китай на месяц](https://habr.com/ru/companies/yoomoney/articles/864132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864132)
 - [Через тернии к ReactiveBim](https://habr.com/ru/companies/pik_digital/articles/864106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864106)
-- [Разбор полетов: Взлом Metasploitble3](https://habr.com/ru/articles/864098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864098)
-- [Hardening Jenkins: как подать блюдо, чтобы оставили чаевые](https://habr.com/ru/companies/oleg-bunin/articles/864084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864084)
-- [Просто о сложном: зачем нужны Kube-Audit логи и как с ними подружиться](https://habr.com/ru/companies/chislitellab/articles/863224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863224)
-- [Отладка вашего «процессора» вместе с Андерсом Шау Кнаттеном, автором книги «C++ Brain Teasers: Exercise Your Mind»](https://habr.com/ru/companies/pvs-studio/articles/864058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
