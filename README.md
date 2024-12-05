@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Просто о сложном: зачем нужны Kube-Audit логи и как с ними подружиться](https://habr.com/ru/companies/chislitellab/articles/863224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863224)
+- [Отладка вашего «процессора» вместе с Андерсом Шау Кнаттеном, автором книги «C++ Brain Teasers: Exercise Your Mind»](https://habr.com/ru/companies/pvs-studio/articles/864058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864058)
+- [Запуск тест-ранов из Postman в командной строке с экспортом результатов в TMS TestIT](https://habr.com/ru/articles/864048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864048)
 - [Рекурсивные типы. Часть 5/5. Занимательный матан](https://habr.com/ru/articles/863376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863376)
 - [Рекурсивные типы. Часть 4/5. Схемы рекурсии](https://habr.com/ru/articles/863362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863362)
-- [Рекурсивные типы. Часть 3/5. Свободные контейнеры](https://habr.com/ru/articles/863334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863334)
-- [Рекурсивные типы. Часть 2/5. Неподвижные точки конструкторов типов](https://habr.com/ru/articles/863324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863324)
-- [ИИ ускоряет разработку ПО, но пока не ускоряет выпуск продуктов &lpar;исследование Google Cloud — Dora за 2024&rpar;](https://habr.com/ru/companies/lanit/articles/863848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
