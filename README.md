@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [В чём секрет сдачи экзаменов на 100/100? Оцениваем результаты эксперимента с помощью статистики на неполных данных](https://habr.com/ru/companies/yandex_praktikum/articles/862796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862796)
-- [[Перевод] Два лагеря C++](https://habr.com/ru/articles/862688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862688)
-- [Базы данных для системного аналитика. Краткий обзор на практике](https://habr.com/ru/articles/863958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863958)
-- [Закладки, к которым ты никогда не вернёшься](https://habr.com/ru/articles/863970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863970)
-- [Боже, храни документацию](https://habr.com/ru/articles/863974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863974)
+- [Рекурсивные типы. Часть 5/5. Занимательный матан](https://habr.com/ru/articles/863376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863376)
+- [Рекурсивные типы. Часть 4/5. Схемы рекурсии](https://habr.com/ru/articles/863362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863362)
+- [Рекурсивные типы. Часть 3/5. Свободные контейнеры](https://habr.com/ru/articles/863334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863334)
+- [Рекурсивные типы. Часть 2/5. Неподвижные точки конструкторов типов](https://habr.com/ru/articles/863324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863324)
+- [ИИ ускоряет разработку ПО, но пока не ускоряет выпуск продуктов &lpar;исследование Google Cloud — Dora за 2024&rpar;](https://habr.com/ru/companies/lanit/articles/863848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
