@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Порядок из хаоса. Напишем клеточный автомат «Муравей Лэнгтона» на p5py в браузере и анимируем с помощью state machine](https://habr.com/ru/companies/sberbank/articles/864100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864100)
 - [Идентификаторы в БД: INT vs UUID](https://habr.com/ru/articles/864188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864188)
 - [RTS — Реактивный язык программирования свободных структур данных](https://habr.com/ru/articles/864358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864358)
 - [Особенности использования сторонних сервисов в мобильных приложениях на примере Firebase](https://habr.com/ru/companies/swordfish_security/articles/864190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864190)
 - [Применимость Java в искусственном интеллекте: 7 библиотек для нейросетей, которые стоит изучить](https://habr.com/ru/articles/864352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864352)
-- [Как должен выглядеть идеальный GitHub для поиска работы](https://habr.com/ru/articles/863238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
