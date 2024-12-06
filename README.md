@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose как unbundled-библиотека. Скорость UI vs. Гибкость разработки](https://habr.com/ru/companies/dododev/articles/862878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862878)
+- [Как мы 2 гбита видео из гаража пытались раздать](https://habr.com/ru/articles/864434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864434)
 - [Как мы разработали SaaS-сервис для поиска компаний: опыт создания B2B-базы данных с 15 млн организаций](https://habr.com/ru/articles/864410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864410)
 - [«Ландшафт кибербезопасности стремительно меняется в сторону милитаризации»](https://habr.com/ru/articles/864396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864396)
 - [Выкинь свой RoadMap: что на самом деле нужно знать начинающему фронтендеру](https://habr.com/ru/articles/864376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864376)
-- [Порядок из хаоса. Напишем клеточный автомат «Муравей Лэнгтона» на p5py в браузере и анимируем с помощью state machine](https://habr.com/ru/companies/sberbank/articles/864100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864100)
-- [Идентификаторы в БД: INT vs UUID](https://habr.com/ru/articles/864188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
