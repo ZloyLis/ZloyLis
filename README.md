@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать анимацию разными способами и когда их использовать](https://habr.com/ru/companies/kts/articles/864302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864302)
+- [Документация, которая точно не навредит аналитике в Вашем проекте](https://habr.com/ru/articles/864512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864512)
 - [Дизайн Системы](https://habr.com/ru/companies/marfatech/articles/862778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862778)
 - [[Перевод] Concurrency в Spring Boot приложениях: как сделать правильный выбор](https://habr.com/ru/companies/spring_aio/articles/862950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862950)
 - [«101 day streak learning GO — при условии, что я ещё не работаю в IT»](https://habr.com/ru/articles/864524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864524)
-- [Алонзо Чёрч: забытый архитектор современного программирования](https://habr.com/ru/companies/first/articles/864508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864508)
-- [Больше чем Хакатон](https://habr.com/ru/companies/aquarius/articles/864460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
