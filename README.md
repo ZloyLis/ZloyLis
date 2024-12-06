@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Больше чем Хакатон](https://habr.com/ru/companies/aquarius/articles/864460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864460)
 - [Как я написал свою первую обучающую игру на JavaScript с помощью Mistral AI и Яндекс Шедеврума](https://habr.com/ru/articles/864470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864470)
 - [Математическое доказательство ненужности service-layer на бэкенде при взаимодействии через RPC](https://habr.com/ru/articles/863932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863932)
 - [Jetpack Compose как unbundled-библиотека. Скорость UI vs. Гибкость разработки](https://habr.com/ru/companies/dododev/articles/862878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862878)
 - [Как мы 2 гбита видео из гаража пытались раздать](https://habr.com/ru/articles/864434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864434)
-- [Как мы разработали SaaS-сервис для поиска компаний: опыт создания B2B-базы данных с 15 млн организаций](https://habr.com/ru/articles/864410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
