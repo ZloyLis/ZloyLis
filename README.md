@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Digest #19](https://habr.com/ru/companies/tbank/articles/864552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864552)
+- [Как удалить неиспользуемые зависимости из проекта?](https://habr.com/ru/articles/864584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864584)
 - [Как сделать анимацию разными способами и когда их использовать](https://habr.com/ru/companies/kts/articles/864302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864302)
 - [Документация, которая точно не навредит аналитике в Вашем проекте](https://habr.com/ru/articles/864512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864512)
 - [Дизайн Системы](https://habr.com/ru/companies/marfatech/articles/862778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862778)
-- [[Перевод] Concurrency в Spring Boot приложениях: как сделать правильный выбор](https://habr.com/ru/companies/spring_aio/articles/862950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862950)
-- [«101 day streak learning GO — при условии, что я ещё не работаю в IT»](https://habr.com/ru/articles/864524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
