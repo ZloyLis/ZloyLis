@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Контрибьютор C++ забанен за использование слова «question» в названии своей статьи](https://habr.com/ru/articles/864336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864336)
-- [[Перевод] Оптимизация ядра WebGPU для перемножения матриц и достижения производительности свыше 1ТФЛОПС](https://habr.com/ru/articles/864330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864330)
-- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#1&rpar;](https://habr.com/ru/articles/864320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864320)
-- [Получаем персональные данные пользователей с Госуслуг: Интеграция с ЕСИА на Java](https://habr.com/ru/articles/864318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864318)
-- [Обзор пакета unsafe: как обходить ограничения Go &lpar;но лучше этого не делать&rpar;](https://habr.com/ru/companies/otus/articles/862854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862854)
+- [Идентификаторы в БД: INT vs UUID](https://habr.com/ru/articles/864188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864188)
+- [RTS — Реактивный язык программирования свободных структур данных](https://habr.com/ru/articles/864358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864358)
+- [Особенности использования сторонних сервисов в мобильных приложениях на примере Firebase](https://habr.com/ru/companies/swordfish_security/articles/864190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864190)
+- [Применимость Java в искусственном интеллекте: 7 библиотек для нейросетей, которые стоит изучить](https://habr.com/ru/articles/864352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864352)
+- [Как должен выглядеть идеальный GitHub для поиска работы](https://habr.com/ru/articles/863238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
