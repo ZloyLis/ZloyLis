@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сколько памяти нужно в 2024 году для выполнения миллиона конкурентных задач?](https://habr.com/ru/articles/862482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862482)
 - [Keycloak интеграция со Spring boot](https://habr.com/ru/articles/864680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864680)
-- [Вредные советы девопсу и не только](https://habr.com/ru/articles/864660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864660)
 - [Что такое AML, как очистить или купить чистую криптовалюту](https://habr.com/ru/articles/864050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864050)
 - [Обучение и воркшопы: как виртуозно познакомить заказчика с новой функциональностью](https://habr.com/ru/companies/bercut/articles/864554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864554)
 - [Java Digest #19](https://habr.com/ru/companies/tbank/articles/864552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864552)
