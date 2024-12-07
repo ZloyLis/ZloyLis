@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Игровой автомат своими руками на ESP32](https://habr.com/ru/articles/864724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864724)
+- [no-code &lpar;hub.ultralytics.com&rpar; в связке с Yandex DataSphere](https://habr.com/ru/articles/864732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864732)
+- [Игровой автомат своими руками](https://habr.com/ru/articles/864724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864724)
 - [Голосовая аутентификация через GPT](https://habr.com/ru/articles/864598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864598)
 - [Во что играет моя мама, пока я сплю](https://habr.com/ru/companies/timeweb/articles/864632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864632)
 - [JavaScript-фреймворки и библиотеки, на которые стоит обратить внимание в 2025 году](https://habr.com/ru/companies/ru_mts/articles/864500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864500)
-- [[Перевод] Сколько памяти нужно в 2024 году для выполнения миллиона конкурентных задач?](https://habr.com/ru/articles/862482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
