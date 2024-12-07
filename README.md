@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Keycloak интеграция со Spring boot](https://habr.com/ru/articles/864680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864680)
 - [Вредные советы девопсу и не только](https://habr.com/ru/articles/864660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864660)
 - [Что такое AML, как очистить или купить чистую криптовалюту](https://habr.com/ru/articles/864050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864050)
 - [Обучение и воркшопы: как виртуозно познакомить заказчика с новой функциональностью](https://habr.com/ru/companies/bercut/articles/864554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864554)
 - [Java Digest #19](https://habr.com/ru/companies/tbank/articles/864552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864552)
-- [Как удалить неиспользуемые зависимости из проекта?](https://habr.com/ru/articles/864584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
