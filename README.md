@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я взломал одну из самых топовых нейросетей &lpar;Claude 3.5 Sonnet&rpar; для студенческой научной статьи](https://habr.com/ru/articles/864654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864654)
+- [Выжимаем максимум из Scalafix](https://habr.com/ru/articles/864842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864842)
 - [От CNAPP до CTEM — ИБ-термины простыми словами](https://habr.com/ru/companies/mws/articles/864874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864874)
 - [Ultimatum — еще один форк хромиума, с претензией…](https://habr.com/ru/articles/864852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864852)
 - [[Перевод] Тривиальное перемещение и рефлексия: реализуем фичу из C++26 в библиотеке](https://habr.com/ru/companies/ncloudtech/articles/864838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864838)
-- [Мобильная разработка за неделю #567 &lpar;2 — 8 декабря&rpar;](https://habr.com/ru/articles/864824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864824)
-- [Вопросы к UI. Вступление](https://habr.com/ru/articles/864816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
