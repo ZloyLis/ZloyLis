@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Элегантная математика фильтров Блума](https://habr.com/ru/companies/ruvds/articles/864354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864354)
-- [Медианы чисел](https://habr.com/ru/articles/864808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864808)
-- [Базовое программирование, или Почему джуны не могут пройти к нам собеседование](https://habr.com/ru/articles/863922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863922)
-- [[Перевод] Как писать чистый код — советы для разработчиков с примерами](https://habr.com/ru/articles/864758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864758)
-- [no-code &lpar;hub.ultralytics.com&rpar; в связке с Yandex DataSphere](https://habr.com/ru/articles/864732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864732)
+- [Вопросы к UI. Вступление](https://habr.com/ru/articles/864816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864816)
+- [Математические бланки // Часть 3: математическая реальность](https://habr.com/ru/articles/817229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817229)
+- [Умная система обучения для детей до 3 лет. Animal Island Aila](https://habr.com/ru/articles/864814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864814)
+- [[Перевод] Сквозь губку Менгера. Как старшеклассники решают вековые задачи фрактальной топологии](https://habr.com/ru/articles/864812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864812)
+- [Как развлечься с моделями, если хочется чего-то необычного](https://habr.com/ru/articles/864810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
