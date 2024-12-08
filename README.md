@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тривиальное перемещение и рефлексия: реализуем фичу из C++26 в библиотеке](https://habr.com/ru/companies/ncloudtech/articles/864838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864838)
 - [Мобильная разработка за неделю #567 &lpar;2 — 8 декабря&rpar;](https://habr.com/ru/articles/864824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864824)
 - [Вопросы к UI. Вступление](https://habr.com/ru/articles/864816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864816)
 - [Математические бланки // Часть 3: математическая реальность](https://habr.com/ru/articles/817229/?utm_source=habrahabr&utm_medium=rss&utm_campaign=817229)
 - [Умная система обучения для детей до 3 лет. Animal Island Aila](https://habr.com/ru/articles/864814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864814)
-- [[Перевод] Сквозь губку Менгера. Как старшеклассники решают вековые задачи фрактальной топологии](https://habr.com/ru/articles/864812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
