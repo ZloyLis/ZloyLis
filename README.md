@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Машинное обучение: Логистическая регрессия. Теория и реализация. С нуля](https://habr.com/ru/articles/864890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864890)
+- [Rust без прикрас: где мы продолжаем ошибаться](https://habr.com/ru/companies/beget/articles/861496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861496)
 - [Security Week 2450: бэкдор в SDK для блокчейн-платформы Solana](https://habr.com/ru/companies/kaspersky/articles/864964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864964)
 - [Зачем покупать, когда можно… или как я собирал систему мониторинга фильтра воды и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/862628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862628)
 - [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865098)
