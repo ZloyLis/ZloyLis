@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности построения графиков Qt в «Авроре»](https://habr.com/ru/companies/selectel/articles/864966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864966)
 - [Решаем задачу моментальной навигации по коду для любого коммита](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/863500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863500)
 - [Способ организации gRPC контрактов и их автоматизация для микросервисов](https://habr.com/ru/articles/864918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864918)
 - [Стагнация на мидле: когда работаешь, но остаёшься на месте](https://habr.com/ru/articles/864630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864630)
 - [Как я взломал одну из самых топовых нейросетей &lpar;Claude 3.5 Sonnet&rpar; для студенческой научной статьи](https://habr.com/ru/articles/864654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864654)
-- [Выжимаем максимум из Scalafix](https://habr.com/ru/articles/864842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
