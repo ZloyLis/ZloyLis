@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [std::chrono в C++: управляем временем](https://habr.com/ru/companies/otus/articles/864900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864900)
 - [Есть ли жизнь вне GitHub? Смотрим альтернативы](https://habr.com/ru/articles/865200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865200)
 - [Обратная Матрица &lpar;Inverse Matrix&rpar;](https://habr.com/ru/articles/865192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865192)
 - [Защита своего приложения с помощью JWT и Spring Security](https://habr.com/ru/articles/865180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865180)
 - [GIMP Script-Fu Первый Дан. Берём Кисти и рисуем Точки и Звёздочки](https://habr.com/ru/articles/865174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865174)
-- [Кастомная сериализация структур в UE](https://habr.com/ru/articles/865170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
