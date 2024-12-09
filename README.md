@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем покупать, когда можно… или как я собирал систему мониторинга фильтра воды и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/862628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862628)
+- [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865098)
 - [[Перевод] Расширение Spring Data репозиториев стало ещё проще](https://habr.com/ru/companies/spring_aio/articles/865082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865082)
 - [[Перевод] Грязный код](https://habr.com/ru/companies/ruvds/articles/865026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865026)
 - [Тестирование и отладка встраиваемых систем STM32 с использованием QEMU эмулятора и Docker](https://habr.com/ru/articles/865070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865070)
-- [Создание бота в дискорде с деплоем на сервер за 5 минут](https://habr.com/ru/companies/amvera/articles/858708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858708)
-- [HTTP-запросы: структура, методы, строка статуса и коды состояния](https://habr.com/ru/articles/865040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
