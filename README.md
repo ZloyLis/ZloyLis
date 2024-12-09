@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Особенности построения графиков Qt в «Авроре»](https://habr.com/ru/companies/selectel/articles/864966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864966)
-- [Решаем задачу моментальной навигации по коду для любого коммита](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/863500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863500)
-- [Способ организации gRPC контрактов и их автоматизация для микросервисов](https://habr.com/ru/articles/864918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864918)
-- [Стагнация на мидле: когда работаешь, но остаёшься на месте](https://habr.com/ru/articles/864630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864630)
-- [Как я взломал одну из самых топовых нейросетей &lpar;Claude 3.5 Sonnet&rpar; для студенческой научной статьи](https://habr.com/ru/articles/864654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864654)
+- [[Перевод] Знакомство со слоем абстракции Netflix для хранилищ данных типа «ключ-значение»](https://habr.com/ru/companies/wunderfund/articles/864430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864430)
+- [Дайджест новостей по PHP, Symfony и Laravel за ноябрь&#39;2024](https://habr.com/ru/articles/864866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864866)
+- [Каталог данных своими руками из PowerBi и небольшой БД](https://habr.com/ru/companies/vkusvill/articles/864998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864998)
+- [Головоломки с балансом. Поиск фальшивой монеты &lpar;часть 2&rpar;](https://habr.com/ru/companies/first/articles/858920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858920)
+- [Заяц не вырастет в акулу. Или секреты гибкой инженерной культуры от Александра Бындю](https://habr.com/ru/articles/864996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
