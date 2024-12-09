@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Управление вёрсткой в PlantUML](https://habr.com/ru/articles/865140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865140)
-- [Rust без прикрас: где мы продолжаем ошибаться](https://habr.com/ru/companies/beget/articles/861496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861496)
-- [Машинное обучение: Логистическая регрессия. Теория и реализация. С нуля](https://habr.com/ru/articles/864890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864890)
-- [Security Week 2450: бэкдор в SDK для блокчейн-платформы Solana](https://habr.com/ru/companies/kaspersky/articles/864964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864964)
-- [Зачем покупать, когда можно… или как я собирал систему мониторинга фильтра воды и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/862628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862628)
+- [GIMP Script-Fu Первый Дан. Берём Кисти и рисуем Точки и Звёздочки](https://habr.com/ru/articles/865174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865174)
+- [Кастомная сериализация структур в UE](https://habr.com/ru/articles/865170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865170)
+- [Apple Pro Weekly News &lpar;02.12 – 08.12.24&rpar;](https://habr.com/ru/articles/865164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865164)
+- [Apple Pro Weekly News &lpar;02.12 – 08.12.24&rpar;](https://habr.com/ru/articles/865162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865162)
+- [Formacion Profesional Grado Superior DAW обучение на разработчика в Испании](https://habr.com/ru/articles/865158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
