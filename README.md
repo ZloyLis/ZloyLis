@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание бота в дискорде с деплоем на сервер за 5 минут](https://habr.com/ru/companies/amvera/articles/858708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858708)
+- [HTTP-запросы: структура, методы, строка статуса и коды состояния](https://habr.com/ru/articles/865040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865040)
 - [Функционирование сетей на транспортном уровне](https://habr.com/ru/companies/nauka/articles/865002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865002)
 - [UX-проектирование на кошке](https://habr.com/ru/articles/864822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864822)
 - [[Перевод] Знакомство со слоем абстракции Netflix для хранилищ данных типа «ключ-значение»](https://habr.com/ru/companies/wunderfund/articles/864430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864430)
-- [Дайджест новостей по PHP, Symfony и Laravel за ноябрь&#39;2024](https://habr.com/ru/articles/864866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864866)
-- [Каталог данных своими руками из PowerBi и небольшой БД](https://habr.com/ru/companies/vkusvill/articles/864998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
