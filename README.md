@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Машинное обучение: Логистическая регрессия. Теория и реализация. С нуля](https://habr.com/ru/articles/864890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864890)
+- [Security Week 2450: бэкдор в SDK для блокчейн-платформы Solana](https://habr.com/ru/companies/kaspersky/articles/864964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864964)
 - [Зачем покупать, когда можно… или как я собирал систему мониторинга фильтра воды и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/862628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862628)
 - [GitHub для тестировщиков: закладываем фундамент](https://habr.com/ru/companies/intec_balance/articles/865098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865098)
 - [[Перевод] Расширение Spring Data репозиториев стало ещё проще](https://habr.com/ru/companies/spring_aio/articles/865082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865082)
-- [[Перевод] Грязный код](https://habr.com/ru/companies/ruvds/articles/865026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865026)
-- [Тестирование и отладка встраиваемых систем STM32 с использованием QEMU эмулятора и Docker](https://habr.com/ru/articles/865070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
