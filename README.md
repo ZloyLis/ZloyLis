@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Путь 1С-аналитика в инхаус-разработке: навыки и перспективы](https://habr.com/ru/companies/yandex_praktikum/articles/865300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865300)
-- [А нужна ли вам автоматизация тестирования?](https://habr.com/ru/companies/avito/articles/865122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865122)
-- [Формальная верификация протокола IBFT: проверяем безопасность византийского консенсуса в блокчейне](https://habr.com/ru/companies/pt/articles/864754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864754)
-- [Народный браузер — каким он мог бы быть?](https://habr.com/ru/articles/865312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865312)
-- [ML в промышленности: как построить систему управления процессом окомкования железорудных окатышей](https://habr.com/ru/companies/oleg-bunin/articles/865088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865088)
+- [Как попасть в компанию мечты?](https://habr.com/ru/articles/865372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865372)
+- [Как мы построили отказоустойчивую open-source-инфраструктуру для управления пользовательскими Linux-устройствами](https://habr.com/ru/companies/tbank/articles/865328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865328)
+- [Как подружить Flutter и Huawei — настраиваем Flutter. Часть 2](https://habr.com/ru/companies/surfstudio/articles/864560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864560)
+- [Интеграция поддержки Nvidia в контейнерах](https://habr.com/ru/companies/dbraincloud/articles/865342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865342)
+- [Как собрать и внедрить высоконагруженный модуль. Опыт Звука](https://habr.com/ru/companies/zvuk/articles/864166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
