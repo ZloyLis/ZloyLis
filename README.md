@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как внедрить наблюдаемость в микросервисное приложение с помощью OpenTelemetry, Jaeger и Prometheus](https://habr.com/ru/articles/865288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865288)
-- [Как создать свой веб-фреймворк на Python](https://habr.com/ru/companies/timeweb/articles/858664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858664)
-- [Корпоративная школа BI: от таблиц на коленке до дашбордов, которые реально работают](https://habr.com/ru/companies/leroy_merlin/articles/864328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864328)
-- [[Перевод] Ускоряем Ruby, переписав C… на Ruby](https://habr.com/ru/articles/864504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864504)
-- [Автоматически обновляем дату завтрашнего дня в Тильде. Пошаговая инструкция на чистом JS](https://habr.com/ru/articles/865266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865266)
+- [А нужна ли вам автоматизация тестирования?](https://habr.com/ru/companies/avito/articles/865122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865122)
+- [Формальная верификация протокола IBFT: проверяем безопасность византийского консенсуса в блокчейне](https://habr.com/ru/companies/pt/articles/864754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864754)
+- [Народный браузер — каким он мог бы быть?](https://habr.com/ru/articles/865312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865312)
+- [ML в промышленности: как построить систему управления процессом окомкования железорудных окатышей](https://habr.com/ru/companies/oleg-bunin/articles/865088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865088)
+- [Как написать Google Calendar на коленке? Обзор FullCallendar](https://habr.com/ru/companies/selectel/articles/865304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
