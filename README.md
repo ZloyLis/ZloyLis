@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как узнать у клиента мнение о товарах и доставке при помощи SMS и Node JS](https://habr.com/ru/companies/exolve/articles/865240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865240)
 - [101 Компьютерная Игра на Бейсике — обзор старой книжки](https://habr.com/ru/articles/865198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865198)
 - [std::chrono в C++: управляем временем](https://habr.com/ru/companies/otus/articles/864900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864900)
 - [Есть ли жизнь вне GitHub? Смотрим альтернативы](https://habr.com/ru/articles/865200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865200)
 - [Обратная Матрица &lpar;Inverse Matrix&rpar;](https://habr.com/ru/articles/865192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865192)
-- [Защита своего приложения с помощью JWT и Spring Security](https://habr.com/ru/articles/865180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
