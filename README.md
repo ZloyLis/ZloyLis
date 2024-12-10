@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Лидерство в тестировании: управление тестированием производительности](https://habr.com/ru/articles/865152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865152)
+- [[Перевод] Вышел React v19](https://habr.com/ru/articles/865416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865416)
 - [Как попасть в компанию мечты?](https://habr.com/ru/articles/865372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865372)
 - [Как мы построили отказоустойчивую open-source-инфраструктуру для управления пользовательскими Linux-устройствами](https://habr.com/ru/companies/tbank/articles/865328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865328)
 - [Как подружить Flutter и Huawei — настраиваем Flutter. Часть 2](https://habr.com/ru/companies/surfstudio/articles/864560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864560)
-- [Интеграция поддержки Nvidia в контейнерах](https://habr.com/ru/companies/dbraincloud/articles/865342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865342)
-- [Как собрать и внедрить высоконагруженный модуль. Опыт Звука](https://habr.com/ru/companies/zvuk/articles/864166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
