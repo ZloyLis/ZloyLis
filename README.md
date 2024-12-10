@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вызвать функцию, имея только ее имя в Unreal Engine](https://habr.com/ru/articles/865524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865524)
+- [Баг SRWLock в Windows вешает многопоточные программы](https://habr.com/ru/articles/865518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865518)
 - [Python-библиотеки, которые упрощают жизнь программиста. Часть 1](https://habr.com/ru/companies/ru_mts/articles/865450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865450)
 - [Клиентоцентричность с точки зрения Go-разработчика и причем тут рефлексия](https://habr.com/ru/companies/cloud_ru/articles/861668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861668)
 - [Неизбежное будущее Kubernetes: почему оркестратор должен пойти по пути Linux Kernel](https://habr.com/ru/companies/aenix/articles/865238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865238)
-- [[Перевод] Лидерство в тестировании: управление тестированием производительности](https://habr.com/ru/articles/865152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865152)
-- [[Перевод] Вышел React v19](https://habr.com/ru/articles/865416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
