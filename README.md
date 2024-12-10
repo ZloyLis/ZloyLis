@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как внедрить наблюдаемость в микросервисное приложение с помощью OpenTelemetry, Jaeger и Prometheus](https://habr.com/ru/articles/865288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865288)
+- [Как создать свой веб-фреймворк на Python](https://habr.com/ru/companies/timeweb/articles/858664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858664)
+- [Корпоративная школа BI: от таблиц на коленке до дашбордов, которые реально работают](https://habr.com/ru/companies/leroy_merlin/articles/864328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864328)
+- [[Перевод] Ускоряем Ruby, переписав C… на Ruby](https://habr.com/ru/articles/864504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864504)
 - [Автоматически обновляем дату завтрашнего дня в Тильде. Пошаговая инструкция на чистом JS](https://habr.com/ru/articles/865266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865266)
-- [Без головы — лучше! Разворачиваем собственную Headless CMS Directus в облаке](https://habr.com/ru/companies/dockhost/articles/864844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864844)
-- [Как узнать у клиента мнение о товарах и доставке при помощи SMS и Node JS](https://habr.com/ru/companies/exolve/articles/865240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865240)
-- [101 Компьютерная Игра на Бейсике — обзор старой книжки](https://habr.com/ru/articles/865198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865198)
-- [std::chrono в C++: управляем временем](https://habr.com/ru/companies/otus/articles/864900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
