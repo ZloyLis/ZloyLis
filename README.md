@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь 1С-аналитика в инхаус-разработке: навыки и перспективы](https://habr.com/ru/companies/yandex_praktikum/articles/865300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865300)
 - [А нужна ли вам автоматизация тестирования?](https://habr.com/ru/companies/avito/articles/865122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865122)
 - [Формальная верификация протокола IBFT: проверяем безопасность византийского консенсуса в блокчейне](https://habr.com/ru/companies/pt/articles/864754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864754)
 - [Народный браузер — каким он мог бы быть?](https://habr.com/ru/articles/865312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865312)
 - [ML в промышленности: как построить систему управления процессом окомкования железорудных окатышей](https://habr.com/ru/companies/oleg-bunin/articles/865088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865088)
-- [Как написать Google Calendar на коленке? Обзор FullCallendar](https://habr.com/ru/companies/selectel/articles/865304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
