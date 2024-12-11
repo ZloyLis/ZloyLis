@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рефы и другие китайские подделки смартфонов: что у них под капотом и почему их до сих пор покупают](https://habr.com/ru/companies/ru_mts/articles/865540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865540)
+- [Как я попал на стажировку аналитиком в Яндекс и как к ней готовился](https://habr.com/ru/companies/yandex_praktikum/articles/861304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861304)
 - [Знай своего ментора](https://habr.com/ru/articles/865550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865550)
 - [Как вызвать функцию, имея только ее имя в Unreal Engine](https://habr.com/ru/articles/865524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865524)
 - [Баг в реализации SRWLock в Windows вешает многопоточные программы](https://habr.com/ru/articles/865518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865518)
-- [Python-библиотеки, которые упрощают жизнь программиста. Часть 1](https://habr.com/ru/companies/ru_mts/articles/865450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865450)
-- [Клиентоцентричность с точки зрения Go-разработчика и причем тут рефлексия](https://habr.com/ru/companies/cloud_ru/articles/861668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
