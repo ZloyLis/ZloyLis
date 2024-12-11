@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Какие знаешь псевдо-классы?»](https://habr.com/ru/companies/ruvds/articles/864762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864762)
 - [AndroidAPS в часах. Продолжение](https://habr.com/ru/articles/865624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865624)
 - [T-Lite и T-Pro – открытые русскоязычные опенсорс-модели на 7 и на 32 млрд параметров](https://habr.com/ru/companies/tbank/articles/865582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865582)
 - [Рефы и другие китайские подделки смартфонов: что у них под капотом и почему их до сих пор покупают](https://habr.com/ru/companies/ru_mts/articles/865540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865540)
 - [Как я попал на стажировку аналитиком в Яндекс и как к ней готовился](https://habr.com/ru/companies/yandex_praktikum/articles/861304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861304)
-- [Знай своего ментора](https://habr.com/ru/articles/865550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
