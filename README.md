@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Методы приоритизации продуктовых штук](https://habr.com/ru/companies/garage8/articles/865704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865704)
+- [Распознавание русского рукописного текста](https://habr.com/ru/articles/865688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865688)
 - [Airflow 3 is Coming](https://habr.com/ru/articles/865674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865674)
 - [Разбираем стандарты нейминга на примерах](https://habr.com/ru/articles/865666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865666)
 - [Основы ИИ: введение в искусственный интеллект](https://habr.com/ru/articles/865664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865664)
-- [5 видов усталости в IT… и не только](https://habr.com/ru/articles/865660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865660)
-- [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Какие знаешь псевдо-классы?»](https://habr.com/ru/companies/ruvds/articles/864762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
