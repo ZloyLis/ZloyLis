@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [UX-манипуляции: уроки обольщения пользователей](https://habr.com/ru/articles/865868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865868)
 - [OffscreenCanvas в JavaScript: разгоняем графику до максимума](https://habr.com/ru/companies/otus/articles/863634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863634)
 - [Как искать и эксплуатировать уязвимости в контейнеризированных средах. Часть 3](https://habr.com/ru/companies/slurm/articles/865844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865844)
 - [BRIN-индексы в PostgreSQL](https://habr.com/ru/companies/otus/articles/864896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864896)
 - [5 паттернов проектирования в Go на примере котиков](https://habr.com/ru/companies/otus/articles/864748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864748)
-- [[Перевод] Asymmetric Join в PostgreSQL как эволюция Partitionwise Join](https://habr.com/ru/companies/postgrespro/articles/839644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
