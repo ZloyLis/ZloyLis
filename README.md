@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 паттернов проектирования в Go на примере котиков](https://habr.com/ru/companies/otus/articles/864748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864748)
 - [[Перевод] Asymmetric Join в PostgreSQL как эволюция Partitionwise Join](https://habr.com/ru/companies/postgrespro/articles/839644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=839644)
 - [[Перевод] Горькая правда о программировании с использованием ИИ](https://habr.com/ru/companies/spring_aio/articles/865720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865720)
 - [Бот на генераторах — когда нет времени и ресурсов](https://habr.com/ru/companies/alfa/articles/864984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864984)
 - [Методы приоритизации продуктовых штук](https://habr.com/ru/companies/garage8/articles/865704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865704)
-- [Распознавание русского рукописного текста](https://habr.com/ru/articles/865688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
