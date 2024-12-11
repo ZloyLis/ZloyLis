@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Airflow 3 is Coming](https://habr.com/ru/articles/865674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865674)
+- [Разбираем стандарты нейминга на примерах](https://habr.com/ru/articles/865666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865666)
+- [Основы ИИ: введение в искусственный интеллект](https://habr.com/ru/articles/865664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865664)
+- [5 видов усталости в IT… и не только](https://habr.com/ru/articles/865660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865660)
 - [Готовимся к вопросам по вёрстке на интервью Frontend-разработчика: «Какие знаешь псевдо-классы?»](https://habr.com/ru/companies/ruvds/articles/864762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864762)
-- [AndroidAPS в часах. Продолжение](https://habr.com/ru/articles/865624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865624)
-- [T-Lite и T-Pro – открытые русскоязычные опенсорс-модели на 7 и на 32 млрд параметров](https://habr.com/ru/companies/tbank/articles/865582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865582)
-- [Рефы и другие китайские подделки смартфонов: что у них под капотом и почему их до сих пор покупают](https://habr.com/ru/companies/ru_mts/articles/865540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865540)
-- [Как я попал на стажировку аналитиком в Яндекс и как к ней готовился](https://habr.com/ru/companies/yandex_praktikum/articles/861304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
