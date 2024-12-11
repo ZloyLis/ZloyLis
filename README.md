@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Горькая правда о программировании с использованием ИИ](https://habr.com/ru/companies/spring_aio/articles/865720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865720)
+- [Бот на генераторах — когда нет времени и ресурсов](https://habr.com/ru/companies/alfa/articles/864984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864984)
 - [Методы приоритизации продуктовых штук](https://habr.com/ru/companies/garage8/articles/865704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865704)
 - [Распознавание русского рукописного текста](https://habr.com/ru/articles/865688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865688)
 - [Airflow 3 is Coming](https://habr.com/ru/articles/865674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865674)
-- [Разбираем стандарты нейминга на примерах](https://habr.com/ru/articles/865666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865666)
-- [Основы ИИ: введение в искусственный интеллект](https://habr.com/ru/articles/865664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
