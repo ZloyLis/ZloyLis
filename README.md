@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пришем Realtime для Multiple-page application в микросервисной архитектуре](https://habr.com/ru/articles/866130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866130)
 - [Configuration-as-Code](https://habr.com/ru/companies/securityvison/articles/866126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866126)
 - [Управление ИТ-активами как способ оптимизации бюджета: анализ практик ITAM](https://habr.com/ru/companies/simpleone/articles/866122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866122)
 - [[Перевод] Генерация кода при помощи ИИ сделает вас плохим программистом](https://habr.com/ru/articles/866120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866120)
 - [SLAM на Java с OpenCV: сравнение алгоритмов автономной навигации](https://habr.com/ru/articles/866092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866092)
-- [Фрактальная размерность: что это и как вычислить](https://habr.com/ru/companies/skillfactory/articles/866014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
