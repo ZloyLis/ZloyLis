@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Магия простоты: как мы улучшили отображение общественного транспорта на карте](https://habr.com/ru/companies/2gis/articles/864800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864800)
+- [Как я СКАДу писал. Часть девятая](https://habr.com/ru/articles/865992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865992)
 - [Отбираем хлеб у нативных разработчиков: миграция с Kotlin/Swift на RN](https://habr.com/ru/articles/865962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865962)
-- [DevOps Challenge: помогите Деду Морозу с оповещениями и получите подарок](https://habr.com/ru/companies/kts/articles/865150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865150)
+- [DevOps Challenge: помогите Деду Морозу с оповещениями и получите новогодний мерч](https://habr.com/ru/companies/kts/articles/865150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865150)
 - [Как на самом деле работает Attention](https://habr.com/ru/companies/oleg-bunin/articles/865856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865856)
-- [Рекурсивные запросы в SQLAlchemy](https://habr.com/ru/companies/domclick/articles/865256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865256)
-- [Flutter форкнули и похоронили. Эксперты о Flock, поводах для беспокойства и будущем фреймворка](https://habr.com/ru/companies/surfstudio/articles/865946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
