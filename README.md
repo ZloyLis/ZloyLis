@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL HowTo: агрегация внутри рекурсии &lpar;Advent of Code 2024, Day 11: Plutonian Pebbles&rpar;](https://habr.com/ru/companies/tensor/articles/865894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865894)
+- [Хэши: виды, применение и примеры на Java](https://habr.com/ru/articles/865910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865910)
 - [Kubernetes 1.32: возможность задавать ресурсы на уровне пода и асинхронное вытеснение подов планировщиком](https://habr.com/ru/companies/flant/articles/864988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864988)
 - [Настраиваем роли в K8s](https://habr.com/ru/companies/otus/articles/864282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864282)
 - [UX-манипуляции: уроки обольщения пользователей](https://habr.com/ru/articles/865868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865868)
-- [OffscreenCanvas в JavaScript: разгоняем графику до максимума](https://habr.com/ru/companies/otus/articles/863634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863634)
-- [Как искать и эксплуатировать уязвимости в контейнеризированных средах. Часть 3](https://habr.com/ru/companies/slurm/articles/865844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
