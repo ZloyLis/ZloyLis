@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuration-as-Code](https://habr.com/ru/companies/securityvison/articles/866126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866126)
+- [Управление ИТ-активами как способ оптимизации бюджета: анализ практик ITAM](https://habr.com/ru/companies/simpleone/articles/866122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866122)
+- [[Перевод] Генерация кода при помощи ИИ сделает вас плохим программистом](https://habr.com/ru/articles/866120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866120)
 - [SLAM на Java с OpenCV: сравнение алгоритмов автономной навигации](https://habr.com/ru/articles/866092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866092)
 - [Фрактальная размерность: что это и как вычислить](https://habr.com/ru/companies/skillfactory/articles/866014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866014)
-- [5 полезных фреймворков и библиотек для начинающего фронтенд-разработчика на конец 2024 года. Часть 2](https://habr.com/ru/companies/ru_mts/articles/866070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866070)
-- [[Перевод] Дедупликация в OpenZFS теперь хороша, но использовать её не стоит](https://habr.com/ru/companies/vk/articles/863904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863904)
-- [Назначение личного менеджера для клиента на сайте с CMS WordPress](https://habr.com/ru/articles/866050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
