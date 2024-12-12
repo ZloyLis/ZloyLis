@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддержка временных зон в фулстек-приложении на основе NestJS и Angular: работа с REST и WebSockets](https://habr.com/ru/articles/866204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866204)
 - [Стилистический-Анализатор: Проверка Наличия Комментария в Конце Фигурной Скобки](https://habr.com/ru/articles/865536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865536)
 - [Пишем Realtime для Multiple-page application в микросервисной архитектуре](https://habr.com/ru/articles/866130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866130)
 - [Configuration-as-Code](https://habr.com/ru/companies/securityvison/articles/866126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866126)
 - [Управление ИТ-активами как способ оптимизации бюджета: анализ практик ITAM](https://habr.com/ru/companies/simpleone/articles/866122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866122)
-- [[Перевод] Генерация кода при помощи ИИ сделает вас плохим программистом](https://habr.com/ru/articles/866120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
