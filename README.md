@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Большой гайд по миграциям в Django: полезные советы и обход типичных подводных камней](https://habr.com/ru/companies/idaproject/articles/865036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865036)
-- [Партиционированный Postgres: немного о проблемах с лимитами](https://habr.com/ru/companies/postgrespro/articles/864910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864910)
-- [SQL HowTo: агрегация внутри рекурсии &lpar;Advent of Code 2024, Day 11: Plutonian Pebbles&rpar;](https://habr.com/ru/companies/tensor/articles/865894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865894)
-- [Хэши: виды, применение и примеры на Java](https://habr.com/ru/articles/865910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865910)
-- [Kubernetes 1.32: возможность задавать ресурсы на уровне пода и асинхронное вытеснение подов планировщиком](https://habr.com/ru/companies/flant/articles/864988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864988)
+- [Отбираем хлеб у нативных разработчиков: миграция с Kotlin/Swift на RN](https://habr.com/ru/articles/865962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865962)
+- [DevOps Challenge: помогите Деду Морозу с оповещениями и получите подарок](https://habr.com/ru/companies/kts/articles/865150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865150)
+- [Как на самом деле работает Attention](https://habr.com/ru/companies/oleg-bunin/articles/865856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865856)
+- [Рекурсивные запросы в SQLAlchemy](https://habr.com/ru/companies/domclick/articles/865256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865256)
+- [Flutter форкнули и похоронили. Эксперты о Flock, поводах для беспокойства и будущем фреймворка](https://habr.com/ru/companies/surfstudio/articles/865946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
