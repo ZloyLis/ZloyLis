@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Одинокий рейнджер, или как выстраивать тестирование, будучи единственным QA в команде](https://habr.com/ru/companies/kuper/articles/861238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861238)
+- [Как построить оценку качества контакт-центра с помощью Speech Analytics API](https://habr.com/ru/companies/exolve/articles/866244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866244)
 - [Инфраструктура для Data-Engineer виртуальные окружения](https://habr.com/ru/articles/861412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861412)
 - [«Птица говорун» или интеграция open source LLM с XWiki](https://habr.com/ru/articles/865482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865482)
 - [Новогодний квиз по вашему git log. Пятничный пост](https://habr.com/ru/articles/863280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863280)
-- [Поддержка временных зон в фулстек-приложении на основе NestJS и Angular: работа с REST и WebSockets](https://habr.com/ru/articles/866204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866204)
-- [Стилистический-Анализатор: Проверка Наличия Комментария в Конце Фигурной Скобки](https://habr.com/ru/articles/865536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
