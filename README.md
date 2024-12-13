@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инфраструктура для Data-Engineer виртуальные окружения](https://habr.com/ru/articles/861412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861412)
 - [«Птица говорун» или интеграция open source LLM с XWiki](https://habr.com/ru/articles/865482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865482)
-- [Новогодний квиз по вашему git log](https://habr.com/ru/articles/863280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863280)
+- [Новогодний квиз по вашему git log. Пятничный пост](https://habr.com/ru/articles/863280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863280)
 - [Поддержка временных зон в фулстек-приложении на основе NestJS и Angular: работа с REST и WebSockets](https://habr.com/ru/articles/866204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866204)
 - [Стилистический-Анализатор: Проверка Наличия Комментария в Конце Фигурной Скобки](https://habr.com/ru/articles/865536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865536)
-- [Пишем Realtime для Multiple-page application в микросервисной архитектуре](https://habr.com/ru/articles/866130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
