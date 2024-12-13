@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем приложению с многомиллионной аудиторией запускать бета-тестирование?](https://habr.com/ru/companies/x5digital/articles/866384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866384)
+- [Business Process Notation как подход к организации кода в проекте по разработке мобильного iOS приложения](https://habr.com/ru/articles/866376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866376)
 - [Как мы развернули трансформер на событиях интерфейса операторов поддержки](https://habr.com/ru/companies/oleg-bunin/articles/866362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866362)
 - [Из белой каски и грязных сапог в белый халат и тапки](https://habr.com/ru/companies/programbank/articles/866348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866348)
 - [Продуктовые обновления ноября: 100% кешбэк на CDN, новые конфигурации в БД и другое](https://habr.com/ru/companies/selectel/articles/866306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866306)
-- [Безразличие к регистру — ошибка на миллиарды долларов](https://habr.com/ru/articles/862662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862662)
-- [Переходите на Flutter 3.27, тут быстрее и плавнее &lpar;и Dart тоже обновите&rpar;](https://habr.com/ru/companies/friflex/articles/866316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
