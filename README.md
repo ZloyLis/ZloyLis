@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как устроен Next.js: разбираем ключевые особенности фреймворка на примере небольшого pet-проекта](https://habr.com/ru/companies/ibs/articles/865448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865448)
+- [Frontend в 2025 году: тренды, которые изменят разработку](https://habr.com/ru/companies/usetech/articles/866268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866268)
+- [[Перевод] Создание адаптивной H5-страницы для различных мобильных устройств](https://habr.com/ru/articles/866260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866260)
+- [Редко, но метко! Пять малоизвестных виджетов](https://habr.com/ru/articles/866086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866086)
 - [Одинокий рейнджер, или как выстраивать тестирование, будучи единственным QA в команде](https://habr.com/ru/companies/kuper/articles/861238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861238)
-- [Как построить оценку качества контакт-центра с помощью Speech Analytics API](https://habr.com/ru/companies/exolve/articles/866244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866244)
-- [Инфраструктура для Data-Engineer виртуальные окружения](https://habr.com/ru/articles/861412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861412)
-- [«Птица говорун» или интеграция open source LLM с XWiki](https://habr.com/ru/articles/865482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865482)
-- [Новогодний квиз по вашему git log. Пятничный пост](https://habr.com/ru/articles/863280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
