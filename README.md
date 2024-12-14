@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практика использования парсер-комбинаторов peco и оператора match для создания простых DSL на языке Python](https://habr.com/ru/articles/866646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866646)
 - [Проектирование serverless функций](https://habr.com/ru/articles/866640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866640)
 - [Вопросы к UI. Шаблон компонента. Основная часть](https://habr.com/ru/articles/866638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866638)
 - [«Хотели как лучше, а получилось как обычно»: почему заказчик получает не то, что хотел?](https://habr.com/ru/articles/866632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866632)
 - [Цели в начале разработки: как избежать провала проекта](https://habr.com/ru/articles/866546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866546)
-- [Почему не стоит покупать ретро-телефоны на «Алике»: ремонтируем и смотрим на легендарный Nokia E7](https://habr.com/ru/companies/timeweb/articles/865560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
