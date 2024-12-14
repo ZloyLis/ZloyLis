@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый универсальный метод взлома LLM от Anthropic «Best-of-N Jailbreaking»](https://habr.com/ru/articles/866526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866526)
 - [Проектная работа «Оно тебе надо» от Яндекс практикума](https://habr.com/ru/articles/866514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866514)
 - [Как жить без IntelliJ IDEA? Часть №4. Database Client](https://habr.com/ru/companies/spring_aio/articles/866500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866500)
 - [Как мы ускорили решение своей задачи по машинному обучению путем участия в Большой математической мастерской](https://habr.com/ru/companies/astralinux/articles/866476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866476)
 - [Master of Inteleji Idea](https://habr.com/ru/articles/866324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866324)
-- [[Перевод] Всего несколько строк CSS для плавных переходов между страницами](https://habr.com/ru/companies/ruvds/articles/865580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
