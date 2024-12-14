@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цели в начале разработки: как избежать провала проекта](https://habr.com/ru/articles/866546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866546)
 - [Почему не стоит покупать ретро-телефоны на «Алике»: ремонтируем и смотрим на легендарный Nokia E7](https://habr.com/ru/companies/timeweb/articles/865560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865560)
 - [Игрушечный ботнет на JavaScript под BitBurner](https://habr.com/ru/articles/866590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866590)
+- [«Open source в России» — интервью с Алексеем Смирновым, председателем совета директоров «Базальт СПО»](https://habr.com/ru/articles/866568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866568)
 - [Реализация шифра «Магма» на языке RUST](https://habr.com/ru/articles/866574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866574)
-- [Cекретный ингредиент для реверс-инжиниринга: как работает наш собственный опенсорс-плагин для IDA](https://habr.com/ru/companies/kaspersky/articles/865394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865394)
-- [[Перевод] Руководство по современным сетевым политикам Kubernetes](https://habr.com/ru/companies/flant/articles/847904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
