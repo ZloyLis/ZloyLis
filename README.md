@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Игрушечный ботнет на JavaScript под BitBurner](https://habr.com/ru/articles/866590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866590)
 - [Реализация шифра «Магма» на языке RUST](https://habr.com/ru/articles/866574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866574)
 - [Cекретный ингредиент для реверс-инжиниринга: как работает наш собственный опенсорс-плагин для IDA](https://habr.com/ru/companies/kaspersky/articles/865394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865394)
 - [[Перевод] Руководство по современным сетевым политикам Kubernetes](https://habr.com/ru/companies/flant/articles/847904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847904)
 - [Airflow и устройство некоторых таблиц](https://habr.com/ru/articles/866542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866542)
-- [FastAPI + Redis + Celery: Создание системы временного хранения файлов с автоудалением и удобным веб-интерфейсом](https://habr.com/ru/companies/amvera/articles/866200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
