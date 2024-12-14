@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Хотели как лучше, а получилось как обычно»: почему заказчик получает не то, что хотел?](https://habr.com/ru/articles/866632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866632)
 - [Цели в начале разработки: как избежать провала проекта](https://habr.com/ru/articles/866546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866546)
 - [Почему не стоит покупать ретро-телефоны на «Алике»: ремонтируем и смотрим на легендарный Nokia E7](https://habr.com/ru/companies/timeweb/articles/865560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865560)
 - [Игрушечный ботнет на JavaScript под BitBurner](https://habr.com/ru/articles/866590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866590)
 - [«Open source в России» — интервью с Алексеем Смирновым, председателем совета директоров «Базальт СПО»](https://habr.com/ru/articles/866568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866568)
-- [Реализация шифра «Магма» на языке RUST](https://habr.com/ru/articles/866574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
