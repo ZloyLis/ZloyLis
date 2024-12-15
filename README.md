@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] PyMyFlySpy: отслеживание полёта по бортовым данным](https://habr.com/ru/companies/ruvds/articles/865956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865956)
 - [Бесплатное обучение фулстек-разработке веб-сервиса с нуля по видео-урокам с исходным кодом и поддержкой](https://habr.com/ru/articles/866678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866678)
 - [Как использовать http внутри Minecraft?](https://habr.com/ru/articles/866674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866674)
 - [# React-Query — Общий обзор и мотивация к применению](https://habr.com/ru/articles/866654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866654)
 - [Практика использования парсер-комбинаторов peco и оператора match для создания простых DSL на языке Python](https://habr.com/ru/articles/866646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866646)
-- [Проектирование serverless функций](https://habr.com/ru/articles/866640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
