@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История одного алерта или вероятность последовательности одинаковых событий Бернулли](https://habr.com/ru/articles/866584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866584)
 - [[Перевод] Опасность наивности](https://habr.com/ru/articles/866736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866736)
 - [Сложное — просто: архитектуры ПО на жизненных примерах](https://habr.com/ru/articles/866726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866726)
 - [Способы работы с БД DB2 в языке RPG на платформе IBM i](https://habr.com/ru/articles/865042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865042)
 - [[Перевод] PyMyFlySpy: отслеживание полёта по бортовым данным](https://habr.com/ru/companies/ruvds/articles/865956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865956)
-- [Бесплатное обучение фулстек-разработке веб-сервиса с нуля по видео-урокам с исходным кодом и поддержкой](https://habr.com/ru/articles/866678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
