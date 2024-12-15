@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Машинное обучение: Классификация методом KNN. Теория и реализация. С нуля. На чистом Python](https://habr.com/ru/articles/866636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866636)
 - [Мобильная разработка за неделю #568 &lpar;9 — 15 декабря&rpar;](https://habr.com/ru/articles/866764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866764)
 - [История одного алерта или вероятность последовательности одинаковых событий Бернулли](https://habr.com/ru/articles/866584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866584)
 - [[Перевод] Опасность наивности](https://habr.com/ru/articles/866736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866736)
 - [Сложное — просто: архитектуры ПО на жизненных примерах](https://habr.com/ru/articles/866726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866726)
-- [Способы работы с БД DB2 в языке RPG на платформе IBM i](https://habr.com/ru/articles/865042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
