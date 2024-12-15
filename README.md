@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сломать колесо хомяка в поисках личной силы](https://habr.com/ru/articles/866808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866808)
 - [История науки: как математический анализ развился из древних парадоксальных загадок и религиозных споров Средневековья](https://habr.com/ru/articles/866790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866790)
 - [ТЭЦ, банки и деревья в масштабе 160 к 1: история создания макета для кибербитвы Standoff](https://habr.com/ru/companies/pt/articles/866786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866786)
 - [Машинное обучение: Классификация методом KNN. Теория и реализация. С нуля. На чистом Python](https://habr.com/ru/articles/866636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866636)
 - [Мобильная разработка за неделю #568 &lpar;9 — 15 декабря&rpar;](https://habr.com/ru/articles/866764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866764)
-- [История одного алерта или вероятность последовательности одинаковых событий Бернулли](https://habr.com/ru/articles/866584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
