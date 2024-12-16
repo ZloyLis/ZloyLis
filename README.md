@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Введение в Gatling: какие есть альтернативы и в чем их минусы?](https://habr.com/ru/articles/867038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867038)
+- [Укрощение строптивого прибора или python в помощь инженеру](https://habr.com/ru/articles/863586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863586)
+- [Low-code платформы 2024: сравнительный обзор](https://habr.com/ru/articles/867032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867032)
 - [Как мы обновляли продакшн до Spring Boot 3](https://habr.com/ru/companies/maxilect/articles/867014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867014)
 - [Conventional Commits без лишних слов: ваша шпаргалка](https://habr.com/ru/articles/867012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867012)
-- [[Перевод] Развенчиваем популярные мифы и заблуждения о компиляторах](https://habr.com/ru/companies/ruvds/articles/866972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866972)
-- [Синонимы, транслит и магия: Как заставить систему читать мысли пользователя](https://habr.com/ru/articles/866980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866980)
-- [Приземление дизайн-концепта на примере экрана платежей](https://habr.com/ru/companies/otpbank/articles/865806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
