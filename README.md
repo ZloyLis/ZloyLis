@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Путь кода VS путь языковых моделей](https://habr.com/ru/companies/skbkontur/articles/865924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865924)
-- [Открытая IDE для российских разработчиков](https://habr.com/ru/companies/haulmont/articles/866388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866388)
-- [Интеграция и сохранение выбранного языка пользователя в базу данных в фулстек-приложении на «Angular» и «NestJS»](https://habr.com/ru/articles/866858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866858)
-- [Нагрузочное тестирование в Школе Тестирования КОТ Блока качества РСХБ-Интех](https://habr.com/ru/companies/rshb/articles/863718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863718)
-- [Сиракузская проблема, идея для решения &lpar;часть 1&rpar;](https://habr.com/ru/articles/866732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866732)
+- [[Перевод] Знакомство со слоем абстракции Netflix для хранения временных рядов](https://habr.com/ru/companies/wunderfund/articles/866912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866912)
+- [Удобные дашборды для быстрой диагностики](https://habr.com/ru/companies/avito/articles/866606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866606)
+- [[Перевод] Наиболее эффективные методы улучшения Core Web Vitals](https://habr.com/ru/companies/timeweb/articles/860574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860574)
+- [Поиск потенциальных уязвимостей в коде, часть 1: теория](https://habr.com/ru/companies/pvs-studio/articles/866896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866896)
+- [Поздравляем, вы DevOps-инженер. Как найти себя в необъятном мире ИТ](https://habr.com/ru/companies/sigma/articles/866876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
