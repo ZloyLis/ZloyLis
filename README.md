@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сиракузская проблема, идея для решения&lpar;часть 1&rpar;](https://habr.com/ru/articles/866732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866732)
+- [Сиракузская проблема, идея для решения &lpar;часть 1&rpar;](https://habr.com/ru/articles/866732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866732)
 - [Исполняемый BPMN в Open Source Runa WFE &lpar;WfMS&rpar;. Hello Calculator и немного классификации](https://habr.com/ru/articles/866822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866822)
 - [Сломать колесо хомяка в поисках личной силы](https://habr.com/ru/articles/866808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866808)
 - [История науки: как математический анализ развился из древних парадоксальных загадок и религиозных споров Средневековья](https://habr.com/ru/articles/866790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866790)
