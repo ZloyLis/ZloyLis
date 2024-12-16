@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы обновляли продакшн до Spring Boot 3](https://habr.com/ru/companies/maxilect/articles/867014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867014)
+- [Conventional Commits без лишних слов: ваша шпаргалка](https://habr.com/ru/articles/867012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867012)
+- [[Перевод] Развенчиваем популярные мифы и заблуждения о компиляторах](https://habr.com/ru/companies/ruvds/articles/866972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866972)
 - [Синонимы, транслит и магия: Как заставить систему читать мысли пользователя](https://habr.com/ru/articles/866980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866980)
 - [Приземление дизайн-концепта на примере экрана платежей](https://habr.com/ru/companies/otpbank/articles/865806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865806)
-- [[Перевод] Построение графиков простых чисел](https://habr.com/ru/articles/866948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866948)
-- [Инвентаризация ИТ-активов: как построить эффективную систему учета и контроля инфраструктуры](https://habr.com/ru/companies/simpleone/articles/866940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866940)
-- [Наводим порядок в мониторинге 30+ проектов](https://habr.com/ru/companies/2gis/articles/866140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
