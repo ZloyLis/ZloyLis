@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Знакомство со слоем абстракции Netflix для хранения временных рядов](https://habr.com/ru/companies/wunderfund/articles/866912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866912)
-- [Удобные дашборды для быстрой диагностики](https://habr.com/ru/companies/avito/articles/866606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866606)
-- [[Перевод] Наиболее эффективные методы улучшения Core Web Vitals](https://habr.com/ru/companies/timeweb/articles/860574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860574)
-- [Поиск потенциальных уязвимостей в коде, часть 1: теория](https://habr.com/ru/companies/pvs-studio/articles/866896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866896)
-- [Поздравляем, вы DevOps-инженер. Как найти себя в необъятном мире ИТ](https://habr.com/ru/companies/sigma/articles/866876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866876)
+- [Построение графиков простых чисел](https://habr.com/ru/articles/866948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866948)
+- [Инвентаризация ИТ-активов: как построить эффективную систему учета и контроля инфраструктуры](https://habr.com/ru/companies/simpleone/articles/866940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866940)
+- [Наводим порядок в мониторинге 30+ проектов](https://habr.com/ru/companies/2gis/articles/866140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866140)
+- [У тимлида нет цели, но есть путь. Или как стать настоящим самураем и не сделать сеппуку](https://habr.com/ru/articles/866928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866928)
+- [Как я создала приложение, которое решает, что мне есть](https://habr.com/ru/companies/tochka/articles/865090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
