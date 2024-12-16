@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нагрузочное тестирование в Школе Тестирования КОТ Блока качества РСХБ-Интех](https://habr.com/ru/companies/rshb/articles/863718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863718)
 - [Сиракузская проблема, идея для решения &lpar;часть 1&rpar;](https://habr.com/ru/articles/866732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866732)
 - [Исполняемый BPMN в Open Source Runa WFE &lpar;WfMS&rpar;. Hello Calculator и немного классификации](https://habr.com/ru/articles/866822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866822)
 - [Сломать колесо хомяка в поисках личной силы](https://habr.com/ru/articles/866808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866808)
 - [История науки: как математический анализ развился из древних парадоксальных загадок и религиозных споров Средневековья](https://habr.com/ru/articles/866790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866790)
-- [ТЭЦ, банки и деревья в масштабе 160 к 1: история создания макета для кибербитвы Standoff](https://habr.com/ru/companies/pt/articles/866786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
