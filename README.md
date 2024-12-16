@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приземление дизайн-концепта на примере экрана платежей](https://habr.com/ru/companies/otpbank/articles/865806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865806)
 - [Построение графиков простых чисел](https://habr.com/ru/articles/866948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866948)
 - [Инвентаризация ИТ-активов: как построить эффективную систему учета и контроля инфраструктуры](https://habr.com/ru/companies/simpleone/articles/866940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866940)
 - [Наводим порядок в мониторинге 30+ проектов](https://habr.com/ru/companies/2gis/articles/866140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866140)
 - [У тимлида нет цели, но есть путь. Или как стать настоящим самураем и не сделать сеппуку](https://habr.com/ru/articles/866928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866928)
-- [Как я создала приложение, которое решает, что мне есть](https://habr.com/ru/companies/tochka/articles/865090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
