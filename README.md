@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хост директивы: ключ к декомпозиции](https://habr.com/ru/companies/tbank/articles/867276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867276)
-- [8 внешних факторов, влияющих на эффективность распознавания лиц с видеокамер](https://habr.com/ru/articles/867272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867272)
-- [Как устроен открытый брендбук Selectel и зачем он нужен](https://habr.com/ru/companies/selectel/articles/867256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867256)
-- [Плюсы и минусы Luxms BI: честный взгляд на платформу от вендора](https://habr.com/ru/companies/luxms_bi/articles/867262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867262)
-- [[Перевод] Лидерство в тестировании — повышение качества ПО и экономия времени на тестировании инфраструктуры](https://habr.com/ru/articles/867050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867050)
+- [Мигрируем с JetBrains PHPStorm на Cursor &lpar;VS Code&rpar;](https://habr.com/ru/articles/866644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866644)
+- [Рецепты TypeScript: простое тестирование типов](https://habr.com/ru/companies/cloud_ru/articles/865118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865118)
+- [Всё, что нужно знать об Android 15: архивирование, защита данных и новые API](https://habr.com/ru/companies/surfstudio/articles/867290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867290)
+- [Ребенок хочет заниматься программированием, что делать?](https://habr.com/ru/articles/867288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867288)
+- [Подключаем удалённую samba-шару в качестве PersistentStorage в Kubernetes](https://habr.com/ru/articles/867282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
