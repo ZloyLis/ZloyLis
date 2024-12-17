@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеальное резюме тестировщика, или Как не забыть поливать цветы](https://habr.com/ru/companies/sberbank/articles/867366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867366)
+- [Возможности LLM и RAG на примере реализации бота для поддержки клиентов](https://habr.com/ru/companies/vk/articles/866906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866906)
+- [Всё про конфиги &lpar;лекция&rpar;](https://habr.com/ru/articles/866468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866468)
+- [Моя боль в JavaScript: когда this и переменные становятся головоломкой](https://habr.com/ru/articles/867360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867360)
 - [Тестирование с нуля: советы, которые я дала бы себе на старте](https://habr.com/ru/companies/doubletapp/articles/867204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867204)
-- [Как спроектировать мобильное приложение маркетплейса за 7 шагов](https://habr.com/ru/companies/exolve/articles/867332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867332)
-- [[Перевод] 10 лучших приёмов логирования для разработчиков](https://habr.com/ru/companies/netologyru/articles/861800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861800)
-- [Полигональное моделирование. Назначение нового модуля C3D PolyShaper, сферы его применения](https://habr.com/ru/companies/ascon/articles/843804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843804)
-- [Создаём CRUD REST API в Spring Boot быстро и просто вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/866060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
