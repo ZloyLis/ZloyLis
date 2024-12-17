@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему мы топим за открытый код в науке ― несколько слов о воспроизводимости результатов научных исследований](https://habr.com/ru/companies/spbifmo/articles/867236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867236)
+- [FSD 2.1 или как «pages first» подход может ухудшить структуру ваших Frontend приложений](https://habr.com/ru/articles/867232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867232)
+- [Мониторинг бизнес-процессов с помощью OpenTelemetry](https://habr.com/ru/companies/oleg-bunin/articles/865690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865690)
 - [Как я готовилась и сдавала ISTQB Certified Tester Advanced Level Test Analyst](https://habr.com/ru/articles/867210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867210)
 - [Знакомство с FEEL в Camunda 8](https://habr.com/ru/companies/domclick/articles/866778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866778)
-- [Замороженный cucumber](https://habr.com/ru/companies/mvideo/articles/867178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867178)
-- [[Перевод] Юные математики завязали узлы в умопомрачительном фрактале](https://habr.com/ru/articles/867118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867118)
-- [Как мы превратили рутинную работу в удовольствие: история создания плагина для Р7-Офиса](https://habr.com/ru/companies/lanit/articles/865334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865334)
 <!-- BLOG-POST-LIST:END -->
 
 ---
