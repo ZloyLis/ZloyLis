@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Отход от Airflow: почему Dagster — это оркестратор данных следующего поколения](https://habr.com/ru/articles/867132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867132)
+- [Система отчётов в Gatling: как работать и что включает?](https://habr.com/ru/articles/867130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867130)
 - [Как же войти в айти в 2025 году и не потратить на это 10 лет жизни](https://habr.com/ru/articles/867110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867110)
 - [Security Week 2451: атака BadRAM на процессоры AMD](https://habr.com/ru/companies/kaspersky/articles/866860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866860)
 - [Apple Pro Weekly News &lpar;09.12 – 15.12.24&rpar;](https://habr.com/ru/articles/867100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867100)
-- [5 наиболее красивых задач с экзамена в Школу Анализа Данных от Яндекса](https://habr.com/ru/articles/867084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867084)
-- [Импортозамещение без компромиссов: строим инфраструктуру КИИ безопасно и правильно](https://habr.com/ru/companies/k2tech/articles/867058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
