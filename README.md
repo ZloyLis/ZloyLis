@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование с нуля: советы, которые я дала бы себе на старте](https://habr.com/ru/companies/doubletapp/articles/867204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867204)
 - [Как спроектировать мобильное приложение маркетплейса за 7 шагов](https://habr.com/ru/companies/exolve/articles/867332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867332)
 - [[Перевод] 10 лучших приёмов логирования для разработчиков](https://habr.com/ru/companies/netologyru/articles/861800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=861800)
 - [Полигональное моделирование. Назначение нового модуля C3D PolyShaper, сферы его применения](https://habr.com/ru/companies/ascon/articles/843804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=843804)
 - [Создаём CRUD REST API в Spring Boot быстро и просто вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/866060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866060)
-- [Data driven на практике: с чего начать, как избежать ошибок и эффективно применять](https://habr.com/ru/companies/beeline_cloud/articles/867292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
