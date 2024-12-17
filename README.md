@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Идеальное резюме тестировщика, или Как не забыть поливать цветы](https://habr.com/ru/companies/sberbank/articles/867366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867366)
 - [Возможности LLM и RAG на примере реализации бота для поддержки клиентов](https://habr.com/ru/companies/vk/articles/866906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866906)
-- [Всё про конфиги &lpar;лекция&rpar;](https://habr.com/ru/articles/866468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866468)
+- [Всё про конфиги](https://habr.com/ru/articles/866468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866468)
 - [Моя боль в JavaScript: когда this и переменные становятся головоломкой](https://habr.com/ru/articles/867360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867360)
 - [Тестирование с нуля: советы, которые я дала бы себе на старте](https://habr.com/ru/companies/doubletapp/articles/867204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867204)
 <!-- BLOG-POST-LIST:END -->
