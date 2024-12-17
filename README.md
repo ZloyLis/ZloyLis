@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я готовилась и сдавала ISTQB Certified Tester Advanced Level Test Analyst](https://habr.com/ru/articles/867210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867210)
+- [Знакомство с FEEL в Camunda 8](https://habr.com/ru/companies/domclick/articles/866778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866778)
 - [Замороженный cucumber](https://habr.com/ru/companies/mvideo/articles/867178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867178)
 - [[Перевод] Юные математики завязали узлы в умопомрачительном фрактале](https://habr.com/ru/articles/867118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867118)
-- [[Перевод] Юные математики завязали узлы в умопомрачительном фрактале](https://habr.com/ru/articles/867116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867116)
 - [Как мы превратили рутинную работу в удовольствие: история создания плагина для Р7-Офиса](https://habr.com/ru/companies/lanit/articles/865334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865334)
-- [Как мы мигрируем с JQuery на React](https://habr.com/ru/articles/866158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
