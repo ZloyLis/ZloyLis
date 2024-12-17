@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Валидация кастомных компонентов в ElementPlus](https://habr.com/ru/articles/867148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867148)
-- [[Перевод] Человек, который контролирует 40% интернета. Восхождение open-source империи](https://habr.com/ru/articles/867150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867150)
-- [Как обновить PostgreSQL и не потерять данные: метод минимизации простоя](https://habr.com/ru/companies/flant/articles/866250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866250)
-- [Интеграция предобученных нейросетей в Java-проектах: практический пример](https://habr.com/ru/articles/867120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867120)
-- [Как не утонуть в мусоре PostgreSQL: VACUUM](https://habr.com/ru/companies/otus/articles/865850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865850)
+- [Замороженный cucumber](https://habr.com/ru/companies/mvideo/articles/867178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867178)
+- [[Перевод] Юные математики завязали узлы в умопомрачительном фрактале](https://habr.com/ru/articles/867118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867118)
+- [[Перевод] Юные математики завязали узлы в умопомрачительном фрактале](https://habr.com/ru/articles/867116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867116)
+- [Как мы превратили рутинную работу в удовольствие: история создания плагина для Р7-Офиса](https://habr.com/ru/companies/lanit/articles/865334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865334)
+- [Как мы мигрируем с JQuery на React](https://habr.com/ru/articles/866158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
