@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему мы топим за открытый код в науке ― несколько слов о воспроизводимости результатов научных исследований](https://habr.com/ru/companies/spbifmo/articles/867236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867236)
-- [FSD 2.1 или как «pages first» подход может ухудшить структуру ваших Frontend приложений](https://habr.com/ru/articles/867232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867232)
-- [Мониторинг бизнес-процессов с помощью OpenTelemetry](https://habr.com/ru/companies/oleg-bunin/articles/865690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865690)
-- [Как я готовилась и сдавала ISTQB Certified Tester Advanced Level Test Analyst](https://habr.com/ru/articles/867210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867210)
-- [Знакомство с FEEL в Camunda 8](https://habr.com/ru/companies/domclick/articles/866778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866778)
+- [Хост директивы: ключ к декомпозиции](https://habr.com/ru/companies/tbank/articles/867276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867276)
+- [8 внешних факторов, влияющих на эффективность распознавания лиц с видеокамер](https://habr.com/ru/articles/867272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867272)
+- [Как устроен открытый брендбук Selectel и зачем он нужен](https://habr.com/ru/companies/selectel/articles/867256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867256)
+- [Плюсы и минусы Luxms BI: честный взгляд на платформу от вендора](https://habr.com/ru/companies/luxms_bi/articles/867262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867262)
+- [[Перевод] Лидерство в тестировании — повышение качества ПО и экономия времени на тестировании инфраструктуры](https://habr.com/ru/articles/867050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
