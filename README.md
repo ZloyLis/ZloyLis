@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Валидация кастомных компонентов в ElementPlus](https://habr.com/ru/articles/867148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867148)
+- [[Перевод] Человек, который контролирует 40% интернета. Восхождение open-source империи](https://habr.com/ru/articles/867150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867150)
+- [Как обновить PostgreSQL и не потерять данные: метод минимизации простоя](https://habr.com/ru/companies/flant/articles/866250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866250)
+- [Интеграция предобученных нейросетей в Java-проектах: практический пример](https://habr.com/ru/articles/867120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867120)
 - [Как не утонуть в мусоре PostgreSQL: VACUUM](https://habr.com/ru/companies/otus/articles/865850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865850)
-- [[Перевод] Отход от Airflow: почему Dagster — это оркестратор данных следующего поколения](https://habr.com/ru/articles/867132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867132)
-- [Система отчётов в Gatling: как работать и что включает?](https://habr.com/ru/articles/867130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867130)
-- [Как же войти в айти в 2025 году и не потратить на это 10 лет жизни](https://habr.com/ru/articles/867110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867110)
-- [Security Week 2451: атака BadRAM на процессоры AMD](https://habr.com/ru/companies/kaspersky/articles/866860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
