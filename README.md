@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter в своей продакшн-эре и другие откровения на Flutter in Production](https://habr.com/ru/companies/friflex/articles/867700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867700)
+- [Качество видео в онлайн-звонке: как его оценить и какие инструменты использовать](https://habr.com/ru/companies/vk/articles/867080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867080)
+- [Переводим 50 приложений на Module Federation и ничего не ломаем](https://habr.com/ru/companies/alfa/articles/866944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866944)
 - [Будущее PostgreSQL: как 64-битный счетчик транзакций решает проблему масштабирования](https://habr.com/ru/companies/postgrespro/articles/864142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864142)
 - [Погружение в Web3: изучаем Node.js на открытом курсе](https://habr.com/ru/companies/metalamp/articles/867638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867638)
-- [Как мы используем разделяемую память в Aqueduct](https://habr.com/ru/companies/avito/articles/866338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866338)
-- [Из чего состоит System Design](https://habr.com/ru/companies/otus/articles/864894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864894)
-- [Немного об отладке. Часть 2](https://habr.com/ru/articles/867482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
