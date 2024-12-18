@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного об отладке. Часть 2](https://habr.com/ru/articles/867482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867482)
+- [Немного об отладке. Часть 1](https://habr.com/ru/articles/867478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867478)
+- [Dagger 2: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/866452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866452)
+- [Vite 6.0: Новые возможности и будущее веб-разработки](https://habr.com/ru/companies/first/articles/867200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867200)
 - [«Из пушки по воробьям» или как подключить open source аналог ChatGPT &lpar;LLM&rpar; к игре «угадай слово» на движке Godot 4](https://habr.com/ru/articles/867434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867434)
-- [Математическая продлёнка. Про НОД, НОК и суперсилу](https://habr.com/ru/articles/867186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867186)
-- [Что читали на Хабре в 2024 году: анализ статей с Node.js, Google Sheets и каплей ChatGPT](https://habr.com/ru/articles/867068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867068)
-- [Scratch-box — изучаем основы программирования без покупки ноутбука](https://habr.com/ru/articles/867418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867418)
-- [Spears &amp;amp; bits](https://habr.com/ru/articles/867134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
