@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы создали микросервисное приложение для анализа вакансий с hh.ru: Docker, Kafka, Elasticsearch и ещё немного магии](https://habr.com/ru/articles/867802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867802)
+- [Как создать собственный OPC UA сервер с использованием Node.js](https://habr.com/ru/articles/867798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867798)
 - [[Перевод] Как улучшить свои навыки работы с Git с помощью GitHub CLI](https://habr.com/ru/companies/otus/articles/867782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867782)
 - [Совместить DDD и MVVM: Разработка приложения-трекера расходов по правилу 50-30-20 на .NET MAUI](https://habr.com/ru/articles/867768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867768)
 - [Борьба Добра со Злом в играх со скрытой информацией. Боты](https://habr.com/ru/articles/867750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867750)
-- [Diff-in-diff: жизнь за пределами идеального эксперимента](https://habr.com/ru/companies/X5Tech/articles/867734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867734)
-- [[Перевод] Вся правда о @Subselect: преимущества, недостатки и альтернативы в Hibernate](https://habr.com/ru/companies/spring_aio/articles/867662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
