@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы используем разделяемую память в Aqueduct](https://habr.com/ru/companies/avito/articles/866338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866338)
+- [Из чего состоит System Design](https://habr.com/ru/companies/otus/articles/864894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864894)
 - [Немного об отладке. Часть 2](https://habr.com/ru/articles/867482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867482)
 - [Немного об отладке. Часть 1](https://habr.com/ru/articles/867478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867478)
 - [Dagger 2: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/866452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866452)
-- [Vite 6.0: Новые возможности и будущее веб-разработки](https://habr.com/ru/companies/first/articles/867200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867200)
-- [«Из пушки по воробьям» или как подключить open source аналог ChatGPT &lpar;LLM&rpar; к игре «угадай слово» на движке Godot 4](https://habr.com/ru/articles/867434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
