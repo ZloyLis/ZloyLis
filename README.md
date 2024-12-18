@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Умная кодогенерация: как AI-платформа помогает строить микросервисную архитектуру](https://habr.com/ru/companies/redmadrobot/articles/867702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867702)
 - [Flutter в своей продакшн-эре и другие откровения на Flutter in Production](https://habr.com/ru/companies/friflex/articles/867700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867700)
 - [Качество видео в онлайн-звонке: как его оценить и какие инструменты использовать](https://habr.com/ru/companies/vk/articles/867080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867080)
 - [Переводим 50 приложений на Module Federation и ничего не ломаем](https://habr.com/ru/companies/alfa/articles/866944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866944)
 - [Будущее PostgreSQL: как 64-битный счетчик транзакций решает проблему масштабирования](https://habr.com/ru/companies/postgrespro/articles/864142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864142)
-- [Погружение в Web3: изучаем Node.js на открытом курсе](https://habr.com/ru/companies/metalamp/articles/867638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
