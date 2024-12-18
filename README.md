@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что читали на Хабре в 2024 году: анализ статей с Node.js, Google Sheets и каплей ChatGPT](https://habr.com/ru/articles/867068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867068)
 - [Scratch-box — изучаем основы программирования без покупки ноутбука](https://habr.com/ru/articles/867418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867418)
 - [Spears &amp;amp; bits](https://habr.com/ru/articles/867134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867134)
 - [Идеальное резюме тестировщика, или Как не забыть поливать цветы](https://habr.com/ru/companies/sberbank/articles/867366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867366)
 - [Возможности LLM и RAG на примере реализации бота для поддержки клиентов](https://habr.com/ru/companies/vk/articles/866906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866906)
-- [Всё про конфиги](https://habr.com/ru/articles/866468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
