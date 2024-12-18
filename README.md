@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совместить DDD и MVVM: Разработка приложения-трекера расходов по правилу 50-30-20 на .NET MAUI](https://habr.com/ru/articles/867768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867768)
 - [Борьба Добра со Злом в играх со скрытой информацией. Боты](https://habr.com/ru/articles/867750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867750)
 - [Diff-in-diff: жизнь за пределами идеального эксперимента](https://habr.com/ru/companies/X5Tech/articles/867734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867734)
 - [[Перевод] Вся правда о @Subselect: преимущества, недостатки и альтернативы в Hibernate](https://habr.com/ru/companies/spring_aio/articles/867662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867662)
 - [Умная кодогенерация: как AI-платформа помогает строить микросервисную архитектуру](https://habr.com/ru/companies/redmadrobot/articles/867702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867702)
-- [Flutter в своей продакшн-эре и другие откровения на Flutter in Production](https://habr.com/ru/companies/friflex/articles/867700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
