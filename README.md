@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Из пушки по воробьям» или как подключить open source аналог ChatGPT &lpar;LLM&rpar; к игре «угадай слово» на движке Godot 4](https://habr.com/ru/articles/867434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867434)
 - [Математическая продлёнка. Про НОД, НОК и суперсилу](https://habr.com/ru/articles/867186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867186)
 - [Что читали на Хабре в 2024 году: анализ статей с Node.js, Google Sheets и каплей ChatGPT](https://habr.com/ru/articles/867068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867068)
 - [Scratch-box — изучаем основы программирования без покупки ноутбука](https://habr.com/ru/articles/867418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867418)
 - [Spears &amp;amp; bits](https://habr.com/ru/articles/867134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867134)
-- [Идеальное резюме тестировщика, или Как не забыть поливать цветы](https://habr.com/ru/companies/sberbank/articles/867366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
