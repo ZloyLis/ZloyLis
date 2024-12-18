@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Будущее PostgreSQL: как 64-битный счетчик транзакций решает проблему масштабирования](https://habr.com/ru/companies/postgrespro/articles/864142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864142)
+- [Погружение в Web3: изучаем Node.js на открытом курсе](https://habr.com/ru/companies/metalamp/articles/867638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867638)
 - [Как мы используем разделяемую память в Aqueduct](https://habr.com/ru/companies/avito/articles/866338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866338)
 - [Из чего состоит System Design](https://habr.com/ru/companies/otus/articles/864894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864894)
 - [Немного об отладке. Часть 2](https://habr.com/ru/articles/867482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867482)
-- [Немного об отладке. Часть 1](https://habr.com/ru/articles/867478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867478)
-- [Dagger 2: как сделать свой DI за 10 минут](https://habr.com/ru/companies/ozontech/articles/866452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
