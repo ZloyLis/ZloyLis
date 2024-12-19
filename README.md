@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерн Composite в Go на котиках](https://habr.com/ru/companies/otus/articles/866508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866508)
+- [[Перевод] Размышление о двух подходах к C++](https://habr.com/ru/companies/ispsystem/articles/867992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867992)
+- [Новый HTTP клиент от Amplicode на Kotlin Script для Spring приложений и не только](https://habr.com/ru/companies/haulmont/articles/868106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868106)
 - [Рецензия на книгу “Байесовская оптимизация с примерами из библиотек Python”](https://habr.com/ru/companies/ssp-soft/articles/868100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868100)
 - [[Перевод] Пишем скрипты и маленькие программы на Java](https://habr.com/ru/articles/867970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867970)
-- [Чистая архитектура фронтенд приложений. Часть первая](https://habr.com/ru/articles/868058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868058)
-- [[Перевод] Stat Commands: Добавляем трассировку в Unreal Engine](https://habr.com/ru/companies/otus/articles/867940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867940)
-- [Воскрешаем динозавров С++ в современных проектах: как применяют интрузивные контейнеры, ООП и разные стандарты языка](https://habr.com/ru/companies/yadro/articles/868000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
