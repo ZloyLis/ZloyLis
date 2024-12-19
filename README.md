@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое KNOX по мнению Galaxy AI, как установить сертификат Минцифры и другие впечатления за год](https://habr.com/ru/companies/samsung/articles/867888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867888)
 - [Атаки на GitHub-разработчика в 2024 году](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867754)
 - [Lazarus IDE для аналитика. Приемы работы в современном Free Pascal — 1](https://habr.com/ru/articles/867968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867968)
 - [GIMP Script-Fu Первый Дан. Рамки](https://habr.com/ru/articles/867936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867936)
 - [SDUI, или Как backend-разработчику почувствовать себя frontend’ером](https://habr.com/ru/companies/alfa/articles/866990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866990)
-- [Оптимизация: типичные ошибки программистов и как их можно исправить](https://habr.com/ru/companies/pt/articles/867146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
