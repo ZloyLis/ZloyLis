@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Отображение веб-контента на дисплее E-Ink](https://habr.com/ru/articles/867676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867676)
+- [pg_partman: автоматизация партиционирования PostgreSQL](https://habr.com/ru/companies/otus/articles/866192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866192)
 - [Разработка специализированного графика для отображения ЭКГ с использованием Canvas на плафторме .NET for Android](https://habr.com/ru/articles/867830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867830)
 - [Создание Custom Layout в Jetpack Compose](https://habr.com/ru/articles/867822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867822)
 - [Центральный Университет: взгляд магистра изнутри &lpar;1 семестр&rpar;](https://habr.com/ru/articles/867820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867820)
-- [Как мы создали микросервисное приложение для анализа вакансий с hh.ru: Docker, Kafka, Elasticsearch и ещё немного магии](https://habr.com/ru/articles/867802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867802)
-- [Как создать собственный OPC UA сервер с использованием Node.js](https://habr.com/ru/articles/867798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
