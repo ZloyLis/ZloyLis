@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как сторонние библиотеки меняют правила анализа кода](https://habr.com/ru/companies/pvs-studio/articles/867912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867912)
-- [Почему соискателям не стоит постить нюдсы, что такое culture fit и чем IT-индустрия напоминает подростка](https://habr.com/ru/companies/oleg-bunin/articles/865030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865030)
-- [Практики управления проблемами. Недопоставка виртуальных мощностей](https://habr.com/ru/articles/867906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867906)
-- [Гетерогенные вычисления: проектирование и разработка вычислительной системы для нейросетей](https://habr.com/ru/companies/vk/articles/867900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867900)
-- [Безопасность на высоте: как защищать API сегодня](https://habr.com/ru/companies/sberbank/articles/867744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867744)
+- [Атаки на GitHub-разработчика в 2024 году](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867754)
+- [Lazarus IDE для аналитика. Приемы работы в современном Free Pascal — 1](https://habr.com/ru/articles/867968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867968)
+- [GIMP Script-Fu Первый Дан. Рамки](https://habr.com/ru/articles/867936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867936)
+- [SDUI, или Как backend-разработчику почувствовать себя frontend’ером](https://habr.com/ru/companies/alfa/articles/866990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866990)
+- [Оптимизация: типичные ошибки программистов и как их можно исправить](https://habr.com/ru/companies/pt/articles/867146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
