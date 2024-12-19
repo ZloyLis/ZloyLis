@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Stat Commands: Добавляем трассировку в Unreal Engine](https://habr.com/ru/companies/otus/articles/867940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867940)
+- [Воскрешаем динозавров С++ в современных проектах: как применяют интрузивные контейнеры, ООП и разные стандарты языка](https://habr.com/ru/companies/yadro/articles/868000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868000)
+- [Как заставить крутиться таймер –  инструкция для IOS-разработчиков](https://habr.com/ru/companies/ecom_tech/articles/867660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867660)
+- [Моя рецензия на «кабанчика» Мартина Клеппмана и главная идея проектирования быстрорастущих баз данных](https://habr.com/ru/articles/868010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868010)
 - [Что такое KNOX по мнению Galaxy AI, как установить сертификат Минцифры и другие впечатления за год](https://habr.com/ru/companies/samsung/articles/867888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867888)
-- [Атаки на GitHub-разработчика в 2024 году](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/867754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867754)
-- [Lazarus IDE для аналитика. Приемы работы в современном Free Pascal — 1](https://habr.com/ru/articles/867968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867968)
-- [GIMP Script-Fu Первый Дан. Рамки](https://habr.com/ru/articles/867936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867936)
-- [SDUI, или Как backend-разработчику почувствовать себя frontend’ером](https://habr.com/ru/companies/alfa/articles/866990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
