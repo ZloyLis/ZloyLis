@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пишем скрипты и маленькие программы на Java](https://habr.com/ru/articles/867970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867970)
 - [Чистая архитектура фронтенд приложений. Часть первая](https://habr.com/ru/articles/868058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868058)
 - [[Перевод] Stat Commands: Добавляем трассировку в Unreal Engine](https://habr.com/ru/companies/otus/articles/867940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867940)
 - [Воскрешаем динозавров С++ в современных проектах: как применяют интрузивные контейнеры, ООП и разные стандарты языка](https://habr.com/ru/companies/yadro/articles/868000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868000)
 - [Как заставить крутиться таймер –  инструкция для iOS-разработчиков](https://habr.com/ru/companies/ecom_tech/articles/867660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867660)
-- [Моя рецензия на «кабанчика» Мартина Клеппмана и главная идея проектирования быстрорастущих баз данных](https://habr.com/ru/articles/868010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
