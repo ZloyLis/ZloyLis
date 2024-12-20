@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Жизненный цикл потоков ОС в Golang](https://habr.com/ru/companies/tbank/articles/868390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868390)
+- [Идемпотентность: искусство не менять мир дважды](https://habr.com/ru/articles/868382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868382)
+- [[Перевод] Прогнозирование результатов футбольных матчей и использование ставки «Обе забьют» &lpar;BTTS&rpar;](https://habr.com/ru/articles/868368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868368)
+- [Роль SDET-специалистов в разработке ПО в 2025 году](https://habr.com/ru/companies/simbirsoft/articles/868292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868292)
 - [Хоук ― трекер ошибок в ПО на замену Sentry](https://habr.com/ru/companies/spbifmo/articles/868350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868350)
-- [Машинное обучение на Spark](https://habr.com/ru/companies/vk/articles/868114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868114)
-- [Как эффективно управлять видеопотоком с веб-камеры в браузере](https://habr.com/ru/companies/sberbank/articles/868134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868134)
-- [API-безопасность 2025: Прогноз и стратегии защиты на основе OWASP Top 10](https://habr.com/ru/articles/868320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868320)
-- [Как мы делаем Java: 30 лет истории российской разработки](https://habr.com/ru/companies/axiomjdk/articles/868056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
