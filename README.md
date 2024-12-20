@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, web world! Enterprise edition](https://habr.com/ru/articles/868244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868244)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#2&rpar;](https://habr.com/ru/articles/868264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868264)
 - [В тихом омуте… или интересный режим работы смартфона OnePlus 6T](https://habr.com/ru/companies/ntc-vulkan/articles/867960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867960)
 - [Чек-лист по запуску нового сайта: что нужно учесть?](https://habr.com/ru/articles/868246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868246)
 - [Анализ фильмов с интернет-портала Кинопоиск](https://habr.com/ru/articles/868238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868238)
-- [Архитектурный стиль или протокол? Что нужно знать аналитику для работы с API](https://habr.com/ru/articles/863592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
