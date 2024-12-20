@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширенный экран «Profi», что это такое и как с ним работать. Практикум 002. Вертикальный скроллинг](https://habr.com/ru/articles/868528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868528)
 - [Новые диагностические правила в PVS-Studio 7.34](https://habr.com/ru/companies/pvs-studio/articles/868508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868508)
 - [Мир за пределами Pandas: достойные альтернативы для работы с данными](https://habr.com/ru/companies/ru_mts/articles/868388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868388)
 - [Выходим за рамки привычных сценариев: как оптимизировать разработку с помощью VK Data Symphony](https://habr.com/ru/companies/vk/articles/867694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867694)
 - [[Перевод] Gradle: Исправление зависимостей в один клик](https://habr.com/ru/companies/spring_aio/articles/868440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868440)
-- [Что такое гёмбёц?](https://habr.com/ru/articles/868188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
