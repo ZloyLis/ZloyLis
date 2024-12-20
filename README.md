@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое гёмбёц?](https://habr.com/ru/articles/868188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868188)
+- [Знакомства на основе данных: как мы запустили корпоративный дейтинг-сервис в Сбере](https://habr.com/ru/articles/868418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868418)
+- [11 мифов о поиске работы в IT и что о них думают работодатели](https://habr.com/ru/companies/habr_career/articles/868400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868400)
 - [Жизненный цикл потоков ОС в Golang](https://habr.com/ru/companies/tbank/articles/868390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868390)
 - [Идемпотентность: искусство не менять мир дважды](https://habr.com/ru/articles/868382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868382)
-- [[Перевод] Прогнозирование результатов футбольных матчей и использование ставки «Обе забьют» &lpar;BTTS&rpar;](https://habr.com/ru/articles/868368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868368)
-- [Роль SDET-специалистов в разработке ПО в 2025 году](https://habr.com/ru/companies/simbirsoft/articles/868292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868292)
-- [Хоук ― трекер ошибок в ПО на замену Sentry](https://habr.com/ru/companies/spbifmo/articles/868350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
