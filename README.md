@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, web world! Enterprise edition](https://habr.com/ru/articles/868244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868244)
-- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#2&rpar;](https://habr.com/ru/articles/868264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868264)
-- [В тихом омуте… или интересный режим работы смартфона OnePlus 6T](https://habr.com/ru/companies/ntc-vulkan/articles/867960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867960)
-- [Чек-лист по запуску нового сайта: что нужно учесть?](https://habr.com/ru/articles/868246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868246)
-- [Анализ фильмов с интернет-портала Кинопоиск](https://habr.com/ru/articles/868238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868238)
+- [Машинное обучение на Spark](https://habr.com/ru/companies/vk/articles/868114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868114)
+- [Как эффективно управлять видеопотоком с веб-камеры в браузере](https://habr.com/ru/companies/sberbank/articles/868134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868134)
+- [API-безопасность 2025: Прогноз и стратегии защиты на основе OWASP Top 10](https://habr.com/ru/articles/868320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868320)
+- [Как мы делаем Java: 30 лет истории российской разработки](https://habr.com/ru/companies/axiomjdk/articles/868056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868056)
+- [Как перестать выжигать людям глаза своими письмами: настраиваем тёмную тему для рассылок](https://habr.com/ru/companies/unisender_it/articles/868294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
