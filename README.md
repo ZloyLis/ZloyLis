@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ фильмов с интернет-портала Кинопоиск](https://habr.com/ru/articles/868238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868238)
+- [Архитектурный стиль или протокол? Что нужно знать аналитику для работы с API](https://habr.com/ru/articles/863592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863592)
+- [Как разработчик вышел на $5 млн/год на AI-сервисе для написания эссе](https://habr.com/ru/articles/868160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868160)
+- [[Перевод] Kubernetes 1.32: как QueueingHint оптимизирует планирование подов](https://habr.com/ru/companies/flant/articles/866998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866998)
 - [Математика, физика и информатика](https://habr.com/ru/articles/868204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868204)
-- [Цифровая безопасность: как обучить сотрудников в игровой форме](https://habr.com/ru/articles/868196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868196)
-- [Обработка временных рядов в TimescaleDB с интеграцией pandas и NumPy](https://habr.com/ru/companies/otus/articles/865130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865130)
-- [New Year DevOps Challenge: подводим итоги и делимся решением](https://habr.com/ru/companies/kts/articles/867882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867882)
-- [Паттерн Composite в Go на котиках](https://habr.com/ru/companies/otus/articles/866508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
