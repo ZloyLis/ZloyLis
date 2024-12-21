@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кратко про то, как кастомизировать сетевой стек в Kubernetes с Cilium](https://habr.com/ru/companies/otus/articles/866796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866796)
 - [PVS-Studio соответствует требованиям ГОСТ Р 71207—2024 &lpar;статический анализ программного обеспечения&rpar;](https://habr.com/ru/companies/pvs-studio/articles/868578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868578)
 - [CUtils v2.0.0](https://habr.com/ru/articles/868574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868574)
 - [Odinbit, продолжение разработки своей игры. Новые механики, оптимизации, появление мультиплеера](https://habr.com/ru/articles/868478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868478)
 - [Расширенный экран «Profi», что это такое и как с ним работать. Практикум 002. Вертикальный скроллинг](https://habr.com/ru/articles/868528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868528)
-- [Новые диагностические правила в PVS-Studio 7.34](https://habr.com/ru/companies/pvs-studio/articles/868508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
