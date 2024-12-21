@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Ultimatum помогает бороться со слежкой в сети](https://habr.com/ru/articles/868604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868604)
 - [[Перевод] Оптимизация компилятора на пальцах](https://habr.com/ru/articles/868600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868600)
 - [Кратко про то, как кастомизировать сетевой стек в Kubernetes с Cilium](https://habr.com/ru/companies/otus/articles/866796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866796)
 - [PVS-Studio соответствует требованиям ГОСТ Р 71207—2024 &lpar;статический анализ программного обеспечения&rpar;](https://habr.com/ru/companies/pvs-studio/articles/868578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868578)
 - [CUtils v2.0.0](https://habr.com/ru/articles/868574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868574)
-- [Odinbit, продолжение разработки своей игры. Новые механики, оптимизации, появление мультиплеера](https://habr.com/ru/articles/868478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
