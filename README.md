@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как засунуть слона в чемодан](https://habr.com/ru/articles/868624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868624)
 - [[Перевод] Стратегия Келли точно не подведёт](https://habr.com/ru/articles/868644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868644)
 - [[Перевод] PHP Typed: Маленький Composer пакет, который нарушает PHP правила ради вас](https://habr.com/ru/articles/868640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868640)
 - [Как китайцы «айфон на винде» сделали: Смотрим на Meizu M8](https://habr.com/ru/companies/timeweb/articles/867438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867438)
 - [Как Ultimatum помогает бороться со слежкой в сети](https://habr.com/ru/articles/868604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868604)
-- [[Перевод] Оптимизация компилятора на пальцах](https://habr.com/ru/articles/868600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
