@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #569 &lpar;16 — 22 декабря&rpar;](https://habr.com/ru/articles/868750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868750)
 - [iOS-разработчики игнорируют важную системную фичу, и это ломает их приложения](https://habr.com/ru/articles/868698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868698)
 - [Lazarus IDE для аналитика. Приемы работы в современном Free Pascal — 2](https://habr.com/ru/articles/868720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868720)
 - [[Перевод] Миф о RAM](https://habr.com/ru/articles/868452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868452)
 - [Как мы раскрыли внутреннюю архитектуру Flutter и затащили его на собственную платформу](https://habr.com/ru/companies/kaspersky/articles/864200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864200)
-- [Как LLM меняют архитектуру систем: от простых дата-пайплайнов к интеллектуальным автономным агентам](https://habr.com/ru/articles/868648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
