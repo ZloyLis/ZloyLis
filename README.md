@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как LLM меняют архитектуру систем: от простых дата-пайплайнов к интеллектуальным автономным агентам](https://habr.com/ru/articles/868648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868648)
 - [Tg бот для IT + автоматизация ИПРО-2 используя MTS Exolve. Упаковка в Docker и автоматизация сборки с GitHub Actions](https://habr.com/ru/articles/868678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868678)
 - [Как засунуть слона в чемодан](https://habr.com/ru/articles/868624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868624)
 - [[Перевод] Стратегия Келли точно не подведёт](https://habr.com/ru/articles/868644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868644)
 - [[Перевод] PHP Typed: Маленький Composer пакет, который нарушает PHP правила ради вас](https://habr.com/ru/articles/868640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868640)
-- [Как китайцы «айфон на винде» сделали: Смотрим на Meizu M8](https://habr.com/ru/companies/timeweb/articles/867438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
