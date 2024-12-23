@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL HowTo: «чистые» регулярки &lpar;Advent of Code 2024, Day 3: Mull It Over&rpar;](https://habr.com/ru/companies/tensor/articles/869004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869004)
+- [SQL HowTo: логические агрегаты &lpar;Advent of Code 2024, Day 2: Red-Nosed Reports&rpar;](https://habr.com/ru/companies/tensor/articles/868982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868982)
 - [Управление Xcode симулятором из симулятора](https://habr.com/ru/articles/868846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868846)
 - [[Перевод] От локального сервера к публичному доступу: лучшие инструменты для тоннелей](https://habr.com/ru/articles/868970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868970)
 - [SQL HowTo: регулярки, условная агрегация &lpar;Advent of Code 2024, Day 1: Historian Hysteria&rpar;](https://habr.com/ru/companies/tensor/articles/868964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868964)
-- [Разбор и стандартизация имен, адресов и других типов пользовательских данных в миллионных базах](https://habr.com/ru/companies/hflabs/articles/868062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868062)
-- [От спецификации до производства: как устроена магистратура, где студенты разрабатывают чипы](https://habr.com/ru/companies/yadro/articles/868788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
