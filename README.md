@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Металл и алгоритм отжига](https://habr.com/ru/articles/841958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841958)
+- [JavaScript: структуры данных и алгоритмы. Часть 7](https://habr.com/ru/companies/timeweb/articles/856046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856046)
+- [[Перевод] Программа, которая падала на первой команде](https://habr.com/ru/articles/862116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862116)
 - [CI/CD Kubernetes платформа Gitorion. Реестр Docker-образов Harbor c аутентификацией в Keycloak и доступом по ролям RBAC](https://habr.com/ru/companies/gitorion/articles/865818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865818)
 - [«Нам нужен дизайн»: как сплотить большую команду на пути к продукту](https://habr.com/ru/companies/alfa/articles/867618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867618)
-- [Будущее облачных технологий: основные направления развития Kubernetes в 2025 году](https://habr.com/ru/companies/dbraincloud/articles/868438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868438)
-- [Создание и использование оберток &lpar;wrappers&rpar; в Java: подробный разбор](https://habr.com/ru/articles/868786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868786)
-- [ZLE — язык программирования без условных операторов и циклов](https://habr.com/ru/articles/868726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
