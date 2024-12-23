@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [WeakMap и WeakSet в JavaScript](https://habr.com/ru/companies/otus/articles/865512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865512)
-- [Самые эффективные метрики в тестировании](https://habr.com/ru/articles/868920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868920)
-- [Цифровизация без сокращений: MES и новая эра управления персоналом](https://habr.com/ru/companies/k2tech/articles/868904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868904)
-- [Автоматизация дилерской сети. Интеграция CRM с 1C и Контур.Фокус помогает следить за финсостоянием дилеров](https://habr.com/ru/companies/1forma/articles/867930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867930)
-- [Секретная акция, или Как выйти за пределы UICollectionView](https://habr.com/ru/companies/dododev/articles/855560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855560)
+- [Управление Xcode симулятором из симулятора](https://habr.com/ru/articles/868846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868846)
+- [[Перевод] От локального сервера к публичному доступу: лучшие инструменты для тоннелей](https://habr.com/ru/articles/868970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868970)
+- [SQL HowTo: регулярки, условная агрегация &lpar;Advent of Code 2024, Day 1: Historian Hysteria&rpar;](https://habr.com/ru/companies/tensor/articles/868964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868964)
+- [Разбор и стандартизация имен, адресов и других типов пользовательских данных в миллионных базах](https://habr.com/ru/companies/hflabs/articles/868062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868062)
+- [От спецификации до производства: как устроена магистратура, где студенты разрабатывают чипы](https://habr.com/ru/companies/yadro/articles/868788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
