@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Металл и алгоритм отжига](https://habr.com/ru/articles/841958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841958)
-- [JavaScript: структуры данных и алгоритмы. Часть 7](https://habr.com/ru/companies/timeweb/articles/856046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856046)
-- [[Перевод] Программа, которая падала на первой команде](https://habr.com/ru/articles/862116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862116)
-- [CI/CD Kubernetes платформа Gitorion. Реестр Docker-образов Harbor c аутентификацией в Keycloak и доступом по ролям RBAC](https://habr.com/ru/companies/gitorion/articles/865818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865818)
-- [«Нам нужен дизайн»: как сплотить большую команду на пути к продукту](https://habr.com/ru/companies/alfa/articles/867618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867618)
+- [Автоматизация дилерской сети. Интеграция CRM с 1C и Контур.Фокус помогает следить за финсостоянием дилеров](https://habr.com/ru/companies/1forma/articles/867930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867930)
+- [Секретная акция, или Как выйти за пределы UICollectionView](https://habr.com/ru/companies/dododev/articles/855560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855560)
+- [Китайские чипы буксуют: Huawei снова выбирает 7-нм](https://habr.com/ru/companies/ru_mts/articles/868876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868876)
+- [Разбираем базу по базам](https://habr.com/ru/companies/bitrix/articles/868852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868852)
+- [Скроллим в темноте: как понять, что продуктом комфортно пользоваться в неудобных условиях](https://habr.com/ru/companies/vk/articles/866116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
