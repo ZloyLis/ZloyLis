@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] История оболочки Bash и чему она нас может научить](https://habr.com/ru/companies/avito/articles/868754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868754)
+- [Как мы дали пользователям возможность работать с данными, не привлекая внимания разработчиков](https://habr.com/ru/companies/ru_mts/articles/860232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860232)
 - [Tarantool CDC. Жизнь данных в гетерогенной среде](https://habr.com/ru/companies/vk/articles/868406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868406)
 - [SQL HowTo: работа с массивами &lpar;Advent of Code 2024, Day 4: Ceres Search&rpar;](https://habr.com/ru/companies/tensor/articles/869026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869026)
 - [[Перевод] Спасите меня из ада данных](https://habr.com/ru/companies/ruvds/articles/868984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868984)
-- [Применение методов искусственного интеллекта в автоматизированном тестировании ПО](https://habr.com/ru/articles/869020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869020)
-- [WhatsApp перестанет поддерживать старые версии Android с 1 января 2025 года](https://habr.com/ru/articles/869014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
