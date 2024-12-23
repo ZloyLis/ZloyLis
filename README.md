@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: Удобство или Угроза? Размышления о Приватности и Вебе](https://habr.com/ru/articles/868794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868794)
 - [Парольная защита статичной HTML-страницы на JS](https://habr.com/ru/companies/globalsign/articles/868780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868780)
 - [Skip List в Golang](https://habr.com/ru/companies/otus/articles/866920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866920)
 - [Мобильная разработка за неделю #569 &lpar;16 — 22 декабря&rpar;](https://habr.com/ru/articles/868750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868750)
 - [iOS-разработчики игнорируют важную системную фичу, и это ломает их приложения](https://habr.com/ru/articles/868698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868698)
-- [Lazarus IDE для аналитика. Приемы работы в современном Free Pascal — 2](https://habr.com/ru/articles/868720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
