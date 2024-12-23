@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [WeakMap и WeakSet в JavaScript](https://habr.com/ru/companies/otus/articles/865512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865512)
+- [Самые эффективные метрики в тестировании](https://habr.com/ru/articles/868920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868920)
+- [Цифровизация без сокращений: MES и новая эра управления персоналом](https://habr.com/ru/companies/k2tech/articles/868904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868904)
 - [Автоматизация дилерской сети. Интеграция CRM с 1C и Контур.Фокус помогает следить за финсостоянием дилеров](https://habr.com/ru/companies/1forma/articles/867930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867930)
 - [Секретная акция, или Как выйти за пределы UICollectionView](https://habr.com/ru/companies/dododev/articles/855560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855560)
-- [Китайские чипы буксуют: Huawei снова выбирает 7-нм](https://habr.com/ru/companies/ru_mts/articles/868876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868876)
-- [Разбираем базу по базам](https://habr.com/ru/companies/bitrix/articles/868852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868852)
-- [Скроллим в темноте: как понять, что продуктом комфортно пользоваться в неудобных условиях](https://habr.com/ru/companies/vk/articles/866116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
