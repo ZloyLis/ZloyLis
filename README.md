@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Kubernetes платформа Gitorion. Реестр Docker-образов Harbor c аутентификацией в Keycloak и доступом по ролям RBAC](https://habr.com/ru/companies/gitorion/articles/865818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865818)
+- [«Нам нужен дизайн»: как сплотить большую команду на пути к продукту](https://habr.com/ru/companies/alfa/articles/867618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867618)
+- [Будущее облачных технологий: основные направления развития Kubernetes в 2025 году](https://habr.com/ru/companies/dbraincloud/articles/868438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868438)
 - [Создание и использование оберток &lpar;wrappers&rpar; в Java: подробный разбор](https://habr.com/ru/articles/868786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868786)
 - [ZLE — язык программирования без условных операторов и циклов](https://habr.com/ru/articles/868726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868726)
-- [JavaScript: Удобство или Угроза? Размышления о Приватности и Вебе](https://habr.com/ru/articles/868794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868794)
-- [Парольная защита статичной HTML-страницы на JS](https://habr.com/ru/companies/globalsign/articles/868780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868780)
-- [Skip List в Golang](https://habr.com/ru/companies/otus/articles/866920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
