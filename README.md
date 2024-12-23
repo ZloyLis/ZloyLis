@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL HowTo: «чистые» регулярки &lpar;Advent of Code 2024, Day 3: Mull It Over&rpar;](https://habr.com/ru/companies/tensor/articles/869004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869004)
-- [SQL HowTo: логические агрегаты &lpar;Advent of Code 2024, Day 2: Red-Nosed Reports&rpar;](https://habr.com/ru/companies/tensor/articles/868982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868982)
-- [Управление Xcode симулятором из симулятора](https://habr.com/ru/articles/868846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868846)
-- [[Перевод] От локального сервера к публичному доступу: лучшие инструменты для тоннелей](https://habr.com/ru/articles/868970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868970)
-- [SQL HowTo: регулярки, условная агрегация &lpar;Advent of Code 2024, Day 1: Historian Hysteria&rpar;](https://habr.com/ru/companies/tensor/articles/868964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868964)
+- [SQL HowTo: работа с массивами &lpar;Advent of Code 2024, Day 4: Ceres Search&rpar;](https://habr.com/ru/companies/tensor/articles/869026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869026)
+- [[Перевод] Спасите меня из ада данных](https://habr.com/ru/companies/ruvds/articles/868984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868984)
+- [Применение методов искусственного интеллекта в автоматизированном тестировании ПО](https://habr.com/ru/articles/869020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869020)
+- [WhatsApp перестанет поддерживать старые версии Android с 1 января](https://habr.com/ru/articles/869014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869014)
+- [Julia и Engee: созданы для параллельных вычислений](https://habr.com/ru/companies/etmc_exponenta/articles/868768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
