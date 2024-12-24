@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: неочевидное и вероятное](https://habr.com/ru/articles/869200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869200)
-- [Как учиться во взрослом возрасте: 7 советов, проверенных на практике](https://habr.com/ru/companies/yandex_praktikum/articles/866982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866982)
-- [Какие тренды в технологиях нас ждут в 2025 году](https://habr.com/ru/companies/usetech/articles/869148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869148)
-- [«Улучшая доступность для одной категории пользователей, вы делаете сервис удобнее для всех»](https://habr.com/ru/articles/869194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869194)
-- [Как мигрировать данные между разными StorageClass в Kubernetes и зачем это делать](https://habr.com/ru/companies/flant/articles/868280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868280)
+- [Как отправлять SMS из NodeMCU &lpar;ESP8266&rpar;](https://habr.com/ru/companies/exolve/articles/869242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869242)
+- [Автогенерация тестов для Java/Kotlin в IntelliJ IDEA: сравнение AI-инструментов](https://habr.com/ru/companies/explyt/articles/869198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869198)
+- [Портативные медицинские приборы из микроконтроллера, датчиков и смартфона](https://habr.com/ru/companies/selectel/articles/868946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868946)
+- [Как выстроить работу команды продуктовых дизайнеров, не привлекая внимания санитаров](https://habr.com/ru/companies/domclick/articles/864868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864868)
+- [Orbit MVI с сахаром: вкусный фреймворк для однородной архитектуры](https://habr.com/ru/companies/ru_mts/articles/868328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
