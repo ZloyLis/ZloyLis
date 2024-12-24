@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие тренды в технологиях нас ждут в 2025 году](https://habr.com/ru/companies/usetech/articles/869148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869148)
+- [«Улучшая доступность для одной категории пользователей, вы делаете сервис удобнее для всех»](https://habr.com/ru/articles/869194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869194)
+- [Как мигрировать данные между разными StorageClass в Kubernetes и зачем это делать](https://habr.com/ru/companies/flant/articles/868280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868280)
 - [Барьеры и модели памяти – explained](https://habr.com/ru/articles/869188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869188)
 - [Security Week 2452: уязвимости в цифровых автомобильных номерах](https://habr.com/ru/companies/kaspersky/articles/868958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868958)
-- [Использование шрифтов с пиктограммами при разработке приложений в Lazarus IDE](https://habr.com/ru/articles/868962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868962)
-- [[Перевод] AI-ассистент с помощью Spring AI](https://habr.com/ru/companies/spring_aio/articles/869080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869080)
-- [Пишем свой PyTorch на NumPy. Часть 1](https://habr.com/ru/articles/869118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
