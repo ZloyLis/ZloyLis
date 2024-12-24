@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гробы на экзаменах в ШАД](https://habr.com/ru/articles/869224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869224)
+- [Fullstack v2: учимся писать UI на Go](https://habr.com/ru/companies/oleg-bunin/articles/865292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865292)
 - [Как отправлять SMS из NodeMCU &lpar;ESP8266&rpar;](https://habr.com/ru/companies/exolve/articles/869242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869242)
 - [Автогенерация тестов для Java/Kotlin в IntelliJ IDEA: сравнение AI-инструментов](https://habr.com/ru/companies/explyt/articles/869198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869198)
 - [Портативные медицинские приборы из микроконтроллера, датчиков и смартфона](https://habr.com/ru/companies/selectel/articles/868946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868946)
-- [Как выстроить работу команды продуктовых дизайнеров, не привлекая внимания санитаров](https://habr.com/ru/companies/domclick/articles/864868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864868)
-- [Orbit MVI с сахаром: вкусный фреймворк для однородной архитектуры](https://habr.com/ru/companies/ru_mts/articles/868328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
