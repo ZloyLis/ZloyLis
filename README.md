@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Деление беззнаковых 8-битных чисел](https://habr.com/ru/articles/869094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869094)
-- [[Перевод] 9 open source библиотек для вашего следующего проекта](https://habr.com/ru/companies/otus/articles/869326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869326)
-- [Как мы построили SIEM для Холдинга «Газпром-Медиа» и научились подключать новые активы к SOC за сутки](https://habr.com/ru/companies/bastion/articles/868466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868466)
-- [Миссия выполнима](https://habr.com/ru/specials/868028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868028)
-- [Гробы на экзаменах в ШАД](https://habr.com/ru/articles/869224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869224)
+- [Инициативы «Гаража». Внутренний портал для коммуникации своими руками](https://habr.com/ru/companies/reksoft/articles/869408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869408)
+- [Как выбрать вкусное вино на основе данных с помощью Luxms BI](https://habr.com/ru/companies/luxms_bi/articles/869382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869382)
+- [Как жить без IntelliJ IDEA? Часть №5. Заключение](https://habr.com/ru/companies/spring_aio/articles/869354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869354)
+- [Как мы добавляли поддержку Apple Silicon в анализатор &lpar;arm64&rpar;](https://habr.com/ru/companies/pvs-studio/articles/869378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869378)
+- [Книга: «Рецепты чистого кода»](https://habr.com/ru/companies/piter/articles/868456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
