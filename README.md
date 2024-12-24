@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность в сети](https://habr.com/ru/companies/nauka/articles/869440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869440)
+- [PostgreSQL — особенности работы с памятью для 1С-систем. Часть 3](https://habr.com/ru/companies/softpoint/articles/869446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869446)
+- [Streamcast про Надежность&lpar;SRE&rpar;](https://habr.com/ru/articles/869444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869444)
 - [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 11](https://habr.com/ru/companies/ruvds/articles/866794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866794)
 - [Подход к автоматизации тестирования CI](https://habr.com/ru/companies/tbank/articles/869410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869410)
-- [Инициативы «Гаража». Внутренний портал для коммуникации своими руками](https://habr.com/ru/companies/reksoft/articles/869408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869408)
-- [Как выбрать вкусное вино на основе данных с помощью Luxms BI](https://habr.com/ru/companies/luxms_bi/articles/869382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869382)
-- [Как жить без IntelliJ IDEA? Часть №5. Заключение](https://habr.com/ru/companies/spring_aio/articles/869354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
