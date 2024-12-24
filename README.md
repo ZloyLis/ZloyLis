@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python: неочевидное и вероятное](https://habr.com/ru/articles/869200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869200)
+- [Как учиться во взрослом возрасте: 7 советов, проверенных на практике](https://habr.com/ru/companies/yandex_praktikum/articles/866982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866982)
 - [Какие тренды в технологиях нас ждут в 2025 году](https://habr.com/ru/companies/usetech/articles/869148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869148)
 - [«Улучшая доступность для одной категории пользователей, вы делаете сервис удобнее для всех»](https://habr.com/ru/articles/869194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869194)
 - [Как мигрировать данные между разными StorageClass в Kubernetes и зачем это делать](https://habr.com/ru/companies/flant/articles/868280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868280)
-- [Барьеры и модели памяти – explained](https://habr.com/ru/articles/869188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869188)
-- [Security Week 2452: уязвимости в цифровых автомобильных номерах](https://habr.com/ru/companies/kaspersky/articles/868958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
