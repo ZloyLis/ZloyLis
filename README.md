@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему Python стал самым востребованным языком в 2024 году](https://habr.com/ru/articles/869482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869482)
 - [Как я разрабатываю конвертер в 2024 &lpar;Frontend часть&rpar;](https://habr.com/ru/articles/869474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869474)
 - [«Негибкие навыки»: Как представления об идеальном программисте могут навредить процессу разработки](https://habr.com/ru/articles/869466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869466)
 - [Безопасность в сети](https://habr.com/ru/companies/nauka/articles/869440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869440)
 - [PostgreSQL — особенности работы с памятью для 1С-систем. Часть 3](https://habr.com/ru/companies/softpoint/articles/869446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869446)
-- [Streamcast про Надежность&lpar;SRE&rpar;](https://habr.com/ru/articles/869444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
