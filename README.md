@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я разрабатываю конвертер в 2024 &lpar;Frontend часть&rpar;](https://habr.com/ru/articles/869474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869474)
+- [«Негибкие навыки»: Как представления об идеальном программисте могут навредить процессу разработки](https://habr.com/ru/articles/869466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869466)
 - [Безопасность в сети](https://habr.com/ru/companies/nauka/articles/869440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869440)
 - [PostgreSQL — особенности работы с памятью для 1С-систем. Часть 3](https://habr.com/ru/companies/softpoint/articles/869446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869446)
 - [Streamcast про Надежность&lpar;SRE&rpar;](https://habr.com/ru/articles/869444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869444)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 11](https://habr.com/ru/companies/ruvds/articles/866794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866794)
-- [Подход к автоматизации тестирования CI](https://habr.com/ru/companies/tbank/articles/869410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
