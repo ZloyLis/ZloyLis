@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2452: уязвимости в цифровых автомобильных номерах](https://habr.com/ru/companies/kaspersky/articles/868958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868958)
 - [Использование шрифтов с пиктограммами при разработке приложений в Lazarus IDE](https://habr.com/ru/articles/868962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868962)
 - [[Перевод] AI-ассистент с помощью Spring AI](https://habr.com/ru/companies/spring_aio/articles/869080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869080)
 - [Пишем свой PyTorch на NumPy. Часть 1](https://habr.com/ru/articles/869118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869118)
 - [[Перевод] История оболочки Bash и чему она нас может научить](https://habr.com/ru/companies/avito/articles/868754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868754)
-- [Как мы дали пользователям возможность работать с данными, не привлекая внимания разработчиков](https://habr.com/ru/companies/ru_mts/articles/860232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=860232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
