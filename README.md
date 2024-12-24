@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 9 open source библиотек для вашего следующего проекта](https://habr.com/ru/companies/otus/articles/869326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869326)
+- [Как мы построили SIEM для Холдинга «Газпром-Медиа» и научились подключать новые активы к SOC за сутки](https://habr.com/ru/companies/bastion/articles/868466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868466)
+- [Миссия выполнима](https://habr.com/ru/specials/868028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868028)
 - [Гробы на экзаменах в ШАД](https://habr.com/ru/articles/869224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869224)
 - [Fullstack v2: учимся писать UI на Go](https://habr.com/ru/companies/oleg-bunin/articles/865292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865292)
-- [Как отправлять SMS из NodeMCU &lpar;ESP8266&rpar;](https://habr.com/ru/companies/exolve/articles/869242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869242)
-- [Автогенерация тестов для Java/Kotlin в IntelliJ IDEA: сравнение AI-инструментов](https://habr.com/ru/companies/explyt/articles/869198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869198)
-- [Портативные медицинские приборы из микроконтроллера, датчиков и смартфона](https://habr.com/ru/companies/selectel/articles/868946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
