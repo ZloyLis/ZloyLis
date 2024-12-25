@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot, AspectJ. Введение в аспектно-ориентированное программирование](https://habr.com/ru/companies/beeline_cloud/articles/869602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869602)
-- [Код кодом, а митап по расписанию](https://habr.com/ru/articles/869514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869514)
-- [[Перевод] Оператор LinkedIn для stateful-приложений в Kubernetes](https://habr.com/ru/companies/flant/articles/868860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868860)
-- [Пишем свой PyTorch на NumPy. Часть 2. Добавляем новые слои](https://habr.com/ru/articles/869520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869520)
-- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой &lpar;Aiogram 3 + SQLAlchemy 2&rpar;](https://habr.com/ru/companies/amvera/articles/869136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869136)
+- [POSTGRES EXPLAIN](https://habr.com/ru/companies/spectr/articles/869472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869472)
+- [Как обновить библиотеку и утонуть в задаче. Обновление Roslyn и PVS-Studio 7.34](https://habr.com/ru/companies/pvs-studio/articles/869636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869636)
+- [Модель числа I. Нахождение инволюции](https://habr.com/ru/articles/869006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869006)
+- [о3 теснит программистов? Как OpenAI снова всех удивила](https://habr.com/ru/companies/lanit/articles/869614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869614)
+- [Через тернии к Омни. Эпизод 1. Вместо предисловия](https://habr.com/ru/companies/vtb/articles/863372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
