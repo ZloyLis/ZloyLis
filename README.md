@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сравнение архитектур Service Mesh и Ambient Mesh: новый взгляд на Istio](https://habr.com/ru/articles/869630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869630)
-- [SQL HowTo: поиск в словаре и массивах, сортировка «пузырьком» &lpar;Advent of Code 2024, Day 5: Print Queue&rpar;](https://habr.com/ru/companies/tensor/articles/869654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869654)
-- [Как, имея более 200 методов HTTP, смэтчить их с тем, в какие сервисы они ходят](https://habr.com/ru/companies/ozontech/articles/867630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867630)
-- [Техника безопасности при запуске крупной фичи: баланс между быстрыми метриками и прыжком веры](https://habr.com/ru/companies/vk/articles/867054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867054)
-- [Как работать с потоками в JavaScript: оптимизация асинхронных запросов](https://habr.com/ru/companies/ibs/articles/869624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869624)
+- [[Перевод] Решение Advent of Code на этапе компиляции с использованием макросов Rust](https://habr.com/ru/companies/beget/articles/869716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869716)
+- [Firezone, или как спрятать свою инфраструктуру от посторонних глаз](https://habr.com/ru/companies/kts/articles/869704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869704)
+- [[Перевод] Бенчмарки JavaScript — это полный хаос](https://habr.com/ru/articles/869666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869666)
+- [Итоги года команды «кодИИм»](https://habr.com/ru/articles/869702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869702)
+- [Интервью с Егором Денисовым-Бланчем: кто такие «инженеры-призраки» и как с ними бороться](https://habr.com/ru/articles/869694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
