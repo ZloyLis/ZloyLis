@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Оператор LinkedIn для stateful-приложений в Kubernetes](https://habr.com/ru/companies/flant/articles/868860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868860)
+- [Пишем свой PyTorch на NumPy. Часть 2. Добавляем новые слои](https://habr.com/ru/articles/869520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869520)
+- [Какие тренды в технологиях нас ждут в 2025 году](https://habr.com/ru/companies/usetech/articles/869146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869146)
+- [Telegram-бот-магазин на Python: пошаговый гайд с оплатой, каталогом и админкой &lpar;Aiogram 3 + SQLAlchemy 2&rpar;](https://habr.com/ru/companies/amvera/articles/869136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869136)
 - [[Перевод] Как избегать типичных ошибок при встраивании ассемблерных вставок: подборка правил](https://habr.com/ru/articles/869544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869544)
-- [[Перевод] SwiftUI: Всё, что вам нужно знать о модификаторе containerRelativeFrame &lpar;и немного больше&rpar;](https://habr.com/ru/companies/otus/articles/869346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869346)
-- [Почему Python стал самым востребованным языком в 2024 году](https://habr.com/ru/articles/869482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869482)
-- [Как я разрабатываю конвертер в 2024 &lpar;Frontend часть&rpar;](https://habr.com/ru/articles/869474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869474)
-- [«Негибкие навыки»: Как представления об идеальном программисте могут навредить процессу разработки](https://habr.com/ru/articles/869466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
