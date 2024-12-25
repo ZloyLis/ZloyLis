@@ -38,8 +38,8 @@ ___
 - [K8s кластер на базе Talos в OpenStack](https://habr.com/ru/companies/amvera/articles/867094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867094)
 - [Одна опция TCP-стека спасет приложение от даунтайма](https://habr.com/ru/companies/ispring/articles/869800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869800)
 - [Как нанимать студентов и выпускников любых вузов?](https://habr.com/ru/articles/869774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869774)
-- [Бабкин внук и кот в лотке | Как не потерять работу на этапе собеседования №1](https://habr.com/ru/articles/869728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869728)
 - [Белый Прямоугольник &lpar;классическая задачка вместо приветствия&rpar;](https://habr.com/ru/companies/codeabbey/articles/869720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869720)
+- [[Перевод] Решение Advent of Code на этапе компиляции с использованием макросов Rust](https://habr.com/ru/companies/beget/articles/869716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
