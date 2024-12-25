@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL HowTo: поиск в словаре и массивах, сортировка «пузырьком» &lpar;Advent of Code 2024, Day 5: Print Queue&rpar;](https://habr.com/ru/companies/tensor/articles/869654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869654)
+- [Как, имея более 200 методов HTTP, смэтчить их с тем, в какие сервисы они ходят](https://habr.com/ru/companies/ozontech/articles/867630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867630)
+- [Техника безопасности при запуске крупной фичи: баланс между быстрыми метриками и прыжком веры](https://habr.com/ru/companies/vk/articles/867054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867054)
+- [Как работать с потоками в JavaScript: оптимизация асинхронных запросов](https://habr.com/ru/companies/ibs/articles/869624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869624)
 - [POSTGRES EXPLAIN](https://habr.com/ru/companies/spectr/articles/869472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869472)
-- [Как обновить библиотеку и утонуть в задаче. Обновление Roslyn и PVS-Studio 7.34](https://habr.com/ru/companies/pvs-studio/articles/869636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869636)
-- [Модель числа I. Нахождение инволюции](https://habr.com/ru/articles/869006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869006)
-- [о3 теснит программистов? Как OpenAI снова всех удивила](https://habr.com/ru/companies/lanit/articles/869614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869614)
-- [Через тернии к Омни. Эпизод 1. Вместо предисловия](https://habr.com/ru/companies/vtb/articles/863372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=863372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
