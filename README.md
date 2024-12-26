@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вы всё ещё устанавливаете display:none по таймауту? Тогда мы идём к вам](https://habr.com/ru/articles/870172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870172)
+- [Давайте договоримся о тех.долге](https://habr.com/ru/articles/870164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870164)
 - [Как за 10 минут создать тестировщик нагрузки для API на Node.js](https://habr.com/ru/articles/870154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870154)
-- [Как приготовить обфускацию в JavaScript и не сжечь лабараторию: AST, babel, плагины](https://habr.com/ru/articles/870152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870152)
+- [Как приготовить обфускацию в JavaScript и не сжечь лабораторию: AST, babel, плагины](https://habr.com/ru/articles/870152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870152)
 - [Продуктовый код vs олимпиадный код](https://habr.com/ru/articles/870150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870150)
-- [Рыбка-советник для chess.com](https://habr.com/ru/articles/870140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870140)
-- [В Испании все программисты сеньоры](https://habr.com/ru/articles/870144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
