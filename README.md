@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как AI помогает студентам придумывать инновационные проекты? Образовательный эксперимент МФТИ](https://habr.com/ru/articles/870048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870048)
 - [Безболезненная миграция с NATS на Kafka](https://habr.com/ru/articles/870018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870018)
 - [bufio в Go](https://habr.com/ru/companies/otus/articles/868658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868658)
 - [Как мы делаем Кинопоиск доступнее. SDH и тифлокомментирование](https://habr.com/ru/articles/869986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869986)
 - [Опыт Звука: как реализовать рекомендательную систему аудиокниг с использованием больших языковых моделей &lpar;LLM&rpar;](https://habr.com/ru/companies/zvuk/articles/869664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869664)
-- [[Перевод] React useCallback&lpar;&rpar; — полное руководство](https://habr.com/ru/companies/spectr/articles/869806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
