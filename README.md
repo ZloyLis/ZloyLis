@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как за 10 минут создать тестировщик нагрузки для API на Node.js](https://habr.com/ru/articles/870154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870154)
+- [Как приготовить обфускацию в JavaScript и не сжечь лабараторию: AST, babel, плагины](https://habr.com/ru/articles/870152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870152)
+- [Продуктовый код vs олимпиадный код](https://habr.com/ru/articles/870150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870150)
 - [Рыбка-советник для chess.com](https://habr.com/ru/articles/870140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870140)
 - [В Испании все программисты сеньоры](https://habr.com/ru/articles/870144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870144)
-- [Можно ли тестировать одновременно всё? Многовариантное и многомерное A/B-тестирование: основы](https://habr.com/ru/companies/otus/articles/868828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868828)
-- [Секреты в Java-сервисах на Spring: где брать и как обновлять](https://habr.com/ru/companies/sberbank/articles/870116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870116)
-- [ИИ-агенты: от теории к практике](https://habr.com/ru/articles/864646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
