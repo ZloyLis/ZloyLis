@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безболезненная миграция с NATS на Kafka](https://habr.com/ru/articles/870018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870018)
+- [bufio в Go](https://habr.com/ru/companies/otus/articles/868658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868658)
 - [Как мы делаем Кинопоиск доступнее. SDH и тифлокомментирование](https://habr.com/ru/articles/869986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869986)
 - [Опыт Звука: как реализовать рекомендательную систему аудиокниг с использованием больших языковых моделей &lpar;LLM&rpar;](https://habr.com/ru/companies/zvuk/articles/869664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869664)
 - [[Перевод] React useCallback&lpar;&rpar; — полное руководство](https://habr.com/ru/companies/spectr/articles/869806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869806)
-- [Секреты в Java-сервисах на Spring: где брать и как обновлять](https://habr.com/ru/companies/sberbank/articles/869932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869932)
-- [Создаем систему напоминаний о приёме лекарств](https://habr.com/ru/companies/exolve/articles/869928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
