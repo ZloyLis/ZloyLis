@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы делаем Кинопоиск доступнее. SDH и тифлокомментирование](https://habr.com/ru/articles/869986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869986)
+- [Опыт Звука: как реализовать рекомендательную систему аудиокниг с использованием больших языковых моделей &lpar;LLM&rpar;](https://habr.com/ru/companies/zvuk/articles/869664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869664)
+- [[Перевод] React useCallback&lpar;&rpar; — полное руководство](https://habr.com/ru/companies/spectr/articles/869806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869806)
 - [Секреты в Java-сервисах на Spring: где брать и как обновлять](https://habr.com/ru/companies/sberbank/articles/869932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869932)
 - [Создаем систему напоминаний о приёме лекарств](https://habr.com/ru/companies/exolve/articles/869928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869928)
-- [[Перевод] Flutter 3.27 — Что нового во Flutter?](https://habr.com/ru/articles/869906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869906)
-- [Разделение ответственности между QA-инженером и разработчиком в Scrum-команде](https://habr.com/ru/companies/avito/articles/869782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869782)
-- [10 самых интересных ошибок в Java проектах за 2024 год](https://habr.com/ru/companies/pvs-studio/articles/869920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
