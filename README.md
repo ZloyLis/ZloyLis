@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасная миграция данных из Vault одной командой](https://habr.com/ru/companies/flant/articles/869290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869290)
 - [Параллелизм может быть только 1](https://habr.com/ru/articles/869856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869856)
 - [[Перевод] lvalues, rvalues, glvalues, prvalues, xvalues, помогите! -](https://habr.com/ru/articles/869854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869854)
 - [Строим CDN для медиа-трафика или экономим трафик при помощи WebRTC P2P mesh](https://habr.com/ru/articles/869846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869846)
 - [Старый добрый серверный рендеринг](https://habr.com/ru/articles/869844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869844)
-- [K8s кластер на базе Talos в OpenStack](https://habr.com/ru/companies/amvera/articles/867094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
