@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Секреты в Java-сервисах на Spring: где брать и как обновлять](https://habr.com/ru/companies/sberbank/articles/870116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870116)
+- [ИИ-агенты: от теории к практике](https://habr.com/ru/articles/864646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864646)
 - [Как генерация тестовых данных вернула доверие к тестам](https://habr.com/ru/companies/2gis/articles/868942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868942)
 - [GraphQL для C#. БД прилагается](https://habr.com/ru/articles/870082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870082)
 - [Краткая история WWW от фронтенд-разработчика](https://habr.com/ru/companies/pgk/articles/869646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869646)
-- [Apple Pro Weekly News &lpar;16.12 – 22.12.24&rpar;](https://habr.com/ru/articles/869558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869558)
-- [SQL HowTo: рекурсивные циклы и их контроль &lpar;Advent of Code 2024, Day 6: Guard Gallivant&rpar;](https://habr.com/ru/companies/tensor/articles/869982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
