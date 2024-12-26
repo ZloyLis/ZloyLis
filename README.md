@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Параллелизм может быть только 1](https://habr.com/ru/articles/869856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869856)
+- [[Перевод] lvalues, rvalues, glvalues, prvalues, xvalues, помогите! -](https://habr.com/ru/articles/869854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869854)
 - [Строим CDN для медиа-трафика или экономим трафик при помощи WebRTC P2P mesh](https://habr.com/ru/articles/869846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869846)
 - [Старый добрый серверный рендеринг](https://habr.com/ru/articles/869844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869844)
 - [K8s кластер на базе Talos в OpenStack](https://habr.com/ru/companies/amvera/articles/867094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867094)
-- [Одна опция TCP-стека спасет приложение от даунтайма](https://habr.com/ru/companies/ispring/articles/869800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869800)
-- [Как нанимать студентов и выпускников любых вузов?](https://habr.com/ru/articles/869774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
