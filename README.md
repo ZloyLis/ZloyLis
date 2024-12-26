@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как AI помогает студентам придумывать инновационные проекты? Образовательный эксперимент МФТИ](https://habr.com/ru/articles/870048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870048)
-- [Безболезненная миграция с NATS на Kafka](https://habr.com/ru/articles/870018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870018)
-- [bufio в Go](https://habr.com/ru/companies/otus/articles/868658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868658)
-- [Как мы делаем Кинопоиск доступнее. SDH и тифлокомментирование](https://habr.com/ru/articles/869986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869986)
-- [Опыт Звука: как реализовать рекомендательную систему аудиокниг с использованием больших языковых моделей &lpar;LLM&rpar;](https://habr.com/ru/companies/zvuk/articles/869664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869664)
+- [Краткая история WWW от фронтенд-разработчика](https://habr.com/ru/companies/pgk/articles/869646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869646)
+- [Apple Pro Weekly News &lpar;16.12 – 22.12.24&rpar;](https://habr.com/ru/articles/869558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869558)
+- [SQL HowTo: рекурсивные циклы и их контроль &lpar;Advent of Code 2024, Day 6: Guard Gallivant&rpar;](https://habr.com/ru/companies/tensor/articles/869982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869982)
+- [Surf-итоги кода: Flutter, Android и iOS в 2024-м](https://habr.com/ru/companies/surfstudio/articles/870058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870058)
+- [Оптимизация под контролем: инструменты и метрики для Аndroid-приложений](https://habr.com/ru/companies/vk/articles/869904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
