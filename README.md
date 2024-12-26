@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рыбка-советник для chess.com](https://habr.com/ru/articles/870140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870140)
+- [В Испании все программисты сеньоры](https://habr.com/ru/articles/870144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870144)
+- [Можно ли тестировать одновременно всё? Многовариантное и многомерное A/B-тестирование: основы](https://habr.com/ru/companies/otus/articles/868828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868828)
 - [Секреты в Java-сервисах на Spring: где брать и как обновлять](https://habr.com/ru/companies/sberbank/articles/870116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870116)
 - [ИИ-агенты: от теории к практике](https://habr.com/ru/articles/864646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864646)
-- [Как генерация тестовых данных вернула доверие к тестам](https://habr.com/ru/companies/2gis/articles/868942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868942)
-- [GraphQL для C#. БД прилагается](https://habr.com/ru/articles/870082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870082)
-- [Краткая история WWW от фронтенд-разработчика](https://habr.com/ru/companies/pgk/articles/869646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
