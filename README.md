@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разделение ответственности между QA-инженером и разработчиком в Scrum-команде](https://habr.com/ru/companies/avito/articles/869782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869782)
+- [10 самых интересных ошибок в Java проектах за 2024 год](https://habr.com/ru/companies/pvs-studio/articles/869920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869920)
+- [Разработка плагина для Android Studio](https://habr.com/ru/companies/domclick/articles/867018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867018)
+- [Как проводить сложные исследования в Google Таблицах и Excel? Работаем с формулой QUERY](https://habr.com/ru/companies/selectel/articles/869732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869732)
 - [Базовая настройка SAST и DAST для django в gitlab cicd: как быстро внедрить решения по безопасности](https://habr.com/ru/companies/idaproject/articles/868060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868060)
-- [Артефакт из прошлого на службе настоящего или как я подключал радиолампу к «Умному дому»](https://habr.com/ru/companies/timeweb/articles/869180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869180)
-- [Стандарты описания API для системных аналитиков](https://habr.com/ru/articles/869892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869892)
-- [Через тернии к Омни. Эпизод 2. Откуда пошла Омниканальная платформа](https://habr.com/ru/companies/vtb/articles/866436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866436)
-- [Как ИИ-ассистенты меняют правила игры в разработке ПО — на примере Cursor](https://habr.com/ru/companies/inferit/articles/869880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
