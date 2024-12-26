@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Секреты в Java-сервисах на Spring: где брать и как обновлять](https://habr.com/ru/companies/sberbank/articles/869932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869932)
+- [Создаем систему напоминаний о приёме лекарств](https://habr.com/ru/companies/exolve/articles/869928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869928)
+- [[Перевод] Flutter 3.27 — Что нового во Flutter?](https://habr.com/ru/articles/869906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869906)
 - [Разделение ответственности между QA-инженером и разработчиком в Scrum-команде](https://habr.com/ru/companies/avito/articles/869782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869782)
 - [10 самых интересных ошибок в Java проектах за 2024 год](https://habr.com/ru/companies/pvs-studio/articles/869920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869920)
-- [Разработка плагина для Android Studio](https://habr.com/ru/companies/domclick/articles/867018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867018)
-- [Как проводить сложные исследования в Google Таблицах и Excel? Работаем с формулой QUERY](https://habr.com/ru/companies/selectel/articles/869732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869732)
-- [Базовая настройка SAST и DAST для django в gitlab cicd: как быстро внедрить решения по безопасности](https://habr.com/ru/companies/idaproject/articles/868060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
