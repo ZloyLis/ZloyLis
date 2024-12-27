@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы писали капчу с нуля, добавляли инклюзию, и причём тут легаси-код](https://habr.com/ru/companies/vk/articles/869776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869776)
+- [Паттерн Data Mapper на котиках: Практическое руководство от разработчика, который не боится мурлыкать](https://habr.com/ru/companies/otus/articles/868588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868588)
+- [Блиц по знаковым релизам 2024: новогодний дайджест](https://habr.com/ru/companies/timeweb/articles/870384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870384)
 - [Заводить ли личный блог или сайт? Часть I. Готовим инфраструктуру c помощью Terraform](https://habr.com/ru/articles/870366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870366)
 - [[Перевод] Эффект скрэтч-карты в Jetpack Compose](https://habr.com/ru/articles/866426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866426)
-- [Реализация Peer-to-Peer сетей на Rust: создание протокола обмена файлами с помощью libp2p](https://habr.com/ru/companies/otus/articles/868512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868512)
-- [Как мы учили немонохромные SVG-логотипы краситься самостоятельно](https://habr.com/ru/companies/tochka/articles/865078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865078)
-- [Один год с GraphQL: как технология работает на длинной дистанции?](https://habr.com/ru/companies/sravni/articles/870030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
