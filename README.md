@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Гипотеза Коллатца как фейл мировой математики](https://habr.com/ru/articles/870220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870220)
-- [Почему ваш мозг нуждается в «даунтайме»: история одного разработчика](https://habr.com/ru/articles/870182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870182)
-- [Вы всё ещё устанавливаете display:none по таймауту? Тогда мы идём к вам](https://habr.com/ru/articles/870172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870172)
-- [Давайте договоримся о тех.долге](https://habr.com/ru/articles/870164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870164)
-- [Как за 10 минут создать тестировщик нагрузки для API на Node.js](https://habr.com/ru/articles/870154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870154)
+- [Уходит ли React от SPA?](https://habr.com/ru/articles/870240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870240)
+- [PostgreSQL в «Тензоре» — публикации за год &lpar;#5&rpar;](https://habr.com/ru/companies/tensor/articles/870222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870222)
+- [Интеграция CSS-фреймворков в Angular: советы, которые вы не знали](https://habr.com/ru/articles/870192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870192)
+- [useActionState: новый герой в мире React](https://habr.com/ru/articles/870216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870216)
+- [5 задач на взлом шифров](https://habr.com/ru/companies/codeabbey/articles/870230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
