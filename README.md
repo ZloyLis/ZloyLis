@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы учили немонохромные SVG-логотипы краситься самостоятельно](https://habr.com/ru/companies/tochka/articles/865078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865078)
+- [Один год с GraphQL: как технология работает на длинной дистанции?](https://habr.com/ru/companies/sravni/articles/870030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870030)
+- [13 друзей айтишника: кто был бы спикером на Конференции мечты 2025 для хабравчан](https://habr.com/ru/specials/868498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868498)
 - [Polars vs Pandas: битва титанов. Кто кого?](https://habr.com/ru/companies/ru_mts/articles/870266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870266)
 - [Через тернии к Омни. Эпизод 3. Цифровая трансформация: как она проявляется в ИТ](https://habr.com/ru/companies/vtb/articles/866446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866446)
-- [ОМК — когда у нас стало за 80 тысяч лицензий на софт, учитывать в тетрадке стало сложно](https://habr.com/ru/companies/omk-it/articles/870242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870242)
-- [Пять элементов Inference-платформы Selectel. Как мы сделали своего Аватара](https://habr.com/ru/companies/selectel/articles/867972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867972)
-- [Дизайн за 5 минут. Дайджест декабря 2024](https://habr.com/ru/companies/garage8/articles/870248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
