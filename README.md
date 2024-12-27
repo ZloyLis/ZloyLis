@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Уходит ли React от SPA?](https://habr.com/ru/articles/870240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870240)
-- [PostgreSQL в «Тензоре» — публикации за год &lpar;#5&rpar;](https://habr.com/ru/companies/tensor/articles/870222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870222)
-- [Интеграция CSS-фреймворков в Angular: советы, которые вы не знали](https://habr.com/ru/articles/870192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870192)
-- [useActionState: новый герой в мире React](https://habr.com/ru/articles/870216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870216)
-- [5 задач на взлом шифров](https://habr.com/ru/companies/codeabbey/articles/870230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870230)
+- [Через тернии к Омни. Эпизод 3. Цифровая трансформация: как она проявляется в ИТ](https://habr.com/ru/companies/vtb/articles/866446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866446)
+- [ОМК — когда у нас стало за 80 тысяч лицензий на софт, учитывать в тетрадке стало сложно](https://habr.com/ru/companies/omk-it/articles/870242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870242)
+- [Пять элементов Inference-платформы Selectel. Как мы сделали своего Аватара](https://habr.com/ru/companies/selectel/articles/867972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867972)
+- [Дизайн за 5 минут. Дайджест декабря 2024](https://habr.com/ru/companies/garage8/articles/870248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870248)
+- [[Перевод] Хитрости для программистов: пять команд Linux, с которыми ваша жизнь не будет прежней](https://habr.com/ru/companies/netologyru/articles/870148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
