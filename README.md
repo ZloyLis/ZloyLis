@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Порты в веб-разработке: от локальной разработки до продакшена](https://habr.com/ru/articles/870658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870658)
+- [Как я вырастил себе стажеров, или мой опыт работы в Школе бэкенда](https://habr.com/ru/companies/psb/articles/870656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870656)
 - [Составить договор на разработку ПО – задача со звездочкой: показываю, на что обратить внимание](https://habr.com/ru/articles/870642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870642)
 - [[Перевод] Как линейная алгебра помогла мне в разработке интерактивного редактора диаграмм](https://habr.com/ru/articles/870462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870462)
 - [[Перевод] Оптимизация кольцевого буфера для повышения пропускной способности](https://habr.com/ru/companies/timeweb/articles/870604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870604)
-- [Модули CSS раскладки — что такое и как готовить](https://habr.com/ru/companies/x5digital/articles/870602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
