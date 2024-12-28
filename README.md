@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Построение динамических запросов к базе данных с использованием Spring Data JPA Specifications](https://habr.com/ru/articles/870698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870698)
+- [Кастомизация в Luxms BI: программируем под свои желания](https://habr.com/ru/companies/luxms_bi/articles/870684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870684)
 - [Архитектура фронтенд-приложений на React. &lpar;Нам не нужен FSD&rpar;](https://habr.com/ru/companies/doubletapp/articles/870236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870236)
 - [Порты в веб-разработке: от локальной разработки до продакшена](https://habr.com/ru/articles/870658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870658)
 - [Как я вырастил себе стажеров, или мой опыт работы в Школе бэкенда](https://habr.com/ru/companies/psb/articles/870656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870656)
-- [Составить договор на разработку ПО – задача со звездочкой: показываю, на что обратить внимание](https://habr.com/ru/articles/870642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870642)
-- [[Перевод] Как линейная алгебра помогла мне в разработке интерактивного редактора диаграмм](https://habr.com/ru/articles/870462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
