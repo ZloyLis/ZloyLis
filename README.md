@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контекстные бандиты в ценообразовании](https://habr.com/ru/companies/X5Tech/articles/870012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870012)
 - [«Разработка требований» Вигерса: самый короткий конспект](https://habr.com/ru/articles/870572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870572)
 - [Судный день: топ-10 ошибок в C и C++ проектах за 2024 год](https://habr.com/ru/companies/pvs-studio/articles/870566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870566)
 - [Через тернии к Омни. Эпизод 4. Омниплатформа. Схема принципиальная, электрическая](https://habr.com/ru/companies/vtb/articles/866454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866454)
 - [Полезные советы от Joy Dev: как правильно зарелизиться в сторе](https://habr.com/ru/articles/870554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870554)
-- [Репортаж про финал II Чемпионата и II Первенства России по спортивному программированию](https://habr.com/ru/articles/870470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
