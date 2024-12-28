@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Порты в веб-разработке: от локальной разработки до продакшена](https://habr.com/ru/articles/870658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870658)
+- [Составить договор на разработку ПО – задача со звездочкой: показываю, на что обратить внимание](https://habr.com/ru/articles/870642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870642)
+- [[Перевод] Как линейная алгебра помогла мне в разработке интерактивного редактора диаграмм](https://habr.com/ru/articles/870462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870462)
 - [[Перевод] Оптимизация кольцевого буфера для повышения пропускной способности](https://habr.com/ru/companies/timeweb/articles/870604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870604)
 - [Модули CSS раскладки — что такое и как готовить](https://habr.com/ru/companies/x5digital/articles/870602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870602)
-- [Scala Digest. Выпуск 24](https://habr.com/ru/companies/tbank/articles/870380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870380)
-- [Контекстные бандиты в ценообразовании](https://habr.com/ru/companies/X5Tech/articles/870012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870012)
-- [«Разработка требований» Вигерса: самый короткий конспект](https://habr.com/ru/articles/870572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
