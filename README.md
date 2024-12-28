@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Используем всю мощь JavaScript для написания счётчика. Разбор от Олега Иванова, фронтенд-разработчика WMT Group](https://habr.com/ru/articles/870538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870538)
+- [Как сделать оплату в Telegram боте-магазине на вебхуках](https://habr.com/ru/companies/amvera/articles/870414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870414)
 - [Гайд для школьников программистов](https://habr.com/ru/articles/870500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870500)
 - [Mapping классов с помощью плагина MapCraft в Android Studio](https://habr.com/ru/articles/870498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870498)
 - [Как Python исключения обрабатывает](https://habr.com/ru/articles/870444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870444)
-- [Пишем свой PyTorch на NumPy. Часть 3. Строим граф вычислений](https://habr.com/ru/articles/870426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870426)
-- [Как быть 3D Артисту в 2020-х. Глава 1. Мышление и подход к работе](https://habr.com/ru/articles/870418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
