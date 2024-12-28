@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Разработка требований» Вигерса: самый короткий конспект](https://habr.com/ru/articles/870572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870572)
+- [Судный день: топ-10 ошибок в C и C++ проектах за 2024 год](https://habr.com/ru/companies/pvs-studio/articles/870566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870566)
+- [Через тернии к Омни. Эпизод 4. Омниплатформа. Схема принципиальная, электрическая](https://habr.com/ru/companies/vtb/articles/866454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866454)
 - [Полезные советы от Joy Dev: как правильно зарелизиться в сторе](https://habr.com/ru/articles/870554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870554)
 - [Репортаж про финал II Чемпионата и II Первенства России по спортивному программированию](https://habr.com/ru/articles/870470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870470)
-- [Пишем свой PyTorch на NumPy. ФИНАЛ. Запускаем GPT-2](https://habr.com/ru/articles/870504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870504)
-- [Кошмар работы с *.docx файлами на Java посредством класса XWPFDocument из API Apache POI](https://habr.com/ru/articles/870544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870544)
-- [Используем всю мощь JavaScript для написания счётчика. Разбор от Олега Иванова, фронтенд-разработчика WMT Group](https://habr.com/ru/articles/870538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
