@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter звонки на ios](https://habr.com/ru/articles/870760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870760)
 - [Оптимизация React-приложений: Используем useTransition, useDeferredValue и useOptimistic для плавного UI](https://habr.com/ru/articles/870748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870748)
 - [Как превратить свой пет проект из хобби в карьеру](https://habr.com/ru/articles/870754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870754)
 - [«Непонятки» в изучении программирования](https://habr.com/ru/articles/870576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870576)
 - [Postgresso за 2024](https://habr.com/ru/companies/postgrespro/articles/870098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870098)
-- [Чистая архитектура фронтенд приложений. Часть вторая](https://habr.com/ru/articles/870710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
