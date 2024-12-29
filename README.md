@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему важно проверять response.ok в Fetch API и почему HTTP-ошибки не вызывают отклонение промисов](https://habr.com/ru/articles/870774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870774)
+- [OpenAI удивляет марафоном релизов, Google выпускает прорывной квантовый чип: главные события декабря в сфере ИИ](https://habr.com/ru/companies/magnus-tech/articles/867760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867760)
 - [Flutter звонки на ios](https://habr.com/ru/articles/870760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870760)
 - [Оптимизация React-приложений: Используем useTransition, useDeferredValue и useOptimistic для плавного UI](https://habr.com/ru/articles/870748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870748)
 - [Как превратить свой пет проект из хобби в карьеру](https://habr.com/ru/articles/870754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870754)
-- [«Непонятки» в изучении программирования](https://habr.com/ru/articles/870576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870576)
-- [Postgresso за 2024](https://habr.com/ru/companies/postgrespro/articles/870098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
