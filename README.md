@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм перевода видео/аудио с любого языка на любой язык в 10 шагов](https://habr.com/ru/articles/870670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870670)
 - [[Перевод] Бюджетный квадрокоптер на базе ESP32 своими руками](https://habr.com/ru/companies/ruvds/articles/870258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870258)
 - [Почему важно проверять response.ok в Fetch API и почему HTTP-ошибки не вызывают отклонение промисов](https://habr.com/ru/articles/870774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870774)
 - [OpenAI удивляет марафоном релизов, Google выпускает прорывной квантовый чип: главные события декабря в сфере ИИ](https://habr.com/ru/companies/magnus-tech/articles/867760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867760)
 - [Flutter звонки на ios](https://habr.com/ru/articles/870760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870760)
-- [Оптимизация React-приложений: Используем useTransition, useDeferredValue и useOptimistic для плавного UI](https://habr.com/ru/articles/870748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
