@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Непонятки» в изучении программирования](https://habr.com/ru/articles/870576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870576)
 - [Postgresso за 2024](https://habr.com/ru/companies/postgrespro/articles/870098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870098)
 - [Чистая архитектура фронтенд приложений. Часть вторая](https://habr.com/ru/articles/870710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870710)
 - [Factorio и Obsidian](https://habr.com/ru/articles/870726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870726)
 - [Чем занимаются дата-сайентисты в Авито — полный разбор](https://habr.com/ru/companies/avito/articles/870672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870672)
-- [Построение динамических запросов к базе данных с использованием Spring Data JPA Specifications](https://habr.com/ru/articles/870698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
