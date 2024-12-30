@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование embed-видео на веб-странице простыми словами](https://habr.com/ru/articles/870940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870940)
 - [[Перевод] Поиск изображений по тексту с Manticore Search](https://habr.com/ru/articles/870782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870782)
 - [Пишем свои диагностические правила для анализатора Svace](https://habr.com/ru/companies/ncloudtech/articles/870618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870618)
 - [CAP-n-Coq. Часть 1. Определения CAP-теоремы](https://habr.com/ru/articles/870864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870864)
 - [Изоляция процессов и минимизация привилегий: использование Linux namespaces и seccomp](https://habr.com/ru/companies/selectel/articles/866942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866942)
-- [Kafka Streams ч5: настройка окон, работа с задержанными событиями и suppression](https://habr.com/ru/articles/870784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
