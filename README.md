@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Streams ч5: настройка окон, работа с задержанными событиями и suppression](https://habr.com/ru/articles/870784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870784)
+- [Работаем с асинхронностью в Nuxt 3: сравниваем хуки из коробки и кастомный fetch](https://habr.com/ru/companies/lamoda/articles/868044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868044)
 - [Векторная графика на форме при разработке приложений в Lazarus IDE](https://habr.com/ru/articles/870776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870776)
 - [Следим за Telegram по-деловому](https://habr.com/ru/articles/870868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870868)
 - [Конвертация даты по временной зоне пользователя в «NestJS», а также ввод и отображение даты в «Angular»](https://habr.com/ru/articles/870854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870854)
-- [[Перевод] ​Как создать собственное расширение компилятора C++](https://habr.com/ru/articles/870840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870840)
-- [Алгоритм перевода видео/аудио с любого языка на любой язык в 10 шагов](https://habr.com/ru/articles/870670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
