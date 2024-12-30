@@ -39,7 +39,7 @@ ___
 - [Тестирование embed-видео на веб-странице простыми словами](https://habr.com/ru/articles/870940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870940)
 - [[Перевод] Поиск изображений по тексту с Manticore Search](https://habr.com/ru/articles/870782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870782)
 - [Пишем свои диагностические правила для анализатора Svace](https://habr.com/ru/companies/ncloudtech/articles/870618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870618)
-- [CAP-n-Coq. Часть 1. Определения CAP-теоремы](https://habr.com/ru/articles/870864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870864)
+- [Ошибка в CAP-теореме. Coq, помоги…](https://habr.com/ru/articles/870864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
