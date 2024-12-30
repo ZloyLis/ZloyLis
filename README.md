@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конец года — новые баги с датами](https://habr.com/ru/articles/870994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870994)
+- [Создание REST API с NestJS и TypeORM](https://habr.com/ru/articles/870988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870988)
 - [Vue 3 под капотом и тонкости Composition API: Reactivity, Provide/Inject, Suspense](https://habr.com/ru/articles/870986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870986)
 - [CAP, Coq и Евклид](https://habr.com/ru/articles/870936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870936)
 - [Как пройти PSM сертификацию PSM 1 в 2024-2025 году](https://habr.com/ru/articles/870980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870980)
-- [Security Week 2453: утечка геолокации автомобилей Volkswagen](https://habr.com/ru/companies/kaspersky/articles/870952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870952)
-- [Тестирование embed-видео на веб-странице простыми словами](https://habr.com/ru/articles/870940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
