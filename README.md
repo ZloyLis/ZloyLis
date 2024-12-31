@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Система репутации в Telegram](https://habr.com/ru/articles/871114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871114)
 - [Почему ИИ не заменит программистов: взгляд инженера](https://habr.com/ru/articles/871100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871100)
 - [Реализация шифра «Кузнечик» на языке RUST](https://habr.com/ru/articles/871092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871092)
 - [Пошаговая Formula 1 — игра/задачка на программирование](https://habr.com/ru/companies/codeabbey/articles/871086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871086)
 - [Будущее микросервисов: уйдем ли мы к монолитам 2.0?](https://habr.com/ru/companies/selectel/articles/871012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871012)
-- [Мысли по поводу нового релиза Elixir](https://habr.com/ru/articles/870122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
