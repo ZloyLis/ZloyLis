@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация шифра «Кузнечик» на языке RUST](https://habr.com/ru/articles/871092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871092)
 - [Пошаговая Formula 1 — игра/задачка на программирование](https://habr.com/ru/companies/codeabbey/articles/871086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871086)
 - [Будущее микросервисов: уйдем ли мы к монолитам 2.0?](https://habr.com/ru/companies/selectel/articles/871012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871012)
 - [Мысли по поводу нового релиза Elixir](https://habr.com/ru/articles/870122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870122)
 - [Чего ждать от Python в 2025 году — и чем он радовал нас в этом](https://habr.com/ru/companies/ru_mts/articles/870438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870438)
-- [Background Modes в iOS: обзор основных модов](https://habr.com/ru/articles/871040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
