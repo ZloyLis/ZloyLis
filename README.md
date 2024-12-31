@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чего ждать от Python в 2025 году — и чем он радовал нас в этом](https://habr.com/ru/companies/ru_mts/articles/870438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870438)
 - [Background Modes в iOS: обзор основных модов](https://habr.com/ru/articles/871040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871040)
 - [Структура FastAPI приложения](https://habr.com/ru/articles/871018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871018)
 - [Конец года — новые баги с датами](https://habr.com/ru/articles/870994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870994)
 - [Создание REST API с NestJS и TypeORM](https://habr.com/ru/articles/870988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870988)
-- [Vue 3 под капотом и тонкости Composition API: Reactivity, Provide/Inject, Suspense](https://habr.com/ru/articles/870986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
