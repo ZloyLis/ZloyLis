@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучаем Ethereum через практику: моя история деплоя смарт-контракта в Sepolia](https://habr.com/ru/articles/871168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871168)
+- [[Перевод] Оптимизация запросов SQL Server V/S PostgreSQL: есть куда расти?](https://habr.com/ru/companies/postgrespro/articles/862480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862480)
 - [[Перевод] Как типы делают сложные задачи простыми](https://habr.com/ru/companies/ruvds/articles/871028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871028)
 - [Два месяца и релиз языка программирования Ruby 3.4.0 готов](https://habr.com/ru/companies/selectel/articles/870390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870390)
 - [Фундаментальная математика — теория всего в IT и не только. Теория типов и формализация в Coq](https://habr.com/ru/articles/870592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870592)
-- [Делаем свой docker-образ Apache Kafka](https://habr.com/ru/articles/871108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871108)
-- [Т-функция: подключаем логику к UI как к БД](https://habr.com/ru/articles/871096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
