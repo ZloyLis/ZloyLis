@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фундаментальная математика — теория всего в IT и не только. Теория типов и формализация в Coq](https://habr.com/ru/articles/870592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870592)
 - [Делаем свой docker-образ Apache Kafka](https://habr.com/ru/articles/871108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871108)
 - [Т-функция: подключаем логику к UI как к БД](https://habr.com/ru/articles/871096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871096)
 - [Как сделать ёлку, если ты Unicode](https://habr.com/ru/articles/871116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871116)
 - [Система репутации в Telegram](https://habr.com/ru/articles/871114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871114)
-- [Почему ИИ не заменит программистов: взгляд инженера](https://habr.com/ru/articles/871100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
