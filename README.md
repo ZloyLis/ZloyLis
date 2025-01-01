@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контекст диалога в pytelegrambotapi](https://habr.com/ru/articles/871180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871180)
+- [Эволюция технологий контейнеризации и их роль в современном DevOps](https://habr.com/ru/articles/871178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871178)
 - [Присоединяйтесь к Senior Project Management сообществу и помогите создать PMBOK Guide 8](https://habr.com/ru/articles/871174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871174)
 - [Изучаем Ethereum через практику: моя история деплоя смарт-контракта в Sepolia](https://habr.com/ru/articles/871168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871168)
 - [[Перевод] Оптимизация запросов SQL Server V/S PostgreSQL: есть куда расти?](https://habr.com/ru/companies/postgrespro/articles/862480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862480)
-- [[Перевод] Как типы делают сложные задачи простыми](https://habr.com/ru/companies/ruvds/articles/871028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871028)
-- [Два месяца и релиз языка программирования Ruby 3.4.0 готов](https://habr.com/ru/companies/selectel/articles/870390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
