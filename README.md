@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Героические цивилизации — пишу гибрид двух легендарных игр](https://habr.com/ru/articles/871294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871294)
 - [Работа с файлами через Yandex Object Storage в Spring Boot](https://habr.com/ru/articles/871280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871280)
 - [[Перевод] Современные протоколы кредитования в DeFi: как это работает— Curve LlamaLend](https://habr.com/ru/articles/871276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871276)
 - [CobolCraft = Cobol и Minecraft: как древний язык программирования нашел применение в популярной игре](https://habr.com/ru/companies/selectel/articles/868882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868882)
 - [Уравнение пьезопроводности с точечным источником. Получение точного решения для случая с бесконечной границей](https://habr.com/ru/articles/871266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871266)
-- [Безопасная авторизация в современных мобильных приложениях: миф или реальность?](https://habr.com/ru/articles/871254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
