@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое реактивное программирование? Руководство для начинающих по написанию реактивного кода](https://habr.com/ru/articles/871244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871244)
 - [Стековая виртуальная машина на языке Си](https://habr.com/ru/articles/870938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870938)
 - [[Перевод] Статическая рефлексия в C++](https://habr.com/ru/articles/870750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870750)
 - [Деплоймент нескольких ASP.Net Core-приложений на VPS сервере и настройка доступа к ним по доменному имени 3-го уровня](https://habr.com/ru/articles/871182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871182)
 - [Контекст диалога в pytelegrambotapi](https://habr.com/ru/articles/871180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871180)
-- [Эволюция технологий контейнеризации и их роль в современном DevOps](https://habr.com/ru/articles/871178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
