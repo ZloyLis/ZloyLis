@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я гифку с помощью ИИ сжимал](https://habr.com/ru/articles/871458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871458)
+- [Создаем эмулятор Sega Mega Drive на C++](https://habr.com/ru/articles/871284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871284)
 - [Тонкости JMS API: как не терять сообщения](https://habr.com/ru/articles/871454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871454)
 - [[Перевод] Python и подчёркивание &lpar;_&rpar;](https://habr.com/ru/articles/871434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871434)
 - [Как отслеживать перформанс-метрики приложения и выкатывать только позитивные изменения](https://habr.com/ru/companies/avito/articles/871428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871428)
-- [SOLID: Low Coupling против читабельности](https://habr.com/ru/articles/871412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871412)
-- [Новогодний плейлист инженера-программиста: что послушать в подкасте «Битовые маски»](https://habr.com/ru/companies/yadro/articles/870068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
