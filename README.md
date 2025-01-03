@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Commandlet в Unreal Engine — что это и зачем?](https://habr.com/ru/articles/871368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871368)
 - [Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring](https://habr.com/ru/articles/870640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870640)
 - [Почему джуны путаются в асинхронном коде &lpar;и как научиться с ним работать&rpar;](https://habr.com/ru/articles/871328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871328)
 - [[Перевод] Анализ AST и рефакторинг кода в Clang](https://habr.com/ru/articles/871296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871296)
 - [Германская танковая проблема: торжество статистики и один из первых примеров военного OSINT&#39;a](https://habr.com/ru/articles/871300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871300)
-- [Героические цивилизации — пишу гибрид двух легендарных игр](https://habr.com/ru/articles/871294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
