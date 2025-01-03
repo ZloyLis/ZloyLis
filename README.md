@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новогодний плейлист инженера-программиста: что послушать в подкасте «Битовые маски»](https://habr.com/ru/companies/yadro/articles/870068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870068)
+- [ErrorHandling-патерн в golang](https://habr.com/ru/articles/871394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871394)
 - [[Перевод] Valetudo, программа-сад](https://habr.com/ru/articles/871384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871384)
 - [HT2000 Сбор и хранение данные по CO2](https://habr.com/ru/articles/871380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871380)
 - [Как настроить свой первый сервер: инструкция от фронтендера](https://habr.com/ru/articles/871374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871374)
-- [Commandlet в Unreal Engine — что это и зачем?](https://habr.com/ru/articles/871368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871368)
-- [Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring](https://habr.com/ru/articles/870640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
