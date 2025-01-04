@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в Apache Kafka 4.0?](https://habr.com/ru/articles/871540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871540)
 - [Декларативные конечные автоматы на Python](https://habr.com/ru/articles/871544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871544)
 - [Дайджест новостей по PHP, Laravel и Symfony за декабрь&#39;2024](https://habr.com/ru/articles/871542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871542)
 - [Java Digest #20](https://habr.com/ru/companies/tbank/articles/870924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870924)
 - [Руководство по Convex. Часть 3](https://habr.com/ru/companies/timeweb/articles/867458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867458)
-- [Новогодняя подборка образовательных материалов для разработчиков](https://habr.com/ru/companies/selectel/articles/870350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
