@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Подробный обзор Balancer](https://habr.com/ru/articles/871490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871490)
 - [Эффективный процесс разработки на основе Feature Slice Design: наш опыт](https://habr.com/ru/companies/chibbis/articles/871472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871472)
 - [Как я гифку с помощью ИИ сжимал](https://habr.com/ru/articles/871458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871458)
 - [Создаем эмулятор Sega Mega Drive на C++](https://habr.com/ru/articles/871284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871284)
 - [Тонкости JMS API: как не терять сообщения](https://habr.com/ru/articles/871454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871454)
-- [[Перевод] Python и подчёркивание &lpar;_&rpar;](https://habr.com/ru/articles/871434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
