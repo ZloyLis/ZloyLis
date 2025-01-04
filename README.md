@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [pg-index-health – статический анализ структуры PostgreSQL баз данных](https://habr.com/ru/articles/871546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871546)
 - [Простой способ попасть в IT](https://habr.com/ru/articles/856154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856154)
 - [Как сделать из iPhone dumb phone и начать жить осознаннее](https://habr.com/ru/articles/871598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871598)
 - [Как спроектировать игровую математическую модель, забалансить её и не сдуреть. Разбор на практических кейсах](https://habr.com/ru/articles/871594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871594)
 - [Уникальный игровой телефон с двумя процессорами за 2 000 рублей — разбираем плод инженерного гения из Китая](https://habr.com/ru/companies/timeweb/articles/871350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871350)
-- [[Перевод] Демистификация транзакций и исключений с помощью Spring](https://habr.com/ru/articles/871582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
