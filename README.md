@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Уникальный игровой телефон с двумя процессорами за 2 000 рублей — смотрим на плод инженерного гения из Китая](https://habr.com/ru/companies/timeweb/articles/871350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871350)
+- [Как сделать из iPhone dumb phone и начать жить осознаннее](https://habr.com/ru/articles/871598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871598)
+- [Как спроектировать игровую математическую модель, забалансить её и не сдуреть. Разбор на практических кейсах](https://habr.com/ru/articles/871594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871594)
+- [Уникальный игровой телефон с двумя процессорами за 2 000 рублей — разбираем плод инженерного гения из Китая](https://habr.com/ru/companies/timeweb/articles/871350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871350)
 - [[Перевод] Демистификация транзакций и исключений с помощью Spring](https://habr.com/ru/articles/871582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871582)
 - [CSS Grid Layout: Асимметричная адаптивная сетка](https://habr.com/ru/articles/871570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871570)
-- [Что нового в Apache Kafka 4.0?](https://habr.com/ru/articles/871540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871540)
-- [Дайджест новостей по PHP, Laravel и Symfony за декабрь&#39;2024](https://habr.com/ru/articles/871542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
