@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Декларативные конечные автоматы на Python](https://habr.com/ru/articles/871544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871544)
+- [Дайджест новостей по PHP, Laravel и Symfony за декабрь&#39;2024](https://habr.com/ru/articles/871542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871542)
+- [Java Digest #20](https://habr.com/ru/companies/tbank/articles/870924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870924)
 - [Руководство по Convex. Часть 3](https://habr.com/ru/companies/timeweb/articles/867458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867458)
 - [Новогодняя подборка образовательных материалов для разработчиков](https://habr.com/ru/companies/selectel/articles/870350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870350)
-- [Надоело постоянно пользоваться телефоном, поэтому написал замену Google Authenticator в виде TUI](https://habr.com/ru/articles/871520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871520)
-- [Обзор новых проектов CNCF &lpar;Provisioning, Observability, Analysis&rpar;: автоматизация работы с Terraform и платформа как код](https://habr.com/ru/companies/flant/articles/869308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869308)
-- [Type-level программирование в TypeScript: практические кейсы и новые возможности](https://habr.com/ru/articles/871336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
