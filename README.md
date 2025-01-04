@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Надоело постоянно пользоваться телефоном, поэтому написал замену Google Authenticator в виде TUI](https://habr.com/ru/articles/871520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871520)
+- [Обзор новых проектов CNCF &lpar;Provisioning, Observability, Analysis&rpar;: автоматизация работы с Terraform и платформа как код](https://habr.com/ru/companies/flant/articles/869308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869308)
 - [Type-level программирование в TypeScript: практические кейсы и новые возможности](https://habr.com/ru/articles/871336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871336)
 - [[Перевод] Подробный обзор Balancer](https://habr.com/ru/articles/871490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871490)
 - [Эффективный процесс разработки на основе Feature Slice Design: наш опыт](https://habr.com/ru/companies/chibbis/articles/871472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871472)
-- [Как я гифку с помощью ИИ сжимал](https://habr.com/ru/articles/871458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871458)
-- [Создаем эмулятор Sega Mega Drive на C++](https://habr.com/ru/articles/871284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
