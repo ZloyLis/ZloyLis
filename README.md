@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли уместить игру Minecraft всего в один QR-код?](https://habr.com/ru/articles/871658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871658)
 - [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871638)
 - [pg-index-health – статический анализ структуры PostgreSQL баз данных](https://habr.com/ru/articles/871546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871546)
 - [Простой способ попасть в IT](https://habr.com/ru/articles/856154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856154)
 - [Как сделать из iPhone dumb phone и начать жить осознаннее](https://habr.com/ru/articles/871598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871598)
-- [Как спроектировать игровую математическую модель, забалансить её и не сдуреть. Разбор на практических кейсах](https://habr.com/ru/articles/871594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
