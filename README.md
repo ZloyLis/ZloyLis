@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глубокое обучение: Алгоритм обратного распространения ошибки. Теория и реализация. С нуля](https://habr.com/ru/articles/871648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871648)
 - [[Перевод] Руководство по разработке эмулятора NES &lpar;перевод&rpar;](https://habr.com/ru/articles/871756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871756)
 - [Вынос товарных остатков из 1С в микросервис](https://habr.com/ru/articles/871752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871752)
 - [Обзор уязвимостей для LLM. Часть 1. Атака](https://habr.com/ru/companies/oleg-bunin/articles/870100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870100)
 - [MassTransit и очередь в базе данных](https://habr.com/ru/companies/chibbis/articles/871588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871588)
-- [Прикручиваем доступ к API OpenAI gpt-4o через proxy](https://habr.com/ru/articles/871732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
