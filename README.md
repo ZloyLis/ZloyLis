@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Как мы деплоим Apache Airflow для промышленного использования в Kubernetes](https://habr.com/ru/articles/871660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871660)
-- [Можно ли уместить игру Minecraft всего в один QR-код?](https://habr.com/ru/articles/871658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871658)
+- [[Перевод] Можно ли уместить игру Minecraft всего в один QR-код?](https://habr.com/ru/articles/871658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871658)
 - [Оптимизация запросов в DjangoORM: когда и как использовать Raw SQL](https://habr.com/ru/articles/871638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871638)
 - [pg-index-health – статический анализ структуры PostgreSQL баз данных](https://habr.com/ru/articles/871546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871546)
 - [Простой способ попасть в IT](https://habr.com/ru/articles/856154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856154)
