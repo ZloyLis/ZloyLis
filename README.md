@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Взгляд с другой стороны на useMemo, useCallback и React.memo в React: когда их стоит использовать](https://habr.com/ru/articles/871712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871712)
 - [[Перевод] Сортировка «Милосердный Сталин»](https://habr.com/ru/companies/ruvds/articles/869746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869746)
 - [Зимние каникулы в VR-жилете и с онлайн-сканвордом: как провести праздники продуктивно](https://habr.com/ru/companies/selectel/articles/869756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869756)
 - [Обзор новых проектов CNCF &lpar;Orchestration &amp;amp; Management&rpar;: гибкие политики планирования и безопасное управление сервисами](https://habr.com/ru/companies/flant/articles/869310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869310)
 - [QA. Расшиваем бутылочное горлышко регресса](https://habr.com/ru/articles/871694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871694)
-- [Как действительно понять нейронные сети и KAN на интуитивном уровне](https://habr.com/ru/articles/823388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=823388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
