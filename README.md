@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инсоляционный массинг или как выращивать здания](https://habr.com/ru/companies/pik_digital/articles/871714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871714)
 - [Взгляд с другой стороны на useMemo, useCallback и React.memo в React: когда их стоит использовать](https://habr.com/ru/articles/871712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871712)
 - [[Перевод] Сортировка «Милосердный Сталин»](https://habr.com/ru/companies/ruvds/articles/869746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869746)
 - [Зимние каникулы в VR-жилете и с онлайн-сканвордом: как провести праздники продуктивно](https://habr.com/ru/companies/selectel/articles/869756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869756)
 - [Обзор новых проектов CNCF &lpar;Orchestration &amp;amp; Management&rpar;: гибкие политики планирования и безопасное управление сервисами](https://habr.com/ru/companies/flant/articles/869310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869310)
-- [QA. Расшиваем бутылочное горлышко регресса](https://habr.com/ru/articles/871694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
