@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс капча: попытки установки для самых джун’ых](https://habr.com/ru/articles/871848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871848)
+- [Используем языковые модели в AI-агентах. Часть 1. Введение в LangChain](https://habr.com/ru/articles/871830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871830)
 - [Spotify становится прибыльным](https://habr.com/ru/articles/871834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871834)
 - [Что не так с cProfile в Python](https://habr.com/ru/articles/871318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871318)
 - [TanStack Router: современный и типобезопасный роутер для React](https://habr.com/ru/articles/871528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871528)
-- [Senior. Туда и обратно: что я сначала не понимал в своей карьере, а потом как понял](https://habr.com/ru/companies/kaspersky/articles/868880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868880)
-- [Горбатые щупальца, мягкие роботы и жестокая математика](https://habr.com/ru/companies/first/articles/870246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
