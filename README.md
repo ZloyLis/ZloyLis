@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я научился оценивать популярность статей через парсинг показателей сайтов](https://habr.com/ru/articles/871234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871234)
 - [Даниэль Канеман, когнитивные искажения, кризис и UX/UI](https://habr.com/ru/articles/871798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871798)
 - [Что такое программирование? С чего начать? И кому это подходит](https://habr.com/ru/articles/871790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871790)
 - [Глубокое обучение: Алгоритм обратного распространения ошибки. Теория и реализация. С нуля](https://habr.com/ru/articles/871648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871648)
 - [[Перевод] Руководство по разработке эмулятора NES &lpar;перевод&rpar;](https://habr.com/ru/articles/871756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871756)
-- [Вынос товарных остатков из 1С в микросервис](https://habr.com/ru/articles/871752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
