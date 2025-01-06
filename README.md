@@ -38,8 +38,8 @@ ___
 - [Обзор новых проектов CNCF &lpar;Runtime и App Definition &amp;amp; Development&rpar;: отказоустойчивое хранилище и анализ временных рядов](https://habr.com/ru/companies/flant/articles/869312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869312)
 - [Яндекс капча: попытки установки для самых джун’ых](https://habr.com/ru/articles/871848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871848)
 - [Используем языковые модели в AI-агентах. Часть 1. Введение в LangChain](https://habr.com/ru/articles/871830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871830)
+- [Aвтоматизация через призму пирамиды тестирования. Минимизация зависимости, швы, локаторы и о поиске UI-элементов](https://habr.com/ru/articles/871840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871840)
 - [Spotify становится прибыльным](https://habr.com/ru/articles/871834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871834)
-- [Что не так с cProfile в Python](https://habr.com/ru/articles/871318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
