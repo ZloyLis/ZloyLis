@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация Paxos на Go: создаем алгоритм консенсуса без готовых решений](https://habr.com/ru/companies/otus/articles/869122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869122)
+- [Подходы к созданию ViewModel в Android](https://habr.com/ru/articles/871922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871922)
 - [Кроссплатформенный терминал Modbus TCP / RTU / ASCII с открытым исходным кодом: Часть 3](https://habr.com/ru/articles/871788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871788)
 - [ChatGPT и молодое поколение](https://habr.com/ru/articles/871858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871858)
 - [[Перевод] Собрал в одном большом гайде всё, что хотел бы знать, когда изучал язык C](https://habr.com/ru/companies/ncloudtech/articles/871748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871748)
-- [Обзор новых проектов CNCF &lpar;Runtime и App Definition &amp;amp; Development&rpar;: отказоустойчивое хранилище и анализ временных рядов](https://habr.com/ru/companies/flant/articles/869312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869312)
-- [Яндекс капча: попытки установки для самых джун’ых](https://habr.com/ru/articles/871848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
