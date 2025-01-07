@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KEDA: автоматическое масштабирование в Kubernetes](https://habr.com/ru/companies/otus/articles/868526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868526)
+- [90% разработчиков не понимают принцип инверсии зависимостей из SOLID. DIP — это не про абстракции](https://habr.com/ru/articles/872078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872078)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#3&rpar;](https://habr.com/ru/articles/872020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872020)
 - [Релиз MoonShine v3. История и нововведения](https://habr.com/ru/articles/872014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872014)
 - [Как тестировать подписочный экран в мобильном приложении](https://habr.com/ru/articles/872018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872018)
-- [Установка telegrtam-cli в Ubuntu и Debian](https://habr.com/ru/articles/871984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871984)
-- [Управление капиталом на крипторынке](https://habr.com/ru/articles/871900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
