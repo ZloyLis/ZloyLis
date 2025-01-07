@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] HTML — язык программирования. Убедите меня в обратном](https://habr.com/ru/articles/872108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872108)
 - [[Перевод] Как Джон Нэш изменил теорию игр и вдохновил экономику, биологию и технологии](https://habr.com/ru/articles/872090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872090)
 - [KEDA: автоматическое масштабирование в Kubernetes](https://habr.com/ru/companies/otus/articles/868526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868526)
 - [90% разработчиков не понимают принцип инверсии зависимостей из SOLID. DIP — это не про абстракции](https://habr.com/ru/articles/872078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872078)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#3&rpar;](https://habr.com/ru/articles/872020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872020)
-- [Релиз MoonShine v3. История и нововведения](https://habr.com/ru/articles/872014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
