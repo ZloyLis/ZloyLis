@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А ты точно продакт?](https://habr.com/ru/articles/871764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871764)
 - [Контейнерный хостинг своими руками или чем Kubernetes лучше Docker Swarm](https://habr.com/ru/articles/871666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871666)
 - [Алло! Реализуем дисковый телефон с помощью Jetpack Compose](https://habr.com/ru/articles/871956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871956)
 - [Сонар из Диктофона](https://habr.com/ru/articles/868672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868672)
 - [Как написать RateLimiter на Yii с использованием Redis](https://habr.com/ru/articles/871936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871936)
-- [Реализация Paxos на Go: создаем алгоритм консенсуса без готовых решений](https://habr.com/ru/companies/otus/articles/869122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
