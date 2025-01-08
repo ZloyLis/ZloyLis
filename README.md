@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я поэта поздравлял](https://habr.com/ru/articles/869768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869768)
 - [Управление событиями в ViewModel с помощью StateFlow, SharedFlow и Channel](https://habr.com/ru/articles/872248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872248)
 - [Волшебные ссылки теперь в Spring Security](https://habr.com/ru/articles/872240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872240)
 - [Настраиваемся на работу: 8 вдохновляющих книг от команды Selectel](https://habr.com/ru/companies/selectel/articles/872196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872196)
 - [256 байт веселья, или как развлечь себя Ассемблером когда скучно](https://habr.com/ru/articles/872184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872184)
-- [Decompose: покоряем Generic-навигацию на примере навигации по вкладкам](https://habr.com/ru/articles/872164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
