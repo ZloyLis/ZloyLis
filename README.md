@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Генерация PDF документов в Lazarus IDE](https://habr.com/ru/articles/872142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872142)
 - [Performance и оптимизация TypeScript-типов в больших проектах](https://habr.com/ru/articles/871436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871436)
 - [[Перевод] HTML — язык программирования. Убедите меня в обратном](https://habr.com/ru/articles/872108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872108)
 - [[Перевод] Как Джон Нэш изменил теорию игр и вдохновил экономику, биологию и технологии](https://habr.com/ru/articles/872090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872090)
 - [KEDA: автоматическое масштабирование в Kubernetes](https://habr.com/ru/companies/otus/articles/868526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868526)
-- [90% разработчиков не понимают принцип инверсии зависимостей из SOLID. DIP — это не про абстракции](https://habr.com/ru/articles/872078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
