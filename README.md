@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Волшебные ссылки теперь в Spring Security](https://habr.com/ru/articles/872240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872240)
 - [Настраиваемся на работу: 8 вдохновляющих книг от команды Selectel](https://habr.com/ru/companies/selectel/articles/872196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872196)
 - [256 байт веселья, или как развлечь себя Ассемблером когда скучно](https://habr.com/ru/articles/872184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872184)
 - [Decompose: покоряем Generic-навигацию на примере навигации по вкладкам](https://habr.com/ru/articles/872164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872164)
 - [[Перевод] Генерация PDF документов в Lazarus IDE](https://habr.com/ru/articles/872142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872142)
-- [Performance и оптимизация TypeScript-типов в больших проектах](https://habr.com/ru/articles/871436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
