@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] PPTAgent: Генерация и оценка презентаций, выходящая за рамки преобразования текста в слайды](https://habr.com/ru/articles/872358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872358)
-- [Обзор уязвимостей для LLM. Часть 2. Защита](https://habr.com/ru/companies/oleg-bunin/articles/870102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870102)
-- [[Перевод] Lenovo: даже опытные пользователи компьютеров могут совершать ошибки или упускать из виду что-то важное](https://habr.com/ru/articles/872328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872328)
-- [Индекс галерности и удержание сотрудников](https://habr.com/ru/articles/872120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872120)
-- [Основы проектирования интерфейсов для системных аналитиков: ключевые принципы и подходы](https://habr.com/ru/articles/872168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872168)
+- [Микроархитектура простого нейросетевого ускорителя на SystemC](https://habr.com/ru/companies/yadro/articles/866288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866288)
+- [Математическое моделирование рисков: шаманство или кибернетика?](https://habr.com/ru/companies/securityvison/articles/872382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872382)
+- [Еще раз про отличия Excel Vba vs OnlyOffice/Р7 офис JavaScript](https://habr.com/ru/articles/872374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872374)
+- [Как и зачем проводить кастдевы при разработке SaaS-продукта &lpar;с примерами из опыта&rpar;?](https://habr.com/ru/articles/872236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872236)
+- [Домашняя аптечка под контролем. Цифровой помощник для забывчивых педантов](https://habr.com/ru/articles/870730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
