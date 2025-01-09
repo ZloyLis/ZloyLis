@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совместные конфиденциальные вычисления: как это работает](https://habr.com/ru/articles/872410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872410)
 - [SQL HowTo: «экспоненциальная» рекурсия &lpar;Advent of Code 2024, Day 7: Bridge Repair&rpar;](https://habr.com/ru/companies/tensor/articles/872368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872368)
 - [Математические бланки // Часть 4: объекты в памяти](https://habr.com/ru/articles/864862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864862)
 - [Алгоритм Кристофидеса-Сердюкова](https://habr.com/ru/articles/872398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872398)
 - [Выгрузка карточек товаров на Озон через API](https://habr.com/ru/articles/872228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872228)
-- [Обзор CMF Phone 1: смартфон-конструктор под настроение](https://habr.com/ru/companies/dihouse/articles/872390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
