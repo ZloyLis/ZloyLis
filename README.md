@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Моделируем поверхность Земли в пару строчек](https://habr.com/ru/articles/872554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872554)
 - [Практический кейс: как применять ML и GPT для поиска дубликатов в базе данных](https://habr.com/ru/companies/avito/articles/872260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872260)
 - [Сборка Django-приложения при помощи Nuitka в onefile](https://habr.com/ru/companies/astralinux/articles/872510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872510)
 - [Забытые технологии: Perl](https://habr.com/ru/articles/872540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872540)
 - [[Перевод] Шахматный движок на 84688 регулярных выражениях](https://habr.com/ru/articles/872186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872186)
-- [[Перевод] Отчёт о тенденциях Java от InfoQ за 2024](https://habr.com/ru/companies/otus/articles/872508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
