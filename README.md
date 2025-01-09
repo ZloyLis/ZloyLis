@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор уязвимостей для LLM. Часть 2. Защита](https://habr.com/ru/companies/oleg-bunin/articles/870102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870102)
+- [[Перевод] Lenovo: даже опытные пользователи компьютеров могут совершать ошибки или упускать из виду что-то важное](https://habr.com/ru/articles/872328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872328)
+- [Индекс галерности и удержание сотрудников](https://habr.com/ru/articles/872120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872120)
 - [Основы проектирования интерфейсов для системных аналитиков: ключевые принципы и подходы](https://habr.com/ru/articles/872168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872168)
 - [Вконтакте — ищем ложку мёда в бочке дёгтя](https://habr.com/ru/articles/872300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872300)
-- [Honey — я устал #2](https://habr.com/ru/articles/872304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872304)
-- [Автоматизация внесения исправлений в исходные файлы С++ с помощью CLang LibTooling](https://habr.com/ru/articles/872268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872268)
-- [Как я поэта поздравлял](https://habr.com/ru/articles/869768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
