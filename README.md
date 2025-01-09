@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Микроархитектура простого нейросетевого ускорителя на SystemC](https://habr.com/ru/companies/yadro/articles/866288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866288)
-- [Математическое моделирование рисков: шаманство или кибернетика?](https://habr.com/ru/companies/securityvison/articles/872382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872382)
-- [Еще раз про отличия Excel Vba vs OnlyOffice/Р7 офис JavaScript](https://habr.com/ru/articles/872374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872374)
-- [Как и зачем проводить кастдевы при разработке SaaS-продукта &lpar;с примерами из опыта&rpar;?](https://habr.com/ru/articles/872236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872236)
-- [Домашняя аптечка под контролем. Цифровой помощник для забывчивых педантов](https://habr.com/ru/articles/870730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870730)
+- [SQL HowTo: «экспоненциальная» рекурсия &lpar;Advent of Code 2024, Day 7: Bridge Repair&rpar;](https://habr.com/ru/companies/tensor/articles/872368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872368)
+- [Математические бланки // Часть 4: объекты в памяти](https://habr.com/ru/articles/864862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864862)
+- [Алгоритм Кристофидеса-Сердюкова](https://habr.com/ru/articles/872398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872398)
+- [Выгрузка карточек товаров на Озон через API](https://habr.com/ru/articles/872228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872228)
+- [Обзор CMF Phone 1: смартфон-конструктор под настроение](https://habr.com/ru/companies/dihouse/articles/872390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
