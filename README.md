@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация: Есть ли шанс у Maestro для тестирования мобильных приложений?](https://habr.com/ru/articles/872492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872492)
+- [Авторизация в PostgreSQL через доменные группы](https://habr.com/ru/articles/862776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862776)
+- [[Перевод] Curve V1: Принцип работы модели StableSwap](https://habr.com/ru/articles/872454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872454)
 - [Совместные конфиденциальные вычисления: как это работает](https://habr.com/ru/articles/872410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872410)
 - [SQL HowTo: «экспоненциальная» рекурсия &lpar;Advent of Code 2024, Day 7: Bridge Repair&rpar;](https://habr.com/ru/companies/tensor/articles/872368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872368)
-- [Математические бланки // Часть 4: объекты в памяти](https://habr.com/ru/articles/864862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864862)
-- [Алгоритм Кристофидеса-Сердюкова](https://habr.com/ru/articles/872398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872398)
-- [Выгрузка карточек товаров на Озон через API](https://habr.com/ru/articles/872228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
