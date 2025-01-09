@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создание прототипов игр на LÖVE](https://habr.com/ru/articles/872616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872616)
+- [А часики-то тикают… Или как переработки снижают твою зарплату](https://habr.com/ru/articles/872610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872610)
 - [JOOQ — не замена Hibernate. Они решают разные проблемы](https://habr.com/ru/articles/872562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872562)
 - [[Перевод] Моделируем поверхность Земли в пару строчек](https://habr.com/ru/articles/872554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872554)
 - [Практический кейс: как применять ML и GPT для поиска дубликатов в базе данных](https://habr.com/ru/companies/avito/articles/872260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872260)
-- [Сборка Django-приложения при помощи Nuitka в onefile](https://habr.com/ru/companies/astralinux/articles/872510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872510)
-- [Забытые технологии: Perl](https://habr.com/ru/articles/872540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
