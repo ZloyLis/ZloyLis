@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рецепты Typescript: выбор одного и только одного обязательного поля в объекте](https://habr.com/ru/companies/cloud_ru/articles/868762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868762)
+- [Simple Spring &lpar;полный фарш&rpar;](https://habr.com/ru/articles/872776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872776)
 - [Каверзные вопросы на интервью аналитика: В каком порядке обрабатываются SQL-запросы?](https://habr.com/ru/companies/ssp-soft/articles/872764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872764)
 - [Уменьшаем написание boilerplate с помощью File Templates](https://habr.com/ru/companies/tbank/articles/872684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872684)
 - [«Аналитические шаблоны» на русском](https://habr.com/ru/articles/872598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872598)
-- [Ошибки в запросах 1С, которые допускают все. Делаем свой чек-лист](https://habr.com/ru/companies/sportmaster_lab/articles/872718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872718)
-- [Как мы ускорили работу инженеров и обслуживание клиентов с помощью новой DCIM-платформы](https://habr.com/ru/companies/selectel/articles/872502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
