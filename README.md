@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы ускорили работу инженеров и обслуживание клиентов с помощью новой DCIM-платформы](https://habr.com/ru/companies/selectel/articles/872502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872502)
+- [Gambit Scheme: переопределяем скобки](https://habr.com/ru/articles/872704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872704)
+- [Выбор операционной системы для серверных решений: ключевые аспекты](https://habr.com/ru/companies/dbraincloud/articles/872206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872206)
 - [Можно ли собрать в одном большом гайде всё, что полезно знать о языке C и его применениях](https://habr.com/ru/articles/872370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872370)
 - [Как я собственный язык на КуМире писал](https://habr.com/ru/articles/872680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872680)
-- [Современная реализация пулов ликвидности. Дерево ликвидности Azuro](https://habr.com/ru/articles/872462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872462)
-- [Меньше ресурсов при большей нагрузке: как мы создали простой инструмент нагрузочного тестирования](https://habr.com/ru/companies/sberbank/articles/872516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872516)
-- [Как отправлять SMS из Google Таблиц с использованием Google Apps Script: 2 способа](https://habr.com/ru/companies/exolve/articles/872664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
