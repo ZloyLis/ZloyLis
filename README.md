@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Угрозы безопасности в DevOps: как интегрировать ИБ в процесс разработки?](https://habr.com/ru/articles/872788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872788)
 - [Spring Cloud Gateway + Keycloak: полноценный пример](https://habr.com/ru/articles/872856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872856)
 - [[Перевод] Rust 1.84.0: MSRV при выборе зависимости, новый резолвер трейтов и API для отслеживания происхождения указателей](https://habr.com/ru/articles/872854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872854)
 - [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 01 — Маленькая программа](https://habr.com/ru/articles/872834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872834)
 - [[Перевод] Ошибки инженеров в больших кодовых базах](https://habr.com/ru/articles/872700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872700)
+- [Из 2024 в 2025: вспоминаем лучшие практики CI/CD](https://habr.com/ru/companies/nixys/articles/841174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
