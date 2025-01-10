@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Где найти комьюнити аналитиков данных и зачем его искать](https://habr.com/ru/companies/yandex_praktikum/articles/866950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866950)
-- [Сортировки Либеральная, по Бакунину и некоторые другие](https://habr.com/ru/articles/872098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872098)
-- [LLM это не AI](https://habr.com/ru/articles/872626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872626)
-- [[Перевод] Как мы взломали 512-разрядный ключ DKIM в облаке менее чем за $8](https://habr.com/ru/articles/872622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872622)
-- [[Перевод] Создание прототипов игр на LÖVE](https://habr.com/ru/articles/872616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872616)
+- [Можно ли собрать в одном большом гайде всё, что полезно знать о языке C и его применениях](https://habr.com/ru/articles/872370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872370)
+- [Как я собственный язык на КуМире писал](https://habr.com/ru/articles/872680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872680)
+- [Современная реализация пулов ликвидности. Дерево ликвидности Azuro](https://habr.com/ru/articles/872462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872462)
+- [Меньше ресурсов при большей нагрузке: как мы создали простой инструмент нагрузочного тестирования](https://habr.com/ru/companies/sberbank/articles/872516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872516)
+- [Как отправлять SMS из Google Таблиц с использованием Google Apps Script: 2 способа](https://habr.com/ru/companies/exolve/articles/872664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
