@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 01 — Маленькая программа](https://habr.com/ru/articles/872834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872834)
+- [[Перевод] Ошибки инженеров в больших кодовых базах](https://habr.com/ru/articles/872700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872700)
 - [Из 2024 в 2025: вспоминаем лучшие практики CI/CD](https://habr.com/ru/companies/nixys/articles/841174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841174)
 - [Вселенная не идеальна, но нам повезло в ней оказаться](https://habr.com/ru/companies/ru_mts/articles/872778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872778)
 - [pg_auto_embeddings — считаем эмбеддинги для текста прямо в Postgres, без экстеншенов](https://habr.com/ru/articles/872780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872780)
-- [А если без A/B-тестов? Как мы оценивали эффективность контент-продукта через квазиэксперименты](https://habr.com/ru/companies/lamoda/articles/869404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869404)
-- [Рецепты Typescript: выбор одного и только одного обязательного поля в объекте](https://habr.com/ru/companies/cloud_ru/articles/868762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
