@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Из 2024 в 2025: вспоминаем лучшие практики CI/CD](https://habr.com/ru/companies/nixys/articles/841174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=841174)
+- [Вселенная не идеальна, но нам повезло в ней оказаться](https://habr.com/ru/companies/ru_mts/articles/872778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872778)
+- [pg_auto_embeddings — считаем эмбеддинги для текста прямо в Postgres, без экстеншенов](https://habr.com/ru/articles/872780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872780)
+- [А если без A/B-тестов? Как мы оценивали эффективность контент-продукта через квазиэксперименты](https://habr.com/ru/companies/lamoda/articles/869404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869404)
 - [Рецепты Typescript: выбор одного и только одного обязательного поля в объекте](https://habr.com/ru/companies/cloud_ru/articles/868762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868762)
-- [Simple Spring &lpar;полный фарш&rpar;](https://habr.com/ru/articles/872776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872776)
-- [Каверзные вопросы на интервью аналитика: В каком порядке обрабатываются SQL-запросы?](https://habr.com/ru/companies/ssp-soft/articles/872764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872764)
-- [Уменьшаем написание boilerplate с помощью File Templates](https://habr.com/ru/companies/tbank/articles/872684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872684)
-- [«Аналитические шаблоны» на русском](https://habr.com/ru/articles/872598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
