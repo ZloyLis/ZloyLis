@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где найти комьюнити аналитиков данных и зачем его искать](https://habr.com/ru/companies/yandex_praktikum/articles/866950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866950)
 - [Сортировки Либеральная, по Бакунину и некоторые другие](https://habr.com/ru/articles/872098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872098)
 - [LLM это не AI](https://habr.com/ru/articles/872626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872626)
 - [[Перевод] Как мы взломали 512-разрядный ключ DKIM в облаке менее чем за $8](https://habr.com/ru/articles/872622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872622)
 - [[Перевод] Создание прототипов игр на LÖVE](https://habr.com/ru/articles/872616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872616)
-- [JOOQ — не замена Hibernate. Они решают разные проблемы](https://habr.com/ru/articles/872562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
