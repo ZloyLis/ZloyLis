@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектурные паттерны для высокой масштабируемости. Часть 1](https://habr.com/ru/articles/871500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871500)
 - [Геймификация для достижения новогодних целей: продуктово-научный подход](https://habr.com/ru/articles/872878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872878)
 - [Реализация SWAP токенов в сети Fuel: первый опыт с Rust, интеграция Mira SDK, боль](https://habr.com/ru/articles/872960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872960)
 - [Безопасный PLAINTEXT, или Выжимаем воду из камня в системе безопасности Apache Kafka](https://habr.com/ru/articles/872946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872946)
 - [Вопросно-ответные системы в области кода: часть 1](https://habr.com/ru/articles/872954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872954)
-- [[Перевод] Brython: Python в вашем браузере](https://habr.com/ru/articles/872792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
