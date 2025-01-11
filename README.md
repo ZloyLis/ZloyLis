@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [В PostgreSQL необходим официальный бенчмарк для функции uuidv7&lpar;&rpar;](https://habr.com/ru/articles/872306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872306)
 - [Забытые технологии: CGI](https://habr.com/ru/articles/872596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872596)
-- [Велика ли полуночная невязка инфракрасных счётчиков](https://habr.com/ru/articles/872892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872892)
+- [Велика ли полуночная невязка двухлучевых инфракрасных счётчиков](https://habr.com/ru/articles/872892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872892)
 - [Морфинг геометрических фигур с SDF в фрагментных шейдерах GLSL и визуализацией на Jetpack Compose](https://habr.com/ru/articles/872728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872728)
 - [Spring Cloud Gateway + Keycloak: полноценный пример](https://habr.com/ru/articles/872856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872856)
 <!-- BLOG-POST-LIST:END -->
