@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Забытые технологии: CGI](https://habr.com/ru/articles/872596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872596)
 - [Велика ли полуночная невязка инфракрасных счётчиков](https://habr.com/ru/articles/872892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872892)
 - [Морфинг геометрических фигур с SDF в фрагментных шейдерах GLSL и визуализацией на Jetpack Compose](https://habr.com/ru/articles/872728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872728)
 - [Spring Cloud Gateway + Keycloak: полноценный пример](https://habr.com/ru/articles/872856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872856)
 - [[Перевод] Rust 1.84.0: MSRV при выборе зависимости, новый резолвер трейтов и API для отслеживания происхождения указателей](https://habr.com/ru/articles/872854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872854)
-- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 01 — Маленькая программа](https://habr.com/ru/articles/872834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
