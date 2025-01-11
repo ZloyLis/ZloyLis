@@ -39,7 +39,7 @@ ___
 - [Миграция данных: Понятие, виды и примеры на Python](https://habr.com/ru/articles/872998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872998)
 - [[Перевод] React на сервере — это не PHP](https://habr.com/ru/articles/872988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872988)
 - [Архитектурные паттерны для высокой масштабируемости. Часть 1](https://habr.com/ru/articles/871500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871500)
-- [Геймификация для достижения новогодних целей: продуктово-научный подход](https://habr.com/ru/articles/872878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872878)
+- [Реализация SWAP токенов в сети Fuel: первый опыт с Rust, интеграция Mira SDK, боль](https://habr.com/ru/articles/872960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
