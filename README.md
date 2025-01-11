@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вопросно-ответные системы в области кода: часть 1](https://habr.com/ru/articles/872954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872954)
 - [[Перевод] Brython: Python в вашем браузере](https://habr.com/ru/articles/872792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872792)
 - [В PostgreSQL необходим официальный бенчмарк для функции uuidv7&lpar;&rpar;](https://habr.com/ru/articles/872306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872306)
 - [Забытые технологии: CGI](https://habr.com/ru/articles/872596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872596)
 - [Велика ли полуночная невязка двухлучевых инфракрасных счётчиков](https://habr.com/ru/articles/872892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872892)
-- [Морфинг геометрических фигур с SDF в фрагментных шейдерах GLSL и визуализацией на Jetpack Compose](https://habr.com/ru/articles/872728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
