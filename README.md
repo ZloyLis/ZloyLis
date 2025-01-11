@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Геймификация для достижения новогодних целей: продуктово-научный подход](https://habr.com/ru/articles/872878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872878)
+- [Реализация SWAP токенов в сети Fuel: первый опыт с Rust, интеграция Mira SDK, боль](https://habr.com/ru/articles/872960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872960)
+- [Безопасный PLAINTEXT, или Выжимаем воду из камня в системе безопасности Apache Kafka](https://habr.com/ru/articles/872946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872946)
 - [Вопросно-ответные системы в области кода: часть 1](https://habr.com/ru/articles/872954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872954)
 - [[Перевод] Brython: Python в вашем браузере](https://habr.com/ru/articles/872792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872792)
-- [В PostgreSQL необходим официальный бенчмарк для функции uuidv7&lpar;&rpar;](https://habr.com/ru/articles/872306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872306)
-- [Забытые технологии: CGI](https://habr.com/ru/articles/872596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872596)
-- [Велика ли полуночная невязка двухлучевых инфракрасных счётчиков](https://habr.com/ru/articles/872892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
