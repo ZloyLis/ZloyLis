@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деградация организации заметок одного программиста](https://habr.com/ru/articles/873132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873132)
+- [Безопасная разработка на С++ без нарушения обратной совместимости с легаси кодом](https://habr.com/ru/articles/872956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872956)
 - [PGlite — полноценный Postgres-сервер на WASM. Работает прямо в браузере и Node.js](https://habr.com/ru/articles/873112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873112)
 - [Топ-5 популярных вопросов на Android собеседовании [2025]](https://habr.com/ru/articles/873088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873088)
 - [Kotlin Coroutines под капотом: отмена корутин](https://habr.com/ru/articles/873076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873076)
-- [Мобильная разработка за неделю #570 &lpar;6 — 12 января&rpar;](https://habr.com/ru/articles/873062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873062)
-- [[Перевод] Упрощаем «простой» ELF](https://habr.com/ru/companies/ruvds/articles/870674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
