@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud Gateway как шлюз для мобильных приложений](https://habr.com/ru/articles/873148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873148)
 - [О чем говорит версия проекта?](https://habr.com/ru/articles/873142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873142)
 - [Деградация организации заметок одного программиста](https://habr.com/ru/articles/873132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873132)
 - [Безопасная разработка на С++ без нарушения обратной совместимости с легаси кодом](https://habr.com/ru/articles/872956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872956)
 - [PGlite — полноценный Postgres-сервер на WASM. Работает прямо в браузере и Node.js](https://habr.com/ru/articles/873112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873112)
-- [Топ-5 популярных вопросов на Android собеседовании [2025]](https://habr.com/ru/articles/873088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
