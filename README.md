@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Coroutines под капотом: отмена корутин](https://habr.com/ru/articles/873076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873076)
 - [Мобильная разработка за неделю #570 &lpar;6 — 12 января&rpar;](https://habr.com/ru/articles/873062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873062)
 - [[Перевод] Упрощаем «простой» ELF](https://habr.com/ru/companies/ruvds/articles/870674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870674)
 - [Архитектурные паттерны для высокой масштабируемости. Часть 2](https://habr.com/ru/articles/871784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871784)
 - [Уволился с позиции тимлида и снова стал разработчиком](https://habr.com/ru/articles/873002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873002)
-- [[Перевод] Остерегайтесь эффекта Makefile](https://habr.com/ru/articles/873040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
