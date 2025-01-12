@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектурные паттерны для высокой масштабируемости. Часть 2](https://habr.com/ru/articles/871784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871784)
 - [[Перевод] Остерегайтесь эффекта Makefile](https://habr.com/ru/articles/873040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873040)
 - [Как JSON может вас подвести](https://habr.com/ru/articles/871616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871616)
 - [Математика для ИИ: Дифференциал, производная и правила дифференцирования](https://habr.com/ru/articles/873024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873024)
 - [Похищаем CheatEngine на C++ с нуля. Часть 0 — Введение](https://habr.com/ru/articles/873028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873028)
-- [Решение проблемы «duplicate key value violates unique constraint «pg_class_relname_nsp_index»» в PostgreSQL](https://habr.com/ru/companies/ibs/articles/872990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
