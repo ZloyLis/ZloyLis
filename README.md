@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Game++. String interning](https://habr.com/ru/articles/873016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873016)
+- [Цифровизируем учебу: как приложение с расписанием пар стало образовательным хабом для студентов по всей стране?](https://habr.com/ru/articles/873360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873360)
+- [Security Week 2503: атака zero-click на смартфоны Samsung](https://habr.com/ru/companies/kaspersky/articles/873338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873338)
 - [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 02 — Рисуем в Windows](https://habr.com/ru/articles/873318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873318)
 - [Чья фича лучше или как сравнить эффективность планов SQL-запроса](https://habr.com/ru/articles/873064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873064)
-- [[Перевод] Jakarta Data и Persistence: Инструменты, которые меняют подход к работе с данными](https://habr.com/ru/companies/spring_aio/articles/872830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872830)
-- [[Перевод] Я решил, что обнаружил баг…](https://habr.com/ru/companies/ruvds/articles/873296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873296)
-- [Малые релизы vs масштабная бизнес-ценность: кто кого?](https://habr.com/ru/articles/873316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
