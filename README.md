@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Jakarta Data и Persistence: Инструменты, которые меняют подход к работе с данными](https://habr.com/ru/companies/spring_aio/articles/872830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872830)
+- [[Перевод] Я решил, что обнаружил баг…](https://habr.com/ru/companies/ruvds/articles/873296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873296)
 - [Малые релизы vs масштабная бизнес-ценность: кто кого?](https://habr.com/ru/articles/873316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873316)
 - [Gambit Scheme: проверяем, определён ли атом](https://habr.com/ru/articles/873290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873290)
 - [Signals в Django](https://habr.com/ru/companies/otus/articles/873118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873118)
-- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#4&rpar;](https://habr.com/ru/articles/873294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873294)
-- [Roadmap для архитектора инфраструктуры](https://habr.com/ru/articles/873274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
