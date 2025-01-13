@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873108)
-- [[Перевод] Математический взлом скретч-лотереи](https://habr.com/ru/articles/872782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872782)
-- [Задачи тестирования в работе системного аналитика. Основы и ключевые аспекты](https://habr.com/ru/articles/873048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873048)
-- [Как я фотоконкурс в группе ВК изобретал](https://habr.com/ru/articles/872932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872932)
-- [Как поддерживать видимость социальной жизни, если ты лентяй](https://habr.com/ru/articles/871966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871966)
+- [Решаем тесты безупречно в MyTestX](https://habr.com/ru/articles/872978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872978)
+- [[Перевод] Brython: Python в вашем браузере &lpar;ч.4&rpar;](https://habr.com/ru/articles/873180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873180)
+- [[Перевод] Brython: Python в вашем браузере &lpar;ч.3&rpar;](https://habr.com/ru/articles/873176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873176)
+- [[Перевод] Brython: Python в вашем браузере &lpar;ч.2&rpar;](https://habr.com/ru/articles/873174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873174)
+- [[Перевод] Brython: Python в вашем браузере &lpar;ч.1&rpar;](https://habr.com/ru/articles/872822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
