@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем бэкенд](https://habr.com/ru/companies/amvera/articles/873108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873108)
 - [[Перевод] Математический взлом скретч-лотереи](https://habr.com/ru/articles/872782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872782)
 - [Задачи тестирования в работе системного аналитика. Основы и ключевые аспекты](https://habr.com/ru/articles/873048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873048)
 - [Как я фотоконкурс в группе ВК изобретал](https://habr.com/ru/articles/872932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872932)
 - [Как поддерживать видимость социальной жизни, если ты лентяй](https://habr.com/ru/articles/871966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871966)
-- [Программирование для не программиста или как разрушалась мечта свалить всё на ИИ](https://habr.com/ru/articles/873152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
