@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Marzban: миграция с sqlite3 на MySQL](https://habr.com/ru/articles/873278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873278)
-- [Как и зачем использовать ValueTask в C#](https://habr.com/ru/companies/otus/articles/873128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873128)
-- [[Перевод] Разработка цифровых открыток в масштабах Airbnb](https://habr.com/ru/companies/wunderfund/articles/872572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872572)
-- [Нейросети со льдом: как мы разрабатываем методы ИИ для повышения эффективности прогнозирования морского льда в Арктике](https://habr.com/ru/companies/spbifmo/articles/845940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845940)
-- [SQL HowTo: генерация и подсчет уникальных комбинаций &lpar;Advent of Code 2024, Day 8: Resonant Collinearity&rpar;](https://habr.com/ru/companies/tensor/articles/873170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873170)
+- [Малые релизы vs масштабная бизнес-ценность: кто кого?](https://habr.com/ru/articles/873316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873316)
+- [Gambit Scheme: проверяем, определён ли атом](https://habr.com/ru/articles/873290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873290)
+- [Signals в Django](https://habr.com/ru/companies/otus/articles/873118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873118)
+- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#4&rpar;](https://habr.com/ru/articles/873294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873294)
+- [Roadmap для архитектора инфраструктуры](https://habr.com/ru/articles/873274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
