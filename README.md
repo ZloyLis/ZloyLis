@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как и зачем использовать ValueTask в C#](https://habr.com/ru/companies/otus/articles/873128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873128)
+- [[Перевод] Разработка цифровых открыток в масштабах Airbnb](https://habr.com/ru/companies/wunderfund/articles/872572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872572)
+- [Нейросети со льдом: как мы разрабатываем методы ИИ для повышения эффективности прогнозирования морского льда в Арктике](https://habr.com/ru/companies/spbifmo/articles/845940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=845940)
 - [SQL HowTo: генерация и подсчет уникальных комбинаций &lpar;Advent of Code 2024, Day 8: Resonant Collinearity&rpar;](https://habr.com/ru/companies/tensor/articles/873170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873170)
 - [Гибридное кэширование в ASP.NET Core](https://habr.com/ru/articles/871716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871716)
-- [Решаем тесты безупречно в MyTestX](https://habr.com/ru/articles/872978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872978)
-- [[Перевод] Brython: Python в вашем браузере &lpar;ч.4&rpar;](https://habr.com/ru/articles/873180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873180)
-- [[Перевод] Brython: Python в вашем браузере &lpar;ч.3&rpar;](https://habr.com/ru/articles/873176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
