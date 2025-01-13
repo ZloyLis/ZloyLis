@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как поддерживать видимость социальной жизни, если ты лентяй](https://habr.com/ru/articles/871966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871966)
 - [Программирование для не программиста или как разрушалась мечта свалить всё на ИИ](https://habr.com/ru/articles/873152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873152)
 - [Баг в дизайне коллекций](https://habr.com/ru/articles/873150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873150)
 - [Spring Cloud Gateway как шлюз для мобильных приложений](https://habr.com/ru/articles/873148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873148)
 - [О чем говорит версия проекта?](https://habr.com/ru/articles/873142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873142)
-- [Деградация организации заметок одного программиста](https://habr.com/ru/articles/873132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
