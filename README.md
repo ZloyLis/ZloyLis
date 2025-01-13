@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL HowTo: генерация и подсчет уникальных комбинаций &lpar;Advent of Code 2024, Day 8: Resonant Collinearity&rpar;](https://habr.com/ru/companies/tensor/articles/873170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873170)
 - [Гибридное кэширование в ASP.NET Core](https://habr.com/ru/articles/871716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871716)
 - [Решаем тесты безупречно в MyTestX](https://habr.com/ru/articles/872978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872978)
 - [[Перевод] Brython: Python в вашем браузере &lpar;ч.4&rpar;](https://habr.com/ru/articles/873180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873180)
 - [[Перевод] Brython: Python в вашем браузере &lpar;ч.3&rpar;](https://habr.com/ru/articles/873176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873176)
-- [[Перевод] Brython: Python в вашем браузере &lpar;ч.2&rpar;](https://habr.com/ru/articles/873174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
