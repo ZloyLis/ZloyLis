@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 02 — Рисуем в Windows](https://habr.com/ru/articles/873318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873318)
+- [Чья фича лучше или как сравнить эффективность планов SQL-запроса](https://habr.com/ru/articles/873064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873064)
 - [[Перевод] Jakarta Data и Persistence: Инструменты, которые меняют подход к работе с данными](https://habr.com/ru/companies/spring_aio/articles/872830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872830)
 - [[Перевод] Я решил, что обнаружил баг…](https://habr.com/ru/companies/ruvds/articles/873296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873296)
 - [Малые релизы vs масштабная бизнес-ценность: кто кого?](https://habr.com/ru/articles/873316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873316)
-- [Gambit Scheme: проверяем, определён ли атом](https://habr.com/ru/articles/873290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873290)
-- [Signals в Django](https://habr.com/ru/companies/otus/articles/873118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
