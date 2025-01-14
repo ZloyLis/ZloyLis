@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вывести приложение в топ Google Play и App Store: ASO, мотивированный трафик и реклама. Практические советы](https://habr.com/ru/articles/873534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873534)
+- [Платформы — великое благо и великое зло](https://habr.com/ru/articles/873518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873518)
+- [Унификация, синхронизация, кросс-командность. Как дизайн-система реально улучшает жизнь компании](https://habr.com/ru/articles/873516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873516)
+- [Пишем ping на Go: сможем ли составить конкуренцию стандартному ping?](https://habr.com/ru/companies/yadro/articles/870584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870584)
 - [Пара слов о робастном распознавании речи или как «Писец» на Тотальный диктант ходил](https://habr.com/ru/companies/oleg-bunin/articles/867722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867722)
-- [[Перевод] Учёные нашли оптимальный способ обхода графа](https://habr.com/ru/companies/first/articles/873206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873206)
-- [MVP: что такое и с чем их есть в ИТ-бизнесе?](https://habr.com/ru/articles/873432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873432)
-- [Александр Нозик, директор Scientific Programming Centre, о научном программировании, open source в России и не только](https://habr.com/ru/articles/873408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873408)
-- [[Перевод] Видео Bad Apple в 6500 регулярных выражениях на базе поискового механизма vim](https://habr.com/ru/articles/873474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
