@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Забитый канал — как вы с ним поступаете в Go?](https://habr.com/ru/articles/873384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873384)
 - [Game++. String interning](https://habr.com/ru/articles/873016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873016)
 - [Цифровизируем учебу: как приложение с расписанием пар стало образовательным хабом для студентов по всей стране?](https://habr.com/ru/articles/873360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873360)
 - [Security Week 2503: атака zero-click на смартфоны Samsung](https://habr.com/ru/companies/kaspersky/articles/873338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873338)
 - [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 02 — Рисуем в Windows](https://habr.com/ru/articles/873318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873318)
-- [Чья фича лучше или как сравнить эффективность планов SQL-запроса](https://habr.com/ru/articles/873064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
