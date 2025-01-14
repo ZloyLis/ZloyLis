@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как просто добавить ИИ в приложения на Rust: универсальный опенсорсный инструмент](https://habr.com/ru/companies/kryptonite/articles/873286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873286)
+- [[Перевод] Современные способы переключения контента](https://habr.com/ru/companies/timeweb/articles/867142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867142)
+- [Как стать аналитиком данных с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/873446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873446)
+- [Вредные советы начинающему аналитику](https://habr.com/ru/companies/rostelecom/articles/873452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873452)
 - [RabbitMQ + Java Spring](https://habr.com/ru/articles/873450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873450)
-- [Apache Flink: тестирование собственного сериализатора состояния](https://habr.com/ru/companies/ru_mts/articles/873436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873436)
-- [Системный или бизнес-аналитик: мой взгляд изнутри профессии](https://habr.com/ru/companies/yandex_praktikum/articles/868792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868792)
-- [[Перевод] Что такое модель claims в Kubernetes: гибкость и эффективность управления ресурсами](https://habr.com/ru/companies/flant/articles/856942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856942)
-- [Забитый канал — как вы с ним поступаете в Go?](https://habr.com/ru/articles/873384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
