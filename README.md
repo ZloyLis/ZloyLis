@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TMA Wallet — некастодиальный MPC воллет для вашего Telegram Mini App](https://habr.com/ru/articles/873618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873618)
 - [Как iPhone заставил UX и интерфейс в авто меняться и почему концерны до сих пор не могут оправиться от этого?](https://habr.com/ru/articles/873594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873594)
 - [CodeStyle на Flutter-проектах: базовые принципы и правила — шаблон на все случаи жизни](https://habr.com/ru/companies/agima/articles/873576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873576)
 - [[Перевод] Основные функции инструментов управления тестированием](https://habr.com/ru/articles/871344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871344)
 - [[Перевод] Крестики-нолики на printf](https://habr.com/ru/articles/873554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873554)
-- [P3.express. Как сдать экзамен на сертификат с первого раза](https://habr.com/ru/articles/873550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
