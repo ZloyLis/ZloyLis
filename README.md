@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как просто добавить ИИ в приложения на Rust: универсальный опенсорсный инструмент](https://habr.com/ru/companies/kryptonite/articles/873286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873286)
-- [[Перевод] Современные способы переключения контента](https://habr.com/ru/companies/timeweb/articles/867142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867142)
-- [Как стать аналитиком данных с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/873446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873446)
-- [Вредные советы начинающему аналитику](https://habr.com/ru/companies/rostelecom/articles/873452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873452)
-- [RabbitMQ + Java Spring](https://habr.com/ru/articles/873450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873450)
+- [Пара слов о робастном распознавании речи или как «Писец» на Тотальный диктант ходил](https://habr.com/ru/companies/oleg-bunin/articles/867722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867722)
+- [[Перевод] Учёные нашли оптимальный способ обхода графа](https://habr.com/ru/companies/first/articles/873206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873206)
+- [MVP: что такое и с чем их есть в ИТ-бизнесе?](https://habr.com/ru/articles/873432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873432)
+- [Александр Нозик, директор Scientific Programming Centre, о научном программировании, open source в России и не только](https://habr.com/ru/articles/873408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873408)
+- [[Перевод] Видео Bad Apple в 6500 регулярных выражениях на базе поискового механизма vim](https://habr.com/ru/articles/873474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
