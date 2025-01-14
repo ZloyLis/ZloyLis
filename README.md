@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeStyle на Flutter-проектах: базовые принципы и правила — шаблон на все случаи жизни](https://habr.com/ru/companies/agima/articles/873576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873576)
 - [[Перевод] Основные функции инструментов управления тестированием](https://habr.com/ru/articles/871344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871344)
 - [[Перевод] Крестики-нолики на printf](https://habr.com/ru/articles/873554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873554)
 - [P3.express. Как сдать экзамен на сертификат с первого раза](https://habr.com/ru/articles/873550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873550)
 - [Как вывести приложение в топ Google Play и App Store: ASO, мотивированный трафик и реклама. Практические советы](https://habr.com/ru/articles/873534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873534)
-- [Платформы — великое благо и великое зло](https://habr.com/ru/articles/873518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
