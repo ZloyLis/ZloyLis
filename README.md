@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ + Java Spring](https://habr.com/ru/articles/873450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873450)
+- [Apache Flink: тестирование собственного сериализатора состояния](https://habr.com/ru/companies/ru_mts/articles/873436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873436)
+- [Системный или бизнес-аналитик: мой взгляд изнутри профессии](https://habr.com/ru/companies/yandex_praktikum/articles/868792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868792)
+- [[Перевод] Что такое модель claims в Kubernetes: гибкость и эффективность управления ресурсами](https://habr.com/ru/companies/flant/articles/856942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=856942)
 - [Забитый канал — как вы с ним поступаете в Go?](https://habr.com/ru/articles/873384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873384)
-- [Game++. String interning](https://habr.com/ru/articles/873016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873016)
-- [Цифровизируем учебу: как приложение с расписанием пар стало образовательным хабом для студентов по всей стране?](https://habr.com/ru/articles/873360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873360)
-- [Security Week 2503: атака zero-click на смартфоны Samsung](https://habr.com/ru/companies/kaspersky/articles/873338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873338)
-- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 02 — Рисуем в Windows](https://habr.com/ru/articles/873318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
