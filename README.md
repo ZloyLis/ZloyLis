@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872574)
+- [SQL HowTo: оптимизируем рекурсию &lpar;Advent of Code 2024, Day 9: Disk Fragmenter&rpar;](https://habr.com/ru/companies/tensor/articles/873702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873702)
+- [Дружим RabbitMQ и Flutter/Dart](https://habr.com/ru/companies/friflex/articles/873790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873790)
 - [Визуализация данных Мосбиржи и не только](https://habr.com/ru/articles/873814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873814)
 - [Как сделать BPMN-диаграмму чуточку лучше](https://habr.com/ru/companies/alfa/articles/873720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873720)
-- [CMake: Настройка проекта, подключение библиотек и мучения с Vulkan](https://habr.com/ru/articles/873798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873798)
-- [ПРОГРАММИРУЕМ SFP-МОДУЛИ НА ПРОГРАММАТОРЕ CH341A](https://habr.com/ru/articles/873792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873792)
-- [Spring Security + Telegram Authentication](https://habr.com/ru/articles/873786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
