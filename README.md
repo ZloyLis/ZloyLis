@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать тестировать подписки в Google Play и App Store](https://habr.com/ru/articles/873950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873950)
 - [Практическое обучение с подкреплением: от забав с MuJoCo&#39;м до битв на арене](https://habr.com/ru/articles/872514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872514)
 - [Перенос JWT-токенов в куки: Django REST + React](https://habr.com/ru/articles/873918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873918)
 - [Amplicode становится платным &lpar;и остается бесплатным&rpar;](https://habr.com/ru/companies/haulmont/articles/873868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873868)
 - [[Перевод] Постквантовая криптография в Java](https://habr.com/ru/companies/spring_aio/articles/873886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873886)
-- [[Перевод] Как организовать структуру приложения](https://habr.com/ru/articles/873880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
