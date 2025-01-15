@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автотесты: что есть 100% покрытие API?](https://habr.com/ru/articles/873854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873854)
+- [Как уведомлять клиентов о снижении цен на избранные товары в 1С-Битрикс](https://habr.com/ru/companies/exolve/articles/873848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873848)
+- [Как я замучился с пресейлами и решил создать SaaS сервис себе в помощь](https://habr.com/ru/articles/873846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873846)
+- [[Перевод] Интеграция API — это кошмар](https://habr.com/ru/companies/piter/articles/873842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873842)
 - [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872574)
-- [SQL HowTo: оптимизируем рекурсию &lpar;Advent of Code 2024, Day 9: Disk Fragmenter&rpar;](https://habr.com/ru/companies/tensor/articles/873702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873702)
-- [Дружим RabbitMQ и Flutter/Dart](https://habr.com/ru/companies/friflex/articles/873790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873790)
-- [Визуализация данных Мосбиржи и не только](https://habr.com/ru/articles/873814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873814)
-- [Как сделать BPMN-диаграмму чуточку лучше](https://habr.com/ru/companies/alfa/articles/873720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
