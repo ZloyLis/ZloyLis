@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не пора ли переходить на постквантовые криптоалгоритмы уже сейчас?](https://habr.com/ru/companies/aktiv-company/articles/873546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873546)
 - [BI как подход бизнеса к принятию решений. Пример реализации в логистике](https://habr.com/ru/companies/usetech/articles/873542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873542)
 - [Гайд по сдаче IELTS: с band 6 до band 7.5 за два месяца](https://habr.com/ru/articles/873558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873558)
 - [Нужна ли программисту математика? Разбираем на примерах](https://habr.com/ru/companies/yandex_praktikum/articles/869076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869076)
 - [300k видеозаписей, наводим порядок](https://habr.com/ru/articles/873624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873624)
-- [Разработка софта через описание: опыты с современными LLM](https://habr.com/ru/articles/868790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
