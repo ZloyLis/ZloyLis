@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Супераппы банков украдут ваших клиентов. Как сделать так, чтобы пользователи не ушли из ритейл-приложения](https://habr.com/ru/companies/surfstudio/articles/873828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873828)
 - [Автотесты: что есть 100% покрытие API?](https://habr.com/ru/articles/873854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873854)
 - [Как уведомлять клиентов о снижении цен на избранные товары в 1С-Битрикс](https://habr.com/ru/companies/exolve/articles/873848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873848)
 - [Как я замучился с пресейлами и решил создать SaaS сервис себе в помощь](https://habr.com/ru/articles/873846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873846)
 - [[Перевод] Интеграция API — это кошмар](https://habr.com/ru/companies/piter/articles/873842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873842)
-- [Как поймать и обезвредить проблемные запросы в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/872574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
