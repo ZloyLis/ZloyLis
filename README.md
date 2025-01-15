@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Traceback в VBA? ЧТО?](https://habr.com/ru/articles/873686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873686)
+- [Простой вебсервис, на Perl, но не CGI](https://habr.com/ru/articles/873688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873688)
+- [SQL-инъекции для начинающих](https://habr.com/ru/articles/873670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873670)
 - [Простая система частиц на SFML C++](https://habr.com/ru/articles/873638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873638)
 - [Как я настраивал S3 в Strapi? Больно, но не сильно](https://habr.com/ru/articles/873566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873566)
-- [TMA Wallet — некастодиальный MPC воллет для вашего Telegram Mini App](https://habr.com/ru/articles/873618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873618)
-- [Как iPhone заставил UX и интерфейс в авто меняться и почему концерны до сих пор не могут оправиться от этого?](https://habr.com/ru/articles/873594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873594)
-- [CodeStyle на Flutter-проектах: базовые принципы и правила — шаблон на все случаи жизни](https://habr.com/ru/companies/agima/articles/873576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
