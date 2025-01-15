@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работает? Трогай! Рефакторинг](https://habr.com/ru/articles/873386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873386)
 - [ICOGON: натянем шахматы на глобус](https://habr.com/ru/articles/873958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873958)
 - [Как начать тестировать подписки в Google Play и App Store](https://habr.com/ru/articles/873950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873950)
 - [Практическое обучение с подкреплением: от забав с MuJoCo&#39;м до битв на арене](https://habr.com/ru/articles/872514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872514)
 - [Перенос JWT-токенов в куки: Django REST + React](https://habr.com/ru/articles/873918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873918)
-- [Amplicode становится платным &lpar;и остается бесплатным&rpar;](https://habr.com/ru/companies/haulmont/articles/873868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
