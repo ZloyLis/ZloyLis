@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Amplicode становится платным &lpar;и остается бесплатным&rpar;](https://habr.com/ru/companies/haulmont/articles/873868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873868)
+- [[Перевод] Постквантовая криптография в Java](https://habr.com/ru/companies/spring_aio/articles/873886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873886)
+- [[Перевод] Как организовать структуру приложения](https://habr.com/ru/articles/873880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873880)
 - [Супераппы банков украдут ваших клиентов. Как сделать так, чтобы пользователи не ушли из ритейл-приложения](https://habr.com/ru/companies/surfstudio/articles/873828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873828)
 - [Автотесты: что есть 100% покрытие API?](https://habr.com/ru/articles/873854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873854)
-- [Как уведомлять клиентов о снижении цен на избранные товары в 1С-Битрикс](https://habr.com/ru/companies/exolve/articles/873848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873848)
-- [Как я замучился с пресейлами и решил создать SaaS сервис себе в помощь](https://habr.com/ru/articles/873846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873846)
-- [[Перевод] Интеграция API — это кошмар](https://habr.com/ru/companies/piter/articles/873842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
