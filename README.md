@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security + Telegram Authentication](https://habr.com/ru/articles/873786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873786)
+- [Реализация паттерна Chain of Responsibility на примере котиков в PHP](https://habr.com/ru/companies/otus/articles/873368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873368)
+- [Красивая задача на центр масс](https://habr.com/ru/articles/873766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873766)
 - [Не пора ли переходить на постквантовые криптоалгоритмы уже сейчас?](https://habr.com/ru/companies/aktiv-company/articles/873546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873546)
 - [BI как подход бизнеса к принятию решений. Пример реализации в логистике](https://habr.com/ru/companies/usetech/articles/873542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873542)
-- [Гайд по сдаче IELTS: с band 6 до band 7.5 за два месяца](https://habr.com/ru/articles/873558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873558)
-- [Нужна ли программисту математика? Разбираем на примерах](https://habr.com/ru/companies/yandex_praktikum/articles/869076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869076)
-- [300k видеозаписей, наводим порядок](https://habr.com/ru/articles/873624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
