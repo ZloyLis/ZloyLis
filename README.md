@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Traceback в VBA? ЧТО?](https://habr.com/ru/articles/873686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873686)
-- [Простой вебсервис, на Perl, но не CGI](https://habr.com/ru/articles/873688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873688)
-- [SQL-инъекции для начинающих](https://habr.com/ru/articles/873670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873670)
-- [Простая система частиц на SFML C++](https://habr.com/ru/articles/873638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873638)
-- [Как я настраивал S3 в Strapi? Больно, но не сильно](https://habr.com/ru/articles/873566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873566)
+- [Нужна ли программисту математика? Разбираем на примерах](https://habr.com/ru/companies/yandex_praktikum/articles/869076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869076)
+- [300k видеозаписей, наводим порядок](https://habr.com/ru/articles/873624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873624)
+- [Разработка софта через описание: опыты с современными LLM](https://habr.com/ru/articles/868790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868790)
+- [[Перевод] Как упростить доступ к данным с MySQL и Jakarta Data](https://habr.com/ru/companies/otus/articles/873712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873712)
+- [Тестируем на разном](https://habr.com/ru/articles/873144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
