@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Визуализация данных Мосбиржи и не только](https://habr.com/ru/articles/873814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873814)
+- [Как сделать BPMN-диаграмму чуточку лучше](https://habr.com/ru/companies/alfa/articles/873720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873720)
+- [CMake: Настройка проекта, подключение библиотек и мучения с Vulkan](https://habr.com/ru/articles/873798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873798)
+- [ПРОГРАММИРУЕМ SFP-МОДУЛИ НА ПРОГРАММАТОРЕ CH341A](https://habr.com/ru/articles/873792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873792)
 - [Spring Security + Telegram Authentication](https://habr.com/ru/articles/873786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873786)
-- [Реализация паттерна Chain of Responsibility на примере котиков в PHP](https://habr.com/ru/companies/otus/articles/873368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873368)
-- [Красивая задача на центр масс](https://habr.com/ru/articles/873766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873766)
-- [Не пора ли переходить на постквантовые криптоалгоритмы уже сейчас?](https://habr.com/ru/companies/aktiv-company/articles/873546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873546)
-- [BI как подход бизнеса к принятию решений. Пример реализации в логистике](https://habr.com/ru/companies/usetech/articles/873542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
