@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оцените мой инди-стартап для чтения книг в оригинале. Что думаете?](https://habr.com/ru/articles/874002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874002)
 - [Автоматизация процессов в гидравлических системах](https://habr.com/ru/articles/873988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873988)
 - [Game++. Cooking vectors](https://habr.com/ru/articles/873990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873990)
 - [Работает? Трогай! Рефакторинг](https://habr.com/ru/articles/873386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873386)
 - [ICOGON: натянем шахматы на глобус](https://habr.com/ru/articles/873958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873958)
-- [Как начать тестировать подписки в Google Play и App Store](https://habr.com/ru/articles/873950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
