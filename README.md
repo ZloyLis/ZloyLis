@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление настройками с помощью Jetpack DataStore: Простой подход к сохранению данных разных типов](https://habr.com/ru/articles/874034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874034)
+- [Lite-версия мигратора Flyway для PostgreSQL на TypeScript](https://habr.com/ru/articles/874028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874028)
+- [1С-аналитика или разработка? Разбираем направления](https://habr.com/ru/companies/yandex_praktikum/articles/867650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867650)
+- [Как R облегчает мою жизнь разработчика](https://habr.com/ru/companies/yandex/articles/873308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873308)
 - [Оцените мой инди-стартап для чтения книг в оригинале. Что думаете?](https://habr.com/ru/articles/874002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874002)
-- [Автоматизация процессов в гидравлических системах](https://habr.com/ru/articles/873988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873988)
-- [Game++. Cooking vectors](https://habr.com/ru/articles/873990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873990)
-- [Работает? Трогай! Рефакторинг](https://habr.com/ru/articles/873386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873386)
-- [ICOGON: натянем шахматы на глобус](https://habr.com/ru/articles/873958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
