@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Colab обновился до Python 3.11.11](https://habr.com/ru/articles/874110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874110)
+- [Исследование: победители awwwards и их performance в Lighthouse](https://habr.com/ru/articles/874094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874094)
 - [Когда слайсы начинают расти](https://habr.com/ru/articles/874084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874084)
 - [[Записки тимлида] Битрикс: от модулей к сервисам 3](https://habr.com/ru/articles/874078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874078)
 - [Как ArgoCD секреты из Vault не расшифровывал, или при чем тут App of Apps](https://habr.com/ru/companies/yadro/articles/873476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873476)
-- [Динамический промптинг, или RAG наоборот](https://habr.com/ru/companies/sberbank/articles/874062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874062)
-- [Use-case 3.0: краткое руководство](https://habr.com/ru/articles/873952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
