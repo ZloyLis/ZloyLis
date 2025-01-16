@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [SOLID на котиках: коротко и по делу](https://habr.com/ru/companies/otus/articles/874104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874104)
 - [Путь к миру без страданий: как оформить исследовательский проект](https://habr.com/ru/companies/avito/articles/873856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873856)
-- [Теория вероятностей в действии 2.0](https://habr.com/ru/articles/874226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874226)
+- [Теория вероятностей в действии 2.0 &lpar;web приложение для корректировки прогнозов разработчиков&rpar;](https://habr.com/ru/articles/874226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874226)
 - [[Перевод] Внутрипроцессная трассировка системных вызовов с использованием цепочного загрузчика](https://habr.com/ru/companies/timeweb/articles/874194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874194)
 - [Эконометрика в ритейле: как не потратить миллионы на заведомо неэффективные эксперименты](https://habr.com/ru/companies/X5Tech/articles/874190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874190)
 <!-- BLOG-POST-LIST:END -->
