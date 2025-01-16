@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Локализуем React &lpar;NextJS, TypeScript&rpar; сайт на несколько языков с помощью i18next](https://habr.com/ru/articles/873984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873984)
-- [Нейроисследования в работе UX-редактора: выводы учёных, которые улучшат тексты вашего продукта](https://habr.com/ru/companies/domclick/articles/865264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865264)
-- [Управление настройками с помощью Jetpack DataStore: Простой подход к сохранению данных разных типов](https://habr.com/ru/articles/874034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874034)
-- [Lite-версия мигратора Flyway для PostgreSQL на TypeScript](https://habr.com/ru/articles/874028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874028)
-- [1С-аналитика или разработка? Разбираем направления](https://habr.com/ru/companies/yandex_praktikum/articles/867650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867650)
+- [Когда слайсы начинают расти](https://habr.com/ru/articles/874084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874084)
+- [[Записки тимлида] Битрикс: от модулей к сервисам 3](https://habr.com/ru/articles/874078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874078)
+- [Как ArgoCD секреты из Vault не расшифровывал, или при чем тут App of Apps](https://habr.com/ru/companies/yadro/articles/873476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873476)
+- [Динамический промптинг, или RAG наоборот](https://habr.com/ru/companies/sberbank/articles/874062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874062)
+- [Use-case 3.0: краткое руководство](https://habr.com/ru/articles/873952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
