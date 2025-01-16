@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Внутрипроцессная трассировка системных вызовов с использованием цепочного загрузчика](https://habr.com/ru/companies/timeweb/articles/874194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874194)
 - [Эконометрика в ритейле: как не потратить миллионы на заведомо неэффективные эксперименты](https://habr.com/ru/companies/X5Tech/articles/874190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874190)
 - [Как мы сократили time to market на 17%, не выжигая команду и не теряя в качестве](https://habr.com/ru/companies/simbirsoft/articles/874018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874018)
 - [Смотрим «под капот» бэкенда изображений в ОК](https://habr.com/ru/companies/odnoklassniki/articles/873874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873874)
 - [Экспорт и импорт File Templates в IDE от Intellij](https://habr.com/ru/companies/tbank/articles/874048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874048)
-- [[Перевод] Стала доступна первая EAP-версия IntelliJ IDEA 2025.1](https://habr.com/ru/companies/spring_aio/articles/874146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
