@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локализуем React &lpar;NextJS, TypeScript&rpar; сайт на несколько языков с помощью i18next](https://habr.com/ru/articles/873984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873984)
+- [Нейроисследования в работе UX-редактора: выводы учёных, которые улучшат тексты вашего продукта](https://habr.com/ru/companies/domclick/articles/865264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865264)
 - [Управление настройками с помощью Jetpack DataStore: Простой подход к сохранению данных разных типов](https://habr.com/ru/articles/874034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874034)
 - [Lite-версия мигратора Flyway для PostgreSQL на TypeScript](https://habr.com/ru/articles/874028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874028)
 - [1С-аналитика или разработка? Разбираем направления](https://habr.com/ru/companies/yandex_praktikum/articles/867650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=867650)
-- [Как R облегчает мою жизнь разработчика](https://habr.com/ru/companies/yandex/articles/873308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873308)
-- [Оцените мой инди-стартап для чтения книг в оригинале. Что думаете?](https://habr.com/ru/articles/874002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
