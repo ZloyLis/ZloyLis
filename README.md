@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сократили time to market на 17%, не выжигая команду и не теряя в качестве](https://habr.com/ru/companies/simbirsoft/articles/874018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874018)
+- [Смотрим «под капот» бэкенда изображений в ОК](https://habr.com/ru/companies/odnoklassniki/articles/873874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873874)
+- [Экспорт и импорт File Templates в IDE от Intellij](https://habr.com/ru/companies/tbank/articles/874048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874048)
 - [[Перевод] Стала доступна первая EAP-версия IntelliJ IDEA 2025.1](https://habr.com/ru/companies/spring_aio/articles/874146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874146)
 - [Как я пишу open source игру на Java](https://habr.com/ru/companies/korus_consulting/articles/874134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874134)
-- [Визуализация Active Session History в PostgreSQL — делаем просто и красиво](https://habr.com/ru/companies/uzum/articles/865622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865622)
-- [Исследование: победители awwwards и их performance в Lighthouse](https://habr.com/ru/articles/874094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874094)
-- [Когда слайсы начинают расти](https://habr.com/ru/articles/874084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
