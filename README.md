@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Осторожно, работают люди](https://habr.com/ru/articles/872518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872518)
-- [Немного о серебре](https://habr.com/ru/articles/874396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874396)
-- [Рынок корпоративных мобильных приложений России. История, участники, тренды](https://habr.com/ru/companies/sigma/articles/870630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870630)
-- [[Перевод] Отчет DORA–2024: как ведущие команды достигают успеха в разработке ПО](https://habr.com/ru/articles/874376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874376)
-- [Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках](https://habr.com/ru/companies/yandex/articles/874202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874202)
+- [.NET Digest #5](https://habr.com/ru/companies/pvs-studio/articles/874446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874446)
+- [Властелин финансов. Битва за банкоматы](https://habr.com/ru/articles/874432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874432)
+- [.NET Digest #5](https://habr.com/ru/companies/pvs-studio/articles/874430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874430)
+- [[Перевод] Синглтон — корень всех зол](https://habr.com/ru/companies/piter/articles/874428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874428)
+- [[Перевод] Руководство для начинающих по стратегиям Hibernate fetching &lpar;извлечение данных&rpar;](https://habr.com/ru/articles/874420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
