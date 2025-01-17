@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Осторожно, работают люди](https://habr.com/ru/articles/872518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872518)
+- [Немного о серебре](https://habr.com/ru/articles/874396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874396)
 - [Рынок корпоративных мобильных приложений России. История, участники, тренды](https://habr.com/ru/companies/sigma/articles/870630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870630)
 - [[Перевод] Отчет DORA–2024: как ведущие команды достигают успеха в разработке ПО](https://habr.com/ru/articles/874376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874376)
 - [Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках](https://habr.com/ru/companies/yandex/articles/874202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874202)
-- [Триггеры ядра Joomla при CRUD-операциях](https://habr.com/ru/articles/874320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874320)
-- [Внимание — это все, что нужно коммивояжеру](https://habr.com/ru/articles/874346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
