@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что случилось с легковесными десктопными приложениями? История Electron](https://habr.com/ru/companies/ruvds/articles/873714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873714)
+- [Мечтают ли электроовцы об андроидах?](https://habr.com/ru/articles/874460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874460)
+- [Как из R-Keeper получать регулярную сводку по продажам заведения](https://habr.com/ru/companies/exolve/articles/874456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874456)
+- [Переливаем таблицы БД между средами: быстро и без боли на примере MS SQL](https://habr.com/ru/companies/vk/articles/874342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874342)
 - [.NET Digest #5](https://habr.com/ru/companies/pvs-studio/articles/874446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874446)
-- [Властелин финансов. Битва за банкоматы](https://habr.com/ru/articles/874432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874432)
-- [.NET Digest #5](https://habr.com/ru/companies/pvs-studio/articles/874430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874430)
-- [[Перевод] Синглтон — корень всех зол](https://habr.com/ru/companies/piter/articles/874428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874428)
-- [[Перевод] Руководство для начинающих по стратегиям Hibernate fetching &lpar;извлечение данных&rpar;](https://habr.com/ru/articles/874420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
