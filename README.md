@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Что случилось с легковесными десктопными приложениями? История Electron](https://habr.com/ru/companies/ruvds/articles/873714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873714)
-- [Мечтают ли электроовцы об андроидах?](https://habr.com/ru/articles/874460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874460)
-- [Как из R-Keeper получать регулярную сводку по продажам заведения](https://habr.com/ru/companies/exolve/articles/874456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874456)
-- [Переливаем таблицы БД между средами: быстро и без боли на примере MS SQL](https://habr.com/ru/companies/vk/articles/874342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874342)
-- [.NET Digest #5](https://habr.com/ru/companies/pvs-studio/articles/874446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874446)
+- [[Перевод] System Design для начинающих: Всё, что вам нужно. Часть 1](https://habr.com/ru/articles/873388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873388)
+- [Как собрать идеальную команду, если кандидаты завышают опыт, используют ChatGPT и просят высокую зарплату](https://habr.com/ru/companies/rshb/articles/874174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874174)
+- [Зачем мы написали библиотеку для создания телеграм ботов на С++?](https://habr.com/ru/articles/874378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874378)
+- [Explyt Spring Plugin — наша версия HTTP-клиента для IntelliJ IDEA](https://habr.com/ru/companies/explyt/articles/874236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874236)
+- [Дополненная реальность в Web: какие библиотеки актуальны в 2025?](https://habr.com/ru/companies/kts/articles/874464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
