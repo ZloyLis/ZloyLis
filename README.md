@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рынок корпоративных мобильных приложений России. История, участники, тренды](https://habr.com/ru/companies/sigma/articles/870630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870630)
+- [[Перевод] Отчет DORA–2024: как ведущие команды достигают успеха в разработке ПО](https://habr.com/ru/articles/874376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874376)
 - [Так ли плох Go в глазах C++ разработчика: пишем микросервис и учимся на ошибках](https://habr.com/ru/companies/yandex/articles/874202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874202)
 - [Триггеры ядра Joomla при CRUD-операциях](https://habr.com/ru/articles/874320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874320)
 - [Внимание — это все, что нужно коммивояжеру](https://habr.com/ru/articles/874346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874346)
-- [7 дизайн-трендов 2025: небрежность и ретро-эстетика против идеального AI](https://habr.com/ru/companies/garage8/articles/874326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874326)
-- [Коротко про generate_series в PostgreSQL](https://habr.com/ru/companies/otus/articles/874140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
