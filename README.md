@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [7 дизайн-трендов 2025: небрежность и ретро-эстетика против идеального AI](https://habr.com/ru/companies/garage8/articles/874326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874326)
+- [Коротко про generate_series в PostgreSQL](https://habr.com/ru/companies/otus/articles/874140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874140)
 - [[Перевод] Переиндексация в Manticore Search с использованием mysqldump](https://habr.com/ru/articles/874280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874280)
 - [Как на примере одной кнопки можно улучшить Frontend часть проекта](https://habr.com/ru/articles/874302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874302)
 - [Управление резервным копированием PostgreSQL через веб-интерфейс: обзор утилиты PG Back Web](https://habr.com/ru/companies/flant/articles/874088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874088)
-- [SQL HowTo: поиск «в ширину» внутри цикла &lpar;Advent of Code 2024, Day 10: Hoof It&rpar;](https://habr.com/ru/companies/tensor/articles/874290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874290)
-- [Восемьдесят миллионов оттенков зеленого: как боты устроили распродажу производительности](https://habr.com/ru/articles/874042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
