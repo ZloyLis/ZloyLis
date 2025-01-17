@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как не усложнять себе жизнь при разработке первого pet-проекта](https://habr.com/ru/articles/874294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874294)
-- [Go в GUI, я создал](https://habr.com/ru/articles/874264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874264)
-- [SOLID на котиках: коротко и по делу](https://habr.com/ru/companies/otus/articles/874104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874104)
-- [Путь к миру без страданий: как оформить исследовательский проект](https://habr.com/ru/companies/avito/articles/873856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873856)
-- [Теория вероятностей в действии 2.0 &lpar;web приложение для корректировки прогнозов разработчиков&rpar;](https://habr.com/ru/articles/874226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874226)
+- [Как на примере одной кнопки можно улучшить Frontend часть проекта](https://habr.com/ru/articles/874302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874302)
+- [Управление резервным копированием PostgreSQL через веб-интерфейс: обзор утилиты PG Back Web](https://habr.com/ru/companies/flant/articles/874088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874088)
+- [SQL HowTo: поиск «в ширину» внутри цикла &lpar;Advent of Code 2024, Day 10: Hoof It&rpar;](https://habr.com/ru/companies/tensor/articles/874290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874290)
+- [Восемьдесят миллионов оттенков зеленого: как боты устроили распродажу производительности](https://habr.com/ru/articles/874042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874042)
+- [Свой стартап на LLM и агентах — это просто! &lpar;нет&rpar;. Или почему технология не всегда так важна](https://habr.com/ru/articles/874274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
