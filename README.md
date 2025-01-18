@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модификация автопилота роботакси для движения по изолированным полосам](https://habr.com/ru/articles/871324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871324)
 - [Костыли, костыли и ещё раз костыли. Или поддержка ios15 на SwiftUI](https://habr.com/ru/articles/874258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874258)
 - [Делаем Телеграм-бота в Cursor AI без знания кода](https://habr.com/ru/articles/874220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874220)
 - [Новое руководство по стилю Angular](https://habr.com/ru/articles/874470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874470)
 - [[Перевод] Event-driven микросервисы с использованием Spring Boot и Kafka](https://habr.com/ru/companies/spring_aio/articles/874488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874488)
-- [[Перевод] Не используйте JPA и Hibernate FetchType EAGER](https://habr.com/ru/articles/874484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
