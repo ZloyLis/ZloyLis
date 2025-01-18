@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтернатива Firebase Dynamic Links на KMP](https://habr.com/ru/articles/864708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864708)
+- [Rust 1.84: новый релиз отличного языка программирования. Еще лучше, еще эффективнее, как всегда](https://habr.com/ru/companies/selectel/articles/858462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858462)
+- [Двое из ларца на CES 2025: стандарты HDMI 2.2 и DisplayPort 2.1b](https://habr.com/ru/companies/ru_mts/articles/874518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874518)
+- [Кэш. Теория кэширования. Устройство и разновидности кэша](https://habr.com/ru/articles/874546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874546)
 - [Модификация автопилота роботакси для движения по изолированным полосам](https://habr.com/ru/articles/871324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871324)
-- [Костыли, костыли и ещё раз костыли. Или поддержка ios15 на SwiftUI](https://habr.com/ru/articles/874258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874258)
-- [Делаем Телеграм-бота в Cursor AI без знания кода](https://habr.com/ru/articles/874220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874220)
-- [Новое руководство по стилю Angular](https://habr.com/ru/articles/874470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874470)
-- [[Перевод] Event-driven микросервисы с использованием Spring Boot и Kafka](https://habr.com/ru/companies/spring_aio/articles/874488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
