@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я случайно купил последний в мире прототип игрового смартфона и доработал его до ума](https://habr.com/ru/companies/timeweb/articles/874512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874512)
 - [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874610)
 - [Кодогенерация: кому нужна и как настроить](https://habr.com/ru/articles/874606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874606)
 - [Альтернатива Firebase Dynamic Links на KMP](https://habr.com/ru/articles/864708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864708)
 - [Rust 1.84: новый релиз отличного языка программирования. Еще лучше, еще эффективнее, как всегда](https://habr.com/ru/companies/selectel/articles/858462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858462)
-- [Двое из ларца на CES 2025: стандарты HDMI 2.2 и DisplayPort 2.1b](https://habr.com/ru/companies/ru_mts/articles/874518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
