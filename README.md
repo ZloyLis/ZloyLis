@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасная разработка на С++ без нарушения обратной совместимости. Библиотека MemSafe и плагин для Clang](https://habr.com/ru/articles/874648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874648)
 - [Я хочу поделиться и получить знания в IT сфере, где? Сравнение, мифы, факты основных мест для блогов, статей, видео об IT](https://habr.com/ru/articles/874616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874616)
 - [Типы мобильных приложений](https://habr.com/ru/articles/874626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874626)
 - [Как я случайно купил последний в мире прототип игрового смартфона и доработал его до ума](https://habr.com/ru/companies/timeweb/articles/874512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874512)
 - [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874610)
-- [Кодогенерация: кому нужна и как настроить](https://habr.com/ru/articles/874606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
