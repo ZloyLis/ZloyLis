@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заговор разработчиков против корпораций](https://habr.com/ru/articles/874610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874610)
+- [Кодогенерация: кому нужна и как настроить](https://habr.com/ru/articles/874606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874606)
 - [Альтернатива Firebase Dynamic Links на KMP](https://habr.com/ru/articles/864708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864708)
 - [Rust 1.84: новый релиз отличного языка программирования. Еще лучше, еще эффективнее, как всегда](https://habr.com/ru/companies/selectel/articles/858462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=858462)
 - [Двое из ларца на CES 2025: стандарты HDMI 2.2 и DisplayPort 2.1b](https://habr.com/ru/companies/ru_mts/articles/874518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874518)
-- [Кэш. Теория кэширования. Устройство и разновидности кэша](https://habr.com/ru/articles/874546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874546)
-- [Модификация автопилота роботакси для движения по изолированным полосам](https://habr.com/ru/articles/871324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
