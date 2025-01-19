@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Антиспам бот модератор в телеграм. Защищаем группу за три минуты](https://habr.com/ru/companies/amvera/articles/874776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874776)
+- [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874584)
 - [Аудит Shadow IT](https://habr.com/ru/articles/874770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874770)
 - [Руководство по восстановлению удаленных сообщений и медиаданных в Telegram](https://habr.com/ru/articles/874764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874764)
 - [Неочевидные плюсы языка программирования](https://habr.com/ru/articles/874760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874760)
-- [Мобильная разработка за неделю #571 &lpar;13 — 19 января&rpar;](https://habr.com/ru/articles/874748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874748)
-- [Селекторы HTML элементов в JavaScrip](https://habr.com/ru/articles/874744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
