@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Селекторы HTML элементов в JavaScrip](https://habr.com/ru/articles/874744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874744)
+- [Теория категорий для самых маленьких. Введение](https://habr.com/ru/articles/874720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874720)
+- [С чего начать путь уверенного DevOps-бэкэндера: Гайд по Linux-командам для работы с системой](https://habr.com/ru/articles/874742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874742)
 - [Как люди реагируют на рекламные рассылки: факторы воздействия](https://habr.com/ru/articles/874726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874726)
 - [Multi-tenant Kubernetes](https://habr.com/ru/articles/874718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874718)
-- [Гибкие макеты: Решаем проблему на корню](https://habr.com/ru/articles/874716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874716)
-- [[Перевод] Операционная система в 1 000 строках кода &lpar;Часть 1&rpar;](https://habr.com/ru/companies/ruvds/articles/874154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874154)
-- [Как мы в bitDive искали способ эффективно отправлять миллионы сообщений](https://habr.com/ru/articles/874694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
