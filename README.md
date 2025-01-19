@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как люди реагируют на рекламные рассылки: факторы воздействия](https://habr.com/ru/articles/874726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874726)
 - [Multi-tenant Kubernetes](https://habr.com/ru/articles/874718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874718)
 - [Гибкие макеты: Решаем проблему на корню](https://habr.com/ru/articles/874716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874716)
 - [[Перевод] Операционная система в 1 000 строках кода &lpar;Часть 1&rpar;](https://habr.com/ru/companies/ruvds/articles/874154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874154)
 - [Как мы в bitDive искали способ эффективно отправлять миллионы сообщений](https://habr.com/ru/articles/874694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874694)
-- [Глубокое обучение: Автоматическое дифференцирование. Теория и реализация. С нуля, на Python](https://habr.com/ru/articles/874592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
