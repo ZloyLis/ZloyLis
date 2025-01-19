@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отправляем пуш уведомления в телеграм через Spring Boot](https://habr.com/ru/articles/871558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871558)
 - [Мультиагенты ИИ, мультиагенты неИИ и актеры. Адаптивность и автономность](https://habr.com/ru/articles/874668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874668)
 - [Безопасная работа с памятью на С++ без нарушения обратной совместимости. Библиотека MemSafe и плагин для компилятора](https://habr.com/ru/articles/874648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874648)
 - [Я хочу поделиться и получить знания в IT, где? Сравнение, мифы, факты основных мест для блогов, статей, видео об IT](https://habr.com/ru/articles/874616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874616)
 - [Типы мобильных приложений](https://habr.com/ru/articles/874626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874626)
-- [Как я случайно купил последний в мире прототип игрового смартфона и доработал его до ума](https://habr.com/ru/companies/timeweb/articles/874512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
