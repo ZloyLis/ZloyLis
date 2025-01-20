@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Телефонный виджет для переписок и система заметок на базе гита &lpar;gitea&rpar;](https://habr.com/ru/articles/874962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874962)
+- [Архитектура для SwiftUI — VSURF](https://habr.com/ru/companies/surfstudio/articles/874958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874958)
+- [[Перевод] С++ — это настоящий кайфǃ](https://habr.com/ru/companies/wunderfund/articles/874216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874216)
 - [tuple в CPython – мутабельный! И другие шокирующие детали из C-шной реализации](https://habr.com/ru/articles/874608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874608)
 - [Как мы сделали on-device-распознавание номеров телефонов для ИТ-Пикника](https://habr.com/ru/companies/tbank/articles/874868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874868)
-- [Абсолютно потрясающее, но определенно не всеобъемлющее руководство по тестированию пуш-уведомлений](https://habr.com/ru/articles/811297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811297)
-- [Как устроен киберспорт: общество](https://habr.com/ru/articles/874906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874906)
-- [Автоматизируем рутинные задачи и сокращаем бюджет на дизайн: Figma Variables в создании макетов мобильных приложений](https://habr.com/ru/companies/cleverpumpkin/articles/874904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
