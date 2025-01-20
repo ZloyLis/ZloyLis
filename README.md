@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [localForage — Что делать если localStorage уже не хватает?](https://habr.com/ru/articles/874980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874980)
+- [Жизненный цикл API. Разбор на примере с использованием .NET](https://habr.com/ru/articles/874972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874972)
 - [Телефонный виджет для переписок и система заметок на базе гита &lpar;gitea&rpar;](https://habr.com/ru/articles/874962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874962)
 - [Архитектура для SwiftUI — VSURF](https://habr.com/ru/companies/surfstudio/articles/874958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874958)
 - [[Перевод] С++ — это настоящий кайфǃ](https://habr.com/ru/companies/wunderfund/articles/874216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874216)
-- [tuple в CPython – мутабельный! И другие шокирующие детали из C-шной реализации](https://habr.com/ru/articles/874608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874608)
-- [Как мы сделали on-device-распознавание номеров телефонов для ИТ-Пикника](https://habr.com/ru/companies/tbank/articles/874868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
