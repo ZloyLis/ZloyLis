@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pro Weekly News &lpar;13.01 – 19.01.25&rpar;](https://habr.com/ru/articles/875116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875116)
 - [[Перевод] Исследуем «вредоносную» флешку RJ45](https://habr.com/ru/articles/875124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875124)
 - [Security Week 2504: безотверточная атака на шифрование в Windows](https://habr.com/ru/companies/kaspersky/articles/875042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875042)
 - [Токены цвета для приложения: Как создать, использовать и передать в разработку](https://habr.com/ru/articles/875098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875098)
 - [Практическое применение открытых API: трансформация студенческого проекта в бизнес-решение по оценке контрагентов](https://habr.com/ru/articles/875092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875092)
-- [Нужна ли асинхронщина на проектах: пара наблюдений про Spring и неблокирующее API для самых маленьких](https://habr.com/ru/companies/maxilect/articles/875064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
