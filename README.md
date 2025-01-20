@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Токены цвета для приложения: Как создать, использовать и передать в разработку](https://habr.com/ru/articles/875098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875098)
+- [Практическое применение открытых API: трансформация студенческого проекта в бизнес-решение по оценке контрагентов](https://habr.com/ru/articles/875092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875092)
 - [Нужна ли асинхронщина на проектах: пара наблюдений про Spring и неблокирующее API для самых маленьких](https://habr.com/ru/companies/maxilect/articles/875064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875064)
 - [[Перевод] Почему нам всем стоит отказаться от соцсетей в пользу RSS](https://habr.com/ru/companies/ruvds/articles/874948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874948)
 - [Считаем количество токенов для LLM в исходниках ядра Linux и не только…](https://habr.com/ru/articles/875022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875022)
-- [Связь через Атлантику: история подключения Великобритании к Arpanet](https://habr.com/ru/companies/ru_mts/articles/874978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874978)
-- [Забудьте про зарплаты в 500 тысяч: сколько будут получать разработчики в 2025 году](https://habr.com/ru/articles/875004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
