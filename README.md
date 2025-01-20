@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [tuple в CPython – мутабельный! И другие шокирующие детали из C-шной реализации](https://habr.com/ru/articles/874608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874608)
+- [Как мы сделали on-device-распознавание номеров телефонов для ИТ-Пикника](https://habr.com/ru/companies/tbank/articles/874868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874868)
+- [Абсолютно потрясающее, но определенно не всеобъемлющее руководство по тестированию пуш-уведомлений](https://habr.com/ru/articles/811297/?utm_source=habrahabr&utm_medium=rss&utm_campaign=811297)
 - [Как устроен киберспорт: общество](https://habr.com/ru/articles/874906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874906)
 - [Автоматизируем рутинные задачи и сокращаем бюджет на дизайн: Figma Variables в создании макетов мобильных приложений](https://habr.com/ru/companies/cleverpumpkin/articles/874904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874904)
-- [Регистрация доменов, NVIDIA A100 на 80 ГБ и не только: дайджест за декабрь](https://habr.com/ru/companies/selectel/articles/874856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874856)
-- [Почему ты не должен использовать onChange в React](https://habr.com/ru/articles/874874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874874)
-- [Как ChatGPT из джуна сделает тебя сеньором: практический гайд](https://habr.com/ru/articles/874846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
