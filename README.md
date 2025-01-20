@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Считаем количество токенов для LLM в исходниках ядра Linux и не только…](https://habr.com/ru/articles/875022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875022)
+- [Связь через Атлантику: история подключения Великобритании к Arpanet](https://habr.com/ru/companies/ru_mts/articles/874978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874978)
+- [Забудьте про зарплаты в 500 тысяч: сколько будут получать разработчики в 2025 году](https://habr.com/ru/articles/875004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875004)
+- [Курсы программирования для подростков онлайн: подборка лучших](https://habr.com/ru/articles/874998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874998)
 - [localForage — Что делать если localStorage уже не хватает?](https://habr.com/ru/articles/874980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874980)
-- [Жизненный цикл API. Разбор на примере с использованием .NET](https://habr.com/ru/articles/874972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874972)
-- [Телефонный виджет для переписок и система заметок на базе гита &lpar;gitea&rpar;](https://habr.com/ru/articles/874962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874962)
-- [Архитектура для SwiftUI — VSURF](https://habr.com/ru/companies/surfstudio/articles/874958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874958)
-- [[Перевод] С++ — это настоящий кайфǃ](https://habr.com/ru/companies/wunderfund/articles/874216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
