@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить интеграцию](https://habr.com/ru/articles/874634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874634)
 - [О посещении офиса Google в Лондоне и важности участия в офлайн-сообществах](https://habr.com/ru/articles/874796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874796)
 - [HashMap под микроскопом](https://habr.com/ru/articles/874728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874728)
 - [RabbitMQ + Java Spring Часть 2](https://habr.com/ru/articles/874780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874780)
 - [Антиспам бот модератор в телеграм. Защищаем группу за три минуты](https://habr.com/ru/companies/amvera/articles/874776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874776)
-- [Перестаньте молиться на принципы S.O.L.I.D](https://habr.com/ru/articles/874584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
