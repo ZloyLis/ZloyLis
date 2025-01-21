@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Для будущих программистов](https://habr.com/ru/articles/874590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874590)
+- [[Перевод] Сравнение AI-инструментов для прототипирования: v0, Bolt и Lovable](https://habr.com/ru/articles/875442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875442)
 - [Роберт, ты мне не дядюшка](https://habr.com/ru/articles/875426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875426)
 - [Как мы создавали свою серверную ОС: пошаговая история NiceOS Z](https://habr.com/ru/articles/875406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875406)
 - [Проектировочная документация: практический опыт и проверенные шаблоны](https://habr.com/ru/companies/sportmaster_lab/articles/875036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875036)
-- [Как писать баг-репорты, которые помогут всей команде](https://habr.com/ru/companies/itfb/articles/875356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875356)
-- [Как переработать образовательный курс и сохранить баланс между работой и семьей](https://habr.com/ru/companies/naumen/articles/875292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
