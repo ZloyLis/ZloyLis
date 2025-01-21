@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектировочная документация: практический опыт и проверенные шаблоны](https://habr.com/ru/companies/sportmaster_lab/articles/875036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875036)
 - [Как писать баг-репорты, которые помогут всей команде](https://habr.com/ru/companies/itfb/articles/875356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875356)
 - [Как переработать образовательный курс и сохранить баланс между работой и семьей](https://habr.com/ru/companies/naumen/articles/875292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875292)
 - [Тонкости в распараллеливании с OpenMP программы, написанной одновременно на C++ и Fortran](https://habr.com/ru/articles/875334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875334)
 - [Готовим слайсы в Go: подробно о динамических массивах, строчках и ускорении](https://habr.com/ru/companies/yadro/articles/874480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874480)
-- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 03 — Начинаем разрабатывать фреймворк](https://habr.com/ru/articles/874186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
