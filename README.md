@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сделали свой обучающий курс для разработчиков. Выпускать или нет?](https://habr.com/ru/articles/875194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875194)
-- [Работа с API: 17 полезных ссылок для системного аналитика](https://habr.com/ru/companies/yandex_praktikum/articles/870086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870086)
-- [Как цифровой сотрудник IBS «Василий» облегчает жизнь нашим администраторам на проектах](https://habr.com/ru/companies/ibs/articles/874854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874854)
-- [Подружить Great Expectations с Impala: решение для больших данных](https://habr.com/ru/companies/gazprombank/articles/874912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874912)
-- [«Дебаггинг» резюме или как покорить сердце рекрутера](https://habr.com/ru/articles/875180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875180)
+- [Как чужая ошибка в коде сожгла $100,000 на Firebase: спасаем стартап и разбираемся, какой сервер вам реально нужен](https://habr.com/ru/articles/875224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875224)
+- [Как сделать SMS-оповещение о землетрясениях с GeoJSON и SMS API](https://habr.com/ru/companies/exolve/articles/875216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875216)
+- [Погружение в мир Lint&#39;a в Android-проекте &lpar;часть 2&rpar;](https://habr.com/ru/companies/domclick/articles/870650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870650)
+- [Как стать DevOps с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/875172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875172)
+- [Топ популярных проектов на GitHub в январе 2025 года](https://habr.com/ru/articles/875088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
