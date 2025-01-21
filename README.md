@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Joblib: максимум из параллельных вычислений в Python](https://habr.com/ru/companies/otus/articles/874810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874810)
 - [Для будущих программистов](https://habr.com/ru/articles/874590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874590)
 - [[Перевод] Сравнение AI-инструментов для прототипирования: v0, Bolt и Lovable](https://habr.com/ru/articles/875442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875442)
 - [Роберт, ты мне не дядюшка](https://habr.com/ru/articles/875426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875426)
 - [Как мы создавали свою серверную ОС: пошаговая история NiceOS Z](https://habr.com/ru/articles/875406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875406)
-- [Проектировочная документация: практический опыт и проверенные шаблоны](https://habr.com/ru/companies/sportmaster_lab/articles/875036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
