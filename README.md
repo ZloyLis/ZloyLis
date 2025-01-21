@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделали свой обучающий курс для разработчиков. Выпускать или нет?](https://habr.com/ru/articles/875194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875194)
+- [Работа с API: 17 полезных ссылок для системного аналитика](https://habr.com/ru/companies/yandex_praktikum/articles/870086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870086)
+- [Как цифровой сотрудник IBS «Василий» облегчает жизнь нашим администраторам на проектах](https://habr.com/ru/companies/ibs/articles/874854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874854)
+- [Подружить Great Expectations с Impala: решение для больших данных](https://habr.com/ru/companies/gazprombank/articles/874912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874912)
 - [«Дебаггинг» резюме или как покорить сердце рекрутера](https://habr.com/ru/articles/875180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875180)
-- [Функция гиперкомплексного переменного и UVWT базис Клиффорда-Паули. Просто](https://habr.com/ru/articles/874600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874600)
-- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874970)
-- [Большое обновление CV-возможностей для фреймворка Simple](https://habr.com/ru/articles/874560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874560)
-- [Apple Pro Weekly News &lpar;13.01 – 19.01.25&rpar;](https://habr.com/ru/articles/875116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
