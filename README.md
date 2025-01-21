@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся в проектировании микросервисов. Основные паттерны &lpar;Часть 2&rpar;](https://habr.com/ru/companies/reksoft/articles/875270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875270)
+- [Как вынести Go-модуль в open source с сохранением авторства](https://habr.com/ru/companies/pt/articles/875052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875052)
 - [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/articles/875258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875258)
 - [Аналитика в мобильном приложении на Flutter. Часть 1. Yandex AppMetrica](https://habr.com/ru/articles/873920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873920)
 - [Безопасность Kubernetes-кластеров: вредные советы или bullshit bingo](https://habr.com/ru/companies/oleg-bunin/articles/875114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875114)
-- [Неизвестно полезный CSS. Часть 7](https://habr.com/ru/companies/ruvds/articles/873348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873348)
-- [Editor Scripting в Unreal Engine: создание утилит для генерации Actor и Data Asset](https://habr.com/ru/articles/874278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
