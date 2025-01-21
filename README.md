@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как переработать образовательный курс и сохранить баланс между работой и семьей](https://habr.com/ru/companies/naumen/articles/875292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875292)
+- [Тонкости в распараллеливании с OpenMP программы, написанной одновременно на C++ и Fortran](https://habr.com/ru/articles/875334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875334)
+- [Готовим слайсы в Go: подробно о динамических массивах, строчках и ускорении](https://habr.com/ru/companies/yadro/articles/874480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874480)
 - [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 03 — Начинаем разрабатывать фреймворк](https://habr.com/ru/articles/874186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874186)
 - [Технический гайд по сторис или как мы повысили конверсию в мобильном приложении в 9 раз](https://habr.com/ru/companies/m2tech/articles/874438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874438)
-- [Ода одной диагностике и ещё парочке, или проверка Jellyfin](https://habr.com/ru/companies/pvs-studio/articles/875308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875308)
-- [Онлайн-школа программирования для подростков: какую выбрать](https://habr.com/ru/companies/it_dlya_detei/articles/875302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875302)
-- [Перенос Orca в расширение Postgres: цели и детали реализации](https://habr.com/ru/companies/arenadata/articles/875032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
