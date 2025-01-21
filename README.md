@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Дебаггинг» резюме или как покорить сердце рекрутера](https://habr.com/ru/articles/875180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875180)
+- [Функция гиперкомплексного переменного и UVWT базис Клиффорда-Паули. Просто](https://habr.com/ru/articles/874600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874600)
+- [FastAPI и Vue.js 3: телеграм-бот с MiniApp для записи и автоматических уведомлений. Пишем фронтенд](https://habr.com/ru/companies/amvera/articles/874970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874970)
+- [Большое обновление CV-возможностей для фреймворка Simple](https://habr.com/ru/articles/874560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874560)
 - [Apple Pro Weekly News &lpar;13.01 – 19.01.25&rpar;](https://habr.com/ru/articles/875116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875116)
-- [[Перевод] Исследуем «вредоносную» флешку RJ45](https://habr.com/ru/articles/875124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875124)
-- [Security Week 2504: безотверточная атака на шифрование в Windows](https://habr.com/ru/companies/kaspersky/articles/875042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875042)
-- [Токены цвета для приложения: Как создать, использовать и передать в разработку](https://habr.com/ru/articles/875098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875098)
-- [Практическое применение открытых API: трансформация студенческого проекта в бизнес-решение по оценке контрагентов](https://habr.com/ru/articles/875092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
