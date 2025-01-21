@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как чужая ошибка в коде сожгла $100,000 на Firebase: спасаем стартап и разбираемся, какой сервер вам реально нужен](https://habr.com/ru/articles/875224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875224)
-- [Как сделать SMS-оповещение о землетрясениях с GeoJSON и SMS API](https://habr.com/ru/companies/exolve/articles/875216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875216)
-- [Погружение в мир Lint&#39;a в Android-проекте &lpar;часть 2&rpar;](https://habr.com/ru/companies/domclick/articles/870650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870650)
-- [Как стать DevOps с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/875172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875172)
-- [Топ популярных проектов на GitHub в январе 2025 года](https://habr.com/ru/articles/875088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875088)
+- [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/articles/875258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875258)
+- [Аналитика в мобильном приложении на Flutter. Часть 1. Yandex AppMetrica](https://habr.com/ru/articles/873920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873920)
+- [Безопасность Kubernetes-кластеров: вредные советы или bullshit bingo](https://habr.com/ru/companies/oleg-bunin/articles/875114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875114)
+- [Неизвестно полезный CSS. Часть 7](https://habr.com/ru/companies/ruvds/articles/873348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873348)
+- [Editor Scripting в Unreal Engine: создание утилит для генерации Actor и Data Asset](https://habr.com/ru/articles/874278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
