@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбираемся в проектировании микросервисов. Основные паттерны &lpar;Часть 2&rpar;](https://habr.com/ru/companies/reksoft/articles/875270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875270)
-- [Как вынести Go-модуль в open source с сохранением авторства](https://habr.com/ru/companies/pt/articles/875052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875052)
-- [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/articles/875258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875258)
-- [Аналитика в мобильном приложении на Flutter. Часть 1. Yandex AppMetrica](https://habr.com/ru/articles/873920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873920)
-- [Безопасность Kubernetes-кластеров: вредные советы или bullshit bingo](https://habr.com/ru/companies/oleg-bunin/articles/875114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875114)
+- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 03 — Начинаем разрабатывать фреймворк](https://habr.com/ru/articles/874186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874186)
+- [Технический гайд по сторис или как мы повысили конверсию в мобильном приложении в 9 раз](https://habr.com/ru/companies/m2tech/articles/874438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874438)
+- [Ода одной диагностике и ещё парочке, или проверка Jellyfin](https://habr.com/ru/companies/pvs-studio/articles/875308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875308)
+- [Онлайн-школа программирования для подростков: какую выбрать](https://habr.com/ru/companies/it_dlya_detei/articles/875302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875302)
+- [Перенос Orca в расширение Postgres: цели и детали реализации](https://habr.com/ru/companies/arenadata/articles/875032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
