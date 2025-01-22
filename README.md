@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Маппинг даты и времени в Hibernate и JPA](https://habr.com/ru/companies/spring_aio/articles/875762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875762)
 - [[Перевод] Переход от встроенных к удалённым BPM-движкам](https://habr.com/ru/articles/875756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875756)
-- [Стратегии извлечения](https://habr.com/ru/articles/875134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875134)
+- [Стратегии извлечения FetchType](https://habr.com/ru/articles/875134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875134)
 - [Программирование без математики](https://habr.com/ru/articles/875748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875748)
 - [[Перевод] Самый странный лексический синтаксис, который я обнаружила, исследовав 42 языка программирования](https://habr.com/ru/companies/ncloudtech/articles/871692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871692)
-- [Установка PostgreSQL в Linux](https://habr.com/ru/articles/875548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
