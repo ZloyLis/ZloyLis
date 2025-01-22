@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Установка PostgreSQL в Linux](https://habr.com/ru/articles/875548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875548)
 - [Создание персонального AI-ассистента с использованием RAG: пошаговое руководство](https://habr.com/ru/articles/873336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873336)
 - [Красивая обработка ответов в WebClient](https://habr.com/ru/articles/873358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873358)
 - [Революция с помощью LLM: новая эра в создании программного обеспечения](https://habr.com/ru/articles/875678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875678)
 - [Какой вид обследования для внедрения 1С:ERP нужен, а без какого можно обойтись?](https://habr.com/ru/articles/875670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875670)
-- [Понимание монолита: изделие и конструкция в программном обеспечении](https://habr.com/ru/companies/sberbank/articles/875666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
