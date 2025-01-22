@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Переход от встроенных к удалённым BPM-движкам](https://habr.com/ru/articles/875756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875756)
+- [Стратегии извлечения](https://habr.com/ru/articles/875134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875134)
+- [Программирование без математики](https://habr.com/ru/articles/875748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875748)
+- [[Перевод] Самый странный лексический синтаксис, который я обнаружила, исследовав 42 языка программирования](https://habr.com/ru/companies/ncloudtech/articles/871692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871692)
 - [Установка PostgreSQL в Linux](https://habr.com/ru/articles/875548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875548)
-- [Создание персонального AI-ассистента с использованием RAG: пошаговое руководство](https://habr.com/ru/articles/873336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873336)
-- [Красивая обработка ответов в WebClient](https://habr.com/ru/articles/873358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873358)
-- [Революция с помощью LLM: новая эра в создании программного обеспечения](https://habr.com/ru/articles/875678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875678)
-- [Какой вид обследования для внедрения 1С:ERP нужен, а без какого можно обойтись?](https://habr.com/ru/articles/875670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
