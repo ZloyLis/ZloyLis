@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Добавляем кнопку «Fix with AI» в отчёты Playwright](https://habr.com/ru/articles/875448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875448)
+- [RabbitMQ в dBrain: опыт внедрения в платформу контейнеризации](https://habr.com/ru/companies/dbraincloud/articles/875366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875366)
+- [Как перенести Linux Device Drivers на современные ядра](https://habr.com/ru/companies/yandex/articles/873288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873288)
 - [Программирование для детей 13 лет: онлайн-курсы](https://habr.com/ru/companies/it_dlya_detei/articles/875522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875522)
 - [Гайд «как начать выступать на ML-конференциях и митапах»](https://habr.com/ru/articles/872544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872544)
-- [Go 1.24](https://habr.com/ru/articles/875370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875370)
-- [[Перевод] Istio для практиков: как упростить управление микросервисами](https://habr.com/ru/companies/flant/articles/862920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862920)
-- [Как улучшить безопасность JavaScript-кода: лучшие практики и советы](https://habr.com/ru/articles/875490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
