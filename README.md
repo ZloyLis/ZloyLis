@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как улучшить безопасность JavaScript-кода: лучшие практики и советы](https://habr.com/ru/articles/875490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875490)
 - [Разработка плагина для интеграции Яндекс-Календаря с IntelliJ IDEA](https://habr.com/ru/articles/875464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875464)
 - [RuStore не так уж и плох, как PirateStore](https://habr.com/ru/articles/875462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875462)
 - [Как синтаксический сахар Kotlin может сломать вам логику работы приложения](https://habr.com/ru/articles/875460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875460)
 - [Joblib: максимум из параллельных вычислений в Python](https://habr.com/ru/companies/otus/articles/874810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874810)
-- [Для будущих программистов](https://habr.com/ru/articles/874590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
