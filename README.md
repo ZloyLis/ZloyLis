@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Программирование для детей 13 лет: онлайн-курсы](https://habr.com/ru/companies/it_dlya_detei/articles/875522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875522)
+- [Гайд «как начать выступать на ML-конференциях и митапах»](https://habr.com/ru/articles/872544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872544)
+- [Go 1.24](https://habr.com/ru/articles/875370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875370)
 - [[Перевод] Istio для практиков: как упростить управление микросервисами](https://habr.com/ru/companies/flant/articles/862920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=862920)
 - [Как улучшить безопасность JavaScript-кода: лучшие практики и советы](https://habr.com/ru/articles/875490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875490)
-- [Разработка плагина для интеграции Яндекс-Календаря с IntelliJ IDEA](https://habr.com/ru/articles/875464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875464)
-- [RuStore не так уж и плох, как PirateStore](https://habr.com/ru/articles/875462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875462)
-- [Как синтаксический сахар Kotlin может сломать вам логику работы приложения](https://habr.com/ru/articles/875460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
