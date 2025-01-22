@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание персонального AI-ассистента с использованием RAG: пошаговое руководство](https://habr.com/ru/articles/873336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873336)
+- [Красивая обработка ответов в WebClient](https://habr.com/ru/articles/873358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873358)
+- [Революция с помощью LLM: новая эра в создании программного обеспечения](https://habr.com/ru/articles/875678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875678)
+- [Какой вид обследования для внедрения 1С:ERP нужен, а без какого можно обойтись?](https://habr.com/ru/articles/875670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875670)
 - [Понимание монолита: изделие и конструкция в программном обеспечении](https://habr.com/ru/companies/sberbank/articles/875666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875666)
-- [Спасти проект: с какими трудностями мы столкнулись при разработке и поддержке мобильной кроссплатформы](https://habr.com/ru/companies/simbirsoft/articles/875524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875524)
-- [[Перевод] Основы очистки данных в data science](https://habr.com/ru/articles/875662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875662)
-- [Канареечные релизы на Camunda и Togglz](https://habr.com/ru/companies/tbank/articles/875444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875444)
-- [Добавить паттерн как у всех или перепроверить в исследовании?](https://habr.com/ru/companies/alfa/articles/875094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
