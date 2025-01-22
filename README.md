@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ для веб-разработки](https://habr.com/ru/companies/timeweb/articles/873430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873430)
+- [Как Kubernetes стал стандартом управления инфраструктурой](https://habr.com/ru/companies/selectel/articles/872958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872958)
+- [Гибкость и контроль над данными: применение моков в разработке](https://habr.com/ru/companies/ntechlab/articles/869790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869790)
+- [Создание бэкап-утилиты ReBack на Rust: от проблем до решения](https://habr.com/ru/articles/875574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875574)
 - [Добавляем скомпилированный фронт внутрь jar-файла при его сборке](https://habr.com/ru/articles/875546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875546)
-- [SQL HowTo: волновой алгоритм и подсчет границ &lpar;Advent of Code 2024, Day 12: Garden Groups&rpar;](https://habr.com/ru/companies/tensor/articles/875512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875512)
-- [[Перевод] Добавляем кнопку «Fix with AI» в отчёты Playwright](https://habr.com/ru/articles/875448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875448)
-- [RabbitMQ: опыт внедрения в платформу контейнеризации](https://habr.com/ru/companies/dbraincloud/articles/875366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875366)
-- [Как перенести Linux Device Drivers на современные ядра](https://habr.com/ru/companies/yandex/articles/873288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
