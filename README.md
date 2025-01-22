@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с NRF24L01 и STM32F1](https://habr.com/ru/articles/875638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875638)
+- [Путаясь в замыканиях](https://habr.com/ru/articles/875608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875608)
+- [Школа программирования для детей 14 лет онлайн: выбираем платформу для обучения](https://habr.com/ru/companies/it_dlya_detei/articles/875616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875616)
 - [ИИ для веб-разработки](https://habr.com/ru/companies/timeweb/articles/873430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873430)
 - [Как Kubernetes стал стандартом управления инфраструктурой](https://habr.com/ru/companies/selectel/articles/872958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872958)
-- [Гибкость и контроль над данными: применение моков в разработке](https://habr.com/ru/companies/ntechlab/articles/869790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869790)
-- [Создание бэкап-утилиты ReBack на Rust: от проблем до решения](https://habr.com/ru/articles/875574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875574)
-- [Добавляем скомпилированный фронт внутрь jar-файла при его сборке](https://habr.com/ru/articles/875546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
