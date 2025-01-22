@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [YPay &amp;amp; YPay Inventory для Flutter приложений](https://habr.com/ru/articles/875834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875834)
 - [Добро пожаловать в Древний…](https://habr.com/ru/articles/875784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875784)
 - [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874812)
 - [[Перевод] Маппинг даты и времени в Hibernate и JPA](https://habr.com/ru/companies/spring_aio/articles/875762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875762)
 - [[Перевод] Переход от встроенных к удалённым BPM-движкам](https://habr.com/ru/articles/875756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875756)
-- [Стратегии извлечения FetchType](https://habr.com/ru/articles/875134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
