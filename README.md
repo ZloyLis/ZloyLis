@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Работа с NRF24L01 и STM32F1](https://habr.com/ru/articles/875638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875638)
-- [Путаясь в замыканиях](https://habr.com/ru/articles/875608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875608)
-- [Школа программирования для детей 14 лет онлайн: выбираем платформу для обучения](https://habr.com/ru/companies/it_dlya_detei/articles/875616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875616)
-- [ИИ для веб-разработки](https://habr.com/ru/companies/timeweb/articles/873430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873430)
-- [Как Kubernetes стал стандартом управления инфраструктурой](https://habr.com/ru/companies/selectel/articles/872958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872958)
+- [Понимание монолита: изделие и конструкция в программном обеспечении](https://habr.com/ru/companies/sberbank/articles/875666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875666)
+- [Спасти проект: с какими трудностями мы столкнулись при разработке и поддержке мобильной кроссплатформы](https://habr.com/ru/companies/simbirsoft/articles/875524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875524)
+- [[Перевод] Основы очистки данных в data science](https://habr.com/ru/articles/875662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875662)
+- [Канареечные релизы на Camunda и Togglz](https://habr.com/ru/companies/tbank/articles/875444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875444)
+- [Добавить паттерн как у всех или перепроверить в исследовании?](https://habr.com/ru/companies/alfa/articles/875094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
