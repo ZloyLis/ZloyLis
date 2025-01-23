@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GIMP Script-Fu Первый Дан. Фигуры](https://habr.com/ru/articles/875962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875962)
+- [Как помочь ребенку поступить в ВУЗ мечты на бюджет](https://habr.com/ru/articles/875950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875950)
 - [Интеграция Docker в Android разработку](https://habr.com/ru/articles/875940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875940)
 - [Lock-free кэш для Django: коротко](https://habr.com/ru/companies/otus/articles/875468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875468)
 - [Теорема Бернулли как катализатор лудомании](https://habr.com/ru/companies/first/articles/875604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875604)
-- [О том, как легкомысленное использование полиморфных аллокаторов может испортить вам жизнь](https://habr.com/ru/companies/pvs-studio/articles/875922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875922)
-- [Декларативная платформа управления доступом: от ролей к динамическим политикам](https://habr.com/ru/companies/oleg-bunin/articles/875720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
