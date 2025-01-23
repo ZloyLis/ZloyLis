@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Брокеры сообщений на практике: как подключиться и пользоваться RabbitMQ в Python](https://habr.com/ru/companies/selectel/articles/875880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875880)
+- [Я наконец-то разобрался, зачем действительно нужны useMemo и useCallback в React](https://habr.com/ru/articles/875822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875822)
 - [Супераппы «супергорода» или что такое Careem и Noon в Дубае? Обзор приложений. Часть 1: Careem](https://habr.com/ru/articles/875876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875876)
 - [Ловушка бесконечно ленивого бассейна](https://habr.com/ru/companies/skbkontur/articles/875514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875514)
 - [Техническое собеседование фронтенд-разработчика: советы от тимлида](https://habr.com/ru/companies/yandex_praktikum/articles/873268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873268)
-- [[Перевод] Убивают ли LLM сайт StackOverflow?](https://habr.com/ru/articles/875760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875760)
-- [Онлайн-школа по программированию для школьников: где учиться в 2025 году](https://habr.com/ru/companies/it_dlya_detei/articles/875856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
