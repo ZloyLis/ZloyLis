@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Всё о Slivers и немного больше. Часть 1](https://habr.com/ru/articles/876068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876068)
+- [[Перевод] Академический минимум js-разработчика: базовые концепции](https://habr.com/ru/companies/intec_balance/articles/876088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876088)
+- [Такие разные Slivers: обзор и применение во Flutter. Часть 1](https://habr.com/ru/articles/876068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876068)
 - [Dunder-методы в Python: предназначение и применение](https://habr.com/ru/companies/timeweb/articles/876048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876048)
 - [[Перевод] Как писать связующий код без Java-делегатов в Camunda Cloud](https://habr.com/ru/articles/876066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876066)
 - [Анализ реального исходного кода OpenSource проекта. Заметки на полях](https://habr.com/ru/articles/876046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876046)
-- [[Перевод] Вызов защищенного API из iOS-приложения на Swift](https://habr.com/ru/companies/otus/articles/875968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
