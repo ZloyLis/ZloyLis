@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Брокеры сообщений на практике: как подключиться и пользоваться RabbitMQ в Python](https://habr.com/ru/companies/selectel/articles/875880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875880)
-- [Я наконец-то разобрался, зачем действительно нужны useMemo и useCallback в React](https://habr.com/ru/articles/875822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875822)
-- [Супераппы «супергорода» или что такое Careem и Noon в Дубае? Обзор приложений. Часть 1: Careem](https://habr.com/ru/articles/875876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875876)
-- [Ловушка бесконечно ленивого бассейна](https://habr.com/ru/companies/skbkontur/articles/875514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875514)
-- [Техническое собеседование фронтенд-разработчика: советы от тимлида](https://habr.com/ru/companies/yandex_praktikum/articles/873268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873268)
+- [Интеграция Docker в Android разработку](https://habr.com/ru/articles/875940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875940)
+- [Lock-free кэш для Django: коротко](https://habr.com/ru/companies/otus/articles/875468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875468)
+- [Теорема Бернулли как катализатор лудомании](https://habr.com/ru/companies/first/articles/875604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875604)
+- [О том, как легкомысленное использование полиморфных аллокаторов может испортить вам жизнь](https://habr.com/ru/companies/pvs-studio/articles/875922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875922)
+- [Декларативная платформа управления доступом: от ролей к динамическим политикам](https://habr.com/ru/companies/oleg-bunin/articles/875720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
