@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Онлайн-школа по программированию для школьников: где учиться в 2025 году](https://habr.com/ru/companies/it_dlya_detei/articles/875856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875856)
+- [Онлайн-обучение программированию для школьников: в каких школах обучаться?](https://habr.com/ru/companies/it_dlya_detei/articles/875852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875852)
 - [YPay &amp;amp; YPay Inventory для Flutter приложений](https://habr.com/ru/articles/875834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875834)
 - [Добро пожаловать в Древний…](https://habr.com/ru/articles/875784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875784)
 - [История и настоящее настольных игр для юных &lpar;и не только&rpar; программистов и робототехников. Часть 1](https://habr.com/ru/articles/875800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875800)
-- [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874812)
-- [[Перевод] Маппинг даты и времени в Hibernate и JPA](https://habr.com/ru/companies/spring_aio/articles/875762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
