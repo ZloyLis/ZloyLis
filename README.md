@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Супераппы «супергорода» или что такое Careem и Noon в Дубае? Обзор приложений. Часть 1: Careem](https://habr.com/ru/articles/875876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875876)
+- [Ловушка бесконечно ленивого бассейна](https://habr.com/ru/companies/skbkontur/articles/875514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875514)
+- [Техническое собеседование фронтенд-разработчика: советы от тимлида](https://habr.com/ru/companies/yandex_praktikum/articles/873268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873268)
+- [[Перевод] Убивают ли LLM сайт StackOverflow?](https://habr.com/ru/articles/875760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875760)
 - [Онлайн-школа по программированию для школьников: где учиться в 2025 году](https://habr.com/ru/companies/it_dlya_detei/articles/875856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875856)
-- [Онлайн-обучение программированию для школьников: в каких школах обучаться?](https://habr.com/ru/companies/it_dlya_detei/articles/875852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875852)
-- [YPay &amp;amp; YPay Inventory для Flutter приложений](https://habr.com/ru/articles/875834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875834)
-- [Добро пожаловать в Древний…](https://habr.com/ru/articles/875784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875784)
-- [История и настоящее настольных игр для юных &lpar;и не только&rpar; программистов и робототехников. Часть 1](https://habr.com/ru/articles/875800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
