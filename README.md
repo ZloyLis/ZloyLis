@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Всё о Slivers и немного больше. Часть 1](https://habr.com/ru/articles/876068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876068)
+- [Dunder-методы в Python: предназначение и применение](https://habr.com/ru/companies/timeweb/articles/876048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876048)
+- [[Перевод] Как писать связующий код без Java-делегатов в Camunda Cloud](https://habr.com/ru/articles/876066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876066)
 - [Анализ реального исходного кода OpenSource проекта. Заметки на полях](https://habr.com/ru/articles/876046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876046)
-- [[Перевод] Вызов защищенного API из iOS-приложения на Swift](https://habr.com/ru/companies/otus/articles/875970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875970)
 - [[Перевод] Вызов защищенного API из iOS-приложения на Swift](https://habr.com/ru/companies/otus/articles/875968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875968)
-- [Забудь про XPath и CSS-селекторы: путь от стандартных локаторов к кастомным](https://habr.com/ru/companies/2gis/articles/875926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875926)
-- [Один тест, чтобы покрыть весь код, или краткий ликбез о точности библиотек математических функций](https://habr.com/ru/companies/yadro/articles/875242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
