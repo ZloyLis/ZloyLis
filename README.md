@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Оптимизации компилятора на языке, который вы можете понять](https://habr.com/ru/companies/beget/articles/876132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876132)
 - [Сколько памяти ест ваша вкладка](https://habr.com/ru/companies/sberbank/articles/875924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875924)
 - [UI/UX тренды в 2025: угрожает ли ИИ будущему дизайнеров и какие визуальные тренды нас удивят?](https://habr.com/ru/articles/876130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876130)
 - [Как мы в Авито проводим A/B-тесты CRM-рассылок](https://habr.com/ru/companies/avito/articles/875012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875012)
 - [Ревизор приехал: pg_anon проверяет, всё ли скрыто](https://habr.com/ru/articles/876124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876124)
+- [Что такое MR-стенды и с чем их едят](https://habr.com/ru/companies/samolet/articles/870308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=870308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
