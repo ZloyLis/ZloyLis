@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [YPay &amp;amp; YPay Inventory для Flutter приложений](https://habr.com/ru/articles/875834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875834)
 - [Добро пожаловать в Древний…](https://habr.com/ru/articles/875784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875784)
+- [История и настоящее настольных игр для юных &lpar;и не только&rpar; программистов и робототехников. Часть 1](https://habr.com/ru/articles/875800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875800)
 - [Kotlinx.serialization и работа с JSON](https://habr.com/ru/companies/otus/articles/874812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874812)
 - [[Перевод] Маппинг даты и времени в Hibernate и JPA](https://habr.com/ru/companies/spring_aio/articles/875762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875762)
-- [[Перевод] Переход от встроенных к удалённым BPM-движкам](https://habr.com/ru/articles/875756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875756)
 <!-- BLOG-POST-LIST:END -->
 
 ---
