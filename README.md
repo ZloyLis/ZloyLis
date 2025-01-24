@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как писать связующий код без Java-делегатов в Camunda Cloud](https://habr.com/ru/articles/876030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876030)
 - [Панк не сдох](https://habr.com/ru/companies/alfa/articles/876164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876164)
 - [[Перевод] Достижение согласованности без менеджеров транзакций](https://habr.com/ru/articles/876292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876292)
 - [Руководство по построению коннекторов к СУБД на примере Tarantool](https://habr.com/ru/companies/vk/articles/876094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876094)
 - [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 04 — Компиляторная археология](https://habr.com/ru/articles/876272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876272)
-- [JSpinner: меньше багов, больше стрелочек](https://habr.com/ru/companies/otus/articles/875806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
