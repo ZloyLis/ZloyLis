@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как «приручить» технический долг: от накопления к решению](https://habr.com/ru/companies/automacon/articles/876234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876234)
 - [Как писать Benchmark — тесты? &lpar;Golang&rpar;](https://habr.com/ru/articles/875476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875476)
 - [Горизонтальное масштабирование базы данных. Репликация. Партицирование. Шардирование](https://habr.com/ru/articles/875708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875708)
 - [Как аналитику научиться читать код без навыков программирования](https://habr.com/ru/articles/847184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847184)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#5&rpar;](https://habr.com/ru/articles/876168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876168)
-- [Сколько памяти ест ваша вкладка](https://habr.com/ru/companies/sberbank/articles/875924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
