@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Горизонтальное масштабирование базы данных. Репликация. Партицирование. Шардирование](https://habr.com/ru/articles/875708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875708)
+- [Как аналитику научиться читать код без навыков программирования](https://habr.com/ru/articles/847184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=847184)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#5&rpar;](https://habr.com/ru/articles/876168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876168)
 - [Сколько памяти ест ваша вкладка](https://habr.com/ru/companies/sberbank/articles/875924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875924)
 - [UI/UX тренды в 2025: угрожает ли ИИ будущему дизайнеров и какие визуальные тренды нас удивят?](https://habr.com/ru/articles/876130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876130)
-- [Как мы в Авито проводим A/B-тесты CRM-рассылок](https://habr.com/ru/companies/avito/articles/875012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875012)
-- [Ревизор приехал: pg_anon проверяет, всё ли скрыто](https://habr.com/ru/articles/876124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
