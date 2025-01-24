@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [BPMS мёртв в энтерпрайзе](https://habr.com/ru/companies/haulmont/articles/876106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876106)
-- [Минималистичная JavaScript песочница](https://habr.com/ru/articles/876252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876252)
-- [Как «приручить» технический долг: от накопления к решению](https://habr.com/ru/companies/automacon/articles/876234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876234)
-- [Как писать Benchmark — тесты? &lpar;Golang&rpar;](https://habr.com/ru/articles/875476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875476)
-- [Горизонтальное масштабирование базы данных. Репликация. Партицирование. Шардирование](https://habr.com/ru/articles/875708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875708)
+- [Панк не сдох](https://habr.com/ru/companies/alfa/articles/876164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876164)
+- [[Перевод] Достижение согласованности без менеджеров транзакций](https://habr.com/ru/articles/876292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876292)
+- [Руководство по построению коннекторов к СУБД на примере Tarantool](https://habr.com/ru/companies/vk/articles/876094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876094)
+- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 04 — Компиляторная археология](https://habr.com/ru/articles/876272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876272)
+- [JSpinner: меньше багов, больше стрелочек](https://habr.com/ru/companies/otus/articles/875806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
