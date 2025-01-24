@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Armadillo: матрицы, кубы и разреженные данные на C++](https://habr.com/ru/companies/otus/articles/876190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876190)
 - [PVS-Studio в 2024 году](https://habr.com/ru/companies/pvs-studio/articles/876410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876410)
 - [[Перевод] Операционная система в 1 000 строках кода &lpar;часть 2&rpar;](https://habr.com/ru/companies/ruvds/articles/875776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875776)
 - [Как и для чего мы делали симуляцию курьерской доставки](https://habr.com/ru/companies/x5digital/articles/876406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876406)
 - [Монтаж оборудования по стандарту качества: как мы выбираем лучших инженеров в телекоме](https://habr.com/ru/companies/rtk_service/articles/876390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876390)
-- [Как мы обучаем автотестированию Junior и Middle в Школе К.О.Т](https://habr.com/ru/companies/rshb/articles/868198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
