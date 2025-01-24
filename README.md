@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как писать связующий код без Java-делегатов в Camunda Cloud](https://habr.com/ru/articles/876030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876030)
-- [Панк не сдох](https://habr.com/ru/companies/alfa/articles/876164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876164)
-- [[Перевод] Достижение согласованности без менеджеров транзакций](https://habr.com/ru/articles/876292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876292)
-- [Руководство по построению коннекторов к СУБД на примере Tarantool](https://habr.com/ru/companies/vk/articles/876094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876094)
-- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 04 — Компиляторная археология](https://habr.com/ru/articles/876272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876272)
+- [Монтаж оборудования по стандарту качества: как мы выбираем лучших инженеров в телекоме](https://habr.com/ru/companies/rtk_service/articles/876390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876390)
+- [Как мы обучаем автотестированию Junior и Middle в Школе К.О.Т](https://habr.com/ru/companies/rshb/articles/868198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868198)
+- [[Перевод] Оцениваем скорость операций с путями в FastAPI](https://habr.com/ru/companies/piter/articles/876378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876378)
+- [Пишем идеальную mobile-first галерею](https://habr.com/ru/articles/876202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876202)
+- [О прогнозировании в станкостроении](https://habr.com/ru/articles/876376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
