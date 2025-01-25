@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Operator: Нейросетевой ящик Пандоры или путь в будущее?](https://habr.com/ru/articles/876586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876586)
+- [Веб-приложения будущего: что нужно знать о WebAssembly](https://habr.com/ru/companies/selectel/articles/873662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873662)
 - [Обзор смартфона Realme GT6: Убийца флагманов или просто агрессивный маркетинг?](https://habr.com/ru/articles/876562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876562)
 - [Как нейронки помогают студентам в обучении — и где обычно подводят](https://habr.com/ru/companies/ru_mts/articles/876470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876470)
 - [Как попасть на стажировку для аналитиков в Авито: гайд по этапам отбора](https://habr.com/ru/companies/avito/articles/876140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876140)
-- [Пишу код за деньги](https://habr.com/ru/articles/876522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876522)
-- [[Перевод] Чем отличается мой Type Predicate Generator?](https://habr.com/ru/articles/876514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
