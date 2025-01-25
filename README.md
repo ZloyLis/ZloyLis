@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [3D графика на форме в Lazarus IDE](https://habr.com/ru/articles/876424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876424)
+- [По мотивам windows заставки «Ленты». Кроссплатформенный скринсейвер на JS и Electron](https://habr.com/ru/articles/876606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876606)
 - [Настольные игры для юных программистов и робототехников. Часть 2 — эпоха роботов и исполнителей](https://habr.com/ru/articles/876604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876604)
 - [Я купил легендарный игровой смартфон из утиля и отремонтировал его — смотрим на Nokia N-Gage Classic](https://habr.com/ru/companies/timeweb/articles/875496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875496)
 - [Путешествия и диктофон](https://habr.com/ru/articles/876590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876590)
-- [OpenAI Operator: нейросетевой ящик Пандоры или путь в будущее?](https://habr.com/ru/articles/876586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876586)
-- [Веб-приложения будущего: что нужно знать о WebAssembly](https://habr.com/ru/companies/selectel/articles/873662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
