@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Операционная система в 1 000 строк кода &lpar;часть 3&rpar;](https://habr.com/ru/companies/ruvds/articles/876360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876360)
+- [Мобильная разработка за неделю #572 &lpar;20 — 26 января&rpar;](https://habr.com/ru/articles/876694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876694)
 - [Как автоматизировать оборону города с помощью Kubernetes CI/CD Pipeline: защита от зомби через автоматические обновления](https://habr.com/ru/articles/876692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876692)
 - [AI в энтерпрайзе](https://habr.com/ru/articles/876638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876638)
 - [Немного о платине и палладии](https://habr.com/ru/articles/876616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876616)
-- [3D графика на форме в Lazarus IDE](https://habr.com/ru/articles/876424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876424)
-- [По мотивам windows заставки «Ленты». Кроссплатформенный скринсейвер на JS и Electron](https://habr.com/ru/articles/876606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
