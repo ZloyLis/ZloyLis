@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Раздел OSINT &lpar;разведка&rpar;: Что такое Github Dorking?](https://habr.com/ru/articles/876738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876738)
+- [Прагматичное функциональное программирование в Java](https://habr.com/ru/articles/876736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876736)
+- [Как разработчик попытался в геймдев](https://habr.com/ru/articles/876730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876730)
 - [Разработка в VR: личный опыт и рекомендации](https://habr.com/ru/articles/876720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876720)
 - [Переход на новое окружение](https://habr.com/ru/articles/876698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876698)
-- [AI-driven TDD — используем Code-LLM на максимум](https://habr.com/ru/articles/876714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876714)
-- [[Перевод] Операционная система в 1 000 строк кода &lpar;часть 3&rpar;](https://habr.com/ru/companies/ruvds/articles/876360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876360)
-- [Мобильная разработка за неделю #572 &lpar;20 — 26 января&rpar;](https://habr.com/ru/articles/876694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
