@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker — все в одной «коробке»](https://habr.com/ru/articles/876754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876754)
 - [Идеи о системе ИИ: Система команд. Часть 1](https://habr.com/ru/articles/876716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876716)
 - [Мой путь к быстрой и понятной архитектуре, или зачем я выбросил агрегаты из DDD?](https://habr.com/ru/articles/876742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876742)
 - [Раздел OSINT &lpar;разведка&rpar;: Что такое Github Dorking?](https://habr.com/ru/articles/876738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876738)
 - [Прагматичное функциональное программирование в Java](https://habr.com/ru/articles/876736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876736)
-- [Как разработчик попытался в геймдев](https://habr.com/ru/articles/876730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
