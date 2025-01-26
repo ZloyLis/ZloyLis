@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Callback рефы в React: что это такое и где можно применять](https://habr.com/ru/articles/876780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876780)
 - [Николай Никитин, лидер «Научного опенсорса» Университета ИТМО о том, чем open source может помочь ученым](https://habr.com/ru/articles/876770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876770)
 - [Криптоанализ шифра Виженера. Как реализовать и взломать](https://habr.com/ru/articles/876764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876764)
 - [Зачем нужен шаблон Render props в React?](https://habr.com/ru/articles/876758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876758)
 - [Docker — все в одной «коробке»](https://habr.com/ru/articles/876754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876754)
-- [Идеи о системе ИИ: Система команд. Часть 1](https://habr.com/ru/articles/876716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
