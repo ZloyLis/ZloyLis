@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Amplicode Frontend — фуллстек на час: создай админку для своего Spring-приложения](https://habr.com/ru/companies/haulmont/articles/876156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876156)
+- [Java, Taint и SAST: что это и зачем, и причём здесь ГОСТ 71207](https://habr.com/ru/companies/pvs-studio/articles/876890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876890)
 - [Отчет о проекте эффективного приоритетного дерева SAPT](https://habr.com/ru/articles/876878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876878)
 - [Как тестировать бизнес-процессы в Camunda: пошаговый гайд](https://habr.com/ru/companies/clevertec/articles/876264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876264)
 - [Cocos2d-x тестирование производительности](https://habr.com/ru/articles/872648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872648)
-- [SQL HowTo: пошагово решаем СЛУ &lpar;Advent of Code 2024, Day 13: Claw Contraption&rpar;](https://habr.com/ru/companies/tensor/articles/876852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876852)
-- [Архитектура биллинга Яндекс 360: как не стать единой точкой отказа](https://habr.com/ru/companies/yandex/articles/872526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
