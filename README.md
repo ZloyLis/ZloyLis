@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DivMod, QuotRem или что-то другое?](https://habr.com/ru/articles/876990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876990)
+- [[Перевод] Новые возможности ECMAScript — атрибуты импорта и модификаторы шаблона регулярного выражения](https://habr.com/ru/companies/timeweb/articles/874848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874848)
+- [[Перевод] Модульность для первоклассной оркестрации процессов](https://habr.com/ru/articles/876960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876960)
 - [Современные техники оптимизации производительности в C++. Кэш-локальность, аллокаторы и параллелизм](https://habr.com/ru/articles/876958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876958)
 - [7 вещей, которые больше всего волнуют аудиторов в модуле критических данных Flutter-приложения](https://habr.com/ru/companies/friflex/articles/876918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876918)
-- [Amplicode Frontend — фуллстек на час: создай админку для своего Spring-приложения](https://habr.com/ru/companies/haulmont/articles/876156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876156)
-- [Java, Taint и SAST: что это и зачем, и причём здесь ГОСТ 71207](https://habr.com/ru/companies/pvs-studio/articles/876890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876890)
-- [Отчет о проекте эффективного приоритетного дерева SAPT](https://habr.com/ru/articles/876878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
