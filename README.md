@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура биллинга Яндекс 360: как не стать единой точкой отказа](https://habr.com/ru/companies/yandex/articles/872526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872526)
+- [Используем языковые модели в AI-агентах. Часть 2. Retrievers, TextSplitters](https://habr.com/ru/articles/876844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876844)
 - [Озеро для дата-склада: как мы нырнули в новые методы хранения данных и что из этого вышло](https://habr.com/ru/articles/876834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876834)
 - [LLM против детских вопросов: смотрим, как GPT o1, QwenLM и DeepSeek справятся с детскими задачами](https://habr.com/ru/companies/ruvds/articles/876282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876282)
 - [Аварии как опыт. Особенности репликации материализованных представлений в ClickHouse](https://habr.com/ru/companies/flant/articles/875510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875510)
-- [Моделирование Результатов в Гольфе с Помощью Цепей Маркова](https://habr.com/ru/articles/876818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876818)
-- [Точность позиционирования объектов в играх: возможные ошибки](https://habr.com/ru/articles/876816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
