@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Точность позиционирования объектов в играх: возможные ошибки](https://habr.com/ru/articles/876816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876816)
 - [Установка Qt на Windows без регистрации и VPN. Часть 1. VisualStudio Community + Conan.io](https://habr.com/ru/articles/876802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876802)
 - [Как автоматизировать свою переписку с девушкой в Telegram](https://habr.com/ru/articles/874412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874412)
 - [Гайд по подготовке к собеседованию для Backend-разработчиков](https://habr.com/ru/articles/876808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876808)
 - [Искусственный интеллект, научные открытия и инновации в продуктах](https://habr.com/ru/articles/876788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876788)
-- [Как читается Schema в GraphQL API](https://habr.com/ru/articles/876782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
