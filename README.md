@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Drools для конфигурирования приложения](https://habr.com/ru/articles/877136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877136)
 - [[Перевод] Чистый код в Python](https://habr.com/ru/articles/877118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877118)
 - [Apple Pro Weekly News &lpar;20.01 – 26.01.25&rpar;](https://habr.com/ru/articles/877028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877028)
 - [Разворачиваем Langfuse в Kubernetes: open-source альтернатива Langsmith](https://habr.com/ru/articles/877070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877070)
 - [Использование последовательного тестирования для уменьшения размера выборки](https://habr.com/ru/companies/tbank/articles/876984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876984)
-- [Эволюция корпоративного ITSM: объединяя людей, процессы и технологии](https://habr.com/ru/companies/simpleone/articles/877032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
