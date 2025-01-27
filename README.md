@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отчет о проекте эффективного приоритетного дерева SAPT](https://habr.com/ru/articles/876878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876878)
+- [Как тестировать бизнес-процессы в Camunda: пошаговый гайд](https://habr.com/ru/companies/clevertec/articles/876264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876264)
+- [Cocos2d-x тестирование производительности](https://habr.com/ru/articles/872648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872648)
+- [SQL HowTo: пошагово решаем СЛУ &lpar;Advent of Code 2024, Day 13: Claw Contraption&rpar;](https://habr.com/ru/companies/tensor/articles/876852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876852)
 - [Архитектура биллинга Яндекс 360: как не стать единой точкой отказа](https://habr.com/ru/companies/yandex/articles/872526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872526)
-- [Используем языковые модели в AI-агентах. Часть 2. Retrievers, TextSplitters](https://habr.com/ru/articles/876844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876844)
-- [Озеро для дата-склада: как мы нырнули в новые методы хранения данных и что из этого вышло](https://habr.com/ru/articles/876834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876834)
-- [LLM против детских вопросов: смотрим, как GPT o1, QwenLM и DeepSeek справятся с детскими задачами](https://habr.com/ru/companies/ruvds/articles/876282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876282)
-- [Аварии как опыт. Особенности репликации материализованных представлений в ClickHouse](https://habr.com/ru/companies/flant/articles/875510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
