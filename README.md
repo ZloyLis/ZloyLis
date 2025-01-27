@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Джунам тут не место?»: как попасть в ИТ в 2025 году](https://habr.com/ru/articles/877006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877006)
+- [[Перевод] FizzBuzz, который не помог мне найти работу](https://habr.com/ru/companies/ruvds/articles/876916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876916)
 - [DivMod, QuotRem или что-то другое?](https://habr.com/ru/articles/876990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876990)
 - [[Перевод] Новые возможности ECMAScript — атрибуты импорта и модификаторы шаблона регулярного выражения](https://habr.com/ru/companies/timeweb/articles/874848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874848)
 - [[Перевод] Модульность для первоклассной оркестрации процессов](https://habr.com/ru/articles/876960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876960)
-- [Современные техники оптимизации производительности в C++. Кэш-локальность, аллокаторы и параллелизм](https://habr.com/ru/articles/876958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876958)
-- [7 вещей, которые больше всего волнуют аудиторов в модуле критических данных Flutter-приложения](https://habr.com/ru/companies/friflex/articles/876918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
