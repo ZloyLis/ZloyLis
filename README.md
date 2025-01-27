@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция корпоративного ITSM: объединяя людей, процессы и технологии](https://habr.com/ru/companies/simpleone/articles/877032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877032)
+- [[Перевод] Вопрос на техинтервью аналитика и разработчика: “Назовите способы проверки username на уникальность”](https://habr.com/ru/companies/ssp-soft/articles/876622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876622)
 - [«Джунам тут не место?»: как попасть в ИТ в 2025 году](https://habr.com/ru/articles/877006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877006)
 - [[Перевод] FizzBuzz, который не помог мне найти работу](https://habr.com/ru/companies/ruvds/articles/876916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876916)
 - [DivMod, QuotRem или что-то другое?](https://habr.com/ru/articles/876990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876990)
-- [[Перевод] Новые возможности ECMAScript — атрибуты импорта и модификаторы шаблона регулярного выражения](https://habr.com/ru/companies/timeweb/articles/874848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874848)
-- [[Перевод] Модульность для первоклассной оркестрации процессов](https://habr.com/ru/articles/876960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
