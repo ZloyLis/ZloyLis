@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сетевые технологии с нуля [или почти с нуля]: подборка книг](https://habr.com/ru/companies/vasexperts/articles/877424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877424)
 - [Крах NVIDIA: как DeepSeek встряхнул рынок AI](https://habr.com/ru/companies/redmadrobot/articles/877416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877416)
 - [Типы данных в Python для самых маленьких](https://habr.com/ru/articles/877410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877410)
 - [Что болит у тимлида](https://habr.com/ru/companies/sibur_official/articles/871006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871006)
 - [Уведомляй. Уведомляй меня полностью &lpar;коротко про push&#39;и&rpar;](https://habr.com/ru/articles/877392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877392)
-- [Путь к стабильности: как мы снизили потребление оперативной памяти в iOS-приложении](https://habr.com/ru/companies/aliexpress_russia/articles/877058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
