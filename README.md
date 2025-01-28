@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой путь к идеальному терминалу с iTerm2](https://habr.com/ru/articles/877152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877152)
 - [Security Week 2505: уязвимость в онлайн-сервисе Subaru](https://habr.com/ru/companies/kaspersky/articles/876968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876968)
 - [Использование Drools для конфигурирования приложения](https://habr.com/ru/articles/877136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877136)
 - [[Перевод] Чистый код в Python](https://habr.com/ru/articles/877118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877118)
 - [Apple Pro Weekly News &lpar;20.01 – 26.01.25&rpar;](https://habr.com/ru/articles/877028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877028)
-- [Разворачиваем Langfuse в Kubernetes: open-source альтернатива Langsmith](https://habr.com/ru/articles/877070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
