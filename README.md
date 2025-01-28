@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как автоматизировать рутинные задачи с API UserGate](https://habr.com/ru/companies/k2tech/articles/877320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877320)
-- [Опыт разработки на доработанном pgTap](https://habr.com/ru/companies/gnivc/articles/877314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877314)
-- [Конец всего: пять сценариев гибели Вселенной](https://habr.com/ru/companies/ru_mts/articles/877188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877188)
-- [Loss Landscape Analysis — новая библиотека для анализа точности обучения и оценки обобщающей способности нейросетей](https://habr.com/ru/companies/kryptonite/articles/877122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877122)
-- [API Key Authentication в ASP.NET Core Web Api](https://habr.com/ru/articles/877302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877302)
+- [[Перевод] Создаем мультитенантные Symfony-приложения с помощью Ecotone](https://habr.com/ru/companies/otus/articles/877348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877348)
+- [Сборка проектов Си и Си++: от простого к сложному. Часть I. Библиотеки](https://habr.com/ru/companies/ruvds/articles/871940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871940)
+- [[Перевод] Разработка эффективных агентов с помощью Spring AI &lpar;Часть 1&rpar;](https://habr.com/ru/companies/spring_aio/articles/877196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877196)
+- [[Перевод] Введение в реактивное программирование](https://habr.com/ru/articles/877332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877332)
+- [Покажи своего Telegram бота](https://habr.com/ru/articles/877328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
