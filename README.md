@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что болит у тимлида](https://habr.com/ru/companies/sibur_official/articles/871006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871006)
+- [Уведомляй. Уведомляй меня полностью &lpar;коротко про push&#39;и&rpar;](https://habr.com/ru/articles/877392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877392)
+- [Путь к стабильности: как мы снизили потребление оперативной памяти в iOS-приложении](https://habr.com/ru/companies/aliexpress_russia/articles/877058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877058)
 - [Фильтр Гаусса на стероидах: секреты ускорения вычислений](https://habr.com/ru/companies/smartengines/articles/877082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877082)
 - [Дизайн за 5 минут. Дайджест января 2025](https://habr.com/ru/companies/garage8/articles/877358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877358)
-- [Аппроксимация затухания в коаксиальных кабелях и ее использование для расчетов радиосистем](https://habr.com/ru/companies/stc_spb/articles/877352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877352)
-- [[Перевод] Создаем мультитенантные Symfony-приложения с помощью Ecotone](https://habr.com/ru/companies/otus/articles/877348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877348)
-- [Сборка проектов Си и Си++: от простого к сложному. Часть I. Библиотеки](https://habr.com/ru/companies/ruvds/articles/871940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
