@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Умный дом с радио из Cyberpunk: как я написал расширение для Home Assistant](https://habr.com/ru/companies/selectel/articles/876176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876176)
+- [CI для мобильной разработки или как мы используем fastlane](https://habr.com/ru/companies/skbkontur/articles/876842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876842)
+- [Как стать системным аналитиком с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/877002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877002)
 - [Как мы усовершенствовали CDP благодаря агрегатным атрибутам](https://habr.com/ru/companies/lanit/articles/875642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875642)
 - [Внимание правильный ответ](https://habr.com/ru/articles/877000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877000)
-- [Первый шаг к кибернетическому тимлиду: автоматическое ревью кода на основе LLM](https://habr.com/ru/companies/ru_mts/articles/876482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876482)
-- [Что такое дизайн-система, зачем она нужна и какими отечественными решениями вдохновиться](https://habr.com/ru/companies/yandex_praktikum/articles/875034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875034)
-- [Как написать худшую статью на Хабре](https://habr.com/ru/articles/877132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
