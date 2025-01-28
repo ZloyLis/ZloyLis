@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дорожная карта миграции большого хранилища данных](https://habr.com/ru/companies/oleg-bunin/articles/876306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876306)
+- [PL/V8: JavaScript в PostgreSQL](https://habr.com/ru/companies/otus/articles/876982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876982)
 - [Умный дом с радио из Cyberpunk: как я написал расширение для Home Assistant](https://habr.com/ru/companies/selectel/articles/876176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876176)
 - [CI для мобильной разработки или как мы используем fastlane](https://habr.com/ru/companies/skbkontur/articles/876842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876842)
 - [Как стать системным аналитиком с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/877002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877002)
-- [Как мы усовершенствовали CDP благодаря агрегатным атрибутам](https://habr.com/ru/companies/lanit/articles/875642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875642)
-- [Внимание правильный ответ](https://habr.com/ru/articles/877000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
