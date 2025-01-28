@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддержка MDX в Luxms BI: комфортная миграция с Power BI](https://habr.com/ru/companies/luxms_bi/articles/877238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877238)
+- [Какой % желающих сможет работать в IT: Итог 500 бесплатных профориентаций Mentorpiece](https://habr.com/ru/articles/877246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877246)
+- [Сложность концепции компоновки на примере для QT &lpar;шпаргалка&rpar;](https://habr.com/ru/articles/877218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877218)
 - [Дорожная карта миграции большого хранилища данных](https://habr.com/ru/companies/oleg-bunin/articles/876306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876306)
 - [PL/V8: JavaScript в PostgreSQL](https://habr.com/ru/companies/otus/articles/876982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876982)
-- [Умный дом с радио из Cyberpunk: как я написал расширение для Home Assistant](https://habr.com/ru/companies/selectel/articles/876176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876176)
-- [CI для мобильной разработки или как мы используем fastlane](https://habr.com/ru/companies/skbkontur/articles/876842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876842)
-- [Как стать системным аналитиком с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/877002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
