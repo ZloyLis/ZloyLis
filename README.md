@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фильтр Гаусса на стероидах: секреты ускорения вычислений](https://habr.com/ru/companies/smartengines/articles/877082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877082)
+- [Дизайн за 5 минут. Дайджест января 2025](https://habr.com/ru/companies/garage8/articles/877358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877358)
+- [Аппроксимация затухания в коаксиальных кабелях и ее использование для расчетов радиосистем](https://habr.com/ru/companies/stc_spb/articles/877352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877352)
 - [[Перевод] Создаем мультитенантные Symfony-приложения с помощью Ecotone](https://habr.com/ru/companies/otus/articles/877348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877348)
 - [Сборка проектов Си и Си++: от простого к сложному. Часть I. Библиотеки](https://habr.com/ru/companies/ruvds/articles/871940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871940)
-- [[Перевод] Разработка эффективных агентов с помощью Spring AI &lpar;Часть 1&rpar;](https://habr.com/ru/companies/spring_aio/articles/877196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877196)
-- [[Перевод] Введение в реактивное программирование](https://habr.com/ru/articles/877332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877332)
-- [Покажи своего Telegram бота](https://habr.com/ru/articles/877328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
