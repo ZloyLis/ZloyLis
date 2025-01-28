@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уйти от ORM](https://habr.com/ru/articles/877052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877052)
+- [Путеводитель C++ программиста по неопределённому поведению](https://habr.com/ru/companies/pvs-studio/articles/877274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877274)
+- [Как составить резюме для российского рынка: практическое руководство](https://habr.com/ru/articles/877270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877270)
+- [Как ускорить процесс сделок в Envybox с помощью SMS API](https://habr.com/ru/companies/exolve/articles/877214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877214)
 - [Поддержка MDX в Luxms BI: комфортная миграция с Power BI](https://habr.com/ru/companies/luxms_bi/articles/877238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877238)
-- [Какой % желающих сможет работать в IT: Итог 500 бесплатных профориентаций Mentorpiece](https://habr.com/ru/articles/877246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877246)
-- [Сложность концепции компоновки на примере для QT &lpar;шпаргалка&rpar;](https://habr.com/ru/articles/877218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877218)
-- [Дорожная карта миграции большого хранилища данных](https://habr.com/ru/companies/oleg-bunin/articles/876306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876306)
-- [PL/V8: JavaScript в PostgreSQL](https://habr.com/ru/companies/otus/articles/876982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
