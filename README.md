@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Уйти от ORM](https://habr.com/ru/articles/877052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877052)
-- [Путеводитель C++ программиста по неопределённому поведению](https://habr.com/ru/companies/pvs-studio/articles/877274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877274)
-- [Как составить резюме для российского рынка: практическое руководство](https://habr.com/ru/articles/877270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877270)
-- [Как ускорить процесс сделок в Envybox с помощью SMS API](https://habr.com/ru/companies/exolve/articles/877214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877214)
-- [Поддержка MDX в Luxms BI: комфортная миграция с Power BI](https://habr.com/ru/companies/luxms_bi/articles/877238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877238)
+- [Как автоматизировать рутинные задачи с API UserGate](https://habr.com/ru/companies/k2tech/articles/877320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877320)
+- [Опыт разработки на доработанном pgTap](https://habr.com/ru/companies/gnivc/articles/877314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877314)
+- [Конец всего: пять сценариев гибели Вселенной](https://habr.com/ru/companies/ru_mts/articles/877188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877188)
+- [Loss Landscape Analysis — новая библиотека для анализа точности обучения и оценки обобщающей способности нейросетей](https://habr.com/ru/companies/kryptonite/articles/877122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877122)
+- [API Key Authentication в ASP.NET Core Web Api](https://habr.com/ru/articles/877302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
