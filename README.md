@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы усовершенствовали CDP благодаря агрегатным атрибутам](https://habr.com/ru/companies/lanit/articles/875642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875642)
+- [Внимание правильный ответ](https://habr.com/ru/articles/877000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877000)
+- [Первый шаг к кибернетическому тимлиду: автоматическое ревью кода на основе LLM](https://habr.com/ru/companies/ru_mts/articles/876482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876482)
+- [Что такое дизайн-система, зачем она нужна и какими отечественными решениями вдохновиться](https://habr.com/ru/companies/yandex_praktikum/articles/875034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875034)
 - [Как написать худшую статью на Хабре](https://habr.com/ru/articles/877132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877132)
-- [Памятка по XSD](https://habr.com/ru/companies/sberbank/articles/876978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876978)
-- [Мой путь к идеальному терминалу с iTerm2](https://habr.com/ru/articles/877152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877152)
-- [Security Week 2505: уязвимость в онлайн-сервисе Subaru](https://habr.com/ru/companies/kaspersky/articles/876968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876968)
-- [Использование Drools для конфигурирования приложения](https://habr.com/ru/articles/877136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
