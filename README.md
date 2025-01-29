@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL 18: Часть 2 или Коммитфест 2024-09](https://habr.com/ru/companies/postgrespro/articles/877752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877752)
+- [Экзамен по высшей математике: от страха к уверенности за короткий срок](https://habr.com/ru/articles/877758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877758)
 - [Log4ts — библиотека, которой не должно быть](https://habr.com/ru/articles/877698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877698)
 - [Telegram бот + ИИ Jlama своими руками](https://habr.com/ru/articles/877746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877746)
 - [[Перевод] Руководство по интерпретации данных](https://habr.com/ru/companies/otus/articles/877712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877712)
-- [Как я вкатился в айти с зп 150к, когда это уже не мейнстрим и джуны не нужны](https://habr.com/ru/articles/877710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877710)
-- [[Перевод] Компилятор WebAssembly, который помещается в один твит](https://habr.com/ru/companies/ruvds/articles/877556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
