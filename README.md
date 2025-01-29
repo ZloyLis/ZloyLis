@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как документация помогает выйти в прод быстрее. Бонус — шаблоны, которые выручают в работе аналитика](https://habr.com/ru/articles/877558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877558)
+- [Не вручную: почему стоит автоматизировать рутинные задачи для QA](https://habr.com/ru/companies/surfstudio/articles/876994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876994)
+- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876996)
 - [Cтажировки в IT за процент от будущей зарплаты стоимостью более миллиона рублей](https://habr.com/ru/articles/877460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877460)
 - [Goose: AI-агент в работе](https://habr.com/ru/articles/877522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877522)
-- [Разбираемся с библиотекой libnl в для управлением трафиком в Linux](https://habr.com/ru/articles/877514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877514)
-- [Интерфейс командной строки для начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/875058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875058)
-- [Введение в фикстуры Playwright](https://habr.com/ru/companies/tbank/articles/877292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
