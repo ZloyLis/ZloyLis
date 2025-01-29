@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Две строки CSS, которые снизили производительность со 120 до 40 FPS](https://habr.com/ru/articles/864840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864840)
-- [DIP, SLAP, Coupling — База](https://habr.com/ru/companies/banki/articles/877562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877562)
-- [Как документация помогает выйти в прод быстрее. Бонус — шаблоны, которые выручают в работе аналитика](https://habr.com/ru/articles/877558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877558)
-- [Не вручную: почему стоит автоматизировать рутинные задачи для QA](https://habr.com/ru/companies/surfstudio/articles/876994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876994)
-- [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876996)
+- [Как спрогнозировать будущую инфляцию?](https://habr.com/ru/articles/877612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877612)
+- [Что нового в Postgres Pro 17: от Proxima до интеллектуального управления данными](https://habr.com/ru/companies/postgrespro/articles/877300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877300)
+- [Ошибки и подозрительные места в исходниках .NET 9](https://habr.com/ru/companies/pvs-studio/articles/877610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877610)
+- [Как парсить данные с Python](https://habr.com/ru/companies/timeweb/articles/877596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877596)
+- [В чем разница между китайским ТСД, и «сделанным в Китае»?](https://habr.com/ru/companies/cleverence/articles/877598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
