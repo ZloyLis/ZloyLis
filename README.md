@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как спрогнозировать будущую инфляцию?](https://habr.com/ru/articles/877612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877612)
-- [Что нового в Postgres Pro 17: от Proxima до интеллектуального управления данными](https://habr.com/ru/companies/postgrespro/articles/877300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877300)
-- [Ошибки и подозрительные места в исходниках .NET 9](https://habr.com/ru/companies/pvs-studio/articles/877610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877610)
-- [Как парсить данные с Python](https://habr.com/ru/companies/timeweb/articles/877596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877596)
-- [В чем разница между китайским ТСД, и «сделанным в Китае»?](https://habr.com/ru/companies/cleverence/articles/877598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877598)
+- [[Перевод] Camunda Alpha Release January 2025 – что нового?](https://habr.com/ru/articles/877660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877660)
+- [Как рождаются, живут и умирают горутины](https://habr.com/ru/companies/ozonbank/articles/877242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877242)
+- [IT-продукт в 2025: как сэкономить минимум в 2 раза и запустить проект без классических ошибок — 7 проверенных шагов](https://habr.com/ru/articles/877644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877644)
+- [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 05 — GDI рендер](https://habr.com/ru/articles/877542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877542)
+- [FastAPI vs Litestar: выбираем лучший фреймворк для микросервисов](https://habr.com/ru/companies/ru_mts/articles/877628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
