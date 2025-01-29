@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Две строки CSS, которые снизили производительность со 120 до 40 FPS](https://habr.com/ru/articles/864840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=864840)
+- [DIP, SLAP, Coupling — База](https://habr.com/ru/companies/banki/articles/877562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877562)
 - [Как документация помогает выйти в прод быстрее. Бонус — шаблоны, которые выручают в работе аналитика](https://habr.com/ru/articles/877558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877558)
 - [Не вручную: почему стоит автоматизировать рутинные задачи для QA](https://habr.com/ru/companies/surfstudio/articles/876994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876994)
 - [P2P на Go: библиотека libp2p](https://habr.com/ru/companies/otus/articles/876996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876996)
-- [Cтажировки в IT за процент от будущей зарплаты стоимостью более миллиона рублей](https://habr.com/ru/articles/877460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877460)
-- [Goose: AI-агент в работе](https://habr.com/ru/articles/877522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
