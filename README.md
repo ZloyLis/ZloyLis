@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cтажировки в IT за процент от будущей зарплаты стоимостью более миллиона рублей](https://habr.com/ru/articles/877460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877460)
+- [Goose: AI-агент в работе](https://habr.com/ru/articles/877522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877522)
 - [Разбираемся с библиотекой libnl в для управлением трафиком в Linux](https://habr.com/ru/articles/877514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877514)
 - [Интерфейс командной строки для начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/875058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875058)
 - [Введение в фикстуры Playwright](https://habr.com/ru/companies/tbank/articles/877292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877292)
-- [Алгоритм подготовка материалов для митапа](https://habr.com/ru/articles/877422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877422)
-- [Digital Twin. Часть 1. Цифровой двойник vs цифровой самозванец](https://habr.com/ru/articles/877454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
