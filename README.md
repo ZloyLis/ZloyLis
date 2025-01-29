@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Компилятор WebAssembly, который помещается в один твит](https://habr.com/ru/companies/ruvds/articles/877556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877556)
 - [[Перевод] Camunda Alpha Release January 2025 – что нового?](https://habr.com/ru/articles/877660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877660)
 - [Как рождаются, живут и умирают горутины](https://habr.com/ru/companies/ozonbank/articles/877242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877242)
 - [IT-продукт в 2025: как сэкономить минимум в 2 раза и запустить проект без классических ошибок — 7 проверенных шагов](https://habr.com/ru/articles/877644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877644)
 - [Пишем легаси с нуля на С++, не вызывая подозрение у санитаров. 05 — GDI рендер](https://habr.com/ru/articles/877542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877542)
-- [FastAPI vs Litestar: выбираем лучший фреймворк для микросервисов](https://habr.com/ru/companies/ru_mts/articles/877628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
