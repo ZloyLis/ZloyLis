@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся с библиотекой libnl в для управлением трафиком в Linux](https://habr.com/ru/articles/877514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877514)
+- [Интерфейс командной строки для начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/875058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875058)
+- [Введение в фикстуры Playwright](https://habr.com/ru/companies/tbank/articles/877292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877292)
 - [Алгоритм подготовка материалов для митапа](https://habr.com/ru/articles/877422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877422)
 - [Digital Twin. Часть 1. Цифровой двойник vs цифровой самозванец](https://habr.com/ru/articles/877454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877454)
-- [Сетевые технологии с нуля [или почти с нуля]: подборка книг](https://habr.com/ru/companies/vasexperts/articles/877424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877424)
-- [Крах NVIDIA: как DeepSeek встряхнул рынок AI](https://habr.com/ru/companies/redmadrobot/articles/877416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877416)
-- [Типы данных в Python для самых маленьких](https://habr.com/ru/articles/877410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
