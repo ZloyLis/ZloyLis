@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасное взаимодействие с API: от ошибок к стабильности](https://habr.com/ru/companies/domclick/articles/872606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872606)
+- [Как заставить API самому себе писать тесты: практика генерации тестов на основе спецификации API. Часть 2](https://habr.com/ru/companies/odnoklassniki/articles/876980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876980)
 - [Продукт, аутсорс или стартап — куда пойти? Мнение одного QA](https://habr.com/ru/companies/yandex_praktikum/articles/875072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875072)
 - [Болезнь “ООП головного мозга”](https://habr.com/ru/articles/877844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877844)
 - [[Перевод] День 4-й проекта объёмом «закончу до обеда»](https://habr.com/ru/articles/877588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877588)
-- [Полезные советы при разработке с AI IDE агентами](https://habr.com/ru/articles/877822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877822)
-- [[Перевод] Неиспользуемые остатки образов в Docker: как удалить зомби-слои и защитить секреты](https://habr.com/ru/companies/flant/articles/877608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
