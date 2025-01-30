@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Судоку: моя попытка в новый алгоритм решения. Часть 1 &lpar;надеюсь&rpar;…](https://habr.com/ru/articles/878124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878124)
 - [Безопасная работа с итераторами в С++](https://habr.com/ru/articles/878156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878156)
 - [Game++. Dancing with allocators](https://habr.com/ru/articles/876804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876804)
 - [Динамическая рефлексия для C++](https://habr.com/ru/articles/878140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878140)
 - [Время идёт, а ничего не меняется. Самыми популярными вопросами среди начинающих дизайнеров остаются:](https://habr.com/ru/articles/878120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878120)
-- [Сравнение кода от DeepSeek и ChatGPT](https://habr.com/ru/articles/878060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
