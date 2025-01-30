@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Game++. Dancing with allocators](https://habr.com/ru/articles/876804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876804)
+- [Динамическая рефлексия для C++](https://habr.com/ru/articles/878140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878140)
 - [Время идёт, а ничего не меняется. Самыми популярными вопросами среди начинающих дизайнеров остаются:](https://habr.com/ru/articles/878120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878120)
 - [Сравнение кода от DeepSeek и ChatGPT](https://habr.com/ru/articles/878060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878060)
 - [[Перевод] Маленький bool Дума](https://habr.com/ru/companies/beget/articles/877984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877984)
-- [Немного о темной материи](https://habr.com/ru/articles/878106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878106)
-- [Декомпозируем Uniswap v3 позицию на два опциона](https://habr.com/ru/articles/877642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
