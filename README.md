@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как превратить работу над продуктом в настольную игру](https://habr.com/ru/companies/avito/articles/877956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877956)
+- [Тренды веб-дизайна в 2025 году](https://habr.com/ru/companies/kokocgroup/articles/878028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878028)
+- [Apache Flink: использование и автоматическая проверка собственного сериализатора состояния](https://habr.com/ru/companies/ru_mts/articles/878070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878070)
 - [[Перевод] Кодирование UTF-8 без ветвления](https://habr.com/ru/companies/mkb/articles/878068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878068)
-- [Безопасность на уровне кода: руководство по защите веб-приложений для начинающих](https://habr.com/ru/companies/runity/articles/878066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878066)
-- [Vivaldi 7.1 для Android и iOS — стрельба дуплетом](https://habr.com/ru/companies/vivaldi/articles/878050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878050)
-- [«База» по метрикам в Prometheus](https://habr.com/ru/companies/sportmaster_lab/articles/872204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872204)
-- [Три кита Ozon: BX, SX и Warehouse, или Как происходит работа с дизайн-системами и UI-kit в разных структурах Ozon](https://habr.com/ru/companies/ozontech/articles/877452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877452)
+- [Безопасность на уровне кода: руководство по защите веб-приложений для начинающих](https://habr.com/ru/companies/spaceweb/articles/878066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
