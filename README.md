@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Слишком уж «Быстрый вход» в приложение Т-Банк на Android](https://habr.com/ru/articles/878176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878176)
 - [[Перевод] Стандартная библиотека С не потокобезопасна: проблему не решает даже Rust](https://habr.com/ru/articles/878170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878170)
 - [Судоку: моя попытка в новый алгоритм решения. Часть 1 &lpar;надеюсь&rpar;…](https://habr.com/ru/articles/878124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878124)
 - [Безопасная работа с итераторами в С++](https://habr.com/ru/articles/878156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878156)
 - [Game++. Dancing with allocators](https://habr.com/ru/articles/876804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876804)
-- [Динамическая рефлексия для C++](https://habr.com/ru/articles/878140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
