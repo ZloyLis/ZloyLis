@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] День 4-й проекта объёмом «закончу до обеда»](https://habr.com/ru/articles/877588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877588)
+- [Полезные советы при разработке с AI IDE агентами](https://habr.com/ru/articles/877822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877822)
 - [[Перевод] Неиспользуемые остатки образов в Docker: как удалить зомби-слои и защитить секреты](https://habr.com/ru/companies/flant/articles/877608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877608)
 - [PostgreSQL 18: Часть 2 или Коммитфест 2024-09](https://habr.com/ru/companies/postgrespro/articles/877752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877752)
 - [Экзамен по высшей математике: от страха к уверенности за короткий срок](https://habr.com/ru/articles/877758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877758)
-- [Log4ts — библиотека, которой не должно быть](https://habr.com/ru/articles/877698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877698)
-- [Telegram бот + ИИ Jlama своими руками](https://habr.com/ru/articles/877746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
