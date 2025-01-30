@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Кодирование UTF-8 без ветвления](https://habr.com/ru/companies/mkb/articles/878068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878068)
+- [Безопасность на уровне кода: руководство по защите веб-приложений для начинающих](https://habr.com/ru/companies/runity/articles/878066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878066)
 - [Vivaldi 7.1 для Android и iOS — стрельба дуплетом](https://habr.com/ru/companies/vivaldi/articles/878050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878050)
 - [«База» по метрикам в Prometheus](https://habr.com/ru/companies/sportmaster_lab/articles/872204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872204)
 - [Три кита Ozon: BX, SX и Warehouse, или Как происходит работа с дизайн-системами и UI-kit в разных структурах Ozon](https://habr.com/ru/companies/ozontech/articles/877452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877452)
-- [GIMP Script-Fu Первый Дан. Объектно-ориентрованное программирование в Scheme. Простая реализация](https://habr.com/ru/articles/878018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878018)
-- [Популярные инструменты для создания процессов DevOps](https://habr.com/ru/companies/sberbank/articles/878014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
