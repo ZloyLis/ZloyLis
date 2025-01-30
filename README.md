@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Java становится надежнее: “Целостность по умолчанию” в действии](https://habr.com/ru/companies/spring_aio/articles/877864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877864)
-- [«Я делаю рефакторинг ежечасно» или как за пять минут улучшить ваше приложение](https://habr.com/ru/companies/cloud_ru/articles/877762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877762)
-- [Менеджер данных: как новая роль изменила подход к работе с ML](https://habr.com/ru/companies/2gis/articles/877868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877868)
-- [[Перевод] System Design для начинающих: всё, что вам нужно. Часть 2](https://habr.com/ru/articles/877312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877312)
-- [Тренды SDET-направления в 2025 году](https://habr.com/ru/companies/simbirsoft/articles/877648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877648)
+- [Три кита Ozon: BX, SX и Warehouse, или Как происходит работа с дизайн-системами и UI-kit в разных структурах Ozon](https://habr.com/ru/companies/ozontech/articles/877452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877452)
+- [GIMP Script-Fu Первый Дан. Объектно-ориентрованное программирование в Scheme. Простая реализация](https://habr.com/ru/articles/878018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878018)
+- [Популярные инструменты для создания процессов DevOps](https://habr.com/ru/companies/sberbank/articles/878014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878014)
+- [Хочу прожарки на MVP своего проекта, который задеплоил буквально пару дней назад](https://habr.com/ru/articles/877986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877986)
+- [Как запоминать и не забывать: применяем и автоматизируем Spaced Repetition System](https://habr.com/ru/companies/doubletapp/articles/877524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
