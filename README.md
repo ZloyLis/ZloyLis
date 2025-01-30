@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как превратить работу над продуктом в настольную игру](https://habr.com/ru/companies/avito/articles/877956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877956)
-- [Тренды веб-дизайна в 2025 году](https://habr.com/ru/companies/kokocgroup/articles/878028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878028)
-- [Apache Flink: использование и автоматическая проверка собственного сериализатора состояния](https://habr.com/ru/companies/ru_mts/articles/878070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878070)
-- [[Перевод] Кодирование UTF-8 без ветвления](https://habr.com/ru/companies/mkb/articles/878068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878068)
-- [Безопасность на уровне кода: руководство по защите веб-приложений для начинающих](https://habr.com/ru/companies/spaceweb/articles/878066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878066)
+- [Время идёт, а ничего не меняется. Самыми популярными вопросами среди начинающих дизайнеров остаются:](https://habr.com/ru/articles/878120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878120)
+- [Сравнение кода от DeepSeek и ChatGPT](https://habr.com/ru/articles/878060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878060)
+- [[Перевод] Маленький bool Дума](https://habr.com/ru/companies/beget/articles/877984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877984)
+- [Немного о темной материи](https://habr.com/ru/articles/878106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878106)
+- [Декомпозируем Uniswap v3 позицию на два опциона](https://habr.com/ru/articles/877642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
