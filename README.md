@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Я перешёл на Firefox и обратно возвращаться не намерен](https://habr.com/ru/companies/nmg/articles/797103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797103)
-- [PPSSPP или всё же psp? Смотрим баги в коде из прошлого](https://habr.com/ru/companies/pvs-studio/articles/878286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878286)
-- [Язык программирования Go – для начинающих](https://habr.com/ru/articles/878190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878190)
-- [Современные языки программирования: как мода убила гениальность](https://habr.com/ru/articles/878266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878266)
-- [Liberux NEXX: Linux-смартфон с 32 ГБ ОЗУ и аппаратными переключателями](https://habr.com/ru/companies/selectel/articles/878222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878222)
+- [WireMock: Легкий путь к эффективному тестированию](https://habr.com/ru/companies/beeline_tech/articles/878368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878368)
+- [В общем, решил я все таки развивать свой проект HackFrontend](https://habr.com/ru/articles/878356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878356)
+- [Тихой сапой: кремний-углеродные батареи приходят на смену литий-ионным?](https://habr.com/ru/companies/ru_mts/articles/878302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878302)
+- [Приручаем монстров в Go: боремся с разросшимся Makefile и монолитом — без распила на микросервисы](https://habr.com/ru/companies/yadro/articles/878354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878354)
+- [Прогнозируем движение беспилотного автомобиля &lpar;или как я вышел в тройку лидеров на Yandex Cup 2024&rpar;](https://habr.com/ru/companies/X5Tech/articles/878326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
