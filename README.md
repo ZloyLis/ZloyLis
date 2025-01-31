@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я перешёл на Firefox и обратно возвращаться не намерен](https://habr.com/ru/companies/nmg/articles/797103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797103)
+- [PPSSPP или всё же psp? Смотрим баги в коде из прошлого](https://habr.com/ru/companies/pvs-studio/articles/878286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878286)
+- [Язык программирования Go – руководство для начинающих](https://habr.com/ru/articles/878190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878190)
+- [Современные языки программирования: как мода убила гениальность](https://habr.com/ru/articles/878266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878266)
 - [Liberux NEXX: Linux-смартфон с 32 ГБ ОЗУ и аппаратными переключателями](https://habr.com/ru/companies/selectel/articles/878222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878222)
-- [Осторожно, подделка: чудесное превращение iPhone 11 в «iPhone 14 Pro»](https://habr.com/ru/companies/ru_mts/articles/878244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878244)
-- [12 + 8 шагов к мониторингу аномальной активности в ОС Нейтрино](https://habr.com/ru/companies/swd_es/articles/869296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869296)
-- [[Перевод] Оптимизация 3D-текстурирования для мобильных игр при помощи градиентов](https://habr.com/ru/articles/878020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878020)
-- [[Перевод] Как работает HTTP/2 и как использовать его в Go](https://habr.com/ru/articles/878148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
