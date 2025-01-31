@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [99 вкладок браузера или «Бесконечность — не предел!»](https://habr.com/ru/articles/878438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878438)
 - [Потоки под капотом: как работают многопоточность и синхронизация](https://habr.com/ru/companies/kts/articles/875096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875096)
 - [Экзистенциальные угрозы AI. Что ждёт человечество, если появится искусственный сверхинтеллект](https://habr.com/ru/companies/redmadrobot/articles/878152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878152)
 - [Вредоносные пакеты deepseeek и deepseekai были опубликованы в Python Package Index](https://habr.com/ru/companies/pt/articles/878392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878392)
 - [Документация приложения — дело рук самого приложения](https://habr.com/ru/companies/tbank/articles/878396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878396)
-- [[Перевод] Операционная система в 1 000 строк кода &lpar;часть 4&rpar;](https://habr.com/ru/companies/ruvds/articles/877474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
