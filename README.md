@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Я перешёл на Firefox и обратно возвращаться не намерен](https://habr.com/ru/companies/nmg/articles/797103/?utm_source=habrahabr&utm_medium=rss&utm_campaign=797103)
 - [PPSSPP или всё же psp? Смотрим баги в коде из прошлого](https://habr.com/ru/companies/pvs-studio/articles/878286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878286)
-- [Язык программирования Go – руководство для начинающих](https://habr.com/ru/articles/878190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878190)
+- [Язык программирования Go – для начинающих](https://habr.com/ru/articles/878190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878190)
 - [Современные языки программирования: как мода убила гениальность](https://habr.com/ru/articles/878266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878266)
 - [Liberux NEXX: Linux-смартфон с 32 ГБ ОЗУ и аппаратными переключателями](https://habr.com/ru/companies/selectel/articles/878222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878222)
 <!-- BLOG-POST-LIST:END -->
