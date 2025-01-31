@@ -35,10 +35,10 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Документация приложения — дело рук самого приложения](https://habr.com/ru/companies/tbank/articles/878396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878396)
 - [[Перевод] Операционная система в 1 000 строк кода &lpar;часть 4&rpar;](https://habr.com/ru/companies/ruvds/articles/877474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877474)
 - [Как о нас заботятся безопасники](https://habr.com/ru/companies/rshb/articles/878314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878314)
 - [WireMock: Легкий путь к эффективному тестированию](https://habr.com/ru/companies/beeline_tech/articles/878368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878368)
-- [В общем, решил я все таки развивать свой проект HackFrontend](https://habr.com/ru/articles/878356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878356)
 - [Тихой сапой: кремний-углеродные батареи приходят на смену литий-ионным?](https://habr.com/ru/companies/ru_mts/articles/878302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878302)
 <!-- BLOG-POST-LIST:END -->
 
