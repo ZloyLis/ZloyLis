@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Оптимизация 3D-текстурирования для мобильных игр при помощи градиентов](https://habr.com/ru/articles/878020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878020)
+- [[Перевод] Как работает HTTP/2 и как использовать его в Go](https://habr.com/ru/articles/878148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878148)
+- [SQL HowTo: находим «елочку» с помощью центра масс &lpar;Advent of Code 2024, Day 14: Restroom Redoubt&rpar;](https://habr.com/ru/companies/tensor/articles/878210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878210)
 - [Такие разные Slivers. Часть 2: базовые классы и делегаты](https://habr.com/ru/articles/877376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877376)
 - [Слишком уж «Быстрый вход» в приложение Т-Банк на Android](https://habr.com/ru/articles/878176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878176)
-- [[Перевод] Стандартная библиотека С не потокобезопасна: проблему не решает даже Rust](https://habr.com/ru/articles/878170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878170)
-- [Судоку: моя попытка в новый алгоритм решения. Часть 1 &lpar;надеюсь&rpar;…](https://habr.com/ru/articles/878124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878124)
-- [Безопасная работа с итераторами в С++](https://habr.com/ru/articles/878156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
