@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие статьи Хабра в январе 2025 года](https://habr.com/ru/articles/877264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877264)
 - [Недостатки искусственного интеллекта: взгляд изнутри и что мы можем увидеть снаружи. Кому нужен божественный ИИ](https://habr.com/ru/articles/877852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877852)
 - [Создание бота для телеграмма на c++, используя библиотеку Boost](https://habr.com/ru/articles/878510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878510)
 - [99 вкладок браузера или «Бесконечность — не предел!»](https://habr.com/ru/articles/878438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878438)
 - [Потоки под капотом: как работают многопоточность и синхронизация](https://habr.com/ru/companies/kts/articles/875096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875096)
-- [Экзистенциальные угрозы AI. Что ждёт человечество, если появится искусственный сверхинтеллект](https://habr.com/ru/companies/redmadrobot/articles/878152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
