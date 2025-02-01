@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что почитать техническому специалисту: подборка от CTO](https://habr.com/ru/companies/ru_mts/articles/878288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878288)
 - [AI, макеты и дедлайн: как за 8 часов исследовать продуктовый сценарий, нагенерить идей и взяться за макеты](https://habr.com/ru/articles/878518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878518)
 - [Лучшие статьи Хабра в январе 2025 года](https://habr.com/ru/articles/877264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877264)
 - [Недостатки искусственного интеллекта: взгляд изнутри и что мы можем увидеть снаружи. Кому нужен божественный ИИ](https://habr.com/ru/articles/877852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877852)
 - [Создание бота для телеграмма на c++, используя библиотеку Boost](https://habr.com/ru/articles/878510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878510)
-- [99 вкладок браузера или «Бесконечность — не предел!»](https://habr.com/ru/articles/878438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
