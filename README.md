@@ -35,9 +35,9 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering бизнес требований советы для Senior Business Analyst](https://habr.com/ru/articles/878648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878648)
 - [Postgres Pro OpenTelemetry Collector](https://habr.com/ru/articles/878640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878640)
 - [Как из каши импортов сделать сортированный список Frontend](https://habr.com/ru/articles/878638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878638)
-- [Как из каши импортов сделать сортированный список Frontend](https://habr.com/ru/articles/878636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878636)
 - [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878620)
 - [[Перевод] IntelliJ IDEA 2025.1 EAP 3](https://habr.com/ru/companies/spring_aio/articles/878530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878530)
 <!-- BLOG-POST-LIST:END -->
