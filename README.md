@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заговор разработчиков против корпораций: архитектура и принципы](https://habr.com/ru/articles/878620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878620)
 - [[Перевод] IntelliJ IDEA 2025.1 EAP 3](https://habr.com/ru/companies/spring_aio/articles/878530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878530)
-- [[Перевод] IntelliJ IDEA 2025.1 EAP 3](https://habr.com/ru/companies/spring_aio/articles/878528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878528)
 - [JavaScript. Готовимся к live-coding](https://habr.com/ru/articles/878594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878594)
 - [Naive Problem Solving: Почему неопытность в разработке может быть преимуществом](https://habr.com/ru/articles/878590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878590)
 - [Проверка на &lpar;не&rpar;вхождение строк через разные инструменты в PostgreSQL](https://habr.com/ru/articles/878574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878574)
