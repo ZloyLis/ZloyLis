@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Как оформить сим карту Мегафона на другого человека](https://habr.com/ru/articles/878676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878676)
-- [Как оформить сим карту Мегафона на другого человека](https://habr.com/ru/articles/878674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878674)
 - [Многопользовательский рой агентов для Ollama](https://habr.com/ru/articles/878658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878658)
 - [Свой Cheat Engine с нуля! Часть 1 — Получаем список процессов и модули в нем](https://habr.com/ru/articles/878660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878660)
 - [Reverse Engineering бизнес требований советы для Senior Business Analyst](https://habr.com/ru/articles/878648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878648)
+- [Postgres Pro OpenTelemetry Collector](https://habr.com/ru/articles/878640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
