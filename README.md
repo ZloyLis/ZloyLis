@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ну заяц погоди! Или противоракетная оборона для самых маленьких евреев и не только. Часть 1](https://habr.com/ru/articles/878168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878168)
 - [Дизайн дисфункция или клавиатуры для TV приложений](https://habr.com/ru/articles/878840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878840)
 - [Стохастическая волатильность: как её моделируют? На примере опционов на эфир](https://habr.com/ru/articles/878744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878744)
 - [Импульсные нейронные сети: От обратного распространения ошибки к обучению Хебба. Идея о динамической нейронной сети](https://habr.com/ru/articles/878810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878810)
 - [GIMP Script-Fu Первый Дан. Фигуры. Объектный подход](https://habr.com/ru/articles/878808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878808)
+- [[Перевод] Семь самых важных научных статей в истории Computer Science](https://habr.com/ru/companies/beeline_tech/articles/878804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
