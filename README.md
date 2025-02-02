@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтернатива Keycloak: как настроить SSO в Authentik](https://habr.com/ru/articles/878802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878802)
+- [Нужен ли Postgres альтернативный сборщик статистики таблиц?](https://habr.com/ru/articles/878724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878724)
+- [Паттерн Transactional Outbox](https://habr.com/ru/articles/878790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878790)
 - [Lua-скриптинг в mpv-плеере](https://habr.com/ru/articles/878772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878772)
 - [Сравнение кода DeepSeek и ChatGPT&lpar;Golang&rpar;](https://habr.com/ru/articles/878766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878766)
-- [Мобильная разработка за неделю #573 &lpar;27 января — 2 февраля&rpar;](https://habr.com/ru/articles/878754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878754)
-- [[Перевод] Операционная система в 1 000 строках кода &lpar;часть 5&rpar;](https://habr.com/ru/companies/ruvds/articles/878196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878196)
-- [Minimal Phone: смартфон, который вас не отвлекает. E-ink экран и никаких мессенджеров](https://habr.com/ru/companies/selectel/articles/876304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
