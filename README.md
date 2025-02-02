@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Операционная система в 1 000 строках кода &lpar;часть 5&rpar;](https://habr.com/ru/companies/ruvds/articles/878196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878196)
+- [Minimal Phone: смартфон, который вас не отвлекает. E-ink экран и никаких мессенджеров](https://habr.com/ru/companies/selectel/articles/876304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876304)
 - [Я: экстремально композиционный язык программирования](https://habr.com/ru/articles/878576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878576)
 - [Многопользовательский рой агентов для Ollama](https://habr.com/ru/articles/878658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878658)
 - [Свой Cheat Engine с нуля! Часть 1 — Получаем список процессов и модули в нем](https://habr.com/ru/articles/878660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878660)
-- [Reverse Engineering бизнес требований советы для Senior Business Analyst](https://habr.com/ru/articles/878648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878648)
-- [Postgres Pro OpenTelemetry Collector](https://habr.com/ru/articles/878640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
