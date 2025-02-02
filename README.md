@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импульсные нейронные сети: От обратного распространения ошибки к обучению Хебба. Идея о динамической нейронной сети](https://habr.com/ru/articles/878810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878810)
+- [GIMP Script-Fu Первый Дан. Фигуры. Объектный подход](https://habr.com/ru/articles/878808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878808)
 - [[Перевод] Семь самых важных научных статей в истории Computer Science](https://habr.com/ru/companies/beeline_tech/articles/878804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878804)
 - [Альтернатива Keycloak: как настроить SSO в Authentik](https://habr.com/ru/articles/878802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878802)
 - [Нужен ли Postgres альтернативный сборщик статистики таблиц?](https://habr.com/ru/articles/878724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878724)
-- [Паттерн Transactional Outbox](https://habr.com/ru/articles/878790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878790)
-- [Lua-скриптинг в mpv-плеере](https://habr.com/ru/articles/878772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
