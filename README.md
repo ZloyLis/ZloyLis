@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Семь самых важных научных статей в истории Computer Science](https://habr.com/ru/companies/beeline_tech/articles/878804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878804)
 - [Альтернатива Keycloak: как настроить SSO в Authentik](https://habr.com/ru/articles/878802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878802)
 - [Нужен ли Postgres альтернативный сборщик статистики таблиц?](https://habr.com/ru/articles/878724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878724)
 - [Паттерн Transactional Outbox](https://habr.com/ru/articles/878790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878790)
 - [Lua-скриптинг в mpv-плеере](https://habr.com/ru/articles/878772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878772)
-- [Сравнение кода DeepSeek и ChatGPT&lpar;Golang&rpar;](https://habr.com/ru/articles/878766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
