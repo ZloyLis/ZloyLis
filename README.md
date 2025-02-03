@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за январь 2025 года](https://habr.com/ru/articles/877150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877150)
+- [[Перевод] Восстание DeepSeek: что не попало в заголовки новостей](https://habr.com/ru/companies/wunderfund/articles/878828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878828)
+- [Обзор различных тактик работы с реактивным стейтом во Vue](https://habr.com/ru/articles/878722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878722)
 - [Python 2D графика. Визуализация данных в реальном времени. Matplotlib, PyQTGraph, pyOpenGL, VisPy, Bokeh и др. FPS 200?](https://habr.com/ru/articles/878002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878002)
 - [Хроники архитектурного дизайна &lpar;Часть 1&rpar;](https://habr.com/ru/companies/usetech/articles/878908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878908)
-- [Хроники архитектурного дизайна &lpar;Часть 1&rpar;](https://habr.com/ru/companies/usetech/articles/878906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878906)
-- [Пойдём в нейросети вместе со мной](https://habr.com/ru/articles/878902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878902)
-- [Делаем свой Telegra.ph на маркдауне за три минуты и один промпт](https://habr.com/ru/articles/878774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
