@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BM YOLO: что, если вам не нужно умножать, чтобы распознавать?](https://habr.com/ru/companies/smartengines/articles/879088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879088)
 - [Солнечный коллектор для умеренного климата](https://habr.com/ru/articles/879096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879096)
 - [Scala Digest. Выпуск 25](https://habr.com/ru/companies/tbank/articles/879034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879034)
 - [[Перевод] Хакаем любую Субару с доступом к Интернету](https://habr.com/ru/companies/ruvds/articles/879010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879010)
 - [Kubernetes Garbage Collector. Как он работает](https://habr.com/ru/articles/878954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878954)
-- [На заметку разработчикам: 5 сервисов для проверки качества кода](https://habr.com/ru/companies/ru_mts/articles/878980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
