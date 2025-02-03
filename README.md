@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что пошло не так, при переходе в промышленную эксплуатацию SAP? Суд Bearing Point vs Segezha group](https://habr.com/ru/articles/879156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879156)
+- [Security Week 2506: атака по сторонним каналам на процессоры Apple](https://habr.com/ru/companies/kaspersky/articles/878996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878996)
 - [Apple Pro Weekly News &lpar;27.01 – 02.02.25&rpar;](https://habr.com/ru/articles/879142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879142)
 - [BM YOLO: что, если вам не нужно умножать, чтобы распознавать?](https://habr.com/ru/companies/smartengines/articles/879088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879088)
 - [Солнечный коллектор для умеренного климата](https://habr.com/ru/articles/879096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879096)
-- [Scala Digest. Выпуск 25](https://habr.com/ru/companies/tbank/articles/879034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879034)
-- [[Перевод] Хакаем любую Субару с доступом к Интернету](https://habr.com/ru/companies/ruvds/articles/879010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
