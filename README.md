@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Единицы измерения в web, или Сколько попугаев во viewport&#39;е](https://habr.com/ru/companies/sberbank/articles/873982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873982)
 - [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за январь 2025 года](https://habr.com/ru/articles/877150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877150)
 - [[Перевод] Восстание DeepSeek: что не попало в заголовки новостей](https://habr.com/ru/companies/wunderfund/articles/878828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878828)
-- [Обзор различных тактик работы с реактивным стейтом во Vue](https://habr.com/ru/articles/878722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878722)
+- [Обзор различных методов работы с реактивным стейтом во Vue](https://habr.com/ru/articles/878722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878722)
 - [Python 2D графика. Визуализация данных в реальном времени. Matplotlib, PyQTGraph, pyOpenGL, VisPy, Bokeh и др. FPS 200?](https://habr.com/ru/articles/878002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878002)
-- [Хроники архитектурного дизайна &lpar;Часть 1&rpar;](https://habr.com/ru/companies/usetech/articles/878908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
