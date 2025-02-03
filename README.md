@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Модель DeepSeek R-1 добавили в инструмент для программистов Cursor AI](https://habr.com/ru/articles/878880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878880)
+- [[Перевод] Как отлаживать плагины в Revit: ускоряем разработку](https://habr.com/ru/articles/878878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878878)
 - [Плагины: автоматизация разработки в продуктах JetBrains &lpar;на примере Android Studio&rpar;](https://habr.com/ru/articles/878870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878870)
 - [T-shape в системном анализе. Скажи свое непопулярное мнение и беги](https://habr.com/ru/articles/878684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878684)
 - [Чего ждать от Angular в 2025 году? Стратегия](https://habr.com/ru/articles/878866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878866)
-- [Как занимательный оператор решил наболевшую проблему](https://habr.com/ru/articles/878506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878506)
-- [Дизайн дисфункция или клавиатуры для TV приложений](https://habr.com/ru/articles/878840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
