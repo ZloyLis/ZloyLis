@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Секреты стройности монолита: подходы по снятию нагрузки с БД](https://habr.com/ru/companies/yandex/articles/876286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876286)
-- [[Перевод] Модель DeepSeek R-1 добавили в инструмент для программистов Cursor AI](https://habr.com/ru/articles/878880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878880)
-- [[Перевод] Как отлаживать плагины в Revit: ускоряем разработку](https://habr.com/ru/articles/878878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878878)
-- [Плагины: автоматизация разработки в продуктах JetBrains &lpar;на примере Android Studio&rpar;](https://habr.com/ru/articles/878870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878870)
-- [T-shape в системном анализе. Скажи свое непопулярное мнение и беги](https://habr.com/ru/articles/878684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878684)
+- [Python 2D графика. Визуализация данных в реальном времени. Matplotlib, PyQTGraph, pyOpenGL, VisPy, Bokeh и др. FPS 200?](https://habr.com/ru/articles/878002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878002)
+- [Хроники архитектурного дизайна &lpar;Часть 1&rpar;](https://habr.com/ru/companies/usetech/articles/878908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878908)
+- [Хроники архитектурного дизайна &lpar;Часть 1&rpar;](https://habr.com/ru/companies/usetech/articles/878906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878906)
+- [Пойдём в нейросети вместе со мной](https://habr.com/ru/articles/878902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878902)
+- [Делаем свой Telegra.ph на маркдауне за три минуты и один промпт](https://habr.com/ru/articles/878774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
