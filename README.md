@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Секреты стройности монолита: подходы по снятию нагрузки с БД](https://habr.com/ru/companies/yandex/articles/876286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876286)
 - [[Перевод] Модель DeepSeek R-1 добавили в инструмент для программистов Cursor AI](https://habr.com/ru/articles/878880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878880)
 - [[Перевод] Как отлаживать плагины в Revit: ускоряем разработку](https://habr.com/ru/articles/878878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878878)
 - [Плагины: автоматизация разработки в продуктах JetBrains &lpar;на примере Android Studio&rpar;](https://habr.com/ru/articles/878870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878870)
 - [T-shape в системном анализе. Скажи свое непопулярное мнение и беги](https://habr.com/ru/articles/878684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878684)
-- [Чего ждать от Angular в 2025 году? Стратегия](https://habr.com/ru/articles/878866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
