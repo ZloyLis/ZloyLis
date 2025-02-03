@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-PC эра, которая так и не наступила](https://habr.com/ru/articles/879012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879012)
-- [Нюансы автоматизированного тестирования расширений для VS Code с помощью WebdriverIO](https://habr.com/ru/companies/haulmont/articles/879002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879002)
-- [Единицы измерения в web, или Сколько попугаев во viewport&#39;е](https://habr.com/ru/companies/sberbank/articles/873982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=873982)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за январь 2025 года](https://habr.com/ru/articles/877150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877150)
-- [[Перевод] Восстание DeepSeek: что не попало в заголовки новостей](https://habr.com/ru/companies/wunderfund/articles/878828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878828)
+- [На заметку разработчикам: 5 сервисов для проверки качества кода](https://habr.com/ru/companies/ru_mts/articles/878980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878980)
+- [Одна React-задача, демонстрирующая ключевые навыки на собеседовании](https://habr.com/ru/articles/871792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871792)
+- [[Перевод] Путеводитель по техническим транзакциям с Camunda 8 и Spring](https://habr.com/ru/articles/879026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879026)
+- [Избавляемся от головной боли: новый интерфейс для VPN-подключения](https://habr.com/ru/articles/879024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879024)
+- [Zustand в React](https://habr.com/ru/companies/otus/articles/878586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
