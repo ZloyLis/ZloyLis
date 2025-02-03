@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Хакаем любую Субару с доступом к Интернету](https://habr.com/ru/companies/ruvds/articles/879010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879010)
+- [Kubernetes Garbage Collector. Как он работает](https://habr.com/ru/articles/878954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878954)
 - [На заметку разработчикам: 5 сервисов для проверки качества кода](https://habr.com/ru/companies/ru_mts/articles/878980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878980)
 - [Одна React-задача, демонстрирующая ключевые навыки на собеседовании](https://habr.com/ru/articles/871792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871792)
 - [[Перевод] Путеводитель по техническим транзакциям с Camunda 8 и Spring](https://habr.com/ru/articles/879026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879026)
-- [Избавляемся от головной боли: новый интерфейс для VPN-подключения](https://habr.com/ru/articles/879024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879024)
-- [Zustand в React](https://habr.com/ru/companies/otus/articles/878586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
