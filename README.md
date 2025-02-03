@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Плагины: автоматизация разработки в продуктах JetBrains &lpar;на примере Android Studio&rpar;](https://habr.com/ru/articles/878870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878870)
+- [T-shape в системном анализе. Скажи свое непопулярное мнение и беги](https://habr.com/ru/articles/878684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878684)
 - [Чего ждать от Angular в 2025 году? Стратегия](https://habr.com/ru/articles/878866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878866)
 - [Как занимательный оператор решил наболевшую проблему](https://habr.com/ru/articles/878506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878506)
 - [Дизайн дисфункция или клавиатуры для TV приложений](https://habr.com/ru/articles/878840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878840)
-- [Стохастическая волатильность: как её моделируют? На примере опционов на эфир](https://habr.com/ru/articles/878744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878744)
-- [Импульсные нейронные сети: От обратного распространения ошибки к обучению Хебба. Идея о динамической нейронной сети](https://habr.com/ru/articles/878810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
