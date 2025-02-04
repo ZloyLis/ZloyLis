@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про Rust — просто. Что читать в каком порядке?](https://habr.com/ru/companies/bitrix/articles/878912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878912)
+- [Библиотека аналитика: что, зачем и кому читать](https://habr.com/ru/companies/yandex_praktikum/articles/876060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876060)
+- [Мне 34, я был в 67 странах, и у меня есть для вас лайфхак &lpar;часть 2&rpar;](https://habr.com/ru/companies/alfa/articles/876776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876776)
+- [Как меняется поведение и метрики пользователей при редизайне продукта](https://habr.com/ru/companies/ligastavok/articles/879080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879080)
 - [Ваши навыки больше ничего не значат](https://habr.com/ru/articles/878336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878336)
-- [ffmpeg: сохраняем прогресс конвертации](https://habr.com/ru/articles/878848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878848)
-- [[Перевод] Математики несколько десятилетий не могли решить, рационально число или нет](https://habr.com/ru/articles/879188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879188)
-- [DeepSeek-R1 для чайников](https://habr.com/ru/articles/879178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879178)
-- [Что пошло не так, при переходе в промышленную эксплуатацию SAP? Суд Bearing Point vs Segezha group](https://habr.com/ru/articles/879156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879156)
 <!-- BLOG-POST-LIST:END -->
 
 ---
