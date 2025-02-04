@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современные языки программирования: взлет Rust, Go и не только](https://habr.com/ru/articles/879272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879272)
+- [О невизуальной доступности цифровых сервисов в подкасте «Скоро будет доступно?» от Everland](https://habr.com/ru/articles/879268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879268)
+- [Рецепты для регулярного статического анализа кода](https://habr.com/ru/companies/pvs-studio/articles/879256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879256)
 - [Про Rust — просто. Что читать в каком порядке?](https://habr.com/ru/companies/bitrix/articles/878912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878912)
 - [Библиотека аналитика: что, зачем и кому читать](https://habr.com/ru/companies/yandex_praktikum/articles/876060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876060)
-- [Мне 34, я был в 67 странах, и у меня есть для вас лайфхак &lpar;часть 2&rpar;](https://habr.com/ru/companies/alfa/articles/876776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876776)
-- [Как меняется поведение и метрики пользователей при редизайне продукта](https://habr.com/ru/companies/ligastavok/articles/879080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879080)
-- [Ваши навыки больше ничего не значат](https://habr.com/ru/articles/878336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
