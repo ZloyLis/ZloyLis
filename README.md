@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Вечная» батарейка: как алюминий может изменить мир мобильных устройств](https://habr.com/ru/companies/ru_mts/articles/879442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879442)
+- [[Перевод] Рефакторинг с помощью codemods для автоматизации изменений API](https://habr.com/ru/companies/otus/articles/879432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879432)
+- [Создание файлового сервера на c++ и Boost](https://habr.com/ru/articles/879400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879400)
+- [Работа с атрибутами HTML элементов в JavaScript](https://habr.com/ru/articles/879430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879430)
 - [Используем API Key и JWT Bearer аутентификацию вместе в ASP.NET Core Web API](https://habr.com/ru/articles/879424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879424)
-- [Простой TypeScript клиент для Telegram Bot Api](https://habr.com/ru/articles/879174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879174)
-- [Визуализация чисто геометрического вывода формулы определителя третьего порядка](https://habr.com/ru/articles/879410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879410)
-- [Распили её правильно. А/В разрез генеральной совокупности](https://habr.com/ru/articles/878440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878440)
-- [[Перевод] Книга: «Kubernetes для разработчиков»](https://habr.com/ru/companies/piter/articles/879114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
