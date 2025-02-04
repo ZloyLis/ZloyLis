@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Оптимизировали процессы, разработали интернет-магазин мерча с нуля, и взяли серебро на Рейтинге Рунета. Кейс БАМ 50](https://habr.com/ru/articles/879374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879374)
-- [PicTrace-X1: Как умные очки и нейросети меняют поиск изображений — от браузера до навигации](https://habr.com/ru/articles/879372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879372)
-- [Опять DeepSeek? Побудем в роли детектива](https://habr.com/ru/articles/879358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879358)
-- [Цикл статей о Greenplum. Часть 3. Оптимизация](https://habr.com/ru/companies/axenix/articles/878788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878788)
-- [[Перевод] Вершим правосудие на GitHub, помечая мошенников с помощью граффити](https://habr.com/ru/companies/bastion/articles/877076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877076)
+- [Простой TypeScript клиент для Telegram Bot Api](https://habr.com/ru/articles/879174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879174)
+- [Визуализация чисто геометрического вывода формулы определителя третьего порядка](https://habr.com/ru/articles/879410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879410)
+- [Распили её правильно. А/В разрез генеральной совокупности](https://habr.com/ru/articles/878440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878440)
+- [[Перевод] Книга: «Kubernetes для разработчиков»](https://habr.com/ru/companies/piter/articles/879114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879114)
+- [Почему ваше портфолио UX/UI-дизайнера не работает: 7 критических ошибок и как их исправить](https://habr.com/ru/articles/879376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
