@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вершим правосудие на GitHub, помечая мошенников с помощью граффити](https://habr.com/ru/companies/bastion/articles/877076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877076)
+- [Где твои чаевые, дружище? No tip, no trip](https://habr.com/ru/articles/879338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879338)
 - [GraphQL 10 лет. Пора в нем разобраться?](https://habr.com/ru/articles/879322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879322)
 - [Как стать Project-менеджером с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/879296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879296)
 - [Современные языки программирования: взлет Rust, Go и не только](https://habr.com/ru/articles/879272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879272)
-- [О невизуальной доступности цифровых сервисов в подкасте «Скоро будет доступно?» от Everland](https://habr.com/ru/articles/879268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879268)
-- [Рецепты для регулярного статического анализа кода](https://habr.com/ru/companies/pvs-studio/articles/879256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
