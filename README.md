@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваши навыки больше ничего не значат](https://habr.com/ru/articles/878336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878336)
 - [ffmpeg: сохраняем прогресс конвертации](https://habr.com/ru/articles/878848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878848)
 - [[Перевод] Математики несколько десятилетий не могли решить, рационально число или нет](https://habr.com/ru/articles/879188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879188)
 - [DeepSeek-R1 для чайников](https://habr.com/ru/articles/879178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879178)
 - [Что пошло не так, при переходе в промышленную эксплуатацию SAP? Суд Bearing Point vs Segezha group](https://habr.com/ru/articles/879156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879156)
-- [Security Week 2506: атака по сторонним каналам на процессоры Apple](https://habr.com/ru/companies/kaspersky/articles/878996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
