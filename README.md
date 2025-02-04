@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как утекает память, если забыть отписаться от Observable](https://habr.com/ru/articles/879502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879502)
 - [Каталог каталогов](https://habr.com/ru/companies/vk/articles/879456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879456)
 - [Почему измерять ≠ управлять: как KPI искажают реальность и какой инструмент использовать осознанному руководителю](https://habr.com/ru/companies/simpleone/articles/879450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879450)
 - [«Вечная» батарейка: как алюминий может изменить мир мобильных устройств](https://habr.com/ru/companies/ru_mts/articles/879442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879442)
 - [[Перевод] Рефакторинг с помощью codemods для автоматизации изменений API](https://habr.com/ru/companies/otus/articles/879432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879432)
-- [Создание файлового сервера на c++ и Boost](https://habr.com/ru/articles/879400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
