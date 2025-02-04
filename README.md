@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL 10 лет. Пора в нем разобраться?](https://habr.com/ru/articles/879322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879322)
+- [Как стать Project-менеджером с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/879296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879296)
 - [Современные языки программирования: взлет Rust, Go и не только](https://habr.com/ru/articles/879272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879272)
 - [О невизуальной доступности цифровых сервисов в подкасте «Скоро будет доступно?» от Everland](https://habr.com/ru/articles/879268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879268)
 - [Рецепты для регулярного статического анализа кода](https://habr.com/ru/companies/pvs-studio/articles/879256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879256)
-- [Про Rust — просто. Что читать в каком порядке?](https://habr.com/ru/companies/bitrix/articles/878912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878912)
-- [Библиотека аналитика: что, зачем и кому читать](https://habr.com/ru/companies/yandex_praktikum/articles/876060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
