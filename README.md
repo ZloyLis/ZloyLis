@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Через тернии к Омни. Эпизод 5. Омниплатформа, схема принципиальная, электрическая](https://habr.com/ru/companies/vtb/articles/869954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869954)
+- [Оптическая криптография: нейронные сети, голограммы, лазеры и этанол](https://habr.com/ru/companies/ua-hosting/articles/879288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879288)
+- [Roadmap интеграционной аналитики](https://habr.com/ru/companies/surfstudio/articles/879144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879144)
+- [SQL HowTo: играем в сокобан с помощью json-карты и типа point &lpar;Advent of Code 2024, Day 15: Warehouse Woes&rpar;](https://habr.com/ru/companies/tensor/articles/879548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879548)
 - [Еще раз о забытом. Roslyn Source Generators](https://habr.com/ru/articles/879592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879592)
-- [Гид по IT-сообществам: форматы, особенности и очень много ссылок](https://habr.com/ru/companies/yandex_praktikum/articles/874834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874834)
-- [Обработка ошибок REST API: лучшие практики](https://habr.com/ru/companies/ru_mts/articles/879586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879586)
-- [Ускорение LLM: универсальные методы для популярных архитектур](https://habr.com/ru/companies/yandex/articles/878230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878230)
-- [Как оптимизировать производительность API при высокой нагрузке](https://habr.com/ru/companies/exolve/articles/879580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
