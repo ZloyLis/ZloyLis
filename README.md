@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [О важности мотивации для тех, кто хочет «войти в айти» программистом](https://habr.com/ru/articles/879560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879560)
-- [ChameleonUltra: открытый инструмент для работы с RFID](https://habr.com/ru/articles/879526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879526)
-- [Как утекает память, если забыть отписаться от Observable](https://habr.com/ru/articles/879502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879502)
-- [Каталог каталогов](https://habr.com/ru/companies/vk/articles/879456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879456)
-- [Почему измерять ≠ управлять: как KPI искажают реальность и какой инструмент использовать осознанному руководителю](https://habr.com/ru/companies/simpleone/articles/879450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879450)
+- [Еще раз о забытом. Roslyn Source Generators](https://habr.com/ru/articles/879592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879592)
+- [Гид по IT-сообществам: форматы, особенности и очень много ссылок](https://habr.com/ru/companies/yandex_praktikum/articles/874834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=874834)
+- [Обработка ошибок REST API: лучшие практики](https://habr.com/ru/companies/ru_mts/articles/879586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879586)
+- [Ускорение LLM: универсальные методы для популярных архитектур](https://habr.com/ru/companies/yandex/articles/878230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878230)
+- [Как оптимизировать производительность API при высокой нагрузке](https://habr.com/ru/companies/exolve/articles/879580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
