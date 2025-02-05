@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Spring Security: разберём по полочкам токены, фильтры и авторизацию &lpar;с диаграммами!&rpar;](https://habr.com/ru/companies/spring_aio/articles/879704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879704)
+- [[Перевод] Все знают, где ты находишься](https://habr.com/ru/companies/ruvds/articles/879626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879626)
 - [Тренд-репорт. Рынок GenAI в 2025 году: что нужно знать бизнесу](https://habr.com/ru/companies/redmadrobot/articles/879750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879750)
 - [Kubernetes в джунглях агротех: как мы спасаем банановые кластеры](https://habr.com/ru/companies/rshb/articles/879470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879470)
 - [Как обойти гору: эффективные приёмы обработки пользовательских данных](https://habr.com/ru/companies/vk/articles/879386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879386)
-- [Почему Nix и NixOS становятся популярнее? Золото в мире конфигурационного менеджмента](https://habr.com/ru/companies/selectel/articles/877438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877438)
-- [[Перевод] Суть Go: Time](https://habr.com/ru/articles/879220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
