@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Суть Go: Time](https://habr.com/ru/articles/879220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879220)
+- [Обзор новинок по теме Flutter за неделю](https://habr.com/ru/articles/879692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879692)
 - [Создаю онлайн-плеер с нейросетями и кошкодевочками](https://habr.com/ru/companies/ntechlab/articles/879472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879472)
 - [[Перевод] Клон ChatGPT в 3000 байтах на C, основанный на GPT-2](https://habr.com/ru/articles/879662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879662)
 - [Сканируем кластер Kubernetes без лишних сущностей](https://habr.com/ru/companies/otus/articles/879422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879422)
-- [[Перевод] Windsurf vs Cursor IDE: кто лучший AI-редактор кода?](https://habr.com/ru/articles/879038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879038)
-- [LLM для автоматизации поддержки](https://habr.com/ru/companies/tbank/articles/879128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
