@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаю онлайн-плеер с нейросетями и кошкодевочками](https://habr.com/ru/companies/ntechlab/articles/879472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879472)
+- [[Перевод] Клон ChatGPT в 3000 байтах на C, основанный на GPT-2](https://habr.com/ru/articles/879662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879662)
+- [Сканируем кластер Kubernetes без лишних сущностей](https://habr.com/ru/companies/otus/articles/879422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879422)
 - [[Перевод] Windsurf vs Cursor IDE: кто лучший AI-редактор кода?](https://habr.com/ru/articles/879038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879038)
 - [LLM для автоматизации поддержки](https://habr.com/ru/companies/tbank/articles/879128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879128)
-- [Преимущества PHP при общении с умными устройствами](https://habr.com/ru/companies/oleg-bunin/articles/879590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879590)
-- [Через тернии к Омни. Эпизод 5. Омниплатформа, схема принципиальная, электрическая](https://habr.com/ru/companies/vtb/articles/869954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869954)
-- [Оптическая криптография: нейронные сети, голограммы, лазеры и этанол](https://habr.com/ru/companies/ua-hosting/articles/879288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
