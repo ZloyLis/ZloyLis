@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Sheet с автоматическим подсчётом высоты и поддержкой iOS 15](https://habr.com/ru/articles/879854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879854)
 - [Как с помощью ML-модели мы помогли исполнителям получать больше заказов на Авито](https://habr.com/ru/companies/avito/articles/879680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879680)
 - [Параллельный A на Rust и Rayon: ищем путь для воробушка*](https://habr.com/ru/companies/otus/articles/879014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879014)
 - [Мысли вслух. Сколько потребляет памяти один запрос PostgreSQL?](https://habr.com/ru/companies/softpoint/articles/879688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879688)
 - [[Перевод] Spring Security: разберём по полочкам токены, фильтры и авторизацию &lpar;с диаграммами!&rpar;](https://habr.com/ru/companies/spring_aio/articles/879704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879704)
-- [[Перевод] Все знают, где ты находишься](https://habr.com/ru/companies/ruvds/articles/879626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
