@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Windsurf vs Cursor IDE: кто лучший AI-редактор кода?](https://habr.com/ru/articles/879038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879038)
+- [LLM для автоматизации поддержки](https://habr.com/ru/companies/tbank/articles/879128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879128)
+- [Преимущества PHP при общении с умными устройствами](https://habr.com/ru/companies/oleg-bunin/articles/879590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879590)
 - [Через тернии к Омни. Эпизод 5. Омниплатформа, схема принципиальная, электрическая](https://habr.com/ru/companies/vtb/articles/869954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869954)
 - [Оптическая криптография: нейронные сети, голограммы, лазеры и этанол](https://habr.com/ru/companies/ua-hosting/articles/879288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879288)
-- [Roadmap интеграционной аналитики](https://habr.com/ru/companies/surfstudio/articles/879144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879144)
-- [SQL HowTo: играем в сокобан с помощью json-карты и типа point &lpar;Advent of Code 2024, Day 15: Warehouse Woes&rpar;](https://habr.com/ru/companies/tensor/articles/879548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879548)
-- [Еще раз о забытом. Roslyn Source Generators](https://habr.com/ru/articles/879592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
