@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритмы из теории графов: решаем сложную задачу из курса по Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/877964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877964)
+- [Обновления Swift Concurrency: что нас ждёт в Swift 6](https://habr.com/ru/companies/yandex/articles/879078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879078)
 - [Как мы за 3,5 часа обучили продуктовую команду быстрым тестированиям интерфейса](https://habr.com/ru/companies/vk/articles/879596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879596)
 - [Range-v3 в C++](https://habr.com/ru/companies/otus/articles/878580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878580)
 - [Sheet с автоматическим подсчётом высоты и поддержкой iOS 15](https://habr.com/ru/articles/879854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879854)
-- [Как с помощью ML-модели мы помогли исполнителям получать больше заказов на Авито](https://habr.com/ru/companies/avito/articles/879680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879680)
-- [Параллельный A на Rust и Rayon: ищем путь для воробушка*](https://habr.com/ru/companies/otus/articles/879014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
