@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем простой плагин для Android Studio](https://habr.com/ru/articles/880160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880160)
+- [Анализ заинтересованных лиц на примере школы бизнес-аналитиков](https://habr.com/ru/articles/880158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880158)
+- [Программист за $4000 против ChatGPT за $20: кто победит в 2025?](https://habr.com/ru/articles/880146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880146)
 - [Как мы используем пирамиду тестирования в Рунити](https://habr.com/ru/companies/runity/articles/880134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880134)
 - [Performance matter](https://habr.com/ru/articles/880118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880118)
-- [Lombok в Java: избавляемся от бойлерплейта](https://habr.com/ru/companies/otus/articles/879852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879852)
-- [Безопасное обновления состояния в ViewModel](https://habr.com/ru/articles/880108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880108)
-- [Проводим идеальное собеседование разработчика. Советы от практика с тысячей собеседований за спиной](https://habr.com/ru/articles/879902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
