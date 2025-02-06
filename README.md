@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переход на Symfony в заскорузлом Yii2 монолите: подробный разбор](https://habr.com/ru/articles/880196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880196)
 - [Когда обучение становится ловушкой: почему некоторые так и не начинают действовать](https://habr.com/ru/articles/880178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880178)
 - [[Перевод] Облегчаем разработку Flutter-приложений: Создание плагинов с помощью Kotlin Multiplatform](https://habr.com/ru/companies/otus/articles/880174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880174)
 - [Пишем простой плагин для Android Studio](https://habr.com/ru/articles/880160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880160)
 - [Анализ заинтересованных лиц на примере школы бизнес-аналитиков](https://habr.com/ru/articles/880158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880158)
-- [Программист за $4000 против ChatGPT за $20: кто победит в 2025?](https://habr.com/ru/articles/880146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
