@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Lombok в Java: избавляемся от бойлерплейта](https://habr.com/ru/companies/otus/articles/879852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879852)
+- [Безопасное обновления состояния в ViewModel](https://habr.com/ru/articles/880108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880108)
+- [Проводим идеальное собеседование разработчика. Советы от практика с тысячей собеседований за спиной](https://habr.com/ru/articles/879902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879902)
+- [Как амбиции и маркетинг Nokia уничтожили N-Gage](https://habr.com/ru/companies/ruvds/articles/878166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878166)
 - [Self service в действии: как Luxms BI помогает ускорить аналитику](https://habr.com/ru/companies/luxms_bi/articles/880082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880082)
-- [modern-cpp-kafka для C++. Решаем проблемы владения и сериализации](https://habr.com/ru/articles/880094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880094)
-- [Как стать властелином отладчика: помогут ELF, DWARF и много магии](https://habr.com/ru/companies/yadro/articles/878974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878974)
-- [Как создать плагин для IntelliJ IDEA на примере генератора директорий для проекта](https://habr.com/ru/articles/880028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880028)
-- [std::vector::erase. Что-то здесь не так](https://habr.com/ru/articles/880026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
