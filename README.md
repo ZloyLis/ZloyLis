@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Capacitor приложений в обход сторов](https://habr.com/ru/articles/880000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880000)
+- [Как запустить публичный сайт на телефоне или экономим на спичках](https://habr.com/ru/articles/879818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879818)
 - [Model Context Protocol &lpar;MCP&rpar;: Стандартизация взаимодействия AI-приложений](https://habr.com/ru/articles/879970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879970)
 - [Что такое правильная документация проекта](https://habr.com/ru/articles/879968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879968)
 - [Продвинутое использование библиотеки React Router v7: как упростить сложную навигацию и улучшить производительность](https://habr.com/ru/companies/clevertec/articles/877682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877682)
-- [Как быстро освоить кибербезопасность: советы для начинающих](https://habr.com/ru/companies/sberbank/articles/879948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879948)
-- [Алгоритмы из теории графов: решаем сложную задачу из курса по Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/877964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
