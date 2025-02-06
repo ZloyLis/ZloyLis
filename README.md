@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление Capacitor приложений в обход сторов](https://habr.com/ru/articles/880000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880000)
-- [Как запустить публичный сайт на телефоне или экономим на спичках](https://habr.com/ru/articles/879818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879818)
-- [Model Context Protocol &lpar;MCP&rpar;: Стандартизация взаимодействия AI-приложений](https://habr.com/ru/articles/879970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879970)
-- [Что такое правильная документация проекта](https://habr.com/ru/articles/879968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879968)
-- [Продвинутое использование библиотеки React Router v7: как упростить сложную навигацию и улучшить производительность](https://habr.com/ru/companies/clevertec/articles/877682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877682)
+- [std::vector::erase. Что-то здесь не так](https://habr.com/ru/articles/880026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880026)
+- [Гармония железа и кода: ускоряем Go, проектируя приложение с учетом архитектуры процессора](https://habr.com/ru/companies/cloud_ru/articles/878088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878088)
+- [[Перевод] Квантовые компьютеры перешли критический порог ошибок](https://habr.com/ru/companies/first/articles/878988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878988)
+- [Как использовать собственный опыт и успешные наработки для ускорения разработки](https://habr.com/ru/articles/879992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879992)
+- [Миграция на строгий TypeScript: наш путь и собственное решение](https://habr.com/ru/companies/selectel/articles/879980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
