@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы используем пирамиду тестирования в Рунити](https://habr.com/ru/companies/runity/articles/880134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880134)
+- [Performance matter](https://habr.com/ru/articles/880118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880118)
 - [Lombok в Java: избавляемся от бойлерплейта](https://habr.com/ru/companies/otus/articles/879852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879852)
 - [Безопасное обновления состояния в ViewModel](https://habr.com/ru/articles/880108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880108)
 - [Проводим идеальное собеседование разработчика. Советы от практика с тысячей собеседований за спиной](https://habr.com/ru/articles/879902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879902)
-- [Как амбиции и маркетинг Nokia уничтожили N-Gage](https://habr.com/ru/companies/ruvds/articles/878166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878166)
-- [Self service в действии: как Luxms BI помогает ускорить аналитику](https://habr.com/ru/companies/luxms_bi/articles/880082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
