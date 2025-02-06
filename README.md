@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать плагин для IntelliJ IDEA на примере генератора директорий для проекта](https://habr.com/ru/articles/880028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880028)
 - [std::vector::erase. Что-то здесь не так](https://habr.com/ru/articles/880026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880026)
 - [Гармония железа и кода: ускоряем Go, проектируя приложение с учетом архитектуры процессора](https://habr.com/ru/companies/cloud_ru/articles/878088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878088)
 - [[Перевод] Квантовые компьютеры перешли критический порог ошибок](https://habr.com/ru/companies/first/articles/878988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878988)
 - [Как использовать собственный опыт и успешные наработки для ускорения разработки](https://habr.com/ru/articles/879992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879992)
-- [Миграция на строгий TypeScript: наш путь и собственное решение](https://habr.com/ru/companies/selectel/articles/879980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
