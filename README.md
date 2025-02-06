@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Model Context Protocol &lpar;MCP&rpar;: Стандартизация взаимодействия AI-приложений](https://habr.com/ru/articles/879970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879970)
+- [Что такое правильная документация проекта](https://habr.com/ru/articles/879968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879968)
+- [Продвинутое использование библиотеки React Router v7: как упростить сложную навигацию и улучшить производительность](https://habr.com/ru/companies/clevertec/articles/877682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877682)
+- [Как быстро освоить кибербезопасность: советы для начинающих](https://habr.com/ru/companies/sberbank/articles/879948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879948)
 - [Алгоритмы из теории графов: решаем сложную задачу из курса по Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/877964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877964)
-- [Обновления Swift Concurrency: что нас ждёт в Swift 6](https://habr.com/ru/companies/yandex/articles/879078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879078)
-- [Как мы за 3,5 часа обучили продуктовую команду быстрым тестированиям интерфейса](https://habr.com/ru/companies/vk/articles/879596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879596)
-- [Range-v3 в C++](https://habr.com/ru/companies/otus/articles/878580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878580)
-- [Sheet с автоматическим подсчётом высоты и поддержкой iOS 15](https://habr.com/ru/articles/879854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
