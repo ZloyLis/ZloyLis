@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [B2B маркетинг для зумеров и как AI BPA системы меняют корпорации](https://habr.com/ru/articles/880466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880466)
+- [Что мы делали в 2024-м? Видео — бесплатно и без регистрации](https://habr.com/ru/companies/surfstudio/articles/880148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880148)
+- [Как наши эмоции влияют на память и процесс обучения](https://habr.com/ru/companies/sberbank/articles/880444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880444)
 - [Java Digest #21](https://habr.com/ru/companies/tbank/articles/880410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880410)
 - [Пока Apple саботирует развитие PWA, мы сделали демо с контактами, пуш-уведомлениями и биометрией](https://habr.com/ru/companies/rshb/articles/880120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880120)
-- [Confluent Kafka: любовь и ненависть в .NET, часть 1](https://habr.com/ru/companies/beeline_tech/articles/880424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880424)
-- [Что первично – курица или яйцо? Создаем дашборд «с нуля» или от визуального образа результата](https://habr.com/ru/companies/korus_consulting/articles/880420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880420)
-- [Инструкция: как перейти в сферу it](https://habr.com/ru/articles/880386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
