@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пять нужных кастом-хуков для React](https://habr.com/ru/articles/880570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880570)
+- [Чуть не устроил подростка тимлидом](https://habr.com/ru/articles/880566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880566)
 - [Коротко про kube-scheduler в Kubernetes](https://habr.com/ru/companies/otus/articles/878564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878564)
 - [[Перевод] Flyway Baseline миграция без лишних слов: Что это и зачем нужно](https://habr.com/ru/companies/spring_aio/articles/880486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880486)
 - [Новый DI фреймворк для DART и Flutter — sputnik_di](https://habr.com/ru/articles/880456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880456)
-- [[Перевод] Конец программирования в том виде, в котором мы его знаем](https://habr.com/ru/articles/880464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880464)
-- [B2B маркетинг для зумеров и как AI BPA системы меняют корпорации](https://habr.com/ru/articles/880466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
