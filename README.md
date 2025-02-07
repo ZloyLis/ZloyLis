@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что спросить перед приемом оффера программисту?](https://habr.com/ru/articles/877468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877468)
 - [Начальная анимация](https://habr.com/ru/articles/880248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880248)
 - [Переход на Symfony в заскорузлом Yii2 монолите: подробный разбор](https://habr.com/ru/articles/880196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880196)
 - [Когда обучение становится ловушкой: почему некоторые так и не начинают действовать](https://habr.com/ru/articles/880178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880178)
 - [[Перевод] Облегчаем разработку Flutter-приложений: Создание плагинов с помощью Kotlin Multiplatform](https://habr.com/ru/companies/otus/articles/880174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880174)
-- [Пишем простой плагин для Android Studio](https://habr.com/ru/articles/880160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
