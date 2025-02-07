@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Через тернии к Омни. Эпизод 6. Смешать, но не взбалтывать](https://habr.com/ru/companies/vtb/articles/869958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869958)
+- [[Перевод] Программирование SDF-анимаций Рика и Морти](https://habr.com/ru/companies/cloud4y/articles/880294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880294)
 - [Такие разные Slivers. Часть 3: работа с пространством](https://habr.com/ru/articles/877390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877390)
-- [Долой оверхед: как мы избавились от зависимостей в интеграционном тестировании микросервисов](https://habr.com/ru/articles/880268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880268)
+- [Долой оверхед: как мы избавились от зависимостей в интеграционном тестировании микросервисов](https://habr.com/ru/companies/kaspersky/articles/880268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880268)
 - [Как мы устанавливали community-чарт Sentry в Kubernetes](https://habr.com/ru/companies/flant/articles/879564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879564)
-- [Чек-лист новичка. Как стать системным аналитиком без опыта](https://habr.com/ru/articles/880238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880238)
-- [Что спросить перед приемом оффера программисту?](https://habr.com/ru/articles/877468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
