@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI, FreeRTOS и Linux в кармане: возможности LicheeRV Nano](https://habr.com/ru/articles/880230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880230)
-- [Как PWA помогло клиентам ЮMoney продолжать получать пуши — даже без приложения](https://habr.com/ru/companies/yoomoney/articles/880132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880132)
-- [Квантовый панкомпьютерализм против цифровой физики. Всё из бита или всё из кубита?](https://habr.com/ru/articles/880404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880404)
-- [Взламываем Логарифмы by Human Readable Logic](https://habr.com/ru/articles/880364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880364)
-- [Современные подходы к управлению UI: low-сode &amp;amp; Backend-Driven UI](https://habr.com/ru/companies/avito/articles/879720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879720)
+- [Java Digest #21](https://habr.com/ru/companies/tbank/articles/880410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880410)
+- [Пока Apple саботирует развитие PWA, мы сделали демо с контактами, пуш-уведомлениями и биометрией](https://habr.com/ru/companies/rshb/articles/880120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880120)
+- [Confluent Kafka: любовь и ненависть в .NET, часть 1](https://habr.com/ru/companies/beeline_tech/articles/880424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880424)
+- [Что первично – курица или яйцо? Создаем дашборд «с нуля» или от визуального образа результата](https://habr.com/ru/companies/korus_consulting/articles/880420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880420)
+- [Инструкция: как перейти в сферу it](https://habr.com/ru/articles/880386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
