@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Через тернии к Омни. Эпизод 6. Смешать, но не взбалтывать](https://habr.com/ru/companies/vtb/articles/869958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869958)
-- [[Перевод] Программирование SDF-анимаций Рика и Морти](https://habr.com/ru/companies/cloud4y/articles/880294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880294)
-- [Такие разные Slivers. Часть 3: работа с пространством](https://habr.com/ru/articles/877390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877390)
-- [Долой оверхед: как мы избавились от зависимостей в интеграционном тестировании микросервисов](https://habr.com/ru/companies/kaspersky/articles/880268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880268)
-- [Как мы устанавливали community-чарт Sentry в Kubernetes](https://habr.com/ru/companies/flant/articles/879564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879564)
+- [Взламываем Логарифмы by Human Readable Logic](https://habr.com/ru/articles/880364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880364)
+- [Современные подходы к управлению UI: low-сode &amp;amp; Backend-Driven UI](https://habr.com/ru/companies/avito/articles/879720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879720)
+- [Сборка проектов Си и Си++: от простого к сложному. Часть II. Сборщики](https://habr.com/ru/companies/ruvds/articles/875620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875620)
+- [Ускоряем документацию в 10 раз](https://habr.com/ru/articles/880220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880220)
+- [FissionGo: как запускать Go-функции в Kubernetes](https://habr.com/ru/companies/otus/articles/878372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
