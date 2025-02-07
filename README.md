@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 7 самых влиятельных работ в истории информатики](https://habr.com/ru/articles/880242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880242)
 - [Взламываем Логарифмы by Human Readable Logic](https://habr.com/ru/articles/880364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880364)
 - [Современные подходы к управлению UI: low-сode &amp;amp; Backend-Driven UI](https://habr.com/ru/companies/avito/articles/879720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879720)
 - [Сборка проектов Си и Си++: от простого к сложному. Часть II. Сборщики](https://habr.com/ru/companies/ruvds/articles/875620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875620)
 - [Ускоряем документацию в 10 раз](https://habr.com/ru/articles/880220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880220)
-- [FissionGo: как запускать Go-функции в Kubernetes](https://habr.com/ru/companies/otus/articles/878372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
