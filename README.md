@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Долой оверхед: как мы избавились от зависимостей в интеграционном тестировании микросервисов](https://habr.com/ru/articles/880268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880268)
 - [Как мы устанавливали community-чарт Sentry в Kubernetes](https://habr.com/ru/companies/flant/articles/879564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879564)
 - [Чек-лист новичка. Как стать системным аналитиком без опыта](https://habr.com/ru/articles/880238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880238)
 - [Что спросить перед приемом оффера программисту?](https://habr.com/ru/articles/877468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877468)
 - [Начальная анимация](https://habr.com/ru/articles/880248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880248)
-- [Переход на Symfony в заскорузлом Yii2 монолите: подробный разбор](https://habr.com/ru/articles/880196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
