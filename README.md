@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 7 самых влиятельных работ в истории информатики](https://habr.com/ru/articles/880242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880242)
+- [AI, FreeRTOS и Linux в кармане: возможности LicheeRV Nano](https://habr.com/ru/articles/880230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880230)
+- [Как PWA помогло клиентам ЮMoney продолжать получать пуши — даже без приложения](https://habr.com/ru/companies/yoomoney/articles/880132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880132)
+- [Квантовый панкомпьютерализм против цифровой физики. Всё из бита или всё из кубита?](https://habr.com/ru/articles/880404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880404)
 - [Взламываем Логарифмы by Human Readable Logic](https://habr.com/ru/articles/880364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880364)
 - [Современные подходы к управлению UI: low-сode &amp;amp; Backend-Driven UI](https://habr.com/ru/companies/avito/articles/879720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879720)
-- [Сборка проектов Си и Си++: от простого к сложному. Часть II. Сборщики](https://habr.com/ru/companies/ruvds/articles/875620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875620)
-- [Ускоряем документацию в 10 раз](https://habr.com/ru/articles/880220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
