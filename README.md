@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравниваю ChatGPT-4o и ChatGPT-o3-mini-high](https://habr.com/ru/articles/880728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880728)
 - [ФСБ-телефон российской разработки, о котором никто не знал…](https://habr.com/ru/companies/timeweb/articles/878846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878846)
 - [Gambit Scheme: переопределяем формат вывода u8vector](https://habr.com/ru/articles/880704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880704)
 - [Поднимаем потоковый сервис Kafka на Python](https://habr.com/ru/articles/880700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880700)
 - [Разработка трёхфазного энергомонитора на базе ESP8266 с функцией автоматической проверки прибора учёта](https://habr.com/ru/articles/880682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880682)
-- [Оптимизация фундаментальных физических постоянных](https://habr.com/ru/articles/880676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
