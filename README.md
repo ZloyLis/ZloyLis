@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поднимаем потоковый сервис Kafka на Python](https://habr.com/ru/articles/880700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880700)
+- [Разработка трёхфазного энергомонитора на базе ESP8266 с функцией автоматической проверки прибора учёта](https://habr.com/ru/articles/880682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880682)
 - [Оптимизация фундаментальных физических постоянных](https://habr.com/ru/articles/880676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880676)
 - [Пишем бота «второго мнения» от нейросетей GPT 4o, Gemini 1,5 flash и Claude 3.5 Sonnet](https://habr.com/ru/companies/amvera/articles/880262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880262)
 - [Замедление работы pg_repack с помощью cgroup](https://habr.com/ru/articles/880646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880646)
-- [[Перевод] Ещё раз о моделях памяти, применявшихся в DOS](https://habr.com/ru/companies/timeweb/articles/880586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880586)
-- [От jsPDF к Chrome: решение сложной задачи рендеринга PDF с таблицами](https://habr.com/ru/articles/880620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
