@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем бота «второго мнения» от нейросетей GPT 4o, Gemini 1,5 flash и Claude 3.5 Sonnet](https://habr.com/ru/companies/amvera/articles/880262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880262)
+- [Замедление работы pg_repack с помощью cgroup](https://habr.com/ru/articles/880646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880646)
+- [[Перевод] Ещё раз о моделях памяти, применявшихся в DOS](https://habr.com/ru/companies/timeweb/articles/880586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880586)
 - [От jsPDF к Chrome: решение сложной задачи рендеринга PDF с таблицами](https://habr.com/ru/articles/880620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880620)
 - [Пять нужных кастом-хуков для React](https://habr.com/ru/articles/880570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880570)
-- [Чуть не устроил подростка тимлидом](https://habr.com/ru/articles/880566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880566)
-- [Коротко про kube-scheduler в Kubernetes](https://habr.com/ru/companies/otus/articles/878564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878564)
-- [[Перевод] Flyway Baseline миграция без лишних слов: Что это и зачем нужно](https://habr.com/ru/companies/spring_aio/articles/880486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
