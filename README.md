@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От сервера к десктопу: эксперимент с ASP.NET AOT и WebKitGTK](https://habr.com/ru/articles/880908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880908)
 - [[Перевод] Почему GPT-4 ошибается в 96% случаев: границы возможностей LLM](https://habr.com/ru/articles/880894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880894)
 - [Обработка ошибок в Go — Не традиционный подход](https://habr.com/ru/articles/880892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880892)
 - [Разбор поддельной зарядки Xiaomi 67W](https://habr.com/ru/articles/880886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880886)
 - [[Перевод] Динамические формы с Flask](https://habr.com/ru/articles/880864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880864)
-- [Запускаем ML-модели с помощью Docker и Nvidia Triton Server](https://habr.com/ru/companies/dockhost/articles/880668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
