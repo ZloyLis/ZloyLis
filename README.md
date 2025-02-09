@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Confluent Kafka: любовь и ненависть в .NET, часть 2](https://habr.com/ru/companies/beeline_tech/articles/880834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880834)
 - [[Перевод] Почему именно в Chrome под Windows на сайтах не работают эмодзи флагов](https://habr.com/ru/companies/ruvds/articles/879938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879938)
 - [Через тернии к Омни. Эпизод 7. Бережливая унификация](https://habr.com/ru/companies/vtb/articles/872538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872538)
 - [Ежегодный опрос PHP-сообщества: итоги 2024 года](https://habr.com/ru/articles/880552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880552)
 - [Гайд на работу в IT на первом курсе](https://habr.com/ru/articles/880774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880774)
-- [Сравниваю ChatGPT-4o и ChatGPT-o3-mini-high](https://habr.com/ru/articles/880728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
