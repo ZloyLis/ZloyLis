@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему GPT-4 ошибается в 96% случаев: границы возможностей LLM](https://habr.com/ru/articles/880894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880894)
+- [Обработка ошибок в Go — Не традиционный подход](https://habr.com/ru/articles/880892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880892)
+- [Разбор поддельной зарядки Xiaomi 67W](https://habr.com/ru/articles/880886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880886)
 - [[Перевод] Динамические формы с Flask](https://habr.com/ru/articles/880864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880864)
 - [Запускаем ML-модели с помощью Docker и Nvidia Triton Server](https://habr.com/ru/companies/dockhost/articles/880668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880668)
-- [Мобильная разработка за неделю #574 &lpar;3 — 9 февраля&rpar;](https://habr.com/ru/articles/880852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880852)
-- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#6&rpar;](https://habr.com/ru/articles/880848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880848)
-- [Почему апории Зенона на самом деле не решены до сих пор и как это связано с фундаментальными вопросами современной науки](https://habr.com/ru/articles/880842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
