@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Детские ошибки при сборке Gradle-приложений](https://habr.com/ru/companies/alfa/articles/876382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876382)
+- [Backend-for-Frontend &lpar;BFF&rpar;: решение проблемы взаимодействия фронтенда и бэкенда](https://habr.com/ru/articles/880964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880964)
 - [Еxpo 52 + Tamagui. Настраиваем проект с нуля](https://habr.com/ru/articles/880960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880960)
 - [Автоматизируем доставку сырья на производство с помощью Camunda и SMS API](https://habr.com/ru/companies/exolve/articles/876506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876506)
 - [Мне всё равно, какой у вас код-стайл](https://habr.com/ru/companies/skbkontur/articles/879706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879706)
-- [Как бесплатно разослать всем членам ТСЖ персональное сообщение о завтрашней уборке снега через WhatsApp](https://habr.com/ru/articles/876216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876216)
-- [Postgresso #1 &lpar;74&rpar;](https://habr.com/ru/companies/postgrespro/articles/869168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
