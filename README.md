@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Время собирать пакеты](https://habr.com/ru/articles/880994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880994)
-- [Интеграция Vue.js в Битрикс24: Как разработать сложный фронтенд за два месяца](https://habr.com/ru/companies/bitrix/articles/880530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880530)
-- [Детские ошибки при сборке Gradle-приложений](https://habr.com/ru/companies/alfa/articles/876382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876382)
-- [Backend-for-Frontend &lpar;BFF&rpar;: решение проблемы взаимодействия фронтенда и бэкенда](https://habr.com/ru/articles/880964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880964)
-- [Еxpo 52 + Tamagui. Настраиваем проект с нуля](https://habr.com/ru/articles/880960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880960)
+- [Микросервисы на пальцах: API‑Gateway, API‑Composition, KrakenD, FastAPI](https://habr.com/ru/companies/selectel/articles/881022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881022)
+- [Развитие Android глазами разработчика](https://habr.com/ru/companies/oleg-bunin/articles/879836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879836)
+- [Custom- и Generic-планы в PostgreSQL](https://habr.com/ru/companies/tbank/articles/880590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880590)
+- [TrueSql — ультимативный sql-коннектор для Java](https://habr.com/ru/articles/880830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880830)
+- [Burndown chart: как он работает и зачем IT-команде участвовать в этом процессе](https://habr.com/ru/companies/simbirsoft/articles/881006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
