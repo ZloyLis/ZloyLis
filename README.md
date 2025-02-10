@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы боролись с лишними рендерами в react](https://habr.com/ru/articles/881206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881206)
+- [Security Week 2507: вредоносный микрокод для серверных процессоров AMD](https://habr.com/ru/companies/kaspersky/articles/881172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881172)
+- [[Перевод] Автоматизация сборки и релиза Android-приложений через GitHub Actions](https://habr.com/ru/articles/881196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881196)
 - [Закономерности развития языков программирования](https://habr.com/ru/articles/881188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881188)
 - [inplace_vector: новый контейнер C++26](https://habr.com/ru/articles/880634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880634)
-- [Threshold U-Net: как мы отказались от высокого разрешения и выиграли в скорости бинаризации](https://habr.com/ru/companies/smartengines/articles/881148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881148)
-- [Леонид Канторович и его путь к Нобелевской премии](https://habr.com/ru/companies/onlinepatent/articles/881142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881142)
-- [Математики решили знаменитую «задачу о диване»](https://habr.com/ru/companies/cloud4y/articles/881132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
