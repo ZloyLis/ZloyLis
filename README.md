@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads, Engagement, и что с этим не так](https://habr.com/ru/articles/881256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881256)
+- [Apple Pro Weekly News &lpar;03.02 – 09.02.25&rpar;](https://habr.com/ru/articles/881214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881214)
 - [Как мы боролись с лишними рендерами в react](https://habr.com/ru/articles/881206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881206)
 - [Security Week 2507: вредоносный микрокод для серверных процессоров AMD](https://habr.com/ru/companies/kaspersky/articles/881172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881172)
 - [[Перевод] Автоматизация сборки и релиза Android-приложений через GitHub Actions](https://habr.com/ru/articles/881196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881196)
-- [Закономерности развития языков программирования](https://habr.com/ru/articles/881188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881188)
-- [inplace_vector: новый контейнер C++26](https://habr.com/ru/articles/880634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
