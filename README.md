@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Время собирать пакеты](https://habr.com/ru/articles/880994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880994)
+- [Интеграция Vue.js в Битрикс24: Как разработать сложный фронтенд за два месяца](https://habr.com/ru/companies/bitrix/articles/880530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880530)
 - [Детские ошибки при сборке Gradle-приложений](https://habr.com/ru/companies/alfa/articles/876382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876382)
 - [Backend-for-Frontend &lpar;BFF&rpar;: решение проблемы взаимодействия фронтенда и бэкенда](https://habr.com/ru/articles/880964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880964)
 - [Еxpo 52 + Tamagui. Настраиваем проект с нуля](https://habr.com/ru/articles/880960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880960)
-- [Автоматизируем доставку сырья на производство с помощью Camunda и SMS API](https://habr.com/ru/companies/exolve/articles/876506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876506)
-- [Мне всё равно, какой у вас код-стайл](https://habr.com/ru/companies/skbkontur/articles/879706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
