@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мне всё равно, какой у вас код-стайл](https://habr.com/ru/companies/skbkontur/articles/879706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879706)
 - [Как бесплатно разослать всем членам ТСЖ персональное сообщение о завтрашней уборке снега через WhatsApp](https://habr.com/ru/articles/876216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=876216)
-- [Ну заяц погоди! Или противоракетная оборона для самых маленьких евреев и не только. Часть 2](https://habr.com/ru/articles/880938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880938)
 - [Postgresso #1 &lpar;74&rpar;](https://habr.com/ru/companies/postgrespro/articles/869168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=869168)
 - [Game++. Juggling STL algorithms](https://habr.com/ru/articles/880918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880918)
 - [[Перевод] От ASCII к ASIC: портируем donut.c на крошечный кремниевый срез](https://habr.com/ru/articles/880920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880920)
