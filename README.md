@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Закономерности развития языков программирования](https://habr.com/ru/articles/881188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881188)
 - [inplace_vector: новый контейнер C++26](https://habr.com/ru/articles/880634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880634)
 - [Threshold U-Net: как мы отказались от высокого разрешения и выиграли в скорости бинаризации](https://habr.com/ru/companies/smartengines/articles/881148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881148)
 - [Леонид Канторович и его путь к Нобелевской премии](https://habr.com/ru/companies/onlinepatent/articles/881142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881142)
 - [Математики решили знаменитую «задачу о диване»](https://habr.com/ru/companies/cloud4y/articles/881132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881132)
-- [[Перевод] Ад — это чересчур уверенные в себе разработчики, пишущие собственную криптографию](https://habr.com/ru/companies/ruvds/articles/881090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
