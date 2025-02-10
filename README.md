@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Техподдержка, которая не подводит: как стать супергероем в мире ИТ](https://habr.com/ru/companies/sigma/articles/880472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880472)
+- [Мультибрендовая дизайн-система: как «Северсталь» идёт к унификации цифровых продуктов](https://habr.com/ru/companies/severstal/articles/881082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881082)
 - [Как планировать закупку IT-активов, чтобы не терять деньги](https://habr.com/ru/companies/simpleone/articles/881060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881060)
 - [[Перевод] Как пустой S3 бакет может вас обанкротить](https://habr.com/ru/companies/wunderfund/articles/879130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879130)
 - [Открытый банкинг в России: обязательное внедрение, стандарты и наш новый мониторинговый бот](https://habr.com/ru/articles/881042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881042)
-- [Микросервисы на пальцах: API‑Gateway, API‑Composition, KrakenD, FastAPI](https://habr.com/ru/companies/selectel/articles/881022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881022)
-- [Развитие Android глазами разработчика](https://habr.com/ru/companies/oleg-bunin/articles/879836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
