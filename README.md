@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Глубокое погружение в процедуру запуска JVM](https://habr.com/ru/companies/spring_aio/articles/881128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881128)
 - [Как команда DataGo! помогла крупному e-com проекту XCOM-SHOP связать маркетинговые доходы и расходы](https://habr.com/ru/articles/881364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881364)
 - [Как увеличить производительность и экономическую эффективность UX-исследователя? Эвристики, демонология и нейросети](https://habr.com/ru/companies/rostelecom/articles/881358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881358)
 - [Сливаем отчетность американской Cyber League с помощью базовых утилит Linux](https://habr.com/ru/companies/bastion/articles/879850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879850)
 - [Сложные «танцы» дилетанта вокруг телеграмм-бота викторины на java](https://habr.com/ru/articles/881332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881332)
-- [Итоги года вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/879594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
