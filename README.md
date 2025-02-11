@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: структуры данных и алгоритмы. Часть 8](https://habr.com/ru/companies/timeweb/articles/872326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872326)
+- [Как стать 1С-разработчиком с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/881246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881246)
 - [«Основы Dart: Community edition» 1-е издание](https://habr.com/ru/articles/865214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=865214)
 - [Как аналитик данных может работать с собственным выгоранием: собираем дата-сет, анализируем и ищем решения](https://habr.com/ru/companies/yandex_praktikum/articles/879320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879320)
 - [Как в Excel сгенерировать случайную величину произвольного распределения](https://habr.com/ru/companies/lanit/articles/879446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879446)
-- [База данных сниппетов со смысловым поиском: что «под капотом»](https://habr.com/ru/articles/881282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881282)
-- [[Перевод] Что не так с chroot: почему для контейнеров используется именно pivot_root](https://habr.com/ru/companies/flant/articles/880342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
