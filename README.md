@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как команда DataGo! помогла крупному e-com проекту XCOM-SHOP связать маркетинговые доходы и расходы](https://habr.com/ru/articles/881364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881364)
+- [Как увеличить производительность и экономическую эффективность UX-исследователя? Эвристики, демонология и нейросети](https://habr.com/ru/companies/rostelecom/articles/881358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881358)
+- [Сливаем отчетность американской Cyber League с помощью базовых утилит Linux](https://habr.com/ru/companies/bastion/articles/879850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879850)
 - [Сложные «танцы» дилетанта вокруг телеграмм-бота викторины на java](https://habr.com/ru/articles/881332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881332)
 - [Итоги года вместе с Amplicode](https://habr.com/ru/companies/haulmont/articles/879594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879594)
-- [Через тернии к Омни. Эпизод 8. Архитектура 5-го поколения](https://habr.com/ru/companies/vtb/articles/875594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875594)
-- [Использование ChatGPT o3-mini и DeepSeek при создании iOS приложения Countries “Страны Мира”](https://habr.com/ru/articles/880824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880824)
-- [JavaScript: структуры данных и алгоритмы. Часть 8](https://habr.com/ru/companies/timeweb/articles/872326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
