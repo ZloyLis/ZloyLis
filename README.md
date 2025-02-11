@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS в 2025: какие фишки теперь доступны?](https://habr.com/ru/companies/ruvds/articles/877114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877114)
-- [LocaleCompare в JavaScript: правильная и удобная сортировка строк с учетом языка](https://habr.com/ru/companies/gnivc/articles/881450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881450)
-- [Многопоточное программирование на C](https://habr.com/ru/articles/881444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881444)
-- [Трендвотчинг в дизайне интерфейсов: что это и почему так модно?](https://habr.com/ru/companies/otpbank/articles/881442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881442)
-- [Найди x: React + MobX + SSR + x = Счастье](https://habr.com/ru/articles/880720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880720)
+- [Каррируем React-компоненты: функциональные паттерны на фронтенде](https://habr.com/ru/articles/881546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881546)
+- [Склеиваем Flutter и Live Activities: Часть 1 – Android](https://habr.com/ru/articles/881494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881494)
+- [«Я вам не просто кусок Гугла». Нейросеть как полноценный партнер в обучении](https://habr.com/ru/articles/881492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881492)
+- [Телеграм-бот с ИИ Jlama: добавляем новые фичи](https://habr.com/ru/articles/881490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881490)
+- [[Перевод] Новые исследования о пределах математической истины и границах математического знания](https://habr.com/ru/articles/881474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
