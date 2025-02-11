@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS в 2025: какие фишки теперь доступны?](https://habr.com/ru/companies/ruvds/articles/877114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877114)
 - [LocaleCompare в JavaScript: правильная и удобная сортировка строк с учетом языка](https://habr.com/ru/companies/gnivc/articles/881450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881450)
 - [Многопоточное программирование на C](https://habr.com/ru/articles/881444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881444)
 - [Трендвотчинг в дизайне интерфейсов: что это и почему так модно?](https://habr.com/ru/companies/otpbank/articles/881442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881442)
 - [Найди x: React + MobX + SSR + x = Счастье](https://habr.com/ru/articles/880720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880720)
-- [Правильная отрисовка выделения текста в QTextDocument: использование QAbstractTextDocumentLayout::PaintContext](https://habr.com/ru/articles/881400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
