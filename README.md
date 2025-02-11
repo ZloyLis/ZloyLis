@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LocaleCompare в JavaScript: правильная и удобная сортировка строк с учетом языка](https://habr.com/ru/companies/gnivc/articles/881450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881450)
+- [Многопоточное программирование на C](https://habr.com/ru/articles/881444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881444)
+- [Трендвотчинг в дизайне интерфейсов: что это и почему так модно?](https://habr.com/ru/companies/otpbank/articles/881442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881442)
 - [Найди x: React + MobX + SSR + x = Счастье](https://habr.com/ru/articles/880720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880720)
 - [Правильная отрисовка выделения текста в QTextDocument: использование QAbstractTextDocumentLayout::PaintContext](https://habr.com/ru/articles/881400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881400)
-- [[Перевод] Глубокое погружение в процедуру запуска JVM](https://habr.com/ru/companies/spring_aio/articles/881128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881128)
-- [Как команда DataGo! помогла крупному e-com проекту XCOM-SHOP связать маркетинговые доходы и расходы](https://habr.com/ru/articles/881364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881364)
-- [Как увеличить производительность и экономическую эффективность UX-исследователя? Эвристики, демонология и нейросети](https://habr.com/ru/companies/rostelecom/articles/881358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
