@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrum-то какой! За что критикуют спринты](https://habr.com/ru/companies/beeline_cloud/articles/881848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881848)
 - [Прежде чем выбирать язык программирования, необходимо изучить SQL](https://habr.com/ru/articles/881896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881896)
 - [Да кто такой этот ваш Security BP?](https://habr.com/ru/companies/avito/articles/881654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881654)
 - [Давайте писать удобное локальное окружение…](https://habr.com/ru/articles/881882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881882)
 - [Введение в OpenAPI: ёмко и полезно о важном](https://habr.com/ru/companies/docdoc/articles/880476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880476)
-- [Flutter: Создание расширения «Получение ссылок для онлайн-кинотеатров» для Chrome](https://habr.com/ru/articles/881836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
