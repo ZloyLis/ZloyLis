@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Junie – новый AI-агент от JetBrains. Junior разработчики больше не нужны](https://habr.com/ru/companies/spring_aio/articles/881288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881288)
+- [Три стадии enterprise архитектуры](https://habr.com/ru/articles/881778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881778)
+- [Распределённая сборка Unreal Engine проектов с помощью Horde и UBA](https://habr.com/ru/companies/pvs-studio/articles/881772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881772)
+- [[Перевод] Интерактивный тур по Go 1.24](https://habr.com/ru/companies/otus/articles/881708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881708)
 - [Рабочий кейс из жизни специалиста по управлению уязвимостями «Vulnerability management»](https://habr.com/ru/articles/881748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881748)
-- [Видишь суслика? А он есть! Как главная страница Яндекса переезжала на Go](https://habr.com/ru/companies/yandex/articles/871868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871868)
-- [[Перевод] Спинлок в современном C++ с применением атомиков, барьеров памяти и экспоненциальной выдержкой](https://habr.com/ru/companies/piter/articles/880468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880468)
-- [Продвинутое использование фикстур Playwright](https://habr.com/ru/companies/tbank/articles/881646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881646)
-- [Все, что нужно для создания приложений с LLM: обзор возможностей LangChain](https://habr.com/ru/articles/881690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
