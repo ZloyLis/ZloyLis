@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Честно говорю про минусы работы в айти, о которых молчат](https://habr.com/ru/articles/881830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881830)
+- [[Перевод] Ни одна реализация элементарных функций не соответствует стандарту IEEE 754](https://habr.com/ru/companies/ruvds/articles/881698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881698)
 - [Топ бесплатных API для личного и корпоративного пользования](https://habr.com/ru/articles/881814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881814)
 - [Реквием по креативу: как в современном мире подменяется понятие творческой деятельности](https://habr.com/ru/companies/ru_mts/articles/881138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881138)
 - [Где я учился, чтобы перейти в it сферу и преуспеть](https://habr.com/ru/articles/881762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881762)
-- [Embox дает &lpar;RISC&rpar;-пять на платформе VOSTOK](https://habr.com/ru/articles/881784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881784)
-- [Прокси-роутер из старого смартфона](https://habr.com/ru/articles/881794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
