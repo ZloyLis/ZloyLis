@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рабочий кейс из жизни специалиста по управлению уязвимостями «Vulnerability management»](https://habr.com/ru/articles/881748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881748)
 - [Видишь суслика? А он есть! Как главная страница Яндекса переезжала на Go](https://habr.com/ru/companies/yandex/articles/871868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871868)
 - [[Перевод] Спинлок в современном C++ с применением атомиков, барьеров памяти и экспоненциальной выдержкой](https://habr.com/ru/companies/piter/articles/880468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880468)
 - [Продвинутое использование фикстур Playwright](https://habr.com/ru/companies/tbank/articles/881646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881646)
 - [Все, что нужно для создания приложений с LLM: обзор возможностей LangChain](https://habr.com/ru/articles/881690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881690)
-- [Если бы Рамзи готовил диаграммы: рецепт идеального инструмента визуализации](https://habr.com/ru/companies/t2/articles/881684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
