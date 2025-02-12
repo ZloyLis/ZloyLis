@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Kubernetes платформа Gitorion. Canary-релизы](https://habr.com/ru/companies/gitorion/articles/879434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879434)
+- [Используй MFA, Люк: как второй фактор помогает защитить подключения](https://habr.com/ru/specials/881352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881352)
+- [Msgspec vs DataClasses: битва инструментов в мире Python-сериализации](https://habr.com/ru/companies/ru_mts/articles/881514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881514)
+- [Как исправлять ошибки в Git, не оставляя улик](https://habr.com/ru/articles/881614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881614)
 - [О iOS дизайн системе за 5 мин](https://habr.com/ru/articles/881612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881612)
-- [Фракталы и бесконечность: 50 лет открытию Бенуа Мандельброта](https://habr.com/ru/companies/ddosguard/articles/881360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881360)
-- [DEVops: Разрабатываем свой Kubernetes оператор с кастомными ресурсами на Go](https://habr.com/ru/articles/866766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866766)
-- [Откуда взялась хвостовая рекурсия и когда ожидается ее реализации в новом стандарте языка Си. Рекурсия VS Iteration](https://habr.com/ru/articles/881276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881276)
-- [Гравитация – это иллюзия? Скрытые силы в действии](https://habr.com/ru/articles/881582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
