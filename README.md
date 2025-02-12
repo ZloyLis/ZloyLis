@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Откуда взялась хвостовая рекурсия и когда ожидается ее реализации в новом стандарте языка Си. Рекурсия VS Iteration](https://habr.com/ru/articles/881276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881276)
 - [Гравитация – это иллюзия? Скрытые силы в действии](https://habr.com/ru/articles/881582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881582)
 - [Каррируем React-компоненты: функциональные паттерны на фронтенде](https://habr.com/ru/articles/881546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881546)
 - [Склеиваем Flutter и Live Activities: Часть 1 – Android](https://habr.com/ru/articles/881494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881494)
 - [«Я вам не просто кусок Гугла». Нейросеть как полноценный партнер в обучении](https://habr.com/ru/articles/881492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881492)
-- [Телеграм-бот с ИИ Jlama: добавляем новые фичи](https://habr.com/ru/articles/881490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
