@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Да кто такой этот ваш Security BP?](https://habr.com/ru/companies/avito/articles/881654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881654)
+- [Давайте писать удобное локальное окружение…](https://habr.com/ru/articles/881882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881882)
+- [Введение в OpenAPI: ёмко и полезно о важном](https://habr.com/ru/companies/docdoc/articles/880476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880476)
 - [Flutter: Создание расширения «Получение ссылок для онлайн-кинотеатров» для Chrome](https://habr.com/ru/articles/881836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881836)
 - [Честно говорю про минусы работы в айти, о которых молчат](https://habr.com/ru/articles/881830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881830)
-- [[Перевод] Ни одна реализация элементарных функций не соответствует стандарту IEEE 754](https://habr.com/ru/companies/ruvds/articles/881698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881698)
-- [Топ бесплатных API для личного и корпоративного пользования](https://habr.com/ru/articles/881814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881814)
-- [Реквием по креативу: как в современном мире подменяется понятие творческой деятельности](https://habr.com/ru/companies/ru_mts/articles/881138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
