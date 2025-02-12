@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Попытка написать свою реализацию встроенных хуков состояния в React + создание простого стейт менеджера](https://habr.com/ru/articles/881668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881668)
+- [Почему многокластерные решения становятся стандартом, и как в этом замешаны IT-гиганты](https://habr.com/ru/companies/selectel/articles/877436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877436)
 - [CI/CD Kubernetes платформа Gitorion. Canary-релизы](https://habr.com/ru/companies/gitorion/articles/879434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879434)
 - [Используй MFA, Люк: как второй фактор помогает защитить подключения](https://habr.com/ru/specials/881352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881352)
 - [Msgspec vs DataClasses: битва инструментов в мире Python-сериализации](https://habr.com/ru/companies/ru_mts/articles/881514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881514)
-- [Как исправлять ошибки в Git, не оставляя улик](https://habr.com/ru/articles/881614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881614)
-- [О iOS дизайн системе за 5 мин](https://habr.com/ru/articles/881612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
