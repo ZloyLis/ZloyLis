@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Попытка написать свою реализацию встроенных хуков состояния в React + создание простого стейт менеджера](https://habr.com/ru/articles/881668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881668)
-- [Почему многокластерные решения становятся стандартом, и как в этом замешаны IT-гиганты](https://habr.com/ru/companies/selectel/articles/877436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877436)
-- [CI/CD Kubernetes платформа Gitorion. Canary-релизы](https://habr.com/ru/companies/gitorion/articles/879434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879434)
-- [Используй MFA, Люк: как второй фактор помогает защитить подключения](https://habr.com/ru/specials/881352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881352)
-- [Msgspec vs DataClasses: битва инструментов в мире Python-сериализации](https://habr.com/ru/companies/ru_mts/articles/881514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881514)
+- [Видишь суслика? А он есть! Как главная страница Яндекса переезжала на Go](https://habr.com/ru/companies/yandex/articles/871868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=871868)
+- [[Перевод] Спинлок в современном C++ с применением атомиков, барьеров памяти и экспоненциальной выдержкой](https://habr.com/ru/companies/piter/articles/880468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880468)
+- [Продвинутое использование фикстур Playwright](https://habr.com/ru/companies/tbank/articles/881646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881646)
+- [Все, что нужно для создания приложений с LLM: обзор возможностей LangChain](https://habr.com/ru/articles/881690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881690)
+- [Если бы Рамзи готовил диаграммы: рецепт идеального инструмента визуализации](https://habr.com/ru/companies/t2/articles/881684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
