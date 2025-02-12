@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Junie – новый AI-агент от JetBrains. Junior разработчики больше не нужны](https://habr.com/ru/companies/spring_aio/articles/881288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881288)
-- [Три стадии enterprise архитектуры](https://habr.com/ru/articles/881778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881778)
-- [Распределённая сборка Unreal Engine проектов с помощью Horde и UBA](https://habr.com/ru/companies/pvs-studio/articles/881772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881772)
-- [[Перевод] Интерактивный тур по Go 1.24](https://habr.com/ru/companies/otus/articles/881708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881708)
-- [Рабочий кейс из жизни специалиста по управлению уязвимостями «Vulnerability management»](https://habr.com/ru/articles/881748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881748)
+- [Топ бесплатных API для личного и корпоративного пользования](https://habr.com/ru/articles/881814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881814)
+- [Реквием по креативу: как в современном мире подменяется понятие творческой деятельности](https://habr.com/ru/companies/ru_mts/articles/881138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881138)
+- [Где я учился, чтобы перейти в it сферу и преуспеть](https://habr.com/ru/articles/881762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881762)
+- [Embox дает &lpar;RISC&rpar;-пять на платформе VOSTOK](https://habr.com/ru/articles/881784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881784)
+- [Прокси-роутер из старого смартфона](https://habr.com/ru/articles/881794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
