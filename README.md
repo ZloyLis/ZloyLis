@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитика мобильных приложений на Flutter. Часть 2. Подключение Firebase Analytics](https://habr.com/ru/articles/882274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882274)
+- [Разбираем байты постквантовой ML-KEM на примере «браузерного» TLS](https://habr.com/ru/articles/882282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882282)
 - [ChatGPT решает гробы с экзаменов в ШАД](https://habr.com/ru/articles/881858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881858)
 - [Несудьба, интегрально-ролевая система](https://habr.com/ru/articles/882258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882258)
 - [У меня 4 фулл-тайм работы в разных странах, а я работаю по 7 часов в день](https://habr.com/ru/articles/882234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882234)
-- [Параллелизм в Go тестах: все, что нужно знать о -p, -parallel и t.Parallel&lpar;&rpar;](https://habr.com/ru/articles/882222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882222)
-- [[Перевод] Секреты JVM: что происходит с ошибками под капотом](https://habr.com/ru/companies/spring_aio/articles/882196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
