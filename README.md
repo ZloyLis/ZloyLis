@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоскейлинг до нуля, отказоустойчивые кластеры и мощные GPU: что нового в январе](https://habr.com/ru/companies/selectel/articles/882150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882150)
+- [Взгляд на JWT как на инструмент построения стройной архитектуры приложения](https://habr.com/ru/articles/882152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882152)
+- [MongoDB: магия вне Хогвартса в IT](https://habr.com/ru/companies/sportmaster_lab/articles/881644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881644)
 - [Spring JPA и OOM: 5 способов спастись от кэш-ловушки Hibernate](https://habr.com/ru/articles/882132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882132)
 - [Устраняем эффект шумного соседа в PostgreSQL с помощью cgroups](https://habr.com/ru/companies/postgrespro/articles/878844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878844)
-- [Через тернии к рок-звездам: рассказываем, как прошел Java Rock Stars Meetup](https://habr.com/ru/companies/axiomjdk/articles/882116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882116)
-- [Автоматизация взаимодействия с регулятором: как мы интегрировали SOAR и АСОИ ФинЦЕРТ](https://habr.com/ru/companies/rvision/articles/879764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879764)
-- [Тайны рейтингов: как добиться стабильно высокого рейтинга Android-приложения?](https://habr.com/ru/companies/domclick/articles/879364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
