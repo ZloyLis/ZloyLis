@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Новый формат собеседований в Яндекс](https://habr.com/ru/articles/882030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882030)
-- [Как ускорить Maven сборку без переезда на Gradle](https://habr.com/ru/articles/881620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881620)
-- [[Перевод] Избавляемся от UB в memcpy](https://habr.com/ru/articles/866088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=866088)
-- [[Перевод] CSS Custom Functions уже на подходе…](https://habr.com/ru/articles/882006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882006)
-- [Дирижируем зависимостями: Оркестрация Koin scopes в Jetpack Compose Navigation](https://habr.com/ru/articles/881982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881982)
+- [Как организовать продуктовый хакатон: онлайн, оффлайн и гибрид — советы компаниям](https://habr.com/ru/articles/881954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881954)
+- [Тестируем Kubernetes. Vol 2 / Golang edition](https://habr.com/ru/companies/selectel/articles/882026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882026)
+- [Ключевое из handbook Duolingo](https://habr.com/ru/articles/882064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882064)
+- [Рынок труда ML-специалистов в 2025 году: востребованные навыки и карьерные треки](https://habr.com/ru/articles/882040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882040)
+- [Обзор новинок по теме Flutter за неделю](https://habr.com/ru/articles/882038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
