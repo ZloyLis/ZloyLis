@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Текстовая обработка в PostgreSQL: grep, sed, awk](https://habr.com/ru/companies/otus/articles/881556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881556)
+- [Миграция PostgreSQL под ОС AstraLinux c использованием pgcopydb с PG11 на PG15](https://habr.com/ru/articles/882192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882192)
 - [Аналитика мобильных приложений на Flutter. Часть 2. Подключение Firebase Analytics](https://habr.com/ru/articles/882274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882274)
 - [Разбираем байты постквантовой ML-KEM на примере «браузерного» TLS](https://habr.com/ru/articles/882282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882282)
 - [ChatGPT решает гробы с экзаменов в ШАД](https://habr.com/ru/articles/881858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881858)
-- [Несудьба, интегрально-ролевая система](https://habr.com/ru/articles/882258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882258)
-- [У меня 4 фулл-тайм работы в разных странах, а я работаю по 7 часов в день](https://habr.com/ru/articles/882234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
