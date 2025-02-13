@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как организовать продуктовый хакатон: онлайн, оффлайн и гибрид — советы компаниям](https://habr.com/ru/articles/881954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881954)
-- [Тестируем Kubernetes. Vol 2 / Golang edition](https://habr.com/ru/companies/selectel/articles/882026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882026)
-- [Ключевое из handbook Duolingo](https://habr.com/ru/articles/882064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882064)
-- [Рынок труда ML-специалистов в 2025 году: востребованные навыки и карьерные треки](https://habr.com/ru/articles/882040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882040)
-- [Обзор новинок по теме Flutter за неделю](https://habr.com/ru/articles/882038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882038)
+- [Хеш-индексы в PostgreSQL: быстрый поиск или скрытые проблемы?](https://habr.com/ru/articles/882106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882106)
+- [Как протестировать производительность СУБД перед миграцией: опыт K2Тех](https://habr.com/ru/companies/k2tech/articles/882098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882098)
+- [[Перевод] Математики решили знаменитую «проблему о перестановке дивана»](https://habr.com/ru/articles/881980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881980)
+- [Обычная практика Threat Hunting и причем тут пирамида боли](https://habr.com/ru/companies/vk/articles/881688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881688)
+- [SAST приложений под Android: делаем код безопаснее](https://habr.com/ru/companies/otus/articles/881110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
