@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хеш-индексы в PostgreSQL: быстрый поиск или скрытые проблемы?](https://habr.com/ru/articles/882106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882106)
-- [Как протестировать производительность СУБД перед миграцией: опыт K2Тех](https://habr.com/ru/companies/k2tech/articles/882098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882098)
-- [[Перевод] Математики решили знаменитую «проблему о перестановке дивана»](https://habr.com/ru/articles/881980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881980)
-- [Обычная практика Threat Hunting и причем тут пирамида боли](https://habr.com/ru/companies/vk/articles/881688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881688)
-- [SAST приложений под Android: делаем код безопаснее](https://habr.com/ru/companies/otus/articles/881110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881110)
+- [Spring JPA и OOM: 5 способов спастись от кэш-ловушки Hibernate](https://habr.com/ru/articles/882132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882132)
+- [Устраняем эффект шумного соседа в PostgreSQL с помощью cgroups](https://habr.com/ru/companies/postgrespro/articles/878844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878844)
+- [Через тернии к рок-звездам: рассказываем, как прошел Java Rock Stars Meetup](https://habr.com/ru/companies/axiomjdk/articles/882116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882116)
+- [Автоматизация взаимодействия с регулятором: как мы интегрировали SOAR и АСОИ ФинЦЕРТ](https://habr.com/ru/companies/rvision/articles/879764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879764)
+- [Тайны рейтингов: как добиться стабильно высокого рейтинга Android-приложения?](https://habr.com/ru/companies/domclick/articles/879364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
