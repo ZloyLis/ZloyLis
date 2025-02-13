@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] CSS Custom Functions уже на подходе…](https://habr.com/ru/articles/882006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882006)
 - [Дирижируем зависимостями: Оркестрация Koin scopes в Jetpack Compose Navigation](https://habr.com/ru/articles/881982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881982)
 - [А где память? Утечка goroutine и как ее пофиксить](https://habr.com/ru/articles/881978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881978)
 - [Scrum-то какой! За что критикуют спринты](https://habr.com/ru/companies/beeline_cloud/articles/881848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881848)
 - [Прежде чем выбирать язык программирования, необходимо изучить SQL](https://habr.com/ru/articles/881896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881896)
-- [Да кто такой этот ваш Security BP?](https://habr.com/ru/companies/avito/articles/881654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
