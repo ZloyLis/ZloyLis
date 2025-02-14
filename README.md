@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как теорема Нётер произвела революцию в физике](https://habr.com/ru/articles/882648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882648)
+- [Tuna — от аналога ngrok, к собственной платформе](https://habr.com/ru/companies/tuna/articles/881774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881774)
 - [Three.js с нуля на практике: как за несколько часов создать аркадную 3D-игру. Часть 1](https://habr.com/ru/companies/kts/articles/882078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882078)
 - [Поддержка webextensions под Андроид](https://habr.com/ru/articles/882640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882640)
 - [PAL видеоадаптер на FPGA с буфером кадра](https://habr.com/ru/articles/882626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882626)
-- [10 вещей, которые я хотела бы знать ДО создания UI-кита](https://habr.com/ru/articles/882622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882622)
-- [Интерпретатор PL/SQL. Добавление в PostgreSQL нового языка программирования](https://habr.com/ru/articles/882596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
