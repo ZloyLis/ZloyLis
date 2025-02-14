@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Декораторы для подрастающих &lpar;Python&rpar;](https://habr.com/ru/articles/882732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882732)
 - [Чем Kubernetes лучше Docker Swarm](https://habr.com/ru/articles/881792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881792)
 - [Как мы прошли бюрократический ад, чтобы разработать нейросеть на заводе: сложности при создании ИИ на производстве](https://habr.com/ru/articles/880186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880186)
 - [Моделирование управления AC двигателя — Field oriented control of PMSM с помощью opensource решений](https://habr.com/ru/articles/882696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882696)
 - [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 2: проблемы проекта и их решения](https://habr.com/ru/companies/spring_aio/articles/882690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882690)
-- [«В ногу со временем»: разбор развития трендов и подходов QA](https://habr.com/ru/companies/vk/articles/882582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
