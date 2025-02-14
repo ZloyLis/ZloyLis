@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нормальным, вроде, UX&#39;ом об интеграцию](https://habr.com/ru/articles/882480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882480)
+- [На самом деле я айтишник, а доставка — это для души](https://habr.com/ru/companies/automacon/articles/882212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882212)
+- [А посчитать? Задачка для тех, кто влюблен в математику](https://habr.com/ru/companies/ru_mts/articles/882466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882466)
 - [Куда развиваться системному аналитику](https://habr.com/ru/companies/maxilect/articles/882446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882446)
 - [PROWAY и РосНОУ заключили соглашение о сотрудничестве и взаимодействии](https://habr.com/ru/articles/882442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882442)
-- [Как вовремя менять цены при росте курса доллара](https://habr.com/ru/companies/exolve/articles/882428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882428)
-- [JPackage в gradle для Java17](https://habr.com/ru/companies/axenix/articles/881656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881656)
-- [[Перевод] Как собрать Linux-контейнер с нуля и без Docker](https://habr.com/ru/companies/flant/articles/880354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
