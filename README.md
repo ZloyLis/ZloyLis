@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бэкенд sCRUDge McDuck’а](https://habr.com/ru/articles/882412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882412)
 - [Как научить модель рассуждать, не переобучая её, меньше чем за 10$](https://habr.com/ru/articles/882362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882362)
 - [Декораторы для самых маленьких &lpar;Python&rpar;](https://habr.com/ru/articles/882340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882340)
 - [Текстовая обработка в PostgreSQL: grep, sed, awk](https://habr.com/ru/companies/otus/articles/881556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881556)
 - [Миграция PostgreSQL под ОС AstraLinux c использованием pgcopydb с PG11 на PG15](https://habr.com/ru/articles/882192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882192)
-- [Аналитика мобильных приложений на Flutter. Часть 2. Подключение Firebase Analytics](https://habr.com/ru/articles/882274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
