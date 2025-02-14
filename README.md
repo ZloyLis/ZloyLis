@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Three.js с нуля на практике: как за несколько часов создать аркадную 3D-игру. Часть 1](https://habr.com/ru/companies/kts/articles/882078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882078)
+- [Поддержка webextensions под Андроид](https://habr.com/ru/articles/882640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882640)
 - [PAL видеоадаптер на FPGA с буфером кадра](https://habr.com/ru/articles/882626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882626)
 - [10 вещей, которые я хотела бы знать ДО создания UI-кита](https://habr.com/ru/articles/882622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882622)
 - [Интерпретатор PL/SQL. Добавление в PostgreSQL нового языка программирования](https://habr.com/ru/articles/882596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882596)
-- [EDA of dataset Python](https://habr.com/ru/articles/882588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882588)
-- [PostgreSQL 18: Часть 3 или Коммитфест 2024-11](https://habr.com/ru/companies/postgrespro/articles/882578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
