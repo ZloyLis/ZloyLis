@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксплуатация Stateful-приложений в Kubernetes на примере баз данных в Авито](https://habr.com/ru/companies/avito/articles/881728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881728)
+- [Service Mesh глазами бэкендера: умный дирижёр микросервисного оркестра](https://habr.com/ru/companies/oleg-bunin/articles/880394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880394)
+- [Такие разные Slivers. Часть 4: гибкое управление элементами](https://habr.com/ru/articles/882260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882260)
+- [Разработка графических интерфейсов с использованием facefull для нативных приложений под ОС Нейтрино](https://habr.com/ru/companies/swd_es/articles/875326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875326)
 - [Нормальным, вроде, UX&#39;ом об интеграцию](https://habr.com/ru/articles/882480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882480)
-- [На самом деле я айтишник, а доставка — это для души](https://habr.com/ru/companies/automacon/articles/882212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882212)
-- [А посчитать? Задачка для тех, кто влюблен в математику](https://habr.com/ru/companies/ru_mts/articles/882466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882466)
-- [Куда развиваться системному аналитику](https://habr.com/ru/companies/maxilect/articles/882446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882446)
-- [PROWAY и РосНОУ заключили соглашение о сотрудничестве и взаимодействии](https://habr.com/ru/articles/882442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
