@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моделирование управления AC двигателя — Field oriented control of PMSM с помощью opensource решений](https://habr.com/ru/articles/882696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882696)
+- [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 2: проблемы проекта и их решения](https://habr.com/ru/companies/spring_aio/articles/882690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882690)
+- [«В ногу со временем»: разбор развития трендов и подходов QA](https://habr.com/ru/companies/odnoklassniki/articles/882582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882582)
 - [[Перевод] Как теорема Нётер произвела революцию в физике](https://habr.com/ru/articles/882648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882648)
 - [Tuna — от аналога ngrok, к собственной платформе](https://habr.com/ru/companies/tuna/articles/881774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881774)
-- [Three.js с нуля на практике: как за несколько часов создать аркадную 3D-игру. Часть 1](https://habr.com/ru/companies/kts/articles/882078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882078)
-- [Поддержка webextensions под Андроид](https://habr.com/ru/articles/882640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882640)
-- [PAL видеоадаптер на FPGA с буфером кадра](https://habr.com/ru/articles/882626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
