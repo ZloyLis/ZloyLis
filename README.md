@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Куда развиваться системному аналитику](https://habr.com/ru/companies/maxilect/articles/882446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882446)
+- [PROWAY и РосНОУ заключили соглашение о сотрудничестве и взаимодействии](https://habr.com/ru/articles/882442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882442)
 - [Как вовремя менять цены при росте курса доллара](https://habr.com/ru/companies/exolve/articles/882428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882428)
 - [JPackage в gradle для Java17](https://habr.com/ru/companies/axenix/articles/881656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881656)
 - [[Перевод] Как собрать Linux-контейнер с нуля и без Docker](https://habr.com/ru/companies/flant/articles/880354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880354)
-- [Бэкенд sCRUDge McDuck’а](https://habr.com/ru/articles/882412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882412)
-- [Как научить модель рассуждать, не переобучая её, меньше чем за 10$](https://habr.com/ru/articles/882362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
