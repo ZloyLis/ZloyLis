@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PAL видеоадаптер на FPGA с буфером кадра](https://habr.com/ru/articles/882626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882626)
+- [10 вещей, которые я хотела бы знать ДО создания UI-кита](https://habr.com/ru/articles/882622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882622)
+- [Интерпретатор PL/SQL. Добавление в PostgreSQL нового языка программирования](https://habr.com/ru/articles/882596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882596)
+- [EDA of dataset Python](https://habr.com/ru/articles/882588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882588)
 - [PostgreSQL 18: Часть 3 или Коммитфест 2024-11](https://habr.com/ru/companies/postgrespro/articles/882578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882578)
-- [RL RecSys в проде: хайп или игра вдолгую](https://habr.com/ru/companies/tbank/articles/882478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882478)
-- [7 хаков HTML: нестандартные решения в истории гипертекстовой разметки](https://habr.com/ru/companies/runity/articles/882574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882574)
-- [РЕД СОФТ стал партнером турнира среди школьников по ИТ-дисциплинам на чемпионате «Мастерята»](https://habr.com/ru/articles/882538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882538)
-- [Эксплуатация Stateful-приложений в Kubernetes на примере баз данных в Авито](https://habr.com/ru/companies/avito/articles/881728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
