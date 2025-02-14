@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [РЕД СОФТ стал партнером турнира среди школьников по ИТ-дисциплинам на чемпионате «Мастерята»](https://habr.com/ru/articles/882538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882538)
 - [Эксплуатация Stateful-приложений в Kubernetes на примере баз данных в Авито](https://habr.com/ru/companies/avito/articles/881728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881728)
 - [Service Mesh глазами бэкендера: умный дирижёр микросервисного оркестра](https://habr.com/ru/companies/oleg-bunin/articles/880394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880394)
 - [Такие разные Slivers. Часть 4: гибкое управление элементами](https://habr.com/ru/articles/882260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882260)
 - [Разработка графических интерфейсов с использованием facefull для нативных приложений под ОС Нейтрино](https://habr.com/ru/companies/swd_es/articles/875326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875326)
-- [Нормальным, вроде, UX&#39;ом об интеграцию](https://habr.com/ru/articles/882480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
