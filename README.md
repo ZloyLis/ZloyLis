@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Курсы или самоучка?](https://habr.com/ru/articles/882848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882848)
 - [Ordered map на Go](https://habr.com/ru/articles/882828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882828)
 - [Основы криптоанализа шифра простой перестановки](https://habr.com/ru/articles/881580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881580)
 - [Моем Код с Мылом](https://habr.com/ru/articles/882794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882794)
 - [Через тернии к Омни. Эпизод 10. Последний ингредиент](https://habr.com/ru/companies/vtb/articles/875648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875648)
-- [Мой Maven plugin для IDEA часть 2. Перезагрузка или импорт проектов в IDEA без ошибок](https://habr.com/ru/articles/882778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
