@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой Maven plugin для IDEA часть 2. Перезагрузка или импорт проектов в IDEA без ошибок](https://habr.com/ru/articles/882778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882778)
+- [Как не платить 199 рублей/неделю за hh Pro, и при этом найти работу джуну без проблем и откликов — Java выручит](https://habr.com/ru/articles/882786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882786)
 - [Транспортный уровень: TCP И UDP](https://habr.com/ru/articles/878534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=878534)
 - [Введение в WebSocket и Socket.IO](https://habr.com/ru/articles/882672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882672)
 - [Чем Kubernetes лучше Docker Swarm](https://habr.com/ru/articles/881792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881792)
-- [Как мы прошли бюрократический ад, чтобы разработать нейросеть на заводе: сложности при создании ИИ на производстве](https://habr.com/ru/articles/880186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880186)
-- [Моделирование управления AC двигателя — Field oriented control of PMSM с помощью opensource решений](https://habr.com/ru/articles/882696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
