@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Параллельные сортировки больших массивов объектов и пути уменьшения асимптотической сложности лучших алгоритмов](https://habr.com/ru/articles/882802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882802)
 - [Кредо программиста &lpar;в приложении к стилю кодирования&rpar;](https://habr.com/ru/articles/882862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882862)
 - [Бот для проверки орфографии и пунктуации через GPT-4o на Python](https://habr.com/ru/companies/amvera/articles/882728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882728)
 - [Ранняя изоляция компонент vs Прагматизм: Когда жёсткие границы компонент убивают гибкость и скорость разработки](https://habr.com/ru/articles/882826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882826)
-- [Курсы или самоучка?](https://habr.com/ru/articles/882848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882848)
-- [Ordered map на Go](https://habr.com/ru/articles/882828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882828)
+- [Курсы или самообразование: как выбрать путь в продуктовом дизайне?](https://habr.com/ru/articles/882848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
