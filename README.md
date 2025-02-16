@@ -38,8 +38,8 @@ ___
 - [Программирование: что это, зачем сюда идти и к чему быть готовым?](https://habr.com/ru/articles/883034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883034)
 - [Смогу ли я уложить оптимизирующий компилятор в тысячу строк питона? Прогон первый: mem2reg](https://habr.com/ru/articles/881192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881192)
 - [[Перевод] Величайшая история разработки приложения-калькулятора: как Google создал почти идеальный инструмент](https://habr.com/ru/articles/883028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883028)
-- [Нетология: честный обзор, отзывы, история](https://habr.com/ru/articles/883018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883018)
 - [Автомодерация изображений: как исправлять нарушения, сохраняя количество и качество контента](https://habr.com/ru/companies/avito/articles/882572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882572)
+- [Мобильная разработка за неделю #575 &lpar;10 — 16 февраля&rpar;](https://habr.com/ru/articles/883014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
