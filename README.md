@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [3 способа продвижения пет-проектов &lpar;почти&rpar; без бюджета на конкретных примерах](https://habr.com/ru/articles/882734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882734)
 - [Тестовые джуна &lpar;Android&rpar;](https://habr.com/ru/articles/882984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882984)
 - [Манифест аналитика](https://habr.com/ru/articles/882966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882966)
 - [[Перевод] Упакуйте свой код правильно](https://habr.com/ru/articles/882964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882964)
 - [[Перевод] Пишем простой драйвер на Rust](https://habr.com/ru/companies/ruvds/articles/882474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882474)
-- [Телеграм-бот для бронирования столов на вебхуках: FastAPI, Aiogram Dialog, FastStream и RabbitMQ в единой экосистеме](https://habr.com/ru/companies/amvera/articles/882878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
