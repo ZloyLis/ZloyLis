@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Манифест аналитика](https://habr.com/ru/articles/882966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882966)
+- [[Перевод] Упакуйте свой код правильно](https://habr.com/ru/articles/882964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882964)
+- [[Перевод] Пишем простой драйвер на Rust](https://habr.com/ru/companies/ruvds/articles/882474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882474)
 - [Телеграм-бот для бронирования столов на вебхуках: FastAPI, Aiogram Dialog, FastStream и RabbitMQ в единой экосистеме](https://habr.com/ru/companies/amvera/articles/882878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882878)
 - [ГОСТ по ИБ: как разрабатываются стандарты в области защиты информации](https://habr.com/ru/articles/882932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882932)
-- [Параллельные сортировки больших массивов объектов и пути уменьшения асимптотической сложности лучших алгоритмов](https://habr.com/ru/articles/882802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882802)
-- [Кредо программиста &lpar;в приложении к стилю кодирования&rpar;](https://habr.com/ru/articles/882862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882862)
-- [Бот для проверки орфографии и пунктуации через GPT-4o на Python](https://habr.com/ru/companies/amvera/articles/882728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
