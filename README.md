@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #575 &lpar;10 — 16 февраля&rpar;](https://habr.com/ru/articles/883014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883014)
 - [3 способа продвижения пет-проектов &lpar;почти&rpar; без бюджета на конкретных примерах](https://habr.com/ru/articles/882734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882734)
 - [Тестовые джуна &lpar;Android&rpar;](https://habr.com/ru/articles/882984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882984)
 - [Манифест аналитика](https://habr.com/ru/articles/882966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882966)
 - [[Перевод] Упакуйте свой код правильно](https://habr.com/ru/articles/882964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882964)
-- [[Перевод] Пишем простой драйвер на Rust](https://habr.com/ru/companies/ruvds/articles/882474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
