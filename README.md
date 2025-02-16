@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нетология: честный обзор, отзывы, история](https://habr.com/ru/articles/883018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883018)
 - [Автомодерация изображений: как исправлять нарушения, сохраняя количество и качество контента](https://habr.com/ru/companies/avito/articles/882572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882572)
 - [Мобильная разработка за неделю #575 &lpar;10 — 16 февраля&rpar;](https://habr.com/ru/articles/883014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883014)
 - [3 способа продвижения пет-проектов &lpar;почти&rpar; без бюджета на конкретных примерах](https://habr.com/ru/articles/882734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882734)
 - [Тестовые джуна &lpar;Android&rpar;](https://habr.com/ru/articles/882984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882984)
-- [Манифест аналитика](https://habr.com/ru/articles/882966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
