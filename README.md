@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор Kotlin Flow](https://habr.com/ru/companies/otus/articles/882736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882736)
+- [[Перевод] Могут ли LLM писать более качественный код, если их об этом просто попросить?](https://habr.com/ru/companies/ruvds/articles/883140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883140)
+- [DDoS-атаки становятся активнее? Аналитика за второе полугодие 2024 года](https://habr.com/ru/companies/selectel/articles/883246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883246)
 - [Неубиваемый PHP: почему в 2025 году этот язык все еще остается одним из самых востребованных](https://habr.com/ru/companies/itquick/articles/883236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883236)
 - [Как за 15 минут превратить таблицы БД в JPA-сущности &lpar;и не облажаться&rpar;](https://habr.com/ru/companies/haulmont/articles/875934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875934)
-- [Сгенерировать 100 млн случайных строк менее чем за минуту](https://habr.com/ru/companies/alfa/articles/883226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883226)
-- [Реверс-инжиниринг 128-битного дракона](https://habr.com/ru/articles/881264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881264)
-- [Ошибки в нагрузочном тестировании](https://habr.com/ru/companies/tbank/articles/883166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
