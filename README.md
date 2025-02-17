@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Контрабанда данных внутри эмодзи](https://habr.com/ru/articles/883342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883342)
 - [Нобелевский лауреат Леонид Канторович и его вклад в IT](https://habr.com/ru/companies/onlinepatent/articles/883314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883314)
 - [Анализ рынка ИТ-Специалистов в России: пузырь или устойчивый рост?](https://habr.com/ru/articles/883306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883306)
 - [Топ вопросов и ответов на собеседовании по Kubernetes](https://habr.com/ru/companies/timeweb/articles/883286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883286)
 - [История создания идеального Docker для Laravel](https://habr.com/ru/articles/883300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883300)
-- [Use case использования Kubernetes при построении Cloud-Native-платформы данных](https://habr.com/ru/companies/vk/articles/882492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
