@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реверс-инжиниринг 128-битного дракона](https://habr.com/ru/articles/881264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881264)
+- [Ошибки в нагрузочном тестировании](https://habr.com/ru/companies/tbank/articles/883166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883166)
 - [Не только Python и JavaScript: пять крутых языков программирования для изучения в 2025 году](https://habr.com/ru/companies/ru_mts/articles/883160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883160)
 - [[Перевод] Чеклист для tsconfig.json](https://habr.com/ru/companies/timeweb/articles/877162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877162)
 - [[Перевод] Реальный кейс: 22 вопроса на техническом интервью на вакансию Java Lead в JP Morgan в 2025 году](https://habr.com/ru/companies/ssp-soft/articles/882872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882872)
-- [Аккаунт разработчика Google Play Console и Apple Developer. Как создать из России 2025. Пошаговая инструкция регистрации](https://habr.com/ru/articles/883100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883100)
-- [Бесплатная база данных в облаке на Kotlin](https://habr.com/ru/articles/883086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
