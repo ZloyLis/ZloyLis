@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неубиваемый PHP: почему в 2025 году этот язык все еще остается одним из самых востребованных](https://habr.com/ru/companies/itquick/articles/883236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883236)
+- [Как за 15 минут превратить таблицы БД в JPA-сущности &lpar;и не облажаться&rpar;](https://habr.com/ru/companies/haulmont/articles/875934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875934)
+- [Сгенерировать 100 млн случайных строк менее чем за минуту](https://habr.com/ru/companies/alfa/articles/883226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883226)
 - [Реверс-инжиниринг 128-битного дракона](https://habr.com/ru/articles/881264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881264)
 - [Ошибки в нагрузочном тестировании](https://habr.com/ru/companies/tbank/articles/883166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883166)
-- [Не только Python и JavaScript: пять крутых языков программирования для изучения в 2025 году](https://habr.com/ru/companies/ru_mts/articles/883160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883160)
-- [[Перевод] Чеклист для tsconfig.json](https://habr.com/ru/companies/timeweb/articles/877162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877162)
-- [[Перевод] Реальный кейс: 22 вопроса на техническом интервью на вакансию Java Lead в JP Morgan в 2025 году](https://habr.com/ru/companies/ssp-soft/articles/882872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
