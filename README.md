@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как человеческий мозг справляется с таким странным понятием, как ноль](https://habr.com/ru/articles/883356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883356)
+- [Apple Pro Weekly News &lpar;10.02 – 16.02.25&rpar;](https://habr.com/ru/articles/883354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883354)
+- [Game++. run, thread, run…](https://habr.com/ru/articles/882684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882684)
 - [[Перевод] Контрабанда данных внутри эмодзи](https://habr.com/ru/articles/883342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883342)
 - [Нобелевский лауреат Леонид Канторович и его вклад в IT](https://habr.com/ru/companies/onlinepatent/articles/883314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883314)
-- [Анализ рынка ИТ-Специалистов в России: пузырь или устойчивый рост?](https://habr.com/ru/articles/883306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883306)
-- [Топ вопросов и ответов на собеседовании по Kubernetes](https://habr.com/ru/companies/timeweb/articles/883286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883286)
-- [История создания идеального Docker для Laravel](https://habr.com/ru/articles/883300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
