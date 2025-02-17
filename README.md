@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компилятор за выходные: пишем собственный парсер](https://habr.com/ru/articles/883390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883390)
 - [Vibe Coding и английский как язык программирования](https://habr.com/ru/articles/883380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883380)
 - [Security Week 2508: уязвимости встроенного архиватора Windows](https://habr.com/ru/companies/kaspersky/articles/883288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883288)
 - [[Перевод] Как человеческий мозг справляется с таким странным понятием, как ноль](https://habr.com/ru/articles/883356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883356)
 - [Apple Pro Weekly News &lpar;10.02 – 16.02.25&rpar;](https://habr.com/ru/articles/883354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883354)
-- [Game++. run, thread, run…](https://habr.com/ru/articles/882684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
