@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практика использования классов Socket и ServerSocket в Java](https://habr.com/ru/articles/883076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883076)
 - [Об Equality Algorithms](https://habr.com/ru/articles/882936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882936)
 - [Простыми словами о методе максимального правдоподобия и информации Фишера](https://habr.com/ru/articles/830326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=830326)
 - [Я делаю тестовые лучше тебя! 1/3 &lpar;фронтенд&rpar;](https://habr.com/ru/articles/883006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883006)
 - [Программирование: что это, зачем сюда идти и к чему быть готовым?](https://habr.com/ru/articles/883034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883034)
-- [Смогу ли я уложить оптимизирующий компилятор в тысячу строк питона? Прогон первый: mem2reg](https://habr.com/ru/articles/881192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
