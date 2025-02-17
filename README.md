@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не только Python и JavaScript: пять крутых языков программирования для изучения в 2025 году](https://habr.com/ru/companies/ru_mts/articles/883160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883160)
+- [[Перевод] Чеклист для tsconfig.json](https://habr.com/ru/companies/timeweb/articles/877162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877162)
 - [[Перевод] Реальный кейс: 22 вопроса на техническом интервью на вакансию Java Lead в JP Morgan в 2025 году](https://habr.com/ru/companies/ssp-soft/articles/882872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882872)
 - [Аккаунт разработчика Google Play Console и Apple Developer. Как создать из России 2025. Пошаговая инструкция регистрации](https://habr.com/ru/articles/883100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883100)
 - [Бесплатная база данных в облаке на Kotlin](https://habr.com/ru/articles/883086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883086)
-- [Практика использования классов Socket и ServerSocket в Java](https://habr.com/ru/articles/883076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883076)
-- [Об Equality Algorithms](https://habr.com/ru/articles/882936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
