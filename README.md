@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Под капотом у пользовательского интерфейса SwiftUI — Детальный разбор: Часть 1 — UIKit](https://habr.com/ru/companies/otus/articles/883522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883522)
+- [Как ускорить загрузку сайта: гайд для разработчиков](https://habr.com/ru/companies/simbirsoft/articles/883090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883090)
+- [Нужен ли нам сейчас кеш-слой перед СУБД](https://habr.com/ru/companies/oleg-bunin/articles/883422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883422)
+- [[Перевод] Калькулятор? Да его напишет кто угодно](https://habr.com/ru/articles/883366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883366)
 - [Как создать систему расшифровки после звонка для Битрикс24](https://habr.com/ru/companies/exolve/articles/883474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883474)
-- [FFmpeg компоненты — назначение, входные/выходные данные, настройка](https://habr.com/ru/articles/883470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883470)
-- [Секреты мобильной разработки в логистике: разгоняем MVVM до максимума](https://habr.com/ru/companies/yandex/articles/883202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883202)
-- [Автоматизируем выпуск валидных SSL-сертификатов в локальном Kubernetes](https://habr.com/ru/articles/883428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883428)
-- [Что нового в мире No-Code/Low-Code: варианты использования и подводные камни](https://habr.com/ru/articles/883460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
