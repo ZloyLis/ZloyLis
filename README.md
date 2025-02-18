@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [В закладки: 12 материалов про EDA и статистический анализ данных](https://habr.com/ru/companies/yandex_praktikum/articles/879316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879316)
-- [MoonShine v3: главные изменения и новые возможности в open-source админ-панели для Laravel](https://habr.com/ru/articles/882986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882986)
-- [Автоматизируем учёт облигаций: как избавиться от рутины](https://habr.com/ru/articles/882608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882608)
-- [Компилятор за выходные: синтаксический анализатор Уорли](https://habr.com/ru/articles/883390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883390)
-- [Vibe Coding и английский как язык программирования](https://habr.com/ru/articles/883380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883380)
+- [Как создать систему расшифровки после звонка для Битрикс24](https://habr.com/ru/companies/exolve/articles/883474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883474)
+- [FFmpeg компоненты — назначение, входные/выходные данные, настройка](https://habr.com/ru/articles/883470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883470)
+- [Секреты мобильной разработки в логистике: разгоняем MVVM до максимума](https://habr.com/ru/companies/yandex/articles/883202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883202)
+- [Автоматизируем выпуск валидных SSL-сертификатов в локальном Kubernetes](https://habr.com/ru/articles/883428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883428)
+- [Что нового в мире No-Code/Low-Code: варианты использования и подводные камни](https://habr.com/ru/articles/883460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
