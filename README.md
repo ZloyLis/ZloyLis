@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В преддверии испытаний статических анализаторов под руководством ФСТЭК России](https://habr.com/ru/companies/pvs-studio/articles/883556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883556)
+- [5 вопросов тестировщика на собеседовании, или Красные флаги работодателя](https://habr.com/ru/companies/vk/articles/883334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883334)
+- [От первого байта до конверсии: большой гайд по ускорению сайта](https://habr.com/ru/articles/881932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881932)
+- [Как сократить более половины инфраструктурных расходов? Прерываемые ВМ в Kubernetes](https://habr.com/ru/companies/selectel/articles/883494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883494)
 - [[Перевод] Под капотом у пользовательского интерфейса SwiftUI — Детальный разбор: Часть 1 — UIKit](https://habr.com/ru/companies/otus/articles/883522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883522)
-- [Как ускорить загрузку сайта: гайд для разработчиков](https://habr.com/ru/companies/simbirsoft/articles/883090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883090)
-- [Нужен ли нам сейчас кеш-слой перед СУБД](https://habr.com/ru/companies/oleg-bunin/articles/883422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883422)
-- [[Перевод] Калькулятор? Да его напишет кто угодно](https://habr.com/ru/articles/883366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883366)
-- [Как создать систему расшифровки после звонка для Битрикс24](https://habr.com/ru/companies/exolve/articles/883474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
