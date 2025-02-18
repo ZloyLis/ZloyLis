@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] GameRoy: динамическая компиляция на примере высокоточной эмуляции игр для Game Boy](https://habr.com/ru/articles/883638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883638)
-- [Разработка библиотеки для навигации групп мобильных роботов на транспортной платформе в заранее неизвестной среде](https://habr.com/ru/articles/883636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883636)
-- [Знакомство с pgpro-otel-collector](https://habr.com/ru/companies/postgrespro/articles/883632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883632)
-- [Простые лайфхаки для автоматизации работы с помощью Python](https://habr.com/ru/companies/netologyru/articles/881796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881796)
-- [Фрактальный декоратор в C#](https://habr.com/ru/companies/otus/articles/883338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883338)
+- [Как рисовать русские буквы на Кумире в чертежнике](https://habr.com/ru/articles/883750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883750)
+- [Фасилитация: превращаем разговоры в решения](https://habr.com/ru/articles/883744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883744)
+- [Фасилитация: превращаем разговоры в решения](https://habr.com/ru/articles/883742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883742)
+- [Фильтр Гаусса на стероидах: подход на точность вычислений](https://habr.com/ru/companies/smartengines/articles/883340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883340)
+- [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 1: Качество продукта](https://habr.com/ru/articles/883036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
