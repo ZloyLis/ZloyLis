@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Автоматизируем учёт облигаций: как избавиться от рутины](https://habr.com/ru/articles/882608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882608)
-- [Компилятор за выходные: пишем собственный парсер](https://habr.com/ru/articles/883390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883390)
+- [Компилятор за выходные: синтаксический анализатор Уорли](https://habr.com/ru/articles/883390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883390)
 - [Vibe Coding и английский как язык программирования](https://habr.com/ru/articles/883380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883380)
 - [Security Week 2508: уязвимости встроенного архиватора Windows](https://habr.com/ru/companies/kaspersky/articles/883288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883288)
 - [[Перевод] Как человеческий мозг справляется с таким странным понятием, как ноль](https://habr.com/ru/articles/883356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883356)
