@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [LitestarCatsCV. Тренируемся на кошках. Пробуем litestar и другое новьё. Часть 1](https://habr.com/ru/companies/ntechlab/articles/883578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883578)
+- [Как мы сокращали размер JSONʼа в SDUI](https://habr.com/ru/companies/alfa/articles/882054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882054)
 - [В преддверии испытаний статических анализаторов под руководством ФСТЭК России](https://habr.com/ru/companies/pvs-studio/articles/883556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883556)
 - [5 вопросов тестировщика на собеседовании, или Красные флаги работодателя](https://habr.com/ru/companies/vk/articles/883334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883334)
 - [От первого байта до конверсии: большой гайд по ускорению сайта](https://habr.com/ru/articles/881932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881932)
-- [Как сократить более половины инфраструктурных расходов? Прерываемые ВМ в Kubernetes](https://habr.com/ru/companies/selectel/articles/883494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883494)
-- [[Перевод] Под капотом у пользовательского интерфейса SwiftUI — Детальный разбор: Часть 1 — UIKit](https://habr.com/ru/companies/otus/articles/883522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
