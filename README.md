@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Poetry vs UV: удобство или скорость?](https://habr.com/ru/companies/ru_mts/articles/883600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883600)
-- [Как выбрать архитектуру для роста бизнеса: микросервисы или событийно-ориентированная модель?](https://habr.com/ru/articles/883598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883598)
-- [LitestarCatsCV. Тренируемся на кошках. Пробуем litestar и другое новьё. Часть 1](https://habr.com/ru/companies/ntechlab/articles/883578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883578)
-- [Как мы сокращали размер JSONʼа в SDUI](https://habr.com/ru/companies/alfa/articles/882054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882054)
-- [В преддверии испытаний статических анализаторов под руководством ФСТЭК России](https://habr.com/ru/companies/pvs-studio/articles/883556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883556)
+- [[Перевод] GameRoy: динамическая компиляция на примере высокоточной эмуляции игр для Game Boy](https://habr.com/ru/articles/883638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883638)
+- [Разработка библиотеки для навигации групп мобильных роботов на транспортной платформе в заранее неизвестной среде](https://habr.com/ru/articles/883636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883636)
+- [Знакомство с pgpro-otel-collector](https://habr.com/ru/companies/postgrespro/articles/883632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883632)
+- [Простые лайфхаки для автоматизации работы с помощью Python](https://habr.com/ru/companies/netologyru/articles/881796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881796)
+- [Фрактальный декоратор в C#](https://habr.com/ru/companies/otus/articles/883338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
