@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CRM для автошколы?](https://habr.com/ru/articles/883818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883818)
+- [UX для frontend на основе дизайн-принципов MUI](https://habr.com/ru/companies/tbank/articles/883438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883438)
 - [Перспективы 6G и системный подход к мобильным сетям — что почитать](https://habr.com/ru/companies/vasexperts/articles/883780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883780)
 - [DeepSeek-R1 и обобщённое уравнение плоскости: Как ИИ помог мне переосмыслить геометрическую алгебру](https://habr.com/ru/articles/883746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883746)
 - [Автоматические резервные копии etcd и миграции master-узлов: дайджест обновлений Deckhouse Kubernetes Platform 1.65–1.67](https://habr.com/ru/companies/flant/articles/883082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883082)
-- [Погружение в Rust: как язык помогает писать безопасный и высокопроизводительный код](https://habr.com/ru/articles/883774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883774)
-- [Исследуем Trello и Todoist: разбор спорных вопросов по REST API с проектов и собеседований](https://habr.com/ru/articles/877808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
