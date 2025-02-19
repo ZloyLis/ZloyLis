@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Борьба с перерендерами в React](https://habr.com/ru/articles/884094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884094)
 - [[Перевод] Flutter 3.29 — Что нового во Flutter?](https://habr.com/ru/articles/884078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884078)
 - [Как я обучал студентов системной аналитике и почему мне понравилось](https://habr.com/ru/companies/psb/articles/884030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884030)
 - [Дизайн-системы в 2025 году: 6 актуальных трендов](https://habr.com/ru/companies/avito/articles/883676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883676)
 - [Судоку: моя попытка в новый алгоритм решения. Часть 2. Заполнение латинского квадрата](https://habr.com/ru/articles/883922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883922)
-- [Как мы из России опубликовали платное приложение в App Store](https://habr.com/ru/articles/883998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
