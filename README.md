@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследуем Trello и Todoist: разбор спорных вопросов по REST API с проектов и собеседований](https://habr.com/ru/articles/877808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877808)
 - [Как рисовать русские буквы на Кумире в чертежнике](https://habr.com/ru/articles/883750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883750)
 - [Фасилитация: превращаем разговоры в решения](https://habr.com/ru/articles/883744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883744)
 - [Фильтр Гаусса на стероидах: подход на точность вычислений](https://habr.com/ru/companies/smartengines/articles/883340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883340)
 - [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 1: Качество продукта](https://habr.com/ru/articles/883036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883036)
-- [Универсальный подход к адаптивному веб-дизайну интерфейсов Stretch, Scale, Switch &lpar;SSS&rpar;](https://habr.com/ru/companies/simpleone/articles/881168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
