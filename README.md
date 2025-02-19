@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ Android-фич на доступность и внедрение accessibility в процесс разработки](https://habr.com/ru/companies/vk/articles/881908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881908)
+- [Отказоустойчивость Postgres Pro Enterprise для 1С](https://habr.com/ru/companies/postgrespro/articles/883946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883946)
 - [Hot reload секретов под нагрузкой в Java-сервисах на Spring](https://habr.com/ru/companies/sberbank/articles/883826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883826)
 - [Оптимизация JOIN в PostgreSQL](https://habr.com/ru/articles/883916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883916)
 - [FlutterPulse: главные события недели 13.02-19.02.2025](https://habr.com/ru/articles/883888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883888)
-- [Работа с колонками типа JSON в PostgreSQL &lpar;на примере использования отдельных функций&rpar;](https://habr.com/ru/articles/883884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883884)
-- [[Перевод] Рваная, чудовищная функция, которая сломала математический анализ](https://habr.com/ru/articles/883880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
