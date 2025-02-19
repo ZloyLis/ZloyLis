@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Когда кажется, что нашёл баг в компиляторе](https://habr.com/ru/companies/timeweb/articles/883862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883862)
+- [Как мы обрабатываем аналитические данные с помощью Redpanda Connect](https://habr.com/ru/companies/tuturu/articles/883462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883462)
 - [Приватный финансовый менеджер inCourse на React Native. Опыт разработки](https://habr.com/ru/articles/883844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883844)
 - [C++26 — встреча ISO в Хагенберге](https://habr.com/ru/companies/yandex/articles/882518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882518)
 - [Стратегии деплоя: как мы пришли к использованию Argo CD](https://habr.com/ru/companies/selectel/articles/883650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883650)
-- [Из веб-тестировщиков в мобильные: инсайты для тех, кто задумался о переходе](https://habr.com/ru/companies/bitrix/articles/883808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883808)
-- [Автоматизированное документирование баз данных на Markdown](https://habr.com/ru/companies/ppr/articles/883616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
