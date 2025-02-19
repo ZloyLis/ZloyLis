@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [CRM для автошколы?](https://habr.com/ru/articles/883818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883818)
-- [UX для frontend на основе дизайн-принципов MUI](https://habr.com/ru/companies/tbank/articles/883438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883438)
-- [Перспективы 6G и системный подход к мобильным сетям — что почитать](https://habr.com/ru/companies/vasexperts/articles/883780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883780)
-- [DeepSeek-R1 и обобщённое уравнение плоскости: Как ИИ помог мне переосмыслить геометрическую алгебру](https://habr.com/ru/articles/883746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883746)
-- [Автоматические резервные копии etcd и миграции master-узлов: дайджест обновлений Deckhouse Kubernetes Platform 1.65–1.67](https://habr.com/ru/companies/flant/articles/883082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883082)
+- [Приватный финансовый менеджер inCourse на React Native. Опыт разработки](https://habr.com/ru/articles/883844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883844)
+- [C++26 — встреча ISO в Хагенберге](https://habr.com/ru/companies/yandex/articles/882518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882518)
+- [Стратегии деплоя: как мы пришли к использованию Argo CD](https://habr.com/ru/companies/selectel/articles/883650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883650)
+- [Из веб-тестировщиков в мобильные: инсайты для тех, кто задумался о переходе](https://habr.com/ru/companies/bitrix/articles/883808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883808)
+- [Автоматизированное документирование баз данных на Markdown](https://habr.com/ru/companies/ppr/articles/883616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
