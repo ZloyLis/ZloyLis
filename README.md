@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эволюция экосистемы Java под интеграцию ИИ](https://habr.com/ru/companies/spring_aio/articles/883964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883964)
 - [[Перевод] Отладка приложения, которое не хочет, чтобы его отлаживали](https://habr.com/ru/companies/ruvds/articles/883942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883942)
 - [Как прогнозировать рост выручки с помощью фреймворка](https://habr.com/ru/companies/lentatech/articles/883902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883902)
 - [Оптимизируем релиз мобильного приложения: что получилось, а что нет](https://habr.com/ru/companies/ozontech/articles/883538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883538)
 - [Анализ Android-фич на доступность и внедрение accessibility в процесс разработки](https://habr.com/ru/companies/vk/articles/881908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881908)
-- [Отказоустойчивость Postgres Pro Enterprise для 1С](https://habr.com/ru/companies/postgrespro/articles/883946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
