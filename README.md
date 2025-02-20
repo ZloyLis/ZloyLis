@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP vs Java в 2025: что лучше?](https://habr.com/ru/articles/884318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884318)
+- [Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community](https://habr.com/ru/companies/explyt/articles/884280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884280)
 - [Kotlin Coroutines под капотом: CoroutineContext и CoroutineScope](https://habr.com/ru/articles/883588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883588)
 - [«Интересы пациента важнее всего, они единственно достойны рассмотрения»](https://habr.com/ru/articles/884278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884278)
 - [Почему ваше портфолио закрывают через 10 секунд? 15 главных ошибок дизайнеров](https://habr.com/ru/articles/884274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884274)
-- [GIMP Script-Fu Первый Дан. Выходим за Рамки](https://habr.com/ru/articles/884258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884258)
-- [Как использовать интеллектуальные карты в тестировании ПО](https://habr.com/ru/companies/simbirsoft/articles/884230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
