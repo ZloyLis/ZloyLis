@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Введение в многокритериальную оптимизацию, или как потерять чуть меньше денег на крипте](https://habr.com/ru/articles/884426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884426)
+- [Я так устал вводить логин и пароль](https://habr.com/ru/articles/884424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884424)
+- [Проверка на сгенерированный контент — опасность для академической сферы](https://habr.com/ru/articles/884406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884406)
 - [[Перевод] Нет, ваша генеративная модель меня не заменит](https://habr.com/ru/articles/884368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884368)
 - [Как мы «рисовали» учет времени на iOS с помощью библиотеки Charts](https://habr.com/ru/companies/kaspersky/articles/881578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881578)
-- [Python снова первый: в чем секрет популярности и что с другими языками](https://habr.com/ru/companies/ru_mts/articles/884376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884376)
-- [Разработка и производство современных ASIC/SoC глазами тополога](https://habr.com/ru/companies/yadro/articles/883322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883322)
-- [Serverless сервисы. От AWS Lambda до Yandex Cloud Functions и их альтернатив](https://habr.com/ru/companies/amvera/articles/884340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
