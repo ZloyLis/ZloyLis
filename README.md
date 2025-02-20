@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [B-Tree — сбалансированный куст поиска](https://habr.com/ru/articles/884232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884232)
+- [HPC на коленке: кастомный планировщик pod’ов для Kubernetes с NUMA-awareness](https://habr.com/ru/companies/otus/articles/884012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884012)
+- [Передаём данные с мобильных устройств в сервисы через каналы радиосвязи](https://habr.com/ru/companies/oleg-bunin/articles/884168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884168)
 - [[Перевод] ИИ играет в долгие игры, чтобы решить старые математические задачи](https://habr.com/ru/articles/884066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884066)
 - [Spring Reactor. Эволюция сервисов. На пути к реактивности](https://habr.com/ru/companies/alfastrah/articles/883936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883936)
-- [10. Особые линейные системы. Часть 2](https://habr.com/ru/articles/884172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884172)
-- [Актуальные навыки системного аналитика. Тенденции и факторы развития](https://habr.com/ru/articles/884158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884158)
-- [«М.Видео» и «Эльдорадо» выкупают старые смартфоны: раскрываем детали](https://habr.com/ru/companies/mvideo/articles/884162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
