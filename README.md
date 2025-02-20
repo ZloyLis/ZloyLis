@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие курсы по программированию 2025 &lpar;голосование&rpar;](https://habr.com/ru/articles/884448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884448)
+- [Добавляем в Embox новую платформу с архитектурой RISC-V](https://habr.com/ru/articles/884438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884438)
 - [Введение в многокритериальную оптимизацию, или как потерять чуть меньше денег на крипте](https://habr.com/ru/articles/884426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884426)
 - [Я так устал вводить логин и пароль](https://habr.com/ru/articles/884424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884424)
 - [Проверка на сгенерированный контент — опасность для академической сферы](https://habr.com/ru/articles/884406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884406)
-- [[Перевод] Нет, ваша генеративная модель меня не заменит](https://habr.com/ru/articles/884368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884368)
-- [Как мы «рисовали» учет времени на iOS с помощью библиотеки Charts](https://habr.com/ru/companies/kaspersky/articles/881578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
