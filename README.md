@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Нет, ваша генеративная модель меня не заменит](https://habr.com/ru/articles/884368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884368)
+- [Как мы «рисовали» учет времени на iOS с помощью библиотеки Charts](https://habr.com/ru/companies/kaspersky/articles/881578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881578)
+- [Python снова первый: в чем секрет популярности и что с другими языками](https://habr.com/ru/companies/ru_mts/articles/884376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884376)
 - [Разработка и производство современных ASIC/SoC глазами тополога](https://habr.com/ru/companies/yadro/articles/883322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883322)
 - [Serverless сервисы. От AWS Lambda до Yandex Cloud Functions и их альтернатив](https://habr.com/ru/companies/amvera/articles/884340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884340)
-- [PHP vs Java в 2025: что лучше?](https://habr.com/ru/articles/884318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884318)
-- [Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community](https://habr.com/ru/companies/explyt/articles/884280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884280)
-- [Kotlin Coroutines под капотом: CoroutineContext и CoroutineScope](https://habr.com/ru/articles/883588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
