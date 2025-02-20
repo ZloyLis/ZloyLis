@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ИИ играет в долгие игры, чтобы решить старые математические задачи](https://habr.com/ru/articles/884066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884066)
+- [Spring Reactor. Эволюция сервисов. На пути к реактивности](https://habr.com/ru/companies/alfastrah/articles/883936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883936)
 - [10. Особые линейные системы. Часть 2](https://habr.com/ru/articles/884172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884172)
 - [Актуальные навыки системного аналитика. Тенденции и факторы развития](https://habr.com/ru/articles/884158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884158)
 - [«М.Видео» и «Эльдорадо» выкупают старые смартфоны: раскрываем детали](https://habr.com/ru/companies/mvideo/articles/884162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884162)
-- [«М.Видео» и «Эльдорадо» выкупают старые смартфоны: раскрываем детали](https://habr.com/ru/companies/mvideo/articles/884160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884160)
-- [[Перевод] Как уместить поиск по 30 тысячам слов в 64 КБ ОЗУ](https://habr.com/ru/articles/882952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
