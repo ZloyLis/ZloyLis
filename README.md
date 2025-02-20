@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка и производство современных ASIC/SoC глазами тополога](https://habr.com/ru/companies/yadro/articles/883322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883322)
+- [Serverless сервисы. От AWS Lambda до Yandex Cloud Functions и их альтернатив](https://habr.com/ru/companies/amvera/articles/884340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884340)
 - [PHP vs Java в 2025: что лучше?](https://habr.com/ru/articles/884318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884318)
 - [Explyt Spring plugin. Поддержка *.http файлов в IntelliJ IDEA Community](https://habr.com/ru/companies/explyt/articles/884280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884280)
 - [Kotlin Coroutines под капотом: CoroutineContext и CoroutineScope](https://habr.com/ru/articles/883588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883588)
-- [«Интересы пациента важнее всего, они единственно достойны рассмотрения»](https://habr.com/ru/articles/884278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884278)
-- [Почему ваше портфолио закрывают через 10 секунд? 15 главных ошибок дизайнеров](https://habr.com/ru/articles/884274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
