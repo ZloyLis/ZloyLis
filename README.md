@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задолженности в Mireapay](https://habr.com/ru/articles/884116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884116)
 - [Самые Эпичные Баги при Программировании Микроконтроллеров](https://habr.com/ru/articles/884100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884100)
 - [Не все страны живут в 2025 году и как это влияет на ИТ](https://habr.com/ru/articles/884096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884096)
 - [Борьба с перерендерами в React](https://habr.com/ru/articles/884094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884094)
 - [[Перевод] Flutter 3.29 — Что нового во Flutter?](https://habr.com/ru/articles/884078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884078)
-- [Как я обучал студентов системной аналитике и почему мне понравилось](https://habr.com/ru/companies/psb/articles/884030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
