@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экспорт ключей TLS: зачем, почему и как реализовать с Go](https://habr.com/ru/articles/884488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884488)
+- [Отладка JavaScript в Chrome DevTools для начинающих фронтендеров](https://habr.com/ru/companies/intec_balance/articles/884482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884482)
+- [[Перевод] [Перевод] Управление пакетами C ++ с помощью Conan: Введение](https://habr.com/ru/articles/884464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884464)
 - [Критерии для Senior Developer&#39;а](https://habr.com/ru/articles/884460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884460)
 - [Лучшие курсы по программированию 2025 &lpar;голосование&rpar;](https://habr.com/ru/articles/884448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884448)
-- [Добавляем в Embox новую платформу с архитектурой RISC-V](https://habr.com/ru/articles/884438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884438)
-- [Введение в многокритериальную оптимизацию, или как потерять чуть меньше денег на крипте](https://habr.com/ru/articles/884426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884426)
-- [Я так устал вводить логин и пароль](https://habr.com/ru/articles/884424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
