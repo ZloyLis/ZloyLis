@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Калькуляторы с четырьмя функциями, или Ад UI](https://habr.com/ru/companies/nmg/articles/813879/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813879)
-- [Правильный API конфигурации библиотеки на примере TrueSql || причина бросить Spring Data](https://habr.com/ru/articles/884650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884650)
-- [Магический метод работы с формами](https://habr.com/ru/companies/sibur_official/articles/875372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875372)
-- [Конфигуратор. Связываем хосты в единую инфраструктуру, используя функциональность Ansible inventory](https://habr.com/ru/companies/pt/articles/884526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884526)
-- [[Перевод] Собеседование по System Design: рассказ очевидца](https://habr.com/ru/companies/piter/articles/883962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883962)
+- [Gambit Scheme: интегрируемся с Python](https://habr.com/ru/articles/884654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884654)
+- [Задача о рюкзаке. Простое решение, но где-то должен быть подвох](https://habr.com/ru/articles/884708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884708)
+- [Фидбэк vs токсичность: как давать обратную связь коллегам и начальству](https://habr.com/ru/articles/884706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884706)
+- [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 3: наши первые результаты](https://habr.com/ru/companies/spring_aio/articles/884586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884586)
+- [Баллада о дежурствах: как мы в три раза ускорили разбор обращений от пользователей](https://habr.com/ru/companies/tbank/articles/884674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
