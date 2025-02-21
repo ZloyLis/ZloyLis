@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Развиваем soft и точечно прокачиваем hard skills: подборка книг от СТО](https://habr.com/ru/companies/ru_mts/articles/882646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882646)
-- [От пользовательского пути к защищённым системам: как UX / UI влияет на кибербезопасность](https://habr.com/ru/companies/securityvison/articles/884558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884558)
-- [SQL HowTo: подбираем значение ветвлением &lpar;Advent of Code 2024, Day 17: Chronospatial Computer&rpar;](https://habr.com/ru/companies/tensor/articles/884522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884522)
-- [Задача про счастливые билетики и ТФКП](https://habr.com/ru/articles/884532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884532)
-- [IPC в Node.js: решение проблемы с передачей данных](https://habr.com/ru/companies/tensor/articles/882022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882022)
+- [[Перевод] Собеседование по System Design: рассказ очевидца](https://habr.com/ru/companies/piter/articles/883962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883962)
+- [Web3 для JavaScript-разработчиков на примере Solana](https://habr.com/ru/companies/jugru/articles/884574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884574)
+- [Как эффективно сертифицироваться по P3.Express](https://habr.com/ru/articles/884210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884210)
+- [Что можно узнать из логов сервера: разбираем на 3 примерах](https://habr.com/ru/companies/runity/articles/884594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884594)
+- [Мошенники любят QR-коды: разбираем кейсы, изучаем устройство подделок и делаем выводы](https://habr.com/ru/companies/selectel/articles/882818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
