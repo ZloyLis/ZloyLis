@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задача про счастливые билетики и ТФКП](https://habr.com/ru/articles/884532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884532)
+- [IPC в Node.js: решение проблемы с передачей данных](https://habr.com/ru/companies/tensor/articles/882022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882022)
+- [Шпаргалка: как выглядит Kotlin Coroutine без макияжа](https://habr.com/ru/articles/882988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882988)
 - [Переключение на элемент iframe на примере видео-плеера](https://habr.com/ru/articles/883040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883040)
 - [Первая в СССР олимпиада по программированию](https://habr.com/ru/articles/884498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884498)
-- [Экспорт ключей TLS: зачем, почему и как реализовать с Go](https://habr.com/ru/articles/884488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884488)
-- [Отладка JavaScript в Chrome DevTools для начинающих фронтендеров](https://habr.com/ru/companies/intec_balance/articles/884482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884482)
-- [[Перевод] [Перевод] Управление пакетами C ++ с помощью Conan: Введение](https://habr.com/ru/articles/884464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
