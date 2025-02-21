@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От пользовательского пути к защищённым системам: как UX / UI влияет на кибербезопасность](https://habr.com/ru/companies/securityvison/articles/884558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884558)
+- [SQL HowTo: подбираем значение ветвлением &lpar;Advent of Code 2024, Day 17: Chronospatial Computer&rpar;](https://habr.com/ru/companies/tensor/articles/884522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884522)
 - [Задача про счастливые билетики и ТФКП](https://habr.com/ru/articles/884532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884532)
 - [IPC в Node.js: решение проблемы с передачей данных](https://habr.com/ru/companies/tensor/articles/882022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882022)
 - [Шпаргалка: как выглядит Kotlin Coroutine без макияжа](https://habr.com/ru/articles/882988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882988)
-- [Переключение на элемент iframe на примере видео-плеера](https://habr.com/ru/articles/883040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883040)
-- [Первая в СССР олимпиада по программированию](https://habr.com/ru/articles/884498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
