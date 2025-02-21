@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Калькуляторы с четырьмя функциями, или Ад UI](https://habr.com/ru/companies/nmg/articles/813879/?utm_source=habrahabr&utm_medium=rss&utm_campaign=813879)
 - [Правильный API конфигурации библиотеки на примере TrueSql || причина бросить Spring Data](https://habr.com/ru/articles/884650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884650)
 - [Магический метод работы с формами](https://habr.com/ru/companies/sibur_official/articles/875372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875372)
 - [Конфигуратор. Связываем хосты в единую инфраструктуру, используя функциональность Ansible inventory](https://habr.com/ru/companies/pt/articles/884526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884526)
 - [[Перевод] Собеседование по System Design: рассказ очевидца](https://habr.com/ru/companies/piter/articles/883962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883962)
-- [Web3 для JavaScript-разработчиков на примере Solana](https://habr.com/ru/companies/jugru/articles/884574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
