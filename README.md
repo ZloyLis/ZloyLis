@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правильный API конфигурации библиотеки на примере TrueSql || причина бросить Spring Data](https://habr.com/ru/articles/884650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884650)
+- [Магический метод работы с формами](https://habr.com/ru/companies/sibur_official/articles/875372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=875372)
+- [Конфигуратор. Связываем хосты в единую инфраструктуру, используя функциональность Ansible inventory](https://habr.com/ru/companies/pt/articles/884526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884526)
 - [[Перевод] Собеседование по System Design: рассказ очевидца](https://habr.com/ru/companies/piter/articles/883962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883962)
 - [Web3 для JavaScript-разработчиков на примере Solana](https://habr.com/ru/companies/jugru/articles/884574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884574)
-- [Как эффективно сертифицироваться по P3.Express](https://habr.com/ru/articles/884210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884210)
-- [Что можно узнать из логов сервера: разбираем на 3 примерах](https://habr.com/ru/companies/runity/articles/884594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884594)
-- [Мошенники любят QR-коды: разбираем кейсы, изучаем устройство подделок и делаем выводы](https://habr.com/ru/companies/selectel/articles/882818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
