@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-буткемп от red_mad_robot: прокачиваем скиллы в NLP и MarkUp](https://habr.com/ru/companies/redmadrobot/articles/884698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884698)
 - [Gambit Scheme: интегрируемся с Python](https://habr.com/ru/articles/884654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884654)
 - [Задача о рюкзаке. Простое решение, но где-то должен быть подвох](https://habr.com/ru/articles/884708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884708)
 - [Фидбэк vs токсичность: как давать обратную связь коллегам и начальству](https://habr.com/ru/articles/884706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884706)
 - [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 3: наши первые результаты](https://habr.com/ru/companies/spring_aio/articles/884586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884586)
-- [Баллада о дежурствах: как мы в три раза ускорили разбор обращений от пользователей](https://habr.com/ru/companies/tbank/articles/884674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
