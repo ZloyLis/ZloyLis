@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OLD’s cool: паттерны поведения взрослой аудитории и как с ними работают в ОК](https://habr.com/ru/companies/vk/articles/884584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884584)
+- [Вторая часть исследования Nau Engine](https://habr.com/ru/companies/pvs-studio/articles/884746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884746)
+- [Тестируем API с помощью Keploy](https://habr.com/ru/companies/otus/articles/882636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882636)
 - [AI-буткемп от red_mad_robot: прокачиваем скиллы в NLP и MarkUp](https://habr.com/ru/companies/redmadrobot/articles/884698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884698)
 - [Gambit Scheme: интегрируемся с Python](https://habr.com/ru/articles/884654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884654)
-- [Задача о рюкзаке. Простое решение, но где-то должен быть подвох](https://habr.com/ru/articles/884708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884708)
-- [Фидбэк vs токсичность: как давать обратную связь коллегам и начальству](https://habr.com/ru/articles/884706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884706)
-- [[Перевод] Valhalla — эпичный рефакторинг Java. Часть 3: наши первые результаты](https://habr.com/ru/companies/spring_aio/articles/884586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
