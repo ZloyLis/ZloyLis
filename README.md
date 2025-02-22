@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884816)
 - [Гибкий лэйаут для динамических форм с react-jsonschema-form](https://habr.com/ru/articles/884862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884862)
 - [PostgreSQL Connection Pooling: Наш опыт и с чем его едят](https://habr.com/ru/companies/hikasami/articles/884820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884820)
 - [История о самодисциплине и погоне за новым собой](https://habr.com/ru/articles/884850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884850)
 - [Cloudflare Workers: DevOps&#39;ы больше не нужны?](https://habr.com/ru/articles/884848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884848)
-- [Нанопланета | Вёб-движок PlayCanvas](https://habr.com/ru/articles/884832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
