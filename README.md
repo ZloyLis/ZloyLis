@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему JWT — не панацея: разбор проблем сессий и безопасности](https://habr.com/ru/articles/884912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884912)
+- [Как я создал полностью автоматизированое онлайн радио с AI ведущими и музыкой](https://habr.com/ru/articles/884902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884902)
 - [[Перевод] SSL и SSL-сертификаты для новичков](https://habr.com/ru/articles/884898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884898)
 - [Как я превратил старый смартфон в игровую консоль с возможностью звонить](https://habr.com/ru/companies/timeweb/articles/883068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883068)
 - [Как найти идеального стажера в 2025 году? Модернизация найма для поиска талантов за 1500 рублей в месяц](https://habr.com/ru/articles/884890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884890)
-- [Отключение http-метрик в ASP.NET Core](https://habr.com/ru/articles/880738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880738)
-- [Вебсокеты на FastAPI: Реализация простого чата с комнатами за 20 минут](https://habr.com/ru/companies/amvera/articles/884816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
