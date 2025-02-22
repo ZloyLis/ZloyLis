@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История о самодисциплине и погоне за новым собой](https://habr.com/ru/articles/884850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884850)
+- [Cloudflare Workers: DevOps&#39;ы больше не нужны?](https://habr.com/ru/articles/884848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884848)
 - [Нанопланета | Вёб-движок PlayCanvas](https://habr.com/ru/articles/884832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884832)
 - [Обновление PostgreSQL с кластером отката](https://habr.com/ru/articles/884828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884828)
 - [[Перевод] Rust 1.85.0 и Rust 2024](https://habr.com/ru/articles/884770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884770)
-- [OLD’s cool: паттерны поведения взрослой аудитории и как с ними работают в ОК](https://habr.com/ru/companies/vk/articles/884584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884584)
-- [Вторая часть исследования Nau Engine](https://habr.com/ru/companies/pvs-studio/articles/884746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
