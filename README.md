@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как странные формулы ТАУ заменяют 3D расчеты на СуперЭВМ, и помогают Siemens побеждать](https://habr.com/ru/articles/885086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885086)
 - [DeepSeek на железе за 45к](https://habr.com/ru/articles/885056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885056)
 - [[Перевод] System Design для начинающих: всё, что вам нужно. Часть 3](https://habr.com/ru/articles/885054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885054)
 - [Один в поле воин или не воин? Когда ты один тестировщик на 9 разработчиков. Часть 2](https://habr.com/ru/articles/868484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868484)
 - [Мониторинг и распределённое трассирование для Java в Kubernetes с BitDive](https://habr.com/ru/articles/885036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885036)
-- [Стать программистом в зрелом возрасте — 10 лет спустя](https://habr.com/ru/articles/885030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
