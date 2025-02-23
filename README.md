@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #576 &lpar;17 — 23 февраля&rpar;](https://habr.com/ru/articles/885022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885022)
 - [Неожиданное использование «Частного пространства» &lpar;Private space&rpar; в Android 15](https://habr.com/ru/articles/885018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885018)
 - [Постмортем: 4 мои ошибки во время отражения DDOS атаки &lpar;спойлер — выкуп в $250 мы все-таки не заплатили&rpar;](https://habr.com/ru/articles/883378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883378)
 - [Код, который вы не поймете. Подборка вымерших языков программирования](https://habr.com/ru/companies/selectel/articles/885004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885004)
 - [R8: Шакалья работа &lpar;уменьшение apk через правки R8&rpar;](https://habr.com/ru/articles/885006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885006)
-- [C++ и кризис стандартизации](https://habr.com/ru/articles/884994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
