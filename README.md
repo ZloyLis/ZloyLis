@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ и кризис стандартизации](https://habr.com/ru/articles/884994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884994)
+- [[Перевод] Парсер JSON в 500 строках Rust](https://habr.com/ru/companies/ruvds/articles/884262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884262)
 - [Книги по базам данных, которые стоит прочитать в 2025 году](https://habr.com/ru/companies/ru_mts/articles/884678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884678)
 - [Программисту нужна математика?](https://habr.com/ru/articles/884908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884908)
 - [Почему JWT — не панацея: разбор проблем сессий и безопасности](https://habr.com/ru/articles/884912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884912)
-- [Как я создал полностью автоматизированное онлайн радио с AI ведущими и музыкой](https://habr.com/ru/articles/884902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884902)
-- [[Перевод] SSL и SSL-сертификаты для новичков](https://habr.com/ru/articles/884898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
