@@ -39,7 +39,7 @@ ___
 - [Почему JWT — не панацея: разбор проблем сессий и безопасности](https://habr.com/ru/articles/884912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884912)
 - [Как я создал полностью автоматизированное онлайн радио с AI ведущими и музыкой](https://habr.com/ru/articles/884902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884902)
 - [[Перевод] SSL и SSL-сертификаты для новичков](https://habr.com/ru/articles/884898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884898)
-- [Как я превратил старый смартфон в игровую консоль с возможностью звонить](https://habr.com/ru/companies/timeweb/articles/883068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883068)
+- [Очумелые ручки: как я превратил старый смартфон в игровую консоль с возможностью звонить](https://habr.com/ru/companies/timeweb/articles/883068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
