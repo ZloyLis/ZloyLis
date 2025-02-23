@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один в поле воин или не воин? Когда ты один тестировщик на 9 разработчиков. Часть 2](https://habr.com/ru/articles/868484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868484)
 - [Мониторинг и распределённое трассирование для Java в Kubernetes с BitDive](https://habr.com/ru/articles/885036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885036)
 - [Стать программистом в зрелом возрасте — 10 лет спустя](https://habr.com/ru/articles/885030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885030)
 - [Мобильная разработка за неделю #576 &lpar;17 — 23 февраля&rpar;](https://habr.com/ru/articles/885022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885022)
 - [Неожиданное использование «Частного пространства» &lpar;Private space&rpar; в Android 15](https://habr.com/ru/articles/885018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885018)
-- [Постмортем: 4 мои ошибки во время отражения DDOS атаки &lpar;спойлер — выкуп в $250 мы все-таки не заплатили&rpar;](https://habr.com/ru/articles/883378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
