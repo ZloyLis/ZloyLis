@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fusion — php стал ещё ближе к javascript](https://habr.com/ru/companies/first/articles/885098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885098)
+- [Все, что нужно знать менеджеру о QA](https://habr.com/ru/companies/kts/articles/885062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885062)
 - [А посчитать? Показываю, как решить задачу про адвент-календарь](https://habr.com/ru/companies/ru_mts/articles/882560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882560)
 - [Модель составного полупростого числа](https://habr.com/ru/articles/880142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880142)
 - [PropertyBitPack: Упаковка свойств в поля](https://habr.com/ru/articles/885116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885116)
-- [[Перевод] Запускаем Pong в 240 вкладках браузера](https://habr.com/ru/articles/884564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884564)
-- [Go и мультисиг: интеграция с Safe-контрактом](https://habr.com/ru/articles/885088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
