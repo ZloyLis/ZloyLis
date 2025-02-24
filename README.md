@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стримы в Java: Как перестать бояться и полюбить filter-map-reduce](https://habr.com/ru/articles/885298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885298)
+- [Куда расти Data Scientist и какие навыки для этого нужны](https://habr.com/ru/companies/ru_mts/articles/885082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885082)
+- [Запустили простой редактор PDF в США: отмечаем 30000 пользователей и старт монетизации](https://habr.com/ru/articles/885120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885120)
+- [Использование браузерного хранилища для управления состоянием приложения](https://habr.com/ru/articles/884418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884418)
 - [Мобильной разработке в 2025 — быть](https://habr.com/ru/companies/habr/articles/885232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885232)
-- [Как я создавал Observability для своих pet-проектов. Часть 1](https://habr.com/ru/articles/885224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885224)
-- [Что такое карты процесса-опыта, зачем они нужны разработчикам и как их применять](https://habr.com/ru/articles/885220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885220)
-- [Adaptive Query Rewriting в PostgreSQL](https://habr.com/ru/companies/otus/articles/884978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884978)
-- [Информационные технологии и цифровая антропология](https://habr.com/ru/companies/sberbank/articles/885190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
