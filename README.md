@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильной разработке в 2025 — быть](https://habr.com/ru/companies/habr/articles/885232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885232)
+- [Как я создавал Observability для своих pet-проектов. Часть 1](https://habr.com/ru/articles/885224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885224)
+- [Что такое карты процесса-опыта, зачем они нужны разработчикам и как их применять](https://habr.com/ru/articles/885220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885220)
 - [Adaptive Query Rewriting в PostgreSQL](https://habr.com/ru/companies/otus/articles/884978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884978)
 - [Информационные технологии и цифровая антропология](https://habr.com/ru/companies/sberbank/articles/885190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885190)
-- [Fusion — php стал ещё ближе к javascript](https://habr.com/ru/companies/first/articles/885098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885098)
-- [Все, что нужно знать менеджеру о QA](https://habr.com/ru/companies/kts/articles/885062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885062)
-- [А посчитать? Показываю, как решить задачу про адвент-календарь](https://habr.com/ru/companies/ru_mts/articles/882560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
