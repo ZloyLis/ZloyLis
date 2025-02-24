@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель составного полупростого числа](https://habr.com/ru/articles/880142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880142)
+- [PropertyBitPack: Упаковка свойств в поля](https://habr.com/ru/articles/885116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885116)
 - [[Перевод] Запускаем Pong в 240 вкладках браузера](https://habr.com/ru/articles/884564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884564)
 - [Go и мультисиг: интеграция с Safe-контрактом](https://habr.com/ru/articles/885088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885088)
 - [Как странные формулы ТАУ заменяют 3D расчеты на СуперЭВМ, и помогают Siemens побеждать](https://habr.com/ru/articles/885086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885086)
-- [DeepSeek на железе за 45к](https://habr.com/ru/articles/885056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885056)
-- [[Перевод] System Design для начинающих: всё, что вам нужно. Часть 3](https://habr.com/ru/articles/885054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
