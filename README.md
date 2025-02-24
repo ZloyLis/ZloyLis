@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2509: компьютерные игры с вредоносным кодом](https://habr.com/ru/companies/kaspersky/articles/885284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885284)
 - [Искусственный интеллект в ритейле: как он предсказывает вашу следующую покупку в приложении](https://habr.com/ru/companies/X5Tech/articles/885376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885376)
 - [Как оживает смартфон: Android на старте](https://habr.com/ru/companies/surfstudio/articles/885348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885348)
 - [Laravel 12. Что нового?](https://habr.com/ru/articles/885338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885338)
 - [[Перевод] Стиральная машина позволила мне иначе взглянуть на сроки разработки ПО](https://habr.com/ru/companies/ruvds/articles/885258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885258)
-- [Стримы в Java: Как перестать бояться и полюбить filter-map-reduce](https://habr.com/ru/articles/885298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
