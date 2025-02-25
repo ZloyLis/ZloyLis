@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пример паттерна Прототип в Unreal Engine](https://habr.com/ru/articles/885520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885520)
+- [Еще один RTP — можно ли [и нужно ли] заменить HTTP](https://habr.com/ru/companies/vasexperts/articles/885440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885440)
+- [[Перевод] Как сделать своё хранилище образов контейнеров](https://habr.com/ru/companies/flant/articles/882808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882808)
+- [Погружение в Django: 8 полезных ссылок](https://habr.com/ru/companies/yandex_praktikum/articles/879676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879676)
 - [Математика, нужна ли ты программисту?](https://habr.com/ru/articles/885502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885502)
-- [Составляем из четырёх двоек любое целое число](https://habr.com/ru/articles/885446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885446)
-- [CPTS – как стать хакером с нуля](https://habr.com/ru/articles/885478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885478)
-- [Предел Шеннона. Математика компромиссов. Пушкин и Толстой это конечно наша гордость, но считать-то тоже надо учиться](https://habr.com/ru/articles/885146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885146)
-- [SpringBoot Starter Telegram Mapping для вашего бота](https://habr.com/ru/articles/885476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
