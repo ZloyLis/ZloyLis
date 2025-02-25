@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#7&rpar;](https://habr.com/ru/articles/885686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885686)
 - [Три причины не выбрасывать старый айфон](https://habr.com/ru/companies/pt/articles/885370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885370)
 - [Алгоритм одноразового блокнота на Java](https://habr.com/ru/articles/885664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885664)
 - [React и графики: 8 библиотек для визуализации данных](https://habr.com/ru/companies/ru_mts/articles/885650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885650)
 - [Чем полезен Server Driven UI](https://habr.com/ru/companies/mkb/articles/885648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885648)
-- [Распознавание текста в банке: трудности и решения](https://habr.com/ru/companies/tbank/articles/885558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
