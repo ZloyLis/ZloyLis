@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математика, нужна ли ты программисту?](https://habr.com/ru/articles/885502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885502)
 - [Составляем из четырёх двоек любое целое число](https://habr.com/ru/articles/885446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885446)
 - [CPTS – как стать хакером с нуля](https://habr.com/ru/articles/885478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885478)
 - [Предел Шеннона. Математика компромиссов. Пушкин и Толстой это конечно наша гордость, но считать-то тоже надо учиться](https://habr.com/ru/articles/885146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885146)
 - [SpringBoot Starter Telegram Mapping для вашего бота](https://habr.com/ru/articles/885476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885476)
-- [Глубокое обучение: Слой линейного преобразования и полносвязная нейросеть. Теория и реализация на самодельном autograd](https://habr.com/ru/articles/885466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
