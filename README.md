@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распознавание текста в банке: трудности и решения](https://habr.com/ru/companies/tbank/articles/885558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885558)
+- [Волоконно‑оптические линии связи: классификация, особенности и применимость компонентов](https://habr.com/ru/companies/selectel/articles/885542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885542)
 - [Как я решил проблему гибкого управления порядком импортов в большом проекте](https://habr.com/ru/articles/885624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885624)
 - [[Перевод] Model Context Protocol от Spring AI в Java SDK – новый стандарт для интеграции ИИ в экосистеме Java](https://habr.com/ru/companies/spring_aio/articles/885544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885544)
 - [UX-исследования в T2.Digital. Советы по популяризации исследований в команде](https://habr.com/ru/companies/t2/articles/885614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885614)
-- [Один выгоревший сеньор или два джуна с горящими глазами?](https://habr.com/ru/articles/885604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885604)
-- [Architecture as Code: моделируем архитектуру предприятия в ArchiMate](https://habr.com/ru/companies/otus/articles/885594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
