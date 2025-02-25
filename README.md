@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пример паттерна Прототип в Unreal Engine](https://habr.com/ru/articles/885520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885520)
-- [Еще один RTP — можно ли [и нужно ли] заменить HTTP](https://habr.com/ru/companies/vasexperts/articles/885440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885440)
-- [[Перевод] Как сделать своё хранилище образов контейнеров](https://habr.com/ru/companies/flant/articles/882808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882808)
-- [Погружение в Django: 8 полезных ссылок](https://habr.com/ru/companies/yandex_praktikum/articles/879676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879676)
-- [Математика, нужна ли ты программисту?](https://habr.com/ru/articles/885502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885502)
+- [[Перевод] Способы разделения длительных задач в JavaScript](https://habr.com/ru/companies/timeweb/articles/882418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882418)
+- [Как сделать Telegram-бота умнее: пошаговый гайд на Spring AI и Kotlin](https://habr.com/ru/companies/dockhost/articles/884876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884876)
+- [Получение SMS через SMPP Exolve на ESP8266](https://habr.com/ru/companies/exolve/articles/885540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885540)
+- [Знакомство с PPEM 2](https://habr.com/ru/companies/postgrespro/articles/885486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885486)
+- [Корпоративные информационные системы и ГОСТы](https://habr.com/ru/articles/885522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
