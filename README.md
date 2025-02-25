@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микрофронтенды: зачем дробить фронтенд и почему это может быть хорошо](https://habr.com/ru/companies/oleg-bunin/articles/884562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884562)
+- [Рейтинги языков программирования: что за ними скрывается?](https://habr.com/ru/companies/kryptonite/articles/885528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885528)
+- [Вы не знаете CSS. Мои вопросы о CSS с ответами](https://habr.com/ru/companies/ruvds/articles/883284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883284)
+- [Поиск потенциальных уязвимостей в коде, часть 2: практика](https://habr.com/ru/companies/pvs-studio/articles/885576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885576)
 - [[Перевод] Способы разделения длительных задач в JavaScript](https://habr.com/ru/companies/timeweb/articles/882418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882418)
-- [Как сделать Telegram-бота умнее: пошаговый гайд на Spring AI и Kotlin](https://habr.com/ru/companies/dockhost/articles/884876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884876)
-- [Получение SMS через SMPP Exolve на ESP8266](https://habr.com/ru/companies/exolve/articles/885540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885540)
-- [Знакомство с PPEM 2](https://habr.com/ru/companies/postgrespro/articles/885486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885486)
-- [Корпоративные информационные системы и ГОСТы](https://habr.com/ru/articles/885522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
