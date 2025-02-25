@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Микрофронтенды: зачем дробить фронтенд и почему это может быть хорошо](https://habr.com/ru/companies/oleg-bunin/articles/884562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884562)
-- [Рейтинги языков программирования: что за ними скрывается?](https://habr.com/ru/companies/kryptonite/articles/885528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885528)
-- [Вы не знаете CSS. Мои вопросы о CSS с ответами](https://habr.com/ru/companies/ruvds/articles/883284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883284)
-- [Поиск потенциальных уязвимостей в коде, часть 2: практика](https://habr.com/ru/companies/pvs-studio/articles/885576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885576)
-- [[Перевод] Способы разделения длительных задач в JavaScript](https://habr.com/ru/companies/timeweb/articles/882418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882418)
+- [Как я решил проблему гибкого управления порядком импортов в большом проекте](https://habr.com/ru/articles/885624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885624)
+- [[Перевод] Model Context Protocol от Spring AI в Java SDK – новый стандарт для интеграции ИИ в экосистеме Java](https://habr.com/ru/companies/spring_aio/articles/885544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885544)
+- [UX-исследования в T2.Digital. Советы по популяризации исследований в команде](https://habr.com/ru/companies/t2/articles/885614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885614)
+- [Один выгоревший сеньор или два джуна с горящими глазами?](https://habr.com/ru/articles/885604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885604)
+- [Architecture as Code: моделируем архитектуру предприятия в ArchiMate](https://habr.com/ru/companies/otus/articles/885594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
