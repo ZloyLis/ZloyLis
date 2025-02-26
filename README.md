@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] За кулисами JIT: Секреты HotSpot JVM C2 компилятора &lpar;Часть 1&rpar;](https://habr.com/ru/companies/spring_aio/articles/886142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886142)
 - [Первая ИИ-модель для обучения на тексте](https://habr.com/ru/companies/otus/articles/885390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885390)
 - [Искусство НЕпрохождения собесов в IT](https://habr.com/ru/articles/886124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886124)
 - [Кто такой аналитический юнит-лид в Авито: рассказываем на примерах](https://habr.com/ru/companies/avito/articles/885968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885968)
-- [Дикая Java](https://habr.com/ru/articles/886080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886080)
-- [«Ванильный» Kubernetes больше не нужен? Нужен только «Штурвал»?](https://habr.com/ru/companies/chislitellab/articles/885982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885982)
+- [После прочтения сжечь. Или алгоритмы обработки данных вслепую &lpar;oblivious&rpar;](https://habr.com/ru/articles/886112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
