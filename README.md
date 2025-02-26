@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто такой аналитический юнит-лид в Авито: рассказываем на примерах](https://habr.com/ru/companies/avito/articles/885968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885968)
+- [Дикая Java](https://habr.com/ru/articles/886080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886080)
 - [«Ванильный» Kubernetes больше не нужен? Нужен только «Штурвал»?](https://habr.com/ru/companies/chislitellab/articles/885982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885982)
 - [[Перевод] Agents 101: Как создать своего первого ИИ-агента за 30 минут](https://habr.com/ru/companies/otus/articles/886050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886050)
 - [Теоретические и практические рассуждения об оцифровке отдельных аспектов личности](https://habr.com/ru/articles/886026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886026)
-- [Что будет интересного в pg_probackup 3](https://habr.com/ru/companies/postgrespro/articles/884432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884432)
-- [[Перевод] Почему QR-коды в верхнем регистре меньше, чем в нижнем?](https://habr.com/ru/articles/885990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
