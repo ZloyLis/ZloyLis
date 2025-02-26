@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Классы проектирования против классов анализа](https://habr.com/ru/articles/885906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885906)
+- [Дизайн за 5 минут. Дайджест февраля 2025](https://habr.com/ru/companies/garage8/articles/885904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885904)
+- [Как стать техническим писателем с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/885676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885676)
 - [Топ-5 библиотек для управления состоянием React в 2025 году](https://habr.com/ru/companies/ibs/articles/885868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885868)
 - [Профиль ЦФТ или я его слепила из того, что было](https://habr.com/ru/companies/otpbank/articles/885874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885874)
-- [Как я готовился к сдаче ISTQB ver. 4.0](https://habr.com/ru/articles/885850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885850)
-- [Стримы в Java: Как перестать бояться и полюбить filter-map-reduce &lpar;Часть 2&rpar;](https://habr.com/ru/articles/885834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885834)
-- [Глобальная инфляционная депрессия уже здесь?](https://habr.com/ru/articles/885798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
