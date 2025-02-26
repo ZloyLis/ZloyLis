@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теоретические и практические рассуждения об оцифровке отдельных аспектов личности](https://habr.com/ru/articles/886026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886026)
 - [Что будет интересного в pg_probackup 3](https://habr.com/ru/companies/postgrespro/articles/884432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884432)
 - [[Перевод] Почему QR-коды в верхнем регистре меньше, чем в нижнем?](https://habr.com/ru/articles/885990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885990)
 - [Секреты мониторинга платформы контейнеризации: метрики, трассировка и профилирование изнутри](https://habr.com/ru/companies/dbraincloud/articles/885978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885978)
 - [[Перевод] ООП: худшее, что случалось с программированием](https://habr.com/ru/articles/885980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885980)
-- [Смартфон «из коробки» — большие риски маленького гаджета](https://habr.com/ru/articles/885930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
