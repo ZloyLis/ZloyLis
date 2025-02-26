@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я заставил новую модель Claude 3.7 Sonnet пройти собес по алгоритмам](https://habr.com/ru/articles/886130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886130)
 - [[Перевод] За кулисами JIT: Секреты HotSpot JVM C2 компилятора &lpar;Часть 1&rpar;](https://habr.com/ru/companies/spring_aio/articles/886142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886142)
 - [Первая ИИ-модель для обучения на тексте](https://habr.com/ru/companies/otus/articles/885390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885390)
 - [Искусство НЕпрохождения собесов в IT](https://habr.com/ru/articles/886124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886124)
 - [Кто такой аналитический юнит-лид в Авито: рассказываем на примерах](https://habr.com/ru/companies/avito/articles/885968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885968)
-- [После прочтения сжечь. Или алгоритмы обработки данных вслепую &lpar;oblivious&rpar;](https://habr.com/ru/articles/886112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
