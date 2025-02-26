@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем свой Config Provider для Kafka Connect с поддержкой значений по умолчанию](https://habr.com/ru/articles/885810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885810)
 - [Как я маркетдату агрегировал. Визуализация данных Nasdaq, LSE и MOEX](https://habr.com/ru/articles/884938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884938)
 - [Реализация метода принятия решений в экспертных группах](https://habr.com/ru/articles/885784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885784)
 - [Чистый код](https://habr.com/ru/articles/885776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885776)
 - [Apple Pro Weekly News &lpar;17.02 – 24.02.25&rpar;](https://habr.com/ru/articles/885772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885772)
-- [Field Oriented Control and OpenSource — часть 2](https://habr.com/ru/articles/885718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
