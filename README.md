@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор ITSM-системы SimpleOne: автоматизация ИТ-процессов это только начало](https://habr.com/ru/companies/simpleone/articles/885956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885956)
-- [Байесовская оценка А/Б-тестов](https://habr.com/ru/articles/885936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885936)
-- [SQL HowTo: поиск пути и дихотомия &lpar;Advent of Code 2024, Day 18: RAM Run&rpar;](https://habr.com/ru/companies/tensor/articles/885882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885882)
-- [Как прогнать коллекцию в Postman за 5 секунд](https://habr.com/ru/companies/alfa/articles/883230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883230)
-- [[Перевод] От симметрии к хаосу поцелуев: как математики нашли новые подходы к задаче Ньютона по упаковке сфер](https://habr.com/ru/articles/885914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885914)
+- [Что будет интересного в pg_probackup 3](https://habr.com/ru/companies/postgrespro/articles/884432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884432)
+- [[Перевод] Почему QR-коды в верхнем регистре меньше, чем в нижнем?](https://habr.com/ru/articles/885990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885990)
+- [Секреты мониторинга платформы контейнеризации: метрики, трассировка и профилирование изнутри](https://habr.com/ru/companies/dbraincloud/articles/885978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885978)
+- [[Перевод] ООП: худшее, что случалось с программированием](https://habr.com/ru/articles/885980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885980)
+- [Смартфон «из коробки» — большие риски маленького гаджета](https://habr.com/ru/articles/885930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
