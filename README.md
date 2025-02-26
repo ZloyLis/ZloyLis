@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я готовился к сдаче ISTQB ver. 4.0](https://habr.com/ru/articles/885850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885850)
+- [Стримы в Java: Как перестать бояться и полюбить filter-map-reduce &lpar;Часть 2&rpar;](https://habr.com/ru/articles/885834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885834)
 - [Глобальная инфляционная депрессия уже здесь?](https://habr.com/ru/articles/885798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885798)
 - [Работа с БД в MongoDB и PostgreSQL через питон&lpar;python3&rpar; и WSL](https://habr.com/ru/articles/885824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885824)
 - [Работа с БД в MongoDB и PostgreSQL через питон&lpar;python3&rpar; и WSL](https://habr.com/ru/articles/885822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885822)
-- [Пишем свой Config Provider для Kafka Connect с поддержкой значений по умолчанию](https://habr.com/ru/articles/885810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885810)
-- [Как я маркетдату агрегировал. Визуализация данных Nasdaq, LSE и MOEX](https://habr.com/ru/articles/884938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
