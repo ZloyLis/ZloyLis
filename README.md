@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как прогнать коллекцию в Postman за 5 секунд](https://habr.com/ru/companies/alfa/articles/883230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883230)
+- [[Перевод] От симметрии к хаосу поцелуев: как математики нашли новые подходы к задаче Ньютона по упаковке сфер](https://habr.com/ru/articles/885914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885914)
+- [[Перевод] «Чем ближе к вокзалу, тем хуже кебаб?»: «исследование»](https://habr.com/ru/articles/885880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885880)
 - [[Перевод] Классы проектирования против классов анализа](https://habr.com/ru/articles/885906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885906)
 - [Дизайн за 5 минут. Дайджест февраля 2025](https://habr.com/ru/companies/garage8/articles/885904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885904)
-- [Как стать техническим писателем с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/885676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885676)
-- [Топ-5 библиотек для управления состоянием React в 2025 году](https://habr.com/ru/companies/ibs/articles/885868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885868)
-- [Профиль ЦФТ или я его слепила из того, что было](https://habr.com/ru/companies/otpbank/articles/885874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
