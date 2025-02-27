@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как правильно мигрировать БД в продакшене с использованием Liquibase и Flyway](https://habr.com/ru/companies/spring_aio/articles/886240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886240)
+- [Вебаппки «Телеграма» пишутся проще ботов — показываю &lpar;20 минут — на развёртывание&rpar;](https://habr.com/ru/companies/h3llo_cloud/articles/886262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886262)
+- [[Перевод] Как код С выполняется на процессоре ARM: разбор ассемблера](https://habr.com/ru/companies/timeweb/articles/886208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886208)
 - [Новый дом для вашего бизнеса – переезд с Creatio на BPMSoft](https://habr.com/ru/articles/886350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886350)
-- [Базы данных в Kubernetes из коробки: реально ли развернуть кластер в пару кликов?](https://habr.com/ru/companies/dbraincloud/articles/886304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886304)
-- [Шесть шагов для правильной настройки прав доступа или как не потерять контроль над системой 1С](https://habr.com/ru/companies/korus_consulting/articles/886340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886340)
-- [Тренды на рынке труда в будущем](https://habr.com/ru/companies/ua-hosting/articles/886122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886122)
-- [[Перевод] Popover = hint](https://habr.com/ru/articles/886334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886334)
+- [Базы данных в Kubernetes из коробки: реально ли развернуть кластер в пару кликов? [ВИДЕО]](https://habr.com/ru/companies/dbraincloud/articles/886304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
