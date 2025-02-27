@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886538)
+- [Как я сдавал на сертификат ISTQB Foundation Level ver 4.0 удаленно &lpar;remote&rpar;](https://habr.com/ru/articles/886536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886536)
+- [Основные концепции сетевой архитектуры Kubernetes, а также CNI, Service Mesh и т.д](https://habr.com/ru/articles/886528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886528)
 - [Разработка пользовательских агрегатных функций для аналитики в MySQL](https://habr.com/ru/companies/otus/articles/886424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886424)
 - [Сканирование периметра компании VK с помощью open-source решений](https://habr.com/ru/companies/vk/articles/885976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885976)
-- [Кто проживает на дне океана? Рассказываем о подводных линиях связи](https://habr.com/ru/companies/selectel/articles/886326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886326)
-- [Почему дизайнер = инженер](https://habr.com/ru/companies/ru_mts/articles/886106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886106)
-- [Сколько денег теряет бизнес из-за плохого дизайна? Мы посчитали](https://habr.com/ru/companies/surfstudio/articles/886134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
