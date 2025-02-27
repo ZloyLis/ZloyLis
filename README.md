@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый дом для вашего бизнеса – переезд с Creatio на BPMSoft](https://habr.com/ru/articles/886350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886350)
+- [Базы данных в Kubernetes из коробки: реально ли развернуть кластер в пару кликов?](https://habr.com/ru/companies/dbraincloud/articles/886304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886304)
 - [Шесть шагов для правильной настройки прав доступа или как не потерять контроль над системой 1С](https://habr.com/ru/companies/korus_consulting/articles/886340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886340)
 - [Тренды на рынке труда в будущем](https://habr.com/ru/companies/ua-hosting/articles/886122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886122)
 - [[Перевод] Popover = hint](https://habr.com/ru/articles/886334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886334)
-- [Баги, которые мы заслужили: хроники фейлов в IT](https://habr.com/ru/articles/886332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886332)
-- [Теперь готовлю только так: перенос Drupal 8 в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/885596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
