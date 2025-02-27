@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка пользовательских агрегатных функций для аналитики в MySQL](https://habr.com/ru/companies/otus/articles/886424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886424)
 - [Сканирование периметра компании VK с помощью open-source решений](https://habr.com/ru/companies/vk/articles/885976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885976)
 - [Кто проживает на дне океана? Рассказываем о подводных линиях связи](https://habr.com/ru/companies/selectel/articles/886326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886326)
 - [Почему дизайнер = инженер](https://habr.com/ru/companies/ru_mts/articles/886106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886106)
 - [Сколько денег теряет бизнес из-за плохого дизайна? Мы посчитали](https://habr.com/ru/companies/surfstudio/articles/886134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886134)
-- [Самые быстрые алгоритмы распределенного и асинхронного обучения &lpar;с точки зрения теории&rpar;](https://habr.com/ru/companies/airi/articles/883266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
