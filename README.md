@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL 18: Часть 4 или Коммитфест 2025-01](https://habr.com/ru/companies/postgrespro/articles/886292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886292)
+- [Как сделать красивое резюме используя JSON](https://habr.com/ru/articles/883858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883858)
+- [Эффективный бэкграунд: организация стабильной фоновой работы в связке двух мобильных медтех приложений](https://habr.com/ru/articles/886132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886132)
 - [FlutterPulse: главные события недели 20.02-26.02.2025](https://habr.com/ru/articles/886268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886268)
 - [Самый подробный туториал с котами по межсистемной аутентификации для начинающих](https://habr.com/ru/companies/clevertec/articles/879654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879654)
-- [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885714)
-- [Модель C4 в Structurizr: шаблоны для системного аналитика](https://habr.com/ru/articles/886194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886194)
-- [Next.js 15 в Hikasami: Глубокая оптимизация рендеринга, загрузки данных и производительности](https://habr.com/ru/companies/hikasami/articles/886220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
