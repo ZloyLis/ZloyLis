@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как правильно мигрировать БД в продакшене с использованием Liquibase и Flyway](https://habr.com/ru/companies/spring_aio/articles/886240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886240)
-- [Вебаппки «Телеграма» пишутся проще ботов — показываю &lpar;20 минут — на развёртывание&rpar;](https://habr.com/ru/companies/h3llo_cloud/articles/886262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886262)
-- [[Перевод] Как код С выполняется на процессоре ARM: разбор ассемблера](https://habr.com/ru/companies/timeweb/articles/886208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886208)
-- [Новый дом для вашего бизнеса – переезд с Creatio на BPMSoft](https://habr.com/ru/articles/886350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886350)
-- [Базы данных в Kubernetes из коробки: реально ли развернуть кластер в пару кликов? [ВИДЕО]](https://habr.com/ru/companies/dbraincloud/articles/886304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886304)
+- [Сканирование периметра компании VK с помощью open-source решений](https://habr.com/ru/companies/vk/articles/885976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885976)
+- [Кто проживает на дне океана? Рассказываем о подводных линиях связи](https://habr.com/ru/companies/selectel/articles/886326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886326)
+- [Почему дизайнер = инженер](https://habr.com/ru/companies/ru_mts/articles/886106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886106)
+- [Сколько денег теряет бизнес из-за плохого дизайна? Мы посчитали](https://habr.com/ru/companies/surfstudio/articles/886134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886134)
+- [Самые быстрые алгоритмы распределенного и асинхронного обучения &lpar;с точки зрения теории&rpar;](https://habr.com/ru/companies/airi/articles/883266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
