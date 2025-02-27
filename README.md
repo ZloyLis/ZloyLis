@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 18: Часть 4 или Коммитфест 2025-01](https://habr.com/ru/companies/postgrespro/articles/886292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886292)
-- [Как сделать красивое резюме используя JSON](https://habr.com/ru/articles/883858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883858)
-- [Эффективный бэкграунд: организация стабильной фоновой работы в связке двух мобильных медтех приложений](https://habr.com/ru/articles/886132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886132)
-- [FlutterPulse: главные события недели 20.02-26.02.2025](https://habr.com/ru/articles/886268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886268)
-- [Самый подробный туториал с котами по межсистемной аутентификации для начинающих](https://habr.com/ru/companies/clevertec/articles/879654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879654)
+- [Шесть шагов для правильной настройки прав доступа или как не потерять контроль над системой 1С](https://habr.com/ru/companies/korus_consulting/articles/886340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886340)
+- [Тренды на рынке труда в будущем](https://habr.com/ru/companies/ua-hosting/articles/886122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886122)
+- [[Перевод] Popover = hint](https://habr.com/ru/articles/886334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886334)
+- [Баги, которые мы заслужили: хроники фейлов в IT](https://habr.com/ru/articles/886332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886332)
+- [Теперь готовлю только так: перенос Drupal 8 в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/885596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
