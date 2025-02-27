@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FlutterPulse: главные события недели 20.02-26.02.2025](https://habr.com/ru/articles/886268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886268)
+- [Самый подробный туториал с котами по межсистемной аутентификации для начинающих](https://habr.com/ru/companies/clevertec/articles/879654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879654)
 - [Centrifugo v6 + FastAPI + Python: разрабатываем веб-опросник с обновлениями в реальном времени](https://habr.com/ru/companies/amvera/articles/885714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885714)
 - [Модель C4 в Structurizr: шаблоны для системного аналитика](https://habr.com/ru/articles/886194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886194)
 - [Next.js 15 в Hikasami: Глубокая оптимизация рендеринга, загрузки данных и производительности](https://habr.com/ru/companies/hikasami/articles/886220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886220)
-- [Как автоматически отслеживать новости компаний по своему портфелю?](https://habr.com/ru/articles/883704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883704)
-- [Алгоритмы манипуляций с битами](https://habr.com/ru/articles/886182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
