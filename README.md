@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Clean Code: как сделать код читаемым и красивым](https://habr.com/ru/companies/reksoft/articles/886638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886638)
+- [3D Pose Estimation объектов фиксированной геометрии для складских роботов](https://habr.com/ru/companies/yandex/articles/886316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886316)
+- [Spinnaker](https://habr.com/ru/articles/886626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886626)
+- [Camunda на проде: восемь типичных ошибок](https://habr.com/ru/companies/haulmont/articles/886620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886620)
 - [Как пройти алгоритмическое собеседование: полный гид по алгоритмам, сложностям и стратегиям](https://habr.com/ru/articles/883030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883030)
-- [Структуры данных для подготовки к собеседованиям по алгоритмам](https://habr.com/ru/articles/879914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879914)
-- [Учимся Flask: как написать своё веб-приложение](https://habr.com/ru/companies/otus/articles/886390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886390)
-- [Что нового в IMSProg в 2025 году?](https://habr.com/ru/articles/886592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886592)
-- [Как стать идеальным студентом в онлайн-школе и слить все деньги](https://habr.com/ru/articles/886576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
