@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Полтора года с телефоном на «Авроре»: плюсы и минусы российской ОС с точки зрения обычного пользователя](https://habr.com/ru/articles/885748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885748)
+- [«Мне кажется, так неудобно» — как аргументировать дизайн-решение без исследований и конфликтов](https://habr.com/ru/companies/selectel/articles/886650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886650)
+- [Новые интересные диагностики в PVS-Studio 7.35](https://habr.com/ru/companies/pvs-studio/articles/886662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886662)
 - [Java Clean Code: как сделать код читаемым и красивым](https://habr.com/ru/companies/reksoft/articles/886638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886638)
 - [3D Pose Estimation объектов фиксированной геометрии для складских роботов](https://habr.com/ru/companies/yandex/articles/886316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886316)
-- [Spinnaker](https://habr.com/ru/articles/886626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886626)
-- [Camunda на проде: восемь типичных ошибок](https://habr.com/ru/companies/haulmont/articles/886620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886620)
-- [Как пройти алгоритмическое собеседование: полный гид по алгоритмам, сложностям и стратегиям](https://habr.com/ru/articles/883030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
