@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Смотрим на GigaIDE Cloud для Jupyter](https://habr.com/ru/articles/886464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886464)
-- [Разработка приложения с авторизацией пользователя Java 17 + SpringBoot 3.4 + Keycloak 26](https://habr.com/ru/articles/884358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884358)
-- [Создаем чат-бота для написания кода из нескольких модулей](https://habr.com/ru/articles/886580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886580)
-- [Протестировал две российские системы работы с кодом. Что у меня &lpar;не&rpar; получилось](https://habr.com/ru/articles/886192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886192)
-- [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886538)
+- [Как пройти алгоритмическое собеседование: полный гид по алгоритмам, сложностям и стратегиям](https://habr.com/ru/articles/883030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883030)
+- [Структуры данных для подготовки к собеседованиям по алгоритмам](https://habr.com/ru/articles/879914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879914)
+- [Учимся Flask: как написать своё веб-приложение](https://habr.com/ru/companies/otus/articles/886390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886390)
+- [Что нового в IMSProg в 2025 году?](https://habr.com/ru/articles/886592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886592)
+- [Как стать идеальным студентом в онлайн-школе и слить все деньги](https://habr.com/ru/articles/886576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
