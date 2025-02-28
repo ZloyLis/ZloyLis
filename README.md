@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что на радаре в Java: программа JPoint 2025](https://habr.com/ru/companies/jugru/articles/886492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886492)
-- [Миф о доказательном программировании без ошибок](https://habr.com/ru/articles/886774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886774)
-- [[Перевод] За каким чертом нам SpringExtension?](https://habr.com/ru/companies/spring_aio/articles/886700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886700)
-- [Можно ли спасти LinkedList? Пишем быстрый List на связном списке](https://habr.com/ru/articles/886710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886710)
-- [Репликация топиков Kafka: опыт и подводные камни использования MirrorMaker 2.0 в каршеринге](https://habr.com/ru/companies/citydrive/articles/886694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886694)
+- [WebSocket для начинающих системных аналитиков: просто о сложном. Часть 1](https://habr.com/ru/articles/886802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886802)
+- [[Перевод] API Mesh: Большой шаг вперед в распределенных бэкенд-системах](https://habr.com/ru/articles/886800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886800)
+- [Что в черном ящике, или Как разработчику понять, что требует оптимизации в БД PostgreSQL](https://habr.com/ru/companies/tbank/articles/886488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886488)
+- [Кривая эластичности в девелопменте и почему её не существует](https://habr.com/ru/articles/886786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886786)
+- [Конфигурирование кластерных систем с помощью Sparky и Rakulang](https://habr.com/ru/articles/886660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
