@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Протестировал две российские системы работы с кодом. Что у меня &lpar;не&rpar; получилось](https://habr.com/ru/articles/886192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886192)
 - [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886538)
 - [Как проходил экзамен на ISTQB Foundation Level ver 4.0 удаленно &lpar;remote&rpar;](https://habr.com/ru/articles/886536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886536)
 - [Основные концепции сетевой архитектуры Kubernetes, а также CNI, Service Mesh и т.д](https://habr.com/ru/articles/886528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886528)
 - [Разработка пользовательских агрегатных функций для аналитики в MySQL](https://habr.com/ru/companies/otus/articles/886424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886424)
-- [Сканирование периметра компании VK с помощью open-source решений](https://habr.com/ru/companies/vk/articles/885976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
