@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть против ДТП: как мы разработали искусственный интеллект, чтобы обезопасить поездки в автобусе](https://habr.com/ru/articles/886780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886780)
 - [История о том, как мы в ОК упрощали процесс создания API](https://habr.com/ru/companies/vk/articles/886730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886730)
 - [Эффективное межпроцессное взаимодействие с использованием IPC и Shared Memory](https://habr.com/ru/articles/829334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829334)
 - [Как использовать Cline и Roo Code в качестве AI-ассистента для кода?](https://habr.com/ru/companies/bothub/articles/881248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881248)
 - [Революция в тестировании: от традиционного подхода к интеллектуальной эволюции](https://habr.com/ru/companies/axenix/articles/886596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886596)
-- [Marigold-DC](https://habr.com/ru/articles/886204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
