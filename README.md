@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] За каким чертом нам SpringExtension?](https://habr.com/ru/companies/spring_aio/articles/886700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886700)
+- [Можно ли спасти LinkedList? Пишем быстрый List на связном списке](https://habr.com/ru/articles/886710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886710)
+- [Репликация топиков Kafka: опыт и подводные камни использования MirrorMaker 2.0 в каршеринге](https://habr.com/ru/companies/citydrive/articles/886694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886694)
 - [Тимлид или ведущий дейликов?](https://habr.com/ru/articles/877580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877580)
 - [[Перевод] Изучаем программирование шейдеров с Риком и Морти](https://habr.com/ru/articles/880352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880352)
-- [Полтора года с телефоном на «Авроре»: плюсы и минусы российской ОС с точки зрения обычного пользователя](https://habr.com/ru/articles/885748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885748)
-- [«Мне кажется, так неудобно» — как аргументировать дизайн-решение без исследований и конфликтов](https://habr.com/ru/companies/selectel/articles/886650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886650)
-- [Новые интересные диагностики в PVS-Studio 7.35](https://habr.com/ru/companies/pvs-studio/articles/886662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
