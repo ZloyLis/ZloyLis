@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket для начинающих системных аналитиков: просто о сложном. Часть 1](https://habr.com/ru/articles/886802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886802)
-- [[Перевод] API Mesh: Большой шаг вперед в распределенных бэкенд-системах](https://habr.com/ru/articles/886800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886800)
-- [Что в черном ящике, или Как разработчику понять, что требует оптимизации в БД PostgreSQL](https://habr.com/ru/companies/tbank/articles/886488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886488)
-- [Кривая эластичности в девелопменте и почему её не существует](https://habr.com/ru/articles/886786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886786)
-- [Конфигурирование кластерных систем с помощью Sparky и Rakulang](https://habr.com/ru/articles/886660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886660)
+- [История о том, как мы в ОК упрощали процесс создания API](https://habr.com/ru/companies/vk/articles/886730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886730)
+- [Эффективное межпроцессное взаимодействие с использованием IPC и Shared Memory](https://habr.com/ru/articles/829334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=829334)
+- [Как использовать Cline и Roo Code в качестве AI-ассистента для кода?](https://habr.com/ru/companies/bothub/articles/881248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=881248)
+- [Революция в тестировании: от традиционного подхода к интеллектуальной эволюции](https://habr.com/ru/companies/axenix/articles/886596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886596)
+- [Marigold-DC](https://habr.com/ru/articles/886204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
