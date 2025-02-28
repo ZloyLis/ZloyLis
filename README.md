@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Смотрим на GigaIDE Cloud для Jupyter](https://habr.com/ru/articles/886464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886464)
+- [Разработка приложения с авторизацией пользователя Java 17 + SpringBoot 3.4 + Keycloak 26](https://habr.com/ru/articles/884358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884358)
+- [Создаем чат-бота для написания кода из нескольких модулей](https://habr.com/ru/articles/886580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886580)
 - [Протестировал две российские системы работы с кодом. Что у меня &lpar;не&rpar; получилось](https://habr.com/ru/articles/886192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886192)
 - [[Перевод] Как конфигурировать Git](https://habr.com/ru/articles/886538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886538)
-- [Как проходил экзамен на ISTQB Foundation Level ver 4.0 удаленно &lpar;remote&rpar;](https://habr.com/ru/articles/886536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886536)
-- [Основные концепции сетевой архитектуры Kubernetes, а также CNI, Service Mesh и т.д](https://habr.com/ru/articles/886528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886528)
-- [Разработка пользовательских агрегатных функций для аналитики в MySQL](https://habr.com/ru/companies/otus/articles/886424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
