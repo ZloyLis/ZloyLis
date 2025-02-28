@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что на радаре в Java: программа JPoint 2025](https://habr.com/ru/companies/jugru/articles/886492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886492)
+- [Миф о доказательном программировании без ошибок](https://habr.com/ru/articles/886774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886774)
 - [[Перевод] За каким чертом нам SpringExtension?](https://habr.com/ru/companies/spring_aio/articles/886700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886700)
 - [Можно ли спасти LinkedList? Пишем быстрый List на связном списке](https://habr.com/ru/articles/886710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886710)
 - [Репликация топиков Kafka: опыт и подводные камни использования MirrorMaker 2.0 в каршеринге](https://habr.com/ru/companies/citydrive/articles/886694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886694)
-- [Тимлид или ведущий дейликов?](https://habr.com/ru/articles/877580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=877580)
-- [[Перевод] Изучаем программирование шейдеров с Риком и Морти](https://habr.com/ru/articles/880352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=880352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
