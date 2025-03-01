@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследуем возможности ИИ писать код. Часть 1](https://habr.com/ru/articles/886960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886960)
+- [Методы распознавания матерных &lpar;и не только&rpar; языков](https://habr.com/ru/companies/doubletapp/articles/886832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886832)
 - [HTTP-сервер на Go](https://habr.com/ru/articles/886766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886766)
 - [Лучшие статьи Хабра в феврале 2025 года](https://habr.com/ru/articles/885308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885308)
 - [Game++. Building arcs](https://habr.com/ru/articles/885780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885780)
-- [[Перевод] OAuth 2.0](https://habr.com/ru/companies/beget/articles/886874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886874)
-- [GO: Как и почему мы отказались от Nest.JS](https://habr.com/ru/companies/hikasami/articles/886862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
