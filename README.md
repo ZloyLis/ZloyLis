@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Общий обзор Telegram Mini App: особенности, преимущества, ограничения и примеры](https://habr.com/ru/articles/886864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886864)
+- [От input&lpar;&rpar; к UI после вводного курса по Python](https://habr.com/ru/articles/884864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884864)
 - [Борьба с HM70](https://habr.com/ru/articles/886978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886978)
 - [Spring Now 2025 – Главная конференция про Spring на русском языке](https://habr.com/ru/companies/spring_aio/articles/886906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886906)
 - [Успешная атака по кусочкам: тестируем фреймворки кибербезопастности MITRE ATT&amp;amp;CK и Cyber Kill Chain](https://habr.com/ru/articles/886972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886972)
-- [Утренний рефакторинг с Дженной Ортегой*](https://habr.com/ru/articles/886890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886890)
-- [Virtual generated columns в PostgreSQL 18](https://habr.com/ru/articles/886970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
