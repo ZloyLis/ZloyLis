@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Task Parallel Library в C#](https://habr.com/ru/companies/otus/articles/886578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886578)
 - [Общий обзор Telegram Mini App: особенности, преимущества, ограничения и примеры](https://habr.com/ru/articles/886864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886864)
 - [От input&lpar;&rpar; к UI после вводного курса по Python](https://habr.com/ru/articles/884864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884864)
 - [Борьба с HM70](https://habr.com/ru/articles/886978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886978)
 - [Spring Now 2025 – Главная конференция про Spring на русском языке](https://habr.com/ru/companies/spring_aio/articles/886906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886906)
-- [Успешная атака по кусочкам: тестируем фреймворки кибербезопастности MITRE ATT&amp;amp;CK и Cyber Kill Chain](https://habr.com/ru/articles/886972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
