@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4.5 для разработчиков: что нового, как интегрировать и использовать в бизнесе](https://habr.com/ru/articles/887032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887032)
 - [Unihertz Titan — лучший QWERTY-смартфон в 2025 году?](https://habr.com/ru/companies/timeweb/articles/886226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886226)
 - [Как работать с cookie в Go: безопасное хранение и управление сессиями](https://habr.com/ru/articles/887014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887014)
 - [Task Parallel Library в C#](https://habr.com/ru/companies/otus/articles/886578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886578)
 - [Общий обзор Telegram Mini App: особенности, преимущества, ограничения и примеры](https://habr.com/ru/articles/886864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886864)
-- [От input&lpar;&rpar; к UI после вводного курса по Python](https://habr.com/ru/articles/884864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=884864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
