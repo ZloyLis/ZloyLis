@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP-сервер на Go](https://habr.com/ru/articles/886766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886766)
 - [Лучшие статьи Хабра в феврале 2025 года](https://habr.com/ru/articles/885308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885308)
 - [Game++. Building arcs](https://habr.com/ru/articles/885780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885780)
 - [[Перевод] OAuth 2.0](https://habr.com/ru/companies/beget/articles/886874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886874)
 - [GO: Как и почему мы отказались от Nest.JS](https://habr.com/ru/companies/hikasami/articles/886862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886862)
-- [Нейросеть против ДТП: как мы разработали искусственный интеллект, чтобы обезопасить поездки в автобусе](https://habr.com/ru/articles/886780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
