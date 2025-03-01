@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследуем возможности ИИ писать код. Часть 1](https://habr.com/ru/articles/886960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886960)
-- [Методы распознавания матерных &lpar;и не только&rpar; языков](https://habr.com/ru/companies/doubletapp/articles/886832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886832)
-- [HTTP-сервер на Go](https://habr.com/ru/articles/886766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886766)
-- [Лучшие статьи Хабра в феврале 2025 года](https://habr.com/ru/articles/885308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885308)
-- [Game++. Building arcs](https://habr.com/ru/articles/885780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=885780)
+- [Борьба с HM70](https://habr.com/ru/articles/886978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886978)
+- [Spring Now 2025 – Главная конференция про Spring на русском языке](https://habr.com/ru/companies/spring_aio/articles/886906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886906)
+- [Успешная атака по кусочкам: тестируем фреймворки кибербезопастности MITRE ATT&amp;amp;CK и Cyber Kill Chain](https://habr.com/ru/articles/886972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886972)
+- [Утренний рефакторинг с Дженной Ортегой*](https://habr.com/ru/articles/886890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886890)
+- [Virtual generated columns в PostgreSQL 18](https://habr.com/ru/articles/886970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
