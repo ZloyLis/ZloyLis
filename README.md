@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ну заяц погоди! Или противрактеная оборона для самых маленьких евреев и не только. Часть 2](https://habr.com/ru/articles/887252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887252)
 - [Ramda.js — библиотека, которая избавит вас от reduce и map-каши](https://habr.com/ru/companies/otus/articles/886512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886512)
 - [Системы work management: выбор решения для команды](https://habr.com/ru/articles/887238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887238)
 - [Руководство по Use Cases](https://habr.com/ru/articles/887224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887224)
 - [Есть ли open source в университетах — рассказывает Михаил Гущин, лидер сообщества «Открытый код ФКН ВШЭ»](https://habr.com/ru/articles/887010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887010)
-- [Web 3 как замена Web 2 в стандартных задачах и есть ли в этом смысл](https://habr.com/ru/articles/887208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
