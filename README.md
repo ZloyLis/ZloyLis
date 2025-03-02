@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 3200% нагрузки на процессор](https://habr.com/ru/articles/887040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887040)
+- [Мобильная разработка за неделю #577 &lpar;24 февраля — 2 марта&rpar;](https://habr.com/ru/articles/887184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887184)
 - [Реализация постквантовых алгоритмов на Java и Go](https://habr.com/ru/companies/globalsign/articles/887178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887178)
 - [[Перевод] 20 лет работы над одним продуктом](https://habr.com/ru/companies/ruvds/articles/886284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886284)
 - [Сортируем сотни млн строк в разы быстрее библиотечных алгоритмов. А не замахнуться ли нам на ммм… на O&lpar;n&rpar;?](https://habr.com/ru/companies/alfa/articles/887064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887064)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за февраль 2025 года](https://habr.com/ru/articles/887044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887044)
-- [GPT-4.5 для разработчиков: что нового, как интегрировать и использовать в бизнесе](https://habr.com/ru/articles/887032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
