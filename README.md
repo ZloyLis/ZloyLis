@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Руководство по Use Cases](https://habr.com/ru/articles/887224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887224)
+- [Есть ли open source в университетах — рассказывает Михаил Гущин, лидер сообщества «Открытый код ФКН ВШЭ»](https://habr.com/ru/articles/887010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887010)
 - [Web 3 как замена Web 2 в стандартных задачах и есть ли в этом смысл](https://habr.com/ru/articles/887208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887208)
 - [Болевые точки платформы TOGAF](https://habr.com/ru/companies/otus/articles/879092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=879092)
 - [Symfony + React: Основные проблемы и методы их решения](https://habr.com/ru/articles/887200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887200)
-- [[Перевод] 3200% нагрузки на процессор](https://habr.com/ru/articles/887040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887040)
-- [Мобильная разработка за неделю #577 &lpar;24 февраля — 2 марта&rpar;](https://habr.com/ru/articles/887184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
