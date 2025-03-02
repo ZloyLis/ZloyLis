@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Symfony + React: Основные проблемы и методы их решения](https://habr.com/ru/articles/887200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887200)
 - [[Перевод] 3200% нагрузки на процессор](https://habr.com/ru/articles/887040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887040)
 - [Мобильная разработка за неделю #577 &lpar;24 февраля — 2 марта&rpar;](https://habr.com/ru/articles/887184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887184)
 - [Реализация постквантовых алгоритмов на Java и Go](https://habr.com/ru/companies/globalsign/articles/887178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887178)
 - [[Перевод] 20 лет работы над одним продуктом](https://habr.com/ru/companies/ruvds/articles/886284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886284)
-- [Сортируем сотни млн строк в разы быстрее библиотечных алгоритмов. А не замахнуться ли нам на ммм… на O&lpar;n&rpar;?](https://habr.com/ru/companies/alfa/articles/887064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
