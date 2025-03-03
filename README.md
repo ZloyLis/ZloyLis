@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ProcaaS в бэкенде: как этот принцип помогает заказам выживать](https://habr.com/ru/companies/yandex/articles/886608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886608)
+- [SQL HowTo: динамическое программирование &lpar;Advent of Code 2024, Day 19: Linen Layout&rpar;](https://habr.com/ru/companies/tensor/articles/887300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887300)
+- [В закладки: что нужно знать и уметь дата-инженеру](https://habr.com/ru/companies/yandex_praktikum/articles/886072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886072)
 - [Coil и Yandex MapKit KMP: рисуем аватарки на карте. Часть 3](https://habr.com/ru/articles/887090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887090)
 - [Delight SQL Viewer: отладка SQLDelight-базы прямо в приложении](https://habr.com/ru/articles/886214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886214)
-- [Uniswap v3: самые неочевидные моменты логики](https://habr.com/ru/articles/882916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=882916)
-- [Ну заяц погоди! Или противорактеная оборона для самых маленьких евреев и не только. Часть 2](https://habr.com/ru/articles/887252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887252)
-- [Ramda.js — библиотека, которая избавит вас от reduce и map-каши](https://habr.com/ru/companies/otus/articles/886512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
