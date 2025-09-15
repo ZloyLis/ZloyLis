@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ProcaaS в бэкенде: как этот принцип помогает заказам выживать](https://habr.com/ru/companies/yandex/articles/886608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886608)
-- [SQL HowTo: динамическое программирование &lpar;Advent of Code 2024, Day 19: Linen Layout&rpar;](https://habr.com/ru/companies/tensor/articles/887300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887300)
-- [В закладки: что нужно знать и уметь дата-инженеру](https://habr.com/ru/companies/yandex_praktikum/articles/886072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886072)
-- [Coil и Yandex MapKit KMP: рисуем аватарки на карте. Часть 3](https://habr.com/ru/articles/887090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=887090)
-- [Delight SQL Viewer: отладка SQLDelight-базы прямо в приложении](https://habr.com/ru/articles/886214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=886214)
+- [[Перевод] Объяснение замощения мозаикой Пенроуза](https://habr.com/ru/articles/947046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947046)
+- [Готовим HLD или «Каша из топора»](https://habr.com/ru/companies/megafon/articles/946942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946942)
+- [Clean Fury: эволюция одного Node.js сервиса](https://habr.com/ru/articles/946606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946606)
+- [Почему новое оборудование ломается так же, как старое](https://habr.com/ru/companies/sibur_official/articles/946996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946996)
+- [Да, было: большая подборка IT-факапов ко Дню программиста](https://habr.com/ru/companies/flowwow/articles/946980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
