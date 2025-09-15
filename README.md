@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Бенджамин Вуттон «Микросервисы — не бесплатный сыр!»](https://habr.com/ru/articles/947158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947158)
 - [Prompt Engineering: Паттерны проектирования. Часть 1 — XML теги](https://habr.com/ru/articles/946944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946944)
 - [[Перевод] Непостижимая эффективность современных алгоритмов сортировки](https://habr.com/ru/articles/946830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946830)
 - [Emoji PHP — смайлики в вашем проекте](https://habr.com/ru/articles/947094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947094)
 - [[Перевод] Postgres Pro TDE — security and performance](https://habr.com/ru/companies/postgrespro/articles/943590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943590)
-- [Как получить и использовать бесплатную лицензию PVS-Studio на практике. Часть 1: подготовка и начало работы](https://habr.com/ru/companies/pvs-studio/articles/947098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
