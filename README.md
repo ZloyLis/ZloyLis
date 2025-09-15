@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я заменил диалоги в Animal Crossing на нейросеть, взломав память GameCube](https://habr.com/ru/companies/bothub/articles/946644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946644)
+- [Таски есть, системы нет: о ключевой проблеме](https://habr.com/ru/articles/947050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947050)
+- [Почему ваш тренинг не работает: педагогика vs андрагогика в IT](https://habr.com/ru/companies/basis/articles/946418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946418)
 - [[Перевод] Объяснение замощения мозаикой Пенроуза](https://habr.com/ru/articles/947046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947046)
 - [Готовим HLD или «Каша из топора»](https://habr.com/ru/companies/megafon/articles/946942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946942)
-- [Clean Fury: эволюция одного Node.js сервиса](https://habr.com/ru/articles/946606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946606)
-- [Почему новое оборудование ломается так же, как старое](https://habr.com/ru/companies/sibur_official/articles/946996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946996)
-- [Да, было: большая подборка IT-факапов ко Дню программиста](https://habr.com/ru/companies/flowwow/articles/946980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
