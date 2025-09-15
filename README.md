@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Я заменил диалоги в Animal Crossing на нейросеть, взломав память GameCube](https://habr.com/ru/companies/bothub/articles/946644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946644)
-- [Таски есть, системы нет: о ключевой проблеме](https://habr.com/ru/articles/947050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947050)
-- [Почему ваш тренинг не работает: педагогика vs андрагогика в IT](https://habr.com/ru/companies/basis/articles/946418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946418)
-- [[Перевод] Объяснение замощения мозаикой Пенроуза](https://habr.com/ru/articles/947046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947046)
-- [Готовим HLD или «Каша из топора»](https://habr.com/ru/companies/megafon/articles/946942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946942)
+- [Как получить и использовать бесплатную лицензию PVS-Studio на практике. Часть 1: подготовка и начало работы](https://habr.com/ru/companies/pvs-studio/articles/947098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947098)
+- [Изучение Python в детском возрасте: подходы, инструменты, перспективы](https://habr.com/ru/companies/pixel_study/articles/947096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947096)
+- [Создание игр на Unity: как проходят курсы для детей и чему они учат](https://habr.com/ru/companies/pixel_study/articles/947092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947092)
+- [Какие учебники выбрать для самостоятельного изучения английского](https://habr.com/ru/companies/yandex_praktikum/articles/947066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947066)
+- [Главные тренды фронтенда в 2025 году: AI, архитектура, PWA и многое другое](https://habr.com/ru/companies/oleg-bunin/articles/947076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
