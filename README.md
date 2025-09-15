@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering: Паттерны проектирования. Часть 1 — XML теги](https://habr.com/ru/articles/946944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946944)
+- [[Перевод] Непостижимая эффективность современных алгоритмов сортировки](https://habr.com/ru/articles/946830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946830)
 - [Emoji PHP — смайлики в вашем проекте](https://habr.com/ru/articles/947094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947094)
 - [[Перевод] Postgres Pro TDE — security and performance](https://habr.com/ru/companies/postgrespro/articles/943590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943590)
 - [Как получить и использовать бесплатную лицензию PVS-Studio на практике. Часть 1: подготовка и начало работы](https://habr.com/ru/companies/pvs-studio/articles/947098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947098)
-- [Изучение Python в детском возрасте: подходы, инструменты, перспективы](https://habr.com/ru/companies/pixel_study/articles/947096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947096)
-- [Создание игр на Unity: как проходят курсы для детей и чему они учат](https://habr.com/ru/companies/pixel_study/articles/947092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
