@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Распродажа в издательстве «Питер»](https://habr.com/ru/companies/piter/articles/947354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947354)
+- [Что такое Google Tag Manager в действительности и почему в 2025 от него придется уйти](https://habr.com/ru/articles/947466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947466)
+- [[Перевод] Хватит валидировать CLI — сначала лучше распарсите код как следует](https://habr.com/ru/articles/947450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947450)
+- [Java 25 выходит уже сегодня](https://habr.com/ru/companies/spring_aio/articles/947420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947420)
 - [2 причины смертельной болезни проекта: устаревшие технологии и монополия на знания. Рассказываем, как это лечить](https://habr.com/ru/companies/surfstudio/articles/947362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947362)
-- [[Перевод] Лидерство в тестировании: обеспечение бизнес-процессов предприятия](https://habr.com/ru/articles/945074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945074)
-- [Распределённая батчевая обработка данных: как мы решали проблему гонок в продакшене](https://habr.com/ru/companies/ozonbank/articles/944882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944882)
-- [Будущее системного анализа: три сценария роста профессии сквозь исследование McKinsey](https://habr.com/ru/articles/947412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947412)
-- [[Перевод] Оценка сроков выполнения задач: покоряем закон Хофштадтера](https://habr.com/ru/companies/wunderfund/articles/947386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
