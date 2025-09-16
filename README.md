@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что если представить habr в виде obsidian-графа?](https://habr.com/ru/articles/947226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947226)
 - [Кольца Барромео и один забавный алгоритмический баг](https://habr.com/ru/articles/947202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947202)
 - [[Перевод] SSL-сертификаты в 2025: самый прибыльный развод в истории интернета](https://habr.com/ru/articles/947178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947178)
 - [[Перевод] Бенджамин Вуттон «Микросервисы — не бесплатный сыр!»](https://habr.com/ru/articles/947158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947158)
 - [Prompt Engineering: Паттерны проектирования. Часть 1 — XML теги](https://habr.com/ru/articles/946944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946944)
-- [[Перевод] Непостижимая эффективность современных алгоритмов сортировки](https://habr.com/ru/articles/946830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
