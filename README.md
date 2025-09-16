@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Система поддержки принятия решений на складе с GigaСhat](https://habr.com/ru/articles/947244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947244)
+- [Онлайн-формы с распознаванием речи, виджет сбора идей от пользователей сайта – и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/947084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947084)
 - [Что если представить habr в виде obsidian-графа?](https://habr.com/ru/articles/947226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947226)
 - [Кольца Барромео и один забавный алгоритмический баг](https://habr.com/ru/articles/947202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947202)
 - [[Перевод] SSL-сертификаты в 2025: самый прибыльный развод в истории интернета](https://habr.com/ru/articles/947178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947178)
-- [[Перевод] Бенджамин Вуттон «Микросервисы — не бесплатный сыр!»](https://habr.com/ru/articles/947158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947158)
-- [Prompt Engineering: Паттерны проектирования. Часть 1 — XML теги](https://habr.com/ru/articles/946944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
