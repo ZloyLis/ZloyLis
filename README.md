@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли написать книгу по информационным технологиям, заработать и стать известным?](https://habr.com/ru/articles/947538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947538)
 - [Расширяем возможности GitHub Copilot для IDEA или как писать unit-тесты в пару кликов](https://habr.com/ru/companies/cian/articles/920328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=920328)
 - [Как Swift Runtime влияет на производительность iOS-приложений](https://habr.com/ru/companies/tbank/articles/947486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947486)
 - [У нас было 10k метрик, 500 А/В-экспериментов и 500kk p-value каждый день…](https://habr.com/ru/companies/avito/articles/947358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947358)
 - [Рекомендации историй ВКонтакте: от простой эвристики до ML-системы](https://habr.com/ru/companies/vk/articles/947456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947456)
-- [Оцениваем «естественность» изображений по первой цифре](https://habr.com/ru/articles/947506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
