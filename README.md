@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [2 причины смертельной болезни проекта: устаревшие технологии и монополия на знания. Рассказываем, как это лечить](https://habr.com/ru/companies/surfstudio/articles/947362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947362)
+- [[Перевод] Лидерство в тестировании: обеспечение бизнес-процессов предприятия](https://habr.com/ru/articles/945074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945074)
+- [Распределённая батчевая обработка данных: как мы решали проблему гонок в продакшене](https://habr.com/ru/companies/ozonbank/articles/944882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944882)
+- [Будущее системного анализа: три сценария роста профессии сквозь исследование McKinsey](https://habr.com/ru/articles/947412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947412)
 - [[Перевод] Оценка сроков выполнения задач: покоряем закон Хофштадтера](https://habr.com/ru/companies/wunderfund/articles/947386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947386)
-- [Агрегация и парсинг XML RSS ленты на Python](https://habr.com/ru/companies/amvera/articles/947318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947318)
-- [Гений Пифагора: почему в рекурсивно-вычисляемом клеточном автомате Вселенной наше сознание бессмертно?](https://habr.com/ru/articles/945820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945820)
-- [Трейсинг в hh.ru: как мы выросли от 1 тысячи до 1 миллиона событий в секунду без семплирования](https://habr.com/ru/companies/hh/articles/939754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=939754)
-- [OWASP Top Ten 2021 через простые примеры на Java. И немного про SAST](https://habr.com/ru/companies/pvs-studio/articles/947332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
