@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Давайте разорим школы дизайна?](https://habr.com/ru/companies/alfa/articles/945440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945440)
+- [Event Driven Design и ksqlDB](https://habr.com/ru/articles/947308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947308)
+- [[Перевод] Разработка RESTful API на Go и Gin](https://habr.com/ru/articles/944748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944748)
+- [Искусственный интеллект в руках детей: как Gen Alpha создаёт будущее через ИИ-инструменты](https://habr.com/ru/articles/947238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947238)
 - [Не все котам масленица: о чем надо задуматься разработчикам, чтобы сохранить текущий уровень достатка](https://habr.com/ru/companies/ru_mts/articles/946960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946960)
-- [Как я научил Jetpack Compose показывать рекомпозиции в реальном времени](https://habr.com/ru/companies/yandex/articles/945276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945276)
-- [Prompt Engineering: Паттерны проектирования. Часть 2 — ToDo list](https://habr.com/ru/articles/947212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947212)
-- [Zod-valid. Безопасная валидация API данных](https://habr.com/ru/articles/947252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947252)
-- [Новый подход численного моделирования поможет сделать железнодорожные перевозки безопасными](https://habr.com/ru/articles/944392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
