@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширяем возможности GitHub Copilot для IDEA или как писать unit-тесты в пару кликов](https://habr.com/ru/companies/cian/articles/920328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=920328)
+- [Как Swift Runtime влияет на производительность iOS-приложений](https://habr.com/ru/companies/tbank/articles/947486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947486)
 - [У нас было 10k метрик, 500 А/В-экспериментов и 500kk p-value каждый день…](https://habr.com/ru/companies/avito/articles/947358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947358)
+- [Рекомендации историй ВКонтакте: от простой эвристики до ML-системы](https://habr.com/ru/companies/vk/articles/947456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947456)
 - [Оцениваем «естественность» изображений по первой цифре](https://habr.com/ru/articles/947506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947506)
-- [Коллекция полезных HTML и CSS фич, которые редко используются](https://habr.com/ru/companies/ruvds/articles/946052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946052)
-- [Как мы создали браузерное расширение для возвращения 1080p на Твич](https://habr.com/ru/companies/ggsel/articles/947052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947052)
-- [[Перевод] Ускорение крупномасштабной миграции тестов с помощью LLM](https://habr.com/ru/companies/otus/articles/947298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
