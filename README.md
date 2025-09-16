@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не все котам масленица: о чем надо задуматься разработчикам, чтобы сохранить текущий уровень достатка](https://habr.com/ru/companies/ru_mts/articles/946960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946960)
+- [Как я научил Jetpack Compose показывать рекомпозиции в реальном времени](https://habr.com/ru/companies/yandex/articles/945276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945276)
+- [Prompt Engineering: Паттерны проектирования. Часть 2 — ToDo list](https://habr.com/ru/articles/947212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947212)
 - [Zod-valid. Безопасная валидация API данных](https://habr.com/ru/articles/947252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947252)
 - [Новый подход численного моделирования поможет сделать железнодорожные перевозки безопасными](https://habr.com/ru/articles/944392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944392)
-- [AI-ассистент в мире кода: как стать пилотом, а не пассажиром](https://habr.com/ru/companies/yandex_praktikum/articles/944998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944998)
-- [[Перевод] Возвращение LTS: ты не пройдёшь… мимо новых фич Java 25](https://habr.com/ru/companies/T1Holding/articles/946778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946778)
-- [[Перевод] Одноразовый вейп в качестве веб-сервера](https://habr.com/ru/articles/947248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
