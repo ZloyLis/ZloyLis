@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Давайте разорим школы дизайна?](https://habr.com/ru/companies/alfa/articles/945440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945440)
-- [Event Driven Design и ksqlDB](https://habr.com/ru/articles/947308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947308)
-- [[Перевод] Разработка RESTful API на Go и Gin](https://habr.com/ru/articles/944748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944748)
-- [Искусственный интеллект в руках детей: как Gen Alpha создаёт будущее через ИИ-инструменты](https://habr.com/ru/articles/947238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947238)
-- [Не все котам масленица: о чем надо задуматься разработчикам, чтобы сохранить текущий уровень достатка](https://habr.com/ru/companies/ru_mts/articles/946960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946960)
+- [Агрегация и парсинг XML RSS ленты на Python](https://habr.com/ru/companies/amvera/articles/947318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947318)
+- [Гений Пифагора: почему в рекурсивно-вычисляемом клеточном автомате Вселенной наше сознание бессмертно?](https://habr.com/ru/articles/945820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945820)
+- [Трейсинг в hh.ru: как мы выросли от 1 тысячи до 1 миллиона событий в секунду без семплирования](https://habr.com/ru/companies/oleg-bunin/articles/939754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=939754)
+- [OWASP Top Ten 2021 через простые примеры на Java. И немного про SAST](https://habr.com/ru/companies/pvs-studio/articles/947332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947332)
+- [[Перевод] Вышла GPT-5-Codex: код-ревью, рефакторинг и агентные задачи](https://habr.com/ru/articles/947328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
