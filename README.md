@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Система поддержки принятия решений на складе с GigaСhat](https://habr.com/ru/articles/947244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947244)
-- [Онлайн-формы с распознаванием речи, виджет сбора идей от пользователей сайта – и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/947084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947084)
-- [Что если представить habr в виде obsidian-графа?](https://habr.com/ru/articles/947226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947226)
-- [Кольца Барромео и один забавный алгоритмический баг](https://habr.com/ru/articles/947202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947202)
-- [[Перевод] SSL-сертификаты в 2025: самый прибыльный развод в истории интернета](https://habr.com/ru/articles/947178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947178)
+- [Zod-valid. Безопасная валидация API данных](https://habr.com/ru/articles/947252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947252)
+- [Новый подход численного моделирования поможет сделать железнодорожные перевозки безопасными](https://habr.com/ru/articles/944392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944392)
+- [AI-ассистент в мире кода: как стать пилотом, а не пассажиром](https://habr.com/ru/companies/yandex_praktikum/articles/944998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944998)
+- [[Перевод] Возвращение LTS: ты не пройдёшь… мимо новых фич Java 25](https://habr.com/ru/companies/T1Holding/articles/946778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946778)
+- [[Перевод] Одноразовый вейп в качестве веб-сервера](https://habr.com/ru/articles/947248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
