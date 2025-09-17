@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tableau-дашборды для аналитика данных: бесплатные курсы, видео и порция вдохновения](https://habr.com/ru/companies/yandex_praktikum/articles/946994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946994)
+- [Программисты против ИИ и low-code: кто кого заменит](https://habr.com/ru/articles/947560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947560)
+- [«Трактор или лопата?» — разбираем главные мифы и проблемы low-code платформ](https://habr.com/ru/articles/947542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947542)
 - [Как я шахматного бота писал](https://habr.com/ru/articles/947640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947640)
 - [На грани открытия: ключ к квантовой теории гравитации может быть найден в гармоническом суперпространстве](https://habr.com/ru/articles/947620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947620)
-- [Вариабельность сердечного ритма для всех: Apple Watch + iPhone + ChatGPT](https://habr.com/ru/articles/947618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947618)
-- [Что выяснили про ChatGPT: первые реальные данные несколько удивляют](https://habr.com/ru/articles/947598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947598)
-- [Можно ли написать книгу по информационным технологиям, заработать и стать известным?](https://habr.com/ru/articles/947538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
