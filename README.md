@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [История создания Tarantool DB: реальные проблемы, удачные решения и превращение проекта в продукт](https://habr.com/ru/companies/vktech/articles/947714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947714)
+- [DOOH и RTB: как Russ развивает программатические закупки в наружной рекламе](https://habr.com/ru/companies/wildberries/articles/947376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947376)
+- [Не LLM едиными: генерируем юнит-тесты из реального исполнения на лету](https://habr.com/ru/companies/explyt/articles/947856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947856)
+- [Self-modifying SQL: динамическое изменение SQL-кода в процессе выполнения](https://habr.com/ru/companies/ppr/articles/947852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947852)
+- [История создания Tarantool DB: реальные проблемы, удачные решения и превращение проекта в продукт](https://habr.com/ru/companies/vk/articles/947714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947714)
 - [Снова в айти или мой опыт обучения на ручного QA](https://habr.com/ru/articles/947842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947842)
-- [Подключаем Claude по MCP к базе данных на домашнем компьютере](https://habr.com/ru/articles/947818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947818)
-- [[Перевод] Как Node.js выжимает максимум из I/O в 2025 году](https://habr.com/ru/articles/947524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947524)
-- [Интеграционные тесты в Go: как избавиться от флаков и боли](https://habr.com/ru/companies/netologyru/articles/947796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
