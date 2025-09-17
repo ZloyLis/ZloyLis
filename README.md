@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я шахматного бота писал](https://habr.com/ru/articles/947640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947640)
 - [На грани открытия: ключ к квантовой теории гравитации может быть найден в гармоническом суперпространстве](https://habr.com/ru/articles/947620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947620)
 - [Вариабельность сердечного ритма для всех: Apple Watch + iPhone + ChatGPT](https://habr.com/ru/articles/947618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947618)
 - [Что выяснили про ChatGPT: первые реальные данные несколько удивляют](https://habr.com/ru/articles/947598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947598)
 - [Можно ли написать книгу по информационным технологиям, заработать и стать известным?](https://habr.com/ru/articles/947538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947538)
-- [Расширяем возможности GitHub Copilot для IDEA или как писать unit-тесты в пару кликов](https://habr.com/ru/companies/cian/articles/920328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=920328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
