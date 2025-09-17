@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История создания Tarantool DB: реальные проблемы, удачные решения и превращение проекта в продукт](https://habr.com/ru/companies/vktech/articles/947714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947714)
+- [Снова в айти или мой опыт обучения на ручного QA](https://habr.com/ru/articles/947842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947842)
+- [Подключаем Claude по MCP к базе данных на домашнем компьютере](https://habr.com/ru/articles/947818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947818)
+- [[Перевод] Как Node.js выжимает максимум из I/O в 2025 году](https://habr.com/ru/articles/947524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947524)
 - [Интеграционные тесты в Go: как избавиться от флаков и боли](https://habr.com/ru/companies/netologyru/articles/947796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947796)
-- [Вопросов нет? Или почему отсутствие &#39;?&#39; может навредить проекту](https://habr.com/ru/companies/pvs-studio/articles/947774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947774)
-- [Книга: «Дизайн в масштабе. Создание устойчивой дизайн-системы»](https://habr.com/ru/companies/piter/articles/947086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947086)
-- [Как я устал путаться в вакансиях на hh.ru и написал расширение для Chrome](https://habr.com/ru/articles/947766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947766)
-- [Как построить открытую АСУТП. Настройка плагина протокола Modbus TCP/RTU Master/Slave](https://habr.com/ru/companies/severstal/articles/947740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
