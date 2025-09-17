@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как QE США и Запреты Китая Сформировали Потоки Капитала. Великий Криптовалютный Передел](https://habr.com/ru/articles/947958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947958)
 - [Я отклоняю комиты с использованием кучи и прошу коллег переписать такую логику](https://habr.com/ru/articles/947922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947922)
 - [Развитие интеллектуальных помощников в центрах кибербезопасности](https://habr.com/ru/companies/step_logic/articles/947778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947778)
 - [Lens Blur Fields: нейросетевая ФРТ на службе улучшения фотографий и идентификации камеры](https://habr.com/ru/articles/947862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947862)
 - [Доверенный open source в российских продуктах: фантазия или рабочая цель?](https://habr.com/ru/companies/solarsecurity/articles/947882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947882)
-- [DOOH и RTB: как Russ развивает программатические закупки в наружной рекламе](https://habr.com/ru/companies/wildberries/articles/947376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
