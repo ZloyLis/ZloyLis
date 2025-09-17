@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграционные тесты в Go: как избавиться от флаков и боли](https://habr.com/ru/companies/netologyru/articles/947796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947796)
+- [Вопросов нет? Или почему отсутствие &#39;?&#39; может навредить проекту](https://habr.com/ru/companies/pvs-studio/articles/947774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947774)
+- [Книга: «Дизайн в масштабе. Создание устойчивой дизайн-системы»](https://habr.com/ru/companies/piter/articles/947086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947086)
 - [Как я устал путаться в вакансиях на hh.ru и написал расширение для Chrome](https://habr.com/ru/articles/947766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947766)
 - [Как построить открытую АСУТП. Настройка плагина протокола Modbus TCP/RTU Master/Slave](https://habr.com/ru/companies/severstal/articles/947740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947740)
-- [Тысячи асинхронных задач в секунду в облачных s3 на Rust/Axum/Tokio: шлифуем ржавчину до блеска](https://habr.com/ru/companies/bitrix/articles/947104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947104)
-- [Как ЮKassa готовится к распродажам-2025](https://habr.com/ru/companies/yoomoney/articles/947694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947694)
-- [Создать плагин для Figma может каждый! История о том, как я написал аналог Autoflow за месяц](https://habr.com/ru/articles/947708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
