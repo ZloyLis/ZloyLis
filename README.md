@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [pgdbtemplate — моментальное создание тестовых баз PostgreSQL в Go через шаблоны. Ускоряем тесты в 1.5 раза](https://habr.com/ru/articles/947672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947672)
+- [«Большие вызовы»: как школьники за 3 недели собрали модуль для офлайн-распознавания документов на Android](https://habr.com/ru/companies/vtb/articles/947510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947510)
+- [Шпаргалка по проектированию REST API](https://habr.com/ru/articles/947410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947410)
 - [Tableau-дашборды для аналитика данных: бесплатные курсы, видео и порция вдохновения](https://habr.com/ru/companies/yandex_praktikum/articles/946994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946994)
 - [Программисты против ИИ и low-code: кто кого заменит](https://habr.com/ru/articles/947560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947560)
-- [«Трактор или лопата?» — разбираем главные мифы и проблемы low-code платформ](https://habr.com/ru/articles/947542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947542)
-- [Как я шахматного бота писал](https://habr.com/ru/articles/947640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947640)
-- [На грани открытия: ключ к квантовой теории гравитации может быть найден в гармоническом суперпространстве](https://habr.com/ru/articles/947620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
