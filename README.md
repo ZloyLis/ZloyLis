@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я отклоняю комиты с использованием кучи и прошу коллег переписать такую логику](https://habr.com/ru/articles/947922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947922)
+- [Развитие интеллектуальных помощников в центрах кибербезопасности](https://habr.com/ru/companies/step_logic/articles/947778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947778)
 - [Lens Blur Fields: нейросетевая ФРТ на службе улучшения фотографий и идентификации камеры](https://habr.com/ru/articles/947862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947862)
 - [Доверенный open source в российских продуктах: фантазия или рабочая цель?](https://habr.com/ru/companies/solarsecurity/articles/947882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947882)
 - [DOOH и RTB: как Russ развивает программатические закупки в наружной рекламе](https://habr.com/ru/companies/wildberries/articles/947376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947376)
-- [Не LLM едиными: генерируем юнит-тесты из реального исполнения на лету](https://habr.com/ru/companies/explyt/articles/947856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947856)
-- [Self-modifying SQL: динамическое изменение SQL-кода в процессе выполнения](https://habr.com/ru/companies/ppr/articles/947852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
