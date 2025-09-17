@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тысячи асинхронных задач в секунду в облачных s3 на Rust/Axum/Tokio: шлифуем ржавчину до блеска](https://habr.com/ru/companies/bitrix/articles/947104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947104)
+- [Как ЮKassa готовится к распродажам-2025](https://habr.com/ru/companies/yoomoney/articles/947694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947694)
+- [Создать плагин для Figma может каждый! История о том, как я написал аналог Autoflow за месяц](https://habr.com/ru/articles/947708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947708)
+- [zenplan: твой карманный помощник. Как использовать бота или же краткий гайд по применению](https://habr.com/ru/articles/947688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947688)
 - [Как я сделал школьного бота в Telegram — и почему проект пришлось закрыть](https://habr.com/ru/articles/947696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947696)
-- [[Перевод] Разработка RESTful API на Go и Gin](https://habr.com/ru/articles/947528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947528)
-- [Полный айсберг Android. Часть 1](https://habr.com/ru/companies/selectel/articles/947484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947484)
-- [[Перевод] Топ-6 Python-библиотек для визуализации](https://habr.com/ru/articles/946750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946750)
-- [pgdbtemplate — моментальное создание тестовых баз PostgreSQL в Go через шаблоны. Ускоряем тесты в 1.5 раза](https://habr.com/ru/articles/947672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
