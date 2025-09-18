@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эргономика рабочего места разработчика: от кресла до освещения &lpar;с опорой на исследования&rpar;](https://habr.com/ru/articles/948308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948308)
+- [Цифровой щит: тандем WAF и API Firewall](https://habr.com/ru/companies/ispsystem/articles/947938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947938)
+- [Контекст, параллельное обучение и материалы по другим темам для начинающих работать над ИИ-агентами](https://habr.com/ru/companies/mws/articles/948148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948148)
 - [Как измерять техническое качество и SLA, чтобы команда работала стабильно](https://habr.com/ru/companies/avito/articles/946290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946290)
 - [Строим межцодовую трассу с ТЗ и расчетами](https://habr.com/ru/companies/selectel/articles/948188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948188)
-- [DSL против универсальных языков: когда стоит создавать собственный доменный язык и как избежать ошибок](https://habr.com/ru/articles/948242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948242)
-- [Портим данные с удовольствием](https://habr.com/ru/companies/postgrespro/articles/948226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948226)
-- [SWE-MERA — новый динамический бенчмарк для моделей агентной генерации кода](https://habr.com/ru/companies/ods/articles/948184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
