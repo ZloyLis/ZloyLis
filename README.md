@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дело о убитых воспоминаниях или почему ваш гейм-дизайн стал местом преступления](https://habr.com/ru/articles/948410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948410)
 - [Самая быстрая БД на Диком Западе](https://habr.com/ru/articles/948386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948386)
 - [Разбираемся с IAST](https://habr.com/ru/companies/otus/articles/947940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947940)
 - [Как написать простейшую нейросеть на python, простыми словами о сложном](https://habr.com/ru/companies/bothub/articles/948344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948344)
 - [[Перевод] Почему «безлимитная пропускная способность» — всё ещё ложь в 2025 году](https://habr.com/ru/articles/948354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948354)
-- [Псевдо-3D движок за 150 строк кода или рейкастинг для чайников](https://habr.com/ru/articles/948320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
