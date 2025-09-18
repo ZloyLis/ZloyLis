@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Холистический азиатский UX: беспощадный, но осмысленный](https://habr.com/ru/companies/alfa/articles/946984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946984)
-- [Преподавание в дизайне: как учить других и прокачивать себя](https://habr.com/ru/articles/948158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948158)
-- [Разработчик веб-скраперов &lpar;53 бота&rpar; в 500 м от вас и хочет познакомиться: как не подхватить скрапера?](https://habr.com/ru/companies/oleg-bunin/articles/944830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944830)
-- [Как создать собственный RenderObject](https://habr.com/ru/companies/surfstudio/articles/947394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947394)
-- [История статической и динамической типизации](https://habr.com/ru/companies/sberbank/articles/947970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947970)
+- [SWE-MERA — новый динамический бенчмарк для моделей агентной генерации кода](https://habr.com/ru/companies/ods/articles/948184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948184)
+- [[Перевод] Как математика тасовки карт едва не разрушила империю онлайн-покера](https://habr.com/ru/articles/948202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948202)
+- [Обмен событиями распределённого приложения на Java](https://habr.com/ru/companies/bercut/articles/937178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=937178)
+- [Нейросети в Spring-разработке: убираем рутину, а не интеллект](https://habr.com/ru/companies/explyt/articles/944266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944266)
+- [Автомасштабируем узлы кластера Kubernetes. Часть 2](https://habr.com/ru/companies/cloud_ru/articles/948140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
