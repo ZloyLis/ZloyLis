@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Плавающая точка #1: компьютеры и числа](https://habr.com/ru/articles/947886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947886)
+- [Без опыта, но с перспективами: как начинающему QA составить сильное резюме](https://habr.com/ru/companies/2gis/articles/948022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948022)
+- [Андроид всё еще не готов к RAW-видео](https://habr.com/ru/articles/947578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947578)
+- [Использование файберов в PHP: разбор от команды СберЗдоровье](https://habr.com/ru/companies/docdoc/articles/941364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=941364)
 - [И ещё немного про то, что const в dart надо ставить где попало](https://habr.com/ru/articles/948074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948074)
-- [Как выбрать облачный GPU-инстанс для развертывания ИИ-моделей: практическое руководство](https://habr.com/ru/articles/948052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948052)
-- [Ученые научились быстрее находить положение минимума функции, не вычисляя ее значений](https://habr.com/ru/articles/944404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944404)
-- [Не просто RAG: Строим MCP-сервер на Node.js, чтобы дать LLM «архитектурное зрение»](https://habr.com/ru/articles/948002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948002)
-- [Интерфейсные лайфхаки: как приложения заставляют нас залипать дольше](https://habr.com/ru/articles/947992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
