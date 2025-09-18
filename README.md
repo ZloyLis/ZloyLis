@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как измерять техническое качество и SLA, чтобы команда работала стабильно](https://habr.com/ru/companies/avito/articles/946290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946290)
 - [Строим межцодовую трассу с ТЗ и расчетами](https://habr.com/ru/companies/selectel/articles/948188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948188)
 - [DSL против универсальных языков: когда стоит создавать собственный доменный язык и как избежать ошибок](https://habr.com/ru/articles/948242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948242)
+- [Портим данные с удовольствием](https://habr.com/ru/companies/postgrespro/articles/948226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948226)
 - [SWE-MERA — новый динамический бенчмарк для моделей агентной генерации кода](https://habr.com/ru/companies/ods/articles/948184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948184)
-- [[Перевод] Как математика тасовки карт едва не разрушила империю онлайн-покера](https://habr.com/ru/articles/948202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948202)
-- [Обмен событиями распределённого приложения на Java](https://habr.com/ru/companies/bercut/articles/937178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=937178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
