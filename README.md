@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать простейшую нейросеть на python, простыми словами о сложном](https://habr.com/ru/companies/bothub/articles/948344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948344)
+- [[Перевод] Почему «безлимитная пропускная способность» — всё ещё ложь в 2025 году](https://habr.com/ru/articles/948354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948354)
 - [Псевдо-3D движок за 150 строк кода или рейкастинг для чайников](https://habr.com/ru/articles/948320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948320)
 - [Эргономика рабочего места разработчика: от кресла до освещения &lpar;с опорой на исследования&rpar;](https://habr.com/ru/articles/948308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948308)
 - [Цифровой щит: тандем WAF и API Firewall](https://habr.com/ru/companies/ispsystem/articles/947938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947938)
-- [Контекст, параллельное обучение и материалы по другим темам для начинающих работать над ИИ-агентами](https://habr.com/ru/companies/mws/articles/948148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948148)
-- [Как измерять техническое качество и SLA, чтобы команда работала стабильно](https://habr.com/ru/companies/avito/articles/946290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
