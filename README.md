@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Псевдо-3D движок за 150 строк кода. Или рейкастинг для чайников](https://habr.com/ru/articles/948320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948320)
 - [Эргономика рабочего места разработчика: от кресла до освещения &lpar;с опорой на исследования&rpar;](https://habr.com/ru/articles/948308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948308)
 - [Цифровой щит: тандем WAF и API Firewall](https://habr.com/ru/companies/ispsystem/articles/947938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947938)
 - [Контекст, параллельное обучение и материалы по другим темам для начинающих работать над ИИ-агентами](https://habr.com/ru/companies/mws/articles/948148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948148)
 - [Как измерять техническое качество и SLA, чтобы команда работала стабильно](https://habr.com/ru/companies/avito/articles/946290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946290)
-- [Строим межцодовую трассу с ТЗ и расчетами](https://habr.com/ru/companies/selectel/articles/948188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
