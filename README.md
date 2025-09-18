@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Холистический азиатский UX: беспощадный, но осмысленный](https://habr.com/ru/companies/alfa/articles/946984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946984)
 - [Преподавание в дизайне: как учить других и прокачивать себя](https://habr.com/ru/articles/948158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948158)
 - [Разработчик веб-скраперов &lpar;53 бота&rpar; в 500 м от вас и хочет познакомиться: как не подхватить скрапера?](https://habr.com/ru/companies/oleg-bunin/articles/944830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944830)
 - [Как создать собственный RenderObject](https://habr.com/ru/companies/surfstudio/articles/947394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947394)
 - [История статической и динамической типизации](https://habr.com/ru/companies/sberbank/articles/947970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947970)
-- [MULTISTATUS: как держать инфраструктуру под присмотром и спать спокойно](https://habr.com/ru/articles/947764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
