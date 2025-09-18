@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [И ещё немного про то, что const в dart надо ставить где попало](https://habr.com/ru/articles/948074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948074)
 - [Как выбрать облачный GPU-инстанс для развертывания ИИ-моделей: практическое руководство](https://habr.com/ru/articles/948052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948052)
 - [Ученые научились быстрее находить положение минимума функции, не вычисляя ее значений](https://habr.com/ru/articles/944404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944404)
 - [Не просто RAG: Строим MCP-сервер на Node.js, чтобы дать LLM «архитектурное зрение»](https://habr.com/ru/articles/948002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948002)
 - [Интерфейсные лайфхаки: как приложения заставляют нас залипать дольше](https://habr.com/ru/articles/947992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947992)
-- [Как QE США и Запреты Китая Сформировали Потоки Капитала. Великий Криптовалютный Передел](https://habr.com/ru/articles/947958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
