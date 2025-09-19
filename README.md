@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-6 ИИ-инструментов, которые изменят ваш подход к программированию](https://habr.com/ru/articles/948712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948712)
+- [UPDATE: Разрешения MAX для Android. Cравниваем с Telegram и WhatsApp*](https://habr.com/ru/articles/948728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948728)
 - [[Перевод] Что нового в Gradle 9.0.0?](https://habr.com/ru/companies/spring_aio/articles/948710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948710)
 - [Большой гайд как соответствовать ожиданиям работодателя в IT](https://habr.com/ru/articles/948680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948680)
 - [Нормализация vs Денормализация: Mongo, Postgres и реальная жизнь](https://habr.com/ru/articles/948612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948612)
-- [Как DS-инженеры совершенствуют автогенерацию описаний и пополняют индекс объявлений Авито](https://habr.com/ru/companies/avito/articles/948626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948626)
-- [Ваш смартфон вам не принадлежит. И вот как я в этом убедился…](https://habr.com/ru/articles/930432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=930432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
