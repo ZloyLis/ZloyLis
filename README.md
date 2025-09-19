@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как онтология помогает представить структуру данных и семантику приложения](https://habr.com/ru/companies/vktech/articles/948492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948492)
+- [[Перевод] React-монополист: как мы сами убиваем развитие фронтенда](https://habr.com/ru/articles/948072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948072)
+- [[Перевод] Писать код просто, а читать сложнее](https://habr.com/ru/companies/piter/articles/947744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947744)
 - [Гид по Apache Cloudberry ч.1: история появления, архитектура и функции](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/948496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948496)
 - [[Перевод] Сборщик мусора в Go. Часть 1: Stop The World, пейсинг и оптимизация](https://habr.com/ru/articles/946774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946774)
-- [Steroids Form — как создать собственный движок форм для React](https://habr.com/ru/companies/kozhindev/articles/948468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948468)
-- [Как правильно формулировать нефункциональные требования](https://habr.com/ru/articles/948506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948506)
-- [Отправиться на тот цвет: CSS Color 4. Как добавить яркие краски в серые веб-будни](https://habr.com/ru/companies/tbank/articles/948450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
