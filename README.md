@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как онтология помогает представить структуру данных и семантику приложения](https://habr.com/ru/companies/vktech/articles/948492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948492)
-- [[Перевод] React-монополист: как мы сами убиваем развитие фронтенда](https://habr.com/ru/articles/948072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948072)
-- [[Перевод] Писать код просто, а читать сложнее](https://habr.com/ru/companies/piter/articles/947744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947744)
-- [Гид по Apache Cloudberry ч.1: история появления, архитектура и функции](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/948496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948496)
-- [[Перевод] Сборщик мусора в Go. Часть 1: Stop The World, пейсинг и оптимизация](https://habr.com/ru/articles/946774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946774)
+- [Кондотьер Кода](https://habr.com/ru/articles/948580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948580)
+- [Протоарифметика или Стратифицированная система без нуля: фундаментальные основания](https://habr.com/ru/articles/948586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948586)
+- [Без головы но с идеями: как Strapi оживляет Next.js](https://habr.com/ru/articles/948574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948574)
+- [[Перевод] Ваш ИИ-ассистент — это новое поколение компиляторов](https://habr.com/ru/articles/948384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948384)
+- [Простоту охота навести: как легко тестировать клиент-серверные взаимодействия на примере WebSocket](https://habr.com/ru/companies/sberbank/articles/948178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
