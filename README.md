@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваш Смартфон Вам Не Принадлежит. И Вот Как Я В Этом Убедился…](https://habr.com/ru/articles/930432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=930432)
+- [Стоит ли переносить правила из Cursor в Copilot и Windsurf: проверка на практике](https://habr.com/ru/articles/948604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948604)
 - [Кондотьер Кода](https://habr.com/ru/articles/948580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948580)
 - [Протоарифметика или Стратифицированная система без нуля: фундаментальные основания](https://habr.com/ru/articles/948586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948586)
 - [Без головы но с идеями: как Strapi оживляет Next.js](https://habr.com/ru/articles/948574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948574)
-- [[Перевод] Ваш ИИ-ассистент — это новое поколение компиляторов](https://habr.com/ru/articles/948384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948384)
-- [Простоту охота навести: как легко тестировать клиент-серверные взаимодействия на примере WebSocket](https://habr.com/ru/companies/sberbank/articles/948178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
