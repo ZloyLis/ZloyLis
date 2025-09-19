@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Автоэмбеддинги: поиск на ИИ без лишней мороки](https://habr.com/ru/articles/947632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947632)
 - [Униметрия: фазовый формализм СТО](https://habr.com/ru/articles/941306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=941306)
 - [Архитектура QA: как мыслят лиды и зачем компании нужен высокий уровень управления качеством](https://habr.com/ru/articles/948434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948434)
 - [Дело о убитых воспоминаниях или почему ваш гейм-дизайн стал местом преступления](https://habr.com/ru/articles/948410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948410)
 - [Самая быстрая БД на Диком Западе](https://habr.com/ru/articles/948386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948386)
-- [Разбираемся с IAST](https://habr.com/ru/companies/otus/articles/947940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
