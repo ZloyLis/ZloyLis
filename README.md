@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лестница абстракций и где на ней стоять: изучать ли программирование сложным способом?](https://habr.com/ru/articles/948796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948796)
 - [Кодинг-интервью: без боли и литкода](https://habr.com/ru/articles/948784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948784)
 - [UPDATE: Разрешения MAX для Android. Cравниваем с Telegram и WhatsApp*](https://habr.com/ru/articles/948728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948728)
 - [[Перевод] Что нового в Gradle 9.0.0?](https://habr.com/ru/companies/spring_aio/articles/948710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948710)
 - [Большой гайд как соответствовать ожиданиям работодателя в IT](https://habr.com/ru/articles/948680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948680)
-- [Нормализация vs Денормализация: Mongo, Postgres и реальная жизнь](https://habr.com/ru/articles/948612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
