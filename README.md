@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Чистый код на TypeScript: практические советы](https://habr.com/ru/articles/948488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948488)
-- [Пошаговая разработка SPI драйвера для ЗОСРВ «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/948322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948322)
-- [Как Vertical Pod Autoscaler пошёл вразнос и уронил наш кластер](https://habr.com/ru/companies/flant/articles/947294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947294)
-- [Достаточно ли ru-RU для указания языка на веб-странице](https://habr.com/ru/companies/maxilect/articles/948464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948464)
-- [Как мы в T1 строим ALM-платформу нового поколения](https://habr.com/ru/companies/T1Holding/articles/945758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945758)
+- [Гид по Apache Cloudberry ч.1: история появления, архитектура и функции](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/948496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948496)
+- [[Перевод] Сборщик мусора в Go. Часть 1: Stop The World, пейсинг и оптимизация](https://habr.com/ru/articles/946774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946774)
+- [Steroids Form — как создать собственный движок форм для React](https://habr.com/ru/companies/kozhindev/articles/948468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948468)
+- [Как правильно формулировать нефункциональные требования](https://habr.com/ru/articles/948506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948506)
+- [Отправиться на тот цвет: CSS Color 4. Как добавить яркие краски в серые веб-будни](https://habr.com/ru/companies/tbank/articles/948450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
