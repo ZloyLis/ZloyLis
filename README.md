@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как DS-инженеры совершенствуют автогенерацию описаний и пополняют индекс объявлений Авито](https://habr.com/ru/companies/avito/articles/948626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948626)
 - [Ваш Смартфон Вам Не Принадлежит. И Вот Как Я В Этом Убедился…](https://habr.com/ru/articles/930432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=930432)
 - [Стоит ли переносить правила из Cursor в Copilot и Windsurf: проверка на практике](https://habr.com/ru/articles/948604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948604)
 - [Кондотьер Кода](https://habr.com/ru/articles/948580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948580)
 - [Протоарифметика или Стратифицированная система без нуля: фундаментальные основания](https://habr.com/ru/articles/948586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948586)
-- [Без головы но с идеями: как Strapi оживляет Next.js](https://habr.com/ru/articles/948574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
