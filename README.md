@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Vertical Pod Autoscaler пошёл вразнос и уронил наш кластер](https://habr.com/ru/companies/flant/articles/947294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947294)
+- [Достаточно ли ru-RU для указания языка на веб-странице](https://habr.com/ru/companies/maxilect/articles/948464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948464)
+- [Как мы в T1 строим ALM-платформу нового поколения](https://habr.com/ru/companies/T1Holding/articles/945758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945758)
 - [QA-инженер в 2025 году: скилсет джуниора и ожидания рынка](https://habr.com/ru/companies/yandex_praktikum/articles/947868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947868)
 - [[Перевод] Автоэмбеддинги: поиск на ИИ без лишней мороки](https://habr.com/ru/articles/947632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947632)
-- [Униметрия: фазовый формализм СТО](https://habr.com/ru/articles/941306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=941306)
-- [Архитектура QA: как мыслят лиды и зачем компании нужен высокий уровень управления качеством](https://habr.com/ru/articles/948434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948434)
-- [Дело о убитых воспоминаниях или почему ваш гейм-дизайн стал местом преступления](https://habr.com/ru/articles/948410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
