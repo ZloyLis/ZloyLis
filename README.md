@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Freemium модель для Obsidian Vault](https://habr.com/ru/articles/948922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948922)
 - [Как превратить математику в игру с шифрами: школьный взгляд на криптографию](https://habr.com/ru/articles/948910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948910)
 - [Смартфон с настоящей QWERTY-клавиатурой…](https://habr.com/ru/companies/timeweb/articles/948154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948154)
 - [Строки в Swift](https://habr.com/ru/articles/948870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948870)
 - [[Перевод] Rust 1.90.0: ldd для x86_64-unknown-linux-gnu, публикация рабочих пространств и понижение x86_64-apple-darwin до Tier 2](https://habr.com/ru/articles/948830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948830)
-- [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 2. Диалоговые агенты: память, сообщения и контекст](https://habr.com/ru/companies/amvera/articles/948000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
