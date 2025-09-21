@@ -35,10 +35,10 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SPICE-модели: Просто о сложном. Часть 1, вводная](https://habr.com/ru/articles/948954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948954)
 - [Мой опыт с codewars спустя 3.5 года](https://habr.com/ru/articles/948960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948960)
 - [Как я перенёс опыт из PostgreSQL в MongoDB и получил готовый чек-лист](https://habr.com/ru/articles/948942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948942)
 - [[Перевод] Расстаемся с any в TypeScript](https://habr.com/ru/articles/859114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=859114)
-- [Freemium модель для Obsidian Vault](https://habr.com/ru/articles/948922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948922)
 - [Как превратить математику в игру с шифрами: школьный взгляд на криптографию](https://habr.com/ru/articles/948910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948910)
 <!-- BLOG-POST-LIST:END -->
 
