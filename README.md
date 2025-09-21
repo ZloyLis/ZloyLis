@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Проблема, о которой вы даже не подозревали: print&lpar;.1+.2&rpar;](https://habr.com/ru/articles/948556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948556)
+- [Чем болен средний бизнес? Статья 6.LLM + ДРАКОН: доступный инструмент процессного управления для современного МСБ](https://habr.com/ru/articles/949150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949150)
+- [Проблема, о которой вы наверняка не задумывались: print&lpar;.1+.2&rpar;](https://habr.com/ru/articles/948556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948556)
 - [С чего ты взял, что айти не твое?](https://habr.com/ru/articles/949108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949108)
 - [Как мы внедряли Dynatrace в банке для мониторинга Kafka, БД и Java/C++ сервисов](https://habr.com/ru/articles/949106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949106)
 - [Всеобъемлющая теория матриц](https://habr.com/ru/articles/949084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949084)
-- [Как мы делали стартап, и почему у нас не получилось](https://habr.com/ru/articles/949082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
