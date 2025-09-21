@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему памятники надо ставить тем, кто автоматизирует MS Word](https://habr.com/ru/articles/949036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949036)
+- [Мобильная разработка за неделю #603 &lpar;15 — 21 сентября&rpar;](https://habr.com/ru/articles/949032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949032)
+- [Охота за &#39;спящими&#39; кошельками: как инвестбанки пытается легально присвоить заброшенные биткоины](https://habr.com/ru/articles/949028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949028)
+- [Динамическая память и реализация динамического массива в C](https://habr.com/ru/articles/949024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949024)
 - [Мой опыт работы с ИИ-ассистентом по имени Claude](https://habr.com/ru/articles/949012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949012)
-- [Невизуальная доступность: опыт незрячего в использовании компьютерного зрения и LLM для взлома цифровых барьеров](https://habr.com/ru/articles/949006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949006)
-- [Обзоры препринтов научных статей «astro-ph/arxiv.org» за июнь 2025 года](https://habr.com/ru/articles/948996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948996)
-- [[Перевод] Как же прекрасна структура UTF-8](https://habr.com/ru/companies/ruvds/articles/947644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947644)
-- [Уволить куратора курса: автоматизация сопровождения студентов с помощью n8n](https://habr.com/ru/articles/948992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
