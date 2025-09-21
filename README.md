@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема, о которой вы даже не подозревали: print&lpar;.1+.2&rpar;](https://habr.com/ru/articles/948556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948556)
+- [С чего ты взял, что айти не твое?](https://habr.com/ru/articles/949108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949108)
+- [Как мы внедряли Dynatrace в банке для мониторинга Kafka, БД и Java/C++ сервисов](https://habr.com/ru/articles/949106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949106)
 - [Всеобъемлющая теория матриц](https://habr.com/ru/articles/949084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949084)
 - [Как мы делали стартап, и почему у нас не получилось](https://habr.com/ru/articles/949082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949082)
-- [Взгляд на SEO продвижение молодого сайта в 2025 году, и пару слов про NextJS](https://habr.com/ru/articles/948946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948946)
-- [Разработка просветительского портала «ПроПаллиатив»: взгляд изнутри](https://habr.com/ru/articles/949072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949072)
-- [Почему памятники надо ставить тем, кто автоматизирует MS Word](https://habr.com/ru/articles/949036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
