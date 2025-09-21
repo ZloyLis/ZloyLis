@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзоры препринтов научных статей «astro-ph/arxiv.org» за июнь 2025 года](https://habr.com/ru/articles/948996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948996)
+- [[Перевод] Как же прекрасна структура UTF-8](https://habr.com/ru/companies/ruvds/articles/947644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947644)
+- [Уволить куратора курса: автоматизация сопровождения студентов с помощью n8n](https://habr.com/ru/articles/948992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948992)
 - [Как мы помогли Альфа-Банку перевести CRM в отделениях на российские Java-контейнеры](https://habr.com/ru/companies/axiomjdk/articles/948754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948754)
 - [Парсинг цен и данных о товарах конкурентов на Wildberries](https://habr.com/ru/companies/amvera/articles/948988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948988)
-- [В поисках идеального терминала](https://habr.com/ru/companies/ru_mts/articles/948986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948986)
-- [[Перевод] Тим Маккиннон, Стив Фриман, Филип Крейг «Эндотестирование: юнит-тестирование с мок-объектами»](https://habr.com/ru/articles/948982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948982)
-- [Go, Telegram, AI: Создаем систему ранжирования трейдинг-каналов по точности прогнозов](https://habr.com/ru/articles/948978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
