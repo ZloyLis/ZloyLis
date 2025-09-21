@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы делали стартап, и почему у нас не получилось](https://habr.com/ru/articles/949082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949082)
+- [Взгляд на SEO продвижение молодого сайта в 2025 году, и пару слов про NextJS](https://habr.com/ru/articles/948946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948946)
+- [Разработка просветительского портала «ПроПаллиатив»: взгляд изнутри](https://habr.com/ru/articles/949072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949072)
 - [Почему памятники надо ставить тем, кто автоматизирует MS Word](https://habr.com/ru/articles/949036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949036)
 - [Мобильная разработка за неделю #603 &lpar;15 — 21 сентября&rpar;](https://habr.com/ru/articles/949032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949032)
-- [Охота за &#39;спящими&#39; кошельками: как инвестбанки пытается легально присвоить заброшенные биткоины](https://habr.com/ru/articles/949028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949028)
-- [Динамическая память и реализация динамического массива в C](https://habr.com/ru/articles/949024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949024)
-- [Мой опыт работы с ИИ-ассистентом по имени Claude](https://habr.com/ru/articles/949012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
