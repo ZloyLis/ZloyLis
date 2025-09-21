@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы помогли Альфа-Банку перевести CRM в отделениях на российские Java-контейнеры](https://habr.com/ru/companies/axiomjdk/articles/948754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948754)
+- [Парсинг цен и данных о товарах конкурентов на Wildberries](https://habr.com/ru/companies/amvera/articles/948988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948988)
+- [В поисках идеального терминала](https://habr.com/ru/companies/ru_mts/articles/948986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948986)
 - [[Перевод] Тим Маккиннон, Стив Фриман, Филип Крейг «Эндотестирование: юнит-тестирование с мок-объектами»](https://habr.com/ru/articles/948982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948982)
 - [Go, Telegram, AI: Создаем систему ранжирования трейдинг-каналов по точности прогнозов](https://habr.com/ru/articles/948978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948978)
-- [SPICE-модели: Просто о сложном. Часть 1, вводная](https://habr.com/ru/articles/948954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948954)
-- [Мой опыт с codewars спустя 3.5 года](https://habr.com/ru/articles/948960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948960)
-- [Как я перенёс опыт из PostgreSQL в MongoDB и получил готовый чек-лист](https://habr.com/ru/articles/948942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
