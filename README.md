@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой опыт работы с ИИ-ассистентом по имени Claude](https://habr.com/ru/articles/949012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949012)
+- [Невизуальная доступность: опыт незрячего в использовании компьютерного зрения и LLM для взлома цифровых барьеров](https://habr.com/ru/articles/949006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949006)
 - [Обзоры препринтов научных статей «astro-ph/arxiv.org» за июнь 2025 года](https://habr.com/ru/articles/948996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948996)
 - [[Перевод] Как же прекрасна структура UTF-8](https://habr.com/ru/companies/ruvds/articles/947644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947644)
 - [Уволить куратора курса: автоматизация сопровождения студентов с помощью n8n](https://habr.com/ru/articles/948992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948992)
-- [Как мы помогли Альфа-Банку перевести CRM в отделениях на российские Java-контейнеры](https://habr.com/ru/companies/axiomjdk/articles/948754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948754)
-- [Парсинг цен и данных о товарах конкурентов на Wildberries](https://habr.com/ru/companies/amvera/articles/948988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
