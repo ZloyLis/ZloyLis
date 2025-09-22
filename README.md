@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Arch Kata: игра-тренажер для тех, кто хочет проверить свое архитектурное мышление](https://habr.com/ru/companies/ru_mts/articles/947874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947874)
+- [[Перевод] Оптимизация производительности запросов в OLAP‑СУБД: цели, методы и практика](https://habr.com/ru/articles/949338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949338)
+- [Robocopy в Windows](https://habr.com/ru/companies/otus/articles/948836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948836)
 - [[Перевод] QML и Widgets в одном проекте: решение без костылей](https://habr.com/ru/companies/otus/articles/948706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948706)
 - [Операторы rest и spread в JavaScript](https://habr.com/ru/companies/selectel/articles/947666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947666)
-- [Список докладов с PythoNN в рамках GorkyTech](https://habr.com/ru/articles/949314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949314)
-- [[Перевод] Как Shopify перевела свои крупнейшие приложения на новую архитектуру React Native](https://habr.com/ru/articles/949002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949002)
-- [[Перевод] Вышел открытый игровой движок Godot 4.5 — подробный обзор нововведений](https://habr.com/ru/articles/948008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
