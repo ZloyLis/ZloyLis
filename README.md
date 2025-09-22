@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Вышел открытый игровой движок Godot 4.5 — подробный обзор нововведений](https://habr.com/ru/articles/948008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948008)
+- [UX на дофамине: как система вознаграждения влияет на поведение пользователя](https://habr.com/ru/companies/bitrix/articles/947396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947396)
+- [[Перевод] Как Go 1.24 и Swiss Tables вернули нам 200 гигабайт памяти](https://habr.com/ru/articles/948860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948860)
 - [[Перевод] Иерархия бесконечностей: порядок и хаос в математике](https://habr.com/ru/companies/first/articles/948666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948666)
 - [Коллизии хэш-функций и парадокс дней рождения](https://habr.com/ru/companies/ruvds/articles/946342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946342)
-- [Почему в космосе &lpar;пока&rpar; нет дата-центров. Часть первая: главные проблемы и их решения](https://habr.com/ru/companies/oleg-bunin/articles/947122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947122)
-- [[Перевод] Нововведения Python 3.14: автодополнение и подсветка синтаксиса в REPL](https://habr.com/ru/articles/948852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948852)
-- [Angular и память: как не создавать утечки](https://habr.com/ru/articles/949256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
