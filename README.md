@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] QML и Widgets в одном проекте: решение без костылей](https://habr.com/ru/companies/otus/articles/948706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948706)
+- [Операторы rest и spread в JavaScript](https://habr.com/ru/companies/selectel/articles/947666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947666)
+- [Список докладов с PythoNN в рамках GorkyTech](https://habr.com/ru/articles/949314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949314)
+- [[Перевод] Как Shopify перевела свои крупнейшие приложения на новую архитектуру React Native](https://habr.com/ru/articles/949002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949002)
 - [[Перевод] Вышел открытый игровой движок Godot 4.5 — подробный обзор нововведений](https://habr.com/ru/articles/948008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948008)
-- [UX на дофамине: как система вознаграждения влияет на поведение пользователя](https://habr.com/ru/companies/bitrix/articles/947396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947396)
-- [[Перевод] Как Go 1.24 и Swiss Tables вернули нам 200 гигабайт памяти](https://habr.com/ru/articles/948860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948860)
-- [[Перевод] Иерархия бесконечностей: порядок и хаос в математике](https://habr.com/ru/companies/first/articles/948666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948666)
-- [Коллизии хэш-функций и парадокс дней рождения](https://habr.com/ru/companies/ruvds/articles/946342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
