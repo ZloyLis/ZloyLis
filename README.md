@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вычисление обратной величины целого числа и его применение в алгоритме деления чисел](https://habr.com/ru/articles/949154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949154)
+- [UX/UI портфолио. Часть 5: Культура отвратительных образцов](https://habr.com/ru/articles/949132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949132)
 - [Бесшовный старт в Angular или как избавиться от пустоты при старте SPA приложения](https://habr.com/ru/articles/949490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949490)
 - [Новые подходы в Swift для тестирования: разбор технологии Swift Testing](https://habr.com/ru/companies/vk/articles/949260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949260)
 - [Security Week 2539: эффективная атака Rowhammer на модули памяти DDR5](https://habr.com/ru/companies/kaspersky/articles/949356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949356)
-- [Революция в генерации изображений открывает новые подходы к созданию реалистичных картинок с помощью нейронных сетей](https://habr.com/ru/articles/944420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944420)
-- [Отображение четырехмерного пространства на двухмерную плоскость](https://habr.com/ru/articles/949420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
