@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простота и Гласность](https://habr.com/ru/companies/codeabbey/articles/949206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949206)
+- [Как подружить Node с TypeScript](https://habr.com/ru/articles/949122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949122)
 - [Кватернионы — не только то, что мы о них думали](https://habr.com/ru/articles/949114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949114)
 - [Отдельный BI для топов – как мы отошли от «баяна» в аналитике](https://habr.com/ru/articles/949160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949160)
 - [Какие запросы и куда отправляет MAX](https://habr.com/ru/articles/939550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=939550)
-- [Чем болен средний бизнес? Статья 6.LLM + ДРАКОН: доступный инструмент процессного управления для современного МСБ](https://habr.com/ru/articles/949150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949150)
-- [Проблема, о которой вы наверняка не задумывались: print&lpar;.1+.2&rpar;](https://habr.com/ru/articles/948556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
