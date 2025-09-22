@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Актуальны ли спустя 40 лет советы из «Жемчужин программирования»?](https://habr.com/ru/companies/ruvds/articles/948638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948638)
+- [Бесплатный личный сайт. Часть 1: Планируем и выбираем стек](https://habr.com/ru/articles/949370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949370)
 - [Arch Kata: игра-тренажер для тех, кто хочет проверить свое архитектурное мышление](https://habr.com/ru/companies/ru_mts/articles/947874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947874)
 - [[Перевод] Оптимизация производительности запросов в OLAP‑СУБД: цели, методы и практика](https://habr.com/ru/articles/949338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949338)
 - [Robocopy в Windows](https://habr.com/ru/companies/otus/articles/948836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948836)
-- [[Перевод] QML и Widgets в одном проекте: решение без костылей](https://habr.com/ru/companies/otus/articles/948706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948706)
-- [Операторы rest и spread в JavaScript](https://habr.com/ru/companies/selectel/articles/947666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
