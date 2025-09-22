@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular и память: как не создавать утечки](https://habr.com/ru/articles/949256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949256)
+- [Поздно пить Боржоми? Stack Overflow пробует в AI](https://habr.com/ru/articles/948838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948838)
 - [Офлайн-режим в мобильном приложении: зачем он нужен и как его реализовать](https://habr.com/ru/companies/beget/articles/943730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943730)
 - [CAIL: критическая ИИ-грамотность — как отличать хайп от теории](https://habr.com/ru/articles/949162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949162)
 - [Простота и Гласность](https://habr.com/ru/companies/codeabbey/articles/949206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949206)
-- [Как подружить Node с TypeScript](https://habr.com/ru/articles/949122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949122)
-- [Кватернионы — не только то, что мы о них думали](https://habr.com/ru/articles/949114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
