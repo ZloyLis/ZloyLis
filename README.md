@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Иерархия бесконечностей: порядок и хаос в математике](https://habr.com/ru/companies/first/articles/948666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948666)
+- [Коллизии хэш-функций и парадокс дней рождения](https://habr.com/ru/companies/ruvds/articles/946342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946342)
+- [Почему в космосе &lpar;пока&rpar; нет дата-центров. Часть первая: главные проблемы и их решения](https://habr.com/ru/companies/oleg-bunin/articles/947122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947122)
+- [[Перевод] Нововведения Python 3.14: автодополнение и подсветка синтаксиса в REPL](https://habr.com/ru/articles/948852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948852)
 - [Angular и память: как не создавать утечки](https://habr.com/ru/articles/949256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949256)
-- [Поздно пить Боржоми? Stack Overflow пробует в AI](https://habr.com/ru/articles/948838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948838)
-- [Офлайн-режим в мобильном приложении: зачем он нужен и как его реализовать](https://habr.com/ru/companies/beget/articles/943730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943730)
-- [CAIL: критическая ИИ-грамотность — как отличать хайп от теории](https://habr.com/ru/articles/949162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949162)
-- [Простота и Гласность](https://habr.com/ru/companies/codeabbey/articles/949206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
