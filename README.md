@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Профи, наставники и просто хорошие люди. Часть 1](https://habr.com/ru/articles/949456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949456)
+- [Бесшовный старт в Angular или как избавиться от пустоты при старте SPA приложения](https://habr.com/ru/articles/949490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949490)
+- [Новые подходы в Swift для тестирования: разбор технологии Swift Testing](https://habr.com/ru/companies/vk/articles/949260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949260)
+- [Security Week 2539: эффективная атака Rowhammer на модули памяти DDR5](https://habr.com/ru/companies/kaspersky/articles/949356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949356)
 - [Революция в генерации изображений открывает новые подходы к созданию реалистичных картинок с помощью нейронных сетей](https://habr.com/ru/articles/944420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944420)
 - [Отображение четырехмерного пространства на двухмерную плоскость](https://habr.com/ru/articles/949420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949420)
-- [OMS на Apache NiFi: От прототипа до почти микросервисной архитектуры](https://habr.com/ru/articles/949412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949412)
-- [[Перевод] Актуальны ли спустя 40 лет советы из «Жемчужин программирования»?](https://habr.com/ru/companies/ruvds/articles/948638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
