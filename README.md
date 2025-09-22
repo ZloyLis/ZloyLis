@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Профи, наставники и просто хорошие люди. Часть 1](https://habr.com/ru/articles/949456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949456)
+- [Революция в генерации изображений открывает новые подходы к созданию реалистичных картинок с помощью нейронных сетей](https://habr.com/ru/articles/944420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944420)
 - [Отображение четырехмерного пространства на двухмерную плоскость](https://habr.com/ru/articles/949420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949420)
 - [OMS на Apache NiFi: От прототипа до почти микросервисной архитектуры](https://habr.com/ru/articles/949412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949412)
 - [[Перевод] Актуальны ли спустя 40 лет советы из «Жемчужин программирования»?](https://habr.com/ru/companies/ruvds/articles/948638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948638)
-- [Бесплатный личный сайт. Часть 1: Планируем и выбираем стек](https://habr.com/ru/articles/949370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949370)
-- [Arch Kata: игра-тренажер для тех, кто хочет проверить свое архитектурное мышление](https://habr.com/ru/companies/ru_mts/articles/947874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
