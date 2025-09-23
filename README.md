@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Настройка Express 5 для продакшна в 2025 году. Часть 1](https://habr.com/ru/companies/timeweb/articles/948036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948036)
+- [Чем грозит вашему проекту установка пакетов «вслепую»](https://habr.com/ru/companies/domclick/articles/947800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947800)
+- [SPICE-модели: Просто о сложном. Часть 2. Более сложные приемы анализа](https://habr.com/ru/articles/949258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949258)
+- [Как стажер набирал стажеров](https://habr.com/ru/articles/949602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949602)
 - [Deep Link глазами тестировщика: как они работают](https://habr.com/ru/articles/933900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=933900)
-- [Утилита Find и регулярные выражения](https://habr.com/ru/companies/lanit/articles/945774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945774)
-- [Погружение в JNI: проблемы и решения при взаимодействии между JVM и нативным кодом](https://habr.com/ru/companies/yandex/articles/948570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948570)
-- [Секреты создания эффективного REST API: гайд для системных аналитиков](https://habr.com/ru/companies/psb/articles/949246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949246)
-- [Кастомизация Keycloak: Keycloakify вместо Freemarker – причины, боли, решения](https://habr.com/ru/companies/banki/articles/949360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
