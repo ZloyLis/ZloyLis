@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские ученые создали оптимальный алгоритм децентрализованной оптимизации для динамических сетей](https://habr.com/ru/articles/944428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944428)
+- [Разбираемся с existential container в Swift](https://habr.com/ru/articles/949268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949268)
+- [MARKER: Собираем свой русскоязычный мультимодальный датасет для оценки VLM](https://habr.com/ru/companies/vk/articles/947892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947892)
 - [Как песни «ломают» грамматику и помогают учить английский: разбор для любителей музыки и языков](https://habr.com/ru/companies/yandex_praktikum/articles/949702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949702)
 - [Как я попала на стажировку продуктовым дизайнером в Яндекс и как к ней готовилась](https://habr.com/ru/articles/949672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949672)
-- [От терабайтов шума к байтам смысла: искусство эффективного логирования](https://habr.com/ru/companies/T1Holding/articles/947426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947426)
-- [Гайд по File Templates: как шарить шаблоны с однотипным кодом](https://habr.com/ru/companies/tbank/articles/949658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949658)
-- [От «недиагностируемого утюга» к цифровому двойнику](https://habr.com/ru/articles/949184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
