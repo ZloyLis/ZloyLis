@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как песни «ломают» грамматику и помогают учить английский: разбор для любителей музыки и языков](https://habr.com/ru/companies/yandex_praktikum/articles/949702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949702)
+- [Как я попала на стажировку продуктовым дизайнером в Яндекс и как к ней готовилась](https://habr.com/ru/articles/949672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949672)
 - [От терабайтов шума к байтам смысла: искусство эффективного логирования](https://habr.com/ru/companies/T1Holding/articles/947426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947426)
 - [Гайд по File Templates: как шарить шаблоны с однотипным кодом](https://habr.com/ru/companies/tbank/articles/949658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949658)
 - [От «недиагностируемого утюга» к цифровому двойнику](https://habr.com/ru/articles/949184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949184)
-- [Спаривание разработчиков в интересах бизнеса, или узкий взгляд на парное программирование с ограниченной точки зрения](https://habr.com/ru/articles/943254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943254)
-- [Почему в космосе &lpar;пока&rpar; нет дата-центров. Часть вторая: защита, обслуживание и связь](https://habr.com/ru/companies/oleg-bunin/articles/947132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
