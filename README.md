@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Роль цифровых двойников в разработке и тестировании роботизированных систем](https://habr.com/ru/companies/sberbank/articles/949574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949574)
+- [Безопасность Kubernetes: статьи и руководства про защиту кластеров](https://habr.com/ru/companies/mws/articles/949678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949678)
 - [Продакт, рынок, две беты: путь от идеи SASE к релизу Kaspersky NGFW](https://habr.com/ru/companies/kaspersky/articles/949728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949728)
 - [Новая профессия в IT: «чистильщик кода» после ИИ. Как она появилась и что из себя представляет](https://habr.com/ru/companies/ru_mts/articles/949794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949794)
 - [О формализме матриц Паули и геометрической алгебры в нерелятивистской квантовой механике](https://habr.com/ru/articles/949788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949788)
-- [Издательство «БХВ» теперь на Хабре. С чем мы к вам пришли](https://habr.com/ru/companies/bhv_publishing/articles/949780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949780)
-- [[Перевод] Метрики QA: Анализ, Применение, Внедрение. Часть 2: Эффективность тестирования и производительность тестов](https://habr.com/ru/articles/946846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
