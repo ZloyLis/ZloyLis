@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продакт, рынок, две беты: путь от идеи SASE к релизу Kaspersky NGFW](https://habr.com/ru/companies/kaspersky/articles/949728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949728)
+- [Новая профессия в IT: «чистильщик кода» после ИИ. Как она появилась и что из себя представляет](https://habr.com/ru/companies/ru_mts/articles/949794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949794)
 - [О формализме матриц Паули и геометрической алгебры в нерелятивистской квантовой механике](https://habr.com/ru/articles/949788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949788)
 - [Издательство «БХВ» теперь на Хабре. С чем мы к вам пришли](https://habr.com/ru/companies/bhv_publishing/articles/949780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949780)
 - [[Перевод] Метрики QA: Анализ, Применение, Внедрение. Часть 2: Эффективность тестирования и производительность тестов](https://habr.com/ru/articles/946846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946846)
-- [[Перевод] JVM: Барьеры, которые подходят любому GC](https://habr.com/ru/companies/spring_aio/articles/949710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949710)
-- [Есть кое-что получше, чем Excel](https://habr.com/ru/companies/sibur_official/articles/949738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
