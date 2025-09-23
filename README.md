@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Российские ученые создали оптимальный алгоритм децентрализованной оптимизации для динамических сетей](https://habr.com/ru/articles/944428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944428)
-- [Разбираемся с existential container в Swift](https://habr.com/ru/articles/949268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949268)
-- [MARKER: Собираем свой русскоязычный мультимодальный датасет для оценки VLM](https://habr.com/ru/companies/vk/articles/947892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947892)
-- [Как песни «ломают» грамматику и помогают учить английский: разбор для любителей музыки и языков](https://habr.com/ru/companies/yandex_praktikum/articles/949702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949702)
-- [Как я попала на стажировку продуктовым дизайнером в Яндекс и как к ней готовилась](https://habr.com/ru/articles/949672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949672)
+- [О формализме матриц Паули и геометрической алгебры в нерелятивистской квантовой механике](https://habr.com/ru/articles/949788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949788)
+- [Издательство «БХВ» теперь на Хабре. С чем мы к вам пришли](https://habr.com/ru/companies/bhv_publishing/articles/949780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949780)
+- [[Перевод] Метрики QA: Анализ, Применение, Внедрение. Часть 2: Эффективность тестирования и производительность тестов](https://habr.com/ru/articles/946846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946846)
+- [[Перевод] JVM: Барьеры, которые подходят любому GC](https://habr.com/ru/companies/spring_aio/articles/949710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949710)
+- [Есть кое-что получше, чем Excel](https://habr.com/ru/companies/sibur_official/articles/949738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
