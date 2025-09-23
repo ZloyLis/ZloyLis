@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Link глазами тестировщика: как они работают](https://habr.com/ru/articles/933900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=933900)
+- [Утилита Find и регулярные выражения](https://habr.com/ru/companies/lanit/articles/945774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945774)
+- [Погружение в JNI: проблемы и решения при взаимодействии между JVM и нативным кодом](https://habr.com/ru/companies/yandex/articles/948570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948570)
+- [Секреты создания эффективного REST API: гайд для системных аналитиков](https://habr.com/ru/companies/psb/articles/949246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949246)
 - [Кастомизация Keycloak: Keycloakify вместо Freemarker – причины, боли, решения](https://habr.com/ru/companies/banki/articles/949360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949360)
-- [asapBI: импортозамещение SAP Calculation View](https://habr.com/ru/articles/948888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948888)
-- [Топ-9 ИИ-плагинов для WordPress](https://habr.com/ru/companies/sberbank/articles/949568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949568)
-- [Управляем умным домом Home Assitant через Алису и без интернета. Часть 3](https://habr.com/ru/articles/947942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947942)
-- [Приложение для сидроделов и пивоваров, ИИ-тренажер для обучения отдела продаж — и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/949392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
