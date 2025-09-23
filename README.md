@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Настройка Express 5 для продакшна в 2025 году. Часть 1](https://habr.com/ru/companies/timeweb/articles/948036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948036)
-- [Чем грозит вашему проекту установка пакетов «вслепую»](https://habr.com/ru/companies/domclick/articles/947800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947800)
-- [SPICE-модели: Просто о сложном. Часть 2. Более сложные приемы анализа](https://habr.com/ru/articles/949258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949258)
-- [Как стажер набирал стажеров](https://habr.com/ru/articles/949602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949602)
-- [Deep Link глазами тестировщика: как они работают](https://habr.com/ru/articles/933900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=933900)
+- [От терабайтов шума к байтам смысла: искусство эффективного логирования](https://habr.com/ru/companies/T1Holding/articles/947426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947426)
+- [Гайд по File Templates: как шарить шаблоны с однотипным кодом](https://habr.com/ru/companies/tbank/articles/949658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949658)
+- [От «недиагностируемого утюга» к цифровому двойнику](https://habr.com/ru/articles/949184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949184)
+- [Спаривание разработчиков в интересах бизнеса, или узкий взгляд на парное программирование с ограниченной точки зрения](https://habr.com/ru/articles/943254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943254)
+- [Почему в космосе &lpar;пока&rpar; нет дата-центров. Часть вторая: защита, обслуживание и связь](https://habr.com/ru/companies/oleg-bunin/articles/947132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
