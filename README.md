@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управляем умным домом Home Assitant через Алису и без интернета. Часть 3](https://habr.com/ru/articles/947942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947942)
+- [Приложение для сидроделов и пивоваров, ИИ-тренажер для обучения отдела продаж — и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/949392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949392)
 - [PipeWire с терминала: pw-cli, pw-top, pw-metadata](https://habr.com/ru/companies/otus/articles/947594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947594)
 - [LibreChat: как настроить локальный мультичат для сотен нейросетей без подписок &lpar;Win11/Linux/Mac&rpar;](https://habr.com/ru/companies/bothub/articles/949514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949514)
 - [Вычисление обратной величины целого числа и его применение в алгоритме деления чисел](https://habr.com/ru/articles/949154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949154)
-- [UX/UI портфолио. Часть 5: Культура отвратительных образцов](https://habr.com/ru/articles/949132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949132)
-- [Бесшовный старт в Angular или как избавиться от пустоты при старте SPA приложения](https://habr.com/ru/articles/949490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
