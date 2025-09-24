@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сентябрь 2025: почему сейчас лучшее время начать карьеру в IT](https://habr.com/ru/articles/950018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950018)
 - [Можно ли перейти с Oracle или MS SQL на СУБД из Реестра российского ПО без переписывания всей хранимой логики?](https://habr.com/ru/articles/949980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949980)
 - [Что происходит с рынком найма в 2025 году и как мы помогаем джунам найти работу](https://habr.com/ru/companies/yandex_praktikum/articles/949262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949262)
 - [SteosMorphy: опенсорс замена давно умершему PyMorphy2](https://habr.com/ru/articles/949604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949604)
 - [Парсинг pdf-отчётов публичных компаний для получения трейдерских инсайтов](https://habr.com/ru/companies/amvera/articles/949966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949966)
-- [Примеры бизнес-применения модели C4](https://habr.com/ru/articles/949962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
