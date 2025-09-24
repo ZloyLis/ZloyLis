@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как просто использовать SRI, когда у тебя микрофронты](https://habr.com/ru/companies/alfa/articles/940324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=940324)
+- [Манифест QA: как я победил хаос в автоматизации на Java](https://habr.com/ru/articles/948768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948768)
+- [Почему программисты боятся ИИ, но учатся с ним жить](https://habr.com/ru/articles/950208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950208)
+- [О подводных камнях виртуальных потоков в Java](https://habr.com/ru/articles/950204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950204)
 - [[Перевод] CSS, который все ненавидят: sin&lpar;&rpar; и cos&lpar;&rpar;](https://habr.com/ru/articles/949004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949004)
-- [«Перловый ренессанс»: почему забытый язык Perl снова в деле](https://habr.com/ru/companies/ru_mts/articles/950066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950066)
-- [Как снять метрики со служебных подов кластера Kubernetes](https://habr.com/ru/companies/selectel/articles/949354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949354)
-- [[Перевод] Сборщик мусора в Go. Часть 2: GC Traces](https://habr.com/ru/articles/948864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948864)
-- [Как Spring Framework поможет разрабатывать приложения для Фидонета со сложной архитектурой &lpar;+ размышления о будущем&rpar;](https://habr.com/ru/articles/950122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
