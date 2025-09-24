@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обратная сторона ИИ: подводные камни передачи процессов нейросетям](https://habr.com/ru/articles/949248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949248)
-- [Борьба с техническими долгами: как не допустить разрастания костылей в коде](https://habr.com/ru/articles/950016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950016)
-- [Сентябрь 2025: почему сейчас лучшее время начать карьеру в IT](https://habr.com/ru/articles/950018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950018)
-- [Можно ли перейти с Oracle или MS SQL на СУБД из Реестра российского ПО без переписывания всей хранимой логики?](https://habr.com/ru/articles/949980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949980)
-- [Что происходит с рынком найма в 2025 году и как мы помогаем джунам найти работу](https://habr.com/ru/companies/yandex_praktikum/articles/949262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949262)
+- [HTML как архивный формат. Локальные мини-сайты](https://habr.com/ru/companies/ruvds/articles/949172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949172)
+- [Как поддержать Flutter в своей Библиотеке. Опыт VK ID SDK](https://habr.com/ru/companies/vk/articles/948642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948642)
+- [Как добиться успешного успеха в IT? История моего возвышения… Глава 4](https://habr.com/ru/articles/947900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947900)
+- [[Перевод] Самый быстрый способ загрузить 32 000 строк в PostgreSQL с помощью Python](https://habr.com/ru/articles/948854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948854)
+- [Как GC останавливает весь мир, чтобы вынести мусор](https://habr.com/ru/articles/950082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
