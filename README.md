@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Примеры бизнес-применения модели C4](https://habr.com/ru/articles/949962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949962)
+- [Ваши стоп-лоссы — их топливо. Smart Money: модель потоков ликвидности и роль крупных игроков](https://habr.com/ru/articles/949922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949922)
 - [Знакомство с TypeScript: базовая типизация и ключевые возможности](https://habr.com/ru/articles/949882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949882)
 - [Мне грозят увольнением, но я 4 месяца не могу найти другую работу](https://habr.com/ru/articles/949874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949874)
 - [Роль цифровых двойников в разработке и тестировании роботизированных систем](https://habr.com/ru/companies/sberbank/articles/949574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949574)
-- [Безопасность Kubernetes: статьи и руководства про защиту кластеров](https://habr.com/ru/companies/mws/articles/949678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949678)
-- [Продакт, рынок, две беты: путь от идеи SASE к релизу Kaspersky NGFW](https://habr.com/ru/companies/kaspersky/articles/949728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
