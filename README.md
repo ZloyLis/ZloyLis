@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли перейти с Oracle или MS SQL на СУБД из Реестра российского ПО без переписывания всей хранимой логики?](https://habr.com/ru/articles/949980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949980)
+- [Что происходит с рынком найма в 2025 году и как мы помогаем джунам найти работу](https://habr.com/ru/companies/yandex_praktikum/articles/949262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949262)
+- [SteosMorphy: опенсорс замена давно умершему PyMorphy2](https://habr.com/ru/articles/949604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949604)
 - [Парсинг pdf-отчётов публичных компаний для получения трейдерских инсайтов](https://habr.com/ru/companies/amvera/articles/949966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949966)
 - [Примеры бизнес-применения модели C4](https://habr.com/ru/articles/949962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949962)
-- [Ваши стоп-лоссы — их топливо. Smart Money: модель потоков ликвидности и роль крупных игроков](https://habr.com/ru/articles/949922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949922)
-- [Знакомство с TypeScript: базовая типизация и ключевые возможности](https://habr.com/ru/articles/949882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949882)
-- [Мне грозят увольнением, но я 4 месяца не могу найти другую работу](https://habr.com/ru/articles/949874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
