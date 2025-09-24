@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Гипотеза пала: 3+3 ≠ 6! Один узел перечеркнул “порядок” во вселенной математики](https://habr.com/ru/articles/950346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950346)
 - [Suspense в Vue js: на что способен](https://habr.com/ru/companies/otus/articles/948840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948840)
 - [[Перевод] Почему я не верю в ИИ-агентов в 2025 году, несмотря на то, что сам их разрабатываю](https://habr.com/ru/articles/950072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950072)
 - [[Перевод] Квантование в картинках: раскрываем тайны сжатия LLM](https://habr.com/ru/companies/wunderfund/articles/950118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950118)
 - [Как просто использовать SRI, когда у тебя микрофронты](https://habr.com/ru/companies/alfa/articles/940324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=940324)
-- [Манифест QA: как я победил хаос в автоматизации на Java](https://habr.com/ru/articles/948768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
