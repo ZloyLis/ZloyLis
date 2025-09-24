@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Spring Framework поможет разрабатывать приложения для Фидонета со сложной архитектурой &lpar;+ размышления о будущем&rpar;](https://habr.com/ru/articles/950122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950122)
+- [[Перевод] HTML мёртв, да здравствует HTML](https://habr.com/ru/articles/943442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=943442)
+- [[Перевод] Могут ли кодинг-агенты самосовершенствоваться?](https://habr.com/ru/companies/magnus-tech/articles/949536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949536)
 - [HTML как архивный формат. Локальные мини-сайты](https://habr.com/ru/companies/ruvds/articles/949172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949172)
 - [Как поддержать Flutter в своей Библиотеке. Опыт VK ID SDK](https://habr.com/ru/companies/vk/articles/948642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948642)
-- [Как добиться успешного успеха в IT? История моего возвышения… Глава 4](https://habr.com/ru/articles/947900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947900)
-- [[Перевод] Самый быстрый способ загрузить 32 000 строк в PostgreSQL с помощью Python](https://habr.com/ru/articles/948854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948854)
-- [Как GC останавливает весь мир, чтобы вынести мусор](https://habr.com/ru/articles/950082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
