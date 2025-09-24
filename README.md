@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Suspense в Vue js: на что способен](https://habr.com/ru/companies/otus/articles/948840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948840)
 - [[Перевод] Почему я не верю в ИИ-агентов в 2025 году, несмотря на то, что сам их разрабатываю](https://habr.com/ru/articles/950072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950072)
 - [[Перевод] Квантование в картинках: раскрываем тайны сжатия LLM](https://habr.com/ru/companies/wunderfund/articles/950118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950118)
 - [Как просто использовать SRI, когда у тебя микрофронты](https://habr.com/ru/companies/alfa/articles/940324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=940324)
 - [Манифест QA: как я победил хаос в автоматизации на Java](https://habr.com/ru/articles/948768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948768)
-- [Почему программисты боятся ИИ, но учатся с ним жить](https://habr.com/ru/articles/950208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
