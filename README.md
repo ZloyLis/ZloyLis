@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему Игнорирование Божественного в Коде Приводит к Пространственному Коллапсу](https://habr.com/ru/articles/950498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950498)
+- [Философия Kaizen на производстве: как идеи инженеров экономят миллионы](https://habr.com/ru/companies/yadro/articles/948630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948630)
 - [Вы встретили разработчика. Ваши действия?](https://habr.com/ru/articles/950464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950464)
 - [MutationObserver + React: меняем ошибки UI Kit без патча библиотеки](https://habr.com/ru/companies/gnivc/articles/949862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949862)
 - [Российские Java/Spring-разработчики: какие IDE выбирают сегодня](https://habr.com/ru/companies/axiomjdk/articles/949914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949914)
-- [Эволюция процессов: от классической автоматизации до сомооптимизирующихся ИИ-агентов](https://habr.com/ru/companies/ru_mts/articles/948480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948480)
-- [Можно ли войти в реку Технотекста дважды? А трижды? Анализ победителей Хабра за 7 лет](https://habr.com/ru/articles/948224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
