@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AuraGroove: История одного воркера, который не хотел работать](https://habr.com/ru/articles/950660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950660)
+- [[Перевод] Путеводитель для начинающих по сборщику мусора Shenandoah](https://habr.com/ru/companies/spring_aio/articles/950642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950642)
 - [[Перевод] Как на самом деле выглядит функциональное программирование?](https://habr.com/ru/articles/950648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950648)
 - [Как мы подружили Tarantool с Kubernetes](https://habr.com/ru/companies/bercut/articles/950628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950628)
 - [Анализ гипотез и очень, ооооооочень странные дела](https://habr.com/ru/articles/950618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950618)
-- [Прорывная идея для существенного улучшения жизни незрячих: предложение запустить в массы новый интерфейс](https://habr.com/ru/companies/ruvds/articles/949000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949000)
-- [Ученые предложили новый метод решения вариационных неравенств в условиях, когда производные нельзя вычислить точно](https://habr.com/ru/articles/944440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
