@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ в Западных корпорациях: Период отрезвления &lpar;сентябрь 2025&rpar;](https://habr.com/ru/articles/950756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950756)
 - [Как работать с нейросетями эффективно: теория и практика](https://habr.com/ru/articles/950730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950730)
 - [DIY Open Source принтер. Часть 1. Покоряем USB Printer Class и имитируем печать текста](https://habr.com/ru/articles/946866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946866)
 - [Планы CS Space на осенний семестр](https://habr.com/ru/articles/950722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950722)
 - [Как нанять разработчика за одно техническое интервью из опыта MWS Cloud Platform](https://habr.com/ru/articles/950310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950310)
-- [AuraGroove: История одного воркера, который не хотел работать](https://habr.com/ru/articles/950660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
