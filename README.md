@@ -38,7 +38,7 @@ ___
 - [Эволюция процессов: от классической автоматизации до сомооптимизирующихся ИИ-агентов](https://habr.com/ru/companies/ru_mts/articles/948480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948480)
 - [Можно ли войти в реку Технотекста дважды? А трижды? Анализ победителей Хабра за 7 лет](https://habr.com/ru/articles/948224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948224)
 - [Пишем письма с Gmail на Bitcoin](https://habr.com/ru/companies/eppie/articles/947850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947850)
-- [Транзакционная работа с топиками: архитектура и сравнение решений в Apache Kafka и YDB Topics](https://habr.com/ru/companies/ydb/articles/949662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949662)
+- [Транзакционная работа с топиками: архитектура и сравнение решений в Apache Kafka и YDB Topics](https://habr.com/ru/companies/oleg-bunin/articles/949662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949662)
 - [[Перевод] Гипотеза пала: 3+3 ≠ 6! Один узел перечеркнул “порядок” во вселенной математики](https://habr.com/ru/articles/950346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950346)
 <!-- BLOG-POST-LIST:END -->
 
