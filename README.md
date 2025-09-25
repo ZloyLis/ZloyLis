@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Почему Игнорирование Божественного в Коде Приводит к Пространственному Коллапсу](https://habr.com/ru/articles/950498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950498)
-- [Философия Kaizen на производстве: как идеи инженеров экономят миллионы](https://habr.com/ru/companies/yadro/articles/948630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948630)
-- [Вы встретили разработчика. Ваши действия?](https://habr.com/ru/articles/950464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950464)
-- [MutationObserver + React: меняем ошибки UI Kit без патча библиотеки](https://habr.com/ru/companies/gnivc/articles/949862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949862)
-- [Российские Java/Spring-разработчики: какие IDE выбирают сегодня](https://habr.com/ru/companies/axiomjdk/articles/949914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949914)
+- [Фрактальная нейросеть: эвристическая модель квантового ветвления](https://habr.com/ru/articles/950522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950522)
+- [[Перевод] Загрузка данных во ViewModel: рекомендации и Flow-based архитектура](https://habr.com/ru/articles/950494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950494)
+- [Миграция на SPM: что мы выиграли и что потеряли](https://habr.com/ru/companies/tuturu/articles/948276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948276)
+- [«Workslop»: всё о новом вызове продуктивности](https://habr.com/ru/articles/950520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950520)
+- [[Перевод] Почему игнорирование божественного в коде приводит к пространственному коллапсу](https://habr.com/ru/articles/950498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
