@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как на самом деле выглядит функциональное программирование?](https://habr.com/ru/articles/950648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950648)
+- [Как мы подружили Tarantool с Kubernetes](https://habr.com/ru/companies/bercut/articles/950628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950628)
 - [Анализ гипотез и очень, ооооооочень странные дела](https://habr.com/ru/articles/950618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950618)
 - [Прорывная идея для существенного улучшения жизни незрячих: предложение запустить в массы новый интерфейс](https://habr.com/ru/companies/ruvds/articles/949000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949000)
 - [Ученые предложили новый метод решения вариационных неравенств в условиях, когда производные нельзя вычислить точно](https://habr.com/ru/articles/944440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944440)
-- [Performance monitor и не только: продолжаем тестировать производительность в Chrome DevTools](https://habr.com/ru/companies/sberbank/articles/950294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950294)
-- [Kubernetes упрощает жизнь. Но какой ценой? Helm, KaaS и выводы из практики](https://habr.com/ru/companies/runity/articles/950492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
