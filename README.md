@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ученые предложили новый метод решения вариационных неравенств в условиях, когда производные нельзя вычислить точно](https://habr.com/ru/articles/944440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944440)
+- [Performance monitor и не только: продолжаем тестировать производительность в Chrome DevTools](https://habr.com/ru/companies/sberbank/articles/950294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950294)
+- [Kubernetes упрощает жизнь. Но какой ценой? Helm, KaaS и выводы из практики](https://habr.com/ru/companies/runity/articles/950492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950492)
+- [Миграция здорового человека: как переехать на новую IT-систему без нервного срыва](https://habr.com/ru/companies/itarena/articles/950534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950534)
 - [Фрактальная нейросеть: эвристическая модель квантового ветвления](https://habr.com/ru/articles/950522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950522)
-- [[Перевод] Загрузка данных во ViewModel: рекомендации и Flow-based архитектура](https://habr.com/ru/articles/950494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950494)
-- [Миграция на SPM: что мы выиграли и что потеряли](https://habr.com/ru/companies/tuturu/articles/948276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948276)
-- [«Workslop»: всё о новом вызове продуктивности](https://habr.com/ru/articles/950520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950520)
-- [[Перевод] Почему игнорирование божественного в коде приводит к пространственному коллапсу](https://habr.com/ru/articles/950498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
