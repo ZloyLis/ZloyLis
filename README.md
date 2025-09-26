@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как из букв C N O A собрать «удобный современный С++»](https://habr.com/ru/articles/951060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951060)
+- [Как часто вы думаете о Римской империи… &lpar;cтатическом анализе кода&rpar;](https://habr.com/ru/companies/ncloudtech/articles/945430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945430)
 - [Kotlin QA: как перейти с Java и писать тесты в 2 раза быстрее](https://habr.com/ru/companies/otus/articles/950864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950864)
 - [Как получить и использовать бесплатную лицензию PVS-Studio на практике. Часть 2: первый запуск и настройка](https://habr.com/ru/companies/pvs-studio/articles/951022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951022)
 - [Российские ученые ускорили машинное обучение в распределенных системах без центрального сервера](https://habr.com/ru/articles/944442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944442)
-- [[Перевод] Используйте простейшие рабочие решения](https://habr.com/ru/companies/ruvds/articles/949970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949970)
-- [[Перевод] React предпочитают по умолчанию — и это убивает инновации во фронтенде](https://habr.com/ru/companies/piter/articles/950992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
