@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Без головы но с идеями: как Strapi оживаляет Next.js &lpar;часть 2&rpar;](https://habr.com/ru/articles/950876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950876)
+- [Почему в космосе &lpar;пока&rpar; нет дата-центров. Часть третья: какие вычисления уже работают](https://habr.com/ru/companies/oleg-bunin/articles/947134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947134)
+- [[Перевод] Почему Python такой медленный? И вот что об этом думают эксперты](https://habr.com/ru/articles/948858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948858)
 - [Как победить CMake: отладка CMake-скриптов](https://habr.com/ru/companies/yadro/articles/950700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950700)
-- [Используем сами, рекомендуем другим: об используемых в VK инструментах безопасности и новых сервисах VK Cloud](https://habr.com/ru/companies/vktech/articles/950412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950412)
-- [T-ECD — кросс-доменный датасет для исследований в области рекомендательных систем](https://habr.com/ru/companies/tbank/articles/950696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950696)
-- [Мой опыт over-engineering: как 4 микросервиса на Spring Boot убили pet-проект](https://habr.com/ru/articles/950768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950768)
-- [Быстрый старт в CI на примере Flutter &lpar;под банальный Android и интересную «Аврору»&rpar;](https://habr.com/ru/companies/selectel/articles/950436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950436)
+- [Используем сами, рекомендуем другим: об используемых в VK инструментах безопасности и новых сервисах VK Cloud](https://habr.com/ru/companies/vk/articles/950412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
