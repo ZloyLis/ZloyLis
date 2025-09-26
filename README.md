@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Без головы но с идеями: как Strapi оживаляет Next.js &lpar;часть 2&rpar;](https://habr.com/ru/articles/950876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950876)
-- [Почему в космосе &lpar;пока&rpar; нет дата-центров. Часть третья: какие вычисления уже работают](https://habr.com/ru/companies/oleg-bunin/articles/947134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947134)
-- [[Перевод] Почему Python такой медленный? И вот что об этом думают эксперты](https://habr.com/ru/articles/948858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948858)
-- [Как победить CMake: отладка CMake-скриптов](https://habr.com/ru/companies/yadro/articles/950700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950700)
-- [Используем сами, рекомендуем другим: об используемых в VK инструментах безопасности и новых сервисах VK Cloud](https://habr.com/ru/companies/vk/articles/950412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950412)
+- [Почему Фараон остается лучшей игрой в серии](https://habr.com/ru/articles/950938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950938)
+- [Краткая история комплексных чисел](https://habr.com/ru/articles/950774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950774)
+- [Тестирование процессов: как подружить Camunda и Cucumber](https://habr.com/ru/companies/magnit/articles/929856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=929856)
+- [Nano Banana для дизайнеров: как работать, не отходя от Figma](https://habr.com/ru/companies/friflex/articles/950952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950952)
+- [Почему ваше Senior IT-резюме не работает в 2025 году: Взгляд бывшего HR-рекрутера](https://habr.com/ru/articles/950950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
