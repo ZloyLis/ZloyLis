@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как победить CMake: отладка CMake-скриптов](https://habr.com/ru/companies/yadro/articles/950700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950700)
+- [Используем сами, рекомендуем другим: об используемых в VK инструментах безопасности и новых сервисах VK Cloud](https://habr.com/ru/companies/vktech/articles/950412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950412)
+- [T-ECD — кросс-доменный датасет для исследований в области рекомендательных систем](https://habr.com/ru/companies/tbank/articles/950696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950696)
 - [Мой опыт over-engineering: как 4 микросервиса на Spring Boot убили pet-проект](https://habr.com/ru/articles/950768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950768)
 - [Быстрый старт в CI на примере Flutter &lpar;под банальный Android и интересную «Аврору»&rpar;](https://habr.com/ru/companies/selectel/articles/950436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950436)
-- [Динамическое планирование задач в NiFi](https://habr.com/ru/articles/950816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950816)
-- [Автоматизируем синхронизацию тест-кейсов в ТестОпс: больше никаких ручных обновлений](https://habr.com/ru/articles/948940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948940)
-- [От запахов к стабильности: рефакторим тесты на JUnit + Selenide](https://habr.com/ru/companies/testops_tms/articles/950776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
