@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin QA: как перейти с Java и писать тесты в 2 раза быстрее](https://habr.com/ru/companies/otus/articles/950864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950864)
+- [Как получить и использовать бесплатную лицензию PVS-Studio на практике. Часть 2: первый запуск и настройка](https://habr.com/ru/companies/pvs-studio/articles/951022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951022)
+- [Российские ученые ускорили машинное обучение в распределенных системах без центрального сервера](https://habr.com/ru/articles/944442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944442)
 - [[Перевод] Используйте простейшие рабочие решения](https://habr.com/ru/companies/ruvds/articles/949970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949970)
 - [[Перевод] React предпочитают по умолчанию — и это убивает инновации во фронтенде](https://habr.com/ru/companies/piter/articles/950992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950992)
-- [[Перевод] Сколько трафика выдержит сайт на Next.js: нагрузочные тесты, SSR и предрендеринг](https://habr.com/ru/articles/949008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949008)
-- [Чистовики патриарха. О трёх последних книгах Олега Цилюрика](https://habr.com/ru/companies/bhv_publishing/articles/950970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950970)
-- [Почему Фараон остается лучшей игрой в серии](https://habr.com/ru/articles/950938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
