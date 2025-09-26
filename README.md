@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чистовики патриарха. О трёх последних книгах Олега Цилюрика](https://habr.com/ru/companies/bhv_publishing/articles/950970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950970)
 - [Почему Фараон остается лучшей игрой в серии](https://habr.com/ru/articles/950938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950938)
 - [Краткая история комплексных чисел](https://habr.com/ru/articles/950774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950774)
 - [Тестирование процессов: как подружить Camunda и Cucumber](https://habr.com/ru/companies/magnit/articles/929856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=929856)
 - [Nano Banana для дизайнеров: как работать, не отходя от Figma](https://habr.com/ru/companies/friflex/articles/950952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950952)
-- [Почему ваше Senior IT-резюме не работает в 2025 году: Взгляд бывшего HR-рекрутера](https://habr.com/ru/articles/950950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
