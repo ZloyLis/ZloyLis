@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизируем синхронизацию тест-кейсов в ТестОпс: больше никаких ручных обновлений](https://habr.com/ru/articles/948940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948940)
 - [От запахов к стабильности: рефакторим тесты на JUnit + Selenide](https://habr.com/ru/companies/testops_tms/articles/950776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950776)
 - [SPICE-модели: Просто о сложном. Часть 3. Силовые выпрямительные диоды](https://habr.com/ru/articles/950466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950466)
 - [ИИ в Западных корпорациях: Период отрезвления &lpar;сентябрь 2025&rpar;](https://habr.com/ru/articles/950756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950756)
 - [Как работать с нейросетями эффективно: теория и практика](https://habr.com/ru/articles/950730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950730)
-- [DIY Open Source принтер. Часть 1. Покоряем USB Printer Class и имитируем печать текста](https://habr.com/ru/articles/946866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
