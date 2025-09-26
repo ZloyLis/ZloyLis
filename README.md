@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой опыт over-engineering: как 4 микросервиса на Spring Boot убили pet-проект](https://habr.com/ru/articles/950768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950768)
+- [Быстрый старт в CI на примере Flutter &lpar;под банальный Android и интересную «Аврору»&rpar;](https://habr.com/ru/companies/selectel/articles/950436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950436)
+- [Динамическое планирование задач в NiFi](https://habr.com/ru/articles/950816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950816)
 - [Автоматизируем синхронизацию тест-кейсов в ТестОпс: больше никаких ручных обновлений](https://habr.com/ru/articles/948940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948940)
 - [От запахов к стабильности: рефакторим тесты на JUnit + Selenide](https://habr.com/ru/companies/testops_tms/articles/950776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950776)
-- [SPICE-модели: Просто о сложном. Часть 3. Силовые выпрямительные диоды](https://habr.com/ru/articles/950466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950466)
-- [ИИ в Западных корпорациях: Период отрезвления &lpar;сентябрь 2025&rpar;](https://habr.com/ru/articles/950756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950756)
-- [Как работать с нейросетями эффективно: теория и практика](https://habr.com/ru/articles/950730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
