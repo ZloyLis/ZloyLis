@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дача-like кодинг](https://habr.com/ru/articles/951282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951282)
 - [Разбор всех полётов ракет Илона Маска: От основания SpaceX до 2025 года](https://habr.com/ru/articles/951274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951274)
 - [CPython — Сборка мусора изнутри, ч.2](https://habr.com/ru/articles/951250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951250)
 - [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/951242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951242)
 - [Гипотеза Коллатца как фейл мировой математики &lpar;продолжение&rpar;](https://habr.com/ru/articles/951214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951214)
-- [GitOps для начинающих: от открытых материалов для чтения с примерами — к open source-инструментам по теме](https://habr.com/ru/companies/beeline_cloud/articles/951206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
