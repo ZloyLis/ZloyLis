@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/951242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951242)
 - [Гипотеза Коллатца как фейл мировой математики &lpar;продолжение&rpar;](https://habr.com/ru/articles/951214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951214)
+- [GitOps для начинающих: от открытых материалов для чтения с примерами — к open source-инструментам по теме](https://habr.com/ru/companies/beeline_cloud/articles/951206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951206)
 - [PostgreSQL 18: новый асинхронный I/O ускоряет запросы до 3 раз. Что происходит?](https://habr.com/ru/companies/selectel/articles/951172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951172)
-- [Как требование к навигации повлияло на архитектуру мобильного приложени](https://habr.com/ru/companies/nexign/articles/951176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951176)
-- [[Перевод] Как Netflix сделал главную страницу по-настоящему динамичной с помощью GraphQL и триггеров](https://habr.com/ru/companies/spring_aio/articles/951168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951168)
+- [Как требование к навигации повлияло на архитектуру мобильного приложения](https://habr.com/ru/companies/nexign/articles/951176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
