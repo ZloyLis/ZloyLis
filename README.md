@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/951242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951242)
+- [Гипотеза Коллатца как фейл мировой математики &lpar;продолжение&rpar;](https://habr.com/ru/articles/951214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951214)
 - [PostgreSQL 18: новый асинхронный I/O ускоряет запросы до 3 раз. Что происходит?](https://habr.com/ru/companies/selectel/articles/951172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951172)
 - [Как требование к навигации повлияло на архитектуру мобильного приложени](https://habr.com/ru/companies/nexign/articles/951176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951176)
 - [[Перевод] Как Netflix сделал главную страницу по-настоящему динамичной с помощью GraphQL и триггеров](https://habr.com/ru/companies/spring_aio/articles/951168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951168)
-- [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 3. Даём ИИ руки: работа с инструментами и MCP](https://habr.com/ru/companies/amvera/articles/949376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949376)
-- [[Перевод] Redis работает быстро — я буду кэшировать данные в Postgres](https://habr.com/ru/articles/951164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
