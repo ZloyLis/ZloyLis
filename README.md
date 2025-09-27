@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрение API Gateway: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/950838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950838)
 - [Как настроить себе запуск Яндекс музыки на MacBook?](https://habr.com/ru/articles/951136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951136)
 - [Circuit Tracing: как заглянуть в галлюцинации модели и найти там смысл](https://habr.com/ru/companies/redmadrobot/articles/951118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951118)
 - [Как из букв C N O A собрать «удобный современный С++»](https://habr.com/ru/articles/951060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951060)
 - [Как часто вы думаете о Римской империи… &lpar;cтатическом анализе кода&rpar;](https://habr.com/ru/companies/ncloudtech/articles/945430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945430)
-- [Kotlin QA: как перейти с Java и писать тесты в 2 раза быстрее](https://habr.com/ru/companies/otus/articles/950864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
