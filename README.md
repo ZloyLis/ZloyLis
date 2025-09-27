@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые алгоритмы ускоряют машинное обучение в децентрализованных сетях](https://habr.com/ru/articles/944444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944444)
 - [Орел или решка. C++ Edition](https://habr.com/ru/articles/950046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950046)
 - [Внедрение API Gateway: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/950838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950838)
 - [Как настроить себе запуск Яндекс музыки на MacBook?](https://habr.com/ru/articles/951136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951136)
 - [Circuit Tracing: как заглянуть в галлюцинации модели и найти там смысл](https://habr.com/ru/companies/redmadrobot/articles/951118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951118)
-- [Как из букв C N O A собрать «удобный современный С++»](https://habr.com/ru/articles/951060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
