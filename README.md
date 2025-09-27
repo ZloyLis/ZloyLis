@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как требование к навигации повлияло на архитектуру мобильного приложени](https://habr.com/ru/companies/nexign/articles/951176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951176)
+- [[Перевод] Как Netflix сделал главную страницу по-настоящему динамичной с помощью GraphQL и триггеров](https://habr.com/ru/companies/spring_aio/articles/951168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951168)
 - [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 3. Даём ИИ руки: работа с инструментами и MCP](https://habr.com/ru/companies/amvera/articles/949376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949376)
 - [[Перевод] Redis работает быстро — я буду кэшировать данные в Postgres](https://habr.com/ru/articles/951164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951164)
-- [[Перевод] Redis работает быстро — я буду кэшировать данные в Postgres](https://habr.com/ru/articles/951160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951160)
 - [Новые алгоритмы ускоряют машинное обучение в децентрализованных сетях](https://habr.com/ru/articles/944444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944444)
-- [Орел или решка. C++ Edition](https://habr.com/ru/articles/950046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
