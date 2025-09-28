@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular signals 101](https://habr.com/ru/articles/951486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951486)
+- [О книге «Фулстек JavaScript: Секреты, которые должен знать каждый миддл»](https://habr.com/ru/articles/951496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951496)
 - [Эффект Манделы или как одновременно вывести звук на две bluetooth колонки c Samsung на андроиде 15](https://habr.com/ru/articles/951462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951462)
 - [Верификация разработчиков Android по паспорту](https://habr.com/ru/companies/globalsign/articles/951460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951460)
 - [Полезный проект — ещё полдела: инструменты для оформления README и документации](https://habr.com/ru/companies/mws/articles/944316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=944316)
-- [Массивы в Swift](https://habr.com/ru/articles/951398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951398)
-- [[Перевод] Мой iPhone 8 отказывается умирать: теперь это OCR-сервер на солнечном питании](https://habr.com/ru/companies/ruvds/articles/950814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
