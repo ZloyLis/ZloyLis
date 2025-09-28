@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как за год перезапустить онлайн-банк для бизнеса, влюбить в него клиентов и повысить продажи. Опыт продакт-лида](https://habr.com/ru/articles/951352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951352)
+- [Топ языков программирования в 2025 году: рейтинг IEEE и влияние на него языковых моделей](https://habr.com/ru/companies/selectel/articles/951348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951348)
+- [UX/UI и немного промышленного дизайна для Air quality sensor](https://habr.com/ru/articles/951342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951342)
 - [Что программисту нужно знать про зрение: гайд офтальмолога и инженера](https://habr.com/ru/articles/951300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951300)
 - [Дача-like кодинг](https://habr.com/ru/articles/951282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951282)
-- [Разбор всех полётов ракет Илона Маска: От основания SpaceX до 2025 года](https://habr.com/ru/articles/951274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951274)
-- [CPython — Сборка мусора изнутри, ч.2](https://habr.com/ru/articles/951250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951250)
-- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/951242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
