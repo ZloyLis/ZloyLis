@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От консоли к 3D: Как написать игру «Сапер» на Python с нуля версия 3D &lpar;часть третья&rpar;](https://habr.com/ru/articles/951782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951782)
+- [Почему loadKoinModules и unloadKoinModules в Koin могут ломать ваши зависимости и как этого избежать](https://habr.com/ru/articles/951778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951778)
 - [Как мы в Авито автоматически лечим ноды в Kubernetes](https://habr.com/ru/companies/avito/articles/951030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951030)
 - [Shadcn для Vue: норм или стрём?](https://habr.com/ru/articles/951748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951748)
 - [[Перевод] SolidJS для React-разработчиков: как реактивная библиотека устроена под капотом](https://habr.com/ru/articles/951240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951240)
-- [«Нет, я не Байрон, я модель». Превращаем прозу в поэзию с нейросетью — мой кейс](https://habr.com/ru/companies/ru_mts/articles/951696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951696)
-- [Можно ли сделать мобильный интерфейс без человека.  Эксперимент с ИИ](https://habr.com/ru/companies/surfstudio/articles/951660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
