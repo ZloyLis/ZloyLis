@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Практическое руководство по иконкам в веб-проектах — Часть 2](https://habr.com/ru/articles/951070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951070)
 - [Управление результатами статического анализа](https://habr.com/ru/companies/pvs-studio/articles/951620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951620)
 - [[Перевод] Как исходные цели проекта Postgres определили его успех](https://habr.com/ru/articles/951470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951470)
 - [[Перевод] Трюк, который раньше ускорял Python, теперь лишь захламляет код](https://habr.com/ru/articles/951230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951230)
 - [Планирование на основе фактического потребления: VPA в Kubernetes](https://habr.com/ru/companies/otus/articles/949734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949734)
-- [Обзоры препринтов научных статей «astro-ph/arxiv.org» за август 2025 года](https://habr.com/ru/articles/951530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
