@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление результатами статического анализа](https://habr.com/ru/companies/pvs-studio/articles/951620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951620)
+- [[Перевод] Как исходные цели проекта Postgres определили его успех](https://habr.com/ru/articles/951470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951470)
+- [[Перевод] Трюк, который раньше ускорял Python, теперь лишь захламляет код](https://habr.com/ru/articles/951230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951230)
 - [Планирование на основе фактического потребления: VPA в Kubernetes](https://habr.com/ru/companies/otus/articles/949734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949734)
 - [Обзоры препринтов научных статей «astro-ph/arxiv.org» за август 2025 года](https://habr.com/ru/articles/951530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951530)
-- [Альтернативная нотация описания архитектуры ИТ систем](https://habr.com/ru/articles/951524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951524)
-- [Нам пришлось сделать инструмент моделирования, чтобы понять на сколько крут ArchiMate](https://habr.com/ru/companies/architeezy/articles/949896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949896)
-- [Программирование Роботов от МТС — соревнование с педальным приводом](https://habr.com/ru/articles/951294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
