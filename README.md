@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение задачи о покрытии с помощью SAT-солвера](https://habr.com/ru/articles/951876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951876)
 - [ESP32-CAM: Алгоритмы компьютерного зрения](https://habr.com/ru/articles/951838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951838)
 - [ИИ-проекты съедают бюджеты, но не приносят ROI. Виновата технология?](https://habr.com/ru/articles/951682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951682)
 - [[Перевод] Как я, не разработчик, читаю туториал, который ты, разработчик, написал для меня](https://habr.com/ru/articles/951794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951794)
 - [От консоли к 3D: Как написать игру «Сапер» на Python с нуля версия 3D &lpar;часть третья&rpar;](https://habr.com/ru/articles/951782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951782)
-- [Почему loadKoinModules и unloadKoinModules в Koin могут ломать ваши зависимости и как этого избежать](https://habr.com/ru/articles/951778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
