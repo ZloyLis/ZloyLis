@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзоры препринтов научных статей «astro-ph/arxiv.org» за август 2025 года](https://habr.com/ru/articles/951530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951530)
+- [Альтернативная нотация описания архитектуры ИТ систем](https://habr.com/ru/articles/951524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951524)
 - [Нам пришлось сделать инструмент моделирования, чтобы понять на сколько крут ArchiMate](https://habr.com/ru/companies/architeezy/articles/949896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949896)
 - [Программирование Роботов от МТС — соревнование с педальным приводом](https://habr.com/ru/articles/951294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951294)
 - [ИИ-поиск в 2ГИС: как учим нейросети понимать настроение, фото и смыслы](https://habr.com/ru/companies/2gis/articles/951008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951008)
-- [От сети капилляров к реальным геологическим структурам](https://habr.com/ru/articles/947624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947624)
-- [Про асинхронное программирование микроконтроллеров и программирование аппаратных функций периферии процессора](https://habr.com/ru/articles/951284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
