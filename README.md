@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-поиск в 2ГИС: как учим нейросети понимать настроение, фото и смыслы](https://habr.com/ru/companies/2gis/articles/951008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951008)
+- [От сети капилляров к реальным геологическим структурам](https://habr.com/ru/articles/947624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947624)
 - [Про асинхронное программирование микроконтроллеров и программирование аппаратных функций периферии процессора](https://habr.com/ru/articles/951284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951284)
 - [Angular signals 101](https://habr.com/ru/articles/951486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951486)
 - [О книге «Фулстек JavaScript: Секреты, которые должен знать каждый миддл»](https://habr.com/ru/articles/951496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951496)
-- [Эффект Манделы или как одновременно вывести звук на две bluetooth колонки c Samsung на андроиде 15](https://habr.com/ru/articles/951462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951462)
-- [Верификация разработчиков Android по паспорту](https://habr.com/ru/companies/globalsign/articles/951460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
