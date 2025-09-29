@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] SolidJS для React-разработчиков: как реактивная библиотека устроена под капотом](https://habr.com/ru/articles/951240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951240)
+- [«Нет, я не Байрон, я модель». Превращаем прозу в поэзию с нейросетью — мой кейс](https://habr.com/ru/companies/ru_mts/articles/951696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951696)
+- [Можно ли сделать мобильный интерфейс без человека.  Эксперимент с ИИ](https://habr.com/ru/companies/surfstudio/articles/951660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951660)
+- [Интеграция RAG&lpar;Retrieval-Augmented Generation&rpar; и графов знаний в генеративных ИИ](https://habr.com/ru/articles/951712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951712)
 - [[Перевод] Flight Recorder в Go 1.25 – точечная диагностика без лишних трассировок](https://habr.com/ru/articles/951216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951216)
-- [[Перевод] Практическое руководство по иконкам в веб-проектах — Часть 2](https://habr.com/ru/articles/951070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951070)
-- [Управление результатами статического анализа](https://habr.com/ru/companies/pvs-studio/articles/951620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951620)
-- [[Перевод] Как исходные цели проекта Postgres определили его успех](https://habr.com/ru/articles/951470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951470)
-- [[Перевод] Трюк, который раньше ускорял Python, теперь лишь захламляет код](https://habr.com/ru/articles/951230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
