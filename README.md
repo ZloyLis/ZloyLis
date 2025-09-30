@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто автор? О правах на код, написанный с помощью искусственного интеллекта](https://habr.com/ru/companies/oleg-bunin/articles/946634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946634)
 - [Переезд в облако рекламного движка с baremetal](https://habr.com/ru/companies/vk/articles/951638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951638)
 - [[Перевод] 2000 лет без ответа: математики создали универсальный метод перечислительной геометрии](https://habr.com/ru/articles/952134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952134)
 - [Что такое DevOps и почему он автоматизировал не всё](https://habr.com/ru/companies/ruvds/articles/950758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950758)
 - [Наследие цифрового детства: как код, написанный студентом 5 лет назад, живёт в инфраструктуре сегодня](https://habr.com/ru/articles/952112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952112)
-- [Архитектура автономных систем на краю сети: практики проектирования без надежной связи](https://habr.com/ru/articles/952086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
