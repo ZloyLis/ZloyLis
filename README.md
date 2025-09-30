@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура автономных систем на краю сети: практики проектирования без надежной связи](https://habr.com/ru/articles/952086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952086)
+- [DevSecOps за 20 миллионов? Я сделал свой сканер и выложил бесплатно](https://habr.com/ru/articles/945596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945596)
 - [Грустная история о том как я Telegram Miniapp интегривал](https://habr.com/ru/articles/952064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952064)
 - [Как сделать сложный технический текст простым и понятным: приемы из практики технического писателя](https://habr.com/ru/companies/bercut/articles/951972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951972)
 - [Разбираемся с Feature Toggle на примере Unleash](https://habr.com/ru/companies/alfa/articles/951616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951616)
-- [Собственное файловое хранилище для 400 Пбайт видеоконтента](https://habr.com/ru/companies/oleg-bunin/articles/950518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950518)
-- [Странные CSS-свойства, но, возможно, полезные](https://habr.com/ru/companies/ruvds/articles/950476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
