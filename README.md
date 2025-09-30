@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое DevOps и почему он автоматизировал не всё](https://habr.com/ru/companies/ruvds/articles/950758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950758)
+- [Наследие цифрового детства: как код, написанный студентом 5 лет назад, живёт в инфраструктуре сегодня](https://habr.com/ru/articles/952112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952112)
 - [Архитектура автономных систем на краю сети: практики проектирования без надежной связи](https://habr.com/ru/articles/952086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952086)
 - [DevSecOps за 20 миллионов? Я сделал свой сканер и выложил бесплатно](https://habr.com/ru/articles/945596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945596)
 - [Грустная история о том как я Telegram Miniapp интегривал](https://habr.com/ru/articles/952064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952064)
-- [Как сделать сложный технический текст простым и понятным: приемы из практики технического писателя](https://habr.com/ru/companies/bercut/articles/951972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951972)
-- [Разбираемся с Feature Toggle на примере Unleash](https://habr.com/ru/companies/alfa/articles/951616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
