@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерн «Душитель». Как развивать сложные системы, не ломая старое](https://habr.com/ru/articles/951908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951908)
+- [DX в процедурных макросах на Rust](https://habr.com/ru/companies/otus/articles/949300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949300)
 - [Использование моделирования решает проблемы формирования изображений космических объектов](https://habr.com/ru/articles/948416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948416)
 - [Решение задачи о покрытии с помощью SAT-солвера](https://habr.com/ru/articles/951876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951876)
 - [ESP32-CAM: Алгоритмы компьютерного зрения](https://habr.com/ru/articles/951838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951838)
-- [ИИ-проекты съедают бюджеты, но не приносят ROI. Виновата технология?](https://habr.com/ru/articles/951682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951682)
-- [[Перевод] Как я, не разработчик, читаю туториал, который ты, разработчик, написал для меня](https://habr.com/ru/articles/951794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
