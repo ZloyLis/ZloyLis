@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Собственное файловое хранилище для 400 Пбайт видеоконтента](https://habr.com/ru/companies/habr_rutube/articles/950518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950518)
+- [Грустная история о том как я Telegram Miniapp интегривал](https://habr.com/ru/articles/952064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952064)
+- [Как сделать сложный технический текст простым и понятным: приемы из практики технического писателя](https://habr.com/ru/companies/bercut/articles/951972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951972)
+- [Разбираемся с Feature Toggle на примере Unleash](https://habr.com/ru/companies/alfa/articles/951616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951616)
+- [Собственное файловое хранилище для 400 Пбайт видеоконтента](https://habr.com/ru/companies/oleg-bunin/articles/950518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950518)
 - [Странные CSS-свойства, но, возможно, полезные](https://habr.com/ru/companies/ruvds/articles/950476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950476)
-- [JavaScript, отдохни! Делаем интерактивные вещи на HTML и CSS](https://habr.com/ru/companies/reksoft/articles/950918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950918)
-- [$220К в месяц на индексации сайтов для Google](https://habr.com/ru/articles/951840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951840)
-- [Как за два месяца сделать прототип системы визуальной поддержки продаж в B2B](https://habr.com/ru/companies/T1Holding/articles/951948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
