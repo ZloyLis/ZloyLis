@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [NeuVector в современной Kubernetes-инфраструктуре: почему мы не рекомендуем его для production](https://habr.com/ru/companies/flant/articles/950420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950420)
-- [Как мы запретили писать код с багами в локализации или «Без права на bug»](https://habr.com/ru/companies/lanit/articles/949228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949228)
-- [Как появилась программа багбаунти? История развития](https://habr.com/ru/companies/selectel/articles/950496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950496)
-- [[Перевод] Что нового в PostgreSQL 18? Взгляд разработчика](https://habr.com/ru/articles/951802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951802)
-- [Строили плавучие города, изучали бизнес-требования и писали Use Cases: как школьники провели лето на ИТ-смене ПСБ](https://habr.com/ru/companies/psb/articles/951564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951564)
+- [Что нужно знать системному аналитику о Apache Cassandra](https://habr.com/ru/companies/tbank/articles/951772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951772)
+- [SQL против NoSQL: мифы и реальность](https://habr.com/ru/companies/otus/articles/949468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949468)
+- [Как JPEG стал стандартом изображений в интернете](https://habr.com/ru/companies/first/articles/951960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951960)
+- [Оптимизация выравнивания и заполнения структур в Go. В 2025 г. всё ещё экономим на спичках](https://habr.com/ru/companies/domclick/articles/951724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951724)
+- [[Перевод] Современный CSS: что важно знать в 2025 году](https://habr.com/ru/companies/timeweb/articles/951540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
