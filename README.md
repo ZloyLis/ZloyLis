@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Паттерн «Душитель». Как развивать сложные системы, не ломая старое](https://habr.com/ru/articles/951908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951908)
-- [DX в процедурных макросах на Rust](https://habr.com/ru/companies/otus/articles/949300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949300)
-- [Использование моделирования решает проблемы формирования изображений космических объектов](https://habr.com/ru/articles/948416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948416)
-- [Решение задачи о покрытии с помощью SAT-солвера](https://habr.com/ru/articles/951876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951876)
-- [ESP32-CAM: Алгоритмы компьютерного зрения](https://habr.com/ru/articles/951838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951838)
+- [NeuVector в современной Kubernetes-инфраструктуре: почему мы не рекомендуем его для production](https://habr.com/ru/companies/flant/articles/950420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950420)
+- [Как мы запретили писать код с багами в локализации или «Без права на bug»](https://habr.com/ru/companies/lanit/articles/949228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949228)
+- [Как появилась программа багбаунти? История развития](https://habr.com/ru/companies/selectel/articles/950496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950496)
+- [[Перевод] Что нового в PostgreSQL 18? Взгляд разработчика](https://habr.com/ru/articles/951802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951802)
+- [Строили плавучие города, изучали бизнес-требования и писали Use Cases: как школьники провели лето на ИТ-смене ПСБ](https://habr.com/ru/companies/psb/articles/951564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
