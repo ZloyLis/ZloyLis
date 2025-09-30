@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вероятность 1 к 73 000 000 стала приговором для матери двух младенцев: дело Салли Кларк](https://habr.com/ru/articles/952222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952222)
 - [Собираем персональные данные правильно: рекомендации DPO](https://habr.com/ru/companies/bft/articles/952206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952206)
 - [[Перевод] Состояние HTTP-клиентов в Spring](https://habr.com/ru/companies/spring_aio/articles/952158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952158)
 - [Ускоряем CLI-утилиты с помощью io_uring](https://habr.com/ru/companies/otus/articles/948846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948846)
 - [Кто автор? О правах на код, написанный с помощью искусственного интеллекта](https://habr.com/ru/companies/oleg-bunin/articles/946634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946634)
-- [Переезд в облако рекламного движка с baremetal](https://habr.com/ru/companies/vk/articles/951638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
