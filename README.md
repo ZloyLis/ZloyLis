@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] GPT-5 и API Responses: зачем нужен ещё один стандарт?](https://habr.com/ru/articles/951244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951244)
+- [Погружаемся в недра Retrofit](https://habr.com/ru/companies/alfa/articles/947908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947908)
+- [Я DevOps, который искал работу. Почему не Яндекс?](https://habr.com/ru/articles/952404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952404)
+- [Используем Рутокен ЭЦП для авторизации на сайте](https://habr.com/ru/articles/952448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952448)
 - [Как с помощью локальной LLM автоматизировать рутину и облегчить жизнь себе и коллегам](https://habr.com/ru/companies/avito/articles/950926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950926)
-- [[Перевод] Почему Go до сих пор меня раздражает?](https://habr.com/ru/articles/951218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951218)
-- [Организация работы аналитиков на discovery-фазе: эффективные практики](https://habr.com/ru/articles/952406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952406)
-- [Заморозили и полетело: всё, что нужно знать про Frozen-коллекции в C#](https://habr.com/ru/companies/otus/articles/950946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950946)
-- [Микропроцессы и пост дизайн ревью](https://habr.com/ru/companies/Voximplant/articles/952380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
