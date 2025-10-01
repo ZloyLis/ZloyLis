@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заморозили и полетело: всё, что нужно знать про Frozen-коллекции в C#](https://habr.com/ru/companies/otus/articles/950946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950946)
+- [Микропроцессы и пост дизайн ревью](https://habr.com/ru/companies/Voximplant/articles/952380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952380)
 - [Зачем учить английский в эпоху нейросетей](https://habr.com/ru/companies/yandex_praktikum/articles/952186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952186)
 - [Изучаем рефаб Nokia 5300 за $20: как китайцы возвращают к жизни старые телефоны](https://habr.com/ru/companies/ruvds/articles/950424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950424)
 - [Как обмануть LLM: обход защиты при помощи состязательных суффиксов. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/950318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950318)
-- [[Перевод] Устаревшие версии Python обходятся компаниям в миллионы долларов](https://habr.com/ru/articles/951234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951234)
-- [LAG vs PLA](https://habr.com/ru/companies/megafon/articles/952140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
