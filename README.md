@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [О параллельности при создании индексов в Postgres &lpar;часть 1&rpar;](https://habr.com/ru/companies/gnivc/articles/952494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952494)
 - [Адаптивные ИИ-интерфейсы: от персонализации контента к персонализации когнитивных процессов](https://habr.com/ru/articles/952476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952476)
 - [[Перевод] GPT-5 и API Responses: зачем нужен ещё один стандарт?](https://habr.com/ru/articles/951244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951244)
 - [Погружаемся в недра Retrofit](https://habr.com/ru/companies/alfa/articles/947908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947908)
 - [Используем Рутокен ЭЦП для авторизации на сайте](https://habr.com/ru/articles/952448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952448)
-- [Как с помощью локальной LLM автоматизировать рутину и облегчить жизнь себе и коллегам](https://habr.com/ru/companies/avito/articles/950926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
