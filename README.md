@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компьютерное зрение + ARKit = AR-навигация внутри зданий](https://habr.com/ru/companies/2gis/articles/951526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951526)
+- [1С: Шина. Используем сервисную шину предприятия](https://habr.com/ru/companies/otus/articles/950668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950668)
+- [Неудовлетворительно. Результаты исследования безопасности российских frontend-приложений Q2 2025](https://habr.com/ru/articles/952242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952242)
 - [[Перевод] Большой тест на прочность для агентного ИИ](https://habr.com/ru/articles/952062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952062)
 - [Хватит писать «чистый» код. Пора писать понятный код](https://habr.com/ru/articles/952300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952300)
-- [DIY Open Source принтер. Часть 2. Логика управления печатающей головой HP123](https://habr.com/ru/articles/951198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951198)
-- [Токамак в фокусе: как код SPIDER меняет подход к термоядерному синтезу](https://habr.com/ru/articles/948418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948418)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за сентябрь 2025 года](https://habr.com/ru/articles/947894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
