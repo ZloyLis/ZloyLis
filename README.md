@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за сентябрь 2025 года](https://habr.com/ru/articles/947894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947894)
 - [Как я строил API для выгрузки и обработки FHIR-данных на Go](https://habr.com/ru/articles/952156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952156)
 - [Как вероятность 1 к 73 000 000 стала приговором для матери двух младенцев: дело Салли Кларк](https://habr.com/ru/articles/952222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952222)
 - [[Перевод] Состояние HTTP-клиентов в Spring](https://habr.com/ru/companies/spring_aio/articles/952158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952158)
 - [Ускоряем CLI-утилиты с помощью io_uring](https://habr.com/ru/companies/otus/articles/948846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948846)
-- [Кто автор? О правах на код, написанный с помощью искусственного интеллекта](https://habr.com/ru/companies/oleg-bunin/articles/946634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=946634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
