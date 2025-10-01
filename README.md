@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем учить английский в эпоху нейросетей](https://habr.com/ru/companies/yandex_praktikum/articles/952186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952186)
+- [Изучаем рефаб Nokia 5300 за $20: как китайцы возвращают к жизни старые телефоны](https://habr.com/ru/companies/ruvds/articles/950424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950424)
+- [Как обмануть LLM: обход защиты при помощи состязательных суффиксов. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/950318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950318)
+- [[Перевод] Устаревшие версии Python обходятся компаниям в миллионы долларов](https://habr.com/ru/articles/951234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951234)
 - [LAG vs PLA](https://habr.com/ru/companies/megafon/articles/952140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952140)
-- [Грамотная организация обработки ПДн – первый шаг](https://habr.com/ru/companies/aktiv-company/articles/952068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952068)
-- [Pytest. Гайд для тех, кто ни разу про него не слышал](https://habr.com/ru/companies/beget/articles/948806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948806)
-- [Полный гайд по golden-тестам во Flutter: зачем нужны и как настроить](https://habr.com/ru/companies/yandex/articles/952090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952090)
-- [Автоматизация Laravel: как сделать процесс разработки быстрым и надежным](https://habr.com/ru/articles/952250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
