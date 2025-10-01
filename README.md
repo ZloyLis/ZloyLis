@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY Open Source принтер. Часть 2. Логика управления печатающей головой HP123](https://habr.com/ru/articles/951198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951198)
+- [Токамак в фокусе: как код SPIDER меняет подход к термоядерному синтезу](https://habr.com/ru/articles/948418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948418)
 - [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за сентябрь 2025 года](https://habr.com/ru/articles/947894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947894)
 - [Как я строил API для выгрузки и обработки FHIR-данных на Go](https://habr.com/ru/articles/952156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952156)
 - [Как вероятность 1 к 73 000 000 стала приговором для матери двух младенцев: дело Салли Кларк](https://habr.com/ru/articles/952222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952222)
-- [[Перевод] Состояние HTTP-клиентов в Spring](https://habr.com/ru/companies/spring_aio/articles/952158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952158)
-- [Ускоряем CLI-утилиты с помощью io_uring](https://habr.com/ru/companies/otus/articles/948846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
