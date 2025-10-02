@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Восстановление повреждённых данных в PostgreSQL](https://habr.com/ru/articles/952496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952496)
-- [Как обмануть LLM: обход защиты при помощи AutoDAN. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/950326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950326)
-- [Доставка содержания и изменений при имплементации ERP-систем](https://habr.com/ru/articles/952704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952704)
-- [HeroBench: проверяем, как LLM справляются со сложным планированием в виртуальных RPG-мирах](https://habr.com/ru/companies/airi/articles/948632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948632)
-- [Как дизайнеры совершенствуют проектные процессы в Авито с помощью матрицы DACI](https://habr.com/ru/companies/avito/articles/950884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950884)
+- [Зубрить сложно, понимать легко: бинарный поиск](https://habr.com/ru/articles/952810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952810)
+- [Книга: «Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5. 7-е изд.»](https://habr.com/ru/companies/piter/articles/950604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950604)
+- [Отделяем мух от Kotlett. Динамические обновления без релизов и BDUI](https://habr.com/ru/companies/vktech/articles/950588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950588)
+- [Откуда берётся запутанный код](https://habr.com/ru/articles/952784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952784)
+- [Пишем Cron-задание для Sidekiq в GitLab](https://habr.com/ru/companies/sportmaster_lab/articles/952718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
