@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Структура против хаоса — элегантное решение для создания форм в React.js](https://habr.com/ru/articles/953004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953004)
 - [Задачи по алгоритмам: ищем непростые числа](https://habr.com/ru/articles/952986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952986)
 - [K8S для самых маленьких или как поднять отказаустойчивый кластер k8s. Часть 1](https://habr.com/ru/articles/952982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952982)
 - [Как инженерная боль вдохновила на создание мобильного приложения — клиента Modbus TCP](https://habr.com/ru/articles/952972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952972)
 - [Полный курс Full‑Stack магии: от идеи и фреймворков до DevOps и SEO](https://habr.com/ru/articles/952934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952934)
-- [Движок для Arcanum: Ретро-кодинг на ПК 1995 года как акт цифровой археологии. Глава 01 — Синопсис](https://habr.com/ru/articles/952908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
