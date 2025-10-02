@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Сравниваем Rust и Carbon](https://habr.com/ru/articles/952854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952854)
+- [[Перевод] Компенсация сетевой задержки: как зародилась технология rollback netcode](https://habr.com/ru/articles/952872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952872)
+- [Продуктовый дизайнер как адвокат пользователя: нюансы разработки интерфейсов Kaspersky NGFW](https://habr.com/ru/companies/kaspersky/articles/952672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952672)
+- [Топ-30 бесплатных нейросетей, которые облегчат вашу жизнь](https://habr.com/ru/companies/bothub/articles/952148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952148)
 - [Flutter-дайджест сентября](https://habr.com/ru/articles/952832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952832)
 - [Кеширование Lottie-анимаций с помощью Service Worker](https://habr.com/ru/articles/952830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952830)
-- [Зубрить сложно, понимать легко: бинарный поиск](https://habr.com/ru/articles/952810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952810)
-- [Книга: «Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5. 7-е изд.»](https://habr.com/ru/companies/piter/articles/950604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
