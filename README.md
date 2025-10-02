@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [QR-код по запросу: знакомство с QRious](https://habr.com/ru/companies/selectel/articles/952656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952656)
-- [Нормированные пространства и рендеринг трёхмерных фрактальных множеств: ray marching, поле расстояний, базовые примеры](https://habr.com/ru/companies/sberbank/articles/952102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952102)
-- [URLPattern API как «роутер без фреймворка» &lpar;браузер + Node 24&rpar;](https://habr.com/ru/companies/otus/articles/950140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950140)
-- [Ищу слитые в опен сорс токены ботов](https://habr.com/ru/articles/952580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952580)
-- [Прорыв в обучении бинарных нейронных сетей: новый метод квантования обеспечивает их стабильность и высокое качество](https://habr.com/ru/articles/948420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948420)
+- [HeroBench: проверяем, как LLM справляются со сложным планированием в виртуальных RPG-мирах](https://habr.com/ru/companies/airi/articles/948632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948632)
+- [Как дизайнеры совершенствуют проектные процессы в Авито с помощью матрицы DACI](https://habr.com/ru/companies/avito/articles/950884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950884)
+- [Scala Digest. Выпуск 33](https://habr.com/ru/companies/tbank/articles/952674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952674)
+- [Вакансия Шредингера? Зачем компании размещают «ненастоящие» объявления о работе — причины и признаки «призраков»](https://habr.com/ru/companies/beeline_cloud/articles/952526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952526)
+- [Масштабируемость под нагрузкой: как 400 RPS раскрывают потенциал B2B системы](https://habr.com/ru/companies/compo/articles/952670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
