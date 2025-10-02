@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обмануть LLM: обход защиты при помощи AutoDAN. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/950326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950326)
+- [Доставка содержания и изменений при имплементации ERP-систем](https://habr.com/ru/articles/952704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952704)
 - [HeroBench: проверяем, как LLM справляются со сложным планированием в виртуальных RPG-мирах](https://habr.com/ru/companies/airi/articles/948632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948632)
 - [Как дизайнеры совершенствуют проектные процессы в Авито с помощью матрицы DACI](https://habr.com/ru/companies/avito/articles/950884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950884)
 - [Scala Digest. Выпуск 33](https://habr.com/ru/companies/tbank/articles/952674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952674)
-- [Вакансия Шредингера? Зачем компании размещают «ненастоящие» объявления о работе — причины и признаки «призраков»](https://habr.com/ru/companies/beeline_cloud/articles/952526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952526)
-- [Масштабируемость под нагрузкой: как 400 RPS раскрывают потенциал B2B системы](https://habr.com/ru/companies/compo/articles/952670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
