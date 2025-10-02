@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Русскоязычных пособий по Lua катастрофически не хватает. Мы решаем эту проблему». Читаем главу о введении в стек](https://habr.com/ru/companies/ncloudtech/articles/952536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952536)
+- [Старт в «железной» индустрии: от модуля ядра Linux для СнК до работы с GSM-системами](https://habr.com/ru/companies/yadro/articles/952886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952886)
+- [Погружение в IT на Merge Baltic: зачем айтишнику ехать на конференцию у моря, и что привезти с собой из Светлогорска](https://habr.com/ru/companies/merge/articles/952880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952880)
 - [[Перевод] Компенсация сетевой задержки: как зародилась технология rollback netcode](https://habr.com/ru/articles/952872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952872)
 - [Продуктовый дизайнер как адвокат пользователя: нюансы разработки интерфейсов Kaspersky NGFW](https://habr.com/ru/companies/kaspersky/articles/952672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952672)
-- [Топ-30 бесплатных нейросетей, которые облегчат вашу жизнь](https://habr.com/ru/companies/bothub/articles/952148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952148)
-- [Flutter-дайджест сентября](https://habr.com/ru/articles/952832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952832)
-- [Кеширование Lottie-анимаций с помощью Service Worker](https://habr.com/ru/articles/952830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
