@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [URLPattern API как «роутер без фреймворка» &lpar;браузер + Node 24&rpar;](https://habr.com/ru/companies/otus/articles/950140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950140)
+- [Ищу слитые в опен сорс токены ботов](https://habr.com/ru/articles/952580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952580)
 - [Прорыв в обучении бинарных нейронных сетей: новый метод квантования обеспечивает их стабильность и высокое качество](https://habr.com/ru/articles/948420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948420)
 - [Замыканий в JavaScript не существует](https://habr.com/ru/articles/947116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947116)
 - [Инфраструктура без боли: Kubernetes Security, GitOps, Kafka, Angie — что изучить в октябре](https://habr.com/ru/companies/otus/articles/952128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952128)
-- [PostgreSQL 18: быстрее, умнее, нагляднее](https://habr.com/ru/companies/postgrespro/articles/952514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952514)
-- [О параллельности при создании индексов в Postgres &lpar;часть 1&rpar;](https://habr.com/ru/companies/gnivc/articles/952494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
