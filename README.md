@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сравниваем Rust и Carbon](https://habr.com/ru/articles/952854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952854)
+- [Flutter-дайджест сентября](https://habr.com/ru/articles/952832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952832)
+- [Кеширование Lottie-анимаций с помощью Service Worker](https://habr.com/ru/articles/952830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952830)
 - [Зубрить сложно, понимать легко: бинарный поиск](https://habr.com/ru/articles/952810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952810)
 - [Книга: «Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5. 7-е изд.»](https://habr.com/ru/companies/piter/articles/950604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950604)
-- [Отделяем мух от Kotlett. Динамические обновления без релизов и BDUI](https://habr.com/ru/companies/vktech/articles/950588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950588)
-- [Откуда берётся запутанный код](https://habr.com/ru/articles/952784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952784)
-- [Пишем Cron-задание для Sidekiq в GitLab](https://habr.com/ru/companies/sportmaster_lab/articles/952718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
