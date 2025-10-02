@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задачи по алгоритмам: ищем непростые числа](https://habr.com/ru/articles/952986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952986)
+- [K8S для самых маленьких или как поднять отказаустойчивый кластер k8s. Часть 1](https://habr.com/ru/articles/952982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952982)
+- [Как инженерная боль вдохновила на создание мобильного приложения — клиента Modbus TCP](https://habr.com/ru/articles/952972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952972)
 - [Полный курс Full‑Stack магии: от идеи и фреймворков до DevOps и SEO](https://habr.com/ru/articles/952934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952934)
 - [Движок для Arcanum: Ретро-кодинг на ПК 1995 года как акт цифровой археологии. Глава 01 — Синопсис](https://habr.com/ru/articles/952908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952908)
-- [[Перевод] Байткод инструментация методов в Java: когда семплирования уже мало](https://habr.com/ru/companies/spring_aio/articles/952928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952928)
-- [«Русскоязычных пособий по Lua катастрофически не хватает. Мы решаем эту проблему». Читаем главу о введении в стек](https://habr.com/ru/companies/ncloudtech/articles/952536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952536)
-- [Старт в «железной» индустрии: от модуля ядра Linux для СнК до работы с GSM-системами](https://habr.com/ru/companies/yadro/articles/952886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
