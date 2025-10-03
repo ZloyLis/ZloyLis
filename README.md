@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL против 10 миллионов записей: оптимизация запросов, которая спасла наш проект](https://habr.com/ru/articles/953264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953264)
-- [Что такое MDM: сделай сам и подключи Knox за 60 минут](https://habr.com/ru/companies/samsung/articles/952990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952990)
-- [Не флагман, но с амбициями: тестируем камеру HUAWEI nova 14 Pro в реальных условиях](https://habr.com/ru/specials/952930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952930)
-- [Видеоаналитика в реальном времени: что делать, если нет GPU](https://habr.com/ru/companies/sibur_official/articles/952870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952870)
-- [Как написать нейросеть для бизнеса на Python](https://habr.com/ru/companies/bothub/articles/953230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953230)
+- [Построение KMP SDK: инсайты и подводные камни из нашего опыта](https://habr.com/ru/articles/953286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953286)
+- [Построение KMP SDK: единая дизайн-система и управление ресурсами](https://habr.com/ru/articles/953284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953284)
+- [Построение KMP SDK: проектирование архитектуры для feature-модулей](https://habr.com/ru/articles/953282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953282)
+- [Построение KMP SDK: базовая архитектура для общей библиотеки](https://habr.com/ru/articles/953280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953280)
+- [Как устроены перечисления в PHP](https://habr.com/ru/articles/953274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
