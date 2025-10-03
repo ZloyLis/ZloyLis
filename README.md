@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Обедающие философы на Go: как не умереть от взаимной блокировки и голодания](https://habr.com/ru/articles/951224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951224)
-- [Внедрение пуш-уведомлений в React Native: от Firebase до кастомных модулей](https://habr.com/ru/companies/kuper/articles/952680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952680)
-- [[Пятничное] Я сломал русский язык. Теперь ваша очередь](https://habr.com/ru/articles/953172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953172)
-- [[Перевод] Безопасные операции zero-copy на C#](https://habr.com/ru/articles/952568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952568)
-- [Просто о сложном: архитектура фронта для техлида](https://habr.com/ru/companies/oleg-bunin/articles/918502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918502)
+- [Зоопарк фреймворков для AI-агентов: как выбрать подходящий — делаем бенчмарк и большое сравнение](https://habr.com/ru/articles/953226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953226)
+- [Как я писал свою звонилку для видеозвонков](https://habr.com/ru/articles/953222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953222)
+- [Архитектура NGFW: опыт использования VPP и DPDK, частые ошибки разработчиков](https://habr.com/ru/companies/kaspersky/articles/953078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953078)
+- [Мой путь в блокчейн: от челледжа до теории игр и новых экономик](https://habr.com/ru/articles/953210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953210)
+- [MES-система глазами тестировщика](https://habr.com/ru/companies/severstal/articles/953206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
