@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Пятничное] Я сломал русский язык. Теперь ваша очередь](https://habr.com/ru/articles/953172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953172)
 - [[Перевод] Безопасные операции zero-copy на C#](https://habr.com/ru/articles/952568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952568)
 - [Просто о сложном: архитектура фронта для техлида](https://habr.com/ru/companies/oleg-bunin/articles/918502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918502)
 - [Пишем экспортёр данных Prometheus для ОС «Нейтрино»](https://habr.com/ru/companies/swd_es/articles/951052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951052)
 - [25 блогов о веб-разработке и веб-дизайне, которые интересно читать, даже если у тебя нет сайта + бонус](https://habr.com/ru/articles/953106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953106)
-- [Как 5 этапов ресёрча превращают идею в прибыльный продукт, которым хотят пользоваться](https://habr.com/ru/articles/937710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=937710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
