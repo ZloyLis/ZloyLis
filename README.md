@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL против 10 миллионов записей: оптимизация запросов, которая спасла наш проект](https://habr.com/ru/articles/953264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953264)
+- [Что такое MDM: сделай сам и подключи Knox за 60 минут](https://habr.com/ru/companies/samsung/articles/952990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952990)
 - [Не флагман, но с амбициями: тестируем камеру HUAWEI nova 14 Pro в реальных условиях](https://habr.com/ru/specials/952930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952930)
-- [Видеоаналитика в реальном времени: что делать, если нет GPU](https://habr.com/ru/companies/oleg-bunin/articles/952870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952870)
+- [Видеоаналитика в реальном времени: что делать, если нет GPU](https://habr.com/ru/companies/sibur_official/articles/952870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952870)
 - [Как написать нейросеть для бизнеса на Python](https://habr.com/ru/companies/bothub/articles/953230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953230)
-- [Зоопарк фреймворков для AI-агентов: как выбрать подходящий — делаем бенчмарк и большое сравнение](https://habr.com/ru/articles/953226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953226)
-- [Как я писал свою звонилку для видеозвонков](https://habr.com/ru/articles/953222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
