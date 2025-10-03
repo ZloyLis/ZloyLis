@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когнитивная нагрузка операторов в системах мониторинга: практические подходы к снижению ошибок](https://habr.com/ru/articles/953054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953054)
 - [Построение KMP SDK: наш опыт, плюсы и минусы, и как это изменило разработку](https://habr.com/ru/articles/953040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953040)
 - [Структура против хаоса — элегантное решение для создания форм в React.js](https://habr.com/ru/articles/953004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953004)
 - [Задачи по алгоритмам: ищем непростые числа](https://habr.com/ru/articles/952986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952986)
 - [K8S для самых маленьких или как поднять отказаустойчивый кластер k8s. Часть 1](https://habr.com/ru/articles/952982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952982)
-- [Как инженерная боль вдохновила на создание мобильного приложения — клиента Modbus TCP](https://habr.com/ru/articles/952972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
