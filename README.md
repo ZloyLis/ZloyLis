@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [25 блогов о веб-разработке и веб-дизайне, которые интересно читать, даже если у тебя нет сайта + бонус](https://habr.com/ru/articles/953106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953106)
+- [Как 5 этапов ресёрча превращают идею в прибыльный продукт, которым хотят пользоваться](https://habr.com/ru/articles/937710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=937710)
+- [Как получить и использовать бесплатную лицензию PVS-Studio на практике. Часть 3: работа с отчётом и разбор срабатываний](https://habr.com/ru/companies/pvs-studio/articles/953092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953092)
+- [Технологический скепсис: как отличить настоящие научные открытия от хайпа в IT](https://habr.com/ru/articles/953082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953082)
 - [Redis Streams в PHP с backpressure: устойчивые consumer-группы + повторная доставка](https://habr.com/ru/companies/otus/articles/951508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951508)
-- [Совет по Joomla: несколько значений по умолчанию в XML-формах для стандартных полей типа list](https://habr.com/ru/articles/953058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953058)
-- [Когнитивная нагрузка операторов в системах мониторинга: практические подходы к снижению ошибок](https://habr.com/ru/articles/953054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953054)
-- [Построение KMP SDK: наш опыт, плюсы и минусы, и как это изменило разработку](https://habr.com/ru/articles/953040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953040)
-- [Структура против хаоса — элегантное решение для создания форм в React.js](https://habr.com/ru/articles/953004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
