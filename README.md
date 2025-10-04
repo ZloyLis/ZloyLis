@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контекст‑карты — это истории в картинках](https://habr.com/ru/articles/953500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953500)
 - [Линейная алгебра: четыре разных подхода к одной задаче](https://habr.com/ru/articles/953338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953338)
 - [Гипотеза Коллатца как фейл мировой математики &lpar;окончание&rpar;](https://habr.com/ru/articles/953470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953470)
 - [Сборка AppImage: Пошаговое руководство с готовыми скриптами](https://habr.com/ru/articles/953462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953462)
 - [Как я пытался сделать нейросеть аналитиком: провалы и уроки](https://habr.com/ru/articles/953432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953432)
-- [Клавиатурные хуки, растровые манипуляции на экране ‒ от первого шага до полноценного кода](https://habr.com/ru/articles/952160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
