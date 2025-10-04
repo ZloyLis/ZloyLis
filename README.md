@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание пользовательских обработчиков для логов в Python](https://habr.com/ru/articles/953366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953366)
+- [Go, Rust или всё же C++? Куда мы переписываем наш высоконагруженный бэкенд в 2025](https://habr.com/ru/articles/953364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953364)
 - [Не учите очередной JS-фреймворк. Вместо этого освоите эти 3 архитектурных принципа](https://habr.com/ru/articles/953362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953362)
-- [GPT-4 уже пишет ваш код. Вот как заставить его делать это без глупых ошибок](https://habr.com/ru/articles/953356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953356)
+- [GPT-5 уже пишет ваш код. Вот как заставить его делать это без глупых ошибок](https://habr.com/ru/articles/953356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953356)
 - [Автоматизация A/B-экспериментирования](https://habr.com/ru/articles/953334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953334)
-- [От доминирования на поле боя к доминированию на рынке: чему бизнес может научиться у военных](https://habr.com/ru/articles/953306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953306)
-- [Построение KMP SDK: инсайты и подводные камни из нашего опыта](https://habr.com/ru/articles/953286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
