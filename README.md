@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не учите очередной JS-фреймворк. Вместо этого освоите эти 3 архитектурных принципа](https://habr.com/ru/articles/953362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953362)
 - [GPT-4 уже пишет ваш код. Вот как заставить его делать это без глупых ошибок](https://habr.com/ru/articles/953356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953356)
 - [Автоматизация A/B-экспериментирования](https://habr.com/ru/articles/953334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953334)
 - [От доминирования на поле боя к доминированию на рынке: чему бизнес может научиться у военных](https://habr.com/ru/articles/953306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953306)
 - [Построение KMP SDK: инсайты и подводные камни из нашего опыта](https://habr.com/ru/articles/953286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953286)
-- [Построение KMP SDK: единая дизайн-система и управление ресурсами](https://habr.com/ru/articles/953284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
