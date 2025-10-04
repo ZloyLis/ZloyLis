@@ -39,7 +39,7 @@ ___
 - [Сборка AppImage: Пошаговое руководство с готовыми скриптами](https://habr.com/ru/articles/953462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953462)
 - [Как я пытался сделать нейросеть аналитиком: провалы и уроки](https://habr.com/ru/articles/953432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953432)
 - [Клавиатурные хуки, растровые манипуляции на экране ‒ от первого шага до полноценного кода](https://habr.com/ru/articles/952160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952160)
-- [[Перевод] Шокирующий отчет: ИИ готов пожертвовать людьми, лишь бы его не отключали](https://habr.com/ru/articles/953424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953424)
+- [Реализация сервиса на C++: TDD, DDD и событийно-ориентированная архитектура](https://habr.com/ru/articles/953420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
