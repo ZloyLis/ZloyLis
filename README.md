@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Zip-бомбы против агрессивных ИИ-краулеров](https://habr.com/ru/companies/globalsign/articles/953654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953654)
 - [ChatGPT как главный маркетплейс планеты: разбираем OpenAI Agentic Commerce Protocol](https://habr.com/ru/articles/953640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953640)
 - [Мобильная разработка за неделю #605 &lpar;29 сентября — 5 октября&rpar;](https://habr.com/ru/articles/953612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953612)
 - [Игра на SWI-Prolog + Phaser](https://habr.com/ru/articles/953606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953606)
 - [Почему хороших middle-разработчиков не повышают до senior — честный взгляд изнутри](https://habr.com/ru/articles/953596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953596)
-- [Адаптированный паттерн Command с использованием Dependency Injection](https://habr.com/ru/articles/953590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
