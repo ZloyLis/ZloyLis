@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust + C++ через FFI: как подружить два мира и не сойти с ума](https://habr.com/ru/articles/953524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953524)
-- [Атом смысла: как из ничего получить все](https://habr.com/ru/articles/953294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953294)
-- [SLO-Scout: AI для автоматического создания SLO и SLA в SRE](https://habr.com/ru/articles/953508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953508)
-- [Контекст‑карты — это истории в картинках](https://habr.com/ru/articles/953500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953500)
-- [Линейная алгебра: четыре разных подхода к одной задаче](https://habr.com/ru/articles/953338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953338)
+- [Веб. К черту фреймворки! Пишем свой starter-kit с роутером и сторами](https://habr.com/ru/articles/953566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953566)
+- [Крипта без костылей, профилирование без боли, многопоточность без хаоса: Axiom JDK 25 уже в OpenIDE](https://habr.com/ru/companies/axiomjdk/articles/953000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953000)
+- [Как мы делали свою ноду для n8n](https://habr.com/ru/companies/amvera/articles/953564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953564)
+- [Swift Codable](https://habr.com/ru/articles/953560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953560)
+- [Motorola Razr V3: икона стиля из нулевых. Разбираем и изучаем](https://habr.com/ru/companies/ru_mts/articles/952716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
