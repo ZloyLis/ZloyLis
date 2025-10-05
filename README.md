@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерны программирования при работе с LLM](https://habr.com/ru/articles/953580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953580)
 - [[Перевод] Что значит «хороший вкус» в разработке ПО?](https://habr.com/ru/companies/ruvds/articles/952616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952616)
 - [Веб. К черту фреймворки! Пишем свой starter-kit с роутером и сторами](https://habr.com/ru/articles/953566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953566)
 - [Крипта без костылей, профилирование без боли, многопоточность без хаоса: Axiom JDK 25 уже в OpenIDE](https://habr.com/ru/companies/axiomjdk/articles/953000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953000)
 - [Как мы делали свою ноду для n8n](https://habr.com/ru/companies/amvera/articles/953564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953564)
-- [Swift Codable](https://habr.com/ru/articles/953560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
