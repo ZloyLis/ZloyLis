@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust + C++ через FFI: как подружить два мира и не сойти с ума](https://habr.com/ru/articles/953524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953524)
 - [Атом смысла: как из ничего получить все](https://habr.com/ru/articles/953294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953294)
 - [SLO-Scout: AI для автоматического создания SLO и SLA в SRE](https://habr.com/ru/articles/953508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953508)
 - [Контекст‑карты — это истории в картинках](https://habr.com/ru/articles/953500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953500)
 - [Линейная алгебра: четыре разных подхода к одной задаче](https://habr.com/ru/articles/953338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953338)
-- [Гипотеза Коллатца как фейл мировой математики &lpar;окончание&rpar;](https://habr.com/ru/articles/953470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
