@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Garbage In, Garbage Out: как мы учили ИИ искать не в веб-помойке, а в библиотеке. И чему мы научились сами](https://habr.com/ru/articles/953636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953636)
+- [glibc-hwcaps и GLIBC_TUNABLES: как включить x86-64-v3 для ваших CLI](https://habr.com/ru/companies/otus/articles/950330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950330)
+- [Windows и Linux для сервера 1С: преимущества, проблемы и сравнение возможностей](https://habr.com/ru/companies/mws/articles/953830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953830)
 - [Как я сдал экзамен AWS DEA-C01 Data Engineering Associate в 2025 году](https://habr.com/ru/articles/953820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953820)
 - [Паттерны проектирования для автотестов: от теории к практике](https://habr.com/ru/articles/951452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951452)
-- [Исследуем OSS-инструменты для MLSecOps: цели проекта и промежуточные результаты](https://habr.com/ru/companies/vk/articles/953744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953744)
-- [[Перевод] 90% кода](https://habr.com/ru/articles/953444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953444)
-- [Исполняем желания заказчика: бизнес-требования на автоматизацию и их связь с корпоративной архитектурой организации](https://habr.com/ru/articles/953794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
