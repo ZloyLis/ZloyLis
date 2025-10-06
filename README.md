@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От DevOps к платформе: как улучшить взаимодействие команд](https://habr.com/ru/companies/oleg-bunin/articles/948108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948108)
+- [Даем LLM суперсилу: глубокое понимание 10 языков в вашем проекте](https://habr.com/ru/articles/953772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953772)
+- [Вычисление производных высших порядков полинома Ньютона](https://habr.com/ru/articles/953758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953758)
 - [Современные лабораторные стенды: как российские вузы применяют отечественные среду Engee и КПМ РИТМ для моделирования](https://habr.com/ru/companies/etmc_exponenta/articles/947824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947824)
 - [Как аналитику разобраться в legacy-системе без документации](https://habr.com/ru/articles/953748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953748)
-- [[Перевод] Python 3.14: ошибки стали понятнее, чем когда-либо](https://habr.com/ru/articles/953410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953410)
-- [Triton FP8: реализация и автотюнинг GEMM/Attention под RTX 40xx/Blackwell](https://habr.com/ru/companies/otus/articles/951862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951862)
-- [Обзор решений для домашних кинотеатров: Plex, Jellyfin и альтернативы](https://habr.com/ru/companies/beget/articles/947366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
