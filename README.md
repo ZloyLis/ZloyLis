@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микросервисы и 1С](https://habr.com/ru/companies/otus/articles/950676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950676)
+- [Несколько способов как упросить анализ отчета Allure при работе с инструментом АТ в 1С Vanessa-Automation](https://habr.com/ru/articles/953962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953962)
 - [Karmada: разворачиваем мультикластерное окружение с помощью Karmada](https://habr.com/ru/companies/cloud_ru/articles/949596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949596)
 - [Когда стандартные подходы не работают: как разработать методологию под новые задачи](https://habr.com/ru/companies/habr_rutube/articles/953846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953846)
 - [Embox поддерживает новый российский микроконтроллер от компании Миландр с архитектурой RISC-V](https://habr.com/ru/articles/953948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953948)
-- [Security Week 2541: атаки на TEE в процессорах Intel и AMD](https://habr.com/ru/companies/kaspersky/articles/953220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953220)
-- [[Перевод] Как использовать любой CSS-фреймворк в вашем проекте — Часть 1](https://habr.com/ru/articles/918766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
