@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Магия числа 7 или вводный урок по Э-математике во Вселенской Академии](https://habr.com/ru/articles/954042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954042)
 - [Опыт гуманитария в дообучении LLM с помощью WebUI Text Generation](https://habr.com/ru/articles/953352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953352)
 - [Сам себе breakpoint](https://habr.com/ru/articles/953836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953836)
 - [Микросервисы и 1С](https://habr.com/ru/companies/otus/articles/950676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950676)
 - [Несколько способов как упросить анализ отчета Allure при работе с инструментом АТ в 1С Vanessa-Automation](https://habr.com/ru/articles/953962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953962)
-- [Karmada: разворачиваем мультикластерное окружение с помощью Karmada](https://habr.com/ru/companies/cloud_ru/articles/949596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
