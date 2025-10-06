@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как использовать любой CSS-фреймворк в вашем проекте — Часть 1](https://habr.com/ru/articles/918766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918766)
+- [[Перевод] Почему @starting-style не заменит keyframes &lpar;пока&rpar;](https://habr.com/ru/articles/953556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953556)
 - [[Перевод] Отвлекать разработчиков ПО намного вреднее, чем считает большинство менеджеров](https://habr.com/ru/companies/ruvds/articles/953330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953330)
 - [Техническое собеседование: как его провести и правильно оценить кандидата?](https://habr.com/ru/companies/ibs/articles/953878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953878)
 - [Можно ли сделать мобильный интерфейс без человека. Эксперимент с ИИ. Часть 2](https://habr.com/ru/companies/surfstudio/articles/953894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953894)
-- [ЧикиПуки — генератор развивающих заданий для детей](https://habr.com/ru/articles/953882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953882)
-- [[Перевод] Насколько быстр Go? Симуляция миллионов частиц на смарт-ТВ](https://habr.com/ru/articles/953434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
