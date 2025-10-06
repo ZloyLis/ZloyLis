@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Garbage In, Garbage Out: как мы учили ИИ искать не в веб-помойке, а в библиотеке. И чему мы научились сами](https://habr.com/ru/articles/953636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953636)
-- [glibc-hwcaps и GLIBC_TUNABLES: как включить x86-64-v3 для ваших CLI](https://habr.com/ru/companies/otus/articles/950330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950330)
-- [Windows и Linux для сервера 1С: преимущества, проблемы и сравнение возможностей](https://habr.com/ru/companies/mws/articles/953830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953830)
-- [Как я сдал экзамен AWS DEA-C01 Data Engineering Associate в 2025 году](https://habr.com/ru/articles/953820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953820)
-- [Паттерны проектирования для автотестов: от теории к практике](https://habr.com/ru/articles/951452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951452)
+- [ИИ-музыка для брендов: как создать свой звук и защитить права](https://habr.com/ru/articles/953892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953892)
+- [ЧикиПуки — генератор развивающих заданий для детей](https://habr.com/ru/articles/953882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953882)
+- [[Перевод] Насколько быстр Go? Симуляция миллионов частиц на смарт-ТВ](https://habr.com/ru/articles/953434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953434)
+- [[Перевод] Зоны временной недоступности, или почему исходный код TypeScript усеян var-ами](https://habr.com/ru/articles/953850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953850)
+- [Java Digest #29](https://habr.com/ru/companies/tbank/articles/953824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
