@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виртуальный гаджет эпохи ИИ-революции](https://habr.com/ru/articles/953696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953696)
+- [Стоит ли игра свеч? Менее кратко о Single SPA &lpar;часть 2&rpar;](https://habr.com/ru/articles/953348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953348)
 - [Управляем зависимостями Cи и C++ через Nix](https://habr.com/ru/articles/953676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953676)
 - [Бесконечность в ваших данных – power laws](https://habr.com/ru/articles/953674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953674)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#22&rpar;](https://habr.com/ru/articles/953664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953664)
-- [Zip-бомбы против агрессивных ИИ-краулеров](https://habr.com/ru/companies/globalsign/articles/953654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953654)
-- [ChatGPT как главный маркетплейс планеты: разбираем OpenAI Agentic Commerce Protocol](https://habr.com/ru/articles/953640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
