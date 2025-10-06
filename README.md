@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Karmada: разворачиваем мультикластерное окружение с помощью Karmada](https://habr.com/ru/companies/cloud_ru/articles/949596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949596)
+- [Когда стандартные подходы не работают: как разработать методологию под новые задачи](https://habr.com/ru/companies/habr_rutube/articles/953846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953846)
+- [Embox поддерживает новый российский микроконтроллер от компании Миландр с архитектурой RISC-V](https://habr.com/ru/articles/953948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953948)
+- [Security Week 2541: атаки на TEE в процессорах Intel и AMD](https://habr.com/ru/companies/kaspersky/articles/953220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953220)
 - [[Перевод] Как использовать любой CSS-фреймворк в вашем проекте — Часть 1](https://habr.com/ru/articles/918766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918766)
-- [[Перевод] Почему @starting-style не заменит keyframes &lpar;пока&rpar;](https://habr.com/ru/articles/953556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953556)
-- [[Перевод] Отвлекать разработчиков ПО намного вреднее, чем считает большинство менеджеров](https://habr.com/ru/companies/ruvds/articles/953330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953330)
-- [Техническое собеседование: как его провести и правильно оценить кандидата?](https://habr.com/ru/companies/ibs/articles/953878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953878)
-- [Можно ли сделать мобильный интерфейс без человека. Эксперимент с ИИ. Часть 2](https://habr.com/ru/companies/surfstudio/articles/953894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
