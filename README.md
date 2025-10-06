@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От DevOps к платформе: как улучшить взаимодействие команд](https://habr.com/ru/companies/oleg-bunin/articles/948108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948108)
-- [Даем LLM суперсилу: глубокое понимание 10 языков в вашем проекте](https://habr.com/ru/articles/953772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953772)
-- [Вычисление производных высших порядков полинома Ньютона](https://habr.com/ru/articles/953758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953758)
-- [Современные лабораторные стенды: как российские вузы применяют отечественные среду Engee и КПМ РИТМ для моделирования](https://habr.com/ru/companies/etmc_exponenta/articles/947824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947824)
-- [Как аналитику разобраться в legacy-системе без документации](https://habr.com/ru/articles/953748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953748)
+- [Как я сдал экзамен AWS DEA-C01 Data Engineering Associate в 2025 году](https://habr.com/ru/articles/953820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953820)
+- [Паттерны проектирования для автотестов: от теории к практике](https://habr.com/ru/articles/951452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951452)
+- [Исследуем OSS-инструменты для MLSecOps: цели проекта и промежуточные результаты](https://habr.com/ru/companies/vk/articles/953744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953744)
+- [[Перевод] 90% кода](https://habr.com/ru/articles/953444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953444)
+- [Исполняем желания заказчика: бизнес-требования на автоматизацию и их связь с корпоративной архитектурой организации](https://habr.com/ru/articles/953794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
