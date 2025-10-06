@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [B2B-платформа для ВЭД: от double-blind маркетплейса до платёжного клиринга](https://habr.com/ru/articles/953670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953670)
-- [Kick для QA-инженеров](https://habr.com/ru/articles/953430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953430)
-- [Виртуальный гаджет эпохи ИИ-революции](https://habr.com/ru/articles/953696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953696)
-- [Стоит ли игра свеч? Менее кратко о Single SPA &lpar;часть 2&rpar;](https://habr.com/ru/articles/953348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953348)
-- [Управляем зависимостями Cи и C++ через Nix](https://habr.com/ru/articles/953676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953676)
+- [Triton FP8: реализация и автотюнинг GEMM/Attention под RTX 40xx/Blackwell](https://habr.com/ru/companies/otus/articles/951862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951862)
+- [Обзор решений для домашних кинотеатров: Plex, Jellyfin и альтернативы](https://habr.com/ru/companies/beget/articles/947366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=947366)
+- [EDA в Python для новичков: что почитать и где попрактиковаться](https://habr.com/ru/companies/yandex_praktikum/articles/952084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952084)
+- [[Перевод] Повторное использование шаблонов элементов и коннекторов для стандартизации процессов](https://habr.com/ru/articles/953716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953716)
+- [AI Review кода за 30 минут: локальная LLM прямо в CI/CD](https://habr.com/ru/articles/953598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
