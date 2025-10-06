@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [B2B-платформа для ВЭД: от double-blind маркетплейса до платёжного клиринга](https://habr.com/ru/articles/953670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953670)
+- [Kick для QA-инженеров](https://habr.com/ru/articles/953430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953430)
 - [Виртуальный гаджет эпохи ИИ-революции](https://habr.com/ru/articles/953696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953696)
 - [Стоит ли игра свеч? Менее кратко о Single SPA &lpar;часть 2&rpar;](https://habr.com/ru/articles/953348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953348)
 - [Управляем зависимостями Cи и C++ через Nix](https://habr.com/ru/articles/953676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953676)
-- [Бесконечность в ваших данных – power laws](https://habr.com/ru/articles/953674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953674)
-- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#22&rpar;](https://habr.com/ru/articles/953664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
