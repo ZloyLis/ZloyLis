@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция подходов к написанию корутин от Си до С++20. Часть 1. Функция+макросы=корутина](https://habr.com/ru/articles/954168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954168)
+- [std::simd: шаблоны векторизации без intrinsics в C++](https://habr.com/ru/companies/otus/articles/951502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951502)
 - [Мой список вопросов о CSS для собеседования в 2025 году](https://habr.com/ru/companies/ruvds/articles/952546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952546)
 - [В поисках идеального стека для Enterprise проектов: почему Java плюс MACH](https://habr.com/ru/companies/compo/articles/954138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954138)
 - [Шесть способов учиться новому максимально быстро и эффективно](https://habr.com/ru/companies/avito/articles/953972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953972)
-- [Эволюция языков программирования](https://habr.com/ru/companies/timeweb/articles/952146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952146)
-- [«Нанософт» сказал и «Нанософт» сделал. Представляем новые ИИ-модули NSR Specification для инженеров и проектировщиков](https://habr.com/ru/companies/nanosoft/articles/954112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
