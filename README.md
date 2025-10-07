@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один простой способ оптимизации API](https://habr.com/ru/companies/psb/articles/953728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953728)
+- [Поиск работы Java-разработчика в 2025 году](https://habr.com/ru/articles/953448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953448)
 - [Семантический поиск на Laravel через pgvector](https://habr.com/ru/companies/otus/articles/951678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951678)
 - [Что такое FHIR: основные концепции](https://habr.com/ru/articles/953026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953026)
 - [С Puppet на Ansible за 4 года: 5 инсайтов и письмо себе в прошлое](https://habr.com/ru/companies/banki/articles/951808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951808)
-- [Итоги DevDay 2025: OpenAI представила Apps SDK, AgentKit и новые модели — полный разбор анонсов](https://habr.com/ru/articles/954056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954056)
-- [Магия числа 7 или вводный урок по Э-математике во Вселенской Академии](https://habr.com/ru/articles/954042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
