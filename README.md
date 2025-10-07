@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нового в JUnit 6: ключевые изменения и улучшения](https://habr.com/ru/companies/spring_aio/articles/954322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954322)
 - [От запахов к стабильности: рефакторим unit-тесты на JUnit](https://habr.com/ru/companies/testops_tms/articles/954294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954294)
 - [ArchiMate+BPMN: апгрейд роли «бизнес-аналитик»](https://habr.com/ru/articles/954280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954280)
 - [Хотите, чтобы вас заметили? Научитесь чётко и понятно формулировать мысли](https://habr.com/ru/companies/profi_ru/articles/954230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954230)
 - [Лучшие онлайн-школы по отзывам студентов — запустили рейтинг на Хабр Карьере](https://habr.com/ru/companies/habr_career/articles/954256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954256)
-- [Нейросети «на пальцах». Часть 1. От формулы простой линии к искусственному нейрону](https://habr.com/ru/articles/954248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
