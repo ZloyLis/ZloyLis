@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От запахов к стабильности: рефакторим unit-тесты на JUnit](https://habr.com/ru/companies/testops_tms/articles/954294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954294)
+- [ArchiMate+BPMN: апгрейд роли «бизнес-аналитик»](https://habr.com/ru/articles/954280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954280)
+- [Хотите, чтобы вас заметили? Научитесь чётко и понятно формулировать мысли](https://habr.com/ru/companies/profi_ru/articles/954230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954230)
 - [Лучшие онлайн-школы по отзывам студентов — запустили рейтинг на Хабр Карьере](https://habr.com/ru/companies/habr_career/articles/954256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954256)
 - [Нейросети «на пальцах». Часть 1. От формулы простой линии к искусственному нейрону](https://habr.com/ru/articles/954248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954248)
-- [Книга: «Промт-инжиниринг для LLM. Искусство построения приложений на основе больших языковых моделей»](https://habr.com/ru/companies/piter/articles/954182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954182)
-- [Как мы захотели контролировать SPILL’ы в Greenplum и сделали «Демократизатор»](https://habr.com/ru/companies/rostelecom/articles/954164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954164)
-- [Эволюция подходов к написанию корутин от Си до С++20. Часть 1. Функция+макросы=корутина](https://habr.com/ru/articles/954168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
