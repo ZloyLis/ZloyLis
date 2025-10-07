@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практики лидов: как учиться быстрее и эффективнее?](https://habr.com/ru/companies/avito/articles/953972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953972)
+- [Эволюция языков программирования](https://habr.com/ru/companies/timeweb/articles/952146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952146)
+- [«Нанософт» сказал и «Нанософт» сделал. Представляем новые ИИ-модули NSR Specification для инженеров и проектировщиков](https://habr.com/ru/companies/nanosoft/articles/954112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954112)
+- [От одной видюхи в офисе до AI-хакатона: пошаговая инструкция по организации](https://habr.com/ru/companies/rostelecom/articles/954102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954102)
 - [Один простой способ оптимизации API](https://habr.com/ru/companies/psb/articles/953728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953728)
-- [Поиск работы Java-разработчика в 2025 году](https://habr.com/ru/articles/953448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953448)
-- [Семантический поиск на Laravel через pgvector](https://habr.com/ru/companies/otus/articles/951678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951678)
-- [Что такое FHIR: основные концепции](https://habr.com/ru/articles/953026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953026)
-- [С Puppet на Ansible за 4 года: 5 инсайтов и письмо себе в прошлое](https://habr.com/ru/companies/banki/articles/951808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
