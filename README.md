@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие онлайн-школы по отзывам студентов — запустили рейтинг на Хабр Карьере](https://habr.com/ru/companies/habr_career/articles/954256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954256)
+- [Нейросети «на пальцах». Часть 1. От формулы простой линии к искусственному нейрону](https://habr.com/ru/articles/954248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954248)
+- [Книга: «Промт-инжиниринг для LLM. Искусство построения приложений на основе больших языковых моделей»](https://habr.com/ru/companies/piter/articles/954182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954182)
 - [Как мы захотели контролировать SPILL’ы в Greenplum и сделали «Демократизатор»](https://habr.com/ru/companies/rostelecom/articles/954164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954164)
 - [Эволюция подходов к написанию корутин от Си до С++20. Часть 1. Функция+макросы=корутина](https://habr.com/ru/articles/954168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954168)
-- [std::simd: шаблоны векторизации без intrinsics в C++](https://habr.com/ru/companies/otus/articles/951502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951502)
-- [Мой список вопросов о CSS для собеседования в 2025 году](https://habr.com/ru/companies/ruvds/articles/952546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952546)
-- [В поисках идеального стека для Enterprise проектов: почему Java плюс MACH](https://habr.com/ru/companies/compo/articles/954138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
