@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие задачи о взвешиваниях монет &lpar;шаров, таблеток&rpar;](https://habr.com/ru/articles/954718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954718)
 - [Ученые предложили новый метод обучения биполярных нейронных сетей с помощью дистилляции знаний](https://habr.com/ru/articles/952950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952950)
 - [ДРАКОН + ИИ: быстрый путь от идеи до работающего кода](https://habr.com/ru/articles/954708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954708)
 - [Скрипты в DevelSCADA](https://habr.com/ru/articles/954694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954694)
 - [Регулярная катастрофа и как её избежать. Подход к регулярным выражениям](https://habr.com/ru/companies/sberdevices/articles/954296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954296)
-- [Разбираемся с DDD: как проектировать доменный агрегат, чтобы он не стал безразмерным](https://habr.com/ru/articles/954688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
