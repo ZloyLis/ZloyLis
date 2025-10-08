@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему моё Android-приложение крашится? Причина проста и банальна](https://habr.com/ru/companies/alfa/articles/950280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950280)
+- [Много спрашиваю и откладываю встречи на последний момент: мой опыт прохождения собеседований](https://habr.com/ru/companies/yandex_praktikum/articles/949856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949856)
 - [Ученые расширили наше понимание обобщений моделей математической физики](https://habr.com/ru/articles/952956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952956)
 - [ZERO-APPS: Создайте WEB-Приложение за 2 дня](https://habr.com/ru/articles/953856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953856)
 - [Неиспользуемый JavasScript код. Поиск и удаление](https://habr.com/ru/articles/954398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954398)
-- [Medusa.js: Разбираем open-source платформу на реальном опыте](https://habr.com/ru/articles/954396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954396)
-- [Плагины на C# без рантайма: NativeAOT-экспорт и вызов из Rust/Python](https://habr.com/ru/companies/otus/articles/950462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
