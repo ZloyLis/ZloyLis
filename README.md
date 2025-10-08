@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Виртуальные потоки в Java: эволюция, практика, подводные камни](https://habr.com/ru/companies/naumen/articles/953262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953262)
-- [Не меняйте команду будто перчатки! Как мы обновили взрослый ИТ-продукт без масштабного найма разработчиков](https://habr.com/ru/articles/954416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954416)
-- [Как я планировал Тех Под с 0](https://habr.com/ru/articles/954550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954550)
-- [7 смертных грехов ML-ценообразования](https://habr.com/ru/companies/magnit/articles/954224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954224)
-- [Тесты первого клика: как знание статистики помогает делать правильные выводы?](https://habr.com/ru/articles/954542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954542)
+- [Как LLM помогают ученым](https://habr.com/ru/articles/954612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954612)
+- [Платформа конструктора продуктов для страховой компании — как автоматизировать процессы при запуске](https://habr.com/ru/articles/954592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954592)
+- [Проверка прокуратуры по КИИ: как справиться без бюджета и пройти её успешно](https://habr.com/ru/companies/securitm/articles/954526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954526)
+- [Высшее образование в IT: миф или база](https://habr.com/ru/articles/954580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954580)
+- [Как я автоматизировал анализ логов из Kibana с помощью LLM и AI-агентов](https://habr.com/ru/companies/kaspersky/articles/953780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
