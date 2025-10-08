@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я «уволил» LLM с должности «мозга» проекта. И его производительность взлетела](https://habr.com/ru/articles/954742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954742)
+- [Как не сойти с ума? IT рынок переполнен](https://habr.com/ru/articles/954740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954740)
 - [Лучшие задачи о взвешиваниях монет &lpar;шаров, таблеток&rpar;](https://habr.com/ru/articles/954718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954718)
 - [Ученые предложили новый метод обучения биполярных нейронных сетей с помощью дистилляции знаний](https://habr.com/ru/articles/952950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952950)
 - [ДРАКОН + ИИ: быстрый путь от идеи до работающего кода](https://habr.com/ru/articles/954708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954708)
-- [Скрипты в DevelSCADA](https://habr.com/ru/articles/954694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954694)
-- [Регулярная катастрофа и как её избежать. Подход к регулярным выражениям](https://habr.com/ru/companies/sberdevices/articles/954296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
