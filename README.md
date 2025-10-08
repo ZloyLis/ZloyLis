@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как аналитик ООП и ФП постигал](https://habr.com/ru/articles/954768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954768)
 - [Я «уволил» LLM с должности «мозга» проекта. И его производительность взлетела](https://habr.com/ru/articles/954742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954742)
 - [Как не сойти с ума? IT рынок переполнен](https://habr.com/ru/articles/954740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954740)
+- [Правки, конфликты, редактура, релиз. Один рабочий день технического писателя Феди](https://habr.com/ru/companies/bercut/articles/952952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952952)
 - [Лучшие задачи о взвешиваниях монет &lpar;шаров, таблеток&rpar;](https://habr.com/ru/articles/954718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954718)
-- [Ученые предложили новый метод обучения биполярных нейронных сетей с помощью дистилляции знаний](https://habr.com/ru/articles/952950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952950)
-- [ДРАКОН + ИИ: быстрый путь от идеи до работающего кода](https://habr.com/ru/articles/954708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
