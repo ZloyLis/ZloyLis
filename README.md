@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ученые предложили новый метод обучения биполярных нейронных сетей с помощью дистилляции знаний](https://habr.com/ru/articles/952950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952950)
+- [ДРАКОН + ИИ: быстрый путь от идеи до работающего кода](https://habr.com/ru/articles/954708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954708)
+- [Скрипты в DevelSCADA](https://habr.com/ru/articles/954694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954694)
+- [Регулярная катастрофа и как её избежать. Подход к регулярным выражениям](https://habr.com/ru/companies/sberdevices/articles/954296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954296)
 - [Разбираемся с DDD: как проектировать доменный агрегат, чтобы он не стал безразмерным](https://habr.com/ru/articles/954688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954688)
-- [Возвращение Ubuntu Touch: как обновление дало вторую жизнь мобильной ОС](https://habr.com/ru/companies/ru_mts/articles/954470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954470)
-- [[Перевод] QUIC наконец-то приходит в Node.js: не прошло и 5 лет](https://habr.com/ru/articles/953570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953570)
-- [Архитектура как часть цифровой стратегии предприятия](https://habr.com/ru/companies/usetech/articles/954634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954634)
-- [setTimeout убил наши анимации: история спасения модальных окон](https://habr.com/ru/articles/954624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
