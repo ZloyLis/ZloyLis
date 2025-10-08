@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дорожная карта Java backend-разработчика: c Junior до Middle](https://habr.com/ru/companies/ruvds/articles/949170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949170)
+- [Как из готовых инструментов сделать систему на петабайт данных: рецепт счастья для разработчиков и бизнеса](https://habr.com/ru/companies/oleg-bunin/articles/950210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950210)
 - [Chonkie: революция в RAG-чанкинге — скорость, лёгкость, удобство](https://habr.com/ru/companies/raft/articles/954158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954158)
 - [Как сокращение полных путей файлов в логах влияет на производительность и размер Браузера](https://habr.com/ru/companies/yandex/articles/952410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952410)
 - [Слёзы, баги и C++: как Isaac стал легендарной игрой](https://habr.com/ru/companies/otus/articles/951666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951666)
-- [Как я искал работу бэкенд разработчика с одним годом опыта. Мысли, эмоции, статистика](https://habr.com/ru/articles/954452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954452)
-- [Почему моё Android-приложение крашится? Причина проста и банальна](https://habr.com/ru/companies/alfa/articles/950280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
