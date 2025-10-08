@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура как часть цифровой стратегии предприятия](https://habr.com/ru/companies/usetech/articles/954634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954634)
+- [setTimeout убил наши анимации: история спасения модальных окон](https://habr.com/ru/articles/954624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954624)
+- [Топ-10 лучших бесплатных нейросетей, которые сильно упростят вашу жизнь](https://habr.com/ru/companies/bothub/articles/954192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954192)
+- [Гайд по применению Object Lock на примере S3-объектного хранилища VK Cloud](https://habr.com/ru/companies/vktech/articles/954584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954584)
 - [Как LLM помогают ученым](https://habr.com/ru/articles/954612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954612)
-- [Платформа конструктора продуктов для страховой компании — как автоматизировать процессы при запуске](https://habr.com/ru/articles/954592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954592)
-- [Проверка прокуратуры по КИИ: как справиться без бюджета и пройти её успешно](https://habr.com/ru/companies/securitm/articles/954526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954526)
-- [Высшее образование в IT: миф или база](https://habr.com/ru/articles/954580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954580)
-- [Как я автоматизировал анализ логов из Kibana с помощью LLM и AI-агентов](https://habr.com/ru/companies/kaspersky/articles/953780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
