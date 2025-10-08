@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ZERO-APPS: Создайте WEB-Приложение за 2 дня](https://habr.com/ru/articles/953856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953856)
 - [Неиспользуемый JavasScript код. Поиск и удаление](https://habr.com/ru/articles/954398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954398)
 - [Medusa.js: Разбираем open-source платформу на реальном опыте](https://habr.com/ru/articles/954396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954396)
 - [Плагины на C# без рантайма: NativeAOT-экспорт и вызов из Rust/Python](https://habr.com/ru/companies/otus/articles/950462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950462)
 - [[Перевод] Что нового в JUnit 6: ключевые изменения и улучшения](https://habr.com/ru/companies/spring_aio/articles/954322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954322)
-- [От запахов к стабильности: рефакторим unit-тесты на JUnit](https://habr.com/ru/companies/testops_tms/articles/954294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
