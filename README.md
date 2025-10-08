@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Chonkie: революция в RAG-чанкинге — скорость, лёгкость, удобство](https://habr.com/ru/companies/raft/articles/954158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954158)
+- [Как сокращение полных путей файлов в логах влияет на производительность и размер Браузера](https://habr.com/ru/companies/yandex/articles/952410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952410)
+- [Слёзы, баги и C++: как Isaac стал легендарной игрой](https://habr.com/ru/companies/otus/articles/951666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951666)
+- [Как я искал работу бэкенд разработчика с одним годом опыта. Мысли, эмоции, статистика](https://habr.com/ru/articles/954452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954452)
 - [Почему моё Android-приложение крашится? Причина проста и банальна](https://habr.com/ru/companies/alfa/articles/950280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950280)
-- [Много спрашиваю и откладываю встречи на последний момент: мой опыт прохождения собеседований](https://habr.com/ru/companies/yandex_praktikum/articles/949856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949856)
-- [Ученые расширили наше понимание обобщений моделей математической физики](https://habr.com/ru/articles/952956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952956)
-- [ZERO-APPS: Создайте WEB-Приложение за 2 дня](https://habr.com/ru/articles/953856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953856)
-- [Неиспользуемый JavasScript код. Поиск и удаление](https://habr.com/ru/articles/954398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
