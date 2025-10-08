@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Возвращение Ubuntu Touch: как обновление дало вторую жизнь мобильной ОС](https://habr.com/ru/companies/ru_mts/articles/954470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954470)
+- [[Перевод] QUIC наконец-то приходит в Node.js: не прошло и 5 лет](https://habr.com/ru/articles/953570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953570)
 - [Архитектура как часть цифровой стратегии предприятия](https://habr.com/ru/companies/usetech/articles/954634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954634)
 - [setTimeout убил наши анимации: история спасения модальных окон](https://habr.com/ru/articles/954624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954624)
 - [Топ-10 лучших бесплатных нейросетей, которые сильно упростят вашу жизнь](https://habr.com/ru/companies/bothub/articles/954192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954192)
-- [Гайд по применению Object Lock на примере S3-объектного хранилища VK Cloud](https://habr.com/ru/companies/vktech/articles/954584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954584)
-- [Как LLM помогают ученым](https://habr.com/ru/articles/954612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
