@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как делать прибыльные pet-проекты](https://habr.com/ru/articles/954524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954524)
-- [Function Object — как основа бизнес логики приложения](https://habr.com/ru/articles/954516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954516)
-- [Системные модели: ключ к техническому суверенитету и реальной эффективности НИОКР](https://habr.com/ru/companies/etmc_exponenta/articles/954496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954496)
-- [Дорожная карта Java backend-разработчика: c Junior до Middle](https://habr.com/ru/companies/ruvds/articles/949170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949170)
-- [Как из готовых инструментов сделать систему на петабайт данных: рецепт счастья для разработчиков и бизнеса](https://habr.com/ru/companies/oleg-bunin/articles/950210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950210)
+- [Виртуальные потоки в Java: эволюция, практика, подводные камни](https://habr.com/ru/companies/naumen/articles/953262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953262)
+- [Не меняйте команду будто перчатки! Как мы обновили взрослый ИТ-продукт без масштабного найма разработчиков](https://habr.com/ru/articles/954416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954416)
+- [Как я планировал Тех Под с 0](https://habr.com/ru/articles/954550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954550)
+- [7 смертных грехов ML-ценообразования](https://habr.com/ru/companies/magnit/articles/954224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954224)
+- [Тесты первого клика: как знание статистики помогает делать правильные выводы?](https://habr.com/ru/articles/954542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
