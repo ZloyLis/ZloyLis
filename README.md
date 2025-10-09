@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gossip-оператор для Kubernetes вместо централизованных контроллеров](https://habr.com/ru/companies/otus/articles/949384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949384)
-- [ClickHouse — must-have для аналитика](https://habr.com/ru/companies/nlmk/articles/838898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838898)
-- [Упаковка проекта с большой анимацией в один HTML файл или как кодировка Windows-1251 избавила от лишних 52МБ](https://habr.com/ru/articles/954790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954790)
-- [Современная магия. Капля росы](https://habr.com/ru/articles/954510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954510)
-- [Разработка приложений DevelSCADA](https://habr.com/ru/articles/954798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954798)
+- [TypeScript или Rust: когда переписывать сервис и какие выигрыши ждать](https://habr.com/ru/articles/954872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954872)
+- [Соревнование по машинному обучению — предскажите следующее состояние рынка](https://habr.com/ru/companies/wunderfund/articles/954662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954662)
+- [Лучшие практики настройки кэширования DNS на рабочих станциях Linux в домене](https://habr.com/ru/companies/astralinux/articles/954682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954682)
+- [AI-ассистент для 15 000 файлов: быстрее, чем спросить у коллег](https://habr.com/ru/companies/2gis/articles/949704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949704)
+- [Подход к анализу требований в проектах внедрения ERP-систем](https://habr.com/ru/articles/954836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
