@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Ловушка ИИ-кодинга](https://habr.com/ru/companies/cloud4y/articles/954998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954998)
-- [[Перевод] Вышел Python 3.14. Насколько он быстр?](https://habr.com/ru/articles/954996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954996)
-- [Как мигрировать приложение с базой данных Oracle в Postgres без лишних хлопот](https://habr.com/ru/articles/954990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954990)
-- [Изучаем базовые протоколы сети с помощью open source-эмулятора Miminet](https://habr.com/ru/companies/yadro/articles/953844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953844)
-- [Делим кастрюлю компота на ноль. Что получится? Спойлер: ничего хорошего](https://habr.com/ru/companies/yoomoney/articles/954946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954946)
+- [Собрать звуковую спектрограмму на React и MobX](https://habr.com/ru/companies/kts/articles/955044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955044)
+- [Story Points или искусство делать ставку на выдуманные числа](https://habr.com/ru/companies/avito/articles/950932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950932)
+- [Решили не выбирать, а взяли всех: как мы объединили несколько хостеров](https://habr.com/ru/articles/955048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955048)
+- [Как Java Boys победили в ИИ-хакатоне МТС True Tech Hack 2025 с проектом на Spring AI и ChatGPT](https://habr.com/ru/companies/ru_mts/articles/948448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948448)
+- [Я открыл Figma и понял, что хочу выйти в окно. Возможно это провал](https://habr.com/ru/articles/955038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
