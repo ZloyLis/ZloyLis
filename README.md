@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript или Rust: когда переписывать сервис и какие выигрыши ждать](https://habr.com/ru/articles/954872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954872)
-- [Соревнование по машинному обучению — предскажите следующее состояние рынка](https://habr.com/ru/companies/wunderfund/articles/954662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954662)
-- [Лучшие практики настройки кэширования DNS на рабочих станциях Linux в домене](https://habr.com/ru/companies/astralinux/articles/954682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954682)
-- [AI-ассистент для 15 000 файлов: быстрее, чем спросить у коллег](https://habr.com/ru/companies/2gis/articles/949704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949704)
-- [Подход к анализу требований в проектах внедрения ERP-систем](https://habr.com/ru/articles/954836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954836)
+- [«Ох, зря я туда полез…»: история о том, как мы переезжали на React Native](https://habr.com/ru/companies/profi_ru/articles/954888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954888)
+- [От техлида до IT-директора: как растут лидеры в корпорациях](https://habr.com/ru/companies/oleg-bunin/articles/950408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950408)
+- [Мониторинг истории активных сессий в базах данных](https://habr.com/ru/articles/954880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954880)
+- [Что требуется знать о семантическом версионировании &lpar;SemVer&rpar;](https://habr.com/ru/articles/954878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954878)
+- [Что значит быть продуктовым разработчиком](https://habr.com/ru/companies/tbank/articles/952168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
