@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Безопасность — это не отсутствие структуры, а наличие правильной структуры: топология как новый язык науки](https://habr.com/ru/articles/954944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954944)
-- [Распределенные вычисления в Apache Ignite 3](https://habr.com/ru/articles/954928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954928)
-- [Новый транспортный протокол? JPP — Just Packet Protocol](https://habr.com/ru/articles/954918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954918)
-- [[Перевод] Парсить XML при помощи регулярных выражений нельзя… но давайте попробуем](https://habr.com/ru/articles/954632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954632)
-- [[Перевод] PEP 8 как религия: почему Python сам не соблюдает свои же правила](https://habr.com/ru/articles/953412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953412)
+- [[Перевод] Ловушка ИИ-кодинга](https://habr.com/ru/companies/cloud4y/articles/954998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954998)
+- [[Перевод] Вышел Python 3.14. Насколько он быстр?](https://habr.com/ru/articles/954996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954996)
+- [Как мигрировать приложение с базой данных Oracle в Postgres без лишних хлопот](https://habr.com/ru/articles/954990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954990)
+- [Изучаем базовые протоколы сети с помощью open source-эмулятора Miminet](https://habr.com/ru/companies/yadro/articles/953844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953844)
+- [Делим кастрюлю компота на ноль. Что получится? Спойлер: ничего хорошего](https://habr.com/ru/companies/yoomoney/articles/954946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
