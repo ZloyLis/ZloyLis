@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Gossip-оператор для Kubernetes вместо централизованных контроллеров](https://habr.com/ru/companies/otus/articles/949384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949384)
+- [ClickHouse — must-have для аналитика](https://habr.com/ru/companies/nlmk/articles/838898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=838898)
+- [Упаковка проекта с большой анимацией в один HTML файл или как кодировка Windows-1251 избавила от лишних 52МБ](https://habr.com/ru/articles/954790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954790)
 - [Современная магия. Капля росы](https://habr.com/ru/articles/954510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954510)
 - [Разработка приложений DevelSCADA](https://habr.com/ru/articles/954798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954798)
-- [Как аналитик ООП и ФП постигал](https://habr.com/ru/articles/954768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954768)
-- [Я «уволил» LLM с должности «мозга» проекта. И его производительность взлетела](https://habr.com/ru/articles/954742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954742)
-- [Как не сойти с ума? IT рынок переполнен](https://habr.com/ru/articles/954740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
