@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ох, зря я туда полез…»: история о том, как мы переезжали на React Native](https://habr.com/ru/companies/profi_ru/articles/954888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954888)
-- [От техлида до IT-директора: как растут лидеры в корпорациях](https://habr.com/ru/companies/oleg-bunin/articles/950408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950408)
-- [Мониторинг истории активных сессий в базах данных](https://habr.com/ru/articles/954880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954880)
-- [Что требуется знать о семантическом версионировании &lpar;SemVer&rpar;](https://habr.com/ru/articles/954878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954878)
-- [Что значит быть продуктовым разработчиком](https://habr.com/ru/companies/tbank/articles/952168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952168)
+- [Распределенные вычисления в Apache Ignite 3](https://habr.com/ru/articles/954928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954928)
+- [Новый транспортный протокол? JPP — Just Packet Protocol](https://habr.com/ru/articles/954918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954918)
+- [[Перевод] Парсить XML при помощи регулярных выражений нельзя… но давайте попробуем](https://habr.com/ru/articles/954632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954632)
+- [[Перевод] PEP 8 как религия: почему Python сам не соблюдает свои же правила](https://habr.com/ru/articles/953412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953412)
+- [[Перевод] Как работает Context Engineering в Claude и других агентах](https://habr.com/ru/articles/953440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
