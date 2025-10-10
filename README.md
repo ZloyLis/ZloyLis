@@ -38,7 +38,7 @@ ___
 - [Внедрить ИИ-ть или рассказать, доказать и показать](https://habr.com/ru/articles/955414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955414)
 - [Профессия программист С: плюсы, минусы и нужен ли свитер](https://habr.com/ru/companies/postgrespro/articles/955384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955384)
 - [Чанковая загрузка артефактов CI/CD: оптимизация передачи файлов](https://habr.com/ru/companies/astralinux/articles/955392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955392)
-- [[Перевод] Пришли времена личных хранилищ данных](https://habr.com/ru/companies/ruvds/articles/954478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954478)
+- [[Перевод] Пришли времена собственных хранилищ личных данных](https://habr.com/ru/companies/ruvds/articles/954478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954478)
 - [Двухфакторная аутентификация с fallback-каналами и оптимизацией text-to-speech: сокращаем затраты и повышаем надежность](https://habr.com/ru/companies/ru_mts/articles/954706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954706)
 <!-- BLOG-POST-LIST:END -->
 
