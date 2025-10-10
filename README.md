@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift становится ближе. Разработка в контейнере c IDE для VSCode](https://habr.com/ru/articles/908362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=908362)
 - [AI 2026: Почему это будет год «Цифрового Шизофреника» и как нам в этом выжить](https://habr.com/ru/articles/955496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955496)
 - [Три кита управляемого ИИ: От хаоса «чёрного ящика» к прозрачности и прибыли](https://habr.com/ru/articles/955492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955492)
 - [Вайб-кодинг уязвимостей или как AI роняет безопасность](https://habr.com/ru/articles/955482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955482)
 - [Внедрить ИИ-ть или рассказать, доказать и показать](https://habr.com/ru/articles/955414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955414)
-- [Профессия программист С: плюсы, минусы и нужен ли свитер](https://habr.com/ru/companies/postgrespro/articles/955384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
