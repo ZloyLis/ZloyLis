@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CCXT + CoinGecko: гибкий сбор рыночных данных для собственного криптотрекера](https://habr.com/ru/articles/955328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955328)
 - [[Перевод] Как открытые веса раскрыли секреты обучения GPT-5](https://habr.com/ru/articles/955260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955260)
 - [Вперёд к мечте! От JCUKEN к QWERTY на Специалисте](https://habr.com/ru/articles/955234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955234)
 - [Из программистов в ИТ-панк-рок](https://habr.com/ru/articles/955214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955214)
 - [Цепочка гаджетов в Java и как небезопасная десериализация приводит к RCE?](https://habr.com/ru/companies/pvs-studio/articles/955210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955210)
-- [В России придумали квантовое соотношение неопределенности между действием частицы и ее массой](https://habr.com/ru/articles/954382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
