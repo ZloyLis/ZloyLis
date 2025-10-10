@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как защитить Kubernetes на уровне ядра Linux](https://habr.com/ru/companies/flant/articles/952012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952012)
 - [Настоящий тест для языков программирования — как они справляются с DOM-подобными структурами данных](https://habr.com/ru/articles/955158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955158)
 - [Хороший, плохой, цветной и быстрый](https://habr.com/ru/articles/954676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954676)
 - [Обзор Cursor 1.7: Пишем to-do приложение с ИИ-агентом](https://habr.com/ru/companies/bothub/articles/955124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955124)
 - [Как я подружил Yandex DB с векторным поиском: end-to-end решение на JavaScript](https://habr.com/ru/articles/955078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955078)
-- [От вседозволенности к порядку: кастомизация Jodit для строгой типографики](https://habr.com/ru/companies/reksoft/articles/955046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
