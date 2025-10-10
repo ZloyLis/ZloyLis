@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Двухфакторная аутентификация с fallback-каналами и оптимизацией text-to-speech: сокращаем затраты и повышаем надежность](https://habr.com/ru/companies/ru_mts/articles/954706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954706)
+- [Архитектура ИТ решений. Часть 1. Понятие «Архитектура»](https://habr.com/ru/articles/955218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955218)
+- [Как нас попытались «положить» при запуске: история одной DDoS](https://habr.com/ru/articles/955330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955330)
+- [Чем ближе Хэллоуин — тем ниже скидка: запасаемся знаниями к зиме](https://habr.com/ru/companies/otus/articles/954724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954724)
 - [CCXT + CoinGecko: гибкий сбор рыночных данных для собственного криптотрекера](https://habr.com/ru/articles/955328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955328)
-- [[Перевод] Как открытые веса раскрыли секреты обучения GPT-5](https://habr.com/ru/articles/955260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955260)
-- [Вперёд к мечте! От JCUKEN к QWERTY на Специалисте](https://habr.com/ru/articles/955234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955234)
-- [Из программистов в ИТ-панк-рок](https://habr.com/ru/articles/955214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955214)
-- [Цепочка гаджетов в Java и как небезопасная десериализация приводит к RCE?](https://habr.com/ru/companies/pvs-studio/articles/955210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
