@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ЗАВОД НА ВСЕ 100! КАК ПОЛУЧИТЬ КОНКУРЕНТНОЕ ПРЕИМУЩЕСТВО ЗА СЧЕТ РЕКОМЕНДАТЕЛЬНЫХ СИСТЕМ ДЛЯ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ](https://habr.com/ru/articles/955608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955608)
+- [Завод на все 100! Как получить конкурентное преимущество за счет рекомендательных систем для поддержки принятия решений](https://habr.com/ru/articles/955608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955608)
 - [Почему Palm 2004 года работает быстрее, чем iPhone?](https://habr.com/ru/companies/timeweb/articles/955164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955164)
 - [TorusCSIDH: постквантовый аналог ECDSA с топологическим критерием безопасности](https://habr.com/ru/articles/955594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955594)
 - [Давайте поговорим про Web-API](https://habr.com/ru/articles/955574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955574)
