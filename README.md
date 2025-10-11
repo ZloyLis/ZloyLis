@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [TorusCSIDH: Постквантовая криптография через призму топологического анализа](https://habr.com/ru/articles/955554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955554)
+- [Давайте поговорим про Web-API](https://habr.com/ru/articles/955574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955574)
+- [Как российским властям привлечь на свою сторону IT-шников и прочих интеллектуалов?](https://habr.com/ru/companies/lumanbox/articles/955090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955090)
 - [Прокси контракты, как они работают, какие бывают и как это работает в EVMPack. Часть 1](https://habr.com/ru/articles/955526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955526)
 - [Балансировка нагрузки: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/955202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955202)
 - [[Перевод] Стоит ли пользоваться функцией If&lpar;&rpar; в CSS?](https://habr.com/ru/articles/954738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954738)
-- [Swift становится ближе. Разработка в контейнере c IDE для VSCode](https://habr.com/ru/articles/908362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=908362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
