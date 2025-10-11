@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прокси контракты, как они работают, какие бывают и как это работает в EVMPack. Часть 1](https://habr.com/ru/articles/955526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955526)
+- [Балансировка нагрузки: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/955202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955202)
+- [[Перевод] Стоит ли пользоваться функцией If&lpar;&rpar; в CSS?](https://habr.com/ru/articles/954738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954738)
 - [Swift становится ближе. Разработка в контейнере c IDE для VSCode](https://habr.com/ru/articles/908362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=908362)
 - [AI 2026: Почему это будет год «Цифрового Шизофреника» и как нам в этом выжить](https://habr.com/ru/articles/955496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955496)
-- [Три кита управляемого ИИ: От хаоса «чёрного ящика» к прозрачности и прибыли](https://habr.com/ru/articles/955492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955492)
-- [Вайб-кодинг уязвимостей или как AI роняет безопасность](https://habr.com/ru/articles/955482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955482)
-- [Внедрить ИИ-ть или рассказать, доказать и показать](https://habr.com/ru/articles/955414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
