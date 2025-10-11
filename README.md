@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TorusCSIDH: Постквантовая криптография через призму топологического анализа](https://habr.com/ru/articles/955554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955554)
 - [Прокси контракты, как они работают, какие бывают и как это работает в EVMPack. Часть 1](https://habr.com/ru/articles/955526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955526)
 - [Балансировка нагрузки: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/955202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955202)
 - [[Перевод] Стоит ли пользоваться функцией If&lpar;&rpar; в CSS?](https://habr.com/ru/articles/954738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954738)
 - [Swift становится ближе. Разработка в контейнере c IDE для VSCode](https://habr.com/ru/articles/908362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=908362)
-- [AI 2026: Почему это будет год «Цифрового Шизофреника» и как нам в этом выжить](https://habr.com/ru/articles/955496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
