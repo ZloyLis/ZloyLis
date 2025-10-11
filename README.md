@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [.ap: удобный для ИИ формат патчей, который экономит мне часы](https://habr.com/ru/articles/955652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955652)
 - [TorusCSIDH: постквантовая криптография для Bitcoin уже сегодня](https://habr.com/ru/articles/955640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955640)
 - [Как работает система владений и ссылок в Rust на низком уровне](https://habr.com/ru/articles/955628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955628)
 - [Завод на все 100! Как получить конкурентное преимущество за счет рекомендательных систем для поддержки принятия решений](https://habr.com/ru/articles/955608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955608)
 - [Почему Palm 2004 года работает быстрее, чем iPhone?](https://habr.com/ru/companies/timeweb/articles/955164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955164)
-- [TorusCSIDH: постквантовый аналог ECDSA с топологическим критерием безопасности](https://habr.com/ru/articles/955594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
