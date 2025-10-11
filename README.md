@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему Palm 2006 года работает быстрее, чем iPhone?](https://habr.com/ru/companies/timeweb/articles/955164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955164)
+- [ЗАВОД НА ВСЕ 100! КАК ПОЛУЧИТЬ КОНКУРЕНТНОЕ ПРЕИМУЩЕСТВО ЗА СЧЕТ РЕКОМЕНДАТЕЛЬНЫХ СИСТЕМ ДЛЯ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ](https://habr.com/ru/articles/955608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955608)
+- [Почему Palm 2004 года работает быстрее, чем iPhone?](https://habr.com/ru/companies/timeweb/articles/955164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955164)
 - [TorusCSIDH: постквантовый аналог ECDSA с топологическим критерием безопасности](https://habr.com/ru/articles/955594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955594)
 - [Давайте поговорим про Web-API](https://habr.com/ru/articles/955574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955574)
 - [Как российским властям привлечь на свою сторону IT-шников и прочих интеллектуалов?](https://habr.com/ru/companies/lumanbox/articles/955090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955090)
-- [Прокси контракты, как они работают, какие бывают и как это работает в EVMPack. Часть 1](https://habr.com/ru/articles/955526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
