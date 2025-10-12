@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Современная разработка или пиши тогда сразу в «Блокноте»](https://habr.com/ru/articles/955732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955732)
+- [«А тесты – это тоже код?»: О чём на самом деле молчат ваши стажёры](https://habr.com/ru/articles/955730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955730)
 - [Мобильная разработка за неделю #606 &lpar;6 — 12 октября&rpar;](https://habr.com/ru/articles/955722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955722)
 - [[Перевод] Неизбежна ли война между человеком и искусственным интеллектом?](https://habr.com/ru/articles/955710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955710)
 - [[Перевод] Настройка Express 5 для продакшна в 2025 году. Часть 2](https://habr.com/ru/companies/timeweb/articles/950022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950022)
-- [Автоматизация без риска: как уберечь данные в АИС](https://habr.com/ru/companies/selectel/articles/951722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951722)
-- [.ap: удобный для ИИ формат патчей, который экономит мне часы](https://habr.com/ru/articles/955652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
