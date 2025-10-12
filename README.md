@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое дескрипторы в Python и почему вам следует о них знать](https://habr.com/ru/articles/955772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955772)
 - [[Управление репликами] Расследование](https://habr.com/ru/articles/955760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955760)
 - [[Управление репликами] Исходная точка](https://habr.com/ru/articles/955752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955752)
 - [Первые шаги open source-контрибьютора: лучшие практики на основе тысячи проектов и руководства в стиле «с чего начать»](https://habr.com/ru/companies/beeline_cloud/articles/955742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955742)
 - [Современная разработка или пиши тогда сразу в «Блокноте»](https://habr.com/ru/articles/955732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955732)
-- [«А тесты – это тоже код?»: О чём на самом деле молчат ваши стажёры](https://habr.com/ru/articles/955730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
