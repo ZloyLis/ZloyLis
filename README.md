@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Настройка Express 5 для продакшна в 2025 году. Часть 2](https://habr.com/ru/companies/timeweb/articles/950022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950022)
+- [Автоматизация без риска: как уберечь данные в АИС](https://habr.com/ru/companies/selectel/articles/951722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951722)
 - [.ap: удобный для ИИ формат патчей, который экономит мне часы](https://habr.com/ru/articles/955652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955652)
 - [TorusCSIDH: постквантовая криптография для Bitcoin уже сегодня](https://habr.com/ru/articles/955640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955640)
 - [Как работает система владений и ссылок в Rust на низком уровне](https://habr.com/ru/articles/955628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955628)
-- [Завод на все 100! Как получить конкурентное преимущество за счет рекомендательных систем для поддержки принятия решений](https://habr.com/ru/articles/955608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955608)
-- [Самый быстрый смартфон нулевых: в чём секрет производительности PalmOS?](https://habr.com/ru/companies/timeweb/articles/955164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
