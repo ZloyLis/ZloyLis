@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Система резервации на 600 заказов в секунду без буферизации и другой дичи](https://habr.com/ru/articles/955714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955714)
 - [[Перевод] Эра корпоративной агентной автоматизации наступила](https://habr.com/ru/articles/955112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955112)
 - [[Перевод] Шутки и веселье в публичном Android API](https://habr.com/ru/articles/919062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=919062)
 - [Полный гайд по автотестам для лидов и разработчиков. Часть 3. Про царь-тесты](https://habr.com/ru/articles/955634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955634)
 - [[Перевод] Управление “libraries&amp;quot; как “apps&amp;quot; используя Agentic Executable framework](https://habr.com/ru/articles/955844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955844)
-- [Сказ о Мастере и Печи — просто о квантовой механике](https://habr.com/ru/articles/955840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
