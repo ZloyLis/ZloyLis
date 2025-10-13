@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HighLoad++: чего ждать от главной конференции IT-индустрии этой осени?](https://habr.com/ru/companies/oleg-bunin/articles/955360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955360)
+- [Почему мы не даём инженерам делать «технические» задачи, и как это помогает бороться с техдолгом](https://habr.com/ru/companies/oleg-bunin/articles/949630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949630)
+- [Использование Yandex Embedder на JavaScript](https://habr.com/ru/articles/955938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955938)
+- [Как скрестить ужа с ежом: соединить Laravel и Битрикс в одном проде и не умереть &lpar;часть 1&rpar;](https://habr.com/ru/companies/kislorod/articles/955434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955434)
 - [Telegram-бот для дополнения базы знаний: автоматизация без разработчиков](https://habr.com/ru/companies/teamly/articles/955278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955278)
-- [Базовая архитектура безопасности контейнеров и kubernetes: объясняем на примере BІ-конструктора Битрикс24](https://habr.com/ru/companies/bitrix/articles/955264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955264)
-- [Три математические задачи, ответы на которые «обескураживают»](https://habr.com/ru/articles/955904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955904)
-- [Система резервации на 600 заказов в секунду без буферизации и другой дичи](https://habr.com/ru/articles/955714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955714)
-- [[Перевод] Эра корпоративной агентной автоматизации наступила](https://habr.com/ru/articles/955112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
