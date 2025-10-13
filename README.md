@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оглушающая музыка тишины](https://habr.com/ru/articles/956182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956182)
 - [Postgresso 7-8](https://habr.com/ru/companies/postgrespro/articles/931538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=931538)
 - [Тени секретов в etcd: удалил ≠ уничтожил](https://habr.com/ru/companies/otus/articles/955290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955290)
 - [К вопросу о шифровании данных на мобильных устройствах бизнес-пользователей](https://habr.com/ru/companies/fsight/articles/956046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956046)
 - [Процесс регистрации/авторизации пользователя по номеру телефону через Telegram](https://habr.com/ru/articles/956162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956162)
-- [UI Kit как рычаг роста: как связать Figma и код](https://habr.com/ru/articles/956130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
