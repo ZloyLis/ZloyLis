@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбор олимпиады ITMO](https://habr.com/ru/articles/956218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956218)
+- [Обзоры препринтов научных статей в области астрофизики за сентябрь 2025 года](https://habr.com/ru/articles/956210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956210)
 - [[Управление репликами] Лоскутное одеяло](https://habr.com/ru/articles/956198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956198)
 - [Java против Python: Призрак с LTS-подпиской стучится в AI](https://habr.com/ru/articles/955500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955500)
 - [Как я подружил OpenAI, Rust и Solana: квиз, который платит токенами за правильные ответы](https://habr.com/ru/articles/956186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956186)
-- [Оглушающая музыка тишины](https://habr.com/ru/articles/956182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956182)
-- [Postgresso 7-8](https://habr.com/ru/companies/postgrespro/articles/931538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=931538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
