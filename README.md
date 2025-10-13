@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google превращает обучение искусственному интеллекту в игру AI Quests](https://habr.com/ru/articles/956098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956098)
+- [Как собрать плагин Archi самостоятельно](https://habr.com/ru/articles/956082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956082)
 - [Как я подружил бэкенд с API AmoCRM: связь сущностей, отправка данных, защита от дублей](https://habr.com/ru/articles/956074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956074)
 - [6 Docker-фич для продвинутого использования](https://habr.com/ru/companies/ruvds/articles/953990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953990)
 - [Почему «метод персон» и JTBD — это неработающий инструмент](https://habr.com/ru/articles/956056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956056)
-- [[Перевод] Какой табличный формат LLM понимают лучше всего? &lpar;Результаты по 11 форматам&rpar;](https://habr.com/ru/articles/955778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955778)
-- [Зачем ИИ системному аналитику](https://habr.com/ru/articles/956050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
