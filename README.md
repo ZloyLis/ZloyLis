@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сказ о Мастере и Печи — просто о квантовой механике](https://habr.com/ru/articles/955840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955840)
+- [Минималистский графический интерфейс, на C++ / WTL, для консольного загрузчика](https://habr.com/ru/articles/955838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955838)
 - [[Управление репликами] Thundering Herd](https://habr.com/ru/articles/955834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955834)
 - [Создаём AI-ассистента для код-ревью с нуля](https://habr.com/ru/articles/955826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955826)
 - [Почему model-first и где истина?](https://habr.com/ru/articles/955782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955782)
-- [Что такое дескрипторы в Python и почему вам следует о них знать](https://habr.com/ru/articles/955772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955772)
-- [[Управление репликами] Dogpile Effect](https://habr.com/ru/articles/955760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
