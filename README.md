@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python шпильки: как заменить многоэтажные if-else на изящный словарь функций](https://habr.com/ru/articles/956020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956020)
+- [Работаем с S3 без интернета: как настроить подключение к S3-совместимому хранилищу через сервисную сеть](https://habr.com/ru/companies/vktech/articles/955008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955008)
 - [Claude Sonnet 4.5 vs Opus 4.1 vs ChatGPT 5: какую нейросеть выбрать в 2025 году?](https://habr.com/ru/companies/bothub/articles/955822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955822)
 - [Протоколы &lpar;устройства&rpar; системы DevelSCADA &lpar;часть 1&rpar;](https://habr.com/ru/articles/955982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955982)
 - [Структуры данных. Часть 1](https://habr.com/ru/articles/955972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955972)
-- [[Перевод] Автоматический парсинг чеков с LlamaIndex и Pydantic](https://habr.com/ru/articles/953414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953414)
-- [Как статический анализ побуждает разработчика рефакторить код. По мотивам Source SDK](https://habr.com/ru/companies/pvs-studio/articles/955966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
