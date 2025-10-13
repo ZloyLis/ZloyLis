@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пожиратель токенов &lpar;или нет&rpar;: анатомия протокола MCP для ИИ-агентов](https://habr.com/ru/articles/956150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956150)
+- [Что я вынес из Oxford Machine Learning Summer School 2025](https://habr.com/ru/articles/956138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956138)
+- [Ресурсы для вдохновения и прокачки насмотренности](https://habr.com/ru/articles/956128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956128)
 - [[Перевод] Как мы нашли баг в компиляторе Go](https://habr.com/ru/companies/ruvds/articles/955294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955294)
 - [Дизайн дисфункция 2. Все еще о ВК Видео](https://habr.com/ru/articles/956100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956100)
-- [Google превращает обучение искусственному интеллекту в игру AI Quests](https://habr.com/ru/articles/956098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956098)
-- [Как собрать плагин Archi самостоятельно](https://habr.com/ru/articles/956082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956082)
-- [Как я подружил бэкенд с API AmoCRM: связь сущностей, отправка данных, защита от дублей](https://habr.com/ru/articles/956074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
