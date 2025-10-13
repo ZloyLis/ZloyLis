@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [HighLoad++: чего ждать от главной конференции IT-индустрии этой осени?](https://habr.com/ru/companies/oleg-bunin/articles/955360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955360)
-- [Почему мы не даём инженерам делать «технические» задачи, и как это помогает бороться с техдолгом](https://habr.com/ru/companies/oleg-bunin/articles/949630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949630)
-- [Использование Yandex Embedder на JavaScript](https://habr.com/ru/articles/955938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955938)
-- [Как скрестить ужа с ежом: соединить Laravel и Битрикс в одном проде и не умереть &lpar;часть 1&rpar;](https://habr.com/ru/companies/kislorod/articles/955434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955434)
-- [Telegram-бот для дополнения базы знаний: автоматизация без разработчиков](https://habr.com/ru/companies/teamly/articles/955278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955278)
+- [Claude Sonnet 4.5 vs Opus 4.1 vs ChatGPT 5: какую нейросеть выбрать в 2025 году?](https://habr.com/ru/companies/bothub/articles/955822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955822)
+- [Протоколы &lpar;устройства&rpar; системы DevelSCADA &lpar;часть 1&rpar;](https://habr.com/ru/articles/955982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955982)
+- [Структуры данных. Часть 1](https://habr.com/ru/articles/955972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955972)
+- [[Перевод] Автоматический парсинг чеков с LlamaIndex и Pydantic](https://habr.com/ru/articles/953414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953414)
+- [Как статический анализ побуждает разработчика рефакторить код. По мотивам Source SDK](https://habr.com/ru/companies/pvs-studio/articles/955966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
