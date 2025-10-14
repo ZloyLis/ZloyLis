@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Управление репликами] Практика](https://habr.com/ru/articles/956588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956588)
 - [Baidu и AI Search Paradigm: мультиагентная структура для интеллектуального поиска информации](https://habr.com/ru/companies/redmadrobot/articles/956570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956570)
 - [C#-like properties в C++ размером 1 байт](https://habr.com/ru/articles/956550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956550)
 - [Как JavaScript справляется с DOM-подобными структурами данных](https://habr.com/ru/articles/956542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956542)
 - [[Перевод] Подробно о неопределённом поведении в С и C++](https://habr.com/ru/articles/956522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956522)
-- [[Перевод] Автономный AI сотрудник](https://habr.com/ru/articles/956518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
