@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python-разработчик в 2025 году: скилсет джуниора и ожидания рынка](https://habr.com/ru/companies/yandex_praktikum/articles/952058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952058)
-- [Препарируем signal: непростой примитив](https://habr.com/ru/companies/psb/articles/955912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955912)
-- [[Перевод] Трещины в Liquid Glass](https://habr.com/ru/articles/956116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956116)
-- [Мобильный клиент для LM Studio с удаленным доступом](https://habr.com/ru/articles/956272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956272)
-- [ArchiMate: внедряем в практику бизнес-аналитика на примере соответствия BPMN](https://habr.com/ru/articles/955332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955332)
+- [Как я полюбил LESS и с его помощью добавил в CSS статическую типизацию на основе венгерской нотации &lpar;часть 3&rpar;](https://habr.com/ru/companies/timeweb/articles/951476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951476)
+- [Kubernetes на пальцах: самое простое объяснение, что это такое](https://habr.com/ru/companies/selectel/articles/956266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956266)
+- [До 100 релизов в день. Как мы ускорили процесс разработки](https://habr.com/ru/companies/yoomoney/articles/955930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955930)
+- [Как мы за 1.5 года переобучили с PHP на Java всех разработчиков](https://habr.com/ru/companies/compo/articles/956106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956106)
+- [Выбор языка программирования для создание более трудных проектов: как сделать правильный выбор новичку?](https://habr.com/ru/articles/956302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
