@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Трещины в Liquid Glass](https://habr.com/ru/articles/956116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956116)
+- [Мобильный клиент для LM Studio с удаленным доступом](https://habr.com/ru/articles/956272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956272)
+- [ArchiMate: внедряем в практику бизнес-аналитика на примере соответствия BPMN](https://habr.com/ru/articles/955332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955332)
 - [[Перевод] Temporal: Возможности многоагентных архитектур](https://habr.com/ru/articles/956176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956176)
 - [Кватернионы — не только то, что мы о них думали. Переход к 3D](https://habr.com/ru/articles/955716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955716)
-- [Закройте сокет, даже если он не открылся](https://habr.com/ru/articles/955678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955678)
-- [Просто о сложном: Как работают нейросети](https://habr.com/ru/articles/956194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956194)
-- [Обзоры препринтов научных статей в области астрофизики за сентябрь 2025 года](https://habr.com/ru/articles/956210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
