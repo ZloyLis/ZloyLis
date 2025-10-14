@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Двойной агент. Как ввести всех в заблуждение, заработать и сыграть на руку корпоратам. Антиволк](https://habr.com/ru/articles/956348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956348)
+- [Как я с помощью LLM писал эмулятор ZX Spectrum](https://habr.com/ru/articles/956344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956344)
+- [LLM уже может все! Или еще нет?](https://habr.com/ru/articles/956342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956342)
+- [Дорогие джуны, не делайте так. Коллекция плохих привычек в HTML и CSS](https://habr.com/ru/companies/ruvds/articles/954894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954894)
 - [Как я полюбил LESS и с его помощью добавил в CSS статическую типизацию на основе венгерской нотации &lpar;часть 3&rpar;](https://habr.com/ru/companies/timeweb/articles/951476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951476)
-- [Kubernetes на пальцах: самое простое объяснение, что это такое](https://habr.com/ru/companies/selectel/articles/956266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956266)
-- [До 100 релизов в день. Как мы ускорили процесс разработки](https://habr.com/ru/companies/yoomoney/articles/955930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955930)
-- [Как мы за 1.5 года переобучили с PHP на Java всех разработчиков](https://habr.com/ru/companies/compo/articles/956106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956106)
-- [Выбор языка программирования для создание более трудных проектов: как сделать правильный выбор новичку?](https://habr.com/ru/articles/956302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
