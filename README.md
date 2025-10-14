@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Трансрекурсивная теория: Переосмысление пределов вычислимого роста](https://habr.com/ru/articles/956594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956594)
 - [Обзор Firebase 10.11.0: как создать web-приложение за вечер](https://habr.com/ru/companies/bothub/articles/956590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956590)
 - [[Управление репликами] Практика](https://habr.com/ru/articles/956588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956588)
 - [Baidu и AI Search Paradigm: мультиагентная структура для интеллектуального поиска информации](https://habr.com/ru/companies/redmadrobot/articles/956570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956570)
 - [C#-like properties в C++ размером 1 байт](https://habr.com/ru/articles/956550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956550)
-- [Как JavaScript справляется с DOM-подобными структурами данных](https://habr.com/ru/articles/956542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
