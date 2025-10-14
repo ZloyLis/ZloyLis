@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C#-like properties в C++ размером 1 байт](https://habr.com/ru/articles/956550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956550)
 - [Как JavaScript справляется с DOM-подобными структурами данных](https://habr.com/ru/articles/956542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956542)
 - [[Перевод] Подробно о неопределённом поведении в С и C++](https://habr.com/ru/articles/956522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956522)
 - [[Перевод] Автономный AI сотрудник](https://habr.com/ru/articles/956518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956518)
 - [Android для новичков: как не наломать дров с корутинами и какие привычки оставить в прошлом](https://habr.com/ru/companies/netologyru/articles/956346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956346)
-- [Подножка для AI в виде UTF-8](https://habr.com/ru/companies/pvs-studio/articles/956470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
