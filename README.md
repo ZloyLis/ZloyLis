@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработка в удалённых контейнерах](https://habr.com/ru/articles/956400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956400)
-- [Как перестать верить в сказки и начать доставлять вовремя?](https://habr.com/ru/articles/956228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956228)
-- [Микросервис из 15-летнего монолита: приключение на год](https://habr.com/ru/companies/hh/articles/956102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956102)
-- [[Перевод] Jackson 3 ворвался в Spring](https://habr.com/ru/companies/spring_aio/articles/956366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956366)
-- [Двойной агент. Как ввести всех в заблуждение, заработать и сыграть на руку корпоратам. Антиволк](https://habr.com/ru/articles/956348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956348)
+- [Я мигрировал свой монорепозиторий на Bun — вот мой честный отзыв](https://habr.com/ru/articles/956466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956466)
+- [Структурный техдолг: как архитектурные ошибки парализуют гигантов &lpar;на примере РЖД&rpar;](https://habr.com/ru/articles/956458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956458)
+- [Рендеринг трёхмерных фрактальных множеств: от губки Менгера до Мандельбокса, часть 2](https://habr.com/ru/companies/sberbank/articles/954726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954726)
+- [Я сделал Log Bull — простую open source альтернативу ELK, Loki и Graylog для сбора логов из кода &lpar;Python, Go, JS и т.д.&rpar;](https://habr.com/ru/articles/954864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954864)
+- [Личный опыт: как я навайбкодил сайт за три дня](https://habr.com/ru/articles/956434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
