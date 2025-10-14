@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подножка для AI в виде UTF-8](https://habr.com/ru/companies/pvs-studio/articles/956470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956470)
+- [Униметрия: вращение Вигнера и прецессия Томаса](https://habr.com/ru/articles/956066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956066)
 - [Я мигрировал свой монорепозиторий на Bun — вот мой честный отзыв](https://habr.com/ru/articles/956466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956466)
 - [Структурный техдолг: как архитектурные ошибки парализуют гигантов &lpar;на примере РЖД&rpar;](https://habr.com/ru/articles/956458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956458)
 - [Рендеринг трёхмерных фрактальных множеств: от губки Менгера до Мандельбокса, часть 2](https://habr.com/ru/companies/sberbank/articles/954726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954726)
-- [Я сделал Log Bull — простую open source альтернативу ELK, Loki и Graylog для сбора логов из кода &lpar;Python, Go, JS и т.д.&rpar;](https://habr.com/ru/articles/954864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954864)
-- [Личный опыт: как я навайбкодил сайт за три дня](https://habr.com/ru/articles/956434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
