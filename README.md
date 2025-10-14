@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перестать верить в сказки и начать доставлять вовремя?](https://habr.com/ru/articles/956228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956228)
+- [Микросервис из 15-летнего монолита: приключение на год](https://habr.com/ru/companies/hh/articles/956102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956102)
+- [[Перевод] Jackson 3 ворвался в Spring](https://habr.com/ru/companies/spring_aio/articles/956366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956366)
 - [Двойной агент. Как ввести всех в заблуждение, заработать и сыграть на руку корпоратам. Антиволк](https://habr.com/ru/articles/956348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956348)
 - [Как я с помощью LLM писал эмулятор ZX Spectrum](https://habr.com/ru/articles/956344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956344)
-- [LLM уже может все! Или еще нет?](https://habr.com/ru/articles/956342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956342)
-- [Дорогие джуны, не делайте так. Коллекция плохих привычек в HTML и CSS](https://habr.com/ru/companies/ruvds/articles/954894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954894)
-- [Как я полюбил LESS и с его помощью добавил в CSS статическую типизацию на основе венгерской нотации &lpar;часть 3&rpar;](https://habr.com/ru/companies/timeweb/articles/951476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
