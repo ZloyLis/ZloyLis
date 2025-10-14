@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Temporal: Возможности многоагентных архитектур](https://habr.com/ru/articles/956176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956176)
+- [Кватернионы — не только то, что мы о них думали. Переход к 3D](https://habr.com/ru/articles/955716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955716)
+- [Закройте сокет, даже если он не открылся](https://habr.com/ru/articles/955678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955678)
 - [Просто о сложном: Как работают нейросети](https://habr.com/ru/articles/956194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956194)
 - [Обзоры препринтов научных статей в области астрофизики за сентябрь 2025 года](https://habr.com/ru/articles/956210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956210)
-- [[Управление репликами] Лоскутное одеяло](https://habr.com/ru/articles/956198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956198)
-- [Java против Python: Призрак с LTS-подпиской стучится в AI](https://habr.com/ru/articles/955500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955500)
-- [Как я подружил OpenAI, Rust и Solana: квиз, который платит токенами за правильные ответы](https://habr.com/ru/articles/956186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
