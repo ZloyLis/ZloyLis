@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вы все еще изобретаете велосипеды при миграции данных из Oracle в Postgres? Мы тоже](https://habr.com/ru/companies/rostelecom/articles/955744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955744)
 - [[Перевод] Я оплачиваю квартиру за счет Python-инструмента, который собрал за выходные](https://habr.com/ru/articles/956896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956896)
 - [[Перевод] JetBrains: большой отчёт о состоянии экосистемы разработчиков в 2025 году](https://habr.com/ru/articles/956886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956886)
 - [[Перевод] Cursor делает разработчиков менее эффективными?](https://habr.com/ru/companies/otus/articles/956754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956754)
 - [Ночные чаты, байки на кухне, хитрости на хакатоне: Школа синтеза цифровых схем глазами выпускников](https://habr.com/ru/companies/yadro/articles/956860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956860)
-- [Поиск работы в IT сломан. Я устал это терпеть и написал код, который играет против правил](https://habr.com/ru/articles/956856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
