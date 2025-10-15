@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интеграция Predictive back в Android](https://habr.com/ru/articles/956680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956680)
-- [«Сделай сам»: как мы запустили менторинг с нуля на компанию 2000+ сотрудников](https://habr.com/ru/companies/jetinfosystems/articles/955388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955388)
-- [Планшеты ожили. Кто лидирует на рынке в 2025 году](https://habr.com/ru/companies/mvideo/articles/956662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956662)
-- [Как мы ускорили ввод новых узлов до 40 секунд: надежная работа на spot-инстансах в Kubernetes с Karpenter](https://habr.com/ru/companies/flant/articles/955302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955302)
-- [Как я парсил схемы Visio](https://habr.com/ru/companies/T1Holding/articles/956438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956438)
+- [Работа с сокетами C++](https://habr.com/ru/articles/956704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956704)
+- [Паттерны ООП c примерами на Java: порождающие шаблоны](https://habr.com/ru/companies/ruvds/articles/955604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955604)
+- [Когда впечатления заложник формата](https://habr.com/ru/articles/956686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956686)
+- [Архитектура ИТ решений. Часть 2. Бизнес-архитектура](https://habr.com/ru/articles/956656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956656)
+- [Kubernetes 1.29.15 и GPU: как починить пропавшие видеокарты и настроить Time-Slicing](https://habr.com/ru/companies/citydrive/articles/956684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
