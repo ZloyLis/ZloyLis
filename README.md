@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сравнение Grafana и Dimension-UI на задаче мониторинга истории активных сессий](https://habr.com/ru/articles/956800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956800)
-- [SSE + Java + WebFlux = энтерпрайз решение для отправки пушей](https://habr.com/ru/articles/956766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956766)
-- [Concurrency на примерах. Собственная реализация Mutex на Go + сравнение с sync.Mutex. Часть №1](https://habr.com/ru/articles/956690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956690)
-- [[Перевод] Освоение Unicode в Java: создаём на Quarkus REST API, готовый к глобальной аудитории](https://habr.com/ru/companies/otus/articles/956720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956720)
-- [Изнутри жюри: как мы выбирали лучшую работу на чемпионате по html верстке](https://habr.com/ru/articles/956710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956710)
+- [За гранью человеческой интуиции: как ИИ создает странные, но сверхэффективные аналоговые микросхемы](https://habr.com/ru/articles/956850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956850)
+- [Реверс-инжиниринг сетевых протоколов: практическое руководство](https://habr.com/ru/companies/simbirsoft/articles/955950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955950)
+- [[Перевод] Ад туториалов сменился адом вайб-кодинга](https://habr.com/ru/companies/ruvds/articles/956412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956412)
+- [От хаоса к порядку | Как систематизировать макеты UX/UI-дизайнеру](https://habr.com/ru/companies/severstal/articles/956814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956814)
+- [Топ-7 бесплатных нейросетей для генерации кода](https://habr.com/ru/companies/bothub/articles/955528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
