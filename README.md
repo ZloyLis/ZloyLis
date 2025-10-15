@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я оплачиваю квартиру за счет Python-инструмента, который собрал за выходные](https://habr.com/ru/articles/956896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956896)
+- [[Перевод] JetBrains: большой отчёт о состоянии экосистемы разработчиков в 2025 году](https://habr.com/ru/articles/956886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956886)
 - [[Перевод] Cursor делает разработчиков менее эффективными?](https://habr.com/ru/companies/otus/articles/956754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956754)
 - [Ночные чаты, байки на кухне, хитрости на хакатоне: Школа синтеза цифровых схем глазами выпускников](https://habr.com/ru/companies/yadro/articles/956860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956860)
 - [Поиск работы в IT сломан. Я устал это терпеть и написал код, который играет против правил](https://habr.com/ru/articles/956856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956856)
-- [За гранью человеческой интуиции: как ИИ создает странные, но сверхэффективные аналоговые микросхемы](https://habr.com/ru/articles/956850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956850)
-- [Реверс-инжиниринг сетевых протоколов: практическое руководство](https://habr.com/ru/companies/simbirsoft/articles/955950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
