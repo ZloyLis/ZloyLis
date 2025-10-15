@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция Predictive back в Android](https://habr.com/ru/articles/956680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956680)
+- [«Сделай сам»: как мы запустили менторинг с нуля на компанию 2000+ сотрудников](https://habr.com/ru/companies/jetinfosystems/articles/955388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955388)
+- [Планшеты ожили. Кто лидирует на рынке в 2025 году](https://habr.com/ru/companies/mvideo/articles/956662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956662)
 - [Как мы ускорили ввод новых узлов до 40 секунд: надежная работа на spot-инстансах в Kubernetes с Karpenter](https://habr.com/ru/companies/flant/articles/955302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955302)
 - [Как я парсил схемы Visio](https://habr.com/ru/companies/T1Holding/articles/956438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956438)
-- [Graph Ql клиент. Быстрый старт](https://habr.com/ru/companies/alfastrah/articles/952862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952862)
-- [Как я потратил $500 за 10 дней на вайбкодинг AI редактора для видео c открытым исходным кодом](https://habr.com/ru/articles/956622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956622)
-- [[Перевод] Топ-10 способов начать использовать ИИ в работе с процессами уже завтра](https://habr.com/ru/articles/956482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
