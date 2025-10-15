@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравнение Grafana и Dimension-UI на задаче мониторинга истории активных сессий](https://habr.com/ru/articles/956800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956800)
 - [SSE + Java + WebFlux = энтерпрайз решение для отправки пушей](https://habr.com/ru/articles/956766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956766)
-- [Concurrency на примерах. Собственная реализация Mutex на Go + сравнение с sync.Mutex](https://habr.com/ru/articles/956690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956690)
+- [Concurrency на примерах. Собственная реализация Mutex на Go + сравнение с sync.Mutex. Часть №1](https://habr.com/ru/articles/956690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956690)
 - [[Перевод] Освоение Unicode в Java: создаём на Quarkus REST API, готовый к глобальной аудитории](https://habr.com/ru/companies/otus/articles/956720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956720)
 - [Изнутри жюри: как мы выбирали лучшую работу на чемпионате по html верстке](https://habr.com/ru/articles/956710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956710)
-- [Работа с сокетами C++](https://habr.com/ru/articles/956704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
