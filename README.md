@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Написал приложение с помощью GPT-5 и вот что получилось](https://habr.com/ru/articles/956612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956612)
-- [Трансрекурсивная теория: Переосмысление пределов вычислимого роста](https://habr.com/ru/articles/956594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956594)
-- [Обзор Firebase 10.11.0: как создать web-приложение за вечер](https://habr.com/ru/companies/bothub/articles/956590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956590)
-- [[Управление репликами] Практика](https://habr.com/ru/articles/956588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956588)
-- [Baidu и AI Search Paradigm: мультиагентная структура для интеллектуального поиска информации](https://habr.com/ru/companies/redmadrobot/articles/956570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956570)
+- [Как мы ускорили ввод новых узлов до 40 секунд: надежная работа на spot-инстансах в Kubernetes с Karpenter](https://habr.com/ru/companies/flant/articles/955302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955302)
+- [Как я парсил схемы Visio](https://habr.com/ru/companies/T1Holding/articles/956438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956438)
+- [Graph Ql клиент. Быстрый старт](https://habr.com/ru/companies/alfastrah/articles/952862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952862)
+- [Как я потратил $500 за 10 дней на вайбкодинг AI редактора для видео c открытым исходным кодом](https://habr.com/ru/articles/956622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956622)
+- [[Перевод] Топ-10 способов начать использовать ИИ в работе с процессами уже завтра](https://habr.com/ru/articles/956482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
