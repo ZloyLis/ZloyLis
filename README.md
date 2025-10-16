@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От джуна к эксперту: как карта навыков и план развития помогают профессиональному росту Python-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/956618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956618)
-- [Книга: «Основы Flutter»](https://habr.com/ru/companies/piter/articles/956462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956462)
-- [Декораторы. Продвинутый уровень. Шаблон универсального декоратора](https://habr.com/ru/articles/957052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957052)
-- [Декомпозиция в эпоху ИИ](https://habr.com/ru/articles/956778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956778)
-- [OPC UA: как оно работает в жизни…](https://habr.com/ru/articles/957048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957048)
+- [Вышла Joomla 6.0.0](https://habr.com/ru/articles/957084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957084)
+- [Строим GitOps-платформу: Argo CD и всё, что к нему прилагается. Часть 1 — базовая настройка](https://habr.com/ru/companies/oleg-bunin/articles/952900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952900)
+- [Классические модели внедрения ПО и дизайн-мышление в условиях бизнес-неопределенности](https://habr.com/ru/articles/957072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957072)
+- [Книга «Экскурс в неопределённое поведение C++». Секреты укрощения единорога](https://habr.com/ru/companies/bhv_publishing/articles/957066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957066)
+- [[Перевод] Как структурировать маршруты в Gin: практическое руководство по созданию масштабируемого веб-API](https://habr.com/ru/articles/955802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
