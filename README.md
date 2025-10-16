@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросети на все случаи жизни](https://habr.com/ru/companies/timeweb/articles/955514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955514)
+- [[Перевод] MySQL в Uber](https://habr.com/ru/companies/otus/articles/957296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957296)
 - [Когда одного агента мало: практический кейс применения мультиагентной системы](https://habr.com/ru/companies/redmadrobot/articles/957300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957300)
 - [Обзор Firebase 10.11.0: как создать web-приложение за вечер](https://habr.com/ru/companies/bothub/articles/957270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957270)
 - [Новый сезон «Битовых масок» — подкаста о системном программировании и разработке процессоров](https://habr.com/ru/companies/yadro/articles/957240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957240)
-- [Как защищаются разработки в open source и нужно ли их патентовать?](https://habr.com/ru/companies/onlinepatent/articles/957258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957258)
-- [Как ставить задачи разработчикам и укладываться в дедлайны](https://habr.com/ru/companies/cleverpumpkin/articles/957220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
