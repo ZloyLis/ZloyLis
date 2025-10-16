@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Протоколы &lpar;устройства&rpar; системы DevelSCADA &lpar;часть 2&rpar;](https://habr.com/ru/articles/957034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957034)
-- [Автоматизация Нейросети n8n. Мой опыт автоматизации](https://habr.com/ru/articles/956714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956714)
-- [[Перевод] Небольшое количество примеров может отравить LLM любого размера](https://habr.com/ru/articles/956948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956948)
-- [Против рынка: что получилось, когда я заменил спекуляции математикой](https://habr.com/ru/articles/956974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956974)
-- [Выстраиваем процессы в Discovery в команде](https://habr.com/ru/articles/956922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956922)
+- [От джуна к эксперту: как карта навыков и план развития помогают профессиональному росту Python-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/956618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956618)
+- [Книга: «Основы Flutter»](https://habr.com/ru/companies/piter/articles/956462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956462)
+- [Декораторы. Продвинутый уровень. Шаблон универсального декоратора](https://habr.com/ru/articles/957052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957052)
+- [Декомпозиция в эпоху ИИ](https://habr.com/ru/articles/956778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956778)
+- [OPC UA: как оно работает в жизни…](https://habr.com/ru/articles/957048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
