@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла Joomla 6.0.0](https://habr.com/ru/articles/957084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957084)
-- [Строим GitOps-платформу: Argo CD и всё, что к нему прилагается. Часть 1 — базовая настройка](https://habr.com/ru/companies/oleg-bunin/articles/952900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952900)
-- [Классические модели внедрения ПО и дизайн-мышление в условиях бизнес-неопределенности](https://habr.com/ru/articles/957072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957072)
-- [Книга «Экскурс в неопределённое поведение C++». Секреты укрощения единорога](https://habr.com/ru/companies/bhv_publishing/articles/957066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957066)
-- [[Перевод] Как структурировать маршруты в Gin: практическое руководство по созданию масштабируемого веб-API](https://habr.com/ru/articles/955802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955802)
+- [CyBОК. Глава 3. Законы и регуляторные нормы. Часть 3](https://habr.com/ru/companies/securityvison/articles/957132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957132)
+- [Проект предзамен или как перестать бояться красных A/B-тестов и превращать их в зелёные](https://habr.com/ru/companies/kuper/articles/956514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956514)
+- [[Перевод] Я попробовал Solid.js — и начинаю ненавидеть React](https://habr.com/ru/articles/955800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955800)
+- [Самый скучный на свете взлом подарочных сертификатов](https://habr.com/ru/articles/956174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956174)
+- [H2O LLM Studio: как дообучить языковую модель под свои задачи, не привлекая внимания датасаентистов](https://habr.com/ru/companies/vktech/articles/957078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
