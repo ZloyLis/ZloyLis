@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизируем производительность веб-приложения с Redis](https://habr.com/ru/companies/cloud_ru/articles/956794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956794)
 - [Мы запретили программистам писать код и ускорили релизы в 2 раза. Как к этому пришли](https://habr.com/ru/companies/surfstudio/articles/957184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957184)
 - [UX-патруль | VC, Dsgners, Habr — что прячется за красивым визуалом?](https://habr.com/ru/articles/957090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957090)
 - [[Перевод] Как я построил RAG-систему за вечер с помощью 5 open source-инструментов](https://habr.com/ru/articles/955798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955798)
 - [Obsidian-совместимые заметки в своём приложении: Nest.js, Prisma, gray-matter](https://habr.com/ru/articles/957174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957174)
-- [CyBОК. Глава 3. Законы и регуляторные нормы. Часть 3](https://habr.com/ru/companies/securityvison/articles/957132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
