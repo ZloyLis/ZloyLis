@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Протоколы &lpar;устройства&rpar; системы DevelSCADA &lpar;часть 2&rpar;](https://habr.com/ru/articles/957034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957034)
+- [Автоматизация Нейросети n8n. Мой опыт автоматизации](https://habr.com/ru/articles/956714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956714)
+- [[Перевод] Небольшое количество примеров может отравить LLM любого размера](https://habr.com/ru/articles/956948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956948)
 - [Против рынка: что получилось, когда я заменил спекуляции математикой](https://habr.com/ru/articles/956974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956974)
 - [Выстраиваем процессы в Discovery в команде](https://habr.com/ru/articles/956922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956922)
-- [От LangChain к LangGraph: детально разбираемся с фреймворками и всей Lang-экосистемой](https://habr.com/ru/articles/956940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956940)
-- [Вы все еще изобретаете велосипеды при миграции данных из Oracle в Postgres? Мы тоже](https://habr.com/ru/companies/rostelecom/articles/955744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955744)
-- [[Перевод] Я оплачиваю квартиру за счет Python-инструмента, который собрал за выходные](https://habr.com/ru/articles/956896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
