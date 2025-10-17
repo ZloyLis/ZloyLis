@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [MVC в Unity. Часть 1. MVO](https://habr.com/ru/articles/957496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957496)
-- [Вот чем займусь, если перестану писать код](https://habr.com/ru/companies/clevertec/articles/957094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957094)
-- [Ну это полный мэтч! Как мы сделали бота для знакомств в чатах](https://habr.com/ru/articles/957450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957450)
-- [Мультиагентный фреймворк CrewAI: разбор архитектуры и внутренностей](https://habr.com/ru/articles/957384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957384)
-- [[Перевод] Swift 6.2](https://habr.com/ru/articles/957390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957390)
+- [[Перевод] Как использовать любой CSS-фреймворк в вашем проекте — Часть 2](https://habr.com/ru/articles/918770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918770)
+- [Вайбуем в закрытом корпконтуре с Android Studio, Continue и Ollama в локальном режиме](https://habr.com/ru/companies/sportmaster_lab/articles/957260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957260)
+- [Lasers &amp;amp; Feelings и Ink: как мы адаптировали настольную RPG для визуальной новеллы](https://habr.com/ru/articles/957482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957482)
+- [Строим GitOps-платформу: Argo CD и всё, что к нему прилагается. Часть 2 — про практическое использование](https://habr.com/ru/companies/oleg-bunin/articles/953194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953194)
+- [Requestly: гайд для тестировщиков](https://habr.com/ru/articles/957518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
