@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Explyt 5.0 на Joker: поддержка Rider и новый тестовый агент](https://habr.com/ru/companies/explyt/articles/957510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957510)
+- [[Перевод] О зависимостях в объектах и переходе к Kotlin](https://habr.com/ru/companies/piter/articles/957544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957544)
+- [Техподдержка сайтов на «1C-Битрикс»: обзор компаний-подрядчиков](https://habr.com/ru/articles/957532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957532)
+- [Как выбрать TMS и не пожалеть: обзор популярных решений от тестировщика](https://habr.com/ru/articles/957528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957528)
 - [[Перевод] Как использовать любой CSS-фреймворк в вашем проекте — Часть 2](https://habr.com/ru/articles/918770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=918770)
-- [Вайбуем в закрытом корпконтуре с Android Studio, Continue и Ollama в локальном режиме](https://habr.com/ru/companies/sportmaster_lab/articles/957260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957260)
-- [Lasers &amp;amp; Feelings и Ink: как мы адаптировали настольную RPG для визуальной новеллы](https://habr.com/ru/articles/957482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957482)
-- [Строим GitOps-платформу: Argo CD и всё, что к нему прилагается. Часть 2 — про практическое использование](https://habr.com/ru/companies/oleg-bunin/articles/953194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953194)
-- [Requestly: гайд для тестировщиков](https://habr.com/ru/articles/957518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
