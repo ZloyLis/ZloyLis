@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Всё что нужно и не нужно знать про заимствование в Rust](https://habr.com/ru/companies/beget/articles/957398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957398)
 - [Как запускать 100k+ браузеров в день и спать спокойно](https://habr.com/ru/companies/tbank/articles/957648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957648)
 - [[Перевод] Самый большой секрет HTML: тег &amp;lt;output&amp;gt;](https://habr.com/ru/articles/957618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957618)
 - [Что такое Таксономия «Точно в Срок»?](https://habr.com/ru/articles/957598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957598)
 - [Основы работы с Terraform в Selectel на примере Managed Kubernetes](https://habr.com/ru/companies/selectel/articles/957280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957280)
-- [Explyt 5.0 на Joker: поддержка Rider и новый тестовый агент](https://habr.com/ru/companies/explyt/articles/957510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
