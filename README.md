@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MVC в Unity. Часть 1. MVO](https://habr.com/ru/articles/957496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957496)
+- [Вот чем займусь, если перестану писать код](https://habr.com/ru/companies/clevertec/articles/957094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957094)
 - [Ну это полный мэтч! Как мы сделали бота для знакомств в чатах](https://habr.com/ru/articles/957450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957450)
 - [Мультиагентный фреймворк CrewAI: разбор архитектуры и внутренностей](https://habr.com/ru/articles/957384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957384)
 - [[Перевод] Swift 6.2](https://habr.com/ru/articles/957390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957390)
-- [Документирование архитектуры](https://habr.com/ru/articles/957348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957348)
-- [Как конвертировать mind map в чек лист](https://habr.com/ru/articles/957338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
