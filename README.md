@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мультиагентный фреймворк CrewAI: разбор архитектуры и внутренностей](https://habr.com/ru/articles/957384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957384)
 - [[Перевод] Swift 6.2](https://habr.com/ru/articles/957390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957390)
 - [Документирование архитектуры](https://habr.com/ru/articles/957348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957348)
 - [Как конвертировать mind map в чек лист](https://habr.com/ru/articles/957338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957338)
 - [Нейросети на все случаи жизни](https://habr.com/ru/companies/timeweb/articles/955514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955514)
-- [[Перевод] MySQL в Uber](https://habr.com/ru/companies/otus/articles/957296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
