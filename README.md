@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Создал расширение для Chrome и устранил шахматных читеров](https://habr.com/ru/companies/selectel/articles/957758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957758)
+- [[Перевод] Придумал расширение для Chrome и устранил шахматных читеров](https://habr.com/ru/companies/selectel/articles/957758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957758)
 - [Kafka для начинающих: откуда такой спрос и зачем нужна эта технология](https://habr.com/ru/articles/957824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957824)
 - [Числовой тип данных с плавающей точкой float IEEE 754](https://habr.com/ru/articles/957822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957822)
 - [Как одновременно заварить кофе для 10 000 сотрудников — и еще 7 неожиданных вопросов архитектору ПО](https://habr.com/ru/companies/ibs/articles/957668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957668)
