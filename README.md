@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я спарсил 150к вакансий и понял, почему TIOBE — это мусор](https://habr.com/ru/articles/957770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957770)
 - [Зачем фавиконов нужно аж 24 штуки?](https://habr.com/ru/articles/957744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957744)
 - [Хакатоны: не пора ли их переизобрести?](https://habr.com/ru/articles/957740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957740)
 - [AP 2.0: Учим ИИ думать, прежде чем патчить](https://habr.com/ru/articles/957716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957716)
 - [Всё что нужно и не нужно знать про заимствование в Rust](https://habr.com/ru/companies/beget/articles/957398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957398)
-- [Как запускать 100k+ браузеров в день и спать спокойно](https://habr.com/ru/companies/tbank/articles/957648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957648)
 <!-- BLOG-POST-LIST:END -->
 
 ---
