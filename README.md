@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka для начинающих: откуда такой спрос и зачем нужна эта технология](https://habr.com/ru/articles/957824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957824)
+- [Числовой тип данных с плавающей точкой float IEEE 754](https://habr.com/ru/articles/957822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957822)
+- [Как одновременно заварить кофе для 10 000 сотрудников — и еще 7 неожиданных вопросов архитектору ПО](https://habr.com/ru/companies/ibs/articles/957668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957668)
 - [Этические аспекты использования искусственного интеллекта в промышленности](https://habr.com/ru/articles/957802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957802)
 - [VibeCode. Как не назови все равно полетит](https://habr.com/ru/articles/957794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957794)
-- [Кластер Patroni в docker контейнерах](https://habr.com/ru/companies/tantor/articles/957790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957790)
-- [От визитки до медиа-платформы: как я делаю сайт для своей музыки](https://habr.com/ru/articles/957388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957388)
-- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/957784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
