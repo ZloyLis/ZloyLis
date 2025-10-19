@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Дэвид Л. Парнас «О критериях для разбиения систем на модули»](https://habr.com/ru/articles/957968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957968)
+- [OpenSpeedTest: российская альтернатива для проверки скорости интернет-соединения](https://habr.com/ru/articles/957960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957960)
 - [Java 25: упрощённые исходники](https://habr.com/ru/companies/axiomjdk/articles/952826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952826)
 - [[Перевод] Пограничные случаи HTTP, которые должен понимать каждый разработчик API](https://habr.com/ru/articles/955702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955702)
 - [Когда ERP умирает раньше, чем рождается: почему инфраструктура стареет ещё до запуска](https://habr.com/ru/articles/957928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957928)
-- [DANILOS](https://habr.com/ru/articles/957916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957916)
-- [Реализация DOM-подобных структур данных на C++](https://habr.com/ru/articles/957906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
