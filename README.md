@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда ERP умирает раньше, чем рождается: почему инфраструктура стареет ещё до запуска](https://habr.com/ru/articles/957928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957928)
 - [DANILOS](https://habr.com/ru/articles/957916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957916)
 - [Реализация DOM-подобных структур данных на C++](https://habr.com/ru/articles/957906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957906)
 - [[Перевод] Внутри vLLM: Анатомия системы инференса LLM с высокой пропускной способностью](https://habr.com/ru/articles/957748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957748)
 - [Академ ради инди ИИ-продуктов. В 19 лет пожертвовал кругом общения и теперь ищу таких же одержимых](https://habr.com/ru/articles/957896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957896)
-- [[Перевод] Придумал расширение для Chrome и устранил шахматных читеров](https://habr.com/ru/companies/selectel/articles/957758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
