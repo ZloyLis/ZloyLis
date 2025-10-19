@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Задачи по алгоритмам: избавляемся от анаграмм](https://habr.com/ru/articles/958004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958004)
 - [Appium-тесты на ARM и управление девайсами — легко :&rpar;](https://habr.com/ru/companies/okko/articles/956980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956980)
 - [Как мы устроили Wi-Fi хакинг‑баттл для студентов IT-вуза: кейс необычного чемпионата по обучению wireless технологиям](https://habr.com/ru/articles/957858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957858)
 - [[Перевод] Дэвид Л. Парнас «О критериях для разбиения систем на модули»](https://habr.com/ru/articles/957968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957968)
 - [OpenSpeedTest: российская альтернатива для проверки скорости интернет-соединения](https://habr.com/ru/articles/957960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957960)
-- [Java 25: упрощённые исходники](https://habr.com/ru/companies/axiomjdk/articles/952826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
