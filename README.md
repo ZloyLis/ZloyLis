@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб. К черту фреймворки! Пишем свой starter-kit с роутером и сторами. Часть 2](https://habr.com/ru/articles/958026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958026)
 - [Уравнения Максвелла и геометрическая алгебра](https://habr.com/ru/articles/958088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958088)
 - [Стоицизм как база для TDD: страданиями код совершенствуется](https://habr.com/ru/articles/958086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958086)
 - [Фингерпринтинг стал массовым явлением](https://habr.com/ru/companies/globalsign/articles/958046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958046)
 - [Postmortem без обвинений: Миф или реальность?](https://habr.com/ru/articles/958042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958042)
-- [Мобильная разработка за неделю #607 &lpar;13 — 19 октября&rpar;](https://habr.com/ru/articles/958012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
