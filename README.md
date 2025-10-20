@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как научить Telegram-бота на Python не терять задачи пользователей при перезапуске. Кейс ассистента для hh.ru](https://habr.com/ru/articles/958386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958386)
+- [Postgres 18 async IO – шаг к «взрослым» нагрузкам?](https://habr.com/ru/articles/958382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958382)
+- [Security Week 2543: особенности вредоносных атак через npm-пакеты](https://habr.com/ru/companies/kaspersky/articles/958340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958340)
 - [Немного о «Data Engeneering»](https://habr.com/ru/articles/958360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958360)
 - [Представляем XBRL-CSV — машиночитаемую отчетность в формате для людей](https://habr.com/ru/articles/958356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958356)
-- [[Перевод] Почему случается оверинжиниринг](https://habr.com/ru/companies/ruvds/articles/957276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957276)
-- [Как мы используем RFM-сегментацию, чтобы улучшать CRM-коммуникации в Авито](https://habr.com/ru/companies/avito/articles/956746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956746)
-- [Ожидания в избытке: как лишние индексы тормозят PostgreSQL и чем поможет pg_expecto](https://habr.com/ru/articles/958320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
