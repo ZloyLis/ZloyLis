@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему случается оверинжиниринг](https://habr.com/ru/companies/ruvds/articles/957276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957276)
+- [Как мы используем RFM-сегментацию, чтобы улучшать CRM-коммуникации в Авито](https://habr.com/ru/companies/avito/articles/956746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956746)
 - [Ожидания в избытке: как лишние индексы тормозят PostgreSQL и чем поможет pg_expecto](https://habr.com/ru/articles/958320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958320)
 - [Сплайновые срединные поверхности в геометрическом ядре C3D](https://habr.com/ru/companies/ascon/articles/958318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958318)
 - [[Перевод] Полное руководство по HTTP-кэшированию. Часть 1](https://habr.com/ru/companies/timeweb/articles/954906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954906)
-- [О миграции с Angular на React в деталях](https://habr.com/ru/companies/vk/articles/958228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958228)
-- [[Перевод] Одна строка — тысячи горутин: как мы поймали утечку памяти в сервисе на Go](https://habr.com/ru/companies/otus/articles/957486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
