@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сам себе Шерлок: 7 способов найти логи и поймать баг на iOS](https://habr.com/ru/articles/958142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958142)
-- [Немного про счетные и несчетные множества](https://habr.com/ru/articles/958140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958140)
-- [Сокращаем расходы на Kubernetes: практические подходы для pet-проектов и продакшена](https://habr.com/ru/companies/selectel/articles/957616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957616)
-- [Почему разработчики выступают за и против визуального и low-code программирования: причины и ответы на возражения](https://habr.com/ru/articles/958066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958066)
-- [Программисты получают 2,8 млн. в год и разработка всё равно дорожает. Как это остановить](https://habr.com/ru/articles/958056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958056)
+- [Автоматическая ферма видеоконтента на основе Sora 2](https://habr.com/ru/articles/958178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958178)
+- [Кейс из production: Deadlock в асинхронном коде на Java](https://habr.com/ru/articles/958166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958166)
+- [Как писать код, который переживёт вас: минимализм, читаемость и долговечность в больших системах](https://habr.com/ru/articles/958164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958164)
+- [Рекомендации по обеспечению безопасности системного окружения веб-приложения](https://habr.com/ru/companies/bitrix/articles/957592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957592)
+- [Практическое тестирование приложений](https://habr.com/ru/articles/958014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
