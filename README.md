@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Review и AI-ассистент в CI/CD за 30 минут — бесплатно с OpenRouter](https://habr.com/ru/articles/957738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957738)
+- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 13](https://habr.com/ru/companies/ruvds/articles/957588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957588)
+- [Мой первый pet-проект: процесс-менеджер synd3](https://habr.com/ru/articles/958104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958104)
+- [Использование Obsidian при проведении пентеста](https://habr.com/ru/articles/958058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958058)
 - [Веб. К черту фреймворки! Пишем свой starter-kit с роутером и сторами. Часть 2](https://habr.com/ru/articles/958026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958026)
-- [Уравнения Максвелла и геометрическая алгебра](https://habr.com/ru/articles/958088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958088)
-- [Стоицизм как база для TDD: страданиями код совершенствуется](https://habr.com/ru/articles/958086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958086)
-- [Фингерпринтинг стал массовым явлением](https://habr.com/ru/companies/globalsign/articles/958046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958046)
-- [Postmortem без обвинений: Миф или реальность?](https://habr.com/ru/articles/958042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
