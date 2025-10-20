@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Review и AI-ассистент в CI/CD за 30 минут — бесплатно с OpenRouter](https://habr.com/ru/articles/957738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957738)
-- [HTML и CSS ошибки, влияющие на доступность. Мой опыт и моего незрячего знакомого Ильи. Часть 13](https://habr.com/ru/companies/ruvds/articles/957588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957588)
-- [Мой первый pet-проект: процесс-менеджер synd3](https://habr.com/ru/articles/958104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958104)
-- [Использование Obsidian при проведении пентеста](https://habr.com/ru/articles/958058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958058)
-- [Веб. К черту фреймворки! Пишем свой starter-kit с роутером и сторами. Часть 2](https://habr.com/ru/articles/958026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958026)
+- [Сам себе Шерлок: 7 способов найти логи и поймать баг на iOS](https://habr.com/ru/articles/958142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958142)
+- [Немного про счетные и несчетные множества](https://habr.com/ru/articles/958140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958140)
+- [Сокращаем расходы на Kubernetes: практические подходы для pet-проектов и продакшена](https://habr.com/ru/companies/selectel/articles/957616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957616)
+- [Почему разработчики выступают за и против визуального и low-code программирования: причины и ответы на возражения](https://habr.com/ru/articles/958066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958066)
+- [Программисты получают 2,8 млн. в год и разработка всё равно дорожает. Как это остановить](https://habr.com/ru/articles/958056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
