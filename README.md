@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уравнения Максвелла и геометрическая алгебра](https://habr.com/ru/articles/958088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958088)
+- [Стоицизм как база для TDD: страданиями код совершенствуется](https://habr.com/ru/articles/958086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958086)
 - [Фингерпринтинг стал массовым явлением](https://habr.com/ru/companies/globalsign/articles/958046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958046)
 - [Postmortem без обвинений: Миф или реальность?](https://habr.com/ru/articles/958042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958042)
-- [Разработка приложения в Replit: сколько стоит и кому подходит](https://habr.com/ru/articles/958024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958024)
 - [Мобильная разработка за неделю #607 &lpar;13 — 19 октября&rpar;](https://habr.com/ru/articles/958012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958012)
-- [Задачи по алгоритмам: избавляемся от анаграмм](https://habr.com/ru/articles/958004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
