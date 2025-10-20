@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что потеряли вместе с Pascal: типобезопасность, которую мы недооценили](https://habr.com/ru/articles/958274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958274)
-- [$5K против $400K в месяц. Почему одно инди-приложение зарабатывает в 80 раз больше другого?](https://habr.com/ru/articles/958244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958244)
-- [LiqTrade: от идеи до Production Ready за 3 месяца. Нельзя закончить допиливать проект, можно лишь перестать…](https://habr.com/ru/articles/958214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958214)
-- [MES без розовых очков. Разбираем внедрение системы на практике, подводные камни и факторы успеха](https://habr.com/ru/companies/k2tech/articles/958208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958208)
-- [Эволюция архитектуры баз данных](https://habr.com/ru/companies/oleg-bunin/articles/950454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950454)
+- [Ожидания в избытке: как лишние индексы тормозят PostgreSQL и чем поможет pg_expecto](https://habr.com/ru/articles/958320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958320)
+- [Сплайновые срединные поверхности в геометрическом ядре C3D](https://habr.com/ru/companies/ascon/articles/958318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958318)
+- [[Перевод] Полное руководство по HTTP-кэшированию. Часть 1](https://habr.com/ru/companies/timeweb/articles/954906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954906)
+- [О миграции с Angular на React в деталях](https://habr.com/ru/companies/vk/articles/958228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958228)
+- [[Перевод] Одна строка — тысячи горутин: как мы поймали утечку памяти в сервисе на Go](https://habr.com/ru/companies/otus/articles/957486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
