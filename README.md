@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [MES без розовых очков. Разбираем внедрение системы на практике, подводные камни и факторы успеха](https://habr.com/ru/companies/k2tech/articles/958202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958202)
+- [LiqTrade: от идеи до Production Ready за 3 месяца. Нельзя закончить допиливать проект, можно лишь перестать…](https://habr.com/ru/articles/958214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958214)
+- [MES без розовых очков. Разбираем внедрение системы на практике, подводные камни и факторы успеха](https://habr.com/ru/companies/k2tech/articles/958208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958208)
 - [Эволюция архитектуры баз данных](https://habr.com/ru/companies/oleg-bunin/articles/950454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=950454)
 - [ИИ-инструменты бизнес и системного аналитика: промт для создания критериев приёмки User Story](https://habr.com/ru/articles/958064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958064)
 - [Автоматическая ферма видеоконтента на основе Sora 2](https://habr.com/ru/articles/958178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958178)
-- [Кейс из production: Deadlock в асинхронном коде на Java](https://habr.com/ru/articles/958166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
