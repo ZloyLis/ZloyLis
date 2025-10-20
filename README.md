@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного о «Data Engeneering»](https://habr.com/ru/articles/958360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958360)
+- [Представляем XBRL-CSV — машиночитаемую отчетность в формате для людей](https://habr.com/ru/articles/958356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958356)
 - [[Перевод] Почему случается оверинжиниринг](https://habr.com/ru/companies/ruvds/articles/957276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957276)
 - [Как мы используем RFM-сегментацию, чтобы улучшать CRM-коммуникации в Авито](https://habr.com/ru/companies/avito/articles/956746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956746)
 - [Ожидания в избытке: как лишние индексы тормозят PostgreSQL и чем поможет pg_expecto](https://habr.com/ru/articles/958320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958320)
-- [Сплайновые срединные поверхности в геометрическом ядре C3D](https://habr.com/ru/companies/ascon/articles/958318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958318)
-- [[Перевод] Полное руководство по HTTP-кэшированию. Часть 1](https://habr.com/ru/companies/timeweb/articles/954906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
