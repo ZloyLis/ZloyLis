@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест препринтов научных статей в области астрофизики за июль 2025 по версии Попова](https://habr.com/ru/articles/958674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958674)
+- [Что скрывается за «плюс» и «умножить»? От школьной арифметики до геометрической алгебры](https://habr.com/ru/articles/958666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958666)
+- [Как написать собственную кинематику для робота-манипулятора и заставить его ловить объекты на лету](https://habr.com/ru/articles/958194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958194)
 - [Собираем качественные датасеты для LLM с помощью Telegram-бота](https://habr.com/ru/companies/yadro/articles/958184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958184)
 - [Events per second: «одна цифра», которая решает, справится ли ваш SOC с нагрузкой](https://habr.com/ru/companies/bastion/articles/957524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957524)
-- [Топ-5 инженерных практик для внедрения в работу команды](https://habr.com/ru/companies/oleg-bunin/articles/951710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951710)
-- [Незаметно сделали лучший Рунет: подборка дизайнеров от лида Garage Eight](https://habr.com/ru/companies/garage8/articles/958594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958594)
-- [Первые 40 часов UX/UI‑дизайна: как я собираю вводные и формирую основу интерфейса](https://habr.com/ru/articles/958586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
