@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Совместимость в Java: что может пойти не так?](https://habr.com/ru/companies/spring_aio/articles/956824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956824)
+- [Google Регистрация в Android на kotlin + jetpack compose](https://habr.com/ru/articles/958746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958746)
+- [[Перевод] Миграции Postgres с использованием логической репликации](https://habr.com/ru/companies/otus/articles/958718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958718)
 - [Агент на Kotlin без фреймворков](https://habr.com/ru/articles/958468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958468)
 - [Книга: «Математика и архитектура глубокого обучения»](https://habr.com/ru/companies/piter/articles/957226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957226)
-- [Какие они, типичные DS-специалисты, и как часто ИИ пишет за них код: результаты совместного опроса Хабра и Авито](https://habr.com/ru/specials/958312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958312)
-- [Как разработать дизайн мобильной операционной системы с нуля: кейс РОСА и 65apps](https://habr.com/ru/companies/rosa/articles/958634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958634)
-- [Плох тот Джун, который не мечтает стать Сеньором. Но еще хуже тот, кто мечтает бездумно и без поддержки коллег](https://habr.com/ru/companies/ru_mts/articles/957542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
