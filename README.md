@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что именно ИИ-чатботы делают «под капотом»](https://habr.com/ru/articles/958820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958820)
 - [Выжимаем из Go скорость до последних наносекунд](https://habr.com/ru/companies/ruvds/articles/957756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957756)
 - [[Перевод] Совместимость в Java: что может пойти не так?](https://habr.com/ru/companies/spring_aio/articles/956824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956824)
 - [Google Регистрация в Android на kotlin + jetpack compose](https://habr.com/ru/articles/958746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958746)
 - [[Перевод] Миграции Postgres с использованием логической репликации](https://habr.com/ru/companies/otus/articles/958718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958718)
-- [Агент на Kotlin без фреймворков](https://habr.com/ru/articles/958468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
