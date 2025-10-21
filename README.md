@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Events per second: «одна цифра», которая решает, справится ли ваш SOC с нагрузкой](https://habr.com/ru/companies/bastion/articles/957524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957524)
+- [Топ-5 инженерных практик для внедрения в работу команды](https://habr.com/ru/companies/oleg-bunin/articles/951710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951710)
+- [Незаметно сделали лучший Рунет: подборка дизайнеров от лида Garage Eight](https://habr.com/ru/companies/garage8/articles/958594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958594)
 - [Первые 40 часов UX/UI‑дизайна: как я собираю вводные и формирую основу интерфейса](https://habr.com/ru/articles/958586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958586)
 - [Интеграции без иллюзий: интервью с Владимиром Гантуриным, техническим директором Compo Soft](https://habr.com/ru/companies/compo/articles/958584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958584)
-- [Оверинжиниринг в бэкенде: «промышленные» решения, которые чаще вредят, чем помогают](https://habr.com/ru/articles/958572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958572)
-- [Запускаем сервер в Minecraft: исследование конкурентов](https://habr.com/ru/companies/selectel/articles/958544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958544)
-- [Для чего компании требуют высшее образование в IT](https://habr.com/ru/companies/domclick/articles/956496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
