@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие они, типичные DS-специалисты, и как часто ИИ пишет за них код: результаты совместного опроса Хабра и Авито](https://habr.com/ru/specials/958312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958312)
+- [Как разработать дизайн мобильной операционной системы с нуля: кейс РОСА и 65apps](https://habr.com/ru/companies/rosa/articles/958634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958634)
+- [Плох тот Джун, который не мечтает стать Сеньором. Но еще хуже тот, кто мечтает бездумно и без поддержки коллег](https://habr.com/ru/companies/ru_mts/articles/957542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957542)
+- [Как RuStore читает мысли пользователей &lpar;и причём тут теги&rpar;](https://habr.com/ru/companies/vk/articles/956450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956450)
 - [Дайджест препринтов научных статей в области астрофизики за июль 2025 по версии Попова](https://habr.com/ru/articles/958674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958674)
-- [Что скрывается за «плюс» и «умножить»? От школьной арифметики до геометрической алгебры](https://habr.com/ru/articles/958666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958666)
-- [Как написать собственную кинематику для робота-манипулятора и заставить его ловить объекты на лету](https://habr.com/ru/articles/958194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958194)
-- [Собираем качественные датасеты для LLM с помощью Telegram-бота](https://habr.com/ru/companies/yadro/articles/958184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958184)
-- [Events per second: «одна цифра», которая решает, справится ли ваш SOC с нагрузкой](https://habr.com/ru/companies/bastion/articles/957524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
