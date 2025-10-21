@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Шпаргалка по работе с PostgreSQL для бэкенд-разработчиков](https://habr.com/ru/companies/beget/articles/920772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=920772)
-- [Варианты реализации GitOps при помощи Argo CD](https://habr.com/ru/companies/flant/articles/957192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957192)
-- [Программирование Роботов — разбор задач «квалификации» соревнования от МТС — немного кода, видео и геометрии](https://habr.com/ru/articles/958518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958518)
-- [[Перевод] Решение проблемы двойного букинга: паттерны проектирования систем](https://habr.com/ru/articles/957954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957954)
-- [Управление рисками: как культура съедает вашу стратегию на завтрак?](https://habr.com/ru/articles/958196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958196)
+- [Первые 40 часов UX/UI‑дизайна: как я собираю вводные и формирую основу интерфейса](https://habr.com/ru/articles/958586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958586)
+- [Интеграции без иллюзий: интервью с Владимиром Гантуриным, техническим директором Compo Soft](https://habr.com/ru/companies/compo/articles/958584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958584)
+- [Оверинжиниринг в бэкенде: «промышленные» решения, которые чаще вредят, чем помогают](https://habr.com/ru/articles/958572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958572)
+- [Запускаем сервер в Minecraft: исследование конкурентов](https://habr.com/ru/companies/selectel/articles/958544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958544)
+- [Для чего компании требуют высшее образование в IT](https://habr.com/ru/companies/domclick/articles/956496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
