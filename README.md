@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Агент на Kotlin без фреймворков](https://habr.com/ru/articles/958468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958468)
+- [Книга: «Математика и архитектура глубокого обучения»](https://habr.com/ru/companies/piter/articles/957226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957226)
 - [Какие они, типичные DS-специалисты, и как часто ИИ пишет за них код: результаты совместного опроса Хабра и Авито](https://habr.com/ru/specials/958312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958312)
 - [Как разработать дизайн мобильной операционной системы с нуля: кейс РОСА и 65apps](https://habr.com/ru/companies/rosa/articles/958634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958634)
 - [Плох тот Джун, который не мечтает стать Сеньором. Но еще хуже тот, кто мечтает бездумно и без поддержки коллег](https://habr.com/ru/companies/ru_mts/articles/957542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957542)
-- [Как RuStore читает мысли пользователей &lpar;и причём тут теги&rpar;](https://habr.com/ru/companies/vk/articles/956450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956450)
-- [Дайджест препринтов научных статей в области астрофизики за июль 2025 по версии Попова](https://habr.com/ru/articles/958674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
