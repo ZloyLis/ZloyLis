@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему Google Таблицы лучше Excel для частного инвестора, и при чем здесь Apps Script](https://habr.com/ru/articles/957676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957676)
 - [Тупик](https://habr.com/ru/articles/958462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958462)
 - [itertools для тех, кто думал, что знает itertools](https://habr.com/ru/companies/otus/articles/958068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958068)
 - [Цифровой двойник пассажирского посадочного моста: реальный кейс решения сервисной задачи](https://habr.com/ru/articles/958392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958392)
 - [Как научить Telegram-бота на Python не терять задачи пользователей при перезапуске. Кейс ассистента для hh.ru](https://habr.com/ru/articles/958386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958386)
-- [Postgres 18 async IO – шаг к «взрослым» нагрузкам?](https://habr.com/ru/articles/958382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
