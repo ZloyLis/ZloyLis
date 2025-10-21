@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шпаргалка по работе с PostgreSQL для бэкенд-разработчиков](https://habr.com/ru/companies/beget/articles/920772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=920772)
+- [Варианты реализации GitOps при помощи Argo CD](https://habr.com/ru/companies/flant/articles/957192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957192)
 - [Программирование Роботов — разбор задач «квалификации» соревнования от МТС — немного кода, видео и геометрии](https://habr.com/ru/articles/958518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958518)
 - [[Перевод] Решение проблемы двойного букинга: паттерны проектирования систем](https://habr.com/ru/articles/957954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957954)
 - [Управление рисками: как культура съедает вашу стратегию на завтрак?](https://habr.com/ru/articles/958196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958196)
-- [Почему Google Таблицы лучше Excel для частного инвестора, и при чем здесь Apps Script](https://habr.com/ru/articles/957676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957676)
-- [Тупик](https://habr.com/ru/articles/958462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
