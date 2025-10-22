@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [132 строчки на Python, которые рождают математического гипермонстра](https://habr.com/ru/articles/959192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959192)
 - [Архитектура ИТ решений. Часть 3. Информационная архитектура](https://habr.com/ru/articles/958942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958942)
 - [Пишем чат на Rust](https://habr.com/ru/articles/945042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945042)
 - [Cursor: Обзор и возможности](https://habr.com/ru/articles/959144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959144)
 - [Чем вообще занимается человечество?](https://habr.com/ru/articles/959142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959142)
-- [Не обижайте Django](https://habr.com/ru/articles/959114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
