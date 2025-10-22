@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создание интерактивного макета. Упаковка кругов в квадрат и прямоугольник. Жадный алгоритм](https://habr.com/ru/articles/958888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958888)
-- [Не бойтесь, просто ходите: как пройти первые собеседования, если ты QA-инженер без опыта](https://habr.com/ru/companies/yandex_praktikum/articles/954196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954196)
-- [Битва за уникальный сайт: где искать редкие фото и картинки, которых нет у конкурентов](https://habr.com/ru/companies/beget/articles/953124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953124)
-- [Эксперимент: генерация веб-форм для 1С по текстовому описанию](https://habr.com/ru/articles/952114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952114)
-- [[Перевод] Что именно ИИ-чатботы делают «под капотом»](https://habr.com/ru/articles/958820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958820)
+- [[Перевод] Архитектура Netflix Tudum: от CQRS с Kafka к CQRS с RAW Hollow](https://habr.com/ru/companies/otus/articles/958980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958980)
+- [Чтобы сварить годный ISO, нужен всего лишь простой…](https://habr.com/ru/companies/yandex/articles/958722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958722)
+- [Веб-архитектуры и Джеймикс](https://habr.com/ru/companies/haulmont/articles/958970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958970)
+- [[Перевод] Большое сравнение архитектур LLM](https://habr.com/ru/articles/958880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958880)
+- [Розыгрыш стула, похищение прав: что нашел пентестер в пет-проекте](https://habr.com/ru/companies/selectel/articles/958782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
