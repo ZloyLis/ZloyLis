@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хватит это терпеть: как я написал Telegram-бота для VPS, который не бесит](https://habr.com/ru/articles/959122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959122)
-- [Галлюцинации в больших языковых моделях: анализируем и разбираемся](https://habr.com/ru/articles/959104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959104)
-- [Обратная сторона индекса: когда первичный ключ становится узким местом](https://habr.com/ru/articles/959102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959102)
-- [«Общество не допустит» — иллюзия в эпоху ИИ](https://habr.com/ru/articles/958862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958862)
-- [Разработал чат бота для программистов BayLang AI](https://habr.com/ru/articles/959096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959096)
+- [Cursor: Обзор и возможности](https://habr.com/ru/articles/959144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959144)
+- [Чем вообще занимается человечество?](https://habr.com/ru/articles/959142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959142)
+- [Не обижайте Django](https://habr.com/ru/articles/959114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959114)
+- [[Перевод] Инжиниринг платформ: не CFEngine единым](https://habr.com/ru/companies/bhv_publishing/articles/959132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959132)
+- [Из мобильной разработки в бэкенд. История и впечатления](https://habr.com/ru/articles/959128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
