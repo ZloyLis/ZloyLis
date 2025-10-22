@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание интерактивного макета. Упаковка кругов в квадрат и прямоугольник. Жадный алгоритм](https://habr.com/ru/articles/958888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958888)
+- [Не бойтесь, просто ходите: как пройти первые собеседования, если ты QA-инженер без опыта](https://habr.com/ru/companies/yandex_praktikum/articles/954196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=954196)
+- [Битва за уникальный сайт: где искать редкие фото и картинки, которых нет у конкурентов](https://habr.com/ru/companies/beget/articles/953124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953124)
 - [Эксперимент: генерация веб-форм для 1С по текстовому описанию](https://habr.com/ru/articles/952114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952114)
 - [[Перевод] Что именно ИИ-чатботы делают «под капотом»](https://habr.com/ru/articles/958820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958820)
-- [Выжимаем из Go скорость до последних наносекунд](https://habr.com/ru/companies/ruvds/articles/957756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957756)
-- [[Перевод] Совместимость в Java: что может пойти не так?](https://habr.com/ru/companies/spring_aio/articles/956824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956824)
-- [Google Регистрация в Android на kotlin + jetpack compose](https://habr.com/ru/articles/958746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
