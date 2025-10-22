@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработал чат бота для программистов BayLang AI](https://habr.com/ru/articles/959096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959096)
+- [Write. Review. Commit. Repeat. Как документируют в Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/924718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=924718)
 - [Мобильная ферма устройств: как мы решили проблему тестирования и не только](https://habr.com/ru/companies/sovcombank_technologies/articles/958694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958694)
 - [[Перевод] Единственная шпаргалка по ReactJS, которая вам нужна](https://habr.com/ru/companies/otus/articles/958864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958864)
 - [Команда «жыбий рыр»: Войти в IT через хакатоны](https://habr.com/ru/articles/959058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959058)
-- [Регистрация событий ИБ без боли: опыт аналитика Naumen Contact Center](https://habr.com/ru/companies/naumen/articles/958760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958760)
-- [Твоё приложение никто не видит — ASO может это исправить](https://habr.com/ru/articles/959038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
