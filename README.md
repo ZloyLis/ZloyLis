@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хватит это терпеть: как я написал Telegram-бота для VPS, который не бесит](https://habr.com/ru/articles/959122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959122)
+- [Галлюцинации в больших языковых моделях: анализируем и разбираемся](https://habr.com/ru/articles/959104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959104)
+- [Обратная сторона индекса: когда первичный ключ становится узким местом](https://habr.com/ru/articles/959102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959102)
+- [«Общество не допустит» — иллюзия в эпоху ИИ](https://habr.com/ru/articles/958862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958862)
 - [Разработал чат бота для программистов BayLang AI](https://habr.com/ru/articles/959096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959096)
-- [Write. Review. Commit. Repeat. Как документируют в Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/924718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=924718)
-- [Мобильная ферма устройств: как мы решили проблему тестирования и не только](https://habr.com/ru/companies/sovcombank_technologies/articles/958694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958694)
-- [[Перевод] Единственная шпаргалка по ReactJS, которая вам нужна](https://habr.com/ru/companies/otus/articles/958864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958864)
-- [Команда «жыбий рыр»: Войти в IT через хакатоны](https://habr.com/ru/articles/959058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
