@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда важна каждая миллисекунда: оптимизация съёмки для CV и AR](https://habr.com/ru/companies/2gis/articles/958550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958550)
 - [Cursor — джун или сеньор? Какой грейд у ИИ](https://habr.com/ru/companies/surfstudio/articles/958982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958982)
 - [Combine – швейцарский нож iOS-разработчика. Или нет?](https://habr.com/ru/companies/banki/articles/958650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958650)
 - [Как использовать Clickhouse без боли](https://habr.com/ru/companies/magnit/articles/955312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955312)
 - [Зачем я решил научить Statuser следить за DNS — и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/958754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958754)
-- [Паттерны ООП, так не издевались даже… Структурные шаблоны с примерами на Java](https://habr.com/ru/companies/ruvds/articles/957914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
