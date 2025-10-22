@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor — джун или сеньор? Какой грейд у ИИ](https://habr.com/ru/companies/surfstudio/articles/958982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958982)
+- [Combine – швейцарский нож iOS-разработчика. Или нет?](https://habr.com/ru/companies/banki/articles/958650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958650)
 - [Как использовать Clickhouse без боли](https://habr.com/ru/companies/magnit/articles/955312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955312)
 - [Зачем я решил научить Statuser следить за DNS — и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/958754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958754)
 - [Паттерны ООП, так не издевались даже… Структурные шаблоны с примерами на Java](https://habr.com/ru/companies/ruvds/articles/957914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957914)
-- [Анализ смарт-контрактов на примере Solidity](https://habr.com/ru/companies/pt/articles/936914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=936914)
-- [[Перевод] Архитектура Netflix Tudum: от CQRS с Kafka к CQRS с RAW Hollow](https://habr.com/ru/companies/otus/articles/958980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
