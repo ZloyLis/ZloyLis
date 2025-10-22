@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать Clickhouse без боли](https://habr.com/ru/companies/magnit/articles/955312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955312)
+- [Зачем я решил научить Statuser следить за DNS — и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/958754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958754)
+- [Паттерны ООП, так не издевались даже… Структурные шаблоны с примерами на Java](https://habr.com/ru/companies/ruvds/articles/957914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957914)
+- [Анализ смарт-контрактов на примере Solidity](https://habr.com/ru/companies/pt/articles/936914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=936914)
 - [[Перевод] Архитектура Netflix Tudum: от CQRS с Kafka к CQRS с RAW Hollow](https://habr.com/ru/companies/otus/articles/958980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958980)
-- [Чтобы сварить годный ISO, нужен всего лишь простой…](https://habr.com/ru/companies/yandex/articles/958722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958722)
-- [Веб-архитектуры и Джеймикс](https://habr.com/ru/companies/haulmont/articles/958970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958970)
-- [[Перевод] Большое сравнение архитектур LLM](https://habr.com/ru/articles/958880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958880)
-- [Розыгрыш стула, похищение прав: что нашел пентестер в пет-проекте](https://habr.com/ru/companies/selectel/articles/958782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
