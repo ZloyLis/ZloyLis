@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [pg_expecto: Аудит производительности инфраструктуры при нагрузочном тестировании СУБД PostgreSQL](https://habr.com/ru/articles/959290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959290)
+- [[Перевод] Неожиданная находка в Kubernetes: постквантовая криптография в кластерах](https://habr.com/ru/companies/flant/articles/955310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955310)
 - [Проводники спирального типа](https://habr.com/ru/companies/electroconnect/articles/959270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959270)
 - [Парсинг HH.ru: от /vacancies до асинхронных очередей и боли с ConversationHandler&#39;ами](https://habr.com/ru/articles/959256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959256)
 - [132 строчки на Python, которые рождают математического гипермонстра](https://habr.com/ru/articles/959192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959192)
-- [Пишем чат на Rust](https://habr.com/ru/articles/945042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=945042)
-- [Cursor: Обзор и возможности](https://habr.com/ru/articles/959144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
