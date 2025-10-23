@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать AI-аналитика во время учебы: кейс выпускного проекта студентов Школы аналитиков данных МТС](https://habr.com/ru/companies/ru_mts/articles/958158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958158)
+- [Провели опрос: «Микросервисы побеждают 4:1, low-code — 5:1». Но почему не всё так однозначно?](https://habr.com/ru/articles/959240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959240)
+- [Чему не учат на курсах бизнес-аналитика: почему шаблоны ТЗ мешают работе](https://habr.com/ru/companies/outlines_tech/articles/959162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959162)
 - [pg_expecto: Аудит производительности инфраструктуры при нагрузочном тестировании СУБД PostgreSQL](https://habr.com/ru/articles/959290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959290)
 - [[Перевод] Неожиданная находка в Kubernetes: постквантовая криптография в кластерах](https://habr.com/ru/companies/flant/articles/955310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955310)
-- [Проводники спирального типа](https://habr.com/ru/companies/electroconnect/articles/959270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959270)
-- [Парсинг HH.ru: от /vacancies до асинхронных очередей и боли с ConversationHandler&#39;ами](https://habr.com/ru/articles/959256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959256)
-- [132 строчки на Python, которые рождают математического гипермонстра](https://habr.com/ru/articles/959192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
