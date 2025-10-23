@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рендеринг трёхмерных фрактальных множеств: от оболочки Мандельброта до гибридов, часть 3](https://habr.com/ru/companies/sberbank/articles/957194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957194)
-- [HTTP и HTTPS: Разница](https://habr.com/ru/articles/959544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959544)
-- [Разбираем «Telega» по винтикам: «бесплатный» сыр только в мышеловке](https://habr.com/ru/articles/959534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959534)
-- [Больше чем просто данные в S3. Iceberg как основа архитектуры Next-Gen КХД](https://habr.com/ru/companies/vk/articles/959398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959398)
-- [Почему я думаю, что инженеры прошлого писали более человечный код](https://habr.com/ru/articles/959516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959516)
+- [Делаем увлажнитель чуть умнее с ESP8266](https://habr.com/ru/articles/959594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959594)
+- [Как гейм-дизайнеру и программисту вместе построить то, что невозможно в одиночку?](https://habr.com/ru/articles/959592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959592)
+- [Kafka для начинающих: работа с брокером сообщений на практике](https://habr.com/ru/articles/958450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958450)
+- [Переплачиваете за хостинг Cron Jobs? Тогда мы идём к вам](https://habr.com/ru/companies/amvera/articles/959584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959584)
+- [Полнотекстовый поиск на Rust с помощью библиотеки Tantivy](https://habr.com/ru/companies/otus/articles/959244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
