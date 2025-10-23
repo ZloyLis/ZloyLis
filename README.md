@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рендеринг трёхмерных фрактальных множеств: от оболочки Мандельброта до гибридов, часть 3](https://habr.com/ru/companies/sberbank/articles/957194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957194)
 - [HTTP и HTTPS: Разница](https://habr.com/ru/articles/959544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959544)
 - [Разбираем «Telega» по винтикам: «бесплатный» сыр только в мышеловке](https://habr.com/ru/articles/959534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959534)
-- [Больше чем просто данные в S3. Iceberg как основа архитектуры Next-Gen КХД](https://habr.com/ru/companies/vktech/articles/959398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959398)
+- [Больше чем просто данные в S3. Iceberg как основа архитектуры Next-Gen КХД](https://habr.com/ru/companies/vk/articles/959398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959398)
 - [Почему я думаю, что инженеры прошлого писали более человечный код](https://habr.com/ru/articles/959516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959516)
-- [Отсекая лишнее: как уменьшить кодовую базу на С++ и не потерять нужную функциональность](https://habr.com/ru/companies/yadro/articles/959312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
