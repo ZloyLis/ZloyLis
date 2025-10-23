@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как Windows покорила мира. История самой популярной ОС](https://habr.com/ru/companies/timeweb/articles/958744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958744)
+- [Мегатренды в дизайне интерфейсов. Часть 1. Культура и общество](https://habr.com/ru/articles/959384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959384)
+- [Как я распознавание лиц к Yandex Disk-у прикручивал](https://habr.com/ru/articles/959378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959378)
+- [Книга: «Строим LLM с нуля»](https://habr.com/ru/companies/piter/articles/958724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958724)
+- [Как Windows покорила мир. История самой популярной ОС](https://habr.com/ru/companies/timeweb/articles/958744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958744)
 - [Я ненавижу React](https://habr.com/ru/articles/959358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959358)
-- [Критическое мышление: когда сомнения работают на вас, а когда против](https://habr.com/ru/articles/958992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958992)
-- [Асинхронные цепочки задач в Рег.облаке: как повысить отказоустойчивость облачной платформы без потерь](https://habr.com/ru/companies/runity/articles/959348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959348)
-- [[Перевод] Великий крах качества программного обеспечения: как мы нормализовали катастрофу](https://habr.com/ru/articles/959332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
