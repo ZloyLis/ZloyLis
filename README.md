@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Windows покорила мира. История самой популярной ОС](https://habr.com/ru/companies/timeweb/articles/958744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958744)
+- [Я ненавижу React](https://habr.com/ru/articles/959358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959358)
+- [Критическое мышление: когда сомнения работают на вас, а когда против](https://habr.com/ru/articles/958992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958992)
+- [Асинхронные цепочки задач в Рег.облаке: как повысить отказоустойчивость облачной платформы без потерь](https://habr.com/ru/companies/runity/articles/959348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959348)
 - [[Перевод] Великий крах качества программного обеспечения: как мы нормализовали катастрофу](https://habr.com/ru/articles/959332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959332)
-- [Как стать аналитиком: где учиться, какие навыки нужны на старте и сколько им платят сегодня](https://habr.com/ru/companies/habr_career/articles/959330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959330)
-- [[Перевод] Почему Google Переводчик «ломает» React &lpar;и другие веб-приложения&rpar;](https://habr.com/ru/articles/955750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955750)
-- [Ссылочный тип данных в JavaScript: ключ к эффективному коду](https://habr.com/ru/companies/selectel/articles/958742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958742)
-- [Интегрируем ресивер Триколора с «Домом с Алисой» с помощью Java и Spring](https://habr.com/ru/articles/959178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
