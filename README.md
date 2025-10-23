@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Об уравнениях Максвелла в пространстве Минковского](https://habr.com/ru/articles/959682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959682)
 - [От визуализации к действию: как ДРАКОН+LLM может стать фундаментом для агентских ИИ](https://habr.com/ru/articles/953660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953660)
 - [Делаем увлажнитель чуть умнее с ESP8266](https://habr.com/ru/articles/959594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959594)
 - [Как гейм-дизайнеру и программисту вместе построить то, что невозможно в одиночку?](https://habr.com/ru/articles/959592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959592)
 - [Kafka для начинающих: работа с брокером сообщений на практике](https://habr.com/ru/articles/958450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958450)
-- [Переплачиваете за хостинг Cron Jobs? Тогда мы идём к вам](https://habr.com/ru/companies/amvera/articles/959584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
