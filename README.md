@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как одна идея и грамотный маркетинг создали миллиардный стартап](https://habr.com/ru/articles/959446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959446)
+- [Как мы размечаем shoppable-контент](https://habr.com/ru/companies/vk/articles/959076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959076)
+- [Взаимодействие с пользователем в макросах «Р7-Офис». Часть 1. Вводная](https://habr.com/ru/articles/959442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959442)
+- [Фазовая развертка Вселенной: как простая геометрия склеивает математику и физику](https://habr.com/ru/articles/959416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959416)
 - [Мегатренды в дизайне интерфейсов. Часть 1. Культура и общество](https://habr.com/ru/articles/959384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959384)
-- [Как я распознавание лиц к Yandex Disk-у прикручивал](https://habr.com/ru/articles/959378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959378)
-- [Книга: «Строим LLM с нуля»](https://habr.com/ru/companies/piter/articles/958724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958724)
-- [Как Windows покорила мир. История самой популярной ОС](https://habr.com/ru/companies/timeweb/articles/958744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958744)
-- [Я ненавижу React](https://habr.com/ru/articles/959358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
