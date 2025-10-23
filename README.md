@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как создать AI-аналитика во время учебы: кейс выпускного проекта студентов Школы аналитиков данных МТС](https://habr.com/ru/companies/ru_mts/articles/958158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958158)
-- [Провели опрос: «Микросервисы побеждают 4:1, low-code — 5:1». Но почему не всё так однозначно?](https://habr.com/ru/articles/959240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959240)
-- [Чему не учат на курсах бизнес-аналитика: почему шаблоны ТЗ мешают работе](https://habr.com/ru/companies/outlines_tech/articles/959162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959162)
-- [pg_expecto: Аудит производительности инфраструктуры при нагрузочном тестировании СУБД PostgreSQL](https://habr.com/ru/articles/959290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959290)
-- [[Перевод] Неожиданная находка в Kubernetes: постквантовая криптография в кластерах](https://habr.com/ru/companies/flant/articles/955310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955310)
+- [[Перевод] Великий крах качества программного обеспечения: как мы нормализовали катастрофу](https://habr.com/ru/articles/959332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959332)
+- [Как стать аналитиком: где учиться, какие навыки нужны на старте и сколько им платят сегодня](https://habr.com/ru/companies/habr_career/articles/959330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959330)
+- [[Перевод] Почему Google Переводчик «ломает» React &lpar;и другие веб-приложения&rpar;](https://habr.com/ru/articles/955750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955750)
+- [Ссылочный тип данных в JavaScript: ключ к эффективному коду](https://habr.com/ru/companies/selectel/articles/958742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958742)
+- [Интегрируем ресивер Триколора с «Домом с Алисой» с помощью Java и Spring](https://habr.com/ru/articles/959178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
