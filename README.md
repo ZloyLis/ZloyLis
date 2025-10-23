@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отсекая лишнее: как уменьшить кодовую базу на С++ и не потерять нужную функциональность](https://habr.com/ru/companies/yadro/articles/959312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959312)
+- [Один раз увидеть. В помощь системному аналитику для диалогов с Бизнесом](https://habr.com/ru/companies/uralsib/articles/959484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959484)
+- [Ваш отзыв поможет другим — сила альтруизма в интерфейсах](https://habr.com/ru/articles/959466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959466)
 - [Как одна идея и грамотный маркетинг создали миллиардный стартап](https://habr.com/ru/articles/959446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959446)
 - [Как мы размечаем shoppable-контент](https://habr.com/ru/companies/vk/articles/959076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959076)
-- [Взаимодействие с пользователем в макросах «Р7-Офис». Часть 1. Вводная](https://habr.com/ru/articles/959442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959442)
-- [Фазовая развертка Вселенной: как простая геометрия склеивает математику и физику](https://habr.com/ru/articles/959416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959416)
-- [Мегатренды в дизайне интерфейсов. Часть 1. Культура и общество](https://habr.com/ru/articles/959384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
