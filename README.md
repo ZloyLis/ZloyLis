@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От Android до кроссплатформы за 3 дня: опыт адаптации приложения под CMP](https://habr.com/ru/companies/kts/articles/959950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959950)
+- [[Перевод] Поддержка HTTP/3 в Java: что нового в JDK 26 и как это использовать](https://habr.com/ru/companies/spring_aio/articles/959850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959850)
+- [[Перевод] Эвристика: OR в SQL — это дорого](https://habr.com/ru/companies/postgrespro/articles/953506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953506)
+- [За 3 дня запустить Android приложение на iOS: опыт адаптации приложения под CMP](https://habr.com/ru/companies/kts/articles/959950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959950)
 - [[Перевод] Реверс-инжиниринг веб-сайтов для самых маленьких](https://habr.com/ru/companies/otus/articles/959214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959214)
 - [ИИ-помощники для Python: как выбрать между чат-песочницей, IDE-ассистентом, агентами и open-source](https://habr.com/ru/articles/959926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959926)
-- [Контролируемый вайб-кодинг: как делать это правильно](https://habr.com/ru/companies/cloud_ru/articles/959876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959876)
-- [Kubernetes networking или «сеть в кубернетесе»](https://habr.com/ru/companies/slurm/articles/959906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
