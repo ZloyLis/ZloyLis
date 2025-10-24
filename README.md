@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] BERT — это всего лишь одноэтапная диффузия текста](https://habr.com/ru/articles/959814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959814)
+- [Топ-10 полезных расширений для браузера в арсенале QA-инженера](https://habr.com/ru/articles/956060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956060)
+- [Мастерская игр «Урсула» представляет конструктор 3D-игр для начинающих инди, наставников кружков и энтузиастов геймдева](https://habr.com/ru/articles/957254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957254)
+- [ML в продакшене: почему аналитикам и бэкенду сложно договориться](https://habr.com/ru/companies/oleg-bunin/articles/955850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955850)
 - [Разбор системы: Доставка котировок](https://habr.com/ru/companies/otus/articles/958988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958988)
-- [Что такое Git и почему он стал стандартом разработки](https://habr.com/ru/articles/959760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959760)
-- [Ваша учительница русского языка и литературы дала вам лучшие советы по программированию. Помните ли вы их?](https://habr.com/ru/articles/959754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959754)
-- [к.т.н. Страннолюбов, или Как я перестал бояться и провёл соревнование по программированию на Эльбрусе](https://habr.com/ru/articles/959742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959742)
-- [ActiveMQ Artemis vs Apache Kafka](https://habr.com/ru/articles/959660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
