@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [к.т.н. Страннолюбов, или Как я перестал бояться и провёл соревнование по программированию на Эльбрусе](https://habr.com/ru/articles/959742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959742)
+- [ActiveMQ Artemis vs Apache Kafka](https://habr.com/ru/articles/959660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959660)
 - [Горе от Ума — почему IT-проекты пишутся долго и стоят дорого &lpar;иногда&rpar;](https://habr.com/ru/articles/959716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959716)
 - [Об уравнениях Максвелла в пространстве Минковского](https://habr.com/ru/articles/959682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959682)
 - [От визуализации к действию: как ДРАКОН+LLM может стать фундаментом для агентских ИИ](https://habr.com/ru/articles/953660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953660)
-- [Делаем увлажнитель чуть умнее с ESP8266](https://habr.com/ru/articles/959594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959594)
-- [Как гейм-дизайнеру и программисту вместе построить то, что невозможно в одиночку?](https://habr.com/ru/articles/959592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
