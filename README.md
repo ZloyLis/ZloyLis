@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вывод ОТО в геометрической алгебре](https://habr.com/ru/articles/959852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959852)
-- [Наш опыт публикации мобильных приложений. Часть 1: AppStore и Google Play](https://habr.com/ru/articles/959490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959490)
-- [Справится ли коробочная система с нетиповыми задачами? Опыт разработки собственных продуктов для корпоративного портала](https://habr.com/ru/companies/sminex_developer/articles/959540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959540)
-- [[Перевод] BERT — это всего лишь одноэтапная диффузия текста](https://habr.com/ru/articles/959814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959814)
-- [Топ-10 полезных расширений для браузера в арсенале QA-инженера](https://habr.com/ru/articles/956060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956060)
+- [ИИ-помощники для Python: как выбрать между чат-песочницей, IDE-ассистентом, агентами и open-source](https://habr.com/ru/articles/959926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959926)
+- [Контролируемый вайб-кодинг: как делать это правильно](https://habr.com/ru/companies/cloud_ru/articles/959876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959876)
+- [Kubernetes networking или «сеть в кубернетесе»](https://habr.com/ru/companies/slurm/articles/959906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959906)
+- [Вероятностные методы в биржевой торговле](https://habr.com/ru/articles/957232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957232)
+- [Обработка музыки с помощью Python: от вайбкодинга до мастеринга в один клик](https://habr.com/ru/articles/959890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
