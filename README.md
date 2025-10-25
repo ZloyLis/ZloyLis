@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем сборку с помощью Gradle Build Services](https://habr.com/ru/articles/951264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951264)
+- [Dart 3.9: актуальность новых фич](https://habr.com/ru/articles/960068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960068)
 - [Вертикальное шардирование базы данных: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/959748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959748)
 - [Квантовая механика без магии: пересобираем физику на языке геометрии](https://habr.com/ru/articles/960034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960034)
 - [Bug bounty в РФ: когда вендор молчит, а платформа подыгрывает](https://habr.com/ru/articles/960024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960024)
-- [[Перевод] Поддержка HTTP/3 в Java: что нового в JDK 26 и как это использовать](https://habr.com/ru/companies/spring_aio/articles/959850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959850)
-- [[Перевод] Эвристика: OR в SQL — это дорого](https://habr.com/ru/companies/postgrespro/articles/953506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
