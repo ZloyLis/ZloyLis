@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source-стратегии: с чего начать в открытом формате — дизайн-система телекома и мобильного оператора T2](https://habr.com/ru/articles/959226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959226)
+- [[Перевод] Парадокс безопасности локальных LLM](https://habr.com/ru/articles/960132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960132)
+- [UX-прожарки: что жарим и с кем едим? Или как мы дополнительно исследуем интерфейсы](https://habr.com/ru/articles/960130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960130)
 - [[Перевод] Как memory maps &lpar;mmap&rpar; обеспечивают в 25 раз более быстрый доступ к файлам в Go](https://habr.com/ru/articles/960120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960120)
 - [Пишем свою ноду в n8n под любой API за вечер](https://habr.com/ru/companies/amvera/articles/960100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960100)
-- [Ускоряем сборку с помощью Gradle Build Services](https://habr.com/ru/articles/951264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951264)
-- [Dart 3.9: актуальность новых фич](https://habr.com/ru/articles/960068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960068)
-- [Вертикальное шардирование базы данных: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/959748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
