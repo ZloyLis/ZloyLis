@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсим Ozon. Собираем информацию о ценах, товарах и отзывах](https://habr.com/ru/companies/amvera/articles/960280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960280)
+- [Оркестрация на BPMN: взгляд изнутри](https://habr.com/ru/articles/960278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960278)
 - [Головоломка по информатике из университетского квеста](https://habr.com/ru/articles/960270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960270)
 - [«Есть 15 конкурирующих стандартов...»: Media over QUIC — зачем его развивают и что о нем думают в индустрии](https://habr.com/ru/companies/vasexperts/articles/960112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960112)
 - [[Перевод] Глобальный упадок качества ПО: как катастрофа стала нормой](https://habr.com/ru/companies/ruvds/articles/959262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959262)
-- [Чек-лист, который превращает интеграцию из хаоса в процесс](https://habr.com/ru/articles/960234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960234)
-- [Давайте забудем всё про скалярное и векторное. Есть способ гораздо лучше](https://habr.com/ru/articles/960192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
