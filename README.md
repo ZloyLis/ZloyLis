@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я построил AI-радио без команды и инвестиций: архитектура изнутри](https://habr.com/ru/articles/960336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960336)
+- [Простой способ держать ваш скрипт актуальным и запускать его автоматически](https://habr.com/ru/articles/960272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960272)
 - [View Transitions API](https://habr.com/ru/articles/960330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960330)
 - [Вмешательство стороннего ПО в процесс отладки программы приводило к ошибке 0xC0000005 по адресу 0x00000000](https://habr.com/ru/articles/960318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960318)
 - [Топ 7 антидетект-браузеров для iOS: анализ и сравнение 2025](https://habr.com/ru/articles/960306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960306)
-- [Мобильная разработка за неделю #608 &lpar;20 — 26 октября&rpar;](https://habr.com/ru/articles/960284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960284)
-- [Парсим Ozon. Собираем информацию о ценах, товарах и отзывах](https://habr.com/ru/companies/amvera/articles/960280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
