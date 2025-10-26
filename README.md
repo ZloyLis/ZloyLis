@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Глобальный упадок качества ПО: как мы справляемся с катастрофой](https://habr.com/ru/companies/ruvds/articles/959262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959262)
+- [Головоломка по информатике из университетского квеста](https://habr.com/ru/articles/960270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960270)
+- [«Есть 15 конкурирующих стандартов...»: Media over QUIC — зачем его развивают и что о нем думают в индустрии](https://habr.com/ru/companies/vasexperts/articles/960112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960112)
+- [[Перевод] Глобальный упадок качества ПО: как катастрофа стала нормой](https://habr.com/ru/companies/ruvds/articles/959262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959262)
 - [Чек-лист, который превращает интеграцию из хаоса в процесс](https://habr.com/ru/articles/960234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960234)
 - [Давайте забудем всё про скалярное и векторное. Есть способ гораздо лучше](https://habr.com/ru/articles/960192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960192)
-- [Я купил игровую консоль и написал для неё… BIOS](https://habr.com/ru/companies/timeweb/articles/959694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959694)
-- [Open source-стратегии: с чего начать в открытом формате — дизайн-система телекома и мобильного оператора T2](https://habr.com/ru/articles/959226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
