@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чек-лист, который превращает интеграцию из хаоса в процесс](https://habr.com/ru/articles/960234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960234)
+- [Давайте забудем всё про скалярное и векторное. Есть способ гораздо лучше](https://habr.com/ru/articles/960192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960192)
 - [Я купил игровую консоль и написал для неё… BIOS](https://habr.com/ru/companies/timeweb/articles/959694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959694)
 - [Open source-стратегии: с чего начать в открытом формате — дизайн-система телекома и мобильного оператора T2](https://habr.com/ru/articles/959226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959226)
 - [[Перевод] Парадокс безопасности локальных LLM](https://habr.com/ru/articles/960132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960132)
-- [[Перевод] Как memory maps &lpar;mmap&rpar; обеспечивают в 25 раз более быстрый доступ к файлам в Go](https://habr.com/ru/articles/960120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960120)
-- [Пишем свою ноду в n8n под любой API за вечер](https://habr.com/ru/companies/amvera/articles/960100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
