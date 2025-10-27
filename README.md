@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хватит бороться с ошибками CORS: разберемся, как они работают раз и навсегда](https://habr.com/ru/articles/960400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960400)
+- [Идея длиною в вечность: в погоне за утопичным социальным приложением в 2025 году](https://habr.com/ru/articles/960364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960364)
 - [Как проверить окупился ли ваш RPA-робот. Инструкция от внутреннего аудитора](https://habr.com/ru/articles/960378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960378)
 - [Как я построил AI-радио без команды и инвестиций: архитектура изнутри](https://habr.com/ru/articles/960336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960336)
 - [Простой способ держать ваш скрипт актуальным и запускать его автоматически](https://habr.com/ru/articles/960272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960272)
-- [View Transitions API](https://habr.com/ru/articles/960330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960330)
-- [Вмешательство стороннего ПО в процесс отладки программы приводило к ошибке 0xC0000005 по адресу 0x00000000](https://habr.com/ru/articles/960318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
