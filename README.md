@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Азарт против алгоритма: почему онлайн-казино не играет в кости со вселенной](https://habr.com/ru/articles/960532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960532)
 - [Мультиплексор, дешифратор… где великий комбинатор?](https://habr.com/ru/companies/yadro/articles/960500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960500)
 - [[Перевод] Полное руководство по HTTP-кэшированию. Часть 2](https://habr.com/ru/companies/timeweb/articles/958898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958898)
 - [Играем в Канбан на работе](https://habr.com/ru/companies/skbkontur/articles/959856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959856)
 - [Регистрация ИП в Грузии. Октябрь 2025](https://habr.com/ru/articles/960490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960490)
-- [Где туристы из будущего?](https://habr.com/ru/companies/ruvds/articles/959462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
