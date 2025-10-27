@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Зачем вообще нужны дистрибутивы?](https://habr.com/ru/articles/960308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960308)
-- [Taint-анализ в C и C++ анализаторе PVS-Studio](https://habr.com/ru/companies/pvs-studio/articles/960448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960448)
-- [Как мы создавали статусы в eXpress](https://habr.com/ru/companies/express/articles/959812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959812)
-- [Почему сейчас — лучшее время, чтобы нанимать Junior-программистов](https://habr.com/ru/articles/904732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=904732)
-- [Почему для автоматизации тестирования мы выбрали Selenium и вам советуем](https://habr.com/ru/articles/960428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960428)
+- [Где туристы из будущего?](https://habr.com/ru/companies/ruvds/articles/959462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959462)
+- [ITIL: управление уровнем и доступностью сервиса в выделенной продуктовой IТ-компании](https://habr.com/ru/companies/petrovich-tech/articles/952428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952428)
+- [Яндекс обновляет процесс найма разработчиков. Рассказываю, почему мы пошли на такой шаг](https://habr.com/ru/companies/yandex/articles/959986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959986)
+- [Автоматизируем тесты UI с помощью Kotlin &lpar;Playwright + JUnit5&rpar;](https://habr.com/ru/articles/960460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960460)
+- [Экономика Kubernetes. Самостоятельное развертывание vs Managed Kubernetes on Bare Metal](https://habr.com/ru/companies/selectel/articles/960452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
