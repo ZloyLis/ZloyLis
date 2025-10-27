@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2544: уязвимость в IT-инфраструктуре «Формулы-1»](https://habr.com/ru/companies/kaspersky/articles/960466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960466)
 - [Закон Гудхарта: почему метрики врут, и как опыт из SEO поможет остальным айтишникам](https://habr.com/ru/companies/beget/articles/957264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957264)
 - [Создаём MCP‑сервер на практике](https://habr.com/ru/articles/960538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960538)
 - [Rust и приведение типов](https://habr.com/ru/articles/960608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960608)
 - [Как мы в Авито сделали свою LLM — A-vibe](https://habr.com/ru/companies/avito/articles/956664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956664)
-- [Как мы строим прогнозы с помощью Prophet](https://habr.com/ru/companies/tuturu/articles/959408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
