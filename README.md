@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Полное руководство по HTTP-кэшированию. Часть 2](https://habr.com/ru/companies/timeweb/articles/958898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958898)
+- [Играем в Канбан на работе](https://habr.com/ru/companies/skbkontur/articles/959856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959856)
+- [Регистрация ИП в Грузии. Октябрь 2025](https://habr.com/ru/articles/960490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960490)
 - [Где туристы из будущего?](https://habr.com/ru/companies/ruvds/articles/959462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959462)
-- [ITIL: управление уровнем и доступностью сервиса в выделенной продуктовой IТ-компании](https://habr.com/ru/companies/petrovich-tech/articles/952428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952428)
-- [Яндекс обновляет процесс найма разработчиков. Рассказываю, почему мы пошли на такой шаг](https://habr.com/ru/companies/yandex/articles/959986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959986)
-- [Автоматизируем тесты UI с помощью Kotlin &lpar;Playwright + JUnit5&rpar;](https://habr.com/ru/articles/960460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960460)
-- [Экономика Kubernetes. Самостоятельное развертывание vs Managed Kubernetes on Bare Metal](https://habr.com/ru/companies/selectel/articles/960452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960452)
+- [ITIL: управление уровнем и доступностью сервиса в выделенной продуктовой IТ-компании](https://habr.com/ru/companies/oleg-bunin/articles/952428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
