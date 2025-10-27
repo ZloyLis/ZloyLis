@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AssemblyLoadContext как архитектурный приём](https://habr.com/ru/companies/otus/articles/959680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959680)
-- [Хватит бороться с ошибками CORS: разберемся, как они работают раз и навсегда](https://habr.com/ru/articles/960400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960400)
-- [Идея длиною в вечность: в погоне за утопичным социальным приложением в 2025 году](https://habr.com/ru/articles/960364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960364)
-- [Как проверить окупился ли ваш RPA-робот. Инструкция от внутреннего аудитора](https://habr.com/ru/articles/960378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960378)
-- [Как я построил AI-радио без команды и инвестиций: архитектура изнутри](https://habr.com/ru/articles/960336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960336)
+- [Зачем вообще нужны дистрибутивы?](https://habr.com/ru/articles/960308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960308)
+- [Taint-анализ в C и C++ анализаторе PVS-Studio](https://habr.com/ru/companies/pvs-studio/articles/960448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960448)
+- [Как мы создавали статусы в eXpress](https://habr.com/ru/companies/express/articles/959812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959812)
+- [Почему сейчас — лучшее время, чтобы нанимать Junior-программистов](https://habr.com/ru/articles/904732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=904732)
+- [Почему для автоматизации тестирования мы выбрали Selenium и вам советуем](https://habr.com/ru/articles/960428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
