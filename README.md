@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я проектировал инженерные коммуникации в старом деревенском доме: мой опыт](https://habr.com/ru/articles/960734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960734)
-- [Демобаза 2.0 для PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/956096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956096)
-- [Карта бизнес-способностей. Просвечиваем корпоративные боли и лечим их архитектурно: эволюция бизнес-аналитика](https://habr.com/ru/articles/959556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959556)
-- [Простейшая закономерность на рынке способна принести 100% прибыли](https://habr.com/ru/articles/960670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960670)
-- [Security Week 2544: уязвимость в IT-инфраструктуре «Формулы-1»](https://habr.com/ru/companies/kaspersky/articles/960466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960466)
+- [Чужой среди своих: как аналитику войти в уже сработавшуюся команду](https://habr.com/ru/articles/960758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960758)
+- [Развитие внедренных ERP-систем](https://habr.com/ru/articles/960332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960332)
+- [Как понять, что вам нужны автотесты](https://habr.com/ru/companies/otus/articles/959642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959642)
+- [Как и зачем мы делали свое браузерное расширение для мокирования API](https://habr.com/ru/companies/psb/articles/960446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960446)
+- [Ансамблирование BERT для анализа логов, и почему вам может быть достаточно solo-модели](https://habr.com/ru/companies/sberbank/articles/959580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
