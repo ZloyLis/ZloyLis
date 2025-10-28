@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Концепт: региональный портал записи на прием к врачу](https://habr.com/ru/articles/960786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960786)
+- [Я вернулся в 2000-й и поймал ILOVEYOU](https://habr.com/ru/companies/clevertec/articles/960570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960570)
 - [Чужой среди своих: как аналитику войти в уже сработавшуюся команду](https://habr.com/ru/articles/960758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960758)
 - [Развитие внедренных ERP-систем](https://habr.com/ru/articles/960332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960332)
 - [Как понять, что вам нужны автотесты](https://habr.com/ru/companies/otus/articles/959642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959642)
-- [Как и зачем мы делали свое браузерное расширение для мокирования API](https://habr.com/ru/companies/psb/articles/960446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960446)
-- [Ансамблирование BERT для анализа логов, и почему вам может быть достаточно solo-модели](https://habr.com/ru/companies/sberbank/articles/959580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
