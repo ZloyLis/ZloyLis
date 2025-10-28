@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я проектировал инженерные коммуникации в старом деревенском доме: мой опыт](https://habr.com/ru/articles/960734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960734)
+- [Демобаза 2.0 для PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/956096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956096)
+- [Карта бизнес-способностей. Просвечиваем корпоративные боли и лечим их архитектурно: эволюция бизнес-аналитика](https://habr.com/ru/articles/959556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959556)
 - [Простейшая закономерность на рынке способна принести 100% прибыли](https://habr.com/ru/articles/960670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960670)
 - [Security Week 2544: уязвимость в IT-инфраструктуре «Формулы-1»](https://habr.com/ru/companies/kaspersky/articles/960466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960466)
-- [Закон Гудхарта: почему метрики врут, и как опыт из SEO поможет остальным айтишникам](https://habr.com/ru/companies/beget/articles/957264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957264)
-- [Создаём MCP‑сервер на практике](https://habr.com/ru/articles/960538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960538)
-- [Rust и приведение типов](https://habr.com/ru/articles/960608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
