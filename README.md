@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сравнение Rust и Carbon](https://habr.com/ru/companies/timeweb/articles/960802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960802)
+- [Хромбук. Ограничение зарядки](https://habr.com/ru/articles/960838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960838)
+- [От стороннего платёжного решения к собственному SDK: история RuStore Pay SDK](https://habr.com/ru/companies/vk/articles/959520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959520)
+- [[Перевод] Сравнение Rust и Carbon](https://habr.com/ru/companies/timeweb/articles/960802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960802)
 - [Делаем интерфейс дружелюбнее. Коллекция простых HTML/CSS лайфхаков](https://habr.com/ru/companies/ruvds/articles/959198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959198)
 - [Концепт: региональный портал записи на прием к врачу](https://habr.com/ru/articles/960786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960786)
-- [Я вернулся в 2000-й и поймал ILOVEYOU](https://habr.com/ru/companies/clevertec/articles/960570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960570)
-- [Чужой среди своих: как аналитику войти в уже сработавшуюся команду](https://habr.com/ru/articles/960758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
