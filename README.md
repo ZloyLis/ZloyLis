@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Оценка влияния ИИ на производительность опытных разработчиков открытого ПО](https://habr.com/ru/companies/otus/articles/960832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960832)
+- [BuildKit в Kubernetes: мануал по быстрой и масштабируемой сборке](https://habr.com/ru/companies/kts/articles/960922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960922)
+- [От Jest к Vitest на backend тестах: как мы мигрировали тестовый фреймворк для ускорения CI и повышения стабильности](https://habr.com/ru/companies/tbank/articles/960872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960872)
+- [Как разработчику вырасти с помощью продуктового мышления](https://habr.com/ru/companies/mindbox/articles/960856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960856)
 - [[Перевод] JEP 401: Value классы и объекты](https://habr.com/ru/companies/spring_aio/articles/960880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960880)
-- [Книга: «Потоковые базы данных»](https://habr.com/ru/companies/piter/articles/960806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960806)
-- [Пишем летающего дрона на Unreal Engine](https://habr.com/ru/articles/960866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960866)
-- [Хромбук. Ограничение зарядки](https://habr.com/ru/articles/960838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960838)
-- [От стороннего платёжного решения к собственному SDK: история RuStore Pay SDK](https://habr.com/ru/companies/vk/articles/959520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
