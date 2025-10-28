@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] JEP 401: Value классы и объекты](https://habr.com/ru/companies/spring_aio/articles/960880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960880)
+- [Книга: «Потоковые базы данных»](https://habr.com/ru/companies/piter/articles/960806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960806)
+- [Пишем летающего дрона на Unreal Engine](https://habr.com/ru/articles/960866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960866)
 - [Хромбук. Ограничение зарядки](https://habr.com/ru/articles/960838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960838)
 - [От стороннего платёжного решения к собственному SDK: история RuStore Pay SDK](https://habr.com/ru/companies/vk/articles/959520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959520)
-- [[Перевод] Сравнение Rust и Carbon](https://habr.com/ru/companies/timeweb/articles/960802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960802)
-- [Делаем интерфейс дружелюбнее. Коллекция простых HTML/CSS лайфхаков](https://habr.com/ru/companies/ruvds/articles/959198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959198)
-- [Концепт: региональный портал записи на прием к врачу](https://habr.com/ru/articles/960786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
