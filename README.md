@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability vs Monitoring: за что вы платите?](https://habr.com/ru/articles/960954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960954)
+- [Как ретроигры подняли retention? Опыт внедрения геймификации в МТС](https://habr.com/ru/companies/ru_mts/articles/960552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960552)
+- [Toil: Почему вы все еще делаете это руками?](https://habr.com/ru/articles/960938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960938)
 - [[Перевод] Оценка влияния ИИ на производительность опытных разработчиков открытого ПО](https://habr.com/ru/companies/otus/articles/960832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960832)
-- [BuildKit в Kubernetes: мануал по быстрой и масштабируемой сборке](https://habr.com/ru/companies/kts/articles/960922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960922)
-- [От Jest к Vitest на backend тестах: как мы мигрировали тестовый фреймворк для ускорения CI и повышения стабильности](https://habr.com/ru/companies/tbank/articles/960872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960872)
-- [Как разработчику вырасти с помощью продуктового мышления](https://habr.com/ru/companies/mindbox/articles/960856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960856)
-- [[Перевод] JEP 401: Value классы и объекты](https://habr.com/ru/companies/spring_aio/articles/960880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960880)
+- [BuildKit в Kubernetes: мануал по быстрой и автомасштабируемой сборке проектов](https://habr.com/ru/companies/kts/articles/960922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
