@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему физики и программисты мыслят одинаково: законы симметрии кода и Вселенной](https://habr.com/ru/articles/960974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960974)
+- [BDD: Как заставить тесты говорить на одном языке с бизнесом &lpar;и перестать платить за недопонимание&rpar;](https://habr.com/ru/companies/itfb/articles/960972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960972)
+- [Зачем компаниям платформенный подход и как он возникает даже без отдельной команды](https://habr.com/ru/companies/kuper/articles/960496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960496)
+- [On-call ротация без выгорания](https://habr.com/ru/articles/960968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960968)
 - [Observability vs Monitoring: за что вы платите?](https://habr.com/ru/articles/960954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960954)
-- [Как ретроигры подняли retention? Опыт внедрения геймификации в МТС](https://habr.com/ru/companies/ru_mts/articles/960552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960552)
-- [Toil: Почему вы все еще делаете это руками?](https://habr.com/ru/articles/960938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960938)
-- [[Перевод] Оценка влияния ИИ на производительность опытных разработчиков открытого ПО](https://habr.com/ru/companies/otus/articles/960832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960832)
-- [BuildKit в Kubernetes: мануал по быстрой и автомасштабируемой сборке проектов](https://habr.com/ru/companies/kts/articles/960922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
