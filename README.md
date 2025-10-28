@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Лидерство в тестировании: управление своей карьерой](https://habr.com/ru/articles/957360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957360)
+- [Архитектура ИТ решений. Часть 4. Архитектура приложений. 4.1. Область разработки прикладных систем](https://habr.com/ru/articles/960984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960984)
 - [Почему физики и программисты мыслят одинаково: законы симметрии кода и Вселенной](https://habr.com/ru/articles/960974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960974)
 - [BDD: Как заставить тесты говорить на одном языке с бизнесом &lpar;и перестать платить за недопонимание&rpar;](https://habr.com/ru/companies/itfb/articles/960972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960972)
 - [Зачем компаниям платформенный подход и как он возникает даже без отдельной команды](https://habr.com/ru/companies/kuper/articles/960496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960496)
-- [On-call ротация без выгорания](https://habr.com/ru/articles/960968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960968)
-- [Observability vs Monitoring: за что вы платите?](https://habr.com/ru/articles/960954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
