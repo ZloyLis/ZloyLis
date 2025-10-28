@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: как пользоваться нейросетью в России](https://habr.com/ru/companies/bothub/articles/961068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961068)
 - [How to make 3D Skeletal animation system — custom overview](https://habr.com/ru/articles/961058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961058)
 - [Что еще могёт курсор](https://habr.com/ru/articles/961056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961056)
 - [Делаем самые лучшие фото для документов](https://habr.com/ru/articles/960714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960714)
 - [Сверхтьюринговые вычисления и гиперкомпьютеры. Тезис Чёрча-Тьюринга как универсальный предел познания](https://habr.com/ru/articles/961020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961020)
-- [[Перевод] Лидерство в тестировании: управление своей карьерой](https://habr.com/ru/articles/957360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
