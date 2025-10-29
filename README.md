@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet in the middle closure test](https://habr.com/ru/articles/961090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961090)
+- [CPython простыми словами: всё, что нужно знать начинающему](https://habr.com/ru/companies/otus/articles/960206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960206)
 - [Независимая радиосеть на базе смартфонов для децентрализованного интернета](https://habr.com/ru/articles/961360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961360)
 - [[Перевод] Ошибки, которые инженеры совершают при код-ревью](https://habr.com/ru/companies/spring_aio/articles/961332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961332)
 - [ИТ-архитектура: что читать и чему учиться в ноябре](https://habr.com/ru/companies/otus/articles/960914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960914)
-- [Исследуем SharedFlow: emit vs tryEmit, как использовать replay и bufferCapacity](https://habr.com/ru/companies/wildberries/articles/960676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960676)
-- [Как тимлиду работать c visibility и зачем это нужно](https://habr.com/ru/companies/avito/articles/957322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
