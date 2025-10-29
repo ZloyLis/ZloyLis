@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Какую информацию включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961452)
+- [Абсолютный конструктивный предел: ординальный анализ границы формализуемых числовых структур](https://habr.com/ru/articles/961462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961462)
+- [Многофакторная обобщенная линейная модель](https://habr.com/ru/articles/961460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961460)
+- [Какую информацию можно включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961452)
 - [VS Code без боли: как я вернул фичи WebStorm для Angular-разработки](https://habr.com/ru/articles/961442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961442)
 - [Как протестировать криптосистему на замкнутость?](https://habr.com/ru/articles/961090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961090)
-- [CPython простыми словами: всё, что нужно знать начинающему](https://habr.com/ru/companies/otus/articles/960206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960206)
-- [Независимая радиосеть на базе смартфонов для децентрализованного интернета](https://habr.com/ru/articles/961360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
