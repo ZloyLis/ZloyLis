@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИТ-архитектура: что читать и чему учиться в ноябре &lpar;Kafka, gRPC, TOGAF, PostgreSQL и т.д.&rpar;](https://habr.com/ru/companies/otus/articles/960914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960914)
+- [Исследуем SharedFlow: emit vs tryEmit, как использовать replay и bufferCapacity](https://habr.com/ru/companies/wildberries/articles/960676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960676)
+- [Как тимлиду работать в visibility и зачем это нужно](https://habr.com/ru/companies/avito/articles/957322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957322)
 - [[Перевод] Кен Томпсон о взломе замков и рождении Unix](https://habr.com/ru/companies/ruvds/articles/961004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961004)
 - [Топ-10 нейросетей для написания песен и генерации музыки](https://habr.com/ru/companies/bothub/articles/960084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960084)
-- [OpenCode vs Droid: тест на реальных проектах](https://habr.com/ru/articles/961292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961292)
-- [Разработка электропривода. Часть 1. Вводная](https://habr.com/ru/articles/961260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961260)
-- [Как изменится программирование в мире, где роботы и люди начнут писать код совместно](https://habr.com/ru/articles/961270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
