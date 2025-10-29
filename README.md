@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet in the middle closure test](https://habr.com/ru/articles/961090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961090)
+- [Какую информацию включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961452)
+- [VS Code без боли: как я вернул фичи WebStorm для Angular-разработки](https://habr.com/ru/articles/961442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961442)
+- [Как протестировать криптосистему на замкнутость?](https://habr.com/ru/articles/961090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961090)
 - [CPython простыми словами: всё, что нужно знать начинающему](https://habr.com/ru/companies/otus/articles/960206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960206)
 - [Независимая радиосеть на базе смартфонов для децентрализованного интернета](https://habr.com/ru/articles/961360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961360)
-- [[Перевод] Ошибки, которые инженеры совершают при код-ревью](https://habr.com/ru/companies/spring_aio/articles/961332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961332)
-- [ИТ-архитектура: что читать и чему учиться в ноябре](https://habr.com/ru/companies/otus/articles/960914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
