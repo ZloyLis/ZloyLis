@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCode vs Droid: тест на реальных проектах](https://habr.com/ru/articles/961292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961292)
+- [Разработка электропривода. Часть 1. Вводная](https://habr.com/ru/articles/961260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961260)
+- [Как изменится программирование в мире, где роботы и люди начнут писать код совместно](https://habr.com/ru/articles/961270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961270)
+- [Fullstack monorepo: как перестать дублировать код между фронтом и бэком](https://habr.com/ru/articles/961252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961252)
 - [Как сделать идемпотентные API в Go: Idempotency-Key, дедуп в Redis/БД и защита от гонок](https://habr.com/ru/companies/otus/articles/960052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960052)
-- [Как корректно и безопасно вывести диски OSD и узлы из кластера Ceph: подробный алгоритм от команды VK Tech](https://habr.com/ru/companies/vktech/articles/960958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960958)
-- [От REST к gRPC и GraphQL: современный подход к API](https://habr.com/ru/articles/961000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961000)
-- [conway-errors: порядок в ошибках как часть архитектуры проекта](https://habr.com/ru/articles/961184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961184)
-- [SmileFace. Когда нейросеть улыбается тебе в ответ](https://habr.com/ru/articles/961178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
