@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уровни изоляции транзакций: практическая механика и сравнение PostgreSQL, MySQL, Oracle, SQL Server и DB2](https://habr.com/ru/articles/961134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961134)
+- [Как музыканты издеваются над программистами](https://habr.com/ru/companies/beget/articles/960648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960648)
+- [С каждым разом ты все опытнее: как я проходил собеседования в Data Science &lpar;и около&rpar;](https://habr.com/ru/companies/yandex_praktikum/articles/955320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955320)
+- [Тренды DevOps 2025: Новые версии K8s и OpenSearch. Гид по главным изменениям](https://habr.com/ru/articles/961124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961124)
 - [Отличительные особенности RED OS Mode](https://habr.com/ru/companies/redsoft/articles/961050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961050)
-- [Когда база устала искать: архитектура OpenSearch для больших данных](https://habr.com/ru/articles/961114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961114)
-- [Как я нашел криптографический бэкдор в крупнейшем даркнет-рынке: разбираем кражу $12 миллионов через уязвимость ECDSA](https://habr.com/ru/articles/961106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961106)
-- [ORM в Node.js — когда от него больше вреда чем пользы. Почему вам, не нужен дополнительный абстрактный слой](https://habr.com/ru/articles/959518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959518)
-- [ChatGPT: как пользоваться нейросетью в России](https://habr.com/ru/companies/bothub/articles/961068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
