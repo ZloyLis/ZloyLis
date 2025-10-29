@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Кен Томпсон о взломе замков и рождении Unix](https://habr.com/ru/companies/ruvds/articles/961004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961004)
+- [Топ-10 нейросетей для написания песен и генерации музыки](https://habr.com/ru/companies/bothub/articles/960084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960084)
 - [OpenCode vs Droid: тест на реальных проектах](https://habr.com/ru/articles/961292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961292)
 - [Разработка электропривода. Часть 1. Вводная](https://habr.com/ru/articles/961260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961260)
 - [Как изменится программирование в мире, где роботы и люди начнут писать код совместно](https://habr.com/ru/articles/961270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961270)
-- [Fullstack monorepo: как перестать дублировать код между фронтом и бэком](https://habr.com/ru/articles/961252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961252)
-- [Как сделать идемпотентные API в Go: Idempotency-Key, дедуп в Redis/БД и защита от гонок](https://habr.com/ru/companies/otus/articles/960052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
