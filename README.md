@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Уровни изоляции транзакций: практическая механика и сравнение PostgreSQL, MySQL, Oracle, SQL Server и DB2](https://habr.com/ru/articles/961134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961134)
-- [Как музыканты издеваются над программистами](https://habr.com/ru/companies/beget/articles/960648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960648)
-- [С каждым разом ты все опытнее: как я проходил собеседования в Data Science &lpar;и около&rpar;](https://habr.com/ru/companies/yandex_praktikum/articles/955320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955320)
-- [Тренды DevOps 2025: Новые версии K8s и OpenSearch. Гид по главным изменениям](https://habr.com/ru/articles/961124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961124)
-- [Отличительные особенности RED OS Mode](https://habr.com/ru/companies/redsoft/articles/961050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961050)
+- [Один Swagger вместо сотни страниц Confluence: как в Рунити навели порядок в API-документации](https://habr.com/ru/companies/runity/articles/961156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961156)
+- [Выбираем векторную БД для AI-агентов и RAG: большой обзор баз данных и поиск смысла](https://habr.com/ru/articles/961088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961088)
+- [Я решал LeetCode 600 дней подряд и что из этого вышло](https://habr.com/ru/companies/betboom/articles/959246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959246)
+- [Извечный вопрос: происхождение жизни на Земле](https://habr.com/ru/companies/ua-hosting/articles/960820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960820)
+- [Atlas для Яндекса: как аналитики смотрят на карту, проверяют гипотезы и не тонут в данных](https://habr.com/ru/companies/yandex/articles/959860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
