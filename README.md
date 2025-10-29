@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отличительные особенности RED OS Mode](https://habr.com/ru/companies/redsoft/articles/961050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961050)
+- [Когда база устала искать: архитектура OpenSearch для больших данных](https://habr.com/ru/articles/961114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961114)
+- [Как я нашел криптографический бэкдор в крупнейшем даркнет-рынке: разбираем кражу $12 миллионов через уязвимость ECDSA](https://habr.com/ru/articles/961106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961106)
+- [ORM в Node.js — когда от него больше вреда чем пользы. Почему вам, не нужен дополнительный абстрактный слой](https://habr.com/ru/articles/959518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959518)
 - [ChatGPT: как пользоваться нейросетью в России](https://habr.com/ru/companies/bothub/articles/961068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961068)
-- [How to make 3D Skeletal animation system — custom overview](https://habr.com/ru/articles/961058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961058)
-- [Что еще могёт курсор](https://habr.com/ru/articles/961056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961056)
-- [Делаем самые лучшие фото для документов](https://habr.com/ru/articles/960714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960714)
-- [Сверхтьюринговые вычисления и гиперкомпьютеры. Тезис Чёрча-Тьюринга как универсальный предел познания](https://habr.com/ru/articles/961020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
