@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать идемпотентные API в Go: Idempotency-Key, дедуп в Redis/БД и защита от гонок](https://habr.com/ru/companies/otus/articles/960052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960052)
+- [Как корректно и безопасно вывести диски OSD и узлы из кластера Ceph: подробный алгоритм от команды VK Tech](https://habr.com/ru/companies/vktech/articles/960958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960958)
 - [От REST к gRPC и GraphQL: современный подход к API](https://habr.com/ru/articles/961000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961000)
 - [conway-errors: порядок в ошибках как часть архитектуры проекта](https://habr.com/ru/articles/961184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961184)
 - [SmileFace. Когда нейросеть улыбается тебе в ответ](https://habr.com/ru/articles/961178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961178)
-- [Семь кругов финтеха глазами разработчика: что ломается в платёжных интеграциях](https://habr.com/ru/companies/oleg-bunin/articles/955854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955854)
-- [Попросил ChatGPT-4o и ChatGPT-5 помочь вкатиться в ML. Да они же одинаковые, Наташ](https://habr.com/ru/companies/profi_ru/articles/961170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
