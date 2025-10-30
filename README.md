@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Gradle для QA-инженера](https://habr.com/ru/articles/959912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959912)
+- [DevTools для дизайнера. Быстрый старт](https://habr.com/ru/companies/Voximplant/articles/961608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961608)
 - [Digital и маркетинг: где учиться, чтобы быть востребованным](https://habr.com/ru/companies/habr_career/articles/961604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961604)
 - [Когда .arb не тянет: как я подключаю TMS к Flutter-проекту](https://habr.com/ru/companies/friflex/articles/961602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961602)
 - [Как собрать датасет фотографий с помощью LLM: опыт вайб-фильтров](https://habr.com/ru/companies/2gis/articles/960016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960016)
-- [Аргументы воркеров в Node.js и на что они влияют](https://habr.com/ru/articles/961586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961586)
-- [Интервью с автором книги «Архитектура бэкенда. API для надёжных корпоративных приложений»](https://habr.com/ru/companies/bhv_publishing/articles/961570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
