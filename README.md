@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git-хук, который делает ваши коммиты и MR сразу понятными](https://habr.com/ru/articles/961456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961456)
+- [Дашборды: между красотой и эффективностью](https://habr.com/ru/companies/ozontech/articles/960546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960546)
+- [«Автопилот» для HeadHunter — как я потратил 100 часов на бота- чтобы сэкономить тысячи часов айтишникам на поиске работы](https://habr.com/ru/articles/961496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961496)
+- [История автоматизации процессов: сто лет смены ярлыков](https://habr.com/ru/articles/961218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961218)
 - [Абсолютный конструктивный предел: ординальный анализ границы формализуемых числовых структур](https://habr.com/ru/articles/961462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961462)
-- [Многофакторная обобщенная линейная модель](https://habr.com/ru/articles/961460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961460)
-- [Какую информацию можно включать в базу знаний тестировщиков, чтобы это было полезно](https://habr.com/ru/articles/961452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961452)
-- [VS Code без боли: как я вернул фичи WebStorm для Angular-разработки](https://habr.com/ru/articles/961442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961442)
-- [Как протестировать криптосистему на замкнутость?](https://habr.com/ru/articles/961090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
