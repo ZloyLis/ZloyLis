@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital и маркетинг: где учиться, чтобы быть востребованным](https://habr.com/ru/companies/habr_career/articles/961604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961604)
+- [Когда .arb не тянет: как я подключаю TMS к Flutter-проекту](https://habr.com/ru/companies/friflex/articles/961602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961602)
+- [Как собрать датасет фотографий с помощью LLM: опыт вайб-фильтров](https://habr.com/ru/companies/2gis/articles/960016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960016)
+- [Аргументы воркеров в Node.js и на что они влияют](https://habr.com/ru/articles/961586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961586)
 - [Интервью с автором книги «Архитектура бэкенда. API для надёжных корпоративных приложений»](https://habr.com/ru/companies/bhv_publishing/articles/961570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961570)
-- [Как автоматизировать подготовку отчетности в Word: макросы на практике](https://habr.com/ru/companies/pt/articles/961006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961006)
-- [Больше, чем BI: 23 фичи Luxms BI, которыми мы гордимся. Часть 2: Функционал классической BI-системы](https://habr.com/ru/companies/luxms_bi/articles/961378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961378)
-- [Автодополнение кода на примере YQL в YDB CLI](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/953956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953956)
-- [Безопасный доступ к внутренним сервисам: Keycloak, OAuth2 и немного Nginx‑магии](https://habr.com/ru/companies/first/articles/960862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
