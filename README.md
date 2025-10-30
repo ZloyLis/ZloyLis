@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gradle для QA-инженера](https://habr.com/ru/articles/959912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959912)
-- [DevTools для дизайнера. Быстрый старт](https://habr.com/ru/companies/Voximplant/articles/961608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961608)
-- [Digital и маркетинг: где учиться, чтобы быть востребованным](https://habr.com/ru/companies/habr_career/articles/961604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961604)
-- [Когда .arb не тянет: как я подключаю TMS к Flutter-проекту](https://habr.com/ru/companies/friflex/articles/961602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961602)
-- [Как собрать датасет фотографий с помощью LLM: опыт вайб-фильтров](https://habr.com/ru/companies/2gis/articles/960016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960016)
+- [«Это почти не больно»: внедряем DevOps as a Service в Enterprise](https://habr.com/ru/companies/chislitellab/articles/961234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961234)
+- [EAV Bundle](https://habr.com/ru/articles/961676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961676)
+- [ИИ замедляет разработчиков? Почему промты съедают столько же времени, сколько код, и что с этим делать](https://habr.com/ru/companies/surfstudio/articles/961548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961548)
+- [Быстрее, чище, стабильнее: как мы ускорили UI-тесты в iOS в 2,5 раза](https://habr.com/ru/companies/vk/articles/961616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961616)
+- [[Перевод] URLPattern теперь доступен в Baseline](https://habr.com/ru/companies/timeweb/articles/960722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
