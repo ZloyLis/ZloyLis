@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автодополнение кода на примере YQL в YDB CLI](https://habr.com/ru/companies/ydb/articles/953956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953956)
+- [Интервью с автором книги «Архитектура бэкенда. API для надёжных корпоративных приложений»](https://habr.com/ru/companies/bhv_publishing/articles/961570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961570)
+- [Как автоматизировать подготовку отчетности в Word: макросы на практике](https://habr.com/ru/companies/pt/articles/961006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961006)
+- [Больше, чем BI: 23 фичи Luxms BI, которыми мы гордимся. Часть 2: Функционал классической BI-системы](https://habr.com/ru/companies/luxms_bi/articles/961378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961378)
+- [Автодополнение кода на примере YQL в YDB CLI](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/953956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953956)
 - [Безопасный доступ к внутренним сервисам: Keycloak, OAuth2 и немного Nginx‑магии](https://habr.com/ru/companies/first/articles/960862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960862)
-- [Как протестировать криптосистему на замкнутость?](https://habr.com/ru/articles/961526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961526)
-- [Рисуем бизнес-процессы в нотации Archimate](https://habr.com/ru/companies/otus/articles/960794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960794)
-- [Маленькая RAM vs новые фичи: как мы повышаем детализацию Карт и сохраняем стабильность](https://habr.com/ru/companies/yandex/articles/961204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
