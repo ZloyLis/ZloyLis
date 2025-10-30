@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Green Tea: новый экспериментальный сборщик мусора в Go](https://habr.com/ru/articles/961780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961780)
 - [Методика оценки вклада сегмента в общее изменение метрики](https://habr.com/ru/companies/magnit/articles/961594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961594)
 - [Взаимодействие с пользователем в макросах «Р7-Офис» Часть 2. Взаимодействие почти легальными способами](https://habr.com/ru/articles/961720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961720)
 - [[Перевод] Final должен быть значением по умолчанию для Java-классов](https://habr.com/ru/companies/spring_aio/articles/961686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961686)
 - [Рейтинг контента и пользователей на основе офелократии. Часть 1](https://habr.com/ru/companies/ruvds/articles/961040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961040)
-- [«Это почти не больно»: внедряем DevOps as a Service в Enterprise](https://habr.com/ru/companies/chislitellab/articles/961234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
