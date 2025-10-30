@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git-хук, который делает ваши коммиты и MR сразу понятными](https://habr.com/ru/articles/961456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961456)
+- [Рисуем бизнес-процессы в нотации Archimate](https://habr.com/ru/companies/otus/articles/960794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960794)
+- [Маленькая RAM vs новые фичи: как мы повышаем детализацию Карт и сохраняем стабильность](https://habr.com/ru/companies/yandex/articles/961204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961204)
+- [Использование расширения pg_expecto для проактивного мониторинга производительности СУБД PostgreSQL](https://habr.com/ru/articles/961518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961518)
 - [Дашборды: между красотой и эффективностью](https://habr.com/ru/companies/ozontech/articles/960546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960546)
 - [«Автопилот» для HeadHunter — как я потратил 100 часов на бота- чтобы сэкономить тысячи часов айтишникам на поиске работы](https://habr.com/ru/articles/961496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961496)
-- [История автоматизации процессов: сто лет смены ярлыков](https://habr.com/ru/articles/961218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961218)
-- [Абсолютный конструктивный предел: ординальный анализ границы формализуемых числовых структур](https://habr.com/ru/articles/961462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
