@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Октябрьский Flutter-дайджест](https://habr.com/ru/articles/962010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962010)
+- [[Перевод] Алгоритмы генерации diff](https://habr.com/ru/articles/960290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960290)
 - [Опрос для тех, кто в тяжёлой цифре, и тех, кто про неё думает](https://habr.com/ru/specials/961246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961246)
 - [Геймификация: как игровые механики помогают в обучении?](https://habr.com/ru/companies/simbirsoft/articles/961968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961968)
 - [Как мы обучали дизайнеров VK проводить немодерируемые тесты. Сказ о разработке программы](https://habr.com/ru/companies/vk/articles/961712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961712)
-- [Ученые выяснили, как стабилизируется обучение нейросетей при увеличении объема данных](https://habr.com/ru/articles/961694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961694)
-- [Архитектура ИТ решений. Часть 4. Архитектура приложений. 4.2. Портфель прикладных систем](https://habr.com/ru/articles/961910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
