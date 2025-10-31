@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Кастомная сериализация с помощью kotlinx.serialization](https://habr.com/ru/companies/okko/articles/961848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961848)
-- [Недетские страшилки: как сломать ITSM-систему своими доработками](https://habr.com/ru/companies/itarena/articles/962100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962100)
-- [Собираем «тот самый» экран блокировки: без лишних виджетов и с защищенным доступом](https://habr.com/ru/companies/kaspersky/articles/960678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960678)
-- [«Плюсы» на термометре: греемся докладами про C++ и Linux на митапе о низкоуровневой разработке](https://habr.com/ru/companies/yadro/articles/962096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962096)
-- [[Перевод] Rust без паник: дельная техника для системного программирования](https://habr.com/ru/articles/962070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962070)
+- [Наш пятый запуск в ии-стартапе, &lpar;не&rpar;много факапов и еще один sold out](https://habr.com/ru/articles/962156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962156)
+- [Всегда ли сегментация данных при анализе увеличивает эффективность экспериментов?](https://habr.com/ru/companies/avito/articles/961536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961536)
+- [Как стримить большие ответы в Django через StreamingHttpResponse и async-генераторы](https://habr.com/ru/companies/otus/articles/960036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960036)
+- [Разработали кастомный модуль Битрикс24, чтобы С-Маркетинг узнал реальный вклад каждого из 1300+ сотрудников](https://habr.com/ru/companies/dalee_group/articles/959892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959892)
+- [Жизнь как коробка с печеньками: что скрывают cookie-баннеры](https://habr.com/ru/companies/ruvds/articles/961074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
