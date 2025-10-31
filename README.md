@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Накрутка опыта, дурдом в IT найме и жизнь в постоянном обмане](https://habr.com/ru/articles/958614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958614)
-- [Thefittest: зачем я пишу свою open-source библиотеку эволюционных алгоритмов](https://habr.com/ru/articles/961924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961924)
-- [[Перевод] Новый асинхронный ввод/вывод в Zig](https://habr.com/ru/articles/961914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961914)
-- [Как ускорить проверку приложения с помощью Impact-анализа &lpar;Часть 2&rpar;: Unit-тесты](https://habr.com/ru/companies/cian/articles/958558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958558)
-- [Яндекс, Ozon или Wildberries, что взять за референс при разработке собственного маркетплейса?](https://habr.com/ru/articles/961872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961872)
+- [Опрос для тех, кто в тяжёлой цифре, и тех, кто про неё думает](https://habr.com/ru/specials/961246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961246)
+- [Геймификация: как игровые механики помогают в обучении?](https://habr.com/ru/companies/simbirsoft/articles/961968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961968)
+- [Как мы обучали дизайнеров VK проводить немодерируемые тесты. Сказ о разработке программы](https://habr.com/ru/companies/vk/articles/961712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961712)
+- [Ученые выяснили, как стабилизируется обучение нейросетей при увеличении объема данных](https://habr.com/ru/articles/961694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961694)
+- [Архитектура ИТ решений. Часть 4. Архитектура приложений. 4.2. Портфель прикладных систем](https://habr.com/ru/articles/961910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
