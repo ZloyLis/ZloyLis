@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Октябрьский Flutter-дайджест](https://habr.com/ru/articles/962010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962010)
-- [[Перевод] Алгоритмы генерации diff](https://habr.com/ru/articles/960290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960290)
-- [Опрос для тех, кто в тяжёлой цифре, и тех, кто про неё думает](https://habr.com/ru/specials/961246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961246)
-- [Геймификация: как игровые механики помогают в обучении?](https://habr.com/ru/companies/simbirsoft/articles/961968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961968)
-- [Как мы обучали дизайнеров VK проводить немодерируемые тесты. Сказ о разработке программы](https://habr.com/ru/companies/vk/articles/961712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961712)
+- [Главный релиз года. Встречаем Кибер Бэкап 18](https://habr.com/ru/companies/cyberprotect/articles/961892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961892)
+- [[Перевод] Rust 1.91.0: aarch64-pc-windows-msvc на Tier 1, отлавливание сырых указателей](https://habr.com/ru/articles/962050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962050)
+- [200 неиспользуемых ноутбуков на складе: как ИТ-отделы покупают лишнее оборудование](https://habr.com/ru/companies/simpleone/articles/962042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962042)
+- [[Перевод] Распределенный монолит: тихий убийца мечты о микросервисах](https://habr.com/ru/companies/piter/articles/961258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961258)
+- [Мой сын не собирает LEGO замки. Урок UX](https://habr.com/ru/articles/962032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
