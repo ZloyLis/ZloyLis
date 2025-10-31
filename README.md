@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Как измерить удовлетворенность пользователей, у которых нет выбора](https://habr.com/ru/companies/zyfra/articles/962204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962204)
 - [Schema-Guided Reasoning: как научить языковые модели последовательно рассуждать](https://habr.com/ru/companies/redmadrobot/articles/962236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962236)
-- [Наш пятый запуск в ии-стартапе, &lpar;не&rpar;много факапов и еще один sold out](https://habr.com/ru/articles/962156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962156)
 - [Всегда ли сегментация данных при анализе увеличивает эффективность экспериментов?](https://habr.com/ru/companies/avito/articles/961536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961536)
 - [Как стримить большие ответы в Django через StreamingHttpResponse и async-генераторы](https://habr.com/ru/companies/otus/articles/960036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960036)
+- [Разработали кастомный модуль Битрикс24, чтобы С-Маркетинг узнал реальный вклад каждого из 1300+ сотрудников](https://habr.com/ru/companies/dalee_group/articles/959892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
