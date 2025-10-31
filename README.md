@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кастомная сериализация с помощью kotlinx.serialization](https://habr.com/ru/companies/okko/articles/961848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961848)
+- [Недетские страшилки: как сломать ITSM-систему своими доработками](https://habr.com/ru/companies/itarena/articles/962100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962100)
+- [Собираем «тот самый» экран блокировки: без лишних виджетов и с защищенным доступом](https://habr.com/ru/companies/kaspersky/articles/960678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960678)
+- [«Плюсы» на термометре: греемся докладами про C++ и Linux на митапе о низкоуровневой разработке](https://habr.com/ru/companies/yadro/articles/962096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962096)
 - [[Перевод] Rust без паник: дельная техника для системного программирования](https://habr.com/ru/articles/962070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962070)
-- [Главный релиз года. Встречаем Кибер Бэкап 18](https://habr.com/ru/companies/cyberprotect/articles/961892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961892)
-- [[Перевод] Rust 1.91.0: aarch64-pc-windows-msvc на Tier 1, отлавливание сырых указателей](https://habr.com/ru/articles/962050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962050)
-- [200 неиспользуемых ноутбуков на складе: как ИТ-отделы покупают лишнее оборудование](https://habr.com/ru/companies/simpleone/articles/962042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962042)
-- [[Перевод] Распределенный монолит: тихий убийца мечты о микросервисах](https://habr.com/ru/companies/piter/articles/961258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
