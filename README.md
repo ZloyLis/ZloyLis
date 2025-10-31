@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Rust без паник: дельная техника для системного программирования](https://habr.com/ru/articles/962070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962070)
 - [Главный релиз года. Встречаем Кибер Бэкап 18](https://habr.com/ru/companies/cyberprotect/articles/961892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961892)
 - [[Перевод] Rust 1.91.0: aarch64-pc-windows-msvc на Tier 1, отлавливание сырых указателей](https://habr.com/ru/articles/962050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962050)
 - [200 неиспользуемых ноутбуков на складе: как ИТ-отделы покупают лишнее оборудование](https://habr.com/ru/companies/simpleone/articles/962042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962042)
 - [[Перевод] Распределенный монолит: тихий убийца мечты о микросервисах](https://habr.com/ru/companies/piter/articles/961258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961258)
-- [Мой сын не собирает LEGO замки. Урок UX](https://habr.com/ru/articles/962032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
