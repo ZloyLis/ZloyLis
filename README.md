@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Топ 5 причин, когда JavaScript блокирует загрузку вашего сайта](https://habr.com/ru/articles/962538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962538)
 - [Офлайн-конвертер PNG в WebP прямо в браузере](https://habr.com/ru/articles/962532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962532)
-- [Как мы подключали Supabase к проекту, как в Lovable](https://habr.com/ru/articles/962526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962526)
 - [Почему ваш AI-ассистент пишет «вырвиглазный» код, и как это исправить грубой силой](https://habr.com/ru/articles/962490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962490)
 - [Я нанял джуна в свой open source проект. Вот что получилось](https://habr.com/ru/articles/962468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962468)
+- [[Перевод] Техники обхода систем обнаружения: маскировка путей и BYOVD](https://habr.com/ru/companies/cloud4y/articles/962456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
