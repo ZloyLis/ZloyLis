@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Учимся предсказывать конверсию в завершение опроса. Часть 1](https://habr.com/ru/articles/962454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962454)
+- [Публикация PWA в App Store и Play Store на github actions](https://habr.com/ru/articles/855830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855830)
+- [Будущее рядом: как искусственный интеллект меняет работу](https://habr.com/ru/articles/962444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962444)
 - [Мой подход к обучению. ИИ-ментор](https://habr.com/ru/articles/962426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962426)
 - [Тонкости обновления драйверов NVIDIA в Yandex Managed Kubernetes](https://habr.com/ru/companies/kts/articles/962396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962396)
-- [Scala Digest. Выпуск 34](https://habr.com/ru/companies/tbank/articles/962376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962376)
-- [Компилер-пассы и тегированные локаторы: делаем плагинную архитектуру на DI](https://habr.com/ru/companies/otus/articles/960702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960702)
-- [Как мы в Авито обучили ML-модель находить «договорённости» без данных о сделках](https://habr.com/ru/companies/avito/articles/961988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
