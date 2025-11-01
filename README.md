@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С появлением ИИ работа опытного программиста стала намного сложнее](https://habr.com/ru/articles/962146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962146)
 - [[Перевод] Два новых линта в Dart 3.9](https://habr.com/ru/articles/962310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962310)
 - [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за октябрь 2025 года](https://habr.com/ru/articles/958800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958800)
 - [Управление техническим состоянием объектов путевой инфраструктуры с применением информационных технологий](https://habr.com/ru/articles/962308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962308)
 - [Как измерить удовлетворенность пользователей, у которых нет выбора](https://habr.com/ru/companies/zyfra/articles/962204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962204)
-- [Schema-Guided Reasoning: как научить языковые модели последовательно рассуждать](https://habr.com/ru/companies/redmadrobot/articles/962236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
