@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я нанял джуна в свой open source проект. Вот что получилось](https://habr.com/ru/articles/962468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962468)
+- [[Перевод] Техники обхода систем обнаружения: маскировка путей и BYOVD](https://habr.com/ru/companies/cloud4y/articles/962456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962456)
 - [Учимся предсказывать конверсию в завершение опроса. Часть 1](https://habr.com/ru/articles/962454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962454)
 - [Публикация PWA в App Store и Play Store на github actions](https://habr.com/ru/articles/855830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=855830)
 - [Будущее рядом: как искусственный интеллект меняет работу](https://habr.com/ru/articles/962444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962444)
-- [Мой подход к обучению. ИИ-ментор](https://habr.com/ru/articles/962426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962426)
-- [Тонкости обновления драйверов NVIDIA в Yandex Managed Kubernetes](https://habr.com/ru/companies/kts/articles/962396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
