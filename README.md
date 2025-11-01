@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собеседование QA-инженера: 5 вещей, к которым нужно быть готовым](https://habr.com/ru/companies/yandex_praktikum/articles/958734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958734)
 - [Outbox pattern для System Design Интервью](https://habr.com/ru/articles/962286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962286)
 - [Автоматическая регрессия по git-diff. Как мы связали код, фичи и тесты, открыв путь к Continuous Delivery &lpar;Full&rpar;](https://habr.com/ru/articles/962330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962330)
 - [Компактный runtime-DI для Java: JSR-330, Class-File API и миграция за 2 дня](https://habr.com/ru/articles/962326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962326)
 - [Как «жыбий рыр» кейс делал](https://habr.com/ru/articles/962284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962284)
-- [Mobile System Design](https://habr.com/ru/articles/958940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
