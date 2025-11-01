@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы обучили ML-модель находить «договорённости» без данных о сделках: кейс Авито](https://habr.com/ru/companies/avito/articles/961988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961988)
+- [Компилер-пассы и тегированные локаторы: делаем плагинную архитектуру на DI](https://habr.com/ru/companies/otus/articles/960702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960702)
+- [Как мы в Авито обучили ML-модель находить «договорённости» без данных о сделках](https://habr.com/ru/companies/avito/articles/961988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961988)
 - [Эволюция и применение диффузионных моделей](https://habr.com/ru/articles/962176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962176)
 - [Собеседование QA-инженера: 5 вещей, к которым нужно быть готовым](https://habr.com/ru/companies/yandex_praktikum/articles/958734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958734)
 - [Outbox pattern для System Design Интервью](https://habr.com/ru/articles/962286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962286)
-- [Автоматическая регрессия по git-diff. Как мы связали код, фичи и тесты, открыв путь к Continuous Delivery &lpar;Full&rpar;](https://habr.com/ru/articles/962330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962330)
 <!-- BLOG-POST-LIST:END -->
 
 ---
