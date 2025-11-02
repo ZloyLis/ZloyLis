@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор как форпост свободы и анонимности в Интернете](https://habr.com/ru/articles/962586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962586)
 - [[Перевод] Не искушайте пользователей делением на ноль](https://habr.com/ru/articles/962516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962516)
 - [Топ 5 причин, когда JavaScript блокирует загрузку вашего сайта](https://habr.com/ru/articles/962538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962538)
 - [Офлайн-конвертер PNG в WebP прямо в браузере](https://habr.com/ru/articles/962532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962532)
 - [Почему ваш AI-ассистент пишет «вырвиглазный» код, и как это исправить грубой силой](https://habr.com/ru/articles/962490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962490)
-- [Я нанял джуна в свой open source проект. Вот что получилось](https://habr.com/ru/articles/962468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
