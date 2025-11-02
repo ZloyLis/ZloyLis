@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем свою мобильную ОС с нуля на Rust](https://habr.com/ru/articles/962680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962680)
 - [Делаем Electron UI более «нативным». Простой гайд из 15 шагов](https://habr.com/ru/articles/962558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962558)
 - [Excommunicado. Прецедент Едилова](https://habr.com/ru/articles/962674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962674)
 - [Ретровайб из 90-х: RFC по нетикету, развитию интернета и… варке кофе](https://habr.com/ru/companies/beeline_cloud/articles/962654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962654)
 - [Ноябрь 2025: обновленный рейтинг технологий от TrueIndex](https://habr.com/ru/articles/962656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962656)
-- [PID 1 на минималках: свой init, который жмёт зомби](https://habr.com/ru/companies/otus/articles/961858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
