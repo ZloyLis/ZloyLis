@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Просто используй кнопку](https://habr.com/ru/articles/962632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962632)
 - [[Перевод] Мои личные скрипты для повседневной работы](https://habr.com/ru/companies/ruvds/articles/961514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961514)
 - [[Перевод] Насколько Java быстрая?](https://habr.com/ru/companies/spring_aio/articles/962604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962604)
 - [Почему библиотеки на С такие кривые](https://habr.com/ru/articles/962600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962600)
 - [Роскомнадзор как форпост свободы и анонимности в Интернете](https://habr.com/ru/articles/962586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962586)
-- [[Перевод] Не искушайте пользователей делением на ноль](https://habr.com/ru/articles/962516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
