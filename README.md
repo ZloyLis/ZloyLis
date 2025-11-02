@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Excommunicado. Прецедент Едилова](https://habr.com/ru/articles/962674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962674)
+- [Ретровайб из 90-х: RFC по нетикету, развитию интернета и… варке кофе](https://habr.com/ru/companies/beeline_cloud/articles/962654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962654)
 - [Ноябрь 2025: обновленный рейтинг технологий от TrueIndex](https://habr.com/ru/articles/962656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962656)
 - [PID 1 на минималках: свой init, который жмёт зомби](https://habr.com/ru/companies/otus/articles/961858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961858)
 - [[Перевод] Просто используй кнопку](https://habr.com/ru/articles/962632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962632)
-- [[Перевод] Мои личные скрипты для повседневной работы](https://habr.com/ru/companies/ruvds/articles/961514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961514)
-- [[Перевод] Насколько Java быстрая?](https://habr.com/ru/companies/spring_aio/articles/962604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
