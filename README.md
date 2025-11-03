@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как строится внутренняя исследовательская лаборатория в IT: от миссии до метрик успеха](https://habr.com/ru/articles/962742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962742)
+- [Заменяем лишние if-проверки на assert для инвариантов кода в C/C++](https://habr.com/ru/articles/962668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962668)
 - [[Перевод] Как мы освободили 7 ТиБ памяти](https://habr.com/ru/articles/962642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962642)
 - [С go на C++ за две недели. Переписываю эмулятор ZX Spectrum](https://habr.com/ru/articles/962612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962612)
 - [[Перевод] Ранняя история алгебраических типов данных](https://habr.com/ru/articles/962522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962522)
-- [Ученые из МФТИ выяснили, сколько данных нужно для ИИ](https://habr.com/ru/articles/961716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961716)
-- [Пишем свою мобильную ОС с нуля на Rust](https://habr.com/ru/articles/962680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
