@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сборка docker image под windows](https://habr.com/ru/articles/962796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962796)
 - [AdGuard DNS: от нуля до 100 000 000 пользователей через боль](https://habr.com/ru/companies/oleg-bunin/articles/958922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958922)
 - [Как строится внутренняя исследовательская лаборатория в IT: от миссии до метрик успеха](https://habr.com/ru/articles/962742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962742)
 - [Заменяем лишние if-проверки на assert для инвариантов кода в C/C++](https://habr.com/ru/articles/962668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962668)
 - [[Перевод] Как мы освободили 7 ТиБ памяти](https://habr.com/ru/articles/962642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962642)
-- [С go на C++ за две недели. Переписываю эмулятор ZX Spectrum](https://habr.com/ru/articles/962612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
