@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заводим друзей в C# &lpar;аки C++ friend, однако, более того&rpar;](https://habr.com/ru/articles/961264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961264)
 - [Отказ от DevExpress Reports: переход на собственную систему отчетности](https://habr.com/ru/articles/962804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962804)
 - [Паттерны ООП в 10 минутах от вас… Поведенческие шаблоны с примерами на Java](https://habr.com/ru/companies/ruvds/articles/960366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960366)
 - [Сборка docker image под windows](https://habr.com/ru/articles/962796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962796)
 - [AdGuard DNS: от нуля до 100 000 000 пользователей через боль](https://habr.com/ru/companies/oleg-bunin/articles/958922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958922)
-- [Как строится внутренняя исследовательская лаборатория в IT: от миссии до метрик успеха](https://habr.com/ru/articles/962742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
