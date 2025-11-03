@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как мы освободили 7 ТиБ памяти](https://habr.com/ru/articles/962642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962642)
+- [С go на C++ за две недели. Переписываю эмулятор ZX Spectrum](https://habr.com/ru/articles/962612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962612)
+- [[Перевод] Ранняя история алгебраических типов данных](https://habr.com/ru/articles/962522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962522)
 - [Ученые из МФТИ выяснили, сколько данных нужно для ИИ](https://habr.com/ru/articles/961716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961716)
 - [Пишем свою мобильную ОС с нуля на Rust](https://habr.com/ru/articles/962680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962680)
-- [Делаем Electron UI более «нативным». Простой гайд из 15 шагов](https://habr.com/ru/articles/962558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962558)
-- [Ретровайб из 90-х: RFC по нетикету, развитию интернета и… варке кофе](https://habr.com/ru/companies/beeline_cloud/articles/962654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962654)
-- [Ноябрь 2025: обновленный рейтинг технологий от TrueIndex](https://habr.com/ru/articles/962656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
