@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ADSM: видеочат на WebRTC через Codex-агента](https://habr.com/ru/articles/963082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963082)
 - [Визуализация горного ландшафта на C++ или велосипед для рендеринга](https://habr.com/ru/articles/963038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963038)
 - [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 3: Статус тестирования и Эффективность исправления багов](https://habr.com/ru/articles/893620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=893620)
 - [Тело AI-агентов: технический обзор робота 1X Neo](https://habr.com/ru/articles/963020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963020)
 - [Почему Pascal лучше для обучения программированию, чем Python](https://habr.com/ru/articles/963014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963014)
-- [[Перевод] Можно ли научить ИИ писать более качественные тексты?](https://habr.com/ru/companies/wunderfund/articles/955824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
