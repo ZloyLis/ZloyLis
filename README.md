@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подружить Hamcrest с POJO](https://habr.com/ru/articles/962990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962990)
 - [Гайд по Веб Компонентам &lpar;Web Components&rpar;](https://habr.com/ru/articles/962956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962956)
 - [Как использовать callback-функции в JavaScript](https://habr.com/ru/companies/selectel/articles/962120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962120)
 - [Физики-теоретики разработали новый универсальный метод «скручивания» пространства-времени в 11 измерениях](https://habr.com/ru/articles/961724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961724)
 - [Как пробить днище проекта техдолгом без смс и регистрации](https://habr.com/ru/articles/962916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962916)
-- [[Перевод] URL как контейнер состояния](https://habr.com/ru/articles/962828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
