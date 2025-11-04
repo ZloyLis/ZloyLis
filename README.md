@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Физики-теоретики разработали новый универсальный метод «скручивания» пространства-времени в 11 измерениях](https://habr.com/ru/articles/961724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961724)
+- [Как пробить днище проекта техдолгом без смс и регистрации](https://habr.com/ru/articles/962916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962916)
+- [[Перевод] URL как контейнер состояния](https://habr.com/ru/articles/962828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962828)
 - [Единая теория всего… в 3D графике? Разбираем алгебру Клиффорда как универсальный язык геометрии](https://habr.com/ru/articles/962800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962800)
 - [Заводим друзей в C# &lpar;аки C++ friend, однако, более того&rpar;](https://habr.com/ru/articles/961264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961264)
-- [Отказ от DevExpress Reports: переход на собственную систему отчетности](https://habr.com/ru/articles/962804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962804)
-- [Паттерны ООП в 10 минутах от вас… Поведенческие шаблоны с примерами на Java](https://habr.com/ru/companies/ruvds/articles/960366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960366)
-- [Сборка docker image под windows](https://habr.com/ru/articles/962796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
