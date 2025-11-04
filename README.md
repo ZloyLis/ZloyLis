@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользовательский опыт остается заложником предубеждений. MAX и Telegram](https://habr.com/ru/articles/963118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963118)
 - [Я спросил у ясеня… &lpar;закуётся ли он в железо&rpar;](https://habr.com/ru/articles/963114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963114)
 - [Почему Fortran в 2025 году всё ещё остаётся «ракетой»](https://habr.com/ru/articles/963100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963100)
 - [ADSM: видеочат на WebRTC через Codex-агента](https://habr.com/ru/articles/963082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963082)
 - [Визуализация горного ландшафта на C++ или велосипед для рендеринга](https://habr.com/ru/articles/963038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963038)
-- [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 3: Статус тестирования и Эффективность исправления багов](https://habr.com/ru/articles/893620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=893620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
