@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Визуализация горного ландшафта на C++ или велосипед для рендеринга](https://habr.com/ru/articles/963038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963038)
+- [[Перевод] Метрики качества: Изучи, Примени, Внедри. Часть 3: Статус тестирования и Эффективность исправления багов](https://habr.com/ru/articles/893620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=893620)
+- [Тело AI-агентов: технический обзор робота 1X Neo](https://habr.com/ru/articles/963020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963020)
+- [Почему Pascal лучше для обучения программированию, чем Python](https://habr.com/ru/articles/963014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963014)
 - [[Перевод] Можно ли научить ИИ писать более качественные тексты?](https://habr.com/ru/companies/wunderfund/articles/955824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955824)
-- [[Перевод] Математический парадокс показывает, как сочетание проигрышных стратегий может привести к победе](https://habr.com/ru/articles/963008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963008)
-- [Как подружить Hamcrest с POJO](https://habr.com/ru/articles/962990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962990)
-- [Гайд по Веб Компонентам &lpar;Web Components&rpar;](https://habr.com/ru/articles/962956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962956)
-- [Как использовать callback-функции в JavaScript](https://habr.com/ru/companies/selectel/articles/962120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
