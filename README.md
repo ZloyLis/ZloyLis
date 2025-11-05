@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создать мобильное приложение с zero опыта: рассказываю, как создавал свой первый проект на Java](https://habr.com/ru/companies/ru_mts/articles/963158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963158)
+- [Веб. К черту фреймворки! Пишем свой starter-kit с роутером и сторами. Часть 3](https://habr.com/ru/articles/962778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962778)
 - [Шестидесятилетний заключённый и лабораторная крыса. F# на Godot. Часть 11. Описываем деревья](https://habr.com/ru/companies/first/articles/962564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962564)
 - [Что такое веб-сервер в Node.js и как его запустить на удаленном сервере](https://habr.com/ru/companies/selectel/articles/963218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963218)
 - [Обзор возможностей для разработчиков при работе с VK Mini Apps](https://habr.com/ru/companies/vk/articles/961286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961286)
-- [HTML и CSS антипаттерны](https://habr.com/ru/companies/ruvds/articles/961740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961740)
-- [Полный обзор функциональности российского трекера ошибок Хоук](https://habr.com/ru/articles/962700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
