@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Госархивы, почему вы разные?](https://habr.com/ru/articles/962812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962812)
 - [Я CSS-программист: «Магия» CSS или как превратить язык стилей в Тьюринг-полный ад](https://habr.com/ru/articles/963368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963368)
 - [Распродажа в издательстве «Питер»](https://habr.com/ru/companies/piter/articles/963290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963290)
 - [ТОП-10 малоизвестных AI-сервисов, которые удивляют возможностями](https://habr.com/ru/companies/bothub/articles/963132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963132)
 - [Solar appScreener: эволюция инструмента, меняющего правила игры в безопасности ПО](https://habr.com/ru/companies/solarsecurity/articles/963344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963344)
-- [Создать мобильное приложение с zero опыта! Рассказываю, как сделал свой первый проект на Java](https://habr.com/ru/companies/ru_mts/articles/963158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
