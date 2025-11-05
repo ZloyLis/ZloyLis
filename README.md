@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML и CSS антипаттерны](https://habr.com/ru/companies/ruvds/articles/961740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961740)
 - [Полный обзор функциональности российского трекера ошибок Хоук](https://habr.com/ru/articles/962700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962700)
-- [ITSM-система — это только начало: как SimpleOne меняет управление услугами всего предприятия](https://habr.com/ru/companies/simpleone/articles/962122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962122)
 - [Корпоративные стандарты АСУ ТП в пищевой, энергетической и горнодобывающей отраслях](https://habr.com/ru/articles/963160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963160)
 - [Организуем хаос: как аналитику составить надежный план встреч по сбору требований с заказчиком](https://habr.com/ru/companies/korus_consulting/articles/963154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963154)
 - [Как мы cделали AI-симулятор собеседований для QA и не сошли с ума при его тестировании](https://habr.com/ru/articles/963076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963076)
