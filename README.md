@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Direct2D: альтернатива началу документации](https://habr.com/ru/articles/963446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963446)
 - [Продуктовая аллея: какие IT-решения Россия готова представить на рынке?](https://habr.com/ru/companies/oleg-bunin/articles/963424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963424)
 - [Как собрать платный AI-микро-SaaS &lpar;Next.js + Django + ЮKassa + Web Stories&rpar; и не застрять в пет-проекте](https://habr.com/ru/articles/963420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963420)
 - [Security Week 2545: кибершпионская кампания «Форумный тролль»](https://habr.com/ru/companies/kaspersky/articles/963256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963256)
 - [Управляем техдолгом, пока он не начал управлять нами](https://habr.com/ru/articles/963414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963414)
-- [Госархивы, почему вы разные?](https://habr.com/ru/articles/962812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
