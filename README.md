@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Snapshot-тесты для дизайн-системы hh.ru](https://habr.com/ru/companies/hh/articles/962420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962420)
-- [Интернет радио, продолжение](https://habr.com/ru/articles/962696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962696)
-- [Пользовательский опыт остается заложником предубеждений. MAX и Telegram](https://habr.com/ru/articles/963118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963118)
-- [Я спросил у ясеня… &lpar;закуётся ли он в железо&rpar;](https://habr.com/ru/articles/963114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963114)
-- [Почему Fortran в 2025 году всё ещё остаётся «ракетой»](https://habr.com/ru/articles/963100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963100)
+- [Организуем хаос: как аналитику составить надежный план встреч по сбору требований с заказчиком](https://habr.com/ru/companies/korus_consulting/articles/963154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963154)
+- [Как мы cделали AI-симулятор собеседований для QA и не сошли с ума при его тестировании](https://habr.com/ru/articles/963076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963076)
+- [Ликбез по стоковым лицензиям: как легально использовать картинки и избежать штрафов](https://habr.com/ru/companies/beget/articles/962356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962356)
+- [Почтовый Шарпей: как мы приручили 700+ шардов PostgreSQL](https://habr.com/ru/companies/yandex/articles/959432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959432)
+- [Apache Camel и его место в экосистеме интеграционных решений](https://habr.com/ru/articles/961982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
