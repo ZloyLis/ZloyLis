@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продуктовая аллея: какие IT-решения Россия готова представить на рынке?](https://habr.com/ru/companies/oleg-bunin/articles/963424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963424)
+- [Как собрать платный AI-микро-SaaS &lpar;Next.js + Django + ЮKassa + Web Stories&rpar; и не застрять в пет-проекте](https://habr.com/ru/articles/963420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963420)
+- [Security Week 2545: кибершпионская кампания «Форумный тролль»](https://habr.com/ru/companies/kaspersky/articles/963256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963256)
+- [Управляем техдолгом, пока он не начал управлять нами](https://habr.com/ru/articles/963414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963414)
 - [Госархивы, почему вы разные?](https://habr.com/ru/articles/962812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962812)
-- [Я CSS-программист: «Магия» CSS или как превратить язык стилей в Тьюринг-полный ад](https://habr.com/ru/articles/963368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963368)
-- [Распродажа в издательстве «Питер»](https://habr.com/ru/companies/piter/articles/963290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963290)
-- [ТОП-10 малоизвестных AI-сервисов, которые удивляют возможностями](https://habr.com/ru/companies/bothub/articles/963132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963132)
-- [Solar appScreener: эволюция инструмента, меняющего правила игры в безопасности ПО](https://habr.com/ru/companies/solarsecurity/articles/963344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
