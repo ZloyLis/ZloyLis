@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравнительный анализ эффективности планировщиков СУБД при выполнении различных запросов](https://habr.com/ru/articles/963472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963472)
 - [Direct2D #2: Очередь сообщений окна. Все виды манипуляций](https://habr.com/ru/articles/963464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963464)
-- [Direct2D: альтернатива началу документации](https://habr.com/ru/articles/963446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963446)
+- [Direct2D #1: альтернатива началу документации](https://habr.com/ru/articles/963446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963446)
 - [Продуктовая аллея: какие IT-решения Россия готова представить на рынке?](https://habr.com/ru/companies/oleg-bunin/articles/963424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963424)
 - [Как собрать платный AI-микро-SaaS &lpar;Next.js + Django + ЮKassa + Web Stories&rpar; и не застрять в пет-проекте](https://habr.com/ru/articles/963420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963420)
-- [Security Week 2545: кибершпионская кампания «Форумный тролль»](https://habr.com/ru/companies/kaspersky/articles/963256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
