@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Особенности Python, о которых вас точно спросят на техническом собеседовании. Часть 2](https://habr.com/ru/companies/yandex_praktikum/articles/960812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960812)
-- [Я устал кликать по HH — отдал это Gemini и получил 7 инвайтов за 3 дня](https://habr.com/ru/articles/963512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963512)
-- [Что такое Vertical Trim в Figma](https://habr.com/ru/articles/963484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963484)
-- [Сравнительный анализ эффективности планировщиков СУБД при выполнении различных запросов](https://habr.com/ru/articles/963472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963472)
-- [Direct2D #2: Очередь сообщений окна. Все виды манипуляций](https://habr.com/ru/articles/963464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963464)
+- [GlobalProtect для наших удаленных сотрудников в Бали](https://habr.com/ru/articles/963616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963616)
+- [А кто у вас отвечает за kube-api? Безопасность Kubernetes при помощи CIS Benchmark](https://habr.com/ru/companies/selectel/articles/963562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963562)
+- [Топ-3 отечественных TMS: где вести тесты, когда привычные инструменты больше недоступны](https://habr.com/ru/articles/963466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963466)
+- [Использование PG_EXPECTO для выявления проблемных SQL запросов, при анализе инцидента производительности СУБД PostgreSQL](https://habr.com/ru/articles/963584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963584)
+- [Почему я отказался от ORM в пользу чистого SQL](https://habr.com/ru/companies/betboom/articles/959322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
