@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Особенности Python, о которых вас точно спросят на техническом собеседовании. Часть 2](https://habr.com/ru/companies/yandex_praktikum/articles/960812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960812)
 - [Я устал кликать по HH — отдал это Gemini и получил 7 инвайтов за 3 дня](https://habr.com/ru/articles/963512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963512)
 - [Что такое Vertical Trim в Figma](https://habr.com/ru/articles/963484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963484)
 - [Сравнительный анализ эффективности планировщиков СУБД при выполнении различных запросов](https://habr.com/ru/articles/963472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963472)
 - [Direct2D #2: Очередь сообщений окна. Все виды манипуляций](https://habr.com/ru/articles/963464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963464)
-- [Direct2D #1: альтернатива началу документации](https://habr.com/ru/articles/963446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
