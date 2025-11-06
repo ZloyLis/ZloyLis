@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я создал платформу для изучения иврита: от идеи до работающего сервиса](https://habr.com/ru/articles/963834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963834)
+- [Вайбкодинг становится менее доступным: OpenAI закручивает гайки](https://habr.com/ru/articles/963300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963300)
 - [Многопоточность в современном C++: Lock-Free программирование, Memory Ordering и Atomics](https://habr.com/ru/articles/963818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963818)
 - [Апгрейд Postgres с 11 до 17 версии без боли: мой гайд по логической репликации](https://habr.com/ru/articles/963794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963794)
 - [ATOM: автоматизация сети ЦОД начинается с решения рутинных задач](https://habr.com/ru/companies/rostelecom/articles/902694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=902694)
-- [DockerHub удаляет старые JDK теги — ваши пайплайны могут быть под угрозой](https://habr.com/ru/companies/spring_aio/articles/963782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963782)
-- [Взгляд безопасника на ежегодный отчет Github Octoverse 2025](https://habr.com/ru/articles/963774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
