@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как техдолг убивает и спасает проекты одновременно](https://habr.com/ru/articles/963876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963876)
 - [Как я автоматизировал бронирование устройств с помощью нейросети, n8n и Пачки](https://habr.com/ru/articles/963862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963862)
 - [Как я создал платформу для изучения иврита: от идеи до работающего сервиса](https://habr.com/ru/articles/963834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963834)
 - [Вайбкодинг становится менее доступным: OpenAI закручивает гайки](https://habr.com/ru/articles/963300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963300)
 - [Многопоточность в современном C++: Lock-Free программирование, Memory Ordering и Atomics](https://habr.com/ru/articles/963818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963818)
-- [Апгрейд Postgres с 11 до 17 версии без боли: мой гайд по логической репликации](https://habr.com/ru/articles/963794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
