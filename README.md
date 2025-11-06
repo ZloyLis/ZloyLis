@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Digest #30](https://habr.com/ru/companies/tbank/articles/963296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963296)
-- [Фактический владелец бизнес-процесса. Кто им является?](https://habr.com/ru/articles/963632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963632)
-- [Применение видеотехнологий Cloud Gaming для построения VDI: на примере VK Play Cloud и платформы VK Cloud](https://habr.com/ru/companies/vktech/articles/963208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963208)
-- [GlobalProtect для наших удаленных сотрудников в Бали](https://habr.com/ru/articles/963616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963616)
-- [А кто у вас отвечает за kube-api? Безопасность Kubernetes при помощи CIS Benchmark](https://habr.com/ru/companies/selectel/articles/963562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963562)
+- [Сама не разберётся: мои 7 принципов генерации кода с LLM](https://habr.com/ru/articles/963690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963690)
+- [TypeScript: краткий гайд по дистрибуции типов](https://habr.com/ru/companies/cloud_ru/articles/883872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883872)
+- [[Перевод] Кому нужен Graphviz, если можно написать его самому?](https://habr.com/ru/articles/962436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962436)
+- [[Перевод] MapStruct: как безобидный метод портит весь маппинг](https://habr.com/ru/companies/T1Holding/articles/963642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963642)
+- [Скрытые пасхалки в компьютерных программах, кто их придумал и почему сегодня так почти не делают](https://habr.com/ru/companies/x-com/articles/963674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
