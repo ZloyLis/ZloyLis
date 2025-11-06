@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Digest #30](https://habr.com/ru/companies/tbank/articles/963296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963296)
+- [Фактический владелец бизнес-процесса. Кто им является?](https://habr.com/ru/articles/963632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963632)
+- [Применение видеотехнологий Cloud Gaming для построения VDI: на примере VK Play Cloud и платформы VK Cloud](https://habr.com/ru/companies/vktech/articles/963208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963208)
 - [GlobalProtect для наших удаленных сотрудников в Бали](https://habr.com/ru/articles/963616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963616)
 - [А кто у вас отвечает за kube-api? Безопасность Kubernetes при помощи CIS Benchmark](https://habr.com/ru/companies/selectel/articles/963562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963562)
-- [Топ-3 отечественных TMS: где вести тесты, когда привычные инструменты больше недоступны](https://habr.com/ru/articles/963466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963466)
-- [Использование PG_EXPECTO для выявления проблемных SQL запросов, при анализе инцидента производительности СУБД PostgreSQL](https://habr.com/ru/articles/963584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963584)
-- [Почему я отказался от ORM в пользу чистого SQL](https://habr.com/ru/companies/betboom/articles/959322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
