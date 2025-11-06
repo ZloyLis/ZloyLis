@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Взгляд безопасника на ежегодный отчет Github Octoverse 2025](https://habr.com/ru/articles/963774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963774)
+- [От проблемы к запуску: как превратить результаты исследований в реальные продукты](https://habr.com/ru/articles/963770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963770)
 - [Аудит «на автомате» или как превратить банковский аудит в формальность](https://habr.com/ru/companies/securitm/articles/963732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963732)
 - [Шардирование сервиса объявлений Авито Доставки. Часть I](https://habr.com/ru/companies/avito/articles/956224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956224)
 - [Как мы воскресили русский NLP и сократили потребление памяти на 90%](https://habr.com/ru/articles/963748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963748)
-- [Топ-150 вопросов на собеседовании системного аналитика 2025-2026](https://habr.com/ru/articles/963708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963708)
-- [Восстановление IT-инфраструктуры: руководство по защите бизнеса от сбоев](https://habr.com/ru/articles/963692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
