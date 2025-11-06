@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аудит «на автомате» или как превратить банковский аудит в формальность](https://habr.com/ru/companies/securitm/articles/963732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963732)
+- [Шардирование сервиса объявлений Авито Доставки. Часть I](https://habr.com/ru/companies/avito/articles/956224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956224)
+- [Как мы воскресили русский NLP и сократили потребление памяти на 90%](https://habr.com/ru/articles/963748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963748)
 - [Топ-150 вопросов на собеседовании системного аналитика 2025-2026](https://habr.com/ru/articles/963708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963708)
 - [Восстановление IT-инфраструктуры: руководство по защите бизнеса от сбоев](https://habr.com/ru/articles/963692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963692)
-- [Сама не разберётся: мои 7 принципов генерации кода с LLM](https://habr.com/ru/articles/963690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963690)
-- [TypeScript: краткий гайд по дистрибуции типов](https://habr.com/ru/companies/cloud_ru/articles/883872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=883872)
-- [[Перевод] Кому нужен Graphviz, если можно написать его самому?](https://habr.com/ru/articles/962436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
