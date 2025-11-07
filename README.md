@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs открыла голосового ассистента для Shopify. Внутри MCP, WebRTC и полностью открытый стек](https://habr.com/ru/articles/963958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963958)
+- [Ученые предложили новый компас для определения достаточного количества данных для обучения ИИ](https://habr.com/ru/articles/961734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961734)
+- [От школьного репетиторства до 14 курсов и 1000 студентов: мой путь в edtech](https://habr.com/ru/articles/963956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963956)
 - [Может ли искусственный интеллект заменить человека?](https://habr.com/ru/articles/963724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963724)
 - [std::vector: от основ до тонкостей реализации](https://habr.com/ru/articles/963938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963938)
-- [Часть 3 Powered Device](https://habr.com/ru/articles/963936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963936)
-- [Не верьте AI на слово: практический эксперимент с задачей оптимизации](https://habr.com/ru/articles/941452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=941452)
-- [Программирование на русском языке](https://habr.com/ru/articles/963890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
