@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем болен средний бизнес? Статья 6. Как описание может остановить хаос многомиллионных потерь](https://habr.com/ru/articles/964292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964292)
+- [Математическая головоломка из университетского квеста](https://habr.com/ru/articles/964288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964288)
 - [От слов к делу: как Postgres Pro строит будущее в Академгородке](https://habr.com/ru/companies/postgrespro/articles/964274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964274)
 - [Путеводитель по матанализу, который скрывали от вас в вузе](https://habr.com/ru/articles/964282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964282)
 - [Postgresso 9-10 &lpar;82-83&rpar;](https://habr.com/ru/companies/postgrespro/articles/955836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955836)
-- [[Перевод] Как решать LeetCode? Легко! Нужно просто…](https://habr.com/ru/articles/964104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964104)
-- [[Перевод] Книга «Современный C#. Разработка настольных, облачных, мобильных и веб-приложений». Работа со встроенными массивами](https://habr.com/ru/companies/bhv_publishing/articles/964200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
