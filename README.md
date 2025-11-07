@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путеводитель по матанализу, который скрывали от вас в вузе](https://habr.com/ru/articles/964282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964282)
 - [Postgresso 9-10 &lpar;82-83&rpar;](https://habr.com/ru/companies/postgrespro/articles/955836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955836)
 - [[Перевод] Как решать LeetCode? Легко! Нужно просто…](https://habr.com/ru/articles/964104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964104)
 - [[Перевод] Книга «Современный C#. Разработка настольных, облачных, мобильных и веб-приложений». Работа со встроенными массивами](https://habr.com/ru/companies/bhv_publishing/articles/964200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964200)
 - [Грани полиморфизма в React: паттерн as](https://habr.com/ru/companies/cloud_ru/articles/962798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962798)
-- [История школы кибербезопасности в РФ глазами доктора технических наук. Интервью с профессором МИФИ Натальей Милославской](https://habr.com/ru/articles/964198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
