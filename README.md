@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как менялись фотокамеры в телефонах и почему мегапиксели — не главное](https://habr.com/ru/companies/ruvds/articles/963028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963028)
 - [Шардирование сервиса объявлений Авито Доставки. Часть II](https://habr.com/ru/companies/avito/articles/956290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956290)
 - [Скилы системного аналитика для разработки LLM-агентов](https://habr.com/ru/articles/963844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963844)
 - [Что происходит на рынке технологических продуктов РФ в 2025 году](https://habr.com/ru/companies/oleg-bunin/articles/963990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963990)
 - [НеФактический владелец бизнес-процесса](https://habr.com/ru/articles/964114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964114)
-- [Кастомные WPF-контролы, часть 2: ComboBox с фильтрацией содержимого, TimePicker, DateTimePicker](https://habr.com/ru/articles/962224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
