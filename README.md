@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как решать LeetCode? Легко! Нужно просто…](https://habr.com/ru/articles/964104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964104)
 - [[Перевод] Книга «Современный C#. Разработка настольных, облачных, мобильных и веб-приложений». Работа со встроенными массивами](https://habr.com/ru/companies/bhv_publishing/articles/964200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964200)
 - [Грани полиморфизма в React: паттерн as](https://habr.com/ru/companies/cloud_ru/articles/962798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962798)
 - [История школы кибербезопасности в РФ глазами доктора технических наук. Интервью с профессором МИФИ Натальей Милославской](https://habr.com/ru/articles/964198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964198)
 - [Собрали 47 живых русских open-source проектов: от Redux до скрытых жемчужин](https://habr.com/ru/articles/963952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963952)
-- [Как менялись фотокамеры в телефонах и почему мегапиксели — не главное](https://habr.com/ru/companies/ruvds/articles/963028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
