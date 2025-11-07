@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не верьте AI на слово: практический эксперимент с задачей оптимизации](https://habr.com/ru/articles/941452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=941452)
 - [Программирование на русском языке](https://habr.com/ru/articles/963890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963890)
 - [Как техдолг убивает и спасает проекты одновременно](https://habr.com/ru/articles/963876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963876)
 - [Как я автоматизировал бронирование устройств с помощью нейросети, n8n и Пачки](https://habr.com/ru/articles/963862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963862)
 - [Как я создал платформу для изучения иврита: от идеи до работающего сервиса](https://habr.com/ru/articles/963834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963834)
-- [Вайбкодинг становится менее доступным: OpenAI закручивает гайки](https://habr.com/ru/articles/963300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
