@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Чипсы вместо поиска: рекомендации пользователям, когда о них ничего не известно](https://habr.com/ru/articles/964048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964048)
-- [Симметрия простых чисел](https://habr.com/ru/articles/964042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964042)
-- [Почему не взлетают внутренние платформы?](https://habr.com/ru/companies/oleg-bunin/articles/958930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958930)
-- [Разработка с AI в 2025: от идеи до продакшена с Claude Code](https://habr.com/ru/companies/vktech/articles/963714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963714)
-- [Наследие кода: разбор С и С++ модулей Erlang, которые работают десятилетиями](https://habr.com/ru/companies/pvs-studio/articles/963980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963980)
+- [Релиз Explyt Spring: SQL, Docker-Compose, Debugger](https://habr.com/ru/companies/explyt/articles/962536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962536)
+- [От школьного компьютера до первой работы программистом: история о том, как я не сдал экзамен, но всё равно попал в IT](https://habr.com/ru/articles/964066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964066)
+- [Статистика и эволюция: почему самки живут дольше самцов?](https://habr.com/ru/companies/ua-hosting/articles/964058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964058)
+- [Топ-10 достойных смартфонов на Android, которые успели подешеветь в 2025 году](https://habr.com/ru/companies/x-com/articles/964062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964062)
+- [Speed Dating для системных аналитиков: как за 30 минут понять, подходит кандидат или нет](https://habr.com/ru/companies/agima/articles/958622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
