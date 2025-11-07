@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шардирование сервиса объявлений Авито Доставки. Часть II](https://habr.com/ru/companies/avito/articles/956290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956290)
+- [Скилы системного аналитика для разработки LLM-агентов](https://habr.com/ru/articles/963844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963844)
+- [Что происходит на рынке технологических продуктов РФ в 2025 году](https://habr.com/ru/companies/oleg-bunin/articles/963990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963990)
 - [НеФактический владелец бизнес-процесса](https://habr.com/ru/articles/964114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964114)
 - [Кастомные WPF-контролы, часть 2: ComboBox с фильтрацией содержимого, TimePicker, DateTimePicker](https://habr.com/ru/articles/962224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962224)
-- [Релиз Explyt Spring: SQL, Docker-Compose, Debugger](https://habr.com/ru/companies/explyt/articles/962536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962536)
-- [От школьного компьютера до первой работы программистом: история о том, как я не сдал экзамен, но всё равно попал в IT](https://habr.com/ru/articles/964066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964066)
-- [Статистика и эволюция: почему самки живут дольше самцов?](https://habr.com/ru/companies/ua-hosting/articles/964058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
