@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [/e/OS 3.2: приватный Android без слежки, который только что стал еще лучше](https://habr.com/ru/companies/selectel/articles/964146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964146)
+- [VL53L0X что это такое и с чем это едят](https://habr.com/ru/articles/964350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964350)
 - [Горизонтальное шардирование: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/963960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963960)
 - [Как мы пытались сделать фреймворк для фронтенда которого можно выучить за 5 минут и что из этого вышло](https://habr.com/ru/articles/964314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964314)
 - [Собираем и публикуем Flutter-апп в AppStore](https://habr.com/ru/articles/964304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964304)
-- [Чем болен средний бизнес? Статья 6. Как описание может остановить хаос многомиллионных потерь](https://habr.com/ru/articles/964292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964292)
-- [Математическая головоломка из университетского квеста](https://habr.com/ru/articles/964288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
