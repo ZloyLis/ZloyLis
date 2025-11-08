@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Oriol Engine: как мы написали собственную систему сборки C++ проектов](https://habr.com/ru/articles/964366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964366)
+- [Надоело включать VPN для Zwift? История создания reZwift с серверами в России](https://habr.com/ru/articles/964322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964322)
 - [/e/OS 3.2: приватный Android без слежки, который только что стал еще лучше](https://habr.com/ru/companies/selectel/articles/964146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964146)
 - [VL53L0X что это такое и с чем это едят](https://habr.com/ru/articles/964350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964350)
 - [Горизонтальное шардирование: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/963960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963960)
-- [Как мы пытались сделать фреймворк для фронтенда которого можно выучить за 5 минут и что из этого вышло](https://habr.com/ru/articles/964314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964314)
-- [Собираем и публикуем Flutter-апп в AppStore](https://habr.com/ru/articles/964304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
