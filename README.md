@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Список 10 лучших IDE и редакторов кода для веб‑разработчиков](https://habr.com/ru/articles/964448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964448)
+- [Развитие Telegram-бота для VPS: Docker, i18n и планы на будущее](https://habr.com/ru/articles/964456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964456)
 - [Статистика под капотом LinearRegression: почему мы минимизируем именно квадрат ошибки?](https://habr.com/ru/articles/964438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964438)
 - [Звуки в прототипе на примере нашей игры с Siberian Game Jam. Иерархия для целостной картины](https://habr.com/ru/articles/964416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964416)
 - [Как разработчик из кровавого Enterprise статейник писал](https://habr.com/ru/articles/964406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964406)
