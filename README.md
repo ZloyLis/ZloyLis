@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Звуки в прототипе на примере нашей игры с Siberian Game Jam. Иерархия для целостной картины](https://habr.com/ru/articles/964416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964416)
 - [Как разработчик из кровавого Enterprise статейник писал](https://habr.com/ru/articles/964406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964406)
 - [Вайбкодинг: почему знания важнее инструментов](https://habr.com/ru/articles/964324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964324)
 - [Параметризация нечётных чисел на основе подмножеств вычетов по модулю шесть](https://habr.com/ru/articles/964400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964400)
 - [[Перевод] В процессе обучения нейронных сетей получаются красивые фракталы](https://habr.com/ru/articles/964394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964394)
-- [ASP.Net MVC vs Blazor: чья возьмет?](https://habr.com/ru/companies/otus/articles/962512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
