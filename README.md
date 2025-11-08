@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Горизонтальное шардирование: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/963960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963960)
 - [Как мы пытались сделать фреймворк для фронтенда которого можно выучить за 5 минут и что из этого вышло](https://habr.com/ru/articles/964314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964314)
 - [Собираем и публикуем Flutter-апп в AppStore](https://habr.com/ru/articles/964304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964304)
 - [Чем болен средний бизнес? Статья 6. Как описание может остановить хаос многомиллионных потерь](https://habr.com/ru/articles/964292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964292)
 - [Математическая головоломка из университетского квеста](https://habr.com/ru/articles/964288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964288)
-- [От слов к делу: как Postgres Pro строит будущее в Академгородке](https://habr.com/ru/companies/postgrespro/articles/964274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
