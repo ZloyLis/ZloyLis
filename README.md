@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] В процессе обучения нейронных сетей получаются красивые фракталы](https://habr.com/ru/articles/964394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964394)
+- [ASP.Net MVC vs Blazor: чья возьмет?](https://habr.com/ru/companies/otus/articles/962512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962512)
 - [Кэширование и всё, что с ним связано](https://habr.com/ru/companies/timeweb/articles/959676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959676)
 - [Установка Langfuse в Kubernetes](https://habr.com/ru/articles/963250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963250)
 - [Как я создаю idle-игру «Империя Кузбасс» для Telegram, VK и браузера](https://habr.com/ru/articles/964374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964374)
-- [Oriol Engine: как мы написали собственную систему сборки C++ проектов](https://habr.com/ru/articles/964366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964366)
-- [Надоело включать VPN для Zwift? История создания reZwift с серверами в России](https://habr.com/ru/articles/964322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
