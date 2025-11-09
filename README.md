@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Отучаем» WinFXNet от жадности &lpar;часть 2 и заключительная&rpar;](https://habr.com/ru/articles/964386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964386)
+- [Механизм управления в организации. Как он работает](https://habr.com/ru/articles/964512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964512)
+- [Отдаём в Open Source CRM для работы с сообщениями в Telegram](https://habr.com/ru/companies/amvera/articles/963788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963788)
 - [Работа с JDK Flight Recorder &lpar;JFR&rpar; из командной строки: инструмент для профилирования без графического интерфейса](https://habr.com/ru/companies/axiomjdk/articles/964362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964362)
 - [Адский эксперимент: личный сайт на нищих микросервисах](https://habr.com/ru/articles/964450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964450)
-- [Динамика пузырьков в человеческой крови стала понятнее](https://habr.com/ru/articles/961748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961748)
-- [Менталитет старой школы: инженерные привычки программиста 70–90-х и как их применять сегодня](https://habr.com/ru/articles/964484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964484)
-- [Развитие Telegram-бота для VPS: Docker, i18n и планы на будущее](https://habr.com/ru/articles/964456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
