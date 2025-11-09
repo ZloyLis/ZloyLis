@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как превратить телефон в портативную консоль](https://habr.com/ru/companies/timeweb/articles/964526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964526)
 - [«Отучаем» WinFXNet от жадности &lpar;часть 2 и заключительная&rpar;](https://habr.com/ru/articles/964386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964386)
 - [Механизм управления в организации. Как он работает](https://habr.com/ru/articles/964512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964512)
 - [Отдаём в Open Source CRM для работы с сообщениями в Telegram](https://habr.com/ru/companies/amvera/articles/963788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963788)
 - [Работа с JDK Flight Recorder &lpar;JFR&rpar; из командной строки: инструмент для профилирования без графического интерфейса](https://habr.com/ru/companies/axiomjdk/articles/964362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964362)
-- [Адский эксперимент: личный сайт на нищих микросервисах](https://habr.com/ru/articles/964450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
