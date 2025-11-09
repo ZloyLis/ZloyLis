@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Не только трансформеры: за пределами стандартных архитектур LLM](https://habr.com/ru/articles/964658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964658)
 - [Дайджест препринтов научных статей в области астрофизики за октябрь 2025 года](https://habr.com/ru/articles/964638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964638)
 - [λ-исчисление в 30 строк. Реализация лямбда-исчисления](https://habr.com/ru/articles/964630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964630)
 - [Два универсальных SIMD алгоритма](https://habr.com/ru/articles/964608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964608)
 - [Как работает компьютер. Простая статья для начинающих программистов](https://habr.com/ru/articles/964572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964572)
-- [Из дизайнера интерфейсов в разработчики за 4 недели: как я делаю AI-плагин для дизайн-ревью](https://habr.com/ru/companies/pt/articles/964382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
