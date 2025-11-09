@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Два универсальных SIMD алгоритма](https://habr.com/ru/articles/964608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964608)
+- [Как работает компьютер. Простая статья для начинающих программистов](https://habr.com/ru/articles/964572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964572)
 - [Из дизайнера интерфейсов в разработчики за 4 недели: как я делаю AI-плагин для дизайн-ревью](https://habr.com/ru/companies/pt/articles/964382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964382)
 - [Мой домашний Kubernetes, или DevOps-«песочница» на домашнем ПК](https://habr.com/ru/articles/964546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964546)
 - [Мобильная разработка за неделю #609 &lpar;3 — 9 ноября&rpar;](https://habr.com/ru/articles/964544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964544)
-- [Верите ли вы в случайность?](https://habr.com/ru/articles/964476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964476)
-- [Как превратить телефон в портативную консоль](https://habr.com/ru/companies/timeweb/articles/964526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
