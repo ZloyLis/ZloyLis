@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой домашний Kubernetes, или DevOps-«песочница» на домашнем ПК](https://habr.com/ru/articles/964546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964546)
+- [Мобильная разработка за неделю #609 &lpar;3 — 9 ноября&rpar;](https://habr.com/ru/articles/964544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964544)
+- [Верите ли вы в случайность?](https://habr.com/ru/articles/964476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964476)
 - [Как превратить телефон в портативную консоль](https://habr.com/ru/companies/timeweb/articles/964526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964526)
 - [«Отучаем» WinFXNet от жадности &lpar;часть 2 и заключительная&rpar;](https://habr.com/ru/articles/964386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964386)
-- [Механизм управления в организации. Как он работает](https://habr.com/ru/articles/964512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964512)
-- [Отдаём в Open Source CRM для работы с сообщениями в Telegram](https://habr.com/ru/companies/amvera/articles/963788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963788)
-- [Работа с JDK Flight Recorder &lpar;JFR&rpar; из командной строки: инструмент для профилирования без графического интерфейса](https://habr.com/ru/companies/axiomjdk/articles/964362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
