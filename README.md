@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мы делали продукт, они — презентацию. Угадайте, кто выиграл полмиллиона](https://habr.com/ru/articles/964670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964670)
-- [Получить цены акций, фондов и ОФЗ в Google Sheets](https://habr.com/ru/articles/964722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964722)
-- [Slider с использованием Web Components + Shadow Dom](https://habr.com/ru/articles/964180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964180)
-- [Field of Enemies — игра созданная в одиночку](https://habr.com/ru/articles/964718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964718)
-- [Космический консенсус в расширяющейся Вселенной](https://habr.com/ru/articles/961836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961836)
+- [Научился сам — научи другого: создаем курс по бизнес-процессам с нуля](https://habr.com/ru/companies/lentatech/articles/964092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964092)
+- [Что находится внутри бесплатной части курса «Аналитик данных» в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/articles/959762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959762)
+- [Как сделать сайт бесконечно ленивым. Часть 4: Преждевременная загрузка](https://habr.com/ru/articles/964472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964472)
+- [Как сделать сайт бесконечно ленивым. Часть 3: Вендоры и кэш](https://habr.com/ru/articles/963112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963112)
+- [Как сделать сайт бесконечно ленивым. Часть 2: Графы зависимостей](https://habr.com/ru/articles/962888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
