@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Программу для просмотра любого файла из букв](https://habr.com/ru/articles/964248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964248)
-- [[Перевод] Реверс-инжиниринг Codex CLI или как я заставил GPT-5-Codex-Mini нарисовать пеликана](https://habr.com/ru/articles/964600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964600)
-- [Атом смысла: Серфер на волнах реальности](https://habr.com/ru/articles/964680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964680)
-- [[Перевод] Не только трансформеры: за пределами стандартных архитектур LLM](https://habr.com/ru/articles/964658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964658)
-- [Дайджест препринтов научных статей в области астрофизики за октябрь 2025 года](https://habr.com/ru/articles/964638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964638)
+- [Мы делали продукт, они — презентацию. Угадайте, кто выиграл полмиллиона](https://habr.com/ru/articles/964670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964670)
+- [Получить цены акций, фондов и ОФЗ в Google Sheets](https://habr.com/ru/articles/964722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964722)
+- [Slider с использованием Web Components + Shadow Dom](https://habr.com/ru/articles/964180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964180)
+- [Field of Enemies — игра созданная в одиночку](https://habr.com/ru/articles/964718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964718)
+- [Космический консенсус в расширяющейся Вселенной](https://habr.com/ru/articles/961836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
