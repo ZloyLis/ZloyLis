@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Равномерное размещение блоков разных размеров](https://habr.com/ru/articles/964858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964858)
+- [Как не получилось сделать PostgreSQL лучше &lpar;и почему это нормально&rpar;](https://habr.com/ru/companies/yandex/articles/964778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964778)
+- [Как я разрабатывал плагин для синхронизации погоды на Minecraft-сервере и в Санкт-Петербурге](https://habr.com/ru/companies/selectel/articles/958526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958526)
+- [Как перестать писать спагетти-код: ключевые идеи ООП](https://habr.com/ru/articles/964836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964836)
 - [Что такое API? Простыми словами для Начинающих](https://habr.com/ru/articles/964818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964818)
-- [[Перевод] Всё, что я знаю о хорошем системном дизайне](https://habr.com/ru/companies/otus/articles/960948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960948)
-- [Как мы перестали использовать Python в production LLM-системах — и почему это было необходимо](https://habr.com/ru/articles/964804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964804)
-- [Матрица трассировки: от хаоса к системности, или как мы искали универсальную модель](https://habr.com/ru/companies/rgs_it/articles/964794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964794)
-- [User Namespaces в Kubernetes](https://habr.com/ru/articles/964790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
