@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Трёхмерная система развития продукта: потребности, цели и мотивация](https://habr.com/ru/articles/964886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964886)
-- [Равномерное размещение блоков разных размеров](https://habr.com/ru/articles/964858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964858)
-- [Как не получилось сделать PostgreSQL лучше &lpar;и почему это нормально&rpar;](https://habr.com/ru/companies/yandex/articles/964778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964778)
-- [Как я разрабатывал плагин для синхронизации погоды на Minecraft-сервере и в Санкт-Петербурге](https://habr.com/ru/companies/selectel/articles/958526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958526)
-- [Как перестать писать спагетти-код: ключевые идеи ООП](https://habr.com/ru/articles/964836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964836)
+- [Как я прокачал VK Teams: от кастомных реакций до AI-ассистента с записью звонков](https://habr.com/ru/articles/964942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964942)
+- [Почему интернационализация с i18next и next-intl замедляет разработку](https://habr.com/ru/articles/964938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964938)
+- [Домашний Nextcloud на Raspberry Pi 5 за пару вечеров: Docker-compose, обратный прокси и чуть-чуть ИИ](https://habr.com/ru/articles/964936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964936)
+- [[Перевод] Как отследить трафик PostgreSQL](https://habr.com/ru/companies/gnivc/articles/962184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962184)
+- [[Перевод] Куда подевалось легендарное внимание Apple к деталям?](https://habr.com/ru/companies/ruvds/articles/963576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
