@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что такое топологическое многообразие?](https://habr.com/ru/articles/965024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965024)
 - [Что такое JOOQ и как его едят на примере Kotlin + Gradle + JOOQ](https://habr.com/ru/articles/965018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965018)
 - [Ну всё! Теперь точно Final](https://habr.com/ru/companies/spring_aio/articles/964962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964962)
 - [Security Week 2546: атака LANDFALL на смартфоны Samsung](https://habr.com/ru/companies/kaspersky/articles/964864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964864)
 - [Гарантии языка программирования как основа безопасной разработки программного обеспечения](https://habr.com/ru/articles/964816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964816)
-- [Почему JSON и YAML мешают вам писать нормальные конфиги &lpar;и чем их заменить&rpar;](https://habr.com/ru/articles/964972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
