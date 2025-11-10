@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [User Namespaces в Kubernetes](https://habr.com/ru/articles/964790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964790)
+- [Linux-телефоны сейчас важнее, чем когда-либо](https://habr.com/ru/companies/ruvds/articles/962410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962410)
+- [Препроцессоры на Go: нарушение границ или сила -toolexec](https://habr.com/ru/companies/oleg-bunin/articles/958946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958946)
 - [100-Year QA-Textbook 2026 — Новое поколение бесплатного 1000-страничного учебника по тестированию](https://habr.com/ru/articles/964744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964744)
 - [Почему LLM не заменит хорошего разработчика, но сделает его работу быстрее](https://habr.com/ru/articles/964770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964770)
-- [Как это сделано: процесс проектирования Figma-плагина Mirage для быстрой генерации тестовых данных в таблицах](https://habr.com/ru/articles/964674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964674)
-- [Научился сам — научи другого: создаем курс по бизнес-процессам с нуля](https://habr.com/ru/companies/lentatech/articles/964092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964092)
-- [Что находится внутри бесплатной части курса «Аналитик данных» в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/articles/959762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
