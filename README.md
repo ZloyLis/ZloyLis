@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое API? Простыми словами для Начинающих](https://habr.com/ru/articles/964818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964818)
+- [[Перевод] Всё, что я знаю о хорошем системном дизайне](https://habr.com/ru/companies/otus/articles/960948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960948)
+- [Как мы перестали использовать Python в production LLM-системах — и почему это было необходимо](https://habr.com/ru/articles/964804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964804)
+- [Матрица трассировки: от хаоса к системности, или как мы искали универсальную модель](https://habr.com/ru/companies/rgs_it/articles/964794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964794)
 - [User Namespaces в Kubernetes](https://habr.com/ru/articles/964790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964790)
-- [Linux-телефоны сейчас важнее, чем когда-либо](https://habr.com/ru/companies/ruvds/articles/962410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962410)
-- [Препроцессоры на Go: нарушение границ или сила -toolexec](https://habr.com/ru/companies/oleg-bunin/articles/958946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958946)
-- [100-Year QA-Textbook 2026 — Новое поколение бесплатного 1000-страничного учебника по тестированию](https://habr.com/ru/articles/964744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964744)
-- [Почему LLM не заменит хорошего разработчика, но сделает его работу быстрее](https://habr.com/ru/articles/964770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
