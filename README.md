@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Трёхмерная система развития продукта: потребности, цели и мотивация](https://habr.com/ru/articles/964886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964886)
 - [Равномерное размещение блоков разных размеров](https://habr.com/ru/articles/964858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964858)
 - [Как не получилось сделать PostgreSQL лучше &lpar;и почему это нормально&rpar;](https://habr.com/ru/companies/yandex/articles/964778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964778)
 - [Как я разрабатывал плагин для синхронизации погоды на Minecraft-сервере и в Санкт-Петербурге](https://habr.com/ru/companies/selectel/articles/958526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958526)
 - [Как перестать писать спагетти-код: ключевые идеи ООП](https://habr.com/ru/articles/964836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964836)
-- [Что такое API? Простыми словами для Начинающих](https://habr.com/ru/articles/964818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
