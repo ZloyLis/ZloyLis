@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему JSON и YAML мешают вам писать нормальные конфиги &lpar;и чем их заменить&rpar;](https://habr.com/ru/articles/964972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964972)
+- [Как оживить модель процесса или играем в Token Game в Camunda Modeler](https://habr.com/ru/companies/otus/articles/960844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960844)
+- [Laravel и Битрикс: как разъехаться в проде и остаться друзьями &lpar;часть 2&rpar;](https://habr.com/ru/companies/kislorod/articles/964232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964232)
 - [Как я прокачал VK Teams: от кастомных реакций до AI-ассистента с записью звонков](https://habr.com/ru/articles/964942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964942)
-- [Почему интернационализация с i18next и next-intl замедляет разработку](https://habr.com/ru/articles/964938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964938)
-- [Домашний Nextcloud на Raspberry Pi 5 за пару вечеров: Docker-compose, обратный прокси и чуть-чуть ИИ](https://habr.com/ru/articles/964936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964936)
-- [[Перевод] Как отследить трафик PostgreSQL](https://habr.com/ru/companies/gnivc/articles/962184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962184)
-- [[Перевод] Куда подевалось легендарное внимание Apple к деталям?](https://habr.com/ru/companies/ruvds/articles/963576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963576)
+- [Автоматизируйте перевод JSON для i18next / next-intl / vue-i18n](https://habr.com/ru/articles/964938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
