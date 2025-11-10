@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [100-Year QA-Textbook 2026 — Новое поколение бесплатного 1000-страничного учебника по тестированию](https://habr.com/ru/articles/964744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964744)
+- [Почему LLM не заменит хорошего разработчика, но сделает его работу быстрее](https://habr.com/ru/articles/964770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964770)
+- [Как это сделано: процесс проектирования Figma-плагина Mirage для быстрой генерации тестовых данных в таблицах](https://habr.com/ru/articles/964674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964674)
 - [Научился сам — научи другого: создаем курс по бизнес-процессам с нуля](https://habr.com/ru/companies/lentatech/articles/964092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964092)
 - [Что находится внутри бесплатной части курса «Аналитик данных» в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/articles/959762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959762)
-- [Как сделать сайт бесконечно ленивым. Часть 4: Преждевременная загрузка](https://habr.com/ru/articles/964472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964472)
-- [Как сделать сайт бесконечно ленивым. Часть 3: Вендоры и кэш](https://habr.com/ru/articles/963112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963112)
-- [Как сделать сайт бесконечно ленивым. Часть 2: Графы зависимостей](https://habr.com/ru/articles/962888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
