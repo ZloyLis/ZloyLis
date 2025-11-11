@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 способов убить производительность в асинхронном Rust](https://habr.com/ru/companies/beget/articles/964676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964676)
+- [Как я сделал аудиогид с ИИ, не будучи мобильным разработчиком](https://habr.com/ru/articles/964428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964428)
+- [Проекции в Spring Data: производительность vs ограничения](https://habr.com/ru/companies/lanit/articles/961742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961742)
+- [ИТ-аудит: как бизнесу перестать терять деньги на сбоях в ИТ](https://habr.com/ru/articles/964140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964140)
 - [Как я создал тиндер для подбора подарков, не умея кодить](https://habr.com/ru/articles/965112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965112)
-- [«Коллегз, ду ю хир ми», или Как не надо созваниваться на английском](https://habr.com/ru/companies/yandex_praktikum/articles/964960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964960)
-- [Цифровые двойники помогут защитить здания от землетрясений на Крайнем Севере](https://habr.com/ru/articles/965052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965052)
-- [Prompt Caching в Claude: Как мы снизили затраты на AI в 2 раза](https://habr.com/ru/articles/965098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965098)
-- [Мне 17, завтра отчисление. Пытаюсь понять, не совершаю ли я ошибку, копаясь в AI](https://habr.com/ru/articles/965086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
