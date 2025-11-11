@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теория всего. From Zero to Hero](https://habr.com/ru/articles/965372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965372)
+- [Поиск работы на аутсорс — Автоматизируем отклики на HH](https://habr.com/ru/articles/965384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965384)
+- [Чёрная пятница на Хабр Карьере: собрали лучшие скидки на обучение](https://habr.com/ru/companies/habr_career/articles/965380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965380)
 - [FlinkSQL в Авито: что внутри и как нам это помогает](https://habr.com/ru/companies/avito/articles/959382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959382)
 - [Как полюбить писать тесты: опыт TATLIN.UNIFIED](https://habr.com/ru/companies/yadro/articles/964122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964122)
-- [Актуальные практики работы в фоне Android-приложений](https://habr.com/ru/companies/vk/articles/965220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965220)
-- [Пора двигаться быстро. Даже если ты на Битриксе &lpar;часть 3&rpar;](https://habr.com/ru/companies/kislorod/articles/965032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965032)
-- [Правила игры поменялись: атомарный уровень процессов — ключевой элемент для эффективной ИИ-трансформации](https://habr.com/ru/articles/965336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
