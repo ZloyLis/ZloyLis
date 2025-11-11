@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я создал тиндер для подбора подарков, не умея кодить](https://habr.com/ru/articles/965112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965112)
+- [«Коллегз, ду ю хир ми», или Как не надо созваниваться на английском](https://habr.com/ru/companies/yandex_praktikum/articles/964960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964960)
 - [Цифровые двойники помогут защитить здания от землетрясений на Крайнем Севере](https://habr.com/ru/articles/965052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965052)
 - [Prompt Caching в Claude: Как мы снизили затраты на AI в 2 раза](https://habr.com/ru/articles/965098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965098)
 - [Мне 17, завтра отчисление. Пытаюсь понять, не совершаю ли я ошибку, копаясь в AI](https://habr.com/ru/articles/965086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965086)
-- [[Перевод] Идеально размещённые тултипы: база](https://habr.com/ru/articles/965066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965066)
-- [[Перевод] Что такое топологическое многообразие?](https://habr.com/ru/articles/965024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
