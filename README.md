@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как разработать удобный дизайн-продукт, который будет приносить прибыль бизнесу?](https://habr.com/ru/articles/965440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965440)
 - [Long Polling и Webhooks. Обработка событий в Telegram-ботах](https://habr.com/ru/companies/otus/articles/963106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963106)
 - [[Перевод] Безопасность памяти для скептиков](https://habr.com/ru/articles/965432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965432)
 - [Подключаем LLMку в свой Java/Kotlin проект через Docker](https://habr.com/ru/articles/965426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965426)
 - [OpenTelemetry — не то, чем кажется…](https://habr.com/ru/companies/tbank/articles/965256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965256)
-- [Когда ТЗ — не боль, а удовольствие: Use Case](https://habr.com/ru/articles/965404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
