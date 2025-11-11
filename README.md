@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Правила игры поменялись: атомарный уровень процессов — ключевой элемент для эффективной ИИ-трансформации](https://habr.com/ru/articles/965336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965336)
+- [GPT как основа low‑code‑платформ: разработка без программистов](https://habr.com/ru/articles/965322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965322)
+- [[Перевод] Documentation-Driven Development](https://habr.com/ru/articles/965306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965306)
+- [Франкфуртский баланс. «Бумага», «цифра» и реалии технической литературы – репортаж с Франкфуртской книжной ярмарки](https://habr.com/ru/companies/bhv_publishing/articles/965286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965286)
 - [[Перевод] Встречаем Spring AI Agents и Spring AI Bench](https://habr.com/ru/companies/spring_aio/articles/965294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965294)
-- [Любовь, смерть и жизненный цикл: считаем, сколько люди проводят времени в вашем Android-приложении](https://habr.com/ru/companies/wildberries/articles/963618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963618)
-- [СУБД Tantor Postgres 17.6: обзор улучшений для 1С](https://habr.com/ru/companies/tantor/articles/965264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965264)
-- [Как сделать резюме в 2025 году, чтобы HR не смог пройти мимо](https://habr.com/ru/companies/sportmaster_lab/articles/965166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965166)
-- [Как GitHub убил аналитику трафика репозиториев](https://habr.com/ru/articles/965148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
