@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Документируем API как профессионалы OpenAPI и Spring в действии](https://habr.com/ru/companies/otus/articles/965178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965178)
+- [Чёрная пятница: от мечты о скидках до кошмара для ИТ. Как избежать провалов](https://habr.com/ru/companies/psb/articles/964768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964768)
+- [Тестирование мобильных приложений: какие особенности важно учитывать](https://habr.com/ru/companies/selectel/articles/964868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964868)
 - [5 способов убить производительность в асинхронном Rust](https://habr.com/ru/companies/beget/articles/964676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964676)
-- [Как я сделал аудиогид с ИИ, не будучи мобильным разработчиком](https://habr.com/ru/articles/964428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964428)
-- [Проекции в Spring Data: производительность vs ограничения](https://habr.com/ru/companies/lanit/articles/961742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961742)
-- [ИТ-аудит: как бизнесу перестать терять деньги на сбоях в ИТ](https://habr.com/ru/articles/964140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964140)
-- [Как я создал тиндер для подбора подарков, не умея кодить](https://habr.com/ru/articles/965112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965112)
+- [Как я сделал аудиогид с ИИ без опыта мобильной разработки](https://habr.com/ru/articles/964428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
