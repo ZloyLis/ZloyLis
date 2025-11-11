@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FlinkSQL в Авито: что внутри и как нам это помогает](https://habr.com/ru/companies/avito/articles/959382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959382)
+- [Как полюбить писать тесты: опыт TATLIN.UNIFIED](https://habr.com/ru/companies/yadro/articles/964122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964122)
+- [Актуальные практики работы в фоне Android-приложений](https://habr.com/ru/companies/vk/articles/965220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965220)
+- [Пора двигаться быстро. Даже если ты на Битриксе &lpar;часть 3&rpar;](https://habr.com/ru/companies/kislorod/articles/965032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965032)
 - [Правила игры поменялись: атомарный уровень процессов — ключевой элемент для эффективной ИИ-трансформации](https://habr.com/ru/articles/965336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965336)
-- [GPT как основа low‑code‑платформ: разработка без программистов](https://habr.com/ru/articles/965322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965322)
-- [[Перевод] Documentation-Driven Development](https://habr.com/ru/articles/965306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965306)
-- [Франкфуртский баланс. «Бумага», «цифра» и реалии технической литературы – репортаж с Франкфуртской книжной ярмарки](https://habr.com/ru/companies/bhv_publishing/articles/965286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965286)
-- [[Перевод] Встречаем Spring AI Agents и Spring AI Bench](https://habr.com/ru/companies/spring_aio/articles/965294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
