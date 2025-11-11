@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Безопасность памяти для скептиков](https://habr.com/ru/articles/965432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965432)
+- [Подключаем LLMку в свой Java/Kotlin проект через Docker](https://habr.com/ru/articles/965426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965426)
 - [OpenTelemetry — не то, чем кажется…](https://habr.com/ru/companies/tbank/articles/965256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965256)
 - [Когда ТЗ — не боль, а удовольствие: Use Case](https://habr.com/ru/articles/965404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965404)
 - [Теория всего. From Zero to Hero](https://habr.com/ru/articles/965372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965372)
-- [Поиск работы на аутсорс — Автоматизируем отклики на HH](https://habr.com/ru/articles/965384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965384)
-- [Чёрная пятница на Хабр Карьере: собрали лучшие скидки на обучение](https://habr.com/ru/companies/habr_career/articles/965380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
