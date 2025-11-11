@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] setHTML&lpar;&rpar;, Trusted Types и Sanitizer API](https://habr.com/ru/companies/timeweb/articles/965142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965142)
+- [Опросили 1000 пользователей о недочётах в интерфейсах, которые осложняют им процесс совершения покупок в интернете](https://habr.com/ru/companies/kislorod/articles/965036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965036)
+- [k6: как мы тестируем сервисы под нагрузкой](https://habr.com/ru/companies/banki/articles/964884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964884)
+- [Как мы в Saby эмоции добавляли](https://habr.com/ru/companies/tensor/articles/965194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965194)
 - [Документируем API как профессионалы OpenAPI и Spring в действии](https://habr.com/ru/companies/otus/articles/965178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965178)
-- [Чёрная пятница: от мечты о скидках до кошмара для ИТ. Как избежать провалов](https://habr.com/ru/companies/psb/articles/964768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964768)
-- [Тестирование мобильных приложений: какие особенности важно учитывать](https://habr.com/ru/companies/selectel/articles/964868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964868)
-- [5 способов убить производительность в асинхронном Rust](https://habr.com/ru/companies/beget/articles/964676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964676)
-- [Как я сделал аудиогид с ИИ без опыта мобильной разработки](https://habr.com/ru/articles/964428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
