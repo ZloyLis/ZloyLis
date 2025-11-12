@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нефункциональные требования. Список, который вспоминают в последний день перед релизом. Часть 1](https://habr.com/ru/companies/otus/articles/963896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963896)
 - [Главная проблема «чистых архитектур»](https://habr.com/ru/articles/965812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965812)
 - [Как дефолтная пагинация в Spring сломала проект и как это починить](https://habr.com/ru/articles/965794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965794)
 - [Очереди сообщений в Postgres Pro: отказ от внешних брокеров ради транзакционной надёжности](https://habr.com/ru/companies/postgrespro/articles/965632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965632)
 - [Резервирование кластера Greengage DB. Часть 2](https://habr.com/ru/companies/greengage/articles/965490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965490)
-- [SwiftUI-Adapter: поддерживаем новые модификаторы SwiftUI на старых версиях iOS](https://habr.com/ru/articles/965732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
