@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Прогресс видеокодеков и большое сравнение российских видеосервисов](https://habr.com/ru/articles/965452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965452)
+- [Чёрная пятница в издательстве «Питер»](https://habr.com/ru/companies/piter/articles/965594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965594)
+- [Как пройти секцию по System Design на Senior: не проектируй системы — проектируй компромиссы](https://habr.com/ru/companies/otus/articles/965618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965618)
+- [От хаотичного интервью до API-спецификации за 15 минут: автоматизация работы аналитика с Roo Code](https://habr.com/ru/articles/965094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965094)
 - [Gately — мой симулятор логических схем: от «игрушки» к диплому](https://habr.com/ru/articles/965598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965598)
-- [Где учиться разработке: подборка онлайн-курсов для новичков в IT](https://habr.com/ru/companies/habr_career/articles/962856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962856)
-- [Как мы первый раз провели митап питонистов в Новосибирске и решили повторить](https://habr.com/ru/articles/963814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963814)
-- [Engee для моделирования складской техники: опыт ПАО «МЗИК»](https://habr.com/ru/companies/etmc_exponenta/articles/959424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959424)
-- [Передачи данных в воркеры JavaScript](https://habr.com/ru/articles/965584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
