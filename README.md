@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские ученые научились предсказывать разрушение материалов от вибраций с высочайшей точностью](https://habr.com/ru/articles/965056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965056)
+- [Full-stack разработка в 2025: Какой стек технологий выбрать?](https://habr.com/ru/articles/965502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965502)
+- [Избавляемся от хаоса в проектировании ИТ-решений: формируем команду с помощью ArchiMate](https://habr.com/ru/articles/965318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965318)
 - [Как я разработал переводчик для Thunderbird с помощью Deepseek: от идеи до публикации в официальном магазине](https://habr.com/ru/articles/965506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965506)
 - [Как увеличить сумму донатов за счёт UX](https://habr.com/ru/articles/965472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965472)
-- [Как разработать удобный дизайн-продукт, который будет приносить прибыль бизнесу?](https://habr.com/ru/articles/965440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965440)
-- [Long Polling и Webhooks. Обработка событий в Telegram-ботах](https://habr.com/ru/companies/otus/articles/963106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963106)
-- [[Перевод] Безопасность памяти для скептиков](https://habr.com/ru/articles/965432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
