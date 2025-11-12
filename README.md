@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Repository Pattern в управлении базами данных: пример интеграции NocoDB в Django](https://habr.com/ru/companies/selectel/articles/965536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965536)
-- [Kafka для начинающих: гарантии доставки на практике и настройка идемпотентности](https://habr.com/ru/articles/961048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961048)
-- [Невидимая часть карьеры программиста: инженерная интуиция и принятие решений под давлением](https://habr.com/ru/articles/965564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965564)
-- [Рецензия на книгу «Основы JetPack Compose: Разработка приложений для Android»](https://habr.com/ru/companies/ssp-soft/articles/964728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964728)
-- [Обратная связь без боли: как давать фидбэк, который не демотивирует](https://habr.com/ru/companies/beget/articles/964494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964494)
+- [Gately — мой симулятор логических схем: от «игрушки» к диплому](https://habr.com/ru/articles/965598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965598)
+- [Где учиться разработке: подборка онлайн-курсов для новичков в IT](https://habr.com/ru/companies/habr_career/articles/962856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962856)
+- [Как мы первый раз провели митап питонистов в Новосибирске и решили повторить](https://habr.com/ru/articles/963814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963814)
+- [Engee для моделирования складской техники: опыт ПАО «МЗИК»](https://habr.com/ru/companies/etmc_exponenta/articles/959424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959424)
+- [Передачи данных в воркеры JavaScript](https://habr.com/ru/articles/965584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
