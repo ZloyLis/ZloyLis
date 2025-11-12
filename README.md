@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Распознаём позу человека во Flutter Web с MediaPipe](https://habr.com/ru/articles/965852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965852)
+- [Как на Хабре каждый раз хоронят Flutter](https://habr.com/ru/articles/965848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965848)
+- [Доказательство гипотезы Коллатца](https://habr.com/ru/articles/965844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965844)
 - [Аудит доступности веб-приложения Приорбанка](https://habr.com/ru/articles/965834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965834)
 - [Нефункциональные требования. Список, который вспоминают в последний день перед релизом. Часть 1](https://habr.com/ru/companies/otus/articles/963896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963896)
-- [Главная проблема «чистых архитектур»](https://habr.com/ru/articles/965812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965812)
-- [Как дефолтная пагинация в Spring сломала проект и как это починить](https://habr.com/ru/articles/965794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965794)
-- [Очереди сообщений в Postgres Pro: отказ от внешних брокеров ради транзакционной надёжности](https://habr.com/ru/companies/postgrespro/articles/965632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
