@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI-Adapter: поддерживаем новые модификаторы SwiftUI на старых версиях iOS](https://habr.com/ru/articles/965732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965732)
+- [Обо всём и наболевшем](https://habr.com/ru/articles/965726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965726)
+- [Почему мы все еще используем SASS в 2025 году](https://habr.com/ru/articles/965698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965698)
 - [ИИ в программной инженерии: обзор практик, инструментов и проблем](https://habr.com/ru/companies/ru_mts/articles/965302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965302)
 - [ФСТЭК России в облаках: как жить по стандартам в программно-определяемом ЦОД](https://habr.com/ru/companies/orion_soft/articles/965688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965688)
-- [Платите за Wazzup, Chat-API или Green API? Вот бесплатная альтернатива: Evolution API v2 + n8n на VPS](https://habr.com/ru/articles/965680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965680)
-- [[Перевод] Топ-10 ошибок деплоя в Kubernetes, почему они происходят и как их исправить](https://habr.com/ru/companies/basis/articles/965602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965602)
-- [Искусственный интеллект в роли архитектора кода: возможности и ограничения](https://habr.com/ru/articles/965664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
