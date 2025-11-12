@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рецензия на книгу “Основы JetPack Compose: Разработка приложений для Android”](https://habr.com/ru/companies/ssp-soft/articles/964728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964728)
+- [Repository Pattern в управлении базами данных: пример интеграции NocoDB в Django](https://habr.com/ru/companies/selectel/articles/965536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965536)
+- [Kafka для начинающих: гарантии доставки на практике и настройка идемпотентности](https://habr.com/ru/articles/961048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961048)
+- [Невидимая часть карьеры программиста: инженерная интуиция и принятие решений под давлением](https://habr.com/ru/articles/965564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965564)
+- [Рецензия на книгу «Основы JetPack Compose: Разработка приложений для Android»](https://habr.com/ru/companies/ssp-soft/articles/964728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964728)
 - [Обратная связь без боли: как давать фидбэк, который не демотивирует](https://habr.com/ru/companies/beget/articles/964494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964494)
-- [Архитектура ИТ решений. Часть 5. Техническая Архитектура](https://habr.com/ru/articles/965534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965534)
-- [Российские ученые научились предсказывать разрушение материалов от вибраций с высочайшей точностью](https://habr.com/ru/articles/965056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965056)
-- [Full-stack разработка в 2025: Какой стек технологий выбрать?](https://habr.com/ru/articles/965502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
