@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JOIN vs. Коррелированный подзапрос: Разрушаем миф о «N+1» на 4 СУБД](https://habr.com/ru/articles/965482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965482)
 - [Как ускорить WebView в Android и доказать это цифрами](https://habr.com/ru/articles/965866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965866)
 - [[Перевод] Распознаём позу человека во Flutter Web с MediaPipe](https://habr.com/ru/articles/965852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965852)
 - [Как на Хабре каждый раз хоронят Flutter](https://habr.com/ru/articles/965848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965848)
 - [Доказательство гипотезы Коллатца](https://habr.com/ru/articles/965844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965844)
-- [Аудит доступности веб-приложения Приорбанка](https://habr.com/ru/articles/965834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
