@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Топ-10 ошибок деплоя в Kubernetes, почему они происходят и как их исправить](https://habr.com/ru/companies/basis/articles/965602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965602)
+- [Искусственный интеллект в роли архитектора кода: возможности и ограничения](https://habr.com/ru/articles/965664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965664)
+- [Семь стадий зрелости программиста: От энтузиаста до архитектора-отшельника](https://habr.com/ru/articles/965658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965658)
 - [Прогресс видеокодеков и большое сравнение российских видеосервисов](https://habr.com/ru/articles/965452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965452)
 - [Чёрная пятница в издательстве «Питер»](https://habr.com/ru/companies/piter/articles/965594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965594)
-- [Как пройти секцию по System Design на Senior: не проектируй системы — проектируй компромиссы](https://habr.com/ru/companies/otus/articles/965618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965618)
-- [От хаотичного интервью до API-спецификации за 15 минут: автоматизация работы аналитика с Roo Code](https://habr.com/ru/articles/965094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965094)
-- [Gately — мой симулятор логических схем: от «игрушки» к диплому](https://habr.com/ru/articles/965598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
