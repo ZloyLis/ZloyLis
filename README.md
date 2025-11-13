@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не рейт-лимитером единым: как управлять нагрузкой в микросервисах](https://habr.com/ru/companies/yandex/articles/964802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964802)
-- [Что происходит внутри Angular и React при решении одних и тех же задач](https://habr.com/ru/companies/selectel/articles/965586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965586)
-- [[Перевод] Сравнение собеседований в 8 крупных технологических компаниях](https://habr.com/ru/companies/spring_aio/articles/965926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965926)
-- [[Перевод] Странности в исключениях JVM с точки зрения декомпилятора](https://habr.com/ru/articles/965922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965922)
-- [Электронный шепот пробуждает квантовую душу света](https://habr.com/ru/articles/965058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965058)
+- [Убрать рутину из регресса или как автоматизировать, не зная кода](https://habr.com/ru/companies/axenix/articles/957168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957168)
+- [Зачем Тьюринг изобрёл Redux?](https://habr.com/ru/articles/962876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962876)
+- [[Перевод] Сравнение моделирования процессов в BPMN и средствах автоматизации типа n8n](https://habr.com/ru/articles/965964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965964)
+- [[Перевод] Vue SFC — идеальный формат для AI-разработки и вот почему](https://habr.com/ru/companies/first/articles/965882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965882)
+- [Ожидания типа IO как необходимое и достаточное условие отсутствия индекса. Проверка гипотезы с помощью PG_EXPECTO](https://habr.com/ru/articles/965960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
