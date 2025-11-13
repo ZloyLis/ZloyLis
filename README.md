@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Два стула» для данных: как мы боремся с рассинхроном в Rust-сервисе между Solana и PostgreSQL](https://habr.com/ru/articles/966194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966194)
+- [Автомобиль по-прежнему средство передвижения, или снова роскошь?](https://habr.com/ru/companies/rostelecom/articles/966192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966192)
+- [Как мы собрали ML-платформу на Kubernetes и не утонули в YAML](https://habr.com/ru/companies/orion_soft/articles/966172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966172)
 - [Физики или лирики: чей час настал на рынке труда?](https://habr.com/ru/articles/966164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966164)
 - [Взаимодействие с пользователем в макросах Р7 Офис. Часть 3. Мой метод](https://habr.com/ru/articles/966156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966156)
-- [Flutter — везде &lpar;и даже в чайнике&rpar;. Часть 1](https://habr.com/ru/companies/friflex/articles/966152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966152)
-- [Обновления в S3, поддержка прерываемых ВМ в Managed Kubernetes и другие октябрьские апдейты Selectel](https://habr.com/ru/companies/selectel/articles/966124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966124)
-- [Как быть продактом в мире ИИ-фичей и выжить](https://habr.com/ru/companies/avito/articles/966018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
