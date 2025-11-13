@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Физики или лирики: чей час настал на рынке труда?](https://habr.com/ru/articles/966164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966164)
+- [Взаимодействие с пользователем в макросах Р7 Офис. Часть 3. Мой метод](https://habr.com/ru/articles/966156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966156)
+- [Flutter — везде &lpar;и даже в чайнике&rpar;. Часть 1](https://habr.com/ru/companies/friflex/articles/966152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966152)
+- [Обновления в S3, поддержка прерываемых ВМ в Managed Kubernetes и другие октябрьские апдейты Selectel](https://habr.com/ru/companies/selectel/articles/966124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966124)
 - [Как быть продактом в мире ИИ-фичей и выжить](https://habr.com/ru/companies/avito/articles/966018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966018)
-- [IT Волонтерство. Что это за каша и куда можно пойти волонтёрить?](https://habr.com/ru/articles/966120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966120)
-- [Книга: «Кото-математика»](https://habr.com/ru/companies/piter/articles/966102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966102)
-- [Как испортить ПО до начала разработки? Вредные советы планирования](https://habr.com/ru/companies/yadro/articles/964952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964952)
-- [[Перевод] 3I/ATLAS: что нового и что важно знать о межзвёздной комете](https://habr.com/ru/companies/bothub/articles/966092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
