@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Anthropic зафиксировали первый официальный случай крупной кибератаки, выполненной с помощью ИИ](https://habr.com/ru/articles/966278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966278)
 - [Убивает ли ваша деструктуризация производительность?](https://habr.com/ru/articles/966268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966268)
 - [Progress Bar для Сборки Программы](https://habr.com/ru/articles/966248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966248)
 - [Ничто, которое может всё: чем опасно уменьшение компьютеров будущего](https://habr.com/ru/articles/966246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966246)
 - [Джун, который видит: ошибки, которые может заметить только начинающий](https://habr.com/ru/articles/966116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966116)
-- [«Два стула» для данных: как мы боремся с рассинхроном в Rust-сервисе между Solana и PostgreSQL](https://habr.com/ru/articles/966194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
