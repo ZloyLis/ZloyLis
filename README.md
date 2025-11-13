@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автоматизация печати в конструкторском бюро &lpar;в двух частях&rpar;](https://habr.com/ru/articles/966074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966074)
+- [Исключения в Java: просто о сложном для AQA](https://habr.com/ru/articles/964434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964434)
 - [CyBОК. Глава 3. Законы и регуляторные нормы. Часть 4](https://habr.com/ru/companies/securityvison/articles/966040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966040)
 - [Пошаговая настройка вывода логов из .NET-автотестов в ELK &lpar;Filebeat → Logstash → Elasticsearch → Kibana&rpar;](https://habr.com/ru/articles/966038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966038)
 - [Архитектурный выбор: Монолит против микросервисов без технического диплома](https://habr.com/ru/articles/966028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966028)
-- [[Перевод] Сила оттенков серого: компьютерное зрение с нуля](https://habr.com/ru/articles/965706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965706)
-- [Убрать рутину из регресса или как автоматизировать, не зная кода](https://habr.com/ru/companies/axenix/articles/957168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
