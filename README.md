@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Электронный шепот пробуждает квантовую душу света](https://habr.com/ru/articles/965058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965058)
 - [Почему простые фичи — самые сложные: история о пет-проекте, Дженге и маржинальной торговле](https://habr.com/ru/articles/965896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965896)
 - [Как сэкономить 20$ на Cursor или «бюджетный вайб-кодинг»](https://habr.com/ru/articles/965878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965878)
 - [JOIN vs. Коррелированный подзапрос: Разрушаем миф о «N+1» на 4 СУБД](https://habr.com/ru/articles/965482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965482)
 - [Как ускорить WebView в Android и доказать это цифрами](https://habr.com/ru/articles/965866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965866)
-- [[Перевод] Распознаём позу человека во Flutter Web с MediaPipe](https://habr.com/ru/articles/965852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
