@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизация печати в конструкторском бюро &lpar;в двух частях&rpar;](https://habr.com/ru/articles/966074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966074)
-- [Исключения в Java: просто о сложном для AQA](https://habr.com/ru/articles/964434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964434)
-- [CyBОК. Глава 3. Законы и регуляторные нормы. Часть 4](https://habr.com/ru/companies/securityvison/articles/966040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966040)
-- [Пошаговая настройка вывода логов из .NET-автотестов в ELK &lpar;Filebeat → Logstash → Elasticsearch → Kibana&rpar;](https://habr.com/ru/articles/966038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966038)
-- [Архитектурный выбор: Монолит против микросервисов без технического диплома](https://habr.com/ru/articles/966028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966028)
+- [Как быть продактом в мире ИИ-фичей и выжить](https://habr.com/ru/companies/avito/articles/966018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966018)
+- [IT Волонтерство. Что это за каша и куда можно пойти волонтёрить?](https://habr.com/ru/articles/966120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966120)
+- [Книга: «Кото-математика»](https://habr.com/ru/companies/piter/articles/966102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966102)
+- [Как испортить ПО до начала разработки? Вредные советы планирования](https://habr.com/ru/companies/yadro/articles/964952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964952)
+- [[Перевод] 3I/ATLAS: что нового и что важно знать о межзвёздной комете](https://habr.com/ru/companies/bothub/articles/966092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
