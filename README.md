@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектура Rootless Podman: Полное руководство по контейнерам](https://habr.com/ru/articles/966384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966384)
-- [Как установить Kubernetes-платформу за 10 минут через веб-интерфейс](https://habr.com/ru/companies/flant/articles/962480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962480)
-- [Разбор задачи «Regular Expression Matching»](https://habr.com/ru/articles/966134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966134)
-- [[Перевод] Воксельный движок за выходные](https://habr.com/ru/articles/965988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965988)
-- [JSON? JSONB? BSON? CBOR? MsgPack? А, VaryPackǃ](https://habr.com/ru/articles/966270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966270)
+- [Как мы тестируем RT.Warehouse: тестовые сценарии, сбор и анализ метрик по результатам тестирования](https://habr.com/ru/companies/rostelecom/articles/966416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966416)
+- [ИИ в программной инженерии: обзор практик, инструментов и проблем](https://habr.com/ru/companies/ru_mts/articles/966368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966368)
+- [Свой REST API сервер на Kotlin с базой данных и деплоем на Railway за 10 минут на Ktor](https://habr.com/ru/articles/966250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966250)
+- [Discovery и Delivery: Как аналитику перестать тушить пожары и начать создавать ценные продукты](https://habr.com/ru/articles/966406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966406)
+- [Интеграция ITAM и ITSM: стратегическая необходимость для современного бизнеса](https://habr.com/ru/companies/simpleone/articles/966396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
