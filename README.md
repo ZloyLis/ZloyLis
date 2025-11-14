@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Маркетинговые инструменты, которые помогают e-commerce продуктам расти: опыт бизнеса](https://habr.com/ru/companies/cleverpumpkin/articles/966458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966458)
 - [Грани полиморфизма в React: паттерн asChild](https://habr.com/ru/companies/cloud_ru/articles/962814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962814)
 - [Автоматизация совещания. Что дает и как это сделать?](https://habr.com/ru/articles/966442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966442)
 - [Как мы тестируем RT.Warehouse: тестовые сценарии, сбор и анализ метрик по результатам тестирования](https://habr.com/ru/companies/rostelecom/articles/966416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966416)
 - [ИИ в программной инженерии: обзор практик, инструментов и проблем](https://habr.com/ru/companies/tbank/articles/966368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966368)
-- [Свой REST API сервер на Kotlin с базой данных и деплоем на Railway за 10 минут на Ktor](https://habr.com/ru/articles/966250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
