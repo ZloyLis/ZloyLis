@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JSON? JSONB? BSON? CBOR? MsgPack? А, VaryPackǃ](https://habr.com/ru/articles/966270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966270)
+- [Кристаллы перовскита помогут создать оптические компьютеры](https://habr.com/ru/articles/965060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965060)
 - [Почему опытные программисты всё чаще молча переписывают, чем спорят в комментариях](https://habr.com/ru/articles/966316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966316)
 - [Как дизайнер своё приложение навайбкодил](https://habr.com/ru/articles/966302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966302)
 - [CardDOM на Rust: через лайфтаймы и боль](https://habr.com/ru/articles/966304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966304)
-- [[Перевод] Anthropic зафиксировали первый официальный случай крупной кибератаки, выполненной с помощью ИИ](https://habr.com/ru/articles/966278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966278)
-- [Убивает ли ваша деструктуризация производительность?](https://habr.com/ru/articles/966268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
