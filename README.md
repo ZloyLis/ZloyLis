@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контроль против гибкости: два подхода к созданию AI-агентов](https://habr.com/ru/companies/redmadrobot/articles/966628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966628)
+- [Пятничные заявки и 6 ТБ WAL: будни инженера поддержки Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/966618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966618)
 - [Как стартовать с Data Lakehouse и перейти на Data Lake](https://habr.com/ru/companies/magnit/articles/966566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966566)
 - [Хрупкий == надёжный? Идея «хрустального кода»](https://habr.com/ru/companies/ruvds/articles/966486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966486)
 - [Маркетинговые инструменты, которые помогают e-commerce продуктам расти: опыт бизнеса](https://habr.com/ru/companies/cleverpumpkin/articles/966458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966458)
-- [Грани полиморфизма в React: паттерн asChild](https://habr.com/ru/companies/cloud_ru/articles/962814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962814)
-- [Автоматизация совещания. Что дает и как это сделать?](https://habr.com/ru/articles/966442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
