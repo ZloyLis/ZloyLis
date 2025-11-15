@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стандартная модель. От симметрий к кваркам](https://habr.com/ru/articles/966786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966786)
 - [Как я перестал бояться GUI-тестов и научился их любить &lpar;почти&rpar;](https://habr.com/ru/articles/966756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966756)
 - [Призрак Паули: от принципа запрета к призракам Фаддеева-Попова](https://habr.com/ru/articles/966744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966744)
 - [Бенчмарки для теста телефона на производительность](https://habr.com/ru/companies/selectel/articles/966478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966478)
 - [Размышления о машине Тьюринга и причинах возникновения ошибок в языках программирования](https://habr.com/ru/articles/966710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966710)
-- [[Перевод] Исследователи обнаружили оптимальный способ оптимизации](https://habr.com/ru/articles/966730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
