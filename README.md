@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Создаем мощного ИИ-агента с долговременной памятью, используя LangGraph, RAG и веб-скрапер](https://habr.com/ru/companies/bothub/articles/966722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966722)
+- [Интерференционная модель Единого Поля &lpar;часть 1: гравитация, электромагнетизм, сильное и слабое взаимодействия&rpar;](https://habr.com/ru/articles/964022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964022)
 - [[Перевод] Go исполнилось 16 лет: главное о развитии языка и экосистемы](https://habr.com/ru/articles/966700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966700)
 - [Можно ли с помощью ИИ решать сложные и критичные задачи?](https://habr.com/ru/companies/architeezy/articles/953642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953642)
 - [Найдено самое длинное слово русского языка? Давайте разбираться](https://habr.com/ru/articles/964420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964420)
-- [Вводная глава учебника по матанализу нового типа](https://habr.com/ru/articles/964698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964698)
-- [Лучший ui/ux 2026? Пришло ли время нового интерфейса?](https://habr.com/ru/articles/966646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
