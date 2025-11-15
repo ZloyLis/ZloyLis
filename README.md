@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Призрак Паули: от принципа запрета к призракам Фаддеева-Попова](https://habr.com/ru/articles/966744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966744)
+- [Бенчмарки для теста телефона на производительность](https://habr.com/ru/companies/selectel/articles/966478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966478)
+- [Размышления о машине Тьюринга и причинах возникновения ошибок в языках программирования](https://habr.com/ru/articles/966710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966710)
 - [[Перевод] Исследователи обнаружили оптимальный способ оптимизации](https://habr.com/ru/articles/966730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966730)
 - [Заводной абрикос](https://habr.com/ru/articles/966726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966726)
-- [[Перевод] Создаем мощного ИИ-агента с долговременной памятью, используя LangGraph, RAG и веб-скрапер](https://habr.com/ru/companies/bothub/articles/966722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966722)
-- [Интерференционная модель Единого Поля &lpar;часть 1: гравитация, электромагнетизм, сильное и слабое взаимодействия&rpar;](https://habr.com/ru/articles/964022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964022)
-- [[Перевод] Go исполнилось 16 лет: главное о развитии языка и экосистемы](https://habr.com/ru/articles/966700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
