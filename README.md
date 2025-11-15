@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Найдено самое длинное слово русского языка? Давайте разбираться](https://habr.com/ru/articles/964420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964420)
 - [Вводная глава учебника по матанализу нового типа](https://habr.com/ru/articles/964698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964698)
 - [Лучший ui/ux 2026? Пришло ли время нового интерфейса?](https://habr.com/ru/articles/966646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966646)
 - [Контроль против гибкости: два подхода к созданию AI-агентов](https://habr.com/ru/companies/redmadrobot/articles/966628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966628)
 - [Пятничные заявки и 6 ТБ WAL: будни инженера поддержки Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/966618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966618)
-- [Создаем виджеты для BUSY Bar без кодинга](https://habr.com/ru/companies/flipperdevices/articles/966614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
