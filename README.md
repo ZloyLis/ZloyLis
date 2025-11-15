@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring-boot-starter для паттерна Transaction outbox Kafka](https://habr.com/ru/articles/966802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966802)
 - [Собираем простейшую RAG-систему на PHP с фреймворком Neuron AI за вечер](https://habr.com/ru/articles/966792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966792)
 - [Стандартная модель. От симметрий к кваркам](https://habr.com/ru/articles/966786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966786)
 - [Как я перестал бояться GUI-тестов и научился их любить &lpar;почти&rpar;](https://habr.com/ru/articles/966756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966756)
 - [Призрак Паули: от принципа запрета к призракам Фаддеева-Попова](https://habr.com/ru/articles/966744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966744)
-- [Бенчмарки для теста телефона на производительность](https://habr.com/ru/companies/selectel/articles/966478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
