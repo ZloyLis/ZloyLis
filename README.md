@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Многопоточность без боли: моя шпаргалка для собесов в Java](https://habr.com/ru/articles/966892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966892)
 - [RAG+Ragas: учим AI-помощника учить без галлюцинаций](https://habr.com/ru/companies/cloud_ru/articles/966698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966698)
 - [Архитектура фронтенда. Навеяно болью от использования FSD](https://habr.com/ru/articles/966962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966962)
 - [3D-таймлайн на чистом JavaScript: как я собирал этот слайдер по шагам](https://habr.com/ru/articles/966712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966712)
 - [Реализация гео-блокировки на основе eBPF/XDP](https://habr.com/ru/articles/966938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966938)
-- [Мобильная разработка за неделю #610 &lpar;10 — 16 ноября&rpar;](https://habr.com/ru/articles/966932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
