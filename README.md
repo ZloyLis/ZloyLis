@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Графический редактор PaintCAD Mobile — переделка под большие экраны телефонов](https://habr.com/ru/articles/966836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966836)
+- [Как написать собственные классы классификации для маленьких](https://habr.com/ru/articles/966764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966764)
 - [[Перевод] Сокращённая запись через точку начиная с Dart 3.10 и Flutter 3.38](https://habr.com/ru/articles/966834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966834)
 - [[Перевод] Dart 3.10 — что нового в Dart?](https://habr.com/ru/articles/966830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966830)
 - [[Перевод] Flutter 3.38 — Что нового во Flutter?](https://habr.com/ru/articles/966826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966826)
-- [Spring-boot-starter для паттерна Transaction outbox Kafka](https://habr.com/ru/articles/966802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966802)
-- [Собираем простейшую RAG-систему на PHP с фреймворком Neuron AI за вечер](https://habr.com/ru/articles/966792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
