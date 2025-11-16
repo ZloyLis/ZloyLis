@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub SpecKit: вайб-кодинг на основе спецификаций](https://habr.com/ru/articles/964368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964368)
+- [Два года с Duit — история взросления фреймворка](https://habr.com/ru/articles/963884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963884)
 - [Графический редактор PaintCAD Mobile — переделка под большие экраны телефонов](https://habr.com/ru/articles/966836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966836)
 - [Как написать собственные классы классификации для маленьких](https://habr.com/ru/articles/966764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966764)
 - [[Перевод] Сокращённая запись через точку начиная с Dart 3.10 и Flutter 3.38](https://habr.com/ru/articles/966834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966834)
-- [[Перевод] Dart 3.10 — что нового в Dart?](https://habr.com/ru/articles/966830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966830)
-- [[Перевод] Flutter 3.38 — Что нового во Flutter?](https://habr.com/ru/articles/966826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
