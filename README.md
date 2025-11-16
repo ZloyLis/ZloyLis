@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовая гравитация, горизонты и тёмный сектор](https://habr.com/ru/articles/966890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966890)
+- [[Перевод] Ваш антивирус мёртв. Его убил искусственный интеллект](https://habr.com/ru/companies/bothub/articles/966910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966910)
+- [Direct2D #3. Типы окон: родительские, дочерние, владеемые. Все манипуляции с ними](https://habr.com/ru/articles/966908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966908)
 - [Как не сойти с ума с Grafana Unified Alerting: настраиваем алерт и разбираем все грабли](https://habr.com/ru/articles/966902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966902)
 - [HalChatLocalAI: как я встроил офлайн-ИИ прямо в мессенджер](https://habr.com/ru/articles/966888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966888)
-- [Как я написал свою соцсеть на Flutter Web: от Firebase до трёх кругов ада с Google Sign-In](https://habr.com/ru/articles/966874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966874)
-- [Скважины, потоки и GC: как Java помогает качать нефть и сохранять ИТ-ресурсы и кадры](https://habr.com/ru/companies/axiomjdk/articles/966704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966704)
-- [Русский JavaScript — это не баг, это фича будущего. Представляю RJS](https://habr.com/ru/articles/966854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
