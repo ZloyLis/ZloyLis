@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация гео-блокировки на основе eBPF/XDP](https://habr.com/ru/articles/966938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966938)
+- [Мобильная разработка за неделю #610 &lpar;10 — 16 ноября&rpar;](https://habr.com/ru/articles/966932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966932)
 - [Квантовая гравитация, горизонты и тёмный сектор](https://habr.com/ru/articles/966890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966890)
 - [[Перевод] Ваш антивирус мёртв. Его убил искусственный интеллект](https://habr.com/ru/companies/bothub/articles/966910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966910)
 - [Direct2D #3. Типы окон: родительские, дочерние, владеемые. Все манипуляции с ними](https://habr.com/ru/articles/966908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966908)
-- [Как не сойти с ума с Grafana Unified Alerting: настраиваем алерт и разбираем все грабли](https://habr.com/ru/articles/966902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966902)
-- [HalChatLocalAI: как я встроил офлайн-ИИ прямо в мессенджер](https://habr.com/ru/articles/966888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
