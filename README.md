@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гайд по архитектуре браузерных песочниц: как работает изоляция JavaScript-кода](https://habr.com/ru/articles/965830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965830)
+- [[Перевод] Идеально размещённые тултипы: все четыре стороны](https://habr.com/ru/articles/966998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966998)
 - [Многопоточность без боли: моя шпаргалка для собесов в Java](https://habr.com/ru/articles/966892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966892)
 - [RAG+Ragas: учим AI-помощника учить без галлюцинаций](https://habr.com/ru/companies/cloud_ru/articles/966698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966698)
 - [Архитектура фронтенда. Навеяно болью от использования FSD](https://habr.com/ru/articles/966962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966962)
-- [3D-таймлайн на чистом JavaScript: как я собирал этот слайдер по шагам](https://habr.com/ru/articles/966712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966712)
-- [Реализация гео-блокировки на основе eBPF/XDP](https://habr.com/ru/articles/966938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
