@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я написал свою соцсеть на Flutter Web: от Firebase до трёх кругов ада с Google Sign-In](https://habr.com/ru/articles/966874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966874)
 - [Скважины, потоки и GC: как Java помогает качать нефть и сохранять ИТ-ресурсы и кадры](https://habr.com/ru/companies/axiomjdk/articles/966704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966704)
 - [Русский JavaScript — это не баг, это фича будущего. Представляю RJS](https://habr.com/ru/articles/966854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966854)
 - [GitHub SpecKit: вайб-кодинг на основе спецификаций](https://habr.com/ru/articles/964368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964368)
 - [Два года с Duit — история взросления фреймворка](https://habr.com/ru/articles/963884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963884)
-- [Графический редактор PaintCAD Mobile — переделка под большие экраны телефонов](https://habr.com/ru/articles/966836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
