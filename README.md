@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест препринтов научных статей в области Информатики](https://habr.com/ru/articles/967018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967018)
 - [Модификаторы вариантности параметров типа в TypeScript](https://habr.com/ru/articles/955828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955828)
 - [Сужение дипазона типов в TypeScript](https://habr.com/ru/articles/967010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967010)
 - [Руководство по архитектуре браузерных песочниц: как работает изоляция JavaScript-кода](https://habr.com/ru/articles/965830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965830)
 - [[Перевод] Идеально размещённые тултипы: все четыре стороны](https://habr.com/ru/articles/966998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966998)
-- [Многопоточность без боли: моя шпаргалка для собесов в Java](https://habr.com/ru/articles/966892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
