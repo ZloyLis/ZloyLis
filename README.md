@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [QML без шапочек из фольги: чего реально достигли к 2025 году](https://habr.com/ru/companies/cloud_ru/articles/967356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967356)
 - [[Перевод] Теория мёртвых фреймворков](https://habr.com/ru/articles/967324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967324)
 - [[Перевод] Обнаружена первая фигура, не способная пройти через саму себя](https://habr.com/ru/articles/967314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967314)
 - [Мир как информационный граф: метафизика реальности](https://habr.com/ru/articles/966894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966894)
 - [Helm v4: разбираем ключевые отличия от Helm v3](https://habr.com/ru/companies/flant/articles/967150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967150)
-- [Геометрическое ядро C3D: новые функции и направления развития](https://habr.com/ru/companies/ascon/articles/967270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
