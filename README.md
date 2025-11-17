@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мощь XBRL в мире данных: автоматизируем проверку отчетности с помощью SQL-формул](https://habr.com/ru/articles/967090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967090)
+- [Как работают федеративные системы: рассказываем на примере YDB](https://habr.com/ru/companies/ydb/articles/962152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962152)
 - [Мнение: почему ИИ не заменит начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/966548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966548)
 - [Ищем ошибку в работе WiFi у платы ESP32-C3 SuperMini](https://habr.com/ru/companies/beget/articles/956868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956868)
 - [Ваши тесты упали по причине JavaScript](https://habr.com/ru/companies/pvs-studio/articles/967062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967062)
-- [Cуперкомпьютеры в России помогают проектировать тихие сверхзвуковые самолеты](https://habr.com/ru/articles/966988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966988)
-- [Выпущена версия Jmix 2.7](https://habr.com/ru/companies/haulmont/articles/966526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
