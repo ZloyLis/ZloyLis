@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженерная культура на масштабе: как развивать и оценивать практики](https://habr.com/ru/companies/oleg-bunin/articles/585640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=585640)
+- [Простой Python, автоматический Spark: минус Kubernetes, плюс продуктивность](https://habr.com/ru/companies/vktech/articles/966586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966586)
+- [42 000 зрителей, 220 команд и 400 городов: как прошел CyberCamp 2025 &lpar;взгляд изнутри&rpar;](https://habr.com/ru/companies/jetinfosystems/articles/967140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967140)
 - [Как настроить Nginx, чтобы выдержать DDoS](https://habr.com/ru/companies/oleg-bunin/articles/959074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959074)
 - [Мощь XBRL в мире данных: автоматизируем проверку отчетности с помощью SQL-формул](https://habr.com/ru/articles/967090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967090)
-- [Как работают федеративные системы: рассказываем на примере YDB](https://habr.com/ru/companies/ydb/articles/962152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962152)
-- [Мнение: почему ИИ не заменит начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/966548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966548)
-- [Ищем ошибку в работе WiFi у платы ESP32-C3 SuperMini](https://habr.com/ru/companies/beget/articles/956868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
