@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОМПСОНОВСКОЕ СЕМПЛИРОВАНИЕ: «РАССТРЕЛ» A/B-ТЕСТОВ И СКРЫТЫЙ ПОТЕНЦИАЛ ML](https://habr.com/ru/companies/ozonbank/articles/967064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967064)
+- [Как ускорить управление сетевой подсистемой Linux: пишем Netlink-обертку на C++](https://habr.com/ru/companies/yadro/articles/964752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964752)
+- [Добавляем MapReduce в этот наш SQL: генераторы на основе курсоров](https://habr.com/ru/articles/958362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958362)
+- [Разгоним Unicode в PostgreSQL](https://habr.com/ru/companies/sberbank/articles/967202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967202)
 - [JVM + Память + GC без боли: моя шпаргалка для собесов в Java. Часть 2](https://habr.com/ru/articles/967190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967190)
-- [База знаний для компании: история о том, как мы &lpar;наконец-то&rpar; перешли на wiki в Outline](https://habr.com/ru/articles/965196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965196)
-- [Workflow like it’s hot или почему Temporal.io это база для бизнес логики](https://habr.com/ru/articles/966972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966972)
-- [Звёздная болезнь: как научиться разбираться в ночном небе, чтоб пофлексить перед друзьями](https://habr.com/ru/articles/967172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967172)
-- [[Перевод] О правильной и аккуратной остановке потоков в Linux](https://habr.com/ru/companies/wunderfund/articles/964696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
