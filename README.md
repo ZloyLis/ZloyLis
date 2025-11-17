@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мнение: почему ИИ не заменит начинающих разработчиков](https://habr.com/ru/companies/yandex_praktikum/articles/966548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966548)
+- [Ищем ошибку в работе WiFi у платы ESP32-C3 SuperMini](https://habr.com/ru/companies/beget/articles/956868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956868)
+- [Ваши тесты упали по причине JavaScript](https://habr.com/ru/companies/pvs-studio/articles/967062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967062)
 - [Cуперкомпьютеры в России помогают проектировать тихие сверхзвуковые самолеты](https://habr.com/ru/articles/966988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966988)
 - [Выпущена версия Jmix 2.7](https://habr.com/ru/companies/haulmont/articles/966526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966526)
-- [[Перевод] Маркетинг или аналитика? Что не так с отчётом Anthropic о кибершпионаже](https://habr.com/ru/articles/967050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967050)
-- [Реактивное программирование в Java: от теории к практике](https://habr.com/ru/articles/966502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966502)
-- [Клеточный автомат по закону Коллатца — когда числа живут](https://habr.com/ru/articles/967034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
