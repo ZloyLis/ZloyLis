@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Инженерная культура на масштабе: как развивать и оценивать практики](https://habr.com/ru/companies/oleg-bunin/articles/585640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=585640)
-- [Простой Python, автоматический Spark: минус Kubernetes, плюс продуктивность](https://habr.com/ru/companies/vktech/articles/966586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966586)
-- [42 000 зрителей, 220 команд и 400 городов: как прошел CyberCamp 2025 &lpar;взгляд изнутри&rpar;](https://habr.com/ru/companies/jetinfosystems/articles/967140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967140)
-- [Как настроить Nginx, чтобы выдержать DDoS](https://habr.com/ru/companies/oleg-bunin/articles/959074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959074)
-- [Мощь XBRL в мире данных: автоматизируем проверку отчетности с помощью SQL-формул](https://habr.com/ru/articles/967090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967090)
+- [JVM + Память + GC без боли: моя шпаргалка для собесов в Java. Часть 2](https://habr.com/ru/articles/967190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967190)
+- [База знаний для компании: история о том, как мы &lpar;наконец-то&rpar; перешли на wiki в Outline](https://habr.com/ru/articles/965196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965196)
+- [Workflow like it’s hot или почему Temporal.io это база для бизнес логики](https://habr.com/ru/articles/966972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966972)
+- [Звёздная болезнь: как научиться разбираться в ночном небе, чтоб пофлексить перед друзьями](https://habr.com/ru/articles/967172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967172)
+- [[Перевод] О правильной и аккуратной остановке потоков в Linux](https://habr.com/ru/companies/wunderfund/articles/964696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
