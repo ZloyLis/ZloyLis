@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мир как информационный граф: метафизика реальности](https://habr.com/ru/articles/966894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966894)
+- [Helm v4: разбираем ключевые отличия от Helm v3](https://habr.com/ru/companies/flant/articles/967150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967150)
 - [Геометрическое ядро C3D: новые функции и направления развития](https://habr.com/ru/companies/ascon/articles/967270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967270)
 - [«Баги из ниоткуда»: почему компоненты React ломаются «сами по себе» и как это исправить](https://habr.com/ru/companies/modusbi/articles/966166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966166)
 - [[Перевод] Реверс-инжиниринг шифрования прошивки радиостанции](https://habr.com/ru/companies/ruvds/articles/966464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966464)
-- [Он вам не вайбкодинг! Форк pomodoro-таймера с Claude Code](https://habr.com/ru/articles/967024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967024)
-- [[Перевод] Python 3.14 без GIL: что это значит для веб-разработки](https://habr.com/ru/articles/967244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
