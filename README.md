@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cуперкомпьютеры в России помогают проектировать тихие сверхзвуковые самолеты](https://habr.com/ru/articles/966988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966988)
+- [Выпущена версия Jmix 2.7](https://habr.com/ru/companies/haulmont/articles/966526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966526)
+- [[Перевод] Маркетинг или аналитика? Что не так с отчётом Anthropic о кибершпионаже](https://habr.com/ru/articles/967050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967050)
+- [Реактивное программирование в Java: от теории к практике](https://habr.com/ru/articles/966502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966502)
 - [Клеточный автомат по закону Коллатца — когда числа живут](https://habr.com/ru/articles/967034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967034)
-- [Дайджест препринтов научных статей в области Информатики](https://habr.com/ru/articles/967018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967018)
-- [Модификаторы вариантности параметров типа в TypeScript](https://habr.com/ru/articles/955828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=955828)
-- [Сужение дипазона типов в TypeScript](https://habr.com/ru/articles/967010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967010)
-- [Руководство по архитектуре браузерных песочниц: как работает изоляция JavaScript-кода](https://habr.com/ru/articles/965830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
