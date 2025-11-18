@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OORexx. Класс блокировки ресурсов](https://habr.com/ru/articles/967754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967754)
 - [Подход к построению DWH, основанный на единой инфраструктуре данных Unified Data Infrastructure или модели a16z](https://habr.com/ru/articles/967736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967736)
 - [Пишем код, который живёт долго: SOLID, DRY, KISS, YAGNI](https://habr.com/ru/articles/967732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967732)
 - [Токены доступа и API Gateway: как обеспечить безопасность запросов](https://habr.com/ru/articles/872918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872918)
 - [Ликбез о плавающей точке: сложение, катастрофическое сокращение и бабушка Кэхена](https://habr.com/ru/articles/967686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967686)
-- [Spring без боли: моя шпаргалка для собесов в Java. Часть 3](https://habr.com/ru/articles/967632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
