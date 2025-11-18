@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подход к построению DWH, основанный на единой инфраструктуре данных Unified Data Infrastructure или модели a16z](https://habr.com/ru/articles/967736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967736)
+- [Пишем код, который живёт долго: SOLID, DRY, KISS, YAGNI](https://habr.com/ru/articles/967732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967732)
 - [Токены доступа и API Gateway: как обеспечить безопасность запросов](https://habr.com/ru/articles/872918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872918)
 - [Ликбез о плавающей точке: сложение, катастрофическое сокращение и бабушка Кэхена](https://habr.com/ru/articles/967686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967686)
 - [Spring без боли: моя шпаргалка для собесов в Java. Часть 3](https://habr.com/ru/articles/967632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967632)
-- [Я устроился джуном в open source проект. Вот что получилось](https://habr.com/ru/articles/967610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967610)
-- [[Перевод] Вы доверяете ИИ больше, чем своим разработчикам. И это ваша главная ошибка](https://habr.com/ru/companies/bothub/articles/967704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
