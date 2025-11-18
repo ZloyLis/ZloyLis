@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы в Авито разработали решение, чтобы ловить сбои в логировании](https://habr.com/ru/companies/avito/articles/967148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967148)
+- [Гипотеза о роли скрытого описательного языка в механизмах мышления и о том, как у этого языка появляется смысл](https://habr.com/ru/articles/967266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967266)
+- [[Перевод] Почему архитектурный долг опаснее технического?](https://habr.com/ru/companies/spring_aio/articles/967470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967470)
+- [Как мы разработали решение, чтобы ловить сбои в логировании](https://habr.com/ru/companies/avito/articles/967148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967148)
 - [Сколько производительности съедает Kubernetes: сравниваю native PostgreSQL и CloudNativePG в Yandex Cloud](https://habr.com/ru/articles/967626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967626)
 - [Семинар в ШАД Хелпер: экстремальные задачи на графы](https://habr.com/ru/articles/967648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967648)
-- [Как настроить SEO в Next.js так, чтобы проект реально индексировался](https://habr.com/ru/articles/966214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966214)
-- [[Перевод] Вам стоит написать своего агента](https://habr.com/ru/articles/966796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
