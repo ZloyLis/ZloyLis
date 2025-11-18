@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тест на масштабируемость n8n](https://habr.com/ru/articles/966576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966576)
+- [«Мой друг без знания программирования за несколько месяцев создал готовую LMS». Как вайб-кодинг меняет разработку](https://habr.com/ru/articles/967606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967606)
+- [Сказ о том, как мы автоматизировали озвучку видео через нейросети](https://habr.com/ru/companies/sportmaster_lab/articles/967388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967388)
 - [Осуществление организационного развития компании с точки зрения процесса управления](https://habr.com/ru/articles/967570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967570)
 - [[Перевод] Система объектов из Quake: шелл-скриптинг для игр](https://habr.com/ru/articles/967568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967568)
-- [Архитектура ИТ решений. Часть 6. Подходы к построению Архитектуры](https://habr.com/ru/articles/967520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967520)
-- [Роботизация склада — всем ли полезна? Или как мы сэкономили 420 млн рублей нашему клиенту](https://habr.com/ru/companies/intekey/articles/967550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967550)
-- [Роботизация в банке: как мы увеличивали эффективность и что из этого вышло?](https://habr.com/ru/companies/uralsib/articles/967542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
