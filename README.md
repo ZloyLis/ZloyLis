@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы в Авито разработали решение, чтобы ловить сбои в логировании](https://habr.com/ru/companies/avito/articles/967148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967148)
+- [Сколько производительности съедает Kubernetes: сравниваю native PostgreSQL и CloudNativePG в Yandex Cloud](https://habr.com/ru/articles/967626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967626)
 - [Семинар в ШАД Хелпер: экстремальные задачи на графы](https://habr.com/ru/articles/967648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967648)
 - [Как настроить SEO в Next.js так, чтобы проект реально индексировался](https://habr.com/ru/articles/966214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966214)
 - [[Перевод] Вам стоит написать своего агента](https://habr.com/ru/articles/966796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966796)
-- [Koda CLI: AI-помощник прямо в терминале – бесплатно, без VPN, с топовыми моделями](https://habr.com/ru/companies/koda/articles/967576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967576)
-- [[Перевод] Тест на масштабируемость n8n](https://habr.com/ru/articles/966576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
