@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Закрепи меня покрепче: Pin, самоссылки и почему всё падает](https://habr.com/ru/companies/beget/articles/967076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967076)
 - [Как математики решают обратную задачу для строительства в Арктике](https://habr.com/ru/articles/966990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966990)
 - [От Dutch courage до Mexican standoff: гид по «национальным» идиомам английского языка](https://habr.com/ru/companies/yandex_praktikum/articles/967206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967206)
 - [Как мы на LTE-модемах IRZ сделали монитор качества связи](https://habr.com/ru/companies/severstal/articles/967278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967278)
 - [QML без шапочек из фольги: чего реально достигли к 2025 году](https://habr.com/ru/companies/cloud_ru/articles/967356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967356)
-- [[Перевод] Теория мёртвых фреймворков](https://habr.com/ru/articles/967324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
