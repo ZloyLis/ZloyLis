@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Осуществление организационного развития компании с точки зрения процесса управления](https://habr.com/ru/articles/967570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967570)
+- [[Перевод] Система объектов из Quake: шелл-скриптинг для игр](https://habr.com/ru/articles/967568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967568)
+- [Архитектура ИТ решений. Часть 6. Подходы к построению Архитектуры](https://habr.com/ru/articles/967520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967520)
+- [Роботизация склада — всем ли полезна? Или как мы сэкономили 420 млн рублей нашему клиенту](https://habr.com/ru/companies/intekey/articles/967550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967550)
 - [Роботизация в банке: как мы увеличивали эффективность и что из этого вышло?](https://habr.com/ru/companies/uralsib/articles/967542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967542)
-- [Структура против хаоса — практическая валидация форм с помощью Zod](https://habr.com/ru/articles/967540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967540)
-- [Ваш портал самообслуживания — это пытка для сотрудников. Вот как это исправить](https://habr.com/ru/companies/simpleone/articles/964758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964758)
-- [Мои любимые CSS-трюки, которые вы могли упустить](https://habr.com/ru/companies/ruvds/articles/965692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965692)
-- [Как скопировать дерево, но не точь-в-точь](https://habr.com/ru/companies/pvs-studio/articles/967530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
