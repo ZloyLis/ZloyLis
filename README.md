@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Гипотеза о роли скрытого описательного языка в механизмах мышления и о том, как у этого языка появляется смысл](https://habr.com/ru/articles/967266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967266)
-- [[Перевод] Почему архитектурный долг опаснее технического?](https://habr.com/ru/companies/spring_aio/articles/967470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967470)
-- [Как мы разработали решение, чтобы ловить сбои в логировании](https://habr.com/ru/companies/avito/articles/967148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967148)
-- [Сколько производительности съедает Kubernetes: сравниваю native PostgreSQL и CloudNativePG в Yandex Cloud](https://habr.com/ru/articles/967626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967626)
-- [Семинар в ШАД Хелпер: экстремальные задачи на графы](https://habr.com/ru/articles/967648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967648)
+- [Токены доступа и API Gateway: как обеспечить безопасность запросов](https://habr.com/ru/articles/872918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=872918)
+- [Ликбез о плавающей точке: сложение, катастрофическое сокращение и бабушка Кэхена](https://habr.com/ru/articles/967686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967686)
+- [Spring без боли: моя шпаргалка для собесов в Java. Часть 3](https://habr.com/ru/articles/967632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967632)
+- [Я устроился джуном в open source проект. Вот что получилось](https://habr.com/ru/articles/967610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967610)
+- [[Перевод] Вы доверяете ИИ больше, чем своим разработчикам. И это ваша главная ошибка](https://habr.com/ru/companies/bothub/articles/967704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
