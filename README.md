@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я с нуля культивировал свою open-source платформу для изучения японского до 10 000 ежемесячных пользователей](https://habr.com/ru/articles/967504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967504)
-- [Что происходит, когда вы добавляете строку в PostgreSQL](https://habr.com/ru/companies/selectel/articles/967294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967294)
-- [Обзор HTTP-клиента Connekt и примеры сценариев тестирования](https://habr.com/ru/companies/domclick/articles/965116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965116)
-- [Основы DSL в Kotlin](https://habr.com/ru/companies/otus/articles/967488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967488)
-- [Как я добавил on-chain награды и NFT в Solana Quiz: практические находки, ошибки и рабочие советы](https://habr.com/ru/articles/967482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967482)
+- [Роботизация в банке: как мы увеличивали эффективность и что из этого вышло?](https://habr.com/ru/companies/uralsib/articles/967542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967542)
+- [Структура против хаоса — практическая валидация форм с помощью Zod](https://habr.com/ru/articles/967540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967540)
+- [Ваш портал самообслуживания — это пытка для сотрудников. Вот как это исправить](https://habr.com/ru/companies/simpleone/articles/964758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964758)
+- [Мои любимые CSS-трюки, которые вы могли упустить](https://habr.com/ru/companies/ruvds/articles/965692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965692)
+- [Как скопировать дерево, но не точь-в-точь](https://habr.com/ru/companies/pvs-studio/articles/967530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
