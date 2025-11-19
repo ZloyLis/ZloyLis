@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [1 ИИ, 100 чашек кофе и 365 дней: как превратить онбординг инженеров техподдержки в квест](https://habr.com/ru/companies/k2tech/articles/967924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967924)
+- [Ozon, Mail, Yandex — все в кризисе IT](https://habr.com/ru/articles/967922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967922)
+- [«Нейросеть, мы тебя отключим»: интервью о взломе LLM и реальной цене ИИ-инструментов](https://habr.com/ru/articles/967920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967920)
+- [Что такое API Gateway: 10 главных функций и роль в архитектуре микросервисов [полный гайд]](https://habr.com/ru/articles/967830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967830)
 - [Как производительность Low-code платформы SimpleOne выросла в 16 раз: архитектура, практика и метрики](https://habr.com/ru/companies/simpleone/articles/965222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965222)
-- [Ледяная линза под рельсами: коварный враг или неожиданный союзник?](https://habr.com/ru/articles/966992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966992)
-- [Экспресс-опрос: как за 10 минут узнать, что на самом деле думает команда о спринте](https://habr.com/ru/companies/beget/articles/966684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966684)
-- [[Перевод] Что такое преобразование Фурье?](https://habr.com/ru/articles/967798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967798)
-- [Как работает наша LLM-платформа MWS GPT](https://habr.com/ru/companies/ru_mts/articles/967478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
