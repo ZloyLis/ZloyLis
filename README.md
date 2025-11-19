@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга: «Алгоритмы машинного обучения»](https://habr.com/ru/companies/piter/articles/967170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967170)
+- [Пока все вайбкодят, мы продолжаем делать freemium базу данных для разработки ERP/LLM-систем](https://habr.com/ru/companies/totum_online/articles/967298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967298)
 - [Навыки будущего: чему учиться, чтобы быть востребованным через 5 лет](https://habr.com/ru/companies/habr_career/articles/962862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962862)
 - [1 ИИ, 100 чашек кофе и 365 дней: как превратить онбординг инженеров техподдержки в квест](https://habr.com/ru/companies/k2tech/articles/967924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967924)
 - [Ozon, Mail, Yandex — все в кризисе IT](https://habr.com/ru/articles/967922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967922)
-- [«Нейросеть, мы тебя отключим»: интервью о взломе LLM и реальной цене ИИ-инструментов](https://habr.com/ru/articles/967920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967920)
-- [Что такое API Gateway: 10 главных функций и роль в архитектуре микросервисов [полный гайд]](https://habr.com/ru/articles/967830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
