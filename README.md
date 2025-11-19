@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как производительность Low-code платформы SimpleOne выросла в 16 раз: архитектура, практика и метрики](https://habr.com/ru/companies/simpleone/articles/965222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965222)
+- [Ледяная линза под рельсами: коварный враг или неожиданный союзник?](https://habr.com/ru/articles/966992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966992)
 - [Экспресс-опрос: как за 10 минут узнать, что на самом деле думает команда о спринте](https://habr.com/ru/companies/beget/articles/966684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966684)
 - [[Перевод] Что такое преобразование Фурье?](https://habr.com/ru/articles/967798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967798)
 - [Как работает наша LLM-платформа MWS GPT](https://habr.com/ru/companies/ru_mts/articles/967478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967478)
-- [Как мы сделали капчу, когда hCaptcha отказался работать для российских пользователей](https://habr.com/ru/companies/ddosguard/articles/967316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967316)
-- [Лучшие нейросети для вайбкодинга в 1С 5](https://habr.com/ru/articles/967828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
