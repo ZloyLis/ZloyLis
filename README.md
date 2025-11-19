@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Космотекст: отправляем статьи в космос — и объявляем победителей 🚀](https://habr.com/ru/specials/968096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968096)
+- [Разбираемся с фильтрами в TShark, чтобы анализировать сетевой трафик прямо в консоли](https://habr.com/ru/companies/cloud_ru/articles/965740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965740)
+- [Люди, которые писали код на голых нервах. О практике девяностых и нулевых, которая до сих пор работает](https://habr.com/ru/articles/968082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968082)
 - [[Перевод] Паттерн Transactional Outbox: от теории до продакшена](https://habr.com/ru/companies/otus/articles/967974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967974)
 - [Как IN &lpar;:ids&rpar; раздувал Hibernate Query Plan Cache до 100+ МБ и почему ANY&lpar;:ids&rpar; спас прод](https://habr.com/ru/articles/968058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968058)
-- [Почему молодые разработчики сейчас способны на то, что раньше казалось недостижимым](https://habr.com/ru/articles/968064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968064)
-- [Астероид для IT-индустрии: как пережить AI-апокалипсис](https://habr.com/ru/companies/avito/articles/966426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966426)
-- [Хватит писать CSS с нуля: как Chakra UI экономит время и нервы разработчика](https://habr.com/ru/companies/ruvds/articles/959146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
