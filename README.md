@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие нейросети для вайбкодинга в 1С 5](https://habr.com/ru/articles/967828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967828)
 - [[Перевод] Увы, ваш синтаксис подсвечен безграмотно](https://habr.com/ru/articles/967812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967812)
 - [Анализ аудио потока HLS с помощью Web Audio API и hls.js](https://habr.com/ru/articles/967392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967392)
 - [Числовой тип данных с плавающей точкой double IEEE 754](https://habr.com/ru/articles/967750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967750)
 - [OORexx. Класс блокировки ресурсов](https://habr.com/ru/articles/967754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967754)
-- [Подход к построению DWH, основанный на единой инфраструктуре данных Unified Data Infrastructure или модели a16z](https://habr.com/ru/articles/967736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
