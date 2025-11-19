@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как оптимизация перформанса Debezium JDBC Sink Connector помогла улучшить Open-source версию решения](https://habr.com/ru/companies/vktech/articles/967558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967558)
+- [[Перевод] Нативный API Versioning в Spring 7: долгожданная официальная поддержка](https://habr.com/ru/companies/spring_aio/articles/967454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967454)
+- [[Перевод] Генерация BPMN с помощью LLM в диалоговом режиме: эксперименты и выводы](https://habr.com/ru/articles/968016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968016)
 - [Книга: «Алгоритмы машинного обучения»](https://habr.com/ru/companies/piter/articles/967170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967170)
 - [Пока все вайбкодят, мы продолжаем делать freemium базу данных для разработки ERP/LLM-систем](https://habr.com/ru/companies/totum_online/articles/967298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967298)
-- [Навыки будущего: чему учиться, чтобы быть востребованным через 5 лет](https://habr.com/ru/companies/habr_career/articles/962862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962862)
-- [1 ИИ, 100 чашек кофе и 365 дней: как превратить онбординг инженеров техподдержки в квест](https://habr.com/ru/companies/k2tech/articles/967924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967924)
-- [Ozon, Mail, Yandex — все в кризисе IT](https://habr.com/ru/articles/967922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
