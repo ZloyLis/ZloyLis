@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экспресс-опрос: как за 10 минут узнать, что на самом деле думает команда о спринте](https://habr.com/ru/companies/beget/articles/966684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966684)
+- [[Перевод] Что такое преобразование Фурье?](https://habr.com/ru/articles/967798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967798)
+- [Как работает наша LLM-платформа MWS GPT](https://habr.com/ru/companies/ru_mts/articles/967478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967478)
 - [Как мы сделали капчу, когда hCaptcha отказался работать для российских пользователей](https://habr.com/ru/companies/ddosguard/articles/967316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967316)
 - [Лучшие нейросети для вайбкодинга в 1С 5](https://habr.com/ru/articles/967828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967828)
-- [[Перевод] Увы, ваш синтаксис подсвечен безграмотно](https://habr.com/ru/articles/967812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967812)
-- [Анализ аудио потока HLS с помощью Web Audio API и hls.js](https://habr.com/ru/articles/967392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967392)
-- [Числовой тип данных с плавающей точкой double IEEE 754](https://habr.com/ru/articles/967750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
