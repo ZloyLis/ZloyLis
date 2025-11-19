@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Antigravity и Gemini 3 Pro: что реально меняется в разработке и почему это не убийца Cursor](https://habr.com/ru/articles/968148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968148)
 - [IPv6 для сайта, и не только](https://habr.com/ru/articles/968134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968134)
 - [Выживание в ASO: зачем нужен якорь, семантическое ядро и ASA](https://habr.com/ru/articles/968112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968112)
 - [Космотекст: отправляем статьи в космос — и объявляем победителей 🚀](https://habr.com/ru/specials/968096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968096)
 - [Разбираемся с фильтрами в TShark, чтобы анализировать сетевой трафик прямо в консоли](https://habr.com/ru/companies/cloud_ru/articles/965740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965740)
-- [Люди, которые писали код на голых нервах. О практике девяностых и нулевых, которая до сих пор работает](https://habr.com/ru/articles/968082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
