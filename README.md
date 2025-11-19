@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как оптимизация перформанса Debezium JDBC Sink Connector помогла улучшить Open-source версию решения](https://habr.com/ru/companies/vktech/articles/967558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967558)
+- [Почему молодые разработчики сейчас способны на то, что раньше казалось недостижимым](https://habr.com/ru/articles/968064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968064)
+- [Астероид для IT-индустрии: как пережить AI-апокалипсис](https://habr.com/ru/companies/avito/articles/966426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966426)
+- [Хватит писать CSS с нуля: как Chakra UI экономит время и нервы разработчика](https://habr.com/ru/companies/ruvds/articles/959146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959146)
+- [Как оптимизация перформанса Debezium JDBC Sink Connector помогла улучшить Open-source версию решения](https://habr.com/ru/companies/vk/articles/967558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967558)
 - [[Перевод] Нативный API Versioning в Spring 7: долгожданная официальная поддержка](https://habr.com/ru/companies/spring_aio/articles/967454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967454)
-- [[Перевод] Генерация BPMN с помощью LLM в диалоговом режиме: эксперименты и выводы](https://habr.com/ru/articles/968016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968016)
-- [Книга: «Алгоритмы машинного обучения»](https://habr.com/ru/companies/piter/articles/967170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967170)
-- [Пока все вайбкодят, мы продолжаем делать freemium базу данных для разработки ERP/LLM-систем](https://habr.com/ru/companies/totum_online/articles/967298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
