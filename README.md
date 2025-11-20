@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путешествие в пространство смыслов: как анатомия LLM поможет нам в работе со смыслами и поиске новой теории познания](https://habr.com/ru/articles/962644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962644)
+- [Диванная аналитика](https://habr.com/ru/articles/968100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968100)
+- [[Перевод] Призыв к компактному программному обеспечению](https://habr.com/ru/articles/968246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968246)
 - [Тонкая нить жизни: новая теория предсказывает архитектуру тромбов на языке физики](https://habr.com/ru/articles/967820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967820)
 - [Мой путь в IT: от iOS до техлида в Альфа-Банке](https://habr.com/ru/articles/968224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968224)
-- [Превращаем любой текст в модель знаний — и почему это удобно](https://habr.com/ru/articles/968222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968222)
-- [Как всплывающее окно в WebView съело мои два дня &lpar;viewport и с чем его кушать&rpar;](https://habr.com/ru/articles/968206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968206)
-- [Reinforcement Learning: Model-free &amp;amp; Deep RL](https://habr.com/ru/articles/956890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
