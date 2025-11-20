@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Превращаем любой текст в модель знаний — и почему это удобно](https://habr.com/ru/articles/968222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968222)
 - [Как всплывающее окно в WebView съело мои два дня &lpar;viewport и с чем его кушать&rpar;](https://habr.com/ru/articles/968206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968206)
 - [Reinforcement Learning: Model-free &amp;amp; Deep RL](https://habr.com/ru/articles/956890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956890)
 - [Снижаем когнитивную сложность при проектировании архитектуры приложения](https://habr.com/ru/articles/968170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968170)
 - [Google Antigravity и Gemini 3 Pro: что реально меняется в разработке и почему это не убийца Cursor](https://habr.com/ru/articles/968148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968148)
-- [IPv6 для сайта, и не только](https://habr.com/ru/articles/968134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
