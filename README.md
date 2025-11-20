@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мой личный топ книг для тех, кто хочет стать серьезным разработчиком](https://habr.com/ru/articles/968524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968524)
-- [Масштабируемая орбитальная транспортная инфраструктура на базе динамических оптических резонаторов «Конвейер Родичкина»](https://habr.com/ru/articles/968520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968520)
-- [Как мы варим иголки от ёлки — и делаем на этом 25 млн ₽ в год](https://habr.com/ru/companies/moysklad/articles/968518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968518)
-- [OpenAI Guardrails: защита ИИ-приложений от атак](https://habr.com/ru/articles/968516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968516)
-- [Конвейеры формирования изображений. Часть 1: Регистрация света и дебайеринг](https://habr.com/ru/companies/airi/articles/968126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968126)
+- [Как перестать мониторить серверы и начать следить за продуктом](https://habr.com/ru/companies/tbank/articles/968534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968534)
+- [Почему в 70% малых производств бардак в учёте — и как это исправляется без дорогой автоматизации](https://habr.com/ru/articles/968548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968548)
+- [Go: логирование](https://habr.com/ru/articles/968196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968196)
+- [Автоматизированное автономное управление ролл-шторой на ESPHome](https://habr.com/ru/articles/968540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968540)
+- [.NET 10 и C# 14: что поменяется в вашем коде](https://habr.com/ru/articles/968538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
