@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Брокеры сообщений Kafka и RabbitMQ в реальной жизни](https://habr.com/ru/companies/T1Holding/articles/968394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968394)
+- [Axiom JDK: криптография «из коробки» и подключение ГОСТ-провайдеров](https://habr.com/ru/companies/axiomjdk/articles/968332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968332)
+- [Reactive Web Components: реактивность без фреймворка](https://habr.com/ru/articles/968384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968384)
+- [QA-метрики: что на самом деле важно измерять и как в этом помогает TMS](https://habr.com/ru/articles/968374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968374)
 - [Мобильный Vivaldi 7.7 — Найти и сохранить](https://habr.com/ru/companies/vivaldi/articles/968350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968350)
-- [Coding Agents становятся нормой: AWS Kiro против Cursor, Copilot и Claude Code](https://habr.com/ru/articles/968346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968346)
-- [Из критиков в проповедники, или как примирить непримиримое](https://habr.com/ru/companies/vk/articles/967522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967522)
-- [Kubernetes с поддержкой confidential containers &lpar;CoCo&rpar;. Хакеры и облачные провайдеры останутся ни с чем](https://habr.com/ru/articles/968324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968324)
-- [Не интерфейсом единым —  куда движется дизайн в 2026 году](https://habr.com/ru/articles/968312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968312)
 <!-- BLOG-POST-LIST:END -->
 
 ---
