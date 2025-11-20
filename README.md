@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зоопарк строк в вашем C++ коде?](https://habr.com/ru/articles/968536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968536)
+- [Как мы постепенно идём к «умному» центру администрирования СУБД](https://habr.com/ru/companies/postgrespro/articles/968570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968570)
+- [Как мы учили AI-поиск в сервисе книги билайн понимать запросы вроде «хочу что-нибудь как Сумерки»](https://habr.com/ru/companies/redmadrobot/articles/968566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968566)
 - [Сербия застряла в прошлом? О жизни в стране, похожей на Россию 2010-х](https://habr.com/ru/articles/968358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968358)
 - [Почему важна разница между процессом и системой?](https://habr.com/ru/articles/968556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968556)
-- [Docker для начинающих: что это такое и как пользоваться](https://habr.com/ru/companies/netologyru/articles/967546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967546)
-- [Silent Hill давно не тот? Разбираемся, насколько серия изменилась на самом деле](https://habr.com/ru/companies/plati/articles/968430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968430)
-- [БД без боли: моя шпаргалка для собесов в Java. Часть 4](https://habr.com/ru/articles/968532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
