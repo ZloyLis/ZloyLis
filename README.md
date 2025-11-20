@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как перестать мониторить серверы и начать следить за продуктом](https://habr.com/ru/companies/tbank/articles/968534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968534)
-- [Почему в 70% малых производств бардак в учёте — и как это исправляется без дорогой автоматизации](https://habr.com/ru/articles/968548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968548)
-- [Go: логирование](https://habr.com/ru/articles/968196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968196)
-- [Автоматизированное автономное управление ролл-шторой на ESPHome](https://habr.com/ru/articles/968540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968540)
-- [.NET 10 и C# 14: что поменяется в вашем коде](https://habr.com/ru/articles/968538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968538)
+- [Сербия застряла в прошлом? О жизни в стране, похожей на Россию 2010-х](https://habr.com/ru/articles/968358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968358)
+- [Почему важна разница между процессом и системой?](https://habr.com/ru/articles/968556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968556)
+- [Docker для начинающих: что это такое и как пользоваться](https://habr.com/ru/companies/netologyru/articles/967546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967546)
+- [Silent Hill давно не тот? Разбираемся, насколько серия изменилась на самом деле](https://habr.com/ru/companies/plati/articles/968430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968430)
+- [БД без боли: моя шпаргалка для собесов в Java. Часть 4](https://habr.com/ru/articles/968532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
