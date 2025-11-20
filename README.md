@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм выбора информационных систем](https://habr.com/ru/companies/otus/articles/967182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967182)
+- [Как тревожность пациентов ломает UX медицинских сервисов — и что с этим делать дизайнеру](https://habr.com/ru/articles/968590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968590)
 - [Зоопарк строк в вашем C++ коде?](https://habr.com/ru/articles/968536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968536)
 - [Как мы постепенно идём к «умному» центру администрирования СУБД](https://habr.com/ru/companies/postgrespro/articles/968570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968570)
 - [Как мы учили AI-поиск в сервисе книги билайн понимать запросы вроде «хочу что-нибудь как Сумерки»](https://habr.com/ru/companies/redmadrobot/articles/968566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968566)
-- [Сербия застряла в прошлом? О жизни в стране, похожей на Россию 2010-х](https://habr.com/ru/articles/968358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968358)
-- [Почему важна разница между процессом и системой?](https://habr.com/ru/articles/968556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
