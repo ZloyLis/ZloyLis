@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильный Vivaldi 7.7 — Найти и сохранить](https://habr.com/ru/companies/vivaldi/articles/968350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968350)
+- [Coding Agents становятся нормой: AWS Kiro против Cursor, Copilot и Claude Code](https://habr.com/ru/articles/968346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968346)
+- [Из критиков в проповедники, или как примирить непримиримое](https://habr.com/ru/companies/vk/articles/967522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967522)
+- [Kubernetes с поддержкой confidential containers &lpar;CoCo&rpar;. Хакеры и облачные провайдеры останутся ни с чем](https://habr.com/ru/articles/968324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968324)
 - [Не интерфейсом единым —  куда движется дизайн в 2026 году](https://habr.com/ru/articles/968312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968312)
-- [Публикация Allure-отчетов в условиях ограниченности CI/CD](https://habr.com/ru/companies/simbirsoft/articles/965738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965738)
-- [ИИ как опасный советчик: Почему нейросетям нельзя доверять настройку производительности PostgreSQL](https://habr.com/ru/articles/968308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968308)
-- [Мечтают ли ИИ-агенты об удобных IDE?](https://habr.com/ru/companies/haulmont/articles/925088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925088)
-- [Генерация схем бизнес-процессов с помощью ИИ на основе текстового ТЗ](https://habr.com/ru/articles/968300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
