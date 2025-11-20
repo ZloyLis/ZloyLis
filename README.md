@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [CookBook maven plugin. CDI, отладка и тестирование](https://habr.com/ru/articles/968502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968502)
-- [Как работает облако на самом деле. Простое объяснение на реальном примере](https://habr.com/ru/companies/hostkey/articles/968492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968492)
-- [[Перевод] Как фильтры Блума в 16 раз ускорили API](https://habr.com/ru/articles/968024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968024)
-- [Как мы встроили ИИ в Process Mining: децентрализация, одна кнопка инсайтов и путь к агентам](https://habr.com/ru/companies/alfa/articles/966570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966570)
-- [Ловушка искусственного интеллекта: действительно ли AI позволяет писать код быстрее](https://habr.com/ru/articles/968444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968444)
+- [Мой личный топ книг для тех, кто хочет стать серьезным разработчиком](https://habr.com/ru/articles/968524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968524)
+- [Масштабируемая орбитальная транспортная инфраструктура на базе динамических оптических резонаторов «Конвейер Родичкина»](https://habr.com/ru/articles/968520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968520)
+- [Как мы варим иголки от ёлки — и делаем на этом 25 млн ₽ в год](https://habr.com/ru/companies/moysklad/articles/968518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968518)
+- [OpenAI Guardrails: защита ИИ-приложений от атак](https://habr.com/ru/articles/968516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968516)
+- [Конвейеры формирования изображений. Часть 1: Регистрация света и дебайеринг](https://habr.com/ru/companies/airi/articles/968126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
