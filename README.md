@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как фильтры Блума в 16 раз ускорили API](https://habr.com/ru/articles/968024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968024)
+- [Как мы встроили ИИ в Process Mining: децентрализация, одна кнопка инсайтов и путь к агентам](https://habr.com/ru/companies/alfa/articles/966570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966570)
+- [Ловушка искусственного интеллекта: действительно ли AI позволяет писать код быстрее](https://habr.com/ru/articles/968444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968444)
 - [Высоконагруженный reverse-proxy на YARP](https://habr.com/ru/companies/otus/articles/960358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960358)
 - [Вооружаемся против мусорных кластеров: как автоматизировать уход за Kubernetes](https://habr.com/ru/companies/cloud_ru/articles/967940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967940)
-- [Расчет веса перевозимого груза самосвала](https://habr.com/ru/articles/968406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968406)
-- [Брокеры сообщений Kafka и RabbitMQ в реальной жизни](https://habr.com/ru/companies/T1Holding/articles/968394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968394)
-- [Axiom JDK: криптография «из коробки» и подключение ГОСТ-провайдеров](https://habr.com/ru/companies/axiomjdk/articles/968332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
