@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вайб-кодинг от-кутюр: MCP-сервер проверки и запуска кода на Питоне](https://habr.com/ru/articles/967042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967042)
-- [Код-гольф в Яндексе: как нерды развлекаются](https://habr.com/ru/companies/yandex/articles/961658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961658)
-- [Разворачиваем PHP проект с помощью Ansible](https://habr.com/ru/articles/968186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968186)
-- [Диванная аналитика](https://habr.com/ru/articles/968100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968100)
-- [[Перевод] Призыв к компактному программному обеспечению](https://habr.com/ru/articles/968246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968246)
+- [Не интерфейсом единым —  куда движется дизайн в 2026 году](https://habr.com/ru/articles/968312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968312)
+- [Публикация Allure-отчетов в условиях ограниченности CI/CD](https://habr.com/ru/companies/simbirsoft/articles/965738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965738)
+- [ИИ как опасный советчик: Почему нейросетям нельзя доверять настройку производительности PostgreSQL](https://habr.com/ru/articles/968308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968308)
+- [Мечтают ли ИИ-агенты об удобных IDE?](https://habr.com/ru/companies/haulmont/articles/925088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=925088)
+- [Генерация схем бизнес-процессов с помощью ИИ на основе текстового ТЗ](https://habr.com/ru/articles/968300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
