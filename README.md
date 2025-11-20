@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что, если Солнце исчезнет?](https://habr.com/ru/articles/968612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968612)
 - [Алгоритм выбора информационных систем](https://habr.com/ru/companies/otus/articles/967182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967182)
 - [Как тревожность пациентов ломает UX медицинских сервисов — и что с этим делать дизайнеру](https://habr.com/ru/articles/968590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968590)
 - [Зоопарк строк в вашем C++ коде?](https://habr.com/ru/articles/968536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968536)
 - [Как мы постепенно идём к «умному» центру администрирования СУБД](https://habr.com/ru/companies/postgrespro/articles/968570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968570)
-- [Как мы учили AI-поиск в сервисе книги билайн понимать запросы вроде «хочу что-нибудь как Сумерки»](https://habr.com/ru/companies/redmadrobot/articles/968566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
