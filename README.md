@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Высоконагруженный reverse-proxy на YARP](https://habr.com/ru/companies/otus/articles/960358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960358)
+- [Вооружаемся против мусорных кластеров: как автоматизировать уход за Kubernetes](https://habr.com/ru/companies/cloud_ru/articles/967940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967940)
+- [Расчет веса перевозимого груза самосвала](https://habr.com/ru/articles/968406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968406)
 - [Брокеры сообщений Kafka и RabbitMQ в реальной жизни](https://habr.com/ru/companies/T1Holding/articles/968394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968394)
 - [Axiom JDK: криптография «из коробки» и подключение ГОСТ-провайдеров](https://habr.com/ru/companies/axiomjdk/articles/968332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968332)
-- [Reactive Web Components: реактивность без фреймворка](https://habr.com/ru/articles/968384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968384)
-- [QA-метрики: что на самом деле важно измерять и как в этом помогает TMS](https://habr.com/ru/articles/968374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968374)
-- [Мобильный Vivaldi 7.7 — Найти и сохранить](https://habr.com/ru/companies/vivaldi/articles/968350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
