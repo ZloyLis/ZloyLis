@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Путешествие в пространство смыслов: как анатомия LLM поможет нам в работе со смыслами и поиске новой теории познания](https://habr.com/ru/articles/962644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962644)
+- [Вайб-кодинг от-кутюр: MCP-сервер проверки и запуска кода на Питоне](https://habr.com/ru/articles/967042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967042)
+- [Код-гольф в Яндексе: как нерды развлекаются](https://habr.com/ru/companies/yandex/articles/961658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961658)
+- [Разворачиваем PHP проект с помощью Ansible](https://habr.com/ru/articles/968186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968186)
 - [Диванная аналитика](https://habr.com/ru/articles/968100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968100)
 - [[Перевод] Призыв к компактному программному обеспечению](https://habr.com/ru/articles/968246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968246)
-- [Тонкая нить жизни: новая теория предсказывает архитектуру тромбов на языке физики](https://habr.com/ru/articles/967820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967820)
-- [Мой путь в IT: от iOS до техлида в Альфа-Банке](https://habr.com/ru/articles/968224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
