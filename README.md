@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD и непрерывное тестирование &lpar;управление рисками в условиях постоянных изменений&rpar;](https://habr.com/ru/articles/966432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966432)
-- [Как не проспать дейли: Реализуем планировщик задач внутри Python-процесса](https://habr.com/ru/articles/968682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968682)
-- [Как Python помог «разобрать» 10 000 сообщений из Telegram для суда: практическое руководство для юристов](https://habr.com/ru/articles/968680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968680)
-- [Почему ChatGPT не знает ваших внутренних данных и как это исправить: простое объяснение RAG](https://habr.com/ru/articles/968676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968676)
-- [Прямое измерение атомного тепла опровергает старую догму о перегреве](https://habr.com/ru/companies/beget/articles/968522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968522)
+- [Упрощаем работу с микросервисами при помощи API Gateway на Java](https://habr.com/ru/companies/otus/articles/968028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968028)
+- [Меня снова спросили за Optional](https://habr.com/ru/articles/968736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968736)
+- [Подбор товара по своим базам с помощью ИИ](https://habr.com/ru/articles/968732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968732)
+- [LibreChat: open-source интерфейс для ваших моделей в экосистеме BotHub](https://habr.com/ru/companies/bothub/articles/968728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968728)
+- [Лень – двигатель прогресса, на примере создания облачной CLI](https://habr.com/ru/companies/mws/articles/968052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
