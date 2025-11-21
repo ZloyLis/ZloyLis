@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go profiling lifecycle: от разработки до прода. Инструменты и практики](https://habr.com/ru/articles/968660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968660)
-- [Эффективные Large Language Models: от линейного attention к гибридным архитектурам, наши результаты и выводы](https://habr.com/ru/companies/sberbank/articles/967300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967300)
-- [Чтение на выходные: «Как построить машину. Автобиография величайшего конструктора “Формулы-1”» Эдриана Ньюи](https://habr.com/ru/companies/onlinepatent/articles/968370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968370)
-- [Яндекс. Мнение](https://habr.com/ru/articles/968648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968648)
-- [Сшивая миры: как гибридный метод позволяет заглянуть в недра Земли с высокой точностью](https://habr.com/ru/articles/968320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968320)
+- [CI/CD и непрерывное тестирование &lpar;управление рисками в условиях постоянных изменений&rpar;](https://habr.com/ru/articles/966432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966432)
+- [Как не проспать дейли: Реализуем планировщик задач внутри Python-процесса](https://habr.com/ru/articles/968682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968682)
+- [Как Python помог «разобрать» 10 000 сообщений из Telegram для суда: практическое руководство для юристов](https://habr.com/ru/articles/968680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968680)
+- [Почему ChatGPT не знает ваших внутренних данных и как это исправить: простое объяснение RAG](https://habr.com/ru/articles/968676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968676)
+- [Прямое измерение атомного тепла опровергает старую догму о перегреве](https://habr.com/ru/companies/beget/articles/968522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
