@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тест Гилева: почему главный benchmark 1С врет в облаке](https://habr.com/ru/companies/nubes/articles/968814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968814)
-- [Всё, что вы хотели знать о веб‑токенах, но боялись спросить](https://habr.com/ru/companies/securityvison/articles/968812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968812)
-- [Делаем активное охлаждение для Orange Pi Zero W2 с интеграцией в Home Assistant и оповещаем о неисправностях в Node-Red](https://habr.com/ru/articles/968810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968810)
-- [Микросервисная трансформация в Купере — как это было. Часть I: Начинаем распил монолитов](https://habr.com/ru/companies/kuper/articles/961630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961630)
-- [Не лень: как обмануть мозг и справиться с прокрастинацией](https://habr.com/ru/companies/yadro/articles/967390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967390)
+- [Теория по графам для программистов](https://habr.com/ru/articles/968846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968846)
+- [Kafka без боли: моя шпаргалка для собесов в Java. Часть 5](https://habr.com/ru/articles/968844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968844)
+- [[Перевод] Как IT-компании измеряют реальную пользу от ИИ в разработке?](https://habr.com/ru/companies/magnus-tech/articles/963582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963582)
+- [Вредные советы. Как превратить системного аналитика в человека–оркестр](https://habr.com/ru/companies/infowatch/articles/965394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965394)
+- [Как выбрать MCP-сервер: практическое руководство](https://habr.com/ru/articles/968840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
