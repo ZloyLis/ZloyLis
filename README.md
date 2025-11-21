@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Antipatterns: отказ от агрегатных функций = кратное ускорение](https://habr.com/ru/companies/tensor/articles/968720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968720)
-- [Наш новый LLM-based синтез речи](https://habr.com/ru/companies/sberbank/articles/966640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966640)
-- [Новый рекорд оверклокинга: что нужно, чтобы разогнать DDR5 до 13 211 МТ/с](https://habr.com/ru/companies/x-com/articles/968758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968758)
-- [Кросс-компиляция и запуск консольного Go‑приложения на Android, Windows, macOS и Linux](https://habr.com/ru/companies/ruvds/articles/968178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968178)
-- [Под капотом современных AI-систем: разбираем железо](https://habr.com/ru/companies/oleg-bunin/articles/968426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968426)
+- [Тест Гилева: почему главный benchmark 1С врет в облаке](https://habr.com/ru/companies/nubes/articles/968814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968814)
+- [Всё, что вы хотели знать о веб‑токенах, но боялись спросить](https://habr.com/ru/companies/securityvison/articles/968812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968812)
+- [Делаем активное охлаждение для Orange Pi Zero W2 с интеграцией в Home Assistant и оповещаем о неисправностях в Node-Red](https://habr.com/ru/articles/968810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968810)
+- [Микросервисная трансформация в Купере — как это было. Часть I: Начинаем распил монолитов](https://habr.com/ru/companies/kuper/articles/961630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961630)
+- [Не лень: как обмануть мозг и справиться с прокрастинацией](https://habr.com/ru/companies/yadro/articles/967390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
