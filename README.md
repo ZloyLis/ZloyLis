@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Go profiling lifecycle: от разработки до прода. Инструменты и практики](https://habr.com/ru/articles/968660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968660)
+- [Эффективные Large Language Models: от линейного attention к гибридным архитектурам, наши результаты и выводы](https://habr.com/ru/companies/sberbank/articles/967300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967300)
+- [Чтение на выходные: «Как построить машину. Автобиография величайшего конструктора “Формулы-1”» Эдриана Ньюи](https://habr.com/ru/companies/onlinepatent/articles/968370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968370)
 - [Яндекс. Мнение](https://habr.com/ru/articles/968648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968648)
 - [Сшивая миры: как гибридный метод позволяет заглянуть в недра Земли с высокой точностью](https://habr.com/ru/articles/968320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968320)
-- [Фреймворк для найма сильных B2B-сейлзов: полный гайд по шагам](https://habr.com/ru/articles/968638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968638)
-- [Меня позвали в крутой проект, спасибо, Хабр](https://habr.com/ru/articles/968632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968632)
-- [Сцепка Родичкина: Концепция бестопливного удержания спутниковых группировок на сверхнизких орбитах &lpar;VLEO&rpar;](https://habr.com/ru/articles/968628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
