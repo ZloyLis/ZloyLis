@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Упрощаем работу с микросервисами при помощи API Gateway на Java](https://habr.com/ru/companies/otus/articles/968028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968028)
-- [Меня снова спросили за Optional](https://habr.com/ru/articles/968736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968736)
-- [Подбор товара по своим базам с помощью ИИ](https://habr.com/ru/articles/968732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968732)
-- [LibreChat: open-source интерфейс для ваших моделей в экосистеме BotHub](https://habr.com/ru/companies/bothub/articles/968728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968728)
-- [Лень – двигатель прогресса, на примере создания облачной CLI](https://habr.com/ru/companies/mws/articles/968052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968052)
+- [PostgreSQL Antipatterns: отказ от агрегатных функций = кратное ускорение](https://habr.com/ru/companies/tensor/articles/968720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968720)
+- [Наш новый LLM-based синтез речи](https://habr.com/ru/companies/sberbank/articles/966640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966640)
+- [Новый рекорд оверклокинга: что нужно, чтобы разогнать DDR5 до 13 211 МТ/с](https://habr.com/ru/companies/x-com/articles/968758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968758)
+- [Кросс-компиляция и запуск консольного Go‑приложения на Android, Windows, macOS и Linux](https://habr.com/ru/companies/ruvds/articles/968178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968178)
+- [Под капотом современных AI-систем: разбираем железо](https://habr.com/ru/companies/oleg-bunin/articles/968426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
