@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Чистая правда: как компьютерное зрение помогает делать мир чище](https://habr.com/ru/articles/968952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968952)
-- [Меня не повысили](https://habr.com/ru/articles/968950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968950)
-- [Per aspera ad astra. Как построить космолет, не привлекая внимания санитаров](https://habr.com/ru/companies/magnit/articles/968948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968948)
-- [GigaChat 3 Ultra Preview — тяжёлый open source](https://habr.com/ru/companies/sberdevices/articles/968904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968904)
-- [Как не надо писать код на C++](https://habr.com/ru/companies/otus/articles/967292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967292)
+- [Spring Boot 4. Новые модули. Зачем?](https://habr.com/ru/companies/spring_aio/articles/968898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968898)
+- [История, о том как почтовый стандарт, спас Web](https://habr.com/ru/articles/968986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968986)
+- [Запертые хиты недавнего прошлого. Каким играм эпохи PS3 очень нужен ХОТЯ БЫ РЕМАСТЕР](https://habr.com/ru/companies/timeweb/articles/968964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968964)
+- [Немного об электродвигателях](https://habr.com/ru/companies/beget/articles/967782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967782)
+- [Как в ALD Pro организована миграция с AD, групповые политики, работа с отечественными ОС. Интервью с разработчиками](https://habr.com/ru/articles/968974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
