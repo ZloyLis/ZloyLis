@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Теория по графам для программистов](https://habr.com/ru/articles/968846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968846)
-- [Kafka без боли: моя шпаргалка для собесов в Java. Часть 5](https://habr.com/ru/articles/968844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968844)
-- [[Перевод] Как IT-компании измеряют реальную пользу от ИИ в разработке?](https://habr.com/ru/companies/magnus-tech/articles/963582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963582)
-- [Вредные советы. Как превратить системного аналитика в человека–оркестр](https://habr.com/ru/companies/infowatch/articles/965394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965394)
-- [Как выбрать MCP-сервер: практическое руководство](https://habr.com/ru/articles/968840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968840)
+- [Восемь высокопроизводительных Python-библиотек в копилку разработчикам](https://habr.com/ru/companies/ru_mts/articles/968776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968776)
+- [«Невидимые» сервисы: как исследовать API, модули и иные интеграционные решения](https://habr.com/ru/companies/skbkontur/articles/968716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968716)
+- [Один дорогой разработчик или шесть дешевых: простая математика](https://habr.com/ru/articles/968868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968868)
+- [Философия магии — различные подходы](https://habr.com/ru/articles/968864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968864)
+- [Развитие бенчмарка MERA: от текстовых задач к мультимодальному тестированию ИИ](https://habr.com/ru/companies/sberbank/articles/967862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
