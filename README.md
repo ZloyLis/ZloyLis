@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как тимлиду перестать жить в режиме «вечной спешки» и научиться управлять задачами](https://habr.com/ru/companies/avito/articles/968800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968800)
-- [От идеи до сертификации: как мы делали устройство, которое должно спасать людей при ДТП](https://habr.com/ru/articles/968926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968926)
-- [Nano Banana Pro — почему это прорывная модель генерации и редактирования изображений? Проверяем на реальных примерах](https://habr.com/ru/articles/968916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968916)
-- [Что спрашиваем у работодателя на собесах, чтобы потом не было так больно](https://habr.com/ru/articles/968914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968914)
-- [Как я «взломал» адресную книгу Radmin, чтобы не вводить 1000 IP-адресов вручную](https://habr.com/ru/articles/968896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968896)
+- [Чистая правда: как компьютерное зрение помогает делать мир чище](https://habr.com/ru/articles/968952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968952)
+- [Меня не повысили](https://habr.com/ru/articles/968950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968950)
+- [Per aspera ad astra. Как построить космолет, не привлекая внимания санитаров](https://habr.com/ru/companies/magnit/articles/968948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968948)
+- [GigaChat 3 Ultra Preview — тяжёлый open source](https://habr.com/ru/companies/sberdevices/articles/968904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968904)
+- [Как не надо писать код на C++](https://habr.com/ru/companies/otus/articles/967292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
