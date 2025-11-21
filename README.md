@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как тимлиду перестать жить в режиме «вечной спешки» и научиться управлять задачами](https://habr.com/ru/companies/avito/articles/968800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968800)
+- [От идеи до сертификации: как мы делали устройство, которое должно спасать людей при ДТП](https://habr.com/ru/articles/968926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968926)
+- [Nano Banana Pro — почему это прорывная модель генерации и редактирования изображений? Проверяем на реальных примерах](https://habr.com/ru/articles/968916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968916)
+- [Что спрашиваем у работодателя на собесах, чтобы потом не было так больно](https://habr.com/ru/articles/968914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968914)
 - [Как я «взломал» адресную книгу Radmin, чтобы не вводить 1000 IP-адресов вручную](https://habr.com/ru/articles/968896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968896)
-- [Чеклист к черной пятнице](https://habr.com/ru/articles/968894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968894)
-- [Программа ZeroNights 2025 — cut the crap show me ur hack](https://habr.com/ru/companies/dsec/articles/968886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968886)
-- [[Перевод] Интернет бесподобен! Спасибо, TCP](https://habr.com/ru/companies/ruvds/articles/967682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967682)
-- [СИБУР внедрил 10 000 беспроводных датчиков и сэкономил 320 млн рублей](https://habr.com/ru/companies/sibur_official/articles/968774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
