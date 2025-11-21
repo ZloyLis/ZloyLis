@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Меня позвали в крутой проект, спасибо Хабр](https://habr.com/ru/articles/968632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968632)
+- [Меня позвали в крутой проект, спасибо, Хабр](https://habr.com/ru/articles/968632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968632)
 - [Сцепка Родичкина: Концепция бестопливного удержания спутниковых группировок на сверхнизких орбитах &lpar;VLEO&rpar;](https://habr.com/ru/articles/968628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968628)
 - [Как я собрал и подготовил датасет дефектов печатных плат для обучения моделей YOLO](https://habr.com/ru/articles/968626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968626)
 - [Что, если Солнце исчезнет?](https://habr.com/ru/articles/968612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968612)
