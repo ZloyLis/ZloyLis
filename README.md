@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Восемь высокопроизводительных Python-библиотек в копилку разработчикам](https://habr.com/ru/companies/ru_mts/articles/968776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968776)
-- [«Невидимые» сервисы: как исследовать API, модули и иные интеграционные решения](https://habr.com/ru/companies/skbkontur/articles/968716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968716)
-- [Один дорогой разработчик или шесть дешевых: простая математика](https://habr.com/ru/articles/968868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968868)
-- [Философия магии — различные подходы](https://habr.com/ru/articles/968864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968864)
-- [Развитие бенчмарка MERA: от текстовых задач к мультимодальному тестированию ИИ](https://habr.com/ru/companies/sberbank/articles/967862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967862)
+- [Как я «взломал» адресную книгу Radmin, чтобы не вводить 1000 IP-адресов вручную](https://habr.com/ru/articles/968896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968896)
+- [Чеклист к черной пятнице](https://habr.com/ru/articles/968894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968894)
+- [Программа ZeroNights 2025 — cut the crap show me ur hack](https://habr.com/ru/companies/dsec/articles/968886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968886)
+- [[Перевод] Интернет бесподобен! Спасибо, TCP](https://habr.com/ru/companies/ruvds/articles/967682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967682)
+- [СИБУР внедрил 10 000 беспроводных датчиков и сэкономил 320 млн рублей](https://habr.com/ru/companies/sibur_official/articles/968774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
