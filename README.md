@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Card DOM на языке Argentum: мы дома](https://habr.com/ru/articles/967770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967770)
 - [Микрофронтенды: прихоть разработчиков или реальная польза для бизнеса](https://habr.com/ru/articles/968994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968994)
 - [Spring Boot 4. Новые модули. Зачем?](https://habr.com/ru/companies/spring_aio/articles/968898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968898)
-- [История, о том как почтовый стандарт, спас Web](https://habr.com/ru/articles/968986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968986)
+- [История о том как почтовый стандарт спас Web](https://habr.com/ru/articles/968986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968986)
 - [Запертые хиты недавнего прошлого. Каким играм эпохи PS3 очень нужен ХОТЯ БЫ РЕМАСТЕР](https://habr.com/ru/companies/timeweb/articles/968964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968964)
-- [Немного об электродвигателях](https://habr.com/ru/companies/beget/articles/967782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
