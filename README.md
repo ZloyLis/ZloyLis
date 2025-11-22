@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] MIT доказал провал 95% проектов, OpenAI признали галлюцинации, или почему ИИ никогда не заменит людей](https://habr.com/ru/companies/bothub/articles/969106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969106)
+- [LLM в науке. Используем LLM в анализе эксперимента](https://habr.com/ru/companies/timeweb/articles/967672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967672)
+- [ADSM: каталоги верхнего уровня](https://habr.com/ru/articles/967452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967452)
 - [Искусственный интеллект без иллюзий: как не сжечь бюджет компании на хайпе](https://habr.com/ru/articles/969094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969094)
 - [Владелец завода рассказал, как получает госпомощь и почему не боится это делать](https://habr.com/ru/articles/969092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969092)
-- [Часы, минуты и секунды: как люди нарезали сутки с древности до наших дней?](https://habr.com/ru/companies/ruvds/articles/968878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968878)
-- [КЕЙС И ЭКСПЕРИМЕНТ: Создание карточки с нуля](https://habr.com/ru/articles/969030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969030)
-- [ООП в Python на пальцах: Пишем свою текстовую RPG с нуля](https://habr.com/ru/articles/969088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
