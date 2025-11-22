@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моя история: как я нашёл первую работу в IT](https://habr.com/ru/articles/969228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969228)
+- [Всё, что вы хотели знать о t-тесте, но боялись спросить](https://habr.com/ru/articles/969226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969226)
 - [[Перевод] Анонс Angular v21](https://habr.com/ru/articles/969220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969220)
 - [[Перевод] Вероятность СДВГ в 15 раз выше если у человека эти три гена](https://habr.com/ru/articles/969214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969214)
 - [ТОП-10 лучших беспроводных наушников с шумоподавлением 2025 года](https://habr.com/ru/articles/968992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968992)
-- [Новый пузырь или фундаментальный рост?](https://habr.com/ru/articles/969200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969200)
-- [ЛИШНИЕ](https://habr.com/ru/articles/969194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
