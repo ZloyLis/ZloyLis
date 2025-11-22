@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/969160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969160)
+- [Вайбкодинг реальности: Как я заставил AI переписать физику, просто пересылая сообщения между окнами](https://habr.com/ru/articles/969158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969158)
 - [36 китайских стратагем. Перепрошиваю культурный код. Стратегия лисы. Часть 1](https://habr.com/ru/articles/965832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965832)
 - [Сексуальный подтекст андроида Эша или как Бильбо Бэггинс попал в фильм непонятной категории](https://habr.com/ru/articles/969136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969136)
 - [Как я проходил собеседование на Senior Java](https://habr.com/ru/articles/968968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968968)
-- [Что происходит с удалёнными файлами: разбираем алгоритм TRIM и его нюансы](https://habr.com/ru/companies/ruvds/articles/968202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968202)
-- [Профилактика выгорания: 12 рабочих способов, которые помогут не сгореть на работе](https://habr.com/ru/articles/961764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
