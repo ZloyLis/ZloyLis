@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лабораторная работа по тонкой настройке LLM для нестандартных задач классификации](https://habr.com/ru/companies/alfa/articles/968176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968176)
 - [Защита от мошенников: как я написал MVP версию сервиса для защиты от скама и мошенничества через Telegram](https://habr.com/ru/articles/968906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968906)
 - [Автоматически скрываем лишние истории в VK: простой браузерный скрипт](https://habr.com/ru/articles/969048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969048)
 - [Оптимизация производительности приложений: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/968768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968768)
 - [Принципы VSYOEBAL: От теории к практике](https://habr.com/ru/articles/968214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968214)
-- [Искусство выжить. Простое руководство для настоящих программистов](https://habr.com/ru/articles/969036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
