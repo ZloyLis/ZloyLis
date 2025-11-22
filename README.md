@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Профилактика выгорания: 12 рабочих способов, которые помогут не сгореть на работе](https://habr.com/ru/articles/961764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961764)
+- [Создатель логотипа Rolling Stone Джим Паркинсон: как придумывались уникальные шрифты и дизайн для журналов &lpar;и не только&rpar;](https://habr.com/ru/companies/onlinepatent/articles/969130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969130)
+- [Оценка эффективности внедрения искусственного интеллекта](https://habr.com/ru/articles/956192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956192)
+- [Дайджест игровых новостей на 22 ноября 2025](https://habr.com/ru/companies/plati/articles/969112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969112)
 - [[Перевод] MIT доказал провал 95% проектов, OpenAI признали галлюцинации, или почему ИИ никогда не заменит людей](https://habr.com/ru/companies/bothub/articles/969106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969106)
-- [LLM в науке. Используем LLM в анализе эксперимента](https://habr.com/ru/companies/timeweb/articles/967672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967672)
-- [ADSM: каталоги верхнего уровня](https://habr.com/ru/articles/967452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967452)
-- [Искусственный интеллект без иллюзий: как не сжечь бюджет компании на хайпе](https://habr.com/ru/articles/969094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969094)
-- [Владелец завода рассказал, как получает госпомощь и почему не боится это делать](https://habr.com/ru/articles/969092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
