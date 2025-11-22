@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть против PostgreSQL: системные ошибки AI в прогнозировании производительности под нагрузкой](https://habr.com/ru/articles/969082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969082)
+- [Пишем Telegram-бота на Python: прикручиваем оплату Telegram Stars, систему промокодов и OpenAI](https://habr.com/ru/articles/969080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969080)
+- [Loongson 3D7000: новый китайский процессор с большим потенциалом. Что это за чип?](https://habr.com/ru/companies/selectel/articles/968730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968730)
 - [AI на фотонных чипах все ближе: ученые провели тензорные вычисления с помощью света](https://habr.com/ru/companies/ru_mts/articles/968442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968442)
 - [Квантовые вихри исполняют парный танец в ловушке, состоящей из света](https://habr.com/ru/articles/968328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968328)
-- [[Перевод] Кому принадлежит ваша CMS?](https://habr.com/ru/articles/969062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969062)
-- [Вайб-кодим локальный мультимедийный сервер на C++ и Vue.js](https://habr.com/ru/articles/969046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969046)
-- [Лабораторная работа по тонкой настройке LLM для нестандартных задач классификации](https://habr.com/ru/companies/alfa/articles/968176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
