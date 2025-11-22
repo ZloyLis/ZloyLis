@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-10 лучших беспроводных наушников с шумоподавлением 2025 года](https://habr.com/ru/articles/968992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968992)
+- [Новый пузырь или фундаментальный рост?](https://habr.com/ru/articles/969200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969200)
+- [ЛИШНИЕ](https://habr.com/ru/articles/969194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969194)
+- [Мы добавили поддержку ещё 19 языков России и СНГ в проект silero-stress](https://habr.com/ru/articles/969184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969184)
 - [Как скачать файл по HTTPS/HTTP с произвольным ограничением скорости](https://habr.com/ru/articles/969178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969178)
-- [Беды с intel_pstate на Lenovo Yoga 9 2-in-1](https://habr.com/ru/articles/969176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969176)
-- [Три маразма Оптимизации](https://habr.com/ru/articles/969174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969174)
-- [Зарегистрировал CVE спустя 13 лет](https://habr.com/ru/articles/969172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969172)
-- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/969160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
