@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сексуальный подтекст андроида Эша или как Бильбо Бэггинс попал в фильм непонятной категории](https://habr.com/ru/articles/969136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969136)
+- [Как я проходил собеседование на Senior Java](https://habr.com/ru/articles/968968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968968)
+- [Что происходит с удалёнными файлами: разбираем алгоритм TRIM и его нюансы](https://habr.com/ru/companies/ruvds/articles/968202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968202)
 - [Профилактика выгорания: 12 рабочих способов, которые помогут не сгореть на работе](https://habr.com/ru/articles/961764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=961764)
 - [Создатель логотипа Rolling Stone Джим Паркинсон: как придумывались уникальные шрифты и дизайн для журналов &lpar;и не только&rpar;](https://habr.com/ru/companies/onlinepatent/articles/969130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969130)
-- [Оценка эффективности внедрения искусственного интеллекта](https://habr.com/ru/articles/956192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956192)
-- [Дайджест игровых новостей на 22 ноября 2025](https://habr.com/ru/companies/plati/articles/969112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969112)
-- [[Перевод] MIT доказал провал 95% проектов, OpenAI признали галлюцинации, или почему ИИ никогда не заменит людей](https://habr.com/ru/companies/bothub/articles/969106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969106)
 <!-- BLOG-POST-LIST:END -->
 
 ---
