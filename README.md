@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как скачать файл по HTTPS/HTTP с произвольным ограничением скорости](https://habr.com/ru/articles/969178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969178)
+- [Беды с intel_pstate на Lenovo Yoga 9 2-in-1](https://habr.com/ru/articles/969176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969176)
 - [Три маразма Оптимизации](https://habr.com/ru/articles/969174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969174)
 - [Зарегистрировал CVE спустя 13 лет](https://habr.com/ru/articles/969172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969172)
 - [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/969160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969160)
-- [Вайбкодинг реальности: Как я заставил AI переписать физику, просто пересылая сообщения между окнами](https://habr.com/ru/articles/969158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969158)
-- [36 китайских стратагем. Перепрошиваю культурный код. Стратегия лисы. Часть 1](https://habr.com/ru/articles/965832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
