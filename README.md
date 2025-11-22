@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI на фотонных чипах все ближе: ученые провели тензорные вычисления с помощью света](https://habr.com/ru/companies/ru_mts/articles/968442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968442)
+- [Квантовые вихри исполняют парный танец в ловушке, состоящей из света](https://habr.com/ru/articles/968328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968328)
+- [[Перевод] Кому принадлежит ваша CMS?](https://habr.com/ru/articles/969062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969062)
+- [Вайб-кодим локальный мультимедийный сервер на C++ и Vue.js](https://habr.com/ru/articles/969046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969046)
 - [Лабораторная работа по тонкой настройке LLM для нестандартных задач классификации](https://habr.com/ru/companies/alfa/articles/968176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968176)
-- [Защита от мошенников: как я написал MVP версию сервиса для защиты от скама и мошенничества через Telegram](https://habr.com/ru/articles/968906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968906)
-- [Автоматически скрываем лишние истории в VK: простой браузерный скрипт](https://habr.com/ru/articles/969048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969048)
-- [Оптимизация производительности приложений: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/968768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968768)
-- [Принципы VSYOEBAL: От теории к практике](https://habr.com/ru/articles/968214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
