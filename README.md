@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FlakyDetector — мой путь к созданию инструмента для ловли «нестабильных» тестов в Python](https://habr.com/ru/articles/969354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969354)
+- [SSPI: легитимность с двойным дном](https://habr.com/ru/articles/969352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969352)
+- [Мой путь от идеи до релиза на примере простого чат-бота с ИИ](https://habr.com/ru/articles/968568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968568)
 - [История золотого стандарта](https://habr.com/ru/articles/969248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969248)
 - [Плата контроллера движения OpenPNP](https://habr.com/ru/articles/969348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969348)
-- [А что там у Гуглов: Jules вайбкодинг агент от Google, который не смог](https://habr.com/ru/articles/969114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969114)
-- [История редкого ноутбука: свежий взгляд на винтажный Bliss 502C](https://habr.com/ru/companies/ruvds/articles/967848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967848)
-- [Мобильная разработка за неделю #611 &lpar;17 — 23 ноября&rpar;](https://habr.com/ru/articles/969346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
