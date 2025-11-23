@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ProSTQB — бесплатная платформа, которая выводит подготовку к ISTQB на новый уровень](https://habr.com/ru/articles/969460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969460)
+- [Align: находка для продакта](https://habr.com/ru/articles/964310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964310)
 - [Математика равновесия: как уравнение Ляпунова держит весь мир в узде](https://habr.com/ru/articles/967818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967818)
 - [Wi-Fi наружу, LAN внутрь: лучшее решение для работы в корпоративной сети](https://habr.com/ru/articles/969452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969452)
 - [Бот, который не забудет полить. Часть 1. Строим диалоговую логику на python-telegram-bot](https://habr.com/ru/articles/969448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969448)
-- [[Перевод] Структурные проблемы в теориях квантовой гравитации](https://habr.com/ru/articles/968772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968772)
-- [С чем CISO ходят к своему руководству? Метрики ИБ, которые говорят на языке бизнеса](https://habr.com/ru/articles/969444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
