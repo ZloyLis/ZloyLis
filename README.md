@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ошибки, которые я совершал при оценке стоимости проектов на фрилансе](https://habr.com/ru/articles/959362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959362)
+- [Мегатренды в дизайне интерфейсов. Часть 2. Природа и окружающая среда](https://habr.com/ru/articles/969258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969258)
+- [Vibe coding на SwiftUI + Qwen. Как c помощью ИИ сделать простое TODO-приложение на SwiftUI](https://habr.com/ru/articles/969252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969252)
 - [Я хакнул галактику &lpar;часть 4: Сомбреро, Бычий Глаз, Млечный Путь&rpar;](https://habr.com/ru/articles/966094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966094)
 - [Искусственный разум под микроскопом: ученые разобрали отличительные признаки сгенерированных текстов](https://habr.com/ru/articles/968586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968586)
-- [Автономный дом кочевника с дождевой водой, солнечными панелями. Жизнь без водопровода, газа и счетов](https://habr.com/ru/articles/969224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969224)
-- [CloudBridge Research: открываем результаты исследований QUIC/MASQUE и приглашаем к сотрудничеству](https://habr.com/ru/articles/969240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969240)
-- [24 «привычки» оптимизации изображений](https://habr.com/ru/articles/969236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
