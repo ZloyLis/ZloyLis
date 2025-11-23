@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вечный ревьювер: как ИИ меняет работу разработчиков](https://habr.com/ru/articles/969338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969338)
-- [Яндекс Трекер: Инструкция. Как создать форму для шаблонизации задач и проектов](https://habr.com/ru/articles/969336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969336)
-- [Как менялся ландшафт DDoS-атак в 2025 году](https://habr.com/ru/companies/vasexperts/articles/969232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969232)
-- [Клуб, который изменил мир: Homebrew Computer Club](https://habr.com/ru/companies/timeweb/articles/964422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964422)
-- [[Перевод] Триумф Nvidia и тихий маневр Баффета… Что же хитрый старик разглядел в Google, чего не видят остальные?](https://habr.com/ru/companies/selectel/articles/969216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969216)
+- [История золотого стандарта](https://habr.com/ru/articles/969248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969248)
+- [Плата контроллера движения OpenPNP](https://habr.com/ru/articles/969348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969348)
+- [А что там у Гуглов: Jules вайбкодинг агент от Google, который не смог](https://habr.com/ru/articles/969114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969114)
+- [История редкого ноутбука: свежий взгляд на винтажный Bliss 502C](https://habr.com/ru/companies/ruvds/articles/967848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967848)
+- [Мобильная разработка за неделю #611 &lpar;17 — 23 ноября&rpar;](https://habr.com/ru/articles/969346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
