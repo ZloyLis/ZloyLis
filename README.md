@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем вам PMBoK, когда есть эта статья?](https://habr.com/ru/articles/969040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969040)
+- [За кадрами для БАС — будущее технологий](https://habr.com/ru/articles/969300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969300)
+- [Poetry vs Pip: Почему пора перестать использовать requirements.txt](https://habr.com/ru/articles/969296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969296)
 - [[Перевод] Сборка IBM-PC XT на базе ПЛИС](https://habr.com/ru/companies/ruvds/articles/968496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968496)
 - [Код, который нас убивает](https://habr.com/ru/articles/969210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969210)
-- [Текстовые игры возвращаются? Новые сферы применения, а также некоторые руководства и ресурсы для разработки](https://habr.com/ru/companies/beeline_cloud/articles/969234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969234)
-- [Atomic insert in Clickhouse](https://habr.com/ru/articles/969282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969282)
-- [Портативные консоли осени 2025: от компактных Android-моделей до тяжеловесов на Strix Halo](https://habr.com/ru/companies/selectel/articles/969064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
