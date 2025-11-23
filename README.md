@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дискретные дифференциальные операторы](https://habr.com/ru/articles/969266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969266)
+- [Cure :: Завтипы и формальная верификация для BEAM](https://habr.com/ru/articles/969264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969264)
+- [pg_expecto + Демобаза 2.0: тестовый стенд для экспериментов с СУБД PostgreSQL](https://habr.com/ru/articles/969260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969260)
 - [[Перевод] Ошибки, которые я совершал при оценке стоимости проектов на фрилансе](https://habr.com/ru/articles/959362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959362)
 - [Мегатренды в дизайне интерфейсов. Часть 2. Природа и окружающая среда](https://habr.com/ru/articles/969258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969258)
-- [Vibe coding на SwiftUI + Qwen. Как c помощью ИИ сделать простое TODO-приложение на SwiftUI](https://habr.com/ru/articles/969252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969252)
-- [Я хакнул галактику &lpar;часть 4: Сомбреро, Бычий Глаз, Млечный Путь&rpar;](https://habr.com/ru/articles/966094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966094)
-- [Искусственный разум под микроскопом: ученые разобрали отличительные признаки сгенерированных текстов](https://habr.com/ru/articles/968586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
