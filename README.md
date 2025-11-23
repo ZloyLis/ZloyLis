@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мошенники крадут криптовалюту под видом вакансий для QA-инженеров](https://habr.com/ru/articles/969378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969378)
+- [Голосовой ввод для Windows через Vosk своими руками](https://habr.com/ru/articles/969360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969360)
+- [[Перевод] LLM Evals: движущая сила новой эры ИИ в бизнесе](https://habr.com/ru/articles/969358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969358)
 - [FlakyDetector — мой путь к созданию инструмента для ловли «нестабильных» тестов в Python](https://habr.com/ru/articles/969354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969354)
 - [SSPI: легитимность с двойным дном](https://habr.com/ru/articles/969352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969352)
-- [Мой путь от идеи до релиза на примере простого чат-бота с ИИ](https://habr.com/ru/articles/968568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968568)
-- [История золотого стандарта](https://habr.com/ru/articles/969248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969248)
-- [Плата контроллера движения OpenPNP](https://habr.com/ru/articles/969348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
