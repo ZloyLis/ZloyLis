@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CloudBridge Research: открываем результаты исследований QUIC/MASQUE и приглашаем к сотрудничеству](https://habr.com/ru/articles/969240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969240)
+- [24 «привычки» оптимизации изображений](https://habr.com/ru/articles/969236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969236)
+- [Вайб вместо звука: как я за вечер собрал вибровариометр на ESP32, а Gemini и ко сгенерировали всё, кроме пайки](https://habr.com/ru/articles/969230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969230)
 - [Моя история: как я нашёл первую работу в IT](https://habr.com/ru/articles/969228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969228)
 - [Всё, что вы хотели знать о t-тесте, но боялись спросить](https://habr.com/ru/articles/969226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969226)
-- [[Перевод] Анонс Angular v21](https://habr.com/ru/articles/969220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969220)
-- [[Перевод] Вероятность СДВГ в 15 раз выше если у человека эти три гена](https://habr.com/ru/articles/969214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969214)
-- [ТОП-10 лучших беспроводных наушников с шумоподавлением 2025 года](https://habr.com/ru/articles/968992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
