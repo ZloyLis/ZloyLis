@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Менеджер Python проектов на Python](https://habr.com/ru/articles/969318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969318)
-- [История одного бота: как сэкономить 500 часов на откликах и случайно отправить резюме боссу](https://habr.com/ru/articles/969314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969314)
-- [Создание простой поисковой системы, которая действительно работает](https://habr.com/ru/articles/969312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969312)
-- [Сервера всех филиалов — соединяйтесь](https://habr.com/ru/articles/969310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969310)
-- [Идеальный японский шторм](https://habr.com/ru/articles/969308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969308)
+- [Вечный ревьювер: как ИИ меняет работу разработчиков](https://habr.com/ru/articles/969338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969338)
+- [Яндекс Трекер: Инструкция. Как создать форму для шаблонизации задач и проектов](https://habr.com/ru/articles/969336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969336)
+- [Как менялся ландшафт DDoS-атак в 2025 году](https://habr.com/ru/companies/vasexperts/articles/969232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969232)
+- [Клуб, который изменил мир: Homebrew Computer Club](https://habr.com/ru/companies/timeweb/articles/964422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964422)
+- [[Перевод] Триумф Nvidia и тихий маневр Баффета… Что же хитрый старик разглядел в Google, чего не видят остальные?](https://habr.com/ru/companies/selectel/articles/969216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
