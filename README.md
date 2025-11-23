@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ESPB — брат WASM для ESP32](https://habr.com/ru/articles/969400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969400)
-- [Трафик спутников ГСО не зашифрован, в том числе у GSM-операторов](https://habr.com/ru/companies/globalsign/articles/969398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969398)
-- [Pi.Alert на минималках — сканируем сеть с помощью ESP32](https://habr.com/ru/companies/cloud_ru/articles/968918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968918)
-- [Open source-мероприятия в России: предстоящие конференции, встречи и семинары [подборка дополняется]](https://habr.com/ru/articles/969164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969164)
-- [Переоценка Успеха: Парадигма «Учись и работай» потерпела крах](https://habr.com/ru/articles/969156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969156)
+- [[Перевод] Секретная формула закругленных углов Apple](https://habr.com/ru/articles/969440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969440)
+- [Оптимальный путь в NLP: как стать Middle за полгода](https://habr.com/ru/articles/969438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969438)
+- [Практический кейс: от анонимного домена к реальной личности](https://habr.com/ru/articles/969430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969430)
+- [Как привязать Telegram-аккаунт к конкретному человеку: от запроса оператору до OSINT-техник](https://habr.com/ru/articles/969414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969414)
+- [Direct2D #4 Графика. Введение](https://habr.com/ru/articles/969412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
