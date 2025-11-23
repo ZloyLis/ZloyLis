@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Зачем вам PMBoK, когда есть эта статья?](https://habr.com/ru/articles/969040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969040)
-- [За кадрами для БАС — будущее технологий](https://habr.com/ru/articles/969300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969300)
-- [Poetry vs Pip: Почему пора перестать использовать requirements.txt](https://habr.com/ru/articles/969296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969296)
-- [[Перевод] Сборка IBM-PC XT на базе ПЛИС](https://habr.com/ru/companies/ruvds/articles/968496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968496)
-- [Код, который нас убивает](https://habr.com/ru/articles/969210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969210)
+- [Менеджер Python проектов на Python](https://habr.com/ru/articles/969318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969318)
+- [История одного бота: как сэкономить 500 часов на откликах и случайно отправить резюме боссу](https://habr.com/ru/articles/969314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969314)
+- [Создание простой поисковой системы, которая действительно работает](https://habr.com/ru/articles/969312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969312)
+- [Сервера всех филиалов — соединяйтесь](https://habr.com/ru/articles/969310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969310)
+- [Идеальный японский шторм](https://habr.com/ru/articles/969308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
