@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Текстовые игры возвращаются? Новые сферы применения, а также некоторые руководства и ресурсы для разработки](https://habr.com/ru/companies/beeline_cloud/articles/969234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969234)
+- [Atomic insert in Clickhouse](https://habr.com/ru/articles/969282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969282)
+- [Портативные консоли осени 2025: от компактных Android-моделей до тяжеловесов на Strix Halo](https://habr.com/ru/companies/selectel/articles/969064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969064)
+- [Погибший мамонтенок раскрыл свои тайны: ученые прочитали его РНК спустя 39 тысяч лет](https://habr.com/ru/companies/ru_mts/articles/968938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968938)
 - [Дискретные дифференциальные операторы](https://habr.com/ru/articles/969266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969266)
-- [Cure :: Завтипы и формальная верификация для BEAM](https://habr.com/ru/articles/969264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969264)
-- [pg_expecto + Демобаза 2.0: тестовый стенд для экспериментов с СУБД PostgreSQL](https://habr.com/ru/articles/969260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969260)
-- [[Перевод] Ошибки, которые я совершал при оценке стоимости проектов на фрилансе](https://habr.com/ru/articles/959362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959362)
-- [Мегатренды в дизайне интерфейсов. Часть 2. Природа и окружающая среда](https://habr.com/ru/articles/969258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
