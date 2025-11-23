@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Искусственный разум под микроскопом: ученые разобрали отличительные признаки сгенерированных текстов](https://habr.com/ru/articles/968586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968586)
+- [Автономный дом кочевника с дождевой водой, солнечными панелями. Жизнь без водопровода, газа и счетов](https://habr.com/ru/articles/969224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969224)
 - [CloudBridge Research: открываем результаты исследований QUIC/MASQUE и приглашаем к сотрудничеству](https://habr.com/ru/articles/969240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969240)
 - [24 «привычки» оптимизации изображений](https://habr.com/ru/articles/969236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969236)
 - [Вайб вместо звука: как я за вечер собрал вибровариометр на ESP32, а Gemini и ко сгенерировали всё, кроме пайки](https://habr.com/ru/articles/969230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969230)
-- [Моя история: как я нашёл первую работу в IT](https://habr.com/ru/articles/969228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969228)
-- [Всё, что вы хотели знать о t-тесте, но боялись спросить](https://habr.com/ru/articles/969226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
