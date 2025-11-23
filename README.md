@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Волновая криптография на основе геометрической волновой инженерии &lpar;ГВИ&rpar;](https://habr.com/ru/articles/969474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969474)
+- [[Перевод] Xcode — худшее профессиональное ПО, с которым я когда-либо работал](https://habr.com/ru/articles/969470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969470)
+- [Как тестировать конфигурацию Nginx: корректность и информационная безопасность](https://habr.com/ru/articles/966914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966914)
+- [О дивный новый анимированный мир — ViewTransition в React](https://habr.com/ru/articles/969464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969464)
 - [ProSTQB — бесплатная платформа, которая выводит подготовку к ISTQB на новый уровень](https://habr.com/ru/articles/969460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969460)
-- [Align: находка для продакта](https://habr.com/ru/articles/964310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964310)
-- [Математика равновесия: как уравнение Ляпунова держит весь мир в узде](https://habr.com/ru/articles/967818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967818)
-- [Wi-Fi наружу, LAN внутрь: лучшее решение для работы в корпоративной сети](https://habr.com/ru/articles/969452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969452)
-- [Бот, который не забудет полить. Часть 1. Строим диалоговую логику на python-telegram-bot](https://habr.com/ru/articles/969448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
