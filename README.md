@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сборка IBM-PC XT на базе ПЛИС](https://habr.com/ru/companies/ruvds/articles/968496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968496)
+- [Код, который нас убивает](https://habr.com/ru/articles/969210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969210)
 - [Текстовые игры возвращаются? Новые сферы применения, а также некоторые руководства и ресурсы для разработки](https://habr.com/ru/companies/beeline_cloud/articles/969234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969234)
 - [Atomic insert in Clickhouse](https://habr.com/ru/articles/969282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969282)
 - [Портативные консоли осени 2025: от компактных Android-моделей до тяжеловесов на Strix Halo](https://habr.com/ru/companies/selectel/articles/969064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969064)
-- [Погибший мамонтенок раскрыл свои тайны: ученые прочитали его РНК спустя 39 тысяч лет](https://habr.com/ru/companies/ru_mts/articles/968938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968938)
-- [Дискретные дифференциальные операторы](https://habr.com/ru/articles/969266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
