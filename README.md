@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Week 2548: ботнет Tsundere со вкусом блокчейна](https://habr.com/ru/companies/kaspersky/articles/969614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969614)
-- [Публичное или частное облако: чем они отличаются и что лучше](https://habr.com/ru/companies/finops_ru/articles/969780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969780)
-- [Тим Бернерс-Ли: как физик из ЦЕРН практически в одиночку написал три главных протокола, чтобы создать Интернет](https://habr.com/ru/companies/finam_broker/articles/969776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969776)
-- [Обогрев от дата-центров: как цифровая индустрия снижает коммунальные счета](https://habr.com/ru/companies/ru_mts/articles/969658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969658)
-- [2.5 года, больше 6 миллионов рублей, два сервиса: как я пробовал себя в IT-стартапах, заработал 20 тысяч и закрыл все](https://habr.com/ru/articles/969778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969778)
+- [Практическое исследование: вайбкодим HFT движок с Gemini 2.5 Pro](https://habr.com/ru/articles/969808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969808)
+- [Эти чипCы &lpar;именно снеки!&rpar; защищают серверные, спутники и банкоматы в Тайване](https://habr.com/ru/companies/beget/articles/967308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967308)
+- [Мифы, суеверия и народные мудрости в разработке игр](https://habr.com/ru/articles/969024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969024)
+- [Дайджест новостей из мира науки за прошедшую неделю](https://habr.com/ru/articles/969802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969802)
+- [Интеграция BotHub с Kaas: пошаговая настройка эндпойнтов и API‑ключей](https://habr.com/ru/companies/bothub/articles/969468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
