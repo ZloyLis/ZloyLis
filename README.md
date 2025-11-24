@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Гречневая нейронка. Попытка закрыть национальный гештальт](https://habr.com/ru/articles/969676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969676)
-- [От пет-проекта до продажи бизнеса: мой опыт внедрения ИИ агентов и автоматизации](https://habr.com/ru/companies/datafeel/articles/969042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969042)
-- [[Перевод] Забудьте про блуждающие планеты: их блуждающие спутники могут поддерживать жизнь](https://habr.com/ru/articles/969146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969146)
-- [Боты ищут путь: почему NPC за рулем машин в GTA такие неадекватные](https://habr.com/ru/companies/selectel/articles/969586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969586)
-- [Как продуктовые аналитики в Туту ловят аномалии в метриках](https://habr.com/ru/companies/tuturu/articles/968670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968670)
+- [OpenAI AgentKit vs Just AI Agent Platform: где ограничения, а где возможности?](https://habr.com/ru/companies/just_ai/articles/967338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967338)
+- [Анализ возможности применения модели OpenThinker2-32B в автоматизированных системах прогнозируемого обслуживания](https://habr.com/ru/articles/969704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969704)
+- [Мой Maven plugin для IDEA. Часть 3. Заключительная. Easy Maven — запуск тестов, приложения и отладка](https://habr.com/ru/articles/969386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969386)
+- [Telegram-бот для малого бизнеса на Python и aiogram 3.x: пошаговый гайд за вечер](https://habr.com/ru/articles/969698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969698)
+- [Я узнал, что выдаёт плохого менеджера. Оказалось, это…](https://habr.com/ru/companies/yougile/articles/969696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
