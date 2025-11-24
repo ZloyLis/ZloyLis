@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ChamelOn: как мы создали production-ready систему анонимизации ПД с защитой от ReDoS и 95% точностью](https://habr.com/ru/articles/969766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969766)
-- [Книга: «Хакинг API: взлом программных интерфейсов веб-приложений»](https://habr.com/ru/articles/968414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968414)
-- [Ваш первый live‑coding](https://habr.com/ru/companies/otus/articles/969646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969646)
-- [Наш опыт публикации мобильных приложений. Часть 2: AppGallery и RuStore](https://habr.com/ru/articles/959136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959136)
-- [Kimi K2: новая китайская LLM, которая навязывает конкуренцию Подробный обзор, фишки и инструкция по установке](https://habr.com/ru/articles/969748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969748)
+- [Security Week 2548: ботнет Tsundere со вкусом блокчейна](https://habr.com/ru/companies/kaspersky/articles/969614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969614)
+- [Публичное или частное облако: чем они отличаются и что лучше](https://habr.com/ru/companies/finops_ru/articles/969780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969780)
+- [Тим Бернерс-Ли: как физик из ЦЕРН практически в одиночку написал три главных протокола, чтобы создать Интернет](https://habr.com/ru/companies/finam_broker/articles/969776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969776)
+- [Обогрев от дата-центров: как цифровая индустрия снижает коммунальные счета](https://habr.com/ru/companies/ru_mts/articles/969658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969658)
+- [2.5 года, больше 6 миллионов рублей, два сервиса: как я пробовал себя в IT-стартапах, заработал 20 тысяч и закрыл все](https://habr.com/ru/articles/969778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
