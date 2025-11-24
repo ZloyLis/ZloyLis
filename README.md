@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Электроконнект: как сложный контент становится частью производственного процесса](https://habr.com/ru/articles/969516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969516)
-- [Подготовка к переговорам с помощью AI-ассистента](https://habr.com/ru/articles/969514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969514)
-- [Мы опубликовали стабильный, быстрый, качественный и доступный синтез для 20 языков России](https://habr.com/ru/articles/968988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968988)
-- [Docs as Code – Code as Docs – No Docs](https://habr.com/ru/articles/969278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969278)
-- [Крипта несется вниз, а также признание Илона Маска, что он «жирный дебил»](https://habr.com/ru/articles/969116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969116)
+- [ИИ vs человеческая психика: битва ближайших десятилетий](https://habr.com/ru/articles/969528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969528)
+- [Почему менеджеры увольняют лучших инженеров — и всегда потом жалеют](https://habr.com/ru/articles/957318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957318)
+- [Как пользоваться ДМС по максимуму и не потерять ни в деньгах, ни в здоровье?](https://habr.com/ru/articles/969168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969168)
+- [Охлаждение после эмиграции. Грустные выводы исследования поэзии Бродского на Python](https://habr.com/ru/articles/969522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969522)
+- [DevOps против FinOps: как на самом деле соотносится экономия с масштабированием](https://habr.com/ru/companies/inferit/articles/968910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
