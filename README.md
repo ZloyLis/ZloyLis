@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI AgentKit vs Just AI Agent Platform: где ограничения, а где возможности?](https://habr.com/ru/companies/just_ai/articles/967338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967338)
-- [Анализ возможности применения модели OpenThinker2-32B в автоматизированных системах прогнозируемого обслуживания](https://habr.com/ru/articles/969704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969704)
-- [Мой Maven plugin для IDEA. Часть 3. Заключительная. Easy Maven — запуск тестов, приложения и отладка](https://habr.com/ru/articles/969386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969386)
-- [Telegram-бот для малого бизнеса на Python и aiogram 3.x: пошаговый гайд за вечер](https://habr.com/ru/articles/969698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969698)
-- [Я узнал, что выдаёт плохого менеджера. Оказалось, это…](https://habr.com/ru/companies/yougile/articles/969696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969696)
+- [Можно ли избежать уголовной ответственности за разглашение коммерческой тайны, если этот режим обладателем не обеспечен?](https://habr.com/ru/articles/969734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969734)
+- [Когда Low-code без компромиссов: обзор возможностей платформы SimpleOne](https://habr.com/ru/companies/simpleone/articles/969720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969720)
+- [KRepo: Spring Data для Ktor — без Spring и без боли](https://habr.com/ru/articles/969730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969730)
+- [На примере GoPro: ключевые принципы рыночной экспансии](https://habr.com/ru/articles/969728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969728)
+- [Искусственные мышцы или Робототехника 2.0](https://habr.com/ru/articles/969722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
