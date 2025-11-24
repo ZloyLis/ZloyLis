@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что наша жизнь? Игра! Основы геймификации и её применения в продукте](https://habr.com/ru/companies/alfa/articles/968088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968088)
-- [Как мы учили кассу самообслуживания в столовой отличать борщ от свекольника](https://habr.com/ru/articles/969656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969656)
-- [One Icon HQ: как выглядит офис, транслирующий философию «цель превыше разума»](https://habr.com/ru/companies/ru_mts/articles/969652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969652)
-- [Безопасность маленьких проектов](https://habr.com/ru/companies/timeweb/articles/966650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966650)
-- [Алгоритмы на графах](https://habr.com/ru/articles/969450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969450)
+- [Гречневая нейронка. Попытка закрыть национальный гештальт](https://habr.com/ru/articles/969676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969676)
+- [От пет-проекта до продажи бизнеса: мой опыт внедрения ИИ агентов и автоматизации](https://habr.com/ru/companies/datafeel/articles/969042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969042)
+- [[Перевод] Забудьте про блуждающие планеты: их блуждающие спутники могут поддерживать жизнь](https://habr.com/ru/articles/969146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969146)
+- [Боты ищут путь: почему NPC за рулем машин в GTA такие неадекватные](https://habr.com/ru/companies/selectel/articles/969586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969586)
+- [Как продуктовые аналитики в Туту ловят аномалии в метриках](https://habr.com/ru/companies/tuturu/articles/968670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
