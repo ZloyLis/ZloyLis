@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Можно ли избежать уголовной ответственности за разглашение коммерческой тайны, если этот режим обладателем не обеспечен?](https://habr.com/ru/articles/969734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969734)
-- [Когда Low-code без компромиссов: обзор возможностей платформы SimpleOne](https://habr.com/ru/companies/simpleone/articles/969720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969720)
-- [KRepo: Spring Data для Ktor — без Spring и без боли](https://habr.com/ru/articles/969730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969730)
-- [На примере GoPro: ключевые принципы рыночной экспансии](https://habr.com/ru/articles/969728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969728)
-- [Искусственные мышцы или Робототехника 2.0](https://habr.com/ru/articles/969722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969722)
+- [ChamelOn: как мы создали production-ready систему анонимизации ПД с защитой от ReDoS и 95% точностью](https://habr.com/ru/articles/969766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969766)
+- [Книга: «Хакинг API: взлом программных интерфейсов веб-приложений»](https://habr.com/ru/articles/968414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968414)
+- [Ваш первый live‑coding](https://habr.com/ru/companies/otus/articles/969646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969646)
+- [Наш опыт публикации мобильных приложений. Часть 2: AppGallery и RuStore](https://habr.com/ru/articles/959136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=959136)
+- [Kimi K2: новая китайская LLM, которая навязывает конкуренцию Подробный обзор, фишки и инструкция по установке](https://habr.com/ru/articles/969748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
