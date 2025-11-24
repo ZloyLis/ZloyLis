@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Практическое исследование: вайбкодим HFT движок с Gemini 2.5 Pro](https://habr.com/ru/articles/969808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969808)
-- [Эти чипCы &lpar;именно снеки!&rpar; защищают серверные, спутники и банкоматы в Тайване](https://habr.com/ru/companies/beget/articles/967308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967308)
-- [Мифы, суеверия и народные мудрости в разработке игр](https://habr.com/ru/articles/969024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969024)
-- [Дайджест новостей из мира науки за прошедшую неделю](https://habr.com/ru/articles/969802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969802)
-- [Интеграция BotHub с Kaas: пошаговая настройка эндпойнтов и API‑ключей](https://habr.com/ru/companies/bothub/articles/969468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969468)
+- [Маск хочет 200 миллиардов чипов: подборка свежих IT-новостей №1](https://habr.com/ru/articles/969830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969830)
+- [Как выбрать между облаком, арендой GPU и своим железом для LLM-систем](https://habr.com/ru/articles/969828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969828)
+- [Java. Многопоточность для самых маленьких. Часть 1](https://habr.com/ru/articles/969820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969820)
+- [Анализ ЦА для бизнес-канала в телеграм: подробная инструкция](https://habr.com/ru/articles/969814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969814)
+- [Workspad как отказоустойчивое решение для коммуникации](https://habr.com/ru/articles/969812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
