@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Гайд по нейро-рекламе: Как ИИ спасает даже самые безнадежные объявления на Авито](https://habr.com/ru/articles/969152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969152)
-- [Как я установил Ollama на Ubuntu 24.04 и начал обучать локальную LLM под свои задачи](https://habr.com/ru/articles/969502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969502)
-- [Молитва любви, или трудности перевода на праиндоевропейский с помощью нейросети](https://habr.com/ru/articles/967784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967784)
-- [Сравнение инструментов разметки данных для CV: Label Studio &amp;amp; CVAT &amp;amp; Roboflow — опыт разметки 6000+ изображений](https://habr.com/ru/articles/969000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969000)
-- [[Перевод] Три урока тайм-менеджмента от компьютеров](https://habr.com/ru/articles/969478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969478)
+- [Электроконнект: как сложный контент становится частью производственного процесса](https://habr.com/ru/articles/969516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969516)
+- [Подготовка к переговорам с помощью AI-ассистента](https://habr.com/ru/articles/969514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969514)
+- [Мы опубликовали стабильный, быстрый, качественный и доступный синтез для 20 языков России](https://habr.com/ru/articles/968988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968988)
+- [Docs as Code – Code as Docs – No Docs](https://habr.com/ru/articles/969278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969278)
+- [Крипта несется вниз, а также признание Илона Маска, что он «жирный дебил»](https://habr.com/ru/articles/969116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
