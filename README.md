@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создаем свои компоненты для ESPHome на примере датчика света и приближения &lpar;AP3216&rpar;](https://habr.com/ru/articles/969632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969632)
-- [Node.js и Rust: высокопроизводительные Native Add-ons с помощью NAPI-RS](https://habr.com/ru/companies/otus/articles/968130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968130)
-- [Локальные нейросети для бизнеса: как сэкономить время и деньги с Mac Mini и GPT-OSS-20B](https://habr.com/ru/companies/bitrix/articles/969626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969626)
-- [«Кривые руки» или новый уровень DPI? Разбор выходных блокировок XRay и VLESS](https://habr.com/ru/articles/969618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969618)
-- [Никлаус Вирт и язык Pascal — легенды 80-х](https://habr.com/ru/companies/ruvds/articles/968706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968706)
+- [Что наша жизнь? Игра! Основы геймификации и её применения в продукте](https://habr.com/ru/companies/alfa/articles/968088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968088)
+- [Как мы учили кассу самообслуживания в столовой отличать борщ от свекольника](https://habr.com/ru/articles/969656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969656)
+- [One Icon HQ: как выглядит офис, транслирующий философию «цель превыше разума»](https://habr.com/ru/companies/ru_mts/articles/969652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969652)
+- [Безопасность маленьких проектов](https://habr.com/ru/companies/timeweb/articles/966650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966650)
+- [Алгоритмы на графах](https://habr.com/ru/articles/969450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
