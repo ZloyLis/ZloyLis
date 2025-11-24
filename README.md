@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пишем свой плагин криптопровайдера для подписания документов в Pilot-ICE Enterprise](https://habr.com/ru/companies/ascon/articles/968620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968620)
-- [Как выбрать лучшие бизнес-клубы России в 2026 году: топ-15](https://habr.com/ru/articles/969580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969580)
-- [Недельный геймдев: #253 — 23 ноября, 2025](https://habr.com/ru/articles/969576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969576)
-- [Как быстро понять, что 1С тормозит из-за «железа». Сервер СУБД](https://habr.com/ru/companies/w_code/articles/969570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969570)
-- [LEGO хаб Powered Up — передаём и получаем данные](https://habr.com/ru/articles/968922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968922)
+- [Создаем свои компоненты для ESPHome на примере датчика света и приближения &lpar;AP3216&rpar;](https://habr.com/ru/articles/969632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969632)
+- [Node.js и Rust: высокопроизводительные Native Add-ons с помощью NAPI-RS](https://habr.com/ru/companies/otus/articles/968130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968130)
+- [Локальные нейросети для бизнеса: как сэкономить время и деньги с Mac Mini и GPT-OSS-20B](https://habr.com/ru/companies/bitrix/articles/969626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969626)
+- [«Кривые руки» или новый уровень DPI? Разбор выходных блокировок XRay и VLESS](https://habr.com/ru/articles/969618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969618)
+- [Никлаус Вирт и язык Pascal — легенды 80-х](https://habr.com/ru/companies/ruvds/articles/968706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
