@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ vs человеческая психика: битва ближайших десятилетий](https://habr.com/ru/articles/969528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969528)
-- [Почему менеджеры увольняют лучших инженеров — и всегда потом жалеют](https://habr.com/ru/articles/957318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=957318)
-- [Как пользоваться ДМС по максимуму и не потерять ни в деньгах, ни в здоровье?](https://habr.com/ru/articles/969168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969168)
-- [Охлаждение после эмиграции. Грустные выводы исследования поэзии Бродского на Python](https://habr.com/ru/articles/969522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969522)
-- [DevOps против FinOps: как на самом деле соотносится экономия с масштабированием](https://habr.com/ru/companies/inferit/articles/968910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968910)
+- [Роевой интеллект: как 15 строк кода заменяют централизованное управление дронами](https://habr.com/ru/articles/969550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969550)
+- [Топ-7 лучших бизнес-тренеров по продажам в России по отзывам компаний 2025](https://habr.com/ru/articles/969548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969548)
+- [IT без выгорания: как остаться в профессии и не потерять вкус к жизни](https://habr.com/ru/companies/beget/articles/968686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968686)
+- [Магия itertools: Перестаньте писать велосипеды на циклах for](https://habr.com/ru/articles/969544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969544)
+- [Лучшие Service Desk системы: что выбрать?](https://habr.com/ru/companies/kaiten/articles/969542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
