@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [За AR очками будущее](https://habr.com/ru/articles/969860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969860)
 - [152-ФЗ для детсада. Как не упасть в обморок, если вы — заведующий](https://habr.com/ru/articles/969844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969844)
 - [Spec Kit против чистого Claude Code — вайбкодим с документацией](https://habr.com/ru/articles/969836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969836)
 - [Мольба к администрации Хабра](https://habr.com/ru/articles/969832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969832)
 - [Маск хочет 200 миллиардов чипов: подборка свежих IT-новостей №1](https://habr.com/ru/articles/969830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969830)
-- [Как выбрать между облаком, арендой GPU и своим железом для LLM-систем](https://habr.com/ru/articles/969828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
