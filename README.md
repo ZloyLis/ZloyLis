@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я установил Ollama на Ubuntu 24.04 и начал обучать локальную LLM под свои задачи](https://habr.com/ru/articles/969502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969502)
 - [Молитва любви, или трудности перевода на праиндоевропейский с помощью нейросети](https://habr.com/ru/articles/967784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967784)
 - [Сравнение инструментов разметки данных для CV: Label Studio &amp;amp; CVAT &amp;amp; Roboflow — опыт разметки 6000+ изображений](https://habr.com/ru/articles/969000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969000)
 - [[Перевод] Три урока тайм-менеджмента от компьютеров](https://habr.com/ru/articles/969478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969478)
 - [Волновая криптография на основе геометрической волновой инженерии &lpar;ГВИ&rpar;](https://habr.com/ru/articles/969474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969474)
-- [[Перевод] Xcode — худшее профессиональное ПО, с которым я когда-либо работал](https://habr.com/ru/articles/969470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
