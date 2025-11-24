@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Роевой интеллект: как 15 строк кода заменяют централизованное управление дронами](https://habr.com/ru/articles/969550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969550)
-- [Топ-7 лучших бизнес-тренеров по продажам в России по отзывам компаний 2025](https://habr.com/ru/articles/969548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969548)
-- [IT без выгорания: как остаться в профессии и не потерять вкус к жизни](https://habr.com/ru/companies/beget/articles/968686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968686)
-- [Магия itertools: Перестаньте писать велосипеды на циклах for](https://habr.com/ru/articles/969544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969544)
-- [Лучшие Service Desk системы: что выбрать?](https://habr.com/ru/companies/kaiten/articles/969542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969542)
+- [Пишем свой плагин криптопровайдера для подписания документов в Pilot-ICE Enterprise](https://habr.com/ru/companies/ascon/articles/968620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968620)
+- [Как выбрать лучшие бизнес-клубы России в 2026 году: топ-15](https://habr.com/ru/articles/969580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969580)
+- [Недельный геймдев: #253 — 23 ноября, 2025](https://habr.com/ru/articles/969576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969576)
+- [Как быстро понять, что 1С тормозит из-за «железа». Сервер СУБД](https://habr.com/ru/companies/w_code/articles/969570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969570)
+- [LEGO хаб Powered Up — передаём и получаем данные](https://habr.com/ru/articles/968922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
