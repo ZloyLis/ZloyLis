@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Общая концепция локаторов и их специфика в Playwright](https://habr.com/ru/companies/otus/articles/969020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969020)
+- [Дао геймдева: чему нас учит старая притча о воре и его сыне](https://habr.com/ru/articles/970222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970222)
+- [Nano Banano Pro и история развития ЭВТ](https://habr.com/ru/articles/970220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970220)
 - [Я сжёг 2 года на стартап знакомств. Вот почему “красивые идеи свиданий” никому не нужны и что я вынес из этого опыта](https://habr.com/ru/articles/970210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970210)
 - [Клеточный автомат Коллатца или экосистема лабиринта?](https://habr.com/ru/articles/970208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970208)
-- [Нейроны, перестановки и степень двойки — что у них общего?](https://habr.com/ru/companies/beget/articles/969746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969746)
-- [Нагрузочное тестирование отечественного NGFW «Континент 4»: результаты лаборатории INSI](https://habr.com/ru/companies/innostage/articles/970188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970188)
-- [Как мы снизили ДРP в Яндекс Директ до 3% и получили броней для отеля на сумму 5,25 млн при бюджете 238 тыс](https://habr.com/ru/articles/970190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
