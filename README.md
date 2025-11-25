@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Специальные функции-члены в C++](https://habr.com/ru/articles/970048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970048)
-- [ActiveRecord: опасная магия](https://habr.com/ru/articles/970042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970042)
-- [Делаем простой фитнес-трекер на React Native + Expo](https://habr.com/ru/companies/ultravds/articles/969764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969764)
-- [Борьба с дисбалансом классов. Oversampling](https://habr.com/ru/companies/kozhindev/articles/968714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968714)
-- [Интеграционное тестирование: от теории до боевого опыта](https://habr.com/ru/companies/reksoft/articles/969972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969972)
+- [Как мы будем тестировать человекоподобных роботов &lpar;когда они станут реальностью&rpar;](https://habr.com/ru/articles/970070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970070)
+- [API, который растёт вместе с вами: за кулисами GitVerse](https://habr.com/ru/companies/sberbank/articles/968498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968498)
+- [Live Updates на Android: где макеты врут, a SDK ставит границы](https://habr.com/ru/companies/dododev/articles/969810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969810)
+- [Что нужно B2B-маркетологу IT-продуктов в 2026 году](https://habr.com/ru/articles/969890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969890)
+- [Мы так привыкли к Disaster Recovery у VMware, что разработали свою](https://habr.com/ru/companies/orion_soft/articles/968802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
