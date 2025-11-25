@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Camunda vs n8n: гайд по оркестрации и автоматизации](https://habr.com/ru/articles/969942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969942)
-- [Как я снизил расходы на GPU в 8–10 раз: эфемерные воркеры для AI-видеомонтажа](https://habr.com/ru/articles/969904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969904)
-- [От Ryzen до Epyc: процессоры AMD Zen 6 поколения 2026 года](https://habr.com/ru/companies/mclouds/articles/969752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969752)
-- [Действительно эффективная разработка ПО: как бизнесу снизить затраты на создание веб-приложений](https://habr.com/ru/companies/haulmont/articles/969760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969760)
-- [Как мы пихнули полноценный цифровой протокол в NTC-пин батареи — и почему это вообще работает](https://habr.com/ru/articles/969940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969940)
+- [Современные HelpDesk-системы: что мы нашли, пока изучали open source](https://habr.com/ru/articles/969968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969968)
+- [Как виртуальная очередь заказов в Такси помогает уехать в пиковый спрос](https://habr.com/ru/companies/yandex/articles/969750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969750)
+- [Углеродные нанотрубки в электронике: патентный анализ](https://habr.com/ru/companies/onlinepatent/articles/969958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969958)
+- [30 лет без проводов: Wi-Fi готовится к юбилею. Часть 1](https://habr.com/ru/companies/beget/articles/965976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965976)
+- [Снимаю на советские фотообъективы и радуюсь](https://habr.com/ru/companies/ruvds/articles/969532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
