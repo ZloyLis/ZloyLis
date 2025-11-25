@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему до сих пор не победили читеров в онлайн-играх](https://habr.com/ru/companies/ggsel/articles/970172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970172)
+- [Опыт ВкусВилла: как мы подстраивали графики под пики внимания](https://habr.com/ru/companies/vkusvill/articles/970170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970170)
+- [За пределами embeddings: комбинируем векторный и лексический поиск для повышения релевантности](https://habr.com/ru/companies/ru_mts/articles/970044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970044)
+- [Как я создала магазин мерча для инженеров-электронщиков](https://habr.com/ru/articles/969864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969864)
 - [Таксономия рисков в Delivery Management: от «зависимостей» до «технического долга»](https://habr.com/ru/companies/otus/articles/968564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968564)
-- [Как написать курсовую работу с помощью нейросети онлайн: полное руководство для студентов](https://habr.com/ru/companies/kemp_ai/articles/970144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970144)
-- [Новая секунда или как один атом стронция бросает вызов законам мироздания](https://habr.com/ru/articles/970140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970140)
-- [Обзор книги «RAG и генеративный ИИ»](https://habr.com/ru/companies/piter/articles/969672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969672)
-- [Настоящий Heavy Digital: цифровые инструменты, чтобы раскрыть любое дело](https://habr.com/ru/specials/970128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
