@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Shai-Hulud 2.0: 25 000 npm-репозиториев могут потерять свои данные](https://habr.com/ru/companies/first/articles/969916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969916)
+- [СПРУТ 1 = TAP + DD](https://habr.com/ru/companies/centin/articles/969868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969868)
+- [Заберите обратно свои пулл-реквесты](https://habr.com/ru/articles/969910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969910)
 - [Отображение возраста контактов в Гугл календаре в день их рождения через People API](https://habr.com/ru/articles/969242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969242)
 - [Верификация цифровых схем. Маршрут функциональной верификации](https://habr.com/ru/articles/969476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969476)
-- [[Перевод] Синтетические леса для выращивания мозга](https://habr.com/ru/articles/969866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969866)
-- [За AR очками будущее](https://habr.com/ru/articles/969860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969860)
-- [152-ФЗ для детсада. Как не упасть в обморок, если вы — заведующий](https://habr.com/ru/articles/969844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
