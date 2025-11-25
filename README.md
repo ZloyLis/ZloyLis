@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Прослушка для тела. Разработан и имплантирован датчик для анализа связи «кишечник-мозг»](https://habr.com/ru/articles/970252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970252)
+- [Протокол TBFP](https://habr.com/ru/articles/969948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969948)
+- [ЯЖЕМАТЬ и тайм-менеджмент: как за 4 часа успевать 8](https://habr.com/ru/articles/970246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970246)
 - [Курс биткоина — один из самых ранних инвесторов распродал весь Bitcoin — он хранил с 2011 года](https://habr.com/ru/articles/970240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970240)
 - [Общая концепция локаторов и их специфика в Playwright](https://habr.com/ru/companies/otus/articles/969020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969020)
-- [Дао геймдева: чему нас учит старая притча о воре и его сыне](https://habr.com/ru/articles/970222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970222)
-- [Nano Banano Pro и история развития ЭВТ](https://habr.com/ru/articles/970220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970220)
-- [Я сжёг 2 года на стартап знакомств. Вот почему “красивые идеи свиданий” никому не нужны и что я вынес из этого опыта](https://habr.com/ru/articles/970210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
