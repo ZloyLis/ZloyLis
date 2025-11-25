@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Современные HelpDesk-системы: что мы нашли, пока изучали open source](https://habr.com/ru/articles/969968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969968)
-- [Как виртуальная очередь заказов в Такси помогает уехать в пиковый спрос](https://habr.com/ru/companies/yandex/articles/969750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969750)
-- [Углеродные нанотрубки в электронике: патентный анализ](https://habr.com/ru/companies/onlinepatent/articles/969958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969958)
-- [30 лет без проводов: Wi-Fi готовится к юбилею. Часть 1](https://habr.com/ru/companies/beget/articles/965976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965976)
-- [Снимаю на советские фотообъективы и радуюсь](https://habr.com/ru/companies/ruvds/articles/969532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969532)
+- [Advent of Artificial Code](https://habr.com/ru/articles/969986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969986)
+- [Защитные конструкции от попадания БПЛА: практические вопросы и инженерные решения](https://habr.com/ru/articles/969894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969894)
+- [Почему нужно работать над монетизацией, а не над фичами](https://habr.com/ru/articles/969984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969984)
+- [[Перевод] Почему так сложно сделать хорошую фотографию Луны на смартфон?](https://habr.com/ru/articles/969880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969880)
+- [Взламываем Аэродромный Метеоиндикатор](https://habr.com/ru/companies/timeweb/articles/966800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
