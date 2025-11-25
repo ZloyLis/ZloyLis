@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Виртуальная примерка одежды для eCommerce, рецепты с продуктами из вашего холодильника — и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/969682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969682)
 - [[Перевод] Shai-Hulud 2.0: 25 000 npm-репозиториев могут потерять свои данные](https://habr.com/ru/companies/first/articles/969916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969916)
 - [СПРУТ 1 = TAP + DD](https://habr.com/ru/companies/centin/articles/969868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969868)
 - [Заберите обратно свои пулл-реквесты](https://habr.com/ru/articles/969910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969910)
 - [Отображение возраста контактов в Гугл календаре в день их рождения через People API](https://habr.com/ru/articles/969242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969242)
-- [Верификация цифровых схем. Маршрут функциональной верификации](https://habr.com/ru/articles/969476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
