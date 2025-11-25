@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [4QS-преобразователь на подвижном составе переменного тока: принцип действия](https://habr.com/ru/articles/969190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969190)
 - [Самый маленький микроконтроллер в мире](https://habr.com/ru/articles/970260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970260)
 - [[Перевод] Прослушка для тела. Разработан и имплантирован датчик для анализа связи «кишечник-мозг»](https://habr.com/ru/articles/970252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970252)
 - [Протокол TBFP](https://habr.com/ru/articles/969948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969948)
 - [ЯЖЕМАТЬ и тайм-менеджмент: как за 4 часа успевать 8](https://habr.com/ru/articles/970246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970246)
-- [Курс биткоина — один из самых ранних инвесторов распродал весь Bitcoin — он хранил с 2011 года](https://habr.com/ru/articles/970240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
