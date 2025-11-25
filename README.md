@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отображение возраста контактов в Гугл календаре в день их рождения через People API](https://habr.com/ru/articles/969242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969242)
 - [Верификация цифровых схем. Маршрут функциональной верификации](https://habr.com/ru/articles/969476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969476)
 - [[Перевод] Синтетические леса для выращивания мозга](https://habr.com/ru/articles/969866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969866)
 - [За AR очками будущее](https://habr.com/ru/articles/969860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969860)
 - [152-ФЗ для детсада. Как не упасть в обморок, если вы — заведующий](https://habr.com/ru/articles/969844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969844)
-- [Spec Kit против чистого Claude Code — вайбкодим с документацией](https://habr.com/ru/articles/969836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
