@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему до сих пор не победили читеров в онлайн-играх](https://habr.com/ru/companies/ggsel/articles/970172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970172)
-- [Опыт ВкусВилла: как мы подстраивали графики под пики внимания](https://habr.com/ru/companies/vkusvill/articles/970170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970170)
-- [За пределами embeddings: комбинируем векторный и лексический поиск для повышения релевантности](https://habr.com/ru/companies/ru_mts/articles/970044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970044)
-- [Как я создала магазин мерча для инженеров-электронщиков](https://habr.com/ru/articles/969864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969864)
-- [Таксономия рисков в Delivery Management: от «зависимостей» до «технического долга»](https://habr.com/ru/companies/otus/articles/968564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968564)
+- [7 причин, почему ваш ИИ тупит &lpar;и как это исправить&rpar;](https://habr.com/ru/articles/970182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970182)
+- [От поддержки к сотрудничеству: зачем бизнесу аккаунтинг и как его выстроить эффективно](https://habr.com/ru/companies/click/articles/970184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970184)
+- [Baseline: октябрь 2025](https://habr.com/ru/articles/970142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970142)
+- [Чай для похудения: поможет ли скинуть вес или это миф?](https://habr.com/ru/articles/970174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970174)
+- [Как забытый API-ключ открыл нам мир мошенников](https://habr.com/ru/companies/flowwow/articles/969798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
