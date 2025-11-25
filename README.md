@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему LLM не становятся субъектами](https://habr.com/ru/articles/970012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970012)
-- [Хакеры начинают фишинг и выигрывают у Google](https://habr.com/ru/companies/bastion/articles/962214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962214)
-- [Транзакции в InnoDB: разбираемся с уровнями изоляции и блокировками](https://habr.com/ru/companies/rusprofile/articles/969954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969954)
-- [Этот CSS пора оставить в прошлом](https://habr.com/ru/companies/ruvds/articles/968154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968154)
-- [Когда Seq Scan не миновать: Data Skipping в новом колоночном движке Tarantool](https://habr.com/ru/companies/vk/articles/966082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966082)
+- [Специальные функции-члены в C++](https://habr.com/ru/articles/970048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970048)
+- [ActiveRecord: опасная магия](https://habr.com/ru/articles/970042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970042)
+- [Делаем простой фитнес-трекер на React Native + Expo](https://habr.com/ru/companies/ultravds/articles/969764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969764)
+- [Борьба с дисбалансом классов. Oversampling](https://habr.com/ru/companies/kozhindev/articles/968714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968714)
+- [Интеграционное тестирование: от теории до боевого опыта](https://habr.com/ru/companies/reksoft/articles/969972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
