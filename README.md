@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы будем тестировать человекоподобных роботов &lpar;когда они станут реальностью&rpar;](https://habr.com/ru/articles/970070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970070)
-- [API, который растёт вместе с вами: за кулисами GitVerse](https://habr.com/ru/companies/sberbank/articles/968498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968498)
-- [Live Updates на Android: где макеты врут, a SDK ставит границы](https://habr.com/ru/companies/dododev/articles/969810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969810)
-- [Что нужно B2B-маркетологу IT-продуктов в 2026 году](https://habr.com/ru/articles/969890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969890)
-- [Мы так привыкли к Disaster Recovery у VMware, что разработали свою](https://habr.com/ru/companies/orion_soft/articles/968802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968802)
+- [Как бизнес теряет деньги из-за ИБ-рутины: боли и реальность](https://habr.com/ru/companies/securitm/articles/970126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970126)
+- [Властелин алгоритмов: сезон «ИИ в разработке» на Хабре](https://habr.com/ru/specials/969726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969726)
+- [Ошибались, но всё-таки сделали деловой Тиндер без знания фронтенда](https://habr.com/ru/companies/skbkontur/articles/969526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969526)
+- [Грани полиморфизма React: паттерн FACC](https://habr.com/ru/companies/cloud_ru/articles/962824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962824)
+- [Стилизация, часть 2: Границы стилизации. Гротеск](https://habr.com/ru/companies/first/articles/968340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
