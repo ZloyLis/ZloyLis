@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как бизнес теряет деньги из-за ИБ-рутины: боли и реальность](https://habr.com/ru/companies/securitm/articles/970126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970126)
-- [Властелин алгоритмов: сезон «ИИ в разработке» на Хабре](https://habr.com/ru/specials/969726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969726)
-- [Ошибались, но всё-таки сделали деловой Тиндер без знания фронтенда](https://habr.com/ru/companies/skbkontur/articles/969526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969526)
-- [Грани полиморфизма React: паттерн FACC](https://habr.com/ru/companies/cloud_ru/articles/962824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962824)
-- [Стилизация, часть 2: Границы стилизации. Гротеск](https://habr.com/ru/companies/first/articles/968340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968340)
+- [Таксономия рисков в Delivery Management: от «зависимостей» до «технического долга»](https://habr.com/ru/companies/otus/articles/968564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968564)
+- [Как написать курсовую работу с помощью нейросети онлайн: полное руководство для студентов](https://habr.com/ru/companies/kemp_ai/articles/970144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970144)
+- [Новая секунда или как один атом стронция бросает вызов законам мироздания](https://habr.com/ru/articles/970140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970140)
+- [Обзор книги «RAG и генеративный ИИ»](https://habr.com/ru/companies/piter/articles/969672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969672)
+- [Настоящий Heavy Digital: цифровые инструменты, чтобы раскрыть любое дело](https://habr.com/ru/specials/970128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
