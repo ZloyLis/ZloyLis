@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Artificial Code](https://habr.com/ru/articles/969986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969986)
-- [Защитные конструкции от попадания БПЛА: практические вопросы и инженерные решения](https://habr.com/ru/articles/969894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969894)
-- [Почему нужно работать над монетизацией, а не над фичами](https://habr.com/ru/articles/969984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969984)
-- [[Перевод] Почему так сложно сделать хорошую фотографию Луны на смартфон?](https://habr.com/ru/articles/969880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969880)
-- [Взламываем Аэродромный Метеоиндикатор](https://habr.com/ru/companies/timeweb/articles/966800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966800)
+- [Почему LLM не становятся субъектами](https://habr.com/ru/articles/970012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970012)
+- [Хакеры начинают фишинг и выигрывают у Google](https://habr.com/ru/companies/bastion/articles/962214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962214)
+- [Транзакции в InnoDB: разбираемся с уровнями изоляции и блокировками](https://habr.com/ru/companies/rusprofile/articles/969954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969954)
+- [Этот CSS пора оставить в прошлом](https://habr.com/ru/companies/ruvds/articles/968154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968154)
+- [Когда Seq Scan не миновать: Data Skipping в новом колоночном движке Tarantool](https://habr.com/ru/companies/vk/articles/966082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
