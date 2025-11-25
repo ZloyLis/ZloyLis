@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейроны, перестановки и степень двойки — что у них общего?](https://habr.com/ru/companies/beget/articles/969746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969746)
+- [Нагрузочное тестирование отечественного NGFW «Континент 4»: результаты лаборатории INSI](https://habr.com/ru/companies/innostage/articles/970188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970188)
+- [Как мы снизили ДРP в Яндекс Директ до 3% и получили броней для отеля на сумму 5,25 млн при бюджете 238 тыс](https://habr.com/ru/articles/970190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970190)
 - [7 причин, почему ваш ИИ тупит &lpar;и как это исправить&rpar;](https://habr.com/ru/articles/970182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970182)
 - [От поддержки к сотрудничеству: зачем бизнесу аккаунтинг и как его выстроить эффективно](https://habr.com/ru/companies/click/articles/970184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970184)
-- [Baseline: октябрь 2025](https://habr.com/ru/articles/970142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970142)
-- [Чай для похудения: поможет ли скинуть вес или это миф?](https://habr.com/ru/articles/970174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970174)
-- [Как забытый API-ключ открыл нам мир мошенников](https://habr.com/ru/companies/flowwow/articles/969798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
