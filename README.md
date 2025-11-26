@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [VK публикует датасет коротких видео для рекомендаций](https://habr.com/ru/companies/vk/articles/970350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970350)
-- [Дроун-эмбиент-нойз синтезатор на Javascript: когда нестабильность работы это фича, а не баг](https://habr.com/ru/articles/970404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970404)
-- [«Это какой-то Оруэлл»: как LaLiga в 2025 году сломала интернет в Испании, а Cloudflare пожаловались на нее Трампу](https://habr.com/ru/companies/ddosguard/articles/970400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970400)
-- [«Мы не ищем идеальных резюме и не охотимся за кандидатами»: как «Иви» выстраивает доверительные отношения с инженерами](https://habr.com/ru/companies/komreda_content/articles/970396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970396)
-- [OpenAI и ее патенты: кто стоит за разработками компании](https://habr.com/ru/companies/onlinepatent/articles/970394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970394)
+- [BPMN для аналитиков и тимлидов &lpar;часть 1&rpar;](https://habr.com/ru/articles/970424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970424)
+- [Браузер без вкладок](https://habr.com/ru/articles/969668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969668)
+- [Оптимизация через партицирование](https://habr.com/ru/companies/tbank/articles/970376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970376)
+- [Знакомство с командой стрима «Уведомления»](https://habr.com/ru/companies/ivi/articles/970416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970416)
+- [Как бесшовно перевести пользователей между каталогами: взгляд сисадмина Termit](https://habr.com/ru/companies/orion_soft/articles/970352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
