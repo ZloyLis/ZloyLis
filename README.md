@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SVG, Canvas, WebGL, WebGPU — кто здесь вообще главный? Большой тест 2D-графики в браузере](https://habr.com/ru/articles/970286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970286)
-- [Сравниваю Jupyter Notebook, Google Colab, Kaggle и Marimo глазами исследователя и начинающего Data Scientist](https://habr.com/ru/articles/969090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969090)
-- [Третий путь для удаленщиков. Лондон с визой Global Talent, Азия с DTV и идея сервиса на стыке работы и релокации](https://habr.com/ru/articles/970280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970280)
-- [Управление потоком в Kotlin Flow](https://habr.com/ru/articles/970236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970236)
-- [Разработка peer-to-peer мессенджера на Rust](https://habr.com/ru/articles/970276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970276)
+- [Почему все ненавидят 1С, но продолжают на нём работать?](https://habr.com/ru/articles/970164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970164)
+- [DCN-R: как объединить Deep &amp;amp; Cross-модель и ResNet-подход для улучшения рекомендаций](https://habr.com/ru/articles/970310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970310)
+- [Локальный контактный зоопарк фронтенд-разработчика](https://habr.com/ru/articles/965074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965074)
+- [Забавный парадокс отправки в канал в Go](https://habr.com/ru/articles/970304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970304)
+- [IT-рынку плохо, но не переживайте — будет ещё хуже](https://habr.com/ru/companies/outlines_tech/articles/970158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
