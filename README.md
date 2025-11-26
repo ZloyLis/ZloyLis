@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Если данные — продукт, то какова цена плохого UX? Предлагаю систему оценок](https://habr.com/ru/articles/970582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970582)
+- [[Перевод] Многие сложные задачи на LeetCode — это простые задачи на ограничения](https://habr.com/ru/companies/otus/articles/970468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970468)
+- [[Перевод] Океаны под поверхностью ледяных спутников планет могут периодически закипать](https://habr.com/ru/articles/970230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970230)
 - [“Благотворительность” от Озон](https://habr.com/ru/articles/970562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970562)
 - [Project Cognition Layer: Почему AI-агенту нужна не только векторная БД, а Git. Архитектура долговременной памяти проекта](https://habr.com/ru/articles/970560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970560)
-- [AI security на практике: атаки и базовые подходы к защите](https://habr.com/ru/companies/innostage/articles/970554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970554)
-- [AI-инструменты, которые экономят время маркетологам](https://habr.com/ru/articles/970242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970242)
-- [«Два пальца левее Альголя» -  Краткая История Навигации](https://habr.com/ru/articles/970550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
