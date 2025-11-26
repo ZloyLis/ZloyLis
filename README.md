@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему все ненавидят 1С, но продолжают на нём работать?](https://habr.com/ru/articles/970164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970164)
-- [DCN-R: как объединить Deep &amp;amp; Cross-модель и ResNet-подход для улучшения рекомендаций](https://habr.com/ru/articles/970310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970310)
-- [Локальный контактный зоопарк фронтенд-разработчика](https://habr.com/ru/articles/965074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965074)
-- [Забавный парадокс отправки в канал в Go](https://habr.com/ru/articles/970304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970304)
-- [IT-рынку плохо, но не переживайте — будет ещё хуже](https://habr.com/ru/companies/outlines_tech/articles/970158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970158)
+- [Скрываем данные от стандартного режима exiftool прямо в чанках PNG](https://habr.com/ru/articles/970328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970328)
+- [[Перевод] Современный подход к предотвращению CSRF/CORF-атак в Go](https://habr.com/ru/articles/968132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968132)
+- [Я всё сделаю сам: синдром спасателя у менеджера](https://habr.com/ru/companies/beget/articles/969674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969674)
+- [Страх и ненависть вайб-кодинга: как я сделал для ребенка игру и попал в топ приложений на android-TV](https://habr.com/ru/companies/ru_mts/articles/969874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969874)
+- [Итоги встречи ISO C++ на Гавайях: начинаем полировку стандарта С++26](https://habr.com/ru/companies/yandex/articles/966574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
