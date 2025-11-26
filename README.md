@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как оптимизировать и поднять эффективность AI-Кодинга от 2 до 8 раз используя стек MCP серверов](https://habr.com/ru/articles/970542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970542)
-- [Топ-10 бесплатных нейросетей для создания и редактирования фото](https://habr.com/ru/companies/bothub/articles/969154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969154)
-- [Как старые учебники по программированию объясняли сложные вещи проще нас — и что будет, если решать задачи их методами](https://habr.com/ru/articles/970530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970530)
-- [Как я искал «черные дыры» digital-маркетинге: взгляд внутреннего аудитора](https://habr.com/ru/articles/970274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970274)
-- [Получение несанкционированного выполнения кода &lpar;RCE&rpar; в XWiki: разбор CVE-2024-31982 и автоматизация эксплуатации](https://habr.com/ru/companies/technokratos/articles/970526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970526)
+- [“Благотворительность” от Озон](https://habr.com/ru/articles/970562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970562)
+- [Project Cognition Layer: Почему AI-агенту нужна не только векторная БД, а Git. Архитектура долговременной памяти проекта](https://habr.com/ru/articles/970560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970560)
+- [AI security на практике: атаки и базовые подходы к защите](https://habr.com/ru/companies/innostage/articles/970554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970554)
+- [AI-инструменты, которые экономят время маркетологам](https://habr.com/ru/articles/970242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970242)
+- [«Два пальца левее Альголя» -  Краткая История Навигации](https://habr.com/ru/articles/970550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
