@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ловушка No-Code: Как сэкономить $27,000 на старте и чуть не убить стартап на финише &lpar;гайд на примере маркетплейса&rpar;](https://habr.com/ru/articles/970674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970674)
 - [Калибровка дисконтных кривых](https://habr.com/ru/articles/970532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970532)
 - [[Перевод] Оценка прироста производительности труда благодаря использованию ИИ &lpar;диалогов с Claude&rpar;](https://habr.com/ru/articles/970248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970248)
 - [Как системщику остаться в живых: харденинг, который не убьет ваш перфоманс](https://habr.com/ru/companies/kaspersky/articles/968388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968388)
 - [Мой опыт парного программирования с Chat GPT-5](https://habr.com/ru/articles/970660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970660)
-- [Coroutines в C++20](https://habr.com/ru/articles/970658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
