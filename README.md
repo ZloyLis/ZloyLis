@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ACID-свойства транзакций в SQL](https://habr.com/ru/companies/otus/articles/968212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968212)
+- [Архитектура Laravel: 7 ловушек и практичные решения](https://habr.com/ru/articles/970642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970642)
+- [Я сделал сайт с Claude Code вместо админки — и это очень удобно](https://habr.com/ru/articles/970636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970636)
+- [AI Routing Lab: машинное обучение для оптимизации сетевых маршрутов](https://habr.com/ru/articles/970630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970630)
 - [Чек-лист макета перед передачей в разработку](https://habr.com/ru/articles/970626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970626)
-- [«Excel-ку покажи»: гайд по построению финансовой модели с нуля &lpar;+шаблон&rpar;. Часть 1](https://habr.com/ru/articles/970624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970624)
-- [Ультимативный Spring-бульдозер на базе GigaIDE](https://habr.com/ru/companies/haulmont/articles/970556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970556)
-- [[Перевод] Иван Оселедец с докладом «Успехи и проблемы больших языковых моделей»](https://habr.com/ru/articles/970614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970614)
-- [Удалёнка в России исчезает? Что об этом думают инженеры + опрос](https://habr.com/ru/articles/970610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
