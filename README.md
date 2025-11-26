@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [BPMN для аналитиков и тимлидов &lpar;часть 1&rpar;](https://habr.com/ru/articles/970424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970424)
-- [Браузер без вкладок](https://habr.com/ru/articles/969668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969668)
-- [Оптимизация через партицирование](https://habr.com/ru/companies/tbank/articles/970376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970376)
-- [Знакомство с командой стрима «Уведомления»](https://habr.com/ru/companies/ivi/articles/970416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970416)
-- [Как бесшовно перевести пользователей между каталогами: взгляд сисадмина Termit](https://habr.com/ru/companies/orion_soft/articles/970352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970352)
+- [[Перевод] Почему агенты НЕ пишут основную часть нашего кода](https://habr.com/ru/articles/968828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968828)
+- [Чип, который умеет говорить &lpar;SI4703&rpar;](https://habr.com/ru/articles/970446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970446)
+- [This is JavaScript: методы объектов и контекст «this»](https://habr.com/ru/companies/selectel/articles/967086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967086)
+- [Серия книг «Грокаем» от издательства «Питер»](https://habr.com/ru/companies/piter/articles/965240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965240)
+- [DevSecOps для всех: как развернуть стенд за 15 минут](https://habr.com/ru/companies/k2tech/articles/970058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
