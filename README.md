@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inbox Zero: как я победил хаос в почте](https://habr.com/ru/companies/slsoft/articles/970412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970412)
-- [MAESTRO — новый фреймворк для построения мультиагентных систем и цифровых ассистентов на основе LLM](https://habr.com/ru/companies/airi/articles/967612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967612)
-- [[Перевод] Как выбраться из гравитации фреймворков](https://habr.com/ru/articles/968510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968510)
-- [Как я свой гибридный протокол шифрования за выходные написал](https://habr.com/ru/articles/970502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970502)
-- [Протоколы для систем реального времени](https://habr.com/ru/articles/970470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970470)
+- [Как оптимизировать и поднять эффективность AI-Кодинга от 2 до 8 раз используя стек MCP серверов](https://habr.com/ru/articles/970542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970542)
+- [Топ-10 бесплатных нейросетей для создания и редактирования фото](https://habr.com/ru/companies/bothub/articles/969154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969154)
+- [Как старые учебники по программированию объясняли сложные вещи проще нас — и что будет, если решать задачи их методами](https://habr.com/ru/articles/970530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970530)
+- [Как я искал «черные дыры» digital-маркетинге: взгляд внутреннего аудитора](https://habr.com/ru/articles/970274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970274)
+- [Получение несанкционированного выполнения кода &lpar;RCE&rpar; в XWiki: разбор CVE-2024-31982 и автоматизация эксплуатации](https://habr.com/ru/companies/technokratos/articles/970526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
