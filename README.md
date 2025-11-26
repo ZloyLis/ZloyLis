@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Почему агенты НЕ пишут основную часть нашего кода](https://habr.com/ru/articles/968828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968828)
-- [Чип, который умеет говорить &lpar;SI4703&rpar;](https://habr.com/ru/articles/970446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970446)
-- [This is JavaScript: методы объектов и контекст «this»](https://habr.com/ru/companies/selectel/articles/967086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967086)
-- [Серия книг «Грокаем» от издательства «Питер»](https://habr.com/ru/companies/piter/articles/965240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965240)
-- [DevSecOps для всех: как развернуть стенд за 15 минут](https://habr.com/ru/companies/k2tech/articles/970058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970058)
+- [Inbox Zero: как я победил хаос в почте](https://habr.com/ru/companies/slsoft/articles/970412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970412)
+- [MAESTRO — новый фреймворк для построения мультиагентных систем и цифровых ассистентов на основе LLM](https://habr.com/ru/companies/airi/articles/967612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967612)
+- [[Перевод] Как выбраться из гравитации фреймворков](https://habr.com/ru/articles/968510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968510)
+- [Как я свой гибридный протокол шифрования за выходные написал](https://habr.com/ru/articles/970502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970502)
+- [Протоколы для систем реального времени](https://habr.com/ru/articles/970470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
