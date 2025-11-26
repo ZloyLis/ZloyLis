@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Скрываем данные от стандартного режима exiftool прямо в чанках PNG](https://habr.com/ru/articles/970328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970328)
-- [[Перевод] Современный подход к предотвращению CSRF/CORF-атак в Go](https://habr.com/ru/articles/968132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968132)
-- [Я всё сделаю сам: синдром спасателя у менеджера](https://habr.com/ru/companies/beget/articles/969674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969674)
-- [Страх и ненависть вайб-кодинга: как я сделал для ребенка игру и попал в топ приложений на android-TV](https://habr.com/ru/companies/ru_mts/articles/969874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969874)
-- [Итоги встречи ISO C++ на Гавайях: начинаем полировку стандарта С++26](https://habr.com/ru/companies/yandex/articles/966574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966574)
+- [ShadowRealm API: изоляция исполнения кода в JavaScript](https://habr.com/ru/companies/otus/articles/968574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968574)
+- [Романтики из Anthropic: Почему исследователи говорят о LLM как о человеке](https://habr.com/ru/articles/970368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970368)
+- [Нейросеть на смене, или как мы избавили супервайзеров от ручной прослушки и автоматизировали контроль качества звонков](https://habr.com/ru/articles/966546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966546)
+- [Хватит кормить облака: переезд пет-проектов на старый ThinkPad с разбитым экраном](https://habr.com/ru/articles/970362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970362)
+- [Эпоха универсальных CPU закончилась: как выбрать между P- и E-ядрами Xeon 6](https://habr.com/ru/companies/selectel/articles/970218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
