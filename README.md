@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Если данные — продукт, то какова цена плохого UX? Предлагаю систему оценок](https://habr.com/ru/articles/970582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970582)
-- [[Перевод] Многие сложные задачи на LeetCode — это простые задачи на ограничения](https://habr.com/ru/companies/otus/articles/970468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970468)
-- [[Перевод] Океаны под поверхностью ледяных спутников планет могут периодически закипать](https://habr.com/ru/articles/970230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970230)
-- [“Благотворительность” от Озон](https://habr.com/ru/articles/970562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970562)
-- [Project Cognition Layer: Почему AI-агенту нужна не только векторная БД, а Git. Архитектура долговременной памяти проекта](https://habr.com/ru/articles/970560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970560)
+- [Как не забывать, какими задачами занимался](https://habr.com/ru/articles/970608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970608)
+- [Как в Авито обеспечивают self-service разработки и деплоя витрин](https://habr.com/ru/companies/avito/articles/968596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968596)
+- [Фронтенд обгоняет бек или как мы написали 200_000 строк кода на моках](https://habr.com/ru/articles/970606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970606)
+- [Работа с файлами в СУБД PostgreSQL и Postgres Pro Enterprise: барьеры и варианты их преодоления](https://habr.com/ru/companies/postgrespro/articles/970544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970544)
+- [30 лет без проводов: Wi-Fi готовится к юбилею. Часть 2](https://habr.com/ru/companies/beget/articles/965984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
