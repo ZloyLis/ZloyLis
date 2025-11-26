@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как системщику остаться в живых: харденинг, который не убьет ваш перфоманс](https://habr.com/ru/companies/kaspersky/articles/968388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968388)
+- [Мой опыт парного программирования с Chat GPT-5](https://habr.com/ru/articles/970660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970660)
+- [Coroutines в C++20](https://habr.com/ru/articles/970658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970658)
 - [VOLT: как запустить свою криптовалюту в блокчейне Aptos с нуля?](https://habr.com/ru/articles/970654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970654)
 - [[Перевод] ACID-свойства транзакций в SQL](https://habr.com/ru/companies/otus/articles/968212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968212)
-- [Архитектура Laravel: 7 ловушек и практичные решения](https://habr.com/ru/articles/970642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970642)
-- [Я сделал сайт с Claude Code вместо админки — и это очень удобно](https://habr.com/ru/articles/970636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970636)
-- [AI Routing Lab: машинное обучение для оптимизации сетевых маршрутов](https://habr.com/ru/articles/970630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
