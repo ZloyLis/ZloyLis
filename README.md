@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SVG, Canvas, WebGL, WebGPU — кто здесь вообще главный? Большой тест 2D-графики в браузере](https://habr.com/ru/articles/970286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970286)
+- [Сравниваю Jupyter Notebook, Google Colab, Kaggle и Marimo глазами исследователя и начинающего Data Scientist](https://habr.com/ru/articles/969090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969090)
+- [Третий путь для удаленщиков. Лондон с визой Global Talent, Азия с DTV и идея сервиса на стыке работы и релокации](https://habr.com/ru/articles/970280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970280)
+- [Управление потоком в Kotlin Flow](https://habr.com/ru/articles/970236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970236)
 - [Разработка peer-to-peer мессенджера на Rust](https://habr.com/ru/articles/970276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970276)
-- [quic-test: открытый инструмент для тестирования QUIC, BBRv3 и FEC в реальных условиях](https://habr.com/ru/articles/970270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970270)
-- [4QS-преобразователь на подвижном составе переменного тока: принцип действия](https://habr.com/ru/articles/969190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969190)
-- [Самый маленький микроконтроллер в мире](https://habr.com/ru/articles/970260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970260)
-- [[Перевод] Прослушка для тела. Разработан и имплантирован датчик для анализа связи «кишечник-мозг»](https://habr.com/ru/articles/970252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
