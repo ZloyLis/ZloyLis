@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глюкометр, бот, ИИ и как все это связано](https://habr.com/ru/articles/971042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971042)
 - [Делаем красивый лендинг за 2 часа: список инструментов и шаги создания](https://habr.com/ru/articles/971028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971028)
 - [Бумер и вайб-кодинг: как я делаю ИИ-анализатор новостей по инструкциям ChatGPT &lpar;Часть 1&rpar;](https://habr.com/ru/articles/971018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971018)
 - [Очарование перспективами](https://habr.com/ru/articles/971016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971016)
 - [ИИ-инструменты для HR и рекрутинга: топ-10 сервисов для подбора персонала](https://habr.com/ru/companies/bothub/articles/971014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971014)
-- [[Перевод] Как наткнуться на Data Race в Go](https://habr.com/ru/articles/970670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
