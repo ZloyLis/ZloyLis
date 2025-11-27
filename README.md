@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Используем на практике Business Capability Map на языке Archimate](https://habr.com/ru/companies/otus/articles/968098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968098)
-- [Ценностные искажения в командах](https://habr.com/ru/articles/970888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970888)
-- [Ищем тестировщиков интимных гелей](https://habr.com/ru/companies/geltek/articles/970746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970746)
-- [Техническая автоматизация в управленческих вопросах](https://habr.com/ru/companies/rtlabs/articles/970546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970546)
-- [Новые правила категорирования КИИ: что изменилось и как теперь работать](https://habr.com/ru/companies/securitm/articles/970882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970882)
+- [Cloud4Y строит ЦОДы в МО: ноябрьские итоги — Часть 10](https://habr.com/ru/companies/cloud4y/articles/970940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970940)
+- [Невидимка на карте: как компании теряют клиентов в экосистеме Яндекса — и как это исправить](https://habr.com/ru/articles/970938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970938)
+- [Proxyman + HAR = mock-данные для iOS-тестов](https://habr.com/ru/companies/naumen/articles/970822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970822)
+- [Как я собрал робота с характером на базе Gemini API и Arduino Uno Q &lpar;и научил его подмигивать&rpar;](https://habr.com/ru/articles/970926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970926)
+- [Универсальный Backend for Frontend для всех платформ RUTUBE](https://habr.com/ru/companies/habr_rutube/articles/970690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
