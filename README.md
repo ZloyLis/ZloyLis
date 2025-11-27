@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интеграция с маркетплейсами Wildberries и Ozon: коды, лимиты и одна Елена](https://habr.com/ru/companies/cdek_blog/articles/970696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970696)
-- [Я пишу тексты с ИИ. Простите](https://habr.com/ru/articles/970820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970820)
-- [Готовьтесь к обрушению: как спроектировать приложение, чтобы «черная пятница» не превратилась в «черного лебедя»](https://habr.com/ru/articles/970818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970818)
-- [Выгоняем китайцев из розетки: переезд умного дома на Zigbee2MQTT и Home Assistant](https://habr.com/ru/articles/970816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970816)
-- [Как работает модульный SSD Samsung с возможностью замены компонентов](https://habr.com/ru/companies/x-com/articles/970814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970814)
+- [Масштабируемый мониторинг: Настраиваем VictoriaMetrics в HA-конфигурации с VMAgent и Grafana](https://habr.com/ru/articles/970490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970490)
+- [Запускаем почтовый сервер на VPS под Windows](https://habr.com/ru/companies/ultravds/articles/966716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966716)
+- [Выйти из Матрицы: доказательство того, что реальность реальна](https://habr.com/ru/companies/ua-hosting/articles/970022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970022)
+- [Предопределённые векторы для обучения нейросетей с экономией памяти](https://habr.com/ru/companies/kryptonite/articles/970844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970844)
+- [Разворачиваем Proxmox VE 9: Исчерпывающая инструкция по установке и эксплуатации](https://habr.com/ru/companies/hostkey/articles/970842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
