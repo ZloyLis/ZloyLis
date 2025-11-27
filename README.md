@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code за 4 часа написал AI чатбот &lpar;и мы выложили его в open source&rpar;](https://habr.com/ru/articles/971066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971066)
 - [[Перевод] Выразительность против разрешимости: почему «мощные» системы тяжело анализировать](https://habr.com/ru/companies/otus/articles/971020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971020)
 - [Глюкометр, бот, ИИ и как все это связано](https://habr.com/ru/articles/971042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971042)
 - [Делаем красивый лендинг за 2 часа: список инструментов и шаги создания](https://habr.com/ru/articles/971028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971028)
 - [Бумер и вайб-кодинг: как я делаю ИИ-анализатор новостей по инструкциям ChatGPT &lpar;Часть 1&rpar;](https://habr.com/ru/articles/971018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971018)
-- [Очарование перспективами](https://habr.com/ru/articles/971016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
