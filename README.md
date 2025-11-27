@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Floxy — лёгкий Saga Workflow Engine на Go](https://habr.com/ru/articles/970732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970732)
-- [GitOps для конфигураций 1С](https://habr.com/ru/companies/otus/articles/968144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968144)
-- [Парсер, анализ цен и подбор товара с помощью ИИ](https://habr.com/ru/articles/970726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970726)
-- [[Перевод] Часть 2. Иван Оселедец с докладом «Успехи и проблемы больших языковых моделей»](https://habr.com/ru/articles/970632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970632)
-- [Есть ли у человека душа и можно ли перенести сознание в компьютер?](https://habr.com/ru/articles/969442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969442)
+- [Как я Rust в Python встраивал](https://habr.com/ru/articles/970752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970752)
+- [Как я тестирую крупные системы, которые невозможно протестить на статичных данных](https://habr.com/ru/companies/centicore_group/articles/970370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970370)
+- [Как вырастить ребёнка, который боится врачей](https://habr.com/ru/companies/belayaraduga/articles/968512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968512)
+- [«Я тебя насквозь вижу»](https://habr.com/ru/companies/beget/articles/969290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969290)
+- [Топор Раскольникова как драйвер ВВП: введение в нарративную экономику](https://habr.com/ru/companies/gazprombank/articles/970186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
