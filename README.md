@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Масштабируемый мониторинг: Настраиваем VictoriaMetrics в HA-конфигурации с VMAgent и Grafana](https://habr.com/ru/articles/970490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970490)
-- [Запускаем почтовый сервер на VPS под Windows](https://habr.com/ru/companies/ultravds/articles/966716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966716)
-- [Выйти из Матрицы: доказательство того, что реальность реальна](https://habr.com/ru/companies/ua-hosting/articles/970022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970022)
-- [Предопределённые векторы для обучения нейросетей с экономией памяти](https://habr.com/ru/companies/kryptonite/articles/970844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970844)
-- [Разворачиваем Proxmox VE 9: Исчерпывающая инструкция по установке и эксплуатации](https://habr.com/ru/companies/hostkey/articles/970842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970842)
+- [Используем на практике Business Capability Map на языке Archimate](https://habr.com/ru/companies/otus/articles/968098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968098)
+- [Ценностные искажения в командах](https://habr.com/ru/articles/970888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970888)
+- [Ищем тестировщиков интимных гелей](https://habr.com/ru/companies/geltek/articles/970746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970746)
+- [Техническая автоматизация в управленческих вопросах](https://habr.com/ru/companies/rtlabs/articles/970546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970546)
+- [Новые правила категорирования КИИ: что изменилось и как теперь работать](https://habr.com/ru/companies/securitm/articles/970882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
