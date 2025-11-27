@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud4Y строит ЦОДы в МО: ноябрьские итоги — Часть 10](https://habr.com/ru/companies/cloud4y/articles/970940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970940)
-- [Невидимка на карте: как компании теряют клиентов в экосистеме Яндекса — и как это исправить](https://habr.com/ru/articles/970938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970938)
-- [Proxyman + HAR = mock-данные для iOS-тестов](https://habr.com/ru/companies/naumen/articles/970822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970822)
-- [Как я собрал робота с характером на базе Gemini API и Arduino Uno Q &lpar;и научил его подмигивать&rpar;](https://habr.com/ru/articles/970926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970926)
-- [Универсальный Backend for Frontend для всех платформ RUTUBE](https://habr.com/ru/companies/habr_rutube/articles/970690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970690)
+- [Год от идеи до запуска: почему это оказалось сложнее](https://habr.com/ru/articles/970964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970964)
+- [Хаос, фракталы и голограммы](https://habr.com/ru/articles/967714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967714)
+- [Как создать интуитивно-понятный дизайн: гештальт-принципы в UX](https://habr.com/ru/articles/970956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970956)
+- [Алгоритмы нужны программистам, или cамая быстрая и простая реализация RMQ](https://habr.com/ru/articles/962688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962688)
+- [Уже не Thor: как мы выслеживали одну группировку и «разбудили» другую](https://habr.com/ru/companies/pt/articles/967426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
