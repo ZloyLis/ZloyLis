@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как выбрать ITSM/ESM-систему: пошаговая инструкция, ошибки и лучшие практики внедрения на 2026 год](https://habr.com/ru/articles/970740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970740)
-- [Где ломается прокси-балансировщик: наш опыт измерений](https://habr.com/ru/companies/cloud_ru/articles/970450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970450)
-- [AI-агенты в аналитике: как я разработал два production-проекта за неделю](https://habr.com/ru/articles/970790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970790)
-- [[Перевод] Официальный гайд по промптам от OpenAI для GPT-5.1 &lpar;перевод&rpar;](https://habr.com/ru/articles/970784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970784)
-- [Нейро-дайджест: ключевые события мира AI за 4-ю неделю ноября 2025](https://habr.com/ru/companies/timeweb/articles/970682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970682)
+- [Интеграция с маркетплейсами Wildberries и Ozon: коды, лимиты и одна Елена](https://habr.com/ru/companies/cdek_blog/articles/970696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970696)
+- [Я пишу тексты с ИИ. Простите](https://habr.com/ru/articles/970820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970820)
+- [Готовьтесь к обрушению: как спроектировать приложение, чтобы «черная пятница» не превратилась в «черного лебедя»](https://habr.com/ru/articles/970818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970818)
+- [Выгоняем китайцев из розетки: переезд умного дома на Zigbee2MQTT и Home Assistant](https://habr.com/ru/articles/970816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970816)
+- [Как работает модульный SSD Samsung с возможностью замены компонентов](https://habr.com/ru/companies/x-com/articles/970814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
