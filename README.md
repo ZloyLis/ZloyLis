@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я Rust в Python встраивал](https://habr.com/ru/articles/970752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970752)
-- [Как я тестирую крупные системы, которые невозможно протестить на статичных данных](https://habr.com/ru/companies/centicore_group/articles/970370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970370)
-- [Как вырастить ребёнка, который боится врачей](https://habr.com/ru/companies/belayaraduga/articles/968512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968512)
-- [«Я тебя насквозь вижу»](https://habr.com/ru/companies/beget/articles/969290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969290)
-- [Топор Раскольникова как драйвер ВВП: введение в нарративную экономику](https://habr.com/ru/companies/gazprombank/articles/970186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970186)
+- [Как выбрать ITSM/ESM-систему: пошаговая инструкция, ошибки и лучшие практики внедрения на 2026 год](https://habr.com/ru/articles/970740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970740)
+- [Где ломается прокси-балансировщик: наш опыт измерений](https://habr.com/ru/companies/cloud_ru/articles/970450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970450)
+- [AI-агенты в аналитике: как я разработал два production-проекта за неделю](https://habr.com/ru/articles/970790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970790)
+- [[Перевод] Официальный гайд по промптам от OpenAI для GPT-5.1 &lpar;перевод&rpar;](https://habr.com/ru/articles/970784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970784)
+- [Нейро-дайджест: ключевые события мира AI за 4-ю неделю ноября 2025](https://habr.com/ru/companies/timeweb/articles/970682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
