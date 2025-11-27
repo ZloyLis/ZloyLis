@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Релокация — это сложно: мой опыт жизни и работы в Нидерландах](https://habr.com/ru/articles/970984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970984)
-- [Я закрыла строительный бизнеc спустя 10 лет, и вот мои 10 заповедей](https://habr.com/ru/articles/970838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970838)
-- [Как развиваться в ИТ, когда правильного карьерного пути больше нет](https://habr.com/ru/companies/it_sense/articles/970974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970974)
-- [Год от идеи до запуска: почему это оказалось сложнее](https://habr.com/ru/articles/970964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970964)
-- [Хаос, фракталы и голограммы](https://habr.com/ru/articles/967714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967714)
+- [API как продукт: честный взгляд изнутри Ozon Seller API](https://habr.com/ru/companies/ozontech/articles/970848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970848)
+- [Ошибки делегирования](https://habr.com/ru/articles/971006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971006)
+- [[Перевод] Стратегии обеспечения игрового баланса](https://habr.com/ru/companies/otus/articles/969912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969912)
+- [Жена варит. Я продаю. Зарабатываем 2 млн в год и счастливы](https://habr.com/ru/companies/moysklad/articles/971002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971002)
+- [[Перевод] Как не превратиться в «AI-first» компанию без реального использования ИИ. Перевод колонки CEO Runway](https://habr.com/ru/companies/technokratos/articles/971000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
