@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Релокация — это сложно: мой опыт жизни и работы в Нидерландах](https://habr.com/ru/articles/970984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970984)
+- [Я закрыла строительный бизнеc спустя 10 лет, и вот мои 10 заповедей](https://habr.com/ru/articles/970838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970838)
+- [Как развиваться в ИТ, когда правильного карьерного пути больше нет](https://habr.com/ru/companies/it_sense/articles/970974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970974)
 - [Год от идеи до запуска: почему это оказалось сложнее](https://habr.com/ru/articles/970964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970964)
 - [Хаос, фракталы и голограммы](https://habr.com/ru/articles/967714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967714)
-- [Как создать интуитивно-понятный дизайн: гештальт-принципы в UX](https://habr.com/ru/articles/970956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970956)
-- [Алгоритмы нужны программистам, или cамая быстрая и простая реализация RMQ](https://habr.com/ru/articles/962688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962688)
-- [Уже не Thor: как мы выслеживали одну группировку и «разбудили» другую](https://habr.com/ru/companies/pt/articles/967426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
