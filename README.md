@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чтение на выходные: «Hey! Listen! Путешествие по золотому веку видеоигр» Стива Макнила](https://habr.com/ru/companies/onlinepatent/articles/970408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970408)
+- [Процесс Вечного Улучшения: лучший способ никогда не закончить](https://habr.com/ru/articles/971088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971088)
+- [Квантовый фокус: как заставить тепло течь от холодного к горячему, не нарушая законов физики](https://habr.com/ru/articles/968976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968976)
 - [Лучшие нейросети для вайбкодинга на 1С 6 &lpar;финал&rpar;](https://habr.com/ru/articles/971106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971106)
 - [Поднимает AWX-Ansible &lpar;AWX-Operator&rpar; под Minikube в Debian](https://habr.com/ru/articles/971102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971102)
-- [Как получить заказ от крупной корпорации](https://habr.com/ru/articles/971094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971094)
-- [Темпорал для начинающих](https://habr.com/ru/articles/970730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970730)
-- [Claude Code за 4 часа написал AI чатбот &lpar;и мы выложили его в open source&rpar;](https://habr.com/ru/articles/971066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
