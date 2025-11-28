@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Элементарный дебаггинг с binding.irb](https://habr.com/ru/articles/971356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971356)
-- [Многопоточность для самых маленьких. Виртуальные потоки. Часть 2](https://habr.com/ru/articles/971350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971350)
-- [Продление срока службы бортовой электроники космических аппаратов](https://habr.com/ru/articles/971344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971344)
-- [Как мы помирили маркетинг и сэкономили несколько часов в неделю на ведение отчётности в Excel](https://habr.com/ru/articles/971290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971290)
-- [Как получить скрытые метрики памяти в VMware vCenter](https://habr.com/ru/companies/usetech/articles/971320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971320)
+- [Поздравляю вас с Днём системного аналитика и объясняю почему его празднуют сегодня](https://habr.com/ru/articles/971394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971394)
+- [Qwen3Guard: следующий шаг в модерации и контроле контента](https://habr.com/ru/companies/redmadrobot/articles/971388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971388)
+- [Hilbert Team получил награду «Security Yandex Cloud 2025»](https://habr.com/ru/articles/971382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971382)
+- [Monkey patching? В Go? Серьёзно? Или как писать тесты и не сойти сума](https://habr.com/ru/articles/971190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971190)
+- [Повышение точности ГЛОНАСС не запуском дополнительных спутников, а кодированием](https://habr.com/ru/articles/971366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
