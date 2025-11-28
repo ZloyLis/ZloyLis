@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработка цифровой аппаратуры нетрадиционным методом: Контроллер USB 1.0 на SpinalHDL](https://habr.com/ru/articles/908828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=908828)
+- [Элементарный дебаггинг с binding.irb](https://habr.com/ru/articles/971356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971356)
+- [Многопоточность для самых маленьких. Виртуальные потоки. Часть 2](https://habr.com/ru/articles/971350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971350)
+- [Продление срока службы бортовой электроники космических аппаратов](https://habr.com/ru/articles/971344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971344)
+- [Как мы помирили маркетинг и сэкономили несколько часов в неделю на ведение отчётности в Excel](https://habr.com/ru/articles/971290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971290)
 - [Как получить скрытые метрики памяти в VMware vCenter](https://habr.com/ru/companies/usetech/articles/971320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971320)
-- [Человек, который слышал интернет: киберсенсорика завтрашнего дня](https://habr.com/ru/articles/971318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971318)
-- [BBQ в IBS: как мы организовали внутреннюю конференцию по тестированию и при чем тут Шуфутинский](https://habr.com/ru/companies/ibs/articles/971316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971316)
-- [PostgreSQL Antipatterns? Анализ эффективности замены агрегатной функции MAX на ARRAY](https://habr.com/ru/articles/971314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
