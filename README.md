@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Поздравляю вас с Днём системного аналитика и объясняю почему его празднуют сегодня](https://habr.com/ru/articles/971394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971394)
-- [Qwen3Guard: следующий шаг в модерации и контроле контента](https://habr.com/ru/companies/redmadrobot/articles/971388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971388)
-- [Hilbert Team получил награду «Security Yandex Cloud 2025»](https://habr.com/ru/articles/971382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971382)
-- [Monkey patching? В Go? Серьёзно? Или как писать тесты и не сойти сума](https://habr.com/ru/articles/971190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971190)
-- [Повышение точности ГЛОНАСС не запуском дополнительных спутников, а кодированием](https://habr.com/ru/articles/971366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971366)
+- [Вайб-инжиниринг VS вайб-кодинг](https://habr.com/ru/articles/971250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971250)
+- [«Вам не нужны оригинальные версии этих игр»: как ремейки отличных игр убирают надобность в исходном материале](https://habr.com/ru/companies/timeweb/articles/971324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971324)
+- [[Перевод] Выбор между RabbitMQ и Apache Kafka](https://habr.com/ru/companies/otus/articles/969914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969914)
+- [Про одну, почти забытую технологию…](https://habr.com/ru/companies/beget/articles/970068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970068)
+- [Как защитить сервисы от вирусов-шифровальщиков при помощи MIND Guard #guest](https://habr.com/ru/companies/mind_software/articles/971392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
