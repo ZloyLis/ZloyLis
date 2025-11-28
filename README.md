@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Одна из причин ожирения. Белок, который заставляет клетки накапливать больше жира](https://habr.com/ru/articles/971462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971462)
-- [Claude Code: AI переезжает в терминал. Архитектура, кейсы и почему это &lpar;возможно&rpar; убийца IDE-плагинов](https://habr.com/ru/articles/971460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971460)
 - [Почему схемы залов не работают для людей с ограничениями. И как это исправить в интерфейсе](https://habr.com/ru/articles/971450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971450)
 - [Создаём первый Minecraft мод и подробно разбираем Mixin. Просто и понятно](https://habr.com/ru/articles/971448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971448)
 - [Как корпоративный поисковый портал стал платформой для цифровых ассистентов](https://habr.com/ru/articles/971412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971412)
+- [Лучшие практики зарубежных EPM-решений – теперь в новой версии продукта «Форсайт. Бюджетирование и консолидация»](https://habr.com/ru/companies/fsight/articles/971310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
