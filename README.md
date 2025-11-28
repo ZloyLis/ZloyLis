@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как устроена наблюдательная астрономия: от Галилея и серебряной пластинки до натриевой звезды](https://habr.com/ru/companies/first/articles/969850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969850)
-- [Мысли об архитектуре и о том, как можно побороть в ней проблемы](https://habr.com/ru/companies/alfa/articles/969932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969932)
-- [Параметризация xNode в префабах](https://habr.com/ru/articles/971220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971220)
-- [Цифровой карьер: как «Албынский рудник» ускорил и перевел маркшейдерские работы в nanoCAD](https://habr.com/ru/companies/nanosoft/articles/971210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971210)
-- [Как автоматизировать загрузку данных в DWH и не сойти с ума](https://habr.com/ru/companies/gri/articles/967674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967674)
+- [Базовая база для успешного собеседования на джуна в QA. Рассказываю, о чем спрашиваю на собесах](https://habr.com/ru/companies/ru_mts/articles/971244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971244)
+- [Обмен опытом без формальностей: как мастермайнд помогает строить в командах культуру самообучения](https://habr.com/ru/companies/yadro/articles/970138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970138)
+- [Рынок найма в IT-2025: мифы, факты и взросление индустрии. Разбор от HRD МойОфис [SHORT &amp;amp; FULL]](https://habr.com/ru/companies/ncloudtech/articles/970966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970966)
+- [[Перевод] Zabbix – миграция с MySQL на PostgreSQL](https://habr.com/ru/articles/970516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970516)
+- [Джун наоборот или разоблачение главного мифа вайб-кодинга](https://habr.com/ru/articles/971226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
