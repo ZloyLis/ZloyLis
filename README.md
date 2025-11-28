@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday Vocabulary: Чёрная Пятница на языке маркетинга, инфлюенсеров и покупателей](https://habr.com/ru/companies/yandex_praktikum/articles/971072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971072)
+- [[Перевод] DeepSeek-OCR + LLama4 + RAG = Революция в мире агентного OCR](https://habr.com/ru/companies/bothub/articles/971108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971108)
+- [Я проанализировал 100 вакансий на продуктового дизайнера — вот какие навыки реально нужны в 2025 году](https://habr.com/ru/articles/970962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970962)
+- [Год в роли IT-ментора: неочевидные выводы, цифры и стоит ли оно того](https://habr.com/ru/companies/alfa/articles/969822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969822)
 - [Чтение на выходные: «Hey! Listen! Путешествие по золотому веку видеоигр» Стива Макнила](https://habr.com/ru/companies/onlinepatent/articles/970408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970408)
-- [Процесс Вечного Улучшения: лучший способ никогда не закончить](https://habr.com/ru/articles/971088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971088)
-- [Квантовый фокус: как заставить тепло течь от холодного к горячему, не нарушая законов физики](https://habr.com/ru/articles/968976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968976)
-- [Лучшие нейросети для вайбкодинга на 1С 6 &lpar;финал&rpar;](https://habr.com/ru/articles/971106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971106)
-- [Поднимает AWX-Ansible &lpar;AWX-Operator&rpar; под Minikube в Debian](https://habr.com/ru/articles/971102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
