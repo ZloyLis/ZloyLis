@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вайб-инжиниринг VS вайб-кодинг](https://habr.com/ru/articles/971250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971250)
+- [Хроники русской сметы II. Неприличное слово «Прибыль»](https://habr.com/ru/articles/971428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971428)
+- [Чем вайб-инженер отличается от вайб-кодера](https://habr.com/ru/articles/971250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971250)
 - [«Вам не нужны оригинальные версии этих игр»: как ремейки отличных игр убирают надобность в исходном материале](https://habr.com/ru/companies/timeweb/articles/971324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971324)
 - [[Перевод] Выбор между RabbitMQ и Apache Kafka](https://habr.com/ru/companies/otus/articles/969914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969914)
 - [Про одну, почти забытую технологию…](https://habr.com/ru/companies/beget/articles/970068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970068)
-- [Как защитить сервисы от вирусов-шифровальщиков при помощи MIND Guard #guest](https://habr.com/ru/companies/mind_software/articles/971392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
