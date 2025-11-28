@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как корпоративный поисковый портал стал платформой для цифровых ассистентов](https://habr.com/ru/articles/971412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971412)
+- [Лучшие практики зарубежных EPM-решений – теперь в новой версии продукта «Форсайт. Бюджетирование и консолидация»](https://habr.com/ru/companies/fsight/articles/971310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971310)
+- [Почему ваше AI-решение не окупается. Фреймворк OpenAI, который все пропустили](https://habr.com/ru/articles/971432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971432)
 - [Хроники русской сметы II. Неприличное слово «Прибыль»](https://habr.com/ru/articles/971428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971428)
 - [Чем вайб-инженер отличается от вайб-кодера](https://habr.com/ru/articles/971250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971250)
-- [«Вам не нужны оригинальные версии этих игр»: как ремейки отличных игр убирают надобность в исходном материале](https://habr.com/ru/companies/timeweb/articles/971324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971324)
-- [[Перевод] Выбор между RabbitMQ и Apache Kafka](https://habr.com/ru/companies/otus/articles/969914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969914)
-- [Про одну, почти забытую технологию…](https://habr.com/ru/companies/beget/articles/970068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
