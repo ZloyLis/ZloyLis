@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие нейросети для вайбкодинга на 1С 6 &lpar;финал&rpar;](https://habr.com/ru/articles/971106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971106)
 - [Поднимает AWX-Ansible &lpar;AWX-Operator&rpar; под Minikube в Debian](https://habr.com/ru/articles/971102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971102)
 - [Как получить заказ от крупной корпорации](https://habr.com/ru/articles/971094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971094)
 - [Темпорал для начинающих](https://habr.com/ru/articles/970730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970730)
 - [Claude Code за 4 часа написал AI чатбот &lpar;и мы выложили его в open source&rpar;](https://habr.com/ru/articles/971066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971066)
-- [[Перевод] Выразительность против разрешимости: почему «мощные» системы тяжело анализировать](https://habr.com/ru/companies/otus/articles/971020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
