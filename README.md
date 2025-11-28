@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему схемы залов не работают для людей с ограничениями. И как это исправить в интерфейсе](https://habr.com/ru/articles/971450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971450)
+- [Создаём первый Minecraft мод и подробно разбираем Mixin. Просто и понятно](https://habr.com/ru/articles/971448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971448)
 - [Как корпоративный поисковый портал стал платформой для цифровых ассистентов](https://habr.com/ru/articles/971412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971412)
 - [Лучшие практики зарубежных EPM-решений – теперь в новой версии продукта «Форсайт. Бюджетирование и консолидация»](https://habr.com/ru/companies/fsight/articles/971310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971310)
 - [Почему ваше AI-решение не окупается. Фреймворк OpenAI, который все пропустили](https://habr.com/ru/articles/971432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971432)
-- [Хроники русской сметы II. Неприличное слово «Прибыль»](https://habr.com/ru/articles/971428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971428)
-- [Чем вайб-инженер отличается от вайб-кодера](https://habr.com/ru/articles/971250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
