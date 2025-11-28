@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-ассистент в M42: как мы в Авито ускорили построение графиков и увеличили аудиторию в Trisigma](https://habr.com/ru/companies/avito/articles/962422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962422)
-- [Как музыка активирует мозг и тело](https://habr.com/ru/companies/beget/articles/971040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971040)
-- [Формула бюджета ИБ: практическое руководство от действующего CISO](https://habr.com/ru/articles/969462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969462)
-- [[Перевод] Завис PVC? Виноват финализатор](https://habr.com/ru/companies/flant/articles/968314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968314)
-- [Помехоустойчивое кодирование голографическим кодом](https://habr.com/ru/articles/971124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971124)
+- [Я пена морская. Как BERT не справился с анализом простой поэзии](https://habr.com/ru/articles/971172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971172)
+- [Гайд по базовому окружению для AI без знаний в MLOps](https://habr.com/ru/companies/selectel/articles/971150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971150)
+- [Вайбкодинг — советы НЕразработчикам, которые хотят кодить с ИИ](https://habr.com/ru/articles/971080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971080)
+- [ТОП-9 российских таск-трекеров в 2025 году](https://habr.com/ru/companies/directum/articles/971170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971170)
+- [История сейфов](https://habr.com/ru/companies/sberbank/articles/971168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
