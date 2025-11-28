@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я пена морская. Как BERT не справился с анализом простой поэзии](https://habr.com/ru/articles/971172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971172)
-- [Гайд по базовому окружению для AI без знаний в MLOps](https://habr.com/ru/companies/selectel/articles/971150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971150)
-- [Вайбкодинг — советы НЕразработчикам, которые хотят кодить с ИИ](https://habr.com/ru/articles/971080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971080)
-- [ТОП-9 российских таск-трекеров в 2025 году](https://habr.com/ru/companies/directum/articles/971170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971170)
-- [История сейфов](https://habr.com/ru/companies/sberbank/articles/971168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971168)
+- [Удаляем пробелы из строки](https://habr.com/ru/companies/skbkontur/articles/970178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970178)
+- [AMA от InfoWatch — эксперты компании отвечают на ваши вопросы про ИБ](https://habr.com/ru/companies/infowatch/articles/970122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970122)
+- [Как обрабатывать исключения в Java](https://habr.com/ru/companies/otus/articles/971192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971192)
+- [Кустарные вакуумные триоды Клода Паяра. Часть 3. Установка ТВЧ](https://habr.com/ru/companies/ruvds/articles/967104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967104)
+- [5 правил парусного спорта, которые помогут любой ИТ-команде](https://habr.com/ru/companies/digital_solutions/articles/948512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948512)
 <!-- BLOG-POST-LIST:END -->
 
 ---
