@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday Vocabulary: Чёрная Пятница на языке маркетинга, инфлюенсеров и покупателей](https://habr.com/ru/companies/yandex_praktikum/articles/971072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971072)
-- [[Перевод] DeepSeek-OCR + LLama4 + RAG = Революция в мире агентного OCR](https://habr.com/ru/companies/bothub/articles/971108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971108)
-- [Я проанализировал 100 вакансий на продуктового дизайнера — вот какие навыки реально нужны в 2025 году](https://habr.com/ru/articles/970962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970962)
-- [Год в роли IT-ментора: неочевидные выводы, цифры и стоит ли оно того](https://habr.com/ru/companies/alfa/articles/969822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969822)
-- [Чтение на выходные: «Hey! Listen! Путешествие по золотому веку видеоигр» Стива Макнила](https://habr.com/ru/companies/onlinepatent/articles/970408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970408)
+- [ИИ-ассистент в M42: как мы в Авито ускорили построение графиков и увеличили аудиторию в Trisigma](https://habr.com/ru/companies/avito/articles/962422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=962422)
+- [Как музыка активирует мозг и тело](https://habr.com/ru/companies/beget/articles/971040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971040)
+- [Формула бюджета ИБ: практическое руководство от действующего CISO](https://habr.com/ru/articles/969462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969462)
+- [[Перевод] Завис PVC? Виноват финализатор](https://habr.com/ru/companies/flant/articles/968314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968314)
+- [Помехоустойчивое кодирование голографическим кодом](https://habr.com/ru/articles/971124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
