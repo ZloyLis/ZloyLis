@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как сократить количество Draw Calls &lpar;вызовов отрисовки&rpar; в UI Unity](https://habr.com/ru/companies/otus/articles/971228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971228)
-- [Kandinsky 5.0: линейка open-source моделей генерации изображений и видео нового поколения](https://habr.com/ru/companies/sberbank/articles/971154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971154)
-- [«Господин Говорунъ: как я обучил маленькую модель разговаривать на дореформенном русском»](https://habr.com/ru/articles/971266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971266)
-- [Как прошла международная конференция ISKE 2025 в области AI и ML](https://habr.com/ru/articles/971280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971280)
-- [Еще пара историй про темные паттерны UX: почему вас постоянно пытаются запутать](https://habr.com/ru/articles/971276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971276)
+- [Разработка цифровой аппаратуры нетрадиционным методом: Контроллер USB 1.0 на SpinalHDL](https://habr.com/ru/articles/908828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=908828)
+- [Как получить скрытые метрики памяти в VMware vCenter](https://habr.com/ru/companies/usetech/articles/971320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971320)
+- [Человек, который слышал интернет: киберсенсорика завтрашнего дня](https://habr.com/ru/articles/971318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971318)
+- [BBQ в IBS: как мы организовали внутреннюю конференцию по тестированию и при чем тут Шуфутинский](https://habr.com/ru/companies/ibs/articles/971316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971316)
+- [PostgreSQL Antipatterns? Анализ эффективности замены агрегатной функции MAX на ARRAY](https://habr.com/ru/articles/971314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
