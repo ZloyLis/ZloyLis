@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Базовая база для успешного собеседования на джуна в QA. Рассказываю, о чем спрашиваю на собесах](https://habr.com/ru/companies/ru_mts/articles/971244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971244)
-- [Обмен опытом без формальностей: как мастермайнд помогает строить в командах культуру самообучения](https://habr.com/ru/companies/yadro/articles/970138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970138)
-- [Рынок найма в IT-2025: мифы, факты и взросление индустрии. Разбор от HRD МойОфис [SHORT &amp;amp; FULL]](https://habr.com/ru/companies/ncloudtech/articles/970966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970966)
-- [[Перевод] Zabbix – миграция с MySQL на PostgreSQL](https://habr.com/ru/articles/970516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970516)
-- [Джун наоборот или разоблачение главного мифа вайб-кодинга](https://habr.com/ru/articles/971226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971226)
+- [[Перевод] Как сократить количество Draw Calls &lpar;вызовов отрисовки&rpar; в UI Unity](https://habr.com/ru/companies/otus/articles/971228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971228)
+- [Kandinsky 5.0: линейка open-source моделей генерации изображений и видео нового поколения](https://habr.com/ru/companies/sberbank/articles/971154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971154)
+- [«Господин Говорунъ: как я обучил маленькую модель разговаривать на дореформенном русском»](https://habr.com/ru/articles/971266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971266)
+- [Как прошла международная конференция ISKE 2025 в области AI и ML](https://habr.com/ru/articles/971280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971280)
+- [Еще пара историй про темные паттерны UX: почему вас постоянно пытаются запутать](https://habr.com/ru/articles/971276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
