@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Удаляем пробелы из строки](https://habr.com/ru/companies/skbkontur/articles/970178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970178)
-- [AMA от InfoWatch — эксперты компании отвечают на ваши вопросы про ИБ](https://habr.com/ru/companies/infowatch/articles/970122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970122)
-- [Как обрабатывать исключения в Java](https://habr.com/ru/companies/otus/articles/971192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971192)
-- [Кустарные вакуумные триоды Клода Паяра. Часть 3. Установка ТВЧ](https://habr.com/ru/companies/ruvds/articles/967104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967104)
-- [5 правил парусного спорта, которые помогут любой ИТ-команде](https://habr.com/ru/companies/digital_solutions/articles/948512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948512)
+- [Как устроена наблюдательная астрономия: от Галилея и серебряной пластинки до натриевой звезды](https://habr.com/ru/companies/first/articles/969850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969850)
+- [Мысли об архитектуре и о том, как можно побороть в ней проблемы](https://habr.com/ru/companies/alfa/articles/969932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969932)
+- [Параметризация xNode в префабах](https://habr.com/ru/articles/971220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971220)
+- [Цифровой карьер: как «Албынский рудник» ускорил и перевел маркшейдерские работы в nanoCAD](https://habr.com/ru/companies/nanosoft/articles/971210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971210)
+- [Как автоматизировать загрузку данных в DWH и не сойти с ума](https://habr.com/ru/companies/gri/articles/967674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
