@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Wazuh SCA: От CIS Benchmarks до Кастомных Политик. Закрываем Дыры в Конфигах](https://habr.com/ru/articles/971636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971636)
 - [Почему в GPS треугольный курсор и при чем тут Asteroids](https://habr.com/ru/companies/ispsystem/articles/971632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971632)
 - [Рецепт фирменного стека: аккуратный деплой в OpenStack на примере Акуры](https://habr.com/ru/companies/hstx/articles/971626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971626)
 - [Мультиагентная разработка в Cursor: как заставить субагентов работать на большие проекты](https://habr.com/ru/articles/971620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971620)
 - [Цифровая радиолокация с голографическим кодированием](https://habr.com/ru/articles/971616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971616)
-- [Анализ вариантов оптимизации ресурсоёмкого SQL-запроса: Часть-1 «EXISTS»](https://habr.com/ru/articles/971606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
