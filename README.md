@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как сократить количество Draw Calls &lpar;вызовов отрисовки&rpar; в UI Unity](https://habr.com/ru/companies/otus/articles/971218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971218)
+- [[Перевод] Цепочка ошибок в JavaScript: удобная отладка кода с помощью Error.cause](https://habr.com/ru/companies/timeweb/articles/967440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967440)
+- [Работа с RTSP-плеером во Flutter: выбор библиотеки и снижение задержки](https://habr.com/ru/articles/971256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971256)
+- [Собес — это несмешной цирк](https://habr.com/ru/articles/971514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971514)
 - [Особенности расчета коэффициента корреляции в PostgreSQL](https://habr.com/ru/articles/971510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971510)
-- [[Перевод] ИИ-ассистенты: как AI делит рынок разработки](https://habr.com/ru/articles/970976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970976)
-- [Точка, запятая и прочие: как появились привычные нам знаки препинания, и при чём тут венецианцы?](https://habr.com/ru/companies/ruvds/articles/971260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971260)
-- [Магия Python: Почему a = 256 и b = 256 — это один объект, а с 257 это уже не работает?](https://habr.com/ru/articles/971500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971500)
-- [[Перевод] Топливо, произведённое из воздуха и воды, набирает популярность, но несколько факторов сдерживают его развитие](https://habr.com/ru/articles/971456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
