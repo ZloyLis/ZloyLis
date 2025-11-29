@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как сократить количество Draw Calls &lpar;вызовов отрисовки&rpar; в UI Unity](https://habr.com/ru/companies/otus/articles/971218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971218)
-- [[Перевод] Цепочка ошибок в JavaScript: удобная отладка кода с помощью Error.cause](https://habr.com/ru/companies/timeweb/articles/967440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967440)
-- [Работа с RTSP-плеером во Flutter: выбор библиотеки и снижение задержки](https://habr.com/ru/articles/971256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971256)
-- [Собес — это несмешной цирк](https://habr.com/ru/articles/971514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971514)
-- [Особенности расчета коэффициента корреляции в PostgreSQL](https://habr.com/ru/articles/971510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971510)
+- [UNITY: Реализация движений для динамичного шутера](https://habr.com/ru/articles/971552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971552)
+- [Жизнь и смерть цивилизаций: освещаем тёмный лес &lpar;и немного Python&rpar;](https://habr.com/ru/articles/970908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970908)
+- [Как в наши дни вошел водопровод, сработанный еще рабами Рима…](https://habr.com/ru/articles/971534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971534)
+- [Вальтер Лэндор: британский дизайн с немецким акцентом](https://habr.com/ru/companies/onlinepatent/articles/971530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971530)
+- [Управление сервисами в Kubernetes или как заставить их общаться](https://habr.com/ru/companies/otus/articles/971292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
