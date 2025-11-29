@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вайбкодинг — не Вайб и не Кодинг](https://habr.com/ru/articles/971496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971496)
+- [Инструкция по настройке Удостоверяющего Центра &lpar;CA&rpar; на базе HashiCorp Vault и OpenSSL в Kubernetes](https://habr.com/ru/articles/971494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971494)
+- [Открытие кода часов Pebble: что это значит для проекта](https://habr.com/ru/companies/selectel/articles/971252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971252)
+- [[Перевод] Компилируем Python так, чтобы он работал везде](https://habr.com/ru/articles/971490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971490)
 - [Решаем задачи ML эффективнее: платформа, которая экономит ресурсы, время и нервы](https://habr.com/ru/companies/avito/articles/970668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970668)
-- [Миссия выполнима: как мы добились актуальности двух тысяч кешей](https://habr.com/ru/companies/ozontech/articles/971296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971296)
-- [Восемь игр на залипнуть: Cult of the Lamb, градостроение и головоломки](https://habr.com/ru/companies/ru_mts/articles/971352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971352)
-- [Создание ИИ-персон и User Stories для улучшения UX](https://habr.com/ru/articles/971488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971488)
-- [WhatsApp не работает: Блокировка 28 ноября РКН и причем тут ТСПУ](https://habr.com/ru/articles/971480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
