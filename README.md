@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Природа управления. Или почему не всегда работает менеджмент](https://habr.com/ru/articles/971604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971604)
+- [Защищенные и незащищенные LI-ION аккумуляторы](https://habr.com/ru/articles/964490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964490)
 - [Отсутствие сопротивления вышестоящему руководству](https://habr.com/ru/articles/971592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971592)
 - [Добываем интернет из воздуха](https://habr.com/ru/articles/971586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971586)
-- [[Перевод] LLM: обучение и использование](https://habr.com/ru/articles/971572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971572)
 - [Тайна самой дешевой Linux-консоли с Ozon](https://habr.com/ru/companies/timeweb/articles/970646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970646)
-- [«Хакер»: самые важные новости мира безопасности за ноябрь](https://habr.com/ru/companies/xakep/articles/971574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
