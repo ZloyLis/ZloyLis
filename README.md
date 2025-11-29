@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рецепт фирменного стека: аккуратный деплой в OpenStack на примере Акуры](https://habr.com/ru/companies/hstx/articles/971626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971626)
+- [Мультиагентная разработка в Cursor: как заставить субагентов работать на большие проекты](https://habr.com/ru/articles/971620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971620)
+- [Цифровая радиолокация с голографическим кодированием](https://habr.com/ru/articles/971616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971616)
 - [Анализ вариантов оптимизации ресурсоёмкого SQL-запроса: Часть-1 «EXISTS»](https://habr.com/ru/articles/971606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971606)
 - [Природа управления. Или почему не всегда работает менеджмент](https://habr.com/ru/articles/971604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971604)
-- [Защищенные и незащищенные LI-ION аккумуляторы](https://habr.com/ru/articles/964490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964490)
-- [Отсутствие сопротивления вышестоящему руководству](https://habr.com/ru/articles/971592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971592)
-- [Добываем интернет из воздуха](https://habr.com/ru/articles/971586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
