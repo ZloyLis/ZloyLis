@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вайбкодинг — не Вайб и не Кодинг](https://habr.com/ru/articles/971496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971496)
-- [Инструкция по настройке Удостоверяющего Центра &lpar;CA&rpar; на базе HashiCorp Vault и OpenSSL в Kubernetes](https://habr.com/ru/articles/971494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971494)
-- [Открытие кода часов Pebble: что это значит для проекта](https://habr.com/ru/companies/selectel/articles/971252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971252)
-- [[Перевод] Компилируем Python так, чтобы он работал везде](https://habr.com/ru/articles/971490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971490)
-- [Решаем задачи ML эффективнее: платформа, которая экономит ресурсы, время и нервы](https://habr.com/ru/companies/avito/articles/970668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970668)
+- [Особенности расчета коэффициента корреляции в PostgreSQL](https://habr.com/ru/articles/971510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971510)
+- [[Перевод] ИИ-ассистенты: как AI делит рынок разработки](https://habr.com/ru/articles/970976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970976)
+- [Точка, запятая и прочие: как появились привычные нам знаки препинания, и при чём тут венецианцы?](https://habr.com/ru/companies/ruvds/articles/971260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971260)
+- [Магия Python: Почему a = 256 и b = 256 — это один объект, а с 257 это уже не работает?](https://habr.com/ru/articles/971500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971500)
+- [[Перевод] Топливо, произведённое из воздуха и воды, набирает популярность, но несколько факторов сдерживают его развитие](https://habr.com/ru/articles/971456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
