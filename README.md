@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайна самой дешевой Linux-консоли с Ozon](https://habr.com/ru/companies/timeweb/articles/970646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970646)
+- [«Хакер»: самые важные новости мира безопасности за ноябрь](https://habr.com/ru/companies/xakep/articles/971574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971574)
 - [[Перевод] Google и Microsoft на мели. Вся правда о долге на $100 миллиардов, который от нас скрывают](https://habr.com/ru/companies/bothub/articles/971566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971566)
 - [Новое поколение ПЛИС это не только про повышение частоты…](https://habr.com/ru/articles/971560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971560)
 - [Achievement Unlocked: Xbox 360 — 20 лет](https://habr.com/ru/companies/ruvds/articles/970678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970678)
-- [Product Hunt — площадка для запуска стартапов. Норм или стрём?](https://habr.com/ru/articles/971556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971556)
-- [UNITY: Реализация движений для динамичного шутера](https://habr.com/ru/articles/971552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
