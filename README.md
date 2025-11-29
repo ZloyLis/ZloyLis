@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решаем задачи ML эффективнее: платформа, которая экономит ресурсы, время и нервы](https://habr.com/ru/companies/avito/articles/970668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970668)
+- [Миссия выполнима: как мы добились актуальности двух тысяч кешей](https://habr.com/ru/companies/ozontech/articles/971296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971296)
+- [Восемь игр на залипнуть: Cult of the Lamb, градостроение и головоломки](https://habr.com/ru/companies/ru_mts/articles/971352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971352)
+- [Создание ИИ-персон и User Stories для улучшения UX](https://habr.com/ru/articles/971488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971488)
 - [WhatsApp не работает: Блокировка 28 ноября РКН и причем тут ТСПУ](https://habr.com/ru/articles/971480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971480)
-- [Анатомия Демиурга: Почему нам нужен «Гровер» и как код может стать материей](https://habr.com/ru/articles/971468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971468)
-- [[Перевод] Одна из причин ожирения. Белок, который заставляет клетки накапливать больше жира](https://habr.com/ru/articles/971462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971462)
-- [Почему схемы залов не работают для людей с ограничениями. И как это исправить в интерфейсе](https://habr.com/ru/articles/971450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971450)
-- [Создаём первый Minecraft мод и подробно разбираем Mixin. Просто и понятно](https://habr.com/ru/articles/971448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
