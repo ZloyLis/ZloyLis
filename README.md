@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ вариантов оптимизации ресурсоёмкого SQL-запроса: Часть-1 «EXISTS»](https://habr.com/ru/articles/971606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971606)
 - [Природа управления. Или почему не всегда работает менеджмент](https://habr.com/ru/articles/971604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971604)
 - [Защищенные и незащищенные LI-ION аккумуляторы](https://habr.com/ru/articles/964490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964490)
 - [Отсутствие сопротивления вышестоящему руководству](https://habr.com/ru/articles/971592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971592)
 - [Добываем интернет из воздуха](https://habr.com/ru/articles/971586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971586)
-- [Тайна самой дешевой Linux-консоли с Ozon](https://habr.com/ru/companies/timeweb/articles/970646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
