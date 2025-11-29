@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Google и Microsoft на мели. Вся правда о долге на $100 миллиардов, который от нас скрывают](https://habr.com/ru/companies/bothub/articles/971566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971566)
+- [Новое поколение ПЛИС это не только про повышение частоты…](https://habr.com/ru/articles/971560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971560)
+- [Achievement Unlocked: Xbox 360 — 20 лет](https://habr.com/ru/companies/ruvds/articles/970678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970678)
+- [Product Hunt — площадка для запуска стартапов. Норм или стрём?](https://habr.com/ru/articles/971556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971556)
 - [UNITY: Реализация движений для динамичного шутера](https://habr.com/ru/articles/971552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971552)
-- [Жизнь и смерть цивилизаций: освещаем тёмный лес &lpar;и немного Python&rpar;](https://habr.com/ru/articles/970908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970908)
-- [Как в наши дни вошел водопровод, сработанный еще рабами Рима…](https://habr.com/ru/articles/971534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971534)
-- [Вальтер Лэндор: британский дизайн с немецким акцентом](https://habr.com/ru/companies/onlinepatent/articles/971530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971530)
-- [Управление сервисами в Kubernetes или как заставить их общаться](https://habr.com/ru/companies/otus/articles/971292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
