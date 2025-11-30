@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему ваше резюме не видят? Виноваты не вы, а система: как компании сами создали армию «скрытых работников»](https://habr.com/ru/companies/onlinepatent/articles/971682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971682)
-- [История, в которой Винни-Пух и его друзья учатся решать проблемы по одной](https://habr.com/ru/articles/971680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971680)
-- [За бортом](https://habr.com/ru/articles/971666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971666)
-- [[Перевод] Не делайте рефакторинг как дядя Боб. Я вас умоляю](https://habr.com/ru/companies/ruvds/articles/970488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970488)
-- [Миллиардные индустрии зависят от того, чего нет: фраза, которую нельзя было пропустить](https://habr.com/ru/articles/968122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968122)
+- [[Перевод] Как рассуждают большие языковые модели](https://habr.com/ru/articles/971700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971700)
+- [Бэкап PostgreSQL на независимый сервер по расписанию](https://habr.com/ru/companies/amvera/articles/971338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971338)
+- [Феномен Arduino: почему эта плата завоевала молодежь, а не стала скучным учебником](https://habr.com/ru/articles/971694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971694)
+- [Анализ вариантов оптимизации ресурсоёмкого SQL-запроса: Вариант-2 «TUNING»](https://habr.com/ru/articles/971690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971690)
+- [Комплекс благодетеля](https://habr.com/ru/articles/971688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
