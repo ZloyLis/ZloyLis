@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за ноябрь 2025 года](https://habr.com/ru/articles/966198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966198)
 - [Многомерность. Очевидная и неоднозначная](https://habr.com/ru/articles/970772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970772)
 - [[Перевод] Поломанная дверь Гордона Фримена](https://habr.com/ru/articles/971578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971578)
 - [Танец свободных электронов рождает квантового кота Шрёдингера](https://habr.com/ru/articles/968982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968982)
 - [Wazuh SCA: от CIS Benchmarks до кастомных политик. Закрываем дыры в конфигах](https://habr.com/ru/articles/971636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971636)
-- [Почему в GPS треугольный курсор и при чем тут Asteroids](https://habr.com/ru/companies/ispsystem/articles/971632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
