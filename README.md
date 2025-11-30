@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как раздобыть Nvidia Tesla за копейки и не поселиться в психушке: хардкор-гайд от выжившего](https://habr.com/ru/articles/971770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971770)
+- [«База данных как API»: Почему я написал свою ORM на Source Generators и обогнал Dapper в 800 раз](https://habr.com/ru/articles/971758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971758)
+- [Создание плагина для Clang для поиска Singleton](https://habr.com/ru/articles/951894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951894)
+- [Полумодулярные схемы](https://habr.com/ru/articles/971752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971752)
 - [Роль звукового дизайна в играх: почему мелодии становятся культовыми.  Разбор 5 саунд-примеров](https://habr.com/ru/companies/plati/articles/971734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971734)
-- [Музыкальный блокнот. Приложение разбора игры на гитаре по видео &lpar;вайб кодинг 1 день&rpar;](https://habr.com/ru/articles/971750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971750)
-- [tcpdump: От Новичка до Мастера Сетевого Анализа](https://habr.com/ru/articles/971748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971748)
-- [Интеллект в графе: как структурированное знание становится капиталом](https://habr.com/ru/articles/971744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971744)
-- [Любовное письмо LLM, или как я перестал бояться и впервые довел пет-проект до конца](https://habr.com/ru/articles/971742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
