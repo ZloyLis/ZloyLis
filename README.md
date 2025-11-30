@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Протестировал 8 брендов LLM на честность, логику и креатив. Claude победил, но Алиса неожиданно в топ-3](https://habr.com/ru/articles/971600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971600)
+- [Ностальгические игры: Twisted Metal 4](https://habr.com/ru/companies/timeweb/articles/971504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971504)
 - [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за ноябрь 2025 года](https://habr.com/ru/articles/966198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966198)
 - [Многомерность. Очевидная и неоднозначная](https://habr.com/ru/articles/970772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970772)
 - [[Перевод] Поломанная дверь Гордона Фримена](https://habr.com/ru/articles/971578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971578)
-- [Танец свободных электронов рождает квантового кота Шрёдингера](https://habr.com/ru/articles/968982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968982)
-- [Wazuh SCA: от CIS Benchmarks до кастомных политик. Закрываем дыры в конфигах](https://habr.com/ru/articles/971636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
