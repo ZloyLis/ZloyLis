@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я внедрил Nano Banana PRO &lpar;не только его&rpar; для генерации карточек и других материалов](https://habr.com/ru/articles/971740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971740)
-- [Программируемое зарядное устройство Кулон 830](https://habr.com/ru/companies/ruvds/articles/969506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969506)
-- [Поиск фото по текстовому описанию от Qwen3-VL](https://habr.com/ru/articles/971524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971524)
-- [Что происходит, когда запускается код?](https://habr.com/ru/articles/971730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971730)
-- [[Перевод] Перевод. OpenAI :Building an AI-native engineering team](https://habr.com/ru/articles/971724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971724)
+- [Роль звукового дизайна в играх: почему мелодии становятся культовыми.  Разбор 5 саунд-примеров](https://habr.com/ru/companies/plati/articles/971734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971734)
+- [Музыкальный блокнот. Приложение разбора игры на гитаре по видео &lpar;вайб кодинг 1 день&rpar;](https://habr.com/ru/articles/971750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971750)
+- [tcpdump: От Новичка до Мастера Сетевого Анализа](https://habr.com/ru/articles/971748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971748)
+- [Интеллект в графе: как структурированное знание становится капиталом](https://habr.com/ru/articles/971744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971744)
+- [Любовное письмо LLM, или как я перестал бояться и впервые довел пет-проект до конца](https://habr.com/ru/articles/971742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
