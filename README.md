@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как рассуждают большие языковые модели](https://habr.com/ru/articles/971700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971700)
-- [Бэкап PostgreSQL на независимый сервер по расписанию](https://habr.com/ru/companies/amvera/articles/971338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971338)
-- [Феномен Arduino: почему эта плата завоевала молодежь, а не стала скучным учебником](https://habr.com/ru/articles/971694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971694)
-- [Анализ вариантов оптимизации ресурсоёмкого SQL-запроса: Вариант-2 «TUNING»](https://habr.com/ru/articles/971690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971690)
-- [Комплекс благодетеля](https://habr.com/ru/articles/971688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971688)
+- [[Перевод] Перевод. OpenAI :Building an AI-native engineering team](https://habr.com/ru/articles/971724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971724)
+- [Цифровая тень](https://habr.com/ru/articles/971720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971720)
+- [Ошибки собственников в продажах: почему отдел держится на одном человеке и чем это заканчивается](https://habr.com/ru/articles/971718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971718)
+- [[Перевод] ИИ клонирует себя без спроса — что будет дальше?](https://habr.com/ru/companies/bothub/articles/971714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971714)
+- [Как завершение поддержки Windows 10 сказалось на популярности Linux и причем тут Zorin OS](https://habr.com/ru/companies/selectel/articles/971274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
