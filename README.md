@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я внедрил Nano Banana PRO &lpar;не только его&rpar; для генерации карточек и других материалов](https://habr.com/ru/articles/971740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971740)
+- [Программируемое зарядное устройство Кулон 830](https://habr.com/ru/companies/ruvds/articles/969506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969506)
+- [Поиск фото по текстовому описанию от Qwen3-VL](https://habr.com/ru/articles/971524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971524)
+- [Что происходит, когда запускается код?](https://habr.com/ru/articles/971730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971730)
 - [[Перевод] Перевод. OpenAI :Building an AI-native engineering team](https://habr.com/ru/articles/971724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971724)
-- [Цифровая тень](https://habr.com/ru/articles/971720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971720)
-- [Ошибки собственников в продажах: почему отдел держится на одном человеке и чем это заканчивается](https://habr.com/ru/articles/971718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971718)
-- [[Перевод] ИИ клонирует себя без спроса — что будет дальше?](https://habr.com/ru/companies/bothub/articles/971714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971714)
-- [Как завершение поддержки Windows 10 сказалось на популярности Linux и причем тут Zorin OS](https://habr.com/ru/companies/selectel/articles/971274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
