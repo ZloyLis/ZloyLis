@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как найти иголку в стоге сена: Точечная фильтрация шума в Wireshark для SOC-аналитиков](https://habr.com/ru/articles/971792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971792)
-- [Свой мини-«мониторинг как сервис»: Python-демон + Next.js-дашборд](https://habr.com/ru/articles/971786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971786)
-- [Еще один MultiWan на Mikrotik ROS7 с Балансировкой и QOS. Часть 2](https://habr.com/ru/articles/970886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970886)
-- [[Перевод] Трансформация жировых клеток в костную ткань. При переломах и от дряхлости](https://habr.com/ru/articles/971776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971776)
-- [Ответ фронтендера на «Не занимайтесь преждевременной оптимизацией»](https://habr.com/ru/articles/971774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971774)
+- [Как мы пережили два месяца загадочных падений JBOSS FUSE 6.1](https://habr.com/ru/articles/971810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971810)
+- [Загадка магнитной подвески](https://habr.com/ru/articles/971304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971304)
+- [Детгиз на помощь взрослым дядям](https://habr.com/ru/articles/969098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969098)
+- [Визуализация диаграмм в VS code](https://habr.com/ru/articles/971802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971802)
+- [Повышение помехоустойчивости каналов связи](https://habr.com/ru/articles/971798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
