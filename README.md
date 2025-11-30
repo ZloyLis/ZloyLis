@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Не делайте рефакторинг как дядя Боб. Я вас умоляю](https://habr.com/ru/companies/ruvds/articles/970488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970488)
+- [Миллиардные индустрии зависят от того, чего нет: фраза, которую нельзя было пропустить](https://habr.com/ru/articles/968122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968122)
+- [Обзор и рецензия на книгу «Антихрупкость в IT»](https://habr.com/ru/articles/971656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971656)
 - [Экстренный патч или как не получить «RCE по утрам»](https://habr.com/ru/companies/axiomjdk/articles/971638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971638)
 - [[Перевод] Почему Python — не лучший язык для data science. Часть 1 — опыт разработчика и исследователя](https://habr.com/ru/articles/971046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971046)
-- [[Перевод] Глубокое обучение сверточной нейросети — и фермерский лосось больше не притворится диким](https://habr.com/ru/companies/selectel/articles/971546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971546)
-- [Как освободить память на телефоне, без удаления фото или видео?](https://habr.com/ru/articles/971654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971654)
-- [SQL vs NoSQL: реальный тест нагрузки на 1 млн запросов в минуту](https://habr.com/ru/articles/971652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
