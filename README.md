@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как раздобыть Nvidia Tesla за копейки и не поселиться в психушке: хардкор-гайд от выжившего](https://habr.com/ru/articles/971770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971770)
-- [«База данных как API»: Почему я написал свою ORM на Source Generators и обогнал Dapper в 800 раз](https://habr.com/ru/articles/971758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971758)
-- [Создание плагина для Clang для поиска Singleton](https://habr.com/ru/articles/951894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951894)
-- [Полумодулярные схемы](https://habr.com/ru/articles/971752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971752)
-- [Роль звукового дизайна в играх: почему мелодии становятся культовыми.  Разбор 5 саунд-примеров](https://habr.com/ru/companies/plati/articles/971734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971734)
+- [Как найти иголку в стоге сена: Точечная фильтрация шума в Wireshark для SOC-аналитиков](https://habr.com/ru/articles/971792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971792)
+- [Свой мини-«мониторинг как сервис»: Python-демон + Next.js-дашборд](https://habr.com/ru/articles/971786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971786)
+- [Еще один MultiWan на Mikrotik ROS7 с Балансировкой и QOS. Часть 2](https://habr.com/ru/articles/970886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970886)
+- [[Перевод] Трансформация жировых клеток в костную ткань. При переломах и от дряхлости](https://habr.com/ru/articles/971776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971776)
+- [Ответ фронтендера на «Не занимайтесь преждевременной оптимизацией»](https://habr.com/ru/articles/971774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
