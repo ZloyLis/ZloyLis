@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему ваше резюме не видят? Виноваты не вы, а система: как компании сами создали армию «скрытых работников»](https://habr.com/ru/companies/onlinepatent/articles/971682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971682)
+- [История, в которой Винни-Пух и его друзья учатся решать проблемы по одной](https://habr.com/ru/articles/971680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971680)
+- [За бортом](https://habr.com/ru/articles/971666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971666)
 - [[Перевод] Не делайте рефакторинг как дядя Боб. Я вас умоляю](https://habr.com/ru/companies/ruvds/articles/970488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970488)
 - [Миллиардные индустрии зависят от того, чего нет: фраза, которую нельзя было пропустить](https://habr.com/ru/articles/968122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968122)
-- [Обзор и рецензия на книгу «Антихрупкость в IT»](https://habr.com/ru/articles/971656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971656)
-- [Экстренный патч или как не получить «RCE по утрам»](https://habr.com/ru/companies/axiomjdk/articles/971638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971638)
-- [[Перевод] Почему Python — не лучший язык для data science. Часть 1 — опыт разработчика и исследователя](https://habr.com/ru/articles/971046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
