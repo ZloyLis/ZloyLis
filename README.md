@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Протестировал 8 брендов LLM на честность, логику и креатив. Claude победил, но Алиса неожиданно в топ-3](https://habr.com/ru/articles/971600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971600)
-- [Ностальгические игры: Twisted Metal 4](https://habr.com/ru/companies/timeweb/articles/971504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971504)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за ноябрь 2025 года](https://habr.com/ru/articles/966198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966198)
-- [Многомерность. Очевидная и неоднозначная](https://habr.com/ru/articles/970772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970772)
-- [[Перевод] Поломанная дверь Гордона Фримена](https://habr.com/ru/articles/971578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971578)
+- [Экстренный патч или как не получить «RCE по утрам»](https://habr.com/ru/companies/axiomjdk/articles/971638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971638)
+- [[Перевод] Почему Python — не лучший язык для data science. Часть 1 — опыт разработчика и исследователя](https://habr.com/ru/articles/971046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971046)
+- [[Перевод] Глубокое обучение сверточной нейросети — и фермерский лосось больше не притворится диким](https://habr.com/ru/companies/selectel/articles/971546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971546)
+- [Как освободить память на телефоне, без удаления фото или видео?](https://habr.com/ru/articles/971654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971654)
+- [SQL vs NoSQL: реальный тест нагрузки на 1 млн запросов в минуту](https://habr.com/ru/articles/971652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
