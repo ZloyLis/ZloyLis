@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем вашему процессору нейронный блок, если есть RTX 4090?](https://habr.com/ru/articles/971820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971820)
+- [«Логикомикс»: драма логики, математики и философии](https://habr.com/ru/articles/971816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971816)
+- [Доработка распределения косвенных расходов в 1С: Бухгалтерии предприятия](https://habr.com/ru/articles/971812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971812)
 - [Как мы пережили два месяца загадочных падений JBOSS FUSE 6.1](https://habr.com/ru/articles/971810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971810)
 - [Загадка магнитной подвески](https://habr.com/ru/articles/971304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971304)
-- [Детгиз на помощь взрослым дядям](https://habr.com/ru/articles/969098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969098)
-- [Визуализация диаграмм в VS code](https://habr.com/ru/articles/971802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971802)
-- [Повышение помехоустойчивости каналов связи](https://habr.com/ru/articles/971798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
