@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обратная эксплуатация как новое социальное явление в трудовых отношениях](https://habr.com/ru/articles/972236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972236)
+- [Мифы и реальность: есть ли основание противопоставлять Agile и Waterfall?](https://habr.com/ru/articles/972230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972230)
 - [От Выгорания к Жизни. Как навести порядок в расписании и успевать больше](https://habr.com/ru/companies/otus/articles/951890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951890)
 - [Реализация уникального шифра для поиска дублей и внедрение автоматизированных метрик качества в АСУ НСИ](https://habr.com/ru/companies/nornickel/articles/972214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972214)
 - [Как нейросети помогают ускорить создание плана проекта](https://habr.com/ru/companies/nornickel/articles/972210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972210)
-- [Шпион в твоем кармане](https://habr.com/ru/companies/angarasecurity/articles/972198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972198)
-- [[Перевод] 2000 лет назад греки создали первую вычислительную машину](https://habr.com/ru/articles/972194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
