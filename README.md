@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИБ для конторы разработчиков ПО](https://habr.com/ru/articles/971874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971874)
 - [Принципы ответственной ИИ-ассистированной разработки ПО](https://habr.com/ru/articles/971868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971868)
 - [Сравнительный анализ 18 LLM моделей: конец монополии?](https://habr.com/ru/articles/971864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971864)
 - [Запекаем текстуру в opengl](https://habr.com/ru/articles/971834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971834)
 - [Применение локальных LLM для OCR](https://habr.com/ru/articles/971842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971842)
-- [Chrome, Xfce и очень страшное кино](https://habr.com/ru/articles/971828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
