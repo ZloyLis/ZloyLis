@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python и паттерны GoF, часть 1: Singleton](https://habr.com/ru/articles/972122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972122)
-- [Мульти-модельная оркестрация LLM: архитектура маршрутизации, которая снизила затраты в 117 раз](https://habr.com/ru/articles/972114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972114)
-- [Днем я пишу код, вечером иду в гараж и продаю на Авито на 130 тысяч в месяц](https://habr.com/ru/articles/972020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972020)
-- [Данные против модели: почему больше — не всегда значит лучше в задаче Face Antispoofing](https://habr.com/ru/companies/tevian/articles/972064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972064)
-- [Теневые ИТ в энтерпрайзе: почему они случаются, как с ними бороться и как в дальнейшем их не допускать](https://habr.com/ru/companies/rshb/articles/972110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972110)
+- [«Король глядит угрюмо…» — а я считаю звуки. Цифровое сравнение Стивенсона и Маршака](https://habr.com/ru/articles/972154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972154)
+- [Я вижу знаки. Исследуем д0рожные указатели](https://habr.com/ru/articles/971008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971008)
+- [Хватит моделировать «на глаз»](https://habr.com/ru/articles/971990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971990)
+- [Недельный геймдев: #254 — 30 ноября, 2025](https://habr.com/ru/articles/972144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972144)
+- [Икар бы удивился: из чего сделано и как работает крыло современного лайнера](https://habr.com/ru/articles/972138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
