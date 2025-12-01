@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Проактивный риск-ориентированный подход в управлении технологическими процессами](https://habr.com/ru/articles/971880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971880)
-- [Световая иллюзия или реальность: российские ученые прояснили вековой парадокс об излучении ускоренного заряда](https://habr.com/ru/articles/968984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968984)
-- [Ущерб от бездумного внедрения ИБ в АСУ ТП: когда «защита» становится угрозой](https://habr.com/ru/articles/971788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971788)
-- [Народный гнев против Долиной, а также взлет акций Google](https://habr.com/ru/articles/971764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971764)
-- [ИБ для конторы разработчиков ПО](https://habr.com/ru/articles/971874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971874)
+- [[Перевод] SELinux: интеграция с Zabbix и другими инструментами](https://habr.com/ru/articles/970716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970716)
+- [Честного не наймут в IT](https://habr.com/ru/articles/971894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971894)
+- [[Перевод] Мы — последнее поколение умных? И может ли ИИ заменить целые профессии?](https://habr.com/ru/companies/bothub/articles/971890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971890)
+- [Новый режим отладки в Яндекс Тег Менеджере](https://habr.com/ru/articles/971596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971596)
+- [Анализ вариантов оптимизации ресурсоёмкого SQL-запроса: Вариант-3 «Частичная агрегация»](https://habr.com/ru/articles/971882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971882)
 <!-- BLOG-POST-LIST:END -->
 
 ---
