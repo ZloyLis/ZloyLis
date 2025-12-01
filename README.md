@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как прокачать проект на Java при помощи Rust](https://habr.com/ru/companies/piter/articles/972092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972092)
-- [Когда вместо двух мониторов — два ноутбука](https://habr.com/ru/articles/972086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972086)
-- [4 приоритетные функции, которых не хватает генераторам видео](https://habr.com/ru/articles/972068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972068)
-- [[Перевод] Как менеджеры становятся причиной ИТ-катастроф](https://habr.com/ru/companies/ruvds/articles/970836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970836)
-- [Как свергнуть короля: формула для линейной альтернативы Трансформеру без побочных эффектов](https://habr.com/ru/companies/vk/articles/971668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971668)
+- [Python и паттерны GoF, часть 1: Singleton](https://habr.com/ru/articles/972122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972122)
+- [Мульти-модельная оркестрация LLM: архитектура маршрутизации, которая снизила затраты в 117 раз](https://habr.com/ru/articles/972114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972114)
+- [Днем я пишу код, вечером иду в гараж и продаю на Авито на 130 тысяч в месяц](https://habr.com/ru/articles/972020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972020)
+- [Данные против модели: почему больше — не всегда значит лучше в задаче Face Antispoofing](https://habr.com/ru/companies/tevian/articles/972064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972064)
+- [Теневые ИТ в энтерпрайзе: почему они случаются, как с ними бороться и как в дальнейшем их не допускать](https://habr.com/ru/companies/rshb/articles/972110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
