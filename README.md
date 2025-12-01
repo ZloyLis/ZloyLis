@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как прокачать проект на Java при помощи Rust](https://habr.com/ru/companies/piter/articles/972092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972092)
+- [Когда вместо двух мониторов — два ноутбука](https://habr.com/ru/articles/972086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972086)
+- [4 приоритетные функции, которых не хватает генераторам видео](https://habr.com/ru/articles/972068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972068)
+- [[Перевод] Как менеджеры становятся причиной ИТ-катастроф](https://habr.com/ru/companies/ruvds/articles/970836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970836)
 - [Как свергнуть короля: формула для линейной альтернативы Трансформеру без побочных эффектов](https://habr.com/ru/companies/vk/articles/971668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971668)
-- [Как вернуть молодежи интерес к инженерным специальностям?](https://habr.com/ru/articles/972062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972062)
-- [SQL HowTo: немного математики &lpar;Advent of Code 2025, Day 1: Secret Entrance&rpar;](https://habr.com/ru/companies/tensor/articles/972046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972046)
-- [[Перевод] Кто и зачем будет покупать мощные чипы для спутников? Интервью главы компании Athero](https://habr.com/ru/articles/972044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972044)
-- [Джедайские техники мотивации: как ментору сохранять силу команды](https://habr.com/ru/companies/kts/articles/972018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
