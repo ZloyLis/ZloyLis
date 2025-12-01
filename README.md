@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Без айди, свайпа и джунов. Как писать про ИТ в условиях «Запрета на иностранные слова» и не попасть на штраф до 500 000](https://habr.com/ru/articles/972030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972030)
-- [Ноябрьский Flutter-дайджест](https://habr.com/ru/articles/972026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972026)
-- [11 граблей распределенных систем: личный опыт backend-разработчика с практическими советами](https://habr.com/ru/companies/cloud_ru/articles/969744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969744)
-- [Обзор ChatMCP: командный центр для управления AI-моделями в BotHub](https://habr.com/ru/companies/bothub/articles/971516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971516)
-- [Бытовой UX или зачем в стиралке иллюминатор](https://habr.com/ru/companies/selectel/articles/971956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971956)
+- [Как свергнуть короля: формула для линейной альтернативы Трансформеру без побочных эффектов](https://habr.com/ru/companies/vk/articles/971668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971668)
+- [Как вернуть молодежи интерес к инженерным специальностям?](https://habr.com/ru/articles/972062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972062)
+- [SQL HowTo: немного математики &lpar;Advent of Code 2025, Day 1: Secret Entrance&rpar;](https://habr.com/ru/companies/tensor/articles/972046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972046)
+- [[Перевод] Кто и зачем будет покупать мощные чипы для спутников? Интервью главы компании Athero](https://habr.com/ru/articles/972044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972044)
+- [Джедайские техники мотивации: как ментору сохранять силу команды](https://habr.com/ru/companies/kts/articles/972018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
