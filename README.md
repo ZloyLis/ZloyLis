@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Product vs Project: от войны к синергии. Всему свое время](https://habr.com/ru/articles/971384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971384)
-- [Что понимается под управлением процессом и процессом управления](https://habr.com/ru/articles/971934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971934)
-- [Проект как промпт, или как начать любить вайб-кодинг, не превращая его в источник хаоса?](https://habr.com/ru/articles/971932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971932)
-- [Исследуем лояльность с точки зрения психологии: что если бы бренд и клиенты были парой?](https://habr.com/ru/companies/rgs_it/articles/971336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971336)
-- [ИИ-агенты простым языком: разбираем на примере Deep Research](https://habr.com/ru/companies/bitrix/articles/971930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971930)
+- [История одного SCA: как мы сделали анализ доступным для всех](https://habr.com/ru/companies/inferit/articles/968618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968618)
+- [Функциональный и процессный подход к управлению – это альтернативы или тождества?](https://habr.com/ru/articles/971960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971960)
+- [Proxyman + HAR = mock-данные для iOS-тестов](https://habr.com/ru/companies/naumen/articles/953168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953168)
+- [Как я выбираю LLM &lpar;large language model&rpar; для своих задач?](https://habr.com/ru/companies/otus/articles/967958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967958)
+- [«Конечно, вот ответ на ваш вопрос. Но сначала — реклама»](https://habr.com/ru/companies/timeweb/articles/971852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
