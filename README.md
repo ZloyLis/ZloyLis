@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шпион в твоем кармане](https://habr.com/ru/companies/angarasecurity/articles/972198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972198)
+- [[Перевод] 2000 лет назад греки создали первую вычислительную машину](https://habr.com/ru/articles/972194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972194)
+- [[Перевод] Идеально размещённые тултипы: по углам](https://habr.com/ru/articles/972190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972190)
 - [Нейросеть для решения задач по фото онлайн — полный обзор ИИ Кэмп 2025](https://habr.com/ru/companies/kemp_ai/articles/972182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972182)
 - [1С использует КАЖДЫЙ ВТОРОЙ бизнес в России. Почему на рынке нет альтернатив?](https://habr.com/ru/companies/femida_search/articles/972176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972176)
-- [Отправляем Elasticsearch в отпуск: полнотекстовый поиск на одном PostgreSQL](https://habr.com/ru/companies/otus/articles/970854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970854)
-- [MASQUE VPN: как QUIC и RFC 9484 делают туннели более живыми &lpar;и почему OpenVPN/WireGuard иногда не справляются&rpar;](https://habr.com/ru/articles/972172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972172)
-- [«Король глядит угрюмо…» — а я считаю звуки. Цифровое сравнение Стивенсона и Маршака](https://habr.com/ru/articles/972154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
