@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] SELinux: интеграция с Zabbix и другими инструментами](https://habr.com/ru/articles/970716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970716)
-- [Честного не наймут в IT](https://habr.com/ru/articles/971894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971894)
-- [[Перевод] Мы — последнее поколение умных? И может ли ИИ заменить целые профессии?](https://habr.com/ru/companies/bothub/articles/971890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971890)
-- [Новый режим отладки в Яндекс Тег Менеджере](https://habr.com/ru/articles/971596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971596)
-- [Анализ вариантов оптимизации ресурсоёмкого SQL-запроса: Вариант-3 «Частичная агрегация»](https://habr.com/ru/articles/971882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971882)
+- [Бас-фактор глазами водителя автобуса](https://habr.com/ru/articles/971906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971906)
+- [Как развивать технологии без когнитивной перегрузки](https://habr.com/ru/companies/beget/articles/971376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971376)
+- [Нужно ли аналитику данных машинное обучение — и как его освоить](https://habr.com/ru/companies/yandex_praktikum/articles/966660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966660)
+- [Шпаргалка: Kotlin Coroutine диспетчеры и потоки: где выполняются корутины?](https://habr.com/ru/articles/971126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971126)
+- [6 простых вопросов, из-за которых сыпятся даже сильные кандидаты &lpar;и как отвечать правильно&rpar;](https://habr.com/ru/articles/966258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
