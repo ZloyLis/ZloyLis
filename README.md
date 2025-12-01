@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [История одного SCA: как мы сделали анализ доступным для всех](https://habr.com/ru/companies/inferit/articles/968618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968618)
-- [Функциональный и процессный подход к управлению – это альтернативы или тождества?](https://habr.com/ru/articles/971960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971960)
-- [Proxyman + HAR = mock-данные для iOS-тестов](https://habr.com/ru/companies/naumen/articles/953168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953168)
-- [Как я выбираю LLM &lpar;large language model&rpar; для своих задач?](https://habr.com/ru/companies/otus/articles/967958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967958)
-- [«Конечно, вот ответ на ваш вопрос. Но сначала — реклама»](https://habr.com/ru/companies/timeweb/articles/971852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971852)
+- [«Элементарно, Компот!»: разбираем задания киберучений CyberCamp 2025](https://habr.com/ru/companies/jetinfosystems/articles/971998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971998)
+- [Хардверный QA: как тестируют железо в радиочастотном центре и прямо на конвейере](https://habr.com/ru/companies/yadro/articles/971938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971938)
+- [Основы AGSL для android разработчика](https://habr.com/ru/articles/971992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971992)
+- [Выгорание сотрудников поддержки: из-за чего возникает и как с ним бороться](https://habr.com/ru/companies/directum/articles/971986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971986)
+- [Baseline: ноябрь 2025](https://habr.com/ru/articles/970540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
