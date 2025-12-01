@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Выгорания к Жизни. Как навести порядок в расписании и успевать больше](https://habr.com/ru/companies/otus/articles/951890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951890)
+- [Реализация уникального шифра для поиска дублей и внедрение автоматизированных метрик качества в АСУ НСИ](https://habr.com/ru/companies/nornickel/articles/972214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972214)
+- [Как нейросети помогают ускорить создание плана проекта](https://habr.com/ru/companies/nornickel/articles/972210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972210)
 - [Шпион в твоем кармане](https://habr.com/ru/companies/angarasecurity/articles/972198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972198)
 - [[Перевод] 2000 лет назад греки создали первую вычислительную машину](https://habr.com/ru/articles/972194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972194)
-- [[Перевод] Идеально размещённые тултипы: по углам](https://habr.com/ru/articles/972190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972190)
-- [Нейросеть для решения задач по фото онлайн — полный обзор ИИ Кэмп 2025](https://habr.com/ru/companies/kemp_ai/articles/972182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972182)
-- [1С использует КАЖДЫЙ ВТОРОЙ бизнес в России. Почему на рынке нет альтернатив?](https://habr.com/ru/companies/femida_search/articles/972176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
