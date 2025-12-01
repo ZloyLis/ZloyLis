@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бас-фактор глазами водителя автобуса](https://habr.com/ru/articles/971906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971906)
-- [Как развивать технологии без когнитивной перегрузки](https://habr.com/ru/companies/beget/articles/971376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971376)
-- [Нужно ли аналитику данных машинное обучение — и как его освоить](https://habr.com/ru/companies/yandex_praktikum/articles/966660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966660)
-- [Шпаргалка: Kotlin Coroutine диспетчеры и потоки: где выполняются корутины?](https://habr.com/ru/articles/971126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971126)
-- [6 простых вопросов, из-за которых сыпятся даже сильные кандидаты &lpar;и как отвечать правильно&rpar;](https://habr.com/ru/articles/966258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966258)
+- [Product vs Project: от войны к синергии. Всему свое время](https://habr.com/ru/articles/971384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971384)
+- [Что понимается под управлением процессом и процессом управления](https://habr.com/ru/articles/971934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971934)
+- [Проект как промпт, или как начать любить вайб-кодинг, не превращая его в источник хаоса?](https://habr.com/ru/articles/971932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971932)
+- [Исследуем лояльность с точки зрения психологии: что если бы бренд и клиенты были парой?](https://habr.com/ru/companies/rgs_it/articles/971336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971336)
+- [ИИ-агенты простым языком: разбираем на примере Deep Research](https://habr.com/ru/companies/bitrix/articles/971930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
