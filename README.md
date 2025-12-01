@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Элементарно, Компот!»: разбираем задания киберучений CyberCamp 2025](https://habr.com/ru/companies/jetinfosystems/articles/971998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971998)
-- [Хардверный QA: как тестируют железо в радиочастотном центре и прямо на конвейере](https://habr.com/ru/companies/yadro/articles/971938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971938)
-- [Основы AGSL для android разработчика](https://habr.com/ru/articles/971992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971992)
-- [Выгорание сотрудников поддержки: из-за чего возникает и как с ним бороться](https://habr.com/ru/companies/directum/articles/971986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971986)
-- [Baseline: ноябрь 2025](https://habr.com/ru/articles/970540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970540)
+- [Без айди, свайпа и джунов. Как писать про ИТ в условиях «Запрета на иностранные слова» и не попасть на штраф до 500 000](https://habr.com/ru/articles/972030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972030)
+- [Ноябрьский Flutter-дайджест](https://habr.com/ru/articles/972026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972026)
+- [11 граблей распределенных систем: личный опыт backend-разработчика с практическими советами](https://habr.com/ru/companies/cloud_ru/articles/969744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969744)
+- [Обзор ChatMCP: командный центр для управления AI-моделями в BotHub](https://habr.com/ru/companies/bothub/articles/971516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971516)
+- [Бытовой UX или зачем в стиралке иллюминатор](https://habr.com/ru/companies/selectel/articles/971956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
