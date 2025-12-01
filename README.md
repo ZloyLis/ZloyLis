@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Принципы ответственной ИИ-ассистированной разработки ПО](https://habr.com/ru/articles/971868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971868)
+- [Сравнительный анализ 18 LLM моделей: конец монополии?](https://habr.com/ru/articles/971864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971864)
 - [Запекаем текстуру в opengl](https://habr.com/ru/articles/971834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971834)
 - [Применение локальных LLM для OCR](https://habr.com/ru/articles/971842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971842)
 - [Chrome, Xfce и очень страшное кино](https://habr.com/ru/articles/971828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971828)
-- [Зачем вашему процессору нейронный блок, если есть RTX 4090?](https://habr.com/ru/articles/971820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971820)
-- [«Логикомикс»: драма логики, математики и философии](https://habr.com/ru/articles/971816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
