@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проактивный риск-ориентированный подход в управлении технологическими процессами](https://habr.com/ru/articles/971880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971880)
+- [Световая иллюзия или реальность: российские ученые прояснили вековой парадокс об излучении ускоренного заряда](https://habr.com/ru/articles/968984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968984)
+- [Ущерб от бездумного внедрения ИБ в АСУ ТП: когда «защита» становится угрозой](https://habr.com/ru/articles/971788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971788)
+- [Народный гнев против Долиной, а также взлет акций Google](https://habr.com/ru/articles/971764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971764)
 - [ИБ для конторы разработчиков ПО](https://habr.com/ru/articles/971874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971874)
-- [Принципы ответственной ИИ-ассистированной разработки ПО](https://habr.com/ru/articles/971868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971868)
-- [Сравнительный анализ 18 LLM моделей: конец монополии?](https://habr.com/ru/articles/971864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971864)
-- [Запекаем текстуру в opengl](https://habr.com/ru/articles/971834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971834)
-- [Применение локальных LLM для OCR](https://habr.com/ru/articles/971842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
