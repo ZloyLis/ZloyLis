@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Observability &amp;amp; AI Agent Tracing: большой гайд с обзором подходов и open-source решений](https://habr.com/ru/articles/972480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972480)
-- [Критерии выбора CRM](https://habr.com/ru/companies/bpmsoft/articles/972478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972478)
-- [Не просто «пилил фичи»: как рассказать о проекте, чтобы получить +1 к грейду](https://habr.com/ru/companies/otus/articles/971914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971914)
-- [Барьеры, которые рухнули: как искусство училось быть доступным для всех — истории, факты, кейсы](https://habr.com/ru/articles/972464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972464)
-- [Отражающий Kerberos](https://habr.com/ru/articles/972460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972460)
+- [От личной мечты до инструмента всей компании: как я строила сервис фасилитации в КОРУСе &lpar;и что об этом думают команды&rpar;](https://habr.com/ru/companies/korus_consulting/articles/972506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972506)
+- [Просто добавь задач! 10 готовых канбан-шаблонов — чем полезны и как с ними работать](https://habr.com/ru/companies/kaiten/articles/972466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972466)
+- [Эволюция Гофера: как нелепый грызун стал иконой Go](https://habr.com/ru/companies/lamoda/articles/966768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966768)
+- [Как развиваться в IT и расти в скиллах](https://habr.com/ru/companies/habr_career/articles/972498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972498)
+- [Как сжимать языковые модели без дообучения](https://habr.com/ru/companies/ru_mts/articles/972368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972368)
 <!-- BLOG-POST-LIST:END -->
 
 ---
