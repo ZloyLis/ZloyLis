@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Марсианские страсти: DOS, любовь и С++](https://habr.com/ru/articles/972622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972622)
+- [[Перевод] 10 лучших open source инструментов Observability 2025](https://habr.com/ru/companies/otus/articles/971082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971082)
 - [Гайдлайн по кофе: почему до 10 утра — бесполезно, и как по науке выжать из кофеина 100%. Личный эксперимент](https://habr.com/ru/articles/972624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972624)
 - [Мониторинг в Linux на уровне ядра. Краткое практическое введение в eBPF+Cilium](https://habr.com/ru/articles/972602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972602)
 - [FlashcardsLoop — или как я делал свой Quizlet](https://habr.com/ru/articles/972616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972616)
-- [Почему статьи о самостоятельном изучении английского языка почти всегда пишут авторы, которые сами его не выучили?](https://habr.com/ru/articles/972614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972614)
-- [Наблюдательность: как игра в мафию учит предпринимателя видеть то, что другие пропускают](https://habr.com/ru/articles/972606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
