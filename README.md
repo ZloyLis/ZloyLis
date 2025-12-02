@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Блэка-Шоулза до трансформеров: как устроена современная алгоритмическая торговля](https://habr.com/ru/articles/972036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972036)
+- [Vera — ваш личный десктопный агент](https://habr.com/ru/articles/972260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972260)
 - [[Перевод] Птичий грипп и ген жароустойчивости. Чем опасен птичий грипп?](https://habr.com/ru/articles/972238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972238)
 - [Обратная эксплуатация как новое социальное явление в трудовых отношениях](https://habr.com/ru/articles/972236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972236)
 - [Мифы и реальность: есть ли основание противопоставлять Agile и Waterfall?](https://habr.com/ru/articles/972230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972230)
-- [От выгорания к жизни. Как навести порядок в расписании и успевать больше](https://habr.com/ru/companies/otus/articles/951890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=951890)
-- [Реализация уникального шифра для поиска дублей и внедрение автоматизированных метрик качества в АСУ НСИ](https://habr.com/ru/companies/nornickel/articles/972214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
