@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Защита от ложных срабатываний триггеров в Zabbix с использованием функций min/max/avg](https://habr.com/ru/articles/970714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970714)
-- [Российские LLM в 2025: обзор GigaChat и Alice AI, их место на мировой арене](https://habr.com/ru/companies/bothub/articles/972292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972292)
-- [Считаем денежки в ИИ, ML и LLM-проектах до копеечки](https://habr.com/ru/companies/alfa/articles/970596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970596)
-- [Прогноз vs Реальность: прогноз нейросети «Временная таблица vs CTE в многопользовательской среде PostgreSQL»](https://habr.com/ru/articles/972286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972286)
-- [Как мы строили хранилище на 70 ПБ данных и не планируем останавливаться](https://habr.com/ru/companies/sberbank/articles/972078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972078)
+- [PowerShell: как я написал инструмент, который сэкономил мне кучу времени](https://habr.com/ru/companies/gazprombank/articles/969800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969800)
+- [Граничные вычисления простыми словами: почему IoT больше не хочет бегать в облако](https://habr.com/ru/companies/beget/articles/971386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971386)
+- [Автоматизация BIM-проверок без участия пользователя: как работают «умные фермы» в BIM Inspector](https://habr.com/ru/companies/pik_digital/articles/972302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972302)
+- [ESPVMON — проект открытого универсального ваттметра/логгера](https://habr.com/ru/companies/ruvds/articles/969738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969738)
+- [Питон перед Рождеством. Как я осваивал этот язык программирования](https://habr.com/ru/companies/lanit/articles/969590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
