@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему без брокера пакетов NTA/NDR не видит все угрозы в сети](https://habr.com/ru/companies/dsol/articles/972516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972516)
-- [Как создать решение в области контейнерной безопасности: подводные камни, проблемы и их решение](https://habr.com/ru/companies/ctsg/articles/972514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972514)
-- [От личной мечты до инструмента всей компании: как я строила сервис фасилитации в КОРУСе &lpar;и что об этом думают команды&rpar;](https://habr.com/ru/companies/korus_consulting/articles/972506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972506)
-- [Просто добавь задач! 10 готовых канбан-шаблонов — чем полезны и как с ними работать](https://habr.com/ru/companies/kaiten/articles/972466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972466)
-- [Эволюция Гофера: как нелепый грызун стал иконой Go](https://habr.com/ru/companies/lamoda/articles/966768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966768)
+- [Сколько спит тимлид?](https://habr.com/ru/companies/avito/articles/972338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972338)
+- [Команда разработчиков больше не нужна? Как AI делает возможным создание продукта одним человеком](https://habr.com/ru/articles/972534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972534)
+- [[Перевод] Можно просто так взять и добавить поддержку проверки на Null](https://habr.com/ru/companies/spring_aio/articles/971390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971390)
+- [IPsec, GRE, BGP и немного автоматизации для высокой доступности вашей сети](https://habr.com/ru/companies/vktech/articles/972496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972496)
+- [Опрос 100 тысяч абонентов или почему люди недовольны своими провайдерами — результаты 3-летнего исследования](https://habr.com/ru/articles/972318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
