@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разрабатываю MCP интеграции к платформе AI агентов — ключевые моменты](https://habr.com/ru/articles/972404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972404)
-- [Почему все ноутбуки стали одинаковыми, или Как MacBook повлиял на дизайн лэптопов](https://habr.com/ru/companies/x-com/articles/972400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972400)
-- [Контроль импеданса](https://habr.com/ru/companies/electroconnect/articles/972398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972398)
-- [Интеграция WDA Sensor для HomeAssistant: для чего она нужна и как ей пользоваться](https://habr.com/ru/articles/972396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972396)
-- [[Перевод] Хвост, направленный к солнцу! Что на самом деле скрывает межзвездный гость 3I/ATLAS?](https://habr.com/ru/companies/bothub/articles/972394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972394)
+- [GPT 5.1 учится эмпатии, Opus перестает сжигать лимиты: главные события ноября в ИИ](https://habr.com/ru/companies/magnus-tech/articles/963586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963586)
+- [Региональные дата-центры в России сейчас: на что это вообще похоже, и правда ли, что за МКАДом жизни нет](https://habr.com/ru/companies/ruvds/articles/972332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972332)
+- [Про традиционные проблемы в найме: несогласованность приоритетов](https://habr.com/ru/companies/centicore_group/articles/972106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972106)
+- [От хаоса к структуре: как FEOD помогает упорядочить архитектуру фронтенд-приложений](https://habr.com/ru/companies/sportmaster_lab/articles/972410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972410)
+- [Эксперименты с селф-хостингом и домашние лаборатории: «скандинавский» стиль, миниатюрные и тихие сетапы](https://habr.com/ru/companies/beeline_cloud/articles/972420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
