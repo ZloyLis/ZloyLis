@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математика через игры](https://habr.com/ru/articles/972168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972168)
+- [Как я случайно DDOS-нул hh. ru, пытаясь найти работу: история о том, почему боты должны быть асинхронными &lpar;и вежливыми&rpar;](https://habr.com/ru/articles/972270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972270)
 - [Как модули UWB обеспечивают высокоточное позиционирование внутри помещений](https://habr.com/ru/articles/972266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972266)
 - [Теорема Пифагора: великий обман школьной программы. Как абстракция убила смысл](https://habr.com/ru/articles/972262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972262)
 - [От Блэка-Шоулза до трансформеров: как устроена современная алгоритмическая торговля](https://habr.com/ru/articles/972036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972036)
-- [Vera — ваш личный десктопный агент](https://habr.com/ru/articles/972260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972260)
-- [[Перевод] Птичий грипп и ген жароустойчивости. Чем опасен птичий грипп?](https://habr.com/ru/articles/972238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
