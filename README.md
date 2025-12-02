@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Большинство уязвимостей веб-API не выявляются стандартными тестами](https://habr.com/ru/articles/970114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970114)
-- [Фокусы, хаки, магия и прочее ненормальное программирование на C](https://habr.com/ru/companies/timeweb/articles/967678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967678)
-- [Редчайшие и уникальные находки в играх, которые вы пропустили](https://habr.com/ru/companies/selectel/articles/972298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972298)
-- [После налоговой реформы 2026 бухгалтерия не будет прежней: что на самом деле сказал глава ФНС и что делать бизнесу](https://habr.com/ru/articles/971878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971878)
-- [«Ты не пройдёшь!»: как мы учили нейросеть искать патологии на КТ, обучая её только на норме. Наш опыт на ЛЦТ-2025](https://habr.com/ru/companies/airi/articles/972104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972104)
+- [&lpar;Не&rpar; безопасный дайджест: виртуозная BEC-атака, детсадовский беспредел и криптоферма из воздуха](https://habr.com/ru/companies/searchinform/articles/972364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972364)
+- [Низкая эффективность нейрональных сетей мозга как возможная причина возникновения болезни Альцгеймера](https://habr.com/ru/articles/971870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971870)
+- [Как мы оптимизировали тестирование с помощью API-сервисов](https://habr.com/ru/companies/simbirsoft/articles/972342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972342)
+- [Веб-камера — глаза робота. Пишу веб-приложение на FastApi для управления DIY-проектом. Часть 6](https://habr.com/ru/companies/first/articles/968330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968330)
+- [Корпоративные секреты по 1500 рублей: что мы нашли на списанных жестких дисках с барахолки](https://habr.com/ru/companies/bastion/articles/967914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
