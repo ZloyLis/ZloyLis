@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI: Гайд по нормальной структуре для новичков &lpar;Часть 1. Слой домена&rpar;](https://habr.com/ru/articles/972642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972642)
+- [[Перевод] Биометрическая стиральная машина для человека. Японцы предлагают «ванну будущего»](https://habr.com/ru/articles/972636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972636)
+- [Ванесса — милый ИИ-администратор для музыкального театра](https://habr.com/ru/articles/972634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972634)
 - [Марсианские страсти: DOS, любовь и С++](https://habr.com/ru/articles/972622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972622)
 - [[Перевод] 10 лучших open source инструментов Observability 2025](https://habr.com/ru/companies/otus/articles/971082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971082)
-- [Гайдлайн по кофе: почему до 10 утра — бесполезно, и как по науке выжать из кофеина 100%. Личный эксперимент](https://habr.com/ru/articles/972624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972624)
-- [Мониторинг в Linux на уровне ядра. Краткое практическое введение в eBPF+Cilium](https://habr.com/ru/articles/972602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972602)
-- [FlashcardsLoop — или как я делал свой Quizlet](https://habr.com/ru/articles/972616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
