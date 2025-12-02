@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не мечите бисер перед свиньями. Почему я запрещаю «нищим» писать мне в личку](https://habr.com/ru/articles/972566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972566)
-- [Продолжение статьи: Архитектура торгового Telegram-бота для сигналов пампов и дампов](https://habr.com/ru/articles/972562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972562)
-- [Лидерство в IT компаниях: невостребованная необходимость](https://habr.com/ru/articles/972558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972558)
-- [Наш Linux, и он очень не плох. И даже лучше чем можно представить](https://habr.com/ru/articles/972552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972552)
-- [Геометрическая головоломка на выходные](https://habr.com/ru/articles/972550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972550)
+- [Как мы создали деплой-инструмент для 100+ серверов на Jetpack Compose и GitLab API](https://habr.com/ru/articles/972588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972588)
+- [Вероятностный анализ финансовых рынков на основе чистого OHLCV и многомодульной математической модели](https://habr.com/ru/articles/972584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972584)
+- [«А вдруг не сработает?» Страх перед новыми каналами продвижения убивает ваш бизнес](https://habr.com/ru/articles/972580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972580)
+- [Вы до сих пор не пользуетесь Obsidian? Очень зря](https://habr.com/ru/articles/972574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972574)
+- [Мультисенсорная система для роботов на основе функционально-активных контактных материалов](https://habr.com/ru/articles/972572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
