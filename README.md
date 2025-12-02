@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Copilot Workspace: как я собрал полный цикл разработки вокруг Copilot-агентов](https://habr.com/ru/articles/972648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972648)
+- [Запускаем C++ SQL-движок в браузере: как парсить Excel, CSV и Parquet через WebAssembly &lpar;без сервера&rpar;](https://habr.com/ru/articles/972646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972646)
 - [FastAPI: Гайд по нормальной структуре для новичков &lpar;Часть 1. Слой домена&rpar;](https://habr.com/ru/articles/972642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972642)
 - [[Перевод] Биометрическая стиральная машина для человека. Японцы предлагают «ванну будущего»](https://habr.com/ru/articles/972636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972636)
 - [Ванесса — милый ИИ-администратор для музыкального театра](https://habr.com/ru/articles/972634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972634)
-- [Марсианские страсти: DOS, любовь и С++](https://habr.com/ru/articles/972622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972622)
-- [[Перевод] 10 лучших open source инструментов Observability 2025](https://habr.com/ru/companies/otus/articles/971082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
