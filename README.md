@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell: как я написал инструмент, который сэкономил мне кучу времени](https://habr.com/ru/companies/gazprombank/articles/969800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969800)
-- [Граничные вычисления простыми словами: почему IoT больше не хочет бегать в облако](https://habr.com/ru/companies/beget/articles/971386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971386)
-- [Автоматизация BIM-проверок без участия пользователя: как работают «умные фермы» в BIM Inspector](https://habr.com/ru/companies/pik_digital/articles/972302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972302)
-- [ESPVMON — проект открытого универсального ваттметра/логгера](https://habr.com/ru/companies/ruvds/articles/969738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969738)
-- [Питон перед Рождеством. Как я осваивал этот язык программирования](https://habr.com/ru/companies/lanit/articles/969590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969590)
+- [[Перевод] Большинство уязвимостей веб-API не выявляются стандартными тестами](https://habr.com/ru/articles/970114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970114)
+- [Фокусы, хаки, магия и прочее ненормальное программирование на C](https://habr.com/ru/companies/timeweb/articles/967678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967678)
+- [Редчайшие и уникальные находки в играх, которые вы пропустили](https://habr.com/ru/companies/selectel/articles/972298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972298)
+- [После налоговой реформы 2026 бухгалтерия не будет прежней: что на самом деле сказал глава ФНС и что делать бизнесу](https://habr.com/ru/articles/971878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971878)
+- [«Ты не пройдёшь!»: как мы учили нейросеть искать патологии на КТ, обучая её только на норме. Наш опыт на ЛЦТ-2025](https://habr.com/ru/companies/airi/articles/972104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
