@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Не&rpar; безопасный дайджест: виртуозная BEC-атака, детсадовский беспредел и криптоферма из воздуха](https://habr.com/ru/companies/searchinform/articles/972364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972364)
-- [Низкая эффективность нейрональных сетей мозга как возможная причина возникновения болезни Альцгеймера](https://habr.com/ru/articles/971870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971870)
-- [Как мы оптимизировали тестирование с помощью API-сервисов](https://habr.com/ru/companies/simbirsoft/articles/972342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972342)
-- [Веб-камера — глаза робота. Пишу веб-приложение на FastApi для управления DIY-проектом. Часть 6](https://habr.com/ru/companies/first/articles/968330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968330)
-- [Корпоративные секреты по 1500 рублей: что мы нашли на списанных жестких дисках с барахолки](https://habr.com/ru/companies/bastion/articles/967914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967914)
+- [Разрабатываю MCP интеграции к платформе AI агентов — ключевые моменты](https://habr.com/ru/articles/972404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972404)
+- [Почему все ноутбуки стали одинаковыми, или Как MacBook повлиял на дизайн лэптопов](https://habr.com/ru/companies/x-com/articles/972400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972400)
+- [Контроль импеданса](https://habr.com/ru/companies/electroconnect/articles/972398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972398)
+- [Интеграция WDA Sensor для HomeAssistant: для чего она нужна и как ей пользоваться](https://habr.com/ru/articles/972396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972396)
+- [[Перевод] Хвост, направленный к солнцу! Что на самом деле скрывает межзвездный гость 3I/ATLAS?](https://habr.com/ru/companies/bothub/articles/972394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
