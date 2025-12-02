@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сколько спит тимлид?](https://habr.com/ru/companies/avito/articles/972338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972338)
-- [Команда разработчиков больше не нужна? Как AI делает возможным создание продукта одним человеком](https://habr.com/ru/articles/972534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972534)
-- [[Перевод] Можно просто так взять и добавить поддержку проверки на Null](https://habr.com/ru/companies/spring_aio/articles/971390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971390)
-- [IPsec, GRE, BGP и немного автоматизации для высокой доступности вашей сети](https://habr.com/ru/companies/vktech/articles/972496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972496)
-- [Опрос 100 тысяч абонентов или почему люди недовольны своими провайдерами — результаты 3-летнего исследования](https://habr.com/ru/articles/972318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972318)
+- [Не мечите бисер перед свиньями. Почему я запрещаю «нищим» писать мне в личку](https://habr.com/ru/articles/972566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972566)
+- [Продолжение статьи: Архитектура торгового Telegram-бота для сигналов пампов и дампов](https://habr.com/ru/articles/972562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972562)
+- [Лидерство в IT компаниях: невостребованная необходимость](https://habr.com/ru/articles/972558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972558)
+- [Наш Linux, и он очень не плох. И даже лучше чем можно представить](https://habr.com/ru/articles/972552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972552)
+- [Геометрическая головоломка на выходные](https://habr.com/ru/articles/972550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
