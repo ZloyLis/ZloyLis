@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы создали деплой-инструмент для 100+ серверов на Jetpack Compose и GitLab API](https://habr.com/ru/articles/972588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972588)
-- [Вероятностный анализ финансовых рынков на основе чистого OHLCV и многомодульной математической модели](https://habr.com/ru/articles/972584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972584)
-- [«А вдруг не сработает?» Страх перед новыми каналами продвижения убивает ваш бизнес](https://habr.com/ru/articles/972580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972580)
-- [Вы до сих пор не пользуетесь Obsidian? Очень зря](https://habr.com/ru/articles/972574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972574)
-- [Мультисенсорная система для роботов на основе функционально-активных контактных материалов](https://habr.com/ru/articles/972572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972572)
+- [Гайдлайн по кофе: почему до 10 утра — бесполезно, и как по науке выжать из кофеина 100%. Личный эксперимент](https://habr.com/ru/articles/972624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972624)
+- [Мониторинг в Linux на уровне ядра. Краткое практическое введение в eBPF+Cilium](https://habr.com/ru/articles/972602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972602)
+- [FlashcardsLoop — или как я делал свой Quizlet](https://habr.com/ru/articles/972616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972616)
+- [Почему статьи о самостоятельном изучении английского языка почти всегда пишут авторы, которые сами его не выучили?](https://habr.com/ru/articles/972614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972614)
+- [Наблюдательность: как игра в мафию учит предпринимателя видеть то, что другие пропускают](https://habr.com/ru/articles/972606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972606)
 <!-- BLOG-POST-LIST:END -->
 
 ---
