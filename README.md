@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я внедрил агента в бекенд-прод для решения рутинных задач](https://habr.com/ru/articles/971454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971454)
-- [Быстрое формирование команд под проект, умные коммерческие предложения — и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/972150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972150)
-- [Математика через игры](https://habr.com/ru/articles/972168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972168)
-- [Как я случайно DDOS-нул hh. ru, пытаясь найти работу: история о том, почему боты должны быть асинхронными &lpar;и вежливыми&rpar;](https://habr.com/ru/articles/972270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972270)
-- [Как модули UWB обеспечивают высокоточное позиционирование внутри помещений](https://habr.com/ru/articles/972266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972266)
+- [[Перевод] Защита от ложных срабатываний триггеров в Zabbix с использованием функций min/max/avg](https://habr.com/ru/articles/970714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970714)
+- [Российские LLM в 2025: обзор GigaChat и Alice AI, их место на мировой арене](https://habr.com/ru/companies/bothub/articles/972292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972292)
+- [Считаем денежки в ИИ, ML и LLM-проектах до копеечки](https://habr.com/ru/companies/alfa/articles/970596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970596)
+- [Прогноз vs Реальность: прогноз нейросети «Временная таблица vs CTE в многопользовательской среде PostgreSQL»](https://habr.com/ru/articles/972286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972286)
+- [Как мы строили хранилище на 70 ПБ данных и не планируем останавливаться](https://habr.com/ru/companies/sberbank/articles/972078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
