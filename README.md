@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Введение в атомики. C++](https://habr.com/ru/articles/972856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972856)
-- [Российский ИИ на рабочем месте: заменяем Qwen на GigaChat для Roo Code](https://habr.com/ru/articles/972852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972852)
-- [История о том, как ТехВилл сделал первый в России offline‑first PWA для курьерской доставки](https://habr.com/ru/companies/vkusvill/articles/972846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972846)
-- [Я хотел бы знать это раньше. Очереди в Symfony](https://habr.com/ru/companies/banki/articles/972754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972754)
-- [Самые болезненные ошибки найма](https://habr.com/ru/articles/972830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972830)
+- [Советы от айтишника: как сохранять мотивацию на длинной дистанции](https://habr.com/ru/companies/skbkontur/articles/972406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972406)
+- [Последний романтик](https://habr.com/ru/articles/972644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972644)
+- [Мониторим ESB и анализируем нагрузку через Nginx в Zabbix, когда «из коробки» не работает](https://habr.com/ru/articles/972896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972896)
+- [Как Karpenter помогает управлять динамическими нагрузками в Kubernetes](https://habr.com/ru/companies/selectel/articles/972866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972866)
+- [3D-технологии: новая реальность для пациентов и врачей](https://habr.com/ru/companies/smclinic/articles/972890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
