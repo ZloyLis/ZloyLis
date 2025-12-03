@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного о вовлечённости](https://habr.com/ru/articles/972990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972990)
+- [Дифференциальная приватность в ML](https://habr.com/ru/companies/otus/articles/970382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970382)
+- [Дискретный логарифм на сингулярной эллиптической кривой](https://habr.com/ru/articles/972986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972986)
 - [Принимаем сложные решения с помощью плагина Datacore. А может поиграем в игру внутри Obsidian?](https://habr.com/ru/articles/972984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972984)
 - [От спонтанных ремонтов к проактивному управлению:](https://habr.com/ru/articles/972980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972980)
-- [Парадокс Монти Холла — как ведущий ломает интуицию. Разберем задачу из фильма «21»](https://habr.com/ru/articles/972978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972978)
-- [Кибербезопасность как инвестиция: баланс технологий, автоматизации и бизнес‑логики. Интервью с Алексеем Лукацким](https://habr.com/ru/articles/972968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972968)
-- [Оптимизация работы с 1С в Postgres Pro: новые возможности](https://habr.com/ru/companies/postgrespro/articles/972774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
