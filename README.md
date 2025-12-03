@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] ORM это Вьетнамcкая Война Компьютерных Наук](https://habr.com/ru/companies/spring_aio/articles/972316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972316)
-- [Как айтишнику открыть бизнес на перепродаже железа в 2025 и не словить проблем](https://habr.com/ru/articles/972822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972822)
-- [Секреты под защитой: как мы спрятали ключи приложения с помощью Gradle-плагина](https://habr.com/ru/articles/972820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972820)
-- [От Docker Compose к кластеру: миграция 20+ контейнерного монолита в трехузловой Swarm](https://habr.com/ru/companies/icl_group/articles/972806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972806)
-- [Массово атакуют: подборка громких киберкампаний 2025 года](https://habr.com/ru/companies/pt/articles/972652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972652)
+- [Введение в атомики. C++](https://habr.com/ru/articles/972856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972856)
+- [Российский ИИ на рабочем месте: заменяем Qwen на GigaChat для Roo Code](https://habr.com/ru/articles/972852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972852)
+- [История о том, как ТехВилл сделал первый в России offline‑first PWA для курьерской доставки](https://habr.com/ru/companies/vkusvill/articles/972846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972846)
+- [Я хотел бы знать это раньше. Очереди в Symfony](https://habr.com/ru/companies/banki/articles/972754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972754)
+- [Самые болезненные ошибки найма](https://habr.com/ru/articles/972830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
