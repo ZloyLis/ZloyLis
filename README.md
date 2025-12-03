@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Советы от айтишника: как сохранять мотивацию на длинной дистанции](https://habr.com/ru/companies/skbkontur/articles/972406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972406)
-- [Последний романтик](https://habr.com/ru/articles/972644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972644)
-- [Мониторим ESB и анализируем нагрузку через Nginx в Zabbix, когда «из коробки» не работает](https://habr.com/ru/articles/972896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972896)
-- [Как Karpenter помогает управлять динамическими нагрузками в Kubernetes](https://habr.com/ru/companies/selectel/articles/972866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972866)
-- [3D-технологии: новая реальность для пациентов и врачей](https://habr.com/ru/companies/smclinic/articles/972890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972890)
+- [Навигация на SwiftUI: чего не хватает и как исправить](https://habr.com/ru/companies/cleverpumpkin/articles/972810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972810)
+- [Дроби, проценты, степени, логарифмы](https://habr.com/ru/articles/972918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972918)
+- [Язык и большие данные](https://habr.com/ru/articles/972916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972916)
+- [Кейс Высшей школы экономики: 160 целевых заявок по 3375 рубля на дорогостоящую магистерскую программу](https://habr.com/ru/articles/972910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972910)
+- [Что было бы, если BASIC развивался вместо C и Python](https://habr.com/ru/companies/ruvds/articles/971476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
