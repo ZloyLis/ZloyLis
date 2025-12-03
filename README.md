@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Zabbix – автоматизация управления пользователями &lpar;JIT&rpar;](https://habr.com/ru/articles/970512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970512)
-- [Как в СССР пытались создать каршеринг и доставку еды: что из этого получилось?](https://habr.com/ru/companies/onlinepatent/articles/972690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972690)
-- [Что такое автоперо? История и принцип работы девайса, которым пользовался Байден, и о котором говорил Трамп](https://habr.com/ru/companies/serverspace/articles/972414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972414)
-- [Автоматизируем машинное обучение с помощью ИИ-агентов](https://habr.com/ru/articles/972686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972686)
-- [Как попасть в мир олимпиадного &lpar;спортивного&rpar; программирования? Спорт для ума, который меняет мышление](https://habr.com/ru/articles/972682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972682)
+- [Миссия — вдохновиться и начать выступать на конференциях: как к этому прийти &lpar;и зачем вообще&rpar;](https://habr.com/ru/companies/ru_mts/articles/972004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972004)
+- [Гибкая ECS с кастомными layout-профилями: как я строил ECSS внутри своего игрового движка](https://habr.com/ru/articles/972708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972708)
+- [Единая платформа для проектного офиса: как выбрать под задачи команды](https://habr.com/ru/companies/teamly/articles/972468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972468)
+- [Что происходит после fn main&lpar;&rpar; в Rust?](https://habr.com/ru/companies/beget/articles/972248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972248)
+- [Как мы учим Яндекс Карты предупреждать о манёврах: без использования LLM, но с помощью водителей](https://habr.com/ru/companies/yandex/articles/972126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
