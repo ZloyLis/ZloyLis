@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Управление проектами: дайджест публикаций #46](https://habr.com/ru/articles/972618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972618)
-- [Из университета в Газпромнефть: как политолог нашел себя в топовой корпорации](https://habr.com/ru/articles/972670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972670)
-- [Как документировать GraphQL API: полное руководство для технических писателей](https://habr.com/ru/companies/flant/articles/971198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971198)
-- [Как я учу Kubernetes. Запуск локального Minikube, реальные ошибки и как я их решал](https://habr.com/ru/articles/969404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969404)
-- [Из госслужащего &lpar;ФНС&rpar; в Telegram-блогеры: что я понял за месяц и какие методы продвижения не работают](https://habr.com/ru/articles/972666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972666)
+- [[Перевод] Zabbix – автоматизация управления пользователями &lpar;JIT&rpar;](https://habr.com/ru/articles/970512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970512)
+- [Как в СССР пытались создать каршеринг и доставку еды: что из этого получилось?](https://habr.com/ru/companies/onlinepatent/articles/972690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972690)
+- [Что такое автоперо? История и принцип работы девайса, которым пользовался Байден, и о котором говорил Трамп](https://habr.com/ru/companies/serverspace/articles/972414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972414)
+- [Автоматизируем машинное обучение с помощью ИИ-агентов](https://habr.com/ru/articles/972686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972686)
+- [Как попасть в мир олимпиадного &lpar;спортивного&rpar; программирования? Спорт для ума, который меняет мышление](https://habr.com/ru/articles/972682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
