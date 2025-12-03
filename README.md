@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск свободных уникальных ников в Telegram](https://habr.com/ru/articles/973030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973030)
+- [LLM-клиент с MCP – дорогой и неэффективный подход в разработке](https://habr.com/ru/articles/973026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973026)
+- [Аналитика телеметрии автосимулятора Assetto Corsa](https://habr.com/ru/articles/973024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973024)
 - [Нужно ли брать согласие на обработку ПД, когда клиент записывается по телефону или в мессенджере](https://habr.com/ru/articles/972058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972058)
 - [Джедайские техники Kotlin: inline-функции и reified-типы](https://habr.com/ru/companies/otus/articles/970264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970264)
-- [Главные тренды в рекламе на 2026 год: что будет работать](https://habr.com/ru/articles/973018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973018)
-- [[Перевод] Биохакеры от природы. Как медведи дважды нарушили базовое правило эволюции](https://habr.com/ru/articles/973016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973016)
-- [Что нового в мире атомных часов — смотрим на последние исследования](https://habr.com/ru/companies/vasexperts/articles/972538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
