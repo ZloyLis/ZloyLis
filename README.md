@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не паникуй, ты просто попал в AA+ игрострой](https://habr.com/ru/articles/972926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972926)
+- [Конец лития, триумф AlphaFold и чьи-то тайны на старом HDD](https://habr.com/ru/articles/973000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973000)
+- [Разбирая бэклог. Часть 20.4. Эпилог или игры к которым мы возвращаемся. Commandos: BtCoD, T. Tycoon Deluxe, Test Drive 4](https://habr.com/ru/articles/972996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972996)
+- [ТЗ без сюрпризов: 5 типовых разногласий, которые лучше предусмотреть на берегу](https://habr.com/ru/articles/972992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972992)
 - [Немного о вовлечённости](https://habr.com/ru/articles/972990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972990)
-- [Дифференциальная приватность в ML](https://habr.com/ru/companies/otus/articles/970382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970382)
-- [Дискретный логарифм на сингулярной эллиптической кривой](https://habr.com/ru/articles/972986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972986)
-- [Принимаем сложные решения с помощью плагина Datacore. А может поиграем в игру внутри Obsidian?](https://habr.com/ru/articles/972984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972984)
-- [От спонтанных ремонтов к проактивному управлению:](https://habr.com/ru/articles/972980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
