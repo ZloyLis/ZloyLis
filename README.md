@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Memory Leak] Почему я туплю после обеда: дефрагментация мозга для сеньора](https://habr.com/ru/articles/972958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972958)
-- [Nano Banana 2 vs ChatGPT: сравниваем эволюцию в генерации AI изображений за полгода](https://habr.com/ru/articles/972956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972956)
-- [Переделка UPS на  LiFePO4, или мой бег по граблям](https://habr.com/ru/articles/972952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972952)
-- [[Перевод] Почему для образования жизни на планете ей недостаточно просто находиться на «правильном расстоянии» от звезды](https://habr.com/ru/articles/972948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972948)
-- [Когда ошибка становится наставником: почему баги прошлого нередко полезнее любого чек-листа](https://habr.com/ru/articles/972944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972944)
+- [Принимаем сложные решения с помощью плагина Datacore. А может поиграем в игру внутри Obsidian?](https://habr.com/ru/articles/972984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972984)
+- [От спонтанных ремонтов к проактивному управлению:](https://habr.com/ru/articles/972980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972980)
+- [Парадокс Монти Холла — как ведущий ломает интуицию. Разберем задачу из фильма «21»](https://habr.com/ru/articles/972978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972978)
+- [Кибербезопасность как инвестиция: баланс технологий, автоматизации и бизнес‑логики. Интервью с Алексеем Лукацким](https://habr.com/ru/articles/972968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972968)
+- [Оптимизация работы с 1С в Postgres Pro: новые возможности](https://habr.com/ru/companies/postgrespro/articles/972774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
