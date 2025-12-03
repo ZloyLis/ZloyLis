@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Развернем n8n и postgres под проекты на серваке, подключим свой домен и настроим бекапы в s3](https://habr.com/ru/articles/972752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972752)
-- [Регулярные выражения в Python: почему ваши парсеры тормозят и как это исправить](https://habr.com/ru/articles/972746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972746)
-- [Укрощаем зоопарк API: универсальный Python-клиент для GigaChat, YandexGPT и локальных моделей &lpar;v0.5.0&rpar;](https://habr.com/ru/articles/972740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972740)
-- [[Перевод] 7 ошибок внедрения DevOps](https://habr.com/ru/companies/otus/articles/969892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969892)
-- [Дайджест новостей из мира биологии за прошедшую неделю](https://habr.com/ru/articles/972654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972654)
+- [Вышла новая версия российской операционной системы «МСВСфера» 9.7](https://habr.com/ru/companies/inferit/articles/972750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972750)
+- [Static site generation &lpar;ssg&rpar; для ускорения сайта в 2-20 раз или важность кеширования](https://habr.com/ru/articles/972780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972780)
+- [InfoFlood: как информационная перегрузка превращается в универсальный джейлбрейк для LLM](https://habr.com/ru/articles/972778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972778)
+- [Эскейв: бесконечность дорог](https://habr.com/ru/articles/972770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972770)
+- [Собираем Linux, который весит меньше, чем мем с котиком, ну или почти…](https://habr.com/ru/companies/ruvds/articles/963400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
