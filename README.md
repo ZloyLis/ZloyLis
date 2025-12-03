@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Миссия — вдохновиться и начать выступать на конференциях: как к этому прийти &lpar;и зачем вообще&rpar;](https://habr.com/ru/companies/ru_mts/articles/972004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972004)
-- [Гибкая ECS с кастомными layout-профилями: как я строил ECSS внутри своего игрового движка](https://habr.com/ru/articles/972708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972708)
-- [Единая платформа для проектного офиса: как выбрать под задачи команды](https://habr.com/ru/companies/teamly/articles/972468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972468)
-- [Что происходит после fn main&lpar;&rpar; в Rust?](https://habr.com/ru/companies/beget/articles/972248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972248)
-- [Как мы учим Яндекс Карты предупреждать о манёврах: без использования LLM, но с помощью водителей](https://habr.com/ru/companies/yandex/articles/972126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972126)
+- [Развернем n8n и postgres под проекты на серваке, подключим свой домен и настроим бекапы в s3](https://habr.com/ru/articles/972752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972752)
+- [Регулярные выражения в Python: почему ваши парсеры тормозят и как это исправить](https://habr.com/ru/articles/972746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972746)
+- [Укрощаем зоопарк API: универсальный Python-клиент для GigaChat, YandexGPT и локальных моделей &lpar;v0.5.0&rpar;](https://habr.com/ru/articles/972740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972740)
+- [[Перевод] 7 ошибок внедрения DevOps](https://habr.com/ru/companies/otus/articles/969892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969892)
+- [Дайджест новостей из мира биологии за прошедшую неделю](https://habr.com/ru/articles/972654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
