@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаю своего ИИ-помощника для экосистемы HalNet](https://habr.com/ru/articles/973006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973006)
+- [USB Power Box – устройство управления 4-канальным модулем реле с помощью USB GPIO Extender из Роутер ОС Микротик](https://habr.com/ru/articles/972212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972212)
 - [Не паникуй, ты просто попал в AA+ игрострой](https://habr.com/ru/articles/972926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972926)
 - [Конец лития, триумф AlphaFold и чьи-то тайны на старом HDD](https://habr.com/ru/articles/973000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973000)
 - [Разбирая бэклог. Часть 20.4. Эпилог или игры к которым мы возвращаемся. Commandos: BtCoD, T. Tycoon Deluxe, Test Drive 4](https://habr.com/ru/articles/972996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972996)
-- [ТЗ без сюрпризов: 5 типовых разногласий, которые лучше предусмотреть на берегу](https://habr.com/ru/articles/972992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972992)
-- [Немного о вовлечённости](https://habr.com/ru/articles/972990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
