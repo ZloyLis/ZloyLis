@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Навигация на SwiftUI: чего не хватает и как исправить](https://habr.com/ru/companies/cleverpumpkin/articles/972810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972810)
-- [Дроби, проценты, степени, логарифмы](https://habr.com/ru/articles/972918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972918)
-- [Язык и большие данные](https://habr.com/ru/articles/972916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972916)
-- [Кейс Высшей школы экономики: 160 целевых заявок по 3375 рубля на дорогостоящую магистерскую программу](https://habr.com/ru/articles/972910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972910)
-- [Что было бы, если BASIC развивался вместо C и Python](https://habr.com/ru/companies/ruvds/articles/971476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971476)
+- [Миллениал и вайб-кодинг: как я делаю ИИ-анализатор новостей по инструкциям ChatGPT &lpar;Часть 3&rpar; + демо](https://habr.com/ru/articles/972934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972934)
+- [context-async-sqlalchemy — лучший способ использовать sqlalchemy в async python приложении](https://habr.com/ru/articles/972932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972932)
+- [Базовый минимум знаний по СДВГ](https://habr.com/ru/articles/972152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972152)
+- [Браузер на конец 2025-го: когда в каждом сидит ИИ, а выбирать всё равно не из чего](https://habr.com/ru/articles/972924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972924)
+- [С ИИ против RLS](https://habr.com/ru/companies/T1Holding/articles/971888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
