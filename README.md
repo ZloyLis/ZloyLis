@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Миллениал и вайб-кодинг: как я делаю ИИ-анализатор новостей по инструкциям ChatGPT &lpar;Часть 3&rpar; + демо](https://habr.com/ru/articles/972934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972934)
-- [context-async-sqlalchemy — лучший способ использовать sqlalchemy в async python приложении](https://habr.com/ru/articles/972932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972932)
-- [Базовый минимум знаний по СДВГ](https://habr.com/ru/articles/972152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972152)
-- [Браузер на конец 2025-го: когда в каждом сидит ИИ, а выбирать всё равно не из чего](https://habr.com/ru/articles/972924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972924)
-- [С ИИ против RLS](https://habr.com/ru/companies/T1Holding/articles/971888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971888)
+- [[Memory Leak] Почему я туплю после обеда: дефрагментация мозга для сеньора](https://habr.com/ru/articles/972958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972958)
+- [Nano Banana 2 vs ChatGPT: сравниваем эволюцию в генерации AI изображений за полгода](https://habr.com/ru/articles/972956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972956)
+- [Переделка UPS на  LiFePO4, или мой бег по граблям](https://habr.com/ru/articles/972952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972952)
+- [[Перевод] Почему для образования жизни на планете ей недостаточно просто находиться на «правильном расстоянии» от звезды](https://habr.com/ru/articles/972948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972948)
+- [Когда ошибка становится наставником: почему баги прошлого нередко полезнее любого чек-листа](https://habr.com/ru/articles/972944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
