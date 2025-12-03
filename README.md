@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские ученые разгадали секрет стабильных полетов у поверхности Марса](https://habr.com/ru/articles/969014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969014)
 - [45 дней вместо 90: новые правила Let&#39;s Encrypt](https://habr.com/ru/articles/972650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972650)
 - [Laravel Copilot Workspace: как я собрал полный цикл разработки вокруг Copilot-агентов](https://habr.com/ru/articles/972648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972648)
 - [Запускаем C++ SQL-движок в браузере: как парсить Excel, CSV и Parquet через WebAssembly &lpar;без сервера&rpar;](https://habr.com/ru/articles/972646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972646)
 - [FastAPI: Гайд по нормальной структуре для новичков &lpar;Часть 1. Слой домена&rpar;](https://habr.com/ru/articles/972642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972642)
-- [[Перевод] Биометрическая стиральная машина для человека. Японцы предлагают «ванну будущего»](https://habr.com/ru/articles/972636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
