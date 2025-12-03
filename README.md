@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла новая версия российской операционной системы «МСВСфера» 9.7](https://habr.com/ru/companies/inferit/articles/972750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972750)
-- [Static site generation &lpar;ssg&rpar; для ускорения сайта в 2-20 раз или важность кеширования](https://habr.com/ru/articles/972780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972780)
-- [InfoFlood: как информационная перегрузка превращается в универсальный джейлбрейк для LLM](https://habr.com/ru/articles/972778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972778)
-- [Эскейв: бесконечность дорог](https://habr.com/ru/articles/972770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972770)
-- [Собираем Linux, который весит меньше, чем мем с котиком, ну или почти…](https://habr.com/ru/companies/ruvds/articles/963400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963400)
+- [[Перевод] ORM это Вьетнамcкая Война Компьютерных Наук](https://habr.com/ru/companies/spring_aio/articles/972316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972316)
+- [Как айтишнику открыть бизнес на перепродаже железа в 2025 и не словить проблем](https://habr.com/ru/articles/972822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972822)
+- [Секреты под защитой: как мы спрятали ключи приложения с помощью Gradle-плагина](https://habr.com/ru/articles/972820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972820)
+- [От Docker Compose к кластеру: миграция 20+ контейнерного монолита в трехузловой Swarm](https://habr.com/ru/companies/icl_group/articles/972806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972806)
+- [Массово атакуют: подборка громких киберкампаний 2025 года](https://habr.com/ru/companies/pt/articles/972652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
