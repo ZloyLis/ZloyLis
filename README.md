@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мы превращаемся в операторов Claude? Разбор отчета Anthropic и поиск выхода из тупика](https://habr.com/ru/articles/973122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973122)
-- [Как мы делали масло для бороды, которое помогает размножаться](https://habr.com/ru/companies/geltek/articles/972512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972512)
-- [Interrupt-интерфейс человеческой психики](https://habr.com/ru/companies/beget/articles/971658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971658)
-- [Как Temporal без боли решает привычную проблему распределённой бизнес-логики](https://habr.com/ru/companies/yandex/articles/972612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972612)
-- [Почему безупречный код — это ноль, если бухгалтер не нашел кнопку «сохранить»](https://habr.com/ru/companies/ru_mts/articles/972764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972764)
+- [Как в 2026 году снизить стоимость разработки интеграций](https://habr.com/ru/companies/w_code/articles/973144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973144)
+- [Выбираем архитектуру по кайдзен: на что обратить внимание](https://habr.com/ru/companies/digital_solutions/articles/973134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973134)
+- [[Перевод] ЦРУ превратило 6 собак в дистанционно управляемых убийц](https://habr.com/ru/articles/973020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973020)
+- [Как начать работать с Nuxt UI — библиотекой компонентов для Vue и Nuxt](https://habr.com/ru/companies/timeweb/articles/971892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971892)
+- [Превращаем сайт в мобильное приложение за пару шагов. Часть 1](https://habr.com/ru/companies/selectel/articles/973136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
