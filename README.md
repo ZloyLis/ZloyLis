@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как убить команду таск-трекером: пошаговые советы](https://habr.com/ru/companies/yougile/articles/973038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973038)
-- [Подборка вопросов для собеседования Frontend-разработчика](https://habr.com/ru/articles/973072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973072)
-- [Из Python в 1С](https://habr.com/ru/articles/971900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971900)
-- [Как говорить «НЕТ» когда все хотят слышать от вас «ДА» &lpar;и остаться в живых&rpar;. Памятка менеджеру](https://habr.com/ru/articles/973034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973034)
-- [Квантовое эхо в расширяющейся вселенной: ученые предсказали судьбу космологического вакуума](https://habr.com/ru/articles/969022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969022)
+- [Лариса Долина может взыскать по 5 000 000 рублей с каждого, кто шутит про неё в интернете?](https://habr.com/ru/articles/973096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973096)
+- [[Перевод] Реализация TimescaleDB в Zabbix: преимущества, ключевые таблицы и установка](https://habr.com/ru/articles/970702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970702)
+- [Эволюция вагонов метро в России: как «железо» под землёй догоняет 2025-й](https://habr.com/ru/articles/973094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973094)
+- [ClickHouse и внешние словари: как это работает и зачем нужно](https://habr.com/ru/companies/otus/articles/971422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971422)
+- [Кейс «Учёт надоя»: креативное обновление мобильного приложения РСХБ «Свои финансы»](https://habr.com/ru/companies/rshb/articles/971984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
