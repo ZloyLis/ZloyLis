@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейро-дайджест: ключевые события мира AI за 1-ю неделю декабря 2025](https://habr.com/ru/companies/timeweb/articles/973058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973058)
+- [Использование SSH для подписи коммитов в git](https://habr.com/ru/companies/zyfra/articles/973296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973296)
+- [От MOS6502 к x86: эволюция эмулятора микропроцессоров](https://habr.com/ru/articles/973370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973370)
+- [Embox открывает российское семейство процессоров KOMDIV64](https://habr.com/ru/articles/973366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973366)
 - [[Перевод] Работаем с NLP на Python](https://habr.com/ru/companies/otus/articles/967254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967254)
-- [GaMAC: Открытая библиотека для автоматической кластеризации мультимодальных данных под GPU](https://habr.com/ru/articles/973364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973364)
-- [iptables для людей: Как я перестал быть «удобным» сервером и накатил Human Firewall](https://habr.com/ru/articles/973362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973362)
-- [«Когда агенты перестают говорить»: как LatentMAS предлагает новый язык общения ИИ-агентов](https://habr.com/ru/companies/technokratos/articles/973358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973358)
-- [Видеокарта в конце 2025-го: покупать сейчас или ждать, пока рынок отыграет RAM-кризис](https://habr.com/ru/articles/973352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
