@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как убить команду таск-трекером: пошаговые советы](https://habr.com/ru/companies/yougile/articles/973038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973038)
+- [Подборка вопросов для собеседования Frontend-разработчика](https://habr.com/ru/articles/973072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973072)
+- [Из Python в 1С](https://habr.com/ru/articles/971900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971900)
+- [Как говорить «НЕТ» когда все хотят слышать от вас «ДА» &lpar;и остаться в живых&rpar;. Памятка менеджеру](https://habr.com/ru/articles/973034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973034)
 - [Квантовое эхо в расширяющейся вселенной: ученые предсказали судьбу космологического вакуума](https://habr.com/ru/articles/969022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969022)
-- [Как я осознал, что не умею кодить](https://habr.com/ru/articles/972630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972630)
-- [Подключение ЖК дисплея POS терминала Ingenico IPP320 к Arduino &lpar;ESP32&rpar;](https://habr.com/ru/articles/973064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973064)
-- [Три кита, на которых стоят современные представления о снижении веса](https://habr.com/ru/articles/973060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973060)
-- [[Перевод] Критическая уязвимость безопасности в React Server Components](https://habr.com/ru/articles/973050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
