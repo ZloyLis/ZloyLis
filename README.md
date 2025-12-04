@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Первый опыт интеграции веб-приложения с 1С — о чём я бы хотел знать перед стартом](https://habr.com/ru/articles/973052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973052)
-- [Вся правда о работе в Alfabit](https://habr.com/ru/articles/973200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973200)
-- [20 лет боли и прозрений в логистике и автоматизации: от крабов до роботов:](https://habr.com/ru/companies/intekey/articles/973198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973198)
-- [Автоматизация рутинных задач на VPS с помощью cron и скриптов](https://habr.com/ru/companies/ultravds/articles/972942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972942)
-- [Создаёте списки в C#? Ну тогда у вас могут быть проблемы](https://habr.com/ru/companies/skbkontur/articles/971598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971598)
+- [Книга «Python для инженерных задач»](https://habr.com/ru/companies/bhv_publishing/articles/973246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973246)
+- [Утечка сквозь уязвимость: как построить защиту приложения, чтобы данные не достались злоумышленникам](https://habr.com/ru/articles/973244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973244)
+- [MULTIFACTOR Radius Adapter V2: что это такое и для чего он нужен](https://habr.com/ru/companies/multifactor/articles/973242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973242)
+- [Актуальные нейросети для разработчиков в 2026 году](https://habr.com/ru/companies/ggsel/articles/973240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973240)
+- [ИИ в мессенджерах: как Telegram- и WhatsApp-боты меняют общение](https://habr.com/ru/companies/bothub/articles/973238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
