@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключение ЖК дисплея POS терминала Ingenico IPP320 к Arduino &lpar;ESP32&rpar;](https://habr.com/ru/articles/973064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973064)
 - [Три кита, на которых стоят современные представления о снижении веса](https://habr.com/ru/articles/973060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973060)
 - [[Перевод] Критическая уязвимость безопасности в React Server Components](https://habr.com/ru/articles/973050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973050)
 - [Поиск свободных уникальных ников в Telegram](https://habr.com/ru/articles/973030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973030)
 - [LLM-клиент с MCP – дорогой и неэффективный подход в разработке](https://habr.com/ru/articles/973026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973026)
-- [Аналитика телеметрии автосимулятора Assetto Corsa](https://habr.com/ru/articles/973024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
