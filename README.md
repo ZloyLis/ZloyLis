@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Антивирус в конце 2025-го: когда хватает Microsoft Defender, а когда уже пора ставить ESET или Kaspersky](https://habr.com/ru/articles/973340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973340)
-- [Logos AI Assistant — полноценный ИИ-агент для вашего десктопа](https://habr.com/ru/articles/973332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973332)
-- [Топ самых интересных CVE за ноябрь 2025 года](https://habr.com/ru/companies/tomhunter/articles/972146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972146)
-- [Эффект арбузов: не новость, но до сих пор зона роста большинства команд поддержки](https://habr.com/ru/companies/simpleone/articles/973318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973318)
-- [Что происходит с имплантатом в первые 3 секунды после установки](https://habr.com/ru/companies/alpha_bio_tec/articles/973310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973310)
+- [[Перевод] Работаем с NLP на Python](https://habr.com/ru/companies/otus/articles/967254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967254)
+- [GaMAC: Открытая библиотека для автоматической кластеризации мультимодальных данных под GPU](https://habr.com/ru/articles/973364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973364)
+- [iptables для людей: Как я перестал быть «удобным» сервером и накатил Human Firewall](https://habr.com/ru/articles/973362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973362)
+- [«Когда агенты перестают говорить»: как LatentMAS предлагает новый язык общения ИИ-агентов](https://habr.com/ru/companies/technokratos/articles/973358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973358)
+- [Видеокарта в конце 2025-го: покупать сейчас или ждать, пока рынок отыграет RAM-кризис](https://habr.com/ru/articles/973352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
