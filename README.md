@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книга «Python для инженерных задач»](https://habr.com/ru/companies/bhv_publishing/articles/973246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973246)
-- [Утечка сквозь уязвимость: как построить защиту приложения, чтобы данные не достались злоумышленникам](https://habr.com/ru/articles/973244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973244)
-- [MULTIFACTOR Radius Adapter V2: что это такое и для чего он нужен](https://habr.com/ru/companies/multifactor/articles/973242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973242)
-- [Актуальные нейросети для разработчиков в 2026 году](https://habr.com/ru/companies/ggsel/articles/973240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973240)
-- [ИИ в мессенджерах: как Telegram- и WhatsApp-боты меняют общение](https://habr.com/ru/companies/bothub/articles/973238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973238)
+- [Почему ритейл продолжает терять деньги из-за неэффективной ИБ — и что с этим делать](https://habr.com/ru/companies/securitm/articles/973274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973274)
+- [Релиз за две минуты и краш-тест процессов: как мы разработали Мультидоступ в личном кабинете доменного регистратора](https://habr.com/ru/companies/runity/articles/973278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973278)
+- [Как мы научили нейросеть искать связи между инцидентами в SOC](https://habr.com/ru/companies/k2tech/articles/972220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972220)
+- [Как превратить хаотичный ML-проект в систему: пошаговый гайд по DVC + GitHub Actions](https://habr.com/ru/articles/973268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973268)
+- [GigaAM-v3: открытая SOTA-модель распознавания речи на русском](https://habr.com/ru/companies/sberdevices/articles/973160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
