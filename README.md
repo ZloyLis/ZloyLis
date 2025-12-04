@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три кита, на которых стоят современные представления о снижении веса](https://habr.com/ru/articles/973060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973060)
 - [[Перевод] Критическая уязвимость безопасности в React Server Components](https://habr.com/ru/articles/973050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973050)
 - [Поиск свободных уникальных ников в Telegram](https://habr.com/ru/articles/973030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973030)
 - [LLM-клиент с MCP – дорогой и неэффективный подход в разработке](https://habr.com/ru/articles/973026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973026)
 - [Аналитика телеметрии автосимулятора Assetto Corsa](https://habr.com/ru/articles/973024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973024)
-- [Нужно ли брать согласие на обработку ПД, когда клиент записывается по телефону или в мессенджере](https://habr.com/ru/articles/972058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
