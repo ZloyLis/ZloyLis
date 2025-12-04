@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книга: «Весь Python. Самое актуальное и исчерпывающее руководство»](https://habr.com/ru/companies/piter/articles/970968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970968)
-- [StarRocks 4.0: FlatJSON — делаем запросы к JSON столь же эффективными, как к колоночному хранению](https://habr.com/ru/articles/973166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973166)
-- [Сплиттеры для проектирования видеостен. Обзор на модели брендов PC Vision и Matrox](https://habr.com/ru/articles/973164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973164)
-- [Внешние эксперты = объективность. Как мы проводим технические собеседования в SSP SOFT](https://habr.com/ru/companies/ssp-soft/articles/972818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972818)
-- [Обзор неявных возможностей дисковой подсистемы Windows 11](https://habr.com/ru/companies/ruvds/articles/952020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952020)
+- [Первый опыт интеграции веб-приложения с 1С — о чём я бы хотел знать перед стартом](https://habr.com/ru/articles/973052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973052)
+- [Вся правда о работе в Alfabit](https://habr.com/ru/articles/973200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973200)
+- [20 лет боли и прозрений в логистике и автоматизации: от крабов до роботов:](https://habr.com/ru/companies/intekey/articles/973198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973198)
+- [Автоматизация рутинных задач на VPS с помощью cron и скриптов](https://habr.com/ru/companies/ultravds/articles/972942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972942)
+- [Создаёте списки в C#? Ну тогда у вас могут быть проблемы](https://habr.com/ru/companies/skbkontur/articles/971598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
