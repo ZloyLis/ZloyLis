@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему ритейл продолжает терять деньги из-за неэффективной ИБ — и что с этим делать](https://habr.com/ru/companies/securitm/articles/973274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973274)
-- [Релиз за две минуты и краш-тест процессов: как мы разработали Мультидоступ в личном кабинете доменного регистратора](https://habr.com/ru/companies/runity/articles/973278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973278)
-- [Как мы научили нейросеть искать связи между инцидентами в SOC](https://habr.com/ru/companies/k2tech/articles/972220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972220)
-- [Как превратить хаотичный ML-проект в систему: пошаговый гайд по DVC + GitHub Actions](https://habr.com/ru/articles/973268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973268)
-- [GigaAM-v3: открытая SOTA-модель распознавания речи на русском](https://habr.com/ru/companies/sberdevices/articles/973160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973160)
+- [Что происходит с имплантатом в первые 3 секунды после установки](https://habr.com/ru/companies/alpha_bio_tec/articles/973310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973310)
+- [Генеральная уборка базы знаний: плюсы, подводные камни, минусов не будет](https://habr.com/ru/companies/kaspersky/articles/968582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968582)
+- [Написать приложение без опыта. Часть 1. Вводная](https://habr.com/ru/articles/973068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973068)
+- [Классический фленджер Harley-Benton](https://habr.com/ru/companies/ruvds/articles/948692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948692)
+- [Отображение Excel в React: экспериментальный прототип с merge и изначальной структурой](https://habr.com/ru/companies/gnivc/articles/972012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
