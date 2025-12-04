@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Антивирус в конце 2025-го: когда хватает Microsoft Defender, а когда уже пора ставить ESET или Kaspersky](https://habr.com/ru/articles/973340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973340)
+- [Logos AI Assistant — полноценный ИИ-агент для вашего десктопа](https://habr.com/ru/articles/973332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973332)
+- [Топ самых интересных CVE за ноябрь 2025 года](https://habr.com/ru/companies/tomhunter/articles/972146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972146)
+- [Эффект арбузов: не новость, но до сих пор зона роста большинства команд поддержки](https://habr.com/ru/companies/simpleone/articles/973318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973318)
 - [Что происходит с имплантатом в первые 3 секунды после установки](https://habr.com/ru/companies/alpha_bio_tec/articles/973310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973310)
-- [Генеральная уборка базы знаний: плюсы, подводные камни, минусов не будет](https://habr.com/ru/companies/kaspersky/articles/968582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968582)
-- [Написать приложение без опыта. Часть 1. Вводная](https://habr.com/ru/articles/973068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973068)
-- [Классический фленджер Harley-Benton](https://habr.com/ru/companies/ruvds/articles/948692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=948692)
-- [Отображение Excel в React: экспериментальный прототип с merge и изначальной структурой](https://habr.com/ru/companies/gnivc/articles/972012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
