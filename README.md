@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Холодный звонок «устал»: как продажи эволюционировали и почему в 2026 году решает система](https://habr.com/ru/articles/973446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973446)
+- [Web-crawler 3D моделей для печати](https://habr.com/ru/articles/973444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973444)
+- [Мой легковесный помощник: как я создал монитор системы, который не тормозит](https://habr.com/ru/articles/973440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973440)
+- [Алиас в помощь](https://habr.com/ru/companies/otus/articles/969896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969896)
 - [Как я построил полностью изолированную пентест-лабораторию и почему ИИ нельзя доверять](https://habr.com/ru/articles/973434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973434)
-- [Млевена киша и новый закон Черногории о странцах](https://habr.com/ru/articles/973398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973398)
-- [В ReactOS внесены улучшения, исправляющие ряд проблем с USB](https://habr.com/ru/companies/reactos/articles/973432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973432)
-- [marimo — реактивный аналог Jupyter Notebook](https://habr.com/ru/articles/973430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973430)
-- [Когда сидишь в PHP, а мысли — о Python: как я случайно написал свой pprint](https://habr.com/ru/articles/973396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
