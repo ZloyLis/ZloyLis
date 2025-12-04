@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как в 2026 году снизить стоимость разработки интеграций](https://habr.com/ru/companies/w_code/articles/973144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973144)
-- [Выбираем архитектуру по кайдзен: на что обратить внимание](https://habr.com/ru/companies/digital_solutions/articles/973134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973134)
-- [[Перевод] ЦРУ превратило 6 собак в дистанционно управляемых убийц](https://habr.com/ru/articles/973020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973020)
-- [Как начать работать с Nuxt UI — библиотекой компонентов для Vue и Nuxt](https://habr.com/ru/companies/timeweb/articles/971892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971892)
-- [Превращаем сайт в мобильное приложение за пару шагов. Часть 1](https://habr.com/ru/companies/selectel/articles/973136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973136)
+- [Книга: «Весь Python. Самое актуальное и исчерпывающее руководство»](https://habr.com/ru/companies/piter/articles/970968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970968)
+- [StarRocks 4.0: FlatJSON — делаем запросы к JSON столь же эффективными, как к колоночному хранению](https://habr.com/ru/articles/973166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973166)
+- [Сплиттеры для проектирования видеостен. Обзор на модели брендов PC Vision и Matrox](https://habr.com/ru/articles/973164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973164)
+- [Внешние эксперты = объективность. Как мы проводим технические собеседования в SSP SOFT](https://habr.com/ru/companies/ssp-soft/articles/972818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972818)
+- [Обзор неявных возможностей дисковой подсистемы Windows 11](https://habr.com/ru/companies/ruvds/articles/952020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
