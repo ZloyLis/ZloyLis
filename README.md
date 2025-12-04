@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я построил полностью изолированную пентест-лабораторию и почему ИИ нельзя доверять](https://habr.com/ru/articles/973434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973434)
+- [Млевена киша и новый закон Черногории о странцах](https://habr.com/ru/articles/973398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973398)
+- [В ReactOS внесены улучшения, исправляющие ряд проблем с USB](https://habr.com/ru/companies/reactos/articles/973432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973432)
+- [marimo — реактивный аналог Jupyter Notebook](https://habr.com/ru/articles/973430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973430)
 - [Когда сидишь в PHP, а мысли — о Python: как я случайно написал свой pprint](https://habr.com/ru/articles/973396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973396)
-- [Нейро-дайджест: ключевые события мира AI за 1-ю неделю декабря 2025](https://habr.com/ru/companies/timeweb/articles/973058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973058)
-- [Использование SSH для подписи коммитов в git](https://habr.com/ru/companies/zyfra/articles/973296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973296)
-- [От MOS6502 к x86: эволюция эмулятора микропроцессоров](https://habr.com/ru/articles/973370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973370)
-- [Embox открывает российское семейство процессоров KOMDIV64](https://habr.com/ru/articles/973366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
