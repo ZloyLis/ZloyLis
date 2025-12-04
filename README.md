@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Лариса Долина может взыскать по 5 000 000 рублей с каждого, кто шутит про неё в интернете?](https://habr.com/ru/articles/973096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973096)
-- [[Перевод] Реализация TimescaleDB в Zabbix: преимущества, ключевые таблицы и установка](https://habr.com/ru/articles/970702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970702)
-- [Эволюция вагонов метро в России: как «железо» под землёй догоняет 2025-й](https://habr.com/ru/articles/973094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973094)
-- [ClickHouse и внешние словари: как это работает и зачем нужно](https://habr.com/ru/companies/otus/articles/971422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971422)
-- [Кейс «Учёт надоя»: креативное обновление мобильного приложения РСХБ «Свои финансы»](https://habr.com/ru/companies/rshb/articles/971984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971984)
+- [Мы превращаемся в операторов Claude? Разбор отчета Anthropic и поиск выхода из тупика](https://habr.com/ru/articles/973122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973122)
+- [Как мы делали масло для бороды, которое помогает размножаться](https://habr.com/ru/companies/geltek/articles/972512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972512)
+- [Interrupt-интерфейс человеческой психики](https://habr.com/ru/companies/beget/articles/971658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971658)
+- [Как Temporal без боли решает привычную проблему распределённой бизнес-логики](https://habr.com/ru/companies/yandex/articles/972612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972612)
+- [Почему безупречный код — это ноль, если бухгалтер не нашел кнопку «сохранить»](https://habr.com/ru/companies/ru_mts/articles/972764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
