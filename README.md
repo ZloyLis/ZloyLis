@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Световые узоры на заказ: физики создали квантовый холст для управления светом с помощью жидких кристаллов](https://habr.com/ru/articles/968978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968978)
-- [Как я создал аналог западной обучающей платформы — Quaize](https://habr.com/ru/articles/973478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973478)
-- [Учусь Ansible: от пинга до Nginx на Raspberry Pi и Orange Pi](https://habr.com/ru/articles/973466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973466)
-- [Элегантный OSDev: Пишем ядро ОС на modern C++ без макросов. Часть 2 — PMM + Allocator](https://habr.com/ru/articles/973314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973314)
-- [Теория всего или С&lpar;Х,Y&rpar; Парадигма](https://habr.com/ru/articles/973460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973460)
+- [Спасаем ARGB: Как я заменил сгоревший китайский хаб на ESP32 с веб-интерфейсом](https://habr.com/ru/articles/973472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973472)
+- [Как я попал в СберМобайл в 18 лет: мой путь, ошибки, 300 откликов и один шанс](https://habr.com/ru/articles/973490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973490)
+- [Неопределённость как часть модели](https://habr.com/ru/companies/otus/articles/970398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970398)
+- [Разговорные клубы для изучения английского: есть ли от них польза, кому не подойдут и как выбрать подходящий](https://habr.com/ru/companies/yandex_praktikum/articles/973382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973382)
+- [Чтение на выходные: «Культурный код. Как мы живём, что покупаем и почему» Клотера Рапая](https://habr.com/ru/companies/onlinepatent/articles/972762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
