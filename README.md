@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Digest #31](https://habr.com/ru/companies/tbank/articles/973720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973720)
-- [Опенсорс лицензии: большой разбор лицензий GNU](https://habr.com/ru/articles/973728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973728)
-- [Вычислитель](https://habr.com/ru/companies/sibur_official/articles/930152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=930152)
-- [[Перевод] Не делайте рефакторинг как Дядя Боб &lpar;вторая редакция&rpar;](https://habr.com/ru/companies/ruvds/articles/973104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973104)
-- [Акселератор ВТБ: как и зачем стартапу взаимодействовать с банком](https://habr.com/ru/articles/973712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973712)
+- [Как стабильно запускать NCALayer в терминальной инфраструктуре: решение для RDS, Citrix и WSP](https://habr.com/ru/articles/973748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973748)
+- [Топ новостей инфобеза за ноябрь 2025 года](https://habr.com/ru/companies/tomhunter/articles/973732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973732)
+- [Анонимный Дед Мороз на Хабре](https://habr.com/ru/companies/habr/articles/973744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973744)
+- [Весь год записывал в табличку расходы &lpar;2,9 млн&rpar;. Узнал свою инфляцию](https://habr.com/ru/articles/973742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973742)
+- [Коллагеновые БАДы: грани бесполезности](https://habr.com/ru/articles/973740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
