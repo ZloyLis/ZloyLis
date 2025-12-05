@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Защита от SYN-flood: теория, практика и где искать подвох](https://habr.com/ru/companies/ozontech/articles/973736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973736)
-- [Репозиторий доверенного ПО: инхаус или аутсорс?](https://habr.com/ru/companies/solarsecurity/articles/973812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973812)
-- [Сыч: телеграм-бот, который помнит обиды и обходит лимиты Google Gemini](https://habr.com/ru/articles/973804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973804)
-- [DEVLOG 1: Работа с ARTICY](https://habr.com/ru/articles/973802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973802)
-- [joerl :: привычная акторная модель из эрланга в расте](https://habr.com/ru/articles/973798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973798)
+- [HistoryHelper — плагин для DBeaver. Часть 2](https://habr.com/ru/articles/973836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973836)
+- [ИИ-революция, которая вышла из-под контроля: как журналист построил компанию из ИИ‑сотрудников и что из этого вышло](https://habr.com/ru/articles/973834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973834)
+- [glinq: LINQ для Go с ленивыми вычислениями](https://habr.com/ru/articles/973828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973828)
+- [Fine-tune Qwen3 за написание позитивных отзывов о ресторанах](https://habr.com/ru/articles/973824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973824)
+- [StingrayTV Alice: теперь «почти stable»](https://habr.com/ru/articles/973820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
