@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как стабильно запускать NCALayer в терминальной инфраструктуре: решение для RDS, Citrix и WSP](https://habr.com/ru/articles/973748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973748)
-- [Топ новостей инфобеза за ноябрь 2025 года](https://habr.com/ru/companies/tomhunter/articles/973732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973732)
-- [Анонимный Дед Мороз на Хабре](https://habr.com/ru/companies/habr/articles/973744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973744)
-- [Весь год записывал в табличку расходы &lpar;2,9 млн&rpar;. Узнал свою инфляцию](https://habr.com/ru/articles/973742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973742)
-- [Коллагеновые БАДы: грани бесполезности](https://habr.com/ru/articles/973740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973740)
+- [Отчетность в Платформе «Форсайт»: вчера, сегодня, завтра](https://habr.com/ru/companies/fsight/articles/973766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973766)
+- [Зачем инженеру персональная система планирования?](https://habr.com/ru/articles/973778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973778)
+- [[Перевод] Как развернуть полноценный n8n AI-стек за 15 минут, а не за целый день](https://habr.com/ru/articles/973776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973776)
+- [Не вставая с кресла — эволюция удаленного управления серверами от телетайпов до IPMI](https://habr.com/ru/companies/ispsystem/articles/973768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973768)
+- [Почему раздувание штата не ускорит релиз — миф о линейном ускорении](https://habr.com/ru/articles/973772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
