@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Защита от SYN-flood: теория, практика и где искать подвох](https://habr.com/ru/companies/ozontech/articles/973736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973736)
+- [Репозиторий доверенного ПО: инхаус или аутсорс?](https://habr.com/ru/companies/solarsecurity/articles/973812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973812)
+- [Сыч: телеграм-бот, который помнит обиды и обходит лимиты Google Gemini](https://habr.com/ru/articles/973804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973804)
 - [DEVLOG 1: Работа с ARTICY](https://habr.com/ru/articles/973802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973802)
 - [joerl :: привычная акторная модель из эрланга в расте](https://habr.com/ru/articles/973798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973798)
-- [Broken Arrow — глоток свежего воздуха или угасающая звезда?](https://habr.com/ru/companies/timeweb/articles/973794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973794)
-- [Формула успеха?](https://habr.com/ru/companies/beget/articles/971676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971676)
-- [Технический долг в голове: Почему сеньоры выгорают на задачах для джунов, а пет-проекты умирают в бэклоге](https://habr.com/ru/articles/973796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
