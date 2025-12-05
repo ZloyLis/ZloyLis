@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Функциональное IT искусство](https://habr.com/ru/articles/973868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973868)
+- [Лагранжиан мира: вариационный принцип для глобальной кооперации](https://habr.com/ru/articles/973862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973862)
+- [Не все чувства одинаково полезны: как искусственный интеллект объединяет информацию из разных источников](https://habr.com/ru/articles/973866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973866)
 - [Обзор препринтов научных статей в области Информатики](https://habr.com/ru/articles/967184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967184)
 - [Как научить AI-судью предсказывать решения](https://habr.com/ru/articles/973852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973852)
-- [Как попасть в федеральные СМИ: способы и пошаговый план](https://habr.com/ru/articles/973850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973850)
-- [HistoryHelper — плагин для DBeaver, который генерирует history-таблицы и триггеры за пару кликов. Часть 2](https://habr.com/ru/articles/973836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973836)
-- [ИИ-революция, которая вышла из-под контроля: как журналист построил компанию из ИИ‑сотрудников и что из этого вышло](https://habr.com/ru/articles/973834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
