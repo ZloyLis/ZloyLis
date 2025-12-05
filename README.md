@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL и REST: что и для чего выбирать](https://habr.com/ru/articles/973654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973654)
-- [Не «без очереди», а без совести: разбираем схему продажи фальшивых медсправок в мессенджерах](https://habr.com/ru/companies/jetinfosystems/articles/973652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973652)
-- [ИИ чат для API или «Co-Pilot» своими руками](https://habr.com/ru/articles/973650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973650)
-- [No-code автономные агенты: миф или реальность](https://habr.com/ru/companies/cloud_ru/articles/973510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973510)
-- [[Перевод] Зрительно-языковые модели читают хуже &lpar;или лучше&rpar;, чем вам кажется](https://habr.com/ru/companies/piter/articles/973640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973640)
+- [LBX Биллинг: автоматизация подписок без боли самописных решений – для стартапов и зрелых B2B SaaS](https://habr.com/ru/articles/973698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973698)
+- [Миграция высоконагруженной инфраструктуры без даунтайма: технические детали переезда Дзена на видеоплатформу VK](https://habr.com/ru/companies/vk/articles/973184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973184)
+- [Хотят ли арахниды войны, или SUMMA PRO VERHOEVEN. Часть 1](https://habr.com/ru/articles/973694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973694)
+- [Как мы собирали новогодние боксы для клиентов: откровенный разбор, инсайты и фейлы](https://habr.com/ru/articles/973690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973690)
+- [[Перевод] Вредит ли критическому мышлению использование ИИ?](https://habr.com/ru/articles/973686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
