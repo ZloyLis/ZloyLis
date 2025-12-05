@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Спасаем ARGB: Как я заменил сгоревший китайский хаб на ESP32 с веб-интерфейсом](https://habr.com/ru/articles/973472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973472)
-- [Как я попал в СберМобайл в 18 лет: мой путь, ошибки, 300 откликов и один шанс](https://habr.com/ru/articles/973490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973490)
-- [Неопределённость как часть модели](https://habr.com/ru/companies/otus/articles/970398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970398)
-- [Разговорные клубы для изучения английского: есть ли от них польза, кому не подойдут и как выбрать подходящий](https://habr.com/ru/companies/yandex_praktikum/articles/973382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973382)
-- [Чтение на выходные: «Культурный код. Как мы живём, что покупаем и почему» Клотера Рапая](https://habr.com/ru/companies/onlinepatent/articles/972762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972762)
+- [ТОП-10 ошибок проектирования печатных плат](https://habr.com/ru/companies/electroconnect/articles/973522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973522)
+- [Линейные скрипты мертвы: что их заменит в саппорте и как это собрать](https://habr.com/ru/companies/teamly/articles/973302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973302)
+- [Баланс между хаосом и структурой и ни одной скучной минуты за рабочий день: что включает в себя роль CPO в MWS](https://habr.com/ru/companies/ru_mts/articles/973350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973350)
+- [Анимация загрузки: как скорость влияет на восприятие времени и конверсии](https://habr.com/ru/companies/beget/articles/973386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973386)
+- [Не читал, но одобряю: пишем софт для быстрого анализа пользовательских соглашений](https://habr.com/ru/articles/972962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
