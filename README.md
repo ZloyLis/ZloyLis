@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Отчетность в Платформе «Форсайт»: вчера, сегодня, завтра](https://habr.com/ru/companies/fsight/articles/973766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973766)
-- [Зачем инженеру персональная система планирования?](https://habr.com/ru/articles/973778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973778)
-- [[Перевод] Как развернуть полноценный n8n AI-стек за 15 минут, а не за целый день](https://habr.com/ru/articles/973776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973776)
-- [Не вставая с кресла — эволюция удаленного управления серверами от телетайпов до IPMI](https://habr.com/ru/companies/ispsystem/articles/973768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973768)
-- [Почему раздувание штата не ускорит релиз — миф о линейном ускорении](https://habr.com/ru/articles/973772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973772)
+- [DEVLOG 1: Работа с ARTICY](https://habr.com/ru/articles/973802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973802)
+- [joerl :: привычная акторная модель из эрланга в расте](https://habr.com/ru/articles/973798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973798)
+- [Broken Arrow — глоток свежего воздуха или угасающая звезда?](https://habr.com/ru/companies/timeweb/articles/973794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973794)
+- [Формула успеха?](https://habr.com/ru/companies/beget/articles/971676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971676)
+- [Технический долг в голове: Почему сеньоры выгорают на задачах для джунов, а пет-проекты умирают в бэклоге](https://habr.com/ru/articles/973796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
