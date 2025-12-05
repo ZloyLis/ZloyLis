@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Электродинамика виртуальной Вселенной](https://habr.com/ru/articles/973616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973616)
-- [Детальный разбор стандарта NIST SP 800-232 со схемами преобразований. Часть 2](https://habr.com/ru/companies/aktiv-company/articles/973300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973300)
-- [Самый приватный конструктор резюме теперь бесплатный](https://habr.com/ru/articles/973448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973448)
-- [Зачем вообще использовать ORM?](https://habr.com/ru/articles/973608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973608)
-- [Как влиять на UX-решения, если ты внешний исследователь в команде](https://habr.com/ru/companies/skbkontur/articles/973498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973498)
+- [GraphQL и REST: что и для чего выбирать](https://habr.com/ru/articles/973654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973654)
+- [Не «без очереди», а без совести: разбираем схему продажи фальшивых медсправок в мессенджерах](https://habr.com/ru/companies/jetinfosystems/articles/973652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973652)
+- [ИИ чат для API или «Co-Pilot» своими руками](https://habr.com/ru/articles/973650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973650)
+- [No-code автономные агенты: миф или реальность](https://habr.com/ru/companies/cloud_ru/articles/973510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973510)
+- [[Перевод] Зрительно-языковые модели читают хуже &lpar;или лучше&rpar;, чем вам кажется](https://habr.com/ru/companies/piter/articles/973640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
