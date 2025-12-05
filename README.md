@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тестируем новый TypeScript-Go в OpenIDE: что на самом деле даёт порт компилятора](https://habr.com/ru/companies/haulmont/articles/973534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973534)
-- [[Перевод] Лучше, чем JSON: почему я перешёл на Protobuf](https://habr.com/ru/articles/973400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973400)
-- [Все ли могут кодить?](https://habr.com/ru/articles/973586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973586)
-- [Кустарные вакуумные триоды Клода Пайяра. Часть 4. Вакуумные насосы](https://habr.com/ru/companies/ruvds/articles/971818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971818)
-- [Как армия китайских роботов обнуляет торговую войну с США?](https://habr.com/ru/articles/973504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973504)
+- [Электродинамика виртуальной Вселенной](https://habr.com/ru/articles/973616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973616)
+- [Детальный разбор стандарта NIST SP 800-232 со схемами преобразований. Часть 2](https://habr.com/ru/companies/aktiv-company/articles/973300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973300)
+- [Самый приватный конструктор резюме теперь бесплатный](https://habr.com/ru/articles/973448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973448)
+- [Зачем вообще использовать ORM?](https://habr.com/ru/articles/973608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973608)
+- [Как влиять на UX-решения, если ты внешний исследователь в команде](https://habr.com/ru/companies/skbkontur/articles/973498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
