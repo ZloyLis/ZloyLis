@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Деловая Вселенная: цифровое пространство экономики](https://habr.com/ru/articles/973552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973552)
-- [Rust vs Go: управление памятью](https://habr.com/ru/articles/973550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973550)
-- [Реверс-инжиниринг приложений на Android: знакомство с Frida](https://habr.com/ru/companies/selectel/articles/973526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973526)
-- [Что должен уметь тестировщик в 2026 году](https://habr.com/ru/companies/habr_career/articles/973546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973546)
-- [Первые отечественные электронные лифты. УПЛ-10](https://habr.com/ru/companies/timeweb/articles/972160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972160)
+- [Тестируем новый TypeScript-Go в OpenIDE: что на самом деле даёт порт компилятора](https://habr.com/ru/companies/haulmont/articles/973534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973534)
+- [[Перевод] Лучше, чем JSON: почему я перешёл на Protobuf](https://habr.com/ru/articles/973400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973400)
+- [Все ли могут кодить?](https://habr.com/ru/articles/973586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973586)
+- [Кустарные вакуумные триоды Клода Пайяра. Часть 4. Вакуумные насосы](https://habr.com/ru/companies/ruvds/articles/971818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971818)
+- [Как армия китайских роботов обнуляет торговую войну с США?](https://habr.com/ru/articles/973504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
