@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [LBX Биллинг: автоматизация подписок без боли самописных решений – для стартапов и зрелых B2B SaaS](https://habr.com/ru/articles/973698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973698)
-- [Миграция высоконагруженной инфраструктуры без даунтайма: технические детали переезда Дзена на видеоплатформу VK](https://habr.com/ru/companies/vk/articles/973184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973184)
-- [Хотят ли арахниды войны, или SUMMA PRO VERHOEVEN. Часть 1](https://habr.com/ru/articles/973694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973694)
-- [Как мы собирали новогодние боксы для клиентов: откровенный разбор, инсайты и фейлы](https://habr.com/ru/articles/973690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973690)
-- [[Перевод] Вредит ли критическому мышлению использование ИИ?](https://habr.com/ru/articles/973686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973686)
+- [Java Digest #31](https://habr.com/ru/companies/tbank/articles/973720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973720)
+- [Опенсорс лицензии: большой разбор лицензий GNU](https://habr.com/ru/articles/973728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973728)
+- [Вычислитель](https://habr.com/ru/companies/sibur_official/articles/930152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=930152)
+- [[Перевод] Не делайте рефакторинг как Дядя Боб &lpar;вторая редакция&rpar;](https://habr.com/ru/companies/ruvds/articles/973104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973104)
+- [Акселератор ВТБ: как и зачем стартапу взаимодействовать с банком](https://habr.com/ru/articles/973712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
