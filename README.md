@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ТОП-10 ошибок проектирования печатных плат](https://habr.com/ru/companies/electroconnect/articles/973522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973522)
-- [Линейные скрипты мертвы: что их заменит в саппорте и как это собрать](https://habr.com/ru/companies/teamly/articles/973302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973302)
-- [Баланс между хаосом и структурой и ни одной скучной минуты за рабочий день: что включает в себя роль CPO в MWS](https://habr.com/ru/companies/ru_mts/articles/973350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973350)
-- [Анимация загрузки: как скорость влияет на восприятие времени и конверсии](https://habr.com/ru/companies/beget/articles/973386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973386)
-- [Не читал, но одобряю: пишем софт для быстрого анализа пользовательских соглашений](https://habr.com/ru/articles/972962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972962)
+- [Деловая Вселенная: цифровое пространство экономики](https://habr.com/ru/articles/973552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973552)
+- [Rust vs Go: управление памятью](https://habr.com/ru/articles/973550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973550)
+- [Реверс-инжиниринг приложений на Android: знакомство с Frida](https://habr.com/ru/companies/selectel/articles/973526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973526)
+- [Что должен уметь тестировщик в 2026 году](https://habr.com/ru/companies/habr_career/articles/973546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973546)
+- [Первые отечественные электронные лифты. УПЛ-10](https://habr.com/ru/companies/timeweb/articles/972160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
