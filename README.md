@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как научить AI-судью предсказывать решения](https://habr.com/ru/articles/973852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973852)
+- [Как попасть в федеральные СМИ: способы и пошаговый план](https://habr.com/ru/articles/973850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973850)
 - [HistoryHelper — плагин для DBeaver. Часть 2](https://habr.com/ru/articles/973836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973836)
 - [ИИ-революция, которая вышла из-под контроля: как журналист построил компанию из ИИ‑сотрудников и что из этого вышло](https://habr.com/ru/articles/973834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973834)
 - [glinq: LINQ для Go с ленивыми вычислениями](https://habr.com/ru/articles/973828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973828)
-- [Fine-tune Qwen3 за написание позитивных отзывов о ресторанах](https://habr.com/ru/articles/973824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973824)
-- [StingrayTV Alice: теперь «почти stable»](https://habr.com/ru/articles/973820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
