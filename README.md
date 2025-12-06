@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнесы и их сайты пока не готовы к тому, что уже происходит с поисковой выдачей: AI SEO &lpar;GEO&rpar; как новая реальность](https://habr.com/ru/articles/973992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973992)
+- [Доллар как операционная система мира: почему текущая версия обречена на сбои](https://habr.com/ru/articles/973988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973988)
+- [Как бухгалтеру сводить дебет и кредит за минуты в Excel](https://habr.com/ru/articles/973990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973990)
+- [Как я создавал язык для преобразования данных вместе с ChatGPT](https://habr.com/ru/articles/964848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964848)
 - [OTXform — операциональное преобразование от теории к практике](https://habr.com/ru/articles/972638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972638)
-- [Профессия, род деятельности ≠ призвание](https://habr.com/ru/companies/ruvds/articles/971716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971716)
-- [[Перевод] В качестве букв диска в Windows может использоваться не только латиница](https://habr.com/ru/articles/973976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973976)
-- [Begin /* Мартышка и ИИ](https://habr.com/ru/articles/973974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973974)
-- [Должен ли продуктовый аналитик быть частью продуктовой команды?](https://habr.com/ru/articles/973970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
