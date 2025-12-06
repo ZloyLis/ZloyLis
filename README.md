@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ландшафт робототехники в Казани](https://habr.com/ru/articles/974070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974070)
+- [[Перевод] Ouroboros — язык программирования почти без синтаксиса](https://habr.com/ru/articles/974074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974074)
+- [Объяснение алгоритма деления двухразрядных чисел по материалам Дональда Кнута](https://habr.com/ru/articles/974048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974048)
 - [Реактивная Архитектура: Пишем надежный Optimistic UI на чистом RxJS &lpar;Pattern Compensating Transaction&rpar;](https://habr.com/ru/articles/974068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974068)
 - [Связь без мобильной сети: как я развернул свою VoIP-телефонию на участке](https://habr.com/ru/articles/974066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974066)
-- [Как реализовать эффект, подобный Liquid Glass, на чистом CSS без JavaScript](https://habr.com/ru/articles/974058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974058)
-- [ИИ — на этот раз все будет по другому?](https://habr.com/ru/articles/974056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974056)
-- [Perplexity AI: что умеет ИИ от пересказа текста до генерации кода и бизнес-идей](https://habr.com/ru/companies/bothub/articles/970884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
