@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура без сервера &lpar;serverless&rpar;: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/973548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973548)
 - [Функциональное IT искусство](https://habr.com/ru/articles/973868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973868)
 - [Лагранжиан мира: вариационный принцип для глобальной кооперации](https://habr.com/ru/articles/973862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973862)
 - [Не все чувства одинаково полезны: как искусственный интеллект объединяет информацию из разных источников](https://habr.com/ru/articles/973866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973866)
 - [Обзор препринтов научных статей в области Информатики](https://habr.com/ru/articles/967184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967184)
-- [Как научить AI-судью предсказывать решения](https://habr.com/ru/articles/973852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
