@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ученые создали полимер-хамелеон, меняющий цвет от прикосновения воды и спирта](https://habr.com/ru/articles/968610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968610)
+- [Установка n8n на сервер без терминала для самых маленьких](https://habr.com/ru/articles/973838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973838)
 - [Различия BizDev- и Sales-ролей, и почему важно их знать и понимать](https://habr.com/ru/articles/973880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973880)
 - [От чертежей к реальности: как 3D-машинное зрение на ToF-камере научило робота брать двери с паллеты](https://habr.com/ru/articles/973032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973032)
 - [Архитектура без сервера &lpar;serverless&rpar;: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/973548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973548)
-- [Функциональное IT искусство](https://habr.com/ru/articles/973868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973868)
-- [Лагранжиан мира: вариационный принцип для глобальной кооперации](https://habr.com/ru/articles/973862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
