@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализируем UDP логи Squid-proxy](https://habr.com/ru/articles/973934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973934)
+- [Лучшие современные RPG от русскоговорящих разработчиков](https://habr.com/ru/companies/ggsel/articles/973930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973930)
+- [WarpTrade и робастные алгоритмические стратегии](https://habr.com/ru/articles/973928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973928)
 - [Стоит ли переживать, если копирайтер пользуется ИИ?](https://habr.com/ru/articles/973924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973924)
 - [Куда исчезают пользователи: современные фреймворки аналитики retention в 2025 году](https://habr.com/ru/articles/973922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973922)
-- [История дирижаблей. Часть 1: от монгольфьера к проекту бомбардировщика для Бородино](https://habr.com/ru/companies/ruvds/articles/973342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973342)
-- [Сетевой нейтралитет: как на интернет-рынке США разгорелись войны из-за ошибки длиною в 20 лет](https://habr.com/ru/companies/ru_mts/articles/973176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973176)
-- [Возможен ли неживой интеллект?](https://habr.com/ru/articles/973920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
