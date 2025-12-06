@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Анализируем UDP логи Squid-proxy](https://habr.com/ru/articles/973934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973934)
-- [Лучшие современные RPG от русскоговорящих разработчиков](https://habr.com/ru/companies/ggsel/articles/973930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973930)
-- [WarpTrade и робастные алгоритмические стратегии](https://habr.com/ru/articles/973928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973928)
-- [Стоит ли переживать, если копирайтер пользуется ИИ?](https://habr.com/ru/articles/973924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973924)
-- [Куда исчезают пользователи: современные фреймворки аналитики retention в 2025 году](https://habr.com/ru/articles/973922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973922)
+- [[Перевод] Технический обзор моделей DeepSeek от V3 до V3.2](https://habr.com/ru/articles/973954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973954)
+- [[Перевод] Исповедь взломщика: я проник в мозг Nano Banana и заставил её выдать все тайны](https://habr.com/ru/companies/bothub/articles/973950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973950)
+- [HP OmniBook XE3: брутальный ноутбук начала 2000-х с автономным CD-проигрывателем и хорошим звуком](https://habr.com/ru/articles/973944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973944)
+- [Как я случайно обнаружил баг в Авито и заработал 1000₽ &lpar;совершенно не специально&rpar;](https://habr.com/ru/articles/973946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973946)
+- [Месяц свободного плавания после ФНС: 14 статей, 493 подписчика на канале и работа над ошибками](https://habr.com/ru/articles/973940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
