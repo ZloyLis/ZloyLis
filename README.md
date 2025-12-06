@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реактивная Архитектура: Пишем надежный Optimistic UI на чистом RxJS &lpar;Pattern Compensating Transaction&rpar;](https://habr.com/ru/articles/974068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974068)
+- [Связь без мобильной сети: как я развернул свою VoIP-телефонию на участке](https://habr.com/ru/articles/974066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974066)
 - [Как реализовать эффект, подобный Liquid Glass, на чистом CSS без JavaScript](https://habr.com/ru/articles/974058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974058)
 - [ИИ — на этот раз все будет по другому?](https://habr.com/ru/articles/974056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974056)
 - [Perplexity AI: что умеет ИИ от пересказа текста до генерации кода и бизнес-идей](https://habr.com/ru/companies/bothub/articles/970884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970884)
-- [Иерархия vs Массовые изобретатели](https://habr.com/ru/articles/974036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974036)
-- [Прокси для ленивых: поднимаем SOCKS5 поверх SSH, пока чайник закипает](https://habr.com/ru/articles/974040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
