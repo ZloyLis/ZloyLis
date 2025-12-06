@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бизнесы и их сайты пока не готовы к тому, что уже происходит с поисковой выдачей: AI SEO &lpar;GEO&rpar; как новая реальность](https://habr.com/ru/articles/973992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973992)
-- [Доллар как операционная система мира: почему текущая версия обречена на сбои](https://habr.com/ru/articles/973988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973988)
-- [Как бухгалтеру сводить дебет и кредит за минуты в Excel](https://habr.com/ru/articles/973990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973990)
-- [Как я создавал язык для преобразования данных вместе с ChatGPT](https://habr.com/ru/articles/964848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964848)
-- [OTXform — операциональное преобразование от теории к практике](https://habr.com/ru/articles/972638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972638)
+- [Flash был за пределами браузеров в нулевые, а мы и не знали. Как он использовался в DirectX играх](https://habr.com/ru/articles/974020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974020)
+- [Всё, что нужно знать о публикации в Google Play](https://habr.com/ru/articles/974016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974016)
+- [«Потерянные эпизоды» любимых сериалов в виде компьютерных игр](https://habr.com/ru/companies/timeweb/articles/963684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963684)
+- [Фриланс, агентство или инхаус? Почему 90% таргетологов выбирают не тот путь и выгорают](https://habr.com/ru/articles/973372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973372)
+- [Xilinx AXI DMA v7.1 &lpar;Simple Mode&rpar;](https://habr.com/ru/articles/974008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
