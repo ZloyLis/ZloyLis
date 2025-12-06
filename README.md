@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Чего нам стоит перевод фильма AI построить](https://habr.com/ru/articles/974080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974080)
-- [Подключение SD карты по SPI](https://habr.com/ru/articles/974076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974076)
+- [Подключение SD карты по SPI &lpar;Капсула памяти&rpar;](https://habr.com/ru/articles/974076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974076)
 - [Убийца многомировой интерпретации квантовой маханики](https://habr.com/ru/articles/972832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972832)
 - [Ландшафт робототехники в Казани](https://habr.com/ru/articles/974070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974070)
 - [[Перевод] Ouroboros — язык программирования почти без синтаксиса](https://habr.com/ru/articles/974074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974074)
