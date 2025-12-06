@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity AI: что умеет ИИ от пересказа текста до генерации кода и бизнес-идей](https://habr.com/ru/companies/bothub/articles/970884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970884)
+- [Иерархия vs Массовые изобретатели](https://habr.com/ru/articles/974036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974036)
+- [Прокси для ленивых: поднимаем SOCKS5 поверх SSH, пока чайник закипает](https://habr.com/ru/articles/974040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974040)
 - [Проблемно-ориентированная система на основе консольных JAVA приложений](https://habr.com/ru/articles/974038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974038)
 - [HackTheBox | Сезонное прохождение — Gavel](https://habr.com/ru/articles/974030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974030)
-- [Я ещё в 99 раз ускорил генерацию компонентов и свёл расходы к нулю, тёмная магию Perplexity Pro Spaces](https://habr.com/ru/articles/974026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974026)
-- [Flash был за пределами браузеров в нулевые, а мы и не знали. Как он использовался в DirectX играх](https://habr.com/ru/articles/974020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974020)
-- [Всё, что нужно знать о публикации в Google Play](https://habr.com/ru/articles/974016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
