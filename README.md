@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как замутить свой мини-Gmail и использовать его для своих рекламных рассылок](https://habr.com/ru/articles/973902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973902)
-- [[Перевод] Как Claude научился файн-тюнить опенсорсные LLM](https://habr.com/ru/articles/973898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973898)
-- [Случайность как следствие открытости систем и черного ящика](https://habr.com/ru/articles/973894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973894)
-- [«Перевёл — и тишина»: как решить социальную проблему переводов по номеру](https://habr.com/ru/articles/973890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973890)
-- [5 важных этапов развития эмоционального интеллекта для руководителя: полезные упражнения](https://habr.com/ru/articles/973888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973888)
+- [Интеграция LG VRF Multi V 2/3](https://habr.com/ru/articles/973916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973916)
+- [7 признаков того, что ваш мозг работает не так, как раньше](https://habr.com/ru/articles/973914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973914)
+- [Превращаем сайт в мобильное приложение за пару шагов. Часть 2](https://habr.com/ru/companies/selectel/articles/973874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973874)
+- [10 перспективных российских стартапов – ноябрь 2025 года](https://habr.com/ru/companies/productradar/articles/973906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973906)
+- [[Перевод] Польза психических заболеваний?](https://habr.com/ru/articles/973908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
