@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чего нам стоит перевод фильма AI построить](https://habr.com/ru/articles/974080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974080)
+- [Подключение SD карты по SPI](https://habr.com/ru/articles/974076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974076)
+- [Убийца многомировой интерпретации квантовой маханики](https://habr.com/ru/articles/972832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972832)
 - [Ландшафт робототехники в Казани](https://habr.com/ru/articles/974070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974070)
 - [[Перевод] Ouroboros — язык программирования почти без синтаксиса](https://habr.com/ru/articles/974074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974074)
-- [Объяснение алгоритма деления двухразрядных чисел по материалам Дональда Кнута](https://habr.com/ru/articles/974048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974048)
-- [Реактивная Архитектура: Пишем надежный Optimistic UI на чистом RxJS &lpar;Pattern Compensating Transaction&rpar;](https://habr.com/ru/articles/974068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974068)
-- [Связь без мобильной сети: как я развернул свою VoIP-телефонию на участке](https://habr.com/ru/articles/974066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
