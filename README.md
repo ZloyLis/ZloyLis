@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Технический обзор моделей DeepSeek от V3 до V3.2](https://habr.com/ru/articles/973954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973954)
-- [[Перевод] Исповедь взломщика: я проник в мозг Nano Banana и заставил её выдать все тайны](https://habr.com/ru/companies/bothub/articles/973950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973950)
-- [HP OmniBook XE3: брутальный ноутбук начала 2000-х с автономным CD-проигрывателем и хорошим звуком](https://habr.com/ru/articles/973944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973944)
-- [Как я случайно обнаружил баг в Авито и заработал 1000₽ &lpar;совершенно не специально&rpar;](https://habr.com/ru/articles/973946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973946)
-- [Месяц свободного плавания после ФНС: 14 статей, 493 подписчика на канале и работа над ошибками](https://habr.com/ru/articles/973940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973940)
+- [Должен ли продуктовый аналитик быть частью продуктовой команды?](https://habr.com/ru/articles/973970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973970)
+- [Эпические провалы, ставшие хитами: истории «плохих» мини-игр](https://habr.com/ru/companies/otus/articles/971420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971420)
+- [[Перевод] Конец эпохи паяльника или как гаражные энтузиасты случайно создали многомиллиардный бизнес](https://habr.com/ru/companies/selectel/articles/973878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973878)
+- [Создаём мини-фреймворк для MapReduce в Scala с конкретной реализацией](https://habr.com/ru/articles/966986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966986)
+- [TypeQL: SQL для аналитиков, который знает о данных всё](https://habr.com/ru/articles/973966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
