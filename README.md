@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как замутить свой мини-Gmail и использовать его для своих рекламных рассылок](https://habr.com/ru/articles/973902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973902)
+- [[Перевод] Как Claude научился файн-тюнить опенсорсные LLM](https://habr.com/ru/articles/973898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973898)
+- [Случайность как следствие открытости систем и черного ящика](https://habr.com/ru/articles/973894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973894)
 - [«Перевёл — и тишина»: как решить социальную проблему переводов по номеру](https://habr.com/ru/articles/973890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973890)
 - [5 важных этапов развития эмоционального интеллекта для руководителя: полезные упражнения](https://habr.com/ru/articles/973888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973888)
-- [Логотипы для Microsoft, Citi и Tiffany: кто такая Пола Шер и как создавались ее знаменитые работы](https://habr.com/ru/companies/onlinepatent/articles/973508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973508)
-- [Ученые создали полимер-хамелеон, меняющий цвет от прикосновения воды и спирта](https://habr.com/ru/articles/968610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968610)
-- [Установка n8n на сервер без терминала для самых маленьких](https://habr.com/ru/articles/973838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
