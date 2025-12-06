@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интеграция LG VRF Multi V 2/3](https://habr.com/ru/articles/973916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973916)
-- [7 признаков того, что ваш мозг работает не так, как раньше](https://habr.com/ru/articles/973914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973914)
-- [Превращаем сайт в мобильное приложение за пару шагов. Часть 2](https://habr.com/ru/companies/selectel/articles/973874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973874)
-- [10 перспективных российских стартапов – ноябрь 2025 года](https://habr.com/ru/companies/productradar/articles/973906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973906)
-- [[Перевод] Польза психических заболеваний?](https://habr.com/ru/articles/973908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973908)
+- [Стоит ли переживать, если копирайтер пользуется ИИ?](https://habr.com/ru/articles/973924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973924)
+- [Куда исчезают пользователи: современные фреймворки аналитики retention в 2025 году](https://habr.com/ru/articles/973922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973922)
+- [История дирижаблей. Часть 1: от монгольфьера к проекту бомбардировщика для Бородино](https://habr.com/ru/companies/ruvds/articles/973342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973342)
+- [Сетевой нейтралитет: как на интернет-рынке США разгорелись войны из-за ошибки длиною в 20 лет](https://habr.com/ru/companies/ru_mts/articles/973176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973176)
+- [Возможен ли неживой интеллект?](https://habr.com/ru/articles/973920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
