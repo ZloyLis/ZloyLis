@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблемно-ориентированная система на основе консольных JAVA приложений](https://habr.com/ru/articles/974038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974038)
+- [HackTheBox | Сезонное прохождение — Gavel](https://habr.com/ru/articles/974030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974030)
+- [Я ещё в 99 раз ускорил генерацию компонентов и свёл расходы к нулю, тёмная магию Perplexity Pro Spaces](https://habr.com/ru/articles/974026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974026)
 - [Flash был за пределами браузеров в нулевые, а мы и не знали. Как он использовался в DirectX играх](https://habr.com/ru/articles/974020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974020)
 - [Всё, что нужно знать о публикации в Google Play](https://habr.com/ru/articles/974016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974016)
-- [«Потерянные эпизоды» любимых сериалов в виде компьютерных игр](https://habr.com/ru/companies/timeweb/articles/963684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963684)
-- [Фриланс, агентство или инхаус? Почему 90% таргетологов выбирают не тот путь и выгорают](https://habr.com/ru/articles/973372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973372)
-- [Xilinx AXI DMA v7.1 &lpar;Simple Mode&rpar;](https://habr.com/ru/articles/974008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
