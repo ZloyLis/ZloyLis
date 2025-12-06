@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Перевёл — и тишина»: как решить социальную проблему переводов по номеру](https://habr.com/ru/articles/973890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973890)
+- [5 важных этапов развития эмоционального интеллекта для руководителя: полезные упражнения](https://habr.com/ru/articles/973888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973888)
+- [Логотипы для Microsoft, Citi и Tiffany: кто такая Пола Шер и как создавались ее знаменитые работы](https://habr.com/ru/companies/onlinepatent/articles/973508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973508)
 - [Ученые создали полимер-хамелеон, меняющий цвет от прикосновения воды и спирта](https://habr.com/ru/articles/968610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968610)
 - [Установка n8n на сервер без терминала для самых маленьких](https://habr.com/ru/articles/973838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973838)
-- [Различия BizDev- и Sales-ролей, и почему важно их знать и понимать](https://habr.com/ru/articles/973880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973880)
-- [От чертежей к реальности: как 3D-машинное зрение на ToF-камере научило робота брать двери с паллеты](https://habr.com/ru/articles/973032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973032)
-- [Архитектура без сервера &lpar;serverless&rpar;: проблемы, решения, практические рекомендации](https://habr.com/ru/articles/973548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
