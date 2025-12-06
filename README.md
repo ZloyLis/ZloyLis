@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как реализовать эффект, подобный Liquid Glass, на чистом CSS без JavaScript](https://habr.com/ru/articles/974058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974058)
+- [ИИ — на этот раз все будет по другому?](https://habr.com/ru/articles/974056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974056)
 - [Perplexity AI: что умеет ИИ от пересказа текста до генерации кода и бизнес-идей](https://habr.com/ru/companies/bothub/articles/970884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970884)
 - [Иерархия vs Массовые изобретатели](https://habr.com/ru/articles/974036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974036)
 - [Прокси для ленивых: поднимаем SOCKS5 поверх SSH, пока чайник закипает](https://habr.com/ru/articles/974040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974040)
-- [Проблемно-ориентированная система на основе консольных JAVA приложений](https://habr.com/ru/articles/974038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974038)
-- [HTB Season Gacha | Gavel — Полный путь от SQLi до root](https://habr.com/ru/articles/974030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
