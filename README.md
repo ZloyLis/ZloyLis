@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OTXform — операциональное преобразование от теории к практике](https://habr.com/ru/articles/972638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972638)
+- [Профессия, род деятельности ≠ призвание](https://habr.com/ru/companies/ruvds/articles/971716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971716)
+- [[Перевод] В качестве букв диска в Windows может использоваться не только латиница](https://habr.com/ru/articles/973976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973976)
+- [Begin /* Мартышка и ИИ](https://habr.com/ru/articles/973974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973974)
 - [Должен ли продуктовый аналитик быть частью продуктовой команды?](https://habr.com/ru/articles/973970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973970)
-- [Эпические провалы, ставшие хитами: истории «плохих» мини-игр](https://habr.com/ru/companies/otus/articles/971420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971420)
-- [[Перевод] Конец эпохи паяльника или как гаражные энтузиасты случайно создали многомиллиардный бизнес](https://habr.com/ru/companies/selectel/articles/973878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973878)
-- [Создаём мини-фреймворк для MapReduce в Scala с конкретной реализацией](https://habr.com/ru/articles/966986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966986)
-- [TypeQL: SQL для аналитиков, который знает о данных всё](https://habr.com/ru/articles/973966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
