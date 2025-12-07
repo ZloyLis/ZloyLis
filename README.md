@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать код в два счёта: впрягаем Codex с GPT](https://habr.com/ru/articles/974268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974268)
 - [Иллюзия 95%: гайд по самой частой элементарной ошибке в Data Science](https://habr.com/ru/articles/974186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974186)
 - [Спасти Европу от самой себя…](https://habr.com/ru/articles/974252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974252)
 - [Опыт использования нейросетей в практике врача терапевта](https://habr.com/ru/articles/974240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974240)
 - [Самописный SDR для спутника RS44](https://habr.com/ru/articles/974054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974054)
-- [7 кВт, четыре года и миллион штрафов](https://habr.com/ru/articles/974234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
