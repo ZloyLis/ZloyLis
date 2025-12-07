@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я создал стартап на 150 млн$*](https://habr.com/ru/articles/974104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974104)
+- [Как ИИ-скрипт парализовал ИТ-инфраструктуру](https://habr.com/ru/articles/974102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974102)
 - [Математика боя: ученый из МФТИ построил модель современных военных действий](https://habr.com/ru/articles/974014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974014)
 - [Статичный сайт на webpack5 с svg sprite](https://habr.com/ru/articles/974098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974098)
 - [Архитектура дизайн-токенов: подход, который спасает от хаоса и сохраняет нервы](https://habr.com/ru/articles/974094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974094)
-- [Proactive Latency Control — как упреждающее управление задержкой делает LEO-сети стабильнее](https://habr.com/ru/articles/974092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974092)
-- [Claude Opus 4.5: как Anthropic сделала флагманскую модель в 3 раза дешевле и при этом умнее](https://habr.com/ru/articles/974086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
