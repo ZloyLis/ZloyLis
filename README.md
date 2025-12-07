@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я создал стартап на 150 млн$*](https://habr.com/ru/articles/974104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974104)
-- [Как ИИ-скрипт парализовал ИТ-инфраструктуру](https://habr.com/ru/articles/974102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974102)
-- [Математика боя: ученый из МФТИ построил модель современных военных действий](https://habr.com/ru/articles/974014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974014)
-- [Статичный сайт на webpack5 с svg sprite](https://habr.com/ru/articles/974098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974098)
-- [Архитектура дизайн-токенов: подход, который спасает от хаоса и сохраняет нервы](https://habr.com/ru/articles/974094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974094)
+- [Как в мою ИТ-жизнь вернулся теннис и что он мне дает сейчас](https://habr.com/ru/companies/ru_mts/articles/973374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973374)
+- [[Перевод] Как я поднял свой email-сервер с Mailcow](https://habr.com/ru/articles/974114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974114)
+- [Пишем HTTP-сервер на php и сокетах](https://habr.com/ru/articles/974112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974112)
+- [Protobuf как контракт: spec‑first валидация с protoc‑gen‑validate](https://habr.com/ru/articles/974072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974072)
+- [Смартфоны негативно влияют на успеваемость ученика. Правда?](https://habr.com/ru/articles/974110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
