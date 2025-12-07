@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Proactive Latency Control — как упреждающее управление задержкой делает LEO-сети стабильнее](https://habr.com/ru/articles/974092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974092)
+- [Claude Opus 4.5: как Anthropic сделала флагманскую модель в 3 раза дешевле и при этом умнее](https://habr.com/ru/articles/974086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974086)
 - [Чего нам стоит перевод фильма AI построить](https://habr.com/ru/articles/974080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974080)
 - [Подключение SD карты по SPI &lpar;Капсула памяти&rpar;](https://habr.com/ru/articles/974076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974076)
 - [Убийца многомировой интерпретации квантовой маханики](https://habr.com/ru/articles/972832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972832)
-- [Ландшафт робототехники в Казани](https://habr.com/ru/articles/974070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974070)
-- [[Перевод] Ouroboros — язык программирования почти без синтаксиса](https://habr.com/ru/articles/974074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
