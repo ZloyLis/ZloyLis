@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как написать код в два счёта: впрягаем Codex с GPT](https://habr.com/ru/articles/974268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974268)
-- [Иллюзия 95%: гайд по самой частой элементарной ошибке в Data Science](https://habr.com/ru/articles/974186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974186)
-- [Спасти Европу от самой себя…](https://habr.com/ru/articles/974252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974252)
-- [Опыт использования нейросетей в практике врача терапевта](https://habr.com/ru/articles/974240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974240)
-- [Самописный SDR для спутника RS44](https://habr.com/ru/articles/974054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974054)
+- [Семантический ритуал: как я извлекаю смысл из документов](https://habr.com/ru/articles/974286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974286)
+- [Искусственный интеллект без иллюзий: как не сжечь бюджет компании на хайпе &lpar;Часть 2&rpar;](https://habr.com/ru/articles/974288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974288)
+- [Насколько полезны объяснения кода от SourceCraft?](https://habr.com/ru/articles/974284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974284)
+- [Когда ТЗ перестаёт быть фикцией: практический путь к отделу системного анализа](https://habr.com/ru/articles/974272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974272)
+- [Структуры данных в C++](https://habr.com/ru/articles/974274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
