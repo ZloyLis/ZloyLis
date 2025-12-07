@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Изоморфные схемы](https://habr.com/ru/articles/974028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974028)
-- [Kubernetes с GPU в WSL за вечер: рабочий кластер на Windows](https://habr.com/ru/articles/974144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974144)
-- [Ортодоксально Каноническая Прошивка &lpar;ОКФП&rpar;](https://habr.com/ru/articles/974152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974152)
-- [Обзор препринтов научных статей в области астрофизики за ноябрь 2025 года](https://habr.com/ru/articles/974160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974160)
-- [Шаблон проектирования Buffer](https://habr.com/ru/articles/974156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974156)
+- [Дайджест игровых новостей на 7 декабря: «Похудение» Helldivers 2, Зимняя распродажа, релиз Routine и др](https://habr.com/ru/companies/plati/articles/974174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974174)
+- [Я задолбался читать про АИ](https://habr.com/ru/articles/974176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974176)
+- [[Перевод] «Мне стало жутко»: Писательница задала ChatGPT один вопрос и пожалела об этом](https://habr.com/ru/companies/bothub/articles/974166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974166)
+- [Миска рис и русский авось](https://habr.com/ru/articles/974138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974138)
+- [Программатор ROM на Arduino за вечер](https://habr.com/ru/articles/974162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
