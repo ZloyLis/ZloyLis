@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как в мою ИТ-жизнь вернулся теннис и что он мне дает сейчас](https://habr.com/ru/companies/ru_mts/articles/973374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973374)
-- [[Перевод] Как я поднял свой email-сервер с Mailcow](https://habr.com/ru/articles/974114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974114)
-- [Пишем HTTP-сервер на php и сокетах](https://habr.com/ru/articles/974112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974112)
-- [Protobuf как контракт: spec‑first валидация с protoc‑gen‑validate](https://habr.com/ru/articles/974072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974072)
-- [Смартфоны негативно влияют на успеваемость ученика. Правда?](https://habr.com/ru/articles/974110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974110)
+- [Пагинация в PostgreSQL: ROW_NUMBER убивает производительность](https://habr.com/ru/articles/974126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974126)
+- [Создание браузерного расширения с native messaging на C#](https://habr.com/ru/articles/974124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974124)
+- [[Перевод] Как работают современные браузеры. Часть 1](https://habr.com/ru/companies/timeweb/articles/969508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969508)
+- [Настройка VPS своими руками: Docker + Nginx + SSL](https://habr.com/ru/companies/amvera/articles/974118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974118)
+- [Автоматизация обновления компонентов АРМ на рабочих станциях](https://habr.com/ru/articles/974120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
