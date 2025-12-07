@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Циолковский, Ньютон и Эйлер в расчете полета ракеты методом структурного моделирования для самых маленьких](https://habr.com/ru/articles/972994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972994)
+- [Эволюция подходов к написанию корутин от Си до С++20. Часть 3. Использование сопрограмм при обработке событий в Linux](https://habr.com/ru/articles/971078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971078)
+- [Эволюция Telegram-бота: От скрипта на коленке до асинхронной системы управления кластером &lpar;v1.13&rpar;](https://habr.com/ru/articles/974290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974290)
 - [Семантический ритуал: как я извлекаю смысл из документов](https://habr.com/ru/articles/974286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974286)
 - [Искусственный интеллект без иллюзий: как не сжечь бюджет компании на хайпе &lpar;Часть 2&rpar;](https://habr.com/ru/articles/974288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974288)
-- [Насколько полезны объяснения кода от SourceCraft?](https://habr.com/ru/articles/974284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974284)
-- [Когда ТЗ перестаёт быть фикцией: практический путь к отделу системного анализа](https://habr.com/ru/articles/974272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974272)
-- [Структуры данных в C++](https://habr.com/ru/articles/974274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
