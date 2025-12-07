@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Спасти Европу от самой себя…](https://habr.com/ru/articles/974252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974252)
 - [Опыт использования нейросетей в практике врача терапевта](https://habr.com/ru/articles/974240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974240)
 - [Самописный SDR для спутника RS44](https://habr.com/ru/articles/974054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974054)
 - [7 кВт, четыре года и миллион штрафов](https://habr.com/ru/articles/974234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974234)
 - [Радар для прослушки телефона с трёх метров](https://habr.com/ru/companies/globalsign/articles/974230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974230)
-- [Direct2D #5. Продолжение темы геометрии ID2D1Geometry и дочерние классы](https://habr.com/ru/articles/972098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
