@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изоморфные схемы](https://habr.com/ru/articles/974028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974028)
+- [Kubernetes с GPU в WSL за вечер: рабочий кластер на Windows](https://habr.com/ru/articles/974144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974144)
+- [Ортодоксально Каноническая Прошивка &lpar;ОКФП&rpar;](https://habr.com/ru/articles/974152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974152)
+- [Обзор препринтов научных статей в области астрофизики за ноябрь 2025 года](https://habr.com/ru/articles/974160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974160)
 - [Шаблон проектирования Buffer](https://habr.com/ru/articles/974156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974156)
-- [Hugging Face Skills: AI агенты теперь сами обучают LLM](https://habr.com/ru/articles/974148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974148)
-- [Эйджизм в IT: бороться нельзя скрывать](https://habr.com/ru/articles/974146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974146)
-- [Как через Яндекс Маркет пиратские лицензии продают](https://habr.com/ru/articles/971104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971104)
-- [[Перевод] Несколько анекдотичных эпизодов из моей юности и ранней карьеры](https://habr.com/ru/companies/ruvds/articles/973492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
