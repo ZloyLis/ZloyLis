@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шаблон проектирования Buffer](https://habr.com/ru/articles/974156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974156)
+- [Hugging Face Skills: AI агенты теперь сами обучают LLM](https://habr.com/ru/articles/974148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974148)
 - [Эйджизм в IT: бороться нельзя скрывать](https://habr.com/ru/articles/974146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974146)
 - [Как через Яндекс Маркет пиратские лицензии продают](https://habr.com/ru/articles/971104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971104)
 - [[Перевод] Несколько анекдотичных эпизодов из моей юности и ранней карьеры](https://habr.com/ru/companies/ruvds/articles/973492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973492)
-- [Userbot + ИИ: За гранью парсинга, как Telegram-юзербот и нейросеть помогают искать тренды и боли](https://habr.com/ru/articles/973884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973884)
-- [Реальный кейс настройки Pod Autoscaling в k8s с точки зрения разработчика](https://habr.com/ru/articles/973936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
