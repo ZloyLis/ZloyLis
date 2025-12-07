@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пагинация в PostgreSQL: ROW_NUMBER убивает производительность](https://habr.com/ru/articles/974126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974126)
-- [Создание браузерного расширения с native messaging на C#](https://habr.com/ru/articles/974124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974124)
-- [[Перевод] Как работают современные браузеры. Часть 1](https://habr.com/ru/companies/timeweb/articles/969508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969508)
-- [Настройка VPS своими руками: Docker + Nginx + SSL](https://habr.com/ru/companies/amvera/articles/974118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974118)
-- [Автоматизация обновления компонентов АРМ на рабочих станциях](https://habr.com/ru/articles/974120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974120)
+- [Эйджизм в IT: бороться нельзя скрывать](https://habr.com/ru/articles/974146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974146)
+- [Как через Яндекс Маркет пиратские лицензии продают](https://habr.com/ru/articles/971104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971104)
+- [[Перевод] Несколько анекдотичных эпизодов из моей юности и ранней карьеры](https://habr.com/ru/companies/ruvds/articles/973492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973492)
+- [Userbot + ИИ: За гранью парсинга, как Telegram-юзербот и нейросеть помогают искать тренды и боли](https://habr.com/ru/articles/973884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973884)
+- [Реальный кейс настройки Pod Autoscaling в k8s с точки зрения разработчика](https://habr.com/ru/articles/973936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
