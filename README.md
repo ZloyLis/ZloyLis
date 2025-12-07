@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Последние советские экспедиции на станцию «Мир» — ЭО-9 и ЭО-10](https://habr.com/ru/articles/974140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974140)
-- [Bug Bounty Минцифры: как найти критическую уязвимость и получить дырку от бублика в награду](https://habr.com/ru/articles/974184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974184)
-- [«Спекки» в XXI веке: как я обзавёлся ZX Evolution, и что из этого вышло](https://habr.com/ru/companies/ruvds/articles/971994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971994)
-- [Теоремы Гёделя, Тьюринга и Хайтина – доказательства неалгоритмичности Вселенной и неполноты физических теорий?](https://habr.com/ru/articles/974180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974180)
-- [Дайджест игровых новостей на 7 декабря: «Похудение» Helldivers 2, Зимняя распродажа, релиз Routine и др](https://habr.com/ru/companies/plati/articles/974174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974174)
+- [Олимпиады — всё?](https://habr.com/ru/articles/974214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974214)
+- [Как LLM-вендоры обращаются с вашими данными: подробный разбор безопасности и конфиденциальности](https://habr.com/ru/companies/pt/articles/973402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973402)
+- [Open source-стратегии: кейс OpenIDE и специализированного консорциума компаний Haulmont, Axiom JDK и Группы Астра](https://habr.com/ru/articles/974208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974208)
+- [GUCA: эволюция на графах &lpar;«Живые графы» 2.0&rpar;](https://habr.com/ru/articles/971440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971440)
+- [Обзор на Gemini 3 Pro](https://habr.com/ru/companies/bothub/articles/974210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
