@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Funxy — гибридный язык программирования со статической типизацией](https://habr.com/ru/articles/974674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974674)
+- [Как исключить «глупые» ошибки у программного обеспечения будущего? Создать выбор](https://habr.com/ru/articles/974672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974672)
+- [Мой Thinkpad X220. Апгрейды и Coreboot-ы. Часть 1 — Апгрейды](https://habr.com/ru/articles/974010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974010)
+- [Как же лень работать рутинку в AD](https://habr.com/ru/articles/974662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974662)
 - [joerl :: довёл до рабочей версии](https://habr.com/ru/articles/974660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974660)
-- [Это другое. Python нашел замалчивание в поэзии Беллы Ахмадулиной](https://habr.com/ru/articles/974658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974658)
-- [[Перевод] Что нового в PyCharm 2025.3](https://habr.com/ru/articles/974656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974656)
-- [[Перевод] Что нового в WebStorm 2025.3](https://habr.com/ru/articles/974648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974648)
-- [[Перевод] Автоматизация CI/CD: «замораживаем развёртывания» в GitLab](https://habr.com/ru/companies/otus/articles/972162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
