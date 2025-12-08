@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Роскомнадзор пытается заблокировать ВСЁ, а также красный уровень тревожности в OpenAI](https://habr.com/ru/articles/974192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974192)
-- [Теневая сторона ИБ в промышленности: расследование влияния на АСУ ТП](https://habr.com/ru/articles/974084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974084)
-- [Отправка уведомлений в MAX по номеру телефона](https://habr.com/ru/articles/974314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974314)
-- [Как стартап с суперсилой для родителей не смог и почему даже «святые» идеи нужно проверять](https://habr.com/ru/articles/974296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974296)
-- [Логический компас для искусственного интеллекта](https://habr.com/ru/articles/969326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969326)
+- [Стриминг логов Kafka в Elasticsearch с визуализацией в Kibana](https://habr.com/ru/companies/simbirsoft/articles/972108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972108)
+- [[Перевод] Мы заглянули в «мозг» нейросети и поняли, почему она не способна предсказывать будущее](https://habr.com/ru/companies/bothub/articles/974348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974348)
+- [Анализ оценки проекта с помощью искусственного интеллекта: как выявлять ошибки до начала проекта](https://habr.com/ru/articles/974338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974338)
+- [SQL HowTo: «запекаем» шаг рекурсии &lpar;Advent of Code 2025, Day 4: Printing Department&rpar;](https://habr.com/ru/companies/tensor/articles/974190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974190)
+- [Национальный приоритет – качественное образование в сфере БАС](https://habr.com/ru/articles/974342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
