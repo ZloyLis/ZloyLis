@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор пытается заблокировать ВСЁ, а также красный уровень тревожности в OpenAI](https://habr.com/ru/articles/974192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974192)
+- [Теневая сторона ИБ в промышленности: расследование влияния на АСУ ТП](https://habr.com/ru/articles/974084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974084)
 - [Отправка уведомлений в MAX по номеру телефона](https://habr.com/ru/articles/974314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974314)
 - [Как стартап с суперсилой для родителей не смог и почему даже «святые» идеи нужно проверять](https://habr.com/ru/articles/974296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974296)
 - [Логический компас для искусственного интеллекта](https://habr.com/ru/articles/969326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969326)
-- [Фактчекинг за $0.09: GPT-5-mini + Perplexity sonar-pro в продакшене](https://habr.com/ru/articles/974308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974308)
-- [Метод установки якоря — как победить прокрастинацию одним словом](https://habr.com/ru/articles/974306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
