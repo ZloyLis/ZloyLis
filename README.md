@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Гибридный подход к контексту: как сделать LLM-агентов быстрее и дешевле](https://habr.com/ru/articles/973410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973410)
-- [Видеокодек AV2 готов. Почему нам важны открытые стандарты](https://habr.com/ru/companies/ruvds/articles/970584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970584)
-- [Сигналы тревоги: как заметить выгорание раньше, чем сотрудники начнут дымиться](https://habr.com/ru/companies/oleg-bunin/articles/964080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964080)
-- [Умная линза за $1,35 млрд: почему инвесторы так полюбили стартап Xpanceo](https://habr.com/ru/articles/973846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973846)
-- [GigaMemory на AI Journey Contest 2025: итоги](https://habr.com/ru/companies/sberbank/articles/974310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974310)
+- [Правда о железнодорожных тормозах: часть 7 — электродинамическое торможение](https://habr.com/ru/articles/970720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970720)
+- [Солнечные панели для ЦОДа выгоднее, чем АЭС](https://habr.com/ru/companies/ultravds/articles/972894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972894)
+- [Векторный поиск: как выбрать систему и не пожалеть](https://habr.com/ru/companies/tensor/articles/970480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970480)
+- [Долги и расчленёнка, или Как я арт-директором поработал](https://habr.com/ru/articles/973562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973562)
+- [[Перевод] Прогресс разработки TypeScript 7: что уже работает и чего ждать](https://habr.com/ru/articles/973424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
