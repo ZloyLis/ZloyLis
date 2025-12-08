@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как установить и настроить N8N на своем сервере VPS &lpar;в связке с Portainer и Nginx Proxy Manager&rpar;](https://habr.com/ru/articles/974534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974534)
-- [Организация работы VR-клуба: Техника и Инфраструктура](https://habr.com/ru/articles/974526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974526)
-- [Как оплатить Perplexity из России легально и без лишних сложностей](https://habr.com/ru/companies/ggsel/articles/974524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974524)
-- [[Перевод] Почему хорошие разработчики пишут плохой код в больших компаниях](https://habr.com/ru/companies/ruvds/articles/974452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974452)
-- [Лучшие системы управления и автоматизации офисов: как сохранить бюджет и обрести контроль](https://habr.com/ru/articles/974432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974432)
+- [React vs Vue: Что выбрать в 2026?](https://habr.com/ru/companies/itfb/articles/974554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974554)
+- [[Перевод] Помогите, мой Java-объект исчез &lpar;и GC тут ни при чём&rpar;](https://habr.com/ru/companies/spring_aio/articles/973214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973214)
+- [Модель САУ ЛА по лучу в среде математического моделирования Engee](https://habr.com/ru/articles/974550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974550)
+- [Метафизика, космопсихизм и перводвигатель: есть ли сознание у камней?](https://habr.com/ru/articles/973108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973108)
+- [Я запретил инженерам думать, маркетологам — креативить, а управленцам — фантазировать. И стал топ на Озон](https://habr.com/ru/articles/974518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
