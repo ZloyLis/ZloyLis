@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Работаем быстро, храним экономно: в деталях о механизме охлаждения для Tarantool DB 3.0](https://habr.com/ru/companies/vktech/articles/973738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973738)
-- [Все, что вы хотели знать, но боялись спросить про Kubernetes + KubeVirt vs. Среда виртуализации + Kubernetes](https://habr.com/ru/companies/orion_soft/articles/974458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974458)
-- [Торренты и пиратство в разных странах](https://habr.com/ru/companies/amnezia/articles/974456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974456)
-- [CRM в мемах: смешно, хоть плачь](https://habr.com/ru/companies/regionsoft/articles/974454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974454)
-- [Изоляция контекста через субагенты: архитектурный паттерн для долгосрочной работы с Claude Code](https://habr.com/ru/articles/974448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974448)
+- [Выбор российского ETL-инструмента в 2025 и чек-лист](https://habr.com/ru/articles/974502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974502)
+- [Приоритизация ICE: что это и как её применять](https://habr.com/ru/companies/otpbank/articles/973182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973182)
+- [Практикум: как создать ведомость отделки помещений в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/974496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974496)
+- [Почему Америка?](https://habr.com/ru/articles/974494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974494)
+- [Кому на Рунете жить хорошо: ТОП/АНТИ-ТОП уязвимостей ноября](https://habr.com/ru/articles/974490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
