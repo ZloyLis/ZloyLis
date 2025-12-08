@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие AI‑плагины для Figma и Photoshop: дизайн нового уровня](https://habr.com/ru/companies/bothub/articles/974676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974676)
 - [Funxy — гибридный язык программирования со статической типизацией](https://habr.com/ru/articles/974674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974674)
 - [Как исключить «глупые» ошибки у программного обеспечения будущего? Создать выбор](https://habr.com/ru/articles/974672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974672)
 - [Мой Thinkpad X220. Апгрейды и Coreboot-ы. Часть 1 — Апгрейды](https://habr.com/ru/articles/974010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974010)
 - [Как же лень работать рутинку в AD](https://habr.com/ru/articles/974662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974662)
-- [joerl :: довёл до рабочей версии](https://habr.com/ru/articles/974660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
