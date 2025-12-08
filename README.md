@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы за два месяца построили платформу для клонирования голоса: 12 проблем, mass-рефакторинги в 3 ночи и mass-фейлы](https://habr.com/ru/articles/974582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974582)
+- [Почерк LLM: аналитики F6 изучили атаку с использованием PureCrypter и DarkTrack RAT](https://habr.com/ru/companies/F6/articles/974578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974578)
+- [Почему кассовый фронт на 1С плохое решение](https://habr.com/ru/articles/974576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974576)
+- [[Перевод] Что нового в GoLand 2025.3](https://habr.com/ru/articles/974572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974572)
 - [React vs Vue: Что выбрать в 2026?](https://habr.com/ru/companies/itfb/articles/974554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974554)
-- [[Перевод] Помогите, мой Java-объект исчез &lpar;и GC тут ни при чём&rpar;](https://habr.com/ru/companies/spring_aio/articles/973214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973214)
-- [Модель САУ ЛА по лучу в среде математического моделирования Engee](https://habr.com/ru/articles/974550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974550)
-- [Метафизика, космопсихизм и перводвигатель: есть ли сознание у камней?](https://habr.com/ru/articles/973108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973108)
-- [Я запретил инженерам думать, маркетологам — креативить, а управленцам — фантазировать. И стал топ на Озон](https://habr.com/ru/articles/974518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
