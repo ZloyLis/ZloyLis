@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Путешествие токена: что конкретно происходит внутри трансформера](https://habr.com/ru/companies/wunderfund/articles/974300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974300)
-- [Отправляем СМС через USB-модем Olax](https://habr.com/ru/articles/974398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974398)
-- [От хаоса к системе: почему дисциплина начинается с вас, а не с ваших менеджеров](https://habr.com/ru/articles/974396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974396)
-- [Вторичный рынок номеров: почему покупка новой SIM-карты — это лотерея с безопасностью &lpar;кейс Tele2&rpar;](https://habr.com/ru/articles/974392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974392)
-- [Недельный геймдев: #255 — 7 декабря, 2025](https://habr.com/ru/articles/974390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974390)
+- [[Перевод] Гибридный подход к контексту: как сделать LLM-агентов быстрее и дешевле](https://habr.com/ru/articles/973410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973410)
+- [Видеокодек AV2 готов. Почему нам важны открытые стандарты](https://habr.com/ru/companies/ruvds/articles/970584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970584)
+- [Сигналы тревоги: как заметить выгорание раньше, чем сотрудники начнут дымиться](https://habr.com/ru/companies/oleg-bunin/articles/964080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964080)
+- [Умная линза за $1,35 млрд: почему инвесторы так полюбили стартап Xpanceo](https://habr.com/ru/articles/973846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973846)
+- [GigaMemory на AI Journey Contest 2025: итоги](https://habr.com/ru/companies/sberbank/articles/974310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
