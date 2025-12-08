@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Правда о железнодорожных тормозах: часть 7 — электродинамическое торможение](https://habr.com/ru/articles/970720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970720)
-- [Солнечные панели для ЦОДа выгоднее, чем АЭС](https://habr.com/ru/companies/ultravds/articles/972894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972894)
-- [Векторный поиск: как выбрать систему и не пожалеть](https://habr.com/ru/companies/tensor/articles/970480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970480)
-- [Долги и расчленёнка, или Как я арт-директором поработал](https://habr.com/ru/articles/973562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973562)
-- [[Перевод] Прогресс разработки TypeScript 7: что уже работает и чего ждать](https://habr.com/ru/articles/973424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973424)
+- [Работаем быстро, храним экономно: в деталях о механизме охлаждения для Tarantool DB 3.0](https://habr.com/ru/companies/vktech/articles/973738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973738)
+- [Все, что вы хотели знать, но боялись спросить про Kubernetes + KubeVirt vs. Среда виртуализации + Kubernetes](https://habr.com/ru/companies/orion_soft/articles/974458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974458)
+- [Торренты и пиратство в разных странах](https://habr.com/ru/companies/amnezia/articles/974456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974456)
+- [CRM в мемах: смешно, хоть плачь](https://habr.com/ru/companies/regionsoft/articles/974454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974454)
+- [Изоляция контекста через субагенты: архитектурный паттерн для долгосрочной работы с Claude Code](https://habr.com/ru/articles/974448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
