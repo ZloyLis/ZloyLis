@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Выбор российского ETL-инструмента в 2025 и чек-лист](https://habr.com/ru/articles/974502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974502)
-- [Приоритизация ICE: что это и как её применять](https://habr.com/ru/companies/otpbank/articles/973182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973182)
-- [Практикум: как создать ведомость отделки помещений в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/974496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974496)
-- [Почему Америка?](https://habr.com/ru/articles/974494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974494)
-- [Кому на Рунете жить хорошо: ТОП/АНТИ-ТОП уязвимостей ноября](https://habr.com/ru/articles/974490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974490)
+- [Как установить и настроить N8N на своем сервере VPS &lpar;в связке с Portainer и Nginx Proxy Manager&rpar;](https://habr.com/ru/articles/974534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974534)
+- [Организация работы VR-клуба: Техника и Инфраструктура](https://habr.com/ru/articles/974526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974526)
+- [Как оплатить Perplexity из России легально и без лишних сложностей](https://habr.com/ru/companies/ggsel/articles/974524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974524)
+- [[Перевод] Почему хорошие разработчики пишут плохой код в больших компаниях](https://habr.com/ru/companies/ruvds/articles/974452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974452)
+- [Лучшие системы управления и автоматизации офисов: как сохранить бюджет и обрести контроль](https://habr.com/ru/articles/974432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
