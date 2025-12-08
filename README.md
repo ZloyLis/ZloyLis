@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Стриминг логов Kafka в Elasticsearch с визуализацией в Kibana](https://habr.com/ru/companies/simbirsoft/articles/972108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972108)
-- [[Перевод] Мы заглянули в «мозг» нейросети и поняли, почему она не способна предсказывать будущее](https://habr.com/ru/companies/bothub/articles/974348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974348)
-- [Анализ оценки проекта с помощью искусственного интеллекта: как выявлять ошибки до начала проекта](https://habr.com/ru/articles/974338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974338)
-- [SQL HowTo: «запекаем» шаг рекурсии &lpar;Advent of Code 2025, Day 4: Printing Department&rpar;](https://habr.com/ru/companies/tensor/articles/974190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974190)
-- [Национальный приоритет – качественное образование в сфере БАС](https://habr.com/ru/articles/974342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974342)
+- [Галлюцинации ИИ — это не баг, а фича разработчика. Почему вайб-кодинг не заменит программистов](https://habr.com/ru/articles/974264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974264)
+- [История контактных линз и то, как я сам стал “линзариком”. Часть 1](https://habr.com/ru/companies/beget/articles/973678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973678)
+- [Разговор о том, как сделать интеграцию умнее: опыт, грабли и рабочие подходы](https://habr.com/ru/articles/974262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974262)
+- [Почему заказная разработка превращается в лотерею — и что с этим делать](https://habr.com/ru/articles/974232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974232)
+- [Создаем шахматы с «туманом войны» на JavaScript: от идеи до работающего прототипа](https://habr.com/ru/companies/ruvds/articles/967956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
