@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Галлюцинации ИИ — это не баг, а фича разработчика. Почему вайб-кодинг не заменит программистов](https://habr.com/ru/articles/974264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974264)
-- [История контактных линз и то, как я сам стал “линзариком”. Часть 1](https://habr.com/ru/companies/beget/articles/973678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973678)
-- [Разговор о том, как сделать интеграцию умнее: опыт, грабли и рабочие подходы](https://habr.com/ru/articles/974262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974262)
-- [Почему заказная разработка превращается в лотерею — и что с этим делать](https://habr.com/ru/articles/974232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974232)
-- [Создаем шахматы с «туманом войны» на JavaScript: от идеи до работающего прототипа](https://habr.com/ru/companies/ruvds/articles/967956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967956)
+- [[Перевод] Путешествие токена: что конкретно происходит внутри трансформера](https://habr.com/ru/companies/wunderfund/articles/974300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974300)
+- [Отправляем СМС через USB-модем Olax](https://habr.com/ru/articles/974398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974398)
+- [От хаоса к системе: почему дисциплина начинается с вас, а не с ваших менеджеров](https://habr.com/ru/articles/974396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974396)
+- [Вторичный рынок номеров: почему покупка новой SIM-карты — это лотерея с безопасностью &lpar;кейс Tele2&rpar;](https://habr.com/ru/articles/974392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974392)
+- [Недельный геймдев: #255 — 7 декабря, 2025](https://habr.com/ru/articles/974390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
