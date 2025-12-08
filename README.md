@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Запуск x64 программ на ARM или почему вы не захотите этим заниматься](https://habr.com/ru/articles/974608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974608)
-- [Security Week 2550: критическая уязвимость в React Server Components](https://habr.com/ru/companies/kaspersky/articles/974462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974462)
-- [Фронтенд-ревью без боли: наш опыт перехода в GitLab](https://habr.com/ru/companies/cloud_ru/articles/974542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974542)
-- [Мои книги по Search &amp;amp; Recsys](https://habr.com/ru/articles/974598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974598)
-- [Зарядка Essager 80W – когда 80 Вт незаметно оказываются 10 Вт](https://habr.com/ru/articles/974596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974596)
+- [Как я сделал 3Д-визуализацию интерьера бесплатно &lpar;почти&rpar;](https://habr.com/ru/articles/974630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974630)
+- [Рейтинг ИИ-моделей с учетом правомерности их использования в России](https://habr.com/ru/articles/974618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974618)
+- [Requestum 1.2.5: теги, политики устойчивости и встроенное логирование](https://habr.com/ru/articles/974616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974616)
+- [Ответ на «безумный эксперимент» по запуску GTA 5 на Pentium 4](https://habr.com/ru/articles/974168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974168)
+- [Король, Дракон и Кролики: аллегория о тотальной оптимизации и конце маркетплейсов](https://habr.com/ru/articles/974446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
