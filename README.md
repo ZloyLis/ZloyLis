@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отправка уведомлений в MAX по номеру телефона](https://habr.com/ru/articles/974314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974314)
+- [Как стартап с суперсилой для родителей не смог и почему даже «святые» идеи нужно проверять](https://habr.com/ru/articles/974296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974296)
+- [Логический компас для искусственного интеллекта](https://habr.com/ru/articles/969326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969326)
 - [Фактчекинг за $0.09: GPT-5-mini + Perplexity sonar-pro в продакшене](https://habr.com/ru/articles/974308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974308)
 - [Метод установки якоря — как победить прокрастинацию одним словом](https://habr.com/ru/articles/974306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974306)
-- [Циолковский, Ньютон и Эйлер в расчете полета ракеты методом структурного моделирования для самых маленьких](https://habr.com/ru/articles/972994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972994)
-- [Эволюция подходов к написанию корутин от Си до С++20. Часть 3. Использование сопрограмм при обработке событий в Linux](https://habr.com/ru/articles/971078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971078)
-- [Эволюция Telegram-бота: От скрипта на коленке до асинхронной системы управления кластером &lpar;v1.13&rpar;](https://habr.com/ru/articles/974290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
