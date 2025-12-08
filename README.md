@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нового в PyCharm 2025.3](https://habr.com/ru/articles/974656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974656)
+- [[Перевод] Что нового в WebStorm 2025.3](https://habr.com/ru/articles/974648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974648)
+- [[Перевод] Автоматизация CI/CD: «замораживаем развёртывания» в GitLab](https://habr.com/ru/companies/otus/articles/972162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972162)
 - [Как я сделал 3Д-визуализацию интерьера бесплатно &lpar;почти&rpar;](https://habr.com/ru/articles/974630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974630)
 - [Рейтинг ИИ-моделей с учетом правомерности их использования в России](https://habr.com/ru/articles/974618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974618)
-- [Requestum 1.2.5: теги, политики устойчивости и встроенное логирование](https://habr.com/ru/articles/974616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974616)
-- [Ответ на «безумный эксперимент» по запуску GTA 5 на Pentium 4](https://habr.com/ru/articles/974168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974168)
-- [Король, Дракон и Кролики: аллегория о тотальной оптимизации и конце маркетплейсов](https://habr.com/ru/articles/974446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
