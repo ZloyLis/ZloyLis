@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как стартапу не быть съеденным: стратегия выживания против техногигантов](https://habr.com/ru/companies/onlinepatent/articles/974746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974746)
-- [Автоматизировали расчет зарплаты для сети из 40+ кофеен, где много нюансов в работе сотрудников](https://habr.com/ru/companies/w_code/articles/974744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974744)
-- [Свод знаний ITIL для управления ИТ-услугами в ERP-проектах](https://habr.com/ru/articles/974724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974724)
-- [Как Rust думает о памяти: &amp;amp;mut, provenance и noalias](https://habr.com/ru/companies/beget/articles/974090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974090)
-- [Почему заменить ОЗУ в СХД Huawei Dorado проще, чем контроллер](https://habr.com/ru/companies/lanit/articles/964974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964974)
+- [GPT-5 vs Claude Opus 4.5 vs Gemini 3 Pro: битва reasoning-моделей. Кто победил в 2025?](https://habr.com/ru/companies/bothub/articles/974740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974740)
+- [Квантовая механика виртуальной Вселенной &lpar;Часть I&rpar;](https://habr.com/ru/articles/974788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974788)
+- [Из шахты в космос: как земные горные технологии помогают освоению Луны и Марса](https://habr.com/ru/companies/gazprombank/articles/971360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971360)
+- [Система планирования в Obsidian: структура из 5 шаблонов с автоматическими связями](https://habr.com/ru/articles/974136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974136)
+- [MDM/EMM/UEM или десять лет спустя](https://habr.com/ru/companies/samsung/articles/974510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
