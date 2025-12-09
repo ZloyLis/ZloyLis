@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа для цифровизации мероприятий, виджет для сбора правок на сайтах — и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/974560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974560)
+- [Дежавю на 3 триллиона: Хроники потерянного капитала от доткомов до ИИ](https://habr.com/ru/articles/974690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974690)
+- [Автоматизация лабораторных процессов: почему внедрение ЛИМС превращается в проблему еще на старте](https://habr.com/ru/articles/974696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974696)
 - [Физики изучили невидимый парный танец плазменных частиц](https://habr.com/ru/articles/969356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969356)
 - [Лучшие AI‑плагины для Figma и Photoshop: дизайн нового уровня](https://habr.com/ru/companies/bothub/articles/974676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974676)
-- [Funxy — гибридный язык программирования со статической типизацией](https://habr.com/ru/articles/974674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974674)
-- [Как исключить «глупые» ошибки у программного обеспечения будущего? Создать выбор](https://habr.com/ru/articles/974672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974672)
-- [Мой Thinkpad X220. Апгрейды и Coreboot-ы. Часть 1 — Апгрейды](https://habr.com/ru/articles/974010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
