@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Спорт, мозг и депрессия: инструкция для тех, у кого нет сил](https://habr.com/ru/articles/975066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975066)
+- [Сравниваем инструменты для нагрузочного тестирования](https://habr.com/ru/companies/otus/articles/968668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968668)
 - [9 лет эволюции занятий робототехники в моей детской школе](https://habr.com/ru/articles/975054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975054)
 - [Почему вайб-кодинг не работает](https://habr.com/ru/articles/975044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975044)
 - [Универсальный газодинамический резонатор для генерации излучения в ТГц и ИК диапазонах](https://habr.com/ru/articles/975030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975030)
-- [Медленно, мокро, но захватывающе: Записки с регаты Фастнет 2019](https://habr.com/ru/articles/975034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975034)
-- [Два притопа, три прихлопа](https://habr.com/ru/articles/975032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
