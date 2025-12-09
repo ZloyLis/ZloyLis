@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Краткий гайд: как создать и анимировать своего AI-двойника под любой формат видео](https://habr.com/ru/articles/974668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974668)
+- [Миграция демо-проекта на Spring Boot 4, Spring 7.0, JDK 25](https://habr.com/ru/articles/974962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974962)
+- [Все о налогах и льготах для ИТ-бизнеса в 2026 году: от НДС до «Сколково»](https://habr.com/ru/articles/974960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974960)
+- [Подрядчик обманывал нас на миллионы на заводе, но мы разоблачили его с помощью ИИ](https://habr.com/ru/companies/sibur_official/articles/974840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974840)
 - [[Перевод] Ждёт ли OpenAI спасения от государства?](https://habr.com/ru/articles/974956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974956)
-- [«Квантовая фотография: как аналоговая эмульсия вычисляет волновую функцию»](https://habr.com/ru/articles/974948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974948)
-- [Элегантный OSDev: Пишем ядро ОС на modern C++ без макросов. Часть 3: Аппаратный HAL и Прерывания](https://habr.com/ru/articles/974890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974890)
-- [Парсинг выдачи, анализ конкурентов и семантики: наш реальный подход без «магических» скриптов](https://habr.com/ru/articles/974942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974942)
-- [Ассемблер для гоферов. Часть 1](https://habr.com/ru/companies/ruvds/articles/973808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
