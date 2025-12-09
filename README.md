@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5 vs Claude Opus 4.5 vs Gemini 3 Pro: битва reasoning-моделей. Кто победил в 2025?](https://habr.com/ru/companies/bothub/articles/974740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974740)
-- [Квантовая механика виртуальной Вселенной &lpar;Часть I&rpar;](https://habr.com/ru/articles/974788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974788)
-- [Из шахты в космос: как земные горные технологии помогают освоению Луны и Марса](https://habr.com/ru/companies/gazprombank/articles/971360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971360)
-- [Система планирования в Obsidian: структура из 5 шаблонов с автоматическими связями](https://habr.com/ru/articles/974136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974136)
-- [MDM/EMM/UEM или десять лет спустя](https://habr.com/ru/companies/samsung/articles/974510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974510)
+- [Решаем 11 проблем, которые тормозят любой проект — быстро и бесплатно](https://habr.com/ru/companies/yougile/articles/974804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974804)
+- [Код пишет нейросеть. Что остается разработчику?](https://habr.com/ru/articles/974754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974754)
+- [Генеративный ИИ, информационная безопасность и управление сервисом на 100%: тренды ITSM / ESM-2026](https://habr.com/ru/companies/directum/articles/974812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974812)
+- [0-day-джекпот: как мы нашли четыре критические дыры в SSO и ждали патчей](https://habr.com/ru/companies/bastion/articles/973758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973758)
+- [Новый тренд лидерства: побеждает тот, кто лучше помогает ИИ](https://habr.com/ru/articles/974810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
