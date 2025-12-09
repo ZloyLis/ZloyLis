@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Решаем 11 проблем, которые тормозят любой проект — быстро и бесплатно](https://habr.com/ru/companies/yougile/articles/974804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974804)
-- [Код пишет нейросеть. Что остается разработчику?](https://habr.com/ru/articles/974754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974754)
-- [Генеративный ИИ, информационная безопасность и управление сервисом на 100%: тренды ITSM / ESM-2026](https://habr.com/ru/companies/directum/articles/974812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974812)
-- [0-day-джекпот: как мы нашли четыре критические дыры в SSO и ждали патчей](https://habr.com/ru/companies/bastion/articles/973758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973758)
-- [Новый тренд лидерства: побеждает тот, кто лучше помогает ИИ](https://habr.com/ru/articles/974810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974810)
+- [Создание ИИ-персон и User Stories для улучшения UX](https://habr.com/ru/articles/974860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974860)
+- [Технические причины недоступности контента для ботов нейросетей](https://habr.com/ru/articles/974858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974858)
+- [Большая манипуляция: как нейросети стравили HR и кандидатов](https://habr.com/ru/articles/974736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974736)
+- [Гид по Git — глазами бывшего джуна](https://habr.com/ru/companies/surfstudio/articles/973304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973304)
+- [«Работает — не трогай», но с YDB можно: испытания отказоустойчивости в боевых условиях](https://habr.com/ru/companies/jetinfosystems/articles/974850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
