@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как настроить прием SNMP-трапов в Zabbix](https://habr.com/ru/articles/970710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970710)
-- [Не спешите выкидывать Webpack: разбор альтернатив и реальных сценариев миграции](https://habr.com/ru/companies/runity/articles/974916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974916)
-- [Как я подружил Wildberries с n8n: создаем простейшего ИИ-агента для селлера. Реальный кейс автоматизации](https://habr.com/ru/companies/datafeel/articles/974194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974194)
-- [Локальный Rebase в 1С:EDT. Просто о сложном](https://habr.com/ru/articles/974914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974914)
-- [Я установил k3s на Arch, чтобы вам не пришлось](https://habr.com/ru/articles/974910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974910)
+- [[Перевод] Ждёт ли OpenAI спасения от государства?](https://habr.com/ru/articles/974956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974956)
+- [«Квантовая фотография: как аналоговая эмульсия вычисляет волновую функцию»](https://habr.com/ru/articles/974948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974948)
+- [Элегантный OSDev: Пишем ядро ОС на modern C++ без макросов. Часть 3: Аппаратный HAL и Прерывания](https://habr.com/ru/articles/974890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974890)
+- [Парсинг выдачи, анализ конкурентов и семантики: наш реальный подход без «магических» скриптов](https://habr.com/ru/articles/974942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974942)
+- [Ассемблер для гоферов. Часть 1](https://habr.com/ru/companies/ruvds/articles/973808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
