@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Платформа для цифровизации мероприятий, виджет для сбора правок на сайтах — и ещё 8 российских стартапов](https://habr.com/ru/companies/productradar/articles/974560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974560)
-- [Дежавю на 3 триллиона: Хроники потерянного капитала от доткомов до ИИ](https://habr.com/ru/articles/974690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974690)
-- [Автоматизация лабораторных процессов: почему внедрение ЛИМС превращается в проблему еще на старте](https://habr.com/ru/articles/974696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974696)
-- [Физики изучили невидимый парный танец плазменных частиц](https://habr.com/ru/articles/969356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969356)
-- [Лучшие AI‑плагины для Figma и Photoshop: дизайн нового уровня](https://habr.com/ru/companies/bothub/articles/974676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974676)
+- [Грааль, Екклесиаст и навязчивый мотив](https://habr.com/ru/articles/974172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974172)
+- [[Перевод] Хотите, чтобы ваш текст выглядел живым? Перестаньте делать эти 5 вещей, которые выдают ChatGPT](https://habr.com/ru/companies/bothub/articles/974714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974714)
+- [Как новичку найти работу в информационной безопасности](https://habr.com/ru/companies/yandex_praktikum/articles/973582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973582)
+- [Раз-два-три tmux: запускаем несколько окон одним скриптом](https://habr.com/ru/companies/otus/articles/971098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971098)
+- [Изучаем английские слова в контексте, выпуск 1](https://habr.com/ru/articles/974694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
