@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Медленно, мокро, но захватывающе: Записки с регаты Фастнет 2019](https://habr.com/ru/articles/975034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975034)
+- [Два притопа, три прихлопа](https://habr.com/ru/articles/975032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975032)
 - [Проектируем как синьор: универсальная бинаризация](https://habr.com/ru/articles/975020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975020)
 - [Не используйте pipe operator в PHP 8.5, пока не узнали все нюансы](https://habr.com/ru/articles/975010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975010)
 - [Как продавать промышленное оборудование в кризис](https://habr.com/ru/articles/975006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975006)
-- [Нейросетевая модель интересов пользователя: как мы улучшили разнообразие и релевантность рекомендаций на главной Авито](https://habr.com/ru/companies/avito/articles/974682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974682)
-- [[Перевод] Генетическая первопричина психических заболеваний?](https://habr.com/ru/articles/974994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
