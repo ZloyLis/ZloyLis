@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создание ИИ-персон и User Stories для улучшения UX](https://habr.com/ru/articles/974860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974860)
-- [Технические причины недоступности контента для ботов нейросетей](https://habr.com/ru/articles/974858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974858)
-- [Большая манипуляция: как нейросети стравили HR и кандидатов](https://habr.com/ru/articles/974736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974736)
-- [Гид по Git — глазами бывшего джуна](https://habr.com/ru/companies/surfstudio/articles/973304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973304)
-- [«Работает — не трогай», но с YDB можно: испытания отказоустойчивости в боевых условиях](https://habr.com/ru/companies/jetinfosystems/articles/974850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974850)
+- [Системный инженер или разработчик: что выбрать в 2026 году](https://habr.com/ru/companies/netologyru/articles/973684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973684)
+- [[Перевод] Почему Erlang до сих пор король отказоустойчивых систем](https://habr.com/ru/companies/otus/articles/974876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974876)
+- [Как мы ловим баги в условиях отсутствия предпрода](https://habr.com/ru/companies/centicore_group/articles/974530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974530)
+- [Как мы превратили скучное тестирование в захватывающее развлечение](https://habr.com/ru/articles/974710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974710)
+- [Что случилось с ценами на оперативную память?](https://habr.com/ru/companies/x-com/articles/974866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
