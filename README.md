@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Системный инженер или разработчик: что выбрать в 2026 году](https://habr.com/ru/companies/netologyru/articles/973684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973684)
-- [[Перевод] Почему Erlang до сих пор король отказоустойчивых систем](https://habr.com/ru/companies/otus/articles/974876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974876)
-- [Как мы ловим баги в условиях отсутствия предпрода](https://habr.com/ru/companies/centicore_group/articles/974530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974530)
-- [Как мы превратили скучное тестирование в захватывающее развлечение](https://habr.com/ru/articles/974710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974710)
-- [Что случилось с ценами на оперативную память?](https://habr.com/ru/companies/x-com/articles/974866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974866)
+- [[Перевод] Как настроить прием SNMP-трапов в Zabbix](https://habr.com/ru/articles/970710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970710)
+- [Не спешите выкидывать Webpack: разбор альтернатив и реальных сценариев миграции](https://habr.com/ru/companies/runity/articles/974916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974916)
+- [Как я подружил Wildberries с n8n: создаем простейшего ИИ-агента для селлера. Реальный кейс автоматизации](https://habr.com/ru/companies/datafeel/articles/974194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974194)
+- [Локальный Rebase в 1С:EDT. Просто о сложном](https://habr.com/ru/articles/974914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974914)
+- [Я установил k3s на Arch, чтобы вам не пришлось](https://habr.com/ru/articles/974910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
