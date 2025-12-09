@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [9 лет эволюции занятий робототехники в моей детской школе](https://habr.com/ru/articles/975054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975054)
+- [Почему вайб-кодинг не работает](https://habr.com/ru/articles/975044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975044)
+- [Универсальный газодинамический резонатор для генерации излучения в ТГц и ИК диапазонах](https://habr.com/ru/articles/975030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975030)
 - [Медленно, мокро, но захватывающе: Записки с регаты Фастнет 2019](https://habr.com/ru/articles/975034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975034)
 - [Два притопа, три прихлопа](https://habr.com/ru/articles/975032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975032)
-- [Проектируем как синьор: универсальная бинаризация](https://habr.com/ru/articles/975020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975020)
-- [Не используйте pipe operator в PHP 8.5, пока не узнали все нюансы](https://habr.com/ru/articles/975010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975010)
-- [Как продавать промышленное оборудование в кризис](https://habr.com/ru/articles/975006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
