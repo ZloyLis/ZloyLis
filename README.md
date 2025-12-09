@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Грааль, Екклесиаст и навязчивый мотив](https://habr.com/ru/articles/974172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974172)
-- [[Перевод] Хотите, чтобы ваш текст выглядел живым? Перестаньте делать эти 5 вещей, которые выдают ChatGPT](https://habr.com/ru/companies/bothub/articles/974714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974714)
-- [Как новичку найти работу в информационной безопасности](https://habr.com/ru/companies/yandex_praktikum/articles/973582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973582)
-- [Раз-два-три tmux: запускаем несколько окон одним скриптом](https://habr.com/ru/companies/otus/articles/971098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971098)
-- [Изучаем английские слова в контексте, выпуск 1](https://habr.com/ru/articles/974694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974694)
+- [Как стартапу не быть съеденным: стратегия выживания против техногигантов](https://habr.com/ru/companies/onlinepatent/articles/974746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974746)
+- [Автоматизировали расчет зарплаты для сети из 40+ кофеен, где много нюансов в работе сотрудников](https://habr.com/ru/companies/w_code/articles/974744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974744)
+- [Свод знаний ITIL для управления ИТ-услугами в ERP-проектах](https://habr.com/ru/articles/974724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974724)
+- [Как Rust думает о памяти: &amp;amp;mut, provenance и noalias](https://habr.com/ru/companies/beget/articles/974090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974090)
+- [Почему заменить ОЗУ в СХД Huawei Dorado проще, чем контроллер](https://habr.com/ru/companies/lanit/articles/964974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
