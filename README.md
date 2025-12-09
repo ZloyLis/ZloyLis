@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Краткий гайд: как создать и анимировать своего AI-двойника под любой формат видео](https://habr.com/ru/articles/974668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974668)
-- [Миграция демо-проекта на Spring Boot 4, Spring 7.0, JDK 25](https://habr.com/ru/articles/974962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974962)
-- [Все о налогах и льготах для ИТ-бизнеса в 2026 году: от НДС до «Сколково»](https://habr.com/ru/articles/974960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974960)
-- [Подрядчик обманывал нас на миллионы на заводе, но мы разоблачили его с помощью ИИ](https://habr.com/ru/companies/sibur_official/articles/974840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974840)
-- [[Перевод] Ждёт ли OpenAI спасения от государства?](https://habr.com/ru/articles/974956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974956)
+- [Нейросетевая модель интересов пользователя: как мы улучшили разнообразие и релевантность рекомендаций на главной Авито](https://habr.com/ru/companies/avito/articles/974682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974682)
+- [[Перевод] Генетическая первопричина психических заболеваний?](https://habr.com/ru/articles/974994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974994)
+- [Создание корпоративной Базы Знаний для внедрения ИИ-инструментов](https://habr.com/ru/articles/974992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974992)
+- [Мой сервер прислал мне письмо: пора менять диск в RAID](https://habr.com/ru/articles/974990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974990)
+- [SFINAE в C++](https://habr.com/ru/companies/otus/articles/971354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
