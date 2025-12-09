@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не используйте pipe operator в PHP 8.5, пока не узнали все нюансы](https://habr.com/ru/articles/975010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975010)
+- [Как продавать промышленное оборудование в кризис](https://habr.com/ru/articles/975006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975006)
 - [Нейросетевая модель интересов пользователя: как мы улучшили разнообразие и релевантность рекомендаций на главной Авито](https://habr.com/ru/companies/avito/articles/974682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974682)
 - [[Перевод] Генетическая первопричина психических заболеваний?](https://habr.com/ru/articles/974994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974994)
 - [Создание корпоративной Базы Знаний для внедрения ИИ-инструментов](https://habr.com/ru/articles/974992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974992)
-- [Мой сервер прислал мне письмо: пора менять диск в RAID](https://habr.com/ru/articles/974990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974990)
-- [SFINAE в C++](https://habr.com/ru/companies/otus/articles/971354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
