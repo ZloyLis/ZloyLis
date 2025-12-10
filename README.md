@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нейросети в каждом маркетинговом инструменте: как AI изменил привычные сервисы в 2025 году](https://habr.com/ru/articles/975380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975380)
-- [Flutter MethodChannel: как подружить Dart с нативным Android &lpar;и iOS&rpar;](https://habr.com/ru/companies/otus/articles/970094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970094)
-- [Внутри оркестратора: 5-фазная структура воркеров, meta-agent-v3 и Skills Library](https://habr.com/ru/articles/975376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975376)
-- [BareMetal CI Part 2: Docker-контейнер для быстрого развёртывания CI/CD стенда для embedded-систем](https://habr.com/ru/articles/975362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975362)
-- [Топ-7 нейросетей для создания инфографики: от данных до наглядных диаграмм](https://habr.com/ru/companies/bothub/articles/974024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974024)
+- [ECS with Sectors &lpar;ECSS&rpar; — структура памяти в моей ECS](https://habr.com/ru/articles/974666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974666)
+- [Раньше было лучше – причины саботажа сотрудников при внедрении](https://habr.com/ru/companies/korus_consulting/articles/975418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975418)
+- [Сравнение агентских IDE для разработки с ИИ](https://habr.com/ru/articles/975414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975414)
+- [История Нового года: галопом по Европам и не только](https://habr.com/ru/companies/habr/articles/975046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975046)
+- [Расшифруйте, пожалуйста, мои анализы](https://habr.com/ru/articles/975220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
