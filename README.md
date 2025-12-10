@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От опыта с магнитами до радиоэлектроники будущего: как спор о природе электричества определил современный мир](https://habr.com/ru/articles/975454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975454)
 - [Япония продаёт гигантского робота за 3 миллиона долларов и я разобрался, как он устроен](https://habr.com/ru/articles/975442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975442)
 - [LED лампы и теория заговора](https://habr.com/ru/articles/973438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973438)
 - [Тренды поискового продвижения на 2026 год: обзор мнений SEO-экспертов](https://habr.com/ru/articles/975430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975430)
 - [[Перевод] Hibernate Validator 9.1: самый мощный апгрейд за последние годы](https://habr.com/ru/companies/spring_aio/articles/975422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975422)
-- [ECS with Sectors &lpar;ECSS&rpar; — структура памяти в моей ECS](https://habr.com/ru/articles/974666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
