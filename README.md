@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Специальный таймер для серии докладов](https://habr.com/ru/articles/973276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973276)
+- [Укрощение квантового хаоса: луч лазера управляет состоянием поляритонов](https://habr.com/ru/articles/969362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969362)
+- [[Перевод] Между инсулином и инсультом. Как кишечник помогает в борьбе с диабетом, и есть ли у этого риски?](https://habr.com/ru/articles/975098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975098)
 - [Самообучение против курсов для ребенка. В чём сила, брат?](https://habr.com/ru/articles/975096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975096)
 - [XXXX-XX-XX — день рождения компьютерной мыши](https://habr.com/ru/articles/975086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975086)
-- [От «обезьяньей» работы к Smart-анализу: как выполнить предобработку данных для моделей](https://habr.com/ru/articles/975082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975082)
-- [Спорт, мозг и депрессия: инструкция для тех, у кого нет сил](https://habr.com/ru/articles/975066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975066)
-- [Сравниваем инструменты для нагрузочного тестирования](https://habr.com/ru/companies/otus/articles/968668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
