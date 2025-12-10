@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark Driven Development: почему мы перестали верить чужим бенчмаркам](https://habr.com/ru/articles/975188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975188)
-- [LangGraph + Cursor CLI + MCP для автоматической генерации документации: кейс из BI-аналитики](https://habr.com/ru/articles/975178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975178)
-- [Глазам не всё равно: что скрывается за жжением и покраснением](https://habr.com/ru/companies/smclinic/articles/975174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975174)
-- [КПМ 32/16 «Кировец» — электрический монстр времен СССР](https://habr.com/ru/companies/timeweb/articles/973982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973982)
-- [Методы массивов. Часть 1](https://habr.com/ru/companies/selectel/articles/974322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974322)
+- [Android-смартфон как веб-камера под Linux](https://habr.com/ru/articles/974984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974984)
+- [Нет времени объяснять — это БАЗА: чек-лист защиты корпоративной инфраструктуры](https://habr.com/ru/articles/974900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974900)
+- [Чего ждать от Steam Deck 2](https://habr.com/ru/companies/ggsel/articles/975216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975216)
+- [Создание своего ядра на C. Часть 2](https://habr.com/ru/articles/975158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975158)
+- [Темная история IPv6: почему мы 30 лет «переходим», но так и не перешли](https://habr.com/ru/companies/ruvds/articles/973876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
