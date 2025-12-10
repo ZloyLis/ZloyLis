@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мир интернета вещей, людей и всего](https://habr.com/ru/articles/975142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975142)
-- [Увольте своих программистов. Или спросите их…](https://habr.com/ru/articles/975140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975140)
-- [Запуск WPF-приложений в Docker: Экспериментальный подход с Wine](https://habr.com/ru/articles/975138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975138)
-- [Как выбрать шрифты для веба: разговор с дизайнером шрифтов](https://habr.com/ru/companies/beget/articles/974918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974918)
-- [Не Кафкой единой: как наладить асинхронный обмен сообщениями между микросервисами](https://habr.com/ru/companies/yandex/articles/974946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974946)
+- [Benchmark Driven Development: почему мы перестали верить чужим бенчмаркам](https://habr.com/ru/articles/975188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975188)
+- [LangGraph + Cursor CLI + MCP для автоматической генерации документации: кейс из BI-аналитики](https://habr.com/ru/articles/975178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975178)
+- [Глазам не всё равно: что скрывается за жжением и покраснением](https://habr.com/ru/companies/smclinic/articles/975174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975174)
+- [КПМ 32/16 «Кировец» — электрический монстр времен СССР](https://habr.com/ru/companies/timeweb/articles/973982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973982)
+- [Методы массивов. Часть 1](https://habr.com/ru/companies/selectel/articles/974322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
