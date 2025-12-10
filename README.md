@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Специальный таймер для серии докладов](https://habr.com/ru/articles/973276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973276)
-- [Укрощение квантового хаоса: луч лазера управляет состоянием поляритонов](https://habr.com/ru/articles/969362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969362)
-- [[Перевод] Между инсулином и инсультом. Как кишечник помогает в борьбе с диабетом, и есть ли у этого риски?](https://habr.com/ru/articles/975098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975098)
-- [Самообучение против курсов для ребенка. В чём сила, брат?](https://habr.com/ru/articles/975096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975096)
-- [XXXX-XX-XX — день рождения компьютерной мыши](https://habr.com/ru/articles/975086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975086)
+- [Python + Fortran: Когда numpy уже мало, а C++ ещё страшно. Ускоряем код в 150 раз](https://habr.com/ru/articles/975052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975052)
+- [[Перевод] Решение головоломки NYTimes Pips с помощью решателя ограничений](https://habr.com/ru/companies/otus/articles/975004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975004)
+- [Мне надоело расти по грейдам в Яндексе — я выбрала Ереван, Тбилиси и жизнь в пути. Как начинается цифровое кочевничество](https://habr.com/ru/articles/975126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975126)
+- [Как паблишеру измерить эффективность programmatic-рекламы](https://habr.com/ru/articles/974998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974998)
+- [SwooleApp: Легковесный фреймворк для Swoole — разбираем пример приложения](https://habr.com/ru/articles/975080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
