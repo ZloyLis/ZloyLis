@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кванты, поля и мнимая сингулярность: к физике несвязанных процессов](https://habr.com/ru/articles/975490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975490)
 - [Как сделать индивидуальный проект с помощью нейросети: ТОП-10 ИИ для создания итоговых работ](https://habr.com/ru/companies/kemp_ai/articles/975484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975484)
 - [.NET C# и RabbitMQ Streams: превратить кролика в Kafka легко, нужно всего лишь…](https://habr.com/ru/articles/974952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974952)
 - [Как квантовать LLM. Практическое руководство для начинающих](https://habr.com/ru/articles/975468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975468)
 - [Машина времени: Что предлагалось дарить детям на Рождество в США в 1980 году](https://habr.com/ru/companies/hostkey/articles/975408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975408)
-- [Накопитель размером с монету и скоростью флагмана: подборка свежих IT-новостей №2](https://habr.com/ru/articles/975466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
