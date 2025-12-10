@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как устроены воздушные дороги в небе](https://habr.com/ru/articles/974474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974474)
-- [[Перевод] Почему я не стремлюсь к вниманию руководства, работая Staff Engineer в Google](https://habr.com/ru/articles/975164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975164)
-- [Архитектура ИТ решений. Часть 7. Графический язык моделирования ArchiMate. 7.2. Продолжение](https://habr.com/ru/articles/975300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975300)
-- [SSR на Rust](https://habr.com/ru/articles/975340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975340)
-- [«Тебя скоро разоблачат и уволят». Как заставить синдром самозванца работать на себя](https://habr.com/ru/companies/ru_mts/articles/975022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975022)
+- [BareMetal CI Part 2: Docker-контейнер для быстрого развёртывания CI/CD стенда для embedded-систем](https://habr.com/ru/articles/975362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975362)
+- [Топ-7 нейросетей для создания инфографики: от данных до наглядных диаграмм](https://habr.com/ru/companies/bothub/articles/974024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974024)
+- [Экономика Computer Vision-проектов: от стоимости данных до ROI модели](https://habr.com/ru/articles/975360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975360)
+- [Как мы построили IT-support, который экономит сотрудникам более 4 000 часов в месяц и не требует большого бюджета](https://habr.com/ru/companies/flowwow/articles/975334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975334)
+- [Безопасность детей в Roblox](https://habr.com/ru/companies/pm/articles/975240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
