@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Япония продаёт гигантского робота за 3 миллиона долларов и я разобрался, как он устроен](https://habr.com/ru/articles/975442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975442)
+- [LED лампы и теория заговора](https://habr.com/ru/articles/973438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973438)
+- [Тренды поискового продвижения на 2026 год: обзор мнений SEO-экспертов](https://habr.com/ru/articles/975430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975430)
+- [[Перевод] Hibernate Validator 9.1: самый мощный апгрейд за последние годы](https://habr.com/ru/companies/spring_aio/articles/975422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975422)
 - [ECS with Sectors &lpar;ECSS&rpar; — структура памяти в моей ECS](https://habr.com/ru/articles/974666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974666)
-- [Раньше было лучше – причины саботажа сотрудников при внедрении](https://habr.com/ru/companies/korus_consulting/articles/975418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975418)
-- [Сравнение агентских IDE для разработки с ИИ](https://habr.com/ru/articles/975414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975414)
-- [История Нового года: галопом по Европам и не только](https://habr.com/ru/companies/habr/articles/975046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975046)
-- [Расшифруйте, пожалуйста, мои анализы](https://habr.com/ru/articles/975220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
