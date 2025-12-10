@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросети в каждом маркетинговом инструменте: как AI изменил привычные сервисы в 2025 году](https://habr.com/ru/articles/975380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975380)
+- [Flutter MethodChannel: как подружить Dart с нативным Android &lpar;и iOS&rpar;](https://habr.com/ru/companies/otus/articles/970094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970094)
+- [Внутри оркестратора: 5-фазная структура воркеров, meta-agent-v3 и Skills Library](https://habr.com/ru/articles/975376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975376)
 - [BareMetal CI Part 2: Docker-контейнер для быстрого развёртывания CI/CD стенда для embedded-систем](https://habr.com/ru/articles/975362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975362)
 - [Топ-7 нейросетей для создания инфографики: от данных до наглядных диаграмм](https://habr.com/ru/companies/bothub/articles/974024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974024)
-- [Экономика Computer Vision-проектов: от стоимости данных до ROI модели](https://habr.com/ru/articles/975360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975360)
-- [Как мы построили IT-support, который экономит сотрудникам более 4 000 часов в месяц и не требует большого бюджета](https://habr.com/ru/companies/flowwow/articles/975334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975334)
-- [Безопасность детей в Roblox](https://habr.com/ru/companies/pm/articles/975240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
