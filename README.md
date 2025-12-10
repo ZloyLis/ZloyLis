@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Android-смартфон как веб-камера под Linux](https://habr.com/ru/articles/974984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974984)
-- [Нет времени объяснять — это БАЗА: чек-лист защиты корпоративной инфраструктуры](https://habr.com/ru/articles/974900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974900)
-- [Чего ждать от Steam Deck 2](https://habr.com/ru/companies/ggsel/articles/975216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975216)
-- [Создание своего ядра на C. Часть 2](https://habr.com/ru/articles/975158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975158)
-- [Темная история IPv6: почему мы 30 лет «переходим», но так и не перешли](https://habr.com/ru/companies/ruvds/articles/973876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973876)
+- [Фильтры для сокращения проектов в кризис: наша система приоритетов](https://habr.com/ru/companies/beeline_cloud/articles/975264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975264)
+- [Поиск работы в Telegram: как автоматизировать рутину с помощью JobStalker](https://habr.com/ru/articles/975272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975272)
+- [Valve разогревает геймеров: Steam Frame, Steam Machine и новый геймпад на подходе](https://habr.com/ru/companies/mvideo/articles/975268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975268)
+- [Когда теория проигрывает практике: почему ROW_NUMBER&lpar;&rpar; не стал королём пагинации PostgreSQL](https://habr.com/ru/articles/975266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975266)
+- [Что выбрать новичку для домашнего веб-сервера: Nginx, Caddy или Apache](https://habr.com/ru/companies/ultravds/articles/972902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
