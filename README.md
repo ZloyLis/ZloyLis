@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Фильтры для сокращения проектов в кризис: наша система приоритетов](https://habr.com/ru/companies/beeline_cloud/articles/975264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975264)
-- [Поиск работы в Telegram: как автоматизировать рутину с помощью JobStalker](https://habr.com/ru/articles/975272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975272)
-- [Valve разогревает геймеров: Steam Frame, Steam Machine и новый геймпад на подходе](https://habr.com/ru/companies/mvideo/articles/975268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975268)
-- [Когда теория проигрывает практике: почему ROW_NUMBER&lpar;&rpar; не стал королём пагинации PostgreSQL](https://habr.com/ru/articles/975266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975266)
-- [Что выбрать новичку для домашнего веб-сервера: Nginx, Caddy или Apache](https://habr.com/ru/companies/ultravds/articles/972902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972902)
+- [Анатомия DeFi-эксплойтов 2023-2024: технический разбор уязвимостей с точки зрения аудитора](https://habr.com/ru/articles/975322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975322)
+- [Экспорт Gerber файлов и файлов сверловки Excellon из Sprint Layout 6.0](https://habr.com/ru/companies/electroconnect/articles/975310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975310)
+- [FinOps для международных компаний: как считать затраты на облака в разных странах](https://habr.com/ru/companies/finops_ru/articles/975308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975308)
+- [Self-hosted связь со своей семьей](https://habr.com/ru/articles/975304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975304)
+- [Делегировать рутину, а не ответственность: как ИИ-автоматизация проникает в управление проектами](https://habr.com/ru/companies/kaiten/articles/974472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
