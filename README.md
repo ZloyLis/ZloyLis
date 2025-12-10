@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самообучение против курсов для ребенка. В чём сила, брат?](https://habr.com/ru/articles/975096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975096)
 - [XXXX-XX-XX — день рождения компьютерной мыши](https://habr.com/ru/articles/975086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975086)
 - [От «обезьяньей» работы к Smart-анализу: как выполнить предобработку данных для моделей](https://habr.com/ru/articles/975082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975082)
 - [Спорт, мозг и депрессия: инструкция для тех, у кого нет сил](https://habr.com/ru/articles/975066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975066)
 - [Сравниваем инструменты для нагрузочного тестирования](https://habr.com/ru/companies/otus/articles/968668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968668)
-- [9 лет эволюции занятий робототехники в моей детской школе](https://habr.com/ru/articles/975054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
