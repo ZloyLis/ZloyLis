@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Анатомия DeFi-эксплойтов 2023-2024: технический разбор уязвимостей с точки зрения аудитора](https://habr.com/ru/articles/975322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975322)
-- [Экспорт Gerber файлов и файлов сверловки Excellon из Sprint Layout 6.0](https://habr.com/ru/companies/electroconnect/articles/975310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975310)
-- [FinOps для международных компаний: как считать затраты на облака в разных странах](https://habr.com/ru/companies/finops_ru/articles/975308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975308)
-- [Self-hosted связь со своей семьей](https://habr.com/ru/articles/975304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975304)
-- [Делегировать рутину, а не ответственность: как ИИ-автоматизация проникает в управление проектами](https://habr.com/ru/companies/kaiten/articles/974472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974472)
+- [Как устроены воздушные дороги в небе](https://habr.com/ru/articles/974474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974474)
+- [[Перевод] Почему я не стремлюсь к вниманию руководства, работая Staff Engineer в Google](https://habr.com/ru/articles/975164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975164)
+- [Архитектура ИТ решений. Часть 7. Графический язык моделирования ArchiMate. 7.2. Продолжение](https://habr.com/ru/articles/975300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975300)
+- [SSR на Rust](https://habr.com/ru/articles/975340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975340)
+- [«Тебя скоро разоблачат и уволят». Как заставить синдром самозванца работать на себя](https://habr.com/ru/companies/ru_mts/articles/975022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
