@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python + Fortran: Когда numpy уже мало, а C++ ещё страшно. Ускоряем код в 150 раз](https://habr.com/ru/articles/975052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975052)
-- [[Перевод] Решение головоломки NYTimes Pips с помощью решателя ограничений](https://habr.com/ru/companies/otus/articles/975004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975004)
-- [Мне надоело расти по грейдам в Яндексе — я выбрала Ереван, Тбилиси и жизнь в пути. Как начинается цифровое кочевничество](https://habr.com/ru/articles/975126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975126)
-- [Как паблишеру измерить эффективность programmatic-рекламы](https://habr.com/ru/articles/974998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974998)
-- [SwooleApp: Легковесный фреймворк для Swoole — разбираем пример приложения](https://habr.com/ru/articles/975080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975080)
+- [Мир интернета вещей, людей и всего](https://habr.com/ru/articles/975142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975142)
+- [Увольте своих программистов. Или спросите их…](https://habr.com/ru/articles/975140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975140)
+- [Запуск WPF-приложений в Docker: Экспериментальный подход с Wine](https://habr.com/ru/articles/975138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975138)
+- [Как выбрать шрифты для веба: разговор с дизайнером шрифтов](https://habr.com/ru/companies/beget/articles/974918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974918)
+- [Не Кафкой единой: как наладить асинхронный обмен сообщениями между микросервисами](https://habr.com/ru/companies/yandex/articles/974946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
