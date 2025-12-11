@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Неоплачиваемая стажировка в дизайне: что ожидать, чего — нет, и что важно обговорить заранее](https://habr.com/ru/articles/975580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975580)
-- [Внутри игольного ушка](https://habr.com/ru/companies/2gis/articles/970006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970006)
-- [Оптимизация пагинации в PostgreSQL: Как настройка work_mem превратила ROW_NUMBER в лидера производительности](https://habr.com/ru/articles/975556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975556)
-- [Больше никаких велосипедов: готовый Spring Boot Starter для Telegram-ботов](https://habr.com/ru/articles/975552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975552)
-- [Elasticsearch: реляционная база данных против поискового движка — Битва Титанов](https://habr.com/ru/companies/otus/articles/975368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975368)
+- [OpenIDE Pro: ответ на запросы бизнеса и разработчиков одновременно](https://habr.com/ru/companies/axiomjdk/articles/972938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972938)
+- [Как системному аналитику перейти дата-аналитику: советы из личного опыта](https://habr.com/ru/companies/vktech/articles/974468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974468)
+- [Feature Flags на фронтенде: как управлять фичами без боли и рисков](https://habr.com/ru/companies/ibs/articles/975616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975616)
+- [Карьера бэкендера от джуна до сеньора](https://habr.com/ru/companies/habr_career/articles/975614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975614)
+- [Fluent API. Часть 3 — что нам стоит Fluent API построить?](https://habr.com/ru/articles/973168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
