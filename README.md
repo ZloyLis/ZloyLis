@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JSDA — это очень просто](https://habr.com/ru/articles/975474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975474)
+- [Flutter — везде &lpar;и даже в чайнике&rpar;. Часть 2](https://habr.com/ru/companies/friflex/articles/975664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975664)
+- [[Перевод] Ускорение планирования JOIN’ов — до 16 раз быстрее](https://habr.com/ru/companies/tantor/articles/975808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975808)
 - [ИИ агент на n8n: создаём Telegram бота с доступом к своим данным без иностранной карты за 30 минут](https://habr.com/ru/companies/datafeel/articles/972610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972610)
 - [[Перевод] Vanilla CSS — единственное, что вам нужно](https://habr.com/ru/articles/975450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975450)
-- [[Перевод] Измерение сложности модели — Часть 3: Представляем Complexity Analyzer](https://habr.com/ru/articles/975784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975784)
-- [9 ISTQB сертификатов спустя: что бы я реально посоветовал тем, кто собирается сдавать](https://habr.com/ru/articles/975778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975778)
-- [Мой самый упрямый экран. Figma была свидетелем](https://habr.com/ru/articles/974974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
