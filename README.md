@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CyBОК. Глава 3. Законы и регуляторные нормы. Часть 5](https://habr.com/ru/companies/securityvison/articles/975734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975734)
+- [[Перевод] Анализ утечек ресурсов в Go: реальные кейсы и их решение](https://habr.com/ru/articles/975436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975436)
+- [Кибердетектив: по следам злоумышленника. Расследование инцидентов](https://habr.com/ru/companies/gaz-is/articles/975720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975720)
+- [Релятивизм виртуальной Вселенной](https://habr.com/ru/articles/975722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975722)
 - [Как я вижу разработку в Altium в РФ](https://habr.com/ru/articles/975704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975704)
-- [Как упростить сборку на С++: мой open source-проект LightForge](https://habr.com/ru/companies/yadro/articles/972100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972100)
-- [[Перевод] Django 6.0: эволюция фреймворка в деталях](https://habr.com/ru/articles/975472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975472)
-- [Как функциональное программирование изменило фронтенд и почему отрасль возвращается к платформе](https://habr.com/ru/companies/alfa/articles/975256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975256)
-- [Как мы научились строить деревья блокировок PostgreSQL в фоне и без влияния на производительность](https://habr.com/ru/companies/sberbank/articles/974934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
