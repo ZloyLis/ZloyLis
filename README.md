@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я потерял деньги, когда уехал из России. История айтишника про налоги и крипту](https://habr.com/ru/articles/975530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975530)
-- [Как я тв-шоу переводил с помощью ML-моделей без подписок и СМС](https://habr.com/ru/articles/971644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971644)
-- [Как данные о поведении сотрудников помогают собирать команды, которые не разваливаются](https://habr.com/ru/articles/975522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975522)
-- [ERC-3643 vs ERC-1400: архитектурные решения для security tokens](https://habr.com/ru/articles/975516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975516)
-- [Научная оценка и потенциал для игры](https://habr.com/ru/articles/975502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975502)
+- [Внутри игольного ушка](https://habr.com/ru/companies/2gis/articles/970006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970006)
+- [Оптимизация пагинации в PostgreSQL: Как настройка work_mem превратила ROW_NUMBER в лидера производительности](https://habr.com/ru/articles/975556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975556)
+- [Больше никаких велосипедов: готовый Spring Boot Starter для Telegram-ботов](https://habr.com/ru/articles/975552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975552)
+- [Elasticsearch: реляционная база данных против поискового движка — Битва Титанов](https://habr.com/ru/companies/otus/articles/975368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975368)
+- [Как я взломал фундаментальные физические константы и ядерную физику](https://habr.com/ru/articles/975548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
