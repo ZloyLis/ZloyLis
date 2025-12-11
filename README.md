@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [CyBОК. Глава 3. Законы и регуляторные нормы. Часть 5](https://habr.com/ru/companies/securityvison/articles/975734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975734)
-- [[Перевод] Анализ утечек ресурсов в Go: реальные кейсы и их решение](https://habr.com/ru/articles/975436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975436)
-- [Кибердетектив: по следам злоумышленника. Расследование инцидентов](https://habr.com/ru/companies/gaz-is/articles/975720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975720)
-- [Релятивизм виртуальной Вселенной](https://habr.com/ru/articles/975722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975722)
-- [Как я вижу разработку в Altium в РФ](https://habr.com/ru/articles/975704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975704)
+- [ИИ агент на n8n: создаём Telegram бота с доступом к своим данным без иностранной карты за 30 минут](https://habr.com/ru/companies/datafeel/articles/972610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972610)
+- [[Перевод] Vanilla CSS — единственное, что вам нужно](https://habr.com/ru/articles/975450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975450)
+- [[Перевод] Измерение сложности модели — Часть 3: Представляем Complexity Analyzer](https://habr.com/ru/articles/975784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975784)
+- [9 ISTQB сертификатов спустя: что бы я реально посоветовал тем, кто собирается сдавать](https://habr.com/ru/articles/975778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975778)
+- [Мой самый упрямый экран. Figma была свидетелем](https://habr.com/ru/articles/974974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
