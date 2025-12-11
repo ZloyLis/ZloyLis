@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я потерял деньги, когда уехал из России. История айтишника про налоги и крипту](https://habr.com/ru/articles/975530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975530)
+- [Как я тв-шоу переводил с помощью ML-моделей без подписок и СМС](https://habr.com/ru/articles/971644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971644)
 - [Как данные о поведении сотрудников помогают собирать команды, которые не разваливаются](https://habr.com/ru/articles/975522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975522)
 - [ERC-3643 vs ERC-1400: архитектурные решения для security tokens](https://habr.com/ru/articles/975516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975516)
 - [Научная оценка и потенциал для игры](https://habr.com/ru/articles/975502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975502)
-- [Кванты, поля и мнимая сингулярность: к физике несвязанных процессов](https://habr.com/ru/articles/975490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975490)
-- [Как сделать индивидуальный проект с помощью нейросети: ТОП-10 ИИ для создания итоговых работ](https://habr.com/ru/companies/kemp_ai/articles/975484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975484)
 <!-- BLOG-POST-LIST:END -->
 
 ---
