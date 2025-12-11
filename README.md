@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я вижу разработку в Altium в РФ](https://habr.com/ru/articles/975704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975704)
+- [Как упростить сборку на С++: мой open source-проект LightForge](https://habr.com/ru/companies/yadro/articles/972100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972100)
+- [[Перевод] Django 6.0: эволюция фреймворка в деталях](https://habr.com/ru/articles/975472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975472)
 - [Как функциональное программирование изменило фронтенд и почему отрасль возвращается к платформе](https://habr.com/ru/companies/alfa/articles/975256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975256)
 - [Как мы научились строить деревья блокировок PostgreSQL в фоне и без влияния на производительность](https://habr.com/ru/companies/sberbank/articles/974934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974934)
-- [[Перевод] Моя любимая маленькая хеш-таблица](https://habr.com/ru/articles/975636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975636)
-- [Изучали сами — рекомендуем другим: какие материалы помогут комплексно погрузиться в системный анализ](https://habr.com/ru/companies/docdoc/articles/974760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974760)
-- [OpenIDE Pro: ответ на запросы бизнеса и разработчиков одновременно](https://habr.com/ru/companies/axiomjdk/articles/972938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
