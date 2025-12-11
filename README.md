@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как прикрутить AI к табуретке](https://habr.com/ru/articles/975512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975512)
 - [JSDA — это очень просто](https://habr.com/ru/articles/975474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975474)
 - [Flutter — везде &lpar;и даже в чайнике&rpar;. Часть 2](https://habr.com/ru/companies/friflex/articles/975664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975664)
 - [[Перевод] Ускорение планирования JOIN’ов — до 16 раз быстрее](https://habr.com/ru/companies/tantor/articles/975808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975808)
 - [ИИ агент на n8n: создаём Telegram бота с доступом к своим данным без иностранной карты за 30 минут](https://habr.com/ru/companies/datafeel/articles/972610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972610)
-- [[Перевод] Vanilla CSS — единственное, что вам нужно](https://habr.com/ru/articles/975450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
