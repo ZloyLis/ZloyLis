@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Docker-фич для продвинутого использования. Часть 2](https://habr.com/ru/companies/ruvds/articles/975114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975114)
 - [[Перевод] Rust 1.92.0: проверка типа never, unused_must_use, генерация таблицы раскрутки стека на Linux, Валидация #[macro_export]](https://habr.com/ru/articles/976134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976134)
 - [Вы теряете деньги на ИТ-оборудовании? Выбираем инструмент, который это остановит](https://habr.com/ru/companies/simpleone/articles/976128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976128)
 - [Нагрузочное тестирование YMatrix](https://habr.com/ru/companies/glowbyte/articles/976126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976126)
 - [Как мы внедрили LLM в мессенджер и вырастили сделки на Авито](https://habr.com/ru/companies/avito/articles/975804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975804)
-- [Принципы разработки в системном анализе](https://habr.com/ru/companies/sovcombank_technologies/articles/976100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
