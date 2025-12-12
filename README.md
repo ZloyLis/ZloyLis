@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логирование с Serilog: как повысить отказоустойчивость и скорость](https://habr.com/ru/articles/972118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972118)
 - [Не просто WebView: Строим движок на Flutter для конвертации сайтов в приложения с Server-Driven UI](https://habr.com/ru/articles/975950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975950)
 - [Storybook: как ускорить и упростить работу фронтенд-разработчика](https://habr.com/ru/articles/975958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975958)
 - [[Перевод] Карл Либерхер, Иэн Холланд «Обеспечение хорошего стиля объектно-ориентированных программ»](https://habr.com/ru/articles/975956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975956)
 - [Как мы запустили кредитное приложение за 6 месяцев. Опыт](https://habr.com/ru/companies/clevertec/articles/975588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975588)
-- [[Перевод] Document PiP vs window.open](https://habr.com/ru/articles/953340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
