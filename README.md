@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Создание приложения с меню на Flutter, которое не занимает много памяти](https://habr.com/ru/companies/piter/articles/976000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976000)
-- [[Перевод] Нет, домены и ограниченные контексты не обязаны совпадать один к одному](https://habr.com/ru/companies/otus/articles/975872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975872)
-- [Логирование с Serilog: как повысить отказоустойчивость и скорость](https://habr.com/ru/articles/972118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972118)
-- [Не просто WebView: Строим движок на Flutter для конвертации сайтов в приложения с Server-Driven UI](https://habr.com/ru/articles/975950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975950)
-- [Storybook: как ускорить и упростить работу фронтенд-разработчика](https://habr.com/ru/articles/975958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975958)
+- [Набор выживальщика для L1-специалиста: как не сойти с ума вместе с принтером](https://habr.com/ru/articles/976050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976050)
+- [I&#39;m on the stairs to hell](https://habr.com/ru/companies/skbkontur/articles/975748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975748)
+- [Опасные ловушки C++: типичные ошибки, их последствия и защита](https://habr.com/ru/companies/bercut/articles/970442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970442)
+- [Правда ли, что ICPC работает как социальный лифт в IT-карьере](https://habr.com/ru/companies/X5Tech/articles/976028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976028)
+- [Дети, запомните: если дядя из туториала предлагает вам начать проект на Express.js… Рейтинг opensource для фронтенда](https://habr.com/ru/companies/ncloudtech/articles/975012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
