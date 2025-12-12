@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Российские физики научились восстанавливать скрытые детали на зашумленных интерферограммах с высокой точностью](https://habr.com/ru/articles/969366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969366)
-- [Программу для просмотра любого файла из букв](https://habr.com/ru/articles/975792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975792)
-- [Структура кода в папке Domain по DDD](https://habr.com/ru/articles/975936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975936)
-- [Пример решения комбинаторной задачи. В чем нам может помочь ИИ, а в чем инструментальное программирование](https://habr.com/ru/articles/974776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974776)
-- [Как приручить iText8: превращаем HTML в PDF без седых волос](https://habr.com/ru/articles/975930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975930)
+- [Не просто WebView: Строим движок на Flutter для конвертации сайтов в приложения с Server-Driven UI](https://habr.com/ru/articles/975950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975950)
+- [Storybook: как ускорить и упростить работу фронтенд-разработчика](https://habr.com/ru/articles/975958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975958)
+- [[Перевод] Карл Либерхер, Иэн Холланд «Обеспечение хорошего стиля объектно-ориентированных программ»](https://habr.com/ru/articles/975956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975956)
+- [Как мы запустили кредитное приложение за 6 месяцев. Опыт](https://habr.com/ru/companies/clevertec/articles/975588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975588)
+- [[Перевод] Document PiP vs window.open](https://habr.com/ru/articles/953340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=953340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
