@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Арифметика сверточных слоев. Вычисляем размерность изображения с учетом stride, padding и dilation](https://habr.com/ru/articles/976410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976410)
 - [librats: Выпуск версии 0.5.x. Ускорение поиска пиров, алгоритм spider, поддержка JavaScript, Python и многое другое](https://habr.com/ru/articles/976366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976366)
 - [Ассемблер для гоферов. Структура и макросы. Часть 2](https://habr.com/ru/companies/ruvds/articles/976084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976084)
 - [PG_EXPECTO: Анализ влияния размера shared_buffers на производительность СУБД PostgreSQL](https://habr.com/ru/articles/976344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976344)
 - [Что почитать: «вредные советы» для open source-контрибьюторов, штрафы за пентест и вопросы информационной безопасности](https://habr.com/ru/companies/beeline_cloud/articles/976246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976246)
-- [11 полезных фичей Chrome DevTools часть 2](https://habr.com/ru/articles/976336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
