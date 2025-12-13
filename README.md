@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему xor eax, eax используется так часто?](https://habr.com/ru/articles/976302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976302)
 - [Я вернулся в 1999-й и поймал «Чернобыль»](https://habr.com/ru/companies/clevertec/articles/976104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976104)
 - [Ловушки PowerShell: поведение, которое ломает привычные ожидания разработчиков](https://habr.com/ru/articles/976278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976278)
 - [Не просто трещина: ученые раскрыли волновую природу разрушения льда](https://habr.com/ru/articles/969368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969368)
 - [ООП и Синглтон &lpar;на примере простого консольного рендера&rpar; в Си](https://habr.com/ru/articles/976256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976256)
-- [От нуля до Kubernetes за год: как преподавание заставило меня учиться](https://habr.com/ru/articles/976234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
