@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не просто трещина: ученые раскрыли волновую природу разрушения льда](https://habr.com/ru/articles/969368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969368)
 - [ООП и Синглтон &lpar;на примере простого консольного рендера&rpar; в Си](https://habr.com/ru/articles/976256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976256)
 - [От нуля до Kubernetes за год: как преподавание заставило меня учиться](https://habr.com/ru/articles/976234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976234)
 - [ARC-AGI для оценки способностей ИИ и новый релиз ChatGPT 5.2](https://habr.com/ru/articles/976228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976228)
 - [Как раздать SSH-тоннель со смартфона](https://habr.com/ru/companies/samsung/articles/975604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975604)
-- [[Перевод] Как сократить расходы на токены и повысить точность LLM](https://habr.com/ru/companies/spring_aio/articles/976178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
