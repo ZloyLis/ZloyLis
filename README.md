@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Минимальный набор практик для микросервиса: опыт после Ruby и PHP](https://habr.com/ru/articles/976440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976440)
 - [Remote-first в ритейле: чиню принтеры из кресла, в зал выхожу только по запаху гари](https://habr.com/ru/articles/976446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976446)
 - [Бинарные протоколы передачи данных. Разбираемся на примере NodeJS приложения](https://habr.com/ru/articles/976436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976436)
 - [Арифметика сверточных слоев. Вычисляем размерность изображения с учетом stride, padding и dilation](https://habr.com/ru/articles/976410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976410)
 - [librats: Выпуск версии 0.5.x. Ускорение поиска пиров, алгоритм spider, поддержка JavaScript, Python и многое другое](https://habr.com/ru/articles/976366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976366)
-- [Ассемблер для гоферов. Структура и макросы. Часть 2](https://habr.com/ru/companies/ruvds/articles/976084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
