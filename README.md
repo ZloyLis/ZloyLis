@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск по подстроке — ответ аналитика на собеседовании](https://habr.com/ru/articles/975924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975924)
 - [Ночь, телескоп, ИИ, комета: анализ спектра 3I/ATLAS с собственным Python-pipeline](https://habr.com/ru/articles/976568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976568)
 - [PostgreSQL: shared_buffers = 25% RAM?](https://habr.com/ru/articles/976564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976564)
 - [Токеномика как инструмент иллюзий: пыль в глаза или искусство продавать воздух?](https://habr.com/ru/articles/976562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976562)
 - [Новогодний IT-челлендж для разработчиков: сможете расшифровать сообщение?](https://habr.com/ru/articles/976510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976510)
-- [Kafka для начинающих: работа с оффсетами на практике](https://habr.com/ru/articles/965218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
