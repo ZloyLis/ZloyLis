@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Совершенствование механизма управления в компании с использованием ИТ](https://habr.com/ru/articles/976492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976492)
 - [Нейминг в Dart: полезные примеры из документации](https://habr.com/ru/articles/976484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976484)
 - [[Перевод] В GitHub Actions, пожалуй, худший пакетный менеджер](https://habr.com/ru/companies/ruvds/articles/975180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975180)
 - [Блокировка публичного API hh.ru: конец эры автооткликов или новый виток развития?](https://habr.com/ru/articles/976476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976476)
 - [Мобильная разработка за неделю #612 &lpar;8 — 14 декабря&rpar;](https://habr.com/ru/articles/976470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976470)
-- [Минимальный набор практик для микросервиса: опыт после Ruby и PHP](https://habr.com/ru/articles/976440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
