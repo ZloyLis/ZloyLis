@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DRTDI: лёгкий и быстрый DI-контейнер для Dart и Flutter](https://habr.com/ru/articles/976728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976728)
+- [Самоописывающая сериализация графов объектов в C++](https://habr.com/ru/articles/976426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976426)
+- [Почему учителя бегут из школ, а дети не хотят учиться — и как я это исправляю](https://habr.com/ru/articles/976720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976720)
+- [Как мы запускали «марсоход» на PostgreSQL: автоматизация кластеров в изолированной среде крупной компании](https://habr.com/ru/companies/jetinfosystems/articles/976520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976520)
 - [Live Reload на JVM](https://habr.com/ru/articles/974004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974004)
-- [Что скрывается за адвент-календарем: бизнес-логика праздничных окошек](https://habr.com/ru/companies/beget/articles/975848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975848)
-- [9 самых частых задач на Python live-coding &lpar;и как их правильно решать&rpar;](https://habr.com/ru/articles/967152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967152)
-- [Rust, mmap и 10 миллионов пикселей: делаем производительный Log Viewer для VS Code](https://habr.com/ru/articles/976672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976672)
-- [SQL HowTo: проверяем и объединяем диапазоны &lpar;Advent of Code 2025, Day 5: Cafeteria&rpar;](https://habr.com/ru/companies/tensor/articles/976670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
