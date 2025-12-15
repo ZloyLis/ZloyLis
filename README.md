@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Строим витрину данных с Claude через MCP](https://habr.com/ru/articles/976810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976810)
-- [Как подружить аудиторию старшего поколения с ИИ: результаты исследования](https://habr.com/ru/companies/vk/articles/976790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976790)
-- [[Перевод] Почему Go, Rust и Zig такие разные: ценности, компромиссы и назначение языков](https://habr.com/ru/articles/975822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975822)
-- [Разбираем подводные камни, ошибки и лучшие практики при разработке Kubernetes-операторов](https://habr.com/ru/companies/sberbank/articles/976764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976764)
-- [Чистим main.go: предсказуемый старт и надежный Graceful Shutdown](https://habr.com/ru/articles/976800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976800)
+- [Архитектура ИТ решений. Часть 7. Графический язык моделирования ArchiMate. 7.3. Технологический слой](https://habr.com/ru/articles/976870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976870)
+- [VR без укачиваний, или Как оптимизировать Unity-проекты, чтобы игроки не снимали шлем через 5 минут](https://habr.com/ru/companies/simbirsoft/articles/976876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976876)
+- [Как устроен Amplicode MCP: от кувалды к скальпелю](https://habr.com/ru/companies/haulmont/articles/976872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976872)
+- [Аналитический паралич: Как религия data-driven душит продукт](https://habr.com/ru/articles/976866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976866)
+- [Где дешевле и безопаснее хранить данные: сравниваем жесткие диски, магнитные ленты, облака и оптику](https://habr.com/ru/companies/finops_ru/articles/976842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
