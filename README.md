@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как молодой девушке уехать на Яндекс.Такси в промзону и пропасть среди гаражей](https://habr.com/ru/articles/976640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976640)
 - [Пожалуйста, почините найм](https://habr.com/ru/articles/976622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976622)
 - [Поиск по подстроке — ответ аналитика на собеседовании](https://habr.com/ru/articles/975924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975924)
 - [Ночь, телескоп, ИИ, комета: анализ спектра 3I/ATLAS с собственным Python-pipeline](https://habr.com/ru/articles/976568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976568)
 - [PostgreSQL: shared_buffers = 25% RAM?](https://habr.com/ru/articles/976564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976564)
-- [Токеномика как инструмент иллюзий: пыль в глаза или искусство продавать воздух?](https://habr.com/ru/articles/976562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
