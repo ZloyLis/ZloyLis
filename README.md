@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust, mmap и 10 миллионов пикселей: делаем производительный Log Viewer для VS Code](https://habr.com/ru/articles/976672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976672)
+- [SQL HowTo: проверяем и объединяем диапазоны &lpar;Advent of Code 2025, Day 5: Cafeteria&rpar;](https://habr.com/ru/companies/tensor/articles/976670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976670)
+- [[Перевод] Лучшие практики по настройке конфигураций в Kubernetes](https://habr.com/ru/companies/flant/articles/974808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974808)
 - [Даём возможность пользователям сайта самим менять размер блоков, потянув указателем мыши за край или угол](https://habr.com/ru/articles/976522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976522)
 - [Р-ФОН: пишем, запускаем и отлаживаем для него программы на Raspberry Pi с установленной ОС «РОСА Фреш»](https://habr.com/ru/articles/976428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976428)
-- [Готовимся к System Design интервью с помощью ИИ и немного про Enterprise Integration Patterns](https://habr.com/ru/companies/architeezy/articles/976346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976346)
-- [Как молодой девушке уехать на Яндекс.Такси в промзону и пропасть среди гаражей](https://habr.com/ru/articles/976640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976640)
-- [Пожалуйста, почините найм](https://habr.com/ru/articles/976622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
