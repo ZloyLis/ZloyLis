@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Pyrefly vs. ty: битва двух Rust-базированных анализаторов типов для Python](https://habr.com/ru/articles/971410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971410)
+- [[Перевод] Обнаружение взаимоблокировок на JVM с помощью Fray](https://habr.com/ru/companies/spring_aio/articles/976924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976924)
 - [35 удачных UX-решений для интернет-магазинов электроники](https://habr.com/ru/articles/976922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976922)
 - [Создаем плагин визуализации для Modus BI: прогресс-бар своими руками](https://habr.com/ru/companies/modusbi/articles/976828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976828)
 - [Меня обвинили в том, что я — нейросеть](https://habr.com/ru/articles/976902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976902)
-- [Архитектура ИТ решений. Часть 7. Графический язык моделирования ArchiMate. 7.3. Технологический слой](https://habr.com/ru/articles/976870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976870)
-- [VR без укачиваний, или Как оптимизировать Unity-проекты, чтобы игроки не снимали шлем через 5 минут](https://habr.com/ru/companies/simbirsoft/articles/976876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
