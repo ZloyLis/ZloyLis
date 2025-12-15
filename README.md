@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [35 удачных UX-решений для интернет-магазинов электроники](https://habr.com/ru/articles/976922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976922)
+- [Создаем плагин визуализации для Modus BI: прогресс-бар своими руками](https://habr.com/ru/companies/modusbi/articles/976828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976828)
+- [Меня обвинили в том, что я — нейросеть](https://habr.com/ru/articles/976902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976902)
 - [Архитектура ИТ решений. Часть 7. Графический язык моделирования ArchiMate. 7.3. Технологический слой](https://habr.com/ru/articles/976870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976870)
 - [VR без укачиваний, или Как оптимизировать Unity-проекты, чтобы игроки не снимали шлем через 5 минут](https://habr.com/ru/companies/simbirsoft/articles/976876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976876)
-- [Как устроен Amplicode MCP: от кувалды к скальпелю](https://habr.com/ru/companies/haulmont/articles/976872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976872)
-- [Аналитический паралич: Как религия data-driven душит продукт](https://habr.com/ru/articles/976866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976866)
-- [Где дешевле и безопаснее хранить данные: сравниваем жесткие диски, магнитные ленты, облака и оптику](https://habr.com/ru/companies/finops_ru/articles/976842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
