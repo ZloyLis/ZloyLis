@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [4QS-преобразователь на подвижном составе переменного тока: система управления](https://habr.com/ru/articles/976666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976666)
 - [Zero Values и никакого undefined: Чему Go научит JS-разработчика &lpar;Часть 2&rpar;](https://habr.com/ru/articles/976986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976986)
+- [Инструментарий вайбкодера: Supabase, Vercel и Railway](https://habr.com/ru/companies/raft/articles/976858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976858)
 - [Архитектура подсистемы управления заданиями](https://habr.com/ru/articles/976940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976940)
 - [[Перевод] Pyrefly vs. ty: битва двух Rust-базированных анализаторов типов для Python](https://habr.com/ru/articles/971410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971410)
-- [[Перевод] Обнаружение взаимоблокировок на JVM с помощью Fray](https://habr.com/ru/companies/spring_aio/articles/976924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
