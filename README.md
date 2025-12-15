@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox — лучший мобильный браузер](https://habr.com/ru/companies/ruvds/articles/975002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975002)
+- [Как сэкономить гигабайты памяти в Istio Sidecars](https://habr.com/ru/companies/oleg-bunin/articles/968652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968652)
+- [[Перевод] Упадёт ли стоимость разработки софта на 90%?](https://habr.com/ru/articles/975412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975412)
+- [Я была репетитором английского, а теперь работаю на платформе. Вот что я узнала по обе стороны](https://habr.com/ru/companies/yandex_praktikum/articles/975864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975864)
 - [DRTDI: лёгкий и быстрый DI-контейнер для Dart и Flutter](https://habr.com/ru/articles/976728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976728)
-- [Самоописывающая сериализация графов объектов в C++](https://habr.com/ru/articles/976426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976426)
-- [Почему учителя бегут из школ, а дети не хотят учиться — и как я это исправляю](https://habr.com/ru/articles/976720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976720)
-- [Как мы запускали «марсоход» на PostgreSQL: автоматизация кластеров в изолированной среде крупной компании](https://habr.com/ru/companies/jetinfosystems/articles/976520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976520)
-- [Live Reload на JVM](https://habr.com/ru/articles/974004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
