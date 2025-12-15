@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Строим витрину данных с Claude через MCP](https://habr.com/ru/articles/976810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976810)
+- [Как подружить аудиторию старшего поколения с ИИ: результаты исследования](https://habr.com/ru/companies/vk/articles/976790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976790)
+- [[Перевод] Почему Go, Rust и Zig такие разные: ценности, компромиссы и назначение языков](https://habr.com/ru/articles/975822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975822)
+- [Разбираем подводные камни, ошибки и лучшие практики при разработке Kubernetes-операторов](https://habr.com/ru/companies/sberbank/articles/976764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976764)
 - [Чистим main.go: предсказуемый старт и надежный Graceful Shutdown](https://habr.com/ru/articles/976800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976800)
-- [Flink Kubernetes operator: опыт построения стриминговой Big Data платформы](https://habr.com/ru/companies/avito/articles/972412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972412)
-- [Космология виртуальной Вселенной &lpar;Часть I&rpar;](https://habr.com/ru/articles/976796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976796)
-- [Мой опыт разработки с агентами: советы](https://habr.com/ru/articles/976578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976578)
-- [ADSM: практика использования файлов AGENTS.md](https://habr.com/ru/articles/976760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
