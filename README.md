@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Даём возможность пользователям сайта самим менять размер блоков, потянув указателем мыши за край или угол](https://habr.com/ru/articles/976522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976522)
+- [Р-ФОН: пишем, запускаем и отлаживаем для него программы на Raspberry Pi с установленной ОС «РОСА Фреш»](https://habr.com/ru/articles/976428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976428)
 - [Готовимся к System Design интервью с помощью ИИ и немного про Enterprise Integration Patterns](https://habr.com/ru/companies/architeezy/articles/976346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976346)
 - [Как молодой девушке уехать на Яндекс.Такси в промзону и пропасть среди гаражей](https://habr.com/ru/articles/976640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976640)
 - [Пожалуйста, почините найм](https://habr.com/ru/articles/976622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976622)
-- [Поиск по подстроке — ответ аналитика на собеседовании](https://habr.com/ru/articles/975924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975924)
-- [Ночь, телескоп, ИИ, комета: анализ спектра 3I/ATLAS с собственным Python-pipeline](https://habr.com/ru/articles/976568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
