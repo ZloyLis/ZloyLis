@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как правильно посчитать выгоды от внедрения PIM-системы](https://habr.com/ru/companies/compo/articles/977306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977306)
+- [Танцы с бубном, душевные терзания и комплекс супергероя: как мы новый редактор в «Заметках» разрабатывали](https://habr.com/ru/companies/yadro/articles/974944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974944)
+- [Kак мы разработали новую модель автодополнения кода в GigaCode](https://habr.com/ru/companies/sberbank/articles/976224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976224)
+- [hq-cropper: Image Cropper без зависимостей для JavaScript](https://habr.com/ru/articles/977294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977294)
 - [От Electron к Tauri: как я пересобрал архитектуру десктоп-приложения и почему Rust оказался к месту](https://habr.com/ru/articles/977284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977284)
-- [Книга: «Паттерны Kubernetes: Шаблоны разработки облачных приложений. 2-е изд.»](https://habr.com/ru/companies/piter/articles/977272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977272)
-- [Космология виртуальной Вселенной &lpar;Часть II&rpar;](https://habr.com/ru/articles/977268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977268)
-- [Причинно-следственная связь и причем тут IDEF0 и BPMN](https://habr.com/ru/articles/977244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977244)
-- [Побег из стеклянной тюрьмы. iOS Jailbreak. Часть первая](https://habr.com/ru/companies/technokratos/articles/977224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
