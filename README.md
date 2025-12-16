@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Стабильность E2E тестов: как приблизиться к 100% успешных прогонов](https://habr.com/ru/articles/977140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977140)
-- [Ваше будущее… Моё…](https://habr.com/ru/articles/977132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977132)
-- [Client Hints: разбор технологии, которая заменит User-Agent](https://habr.com/ru/companies/yandex/articles/974930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974930)
-- [Мифы про REST API. Часть 1](https://habr.com/ru/companies/psb/articles/976722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976722)
-- [Фронтенд 2025: AI-революция, Server-First и конец эпохи тяжёлых SPA](https://habr.com/ru/articles/977112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977112)
+- [Применение ИИ в бэкенд-разработке приложения Бургер Кинг: шаблоны, контекст и кодогенерация](https://habr.com/ru/articles/976836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976836)
+- [Как UX-решения помогают e-commerce снижать число возвратов товара: опыт мировых лидеров](https://habr.com/ru/articles/977182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977182)
+- [Ненормальные непотребства, трюки, хаки и алгоритмы на C](https://habr.com/ru/companies/timeweb/articles/976998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976998)
+- [Как установить Digital Q.DataBase на Astra Linux 1.8 и бесплатно работать с MS SQL, PostgreSQL и Oracle](https://habr.com/ru/companies/diasoft_company/articles/977170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977170)
+- [Под капотом пул-реквеста: как мы ускоряли индексирование кода для удобной навигации при ревью](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/976172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
