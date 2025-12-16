@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AsmX G3 v30.0.0-rev1.0: мы взорвали четвёртую стену низкоуровневого программирования](https://habr.com/ru/articles/975112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975112)
+- [Ускоряем LLM по максимуму. Как я создал кросс-платформенный Flash Attention с поддержкой Turing+ архитектур и не только](https://habr.com/ru/articles/976576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976576)
 - [Передаем стандарт IEEE802.15.4-2003 по технологии SDR&lpar;Software Defined Radio&rpar; и HackRF](https://habr.com/ru/articles/977448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977448)
 - [Await своими руками в C#](https://habr.com/ru/companies/otus/articles/977074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977074)
 - [Как управлять миром с помощью Nu](https://habr.com/ru/articles/977422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977422)
-- [Как ИИ помогает проектировать базы данных](https://habr.com/ru/articles/977416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977416)
-- [[Перевод] 11 Python-скриптов, которые изменят вашу рутину](https://habr.com/ru/companies/bothub/articles/977410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
