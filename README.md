@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Передаем стандарт IEEE802.15.4-2003 по технологии SDR&lpar;Software Defined Radio&rpar; и HackRF](https://habr.com/ru/articles/977448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977448)
+- [Await своими руками в C#](https://habr.com/ru/companies/otus/articles/977074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977074)
 - [Как управлять миром с помощью Nu](https://habr.com/ru/articles/977422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977422)
 - [Как ИИ помогает проектировать базы данных](https://habr.com/ru/articles/977416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977416)
-- [Vanilla dev., Framework, CMS, конструктор или AI – что выбрать для разработки веб-приложения](https://habr.com/ru/articles/977372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977372)
 - [[Перевод] 11 Python-скриптов, которые изменят вашу рутину](https://habr.com/ru/companies/bothub/articles/977410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977410)
-- [Как мы построили рекламную платформу с нуля](https://habr.com/ru/articles/977384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
