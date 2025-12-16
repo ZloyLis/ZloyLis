@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vanilla dev., Framework, CMS, конструктор или AI – что выбрать для разработки веб-приложения](https://habr.com/ru/articles/977372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977372)
+- [[Перевод] 11 Python-скриптов, которые изменят вашу рутину](https://habr.com/ru/companies/bothub/articles/977410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977410)
 - [Как мы построили рекламную платформу с нуля](https://habr.com/ru/articles/977384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977384)
 - [Когда исследования проводят не только исследователи — опыт Mail](https://habr.com/ru/companies/vk/articles/977336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977336)
 - [Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect — разбираем на примерах. Часть 1](https://habr.com/ru/companies/ozontech/articles/976950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976950)
-- [[Перевод] Как «приватные» VPN-расширения слили переписки 8 миллионов пользователей с ChatGPT и Claude](https://habr.com/ru/articles/977366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977366)
-- [Фиксим залипающий hover на мобильных устройствах](https://habr.com/ru/articles/977364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
