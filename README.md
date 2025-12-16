@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Electron к Tauri: как я пересобрал архитектуру десктоп-приложения и почему Rust оказался к месту](https://habr.com/ru/articles/977284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977284)
+- [Книга: «Паттерны Kubernetes: Шаблоны разработки облачных приложений. 2-е изд.»](https://habr.com/ru/companies/piter/articles/977272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977272)
 - [Космология виртуальной Вселенной &lpar;Часть II&rpar;](https://habr.com/ru/articles/977268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977268)
 - [Причинно-следственная связь и причем тут IDEF0 и BPMN](https://habr.com/ru/articles/977244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977244)
 - [Побег из стеклянной тюрьмы. iOS Jailbreak. Часть первая](https://habr.com/ru/companies/technokratos/articles/977224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977224)
-- [Изящные, ненормальные и удивительные алгоритмы на C](https://habr.com/ru/companies/timeweb/articles/971528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971528)
-- [Учимся правильно использовать ИИ при разработке программного обеспечения](https://habr.com/ru/articles/977164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
