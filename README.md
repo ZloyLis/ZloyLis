@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Космология виртуальной Вселенной &lpar;Часть II&rpar;](https://habr.com/ru/articles/977268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977268)
+- [Причинно-следственная связь и причем тут IDEF0 и BPMN](https://habr.com/ru/articles/977244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977244)
+- [Побег из стеклянной тюрьмы. iOS Jailbreak. Часть первая](https://habr.com/ru/companies/technokratos/articles/977224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977224)
 - [Изящные, ненормальные и удивительные алгоритмы на C](https://habr.com/ru/companies/timeweb/articles/971528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971528)
 - [Учимся правильно использовать ИИ при разработке программного обеспечения](https://habr.com/ru/articles/977164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977164)
-- [Коллекция полезных CSS фишек, которые вы редко используете](https://habr.com/ru/companies/ruvds/articles/975394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975394)
-- [Service Desk и Help Desk: в чем разница на самом деле или почему её нет](https://habr.com/ru/companies/simpleone/articles/976682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976682)
-- [Почему каталог данных превращается в кладбище и как это исправить](https://habr.com/ru/articles/977014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
