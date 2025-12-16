@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хроника о том, как новые технологии поселились в нашем видеопроизводственном пайплайне, или чему нас научили нейросети](https://habr.com/ru/companies/sportmaster_lab/articles/974874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974874)
-- [Как правильно посчитать выгоды от внедрения PIM-системы](https://habr.com/ru/companies/compo/articles/977306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977306)
-- [Танцы с бубном, душевные терзания и комплекс супергероя: как мы новый редактор в «Заметках» разрабатывали](https://habr.com/ru/companies/yadro/articles/974944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974944)
-- [Kак мы разработали новую модель автодополнения кода в GigaCode](https://habr.com/ru/companies/sberbank/articles/976224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976224)
-- [hq-cropper: Image Cropper без зависимостей для JavaScript](https://habr.com/ru/articles/977294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977294)
+- [Как мы построили рекламную платформу с нуля](https://habr.com/ru/articles/977384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977384)
+- [Когда исследования проводят не только исследователи — опыт Mail](https://habr.com/ru/companies/vk/articles/977336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977336)
+- [Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect — разбираем на примерах. Часть 1](https://habr.com/ru/companies/ozontech/articles/976950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976950)
+- [[Перевод] Как «приватные» VPN-расширения слили переписки 8 миллионов пользователей с ChatGPT и Claude](https://habr.com/ru/articles/977366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977366)
+- [Фиксим залипающий hover на мобильных устройствах](https://habr.com/ru/articles/977364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977364)
 <!-- BLOG-POST-LIST:END -->
 
 ---
