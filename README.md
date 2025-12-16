@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Новый математический метод помогает спутникам увидеть истинное движение Гольфстрима](https://habr.com/ru/articles/969374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969374)
-- [C++, Rust и цветовая дифференциация воротничков](https://habr.com/ru/articles/977100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977100)
-- [Делаем self-hosted краш-трекер на Kotlin/Native, Ktor и HTMX](https://habr.com/ru/articles/977058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977058)
-- [4QS-преобразователь на подвижном составе переменного тока: система управления](https://habr.com/ru/articles/976666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976666)
-- [Zero Values и никакого undefined: Чему Go научит JS-разработчика &lpar;Часть 2&rpar;](https://habr.com/ru/articles/976986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976986)
+- [Фронтенд 2025: AI-революция, Server-First и конец эпохи тяжёлых SPA](https://habr.com/ru/articles/977112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977112)
+- [Roborazzi для Jetpack Compose: как я автоматизировал проверку UI](https://habr.com/ru/articles/938074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=938074)
+- [Роль, оживляющая архитектуру: почему именно методолог должен замыкать ADM-цикл TOGAF](https://habr.com/ru/articles/976934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976934)
+- [Сдвиг камеры в 2ГИС MSDK на маркер при разных углах поворота камеры](https://habr.com/ru/articles/977106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977106)
+- [Вайбанутым нет покоя](https://habr.com/ru/articles/976954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
