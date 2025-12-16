@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Применение ИИ в бэкенд-разработке приложения Бургер Кинг: шаблоны, контекст и кодогенерация](https://habr.com/ru/articles/976836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976836)
-- [Как UX-решения помогают e-commerce снижать число возвратов товара: опыт мировых лидеров](https://habr.com/ru/articles/977182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977182)
-- [Ненормальные непотребства, трюки, хаки и алгоритмы на C](https://habr.com/ru/companies/timeweb/articles/976998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976998)
-- [Как установить Digital Q.DataBase на Astra Linux 1.8 и бесплатно работать с MS SQL, PostgreSQL и Oracle](https://habr.com/ru/companies/diasoft_company/articles/977170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977170)
-- [Под капотом пул-реквеста: как мы ускоряли индексирование кода для удобной навигации при ревью](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/976172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976172)
+- [Изящные, ненормальные и удивительные алгоритмы на C](https://habr.com/ru/companies/timeweb/articles/971528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971528)
+- [Учимся правильно использовать ИИ при разработке программного обеспечения](https://habr.com/ru/articles/977164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977164)
+- [Коллекция полезных CSS фишек, которые вы редко используете](https://habr.com/ru/companies/ruvds/articles/975394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975394)
+- [Service Desk и Help Desk: в чем разница на самом деле или почему её нет](https://habr.com/ru/companies/simpleone/articles/976682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976682)
+- [Почему каталог данных превращается в кладбище и как это исправить](https://habr.com/ru/articles/977014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
