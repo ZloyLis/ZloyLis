@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стабильность E2E тестов: как приблизиться к 100% успешных прогонов](https://habr.com/ru/articles/977140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977140)
+- [Ваше будущее… Моё…](https://habr.com/ru/articles/977132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977132)
+- [Client Hints: разбор технологии, которая заменит User-Agent](https://habr.com/ru/companies/yandex/articles/974930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974930)
+- [Мифы про REST API. Часть 1](https://habr.com/ru/companies/psb/articles/976722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976722)
 - [Фронтенд 2025: AI-революция, Server-First и конец эпохи тяжёлых SPA](https://habr.com/ru/articles/977112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977112)
-- [Roborazzi для Jetpack Compose: как я автоматизировал проверку UI](https://habr.com/ru/articles/938074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=938074)
-- [Роль, оживляющая архитектуру: почему именно методолог должен замыкать ADM-цикл TOGAF](https://habr.com/ru/articles/976934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976934)
-- [Сдвиг камеры в 2ГИС MSDK на маркер при разных углах поворота камеры](https://habr.com/ru/articles/977106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977106)
-- [Вайбанутым нет покоя](https://habr.com/ru/articles/976954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
