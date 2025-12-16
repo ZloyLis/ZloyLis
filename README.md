@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый математический метод помогает спутникам увидеть истинное движение Гольфстрима](https://habr.com/ru/articles/969374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969374)
+- [C++, Rust и цветовая дифференциация воротничков](https://habr.com/ru/articles/977100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977100)
 - [Делаем self-hosted краш-трекер на Kotlin/Native, Ktor и HTMX](https://habr.com/ru/articles/977058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977058)
 - [4QS-преобразователь на подвижном составе переменного тока: система управления](https://habr.com/ru/articles/976666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976666)
 - [Zero Values и никакого undefined: Чему Go научит JS-разработчика &lpar;Часть 2&rpar;](https://habr.com/ru/articles/976986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976986)
-- [Инструментарий вайбкодера: Supabase, Vercel и Railway](https://habr.com/ru/companies/raft/articles/976858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976858)
-- [Архитектура подсистемы управления заданиями](https://habr.com/ru/articles/976940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
