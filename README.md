@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы делаем курсы: взгляд программного эксперта Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/975602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975602)
+- [Запускаем LLM на iPhone локально — мой опыт с Gemma 2B](https://habr.com/ru/articles/977476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977476)
+- [Скандалы, интриги, продуктовые метрики: что нам дало ускорение загрузки экрана в приложении hh](https://habr.com/ru/companies/hh/articles/977376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977376)
 - [Отчет по анализу публикаций на Хабре о производительности СУБД PostgreSQL &lpar;июнь – декабрь 2025&rpar;](https://habr.com/ru/articles/977540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977540)
 - [Физики предложили универсальный язык для мира электричества, чтобы завершить полуторавековой спор](https://habr.com/ru/articles/969428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969428)
-- [Как я распилил 1,1 ТБ default-партиции и не уронил прод](https://habr.com/ru/articles/977528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977528)
-- [AsmX G3 v30.0.0-rev1.0: мы взорвали четвёртую стену низкоуровневого программирования](https://habr.com/ru/articles/975112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975112)
-- [Ускоряем LLM по максимуму. Как я создал кросс-платформенный Flash Attention с поддержкой Turing+ архитектур и не только](https://habr.com/ru/articles/976576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
