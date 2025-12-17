@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы в Авито нашли баланс между качеством и скоростью разработки на примере фичи рекомендаций Автотеки](https://habr.com/ru/companies/avito/articles/975146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975146)
+- [Все не так с Codable](https://habr.com/ru/companies/tbank/articles/977694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977694)
 - [10% на LLM и 90% на инженерию: как российские компании используют ИИ](https://habr.com/ru/articles/977686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977686)
 - [Трактор без тракториста: почему разработка не упрощается при наличии современных инструментов](https://habr.com/ru/articles/977780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977780)
 - [ИИ в разработке: почему иногда «в три раза быстрее» не означает «проект раньше»](https://habr.com/ru/articles/977790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977790)
-- [От пустой выдачи к релевантной: как мы оцениваем качество поиска через метрики, LLM и фидбэк пользователей](https://habr.com/ru/companies/lamoda/articles/976190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976190)
-- [Low-сode и профессиональная разработка: синергия вместо конкуренции](https://habr.com/ru/companies/skbkontur/articles/977318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
