@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать AI-ТЗ из одной фразы заказчика: пошаговая инструкция по методике SARD от идеи до спецификации требований](https://habr.com/ru/articles/977632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977632)
+- [Эксперты прокомментировали акселератор «Умный город» в МГТУ имени Н.Э. Баумана](https://habr.com/ru/articles/977630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977630)
 - [[Перевод] 1000 и один способ угробить программу из-за гонки данных в Go](https://habr.com/ru/articles/975844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975844)
 - [Мой справочник по Feature-Sliced Design](https://habr.com/ru/companies/T1Holding/articles/976220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976220)
 - [Анатомия performance-critical C++ кода на примере ECS](https://habr.com/ru/articles/977462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977462)
-- [Как в звонках автоматически находить первые признаки выгорания операторов кол-центра](https://habr.com/ru/companies/ru_mts/articles/977520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977520)
-- [Shrink кластера и Iceberg-коннектор. Что нового?](https://habr.com/ru/companies/greengage/articles/977214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
