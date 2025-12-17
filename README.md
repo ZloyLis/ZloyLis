@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Боль в спине на удалёнке: сидеть нельзя подвигаться](https://habr.com/ru/companies/beget/articles/977094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977094)
+- [Что делать, если нужно одно решение, чтобы править всеми СХД? Выбираем CSI-драйвер: от вендора или универсальный](https://habr.com/ru/companies/flant/articles/967318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967318)
+- [Опенсорс-библиотека Implicits от Яндекс Браузера: новый шаг в передаче зависимостей Swift](https://habr.com/ru/companies/yandex/articles/976898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976898)
+- [Как стать менеджером в IT](https://habr.com/ru/companies/habr_career/articles/977402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977402)
 - [Как мы делаем курсы: взгляд программного эксперта Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/975602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975602)
-- [Запускаем LLM на iPhone локально — мой опыт с Gemma 2B](https://habr.com/ru/articles/977476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977476)
-- [Скандалы, интриги, продуктовые метрики: что нам дало ускорение загрузки экрана в приложении hh](https://habr.com/ru/companies/hh/articles/977376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977376)
-- [Отчет по анализу публикаций на Хабре о производительности СУБД PostgreSQL &lpar;июнь – декабрь 2025&rpar;](https://habr.com/ru/articles/977540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977540)
-- [Физики предложили универсальный язык для мира электричества, чтобы завершить полуторавековой спор](https://habr.com/ru/articles/969428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
