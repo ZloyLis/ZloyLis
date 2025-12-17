@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Low-сode и профессиональная разработка: синергия вместо конкуренции](https://habr.com/ru/companies/skbkontur/articles/977318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977318)
+- [Как мы пережили несколько мажорных обновлений Angular в B2B-платформе](https://habr.com/ru/companies/compo/articles/977736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977736)
+- [Идемпотентность: не просто теория, а необходимость для надёжных систем](https://habr.com/ru/articles/977730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977730)
+- [Цифровой двойник за один JSON и без промптов](https://habr.com/ru/articles/977722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977722)
 - [За 5 лет я научился продавать курсы по QA с помощью личного бренда](https://habr.com/ru/articles/977698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977698)
-- [Матрица UX-зрелости: как связать UX-культуру, OKR и реальную работу команд](https://habr.com/ru/companies/vk/articles/977450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977450)
-- [Управляю VDS с телефона: Telegram-бот + Claude Code CLI](https://habr.com/ru/articles/977696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977696)
-- [Почему рынок найма в IT ощущается все хуже? +Опрос](https://habr.com/ru/articles/977522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977522)
-- [[Перевод] Изменения цен на GitHub Actions](https://habr.com/ru/companies/spring_aio/articles/977674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977674)
 <!-- BLOG-POST-LIST:END -->
 
 ---
