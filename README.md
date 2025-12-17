@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [EcoQuest: А кто это тут нагадил?](https://habr.com/ru/articles/977916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977916)
 - [Как я писал книгу «Python для инженерных задач»](https://habr.com/ru/articles/977864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977864)
 - [Подсчёт недостающих оценок для получения определённого итогового балла](https://habr.com/ru/articles/977850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977850)
 - [Как мы в Авито нашли баланс между качеством и скоростью разработки на примере фичи рекомендаций Автотеки](https://habr.com/ru/companies/avito/articles/975146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975146)
 - [Все не так с Codable](https://habr.com/ru/companies/tbank/articles/977694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977694)
-- [10% на LLM и 90% на инженерию: как российские компании используют ИИ](https://habr.com/ru/articles/977686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
