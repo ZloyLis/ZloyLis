@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Боль в спине на удалёнке: сидеть нельзя подвигаться](https://habr.com/ru/companies/beget/articles/977094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977094)
-- [Что делать, если нужно одно решение, чтобы править всеми СХД? Выбираем CSI-драйвер: от вендора или универсальный](https://habr.com/ru/companies/flant/articles/967318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967318)
-- [Опенсорс-библиотека Implicits от Яндекс Браузера: новый шаг в передаче зависимостей Swift](https://habr.com/ru/companies/yandex/articles/976898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976898)
-- [Как стать менеджером в IT](https://habr.com/ru/companies/habr_career/articles/977402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977402)
-- [Как мы делаем курсы: взгляд программного эксперта Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/975602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975602)
+- [[Перевод] 1000 и один способ угробить программу из-за гонки данных в Go](https://habr.com/ru/articles/975844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975844)
+- [Мой справочник по Feature-Sliced Design](https://habr.com/ru/companies/T1Holding/articles/976220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976220)
+- [Анатомия performance-critical C++ кода на примере ECS](https://habr.com/ru/articles/977462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977462)
+- [Как в звонках автоматически находить первые признаки выгорания операторов кол-центра](https://habr.com/ru/companies/ru_mts/articles/977520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977520)
+- [Shrink кластера и Iceberg-коннектор. Что нового?](https://habr.com/ru/companies/greengage/articles/977214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
