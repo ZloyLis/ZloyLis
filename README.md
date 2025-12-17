@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От пустой выдачи к релевантной: как мы оцениваем качество поиска через метрики, LLM и фидбэк пользователей](https://habr.com/ru/companies/lamoda/articles/976190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976190)
 - [Low-сode и профессиональная разработка: синергия вместо конкуренции](https://habr.com/ru/companies/skbkontur/articles/977318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977318)
 - [Как мы пережили несколько мажорных обновлений Angular в B2B-платформе](https://habr.com/ru/companies/compo/articles/977736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977736)
 - [Идемпотентность: не просто теория, а необходимость для надёжных систем](https://habr.com/ru/articles/977730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977730)
 - [Цифровой двойник за один JSON и без промптов](https://habr.com/ru/articles/977722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977722)
-- [За 5 лет я научился продавать курсы по QA с помощью личного бренда](https://habr.com/ru/articles/977698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
