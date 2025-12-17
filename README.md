@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [За 5 лет я научился продавать курсы по QA с помощью личного бренда](https://habr.com/ru/articles/977698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977698)
+- [Матрица UX-зрелости: как связать UX-культуру, OKR и реальную работу команд](https://habr.com/ru/companies/vk/articles/977450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977450)
 - [Управляю VDS с телефона: Telegram-бот + Claude Code CLI](https://habr.com/ru/articles/977696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977696)
 - [Почему рынок найма в IT ощущается все хуже? +Опрос](https://habr.com/ru/articles/977522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977522)
 - [[Перевод] Изменения цен на GitHub Actions](https://habr.com/ru/companies/spring_aio/articles/977674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977674)
-- [Вайбкодим с плагином Kilo Code в VS Code и IntelliJ IDEA из России](https://habr.com/ru/articles/977660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977660)
-- [Как написать AI-ТЗ из одной фразы заказчика: пошаговая инструкция по методике SARD от идеи до спецификации требований](https://habr.com/ru/articles/977632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
