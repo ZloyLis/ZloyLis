@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы перевернули подход к мобильным интерфейсам с Backend Driven UI](https://habr.com/ru/companies/whoosh/articles/977814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977814)
 - [В Kubernetes теперь можно совмещать hostNetwork: true и hostUsers: false и планировать поды группами. Обзор фич K8s 1.35](https://habr.com/ru/companies/flant/articles/976746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976746)
 - [Бесплатные и платные хостинги для сайтов на Next, React и JAMStack](https://habr.com/ru/companies/amvera/articles/976996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976996)
 - [EcoQuest: А кто это тут нагадил?](https://habr.com/ru/articles/977916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977916)
 - [Как я писал книгу «Python для инженерных задач»](https://habr.com/ru/articles/977864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977864)
-- [Подсчёт недостающих оценок для получения определённого итогового балла](https://habr.com/ru/articles/977850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
