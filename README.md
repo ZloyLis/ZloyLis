@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Query Planner: Практический гид по EXPLAIN ANALYZE и ускорению запросов на 50–200%](https://habr.com/ru/companies/ppr/articles/978100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978100)
-- [Вспомнить все: как онбординг и подробные макеты позволяют дизайнерам не впасть в хаос](https://habr.com/ru/articles/978074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978074)
-- [Bento в модульных интерфейсах: почему компании их выбирают и нужны ли вашему продукту](https://habr.com/ru/companies/cleverpumpkin/articles/978024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978024)
-- [[Перевод] Я написал алгоритм вычисления дат, который на 30–40% быстрее остальных](https://habr.com/ru/articles/972226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972226)
-- [Пишем свою in-memory базу на Go, ускоряем поиск отелей в десятки раз](https://habr.com/ru/companies/oleg-bunin/articles/972084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972084)
+- [Защита контейнеров изнутри: как работает первый российский open-source-инструмент для мониторинга рантайма](https://habr.com/ru/companies/pt/articles/977882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977882)
+- [Эволюция плеера RUTUBE: от монолита к гибким модулям](https://habr.com/ru/companies/habr_rutube/articles/977276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977276)
+- [«План б.», который сработал: как мы интегрировали Daisy в платформу Билайна](https://habr.com/ru/companies/redmadrobot/articles/978112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978112)
+- [Настоящие и будущее поиска в Ecommerce](https://habr.com/ru/companies/compo/articles/977838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977838)
+- [Использование библиотеки spaCy для поиска сущностей в тексте](https://habr.com/ru/articles/976600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
