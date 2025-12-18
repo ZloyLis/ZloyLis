@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экспериментальная система skills в OpenAI Codex: как агент учится пользоваться инструментами](https://habr.com/ru/articles/978148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978148)
 - [Настраиваем ИИ-помощника бесплатно и без вендорлока в IntelliJ IDEA, GoLand, WebStorm, OpenIDE и GigaIDE](https://habr.com/ru/companies/haulmont/articles/978172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978172)
 - [Кастомные свойства объектов БД PostgreSQL без патчей в ядро](https://habr.com/ru/companies/tantor/articles/976508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976508)
 - [Защита контейнеров изнутри: как работает первый российский open-source-инструмент для мониторинга рантайма](https://habr.com/ru/companies/pt/articles/977882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977882)
 - [Эволюция плеера RUTUBE: от монолита к гибким модулям](https://habr.com/ru/companies/habr_rutube/articles/977276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977276)
-- [«План б.», который сработал: как мы интегрировали Daisy в платформу Билайна](https://habr.com/ru/companies/redmadrobot/articles/978112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
