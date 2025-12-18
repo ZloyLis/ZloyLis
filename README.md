@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как Apple пропатчила «антеннагейт» в 20 байт](https://habr.com/ru/articles/978268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978268)
 - [Скорость vs качество: как находить баланс в дизайне при MVP-разработке](https://habr.com/ru/companies/kaspersky/articles/974562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974562)
 - [Метрики пользовательского опыта](https://habr.com/ru/articles/978208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978208)
 - [Экспериментальная система skills в OpenAI Codex: как агент учится пользоваться инструментами](https://habr.com/ru/articles/978148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978148)
 - [Настраиваем ИИ-помощника бесплатно и без вендорлока в IntelliJ IDEA, GoLand, WebStorm, OpenIDE и GigaIDE](https://habr.com/ru/companies/haulmont/articles/978172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978172)
-- [Кастомные свойства объектов БД PostgreSQL без патчей в ядро](https://habr.com/ru/companies/tantor/articles/976508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
