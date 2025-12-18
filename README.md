@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы перевернули подход к мобильным интерфейсам с Backend Driven UI](https://habr.com/ru/companies/whoosh/articles/977814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977814)
-- [В Kubernetes теперь можно совмещать hostNetwork: true и hostUsers: false и планировать поды группами. Обзор фич K8s 1.35](https://habr.com/ru/companies/flant/articles/976746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976746)
-- [Бесплатные и платные хостинги для сайтов на Next, React и JAMStack](https://habr.com/ru/companies/amvera/articles/976996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976996)
-- [EcoQuest: А кто это тут нагадил?](https://habr.com/ru/articles/977916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977916)
-- [Как я писал книгу «Python для инженерных задач»](https://habr.com/ru/articles/977864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977864)
+- [Почему ваши воронки вам лгут и как можно измерить ценность действий пользователя](https://habr.com/ru/articles/974188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974188)
+- [Образование и индустрия IT. Лично мое мнение по поводу образования как студента из Универа](https://habr.com/ru/articles/978012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978012)
+- [Управление проектом внедрения программных систем класса ERP](https://habr.com/ru/articles/977998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977998)
+- [Shadow Data в облаке: найти и обезвредить](https://habr.com/ru/companies/vktech/articles/972032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972032)
+- [Обзор Divoom Timegate для любителей кастомизации](https://habr.com/ru/companies/selectel/articles/975270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
