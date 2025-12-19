@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Intlayer: альтернатива @nuxt/i18n с фокусом на оптимизации бандла](https://habr.com/ru/articles/978564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978564)
+- [Адвент-календарь для тестировщиков 2025](https://habr.com/ru/articles/978558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978558)
 - [Идемпотентность в скриптах](https://habr.com/ru/articles/970894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970894)
+- [1000 и 1 способ сломать DevEx React — или почему я выбираю Svelte](https://habr.com/ru/companies/dalee_group/articles/977180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977180)
 - [[Перевод] Spring Boot наконец получил нативную поддержку gRPC](https://habr.com/ru/companies/spring_aio/articles/978418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978418)
-- [Как мы сделали альтернативную систему метчинга товаров в X5 Digital: опыт, грабли и результат](https://habr.com/ru/companies/X5Tech/articles/977626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977626)
-- [Сравнение ИИ моделей для создания аналога игры Battle City &lpar;1985&rpar;](https://habr.com/ru/articles/976252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976252)
-- [Эффективное управление рисками и несоответствиями: от формальностей к действиям](https://habr.com/ru/articles/978508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
