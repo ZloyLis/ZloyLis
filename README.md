@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] RAII в современном C++: как правильно организовать автоматическое управление ресурсами](https://habr.com/ru/companies/piter/articles/977658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977658)
 - [Инь и ян программирования или alter ego многопоточности](https://habr.com/ru/articles/978350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978350)
 - [Как реализовать свою чат-платформу?](https://habr.com/ru/articles/978342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978342)
 - [Взаимодействие джунов и AI-помощников](https://habr.com/ru/articles/978174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978174)
 - [[Перевод] Как Apple пропатчила «антеннагейт» в 20 байт](https://habr.com/ru/articles/978268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978268)
-- [Скорость vs качество: как находить баланс в дизайне при MVP-разработке](https://habr.com/ru/companies/kaspersky/articles/974562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
