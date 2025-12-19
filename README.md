@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Перестроили систему роста для 150 менеджеров аналитики: кейс Авито](https://habr.com/ru/companies/avito/articles/978496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978496)
+- [[Перевод] Реверсивная математика демонстрирует, почему сложные задачи сложны](https://habr.com/ru/articles/978632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978632)
+- [От ощущений к цифрам: как мы внедрили метрики перформанса в андроид приложение](https://habr.com/ru/articles/978170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978170)
+- [Как мы перестроили систему роста для 150 менеджеров аналитики: кейс Авито](https://habr.com/ru/companies/avito/articles/978496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978496)
 - [Как сэкономить при сдаче ISTQB экзамена &lpar;реальный опыт + цифры&rpar;](https://habr.com/ru/articles/978602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978602)
 - [Мебельный гвоздь в крышку гроба AGI](https://habr.com/ru/articles/977530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977530)
-- [Влияние селекторов CSS на скорость рендеринга web-приложения](https://habr.com/ru/companies/ozontech/articles/978392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978392)
-- [Intlayer: альтернатива @nuxt/i18n с фокусом на оптимизации бандла](https://habr.com/ru/articles/978564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
