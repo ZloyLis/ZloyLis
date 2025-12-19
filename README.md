@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Prompt Caching: токены LLM в 10 раз дешевле — но за счёт чего?](https://habr.com/ru/articles/978498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978498)
-- [[Перевод] Получаем красивый автомобильный номер при помощи TypeScript](https://habr.com/ru/articles/978478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978478)
-- [Электричество, проводимость и сверхпроводимость в виртуальной Вселенной](https://habr.com/ru/articles/978436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978436)
-- [Из опыта команды VK Видео: как мы оцениваем эффект от видеоконтента и при чём здесь propensity score](https://habr.com/ru/companies/vk/articles/978190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978190)
-- [[Перевод] Реализуем простой конвейер CI/CD с использованием GitOps и ArgoCD](https://habr.com/ru/companies/otus/articles/978234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978234)
+- [Идемпотентность в скриптах](https://habr.com/ru/articles/970894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970894)
+- [[Перевод] Spring Boot наконец получил нативную поддержку gRPC](https://habr.com/ru/companies/spring_aio/articles/978418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978418)
+- [Как мы сделали альтернативную систему метчинга товаров в X5 Digital: опыт, грабли и результат](https://habr.com/ru/companies/X5Tech/articles/977626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977626)
+- [Сравнение ИИ моделей для создания аналога игры Battle City &lpar;1985&rpar;](https://habr.com/ru/articles/976252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976252)
+- [Эффективное управление рисками и несоответствиями: от формальностей к действиям](https://habr.com/ru/articles/978508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
