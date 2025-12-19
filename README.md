@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Электричество, проводимость и сверхпроводимость в виртуальной Вселенной](https://habr.com/ru/articles/978436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978436)
+- [Из опыта команды VK Видео: как мы оцениваем эффект от видеоконтента и при чём здесь propensity score](https://habr.com/ru/companies/vk/articles/978190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978190)
+- [[Перевод] Реализуем простой конвейер CI/CD с использованием GitOps и ArgoCD](https://habr.com/ru/companies/otus/articles/978234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978234)
 - [[Перевод] RAII в современном C++: как правильно организовать автоматическое управление ресурсами](https://habr.com/ru/companies/piter/articles/977658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977658)
 - [Инь и ян программирования или alter ego многопоточности](https://habr.com/ru/articles/978350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978350)
-- [Как реализовать свою чат-платформу?](https://habr.com/ru/articles/978342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978342)
-- [Взаимодействие джунов и AI-помощников](https://habr.com/ru/articles/978174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978174)
-- [[Перевод] Как Apple пропатчила «антеннагейт» в 20 байт](https://habr.com/ru/articles/978268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
