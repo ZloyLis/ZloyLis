@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Перестроили систему роста для 150 менеджеров аналитики: кейс Авито](https://habr.com/ru/companies/avito/articles/978496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978496)
+- [Как сэкономить при сдаче ISTQB экзамена &lpar;реальный опыт + цифры&rpar;](https://habr.com/ru/articles/978602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978602)
+- [Мебельный гвоздь в крышку гроба AGI](https://habr.com/ru/articles/977530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977530)
+- [Влияние селекторов CSS на скорость рендеринга web-приложения](https://habr.com/ru/companies/ozontech/articles/978392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978392)
 - [Intlayer: альтернатива @nuxt/i18n с фокусом на оптимизации бандла](https://habr.com/ru/articles/978564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978564)
-- [Адвент-календарь для тестировщиков 2025](https://habr.com/ru/articles/978558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978558)
-- [Идемпотентность в скриптах](https://habr.com/ru/articles/970894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970894)
-- [1000 и 1 способ сломать DevEx React — или почему я выбираю Svelte](https://habr.com/ru/companies/dalee_group/articles/977180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977180)
-- [[Перевод] Spring Boot наконец получил нативную поддержку gRPC](https://habr.com/ru/companies/spring_aio/articles/978418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
