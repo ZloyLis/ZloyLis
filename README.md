@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного о диапазонных типах в PostgreSQL и их влиянии на производительность](https://habr.com/ru/articles/978932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978932)
 - [Security Awareness Week как инструмент развития киберкультуры](https://habr.com/ru/companies/kaspersky/articles/977290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977290)
 - [Искусственный Интеллект и дети](https://habr.com/ru/companies/timeweb/articles/976794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976794)
 - [Моё знакомство с процессором Эльбрус-8СВ. Оптимизирую сложение массива байтов](https://habr.com/ru/articles/978730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978730)
 - [[Перевод] Андрей Карпаты: итоги LLM-экосистемы за 2025 год](https://habr.com/ru/articles/978726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978726)
-- [[Перевод] Реверсивная математика демонстрирует, почему сложные задачи сложны](https://habr.com/ru/articles/978632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
