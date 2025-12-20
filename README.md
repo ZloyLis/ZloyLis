@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моё знакомство с процессором Эльбрус-8СВ. Оптимизирую сложение массива байтов](https://habr.com/ru/articles/978730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978730)
+- [[Перевод] Андрей Карпаты: итоги LLM-экосистемы за 2025 год](https://habr.com/ru/articles/978726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978726)
 - [[Перевод] Реверсивная математика демонстрирует, почему сложные задачи сложны](https://habr.com/ru/articles/978632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978632)
 - [От ощущений к цифрам: как мы внедрили метрики перформанса в андроид приложение](https://habr.com/ru/articles/978170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978170)
 - [Как мы перестроили систему роста для 150 менеджеров аналитики: кейс Авито](https://habr.com/ru/companies/avito/articles/978496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978496)
-- [Как сэкономить при сдаче ISTQB экзамена &lpar;реальный опыт + цифры&rpar;](https://habr.com/ru/articles/978602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978602)
-- [Мебельный гвоздь в крышку гроба AGI](https://habr.com/ru/articles/977530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
