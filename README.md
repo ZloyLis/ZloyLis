@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: заметка об Invoker Commands API](https://habr.com/ru/companies/timeweb/articles/972668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972668)
 - [CQRS на практике: как проектировать системы, которые не ломаются под нагрузкой](https://habr.com/ru/articles/979062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979062)
 - [SMS — это дыра, а мессенджеры — шпионы. Переходим на TOTP и повышаем безопасность за 5 минут](https://habr.com/ru/articles/978948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978948)
 - [shadcn-glass-ui: Glassmorphism поверх shadcn/ui без миграции](https://habr.com/ru/articles/979046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979046)
 - [Мобильная разработка за неделю #613 &lpar;15 — 21 декабря&rpar;](https://habr.com/ru/articles/979034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979034)
-- [Внедрение архитектуры: от хаоса к порядку](https://habr.com/ru/articles/978988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
