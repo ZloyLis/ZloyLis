@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #613 &lpar;15 — 21 декабря&rpar;](https://habr.com/ru/articles/979034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979034)
 - [Внедрение архитектуры: от хаоса к порядку](https://habr.com/ru/articles/978988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978988)
 - [[Перевод] В топку Live Coding. Он измеряет уровень стресса, а не навыки программирования](https://habr.com/ru/companies/ruvds/articles/978412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978412)
 - [Embedded SQL с группировкой запросов: элегантный подход к управлению SQL в Go](https://habr.com/ru/articles/978974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978974)
 - [«Liquid Glass» на iOS 16: шейдеры — легко, а скриншоты — боль](https://habr.com/ru/articles/978924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978924)
-- [Немного о диапазонных типах в PostgreSQL и их влиянии на производительность](https://habr.com/ru/articles/978932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
