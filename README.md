@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрение архитектуры: от хаоса к порядку](https://habr.com/ru/articles/978988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978988)
+- [[Перевод] В топку Live Coding. Он измеряет уровень стресса, а не навыки программирования](https://habr.com/ru/companies/ruvds/articles/978412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978412)
+- [Embedded SQL с группировкой запросов: элегантный подход к управлению SQL в Go](https://habr.com/ru/articles/978974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978974)
 - [«Liquid Glass» на iOS 16: шейдеры — легко, а скриншоты — боль](https://habr.com/ru/articles/978924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978924)
 - [Немного о диапазонных типах в PostgreSQL и их влиянии на производительность](https://habr.com/ru/articles/978932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978932)
-- [Security Awareness Week как инструмент развития киберкультуры](https://habr.com/ru/companies/kaspersky/articles/977290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977290)
-- [Искусственный Интеллект и дети](https://habr.com/ru/companies/timeweb/articles/976794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976794)
-- [Моё знакомство с процессором Эльбрус-8СВ. Оптимизирую сложение массива байтов](https://habr.com/ru/articles/978730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
