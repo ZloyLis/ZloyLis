@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как летает космическая ракета на примере СОЮЗ? Отвечаем методом струкутрного моделирования](https://habr.com/ru/articles/978928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978928)
+- [Sketch-Programming &lpar;LLM Транспайлер&rpar; — что это такое?](https://habr.com/ru/articles/978856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978856)
+- [Как летает космическая ракета &lpar;на примере РН Союз&rpar;? Отвечаем методом структурного моделирования](https://habr.com/ru/articles/978928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978928)
 - [Особенность использования расширения pg_variables в PostgreSQL 18](https://habr.com/ru/articles/979134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979134)
 - [Анализ 400k вакансий hh.ru: как мы строили пайплайн и какие тренды нашли](https://habr.com/ru/articles/979118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979118)
-- [JavaScript: заметка об Invoker Commands API](https://habr.com/ru/companies/timeweb/articles/972668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972668)
-- [CQRS на практике: как проектировать системы, которые не ломаются под нагрузкой](https://habr.com/ru/articles/979062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979062)
+- [Почему 90% торговых ботов умирают после первого деплоя](https://habr.com/ru/articles/979116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
