@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2552: что происходит после фишинговой атаки](https://habr.com/ru/companies/kaspersky/articles/979244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979244)
 - [DDD на пальцах: как перестать проектировать таблицы и начать думать о бизнесе](https://habr.com/ru/articles/979450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979450)
 - [[Перевод] Как ускорить MongoDB в Java: profiling, explain&lpar;&rpar;, индексация и антипаттерны](https://habr.com/ru/companies/spring_aio/articles/979440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979440)
 - [Вайбкодинг: от Unity до AI, или Почему мы ненавидим инструменты, которые снижают порог входа](https://habr.com/ru/articles/979416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979416)
 - [В 30 лет — на второй курс. Как поддержка семьи помогла сменить стройку на код](https://habr.com/ru/articles/979410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979410)
-- [Изучаем транспорт для ShadowSocks/XRAY: от «голубиной почты» до туннеля по WebRTC](https://habr.com/ru/articles/979406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
