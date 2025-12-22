@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Роутинг в BitrixFramework: учимся управлять маршрутизацией запросов](https://habr.com/ru/companies/bitrix/articles/978440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978440)
 - [Sketch-Programming &lpar;LLM Транспайлер&rpar; — что это такое?](https://habr.com/ru/articles/978856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978856)
 - [Как летает космическая ракета &lpar;на примере РН Союз&rpar;? Отвечаем методом структурного моделирования](https://habr.com/ru/articles/978928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978928)
 - [Особенность использования расширения pg_variables в PostgreSQL 18](https://habr.com/ru/articles/979134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979134)
 - [Анализ 400k вакансий hh.ru: как мы строили пайплайн и какие тренды нашли](https://habr.com/ru/articles/979118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979118)
-- [Почему 90% торговых ботов умирают после первого деплоя](https://habr.com/ru/articles/979116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979116)
 <!-- BLOG-POST-LIST:END -->
 
 ---
