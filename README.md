@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что сломается в вашем дне, если отключат интернет: реальная зависимость от сети и облаков](https://habr.com/ru/companies/finops_ru/articles/979340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979340)
+- [Интеграционный маршрут подарков на Новый год – чудо случится в срок](https://habr.com/ru/companies/usetech/articles/979338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979338)
+- [Как писать резюме в IT-сфере? Как даже хорошее резюме может терять отклики и что с этим делать?](https://habr.com/ru/articles/979306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979306)
+- [От требований к анализу показателей процесса к построению структуры данных](https://habr.com/ru/companies/otus/articles/978414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978414)
 - [Больше никаких «черных ящиков»: мониторим и оцениваем качество LLM-приложений с Langfuse](https://habr.com/ru/companies/yadro/articles/978516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978516)
-- [Замещение Pega, или Реинжиниринг онлайн](https://habr.com/ru/companies/sberbank/articles/977386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977386)
-- [Как я перестала искать карьеру и начала видеть систему: системные законы как компас в хаосе матричной структуры](https://habr.com/ru/companies/alfa/articles/977732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977732)
-- [[Перевод] Больше 1 млн запросов в секунду на Go: уроки продакшена](https://habr.com/ru/articles/978766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978766)
-- [DevOps в 2026 году и путь инженера к платформенной роли](https://habr.com/ru/companies/habr_career/articles/979270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
