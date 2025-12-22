@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Матрицы и векторы: решение систем линейных алгебраических уравнений](https://habr.com/ru/articles/979542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979542)
 - [Тот самый 19-летний «визионер»: показываю архитектуру своего AI-бота для микро-обучения &lpar;n8n + Supabase + OpenAI&rpar;](https://habr.com/ru/articles/979524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979524)
 - [Топ-8 сервисов и нейросетей для решения задач по фото](https://habr.com/ru/companies/bothub/articles/979518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979518)
 - [Хуки свойств в PHP: геттеры и сеттеры не нужны](https://habr.com/ru/companies/otus/articles/978500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978500)
 - [Security Week 2552: что происходит после фишинговой атаки](https://habr.com/ru/companies/kaspersky/articles/979244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979244)
-- [DDD на пальцах: как перестать проектировать таблицы и начать думать о бизнесе](https://habr.com/ru/articles/979450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
