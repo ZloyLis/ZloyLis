@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как писать нативные игры с OpenGL ES для игровой ретро-консоли Anbernic на C#](https://habr.com/ru/articles/979148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979148)
+- [Путь к мечте продолжается: как мне всё-таки сделали операцию и почему я не сдаюсь — ни в лечении, ни в IT](https://habr.com/ru/articles/979354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979354)
+- [[Перевод] Google убивает открытый веб](https://habr.com/ru/companies/ruvds/articles/977754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977754)
 - [Что сломается в вашем дне, если отключат интернет: реальная зависимость от сети и облаков](https://habr.com/ru/companies/finops_ru/articles/979340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979340)
-- [Интеграционный маршрут подарков на Новый год – чудо случится в срок](https://habr.com/ru/companies/usetech/articles/979338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979338)
-- [Как писать резюме в IT-сфере? Как даже хорошее резюме может терять отклики и что с этим делать?](https://habr.com/ru/articles/979306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979306)
-- [От требований к анализу показателей процесса к построению структуры данных](https://habr.com/ru/companies/otus/articles/978414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978414)
-- [Больше никаких «черных ящиков»: мониторим и оцениваем качество LLM-приложений с Langfuse](https://habr.com/ru/companies/yadro/articles/978516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978516)
+- [Интеграционный маршрут подарков на Новый год — чудо случится в срок](https://habr.com/ru/companies/usetech/articles/979338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
