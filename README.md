@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Всё, что нужно знать про аллокаторы в Rust &lpar;и как написать свой&rpar;](https://habr.com/ru/companies/beget/articles/977908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977908)
+- [Снепшот-тестирование SwiftUI View в legacy-проекте: обходим ограничения](https://habr.com/ru/companies/psb/articles/978374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978374)
 - [[Перевод] Почему код, сгенерированный ИИ, делает вас плохим программистом](https://habr.com/ru/articles/978784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978784)
 - [Книга «Основы Dart: Community edition» 2-е издание](https://habr.com/ru/articles/977028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977028)
 - [Роутинг в BitrixFramework: учимся управлять маршрутизацией запросов](https://habr.com/ru/companies/bitrix/articles/978440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978440)
-- [Sketch-Programming &lpar;LLM Транспайлер&rpar; — что это такое?](https://habr.com/ru/articles/978856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978856)
-- [Как летает космическая ракета &lpar;на примере РН Союз&rpar;? Отвечаем методом структурного моделирования](https://habr.com/ru/articles/978928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
