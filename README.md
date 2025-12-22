@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Manim: как создавать математические анимации в стиле 3Blue1Brown с помощью Python](https://habr.com/ru/articles/978902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978902)
-- [Архитектурный квиз: костыль или элегантное решение?](https://habr.com/ru/companies/oleg-bunin/articles/969692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969692)
-- [Всё, что нужно знать про аллокаторы в Rust &lpar;и как написать свой&rpar;](https://habr.com/ru/companies/beget/articles/977908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977908)
-- [Снепшот-тестирование SwiftUI View в legacy-проекте: обходим ограничения](https://habr.com/ru/companies/psb/articles/978374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978374)
-- [[Перевод] Почему код, сгенерированный ИИ, делает вас плохим программистом](https://habr.com/ru/articles/978784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978784)
+- [Хроники тестирования Data Quality](https://habr.com/ru/companies/simbirsoft/articles/978504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978504)
+- [Spring Boot — жажда скорости. CDS и разгон на старте](https://habr.com/ru/companies/haulmont/articles/978528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978528)
+- [[Перевод] CSS Grid Lanes: будущее masonry-раскладок в вебе](https://habr.com/ru/articles/978882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978882)
+- [[Перевод] Охота за недостающим типом данных: история о графах](https://habr.com/ru/articles/979220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979220)
+- [Как и зачем мы разработали систему анализа аномальных логов. Кейс MWS](https://habr.com/ru/companies/ru_mts/articles/977624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
