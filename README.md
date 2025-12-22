@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вайбкодинг: от Unity до AI, или Почему мы ненавидим инструменты, которые снижают порог входа](https://habr.com/ru/articles/979416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979416)
+- [В 30 лет — на второй курс. Как поддержка семьи помогла сменить стройку на код](https://habr.com/ru/articles/979410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979410)
+- [Изучаем транспорт для ShadowSocks/XRAY: от «голубиной почты» до туннеля по WebRTC](https://habr.com/ru/articles/979406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979406)
 - [Охота на слона: анатомия реалистичной атаки на крупный бизнес](https://habr.com/ru/companies/rvision/articles/978296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978296)
 - [Как мы создавали собственный шлюз прикладного уровня и вытеснили вендорское решение из ИТ-инфраструктуры банка](https://habr.com/ru/companies/sberbank/articles/977966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977966)
-- [[Перевод] Новое слово в CSS: Grid Lanes](https://habr.com/ru/articles/979374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979374)
-- [Как писать нативные игры с OpenGL ES для игровой ретро-консоли Anbernic на C#](https://habr.com/ru/articles/979148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979148)
-- [Путь к мечте продолжается: как мне всё-таки сделали операцию и почему я не сдаюсь — ни в лечении, ни в IT](https://habr.com/ru/articles/979354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
