@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Охота на слона: анатомия реалистичной атаки на крупный бизнес](https://habr.com/ru/companies/rvision/articles/978296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978296)
+- [Как мы создавали собственный шлюз прикладного уровня и вытеснили вендорское решение из ИТ-инфраструктуры банка](https://habr.com/ru/companies/sberbank/articles/977966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977966)
+- [[Перевод] Новое слово в CSS: Grid Lanes](https://habr.com/ru/articles/979374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979374)
 - [Как писать нативные игры с OpenGL ES для игровой ретро-консоли Anbernic на C#](https://habr.com/ru/articles/979148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979148)
 - [Путь к мечте продолжается: как мне всё-таки сделали операцию и почему я не сдаюсь — ни в лечении, ни в IT](https://habr.com/ru/articles/979354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979354)
-- [[Перевод] Google убивает открытый веб](https://habr.com/ru/companies/ruvds/articles/977754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977754)
-- [Что сломается в вашем дне, если отключат интернет: реальная зависимость от сети и облаков](https://habr.com/ru/companies/finops_ru/articles/979340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979340)
-- [Интеграционный маршрут подарков на Новый год — чудо случится в срок](https://habr.com/ru/companies/usetech/articles/979338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
