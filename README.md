@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Больше никаких «черных ящиков»: мониторим и оцениваем качество LLM-приложений с Langfuse](https://habr.com/ru/companies/yadro/articles/978516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978516)
+- [Замещение Pega, или Реинжиниринг онлайн](https://habr.com/ru/companies/sberbank/articles/977386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977386)
+- [Как я перестала искать карьеру и начала видеть систему: системные законы как компас в хаосе матричной структуры](https://habr.com/ru/companies/alfa/articles/977732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977732)
+- [[Перевод] Больше 1 млн запросов в секунду на Go: уроки продакшена](https://habr.com/ru/articles/978766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978766)
 - [DevOps в 2026 году и путь инженера к платформенной роли](https://habr.com/ru/companies/habr_career/articles/979270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979270)
-- [Хроники тестирования Data Quality](https://habr.com/ru/companies/simbirsoft/articles/978504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978504)
-- [Spring Boot — жажда скорости. CDS и разгон на старте](https://habr.com/ru/companies/haulmont/articles/978528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978528)
-- [[Перевод] CSS Grid Lanes: будущее masonry-раскладок в вебе](https://habr.com/ru/articles/978882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978882)
-- [[Перевод] Охота за недостающим типом данных: история о графах](https://habr.com/ru/articles/979220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
