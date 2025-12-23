@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Лучшие нейросети для работы и творчества в 2026 году](https://habr.com/ru/companies/ggsel/articles/979714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979714)
-- [Новая реальность бэкенда или что для меня изменилось с конца 2023 года](https://habr.com/ru/articles/979698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979698)
-- [Создание легкого shell на си](https://habr.com/ru/articles/979674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979674)
-- [[Перевод] [Обзор книги] System Design. Подготовка к сложному интервью [Часть 1 &amp;amp; Часть 2]](https://habr.com/ru/companies/piter/articles/979654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979654)
-- [BPMN для аналитиков и тимлидов &lpar;часть 2&rpar;](https://habr.com/ru/articles/979526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979526)
+- [Обновление T-Pro 2.1: как мы улучшили Instruction Following и Tool Calling](https://habr.com/ru/companies/tbank/articles/979650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979650)
+- [ty: революция в тайп-чекинге](https://habr.com/ru/articles/979752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979752)
+- [Теория групп для всех: пульт для управления реальностью прямо из палаты](https://habr.com/ru/articles/979748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979748)
+- [Как тестировщику написать bug report на английском](https://habr.com/ru/articles/979198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979198)
+- [Классы в Python: от основ ООП до продвинутых концепций](https://habr.com/ru/companies/netologyru/articles/979196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
