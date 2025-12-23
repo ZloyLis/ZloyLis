@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рендер-функции и Teleport в Vue.js](https://habr.com/ru/companies/otus/articles/978308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978308)
-- [[Перевод] Поддержка LSP в Claude Code: возможности, настройка и текущие проблемы](https://habr.com/ru/articles/979506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979506)
-- [Module Federation на примере фишинга](https://habr.com/ru/articles/979242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979242)
-- [Аудит процессного долга: инженерный поиск потерь на стыке IT и бизнеса](https://habr.com/ru/articles/979560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979560)
-- [Patroni и логическая реплика в PostgreSQL: как не потерять данные при failover’е](https://habr.com/ru/companies/flant/articles/978322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978322)
+- [Opex и Capex-затраты на внедрение и поддержку ERP-систем](https://habr.com/ru/articles/979386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979386)
+- [Азбука тензорных сетей, часть 2: тензорный поезд из кружочков и палочек](https://habr.com/ru/companies/cloud_ru/articles/977806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977806)
+- [Как я нашёл уязвимость в JavaScript-движке, или Почему корень из нуля чуть не сломал браузеры](https://habr.com/ru/companies/yandex/articles/976762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976762)
+- [Как победить в игре «Быки и коровы» с помощью теории информации](https://habr.com/ru/companies/lanit/articles/975192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975192)
+- [Как In.Plan помог нам с планом](https://habr.com/ru/companies/nlmk/articles/977168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
