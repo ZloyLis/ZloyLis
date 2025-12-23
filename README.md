@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«У нас всё отлично»: как поверхностный аудит выявляет архитектурные риски на ранних этапах](https://habr.com/ru/articles/979850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979850)
 - [Мультиплексирование: от основ до сложных сценариев](https://habr.com/ru/articles/979818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979818)
 - [Аналитическая инфраструктура для сбора и исследования данных Steam: архитектура, пайплайны, результаты](https://habr.com/ru/articles/979792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979792)
 - [Dynamic в C#: когда использовать](https://habr.com/ru/companies/otus/articles/978302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978302)
 - [Ловушка профилирования](https://habr.com/ru/articles/979778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979778)
-- [Обновление T-Pro 2.1: как мы улучшили Instruction Following и Tool Calling](https://habr.com/ru/companies/tbank/articles/979650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
