@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аудит процессного долга: инженерный поиск потерь на стыке IT и бизнеса](https://habr.com/ru/articles/979560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979560)
+- [Patroni и логическая реплика в PostgreSQL: как не потерять данные при failover’е](https://habr.com/ru/companies/flant/articles/978322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978322)
 - [Reinforcement Learning: Policy gradient methods](https://habr.com/ru/articles/979394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979394)
 - [Матрицы и векторы: решение систем линейных алгебраических уравнений](https://habr.com/ru/articles/979542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979542)
 - [Тот самый 19-летний «визионер»: показываю архитектуру своего AI-бота для микро-обучения &lpar;n8n + Supabase + OpenAI&rpar;](https://habr.com/ru/articles/979524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979524)
-- [Топ-8 сервисов и нейросетей для решения задач по фото](https://habr.com/ru/companies/bothub/articles/979518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979518)
-- [Хуки свойств в PHP: геттеры и сеттеры не нужны](https://habr.com/ru/companies/otus/articles/978500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
