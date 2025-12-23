@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Opex и Capex-затраты на внедрение и поддержку ERP-систем](https://habr.com/ru/articles/979386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979386)
-- [Азбука тензорных сетей, часть 2: тензорный поезд из кружочков и палочек](https://habr.com/ru/companies/cloud_ru/articles/977806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977806)
-- [Как я нашёл уязвимость в JavaScript-движке, или Почему корень из нуля чуть не сломал браузеры](https://habr.com/ru/companies/yandex/articles/976762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976762)
-- [Как победить в игре «Быки и коровы» с помощью теории информации](https://habr.com/ru/companies/lanit/articles/975192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975192)
-- [Как In.Plan помог нам с планом](https://habr.com/ru/companies/nlmk/articles/977168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977168)
+- [WebSockets vs HTTP: Как устроена двусторонняя связь в вебе](https://habr.com/ru/articles/979614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979614)
+- [Вооружаемся. iOS Пентест. Часть вторая](https://habr.com/ru/companies/technokratos/articles/979608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979608)
+- [Фантастические трюки на языке C](https://habr.com/ru/companies/timeweb/articles/971962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971962)
+- [Формат данных на C++, который не боится рефакторинга](https://habr.com/ru/articles/978216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978216)
+- [Подборка атак через библиотеки: CVE в React Native и не только](https://habr.com/ru/companies/selectel/articles/979572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
