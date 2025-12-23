@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовимся к экзамену в ШАД: разбор задач по линейной алгебре последних лет](https://habr.com/ru/articles/979642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979642)
+- [Нейробиология в дизайне: как минималистичный UI снижает когнитивную нагрузку](https://habr.com/ru/companies/clevertec/articles/977430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977430)
+- [Живая документация проекта через VS Code + Codex + Memory Bank](https://habr.com/ru/articles/979624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979624)
 - [WebSockets vs HTTP: Как устроена двусторонняя связь в вебе](https://habr.com/ru/articles/979614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979614)
 - [Вооружаемся. iOS Пентест. Часть вторая](https://habr.com/ru/companies/technokratos/articles/979608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979608)
-- [Фантастические трюки на языке C](https://habr.com/ru/companies/timeweb/articles/971962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971962)
-- [Формат данных на C++, который не боится рефакторинга](https://habr.com/ru/articles/978216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978216)
-- [Подборка атак через библиотеки: CVE в React Native и не только](https://habr.com/ru/companies/selectel/articles/979572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
