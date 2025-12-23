@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитическая инфраструктура для сбора и исследования данных Steam: архитектура, пайплайны, результаты](https://habr.com/ru/articles/979792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979792)
+- [Dynamic в C#: когда использовать](https://habr.com/ru/companies/otus/articles/978302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978302)
+- [Ловушка профилирования](https://habr.com/ru/articles/979778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979778)
 - [Обновление T-Pro 2.1: как мы улучшили Instruction Following и Tool Calling](https://habr.com/ru/companies/tbank/articles/979650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979650)
 - [ty: революция в тайп-чекинге](https://habr.com/ru/articles/979752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979752)
-- [Теория групп для всех: пульт для управления реальностью прямо из палаты](https://habr.com/ru/articles/979748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979748)
-- [Как тестировщику написать bug report на английском](https://habr.com/ru/articles/979198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979198)
-- [Классы в Python: от основ ООП до продвинутых концепций](https://habr.com/ru/companies/netologyru/articles/979196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
