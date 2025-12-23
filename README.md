@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание легкого shell на си](https://habr.com/ru/articles/979674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979674)
+- [[Перевод] [Обзор книги] System Design. Подготовка к сложному интервью [Часть 1 &amp;amp; Часть 2]](https://habr.com/ru/companies/piter/articles/979654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979654)
+- [BPMN для аналитиков и тимлидов &lpar;часть 2&rpar;](https://habr.com/ru/articles/979526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979526)
 - [Готовимся к экзамену в ШАД: разбор задач по линейной алгебре последних лет](https://habr.com/ru/articles/979642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979642)
 - [Нейробиология в дизайне: как минималистичный UI снижает когнитивную нагрузку](https://habr.com/ru/companies/clevertec/articles/977430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977430)
-- [Живая документация проекта через VS Code + Codex + Memory Bank](https://habr.com/ru/articles/979624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979624)
-- [WebSockets vs HTTP: Как устроена двусторонняя связь в вебе](https://habr.com/ru/articles/979614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979614)
-- [Вооружаемся. iOS Пентест. Часть вторая](https://habr.com/ru/companies/technokratos/articles/979608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
