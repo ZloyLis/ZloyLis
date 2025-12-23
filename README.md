@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рендер-функции и Teleport в Vue.js](https://habr.com/ru/companies/otus/articles/978308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978308)
+- [[Перевод] Поддержка LSP в Claude Code: возможности, настройка и текущие проблемы](https://habr.com/ru/articles/979506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979506)
+- [Module Federation на примере фишинга](https://habr.com/ru/articles/979242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979242)
 - [Аудит процессного долга: инженерный поиск потерь на стыке IT и бизнеса](https://habr.com/ru/articles/979560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979560)
 - [Patroni и логическая реплика в PostgreSQL: как не потерять данные при failover’е](https://habr.com/ru/companies/flant/articles/978322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978322)
-- [Reinforcement Learning: Policy gradient methods](https://habr.com/ru/articles/979394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979394)
-- [Матрицы и векторы: решение систем линейных алгебраических уравнений](https://habr.com/ru/articles/979542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979542)
-- [Тот самый 19-летний «визионер»: показываю архитектуру своего AI-бота для микро-обучения &lpar;n8n + Supabase + OpenAI&rpar;](https://habr.com/ru/articles/979524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
