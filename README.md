@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нефункциональные требования. Список, который вспоминают в последний день перед релизом. Часть 3, заключительная](https://habr.com/ru/companies/otus/articles/978772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978772)
+- [Диалог пользователь — ИИ. Часть 1](https://habr.com/ru/articles/979886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979886)
 - [Мечтают ли Архитекторы об электроовцах?](https://habr.com/ru/articles/979892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979892)
 - [Теги структур — худшее что есть в go](https://habr.com/ru/articles/979878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979878)
 - [«У нас всё отлично»: как поверхностный аудит выявляет архитектурные риски на ранних этапах](https://habr.com/ru/articles/979850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979850)
-- [Мультиплексирование: от основ до сложных сценариев](https://habr.com/ru/articles/979818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979818)
-- [Аналитическая инфраструктура для сбора и исследования данных Steam: архитектура, пайплайны, результаты](https://habr.com/ru/articles/979792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
