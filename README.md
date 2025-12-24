@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Надежное программирование — часть 6. Неудачники, выросшие и перспективные языки](https://habr.com/ru/articles/980288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980288)
+- [JSDocs в VSCode](https://habr.com/ru/articles/980286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980286)
+- [Как я навайбкодил сервис генерации диаграмм: 2 недели от идеи до реализации](https://habr.com/ru/articles/980282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980282)
 - [Стек начинающего дата-сайентиста в 2026: инструменты для роста](https://habr.com/ru/companies/pgk/articles/979688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979688)
 - [Как информационная служба Хабра провела 2025 год](https://habr.com/ru/articles/972484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972484)
-- [[Перевод] Почему Java Streams тормозят, даже когда ядер много](https://habr.com/ru/companies/spring_aio/articles/980220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980220)
-- [Разделяй и тестируй: @DataJpaTest и @WebMvcTest для быстрых тестов Spring Boot](https://habr.com/ru/companies/otus/articles/978616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978616)
-- [Индикация раскладки клавиатуры подсветкой — решение для GNOME](https://habr.com/ru/articles/979382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
