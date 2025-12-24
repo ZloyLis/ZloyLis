@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стек начинающего дата-сайентиста в 2026: инструменты для роста](https://habr.com/ru/companies/pgk/articles/979688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979688)
+- [Как информационная служба Хабра провела 2025 год](https://habr.com/ru/articles/972484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972484)
 - [[Перевод] Почему Java Streams тормозят, даже когда ядер много](https://habr.com/ru/companies/spring_aio/articles/980220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980220)
 - [Разделяй и тестируй: @DataJpaTest и @WebMvcTest для быстрых тестов Spring Boot](https://habr.com/ru/companies/otus/articles/978616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978616)
 - [Индикация раскладки клавиатуры подсветкой — решение для GNOME](https://habr.com/ru/articles/979382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979382)
-- [Основные тенденции и векторы роста промышленных сетей в 2026 году](https://habr.com/ru/articles/980180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980180)
-- [Основы оптического потока в ML: от первых принципов к уравнениям Лукаса-Канаде и Хорна-Шанка](https://habr.com/ru/articles/980208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
