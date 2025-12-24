@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ассемблер для гоферов. Стек. Особенности amd64, arm64 и arm. Часть 3](https://habr.com/ru/companies/ruvds/articles/979326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979326)
-- [Тепловизор для разработчика: подсвечиваем рекомпозиции прямо в коде](https://habr.com/ru/companies/yandex/articles/978126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978126)
-- [Почему 1С тормозит: гид для руководителя, который хочет говорить с ИТ-отделом на одном языке](https://habr.com/ru/articles/978048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978048)
-- [Как запускать PostgreSQL прямо из бэкапа без restore: FUSE и точечный флэшбэк через postgres_fdw](https://habr.com/ru/companies/sberbank/articles/977804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977804)
-- [SQL HowTo: трассировка и подсчет путей &lpar;Advent of Code 2025, Day 7: Laboratories&rpar;](https://habr.com/ru/companies/tensor/articles/979946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979946)
+- [Как мы учили ИИ тушить инциденты вместо нас  &lpar;что из этого вышло&rpar;](https://habr.com/ru/articles/980032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980032)
+- [От квантового программирования до операционных систем для паяльников: итоги грантовой программы «Код без границ»](https://habr.com/ru/specials/979702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979702)
+- [Разговор о творчестве и дизайне](https://habr.com/ru/articles/979342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979342)
+- [Анализ влияния checkpoint_timeout на производительность СУБД PostgreSQL при синтетической нагрузке](https://habr.com/ru/articles/980000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980000)
+- [[Перевод] Go, cgo и Docker: практичная кросс-платформенная сборка](https://habr.com/ru/articles/978754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
