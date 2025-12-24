@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [35 млн рублей, акции Tesla и 4 млн пользователей. Продуктовый разбор игровой акции GiftFest](https://habr.com/ru/articles/979604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979604)
+- [[Перевод] Ёлочная игрушка, на которой запустили Doom](https://habr.com/ru/companies/ruvds/articles/978176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978176)
+- [Игра года глазами гейм-дизайнера — White Knuckle. &lpar;Кейс-Стади&rpar;](https://habr.com/ru/articles/980154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980154)
 - [Пишем на С++ 23 под Windows 95, не вызывая подозрение у санитаров](https://habr.com/ru/articles/980092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980092)
 - [Случай на корпоративе](https://habr.com/ru/articles/980124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980124)
-- [Тренды в ИТ: 2026](https://habr.com/ru/companies/usetech/articles/980110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980110)
-- [Нейроучитель — NeuroTeacher](https://habr.com/ru/articles/980108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980108)
-- [Eventually-consistent СУБД — всё?](https://habr.com/ru/articles/980082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
