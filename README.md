@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем на С++ 23 под Windows 95, не вызывая подозрение у санитаров](https://habr.com/ru/articles/980092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980092)
+- [Случай на корпоративе](https://habr.com/ru/articles/980124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980124)
+- [Тренды в ИТ: 2026](https://habr.com/ru/companies/usetech/articles/980110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980110)
+- [Нейроучитель — NeuroTeacher](https://habr.com/ru/articles/980108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980108)
 - [Eventually-consistent СУБД — всё?](https://habr.com/ru/articles/980082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980082)
-- [Развитие языка программирования Ü в 2025-м году](https://habr.com/ru/articles/979282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979282)
-- [Spring MCP, лучший HTTP-клиент и поддержка MyBatis](https://habr.com/ru/companies/haulmont/articles/980066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980066)
-- [[Перевод] 5 ключевых изменений в Python 3.14 глазами инженера](https://habr.com/ru/articles/978836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978836)
-- [[Перевод] Ваша работа — выпускать код, который доказанно работает](https://habr.com/ru/articles/980006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
