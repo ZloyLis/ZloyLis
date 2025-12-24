@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 5 ключевых изменений в Python 3.14 глазами инженера](https://habr.com/ru/articles/978836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978836)
+- [[Перевод] Ваша работа — выпускать код, который доказанно работает](https://habr.com/ru/articles/980006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980006)
 - [Как мы учили ИИ тушить инциденты вместо нас  &lpar;что из этого вышло&rpar;](https://habr.com/ru/articles/980032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980032)
 - [От квантового программирования до операционных систем для паяльников: итоги грантовой программы «Код без границ»](https://habr.com/ru/specials/979702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979702)
 - [Разговор о творчестве и дизайне](https://habr.com/ru/articles/979342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979342)
-- [Анализ влияния checkpoint_timeout на производительность СУБД PostgreSQL при синтетической нагрузке](https://habr.com/ru/articles/980000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980000)
-- [[Перевод] Go, cgo и Docker: практичная кросс-платформенная сборка](https://habr.com/ru/articles/978754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
