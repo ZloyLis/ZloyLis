@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему стандарт должен быть выше проекта](https://habr.com/ru/articles/979896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979896)
 - [Нефункциональные требования. Список, который вспоминают в последний день перед релизом. Часть 3, заключительная](https://habr.com/ru/companies/otus/articles/978772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978772)
 - [Диалог пользователь — ИИ. Часть 1](https://habr.com/ru/articles/979886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979886)
 - [Мечтают ли Архитекторы об электроовцах?](https://habr.com/ru/articles/979892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979892)
 - [Теги структур — худшее что есть в go](https://habr.com/ru/articles/979878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979878)
-- [«У нас всё отлично»: как поверхностный аудит выявляет архитектурные риски на ранних этапах](https://habr.com/ru/articles/979850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
