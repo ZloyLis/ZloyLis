@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ассемблер для гоферов. Стек. Особенности amd64, arm64 и arm. Часть 3](https://habr.com/ru/companies/ruvds/articles/979326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979326)
+- [Тепловизор для разработчика: подсвечиваем рекомпозиции прямо в коде](https://habr.com/ru/companies/yandex/articles/978126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978126)
+- [Почему 1С тормозит: гид для руководителя, который хочет говорить с ИТ-отделом на одном языке](https://habr.com/ru/articles/978048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978048)
+- [Как запускать PostgreSQL прямо из бэкапа без restore: FUSE и точечный флэшбэк через postgres_fdw](https://habr.com/ru/companies/sberbank/articles/977804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977804)
 - [SQL HowTo: трассировка и подсчет путей &lpar;Advent of Code 2025, Day 7: Laboratories&rpar;](https://habr.com/ru/companies/tensor/articles/979946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979946)
-- [Почему стандарт должен быть выше проекта](https://habr.com/ru/articles/979896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979896)
-- [Нефункциональные требования. Список, который вспоминают в последний день перед релизом. Часть 3, заключительная](https://habr.com/ru/companies/otus/articles/978772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978772)
-- [Диалог пользователь — ИИ. Часть 1](https://habr.com/ru/articles/979886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979886)
-- [Мечтают ли Архитекторы об электроовцах?](https://habr.com/ru/articles/979892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
