@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL HowTo: трассировка и подсчет путей &lpar;Advent of Code 2025, Day 7: Laboratories&rpar;](https://habr.com/ru/companies/tensor/articles/979946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979946)
 - [Почему стандарт должен быть выше проекта](https://habr.com/ru/articles/979896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979896)
 - [Нефункциональные требования. Список, который вспоминают в последний день перед релизом. Часть 3, заключительная](https://habr.com/ru/companies/otus/articles/978772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978772)
 - [Диалог пользователь — ИИ. Часть 1](https://habr.com/ru/articles/979886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979886)
 - [Мечтают ли Архитекторы об электроовцах?](https://habr.com/ru/articles/979892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979892)
-- [Теги структур — худшее что есть в go](https://habr.com/ru/articles/979878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
